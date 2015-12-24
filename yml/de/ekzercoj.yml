@@ -33,3 +33,39 @@
            - la: dem 
            - ĉambro: Zimmer
            - '?'
+       - 
+         demando: Arbeitet der Freund deines Vaters in einem Hotel?
+         rektatraduko:
+           - Ĉu: Ob
+           - la: der
+           - amiko: Freund
+           - de: von
+           - via: deinem
+           - patro: Vater
+           - laboras: arbeitet
+           - en: in
+           - hotelo: Hotel
+           - '?'
+       - 
+         demando: Was ist auf dem Arbeitstisch in unserem Zimmer?
+         rektatraduko:
+           - Kio: Was 
+           - estas: ist
+           - sur: auf
+           - la: dem
+           - labortablo: Arbeitstisch
+           - en: in
+           - nia: unserem
+           - ĉambro: Zimmer
+           - '?'
+       - 
+         demando: Ist ein Esperanto-Lernbuch auf deinem Tisch?
+         rektatraduko:
+           - Ĉu: Ob
+           - Esperanto-lernolibro: Esperanto-Lernbuch 
+           - estas: ist 
+           - sur: auf
+           - via: deinem 
+           - tablo: Tisch
+           - '?'
+     

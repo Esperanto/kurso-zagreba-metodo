@@ -1,0 +1,35 @@
+1:
+  1:
+    'Traduku':
+      - amikino: Freundin
+      - labortablo: Arbeitstisch
+      - esperantistino: Esperantistin
+      - instruisto: Lehrer
+      - hotelĉambro: Hotelzimmer
+      - enskribi: einschreiben
+      - skribotablo: Schreibtisch
+      - lingvisto: Linguist
+      - laboristino: Arbeiterin
+  3:
+    'Traduku kaj respondu':
+       - 
+         demando: Wer ist deine Freundin?
+         rektatraduko:
+           - Kiu: Wer
+           - estas: ist
+           - via: deine
+           - amikino: Freundin
+           - '?'
+       - 
+         demando: Schreibt deine Freundin Anna jetzt im Zimmer?
+         rektatraduko:
+           - Ĉu: Ob
+           - via: deine
+           - amikino: Freundin
+           - Anna: Anna
+           - skribas: schreibt
+           - nun: jetzt
+           - en: in
+           - la: dem 
+           - ĉambro: Zimmer
+           - '?'

@@ -1,10 +1,49 @@
 2:
   'Kompletigu la frazojn':
-    - Marko estas en la (ĉambro).
-    - (Li) sidas sur seĝo.
-    - Instruisto (instruas). Laboristo (laboras). Lernanto (lernas).
-    - Marko kaj Ivo estas lernant(oj) kaj sportist(oj).
-    - La patro (de) Marko estas instruisto.
-    - La seĝo estas en (la) ĉambro.
-    - La libro estas li(a).
-    - Mia nomo est(as) Marko.
+    - 
+      - videbla: Marko estas en la 
+      - videbla: 
+      - solvo: ĉambro
+      - videbla: .
+    - 
+      - solvo: Li
+      - videbla: 
+      - videbla: sidas sur seĝo.
+    - 
+      - videbla: Instruisto 
+      - solvo: instruas
+      - videbla: . Laboristo 
+      - videbla: 
+      - solvo: laboras
+      - videbla: . Lernanto 
+      - videbla: 
+      - solvo: lernas
+      - videbla: .
+    - 
+      - videbla: Marko kaj Ivo estas lernant
+      - solvo: oj
+      - videbla: 
+      - videbla: kaj sportist
+      - solvo: oj
+      - videbla: '.'
+    - 
+      - videbla: La patro 
+      - videbla: 
+      - solvo: de 
+      - videbla: 
+      - videbla: Marko estas instruisto.
+    - 
+      - videbla: La seĝo estas en 
+      - videbla: 
+      - solvo: la 
+      - videbla: 
+      - videbla: ĉambro.
+    - 
+      - videbla: La libro estas li
+      - solvo:   a
+      - videbla: .
+    - 
+      - videbla: Mia nomo est
+      - solvo: as
+      - videbla: 
+      - videbla: Marko.

@@ -1,0 +1,11 @@
+{% for leciono in lecionoj %}
+
+<h2>
+{% for vorto in leciono.teksto.titolo %}
+  {% if vorto  %}
+    {% for radiko in vorto %}<span title="{{ radiko }}">{{ radiko }}</span>{% endfor %}
+  {% endif %} 
+{% endfor %}
+</h2>
+
+{% endfor %}

@@ -43,6 +43,6 @@ for i in range(1,2):
     lecionoj.append(leciono)
 
 
-pp(lecionoj)
+#pp(lecionoj)
 
-
+print jinja2.Environment(trim_blocks=True,loader=jinja2.FileSystemLoader('html/templates/')).get_template('index.html').render(lecionoj=lecionoj)

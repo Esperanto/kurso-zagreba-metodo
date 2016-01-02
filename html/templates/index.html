@@ -28,4 +28,21 @@
     {% endfor %}
   {% endfor %}
 
+  <h3>Ekzercoj</h3>
+  {% for ekzerco in leciono.ekzercoj %}
+    {% for tasko,eroj in ekzerco.items() %}
+      <h4> {{tasko}} </h4>
+      {% if tasko == 'Traduku'  %}
+        <dl>
+          {% for ero in eroj %}
+            {% for esperante,fontlingve in ero.items() %}
+            <dt>{{fontlingve}}:</dt> <dd><input value="{{esperante}}"/></dd>
+            {% endfor %}
+          {% endfor %}
+        </dl>
+      {% endif %} 
+    {% endfor %}
+  {% endfor %}
+
+
 {% endfor %}

@@ -3,6 +3,8 @@
 import yaml
 import jinja2
 import pprint
+import markdown
+
 
 def pp(data):
     pp = pprint.PrettyPrinter(indent=4)
@@ -45,4 +47,13 @@ for i in range(1,2):
 
 #pp(lecionoj)
 
-print jinja2.Environment(trim_blocks=True,loader=jinja2.FileSystemLoader('html/templates/')).get_template('index.html').render(lecionoj=lecionoj)
+md = markdown.Markdown(extensions=['meta'])
+
+env = jinja2.Environment()
+env.filters['markdown'] = lambda text: jinja2.Markup(md.convert(text))
+env.trim_blocks = True
+env.lstrip_blocks = True
+env.loader=jinja2.FileSystemLoader('html/templates/')
+
+rendered = env.get_template('index.html').render(lecionoj=lecionoj)
+print rendered.encode('utf-8')

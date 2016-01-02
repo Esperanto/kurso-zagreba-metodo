@@ -19,4 +19,13 @@
     {%- endfor %}
   </p>
   {% endfor %}
+
+  <h3>Gramatiko</h3>
+  {% for paragrafo in leciono.gramatiko %}
+    {% for titolo,klarigo in paragrafo.items() %}
+      <h4> {{titolo}} </h4>
+      {{klarigo|markdown}} 
+    {% endfor %}
+  {% endfor %}
+
 {% endfor %}

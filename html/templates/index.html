@@ -1,11 +1,21 @@
 {% for leciono in lecionoj %}
-
-<h2>
-{% for vorto in leciono.teksto.titolo %}
-  {% if vorto  %}
-    {% for radiko in vorto %}<span title="{{ radiko }}">{{ radiko }}</span>{% endfor %}
-  {% endif %} 
-{% endfor %}
-</h2>
-
+  <h2>
+  {% for vorto in leciono.teksto.titolo %}
+    {% if vorto  %}
+      {% for radiko in vorto %}<span title="{{ radiko }}">{{ radiko }}</span>{% endfor %}
+    {% endif %} 
+  {% endfor %}
+  </h2>
+  {% for paragrafo in leciono.teksto.paragrafoj %}
+  <p>
+    {% for vorto in paragrafo -%}
+      {% if vorto  -%}
+        {% for radiko in vorto -%}
+          <span title="{{ radiko }}">{{ radiko }}</span>
+        {%- endfor %}
+      {%- else %} 
+      {% endif %} 
+    {%- endfor %}
+  </p>
+  {% endfor %}
 {% endfor %}

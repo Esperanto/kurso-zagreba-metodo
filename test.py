@@ -19,16 +19,16 @@ for i in range(1,2):
     }
     i_padded = str(i).zfill(2)
 
-    filename = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
+    filename = 'lecionoj/netradukenda/tekstoj/' + i_padded + '.yml'
     leciono['teksto'] = yaml.load(file(filename, 'r'))
 
-    filename = 'enhavo/tradukenda/de/gramatiko/' + i_padded + '.yml'
+    filename = 'lecionoj/tradukenda/de/gramatiko/' + i_padded + '.yml'
     leciono['gramatiko'] = yaml.load(file(filename, 'r'))
 
-    filename = 'enhavo/tradukenda/de/ekzercoj/' + i_padded + '.yml'
+    filename = 'lecionoj/tradukenda/de/ekzercoj/' + i_padded + '.yml'
     ekzercoj1 = yaml.load(file(filename, 'r'))
 
-    filename = 'enhavo/netradukenda/ekzercoj/' + i_padded + '.yml'
+    filename = 'lecionoj/netradukenda/ekzercoj/' + i_padded + '.yml'
     ekzercoj2 = yaml.load(file(filename, 'r'))
 
     # Merge ekzercoj.

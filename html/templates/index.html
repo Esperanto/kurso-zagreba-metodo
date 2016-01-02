@@ -3,7 +3,7 @@
     {{loop.index}}.
     {% for vorto in leciono.teksto.titolo %}
       {% if vorto  %}
-        {% for radiko in vorto %}<span title="{{ radiko }}">{{ radiko }}</span>{% endfor %}
+        {% for radiko in vorto %}<a href="#" title="{{ radiko }}">{{ radiko }}</a>{% endfor %}
       {% endif %} 
     {% endfor %}
   </h2>
@@ -12,7 +12,7 @@
     {% for vorto in paragrafo -%}
       {% if vorto  -%}
         {% for radiko in vorto -%}
-          <span title="{{ radiko }}">{{ radiko }}</span>
+          <a href="#" title="{{ radiko }}">{{ radiko }}</a>
         {%- endfor %}
       {%- else %} 
       {% endif %} 

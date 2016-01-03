@@ -30,16 +30,35 @@
 
   <h3>Ekzercoj</h3>
   {% for ekzerco in leciono.ekzercoj %}
-    {% for tasko,eroj in ekzerco.items() %}
+    {% for tasko,vicoj in ekzerco.items() %}
       <h4> {{tasko}} </h4>
-      {% if tasko == 'Traduku'  %}
+      {% if tasko == 'Traduku' %}
         <dl>
-          {% for ero in eroj %}
-            {% for esperante,fontlingve in ero.items() %}
+          {% for vico in vicoj %}
+            {% for esperante,fontlingve in vico.items() %}
             <dt>{{fontlingve}}:</dt> <dd><input value="{{esperante}}"/></dd>
             {% endfor %}
           {% endfor %}
         </dl>
+      {% endif %} 
+      {% if tasko == 'Kompletigu la frazojn' %}
+        <ol>
+          {% for vico in vicoj %}
+          <li>
+            {%- for parto in vico -%}
+              {%- for klavo,valoro in parto.items() -%}
+                {%- if klavo == 'videbla' -%}
+                  {%- if valoro -%}
+                    {{valoro}}
+                  {%- else %} {% endif -%} 
+                {%- elif klavo == 'solvo' -%}
+                <input size="{{valoro|length}}" value="{{valoro}}"/>
+                {%- endif -%} 
+              {%- endfor -%}
+            {%- endfor -%}
+          </li>
+          {% endfor %}
+        </ol>
       {% endif %} 
     {% endfor %}
   {% endfor %}

@@ -56,13 +56,15 @@
     
     <div class="container">
 
-
 {% for leciono in lecionoj %}
   <h2>
     {{loop.index}}.
     {% for vorto in leciono.teksto.titolo %}
-      {% if vorto  %}
-        {% for radiko in vorto %}<a href="#" title="{{ radiko }}">{{ radiko }}</a>{% endfor %}
+      {% if vorto  -%}
+<a href="#" data-toggle="tooltip" data-html="true" data-placement="top" title="
+  {{ vorto|join }} = full translation <br/>
+  {% for radiko in vorto -%} {{ radiko }} = translation<br/> {%- endfor %}
+">{{ vorto|join }}</a>
       {% endif %} 
     {% endfor %}
   </h2>
@@ -70,9 +72,10 @@
   <p>
     {% for vorto in paragrafo -%}
       {% if vorto  -%}
-        {% for radiko in vorto -%}
-          <a href="#" title="{{ radiko }}">{{ radiko }}</a>
-        {%- endfor %}
+<a href="#" data-toggle="tooltip" data-html="true" data-placement="top" title="
+  {{ vorto|join }} = full translation <br/>
+  {% for radiko in vorto -%} {{ radiko }} = translation<br/> {%- endfor %}
+">{{ vorto|join }}</a>
       {%- else %} 
       {% endif %} 
     {%- endfor %}

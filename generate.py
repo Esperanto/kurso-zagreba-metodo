@@ -2,13 +2,8 @@
 
 import yaml
 import jinja2
-import pprint
 import markdown
 import glob
-
-def pp(data):
-    pp = pprint.PrettyPrinter(indent=4)
-    pp.pprint(data)
 
 def load(language):
 
@@ -58,8 +53,6 @@ def load(language):
     return enhavo
 
 enhavo = load('de')
-
-#pp(lecionoj)
 
 md = markdown.Markdown(extensions=['meta'])
 

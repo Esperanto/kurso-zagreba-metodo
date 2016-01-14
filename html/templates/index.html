@@ -64,145 +64,145 @@
     
     <div class="container">
 
-{% for leciono in enhavo.lecionoj %}
-  <h2>
-    {{loop.index}}.
-    {% for vorto in leciono.teksto.titolo %}
-      {% if vorto  -%}
-        <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
-          <table>
-          {# Loop only if there are multiple roots. #}
-          {% if vorto|length > 1 -%} 
-            {% for radiko in vorto -%} 
-              {% if radiko|lower in enhavo.vortaro -%}
-              <tr>
-                <td>{{ radiko }}</td>
-                <td>{{ enhavo.vortaro[radiko|lower] }}</td>
-              </tr>
-              {% endif %} 
-            {%- endfor %}
-          {% endif %} 
-          {% if vorto|join|lower in enhavo.vortaro -%}
-            <tr>
-              <td>{{ vorto|join|lower }}</td>
-              <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
-            </tr>
-          {% elif vorto|join in enhavo.vortaro -%}
-            <tr>
-              <td>{{ vorto|join }}</td>
-              <td>{{ enhavo.vortaro[vorto|join] }}</td>
-            </tr>
-          {% endif %} 
-          </table>
-        ">{{ vorto|join }}</a>
-      {% endif %} 
-    {% endfor %}
-  </h2>
-  {% for paragrafo in leciono.teksto.paragrafoj %}
-  <p>
-    {% for vorto in paragrafo -%}
-      {% if vorto  -%}
-        <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
-          <table>
-          {# Loop only if there are multiple roots. #}
-          {% if vorto|length > 1 -%} 
-            {% for radiko in vorto -%} 
-              {% if radiko|lower in enhavo.vortaro -%}
-              <tr>
-                <td>{{ radiko }}</td>
-                <td>{{ enhavo.vortaro[radiko|lower] }}</td>
-              </tr>
-              {% endif %} 
-            {%- endfor %}
-          {% endif %} 
-          {% if vorto|join|lower in enhavo.vortaro -%}
-            <tr>
-              <td>{{ vorto|join|lower }}</td>
-              <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
-            </tr>
-          {% elif vorto|join in enhavo.vortaro -%}
-            <tr>
-              <td>{{ vorto|join }}</td>
-              <td>{{ enhavo.vortaro[vorto|join] }}</td>
-            </tr>
-          {% endif %} 
-          </table>
-        ">{{ vorto|join }}</a>
-      {%- else %} 
-      {% endif %} 
-    {%- endfor %}
-  </p>
-  {% endfor %}
-
-  <h3>Gramatiko</h3>
-  {% for paragrafo in leciono.gramatiko %}
-    {% for titolo,klarigo in paragrafo.items() %}
-      <h4> {{titolo}} </h4>
-      {{klarigo|markdown}} 
-    {% endfor %}
-  {% endfor %}
-
-  <h3>Ekzercoj</h3>
-  {% for ekzerco in leciono.ekzercoj %}
-    {% for tasko,vicoj in ekzerco.items() %}
-      <h4> {{tasko}} </h4>
-      {% if tasko == 'Traduku' %}
-        <ol class="tasko">
-          {% for vico in vicoj %}
-            {% for esperante,fontlingve in vico.items() %}
-            <li>
-              <label>{{fontlingve}}:</label>
-              <input value="{{esperante}}"/>
-            </li>
-            {% endfor %}
+      {% for leciono in enhavo.lecionoj %}
+        <h2>
+          {{loop.index}}.
+          {% for vorto in leciono.teksto.titolo %}
+            {% if vorto  -%}
+              <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
+                <table>
+                {# Loop only if there are multiple roots. #}
+                {% if vorto|length > 1 -%} 
+                  {% for radiko in vorto -%} 
+                    {% if radiko|lower in enhavo.vortaro -%}
+                    <tr>
+                      <td>{{ radiko }}</td>
+                      <td>{{ enhavo.vortaro[radiko|lower] }}</td>
+                    </tr>
+                    {% endif %} 
+                  {%- endfor %}
+                {% endif %} 
+                {% if vorto|join|lower in enhavo.vortaro -%}
+                  <tr>
+                    <td>{{ vorto|join|lower }}</td>
+                    <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
+                  </tr>
+                {% elif vorto|join in enhavo.vortaro -%}
+                  <tr>
+                    <td>{{ vorto|join }}</td>
+                    <td>{{ enhavo.vortaro[vorto|join] }}</td>
+                  </tr>
+                {% endif %} 
+                </table>
+              ">{{ vorto|join }}</a>
+            {% endif %} 
           {% endfor %}
-        </ol>
-      {% endif %} 
-      {% if tasko == 'Kompletigu la frazojn' %}
-        <ol class="tasko">
-          {% for vico in vicoj %}
-          <li>
-            {%- for parto in vico -%}
-              {%- for klavo,valoro in parto.items() -%}
-                {%- if klavo == 'videbla' -%}
-                  {%- if valoro -%}
-                    {{valoro}}
-                  {%- else %} {% endif -%} 
-                {%- elif klavo == 'solvo' -%}
-                <input size="{{valoro|length}}" value="{{valoro}}"/>
-                {%- endif -%} 
-              {%- endfor -%}
-            {%- endfor -%}
-          </li>
+        </h2>
+        {% for paragrafo in leciono.teksto.paragrafoj %}
+        <p>
+          {% for vorto in paragrafo -%}
+            {% if vorto  -%}
+              <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
+                <table>
+                {# Loop only if there are multiple roots. #}
+                {% if vorto|length > 1 -%} 
+                  {% for radiko in vorto -%} 
+                    {% if radiko|lower in enhavo.vortaro -%}
+                    <tr>
+                      <td>{{ radiko }}</td>
+                      <td>{{ enhavo.vortaro[radiko|lower] }}</td>
+                    </tr>
+                    {% endif %} 
+                  {%- endfor %}
+                {% endif %} 
+                {% if vorto|join|lower in enhavo.vortaro -%}
+                  <tr>
+                    <td>{{ vorto|join|lower }}</td>
+                    <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
+                  </tr>
+                {% elif vorto|join in enhavo.vortaro -%}
+                  <tr>
+                    <td>{{ vorto|join }}</td>
+                    <td>{{ enhavo.vortaro[vorto|join] }}</td>
+                  </tr>
+                {% endif %} 
+                </table>
+              ">{{ vorto|join }}</a>
+            {%- else %} 
+            {% endif %} 
+          {%- endfor %}
+        </p>
+        {% endfor %}
+
+        <h3>Gramatiko</h3>
+        {% for paragrafo in leciono.gramatiko %}
+          {% for titolo,klarigo in paragrafo.items() %}
+            <h4> {{titolo}} </h4>
+            {{klarigo|markdown}} 
           {% endfor %}
-        </ol>
-      {% endif %} 
-      {% if tasko == 'Traduku kaj respondu' %}
-        <ol class="tasko">
-          {% for vico in vicoj %}
-          <li>
-            {{vico.demando}}
-            <ul>
-              {% for duopo in vico.rektatraduko %}
-                <li>
-                  {% if duopo is mapping %}
-                    {% for esperante, fontlingve in duopo.items() %}
+        {% endfor %}
+
+        <h3>Ekzercoj</h3>
+        {% for ekzerco in leciono.ekzercoj %}
+          {% for tasko,vicoj in ekzerco.items() %}
+            <h4> {{tasko}} </h4>
+            {% if tasko == 'Traduku' %}
+              <ol class="tasko">
+                {% for vico in vicoj %}
+                  {% for esperante,fontlingve in vico.items() %}
+                  <li>
                     <label>{{fontlingve}}:</label>
-                      <input size="{{esperante|length}}" value="{{esperante}}"/>
-                    {% endfor %}
-                  {%- else %} 
-                    {{duopo}}
-                  {% endif -%} 
+                    <input value="{{esperante}}"/>
+                  </li>
+                  {% endfor %}
+                {% endfor %}
+              </ol>
+            {% endif %} 
+            {% if tasko == 'Kompletigu la frazojn' %}
+              <ol class="tasko">
+                {% for vico in vicoj %}
+                <li>
+                  {%- for parto in vico -%}
+                    {%- for klavo,valoro in parto.items() -%}
+                      {%- if klavo == 'videbla' -%}
+                        {%- if valoro -%}
+                          {{valoro}}
+                        {%- else %} {% endif -%} 
+                      {%- elif klavo == 'solvo' -%}
+                      <input size="{{valoro|length}}" value="{{valoro}}"/>
+                      {%- endif -%} 
+                    {%- endfor -%}
+                  {%- endfor -%}
                 </li>
-              {% endfor %}
-            </ul>
-          </li>
+                {% endfor %}
+              </ol>
+            {% endif %} 
+            {% if tasko == 'Traduku kaj respondu' %}
+              <ol class="tasko">
+                {% for vico in vicoj %}
+                <li>
+                  {{vico.demando}}
+                  <ul>
+                    {% for duopo in vico.rektatraduko %}
+                      <li>
+                        {% if duopo is mapping %}
+                          {% for esperante, fontlingve in duopo.items() %}
+                          <label>{{fontlingve}}:</label>
+                            <input size="{{esperante|length}}" value="{{esperante}}"/>
+                          {% endfor %}
+                        {%- else %} 
+                          {{duopo}}
+                        {% endif -%} 
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </li>
+                {% endfor %}
+              </ol>
+            {% endif %} 
           {% endfor %}
-        </ol>
-      {% endif %} 
-    {% endfor %}
-  {% endfor %}
-{% endfor %}
+        {% endfor %}
+      {% endfor %}
 
     </div>
 

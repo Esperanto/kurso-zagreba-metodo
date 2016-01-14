@@ -4,6 +4,7 @@ import yaml
 import jinja2
 import pprint
 import markdown
+import glob
 
 
 def pp(data):
@@ -12,8 +13,11 @@ def pp(data):
 
 
 enhavo = {}
-filename = 'enhavo/tradukenda/de/vortaro.yml'
-enhavo['vortaro'] = yaml.load(file(filename, 'r'))
+enhavo['vortaro'] = {}
+filenames = glob.glob('enhavo/tradukenda/de/vortaro/*.yml')
+for filename in filenames:
+    vortlisto = yaml.load(file(filename, 'r'))
+    enhavo['vortaro'].update(vortlisto)
 
 lecionoj = []
 

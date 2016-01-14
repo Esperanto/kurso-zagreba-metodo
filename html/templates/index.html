@@ -106,7 +106,10 @@
         <ol>
           {% for vico in vicoj %}
             {% for esperante,fontlingve in vico.items() %}
-            <li>{{fontlingve}}: <input value="{{esperante}}"/></li>
+            <li>
+              <label>{{fontlingve}}:</label>
+              <input value="{{esperante}}"/>
+            </li>
             {% endfor %}
           {% endfor %}
         </ol>

@@ -3,8 +3,9 @@ $(document).ready(function(){
 });
 
 $('input[data-expected]').keyup(function() {
-  var formGroup = $(this).closest('.form-group');
-  var glyphicon = $(this).next('span.glyphicon');
+  var id = $(this).attr('id');
+  var formGroup = $('#form-group-' + id);
+  var glyphicon = $('#glyphicon-' + id);
   if ( $(this).val() == $(this).attr('data-expected') ) {
     formGroup.removeClass('has-error').addClass('has-success');
     glyphicon.removeClass('glyphicon-remove').addClass('glyphicon-ok');

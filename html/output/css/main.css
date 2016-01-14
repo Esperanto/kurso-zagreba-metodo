@@ -1,0 +1,7 @@
+ol.tasko ul {
+  list-style-type: none;
+  padding-left: 0em;  
+}
+ol.tasko label {
+  min-width: 8em;
+}

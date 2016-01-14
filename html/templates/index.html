@@ -69,10 +69,12 @@
     {{loop.index}}.
     {% for vorto in leciono.teksto.titolo %}
       {% if vorto  -%}
-<a href="#" data-toggle="tooltip" data-html="true" data-placement="top" title="
-  {{ vorto|join }} = full translation <br/>
-  {% for radiko in vorto -%} {{ radiko }} = translation<br/> {%- endfor %}
-">{{ vorto|join }}</a>
+        <a href="#" data-toggle="tooltip" data-html="true" data-placement="top" title="
+          {% if enhavo.vortaro[vorto|join]   -%}
+            {{ vorto|join }} = {{ enhavo.vortaro[vorto|join] }} <br/>
+          {% endif %} 
+          {% for radiko in vorto -%} {{ radiko }} = translation<br/> {%- endfor %}
+        ">{{ vorto|join }}</a>
       {% endif %} 
     {% endfor %}
   </h2>
@@ -80,10 +82,24 @@
   <p>
     {% for vorto in paragrafo -%}
       {% if vorto  -%}
-<a href="#" data-toggle="tooltip" data-html="true" data-placement="top" title="
-  {{ vorto|join }} = full translation <br/>
-  {% for radiko in vorto -%} {{ radiko }} = translation<br/> {%- endfor %}
-">{{ vorto|join }}</a>
+        <a href="#" data-toggle="tooltip" data-html="true" data-placement="top" title="
+          <table>
+          {% if vorto|join in enhavo.vortaro -%}
+            <tr>
+              <td>{{ vorto|join }}</td>
+              <td>{{ enhavo.vortaro[vorto|join] }}</td>
+            </tr>
+          {% endif %} 
+          {% for radiko in vorto -%} 
+            {% if radiko in enhavo.vortaro -%}
+            <tr>
+              <td>{{ radiko }}</td>
+              <td>{{ enhavo.vortaro[radiko] }}</td>
+            </tr>
+            {% endif %} 
+          {%- endfor %}
+          </dl>
+        ">{{ vorto|join }}</a>
       {%- else %} 
       {% endif %} 
     {%- endfor %}

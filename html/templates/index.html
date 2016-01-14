@@ -207,22 +207,38 @@
             {% if tasko == 'Traduku kaj respondu' %}
               <ol class="tasko">
                 {% for vico in vicoj %}
+                  {% set vico_loop = loop %}
+                  {% set vico_id = leciono_loop.index ~ '-' ~ ekzerco_loop.index ~ '-' ~ vico_loop.index %}
                 <li>
+
                   {{vico.demando}}
-                  <ul>
+
+                  <form id="form-{{vico_id}}" class="form-horizontal">
+
                     {% for duopo in vico.rektatraduko %}
-                      <li>
-                        {% if duopo is mapping %}
-                          {% for esperante, fontlingve in duopo.items() %}
-                          <label>{{fontlingve}}:</label>
-                            <input size="{{esperante|length}}" value="{{esperante}}"/>
+                      {% set duopo_loop = loop %}
+                      {% set id = leciono_loop.index ~ '-' ~ ekzerco_loop.index ~ '-' ~ vico_loop.index ~ '-' ~ duopo_loop.index %}
+                      {% if duopo is mapping %}
+                        {% for esperante, fontlingve in duopo.items() %}
+                          <div id="form-group-{{id}}" class="form-group has-error has-feedback">
+                            <label class="control-label col-sm-2" for="inputSuccess-todo-find-id">{{fontlingve}}:</label>
+                            <div class="col-sm-10">
+                              <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-expected="{{esperante}}"/>
+                              <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
+                            </div>
+                          </div>
                           {% endfor %}
                         {%- else %} 
-                          {{duopo}}
+                          <div class="form-group">
+                            <label class="control-label col-sm-2">{{duopo}}</label>
+                          </div>
                         {% endif -%} 
-                      </li>
                     {% endfor %}
-                  </ul>
+
+                    <input type="button" class="btn btn-success solvu" value="Solvu" data-ekzerco-id="{{ vico_id }}" />
+                    <input type="button" class="btn btn-danger forigu" value="Forigu" data-ekzerco-id="{{ vico_id }}" />
+                  </form>
+
                 </li>
                 {% endfor %}
               </ol>

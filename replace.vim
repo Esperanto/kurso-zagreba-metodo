@@ -1,3 +1,8 @@
+:set ignorecase
+
+" Preserve some words
+:%s/\(kaj\|la\)/XXX\0XXX/g
+
 " Make paragraphs.
 :%s/^\(.*\)\n\n/- \1\r/g
 
@@ -24,5 +29,11 @@
 :%s/\(at\|it\|ot\|ut\)$/\r    - \1/g
 :%s/\(ant\|int\|ont\|unt\)$/\r    - \1/g
 
+" Remove lists of empty words.
+:%s/^    -\n//g
+
 " Indent.
 :%s/^/    /
+
+
+:%s/XXX\(.*\)XXX/\1/g

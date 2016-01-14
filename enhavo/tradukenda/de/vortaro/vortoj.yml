@@ -1,19 +1,9 @@
-est: sein (Verb, Wortstamm) 
-esti: sein (Verb, Infinitiv)
-estas: bin, bist, ist, sind, seit, sind
-amik: Freund, freundschaftlich (Wortstamm)
-amiko: Freund
-mia: mein
-mi: mein (Wortstamm)
-mia: mein
-li: er
-kaj: und
-lern: lernen (Wortstamm)
-aĉeti: kaufen
+Doĝo: Doge
+Marko: Marko (Name)
+September: sieben 
 afero: Angelegenheit, Sache
 agi: handeln
 agrabla: angenehm
-aĝo: Alter
 ajn: überhaupt, auch immer, auch nur 
 akvo: Wasser
 al: nach, zu
@@ -23,6 +13,8 @@ alta: hoch
 amaso: Menge
 ambaŭ: beide
 ami: lieben
+amik: Freund, freundschaftlich (Wortstamm)
+amiko: Freund
 amiko: Freund
 ankaŭ: auch
 ankoraŭ: noch
@@ -36,6 +28,8 @@ arbo: Baum
 aspekti: aussehen
 atendi: warten
 atenti: acht geben
+aĉeti: kaufen
+aĝo: Alter
 aŭ: oder
 aŭdi: hören
 aŭskulti: zuhören
@@ -54,13 +48,6 @@ burokrato: Bürokrat
 buŝo: Mund
 cent: hundert
 certe: sicher(lich)
-ĉambro: Zimmer
-ĉar: weil, denn
-ĉe: bei
-ĉefo: Chef
-ĉi: näher liegend 
-ĉirkaŭ: um, herum
-ĉu: ob; kennzeichnet auch einfache Fragesätze 
 da: von (Menge) 
 dankon: danke
 daŭri: dauern
@@ -78,18 +65,15 @@ direkto: Richtung
 diri: sagen
 diversa: verschieden
 do: also
-Doĝo: Doge
 doktoro: Doktor
-dolĉa: süß
 doloro: Schmerz
+dolĉa: süß
 domo: Haus
 doni: geben
 dormi: schlafen
 du: zwei 
 dubi: zweifeln
 dum: während 
-eĉ: sogar, selbst
-eĉ ne: gar nicht
 edzo: Gatte
 ekskurso: Ausflug
 ekster: außerhalb
@@ -99,8 +83,13 @@ el: aus
 elekti: wählen
 en: in
 esperi: hoffen
+est: sein (Verb, Wortstamm) 
+estas: bin, bist, ist, sind, seit, sind
+esti: sein (Verb, Infinitiv)
 esti: sein (Zeitwort) 
 estro: Chef
+eĉ ne: gar nicht
+eĉ: sogar, selbst
 facila: leicht
 fakte: tatsächlich
 fakto: Tatsache
@@ -129,12 +118,6 @@ gondolo: Gondel
 grafo: Graf
 granda: groß
 grava: wichtig
-ĝenerale: allgemein
-ĝeni: stören, belästigen
-ĝi: es 
-ĝis: bis
-ĝoja: froh
-ĝusta: richtig
 halti: anhalten
 havi: haben
 hejmo: Heim, Zuhause
@@ -159,8 +142,8 @@ jen: da ist
 jes: ja 
 ju . . . des: je . . . desto 
 juna: jung
-ĵeti: werfen
 kafo: Kaffee
+kaj: und
 kaj: und
 kampo: Feld
 kanti: singen
@@ -216,24 +199,25 @@ laŭ: gemäß
 laŭta: laut
 leciono: Lektion
 legi: lesen
+lern: lernen (Wortstamm)
 lernanto: Lernender, Schüler
 lerni: lernen
 letero: Brief
+li: er
 li: er 
 lia: sein(e) 
 libera: frei
 libro: Buch
 lingvo: Sprache
-loĝi: wohnen
 loko: Ort
 longe: lange
+loĝi: wohnen
 ludi: spielen
 lumo: Licht
-manĝi: essen
 maniero: Art, Weise
 manki: fehlen
 mano: Hand
-Marko: Marko (Name)
+manĝi: essen
 maro: Meer
 mateno: Morgen
 mem: selbst 
@@ -241,6 +225,9 @@ memori: sich erinnern
 meti: setzen, stellen, legen 
 mezo: Mitte
 mi, mia: ich, mein 
+mi: mein (Wortstamm)
+mia: mein
+mia: mein
 mil: tausend 
 milito: Krieg
 miri: sich wundern
@@ -290,8 +277,8 @@ pardoni: verzeihen
 paroli: sprechen
 parto: Teil
 pasi: vorbei gehen
-paŝi: schreiten
 patro: Vater
+paŝi: schreiten
 pensi: denken
 per: mit, mittels 
 perdi: verlieren
@@ -300,8 +287,8 @@ peti: bitten
 peza: schwer
 piedo: Fuß
 placo: Platz
-plaĉi: gefallen
 plano: Plan
+plaĉi: gefallen
 plej: meist (Superlativ) 
 plena: voll
 pli: mehr (Komparativ) 
@@ -312,8 +299,8 @@ por: für
 pordo: Tür
 porti: tragen
 post: nach 
-poŝto: Post
 povi: können
+poŝto: Post
 preni: nehmen
 preskaŭ: fast
 preta: bereit
@@ -338,22 +325,21 @@ respekti: achten
 respondi: antworten
 resti: bleiben
 ricevi: bekommen
-riĉa: reich
 ridi: lachen
 rigardi: schauen
 rilato: Beziehung
 rimarki: bemerken
+riĉa: reich
 rolo: Rolle
-saĝa: klug, weise
 salti: springen
 saluton: einen Gruß
 sama: gleich
 sana: gesund
 sata: satt
+saĝa: klug, weise
 scii: wissen
 se: wenn
 sed: aber
-seĝo: Sessel
 seka: trocken
 sekreto: Geheimnis
 sekvi: folgen
@@ -361,9 +347,9 @@ semajno: Woche
 sen: ohne
 sendi: schicken
 senti: fühlen
-September: sieben 
 serĉi: suchen
 ses: sechs 
+seĝo: Sessel
 sia: sein/ihr 
 sidi: sitzen
 silento: Schweigen
@@ -376,8 +362,8 @@ sola: allein
 sono: Klang
 sovaĝa: wild
 sport: Sport (Wortstamm)
-sporto: Sport
 sportisto: Sportler
+sporto: Sport
 stari: stehen
 strato: Straße
 sub: unter
@@ -388,11 +374,6 @@ suko: Saft
 suno: Sonne
 super: über
 sur: auf
-ŝajni: scheinen
-ŝanĝi: wechseln
-ŝati: mögen, gern haben
-ŝi: sie 
-ŝipo: Schiff
 tablo: Tisch
 tago: Tag
 tamen: dennoch
@@ -414,8 +395,8 @@ tro: allzu
 trovi: finden
 troviĝi: sich befinden
 tuj: sofort
-tuŝi: berühren
 tuta: ganz
+tuŝi: berühren
 universala: allumfassend
 unu: ein
 unu: eins 
@@ -437,10 +418,29 @@ vino: Wein
 viro: Mann
 vivi: leben
 vizaĝo: Gesicht
-voĉo: Stimme
 vojaĝi: reisen
 vojo: Weg
 voki: rufen
 voli: wollen
 vorto: Wort
+voĉo: Stimme
 zorgi: sorgen
+ĉambro: Zimmer
+ĉar: weil, denn
+ĉe: bei
+ĉefo: Chef
+ĉi: näher liegend 
+ĉirkaŭ: um, herum
+ĉu: ob; kennzeichnet auch einfache Fragesätze 
+ĝenerale: allgemein
+ĝeni: stören, belästigen
+ĝi: es 
+ĝis: bis
+ĝoja: froh
+ĝusta: richtig
+ĵeti: werfen
+ŝajni: scheinen
+ŝanĝi: wechseln
+ŝati: mögen, gern haben
+ŝi: sie 
+ŝipo: Schiff

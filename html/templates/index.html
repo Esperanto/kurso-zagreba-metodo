@@ -138,38 +138,20 @@
           {% for vico in vicoj %}
           <li>
             {{vico.demando}}
-            <table>
-              <tr>
-                {% for duopo in vico.rektatraduko %}
+            <ul>
+              {% for duopo in vico.rektatraduko %}
+                <li>
                   {% if duopo is mapping %}
                     {% for esperante, fontlingve in duopo.items() %}
-                    <td>
-                      {{fontlingve}}
-                    </td>
-                    {% endfor %}
-                  {%- else %} 
-                    <td>
-                    {{duopo}}
-                    </td>
-                  {% endif -%} 
-                {% endfor %}
-              </tr>
-              <tr>
-                {% for duopo in vico.rektatraduko %}
-                  {% if duopo is mapping %}
-                    {% for esperante, fontlingve in duopo.items() %}
-                    <td>
+                    <label>{{fontlingve}}:</label>
                       <input size="{{esperante|length}}" value="{{esperante}}"/>
-                    </td>
                     {% endfor %}
                   {%- else %} 
-                    <td>
-                      &nbsp;
-                    </td>
+                    {{duopo}}
                   {% endif -%} 
-                {% endfor %}
-              </tr>
-            </table>
+                </li>
+              {% endfor %}
+            </ul>
           </li>
           {% endfor %}
         </ol>

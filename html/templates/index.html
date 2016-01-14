@@ -174,23 +174,35 @@
               </form>
             {% endif %} 
             {% if tasko == 'Kompletigu la frazojn' %}
+
               <ol class="tasko">
+              <form id="form-{{ekzerco_id}}" class="form-inline">
                 {% for vico in vicoj %}
                 <li>
+                  {% set vico_loop = loop %}
                   {%- for parto in vico -%}
+                    {% set parto_loop = loop %}
+                    {% set id = 'vico-' ~ leciono_loop.index ~ '-' ~ ekzerco_loop.index ~ '-' ~ vico_loop.index ~ '-' ~ parto_loop.index %}
                     {%- for klavo,valoro in parto.items() -%}
                       {%- if klavo == 'videbla' -%}
                         {%- if valoro -%}
                           {{valoro}}
                         {%- else %} {% endif -%} 
                       {%- elif klavo == 'solvo' -%}
-                      <input size="{{valoro|length}}" value="{{valoro}}"/>
+                        <div id="form-group-{{id}}" class="form-group has-error has-feedback">
+                          <input id="{{id}}" type="text" class="form-control" size="{{valoro|length}}" data-expected="{{valoro}}" />
+                          <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
+                        </div>
                       {%- endif -%} 
                     {%- endfor -%}
                   {%- endfor -%}
                 </li>
                 {% endfor %}
+                <input type="button" class="btn btn-success solvu" value="Solvu" data-ekzerco-id="{{ ekzerco_id }}" />
+                <input type="button" class="btn btn-danger forigu" value="Forigu" data-ekzerco-id="{{ ekzerco_id }}" />
+              </form>
               </ol>
+
             {% endif %} 
             {% if tasko == 'Traduku kaj respondu' %}
               <ol class="tasko">

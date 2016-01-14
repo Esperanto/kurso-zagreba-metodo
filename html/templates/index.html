@@ -154,8 +154,11 @@
             <h4> {{tasko}} </h4>
             {% if tasko == 'Traduku' %}
               <form class="form-horizontal">
-                <div class="form-group has-error has-feedback">
-                  {% for vico in vicoj %}
+                {% for vico in vicoj %}
+                  <div class="form-group has-error has-feedback">
+
+                    {% set vico_loop = loop %}
+
                     {% for esperante,fontlingve in vico.items() %}
                       <label class="control-label col-sm-2" for="inputSuccess-todo-find-id">{{fontlingve}}:</label>
                       <div class="col-sm-10">
@@ -163,10 +166,10 @@
                         <span class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
                       </div>
                     {% endfor %}
-                  {% endfor %}
+                  </div>
+                {% endfor %}
                 <input type="button" class="btn btn-success" value="Solvu"/>
                 <input type="button" class="btn btn-danger" value="Forigu"/>
-                </div>
               </form>
             {% endif %} 
             {% if tasko == 'Kompletigu la frazojn' %}

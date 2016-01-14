@@ -16,8 +16,8 @@ $('input[data-solvo]').on('input', function() {
 });
 
 $('.solvu').click(function() {
-  var ekzerco_id = $(this).attr('data-form-id');
-  var inputs  = $('#form-' + ekzerco_id + ' input[data-solvo] ');
+  var form_id = $(this).attr('data-form-id');
+  var inputs  = $('#form-' + form_id + ' input[data-solvo] ');
   inputs.each(function() {
     var solvo = $(this).attr('data-solvo');
     $(this).val(solvo);
@@ -26,8 +26,8 @@ $('.solvu').click(function() {
 });
 
 $('.forigu').click(function() {
-  var ekzerco_id = $(this).attr('data-form-id');
-  var inputs  = $('#form-' + ekzerco_id + ' input[data-solvo] ');
+  var form_id = $(this).attr('data-form-id');
+  var inputs  = $('#form-' + form_id + ' input[data-solvo] ');
   inputs.each(function() {
     $(this).val('');
     $(this).trigger('input');

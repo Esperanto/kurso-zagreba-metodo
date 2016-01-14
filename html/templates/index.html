@@ -160,7 +160,7 @@
                   {% set id = 'vico-' ~ leciono_loop.index ~ '-' ~ ekzerco_loop.index ~ '-' ~ vico_loop.index %}
                   <div id="form-group-{{id}}" class="form-group has-error has-feedback">
                     {% for esperante,fontlingve in vico.items() %}
-                      <label class="control-label col-sm-2" for="inputSuccess-todo-find-id">{{fontlingve}}:</label>
+                      <label class="control-label col-sm-2" for="{{id}}">{{fontlingve}}:</label>
                       <div class="col-sm-10">
                         <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-solvo="{{esperante}}"/>
                         <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
@@ -221,7 +221,7 @@
                       {% if duopo is mapping %}
                         {% for esperante, fontlingve in duopo.items() %}
                           <div id="form-group-{{id}}" class="form-group has-error has-feedback">
-                            <label class="control-label col-sm-2" for="inputSuccess-todo-find-id">{{fontlingve}}:</label>
+                            <label class="control-label col-sm-2" for="{{id}}">{{fontlingve}}:</label>
                             <div class="col-sm-10">
                               <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-solvo="{{esperante}}"/>
                               <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>

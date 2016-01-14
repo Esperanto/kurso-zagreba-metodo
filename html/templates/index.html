@@ -130,6 +130,45 @@
         </ol>
       {% endif %} 
       {% if tasko == 'Traduku kaj respondu' %}
+        <ol>
+          {% for vico in vicoj %}
+          <li>
+            {{vico.demando}}
+            <table>
+              <tr>
+                {% for duopo in vico.rektatraduko %}
+                  {% if duopo is mapping %}
+                    {% for esperante, fontlingve in duopo.items() %}
+                    <td>
+                      {{fontlingve}}
+                    </td>
+                    {% endfor %}
+                  {%- else %} 
+                    <td>
+                    {{duopo}}
+                    </td>
+                  {% endif -%} 
+                {% endfor %}
+              </tr>
+              <tr>
+                {% for duopo in vico.rektatraduko %}
+                  {% if duopo is mapping %}
+                    {% for esperante, fontlingve in duopo.items() %}
+                    <td>
+                      <input size="{{esperante|length}}" value="{{esperante}}"/>
+                    </td>
+                    {% endfor %}
+                  {%- else %} 
+                    <td>
+                      &nbsp;
+                    </td>
+                  {% endif -%} 
+                {% endfor %}
+              </tr>
+            </table>
+          </li>
+          {% endfor %}
+        </ol>
       {% endif %} 
     {% endfor %}
   {% endfor %}

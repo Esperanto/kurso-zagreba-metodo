@@ -11,10 +11,10 @@ def pp(data):
     pp.pprint(data)
 
 
-enhavoj = []
+lecionoj = []
 
 for i in range(1,2):
-    enhavo = {
+    leciono = {
       'teksto': None,
       'gramatiko': None,
       'ekzercoj': None,
@@ -22,10 +22,10 @@ for i in range(1,2):
     i_padded = str(i).zfill(2)
 
     filename = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
-    enhavo['teksto'] = yaml.load(file(filename, 'r'))
+    leciono['teksto'] = yaml.load(file(filename, 'r'))
 
     filename = 'enhavo/tradukenda/de/gramatiko/' + i_padded + '.yml'
-    enhavo['gramatiko'] = yaml.load(file(filename, 'r'))
+    leciono['gramatiko'] = yaml.load(file(filename, 'r'))
 
     filename = 'enhavo/tradukenda/de/ekzercoj/' + i_padded + '.yml'
     ekzercoj1 = yaml.load(file(filename, 'r'))
@@ -38,14 +38,14 @@ for i in range(1,2):
     ekzercoj.update(ekzercoj2)
 
     # Covert from dict to list.
-    enhavo['ekzercoj'] = []
+    leciono['ekzercoj'] = []
     for key in sorted(ekzercoj.keys()):
-        enhavo['ekzercoj'].append(ekzercoj[key])
+        leciono['ekzercoj'].append(ekzercoj[key])
 
-    enhavoj.append(enhavo)
+    lecionoj.append(leciono)
 
 
-#pp(enhavoj)
+#pp(lecionoj)
 
 md = markdown.Markdown(extensions=['meta'])
 
@@ -55,5 +55,5 @@ env.trim_blocks = True
 env.lstrip_blocks = True
 env.loader=jinja2.FileSystemLoader('html/templates/')
 
-rendered = env.get_template('index.html').render(enhavoj=enhavoj)
+rendered = env.get_template('index.html').render(lecionoj=lecionoj)
 print rendered.encode('utf-8')

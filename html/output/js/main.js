@@ -2,11 +2,11 @@ $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip(); 
 });
 
-$('input[data-expected]').on('input', function() {
+$('input[data-solvo]').on('input', function() {
   var id = $(this).attr('id');
   var form_group = $('#form-group-' + id);
   var glyphicon = $('#glyphicon-' + id);
-  if ( $(this).val() == $(this).attr('data-expected') ) {
+  if ( $(this).val() == $(this).attr('data-solvo') ) {
     form_group.removeClass('has-error').addClass('has-success');
     glyphicon.removeClass('glyphicon-remove').addClass('glyphicon-ok');
   } else {
@@ -17,9 +17,9 @@ $('input[data-expected]').on('input', function() {
 
 $('.solvu').click(function() {
   var ekzerco_id = $(this).attr('data-form-id');
-  var inputs  = $('#form-' + ekzerco_id + ' input[data-expected] ');
+  var inputs  = $('#form-' + ekzerco_id + ' input[data-solvo] ');
   inputs.each(function() {
-    var solvo = $(this).attr('data-expected');
+    var solvo = $(this).attr('data-solvo');
     $(this).val(solvo);
     $(this).trigger('input');
   });
@@ -27,7 +27,7 @@ $('.solvu').click(function() {
 
 $('.forigu').click(function() {
   var ekzerco_id = $(this).attr('data-form-id');
-  var inputs  = $('#form-' + ekzerco_id + ' input[data-expected] ');
+  var inputs  = $('#form-' + ekzerco_id + ' input[data-solvo] ');
   inputs.each(function() {
     $(this).val('');
     $(this).trigger('input');

@@ -162,7 +162,7 @@
                     {% for esperante,fontlingve in vico.items() %}
                       <label class="control-label col-sm-2" for="inputSuccess-todo-find-id">{{fontlingve}}:</label>
                       <div class="col-sm-10">
-                        <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-expected="{{esperante}}"/>
+                        <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-solvo="{{esperante}}"/>
                         <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
                       </div>
                     {% endfor %}
@@ -190,7 +190,7 @@
                         {%- else %} {% endif -%} 
                       {%- elif klavo == 'solvo' -%}
                         <div id="form-group-{{id}}" class="form-group has-error has-feedback">
-                          <input id="{{id}}" type="text" class="form-control" size="{{valoro|length}}" data-expected="{{valoro}}" />
+                          <input id="{{id}}" type="text" class="form-control" size="{{valoro|length}}" data-solvo="{{valoro}}" />
                           <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
                         </div>
                       {%- endif -%} 
@@ -223,7 +223,7 @@
                           <div id="form-group-{{id}}" class="form-group has-error has-feedback">
                             <label class="control-label col-sm-2" for="inputSuccess-todo-find-id">{{fontlingve}}:</label>
                             <div class="col-sm-10">
-                              <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-expected="{{esperante}}"/>
+                              <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-solvo="{{esperante}}"/>
                               <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
                             </div>
                           </div>

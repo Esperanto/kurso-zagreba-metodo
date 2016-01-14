@@ -11,6 +11,10 @@ def pp(data):
     pp.pprint(data)
 
 
+enhavo = {}
+filename = 'enhavo/tradukenda/de/vortaro.yml'
+enhavo['vortaro'] = yaml.load(file(filename, 'r'))
+
 lecionoj = []
 
 for i in range(1,2):
@@ -55,5 +59,5 @@ env.trim_blocks = True
 env.lstrip_blocks = True
 env.loader=jinja2.FileSystemLoader('html/templates/')
 
-rendered = env.get_template('index.html').render(lecionoj=lecionoj)
+rendered = env.get_template('index.html').render(lecionoj=lecionoj, enhavo=enhavo)
 print rendered.encode('utf-8')

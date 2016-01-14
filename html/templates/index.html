@@ -65,8 +65,11 @@
     <div class="container">
 
       {% for leciono in enhavo.lecionoj %}
+
+      {% set leciono_loop = loop %}
+      
         <h2>
-          {{loop.index}}.
+          {{leciono_loop.index}}.
           {% for vorto in leciono.teksto.titolo %}
             {% if vorto  -%}
               <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
@@ -144,6 +147,9 @@
 
         <h3>Ekzercoj</h3>
         {% for ekzerco in leciono.ekzercoj %}
+
+          {% set ekzerco_loop = loop %}
+
           {% for tasko,vicoj in ekzerco.items() %}
             <h4> {{tasko}} </h4>
             {% if tasko == 'Traduku' %}

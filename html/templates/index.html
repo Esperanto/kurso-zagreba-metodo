@@ -102,13 +102,13 @@
     {% for tasko,vicoj in ekzerco.items() %}
       <h4> {{tasko}} </h4>
       {% if tasko == 'Traduku' %}
-        <dl>
+        <ol>
           {% for vico in vicoj %}
             {% for esperante,fontlingve in vico.items() %}
-            <dt>{{fontlingve}}:</dt> <dd><input value="{{esperante}}"/></dd>
+            <li>{{fontlingve}}: <input value="{{esperante}}"/></li>
             {% endfor %}
           {% endfor %}
-        </dl>
+        </ol>
       {% endif %} 
       {% if tasko == 'Kompletigu la frazojn' %}
         <ol>

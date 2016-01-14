@@ -87,6 +87,11 @@
               <td>{{ vorto|join|lower }}</td>
               <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
             </tr>
+          {% elif vorto|join in enhavo.vortaro -%}
+            <tr>
+              <td>{{ vorto|join }}</td>
+              <td>{{ enhavo.vortaro[vorto|join] }}</td>
+            </tr>
           {% endif %} 
           </table>
         ">{{ vorto|join }}</a>
@@ -114,6 +119,11 @@
             <tr>
               <td>{{ vorto|join|lower }}</td>
               <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
+            </tr>
+          {% elif vorto|join in enhavo.vortaro -%}
+            <tr>
+              <td>{{ vorto|join }}</td>
+              <td>{{ enhavo.vortaro[vorto|join] }}</td>
             </tr>
           {% endif %} 
           </table>

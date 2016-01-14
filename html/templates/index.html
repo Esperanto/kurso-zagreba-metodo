@@ -64,10 +64,10 @@
     
     <div class="container">
 
-{% for leciono in lecionoj %}
+{% for enhavo in enhavoj %}
   <h2>
     {{loop.index}}.
-    {% for vorto in leciono.teksto.titolo %}
+    {% for vorto in enhavo.teksto.titolo %}
       {% if vorto  -%}
 <a href="#" data-toggle="tooltip" data-html="true" data-placement="top" title="
   {{ vorto|join }} = full translation <br/>
@@ -76,7 +76,7 @@
       {% endif %} 
     {% endfor %}
   </h2>
-  {% for paragrafo in leciono.teksto.paragrafoj %}
+  {% for paragrafo in enhavo.teksto.paragrafoj %}
   <p>
     {% for vorto in paragrafo -%}
       {% if vorto  -%}
@@ -91,7 +91,7 @@
   {% endfor %}
 
   <h3>Gramatiko</h3>
-  {% for paragrafo in leciono.gramatiko %}
+  {% for paragrafo in enhavo.gramatiko %}
     {% for titolo,klarigo in paragrafo.items() %}
       <h4> {{titolo}} </h4>
       {{klarigo|markdown}} 
@@ -99,7 +99,7 @@
   {% endfor %}
 
   <h3>Ekzercoj</h3>
-  {% for ekzerco in leciono.ekzercoj %}
+  {% for ekzerco in enhavo.ekzercoj %}
     {% for tasko,vicoj in ekzerco.items() %}
       <h4> {{tasko}} </h4>
       {% if tasko == 'Traduku' %}

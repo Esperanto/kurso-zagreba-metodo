@@ -5,3 +5,14 @@ ol.tasko ul {
 ol.tasko label {
   min-width: 8em;
 }
+.tooltip-inner table {
+    border-spacing: 0.5em;
+    border-collapse: separate;    
+}
+.tooltip-inner table tr {
+  vertical-align: top;
+  text-align: left;
+}
+.tooltip-inner table td:first-child {
+  text-align: right;
+}

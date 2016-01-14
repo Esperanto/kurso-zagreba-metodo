@@ -103,7 +103,7 @@
     {% for tasko,vicoj in ekzerco.items() %}
       <h4> {{tasko}} </h4>
       {% if tasko == 'Traduku' %}
-        <ol>
+        <ol class="tasko">
           {% for vico in vicoj %}
             {% for esperante,fontlingve in vico.items() %}
             <li>
@@ -115,7 +115,7 @@
         </ol>
       {% endif %} 
       {% if tasko == 'Kompletigu la frazojn' %}
-        <ol>
+        <ol class="tasko">
           {% for vico in vicoj %}
           <li>
             {%- for parto in vico -%}
@@ -134,7 +134,7 @@
         </ol>
       {% endif %} 
       {% if tasko == 'Traduku kaj respondu' %}
-        <ol>
+        <ol class="tasko">
           {% for vico in vicoj %}
           <li>
             {{vico.demando}}

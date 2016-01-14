@@ -16,12 +16,18 @@
 - Wortarten: |
     Die Wortart erkennt man sofort an der Wortendung:
 
-    - -o Hauptwort:
-    amiko - Freund, laboro - Arbeit, libro - Buch, skribo - Schrift
-    - -i Zeitwort in der Grundform (Infinitiv)
-    labori - arbeiten, sidi - sitzen
-    - -as Zeitwort in der Gegenwart
-    li sidas - er sitzt, ili laboras - sie arbeiten, mi lernas - ich lerne
+    - -o: Hauptwort:
+        - amiko - Freund
+        - laboro - Arbeit
+        - libro - Buch
+        - skribo - Schrift
+    - -i: Zeitwort in der Grundform (Infinitiv)
+        - labori - arbeiten
+        - sidi - sitzen
+    - -as: Zeitwort in der Gegenwart
+        - li sidas - er sitzt
+        - ili laboras - sie arbeiten
+        - mi lernas - ich lerne
 - Mehrzahl: |
     Die Mehrzahl wird bei Hauptwort und Eigenschaftswort durch Anfügen des "j" gebildet: amiko - Freund, amikoj - Freunde
 - Artikel: |
@@ -56,22 +62,26 @@
 - Fragewörter: |
     Esperanto-Fragewörter beginnen mit ki-.
 
-    kiu? - wer? welcher?
-    kio? - was?
-
-    Kiu vi estas? - Wer bist du?
-    Kio estas sur la tablo? - Was ist auf dem Tisch?
+    - kiu? - wer? welcher?
+    - kio? - was?
+    - Kiu vi estas? - Wer bist du?
+    - Kio estas sur la tablo? - Was ist auf dem Tisch?
 - 'Ĉu?': |
     Die Stellung der Satzteile ist im Esperanto frei - in der Regel wird die Reihenfolge Subjekt- Prädikat - Objekt bevorzugt. (Eine andere Reihenfolge dient meist der Hervorhebung des ersten Satzteils.) Während im Deutschen einfache Fragesätze durch Umstellung entstehen, wird im Espeanto ĉu vorangestellt und die ursprüngliche Wortreihenfolge erhalten.
 
-    Sie arbeiten jetzt.	Ili nun laboras.
-    Arbeiten Sie jetzt?	Ĉu ili nun laboras?
-    Unterrichtet die Mutter?	Ĉu la patrino instruas?
+    - Sie arbeiten jetzt. - Ili nun laboras.
+    - Arbeiten Sie jetzt? - Ĉu ili nun laboras?
+    - Unterrichtet die Mutter? - Ĉu la patrino instruas?
 - 'Nachsilbe: -ist': |
     zeigt den Beruf oder eine weltanschauliche Einstellung:
 
-    hotelisto - Hotelier, esperantisto - Esperantist, policisto - Polizist, socialisto - Sozialist
+    - hotelisto - Hotelier
+    - esperantisto - Esperantist
+    - policisto - Polizist
+    - socialisto - Sozialist
 - 'Nachsilbe: -in': |
     hat die Bedeutung "weiblich":
 
-    patr'o - Vater, patr'in'o - Mutter, lernantino - Schülerin, instruistino - Lehrerin
+    - patr'o - Vater, patr'in'o - Mutter
+    - lernantino - Schülerin
+    - instruistino - Lehrerin

@@ -69,7 +69,7 @@
     {{loop.index}}.
     {% for vorto in leciono.teksto.titolo %}
       {% if vorto  -%}
-        <a href="#" data-toggle="tooltip" data-html="true" data-placement="top" title="
+        <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
           <table>
           {# Loop only if there are multiple roots. #}
           {% if vorto|length > 1 -%} 
@@ -97,7 +97,7 @@
   <p>
     {% for vorto in paragrafo -%}
       {% if vorto  -%}
-        <a href="#" data-toggle="tooltip" data-html="true" data-placement="top" title="
+        <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
           <table>
           {# Loop only if there are multiple roots. #}
           {% if vorto|length > 1 -%} 

@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Esperanto kurso, Zagreba metodo</title>
+
+
+    <!-- Bootstrap -->
+ <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">   
+<!--
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+-->
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body data-spy="scroll" data-target=".bs-docs-sidebar" data-offset="40">
+
+
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">Zagreba metodo</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Ligilo <span class="sr-only">(current)</span></a></li>
+            <li><a href="#">Ligilo</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pli ligiloj <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#">One more separated link</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>   
+
+    
+    <div class="container">
+      <div class="row">
+
+        <div class="col-sm-9">
+
+      {% for leciono in enhavo.lecionoj %}
+
+      {% set leciono_loop = loop %}
+      
+        <h2 id="leciono{{leciono_loop.index}}">
+          {{leciono_loop.index}}.
+          {% for vorto in leciono.teksto.titolo %}
+            {% if vorto  -%}
+              <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
+                <table>
+                {# Loop only if there are multiple roots. #}
+                {% if vorto|length > 1 -%} 
+                  {% for radiko in vorto -%} 
+                    {% if radiko|lower in enhavo.vortaro -%}
+                    <tr>
+                      <td>{{ radiko }}</td>
+                      <td>{{ enhavo.vortaro[radiko|lower] }}</td>
+                    </tr>
+                    {% endif %} 
+                  {%- endfor %}
+                {% endif %} 
+                {% if vorto|join|lower in enhavo.vortaro -%}
+                  <tr>
+                    <td>{{ vorto|join|lower }}</td>
+                    <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
+                  </tr>
+                {% elif vorto|join in enhavo.vortaro -%}
+                  <tr>
+                    <td>{{ vorto|join }}</td>
+                    <td>{{ enhavo.vortaro[vorto|join] }}</td>
+                  </tr>
+                {% endif %} 
+                </table>
+              ">{{ vorto|join }}</a>
+            {% endif %} 
+          {% endfor %}
+        </h2>
+        {% for paragrafo in leciono.teksto.paragrafoj %}
+        <p>
+          {% for vorto in paragrafo -%}
+            {% if vorto  -%}
+              <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
+                <table>
+                {# Loop only if there are multiple roots. #}
+                {% if vorto|length > 1 -%} 
+                  {% for radiko in vorto -%} 
+                    {% if radiko|lower in enhavo.vortaro -%}
+                    <tr>
+                      <td>{{ radiko }}</td>
+                      <td>{{ enhavo.vortaro[radiko|lower] }}</td>
+                    </tr>
+                    {% endif %} 
+                  {%- endfor %}
+                {% endif %} 
+                {% if vorto|join|lower in enhavo.vortaro -%}
+                  <tr>
+                    <td>{{ vorto|join|lower }}</td>
+                    <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
+                  </tr>
+                {% elif vorto|join in enhavo.vortaro -%}
+                  <tr>
+                    <td>{{ vorto|join }}</td>
+                    <td>{{ enhavo.vortaro[vorto|join] }}</td>
+                  </tr>
+                {% endif %} 
+                </table>
+              ">{{ vorto|join }}</a>
+            {%- else %} 
+            {% endif %} 
+          {%- endfor %}
+        </p>
+        {% endfor %}
+
+
+        <h3 id="gramatiko{{leciono_loop.index}}">Gramatiko</h3>
+        {% for paragrafo in leciono.gramatiko %}
+          {% for titolo,klarigo in paragrafo.items() %}
+            <h4> {{titolo}} </h4>
+            {{klarigo|markdown}} 
+          {% endfor %}
+        {% endfor %}
+
+        <h3 id="ekzercoj{{leciono_loop.index}}">Ekzercoj</h3>
+        {% for ekzerco in leciono.ekzercoj %}
+
+          {% set ekzerco_loop = loop %}
+          {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_loop.index %}
+
+          {% for tasko,vicoj in ekzerco.items() %}
+            <h4> {{tasko}} </h4>
+            {% if tasko == 'Traduku' %}
+              <form id="form-{{form_id}}" class="form-horizontal">
+                {% for vico in vicoj %}
+                  {% set vico_loop = loop %}
+                  {% set id = 'vico-' ~ leciono_loop.index ~ '-' ~ ekzerco_loop.index ~ '-' ~ vico_loop.index %}
+                  <div id="form-group-{{id}}" class="form-group has-error has-feedback">
+                    {% for esperante,fontlingve in vico.items() %}
+                      <label class="control-label col-sm-2" for="{{id}}">{{fontlingve}}:</label>
+                      <div class="col-sm-10">
+                        <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-solvo="{{esperante}}"/>
+                        <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
+                      </div>
+                    {% endfor %}
+                  </div>
+                {% endfor %}
+
+                <input type="button" class="btn btn-success solvu" value="Solvu" data-form-id="{{ form_id }}" />
+                <input type="button" class="btn btn-danger forigu" value="Forigu" data-form-id="{{ form_id }}" />
+              </form>
+            {% endif %} 
+            {% if tasko == 'Kompletigu la frazojn' %}
+
+              <ol class="tasko">
+              <form id="form-{{form_id}}" class="form-inline">
+                {% for vico in vicoj %}
+                <li>
+                  {% set vico_loop = loop %}
+                  {%- for parto in vico -%}
+                    {% set parto_loop = loop %}
+                    {% set id = 'vico-' ~ leciono_loop.index ~ '-' ~ ekzerco_loop.index ~ '-' ~ vico_loop.index ~ '-' ~ parto_loop.index %}
+                    {%- for klavo,valoro in parto.items() -%}
+                      {%- if klavo == 'videbla' -%}
+                        {%- if valoro -%}
+                          {{valoro}}
+                        {%- else %} {% endif -%} 
+                      {%- elif klavo == 'solvo' -%}
+                        <div id="form-group-{{id}}" class="form-group has-error has-feedback">
+                          <input id="{{id}}" type="text" class="form-control" size="{{valoro|length}}" data-solvo="{{valoro}}" />
+                          <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
+                        </div>
+                      {%- endif -%} 
+                    {%- endfor -%}
+                  {%- endfor -%}
+                </li>
+                {% endfor %}
+                <input type="button" class="btn btn-success solvu" value="Solvu" data-form-id="{{ form_id }}" />
+                <input type="button" class="btn btn-danger forigu" value="Forigu" data-form-id="{{ form_id }}" />
+              </form>
+              </ol>
+
+            {% endif %} 
+            {% if tasko == 'Traduku kaj respondu' %}
+              <ol class="tasko">
+                {% for vico in vicoj %}
+                  {% set vico_loop = loop %}
+                  {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_loop.index ~ '-' ~ vico_loop.index %}
+                <li>
+
+                  {{vico.demando}}
+
+                  <form id="form-{{form_id}}" class="form-horizontal">
+
+                    {% for duopo in vico.rektatraduko %}
+                      {% set duopo_loop = loop %}
+                      {% set id = leciono_loop.index ~ '-' ~ ekzerco_loop.index ~ '-' ~ vico_loop.index ~ '-' ~ duopo_loop.index %}
+                      {% if duopo is mapping %}
+                        {% for esperante, fontlingve in duopo.items() %}
+                          <div id="form-group-{{id}}" class="form-group has-error has-feedback">
+                            <label class="control-label col-sm-2" for="{{id}}">{{fontlingve}}:</label>
+                            <div class="col-sm-10">
+                              <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-solvo="{{esperante}}"/>
+                              <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
+                            </div>
+                          </div>
+                          {% endfor %}
+                        {%- else %} 
+                          <div class="form-group">
+                            <label class="control-label col-sm-2">{{duopo}}</label>
+                          </div>
+                        {% endif -%} 
+                    {% endfor %}
+
+                    <input type="button" class="btn btn-success solvu" value="Solvu" data-form-id="{{ form_id }}" />
+                    <input type="button" class="btn btn-danger forigu" value="Forigu" data-form-id="{{ form_id }}" />
+                  </form>
+
+                </li>
+                {% endfor %}
+              </ol>
+            {% endif %} 
+          {% endfor %}
+        {% endfor %}
+      {% endfor %}
+
+        <h2 id="leciono2">Leciono 2</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum leo dui, sagittis et feugiat in, imperdiet et eros. Fusce vel felis a dui consectetur luctus. Nulla facilisi. In hac habitasse platea dictumst. Morbi vitae porta massa. Duis sollicitudin massa mauris, vel lacinia libero sagittis non. Vestibulum rhoncus neque eu congue dignissim. Donec sit amet elementum dui. Fusce sit amet turpis fringilla, finibus arcu dignissim, volutpat nisi. Maecenas commodo nec elit quis auctor. Nam id pretium ante. Pellentesque tempor metus non est consequat dignissim. Donec tempus ac augue ac scelerisque. Sed commodo fermentum sodales. Integer id dignissim eros. Nullam dictum tempor pretium.
+
+In lacinia sodales sodales. Nam ex tortor, sagittis in enim ac, ultricies convallis massa. Maecenas vestibulum elit vitae purus tincidunt pulvinar. Proin nec diam tincidunt, feugiat ante ut, gravida enim. Donec dapibus non metus eu semper. Nunc in tincidunt nunc, ac iaculis elit. Sed pharetra interdum risus tincidunt convallis. Vivamus ex nisl, sagittis a varius eget, tempor at magna. Fusce in faucibus tortor, sed luctus orci. Maecenas malesuada at lectus rutrum varius.
+
+Nam eros velit, gravida vel sem ac, dapibus vestibulum nulla. Suspendisse vel nunc ac elit maximus mattis. Duis dignissim ipsum et nunc gravida suscipit. Curabitur auctor mauris.
+        <h2 id="leciono3">Leciono 3</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum leo dui, sagittis et feugiat in, imperdiet et eros. Fusce vel felis a dui consectetur luctus. Nulla facilisi. In hac habitasse platea dictumst. Morbi vitae porta massa. Duis sollicitudin massa mauris, vel lacinia libero sagittis non. Vestibulum rhoncus neque eu congue dignissim. Donec sit amet elementum dui. Fusce sit amet turpis fringilla, finibus arcu dignissim, volutpat nisi. Maecenas commodo nec elit quis auctor. Nam id pretium ante. Pellentesque tempor metus non est consequat dignissim. Donec tempus ac augue ac scelerisque. Sed commodo fermentum sodales. Integer id dignissim eros. Nullam dictum tempor pretium.
+
+In lacinia sodales sodales. Nam ex tortor, sagittis in enim ac, ultricies convallis massa. Maecenas vestibulum elit vitae purus tincidunt pulvinar. Proin nec diam tincidunt, feugiat ante ut, gravida enim. Donec dapibus non metus eu semper. Nunc in tincidunt nunc, ac iaculis elit. Sed pharetra interdum risus tincidunt convallis. Vivamus ex nisl, sagittis a varius eget, tempor at magna. Fusce in faucibus tortor, sed luctus orci. Maecenas malesuada at lectus rutrum varius.
+
+Nam eros velit, gravida vel sem ac, dapibus vestibulum nulla. Suspendisse vel nunc ac elit maximus mattis. Duis dignissim ipsum et nunc gravida suscipit. Curabitur auctor mauris.
+        <h2 id="leciono4">Leciono 4</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum leo dui, sagittis et feugiat in, imperdiet et eros. Fusce vel felis a dui consectetur luctus. Nulla facilisi. In hac habitasse platea dictumst. Morbi vitae porta massa. Duis sollicitudin massa mauris, vel lacinia libero sagittis non. Vestibulum rhoncus neque eu congue dignissim. Donec sit amet elementum dui. Fusce sit amet turpis fringilla, finibus arcu dignissim, volutpat nisi. Maecenas commodo nec elit quis auctor. Nam id pretium ante. Pellentesque tempor metus non est consequat dignissim. Donec tempus ac augue ac scelerisque. Sed commodo fermentum sodales. Integer id dignissim eros. Nullam dictum tempor pretium.
+
+In lacinia sodales sodales. Nam ex tortor, sagittis in enim ac, ultricies convallis massa. Maecenas vestibulum elit vitae purus tincidunt pulvinar. Proin nec diam tincidunt, feugiat ante ut, gravida enim. Donec dapibus non metus eu semper. Nunc in tincidunt nunc, ac iaculis elit. Sed pharetra interdum risus tincidunt convallis. Vivamus ex nisl, sagittis a varius eget, tempor at magna. Fusce in faucibus tortor, sed luctus orci. Maecenas malesuada at lectus rutrum varius.
+
+Nam eros velit, gravida vel sem ac, dapibus vestibulum nulla. Suspendisse vel nunc ac elit maximus mattis. Duis dignissim ipsum et nunc gravida suscipit. Curabitur auctor mauris.
+        <h2 id="leciono5">Leciono 5</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum leo dui, sagittis et feugiat in, imperdiet et eros. Fusce vel felis a dui consectetur luctus. Nulla facilisi. In hac habitasse platea dictumst. Morbi vitae porta massa. Duis sollicitudin massa mauris, vel lacinia libero sagittis non. Vestibulum rhoncus neque eu congue dignissim. Donec sit amet elementum dui. Fusce sit amet turpis fringilla, finibus arcu dignissim, volutpat nisi. Maecenas commodo nec elit quis auctor. Nam id pretium ante. Pellentesque tempor metus non est consequat dignissim. Donec tempus ac augue ac scelerisque. Sed commodo fermentum sodales. Integer id dignissim eros. Nullam dictum tempor pretium.
+
+In lacinia sodales sodales. Nam ex tortor, sagittis in enim ac, ultricies convallis massa. Maecenas vestibulum elit vitae purus tincidunt pulvinar. Proin nec diam tincidunt, feugiat ante ut, gravida enim. Donec dapibus non metus eu semper. Nunc in tincidunt nunc, ac iaculis elit. Sed pharetra interdum risus tincidunt convallis. Vivamus ex nisl, sagittis a varius eget, tempor at magna. Fusce in faucibus tortor, sed luctus orci. Maecenas malesuada at lectus rutrum varius.
+
+Nam eros velit, gravida vel sem ac, dapibus vestibulum nulla. Suspendisse vel nunc ac elit maximus mattis. Duis dignissim ipsum et nunc gravida suscipit. Curabitur auctor mauris.
+        <h2 id="leciono6">Leciono 6</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum leo dui, sagittis et feugiat in, imperdiet et eros. Fusce vel felis a dui consectetur luctus. Nulla facilisi. In hac habitasse platea dictumst. Morbi vitae porta massa. Duis sollicitudin massa mauris, vel lacinia libero sagittis non. Vestibulum rhoncus neque eu congue dignissim. Donec sit amet elementum dui. Fusce sit amet turpis fringilla, finibus arcu dignissim, volutpat nisi. Maecenas commodo nec elit quis auctor. Nam id pretium ante. Pellentesque tempor metus non est consequat dignissim. Donec tempus ac augue ac scelerisque. Sed commodo fermentum sodales. Integer id dignissim eros. Nullam dictum tempor pretium.
+
+In lacinia sodales sodales. Nam ex tortor, sagittis in enim ac, ultricies convallis massa. Maecenas vestibulum elit vitae purus tincidunt pulvinar. Proin nec diam tincidunt, feugiat ante ut, gravida enim. Donec dapibus non metus eu semper. Nunc in tincidunt nunc, ac iaculis elit. Sed pharetra interdum risus tincidunt convallis. Vivamus ex nisl, sagittis a varius eget, tempor at magna. Fusce in faucibus tortor, sed luctus orci. Maecenas malesuada at lectus rutrum varius.
+
+Nam eros velit, gravida vel sem ac, dapibus vestibulum nulla. Suspendisse vel nunc ac elit maximus mattis. Duis dignissim ipsum et nunc gravida suscipit. Curabitur auctor mauris.
+        <h2 id="leciono7">Leciono 7</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum leo dui, sagittis et feugiat in, imperdiet et eros. Fusce vel felis a dui consectetur luctus. Nulla facilisi. In hac habitasse platea dictumst. Morbi vitae porta massa. Duis sollicitudin massa mauris, vel lacinia libero sagittis non. Vestibulum rhoncus neque eu congue dignissim. Donec sit amet elementum dui. Fusce sit amet turpis fringilla, finibus arcu dignissim, volutpat nisi. Maecenas commodo nec elit quis auctor. Nam id pretium ante. Pellentesque tempor metus non est consequat dignissim. Donec tempus ac augue ac scelerisque. Sed commodo fermentum sodales. Integer id dignissim eros. Nullam dictum tempor pretium.
+
+In lacinia sodales sodales. Nam ex tortor, sagittis in enim ac, ultricies convallis massa. Maecenas vestibulum elit vitae purus tincidunt pulvinar. Proin nec diam tincidunt, feugiat ante ut, gravida enim. Donec dapibus non metus eu semper. Nunc in tincidunt nunc, ac iaculis elit. Sed pharetra interdum risus tincidunt convallis. Vivamus ex nisl, sagittis a varius eget, tempor at magna. Fusce in faucibus tortor, sed luctus orci. Maecenas malesuada at lectus rutrum varius.
+
+Nam eros velit, gravida vel sem ac, dapibus vestibulum nulla. Suspendisse vel nunc ac elit maximus mattis. Duis dignissim ipsum et nunc gravida suscipit. Curabitur auctor mauris.
+        <h2 id="leciono8">Leciono 8</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum leo dui, sagittis et feugiat in, imperdiet et eros. Fusce vel felis a dui consectetur luctus. Nulla facilisi. In hac habitasse platea dictumst. Morbi vitae porta massa. Duis sollicitudin massa mauris, vel lacinia libero sagittis non. Vestibulum rhoncus neque eu congue dignissim. Donec sit amet elementum dui. Fusce sit amet turpis fringilla, finibus arcu dignissim, volutpat nisi. Maecenas commodo nec elit quis auctor. Nam id pretium ante. Pellentesque tempor metus non est consequat dignissim. Donec tempus ac augue ac scelerisque. Sed commodo fermentum sodales. Integer id dignissim eros. Nullam dictum tempor pretium.
+
+In lacinia sodales sodales. Nam ex tortor, sagittis in enim ac, ultricies convallis massa. Maecenas vestibulum elit vitae purus tincidunt pulvinar. Proin nec diam tincidunt, feugiat ante ut, gravida enim. Donec dapibus non metus eu semper. Nunc in tincidunt nunc, ac iaculis elit. Sed pharetra interdum risus tincidunt convallis. Vivamus ex nisl, sagittis a varius eget, tempor at magna. Fusce in faucibus tortor, sed luctus orci. Maecenas malesuada at lectus rutrum varius.
+
+Nam eros velit, gravida vel sem ac, dapibus vestibulum nulla. Suspendisse vel nunc ac elit maximus mattis. Duis dignissim ipsum et nunc gravida suscipit. Curabitur auctor mauris.
+        <h2 id="leciono9">Leciono 9</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum leo dui, sagittis et feugiat in, imperdiet et eros. Fusce vel felis a dui consectetur luctus. Nulla facilisi. In hac habitasse platea dictumst. Morbi vitae porta massa. Duis sollicitudin massa mauris, vel lacinia libero sagittis non. Vestibulum rhoncus neque eu congue dignissim. Donec sit amet elementum dui. Fusce sit amet turpis fringilla, finibus arcu dignissim, volutpat nisi. Maecenas commodo nec elit quis auctor. Nam id pretium ante. Pellentesque tempor metus non est consequat dignissim. Donec tempus ac augue ac scelerisque. Sed commodo fermentum sodales. Integer id dignissim eros. Nullam dictum tempor pretium.
+
+In lacinia sodales sodales. Nam ex tortor, sagittis in enim ac, ultricies convallis massa. Maecenas vestibulum elit vitae purus tincidunt pulvinar. Proin nec diam tincidunt, feugiat ante ut, gravida enim. Donec dapibus non metus eu semper. Nunc in tincidunt nunc, ac iaculis elit. Sed pharetra interdum risus tincidunt convallis. Vivamus ex nisl, sagittis a varius eget, tempor at magna. Fusce in faucibus tortor, sed luctus orci. Maecenas malesuada at lectus rutrum varius.
+
+Nam eros velit, gravida vel sem ac, dapibus vestibulum nulla. Suspendisse vel nunc ac elit maximus mattis. Duis dignissim ipsum et nunc gravida suscipit. Curabitur auctor mauris.
+        </div>
+        <nav class="col-sm-3 bs-docs-sidebar">
+          <ul id="sidebar" class="nav nav-stacked fixed">
+            {% for leciono in enhavo.lecionoj %}
+            {% set leciono_loop = loop %}
+              <li>
+                <a href="#leciono{{leciono_loop.index}}">Leciono 1</a>
+                <ul class="nav nav-stacked">
+                  <li><a href="#gramatiko{{leciono_loop.index}}">Gramatiko</a></li>
+                  <li><a href="#ekzercoj{{leciono_loop.index}}">Ekzercoj</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="#leciono2">Leciono 2</a>
+              </li>
+              <li>
+                <a href="#leciono3">Leciono 3</a>
+              </li>
+              <li>
+                <a href="#leciono4">Leciono 4</a>
+              </li>
+              <li>
+                <a href="#leciono5">Leciono 5</a>
+              </li>
+              <li>
+                <a href="#leciono6">Leciono 6</a>
+              </li>
+              <li>
+                <a href="#leciono7">Leciono 7</a>
+              </li>
+              <li>
+                <a href="#leciono8">Leciono 8</a>
+              </li>
+              <li>
+                <a href="#leciono9">Leciono 9</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+
+      </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!--
+    <script src="vendor/jquery/jquery.min.js"></script>
+-->
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <!-- 
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    -->
+    <script src="js/main.js"></script>
+  </body>
+</html>

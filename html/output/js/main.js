@@ -33,4 +33,3 @@ $('.forigu').click(function() {
     $(this).trigger('input');
   });
 });
-

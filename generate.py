@@ -28,6 +28,16 @@ def load(language):
         filename = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
         leciono['teksto'] = yaml.load(file(filename, 'r'))
 
+        # Create a string of the lesson titles.
+        titolo_string = ''
+        for radikoj in leciono['teksto']['titolo']:
+            if radikoj:
+                titolo_string += titolo_string.join(radikoj)
+            else:
+                titolo_string += ' '
+        
+        leciono['teksto']['titolo_string'] = titolo_string
+
         filename = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.yml'
         leciono['gramatiko'] = yaml.load(file(filename, 'r'))
 

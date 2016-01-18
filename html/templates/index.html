@@ -104,6 +104,7 @@
             {% endif %} 
           {% endfor %}
         </h2>
+        <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Alklaku la vortojn por vidi ilian tradukon.'] }}</p>
         {% for paragrafo in leciono.teksto.paragrafoj %}
         <p>
           {% for vorto in paragrafo -%}
@@ -141,23 +142,22 @@
         {% endfor %}
 
 
-        <h3 id="gramatiko{{leciono_loop.index}}">Gramatiko</h3>
         {% for paragrafo in leciono.gramatiko %}
         {% set paragrafo_loop = loop %}
           {% for titolo,klarigo in paragrafo.items() %}
-            <h4 id="gramatiko{{leciono_loop.index}}-{{paragrafo_loop.index}}"> {{titolo}} </h4>
+            <h3 id="gramatiko{{leciono_loop.index}}-{{paragrafo_loop.index}}"> {{titolo}} </h3>
             {{klarigo|markdown}} 
           {% endfor %}
         {% endfor %}
 
-        <h3 id="ekzercoj{{leciono_loop.index}}">Ekzercoj</h3>
+        <h3 id="ekzercoj{{leciono_loop.index}}">{{ enhavo.vortaro['Ekzercoj'] }} / Ekzercoj</h3>
         {% for ekzerco in leciono.ekzercoj %}
 
           {% set ekzerco_loop = loop %}
           {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_loop.index %}
 
           {% for tasko,vicoj in ekzerco.items() %}
-            <h4> {{tasko}} </h4>
+            <h4> {{enhavo.vortaro[tasko]}} / {{tasko}} </h4>
             {% if tasko == 'Traduku' %}
               <form id="form-{{form_id}}" class="form-horizontal">
                 {% for vico in vicoj %}
@@ -268,7 +268,7 @@
                     {%- endfor %}
                   {%- endfor %}
 
-                  <li><a href="#ekzercoj{{leciono_loop.index}}">Ekzercoj</a></li>
+                  <li><a href="#ekzercoj{{leciono_loop.index}}">{{enhavo.vortaro['Ekzercoj']}} / Ekzercoj</a></li>
                 </ul>
             {% endfor %}
           </ul>

@@ -28,9 +28,14 @@
 
 :%s/\(in\)$/\r    - \1/g
 :%s/\(ist\)$/\r    - \1/g
+:%s/\(ej\)$/\r    - \1/g
+:%s/\(et\)$/\r    - \1/g
+:%s/\(eg\)$/\r    - \1/g
 :%s/\(as\|is\|os\|us\)$/\r    - \1/g
 :%s/\(at\|it\|ot\|ut\)$/\r    - \1/g
 :%s/\(ant\|int\|ont\|unt\)$/\r    - \1/g
+
+:%s/\(mal\|al\|ge\)$/\r    - \1/g
 
 " Remove lists of empty words.
 :%s/^    -\n//g

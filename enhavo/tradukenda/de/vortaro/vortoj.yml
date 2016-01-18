@@ -1,6 +1,11 @@
 Doĝ: Doge (Wortstamm)
 Ana: Ana (Name)
+Bonifacio: Bonifacio (Name)
+Karlo: Karlo (Name)
+Maja: Maja (Name)
+Maria: Maria (Name)
 Marko: Marko (Name)
+Petro: Petro (Name)
 Vera: Vera (Name)
 afer: Angelegenheit, Sache (Wortstamm)
 ag: handeln (Wortstamm)
@@ -130,10 +135,13 @@ ide: Idee (Wortstamm)
 ili: sie (Mehrzahl) 
 infan: Kind (Wortstamm)
 instru: unterrichten (Wortstamm)
-instruistin: Lehrerin (Wortstamm)
+instruisto: Lehrer
+instruiston: Lehrer (Akkusativ)
+instruistino: Lehrerin 
 inter: zwischen
 invit: einladen (Wortstamm)
 ir: gehen (Wortstamm)
+itali: Italien 
 jam: schon
 jar: Jahr (Wortstamm)
 je: Verhältniswort mit mehreren Bedeutungen 
@@ -251,6 +259,7 @@ naŭ: neun
 ne: nein, nicht 
 neces: notwendig (Wortstamm)
 nek: weder (… noch)
+neniam: nie
 ni: wir
 nokt: Nacht (Wortstamm)
 nombr: Zahl (Wortstamm)
@@ -281,7 +290,7 @@ part: Teil (Wortstamm)
 pas: vorbei gehen (Wortstamm)
 patr: Vater (Wortstamm)
 patr: Vater (Wortstamm)
-patrin: Mutter (Wortstamm)
+patrino: Mutter
 paŝ: schreiten (Wortstamm)
 pens: denken (Wortstamm)
 per: mit, mittels 
@@ -311,6 +320,7 @@ pret: bereit (Wortstamm)
 prezent: vorstellen (Wortstamm)
 pri: über
 pro: wegen
+problem: Problem (Wortstamm)
 proksim: nahe (Wortstamm)
 proksimum: ungefähr (Wortstamm)
 promen: spazierengehen (Wortstamm)
@@ -354,7 +364,7 @@ sent: fühlen (Wortstamm)
 serĉ: suchen (Wortstamm)
 ses: sechs 
 seĝ: Sessel (Wortstamm)
-sia: sein/ihr 
+si: sein/ihr  (Wortstamm)
 sid: sitzen (Wortstamm)
 silent: Schweigen (Wortstamm)
 simil: ähnlich (Wortstamm)
@@ -386,13 +396,19 @@ tabl: Tisch (Wortstamm)
 tag: Tag (Wortstamm)
 tamen: dennoch
 temp: Zeit (Wortstamm)
+temperatur: Temperatur
 ten: halten (Wortstamm)
 teo: Tee
 terorist: Terrorist (Wortstamm)
 terur: schrecklich (Wortstamm)
+tiam: dann
 tie: dort, da
 tim: fürchten (Wortstamm)
+tio: das
+tiom: soviel
 tir: ziehen (Wortstamm)
+tiu: dieser
+tiuokaze: bei dieser Gelegenheit
 tra: durch
 trankvil: ruhig (Wortstamm)
 trans: jenseits
@@ -406,8 +422,7 @@ tuj: sofort
 tut: ganz (Wortstamm)
 tuŝ: berühren (Wortstamm)
 universal: allumfassend (Wortstamm)
-unu: ein
-unu: eins 
+unu: ein, eine, eines, eins
 urb: Stadt (Wortstamm)
 util: nützlich (Wortstamm)
 uzi: gebrauchen
@@ -438,6 +453,8 @@ zorg: sorgen (Wortstamm)
 ĉe: bei
 ĉef: Chef (Wortstamm)
 ĉi: näher liegend 
+ĉiam: immer
+ĉio: alles
 ĉirkaŭ: um, herum
 ĉu: ob; kennzeichnet auch einfache Fragesätze 
 ĝeneral: allgemein (Wortstamm)

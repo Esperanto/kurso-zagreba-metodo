@@ -1,21 +1,576 @@
 titolo: 
   -
-    - La
+    - Nov
+    - a
   -
   -
-    - amik
-    - in
+    - aŭt
     - o
-  -
-  -
-    - de
-  -
-  -
-    - Mark
-    - o
-  
 paragrafoj:
   -
     -
-      - Mark
+      - Sinjor
       - o
+    -
+    -
+      - Rapid
+    -
+      - ','
+    -
+    -
+      - amik
+      - o
+    -
+    -
+      - de
+    -
+    -
+      - Marko
+    -
+      - ','
+    -
+    -
+      - enir
+      - is
+    -
+    -
+      - vend
+      - ej
+      - o
+      - n
+    -
+    -
+      - de
+    -
+    -
+      - aŭt
+      - o
+      - j
+    -
+      - .
+    -
+    -
+      - Tie
+    -
+    -
+      - li
+    -
+    -
+      - vid
+      - is
+    -
+    -
+      - bel
+      - a
+      - n
+    -
+    -
+      - sinjor
+      - in
+      - o
+      - n
+    -
+      - ','
+    -
+    -
+      - kiu
+    -
+    -
+      - plaĉ
+      - is
+    -
+    -
+      - al
+    -
+    -
+      - li
+    -
+      - .
+    -
+    -
+      - Vend
+      - ist
+      - o
+    -
+    -
+      - ven
+      - as
+    -
+    -
+      - al
+    -
+    -
+      - li
+    -
+      - .
+    -
+    -
+      - Sinjor
+      - o
+    -
+    -
+      - Rapid
+    -
+    -
+      - demand
+      - as
+    -
+      - ':'
+  -
+    - '–'
+    -
+    -
+      - Kiu
+    -
+    -
+      - aŭt
+      - o
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - la
+    -
+    -
+      - plej
+    -
+    -
+      - bon
+      - a
+    -
+      - '?'
+  
+  -
+    - '–'
+    -
+    -
+      - Tiu
+    -
+    -
+      - ĉi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - la
+    -
+    -
+      - plej
+    -
+    -
+      - bon
+      - a
+    -
+    -
+      - el
+    -
+    -
+      - ĉiu
+      - j
+    -
+      - .
+  -
+    - '–'
+    -
+    -
+      - Ĉu
+    -
+    -
+      - ĝi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - rapid
+      - a
+    -
+      - '?'
+  -
+    - '–'
+    -
+    -
+      - Ĝi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - pli
+    -
+    -
+      - rapid
+      - a
+    -
+    -
+      - ol
+    -
+    -
+      - ali
+      - a
+      - j
+    -
+      - .
+  
+  -
+    - '–'
+    -
+    -
+      - Ĉu
+    -
+    -
+      - ĝi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - ankaŭ
+    -
+    -
+      - fort
+      - a
+    -
+      - '?'
+  
+  -
+    - '–'
+    -
+    -
+      - H
+      - o
+    -
+    -
+      - jes
+    -
+      - ','
+    -
+    -
+      - ĝi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - tre
+    -
+    -
+      - fort
+      - a
+    -
+      - .
+  
+  -
+    - '–'
+    -
+    -
+      - Cert
+      - e
+    -
+    -
+      - ĝi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - mult
+      - e
+      - kost
+      - a
+    -
+      - '?'
+  
+  -
+    - '–'
+    -
+    -
+      - Kompren
+      - ebl
+      - e
+    -
+      - ','
+    -
+    -
+      - ĝi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - la
+    -
+    -
+      - plej
+    -
+    -
+      - mult
+      - e
+      - kost
+      - a
+    -
+    -
+      - el
+    -
+    -
+      - ĉiuj
+    -
+      - .
+  
+  -
+    - '–'
+    -
+    -
+      - Dank
+      - o
+      - n
+    -
+      - ','
+    -
+    -
+      - bedaŭr
+      - ind
+      - e
+    -
+    -
+      - mi
+    -
+    -
+      - ne
+    -
+    -
+      - aĉet
+      - os
+    -
+    -
+      - nov
+      - a
+      - n
+    -
+    -
+      - aŭt
+      - o
+      - n
+    -
+      - ','
+    -
+    -
+      - ĉar
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - mal
+      - nov
+      - a
+    -
+    -
+      - aŭt
+      - o
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - la
+    -
+    -
+      - plej
+    -
+    -
+      - mal
+      - mult
+      - e
+      - kost
+      - a
+    -
+    -
+      - el
+    -
+    -
+      - ĉiuj
+    -
+      - .
+    -
+    -
+      - Mi
+    -
+    -
+      - ankoraŭ
+    -
+    -
+      - vetur
+      - os
+    -
+    -
+      - per
+    -
+    -
+      - ĝi
+    -
+      - .
+  
+  -
+    -
+    -
+      - Dum
+    -
+    -
+      - li
+    -
+    -
+      - tio
+      - n
+    -
+    -
+      - dir
+      - is
+    -
+      - ','
+    -
+    -
+      - li
+    -
+    -
+      - de
+      - nov
+      - e
+    -
+    -
+      - rigard
+      - is
+    -
+    -
+      - la
+    -
+    -
+      - bel
+      - a
+      - n
+    -
+    -
+      - sinjor
+      - in
+      - o
+      - n
+    -
+      - .
+    -
+    -
+      - Sed
+    -
+    -
+      - la
+    -
+    -
+      - vend
+      - ist
+      - o
+    -
+    -
+      - dir
+      - is
+    -
+      - ':'
+  -
+    -
+    -
+      - Est
+      - os
+    -
+    -
+      - pli
+    -
+    -
+      - bon
+      - e
+    -
+      - ','
+    -
+    -
+      - ke
+    -
+    -
+      - vi
+    -
+    -
+      - ne
+    -
+    -
+      - rigard
+      - u
+    -
+    -
+      - tiu
+      - n
+    -
+    -
+      - ĉi
+    -
+    -
+      - sinjor
+      - in
+      - o
+      - n
+    -
+      - .
+    -
+    -
+      - Ankaŭ
+    -
+    -
+      - ŝi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - multe
+      - kost
+      - a
+    -
+      - .
+    -
+    -
+      - Mi
+    -
+    -
+      - sci
+      - as
+    -
+      - ','
+    -
+    -
+      - ĉar
+    -
+    -
+      - mi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - ŝi
+      - a
+    -
+    -
+      - edz
+      - o
+    -
+      - .
+  

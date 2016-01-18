@@ -17,7 +17,7 @@ def load(language):
 
     lecionoj = []
 
-    for i in range(1,2):
+    for i in range(1,13):
         leciono = {
           'teksto': None,
           'gramatiko': None,

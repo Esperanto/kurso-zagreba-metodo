@@ -32,7 +32,7 @@ def load(language):
         titolo_string = ''
         for radikoj in leciono['teksto']['titolo']:
             if radikoj:
-                titolo_string += titolo_string.join(radikoj)
+                titolo_string += ''.join(radikoj)
             else:
                 titolo_string += ' '
         

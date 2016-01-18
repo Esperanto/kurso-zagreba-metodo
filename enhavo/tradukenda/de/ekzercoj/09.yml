@@ -16,4 +16,77 @@
     - parolrajto: Rederecht
     - domaĉo: Bruchbude
     - tiuokaze: in diesem Fall
-
+3:
+  'Traduku kaj respondu':
+    - 
+      demando: Was könnte deine Eltern am meisten erfreuen?
+      rektatraduko:
+        - Kio: Was 
+        - povus: könnte 
+        - plej: am meisten 
+        - ĝojigi: erfreuen 
+        - viajn: deine 
+        - gepatrojn: Eltern 
+        - '?'
+    - 
+      demando: Wenn wenigstens du nach dem Lernen mit mir in das Stadtzentrum gehen würdest!
+      rektatraduko:
+        - Se: Wenn
+        - almenaŭ: wenigstens 
+        - vi: du 
+        - post: nach 
+        - la: dem 
+        - lernado: Lernen 
+        - irus: würdest gehen 
+        - kun: mit 
+        - mi: mir 
+        - en: in 
+        - la: das 
+        - urbocentron: Stadtzentrum 
+        - '!'
+    - 
+      demando: Wohin würdest du reisen wollen, wenn du genug Geld und Zeit hättest?
+      rektatraduko:
+        - Kien: Wohin 
+        - vi: du 
+        - dezirus: würdest wollen
+        - vojaĝi: reisen 
+        - ',' 
+        - se: wenn 
+        - vi: du 
+        - havus: hättest 
+        - sufiĉe: genug 
+        - da: an 
+        - mono: Geld 
+        - kaj: und 
+        - tempo: Zeit 
+        - '?'
+    - 
+      demando: Reist du mit dem Auto nach Paris oder besser mit dem Zug?
+      rektatraduko:
+        - Ĉu: Ob 
+        - vi: du 
+        - vojaĝas: reist 
+        - per: mit
+        - la: dem 
+        - aŭto: Auto 
+        - al: nach 
+        - Parizo: Paris 
+        - aŭ: oder 
+        - pli: mehr
+        - bone: gut 
+        - per: mit 
+        - la: dem 
+        - vagonaro: Zug 
+        - '?'
+    - 
+      demando: Warum werden gleiche Ideen von verschiedenen Menschen verschiedenartig erklärt?
+      rektatraduko:
+        - Kial: Warum 
+        - diversaj: verschiedene 
+        - homoj: Menschen 
+        - klarigas: erklären 
+        - samajn: gleiche 
+        - ideojn: Ideen 
+        - diversmaniere: verschiedenartig 
+        - '?'

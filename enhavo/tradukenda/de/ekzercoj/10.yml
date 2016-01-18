@@ -13,3 +13,56 @@
     - elĵeti: hinauswerfen
     - finiĝi: zu Ende gehen
     - informiĝi: sich informieren
+3:
+  'Traduku kaj respondu':
+    - 
+      demando: Macht dich Freundschaft glücklicher als die Liebe?
+      rektatraduko:
+        - Ĉu: Ob 
+        - amikeco: Freundschaft 
+        - pli: mehr 
+        - feliĉigas: glücklich macht 
+        - vin: dich 
+        - ol: als 
+        - la: die 
+        - amo: Liebe 
+        - '?'
+    - 
+      demando: Wie oft schreibst du Briefe an deine Freundinnen in Italien?
+      rektatraduko:
+        - Kiel: Wie
+        - ofte: oft 
+        - vi: du 
+        - skribas: schreibst 
+        - leterojn: Briefe 
+        - al: an 
+        - viaj: deine 
+        - amikinoj: Freundinnen 
+        - en: in 
+        - Italio: Italien
+        - '?'
+    - 
+      demando: Hat sich die Beziehung zwischen dir und deinem Lehrer geändert?
+      rektatraduko:
+        - Ĉu: Ob 
+        - la: die 
+        - rilato: Beziehung 
+        - inter: zwischen 
+        - vi: dir 
+        - kaj: und 
+        - via: deinem 
+        - instruisto: Lehrer 
+        - ŝanĝiĝis: änderte sich
+        - '?'
+    - 
+      demando: Kannst du jetzt schon gut genug Esperanto?
+      rektatraduko:
+        - Ĉu: Ob
+        - vi: du 
+        - nun: jetzt 
+        - jam: schon 
+        - scias: weißt 
+        - Esperanton: Esperanto 
+        - sufiĉe: genügend 
+        - bone: gut 
+        - '?'

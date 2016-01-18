@@ -17,4 +17,78 @@
     - internacia: international
     - piediri: zu Fuß gehen
     - dumil tri: 2003
-
+3:
+  'Traduku kaj respondu':
+    -
+      demando: Wann werde ich dich wiedersehen?
+      rektatraduko:
+        - Kiam: Wann
+        - mi: ich
+        - revidos: werde wiedersehen
+        - vin: Dich
+        - '?'
+    -
+      demando: Wie lange lernst du die Internationale Sprache?
+      rektatraduko:
+        - Kiel: Wie
+        - longe: lange
+        - vi: du
+        - lernas: lernst
+        - la: die
+        - Internacian: Internationale
+        - Lingvon: Sprache
+        - '?'
+    -
+      demando: Wo ist mein neues Buch mit Fotos?
+      rektatraduko:
+        - Kie: Wo
+        - estas: ist
+        - mia: mein
+        - nova: neues
+        - libro: Buch
+        - kun: mit
+        - fotoj: Fotos
+        - '?'
+    -
+      demando: Wohin gehst du nach dem Mittagessen?
+      rektatraduko:
+        - Kien: Wohin
+        - vi: du
+        - iros: wirst gehen
+        - post: nach
+        - la: dem
+        - tagmanĝo: Mittagessen
+        - '?'
+    -
+      demando: Kann man die Tür des Zimmers schließen, wenn es kalt ist?
+      rektatraduko:
+        - Ĉu: Ob
+        - oni: man
+        - povas: kann
+        - fermi: schließen
+        - la: die
+        - pordon: Tür
+        - de: von
+        - la: dem
+        - ĉambro: Zimmer
+        - ','
+        - kiam: wenn
+        - estas: ist
+        - malvarme: kalt
+        - '?'
+    -
+      demando: Wie lange bist du zornig, wenn man dir viel Geld wegnimmt?
+      rektatraduko:
+        - Kiel: Wie
+        - longe: lange
+        - vi: du
+        - koleras: ärgerst
+        - ','
+        - se: wenn
+        - oni: man
+        - forprenas: wegnimmt
+        - de: von
+        - vi: dir
+        - multan: viel
+        - monon: Geld
+        - '?'

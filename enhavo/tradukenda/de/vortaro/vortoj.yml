@@ -243,8 +243,9 @@ morgaŭ: morgen
 mort: sterben (Wortstamm)
 mov: bewegen (Wortstamm)
 mult: viel (Wortstamm)
-multekost: teuer (Wortstamm)
-nask: gebähren (Wortstamm)
+multekosta: teuer
+malmultekosta: billig
+nask: gebären (Wortstamm)
 natur: Natur (Wortstamm)
 naŭ: neun 
 ne: nein, nicht 
@@ -359,6 +360,8 @@ silent: Schweigen (Wortstamm)
 simil: ähnlich (Wortstamm)
 simpl: einfach (Wortstamm)
 sinjor: Herr (Wortstamm)
+sinjorino: Dame
+sinjorinon: Dame (Akkusativ)
 situaci: Lage (Wortstamm)
 skrib: schreiben (Wortstamm)
 skribotabl: Schreibtisch (Wortstamm)

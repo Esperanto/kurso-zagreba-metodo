@@ -306,7 +306,7 @@ Nam eros velit, gravida vel sem ac, dapibus vestibulum nulla. Suspendisse vel nu
             {% for leciono in enhavo.lecionoj %}
             {% set leciono_loop = loop %}
               <li>
-                <a href="#leciono{{leciono_loop.index}}">Leciono 1</a>
+                <a href="#leciono{{leciono_loop.index}}">{{leciono_loop.index}}. {{ leciono.teksto.titolo_string }}</a>
                 <ul class="nav nav-stacked">
 
                   {% for paragrafo in leciono.gramatiko %}

@@ -1,21 +1,666 @@
 titolo: 
   -
-    - La
+    - Mal
+    - bel
+    - a
   -
   -
-    - amik
-    - in
+    - tag
     - o
-  -
-  -
-    - de
-  -
-  -
-    - Mark
-    - o
-  
 paragrafoj:
   -
     -
-      - Mark
+      - Hodiaŭ
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - patr
+      - in
       - o
+    -
+    -
+      - est
+      - is
+    -
+    -
+      - tre
+    -
+    -
+      - mal
+      - trankvil
+      - a
+    -
+      - .
+    -
+    -
+      - Mi
+    -
+    -
+      - ven
+      - is
+    -
+    -
+      - el
+    -
+    -
+      - la
+    -
+    -
+      - lern
+      - ej
+      - o
+    -
+    -
+      - kaj
+    -
+    -
+      - raport
+      - is
+    -
+    -
+      - al
+    -
+    -
+      - ŝi
+    -
+      - ','
+    -
+    -
+      - ke
+    -
+    -
+      - mi
+    -
+    -
+      - ricev
+      - is
+    -
+    -
+      - mal
+      - bon
+      - a
+      - n
+    -
+    -
+      - not
+      - o
+      - n
+    -
+      - .
+    -
+    -
+      - Ŝi
+    -
+    -
+      - dir
+      - is
+    -
+      - ':'
+    -
+    -
+      - '"'
+    -
+      - Knab
+      - aĉ
+      - o
+    -
+      - ','
+    -
+    -
+      - vi
+    -
+    -
+      - dev
+      - as
+    -
+    -
+      - pli
+    -
+    -
+      - mult
+      - e
+    -
+    -
+      - labor
+      - ig
+      - i
+    -
+    -
+      - vi
+      - a
+      - n
+    -
+    -
+      - kap
+      - o
+      - n
+    -
+      - .
+    -
+    -
+      - Kiom
+    -
+    -
+      - da
+    -
+    -
+      - mal
+      - bon
+      - a
+      - j
+    -
+    -
+      - not
+      - o
+      - j
+    -
+    -
+      - vi
+    -
+    -
+      - hav
+      - as
+    -
+      - '?'
+    -
+      - '"'
+  -
+    -
+    -
+      - Mi
+    -
+    -
+      - est
+      - is
+    -
+    -
+      - mal
+      - ĝoj
+      - a
+    -
+      - .
+  
+  -
+    - '–'
+    -  
+    -
+      - Ir
+      - u
+    -
+    -
+      - en
+    -
+    -
+      - vi
+      - a
+      - n
+    -
+    -
+      - ĉambr
+      - o
+      - n
+    -
+    -
+      - kaj
+    -
+    -
+      - lern
+      - u
+    -
+      - '!'
+    -  
+    -  
+      - '–'
+    -  
+    -
+      - ŝi
+    -
+    -
+      - dir
+      - is
+    -
+      - .
+  
+  -
+    -
+    -
+      - Mi
+    -
+    -
+      - sid
+      - is
+    -
+    -
+      - en
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - ĉambr
+      - o
+    -
+      - ','
+    -
+    -
+      - sed
+    -
+    -
+      - mi
+    -
+    -
+      - pov
+      - is
+    -
+    -
+      - nek
+    -
+    -
+      - lern
+      - i
+    -
+    -
+      - nek
+    -
+    -
+      - leg
+      - i
+    -
+      - .
+    -
+    -
+      - Mi
+      - a
+      - j
+    -
+    -
+      - pens
+      - o
+      - j
+    -
+    -
+      - est
+      - is
+    -
+    -
+      - ĉe
+    -
+    -
+      - lud
+      - o
+    -
+    -
+      - kun
+    -
+    -
+      - mi
+      - a
+      - j
+    -
+    -
+      - amik
+      - o
+      - j
+    -
+    -
+      - kaj
+    -
+    -
+      - ĉ
+      - e
+    -
+    -
+      - sport
+      - o
+    -
+      - .
+  
+  -
+    -
+    -
+      - Mi
+    -
+    -
+      - dir
+      - is
+    -
+    -
+      - al
+    -
+    -
+      - mi
+    -
+    -
+      - mem
+    -
+      - ':'
+    -
+    -
+      - Ĉ
+      - u
+    -
+    -
+      - mi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - tiom
+    -
+    -
+      - mal
+      - saĝ
+      - a
+    -
+      - ','
+    -
+    -
+      - kvankam
+    -
+    -
+      - mi
+    -
+    -
+      - lern
+      - is
+    -
+    -
+      - mult
+      - e
+    -
+      - '?'
+  
+  -
+    -
+    -
+      - Tiam
+    -
+    -
+      - l
+      - a
+    -
+    -
+      - patr
+      - in
+      - o
+    -
+    -
+      - enir
+      - is
+    -
+    -
+      - l
+      - a
+    -
+    -
+      - ĉambr
+      - o
+      - n
+    -
+    -
+      - kaj
+    -
+    -
+      - aŭd
+      - is
+    -
+    -
+      - mi
+      - a
+      - j
+      - n
+    -
+    -
+      - vort
+      - o
+      - j
+      - n
+    -
+      - .
+    -
+    -
+      - Ŝi
+    -
+    -
+      - tuj
+    -
+    -
+      - respond
+      - is
+    -
+      - ':'
+  
+  -
+    - '–'
+    -  
+    -
+      - Ne
+    -
+      - ','
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - kar
+      - a
+    -
+      - ','
+    -
+    -
+      - vi
+    -
+    -
+      - ne
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - mal
+      - saĝ
+      - a
+    -
+      - .
+    -
+    -
+      - La
+    -
+    -
+      - problem
+      - o
+    -
+    -
+      - est
+      - as
+    -
+      - ','
+    -
+    -
+      - ke
+    -
+    -
+      - vi
+    -
+    -
+      - dev
+      - as
+    -
+    -
+      - lern
+      - i
+    -
+    -
+      - mult
+      - e
+    -
+    -
+      - pli
+    -
+      - .
+    -
+    -
+      - Tiam
+    -
+    -
+      - vi
+    -
+    -
+      - ne
+    -
+    -
+      - hav
+      - os
+    -
+    -
+      - nur
+    -
+    -
+      - mal
+      - bon
+      - a
+      - j
+      - n
+    -
+    -
+      - not
+      - o
+      - j
+      - n
+    -
+      - .
+  
+  -
+    -
+    -
+      - Ankaŭ
+    -
+    -
+      - nun
+    -
+    -
+      - mi
+    -
+    -
+      - ne
+    -
+    -
+      - hav
+      - as
+    -
+    -
+      - ili
+      - n
+    -
+      - .
+    -
+    -
+      - Mi
+    -
+    -
+      - hav
+      - as
+    -
+    -
+      - bon
+      - a
+      - n
+    -
+    -
+      - not
+      - o
+      - n
+    -
+    -
+      - pri
+    -
+    -
+      - muzik
+      - o
+    -  
+    -  
+      - '–'
+    -  
+    -
+      - mi
+    -
+    -
+      - dir
+      - is
+    -
+      - .
+  
+    -
+    -
+      - La
+    -
+    -
+      - patr
+      - in
+      - o
+    -
+    -
+      - subit
+      - e
+    -
+    -
+      - ek
+      - rid
+      - is
+    -
+      - .
+    -
+    -
+      - Ti
+      - o
+    -
+    -
+      - de
+      - nov
+      - e
+    -
+    -
+      - pli
+      - bel
+      - ig
+      - is
+    -
+    -
+      - mi
+      - a
+      - n
+    -
+    -
+      - tag
+      - o
+      - n
+    -
+      - .
+    -
+    -
+      - Sed
+    -
+    -
+      - la
+    -
+    -
+      - problem
+      - o
+    -
+    -
+      - tamen
+    -
+    -
+      - rest
+      - is
+    -
+      - .
+  

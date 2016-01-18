@@ -1,21 +1,641 @@
 titolo: 
   -
-    - La
-  -
-  -
-    - amik
-    - in
+    - Plan
     - o
+    - j
   -
   -
-    - de
+    - pri
   -
   -
-    - Mark
+    - veturad
     - o
-  
 paragrafoj:
   -
     -
-      - Mark
+      - Petro
+    -
+    -
+      - kaj
+    -
+    -
+      - Maria
+    -
+    -
+      - vol
+      - is
+    -
+    -
+      - vojaĝ
+      - i
+    -
+    -
+      - al
+    -
+    -
+      - ali
+      - a
+    -
+    -
+      - land
       - o
+    -
+    -
+      - en
+    -
+    -
+      - liber
+      - temp
+      - o
+    -
+      - .
+    -
+    -
+      - Ili
+    -
+    -
+      - decid
+      - is
+    -
+    -
+      - ir
+      - i
+    -
+    -
+      - al
+    -
+    -
+      - Itali
+      - o
+    -
+      - ','
+    -
+    -
+      - bel
+      - a
+    -
+    -
+      - land
+      - o
+    -
+    -
+      - kun
+    -
+    -
+      - mal
+      - nov
+      - a
+      - j
+    -
+    -
+      - urb
+      - o
+      - j
+    -
+    -
+      - kaj
+    -
+    -
+      - ali
+      - a
+      - j
+    -
+    -
+      - bel
+      - aĵ
+      - o
+      - j
+    -
+      - .
+    -
+    -
+      - Ili
+    -
+    -
+      - est
+      - is
+    -
+    -
+      - feliĉ
+      - a
+      - j
+    -
+      - ':'
+  
+  -
+    - '–'
+    -
+    -
+      - Kie
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - vest
+      - aĵ
+      - o
+    -
+      - '?'
+    -
+    - '–'
+    -
+    -
+      - ŝi
+    -
+    -
+      - demand
+      - is
+    - .
+  
+  -
+    - '–'
+    -
+    -
+      - Ni
+    -
+    -
+      - ne
+    -
+    -
+      - forges
+      - u
+    -
+    -
+      - kun
+      - port
+      - i
+    -
+    -
+      - la
+    -
+    -
+      - libr
+      - o
+      - n
+    -
+    -
+      - por
+    -
+    -
+      - lern
+      - i
+    -
+    -
+      - Esper
+      - ant
+      - o
+    -
+      - .
+    -
+    -
+      - Ni
+    -
+    -
+      - pov
+      - us
+    -
+    -
+      - komenc
+      - i
+    -
+    -
+      - jam
+    -
+    -
+      - en
+    -
+    -
+      - la
+    -
+    -
+      - vagon
+      - ar
+      - o
+    -
+      - .
+  
+  -
+    - '–'
+    -
+    -
+      - En
+    -
+    -
+      - la
+    -
+    -
+      - vagon
+      - ar
+      - o
+    -
+    -
+      - ni
+    -
+    -
+      - nenio
+      - n
+    -
+    -
+      - far
+      - os
+    -
+      - ','
+    -
+    -
+      - kar
+      - a
+    -
+    -
+      - Petro
+    -
+      - .
+    -
+    -
+      - Ni
+    -
+    -
+      - vetur
+      - os
+    -
+    -
+      - per
+    -
+    -
+      - aŭt
+      - o
+    -
+      - .
+    -
+    -
+      - Mi
+    -
+    -
+      - hav
+      - as
+    -
+    -
+      - sekret
+      - o
+      - n
+    -
+      - ':'
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - riĉ
+      - a
+    -
+    -
+      - onkl
+      - o
+    -
+    -
+      - Bonifacio
+    -
+    -
+      - plen
+      - um
+      - is
+    -
+    -
+      - mi
+      - a
+      - n
+    -
+    -
+      - dezir
+      - o
+      - n
+    -
+    -
+      - kaj
+    -
+    -
+      - don
+      - is
+    -
+    -
+      - al
+    -
+    -
+      - ni
+    -
+    -
+      - si
+      - a
+      - n
+    -
+    -
+      - aŭt
+      - o
+      - n
+    -
+    -
+      - por
+    -
+    -
+      - uz
+      - o
+    -
+      - .
+    -
+    -
+      - Ĝi
+    -
+    -
+      - jam
+    -
+    -
+      - star
+      - as
+    -
+    -
+      - antaŭ
+    -
+    -
+      - la
+    -
+    -
+      - dom
+      - o
+    -
+      - .
+  
+  -
+    - '–'
+    -
+    -
+      - Sed
+    -
+    -
+      - mi
+    -
+    -
+      - dev
+      - as
+    -
+    -
+      - dir
+      - i
+    - 
+      '…'
+  -
+    - '–'
+    -
+    -
+      - Neni
+      - o
+      - n
+    -
+    -
+      - dir
+      - u
+    -
+      - ','
+    -
+    -
+      - karul
+      - o
+    -
+      - ','
+    -
+    -
+      - ni
+    -
+    -
+      - ek
+      - sid
+      - u
+    -
+    -
+      - en
+    -
+    -
+      - la
+    -
+    -
+      - aŭt
+      - o
+      - n
+    -
+    -
+      - kaj
+    -
+    -
+      - vetur
+      - u
+    -
+    -
+      - al
+    -
+    -
+      - Ital
+      - i
+      - o
+    -
+      - .
+  
+  -
+    -
+    -
+      - Petro
+    -
+    -
+      - kaj
+    -
+    -
+      - Maria
+    -
+    -
+      - sid
+      - is
+    -
+    -
+      - en
+    -
+    -
+      - l
+      - a
+    -
+    -
+      - aŭt
+      - o
+    -
+      - .
+    -
+    -
+      - Ankaŭ
+    -
+    -
+      - la
+    -
+    -
+      - vest
+      - aĵ
+      - o
+      - j
+    -
+    -
+      - est
+      - is
+    -
+    -
+      - en
+    -
+    -
+      - la
+    -
+    -
+      - aŭt
+      - o
+    -
+      - .
+    -
+    -
+      - Sed
+    -
+    -
+      - ili
+    -
+    -
+      - ankoraŭ
+    -
+    -
+      - sid
+      - ad
+      - is
+    -
+    -
+      - kaj
+    -
+    -
+      - atend
+      - is
+    -
+      - .
+  -
+    - '–'
+    -
+    -
+      - D
+      - o
+    -
+      - ','
+    -
+    -
+      - karul
+      - o
+    -
+    -
+      '–'
+    -
+    -
+      - ŝi
+    -
+    -
+      - dir
+      - is
+    -
+    -
+      '–'
+    -
+    -
+      - kial
+    -
+    -
+      - ni
+    -
+    -
+      - ne
+    -
+    -
+      - ek
+      - vetur
+      - as
+    -
+      - '?'
+  
+  -
+    - '–'
+    -
+    -
+      - Karul
+      - in
+      - o
+    -
+      - ','
+    -
+    -
+      - ankaŭ
+    -
+    -
+      - mi
+    -
+    -
+      - hav
+      - as
+    -
+    -
+      - sekret
+      - o
+      - n
+    -
+      - .
+    -
+    -
+      - Mi
+    -
+    -
+      - vetur
+      - ig
+      - us
+    -
+    -
+      - la
+    -
+    -
+      - aŭt
+      - o
+      - n
+    -
+      - ','
+    -
+    -
+      - sed
+    -
+    -
+      - mi
+    -
+    -
+      - ne
+    -
+    -
+      - sci
+      - as
+    -
+      - .
+    -
+    -
+      - Mi
+    -
+    -
+      - neniam
+    -
+    -
+      - lern
+      - is
+    -
+    -
+      - tio
+      - n
+    -
+      - .

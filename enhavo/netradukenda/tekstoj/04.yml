@@ -1,21 +1,585 @@
 titolo: 
   -
-    - La
+    - Mi
+    - a
+    - j
   -
   -
-    - amik
-    - in
+    - leter
     - o
-  -
-  -
-    - de
-  -
-  -
-    - Mark
-    - o
-  
+    - j
 paragrafoj:
   -
     -
-      - Mark
+      - Marko
+    -
+    -
+      - skrib
+      - is
+    -
+    -
+      - al
+    -
+    -
+      - mi
+    -
+    -
+      - bel
+      - a
+      - n
+    -
+    -
+      - leter
       - o
+      - n
+    -
+      - .
+    -
+    -
+      - Ĝi
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - ver
+      - a
+    -
+    -
+      - am
+      - leter
+      - o
+    -
+      - .
+    -
+    -
+      - En
+    -
+    -
+      - la
+    -
+    -
+      - leter
+      - o
+    -
+    -
+      - est
+      - is
+    -
+    -
+      - ankaŭ
+    -
+    -
+      - li
+      - a
+    -
+    -
+      - fot
+      - o
+    -
+      - .
+  
+  -
+    -
+    -
+      - Kiam
+    -
+    -
+      - mi
+    -
+    -
+      - re
+      - ven
+      - is
+    -
+    -
+      - el
+    -
+    -
+      - la
+    -
+    -
+      - lern
+      - ej
+      - o
+    -
+      - ','
+    -
+    -
+      - mi
+    -
+    -
+      - vol
+      - is
+    -
+    -
+      - ĝi
+      - n
+    -
+    -
+      - de
+      - nov
+      - e
+    -
+    -
+      - leg
+      - i
+    -
+      - .
+    -
+    -
+      - Mi
+    -
+    -
+      - rapid
+      - e
+    -
+    -
+      - en
+      - ir
+      - is
+    -
+    -
+      - en
+    -
+    -
+      - mi
+      - a
+      - n
+    -
+    -
+      - ĉambr
+      - o
+      - n
+    -
+      - .
+    -
+    -
+      - Tie
+    -
+    -
+      - star
+      - is
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - frat
+      - in
+      - o
+    -
+    -
+      - Vera
+    -
+    -
+      - antaŭ
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - tabl
+      - o
+    -
+    -
+      - kaj
+    -
+    -
+      - leg
+      - is
+    -
+    -
+      - mi
+      - a
+      - n
+    -
+    -
+      - leter
+      - o
+      - n
+    -
+      - .
+    -
+    -
+      - En
+    -
+    -
+      - ŝi
+      - a
+    -
+    -
+      - man
+      - o
+    -
+    -
+      - est
+      - is
+    -
+    -
+      - ankaŭ
+    -
+    -
+      - la
+    -
+    -
+      - foto
+    -
+      - .
+  
+  -
+    -
+    -
+      - Mi
+    -
+    -
+      - dir
+      - is
+    -
+    -
+      - koler
+      - e
+    - ':'
+  -
+    - '–'
+    -
+    -
+      - Kio
+      - n
+    -
+    -
+      - vi
+    -
+    -
+      - far
+      - as
+    -
+    -
+      - tie
+    -
+      - '?'
+    -
+    -
+      - Ne
+    -
+    -
+      - leg
+      - u
+    -
+    -
+      - leter
+      - o
+      - j
+      - n
+    -
+    -
+      - de
+    -
+    -
+      - ali
+      - a
+      - j
+    - '!'
+  -
+    -
+      - Mi
+      - a
+    -
+    -
+      - frat
+      - in
+      - o
+    -
+    -
+      - fariĝ
+      - is
+    -
+    -
+      - ruĝ
+      - a
+    -
+      - .
+    -
+    -
+      - La
+    -
+    -
+      - fot
+      - o
+    -
+    -
+      - fal
+      - is
+    -
+    -
+      - el
+    -
+    -
+      - ŝi
+      - a
+    -
+    -
+      - man
+      - o
+    -
+    -
+      - sur
+    -
+    -
+      - la
+    -
+    -
+      - tabl
+      - o
+      - n
+    -
+    -
+      - kaj
+    -
+    -
+      - la
+    -
+    -
+      - leter
+      - o
+    -
+    -
+      - fal
+      - is
+    -
+    -
+      - ankaŭ
+    -
+      - .
+  
+  -
+    -
+    -
+      - Ŝi
+    -
+    -
+      - dir
+      - is
+    - ':'
+  -
+    - '–'
+    -
+    -
+      - Pardon
+      - u
+    -
+     - …
+    -
+    -
+      - mi
+    -
+    -
+      - serĉ
+      - is
+    -
+    -
+      - mi
+      - a
+      - n
+    -
+    -
+      - libr
+      - o
+      - n
+    -
+     - …
+  -
+    - '–'
+    -
+    -
+      - Sed
+    -
+    -
+      - vi
+    -
+    -
+      - bon
+      - e
+    -
+    -
+      - sci
+      - as
+    -
+      - ','
+    -
+    -
+      - ke
+    -
+    -
+      - vi
+      - a
+      - j
+    -
+    -
+      - libr
+      - o
+      - j
+    -
+    -
+      - ne
+    -
+    -
+      - est
+      - as
+    -
+    -
+      - sur
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - tabl
+      - o
+    -
+      - .
+    -
+    -
+      - Ankaŭ
+    -
+    -
+      - ne
+    -
+    -
+      - en
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - ĉambr
+      - o
+    - !
+  -
+    -
+      - Re
+      - don
+      - u
+    -
+    -
+      - la
+    -
+    -
+      - leter
+      - o
+      - n
+    -
+    -
+      - al
+    -
+    -
+      - mi
+    -
+      - .
+  
+  -
+    -
+    -
+      - Ŝi
+    -
+    -
+      - ricev
+      - is
+    -
+    -
+      - bon
+      - a
+      - n
+    -
+    -
+      - lecion
+      - o
+      - n
+    - ':'
+    -
+    -
+      - ŝi
+    -
+    -
+      - ne
+    -
+    -
+      - plu
+    -
+    -
+      - leg
+      - os
+    -
+    -
+      - leter
+      - o
+      - j
+      - n
+    -
+    -
+      - de
+    -
+    -
+      - ali
+      - a
+      - j
+    -
+      - .
+  -
+    -
+      - Ankaŭ
+    -
+    -
+      - mi
+    -
+    -
+      - ricev
+      - is
+    -
+    -
+      - lecion
+      - o
+      - n
+    -  ':'
+    -
+    -
+      - mi
+    -
+    -
+      - dev
+      - as
+    -
+    -
+      - bon
+      - e
+    -
+    -
+      - ferm
+      - i
+    -
+    -
+      - la
+    -
+    -
+      - pord
+      - o
+      - n
+    -
+    -
+      - de
+    -
+    -
+      - mi
+      - a
+    -
+    -
+      - ĉambr
+      - o
+    -
+      - .
+  

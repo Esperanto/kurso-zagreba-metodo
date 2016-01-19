@@ -1,7 +1,7 @@
 :set ignorecase
 
 " Preserve some words
-:%s/\(kaj\|de\|Marko\|Ana\|ne\|tie\|Tie\|kie\|kio\|la\|la\|la\)/XXX\0XXX/g
+:%s/\(kaj\|\bde\b\|Marko\|Ana\|tre\|\bne\b\|tie\|Tie\|kie\|kio\|\bla\b\)/XXX\0XXX/g
 
 " Make paragraphs.
 :%s/^\(.*\)\n\n/- \1\r/g
@@ -10,7 +10,7 @@
 :%s/^-/-\r  /g
 :%s/\s*\([a-zA-ZĉĝĥĵŝŭĈĜĤĴŜŬ]\+\)\s*/  -\r  - \1\r/g
 :%s/\(\.\)/  - \1\r/g
-:%s/\(,\|?\|!\)/  - '\1'\r/g
+:%s/\(,\|?\|:\|!\)/  - '\1'\r/g
 
 " Make morphemes.
 :%s/^  -/  -\r    -/g
@@ -25,6 +25,7 @@
 " Todo: exclude "la"
 :%s/a$/\r    - a/g
 :%s/e$/\r    - e/g
+:%s/u$/\r    - u/g
 
 :%s/\(in\)$/\r    - \1/g
 :%s/\(ist\)$/\r    - \1/g

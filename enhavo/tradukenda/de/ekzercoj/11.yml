@@ -1,0 +1,71 @@
+1:
+  'Traduku':
+    - estraro: Vorstand
+    - tagmeze: mittags
+    - posttagmeze: nachmittags
+    - malsata: hungrig
+    - interkonsenti: vereinbaren
+    - manĝilaro: Besteck
+    - vidpunkto: Gesichtspunkt
+    - malfermilo: Öffner
+    - noktomezo: Mitternacht
+    - publikigi: veröffentlichen
+    - pagigi: bezahlen lassen
+    - duflanka: zweiseitig
+    - aliflanke: andererseits
+3:
+  'Traduku kaj respondu':
+    - 
+      demando: Kannst du die Medizin meiner Schwester mitbringen?
+      rektatraduko:
+        - Ĉu: Ob 
+        - vi: du 
+        - povas: kannst 
+        - kunporti: mitbringen 
+        - la: die 
+        - sanigilon: Medizin 
+        - de: von 
+        - mia: meiner 
+        - fratino: Schwester 
+        - '?'
+    - 
+      demando: Wann hast du dieses Musikinstrument gekauft?
+      rektatraduko:
+        - Kiam: Wann 
+        - vi: du 
+        - aĉetis: kauftest 
+        - tiun: dieses 
+        - muzikilon: Musikinstrument 
+        - '?'
+    - 
+      demando: Wer hat zuletzt meinen Schlüssel benutzt?
+      rektatraduko:
+        - Kiu: Wer
+        - laste: zuletzt 
+        - uzis: benutzte 
+        - mian: meinen 
+        - ŝlosilon: Schlüssel 
+        - '?'
+    - 
+      demando: Bist du in Venedig auch mit einer Gondel gefahren?
+      rektatraduko:
+        - Ĉu: Ob 
+        - vi: du 
+        - en: in 
+        - Venecio: Venedig
+        - veturis: fuhrest 
+        - ankaŭ: auch 
+        - per: mit 
+        - gondolo: Gondel 
+        - '?'
+    - 
+      demando: Wirst du einschlafen können, wenn es still geworden ist?
+      rektatraduko:
+        - Ĉu: Ob 
+        - vi: du 
+        - povos: wirst können 
+        - ekdormi: einschlafen 
+        - ',' 
+        - kiam: wenn 
+        - silentiĝis: still geworden 
+        - '?'

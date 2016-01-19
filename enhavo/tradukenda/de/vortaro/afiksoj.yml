@@ -1,29 +1,19 @@
-ant: Aktiv-Partizip / Verlaufsform, Gegenwart
-int: Aktiv-Partizip / Verlaufsform, Vergangenheit
-ont: Aktiv-Partizip / Verlaufsform, Zukunft
-unt: Aktiv-Partizip / Verlaufsform, Konditional
-at: Passiv-Partizip / Verlaufsform, Gegenwart
-it: Passiv-Partizip / Verlaufsform, Vergangenheit
-ot: Passiv-Partizip / Verlaufsform, Zukunft
-ut: Passiv-Partizip / Verlaufsform, Konditional
-
-
-aĉ: 'Nachsilbe: äußere Verschlechterung'
-ad: 'Nachsilbe: bezeichnet Dauer'
-aĵ: 'Nachsilbe: konkrete Sache'
-an: 'Nachsilbe, bezeichnet Mitglieder, Anhänger'
-ar: 'Nachsilbe: bildet Sammelbegriffe'
-ebl: 'Nachsilbe: Möglichkeit ("-bar")'
-ec: 'Nachsilbe: abstrakter Begriff ("-keit")'
-eg: 'Nachsilbe: Vergrößerung'
-ej: 'Nachsilbe: Ort, Raum oder Stelle'
-et: 'Nachsilbe: Verkleinerung'
-ig: 'Nachsilbe: machen'
-iĝ: 'Nachsilbe: werden'
-il: 'Nachsilbe: Werkzeug, Gerät, Mittel'
-in: 'Nachsilbe: weiblich'
-ind: 'Nachsilbe: -wert, -würdig'
-ist: 'Nachsilbe: Beruf / weltanschauliche Einstellung'
-uj: 'Nachsilbe: Behälter, Land, Baum' 
-ul: 'Nachsilbe: Person mit bestimmter Eigenschaft'
-um: 'Nachsilbe: ohne bestimmte Bedeutung (Joker)'
+aĉ:  äußere Verschlechterung
+ad:  bezeichnet Dauer
+aĵ:  konkrete Sache
+an:  Mitglied, Anhänger
+ar:  bildet Sammelbegriffe
+ebl: Möglichkeit (-bar)
+ec:  abstrakter Begriff (-keit)
+eg:  Vergrößerung
+ej:  Ort, Raum oder Stelle
+et:  Verkleinerung
+ig:  machen
+iĝ:  werden
+il:  Werkzeug, Gerät, Mittel
+in:  weiblich
+ind: -wert, -würdig
+ist: Beruf / weltanschauliche Einstellung
+uj:  Behälter, Land, Baum 
+ul:  Person mit bestimmter Eigenschaft
+um:  ohne bestimmte Bedeutung (Joker)

@@ -2,11 +2,37 @@ $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip(); 
 });
 
+function esperantigu(s) {
+  
+    s = s.replace('cx', 'ĉ')
+    s = s.replace('gx', 'ĝ')
+    s = s.replace('jx', 'ĵ')
+    s = s.replace('hx', 'ĥ')
+    s = s.replace('sx', 'ŝ')
+    s = s.replace('Cx', 'Ĉ')
+    s = s.replace('Gx', 'Ĝ')
+    s = s.replace('Jx', 'Ĵ')
+    s = s.replace('Hx', 'Ĥ')
+    s = s.replace('Sx', 'Ŝ')
+    s = s.replace('ux', 'ŭ')
+    s = s.replace('Ux', 'Ŭ')
+
+    return s;
+}
+
+function normalize(s) {
+
+  s = esperantigu(s);
+  s = s.toLowerCase(s);
+  return s;
+}
+
+
 $('input[data-solvo]').on('input', function() {
   var id = $(this).attr('id');
   var form_group = $('#form-group-' + id);
   var glyphicon = $('#glyphicon-' + id);
-  if ( $(this).val() == $(this).attr('data-solvo') ) {
+  if ( normalize($(this).val()) == normalize($(this).attr('data-solvo')) ) {
     form_group.removeClass('has-error').addClass('has-success');
     glyphicon.removeClass('glyphicon-remove').addClass('glyphicon-ok');
   } else {

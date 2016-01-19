@@ -1,0 +1,88 @@
+1:
+  'Traduku':
+    - eniri: hineingehen
+    - enhavo: Inhalt
+    - kunsido: Sitzung
+    - malbona: schlecht
+    - kunveno: Zusammenkunft
+    - malfacila: schwierig
+    - maljuna: alt
+    - gepatroj: Eltern
+    - alveni: ankommen
+    - bonvena: willkommen
+    - gefratoj: Geschwister
+    - trinkmono: Trinkgeld
+    - malami: hassen
+    - kunlabori: mitarbeiten
+3:
+  'Traduku kaj respondu':
+    - 
+      demando: Wie war dein altes Heim?
+      rektatraduko:
+        - Kia: Wie
+        - estis: war
+        - via: Dein
+        - malnova: altes
+        - hejmo: Heim
+        - '?'
+    - 
+      demando: Welche Bücher hast du gelesen und sind sie gut?
+      rektatraduko:
+        - Kiujn: Welche
+        - librojn: Bücher
+        - vi: du
+        - legis: hast gelesen
+        - kaj: und
+        - ĉu: ob
+        - ili: sie
+        - estas: sind
+        - bonaj: gut
+        - '?'
+    - 
+      demando: Was machten Anna und Marko in Markos kleinem Zimmer?
+      rektatraduko:
+        - Kion: Was
+        - faris: machten
+        - Anna: Anna
+        - kaj: und
+        - Marko: Marko
+        - en: in
+        - la: dem
+        - malgranda: kleinen
+        - ĉambro: Zimmer
+        - de: von
+        - Marko: Marko
+        - '?'
+    - 
+      demando: Liest du gern Bücher über Liebe?
+      rektatraduko:
+        - Cxu: Ob
+        - vi: Du
+        - sxatas: magst
+        - legi: lesen
+        - librojn: Bücher
+        - pri: über
+        - amo: Liebe
+        - '?'
+    - 
+      demando: Wer wird mit dir zu deinem Heim gehen?
+      rektatraduko:
+        - Kiu: Wer
+        - iros: wird gehen
+        - kun: mit
+        - vi: Dir
+        - al: zu 
+        - via: deinem
+        - hejmo: Heim
+        - '?'
+    - 
+      demando: Wie sind die Augen deiner Freundin?
+      rektatraduko:
+        - Kiaj: Welcher Art
+        - estas: sind
+        - la: die
+        - okuloj: Augen
+        - de: von
+        - via: Deiner
+        - amikino: Freundin
+        - '?'

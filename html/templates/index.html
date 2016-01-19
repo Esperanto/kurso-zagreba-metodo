@@ -73,7 +73,9 @@
             <h2 id="leciono{{leciono_loop.index}}">
               {{leciono_loop.index}}.
               {% for vorto in leciono.teksto.titolo %}
-                {% if vorto  -%}
+                {% if vorto is string -%}
+                  {{vorto}}
+                {%- elif vorto is iterable -%}
                   <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
                     <table>
                     {# Loop only if there are multiple roots. #}
@@ -107,7 +109,9 @@
             {% for paragrafo in leciono.teksto.paragrafoj %}
             <p>
               {% for vorto in paragrafo -%}
-                {% if vorto  -%}
+                {% if vorto is string -%}
+                  {{vorto}}
+                {%- elif vorto is iterable -%}
                   <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
                     <table>
                     {# Loop only if there are multiple roots. #}

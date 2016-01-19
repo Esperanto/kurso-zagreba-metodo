@@ -1,11 +1,18 @@
+akcept: akzeptieren (Wortstamm)
+aŭtoritat: Autorität (Wortstamm)
+ekde: seit
+lamp: Lampe (Wortstamm)
 Doĝ: Doge (Wortstamm)
+Adriano: Adriano (Name)
 Ana: Ana (Name)
 Bonifacio: Bonifacio (Name)
+Ĝino: Ĝino (Name)
 Karlo: Karlo (Name)
 Maja: Maja (Name)
 Maria: Maria (Name)
 Marko: Marko (Name)
 Petro: Petro (Name)
+Pipelbom: Pipelbom (Name)
 Vera: Vera (Name)
 afer: Angelegenheit, Sache (Wortstamm)
 ag: handeln (Wortstamm)
@@ -60,6 +67,7 @@ decid: entscheiden (Wortstamm)
 dek: zehn 
 demand: fragen (Wortstamm)
 denove: von neuem, wieder
+des: (je …) desto
 dev: müssen (Wortstamm)
 dezir: wünschen (Wortstamm)
 diabl: Teufel (Wortstamm)
@@ -80,6 +88,7 @@ du: zwei
 dub: zweifeln (Wortstamm)
 dum: während 
 edz: Gatte (Wortstamm)
+efektiv: wirklich, tatsächlich (Wortstamm)
 ekskurs: Ausflug (Wortstamm)
 ekster: außerhalb
 ekzempl: Beispiel (Wortstamm)
@@ -123,6 +132,8 @@ grand: groß (Wortstamm)
 grav: wichtig (Wortstamm)
 halt: anhalten (Wortstamm)
 hav: haben (Wortstamm)
+havinda: habenswert, würdig
+havindan: habenswert, würdig (Akkusativ)
 hejm: Heim, Zuhause (Wortstamm)
 help: helfen (Wortstamm)
 hieraŭ: gestern
@@ -133,6 +144,8 @@ hor: Stunde (Wortstamm)
 hotel: Hotel (Wortstamm)
 ide: Idee (Wortstamm)
 ili: sie (Mehrzahl) 
+industri: Industrie (Wortstamm)
+industriisto: Industrieller
 infan: Kind (Wortstamm)
 instru: unterrichten (Wortstamm)
 instruisto: Lehrer
@@ -140,15 +153,18 @@ instruiston: Lehrer (Akkusativ)
 instruistino: Lehrerin 
 inter: zwischen
 invit: einladen (Wortstamm)
+io: etwas
 ir: gehen (Wortstamm)
 itali: Italien 
+iu: irgendein
 jam: schon
 jar: Jahr (Wortstamm)
 je: Verhältniswort mit mehreren Bedeutungen 
 jen: da ist
 jes: ja 
-ju . . . des: je . . . desto 
+ju: je (… desto) 
 jun: jung (Wortstamm)
+krom: außer
 kaf: Kaffee (Wortstamm)
 kafejon: Café (Akkusativ)
 kaj: und
@@ -241,6 +257,7 @@ mil: tausend
 milit: Krieg (Wortstamm)
 mir: sich wundern (Wortstamm)
 mok: spotten (Wortstamm)
+moment: Moment (Wortstamm)
 monat: Monat (Wortstamm)
 mond: Welt (Wortstamm)
 moner: Münze (Wortstamm)
@@ -334,6 +351,7 @@ rakont: erzählen (Wortstamm)
 rapid: schnell (Wortstamm)
 raport: berichten (Wortstamm)
 real: wirklich (Wortstamm)
+rekt: direkt (Wortstamm)
 renkont: begegnen (Wortstamm)
 respekt: achten (Wortstamm)
 respond: antworten (Wortstamm)
@@ -359,6 +377,7 @@ sekret: Geheimnis (Wortstamm)
 sekv: folgen (Wortstamm)
 semajn: Woche (Wortstamm)
 sen: ohne
+sentimulo: Furchtlose Person
 send: schicken (Wortstamm)
 sent: fühlen (Wortstamm)
 serĉ: suchen (Wortstamm)
@@ -391,6 +410,7 @@ suk: Saft (Wortstamm)
 sun: Sonne (Wortstamm)
 super: über
 sur: auf
+'S-ro': Sinjoro, Abkürzung für Herr
 tabl: Tisch (Wortstamm)
 tabl: Tisch (Wortstamm)
 tag: Tag (Wortstamm)
@@ -399,7 +419,7 @@ temp: Zeit (Wortstamm)
 temperatur: Temperatur
 ten: halten (Wortstamm)
 teo: Tee
-terorist: Terrorist (Wortstamm)
+teror: Terror (Wortstamm)
 terur: schrecklich (Wortstamm)
 tiam: dann
 tie: dort, da

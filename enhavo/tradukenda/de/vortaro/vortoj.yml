@@ -1,12 +1,8 @@
-akcept: akzeptieren (Wortstamm)
-aŭtoritat: Autorität (Wortstamm)
-ekde: seit
-lamp: Lampe (Wortstamm)
-Doĝ: Doge (Wortstamm)
+'S-ro': Sinjoro, Abkürzung für Herr
 Adriano: Adriano (Name)
 Ana: Ana (Name)
 Bonifacio: Bonifacio (Name)
-Ĝino: Ĝino (Name)
+Doĝ: Doge (Wortstamm)
 Karlo: Karlo (Name)
 Maja: Maja (Name)
 Maria: Maria (Name)
@@ -18,14 +14,15 @@ afer: Angelegenheit, Sache (Wortstamm)
 ag: handeln (Wortstamm)
 agrabl: angenehm (Wortstamm)
 ajn: überhaupt, auch immer, auch nur 
+akcept: akzeptieren (Wortstamm)
 akv: Wasser (Wortstamm)
 al: nach, zu
 ali: anderer (Wortstamm)
 almenaŭ: wenigstens
 alt: hoch (Wortstamm)
+am: lieben (Wortstamm)
 amas: Menge (Wortstamm)
 ambaŭ: beide
-am: lieben (Wortstamm)
 amik: Freund (Wortstamm)
 ankaŭ: auch
 ankoraŭ: noch
@@ -45,6 +42,7 @@ aŭ: oder
 aŭd: hören (Wortstamm)
 aŭskult: zuhören (Wortstamm)
 aŭt: Auto (Wortstamm)
+aŭtoritat: Autorität (Wortstamm)
 baldaŭ: bald
 bedaŭr: bedauern (Wortstamm)
 bel: schön (Wortstamm)
@@ -73,8 +71,8 @@ dezir: wünschen (Wortstamm)
 diabl: Teufel (Wortstamm)
 dik: dick (Wortstamm)
 dimanĉ: Sonntag (Wortstamm)
-direkt: Richtung (Wortstamm)
 dir: sagen (Wortstamm)
+direkt: Richtung (Wortstamm)
 divers: verschieden (Wortstamm)
 do: also
 doktor: Doktor (Wortstamm)
@@ -89,6 +87,7 @@ dub: zweifeln (Wortstamm)
 dum: während 
 edz: Gatte (Wortstamm)
 efektiv: wirklich, tatsächlich (Wortstamm)
+ekde: seit
 ekskurs: Ausflug (Wortstamm)
 ekster: außerhalb
 ekzempl: Beispiel (Wortstamm)
@@ -102,8 +101,8 @@ estr: Chef (Wortstamm)
 eĉ n: gar nicht (Wortstamm)
 eĉ: sogar, selbst
 facil: leicht (Wortstamm)
-fakt: tatsächlich (Wortstamm)
 fakt: Tatsache (Wortstamm)
+fakt: tatsächlich (Wortstamm)
 fal: fallen (Wortstamm)
 falig: fallen machen (Wortstamm)
 famili: Familie (Wortstamm)
@@ -148,9 +147,9 @@ industri: Industrie (Wortstamm)
 industriisto: Industrieller
 infan: Kind (Wortstamm)
 instru: unterrichten (Wortstamm)
+instruistino: Lehrerin 
 instruisto: Lehrer
 instruiston: Lehrer (Akkusativ)
-instruistino: Lehrerin 
 inter: zwischen
 invit: einladen (Wortstamm)
 io: etwas
@@ -164,14 +163,13 @@ jen: da ist
 jes: ja 
 ju: je (… desto) 
 jun: jung (Wortstamm)
-krom: außer
 kaf: Kaffee (Wortstamm)
 kafejon: Café (Akkusativ)
 kaj: und
 kamp: Feld (Wortstamm)
 kant: singen (Wortstamm)
-kapabl: fähig (Wortstamm)
 kap: Kopf (Wortstamm)
+kapabl: fähig (Wortstamm)
 kapt: fangen (Wortstamm)
 kar: lieb, teuer, wert (Wortstamm)
 kastel: Schloss, Kastell (Wortstamm)
@@ -204,6 +202,7 @@ korp: Körper (Wortstamm)
 kost: kosten (Wortstamm)
 kred: glauben (Wortstamm)
 kri: schreien (Wortstamm)
+krom: außer
 kuir: kochen (Wortstamm)
 kuk: Kuchen (Wortstamm)
 kun: mit
@@ -215,6 +214,7 @@ kvin: fünf
 la: der, die, das 
 labor: arbeiten (Wortstamm)
 lakt: Milch (Wortstamm)
+lamp: Lampe (Wortstamm)
 land: Land (Wortstamm)
 larĝ: breit (Wortstamm)
 las: lassen (Wortstamm)
@@ -224,8 +224,8 @@ laŭt: laut (Wortstamm)
 lecion: Lektion (Wortstamm)
 leg: lesen (Wortstamm)
 lern: lernen (Wortstamm)
-lernant: Lernender, Schüler (Wortstamm)
 lern: lernen (Wortstamm)
+lernant: Lernender, Schüler (Wortstamm)
 lernolibroj: Lehrbücher
 leter: Brief (Wortstamm)
 li: er
@@ -241,9 +241,10 @@ loĝ: wohnen (Wortstamm)
 lud: spielen (Wortstamm)
 lum: Licht (Wortstamm)
 malforta: schwach
+malmultekosta: billig
+man: Hand (Wortstamm)
 manier: Art, Weise (Wortstamm)
 mank: fehlen (Wortstamm)
-man: Hand (Wortstamm)
 manĝ: essen (Wortstamm)
 mar: Meer (Wortstamm)
 maten: Morgen (Wortstamm)
@@ -258,10 +259,10 @@ milit: Krieg (Wortstamm)
 mir: sich wundern (Wortstamm)
 mok: spotten (Wortstamm)
 moment: Moment (Wortstamm)
+mon: Geld (Wortstamm)
 monat: Monat (Wortstamm)
 mond: Welt (Wortstamm)
 moner: Münze (Wortstamm)
-mon: Geld (Wortstamm)
 mont: Berg (Wortstamm)
 montr: zeigen (Wortstamm)
 morgaŭ: morgen
@@ -269,7 +270,6 @@ mort: sterben (Wortstamm)
 mov: bewegen (Wortstamm)
 mult: viel (Wortstamm)
 multekosta: teuer
-malmultekosta: billig
 nask: gebären (Wortstamm)
 natur: Natur (Wortstamm)
 naŭ: neun 
@@ -279,8 +279,8 @@ nek: weder (… noch)
 neniam: nie
 ni: wir
 nokt: Nacht (Wortstamm)
-nombr: Zahl (Wortstamm)
 nom: Name (Wortstamm)
+nombr: Zahl (Wortstamm)
 not: Note, Notiz (Wortstamm)
 nov: neu (Wortstamm)
 nu: na
@@ -377,9 +377,9 @@ sekret: Geheimnis (Wortstamm)
 sekv: folgen (Wortstamm)
 semajn: Woche (Wortstamm)
 sen: ohne
-sentimulo: Furchtlose Person
 send: schicken (Wortstamm)
 sent: fühlen (Wortstamm)
+sentimulo: Furchtlose Person
 serĉ: suchen (Wortstamm)
 ses: sechs 
 seĝ: Sessel (Wortstamm)
@@ -398,19 +398,18 @@ sol: allein (Wortstamm)
 son: Klang (Wortstamm)
 sovaĝ: wild (Wortstamm)
 sport: Sport (Wortstamm)
-sportist: Sportler (Wortstamm)
 sport: Sport (Wortstamm)
+sportist: Sportler (Wortstamm)
 star: stehen (Wortstamm)
 strat: Straße (Wortstamm)
 sub: unter
 subit: plötzlich (Wortstamm)
 sufiĉ: genügend (Wortstamm)
-sukces: Erfolg haben (Wortstamm)
 suk: Saft (Wortstamm)
+sukces: Erfolg haben (Wortstamm)
 sun: Sonne (Wortstamm)
 super: über
 sur: auf
-'S-ro': Sinjoro, Abkürzung für Herr
 tabl: Tisch (Wortstamm)
 tabl: Tisch (Wortstamm)
 tag: Tag (Wortstamm)
@@ -449,8 +448,8 @@ uzi: gebrauchen
 vagon: Waggon (Wortstamm)
 varm: warm (Wortstamm)
 vek: wecken (Wortstamm)
-vend: verkaufen (Wortstamm)
 ven: kommen (Wortstamm)
+vend: verkaufen (Wortstamm)
 ver: -wahr (Wortstamm)
 vesper: Abend (Wortstamm)
 vest: kleiden (Wortstamm)
@@ -461,8 +460,8 @@ vin: Wein (Wortstamm)
 vir: Mann (Wortstamm)
 viv: leben (Wortstamm)
 vizaĝ: Gesicht (Wortstamm)
-vojaĝ: reisen (Wortstamm)
 voj: Weg (Wortstamm)
+vojaĝ: reisen (Wortstamm)
 vok: rufen (Wortstamm)
 vol: wollen (Wortstamm)
 vort: Wort (Wortstamm)
@@ -477,8 +476,9 @@ zorg: sorgen (Wortstamm)
 ĉio: alles
 ĉirkaŭ: um, herum
 ĉu: ob; kennzeichnet auch einfache Fragesätze 
-ĝeneral: allgemein (Wortstamm)
+Ĝino: Ĝino (Name)
 ĝen: stören, belästigen (Wortstamm)
+ĝeneral: allgemein (Wortstamm)
 ĝi: es 
 ĝis: bis
 ĝoj: froh (Wortstamm)

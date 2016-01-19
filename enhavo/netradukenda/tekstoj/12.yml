@@ -9,7 +9,6 @@ titolo:
 paragrafoj:
   -
     -
-    -
       - S-ro
     -
     -
@@ -22,14 +21,12 @@ paragrafoj:
     -
       - alt
       - a
-    -
-      - ','
+    - ','
     -
     -
       - dik
       - a
-    -
-      - ','
+    - ','
     -
     -
       - pez
@@ -41,8 +38,7 @@ paragrafoj:
     -
       - larĝ
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Tio
@@ -69,8 +65,7 @@ paragrafoj:
       - fort
       - o
       - n
-    -
-      - ','
+    - ','
     -
     -
       - kaj
@@ -114,8 +109,7 @@ paragrafoj:
     -
       - fakt
       - o
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -138,8 +132,7 @@ paragrafoj:
       - hom
       - o
       - j
-    -
-      - ','
+    - ','
     -
     -
       - se
@@ -154,8 +147,7 @@ paragrafoj:
     -
       - tim
       - is
-    -
-      - ','
+    - ','
     -
     -
       - cert
@@ -195,8 +187,7 @@ paragrafoj:
     -
       - li
       - n
-    -
-      - .
+    - '.'
   -
     -
     -
@@ -204,8 +195,7 @@ paragrafoj:
     -
     -
       - tio
-    -
-      - ','
+    - ','
     -
     -
       - kio
@@ -226,8 +216,7 @@ paragrafoj:
       - dum
       - tag
       - e
-    -
-      - ','
+    - ','
     -
     -
       - prezent
@@ -267,8 +256,7 @@ paragrafoj:
       - o
       - plen
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Ĉef
@@ -311,8 +299,7 @@ paragrafoj:
       - sovaĝ
       - ej
       - o
-    -
-      - .
+    - '.'
   -
     -
     -
@@ -321,14 +308,12 @@ paragrafoj:
     -
       - dik
       - a
-    -
-      - ','
+    - ','
     -
     -
       - pez
       - a
-    -
-      - ','
+    - ','
     -
     -
       - alt
@@ -388,8 +373,7 @@ paragrafoj:
       - o
       - j
       - n
-    -
-      - ','
+    - ','
     -
     -
       - ĝeneral
@@ -401,8 +385,7 @@ paragrafoj:
       - a
       - j
       - n
-    -
-      - ','
+    - ','
     -
     -
       - mez
@@ -426,8 +409,7 @@ paragrafoj:
     -
       - paŝ
       - is
-    -
-      - ','
+    - ','
     -
     -
       - est
@@ -462,8 +444,7 @@ paragrafoj:
       - mal
       - agrabl
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Ju
@@ -556,8 +537,7 @@ paragrafoj:
       - natur
       - o
       - n
-    -
-      - .
+    - '.'
   -
     -
       - Vir
@@ -570,8 +550,7 @@ paragrafoj:
       - okul
       - o
       - j
-    -
-      - ','
+    - ','
     -
     -
       - kiu
@@ -599,8 +578,7 @@ paragrafoj:
       - mal
       - lum
       - o
-    -
-      - ','
+    - ','
     -
     -
       - rigard
@@ -631,8 +609,7 @@ paragrafoj:
       - industri
       - ist
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Li
@@ -652,8 +629,7 @@ paragrafoj:
     -
       - vir
       - o
-    -
-      - ','
+    - ','
     -
     -
       - en
@@ -670,8 +646,7 @@ paragrafoj:
       - polic
       - an
       - o
-    -
-      - ','
+    - ','
     -
     -
       - star
@@ -684,8 +659,7 @@ paragrafoj:
     -
       - person
       - o
-    -
-      - ','
+    - ','
     -
     -
       - en
@@ -698,8 +672,7 @@ paragrafoj:
       - vest
       - aĵ
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Ĉi
@@ -725,8 +698,8 @@ paragrafoj:
     -
       - ir
       - u
-    -
-      - ','
+    - ','
+    - '"'
     -
     -
       - la
@@ -767,10 +740,9 @@ paragrafoj:
       - ul
       - in
       - o
+    - '.'
     -
-      - .
-    -
-    -  '"'
+    - '"'
     -
       - Nun
     -
@@ -788,8 +760,7 @@ paragrafoj:
     -
       - moment
       - o
-    -
-      - .
+    - '.'
     - '"'
   -
     -
@@ -812,20 +783,17 @@ paragrafoj:
     -
       - alt
       - a
-    -
-      - ','
+    - ','
     -
     -
       - larĝ
       - a
-    -
-      - ','
+    - ','
     -
     -
       - pez
       - a
-    -
-      - ','
+    - ','
     -
     -
       - dik
@@ -834,8 +802,7 @@ paragrafoj:
     -
       - person
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Ili
@@ -869,23 +836,20 @@ paragrafoj:
     -
       - bru
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Jun
       - a
       - j
-    -
-      - ','
+    - ','
     -
     -
       - facil
       - mov
       - a
       - j
-    -
-      - ','
+    - ','
     -
     -
       - ili
@@ -896,8 +860,7 @@ paragrafoj:
     -
       - sukces
       - is
-    -
-      - .
+    - '.'
   -
     -
       - En
@@ -915,8 +878,7 @@ paragrafoj:
     -
       - situaci
       - o
-    -
-      - ','
+    - ','
     -
     -
       - kie
@@ -978,8 +940,7 @@ paragrafoj:
       - industri
       - ist
       - o
-    -
-      - ','
+    - ','
     -
     -
       - kie
@@ -1019,8 +980,7 @@ paragrafoj:
       - promen
       - ej
       - o
-    -
-      - ','
+    - ','
     -
     -
       - kie
@@ -1076,8 +1036,7 @@ paragrafoj:
       - aĉ
       - odor
       - a
-    -
-      - ','
+    - ','
     -
     -
       - Adrian
@@ -1104,8 +1063,7 @@ paragrafoj:
     -
       - pens
       - o
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -1148,8 +1106,7 @@ paragrafoj:
     -
       - renkont
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Io
@@ -1168,8 +1125,7 @@ paragrafoj:
     -
       - atend
       - is
-    -
-      - ','
+    - ','
     -
     -
       - krom
@@ -1181,8 +1137,7 @@ paragrafoj:
     -
       - voĉ
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Kiam
@@ -1205,8 +1160,7 @@ paragrafoj:
     -
       - proksim
       - e
-    -
-      - ','
+    - ','
     -
     -
       - li
@@ -1214,15 +1168,13 @@ paragrafoj:
     -
       - far
       - is
-    -
-      - ','
+    - ','
     -
     -
       - ek
       - mir
       - e
-    -
-      - ','
+    - ','
     -
     -
       - bel
@@ -1239,8 +1191,7 @@ paragrafoj:
       - salt
       - o
       - n
-    -
-      - ','
+    - ','
     -
     -
       - kiu
@@ -1258,14 +1209,12 @@ paragrafoj:
       - kor
       - o
       - n
-    -
-      - ','
+    - ','
     -
     -
       - ŝajn
       - e
-    -
-      - ','
+    - ','
     -
     -
       - supre
@@ -1280,14 +1229,12 @@ paragrafoj:
     -
       - buŝ
       - o
-    -
-      - .
+    - '.'
   -
     - '"'
     -
       - Kio
-    -
-      - '?'
+    - '?'
     - '"'
     - 
     -
@@ -1326,8 +1273,7 @@ paragrafoj:
     -
       - trankvil
       - o
-    -
-      - .
+    - '.'
   
   -
     -
@@ -1348,8 +1294,7 @@ paragrafoj:
       - lamp
       - et
       - o
-    -
-      - ','
+    - ','
     -
     -
       - kiu
@@ -1378,8 +1323,7 @@ paragrafoj:
       - okul
       - o
       - j
-    -
-      - ','
+    - ','
     -
     -
       - mal
@@ -1395,14 +1339,12 @@ paragrafoj:
       - iĝ
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Krom
       - e
-    -
-      - ','
+    - ','
     -
     -
       - ŝajn
@@ -1413,8 +1355,7 @@ paragrafoj:
     -
     -
       - li
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -1426,8 +1367,7 @@ paragrafoj:
       - hom
       - fort
       - o
-    -
-      - ','
+    - ','
     -
     -
       - kiu
@@ -1443,8 +1383,7 @@ paragrafoj:
       - lamp
       - o
       - n
-    -
-      - ','
+    - ','
     -
     -
       - sur
@@ -1462,13 +1401,11 @@ paragrafoj:
       - a
       - j
       - n
-    -
-      - .
+    - '.'
   -
     - '"'
     -
-      - Ki
-      - o
+      - Kio
       - n
     -
     -
@@ -1483,8 +1420,7 @@ paragrafoj:
     -
     -
       - tie
-    -
-      - '?'
+    - '?'
     - '"'
     -
     -
@@ -1501,29 +1437,28 @@ paragrafoj:
     -
       - voĉ
       - o
-    -
-      - .
+    - '.'
   -
     - '"'
     -
       - Mi
     -
-    - …
+    - '…'
     -
     -
       - mi
     -
-    - …
+    - '…'
     -
     -
       - nuuuu
     -
-    - …
+    - '…'
     -
     -
       - eee
     -
-    - …
+    - '…'
     - '"'
     -
     -
@@ -1533,8 +1468,7 @@ paragrafoj:
     -
     -
       - Pipelbom
-    -
-      - .
+    - '.'
   -
     - '"'
     -
@@ -1553,8 +1487,7 @@ paragrafoj:
     -
       - klar
       - e
-    -
-      - ','
+    - ','
     - '"'
     -
     -
@@ -1579,19 +1512,18 @@ paragrafoj:
       - '-'
       - ton
       - e
-    -
-      - .
+    - '.'
   -
     - '"'
     -
       - Mi
     -
-    - …
+    - '…'
     -
     -
       - mi
     -
-    - …
+    - '…'
     -
     -
       - mi
@@ -1599,8 +1531,7 @@ paragrafoj:
     -
       - promen
       - as
-    -
-      - .
+    - '.'
     - '"'
   - 
     - '"'
@@ -1609,8 +1540,7 @@ paragrafoj:
     -
     -
       - ha
-    -
-      - '!'
+    - '.'
     -
     -
       - Vi
@@ -1648,8 +1578,7 @@ paragrafoj:
       - o
       - kalv
       - a
-    -
-      - ','
+    - ','
     -
     -
       - mez
@@ -1664,8 +1593,7 @@ paragrafoj:
     -
       - nokt
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Ĉu
@@ -1685,8 +1613,7 @@ paragrafoj:
     -
       - invit
       - is
-    -
-      - '?'
+    - '?'
     -
     -
       - Ĉu
@@ -1715,34 +1642,32 @@ paragrafoj:
     -
     -
       - tie
-    -
-      - '?'
+    - '?'
     - '"'
   - 
     -
       - N
     -
-    - …
+    - '…'
     -
     -
       - nu
     -
-    - …
+    - '…'
     -
     -
       - N
     -
-    - …
+    - '…'
     -
     -
       - ne
-    -
-      - .
+    - '.'
     -
     -
       - Mi
     -
-    - …
+    - '…'
     -
     -
       - Mi
@@ -1769,8 +1694,7 @@ paragrafoj:
     -
     -
       - sekvi
-    -
-      - .
+    - '.'
     - '"'
     -
     -
@@ -1783,8 +1707,7 @@ paragrafoj:
       - klar
       - ig
       - is
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -1816,8 +1739,7 @@ paragrafoj:
       - in
       - o
       - n
-    -
-      - ','
+    - ','
     -
     -
       - far
@@ -1831,8 +1753,7 @@ paragrafoj:
       - ist
       - o
       - j
-    -
-      - ','
+    - ','
     -
     -
       - la
@@ -1848,8 +1769,7 @@ paragrafoj:
     -
       - atent
       - e
-    -
-      - ','
+    - ','
     -
     -
       - kio
@@ -1878,8 +1798,7 @@ paragrafoj:
     -
       - kastel
       - o
-    -
-      - .
+    - '.'
   -
     -
       - Al
@@ -1895,8 +1814,7 @@ paragrafoj:
     -
       - ŝajn
       - is
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -1931,8 +1849,7 @@ paragrafoj:
       - pied
       - o
       - j
-    -
-      - .
+    - '.'
     -
     -
       - Li
@@ -1940,8 +1857,7 @@ paragrafoj:
     -
       - sci
       - is
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -1988,8 +1904,7 @@ paragrafoj:
       - ĉe
       - est
       - o
-    -
-      - ','
+    - ','
     -
     -
       - kaj
@@ -2000,8 +1915,7 @@ paragrafoj:
     -
       - ide
       - o
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -2022,8 +1936,7 @@ paragrafoj:
     -
       - sci
       - os
-    -
-      - ','
+    - ','
     -
     -
       - perd
@@ -2051,12 +1964,10 @@ paragrafoj:
     -
       - esper
       - o
+    - ','
     -
-      - ','
     -
-    -
-      - ki
-      - u
+      - kiu
     -
     -
       - rest
@@ -2088,6 +1999,5 @@ paragrafoj:
       - polic
       - an
       - o
-    -
-      - .
+    - '.'
   

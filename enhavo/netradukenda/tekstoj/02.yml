@@ -27,8 +27,7 @@ paragrafoj:
       - in
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Ŝi
@@ -44,8 +43,7 @@ paragrafoj:
     -
     -
       - Ana
-    -
-      - .
+    - '.'
     -
     -
       - Ŝi
@@ -64,8 +62,7 @@ paragrafoj:
     -
       - bel
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Ana
@@ -85,8 +82,7 @@ paragrafoj:
       - amik
       - o
       - j
-    -
-      - .
+    - '.'
   
   -
     -
@@ -109,8 +105,7 @@ paragrafoj:
     -
     -
       - Marko
-    -
-      - .
+    - '.'
   
   -
     -  '-'
@@ -122,15 +117,13 @@ paragrafoj:
     -
     -
       - eniri
-    -
-      - ','
+    - ','
     -
     -
       - amik
       - in
       - o
-    -
-      - .
+    - '.'
   
   -
     -  '-'
@@ -142,8 +135,7 @@ paragrafoj:
     -
     -
       - Marko
-    -
-      - .
+    - '.'
     -
     -
       - Kio
@@ -155,8 +147,7 @@ paragrafoj:
     -
       - far
       - as
-    -
-      - '?'
+    - '?'
   
   -
     -  '-'
@@ -165,8 +156,7 @@ paragrafoj:
       - Salut
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -174,8 +164,7 @@ paragrafoj:
     -
       - leg
       - is
-    -
-      - ','
+    - ','
     -
     -
       - sed
@@ -198,8 +187,7 @@ paragrafoj:
     -
     -
       - vi
-    -
-      - .
+    - '.'
   
   -
     -  '-'
@@ -223,16 +211,14 @@ paragrafoj:
       - libr
       - o
       - n
-    -
-      - '?'
+    - '?'
   
   -
     -  '-'
     - 
     -
       - Jes
-    -
-      - ','
+    - ','
     -
     -
       - mi
@@ -240,8 +226,7 @@ paragrafoj:
     -
       - hav
       - as
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -269,8 +254,7 @@ paragrafoj:
       - o
       - j
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Ĉu
@@ -290,16 +274,14 @@ paragrafoj:
       - kaf
       - o
       - n
-    -
-      - '?'
+    - '?'
   
   -
     -  '-'
     - 
     -
       - Jes
-    -
-      - .
+    - '.'
     -
     -
       - Ĉu
@@ -338,16 +320,14 @@ paragrafoj:
     -
       - hejm
       - o
-    -
-      - '?'
+    - '?'
   
   -
     -  '-'
     - 
     -
       - Ne
-    -
-      - .
+    - '.'
     -
     -
       - Jen
@@ -358,8 +338,7 @@ paragrafoj:
     -
       - kaf
       - o
-    -
-      - ','
+    - ','
     -
     -
       - ĝi
@@ -374,8 +353,7 @@ paragrafoj:
     -
       - varm
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -390,8 +368,7 @@ paragrafoj:
     -
       - ĝi
       - n
-    -
-      - .
+    - '.'
   
   -
     -  '-'
@@ -400,8 +377,7 @@ paragrafoj:
       - Dank
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -427,8 +403,7 @@ paragrafoj:
       - kaf
       - o
       - n
-    -
-      - .
+    - '.'
   
     -
     -
@@ -458,8 +433,7 @@ paragrafoj:
     -
     -
       - Ana
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -467,8 +441,7 @@ paragrafoj:
     -
       - vid
       - as
-    -
-      - ','
+    - ','
     -
     -
       - k
@@ -484,6 +457,5 @@ paragrafoj:
     -
       - ŝ
       - in
-    -
-      - .
+    - '.'
   

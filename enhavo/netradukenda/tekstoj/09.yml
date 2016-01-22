@@ -47,8 +47,7 @@ paragrafoj:
       - liber
       - temp
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Ili
@@ -67,8 +66,7 @@ paragrafoj:
     -
       - Itali
       - o
-    -
-      - ','
+    - ','
     -
     -
       - bel
@@ -105,8 +103,7 @@ paragrafoj:
       - aĵ
       - o
       - j
-    -
-      - .
+    - '.'
     -
     -
       - Ili
@@ -140,8 +137,7 @@ paragrafoj:
       - vest
       - aĵ
       - o
-    -
-      - '?'
+    - '?'
     -
     - '–'
     -
@@ -190,8 +186,7 @@ paragrafoj:
       - Esper
       - ant
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Ni
@@ -217,8 +212,7 @@ paragrafoj:
       - vagon
       - ar
       - o
-    -
-      - .
+    - '.'
   
   -
     - '–'
@@ -244,8 +238,7 @@ paragrafoj:
     -
       - far
       - os
-    -
-      - ','
+    - ','
     -
     -
       - kar
@@ -253,8 +246,7 @@ paragrafoj:
     -
     -
       - Petro
-    -
-      - .
+    - '.'
     -
     -
       - Ni
@@ -269,8 +261,7 @@ paragrafoj:
     -
       - aŭt
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -345,8 +336,7 @@ paragrafoj:
     -
       - uz
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Ĝi
@@ -367,8 +357,7 @@ paragrafoj:
     -
       - dom
       - o
-    -
-      - .
+    - '.'
   
   -
     - '–'
@@ -399,14 +388,12 @@ paragrafoj:
     -
       - dir
       - u
-    -
-      - ','
+    - ','
     -
     -
       - karul
       - o
-    -
-      - ','
+    - ','
     -
     -
       - ni
@@ -441,8 +428,7 @@ paragrafoj:
       - Ital
       - i
       - o
-    -
-      - .
+    - '.'
   
   -
     -
@@ -469,8 +455,7 @@ paragrafoj:
     -
       - aŭt
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Ankaŭ
@@ -497,8 +482,7 @@ paragrafoj:
     -
       - aŭt
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Sed
@@ -520,16 +504,14 @@ paragrafoj:
     -
       - atend
       - is
-    -
-      - .
+    - '.'
   -
     - '–'
     -
     -
       - D
       - o
-    -
-      - ','
+    - ','
     -
     -
       - karul
@@ -561,8 +543,7 @@ paragrafoj:
       - ek
       - vetur
       - as
-    -
-      - '?'
+    - '?'
   
   -
     - '–'
@@ -571,8 +552,7 @@ paragrafoj:
       - Karul
       - in
       - o
-    -
-      - ','
+    - ','
     -
     -
       - ankaŭ
@@ -588,8 +568,7 @@ paragrafoj:
       - sekret
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -606,8 +585,7 @@ paragrafoj:
       - aŭt
       - o
       - n
-    -
-      - ','
+    - ','
     -
     -
       - sed
@@ -621,8 +599,7 @@ paragrafoj:
     -
       - sci
       - as
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -637,5 +614,4 @@ paragrafoj:
     -
       - tio
       - n
-    -
-      - .
+    - '.'

@@ -32,8 +32,7 @@ paragrafoj:
       - leter
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Ĝi
@@ -50,8 +49,7 @@ paragrafoj:
       - am
       - leter
       - o
-    -
-      - .
+    - '.'
     -
     -
       - En
@@ -77,8 +75,7 @@ paragrafoj:
     -
       - fot
       - o
-    -
-      - .
+    - '.'
   
   -
     -
@@ -103,8 +100,7 @@ paragrafoj:
       - lern
       - ej
       - o
-    -
-      - ','
+    - ','
     -
     -
       - mi
@@ -125,8 +121,7 @@ paragrafoj:
     -
       - leg
       - i
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -152,8 +147,7 @@ paragrafoj:
       - ĉambr
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Tie
@@ -201,8 +195,7 @@ paragrafoj:
       - leter
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - En
@@ -227,8 +220,7 @@ paragrafoj:
     -
     -
       - foto
-    -
-      - .
+    - '.'
   
   -
     -
@@ -259,8 +251,7 @@ paragrafoj:
     -
     -
       - tie
-    -
-      - '?'
+    - '?'
     -
     -
       - Ne
@@ -300,8 +291,7 @@ paragrafoj:
     -
       - ruĝ
       - a
-    -
-      - .
+    - '.'
     -
     -
       - La
@@ -352,8 +342,7 @@ paragrafoj:
     -
     -
       - ankaŭ
-    -
-      - .
+    - '.'
   
   -
     -
@@ -371,7 +360,7 @@ paragrafoj:
       - Pardon
       - u
     -
-     - …
+     - '…'
     -
     -
       - mi
@@ -390,7 +379,7 @@ paragrafoj:
       - o
       - n
     -
-     - …
+     - '…'
   -
     - '–'
     -
@@ -407,8 +396,7 @@ paragrafoj:
     -
       - sci
       - as
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -440,8 +428,7 @@ paragrafoj:
     -
       - tabl
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Ankaŭ
@@ -479,8 +466,7 @@ paragrafoj:
     -
     -
       - mi
-    -
-      - .
+    - '.'
   
   -
     -
@@ -528,8 +514,7 @@ paragrafoj:
       - ali
       - a
       - j
-    -
-      - .
+    - '.'
   -
     -
       - Ankaŭ
@@ -580,6 +565,5 @@ paragrafoj:
     -
       - ĉambr
       - o
-    -
-      - .
+    - '.'
   

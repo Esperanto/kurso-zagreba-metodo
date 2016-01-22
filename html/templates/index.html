@@ -144,11 +144,12 @@
             </p>
             {% endfor %}
 
+            <h3 id="gramatiko{{leciono_loop.index}}">{{ enhavo.vortaro['Gramatiko'] }} / Gramatiko</h3>
 
             {% for paragrafo in leciono.gramatiko %}
             {% set paragrafo_loop = loop %}
               {% for titolo,klarigo in paragrafo.items() %}
-                <h3 id="gramatiko{{leciono_loop.index}}-{{paragrafo_loop.index}}"> {{titolo}} </h3>
+                <h4 id="gramatiko{{leciono_loop.index}}-{{paragrafo_loop.index}}"> {{titolo}} </h4>
                 {{klarigo|markdown}} 
               {% endfor %}
             {% endfor %}
@@ -263,14 +264,7 @@
               <li>
                 <a href="#leciono{{leciono_loop.index}}">{{leciono_loop.index}}. {{ leciono.teksto.titolo_string }}</a>
                 <ul class="nav nav-stacked">
-
-                  {% for paragrafo in leciono.gramatiko %}
-                    {% set paragrafo_loop = loop %}
-                    {% for titolo,klarigo in paragrafo.items() %}
-                    <li><a href="#gramatiko{{leciono_loop.index}}-{{paragrafo_loop.index}}">{{ titolo }}</a></li>
-                    {%- endfor %}
-                  {%- endfor %}
-
+                  <li><a href="#gramatiko{{leciono_loop.index}}">{{enhavo.vortaro['Gramatiko']}} / Gramatiko</a></li>
                   <li><a href="#ekzercoj{{leciono_loop.index}}">{{enhavo.vortaro['Ekzercoj']}} / Ekzercoj</a></li>
                 </ul>
             {% endfor %}

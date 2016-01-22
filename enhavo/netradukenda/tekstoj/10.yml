@@ -56,8 +56,7 @@ paragrafoj:
     -
       - patr
       - o
-    -
-      - ','
+    - ','
     -
     -
       - Marko
@@ -106,8 +105,7 @@ paragrafoj:
     -
     -
       - helpi
-    -
-      - '?'
+    - '?'
     -
     -
       - Trov
@@ -236,8 +234,7 @@ paragrafoj:
     -
       - Bon
       - e
-    -
-      - ','
+    - ','
     -
     -
       - mi
@@ -262,8 +259,7 @@ paragrafoj:
     -
     -
       - Sed
-    -
-      - ','
+    - ','
     -
     -
       - anstataŭ
@@ -293,8 +289,7 @@ paragrafoj:
       - familian
       - o
       - j
-    -
-      - ','
+    - ','
     -
     -
       - mi
@@ -332,8 +327,7 @@ paragrafoj:
       - an
       - o
       - j
-    -
-      - '?'
+    - '?'
     -
     - '–'
     -
@@ -418,8 +412,7 @@ paragrafoj:
     -
     -
       - Sed
-    -
-      - ','
+    - ','
     -
     -
       - kar
@@ -428,8 +421,7 @@ paragrafoj:
     -
       - mi
       - a
-    -
-      - ','
+    - ','
     -
     -
       - ĉu
@@ -452,8 +444,7 @@ paragrafoj:
       - for
       - est 
       - i
-    -
-      - '?'
+    - '?'
     -
     -
       - Ĉu
@@ -493,8 +484,7 @@ paragrafoj:
     -
       - semajn
       - e
-    -
-      - '?'
+    - '?'
   
   -
     - '–'
@@ -516,8 +506,7 @@ paragrafoj:
     -
       - propon
       - i
-    -
-      - ':'
+    - ':'
     -
     -
       - Mi
@@ -712,8 +701,7 @@ paragrafoj:
     -
       - famili
       - o
-    -
-      - '?'
+    - '?'
     -
       - '!'
   
@@ -750,8 +738,7 @@ paragrafoj:
     -
       - sci
       - as
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -782,8 +769,7 @@ paragrafoj:
     -
     -
       - Marko
-    -
-      - ','
+    - ','
     -
     -
       - ne
@@ -863,16 +849,14 @@ paragrafoj:
       - daŭr
       - ig
       - is
-    -
-      - ':'
+    - ':'
   
   -
     - '–'
     -
     -
       - Nu
-    -
-      - ','
+    - ','
     -
     -
       - antaŭ
@@ -893,8 +877,7 @@ paragrafoj:
     -
     -
       - Ana
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -938,8 +921,7 @@ paragrafoj:
       - o
       - j
       - n
-    -
-      - ','
+    - ','
     -
     -
       - kvankam
@@ -1022,8 +1004,7 @@ paragrafoj:
       - Patr
       - in
       - o
-    -
-      - ','
+    - ','
     -
     -
       - tiu

@@ -104,7 +104,8 @@ paragrafoj:
       - iom
     -
     -
-      - helpi
+      - help
+      - i
     - '?'
     -
     -
@@ -655,7 +656,8 @@ paragrafoj:
       - n
     -
     -
-      - aŭdi
+      - aŭd
+      - i
     -
       - '!'
     -

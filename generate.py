@@ -5,6 +5,7 @@ import jinja2
 import markdown
 import glob
 import re
+import mistune
 
 def transpose_headlines(markdown, level):
     prefix = ''
@@ -77,7 +78,7 @@ def load(language):
 
 enhavo = load('de')
 
-md = markdown.Markdown(extensions=['meta'])
+md = mistune.Markdown()
 
 execfile('html/main.py')
 generate_html(enhavo)

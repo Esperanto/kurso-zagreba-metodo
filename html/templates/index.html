@@ -146,13 +146,7 @@
 
             <h3 id="gramatiko{{leciono_loop.index}}">{{ enhavo.vortaro['Gramatiko'] }} / Gramatiko</h3>
 
-            {% for paragrafo in leciono.gramatiko %}
-            {% set paragrafo_loop = loop %}
-              {% for titolo,klarigo in paragrafo.items() %}
-                <h4 id="gramatiko{{leciono_loop.index}}-{{paragrafo_loop.index}}"> {{titolo}} </h4>
-                {{klarigo|markdown}} 
-              {% endfor %}
-            {% endfor %}
+            {{leciono.gramatiko|markdown}} 
 
             <h3 id="ekzercoj{{leciono_loop.index}}">{{ enhavo.vortaro['Ekzercoj'] }} / Ekzercoj</h3>
 

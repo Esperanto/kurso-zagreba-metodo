@@ -1,5 +1,6 @@
 $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip(); 
+  $('.container table').addClass('table'); 
 });
 
 function esperantigu(s) {

@@ -20,11 +20,11 @@ paragrafoj:
       - junul
       - in
       - o
+    - '.'
     -
-      - .
     -
-    -
-      - Ĉiuj
+      - Ĉiu
+      - j
     -
     -
       - ŝi
@@ -44,8 +44,7 @@ paragrafoj:
     -
       - ŝi
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Antaŭ
@@ -88,8 +87,7 @@ paragrafoj:
     -
       - ŝi
       - n
-    -
-      - .
+    - '.'
   
   -
     -
@@ -118,8 +116,7 @@ paragrafoj:
       - temperatur
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Ŝi
@@ -133,8 +130,7 @@ paragrafoj:
     -
       - dir
       - is
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -153,8 +149,7 @@ paragrafoj:
     -
       - hejm
       - e
-    -
-      - .
+    - '.'
     -
     -
       - Morgaŭ
@@ -170,8 +165,7 @@ paragrafoj:
       - doktor
       - o
       - n
-    -
-      - .
+    - '.'
   
   -
     -
@@ -212,8 +206,7 @@ paragrafoj:
     -
     -
       - Maja
-    -
-      - .
+    - '.'
   -
     - '–'
     -
@@ -225,7 +218,7 @@ paragrafoj:
       - '"A"'
     -
     - 
-      - …
+      - '…'
     -
       - montr
       - u
@@ -242,7 +235,7 @@ paragrafoj:
       - j
       - n
     -
-      - …
+      - '…'
     -
     -
       - montr
@@ -261,7 +254,7 @@ paragrafoj:
       - n
     -
     -
-      - …
+      - '…'
     -
       - mal
       - vest
@@ -324,7 +317,7 @@ paragrafoj:
       - kaj
     -
     -
-      - …
+      - '…'
     -
     -
       - ne
@@ -340,8 +333,7 @@ paragrafoj:
       - aŭt
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Trink
@@ -366,8 +358,7 @@ paragrafoj:
     -
       - vesper
       - e
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -375,8 +366,7 @@ paragrafoj:
     -
       - dezir
       - as
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -391,8 +381,7 @@ paragrafoj:
     -
       - trankvil
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Post
@@ -417,8 +406,7 @@ paragrafoj:
     -
       - bon
       - e
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -438,8 +426,7 @@ paragrafoj:
     -
       - vi
       - n
-    -
-      - .
+    - '.'
   -
     - '–'
     -
@@ -450,8 +437,7 @@ paragrafoj:
     -
       - doktor
       - o
-    -
-      - ','
+    - ','
     -
     -
       - ĉu
@@ -487,27 +473,24 @@ paragrafoj:
     -
       - mi
       - n
-    -
-      - '?'
+    - '?'
   
   -
     - '–'
     -
     -
       - Hm
-    -
-      - ','
-    -
-    -
-      - jes
-    -
-    -
-      - …
+    - ','
     -
     -
       - jes
     -
-      - .
+    -
+      - '…'
+    -
+    -
+      - jes
+    - '.'
     -
     -
       - Li
@@ -517,10 +500,11 @@ paragrafoj:
       - as
     -
     -
-      - veni
+      - ven
+      - i
     -
     -
-      - …
+      - '…'
     -
     -
       - sed
@@ -538,5 +522,4 @@ paragrafoj:
     -
       - trankvil
       - a
-    -
-      - .
+    - '.'

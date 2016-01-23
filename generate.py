@@ -4,6 +4,17 @@ import yaml
 import jinja2
 import markdown
 import glob
+import re
+import mistune
+
+def transpose_headlines(markdown, level):
+    prefix = ''
+    for i in range(level):
+        prefix += '#'
+    markdown = re.sub(r'^#', '#' + prefix, markdown)
+    markdown = re.sub(r'\n#', '\n#' + prefix, markdown)
+    return markdown 
+
 
 def load(language):
 
@@ -38,23 +49,26 @@ def load(language):
         
         leciono['teksto']['titolo_string'] = titolo_string
 
-        filename = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.yml'
-        leciono['gramatiko'] = yaml.load(file(filename, 'r'))
+        filename = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.md'
+        gramatiko = file(filename, 'r').read()
+        gramatiko = unicode(gramatiko, 'utf-8')
+        gramatiko = transpose_headlines(gramatiko, 3)
+        leciono['gramatiko'] = gramatiko
 
-        filename = 'enhavo/tradukenda/' + language + '/ekzercoj/' + i_padded + '.yml'
-        ekzercoj1 = yaml.load(file(filename, 'r'))
+        ekzercoj = {}
 
-        filename = 'enhavo/netradukenda/ekzercoj/' + i_padded + '.yml'
-        ekzercoj2 = yaml.load(file(filename, 'r'))
+        filename = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku/' + i_padded + '.yml'
+        ekzercoj['Traduku'] = yaml.load(file(filename, 'r'))
 
-        # Merge ekzercoj.
-        ekzercoj = ekzercoj1.copy()
-        ekzercoj.update(ekzercoj2)
+        filename = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku-kaj-respondu/' + i_padded + '.yml'
+        ekzercoj['Traduku kaj respondu'] = yaml.load(file(filename, 'r'))
+
+        filename = 'enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/' + i_padded + '.yml'
+        ekzercoj['Kompletigu la frazojn'] = yaml.load(file(filename, 'r'))
+
 
         # Covert from dict to list.
-        leciono['ekzercoj'] = []
-        for key in sorted(ekzercoj.keys()):
-            leciono['ekzercoj'].append(ekzercoj[key])
+        leciono['ekzercoj'] = ekzercoj
 
         lecionoj.append(leciono)
 
@@ -62,9 +76,10 @@ def load(language):
 
     return enhavo
 
+
 enhavo = load('de')
 
-md = markdown.Markdown(extensions=['meta'])
+md = mistune.Markdown()
 
 execfile('html/main.py')
 generate_html(enhavo)

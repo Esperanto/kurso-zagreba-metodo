@@ -149,7 +149,8 @@ paragrafoj:
     - '–'
     -
     -
-      - ĉiuj
+      - ĉiu
+      - j
     -
     -
       - mov
@@ -183,7 +184,8 @@ paragrafoj:
       - ne
     -
     -
-      - malproksim
+      - mal
+      - proksim
       - e
     -
     -
@@ -267,7 +269,8 @@ paragrafoj:
       - is
     -
     -
-      - eksci
+      - ek
+      - scii
     - ','
     -
     -
@@ -434,7 +437,8 @@ paragrafoj:
     - '–'
     -
     -
-      - Ĉiuj
+      - Ĉiu
+      - j
     -
     -
       - dir
@@ -552,7 +556,8 @@ paragrafoj:
       - e
     -
     -
-      - iri
+      - ir
+      - i
     -
     -
       - pli
@@ -613,6 +618,7 @@ paragrafoj:
     -
     -
       - interes
+      - a
     -
     - '–'
     -
@@ -817,7 +823,8 @@ paragrafoj:
       - por
     -
     -
-      - helpi
+      - help
+      - i
     -
     -
       - junul
@@ -895,7 +902,8 @@ paragrafoj:
       - is
     -
     -
-      - helpi
+      - help
+      - i
     - '.'
     -
     -
@@ -981,9 +989,9 @@ paragrafoj:
       - is
     -
     -
-      - diri
-    -
-      - ':'
+      - dir
+      - i
+    - ':'
   -
     - '–'
     -
@@ -1276,7 +1284,8 @@ paragrafoj:
       - as
     -
     -
-      - sendi
+      - send
+      - i
     -
     -
       - l
@@ -1432,7 +1441,8 @@ paragrafoj:
       - ne
     -
     -
-      - malpli
+      - mal
+      - pli
     -
     -
       - ol
@@ -1620,8 +1630,7 @@ paragrafoj:
       - ek
       - parol
       - is
-    -
-      - ':'
+    - ':'
   -
     - '–'
     -

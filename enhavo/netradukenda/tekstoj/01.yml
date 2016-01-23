@@ -21,8 +21,7 @@ paragrafoj:
     -
       - amik
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Li
@@ -43,8 +42,7 @@ paragrafoj:
       - sport
       - ist
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Li
@@ -69,8 +67,7 @@ paragrafoj:
     -
       - lern
       - as
-    -
-      - .
+    - '.'
     -
     -
       - Sur
@@ -95,8 +92,7 @@ paragrafoj:
       - libr
       - o
       - j
-    -
-      - .
+    - '.'
     -
     -
       - Ĝi
@@ -110,8 +106,7 @@ paragrafoj:
       - o
       - tabl
       - o
-    -
-      - .
+    - '.'
     -
     -
       - La
@@ -141,10 +136,8 @@ paragrafoj:
       - libr
       - o
       - j
-    -
-      - .
-  
-    -
+    - '.'
+  -
     -
       - La
     -
@@ -192,8 +185,7 @@ paragrafoj:
     -
       - ĉambr
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Ili
@@ -204,8 +196,7 @@ paragrafoj:
     -
       - labor
       - as
-    -
-      - .
+    - '.'
     -
     -
       - Li
@@ -223,8 +214,7 @@ paragrafoj:
       - labor
       - ist
       - o
-    -
-      - ','
+    - ','
     -
     -
       - li
@@ -239,8 +229,7 @@ paragrafoj:
     -
       - hotel
       - o
-    -
-      - .
+    - '.'
     -
     -
       - La
@@ -253,8 +242,7 @@ paragrafoj:
     -
       - instru
       - as
-    -
-      - .
+    - '.'
     -
     -
       - Ŝi
@@ -268,6 +256,5 @@ paragrafoj:
       - ist
       - in
       - o
-    -
-      - .
+    - '.'
   

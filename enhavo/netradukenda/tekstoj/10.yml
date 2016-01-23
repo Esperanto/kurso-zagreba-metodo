@@ -56,13 +56,11 @@ paragrafoj:
     -
       - patr
       - o
-    -
-      - ','
+    - ','
     -
     -
       - Marko
-    -
-      - .
+    - .
     -
     -
       - Al
@@ -88,8 +86,7 @@ paragrafoj:
       - amik
       - o
       - j
-    -
-      - .
+    - .
     -
     -
       - Ĉ
@@ -107,9 +104,9 @@ paragrafoj:
       - iom
     -
     -
-      - helpi
-    -
-      - '?'
+      - help
+      - i
+    - '?'
     -
     -
       - Trov
@@ -146,8 +143,7 @@ paragrafoj:
       - ĉambr
       - o
       - n
-    -
-      - .
+    - .
     -
     -
       - Mi
@@ -168,8 +164,7 @@ paragrafoj:
       - bon
       - a
       - n
-    -
-      - .
+    - .
     -
     -
       - Por
@@ -204,8 +199,7 @@ paragrafoj:
     -
       - hejm
       - o
-    -
-      - .
+    - .
     -
     -
       - Neces
@@ -241,8 +235,7 @@ paragrafoj:
     -
       - Bon
       - e
-    -
-      - ','
+    - ','
     -
     -
       - mi
@@ -263,13 +256,11 @@ paragrafoj:
       - iĝ
       - tag
       - o
-    -
-      - .
+    - .
     -
     -
       - Sed
-    -
-      - ','
+    - ','
     -
     -
       - anstataŭ
@@ -299,8 +290,7 @@ paragrafoj:
       - familian
       - o
       - j
-    -
-      - ','
+    - ','
     -
     -
       - mi
@@ -321,8 +311,7 @@ paragrafoj:
       - an
       - o
       - j
-    -
-      - .
+    - .
   
   -
     - '–'
@@ -331,15 +320,15 @@ paragrafoj:
       - Kun
     -
     -
-      - kiuj
+      - kiu
+      - j
     -
     -
       - klub
       - an
       - o
       - j
-    -
-      - '?'
+    - '?'
     -
     - '–'
     -
@@ -381,8 +370,7 @@ paragrafoj:
       - uj
       - o
       - n
-    -
-      - .
+    - .
   
   -
     - '–'
@@ -418,16 +406,14 @@ paragrafoj:
     -
       - klub
       - o
-    -
-      - .
+    - .
   
   -
     - '–'
     -
     -
       - Sed
-    -
-      - ','
+    - ','
     -
     -
       - kar
@@ -436,8 +422,7 @@ paragrafoj:
     -
       - mi
       - a
-    -
-      - ','
+    - ','
     -
     -
       - ĉu
@@ -460,8 +445,7 @@ paragrafoj:
       - for
       - est 
       - i
-    -
-      - '?'
+    - '?'
     -
     -
       - Ĉu
@@ -501,8 +485,7 @@ paragrafoj:
     -
       - semajn
       - e
-    -
-      - '?'
+    - '?'
   
   -
     - '–'
@@ -524,8 +507,7 @@ paragrafoj:
     -
       - propon
       - i
-    -
-      - ':'
+    - ':'
     -
     -
       - Mi
@@ -546,8 +528,7 @@ paragrafoj:
       - an
       - o
       - j
-    -
-      - .
+    - .
     -
     -
       - Sed
@@ -597,8 +578,7 @@ paragrafoj:
       - amik
       - o
       - j
-    -
-      - .
+    - .
     -
     -
       - Post
@@ -649,8 +629,7 @@ paragrafoj:
     -
       - aŭt
       - o
-    -
-      - .
+    - .
     -
     -
       - Mal
@@ -677,7 +656,8 @@ paragrafoj:
       - n
     -
     -
-      - aŭdi
+      - aŭd
+      - i
     -
       - '!'
     -
@@ -723,8 +703,7 @@ paragrafoj:
     -
       - famili
       - o
-    -
-      - '?'
+    - '?'
     -
       - '!'
   
@@ -753,8 +732,7 @@ paragrafoj:
       - vort
       - o
       - j
-    -
-      - .
+    - .
     -
     -
       - Ŝi
@@ -762,8 +740,7 @@ paragrafoj:
     -
       - sci
       - as
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -783,8 +760,7 @@ paragrafoj:
     -
     -
       - hodiaŭ
-    -
-      - .
+    - .
   
   -
     - '–'
@@ -795,8 +771,7 @@ paragrafoj:
     -
     -
       - Marko
-    -
-      - ','
+    - ','
     -
     -
       - ne
@@ -822,8 +797,7 @@ paragrafoj:
       - ide
       - o
       - j
-    -
-      - .
+    - .
     -
     -
       - Neces
@@ -848,8 +822,7 @@ paragrafoj:
     -
       - ili
       - n
-    -
-      - .
+    - .
   
   -
     -
@@ -878,16 +851,14 @@ paragrafoj:
       - daŭr
       - ig
       - is
-    -
-      - ':'
+    - ':'
   
   -
     - '–'
     -
     -
       - Nu
-    -
-      - ','
+    - ','
     -
     -
       - antaŭ
@@ -908,8 +879,7 @@ paragrafoj:
     -
     -
       - Ana
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -930,8 +900,7 @@ paragrafoj:
     -
     -
       - morgaŭ
-    -
-      - .
+    - .
     -
     -
       - Ŝi
@@ -954,8 +923,7 @@ paragrafoj:
       - o
       - j
       - n
-    -
-      - ','
+    - ','
     -
     -
       - kvankam
@@ -977,8 +945,7 @@ paragrafoj:
       - dik
       - iĝ
       - i
-    -
-      - .
+    - .
   
   -
     -
@@ -999,8 +966,7 @@ paragrafoj:
       - opini
       - o
       - n
-    -
-      - .
+    - .
     -
     -
       - Sen
@@ -1032,8 +998,7 @@ paragrafoj:
       - sol
       - ec
       - a
-    -
-      - .
+    - .
   
   -
     -
@@ -1041,8 +1006,7 @@ paragrafoj:
       - Patr
       - in
       - o
-    -
-      - ','
+    - ','
     -
     -
       - tiu
@@ -1076,5 +1040,4 @@ paragrafoj:
     -
       - hejm
       - e
-    -
-      - .
+    - .

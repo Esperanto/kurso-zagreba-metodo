@@ -14,8 +14,7 @@ paragrafoj:
     -
     -
       - Rapid
-    -
-      - ','
+    - ','
     -
     -
       - amik
@@ -26,8 +25,7 @@ paragrafoj:
     -
     -
       - Marko
-    -
-      - ','
+    - ','
     -
     -
       - enir
@@ -46,8 +44,7 @@ paragrafoj:
       - aŭt
       - o
       - j
-    -
-      - .
+    - '.'
     -
     -
       - Tie
@@ -69,8 +66,7 @@ paragrafoj:
       - in
       - o
       - n
-    -
-      - ','
+    - ','
     -
     -
       - kiu
@@ -84,8 +80,7 @@ paragrafoj:
     -
     -
       - li
-    -
-      - .
+    - '.'
     -
     -
       - Vend
@@ -101,8 +96,7 @@ paragrafoj:
     -
     -
       - li
-    -
-      - .
+    - '.'
     -
     -
       - Sinjor
@@ -114,8 +108,7 @@ paragrafoj:
     -
       - demand
       - as
-    -
-      - ':'
+    - ':'
   -
     - '–'
     -
@@ -139,8 +132,7 @@ paragrafoj:
     -
       - bon
       - a
-    -
-      - '?'
+    - '?'
   
   -
     - '–'
@@ -171,8 +163,7 @@ paragrafoj:
     -
       - ĉiu
       - j
-    -
-      - .
+    - '.'
   -
     - '–'
     -
@@ -189,8 +180,7 @@ paragrafoj:
     -
       - rapid
       - a
-    -
-      - '?'
+    - '?'
   -
     - '–'
     -
@@ -215,8 +205,7 @@ paragrafoj:
       - ali
       - a
       - j
-    -
-      - .
+    - '.'
   
   -
     - '–'
@@ -237,8 +226,7 @@ paragrafoj:
     -
       - fort
       - a
-    -
-      - '?'
+    - '?'
   
   -
     - '–'
@@ -249,8 +237,7 @@ paragrafoj:
     -
     -
       - jes
-    -
-      - ','
+    - ','
     -
     -
       - ĝi
@@ -265,8 +252,7 @@ paragrafoj:
     -
       - fort
       - a
-    -
-      - .
+    - '.'
   
   -
     - '–'
@@ -287,8 +273,7 @@ paragrafoj:
       - e
       - kost
       - a
-    -
-      - '?'
+    - '?'
   
   -
     - '–'
@@ -297,8 +282,7 @@ paragrafoj:
       - Kompren
       - ebl
       - e
-    -
-      - ','
+    - ','
     -
     -
       - ĝi
@@ -323,9 +307,9 @@ paragrafoj:
       - el
     -
     -
-      - ĉiuj
-    -
-      - .
+      - ĉiu
+      - j
+    - '.'
   
   -
     - '–'
@@ -334,8 +318,7 @@ paragrafoj:
       - Dank
       - o
       - n
-    -
-      - ','
+    - ','
     -
     -
       - bedaŭr
@@ -361,8 +344,7 @@ paragrafoj:
       - aŭt
       - o
       - n
-    -
-      - ','
+    - ','
     -
     -
       - ĉar
@@ -401,9 +383,9 @@ paragrafoj:
       - el
     -
     -
-      - ĉiuj
-    -
-      - .
+      - ĉiu
+      - j
+    - '.'
     -
     -
       - Mi
@@ -420,8 +402,7 @@ paragrafoj:
     -
     -
       - ĝi
-    -
-      - .
+    - '.'
   
   -
     -
@@ -438,8 +419,7 @@ paragrafoj:
     -
       - dir
       - is
-    -
-      - ','
+    - ','
     -
     -
       - li
@@ -466,8 +446,7 @@ paragrafoj:
       - in
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Sed
@@ -483,8 +462,7 @@ paragrafoj:
     -
       - dir
       - is
-    -
-      - ':'
+    - ':'
   -
     -
     -
@@ -497,8 +475,7 @@ paragrafoj:
     -
       - bon
       - e
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -525,8 +502,7 @@ paragrafoj:
       - in
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Ankaŭ
@@ -542,8 +518,7 @@ paragrafoj:
       - multe
       - kost
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -551,8 +526,7 @@ paragrafoj:
     -
       - sci
       - as
-    -
-      - ','
+    - ','
     -
     -
       - ĉar
@@ -571,6 +545,5 @@ paragrafoj:
     -
       - edz
       - o
-    -
-      - .
+    - '.'
   

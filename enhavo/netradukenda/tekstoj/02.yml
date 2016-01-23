@@ -11,14 +11,12 @@ titolo:
     - de
   -
   -
-    - Mark
-    - o
+    - Marko
   
 paragrafoj:
   -
     -
-      - Mark
-      - o
+      - Marko
     -
     -
       - hav
@@ -29,8 +27,7 @@ paragrafoj:
       - in
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Ŝi
@@ -46,8 +43,7 @@ paragrafoj:
     -
     -
       - Ana
-    -
-      - .
+    - '.'
     -
     -
       - Ŝi
@@ -66,8 +62,7 @@ paragrafoj:
     -
       - bel
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Ana
@@ -76,8 +71,7 @@ paragrafoj:
       - kaj
     -
     -
-      - Mark
-      - o
+      - Marko
     -
     -
       - est
@@ -88,8 +82,7 @@ paragrafoj:
       - amik
       - o
       - j
-    -
-      - .
+    - '.'
   
   -
     -
@@ -111,13 +104,11 @@ paragrafoj:
       - de
     -
     -
-      - Mark
-      - o
-    -
-      - .
+      - Marko
+    - '.'
   
   -
-    -  '-'
+    -  '–'
     - 
     -
       - Bon
@@ -125,19 +116,18 @@ paragrafoj:
       - u
     -
     -
-      - eniri
-    -
-      - ','
+      - en
+      - iri
+    - ','
     -
     -
       - amik
       - in
       - o
-    -
-      - .
+    - '.'
   
   -
-    -  '-'
+    -  '–'
     - 
     -
       - Salut
@@ -145,10 +135,8 @@ paragrafoj:
       - n
     -
     -
-      - Mark
-      - o
-    -
-      - .
+      - Marko
+    - '.'
     -
     -
       - Kio
@@ -160,18 +148,16 @@ paragrafoj:
     -
       - far
       - as
-    -
-      - '?'
+    - '?'
   
   -
-    -  '-'
+    -  '–'
     - 
     -
       - Salut
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -179,8 +165,7 @@ paragrafoj:
     -
       - leg
       - is
-    -
-      - ','
+    - ','
     -
     -
       - sed
@@ -192,7 +177,8 @@ paragrafoj:
       - mi
     -
     -
-      - volas
+      - vol
+      - as
     -
     -
       - parol
@@ -203,11 +189,10 @@ paragrafoj:
     -
     -
       - vi
-    -
-      - .
+    - '.'
   
   -
-    -  '-'
+    -  '–'
     - 
     -
       - Ĉu
@@ -228,16 +213,14 @@ paragrafoj:
       - libr
       - o
       - n
-    -
-      - '?'
+    - '?'
   
   -
-    -  '-'
+    -  '–'
     - 
     -
       - Jes
-    -
-      - ','
+    - ','
     -
     -
       - mi
@@ -245,8 +228,7 @@ paragrafoj:
     -
       - hav
       - as
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -274,8 +256,7 @@ paragrafoj:
       - o
       - j
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Ĉu
@@ -295,16 +276,14 @@ paragrafoj:
       - kaf
       - o
       - n
-    -
-      - '?'
+    - '?'
   
   -
-    -  '-'
+    -  '–'
     - 
     -
       - Jes
-    -
-      - .
+    - '.'
     -
     -
       - Ĉu
@@ -343,16 +322,14 @@ paragrafoj:
     -
       - hejm
       - o
-    -
-      - '?'
+    - '?'
   
   -
-    -  '-'
+    -  '–'
     - 
     -
       - Ne
-    -
-      - .
+    - '.'
     -
     -
       - Jen
@@ -363,8 +340,7 @@ paragrafoj:
     -
       - kaf
       - o
-    -
-      - ','
+    - ','
     -
     -
       - ĝi
@@ -379,8 +355,7 @@ paragrafoj:
     -
       - varm
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -395,18 +370,16 @@ paragrafoj:
     -
       - ĝi
       - n
-    -
-      - .
+    - '.'
   
   -
-    -  '-'
+    -  '–'
     - 
     -
       - Dank
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -432,13 +405,11 @@ paragrafoj:
       - kaf
       - o
       - n
-    -
-      - .
+    - '.'
   
     -
     -
-      - Mark
-      - o
+      - Marko
     -
     -
       - rigard
@@ -464,8 +435,7 @@ paragrafoj:
     -
     -
       - Ana
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -473,8 +443,7 @@ paragrafoj:
     -
       - vid
       - as
-    -
-      - ','
+    - ','
     -
     -
       - k
@@ -490,6 +459,5 @@ paragrafoj:
     -
       - ŝ
       - in
-    -
-      - .
+    - '.'
   

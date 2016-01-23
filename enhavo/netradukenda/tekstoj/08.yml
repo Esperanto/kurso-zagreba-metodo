@@ -32,8 +32,7 @@ paragrafoj:
       - mal
       - trankvil
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -65,8 +64,7 @@ paragrafoj:
     -
     -
       - ŝi
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -88,8 +86,7 @@ paragrafoj:
       - not
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Ŝi
@@ -97,17 +94,14 @@ paragrafoj:
     -
       - dir
       - is
+    - ':'
     -
-      - ':'
-    -
-    -
-      - '"'
+    - '"'
     -
       - Knab
       - aĉ
       - o
-    -
-      - ','
+    - ','
     -
     -
       - vi
@@ -137,8 +131,7 @@ paragrafoj:
       - kap
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Kiom
@@ -163,10 +156,8 @@ paragrafoj:
     -
       - hav
       - as
-    -
-      - '?'
-    -
-      - '"'
+    - '?'
+    - '.'
   -
     -
     -
@@ -180,8 +171,7 @@ paragrafoj:
       - mal
       - ĝoj
       - a
-    -
-      - .
+    - '.'
   
   -
     - '–'
@@ -221,8 +211,7 @@ paragrafoj:
     -
       - dir
       - is
-    -
-      - .
+    - '.'
   
   -
     -
@@ -243,8 +232,7 @@ paragrafoj:
     -
       - ĉambr
       - o
-    -
-      - ','
+    - ','
     -
     -
       - sed
@@ -269,8 +257,7 @@ paragrafoj:
     -
       - leg
       - i
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -316,8 +303,7 @@ paragrafoj:
     -
       - sport
       - o
-    -
-      - .
+    - '.'
   
   -
     -
@@ -336,8 +322,7 @@ paragrafoj:
     -
     -
       - mem
-    -
-      - ':'
+    - ':'
     -
     -
       - Ĉ
@@ -357,8 +342,7 @@ paragrafoj:
       - mal
       - saĝ
       - a
-    -
-      - ','
+    - ','
     -
     -
       - kvankam
@@ -373,8 +357,7 @@ paragrafoj:
     -
       - mult
       - e
-    -
-      - '?'
+    - '?'
   
   -
     -
@@ -421,8 +404,7 @@ paragrafoj:
       - o
       - j
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Ŝi
@@ -433,16 +415,14 @@ paragrafoj:
     -
       - respond
       - is
-    -
-      - ':'
+    - ':'
   
   -
     - '–'
     -  
     -
       - Ne
-    -
-      - ','
+    - ','
     -
     -
       - mi
@@ -451,8 +431,7 @@ paragrafoj:
     -
       - kar
       - a
-    -
-      - ','
+    - ','
     -
     -
       - vi
@@ -468,8 +447,7 @@ paragrafoj:
       - mal
       - saĝ
       - a
-    -
-      - .
+    - '.'
     -
     -
       - La
@@ -481,8 +459,7 @@ paragrafoj:
     -
       - est
       - as
-    -
-      - ','
+    - ','
     -
     -
       - ke
@@ -504,8 +481,7 @@ paragrafoj:
     -
     -
       - pli
-    -
-      - .
+    - '.'
     -
     -
       - Tiam
@@ -535,8 +511,7 @@ paragrafoj:
       - o
       - j
       - n
-    -
-      - .
+    - '.'
   
   -
     -
@@ -559,8 +534,7 @@ paragrafoj:
     -
       - ili
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Mi
@@ -595,8 +569,7 @@ paragrafoj:
     -
       - dir
       - is
-    -
-      - .
+    - '.'
   
     -
     -
@@ -615,8 +588,7 @@ paragrafoj:
       - ek
       - rid
       - is
-    -
-      - .
+    - '.'
     -
     -
       - Ti
@@ -642,8 +614,7 @@ paragrafoj:
       - tag
       - o
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Sed
@@ -661,6 +632,5 @@ paragrafoj:
     -
       - rest
       - is
-    -
-      - .
+    - '.'
   

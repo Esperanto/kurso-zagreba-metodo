@@ -35,8 +35,7 @@ paragrafoj:
       - lern
       - ej
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Post
@@ -62,8 +61,7 @@ paragrafoj:
     -
       - strat
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Est
@@ -76,8 +74,7 @@ paragrafoj:
     -
       - tag
       - o
-    -
-      - .
+    - '.'
     -
     -
       - Ili
@@ -106,8 +103,7 @@ paragrafoj:
       - o
       - j
       - n
-    -
-      - .
+    - '.'
   
   -
     - '-'
@@ -128,7 +124,7 @@ paragrafoj:
       - manĝ
       - u
     -
-    -  '-'
+    -  '–'
     -
     -
       - dir
@@ -136,8 +132,7 @@ paragrafoj:
     -
     -
       - Marko
-    -
-      - .
+    - '.'
   
   -
     - '-'
@@ -161,8 +156,7 @@ paragrafoj:
       - mon
       - o
       - n
-    -
-      - '?'
+    - '?'
   
   -
     - '-'
@@ -171,8 +165,7 @@ paragrafoj:
       - Kompren
       - ebl
       - e
-    -
-      - ','
+    - ','
     -
     -
       - mi
@@ -189,16 +182,14 @@ paragrafoj:
       - o
       - j
       - n
-    -
-      - .
+    - '.'
   
   -
     - '-'
     -
     -
       - Ho
-    -
-      - ','
+    - ','
     -
     -
       - vi
@@ -235,8 +226,7 @@ paragrafoj:
       - o
       - j
       - n
-    -
-      - .
+    - '.'
     -
     -
       - Ili
@@ -273,8 +263,7 @@ paragrafoj:
     -
       - ven
       - is
-    -
-      - .
+    - '.'
   -
     -
       - Marko
@@ -293,7 +282,7 @@ paragrafoj:
       - lok
       - o
     -
-    - …
+    - '…'
     -
     -
       - serĉ
@@ -306,7 +295,7 @@ paragrafoj:
       - ali
       - a
     -
-    - …
+    - '…'
     -
     -
       - Li
@@ -324,8 +313,7 @@ paragrafoj:
       - mal
       - ĝoj
       - a
-    -
-      - .
+    - '.'
     -
     -
       - Fin
@@ -368,8 +356,7 @@ paragrafoj:
       - mon
       - o
       - n
-    -
-      - .
+    - '.'
   
   -
     -
@@ -383,8 +370,7 @@ paragrafoj:
     -
       - post
       - e
-    -
-      - '?'
+    - '?'
     -
     -
       - Ĉu
@@ -395,6 +381,5 @@ paragrafoj:
     -
       - sci
       - as
-    -
-      - '?'
+    - '?'
   

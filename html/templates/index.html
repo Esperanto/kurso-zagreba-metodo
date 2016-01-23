@@ -208,8 +208,8 @@
                 </li>
                 {% endfor %}
               </ol>
-              <input type="button" class="btn btn-success solvu" value="Solvu" data-form-id="{{ form_id }}" />
-              <input type="button" class="btn btn-danger forigu" value="Forigu" data-form-id="{{ form_id }}" />
+              <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
+              <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
             </form>
 
             {% set tasko = 'Traduku kaj respondu' %}
@@ -249,8 +249,8 @@
                       {% endif -%} 
                   {% endfor %}
 
-                  <input type="button" class="btn btn-success solvu" value="Solvu" data-form-id="{{ form_id }}" />
-                  <input type="button" class="btn btn-danger forigu" value="Forigu" data-form-id="{{ form_id }}" />
+                  <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
+                  <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
                 </form>
 
               </li>

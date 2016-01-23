@@ -55,26 +55,27 @@ def load(language):
         gramatiko = transpose_headlines(gramatiko, 3)
         leciono['gramatiko'] = gramatiko
 
-        filename = 'enhavo/tradukenda/' + language + '/ekzercoj/' + i_padded + '.yml'
-        ekzercoj1 = yaml.load(file(filename, 'r'))
+        ekzercoj = {}
 
-        filename = 'enhavo/netradukenda/ekzercoj/' + i_padded + '.yml'
-        ekzercoj2 = yaml.load(file(filename, 'r'))
+        filename = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku/' + i_padded + '.yml'
+        ekzercoj['Traduku'] = yaml.load(file(filename, 'r'))
 
-        # Merge ekzercoj.
-        ekzercoj = ekzercoj1.copy()
-        ekzercoj.update(ekzercoj2)
+        filename = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku-kaj-respondu/' + i_padded + '.yml'
+        ekzercoj['Traduku kaj respondu'] = yaml.load(file(filename, 'r'))
+
+        filename = 'enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/' + i_padded + '.yml'
+        ekzercoj['Kompletigu la frazojn'] = yaml.load(file(filename, 'r'))
+
 
         # Covert from dict to list.
-        leciono['ekzercoj'] = []
-        for key in sorted(ekzercoj.keys()):
-            leciono['ekzercoj'].append(ekzercoj[key])
+        leciono['ekzercoj'] = ekzercoj
 
         lecionoj.append(leciono)
 
     enhavo['lecionoj'] = lecionoj
 
     return enhavo
+
 
 enhavo = load('de')
 

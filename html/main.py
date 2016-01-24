@@ -9,4 +9,5 @@ def generate_html(enhavo):
     env.loader=jinja2.FileSystemLoader('html/templates/')
 
     rendered = env.get_template('index.html').render(enhavo=enhavo)
-    print rendered.encode('utf-8')
+    with open('html/output/index.html', 'w') as f:
+        f.write(rendered.encode('utf-8'))

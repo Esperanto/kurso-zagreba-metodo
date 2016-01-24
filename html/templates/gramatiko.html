@@ -6,6 +6,15 @@
 <h3 id="gramatiko{{leciono_index}}">{{ enhavo.vortaro['Gramatiko'] }} / Gramatiko</h3>
 
 {{leciono.gramatiko|markdown}} 
-  
+
+
+<ul class="pager">
+  {% if previous_path -%}
+    <li class="previous"><a href="{{previous_path}}">previous</a></li>
+  {%- endif %} 
+  {% if next_path -%}
+    <li class="next"><a href="{{next_path}}">next</a></li>
+  {%- endif %} 
+</ul>
 
 {% endblock %}

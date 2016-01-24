@@ -65,26 +65,12 @@
     <div class="container">
       <div class="row">
 
-        <div class="col-sm-9">
+        <div class="col-sm-12">
 
           {% block content %}
           {% endblock %}
         
         </div>
-        <nav class="col-sm-3 bs-docs-sidebar">
-          <ul id="sidebar" class="nav nav-stacked fixed">
-            {% for leciono in enhavo.lecionoj %}
-            {% set leciono_loop = loop %}
-              <li>
-                <a href="#leciono{{leciono_loop.index}}">{{leciono_loop.index}}. {{ leciono.teksto.titolo_string }}</a>
-                <ul class="nav nav-stacked">
-                  <li><a href="#gramatiko{{leciono_loop.index}}">{{enhavo.vortaro['Gramatiko']}} / Gramatiko</a></li>
-                  <li><a href="#ekzercoj{{leciono_loop.index}}">{{enhavo.vortaro['Ekzercoj']}} / Ekzercoj</a></li>
-                </ul>
-            {% endfor %}
-          </ul>
-        </nav>
-
       </div>
     </div>
 

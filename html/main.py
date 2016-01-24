@@ -37,3 +37,23 @@ def generate_html(enhavo):
         )
         with open(leciono_dir + '/index.html', 'w') as f:
             f.write(teksto_rendered.encode('utf-8'))
+
+        tabs = [
+          'gramatiko',
+          'ekzerco1',
+          'ekzerco2',
+          'ekzerco3'
+        ]
+        for tab in tabs:
+            tab_dir = leciono_dir + '/' + tab
+            os.mkdir(tab_dir)
+
+            tab_rendered = env.get_template(tab + '.html').render(
+              enhavo=enhavo, 
+              leciono=enhavo['lecionoj'][i-1], 
+              leciono_index=i,
+              root='../../'
+            )
+            with open(tab_dir + '/index.html', 'w') as f:
+                f.write(tab_rendered.encode('utf-8'))
+

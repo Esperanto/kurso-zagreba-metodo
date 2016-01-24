@@ -1,292 +1,196 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Esperanto kurso, Zagreba metodo</title>
+{% extends "layout.html" %}
+{% block content %}
 
-
-    <!-- Bootstrap -->
- <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">   
-<!--
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
--->
-    <link href="css/main.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body data-spy="scroll" data-target=".bs-docs-sidebar" data-offset="40">
-
-
-    <nav class="navbar navbar-default">
-      <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="/">Zagreba metodo</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Ligilo <span class="sr-only">(current)</span></a></li>
-            <li><a href="#">Ligilo</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pli ligiloj <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li role="separator" class="divider"></li>
-                <li><a href="#">Separated link</a></li>
-                <li role="separator" class="divider"></li>
-                <li><a href="#">One more separated link</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container-fluid -->
-    </nav>   
-
-    
-    <div class="container">
-      <div class="row">
-
-        <div class="col-sm-9">
-
-          {% for leciono in enhavo.lecionoj %}
-          {% set leciono_loop = loop %}
-          
-            <h2 id="leciono{{leciono_loop.index}}">
-              {{leciono_loop.index}}.
-              {% for vorto in leciono.teksto.titolo %}
-                {% if vorto is string -%}
-                  {{vorto}}
-                {%- elif vorto is iterable -%}
-                  <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
-                    <table>
-                    {# Loop only if there are multiple roots. #}
-                    {% if vorto|length > 1 -%} 
-                      {% for radiko in vorto -%} 
-                        {% if radiko|lower in enhavo.vortaro -%}
-                        <tr>
-                          <td>{{ radiko }}</td>
-                          <td>{{ enhavo.vortaro[radiko|lower] }}</td>
-                        </tr>
-                        {% endif %} 
-                      {%- endfor %}
-                    {% endif %} 
-                    {% if vorto|join|lower in enhavo.vortaro -%}
-                      <tr>
-                        <td>{{ vorto|join|lower }}</td>
-                        <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
-                      </tr>
-                    {% elif vorto|join in enhavo.vortaro -%}
-                      <tr>
-                        <td>{{ vorto|join }}</td>
-                        <td>{{ enhavo.vortaro[vorto|join] }}</td>
-                      </tr>
-                    {% endif %} 
-                    </table>
-                  ">{{ vorto|join }}</a>
-                {% endif %} 
-              {% endfor %}
-            </h2>
-            <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Alklaku la vortojn por vidi ilian tradukon.'] }}</p>
-            {% for paragrafo in leciono.teksto.paragrafoj %}
-            <p>
-              {% for vorto in paragrafo -%}
-                {% if vorto is string -%}
-                  {{vorto}}
-                {%- elif vorto is iterable -%}
-                  <a href="javascript:" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
-                    <table>
-                    {# Loop only if there are multiple roots. #}
-                    {% if vorto|length > 1 -%} 
-                      {% for radiko in vorto -%} 
-                        {% if radiko|lower in enhavo.vortaro -%}
-                        <tr>
-                          <td>{{ radiko }}</td>
-                          <td>{{ enhavo.vortaro[radiko|lower] }}</td>
-                        </tr>
-                        {% endif %} 
-                      {%- endfor %}
-                    {% endif %} 
-                    {% if vorto|join|lower in enhavo.vortaro -%}
-                      <tr>
-                        <td>{{ vorto|join|lower }}</td>
-                        <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
-                      </tr>
-                    {% elif vorto|join in enhavo.vortaro -%}
-                      <tr>
-                        <td>{{ vorto|join }}</td>
-                        <td>{{ enhavo.vortaro[vorto|join] }}</td>
-                      </tr>
-                    {% endif %} 
-                    </table>
-                  ">{{ vorto|join }}</a>
-                {%- else %} 
+  {% for leciono in enhavo.lecionoj %}
+  {% set leciono_loop = loop %}
+  
+    <h2 id="leciono{{leciono_loop.index}}">
+      {{leciono_loop.index}}.
+      {% for vorto in leciono.teksto.titolo %}
+        {% if vorto is string -%}
+          {{vorto}}
+        {%- elif vorto is iterable -%}
+          <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
+            <table>
+            {# Loop only if there are multiple roots. #}
+            {% if vorto|length > 1 -%} 
+              {% for radiko in vorto -%} 
+                {% if radiko|lower in enhavo.vortaro -%}
+                <tr>
+                  <td>{{ radiko }}</td>
+                  <td>{{ enhavo.vortaro[radiko|lower] }}</td>
+                </tr>
                 {% endif %} 
               {%- endfor %}
-            </p>
-            {% endfor %}
+            {% endif %} 
+            {% if vorto|join|lower in enhavo.vortaro -%}
+              <tr>
+                <td>{{ vorto|join|lower }}</td>
+                <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
+              </tr>
+            {% elif vorto|join in enhavo.vortaro -%}
+              <tr>
+                <td>{{ vorto|join }}</td>
+                <td>{{ enhavo.vortaro[vorto|join] }}</td>
+              </tr>
+            {% endif %} 
+            </table>
+          ">{{ vorto|join }}</a>
+        {% endif %} 
+      {% endfor %}
+    </h2>
+    <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Alklaku la vortojn por vidi ilian tradukon.'] }}</p>
+    {% for paragrafo in leciono.teksto.paragrafoj %}
+    <p>
+      {% for vorto in paragrafo -%}
+        {% if vorto is string -%}
+          {{vorto}}
+        {%- elif vorto is iterable -%}
+          <a href="javascript:" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
+            <table>
+            {# Loop only if there are multiple roots. #}
+            {% if vorto|length > 1 -%} 
+              {% for radiko in vorto -%} 
+                {% if radiko|lower in enhavo.vortaro -%}
+                <tr>
+                  <td>{{ radiko }}</td>
+                  <td>{{ enhavo.vortaro[radiko|lower] }}</td>
+                </tr>
+                {% endif %} 
+              {%- endfor %}
+            {% endif %} 
+            {% if vorto|join|lower in enhavo.vortaro -%}
+              <tr>
+                <td>{{ vorto|join|lower }}</td>
+                <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
+              </tr>
+            {% elif vorto|join in enhavo.vortaro -%}
+              <tr>
+                <td>{{ vorto|join }}</td>
+                <td>{{ enhavo.vortaro[vorto|join] }}</td>
+              </tr>
+            {% endif %} 
+            </table>
+          ">{{ vorto|join }}</a>
+        {%- else %} 
+        {% endif %} 
+      {%- endfor %}
+    </p>
+    {% endfor %}
 
-            <h3 id="gramatiko{{leciono_loop.index}}">{{ enhavo.vortaro['Gramatiko'] }} / Gramatiko</h3>
+    <h3 id="gramatiko{{leciono_loop.index}}">{{ enhavo.vortaro['Gramatiko'] }} / Gramatiko</h3>
 
-            {{leciono.gramatiko|markdown}} 
+    {{leciono.gramatiko|markdown}} 
 
-            <h3 id="ekzercoj{{leciono_loop.index}}">{{ enhavo.vortaro['Ekzercoj'] }} / Ekzercoj</h3>
+    <h3 id="ekzercoj{{leciono_loop.index}}">{{ enhavo.vortaro['Ekzercoj'] }} / Ekzercoj</h3>
 
-            <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
+    <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
 
-            {% set tasko = 'Traduku' %}
-            {% set ekzerco_index = 1 %}
-            {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_index %}
+    {% set tasko = 'Traduku' %}
+    {% set ekzerco_index = 1 %}
+    {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_index %}
 
-            <h4> {{enhavo.vortaro[tasko]}} / {{tasko}} </h4>
-            <form id="form-{{form_id}}" class="form-horizontal">
+    <h4> {{enhavo.vortaro[tasko]}} / {{tasko}} </h4>
+    <form id="form-{{form_id}}" class="form-horizontal">
 
-              {% for vico in leciono.ekzercoj[tasko] %}
+      {% for vico in leciono.ekzercoj[tasko] %}
 
-                {% set vico_loop = loop %}
-                {% set id = 'vico-' ~ leciono_loop.index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index %}
+        {% set vico_loop = loop %}
+        {% set id = 'vico-' ~ leciono_loop.index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index %}
+        <div id="form-group-{{id}}" class="form-group has-error has-feedback">
+          {% for esperante,fontlingve in vico.items() %}
+            <label class="control-label col-sm-2" for="{{id}}" data-toggle="tooltip" data-placement="bottom" title="{{fontlingve}}" >{{esperante}}:</label>
+            <div class="col-sm-10">
+              <input id="{{id}}" class="form-control" type="text" size="{{fontlingve|string|length}}" data-solvo="{{fontlingve}}"/>
+              <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
+            </div>
+          {% endfor %}
+        </div>
+      {% endfor %}
+
+      <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
+      <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
+    </form>
+
+    {% set tasko = 'Kompletigu la frazojn' %}
+    {% set ekzerco_index = 2 %}
+    {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_index %}
+
+    <h4> {{enhavo.vortaro[tasko]}} / {{tasko}} </h4>
+
+    <form id="form-{{form_id}}" class="form-inline">
+      <ol class="tasko">
+        {% for vico in leciono.ekzercoj[tasko] %}
+        {% set vico_loop = loop %}
+        <li>
+          {%- for parto in vico -%}
+            {% set parto_loop = loop %}
+            {% set id = 'vico-' ~ leciono_loop.index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index ~ '-' ~ parto_loop.index %}
+            {%- for klavo,valoro in parto.items() -%}
+              {%- if klavo == 'videbla' -%}
+                {%- if valoro -%}
+                  {{valoro}}
+                {%- else %} {% endif -%} 
+              {%- elif klavo == 'solvo' -%}
                 <div id="form-group-{{id}}" class="form-group has-error has-feedback">
-                  {% for esperante,fontlingve in vico.items() %}
-                    <label class="control-label col-sm-2" for="{{id}}" data-toggle="tooltip" data-placement="bottom" title="{{ esperante }}" >{{fontlingve}}:</label>
-                    <div class="col-sm-10">
-                      <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-solvo="{{esperante}}"/>
-                      <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
-                    </div>
-                  {% endfor %}
+                  <input id="{{id}}" type="text" class="form-control" size="{{valoro|length}}" data-solvo="{{valoro}}" />
+                  <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
                 </div>
-              {% endfor %}
+              {%- endif -%} 
+           {%- endfor -%}
+          {%- endfor -%}
+        </li>
+        {% endfor %}
+      </ol>
+      <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
+      <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
+    </form>
 
-              <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
-              <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
-            </form>
+    {% set tasko = 'Traduku kaj respondu' %}
+    {% set ekzerco_index = 3 %}
+    {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_index %}
+    <h4> {{enhavo.vortaro[tasko]}} / {{tasko}} </h4>
 
-            {% set tasko = 'Kompletigu la frazojn' %}
-            {% set ekzerco_index = 2 %}
-            {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_index %}
 
-            <h4> {{enhavo.vortaro[tasko]}} / {{tasko}} </h4>
+    <ol class="tasko">
+      {% for vico in leciono.ekzercoj[tasko] %}
+        {% set vico_loop = loop %}
+        {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index %}
+      <li>
 
-            <form id="form-{{form_id}}" class="form-inline">
-              <ol class="tasko">
-                {% for vico in leciono.ekzercoj[tasko] %}
-                {% set vico_loop = loop %}
-                <li>
-                  {%- for parto in vico -%}
-                    {% set parto_loop = loop %}
-                    {% set id = 'vico-' ~ leciono_loop.index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index ~ '-' ~ parto_loop.index %}
-                    {%- for klavo,valoro in parto.items() -%}
-                      {%- if klavo == 'videbla' -%}
-                        {%- if valoro -%}
-                          {{valoro}}
-                        {%- else %} {% endif -%} 
-                      {%- elif klavo == 'solvo' -%}
-                        <div id="form-group-{{id}}" class="form-group has-error has-feedback">
-                          <input id="{{id}}" type="text" class="form-control" size="{{valoro|length}}" data-solvo="{{valoro}}" />
-                          <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
-                        </div>
-                      {%- endif -%} 
-                   {%- endfor -%}
-                  {%- endfor -%}
-                </li>
+        {{vico.demando}}
+
+        <form id="form-{{form_id}}" class="form-horizontal">
+
+          {% for duopo in vico.rektatraduko %}
+            {% set duopo_loop = loop %}
+            {% set id = leciono_loop.index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index ~ '-' ~ duopo_loop.index %}
+            {% if duopo is mapping %}
+              {% for esperante, fontlingve in duopo.items() %}
+                <div id="form-group-{{id}}" class="form-group has-error has-feedback">
+                  <label class="control-label col-sm-2" for="{{id}}" 
+                    data-toggle="tooltip" data-placement="bottom" title="{{esperante}}">{{fontlingve}}:</label>
+                  <div class="col-sm-10">
+                    <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-solvo="{{esperante}}"/>
+                    <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
+                  </div>
+                </div>
                 {% endfor %}
-              </ol>
-              <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
-              <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
-            </form>
-
-            {% set tasko = 'Traduku kaj respondu' %}
-            {% set ekzerco_index = 3 %}
-            {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_index %}
-            <h4> {{enhavo.vortaro[tasko]}} / {{tasko}} </h4>
-
-
-            <ol class="tasko">
-              {% for vico in leciono.ekzercoj[tasko] %}
-                {% set vico_loop = loop %}
-                {% set form_id = leciono_loop.index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index %}
-              <li>
-
-                {{vico.demando}}
-
-                <form id="form-{{form_id}}" class="form-horizontal">
-
-                  {% for duopo in vico.rektatraduko %}
-                    {% set duopo_loop = loop %}
-                    {% set id = leciono_loop.index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index ~ '-' ~ duopo_loop.index %}
-                    {% if duopo is mapping %}
-                      {% for esperante, fontlingve in duopo.items() %}
-                        <div id="form-group-{{id}}" class="form-group has-error has-feedback">
-                          <label class="control-label col-sm-2" for="{{id}}" 
-                            data-toggle="tooltip" data-placement="bottom" title="{{esperante}}">{{fontlingve}}:</label>
-                          <div class="col-sm-10">
-                            <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-solvo="{{esperante}}"/>
-                            <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
-                          </div>
-                        </div>
-                        {% endfor %}
-                      {%- else %} 
-                        <div class="form-group">
-                          <label class="control-label col-sm-2">{{duopo}}</label>
-                        </div>
-                      {% endif -%} 
-                  {% endfor %}
-
-                  <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
-                  <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
-                </form>
-
-              </li>
-              {% endfor %}
-            </ol>
-
+              {%- else %} 
+                <div class="form-group">
+                  <label class="control-label col-sm-2">{{duopo}}</label>
+                </div>
+              {% endif -%} 
           {% endfor %}
 
-        </div>
-        <nav class="col-sm-3 bs-docs-sidebar">
-          <ul id="sidebar" class="nav nav-stacked fixed">
-            {% for leciono in enhavo.lecionoj %}
-            {% set leciono_loop = loop %}
-              <li>
-                <a href="#leciono{{leciono_loop.index}}">{{leciono_loop.index}}. {{ leciono.teksto.titolo_string }}</a>
-                <ul class="nav nav-stacked">
-                  <li><a href="#gramatiko{{leciono_loop.index}}">{{enhavo.vortaro['Gramatiko']}} / Gramatiko</a></li>
-                  <li><a href="#ekzercoj{{leciono_loop.index}}">{{enhavo.vortaro['Ekzercoj']}} / Ekzercoj</a></li>
-                </ul>
-            {% endfor %}
-          </ul>
-        </nav>
+          <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
+          <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
+        </form>
 
-      </div>
-    </div>
+      </li>
+      {% endfor %}
+    </ol>
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!--
-    <script src="vendor/jquery/jquery.min.js"></script>
--->
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-    <!-- 
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-    -->
-    <script src="js/main.js"></script>
-  </body>
-</html>
+  {% endfor %}
+
+{% endblock %}

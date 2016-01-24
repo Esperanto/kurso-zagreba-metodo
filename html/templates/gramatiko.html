@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<h2 id="leciono{{leciono_index}}">{{leciono_index}}. {{leciono.teksto.titolo_string}}</h2>
+
+<h3 id="gramatiko{{leciono_index}}">{{ enhavo.vortaro['Gramatiko'] }} / Gramatiko</h3>
+
+{{leciono.gramatiko|markdown}} 
+  
+
+{% endblock %}

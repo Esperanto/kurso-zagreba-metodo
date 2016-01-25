@@ -35,6 +35,11 @@ def load(language):
           'ekzercoj': None,
         }
         i_padded = str(i).zfill(2)
+        
+        leciono['indekso'] = {
+          'cifre': i,
+          'cxene': i_padded
+        }
 
         filename = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
         leciono['teksto'] = yaml.load(file(filename, 'r'))

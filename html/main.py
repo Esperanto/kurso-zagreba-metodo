@@ -11,14 +11,6 @@ def generate_html(enhavo):
     env.lstrip_blocks = True
     env.loader=jinja2.FileSystemLoader('html/templates/')
 
-    rendered = env.get_template('index.html').render(enhavo=enhavo, root='')
-
-
-    output_path = 'html/output/'
-
-
-    with open(output_path + 'index.html', 'w') as f:
-        f.write(rendered.encode('utf-8'))
 
     tabs = [
         ('teksto'    , ''           , enhavo['vortaro']['Teksto']   ) , 
@@ -28,6 +20,19 @@ def generate_html(enhavo):
         ('ekzerco3'  , 'ekzerco3/'  , enhavo['vortaro']['Ekzerco 3'])
     ]
     root='/esperanto-kurso-zagreba-metodo/html/output/'
+
+    rendered = env.get_template('index.html').render(
+      enhavo = enhavo,
+      root   = root,
+      tabs   = tabs,
+    )
+
+
+    output_path = 'html/output/'
+
+
+    with open(output_path + 'index.html', 'w') as f:
+        f.write(rendered.encode('utf-8'))
 
     paths = []
     for i in range(1, 13):

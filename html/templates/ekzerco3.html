@@ -12,13 +12,12 @@
 
   {% include 'tabs.html' %}
 
-  <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
-
   {% set tasko = 'Traduku kaj respondu' %}
   {% set ekzerco_index = 3 %}
   {% set form_id = leciono_index ~ '-' ~ ekzerco_index %}
   <h4> {{enhavo.vortaro[tasko]}} / {{tasko}} </h4>
 
+  <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
 
   <ol class="tasko">
     {% for vico in leciono.ekzercoj[tasko] %}

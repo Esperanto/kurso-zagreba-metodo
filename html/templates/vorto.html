@@ -1,4 +1,4 @@
-{% if vorto is string -%}
+{%- if vorto is string -%}
   {{vorto}}
 {%- elif vorto is iterable -%}
   <a href="javascript:" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
@@ -28,4 +28,4 @@
     </table>
   ">{{ vorto|join }}</a>
 {%- else %} 
-{% endif %} 
+{% endif -%} 

@@ -21,18 +21,18 @@ def generate_html(enhavo):
         f.write(rendered.encode('utf-8'))
 
     tabs = [
-        ('teksto'    , '/'          , 'Teksto')    , 
-        ('gramatiko' , '/gramatiko/' , 'Gramatiko') , 
-        ('ekzerco1'  , '/ekzerco1/'  , 'Ekzerco 1') , 
-        ('ekzerco2'  , '/ekzerco2/'  , 'Ekzerco 2') , 
-        ('ekzerco3'  , '/ekzerco3/'  , 'Ekzerco 3')
+        ('teksto'    , ''          , 'Teksto')    , 
+        ('gramatiko' , 'gramatiko/' , 'Gramatiko') , 
+        ('ekzerco1'  , 'ekzerco1/'  , 'Ekzerco 1') , 
+        ('ekzerco2'  , 'ekzerco2/'  , 'Ekzerco 2') , 
+        ('ekzerco3'  , 'ekzerco3/'  , 'Ekzerco 3')
     ]
     root='/esperanto-kurso-zagreba-metodo/html/output/'
 
     paths = []
     for i in range(1, 13):
         for  id, href,caption in tabs:
-            paths.append(root + str(i).zfill(2) + href)
+            paths.append(root + str(i).zfill(2) + '/' + href)
 
     paths_index = 0
 

@@ -1,0 +1,31 @@
+{% if vorto is string -%}
+  {{vorto}}
+{%- elif vorto is iterable -%}
+  <a href="javascript:" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
+    <table>
+    {# Loop only if there are multiple roots. #}
+    {% if vorto|length > 1 -%} 
+      {% for radiko in vorto -%} 
+        {% if radiko|lower in enhavo.vortaro -%}
+        <tr>
+          <td>{{ radiko }}</td>
+          <td>{{ enhavo.vortaro[radiko|lower] }}</td>
+        </tr>
+        {% endif %} 
+      {%- endfor %}
+    {% endif %} 
+    {% if vorto|join|lower in enhavo.vortaro -%}
+      <tr>
+        <td>{{ vorto|join|lower }}</td>
+        <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
+      </tr>
+    {% elif vorto|join in enhavo.vortaro -%}
+      <tr>
+        <td>{{ vorto|join }}</td>
+        <td>{{ enhavo.vortaro[vorto|join] }}</td>
+      </tr>
+    {% endif %} 
+    </table>
+  ">{{ vorto|join }}</a>
+{%- else %} 
+{% endif %} 

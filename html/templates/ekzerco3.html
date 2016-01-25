@@ -1,6 +1,8 @@
 {% extends "layout.html" %}
 {% block content %}
 
+  {% include 'pager.html' %}
+
   <h2 id="leciono{{leciono_index}}">
     {{leciono_index}}.
     {% for vorto in leciono.teksto.titolo %}
@@ -9,8 +11,6 @@
   </h2>
 
   {% include 'tabs.html' %}
-
-  {% include 'pager.html' %}
 
   <h3 id="ekzercoj{{leciono_index}}">{{ enhavo.vortaro['Ekzercoj'] }} / Ekzercoj</h3>
 

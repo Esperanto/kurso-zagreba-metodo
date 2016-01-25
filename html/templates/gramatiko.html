@@ -10,12 +10,12 @@
 
   {% include 'tabs.html' %}
 
-{% include 'pager.html' %}
+  {% include 'pager.html' %}
 
-<h3 id="gramatiko{{leciono_index}}">{{ enhavo.vortaro['Gramatiko'] }} / Gramatiko</h3>
+  <h3 id="gramatiko{{leciono_index}}">{{ enhavo.vortaro['Gramatiko'] }} / Gramatiko</h3>
 
-{{leciono.gramatiko|markdown}} 
+  {{leciono.gramatiko|markdown}} 
 
-{% include 'pager.html' %}
+  {% include 'pager.html' %}
 
 {% endblock %}

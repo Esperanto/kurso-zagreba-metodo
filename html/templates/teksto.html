@@ -1,14 +1,14 @@
 {% extends "layout.html" %}
 {% block content %}
 
-    <h2 id="leciono{{leciono_index}}">
-      {{leciono_index}}.
-      {% for vorto in leciono.teksto.titolo %}
-        {% include 'vorto.html' %}
-      {% endfor %}
-    </h2>
+  <h2 id="leciono{{leciono_index}}">
+    {{leciono_index}}.
+    {% for vorto in leciono.teksto.titolo %}
+      {% include 'vorto.html' %}
+    {% endfor %}
+  </h2>
 
-    {% include 'tabs.html' %}
+  {% include 'tabs.html' %}
 
   {% include 'pager.html' %}
 

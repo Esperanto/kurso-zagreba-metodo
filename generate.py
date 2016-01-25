@@ -52,7 +52,7 @@ def load(language):
         filename = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.md'
         gramatiko = file(filename, 'r').read()
         gramatiko = unicode(gramatiko, 'utf-8')
-        gramatiko = transpose_headlines(gramatiko, 3)
+        gramatiko = transpose_headlines(gramatiko, 2)
         leciono['gramatiko'] = gramatiko
 
         ekzercoj = {}

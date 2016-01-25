@@ -8,13 +8,7 @@
       {% endfor %}
     </h2>
 
-    <ul class="nav nav-tabs">
-      <li role="presentation" class="active"><a>Teksto</a></li>
-      <li role="presentation"><a href="gramatiko/">Gramatiko</a></li>
-      <li role="presentation"><a href="ekzerco1/">Ekzerco 1</a></li>
-      <li role="presentation"><a href="ekzerco2/">Ekzerco 2</a></li>
-      <li role="presentation"><a href="ekzerco3/">Ekzerco 3</a></li>
-    </ul>
+    {% include 'tabs.html' %}
 
     <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Alklaku la vortojn por vidi ilian tradukon.'] }}</p>
 

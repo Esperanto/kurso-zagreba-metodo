@@ -1,97 +1,27 @@
 {% extends "layout.html" %}
 {% block content %}
 
-  
-    <h2 id="leciono{{leciono_index}}">
-      {{leciono_index}}.
-      {% for vorto in leciono.teksto.titolo %}
-        {% if vorto is string -%}
-          {{vorto}}
-        {%- elif vorto is iterable -%}
-          <a href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
-            <table>
-            {# Loop only if there are multiple roots. #}
-            {% if vorto|length > 1 -%} 
-              {% for radiko in vorto -%} 
-                {% if radiko|lower in enhavo.vortaro -%}
-                <tr>
-                  <td>{{ radiko }}</td>
-                  <td>{{ enhavo.vortaro[radiko|lower] }}</td>
-                </tr>
-                {% endif %} 
-              {%- endfor %}
-            {% endif %} 
-            {% if vorto|join|lower in enhavo.vortaro -%}
-              <tr>
-                <td>{{ vorto|join|lower }}</td>
-                <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
-              </tr>
-            {% elif vorto|join in enhavo.vortaro -%}
-              <tr>
-                <td>{{ vorto|join }}</td>
-                <td>{{ enhavo.vortaro[vorto|join] }}</td>
-              </tr>
-            {% endif %} 
-            </table>
-          ">{{ vorto|join }}</a>
-        {% endif %} 
-      {% endfor %}
-    </h2>
+  {% include 'pager.html' %}
 
-    <ul class="nav nav-tabs">
-      <li role="presentation" class="active"><a>Teksto</a></li>
-      <li role="presentation"><a href="gramatiko/">Gramatiko</a></li>
-      <li role="presentation"><a href="ekzerco1/">Ekzerco 1</a></li>
-      <li role="presentation"><a href="ekzerco2/">Ekzerco 2</a></li>
-      <li role="presentation"><a href="ekzerco3/">Ekzerco 3</a></li>
-    </ul>
-
-    <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Alklaku la vortojn por vidi ilian tradukon.'] }}</p>
-
-    {% for paragrafo in leciono.teksto.paragrafoj %}
-    <p>
-      {% for vorto in paragrafo -%}
-        {% if vorto is string -%}
-          {{vorto}}
-        {%- elif vorto is iterable -%}
-          <a href="javascript:" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
-            <table>
-            {# Loop only if there are multiple roots. #}
-            {% if vorto|length > 1 -%} 
-              {% for radiko in vorto -%} 
-                {% if radiko|lower in enhavo.vortaro -%}
-                <tr>
-                  <td>{{ radiko }}</td>
-                  <td>{{ enhavo.vortaro[radiko|lower] }}</td>
-                </tr>
-                {% endif %} 
-              {%- endfor %}
-            {% endif %} 
-            {% if vorto|join|lower in enhavo.vortaro -%}
-              <tr>
-                <td>{{ vorto|join|lower }}</td>
-                <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
-              </tr>
-            {% elif vorto|join in enhavo.vortaro -%}
-              <tr>
-                <td>{{ vorto|join }}</td>
-                <td>{{ enhavo.vortaro[vorto|join] }}</td>
-              </tr>
-            {% endif %} 
-            </table>
-          ">{{ vorto|join }}</a>
-        {%- else %} 
-        {% endif %} 
-      {%- endfor %}
-    </p>
+  <h2 id="leciono{{leciono_index}}">
+    {{leciono_index}}.
+    {% for vorto in leciono.teksto.titolo %}
+      {% include 'vorto.html' %}
     {% endfor %}
+  </h2>
 
-  <ul class="pager">
-    {% if previous_path -%}
-      <li class="previous"><a href="{{previous_path}}">previous</a></li>
-    {%- endif %} 
-    {% if next_path -%}
-      <li class="next"><a href="{{next_path}}">next</a></li>
-    {%- endif %} 
-  </ul>
+  {% include 'tabs.html' %}
+
+  <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Alklaku la vortojn por vidi ilian tradukon.'] }}</p>
+
+  {% for paragrafo in leciono.teksto.paragrafoj %}
+  <p>
+    {% for vorto in paragrafo -%}
+      {% include 'vorto.html' %}
+    {%- endfor %}
+  </p>
+  {% endfor %}
+
+  {% include 'pager.html' %}
+
 {% endblock %}

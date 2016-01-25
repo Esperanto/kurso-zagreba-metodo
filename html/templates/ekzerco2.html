@@ -2,61 +2,53 @@
 {% extends "layout.html" %}
 {% block content %}
 
-<h2 id="leciono{{leciono_index}}">{{leciono_index}}. {{leciono.teksto.titolo_string}}</h2>
+  {% include 'pager.html' %}
 
-    <ul class="nav nav-tabs">
-      <li role="presentation"><a href="../">Teksto</a></li>
-      <li role="presentation"><a href="../gramatiko/">Gramatiko</a></li>
-      <li role="presentation"><a href="../ekzerco1/">Ekzerco 1</a></li>
-      <li role="presentation" class="active"><a>Ekzerco 2</a></li>
-      <li role="presentation"><a href="../ekzerco3/">Ekzerco 3</a></li>
-    </ul>
-    <h3 id="ekzercoj{{leciono_index}}">{{ enhavo.vortaro['Ekzercoj'] }} / Ekzercoj</h3>
+  <h2 id="leciono{{leciono_index}}">
+    {{leciono_index}}.
+    {% for vorto in leciono.teksto.titolo %}
+      {% include 'vorto.html' %}
+    {% endfor %}
+  </h2>
 
-    <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
+  {% include 'tabs.html' %}
 
+  {% set tasko = 'Kompletigu la frazojn' %}
+  {% set ekzerco_index = 2 %}
+  {% set form_id = leciono_index ~ '-' ~ ekzerco_index %}
 
-    {% set tasko = 'Kompletigu la frazojn' %}
-    {% set ekzerco_index = 2 %}
-    {% set form_id = leciono_index ~ '-' ~ ekzerco_index %}
+  <h3> {{enhavo.vortaro[tasko]}} / {{tasko}} </h3>
 
-    <h4> {{enhavo.vortaro[tasko]}} / {{tasko}} </h4>
+  <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
 
-    <form id="form-{{form_id}}" class="form-inline">
-      <ol class="tasko">
-        {% for vico in leciono.ekzercoj[tasko] %}
-        {% set vico_loop = loop %}
-        <li>
-          {%- for parto in vico -%}
-            {% set parto_loop = loop %}
-            {% set id = 'vico-' ~ leciono_index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index ~ '-' ~ parto_loop.index %}
-            {%- for klavo,valoro in parto.items() -%}
-              {%- if klavo == 'videbla' -%}
-                {%- if valoro -%}
-                  {{valoro}}
-                {%- else %} {% endif -%} 
-              {%- elif klavo == 'solvo' -%}
-                <div id="form-group-{{id}}" class="form-group has-error has-feedback">
-                  <input id="{{id}}" type="text" class="form-control" size="{{valoro|length}}" data-solvo="{{valoro}}" />
-                  <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
-                </div>
-              {%- endif -%} 
-           {%- endfor -%}
-          {%- endfor -%}
-        </li>
-        {% endfor %}
-      </ol>
-      <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
-      <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
-    </form>
+  <form id="form-{{form_id}}" class="form-inline">
+    <ol class="tasko">
+      {% for vico in leciono.ekzercoj[tasko] %}
+      {% set vico_loop = loop %}
+      <li>
+        {%- for parto in vico -%}
+          {% set parto_loop = loop %}
+          {% set id = 'vico-' ~ leciono_index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index ~ '-' ~ parto_loop.index %}
+          {%- for klavo,valoro in parto.items() -%}
+            {%- if klavo == 'videbla' -%}
+              {%- if valoro -%}
+                {{valoro}}
+              {%- else %} {% endif -%} 
+            {%- elif klavo == 'solvo' -%}
+              <div id="form-group-{{id}}" class="form-group has-error has-feedback">
+                <input id="{{id}}" type="text" class="form-control" size="{{valoro|length}}" data-solvo="{{valoro}}" />
+                <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
+              </div>
+            {%- endif -%} 
+         {%- endfor -%}
+        {%- endfor -%}
+      </li>
+      {% endfor %}
+    </ol>
+    <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
+    <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
+  </form>
 
-    <ul class="pager">
-      {% if previous_path -%}
-        <li class="previous"><a href="{{previous_path}}">previous</a></li>
-      {%- endif %} 
-      {% if next_path -%}
-        <li class="next"><a href="{{next_path}}">next</a></li>
-      {%- endif %} 
-    </ul>
+{% include 'pager.html' %}
 
 {% endblock %}

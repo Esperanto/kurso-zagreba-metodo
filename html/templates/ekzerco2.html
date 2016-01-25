@@ -11,6 +11,9 @@
       <li role="presentation" class="active"><a>Ekzerco 2</a></li>
       <li role="presentation"><a href="../ekzerco3/">Ekzerco 3</a></li>
     </ul>
+
+  {% include 'pager.html' %}
+
     <h3 id="ekzercoj{{leciono_index}}">{{ enhavo.vortaro['Ekzercoj'] }} / Ekzercoj</h3>
 
     <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
@@ -50,13 +53,6 @@
       <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
     </form>
 
-    <ul class="pager">
-      {% if previous_path -%}
-        <li class="previous"><a href="{{previous_path}}">previous</a></li>
-      {%- endif %} 
-      {% if next_path -%}
-        <li class="next"><a href="{{next_path}}">next</a></li>
-      {%- endif %} 
-    </ul>
+  {% include 'pager.html' %}
 
 {% endblock %}

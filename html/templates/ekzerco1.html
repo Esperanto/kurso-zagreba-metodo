@@ -1,7 +1,13 @@
 {% extends "layout.html" %}
 {% block content %}
 
-<h2 id="leciono{{leciono_index}}">{{leciono_index}}. {{leciono.teksto.titolo_string}}</h2>
+  <h2 id="leciono{{leciono_index}}">
+    {{leciono_index}}.
+    {% for vorto in leciono.teksto.titolo %}
+      {% include 'vorto.html' %}
+    {% endfor %}
+  </h2>
+
 
     <ul class="nav nav-tabs">
       <li role="presentation"><a href="../">Teksto</a></li>

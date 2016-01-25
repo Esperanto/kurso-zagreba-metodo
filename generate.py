@@ -16,6 +16,15 @@ def transpose_headlines(markdown, level):
     return markdown 
 
 
+def get_markdown_headlines(s):
+
+    headlines = []
+    for match in  re.finditer(r'(^|\n)# (.+)\n', s):
+        headlines.append(match.group(2).strip())
+
+    return headlines
+    
+
 def load(language):
 
     enhavo = {}
@@ -30,15 +39,15 @@ def load(language):
 
     for i in range(1,13):
         leciono = {
-          'teksto': None,
-          'gramatiko': None,
-          'ekzercoj': None,
+            'teksto': None,
+            'gramatiko': None,
+            'ekzercoj': None,
         }
         i_padded = str(i).zfill(2)
         
         leciono['indekso'] = {
-          'cifre': i,
-          'cxene': i_padded
+            'cifre': i,
+            'cxene': i_padded
         }
 
         filename = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
@@ -55,9 +64,17 @@ def load(language):
         leciono['teksto']['titolo_string'] = titolo_string
 
         filename = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.md'
-        gramatiko = file(filename, 'r').read()
-        gramatiko = unicode(gramatiko, 'utf-8')
-        gramatiko = transpose_headlines(gramatiko, 2)
+
+        gramatiko_teksto = file(filename, 'r').read()
+        gramatiko_teksto = unicode(gramatiko_teksto, 'utf-8')
+        gramatiko_titoloj = get_markdown_headlines(gramatiko_teksto)
+        gramatiko_teksto = transpose_headlines(gramatiko_teksto, 2)
+
+
+        gramatiko = {
+            'teksto': gramatiko_teksto,
+            'titoloj': gramatiko_titoloj,
+        }
         leciono['gramatiko'] = gramatiko
 
         ekzercoj = {}

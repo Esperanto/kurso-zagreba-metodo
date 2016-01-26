@@ -49,8 +49,7 @@ paragrafoj:
     - ','
     -
     -
-      - sub
-      - it
+      - subit
       - e
     -
     -
@@ -239,8 +238,7 @@ paragrafoj:
       - la
     -
     -
-      - str
-      - at
+      - strat
       - o
     - '.'
     -
@@ -270,8 +268,7 @@ paragrafoj:
     -
     - '"'
     -
-      - Ki
-      - a
+      - Kia
     -
     -
       - mal
@@ -316,7 +313,8 @@ paragrafoj:
     -
     -
       - en
-      - iri
+      - ir
+      - i
     -
     -
       - la

@@ -59,7 +59,8 @@ paragrafoj:
     - '.'
     -
     -
-      - Junul
+      - Jun
+      - ul
       - o
       - j
     -
@@ -199,7 +200,8 @@ paragrafoj:
       - o
     -
     -
-      - troviĝ
+      - trov
+      - iĝ
       - is
     -
     -
@@ -213,8 +215,7 @@ paragrafoj:
     - '.'
     -
     -
-      - F
-      - in
+      - Fin
       - e
     -
     -
@@ -254,7 +255,8 @@ paragrafoj:
       - la
     -
     -
-      - vestaĵ
+      - vest
+      - aĵ
       - o
     -
     -
@@ -270,7 +272,8 @@ paragrafoj:
     -
     -
       - ek
-      - scii
+      - sci
+      - i
     - ','
     -
     -
@@ -296,12 +299,14 @@ paragrafoj:
       - u
     -
     -
-      - riĉul
+      - riĉ
+      - ul
       - o
     - '.'
     -
     -
-      - Seninteres
+      - Sen
+      - interes
       - e
     -
     -
@@ -320,7 +325,8 @@ paragrafoj:
       - n
     -
     -
-      - hommult
+      - hom
+      - mult
       - o
       - n
     - '.'
@@ -336,7 +342,8 @@ paragrafoj:
       - o
     -
     -
-      - lumig
+      - lum
+      - ig
       - is
     -
     -
@@ -357,7 +364,8 @@ paragrafoj:
       - li
     -
     -
-      - ekvid
+      - ek
+      - vid
       - is
     -
     -
@@ -399,8 +407,7 @@ paragrafoj:
     - '–'
     -
     -
-      - Ĉ
-      - u
+      - Ĉu
     -
     -
       - tio
@@ -490,13 +497,11 @@ paragrafoj:
       - Ni
     -
     -
-      - renk
-      - ont
+      - renkont
       - is
     -
     -
-      - un
-      - u
+      - unu
     -
     -
       - el
@@ -520,8 +525,8 @@ paragrafoj:
       - is
     -
     -
+      - ni
       - n
-      - in
     -
     -
       - dum
@@ -533,8 +538,7 @@ paragrafoj:
       - ol
     -
     -
-      - un
-      - u
+      - unu
     -
     -
       - hor
@@ -579,8 +583,7 @@ paragrafoj:
     - '.'
     -
     -
-      - D
-      - o
+      - Do
     - ','
     -
     -
@@ -588,7 +591,8 @@ paragrafoj:
       - j
     -
     -
-      - novaĵ
+      - nov
+      - aĵ
       - o
       - j
     -
@@ -613,8 +617,7 @@ paragrafoj:
     - '–'
     -
     -
-      - Neni
-      - o
+      - Nenio
     -
     -
       - interes
@@ -630,7 +633,8 @@ paragrafoj:
       - a
     -
     -
-      - malfeliĉ
+      - mal
+      - feliĉ
       - o
     -
     -
@@ -642,8 +646,7 @@ paragrafoj:
     - '.'
     -
     -
-      - Ĉ
-      - u
+      - Ĉu
     -
     -
       - vi
@@ -661,7 +664,8 @@ paragrafoj:
     - '–'
     -
     -
-      - Komprenebl
+      - Kompren
+      - ebl
       - e
     - ','
     -
@@ -687,7 +691,9 @@ paragrafoj:
       - o
     -
     -
-      - subakvig
+      - sub
+      - akv
+      - ig
       - is
     -
     -
@@ -730,7 +736,9 @@ paragrafoj:
       - o
     -
     -
-      - subakviĝ
+      - sub
+      - akv
+      - iĝ
       - is
     - '.'
     -
@@ -746,7 +754,8 @@ paragrafoj:
       - ni
     -
     -
-      - troviĝ
+      - trov
+      - iĝ
       - is
     -
     -
@@ -761,8 +770,7 @@ paragrafoj:
       - ke
     -
     -
-      - Ĝorĝ
-      - o
+      - Ĝorĝo
     -
     -
       - kaj
@@ -816,7 +824,9 @@ paragrafoj:
       - o
     -
     -
-      - subakviĝ
+      - sub
+      - akv
+      - iĝ
       - is
     -
     -
@@ -827,7 +837,8 @@ paragrafoj:
       - i
     -
     -
-      - junul
+      - jun
+      - ul
       - in
       - o
       - n
@@ -872,7 +883,8 @@ paragrafoj:
       - is
     -
     -
-      - junul
+      - jun
+      - ul
       - in
       - o
     - '–'
@@ -926,8 +938,8 @@ paragrafoj:
       - kio
     -
     -
-      - v
-      - in
+      - vi
+      - n
     -
     -
       - al
@@ -968,7 +980,8 @@ paragrafoj:
       - e
     -
     -
-      - ekrigard
+      - ek
+      - rigard
       - is
     -
     -
@@ -996,8 +1009,7 @@ paragrafoj:
     - '–'
     -
     -
-      - D
-      - o
+      - Do
     - ','
     -
     -
@@ -1009,9 +1021,7 @@ paragrafoj:
     - ','
     -
     -
-      - Ĝ
-      - in
-      - o
+      - Ĝino
     - ','
     -
     -
@@ -1043,8 +1053,8 @@ paragrafoj:
       - is
     -
     -
-      - l
-      - in
+      - li
+      - n
     - '.'
   -
     - '–'
@@ -1102,7 +1112,9 @@ paragrafoj:
       - is
     -
     -
-      - tridekjar
+      - tri
+      - dek
+      - jar
       - a
     - ','
     -
@@ -1122,7 +1134,8 @@ paragrafoj:
       - is
     -
     -
-      - senkolor
+      - sen
+      - kolor
       - a
     - '.'
     -
@@ -1163,7 +1176,8 @@ paragrafoj:
       - is
     -
     -
-      - malĝoj
+      - mal
+      - ĝoj
       - a
     - '.'
   
@@ -1190,7 +1204,8 @@ paragrafoj:
       - li
     -
     -
-      - ekvid
+      - ek
+      - vid
       - is
     -
     -
@@ -1218,7 +1233,8 @@ paragrafoj:
       - j
     -
     -
-      - gravul
+      - grav
+      - ul
       - o
       - j
     -
@@ -1227,8 +1243,7 @@ paragrafoj:
       - as
     -
     -
-      - sekr
-      - et
+      - sekret
       - a
       - j
       - n
@@ -1254,15 +1269,13 @@ paragrafoj:
       - as
     -
     -
-      - tr
-      - o
+      - tro
     -
     -
       - da
     -
     -
-      - sekr
-      - et
+      - sekret
       - o
       - j
     - '.'
@@ -1288,18 +1301,20 @@ paragrafoj:
       - i
     -
     -
-      - l
-      - in
+      - li
+      - n
     -
     -
       - en
     -
     -
-      - malliber
+      - mal
+      - liber
       - ej
       - o
       - n
     - '–'
+    -
     -
       - dir
       - is
@@ -1368,7 +1383,8 @@ paragrafoj:
       - j
     -
     -
-      - gravul
+      - grav
+      - ul
       - o
       - j
     -
@@ -1391,9 +1407,7 @@ paragrafoj:
       - is
     -
     -
-      - Ĝ
-      - in
-      - o
+      - Ĝino
     - '.'
   
   -
@@ -1422,8 +1436,7 @@ paragrafoj:
       - por
     -
     -
-      - un
-      - u
+      - unu
     -
     -
       - mort
@@ -1754,7 +1767,8 @@ paragrafoj:
       - Ĝis
     -
     -
-      - revid
+      - re
+      - vid
       - o
     -
     -

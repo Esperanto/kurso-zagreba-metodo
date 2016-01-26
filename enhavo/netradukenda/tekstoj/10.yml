@@ -28,8 +28,7 @@ paragrafoj:
       - tag
       - o
       - j
-    -
-      - '!'
+    - '!'
     -
     -
       - Morgaŭ
@@ -39,8 +38,7 @@ paragrafoj:
       - as
     -
     -
-      - l
-      - a
+      - la
     -
     -
       - nask
@@ -91,8 +89,7 @@ paragrafoj:
     - .
     -
     -
-      - Ĉ
-      - u
+      - Ĉu
     -
     -
       - vi
@@ -134,7 +131,8 @@ paragrafoj:
     -
     -
       - ord
-      - igi
+      - ig
+      - i
     -
     -
       - vi
@@ -289,7 +287,8 @@ paragrafoj:
       - j
     -
     -
-      - familian
+      - famili
+      - an
       - o
       - j
     - ','
@@ -637,8 +636,7 @@ paragrafoj:
       - Mal
       - interes
       - e
-    -
-      - '!'
+    - '!'
     -
     -
       - Mi
@@ -660,8 +658,7 @@ paragrafoj:
     -
       - aŭd
       - i
-    -
-      - '!'
+    - '!'
     -
     -
       - Kial
@@ -681,7 +678,8 @@ paragrafoj:
       - n
     -
     -
-      - ideo
+      - ide
+      - o
       - riĉ
       - a
       - n
@@ -706,8 +704,7 @@ paragrafoj:
       - famili
       - o
     - '?'
-    -
-      - '!'
+    - '!'
   
   -
     -
@@ -719,7 +716,8 @@ paragrafoj:
       - o
     -
     -
-      - ridet
+      - rid
+      - et
       - is
     -
     -
@@ -786,7 +784,8 @@ paragrafoj:
       - nur
     -
     -
-      - riĉec
+      - riĉ
+      - ec
       - o
     -
     -

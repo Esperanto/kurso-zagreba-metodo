@@ -117,7 +117,8 @@ paragrafoj:
     -
     -
       - en
-      - iri
+      - ir
+      - i
     - ','
     -
     -
@@ -234,8 +235,7 @@ paragrafoj:
       - Mi
     -
     -
-      - ŝ
-      - at
+      - ŝat
       - as
     -
     -
@@ -446,8 +446,7 @@ paragrafoj:
     - ','
     -
     -
-      - k
-      - e
+      - ke
     -
     -
       - li
@@ -457,7 +456,7 @@ paragrafoj:
       - as
     -
     -
-      - ŝ
-      - in
+      - ŝi
+      - n
     - '.'
   

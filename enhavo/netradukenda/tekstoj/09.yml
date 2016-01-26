@@ -380,8 +380,7 @@ paragrafoj:
     - '–'
     -
     -
-      - Neni
-      - o
+      - Nenio
       - n
     -
     -
@@ -390,7 +389,8 @@ paragrafoj:
     - ','
     -
     -
-      - karul
+      - kar
+      - ul
       - o
     - ','
     -
@@ -424,8 +424,7 @@ paragrafoj:
       - al
     -
     -
-      - Ital
-      - i
+      - Itali
       - o
     - '.'
   
@@ -448,8 +447,7 @@ paragrafoj:
       - en
     -
     -
-      - l
-      - a
+      - la
     -
     -
       - aŭt
@@ -508,12 +506,12 @@ paragrafoj:
     - '–'
     -
     -
-      - D
-      - o
+      - Do
     - ','
     -
     -
-      - karul
+      - kar
+      - ul
       - o
     -
     -
@@ -548,7 +546,8 @@ paragrafoj:
     - '–'
     -
     -
-      - Karul
+      - Kar
+      - ul
       - in
       - o
     - ','

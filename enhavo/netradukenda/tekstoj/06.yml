@@ -4,8 +4,7 @@ titolo:
 paragrafoj:
   -
     -
-      - Maj
-      - a
+      - Maja
     -
     -
       - est
@@ -17,7 +16,8 @@ paragrafoj:
       - a
     -
     -
-      - junul
+      - jun
+      - ul
       - in
       - o
     - '.'
@@ -65,8 +65,7 @@ paragrafoj:
     -
       - okaz
       - is
-    - 
-      - ':'
+    - ':'
     -
     -
       - sur
@@ -214,11 +213,12 @@ paragrafoj:
       - Dir
       - u
     -
-    -
-      - '"A"'
-    -
+    - '"'
     - 
-      - '…'
+      - A
+    - '"'
+    -
+    - '…'
     -
       - montr
       - u
@@ -235,7 +235,7 @@ paragrafoj:
       - j
       - n
     -
-      - '…'
+    - '…'
     -
     -
       - montr
@@ -253,8 +253,8 @@ paragrafoj:
       - j
       - n
     -
+    - '…'
     -
-      - '…'
     -
       - mal
       - vest
@@ -263,8 +263,7 @@ paragrafoj:
     -
       - vi
       - n
-    -
-      - '!'
+    - '!'
   -
     -
       - La
@@ -294,8 +293,7 @@ paragrafoj:
     -
       - dir
       - is
-    - 
-      - ':'
+    - ':'
     -
     -
       - Unu
@@ -316,8 +314,7 @@ paragrafoj:
     -
       - kaj
     -
-    -
-      - '…'
+    - '…'
     -
     -
       - ne
@@ -486,8 +483,7 @@ paragrafoj:
     -
       - jes
     -
-    -
-      - '…'
+    - '…'
     -
     -
       - jes
@@ -504,8 +500,7 @@ paragrafoj:
       - ven
       - i
     -
-    -
-      - '…'
+    - '…'
     -
     -
       - sed

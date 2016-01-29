@@ -16,7 +16,7 @@
   {% set ekzerco_index = 1 %}
   {% set form_id = leciono_index ~ '-' ~ ekzerco_index %}
 
-  <h3> {{enhavo.vortaro[tasko]}} / {{tasko}} </h3>
+  <h3> {{enhavo.fasado[tasko]}} / {{tasko}} </h3>
   <form id="form-{{form_id}}" class="form-horizontal">
 
     {% for vico in leciono.ekzercoj[tasko] %}
@@ -34,8 +34,8 @@
       </div>
     {% endfor %}
 
-    <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
-    <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
+    <input type="button" class="btn btn-success solvu" value="{{enhavo.fasado['Solvu']}}" data-form-id="{{ form_id }}" />
+    <input type="button" class="btn btn-danger forigu" value="{{enhavo.fasado['Forigu']}}" data-form-id="{{ form_id }}" />
   </form>
   
   {% include 'pager.html' %}

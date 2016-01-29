@@ -13,11 +13,11 @@ def generate_html(enhavo):
 
 
     tabs = [
-        ('teksto'    , ''           , enhavo['vortaro']['Teksto']   ) , 
-        ('gramatiko' , 'gramatiko/' , enhavo['vortaro']['Gramatiko']) , 
-        ('ekzerco1'  , 'ekzerco1/'  , enhavo['vortaro']['Ekzerco 1']) , 
-        ('ekzerco2'  , 'ekzerco2/'  , enhavo['vortaro']['Ekzerco 2']) , 
-        ('ekzerco3'  , 'ekzerco3/'  , enhavo['vortaro']['Ekzerco 3'])
+        ('teksto'    , ''           , enhavo['fasado']['Teksto']   ) , 
+        ('gramatiko' , 'gramatiko/' , enhavo['fasado']['Gramatiko']) , 
+        ('ekzerco1'  , 'ekzerco1/'  , enhavo['fasado']['Ekzerco 1']) , 
+        ('ekzerco2'  , 'ekzerco2/'  , enhavo['fasado']['Ekzerco 2']) , 
+        ('ekzerco3'  , 'ekzerco3/'  , enhavo['fasado']['Ekzerco 3'])
     ]
     root='/esperanto-kurso-zagreba-metodo/html/output/'
 

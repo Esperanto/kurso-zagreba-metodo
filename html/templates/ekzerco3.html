@@ -16,9 +16,9 @@
   {% set ekzerco_index = 3 %}
   {% set form_id = leciono_index ~ '-' ~ ekzerco_index %}
   
-  <h3> {{enhavo.vortaro[tasko]}} / {{tasko}} </h3>
+  <h3> {{enhavo.fasado[tasko]}} / {{tasko}} </h3>
 
-  <p class="alert alert-info" role="alert">{{ enhavo.vortaro['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
+  <p class="alert alert-info" role="alert">{{ enhavo.fasado['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
 
   <ol class="tasko">
     {% for vico in leciono.ekzercoj[tasko] %}
@@ -51,8 +51,8 @@
             {% endif -%} 
         {% endfor %}
 
-        <input type="button" class="btn btn-success solvu" value="{{enhavo.vortaro['Solvu']}}" data-form-id="{{ form_id }}" />
-        <input type="button" class="btn btn-danger forigu" value="{{enhavo.vortaro['Forigu']}}" data-form-id="{{ form_id }}" />
+        <input type="button" class="btn btn-success solvu" value="{{enhavo.fasado['Solvu']}}" data-form-id="{{ form_id }}" />
+        <input type="button" class="btn btn-danger forigu" value="{{enhavo.fasado['Forigu']}}" data-form-id="{{ form_id }}" />
       </form>
 
     </li>

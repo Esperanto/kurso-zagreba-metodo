@@ -35,6 +35,13 @@ def load(language):
         vortlisto = yaml.load(file(filename, 'r'))
         enhavo['vortaro'].update(vortlisto)
 
+
+    enhavo['fasado'] = {}
+    filenames = glob.glob('enhavo/tradukenda/' + language + '/fasado/*.yml')
+    for filename in filenames:
+        tradukajxoj = yaml.load(file(filename, 'r'))
+        enhavo['fasado'].update(tradukajxoj)
+
     lecionoj = []
 
     for i in range(1,13):

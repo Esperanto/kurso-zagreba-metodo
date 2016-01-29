@@ -7,10 +7,10 @@
   <table class="table">
     <thead>
       <tr>
-        <th>{{enhavo.vortaro['Lecionoj']}}</th>
-        <th>{{enhavo.vortaro['Teksto']}}</th>
-        <th>{{enhavo.vortaro['Gramatiko']}}</th>
-        <th>{{enhavo.vortaro['Ekzercoj']}}</th>
+        <th>{{enhavo.fasado['Lecionoj']}}</th>
+        <th>{{enhavo.fasado['Teksto']}}</th>
+        <th>{{enhavo.fasado['Gramatiko']}}</th>
+        <th>{{enhavo.fasado['Ekzercoj']}}</th>
       </tr>
     </thead>
     <tbody>
@@ -18,11 +18,11 @@
         <tr>
           <td><a href="{{root}}{{leciono.indekso.cxene}}">{{leciono.indekso.cxene}}</a></td>
           <td><a href="{{root}}{{leciono.indekso.cxene}}">{{leciono.teksto.titolo_string}}</a></td>
-          <td><a href="{{root}}{{leciono.indekso.cxene}}/gramatiko/">{{enhavo.vortaro['Gramatiko']}}</a></td>
+          <td><a href="{{root}}{{leciono.indekso.cxene}}/gramatiko/">{{enhavo.fasado['Gramatiko']}}</a></td>
           <td>
-            <a href="{{root}}{{leciono.indekso.cxene}}/ekzerco1/">{{enhavo.vortaro['Ekzerco 1']}}</a>,
-            <a href="{{root}}{{leciono.indekso.cxene}}/ekzerco2/">{{enhavo.vortaro['Ekzerco 2']}}</a>,
-            <a href="{{root}}{{leciono.indekso.cxene}}/ekzerco3/">{{enhavo.vortaro['Ekzerco 3']}}</a>
+            <a href="{{root}}{{leciono.indekso.cxene}}/ekzerco1/">{{enhavo.fasado['Ekzerco 1']}}</a>,
+            <a href="{{root}}{{leciono.indekso.cxene}}/ekzerco2/">{{enhavo.fasado['Ekzerco 2']}}</a>,
+            <a href="{{root}}{{leciono.indekso.cxene}}/ekzerco3/">{{enhavo.fasado['Ekzerco 3']}}</a>
           </td>
         </tr>
       {% endfor %}

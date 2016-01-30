@@ -5,16 +5,16 @@
   max-width: 768px;
 }
 
-/* Tooltip */
-.tooltip-inner table {
+/* popover */
+.popover-content table {
     border-spacing: 0.5em;
     border-collapse: separate;    
 }
-.tooltip-inner table tr {
+.popover-content table tr {
   vertical-align: top;
   text-align: left;
 }
-.tooltip-inner table td:first-child {
+.popover-content table td:first-child {
   text-align: right;
 }
 

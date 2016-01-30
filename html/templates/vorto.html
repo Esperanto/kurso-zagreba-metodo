@@ -1,7 +1,17 @@
 {%- if vorto is string -%}
   {{vorto}}
 {%- elif vorto is iterable -%}
-  <a href="javascript:" data-toggle="tooltip" data-html="true" data-placement="bottom" title="
+  <a href="javascript:" data-toggle="popover" title="
+    {% if vorto|join|lower in enhavo.vortaro -%}
+      {{ vorto|join }}
+      –
+      {{ enhavo.vortaro[vorto|join|lower] }}
+    {% elif vorto|join in enhavo.vortaro -%}
+      {{ vorto|join }}
+      –
+      {{ enhavo.vortaro[vorto|join] }}
+    {% endif %} 
+  " data-content="
     <table>
     {# Loop only if there are multiple roots. #}
     {% if vorto|length > 1 -%} 
@@ -13,17 +23,6 @@
         </tr>
         {% endif %} 
       {%- endfor %}
-    {% endif %} 
-    {% if vorto|join|lower in enhavo.vortaro -%}
-      <tr>
-        <td>{{ vorto|join|lower }}</td>
-        <td>{{ enhavo.vortaro[vorto|join|lower] }}</td>
-      </tr>
-    {% elif vorto|join in enhavo.vortaro -%}
-      <tr>
-        <td>{{ vorto|join }}</td>
-        <td>{{ enhavo.vortaro[vorto|join] }}</td>
-      </tr>
     {% endif %} 
     </table>
   ">{{ vorto|join }}</a>

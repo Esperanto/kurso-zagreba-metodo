@@ -22,7 +22,7 @@ La gramatikajn klarigojn skribitas en [Markdown](https://en.wikipedia.org/wiki/M
   - `**bona lingvo** – good language`
 - Skribu vortojn aŭ literojn pri kiuj vi nun klarigas uzante `__`. Ekzemple:
   - `The morpheme *-ej* denotes a place, for example *lern__ej__o* – school`
-- se vi dubas, rigardu la [germana versio]()
+- se vi dubas, rigardu la [germana versio](de/)
 
 ## Ekzercoj
 

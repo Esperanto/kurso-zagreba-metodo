@@ -105,9 +105,6 @@ def load(language):
 
     return enhavo
 
-paths = []
-
-
 enhavo = load('de')
 
 md = mistune.Markdown()

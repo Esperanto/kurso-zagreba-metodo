@@ -24,6 +24,9 @@ La gramatikajn klarigojn skribitas en [Markdown](https://en.wikipedia.org/wiki/M
   - `The morpheme *-ej* denotes a place, for example *lern__ej__o* – school`
 - se vi dubas, rigardu la [germana versio](de/)
 
+Ne timu se Github kelkfoje malĝuste tradukas partojn de Markdown (ekz. kombinadojn kiel `*lern__ej__o*`), montrante la Markdown-dosierojn en sia retejo. Tio nur estas problemo de Github, nia kreanta skripto tamen bone tradukos ĝin.
+
+
 ## Ekzercoj
 
 ...

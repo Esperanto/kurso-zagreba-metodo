@@ -42,6 +42,14 @@ def load(language):
         tradukajxoj = yaml.load(file(filename, 'r'))
         enhavo['fasado'].update(tradukajxoj)
 
+    filename = 'enhavo/tradukenda/' + language + '/enkonduko.md'
+
+    enkonduko = file(filename, 'r').read()
+    enkonduko = unicode(enkonduko, 'utf-8')
+    #enkonduko = transpose_headlines(enkonduko, 1)
+
+    enhavo['enkonduko'] = enkonduko
+
     lecionoj = []
 
     for i in range(1,13):

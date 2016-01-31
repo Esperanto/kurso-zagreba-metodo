@@ -5,6 +5,7 @@
 'neni-': verneinend
 '-o': Sache
 '-u': Person
+'-e': Ort
 '-a': Eigenschaft
 '-el': Art & Weise
 '-al': Grund

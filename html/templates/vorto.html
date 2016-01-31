@@ -3,12 +3,8 @@
 {%- elif vorto is iterable -%}
   <a href="javascript:" data-toggle="popover" title="
     {% if vorto|join|lower in enhavo.vortaro -%}
-      <em>{{vorto|join}}</em>
-      –
       {{enhavo.vortaro[vorto|join|lower]}}
     {% elif vorto|join in enhavo.vortaro -%}
-      <em>{{vorto|join}}</em>
-      –
       {{enhavo.vortaro[vorto|join]}}
     {% endif %} 
   " data-content="

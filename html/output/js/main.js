@@ -38,7 +38,16 @@ $('input[data-solvo]').on('input', function() {
   var id = $(this).attr('id');
   var form_group = $('#form-group-' + id);
   var glyphicon = $('#glyphicon-' + id);
-  if ( normalize($(this).val()) == normalize($(this).attr('data-solvo')) ) {
+
+  // Get input ant normalize.
+  var input = $(this).val();
+  input = normalize(input);
+
+  // Split data-solvo to find solutions and normalize.
+  var solutions = $(this).attr('data-solvo').split(/\s*\|\s*/);
+  solutions = jQuery.map(solutions, normalize);
+
+  if (jQuery.inArray(input, solutions) !== -1) {
     form_group.removeClass('has-error').addClass('has-success');
     glyphicon.removeClass('glyphicon-remove').addClass('glyphicon-ok');
   } else {

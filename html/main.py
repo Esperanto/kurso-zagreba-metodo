@@ -19,7 +19,7 @@ def generate_html(enhavo):
         ('ekzerco2'  , 'ekzerco2/'  , enhavo['fasado']['Ekzerco 2']) , 
         ('ekzerco3'  , 'ekzerco3/'  , enhavo['fasado']['Ekzerco 3'])
     ]
-    root='/esperanto-kurso-zagreba-metodo/html/output/'
+    root='/kurso-zagreba-metodo/html/output/'
 
     rendered = env.get_template('index.html').render(
       enhavo = enhavo,

@@ -27,9 +27,6 @@
     {% endif %} 
     </table>
   "
-  {% if vorto|length > 2 and vorto|join|lower not in enhavo.vortaro  -%} 
-    style="color:red;"
-  {%- endif %} 
   >{{vorto|join}}</a>
 {%- else %} 
 {% endif -%} 

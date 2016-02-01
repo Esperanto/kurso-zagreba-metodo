@@ -17,10 +17,19 @@
           <td><em>{{radiko}}</em></td>
           <td>{{enhavo.vortaro[radiko|lower]}}</td>
         </tr>
+        {% elif radiko in enhavo.vortaro -%}
+        <tr>
+          <td><em>{{radiko}}</em></td>
+          <td>{{enhavo.vortaro[radiko]}}</td>
+        </tr>
         {% endif %} 
       {%- endfor %}
     {% endif %} 
     </table>
-  ">{{vorto|join}}</a>
+  "
+  {% if vorto|length > 2 and vorto|join|lower not in enhavo.vortaro  -%} 
+    style="color:red;"
+  {%- endif %} 
+  >{{vorto|join}}</a>
 {%- else %} 
 {% endif -%} 

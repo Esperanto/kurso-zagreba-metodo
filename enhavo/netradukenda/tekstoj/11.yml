@@ -641,8 +641,7 @@ paragrafoj:
       - por
     -
     -
-      - Pietr
-      - o
+      - Pietro
     - '.'
     -
     -
@@ -656,8 +655,7 @@ paragrafoj:
       - as
     -
     -
-      - Pietr
-      - o
+      - Pietro
       - n
     - '?'
   -
@@ -720,8 +718,7 @@ paragrafoj:
       - pri
     -
     -
-      - Pietr
-      - o
+      - Pietro
     - '?'
   
   -
@@ -783,8 +780,7 @@ paragrafoj:
       - is
     -
     -
-      - Pietr
-      - o
+      - Pietro
       - n
     -
     -
@@ -1215,7 +1211,9 @@ paragrafoj:
       - hom
       - o
       - n
+    -
     - '–'
+    -
     -
       - oni
     -
@@ -1464,14 +1462,15 @@ paragrafoj:
       - cent
     -
     -
-      - moner
+      - mon
+      - er
       - o
       - j
       - n
     - '.'
     -
     -
-      - ne
+      - Ne
     -
     -
       - forges
@@ -1604,7 +1603,9 @@ paragrafoj:
       - o
       - n
     - '.'
+    -
     - '–'
+    -
     -
       - Est
       - is

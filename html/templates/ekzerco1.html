@@ -27,7 +27,11 @@
         {% for esperante,fontlingve in vico.items() %}
           <label class="control-label col-sm-2" for="{{id}}" data-toggle="tooltip" data-placement="bottom" title="{{fontlingve}}" >{{esperante}}:</label>
           <div class="col-sm-10">
-            <input id="{{id}}" class="form-control" type="text" size="{{fontlingve|string|length}}" data-solvo="{{fontlingve}}"/>
+            {%- if fontlingve is string -%}
+              <input id="{{id}}" class="form-control" type="text" size="{{fontlingve|string|length}}" data-solvo="{{fontlingve}}"/>
+            {%- elif fontlingve is iterable -%}
+              <input id="{{id}}" class="form-control" type="text" size="{{fontlingve[0]|string|length}}" data-solvo="{{fontlingve|join(' | ')}}"/>
+            {%- endif -%}
             <span id="glyphicon-{{id}}" class="glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
           </div>
         {% endfor %}

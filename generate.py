@@ -2,7 +2,6 @@
 
 import yaml
 import jinja2
-import markdown
 import glob
 import re
 import mistune

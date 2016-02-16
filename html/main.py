@@ -21,6 +21,7 @@ def generate_html(enhavo):
         ('ekzerco2'  , 'ekzerco2/'  , enhavo['fasado']['Ekzerco 2']) , 
         ('ekzerco3'  , 'ekzerco3/'  , enhavo['fasado']['Ekzerco 3'])
     ]
+
     root='/kurso-zagreba-metodo/html/output/'
 
     rendered = env.get_template('index.html').render(
@@ -28,8 +29,6 @@ def generate_html(enhavo):
       root   = root,
       tabs   = tabs,
     )
-
-
 
     with open(output_path + 'index.html', 'w') as f:
         f.write(rendered.encode('utf-8'))

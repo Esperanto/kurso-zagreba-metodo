@@ -7,3 +7,5 @@ Der größte Wert dieses Kurses liegt darin, dass man zu Anfang nicht unnötige 
 Viel Spass und ernsthafte Arbeit!
 
 *Die Autoren (Zlatko Tišljar, Spomenka Štimec, Ivica Špoljarec, Roger Imbert)*
+
+test

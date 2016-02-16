@@ -11,6 +11,8 @@ def generate_html(enhavo):
     env.lstrip_blocks = True
     env.loader=jinja2.FileSystemLoader('html/templates/')
 
+    output_path = 'html/output/'
+
 
     tabs = [
         ('teksto'    , ''           , enhavo['fasado']['Teksto']   ) , 
@@ -27,8 +29,6 @@ def generate_html(enhavo):
       tabs   = tabs,
     )
 
-
-    output_path = 'html/output/'
 
 
     with open(output_path + 'index.html', 'w') as f:

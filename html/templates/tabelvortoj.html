@@ -10,20 +10,28 @@
     <tr>
 			<th>&nbsp;</th>
       {% for parto1 in ['ki-', 'ti-', 'i-', 'ĉi-', 'neni-'] %}
-			<th>{{enhavo.vortaro[parto1]}}:<br/>
-				<em>{{parto1}}</em></th>
+			<th>
+				<em>{{parto1}}</em>
+				<br/>
+				{{enhavo.vortaro[parto1]}}
+			</th>
       {% endfor %}
     </tr>
   </thead>
   <tbody>
 		{% for parto2 in ['-o', '-u', '-am', '-a', '-el', '-om', '-al', '-es'] %}
 			<tr>
-				<th>{{enhavo.vortaro[parto2]}}:<br/>
-					<em>{{parto2}}</em></th>
+				<th>
+					<em>{{parto2}}</em>
+					<br/>
+					{{enhavo.vortaro[parto2]}}
+				</th>
 				{% for parto1 in ['ki-', 'ti-', 'i-', 'ĉi-', 'neni-'] %}
 					{% set tabelvorto = parto1|replace('-','') ~ parto2|replace('-','') %}
-					<td><em>{{tabelvorto}}</em> –<br/>
-						{{enhavo.vortaro[tabelvorto]}} </td>
+					<td>
+						<em>{{tabelvorto}}</em> –<br/>
+						{{enhavo.vortaro[tabelvorto]}}
+					</td>
 				{% endfor %}
 			</tr>
 		{% endfor %}

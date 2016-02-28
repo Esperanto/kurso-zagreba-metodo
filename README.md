@@ -4,5 +4,5 @@ Tiu deponejo enhavas la esperanto-kurso laŭ la Zagreba metodo en strukturita da
 
 Tiel oni facile kaj rapide povos generi endonaĵojn de la kurso en HTML aŭ PDF au ia ajn formo.
 
-Aktuale, por prilabori, mi provas transigi [tiun ĉi germanan HTML version](http://www.esperantoland.org/de/kurs/index_alt.html) al YAML. **La unua HTML-versio estis [generita ĉi tie](http://esperanto.github.io/esperanto-kurso-zagreba-metodo/html/output/).**
+Aktuale, por prilabori, mi provas transigi [tiun ĉi germanan HTML version](http://www.esperantoland.org/de/kurs/index_alt.html) al YAML. **La unua HTML-versio estis [generita ĉi tie](http://esperanto.github.io/kurso-zagreba-metodo/html/output/).**
 

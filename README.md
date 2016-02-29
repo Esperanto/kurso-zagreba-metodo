@@ -1,3 +1,5 @@
+![permesilo](by.svg)
+
 # La esperanto-kurso laŭ la Zagreba metodo
 
 Tiu deponejo enhavas la esperanto-kurso laŭ la Zagreba metodo en strukturita datumaranĝo. Do, la kompleta enhavo estas konservita en [YAML](https://en.wikipedia.org/wiki/YAML)-dosieroj, facile legeblaj en diversaj komputilaj programlingvoj – kaj ankaŭ por homoj.

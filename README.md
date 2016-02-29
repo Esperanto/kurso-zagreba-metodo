@@ -1,4 +1,4 @@
-![permesilo](by.svg)
+![permesilo](by.png)
 
 # La esperanto-kurso laŭ la Zagreba metodo
 

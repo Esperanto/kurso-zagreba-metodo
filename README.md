@@ -1,4 +1,4 @@
-![permesilo](by.png)
+![permesilo](by.png) [permesilo](PERMESILO.md), [aŭtoroj](AUTHORS.md)
 
 # La esperanto-kurso laŭ la Zagreba metodo
 

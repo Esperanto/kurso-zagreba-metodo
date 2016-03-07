@@ -69,6 +69,18 @@ def generate_html(enhavo):
     with open(dir + 'index.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
+    # afiksoj
+    rendered = env.get_template('afiksoj.html').render(
+      enhavo = enhavo,
+      root   = root,
+    )
+
+    dir = output_path + 'afiksoj/'
+    shutil.rmtree(dir, ignore_errors=True)
+    os.mkdir(dir)
+    with open(dir + 'index.html', 'w') as f:
+        f.write(rendered.encode('utf-8'))
+
     paths = []
     for i in range(1, 13):
         for  id, href,caption in tabs:

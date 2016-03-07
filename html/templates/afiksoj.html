@@ -1,0 +1,39 @@
+
+{% extends "layout.html" %}
+{% block content %}
+
+<h2>
+	{{enhavo.fasado['Afiksoj']}}
+</h2>
+
+<h3>
+	{{enhavo.fasado['Prefiksoj']}}
+</h3>
+
+<ul>
+{% for esperante in enhavo.vortaro|sort %}
+	{% if enhavo.vortaro[esperante].vortspeco=='prefikso' %}
+		<li>
+			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+		</li>
+	{% endif %}
+
+{% endfor %}
+</ul>
+
+<h3>
+	{{enhavo.fasado['Sufiksoj']}}
+</h3>
+
+<ul>
+{% for esperante in enhavo.vortaro|sort %}
+	{% if enhavo.vortaro[esperante].vortspeco=='sufikso' %}
+		<li>
+			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+		</li>
+	{% endif %}
+
+{% endfor %}
+</ul>
+
+{% endblock %}

@@ -15,12 +15,10 @@ Tiun ĉi kurso oni povas libere uzi, kondiĉe ke oni nomas la [aŭtoroj](AUTHORS
 ### Esperantaj Tekstoj
 
 ![permesilo](bildoj/by-nd.png) 
-
-La esperantaj leciontekstoj de la kurso devas resti neŝanĝitaj. Tial aplikas la [CC BY-ND 4.0](enhavo/netradukenda/tekstoj/PERMESILO.md)
-CC BY-ND 4.0
+La esperantaj leciontekstoj de la kurso devas resti neŝanĝitaj. Tial aplikas la [CC BY-ND 4.0](enhavo/netradukenda/tekstoj/PERMESILO.md).
 
 ### Aliaj dosieroj
 
+![permesilo](bildoj/by.png) [permesilo](PERMESILO.md)
 Ĉion alian oni povas ŝanĝi. Tial aplikas la [CC BY 4.0](PERMESILO.md)
 
-![permesilo](bildoj/by.png) [permesilo](PERMESILO.md)

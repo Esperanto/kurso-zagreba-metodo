@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<h2>
+	{{enhavo.fasado['Prepozicioj']}}
+</h2>
+
+<ul>
+{% for esperante in enhavo.vortaro|sort %}
+	{% if enhavo.vortaro[esperante].vortspeco=='prepozicio' %}
+		<li>
+			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+		</li>
+	{% endif %}
+
+{% endfor %}
+</ul>
+
+{% endblock %}

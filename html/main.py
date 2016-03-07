@@ -33,12 +33,25 @@ def generate_html(enhavo):
     with open(output_path + 'index.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
+    # tabelvortoj
     rendered = env.get_template('tabelvortoj.html').render(
       enhavo = enhavo,
       root   = root,
     )
 
     dir = output_path + 'tabelvortoj/'
+    shutil.rmtree(dir, ignore_errors=True)
+    os.mkdir(dir)
+    with open(dir + 'index.html', 'w') as f:
+        f.write(rendered.encode('utf-8'))
+
+    # prepozicioj
+    rendered = env.get_template('prepozicioj.html').render(
+      enhavo = enhavo,
+      root   = root,
+    )
+
+    dir = output_path + 'prepozicioj/'
     shutil.rmtree(dir, ignore_errors=True)
     os.mkdir(dir)
     with open(dir + 'index.html', 'w') as f:

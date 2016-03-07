@@ -57,6 +57,18 @@ def generate_html(enhavo):
     with open(dir + 'index.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
+    # konjunkcioj
+    rendered = env.get_template('konjunkcioj.html').render(
+      enhavo = enhavo,
+      root   = root,
+    )
+
+    dir = output_path + 'konjunkcioj/'
+    shutil.rmtree(dir, ignore_errors=True)
+    os.mkdir(dir)
+    with open(dir + 'index.html', 'w') as f:
+        f.write(rendered.encode('utf-8'))
+
     paths = []
     for i in range(1, 13):
         for  id, href,caption in tabs:

@@ -34,13 +34,13 @@ def load(language):
     for path in paths:
         dirs, filename = os.path.split(path)
         root, extension = os.path.splitext(filename)
-        vortspeco = root
+        vortspeco = root.replace('_', ' ')
         vortlisto = yaml.load(file(path, 'r'))
         for esperante in vortlisto:
             fontlingve = vortlisto[esperante]
             vortlisto[esperante] = {
                 'tradukajxo': fontlingve,
-                'vortspeco': root
+                'vortspeco': vortspeco
             }
         enhavo['vortaro'].update(vortlisto)
 

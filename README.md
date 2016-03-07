@@ -1,5 +1,3 @@
-![permesilo](bildoj/by.png) [permesilo](PERMESILO.md), [aŭtoroj](AUTHORS.md)
-
 # La esperanto-kurso laŭ la Zagreba metodo
 
 [![Join the chat at https://gitter.im/Esperanto/kurso-zagreba-metodo](https://badges.gitter.im/Esperanto/kurso-zagreba-metodo.svg)](https://gitter.im/Esperanto/kurso-zagreba-metodo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -10,3 +8,19 @@ Tiel oni facile kaj rapide povos generi endonaĵojn de la kurso en HTML aŭ PDF 
 
 Aktuale, por prilabori, mi provas transigi [tiun ĉi germanan HTML version](http://www.esperantoland.org/de/kurs/index_alt.html) al YAML. **La unua HTML-versio estis [generita ĉi tie](http://esperanto.github.io/kurso-zagreba-metodo/html/output/).**
 
+## Permesiloj
+
+Tiun ĉi kurso oni povas libere uzi, kondiĉe ke oni nomas la [aŭtoroj](AUTHORS.md).
+
+### Esperantaj Tekstoj
+
+![permesilo](bildoj/by-nd.png) 
+
+La esperantaj leciontekstoj de la kurso devas resti neŝanĝitaj. Tial aplikas la [CC BY-ND 4.0](enhavo/netradukenda/tekstoj/PERMESILO.md)
+CC BY-ND 4.0
+
+### Aliaj dosieroj
+
+Ĉion alian oni povas ŝanĝi. Tial aplikas la [CC BY 4.0](PERMESILO.md)
+
+![permesilo](bildoj/by.png) [permesilo](PERMESILO.md)

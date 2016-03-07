@@ -17,6 +17,23 @@
   {% set form_id = leciono_index ~ '-' ~ ekzerco_index %}
 
   <h3> {{enhavo.fasado[tasko]}} / {{tasko}} </h3>
+
+	<div class="panel-group">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+<a data-toggle="collapse" href="#teksto">
+				<h4 class="panel-title">
+					{{enhavo.fasado['Teksto']}}
+				</h4></a>
+			</div>
+			<div id="teksto" class="panel-collapse collapse">
+				<div class="panel-body">
+					{% include 'paragrafoj.html' %}
+				</div>
+			</div>
+		</div>
+	</div>
+
   <form id="form-{{form_id}}" class="form-horizontal">
 
     {% for vico in leciono.ekzercoj[tasko] %}

@@ -1,0 +1,7 @@
+{% for paragrafo in leciono.teksto.paragrafoj %}
+<p>
+	{% for vorto in paragrafo -%}
+		{% include 'vorto.html' %}
+	{%- endfor %}
+</p>
+{% endfor %}

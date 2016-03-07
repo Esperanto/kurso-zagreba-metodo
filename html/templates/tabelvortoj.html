@@ -13,7 +13,7 @@
 			<th>
 				<em>{{parto1}}</em>
 				<br/>
-				{{enhavo.vortaro[parto1]}}
+				{{enhavo.vortaro[parto1]['tradukajxo']}}
 			</th>
       {% endfor %}
     </tr>
@@ -24,13 +24,13 @@
 				<th>
 					<em>{{parto2}}</em>
 					<br/>
-					{{enhavo.vortaro[parto2]}}
+					{{enhavo.vortaro[parto2]['tradukajxo']}}
 				</th>
 				{% for parto1 in ['ki-', 'ti-', 'i-', 'ĉi-', 'neni-'] %}
 					{% set tabelvorto = parto1|replace('-','') ~ parto2|replace('-','') %}
 					<td>
 						<em>{{tabelvorto}}</em> –<br/>
-						{{enhavo.vortaro[tabelvorto]}}
+						{{enhavo.vortaro[tabelvorto]['tradukajxo']}}
 					</td>
 				{% endfor %}
 			</tr>

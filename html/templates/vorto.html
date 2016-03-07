@@ -3,9 +3,9 @@
 {%- elif vorto is iterable -%}
   <a href="javascript:" data-toggle="popover" title="
     {% if vorto|join|lower in enhavo.vortaro -%}
-      {{enhavo.vortaro[vorto|join|lower]}}
+      {{enhavo.vortaro[vorto|join|lower]['tradukajxo']}}
     {% elif vorto|join in enhavo.vortaro -%}
-      {{enhavo.vortaro[vorto|join]}}
+      {{enhavo.vortaro[vorto|join]['tradukajxo']}}
     {% endif %} 
   " data-content="
     <table>
@@ -15,12 +15,12 @@
         {% if radiko|lower in enhavo.vortaro -%}
         <tr>
           <td><em>{{radiko}}</em></td>
-          <td>{{enhavo.vortaro[radiko|lower]}}</td>
+          <td>{{enhavo.vortaro[radiko|lower]['tradukajxo']}}</td>
         </tr>
         {% elif radiko in enhavo.vortaro -%}
         <tr>
           <td><em>{{radiko}}</em></td>
-          <td>{{enhavo.vortaro[radiko]}}</td>
+          <td>{{enhavo.vortaro[radiko]['tradukajxo']}}</td>
         </tr>
         {% endif %} 
       {%- endfor %}

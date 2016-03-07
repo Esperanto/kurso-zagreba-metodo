@@ -5,6 +5,7 @@ import jinja2
 import glob
 import re
 import mistune
+import os
 
 def transpose_headlines(markdown, level):
     prefix = ''
@@ -31,7 +32,16 @@ def load(language):
 
     paths = glob.glob('enhavo/tradukenda/' + language + '/vortaro/*.yml')
     for path in paths:
+        dirs, filename = os.path.split(path)
+        root, extension = os.path.splitext(filename)
+        vortspeco = root
         vortlisto = yaml.load(file(path, 'r'))
+        for esperante in vortlisto:
+            fontlingve = vortlisto[esperante]
+            vortlisto[esperante] = {
+                'tradukajxo': fontlingve,
+                'vortspeco': root
+            }
         enhavo['vortaro'].update(vortlisto)
 
     enhavo['fasado'] = {}

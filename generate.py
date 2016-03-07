@@ -2,10 +2,10 @@
 
 import yaml
 import jinja2
-import markdown
 import glob
 import re
 import mistune
+import os
 
 def transpose_headlines(markdown, level):
     prefix = ''
@@ -30,21 +30,29 @@ def load(language):
     enhavo = {}
     enhavo['vortaro'] = {}
 
-    filenames = glob.glob('enhavo/tradukenda/' + language + '/vortaro/*.yml')
-    for filename in filenames:
-        vortlisto = yaml.load(file(filename, 'r'))
+    paths = glob.glob('enhavo/tradukenda/' + language + '/vortaro/*.yml')
+    for path in paths:
+        dirs, filename = os.path.split(path)
+        root, extension = os.path.splitext(filename)
+        vortspeco = root.replace('_', ' ')
+        vortlisto = yaml.load(file(path, 'r'))
+        for esperante in vortlisto:
+            fontlingve = vortlisto[esperante]
+            vortlisto[esperante] = {
+                'tradukajxo': fontlingve,
+                'vortspeco': vortspeco
+            }
         enhavo['vortaro'].update(vortlisto)
 
-
     enhavo['fasado'] = {}
-    filenames = glob.glob('enhavo/tradukenda/' + language + '/fasado/*.yml')
-    for filename in filenames:
-        tradukajxoj = yaml.load(file(filename, 'r'))
+    paths = glob.glob('enhavo/tradukenda/' + language + '/fasado/*.yml')
+    for path in paths:
+        tradukajxoj = yaml.load(file(path, 'r'))
         enhavo['fasado'].update(tradukajxoj)
 
-    filename = 'enhavo/tradukenda/' + language + '/enkonduko.md'
+    path = 'enhavo/tradukenda/' + language + '/enkonduko.md'
 
-    enkonduko = file(filename, 'r').read()
+    enkonduko = file(path, 'r').read()
     enkonduko = unicode(enkonduko, 'utf-8')
     #enkonduko = transpose_headlines(enkonduko, 1)
 
@@ -65,8 +73,8 @@ def load(language):
             'cxene': i_padded
         }
 
-        filename = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
-        leciono['teksto'] = yaml.load(file(filename, 'r'))
+        path = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
+        leciono['teksto'] = yaml.load(file(path, 'r'))
 
         # Create a string of the lesson titles.
         titolo_string = ''
@@ -78,9 +86,9 @@ def load(language):
         
         leciono['teksto']['titolo_string'] = titolo_string
 
-        filename = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.md'
+        path = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.md'
 
-        gramatiko_teksto = file(filename, 'r').read()
+        gramatiko_teksto = file(path, 'r').read()
         gramatiko_teksto = unicode(gramatiko_teksto, 'utf-8')
         gramatiko_titoloj = get_markdown_headlines(gramatiko_teksto)
         gramatiko_teksto = transpose_headlines(gramatiko_teksto, 2)
@@ -94,14 +102,14 @@ def load(language):
 
         ekzercoj = {}
 
-        filename = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku/' + i_padded + '.yml'
-        ekzercoj['Traduku'] = yaml.load(file(filename, 'r'))
+        path = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku/' + i_padded + '.yml'
+        ekzercoj['Traduku'] = yaml.load(file(path, 'r'))
 
-        filename = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku-kaj-respondu/' + i_padded + '.yml'
-        ekzercoj['Traduku kaj respondu'] = yaml.load(file(filename, 'r'))
+        path = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku-kaj-respondu/' + i_padded + '.yml'
+        ekzercoj['Traduku kaj respondu'] = yaml.load(file(path, 'r'))
 
-        filename = 'enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/' + i_padded + '.yml'
-        ekzercoj['Kompletigu la frazojn'] = yaml.load(file(filename, 'r'))
+        path = 'enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/' + i_padded + '.yml'
+        ekzercoj['Kompletigu la frazojn'] = yaml.load(file(path, 'r'))
 
 
         # Covert from dict to list.

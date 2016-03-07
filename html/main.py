@@ -11,6 +11,8 @@ def generate_html(enhavo):
     env.lstrip_blocks = True
     env.loader=jinja2.FileSystemLoader('html/templates/')
 
+    output_path = 'html/output/'
+
 
     tabs = [
         ('teksto'    , ''           , enhavo['fasado']['Teksto']   ) , 
@@ -19,6 +21,7 @@ def generate_html(enhavo):
         ('ekzerco2'  , 'ekzerco2/'  , enhavo['fasado']['Ekzerco 2']) , 
         ('ekzerco3'  , 'ekzerco3/'  , enhavo['fasado']['Ekzerco 3'])
     ]
+
     root='/kurso-zagreba-metodo/html/output/'
 
     rendered = env.get_template('index.html').render(
@@ -27,11 +30,31 @@ def generate_html(enhavo):
       tabs   = tabs,
     )
 
-
-    output_path = 'html/output/'
-
-
     with open(output_path + 'index.html', 'w') as f:
+        f.write(rendered.encode('utf-8'))
+
+    # tabelvortoj
+    rendered = env.get_template('tabelvortoj.html').render(
+      enhavo = enhavo,
+      root   = root,
+    )
+
+    dir = output_path + 'tabelvortoj/'
+    shutil.rmtree(dir, ignore_errors=True)
+    os.mkdir(dir)
+    with open(dir + 'index.html', 'w') as f:
+        f.write(rendered.encode('utf-8'))
+
+    # prepozicioj
+    rendered = env.get_template('prepozicioj.html').render(
+      enhavo = enhavo,
+      root   = root,
+    )
+
+    dir = output_path + 'prepozicioj/'
+    shutil.rmtree(dir, ignore_errors=True)
+    os.mkdir(dir)
+    with open(dir + 'index.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
     paths = []

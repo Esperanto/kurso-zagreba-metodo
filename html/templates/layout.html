@@ -53,6 +53,20 @@
                 {% endfor %}
               </ul>
             </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                {{enhavo.fasado['Aldono']}}
+                <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                <li><a href="{{root}}tabelvortoj">
+									{{enhavo.fasado['Tabelvortoj']}}
+								</a></li>
+                <li><a href="{{root}}prepozicioj">
+									{{enhavo.fasado['Prepozicioj']}}
+								</a></li>
+              </ul>
+            </li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->

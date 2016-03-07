@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<h2>
+	{{enhavo.fasado['Tabelvortoj']}}
+</h2>
+
+<table class="table">
+  <thead>
+    <tr>
+			<th>&nbsp;</th>
+      {% for parto1 in ['ki-', 'ti-', 'i-', 'ĉi-', 'neni-'] %}
+			<th>
+				<em>{{parto1}}</em>
+				<br/>
+				{{enhavo.vortaro[parto1]['tradukajxo']}}
+			</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+		{% for parto2 in ['-o', '-u', '-am', '-a', '-el', '-om', '-al', '-es'] %}
+			<tr>
+				<th>
+					<em>{{parto2}}</em>
+					<br/>
+					{{enhavo.vortaro[parto2]['tradukajxo']}}
+				</th>
+				{% for parto1 in ['ki-', 'ti-', 'i-', 'ĉi-', 'neni-'] %}
+					{% set tabelvorto = parto1|replace('-','') ~ parto2|replace('-','') %}
+					<td>
+						<em>{{tabelvorto}}</em> –<br/>
+						{{enhavo.vortaro[tabelvorto]['tradukajxo']}}
+					</td>
+				{% endfor %}
+			</tr>
+		{% endfor %}
+  </tbody>
+</table>
+
+{% endblock %}

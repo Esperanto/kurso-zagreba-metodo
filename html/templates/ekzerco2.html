@@ -19,8 +19,6 @@
 
   <h3> {{enhavo.fasado[tasko]}} / {{tasko}} </h3>
 
-  <p class="alert alert-info" role="alert">{{ enhavo.fasado['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
-
 	<div class="panel-group">
 		<div class="panel panel-default">
 			<div class="panel-heading">
@@ -37,6 +35,8 @@
 		</div>
 	</div>
 	
+  <p class="alert alert-info" role="alert">{{ enhavo.fasado['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
+
   <form id="form-{{form_id}}" class="form-inline">
     <ol class="tasko">
       {% for vico in leciono.ekzercoj[tasko] %}

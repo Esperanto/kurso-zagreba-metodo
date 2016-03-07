@@ -21,6 +21,22 @@
 
   <p class="alert alert-info" role="alert">{{ enhavo.fasado['Por la esperantaj literoj vi povas ankaŭ skribi cx, gx, hx, jx, sx und ux.'] }}</p>
 
+	<div class="panel-group">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+<a data-toggle="collapse" href="#teksto">
+				<h4 class="panel-title">
+					{{enhavo.fasado['Teksto']}}
+				</h4></a>
+			</div>
+			<div id="teksto" class="panel-collapse collapse">
+				<div class="panel-body">
+					{% include 'paragrafoj.html' %}
+				</div>
+			</div>
+		</div>
+	</div>
+	
   <form id="form-{{form_id}}" class="form-inline">
     <ol class="tasko">
       {% for vico in leciono.ekzercoj[tasko] %}

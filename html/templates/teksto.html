@@ -14,13 +14,7 @@
 
   <p class="alert alert-info" role="alert">{{ enhavo.fasado['Alklaku la vortojn por vidi ilian tradukon.'] }}</p>
 
-  {% for paragrafo in leciono.teksto.paragrafoj %}
-  <p>
-    {% for vorto in paragrafo -%}
-      {% include 'vorto.html' %}
-    {%- endfor %}
-  </p>
-  {% endfor %}
+  {% include 'paragrafoj.html' %}
 
   {% include 'pager.html' %}
 

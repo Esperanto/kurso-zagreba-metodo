@@ -20,5 +20,5 @@ La esperantaj leciontekstoj en de la kurso `enhavo/netradukenda/tekstoj` devas r
 ### Aliaj dosieroj
 
 ![permesilo](bildoj/by.png) 
-Ĉion alian oni povas ŝanĝi. Tial aplikas la [CC BY 4.0](PERMESILO.md)
+Ĉion alian oni povas ŝanĝi. Tial aplikas la [CC BY 4.0](PERMESILO.md).
 

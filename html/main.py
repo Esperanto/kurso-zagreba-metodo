@@ -11,7 +11,6 @@ def render_page(name, enhavo, root, env, output_path):
     )
 
     dir = output_path + name + '/'
-    shutil.rmtree(dir, ignore_errors=True)
     os.mkdir(dir)
     with open(dir + 'index.html', 'w') as f:
         f.write(rendered.encode('utf-8'))

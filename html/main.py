@@ -24,8 +24,10 @@ def generate_html(enhavo):
     env.lstrip_blocks = True
     env.loader=jinja2.FileSystemLoader('html/templates/')
 
-    output_path = 'html/output/'
+    output_path = 'html/output/de/'
 
+    shutil.rmtree(output_path, ignore_errors=True)
+    os.mkdir(output_path)
 
     tabs = [
         ('teksto'    , ''           , enhavo['fasado']['Teksto']   ) , 
@@ -35,7 +37,7 @@ def generate_html(enhavo):
         ('ekzerco3'  , 'ekzerco3/'  , enhavo['fasado']['Ekzerco 3'])
     ]
 
-    root='/kurso-zagreba-metodo/html/output/'
+    root='/kurso-zagreba-metodo/html/output/de/'
 
     rendered = env.get_template('index.html').render(
       enhavo = enhavo,

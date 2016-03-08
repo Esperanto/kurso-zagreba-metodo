@@ -125,4 +125,4 @@ md = mistune.Markdown()
 execfile('html/main.py')
 
 enhavo = load('de')
-generate_html(enhavo)
+generate_html('de', enhavo)

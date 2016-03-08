@@ -15,6 +15,7 @@
 				<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		-->
 		<link href="{{root}}css/main.css" rel="stylesheet">
+		<link href="{{root}}css/vortaro.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -82,6 +83,8 @@
       <div class="row">
 
         <div class="col-sm-12">
+					
+					{% include 'vortaro.html' %}
 
           {% block content %}
           {% endblock %}
@@ -101,6 +104,12 @@
     <!-- 
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     -->
+
+    <!-- Typeahead for Vortaro -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/corejs-typeahead/0.11.1/typeahead.bundle.min.js"></script>
+
     <script src="{{root}}js/main.js"></script>
+    <script src="{{root}}js/vortaro.js"></script>
+
   </body>
 </html>

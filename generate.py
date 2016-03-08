@@ -121,9 +121,10 @@ def load(language):
 
     return enhavo
 
-enhavo = load('de')
-
 md = mistune.Markdown()
-
 execfile('html/main.py')
-generate_html(enhavo)
+
+enhavo = load('de')
+generate_html('de', enhavo)
+enhavo = load('hr')
+generate_html('hr', enhavo)

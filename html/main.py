@@ -15,7 +15,7 @@ def render_page(name, enhavo, root, env, output_path):
     with open(dir + 'index.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
-def generate_html(enhavo):
+def generate_html(lingvo, enhavo):
 
     env = jinja2.Environment()
     env.filters['markdown'] = lambda text: jinja2.Markup(md(text))
@@ -23,7 +23,7 @@ def generate_html(enhavo):
     env.lstrip_blocks = True
     env.loader=jinja2.FileSystemLoader('html/templates/')
 
-    output_path = 'html/output/de/'
+    output_path = 'html/output/' + lingvo + '/'
 
     shutil.rmtree(output_path, ignore_errors=True)
     os.mkdir(output_path)
@@ -36,7 +36,7 @@ def generate_html(enhavo):
         ('ekzerco3'  , 'ekzerco3/'  , enhavo['fasado']['Ekzerco 3'])
     ]
 
-    root='/kurso-zagreba-metodo/html/output/de/'
+    root='/kurso-zagreba-metodo/html/output/' + lingvo + '/'
 
     rendered = env.get_template('index.html').render(
       enhavo = enhavo,

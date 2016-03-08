@@ -33,6 +33,20 @@ function normalize(s) {
   return s;
 }
 
+function selectNextTabbableOrFocusable(selector){
+	var selectables = $(selector);
+	var current = $(':focus');
+	var nextIndex = 0;
+	if(current.length === 1){
+		var currentIndex = selectables.index(current);
+		if(currentIndex + 1 < selectables.length){
+			nextIndex = currentIndex + 1;
+		}
+	}
+
+	selectables.eq(nextIndex).focus();
+}
+
 
 $('input[data-solvo]').on('input', function() {
   var id = $(this).attr('id');
@@ -50,6 +64,11 @@ $('input[data-solvo]').on('input', function() {
   if (jQuery.inArray(input, solutions) !== -1) {
     form_group.removeClass('has-error').addClass('has-success');
     glyphicon.removeClass('glyphicon-remove').addClass('glyphicon-ok');
+		// Set focus on the current
+		// to not confuse it during the following step. 
+		$(this).focus();
+		// Jump to the next input.
+		selectNextTabbableOrFocusable(':tabbable');
   } else {
     form_group.removeClass('has-success').addClass('has-error');
     glyphicon.removeClass('glyphicon-ok').addClass('glyphicon-remove');

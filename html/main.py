@@ -3,6 +3,19 @@
 import os
 import shutil
 
+def render_page(name, enhavo, root, env, output_path):
+
+    rendered = env.get_template(name + '.html').render(
+      enhavo = enhavo,
+      root   = root,
+    )
+
+    dir = output_path + name + '/'
+    shutil.rmtree(dir, ignore_errors=True)
+    os.mkdir(dir)
+    with open(dir + 'index.html', 'w') as f:
+        f.write(rendered.encode('utf-8'))
+
 def generate_html(enhavo):
 
     env = jinja2.Environment()
@@ -33,53 +46,10 @@ def generate_html(enhavo):
     with open(output_path + 'index.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
-    # tabelvortoj
-    rendered = env.get_template('tabelvortoj.html').render(
-      enhavo = enhavo,
-      root   = root,
-    )
-
-    dir = output_path + 'tabelvortoj/'
-    shutil.rmtree(dir, ignore_errors=True)
-    os.mkdir(dir)
-    with open(dir + 'index.html', 'w') as f:
-        f.write(rendered.encode('utf-8'))
-
-    # prepozicioj
-    rendered = env.get_template('prepozicioj.html').render(
-      enhavo = enhavo,
-      root   = root,
-    )
-
-    dir = output_path + 'prepozicioj/'
-    shutil.rmtree(dir, ignore_errors=True)
-    os.mkdir(dir)
-    with open(dir + 'index.html', 'w') as f:
-        f.write(rendered.encode('utf-8'))
-
-    # konjunkcioj
-    rendered = env.get_template('konjunkcioj.html').render(
-      enhavo = enhavo,
-      root   = root,
-    )
-
-    dir = output_path + 'konjunkcioj/'
-    shutil.rmtree(dir, ignore_errors=True)
-    os.mkdir(dir)
-    with open(dir + 'index.html', 'w') as f:
-        f.write(rendered.encode('utf-8'))
-
-    # afiksoj
-    rendered = env.get_template('afiksoj.html').render(
-      enhavo = enhavo,
-      root   = root,
-    )
-
-    dir = output_path + 'afiksoj/'
-    shutil.rmtree(dir, ignore_errors=True)
-    os.mkdir(dir)
-    with open(dir + 'index.html', 'w') as f:
-        f.write(rendered.encode('utf-8'))
+    render_page('tabelvortoj', enhavo, root, env, output_path)
+    render_page('prepozicioj', enhavo, root, env, output_path)
+    render_page('konjunkcioj', enhavo, root, env, output_path)
+    render_page('afiksoj', enhavo, root, env, output_path)
 
     paths = []
     for i in range(1, 13):

@@ -39,7 +39,7 @@ $('input[data-solvo]').on('input', function() {
   var form_group = $('#form-group-' + id);
   var glyphicon = $('#glyphicon-' + id);
 
-  // Get input ant normalize.
+  // Get input and normalize.
   var input = $(this).val();
   input = normalize(input);
 

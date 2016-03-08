@@ -47,6 +47,17 @@ def generate_html(enhavo):
     with open(output_path + 'index.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
+    # vortaro.js
+    rendered = env.get_template('vortlisto.js').render(
+      enhavo = enhavo,
+    )
+
+    dir = output_path + 'js/'
+    os.mkdir(dir)
+
+    with open(dir + 'vortlisto.js', 'w') as f:
+        f.write(rendered.encode('utf-8'))
+
     render_page('tabelvortoj', enhavo, root, env, output_path)
     render_page('prepozicioj', enhavo, root, env, output_path)
     render_page('konjunkcioj', enhavo, root, env, output_path)

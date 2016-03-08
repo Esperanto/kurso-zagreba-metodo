@@ -121,9 +121,8 @@ def load(language):
 
     return enhavo
 
-enhavo = load('de')
-
 md = mistune.Markdown()
-
 execfile('html/main.py')
+
+enhavo = load('de')
 generate_html(enhavo)

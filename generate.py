@@ -126,3 +126,5 @@ execfile('html/main.py')
 
 enhavo = load('de')
 generate_html('de', enhavo)
+enhavo = load('hr')
+generate_html('hr', enhavo)

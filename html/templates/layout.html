@@ -75,6 +75,20 @@
               </ul>
             </li>
           </ul>
+
+
+          <form class="navbar-form navbar-left">
+            <select id="lingvoelektilo" class="form-control">
+              {% for lingvoKodo, lingvoNomo in enhavo.lingvoj.iteritems()|sort %}
+                <option value="{{lingvoKodo}}"
+                {% if lingvoKodo == enhavo.lingvo %}  
+                  selected
+                {% endif %}  
+                >{{lingvoNomo}}</option>
+              {% endfor %}
+            </select>
+          </form>
+
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>   

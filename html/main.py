@@ -62,6 +62,7 @@ def generate_html(lingvo, enhavo):
     render_page('prepozicioj', enhavo, root, env, output_path)
     render_page('konjunkcioj', enhavo, root, env, output_path)
     render_page('afiksoj', enhavo, root, env, output_path)
+    render_page('diversajxoj', enhavo, root, env, output_path)
 
     paths = []
     for i in range(1, 13):

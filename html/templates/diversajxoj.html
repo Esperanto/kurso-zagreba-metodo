@@ -1,0 +1,98 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<h2>
+	{{enhavo.fasado['Diversaĵoj']}}
+</h2>
+
+<h3>
+	{{enhavo.fasado['Pli gravaj esprimoj']}}
+</h3>
+
+<ul>
+{% for esperante in enhavo.vortaro|sort %}
+	{% if enhavo.vortaro[esperante].vortspeco=='pli grava esprimo' %}
+		<li>
+			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+		</li>
+	{% endif %}
+
+{% endfor %}
+</ul>
+
+<h3>
+	{{enhavo.fasado['Koloroj']}}
+</h3>
+
+<ul>
+{% for esperante in enhavo.vortaro|sort %}
+	{% if enhavo.vortaro[esperante].vortspeco=='koloro' %}
+		<li>
+			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+		</li>
+	{% endif %}
+
+{% endfor %}
+</ul>
+
+<h3>
+	{{enhavo.fasado['Nombroj']}}
+</h3>
+
+<ul>
+{% for esperante in enhavo.vortaro|sort %}
+	{% if enhavo.vortaro[esperante].vortspeco=='nombro' %}
+		<li>
+			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+		</li>
+	{% endif %}
+
+{% endfor %}
+</ul>
+
+<h3>
+	{{enhavo.fasado['Tagoj en la semajno']}}
+</h3>
+
+<ul>
+{% for esperante in enhavo.vortaro|sort %}
+	{% if enhavo.vortaro[esperante].vortspeco=='tago en la semajno' %}
+		<li>
+			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+		</li>
+	{% endif %}
+
+{% endfor %}
+</ul>
+
+<h3>
+	{{enhavo.fasado['Monatoj']}}
+</h3>
+
+<ul>
+{% for esperante in enhavo.vortaro|sort %}
+	{% if enhavo.vortaro[esperante].vortspeco=='monato' %}
+		<li>
+			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+		</li>
+	{% endif %}
+
+{% endfor %}
+</ul>
+
+<h3>
+	{{enhavo.fasado['Jarsezonoj']}}
+</h3>
+
+<ul>
+{% for esperante in enhavo.vortaro|sort %}
+	{% if enhavo.vortaro[esperante].vortspeco=='jarsezono' %}
+		<li>
+			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+		</li>
+	{% endif %}
+
+{% endfor %}
+</ul>
+
+{% endblock %}

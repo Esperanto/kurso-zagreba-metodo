@@ -93,3 +93,24 @@ $('.forigu').click(function() {
     $(this).trigger('input');
   });
 });
+
+
+var currentLangCode = $('#lingvoelektilo').val();
+
+$('#lingvoelektilo').change(function(e) {
+
+	// currentLangCode comes from global.
+	var newLanguangeCode = $(this).val()
+
+	var url = window.location.href;
+  url = url.replace(
+		'/' + currentLangCode + '/',  	
+	  '/' + newLanguangeCode + '/'
+	);
+	window.location.href = url;
+
+	// var previousLangCode = $('#lingvoelektilo').val());
+	// var before_change = $(this).data('pre');
+	// console.log(before_change);
+	//var langCode = console.log($(this).val())
+});

@@ -9,13 +9,13 @@
 
 
     <!-- Bootstrap -->
-	  <!-- Latest compiled and minified CSS -->
+    <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">   
-		<!--
-				<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		-->
-		<link href="{{root}}../assets/css/main.css" rel="stylesheet">
-		<link href="{{root}}../assets/css/vortaro.css" rel="stylesheet">
+    <!--
+        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    -->
+    <link href="{{root}}../assets/css/main.css" rel="stylesheet">
+    <link href="{{root}}../assets/css/vortaro.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -61,20 +61,34 @@
               </a>
               <ul class="dropdown-menu">
                 <li><a href="{{root}}tabelvortoj">
-									{{enhavo.fasado['Tabelvortoj']}}
-								</a></li>
+                  {{enhavo.fasado['Tabelvortoj']}}
+                </a></li>
                 <li><a href="{{root}}prepozicioj">
-									{{enhavo.fasado['Prepozicioj']}}
-								</a></li>
+                  {{enhavo.fasado['Prepozicioj']}}
+                </a></li>
                 <li><a href="{{root}}konjunkcioj">
-									{{enhavo.fasado['Konjunkcioj']}}
-								</a></li>
+                  {{enhavo.fasado['Konjunkcioj']}}
+                </a></li>
                 <li><a href="{{root}}afiksoj">
-									{{enhavo.fasado['Afiksoj']}}
-								</a></li>
+                  {{enhavo.fasado['Afiksoj']}}
+                </a></li>
               </ul>
             </li>
           </ul>
+
+
+          <form class="navbar-form navbar-left">
+            <select id="lingvoelektilo" class="form-control">
+              {% for lingvoKodo, lingvoNomo in enhavo.lingvoj.iteritems()|sort %}
+                <option value="{{lingvoKodo}}"
+                {% if lingvoKodo == enhavo.lingvo %}  
+                  selected
+                {% endif %}  
+                >{{lingvoNomo}}</option>
+              {% endfor %}
+            </select>
+          </form>
+
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>   
@@ -83,7 +97,7 @@
       <div class="row">
 
         <div class="col-sm-12">
-					
+          
           {% block content %}
           {% endblock %}
         

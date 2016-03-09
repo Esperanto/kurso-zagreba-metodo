@@ -8,7 +8,7 @@ Tiel oni facile kaj rapide povos generi endonaĵojn de la kurso en HTML aŭ PDF 
 
 ## Demonstraĵo
 
-- http://esperanto.github.io/kurso-zagreba-metodo/html/output/
+- http://esperanto.github.io/kurso-zagreba-metodo/html/output/de/
 
 ## Permesiloj
 

@@ -28,6 +28,7 @@ def get_markdown_headlines(s):
 def load(language):
 
     enhavo = {}
+    enhavo['lingvo'] = language
     enhavo['vortaro'] = {}
 
     paths = glob.glob('enhavo/tradukenda/' + language + '/vortaro/*.yml')
@@ -124,7 +125,13 @@ def load(language):
 md = mistune.Markdown()
 execfile('html/main.py')
 
-enhavo = load('de')
-generate_html('de', enhavo)
-enhavo = load('hr')
-generate_html('hr', enhavo)
+lingvoj = {
+  'de': 'Deutsch',
+  'hr': 'Hrvatski'
+}
+
+for lingvo in lingvoj:
+    enhavo = load(lingvo)
+    enhavo['lingvoj'] = lingvoj
+    generate_html(lingvo, enhavo)
+

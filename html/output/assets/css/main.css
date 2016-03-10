@@ -26,3 +26,8 @@
 .fixed {
     position: fixed;
 }
+
+#logo {
+	margin: 0;
+	padding: 0;
+}

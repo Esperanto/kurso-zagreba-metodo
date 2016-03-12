@@ -1,7 +1,9 @@
 almenaŭ: at least
 ambaŭ: both
 ankaŭ: also
-ankoraŭ: still, yet
+ankoraŭ: 
+- still
+- yet
 baldaŭ: soon
 do: so
 eĉ: even
@@ -15,9 +17,13 @@ nun: now
 nur: only
 plej: most (Superlative) 
 pli: more (Comparative) 
-plu: further, anymore
+plu:
+- further
+- anymore
 preskaŭ: almost
 tamen: however
 tre: very
-tro: too, too much
+tro: 
+- too
+- too much
 tuj: immediately

@@ -1,5 +1,7 @@
 A: Buchstabe
-afer: Angelegenheit, Sache
+afer:
+- Angelegenheit
+- Sache
 agrabl: angenehm
 akcept: akzeptieren
 akv: Wasser
@@ -19,10 +21,16 @@ aŭtoritat: Autorität
 bedaŭr: bedauern
 bel: schön
 best: Tier
-bezon: brauchen, benötigen
-bien: Landgut, Bauerngut
+bezon:
+- brauchen
+- benötigen
+bien:
+- Landgut
+- Bauerngut
 bon: gut
-branĉ: Zweig, Ast
+branĉ:
+- Zweig
+- Ast
 bru: Lärm
 buŝ: Mund
 cert: sicher(lich)
@@ -46,16 +54,22 @@ don: geben
 dorm: schlafen
 doĝ: Doge (Oberhaupt)
 edz: Gatte
-efektiv: wirklich, tatsächlich
+efektiv:
+- wirklich
+- tatsächlich
 ekskurs: Ausflug
 esper: hoffen
-est: sein (Verb, Wortstamm) 
+est:
+- sein (Verb
+- Wortstamm) 
 facil: leicht
 fakt: Tatsache
 fakt: tatsächlich
 fal: fallen
 famili: Familie
-far: machen, tun
+far:
+- machen
+- tun
 fart: sich fühlen 
 feliĉ: glücklich
 ferm: schließen
@@ -74,7 +88,9 @@ grand: groß
 grav: wichtig
 halt: anhalten
 hav: haben
-hejm: Heim, Zuhause
+hejm:
+- Heim
+- Zuhause
 help: helfen
 hom: Mensch
 hor: Stunde
@@ -93,15 +109,26 @@ kalv: kahl
 kap: Kopf
 kapabl: fähig
 kapt: fangen
-kar: lieb, teuer, wert
-kastel: Schloss, Kastell
-kav: Höhle, Grube
-kelk: manch, einige
+kar:
+- lieb
+- teuer
+- wert
+kastel:
+- Schloss
+- Kastell
+kav:
+- Höhle
+- Grube
+kelk:
+- manch
+- einige
 kelner: Kelner
 klar: klar
 klub: Club
 knab: Knabe
-koler: zürnen, zornig sein
+koler:
+- zürnen
+- zornig sein
 kolor: Farbe
 komenc: anfangen
 kompren: verstehen
@@ -138,7 +165,10 @@ manĝ: essen
 mar: Meer
 maten: Morgen
 memor: sich erinnern
-met: setzen, stellen, legen 
+met:
+- setzen
+- stellen
+- legen 
 mez: Mitte
 milit: Krieg
 minut: Minute
@@ -156,7 +186,9 @@ natur: Natur
 neces: notwendig
 nokt: Nacht
 nom: Name
-not: Note, Notiz
+not:
+- Note
+- Notiz
 nov: neu
 odor: Duft
 oft: oft
@@ -198,7 +230,9 @@ proksim: nahe
 promen: spazierengehen
 propon: vorschlagen
 prov: versuchen
-rajt: das Recht haben, dürfen
+rajt:
+- das Recht haben
+- dürfen
 rapid: schnell
 raport: berichten
 real: wirklich
@@ -216,7 +250,9 @@ salt: springen
 salut: Gruß
 sam: gleich
 san: gesund
-saĝ: klug, weise
+saĝ:
+- klug
+- weise
 sci: wissen
 sek: trocken
 sekret: Geheimnis
@@ -284,12 +320,16 @@ voĉ: Stimme
 zorg: sorgen
 ĉambr: Zimmer
 ĉef: Chef
-ĝen: stören, belästigen
+ĝen:
+- stören
+- belästigen
 ĝeneral: allgemein
 ĝoj: froh
 ĝust: richtig
 ĵet: werfen
 ŝajn: scheinen
 ŝanĝ: wechseln
-ŝat: mögen, gern haben
+ŝat:
+- mögen
+- gern haben
 ŝip: Schiff

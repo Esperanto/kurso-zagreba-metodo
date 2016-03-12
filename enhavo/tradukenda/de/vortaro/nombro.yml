@@ -1,4 +1,8 @@
-unu: ein, eine, eines, eins
+unu:
+- ein
+- eine
+- eines
+- eins
 du: zwei 
 tri: drei 
 kvar: vier 

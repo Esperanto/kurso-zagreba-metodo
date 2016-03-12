@@ -1,4 +1,6 @@
-al: nach, zu
+al:
+- nach
+- zu
 anstataŭ: anstatt
 antaŭ: vor
 apud: neben
@@ -15,7 +17,9 @@ kontraŭ: gegen
 krom: außer
 kun: mit
 laŭ: gemäß
-per: mit, mittels 
+per:
+- mit
+- mittels 
 por: für
 post: nach 
 pri: über
@@ -27,5 +31,7 @@ sur: auf
 tra: durch
 trans: jenseits
 ĉe: bei
-ĉirkaŭ: um, herum
+ĉirkaŭ:
+- um
+- herum
 ĝis: bis

@@ -1,57 +1,57 @@
 - 
-  demando: Wer ist deine Freundin?
+  demando: Who is your girlfriend?
   rektatraduko:
-    - Kiu: Wer
-    - estas: ist
-    - via: deine
-    - amikino: Freundin
+    - Kiu: Who
+    - estas: is
+    - via: your
+    - amikino: girlfriend
     - '?'
 - 
-  demando: Schreibt deine Freundin Anna jetzt im Zimmer?
+  demando: Is your friend Anna now writing in the room?
   rektatraduko:
-    - Ĉu: Ob
-    - via: deine
-    - amikino: Freundin
+    - Ĉu: If
+    - via: your
+    - amikino: friend
     - Anna: Anna
-    - skribas: schreibt
-    - nun: jetzt
+    - skribas: writes
+    - nun: now
     - en: in
-    - la: dem 
-    - ĉambro: Zimmer
+    - la: the 
+    - ĉambro: room
     - '?'
 - 
-  demando: Arbeitet der Freund deines Vaters in einem Hotel?
+  demando: Does the friend of your father work in a hotel?
   rektatraduko:
-    - Ĉu: Ob
-    - la: der
-    - amiko: Freund
-    - de: von
-    - via: deinem
-    - patro: Vater
-    - laboras: arbeitet
+    - Ĉu: If
+    - la: the
+    - amiko: friend
+    - de: of
+    - via: your
+    - patro: father
+    - laboras: works
     - en: in
-    - hotelo: Hotel
+    - hotelo: hotel
     - '?'
 - 
-  demando: Was ist auf dem Arbeitstisch in unserem Zimmer?
+  demando: What is on the work-bench in our room?
   rektatraduko:
-    - Kio: Was 
-    - estas: ist
-    - sur: auf
-    - la: dem
-    - labortablo: Arbeitstisch
+    - Kio: What 
+    - estas: is
+    - sur: on
+    - la: the
+    - labortablo: work-bench
     - en: in
-    - nia: unserem
-    - ĉambro: Zimmer
+    - nia: our
+    - ĉambro: room
     - '?'
 - 
-  demando: Ist ein Esperanto-Lernbuch auf deinem Tisch?
+  demando: Is there an Esperanto textbook on your table?
   rektatraduko:
-    - Ĉu: Ob
-    - Esperanto-lernolibro: Esperanto-Lernbuch 
-    - estas: ist 
-    - sur: auf
-    - via: deinem 
-    - tablo: Tisch
+    - Ĉu: If
+    - Esperanto-lernolibro: Esperanto textbook
+    - estas: is
+    - sur: on
+    - via: your 
+    - tablo: table
     - '?'
 

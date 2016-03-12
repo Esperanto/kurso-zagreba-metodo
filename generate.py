@@ -127,6 +127,7 @@ execfile('html/main.py')
 
 lingvoj = {
   'de': 'Deutsch',
+  'en': 'English',
   'hr': 'Hrvatski'
 }
 

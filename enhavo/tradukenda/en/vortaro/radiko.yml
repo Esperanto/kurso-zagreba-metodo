@@ -6,10 +6,14 @@ akv: water
 ali: another
 alt: high
 am: love
-amas: mass, crowd
+amas:
+- mass
+- crowd
 amik: friend
 arb: tree
-aspekt: look, seem
+aspekt:
+- look
+- seem
 atend: wait
 atent: pay attention
 aĉet: buy
@@ -20,7 +24,9 @@ bedaŭr: regret
 bel: beautiful
 best: animal
 bezon: need
-bien: estate, land
+bien:
+- estate
+- land
 bon: good
 branĉ: branch
 bru: noise
@@ -33,7 +39,9 @@ demand: ask
 dev: must
 dezir: wish
 diabl: devil
-dik: thick, fat
+dik:
+- thick
+- fat
 dimanĉ: Sunday
 dir: say
 direkt: direction
@@ -55,12 +63,16 @@ fakt: fact
 fal: fall
 famili: family
 far: do
-fart: feel, be
+fart:
+- feel
+- be
 feliĉ: happy
 ferm: close 
 fin: end
 flank: side
-foj: time, occasion
+foj:
+- time
+- occasion
 forges: forget
 fort: strong
 fot: photo
@@ -68,8 +80,12 @@ frat: brother
 fru: early
 fuŝ: mess up
 gondol: gondola
-graf: count, earl
-grand: big, great
+graf:
+- count
+- earl
+grand:
+- big
+- great
 grav: important
 halt: stop
 hav: have
@@ -227,7 +243,9 @@ si: reflexive pronoun
 sid: sit
 silent: silent
 simil: similar
-sinjor: gentleman, Mr.
+sinjor:
+- gentleman
+- Mr.
 situaci: sitation
 skrib: write
 sol: alone
@@ -283,7 +301,9 @@ voĉ: voice
 zorg: care
 ĉambr: room
 ĉef: boss
-ĝen: distrub, bother
+ĝen:
+- distrub
+- bother
 ĝeneral: general
 ĝoj: glad
 ĝust: correct

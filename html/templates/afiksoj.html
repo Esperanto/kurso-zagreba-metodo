@@ -14,7 +14,9 @@
 {% for esperante in enhavo.vortaro|sort %}
 	{% if enhavo.vortaro[esperante].vortspeco=='prefikso' %}
 		<li>
-			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+			<em>{{esperante}}</em> –
+			{% set klavo = esperante %}
+			{% include 'tradukajxo.html' %}
 		</li>
 	{% endif %}
 
@@ -29,7 +31,9 @@
 {% for esperante in enhavo.vortaro|sort %}
 	{% if enhavo.vortaro[esperante].vortspeco=='sufikso' %}
 		<li>
-			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+			<em>{{esperante}}</em> – 
+			{% set klavo = esperante %}
+			{% include 'tradukajxo.html' %}
 		</li>
 	{% endif %}
 

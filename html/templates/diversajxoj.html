@@ -13,7 +13,9 @@
 {% for esperante in enhavo.vortaro|sort %}
 	{% if enhavo.vortaro[esperante].vortspeco=='pli grava esprimo' %}
 		<li>
-			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+			<em>{{esperante}}</em> – 
+			{% set klavo = esperante %}
+			{% include 'tradukajxo.html' %}
 		</li>
 	{% endif %}
 
@@ -28,7 +30,9 @@
 {% for esperante in enhavo.vortaro|sort %}
 	{% if enhavo.vortaro[esperante].vortspeco=='koloro' %}
 		<li>
-			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+			<em>{{esperante}}</em> – 
+			{% set klavo = esperante %}
+			{% include 'tradukajxo.html' %}
 		</li>
 	{% endif %}
 
@@ -43,7 +47,9 @@
 {% for esperante in enhavo.vortaro|sort %}
 	{% if enhavo.vortaro[esperante].vortspeco=='nombro' %}
 		<li>
-			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+			<em>{{esperante}}</em> – 
+			{% set klavo = esperante %}
+			{% include 'tradukajxo.html' %}
 		</li>
 	{% endif %}
 
@@ -58,7 +64,9 @@
 {% for esperante in enhavo.vortaro|sort %}
 	{% if enhavo.vortaro[esperante].vortspeco=='tago en la semajno' %}
 		<li>
-			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+			<em>{{esperante}}</em> – 
+			{% set klavo = esperante %}
+			{% include 'tradukajxo.html' %}
 		</li>
 	{% endif %}
 
@@ -73,7 +81,9 @@
 {% for esperante in enhavo.vortaro|sort %}
 	{% if enhavo.vortaro[esperante].vortspeco=='monato' %}
 		<li>
-			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+			<em>{{esperante}}</em> – 
+			{% set klavo = esperante %}
+			{% include 'tradukajxo.html' %}
 		</li>
 	{% endif %}
 
@@ -88,7 +98,9 @@
 {% for esperante in enhavo.vortaro|sort %}
 	{% if enhavo.vortaro[esperante].vortspeco=='jarsezono' %}
 		<li>
-			<em>{{esperante}}</em> – {{enhavo.vortaro[esperante].tradukajxo}}
+			<em>{{esperante}}</em> – 
+			{% set klavo = esperante %}
+			{% include 'tradukajxo.html' %}
 		</li>
 	{% endif %}
 

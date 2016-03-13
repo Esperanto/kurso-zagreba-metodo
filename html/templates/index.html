@@ -1,32 +1,12 @@
 {% extends "layout.html" %}
 {% block content %}
 
-
   {{enhavo.enkonduko|markdown}}
 
-  <table class="table">
-    <thead>
-      <tr>
-        <th>{{enhavo.fasado['Lecionoj']}}</th>
-        <th>{{enhavo.fasado['Teksto']}}</th>
-        <th>{{enhavo.fasado['Gramatiko']}}</th>
-        <th>{{enhavo.fasado['Ekzercoj']}}</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for leciono in enhavo.lecionoj %}
-        <tr>
-          <td><a href="{{root}}{{leciono.indekso.cxene}}">{{leciono.indekso.cxene}}</a></td>
-          <td><a href="{{root}}{{leciono.indekso.cxene}}">{{leciono.teksto.titolo_string}}</a></td>
-          <td><a href="{{root}}{{leciono.indekso.cxene}}/gramatiko/">{{enhavo.fasado['Gramatiko']}}</a></td>
-          <td>
-            <a href="{{root}}{{leciono.indekso.cxene}}/ekzerco1/">{{enhavo.fasado['Ekzerco 1']}}</a>,
-            <a href="{{root}}{{leciono.indekso.cxene}}/ekzerco2/">{{enhavo.fasado['Ekzerco 2']}}</a>,
-            <a href="{{root}}{{leciono.indekso.cxene}}/ekzerco3/">{{enhavo.fasado['Ekzerco 3']}}</a>
-          </td>
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+	<div class="text-center">
+		<a class="btn btn-primary btn-lg" href="{{root}}01">Start</a>
+	</div>
 
+	&nbsp;
+	
 {% endblock %}

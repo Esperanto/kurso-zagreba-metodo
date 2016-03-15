@@ -1,4 +1,4 @@
-# Esperanto In 12 Days
+# Esperanto in 12 Days
 ### The Fastest Course for the Basics
 
 - Teaches you the **most important 500 words**

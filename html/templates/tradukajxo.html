@@ -1,8 +1,8 @@
-{% if klavo %} 
-	{% set tradukajxo = enhavo.vortaro[klavo]['tradukajxo'] %}
-	{% if tradukajxo is string %}
+{%- if klavo -%} 
+	{%- set tradukajxo = enhavo.vortaro[klavo]['tradukajxo'] -%}
+	{%- if tradukajxo is string -%}
 		{{ tradukajxo }}
-	{% elif tradukajxo is iterable %}
+	{%- elif tradukajxo is iterable -%}
 		{{ tradukajxo|join(', ') }}
-	{% endif %} 
-{% endif %} 
+	{%- endif -%} 
+{%- endif -%} 

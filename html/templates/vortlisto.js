@@ -8,8 +8,9 @@ var vortlisto = {
 		{%- endfor -%}
 	], 
 	'fontlingve': [
-		{% for esperante in enhavo.vortaro|sort -%}
-		'{{enhavo.vortaro[esperante].tradukajxo}}'
+		{%- for esperante in enhavo.vortaro|sort -%}
+	  {%- set klavo = esperante -%}
+	  '{%- include 'tradukajxo.html' -%}'
 		{%- if not loop.last -%}
 			,
 		{%- endif -%}

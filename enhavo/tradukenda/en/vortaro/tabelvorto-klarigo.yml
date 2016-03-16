@@ -1,14 +1,14 @@
-'ki-': fragend
-'ti-': hinweisend
-'i-': unbestimmt
-'ĉi-': allumfassend
-'neni-': verneinend
-'-o': Sache
-'-u': Person
-'-e': Ort
-'-a': Eigenschaft
-'-el': Art & Weise
-'-al': Grund
-'-am': Zeit
-'-om': Menge
-'-es': Besitz
+'ki-': question ("what")
+'ti-': indication ("that")
+'i-': indefinite ("some")
+'ĉi-': universal ("each, every")
+'neni-': negative ("no")
+'-o': thing
+'-u': individual
+'-e': place
+'-a': quality
+'-el': manner
+'-al': reason
+'-am': time
+'-om': amount
+'-es': association, possession

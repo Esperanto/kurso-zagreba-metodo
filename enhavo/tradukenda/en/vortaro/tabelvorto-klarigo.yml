@@ -1,8 +1,8 @@
-'ki-': question ("what")
-'ti-': indication ("that")
-'i-': indefinite ("some")
-'ĉi-': universal ("each, every")
-'neni-': negative ("no")
+'ki-': question 
+'ti-': indication 
+'i-': indefinite 
+'ĉi-': universal 
+'neni-': negative 
 '-o': thing
 '-u': individual
 '-e': place
@@ -11,4 +11,4 @@
 '-al': reason
 '-am': time
 '-om': amount
-'-es': association, possession
+'-es': possession

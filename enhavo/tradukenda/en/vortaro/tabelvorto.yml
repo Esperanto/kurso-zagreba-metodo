@@ -43,9 +43,15 @@ iam: some time, ever
 neniam: never, no time
 kiom: how much
 tiom: that much
-iom: to some extent, a certain amount
-ĉiom: all of it, the whole amount
-neniom: none of it, no amount
+iom: 
+- to some extent
+- a certain amount
+ĉiom: 
+- all of it
+- the whole amount
+neniom:
+- none of it
+- no amount
 kies: whose
 ties: that one's
 ies: someone's

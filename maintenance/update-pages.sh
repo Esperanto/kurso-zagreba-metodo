@@ -1,5 +1,5 @@
 git add html/output
-git commit -am "Updated output"
+git commit -am "Updated output."
 git push
 git checkout gh-pages
 git merge master -m "Merge from master."

@@ -10,7 +10,7 @@ Tiu ĉi dosierujo enhavas la tutan parton de la kurso, kiun oni devas traduki. D
 # Partoj
 ## Gramatiko
 
-La gramatikajn klarigojn skribitas en [Markdown](https://en.wikipedia.org/wiki/Markdown). 
+La gramatikaj klarigoj skribitas en [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
 - Por ĉiu leciono, kreu dosieron laŭ la leciona indekso. Ekzemple:
   -  `01.md` - Klarigo pri leciono 1
@@ -22,9 +22,9 @@ La gramatikajn klarigojn skribitas en [Markdown](https://en.wikipedia.org/wiki/M
   - `*bona lingvo* – good language`
 - Skribu vortojn aŭ literojn pri kiuj vi nun klarigas uzante `__`. Ekzemple:
   - `The morpheme *-ej* denotes a place, for example *lern__ej__o* – school`
-- se vi dubas, rigardu la [germana versio](de/)
+- se vi dubas, rigardu la [germanan version](de/)
 
-Ne timu se Github kelkfoje malĝuste tradukas partojn de Markdown (ekz. kombinadojn kiel `*lern__ej__o*`), montrante la Markdown-dosierojn en sia retejo. Tio nur estas problemo de Github, nia kreanta skripto tamen bone tradukos ĝin.
+Ne timu se Github kelkfoje malĝuste transigas partojn de Markdown (ekz. kombinadojn kiel `*lern__ej__o*`), montrante la Markdown-dosierojn en sia retejo. Tio nur estas problemo de Github, nia kreanta skripto tamen bone tradukos ilin.
 
 
 ## Ekzercoj

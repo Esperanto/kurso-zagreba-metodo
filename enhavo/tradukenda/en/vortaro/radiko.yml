@@ -14,16 +14,16 @@ arb: tree
 aspekt:
 - look
 - seem
-atend: wait
+atend: to wait
 atent: pay attention
-aĉet: buy
-aŭd: hear
+aĉet: to buy
+aŭd: to hear
 aŭt: car
 aŭtoritat: authority
-bedaŭr: regret
+bedaŭr: to regret
 bel: beautiful
 best: animal
-bezon: need
+bezon: to need
 bien:
 - estate
 - land
@@ -32,53 +32,55 @@ branĉ: branch
 bru: noise
 buŝ: mouth
 cert: certain
-dank: thank
-daŭr: continue
-decid: decide
-demand: ask
+dank: to thank
+daŭr: to continue
+decid: to decide
+demand: to ask
 dev: must
-dezir: wish
+dezir: to wish
 diabl: devil
 dik:
 - thick
 - fat
 dimanĉ: Sunday
-dir: say
+dir: to say
 direkt: direction
 doktor: doctor
 dolar: dollar
-dolor: pain
+dolor:
+- pain
+- to hurt
 dolĉ: sweet
 dom: house
-don: give
+don: to give
 dorm: sleep
 doĝ: doge
 edz: husband
 efektiv: actually
 ekskurs: excursion
-esper: hope
-est: be
+esper: to hope
+est: to be
 facil: easy
 fakt: fact
-fal: fall
+fal: to fall
 famili: family
-far: do
+far: to do
 fart:
 - feel
 - be
 feliĉ: happy
-ferm: close 
-fin: end
+ferm: to close 
+fin: to end
 flank: side
 foj:
 - time
 - occasion
-forges: forget
+forges: to forget
 fort: strong
 fot: photo
 frat: brother
 fru: early
-fuŝ: mess up
+fuŝ: to mess up
 gondol: gondola
 graf:
 - count
@@ -87,19 +89,19 @@ grand:
 - big
 - great
 grav: important
-halt: stop
-hav: have
+halt: to stop
+hav: to have
 hejm: home
-help: help
+help: to help
 hom: human
 hor: hour
 hotel: hotel
 ide: idea
 industri: industry 
-instru: teach
-interes: interest
-invit: invite
-ir: go
+instru: to teach
+interes: to interest
+invit: to invite
+ir: to go
 itali: Italy
 jar: year
 jun: young
@@ -107,7 +109,7 @@ kaf: coffee
 kalv: bald
 kap: head
 kapabl: capable
-kapt: catch
+kapt: to catch
 kar: dear
 kastel: castle
 kav: cave
@@ -118,19 +120,19 @@ klub: club
 knab: boy
 koler: anger
 kolor: color
-komenc: begin
-kompren: understand
-kon: know
+komenc: to begin
+kompren: to understand
+kon: to know
 kontent: satisfied
-kontrol: check
+kontrol: to check
 kor: heart
 korp: body
-kost: cost
-kri: scream
-kuir: cook
+kost: to cost
+kri: to scream
+kuir: to cook
 kuk: cake 
-kur: run
-labor: work
+kur: to run
+labor: to work
 lakt: milk
 lamp: lamp
 land: land
@@ -138,121 +140,121 @@ larĝ: wide
 last: last
 laŭt: loud
 lecion: lesson
-leg: read
-lern: learn
+leg: to read
+lern: to learn
 leter: letter
 liber: free
 libr: book
 lok: place
 long: long
-lud: play
+lud: to play
 lum: light
 man: hand
 mank: be lacking
-manĝ: eat
+manĝ: to eat
 mar: sea
 maten: morning
-memor: remember
-met: put
+memor: to remember
+met: to put
 mez: middle
 milit: war
 minut: minute
-mir: wonder
+mir: to wonder
 moment: moment
 mon: money
 mont: mountain
-montr: show
-mort: die
-mov: move
+montr: to show
+mort: to die
+mov: to move
 mult: many
 muzik: music
-nask: give birth
+nask: to give birth
 natur: nature
-neces: need
+neces: to need
 nokt: night
 nom: name
 not: note
 nov: new
 odor: smell
 oft: often
-okaz: happen
+okaz: to happen
 okul: eye
 onkl: uncle
 opini: opinion
-ord: order
+ord: to order
 orel: ear
 pac: peace
-pag: pay
+pag: to pay
 pan: bread
 paper: paper
-pardon: forgive
-parol: speak
+pardon: to forgive
+parol: to speak
 part: part
-pas: pass
+pas: to pass
 patr: father
 paŝ: step
-pens: think
-perd: loose
+pens: to think
+perd: to loose
 person: person
-pet: request
+pet: to request
 pez: heavy
 pied: foot
 plac: place
-plan: plan
-plaĉ: be pleasing
+plan: to plan
+plaĉ: to be pleasing
 plen: full
 polic: police
 pord: door
-port: carry
+port: to carry
 pov: can
-pren: take 
+pren: to take 
 pret: ready
-prezent: present
+prezent: to present
 problem: problem
 proksim: near
-promen: stroll
-propon: propose
-prov: try
-rajt: be allowed to
+promen: to stroll
+propon: to propose
+prov: to try
+rajt: to be allowed to
 rapid: fast
 raport: report
 real: real
 rekt: direct
-renkont: meet
-respekt: respect
-respond: answer
-rest: remain
-ricev: receive
-rid: laugh
-rigard: look at
+renkont: to meet
+respekt: to respect
+respond: to answer
+rest: to remain
+ricev: to receive
+rid: to laugh
+rigard: to look at
 riĉ: rich
 rol: role
-salt: jump
+salt: to jump
 salut: hello
 sam: same
 san: healthy
 saĝ: wise
-sci: know
+sci: to know
 sek: dry
 sekret: secret
-sekv: follow
+sekv: to follow
 semajn: week
-send: send
+send: to send
 serĉ: joke
 si: reflexive pronoun
-sid: sit
+sid: to sit
 silent: silent
 simil: similar
 sinjor:
 - gentleman
 - Mr.
 situaci: sitation
-skrib: write
+skrib: to write
 sol: alone
-son: sound
+son: to sound
 sovaĝ: wild
 sport: sport
-star: stand
+star: to stand
 strat: street
 subit: suddenly
 sufiĉ: sufficient
@@ -270,31 +272,31 @@ teror: terror
 tim: fear
 ton: tone
 trankvil: calm
-trink: drink
-trov: find
+trink: to drink
+trov: to find
 turk: Turkish
-tuŝ: touch
+tuŝ: to touch
 urb: city
 util: useful
-uz: use
+uz: to use
 vagon: coach
 varm: war
 ven: come
-vend: sell
+vend: to sell
 veneci: Venice
 ver: 'true'
 vesper: evening
-vest: dress
-vetur: travel
-vid: see
+vest: to dress
+vetur: to travel
+vid: to see
 vin: wine
 vir: man
-viv: live
+viv: to live
 vizaĝ: face
-vizit: visit
+vizit: to visit
 voj: way
 vojaĝ: journey
-vok: call
+vok: to call
 vol: want
 vort: word
 voĉ: voice
@@ -302,13 +304,13 @@ zorg: care
 ĉambr: room
 ĉef: boss
 ĝen:
-- distrub
-- bother
+- to distrub
+- to bother
 ĝeneral: general
 ĝoj: glad
-ĝust: correct
-ĵet: throw
+ĝust: to correct
+ĵet: to throw
 ŝajn: seem
-ŝanĝ: change
-ŝat: like
+ŝanĝ: to change
+ŝat: to like
 ŝip: ship

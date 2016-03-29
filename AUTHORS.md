@@ -16,8 +16,19 @@ La ciferecigo faris laŭlingve:
 ### Germana
 
 - Sebastian Hartwig
-- Georg Jähnig
+- [Georg Jähnig](https://github.com/georgjaehnig/)
 
 ### Angla
 
-- Georg Jähnig
+- [Georg Jähnig](https://github.com/georgjaehnig/)
+- [Spencer van der Meulen](https://github.com/Rajzin)
+
+### Franca
+
+- [Axel Rousseau](https://github.com/axel584)
+- [Emmanuelle Richard](https://github.com/emmrichard)
+
+### Kroata
+
+- [Zlatko Tišljar](https://github.com/ztisljar)
+

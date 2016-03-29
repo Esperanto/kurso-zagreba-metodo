@@ -1,5 +1,7 @@
 # Aŭtoroj
 
+## Enhavo 
+
 La aŭtoroj de la *Zagreba metodo* estas:
 
 - Zlatko Tišljar
@@ -7,7 +9,15 @@ La aŭtoroj de la *Zagreba metodo* estas:
 - Ivica Špoljarec
 - Roger Imbert
 
-La ciferecigo faris:
+## Ciferecigo  
+
+La ciferecigo faris laŭlingve:
+
+### Germana
+
+- Sebastian Hartwig
+- Georg Jähnig
+
+### Angla
 
 - Georg Jähnig
-- Sebastian Hartwig

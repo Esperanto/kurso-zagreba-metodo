@@ -6,6 +6,7 @@ import glob
 import re
 import mistune
 import os
+import argparse
 
 def transpose_headlines(markdown, level):
     prefix = ''
@@ -125,6 +126,10 @@ def load(language):
 md = mistune.Markdown()
 execfile('html/main.py')
 
+ap = argparse.ArgumentParser()
+ap.add_argument("root", help="The supposed directory root of the output. All links will be prefixed with it.")
+args = ap.parse_args()
+
 lingvoj = {
   'de': 'Deutsch',
   'en': 'English'
@@ -133,5 +138,5 @@ lingvoj = {
 for lingvo in lingvoj:
     enhavo = load(lingvo)
     enhavo['lingvoj'] = lingvoj
-    generate_html(lingvo, enhavo)
+    generate_html(lingvo, enhavo, args)
 

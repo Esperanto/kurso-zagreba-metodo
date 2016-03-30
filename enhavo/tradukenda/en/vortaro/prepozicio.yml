@@ -50,7 +50,7 @@ sub:
 super: 
 - over
 - above
-sur: on
+sur: 'on'
 tra: through
 trans: accross
 ĉe: at

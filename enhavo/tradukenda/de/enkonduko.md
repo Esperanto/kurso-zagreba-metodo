@@ -1,6 +1,3 @@
-# Esperanto in 12 Tagen
-### Der schnellste Kurs für die Grundlagen
-
 - Vermittelt die **wichtigsten 500 Wörter**
 - **Ohne Anmeldung**: Einfach *Start* klicken
 - **mobil-optimiert** für Smartphones

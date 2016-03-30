@@ -22,6 +22,8 @@ La ciferecigo faris laŭlingve:
 
 - [Georg Jähnig](https://github.com/georgjaehnig/)
 - [Spencer van der Meulen](https://github.com/Rajzin)
+- Baptista Sivanzire
+
 
 ### Franca
 

@@ -126,7 +126,7 @@ md = mistune.Markdown()
 execfile('html/main.py')
 
 lingvoj = {
-#  'de': 'Deutsch',
+  'de': 'Deutsch',
   'en': 'English'
 }
 

@@ -1,5 +1,15 @@
 {% extends "layout.html" %}
+
+{% block title %}
+  {{enhavo.fasado['Esperanto en 12 tagoj']}}
+	|
+  {{enhavo.fasado['La plej rapida kurso por la bazoj']}}
+{% endblock %}
+
 {% block content %}
+
+  <h1>{{enhavo.fasado['Esperanto en 12 tagoj']}}</h1>
+  <h3>{{enhavo.fasado['La plej rapida kurso por la bazoj']}}</h3>
 
   {{enhavo.enkonduko|markdown}}
 

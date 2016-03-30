@@ -1,4 +1,13 @@
 {% extends "layout.html" %}
+
+{% block title %}
+	{{leciono_index}}. {{leciono.teksto.titolo_string}}
+	|
+	{{enhavo.fasado['Ekzerco 1']}}
+	|
+  {{enhavo.fasado['Esperanto en 12 tagoj']}}
+{% endblock %}
+
 {% block content %}
 
   {% include 'pager.html' %}

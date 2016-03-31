@@ -1,70 +1,70 @@
 - 
-  demando: Wie war dein altes Heim?
-  rektatraduko:
-    - Kia: Welcher Art
-    - estis: war
-    - via: Dein
-    - malnova: altes
-    - hejmo: Heim
+  demando: What was your old home like?
+  rektatraduko: 
+    - Kia: What like
+    - estis: was
+    - via: your
+    - malnova: old
+    - hejmo: home 
     - '?'
 - 
-  demando: Welche Bücher hast du gelesen und sind sie gut?
-  rektatraduko:
-    - Kiujn: Welche
-    - librojn: Bücher
-    - vi: du
-    - legis: hast gelesen
-    - kaj: und
-    - ĉu: ob
-    - ili: sie
-    - estas: sind
-    - bonaj: gut
+  demando: Which books did you read, and were they good?
+  rektatraduko: 
+    - Kiujn: Which 
+    - librojn: books
+    - vi: you
+    - legis: did read
+    - kaj: and
+    - ĉu: whether
+    - ili: they
+    - estas: are
+    - bonaj: good 
     - '?'
 - 
-  demando: Was machten Anna und Marko in Markos kleinem Zimmer?
+  demando: "What did Anna and Mark do in Marks little room?"
   rektatraduko:
-    - Kion: Was
-    - faris: machten
+    - Kion: What
+    - faris: did do
     - Anna: Anna
-    - kaj: und
-    - Marko: Marko
-    - en: in
-    - la: dem
-    - malgranda: kleinen
-    - ĉambro: Zimmer
-    - de: von
-    - Marko: Marko
+    - kaj: and
+    - Marko: Mark
+    - en: in 
+    - la: the
+    - malgranda: little
+    - ĉambro: room
+    - de: of
+    - Marko: Mark
     - '?'
 - 
-  demando: Liest du gern Bücher über Liebe?
-  rektatraduko:
-    - Cxu: Ob
-    - vi: Du
-    - sxatas: magst
-    - legi: lesen
-    - librojn: Bücher
-    - pri: über
-    - amo: Liebe
+  demando: Do you like reading books about love?
+  rektatraduko: 
+    - Ĉu: Whether
+    - vi: you
+    - ŝatas: like
+    - legi: to read
+    - librojn: books
+    - pri: about
+    - amo: love
     - '?'
 - 
-  demando: Wer wird mit dir zu deinem Heim gehen?
-  rektatraduko:
-    - Kiu: Wer
-    - iros: wird gehen
-    - kun: mit
-    - vi: Dir
-    - al: zu 
-    - via: deinem
-    - hejmo: Heim
+  demando: Who will go with you to your home?
+  rektatraduko: 
+    - Kiu: Who
+    - iros: will go
+    - kun: with
+    - vi: you
+    - al: to 
+    - via: your
+    - hejmo: home
     - '?'
 - 
-  demando: Wie sind die Augen deiner Freundin?
-  rektatraduko:
-    - Kiaj: Welcher Art
-    - estas: sind
-    - la: die
-    - okuloj: Augen
-    - de: von
-    - via: Deiner
-    - amikino: Freundin
+  demando: "What are your girl-friend's eyes like?"
+  rektatraduko: 
+    - Kiaj: What like
+    - estas: are
+    - la: the
+    - okuloj: eyes
+    - de: of
+    - via: your
+    - amikino: girl-friend
     - '?'

@@ -1,15 +1,15 @@
 - 
-  demando: Who is your girlfriend?
+  demando: Who is your girl-friend?
   rektatraduko:
     - Kiu: Who
     - estas: is
     - via: your
-    - amikino: girlfriend
+    - amikino: girl-friend
     - '?'
 - 
   demando: Is your friend Anna now writing in the room?
   rektatraduko:
-    - Ĉu: If
+    - Ĉu: Whether
     - via: your
     - amikino: friend
     - Anna: Anna
@@ -22,7 +22,7 @@
 - 
   demando: Does the friend of your father work in a hotel?
   rektatraduko:
-    - Ĉu: If
+    - Ĉu: Whether
     - la: the
     - amiko: friend
     - de: of
@@ -47,7 +47,7 @@
 - 
   demando: Is there an Esperanto textbook on your table?
   rektatraduko:
-    - Ĉu: If
+    - Ĉu: Whether
     - Esperanto-lernolibro: Esperanto textbook
     - estas: is
     - sur: on

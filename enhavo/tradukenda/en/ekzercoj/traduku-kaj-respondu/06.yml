@@ -1,72 +1,72 @@
 - 
-  demando: Möchtest du, dass ich dir mein neuestes Buch zeige?
-  rektatraduko:
-    - Ĉu: Ob 
-    - vi: du
-    - deziras: wünschst 
+  demando: Do you want me to show you my newest book?
+  rektatraduko: 
+    - Ĉu: Whether
+    - vi: you
+    - deziras: wish
     - ',' 
-    - ke: dass 
-    - mi: ich 
-    - montras: zeige 
-    - al: zu
-    - vi: dir 
-    - mian: mein 
-    - plej: am meisten  
-    - novan: neues 
-    - libron: Buch 
+    - ke: that 
+    - mi: I
+    - montras: show
+    - al: to
+    - vi: you
+    - mian: my
+    - plej: most
+    - novan: new
+    - libron: book
     - '?'
 - 
-  demando: Was möchtest du morgen frühstücken?
-  rektatraduko:
-    - Kion: Was 
-    - vi: du  
-    - volas: willst 
-    - morgaŭ: morgen 
-    - matenmanĝi: frühstücken 
+  demando: What do you want for breakfast tomorrow?
+  rektatraduko: 
+    - Kion: What
+    - vi: you
+    - volas: want
+    - morgaŭ: tomorrow
+    - matenmanĝi: eat breakfast
     - '?'
 - 
-  demando: Wann wird Marko ankommen, um fünf oder um acht Uhr?
-  rektatraduko:
-    - Kiam: Wann 
-    - Marko: Marko 
-    - alvenos: ankommen 
+  demando: "When will Mark arrive, at five or at eight o'clock?"
+  rektatraduko: 
+    - Kiam: When
+    - Marko: Mark
+    - alvenos: will arrive
     - ',' 
-    - je: zu 
-    - la: der 
-    - kvina: fünften 
-    - aŭ: oder 
-    - je: zu 
-    - la: der 
-    - oka: achten 
-    - horo: Stunde 
+    - je: at
+    - la: the
+    - kvina: fifth
+    - aŭ: or
+    - je: at
+    - la: the
+    - oka: eighth
+    - horo: hour
     - '?'
 - 
-  demando: Wann hast du bemerkt, dass mich die ganze Familie Wohltäter nennt?
-  rektatraduko:
-    - Kiam: Wann 
-    - vi: du 
-    - rimarkis: bemerktest
+  demando: When did you notice that the whole family calls me benefactor?
+  rektatraduko: 
+    - Kiam: When
+    - vi: you
+    - rimarkis: did notice
     - ','  
-    - ke: dass
-    - la: die 
-    - tuta: ganze 
-    - familio: Familie 
-    - nomas: nennt 
-    - min: mich 
-    - bonfarulo: Wohltäter 
+    - ke: that
+    - la: the
+    - tuta: whole
+    - familio: family
+    - nomas: calls
+    - min: me
+    - bonfarulo: benefactor
     - '?'
 - 
-  demando: War für dich das Büchlein nützlich, das ich geschickt habe?
-  rektatraduko:
-    - Ĉu: Ob 
-    - la: das
-    - libreto: Büchlein 
+  demando: Was the booklet which I send you useful to you?
+  rektatraduko: 
+    - Ĉu: Whether
+    - la: the 
+    - libreto: booklet
     - estis: was
-    - utila: nützlich 
-    - al: zu 
-    - vi: dir
+    - utila: useful
+    - al: to
+    - vi: you
     - ',' 
-    - kiun: das 
-    - mi: ich 
-    - sendis: sandte
+    - kiun: which
+    - mi: I 
+    - sendis: sent
     - '?'

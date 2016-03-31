@@ -17,3 +17,6 @@ git add -f html/output/*
 git commit -m "Updated output for root-pages."
 git push origin root-pages
 git checkout master
+
+git push
+

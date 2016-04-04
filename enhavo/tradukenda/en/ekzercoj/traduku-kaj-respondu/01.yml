@@ -37,7 +37,7 @@
   rektatraduko:
     - Kio: What 
     - estas: is
-    - sur: on
+    - sur: 'on'
     - la: the
     - labortablo: work-bench
     - en: in
@@ -50,7 +50,7 @@
     - Ĉu: Whether
     - Esperanto-lernolibro: Esperanto textbook
     - estas: is
-    - sur: on
+    - sur: 'on'
     - via: your 
     - tablo: table
     - '?'

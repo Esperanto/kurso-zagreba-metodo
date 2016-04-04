@@ -1,4 +1,4 @@
-# Kiel traduki
+# Enhavo de tiu dosierujo
 
 Tiu ĉi dosierujo enhavas la tutan parton de la kurso, kiun oni devas traduki. Do, ĉi tie troviĝas:
 
@@ -6,6 +6,12 @@ Tiu ĉi dosierujo enhavas la tutan parton de la kurso, kiun oni devas traduki. D
 - la 2 tradukendaj ekzercoj por ĉiuj 12 lecionoj
 - la vortaro kun tradukaĵon de ĉiuj radikoj kaj vortoj
 - la vortaro por la tradukenda fasado de la retpaĝo
+
+# Kiel traduki / cifericigi
+
+La [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo) estas jam tradukita al multe da lingvoj, tial plej bonus se vi ne mem tradukas al via lingvo sed trovas tradukaĵon al tiu lingvo.  
+
+La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn trovitis kaj estas en la dosierujo `[materialo](materialo)`. Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu nin](mailto:georg@jaehnig.org)!
 
 # Partoj
 ## Gramatiko

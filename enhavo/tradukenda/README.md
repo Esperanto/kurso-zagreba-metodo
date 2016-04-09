@@ -11,7 +11,14 @@ Tiu ĉi dosierujo enhavas la tutan parton de la kurso, kiun oni devas traduki. D
 
 La [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo) estas jam tradukita al multe da lingvoj, tial plej bonus se vi ne mem tradukas al via lingvo sed trovas tradukaĵon al tiu lingvo.  
 
-La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn trovitis kaj estas en la dosierujo `[materialo](materialo)`. Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu nin](mailto:georg@jaehnig.org)!
+La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝas:
+
+- en la dosierujo [materialo](materialo)
+- en aliaj retpaĝoj:
+	- [angla](http://esperantofre.com/zagreb/zagreba.htm)
+	- [hispana](http://esperantofre.com/zagreb/zagrebh.htm)
+
+Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu nin](mailto:georg@jaehnig.org)!
 
 # Partoj
 ## Gramatiko

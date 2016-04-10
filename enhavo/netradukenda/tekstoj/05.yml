@@ -55,7 +55,7 @@ paragrafoj:
     -
     -
       - vid
-      - is
+      - as
     -
     -
       - bel
@@ -74,7 +74,7 @@ paragrafoj:
     -
     -
       - plaĉ
-      - is
+      - as
     -
     -
       - al
@@ -464,6 +464,7 @@ paragrafoj:
       - is
     - ':'
   -
+    - '–'
     -
     -
       - Est
@@ -513,6 +514,9 @@ paragrafoj:
     -
       - est
       - as
+    -
+    -
+      - tre
     -
     -
       - mult

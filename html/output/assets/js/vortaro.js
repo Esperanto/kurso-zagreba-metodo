@@ -5,6 +5,8 @@ var substringMatcher = function(vortlisto) {
     // an array that will be populated with substring matches
     matches = [];
 
+		q = esperantigu(q);
+
     // Search for strings that begin with the query.
     substrRegex = new RegExp('^' + q, 'i');
 

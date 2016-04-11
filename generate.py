@@ -97,7 +97,7 @@ def load(language):
             for vorto in paragrafo:
                 if type(vorto) is list:
                     for radiko in vorto:
-                        if not radiko in vortoj:
+                        if not radiko.lower() in vortoj:
                             leciono['vortoj'].append(radiko)
                             vortoj[radiko.lower()] = True
 

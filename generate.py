@@ -95,7 +95,6 @@ def load(language):
         gramatiko_titoloj = get_markdown_headlines(gramatiko_teksto)
         gramatiko_teksto = transpose_headlines(gramatiko_teksto, 2)
 
-
         gramatiko = {
             'teksto': gramatiko_teksto,
             'titoloj': gramatiko_titoloj,

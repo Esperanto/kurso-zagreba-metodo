@@ -34,3 +34,7 @@ La ciferecigo faris laŭlingve:
 
 - [Zlatko Tišljar](https://github.com/ztisljar)
 
+## Sono
+
+- Emilio Cid
+

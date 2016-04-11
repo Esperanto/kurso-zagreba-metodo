@@ -858,6 +858,10 @@ paragrafoj:
       - preskaŭ
     -
     -
+      - plen
+      - e
+    -
+    -
       - sukces
       - is
     - '.'
@@ -1365,7 +1369,7 @@ paragrafoj:
     -
     -
       - hom
-      - fort
+      - form
       - o
     - ','
     -
@@ -1648,6 +1652,7 @@ paragrafoj:
     - '?'
     - '"'
   - 
+    - '"'
     -
       - N
     -
@@ -1671,7 +1676,9 @@ paragrafoj:
       - Mi
     -
     - '…'
-    -
+    - '"'
+  -
+    - '"'
     -
       - Mi
     -

@@ -440,7 +440,7 @@ paragrafoj:
       - ist
       - o
     - '.'
-    -
+  -
     - '–'
     -
     -
@@ -485,7 +485,7 @@ paragrafoj:
       - o
       - j
     - '.'
-    -
+  -
     - '–'
     -
     -
@@ -883,6 +883,7 @@ paragrafoj:
       - ul
       - in
       - o
+    -
     - '–'
     -
     -
@@ -964,7 +965,7 @@ paragrafoj:
   -
     -
     -
-      - la
+      - La
     -
     -
       - mar
@@ -1031,7 +1032,7 @@ paragrafoj:
     - '…'
   -
     -
-      - la
+      - La
     -
     -
       - gondol
@@ -1311,6 +1312,7 @@ paragrafoj:
       - ej
       - o
       - n
+    -
     - '–'
     -
     -
@@ -1399,7 +1401,9 @@ paragrafoj:
       - help
       - o
       - n
+    -
     - '–'
+    -
     -
       - dir
       - is
@@ -1603,9 +1607,7 @@ paragrafoj:
       - o
       - n
     - '.'
-    -
-    - '–'
-    -
+  -
     -
       - Est
       - is
@@ -1761,7 +1763,7 @@ paragrafoj:
       - gondol
       - o
     - '.'
-    -
+  -
     - '–'
     -
     -

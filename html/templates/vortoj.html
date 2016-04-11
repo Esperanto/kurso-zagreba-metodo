@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+
+{% block title %}
+	{{leciono_index}}. {{leciono.teksto.titolo_string}}
+	|
+	{{enhavo.fasado['Novaj vortoj']}}
+	|
+  {{enhavo.fasado['Esperanto en 12 tagoj']}}
+{% endblock %}
+
+{% block content %}
+
+  {% include 'pager.html' %}
+
+  <h2 id="leciono{{leciono_index}}">
+    {{leciono_index}}.
+    {% for vorto in leciono.teksto.titolo %}
+      {% include 'vorto.html' %}
+    {% endfor %}
+  </h2>
+
+  {% include 'tabs.html' %}
+
+	<ul>
+		{% for radiko in leciono.vortoj -%} 
+			<li>
+				{% if radiko|lower in enhavo.vortaro -%}
+					{% set klavo = radiko|lower %}
+					<em>{{radiko|lower}}</em> 
+				{% elif radiko in enhavo.vortaro -%}
+					{% set klavo = radiko %}
+					<em>{{radiko}}</em> 
+				{% else -%}
+					{% set klavo = '' %}
+					<em>{{radiko}}</em> 
+				{% endif %} 
+				– 
+				{% include 'tradukajxo.html' %}
+			</li>
+		{% endfor %}
+	</ul>
+	
+  {% include 'pager.html' %}
+
+{% endblock %}
+

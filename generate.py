@@ -61,6 +61,7 @@ def load(language):
     enhavo['enkonduko'] = enkonduko
 
     lecionoj = []
+    vortoj = {}
 
     for i in range(1,13):
         leciono = {
@@ -88,13 +89,24 @@ def load(language):
         
         leciono['teksto']['titolo_string'] = titolo_string
 
+
+
+        leciono['vortoj'] = []
+
+        for paragrafo in leciono['teksto']['paragrafoj']:
+            for vorto in paragrafo:
+                if type(vorto) is list:
+                    for radiko in vorto:
+                        if not radiko in vortoj:
+                            leciono['vortoj'].append(radiko)
+                            vortoj[radiko] = True
+
         path = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.md'
 
         gramatiko_teksto = file(path, 'r').read()
         gramatiko_teksto = unicode(gramatiko_teksto, 'utf-8')
         gramatiko_titoloj = get_markdown_headlines(gramatiko_teksto)
         gramatiko_teksto = transpose_headlines(gramatiko_teksto, 2)
-
 
         gramatiko = {
             'teksto': gramatiko_teksto,

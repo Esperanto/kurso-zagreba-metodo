@@ -30,6 +30,7 @@ def generate_html(lingvo, enhavo, args):
 
     tabs = [
         ('teksto'    , ''           , enhavo['fasado']['Teksto']   ) , 
+        ('vortoj'    , 'vortoj/'    , enhavo['fasado']['Novaj vortoj']) , 
         ('gramatiko' , 'gramatiko/' , enhavo['fasado']['Gramatiko']) , 
         ('ekzerco1'  , 'ekzerco1/'  , enhavo['fasado']['Ekzerco 1']) , 
         ('ekzerco2'  , 'ekzerco2/'  , enhavo['fasado']['Ekzerco 2']) , 

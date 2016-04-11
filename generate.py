@@ -99,7 +99,7 @@ def load(language):
                     for radiko in vorto:
                         if not radiko in vortoj:
                             leciono['vortoj'].append(radiko)
-                            vortoj[radiko] = True
+                            vortoj[radiko.lower()] = True
 
         path = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.md'
 

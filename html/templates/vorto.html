@@ -18,9 +18,9 @@
           <td><em>{{radiko}}</em></td>
           <td>
             {% if radiko|lower in enhavo.vortaro -%}
-              {% set klavo = radiko|join|lower %}
+              {% set klavo = radiko|lower %}
             {% elif radiko in enhavo.vortaro -%}
-              {% set klavo = radiko|join %}
+              {% set klavo = radiko %}
             {% endif %} 
             {% include 'tradukajxo.html' %}
           </td>

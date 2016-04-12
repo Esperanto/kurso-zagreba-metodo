@@ -10,13 +10,13 @@
     - tagmanĝo: Mittagessen 
     - '?'
 - 
-  demando: Was willst du trinken, Tee, etwas Kaffee, oder willst du nichts?
+  demando: "Was willst du trinken: Tee, etwas Kaffee, oder willst du nichts?"
   rektatraduko:
     - Kion: Was 
     - vi: du 
     - volas: willst 
     - trinki: trinken 
-    - ',' 
+    - ':' 
     - teon: Tee 
     - ',' 
     - iom: etwas 
@@ -36,7 +36,6 @@
     - tiel: so 
     - subite: plötzlich 
     - decidis: entschiedest 
-    - ',' 
     - renovigi: renovieren 
     - vian: dein 
     - ĉambreton: Zimmerchen 

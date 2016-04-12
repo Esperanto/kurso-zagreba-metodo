@@ -1,9 +1,14 @@
-unu: ein, eine, eines, eins
+unu:
+- ein
+- eine
+- eines
+- eins
 du: zwei 
 tri: drei 
 kvar: vier 
 kvin: fünf 
 ses: sechs 
+sep: sieben
 ok: acht 
 naŭ: neun 
 dek: zehn 
@@ -13,6 +18,7 @@ dektri: dreizehn
 dekkvar: vierzehn
 dekkvin: fünfzehn
 dekses: sechszehn 
+deksep: siebzehn
 dekok: achtzehn
 deknaŭ: neunzehn
 dudek: zwanzig

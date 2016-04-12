@@ -9,4 +9,4 @@ Der Kurs besteht aus **12 Lektionen**, jede davon mit
 - einer Grammatik-Erklärung
 - und 3 Übungen.
 
-Danach kannst du das Wichtige verstehen und Sätze bilden, um Dich grundlegend auszudrücken und zu verständigen. Probier es aus!
+Danach kannst du das Wichtigste verstehen und Sätze bilden, um Dich grundlegend auszudrücken und zu verständigen. Probier es aus!

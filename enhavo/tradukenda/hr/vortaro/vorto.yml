@@ -1,4 +1,6 @@
-Esperanto: Esperanto, Hoffender
+Esperanto:
+- Esperanto
+- Hoffender
 akcepteblan: akzeptabel
 alilandaj: ausländische
 alporti: herbringen
@@ -26,7 +28,9 @@ bonvolus: würdest so gut sein
 centoj: Hunderte
 dankon: danke
 daŭrigis: fuhr fort
-denove: von neuem, wieder
+denove:
+- von neuem
+- wieder
 devojiĝis: vom Weg abkam
 dikiĝi: dick werden
 doloriga: schmerzverursachend
@@ -54,7 +58,9 @@ faligi: fuhr um
 faligis: brachte zum Stürzen
 familianoj: Familienmitglieder
 fermita: geschlossen
-fine: endlich, schließlich
+fine:
+- endlich
+- schließlich
 foresti: weg sein
 foriros: werde weggehen
 fratino: Schwester
@@ -71,8 +77,10 @@ grandula: riesige
 gravuloj: wichtige Leute
 haltigis: stoppte
 havigi: besorgen
-havindan: habenswert, würdig (Akkusativ)
-homforto: Menschenkraft
+havindan:
+- habenswert
+- würdig (Akkusativ)
+homformo: Menschenform
 hommulton: Menschenmenge
 ideoriĉan: ideenreich
 industriisto: Industrieller
@@ -99,9 +107,11 @@ kunulino: Gefährtin
 kunvenas: zusammenkommen
 laboristo: Arbeiter
 lampeto: Lämpchen
-lernanto: Lernender, Schüler
+lernanto:
+- Lernender
+- Schüler
 lernejo: Schule
-lernejonn: Schule
+lernejon: Schule
 lernolibroj: Lehrbücher
 leteroj: Briefe
 libertempo: Freizeit
@@ -113,8 +123,12 @@ malbonaj: schlechte
 malbonajn: schlechte
 malbonan: schlecht
 malbono: etwas Schlechtes
-malfacilan: schwer, kompliziert
-malfacile: schwer, kompliziert
+malfacilan:
+- schwer
+- kompliziert
+malfacile:
+- schwer
+- kompliziert
 malfeliĉo: Unglück
 malforta: schwach
 malforte: schwach
@@ -225,16 +239,26 @@ troviĝis: befand sich
 unuaj: ersten
 urbomezo: Stadtmitte
 vagonaro: Zug
-vendejo: Laden, Geschäft
-vendejon: Laden, Geschäft (Akkusativ)
+vendejo:
+- Laden
+- Geschäft
+vendejon:
+- Laden
+- Geschäft (Akkusativ)
 vendisto: Verkäufer
 vestaĵo: Kleidungsstück
-vestaĵoj: Kleidungsstücke, Sachen
-vestaĵojn: Kleidungsstücke, Sachen
+vestaĵoj:
+- Kleidungsstücke
+- Sachen
+vestaĵojn:
+- Kleidungsstücke
+- Sachen
 vestaĵon: Kleidungsstück
 veturado: Fahrt
 veturigus: würde steuern
-viaj: Deine, Eure
+viaj:
+- Deine
+- Eure
 virino: Frau
 vojaĝantoj: Reisende
 ĉambristoj: Zimmerbedienstete

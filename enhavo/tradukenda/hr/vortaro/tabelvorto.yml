@@ -1,5 +1,7 @@
 kio: was
-tio: jenes, das
+tio:
+- jenes
+- das
 io: irgendwas
 ĉio: alles
 nenio: nichts
@@ -35,7 +37,9 @@ iam: irgendwann
 neniam: nie
 kiom: wieviel
 tiom: soviel
-iom: etwas, ein wenig
+iom:
+- etwas
+- ein wenig
 ĉiom: alles
 neniom: nichts
 kies: wessen

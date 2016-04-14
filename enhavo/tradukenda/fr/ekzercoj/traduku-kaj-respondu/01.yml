@@ -1,0 +1,57 @@
+- 
+  demando: Qui est ta petite amie ?
+  rektatraduko:
+    - Kiu: Qui
+    - estas: est
+    - via: ta
+    - amikino: petite amie
+    - '?'
+- 
+  demando: Est-ce que ton amie Anna écrit maintenant dans la chambre ?
+  rektatraduko:
+    - Ĉu: Est-ce que
+    - via: ton
+    - amikino: amie
+    - Anna: Anna
+    - skribas: écrit
+    - nun: maintenant
+    - en: dans
+    - la: la 
+    - ĉambro: chambre
+    - '?'
+- 
+  demando: Est-ce que l’ami de ton père travaille dans un hôtel ?
+  rektatraduko:
+    - Ĉu: Est-ce que
+    - la: l’
+    - amiko: ami
+    - de: de
+    - via: ton
+    - patro: père
+    - laboras: travaille
+    - en: dans
+    - hôtelo: un hôtel
+    - '?'
+- 
+  demando: Qu’y-a-t-il sur le plan de travail dans ta chambre ?
+  rektatraduko:
+    - Kio: Quoi 
+    - estas: est
+    - sur: sur
+    - la: le
+    - labortablo: plan de travail
+    - en: dans
+    - nia: ta
+    - ĉambro: chambre
+    - '?'
+- 
+  demando: Est-ce qu’il y a un manuel d’espéranto sur ta table ?
+  rektatraduko:
+    - Ĉu: Est-ce que
+    - Esperanto-lernolibro: un manuel d’espéranto 
+    - estas: est / il y a
+    - sur: sur 
+    - via: ta 
+    - tablo: table
+    - '?'
+

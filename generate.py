@@ -143,8 +143,9 @@ ap.add_argument("root", help="The supposed directory root of the output. All lin
 args = ap.parse_args()
 
 lingvoj = {
-  'de': 'Deutsch',
-  'en': 'English'
+  'de': u'Deutsch',
+  'en': u'English'
+  #'es': u'Español'
 }
 
 for lingvo in lingvoj:

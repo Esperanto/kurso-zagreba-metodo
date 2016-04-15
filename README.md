@@ -8,7 +8,7 @@ Tiel oni facile kaj rapide povos krei eldonaĵojn de la kurso en HTML, EPUB, PDF
 
 ## Demonstraĵo
 
-- [Jen la germanlingva versio](http://esperanto.github.io/kurso-zagreba-metodo/html/output/de/).
+- http://learn.esperanto.com/
 
 ## Permesiloj
 

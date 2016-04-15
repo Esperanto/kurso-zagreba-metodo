@@ -1,12 +1,12 @@
 # L'Espéranto en 12 jours
-### Le plus rapide des cours pour les bases
+### Le cours le plus rapide pour apprendre les bases
 
 - Vous apprendrez les **500 mots les plus importants**
 - **Pas d'inscription nécessaire** : Cliquez simplement sur *Démarrer*
 - **Optimisé** pour les mobiles
-- Pas uniquement gratuit, mais aussi **[libre comme dans liberté] (https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Pas uniquement gratuit, mais aussi **[libre, comme dans liberté] (https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-Le cours est composé de **12 leçons**, chacune contenant
+Le cours est composé de **12 leçons**, chacune contenant :
 
 - un texte,
 - des explications grammaticales

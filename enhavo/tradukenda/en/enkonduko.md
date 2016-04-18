@@ -1,7 +1,7 @@
 - Teaches you the **most important 500 words**
 - **No registration needed**: Just click *Start*
 - **mobile-optimized** for smartphones
-- not only free as in beer but **[free as in freedom](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
 The course consists of **12 lessons**, each with
 

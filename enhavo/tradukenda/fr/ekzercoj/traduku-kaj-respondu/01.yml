@@ -20,10 +20,10 @@
     - ĉambro: chambre
     - '?'
 - 
-  demando: Est-ce que l’ami de ton père travaille dans un hôtel ?
+  demando: "Est-ce que l'ami de ton père travaille dans un hôtel ?"
   rektatraduko:
     - Ĉu: Est-ce que
-    - la: l’
+    - la: "l'"
     - amiko: ami
     - de: de
     - via: ton
@@ -33,7 +33,7 @@
     - hotelo: un hôtel
     - '?'
 - 
-  demando: Qu’y-a-t-il sur le plan de travail dans ta chambre ?
+  demando: "Qu'y-a-t-il sur le plan de travail dans notre chambre ?"
   rektatraduko:
     - Kio: Quoi 
     - estas: est
@@ -41,14 +41,14 @@
     - la: le
     - labortablo: plan de travail
     - en: dans
-    - nia: ta
+    - nia: notre
     - ĉambro: chambre
     - '?'
 - 
-  demando: Est-ce qu’il y a un manuel d’espéranto sur ta table ?
+  demando: "Est-ce qu'il y a un manuel d'espéranto sur ta table ?"
   rektatraduko:
     - Ĉu: Est-ce que
-    - Esperanto-lernolibro: un manuel d’espéranto 
+    - Esperanto-lernolibro: "un manuel d'espéranto" 
     - estas: est
     - sur: sur 
     - via: ta 

@@ -71,7 +71,7 @@ gondol: gondole
 graf: comte
 grand: grand
 grav: important
-halt: s'arrêter
+halt: "s'arrêter"
 hav: avoir
 hejm: foyer
 help: aider
@@ -141,7 +141,7 @@ met: mettre
 mez: milieu
 milit: guerre
 minut: minute
-mir: s'étonner
+mir: "s'étonner"
 moment: moment
 mon: argent
 mont: montagne

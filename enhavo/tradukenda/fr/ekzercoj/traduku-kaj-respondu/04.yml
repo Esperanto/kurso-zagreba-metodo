@@ -39,7 +39,7 @@
     - tagmanĝo: déjeuner
     - '?'
 -
-  demando: Est-ce qu’on peut fermer la porte de la chambre quand il fait froid ?
+  demando: "Est-ce qu'on peut fermer la porte de la chambre quand il fait froid ?"
   rektatraduko: 
     - Ĉu: Est-ce que
     - oni: on
@@ -56,7 +56,7 @@
     - malvarme: froid
     - '?'
 -
-  demando: Combien de temps êtes-vous en colère si on vous prend beaucoup d’argent ?
+  demando: "Combien de temps êtes-vous en colère si on vous prend beaucoup d'argent ?"
   rektatraduko: 
     - Kiel: Combien
     - longe: de temps

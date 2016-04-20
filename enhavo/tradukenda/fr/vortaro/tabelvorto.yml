@@ -7,13 +7,13 @@ io: quelque chose
 nenio: rien
 kiu: qui
 tiu: cette personne
-iu: quelqu'un
+iu: "quelqu'un"
 ĉiu: 
 - tout le monde
 - tous
 neniu:
 - personne
-- aucun d'eux
+- "aucun d'eux"
 kie: où
 tie: là
 ie: quelque part
@@ -23,12 +23,12 @@ kia: de quelle sorte
 tia: de cette sorte
 ia: une sorte de
 ĉia: de toute sorte
-nenia: d'aucune sorte
+nenia: "d'aucune sorte"
 kiel: comment
 tiel: ainsi
-iel: d'une certaine manière
+iel: "d'une certaine manière"
 ĉiel: de toute manière
-neniel: d'aucune manière
+neniel: "d'aucune manière"
 kial: pourquoi
 tial: pour cette raison
 ial: pour une certaine raison
@@ -48,6 +48,6 @@ iom: un peu
 neniom: aucune quantité
 kies: de qui
 ties: de celui-ci
-ies: à quelqu'un
+ies: "à quelqu'un"
 ĉies: à tout le monde
 nenies: à personne

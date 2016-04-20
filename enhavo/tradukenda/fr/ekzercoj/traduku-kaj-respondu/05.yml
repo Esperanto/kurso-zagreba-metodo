@@ -1,5 +1,5 @@
 -
-  demando: Est-ce que vous pouvez apprendre calmement pendant que quelqu’un chante joyeusement ?
+  demando: "Est-ce que vous pouvez apprendre calmement pendant que quelqu'un chante joyeusement ?"
   rektatraduko: 
     - Ĉu: Est-ce que
     - vi: vous
@@ -8,7 +8,7 @@
     - lerni: apprendre
     - ','
     - dum: pendant que
-    - iu: quelqu’un
+    - iu: "quelqu'un"
     - ĝoje: joyeusement
     - kantas: chante
     - '?'
@@ -34,10 +34,10 @@
     - nun: maintenant
     - '?'
 -
-  demando: Est-ce que quelqu’un vous a aidé à ouvrir la porte de la vieille maison ?
+  demando: "Est-ce que quelqu'un vous a aidé à ouvrir la porte de la vieille maison ?"
   rektatraduko: 
     - Ĉu: Est-ce que
-    - iu: quelqu’un 
+    - iu: "quelqu'un" 
     - helpis: a aidé
     - al: [à] 
     - vi: vous 
@@ -50,11 +50,11 @@
     - domo: maison
     - '?'
 -
-  demando: Pourquoi n’avez-vous pas le temps de m’écouter plus longtemps ?
+  demando: "Pourquoi n'avez-vous pas le temps de m'écouter plus longtemps ?"
   rektatraduko: 
     - Kial: Pourquoi
     - vi: vous
-    - ne: ne … pas
+    - ne: ne ... pas
     - havas: avez
     - tempon: le temps
     - aŭskulti: écouter

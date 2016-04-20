@@ -1,5 +1,5 @@
 - 
-  demando: Est-ce que l’amitié te rend plus heureux que l’amour ?
+  demando: "Est-ce que l'amitié te rend plus heureux que l'amour ?"
   rektatraduko: 
     - Ĉu: Est-ce que
     - amikeco: amitié
@@ -7,7 +7,7 @@
     - feliĉigas: rend heureux
     - vin: toi
     - ol: que
-    - la: l’
+    - la: "l'"
     - amo: amour
     - '?'
 - 
@@ -38,14 +38,14 @@
     - ŝanĝiĝis: a changé
     - '?'
 - 
-  demando: Est-ce maintenant que tu connais déjà assez bien l’espéranto ?
+  demando: "Est-ce maintenant que tu connais déjà assez bien l'espéranto ?"
   rektatraduko: 
     - Ĉu: Est-ce que
     - vi: tu
     - nun: maintenant
     - jam: déjà
     - scias: connais
-    - Esperanton: l’espéranto
+    - Esperanton: "l'espéranto"
     - sufiĉe: assez
     - bone: bien
     - '?'

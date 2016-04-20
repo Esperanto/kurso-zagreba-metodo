@@ -1,5 +1,5 @@
 - 
-  demando: Pouvez-vous apporter le médicament de ma sœur ?
+  demando: Pouvez-vous apporter le médicament de ma soeur ?
   rektatraduko: 
     - Ĉu: Est-ce que
     - vi: vous
@@ -42,13 +42,13 @@
     - gondolo: gondole
     - '?'
 - 
-  demando: Est-ce que pourra t’endormir quand ce sera silencieux ?
+  demando: "Est-ce que pourra t'endormir quand ce sera silencieux ?"
   rektatraduko: 
     - Ĉu: Est-ce que
     - vi: tu
     - povos: pourras
-    - ekdormi: '[t’] endormir'
+    - ekdormi: "[t'] endormir"
     - ',' 
     - kiam: quand 
-    - silentiĝis: ce sera silencieux (litt. c’est devenu silencieux)
+    - silentiĝis: "ce sera silencieux (litt. c'est devenu silencieux)"
     - '?'

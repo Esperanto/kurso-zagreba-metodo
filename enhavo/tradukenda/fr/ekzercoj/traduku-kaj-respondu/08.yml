@@ -10,7 +10,7 @@
     - tagmanĝo: déjeuner
     - '?'
 - 
-  demando: 'Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?'
+  demando: "Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?"
   rektatraduko: 
     - Kion: Que, quoi
     - vi: tu
@@ -67,7 +67,7 @@
     - semajnoj: semaines
     - '?'
 - 
-  demando: Est-ce que tu vois souvent le policier qui habite dans l’appartement au-dessus de toi ?
+  demando: "Est-ce que tu vois souvent le policier qui habite dans l'appartement au-dessus de toi ?"
   rektatraduko: 
     - Ĉu: Est-ce que
     - vi: tu
@@ -79,7 +79,7 @@
     - kiu: qui
     - loĝas: habite
     - en: dans 
-    - la: l’
+    - la: "l'"
     - loĝejo: appartement
     - super: au-dessus
     - vi: toi

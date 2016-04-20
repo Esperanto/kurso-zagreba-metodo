@@ -2,15 +2,32 @@
 - malamiko: ennemi
 - malantaŭ: derrière
 - antaŭvidi: prévoir
-- malrapida: lent(e)
+- malrapida:
+  - lent
+  - lente
 - trarigardi: regarder à travers
-- junulo: jeune (jeune personne)
+- junulo: jeune
 - malmulte: pas beaucoup
 - finfine: enfin
 - malriĉulo: pauvre
-- tagmanĝo: déjeuner, repas du midi
-- tralegi: lire d’un bout à l’autre
-- malnova: vieux, ancien
-- laborejo: lieu de travail
-- travidebla: transparent(e)
-- trinkebla: potable
+- tagmanĝo:
+  - déjeuner
+  - repas du midi
+- tralegi:
+  - "lire d'un bout à l'autre"
+  - parcourir
+- malnova: 
+  - vieux
+  - vieille
+  - ancien
+  - ancienne
+- laborejo:
+  - lieu de travail
+  - atelier
+  - bureau
+- travidebla:
+  - transparent
+  - transparente
+- trinkebla:
+  - potable
+  - buvable

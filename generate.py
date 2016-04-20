@@ -144,7 +144,8 @@ args = ap.parse_args()
 
 lingvoj = {
   'de': u'Deutsch',
-  'en': u'English'
+  'en': u'English',
+  'fr': u'Français'
   #'es': u'Español'
 }
 

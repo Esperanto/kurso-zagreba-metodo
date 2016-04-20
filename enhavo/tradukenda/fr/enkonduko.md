@@ -1,6 +1,3 @@
-# L'Espéranto en 12 jours
-### Le cours le plus rapide pour apprendre les bases
-
 - Vous apprendrez les **500 mots les plus importants**
 - **Pas d'inscription nécessaire** : Cliquez simplement sur *Démarrer*
 - **Optimisé** pour les mobiles

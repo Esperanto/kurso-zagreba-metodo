@@ -1,16 +1,16 @@
-- 
+-
   demando: Comment était votre ancienne maison ?
-  rektatraduko: 	
+  rektatraduko: 
     - Kia: Comment
     - estis: était
     - via: votre
     - malnova: ancienne
-    - hejmo: maison 
+    - hejmo: maison
     - '?'
-- 
+-
   demando: Quels livres as-tu lus, et est-ce qu’ils étaient bons ?
-  rektatraduko: 
-    - Kiujn: Quels 
+  rektatraduko:
+    - Kiujn: Quels
     - librojn: livres
     - vi: tu
     - legis: as lu
@@ -18,9 +18,9 @@
     - ĉu: est-ce que
     - ili: ils
     - estas: étaient
-    - bonaj: bons 
+    - bonaj: bons
     - '?'
-- 
+-
   demando: Qu’ont fait Anne et Marc dans la petite chambre de Marc ?
   rektatraduko:
     - Kion: Qu’
@@ -28,16 +28,16 @@
     - Anna: Anna
     - kaj: et
     - Marko: Marc
-    - en: dans 
+    - en: dans
     - la: la
     - malgranda: petite
     - ĉambro: chambre
     - de: de
     - Marko: Marc
     - '?'
-- 
+-
   demando: Est-ce que vous aimez lire des livres sur l’amour ?
-  rektatraduko: 
+  rektatraduko:
     - Ĉu: Est-ce que
     - vi: vous
     - ŝatas: aimez
@@ -46,20 +46,20 @@
     - pri: sur
     - amo: l’amour
     - '?'
-- 
+-
   demando: Qui ira avec vous à votre maison ?
-  rektatraduko: 
+  rektatraduko:
     - Kiu: Qui
     - iros: ira
     - kun: avec
     - vi: vous
-    - al: à 
+    - al: à
     - via: votre
     - hejmo: maison
     - '?'
-- 
+-
   demando: Comment sont les yeux de ta petite amie ?
-  rektatraduko: 
+  rektatraduko:
     - Kiaj: Comment
     - estas: sont
     - la: les

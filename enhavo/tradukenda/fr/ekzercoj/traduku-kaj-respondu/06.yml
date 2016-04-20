@@ -41,7 +41,7 @@
     - horo: heure
     - '?'
 - 
-  demando: Quand avez-vous remarqué que toute la famille m’appelle bienfaiteur ?
+  demando: "Quand avez-vous remarqué que toute la famille m'appelle bienfaiteur ?"
   rektatraduko: 
     - Kiam: Quand
     - vi: vous
@@ -56,7 +56,7 @@
     - bonfarulo: bienfaiteur
     - '?'
 - 
-  demando: Est-ce que le livret que j’ai envoyé vous a été utile ?
+  demando: "Est-ce que le livret que j'ai envoyé vous a été utile ?"
   rektatraduko: 
     - Ĉu: Est-ce que
     - la: le 

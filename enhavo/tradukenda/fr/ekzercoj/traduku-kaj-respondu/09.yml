@@ -1,5 +1,5 @@
 - 
-  demando: Qu’est-ce qui pourrait le plus réjouir tes parents ?
+  demando: "Qu'est-ce qui pourrait le plus réjouir tes parents ?"
   rektatraduko: 
     - Kio: Quoi
     - povus: pourrait
@@ -9,13 +9,13 @@
     - gepatrojn: parents
     - '?'
 - 
-  demando: Si au moins allais après l’école avec moi au centre-ville !
+  demando: "Si au moins allais après l'école avec moi au centre-ville !"
   rektatraduko: 
     - Se: Si
     - almenaŭ: au moins
     - vi: tu
     - post: après
-    - la: l’ 
+    - la: "l'"
     - lernado: école
     - irus: irais
     - kun: avec
@@ -25,7 +25,7 @@
     - urbocentron: centre-ville
     - '!'
 - 
-  demando: Où voudrais-tu voyager si tu avais suffisamment d’argent et de temps ?
+  demando: "Où voudrais-tu voyager si tu avais suffisamment d'argent et de temps ?"
   rektatraduko: 
     - Kien: Où
     - vi: tu

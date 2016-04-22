@@ -33,13 +33,13 @@
     - hotelo: un hôtel
     - '?'
 - 
-  demando: "Qu'y-a-t-il sur le plan de travail dans notre chambre ?"
+  demando: "Qu'y-a-t-il sur le bureau dans notre chambre ?"
   rektatraduko:
     - Kio: Quoi 
     - estas: est
     - sur: sur
     - la: le
-    - labortablo: plan de travail
+    - labortablo: bureau
     - en: dans
     - nia: notre
     - ĉambro: chambre

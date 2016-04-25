@@ -8,7 +8,7 @@
     - hejmo: maison
     - '?'
 -
-  demando: "Quels livres as-tu lus, et est-ce qu'ils étaient bons ?"
+  demando: "Quels livres as-tu lus, et est-ce qu'ils sont bons ?"
   rektatraduko:
     - Kiujn: Quels
     - librojn: livres
@@ -17,7 +17,7 @@
     - kaj: et
     - ĉu: est-ce que
     - ili: ils
-    - estas: étaient
+    - estas: sont
     - bonaj: bons
     - '?'
 -

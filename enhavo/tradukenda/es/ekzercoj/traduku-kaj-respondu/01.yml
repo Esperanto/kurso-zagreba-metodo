@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: ¿Quién es tu novia?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Quién
+    - estas: es
+    - via: tu
+    - amikino: novia
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: ¿Tu amiga Ana escribe ahora en la habitación?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - Ĉu: ¿ / Acaso
+    - via: tu
+    - amikino: amiga
+    - Ana: Ana
+    - skribas: escribe
+    - nun: ahora
+    - en: en
+    - la: la
+    - ĉambro: habitación
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: ¿El amigo de tu padre trabaja en un hotel?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
+    - Ĉu: ¿ / Acaso
+    - la: el
+    - amiko: amigo
+    - de: de
+    - via: tu
+    - patro: padre
+    - laboras: trabaja
+    - en: en
     - hotelo: hotel
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: ¿Qué hay sobre la mesa de trabajo de nuestra habitación?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: Qué
+    - estas: hay
+    - sur: 'sobre'
+    - la: la
+    - labortablo: mesa de trabajo
+    - en: en
+    - nia: nuestra
+    - ĉambro: habitación
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: ¿Hay un libro de texto de esperanto sobre la mesa?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: ¿ / Acaso
+    - Esperanto-lernolibro: libro de texto de esperanto
+    - estas: hay
+    - sur: 'sobre'
+    - via: tu 
+    - tablo: mesa
     - '?'
 

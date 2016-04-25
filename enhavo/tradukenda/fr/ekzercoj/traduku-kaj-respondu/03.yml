@@ -2,7 +2,7 @@
   demando: Est-ce que les serveurs dans les grands hôtels comprennent beaucoup de langues ? 
   rektatraduko:  
     - Ĉu: Est-ce que 
-    - kelneroj: les serveurs
+    - kelneroj: serveurs
     - en: dans
     - grandaj: grands
     - hoteloj: hôtels
@@ -61,7 +61,7 @@
     - gefratoj: frères et soeurs ?
     - '?'
 -
-  demando: "Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau manuel de cours ?"
+  demando: "Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau livre de cours ?"
   rektatraduko: 
     - Ĉu: Est-ce que 
     - vi: tu
@@ -69,7 +69,7 @@
     - per: avec
     - la: le 
     - nova: nouveau
-    - lernolibro: manuel de cours
+    - lernolibro: livre de cours
     - sufiĉe: assez
     - rapide: rapidement
     - lerni: apprendre

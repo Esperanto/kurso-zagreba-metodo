@@ -41,7 +41,7 @@
     - vestaĵon: vêtement
     - '?'
 - 
-  demando: "Où irez-vous dimanche si c'est (litt. ce sera) une belle journée ?"
+  demando: "Où irez-vous dimanche si c'est (litt. ce sera) une journée ensoleillée ?"
   rektatraduko: 
     - Kien: Où
     - vi: vous
@@ -50,7 +50,7 @@
     - ',' 
     - se: si
     - estos: ce sera
-    - suna: belle
+    - suna: ensoleillée
     - tago: journée
     - '?'
 - 

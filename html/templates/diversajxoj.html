@@ -13,12 +13,12 @@
 </h2>
 
 <h3>
-	{{enhavo.fasado['Pli gravaj esprimoj']}}
+	{{enhavo.fasado['Gravaj esprimoj']}}
 </h3>
 
 <ul>
 {% for esperante in enhavo.vortaro|sort %}
-	{% if enhavo.vortaro[esperante].vortspeco=='pli grava esprimo' %}
+	{% if enhavo.vortaro[esperante].vortspeco=='grava esprimo' %}
 		<li>
 			<em>{{esperante}}</em> – 
 			{% set klavo = esperante %}
@@ -47,7 +47,7 @@
 </ul>
 
 <h3>
-	{{enhavo.fasado['Nombroj']}}
+	{{enhavo.fasado['Ciferoj']}}
 </h3>
 
 <ul>
@@ -98,7 +98,7 @@
 </ul>
 
 <h3>
-	{{enhavo.fasado['Jarsezonoj']}}
+	{{enhavo.fasado['Sezonoj']}}
 </h3>
 
 <ul>

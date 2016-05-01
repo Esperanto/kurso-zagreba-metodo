@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: ¿Los camareros en los grandes hoteles entienden muchos idiomas? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: ¿ 
+    - kelneroj: Los camareros
+    - en: en
+    - grandaj: grandes
+    - hoteloj: hoteles
+    - komprenas: entienden
+    - multajn: muchos
+    - lingvojn: idiomas
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: ¿Sabes que a Anna le gusta una nueva canción sobre un rico y una chica guapa?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: ¿
+    - vi: Tú
+    - scias: sabes
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ke: que
+    - Anna: a Anna 
+    - ŝatas: le gusta
+    - novan: una nueva
+    - kanton: canción
+    - pri: sobre
+    - malriĉulo: un rico
+    - kaj: y
+    - belulino: una chica guapa
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: ¿Dónde viste al hombre y al joven que llevaban una mesa grande?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Dónde
+    - vi: tú
+    - vidis: viste
+    - la: a
+    - maljunulon: el hombre
+    - kaj: y
+    - la: el
+    - junulon: joven
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: que
+    - portis: llevaban
+    - grandan: una gran
+    - tablon: mesa
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: ¿Qué ha pasado que has venido de nuevo a nosotros sin hermanos?
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Qué
+    - okazis: ha pasado
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: que
+    - vi: tú
+    - denove: de nuevo
+    - venis: has venido
+    - al: a 
+    - ni: nosotros
+    - sen: sin
+    - gefratoj: hermanos
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: ¿Puedes aprender esperanto rápido con la ayuda de nuevo libro de texto?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: ¿
+    - vi: Tú
+    - povas: puedes
+    - rapide: rápidamente
+    - lerni: aprender
+    - Esperanton: esperanto
+    - per: con
+    - la: la
+    - helpo: ayuda
+    - de: de
+    - nova: un nuevo
+    - lernolibro: libro de texto
     - '?'

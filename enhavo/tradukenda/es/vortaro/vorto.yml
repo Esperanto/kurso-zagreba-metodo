@@ -263,55 +263,71 @@ ridetis:
 rideto: sonrisa
 riĉeco: riqueza
 riĉulo: (un) rico
-salton: jump
-saluton: hello
-samklubanoj: co-members of the club
-sekretajn: secret
-sekreton: secret
-senbrue: silently
-seninterese: disinterested
-senkolora: colorless
-sensukcese: without success
-sentimulo: fearless man
-senvorte: wordlessly
-sinjorinoj: ladies
-sinjorinon: lady
-skribotablo: desk
-soleca: lonely
-sovaĝejo: wilderness
-sportisto: sportsman
-subakvigis: to sink
-subakviĝis: to sink
-subite: suddenly
-supren: upward
-surhavas: wear
-surlokan: at this place
-teroristoj: terrorists
-tiuokaze: in that case
-travivaĵo: adventure
-tridekjara: 30-year-old
-troviĝis: was situated
-unuaj: first
-urbomezo: city center
-vagonaro: train
-vendejo: shop
-vendejon: shop
-vendisto: clerk 
-vestaĵo: clothes 
-vestaĵoj: clothes
-vestaĵojn: clothes 
-vestaĵon: clothes
-veturado:
-- drive
-- tour
-veturigus: would drive 
-viaj: your
-virino: woman
-vojaĝantoj: travellers
-ĉambristoj: chambermaids
-ĉeesto: presence
-ĉirkaŭaĵo: surrounding
-ĝenon: disturbance
-ĝustatempe: at the right time
-ŝiaj: her 
-ŝipkuron: ship race
+salton: salto
+saluton: hola
+samklubanoj: miembros del mismo club
+sekretajn: secretos/as
+sekreton: (un) secreto
+senbrue: sin ruido
+seninterese: sin interés
+senkolora: incoloro
+sensukcese: sin éxito
+sentimulo: valiente
+senvorte: sin palabras
+sinjorinoj:
+ - señoras
+ - señoritas
+sinjorinon:
+ - señora
+ - señorita
+skribotablo: escritorio
+soleca: solitario/a
+sovaĝejo: tierra salvaje
+sportisto: deportista
+subakvigis:
+ - (lo) hundió
+ - (lo) hundía
+subakviĝis
+ - se hundió
+ - se hundía
+subite:
+ - súbitamente
+ - de repente
+supren: (hacia) arriba
+surhavas: llevar (puesto)
+surlokan: del sitio
+teroristoj: terroristas
+tiuokaze: en esa ocasión
+travivaĵo: aventura
+tridekjara:
+ - de treinta años
+ - treinta años
+troviĝis:
+ - se encontró
+ - se encontraba
+unuaj: primeros/as
+urbocentro: centro de la ciudad
+vagonaro: tren
+vendejo: tienda
+vendejon: tienda
+vendisto: vendedor 
+vestaĵo: ropa 
+vestaĵoj: prendas de ropa
+vestaĵojn: prendas de ropa 
+vestaĵon: ropa
+veturado: ida*
+veturigus: llevar (a alguien) 
+viaj:
+ - tus
+ - tuyos/as
+virino: mujer
+vojaĝantoj: viajeros
+ĉambristoj: limpiadores
+ĉeesto: asistencia
+ĉirkaŭaĵo: alrededores
+ĝenon: molestia
+ĝustatempe: justo a tiempo
+ŝiaj:
+ - sus
+ - suyos
+ŝipkuron: carrera* de barcos

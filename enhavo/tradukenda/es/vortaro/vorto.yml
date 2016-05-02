@@ -198,55 +198,71 @@ malsatis:
  - tenía hambre
  - tuvo hambre
 manĝaĵo: comida
-manĝegi: to devour
-maristo: seaman
-maristoj: seamen
-mariston: seaman
-miaj: my 
-militistoj: soldiers
-monerojn: coins
-monujo: purse
-morgaŭan: tomorrow's
-mortigo: murder
-moviĝis: moved
-multekosta: expensive
-multpiedaj: many-footed
-naskiĝtaga: birthday
-naskiĝtago: birthday 
-naturaĵojn: natural things
-nehoma: non-human
-neinteresaj: uninteresting
-nokta: nightly
-novaĵoj: news
-opinion: opinion
-ordigi: to roder 
-paperoj: papers
-paperojn:  papers
-paperujon: wastebasket
-pasigos: will spend
-patrino: mother
-perdigis: withdrew
-plenigadis: filled
-plenumis: fulfilled
-plibeligis: beautified
-plimulto: majority
-policano: policeman
+manĝegi: devorar
+maristo: marinero
+maristoj: marineros
+mariston: maerineros
+miaj:
+ - mis
+ - míos
+militistoj: militares
+monerojn: monedas
+monujo: monedero
+morgaŭan: de mañana
+mortigo: suicidio
+moviĝis:
+ - se movió
+ - se movía
+multekosta: caro/a
+multpiedaj: de muchos pies
+naskiĝtaga: del cumpleaños
+naskiĝtago: cumpleaños 
+naturaĵojn: cosas naturales
+nehoma: inhumano/a
+neinteresaj: indiferente
+nokta: nocturno/a
+novaĵoj:
+ - noticias
+ - novedades
+opinion: opinión
+ordigi: ordenar 
+paperoj: papeles
+paperojn:  papeles
+paperujon: papelera
+pasigos: pasará
+patrino: madre
+perdigis:
+ - hizo perder
+ - hacía perder
+plenigadis:
+ - estuvo rellenando
+ - estuvo llenando
+plenumis:
+ - cumplió
+ - cumplía
+plibeligis:
+ - embelleció
+ - embellecía
+plimulto: mayoría
+policano: policía
 promenejo: promenade
-promeno: walk
-rapidege: very quickly
-realigi: to realize
-redonu: give back
-rekapti: to get back
-repaciĝon: reliberation
-revenis: came back
-revidi: to see again
-revido: goodbye
-ridetis: smiled
-rideto: smile
-riĉeco:
-- richness
-- wealth
-riĉulo: rich man
+promeno: paseo
+rapidege: rapidísimamente
+realigi: realizar
+redonu: devuelve
+rekapti: volver a atrapar
+repaciĝon: reconciliación
+revenis:
+ - volvió
+ - volvía
+revidi: ver de nuevo
+revido: *vuelta a ver*
+ridetis:
+ - sonrió
+ - sonreía
+rideto: sonrisa
+riĉeco: riqueza
+riĉulo: (un) rico
 salton: jump
 saluton: hello
 samklubanoj: co-members of the club

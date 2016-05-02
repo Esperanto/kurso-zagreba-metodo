@@ -10,7 +10,7 @@
     - tagmanĝo: comida
     - '?'
 - 
-  demando: ¿Qué quieres beber: té, un poco de café o no quieres nada
+  demando: '¿Qué quieres beber: té, un poco de café o no quieres nada?'
   rektatraduko: 
     - Kion: Qué
     - vi: tú

@@ -1,43 +1,32 @@
-al: 
-- to
-- in the direction of
-anstataŭ: instead of
-antaŭ:
-- before
-- in front of
-apud: next to
-da: of
+al: a
+anstataŭ: en vez de
+antaŭ: antes de
+apud: al lado de
+da: de (cantidad)
 de:
-- of
-- from
-dum: during
-ekde: since
-ekster: outside of
-el:
-- from
-- out of
-en: in
-inter: 
-- between
-- among
-je:
-- of
-- with
-- in
+- de
+- desde
+dum:
+- durante
+- mientras
+ekde: desde
+ekster: fuera de
+el: de
+en: en
+inter: entre
+je: a* (comodín)
 kontraŭ: 
-- against
-krom: 
-- besides
-- in addition to
-kun: 
-- with
-laŭ: 
-- according to
-- along
+- contra
+- en contra de
+krom:
+- además de
+- aparte de (con negación)
+kun: con
+laŭ: según
 per: 
-- by means of
-- with
-por: for
+- por medio de
+- con
+por:
 post: after
 pri:
 - about

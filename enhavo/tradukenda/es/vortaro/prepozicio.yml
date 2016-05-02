@@ -1,14 +1,16 @@
 al: a
-anstataŭ: en vez de
-antaŭ: antes de
-apud: al lado de
-da: de (cantidad)
+anstataŭ: instead of
+antaŭ:
+- before
+- in front of
+apud: next to
+da: of
 de:
-- de
-- desde
+- of
+- from
 dum:
 - durante
-- mientras
+- mediante
 ekde: desde
 ekster: fuera de
 el: de
@@ -18,7 +20,7 @@ je: a* (comodín)
 kontraŭ: 
 - contra
 - en contra de
-krom:
+krom: 
 - además de
 - aparte de (con negación)
 kun: con
@@ -27,21 +29,25 @@ per:
 - por medio de
 - con
 por:
-post: after
+- para
+- por
+post: después de
 pri:
-- about
-- concerning
-pro: because of
-sen: without
+- en cuanto a
+- sobre
+pro:
+- a causa de
+- por
+sen: sin
 sub:
-- under
-- beneath
-super: 
-- over
-- above
-sur: 'on'
-tra: through
-trans: accross
-ĉe: at
-ĉirkaŭ: arount
-ĝis: until
+- debajo de 
+- debajo
+super: en (encima, no tocando)
+sur: en (encima)
+tra: por
+trans: a través de
+ĉe:
+- en
+- por
+ĉirkaŭ: alrededor de
+ĝis: hasta

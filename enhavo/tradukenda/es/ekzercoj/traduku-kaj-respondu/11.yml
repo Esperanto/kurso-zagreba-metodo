@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: ¿Puedes traerte la medicina de mi hermana?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: ¿
+    - vi: Tú
+    - povas: puedes
+    - kunporti: traerte
+    - la: la
+    - sanigilon: medicina
+    - de: de
+    - mia: mi
+    - fratino: hermana
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: ¿Ciándo compraste ese instrumento?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Cuándo
+    - vi: tú
+    - aĉetis: compraste
+    - tiun: ese
+    - muzikilon: instrumento
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: ¿Quién usó mi llave por última vez?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Quién
+    - laste: por última vez
+    - uzis: usó
+    - mian: mi
+    - ŝlosilon: llave
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: ¿En Venecia fuiste también con góndola?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: ¿
+    - vi: Tú
+    - en: en
+    - Venecio: Venecia
+    - veturis: fuiste
+    - ankaŭ: también
+    - per: con
+    - gondolo: góndola
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: ¿Podrás quedarte dormido cuando haya silencio?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: ¿
+    - vi: Tú
+    - povos: podrás
+    - ekdormi: quedarte dormido
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: cuando 
+    - estos silento: haya silencio
     - '?'

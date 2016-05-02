@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: ¿Deseas que te enseñe mi libro más nuevo?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: ¿
+    - vi: Tú
+    - deziras: deseas
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: que 
+    - mi: yo
+    - montras: te muestre
+    - al: a
+    - vi: ti
+    - mian: mi
+    - plej: más
+    - novan: nuevo
+    - libron: libro
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: ¿Qué quieres desayunar mañana?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Qué
+    - vi: tú
+    - volas: quieres
+    - matenmanĝi: desayunar
+    - morgaŭ: mañana
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: ¿Cuándo llega Marko, a las cinco o a las ocho?
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: Cuándo
+    - Marko: Marko
+    - alvenos: llegará
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: a
+    - la: las
+    - kvina: cinco
+    - aŭ: o
+    - je: a
+    - la: las
+    - oka: ocho
+    - horo: horas
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: ¿Cuándo te diste cuenta de que la familia entera me llama benefactor?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Cuándo
+    - vi: tú
+    - rimarkis: te diste cuenta
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
+    - ke: de que
+    - la: la
+    - tuta: entera
+    - familio: familia
+    - nomas: me llama
+    - min: a mí
     - bonfarulo: benefactor
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: ¿Era útil el librito que te envié?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: ¿
+    - estis: Era
+    - utila: útil
+    - la: el 
+    - libreto: librito
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: que
+    - mi: yo
+    - sendis: te envié
+    - al: a
+    - vi: ti
     - '?'

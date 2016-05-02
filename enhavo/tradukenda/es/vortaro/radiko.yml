@@ -1,141 +1,155 @@
-afer: matter
-agrabl: pleasant
-akcept: accept
-akv: water
-ali: another
-alt: high
-am: love
+afer:
+ - asunto
+ - cosa
+agrabl: agradable
+akcept: aceptar
+akv: agua
+ali: otro/a
+alt: alto/a
+am: amar
 amas:
-- mass
-- crowd
-amik: friend
-arb: tree
-aspekt:
-- look
-- seem
-atend: to wait
-atent: pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
+- multitud
+- masa
+amik: amigo
+arb: árbol
+aspekt: parecer (aspecto)
+atend: esperar
+atent:
+ - estar atento
+ - prestar atención
+aĉet: comprar
+aŭd: oír
+aŭt: coche
+aŭtoritat: autoridad
+bedaŭr: lamentar
+bel:
+ - bonito/a
+ - bello/a
+ - lindo/a
 best: animal
-bezon: to need
-bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: must
-dezir: to wish
-diabl: devil
-dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
+bezon: necesitar
+bien: terreno
+bon: bueno/a
+branĉ: rama
+bru: ruido
+buŝ: boca
+cert:
+ - cierto/a
+ - seguro/a
+dank: agradecer (a)
+daŭr: durar
+decid: decidir
+demand: preguntar
+dev:
+ - tener que
+ - deber
+dezir: desear
+diabl: diablo
+dik: gordo
+dimanĉ: domingo
+dir: decir
+direkt: dirección
 doktor: doctor
-dolar: dollar
-dolor:
-- pain
-- to hurt
-dolĉ: sweet
-dom: house
-don: to give
-dorm: sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
+dolar: dólar
+dolor: doler
+dolĉ: dulce
+dom: asa
+don: dar
+dorm: dormir
+doĝ: dux
+edz:
+ - esposo
+ - marido
+efektiv: efectivo
+ekskurs: excursión
+esper: esperar (esperanza)
+est:
+ - ser
+ - estar
+ - haber
+facil: fácil
+fakt: hecho
+fal: caer
+famili: familiar
+far: hacer
 fart:
-- feel
-- be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
-foj:
-- time
-- occasion
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
-gondol: gondola
-graf:
-- count
-- earl
+- estar
+- sentirse
+feliĉ: feliz
+ferm: cerrar
+fin: acabar
+flank: lado
+foj: vez
+forges: olvidar
+form: forma
+fort: fuerte
+fot: fotografía
+frat: hermano
+fru: temprano/a
+fuŝ: hacer una chapuza
+gondol: góndola
+graf: conde
 grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
+- grande
+- gran
+grav: importante
+halt: parar(se)
+hav: tener
+hejm: casa
+help: ayudar
+hom:
+ - persona
+ - ser humano
+hor: horo
 hotel: hotel
 ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
+industri: industria 
+instru: enseñae
+interes: interesar
+invit: invitar
+ir: ir
+itali: Italia
+jar: año
+jun: joven
+kaf: café
+kalv: calvo/a
+kap: cabeza
+kapabl: capaz
+kapt:
+ - atrapar
+ - capturar
+kar: querido/a
+kastel: castillo
+kav: cavidad
+kelk: alguno/a/os/as
+kelner: camarero/a
+klar: claro
 klub: club
-knab: boy
-koler: anger
+knab: chico
+koler: estar enfadado
 kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
+komenc: empezar
+kompren: entender
+kon: conocer
+kontent: contento
+kontrol:
+ - controlar
+ - comprobar
+kor: corazón
+korp: cuerpo
+kost: costar
+kri: gritar
+kuir: cocinar
+kuk:
+ - pastel
+ - torta
+kur: correr
+labor: trabajar
+lakt: leche
+lamp: lámpara
+land:
+ - país
+ - territorio
 larĝ: wide
 last: last
 laŭt: loud

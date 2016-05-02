@@ -150,55 +150,63 @@ lamp: lámpara
 land:
  - país
  - territorio
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: to need
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
-opini: opinion
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
+larĝ: ancho
+last: último
+laŭt: fuerte
+lecion:
+ - lección
+ - clase
+leg: leer
+lern: aprender
+leter: carta
+liber: libre
+libr: libro
+lok: lugar
+long: largo/a
+lud: jugar
+lum: luz
+man: mano
+mank: faltar
+manĝ: comer
+mar: mar
+maten: mañana
+memor: recordar
+met:
+ - poner
+ - meter
+mez: medio/a
+milit: guerra
+minut: minuto
+mir: maravillarse
+moment: momento
+mon: dinero
+mont: montaña
+montr:
+ - mostrar
+ - enseñar
+mort: morir
+mov: mover
+mult: mucho/a
+muzik: música
+nask: parir
+natur: naturaleza
+neces: necesario/a
+nokt: noche
+nom: nombre
+not: nota
+nov: nuevo
+odor: oler
+oft: a menudo
+okaz:
+ - ocurrir
+ - pasar
+okul: ojo
+onkl: tío
+opini: opinar
+ord: ordenar
+orel: oreja
+pac: paz
+pag: pagar
 pan: bread
 paper: paper
 pardon: to forgive

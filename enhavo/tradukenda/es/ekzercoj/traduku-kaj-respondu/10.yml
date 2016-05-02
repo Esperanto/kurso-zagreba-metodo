@@ -1,51 +1,51 @@
 - 
-  demando: Does friendship make you more happy than love does?
+  demando: ¿La amistad te hace más feliz que el amor?
   rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+    - Ĉu: ¿
+    - amikeco: La amistad
+    - pli: más
+    - feliĉigas: te hace feliz
+    - vin: a ti
+    - ol: que
+    - la: el
+    - amo: amor
     - '?'
 - 
-  demando: How often do you write letters to your girlfriends in Italy?
+  demando: ¿Con qué frecuencia escribes cartas a tus amigas en Italia?
   rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
+    - Kiom: Cómo de
+    - ofte: frecuentemente
+    - vi: tú
+    - skribas: escribes
+    - leterojn: cartas
+    - al: a
+    - viaj: tus
+    - amikinoj: amigas
+    - en: en
+    - Italio: Italia
     - '?'
 - 
-  demando: Has the relationship between you and your teacher changed?
+  demando: ¿La relación entre tu profesor y tú ha cambiado?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+    - Ĉu: ¿
+    - la: La
+    - rilato: relación
+    - inter: entre
+    - via: tu
+    - instruisto: profesor
+    - kaj: y
+    - vi: tú
+    - ŝanĝiĝis: ha cambiado
     - '?'
 - 
-  demando: Do you now already know Esperanto well enough?
+  demando: ¿Ahora ya sabes esperanto bastante bien?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - Ĉu: ¿
+    - vi: Tú
+    - nun: ahora
+    - jam: ya
+    - scias: sabes
+    - Esperanton: esperanto
+    - sufiĉe: bastante
+    - bone: bien
     - '?'

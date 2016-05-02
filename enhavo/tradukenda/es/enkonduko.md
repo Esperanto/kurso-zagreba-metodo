@@ -3,7 +3,7 @@
 - **Acceso optimizado** para teléfonos móviles
 - No solo es gratis, sino que además **[se puede utilizar en otros proyectos](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-El curso tiene **12 lecciones**, cada una con
+El curso tiene **12 lecciones**, cada una con:
 
 - un texto
 - una explicación gramatical

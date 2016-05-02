@@ -207,133 +207,142 @@ ord: ordenar
 orel: oreja
 pac: paz
 pag: pagar
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
+pan: pan
+paper: papel
+pardon: perdonar
+parol: hablar
+part: parte
+pas: pasar
+patr: padre
+paŝ: paso
+pens: pensar
+perd: perder
+person: persona
+pet: pedir
+pez: pesar
+pied: pie
+plac: plaza
+plan: plan
+plaĉ:
+ - agradar
+ - gustar
+plen: lleno/a
+polic: policía
+pord: puerta
+port:
+ - llevar
+ - traer
+pov: poder
+pren: coger
+pret:
+ - listo
+ - preparado
+prezent: presentar
+problem: problema
+proksim: cercano/a
+promen: pasear
+propon: proponer
+prov: intentar
+rajt: tener derecho (a)
+rapid: rápido/a
+raport: informar
 real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: joke
-si: reflexive pronoun
-sid: to sit
-silent: silent
+rekt: directo/a
+renkont: encontrarse (a)
+respekt: respetar
+respond: responder
+rest: quedarse
+ricev: recibir
+rid: reír
+rigard: mirar
+riĉ: rico/a
+rol: papel
+ruĝ: rojo/a
+salt: saltar
+salut: saludo
+sam: mismo/a
+san: sano/a
+saĝ: sabio/a
+sci: saber
+sek: seco/a
+sekret: secreto
+sekv: seguir
+semajn: semana
+send: enviar
+serĉ: buscar
+si: pronombre reflexivo
+sid: estar sentado
+silent: callar
 simil: similar
-sinjor:
-- gentleman
-- Mr.
-situaci: sitation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
+sinjor: señor
+situaci: situación
+skrib: escribir
+sol: solo/a
+son: sonar
+sovaĝ: salvaje
+sport: deporte
 star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: hold
+strat: calle
+subit:
+ - súbito
+sufiĉ:
+ - suficiente
+ - bastantes
+sukces: tener éxito
+sun: sol
+supr: arriba
+tabl: mesa 
+tag: día
+te: té
+telefon: teléfono
+temp: tiempo
+temperatur: temperatura
+ten: sostener
 teror: terror
-tim: fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to travel
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: journey
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
-ĝen:
-- to distrub
-- to bother
+tim:
+ - temer
+ - tener miedo
+ton: nota
+trankvil: tranquilo/a
+trink: beber
+trov: encontrar
+turk: turco/a
+tuŝ: tocar
+urb: ciudad
+util: útil
+uz: usar
+vagon: vagón
+varm: caliente
+ven: venir
+vend: vender
+veneci: Venecia
+ver: verdad
+vesper: tarde
+vest: vestir
+vetur: ir (con medio de transporte)
+vid: ver
+vin: vino
+vir: hombre
+viv: vivir
+vizaĝ: cara
+vizit: visitar
+voj: camino
+vojaĝ: viajar
+vok: llamar
+vol: querer
+vort: palabra
+voĉ: voz
+zorg:
+ - preocuparse
+ - encargarse
+ĉambr: habitación
+ĉef: jefe
+ĝen: molestar
 ĝeneral: general
-ĝoj: glad
-ĝust: to correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+ĝoj: contento/a
+ĝust: correcto/a
+ĵet: lanzar
+ŝajn: parecer
+ŝanĝ: cambiar
+ŝat: gustar
+ŝip: barco

@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: Bagaimana rumah lama awak seperti ?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: bagaimana
+    - estis: 
+    - via: awak
+    - malnova: lama
+    - hejmo: rumah
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: Buku-buku apa telah awak membaca, dan adakah mereka yang baik?
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: apa
+    - librojn: buku-buku
+    - vi: awak
+    - legis: membaca
+    - kaj: dan
+    - ĉu: adakah
+    - ili: mereka
+    - estas: 
+    - bonaj: baik
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: "Apa yang Anna dan Mark lakukan di bilik kecil Mark ?"
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kion: Apa
+    - faris: lakukan
     - Anna: Anna
-    - kaj: and
+    - kaj: dan
     - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
+    - en: di
+    - la: 
+    - malgranda: kecil
+    - ĉambro: bilik
+    - de: 
     - Marko: Mark
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Adakah awak suka membaca buku-buku tentang cinta ?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: Adakah
+    - vi: awak
+    - ŝatas: suka
+    - legi: membaca
+    - librojn: buku-buku
+    - pri: tentang
+    - amo: cinta
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Siapakah yang akan pergi dengan awak ke rumah awak ?
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: Siapakah
+    - iros: akan pergi
+    - kun: dengan
+    - vi: awak
+    - al: ke
+    - via: awak
+    - hejmo: rumah
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "Bagaimanakah mata teman wanita awak seperti?"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: Bagaimanakah seperti
+    - estas: 
+    - la: 
+    - okuloj: mata
+    - de: 
+    - via: awak
+    - amikino: teman
     - '?'

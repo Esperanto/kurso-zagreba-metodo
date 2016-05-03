@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: imbuhan belakang untuk menjadikan kata kerja menujukkan perbuatan aktif kini
+int: imbuhan belakang unutk menjadikan kata kerja menujukkan perbuatan telah berlalu
+ont: imbuhan belakang untuk menjadikan kata kerja menujukkan perbuatan akan belaku
+unt: imbuhan belakang untuk menjadikan kata kerja menujukkan perbuatan bersyarat kini
+at:  imbuhan belakang untuk menjadikan kata kerja pasif menujukkan perbuatan aktif kini
+it:  imbuhan belakang untuk menjadikan kata kerja pasif menujukkan perbuatan telah berlalu
+ot:  imbuhan belakang untuk menjadikan kata kerja pasif menujukkan perbuatan akan berlaku
+ut:  imbuhan belakang untuk menjadikan kata kerja pasif menujukkan perbuatan bersyarat

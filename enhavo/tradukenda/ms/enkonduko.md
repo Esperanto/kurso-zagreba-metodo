@@ -1,12 +1,12 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Mengajar anda yang **paling penting 500 perkataan**. 
+- **Tidak perlu mendaftar **: Hanya klik  *Mula*
+- **Boleh belajar melalui telefo bimbit
+- percuma dan boleh diguna di **[projek lain ](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-The course consists of **12 lessons**, each with
+Kursus ini mengandungi **12 perlajaran**, setiap pelajaran disediakan
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+- satu teks
+- satu penjelasan tatabahasa
+- dan 3 latihan
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+Anda boleh membuat ayat-ayat untuk berkomunikasi dengan penutur Bahasa Esperanto di dunia setelah anda tamat kursus ini. Cubalah !

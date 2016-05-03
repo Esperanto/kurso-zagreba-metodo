@@ -1,4 +1,4 @@
-- Mengajar anda menguasia **500 perkataan** yang paling penting
+- Mengajar anda menguasai **500 perkataan** yang paling penting
 - **Tidak perlu mendaftar **: Hanya klik  *Mula*
 - **Boleh belajar melalui telefo bimbit
 - percuma dan boleh diguna di **[projek lain ](https://github.com/Esperanto/kurso-zagreba-metodo)**

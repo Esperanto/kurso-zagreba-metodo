@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Adakah anda ingin saya untuk menunjukkan kepada anda buku terbaru saya ?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: Adakah
+    - vi: anda
+    - deziras: ingin
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: 
+    - mi: saya
+    - montras: menunjukkan
+    - al: kepada
+    - vi: anda
+    - mian: saya
+    - plej: ter
+    - novan: baru
+    - libron: buku
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Apa yang anda mahu untuk sarapan pagi esok?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Apa
+    - vi: anda
+    - volas: mahu
+    - morgaŭ: esok
+    - matenmanĝi: sarapan pagi
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: "Bilakah Mark akan tiba, pada pukul lima atau lapan?"
   rektatraduko: 
-    - Kiam: When
+    - Kiam: Bilakah
     - Marko: Mark
-    - alvenos: will arrive
+    - alvenos: akan tiba
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: pada
+    - la: 
+    - kvina: kelima
+    - aŭ: atau
+    - je: pada
+    - la: 
+    - oka: kelapan
+    - horo: jam
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Bilakah anda perasan bahawa seluruh keluarga memanggil saya dermawan?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Bilakah
+    - vi: anda
+    - rimarkis: perasan
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: bahawa
+    - la: 
+    - tuta: seluruh
+    - familio: keluarga
+    - nomas: memanggil
+    - min: saya
+    - bonfarulo: dermanwan
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Adakah buku kecil yang saya menghantarkan berguna kepada anda?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Adakah
+    - la: 
+    - libreto: buku kecil
+    - estis: 
+    - utila: berguna
+    - al: kepada
+    - vi: anda
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: 
+    - mi: saya
+    - sendis: menghantarkan
     - '?'

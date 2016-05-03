@@ -1,73 +1,73 @@
 -
-  demando: When am I going to see you again?
+  demando: Bilakah saya akan berjumpa awak lagi?
   rektatraduko: 
-    - Kiam: When
-    - mi: I  
-    - revidos: am going to see again
-    - vin: you
+    - Kiam: Bilakah
+    - mi: saya
+    - revidos: akan berjumpa lagi
+    - vin: awak
     - '?'
 -
-  demando: How long have you been learning the internation language?
+  demando: Berapa lama awak telah mempelajari bahasa antarabangsa?
   rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - lernas: learn
-    - la: the 
-    - Internacian: international
-    - Lingvon: language
+    - Kiel: berapa lama
+    - longe: 
+    - vi: awak
+    - lernas: mempelajari
+    - la: 
+    - Internacian: antarabangsa
+    - Lingvon: bahasa
     - '?'
 -
-  demando: Where is my new book with photographs?
+  demando: Mana buku baru saya dengan gambar-gambar ?
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - mia: my
-    - nova: new
-    - libro: book
-    - kun: with
-    - fotoj: photographs
+    - Kie: Mana
+    - estas: 
+    - mia: saya
+    - nova: baru
+    - libro: buku
+    - kun: dengan
+    - fotoj: gambar-gambar
     - '?'
 -
-  demando: Where (where-to) will you go after lunch?
+  demando: Ke mana akan awak pergi selepas makan tengah hari?
   rektatraduko: 
-    - Kien: Where-to
-    - vi: you
-    - iros: will go
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kien: ke mana
+    - vi: awak
+    - iros: akan pergi
+    - post: selepas
+    - la: 
+    - tagmanĝo: makan tengah hari
     - '?'
 -
-  demando: Can one close the door of the room when it is cold?
+  demando: Bolehkah seseorang menutup pintu bilik apabila ia sejuk?
   rektatraduko: 
-    - Ĉu: Whether
-    - oni: one
-    - povas: can 
-    - fermi: close
-    - la: the
-    - pordon: door
-    - de: of 
-    - la: the
-    - ĉambro: room
+    - Ĉu: Bolehkah
+    - oni: seseorang
+    - povas: boleh
+    - fermi: menutup
+    - la: 
+    - pordon: pintu
+    - de: 
+    - la: 
+    - ĉambro: bilik
     - ','
-    - kiam: when
-    - estas: is
-    - malvarme: cold
+    - kiam: apabila
+    - estas: 
+    - malvarme: sejuk
     - '?'
 -
-  demando: How long are you angry for if people take a lot of money from you?
+  demando: Berapa lama awak marah jika orang mengambil wang yang banyak daripada awak ?
   rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - koleras: are angry
+    - Kiel: bagaimana
+    - longe: lama
+    - vi: awak
+    - koleras: marah
     - ','
-    - se: if
-    - oni: one
-    - forprenas: takes away
-    - de: from
-    - vi: you
-    - multan: a lot of
-    - monon: money
+    - se: jika
+    - oni: orang
+    - forprenas: mengambil
+    - de: daripada
+    - vi: awak
+    - multan: banyak
+    - monon: wang
     - '?'

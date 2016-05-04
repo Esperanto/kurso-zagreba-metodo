@@ -146,7 +146,8 @@ lingvoj = {
   'de': u'Deutsch',
   'en': u'English',
   'fr': u'Français',
-  'es': u'Español'
+  'es': u'Español',
+  'ms': u'Bahasa Melayu'
 }
 
 for lingvo in lingvoj:

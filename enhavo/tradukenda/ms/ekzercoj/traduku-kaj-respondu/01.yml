@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: Siapa teman wanita anda?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Siapa
+    - estas: 
+    - via: anda
+    - amikino: teman wanita
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Adakah rakan anda Anna kini menulis di dalam bilik ?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
+    - Ĉu: Adakah
+    - via: anda
+    - amikino: rakan
     - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - skribas: menulis
+    - nun: kini
+    - en: di
+    - la: dalam
+    - ĉambro: bilik
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Adakah kawan bapa anda bekerja di sebuah hotel?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: Adalah
+    - la: 
+    - amiko: kawan
+    - de: 
+    - via: anda
+    - patro: bapa
+    - laboras: bekerja
+    - en: di
+    - hotelo: sebuah hotel
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: Apa yang ada di atas meja kerja di dalam bilik kita ?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: Apa
+    - estas: 
+    - sur: atas
+    - la: 
+    - labortablo: meja kerja
+    - en: di
+    - nia: kita
+    - ĉambro: bilik
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Adakah terdapat buku teks Esperanto di atas meja anda ?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: Adakah
+    - Esperanto-lernolibro: buku teks Esperanto
+    - estas: 
+    - sur: atas
+    - via: anda
+    - tablo: meja
     - '?'
 

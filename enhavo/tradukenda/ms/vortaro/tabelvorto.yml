@@ -1,59 +1,57 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
-kiu:
-- who
-- which
-tiu:
-- that person
-- that one
-iu: someone
+kio: apa
+tio: itu
+io: sesuatu
+ĉio: semua
+nenio: tidak ada apa-apa
+kiu: siapa
+tiu: 
+- itu orang
+- itu barang
+iu: seseorang
 ĉiu:
-- everyone
-- every
+- semua orang
+- semua
 neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
+- tidak orang
+- tidak ada mereka
+kie: di mana
+tie: di sana
+ie: di suatu tempat
+ĉie: semua tempat
+nenie: di mana-mana
+kia: apa jenis
+tia: jenis ini
+ia: beberapa jenis
+ĉia: semua jenis
+nenia: tiada jenis
+kiel: begaimana
+tiel: begini
+iel: dalam sesuatu cara
+ĉiel: semua cara
+neniel: tidak ada cara
+kial: kenapa
+tial: untuk alasan itu
+ial: untuk alasan lain
+ĉial: untuk semua alasan
+nenial: untuk tidak ada alasan
+kiam: bila
+tiam: masa itu
+iam: sewaktu
+ĉiam: selalu
+neniam: tidak pernah
+kiom: berapa
+tiom: begitu banyak
 iom: 
-- to some extent
-- a certain amount
+- sehingga satu tahap
+- jumlah tertentu
 ĉiom: 
-- all of it
-- the whole amount
+- semua
+- jumlah keseluruhan
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- tidak ada 
+- tidak ada jumlah
+kies: siapa punya
+ties: orang lain punya
+ies: seseorang punya
+ĉies: semua orang punya
+nenies: tidak ada orang punya

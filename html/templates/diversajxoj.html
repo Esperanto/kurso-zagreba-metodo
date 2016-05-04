@@ -52,7 +52,7 @@
 
 <ul>
 {% for esperante in enhavo.vortaro|sort %}
-	{% if enhavo.vortaro[esperante].vortspeco=='nombro' %}
+	{% if enhavo.vortaro[esperante].vortspeco=='cifero' %}
 		<li>
 			<em>{{esperante}}</em> – 
 			{% set klavo = esperante %}
@@ -103,7 +103,7 @@
 
 <ul>
 {% for esperante in enhavo.vortaro|sort %}
-	{% if enhavo.vortaro[esperante].vortspeco=='jarsezono' %}
+	{% if enhavo.vortaro[esperante].vortspeco=='sezono' %}
 		<li>
 			<em>{{esperante}}</em> – 
 			{% set klavo = esperante %}

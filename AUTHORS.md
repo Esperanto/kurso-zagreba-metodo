@@ -30,6 +30,10 @@ La ciferecigo faris laŭlingve:
 - [Axel Rousseau](https://github.com/axel584)
 - [Emmanuelle Richard](https://github.com/emmrichard)
 
+### Hispana
+
+- [Enric Baltasar](https://github.com/EnricBaltasar/)
+
 ### Kroata
 
 - [Zlatko Tišljar](https://github.com/ztisljar)

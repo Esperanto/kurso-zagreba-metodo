@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Adakah pelayan di hotel-hotel besar memahami banyak bahasa ? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: Adakah
+    - kelneroj: pelayan
+    - en: di
+    - grandaj: besar
+    - hoteloj: hotel-hotel
+    - komprenas: memahami
+    - multajn: banyak
+    - lingvojn: bahasa
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Adakah anda tahu bahawa Anna suka lagu baru tentang seorang lelaki miskin dan seorang gadis cantik?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: Adakah
+    - vi: anda
+    - scias: tahu
     - ','
-    - ĉu: whether
+    - ĉu: adakah
     - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ŝatas: suka
+    - la: 
+    - novan: baru
+    - kanton: lagu
+    - pri: tentang
+    - malriĉulo: seorang lelaki miskin
+    - kaj: dan
+    - belulino: seorang gadis cantik
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Di mana anda telah melihat seorang lelaki tua dan seorang lelaki muda yang telah membawa meja besar?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Di mana
+    - vi: anda
+    - vidis: telah melihat
+    - la: 
+    - maljunulon: lelaki tua
+    - kaj: dan
+    - la: 
+    - junulon: lelaki muda
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: 
+    - portis: telah membawa
+    - grandan: besar
+    - tablon: meja
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Bagaimana ia berlaku bahawa anda sekali lagi datang kepada kami tanpa adik beradik?
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Bagaimana
+    - okazis: ia berlaku
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: bahawa
+    - vi: anda
+    - denove: sekali lagi
+    - venis: datang
+    - al: ke
+    - ni: kami
+    - sen: tanpa
+    - gefratoj: adik beradaik
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Bolehkah anda belajar Esperanto agak cepat dengan bantuan buku teks baru?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
+    - Ĉu: Bolehkah
+    - vi: anda
+    - povas: boleh
+    - per: dengan bantuan
+    - la: 
+    - nova: baru
+    - lernolibro: buku teks
+    - sufiĉe: cukup
+    - rapide: cepat
+    - lerni: belajar
     - Esperanton: Esperanto
     - '?'

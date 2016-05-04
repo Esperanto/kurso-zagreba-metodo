@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Bolehkah anda membawa ubat kakak saya ?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
+    - Ĉu: 
+    - vi: awak
+    - povas: boleh
+    - kunporti: membawa
+    - la: 
+    - sanigilon: ubat
     - de: of
-    - mia: my
-    - fratino: sister
+    - mia: saya
+    - fratino: kakak
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: Bila awak membeli alat muzik itu ?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Bila
+    - vi: awak
+    - aĉetis: membeli
+    - tiun: itu
+    - muzikilon: alat muzik
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: Siapa yang telah menggunakan kunci saya kali terakhir?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Siapa
+    - laste: kali terakhir
+    - uzis: menggunakan
+    - mian: saya
+    - ŝlosilon: kunci
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Adakah awak menggunakan gondola juga bila melakukan perjalanan di Venice ?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
+    - Ĉu: 
+    - vi: awak
+    - en: di
     - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
+    - veturis: perjalanan
+    - ankaŭ: juga
+    - per: 
     - gondolo: gondola
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Bolehkah awak akan boleh tidur apabila ia menjadi sunyi ?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: Bolehkah
+    - vi: awak
+    - povos: akan boleh
+    - ekdormi: tidur
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: apabila
+    - silentiĝis: sunyi
     - '?'

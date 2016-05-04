@@ -1,8 +1,8 @@
 - 
-  demando: Siapa teman wanita anda?
+  demando: Siapa ialah teman wanita anda?
   rektatraduko:
     - Kiu: Siapa
-    - estas: 
+    - estas: ialah
     - via: anda
     - amikino: teman wanita
     - '?'
@@ -20,10 +20,10 @@
     - ĉambro: bilik
     - '?'
 - 
-  demando: Adakah kawan bapa anda bekerja di sebuah hotel?
+  demando: Adakah itu kawan bapa anda bekerja di sebuah hotel?
   rektatraduko:
     - Ĉu: Adalah
-    - la: 
+    - la: itu
     - amiko: kawan
     - de: 
     - via: anda

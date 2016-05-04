@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: 在大酒店的服务员是否懂得多种语文？
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: 是否
+    - kelneroj: 服务员
+    - en: 在
+    - grandaj: 大
+    - hoteloj: 酒店
+    - komprenas: 懂得
+    - multajn: 多
+    - lingvojn: 语文
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: 你是否知道安娜喜欢那首新歌是关于一个穷汉子和一个美丽的姑娘？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: 是否
+    - vi: 你
+    - scias: 知道
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ĉu: 是否
+    - Anna: 安娜
+    - ŝatas: 喜欢
+    - la: 那
+    - novan: 新
+    - kanton: 歌
+    - pri: 关于
+    - malriĉulo: 一个穷汉子
+    - kaj: 和
+    - belulino: 一个美丽的姑娘
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando:  你在哪里曾看见那个老人和那个年轻人。他们抬举一张大桌子？
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: 哪里
+    - vi: 你
+    - vidis: 曾看见
+    - la: 那
+    - maljunulon: 老人
+    - kaj: 和
+    - la: 那
+    - junulon: 年轻人
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: 他们
+    - portis: 抬举
+    - grandan: 大
+    - tablon: 桌子
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: 什么事情发生了，那你再次没有和兄弟姐妹到我们这里来？
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: 什么事
+    - okazis: 发生
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: 那
+    - vi: 你
+    - denove: 再次
+    - venis: 来
+    - al: 到
+    - ni: 我们
+    - sen: 没有
+    - gefratoj:兄弟姐妹
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: 你是否可以通过那本新课本适度快速学习世界语？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: 是否
+    - vi: 你
+    - povas: 可以
+    - per: 通过
+    - la: 那本
+    - nova: 新
+    - lernolibro: 课本
+    - sufiĉe: 适度
+    - rapide: 快速
+    - lerni: 学习
+    - Esperanton: 世界语
     - '?'

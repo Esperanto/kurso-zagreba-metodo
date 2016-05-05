@@ -7,11 +7,11 @@
     - amikino: teman wanita
     - '?'
 - 
-  demando: Adakah rakan anda Anna kini menulis di dalam bilik ?
+  demando: Adakah kawan wanita anda Anna kini menulis di dalam bilik ?
   rektatraduko:
     - Ĉu: Adakah
     - via: anda
-    - amikino: rakan
+    - amikino: kawan wanita
     - Anna: Anna
     - skribas: menulis
     - nun: kini
@@ -20,12 +20,12 @@
     - ĉambro: bilik
     - '?'
 - 
-  demando: Adakah itu kawan bapa anda bekerja di sebuah hotel?
+  demando: Adakah bapa kawan anda bekerja di sebuah hotel?
   rektatraduko:
     - Ĉu: Adakah
     - la: itu
     - amiko: kawan
-    - de: 
+    - de: daripada
     - via: anda
     - patro: bapa
     - laboras: bekerja
@@ -36,20 +36,20 @@
   demando: Apa yang ada di atas meja kerja di dalam bilik kita ?
   rektatraduko:
     - Kio: Apa
-    - estas: 
+    - estas: ada
     - sur: atas
-    - la: 
+    - la: itu
     - labortablo: meja kerja
     - en: di
     - nia: kita
     - ĉambro: bilik
     - '?'
 - 
-  demando: Adakah terdapat buku teks Esperanto di atas meja anda ?
+  demando: Adakah buku teks Esperanto di atas meja anda ?
   rektatraduko:
     - Ĉu: Adakah
     - Esperanto-lernolibro: buku teks Esperanto
-    - estas: 
+    - estas: ialah
     - sur: atas
     - via: anda
     - tablo: meja

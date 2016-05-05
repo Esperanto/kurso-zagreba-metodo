@@ -1,12 +1,12 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- 教导你 **最重要的500个字**
+- **无需注册**: 只是点击 *开始*
+- **移动手机** 可以使用
+- 不单是免费, 也可以 **[免费使用其他项目](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-The course consists of **12 lessons**, each with
+此课程备用 **12课**, 每课有
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+- 一篇文章
+- 语法解释
+- 3 份练习
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+完成此课程后，你理解最重要的语文构造，可以自组句子，表达自己。 尝试一下不？

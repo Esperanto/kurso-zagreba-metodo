@@ -3,10 +3,10 @@
   rektatraduko: 
     - Kiu: Siapa
     - purigos: akan membersihkan
-    - la: 
+    - la: itu,ini
     - kuirejon: dapur
     - post: selepas
-    - la: 
+    - la: itu,ini
     - tagmanĝo: makan tengah hari
     - '?'
 - 
@@ -20,38 +20,38 @@
     - teon: teh
     - ',' 
     - iom: sedikit
-    - da: 
+    - da: amaun
     - kafo: kopi
     - aŭ: atau
-    - ĉu: 
+    - ĉu: siapakah,bolehkah
     - vi: awak
     - volas: mahu
     - nenion: tidak ada apa 
     - '?'
 - 
-  demando: Kenapa kamu tiba-tiba membuat keputusan untuk mengubah suai bilik kecil awak ?
+  demando: Kenapa kamu begitu tiba-tiba membuat keputusan untuk mengubah suai bilik kecil awak ?
   rektatraduko: 
     - Kial: Kenapa
     - vi: kamu
-    - tiel: 
+    - tiel: begitu
     - subite: tiba-tiba
-    - decidis: membuat keputusan
+    - decidis: telah membuat keputusan
     - renovigi: mengubah suai
-    - vian: awak
+    - vian: awak punya
     - ĉambreton: bilik kecil
     - '?'
 - 
   demando: Siapakah awak telah memberikan gelas wain bersih ?
   rektatraduko: 
-    - Al: 
+    - Al: kepada
     - kiu: siapa
     - vi: awak
     - donis: telah memberikan
-    - la: 
+    - la: itu,ini
     - purajn: bersih
     - glasojn: gelas
-    - por: 
-    - la: 
+    - por: untuk
+    - la: itu,ini
     - vino: wain
     - '?'
 - 
@@ -59,28 +59,28 @@
   rektatraduko: 
     - Kontraŭ: Berlawan
     - kiu: siapa
-    - ludis: bermain
-    - via: awak
+    - ludis: telah bermain
+    - via: awak punya
     - sportklubo: kelab sukan
     - antaŭ: sebelum
     - du: dua
     - semajnoj: minggu
     - '?'
 - 
-  demando: Adakah awak sering melihat anggota polis itu yang hidup di apartmen di atas awak ?
+  demando: Adakah awak sering melihat anggota polis itu yang hidup di di atas apartmen awak ?
   rektatraduko: 
     - Ĉu: Adakah
     - vi: awak
     - ofte: sering
     - vidas: melihat
-    - la: 
+    - la: itu,ini
     - policiston: anggota polis
     - ',' 
-    - kiu: 
-    - loĝas: hidup
-    - en: 
-    - la: 
-    - loĝejo: apartmen
+    - kiu: siapa
+    - loĝas: hidup,duduk
+    - en: dalam
+    - la: itu,ini
+    - loĝejo: apartmen,tempat duduk
     - super: di atas
     - vi: awak
     - '?'

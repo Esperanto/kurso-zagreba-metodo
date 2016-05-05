@@ -1,72 +1,72 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: What could delight your parents most of all? 什么东西可能让你的父母亲最高兴？
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: 什么东西
+    - povus: 能
+    - plej: 最
+    - ĝojigi: 高兴
+    - viajn: 你的
+    - gepatrojn: 父母亲
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: 在课后，你是否要到城市里 ？
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: 假如
+    - almenaŭ: 最少
+    - vi: 你
+    - post: 后
+    - la: 
+    - lernado: 学习
+    - irus: 会去
+    - kun: 和
+    - mi: 我
+    - en: 在
+    - la: 那
+    - urbocentron: 市中心
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: 你希望到哪里去旅行，假如你有足够的钱和时间
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: 哪里
+    - vi: 你
+    - dezirus: 希望
+    - vojaĝi: 旅行
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: 假如
+    - vi: 你
+    - havus: 有
+    - sufiĉe: 足够
+    - da: 
+    - mono: 钱
+    - kaj: 和
+    - tempo: 时间
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car?
+  demando: 你是否计划开那部车到巴黎去旅行，还是更好搭那班火车？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - vojaĝas: travel
-    - per: by
-    - la: the
-    - aŭto: car
-    - al: to
-    - Parizo: Paris
-    - aŭ: or
-    - pli: more
-    - bone: better
-    - per: by
-    - la: the
-    - vagonaro: train
+    - Ĉu: 是否
+    - vi: 你
+    - vojaĝas: 旅行
+    - per: 
+    - la: 
+    - aŭto: 车
+    - al: 
+    - Parizo: 巴黎
+    - aŭ: 还是
+    - pli: 更
+    - bone: 好
+    - per: 搭
+    - la: 那班
+    - vagonaro: 火车
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: 为什么不同的人解释同样的看法，却是不同方式？
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: 为什么
+    - diversaj: 不同
+    - homoj: 人
+    - klarigas: 解释
+    - samajn: 同样
+    - ideojn: 看法
+    - diversmaniere: 不同方式
     - '?'

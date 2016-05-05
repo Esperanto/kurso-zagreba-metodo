@@ -1,5 +1,5 @@
 - 
-  demando: Siapa ialah teman wanita anda?
+  demando: Siapa teman wanita anda?
   rektatraduko:
     - Kiu: Siapa
     - estas: ialah
@@ -16,7 +16,7 @@
     - skribas: menulis
     - nun: kini
     - en: di
-    - la: dalam
+    - la: itu
     - ĉambro: bilik
     - '?'
 - 
@@ -36,7 +36,7 @@
   demando: Apa yang ada di atas meja kerja di dalam bilik kita ?
   rektatraduko:
     - Kio: Apa
-    - estas: ada
+    - estas: ialah
     - sur: atas
     - la: itu
     - labortablo: meja kerja

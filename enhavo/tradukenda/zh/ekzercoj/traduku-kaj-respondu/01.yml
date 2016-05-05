@@ -23,9 +23,9 @@
   demando: 你的朋友的父亲是否在酒店工作 ？
   rektatraduko:
     - Ĉu: 是否
-    - la: 
+    - la: 这，那
     - amiko: 朋友
-    - de: 
+    - de: 的
     - via: 你的
     - patro: 父亲
     - laboras: 工作
@@ -38,18 +38,18 @@
     - Kio: 什么东西
     - estas: 是
     - sur: 上
-    - la: 
+    - la: 这，那
     - labortablo: 工作桌子
     - en: 内
     - nia: 我们的
     - ĉambro: 房间
     - '?'
 - 
-  demando: 是否在你的桌子上面有本世界语课本？
+  demando: 是否是在你的桌子上面有本世界语课本？
   rektatraduko:
     - Ĉu: 是否
     - Esperanto-lernolibro: 世界语课本
-    - estas: 
+    - estas: 是
     - sur: 上面
     - via: 你的
     - tablo: 桌子

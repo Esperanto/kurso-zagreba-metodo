@@ -2,13 +2,13 @@
   demando: Adakah pelayan di hotel-hotel besar memahami banyak bahasa ? 
   rektatraduko:  
     - Ĉu: Adakah
-    - kelneroj: pelayan
+    - kelneroj: pelayan-pelayan
     - en: di
     - grandaj: besar
     - hoteloj: hotel-hotel
     - komprenas: memahami
     - multajn: banyak
-    - lingvojn: bahasa
+    - lingvojn: bahasa-bahasa
     - '?'
 -
   demando: Adakah anda tahu bahawa Anna suka lagu baru tentang seorang lelaki miskin dan seorang gadis cantik?
@@ -20,7 +20,7 @@
     - ĉu: adakah
     - Anna: Anna 
     - ŝatas: suka
-    - la: 
+    - la: itu
     - novan: baru
     - kanton: lagu
     - pri: tentang
@@ -34,13 +34,13 @@
     - Kie: Di mana
     - vi: anda
     - vidis: telah melihat
-    - la: 
+    - la: itu
     - maljunulon: lelaki tua
     - kaj: dan
-    - la: 
+    - la: itu,ini
     - junulon: lelaki muda
     - ','
-    - kiuj: 
+    - kiuj: yang
     - portis: telah membawa
     - grandan: besar
     - tablon: meja
@@ -49,7 +49,7 @@
   demando: Bagaimana ia berlaku bahawa anda sekali lagi datang kepada kami tanpa adik beradik?
   rektatraduko: 
     - Kiel: Bagaimana
-    - okazis: ia berlaku
+    - okazis: berlaku
     - ','
     - ke: bahawa
     - vi: anda
@@ -67,7 +67,7 @@
     - vi: anda
     - povas: boleh
     - per: dengan bantuan
-    - la: 
+    - la: itu,ini
     - nova: baru
     - lernolibro: buku teks
     - sufiĉe: cukup

@@ -5,12 +5,12 @@
     - vi: anda
     - deziras: ingin
     - ',' 
-    - ke: 
+    - ke: bahawa
     - mi: saya
     - montras: menunjukkan
     - al: kepada
     - vi: anda
-    - mian: saya
+    - mian: saya punya
     - plej: ter
     - novan: baru
     - libron: buku
@@ -32,11 +32,11 @@
     - alvenos: akan tiba
     - ',' 
     - je: pada
-    - la: 
+    - la: itu,ini
     - kvina: kelima
     - aŭ: atau
     - je: pada
-    - la: 
+    - la: itu,ini
     - oka: kelapan
     - horo: jam
     - '?'
@@ -48,7 +48,7 @@
     - rimarkis: perasan
     - ','  
     - ke: bahawa
-    - la: 
+    - la: itu,ini
     - tuta: seluruh
     - familio: keluarga
     - nomas: memanggil
@@ -56,17 +56,17 @@
     - bonfarulo: dermanwan
     - '?'
 - 
-  demando: Adakah buku kecil yang saya menghantarkan berguna kepada anda?
+  demando: Adakah buku kecil yang telah saya hantarkan berguna kepada anda?
   rektatraduko: 
     - Ĉu: Adakah
-    - la: 
+    - la: itu,ini
     - libreto: buku kecil
-    - estis: 
+    - estis: ilah
     - utila: berguna
     - al: kepada
     - vi: anda
     - ',' 
-    - kiun: 
+    - kiun: siapa
     - mi: saya
-    - sendis: menghantarkan
+    - sendis: telah hantar
     - '?'

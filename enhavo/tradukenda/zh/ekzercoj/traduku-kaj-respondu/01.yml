@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: 谁是你的女朋友？
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: 谁
+    - estas: 是
+    - via: 你的
+    - amikino: 女朋友
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: 是否是你的朋友安娜现在在房里写东西吗？
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - Ĉu: 是否
+    - via: 你的
+    - amikino: 女朋友
+    - Anna: 安娜
+    - skribas: 写
+    - nun: 现在
+    - en: 在
+    - la: 那间
+    - ĉambro: 房间
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: 你的朋友的父亲是否在酒店工作 ？
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: 是否
+    - la: 这，那
+    - amiko: 朋友
+    - de: 的
+    - via: 你的
+    - patro: 父亲
+    - laboras: 工作
+    - en: 在
+    - hotelo: 酒店
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: 是什么东西在我们的房间的工作桌上？
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: 什么东西
+    - estas: 是
+    - sur: 上
+    - la: 这，那
+    - labortablo: 工作桌子
+    - en: 内
+    - nia: 我们的
+    - ĉambro: 房间
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: 是否是在你的桌子上面有本世界语课本？
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: 是否
+    - Esperanto-lernolibro: 世界语课本
+    - estas: 是
+    - sur: 上面
+    - via: 你的
+    - tablo: 桌子
     - '?'
 

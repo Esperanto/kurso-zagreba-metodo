@@ -3,25 +3,25 @@
   rektatraduko: 
     - Kio: Apa
     - povus: boleh
-    - plej: paling
+    - plej: paling, ter
     - ĝojigi: menggembirakan
-    - viajn: anda
+    - viajn: anda punya
     - gepatrojn: ibu bapa
     - '?'
 - 
-  demando: Jika sekurang-kurangnya anda mahu pergi ke pusat bandar selepas sekolah bersama saya !
+  demando: Sekurang-kurangnya jika anda mahu pergi ke pusat bandar selepas sekolah bersama saya !
   rektatraduko: 
     - Se: Jika
     - almenaŭ: sekurang-kurangnya
     - vi: anda
     - post: selepas
-    - la: 
-    - lernado: sekolah
-    - irus: mahu pergi
+    - la: itu,ini
+    - lernado: pelajaran
+    - irus: pergi
     - kun: bersama
     - mi: saya
     - en: ke
-    - la: 
+    - la: itu,ini
     - urbocentron: pusat bandar
     - '!'
 - 
@@ -36,7 +36,7 @@
     - vi: anda
     - havus: mempunyai
     - sufiĉe: cukupi
-    - da:
+    - da: amaun
     - mono: wang
     - kaj: dan
     - tempo: masa
@@ -46,9 +46,9 @@
   rektatraduko: 
     - Ĉu: Adakah
     - vi: anda
-    - vojaĝas: melancong
+    - vojaĝas: melancong, berjalan
     - per: dengan
-    - la: 
+    - la: itu,ini
     - aŭto: kereta
     - al: ke
     - Parizo: Paris
@@ -56,17 +56,17 @@
     - pli: lebih
     - bone: baik
     - per: dengan 
-    - la: 
+    - la: itu,ini
     - vagonaro: kereta api
     - '?'
 - 
-  demando: Kenapa orang yang berbeza menerangkan idea-idea yang sama berbeza ?
+  demando: Kenapa orang yang berbeza menerangkan idea-idea sserupa tetapi cara berbeza ?
   rektatraduko: 
     - Kial: Kenapa
     - diversaj: berbeza
     - homoj: orang
     - klarigas: menerangkan
     - samajn: sama
-    - ideojn: idea
-    - diversmaniere: berbeza
+    - ideojn: idea-idea
+    - diversmaniere: cara berbeza
     - '?'

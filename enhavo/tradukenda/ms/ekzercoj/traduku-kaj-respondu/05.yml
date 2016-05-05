@@ -23,29 +23,29 @@
     - kie: di mana
     - ni: kita
     - revidos: akan lihat
-    - nin: satu sama lain
+    - nin: kami
     - '?'
 -
   demando: Pukul berapa sekarang?
   rektatraduko: 
     - Kioma: berapa
     - horo: jam
-    - estas: 
+    - estas: ialah
     - nun: sekarang
     - '?'
 -
-  demando: Adakah seseorang telah membantu awak membuka pintu rumah lama?
+  demando: Adakah sesiapa telah membantu awak membukakan pintu di rumah lama?
   rektatraduko: 
     - Ĉu: Adakah
     - iu: seseorang
     - helpis: telah membantu
-    - al: 
+    - al: ke, kepada
     - vi: awak
     - malfermi: membuka
-    - la: 
+    - la: itu,ini
     - pordon: pintu
-    - de: 
-    - la: 
+    - de: yang
+    - la: ini, itu
     - malnova: lama
     - domo: rumah
     - '?'

@@ -2,8 +2,8 @@
   demando: Bagaimana rumah lama awak seperti ?
   rektatraduko: 
     - Kia: bagaimana
-    - estis: 
-    - via: awak
+    - estis: ialah
+    - via: awak punya
     - malnova: lama
     - hejmo: rumah
     - '?'
@@ -13,26 +13,26 @@
     - Kiujn: apa
     - librojn: buku-buku
     - vi: awak
-    - legis: membaca
+    - legis: telah baca
     - kaj: dan
     - ĉu: adakah
     - ili: mereka
-    - estas: 
+    - estas: ialag
     - bonaj: baik
     - '?'
 - 
-  demando: "Apa yang Anna dan Mark lakukan di bilik kecil Mark ?"
+  demando: "Apa yang Anna dan Mark buat di bilik kecil Mark ?"
   rektatraduko:
     - Kion: Apa
-    - faris: lakukan
+    - faris: buat
     - Anna: Anna
     - kaj: dan
     - Marko: Mark
     - en: di
-    - la: 
+    - la: itu
     - malgranda: kecil
     - ĉambro: bilik
-    - de: 
+    - de: punya
     - Marko: Mark
     - '?'
 - 
@@ -54,17 +54,17 @@
     - kun: dengan
     - vi: awak
     - al: ke
-    - via: awak
+    - via: awak punya
     - hejmo: rumah
     - '?'
 - 
   demando: "Bagaimanakah mata teman wanita awak seperti?"
   rektatraduko: 
     - Kiaj: Bagaimanakah seperti
-    - estas: 
-    - la: 
+    - estas: ialah
+    - la: itu
     - okuloj: mata
-    - de: 
-    - via: awak
-    - amikino: teman
+    - de: punya
+    - via: awak punya
+    - amikino: teman wanita
     - '?'

@@ -9,19 +9,19 @@
 -
   demando: Berapa lama awak telah mempelajari bahasa antarabangsa?
   rektatraduko: 
-    - Kiel: berapa lama
-    - longe: 
+    - Kiel: bagaimana
+    - longe: lama
     - vi: awak
-    - lernas: mempelajari
-    - la: 
+    - lernas: belajar
+    - la: itu, ini
     - Internacian: antarabangsa
     - Lingvon: bahasa
     - '?'
 -
-  demando: Mana buku baru saya dengan gambar-gambar ?
+  demando: Di mana buku baru saya yang ada gambar-gambar ?
   rektatraduko: 
     - Kie: Mana
-    - estas: 
+    - estas: ialah
     - mia: saya
     - nova: baru
     - libro: buku
@@ -35,24 +35,24 @@
     - vi: awak
     - iros: akan pergi
     - post: selepas
-    - la: 
+    - la: itu,ini
     - tagmanĝo: makan tengah hari
     - '?'
 -
-  demando: Bolehkah seseorang menutup pintu bilik apabila ia sejuk?
+  demando: Bolehkah sesiapa boleh menutup pintu bilik apabila ia sejuk?
   rektatraduko: 
     - Ĉu: Bolehkah
     - oni: seseorang
     - povas: boleh
     - fermi: menutup
-    - la: 
+    - la: itu,ini
     - pordon: pintu
-    - de: 
-    - la: 
+    - de: yang
+    - la: itu,ini
     - ĉambro: bilik
     - ','
     - kiam: apabila
-    - estas: 
+    - estas: ialah
     - malvarme: sejuk
     - '?'
 -

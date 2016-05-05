@@ -34,6 +34,10 @@ La ciferecigo faris laŭlingve:
 
 - [Enric Baltasar](https://github.com/EnricBaltasar/)
 
+### Malaja
+
+- [Onklo ENG](https://github.com/onklo/)
+
 ### Kroata
 
 - [Zlatko Tišljar](https://github.com/ztisljar)

@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: 你是否希望我展示于你我最新的书 ？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: 是否
+    - vi: 你
+    - deziras: 希望
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: 
+    - mi: 我
+    - montras: 展示
+    - al: 于
+    - vi: 你
+    - mian: 我的
+    - plej: 最
+    - novan: 新
+    - libron: 书
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: 你明天要吃什么早餐？
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: 什么
+    - vi: 你
+    - volas: 要
+    - morgaŭ: 明天
+    - matenmanĝi: 吃早餐
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: “何时马克将抵达，是五还是八点钟？”
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: 何时
+    - Marko: 马克
+    - alvenos: 将抵达
     - ',' 
-    - je: at
+    - je: 在
     - la: the
-    - kvina: fifth
-    - aŭ: or
+    - kvina: 第五
+    - aŭ: 还是
     - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - la: 
+    - oka: 第八
+    - horo: 小时
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: 何时你曾注意到那个家庭全家人都叫我施主？
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: 何时
+    - vi: 你
+    - rimarkis: 曾注意
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: 
+    - la: 那个
+    - tuta: 全
+    - familio: 家
+    - nomas: 叫
+    - min: 我
+    - bonfarulo: 施主
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: 那本我寄给你的小本书是否对你有用？
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: 是否
+    - la: 那本
+    - libreto: 小书本
+    - estis: 是
+    - utila: 有用
+    - al: 给
+    - vi: 你
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: 
+    - mi: 我
+    - sendis: 寄给
     - '?'

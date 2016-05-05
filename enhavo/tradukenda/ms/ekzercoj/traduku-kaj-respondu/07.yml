@@ -1,27 +1,27 @@
 - 
-  demando: Siapakah yang telah mempunyai buku yang awak telah menunggu lebih daripada 2 tahun?
+  demando: Siapakah yang telah mempunyai buku itu yang awak telah menunggu lebih daripada 2 tahun?
   rektatraduko: 
     - Kiu: Siapakah
     - havis: telah mempunyai
-    - la: 
+    - la: itu
     - libron: buku
     - ',' 
-    - kiun: 
+    - kiun: siapa
     - vi: awak
     - atendis: telah menunggu
     - pli: lebih
-    - ol: 
+    - ol: daripada
     - du: dua
     - jarojn: tahun
     - '?'
 - 
-  demando: Adakah awak mahu saya untuk menunjukkan kepada awak gambar yang paling saya sayang ?
+  demando: Adakah awak mahu  menunjukkan kepada awak gambar yang paling saya sayangi ?
   rektatraduko: 
     - Ĉu: Adakah
     - vi: awak
     - volas: mahu
     - ','
-    - ke: 
+    - ke: bahawa
     - mi: saya
     - montras: menunujukkan
     - al: kepada
@@ -46,32 +46,32 @@
     - Kien: ke mana
     - vi: awak
     - iros: akan pergi
-    - dimanĉe: pada hari Ahad
+    - dimanĉe: hari Ahad
     - ',' 
     - se: jika
-    - estos: 
+    - estos: ialah
     - suna: cerah
     - tago: hari
     - '?'
 - 
-  demando: Adakah adik/abang awak sudah pergi ?
+  demando: Adakah adik/abang awak sudah pergi segera ?
   rektatraduko: 
     - Ĉu: Adakah
     - via: awak
     - frato: adik/abang
     - jam: sudah
-    - ekiris: pergi
+    - ekiris: pergi segera
     - '?'
 - 
   demando: Di mana air yang kamu bawa diri sendiri ?
   rektatraduko: 
     - Kie: Di mana
-    - estas:
-    - la: 
+    - estas:ialah
+    - la: itu,ini
     - akvo: air
     - ',' 
-    - kiun: 
+    - kiun: siapa
     - vi: kamu
     - mem: diri sendiri
-    - kunportis: have brought
+    - kunportis: bawah bersama
     - '?'

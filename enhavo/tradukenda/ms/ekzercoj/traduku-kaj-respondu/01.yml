@@ -3,14 +3,14 @@
   rektatraduko:
     - Kiu: Siapa
     - estas: ialah
-    - via: anda
+    - via: anda punya
     - amikino: teman wanita
     - '?'
 - 
   demando: Adakah kawan wanita anda Anna kini menulis di dalam bilik ?
   rektatraduko:
     - Ĉu: Adakah
-    - via: anda
+    - via: anda punya
     - amikino: kawan wanita
     - Anna: Anna
     - skribas: menulis
@@ -26,7 +26,7 @@
     - la: itu
     - amiko: kawan
     - de: daripada
-    - via: anda
+    - via: anda punya
     - patro: bapa
     - laboras: bekerja
     - en: di
@@ -41,7 +41,7 @@
     - la: itu
     - labortablo: meja kerja
     - en: di
-    - nia: kita
+    - nia: kita punya
     - ĉambro: bilik
     - '?'
 - 
@@ -51,7 +51,7 @@
     - Esperanto-lernolibro: buku teks Esperanto
     - estas: ialah
     - sur: atas
-    - via: anda
+    - via: anda punya
     - tablo: meja
     - '?'
 

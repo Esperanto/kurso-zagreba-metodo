@@ -4,51 +4,51 @@
     - Ĉu: Adakah
     - ni: kita
     - revidos: akan melihat
-    - nin: satu sama lain
+    - nin: kita
     - ',' 
     - kie: di mana
-    - ajn: 
+    - ajn: pernah
     - kaj: dan
     - kiam: apabila
-    - ajn: 
+    - ajn: pernah
     - '?'
 - 
-  demando: Bilakah saya akan mendapat kembali separuh lain buku-buku ?
+  demando: Bilakah saya akan mendapat kembali separuh buku-buku yang lain ?
   rektatraduko: 
     - Kiam: Bilakah
     - mi: saya
-    - rericevos: akan mendapat kembali
-    - la: 
+    - rericevos: akan mendapat 
+    - la: itu, ini
     - alian: lain
     - duonon: separuh
-    - de: 
-    - la: 
+    - de: daripada
+    - la: ini,itu
     - libroj: buku-buku
     - '?'
 - 
   demando: Anda akan memerlukan lebih daripada satu perempat tahun untuk kerja-kerja ?
   rektatraduko: 
-    - Ĉu: Whether
+    - Ĉu: adakah
     - vi: anda
     - bezonos: akan memerlukan
     - pli: lebih
-    - ol: 
+    - ol: daripada
     - kvaronan: satu perempat
     - jaron: tahun
-    - por: 
-    - tiuj: 
+    - por: untuk
+    - tiuj: itu
     - laboroj: kerja-kerja
     - '?'
 - 
   demando: Kenapa lebih sejuk ia berada, lebih lama kita menunggu ?
   rektatraduko: 
-    - Kial: Kenapa
-    - estas: 
-    - des: 
+    - Kial: bagaimana
+    - estas: ilah
+    - des: kedua-duanya tidak
     - pli: lebih
     - malvarma: sejuk
     - ',' 
-    - ju: 
+    - ju: kedua-duanya tidak
     - pli: lebih
     - longe: lama
     - ni: kita
@@ -59,10 +59,10 @@
   rektatraduko: 
     - Ĉu: Adakah
     - vi: anda
-    - estus: 
+    - estus: ialah
     - kontenta: berpuas hati
     - kun: dengan
     - iu: sesiapa
-    - ajn: 
+    - ajn: pernah
     - viro: lelaki
     - '?'

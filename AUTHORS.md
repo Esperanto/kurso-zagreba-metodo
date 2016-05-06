@@ -45,6 +45,10 @@ La ciferecigo faris laŭlingve:
 
 - [Onklo ENG](https://github.com/onklo/)
 
+### Ĉina
+
+- [Onklo ENG](https://github.com/onklo/)
+
 ### Kroata
 
 - [Zlatko Tišljar](https://github.com/ztisljar)

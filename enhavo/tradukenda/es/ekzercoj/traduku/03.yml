@@ -1,16 +1,31 @@
 - antaŭĉambro: vestíbulo
-- malamiko: enemigo
+- malamiko: 
+ -  - enemigo
+ -  - enemiga
 - malantaŭ: detrás de
-- antaŭvidi: prever, predecir
-- malrapida: lento, lenta
-- trarigardi: mirar por
+-- antaŭvidi: 
+ -  - prever
+ -  - predecir
+-- malrapida:
+ -  - lento
+ -  - lenta
+-- trarigardi: 
+ -  - ojear
+ -  - mirar por
 - junulo: joven
 - malmulte: poco
-- finfine: al fin
+-- finfine: 
+ -  - al fin
+ -  - por fin
+ -  - finalmente
 - malriĉulo: pobre
-- tagmanĝo: comida
+-- tagmanĝo: 
+ -  - almuerzo
+ -  - comida
 - tralegi: ojear
-- malnova: viejo, vieja
+-- malnova: 
+ -  - viejo
+ -  - vieja
 - laborejo: lugar de trabajo
 - travidebla: transparente
 - trinkebla: potable

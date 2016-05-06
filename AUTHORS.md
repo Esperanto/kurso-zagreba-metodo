@@ -9,7 +9,13 @@ La aŭtoroj de la *Zagreba metodo* estas:
 - Ivica Špoljarec
 - Roger Imbert
 
-## Ciferecigo  
+## Retejo
+
+La retejo programis:
+
+- [Georg Jähnig](https://github.com/georgjaehnig/)
+
+## Ciferecigo de la enhavo
 
 La ciferecigo faris laŭlingve:
 

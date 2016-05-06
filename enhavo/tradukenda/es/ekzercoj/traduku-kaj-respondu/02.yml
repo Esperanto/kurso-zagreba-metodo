@@ -36,7 +36,7 @@
     - Marko: Marko
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: ¿Te gusta leer libros de amor?
   rektatraduko: 
     - Ĉu: ¿
     - vi: Te
@@ -58,7 +58,7 @@
     - hejmo: casa
     - '?'
 - 
-  demando: "¿Cómo son los ojos de tu novia?"
+  demando: ¿Cómo son los ojos de tu amiga?
   rektatraduko: 
     - Kiaj: Cómo
     - estas: son
@@ -66,5 +66,5 @@
     - okuloj: ojos
     - de: de
     - via: tu
-    - amikino: novia
+    - amikino: amiga
     - '?'

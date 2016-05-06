@@ -56,7 +56,7 @@
     - malvarme: frío
     - '?'
 -
-  demando: ¿Cuánto tiempo estás enfadado si te quitan a ti mucho dinero?
+  demando: ¿Cuánto tiempo estás enfadado si la gente te quita mucho dinero?
   rektatraduko: 
     - Kiom: Cuánto
     - longe: tiempo
@@ -64,8 +64,8 @@
     - koleras: estás enfadado
     - ','
     - se: si
-    - oni: te
-    - forprenas: quitan
+    - oni: la gente
+    - forprenas: quita
     - al: a
     - vi: ti
     - multe da: mucho

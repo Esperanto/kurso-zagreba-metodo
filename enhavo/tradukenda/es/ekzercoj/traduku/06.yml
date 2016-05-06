@@ -1,9 +1,20 @@
-- leterportisto: cartero, cartera
+- leterportisto: 
+  - cartero
+  - cartera
 - hejmlando: patria
-- iomete: un poquito
-- bonege: excelente, perfecto
+- iomete: 
+  - un poquito
+  - poquito
+- bonege: 
+  - muy bien
+  - excelentemente
+  - perfectamente
+  - excelente
+  - perfecto
 - vespermanĝo: cena
-- prizorgi: ocuparse de, encargarse de
+- prizorgi:
+  - ocuparse de
+  - encargarse de
 - espereble: con suerte
 - altkvalita: de alta calidad
 - pripensi: reflexionar
@@ -12,6 +23,12 @@
 - dufoje: dos veces
 - multfoje: muchas veces
 - nomiĝi: llamarse
-- ruĝiĝi: ponerse rojo, ponerse roja
-- libreto: libro
-- varmega: abrasando
+- ruĝiĝi: 
+  - ponerse rojo
+  - ponerse roja
+- libreto:
+  - librito
+  - librillo
+- varmega: 
+  - abrasador
+  - muy caliente

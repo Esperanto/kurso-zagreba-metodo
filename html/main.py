@@ -75,7 +75,7 @@ def generate_html(lingvo, enhavo, args):
 
     paths_index = 0
 
-    for i in range(1,13):
+    for i in range(1, 13):
         i_padded = str(i).zfill(2)
         leciono_dir = output_path + i_padded
         shutil.rmtree(leciono_dir, ignore_errors=True)

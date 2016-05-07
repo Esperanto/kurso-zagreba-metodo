@@ -34,17 +34,19 @@ La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝ
 
 Nun ek al la tradukado!
 
+### Ĝenerale: kiel redakti
+
 1. Bonvole venu al la dosierujo kiun mi kreis por la nova lingvo. (Mi sendis ligilon al ĝi en mia retpoŝto al vi.)
 2. Eniru la dosierujojn kaj malfermu dosierojn kiun vi volas traduki (simple klaku al ĝi).
 3. Redaktu la dosierojn: Klaku al la redaktu-butono:
 
 ![Redaktu](redaktu.png)
 
-## Ekzercoj
+### Ekzercoj
 
 Plej bonas komenci kun la ekzercoj:
 
-### Ekzerco 1
+#### Ekzerco 1
 
 1. Iru al `/ekzercoj/traduku` kaj malfermu `01.yml`. Nun vi vidas la fontdosieron de la [unua ekzerco](http://learn.esperanto.com/en/01/ekzerco1/)
 2. Traduku nun la esperantajn vortojn al la nova lingvo:
@@ -63,7 +65,7 @@ Se via nova lingvo havas pli ol 1 tradukaĵo, skribu pli linion, ekzemple:
 
 Finfine, klaku al "Commit changes" sube por konservi viajn ŝaĝojn.
 
-## Vortaro
+### Vortaro
 
 ...
 

@@ -30,7 +30,7 @@ La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝ
 
 (Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu nin](mailto:georg@jaehnig.org)!)
 
-## La tradukado (aŭ ciferecigo)
+## La tradukado
 
 Nun ek al la tradukado!
 

@@ -53,7 +53,7 @@ Plej bonas komenci kun la ekzercoj:
 
 Se via nova lingvo havas nur 1 tradukaĵo, skribu unu linion, ekzemple:
 
-    - enskribi: to registor
+    - enskribi: to register
 
 Se via nova lingvo havas pli ol 1 tradukaĵo, skribu pli linion, ekzemple:
 

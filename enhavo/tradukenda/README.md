@@ -1,13 +1,23 @@
-# Enhavo de tiu dosierujo
+# Kiel traduki al nova lingvo
 
-Tiu ĉi dosierujo enhavas la tutan parton de la kurso, kiun oni devas traduki. Do, ĉi tie troviĝas:
+Saluton! Unue dankegon, ke vi volas traduki tiun kurson! Ĉi tie priskribitas kiel fari tion.
 
-- la gramatikaj klarigoj por ĉiuj 12 lecionoj
-- la 2 tradukendaj ekzercoj por ĉiuj 12 lecionoj
-- la vortaro kun tradukaĵon de ĉiuj radikoj kaj vortoj
-- la vortaro por la tradukenda fasado de la retpaĝo
+## Registru konton ĉe Github
 
-# Kiel traduki / cifericigi
+1. bonvole iru al https://github.com/join kaj registru (senpagan) personan konton.
+2. Sendu vian uzantnomon al georg@jaehnig.org kaj skribu ankaŭ:
+   - al kiu lingvo vi volas traduki
+   - kiun jam ekzistantan, similan lingvon vi volas havi kiel ĝermo. (Normale, oni elektas la anglan. Sed se vi ekzemple volas traduki al la indonezia, indus elekti la similan malajan.)
+3. Atendu mian respondon. :)
+
+## Akceptu la inviton al la teamo
+
+Kiam mi legis vian mesaĝon, mi invitas vin al la Esperanta teamo ĉe Github. Mi skribas al vi, kiam mi faris tion. Por akceptu la inviton
+
+1. iru al https://github.com/Esperanto kaj klaku al "View invitation".
+2. En la sekva paĝo, klaku al "Join Esperanto".
+
+## Kontrolu ĉu tradukon al via lingvo jam ekzistas
 
 La [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo) estas jam tradukita al multe da lingvoj, tial plej bonus se vi ne mem tradukas al via lingvo sed trovas tradukaĵon al tiu lingvo.  
 
@@ -18,12 +28,31 @@ La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝ
 	- [angla](http://esperantofre.com/zagreb/zagreba.htm)
 	- [hispana](http://esperantofre.com/zagreb/zagrebh.htm)
 
-Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu nin](mailto:georg@jaehnig.org)!
+(Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu nin](mailto:georg@jaehnig.org)!)
 
-# Partoj
-## Gramatiko
+## La tradukado (aŭ ciferecigo)
 
-La gramatikaj klarigoj skribitas en [Markdown](https://en.wikipedia.org/wiki/Markdown). 
+Nun ek al la tradukado!
+
+1. Bonvole venu al la dosierujo kiun mi kreis por la nova lingvo. (Mi sendis ligilon al ĝi en mia retpoŝto al vi.)
+2. Eniru la dosierujojn kaj malfermu dosierojn kiun vi volas traduki (simple klaku al ĝi).
+3. Redaktu la dosierojn: Klaku al la redaktu-butono:
+
+![Redaktu][redaktu.png]
+
+## Ekzercoj
+
+Plej bonas komenci kun la ekzercoj:
+
+...
+
+## Vortaro
+
+...
+
+### Gramatiko
+
+La gramatikaj klarigoj estas en la dosierujo `/gramatiko`. Ili skribitas en [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
 - Por ĉiu leciono, kreu dosieron laŭ la leciona indekso. Ekzemple:
   -  `01.md` - Klarigo pri leciono 1
@@ -40,11 +69,4 @@ La gramatikaj klarigoj skribitas en [Markdown](https://en.wikipedia.org/wiki/Mar
 Ne timu se Github kelkfoje malĝuste transigas partojn de Markdown (ekz. kombinadojn kiel `*lern__ej__o*`), montrante la Markdown-dosierojn en sia retejo. Tio nur estas problemo de Github, nia kreanta skripto tamen bone tradukos ilin.
 
 
-## Ekzercoj
-
-...
-
-## Vortaro
-
-...
 

@@ -63,7 +63,7 @@ Se via nova lingvo havas pli ol 1 tradukaĵo, skribu pli linion, ekzemple:
       - to register
       - to inscribe
 
-Finfine, klaku al "Commit changes" sube por konservi viajn ŝaĝojn.
+Finfine, klaku al "Commit changes" sube por konservi viajn ŝanĝojn.
 
 ### Vortaro
 

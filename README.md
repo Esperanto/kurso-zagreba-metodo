@@ -25,3 +25,7 @@ La esperantaj leciontekstoj en la kurso `enhavo/netradukenda/tekstoj` devas rest
 ![permesilo](bildoj/by.png)
 
 Ĉion alian oni povas ŝanĝi. Tial aplikas la [CC BY 4.0](PERMESILO.md).
+
+## Pliaj tradukoj?
+
+Ĉu vi volas traduki la kurson al nova lingvo? Belege! Bonvole [plulegu tie](enhavo/tradukenda).

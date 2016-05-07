@@ -38,7 +38,7 @@ Nun ek al la tradukado!
 2. Eniru la dosierujojn kaj malfermu dosierojn kiun vi volas traduki (simple klaku al ĝi).
 3. Redaktu la dosierojn: Klaku al la redaktu-butono:
 
-![Redaktu][redaktu.png]
+![Redaktu](redaktu.png)
 
 ## Ekzercoj
 

@@ -1,0 +1,57 @@
+- 
+  demando: Who is your girl-friend?
+  rektatraduko:
+    - Kiu: Who
+    - estas: is
+    - via: your
+    - amikino: girl-friend
+    - '?'
+- 
+  demando: Is your friend Anna now writing in the room?
+  rektatraduko:
+    - Ĉu: Whether
+    - via: your
+    - amikino: friend
+    - Anna: Anna
+    - skribas: writes
+    - nun: now
+    - en: in
+    - la: the 
+    - ĉambro: room
+    - '?'
+- 
+  demando: Does the friend of your father work in a hotel?
+  rektatraduko:
+    - Ĉu: Whether
+    - la: the
+    - amiko: friend
+    - de: of
+    - via: your
+    - patro: father
+    - laboras: works
+    - en: in
+    - hotelo: hotel
+    - '?'
+- 
+  demando: What is on the work-bench in our room?
+  rektatraduko:
+    - Kio: What 
+    - estas: is
+    - sur: 'on'
+    - la: the
+    - labortablo: work-bench
+    - en: in
+    - nia: our
+    - ĉambro: room
+    - '?'
+- 
+  demando: Is there an Esperanto textbook on your table?
+  rektatraduko:
+    - Ĉu: Whether
+    - Esperanto-lernolibro: Esperanto textbook
+    - estas: is
+    - sur: 'on'
+    - via: your 
+    - tablo: table
+    - '?'
+

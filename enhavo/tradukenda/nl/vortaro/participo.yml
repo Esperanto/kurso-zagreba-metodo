@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: Aktiv-Partizip / Verlaufsform, Gegenwart
+int: Aktiv-Partizip / Verlaufsform, Vergangenheit
+ont: Aktiv-Partizip / Verlaufsform, Zukunft
+unt: Aktiv-Partizip / Verlaufsform, Konditional
+at:  Passiv-Partizip / Verlaufsform, Gegenwart
+it:  Passiv-Partizip / Verlaufsform, Vergangenheit
+ot:  Passiv-Partizip / Verlaufsform, Zukunft
+ut:  Passiv-Partizip / Verlaufsform, Konditional

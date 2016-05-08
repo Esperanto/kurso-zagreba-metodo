@@ -1,24 +1,24 @@
 -
   demando: Büyük otellerdeki grasonlar bir çok dil anlıyorlar mı? 
   rektatraduko:  
-    - Ĉu: mı? 
+    - Ĉu: mı 
     - kelneroj: garsonlar
     - en: -de (ismin de hali)
     - grandaj: büyük
     - hoteloj: oteller
     - komprenas: anlıyor
-    - multajn: bir çok, çok
+    - multajn: çok, bir çok
     - lingvojn: diller
     - '?'
 -
-  demando: (Sen) Biliyor musun, Anna fakir bir adam ve güzel bir kız hakkındaki yeni şarkıyı seviyor mu?
-    - Ĉu: musun?
+  demando: (Sen) Biliyor musun, Anna fakir bir adam ve güzel bir kız hakkındaki yeni şarkıyı beğeniyor mu?
+    - Ĉu: musun
     - vi: sen
     - scias: biliyor
     - ','
     - ĉu: mu
     - Anna: Anna 
-    - ŝatas: seviyor
+    - ŝatas: beğeniyor
     - la: (belirleyici artikel)
     - novan: yeni
     - kanton: şarkı, şarkıyı
@@ -28,49 +28,49 @@
     - belulino: güzel bir kız
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+  demando: (sen) Yaşlı adam ve genç adamı nerede gördün, ki onlar büyük bir masa taşıyordu? (Büyük bir masa taşıyan yaşlı adam ve genç adamı nerede gördün?)  rektatraduko: 
+    - Kie: nerede
+    - vi: sen
+    - vidis: gördün
+    - la: (belirleyici artikel)
+    - maljunulon: yaşlı adam
+    - kaj: ve
+    - la: belirleyici artikel)
+    - junulon: genç adam
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: ki onlar
+    - portis: taşıyordu
+    - grandan: büyük 
+    - tablon: masa
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Nasıl oldu ki sen gene bize kardeşler (kız+erkek her iki cins birlikte) olmaksızın geldin? 
+  
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: nasıl
+    - okazis: oldu
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: ki
+    - vi: sen
+    - denove: gene
+    - venis: geldin
+    - al: -e, -a 
+    - ni: biz
+    - sen: olmaksızın, -siz
+    - gefratoj: kardeşler (kız+erkek her iki cins birden)
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: (Sen) Yeni eğitim kitabı sayesinde Esperanto'yu yeterince hızlı şekilde öğrenebilecek misin?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: misin
+    - vi: sen
+    - povas: -bilecek (yapabilecek)
+    - per: sayesinde, vasıtası ile 
+    - la: (belirleyici artikel)
+    - nova: yeni
+    - lernolibro: eğitim kitabı
+    - sufiĉe: yeterince
+    - rapide: hızlı şekilde
+    - lerni: öğrenmek
+    - Esperanton: Esperanto('yu)
     - '?'

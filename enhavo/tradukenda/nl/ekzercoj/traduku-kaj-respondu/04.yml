@@ -1,73 +1,73 @@
 -
-  demando: When am I going to see you again?
-  rektatraduko: 
-    - Kiam: When
-    - mi: I  
-    - revidos: am going to see again
-    - vin: you
+  demando: Wann werde ich dich wiedersehen?
+  rektatraduko:
+    - Kiam: Wann
+    - mi: ich
+    - revidos: werde wiedersehen
+    - vin: Dich
     - '?'
 -
-  demando: How long have you been learning the internation language?
-  rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - lernas: learn
-    - la: the 
-    - Internacian: international
-    - Lingvon: language
+  demando: Wie lange lernst du die Internationale Sprache?
+  rektatraduko:
+    - Kiel: Wie
+    - longe: lange
+    - vi: du
+    - lernas: lernst
+    - la: die
+    - Internacian: Internationale
+    - Lingvon: Sprache
     - '?'
 -
-  demando: Where is my new book with photographs?
-  rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - mia: my
-    - nova: new
-    - libro: book
-    - kun: with
-    - fotoj: photographs
+  demando: Wo ist mein neues Buch mit Fotos?
+  rektatraduko:
+    - Kie: Wo
+    - estas: ist
+    - mia: mein
+    - nova: neues
+    - libro: Buch
+    - kun: mit
+    - fotoj: Fotos
     - '?'
 -
-  demando: Where (where-to) will you go after lunch?
-  rektatraduko: 
-    - Kien: Where-to
-    - vi: you
-    - iros: will go
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+  demando: Wohin gehst du nach dem Mittagessen?
+  rektatraduko:
+    - Kien: Wohin
+    - vi: du
+    - iros: wirst gehen
+    - post: nach
+    - la: dem
+    - tagmanĝo: Mittagessen
     - '?'
 -
-  demando: Can one close the door of the room when it is cold?
-  rektatraduko: 
-    - Ĉu: Whether
-    - oni: one
-    - povas: can 
-    - fermi: close
-    - la: the
-    - pordon: door
-    - de: of 
-    - la: the
-    - ĉambro: room
+  demando: Kann man die Tür des Zimmers schließen, wenn es kalt ist?
+  rektatraduko:
+    - Ĉu: Ob
+    - oni: man
+    - povas: kann
+    - fermi: schließen
+    - la: die
+    - pordon: Tür
+    - de: von
+    - la: dem
+    - ĉambro: Zimmer
     - ','
-    - kiam: when
-    - estas: is
-    - malvarme: cold
+    - kiam: wenn
+    - estas: ist
+    - malvarme: kalt
     - '?'
 -
-  demando: How long are you angry for if people take a lot of money from you?
-  rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - koleras: are angry
+  demando: Wie lange bist du zornig, wenn man dir viel Geld wegnimmt?
+  rektatraduko:
+    - Kiel: Wie
+    - longe: lange
+    - vi: du
+    - koleras: ärgerst
     - ','
-    - se: if
-    - oni: one
-    - forprenas: takes away
-    - de: from
-    - vi: you
-    - multan: a lot of
-    - monon: money
+    - se: wenn
+    - oni: man
+    - forprenas: wegnimmt
+    - de: von
+    - vi: dir
+    - multan: viel
+    - monon: Geld
     - '?'

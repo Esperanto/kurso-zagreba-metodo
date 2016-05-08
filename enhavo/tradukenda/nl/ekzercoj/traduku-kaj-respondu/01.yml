@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: Wer ist deine Freundin?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Wer
+    - estas: ist
+    - via: deine
+    - amikino: Freundin
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Schreibt deine Freundin Anna jetzt im Zimmer?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
+    - Ĉu: Ob
+    - via: deine
+    - amikino: Freundin
     - Anna: Anna
-    - skribas: writes
-    - nun: now
+    - skribas: schreibt
+    - nun: jetzt
     - en: in
-    - la: the 
-    - ĉambro: room
+    - la: dem 
+    - ĉambro: Zimmer
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Arbeitet der Freund deines Vaters in einem Hotel?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
+    - Ĉu: Ob
+    - la: der
+    - amiko: Freund
+    - de: von
+    - via: deinem
+    - patro: Vater
+    - laboras: arbeitet
     - en: in
-    - hotelo: hotel
+    - hotelo: Hotel
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: Was ist auf dem Arbeitstisch in unserem Zimmer?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
+    - Kio: Was 
+    - estas: ist
+    - sur: auf
+    - la: dem
+    - labortablo: Arbeitstisch
     - en: in
-    - nia: our
-    - ĉambro: room
+    - nia: unserem
+    - ĉambro: Zimmer
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Ist ein Esperanto-Lernbuch auf deinem Tisch?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: Ob
+    - Esperanto-lernolibro: Esperanto-Lernbuch 
+    - estas: ist 
+    - sur: auf
+    - via: deinem 
+    - tablo: Tisch
     - '?'
 

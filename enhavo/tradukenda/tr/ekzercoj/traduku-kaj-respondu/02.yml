@@ -1,7 +1,7 @@
 - 
   demando: (Senin) Eski evin nasıldı?
   rektatraduko: 
-    - Kia: nasıl? ne çeşit?
+    - Kia: nasıl, ne çeşit
     - estis: -dı (yardımcı fiilin geçmiş zaman formu)
     - via: senin, -in
     - malnova: eski
@@ -10,7 +10,7 @@
 - 
   demando: (Sen) Hangi kitapları okudun, ve (onlar) iyi midirler? 
   rektatraduko: 
-    - Kiujn: Hangi 
+    - Kiujn: hangi (hangileri) 
     - librojn: kitapları
     - vi: sen
     - legis: okudun (okumak fiilinin geçmiş zamanı)
@@ -38,7 +38,7 @@
 - 
   demando: (Sen) Aşk hakkında kitaplar okumayı seviyor musun? 
   rektatraduko: 
-    - Ĉu: mu(sun)?
+    - Ĉu: musun
     - vi: sen
     - ŝatas: seviyor
     - legi: okumak
@@ -49,7 +49,7 @@
 - 
   demando: Seninle evine kim gidecek? 
   rektatraduko: 
-    - Kiu: kim?
+    - Kiu: kim
     - iros: gidecek (gelecek zaman)
     - kun: ile, -le
     - vi: sen
@@ -60,7 +60,7 @@
 - 
   demando: Kız arkadaşının gözleri nasıldır?
   rektatraduko: 
-    - Kiaj: nasıl, ne çeşit ? (çoğul formu)
+    - Kiaj: nasıl, ne çeşit (çoğul formu)
     - estas: -dır (yardımcı fiil)
     - la: (belirleyici artikel)
     - okuloj: gözler

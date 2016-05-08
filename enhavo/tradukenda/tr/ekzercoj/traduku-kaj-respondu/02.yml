@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: (Senin) Eski evin nasıldı?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: nasıl? ne çeşit?
+    - estis: -dı (yardımcı fiilin geçmiş zaman formu)
+    - via: senin, -in
+    - malnova: eski
+    - hejmo: ev 
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: (Sen) Hangi kitapları okudun, ve (onlar) iyi midirler? 
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: Hangi 
+    - librojn: kitapları
+    - vi: sen
+    - legis: okudun (okumak fiilinin geçmiş zamanı)
+    - kaj: ve
+    - ĉu: mi?
+    - ili: onlar
+    - estas: -dir, -dirler (yardımcı fiil)
+    - bonaj: iyi
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: Anna ve Mark, Mark'ın küçük odasında ne yaptılar? 
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kion: ne, neyi
+    - faris: yaptı
     - Anna: Anna
-    - kaj: and
+    - kaj: ve
     - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
+    - en: -de, -da (ismin de hali) 
+    - la: (belirleyici artikel)
+    - malgranda: küçük
+    - ĉambro: oda
+    - de: -in (sahiplik eki)
     - Marko: Mark
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: (Sen) Aşk hakkında kitaplar okumayı seviyor musun? 
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: mu(sun)?
+    - vi: sen
+    - ŝatas: seviyor
+    - legi: okumak
+    - librojn: kitaplar
+    - pri: hakkında
+    - amo: aşk
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Seninle evine kim gidecek? 
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: kim?
+    - iros: gidecek (gelecek zaman)
+    - kun: ile, -le
+    - vi: sen
+    - al: -e, -a (-e hali, yön belirtiyor) 
+    - via: senin
+    - hejmo: ev
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "Kız arkadaşının gözleri nasıldır?" 
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: nasıl, ne çeşit ? (çoğul formu)
+    - estas: -dır (yardımcı fiil)
+    - la: (belirleyici artikel)
+    - okuloj: gözler
+    - de: -in, -nin (sahiplik eki)
+    - via: senin
+    - amikino: kız arkadaş
     - '?'

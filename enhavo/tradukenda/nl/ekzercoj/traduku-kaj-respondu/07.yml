@@ -1,77 +1,77 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
-  rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+  demando: Wer hatte das Buch, auf das du mehr als zwei Jahre gewartet hast?
+  rektatraduko:
+    - Kiu: Wer
+    - havis: hatte 
+    - la: das 
+    - libron: Buch 
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
+    - kiun: welches 
+    - vi: du
+    - atendis: erwartetest 
+    - pli: mehr 
+    - ol: als 
+    - du: zwei 
+    - jarojn: Jahre 
     - '?'
 - 
-  demando: Do you want me to show you the photo which is dearest to me?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+  demando: Möchtest du, dass ich dir mein liebstes Foto zeige?
+  rektatraduko:
+    - Ĉu: Ob 
+    - vi: du 
+    - volas: willst 
     - ','
-    - ke: that
-    - mi: I
-    - montras: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - ke: dass 
+    - mi: ich 
+    - montras: zeige 
+    - al: zu 
+    - vi: dir 
+    - mian: mein 
+    - plej: am meisten 
+    - karan: liebes 
+    - foton: Foto 
     - '?'
 - 
-  demando: Where did you buy that garment?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+  demando: Wo hast du dieses Kleid gekauft?
+  rektatraduko:
+    - Kie: Wo 
+    - vi: du 
+    - aĉetis: kauftest 
+    - tiun: dieses 
+    - vestaĵon: Kleid 
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
-  rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+  demando: Wohin wirst du am Sonntag gehen, wenn es ein sonniger Tag sein wird?
+  rektatraduko:
+    - Kien: Wohin 
+    - vi: du 
+    - iros: wirst gehen 
+    - dimanĉe: am Sonntag 
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: wenn 
+    - estos: wird sein 
+    - suna: sonniger 
+    - tago: Tag 
     - '?'
 - 
-  demando: Did your brother already leave?
-  rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+  demando: Ist dein Bruder schon losgegangen?
+  rektatraduko:
+    - Ĉu: Ob 
+    - via: dein 
+    - frato: Bruder 
+    - jam: schon 
+    - ekiris: losging 
     - '?'
 - 
-  demando: Where is the water which you have brought yourself?
-  rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+  demando: Wo ist das Wasser, das du selbst mitgebracht hast?
+  rektatraduko:
+    - Kie: Wo 
+    - estas: ist 
+    - la: das
+    - akvo: Wasser 
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: das 
+    - vi: du 
+    - mem: selbst 
+    - kunportis: mitbrachtest 
     - '?'

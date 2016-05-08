@@ -1,86 +1,86 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
-  rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+  demando: Wer wird die Küche nach dem Mittagessen reinigen?
+  rektatraduko:
+    - Kiu: Wer
+    - purigos: wird reinigen 
+    - la: die 
+    - kuirejon: Küche 
+    - post: nach 
+    - la: dem 
+    - tagmanĝo: Mittagessen 
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+  demando: "Was willst du trinken: Tee, etwas Kaffee, oder willst du nichts?"
+  rektatraduko:
+    - Kion: Was 
+    - vi: du 
+    - volas: willst 
+    - trinki: trinken 
     - ':' 
-    - teon: tea
+    - teon: Tee 
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: etwas 
+    - da: vom 
+    - kafo: Kaffee 
+    - aŭ: oder 
+    - ĉu: ob 
+    - vi: du 
+    - volas: willst 
+    - nenion: nichts 
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+  demando: Weswegen hast du dich so plötzlich entschlossen, dein Zimmerchen zu erneuern?
+  rektatraduko:
+    - Kial: Warum 
+    - vi: du 
+    - tiel: so 
+    - subite: plötzlich 
+    - decidis: entschiedest 
+    - renovigi: renovieren 
+    - vian: dein 
+    - ĉambreton: Zimmerchen 
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
-  rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+  demando: Wem hast du die sauberen Gläser für den Wein gegeben?
+  rektatraduko:
+    - Al: Zu 
+    - kiu: wem 
+    - vi: du 
+    - donis: gabst 
+    - la: die 
+    - purajn: sauberen 
+    - glasojn: Gläser 
+    - por: für 
+    - la: den 
+    - vino: Wein 
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
-  rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+  demando: Gegen wen hat dein Sportklub vor zwei Wochen gespielt?
+  rektatraduko:
+    - Kontraŭ: Gegen 
+    - kiu: wen 
+    - ludis: spielte 
+    - via: dein 
+    - sportklubo: Sportklub 
+    - antaŭ: vor 
+    - du: zwei 
+    - semajnoj: Wochen 
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+  demando: Siehst du oft den Polizisten, der in der Wohnung über dir wohnt?
+  rektatraduko:
+    - Ĉu: Ob 
+    - vi: du 
+    - ofte: oft 
+    - vidas: siehst 
+    - la: den 
+    - policiston: Polizisten 
     - ',' 
-    - kiu: who
-    - loĝas: lives
+    - kiu: der 
+    - loĝas: wohnt 
     - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - la: der 
+    - loĝejo: Wohnung 
+    - super: über 
+    - vi: dir 
     - '?'

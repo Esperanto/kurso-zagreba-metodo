@@ -1,72 +1,72 @@
 - 
-  demando: What could delight your parents most of all?
-  rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+  demando: Was könnte deine Eltern am meisten erfreuen?
+  rektatraduko:
+    - Kio: Was 
+    - povus: könnte 
+    - plej: am meisten 
+    - ĝojigi: erfreuen 
+    - viajn: deine 
+    - gepatrojn: Eltern 
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
-  rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+  demando: Wenn wenigstens du nach dem Lernen mit mir in das Stadtzentrum gehen würdest!
+  rektatraduko:
+    - Se: Wenn
+    - almenaŭ: wenigstens 
+    - vi: du 
+    - post: nach 
+    - la: dem 
+    - lernado: Lernen 
+    - irus: würdest gehen 
+    - kun: mit 
+    - mi: mir 
+    - en: in 
+    - la: das 
+    - urbocentron: Stadtzentrum 
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
-  rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+  demando: Wohin würdest du reisen wollen, wenn du genug Geld und Zeit hättest?
+  rektatraduko:
+    - Kien: Wohin 
+    - vi: du 
+    - dezirus: würdest wollen
+    - vojaĝi: reisen 
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: wenn 
+    - vi: du 
+    - havus: hättest 
+    - sufiĉe: genug 
+    - da: an 
+    - mono: Geld 
+    - kaj: und 
+    - tempo: Zeit 
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - vojaĝas: travel
-    - per: by
-    - la: the
-    - aŭto: car
-    - al: to
-    - Parizo: Paris
-    - aŭ: or
-    - pli: more
-    - bone: better
-    - per: by
-    - la: the
-    - vagonaro: train
+  demando: Reist du mit dem Auto nach Paris oder besser mit dem Zug?
+  rektatraduko:
+    - Ĉu: Ob 
+    - vi: du 
+    - vojaĝas: reist 
+    - per: mit
+    - la: dem 
+    - aŭto: Auto 
+    - al: nach 
+    - Parizo: Paris 
+    - aŭ: oder 
+    - pli: mehr
+    - bone: gut 
+    - per: mit 
+    - la: dem 
+    - vagonaro: Zug 
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+  demando: Warum werden gleiche Ideen von verschiedenen Menschen verschiedenartig erklärt?
+  rektatraduko:
+    - Kial: Warum 
+    - diversaj: verschiedene 
+    - homoj: Menschen 
+    - klarigas: erklären 
+    - samajn: gleiche 
+    - ideojn: Ideen 
+    - diversmaniere: verschiedenartig 
     - '?'

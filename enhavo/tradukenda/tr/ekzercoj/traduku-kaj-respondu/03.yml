@@ -1,0 +1,76 @@
+-
+  demando: Büyük otellerdeki grasonlar bir çok dil anlıyorlar mı? 
+  rektatraduko:  
+    - Ĉu: mı? 
+    - kelneroj: garsonlar
+    - en: -de (ismin de hali)
+    - grandaj: büyük
+    - hoteloj: oteller
+    - komprenas: anlıyor
+    - multajn: bir çok, çok
+    - lingvojn: diller
+    - '?'
+-
+  demando: (Sen) Biliyor musun, Anna fakir bir adam ve güzel bir kız hakkındaki yeni şarkıyı seviyor mu?
+    - Ĉu: musun?
+    - vi: sen
+    - scias: biliyor
+    - ','
+    - ĉu: mu
+    - Anna: Anna 
+    - ŝatas: seviyor
+    - la: (belirleyici artikel)
+    - novan: yeni
+    - kanton: şarkı, şarkıyı
+    - pri: hakkında
+    - malriĉulo: fakir bir adam
+    - kaj: ve
+    - belulino: güzel bir kız
+    - '?'
+-
+  demando: Where did you see an old man and a young man who were carrying a large table?
+  rektatraduko: 
+    - Kie: Where
+    - vi: you
+    - vidis: did see
+    - la: the
+    - maljunulon: old man
+    - kaj: and
+    - la: the
+    - junulon: young man
+    - ','
+    - kiuj: who
+    - portis: were carrying
+    - grandan: big
+    - tablon: table
+    - '?'
+-
+  demando: How did it happen that you again came to us without brothers-and-sisters?
+  rektatraduko: 
+    - Kiel: How
+    - okazis: did it happen
+    - ','
+    - ke: that
+    - vi: you
+    - denove: again
+    - venis: came
+    - al: to 
+    - ni: us
+    - sen: without
+    - gefratoj: brothers-and-sisters
+    - '?'
+-
+  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  rektatraduko: 
+    - Ĉu: Whether
+    - vi: you
+    - povas: can
+    - per: with-the-help-of
+    - la: the 
+    - nova: new
+    - lernolibro: textbook
+    - sufiĉe: quite
+    - rapide: quickly
+    - lerni: learn
+    - Esperanton: Esperanto
+    - '?'

@@ -1,0 +1,70 @@
+- 
+  demando: (Senin) Eski evin nasıldı?
+  rektatraduko: 
+    - Kia: nasıl? ne çeşit?
+    - estis: -dı (yardımcı fiilin geçmiş zaman formu)
+    - via: senin, -in
+    - malnova: eski
+    - hejmo: ev 
+    - '?'
+- 
+  demando: (Sen) Hangi kitapları okudun, ve (onlar) iyi midirler? 
+  rektatraduko: 
+    - Kiujn: Hangi 
+    - librojn: kitapları
+    - vi: sen
+    - legis: okudun (okumak fiilinin geçmiş zamanı)
+    - kaj: ve
+    - ĉu: mi?
+    - ili: onlar
+    - estas: -dir, -dirler (yardımcı fiil)
+    - bonaj: iyi
+    - '?'
+- 
+  demando: Anna ve Mark, Mark'ın küçük odasında ne yaptılar? 
+  rektatraduko:
+    - Kion: ne, neyi
+    - faris: yaptı
+    - Anna: Anna
+    - kaj: ve
+    - Marko: Mark
+    - en: -de, -da (ismin de hali) 
+    - la: (belirleyici artikel)
+    - malgranda: küçük
+    - ĉambro: oda
+    - de: -in (sahiplik eki)
+    - Marko: Mark
+    - '?'
+- 
+  demando: (Sen) Aşk hakkında kitaplar okumayı seviyor musun? 
+  rektatraduko: 
+    - Ĉu: mu(sun)?
+    - vi: sen
+    - ŝatas: seviyor
+    - legi: okumak
+    - librojn: kitaplar
+    - pri: hakkında
+    - amo: aşk
+    - '?'
+- 
+  demando: Seninle evine kim gidecek? 
+  rektatraduko: 
+    - Kiu: kim?
+    - iros: gidecek (gelecek zaman)
+    - kun: ile, -le
+    - vi: sen
+    - al: -e, -a (-e hali, yön belirtiyor) 
+    - via: senin
+    - hejmo: ev
+    - '?'
+- 
+  demando: Kız arkadaşının gözleri nasıldır?
+  rektatraduko: 
+    - Kiaj: nasıl, ne çeşit ? (çoğul formu)
+    - estas: -dır (yardımcı fiil)
+    - la: (belirleyici artikel)
+    - okuloj: gözler
+    - de: -in, -nin (sahiplik eki)
+    - via: senin
+    - amikino: kız arkadaş
+    - '?'

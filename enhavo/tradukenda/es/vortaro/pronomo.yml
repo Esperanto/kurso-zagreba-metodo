@@ -1,7 +1,5 @@
-ili:
- - ellos
- - ellas
-li: he
+ili: ellos/as
+li:
  - él
 lia:
  - su (de él)
@@ -10,7 +8,7 @@ mi: yo
 mia:
  - mi
  - mío
-ni: nosotros
+ni: nosotros/as
 oni:
  - se
  - uno
@@ -19,8 +17,7 @@ vi:
  - tú
  - vos
  - usted
- - vosotros
- - vosotras
+ - vosotros/as
  - ustedes
 ĝi: "ello"
 ŝi: ella

@@ -1,5 +1,6 @@
-- leterportisto: brievendrager
-    - postbode
+- leterportisto: 
+  - brievendrager
+  - postbode
 - hejmlando: thuisland
 - iomete: een beetje
 - bonege: uitstekend
@@ -11,8 +12,9 @@
 - depreni: afnemen
 - loĝejo: woning
 - dufoje: tweemaal
-- multfoje: vele keren
-    - dikwijlq
+- multfoje: 
+  - vele keren
+  - dikwijlq
 - nomiĝi: heten
 - ruĝiĝi: rood worden
 - libreto: boekje

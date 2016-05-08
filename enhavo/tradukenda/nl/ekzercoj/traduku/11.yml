@@ -1,7 +1,8 @@
-- estraro: bestuur
-    - leiding
-- tagmeze: 's middags
-- posttagmeze: 's namiddags
+- estraro: 
+  - bestuur
+  - leiding
+- tagmeze: "'s middags"
+- posttagmeze: "'s namiddags"
 - malsata: hongerig
 - interkonsenti: onvereen komen
 - manĝilaro: bestek

@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: Kız arkadaşın kimdir?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Kim
+    - estas: -dir (yardımcı fiil)
+    - via: senin, -ın, -an vs
+    - amikino: kız arkadaş
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Kızarkadaşın Anna şimdi odada yazıyor mu?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
+    - Ĉu: mu?
+    - via: senin, -ın, -an vs
+    - amikino: kız arkadaş
     - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - skribas: yazıyor
+    - nun: şimdi
+    - en: -de, -da
+    - la: (belirleyici artikel) 
+    - ĉambro: oda
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: (Senin) Babanın arkadaşı bir otelde mi çalışıyor?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: mi?
+    - la: (belirleyici artikel)
+    - amiko: arkadaş
+    - de: -nın, -nun vs (ismin -den hali)
+    - via: senin
+    - patro: baba
+    - laboras: çalışıyor
+    - en: -de, -de (ismin -de hali)
+    - hotelo: otel
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: Odamızın çalışma tezgahının üzerinde ne vardır?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: ne? 
+    - estas: -dır (yardımcı fiil)
+    - sur: üzerinde
+    - la: (belirleyici artikel)
+    - labortablo: çalışma tezgahı
+    - en: -de, -da (ismin -de hali)
+    - nia: bizim
+    - ĉambro: oda
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: (Senin) Masanın üzerinde Esperanto ders kitabı var mı?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: mı?
+    - Esperanto-lernolibro: Esperanto ders kitabı
+    - estas: var (yardımcı fiil, sahiplik  fiili olarak da kullanılır)
+    - sur: üzerinde
+    - via: senin 
+    - tablo: masa(-nın)
     - '?'
 

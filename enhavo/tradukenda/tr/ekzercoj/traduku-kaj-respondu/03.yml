@@ -1,7 +1,7 @@
 -
   demando: Büyük otellerdeki grasonlar bir çok dil anlıyorlar mı? 
   rektatraduko:  
-    - Ĉu: mı? 
+    - Ĉu: mı 
     - kelneroj: garsonlar
     - en: -de (ismin de hali)
     - grandaj: büyük
@@ -12,7 +12,7 @@
     - '?'
 -
   demando: (Sen) Biliyor musun, Anna fakir bir adam ve güzel bir kız hakkındaki yeni şarkıyı beğeniyor mu?
-    - Ĉu: musun?
+    - Ĉu: musun
     - vi: sen
     - scias: biliyor
     - ','
@@ -47,7 +47,7 @@
   demando: Nasıl oldu ki sen gene bize kardeşler (kız+erkek her iki cins birlikte) olmaksızın geldin? 
   
   rektatraduko: 
-    - Kiel: nasıl?
+    - Kiel: nasıl
     - okazis: oldu
     - ','
     - ke: ki
@@ -62,7 +62,7 @@
 -
   demando: (Sen) Yeni eğitim kitabı sayesinde Esperanto'yu yeterince hızlı şekilde öğrenebilecek misin?
   rektatraduko: 
-    - Ĉu: misin?
+    - Ĉu: misin
     - vi: sen
     - povas: -bilecek (yapabilecek)
     - per: sayesinde, vasıtası ile 

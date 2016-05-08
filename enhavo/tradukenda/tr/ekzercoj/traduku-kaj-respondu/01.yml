@@ -9,7 +9,7 @@
 - 
   demando: Kızarkadaşın Anna şimdi odada yazıyor mu?
   rektatraduko:
-    - Ĉu: mu?
+    - Ĉu: mu
     - via: senin, -ın, -an vs
     - amikino: kız arkadaş
     - Anna: Anna
@@ -22,7 +22,7 @@
 - 
   demando: (Senin) Babanın arkadaşı bir otelde mi çalışıyor?
   rektatraduko:
-    - Ĉu: mi?
+    - Ĉu: mi
     - la: (belirleyici artikel)
     - amiko: arkadaş
     - de: -nın, -nun vs (ismin -den hali)
@@ -35,7 +35,7 @@
 - 
   demando: Odamızın çalışma tezgahının üzerinde ne vardır?
   rektatraduko:
-    - Kio: ne? 
+    - Kio: ne 
     - estas: -dır (yardımcı fiil)
     - sur: üzerinde
     - la: (belirleyici artikel)
@@ -47,7 +47,7 @@
 - 
   demando: (Senin) Masanın üzerinde Esperanto ders kitabı var mı?
   rektatraduko:
-    - Ĉu: mı?
+    - Ĉu: mı
     - Esperanto-lernolibro: Esperanto ders kitabı
     - estas: var (yardımcı fiil, sahiplik  fiili olarak da kullanılır)
     - sur: üzerinde

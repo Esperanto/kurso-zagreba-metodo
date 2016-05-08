@@ -1,32 +1,31 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Büyük otellerdeki grasonlar bir çok dil anlıyorlar mı? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: mı? 
+    - kelneroj: garsonlar
+    - en: -de (ismin de hali)
+    - grandaj: büyük
+    - hoteloj: oteller
+    - komprenas: anlıyor
+    - multajn: bir çok, çok
+    - lingvojn: diller
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+  demando: (Sen) Biliyor musun, Anna fakir bir adam ve güzel bir kız hakkındaki yeni şarkıyı seviyor mu?
+    - Ĉu: musun?
+    - vi: sen
+    - scias: biliyor
     - ','
-    - ĉu: whether
+    - ĉu: mu
     - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ŝatas: seviyor
+    - la: (belirleyici artikel)
+    - novan: yeni
+    - kanton: şarkı, şarkıyı
+    - pri: hakkında
+    - malriĉulo: fakir bir adam
+    - kaj: ve
+    - belulino: güzel bir kız
     - '?'
 -
   demando: Where did you see an old man and a young man who were carrying a large table?

@@ -1,12 +1,12 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- หลักสูตรนี้จะสอนคุณด้วย **คำที่สำคัญจำนวน 500 คำ**
+- **ไม่จำเป็นต้องลงทะเบียน** : เพียงแค่คลิก *เริ่ม*
+- **รับรองการใช้งาน** บนมือถือ
+- ฟรี ไม่เสียค่าใช้จ่ายและยังสามารถ**[ใช้ได้ฟรีในโครงการอื่น ๆ](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-The course consists of **12 lessons**, each with
+หลักสูตรนี้ประกอบด้วย **12 บทเรียน** โดยแต่ละบทจะประกอบไปด้วย
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+- บทอ่าน
+- คำอธิบายไวยากรณ์
+- และแบบฝึกหัด จำนวน 3 ข้อ
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+หลังจากคุณจบหลักสูตรนี้แล้ว คุณสามารถเข้าใจส่วนที่สำคัญ ๆ ของภาษาเอสเปรันโตได้และยังสามารถสร้างประโยคสำหรับการสื่อสารในชีวิตประจำวันได้อีกด้วย  อย่าช้าอยู่ ลองเลย!

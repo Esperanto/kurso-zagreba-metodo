@@ -1,7 +1,7 @@
 - Bu kurs size **en önemli 500 kelimeyi** öğretir
-- **Kayıt olmaya gerek yok**: Sadece *Start*'a tıklayın
+- **Kayıt olmaya gerek yok**: Sadece *Start* 'a tıklamanız yeterli
 - Akıllı telefonlar için **uyarlaması** hazırdır
-- sadece üvretsiz değil aynı zamanda **[başka projelerde kullanmak için de serbesttir](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Sadece üvretsiz değil aynı zamanda **[başka projelerde kullanmak için de serbesttir](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
 Kurs **12 ders**'ten meydana gelir, ve her birinde
 

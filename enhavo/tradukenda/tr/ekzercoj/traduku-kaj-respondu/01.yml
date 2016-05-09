@@ -3,14 +3,14 @@
   rektatraduko:
     - Kiu: Kim
     - estas: -dir yardımcı fiil 
-    - via: senin, -ın, -an vs
+    - via: senin, -ın, -an
     - amikino: kız arkadaş
     - '?'
 - 
   demando: Kızarkadaşın Anna şimdi odada yazıyor mu?
   rektatraduko:
     - Ĉu: mu
-    - via: senin, -ın, -an vs
+    - via: senin, -ın, -an
     - amikino: kız arkadaş
     - Anna: Anna
     - skribas: yazıyor
@@ -36,7 +36,7 @@
   demando: Odamızın çalışma tezgahının üzerinde ne vardır?
   rektatraduko:
     - Kio: ne 
-    - estas: -dır yardımcı fiil
+    - estas: -dır 
     - sur: üzerinde
     - la: (belirleyici artikel)
     - labortablo: çalışma tezgahı

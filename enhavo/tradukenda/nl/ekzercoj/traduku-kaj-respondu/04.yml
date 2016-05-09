@@ -1,73 +1,73 @@
 -
-  demando: Wann werde ich dich wiedersehen?
+  demando: Wanneer zal ik je weerzien?
   rektatraduko:
-    - Kiam: Wann
-    - mi: ich
-    - revidos: werde wiedersehen
-    - vin: Dich
+    - Kiam: Wanner
+    - mi: ik
+    - revidos: zal weerzein
+    - vin: je
     - '?'
 -
-  demando: Wie lange lernst du die Internationale Sprache?
+  demando: Hoe lang leer je de Internationale Taal?
   rektatraduko:
-    - Kiel: Wie
-    - longe: lange
-    - vi: du
-    - lernas: lernst
-    - la: die
+    - Kiel: Hoe
+    - longe: lang
+    - vi: je
+    - lernas: leert
+    - la: de
     - Internacian: Internationale
-    - Lingvon: Sprache
+    - Lingvon: Taal
     - '?'
 -
-  demando: Wo ist mein neues Buch mit Fotos?
+  demando: Waar is mijn nieuw boek met foto's?
   rektatraduko:
-    - Kie: Wo
-    - estas: ist
-    - mia: mein
-    - nova: neues
-    - libro: Buch
-    - kun: mit
-    - fotoj: Fotos
+    - Kie: Waar
+    - estas: is
+    - mia: mijn
+    - nova: nieuw
+    - libro: boek
+    - kun: met
+    - fotoj: foto's
     - '?'
 -
-  demando: Wohin gehst du nach dem Mittagessen?
+  demando: Waarheen zal je na het middagmaal gaan?
   rektatraduko:
-    - Kien: Wohin
-    - vi: du
-    - iros: wirst gehen
-    - post: nach
-    - la: dem
-    - tagmanĝo: Mittagessen
+    - Kien: Waarheen
+    - vi: je
+    - iros: zal gaan
+    - post: na
+    - la: het
+    - tagmanĝo: mittagmaal
     - '?'
 -
-  demando: Kann man die Tür des Zimmers schließen, wenn es kalt ist?
+  demando: Kan men de deur van de kamer sluiten, als het koud is?
   rektatraduko:
-    - Ĉu: Ob
-    - oni: man
-    - povas: kann
-    - fermi: schließen
-    - la: die
-    - pordon: Tür
-    - de: von
-    - la: dem
-    - ĉambro: Zimmer
+    - Ĉu: Of
+    - oni: men
+    - povas: kan
+    - fermi: sluiten
+    - la: de
+    - pordon: deur
+    - de: van
+    - la: de
+    - ĉambro: kamer
     - ','
-    - kiam: wenn
-    - estas: ist
-    - malvarme: kalt
+    - kiam: als
+    - estas: is
+    - malvarme: koud
     - '?'
 -
-  demando: Wie lange bist du zornig, wenn man dir viel Geld wegnimmt?
+  demando: Hoe lang ben je boos, indien men van je veel geld wegneemt?
   rektatraduko:
-    - Kiel: Wie
-    - longe: lange
-    - vi: du
-    - koleras: ärgerst
+    - Kiel: Hoe
+    - longe: lang
+    - vi: je
+    - koleras: bent boos
     - ','
-    - se: wenn
-    - oni: man
-    - forprenas: wegnimmt
-    - de: von
-    - vi: dir
-    - multan: viel
-    - monon: Geld
+    - se: indien
+    - oni: men
+    - forprenas: wegneemt
+    - de: van
+    - vi: je
+    - multan: veel
+    - monon: geld
     - '?'

@@ -9,8 +9,8 @@
 -
   demando: Uluslararası dili ne kadar zaman öğreniyorsun?
   rektatraduko: 
-    - Kiel: nasıl (ne kadar)
-    - longe: uzun şekilde (zaman)
+    - Kiel: nasıl, ne kadar
+    - longe: uzun
     - vi: sen
     - lernas: öğreniyorsun
     - la: (belirleyici artikel)
@@ -21,7 +21,7 @@
   demando: Fotoğraflar ile birlikte benim yeni kitabım nerededir?
   rektatraduko: 
     - Kie: nerede
-    - estas: -dır, -dir (yardımcı fiil)
+    - estas: -dır, -dir 
     - mia: benim
     - nova: yeni
     - libro: kitap
@@ -47,18 +47,18 @@
     - fermi: kapatmak
     - la: (belireyici artikel)
     - pordon: kapıyı
-    - de: -nin, -nin (sahiplik eki)  
+    - de: -nin, -nin  
     - la: (Belirleyici artikel)
     - ĉambro: oda
     - ','
     - kiam: zaman
-    - estas: olduğu (yardımcı fiil)
+    - estas: olduğu 
     - malvarme: soğuk 
     - '?'
 -
   demando: Eğer biri senden çok para alıp götürürse ne kadar uzun kızarsın?
   rektatraduko: 
-    - Kiel: nasıl (ne kadar)
+    - Kiel: nasıl, ne kadar
     - longe: uzun
     - vi: sen
     - koleras: kızarsın
@@ -66,7 +66,7 @@
     - se: eğer
     - oni: biri
     - forprenas: alıp götürürse
-    - de: -den (-den hali)
+    - de: -den 
     - vi: sen
     - multan: çok
     - monon: para

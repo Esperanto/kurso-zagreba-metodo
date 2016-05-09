@@ -1,72 +1,72 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: Ebeveynlerinizi en çok ne memnun edebilirdi?
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: ne
+    - povus: -bilirdi, yapabilirdi, edebilirdi
+    - plej: en çok
+    - ĝojigi: memnun etmek
+    - viajn: sizin
+    - gepatrojn: ebeveyn (iki cins birden)
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: Okuldan sonra benle hiç olmazsa şehir merkezine gitmek isteseydin eğer!
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: eğer
+    - almenaŭ: hiç olmazsa
+    - vi: sen
+    - post: sonra
+    - la: (belirleyici artikel)
+    - lernado: eğitim, okul
+    - irus: gitseydin
+    - kun: ile
+    - mi: ben
+    - en: -e, içine (ismin -e hali)
+    - la: (belirleyici artikel)
+    - urbocentron: şehir merkezi
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: Eğer yeterli para ve zamanınız olsaydı nereye seyahat etmeyi arzu ederdiniz?
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: nereye
+    - vi: siz
+    - dezirus: arzu ederdiniz
+    - vojaĝi: seyahat etmek
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: eğer
+    - vi: siz
+    - havus: sahip olsaydı
+    - sufiĉe: yeterli
+    - da: -den, -dan, bir şeyden
+    - mono: para
+    - kaj: ve
+    - tempo: zaman
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car?
+  demando: Paris'e otomobil ile seyahat etmeği mi planlıyorsunuz yoksa daha iyisi tren ile mi?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - vojaĝas: travel
-    - per: by
-    - la: the
-    - aŭto: car
-    - al: to
-    - Parizo: Paris
-    - aŭ: or
-    - pli: more
-    - bone: better
-    - per: by
-    - la: the
-    - vagonaro: train
+    - Ĉu: mi
+    - vi: siz
+    - planas : planlıyor
+    - per: ile, vasıtası ile
+    - la: (belirleyici artikel)
+    - aŭto: otomobil
+    - al: -e (-ismin -e hali, yön belirliyor=
+    - Parizo: Paris'e
+    - aŭ: yoksa veya
+    - pli: daha 
+    - bone: iyi, iyisi
+    - per: ile, vasıtası ile
+    - la: (belirleyici artikel)
+    - vagonaro: tren
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: Neden aynı fikirleri farklı insanlar farklı şekilde açıklıyor?
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: neden, niçin
+    - diversaj: farklı
+    - homoj: insanlar
+    - klarigas: açıklıyor
+    - samajn: aynı, benzer
+    - ideojn: fikirler
+    - diversmaniere: farklı şekilde 
     - '?'

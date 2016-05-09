@@ -1,5 +1,5 @@
 -
-  demando: (Ben) seni ne zaman tekrar göreceğim?
+  demando: Seni ne zaman tekrar göreceğim?
   rektatraduko: 
     - Kiam: ne zaman
     - mi: ben  
@@ -7,10 +7,10 @@
     - vin: seni
     - '?'
 -
-  demando: (Sen) Nasıl uzun şekilde öğreniyorsun uluslararası dili?
+  demando: Uluslararası dili ne kadar zaman öğreniyorsun?
   rektatraduko: 
-    - Kiel: nasıl
-    - longe: uzun şekilde (zarf)
+    - Kiel: nasıl (ne kadar)
+    - longe: uzun şekilde (zaman)
     - vi: sen
     - lernas: öğreniyorsun
     - la: (belirleyici artikel)
@@ -29,7 +29,7 @@
     - fotoj: fotoğraflar
     - '?'
 -
-  demando: (Sen) Öğle yemeğinden sonra nereye gideceksin?
+  demando: Öğle yemeğinden sonra nereye gideceksin?
   rektatraduko: 
     - Kien: Nereye
     - vi: sen
@@ -39,7 +39,7 @@
     - tagmanĝo: öğle yemeği
     - '?'
 -
-  demando: Birisi kapatabilir mi odanın kapısını, soğuk olduğu zaman?
+  demando: Soğuk olduğu zaman odanın kapısını birisi kapatabilir mi?
   rektatraduko: 
     - Ĉu: mi
     - oni: birisi
@@ -56,9 +56,9 @@
     - malvarme: soğuk 
     - '?'
 -
-  demando: Eğer biri senden çok para alıp götürürse nasıl uzun kızarsın?
+  demando: Eğer biri senden çok para alıp götürürse ne kadar uzun kızarsın?
   rektatraduko: 
-    - Kiel: nasıl
+    - Kiel: nasıl (ne kadar)
     - longe: uzun
     - vi: sen
     - koleras: kızarsın

@@ -20,7 +20,7 @@
     - ĉambro: oda
     - '?'
 - 
-  demando: (Senin) Babanın arkadaşı bir otelde mi çalışıyor?
+  demando: Babanın arkadaşı bir otelde mi çalışıyor?
   rektatraduko:
     - Ĉu: mi
     - la: (belirleyici artikel)
@@ -45,11 +45,11 @@
     - ĉambro: oda
     - '?'
 - 
-  demando: (Senin) Masanın üzerinde Esperanto ders kitabı var mı?
+  demando: Senin masanın üzerinde Esperanto ders kitabı mı var?
   rektatraduko:
     - Ĉu: mı
     - Esperanto-lernolibro: Esperanto ders kitabı
-    - estas: var (yardımcı fiil, sahiplik  fiili olarak da kullanılır)
+    - estas: var (yardımcı fiil, sahiplik fiili olarak da kullanılır)
     - sur: üzerinde
     - via: senin 
     - tablo: masa(-nın)

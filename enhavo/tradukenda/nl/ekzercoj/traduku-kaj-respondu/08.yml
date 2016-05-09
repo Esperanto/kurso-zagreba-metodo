@@ -1,86 +1,86 @@
 - 
-  demando: Wer wird die Küche nach dem Mittagessen reinigen?
+  demando: Wie zal de keuken reinigen na het middagmaal?
   rektatraduko:
-    - Kiu: Wer
-    - purigos: wird reinigen 
-    - la: die 
-    - kuirejon: Küche 
-    - post: nach 
-    - la: dem 
-    - tagmanĝo: Mittagessen 
+    - Kiu: Wie
+    - purigos: zal reinigen 
+    - la: de 
+    - kuirejon: keuken 
+    - post: na 
+    - la: het 
+    - tagmanĝo: middagmaal 
     - '?'
 - 
-  demando: "Was willst du trinken: Tee, etwas Kaffee, oder willst du nichts?"
+  demando: "Wa wil je drinken: thTee, een beetje koffie, of wil je niets?"
   rektatraduko:
-    - Kion: Was 
-    - vi: du 
-    - volas: willst 
-    - trinki: trinken 
+    - Kion: Wat 
+    - vi: je 
+    - volas: wil 
+    - trinki: drinken 
     - ':' 
-    - teon: Tee 
+    - teon: thee 
     - ',' 
-    - iom: etwas 
-    - da: vom 
-    - kafo: Kaffee 
-    - aŭ: oder 
-    - ĉu: ob 
-    - vi: du 
-    - volas: willst 
-    - nenion: nichts 
+    - iom: een beetje 
+    - da: van de 
+    - kafo: koffie 
+    - aŭ: of 
+    - ĉu: of 
+    - vi: je 
+    - volas: wil 
+    - nenion: niets 
     - '?'
 - 
-  demando: Weswegen hast du dich so plötzlich entschlossen, dein Zimmerchen zu erneuern?
+  demando: Waarom heb je zo plots beslist, jouw kamertje te vernieuwen?
   rektatraduko:
-    - Kial: Warum 
-    - vi: du 
-    - tiel: so 
-    - subite: plötzlich 
-    - decidis: entschiedest 
-    - renovigi: renovieren 
-    - vian: dein 
-    - ĉambreton: Zimmerchen 
+    - Kial: Waarom 
+    - vi: je 
+    - tiel: zo 
+    - subite: plots 
+    - decidis: hebt beslist 
+    - renovigi: vernieuwen 
+    - vian: jouw 
+    - ĉambreton: kamertje 
     - '?'
 - 
-  demando: Wem hast du die sauberen Gläser für den Wein gegeben?
+  demando: Aan wie heb je de reine glazen voor de wijn gegeven?
   rektatraduko:
-    - Al: Zu 
-    - kiu: wem 
-    - vi: du 
-    - donis: gabst 
-    - la: die 
-    - purajn: sauberen 
-    - glasojn: Gläser 
-    - por: für 
-    - la: den 
-    - vino: Wein 
+    - Al: Aan 
+    - kiu: wie 
+    - vi: je 
+    - donis: gaf 
+    - la: de 
+    - purajn: reine 
+    - glasojn: glazen 
+    - por: voor 
+    - la: de 
+    - vino: wijn 
     - '?'
 - 
-  demando: Gegen wen hat dein Sportklub vor zwei Wochen gespielt?
+  demando: Tegen wie heeft je sportclub twee weken geleden gespeeld?
   rektatraduko:
-    - Kontraŭ: Gegen 
-    - kiu: wen 
-    - ludis: spielte 
-    - via: dein 
-    - sportklubo: Sportklub 
-    - antaŭ: vor 
-    - du: zwei 
-    - semajnoj: Wochen 
+    - Kontraŭ: Tegen 
+    - kiu: wie 
+    - ludis: heeft gespeeld 
+    - via: je 
+    - sportklubo: sportclub 
+    - antaŭ: voor 
+    - du: twee 
+    - semajnoj: weken 
     - '?'
 - 
-  demando: Siehst du oft den Polizisten, der in der Wohnung über dir wohnt?
+  demando: Zie je vaak de politieman, die in de woning boven jou woont?
   rektatraduko:
-    - Ĉu: Ob 
-    - vi: du 
-    - ofte: oft 
-    - vidas: siehst 
-    - la: den 
-    - policiston: Polizisten 
+    - Ĉu: Of 
+    - vi: je 
+    - ofte: vaak 
+    - vidas: ziet 
+    - la: de 
+    - policiston: politieman 
     - ',' 
-    - kiu: der 
-    - loĝas: wohnt 
+    - kiu: die 
+    - loĝas: woont 
     - en: in 
-    - la: der 
-    - loĝejo: Wohnung 
-    - super: über 
-    - vi: dir 
+    - la: de 
+    - loĝejo: woning
+    - super: boven 
+    - vi: jou 
     - '?'

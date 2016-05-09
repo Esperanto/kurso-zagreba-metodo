@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: (Siz) Size en yeni kitabı göstermemi arzu ediyor musunuz?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: musunuz
+    - vi: siz
+    - deziras: arzu etmek
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: ki 
+    - mi: ben
+    - montras: gösteriyorum
+    - al: -e (ismin -e hali)
+    - vi: siz
+    - mian: benim
+    - plej: en, en fazla
+    - novan: yeni
+    - libron: kitabı
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: (Siz) Yarın kahvaltı ethmek için ne istiyorsunuz?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: ne(yi)
+    - vi: siz
+    - volas: istiyor
+    - morgaŭ: yarın
+    - matenmanĝi: kahvaltı etmek
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: Mark ne zamak gelecek, saat beşte mi veya sekizde mi?
   rektatraduko: 
-    - Kiam: When
+    - Kiam: ne zaman
     - Marko: Mark
-    - alvenos: will arrive
+    - alvenos: varacak, gelecek
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: -te, -de (zaman ve genel edatı)
+    - la: (belirleyici artikel)
+    - kvina: beş (beşinci)
+    - aŭ: veya
+    - je: -te, -de (zaman ve genel edatı)
+    - la: (belirleyici artikel)
+    - oka: sekiz (sekizinci)
+    - horo: saat
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: (Siz) Ne zaman farkına vardınız ki tüm aile bani iyiliksever olarak adlandırıyor?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: ne zaman
+    - vi: siz
+    - rimarkis: farkına vardın
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: ki
+    - la: (belirleyici artikel) 
+    - tuta: tüm
+    - familio: aile
+    - nomas: adlandırıyor
+    - min: beni
+    - bonfarulo: iyiliksever
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Size gönderdiğim kitapçık yardımcı oldu mu?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: mu
+    - la: (belirleyici artikel) 
+    - libreto: kitapçık
+    - estis: idi (yardımcı fiil)
+    - utila: yardımcı, faydalı
+    - al: -e
+    - vi: siz
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: ki onu
+    - mi: ben
+    - sendis: gönderdi
     - '?'

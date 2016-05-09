@@ -1,59 +1,78 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: อะไร
+tio: สิ่งนั้น
+io: บางสิ่ง
+ĉio: ทุกสิ่ง
+nenio: ไม่มีสักอย่าง
 kiu:
-- who
-- which
+- ใคร
+- อันไหน
 tiu:
-- that person
-- that one
-iu: someone
+- คนนั้น
+- อัน/สิ่งนั้น
+iu: 
+- บางคน
+- บางอัน/สิ่ง
 ĉiu:
-- everyone
-- every
+- แต่ละคน
+- ทุก ๆ
 neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
+- ไม่มีสักคน
+- ไม่มีสักสิ่ง/อัน
+kie: ที่ไหน
+tie: ที่นั้น
+ie: บางที่
+ĉie: ทุก ๆ ที่
+nenie: ไม่มีสักที่
+kia: 
+- ลักษณะเป็นอย่างไร
+- แบบไหน
+tia: 
+- ลักษณะนั้น
+- แบบนั้น
+ia: บางลักษณะ
+ĉia: ทุกลักษณะ
+nenia: ไม่มีสักลักษณะ
+kiel: 
+- วิธีใด
+- อย่างไร
+tiel: 
+- วิธีนั้น
+- อย่างนั้น
+iel: บางอย่าง
+ĉiel: ทุกวิธี
+neniel: ไม่มีสักวิธี
+kial: 
+- ทำไม
+- เหตุใด
+tial: เหตุนั้น
+ial: บางเหตุผล
+ĉial: ทุก ๆ เหตุผล
+nenial: ไม่มีเหตุผล
+kiam: 
+- เวลาใด
+- ตอนไหน
+tiam: 
+- เวลานั้น
+- ตอนนั้น
+iam: 
+- บางเวลา
+- เคย
+ĉiam: ทุกเวลา, เสมอ ๆ
+neniam: ไม่มีสักเวลา, ไม่เคย
+kiom: เท่าไหร่
+tiom:จำนวนนั้น
 iom: 
-- to some extent
-- a certain amount
+- จำนวนหนึ่ง
 ĉiom: 
-- all of it
-- the whole amount
+- ทั้งหมด
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- ไม่มีเลย
+kies: ของใคร
+ties: 
+- ของคนนั้น
+- ของสิ่งนั้น
+ies: 
+- ของบางคน
+- ของบางสิ่ง
+ĉies: ของทุกคน
+nenies: ไม่มีเจ้าของ

@@ -1,86 +1,86 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: Öğle yemeğinden sonra mutfağı kim temizleyecek?
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: kim
+    - purigos: temizleyecek
+    - la: (beirleyici artikel)
+    - kuirejon: mutfak'ı
+    - post: sonra, -den sonra
+    - la: (belirleyici artikel)
+    - tagmanĝo: öğle yemeği
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: Ne içmek istiyorsun, çay, biraz kahve yoksa hiç bir şey istemiyor musun?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: ne, neyi
+    - vi: sen
+    - volas: istiyorsun
+    - trinki: içmek
     - ':' 
-    - teon: tea
+    - teon: çay
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: biraz
+    - da: -den, -dan
+    - kafo: kahve
+    - aŭ: yoksa, veya
+    - ĉu: mi
+    - vi: sen
+    - volas: istiyor
+    - nenion: hiçbirşey'i
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: Niçin böyle aniden küçük odanızı yenilemeye karar verdiniz?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: neden, miçin
+    - vi: siz
+    - tiel: böyle
+    - subite: aniden
+    - decidis: karar verdi
+    - renovigi: yenilemek
+    - vian: sizin
+    - ĉambreton: küçük oda'yı
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: Şarap için temiz kadehlerini kime verdin?
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: -e (ismin -e hali)
+    - kiu: kim
+    - vi: sen
+    - donis: verdin
+    - la: (belirleyici artikel)
+    - purajn: temiz
+    - glasojn: bardaklar'ı
+    - por: için 
+    - la: (belirleyici artikel)
+    - vino: şarap
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: Spor kulübünüz iki hafta önce kime karşı oynadı?
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: Karşı
+    - kiu: kim
+    - ludis: oynadı
+    - via: sizin
+    - sportklubo: spor kulübü
+    - antaŭ: önce
+    - du: iki
+    - semajnoj: hafta
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: Sizin üzerinizdeki dairede yaşayan polisi sık sık görüyor musunuz?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: musunuz
+    - vi: siz
+    - ofte: sık sık
+    - vidas: görüyor
+    - la: (belirleyici artikel)
+    - policiston: polis
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: ki o
+    - loĝas: yaşıyor
+    - en: -de, içinde 
+    - la: (belirleyici artikel)
+    - loĝejo: daire
+    - super: üzeri, üzerinde
+    - vi: siz
     - '?'

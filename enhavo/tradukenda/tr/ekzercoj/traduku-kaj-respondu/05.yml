@@ -1,65 +1,65 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: Biri neşeli şekilde şarkı söylediği sırada sen sakin şekilde öğrenebilir misin?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: misin
+    - vi: sen
+    - povas: -bilir, yapabilir
+    - trankvile: sakin şekilde, sakince
+    - lerni: öğrenmek
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: sırada, sırasında
+    - iu: biri, birisi
+    - ĝoje: neşeli
+    - kantas: şarkı söylüyor
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Kim bilir, ne zaman ve nerede biz tekrar göreceğiz bizi?
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Kİm
+    - scias: bilir
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: ne zaman 
+    - kaj: ve
+    - kie: nerede
+    - ni: biz
+    - revidos: tekrar görecegiz
+    - nin: bizi
     - '?'
 -
-  demando: What time is it now?
+  demando: Saat kaç şimdi?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: kaç, kaçıncı
+    - horo: saat
+    - estas: -dır  
+    - nun: şimdi
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Biri size eski evin kapısını açmaya yardımcı oldu mu?
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: Mu
+    - iu: biri 
+    - helpis: yardımcı oldu 
+    - al: -e 
+    - vi: siz 
+    - malfermi: açmak 
+    - la: belirleyici artikel
+    - pordon: kapıyı
+    - de: -in 
+    - la: belirleyici artikel
+    - malnova: eski
+    - domo: ev
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Neden beni daha fazla dinlemeye vaktiniz yok?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - al: to
-    - mi: me
-    - pli: more
+    - Kial: neden
+    - vi: siz
+    - ne: yok, hayır, -meyecek, -miyorum vs
+    - havas: sahip olmak
+    - tempon: zaman
+    - aŭskulti: dinlemek
+    - al: -ni 
+    - mi: ben
+    - pli: daha fazla
     - longe: long
     - '?'

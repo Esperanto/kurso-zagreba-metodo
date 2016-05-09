@@ -148,6 +148,7 @@ lingvoj = {
   'fr': u'Français',
   'es': u'Español',
   'ms': u'Bahasa Melayu',
+  'tr': u'Türkçe (test)',
   'zh': u'中文'
 }
 

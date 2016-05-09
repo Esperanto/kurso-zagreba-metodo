@@ -1,77 +1,77 @@
 -
-  demando: Verstehen Kellner in großen Hotels viele Sprachen?
+  demando: Verstaan obers in grote hotels veel talen?
   rektatraduko:
-    - Ĉu: Ob
-    - kelneroj: Kellner
+    - Ĉu: Of
+    - kelneroj: obers
     - en: in
-    - grandaj: großen
-    - hoteloj: Hotels
-    - komprenas: verstehen
-    - multajn: viele
-    - lingvojn: Sprachen
+    - grandaj: grote
+    - hoteloj: hotels
+    - komprenas: verstaan
+    - multajn: veel
+    - lingvojn: talen
     - '?'
 -
-  demando: Weißt du, ob Anna das neue Lied über einen Armen und eine Schöne mag?
+  demando: Weet je, of Anna houdt van het nieuwe lied over een arme en een schone?
   rektatraduko:
-    - Ĉu: Ob
-    - vi: du
-    - scias: weißt
+    - Ĉu: Of
+    - vi: je
+    - scias: weet
     - ','
-    - ĉu: ob
+    - ĉu: of
     - Anna: Anna
-    - ŝatas: mag
-    - la: das
-    - novan: neue
-    - kanton: Lied
-    - pri: über
-    - malriĉulo: einen Armen
-    - kaj: und
-    - belulino: eine Schöne
+    - ŝatas: houdt van
+    - la: het
+    - novan: nieuwe
+    - kanton: lied
+    - pri: over
+    - malriĉulo: eeen arme
+    - kaj: en
+    - belulino: een schone
     - '?'
 -
-  demando: Wo hast du den Alten und den Jungen gesehen, die einen großen Tisch getragen haben?
+  demando: Waar zag je de oude en de jonge, die een grote tafel droegen?
   rektatraduko:
-    - Kie: Wo
-    - vi: du
-    - vidis: sahst
-    - la: den
-    - maljunulon: Alten
-    - kaj: und
-    - la: den
-    - junulon: Jungen
+    - Kie: Waar
+    - vi: je
+    - vidis: zag
+    - la: de
+    - maljunulon: oude
+    - kaj: en
+    - la: de
+    - junulon: jonge
     - ','
     - kiuj: die
-    - portis: trugen
-    - grandan: großen
-    - tablon: Tisch
+    - portis: droegen
+    - grandan: grote
+    - tablon: tafel
     - '?'
 -
-  demando: Wie kam es, dass du wieder ohne Geschwister zu uns gekommen bist?
+  demando: Hoe gebeurde het, dat je opnieuw kwam naar ons zonder broers en zussen?
   rektatraduko:
-    - Kiel: Wie
-    - okazis: geschah
+    - Kiel: Hoe
+    - okazis: gebeurde
     - ','
-    - ke: dass
-    - vi: du
-    - denove: erneut
-    - venis: kamst
-    - al: zu
-    - ni: uns
-    - sen: ohne
-    - gefratoj: Geschwister
+    - ke: dat
+    - vi: je
+    - denove: opnieuw
+    - venis: kwam
+    - al: naar
+    - ni: ons
+    - sen: zonder
+    - gefratoj: broers en zussen
     - '?'
 -
-  demando: Kannst du mit dem neuen Lehrbuch schnell genug Esperanto lernen?
+  demando: Kan je met het nieuwe leerboek snel genoeg Esperanto leren?
   rektatraduko:
-    - Ĉu: Ob
-    - vi: du
-    - povas: kannst
-    - per: mit
-    - la: dem
-    - nova: neuen
-    - lernolibro: Lernbuch
-    - sufiĉe: genug
-    - rapide: schnell
-    - lerni: lernen
+    - Ĉu: Of
+    - vi: je
+    - povas: kan
+    - per: met
+    - la: het
+    - nova: nieuwe
+    - lernolibro: Leerboek
+    - sufiĉe: genoeg
+    - rapide: snel
+    - lerni: leren
     - Esperanton: Esperanto
     - '?'

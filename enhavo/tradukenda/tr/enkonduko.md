@@ -1,12 +1,12 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Bu kurs size **en önemli 500 kelimeyi** öğretir
+- **Kayıt olmaya gerek yok**: Sadece *Start* 'a tıklamanız yeterli
+- Akıllı telefonlar için **mobil uyarlaması** hazırdır
+- Kurs adece ücretsiz değil aynı zamanda **[başka projelerde kullanmak için de serbesttir](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-The course consists of **12 lessons**, each with
+Kurs **12 ders**'ten meydana gelir, ve her birinde
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+- bir metin
+- bir gramer açıklaması
+- ve 3 alıştırma vardır.
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+Kursu tamamladıktan sonra en önemli şeyleri anlayabilecek ve kendinizi ifade edecek şekilde cümleler oluşturabileceksiniz. Sadece deneyin!

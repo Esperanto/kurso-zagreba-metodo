@@ -1,5 +1,5 @@
 -
-  demando: (Ben) seni ne zaman tekrar göreceğim?
+  demando: Seni ne zaman tekrar göreceğim?
   rektatraduko: 
     - Kiam: ne zaman
     - mi: ben  
@@ -7,10 +7,10 @@
     - vin: seni
     - '?'
 -
-  demando: (Sen) Nasıl uzun şekilde öğreniyorsun uluslararası dili?
+  demando: Uluslararası dili ne kadar zaman öğreniyorsun?
   rektatraduko: 
-    - Kiel: nasıl
-    - longe: uzun şekilde (zarf)
+    - Kiel: nasıl, ne kadar
+    - longe: uzun
     - vi: sen
     - lernas: öğreniyorsun
     - la: (belirleyici artikel)
@@ -21,7 +21,7 @@
   demando: Fotoğraflar ile birlikte benim yeni kitabım nerededir?
   rektatraduko: 
     - Kie: nerede
-    - estas: -dır, -dir (yardımcı fiil)
+    - estas: -dır, -dir 
     - mia: benim
     - nova: yeni
     - libro: kitap
@@ -29,7 +29,7 @@
     - fotoj: fotoğraflar
     - '?'
 -
-  demando: (Sen) Öğle yemeğinden sonra nereye gideceksin?
+  demando: Öğle yemeğinden sonra nereye gideceksin?
   rektatraduko: 
     - Kien: Nereye
     - vi: sen
@@ -39,7 +39,7 @@
     - tagmanĝo: öğle yemeği
     - '?'
 -
-  demando: Birisi kapatabilir mi odanın kapısını, soğuk olduğu zaman?
+  demando: Soğuk olduğu zaman odanın kapısını birisi kapatabilir mi?
   rektatraduko: 
     - Ĉu: mi
     - oni: birisi
@@ -47,18 +47,18 @@
     - fermi: kapatmak
     - la: (belireyici artikel)
     - pordon: kapıyı
-    - de: -nin, -nin (sahiplik eki)  
+    - de: -nin, -nin  
     - la: (Belirleyici artikel)
     - ĉambro: oda
     - ','
     - kiam: zaman
-    - estas: olduğu (yardımcı fiil)
+    - estas: olduğu 
     - malvarme: soğuk 
     - '?'
 -
-  demando: Eğer biri senden çok para alıp götürürse nasıl uzun kızarsın?
+  demando: Eğer biri senden çok para alıp götürürse ne kadar uzun kızarsın?
   rektatraduko: 
-    - Kiel: nasıl
+    - Kiel: nasıl, ne kadar
     - longe: uzun
     - vi: sen
     - koleras: kızarsın
@@ -66,7 +66,7 @@
     - se: eğer
     - oni: biri
     - forprenas: alıp götürürse
-    - de: -den (-den hali)
+    - de: -den 
     - vi: sen
     - multan: çok
     - monon: para

@@ -1,77 +1,77 @@
 - 
-  demando: Wer hatte das Buch, auf das du mehr als zwei Jahre gewartet hast?
+  demando: Wie had het boek, dat je meer dan twee jaar verwacht hebt?
   rektatraduko:
-    - Kiu: Wer
-    - havis: hatte 
-    - la: das 
-    - libron: Buch 
+    - Kiu: Wie
+    - havis: had 
+    - la: het 
+    - libron: boek 
     - ',' 
-    - kiun: welches 
-    - vi: du
-    - atendis: erwartetest 
-    - pli: mehr 
-    - ol: als 
-    - du: zwei 
-    - jarojn: Jahre 
+    - kiun: dat 
+    - vi: je
+    - atendis: verwacht hebt 
+    - pli: meer 
+    - ol: dan 
+    - du: twee 
+    - jarojn: jaar 
     - '?'
 - 
-  demando: Möchtest du, dass ich dir mein liebstes Foto zeige?
+  demando: Wil je, dat ik je mijn liefste foto toon?
   rektatraduko:
-    - Ĉu: Ob 
-    - vi: du 
-    - volas: willst 
+    - Ĉu: Of 
+    - vi: je 
+    - volas: wil 
     - ','
-    - ke: dass 
-    - mi: ich 
-    - montras: zeige 
-    - al: zu 
-    - vi: dir 
-    - mian: mein 
-    - plej: am meisten 
-    - karan: liebes 
-    - foton: Foto 
+    - ke: dat 
+    - mi: ik 
+    - montras: toon 
+    - al: aan
+    - vi: jou 
+    - mian: mijn 
+    - plej: meest 
+    - karan: geliefde 
+    - foton: foto 
     - '?'
 - 
-  demando: Wo hast du dieses Kleid gekauft?
+  demando: Waar heb je dat kleed gekocht?
   rektatraduko:
-    - Kie: Wo 
-    - vi: du 
-    - aĉetis: kauftest 
-    - tiun: dieses 
-    - vestaĵon: Kleid 
+    - Kie: Waar 
+    - vi: je 
+    - aĉetis: hebt gekocht 
+    - tiun: dat 
+    - vestaĵon: kleed 
     - '?'
 - 
-  demando: Wohin wirst du am Sonntag gehen, wenn es ein sonniger Tag sein wird?
+  demando: Waarheen zal je op zondag gaan, als het een zonnige dag zal zijn?
   rektatraduko:
-    - Kien: Wohin 
-    - vi: du 
-    - iros: wirst gehen 
-    - dimanĉe: am Sonntag 
+    - Kien: Waarheen 
+    - vi: je 
+    - iros: zal gaan 
+    - dimanĉe: op zondag 
     - ',' 
-    - se: wenn 
-    - estos: wird sein 
-    - suna: sonniger 
-    - tago: Tag 
+    - se: wanneer
+    - estos: zal zijn
+    - suna: zonnige 
+    - tago: dag 
     - '?'
 - 
-  demando: Ist dein Bruder schon losgegangen?
+  demando: Is je broer reeds vertrokken?
   rektatraduko:
-    - Ĉu: Ob 
-    - via: dein 
-    - frato: Bruder 
-    - jam: schon 
-    - ekiris: losging 
+    - Ĉu: Of 
+    - via: je 
+    - frato: broer
+    - jam: reeds 
+    - ekiris: is vertrokken 
     - '?'
 - 
-  demando: Wo ist das Wasser, das du selbst mitgebracht hast?
+  demando: Waar is het water, dat je zelf hebt meegebracht?
   rektatraduko:
-    - Kie: Wo 
-    - estas: ist 
-    - la: das
-    - akvo: Wasser 
+    - Kie: Waar
+    - estas: is 
+    - la: het
+    - akvo: Water
     - ',' 
-    - kiun: das 
-    - vi: du 
-    - mem: selbst 
-    - kunportis: mitbrachtest 
+    - kiun: dat 
+    - vi: je 
+    - mem: zelf
+    - kunportis: hebt meegebracht 
     - '?'

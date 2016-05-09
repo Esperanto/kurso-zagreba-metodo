@@ -1,317 +1,371 @@
-afer: matter
-agrabl: pleasant
-akcept: accept
-akv: water
-ali: another
-alt: high
-am: love
+afer: 
+- เรื่องราว
+- ข้าวของ
+agrabl: ยินดี
+akcept: ยอมรับ
+akv:น้ำ
+ali: อื่น ๆ
+alt: สูง
+am: รัก
 amas:
-- mass
-- crowd
-amik: friend
-arb: tree
+- ฝูงชน
+- ฝูงสัตว์
+- สิ่งที่มาก ๆ
+amik: เพื่อน
+arb:ต้นไม้
 aspekt:
-- look
-- seem
-atend: to wait
-atent: pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
+- ลักษณะ
+atend: คอย
+atent: ระวัง
+aĉet: ซื้อ
+aŭd: ได้ยิน
+aŭt: รถ
+aŭtoritat: 
+- มีสิทธิ์
+- มีอำนาจชอบธรรม
+bedaŭr: ต่อเนื่อง
+bel: สวย
+best: สัตว์
+bezon: จำเป็น
 bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: must
-dezir: to wish
-diabl: devil
+- ทุ่ง
+bon: ดี
+branĉ: กิ่ง
+bru: เสียงรบกวน
+buŝ:ปาก
+cert: แน่นอน
+dank: ขอบคุณ
+daŭr: ต่อเนื่อง
+decid: ตัดสินใจ
+demand: ถาม
+dev: ต้อง
+dezir: ปรารถณา
+diabl: ปีศาจ
 dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
-doktor: doctor
-dolar: dollar
+- หนา
+- อ้วน
+dimanĉ: วันอาทิตย์
+dir: บอก
+direkt: ทิศทาง
+doktor: 
+- แพทย์
+- ดอกเตอร์
+dolar: ดอลล่า
 dolor:
-- pain
-- to hurt
-dolĉ: sweet
-dom: house
-don: to give
-dorm: sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
+- เจ็บ
+dolĉ: หวาน
+dom: บ้าน
+don: ให้
+dorm: นอนหลับ
+doĝ: สุนัข
+edz: สามี
+efektiv: เป็นจริง
+ekskurs: ทัศนศึกษา
+esper: หวัง
+est: 
+- เป็น
+- อยู่
+- คือ
+facil: ง่าย
+fakt: ข้อเท็จจริง
+fal: ตก
+famili: ครอบครัว
+far: ทำ
 fart:
-- feel
-- be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
+- สภาพของสุขภาพ
+- เป็น
+feliĉ: ความสุข
+ferm: ปิด 
+fin: 
+- จบ
+- เลิก
+flank: ด้าน
 foj:
-- time
-- occasion
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
-gondol: gondola
+- ครั้ง
+forges: ลืม
+form: รูปแบบ
+fort: แข็งแรง
+fot: รูปภาพ
+frat: 
+- พี่ชาย
+- น้องชาย
+fru: ก่อนเวลา
+fuŝ: ทำไม่ดี
+gondol: เรือกอนโดลา
 graf:
-- count
-- earl
+- ขุนนาง
 grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: to need
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
-opini: opinion
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
-si: reflexive pronoun
-sid: to sit
-silent: silent
-simil: similar
+- ใหญ่
+grav: สำคัญ
+halt: หยุด
+hav: มี
+hejm: บ้าน
+help: 
+- ช่วย
+- ช่วยเหลือ
+hom: มนุษย์
+hor: ชั่วโมง
+hotel: โรงแรม
+ide: ความคิด
+industri: อุตสาหกรรม 
+instru: สอน
+interes: สนใจ
+invit: เชิญ
+ir: ไป
+itali: อิตาลี
+jar: ปี
+jun: วัยรุ่น
+kaf: กาแฟ
+kalv: หัวล้าน
+kap: ศรีษะ
+kapabl: สามารถ
+kapt: จับ
+kar: สี่
+kastel: ปราสาท
+kav: 
+- ถ้ำ
+- โพรง
+kelk: จำนวนหนึ่ง
+kelner: บริกร
+klar: 
+- กระจ่าง
+- สะอาด
+klub: ชมรม
+knab: เด็กชาย
+koler: โกรธ
+kolor: สี
+komenc: เริ่ม
+kompren: เข้าใจ
+kon: รู้
+kontent: พอใจ
+kontrol: ตรวจสอบ
+kor: หัวใจ
+korp: ร่างกาย
+kost: มีราคา
+kri: ตะโกน
+kuir: ทำอาหาร
+kuk: เค้ก 
+kur: วิ่ง
+labor: ทำงาน
+lakt: นำ้นม
+lamp: ตะเกียง
+land: ประเทศ
+larĝ: กว้าง
+last: สุดท้าย
+laŭt: ดัง
+lecion: บทเรียน
+leg: อ่าน
+lern: เรียน
+leter: จดหมาย
+liber: อิสระ
+libr: หนังสือ
+lok: สถานที่
+long: ยาว
+lud: เล่น
+lum: แสงไฟ
+man: มือ
+mank: 
+- ขาด
+- ไม่มี
+manĝ: กิน
+mar: ทะเล
+maten: เช้า
+memor: จำได้
+met: วาง
+mez: กลาง
+milit: สงคราม
+minut: นาที
+mir: ประหลาดใจ
+moment: ชั่วขณะ
+mon: เงิน
+mont:ภูเขา
+montr: แสดง
+mort: ตาย
+mov: เคลื่อนที่
+mult: มาก
+muzik: ดนตรี
+nask: ให้กำเนิด
+natur: ธรรมชาติ
+neces: จำเป็น
+nokt: กลางคืน
+nom: 
+- ชื่อ
+- ตั้งชื่อ
+not: 
+- จดบันทึก
+- ตัวโน้ต
+nov: ใหม่
+odor: 
+- ส่งกลิ่น
+- กลิ่น
+oft: บ่อย
+okaz: เกิดเหตุการณ์
+okul: ดวงตา
+onkl: 
+- ลุง
+- อา
+- น้า (ชาย)
+opini: ความเห็น
+ord: สั่ง
+orel: หู
+pac:สันติ
+pag: จ่าย
+pan: ขนมปัง
+paper: กระดาษ
+pardon: ขอโทษ
+parol: พูด
+part: ส่วน
+pas: ผ่าน
+patr: พ่อ
+paŝ: ก้าว
+pens: คิด
+perd: หาย
+person: 
+- บุคคล
+- คน
+pet: 
+- ขอ
+- ขอร้อง
+pez: หนัก
+pied: เท้า
+plac: สถานที่
+plan: วางแผน
+plaĉ: 
+- เป็นที่พอใจ
+- ต้องใจ
+plen: เต็ม
+polic: ตำรวจ
+pord: ประตู
+port: 
+- ขน
+- นำไปด้วย
+pov: สามารถ
+pren: เอามา 
+pret: พร้อม
+prezent: นำเสอน
+problem: ปัญหา
+proksim:ใกล้
+promen: เดินเล่น
+propon: 
+- เสนอ
+- ข้อเสนอ
+prov: ลอง
+rajt: มีสิทธิ์
+rapid: เร็ว
+raport: รายงาน
+real: เกิดขึ้นจริง
+rekt: 
+- โดยตรง
+- ทางตรง
+renkont: พบปะ
+respekt: เคารพ
+respond: ตอบ
+rest: พักอาศัย
+ricev: รับ
+rid: หัวเราะ
+rigard: ดู
+riĉ: รวย
+rol: 
+- บทบาท
+- หน้าที่
+ruĝ: สีแดง
+salt:กระโดด
+salut: สวัสดี
+sam: เหมือนกัน
+san: สุขภาพดี
+saĝ: ฉลาด
+sci: รู้
+sek: แห้ง
+sekret: คงามลับ
+sekv: ตาม
+semajn: สัปดาห์
+send: ส่ง
+serĉ: ค้นหา
+si: เขาเอง
+sid: นั่ง
+silent: เงียบ
+simil: คล้าย
 sinjor:
-- gentleman
-- Mr.
-situaci: sitation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: hold
-teror: terror
-tim: fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to travel
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: journey
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
-ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: to correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- สุภาพบุรุษ
+- นาย
+situaci: สถานการณ์
+skrib: เขียน
+sol: 
+- เดี่ยว
+- โดเดี่ยว
+son: ส่งเสียง
+sovaĝ: ป่าเถื่อน
+sport: กีฬา
+star: ยืน
+strat: ถนน
+subit: ในทันใด
+sufiĉ: 
+- พอ
+- เพียงพอ
+sukces: สำเร็จ
+sun: ดวงอาทิตย์
+supr: ด้านบน
+tabl: โต๊ะ 
+tag: วัน
+te: ชา
+telefon: โทรศัพท์
+temp: เวลา
+temperatur: อุณหภูมิ
+ten: ถือ
+teror: ก่อการร้าย
+tim: กลัว
+ton: น้ำเสียง
+trankvil: ใจเย็น
+trink: ดื่ม
+trov:พบ
+turk: ตุรกี
+tuŝ: 
+- แตะ
+- สัมผัส
+urb: เมือง
+util: มีประโยชน์
+uz: ใช้
+vagon: ตู้รถไฟ
+varm: อุ่น
+ven: มา
+vend: ขาย
+Veneci: เวนิส
+ver: 'จริง'
+vesper: ตอนเย็น
+vest: สวมเสื้อ
+vetur: เดินทาง
+vid: 
+- เห็น
+- พบ
+vin: ไวน์
+vir: ผู้ชาย
+viv: มีชีวิต
+vizaĝ: ใบหน้า
+vizit: 
+- มาเยี่ยม
+- มาเยือน
+- เยื่ยมชม
+voj: ทาง
+vojaĝ: ท่องเที่ยว
+vok: เรียก
+vol: ต้องการ
+vort: 
+- คำ
+- คำศัพท์
+voĉ: เสียงร้อง
+zorg: 
+- ดูแล
+- เอาใจใส่
+ĉambr: ห้อง
+ĉef: 
+- หัวหน้า
+- เป็นหลัก
+ĝen: รบกวน
+ĝeneral: ทั่ว ๆ ไป
+ĝoj: ดีใจ
+ĝust: ถูกต้อง
+ĵet:ขว้าง
+ŝajn: ดูเหมือน
+ŝanĝ: เปลี่ยน
+ŝat: ชอบ
+ŝip: เรือ

@@ -1,50 +1,50 @@
 - 
-  demando: Wie war dein altes Heim?
+  demando: Hoe was je oude thuis?
   rektatraduko:
-    - Kia: Welcher Art
-    - estis: war
-    - via: Dein
-    - malnova: altes
-    - hejmo: Heim
+    - Kia: Hoe
+    - estis: was
+    - via: je
+    - malnova: oude
+    - hejmo: thuis
     - '?'
 - 
-  demando: Welche Bücher hast du gelesen und sind sie gut?
+  demando: Welke boeken heb jij gelezen en zijn ze goed?
   rektatraduko:
-    - Kiujn: Welche
-    - librojn: Bücher
-    - vi: du
-    - legis: hast gelesen
-    - kaj: und
-    - ĉu: ob
-    - ili: sie
-    - estas: sind
-    - bonaj: gut
+    - Kiujn: Welke
+    - librojn: boeken
+    - vi: jij
+    - legis: hebt gelezen
+    - kaj: en 
+    - ĉu: of
+    - ili: ze
+    - estas: zijn
+    - bonaj: goed
     - '?'
 - 
-  demando: Was machten Anna und Marko in Markos kleinem Zimmer?
+  demando: Wat deden Anna en Marko in de kleine kamer van Marko?
   rektatraduko:
-    - Kion: Was
-    - faris: machten
+    - Kion: Wat
+    - faris: deden
     - Anna: Anna
-    - kaj: und
+    - kaj: en
     - Marko: Marko
     - en: in
-    - la: dem
-    - malgranda: kleinen
-    - ĉambro: Zimmer
-    - de: von
+    - la: de
+    - malgranda: kleine
+    - ĉambro: kamer
+    - de: van
     - Marko: Marko
     - '?'
 - 
-  demando: Liest du gern Bücher über Liebe?
+  demando: Houd je van boeken lezen over liefde?
   rektatraduko:
-    - Ĉu: Ob
-    - vi: Du
-    - ŝatas: magst
-    - legi: lesen
-    - librojn: Bücher
-    - pri: über
-    - amo: Liebe
+    - Ĉu: Of
+    - vi: je
+    - ŝatas: houdt van
+    - legi: lezen
+    - librojn: boeken
+    - pri: over
+    - amo: liefde
     - '?'
 - 
   demando: Wer wird mit dir zu deinem Heim gehen?

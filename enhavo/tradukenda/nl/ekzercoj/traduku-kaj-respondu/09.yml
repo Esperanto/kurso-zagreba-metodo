@@ -1,72 +1,72 @@
 - 
-  demando: Was könnte deine Eltern am meisten erfreuen?
+  demando: Waz zou jouw ouders het meest kunnen verheugen?
   rektatraduko:
-    - Kio: Was 
-    - povus: könnte 
-    - plej: am meisten 
-    - ĝojigi: erfreuen 
-    - viajn: deine 
-    - gepatrojn: Eltern 
+    - Kio: Wat 
+    - povus: zou kunnen 
+    - plej: meest 
+    - ĝojigi: verheugen 
+    - viajn: jouw 
+    - gepatrojn: ouders 
     - '?'
 - 
-  demando: Wenn wenigstens du nach dem Lernen mit mir in das Stadtzentrum gehen würdest!
+  demando: Indien tenminste jij na het leren met mij in het stadscentrum zoudt gaan!
   rektatraduko:
-    - Se: Wenn
-    - almenaŭ: wenigstens 
-    - vi: du 
-    - post: nach 
-    - la: dem 
-    - lernado: Lernen 
-    - irus: würdest gehen 
-    - kun: mit 
-    - mi: mir 
+    - Se: Indien
+    - almenaŭ: tenminste 
+    - vi: jij 
+    - post: na 
+    - la: het 
+    - lernado: Leren 
+    - irus: zoudt gaan
+    - kun: met 
+    - mi: mij 
     - en: in 
-    - la: das 
-    - urbocentron: Stadtzentrum 
+    - la: het 
+    - urbocentron: stadscentrum 
     - '!'
 - 
-  demando: Wohin würdest du reisen wollen, wenn du genug Geld und Zeit hättest?
+  demando: Waarheen zou jij willen reizen, indien je genoeg geld en tijd zoudt hebben?
   rektatraduko:
-    - Kien: Wohin 
-    - vi: du 
-    - dezirus: würdest wollen
-    - vojaĝi: reisen 
+    - Kien: Waarheen
+    - vi: jij 
+    - dezirus: zoudt willen
+    - vojaĝi: reizen 
     - ',' 
-    - se: wenn 
-    - vi: du 
-    - havus: hättest 
-    - sufiĉe: genug 
-    - da: an 
-    - mono: Geld 
-    - kaj: und 
-    - tempo: Zeit 
+    - se: indien 
+    - vi: je 
+    - havus: zoudt hebben 
+    - sufiĉe: genoeg 
+    - da: van  
+    - mono: geld 
+    - kaj: en 
+    - tempo: tijd
     - '?'
 - 
-  demando: Reist du mit dem Auto nach Paris oder besser mit dem Zug?
+  demando: Reis je met de auto naar Parijs of beter met de trein?
   rektatraduko:
-    - Ĉu: Ob 
-    - vi: du 
+    - Ĉu: Of 
+    - vi: je 
     - vojaĝas: reist 
-    - per: mit
-    - la: dem 
-    - aŭto: Auto 
-    - al: nach 
-    - Parizo: Paris 
-    - aŭ: oder 
-    - pli: mehr
-    - bone: gut 
-    - per: mit 
-    - la: dem 
-    - vagonaro: Zug 
+    - per: met
+    - la: de 
+    - aŭto: auto 
+    - al: naar 
+    - Parizo: Parijs 
+    - aŭ: of 
+    - pli: meer
+    - bone: goed 
+    - per: met 
+    - la: de 
+    - vagonaro: trein 
     - '?'
 - 
-  demando: Warum werden gleiche Ideen von verschiedenen Menschen verschiedenartig erklärt?
+  demando: Waarom worden gelijke ideeën door verschillende mensen op een verschillende manier verklaard?
   rektatraduko:
-    - Kial: Warum 
-    - diversaj: verschiedene 
-    - homoj: Menschen 
-    - klarigas: erklären 
-    - samajn: gleiche 
-    - ideojn: Ideen 
-    - diversmaniere: verschiedenartig 
+    - Kial: Waarom
+    - diversaj: verschillende 
+    - homoj: mensen 
+    - klarigas: verklaren 
+    - samajn: gelijke
+    - ideojn: ideeën 
+    - diversmaniere: op een verschillende manier
     - '?'

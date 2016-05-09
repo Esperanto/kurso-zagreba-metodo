@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Yanından kızkardeşimin ilacını getirebilir misin?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: misin
+    - vi: sen
+    - povas: -bilir, yapabilir
+    - kunporti: yanında getirmek, taşımak
+    - la: (belirleyici artikel)
+    - sanigilon: ilaç
+    - de: -in 
+    - mia: benim
+    - fratino: kızkardeş
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando:  Bu müzik aletini ne zaman satın aldın?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: ne zaman
+    - vi: sen
+    - aĉetis: satın aldı
+    - tiun: bu
+    - muzikilon: müzik aleti'ni
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: En son kim benim anahtarı kullandı?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: kim
+    - laste: en son 
+    - uzis: kullandı
+    - mian: benim
+    - ŝlosilon: anahtar'ı
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Venedik'te gondol ile de seyahat ettiniz mi?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: mi
+    - vi: siz
+    - en: -te, içinde
+    - Venecio: Venedik
+    - veturis: seyahat etti, gitti
+    - ankaŭ: de, da
+    - per: ile, aracılığı ile
+    - gondolo: gondol
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Sessizleşince uyuyabilecek misin?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: misin
+    - vi: sen
+    - povos: -bilecek, yapabilecek
+    - ekdormi: uyumak, uykuya dalmak
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: olduğunda, zamanda
+    - silentiĝis: sessizleşti
     - '?'

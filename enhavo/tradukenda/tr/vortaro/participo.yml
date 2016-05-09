@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: şimdiki zaman aktif
+int: geçmiş zaman aktif
+ont: gelecek zaman aktif
+unt: şartlı zaman aktif
+at:  şimdiki zaman pasif
+it:  geçmiş zaman pasif
+ot:  gelecek zaman pasif
+ut:  şartlı zaman pasif

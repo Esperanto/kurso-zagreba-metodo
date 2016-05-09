@@ -28,6 +28,7 @@ function esperantigu(s) {
 
 function normalize(s) {
 
+  s = s.trim();
   s = esperantigu(s);
   s = s.toLowerCase(s);
   return s;

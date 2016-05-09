@@ -2,7 +2,7 @@
   demando: Eski evin nasıldı?
   rektatraduko: 
     - Kia: nasıl, ne çeşit
-    - estis: -dı (yardımcı fiilin geçmiş zaman formu)
+    - estis: -dı, idi 
     - via: senin, -in
     - malnova: eski
     - hejmo: ev 
@@ -10,14 +10,14 @@
 - 
   demando: Hangi kitapları okudun, ve onlar iyi midirler? 
   rektatraduko: 
-    - Kiujn: hangi (hangileri) 
+    - Kiujn: hangi, hangileri 
     - librojn: kitapları
     - vi: sen
-    - legis: okudun (okumak fiilinin geçmiş zamanı)
+    - legis: okudun 
     - kaj: ve
     - ĉu: mi?
     - ili: onlar
-    - estas: -dir, -dirler (yardımcı fiil)
+    - estas: -dir, -dirler
     - bonaj: iyi
     - '?'
 - 
@@ -28,11 +28,11 @@
     - Anna: Anna
     - kaj: ve
     - Marko: Mark
-    - en: -de, -da (ismin de hali) 
+    - en: -de, -da 
     - la: (belirleyici artikel)
     - malgranda: küçük
     - ĉambro: oda
-    - de: -in (sahiplik eki)
+    - de: -in 
     - Marko: Mark
     - '?'
 - 
@@ -50,10 +50,10 @@
   demando: Seninle senin evine kim gidecek? 
   rektatraduko: 
     - Kiu: kim
-    - iros: gidecek (gelecek zaman)
+    - iros: gidecek
     - kun: ile, -le
     - vi: sen
-    - al: -e, -a (-e hali, yön belirtiyor) 
+    - al: -e, -a  
     - via: senin
     - hejmo: ev
     - '?'
@@ -61,10 +61,10 @@
   demando: Kız arkadaşının gözleri nasıldır?
   rektatraduko: 
     - Kiaj: nasıl, ne çeşit (çoğul formu)
-    - estas: -dır (yardımcı fiil)
+    - estas: -dır 
     - la: (belirleyici artikel)
     - okuloj: gözler
-    - de: -in, -nin (sahiplik eki)
+    - de: -in, -nin 
     - via: senin
     - amikino: kız arkadaş
     - '?'

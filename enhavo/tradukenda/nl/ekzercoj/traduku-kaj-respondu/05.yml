@@ -1,65 +1,65 @@
 -
-  demando: Kannst du ruhig lernen, wenn jemand fröhlich singt?
+  demando: Kan je rustig leren, terwijl iemand vrolijk zingt?
   rektatraduko:
-    - Ĉu: Ob
-    - vi: du
-    - povas: kannst
-    - trankvile: ruhig
-    - lerni: lernen
+    - Ĉu: Of
+    - vi: je
+    - povas: kan
+    - trankvile: rustig
+    - lerni: leren
     - ','
-    - dum: während
-    - iu: jemand
-    - ĝoje: fröhlich
-    - kantas: singt
+    - dum: terwijl
+    - iu: iemand
+    - ĝoje: vrolijk
+    - kantas: zingt
     - '?'
 -
-  demando: Wer weiß, wann und wo wir uns wiedersehen werden?
+  demando: Wie weet, wanneer en waar we ons zullen weerzien?
   rektatraduko:
-    - Kiu: Wer
-    - scias: weiß
+    - Kiu: Wie
+    - scias: weeet
     - ','
-    - kiam: wann
-    - kaj: und
-    - kie: wo
-    - ni: wir
-    - revidos: wiedersehen werden
-    - nin: uns
+    - kiam: wanneer
+    - kaj: en
+    - kie: waar
+    - ni: we
+    - revidos: zullen
+    - nin: ons
     - '?'
 -
-  demando: Wie spät ist es jetzt?
+  demando: Hoe laat is het nu?
   rektatraduko:
-    - Kioma: Wievielte
-    - horo: Stunde
-    - estas: ist
-    - nun: jetzt
+    - Kioma: Hoeveelste
+    - horo: uur
+    - estas: is
+    - nun: nu
     - '?'
 -
-  demando: Hat dir jemand geholfen, die Tür des alten Hauses zu öffnen?
+  demando: Heeft iemand je geholpen, de deur van het  des alten Hauses zu öffnen?
   rektatraduko:
-    - Ĉu: Ob
-    - iu: jemand
-    - helpis: half
-    - al: zu
-    - vi: dir
-    - malfermi: öffnen
-    - la: die
-    - pordon: Tür
-    - de: von
-    - la: dem
-    - malnova: alten
-    - domo: Haus
+    - Ĉu: Of
+    - iu: iemand
+    - helpis: heeft geholpen
+    - al: aan
+    - vi: je
+    - malfermi: openen
+    - la: de
+    - pordon: deur
+    - de: van
+    - la: het
+    - malnova: oude
+    - domo: huis
     - '?'
 -
-  demando: Warum hast du keine Zeit, mir länger zuzuhören?
+  demando: Waarom heb je geen tijd om langer naar mij te luisteren?
   rektatraduko:
-    - Kial: Warum
-    - vi: du
+    - Kial: Waarom
+    - vi: je
     - ne: nicht
-    - havas: hast
-    - tempon: Zeit
-    - aŭskulti: zuhören
-    - al: zu
-    - mi: mir
-    - pli: mehr
-    - longe: lange
+    - havas: hebt
+    - tempon: tijd
+    - aŭskulti: luisteren
+    - al: naar
+    - mi: mij
+    - pli: meer
+    - longe: lang
     - '?'

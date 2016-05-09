@@ -1,72 +1,72 @@
 - 
-  demando: Möchtest du, dass ich dir mein neuestes Buch zeige?
+  demando: Wens je, dat ik je mijn nieuwste boek toon?
   rektatraduko:
-    - Ĉu: Ob 
-    - vi: du
-    - deziras: wünschst 
+    - Ĉu: Of 
+    - vi: je
+    - deziras: wenst 
     - ',' 
-    - ke: dass 
-    - mi: ich 
-    - montras: zeige 
-    - al: zu
-    - vi: dir 
-    - mian: mein 
-    - plej: am meisten  
-    - novan: neues 
-    - libron: Buch 
+    - ke: dat
+    - mi: ik 
+    - montras: toon 
+    - al: aan
+    - vi: u 
+    - mian: mijn 
+    - plej: meest  
+    - novan: nieuwe 
+    - libron: boek 
     - '?'
 - 
-  demando: Was möchtest du morgen frühstücken?
+  demando: Wat wil je morgen als ontbijt?
   rektatraduko:
-    - Kion: Was 
-    - vi: du  
-    - volas: willst 
+    - Kion: Wat
+    - vi: je  
+    - volas: wil
     - morgaŭ: morgen 
-    - matenmanĝi: frühstücken 
+    - matenmanĝi: ontbijten 
     - '?'
 - 
-  demando: Wann wird Marko ankommen, um fünf oder um acht Uhr?
+  demando: Wanneer zal Marko aankomen, om vijf of om acht uur?
   rektatraduko:
-    - Kiam: Wann 
+    - Kiam: Wanneer 
     - Marko: Marko 
-    - alvenos: ankommen 
+    - alvenos: zal aankomen 
     - ',' 
-    - je: zu 
-    - la: der 
-    - kvina: fünften 
-    - aŭ: oder 
-    - je: zu 
-    - la: der 
-    - oka: achten 
-    - horo: Stunde 
+    - je: om 
+    - la: het 
+    - kvina: vijfde 
+    - aŭ: of 
+    - je: om 
+    - la: het 
+    - oka: achtste 
+    - horo: uur 
     - '?'
 - 
-  demando: Wann hast du bemerkt, dass mich die ganze Familie Wohltäter nennt?
+  demando: Wanneer heb je bemerkt, dat de hele familie mij een weldoener noemt?
   rektatraduko:
-    - Kiam: Wann 
-    - vi: du 
-    - rimarkis: bemerktest
+    - Kiam: Wanneer
+    - vi: je 
+    - rimarkis: hebt bemerkt
     - ','  
-    - ke: dass
-    - la: die 
-    - tuta: ganze 
-    - familio: Familie 
-    - nomas: nennt 
-    - min: mich 
-    - bonfarulo: Wohltäter 
+    - ke: dat
+    - la: de 
+    - tuta: hele 
+    - familio: familie 
+    - nomas: noemt 
+    - min: mij 
+    - bonfarulo: een weldoener 
     - '?'
 - 
-  demando: War für dich das Büchlein nützlich, das ich geschickt habe?
+  demando: Was voor jou het boekje nuttig, dat ik gezonden heb?
   rektatraduko:
-    - Ĉu: Ob 
-    - la: das
-    - libreto: Büchlein 
+    - Ĉu: Of 
+    - la: het
+    - libreto: boekje 
     - estis: was
-    - utila: nützlich 
-    - al: zu 
-    - vi: dir
+    - utila: nuttig 
+    - al: voor 
+    - vi: jou
     - ',' 
-    - kiun: das 
-    - mi: ich 
-    - sendis: sandte
+    - kiun: dat 
+    - mi: ik 
+    - sendis: zond
     - '?'

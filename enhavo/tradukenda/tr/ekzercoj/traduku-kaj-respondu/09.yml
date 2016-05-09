@@ -6,7 +6,7 @@
     - plej: en çok
     - ĝojigi: memnun etmek
     - viajn: sizin
-    - gepatrojn: ebeveyn (iki cins birden)
+    - gepatrojn: ebeveyn 
     - '?'
 - 
   demando: Okuldan sonra benle hiç olmazsa şehir merkezine gitmek isteseydin eğer!
@@ -20,7 +20,7 @@
     - irus: gitseydin
     - kun: ile
     - mi: ben
-    - en: -e, içine (ismin -e hali)
+    - en: -e, içine 
     - la: (belirleyici artikel)
     - urbocentron: şehir merkezi
     - '!'
@@ -42,21 +42,24 @@
     - tempo: zaman
     - '?'
 - 
-  demando: Paris'e otomobil ile seyahat etmeği mi planlıyorsunuz yoksa daha iyisi tren ile mi?
+  demando: Paris'e otomobil ile seyahat etmeği mi planlıyorsunuz yoksa tren ile gitmek daha iyi görünmüyor mu?
   rektatraduko: 
     - Ĉu: mi
     - vi: siz
     - planas : planlıyor
+    - veturi: seyahat etmek
+    - al: -e 
+    - Parizo: Paris
     - per: ile, vasıtası ile
-    - la: (belirleyici artikel)
     - aŭto: otomobil
-    - al: -e (-ismin -e hali, yön belirliyor=
-    - Parizo: Paris'e
-    - aŭ: yoksa veya
+    - aŭ: yoksa, veya
+    - ĉu: mu
+    - ne: -miyor 
+    - ŝajnas: benziyor
     - pli: daha 
     - bone: iyi, iyisi
+    - veturi: seyahat etmek, gitmek
     - per: ile, vasıtası ile
-    - la: (belirleyici artikel)
     - vagonaro: tren
     - '?'
 - 

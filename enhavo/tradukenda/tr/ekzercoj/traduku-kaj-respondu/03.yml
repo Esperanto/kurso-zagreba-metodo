@@ -3,7 +3,7 @@
   rektatraduko:  
     - Ĉu: mı 
     - kelneroj: garsonlar
-    - en: -de (ismin de hali)
+    - en: -de 
     - grandaj: büyük
     - hoteloj: oteller
     - komprenas: anlıyor
@@ -37,7 +37,7 @@
     - la: (belirleyici artikel)
     - maljunulon: yaşlı adam
     - kaj: ve
-    - la: belirleyici artikel)
+    - la: (belirleyici artikel)
     - junulon: genç adam
     - ','
     - kiuj: ki onlar
@@ -58,14 +58,14 @@
     - al: -e, -a 
     - ni: biz
     - sen: olmaksızın, -siz
-    - gefratoj: kardeşler (kız+erkek her iki cins birden)
+    - gefratoj: kardeşler 
     - '?'
 -
   demando: Yeni eğitim kitabı sayesinde Esperanto'yu yeterince hızlı şekilde öğrenebilecek misin?
   rektatraduko: 
     - Ĉu: misin
     - vi: sen
-    - povas: -bilecek (yapabilecek)
+    - povas: -bilecek, yapabilecek
     - per: sayesinde, vasıtası ile 
     - la: (belirleyici artikel)
     - nova: yeni
@@ -73,5 +73,5 @@
     - sufiĉe: yeterince
     - rapide: hızlı şekilde
     - lerni: öğrenmek
-    - Esperanton: Esperanto('yu)
+    - Esperanton: Esperanto'yu
     - '?'

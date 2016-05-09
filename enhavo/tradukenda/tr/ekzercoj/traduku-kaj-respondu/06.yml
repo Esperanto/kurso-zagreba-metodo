@@ -1,5 +1,5 @@
 - 
-  demando: (Siz) Size en yeni kitabı göstermemi arzu ediyor musunuz?
+  demando: Size en yeni kitabı göstermemi arzu ediyor musunuz?
   rektatraduko: 
     - Ĉu: musunuz
     - vi: siz
@@ -16,7 +16,7 @@
     - libron: kitabı
     - '?'
 - 
-  demando: (Siz) Yarın kahvaltı ethmek için ne istiyorsunuz?
+  demando: Yarın kahvaltı ethmek için ne istiyorsunuz?
   rektatraduko: 
     - Kion: ne(yi)
     - vi: siz
@@ -41,7 +41,7 @@
     - horo: saat
     - '?'
 - 
-  demando: (Siz) Ne zaman farkına vardınız ki tüm aile bani iyiliksever olarak adlandırıyor?
+  demando: Ne zaman farkına vardınız ki tüm aile bani iyiliksever olarak adlandırıyor?
   rektatraduko: 
     - Kiam: ne zaman
     - vi: siz

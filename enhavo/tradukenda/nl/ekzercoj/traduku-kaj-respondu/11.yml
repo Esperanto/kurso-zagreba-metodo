@@ -1,54 +1,54 @@
 - 
-  demando: Kannst du die Medizin meiner Schwester mitbringen?
+  demando: Kan je het geneesmiddel van mijn zus meebrengen?
   rektatraduko:
-    - Ĉu: Ob 
-    - vi: du 
-    - povas: kannst 
-    - kunporti: mitbringen 
-    - la: die 
-    - sanigilon: Medizin 
-    - de: von 
-    - mia: meiner 
-    - fratino: Schwester 
+    - Ĉu: Of
+    - vi: je 
+    - povas: kan
+    - kunporti: meebrengen 
+    - la: het 
+    - sanigilon: geneesmiddel 
+    - de: van 
+    - mia: mijn 
+    - fratino: zus 
     - '?'
 - 
-  demando: Wann hast du dieses Musikinstrument gekauft?
+  demando: Wanneer heb je dat muziekinstrument gekocht?
   rektatraduko:
-    - Kiam: Wann 
-    - vi: du 
-    - aĉetis: kauftest 
-    - tiun: dieses 
-    - muzikilon: Musikinstrument 
+    - Kiam: Wanneer 
+    - vi: je 
+    - aĉetis: hebt gekocht 
+    - tiun: dat 
+    - muzikilon: muziekinstrument 
     - '?'
 - 
-  demando: Wer hat zuletzt meinen Schlüssel benutzt?
+  demando: Wie heeft laatst mijn sleutel gebruikt?
   rektatraduko:
-    - Kiu: Wer
-    - laste: zuletzt 
-    - uzis: benutzte 
-    - mian: meinen 
-    - ŝlosilon: Schlüssel 
+    - Kiu: Wie
+    - laste: laatst 
+    - uzis: heeft gebruikt 
+    - mian: mijn 
+    - ŝlosilon: sleutel 
     - '?'
 - 
-  demando: Bist du in Venedig auch mit einer Gondel gefahren?
+  demando: Heb je in Venetië ook met een gondel Gondel gevaren?
   rektatraduko:
-    - Ĉu: Ob 
-    - vi: du 
+    - Ĉu: Of
+    - vi: je 
     - en: in 
-    - Venecio: Venedig
-    - veturis: fuhrest 
-    - ankaŭ: auch 
-    - per: mit 
-    - gondolo: Gondel 
+    - Venecio: Venetië
+    - veturis: gevaren hebt 
+    - ankaŭ: ook 
+    - per: met 
+    - gondolo: een gondel 
     - '?'
 - 
-  demando: Wirst du einschlafen können, wenn es still geworden ist?
+  demando: Zal je kunnen inslapen, als het stil geworden is?
   rektatraduko:
-    - Ĉu: Ob 
-    - vi: du 
-    - povos: wirst können 
-    - ekdormi: einschlafen 
+    - Ĉu: Of 
+    - vi: je 
+    - povos: zal kunnen 
+    - ekdormi: inslapen 
     - ',' 
-    - kiam: wenn 
-    - silentiĝis: still geworden 
+    - kiam: wanneer 
+    - silentiĝis: stil werd 
     - '?'

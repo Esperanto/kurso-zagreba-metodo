@@ -1,51 +1,51 @@
 - 
-  demando: Does friendship make you more happy than love does?
+  demando: Arkadaşlık sizi aşktan daha mı çok mutlu ediyor?
   rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+    - Ĉu: mı
+    - amikeco: arkadaşlık
+    - pli: daha çok, daha fazla
+    - feliĉigas: mutlu ediyor
+    - vin: siz'i
+    - ol: -den, -dan (karşılaştırma sözcüğü)
+    - la: (belirleyici artikel)
+    - amo: aşk
     - '?'
 - 
-  demando: How often do you write letters to your girlfriends in Italy?
+  demando: Italya'daki kız arkadaşlarınızı ne kadar sıklıkla mektup yazıyorsunuz?
   rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
+    - Kiel: ne kadar, nasıl
+    - ofte: sık
+    - vi: siz
+    - skribas: yazıyor
+    - leterojn: mektuplar
+    - al: -e, -a (ismin -e hali)
+    - viaj: sizin
+    - amikinoj: kız ardaşlar
+    - en: -de, -da (ismin -de hali)
+    - Italio: İtalya
     - '?'
 - 
-  demando: Has the relationship between you and your teacher changed?
+  demando: Senle öğretmenin arasındaki ilişki değişti mi?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+    - Ĉu: mi
+    - la: (belirleyici artikel)
+    - rilato: ilişti
+    - inter: arasında
+    - vi: sen
+    - kaj: ve
+    - via: senin
+    - instruisto: öğretmen
+    - ŝanĝiĝis: değişti
     - '?'
 - 
-  demando: Do you now already know Esperanto well enough?
+  demando: Şimdiden Esperanto'yu yeterince iyi biliyor musun?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
+    - Ĉu: musun
+    - vi: sen
+    - nun: şimdi
+    - jam: zaten, bile, -den, şimdiden
+    - scias: biliyor
     - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - sufiĉe: yeterince
+    - bone: iyi
     - '?'

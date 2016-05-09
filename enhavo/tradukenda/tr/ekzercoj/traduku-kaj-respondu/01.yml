@@ -2,7 +2,7 @@
   demando: Kız arkadaşın kimdir?
   rektatraduko:
     - Kiu: Kim
-    - estas: -dir (yardımcı fiil)
+    - estas: -dir yardımcı fiil 
     - via: senin, -ın, -an vs
     - amikino: kız arkadaş
     - '?'
@@ -25,22 +25,22 @@
     - Ĉu: mi
     - la: (belirleyici artikel)
     - amiko: arkadaş
-    - de: -nın, -nun vs (ismin -den hali)
+    - de: -nın, -nun 
     - via: senin
     - patro: baba
     - laboras: çalışıyor
-    - en: -de, -de (ismin -de hali)
+    - en: -de, -da 
     - hotelo: otel
     - '?'
 - 
   demando: Odamızın çalışma tezgahının üzerinde ne vardır?
   rektatraduko:
     - Kio: ne 
-    - estas: -dır (yardımcı fiil)
+    - estas: -dır yardımcı fiil
     - sur: üzerinde
     - la: (belirleyici artikel)
     - labortablo: çalışma tezgahı
-    - en: -de, -da (ismin -de hali)
+    - en: -de, -da 
     - nia: bizim
     - ĉambro: oda
     - '?'
@@ -49,9 +49,9 @@
   rektatraduko:
     - Ĉu: mı
     - Esperanto-lernolibro: Esperanto ders kitabı
-    - estas: var (yardımcı fiil, sahiplik fiili olarak da kullanılır)
+    - estas: var yardımcı fiil
     - sur: üzerinde
     - via: senin 
-    - tablo: masa(-nın)
+    - tablo: masanın
     - '?'
 

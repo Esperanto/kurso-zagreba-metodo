@@ -11,7 +11,8 @@
     - lingvojn: diller
     - '?'
 -
-  demando: (Sen) Biliyor musun, Anna fakir bir adam ve güzel bir kız hakkındaki yeni şarkıyı beğeniyor mu?
+  demando: Biliyor musun, Anna fakir bir adam ve güzel bir kız hakkındaki yeni şarkıyı beğeniyor mu?
+  rektatraduko:
     - Ĉu: musun
     - vi: sen
     - scias: biliyor
@@ -28,7 +29,8 @@
     - belulino: güzel bir kız
     - '?'
 -
-  demando: (sen) Yaşlı adam ve genç adamı nerede gördün, ki onlar büyük bir masa taşıyordu? (Büyük bir masa taşıyan yaşlı adam ve genç adamı nerede gördün?)  rektatraduko: 
+  demando: Büyük bir masa taşıyan, yaşlı adam ve genç adamı nerede gördü? 
+  rektatraduko: 
     - Kie: nerede
     - vi: sen
     - vidis: gördün
@@ -44,8 +46,7 @@
     - tablon: masa
     - '?'
 -
-  demando: Nasıl oldu ki sen gene bize kardeşler (kız+erkek her iki cins birlikte) olmaksızın geldin? 
-  
+  demando: Nasıl oldu ki sen gene bize kardeşler olmaksızın geldin? 
   rektatraduko: 
     - Kiel: nasıl
     - okazis: oldu
@@ -60,7 +61,7 @@
     - gefratoj: kardeşler (kız+erkek her iki cins birden)
     - '?'
 -
-  demando: (Sen) Yeni eğitim kitabı sayesinde Esperanto'yu yeterince hızlı şekilde öğrenebilecek misin?
+  demando: Yeni eğitim kitabı sayesinde Esperanto'yu yeterince hızlı şekilde öğrenebilecek misin?
   rektatraduko: 
     - Ĉu: misin
     - vi: sen

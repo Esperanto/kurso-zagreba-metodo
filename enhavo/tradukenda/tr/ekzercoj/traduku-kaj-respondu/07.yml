@@ -1,77 +1,77 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
+  demando: İki yıldan fazla beklediğiniz kitap kimde idi?
   rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+    - Kiu: kim
+    - havis: sahipti
+    - la: (belirleyici artikel)
+    - libron: kitap
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
+    - kiun: ki
+    - vi: siz
+    - atendis: beliyordunuz
+    - pli: fazla, daha fazla
+    - ol: -den (-den hali, karşılaştırma sözcüğü)
+    - du: iki
+    - jarojn: yıl
     - '?'
 - 
-  demando: Do you want me to show you the photo which is dearest to me?
+  demando: Benim için en değerli olan fotoğrafı size göstermemi istiyor musunuz?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+    - Ĉu: musunuz
+    - vi: siz
+    - volas: istiyor
     - ','
-    - ke: that
-    - mi: I
-    - montras: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - ke: ki
+    - mi: ben
+    - montras: göstereyim
+    - al: -e (ismin -e hali)
+    - vi: size
+    - mian: benim
+    - plej: en, en fazla
+    - karan: değerli
+    - foton: fotoğraf'ı
     - '?'
 - 
-  demando: Where did you buy that garment?
+  demando: Bu elbiseyi nerede satın aldınız?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+    - Kie: nerede
+    - vi: siz
+    - aĉetis: satın aldı
+    - tiun: bu
+    - vestaĵon: elbise'yi
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
+  demando: Eğer güneşli bir gün ise, Pazar günü nereye gideceksiniz?
   rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+    - Kien: nere'ye
+    - vi: siz
+    - iros: gidecek
+    - dimanĉe: Pazar günü
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: eğer
+    - estos: olacak
+    - suna: güneşli
+    - tago: gün
     - '?'
 - 
-  demando: Did your brother already leave?
+  demando: Kardeşiniz ayrıldı bile mi?
   rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+    - Ĉu: mi
+    - via: sizin
+    - frato: kardeş
+    - jam: bile, aten, şimdiden
+    - ekiris: ayrıldı
     - '?'
 - 
-  demando: Where is the water which you have brought yourself?
+  demando: Kendin getirdiğin su nerede?
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+    - Kie: nerede
+    - estas: -dir
+    - la: (belirleyici artikel)
+    - akvo: su
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: ki onu
+    - vi: sen
+    - mem: kendin
+    - kunportis: getirdin, taşıdın
     - '?'

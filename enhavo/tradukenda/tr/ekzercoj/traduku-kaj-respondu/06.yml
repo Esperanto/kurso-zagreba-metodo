@@ -18,7 +18,7 @@
 - 
   demando: Yarın kahvaltı ethmek için ne istiyorsunuz?
   rektatraduko: 
-    - Kion: ne(yi)
+    - Kion: ne'yi
     - vi: siz
     - volas: istiyor
     - morgaŭ: yarın
@@ -31,13 +31,13 @@
     - Marko: Mark
     - alvenos: varacak, gelecek
     - ',' 
-    - je: -te, -de (zaman ve genel edatı)
+    - je: -te, -de 
     - la: (belirleyici artikel)
-    - kvina: beş (beşinci)
+    - kvina: beş, beşinci
     - aŭ: veya
-    - je: -te, -de (zaman ve genel edatı)
+    - je: -te, -de
     - la: (belirleyici artikel)
-    - oka: sekiz (sekizinci)
+    - oka: sekiz, sekizinci
     - horo: saat
     - '?'
 - 
@@ -61,7 +61,7 @@
     - Ĉu: mu
     - la: (belirleyici artikel) 
     - libreto: kitapçık
-    - estis: idi (yardımcı fiil)
+    - estis: idi 
     - utila: yardımcı, faydalı
     - al: -e
     - vi: siz

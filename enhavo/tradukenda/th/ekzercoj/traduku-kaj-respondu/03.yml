@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: บริกรในโรงแรมใหญ่ ๆ เข้าใจหลายภาษาใช่ไหม 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: ใช่ไหม 
+    - kelneroj: บริกร
+    - en: ใน
+    - grandaj: ใหญ่
+    - hoteloj: โรงแรม
+    - komprenas: เข้าใจ
+    - multajn: หลาย
+    - lingvojn: ภาษา
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: คุณรู้ไหมว่าอันนาชอบเพลงใหม่ที่เกี่ยวกับคนจนกับสาวสวย
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: ไหม
+    - vi: คุณ
+    - scias: รู้
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ĉu: ไหม
+    - Anna: อันนา 
+    - ŝatas: ชอบ
+    - la: คำนำหน้านาม
+    - novan: ใหม่
+    - kanton: เพลง
+    - pri: เกี่ยวกับ
+    - malriĉulo: คนจน
+    - kaj: และ
+    - belulino: สาวสวย
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: คุณเห็นคนแก่และคนหนุ่มที่ไหนซึ่งเป็นผู้ที่แบกโต๊ะขนาดใหญ่
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: ที่ไหน
+    - vi: คุณ
+    - vidis: เห็น
+    - la: คำนำหน้านามชี้เฉพาะ
+    - maljunulon: คนแก่
+    - kaj: และ
+    - la: คำนำหน้านามชี้เฉพาะ
+    - junulon: คนหนุ่ม
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: ซึ่งเป็นผู้
+    - portis: แบก
+    - grandan: ใหญ่
+    - tablon: โต๊ะ
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: เกิดอะไรขึ้นที่คุณกลับมายังพวกเราอีกครั้งโดยปราศจากพี่น้องชายหญิง
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: อย่างไร
+    - okazis: เกิดขึ้น
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: ที่
+    - vi: คุณ
+    - denove: อีครั้ง
+    - venis: มา
+    - al: ยัง 
+    - ni: พวกเรา
+    - sen: ปราศจาก
+    - gefratoj: พี่น้องชายหญิง
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: คุณสามารถเรียนภาษาเอสเปรันโตได้อย่างรวดเร็วโดยการช่วยของหนังสือเรียนเล่มใหม่ใช่ไหม?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: ใช่ไหม
+    - vi: คุณ
+    - povas: สามารถ
+    - per: โดยการช่วยของ
+    - la: คำนำหน้านามชี้เฉพาะ 
+    - nova: ใหม่
+    - lernolibro: หนังสือเรียน
+    - sufiĉe: อย่างเพียงพอ
+    - rapide: รวดเร็ว
+    - lerni: เรียน
+    - Esperanton: ภาษาเอสเปรันโต
     - '?'

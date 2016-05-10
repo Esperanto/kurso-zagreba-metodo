@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: บ้านหลังเก่าของคุณลักษณะเป็นอย่างไร
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: ลักษณะอย่างไร
+    - estis: เป็น
+    - via: ของคุณ
+    - malnova: เก่า
+    - hejmo: บ้าน 
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: คุณอ่านหนังสือเล่มไหนบ้างและพวกมันดีไหม
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: อันไหน 
+    - librojn: หนังสือ
+    - vi: คุณ
+    - legis: อ่าน
+    - kaj: และ
+    - ĉu: ไหม
+    - ili: พวกมัน
+    - estas: เป็น
+    - bonaj: ดี 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: "มาร์กและแอนนาทำอะไรกันอยู่ในห้องเล็ก ๆ ของมาร์ก"
   rektatraduko:
-    - Kion: What
-    - faris: did do
-    - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - Kion: อะไร
+    - faris: ทำ
+    - Anna: แอนนา
+    - kaj: และ
+    - Marko: มาร์ก
+    - en: ใน 
+    - la: คำนำหน้านาม
+    - malgranda: เล็ก
+    - ĉambro: ห้อง
+    - de: ของ
+    - Marko: มาร์ก
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: คุณชอบอ่านหนังสือเกี่ยวกับความรักไหม
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: ไหม
+    - vi: คุณ
+    - ŝatas: ชอบ
+    - legi: อ่าน
+    - librojn: หนังสือ
+    - pri: เกี่ยวกับ
+    - amo: ความรัก
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: ใครจะไปยังบ้านของคุณกับคุณ
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: ใคร
+    - iros: จะไป
+    - kun: กับ
+    - vi: คุณ
+    - al: ไปยัง 
+    - via: ของคุณ
+    - hejmo: บ้าน
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "ดวงตาของเพื่อนผู้หญิงของคุณเป็นอย่างไร"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: ลักษณะเป็นอย่างไร
+    - estas: เป็น
+    - la: คำนำหน้านาม
+    - okuloj: ดวงตา
+    - de: ของ
+    - via: ของคุณ
+    - amikino: เพื่อนผู้หญิง
     - '?'

@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: ใครคือเพื่อนผู้หญิงของคุณ
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: ใคร
+    - estas: คือ
+    - via: ของคุณ
+    - amikino: เพื่อนผู้หญิง
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: ตอนนี้ แอนนา เพื่อนของคุณกำลังเขียนอยู่ในห้องใช่ไหม
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - Ĉu: ใช่ไหม
+    - via: ของคุณ
+    - amikino: เพื่อนผู้หญิง
+    - Anna: แอนนา
+    - skribas: กำลังเขียน
+    - nun: ตอนนี้
+    - en: ใน
+    - la: คำนำหน้านาม 
+    - ĉambro: ห้อง
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: เพื่อนของพ่อของคุณทำงานอยู่ในโรงแรมใช่ไหม
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: ใช่ไหม
+    - la:คำนำหน้านาม
+    - amiko: เพื่อน
+    - de: ของ
+    - via: ของคุณ
+    - patro: พ่อ
+    - laboras: ทำงาน
+    - en:ใน
+    - hotelo: โรงแรม
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: อะไรวางอยู่บนโต๊ะทำงานในห้องของพวกเรา
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: อะไร 
+    - estas: อยู่
+    - sur: 'บน'
+    - la: คำนำหน้านาม
+    - labortablo: โต๊ะทำงาน
+    - en: ใน
+    - nia: ของพวกเรา
+    - ĉambro: ห้อง
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: หนังสือเรียนภาษาเอสเปรันโตอยู่บนโต๊ะของคุณใช่ไหม
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: ใช่ไหม
+    - Esperanto-lernolibro: หนังสือเรียนภาษาเอสเปรันโต
+    - estas: อยู่
+    - sur: 'บน'
+    - via: ของคุณ 
+    - tablo: โต๊ะ
     - '?'
 

@@ -42,21 +42,24 @@
     - tempo: time
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car?
+  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
   rektatraduko: 
     - Ĉu: Whether
     - vi: you
-    - vojaĝas: travel
-    - per: by
-    - la: the
-    - aŭto: car
+    - planas: plan
+    - veturi: to travel
     - al: to
     - Parizo: Paris
-    - aŭ: or
-    - pli: more
-    - bone: better
     - per: by
-    - la: the
+    - aŭto: car
+    - aŭ: or
+    - ĉu: whether
+    - ne: not
+    - ŝajnas: seem
+    - multe: much
+    - pli: more
+    - bone: good
+    - per: by
     - vagonaro: train
     - '?'
 - 

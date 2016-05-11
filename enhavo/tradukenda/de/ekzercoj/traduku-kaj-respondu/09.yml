@@ -42,22 +42,25 @@
     - tempo: Zeit 
     - '?'
 - 
-  demando: Reist du mit dem Auto nach Paris oder besser mit dem Zug?
-  rektatraduko:
-    - Ĉu: Ob 
-    - vi: du 
-    - vojaĝas: reist 
+  demando: Planst Du nach Paris mit dem Auto zu fahren oder scheint es Dir nicht viel besser mit dem Zug zu fahren?
+  rektatraduko: 
+    - Ĉu: Ob
+    - vi: Du
+    - planas: planst
+    - veturi: fahren
+    - al: nach
+    - Parizo: Paris
     - per: mit
-    - la: dem 
-    - aŭto: Auto 
-    - al: nach 
-    - Parizo: Paris 
-    - aŭ: oder 
+    - aŭto: Auto
+    - aŭ: oder
+    - ĉu: ob
+    - ne: nicht
+    - ŝajnas: scheint
+    - multe: viel
     - pli: mehr
-    - bone: gut 
-    - per: mit 
-    - la: dem 
-    - vagonaro: Zug 
+    - bone: gut
+    - per: mit
+    - vagonaro: Zug
     - '?'
 - 
   demando: Warum werden gleiche Ideen von verschiedenen Menschen verschiedenartig erklärt?

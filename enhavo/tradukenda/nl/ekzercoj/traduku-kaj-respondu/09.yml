@@ -42,23 +42,24 @@
     - tempo: tijd
     - '?'
 - 
-  demando: Reis je met de auto naar Parijs of beter met de trein? rektatraduko:
+  demando: Ben je van plan per auto naar Parijs te rijden, of lijkt het niet veel beter per trein? 
+  rektatraduko:
     - Ĉu: Of
     - vi: je
     - planas: plant
     - veturi: rijden
     - al: naar
     - Parizo: Parijs
-    - per: met
+    - per: per
     - aŭto: aŭto
     - aŭ: of
     - ĉu: of
     - ne: niet
-    - ŝajnas: schijnt
+    - ŝajnas: lijkt
     - multe: veel
     - pli: meer
     - bone: goed
-    - per: met
+    - per: per
     - vagonaro: trein
     - '?':
   - 

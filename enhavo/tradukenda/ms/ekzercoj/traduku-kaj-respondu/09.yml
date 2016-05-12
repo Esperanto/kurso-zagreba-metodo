@@ -45,18 +45,21 @@
   demando: Adakah anda merancang untuk melancong ke Paris dengan kereta atau lebih baik dengan kereta api ?
   rektatraduko: 
     - Ĉu: Adakah
-    - vi: anda
-    - vojaĝas: melancong, berjalan
-    - per: dengan
-    - la: itu,ini
-    - aŭto: kereta
+    - vi: anda 
+    - plenas: merancang
+    - venturi:melancong, memergi
     - al: ke
     - Parizo: Paris
+    - per: dengan
+    - aŭto: kereta
     - aŭ: atau
+    - ĉu: adakah
+    - ne: tidak
+    - ŝajnas: kemungkinan
+    - multe: banyak, ramai,lagi
     - pli: lebih
     - bone: baik
     - per: dengan 
-    - la: itu,ini
     - vagonaro: kereta api
     - '?'
 - 

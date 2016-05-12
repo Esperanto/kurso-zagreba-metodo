@@ -25,7 +25,7 @@
     - urbocentron: stadscentrum 
     - '!'
 - 
-  demando: Waarheen zou jij willen reizen, indien je genoeg geld en tijd zoudt hebben?
+  demando: Waarheen zou jij willen reizen, indien je genoeg geld en tijd had?
   rektatraduko:
     - Kien: Waarheen
     - vi: jij 
@@ -51,7 +51,7 @@
     - al: naar
     - Parizo: Parijs
     - per: per
-    - aŭto: aŭto
+    - aŭto: auto
     - aŭ: of
     - ĉu: of
     - ne: niet

@@ -1,5 +1,5 @@
 - 
-  demando: Waz zou jouw ouders het meest kunnen verheugen?
+  demando: Wat zou jouw ouders het meest kunnen verheugen?
   rektatraduko:
     - Kio: Wat 
     - povus: zou kunnen 
@@ -42,24 +42,26 @@
     - tempo: tijd
     - '?'
 - 
-  demando: Reis je met de auto naar Parijs of beter met de trein?
-  rektatraduko:
-    - Ĉu: Of 
-    - vi: je 
-    - vojaĝas: reist 
+  demando: Reis je met de auto naar Parijs of beter met de trein? rektatraduko:
+    - Ĉu: Of
+    - vi: je
+    - planas: plant
+    - veturi: rijden
+    - al: naar
+    - Parizo: Parijs
     - per: met
-    - la: de 
-    - aŭto: auto 
-    - al: naar 
-    - Parizo: Parijs 
-    - aŭ: of 
+    - aŭto: aŭto
+    - aŭ: of
+    - ĉu: of
+    - ne: niet
+    - ŝajnas: schijnt
+    - multe: veel
     - pli: meer
-    - bone: goed 
-    - per: met 
-    - la: de 
-    - vagonaro: trein 
-    - '?'
-- 
+    - bone: goed
+    - per: met
+    - vagonaro: trein
+    - '?':
+  - 
   demando: Waarom worden gelijke ideeën door verschillende mensen op een verschillende manier verklaard?
   rektatraduko:
     - Kial: Waarom

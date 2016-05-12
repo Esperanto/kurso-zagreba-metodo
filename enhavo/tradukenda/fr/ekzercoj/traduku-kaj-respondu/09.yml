@@ -42,21 +42,24 @@
     - tempo: temps
     - '?'
 - 
-  demando: Est-ce que tu voyages à Paris en voiture ou, mieux, en train ?
+  demando: Est-ce que tu prévois d'aller à Paris en voiture ou, est-ce-que cela ne semble pas beaucoup mieux, en train ?
   rektatraduko: 
     - Ĉu: Est-ce que
     - vi: tu
-    - vojaĝas: voyages
-    - per: avec
-    - la: la
-    - aŭto: voiture
+    - planas: prévois
+    - veturi: aller	
     - al: à
     - Parizo: Paris
+    - per: avec
+    - aŭto: voiture
     - aŭ: ou
+    - ĉu: est-ce-que
+    - ne: ne
+    - ŝajnas: semble
+    - multe: beaucoup
     - pli: plus
     - bone: bon
     - per: par
-    - la: le
     - vagonaro: train
     - '?'
 - 

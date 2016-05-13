@@ -42,7 +42,7 @@
   demando: "Est-ce qu'on peut fermer la porte de la chambre quand il fait froid ?"
   rektatraduko: 
     - Ĉu: Est-ce que
-    - oni: on
+    - oni: "on"
     - povas: peut
     - fermi: fermer
     - la: la
@@ -64,7 +64,7 @@
     - koleras: êtes en colère
     - ','
     - se: si
-    - oni: on
+    - oni: "on"
     - forprenas: emporte
     - de: de
     - vi: vous

@@ -143,7 +143,7 @@ ap = argparse.ArgumentParser()
 ap.add_argument(
     "-vp", 
     "--vojprefikso", 
-    help="The supposed directory root of the output. All links will be prefixed with it.",
+    help="La vojprefikso por ĉiuj ligiloj en la eligo. Norme: /[lingvokodo]/",
     type=str
 )
 

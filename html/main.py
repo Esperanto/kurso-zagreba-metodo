@@ -40,7 +40,7 @@ def generate_html(lingvo, enhavo, args):
     if args.vojprefikso:
         vojprefikso = args.vojprefikso + lingvo + '/'
     else:
-        vojprefikso = '/kurso-zagreba-metodo/html/output/' + lingvo + '/'
+        vojprefikso = '/' + lingvo + '/'
 
     rendered = env.get_template('index.html').render(
       enhavo = enhavo,

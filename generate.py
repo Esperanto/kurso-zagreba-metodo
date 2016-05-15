@@ -9,6 +9,7 @@ import os
 import sys
 import argparse
 
+
 def transpose_headlines(markdown, level):
     prefix = ''
     for i in range(level):
@@ -25,7 +26,7 @@ def get_markdown_headlines(s):
         headlines.append(match.group(2).strip())
 
     return headlines
-    
+
 
 def load(language):
 

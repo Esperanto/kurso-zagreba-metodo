@@ -6,6 +6,7 @@ import glob
 import re
 import mistune
 import os
+import sys
 import argparse
 
 def transpose_headlines(markdown, level):
@@ -147,6 +148,13 @@ ap.add_argument(
     type=str
 )
 
+ap.add_argument(
+    "-l", 
+    "--lingvo", 
+    help="Kreu eligon nur por tiu lingvo. Norme: Kreu por ĉiujn.",
+    type=str
+)
+
 args = ap.parse_args()
 
 lingvoj = {
@@ -159,8 +167,15 @@ lingvoj = {
   'zh': u'中文'
 }
 
-for lingvo in lingvoj:
-    enhavo = load(lingvo)
+if args.lingvo:
+    if args.lingvo not in lingvoj.keys():
+        sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
+    enhavo = load(args.lingvo)
     enhavo['lingvoj'] = lingvoj
-    generate_html(lingvo, enhavo, args)
+    generate_html(args.lingvo, enhavo, args)
+else:
+    for lingvo in lingvoj:
+        enhavo = load(lingvo)
+        enhavo['lingvoj'] = lingvoj
+        generate_html(lingvo, enhavo, args)
 

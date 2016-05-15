@@ -164,6 +164,7 @@ lingvoj = {
   'fr': u'Français',
   'es': u'Español',
   'ms': u'Bahasa Melayu',
+  'th': u'ไทย (test)',
   'tr': u'Türkçe (test)',
   'zh': u'中文'
 }

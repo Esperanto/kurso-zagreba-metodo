@@ -139,7 +139,7 @@ md = mistune.Markdown()
 execfile('html/main.py')
 
 ap = argparse.ArgumentParser()
-ap.add_argument("root", help="The supposed directory root of the output. All links will be prefixed with it.")
+ap.add_argument("vojprefikso", help="The supposed directory root of the output. All links will be prefixed with it.")
 args = ap.parse_args()
 
 lingvoj = {

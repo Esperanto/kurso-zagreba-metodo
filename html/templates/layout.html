@@ -17,8 +17,8 @@
     <!--
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     -->
-    <link href="{{root}}../assets/css/main.css" rel="stylesheet">
-    <link href="{{root}}../assets/css/vortaro.css" rel="stylesheet">
+    <link href="{{vojprefikso}}../assets/css/main.css" rel="stylesheet">
+    <link href="{{vojprefikso}}../assets/css/vortaro.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -52,7 +52,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="{{root}}"><img id="logo" src="{{root}}../assets/img/stelo.png" alt="Verda stelo"></a>
+          <a class="navbar-brand" href="{{vojprefikso}}"><img id="logo" src="{{vojprefikso}}../assets/img/stelo.png" alt="Verda stelo"></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -65,7 +65,7 @@
               </a>
               <ul class="dropdown-menu">
                 {% for leciono in enhavo.lecionoj %}
-                <li><a href="{{root}}{{leciono.indekso.cxene}}">{{leciono.indekso.cifre}}. {{leciono.teksto.titolo_string}}</a></li>
+                <li><a href="{{vojprefikso}}{{leciono.indekso.cxene}}">{{leciono.indekso.cifre}}. {{leciono.teksto.titolo_string}}</a></li>
                 {% endfor %}
               </ul>
             </li>
@@ -75,19 +75,19 @@
                 <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                <li><a href="{{root}}tabelvortoj">
+                <li><a href="{{vojprefikso}}tabelvortoj">
                   {{enhavo.fasado['Tabelvortoj']}}
                 </a></li>
-                <li><a href="{{root}}prepozicioj">
+                <li><a href="{{vojprefikso}}prepozicioj">
                   {{enhavo.fasado['Prepozicioj']}}
                 </a></li>
-                <li><a href="{{root}}konjunkcioj">
+                <li><a href="{{vojprefikso}}konjunkcioj">
                   {{enhavo.fasado['Konjunkcioj']}}
                 </a></li>
-                <li><a href="{{root}}afiksoj">
+                <li><a href="{{vojprefikso}}afiksoj">
                   {{enhavo.fasado['Afiksoj']}}
                 </a></li>
-                <li><a href="{{root}}diversajxoj">
+                <li><a href="{{vojprefikso}}diversajxoj">
                   {{enhavo.fasado['Diversaĵoj']}}
                 </a></li>
               </ul>
@@ -128,7 +128,7 @@
 			<div class="footer well well-sm">
 				<div>
 					<a href="https://github.com/Esperanto/kurso-zagreba-metodo#permesiloj">
-				    <img id="cc" src="{{root}}../assets/img/cc.png" alt="Creative commons">
+				    <img id="cc" src="{{vojprefikso}}../assets/img/cc.png" alt="Creative commons">
 					</a> 
 					
 					Surbaze de la <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo">Zagreba metodo</a>, 
@@ -156,9 +156,9 @@
     <!-- Typeahead for Vortaro -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/corejs-typeahead/0.11.1/typeahead.bundle.min.js"></script>
 
-    <script src="{{root}}../assets/js/main.js"></script>
-    <script src="{{root}}js/vortlisto.js"></script>
-    <script src="{{root}}../assets/js/vortaro.js"></script>
+    <script src="{{vojprefikso}}../assets/js/main.js"></script>
+    <script src="{{vojprefikso}}js/vortlisto.js"></script>
+    <script src="{{vojprefikso}}../assets/js/vortaro.js"></script>
 
   </body>
 </html>

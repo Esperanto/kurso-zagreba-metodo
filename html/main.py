@@ -3,11 +3,11 @@
 import os
 import shutil
 
-def render_page(name, enhavo, root, env, output_path):
+def render_page(name, enhavo, vojprefikso, env, output_path):
 
     rendered = env.get_template(name + '.html').render(
       enhavo = enhavo,
-      root   = root,
+      vojprefikso   = vojprefikso,
     )
 
     dir = output_path + name + '/'
@@ -37,14 +37,14 @@ def generate_html(lingvo, enhavo, args):
         ('ekzerco3'  , 'ekzerco3/'  , enhavo['fasado']['Ekzerco 3'])
     ]
 
-    if args.root:
-        root = args.root + lingvo + '/'
+    if args.vojprefikso:
+        vojprefikso = args.vojprefikso + lingvo + '/'
     else:
-        root = '/kurso-zagreba-metodo/html/output/' + lingvo + '/'
+        vojprefikso = '/kurso-zagreba-metodo/html/output/' + lingvo + '/'
 
     rendered = env.get_template('index.html').render(
       enhavo = enhavo,
-      root   = root,
+      vojprefikso   = vojprefikso,
       tabs   = tabs,
     )
 
@@ -62,16 +62,16 @@ def generate_html(lingvo, enhavo, args):
     with open(dir + 'vortlisto.js', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
-    render_page('tabelvortoj', enhavo, root, env, output_path)
-    render_page('prepozicioj', enhavo, root, env, output_path)
-    render_page('konjunkcioj', enhavo, root, env, output_path)
-    render_page('afiksoj', enhavo, root, env, output_path)
-    render_page('diversajxoj', enhavo, root, env, output_path)
+    render_page('tabelvortoj', enhavo, vojprefikso, env, output_path)
+    render_page('prepozicioj', enhavo, vojprefikso, env, output_path)
+    render_page('konjunkcioj', enhavo, vojprefikso, env, output_path)
+    render_page('afiksoj', enhavo, vojprefikso, env, output_path)
+    render_page('diversajxoj', enhavo, vojprefikso, env, output_path)
 
     paths = []
     for i in range(1, 13):
         for  id, href,caption in tabs:
-            paths.append(root + str(i).zfill(2) + '/' + href)
+            paths.append(vojprefikso + str(i).zfill(2) + '/' + href)
 
     paths_index = 0
 
@@ -93,7 +93,7 @@ def generate_html(lingvo, enhavo, args):
             previous_path = None
             next_path = None
 
-            tab_root = root + i_padded + '/'
+            tab_vojprefikso = vojprefikso + i_padded + '/'
 
             if paths_index > 0:
                 previous_path = paths[paths_index-1]
@@ -105,8 +105,8 @@ def generate_html(lingvo, enhavo, args):
               enhavo=enhavo, 
               leciono=enhavo['lecionoj'][i-1], 
               leciono_index=i,
-              root=root,
-              tab_root = tab_root,
+              vojprefikso=vojprefikso,
+              tab_vojprefikso = tab_vojprefikso,
               previous_path=previous_path,
               next_path=next_path,
               tabs=tabs,

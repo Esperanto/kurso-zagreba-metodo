@@ -77,9 +77,6 @@ def generate_html(lingvo, enhavo, args):
         leciono_dir = output_path + i_padded
 
         for tab, href, caption in tabs:
-            tab_dir = leciono_dir + '/' + href + '/'
-            if not os.path.exists(tab_dir):
-                os.mkdir(tab_dir)
 
             previous_path = None
             next_path = None
@@ -103,7 +100,8 @@ def generate_html(lingvo, enhavo, args):
               tabs=tabs,
               active_tab=tab
             )
-            eligo[tab_dir + '/index.html'] = tab_rendered
+
+            eligo[leciono_dir + '/' + href + '/' + '/index.html'] = tab_rendered
 
     shutil.rmtree(output_path, ignore_errors=True)
     for vojo in eligo.keys():

@@ -10,12 +10,18 @@ def render_page(name, enhavo, vojprefikso, env, output_path):
       vojprefikso   = vojprefikso,
     )
 
-    dir = output_path + name + '/'
-    os.mkdir(dir)
-    with open(dir + 'index.html', 'w') as f:
-        f.write(rendered.encode('utf-8'))
+    return rendered
+
+def write_file(filename, content):
+    dirname = os.path.dirname(filename)
+    if not os.path.exists(dirname):
+        os.makedirs(dirname)
+    with open(filename, 'w') as f:
+        f.write(content.encode('utf-8'))
 
 def generate_html(lingvo, enhavo, args):
+
+    eligo = {}
 
     env = jinja2.Environment()
     env.filters['markdown'] = lambda text: jinja2.Markup(md(text))
@@ -25,8 +31,6 @@ def generate_html(lingvo, enhavo, args):
 
     output_path = 'html/output/' + lingvo + '/'
 
-    shutil.rmtree(output_path, ignore_errors=True)
-    os.mkdir(output_path)
 
     tabs = [
         ('teksto'    , ''           , enhavo['fasado']['Teksto']   ) , 
@@ -48,25 +52,18 @@ def generate_html(lingvo, enhavo, args):
       tabs   = tabs,
     )
 
-    with open(output_path + 'index.html', 'w') as f:
-        f.write(rendered.encode('utf-8'))
+    eligo[output_path + 'index.html'] = rendered
 
     # vortaro.js
     rendered = env.get_template('vortlisto.js').render(
       enhavo = enhavo,
     )
 
-    dir = output_path + 'js/'
-    os.mkdir(dir)
+    eligo[output_path + 'js/vortlisto.js'] = rendered
 
-    with open(dir + 'vortlisto.js', 'w') as f:
-        f.write(rendered.encode('utf-8'))
 
-    render_page('tabelvortoj', enhavo, vojprefikso, env, output_path)
-    render_page('prepozicioj', enhavo, vojprefikso, env, output_path)
-    render_page('konjunkcioj', enhavo, vojprefikso, env, output_path)
-    render_page('afiksoj', enhavo, vojprefikso, env, output_path)
-    render_page('diversajxoj', enhavo, vojprefikso, env, output_path)
+    for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj']:
+        eligo[output_path + tab_page + '/index.html'] = render_page(tab_page, enhavo, vojprefikso, env, output_path)
 
     paths = []
     for i in range(1, 13):
@@ -78,12 +75,6 @@ def generate_html(lingvo, enhavo, args):
     for i in range(1, 13):
         i_padded = str(i).zfill(2)
         leciono_dir = output_path + i_padded
-        shutil.rmtree(leciono_dir, ignore_errors=True)
-        os.mkdir(leciono_dir)
-
-        #teksto_dir = leciono_dir + '/teksto'
-        #os.mkdir(teksto_dir)
-
 
         for tab, href, caption in tabs:
             tab_dir = leciono_dir + '/' + href + '/'
@@ -112,6 +103,8 @@ def generate_html(lingvo, enhavo, args):
               tabs=tabs,
               active_tab=tab
             )
-            with open(tab_dir + '/index.html', 'w') as f:
-                f.write(tab_rendered.encode('utf-8'))
+            eligo[tab_dir + '/index.html'] = tab_rendered
 
+    shutil.rmtree(output_path, ignore_errors=True)
+    for vojo in eligo.keys():
+        write_file(vojo, eligo[vojo])

@@ -17,7 +17,7 @@ Kiam mi legis vian mesaĝon, mi invitas vin al la Esperanta teamo ĉe Github. Mi
 1. iru al https://github.com/Esperanto kaj klaku al "View invitation".
 2. En la sekva paĝo, klaku al "Join Esperanto".
 
-## Kontrolu ĉu tradukon al via lingvo jam ekzistas
+## Kontrolu ĉu traduko al via lingvo jam ekzistas
 
 La [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo) estas jam tradukita al multe da lingvoj, tial plej bonus se vi ne mem tradukas al via lingvo sed trovas tradukaĵon al tiu lingvo.  
 

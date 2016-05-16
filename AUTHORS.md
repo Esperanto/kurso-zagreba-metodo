@@ -11,13 +11,13 @@ La aŭtoroj de la *Zagreba metodo* estas:
 
 ## Retejo
 
-La retejo programis:
+La retejon programis:
 
 - [Georg Jähnig](https://github.com/georgjaehnig/)
 
 ## Ciferecigo de la enhavo
 
-La ciferecigo faris laŭlingve:
+La ciferecigon faris laŭlingve:
 
 ### Germana
 

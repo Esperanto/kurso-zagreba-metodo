@@ -11,9 +11,9 @@ amas:
 amik: 朋友,词根
 arb: 树,词根
 aspekt:
-- 方面,词根
-- 似乎,词根
-atend: 等,词根
+- 外表,词根
+- 显得,词根
+atend: 等待,词根
 atent: 注意,词根
 aĉet: 买,词根
 aŭd: 听,词根
@@ -28,15 +28,15 @@ bien:
 - 土地,词根
 bon: 好,词根
 branĉ: 支部,词根
-bru: 声音,词根
+bru: 噪音,词根
 buŝ: 嘴,词根
-cert: 一定,词根
+cert: 确定,词根
 dank: 谢谢,词根
 daŭr: 继续,词根
 decid: 决定,词根
 demand: 发问,词根
-dev: 必定，一定,词根
-dezir: 希望,词根
+dev: 必需、一定,词根
+dezir: 愿望,词根
 diabl: 妖魔,词根
 dik:
 - 厚,词根
@@ -64,27 +64,23 @@ fakt: 事实,词根
 fal: 掉,词根
 famili: 家庭,词根
 far: 做,词根
-fart:
-- 感觉,词根
-- 是,词根
-feliĉ: 高兴,词根
+fart: 过活、康泰,词根
+feliĉ: 幸福,词根
 ferm: 关闭,词根
 fin: 结束,词根
-flank: 方面，侧,词根
+flank: 方面、侧,词根
 foj:
-- 时,词根
+- 有时,词根
 - 次,词根
 forges: 忘记,词根
-form: 形成,词根
+form: 形式,词根
 fort: 壮,词根
 fot: 相片,词根
 frat: 兄/弟,词根
 fru: 早，反义词是迟,词根
 fuŝ: 搞糟,词根
 gondol: 贡多拉,词根
-graf:
-- 计数,词根
-- 伯爵,词根
+graf: 伯爵,词根
 grand:
 - 大,词根
 - 巨大,词根
@@ -92,13 +88,13 @@ grav: 重要,词根
 halt: 停止,词根
 hav: 有,词根
 hejm: 家,词根
-help: 协助,词根
+help: 帮助,词根
 hom: 人类,词根
 hor: 点钟,词根
 hotel: 酒店,词根
 ide: 想法,词根
 industri: 工业,词根
-instru: 知道,词根
+instru: 教,词根
 interes: 兴趣,词根
 invit: 邀请,词根
 ir: 去,词根
@@ -117,7 +113,7 @@ kelk: 一些,词根
 kelner: 服务员，侍应生,词根
 klar: 解释,词根
 klub: 俱乐部,词根
-knab: 男孩,词根
+knab: 小孩,词根
 koler: 生气,词根
 kolor: 颜色,词根
 komenc: 开始,词根
@@ -179,9 +175,9 @@ odor: 味道,词根
 oft: 经常,词根
 okaz: 发生,词根
 okul: 眼睛,词根
-onkl: 叔叔，伯伯,词根
+onkl: 叔叔、伯伯,词根
 opini: 意见,词根
-ord: 订购,词根
+ord: 秩序,词根
 orel: 耳朵,词根
 pac: 和平,词根
 pag: 付（款）,词根
@@ -199,7 +195,7 @@ person: 人,词根
 pet: 要求,词根
 pez: 重,词根
 pied: 脚,词根
-plac: 地方,词根
+plac: 广场,词根
 plan: 计划,词根
 plaĉ: 令人愉快,词根
 plen: 满,词根
@@ -231,11 +227,11 @@ riĉ: 富,词根
 rol: 角色,词根
 ruĝ: 红,词根
 salt: 跳,词根
-salut: 敬礼，祝福,词根
-sam: 一样,词根
+salut: 敬礼、祝福,词根
+sam: 相同,词根
 san: 健康,词根
 saĝ: 智慧,词根
-sci: 知道，明了,词根
+sci: 知道、明了,词根
 sek: 干,词根
 sekret: 秘密,词根
 sekv: 跟随,词根
@@ -286,24 +282,24 @@ ven: 来,词根
 vend: 卖,词根
 Veneci: 威尼斯,词根
 ver: 真,词根
-vesper: 傍晚，晚上,词根
+vesper: 傍晚、晚上,词根
 vest: 穿 (衣服),词根
-vetur: 旅行，行,词根
+vetur: 乘行、行,词根
 vid: 看,词根
 vin: 葡萄酒,词根
 vir: 男人,词根
-viv: 活，居住,词根
-vizaĝ: 面子。脸,词根
-vizit: 参观，拜访,词根
+viv: 活、居住,词根
+vizaĝ: 脸,词根
+vizit: 参观、拜访,词根
 voj: 路,词根
-vojaĝ: 旅程,词根
+vojaĝ: 旅行,词根
 vok: 叫,词根
 vol: 要,词根
 vort: 字,词根
 voĉ: 声音,词根
 zorg: 照顾,词根
 ĉambr: 房间,词根
-ĉef: 老板，主要负责人,词根
+ĉef: 老板、主要负责人,词根
 ĝen:
 - 干扰,词根
 - 骚扰,词根
@@ -312,6 +308,6 @@ zorg: 照顾,词根
 ĝust: 修正，改正,词根
 ĵet: 丢,词根
 ŝajn: 似乎,词根
-ŝanĝ: 改，改变,词根
+ŝanĝ: 改、改变,词根
 ŝat: 喜欢,词根
 ŝip: 船,词根

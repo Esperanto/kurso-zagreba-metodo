@@ -1,10 +1,19 @@
-ili: sie (Mehrzahl) 
-li: er 
-lia: sein(e) 
-mi: ich
-mia: mein
-ni: wir
-oni: man
-vi: du
-ĝi: es 
-ŝi: sie 
+ili: 
+- zij (meervoud)
+- ze (meervoud)
+li: hij 
+lia: zijn(e) 
+mi: ik
+mia: mijn(e)
+ni: 
+ - wii
+  - we
+oni: men
+vi: 
+- jij
+- je
+- gij
+- ge
+-  jullie
+ĝi: het 
+ŝi: zij (vrouwelijk enkelvoud) 

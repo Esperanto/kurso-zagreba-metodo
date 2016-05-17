@@ -1,11 +1,13 @@
-aŭ: oder
-kaj: und
-ke: dass 
-kvankam: obwohl
-nek: weder (… noch)
-ol: als
-se: wenn
-sed: aber
+aŭ: of
+kaj: en
+ke: dat 
+kvankam: hoewel
+nek: nock (… noch)
+ol: dan
+se: 
+ - indien
+ - als
+sed: maar
 ĉar:
-- weil
-- denn
+- omdat
+- want

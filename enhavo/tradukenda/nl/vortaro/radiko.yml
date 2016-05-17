@@ -115,7 +115,8 @@ kastel:
 kav:
 - hol
 - groeve
-kelk: - enige
+kelk: 
+- enige
 - enkele
 kelner: ober
 klar: klaar

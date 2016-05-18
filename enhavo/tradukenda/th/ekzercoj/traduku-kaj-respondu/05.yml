@@ -1,65 +1,66 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: คุณสามารถเรียนอย่างใจเย็นได้ไหม ในระหว่างที่บางคนกำลังร้องเพลงอย่างร่าเริง
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: ไหม
+    - vi: คุณ
+    - povas: สามารถ
+    - trankvile: อย่างใจเย็น
+    - lerni: เรียน
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: ในขณะ
+    - iu: บางคน
+    - ĝoje: อย่างร่าเริง
+    - kantas: ร้องเพลง
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: ใครรู้บ้างว่าเราจะได้พบกันอีกที่ไหนและเมื่อไหร่
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: ใคร
+    - scias: รู้
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: เมื่อไหร่ 
+    - kaj: และ
+    - kie: ที่ไหน
+    - ni: พวกเรา
+    - revidos: เห็นอีกครั้ง
+    - nin: พวกเรา
     - '?'
 -
-  demando: What time is it now?
+  demando: ตอนนี้กี่โมงแล้ว
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: ลำดับที่เท่าไหร่
+    - horo: ชั่วโมง
+    - estas: เป็น
+    - nun: ตอนนี้
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: มีใครช่วยคุณเปิดประตูบ้านหลังเก่าไหม
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: ไหม
+    - iu: บางคน
+    - helpis: ช่วย
+    - al: ไปยัง 
+    - vi: คุณ
+    - malfermi: เปิด
+    - la: คำนำหน้านามชี้เฉพาะ 
+    - pordon: ประตู 
+    - de: ของ
+    - la: คำนำหน้านามชี้เฉพาะ
+    - malnova: เก่า
+    - domo: บ้าน
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: ทำไม่คุณไม่มีเวลาฟังฉันนานกว่านี้
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - al: to
-    - mi: me
-    - pli: more
-    - longe: long
+    - Kial: ทำไม
+    - vi: คุณ
+    - ne: ไม่
+    - havas: มี
+    - tempon: เวลา
+    - aŭskulti: ฟัง
+    - al: ไปยัง
+    - mi: ฉัน
+    - pli: มากกว่า
+    - longe: ยาว
+        - นาน
     - '?'

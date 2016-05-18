@@ -1,58 +1,58 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: ใครทำความสะอาดห้องครัวหลังจากอาหารเที่ยง
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: ใคร
+    - purigos: ทำให้สะอาด
+    - la: คำนำหน้านามชี้เฉพาะ
+    - kuirejon: ห้องครัว
+    - post: หลังจาก
+    - la: คำนำหน้านามชี้เฉพาะ
+    - tagmanĝo: อาหารเที่ยง
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: "คุณต้องการดื่มอะไร ชา กาแฟนิดหน่อยหรือไม่ต้องการอะไรเลยใช่ไหม
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: อะไร
+    - vi: คุณ
+    - volas: ต้องการ
+    - trinki: ดื่ม
     - ':' 
-    - teon: tea
+    - teon: ชา
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: จำนวนหนึ่ง
+    - da: ของ
+    - kafo: กาแฟ
+    - aŭ: หรือ
+    - ĉu: ใช่ไหม
+    - vi: คุณ
+    - volas: ต้องการ
+    - nenion: ไม่มีอะไรสักอย่าง
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: ทำไมคุณตัดสินใจในทันใดอย่างนั้นที่จะทำห้องเล็กของคุณใหม่
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: ทำไม
+    - vi: คุณ
+    - tiel: อย่างนั้น
+    - subite: ทันใด
+    - decidis: ตัดสินใจ
+    - renovigi: ทำให้ใหม่
+    - vian: ของคุณ
+    - ĉambreton: ห้องเล็ก
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: คุณให้แก้วสะอาดสำหรับไวน์กับใคร
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: ไปยัง
+    - kiu: ใคร
+    - vi: คุณ
+    - donis: ให้
+    - la: คำนำหน้านามชี้เฉพาะ
+    - purajn: สะอาด
+    - glasojn: แก้ว
+    - por: สำหรับ
+    - la: คำนำหน้านามชี้เฉพาะ
+    - vino: ไวน์
     - '?'
 - 
   demando: Against whom did your sports club play two weeks ago?
@@ -67,20 +67,20 @@
     - semajnoj: weeks
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: คุณเห็นตำรวจที่พักอาศัยในที่พักเหนือคุณบ่อยไหม
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: ไหม
+    - vi: คุณ
+    - ofte: บ่อย
+    - vidas: เห็น
+    - la: คำนำหน้านามชี้เฉพาะ
+    - policiston: ตำรวจ
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: ซึ่งเป็นผู้ที่
+    - loĝas: อาศัย
+    - en: ใน
+    - la: คำนำนหน้านามชี้เฉพาะ
+    - loĝejo: ที่พักอาศัย
+    - super: เหนือ
+    - vi: คุณ
     - '?'

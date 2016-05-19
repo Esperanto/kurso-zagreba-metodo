@@ -1,68 +1,68 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: พวกเราจะพบกันอีกครั้งที่ไหนก็ได้เวลาไหนก็ได้ใช่ไหม
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: ใช่ไหม
+    - ni: พวกเรา
+    - revidos: พบกันอีกครั้ง
+    - nin: พวกเรา
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: ที่ไหน
+    - ajn: ก็ได้
+    - kaj: และ
+    - kiam: เมื่อไหร่
+    - ajn: ก็ได้
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: เมื่อไหร่ฉันจะได้รับคืนหนังสืออีกครึ่งหนึ่ง
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: เมื่อไหร่
+    - mi: ฉัน 
+    - rericevos: จะได้รับคืน
+    - la: คำนำหน้านามชี้เฉพาะ
+    - alian: อื่น ๆ
+    - duonon: ครึ่ง
+    - de: ของ
+    - la:คำนำหน้านามชี้เฉพาะ
+    - libroj: หนังสือหลายเล่ม
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: สำหรับงานพวกนี้ คุณต้องการมากกว่าหนึ่งส่วนสี่ปีเลยใช่ไหม
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: ใช่ไหม
+    - vi: คุณ
+    - bezonos: จะต้องการ
+    - pli: มากกว่า
+    - ol: กว่า
+    - kvaronan: หนึ่งส่วนสี่
+    - jaron: ปี
+    - por: สำหรับ
+    - tiuj: พวกนี้
+    - laboroj: งาน
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: ทำไมยิ่งหนาวพวกเราต้องยิ่งคอยนาน
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: ทำไม
+    - estas: เป็น
+    - des: 
+    - pli: มากกว่า
+    - malvarma: หนาว
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: 
+    - pli: มากกว่า
+    - longe: ยาวนาน
+    - ni: พวกเรา
+    - atendas: คอย
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: คุณพอใจไหมเมื่อคุณอยู่กับผู้ชายคนไหนก็ได้
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: ไหม
+    - vi: คุณ
+    - estus: เป็น
+    - kontenta: พอใจ
+    - kun: กับ
+    - iu: บางคน
+    - ajn: ไหนก็ได้
+    - viro: ผู้ชาย
     - '?'

@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: คุณสามารถนำยาของพี่สาวของฉันมาด้วยได้ไหม
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: ไหม
+    - vi: คุณ
+    - povas: สามารถ
+    - kunporti: นำมาด้วย
+    - la: คำนำหน้านามชี้เฉพาะ
+    - sanigilon: ยา
+    - de: ของ
+    - mia: ของฉัน
+    - fratino: พี่สาว
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: คุณซื้อเครื่องดนตรีชี้นนั้นมาตั้งแต่เมื่อไหร่
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: เมื่อไหร่
+    - vi: คุณ
+    - aĉetis: ซื้อ
+    - tiun: อันนั้น
+    - muzikilon: เครื่องดนตรี
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: ใครเป็นคนใช้กุญแจของฉันครั้งล่าสุด
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: ใคร
+    - laste: ในครั้งล่าสุด
+    - uzis: ใช้
+    - mian: ของฉัน
+    - ŝlosilon: กุญแจ
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: ในเวนิสคุณเดินทางโดยเรือกอนโดลาด้วยเหมือนกันใช่ไหม
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: ใช่ไหม
+    - vi: คุณ
+    - en: ใน
+    - Venecio: เวนิส
+    - veturis: เดินทาง
+    - ankaŭ: ด้วย  ก็ด้วย
+    - per: โดย
+    - gondolo: เรือกอนโดลา
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: เมื่อเริ่มเงียบ  คุณจะสามารถนอนได้ไหม
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: ไหม
+    - vi: คุณ
+    - povos: จะสามารถ
+    - ekdormi: เริ่มนอน
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: เมื่อ 
+    - silentiĝis: เริ่มเงียบ
     - '?'

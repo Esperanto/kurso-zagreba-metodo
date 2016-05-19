@@ -1,51 +1,51 @@
 - 
-  demando: Does friendship make you more happy than love does?
-  rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+  demando: มิตรภาพทำให้คุณมีความสุขมากว่าความรักใช่ไหม
+  rektatraduko:
+    - Ĉu: ใช่ไหม
+    - amikeco: มิตรภาพ
+    - pli: มากกว่า
+    - feliĉigas: ทำให้มีความสุข
+    - vin: คุณ
+    - ol: กว่า
+    - la: คำนำหน้านามชี้เฉพาะ
+    - amo: รัก
     - '?'
 - 
-  demando: How often do you write letters to your girlfriends in Italy?
+  demando: คุณเขียนจดหมายถึงเพื่อน ๆ ผู้หญิงของคุณที่อิตาลีบ่อยแค่ไหน
   rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
+    - Kiel: อย่างไร
+    - ofte: บ่อย
+    - vi: คุณ
+    - skribas: เขียน
+    - leterojn: จดหมาย
+    - al: ไปถึง  ถึง
+    - viaj: ของคุณ
+    - amikinoj: เพื่อนผู้หญิง
+    - en: ใน
+    - Italio: อิตาลี
     - '?'
 - 
-  demando: Has the relationship between you and your teacher changed?
+  demando: ความสัมพันธ์ระหว่างคุณกับครูของคุณเปลี่ยนแปลงไปหรือยัง
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+    - Ĉu: ไหม
+    - la: คำนำหน้านามชี้เฉพาะ
+    - rilato: ความสัมพันธ์
+    - inter: ระหว่าง
+    - vi: คุณ
+    - kaj: กับ
+    - via: ของคุณ
+    - instruisto: ครู
+    - ŝanĝiĝis: เปลี่ยนแปลงไปแล้ว
     - '?'
 - 
-  demando: Do you now already know Esperanto well enough?
+  demando: ตอนนี้คุณรู้จักภาษาเอสเปรันโตดีเพียงพอแล้วใช่ไหม
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - Ĉu: ใช่ไหม
+    - vi: คุณ
+    - nun: ตอนนี้
+    - jam: แล้ว
+    - scias: รู้
+    - Esperanton: ภาษาเอสเปรันโต
+    - sufiĉe: เพียงพอ
+    - bone: อย่างดี
     - '?'

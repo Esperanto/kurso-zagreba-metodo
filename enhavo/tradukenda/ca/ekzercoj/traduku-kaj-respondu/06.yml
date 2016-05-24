@@ -1,0 +1,72 @@
+- 
+  demando: ¿Deseas que te enseñe mi libro más nuevo?
+  rektatraduko: 
+    - Ĉu: ¿
+    - vi: Tú
+    - deziras: deseas
+    - ',' 
+    - ke: que 
+    - mi: yo
+    - montras: te muestre
+    - al: a
+    - vi: ti
+    - mian: mi
+    - plej: más
+    - novan: nuevo
+    - libron: libro
+    - '?'
+- 
+  demando: ¿Qué quieres desayunar mañana?
+  rektatraduko: 
+    - Kion: Qué
+    - vi: tú
+    - volas: quieres
+    - matenmanĝi: desayunar
+    - morgaŭ: mañana
+    - '?'
+- 
+  demando: ¿Cuándo llega Marko, a las cinco o a las ocho?
+  rektatraduko: 
+    - Kiam: Cuándo
+    - Marko: Marko
+    - alvenos: llegará
+    - ',' 
+    - je: a
+    - la: las
+    - kvina: cinco
+    - aŭ: o
+    - je: a
+    - la: las
+    - oka: ocho
+    - horo: horas
+    - '?'
+- 
+  demando: ¿Cuándo te diste cuenta de que la familia entera me llama benefactor?
+  rektatraduko: 
+    - Kiam: Cuándo
+    - vi: tú
+    - rimarkis: te diste cuenta
+    - ','  
+    - ke: de que
+    - la: la
+    - tuta: entera
+    - familio: familia
+    - nomas: me llama
+    - min: a mí
+    - bonfarulo: benefactor
+    - '?'
+- 
+  demando: ¿Era útil el librito que te envié?
+  rektatraduko: 
+    - Ĉu: ¿
+    - estis: Era
+    - utila: útil
+    - la: el 
+    - libreto: librito
+    - ',' 
+    - kiun: que
+    - mi: yo
+    - sendis: te envié
+    - al: a
+    - vi: ti
+    - '?'

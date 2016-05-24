@@ -1,0 +1,56 @@
+- 
+  demando: ¿Quién es tu amiga?
+  rektatraduko:
+    - Kiu: Quién
+    - estas: es
+    - via: tu
+    - amikino: amiga
+    - '?'
+- 
+  demando: ¿Tu amiga Ana escribe ahora en la habitación?
+  rektatraduko:
+    - Ĉu: ¿
+    - via: tu
+    - amikino: amiga
+    - Ana: Ana
+    - skribas: escribe
+    - nun: ahora
+    - en: en
+    - la: la
+    - ĉambro: habitación
+    - '?'
+- 
+  demando: ¿El amigo de tu padre trabaja en un hotel?
+  rektatraduko:
+    - Ĉu: ¿
+    - la: el
+    - amiko: amigo
+    - de: de
+    - via: tu
+    - patro: padre
+    - laboras: trabaja
+    - en: en
+    - hotelo: hotel
+    - '?'
+- 
+  demando: ¿Qué hay sobre la mesa de trabajo de nuestra habitación?
+  rektatraduko:
+    - Kio: Qué
+    - estas: hay
+    - sur: 'sobre'
+    - la: la
+    - labortablo: mesa de trabajo
+    - en: en
+    - nia: nuestra
+    - ĉambro: habitación
+    - '?'
+- 
+  demando: ¿Hay un libro de texto de esperanto sobre la mesa?
+  rektatraduko:
+    - Ĉu: ¿
+    - Esperanto-lernolibro: libro de texto de esperanto
+    - estas: hay
+    - sur: sobre
+    - via: tu 
+    - tablo: mesa
+    - '?'

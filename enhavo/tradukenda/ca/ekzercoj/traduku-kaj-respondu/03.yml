@@ -1,0 +1,77 @@
+-
+  demando: ¿Los camareros en los grandes hoteles entienden muchos idiomas? 
+  rektatraduko:  
+    - Ĉu: ¿ 
+    - kelneroj: Los camareros
+    - en: en
+    - grandaj: grandes
+    - hoteloj: hoteles
+    - komprenas: entienden
+    - multajn: muchos
+    - lingvojn: idiomas
+    - '?'
+-
+  demando: ¿Sabes que a Anna le gusta una nueva canción sobre un rico y una chica guapa?
+  rektatraduko: 
+    - Ĉu: ¿
+    - vi: Tú
+    - scias: sabes
+    - ','
+    - ke: que
+    - Anna: a Anna 
+    - ŝatas: le gusta
+    - novan: una nueva
+    - kanton: canción
+    - pri: sobre
+    - malriĉulo: un rico
+    - kaj: y
+    - belulino: una chica guapa
+    - '?'
+-
+  demando: ¿Dónde viste al hombre y al joven que llevaban una mesa grande?
+  rektatraduko: 
+    - Kie: Dónde
+    - vi: tú
+    - vidis: viste
+    - la: a
+    - maljunulon: el hombre
+    - kaj: y
+    - la: el
+    - junulon: joven
+    - ','
+    - kiuj: que
+    - portis: llevaban
+    - grandan: una gran
+    - tablon: mesa
+    - '?'
+-
+  demando: ¿Qué ha pasado que has venido de nuevo a nosotros sin hermanos?
+  rektatraduko: 
+    - Kiel: Qué
+    - okazis: ha pasado
+    - ','
+    - ke: que
+    - vi: tú
+    - denove: de nuevo
+    - venis: has venido
+    - al: a 
+    - ni: nosotros
+    - sen: sin
+    - gefratoj: hermanos
+    - '?'
+-
+  demando: ¿Puedes aprender esperanto rápido con la ayuda de un nuevo libro de texto?
+  rektatraduko: 
+    - Ĉu: ¿
+    - vi: Tú
+    - povas: puedes
+    - rapide: rápidamente
+    - lerni: aprender
+    - Esperanton: esperanto
+    - per: con
+    - la: la
+    - helpo: ayuda
+    - de: de
+    - nova: un nuevo
+    - lernolibro: libro de texto
+    - '?'

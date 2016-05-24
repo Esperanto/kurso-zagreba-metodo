@@ -1,0 +1,86 @@
+- 
+  demando: Quién va a ir a limpiar la cocina después de la comida?
+  rektatraduko: 
+    - Kiu: Quién
+    - purigos: va a ir a limpiar
+    - la: la
+    - kuirejon: cocina
+    - post: después de
+    - la: la
+    - tagmanĝo: comida
+    - '?'
+- 
+  demando: '¿Qué quieres beber: té, un poco de café o no quieres nada?'
+  rektatraduko: 
+    - Kion: Qué
+    - vi: tú
+    - volas: quieres
+    - trinki: beber
+    - ':' 
+    - teon: té
+    - ',' 
+    - iom: un poco
+    - da: de
+    - kafo: café
+    - aŭ: o
+    - ĉu: acaso
+    - vi: tú
+    - volas: quieres
+    - nenion: nada
+    - '?'
+- 
+  demando: ¿Por qué así de repente has decidido renovar tu habitación pequeña?
+  rektatraduko: 
+    - Kial: Por qué
+    - vi: tú
+    - tiel: así
+    - subite: de repente
+    - decidis: has decidido
+    - renovigi: renovar
+    - vian: tu
+    - ĉambreton: habitación pequeña
+    - '?'
+- 
+  demando: ¿A quién le diste los vasos limpios para el vino?
+  rektatraduko: 
+    - Al: A
+    - kiu: quién
+    - vi: tú
+    - donis: le diste
+    - la: los
+    - purajn: limpios
+    - glasojn: vasos
+    - por: para 
+    - la: el
+    - vino: vino
+    - '?'
+- 
+  demando: ¿Contra quién jugó tu club de deporte hace dos semanas?
+  rektatraduko: 
+    - Kontraŭ: Contra
+    - kiu: quién
+    - ludis: jugó
+    - via: tu
+    - sportklubo: club de deporte
+    - antaŭ: hace
+    - du: dos
+    - semajnoj: semanas
+    - '?'
+- 
+  demando: ¿A menudo ves al policía que vive en el apartamento de arriba?
+  rektatraduko: 
+    - Ĉu: ¿
+    - vi: Tú
+    - ofte: a menudo
+    - vidas: ves
+    - la: al
+    - policiston: policía
+    - ',' 
+    - kiu: que
+    - loĝas: vive
+    - en: en 
+    - la: el
+    - loĝejo: apartamento
+    - super: de arriba
+    - vi: tú
+    - '?'

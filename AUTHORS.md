@@ -48,6 +48,11 @@ La ciferecigon faris laŭlingve:
 ### Ĉina
 
 - [Onklo ENG](https://github.com/onklo/)
+- [Wen-ch'i Chao](https://github.com/Fujurungga)
+
+### Taja
+
+- [Warut Bunprasert](https://github.com/warut92)
 
 ### Kroata
 

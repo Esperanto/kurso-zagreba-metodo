@@ -1,4 +1,4 @@
-- Te enseña las **500 palabras más importanes**
+- Te enseña las **500 palabras más importantes**
 - **No hace falta registrarse**: solo haz clic en *Empezar*
 - **Acceso optimizado** para teléfonos móviles
 - No solo es gratis, sino que además **[se puede utilizar en otros proyectos](https://github.com/Esperanto/kurso-zagreba-metodo)**

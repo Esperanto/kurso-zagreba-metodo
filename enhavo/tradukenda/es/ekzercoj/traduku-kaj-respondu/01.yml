@@ -33,7 +33,7 @@
     - hotelo: hotel
     - '?'
 - 
-  demando: ¿Qué hay sobre la mesa de trabajo de nuestra habitación?
+  demando: ¿Qué hay sobre la mesa de trabajo en nuestra habitación?
   rektatraduko:
     - Kio: Qué
     - estas: hay

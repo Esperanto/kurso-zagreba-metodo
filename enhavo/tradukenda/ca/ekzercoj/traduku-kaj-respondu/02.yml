@@ -1,70 +1,70 @@
 - 
-  demando: ¿Cómo era tu antigua casa?
+  demando: Com era la teva antiga casa?
   rektatraduko: 
-    - Kia: Cómo
+    - Kia: Com
     - estis: era
-    - via: tu
-    - malnova: antigua
+    - via: la teva
+    - malnova: antiga
     - hejmo: casa 
     - '?'
 - 
-  demando: ¿Qué libros has leído, y eran buenos?
+  demando: Quins llibres has llegit, i eren bons?
   rektatraduko: 
-    - Kiujn: Qué 
-    - librojn: libros
-    - vi: tú
-    - legis: has leído
-    - kaj: y
-    - ĉu: acaso
-    - ili: ellos
-    - estas: eran
-    - bonaj: buenos 
+    - Kiujn: Quins 
+    - librojn: llibres
+    - vi: 
+    - legis: has llegit
+    - kaj: i
+    - ĉu: 
+    - ili: 
+    - estas: eren
+    - bonaj: bons 
     - '?'
 - 
-  demando: "¿Qué hicieron Anna y Marko en la pequeña habitación de Marko?"
+  demando: "Què van fer l'Anna i el Marko a la petita habitació del Marko?"
   rektatraduko:
-    - Kion: Qué
-    - faris: hicieron
+    - Kion: Què
+    - faris: van fer
     - Anna: Anna
-    - kaj: y
+    - kaj: i
     - Marko: Marko
-    - en: en 
+    - en: a
     - la: la
-    - malgranda: pequeña
-    - ĉambro: habitación
+    - malgranda: petita
+    - ĉambro: habitació
     - de: de
     - Marko: Marko
     - '?'
 - 
-  demando: ¿Te gusta leer libros de amor?
+  demando: T'agrada legir llibres d'amor?
   rektatraduko: 
-    - Ĉu: ¿
-    - vi: Te
-    - ŝatas: gusta
-    - legi: leer
-    - librojn: libros
-    - pri: de
+    - Ĉu: 
+    - vi: T'
+    - ŝatas: agrada
+    - legi: llegir
+    - librojn: llibres
+    - pri: d'
     - amo: amor
     - '?'
 - 
-  demando: ¿Quién irá contigo a tu casa?
+  demando: Quí anirà amb tu a casa teva?
   rektatraduko: 
-    - Kiu: Quién
-    - iros: ieá
-    - kun: con
-    - vi: tigo
+    - Kiu: Quí
+    - iros: anirà
+    - kun: amb
+    - vi: tu
     - al: a 
-    - via: tu
+    - via: teva
     - hejmo: casa
     - '?'
 - 
-  demando: ¿Cómo son los ojos de tu amiga?
+  demando: ¿Com són els ulls de la teva amiga?
   rektatraduko: 
-    - Kiaj: Cómo
-    - estas: son
-    - la: los
-    - okuloj: ojos
+    - Kiaj: Com
+    - estas: són
+    - la: els
+    - okuloj: ulls
     - de: de
-    - via: tu
+    - via: la teva
     - amikino: amiga
     - '?'

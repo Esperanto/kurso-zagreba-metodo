@@ -57,7 +57,7 @@ Se via nova lingvo havas nur 1 tradukaĵo, skribu unu linion, ekzemple:
 
     - enskribi: to register
 
-Se via nova lingvo havas pli ol 1 tradukaĵo, skribu pli linion, ekzemple:
+Se via nova lingvo havas pli ol 1 tradukaĵo, skribu pli liniojn, ekzemple:
 
     - enskribi: 
       - to register

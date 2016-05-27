@@ -1,31 +1,32 @@
-- eniri:
-  - entrer
-- enhavo: 
-  - contenu
-- kunsido:
-  - réunion
+- eniri:увійти
+  
+- enhavo: зміст  
+ 
+- kunsido:засідання
+  
 - malbona: 
-  - mauvais
-  - mauvaise
-- kunveno:
-  - réunion
-  - assemblée
-- malfacila: difficile
+  - поганий
+  - погана
+  - погане
+- kunveno: 
+  - засідання
+  - сходини
+- malfacila: важкий
 - maljuna: 
-  - vieux
-  - vieille
-  - âgé
-  - âgée
-- gepatroj: parents
-- alveni: 
-  - arriver
-  - venir
+  - старий
+  - стара
+  - старе
+  - 
+- gepatroj: батьки
+- alveni: прийти
+   
 - bonvena:
-  - bienvenu
-  - bienvenue
-- gefratoj: frères et soeurs
-- trinkmono: pourboire
-- malami: 
-  - ne pas aimer
-  - détester
-- kunlabori: collaborer
+  - бажаний
+  - бажана
+  - бажане
+- gefratoj: брати й сестри
+- trinkmono: чайові
+- malami: ненавидіти
+  
+  
+- kunlabori: співпрацювати

@@ -11,7 +11,7 @@
     - lingvojn: idiomas
     - '?'
 -
-  demando: ¿Sabes que a Anna le gusta una nueva canción sobre un rico y una chica guapa?
+  demando: ¿Sabes que a Anna le gusta una nueva canción sobre un hombre pobre y una chica guapa?
   rektatraduko: 
     - Ĉu: ¿
     - vi: Tú
@@ -23,20 +23,20 @@
     - novan: una nueva
     - kanton: canción
     - pri: sobre
-    - malriĉulo: un rico
+    - malriĉulo: un hombre pobre
     - kaj: y
     - belulino: una chica guapa
     - '?'
 -
-  demando: ¿Dónde viste al hombre y al joven que llevaban una mesa grande?
+  demando: ¿Dónde viste al hombre mayor y al joven que llevaban una mesa grande?
   rektatraduko: 
     - Kie: Dónde
     - vi: tú
     - vidis: viste
-    - la: a
-    - maljunulon: el hombre
+    - la: al
+    - maljunulon: hombre mayor
     - kaj: y
-    - la: el
+    - la: al
     - junulon: joven
     - ','
     - kiuj: que

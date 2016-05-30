@@ -1,77 +1,77 @@
 -
-  demando: ¿Los camareros en los grandes hoteles entienden muchos idiomas? 
+  demando: Els cambrers en els grans hotels entenen molts idiomes? 
   rektatraduko:  
-    - Ĉu: ¿ 
-    - kelneroj: Los camareros
+    - Ĉu:  
+    - kelneroj: Els cambrers
     - en: en
-    - grandaj: grandes
-    - hoteloj: hoteles
-    - komprenas: entienden
-    - multajn: muchos
-    - lingvojn: idiomas
+    - grandaj: grans
+    - hoteloj: hotels
+    - komprenas: entenen
+    - multajn: molts
+    - lingvojn: idiomes
     - '?'
 -
-  demando: ¿Sabes que a Anna le gusta una nueva canción sobre un rico y una chica guapa?
+  demando: Saps que a l'Anna li agrada una nova cançó sobre un ric i una noia maca?
   rektatraduko: 
-    - Ĉu: ¿
-    - vi: Tú
-    - scias: sabes
+    - Ĉu: 
+    - vi: 
+    - scias: Saps
     - ','
     - ke: que
-    - Anna: a Anna 
-    - ŝatas: le gusta
-    - novan: una nueva
-    - kanton: canción
+    - Anna: a l'Anna 
+    - ŝatas: li agrada
+    - novan: una nova
+    - kanton: cançó
     - pri: sobre
-    - malriĉulo: un rico
-    - kaj: y
-    - belulino: una chica guapa
+    - malriĉulo: un ric
+    - kaj: i
+    - belulino: una noia maca
     - '?'
 -
-  demando: ¿Dónde viste al hombre y al joven que llevaban una mesa grande?
+  demando: On vas veure el vell i el jove que portaven una taula gran?
   rektatraduko: 
-    - Kie: Dónde
-    - vi: tú
-    - vidis: viste
-    - la: a
-    - maljunulon: el hombre
-    - kaj: y
+    - Kie: On
+    - vi: 
+    - vidis: vas veure
     - la: el
-    - junulon: joven
+    - maljunulon: vell
+    - kaj: i
+    - la: el
+    - junulon: jove
     - ','
     - kiuj: que
-    - portis: llevaban
+    - portis: portaven
     - grandan: una gran
-    - tablon: mesa
+    - tablon: taula
     - '?'
 -
-  demando: ¿Qué ha pasado que has venido de nuevo a nosotros sin hermanos?
+  demando: Què ha passat que has vingut de nou a nosaltres sense germans?
   rektatraduko: 
-    - Kiel: Qué
-    - okazis: ha pasado
+    - Kiel: Què
+    - okazis: ha passat
     - ','
     - ke: que
-    - vi: tú
-    - denove: de nuevo
-    - venis: has venido
+    - vi: 
+    - denove: de nou
+    - venis: has vingut
     - al: a 
-    - ni: nosotros
-    - sen: sin
-    - gefratoj: hermanos
+    - ni: nosaltres
+    - sen: sense
+    - gefratoj: germans
     - '?'
 -
-  demando: ¿Puedes aprender esperanto rápido con la ayuda de un nuevo libro de texto?
+  demando: Pots aprendre esperanto ràpidament amb l'ajuda d'un nou llibre de text?
   rektatraduko: 
-    - Ĉu: ¿
-    - vi: Tú
-    - povas: puedes
-    - rapide: rápidamente
-    - lerni: aprender
+    - Ĉu: 
+    - vi: 
+    - povas: Pots
+    - rapide: ràpidament
+    - lerni: aprendre
     - Esperanton: esperanto
-    - per: con
-    - la: la
-    - helpo: ayuda
-    - de: de
-    - nova: un nuevo
-    - lernolibro: libro de texto
+    - per: amb
+    - la: l'
+    - helpo: ajuda
+    - de: d'
+    - nova: un nou
+    - lernolibro: llibre de text
     - '?'

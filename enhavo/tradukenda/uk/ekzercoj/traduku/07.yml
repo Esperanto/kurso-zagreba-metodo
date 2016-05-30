@@ -1,26 +1,30 @@
-﻿- rideti: sourire
-- tranokto: passer la nuit
-- foriri: partir
-- forlasi: quitter
-- ekde: depuis
+﻿- rideti: посміхнутись
+- tranokto: ночівля
+- foriri: піти
+- forlasi: 
+  - залишати
+  - покидати
+  - кидати
+  - відрікатися
+- ekde: від
 - formanĝi: 
-  - tout manger
-  - dévorer
-- forpreni: emporter
-- laŭeble: 
-  - autant que possible
-  - tant que possible
-- saĝulo: sage
+  - з'їдати
+  - виїдати
+- forpreni: 
+  - забирати
+  - відбирати 
+- laŭeble: по можливості 
+- saĝulo: мудрець
 - ekstari: 
-  - se lever
-  - se dresser
-- poŝtkarto: carte postale
+  - ставати
+  - уставати
+  - підійматися
+  - підніматися 
+- poŝtkarto: поштова листівка
 - diableto: 
-  - petit diable
-  - diablotin
-- senutila: inutile
-- elkuri: 
-  - sortir en courant de
-  - sortir en courant
-- ekami: tomber amoureux
-- ĝisnuna: "jusqu'à maintenant"
+  - чортеня
+  - бісик
+- senutila: безкорисний
+- elkuri: вибігати
+- ekami: закохатись
+- ĝisnuna: дотеперішній

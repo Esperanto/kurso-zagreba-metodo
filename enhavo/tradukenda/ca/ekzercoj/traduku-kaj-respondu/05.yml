@@ -1,65 +1,65 @@
 -
-  demando: ¿Puedes aprender tranquilamente mientras alguien está cantando animadamente?
+  demando: Pots aprendre tranquil·lament mentres algú està antant animadament?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - povas: puedes
-    - trankvile: tranquilamente
-    - lerni: aprender
+    - vi: Tu
+    - povas: pots
+    - trankvile: tranquil·lament
+    - lerni: aprendre
     - ','
-    - dum: mientras
-    - iu: alguien
-    - ĝoje: animadamente
+    - dum: mentres
+    - iu: algú
+    - ĝoje: animadament
     - kantas: canta
     - '?'
 -
-  demando: ¿Quién sabe cuándo y dónde nos volveremos a ver el uno al otro?
+  demando: Quí sap quan i on ens tornarem a veure l'un a l'altre?
   rektatraduko: 
-    - Kiu: Quién
-    - scias: sabe
+    - Kiu: Quí
+    - scias: sap
     - ','
-    - kiam: cuándo 
-    - kaj: y
-    - kie: dónde
-    - ni: nosotros
-    - revidos: nos volveremos a ver
-    - nin: el uno al otro
+    - kiam: quan 
+    - kaj: i
+    - kie: on
+    - ni: nosaltres
+    - revidos: tornarem a veure
+    - nin: l'un a l'altre
     - '?'
 -
-  demando: ¿Qué hora es ahora?
+  demando: Quina hora és ara? 
   rektatraduko: 
-    - Kioma: Qué
+    - Kioma: Quina
     - horo: hora
-    - estas: es 
-    - nun: ahora
+    - estas: és 
+    - nun: ara
     - '?'
 -
-  demando: ¿Alguien te ayudó a abrir la puerta de la antigua casa?
+  demando: Algú et va ajudar a obrir la porta de la antiga casa?
   rektatraduko: 
     - Ĉu: ¿
-    - iu: Alguien 
-    - helpis: te ayudó
+    - iu: algú 
+    - helpis: va ajudar
     - al: a
-    - vi: ti 
-    - malfermi: a abrir 
+    - vi: tu
+    - malfermi: obrir 
     - la: la 
-    - pordon: puerta 
+    - pordon: porta 
     - de: de
     - la: la
-    - malnova: antigua
+    - malnova: antiga
     - domo: casa
     - '?'
 -
-  demando: ¿Por qué no tienes tiempo de escucharte más tiempo?
+  demando: Perquè no tens temps d'escoltar-me més temps?
   rektatraduko: 
-    - Kial: Por qué
-    - vi: tú
+    - Kial: Perquè
+    - vi: tu
     - ne: no
-    - havas: tienes
-    - tempon: tiempo
-    - aŭskulti: de escucharme
+    - havas: tens
+    - tempon: temps
+    - aŭskulti: escoltar
     - al: a
-    - mi: mí
-    - pli: más
-    - longe: tiempo
+    - mi: mi
+    - pli: més
+    - longe: temps
     - '?'

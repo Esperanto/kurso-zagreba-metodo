@@ -2,16 +2,16 @@
   demando: Quan et tornaré a veure?
   rektatraduko: 
     - Kiam: Quan
-    - mi: 
-    - revidos: et tornaré a veure
-    - vin: 
+    - mi: jo
+    - revidos: tornaré a veure
+    - vin: a tu
     - '?'
 -
   demando: Quant temps portes aprenent la llengua internacional?
   rektatraduko: 
     - Kiom: Quant
     - longe: temps
-    - vi: 
+    - vi: tu
     - lernas: portes aprenent
     - la: la 
     - Internacian: internacional
@@ -32,23 +32,23 @@
   demando: On aniras després del dinar?
   rektatraduko: 
     - Kien: On
-    - vi: 
+    - vi: tu
     - iros: aniras
-    - post: després del
-    - la: 
+    - post: després de
+    - la: el
     - tagmanĝo: dinar
     - '?'
 -
   demando: Es pot tancar la porta de l'habitació quan fa fred?
   rektatraduko: 
-    - Ĉu: 
-    - oni: Es
+    - Ĉu: ¿
+    - oni: hom (es)
     - povas: pot 
     - fermi: tancar
     - la: la
     - pordon: porta
     - de: de 
-    - la: l'
+    - la: la
     - ĉambro: habitació
     - ','
     - kiam: quan
@@ -60,14 +60,14 @@
   rektatraduko: 
     - Kiom: Quant
     - longe: temps
-    - vi: 
+    - vi: tu
     - koleras: estàs enfadat
     - ','
     - se: si
     - oni: la gent
     - forprenas: et pren
-    - al: 
-    - vi: 
+    - al: a
+    - vi: tu
     - multe da: molts
     - mono: diners
     - '?'

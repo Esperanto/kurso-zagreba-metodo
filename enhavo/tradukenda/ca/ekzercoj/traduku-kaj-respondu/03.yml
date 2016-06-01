@@ -1,8 +1,8 @@
 -
   demando: Els cambrers en els grans hotels entenen molts idiomes? 
   rektatraduko:  
-    - Ĉu:  
-    - kelneroj: Els cambrers
+    - Ĉu: ¿ 
+    - kelneroj: els cambrers
     - en: en
     - grandaj: grans
     - hoteloj: hotels
@@ -13,12 +13,12 @@
 -
   demando: Saps que a l'Anna li agrada una nova cançó sobre un ric i una noia maca?
   rektatraduko: 
-    - Ĉu: 
-    - vi: 
+    - Ĉu: ¿
+    - vi: tu
     - scias: Saps
     - ','
     - ke: que
-    - Anna: a l'Anna 
+    - Anna:  l'Anna 
     - ŝatas: li agrada
     - novan: una nova
     - kanton: cançó
@@ -31,7 +31,7 @@
   demando: On vas veure el vell i el jove que portaven una taula gran?
   rektatraduko: 
     - Kie: On
-    - vi: 
+    - vi: tu
     - vidis: vas veure
     - la: el
     - maljunulon: vell
@@ -51,7 +51,7 @@
     - okazis: ha passat
     - ','
     - ke: que
-    - vi: 
+    - vi: tu
     - denove: de nou
     - venis: has vingut
     - al: a 
@@ -62,16 +62,16 @@
 -
   demando: Pots aprendre esperanto ràpidament amb l'ajuda d'un nou llibre de text?
   rektatraduko: 
-    - Ĉu: 
-    - vi: 
+    - Ĉu: ¿
+    - vi: tu
     - povas: Pots
     - rapide: ràpidament
     - lerni: aprendre
     - Esperanton: esperanto
     - per: amb
-    - la: l'
+    - la: la
     - helpo: ajuda
-    - de: d'
+    - de: de
     - nova: un nou
     - lernolibro: llibre de text
     - '?'

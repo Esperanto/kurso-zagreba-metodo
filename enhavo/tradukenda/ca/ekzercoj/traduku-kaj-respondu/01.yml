@@ -9,21 +9,21 @@
 - 
   demando: ¿La teva amiga Ana escriu ara a l'habitació?
   rektatraduko:
-    - Ĉu: 
+    - Ĉu: ¿
     - via: la teva
     - amikino: amiga
     - Ana: Ana
     - skribas: escriu
     - nun: ara
     - en: a
-    - la: - l'
+    - la: - la
     - ĉambro: habitació
     - '?'
 - 
   demando: ¿L'amic del teu pare treballa en un hotel?
   rektatraduko:
-    - Ĉu: 
-    - la: l'
+    - Ĉu: ¿
+    - la: el
     - amiko: amic
     - de: del
     - via: teu
@@ -47,7 +47,7 @@
 - 
   demando: ¿Hi ha un llibre de text d'esperanto sobre la teva taula?
   rektatraduko:
-    - Ĉu: 
+    - Ĉu: ¿
     - Esperanto-lernolibro: llibre de text d'esperanto
     - estas: hi ha
     - sur: sobre

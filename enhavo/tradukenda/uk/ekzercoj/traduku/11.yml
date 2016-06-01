@@ -1,31 +1,24 @@
-- estraro: 
-  - bureau
-  - direction
-- tagmeze: midi
-- posttagmeze: après-midi
+- estraro: керівництво 
+- tagmeze: опівдні
+- posttagmeze: по полудні
 - malsata: 
-  - affamé
-  - affamée
-  - qui a faim
+  - голодний
+  - голодна
+  - голодне
 - interkonsenti:
-  - "se mettre d'accord"
-  - "s'accorder"
-- manĝilaro: couverts
-- vidpunkto: point de vue
-- malfermilo: 
-  - ouvreur
-  - ouvre-boite
-  - ouvre-boître
-- noktomezo: minuit
-- publikigi: publier
+  - узгодити
+  - домовитись
+- manĝilaro: столове приладдя
+- vidpunkto: точка зору
+- malfermilo: відкривачка 
+- noktomezo: північ
+- publikigi: публікувати
 - pagigi: 
-  - faire payer
-  - laisser payer
+  - розплачуватися  
+  - покривати видатки
+  - відшкодовувати
 - duflanka: 
-  - recto-verso
-  - des deux côtés
-  - sur les deux côtés
-- aliflanke: 
-  - "d'un autre côté"
-  - "d'autre part"
-  - par ailleurs
+  - двобічний
+  - двобічна
+  - двобічне
+- aliflanke: з іншого боку 

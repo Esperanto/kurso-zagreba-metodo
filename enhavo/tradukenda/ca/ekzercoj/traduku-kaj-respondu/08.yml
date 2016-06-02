@@ -1,86 +1,86 @@
 - 
-  demando: Quién va a ir a limpiar la cocina después de la comida?
+  demando: Quí netejarà la cuina després del dinar?
   rektatraduko: 
-    - Kiu: Quién
-    - purigos: va a ir a limpiar
+    - Kiu: Quí
+    - purigos: netejarà
     - la: la
-    - kuirejon: cocina
-    - post: después de
-    - la: la
-    - tagmanĝo: comida
+    - kuirejon: cuina
+    - post: després de
+    - la: el
+    - tagmanĝo: dinar
     - '?'
 - 
-  demando: '¿Qué quieres beber: té, un poco de café o no quieres nada?'
+  demando: Què vols beure: tè, una mica de cafè o no vols res?'
   rektatraduko: 
-    - Kion: Qué
-    - vi: tú
-    - volas: quieres
-    - trinki: beber
+    - Kion: Què
+    - vi: tu
+    - volas: vols
+    - trinki: beure
     - ':' 
-    - teon: té
+    - teon: tè
     - ',' 
-    - iom: un poco
+    - iom: una mica
     - da: de
-    - kafo: café
+    - kafo: cafè
     - aŭ: o
-    - ĉu: acaso
-    - vi: tú
-    - volas: quieres
-    - nenion: nada
+    - ĉu: (potser)
+    - vi: tu
+    - volas: vols
+    - nenion: res
     - '?'
 - 
-  demando: ¿Por qué así de repente has decidido renovar tu habitación pequeña?
+  demando: Per què així de sobte has decidit renovar la teva habitació petita?
   rektatraduko: 
-    - Kial: Por qué
-    - vi: tú
-    - tiel: así
-    - subite: de repente
-    - decidis: has decidido
+    - Kial: Per què
+    - vi: tu
+    - tiel: així
+    - subite: de sobte
+    - decidis: has decidit
     - renovigi: renovar
-    - vian: tu
-    - ĉambreton: habitación pequeña
+    - vian: la teva
+    - ĉambreton: habitació petita
     - '?'
 - 
-  demando: ¿A quién le diste los vasos limpios para el vino?
+  demando: A quí li vas donar els gots nets per al vi?
   rektatraduko: 
     - Al: A
-    - kiu: quién
-    - vi: tú
-    - donis: le diste
-    - la: los
-    - purajn: limpios
-    - glasojn: vasos
-    - por: para 
+    - kiu: quí
+    - vi: tu
+    - donis: li vas donar
+    - la: els
+    - purajn: nets
+    - glasojn: gots
+    - por: per
     - la: el
-    - vino: vino
+    - vino: vi
     - '?'
 - 
-  demando: ¿Contra quién jugó tu club de deporte hace dos semanas?
+  demando: Contra quí va jugar el teu club esportiu fa dues setmanes?
   rektatraduko: 
     - Kontraŭ: Contra
-    - kiu: quién
-    - ludis: jugó
-    - via: tu
-    - sportklubo: club de deporte
-    - antaŭ: hace
-    - du: dos
-    - semajnoj: semanas
+    - kiu: quí
+    - ludis: va jugar
+    - via: el teu
+    - sportklubo: club esportiu
+    - antaŭ: fa
+    - du: dues
+    - semajnoj: setmanes
     - '?'
 - 
-  demando: ¿A menudo ves al policía que vive en el apartamento de arriba?
+  demando: Sovint veus el policía que viu a l'apartament de dalt?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - ofte: a menudo
-    - vidas: ves
-    - la: al
+    - vi: Tu
+    - ofte: sovint
+    - vidas: veus
+    - la: el
     - policiston: policía
     - ',' 
     - kiu: que
-    - loĝas: vive
-    - en: en 
+    - loĝas: viu
+    - en: a 
     - la: el
-    - loĝejo: apartamento
-    - super: de arriba
-    - vi: tú
+    - loĝejo: apartament
+    - super: de dalt
+    - vi: tu
     - '?'

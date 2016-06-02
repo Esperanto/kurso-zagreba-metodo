@@ -1,72 +1,72 @@
 - 
-  demando: ¿Deseas que te enseñe mi libro más nuevo?
+  demando: Desitges que t'ensenyi el meu llibre més nou?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - deziras: deseas
+    - vi: Tu
+    - deziras: desitges
     - ',' 
     - ke: que 
     - mi: yo
-    - montras: te muestre
+    - montras: t'ensenyi
     - al: a
-    - vi: ti
-    - mian: mi
-    - plej: más
-    - novan: nuevo
-    - libron: libro
+    - vi: tu
+    - mian: el meu
+    - plej: més
+    - novan: nou
+    - libron: llibre
     - '?'
 - 
-  demando: ¿Qué quieres desayunar mañana?
+  demando: Què vols esmorçar demà?
   rektatraduko: 
-    - Kion: Qué
+    - Kion: Què
     - vi: tú
-    - volas: quieres
-    - matenmanĝi: desayunar
-    - morgaŭ: mañana
+    - volas: vols
+    - matenmanĝi: esmorçar
+    - morgaŭ: demà
     - '?'
 - 
-  demando: ¿Cuándo llega Marko, a las cinco o a las ocho?
+  demando: Quan arribarà el Marko, a les cinc o a les vuit?
   rektatraduko: 
-    - Kiam: Cuándo
-    - Marko: Marko
-    - alvenos: llegará
+    - Kiam: Quan
+    - Marko: el Marko
+    - alvenos: arribarà
     - ',' 
     - je: a
-    - la: las
-    - kvina: cinco
+    - la: les
+    - kvina: cinc
     - aŭ: o
     - je: a
-    - la: las
-    - oka: ocho
-    - horo: horas
+    - la: les
+    - oka: vuit
+    - horo: hores
     - '?'
 - 
-  demando: ¿Cuándo te diste cuenta de que la familia entera me llama benefactor?
+  demando: Quan et vas adonar de que la família sencera em diu benefactor?
   rektatraduko: 
-    - Kiam: Cuándo
+    - Kiam: Quan
     - vi: tú
-    - rimarkis: te diste cuenta
+    - rimarkis: et vas adonar
     - ','  
     - ke: de que
     - la: la
-    - tuta: entera
-    - familio: familia
-    - nomas: me llama
+    - tuta: sencera
+    - familio: família
+    - nomas: em diu
     - min: a mí
     - bonfarulo: benefactor
     - '?'
 - 
-  demando: ¿Era útil el librito que te envié?
+  demando: Era útil el llibret que et vaig enviar?
   rektatraduko: 
     - Ĉu: ¿
     - estis: Era
     - utila: útil
     - la: el 
-    - libreto: librito
+    - libreto: llibret
     - ',' 
     - kiun: que
-    - mi: yo
-    - sendis: te envié
+    - mi: jo
+    - sendis: et vaig enviar
     - al: a
-    - vi: ti
+    - vi: tu
     - '?'

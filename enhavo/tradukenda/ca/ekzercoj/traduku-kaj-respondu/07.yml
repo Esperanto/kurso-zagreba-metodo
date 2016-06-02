@@ -1,77 +1,77 @@
 - 
-  demando: ¿Quién tenía el libro que estuviste esperando más de dos años?
+  demando: Quí tenía el llibre que vas estar esperant més de dos anys?
   rektatraduko: 
-    - Kiu: Quién
+    - Kiu: Quí
     - havis: tenía
     - la: el
-    - libron: libro
+    - libron: llibre
     - ',' 
     - kiun: que
-    - vi: tú
-    - atendis: estuviste esperando
-    - pli: más
+    - vi: tu
+    - atendis: vas estar esperant
+    - pli: més
     - ol: de
     - du: dos
-    - jarojn: años
+    - jarojn: anys
     - '?'
 - 
-  demando: ¿Quieres que te enseñe la fotografía que más aprecio?
+  demando: Vols que t'ensenyi la fotografía que més aprecio?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - volas: quieres
+    - vi: Tu
+    - volas: vols
     - ','
     - ke: que
-    - mi: yo
-    - montru: te muestre
+    - mi: jo
+    - montru: t'ensenyi
     - al: a 
-    - vi: ti
-    - mian: mi
-    - plej: más
+    - vi: tu
+    - mian: la meva
+    - plej: més
     - karan: apreciada
     - foton: fotografía
     - '?'
 - 
-  demando: ¿Dónde compraste ese vestido?
+  demando: On vas comprar aquell vestit?
   rektatraduko: 
-    - Kie: Dónde
-    - vi: tú
-    - aĉetis: compraste
-    - tiun: ese
-    - vestaĵon: vestido
+    - Kie: On
+    - vi: tu
+    - aĉetis: vas comprar
+    - tiun: aquell
+    - vestaĵon: vestit
     - '?'
 - 
-  demando: ¿Adónde irás el domingo si es un día soleado?
+  demando: A on aniràs el diumenge si és un día assolellat?
   rektatraduko: 
-    - Kien: Adónde
-    - vi: tú
-    - iros: irás
-    - dimanĉe: el domingo
+    - Kien: A on
+    - vi: tu
+    - iros: aniràs
+    - dimanĉe: el diumenge
     - ',' 
     - se: si
-    - estos: es
-    - suna: un soleado
-    - tago: día
+    - estos: és
+    - suna: assolellat
+    - tago: un dia
     - '?'
 - 
-  demando: ¿Tu hermano ya se ha ido?
+  demando: El teu germà ja se n'ha anat?
   rektatraduko: 
     - Ĉu: ¿
-    - via: Tú
-    - frato: hermano
-    - jam: ya
-    - foriris: se ha ido
+    - via: El teu
+    - frato: germà
+    - jam: ja
+    - foriris: se n'ha anat
     - '?'
 - 
-  demando: ¿Dónde está el agua que tú mismo has traído?
+  demando: On és l'aigua que tu mateix has portat?
   rektatraduko: 
-    - Kie: Dónde
-    - estas: está
-    - la: el
-    - akvo: agua
+    - Kie: On
+    - estas: és
+    - la: la
+    - akvo: aigua
     - ',' 
     - kiun: que
-    - vi: tú
-    - mem: mismo
-    - kunportis: has traído
+    - vi: tu
+    - mem: mateix
+    - kunportis: has portat
     - '?'

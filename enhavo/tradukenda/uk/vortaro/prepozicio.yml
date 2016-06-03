@@ -1,54 +1,90 @@
 al: 
-- à
-- dans la direction de
-anstataŭ: à la place de
+- прийменник, що відповідає давальному відмінку
+- до
+anstataŭ: замість
 antaŭ:
-- avant
-- devant
-apud: à côté de
-da: de
+- перед
+- заздалегідь
+apud: 
+  - коло 
+  - біля 
+  - поряд 
+  - поруч 
+da: прийменник, що позначає міру, кількість
 de:
-- de
-- depuis
-dum: pendant
-ekde: depuis
-ekster: hors de
+  - приймменник, що служить для передачі родового відмінку
+  - від, з, зі (простір)
+  - від, з (час)
+dum:  
+  - поки 
+  - у той час як 
+  - під час 
+  - протягом 
+  - упродовж
+ekde: 
+  - від
+  - починаючи з
+ekster: поза
 el:
-- de
-- hors de
+- з
+- зі
 en: 
-- dans
-- en
-inter: 
-- entre
-- parmi
-je:
-- de
-- avec
-- dans
+- в
+- у
+inter:    
+- між
+- поміж
+- серед
+- посеред
+je:     
+- у
+- в
+- на
+- о
+- прийменник, що вжививається тоді, коли будь-який інший прийменик за своїм значенням не підходить
 kontraŭ: 
-- contre
-krom: 
-- outre
-- à part
-kun: 
-- avec
-laŭ: "d'après"
+  - проти 
+  - навпроти  
+  - за
+krom:     
+- крім
+- опріч
+- окрім
+kun: з 
+laŭ:  
+- за 
+- згідно з... 
+- відповідно до... 
 per: 
-- au moyen de
-- avec
-por: pour
-post: après
-pri:
-- au sujet de
-- concernant
-pro: à cause de
-sen: sans
-sub: sous
-super: au-dessus de
-sur: sur
-tra: par
-trans: au travers
-ĉe: chez
-ĉirkaŭ: autour de
-ĝis: jusqu'à
+- прийменник, найчастіше вживається для передачі орудного відмінку 
+- за допомогою
+por: для
+post: після
+pri: про 
+pro: 
+  - через 
+  - за 
+  - заради 
+  - ради 
+  - задля
+sen: без
+sub: під
+super: 
+  - над 
+  - зверху 
+  - понад
+sur: на
+tra: 
+  - через 
+  - крізь
+trans: через
+ĉe: 
+  - у 
+  - в 
+  - при 
+  - за 
+  - біля 
+  - коло 
+  - на
+ĉirkaŭ: навколо
+ĝis: до

@@ -1,299 +1,432 @@
-afer: affaire
-agrabl: agréable
-akcept: accepter
-akv: eau
-ali: autre
-alt: haut
-am: aimer
-amas: aime
-amik: ami
-arb: arbre
-aspekt: aspect
-atend: attendre
-atent: prêter attention
-aĉet: acheter
-aŭd: entendre
-aŭt: voiture
-aŭtoritat: autorité
-bedaŭr: regretter
-bel: beau
-best: animal
-bezon: avoir besoin
-bien: propriété
-bon: bon
-branĉ: branche
-bru: bruit
-buŝ: bouche
-cert: certain
-dank: remercier
-daŭr: continuer
-decid: décider
-demand: demander
-dev: devoir
-dezir: désirer
-diabl: diable
-dik: gros
-dimanĉ: dimanche
-dir: dire
-direkt: direction
-doktor: docteur
-dolar: dollar
-dolor: douleur
-dolĉ: doux
-dom: maison
-don: donner
-dorm: dormir
-doĝ: doge
-edz: mari
-efektiv: effectivement
-ekskurs: excursion
-esper: espérer
-est: être
-facil: facile
-fakt: fait
-fal: tomber
-famili: famille
-far: faire
-fart: se porter
-feliĉ: heureux
-ferm: fermer 
-fin: finir
-flank: côté
-foj: fois
-forges: oublier
-form: forme
-fort: fort
-fot: photo
-frat: frère
-fru: tôt
-fuŝ: louper
-gondol: gondole
-graf: comte
-grand: grand
-grav: important
-halt: "s'arrêter"
-hav: avoir
-hejm: foyer
-help: aider
-hom: humain
-hor: heure
-hotel: hôtel
-ide: idée
-industri: industrie
-instru: enseigner
-interes: intéresser
-invit: inviter
-ir: aller
-itali: Italie
-jar: année
-jun: jeune
-kaf: café
-kalv: bientôt
-kap: tête
-kapabl: capable
-kapt: attraper
-kar: cher
-kastel: château
-kav: cave
-kelk: quelques
-kelner: serveur
-klar: clair
-klub: club
-knab: garçon
-koler: colère
-kolor: couleur
-komenc: commencer
-kompren: comprendre
-kon: connaître
-kontent: content
-kontrol: vérifier
-kor: coeur
-korp: corps
-kost: coûter
-kri: crier
-kuir: cuisiner
-kuk: gâteau
-kur: courir
-labor: travailler
-lakt: lait
-lamp: lampe
-land: pays
-larĝ: large
-last: dernier
-laŭt: fort
-lecion: leçon
-leg: lire
-lern: apprendre
-leter: lettre
-liber: libre
-libr: livre
-lok: placer
-long: long
-lud: jouer
-lum: lumière
-man: main
-mank: manquer
-manĝ: manger
-mar: mer
-maten: matin
-memor: se souvenir
-met: mettre
-mez: milieu
-milit: guerre
-minut: minute
-mir: "s'étonner"
-moment: moment
-mon: argent
-mont: montagne
-montr: montrer
-mort: mourir
-mov: bouger
-mult: beaucoup
-muzik: musique
-nask: donner naissance
-natur: nature
-neces: avoir besoin
-nokt: nuit
-nom: nom
-not: note
-nov: nouveau
-odor: sentir
-oft: souvent
-okaz: avoir lieu
-okul: oeil
-onkl: oncle
-opini: opinion
-ord: commander
-orel: oreille
-pac: paix
-pag: payer
-pan: pain
-paper: papier
-pardon: pardonner
-parol: parler
-part: partir
-pas: passer
-patr: père
-paŝ: pas
-pens: penser
-perd: perdre
-person: personne
-pet: demander
-pez: lourd
-pied: pied
-plac: place
-plan: planifier
-plaĉ: plaire
-plen: plein
-polic: police
-pord: porte
-port: faire attention
-pov: pouvoir
-pren: prendre
-pret: prêt
-prezent: présenter
-problem: problème
-proksim: à côté
-promen: se promener
-propon: proposer
-prov: essayer
-rajt: avoir le droit de
-rapid: rapide
-raport: rapporter
-real: réél
-rekt: directe
-renkont: rencontrer
-respekt: respecter
-respond: répondre
-rest: rester
-ricev: recevoir
-rid: rire
-rigard: regarder
-riĉ: riche
-rol: rôle
-ruĝ: rouge
-salt: sauter
-salut: salut
-sam: même
-san: santé
-saĝ: sage
-sci: savoir
-sek: sec
-sekret: secret
-sekv: suivre
-semajn: semaine
-send: envoyer
-serĉ: chercher
-si: pronom réfléchi
-sid: assoir
-silent: silence
-simil: identique
-sinjor:
-- monsieur
-- M.
-situaci: situation
-skrib: écrire
-sol: seul
-son: son
-sovaĝ: sauvage
-sport: sport
-star: être debout
-strat: rue
-subit: subitement
-sufiĉ: suffisant
-sukces: succès
-sun: soleil
-supr: au dessus
-tabl: table 
-tag: jour
-te: thé
-telefon: téléphone
-temp: temps
-temperatur: température
-ten: tenir
-teror: terreur
-tim: crainte
-ton: ton
-trankvil: calme
-trink: boire
-trov: trouver
-turk: turc
-tuŝ: toucher
-urb: ville
-util: utile
-uz: utiliser
-vagon: wagon
-varm: chaud
-ven: venir
-vend: vendre
-Veneci: Venise
-ver: vrai
-vesper: soir
-vest: habiller
-vetur: conduire
-vid: voir
-vin: vin
-vir: homme
-viv: vivre
-vizaĝ: visage
-vizit: visiter
-voj: voie
-vojaĝ: voyage
-vok: appeler
-vol: vouloir
-vort: mot
-voĉ: voix
-zorg: soucis
-ĉambr: pièce (d'un logement)
-ĉef: chef
-ĝen: gêner
-ĝeneral: géneral
-ĝoj: joie
-ĝust: juste
-ĵet: jeter
-ŝajn: sembler
-ŝanĝ: changer
-ŝat: aimer
-ŝip:
-- navire
-- bateau
+afer: 
+  - справа
+  - діло
+  - заняття
+agrabl: приємний
+akcept: приймати
+akv: вода
+ali: інший
+alt: високий
+am: 
+  - кохати
+  - любити
+amas: натовп
+amik: друг
+arb: дерево
+aspekt: вигляд
+atend: чекати
+atent: уважний
+aĉet: купувати
+aŭd: чути
+aŭt: автомобіль
+aŭtoritat: авторитет
+bedaŭr: жалкувати
+bel: красивий
+best: тварина
+bezon: потребувати
+bien: маєток
+bon: добрий
+branĉ: гілка
+bru: шуміти
+buŝ: рот
+cert: упевнений
+dank: дякувати
+daŭr: продовжуватися
+decid: вирішувати
+demand: питати
+dev: 
+    - мусити
+    - бути зобов'язаним
+dezir: бажати
+diabl: диявол
+dik: товстий
+dimanĉ: неділя
+dir: 
+  - казати 
+  - мовити 
+  - говорити
+direkt: 
+  - направляти 
+  - спрямовувати
+doktor: доктор
+dolor: 
+  - боліти 
+  - викликати біль
+dolĉ: солодкий
+dom: дім
+don: давати
+dorm: спати
+doĝ: дож
+edz: чоловік (у шлюбі)
+efektiv: 
+  - ефективний 
+  - діючий 
+  - дійсний
+ekskurs: екскурсія
+esper: сподіватися
+est: бути
+facil: легкий
+fakt: факт
+fal: 
+  - падати 
+  - знижуватися 
+  - зменшуватися
+famili: 
+  - родина
+  - сім'я
+far: робити
+fart: 
+  - матися 
+  - почувати себе 
+  - поживати
+feliĉ: щасливий
+ferm: 
+  - закривати 
+  - зачиняти
+fin: 
+  - кінчати 
+  - закінчувати 
+  - завершувати 
+  - припиняти
+flank: сторона
+foj: раз
+forges: забувати
+form: 
+  - форма 
+  - вигляд 
+  - постать
+fort: 
+  - сильний
+  - міцний 
+  - дужий
+fot: 
+  - світлина 
+  - фото
+frat: брат
+fru: рано
+fuŝ: 
+  - робити що-небудь наспіх 
+  - халтурити 
+  - псувати
+gondol: ґондола
+graf: граф
+grand: великий
+grav: важливий
+halt: 
+  - зупинятися 
+  - cтавати 
+  - затримуватися
+hav: мати (дієслово)
+hejm: 
+  - дім 
+  - домівка 
+  - домашнє вогнище
+help: допомагати
+hom: людина
+hor:година
+hotel: отель
+ide: ідея
+industri: індустрія
+instru: 
+  - учити 
+  - навчати 
+  - викладати 
+  - наставляти
+interes: цікавити
+invit: запрошувати
+ir: йти
+itali: Італія
+jar: рік
+jun: молодий
+kaf: кава
+kalv: лисий
+kap: голова
+kapabl: здатний
+kapt: 
+  - ловити 
+  - піймати 
+  - хапати 
+  - схопити
+kar: 
+  - дорогий 
+  - любий 
+  - милий
+kastel: зáмок
+kav: яма
+kelk: якийсь певний (про число)
+kelner: кельнер
+klar: 
+  - ясний 
+  - зрозумілий
+klub: клуб
+knab: хлопець
+koler: сердитись
+kolor: колір
+komenc: починати
+kompren: розуміти
+kon: знати
+kontent: задоволений
+kontrol: контролювати
+kor: серце
+korp: тіло
+kost: коштувати 
+kri: кричати
+kuir: варити
+kuk: пиріг
+kur: бігти
+labor: працювати
+lakt: молоко
+lamp: лямпа
+land: країна
+larĝ: широкий
+last: останній
+laŭt: голосний
+lecion: лекція
+leg: читати
+lern: вчити
+leter: лист
+liber: вільний
+libr: книжка
+lok: місце
+long: довгий
+lud: грати
+lum: 
+  - світло 
+  - сяйво 
+  - світило
+man: рука
+mank: 
+  - бракувати 
+  - не вистачати 
+  - бути відсутнім
+manĝ: їсти
+mar: море
+maten: ранок
+memor: пам'ятати
+met: класти
+mez: середній
+milit: війна
+minut: хвилина
+mir: дивуватися
+moment: мить
+mon: гроші
+mont: гора
+montr: показувати
+mort: смерть
+mov: 
+  - рухати 
+  - пересувати 
+  - приводити в рух 
+  - ворушити
+mult: багато
+muzik: музика
+nask: народжувати
+natur: природа
+neces: 
+  - необхідний 
+  - потрібний
+nokt: ніч
+nom: ім'я
+not: 
+  - замітка 
+  - нотатка 
+  - запис
+nov: новий
+odor: пахнути
+oft: часто
+okaz: 
+  - траплятися 
+  - ставатися 
+  - відбуватися 
+  - проходити
+okul: око
+onkl: дядько
+opini: 
+  - думати 
+  - гадати 
+  - вважати 
+  - мати думку
+ord: 
+  - порядок 
+  - лад
+orel: вухо
+pac: мир
+pag: платити
+pan: хліб
+paper: папір
+pardon: прощати
+parol: говорити
+part: 
+  - частина 
+  - частка
+pas: 
+- проходити 
+- переходити 
+- минати 
+- спливати
+patr:батько
+paŝ: 
+  - ступати 
+  - крокувати 
+  - ходити
+pens: думати
+perd: 
+  - губити 
+  - втрачати
+person: особа
+pet: просити
+pez: важити
+pied: 
+  - нога 
+  - ступня
+plac: 
+  - майдан 
+  - площа
+plan: плянувати
+plaĉ: подобатися
+plen: повний
+polic: поліція
+pord: двері
+port: 
+  - нести 
+  - носити
+pov: могти
+pren: брати
+pret: готовий
+prezent: презентувати
+problem: проблема
+proksim: 
+  - близький 
+  - ближній
+promen: 
+  - гуляти 
+  - прогулюватися
+propon: пропонувати
+prov: пробувати
+rajt: право
+rapid: швидкий
+raport: рапортувати
+real: реальний
+rekt: прямий
+renkont: зустрічати
+respekt: поважати
+respond: відповідати
+rest: 
+  - залишатися 
+  - продовжувати знаходитися
+ricev: отримувати
+rid: сміятись
+rigard: дивитись
+riĉ: багатий
+rol: роль
+ruĝ: червоний
+salt: стрибати
+salut: вітати
+sam: той самий
+san: здоровий
+saĝ: розумний
+sci: знати
+sek: сухий
+sekret: секрет
+sekv: іти за 
+semajn: тиждень
+send: посилати
+serĉ: шукати
+si: себе
+sid: сидіти
+silent: мовчати
+simil: схожий
+sinjor: пан 
+situaci: ситуація
+skrib: писати
+sol: 
+  - єдиний 
+  - сам 
+  -самотній
+son: звук
+sovaĝ: дикий
+sport: спорт
+star: стояти
+strat: вулиця
+subit: раптовий
+sufiĉ: достатній
+sukces: успіх
+sun: сонце
+supr: верхній
+tabl: стіл
+tag: день
+te: чай
+telefon: телефон
+temp: час
+temperatur: температура
+ten: тримати
+teror: терор
+tim: боятись
+ton: 
+  - тон 
+  - лад 
+  - звук
+trankvil: спокійний
+trink: пити (воду)
+trov: знаходити
+turk: турок
+tuŝ: торкатись
+urb: місто
+util: 
+  - корисний 
+   -придатний
+uz: 
+  - користуватися 
+  - використовувати
+vagon: вагон
+varm: жаркий
+ven: приходити
+vend: продавати
+Veneci: Венеція
+ver: правда
+vesper: вечір
+vest: одяг
+vetur: їхати
+vid: бачити
+vin: вино
+vir: чоловік
+viv: життя
+vizaĝ: обличчя
+vizit: відвідувати
+voj: дорога
+vojaĝ: 
+  - подорожувати 
+  - мандрувати 
+  - їздити
+vok: кликати
+vol: хотіти
+vort: слово
+voĉ: голос
+zorg: турбуватись
+ĉambr: кімната
+ĉef: шеф
+ĝen: 
+  - турбувати 
+  - завдавати клопоту 
+  - надокучати 
+  - набридати
+ĝeneral: 
+  - загальний 
+  - ґенеральний
+ĝoj: 
+  -радіти 
+  - радуватися 
+  -тішитися 
+  -веселитися
+ĝust:
+  - точний 
+  - правильний
+ĵet: кидати
+ŝajn: 
+  - здаватися 
+  - видаватися
+ŝanĝ: міняти
+ŝat: 
+  - цінувати 
+  - любити
+ŝip:корабель 

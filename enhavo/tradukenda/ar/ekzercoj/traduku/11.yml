@@ -1,31 +1,30 @@
 - estraro: 
-  - bureau
-  - direction
-- tagmeze: midi
-- posttagmeze: après-midi
+  - مجلس
+  - الإدارة
+- tagmeze: 
+  - منتصف النهار
+  - ظهيرة
+- posttagmeze: بعد الظهر
 - malsata: 
-  - affamé
-  - affamée
-  - qui a faim
+  - جائع
 - interkonsenti:
-  - "se mettre d'accord"
-  - "s'accorder"
-- manĝilaro: couverts
-- vidpunkto: point de vue
+  - توافق
+  - اتفق
+- manĝilaro: 
+  - أدوات المائدة
+- vidpunkto: 
+  - وجهة نظر
 - malfermilo: 
-  - ouvreur
-  - ouvre-boite
-  - ouvre-boître
-- noktomezo: minuit
-- publikigi: publier
+  - فتاحة
+- noktomezo: منتصف الليل
+- publikigi: 
+  - نشر
+  - أصدر
 - pagigi: 
-  - faire payer
-  - laisser payer
+  - ترك دفع
 - duflanka: 
-  - recto-verso
-  - des deux côtés
-  - sur les deux côtés
+  - وجه وقفا
+  - على كلا الجانبين
 - aliflanke: 
-  - "d'un autre côté"
-  - "d'autre part"
-  - par ailleurs
+  - من جهة أخرى
+  - من ناحية أخرى

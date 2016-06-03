@@ -1,16 +1,10 @@
 dis:
-- dispersion
-- rupture
-ek: 
-- "début de l'action"
-- soudainement
+- префікс, що позначає роз’єднання, поширення
+- роз-
+ek: префікс, що позначає миттєвість або початок дії 
 for:
-- éloignement
-- disparition
-ge:
-- relatif aux deux sexes
-mal:
-- opposition
-re: 
-- de nouveau
-- re- 
+- геть
+- далеко
+ge: префікс, що  позначає осіб обох статей 
+mal: префікс, що позначає пряму протилежність 
+re: префікс, що позначає зворотну або повторну дію  

@@ -1,11 +1,13 @@
-a:  Adjectif
-e:  Adverbe
-i:  Infinitif
-n:  Accusatif
-o:  Nom
-j:  Pluriel
-u:  "Verbe à l'imperatif"
-is: Verbe au passé
-as: Verbe au présent
-os: Verbe au futur
-us: Verbe au conditionnel
+a:  прикметник
+e:  
+  - прислівник
+  - дієприслівник
+i:  неозначена форма дієслова
+n:  знахідний відмінок
+o:  іменник
+j:  множина
+u:  наказовий спосіб дієслова
+is: дієслово в минулому часі
+as: дієслово в теперішньому часі
+os: дієслово в майбутньому часі
+us: умовний спосіб дієслова

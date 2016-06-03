@@ -1,25 +1,67 @@
-almenaŭ: au moins
-ambaŭ: les deux
-ankaŭ: aussi
+almenaŭ: 
+ - принаймні
+ - хоч
+ambaŭ: 
+ - обидва
+ - обоє
+ - обидві
+ankaŭ: також
 ankoraŭ: 
-- encore
-- toujours
-baldaŭ: bientôt
-do: donc
-eĉ: même
-hieraŭ: hier
-hodiaŭ: "aujourd'hui"
-jam: déjà
-jes: oui
-kvazaŭ: pratiquement
-morgaŭ: demain
-nun: maintenant
-nur: seulement
-plej: le plus (Superlatif) 
-pli: plus (Comparatif) 
-plu: encore
-preskaŭ: presque
-tamen: cependant
-tre: très
-tro: trop
-tuj: immédiatement
+- ще 
+- крім того
+baldaŭ: 
+- незабаром
+- невдовзі 
+- скоро 
+- найближчим часом
+do: 
+ - отже
+ - отож
+ - же 
+ - ж
+eĉ: навіть
+hieraŭ: вчора
+hodiaŭ: сьогодні
+jam: вже
+jes: так
+kvazaŭ: 
+ - ніби 
+ - наче 
+ - неначе 
+ - немовби
+morgaŭ: завтра
+nun: 
+  - зараз
+  - тепер
+nur: 
+  - лише
+  - лиш
+  - тільки
+  - лишень
+plej:  
+  - най- 
+  - найбільш
+pli: 
+  - більше 
+  - більш
+plu: 
+- більше 
+- більш 
+- далі 
+- ще
+preskaŭ: 
+ - майже
+ - сливе
+ - трохи
+tamen: 
+ - однак
+ - проте
+tre: 
+- дуже
+- вельми
+tro: 
+  - занадто
+  - надто
+tuj: 
+  - одразу
+  - негайно  

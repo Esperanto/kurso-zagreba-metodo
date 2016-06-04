@@ -1,27 +1,45 @@
-unu: un
-du: deux
-tri: trois
-kvar: quatre
-kvin: cinq
-ses: six
-sep: sept
-ok: huit
-naŭ: neuf
-dek: dix
-dek unu: onze
-dek du: douze
-dek tri: treize
-dek kvar: quatorze
-dek kvin: quinze 
-dek ses: seize 
-dek sep: dix-sept
-dek ok: dix-huit
-dek naŭ: dix-neuf
-dudek: vingt
-tridek: trente
-kvardek: quarante
-cent: cent
-ducent: deux cents
-tricent: trois cents
-mil: mille
-dumil: deux mille
+unu: واحد
+du: اثنان
+tri: ثلاثة
+kvar: أربعة
+kvin: خمسة
+ses: ستة
+sep: سبعة
+ok: ثمانية
+naŭ: تسعة
+dek: عشرة
+dek unu: 
+  - أحد عشر
+  - أحد عشرة
+dek du:
+  - اثنا عشر
+  - اثنا عشرة
+dek tri: 
+  - ثلاثة عشر
+  - ثلاثة عشرة
+dek kvar:
+  - أربعة عشر
+  - أربعة عشرة
+dek kvin:
+  - خمسة عشر 
+  - خمسة عشرة 
+dek ses:
+  - ستة عشر
+  - ستة عشرة 
+dek sep:
+  - سبعة عشر
+  - سبعة عشرة
+dek ok:
+  - ثمانية عشر
+  - ثمانية عشرة
+dek naŭ: 
+  - تسعة عشر
+  - تسعة عشرة
+dudek: عشرون
+tridek: ثلاثون
+kvardek: أربعون
+cent: مئة
+ducent: مائتان
+tricent: ثلاث مائة
+mil: ألف
+dumil: ألفان

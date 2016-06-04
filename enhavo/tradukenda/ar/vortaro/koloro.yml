@@ -1,8 +1,10 @@
-blanka: blanc
-nigra:  noir
-ruĝa:   rouge
-flava:  jaune
-verda:  vert
-blua:   bleu
-bruna:  marron
-griza:  gris
+blanka: أبيض
+nigra:  أسود
+ruĝa:   أحمر
+flava:  أصفر
+verda:  أخضر
+blua:   أزرق
+bruna:  
+  - أسمر
+  - بنى
+griza:  رمادي

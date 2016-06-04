@@ -1,11 +1,15 @@
-a:  Adjectif
-e:  Adverbe
-i:  Infinitif
-n:  Accusatif
-o:  Nom
-j:  Pluriel
-u:  "Verbe à l'imperatif"
-is: Verbe au passé
-as: Verbe au présent
-os: Verbe au futur
-us: Verbe au conditionnel
+a:  
+  - صفة
+  - نعت
+e:  ظرف حال
+i:  
+  - صيغة المصدر
+  - مصدر
+n: حالة المفعول به
+o:  اسم
+j:  صيغة الجمع
+u:  فعل حتمي
+is: فعل في الماضي
+as: فعل في المضارع
+os: فعل في المستقبل
+us: فعل الشرطي

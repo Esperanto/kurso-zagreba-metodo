@@ -1,72 +1,72 @@
 - 
-  demando: ¿Qué es lo que más podría poner contentos a tus padres?
+  demando: Què és el que més podria posar contents els teus pares?
   rektatraduko: 
-    - Kio: Qué
-    - povus: podría
-    - plej: más
-    - ĝojigi: poner contentos
-    - viajn: a tus
-    - gepatrojn: padres
+    - Kio: Què
+    - povus: podria
+    - plej: més
+    - ĝojigi: posar contents
+    - viajn: els teus
+    - gepatrojn: pares
     - '?'
 - 
-  demando: ¡Si al menos tú fueras conmigo al centro después de las clases!
+  demando: Si al menys tu vinguessis amb mi al centre despres de les classes!
   rektatraduko: 
     - Se: Si
-    - almenaŭ: al menos
-    - vi: tú
-    - post: después de
-    - la: las 
-    - lecionoj: clases
-    - irus: fueras
-    - kun: con
-    - mi: migo
+    - almenaŭ: al menys
+    - vi: tu
+    - post: despres de
+    - la: les 
+    - lecionoj: classes
+    - irus: vinguessis
+    - kun: amb
+    - mi: mi
     - en: a
     - la: el 
-    - centron: centro
+    - centron: centre
     - '!'
 - 
-  demando: ¿Adónde te gustaría viajar si tuvieras suficiente dinero y tiempo?
+  demando: A on t'agradaria viatjar si tinguessis suficients diners i temps?
   rektatraduko: 
-    - Kien: Adónde
-    - vi: a ti
-    - dezirus: te gustaría
-    - vojaĝi: viajar
+    - Kien: A on
+    - vi: a tu
+    - dezirus: t'agradaria
+    - vojaĝi: viatjar
     - ',' 
     - se: si
-    - vi: tú
-    - havus: tuvieras
-    - sufiĉe: suficiente
+    - vi: tu
+    - havus: tinguessis
+    - sufiĉe: suficients
     - da: de
-    - mono: dinero
-    - kaj: y
-    - tempo: tiempo
+    - mono: diners
+    - kaj: i
+    - tempo: temps
     - '?'
 - 
-  demando: ¿Viajas con el coche a París o mejor con el tren?
+  demando: Viatges amb el cotxe a París o millor amb el tren?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - vojaĝas: viajas
-    - per: con
+    - vi: Tu
+    - vojaĝas: viatges
+    - per: amb
     - la: el
-    - aŭto: coche
+    - aŭto: cotxe
     - al: a
     - Parizo: París
     - aŭ: o
-    - pli: más
-    - bone: bien
-    - per: con
+    - pli: més
+    - bone: bé
+    - per: amb
     - la: el
     - vagonaro: tren
     - '?'
 - 
-  demando: ¿Por qué personas diferentes explican unas mismas ideas de manera diferente?
+  demando: Per què persones diferents expliquen unes mateixes idees de manera diferent?
   rektatraduko: 
-    - Kial: Por qué
-    - diversaj: diferentes
-    - homoj: personas
-    - klarigas: explican
-    - samajn: unas mismas
-    - ideojn: ideas
-    - diversmaniere: de manera diferente 
+    - Kial: Per què
+    - diversaj: diferents
+    - homoj: persones
+    - klarigas: expliquen
+    - samajn: unes mateixes
+    - ideojn: idees
+    - diversmaniere: de manera diferent 
     - '?'

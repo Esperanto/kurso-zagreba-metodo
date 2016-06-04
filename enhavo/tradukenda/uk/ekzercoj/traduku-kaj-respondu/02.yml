@@ -1,70 +1,70 @@
 -
-  demando: Comment était votre ancienne maison ?
+  demando: "Яким був ваш старий дім ?"
   rektatraduko: 
-    - Kia: Comment
-    - estis: était
-    - via: votre
-    - malnova: ancienne
-    - hejmo: maison
+    - Kia: Яким
+    - estis:був
+    - via: ваш
+    - malnova: старий
+    - hejmo: дім
     - '?'
 -
-  demando: "Quels livres as-tu lus, et est-ce qu'ils sont bons ?"
+  demando: "Які книжки ти читав і чи вони є добрі ?"
   rektatraduko:
-    - Kiujn: Quels
-    - librojn: livres
-    - vi: tu
-    - legis: as lu
-    - kaj: et
-    - ĉu: est-ce que
-    - ili: ils
-    - estas: sont
-    - bonaj: bons
+    - Kiujn: Які
+    - librojn: книжки
+    - vi: ти
+    - legis: читав
+    - kaj: і
+    - ĉu: чи
+    - ili: вони
+    - estas: є
+    - bonaj: добрі
     - '?'
 -
-  demando: "Qu'ont fait Anne et Marc dans la petite chambre de Marc ?"
+  demando: "Що робили Анна і Марко в маленькій кімнаті Марка ?"
   rektatraduko:
-    - Kion: "Qu'"
-    - faris: ont fait
-    - Anna: Anna
-    - kaj: et
-    - Marko: Marc
-    - en: dans
-    - la: la
-    - malgranda: petite
-    - ĉambro: chambre
-    - de: de
-    - Marko: Marc
+    - Kion: "Що"
+    - faris: робили
+    - Anna: Анна 
+    - kaj: і
+    - Marko: Марко
+    - en: в
+    - la: (цій)
+    - malgranda: маленькій
+    - ĉambro: кімнаті
+    - de: прийменник, що утворює родовий відмінок
+    - Marko: Марка
     - '?'
 -
-  demando: "Est-ce que vous aimez lire des livres sur l'amour ?"
+  demando: "Чи ви любите читати книжки про кохання ?"
   rektatraduko:
-    - Ĉu: Est-ce que
-    - vi: vous
-    - ŝatas: aimez
-    - legi: lire
-    - librojn: des livres
-    - pri: sur
-    - amo: "l'amour"
+    - Ĉu: Чи
+    - vi: ви
+    - ŝatas: любите
+    - legi: читати
+    - librojn: книжки
+    - pri: про
+    - amo: "кохання"
     - '?'
 -
-  demando: Qui ira avec vous à votre maison ?
+  demando: Хто піде з тобою до твого дому ?
   rektatraduko:
-    - Kiu: Qui
-    - iros: ira
-    - kun: avec
-    - vi: vous
-    - al: à
-    - via: votre
-    - hejmo: maison
+    - Kiu: Хто
+    - iros: піде
+    - kun: з
+    - vi: тобою
+    - al: до
+    - via: твого
+    - hejmo: дому
     - '?'
 -
-  demando: Comment sont les yeux de ta petite amie ?
+  demando: Які (є) очі  твоєї подруги ?
   rektatraduko:
-    - Kiaj: Comment
-    - estas: sont
-    - la: les
-    - okuloj: yeux
-    - de: de
-    - via: ta
-    - amikino: petite amie
+    - Kiaj: Які
+    - estas: є
+    - la: означений артикль
+    - okuloj: очі
+    - de: прийменник, що утворює родовий відмінок
+    - via: твоєї
+    - amikino: подруги
     - '?'

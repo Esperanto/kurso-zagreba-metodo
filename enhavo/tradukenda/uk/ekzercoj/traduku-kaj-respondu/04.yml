@@ -1,73 +1,73 @@
 -
-  demando: Quand vous reverrai-je ?
+  demando: Коли я знову побачу вас ?
   rektatraduko: 
-    - Kiam: Quand
-    - mi: je  
-    - revidos: reverrai
-    - vin: vous
+    - Kiam: Коли
+    - mi: я 
+    - revidos: знову побачу
+    - vin: вас
     - '?'
 -
-  demando: Depuis combien de temps apprenez-vous la langue internationale ?
+  demando: Як довго ви вивчаєте міжнаціональну мову ?
   rektatraduko: 
-    - Kiel: Combien
-    - longe: longtemps
-    - vi: vous
-    - lernas: apprenez
-    - la: la 
-    - Internacian: internationale
-    - Lingvon: langue
+    - Kiel: Як
+    - longe: довго
+    - vi: ви
+    - lernas: вивчаєте
+    - la:  
+    - Internacian: інтернаціональну
+    - Lingvon: мову
     - '?'
 -
-  demando: Où est mon nouveau livre de photos ?
+  demando: Де є моя нова книга зі світлинами ?
   rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - mia: mon
-    - nova: nouveau
-    - libro: livre
-    - kun: avec
-    - fotoj: des photos
+    - Kie: Де
+    - estas: є
+    - mia: моя
+    - nova: нова
+    - libro: книга
+    - kun: зі
+    - fotoj: світлинами
     - '?'
 -
-  demando: Où irez-vous après le déjeuner ?
+  demando: Куди ви підете після обіду ?
   rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
+    - Kien: Куди
+    - vi: ви
+    - iros: підете
+    - post: після
+    - la: 
+    - tagmanĝo: обіду
     - '?'
 -
-  demando: "Est-ce qu'on peut fermer la porte de la chambre quand il fait froid ?"
+  demando: "Чи можуть закривати двері кімнати, коли є холодно ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - oni: "on"
-    - povas: peut
-    - fermi: fermer
-    - la: la
-    - pordon: porte
+    - Ĉu: Чи
+    - oni: ""
+    - povas: можуть
+    - fermi: закривати
+    - la: 
+    - pordon: двері
     - de: de 
     - la: la
-    - ĉambro: chambre
+    - ĉambro: кімнати
     - ','
-    - kiam: quand
-    - estas: il fait
-    - malvarme: froid
+    - kiam: коли
+    - estas: є
+    - malvarme: холодно
     - '?'
 -
-  demando: "Combien de temps êtes-vous en colère si on vous prend beaucoup d'argent ?"
+  demando: "Як довго ви сердитесь, якщо забирають у вас багато грошей ?"
   rektatraduko: 
-    - Kiel: Combien
-    - longe: de temps
-    - vi: vous
-    - koleras: êtes en colère
+    - Kiel: Як
+    - longe: довго
+    - vi: ви
+    - koleras: сердитесь
     - ','
-    - se: si
-    - oni: "on"
-    - forprenas: emporte
-    - de: de
-    - vi: vous
-    - multan: beaucoup 
-    - monon: argent
+    - se: якщо
+    - oni: ""
+    - forprenas: забирають
+    - de: у
+    - vi: вас
+    - multan: багато
+    - monon: грошей
     - '?'

@@ -1,77 +1,77 @@
 -
-  demando: Est-ce que les serveurs dans les grands hôtels comprennent beaucoup de langues ? 
+  demando: Чи кельнери у великих готелях розуміють багато мов ? 
   rektatraduko:  
-    - Ĉu: Est-ce que 
-    - kelneroj: serveurs
-    - en: dans
-    - grandaj: grands
-    - hoteloj: hôtels
-    - komprenas: comprennnent
-    - multajn: beaucoup de 
-    - lingvojn: langues
+    - Ĉu: Чи
+    - kelneroj: кельнери
+    - en: у
+    - grandaj: великих 
+    - hoteloj: готелях
+    - komprenas: розуміють
+    - multajn: багато
+    - lingvojn: мов
     - '?'
 -
-  demando: "Est-ce que tu sais si Anne aime la nouvelle chanson à propos d'un pauvre et d'une jolie fille ?"
+  demando: "Чи ти знаєш, чи Анна любить нову пісню про бідняка і красуню ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - scias: sais
+    - Ĉu: Чи
+    - vi: ти
+    - scias: знаєш
     - ','
-    - ĉu: si
-    - Anna: Anne 
-    - ŝatas: aime
-    - la: la
-    - novan: nouvelle
-    - kanton: chanson
-    - pri: à propos de
-    - malriĉulo: un pauvre
-    - kaj: et
-    - belulino: une jolie fille
+    - ĉu: чи
+    - Anna:Анна 
+    - ŝatas: любить
+    - la: 
+    - novan: нову
+    - kanton: пісню
+    - pri: про
+    - malriĉulo: бідняка
+    - kaj: і
+    - belulino: красуню
     - '?'
 -
-  demando: Où as-tu vu le vieux et le jeune qui portaient une grande table ?
+  demando: Де ти бачив старого і юнака, котрі несли великий стіл ?
   rektatraduko: 
-    - Kie: Où
-    - vi: tu
-    - vidis: as vu
-    - la: le
-    - maljunulon: vieux (vieil homme)
-    - kaj: et
-    - la: le
-    - junulon: jeune (homme jeune)
+    - Kie: Де 
+    - vi: ти
+    - vidis: бачив
+    - la: 
+    - maljunulon: старого
+    - kaj: і
+    - la: 
+    - junulon: юнака
     - ','
-    - kiuj: qui
-    - portis: portaient
-    - grandan: grande
-    - tablon: table
+    - kiuj: котрі
+    - portis: несли
+    - grandan: великий
+    - tablon: стіл
     - '?'
 -
-  demando: "Comment c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?"
+  demando: "Як сталось, що ти знову прийшов до нас без братів і сестерs ?"
   rektatraduko: 
-    - Kiel: Comment
-    - okazis: "c'est arrivé"
+    - Kiel: Як
+    - okazis: "сталось"
     - ','
-    - ke: que
-    - vi: tu
-    - denove: encore
-    - venis: "[tu] es venu"
-    - al: chez
-    - ni: nous
-    - sen: sans
-    - gefratoj: frères et soeurs ?
+    - ke: що
+    - vi: ти
+    - denove: знову
+    - venis: "прийшов"
+    - al: до
+    - ni: нас
+    - sen: без
+    - gefratoj: братів і сестер ?
     - '?'
 -
-  demando: "Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau livre de cours ?"
+  demando: "Чи ти можеш з новим підручником досить швидко вивчати есперанто ?"
   rektatraduko: 
-    - Ĉu: Est-ce que 
-    - vi: tu
-    - povas: peux
-    - per: avec
-    - la: le 
-    - nova: nouveau
-    - lernolibro: livre de cours
-    - sufiĉe: assez
-    - rapide: rapidement
-    - lerni: apprendre
-    - Esperanton: "[l'] espéranto"
+    - Ĉu: Чи
+    - vi: ти
+    - povas: можеш
+    - per: з
+    - la:  
+    - nova: новим
+    - lernolibro: підручником
+    - sufiĉe: досить
+    - rapide: швидко
+    - lerni: вивчати
+    - Esperanton: "есперанто"
     - '?'

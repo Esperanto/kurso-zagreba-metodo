@@ -1,12 +1,14 @@
-januaro: janvier
-februaro: février
-marto: mars
-aprilo: avril
-majo: mai
-junio: juin
+januaro: يناير
+februaro: فبراير
+marto: مارس
+aprilo: أبريل
+majo: مايو
+junio: يونيو
 julio: juillet
-aŭgusto: août
-septembro: septembre
-oktobro: octobre
-novembro: novembre
-decembro: décembre
+aŭgusto: يوليو
+septembro: 
+  - سبتمبر
+  - أيلول
+oktobro: أكتوبر
+novembro: نوفمبر
+decembro: ديسمبر

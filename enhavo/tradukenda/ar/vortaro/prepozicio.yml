@@ -1,54 +1,57 @@
 al: 
-- à
-- dans la direction de
-anstataŭ: à la place de
+  - إلى
+  - في اتجاه
+anstataŭ: بدلا من
 antaŭ:
-- avant
-- devant
-apud: à côté de
-da: de
+  - قبل
+  - أمام
+apud: بجوار
+da: من
 de:
-- de
-- depuis
-dum: pendant
-ekde: depuis
-ekster: hors de
+  - من
+  - من عند
+dum: 
+  - طوال
+  - أثناء
+  - خلال
+ekde: منذ
+ekster: خارج من
 el:
-- de
-- hors de
-en: 
-- dans
-- en
-inter: 
-- entre
-- parmi
+  - من
+  - بعيدا عن
+en: في
+inter: بين
 je:
-- de
-- avec
-- dans
-kontraŭ: 
-- contre
+  - من
+  - مع
+  - في
+kontraŭ: ضد
 krom: 
-- outre
-- à part
-kun: 
-- avec
-laŭ: "d'après"
+  - بالإضافة إلى
+  - باستثناء
+kun: مع
+laŭ: وفق
 per: 
-- au moyen de
-- avec
-por: pour
-post: après
+  - بواسطة
+  - ب
+por: ل
+post: بعد
 pri:
-- au sujet de
-- concernant
-pro: à cause de
-sen: sans
-sub: sous
-super: au-dessus de
-sur: sur
-tra: par
-trans: au travers
-ĉe: chez
-ĉirkaŭ: autour de
-ĝis: jusqu'à
+  - فيما يتعلق ب
+  - حول
+pro: بسبب
+sen: 
+  - بدون
+  - بلا
+sub: تحت
+super: فوق
+sur: على
+tra: عبر
+trans: من خلال
+ĉe: 
+  - في
+  - عند
+ĉirkaŭ: حول
+ĝis: 
+  - إلى
+  - حتى

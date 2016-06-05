@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: ativo no presente
+int: ativo no passado
+ont: ativo no futuro
+unt: ativo no condicional
+at:  passivo no presente
+it:  passivo no passado
+ot:  passivo no futuro
+ut:  passivo no condicional

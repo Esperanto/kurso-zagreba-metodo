@@ -1,10 +1,14 @@
-ajn: "n'importe quel"
+ajn: أي
 des: plus (plus…, plus…), moins (plus…, moins…)
-jen: voici
+jen: ها هو
 ju: plus (plus…, plus…), moins (plus…, moins…)
-mem: même
-ne:
-- non
-- ne
-ĉi: -ci
-ĉu: est-ce-que (commence une question fermée)
+mem: 
+  - نفسه
+  - ذاته
+ne:  
+  - لا
+  - ليس
+ĉi: 
+  - هذا
+  - هذه
+ĉu: هل

@@ -1,65 +1,65 @@
 -
-  demando: "Est-ce que vous pouvez apprendre calmement pendant que quelqu'un chante joyeusement ?"
+  demando: "Чи ви можете спокійно вчитись у той час коли хтось радісно співає ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - povas: pouvez
-    - trankvile: tranquillement
-    - lerni: apprendre
+    - Ĉu: Чи
+    - vi: ви
+    - povas: можете
+    - trankvile: спокійно
+    - lerni: вчитись
     - ','
-    - dum: pendant que
-    - iu: "quelqu'un"
-    - ĝoje: joyeusement
-    - kantas: chante
+    - dum: у той час коли
+    - iu: "хтось"
+    - ĝoje: радісно
+    - kantas: співає
     - '?'
 -
-  demando: Qui sait quand et où nous nous reverrons ?
+  demando: Хто знає, коли і де ми знову побачимо нас (коли ми знову побачимось) ?
   rektatraduko: 
-    - Kiu: Qui
-    - scias: sait
+    - Kiu: Хто
+    - scias: знає
     - ','
-    - kiam: quand 
-    - kaj: et
-    - kie: où
-    - ni: nous
-    - revidos: reverrons
-    - nin: nous
+    - kiam: коли
+    - kaj: і
+    - kie: де
+    - ni: ми
+    - revidos: знову побачимо
+    - nin: нас
     - '?'
 -
-  demando: Quelle heure est-il maintenant ?
+  demando: Котра година є зараз ?
   rektatraduko: 
-    - Kioma: Quelle
-    - horo: heure
-    - estas: il est 
-    - nun: maintenant
+    - Kioma: Котра
+    - horo: година
+    - estas: є
+    - nun: зараз
     - '?'
 -
-  demando: "Est-ce que quelqu'un vous a aidé à ouvrir la porte de la vieille maison ?"
+  demando: "Чи хтось допоміг вам відкрити двері старого дому ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - iu: "quelqu'un" 
-    - helpis: a aidé
-    - al: [à] 
-    - vi: vous 
-    - malfermi: ouvrir 
-    - la: la 
-    - pordon: porte 
-    - de: de
-    - la: la
-    - malnova: vieille
-    - domo: maison
+    - Ĉu: Чи
+    - iu: "хтось" 
+    - helpis: допоміг
+    - al: [] 
+    - vi: вам 
+    - malfermi: відкрити
+    - la:  
+    - pordon: двері
+    - de: 
+    - la: 
+    - malnova: старого
+    - domo: дому
     - '?'
 -
-  demando: "Pourquoi n'avez-vous pas le temps de m'écouter plus longtemps ?"
+  demando: "Чому ви не маєте час слухати мене більш довго (слухати мене довше) ?"
   rektatraduko: 
-    - Kial: Pourquoi
-    - vi: vous
-    - ne: ne ... pas
-    - havas: avez
-    - tempon: le temps
-    - aŭskulti: écouter
-    - al: [à]
-    - mi: moi
-    - pli: plus
-    - longe: longtemps
+    - Kial: Чому
+    - vi: ви
+    - ne: не
+    - havas: маєте
+    - tempon: час
+    - aŭskulti: слухати
+    - al: []
+    - mi: мене
+    - pli: більш
+    - longe: довго
     - '?'

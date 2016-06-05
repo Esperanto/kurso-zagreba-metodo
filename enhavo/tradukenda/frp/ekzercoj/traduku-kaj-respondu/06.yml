@@ -1,0 +1,72 @@
+- 
+  demando: Est-ce que vous voulez que je vous montre mon plus récent livre ?
+  rektatraduko: 
+    - Ĉu: Est-ce que
+    - vi: vous
+    - deziras: voulez
+    - ',' 
+    - ke: que 
+    - mi: je
+    - montras: montre
+    - al: à
+    - vi: vous
+    - mian: mon
+    - plej: plus
+    - novan: nouveau
+    - libron: livre
+    - '?'
+- 
+  demando: Que voulez-vous demain pour votre petit déjeuner ?
+  rektatraduko: 
+    - Kion: Que
+    - vi: vous
+    - volas: voulez
+    - morgaŭ: demain
+    - matenmanĝi: prendre le petit-déjeuner
+    - '?'
+- 
+  demando: Quand Marc arrivera-t-il, à 5 heures ou à 8 heures ?
+  rektatraduko: 
+    - Kiam: Quand
+    - Marko: Marc
+    - alvenos: arrivera
+    - ',' 
+    - je: à
+    - la: la
+    - kvina: cinquième
+    - aŭ: ou
+    - je: à
+    - la: la
+    - oka: huitième
+    - horo: heure
+    - '?'
+- 
+  demando: "Quand avez-vous remarqué que toute la famille m'appelle bienfaiteur ?"
+  rektatraduko: 
+    - Kiam: Quand
+    - vi: vous
+    - rimarkis: avez remarqué
+    - ','  
+    - ke: que
+    - la: la
+    - tuta: toute
+    - familio: famille
+    - nomas: appelle
+    - min: moi
+    - bonfarulo: bienfaiteur
+    - '?'
+- 
+  demando: "Est-ce que le livret que j'ai envoyé vous a été utile ?"
+  rektatraduko: 
+    - Ĉu: Est-ce que
+    - la: le 
+    - libreto: livret
+    - estis: était
+    - utila: utile
+    - al: à
+    - vi: vous
+    - ',' 
+    - kiun: que
+    - mi: je
+    - sendis: ai envoyé
+    - '?'

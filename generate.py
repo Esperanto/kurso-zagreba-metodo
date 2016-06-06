@@ -165,9 +165,14 @@ lingvoj = {
   'es': u'Español',
   'ms': u'Bahasa Melayu',
   'th': u'ไทย',
-  'zh': u'中文'
+  'zh': u'中文',
+  'ar': u'(test: araba)',
+  'ca': u'(test: kataluna)',
+  'frp': u'(test: arpitana)',
+  'pt': u'(test: portugala)',
+  'uk': u'(test: ukraina)',
   'nl': u'(test: nederlanda)',# Nederlands  
-  'tr': u'(test: turka)', # Türkçe 
+  'tr': u'(test: turka)' # Türkçe 
 }
 
 if args.lingvo:

@@ -1,12 +1,16 @@
-ili: ils
-li: il
-lia: son
-mi: je
-mia: mon
-ni: nous
-oni: on
+ili: 
+  - هم
+  - هن
+li: هو
+lia: له
+mi: أنا
+mia: لي
+ni: نحن
+oni: واحد  ( ضمير لأجل غير مسمى )
 vi: 
-- tu
-- vous
-ĝi: il
-ŝi: elle
+- أنت
+- أنتم
+- أنتن
+- أنتما
+ĝi: هذا
+ŝi: هي

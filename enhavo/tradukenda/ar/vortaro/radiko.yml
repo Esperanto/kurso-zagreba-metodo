@@ -198,20 +198,24 @@ perd: فقد
 person: شخص
 pet: تطلب
 pez: ثقيل
-pied: pied
-plac: place
-plan: planifier
-plaĉ: plaire
-plen: plein
-polic: police
-pord: porte
-port: faire attention
-pov: pouvoir
-pren: prendre
-pret: prêt
-prezent: présenter
-problem: problème
-proksim: à côté
+pied: قدم
+plac: مكان
+plan: خطة
+plaĉ: يعجب
+plen: كامل
+polic: شرطة
+pord: باب
+port: 
+  - احذر
+  - إ نتبه
+pov: يستطيع
+pren: أخذ
+pret: 
+  - جاهز
+  - مستعد
+prezent: يقدم
+problem: مشكلة
+proksim: بجانب
 promen: se promener
 propon: proposer
 prov: essayer

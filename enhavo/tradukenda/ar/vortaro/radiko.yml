@@ -1,32 +1,36 @@
-afer: affaire
-agrabl: agréable
-akcept: accepter
-akv: eau
-ali: autre
-alt: haut
-am: aimer
+afer: 
+  - مسألة
+  - قضية
+agrabl: ممتع
+akcept: 
+  - قبول
+  - رضى
+akv: ماء
+ali: آخر
+alt: عالي
+am: حب
 amas: aime
-amik: ami
-arb: arbre
-aspekt: aspect
-atend: attendre
-atent: prêter attention
-aĉet: acheter
-aŭd: entendre
-aŭt: voiture
-aŭtoritat: autorité
-bedaŭr: regretter
-bel: beau
-best: animal
-bezon: avoir besoin
-bien: propriété
-bon: bon
-branĉ: branche
-bru: bruit
-buŝ: bouche
-cert: certain
-dank: remercier
-daŭr: continuer
+amik: صديق
+arb: شجرة
+aspekt: مظهر
+atend: انتظر
+atent: انتبه
+aĉet: اشترى
+aŭd: سمع
+aŭt: سيارة
+aŭtoritat: سلطة
+bedaŭr: ندم
+bel: جميل
+best: حيوان
+bezon: حاجة
+bien: ممتلكات
+bon: جيد
+branĉ: غصن
+bru: صوت
+buŝ: فم
+cert: متأكد
+dank: شكر
+daŭr: استمر
 decid: décider
 demand: demander
 dev: devoir

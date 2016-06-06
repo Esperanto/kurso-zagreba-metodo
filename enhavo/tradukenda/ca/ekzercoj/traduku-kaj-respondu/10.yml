@@ -1,51 +1,51 @@
 - 
-  demando: ¿La amistad te hace más feliz que el amor?
+  demando: L'amistat et fa més feliç que l'amor?
   rektatraduko: 
     - Ĉu: ¿
-    - amikeco: La amistad
-    - pli: más
-    - feliĉigas: te hace feliz
-    - vin: a ti
+    - amikeco: L'amistat
+    - pli: més
+    - feliĉigas: et fa feliç
+    - vin: a tu
     - ol: que
     - la: el
     - amo: amor
     - '?'
 - 
-  demando: ¿Con qué frecuencia escribes cartas a tus amigas en Italia?
+  demando: Amb quina freqüència escrius cartes a les teves amigues a Itàlia?
   rektatraduko: 
-    - Kiom: Cómo de
-    - ofte: frecuentemente
-    - vi: tú
-    - skribas: escribes
-    - leterojn: cartas
+    - Kiom: Com de
+    - ofte: freqüentement
+    - vi: tu
+    - skribas: escrius
+    - leterojn: cartes
     - al: a
-    - viaj: tus
-    - amikinoj: amigas
-    - en: en
-    - Italio: Italia
+    - viaj: les teves
+    - amikinoj: amigues
+    - en: a
+    - Italio: Itàlia
     - '?'
 - 
-  demando: ¿La relación entre tu profesor y tú ha cambiado?
+  demando: ¿La relació entre el teu professor i tu ha canviat?
   rektatraduko: 
     - Ĉu: ¿
     - la: La
-    - rilato: relación
+    - rilato: relació
     - inter: entre
-    - via: tu
-    - instruisto: profesor
-    - kaj: y
-    - vi: tú
-    - ŝanĝiĝis: ha cambiado
+    - via: el teu
+    - instruisto: professor
+    - kaj: i
+    - vi: tu
+    - ŝanĝiĝis: ha canviat
     - '?'
 - 
-  demando: ¿Ahora ya sabes esperanto bastante bien?
+  demando: Ara ja saps esperanto bastant bé?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - nun: ahora
-    - jam: ya
-    - scias: sabes
+    - vi: Tu
+    - nun: ara
+    - jam: ja
+    - scias: saps
     - Esperanton: esperanto
-    - sufiĉe: bastante
-    - bone: bien
+    - sufiĉe: bastant
+    - bone: bé
     - '?'

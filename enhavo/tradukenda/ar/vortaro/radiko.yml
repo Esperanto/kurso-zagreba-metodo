@@ -148,52 +148,56 @@ lum: ضوء
 man: يد
 mank: مفتقر
 manĝ: أكل
-mar: mer
-maten: matin
-memor: se souvenir
-met: mettre
-mez: milieu
-milit: guerre
-minut: minute
-mir: "s'étonner"
-moment: moment
-mon: argent
-mont: montagne
-montr: montrer
-mort: mourir
-mov: bouger
-mult: beaucoup
-muzik: musique
-nask: donner naissance
-natur: nature
-neces: avoir besoin
-nokt: nuit
-nom: nom
-not: note
-nov: nouveau
-odor: sentir
-oft: souvent
-okaz: avoir lieu
-okul: oeil
-onkl: oncle
-opini: opinion
-ord: commander
-orel: oreille
-pac: paix
-pag: payer
-pan: pain
-paper: papier
-pardon: pardonner
-parol: parler
-part: partir
-pas: passer
-patr: père
-paŝ: pas
-pens: penser
-perd: perdre
-person: personne
-pet: demander
-pez: lourd
+mar: بحر
+maten: صباح
+memor: تذكر
+met: وضع
+mez: وسط
+milit: حرب
+minut: دقيقة
+mir: تعجب
+moment: لحظة
+mon: 
+  - فلوس
+  - مال
+mont: جبل
+montr: عرض
+mort: مات
+mov: يتحرك
+mult: كثير
+muzik: موسيقى
+nask: يلد
+natur: طبيعة
+neces: حاجة
+nokt: ليل
+nom: اسم
+not: مذكرة
+nov: جديد
+odor: إحساس
+oft: غالبا
+okaz: حدث
+okul: عين
+onkl: 
+  - عم
+  - خال
+opini: رأي
+ord: أمر
+orel: إذن
+pac: سلام
+pag: دفع
+pan: خبز
+paper: ورق
+pardon: غفر
+parol: يتحدث
+part: يرحل
+pas: مرر
+patr: الأب
+paŝ: خطوة
+pens: يفكر
+perd: فقد
+person: شخص
+pet: تطلب
+pez: ثقيل
 pied: pied
 plac: place
 plan: planifier

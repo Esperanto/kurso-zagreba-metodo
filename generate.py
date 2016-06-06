@@ -164,7 +164,7 @@ lingvoj = [
   ('fr', u'Français'),
   ('es', u'Español'),
   ('ms', u'Bahasa Melayu'),
-  ('th', u'ไทย'),
+  ('th', u'ภาษาไทย'),
   ('zh', u'中文'),
   ('ar', u'(test: araba)'),
   ('ca', u'(test: kataluna)'),

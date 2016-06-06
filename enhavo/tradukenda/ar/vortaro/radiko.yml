@@ -31,33 +31,39 @@ buŝ: فم
 cert: متأكد
 dank: شكر
 daŭr: استمر
-decid: décider
-demand: demander
-dev: devoir
-dezir: désirer
-diabl: diable
-dik: gros
-dimanĉ: dimanche
-dir: dire
-direkt: direction
-doktor: docteur
-dolar: dollar
-dolor: douleur
-dolĉ: doux
-dom: maison
-don: donner
-dorm: dormir
-doĝ: doge
-edz: mari
-efektiv: effectivement
-ekskurs: excursion
-esper: espérer
-est: être
-facil: facile
-fakt: fait
-fal: tomber
-famili: famille
-far: faire
+decid: قرر
+demand: تطلب
+dev: واجب
+dezir: رغبة
+diabl: شيطان
+dik: ضخم
+dimanĉ: الأحد
+dir: أقول
+direkt: 
+  - اتجاه
+  - جهة
+doktor: طبيب
+dolar: دولار
+dolor: ألم
+dolĉ: لطيف
+dom: 
+  - منزل
+  - بيت
+don: أعطى
+dorm: نوم
+doĝ: دوج
+edz: زوج
+efektiv: بالفعل
+ekskurs: نزهة
+esper: أمل
+est: يكون
+facil: سهل
+fakt: حقيقة
+fal: سقط
+famili: 
+  - عائلة
+  - أسرة
+far: يفعل
 fart: se porter
 feliĉ: heureux
 ferm: fermer 

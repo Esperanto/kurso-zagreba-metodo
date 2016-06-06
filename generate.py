@@ -164,10 +164,10 @@ lingvoj = {
   'fr': u'Français',
   'es': u'Español',
   'ms': u'Bahasa Melayu',
-  'nl': u'Nederlands (test)',
   'th': u'ไทย',
-  'tr': u'Türkçe (test)',
   'zh': u'中文'
+  'nl': u'(test: nederlanda)',# Nederlands  
+  'tr': u'(test: turka)', # Türkçe 
 }
 
 if args.lingvo:

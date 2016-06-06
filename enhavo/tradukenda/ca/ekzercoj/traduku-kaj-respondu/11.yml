@@ -1,54 +1,54 @@
 - 
-  demando: ¿Puedes traerte la medicina de mi hermana?
+  demando: Pots portar la medecina de la meva germana?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - povas: puedes
-    - kunporti: traerte
+    - vi: Tu
+    - povas: pots
+    - kunporti: portar
     - la: la
-    - sanigilon: medicina
+    - sanigilon: medecina
     - de: de
-    - mia: mi
-    - fratino: hermana
+    - mia: la meva
+    - fratino: germana
     - '?'
 - 
-  demando: ¿Cuándo compraste ese instrumento?
+  demando: Quan vas comprar aquell instrument?
   rektatraduko: 
-    - Kiam: Cuándo
-    - vi: tú
-    - aĉetis: compraste
-    - tiun: ese
-    - muzikilon: instrumento
+    - Kiam: Quan
+    - vi: tu
+    - aĉetis: vas comprar
+    - tiun: aquell
+    - muzikilon: instrument
     - '?'
 - 
-  demando: ¿Quién usó mi llave por última vez?
+  demando: Qui va fer servir la meva clau per última vegada?
   rektatraduko: 
-    - Kiu: Quién
-    - laste: por última vez
-    - uzis: usó
-    - mian: mi
-    - ŝlosilon: llave
+    - Kiu: Qui
+    - laste: per última vegada
+    - uzis: va fer servir
+    - mian: la meva
+    - ŝlosilon: clau
     - '?'
 - 
-  demando: ¿En Venecia fuiste también con góndola?
+  demando: A Venècia vas anar també amb góndola?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - en: en
-    - Venecio: Venecia
-    - veturis: fuiste
-    - ankaŭ: también
-    - per: con
+    - vi: Tu
+    - en: a
+    - Venecio: Venècia
+    - veturis: vas anar
+    - ankaŭ: també
+    - per: amb
     - gondolo: góndola
     - '?'
 - 
-  demando: ¿Podrás quedarte dormido cuando haya silencio?
+  demando: Podràs quedar-te dormit quan hi hagi silenci?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - povos: podrás
-    - ekdormi: quedarte dormido
+    - vi: Tu
+    - povos: podràs
+    - ekdormi: quedar-te dormit
     - ',' 
-    - kiam: cuando 
-    - estos silento: haya silencio
+    - kiam: quan 
+    - estos silento: hi hagi silenci
     - '?'

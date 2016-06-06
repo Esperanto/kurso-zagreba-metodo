@@ -1,68 +1,68 @@
 - 
-  demando: ¿Nos veremos de nuevo el uno al otro, sin importar dónde ni cuándo sea?
+  demando: Ens veurem de nou l'un a l'altre, sense importar on ni quan sigui?
   rektatraduko: 
     - Ĉu: ¿
-    - ni: Nosotros
-    - revidos: nos veremos de nuevo
-    - nin: el uno al otro
+    - ni: Nosaltres
+    - revidos: ens veurem de nou
+    - nin: l'un a l'altre
     - ',' 
-    - kie: donde
-    - ajn: sea
-    - kaj: y
-    - kiam: cuando
-    - ajn: sea
+    - kie: on
+    - ajn: sigui
+    - kaj: i
+    - kiam: quan
+    - ajn: sigui
     - '?'
 - 
-  demando: ¿Cuándo devolveré la otra mitad de los libros?
+  demando: Quan tornaré l'altra meitad dels llibres?
   rektatraduko: 
-    - Kiam: Cuándo
-    - mi: yo
-    - redonos: devolveré
+    - Kiam: Quan
+    - mi: jo
+    - redonos: tornaré
     - la: la
-    - alian: otra
-    - duonon: mitad
+    - alian: altra
+    - duonon: meitad
     - de: de
-    - la: los
-    - libroj: libros
+    - la: els
+    - libroj: llibres
     - '?'
 - 
-  demando: ¿Necesitarás más de un cuarto de año para esos trabajos?
+  demando: Necessitaràs més d'un quart d'any per a aquells treballs?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - bezonos: necesitarás
-    - pli: más
+    - vi: Tu
+    - bezonos: necessitaràs
+    - pli: més
     - ol: de
-    - kvaronan: un cuarto de
-    - jaron: año
-    - por: para
-    - tiuj: esos
-    - laboroj: trabajos
+    - kvaronan: un quart de
+    - jaron: any
+    - por: per a
+    - tiuj: aquells
+    - laboroj: treballs
     - '?'
 - 
-  demando: ¿Por qué cuanto más frío hace, más tiempo esperamos?
+  demando: Per què quan més fred fa, més temps esperem?
   rektatraduko: 
-    - Kial: Por qué
-    - ju: cuanto
-    - pli: más
-    - malvarme: frío
-    - estas: hace
+    - Kial: Per què
+    - ju: quan
+    - pli: més
+    - malvarme: fred
+    - estas: fa
     - ',' 
-    - des: tanto
-    - pli: más
-    - longe: tiempo
-    - ni: nosotros
-    - atendas: esperamos
+    - des: tant
+    - pli: més
+    - longe: temps
+    - ni: nosaltres
+    - atendas: esperem
     - '?'
 - 
-  demando: ¿Podrías ser feliz con un hombre cualquiera?
+  demando: Podries ser feliç amb un home qualsevol?
   rektatraduko: 
     - Ĉu: ¿
-    - vi: Tú
-    - estus: serías
-    - feliĉa: feliz
-    - kun: con
-    - iu: algún
-    - ajn: cualquier
-    - viro: hombre
+    - vi: Tu
+    - estus: series
+    - feliĉa: feliç
+    - kun: amb
+    - iu: algú
+    - ajn: qualsevol
+    - viro: home
     - '?'

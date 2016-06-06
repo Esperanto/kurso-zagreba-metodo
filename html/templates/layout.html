@@ -100,7 +100,7 @@
 
           <form class="navbar-form navbar-left">
             <select id="lingvoelektilo" class="form-control">
-              {% for lingvoKodo, lingvoNomo in enhavo.lingvoj.iteritems()|sort %}
+              {% for (lingvoKodo, lingvoNomo) in enhavo.lingvoj %}
                 <option value="{{lingvoKodo}}"
                 {% if lingvoKodo == enhavo.lingvo %}  
                   selected

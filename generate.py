@@ -158,31 +158,32 @@ ap.add_argument(
 
 args = ap.parse_args()
 
-lingvoj = {
-  'de': u'Deutsch',
-  'en': u'English',
-  'fr': u'Français',
-  'es': u'Español',
-  'ms': u'Bahasa Melayu',
-  'th': u'ไทย',
-  'zh': u'中文',
-  'ar': u'(test: araba)',
-  'ca': u'(test: kataluna)',
-  'frp': u'(test: arpitana)',
-  'pt': u'(test: portugala)',
-  'uk': u'(test: ukraina)',
-  'nl': u'(test: nederlanda)',# Nederlands  
-  'tr': u'(test: turka)' # Türkçe 
-}
+lingvoj = [
+  ('de', u'Deutsch'),
+  ('en', u'English'),
+  ('fr', u'Français'),
+  ('es', u'Español'),
+  ('ms', u'Bahasa Melayu'),
+  ('th', u'ไทย'),
+  ('zh', u'中文'),
+  ('ar', u'(test: araba)'),
+  ('ca', u'(test: kataluna)'),
+  ('frp', u'(test: arpitana)'),
+  ('pt', u'(test: portugala)'),
+  ('uk', u'(test: ukraina)'),
+  ('nl', u'(test: nederlanda)'), # Nederlands  
+  ('tr', u'(test: turka)') # Türkçe 
+]
 
 if args.lingvo:
-    if args.lingvo not in lingvoj.keys():
-        sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
+    #if args.lingvo not in lingvoj.keys():
+    #    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
     enhavo = load(args.lingvo)
     enhavo['lingvoj'] = lingvoj
     generate_html(args.lingvo, enhavo, args)
 else:
-    for lingvo in lingvoj:
+    for lingvo_tuple in lingvoj:
+        lingvo = lingvo_tuple[0]
         enhavo = load(lingvo)
         enhavo['lingvoj'] = lingvoj
         generate_html(lingvo, enhavo, args)

@@ -1,77 +1,77 @@
 - 
-  demando: Qui avait le livre que vous attendiez depuis plus de deux ans ?
+  demando: Хто мав книгу, яку ви чекали більш ніж два роки ?
   rektatraduko: 
-    - Kiu: Qui
-    - havis: avait
-    - la: le
-    - libron: livre
+    - Kiu: Хто
+    - havis: мав
+    - la: означений артикль
+    - libron: книгу
     - ',' 
-    - kiun: que
-    - vi: vous
-    - atendis: attendiez
-    - pli: plus 
-    - ol: de
-    - du: deux
-    - jarojn: ans
+    - kiun: яку
+    - vi: ви
+    - atendis: чекали
+    - pli: більш
+    - ol: ніж
+    - du: два
+    - jarojn: роки
     - '?'
 - 
-  demando: Est-ce que vous voulez que je vous montre ma photo la plus chère ?
+  demando: Чи ви хочете, що я показую вам мою найбільш дорогу світлину ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - volas: voulez
+    - Ĉu: Чи
+    - vi: ви
+    - volas: хочете
     - ','
-    - ke: que
-    - mi: je
-    - montras: montre
-    - al: à 
-    - vi: vous
-    - mian: ma
-    - plej: plus
-    - karan: chère
-    - foton: photo
+    - ke: що
+    - mi: я
+    - montras: показую
+    - al: прийменник, що утворює давальний відмінок
+    - vi: вам
+    - mian: мою
+    - plej: найбільш
+    - karan: дорогу
+    - foton: світлину
     - '?'
 - 
-  demando: Où avez-vous acheté ce vêtement ?
+  demando: Де ви купили той одяг ?
   rektatraduko: 
-    - Kie: Où
-    - vi: vous
-    - aĉetis: avez acheté
-    - tiun: ce
-    - vestaĵon: vêtement
+    - Kie: Де
+    - vi: ви
+    - aĉetis: купили
+    - tiun: той
+    - vestaĵon: одяг
     - '?'
 - 
-  demando: "Où irez-vous dimanche si c'est (litt. ce sera) une journée ensoleillée ?"
+  demando: "Куди ви підете в неділю, якщо буде сонячний день ?"
   rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - dimanĉe: dimanche
+    - Kien: Куди
+    - vi: ви
+    - iros: підете
+    - dimanĉe: в неділю
     - ',' 
-    - se: si
-    - estos: ce sera
-    - suna: ensoleillée
-    - tago: journée
+    - se: якщо
+    - estos: буде
+    - suna: сонячний
+    - tago: день
     - '?'
 - 
-  demando: Est-ce que fon frère est déjà parti ?
+  demando: Чи твій брат вже вирушив ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - via: ton
-    - frato: frère
-    - jam: déjà
-    - ekiris: est parti
+    - Ĉu: Чи
+    - via: твій
+    - frato: брат
+    - jam: вже
+    - ekiris: вирушив
     - '?'
 - 
-  demando: "Où est l'eau que vous avez vous-même apportée ?"
+  demando: "Де є вода яку ви самі принесли ?"
   rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - la: "l'"
-    - akvo: eau
+    - Kie: Де
+    - estas: є
+    - la: "означений артикль"
+    - akvo: вода
     - ',' 
-    - kiun: que
+    - kiun: яку
     - vi: vous
-    - mem: vous-même
-    - kunportis: avez apportée
+    - mem: самі
+    - kunportis: принесли
     - '?'

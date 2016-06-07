@@ -1,72 +1,72 @@
 - 
-  demando: Est-ce que vous voulez que je vous montre mon plus récent livre ?
+  demando: Чи ви бажаєте, щоб я показав вам мою найбільш нову книгу (мою найновішу книгу) ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - deziras: voulez
+    - Ĉu: Чи
+    - vi: ви
+    - deziras: бажаєте
     - ',' 
-    - ke: que 
-    - mi: je
-    - montras: montre
-    - al: à
-    - vi: vous
-    - mian: mon
-    - plej: plus
-    - novan: nouveau
-    - libron: livre
+    - ke: щоб
+    - mi: я
+    - montras: показав
+    - al: прийменник, що утворює давальний відмінок
+    - vi: вам
+    - mian: мою
+    - plej: найбільш
+    - novan: нову
+    - libron: книгу
     - '?'
 - 
-  demando: Que voulez-vous demain pour votre petit déjeuner ?
+  demando: Що ви хочете завтра снідати ?
   rektatraduko: 
-    - Kion: Que
-    - vi: vous
-    - volas: voulez
-    - morgaŭ: demain
-    - matenmanĝi: prendre le petit-déjeuner
+    - Kion: Що
+    - vi: ви
+    - volas: хочете
+    - morgaŭ: завтра
+    - matenmanĝi: снідати
     - '?'
 - 
-  demando: Quand Marc arrivera-t-il, à 5 heures ou à 8 heures ?
+  demando: Коли Марко прийде, о п'ятій чи о восьмій годині ?
   rektatraduko: 
-    - Kiam: Quand
-    - Marko: Marc
-    - alvenos: arrivera
+    - Kiam: Коли 
+    - Marko:Марко
+    - alvenos: прийде
     - ',' 
-    - je: à
-    - la: la
-    - kvina: cinquième
-    - aŭ: ou
-    - je: à
-    - la: la
-    - oka: huitième
-    - horo: heure
+    - je: о
+    - la: означений артикль
+    - kvina: п'ятій
+    - aŭ: чи
+    - je: о
+    - la: означений артикль
+    - oka: востмій
+    - horo: годині
     - '?'
 - 
-  demando: "Quand avez-vous remarqué que toute la famille m'appelle bienfaiteur ?"
+  demando: "Коли ви помітили, що вся родина називає мене добродій ?"
   rektatraduko: 
-    - Kiam: Quand
-    - vi: vous
-    - rimarkis: avez remarqué
+    - Kiam: Коли
+    - vi: ви
+    - rimarkis: помітили
     - ','  
-    - ke: que
-    - la: la
-    - tuta: toute
-    - familio: famille
-    - nomas: appelle
-    - min: moi
-    - bonfarulo: bienfaiteur
+    - ke: що
+    - la: означений артикль
+    - tuta: вся
+    - familio: родина
+    - nomas: називає
+    - min: мене
+    - bonfarulo: добродій
     - '?'
 - 
-  demando: "Est-ce que le livret que j'ai envoyé vous a été utile ?"
+  demando: "Чи книжечка була корисна вам, котру я посилав ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - la: le 
-    - libreto: livret
-    - estis: était
-    - utila: utile
-    - al: à
-    - vi: vous
+    - Ĉu: Чи
+    - la: означений артикль
+    - libreto: книжечка
+    - estis: була
+    - utila: корисна
+    - al: прийменник, що утворює давальний відмінок
+    - vi: вам
     - ',' 
-    - kiun: que
-    - mi: je
-    - sendis: ai envoyé
+    - kiun: котру
+    - mi: я
+    - sendis: посилав
     - '?'

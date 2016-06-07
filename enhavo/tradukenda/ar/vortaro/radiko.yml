@@ -216,34 +216,38 @@ pret:
 prezent: يقدم
 problem: مشكلة
 proksim: بجانب
-promen: se promener
-propon: proposer
-prov: essayer
-rajt: avoir le droit de
-rapid: rapide
-raport: rapporter
-real: réél
-rekt: directe
-renkont: rencontrer
-respekt: respecter
-respond: répondre
-rest: rester
-ricev: recevoir
-rid: rire
-rigard: regarder
-riĉ: riche
-rol: rôle
-ruĝ: rouge
-salt: sauter
-salut: salut
-sam: même
-san: santé
-saĝ: sage
-sci: savoir
-sek: sec
-sekret: secret
-sekv: suivre
-semajn: semaine
+promen: 
+  - تنزه
+  - تجول
+propon: عرض
+prov: يحاول
+rajt: الحق في
+rapid: بسرعة
+raport: تقرير
+real: شئ حقيقي
+rekt: مباشرة
+renkont: يلا قي
+respekt: احترام
+respond: إجابة
+rest: يبقي
+ricev: 
+  - تسلم
+  - تلقى
+rid: ضحك
+rigard: شاهد
+riĉ: غني
+rol: دور
+ruĝ: أحمر
+salt: قفز
+salut: سلام
+sam: نفسه
+san: صحة
+saĝ: حكيم
+sci: علم
+sek: جاف
+sekret: سر
+sekv: تابع
+semajn: أسبوع
 send: envoyer
 serĉ: chercher
 si: pronom réfléchi

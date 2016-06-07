@@ -1,75 +1,75 @@
 - 
-  demando: "Qu'est-ce qui pourrait le plus réjouir tes parents ?"
+  demando: "Що могло би найбільш порадувати твоїх батьків ?"
   rektatraduko: 
-    - Kio: Quoi
-    - povus: pourrait
-    - plej: le plus
-    - ĝojigi: réjouir
-    - viajn: tes
-    - gepatrojn: parents
+    - Kio: Що
+    - povus: могло би
+    - plej: найбільш
+    - ĝojigi: порадувати
+    - viajn: твоїх
+    - gepatrojn: батьків
     - '?'
 - 
-  demando: "Si au moins allais après l'école avec moi au centre-ville !"
+  demando: "Якщо хоча б ти після навчання пішов би зі мною в центр міста !"
   rektatraduko: 
-    - Se: Si
-    - almenaŭ: au moins
-    - vi: tu
-    - post: après
-    - la: "l'"
-    - lernado: école
-    - irus: irais
-    - kun: avec
-    - mi: moi
-    - en: à
-    - la: le 
-    - urbocentron: centre-ville
+    - Se: Якщо 
+    - almenaŭ: хоча б
+    - vi: ти
+    - post: після
+    - la: "означений артикль"
+    - lernado: навчання
+    - irus: пішов би
+    - kun: зі
+    - mi: мною
+    - en: в
+    - la: означений артикль
+    - urbocentron: центр міста
     - '!'
 - 
-  demando: "Où voudrais-tu voyager si tu avais suffisamment d'argent et de temps ?"
+  demando: "Куди ти бажав би подорожувати, якщо ти мав би достатньо грошей і часу ?"
   rektatraduko: 
-    - Kien: Où
-    - vi: tu
-    - dezirus: voudrais
-    - vojaĝi: voyager
+    - Kien: Куди 
+    - vi: ти
+    - dezirus: бажав би
+    - vojaĝi: подорожувати
     - ',' 
-    - se: si
-    - vi: tu
-    - havus: avais (litt. aurais)
-    - sufiĉe: assez
-    - da: de
-    - mono: arget
-    - kaj: et
-    - tempo: temps
+    - se: якщо
+    - vi: ти
+    - havus: мав би
+    - sufiĉe: достатньо
+    - da: прийменник, що позначає міру, кількість
+    - mono: грошей
+    - kaj: і
+    - tempo: часу
     - '?'
 - 
-  demando: Est-ce que tu prévois d'aller à Paris en voiture ou, est-ce-que cela ne semble pas beaucoup mieux, en train ?
+  demando: Чи ти плануєш їхати до Парижу за допомогою автомобіля або чи не здається багато більш добре (набагато краще) за допомогою потяга ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - planas: prévois
-    - veturi: aller
-    - al: à
-    - Parizo: Paris
-    - per: avec
-    - aŭto: voiture
-    - aŭ: ou
-    - ĉu: est-ce-que
-    - ne: ne
-    - ŝajnas: semble
-    - multe: beaucoup
-    - pli: plus
-    - bone: bon
-    - per: par
-    - vagonaro: train
+    - Ĉu: Чи
+    - vi: ти
+    - planas: плануєш
+    - veturi: їхати
+    - al: до
+    - Parizo: Парижу
+    - per: за допомогою
+    - aŭto: автомобіля
+    - aŭ: або
+    - ĉu: чи
+    - ne: не
+    - ŝajnas: здається
+    - multe:багато
+    - pli: більш
+    - bone: добре
+    - per: за допомогою
+    - vagonaro: потяга
     - '?'
 - 
-  demando: Pourquoi différentes personnes expliquent les mêmes idées de façons différentes ?
+  demando: Чому різні люди пояснюють однакові ідеї по різному ?
   rektatraduko: 
-    - Kial: Pourquoi
-    - diversaj: différentes
-    - homoj: personnes
-    - klarigas: expliquent
-    - samajn: mêmes
-    - ideojn: idées
-    - diversmaniere: de façons différentes 
+    - Kial: Чому
+    - diversaj: різні
+    - homoj: люди
+    - klarigas: пояснюють
+    - samajn: однакові
+    - ideojn: ідеї
+    - diversmaniere: по різному 
     - '?'

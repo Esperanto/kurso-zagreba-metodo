@@ -1,86 +1,87 @@
 - 
-  demando: Qui va nettoyer la cuisine après le déjeuner ?
+  demando: Хто почистить (прибере) кухню після обіду ?
   rektatraduko: 
-    - Kiu: Qui
-    - purigos: va nettoyer
-    - la: la
-    - kuirejon: cuisine
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
+    - Kiu: Хто
+    - purigos: почистить
+    - la: означений артикль
+    - kuirejon: кухню
+    - post: після
+    - la: означений артикль
+    - tagmanĝo: обіду
     - '?'
 - 
-  demando: "Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?"
+  demando: "Що ти хочеш пити : чай, трошки кави або чи ти хочеш нічого (нічого не хочеш) ?"
   rektatraduko: 
-    - Kion: Que, quoi
-    - vi: tu
-    - volas: veux
-    - trinki: boire
+    - Kion: Що 
+    - vi: ти
+    - volas: хочеш
+    - trinki: пити
     - ':' 
-    - teon: du thé
+    - teon: чай
     - ',' 
-    - iom: un peu 
-    - da: de
-    - kafo: café
-    - aŭ: ou
-    - ĉu: est-ce que
-    - vi: tu
-    - volas: veux
-    - nenion: rien
+    - iom: трошки
+    - da: прийменник, що позначає міру, кількість
+    - kafo: кави
+    - aŭ: або
+    - ĉu: чи
+    - vi: ти
+    - volas: хочеш
+    - nenion: нічого
+    
     - '?'
 - 
-  demando: Pourquoi as-tu si soudainement décider de rénover ta petite chambre ?
+  demando: Чому ти так раптово вирішив оновити твою кімнатку ?
   rektatraduko: 
-    - Kial: Pourquoi
-    - vi: tu
-    - tiel: ainsi, si
-    - subite: soudainement
-    - decidis: as décidé
-    - renovigi: rénover
-    - vian: ta
-    - ĉambreton: petite chambre
+    - Kial: Чому
+    - vi: ти
+    - tiel: так
+    - subite: раптово
+    - decidis: вирішив
+    - renovigi: оновити
+    - vian: твою
+    - ĉambreton: кімнатку
     - '?'
 - 
-  demando: À qui as-tu donnée les verres à vin propres ?
+  demando: Кому ти дав чисті склянки для вина ?
   rektatraduko: 
-    - al: À
-    - kiu: qui
-    - vi: tu
-    - donis: as donné
-    - la: les
-    - purajn: propres
-    - glasojn: verres
-    - por: pour 
-    - la: le
-    - vino: vin
+    - al: прийменник, що утворює давальний відмінок
+    - kiu: кому
+    - vi: ти
+    - donis: дав
+    - la: означений артикль
+    - purajn: чисті
+    - glasojn: склянки
+    - por: для 
+    - la: означений артикль
+    - vino: вина
     - '?'
 - 
-  demando: Contre qui ton club de sports a joué il y a deux semaines ?
+  demando: Проти кого грав твій спортивний клуб перед двома тижнями ?
   rektatraduko: 
-    - Kontraŭ: Contre
-    - kiu: qui
-    - ludis: a joué
-    - via: ton
-    - sportklubo: club de sports
-    - antaŭ: avant
-    - du: deux
-    - semajnoj: semaines
+    - Kontraŭ: Проти
+    - kiu: кого
+    - ludis: грав
+    - via: твій
+    - sportklubo: спортивний клуб
+    - antaŭ: перед
+    - du: двома
+    - semajnoj: тижнями
     - '?'
 - 
-  demando: "Est-ce que tu vois souvent le policier qui habite dans l'appartement au-dessus de toi ?"
+  demando: "Чи ти часто бачиш поліцейського, котрий проживає в помешканні над тобою ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - ofte: souvent
-    - vidas: vois
-    - la: le
-    - policiston: policier
+    - Ĉu: Чи
+    - vi: ти
+    - ofte: часто
+    - vidas: бачиш
+    - la: означений артикль
+    - policiston: поліцейського
     - ',' 
-    - kiu: qui
-    - loĝas: habite
-    - en: dans 
-    - la: "l'"
-    - loĝejo: appartement
-    - super: au-dessus de
-    - vi: toi
+    - kiu: котрий
+    - loĝas: проживає
+    - en: в 
+    - la: "означений артикль"
+    - loĝejo: помешканні
+    - super: над
+    - vi: тобою
     - '?'

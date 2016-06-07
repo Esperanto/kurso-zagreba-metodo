@@ -1,10 +1,13 @@
-kio: qui
-tio: 
-- celui
-- qui
-io: quelque chose
-ĉio: tout
-nenio: rien
+kio: 
+  - ما
+  - ماذا
+  - الذي
+tio: ذلك
+io: شيء ما
+ĉio: 
+  - كل
+  - كل شئ
+nenio: لا شىء
 kiu: qui
 tiu: cette personne
 iu: "quelqu'un"

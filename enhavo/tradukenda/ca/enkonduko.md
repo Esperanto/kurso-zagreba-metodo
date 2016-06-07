@@ -1,12 +1,12 @@
-- Te enseña las **500 palabras más importanes**
-- **No hace falta registrarse**: solo haz clic en *Empezar*
-- **Acceso optimizado** para teléfonos móviles
-- No solo es gratis, sino que además **[se puede utilizar en otros proyectos](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- T'ensenya les **500 paraules més importants**
+- **No cal registrar-se**: només fes clic a *Començar*
+- **Accés optimitzat** per a telèfons mòbils
+- No només és de franc, sinò que a més **[es pot utilitzar en altres projectes](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-El curso tiene **12 lecciones**, cada una con:
+El curs té **12 lliçons**, cadascuna amb:
 
-- un texto
-- una explicación gramatical
-- y 3 ejercicios
+- un text
+- una explicació gramatical
+- i 3 exercissis
 
-Después de haber completado el curso, podrás entender las cosas más importantes y formar oraciones para expresarte. ¡Solo pruébalo!
+Després d'haver completat el curs, podràs entendre les coses més importants i formar oracions per expressar-te. ¡Tan sols prova-ho!

@@ -1,51 +1,51 @@
 - 
-  demando: "Est-ce que l'amitié te rend plus heureux que l'amour ?"
+  demando: "Чи дружба більш ощасливлює тебе ніж кохання ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - amikeco: amitié
-    - pli: plus
-    - feliĉigas: rend heureux
-    - vin: toi
-    - ol: que
-    - la: "l'"
-    - amo: amour
+    - Ĉu: Чи
+    - amikeco: дружба
+    - pli: більш
+    - feliĉigas: ощасливлює
+    - vin: тебе
+    - ol: ніж
+    - la: "означений артикль'"
+    - amo: кохання
     - '?'
 - 
-  demando: À quelle fréquence écris-tu des lettres à tes amies en Italie ?
+  demando: Як часто ти пишеш листи до твоїх друзів (твоїм друзям) в Італії ?
   rektatraduko: 
-    - Kiel: Comment
-    - ofte: souvent
-    - vi: tu
-    - skribas: écris
-    - leterojn: des lettres
-    - al: à
-    - viaj: tes
-    - amikinoj: amies
-    - en: en
-    - Italio: Italie
+    - Kiel: Як
+    - ofte: часто
+    - vi: ти
+    - skribas: пишеш
+    - leterojn: листи
+    - al: до
+    - viaj: твоїх
+    - amikinoj: друзів
+    - en: в
+    - Italio: Італії
     - '?'
 - 
-  demando: Est-ce que la relation entre toi et tes professeurs ont changé ?
+  demando: Чи відношення між тобою і твоїм учителем помінялось ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - la: la
-    - rilato: relation
-    - inter: entre
-    - vi: toi
-    - kaj: et
-    - via: ton
-    - instruisto: professeur
-    - ŝanĝiĝis: a changé
+    - Ĉu: Чи
+    - la: означений артикль
+    - rilato: відношення
+    - inter: між
+    - vi: тобою
+    - kaj: і
+    - via: твоїм
+    - instruisto: вчителем
+    - ŝanĝiĝis: помінялось
     - '?'
 - 
-  demando: "Est-ce maintenant que tu connais déjà assez bien l'espéranto ?"
+  demando: "Чи ти зараз вже знаєш есперанто достатньо добре ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - nun: maintenant
-    - jam: déjà
-    - scias: connais
-    - Esperanton: "l'espéranto"
-    - sufiĉe: assez
-    - bone: bien
+    - Ĉu: Чи
+    - vi: ти
+    - nun: зараз
+    - jam: вже
+    - scias: знаєш
+    - Esperanton: "есперанто"
+    - sufiĉe: достатньо
+    - bone: добре
     - '?'

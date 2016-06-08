@@ -1,57 +1,56 @@
 - 
-  demando: Quem é a tua amiga?
+  demando: Who is your girl-friend?
   rektatraduko:
-    - Kiu: Quem
-    - estas: é
-    - via: tua
-    - amikino: namorada
+    - Kiu: Who
+    - estas: is
+    - via: your
+    - amikino: girl-friend
     - '?'
 - 
-  demando: Tua amiga Anna está escrevendo no quarto?
+  demando: Is your friend Anna now writing in the room?
   rektatraduko:
-    - Ĉu: Pergunta
-    - via: tua
-    - amikino: amiga
+    - Ĉu: Whether
+    - via: your
+    - amikino: friend
     - Anna: Anna
-    - skribas: escreve
-    - nun: agora
-    - en: em
-    - la: o 
-    - ĉambro: quarto
+    - skribas: writes
+    - nun: now
+    - en: in
+    - la: the 
+    - ĉambro: room
     - '?'
 - 
-  demando: O amigo do teu pai trabalha em um hotel?
+  demando: Does the friend of your father work in a hotel?
   rektatraduko:
-    - Ĉu: Pergunta
-    - la: o
-    - amiko: amigo
-    - de: de
-    - via: teu
-    - patro: pai
-    - laboras: trabalha
-    - en: em
+    - Ĉu: Whether
+    - la: the
+    - amiko: friend
+    - de: of
+    - via: your
+    - patro: father
+    - laboras: works
+    - en: in
     - hotelo: hotel
     - '?'
 - 
-  demando: O que está sobre a mesa em nosso quarto?
+  demando: What is on the work-bench in our room?
   rektatraduko:
-    - Kio: O que
-    - estas: está
-    - sur: sobre
-    - la: a
-    - labortablo: mesa
-    - en: em
-    - nia: nosso
-    - ĉambro: quarto
+    - Kio: What 
+    - estas: is
+    - sur: 'on'
+    - la: the
+    - labortablo: work-bench
+    - en: in
+    - nia: our
+    - ĉambro: room
     - '?'
 - 
-  demando: Há um livro de esperanto na tua mesa?
+  demando: Is there an Esperanto textbook on your table?
   rektatraduko:
-    - Ĉu: Pergunta
-    - Esperanto-lernolibro: livro de esperanto
-    - estas: está
-    - sur: sobre
-    - via: tua
-    - tablo: mesa
+    - Ĉu: Whether
+    - Esperanto-lernolibro: Esperanto textbook
+    - estas: is
+    - sur: 'on'
+    - via: your 
+    - tablo: table
     - '?'
-

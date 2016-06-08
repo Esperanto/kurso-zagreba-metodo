@@ -9,4 +9,4 @@ El curs té **12 lliçons**, cadascuna amb:
 - una explicació gramatical
 - i 3 exercissis
 
-Després d'haver completat el curs, podràs entendre les coses més importants i formar oracions per expressar-te. ¡Tan sols prova-ho!
+Després d'haver completat el curs, podràs entendre les coses més importants i formar oracions per expressar-te. Vinga, prova-ho!

@@ -8,7 +8,7 @@
     - hejmo: casa 
     - '?'
 - 
-  demando: Quais livros você leu, e eles são bons?
+  demando: Quais livros você leu e acaso eles são bons?
   rektatraduko: 
     - Kiujn: Quais 
     - librojn: livros
@@ -21,14 +21,14 @@
     - bonaj: bons 
     - '?'
 - 
-  demando: "O que Ana e Marcos faziam no pequeno quarto de Marcos?"
+  demando: "O que Anna e Marcos faziam no pequeno quarto de Marcos?"
   rektatraduko:
     - Kion: O que
     - faris: faziam
-    - Anna: Ana
+    - Anna: Anna
     - kaj: e
-    - Marko: Marcos
-    - en: "em" 
+    - Marko: Marko
+    - en: em
     - la: o
     - malgranda: pequeno
     - ĉambro: quarto
@@ -36,14 +36,14 @@
     - Marko: Marcos
     - '?'
 - 
-  demando: Você gosta de ler livros sobre o amor?
+  demando: Acaso você gosta de ler livros sobre o amor?
   rektatraduko: 
     - Ĉu: Acaso
     - vi: você
     - ŝatas: gosta de
     - legi: ler
     - librojn: livros
-    - pri: sobre o
+    - pri: sobre 
     - amo: amor
     - '?'
 - 

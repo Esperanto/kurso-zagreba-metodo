@@ -7,20 +7,20 @@
     - amikino: amiga
     - '?'
 - 
-  demando: A tua amiga Ana está escrevendo agora no quarto?
+  demando: Acaso a tua amiga Ana está escrevendo agora no quarto?
   rektatraduko:
     - Ĉu: Acaso
     - via: tua
     - amikino: amiga
-    - Anna: Ana
+    - Anna: Anna
     - skribas: está escrevendo
     - nun: agora
-    - en: "em"
+    - en: em
     - la: o 
     - ĉambro: quarto
     - '?'
 - 
-  demando: Um amigo do teu pai trabalha num hotel?
+  demando: Acaso o amigo do teu pai trabalha num hotel?
   rektatraduko:
     - Ĉu: Acaso
     - la: o
@@ -29,14 +29,14 @@
     - via: teu
     - patro: pai
     - laboras: trabalha
-    - en: num
+    - en: em
     - hotelo: hotel
     - '?'
 - 
-  demando: O que há sobre a escrivaninha no nosso quarto?
+  demando: O que está sobre a escrivaninha no nosso quarto?
   rektatraduko:
     - Kio: O que 
-    - estas: há
+    - estas: está
     - sur: sobre
     - la: a
     - labortablo: escrivaninha
@@ -45,12 +45,12 @@
     - ĉambro: quarto
     - '?'
 - 
-  demando: Há um livro de Esperanto em cima da tua mesa?
+  demando: Acaso está um livro didático de Esperanto sobre tua mesa?
   rektatraduko:
     - Ĉu: Acaso
-    - Esperanto-lernolibro: um livro de Esperanto
+    - Esperanto-lernolibro: livro didático de Esperanto
     - estas: está
-    - sur: em cima da
+    - sur: sobre
     - via: tua 
     - tablo: mesa
     - '?'

@@ -1,56 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: Quem é a tua amiga?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Quem
+    - estas: é
+    - via: a tua
+    - amikino: amiga
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: A tua amiga Ana está escrevendo agora no quarto?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - Ĉu: Acaso
+    - via: tua
+    - amikino: amiga
+    - Anna: Ana
+    - skribas: está escrevendo
+    - nun: agora
+    - en: "em"
+    - la: o 
+    - ĉambro: quarto
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Um amigo do teu pai trabalha num hotel?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
+    - Ĉu: Acaso
+    - la: o
+    - amiko: amigo
+    - de: do
+    - via: teu
+    - patro: pai
+    - laboras: trabalha
+    - en: num
     - hotelo: hotel
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: O que há sobre a escrivaninha no nosso quarto?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: O que 
+    - estas: há
+    - sur: sobre
+    - la: a
+    - labortablo: escrivaninha
+    - en: no
+    - nia: nosso
+    - ĉambro: quarto
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Há um livro de Esperanto em cima da tua mesa?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: Acaso
+    - Esperanto-lernolibro: um livro de Esperanto
+    - estas: está
+    - sur: em cima da
+    - via: tua 
+    - tablo: mesa
     - '?'
+

@@ -1,14 +1,20 @@
-- eniri: entrar 
+- eniri: entrar
 - enhavo: conteúdo
 - kunsido: reunião
-- malbona: ruim
-- kunveno: convenção
+- malbona:
+	- ruim
+	- mau
+- kunveno: reunião
 - malfacila: difícil
-- maljuna: idoso
-- gepatroj: pais
+- maljuna: velho
+- gepatroj:
+	- pais
+	- pai e mãe
 - alveni: chegar
-- bonvena: bem vindo
-- gefratoj: irmãos
+- bonvena: bem-vindo
+- gefratoj:
+	- irmãos
+	- irmão(s) e irmã(s)
 - trinkmono: gorjeta
 - malami: odiar
-- kunlabori: cooperar
+- kunlabori: colaborar

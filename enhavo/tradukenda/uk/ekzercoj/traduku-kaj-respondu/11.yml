@@ -1,54 +1,54 @@
 - 
-  demando: Pouvez-vous apporter le médicament de ma soeur ?
+  demando: Чи ви можете захопити ліки моєї сестри ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - povas: pouvez
-    - kunporti: apporter
-    - la: le
-    - sanigilon: médicament
-    - de: de
-    - mia: ma
-    - fratino: sœur
+    - Ĉu: Чи
+    - vi: ви
+    - povas: можете
+    - kunporti: захопити
+    - la: означений артикль
+    - sanigilon: ліки
+    - de: прийменник, що утворює родовий відмінок
+    - mia: моєї
+    - fratino: сестри
     - '?'
 - 
-  demando: Quand as-tu acheté cet instrument de musique ?
+  demando: Коли ти купив той музичний інструмент ?
   rektatraduko: 
-    - Kiam: Quand
-    - vi: tu
-    - aĉetis: as acheté
-    - tiun: ce, cet
-    - muzikilon: instrument de musique
+    - Kiam: Коли
+    - vi: ти
+    - aĉetis: купив
+    - tiun: той
+    - muzikilon: музичний інструмент
     - '?'
 - 
-  demando: Qui a utilisé ma clé dernièrement ?
+  demando: Хто востаннє використовував мій ключ ?
   rektatraduko: 
-    - Kiu: Qui
-    - laste: dernièrement
-    - uzis: a utilisé
-    - mian: ma
-    - ŝlosilon: clé
+    - Kiu: Хто
+    - laste: востаннє
+    - uzis: використовував
+    - mian: мій
+    - ŝlosilon: ключ
     - '?'
 - 
-  demando: Vous êtes-vous déplacés à Venise en gondole aussi ?
+  demando: Чи ви у Венеції їхали також за допомогою гондоли ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - en: à, dans
-    - Venecio: Venise
-    - veturis: êtes déplacés
-    - ankaŭ: aussi
-    - per: en
-    - gondolo: gondole
+    - Ĉu: Чи
+    - vi: ви
+    - en: у
+    - Venecio: Венеції
+    - veturis: їхалиs
+    - ankaŭ: також
+    - per: за допомогою
+    - gondolo: гондоли
     - '?'
 - 
-  demando: "Est-ce que pourra t'endormir quand ce sera silencieux ?"
+  demando: "Чи ти могтимеш заснути, коли замовкли ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - povos: pourras
-    - ekdormi: "[t'] endormir"
+    - Ĉu: Чи
+    - vi: ти
+    - povos: могтимеш
+    - ekdormi: "заснути"
     - ',' 
-    - kiam: quand 
-    - silentiĝis: "ce sera silencieux (litt. c'est devenu silencieux)"
+    - kiam: коли 
+    - silentiĝis: "замовкли"
     - '?'

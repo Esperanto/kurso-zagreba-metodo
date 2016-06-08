@@ -1,68 +1,68 @@
 - 
-  demando: "Est-ce qu'on se reverra, à un moment et quelque part ?"
+  demando: "Чи ми побачимо нас (Чи ми побачимось)де завгодно і коли завгодно ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - ni: nous
-    - revidos: reverrons
-    - nin: nous
+    - Ĉu: Чи
+    - ni: ми
+    - revidos: побачимо
+    - nin: нас
     - ',' 
-    - kie: quand
-    - ajn: "n'importe"
-    - kaj: et
-    - kiam: où
-    - ajn: "n'importe"
+    - kie: де
+    - ajn: "завгодно"
+    - kaj: і
+    - kiam: коли
+    - ajn: "завгодно"
     - '?'
 - 
-  demando: "Quand récupèrerai-je de nouveau l'autre moitié des livres ?"
+  demando: "Коли я знову отримуватиму іншу половину книжок ?"
   rektatraduko: 
-    - Kiam: Quand
-    - mi: je 
-    - rericevos: récupèrerai
-    - la: "l'"
-    - alian: autre
-    - duonon: moitié
-    - de: de
-    - la: les
-    - libroj: livres
+    - Kiam: Коли
+    - mi: я 
+    - rericevos: знову отримуватиму
+    - la: "означений артикль'"
+    - alian: іншу
+    - duonon: половину
+    - de: прийменник, що утворює родовий відмінок
+    - la: означений артикль
+    - libroj: книг
     - '?'
 - 
-  demando: "Est-ce que vous aurez besoin de plus d'un trimestre pour ces travaux ?"
+  demando: "Чи ви потребуватимете більш ніж чверть року для тих робіт ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - bezonos: aurez besoin
-    - pli: plus
-    - ol: de
-    - kvaronan: un quart
-    - jaron: année
-    - por: pour
-    - tiuj: des
-    - laboroj: travaux
+    - Ĉu: Чи 
+    - vi: ви
+    - bezonos: потребуватимете
+    - pli: більш
+    - ol: ніж
+    - kvaronan: чверть
+    - jaron: року
+    - por: для
+    - tiuj: тих
+    - laboroj: робіт
     - '?'
 - 
-  demando: Pourquoi est-ce que plus il fait froid, plus nous attendons longtemps ?
+  demando: Чому є тим більш холодніше, чим більш довго ми чекаємо ?
   rektatraduko: 
-    - Kial: Pourquoi
-    - estas: est
-    - des: des
-    - pli: plus
-    - malvarma: froid
+    - Kial: Чому 
+    - estas: є
+    - des: тим
+    - pli: більш
+    - malvarme: холодніше
     - ',' 
-    - ju: le
-    - pli: plus
-    - longe: longtemps
-    - ni: nous
-    - atendas: attendons
+    - ju: чим
+    - pli: більш
+    - longe: довго
+    - ni: ми
+    - atendas: чекаємо
     - '?'
 - 
-  demando: "Est-ce que tu serais heureuse avec n'importe quel homme ?"
+  demando: "Чи ти була б задоволена з яким завгодно чоловіком ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - estus: serais
-    - kontenta: heureuse
-    - kun: avec
-    - iu: "n'importe"
-    - ajn: quel
-    - viro: homme
+    - Ĉu: Чи
+    - vi: ти
+    - estus: була б
+    - kontenta: задоволена
+    - kun: з
+    - iu: "яким"
+    - ajn: завгодно
+    - viro: чоловіком
     - '?'

@@ -9,4 +9,4 @@ Kursus ini mengandungi **12 perlajaran**, setiap pelajaran disediakan
 - satu penjelasan tatabahasa
 - dan 3 latihan
 
- Setelah anda menamatkan kursus ini, anda boleh membina aya-ayat untuk berkomunikasi denagn penutur Bahasa Esperanto di dunia. Cubalah !
+Setelah anda menamatkan kursus ini, anda boleh membina aya-ayat untuk berkomunikasi denagn penutur Bahasa Esperanto di dunia. Cubalah !

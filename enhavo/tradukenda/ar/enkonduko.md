@@ -5,8 +5,8 @@
 
 Le cours est composé de **12 leçons**, chacune contenant :
 
-- un texte,
-- des explications grammaticales
-- et 3 exercices.
+- نص
+- تفسيرات نحوية
+- و3 تمارين
 
 Après avoir suivi le cours, vous serez capable de comprendre les points les plus importants et de vous exprimer par vous-même en espéranto. L'essayer, c'est l'adopter !

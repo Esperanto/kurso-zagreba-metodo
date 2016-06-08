@@ -1,54 +1,54 @@
-al: a
-anstataŭ: en vez de
+al: a (direcció, destinació)
+anstataŭ: en lloc de
 antaŭ:
-- ante
-- antes de
-- delante de
-apud: cerca de
-da: de (cantidad)
+- davant
+- abans de
+- davant de
+apud: al costat de
+da: de (quantitat)
 de:
 - de
-- desde
+- des de
 dum:
-- durante
-- mediante
-ekde: desde
-ekster: fuera de
-el: de
-en: en
+- durant
+- mentres
+ekde: des de
+ekster: fora de
+el: de (orígen, composició)
+en: 
+- a
+- en
 inter: entre
-je: a* (comodín)
+je: a* (comodí)
 kontraŭ: 
 - contra
 - en contra de
 krom: 
-- además de
-- aparte de (con negación)
-kun: con
-laŭ: según
+- a més de
+- apart de (amb negació)
+kun: amb
+laŭ: segons
 per: 
-- por medio de
-- con
+- per mitjà de
+- amb 
 por:
-- para
-- por
-post: después de
+- per a
+- per
+post: després de
 pri:
-- en cuanto a
-- sobre
+- pel que fa a
+- sobre (temàtica)
 pro:
 - a causa de
-- por
-sen: sin
+- per (degut a)
+sen: sense
 sub:
-- debajo de 
-- debajo
-super: en (encima, no tocando)
-sur: en (encima)
-tra: por
-trans: a través de
-ĉe:
-- en
-- por
-ĉirkaŭ: alrededor de
-ĝis: hasta
+- sota de 
+- sota
+super: sobre (per sobre, sense tocar)
+sur: sobre (a sobre, tocant)
+tra: a través
+trans: travessat/da (a l'altra banda)
+ĉe: a (compartint espai, al costat tocant)
+ĉirkaŭ: al voltant de
+ĝis: fins

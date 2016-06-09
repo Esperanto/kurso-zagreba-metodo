@@ -1,97 +1,83 @@
-kio: qué
-tio: eso
-io: algo
-ĉio: todo
-nenio: nada
+kio: què
+tio: allò
+io: alguna cosa
+ĉio: tot
+nenio: (no) res
 kiu:
-- quién
-- cuál
+- quí
+- qual
 tiu:
-- ese
-- esa
-iu: alguien
+- aquell, aquella
+iu: algú
 ĉiu:
-- cada uno
-- todos
-- todos los
+- cada un
+- cadascú
+- tots
 neniu:
-- ninguno
-- ningún
+- ningú
+- cap (negació d'existència)
 kie:
- - dónde
- - donde
+ - on
 tie:
- - ahí
- - allí
- - allá
+ - allà
 ie:
- - en algún sitio
- - en alguna parte
+ - en algún lloc
 ĉie:
- - en todas partes
- - en todos los sitios
+ - a tot arreu
 nenie:
- - en ninguna parte
- - en ningún sitio
+ - enlloc
+ - a cap lloc
 kia:
- - qué
- - qué tipo de
+ - com (sentit adjectiu, no adverbial)
+ - quin tipus de
 tia:
  - tal
- - ese
-ia: algún tipo de
+ - així (sentit adjectiu, no adverbial)
+ia: algún tipus de
 ĉia:
- - de todos los tipos
- - de todas als clases
+ - de tots els tipus
+ - de totes les classes
 nenia:
- - de ningún tipo
- - de ninguna clase
+ - de cap tipus
+ - de cap classe
 kiel:
- - cómo
- - como
+ - com (sentit adverbial)
 tiel:
- - así
- - tan
+ - així
+ - d'aquesta manera
 iel:
- - de alguna manera
- - de algún modo
+ - d'alguna manera
 ĉiel:
- - de todas maneras
- - de todos modos
+ - de totes les maneres
 neniel:
- - de ninguna manera
- - de ningún modo
-kial: por qué
+ - de cap manera
+kial: per què
 tial:
- - por esa razón
- - por ese motivo
+ - per tal raó
+ - per tal motiu
 ial:
- - por alguna razón
- - por algún motivo
+ - per alguna raó
+ - per algún motiu
 ĉial:
- - por cualquier razón
- - por cualquier motivo
+ - per qualsevol raó
+ - per qualsevol motiu
 nenial:
- - por ninguna razón
- - por ningún motivo
+ - per cap raó
+ - per cap motiu
 kiam:
- - cuándo
- - cuando
-tiam: entonces
-iam: en algún momento
-ĉiam: siempre
-neniam: nunca
-kiom: cuánto
-tiom:
-- tanto
-- tan
-iom: un poco
-ĉiom: todo
-neniom: nada
-kies: de quién
-ties: de ese
-ies: de alguien
-ĉies: de todos
+ - quan
+tiam: llavors, en aquell moment
+iam: en algún moment
+ĉiam: sempre
+neniam: mai
+kiom: quant
+tiom: tant
+iom: una mica, una certa quantitat
+ĉiom: tot (quantitat absoluta)
+neniom: gens, cap quantitat,
+kies: de quí
+ties: d'aquell
+ies: d'algú
+ĉies: de tots
 nenies:
- - de nadie
- - de ninguno
+ - de ningú

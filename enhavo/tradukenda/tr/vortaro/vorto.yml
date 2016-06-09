@@ -1,20 +1,20 @@
 Esperanto: Esperanto
 akcepteblan: kabul edilebiliri, makulu
-alilandaj: yabancı ülkeler
+alilandaj: diğer ülkelere dair olanlar
 alporti: taşıyıp getirmek
 alportis: taşıyıp getirdi
 alvenigas: buraya getirtiyor
 alvenis: geldi
 alvenos: gelecek
-amikino: (kız) arkadaş
-amikinon: (kız) arkadaşı
+amikino: kız arkadaş
+amikinon: kız arkadaşı
 amletero: aşk mektubu
 antaŭeniris: 
 - ilerledi
 - yola devam etti
 arbaro: orman
 arbetoj: çalılar
-arboplena: ağaçlarla dolu
+arboplena: ağaçlarla dolu olan
 aĉetumos: alışveriş yapacak
 aĉodora: kötü kokan
 aŭdiĝis: duyuldu
@@ -27,9 +27,10 @@ bonvolu: lütfen
 bonvolus: 
 - ... yapar mıydınız? 
 - ... nezaketini gösterir miydiniz?
+- ... lütfeder miydiniz?
 centoj: yüzlerce
 dankon: teşekkürler
-daŭrigis: devam etti
+daŭrigis: devam ettirdi
 denove: yeniden
 devojiĝis: yoldan saptı
 dikiĝi: şişmanlamak
@@ -52,7 +53,7 @@ ekrigardis: bakmaya başladı
 eksaltis: zıplamaya başladı
 ekscii: öğrenmek
 eksidis: oturdu
-ekstervoje: ???
+ekstervoje: yoldışında şekilde
 ekveturas: yola çıkıyor   
 ekvidis: görmeye başladı  
 elstaraj: seçkin olanlar
@@ -68,7 +69,9 @@ fine: sonunda
 foresti: uzakta olmak
 foriros: uzaklaşacak
 fratino: kız kardeş
-fuŝparolis: yanlış konuştu
+fuŝparolis: 
+- yanlış konuştu
+- hatalı konuştu
 geamikoj: arkadaşlar
 gefratoj: kardeşler
 gelernantojn: öğrenciler
@@ -89,13 +92,13 @@ industriisto: fabrikatör
 instruistino: bayan öğretmen
 instruiston: öğretmeni
 intervidiĝas: birbirini görüyorlar
-iron: yürümryi
+iron: yürümeyi
 junulino: genç kadın
 junulinoj: genç kadınlar
 junulinon: genç kadını
-junuloj: gençleri
-kafejo: kahvehane 
-kafejon: jahvehaneyi
+junuloj: gençler
+kafejo: kahvehane, cafe 
+kafejon: kahvehaneyi, cafeyi
 karulino: sevgili kadın
 karulo: sevgili erkek
 klarigis: 
@@ -104,7 +107,7 @@ klarigis:
 klarigon: açıklamayı
 klubanoj: kulüp üyeleri
 kompreneble: 
-- anlaşıldığı üzere, 
+- anlaşıldığı üzere
 - tabi ki 
 korpoforton: beden gücünü
 kunmanĝos: birlikte yiyecekler
@@ -136,7 +139,7 @@ malfacile: zor şekilde
 malfeliĉo: mutsuzluk
 malforta: güçsüz
 malforte: güçsüzce
-malfruas: gaç kalıyor
+malfruas: geç kalıyor
 malfrue: geç olarak
 malfrui: geç kalmak 
 malgranda: küçük
@@ -203,7 +206,7 @@ pasigos:
 - bir zamanı harcayacak
 patrino: anne
 perdigis: kaybettirdi
-plenigadis: ???
+plenigadis: doldurup durdu
 plenumis: yerine getirdi
 plibeligis: güzelleştirdi
 plimulto: çoğunluk
@@ -224,7 +227,9 @@ ridetis: gülümsedi
 rideto: gülümseme
 riĉeco: zenginlik
 riĉulo: zengin kişi
-salton: atlamayı
+salton: 
+- atlamayı
+- zıplamayı
 saluton: selam, merhaba
 samklubanoj: 
 - kulüpdaşlar
@@ -236,9 +241,7 @@ seninterese: ilgisizce
 senkolora: renksiz
 sensukcese: başarısızca
 sentimulo: kurkusuz kişi
-senvorte: 
-- kelimesizce
-- tek kelime etmeden
+senvorte: tek kelime etmeden
 sinjorinoj: hanımefendiler
 sinjorinon: hanımefendiyi
 skribotablo: yazı masası

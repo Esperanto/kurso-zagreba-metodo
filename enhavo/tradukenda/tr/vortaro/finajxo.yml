@@ -1,11 +1,11 @@
-a:  Sıfat
-e:  Zarf
-i:  Fiil mastar
-n:  Akuzatif durumu
-o:  İsim
-j:  Çoğul
-u:  Fiil emir 
-is: Fiil geçmiş zaman
-as: Fiil şimdiki zaman
-os: Fiil gelecek zaman
-us: Fiil şartlı zaman
+a:  Sıfat eki
+e:  Zarf eki
+i:  Fiil mastar formu eki
+n:  Akuzatif durumu eki
+o:  İsim eki
+j:  Çoğul eki
+u:  Fiil emir eki 
+is: Fiil geçmiş zaman eki
+as: Fiil şimdiki zaman eki
+os: Fiil gelecek zaman eki
+us: Fiil şartlı zaman/dilek kipi eki

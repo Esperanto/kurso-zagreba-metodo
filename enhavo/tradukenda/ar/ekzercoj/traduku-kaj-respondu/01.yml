@@ -9,15 +9,15 @@
 - 
   demando:  هل صدقتك انا تكتب الآن في الغرفة ?
   rektatraduko:
-    - Ĉu: Est-ce que
-    - via: ton
-    - amikino: amie
-    - Anna: Anna
-    - skribas: écrit
-    - nun: maintenant
-    - en: dans
-    - la: la 
-    - ĉambro: chambre
+    - Ĉu: هل
+    - via: ك
+    - amikino: صديقة
+    - Anna: انا
+    - skribas: تكتب
+    - nun: الآن
+    - en: في
+    - la: ال 
+    - ĉambro: غرفة
     - '?'
 - 
   demando: "Est-ce que l'ami de ton père travaille dans un hôtel ?"

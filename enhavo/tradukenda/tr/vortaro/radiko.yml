@@ -19,7 +19,9 @@ aĉet: satın almak
 aŭd: duymak
 aŭt: araba
 aŭtoritat: otorite
-bedaŭr: pişman olmak; esefle karşılamak
+bedaŭr: 
+- pişman olmak
+- esefle karşılamak
 bel: güzel
 best: hayvan
 bezon: ihtiyaç duymak
@@ -30,19 +32,25 @@ bon: iyi
 branĉ: dal
 bru: gürültü
 buŝ: ağız
-cert: kesin; emin olmak
+cert: 
+- kesin
+- emin olmak
 dank: teşekkür etmek
 daŭr: devam etmek
 decid: karar vermek
 demand: sormak
 dev: zorunda olmak
-dezir: dilemek, arzu etmek
+dezir: 
+- dilemek
+- arzu etmek
 diabl: şeytan
 dik:
 - kalın
 - şişman
 dimanĉ: Pazar
-dir: söylemek, demek
+dir: 
+- söylemek
+- demek
 direkt: yön
 doktor: doktor
 dolar: dolar
@@ -53,26 +61,28 @@ dolĉ: tatlı
 dom: ev
 don: vermek
 dorm: uyku
-doĝ: doc?
+doĝ: eski venedik başkanı
 edz: koca
 efektiv: gerçekte
 ekskurs: gezinti
 esper: ummak, umut etmek
-est: olmak; yardımcı fiil
+est: 
+- olmak 
+- -dir, -im vs (yardımcı fiil)
 facil: kolay
 fakt: aslında
 fal: düşmek
 famili: aile
 far: yapmak
 fart:
-- hissetmek(ruh hali)
-- 
+- hissetmek(ruh/sağlık hali)
+- olmak (iyi/kötü)
 feliĉ: mutlu
 ferm: kapatmak 
 fin: bitirmek
 flank: taraf
 foj:
-- sefer
+- sefer, kez
 - sıklık
 forges: unutmak
 form: şekillendirmek, biçimlendirmek
@@ -82,12 +92,8 @@ frat: kardeş
 fru: erken
 fuŝ: batırmak, dağıtmak, yüzüne bulaştırmak
 gondol: gondol
-graf:
-- count
-- earl
-grand:
-- büyük
-- great
+graf: Kont (soylu)
+grand: büyük
 grav: önemli
 halt: durdurmak
 hav: sahip olmak
@@ -96,7 +102,7 @@ help: yardım etmek
 hom: insan
 hor: saat
 hotel: otel
-ide: ideal
+ide: fikir
 industri: endüstri
 instru: öğretmek
 interes: ilgilenmek
@@ -113,7 +119,9 @@ kapt: yakalamak
 kar: değerli, kıymetli
 kastel: kale
 kav: mağara
-kelk: bazı
+kelk: 
+- bazı 
+- bir kaç
 kelner: garson
 klar: net, açık
 klub: klup
@@ -121,15 +129,21 @@ knab: oğlan
 koler: sinir
 kolor: renk
 komenc: başlamak
-kompren: başlamak
+kompren: 
+- anlamak
+- kavramak
 kon: bilmek
 kontent: tatmin olmak
 kontrol: kontrol etmek
 kor: kalp
 korp: beden
-kost: tutmak(fiyat)
+kost: 
+- tutmak, etmek (fiyat)
+- maaliyet
 kri: çığlık atmak
-kuir: yemek yapmak
+kuir: 
+- yemek yapmak
+- pişirmek
 kuk: kek
 kur: koşmak
 labor: çalışmak
@@ -145,7 +159,9 @@ lern: öğrenmek
 leter: mektup
 liber: serbest
 libr: kitap
-lok: yer
+lok: 
+- yer
+- lokasyon
 long: uzun
 lud: oynamak
 lum: parlak
@@ -159,7 +175,7 @@ met: koymak
 mez: orta
 milit: savaş
 minut: dakika
-mir: hayrat etmek
+mir: hayret etmek
 moment: an
 mon: para
 mont: dağ
@@ -167,7 +183,7 @@ montr: göstermek
 mort: ölmek
 mov: hareket etmek
 mult: çok
-muzik: muzik
+muzik: müzik
 nask: doğurmak
 natur: doğa
 neces: ihtiyaç duymak
@@ -177,11 +193,15 @@ not: not
 nov: yeni
 odor: koku
 oft: sıkça
-okaz: olmak
+okaz: 
+- olmak
+- vuku bulmak
 okul: göz
 onkl: amca
 opini: fikir
-ord: emretmek; sipariş vermek
+ord: 
+- emretmek
+- sipariş vermek
 orel: kulak
 pac: barış
 pag: ödemek
@@ -192,21 +212,27 @@ parol: konuşmak
 part: parça
 pas: geçmek
 patr: baba
-paŝ: adımlamak
+paŝ: adım, adımlamak
 pens: düşünmek
 perd: kaybetmek
 person: kişi
-pet: rica etmek, talep etmek
+pet: 
+- rica etmek
+- talep etmek
 pez: ağır
 pied: ayak
 plac: yer
 plan: planlamak
 plaĉ: memnu etmek
-plen: dolu,full
+plen: dolu, full
 polic: polis
 pord: kapı
-port: taşımak
-pov: ebilmek
+port: 
+- taşımak
+- giyior olmak
+pov: 
+- yapabilmek, edebilmek
+- -bilmek
 pren: almak
 pret: hazır olmak
 prezent: sunmak
@@ -223,7 +249,9 @@ rekt: direk
 renkont: tanışmak, karşılaşmak
 respekt: saygı duymak
 respond: cevap vermek
-rest: geriye kalmak, arta kalmak
+rest: 
+- geriye kalmak
+- arta kalmak
 ricev: teslim almak
 rid: gülmek
 rigard: bakmak
@@ -242,7 +270,7 @@ sekv: takip etmek
 semajn: hafta
 send: iletmek
 serĉ: aramak
-si: dönüşlü zamir
+si: dönüşlü zamir (kendi, kendisini)
 sid: oturmak
 silent: sessiz
 simil: benzer
@@ -255,7 +283,7 @@ sol: yalnız
 son: ses çıkarmak?
 sovaĝ: vahşi, yabani
 sport: spor
-star: ayakta durmak, dikelmek
+star: ayakta durmak, dikilmek
 strat: sokak
 subit: aniden
 sufiĉ: yeterli
@@ -269,7 +297,7 @@ telefon: telefon
 temp: zaman
 temperatur: sıcaklık
 ten: tutmak
-teror: terör?
+teror: terör, terörie etmek
 tim: korku
 ton: ton
 trankvil: sakin
@@ -285,7 +313,9 @@ varm: sıcak
 ven: gelmek
 vend: satmak
 Veneci: Venedik
-ver: doğru, gerçek
+ver: 
+- doğru
+- gerçek
 vesper: akşam
 vest: giyinmek
 vetur: arabayla gitmek
@@ -297,11 +327,13 @@ vizaĝ: yüz
 vizit: ziyaret etmek
 voj: yol
 vojaĝ: seyahat
-vok: aramak
+vok: seslenmek
 vol: istemek
 vort: kelime
 voĉ: ses
-zorg: ilgilenmek; endişelenmek
+zorg: 
+- ilgilenmek
+-  endişelenmek
 ĉambr: oda
 ĉef: patron
 ĝen:
@@ -311,7 +343,9 @@ zorg: ilgilenmek; endişelenmek
 ĝoj: memnun, hoşnut
 ĝust: düzeltmek
 ĵet: fırlatmak, atmak
-ŝajn: (gibi) görünmek?
+ŝajn: 
+- gibi görünmek
+- sanki
 ŝanĝ: değiştirmek
 ŝat: beğenmek
 ŝip: gemi

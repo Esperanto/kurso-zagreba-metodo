@@ -1,5 +1,5 @@
 - 
-  demando: ? من هي حبيبتك
+  demando: "? من هي حبيبتك"
   rektatraduko:
     - Kiu: من
     - estas: هي
@@ -7,7 +7,7 @@
     - amikino: حبيبة
     - '?'
 - 
-  demando: ? هل صدقتك انا تكتب الآن في الغرفة 
+  demando: "? هل صديقتك انا تكتب الآن في الغرفة" 
   rektatraduko:
     - Ĉu: هل
     - via: ك
@@ -20,17 +20,17 @@
     - ĉambro: غرفة
     - '?'
 - 
-  demando: "Est-ce que l'ami de ton père travaille dans un hôtel ?"
+  demando: "? هل صديق ابوك يعمل في فندق"
   rektatraduko:
-    - Ĉu: Est-ce que
+    - Ĉu: هل
     - la: "l'"
-    - amiko: ami
-    - de: de
-    - via: ton
-    - patro: père
-    - laboras: travaille
-    - en: dans
-    - hotelo: un hôtel
+    - amiko: صديق
+    - de: 
+    - via: ك
+    - patro: اب
+    - laboras: يعمل
+    - en: في
+    - hotelo: فندق
     - '?'
 - 
   demando: "Qu'y-a-t-il sur le bureau dans notre chambre ?"

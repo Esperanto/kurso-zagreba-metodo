@@ -1,15 +1,17 @@
 Esperanto: Esperanto
-akcepteblan: kabul edilebilir, makul
+akcepteblan: kabul edilebiliri, makulu
 alilandaj: yabancı ülkeler
-alporti: bring over?
-alportis: brought over? 
-alvenigas: leads here?
+alporti: taşıyıp getirmek
+alportis: taşıyıp getirdi
+alvenigas: buraya getirtiyor
 alvenis: geldi
 alvenos: gelecek
 amikino: (kız) arkadaş
 amikinon: (kız) arkadaşı
 amletero: aşk mektubu
-antaŭeniris: ileriye gitti
+antaŭeniris: 
+- ilerledi
+- yola devam etti
 arbaro: orman
 arbetoj: çalılar
 arboplena: ağaçlarla dolu
@@ -22,243 +24,266 @@ beleta: şirin, sevimli
 bestetoj: küçük hayvanlar
 bonega: çok iyi
 bonvolu: lütfen
-bonvolus: would you be so kind?
+bonvolus: 
+- ... yapar mıydınız? 
+- ... nezaketini gösterir miydiniz?
 centoj: yüzlerce
 dankon: teşekkürler
 daŭrigis: devam etti
 denove: yeniden
 devojiĝis: yoldan saptı
 dikiĝi: şişmanlamak
-doloriga: acı verici, ağrıtan
+doloriga: 
+- acı verici
+- ağrıtan
 dolorige: acı vererek
-domegon: villa, büyük bina
+domegon: 
+- villayı
+- büyük binayı
 dumnokte: geceleyin
-dumtage: gündüz
+dumtage: gündüzün
 ekkriis: bağırmaya başladı
-ekmire: wondrously
+ekmire: 
+- şaşılacak şekilde
+- harika şekilde
 ekparolis: konuşmaya başladı
 ekridis: gülmeye başladı
 ekrigardis: bakmaya başladı
 eksaltis: zıplamaya başladı
-ekscii: '?'
-eksidis: '?'
-ekstervoje: çıkış yolu
-ekveturas: araçla gitmeye başlamak   
-ekvidis: görmeye başlamak  
-elstaraj: seçkin
+ekscii: öğrenmek
+eksidis: oturdu
+ekstervoje: ???
+ekveturas: yola çıkıyor   
+ekvidis: görmeye başladı  
+elstaraj: seçkin olanlar
 eniri: içeri girmek 
 eniris: içeri girdi
 eniru: içeri gir!
-facilmovaj: easy-to-move
-faligi:
-- düşürmek
-- to run over?
-faligis: ran over
+facilmovaj: kolay hareket edilebilenler
+faligi: düşürmek
+faligis: düşürdü
 familianoj: aile üyeleri
 fermita: kapalı
 fine: sonunda
 foresti: uzakta olmak
-foriros: uzaklaşmak
+foriros: uzaklaşacak
 fratino: kız kardeş
-fuŝparolis: yalnış konuşmak
+fuŝparolis: yanlış konuştu
 geamikoj: arkadaşlar
 gefratoj: kardeşler
-gelernantojn:
-- co-learners
-- fellow stundent
+gelernantojn: öğrenciler
 gepatroj: ebeveynler
-gondolisto: gondolist 
-gondolistoj: gondolists
-grafino: countess
-grafinon: countess
-grandula: dev
+gondolisto: gondol sürücüsü 
+gondolistoj: gondol sürücüleri
+grafino: kontes
+grafinon: kontesi
+grandula: dev adam gibi
 gravuloj: önemli kişiler
 haltigis: durdurdu
 havigi: elde etmek
 havindan: elde etmeye değer
-homformo: insan formunda
-hommulton: kalabalık
-ideoriĉan: yaratıcı, zengin fikirli
+homformo: insan formu
+hommulton: kalabalığı
+ideoriĉan: zengin fikirliyi
 industriisto: fabrikatör
 instruistino: bayan öğretmen
-instruiston: öğretmen
-intervidiĝas: birbirini görmek
-iron: walk
-junulino: female youngster
-junulinoj: female youngsters
-junulinon: female youngster
-junuloj: youngsters
-kafejo: café
-kafejon: café
-karulino: darling
-karulo: darling
-klarigis: explained
-klarigon: explanation 
-klubanoj: club members
+instruiston: öğretmeni
+intervidiĝas: birbirini görüyorlar
+iron: yürümryi
+junulino: genç kadın
+junulinoj: genç kadınlar
+junulinon: genç kadını
+junuloj: gençleri
+kafejo: kahvehane 
+kafejon: jahvehaneyi
+karulino: sevgili kadın
+karulo: sevgili erkek
+klarigis: 
+- açıkladı
+- netleştirdi
+klarigon: açıklamayı
+klubanoj: kulüp üyeleri
 kompreneble: 
-- understandably
-- of course
-korpoforton: physical strength
-kunmanĝos: will eat together
-kunporti: to bring along
-kunulino: female companion
-kunvenas: come together
-laboristo: worker
-lampeto: little lamp
-lernanto:
-- learner
-- student
-lernejo: school
-lernejon: school 
-lernolibroj: schoolbooks
-leteroj: letters
-libertempo:
-- free time
-- spare time
-libroj: books
-lumigis:
-- lightened up
-- flashed up
-malagrabla: unpleasant
-malbela: ugly
-malbonaj: bad
-malbonajn: bad
-malbonan: bad
-malbono: bad 
-malfacilan: difficult
-malfacile: difficult
-malfeliĉo: misfortune
-malforta: weak
-malforte: weak 
-malfruas: is late 
-malfrue: late
-malfrui: to be late 
-malgranda:
-- little
--  small
-malhelpis: hindered
-malinterese: uninteresting
-malkontentigi: to annoy
-mallaŭte: quiet
-malliberejon: prison
-mallumo: darkness
-malmulte: few
-malmultekosta: cheap 
-malmulton: few
-malnova: old
-malnovaj: old
-malofte: rarely 
-malplaĉa: uncomfortable
-malplaĉan: uncomfortable 
-malproksime: far away
-malsaniĝis: got sick
-malsaĝa: unwise
-malsekajn: wet
-malsukcesa: unsuccessful
-maltrankvila: anxious
-malvarman: cold
-malĝoja: sad
-malŝatas: be hungry
-malŝatis: was hungry 
-manĝaĵo: food
-manĝegi: to devour
-maristo: seaman
-maristoj: seamen
-mariston: seaman
-miaj: my 
-militistoj: soldiers
-monerojn: coins
-monujo: purse
-morgaŭan: tomorrow's
-mortigo: murder
-moviĝis: moved
-multekosta: expensive
-multpiedaj: many-footed
-naskiĝtaga: birthday
-naskiĝtago: birthday 
-naturaĵojn: natural things
-nehoma: non-human
-neinteresaj: uninteresting
-nokta: nightly
-novaĵoj: news
-opinion: opinion
-ordigi: to roder 
-paperoj: papers
-paperojn:  papers
-paperujon: wastebasket
-pasigos: will spend
-patrino: mother
-perdigis: withdrew
-plenigadis: filled
-plenumis: fulfilled
-plibeligis: beautified
-plimulto: majority
-policano: policeman
-promenejo: promenade
-promeno: walk
-rapidege: very quickly
-realigi: to realize
-redonu: give back
-rekapti: to get back
-repaciĝon: reliberation
-revenis: came back
-revidi: to see again
-revido: goodbye
-ridetis: smiled
-rideto: smile
-riĉeco:
-- richness
-- wealth
-riĉulo: rich man
-salton: jump
-saluton: hello
-samklubanoj: co-members of the club
-sekretajn: secret
-sekreton: secret
-senbrue: silently
-seninterese: disinterested
-senkolora: colorless
-sensukcese: without success
-sentimulo: fearless man
-senvorte: wordlessly
-sinjorinoj: ladies
-sinjorinon: lady
-skribotablo: desk
-soleca: lonely
-sovaĝejo: wilderness
-sportisto: sportsman
-subakvigis: to sink
-subakviĝis: to sink
-subite: suddenly
-supren: upward
-surhavas: wear
-surlokan: at this place
-teroristoj: terrorists
-tiuokaze: in that case
-travivaĵo: adventure
-tridekjara: 30-year-old
-troviĝis: was situated
-unuaj: first
-urbomezo: city center
-vagonaro: train
-vendejo: shop
-vendejon: shop
-vendisto: clerk 
-vestaĵo: clothes 
-vestaĵoj: clothes
-vestaĵojn: clothes 
-vestaĵon: clothes
-veturado:
-- drive
-- tour
-veturigus: would drive 
-viaj: your
-virino: woman
-vojaĝantoj: travellers
-ĉambristoj: chambermaids
-ĉeesto: presence
-ĉirkaŭaĵo: surrounding
-ĝenon: disturbance
-ĝustatempe: at the right time
-ŝiaj: her 
-ŝipkuron: ship race
+- anlaşıldığı üzere, 
+- tabi ki 
+korpoforton: beden gücünü
+kunmanĝos: birlikte yiyecekler
+kunporti: yanında getirmek
+kunulino: 
+- hanım yoldaş
+- birisinin yanındaki hanım
+kunvenas: buluşuyor
+laboristo: işçi
+lampeto: küçük lamba
+lernanto: öğrenci
+lernejo: okul
+lernejon: okulu 
+lernolibroj: okul kitapları
+leteroj: mektuplar
+libertempo: boş zaman
+libroj: kitaplar
+lumigis: aydınlattı
+malagrabla: 
+- hoş olmayan
+- uygun olmayan
+malbela: çirkin
+malbonaj: kötüler
+malbonajn: kötüleri
+malbonan: kotüyü
+malbono: kötülük
+malfacilan: zoru
+malfacile: zor şekilde
+malfeliĉo: mutsuzluk
+malforta: güçsüz
+malforte: güçsüzce
+malfruas: gaç kalıyor
+malfrue: geç olarak
+malfrui: geç kalmak 
+malgranda: küçük
+malhelpis: engel oldu
+malinterese: enteresan olmaksızın
+malkontentigi: memnuniyetsiz etmek
+mallaŭte: alçak sesle
+malliberejon: hapishane
+mallumo: karanlık
+malmulte: az
+malmultekosta: ucuz 
+malmulton: azını
+malnova: eski
+malnovaj: eskiler
+malofte: seyrek olarak
+malplaĉa: hoş olmayan
+malplaĉan: hoş olmayanı 
+malproksime: uzak olarak
+malsaniĝis: hastalandı
+malsaĝa: akılsız
+malsekajn: ıslakları
+malsukcesa: başarısız olan
+maltrankvila: 
+- sakin olmayan
+- endişeli
+malvarman: soğuk olanı
+malĝoja: mutsuz
+malŝatas: sevmiyor
+malŝatis: sevmedi 
+manĝaĵo: yiyecek
+manĝegi: oburca yemek
+maristo: denizci
+maristoj: denizciler
+mariston: denizciyi
+miaj: benim (çoğul)
+militistoj: 
+- askerler
+- savaşçılar
+monerojn: bozuk paraları
+monujo: cüzdan
+morgaŭan: yarınkini
+mortigo: öldürme
+moviĝis: 
+- hareket etti
+- taşındı
+multekosta: pahalı
+multpiedaj: çok ayaklılar
+naskiĝtaga: doğum gününe ait
+naskiĝtago: doğum günü
+naturaĵojn: doğal şeyler
+nehoma: insani olmayan
+neinteresaj: ilginç olmayanlar
+nokta: geceye ait
+novaĵoj: haberler
+opinion: fikri
+ordigi: düzene sokmak 
+paperoj: kağıtlar
+paperojn:  kağıtları
+paperujon: 
+- evrak kutusunu 
+- evrak çantasını
+pasigos: 
+- geçirecek
+- bir zamanı harcayacak
+patrino: anne
+perdigis: kaybettirdi
+plenigadis: ???
+plenumis: yerine getirdi
+plibeligis: güzelleştirdi
+plimulto: çoğunluk
+policano: polis
+promenejo: gezinti yeri
+promeno: gezinti
+rapidege: çok hızlı olarak
+realigi: gerçekleştirmek
+redonu: geri ver!
+rekapti: tekrar yakalamak
+repaciĝon: 
+- tekrar barışmak
+- tekrar uzlaşmak
+revenis: geri geldi
+revidi: tekrar görmek
+revido: tekrar görüşme
+ridetis: gülümsedi
+rideto: gülümseme
+riĉeco: zenginlik
+riĉulo: zengin kişi
+salton: atlamayı
+saluton: selam, merhaba
+samklubanoj: 
+- kulüpdaşlar
+- aynı külüpten olanlar
+sekretajn: gizli olanları
+sekreton: sırrı
+senbrue: gürültüsüzce 
+seninterese: ilgisizce
+senkolora: renksiz
+sensukcese: başarısızca
+sentimulo: kurkusuz kişi
+senvorte: 
+- kelimesizce
+- tek kelime etmeden
+sinjorinoj: hanımefendiler
+sinjorinon: hanımefendiyi
+skribotablo: yazı masası
+soleca: yalnızca
+sovaĝejo: 
+- vahşi yer
+- yaban
+sportisto: sporcu
+subakvigis: batırdı
+subakviĝis: battı
+subite: aniden
+supren: yukarıda
+surhavas: giyiyor
+surlokan: orada olanı
+teroristoj: teroristler
+tiuokaze: bu durumda
+travivaĵo: 
+- macera
+- deneyim
+- başa gelen şey
+tridekjara: 30 yaşında olan
+troviĝis: bulundu, bulunuyordu
+unuaj: ilkler
+urbomezo: şehir ortası
+vagonaro: tren
+vendejo: dükkan
+vendejon: dükkanı
+vendisto: satıcı
+vestaĵo: giysi 
+vestaĵoj: giysiler
+vestaĵojn: giysileri 
+vestaĵon: giysiyi
+veturado: yolculuk
+veturigus: yolculuk yapardı 
+viaj: senin (çoğul)
+virino: kadın
+vojaĝantoj: seyahtçiler
+ĉambristoj: odacılar
+ĉeesto: 
+- bulunma
+- katılma
+ĉirkaŭaĵo: çevre
+ĝenon: rahatsılık
+ĝustatempe: 
+- tam zamanında
+- doğru zamanda
+ŝiaj: onun (kadın; çoğul)
+ŝipkuron: gemi yarışı

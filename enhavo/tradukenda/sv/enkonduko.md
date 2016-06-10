@@ -1,4 +1,4 @@
-- Teaches you the **most important 500 words**
+- Lär ut **de 500 viktigaste orden**
 - **Ingen registrering behövs**: klicka bara på *Start*
 - **Optimerad** för smartphones
 - Inte bara kostnadsfritt, utan dessutom **[fritt fram att använda i andra projekt](https://github.com/Esperanto/kurso-zagreba-metodo)**

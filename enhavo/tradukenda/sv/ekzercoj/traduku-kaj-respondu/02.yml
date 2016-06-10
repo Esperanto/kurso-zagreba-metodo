@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: Hurdant var ditt gamla hem?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: Hurdant
+    - estis: var
+    - via: ditt
+    - malnova: gammalt
+    - hejmo: hem
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: Vilka böcker har du läst, och är de bra?
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: Vilka 
+    - librojn: böcker
+    - vi: du
+    - legis: läste
+    - kaj: och
+    - ĉu: huruvida
+    - ili: de
+    - estas: är
+    - bonaj: bra 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: Vad gjorde Anna och Marko i Markos lilla rum?
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kion: Vad
+    - faris: gjorde
     - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - kaj: och
+    - Marko: Marko
+    - en: i 
+    - la: bestämd artikel
+    - malgranda: litet
+    - ĉambro: rum
+    - de: preposition som visar ägande
+    - Marko: Marko
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Tycker du om att läsa böcker om kärlek?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: Huruvida
+    - vi: du
+    - ŝatas: tycker om
+    - legi: läsa
+    - librojn: böcker
+    - pri: om
+    - amo: kärlek
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Vem går med dig till ditt hem?
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: Vem
+    - iros: kommer att gå
+    - kun: med
+    - vi: du
+    - al: till 
+    - via: ditt
+    - hejmo: hem
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: Hurdana är din väninnas ögon?
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: Hurdana
+    - estas: är
+    - la: bestämd artikel
+    - okuloj: ögon
+    - de: preposition som visar ägande
+    - via: din
+    - amikino: väninna
     - '?'

@@ -1,10 +1,10 @@
 - 
-  demando: "? من هي حبيبتك"
+  demando: "من هي صديقتك؟"
   rektatraduko:
     - Kiu: من
     - estas: هي
     - via: ك
-    - amikino: حبيبة
+    - amikino: صديقة
     - '?'
 - 
   demando: "? هل صديقتك انا تكتب الآن في الغرفة" 
@@ -20,12 +20,12 @@
     - ĉambro: غرفة
     - '?'
 - 
-  demando: "? هل صديق ابوك يعمل في فندق"
+  demando: "هل يعمل صديق أبيك في فندق؟"
   rektatraduko:
     - Ĉu: هل
-    - la: "l'"
+    - la: أداة التعريف
     - amiko: صديق
-    - de: 
+    - de: أداة الإضافة
     - via: ك
     - patro: اب
     - laboras: يعمل
@@ -33,21 +33,21 @@
     - hotelo: فندق
     - '?'
 - 
-  demando: "Qu'y-a-t-il sur le bureau dans notre chambre ?"
+  demando: "ماذا يوجد على المكتب في غرفتنا؟"
   rektatraduko:
-    - Kio: Quoi 
-    - estas: est
-    - sur: sur
-    - la: le
-    - labortablo: bureau
-    - en: dans
-    - nia: notre
-    - ĉambro: chambre
+    - Kio: ماذا 
+    - estas: يوجد
+    - sur: على
+    - la: أداة التعريف
+    - labortablo: مكتب - طاولة العمل
+    - en: في
+    - nia: لنا
+    - ĉambro: غرفة
     - '?'
 - 
-  demando: "Est-ce qu'il y a un manuel d'espéranto sur ta table ?"
+  demando: "هل يوجد كتاب تعليم الاسبرانتو على طاولتك؟"
   rektatraduko:
-    - Ĉu: Est-ce que
+    - Ĉu: هل
     - Esperanto-lernolibro: "un manuel d'espéranto" 
     - estas: est
     - sur: sur 

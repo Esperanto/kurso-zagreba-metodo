@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: Vem är din väninna?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Vem
+    - estas: är
+    - via: din
+    - amikino: väninna
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Skriver din väninna Anna nu i rummet?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
+    - Ĉu: Huruvida
+    - via: din
+    - amikino: väninna
     - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - skribas: skriver
+    - nun: nu
+    - en: i
+    - la: bestämd artikel 
+    - ĉambro: rum
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Arbetar din fars vän på hotellet?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: Huruvida
+    - la: bestämd artikel
+    - amiko: vän
+    - de: preposition som visar ägande
+    - via: din
+    - patro: far
+    - laboras: arbetar
+    - en: i
+    - hotelo: hotell
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: Vad finns på arbetsbordet i vårt rum?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: Vad 
+    - estas: är
+    - sur: på
+    - la: bestämd artikel
+    - labortablo: arbetsbordet
+    - en: i
+    - nia: vårt
+    - ĉambro: rum
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Libber esperantoläroboken på ditt bord?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: Huruvida
+    - Esperanto-lernolibro: esperantoläroboken
+    - estas: är
+    - sur: på
+    - via: ditt
+    - tablo: bord
     - '?'
 

@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Förstår kyparna i de stora hotellen många språk? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: Huruvida 
+    - kelneroj: kypare
+    - en: i
+    - grandaj: stora
+    - hoteloj: hotell
+    - komprenas: förstår
+    - multajn: många
+    - lingvojn: språk
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Vet du om Anna gillar den nya sången om den fattige och den vackra flickan?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: Huruvida
+    - vi: du
+    - scias: vet
     - ','
-    - ĉu: whether
+    - ĉu: om
     - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ŝatas: gillar
+    - la: den
+    - novan: ny
+    - kanton: sång
+    - pri: om
+    - malriĉulo: fattig person
+    - kaj: och
+    - belulino: vacker kvinna
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Var såg ni den gamle och den unge mannen som bar på ett stort bord?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Var
+    - vi: du
+    - vidis: såg
+    - la: den
+    - maljunulon: gammal person
+    - kaj: och
+    - la: den
+    - junulon: ung person
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: som
+    - portis: bar
+    - grandan: stort
+    - tablon: bord
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Hur kom det sig att ni på nytt kom till oss utan era syskon?
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Hur
+    - okazis: kom det sig
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: att
+    - vi: ni
+    - denove: igen
+    - venis: kom
+    - al: till 
+    - ni: vi
+    - sen: utan
+    - gefratoj: syskon
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Kan du, med den nya läroboken, lära dig esperanto tillräckligt fort?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: Huruvida
+    - vi: du
+    - povas: kan
+    - per: med
+    - la: den 
+    - nova: nya
+    - lernolibro: läroboken
+    - sufiĉe: tillräckligt
+    - rapide: fort
+    - lerni: lära sig
+    - Esperanton: esperanto
     - '?'

@@ -3,14 +3,14 @@
   rektatraduko:
     - Kiu: من
     - estas: هي
-    - via: ك
+    - via: ك - ضمير ملكية
     - amikino: صديقة
     - '?'
 - 
   demando: "? هل صديقتك انا تكتب الآن في الغرفة" 
   rektatraduko:
     - Ĉu: هل
-    - via: ك
+    - via: الخاص بك
     - amikino: صديقة
     - Anna: انا
     - skribas: تكتب
@@ -26,7 +26,7 @@
     - la: أداة التعريف
     - amiko: صديق
     - de: أداة الإضافة
-    - via: ك
+    - via: ك - ضمير ملكية
     - patro: اب
     - laboras: يعمل
     - en: في
@@ -45,13 +45,13 @@
     - ĉambro: غرفة
     - '?'
 - 
-  demando: "هل يوجد كتاب تعليم الاسبرانتو على طاولتك؟"
+  demando: "هل كتاب تعليم الإسبرانتو على طاولتك؟"
   rektatraduko:
     - Ĉu: هل
-    - Esperanto-lernolibro: "un manuel d'espéranto" 
-    - estas: est
-    - sur: sur 
-    - via: ta 
-    - tablo: table
+    - Esperanto-lernolibro: "كتاب تعليم الإسبرانتو" 
+    - estas: يكون
+    - sur: على 
+    - via: ك - ضمير ملكية
+    - tablo: طاولة
     - '?'
 

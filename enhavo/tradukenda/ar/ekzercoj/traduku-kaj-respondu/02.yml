@@ -1,70 +1,70 @@
 -
-  demando: Comment était votre ancienne maison ?
+  demando: كيف كان بيت القديم؟ 
   rektatraduko: 
-    - Kia: Comment
-    - estis: était
-    - via: votre
-    - malnova: ancienne
-    - hejmo: maison
+    - Kia: كيف
+    - estis: كان
+    - via: ك - ضمير ملكية
+    - malnova: قديم
+    - hejmo: بيت
     - '?'
 -
-  demando: "Quels livres as-tu lus, et est-ce qu'ils sont bons ?"
+  demando: "أي كتب قرأت؟ وهل هم جيدون؟"
   rektatraduko:
-    - Kiujn: Quels
-    - librojn: livres
-    - vi: tu
-    - legis: as lu
-    - kaj: et
-    - ĉu: est-ce que
-    - ili: ils
-    - estas: sont
-    - bonaj: bons
+    - Kiujn: أي
+    - librojn: كتب
+    - vi: أنت
+    - legis: قرأت
+    - kaj: و
+    - ĉu: هل
+    - ili: هم
+    - estas: يكونون
+    - bonaj: جيدين
     - '?'
 -
-  demando: "Qu'ont fait Anne et Marc dans la petite chambre de Marc ?"
+  demando: "ماذا فعلت آنا وماركو في غرفة ماركو الصغيرة؟"
   rektatraduko:
-    - Kion: "Qu'"
-    - faris: ont fait
-    - Anna: Anna
-    - kaj: et
-    - Marko: Marc
-    - en: dans
-    - la: la
-    - malgranda: petite
-    - ĉambro: chambre
-    - de: de
-    - Marko: Marc
+    - Kion: ماذا
+    - faris: فعلت
+    - Anna: آنا
+    - kaj: و
+    - Marko: ماركو
+    - en: في
+    - la: ال التعريف
+    - malgranda: صغيرة
+    - ĉambro: غرفة
+    - de: حرف إضافة
+    - Marko: ماركو
     - '?'
 -
-  demando: "Est-ce que vous aimez lire des livres sur l'amour ?"
+  demando: "هل تحب أن تقرأ كتباً عن الحب؟"
   rektatraduko:
-    - Ĉu: Est-ce que
-    - vi: vous
-    - ŝatas: aimez
-    - legi: lire
-    - librojn: des livres
-    - pri: sur
-    - amo: "l'amour"
+    - Ĉu: هل
+    - vi: أنت
+    - ŝatas: تحب
+    - legi: أن تقرأ
+    - librojn: كتباً
+    - pri: عن
+    - amo: حب
     - '?'
 -
-  demando: Qui ira avec vous à votre maison ?
+  demando: من سيذهب معك إلى منزلك؟
   rektatraduko:
-    - Kiu: Qui
-    - iros: ira
-    - kun: avec
-    - vi: vous
-    - al: à
-    - via: votre
-    - hejmo: maison
+    - Kiu: من
+    - iros: سيذهب
+    - kun: مع
+    - vi: ك - ضمير نصب
+    - al: إلى
+    - via: ك - اداة ملكية
+    - hejmo: منزل
     - '?'
 -
-  demando: Comment sont les yeux de ta petite amie ?
+  demando: كيف هي عيون حبيبتك؟
   rektatraduko:
-    - Kiaj: Comment
-    - estas: sont
-    - la: les
-    - okuloj: yeux
-    - de: de
-    - via: ta
-    - amikino: petite amie
+    - Kiaj: كيف
+    - estas: تكون
+    - la: ال التعريف
+    - okuloj: عيون
+    - de: حرف إضافة
+    - via: ك - اداة ملكية
+    - amikino: حبيبة
     - '?'

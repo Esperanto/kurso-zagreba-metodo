@@ -1,12 +1,12 @@
-- Vous apprendrez les **500 mots les plus importants**
-- **Pas d'inscription nécessaire** : Cliquez simplement sur *Démarrer*
-- **Optimisé** pour les mobiles
-- Pas uniquement gratuit, mais aussi **[libre d’être utilisé dans d’autres projets](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Ви вивчите 500 найважливіших слів**
+- **Реєстрація не потрібна** : Просто натисніть *Почати*
+- **Оптимізовано** для мобільних пристроїв
+- Це не тільки безкоштовно, але й **[вільно використовується в інших проектах](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-Le cours est composé de **12 leçons**, chacune contenant :
+Курс складається з 12 уроків, кожний з яких містить :
 
-- un texte,
-- des explications grammaticales
-- et 3 exercices.
+- текст,
+- пояснення граматики
+- і три вправи.
 
-Après avoir suivi le cours, vous serez capable de comprendre les points les plus importants et de vous exprimer par vous-même en espéranto. L'essayer, c'est l'adopter !
+Після завершення курсу ви зможете зрозуміти найважливіші речі й спілкуватись на есперанто. Спробуйте це і полюбіть його!

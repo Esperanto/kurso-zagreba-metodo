@@ -1,65 +1,65 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: Kan du lära dig lugnt medan någon sjunger glatt?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: Huruvida
+    - vi: du
+    - povas: kan
+    - trankvile: lugnt
+    - lerni: lära sig
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: medan
+    - iu: någon
+    - ĝoje: glatt
+    - kantas: sjunger
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Vem vet var och när vi kommer att ses igen?
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Vem
+    - scias: vet
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: var 
+    - kaj: och
+    - kie: när
+    - ni: vi
+    - revidos: kommer att se igen
+    - nin: oss
     - '?'
 -
-  demando: What time is it now?
+  demando: Hur mycket är klockan?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: Hur mycket-a
+    - horo: timme
+    - estas: är 
+    - nun: nu
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Hjälpte någon dig att öppna dörren till det gamla huset?
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: Huruvida
+    - iu: någon 
+    - helpis: hjälpte
+    - al: åt
+    - vi: du 
+    - malfermi: öppna 
+    - la: bestämd artikel
+    - pordon: dörr 
+    - de: preposition som visar ägande
+    - la: bestämd artikel
+    - malnova: gammal
+    - domo: hus
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Varför har du inte tid att lyssna på mig längre?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - al: to
-    - mi: me
-    - pli: more
-    - longe: long
+    - Kial: Varför
+    - vi: du
+    - ne: inte
+    - havas: har
+    - tempon: tid
+    - aŭskulti: lyssna
+    - al: till
+    - mi: jag
+    - pli: mer
+    - longe: länge
     - '?'

@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Önskar du att jag ska visa dig min nyaste bok?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: Huruvida
+    - vi: du
+    - deziras: önskar
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: att
+    - mi: jag
+    - montras: visar
+    - al: åt
+    - vi: dig
+    - mian: min
+    - plej: mest
+    - novan: nya
+    - libron: bok
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Vad vill du äta till frukost imorgon?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Vad
+    - vi: du
+    - volas: vill
+    - morgaŭ: imorgon
+    - matenmanĝi: äta frukost
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: När kommer Marko, klockan fem eller klockan åtta?
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: När
+    - Marko: Marko
+    - alvenos: anläder
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: preposition som är vanlig vid tid
+    - la: bestämd artikel
+    - kvina: femte
+    - aŭ: eller
+    - je: preposition som är vanlig vid tid
+    - la: den
+    - oka: åttonde
+    - horo: timme
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: När märkte du att hela familjen kallar mig "den gode"?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: När
+    - vi: du
+    - rimarkis: märkte
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: att
+    - la: bestämd artikel
+    - tuta: hel
+    - familio: familj
+    - nomas: kallar
+    - min: mig
+    - bonfarulo: god person
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Var häftet användbart, som jag skickade?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Huruvida
+    - la: bestämd artikel
+    - libreto: häfte, liten bok
+    - estis: var
+    - utila: användbar
+    - al: till
+    - vi: dig
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: som (vilket)
+    - mi: jag
+    - sendis: skickade
     - '?'

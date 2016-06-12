@@ -1,57 +1,57 @@
 - 
-  demando: Wer ist deine Freundin?
-  rektatraduko:
-    - Kiu: Wer
-    - estas: ist
-    - via: deine
-    - amikino: Freundin
+  demando: Tko je tvoja prijateljica?
+  rektatraduko: 
+    - Kiu: Tko
+    - estas: je
+    - via: tvoja
+    - amikino: prijateljica
     - '?'
 - 
-  demando: Schreibt deine Freundin Anna jetzt im Zimmer?
-  rektatraduko:
-    - Ĉu: Ob
-    - via: deine
-    - amikino: Freundin
-    - Anna: Anna
-    - skribas: schreibt
-    - nun: jetzt
-    - en: in
-    - la: dem 
-    - ĉambro: Zimmer
+  demando: Piše li tvoja prijateljica Anna sada u sobi?
+  rektatraduko: 
+    - Ĉu: Da li
+    - via: tvoja
+    - amikino: prijateljica
+    - Anna: Anna 
+    - skribas: piše
+    - nun: sada 
+    - en: u  
+    - la: 
+    - ĉambro: soba 
     - '?'
 - 
-  demando: Arbeitet der Freund deines Vaters in einem Hotel?
-  rektatraduko:
-    - Ĉu: Ob
-    - la: der
-    - amiko: Freund
-    - de: von
-    - via: deinem
-    - patro: Vater
-    - laboras: arbeitet
-    - en: in
-    - hotelo: Hotel
+  demando: Radi li prijetelj tvog oca u hotelu?
+  rektatraduko: 
+    - Ĉu: Da li
+    - la: 
+    - amiko: prijatelj
+    - de: od
+    - via: tvoj
+    - patro: otac
+    - laboras: radi
+    - en: u
+    - hotelo: hotel
     - '?'
 - 
-  demando: Was ist auf dem Arbeitstisch in unserem Zimmer?
-  rektatraduko:
-    - Kio: Was 
-    - estas: ist
-    - sur: auf
-    - la: dem
-    - labortablo: Arbeitstisch
-    - en: in
-    - nia: unserem
-    - ĉambro: Zimmer
+  demando: Što je na radnom stolu u našoj sobi?
+  rektatraduko: 
+    - Kio: Što
+    - estas: je
+    - sur: na
+    - la: 
+    - labortablo: radni stol
+    - en: u
+    - nia: naša
+    - ĉambro: soba
     - '?'
 - 
-  demando: Ist ein Esperanto-Lernbuch auf deinem Tisch?
-  rektatraduko:
-    - Ĉu: Ob
-    - Esperanto-lernolibro: Esperanto-Lernbuch 
-    - estas: ist 
-    - sur: auf
-    - via: deinem 
-    - tablo: Tisch
+  demando: Da li je esperantski udžbenik na tvom stolu?
+  rektatraduko: 
+    - Ĉu: Da li
+    - Esperanto-lernolibro: esperantski udžbenik
+    - estas: je
+    - sur: na
+    - via: tvoj
+    - tablo: stol
     - '?'
 

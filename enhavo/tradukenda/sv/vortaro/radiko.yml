@@ -16,7 +16,10 @@ amik: vän
 arb: träd
 aspekt: se ut
 atend: vänta
-atent: akta
+atent: 
+- akta
+- uppmärksamma
+- se upp
 aĉet: köpa
 aŭd: höra
 aŭt: bil
@@ -129,7 +132,9 @@ kelk: några
 kelner: 
 - kypare
 - servitör
-klar: klar
+klar: 
+  - klar
+  - tydlig
 klub: klubb
 knab: pojke
 koler: arg
@@ -163,18 +168,24 @@ lecion: lektion
 leg: läsa
 lern: lära sig
 leter: brev
-liber: fri
+liber: 
+  - fri
+  - ledig
 libr: bok
 lok: plats
 long: lång
-lud: spela
+lud: 
+  - spela
+  - leka
 lum: ljus
 man: hand
-mank: be lacking
+mank: 
+  - saknas
+  - fattas
 manĝ: äta
 mar: sea
 maten: morgon
-memor: to remember
+memor: minnas
 met: 
 - sätta
 - ställa
@@ -189,16 +200,18 @@ mont: mountain
 montr: 
 - visa
 - peka ut
-mort: to die
+mort: dö
 mov: to move
 mult: many
 muzik: music
 nask: to give birth
 natur: nature
 neces: nödvändig
-nokt: night
+nokt: natt
 nom: namn
-not: note
+not: 
+  - anteckning
+  - betyg
 nov: ny
 odor: smell
 oft: often
@@ -206,9 +219,11 @@ okaz:
 - hända
 - inträffa
 okul: öga
-onkl: uncle
+onkl: 
+  - farbror
+  - morbror
 opini: opinion
-ord: to order
+ord: ordning
 orel: ear
 pac: peace
 pag: to pay
@@ -233,12 +248,12 @@ pet: be (om något)
 pez: heavy
 pied: fot
 plac: place
-plan: to plan
+plan: plan
 plaĉ: behaga
 plen: 
 - full
 - fullständig
-polic: police
+polic: polis
 pord: dörr
 port: bära
 pov: kunna
@@ -250,31 +265,37 @@ proksim: nära
 promen: to stroll
 propon: to propose
 prov: to try
-rajt: to be allowed to
+rajt: 
+  - få
+  - ha rätt till
 rapid: snabb
-raport: report
+raport: rapportera
 real: real
 rekt: direct
-renkont: to meet
+renkont: berätta
 respekt: to respect
 respond: svara
 rest: 
 - stanna kvar
 - förbli
 ricev: få
-rid: to laugh
+rid: skratta
 rigard: titta
 riĉ: rik
 rol: role
 ruĝ: red
-salt: to jump
+salt: hoppa
 salut: hälsa
-sam: same
+sam: 
+  - samma
+  - likadan
 san: frisk
-saĝ: wise
+saĝ: 
+  - vis
+  - klok
 sci: veta
 sek: dry
-sekret: secret
+sekret: hemlighet
 sekv: to follow
 semajn: vecka
 send: 
@@ -294,14 +315,14 @@ situaci: sitation
 skrib: skriva
 sol: ensam
 son: to sound
-sovaĝ: wild
+sovaĝ: vild
 sport: sport
 star: stå
 strat: gata
-subit: suddenly
+subit: plötslig
 sufiĉ: tillräcklig
 sukces: success
-sun: sun
+sun: sol
 supr: above
 tabl: bord 
 tag: dag
@@ -309,19 +330,19 @@ te: te
 telefon: phone
 temp: tid
 temperatur: temperature
-ten: hold
+ten: hålla
 teror: terror
-tim: fear
+tim: rädsla
 ton: tone
 trankvil: lugn
 trink: dricka
 trov: to find
 turk: Turkish
 tuŝ: to touch
-urb: city
+urb: stad
 util: nyttig
 uz: to use
-vagon: coach
+vagon: järnvägsvagn
 varm: varm
 ven: komma
 vend: sälja
@@ -333,18 +354,18 @@ vesper: kväll
 vest: klä
 vetur: åka (med fordon)
 vid: se
-vin: wine
+vin: vin
 vir: man
 viv: leva
 vizaĝ: ansikte
 vizit: to visit
-voj: way
-vojaĝ: journey
+voj: väg
+vojaĝ: resa
 vok: 
 - kalla
 - ropa
 vol: vilja
-vort: word
+vort: ord
 voĉ: röst
 zorg: bry sig
 ĉambr: rum
@@ -356,7 +377,10 @@ zorg: bry sig
 ĝoj: glad
 ĝust: to correct
 ĵet: to throw
-ŝajn: seem
+ŝajn: 
+  - förefalla
+  - tyckas
+  - verka
 ŝanĝ: to change
 ŝat: 
 - tycka om

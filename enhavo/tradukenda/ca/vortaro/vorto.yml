@@ -178,7 +178,7 @@ malnova:
  - antic/antiga
 malnovaj:
  - vells/velles
- - antics/antigües
+ - antics/antigues
 malofte: rarament 
 malplaĉa: desagradable
 malplaĉan: desagradable (adjectiu d'objecte directe) 
@@ -236,96 +236,93 @@ plenigadis:
  -omplia
  - va estar omplint
 plenumis:
- - cumplió
- - cumplía
+ - va acomplir
+ - acumplia
 plibeligis:
- - embelleció
- - embellecía
-plimulto: mayoría
-policano: policía
-promenejo: promenade
-promeno: paseo
-rapidege: rapidísimamente
-realigi: realizar
-redonu: devuelve
-rekapti: volver a atrapar
-repaciĝon: reconciliación
+ - va enbellir
+ - embellia
+plimulto: majoria
+policano: agent de policia
+promenejo: passeig, rambla
+promeno: passeig, caminada
+rapidege: rapidíssimament
+realigi: realitzar
+redonu: torna, restitueix (imperatiu)
+rekapti: tornar a atrapar
+repaciĝon: reconciliació (objecte directe)
 revenis:
- - volvió
- - volvía
-revidi: ver de nuevo
-revido: vuelta a ver
+ - va tornar
+ - tornava
+revidi: tornar a veure
+revido: reveure, reveure's
 ridetis:
- - sonrió
- - sonreía
-rideto: sonrisa
-riĉeco: riqueza
-riĉulo: (un) rico
-salton: salto
+ - va somriure
+ - somreia
+rideto: somriure
+riĉeco: riquesa
+riĉulo: (un) ric
+salton: salto (objecte directe)
 saluton: hola
-samklubanoj: miembros del mismo club
-sekretajn: secretos/as
-sekreton: (un) secreto
-senbrue: sin ruido
-seninterese: sin interés
-senkolora: incoloro
-sensukcese: sin éxito
-sentimulo: valiente
-senvorte: sin palabras
-sinjorinoj:
- - señoras
- - señoritas
-sinjorinon:
- - señora
- - señorita
-skribotablo: escritorio
-soleca: solitario/a
-sovaĝejo: tierra salvaje
-sportisto: deportista
+samklubanoj: membres del mateix club
+sekretajn: secrets/es (adjectiu d'objecte directe)
+sekreton: (un) secret (objecte directe)
+senbrue: sense soroll
+seninterese: sense interès
+senkolora: incolor/a
+sensukcese: sense èxit
+sentimulo: valent/a
+senvorte: sense paraules
+sinjorinoj: senyores
+sinjorinon: senyora (objecte directe)
+skribotablo: escriptori
+soleca: solitari/a
+sovaĝejo: territori salvatge
+sportisto: (un) esportista
 subakvigis:
- - (lo) hundió
- - (lo) hundía
+ - va enfonsar (dins l'aigua)
+ - enfonsava (dins l'aigua)
 subakviĝis:
- - se hundió
- - se hundía
+ - es va enfonsar (dins l'aigua)
+ - s'enfonsava (dins l'aigua)
 subite:
- - súbitamente
- - de repente
-supren: (hacia) arriba
-surhavas: llevar (puesto)
-surlokan: del sitio
-teroristoj: terroristas
-tiuokaze: en esa ocasión
-travivaĵo: aventura
+ - de sobte
+ - de cop i volta
+supren: (cap a) amunt
+surhavas: porta (posat/da)
+surlokan: sobre el lloc, del lloc
+teroristoj: terroristes
+tiuokaze: en aquest cas, en tal situació
+travivaĵo: vivència
 tridekjara:
- - de treinta años
- - treinta años
+ - de trenta anys
 troviĝis:
- - se encontró
- - se encontraba
-unuaj: primeros/as
-urbocentro: centro de la ciudad
+ - es va trobar
+ - es trobava
+unuaj: primers/es
+urbocentro: centre de la ciutat
 vagonaro: tren
-vendejo: tienda
-vendejon: tienda
-vendisto: vendedor 
-vestaĵo: ropa 
-vestaĵoj: prendas de ropa
-vestaĵojn: prendas de ropa 
+vendejo: botiga
+vendejon: botiga (objecte directe)
+vendisto: venedor 
+vestaĵo: peça de roba
+vestaĵoj: peces de roba
+vestaĵojn: peces de roba (objecte directe)
 vestaĵon: ropa
-veturado: ida*
-veturigus: llevar (a alguien) 
+veturado: 
+- viatge*
+- conducció
+veturigus: portaria, acompanyaria (a algú amb vehicle) 
 viaj:
- - tus
- - tuyos/as
-virino: mujer
-vojaĝantoj: viajeros
-ĉambristoj: limpiadores
-ĉeesto: asistencia
-ĉirkaŭaĵo: alrededores
-ĝenon: molestia
-ĝustatempe: justo a tiempo
+ - teus/teves
+ - els teus/les teves
+virino: dona
+vojaĝantoj: viatgers
+ĉambristoj: servidor d'habitacions
+ĉeesto: assistència
+ĉirkaŭaĵo: voltants, entorn
+ĝenon: molèstia (objecte directe)
+ĝustatempe: just a temps
 ŝiaj:
- - sus
- - suyos
-ŝipkuron: carrera* de barcos
+ - seus/seves (d'ella)
+ - els seus/les seves (d'ella)
+ŝipkuron: cursa* de vaixells

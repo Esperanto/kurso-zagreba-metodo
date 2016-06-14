@@ -1,77 +1,77 @@
 -
-  demando: Est-ce que les serveurs dans les grands hôtels comprennent beaucoup de langues ? 
+  demando: هل يفهم النُدُل في الفنادق الكبيرة لغاتٍ كثيرةً؟
   rektatraduko:  
-    - Ĉu: Est-ce que 
-    - kelneroj: serveurs
-    - en: dans
-    - grandaj: grands
-    - hoteloj: hôtels
-    - komprenas: comprennnent
-    - multajn: beaucoup de 
-    - lingvojn: langues
+    - Ĉu: هل
+    - kelneroj: النُدُل - جمع نادل
+    - en: في
+    - grandaj: كبيرة
+    - hoteloj: فنادق
+    - komprenas: يفهم
+    - multajn: كثيرة
+    - lingvojn: لغات
     - '?'
 -
-  demando: "Est-ce que tu sais si Anne aime la nouvelle chanson à propos d'un pauvre et d'une jolie fille ?"
+  demando: هل تعلم فيما لو أن آنا تحب الأغنية الجديدة عن الفقير والحسناء؟
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - scias: sais
+    - Ĉu: هل
+    - vi: أنت
+    - scias: تعلم
     - ','
-    - ĉu: si
-    - Anna: Anne 
-    - ŝatas: aime
-    - la: la
-    - novan: nouvelle
-    - kanton: chanson
-    - pri: à propos de
-    - malriĉulo: un pauvre
-    - kaj: et
-    - belulino: une jolie fille
+    - ĉu: فيما لو 
+    - Anna: آنا 
+    - ŝatas: تحب
+    - la: ال التعريف
+    - novan: جديدة
+    - kanton: أغنية
+    - pri: عن
+    - malriĉulo: فقير
+    - kaj: و
+    - belulino: حسناء
     - '?'
 -
-  demando: Où as-tu vu le vieux et le jeune qui portaient une grande table ?
+  demando: أين رأيت العجوز والشاب الذين حملوا طاولةً كبيرةً؟
   rektatraduko: 
-    - Kie: Où
-    - vi: tu
-    - vidis: as vu
-    - la: le
-    - maljunulon: vieux (vieil homme)
-    - kaj: et
-    - la: le
-    - junulon: jeune (homme jeune)
+    - Kie: أين
+    - vi: أنت
+    - vidis: رأيت - شاهدت
+    - la: ال التعريف
+    - maljunulon: عجوز
+    - kaj: و
+    - la: ال التعريف
+    - junulon: شاب
     - ','
-    - kiuj: qui
-    - portis: portaient
-    - grandan: grande
-    - tablon: table
+    - kiuj: الذين
+    - portis: حملوا
+    - grandan: ًكبيرة
+    - tablon: طاولةً
     - '?'
 -
-  demando: "Comment c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?"
+  demando: كيف حدث أنك قدمت مجدداً لعندنا بدون أشقاء؟
   rektatraduko: 
-    - Kiel: Comment
-    - okazis: "c'est arrivé"
+    - Kiel: كيف
+    - okazis: حدث
     - ','
-    - ke: que
-    - vi: tu
-    - denove: encore
-    - venis: "[tu] es venu"
-    - al: chez
-    - ni: nous
-    - sen: sans
-    - gefratoj: frères et soeurs ?
+    - ke: أن
+    - vi: أنت
+    - denove: مجدداً
+    - venis: قدمت
+    - al: إلى
+    - ni: نحن
+    - sen: بدون
+    - gefratoj: أشقاء: إخوة وأخوات
     - '?'
 -
-  demando: "Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau livre de cours ?"
+  demando: هل تستطيع عن طريق الكتاب التعليمي الجديد تعلم الإسبرانتو بسرعة بشكل كاف؟
   rektatraduko: 
-    - Ĉu: Est-ce que 
-    - vi: tu
-    - povas: peux
-    - per: avec
-    - la: le 
-    - nova: nouveau
-    - lernolibro: livre de cours
-    - sufiĉe: assez
-    - rapide: rapidement
-    - lerni: apprendre
-    - Esperanton: "[l'] espéranto"
+    - Ĉu: هل 
+    - vi: أنت
+    - povas: تستطيع
+    - per: عن طريق
+    - la: ال التعريف 
+    - nova: جديد
+    - lernolibro: كتاب تعليمي
+    - sufiĉe: بشكل كاف
+    - rapide: بسرعة
+    - lerni: تعلم
+    - Esperanton: الإسبرانتو
     - '?'

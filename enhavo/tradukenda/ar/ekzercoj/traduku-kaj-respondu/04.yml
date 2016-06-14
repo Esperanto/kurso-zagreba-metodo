@@ -1,73 +1,73 @@
 -
-  demando: Quand vous reverrai-je ?
+  demando: متى سأراك؟
   rektatraduko: 
-    - Kiam: Quand
-    - mi: je  
-    - revidos: reverrai
-    - vin: vous
+    - Kiam: متى
+    - mi: أنا  
+    - revidos: سأرى
+    - vin: إيّاكَ
     - '?'
 -
-  demando: Depuis combien de temps apprenez-vous la langue internationale ?
+  demando: منذ متى وأنت تتعلم اللغة العالمية؟
   rektatraduko: 
-    - Kiel: Combien
-    - longe: longtemps
-    - vi: vous
-    - lernas: apprenez
-    - la: la 
-    - Internacian: internationale
-    - Lingvon: langue
+    - Kiel: كيف
+    - longe: زمن طويل
+    - vi: أنت
+    - lernas: تتعلم
+    - la: ال التعريف 
+    - Internacian: عالميةَ
+    - Lingvon: لغةً
     - '?'
 -
-  demando: Où est mon nouveau livre de photos ?
+  demando: أين كتابي الجديد مع الصور؟
   rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - mia: mon
-    - nova: nouveau
-    - libro: livre
-    - kun: avec
-    - fotoj: des photos
+    - Kie: أين
+    - estas: يكون
+    - mia: الخاص بي
+    - nova: جديد
+    - libro: كتاب
+    - kun: مع
+    - fotoj: صور
     - '?'
 -
-  demando: Où irez-vous après le déjeuner ?
+  demando: إلى أين ستذهب بعد الغداء؟
   rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
+    - Kien: إلى أين
+    - vi: أنت
+    - iros: ستذهب
+    - post: بعد
+    - la: ال التعريف
+    - tagmanĝo: غداء
     - '?'
 -
-  demando: "Est-ce qu'on peut fermer la porte de la chambre quand il fait froid ?"
+  demando: هل يستطيع المرء إغلاق بابِ الغرفة عندما يبرد الجو؟
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - oni: "on"
-    - povas: peut
-    - fermi: fermer
-    - la: la
-    - pordon: porte
-    - de: de 
-    - la: la
-    - ĉambro: chambre
+    - Ĉu: هل
+    - oni: المرء
+    - povas: يستطيع
+    - fermi: أن يغلق
+    - la: ال التعريف
+    - pordon: باب
+    - de: أداة الإضافة 
+    - la: ال التعريف
+    - ĉambro: غرفة
     - ','
-    - kiam: quand
-    - estas: il fait
-    - malvarme: froid
+    - kiam: عندما
+    - estas: يكون
+    - malvarme: بارداً
     - '?'
 -
-  demando: "Combien de temps êtes-vous en colère si on vous prend beaucoup d'argent ?"
+  demando: لكم من الوقت تغضب إذا سلب منك المرء مالاً كثيراً؟
   rektatraduko: 
-    - Kiel: Combien
-    - longe: de temps
-    - vi: vous
-    - koleras: êtes en colère
+    - Kiel: كيف
+    - longe: زمن طويل
+    - vi: أنت
+    - koleras: تغضب
     - ','
-    - se: si
-    - oni: "on"
-    - forprenas: emporte
-    - de: de
-    - vi: vous
-    - multan: beaucoup 
-    - monon: argent
+    - se: إذا
+    - oni: المرء
+    - forprenas: يسلب
+    - de: من
+    - vi: أنت
+    - multan: كثيراً 
+    - monon: مالاً
     - '?'

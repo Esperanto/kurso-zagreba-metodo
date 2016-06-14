@@ -238,13 +238,14 @@ vestaĵojn: vêtements
 vestaĵon: vêtement
 veturado: voiture
 veturigus: conduirait
-viaj: vos
-virino: femme
-vojaĝantoj: voyageurs
-ĉambristoj: femmes de chambre
-ĉeesto: présence
-ĉirkaŭaĵo: alentour
-ĝenon: gêne
-ĝustatempe: juste à temps
-ŝiaj: ses
-ŝipkuron: bateau de course
+viaj: 
+  - ك
+virino: امرأة
+vojaĝantoj: مسافرين
+ĉambristoj: خادمات
+ĉeesto: وجود
+ĉirkaŭaĵo: محيط
+ĝenon: إزعاج
+ĝustatempe: في الوقت المناسب
+ŝiaj: لها
+ŝipkuron: سفينة السباق

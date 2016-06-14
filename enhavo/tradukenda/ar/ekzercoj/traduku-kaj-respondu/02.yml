@@ -1,5 +1,5 @@
 -
-  demando: كيف كان بيت القديم؟ 
+  demando: "كيف كان بيت القديم؟" 
   rektatraduko: 
     - Kia: كيف
     - estis: كان
@@ -47,7 +47,7 @@
     - amo: حب
     - '?'
 -
-  demando: من سيذهب معك إلى منزلك؟
+  demando: "من سيذهب معك إلى منزلك؟"
   rektatraduko:
     - Kiu: من
     - iros: سيذهب
@@ -58,7 +58,7 @@
     - hejmo: منزل
     - '?'
 -
-  demando: كيف هي عيون حبيبتك؟
+  demando: "كيف هي عيون حبيبتك؟"
   rektatraduko:
     - Kiaj: كيف
     - estas: تكون

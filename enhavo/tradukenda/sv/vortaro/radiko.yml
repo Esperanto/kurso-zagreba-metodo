@@ -23,29 +23,34 @@ atent:
 aĉet: köpa
 aŭd: höra
 aŭt: bil
-aŭtoritat: auktoritet
+aŭtoritat: 
+- auktoritet
+- myndighet
 bedaŭr: beklaga
 bel: vacker
 best: djur
 bezon: behöva
 bien:
 - egendom
-- land
+- gård
 - gods
 bon: 
 - bra
 - god
 branĉ: gren
-bru: oljud
+bru: buller
 buŝ: mun
 cert: säker
 dank: tacka
-daŭr: fortsätta
+daŭr: 
+- fortgå
+- pågå
+- vara
 decid: bestämma
 demand: fråga
 dev: 
-- måsta
-- vara tvungen
+  - måsta
+  - vara tvungen
 dezir: önska
 diabl: djävul
 dik: tjock
@@ -61,12 +66,12 @@ dolĉ: söt
 dom: hus
 don: ge
 dorm: sova
-doĝ: doge
+doĝ: doge (hög ämbetsman i Venedig)
 edz: 
 - make
 - man
 efektiv: i själva verket
-ekskurs: exkursion
+ekskurs: utflykt
 esper: hoppas
 est: vara, finnas
 facil:
@@ -92,7 +97,9 @@ fort: stark
 fot: foto
 frat: bror
 fru: tidig
-fuŝ: fördärva
+fuŝ: 
+- fördärva
+- slarva
 gondol: gondol
 graf: greve
 grand: stor
@@ -127,14 +134,16 @@ kar:
 - kär
 - älskad
 kastel: slott
-kav: grotta
+kav: 
+- håla
+- hålighet
 kelk: några
 kelner: 
 - kypare
 - servitör
 klar: 
-  - klar
-  - tydlig
+- klar
+- tydlig
 klub: klubb
 knab: pojke
 koler: arg
@@ -169,19 +178,19 @@ leg: läsa
 lern: lära sig
 leter: brev
 liber: 
-  - fri
-  - ledig
+- fri
+- ledig
 libr: bok
 lok: plats
 long: lång
 lud: 
-  - spela
-  - leka
+- spela
+- leka
 lum: ljus
 man: hand
 mank: 
-  - saknas
-  - fattas
+- saknas
+- fattas
 manĝ: äta
 mar: sea
 maten: morgon
@@ -190,64 +199,71 @@ met:
 - sätta
 - ställa
 - lägga
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
+mez: mitt
+milit: krig
+minut: minut
+mir: 
+- förundrar
+- förvånas
+moment: ögonblick
 mon: pengar
-mont: mountain
+mont: berg
 montr: 
 - visa
 - peka ut
 mort: dö
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
+mov: (för)flytta
+mult: många
+muzik: musik
+nask: föda (barn)
+natur: natur
 neces: nödvändig
 nokt: natt
 nom: namn
 not: 
-  - anteckning
-  - betyg
+- anteckning
+- betyg
 nov: ny
-odor: smell
-oft: often
+odor: lukt
+oft: ofta
 okaz: 
 - hända
 - inträffa
 okul: öga
 onkl: 
-  - farbror
-  - morbror
-opini: opinion
+- farbror
+- morbror
+opini: åsikt
 ord: ordning
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
+orel: öra
+pac: fred
+pag: betala
+pan: bröd
 paper: papper
 pardon: förlåta
 parol: 
 - tala
 - prata
-part: part
-pas: to pass
+part: del
+pas: passera
 patr:
 - fader
 - far
-paŝ: step
+paŝ: 
+- kliva
+- gå
 pens: 
 - tänka
 - tycka
-perd: to loose
+perd: 
+- tappa
+- mista
+ - förlora
 person: person
 pet: be (om något)
-pez: heavy
+pez: tung
 pied: fot
-plac: place
+plac: torg
 plan: plan
 plaĉ: behaga
 plen: 
@@ -258,22 +274,28 @@ pord: dörr
 port: bära
 pov: kunna
 pren: ta
-pret: ready
-prezent: to present
+pret: 
+- färdig
+- redo
+prezent: presentera
 problem: problem
 proksim: nära
-promen: to stroll
-propon: to propose
-prov: to try
+promen: promenera
+propon: föreslå
+prov: prova
 rajt: 
   - få
   - ha rätt till
 rapid: snabb
 raport: rapportera
-real: real
-rekt: direct
-renkont: berätta
-respekt: to respect
+real: verklig
+rekt: 
+- rak
+- direkt
+renkont: 
+- möta
+- träffa
+respekt: respektera
 respond: svara
 rest: 
 - stanna kvar
@@ -282,8 +304,8 @@ ricev: få
 rid: skratta
 rigard: titta
 riĉ: rik
-rol: role
-ruĝ: red
+rol: roll
+ruĝ: röd
 salt: hoppa
 salut: hälsa
 sam: 
@@ -294,9 +316,9 @@ saĝ:
   - vis
   - klok
 sci: veta
-sek: dry
+sek: torr
 sekret: hemlighet
-sekv: to follow
+sekv: följa
 semajn: vecka
 send: 
 - sända
@@ -304,49 +326,54 @@ send:
 serĉ: 
 - söka
 - leta
-si: reflexive pronoun
+si: sig
 sid: sitta
-silent: silent
-simil: similar
+silent: tyst
+simil: 
+- lik
+- liknande
 sinjor:
 - herre
 - herr
 situaci: sitation
 skrib: skriva
 sol: ensam
-son: to sound
+son: ljud
 sovaĝ: vild
 sport: sport
 star: stå
 strat: gata
 subit: plötslig
 sufiĉ: tillräcklig
-sukces: success
+sukces: lyckas
 sun: sol
-supr: above
+supr: ovanför
 tabl: bord 
 tag: dag
 te: te
-telefon: phone
+telefon: telefon
 temp: tid
-temperatur: temperature
+temperatur: temperatur
 ten: hålla
 teror: terror
 tim: rädsla
-ton: tone
+ton: ton
 trankvil: lugn
 trink: dricka
-trov: to find
-turk: Turkish
-tuŝ: to touch
+trov: hitta
+turk: turkisk
+tuŝ:
+- röra
+- vidröra
+- beröra
 urb: stad
 util: nyttig
-uz: to use
+uz: använda
 vagon: järnvägsvagn
 varm: varm
 ven: komma
 vend: sälja
-Veneci: Venice
+Veneci: Venedig
 ver: 
 - sann
 - verklig
@@ -358,7 +385,7 @@ vin: vin
 vir: man
 viv: leva
 vizaĝ: ansikte
-vizit: to visit
+vizit: besöka
 voj: väg
 vojaĝ: resa
 vok: 
@@ -369,20 +396,26 @@ vort: ord
 voĉ: röst
 zorg: bry sig
 ĉambr: rum
-ĉef: boss
+ĉef: chef
 ĝen:
-- to distrub
-- to bother
-ĝeneral: general
+- störa
+- besvära
+ĝeneral: generellt
 ĝoj: glad
-ĝust: to correct
-ĵet: to throw
+ĝust:
+- rätt
+- riktig
+ĵet: kasta
 ŝajn: 
   - förefalla
   - tyckas
   - verka
-ŝanĝ: to change
+ŝanĝ: 
+- ändra
+- byta
 ŝat: 
 - tycka om
 - gilla
-ŝip: ship
+ŝip: 
+- båt
+- fartyg

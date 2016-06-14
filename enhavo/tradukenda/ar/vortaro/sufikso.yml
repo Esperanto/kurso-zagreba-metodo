@@ -1,37 +1,36 @@
 ad:  action continue
 an:  "membre d'un groupe"
 ar:
-- groupe
-- ensemble
+  - مجموعة
 aĉ:  indique un aspect négatif
 aĵ:  chose concrète
 ebl: possibilité
 ec:  qualité abstraite
 eg:
-- grand
-- augmentatif
-ej:  lieu
+  - grand
+  - augmentatif
+ej:  مكان
 er:
-- fragment
-- petite pièce
-- particule
+  - fragment
+  - petite pièce
+  - particule
 estr:
-- chef
-- principal
+  - chef
+  - principal
 et:  
-- petit
-- diminutif
+  - petit
+  - diminutif
 ig:  
-- faire quelque chose
-il: outil
-in: féminin
+  - faire quelque chose
+il: أداة
+in: أنثى
 ind: digne de
-ist: profession
-iĝ: devenir
+ist: مهنة
+iĝ: يصبح
 uj: 
-- contenant
-- pays
+  - وعاء
+  - بلد
 ul: 
-- personne
+  - شخص
 um:  
-- signification indéfinie
+  - signification indéfinie

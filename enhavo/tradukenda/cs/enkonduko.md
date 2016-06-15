@@ -7,6 +7,6 @@ Kurs se skládá z **12 lekcí**, kažá obsahující
 
 - text
 - vysvětlení gramatiky
-- a 3 cvičení.
+- a 3 cvičení
 
-Dokončení kursu, vaám umožní porozumět nejduležitějším věcem a tvořit věci pro vyjádření se. Vyzkoušejte to!
+Dokončení kursu, vám umožní porozumět nejduležitějším věcem a tvořit věty pro vyjádření se. Vyzkoušejte to!

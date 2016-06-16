@@ -114,9 +114,15 @@ libroj: книги
 lumigis: засвітив
 malagrabla: неприємний
 malbela: негарний
-malbonaj: злі
-malbonajn: злих
-malbonan: злий
+malbonaj: 
+  - злі 
+  - погані
+malbonajn: 
+  - злих
+  - поганих
+malbonan: 
+  - злий
+  - поганий
 malbono: зло
 malfacilan: тяжкий
 malfacile: тяжко
@@ -136,11 +142,11 @@ mallumo: темрява
 malmulte: мало
 malmultekosta: дешева
 malmulton: малість
-malnova: старий
+malnova: старий (про речі)
 malnovaj: старі
 malofte: рідко 
 malplaĉa: неприємний
-malplaĉan: неприємний
+malplaĉan: неприємний (знахідний відмінок)
 malproksime: далеко
 malsaniĝis: захворів
 malsaĝa: дурний
@@ -175,7 +181,7 @@ novaĵoj: новини
 opinion: думку
 ordigi: упорядкувати
 paperoj: папери
-paperojn: папери
+paperojn: папери (знахідний відмінок)
 paperujon: папку
 pasigos: проводитимуть
 patrino: мама
@@ -211,7 +217,7 @@ sensukcese: неуспішно
 sentimulo: безстрашний (іменник)
 senvorte: безсловесно
 sinjorinoj: панí
-sinjorinon: пані
+sinjorinon: пані (знахідний відмінок)
 skribotablo: письмовий стіл
 soleca: самотній
 sovaĝejo: дика місцевість
@@ -232,14 +238,14 @@ unuaj: перші
 urbomezo: центр міста
 vagonaro: потяг
 vendejo: магазин
-vendejon: магазин
+vendejon: магазин (знахідний відмінок)
 vendisto: продавець
 vestaĵo: одяг
 vestaĵoj: 
   - одяг 
   - речі
 vestaĵojn: 
-  - одяг 
+  - одяг (знахідний відмінок, множина)
   - речі
 vestaĵon: одяг
 veturado: їзда

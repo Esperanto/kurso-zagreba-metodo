@@ -1,59 +1,75 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: vad
+tio: det där
+io: någonting
+ĉio: allting
+nenio: ingenting
 kiu:
-- who
-- which
+- vem
+- vilken
 tiu:
-- that person
-- that one
-iu: someone
+- den där personen
+- den där
+- det där
+iu: 
+- någon
+- något
 ĉiu:
-- everyone
-- every
+- alla
+- varje
 neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
+- ingen
+- inget
+kie: var
+tie: där
+ie: någonstans
+ĉie: överallt
+nenie: ingenstans
+kia: hurdan
+tia: 
+- sådan
+- sådant
+ia: någon slags
+ĉia: allt slags
+nenia: inget slags
+kiel: hur
+tiel: 
+- så
+- på så sätt
+iel: på något sätt
+ĉiel: på alla sätt
+neniel: på inget sätt
+kial: varför
+tial: därför
+ial: av någon anledning
+ĉial: av alla skäl
+nenial: av ingen orsak
+kiam: när
+tiam: då
+iam: 
+- någon gång
+- en gång
+ĉiam: alltid
+neniam: aldrig
+kiom: 
+- hur mycket
+- hur många
+tiom: 
+- så mycket
+- så många
 iom: 
-- to some extent
-- a certain amount
-ĉiom: 
-- all of it
-- the whole amount
-neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- något
+- lite
+- en smula
+ĉiom: alltsammans
+neniom: ingenting alls
+kies: 
+- vilkens
+- vems
+ties: 
+- dess
+- deras
+ies:
+- någons
+- någras
+ĉies: allas
+nenies: ingens

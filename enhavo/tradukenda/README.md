@@ -46,7 +46,7 @@ Nun ek al la tradukado!
 
 Plej bonas komenci kun la ekzercoj:
 
-#### Ekzerco 1
+#### Ekzerco 1 
 
 1. Iru al `/ekzercoj/traduku` kaj malfermu `01.yml`. Nun vi vidas la fontdosieron de la [unua ekzerco](http://learn.esperanto.com/en/01/ekzerco1/)
 2. Traduku nun la esperantajn vortojn al la nova lingvo:
@@ -65,9 +65,43 @@ Se via nova lingvo havas pli ol 1 tradukaĵo, skribu pli liniojn, ekzemple:
 
 Finfine, klaku al "Commit changes" sube por konservi viajn ŝanĝojn.
 
-### Vortaro
+Same, traduku la aliajn dosierojn en `/ekzercoj/traduku`. Bonas se vi ĉiam skribas multajn eblajn tradukaĵojn per vorto. Tiel ĉiuj eblaj respondoj de la estontaj lernantoj ĝustos.
 
-...
+#### Vortaro 
+
+Same, traduku ĉiuj dosierojn en `/vortaro`.
+
+#### Ekzerco 3
+
+En `/ekzercoj/traduku-kaj-respondu`, ni tradukas [trian ekzercon](http://learn.esperanto.com/en/01/ekzerco3/). Por ĉiu traduko, vi vidas 2 linojn:
+
+    demando:
+    rektatraduko:
+
+En la linio `demando:`, skribu bonsonan frazon en via lingvo, ekzemple:
+
+    demando: Does friendship make you more happy than love does?
+
+En la linio `rektatraduko:`, skribu laŭvortan tradukon en via lingvo. Ĝi ne devas esti bonsona aŭ eĉ gramatike ĝusta. Ĝi nur celas informi la lernanton kiujn Esperantajn vortojn ĝi aŭ ŝi uzu.  Ekzemple:
+
+    rektatraduko: 
+      - Ĉu: Whether
+      - amikeco: friendship
+      - pli: more
+      - feliĉigas: makes happy
+      - vin: you
+      - ol: than
+      - la: the
+      - amo: love
+      - '?'
+Tre bonas uzi la samajn vortojn kiel en la traduko en `/vortaro`. Sed notu ke tie oni bezonas __nur unu_ tradukaĵon per vorto.
+
+Se via lingvo tute ne havas laŭvortan tradukon de kelkaj Esperantaj vortoj, skribu ian klarigon. Ekzemple, se la angla ne havus la vorton "the", oni povus skribi
+
+      - la: (definite article)
+
+Denove: La celo estas ke la lernanto sciu kion skribu.
+
 
 ### Gramatiko
 

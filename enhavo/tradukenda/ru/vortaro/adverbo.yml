@@ -1,29 +1,41 @@
-almenaŭ: at least
-ambaŭ: both
-ankaŭ: also
-ankoraŭ: 
-- still
-- yet
-baldaŭ: soon
-do: so
-eĉ: even
-hieraŭ: yesterday
-hodiaŭ: today
-jam: already
-jes: 'yes' 
-kvazaŭ: as if
-morgaŭ: tomorrow
-nun: now
-nur: only
-plej: most (superlative) 
-pli: more (comparative) 
+almenaŭ: 
+ - по крайней мере
+ - по меньшей мере
+ambaŭ: 
+ - оба
+ - обе
+ankaŭ: 
+ - тоже
+ - также
+ankoraŭ: ещё
+baldaŭ: скоро
+do: итак
+eĉ: даже
+hieraŭ: вчера
+hodiaŭ: сегодня
+jam: уже
+jes: 'да' 
+kvazaŭ:
+ - как будто
+ - словно
+morgaŭ: завтра
+nun: 
+ - сейчас
+ - теперь
+nur: 
+ - только
+ - лишь
+plej: 
+ - наиболее
+ - самый
+pli: более 
 plu:
-- further
-- anymore
-preskaŭ: almost
-tamen: however
-tre: very
+- далее
+- дальше
+preskaŭ: почти
+tamen: однако
+tre: очень
 tro: 
-- too
-- too much
-tuj: immediately
+- слишком
+- чересчур
+tuj: сразу

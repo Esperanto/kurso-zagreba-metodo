@@ -174,6 +174,7 @@ lingvoj = [
   ('hr', u'(test: kroata)'),
   ('nl', u'(test: nederlanda)'), # Nederlands  
   ('pt', u'(test: portugala)'),
+  ('ru', u'(test: rusa)'),
   ('sv', u'(test: sveda)'),
   ('uk', u'(test: ukraina)')
 ]

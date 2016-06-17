@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: aktiv pågående handling
+int: aktiv avslutad handling
+ont: aktiv ej påbörjad handling
+unt: aktiv villkorlig handling
+at:  passiv pågående handling
+it:  passiv avslutad handling
+ot:  passiv ej påbörjad handling
+ut:  passiv villkorlig handling

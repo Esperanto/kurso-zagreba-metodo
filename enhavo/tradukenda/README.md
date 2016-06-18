@@ -73,7 +73,7 @@ Same, traduku ĉiuj dosierojn en `/vortaro`.
 
 #### Ekzerco 3
 
-En `/ekzercoj/traduku-kaj-respondu`, ni tradukas [trian ekzercon](http://learn.esperanto.com/en/01/ekzerco3/). Por ĉiu traduko, vi vidas 2 linojn:
+En `/ekzercoj/traduku-kaj-respondu`, ni tradukas la [trian ekzercon](http://learn.esperanto.com/en/01/ekzerco3/). Por ĉiu traduko, vi vidas 2 linojn:
 
     demando:
     rektatraduko:
@@ -94,7 +94,7 @@ En la linio `rektatraduko:`, skribu laŭvortan tradukon en via lingvo. Ĝi ne de
       - la: the
       - amo: love
       - '?'
-Tre bonas uzi la samajn vortojn kiel en la traduko en `/vortaro`. Sed notu ke tie oni bezonas __nur unu_ tradukaĵon per vorto.
+Tre bonas uzi la samajn vortojn kiel en la traduko en `/vortaro`. Sed notu ke tie oni bezonas __nur unu__ tradukaĵon per vorto.
 
 Se via lingvo tute ne havas laŭvortan tradukon de kelkaj Esperantaj vortoj, skribu ian klarigon. Ekzemple, se la angla ne havus la vorton "the", oni povus skribi
 

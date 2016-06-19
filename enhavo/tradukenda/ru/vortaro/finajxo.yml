@@ -1,11 +1,11 @@
-a:  Adjective
-e:  Adverb
-i:  Infinitive
-n:  Accusative case
-o:  Noun
-j:  Plural
-u:  Imperative verb 
-is: Verb in past tense
-as: Verb in present tense
-os: Verb in future tense
-us: Verb in conditional tense
+a:  Прилагательное
+e:  Наречие
+i:  Инфинитив
+n:  Винительный падеж
+o:  Существительное
+j:  Множественное число
+u:  Повелительное наклонение 
+is: Прошедшее время глагола
+as: Настоящее время глагола
+os: Будущее время глагола
+us: Условное наклонение глагола

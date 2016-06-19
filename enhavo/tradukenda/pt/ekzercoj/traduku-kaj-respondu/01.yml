@@ -7,9 +7,9 @@
     - amikino: amiga
     - '?'
 - 
-  demando: Acaso a tua amiga Ana está escrevendo agora no quarto?
+  demando: (Acaso) a tua amiga Ana está escrevendo agora no quarto?
   rektatraduko:
-    - Ĉu: Acaso
+    - Ĉu: (Acaso)
     - via: tua
     - amikino: amiga
     - Anna: Anna
@@ -20,9 +20,9 @@
     - ĉambro: quarto
     - '?'
 - 
-  demando: Acaso o amigo do teu pai trabalha num hotel?
+  demando: (Acaso) o amigo do teu pai trabalha num hotel?
   rektatraduko:
-    - Ĉu: Acaso
+    - Ĉu: (Acaso)
     - la: o
     - amiko: amigo
     - de: do
@@ -45,9 +45,9 @@
     - ĉambro: quarto
     - '?'
 - 
-  demando: Acaso está um livro didático de Esperanto sobre tua mesa?
+  demando: (Acaso) está um livro didático de Esperanto sobre tua mesa?
   rektatraduko:
-    - Ĉu: Acaso
+    - Ĉu: (Acaso)
     - Esperanto-lernolibro: livro didático de Esperanto
     - estas: está
     - sur: sobre

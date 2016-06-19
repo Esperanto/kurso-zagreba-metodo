@@ -1,7 +1,7 @@
 -
-  demando: Acaso os garçons em hotéis grandes, compreendem muitas línguas? 
+  demando: (Acaso) os garçons em hotéis grandes, compreendem muitas línguas? 
   rektatraduko:  
-    - Ĉu: Acaso 
+    - Ĉu: (Acaso) 
     - kelneroj: garçons
     - en: em
     - grandaj: grandes
@@ -11,9 +11,9 @@
     - lingvojn: línguas
     - '?'
 -
-  demando: Acaso você sabe, se Ana gosta da canção nova sobre um homem pobre e uma garota bonita?
+  demando: (Acaso) você sabe, se Ana gosta da canção nova sobre um homem pobre e uma garota bonita?
   rektatraduko: 
-    - Ĉu: Acaso
+    - Ĉu: (Acaso)
     - vi: você
     - scias: sabe
     - ','
@@ -61,9 +61,9 @@
     - gefratoj: irmãos e irmãs
     - '?'
 -
-  demando: Acaso você pode aprender Esperanto suficientemente rápido por meio do novo livro de aprendizado?
+  demando: (Acaso) você pode aprender Esperanto suficientemente rápido por meio do novo livro de aprendizado?
   rektatraduko: 
-    - Ĉu: Acaso
+    - Ĉu: (Acaso)
     - vi: você
     - povas: pode
     - per: por meio de

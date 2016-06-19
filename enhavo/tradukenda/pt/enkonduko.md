@@ -9,4 +9,4 @@ O curso consiste de **12 lições**, cada uma com:
 - uma explicação gramatical
 - e 3 exercícios
 
-Depois de terminar o curso, você será capaz de compreender as coisas mais importantes, e de formar frases simples para se expressar. Experimenta!
+Depois de terminar o curso, você será capaz de compreender as coisas mais importantes, e de formar frases simples para se expressar. Experimente!

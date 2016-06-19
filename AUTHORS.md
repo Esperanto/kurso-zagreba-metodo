@@ -54,6 +54,11 @@ La ciferecigon faris laŭlingve:
 
 - [Warut Bunprasert](https://github.com/warut92)
 
+### Turka
+
+- [Vasil Kadifeli](https://github.com/vasilkadifeli)
+- [Fatih Emre](https://github.com/fatihemre1)
+
 ### Kroata
 
 - [Zlatko Tišljar](https://github.com/ztisljar)

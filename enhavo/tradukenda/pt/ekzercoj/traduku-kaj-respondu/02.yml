@@ -8,14 +8,14 @@
     - hejmo: casa 
     - '?'
 - 
-  demando: Quais livros você leu e acaso eles são bons?
+  demando: Quais livros você leu e (Acaso) eles são bons?
   rektatraduko: 
     - Kiujn: Quais 
     - librojn: livros
     - vi: você
     - legis: leu
     - kaj: e
-    - ĉu: acaso
+    - ĉu: (Acaso)
     - ili: eles
     - estas: são
     - bonaj: bons 
@@ -36,9 +36,9 @@
     - Marko: Marcos
     - '?'
 - 
-  demando: Acaso você gosta de ler livros sobre o amor?
+  demando: (Acaso) você gosta de ler livros sobre o amor?
   rektatraduko: 
-    - Ĉu: Acaso
+    - Ĉu: (Acaso)
     - vi: você
     - ŝatas: gosta de
     - legi: ler

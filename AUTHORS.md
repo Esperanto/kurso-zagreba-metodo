@@ -60,5 +60,5 @@ La ciferecigon faris laŭlingve:
 
 ## Sono
 
-- [Emilio Cid] (https://github.com/EmilioCid)
+- [Emilio Cid](https://github.com/EmilioCid)
 

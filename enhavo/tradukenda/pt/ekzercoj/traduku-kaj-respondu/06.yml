@@ -1,7 +1,5 @@
 - 
-  demando: (acaso) Você deseja que eu mostre para você 
-
-meu mais novo livro?
+  demando: (acaso) Você deseja que eu mostre para você meu mais novo livro?
   rektatraduko: 
     - Ĉu: Acaso
     - vi: você
@@ -18,9 +16,7 @@ meu mais novo livro?
     - libron: livro
     - '?'
 - 
-  demando: O que você quer comer amanhã no café da 
-
-manhã?
+  demando: O que você quer comer amanhã no café da manhã?
   rektatraduko: 
     - Kion: O que
     - vi: você
@@ -29,9 +25,7 @@ manhã?
     - matenmanĝi: comer no café da manhã
     - '?'
 - 
-  demando: "Quando Marcos chegará, às cinco ou às oito 
-
-horas?"
+  demando: "Quando Marcos chegará, às cinco ou às oito horas?"
   rektatraduko: 
     - Kiam: Quando
     - Marko: Marcos
@@ -47,9 +41,7 @@ horas?"
     - horo: hora(s)
     - '?'
 - 
-  demando: Quando você percebeu que a família inteira 
-
-me chama de benfeitor?
+  demando: Quando você percebeu que a família inteira me chama de benfeitor?
   rektatraduko: 
     - Kiam: Quando
     - vi: você
@@ -64,9 +56,7 @@ me chama de benfeitor?
     - bonfarulo: benfeitor
     - '?'
 - 
-  demando: (acaso) O livreto o qual eu enviei para você 
-
-foi útil?
+  demando: (acaso) O livreto o qual eu enviei para você foi útil?
   rektatraduko: 
     - Ĉu: Acaso
     - la: o 

@@ -1,72 +1,82 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: (acaso) Você deseja que eu mostre para você 
+
+meu mais novo livro?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: Acaso
+    - vi: você
+    - deziras: deseja
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: que 
+    - mi: eu
+    - montras: mostre
+    - al: para
+    - vi: você
+    - mian: meu
+    - plej: mais
+    - novan: novo
+    - libron: livro
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: O que você quer comer amanhã no café da 
+
+manhã?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: O que
+    - vi: você
+    - volas: quer
+    - morgaŭ: amanhã
+    - matenmanĝi: comer no café da manhã
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: "Quando Marcos chegará, às cinco ou às oito 
+
+horas?"
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: Quando
+    - Marko: Marcos
+    - alvenos: chegará
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: a
+    - la: as (às)
+    - kvina: cinco
+    - aŭ: ou
+    - je: a
+    - la: as (às)
+    - oka: oito
+    - horo: hora(s)
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Quando você percebeu que a família inteira 
+
+me chama de benfeitor?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Quando
+    - vi: você
+    - rimarkis: percebeu
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: que
+    - la: a
+    - tuta: inteira
+    - familio: família
+    - nomas: chama
+    - min: a mim
+    - bonfarulo: benfeitor
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: (acaso) O livreto o qual eu enviei para você 
+
+foi útil?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Acaso
+    - la: o 
+    - libreto: livreto
+    - estis: foi 
+    - utila: útil
+    - al: para
+    - vi: você
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: o qual
+    - mi: eu 
+    - sendis: enviei
     - '?'

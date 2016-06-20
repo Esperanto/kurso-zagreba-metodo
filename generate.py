@@ -166,6 +166,7 @@ lingvoj = [
   ('ms', u'Bahasa Melayu'),
   ('th', u'ภาษาไทย'),
   ('tr', u'Türkçe (beta)'),
+  ('uk', u'Українська'),
   ('zh', u'中文'),
   ('ar', u'(test: araba)'),
   ('ca', u'(test: kataluna)'),
@@ -175,8 +176,7 @@ lingvoj = [
   ('nl', u'(test: nederlanda)'), # Nederlands  
   ('pt', u'(test: portugala)'),
   ('ru', u'(test: rusa)'),
-  ('sv', u'(test: sveda)'),
-  ('uk', u'(test: ukraina)')
+  ('sv', u'(test: sveda)')
 ]
 
 if args.lingvo:

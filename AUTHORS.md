@@ -62,7 +62,17 @@ La ciferecigon faris laŭlingve:
 ### Kroata
 
 - [Zlatko Tišljar](https://github.com/ztisljar)
+ 
+### Portugala
 
+- [Emilio Cid](https://github.com/EmilioCid)
+- Túlio Flores
+- Jairo Augusto Dos Santos
+- Paulo Amariz
+- Matheus Arantes Pacheco
+- Cicero Soares 
+- Frederico José Andries Lopes
+- Fabrício Valle
 ## Sono
 
 - [Emilio Cid](https://github.com/EmilioCid)

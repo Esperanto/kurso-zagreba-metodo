@@ -10,3 +10,4 @@ O curso consiste de **12 lições**, cada uma com:
 - e 3 exercícios
 
 Depois de terminar o curso, você será capaz de compreender as coisas mais importantes, e de formar frases simples para se expressar. Experimente!
+Participe de nosso grupo de apoio para tirar suas dúvidas [https://www.facebook.com/groups/esperanto12dias](https://www.facebook.com/groups/esperanto12dias/)

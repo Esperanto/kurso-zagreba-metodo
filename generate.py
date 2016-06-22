@@ -173,6 +173,7 @@ lingvoj = [
   ('cs', u'(test: ĉeĥa)'),
   ('frp', u'(test: arpitana)'),
   ('hr', u'(test: kroata)'),
+  ('id', u'(test: indonezia)'),
   ('nl', u'(test: nederlanda)'), # Nederlands  
   ('pt', u'(test: portugala)'),
   ('ru', u'(test: rusa)'),

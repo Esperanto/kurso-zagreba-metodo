@@ -1,68 +1,68 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: (Acaso) nós veremos de novo um ao outro onde seja e quando seja?
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: (Acaso)
+    - ni: nós
+    - revidos: veremos de novo
+    - nin: um ao outro
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: onde
+    - ajn: seja
+    - kaj: e
+    - kiam: quando
+    - ajn: seja
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: Quando eu devolverei a outra metade dos livros?
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: Quando
+    - mi: eu
+    - redonos: devolverei
+    - la: a
+    - alian: outra
+    - duonon: metade
+    - de: de
+    - la: os (dos)
+    - libroj: livros
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: (Acaso) você necessitará mais de um quarto de ano para esses trabalhos?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: (Acaso)
+    - vi: você
+    - bezonos: necessitará
+    - pli: mais
+    - ol: de
+    - kvaronan: um quarto de
+    - jaron: ano
+    - por: para
+    - tiuj: esses
+    - laboroj: trabalhos
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: Por que quanto mais frio está, tanto mais tempo nós esperamos?
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: Por que
+    - ju: quanto
+    - pli: mais
+    - malvarme: frio
+    - estas: está
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - des: tanto
+    - pli: mais
+    - longe: tempo
+    - ni: nós
+    - atendas: esperamos
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: (Acaso) você seria feliz com algum homem qualquer?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: (Acaso)
+    - vi: você
+    - estus: seria
+    - feliĉa: feliz
+    - kun: com
+    - iu: algum
+    - ajn: qualquer
+    - viro: homem
     - '?'

@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: (Acaso) você pode trazer o remédio da minha irmã?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: (Acaso)
+    - vi: você
+    - povas: pode
+    - kunporti: trazer
+    - la: o
+    - sanigilon: remédio
+    - de: da
+    - mia: minha
+    - fratino: irmã
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: Quando você comprou esse instrumento musical?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Quando
+    - vi: você
+    - aĉetis: comprou
+    - tiun: esse
+    - muzikilon: instrumento musical
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: Quem pela última vez usou minha chave?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Quem
+    - laste: pela última vez
+    - uzis: usou
+    - mian: minha
+    - ŝlosilon: chave
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: (Acaso) você em Veneza andou também por meio de ĝondola?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: (Acaso)
+    - vi: você
+    - en: em
+    - Venecio: Veneza
+    - veturis: andou
+    - ankaŭ: também
+    - per: por meio de
+    - gondolo: gôndola
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: (Acaso) você poderá começar a dormir quando haja silêncio?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: (Acaso)
+    - vi: você
+    - povos: poderá
+    - ekdormi: começar a dormir
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: quando 
+    - estos silento: haja silêncio
     - '?'

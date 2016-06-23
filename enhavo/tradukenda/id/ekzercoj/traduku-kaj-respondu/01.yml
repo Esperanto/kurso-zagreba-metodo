@@ -1,57 +1,71 @@
 - 
-  demando: Who is your girl-friend?
+  demando: Siapa teman perempuanmu?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Siapa
+    - estas: adalah
+    - via: -mu
+    - amikino: teman perempuan
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Apakah teman perempuanmu Anna sekarang menulis di kamar?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
+    - Ĉu: Apakah
+    - via: -mu
+    - amikino: teman perempuan
     - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - skribas: menulis
+    - nun: sekarang
+    - en: di
+    - la: (kata sandang) 
+    - ĉambro: kamar
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Apakah teman ayahmu bekerja di hotel?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
+    - Ĉu: Apakah
+    - la: (kata sandang)
+    - amiko: teman
+    - de: dari
+    - via: -mu
+    - patro: 
+      - ayah
+      - bapak
+    - laboras: bekerja
+    - en: di
     - hotelo: hotel
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: Apa yang ada di atas meja kerja di ruangan kami?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: Apa 
+    - estas: 
+      - adalah
+      - ada
+    - sur: 
+      - pada
+      - di atas
+    - la: (kata sandang)
+    - labortablo: meja kerja
+    - en: di
+    - nia: 
+      - punya kami
+      - punya kita
+    - ĉambro: 
+      - kamar
+      - ruangan
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Apakah buku pelajaran Esperanto ada di atas mejamu?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: Apakah
+    - Esperanto-lernolibro: buku pelajaran Esperanto
+    - estas: 
+      - adalah
+      - ada
+    - sur:
+      - pada
+      - di atas
+    - via: -mu 
+    - tablo: meja
     - '?'
 

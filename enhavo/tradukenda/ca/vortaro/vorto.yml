@@ -347,7 +347,9 @@ revenis:
  - va tornar
  - tornava
 revidi: tornar a veure
-revido: reveure, reveure's
+revido: 
+- reveure
+- reveure's
 ridetis:
  - va somriure
  - somreia
@@ -367,59 +369,77 @@ senkolora:
 - incolor
 - incolora
 sensukcese: sense èxit
-sentimulo: valent/a
+sentimulo: 
+- valent
+- valenta
 senvorte: sense paraules
 sinjorinoj: senyores
-sinjorinon: senyora (objecte directe)
+sinjorinon: senyora 
 skribotablo: escriptori
-soleca: solitari/a
+soleca: 
+- solitari
+- solitària
 sovaĝejo: territori salvatge
 sportisto: (un) esportista
 subakvigis:
- - va enfonsar (dins l'aigua)
- - enfonsava (dins l'aigua)
+ - va enfonsar 
+ - enfonsava 
 subakviĝis:
- - es va enfonsar (dins l'aigua)
- - s'enfonsava (dins l'aigua)
+ - es va enfonsar 
+ - s'enfonsava 
 subite:
  - de sobte
  - de cop i volta
 supren: (cap a) amunt
-surhavas: porta (posat/da)
-surlokan: sobre el lloc, del lloc
+surhavas: porta (posat)
+surlokan: 
+- sobre el lloc
+- del lloc
 teroristoj: terroristes
-tiuokaze: en aquest cas, en tal situació
+tiuokaze: 
+- en aquest cas
+- en tal situació
 travivaĵo: vivència
 tridekjara:
  - de trenta anys
 troviĝis:
  - es va trobar
  - es trobava
-unuaj: primers/es
+unuaj: 
+- primers
+- primeres
 urbocentro: centre de la ciutat
 vagonaro: tren
 vendejo: botiga
-vendejon: botiga (objecte directe)
+vendejon: botiga 
 vendisto: venedor 
 vestaĵo: peça de roba
 vestaĵoj: peces de roba
-vestaĵojn: peces de roba (objecte directe)
-vestaĵon: ropa
+vestaĵojn: peces de roba 
+vestaĵon: peça de roba
 veturado: 
 - viatge*
 - conducció
-veturigus: portaria, acompanyaria (a algú amb vehicle) 
+veturigus: 
+- portaria
+- acompanyaria (a algú amb vehicle) 
 viaj:
- - teus/teves
- - els teus/les teves
+ - teu
+ - teves
+ - els teus
+ - les teves
 virino: dona
 vojaĝantoj: viatgers
 ĉambristoj: servidor d'habitacions
 ĉeesto: assistència
-ĉirkaŭaĵo: voltants, entorn
-ĝenon: molèstia (objecte directe)
+ĉirkaŭaĵo: 
+- voltants
+- entorn
+ĝenon: molèstia 
 ĝustatempe: just a temps
 ŝiaj:
- - seus/seves (d'ella)
- - els seus/les seves (d'ella)
+ - seus
+ - seves 
+ - els seus
+ - les seves 
 ŝipkuron: cursa* de vaixells

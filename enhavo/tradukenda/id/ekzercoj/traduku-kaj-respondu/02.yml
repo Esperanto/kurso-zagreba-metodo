@@ -1,70 +1,81 @@
 - 
-  demando: What was your old home like?
+  demando: Seperti apa rumahmu yang lama?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: Seperti apa
+    - estis: 
+      - adalah (lampau)
+      - ada (lampau)
+    - via: -mu
+    - malnova:
+      - lama
+    - hejmo: rumah 
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: Buku-buku yang mana yang telah kau baca, dan apakah itu bagus?
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
+    - Kiujn: Yang mana 
+    - librojn: buku-buku
     - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - legis: telah dibaca
+    - kaj: dan
+    - ĉu: apakah
+    - ili:
+      - itu
+      - mereka
+    - estas: 
+      - adalah
+      - ada
+    - bonaj: bagus 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: "Apa yang sudah Anna dan Mark lakukan di ruangan kecil milik Mark?"
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kion: Apa
+    - faris: sudah lakukan
     - Anna: Anna
-    - kaj: and
+    - kaj: dan
     - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
+    - en: di 
+    - la: (kata sandang)
+    - malgranda: kecil
+    - ĉambro: 
+      - ruangan
+      - kamar
+    - de: dari
     - Marko: Mark
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Apakah kamu suka membaca buku-buku tentang cinta?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: Apakah
+    - vi: kamu
+    - ŝatas: suka
+    - legi: membaca
+    - librojn: buku-buku
+    - pri: tentang
+    - amo: cinta
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Siapa yang akan pergi denganmu ke rumahmu?
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: Siapa
+    - iros: akan pergi
+    - kun: dengan
+    - vi: kamu
+    - al: ke 
+    - via: -mu
+    - hejmo: rumah
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "Seperti apa mata teman perempuanmu?"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: Seperti apa
+    - estas: 
+      - adalah
+      - ada
+    - la: (kata sandang)
+    - okuloj: mata
+    - de: dari
+    - via: -mu
+    - amikino: teman perempuan
     - '?'

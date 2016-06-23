@@ -27,9 +27,9 @@
   rektatraduko:
     - Kion: Què
     - faris: van fer
-    - Ana: l'Anna
+    - Ana: Anna
     - kaj: i
-    - Marko: el Marko
+    - Marko: Marc
     - en: a
     - la: la
     - malgranda: petita
@@ -59,7 +59,9 @@
     - vi: tu
     - al: a 
     - via: teva
-    - hejmo: casa
+    - hejmo: 
+    - casa
+    - llar
     - '?'
 - 
   demando: ¿Com són els ulls de la teva amiga?

@@ -21,49 +21,45 @@
     - kiam: kapan
     - kaj: dan
     - kie: di mana
-    - ni:
-      - kami
-      - kita
+    - ni: kita
     - revidos: akan melihat lagi
-    - nin:
-      - kami
-      - kita
+    - nin: kita
     - '?'
 -
-  demando: What time is it now?
+  demando: Jam berapa sekarang?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: Berapa
+    - horo: jam
+    - estas: adalah 
+    - nun: sekarang
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Apakah seseorang membantu membukakan pintu rumah lama itu untukmu?
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: Apakah
+    - iu: seseorang 
+    - helpis: membantu 
+    - al: pada 
+    - vi: kamu 
+    - malfermi: membuka 
+    - la: (kata sandang)
+    - pordon: pintu 
+    - de: dari
+    - la: (kata sandang)
+    - malnova: lama
+    - domo: rumah
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Mengapa kamu tidak punya waktu untuk mendengarkanku lebih lama?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - al: to
-    - mi: me
-    - pli: more
-    - longe: long
+    - Kial: Mengapa
+    - vi: kamu
+    - ne: tidak
+    - havas: punya
+    - tempon: waktu
+    - aŭskulti: mendengar
+    - al: pada
+    - mi: aku
+    - pli: lebih
+    - longe: lama
     - '?'

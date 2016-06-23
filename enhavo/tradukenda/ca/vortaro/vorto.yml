@@ -1,7 +1,9 @@
 Esperanto: esperanto
 akcepteblan: acceptable
 alilandaj: d'altres països
-alporti: portar, aportar
+alporti: 
+- portar
+- aportar
 alportis:
  - va portar
  - portava
@@ -10,14 +12,16 @@ alvenis:
  - va arribar
  - arribava
 alvenos: arribarà
-amikino: amiga (subjecte)
-amikinon: amiga (objecte directe)
+amikino: amiga 
+amikinon: amiga
 amletero: carta d'amor
 antaŭeniris:
  - va anar endavant
  - anava al davant
 arbaro: bosc
-arbetoj: arbustos, arbres petits
+arbetoj: 
+- arbustos
+- arbres petits
 arboplena: ple d'arbres
 aĉetumos: anirà a fer compres
 aĉodora: que fa mala olor 
@@ -27,24 +31,32 @@ aŭdiĝis:
 bedaŭrinde: malauradament
 belaĵoj: coses maques
 beleta: boniqueta
-bestetoj: animalets, bestioles
+bestetoj: 
+- animalets
+- bestioles
 bonega:
  - excel·lent
  - perfecte/a
  - boníssim/a
 bonvolu: si us plau
-bonvolus: faries el favor (de)
+bonvolus: faries el favor 
 centoj: centenars
 dankon: gràcies
 daŭrigis:
  - continuà
  - continuava
-denove: de nou, altre cop
+denove: 
+- de nou
+- altre cop
 devojiĝis: es va desviar del camí
 dikiĝi: engreixar-se
-doloriga: que causa dolor, que fa mal
-dolorige: causant dolor, fent mal
-domegon: mansió (objecte directe)
+doloriga: 
+- que causa dolor
+- que fa mal
+dolorige: 
+- causant dolor
+- fent mal
+domegon: mansió 
 dumnokte:
  - durant la nit
  - de nit
@@ -64,33 +76,45 @@ eksaltis: es va posar a saltar
 ekscii: assabentar-se
 eksidis: es va asseure
 ekstervoje: fora del camí
-ekveturas: es posa en marxa (comença el viatge)
+ekveturas: es posa en marxa 
 ekvidis: va començar a veure
 elstaraj: destacables
 eniri: entrar
 eniris: va entrar
-eniru: entra (imperatiu)
-facilmovaj: de moviment fàcil, àgil
+eniru: entra 
+facilmovaj: 
+- de moviment fàcil
+- àgils
 faligi: derribar
 faligis:
  - va derribar
  - derribava
-familianoj: familiars, parents
-fermita: tancat/da
-fine: finalment, a la fi
-foresti: ser o estar fora
+familianoj: 
+- familiars
+- parents
+fermita: 
+- tancat
+- tancada
+fine: 
+- finalment
+- a la fi
+foresti:
+- ser fora
+- estar fora
 foriros: marxarà
 fratino: germana
 fuŝparolis: parlava inadequadament
-geamikoj: amics (d'ambdós sexes)
-gefratoj: germans (d'ambdós sexes)
-gelernantojn: alumnes (d'ambdós sexes)
-gepatroj: pares (pare i mare)
+geamikoj: amics
+gefratoj: germans 
+gelernantojn: alumnes 
+gepatroj: pares 
 gondolisto: gondoler 
 gondolistoj: gondolers
-grafino: comtessa (subjecte)
-grafinon: comtessa (objecte directe)
-grandula: de gent gran (en estatura, volum, edat)
+grafino: comtessa
+grafinon: comtessa 
+grandula: 
+- de gent gran 
+- de gent alta
 gravuloj: gent important
 haltigis:
  - va aturar
@@ -98,25 +122,29 @@ haltigis:
 havigi: proporcionar
 havindan: que paga la pena tenir
 homformo: forma de persona
-hommulton: multitud, munió de persones
-ideoriĉan: imaginatiu/va
-industriisto: industrial (persona dedicada a la indústria)
-instruistino: professora, mestra
+hommulton: 
+- multitud
+- munió de persones
+ideoriĉan: imaginatiu
+industriisto: 
+- industrial 
+- persona dedicada a la indústria
+instruistino: professora
 instruiston: professor
 intervidiĝas: es veuen l'un a l'altre
-iron: anada (objecte directe)
+iron: anada 
 junulino: (una) jove
 junulinoj: (unes) joves
-junulinon: (una) jove (objecte directe)
+junulinon: (una) jove 
 junuloj: (uns) joves (nois)
-kafejo: cafeteria (subjecte)
-kafejon: cafeteria (objecte directe)
+kafejo: cafeteria 
+kafejon: cafeteria 
 karulino: (dona) estimada
 karulo: (home) estimat
 klarigis:
  - va explicar
  - explicava
-klarigon: explicació (objecte directe) 
+klarigon: explicació  
 klubanoj: membres d'un club
 kompreneble:
 - es clar
@@ -131,13 +159,15 @@ kunulino: companya
 kunvenas: es reuneixen
 laboristo: treballador
 lampeto: làmpada petita
-lernanto: aprenent, alumne
+lernanto: 
+- aprenent
+- alumne
 lernejo:
  - escola
  - col·legi
 lernejon:
- - escola (objecte directe)
- - col·legi (objecte directe)
+ - escola 
+ - col·legi 
 lernolibroj: llibres de text
 leteroj: cartes
 libertempo: temps lliure
@@ -146,8 +176,12 @@ lumigis:
 - va il·luminar
 - il·luminava
 malagrabla: desagradable
-malbela: lleig/lletja
-malbonaj: dolents/es
+malbela: 
+- lleig
+- lletja
+malbonaj:
+- dolents
+- dolentes
 malbonajn: dolents/es (objecte directe)
 malbonan: dolent/a (objecte directe)
 malbono: maldat, mal 

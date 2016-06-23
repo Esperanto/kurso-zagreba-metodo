@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Apakah kamu ingin aku memperlihatkan padamu bukuku yang terbaru?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: Apakah
+    - vi: kamu
+    - deziras: ingin
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: bahwa 
+    - mi: saya
+    - montras: memperlihatkan
+    - al: kepada
+    - vi: kamu
+    - mian: punyaku
+    - plej: paling
+    - novan: baru
+    - libron: buku
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Apa yang kamu mau untuk sarapan besok?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Apa
+    - vi: kamu
+    - volas: mau
+    - morgaŭ: besok
+    - matenmanĝi: sarapan
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: "Kapan Marko akan datang, pada jam lima atau jam delapan?"
   rektatraduko: 
-    - Kiam: When
+    - Kiam: Kapan
     - Marko: Mark
-    - alvenos: will arrive
+    - alvenos: akan datang
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: pada
+    - la: (kata sandang)
+    - kvina: ke lima
+    - aŭ: atau
+    - je: pada
+    - la: (kata sandang)
+    - oka: ke delapan
+    - horo: jam
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Kapan kamu menyadari bahwa seluruh keluarga menyebutku dermawan?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Kapan
+    - vi: kamu
+    - rimarkis: menyadari (lampau)
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: bahwa
+    - la: (kata sandang)
+    - tuta: seluruh
+    - familio: keluarga
+    - nomas: menamai
+    - min: saya
+    - bonfarulo: dermawan
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Apakah buklet yang saya kirimkan berguna untukmu?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Apakah
+    - la: (kata sandang)
+    - libreto: buklet
+    - estis: adalah (lampau)
+    - utila: berguna
+    - al: bagi
+    - vi: kamu
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: siapa
+    - mi: saya 
+    - sendis: mengirimkan (lampau)
     - '?'

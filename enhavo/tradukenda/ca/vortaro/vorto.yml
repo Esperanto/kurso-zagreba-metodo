@@ -182,86 +182,139 @@ malbela:
 malbonaj:
 - dolents
 - dolentes
-malbonajn: dolents/es (objecte directe)
-malbonan: dolent/a (objecte directe)
-malbono: maldat, mal 
-malfacilan: difícil (objecte directe)
+malbonajn:
+- dolents
+- dolentes
+malbonan: 
+- dolent
+- dolenta
+malbono: 
+- maldat
+- mal 
+malfacilan: difícil
 malfacile:
  - difícilment
  - difícil
-malfeliĉo: infelicitat, tristesa
+malfeliĉo: 
+- infelicitat
+- tristesa
 malforta: feble
 malforte: dèbilment
-malfruas: triga, fa tard 
+malfruas: 
+- triga
+- fa tard 
 malfrue: tard 
-malfrui: trigar, fer tard 
-malgranda: petit/a
+malfrui: 
+- trigar
+- fer tard 
+malgranda: 
+- petit
+- petita
 malhelpis:
  - va dificultar
  - dificultava
 malinterese: sense interès
-malkontentigi: deixar insatisfet/a, disgustar
-mallaŭte: baixet (amb el so baix)
-malliberejon: presó, garjola (objecte directe)
+malkontentigi: 
+- deixar insatisfet
+- disgustar
+mallaŭte: baixet 
+malliberejon: 
+- presó
+- garjola
 mallumo: foscor
 malmulte: poc
-malmultekosta: barat/a
-malmulton: poc* (objecte directe)
+malmultekosta: 
+- barat
+- barata
+malmulton: poc* 
 malnova:
- - vell/a (contrari de nou)
- - antic/antiga
+ - vell
+ - vella
+ - antic
+ - antiga
 malnovaj:
- - vells/velles
- - antics/antigues
+ - vells
+ - velles
+ - antics
+ - antigues
 malofte: rarament 
 malplaĉa: desagradable
-malplaĉan: desagradable (adjectiu d'objecte directe) 
+malplaĉan: desagradable  
 malproksime: lluny
 malsaniĝis:
- - es va posar malalt, va enmalaltir
-malsaĝa: insensat/a
-malsekajn: mullats/mullades (adjectiu d'objecte directe)
-malsukcesa: fracassat/da
-maltrankvila: intranquil/intranquil·la
-malvarman: fred/a (adjectiu d'objecte directe)
-malĝoja: trist/a
-malsatas: té gana, fam
+ - es va posar malalt
+ - va enmalaltir
+malsaĝa: 
+- insensat
+- insensata
+malsekajn: 
+- mullats
+- mullades
+malsukcesa: 
+- fracassat
+- fracassada
+maltrankvila: 
+- intranquil
+- intranquil·la
+malvarman: 
+- fred
+- freda
+malĝoja: 
+- trist
+- trista
+malsatas: 
+- té gana
+- té fam
 malsatis:
  - tenia gana
  - va passar gana
-manĝaĵo: menjar (subjecte)
-manĝegi: menjar (amb voracitat), endrapar
+manĝaĵo: menjar 
+manĝegi: 
+- menjar (amb voracitat)
+- endrapar
 maristo: mariner
 maristoj: mariners
-mariston: mariner (objecte directe)
+mariston: mariner 
 miaj:
  - els meus/les meves
  - meus/meves
 militistoj: militars
-monerojn: monedes (objecte directe)
+monerojn: monedes
 monujo: moneder
 morgaŭan: de demà
-mortigo: mort, fet de matar
+mortigo: 
+- mort
+- fet de matar
 moviĝis:
  - es va moure
  - es movia
-multekosta: car/a
+multekosta: 
+- car
+- cara
 multpiedaj: amb molts peus
 naskiĝtaga: de l'aniversari
-naskiĝtago: aniversari (del naixement) 
-naturaĵojn: coses naturals (objecte directe)
-nehoma: no humà/ no humana
-neinteresaj: sense interès, banals (adjectiu plural)
-nokta: nocturn/a
+naskiĝtago: aniversari del naixement 
+naturaĵojn: coses naturals 
+nehoma: 
+- no humà
+- no humana
+neinteresaj: 
+- sense interès
+- banals 
+nokta: 
+- nocturn
+- nocturna
 novaĵoj:
  - notícies
  - novetats
 opinion: opinió
 ordigi: ordenar 
 paperoj: papers
-paperojn:  papers (objecte directe)
-paperujon: paperera (objecte directe)
-pasigos: passarà, farà passar
+paperojn:  papers
+paperujon: paperera 
+pasigos: 
+- passarà
+- farà passar
 patrino: mare
 perdigis:
  - va fer perdre
@@ -277,13 +330,19 @@ plibeligis:
  - embellia
 plimulto: majoria
 policano: agent de policia
-promenejo: passeig, rambla
-promeno: passeig, caminada
+promenejo: 
+- passeig
+- rambla
+promeno: 
+- passeig
+- caminada
 rapidege: rapidíssimament
 realigi: realitzar
-redonu: torna, restitueix (imperatiu)
+redonu: 
+- torna
+- restitueix 
 rekapti: tornar a atrapar
-repaciĝon: reconciliació (objecte directe)
+repaciĝon: reconciliació
 revenis:
  - va tornar
  - tornava
@@ -295,14 +354,18 @@ ridetis:
 rideto: somriure
 riĉeco: riquesa
 riĉulo: (un) ric
-salton: salto (objecte directe)
+salton: salto 
 saluton: hola
 samklubanoj: membres del mateix club
-sekretajn: secrets/es (adjectiu d'objecte directe)
-sekreton: (un) secret (objecte directe)
+sekretajn: 
+- secrets
+- secretes
+sekreton: (un) secret 
 senbrue: sense soroll
 seninterese: sense interès
-senkolora: incolor/a
+senkolora: 
+- incolor
+- incolora
 sensukcese: sense èxit
 sentimulo: valent/a
 senvorte: sense paraules

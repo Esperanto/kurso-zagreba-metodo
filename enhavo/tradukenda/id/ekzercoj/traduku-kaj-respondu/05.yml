@@ -1,29 +1,33 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: Apakah kamu bisa belajar dengan tenang ketika seseorang menyanyi dengan gembira?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: Apakah
+    - vi: kamu
+    - povas: bisa
+    - trankvile: dengan tenang
+    - lerni: belajar
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: selama
+    - iu: seseorang
+    - ĝoje: dengan gembira
+    - kantas: menyanyi
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Siapa yang tahu kapan dan di mana kita akan bertemu lagi?
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Siapa
+    - scias: tahu
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: kapan
+    - kaj: dan
+    - kie: di mana
+    - ni:
+      - kami
+      - kita
+    - revidos: akan melihat lagi
+    - nin:
+      - kami
+      - kita
     - '?'
 -
   demando: What time is it now?

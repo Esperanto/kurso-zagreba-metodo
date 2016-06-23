@@ -3,7 +3,7 @@
   rektatraduko: 
     - Kiam: Kapan
     - mi: saya  
-    - revidos: akan melihat
+    - revidos: akan melihat lagi
     - vin: kamu
     - '?'
 -
@@ -18,12 +18,10 @@
     - Lingvon: Bahasa
     - '?'
 -
-  demando: Di mana buku baruku dengan foto?
+  demando: Di mana buku baruku yang ada foto-fotonya?
   rektatraduko: 
     - Kie: Di mana
-    - estas:
-      - adalah
-      - ada
+    - estas: adalah
     - mia: punyaku
     - nova: baru
     - libro: buku
@@ -42,7 +40,7 @@
     - '?'
 -
   demando: Apakah seseorang bisa menutup pintu kamar ketika sedang dingin?
-  rektatraduko: 
+  rektatraduko:
     - Ĉu: Apakah
     - oni: seseorang
     - povas: bisa 
@@ -53,21 +51,15 @@
     - la: (kata sandang)
     - ĉambro: kamar
     - ','
-    - kiam: 
-      - ketika
-      - kapan
-    - estas: 
-      - adalah
-      - ada
+    - kiam: kapan
+    - estas: adalah
     - malvarme: dingin
     - '?'
 -
-  demando: Berapa lama kamu marah jika orang mengambil banyak uang dari kamu?
+  demando: Berapa lama kamu marah jika ada yang mengambil banyak uang dari kamu?
   rektatraduko: 
     - Kiel: Bagaimana
-    - longe:
-      - panjang
-      - lama
+    - longe: lama
     - vi: kamu
     - koleras: marah
     - ','

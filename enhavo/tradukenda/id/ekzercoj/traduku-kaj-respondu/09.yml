@@ -1,75 +1,75 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: Apa yang paling bisa membuat orangtuamu senang?
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: Apa
+    - povus: bisa
+    - plej: paling
+    - ĝojigi: membuat senang
+    - viajn: punyamu
+    - gepatrojn: orangtua
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: Jika setidaknya kamu ingin pergi ke pusat kota setelah pelajaran!
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: Jika
+    - almenaŭ: setidaknya
+    - vi: kamu
+    - post: setelah
+    - la: (kata sandang) 
+    - lernado: pelajaran
+    - irus: akan pergi
+    - kun: dengan
+    - mi: saya
+    - en: ke
+    - la: (kata sandang) 
+    - urbocentron: pusat kota
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: Ke mana kamu ingin bepergian jika kamu punya cukup uang dan waktu?
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: Ke mana
+    - vi: kamu
+    - dezirus: ingin
+    - vojaĝi: bepergian
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: jika
+    - vi: kamu
+    - havus: punya
+    - sufiĉe: cukup
+    - da: dari
+    - mono: uang
+    - kaj: dan
+    - tempo: waktu
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: Apakah kamu merencanakan bepergian ke Paris menggunakan mobil atau bukankah tampaknya lebih baik menggunakan kereta?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
+    - Ĉu: Apakah
+    - vi: kamu
+    - planas: merencanakan
+    - veturi: bepergian
+    - al: ke
     - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - per: menggunakan
+    - aŭto: mobil
+    - aŭ: atau
+    - ĉu: apakah
+    - ne: tidak
+    - ŝajnas: tampaknya
+    - multe: banyak
+    - pli: lebih
+    - bone: baik
+    - per: menggunakan
+    - vagonaro: kereta
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: Mengapa macam-macam orang menjelaskan gagasan yang sama dengan cara berbeda?
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: Mengapa
+    - diversaj: macam-macam
+    - homoj: orang-orang
+    - klarigas: menjelaskan
+    - samajn: sama
+    - ideojn: gagasan
+    - diversmaniere: dengan cara berbeda 
     - '?'

@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Apakah kamu bisa membawa obat milik saudara perempuanku?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: Apakah
+    - vi: kamu
+    - povas: bisa
+    - kunporti: membawa
+    - la: (kata sandang)
+    - sanigilon: obat
+    - de: dari
+    - mia: punyaku
+    - fratino: saudara perempuan
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: Kapan kamu membeli alat musik itu?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Kapan
+    - vi: kamu
+    - aĉetis: membeli (lampau)
+    - tiun: itu
+    - muzikilon: alat musik
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: Siapa yang terakhir kali telah memakai kunci punyaku?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Siapa
+    - laste: terakhir kali
+    - uzis: telah memakai
+    - mian: punyaku
+    - ŝlosilon: kunci
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Apakah kamu di Venesia bepergian juga menggunakan gondola?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
+    - Ĉu: Apakah
+    - vi: kamu
+    - en: di
+    - Venecio: Venesia
+    - veturis: bepergian
+    - ankaŭ: juga
+    - per: menggunakan
     - gondolo: gondola
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Apakah kamu akan bisa tidur ketika sunyi?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: Apakah
+    - vi: kamu
+    - povos: akan bisa
+    - ekdormi: mulai tidur
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: ketika 
+    - silentiĝis: menjadi sunyi
     - '?'

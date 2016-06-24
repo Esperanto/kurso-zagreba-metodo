@@ -1,86 +1,86 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: Siapa yang akan membersihkan dapur setelah makan siang?
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: Siapa
+    - purigos: akan membersihkan
+    - la: (kata sandang)
+    - kuirejon: dapur
+    - post: setelah
+    - la: (kata sandang)
+    - tagmanĝo: makan siang
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: "Kamu mau minum apa, teh, kopi atau tidak mau apapun?"
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: Apa
+    - vi: kamu
+    - volas: ingin
+    - trinki: minum
     - ':' 
-    - teon: tea
+    - teon: teh
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: sejumlah
+    - da: dari
+    - kafo: kopi
+    - aŭ: atau
+    - ĉu: apakah
+    - vi: kamu
+    - volas: mau
+    - nenion: bukan apapun
     - '?'
 - 
   demando: Why did you so suddenly decide to renovate your small room?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: Mengapa
+    - vi: kamu
+    - tiel: seperti itu
+    - subite: tiba-tiba
+    - decidis: memutuskan (lampau)
+    - renovigi: merenovasi
+    - vian: punyamu
+    - ĉambreton: kamar yang kecil
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: Kepada siapa kamu memberi gelas-gelas bersih untuk anggur?
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: Kepada
+    - kiu: siapa
+    - vi: kamu
+    - donis: memberi (lampau)
+    - la: (kata sandang)
+    - purajn: bersih
+    - glasojn: gelas-gelas
+    - por: untuk 
+    - la: (kata sandang)
+    - vino: anggur (minuman)
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: Klub olahragamu bermain melawan siapa dua minggu lalu?
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: melawan
+    - kiu: siapa
+    - ludis: bermain (lampau)
+    - via: punyamu
+    - sportklubo: klub olahraga
+    - antaŭ: sebelum
+    - du: dua
+    - semajnoj: minggu
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: Apakah kamu sering melihat polisi yang tinggal di apartemen di atasmu?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: Apakah
+    - vi: kamu 
+    - ofte: sering
+    - vidas: melihat
+    - la: (kata sandang)
+    - policiston: polisi
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: siapa
+    - loĝas: tinggal
+    - en: di 
+    - la: (kata sandang)
+    - loĝejo: apartemen
+    - super: di atas
+    - vi: kamu
     - '?'

@@ -33,13 +33,13 @@
     - hotelo: hotel
     - '?'
 - 
-  demando: O que está sobre a escrivaninha em nosso quarto?
+  demando: O que está sobre a mesa de trabalho em nosso quarto?
   rektatraduko:
     - Kio: O que 
     - estas: está
     - sur: sobre
     - la: a
-    - skribotablo: escrivaninha
+    - labortablo: mesa de trabalho
     - en: em
     - nia: nosso
     - ĉambro: quarto

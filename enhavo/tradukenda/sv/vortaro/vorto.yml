@@ -27,10 +27,10 @@ bestetoj: smådjur
 bonega: jättebra
 bonvolu: 
 - var vänlig
-bonvolus: would you be so kind
+bonvolus: vore vänlig
 centoj: hundreds
 dankon: tack
-daŭrigis: continued
+daŭrigis: fortsätta
 denove: 
 - igen
 - på nytt
@@ -54,7 +54,9 @@ eksidis: satte sig ner
 ekstervoje: on the way out
 ekveturas: start riding
 ekvidis: fick syn på
-elstaraj: outstanding
+elstaraj: 
+- utstående
+- enastående
 eniri: gå in
 eniris: gick in
 eniru: gå in
@@ -63,7 +65,7 @@ faligi:
 - välta
 - knuffa omkull
 faligis: välte
-familianoj: familje medlemmar
+familianoj: familjemedlemmar
 fermita: stängd 
 fine: 
 - till slut
@@ -265,27 +267,29 @@ tiuokaze:
 travivaĵo: upplevelse
 tridekjara: 30-årig
 troviĝis: fanns
-unuaj: first
-urbomezo: city center
-vagonaro: train
-vendejo: shop
-vendejon: shop
-vendisto: clerk 
-vestaĵo: clothes 
-vestaĵoj: clothes
-vestaĵojn: clothes 
-vestaĵon: clothes
+unuaj: första
+urbomezo: stadskärna
+vagonaro: tåg
+vendejo: affär
+vendejon: affär
+vendisto: säljare 
+vestaĵo: klädesplagg
+vestaĵoj: kläder
+vestaĵojn: kläder
+vestaĵon: klädesplagg
 veturado:
 - drive
 - tour
-veturigus: would drive 
-viaj: your
-virino: woman
-vojaĝantoj: travellers
+veturigus: 
+- skulle köra
+- skulle styra
+viaj: dina
+virino: kvinna
+vojaĝantoj: resande
 ĉambristoj: chambermaids
-ĉeesto: presence
-ĉirkaŭaĵo: surrounding
+ĉeesto: närvaro
+ĉirkaŭaĵo: omgivning
 ĝenon: disturbance
-ĝustatempe: at the right time
-ŝiaj: her 
+ĝustatempe: vid rätt tid
+ŝiaj: hennes
 ŝipkuron: ship race

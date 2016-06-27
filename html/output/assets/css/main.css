@@ -31,3 +31,14 @@
 	margin: 0;
 	padding: 0;
 }
+
+.jumbotron ul {
+	margin: 0;
+	margin-top: 2em;
+  padding: 0;
+  list-style-type: none;
+}
+.jumbotron li {
+	display: inline-block;
+	padding: 0.2em;
+}

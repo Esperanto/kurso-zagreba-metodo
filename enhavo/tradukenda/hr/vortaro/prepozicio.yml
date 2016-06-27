@@ -1,37 +1,58 @@
-al:
-- nach
-- zu
-anstataŭ: anstatt
-antaŭ: vor
-apud: neben
-da: von (Menge) 
-de: von
-dum: während 
-ekde: seit
-ekster: außerhalb
-el: aus
+al: 
+- to
+- in the direction of
+anstataŭ: instead of
+antaŭ:
+- before
+- in front of
+apud: next to
+da: of
+de:
+- of
+- from
+dum: during
+ekde: since
+ekster: outside of
+el:
+- from
+- out of
 en: in
-inter: zwischen
-je: Verhältniswort mit mehreren Bedeutungen 
-kontraŭ: gegen
-krom: außer
-kun: mit
-laŭ: gemäß
-per:
-- mit
-- mittels 
-por: für
-post: nach 
-pri: über
-pro: wegen
-sen: ohne
-sub: unter
-super: über
-sur: auf
-tra: durch
-trans: jenseits
-ĉe: bei
-ĉirkaŭ:
-- um
-- herum
-ĝis: bis
+inter: 
+- between
+- among
+je:
+- of
+- with
+- in
+kontraŭ: 
+- against
+krom: 
+- besides
+- in addition to
+kun: 
+- with
+laŭ: 
+- according to
+- along
+per: 
+- by means of
+- with
+por: for
+post: after
+pri:
+- about
+- concerning
+pro: because of
+sen: without
+sub:
+- under
+- beneath
+super: 
+- over
+- above
+sur: 'on'
+tra: through
+trans: across
+ĉe: at
+ĉirkaŭ: around
+ĝis: until

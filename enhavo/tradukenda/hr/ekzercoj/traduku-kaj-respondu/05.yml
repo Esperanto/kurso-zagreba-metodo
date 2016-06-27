@@ -1,65 +1,65 @@
 -
-  demando: Kannst du ruhig lernen, wenn jemand fröhlich singt?
-  rektatraduko:
-    - Ĉu: Ob
-    - vi: du
-    - povas: kannst
-    - trankvile: ruhig
-    - lerni: lernen
+  demando: Can you learn calmly why someone is singing joyfully?
+  rektatraduko: 
+    - Ĉu: Whether
+    - vi: you
+    - povas: can
+    - trankvile: calmly
+    - lerni: learn
     - ','
-    - dum: während
-    - iu: jemand
-    - ĝoje: fröhlich
-    - kantas: singt
+    - dum: while
+    - iu: someone
+    - ĝoje: joyfully
+    - kantas: sings
     - '?'
 -
-  demando: Wer weiß, wann und wo wir uns wiedersehen werden?
-  rektatraduko:
-    - Kiu: Wer
-    - scias: weiß
+  demando: Who knows when and where we will see each other again?
+  rektatraduko: 
+    - Kiu: Who
+    - scias: knows
     - ','
-    - kiam: wann
-    - kaj: und
-    - kie: wo
-    - ni: wir
-    - revidos: wiedersehen werden
-    - nin: uns
+    - kiam: when 
+    - kaj: and
+    - kie: where
+    - ni: we
+    - revidos: will see again
+    - nin: each other
     - '?'
 -
-  demando: Wie spät ist es jetzt?
-  rektatraduko:
-    - Kioma: Wievielte
-    - horo: Stunde
-    - estas: ist
-    - nun: jetzt
+  demando: What time is it now?
+  rektatraduko: 
+    - Kioma: How many'eth
+    - horo: hour
+    - estas: is 
+    - nun: now
     - '?'
 -
-  demando: Hat dir jemand geholfen, die Tür des alten Hauses zu öffnen?
-  rektatraduko:
-    - Ĉu: Ob
-    - iu: jemand
-    - helpis: half
-    - al: zu
-    - vi: dir
-    - malfermi: öffnen
-    - la: die
-    - pordon: Tür
-    - de: von
-    - la: dem
-    - malnova: alten
-    - domo: Haus
+  demando: Did someone help you open the door of the old house?
+  rektatraduko: 
+    - Ĉu: Whether
+    - iu: someone 
+    - helpis: did help 
+    - al: to 
+    - vi: you 
+    - malfermi: open 
+    - la: the 
+    - pordon: door 
+    - de: of
+    - la: the
+    - malnova: old
+    - domo: house
     - '?'
 -
-  demando: Warum hast du keine Zeit, mir länger zuzuhören?
-  rektatraduko:
-    - Kial: Warum
-    - vi: du
-    - ne: nicht
-    - havas: hast
-    - tempon: Zeit
-    - aŭskulti: zuhören
-    - al: zu
-    - mi: mir
-    - pli: mehr
-    - longe: lange
+  demando: Why do you not have time to listen to me longer?
+  rektatraduko: 
+    - Kial: Why
+    - vi: you
+    - ne: not
+    - havas: have
+    - tempon: time
+    - aŭskulti: to listen
+    - al: to
+    - mi: me
+    - pli: more
+    - longe: long
     - '?'

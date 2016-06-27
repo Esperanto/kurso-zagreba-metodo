@@ -1,31 +1,27 @@
-unu:
-- ein
-- eine
-- eines
-- eins
-du: zwei 
-tri: drei 
-kvar: vier 
-kvin: fünf 
-ses: sechs 
-sep: sieben
-ok: acht 
-naŭ: neun 
-dek: zehn 
-dek unu: elf
-dek du: zwölf
-dek tri: dreizehn
-dek kvar: vierzehn
-dek kvin: fünfzehn
-dek ses: sechszehn 
-dek sep: siebzehn
-dek ok: achtzehn
-dek naŭ: neunzehn
-dudek: zwanzig
-tridek: dreißig
-kvardek: vierzig
-cent: hundert
-ducent: zweihundert
-tricent: dreihundert
-mil: tausend 
-dumil: zweitausend 
+unu: one
+du: two
+tri: three
+kvar: four
+kvin: five
+ses: six
+sep: seven
+ok: eight
+naŭ: nine
+dek: ten
+dek unu: eleven
+dek du: twelve
+dek tri: thirteen
+dek kvar: fourteen
+dek kvin: fiveteen 
+dek ses: sixteen 
+dek sep: seventeen
+dek ok: eightteen
+dek naŭ: nineteen
+dudek: twenty
+tridek: thirty
+kvardek: fourty
+cent: hundred
+ducent: two hundred
+tricent: three hundred
+mil: thousand
+dumil: two thousand

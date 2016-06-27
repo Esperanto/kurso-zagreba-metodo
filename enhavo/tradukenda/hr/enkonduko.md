@@ -1,12 +1,12 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Naučit ćeš **500 najvažnijih riječi**
+- **Nije potrebna registracija**: Samo klikni *Početak*
+- **optimizirano** za pametne telefone
+- ne samo besplatan, već i **[slobodan za upotrebu u drugim projektima](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-The course consists of **12 lessons**, each with
+Tečaj se sastoji od **12 lekcija**, od kojih svaka sadrži
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+- tekst
+- gramatička objašnjenja
+- i 3 vježbe.
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+Nakon što završiš tečaj, moći ćeš razumjeti najvažnije stvari i samostalno se izražavati na esperantu. Probaj!

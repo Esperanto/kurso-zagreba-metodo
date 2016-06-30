@@ -42,12 +42,12 @@
     - gondolo: góndola
     - '?'
 - 
-  demando: Podràs quedar-te dormit quan hi hagi silenci?
+  demando: Podràs adormir-te quan hi hagi silenci?
   rektatraduko: 
     - Ĉu: ¿
     - vi: Tu
     - povos: podràs
-    - ekdormi: quedar-te dormit
+    - ekdormi: adormir-te
     - ',' 
     - kiam: quan 
     - estos silento: hi hagi silenci

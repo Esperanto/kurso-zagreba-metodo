@@ -25,11 +25,11 @@
     - centron: centre
     - '!'
 - 
-  demando: A on t'agradaria viatjar si tinguessis suficients diners i temps?
+  demando: A on voldries viatjar si tinguessis suficients diners i temps?
   rektatraduko: 
     - Kien: A on
     - vi: a tu
-    - dezirus: t'agradaria
+    - dezirus: voldries
     - vojaĝi: viatjar
     - ',' 
     - se: si

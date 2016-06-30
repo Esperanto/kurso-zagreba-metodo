@@ -67,7 +67,7 @@
     - semajnoj: setmanes
     - '?'
 - 
-  demando: Sovint veus el policía que viu a l'apartament de dalt?
+  demando: Sovint veus el policía que viu al pis de dalt?
   rektatraduko: 
     - Ĉu: ¿
     - vi: Tu
@@ -80,7 +80,7 @@
     - loĝas: viu
     - en: a 
     - la: el
-    - loĝejo: apartament
+    - loĝejo: pis
     - super: de dalt
     - vi: tu
     - '?'

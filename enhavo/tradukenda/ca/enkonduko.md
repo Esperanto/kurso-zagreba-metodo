@@ -7,6 +7,6 @@ El curs té **12 lliçons**, cadascuna amb:
 
 - un text
 - una explicació gramatical
-- i 3 exercissis
+- i 3 exercicis
 
 Després d'haver completat el curs, podràs entendre les coses més importants i formar oracions per expressar-te. Vinga, prova-ho!

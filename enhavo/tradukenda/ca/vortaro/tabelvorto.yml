@@ -2,7 +2,9 @@ kio: què
 tio: allò
 io: alguna cosa
 ĉio: tot
-nenio: (no) res
+nenio:
+ - res
+ - no res
 kiu:
  - quí
  - qual

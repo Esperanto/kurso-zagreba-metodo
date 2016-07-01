@@ -23,12 +23,10 @@
 
   <p class="alert alert-info" role="alert">{{ enhavo.fasado['Alklaku la vortojn por vidi ilian tradukon.'] }}</p>
 
-	{% if leciono_index < 6 %}
-		<audio controls>
-			<source src="{{vojprefikso}}../assets/ogg/{{ '%02d' % leciono_index}}.ogg" type="audio/ogg">
-			<a href="{{vojprefikso}}../assets/ogg/{{ '%02d' % leciono_index}}.ogg">Audio</a>
-		</audio>
-	{% endif %}
+	<audio controls>
+		<source src="{{vojprefikso}}../assets/ogg/{{ '%02d' % leciono_index}}.ogg" type="audio/ogg">
+		<a href="{{vojprefikso}}../assets/ogg/{{ '%02d' % leciono_index}}.ogg">Audio</a>
+	</audio>
 
   {% include 'paragrafoj.html' %}
 

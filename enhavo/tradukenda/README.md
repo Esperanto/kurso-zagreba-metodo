@@ -49,7 +49,7 @@ Plej bonas komenci kun la ekzercoj:
 #### Ekzerco 1 
 
 1. Iru al `/ekzercoj/traduku` kaj malfermu `01.yml`. Nun vi vidas la fontdosieron de la [unua ekzerco](http://learn.esperanto.com/en/01/ekzerco1/)
-2. Traduku nun la esperantajn vortojn al la nova lingvo:
+2. Traduku nun la Esperantajn vortojn al la nova lingvo:
    - Forigo la anglajn vortojn
    - en ilia loko, entajpu la vortojn de la nova lingvo
 

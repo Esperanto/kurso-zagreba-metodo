@@ -18,7 +18,7 @@ Tiun ĉi kurson oni povas libere uzi, kondiĉe ke oni nomas la [aŭtorojn](AUTHO
 
 ![permesilo](bildoj/by-nd.png) 
 
-La esperantaj leciontekstoj en la kurso `enhavo/netradukenda/tekstoj` devas resti neŝanĝitaj. Tial aplikas la [CC BY-ND 4.0](enhavo/netradukenda/tekstoj/PERMESILO.md).
+La Esperantaj leciontekstoj en la kurso `enhavo/netradukenda/tekstoj` devas resti neŝanĝitaj. Tial aplikas la [CC BY-ND 4.0](enhavo/netradukenda/tekstoj/PERMESILO.md).
 
 ### Aliaj dosieroj
 

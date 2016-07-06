@@ -1,11 +1,11 @@
-a:  Adjective
-e:  Adverb
-i:  Infinitive
-n:  Accusative case
-o:  Noun
-j:  Plural
-u:  Imperative verb 
-is: Verb in past tense
-as: Verb in present tense
-os: Verb in future tense
-us: Verb in conditional tense
+a:  pridjevi
+e:  prilozi
+i:  infinitiv (glagol)
+n:  akuzativ (padež)
+o:  imenice
+j:  množina
+u:  imperativ, zapovjedni način (glagol)
+is: prošlo vrijeme (glagol)
+as: sadašnje vrijeme (glagol)
+os: buduće vrijeme (glagol)
+us: kondicional (glagol)

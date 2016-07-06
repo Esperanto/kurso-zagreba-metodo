@@ -8,28 +8,28 @@
     - hejmo: dom
     - '?'
 - 
-  demando: Koje si knjige čitao i da li su dobre?
+  demando: Koje si knjige čitao i jesu li dobre?
   rektatraduko: 
     - Kiujn: Koje
     - librojn: knjige
-    - vi: dva
+    - vi: ti
     - legis: si čitao
     - kaj: i
-    - ĉu: da li
+    - ĉu: je li
     - ili: one
     - estas: su
-    - bonaj: dobar
+    - bonaj: dobre
     - '?'
 - 
-  demando: Šta su radili Anna i Marko u Markovoj maloj sobi?
+  demando: Što su radili Ana i Marko u Markovoj maloj sobi?
   rektatraduko: 
     - Kion: Što
     - faris: su radili
-    - Anna: Anna
+    - Anna: Ana
     - kaj: i
     - Marko: Marko
     - en: u
-    - la: 
+    - la: (član)
     - malgranda: mala
     - ĉambro: soba
     - de: od 

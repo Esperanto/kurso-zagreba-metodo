@@ -36,35 +36,35 @@
     - Marko: Marko
     - '?'
 - 
-  demando: 
+  demando: Voliš li čitati knjige o ljubavi?
   rektatraduko: 
-    - Ĉu: 
-    - vi: 
-    - ŝatas: 
-    - legi: 
-    - librojn: 
-    - pri: 
-    - amo: 
+    - Ĉu: Je li
+    - vi: ti
+    - ŝatas: voliš 
+    - legi: čitati
+    - librojn: knjige
+    - pri: o
+    - amo: ljubav
     - '?'
 - 
-  demando: 
+  demando: Tko će ići s tobom u tvoj dom?
   rektatraduko: 
-    - Kiu: 
-    - iros: 
-    - kun: 
-    - vi: 
-    - al: 
-    - via: 
-    - hejmo: 
+    - Kiu: Tko
+    - iros: će ići
+    - kun: s
+    - vi: ti
+    - al: prema
+    - via: tvoj
+    - hejmo: dom
     - '?'
 - 
-  demando: 
+  demando: Kakve su oči tvoje prijateljice?
   rektatraduko: 
-    - Kiaj: 
-    - estas: 
-    - la: 
-    - okuloj: 
-    - de: 
-    - via: 
-    - amikino: 
+    - Kiaj: Kakvi
+    - estas: su
+    - la: (član)
+    - okuloj: oči
+    - de: od
+    - via: tvoja
+    - amikino: prijateljica
     - '?'

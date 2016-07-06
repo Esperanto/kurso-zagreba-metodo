@@ -1,11 +1,19 @@
-aŭ: or
-kaj: and
-ke: that 
-kvankam: although
-nek: neither (… nor)
-ol: than
-se: if
-sed: but
+aŭ: ili
+kaj: i
+ke: da
+kvankam: 
+- iako
+- premda
+nek: 
+- niti
+- ni
+ol: nego
+se: ako
+sed: 
+- a 
+- ali
+- već
+- nego
 ĉar:
-- because
-- for
+- jer
+- budući da

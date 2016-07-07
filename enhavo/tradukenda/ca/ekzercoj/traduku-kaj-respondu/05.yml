@@ -13,7 +13,7 @@
     - kantas: canta
     - '?'
 -
-  demando: Quí sap quan i on ens tornarem a veure l'un a l'altre?
+  demando: Quí sap quan i "on" ens tornarem a veure l'un a l'altre?
   rektatraduko: 
     - Kiu: Quí
     - scias: sap
@@ -50,11 +50,11 @@
     - domo: casa
     - '?'
 -
-  demando: Perquè no tens temps d'escoltar-me més temps?
+  demando: Perquè "no" tens temps d'escoltar-me més temps?
   rektatraduko: 
     - Kial: Perquè
     - vi: tu
-    - ne: no
+    - ne: "no"
     - havas: tens
     - tempon: temps
     - aŭskulti: escoltar

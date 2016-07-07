@@ -133,14 +133,14 @@ instruistino: professora
 instruiston: professor
 intervidiĝas: es veuen l'un a l'altre
 iron: anada 
-junulino: (una) jove
-junulinoj: (unes) joves
-junulinon: (una) jove 
-junuloj: (uns) joves (nois)
+junulino: una jove
+junulinoj: unes joves
+junulinon: una jove 
+junuloj: uns joves 
 kafejo: cafeteria 
 kafejon: cafeteria 
-karulino: (dona) estimada
-karulo: (home) estimat
+karulino: dona estimada
+karulo: home estimat
 klarigis:
  - va explicar
  - explicava
@@ -270,14 +270,16 @@ malsatis:
  - va passar gana
 manĝaĵo: menjar 
 manĝegi: 
- - menjar (amb voracitat)
+ - menjar amb voracitat
  - endrapar
 maristo: mariner
 maristoj: mariners
 mariston: mariner 
 miaj:
- - els meus/les meves
- - meus/meves
+ - els meus
+ - les meves
+ - meus
+ - meves
 militistoj: militars
 monerojn: monedes
 monujo: moneder
@@ -296,8 +298,8 @@ naskiĝtaga: de l'aniversari
 naskiĝtago: aniversari del naixement 
 naturaĵojn: coses naturals 
 nehoma: 
- - no humà
- - no humana
+ - "no" humà
+ - "no" humana
 neinteresaj: 
  - sense interès
  - banals 
@@ -320,7 +322,7 @@ perdigis:
  - va fer perdre
  - feia perdre
 plenigadis:
- -omplia
+ - omplia
  - va estar omplint
 plenumis:
  - va acomplir
@@ -355,14 +357,14 @@ ridetis:
  - somreia
 rideto: somriure
 riĉeco: riquesa
-riĉulo: (un) ric
+riĉulo: un ric
 salton: salto 
 saluton: hola
 samklubanoj: membres del mateix club
 sekretajn: 
  - secrets
  - secretes
-sekreton: (un) secret 
+sekreton: un secret 
 senbrue: sense soroll
 seninterese: sense interès
 senkolora: 
@@ -380,7 +382,7 @@ soleca:
  - solitari
  - solitària
 sovaĝejo: territori salvatge
-sportisto: (un) esportista
+sportisto: un esportista
 subakvigis:
  - va enfonsar 
  - enfonsava 
@@ -390,8 +392,10 @@ subakviĝis:
 subite:
  - de sobte
  - de cop i volta
-supren: (cap a) amunt
-surhavas: porta (posat)
+supren: cap amunt
+surhavas: 
+ - porta posat
+ - du posat
 surlokan: 
  - sobre el lloc
  - del lloc

@@ -177,7 +177,8 @@ lingvoj = [
   ('hr', u'(test: kroata)'),
   ('id', u'(test: indonezia)'),
   ('nl', u'(test: nederlanda)'), # Nederlands  
-  ('sv', u'(test: sveda)')
+  ('sv', u'(test: sveda)'),
+  ('ur', u'(test: urdua)')
 ]
 
 if args.lingvo:

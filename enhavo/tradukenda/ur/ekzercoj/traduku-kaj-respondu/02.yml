@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: آپکا پرانا گھر کس طرح کا تھا؟
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: کس طرح کا
+    - estis: تھا
+    - via: آپکا
+    - malnova: پرانا
+    - hejmo: گھر 
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: آپ نے کونسی کتابیں پڑھیں، اور کیا وہ اچھی تھیں؟
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
-    - '?'
+    - Kiujn: کونسی
+    - librojn: کتابیں
+    - vi: آپ
+    - legis: پڑھا
+    - kaj: اور
+    - ĉu: کیا۔آیا
+    - ili: وہ
+    - estas: ہیں
+    - bonaj: اچھا 
+    - '?' ؟
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: "اینا اور مارک، مارک کے جھوٹے کمرے میں کیا کر رہے تھے؟"
   rektatraduko:
-    - Kion: What
-    - faris: did do
-    - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
-    - '?'
+    - Kion: کیا
+    - faris: کر رہے تھے
+    - Anna: اینا
+    - kaj: اور
+    - Marko: مارک
+    - en: میں
+    - la: حرف تخصیص جیسے عربی میں ال
+    - malgranda: چھوٹا
+    - ĉambro: کمرہ
+    - de: کا۔کی
+    - Marko: مارک
+    - '?' ؟
 - 
-  demando: Do you like reading books about love?
+  demando: کیا آپ کو محبت کے متعلق کتابیں پڑھنا پسند ہے؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
-    - '?'
+    - Ĉu: کیا۔آیا
+    - vi: آپ
+    - ŝatas: پسند کرتا ہے
+    - legi: پڑھنا
+    - librojn: کتابیں
+    - pri: کے متعلق
+    - amo: محبت
+    - '?' ؟
 - 
-  demando: Who will go with you to your home?
+  demando: آپکے ساتھ کون آپکے گھر جائیگا؟
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
-    - '?'
+    - Kiu: کون
+    - iros: جائے گا
+    - kun: کے ساتھ
+    - vi: آپ
+    - al: کو
+    - via: آپکا
+    - hejmo: گھر
+    - '?' ؟
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "آپکی سہیلی کی آنکھیں کس طرح کی ہیں؟"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
-    - '?'
+    - Kiaj: کس طرح کا
+    - estas: ہیں
+    - la: حرف تخصیص جیسے عربی میں ال
+    - okuloj: آنکھیں
+    - de: کا۔کی
+    - via: آپکا
+    - amikino: سہیلی
+    - '?' ؟

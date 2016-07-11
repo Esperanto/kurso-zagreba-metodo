@@ -159,6 +159,7 @@ ap.add_argument(
 args = ap.parse_args()
 
 lingvoj = [
+  ('ca', u'Català'),
   ('de', u'Deutsch'),
   ('en', u'English'),
   ('fr', u'Français'),
@@ -170,7 +171,6 @@ lingvoj = [
   ('uk', u'Українська'),
   ('zh', u'中文'),
   ('ar', u'(test: araba)'),
-  ('ca', u'(test: kataluna)'),
   ('cs', u'(test: ĉeĥa)'),
   ('fa', u'(test: persa)'),
   ('frp', u'(test: arpitana)'),

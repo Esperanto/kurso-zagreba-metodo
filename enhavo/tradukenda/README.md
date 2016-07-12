@@ -82,7 +82,7 @@ En la linio `demando:`, skribu bonsonan frazon en via lingvo, ekzemple:
 
     demando: Does friendship make you more happy than love does?
 
-En la linio `rektatraduko:`, skribu laŭvortan tradukon en via lingvo. Ĝi ne devas esti bonsona aŭ eĉ gramatike ĝusta. Ĝi nur celas informi la lernanton kiujn Esperantajn vortojn ĝi aŭ ŝi uzu.  Ekzemple:
+En la linio `rektatraduko:`, skribu laŭvortan tradukon en via lingvo. Ĝi ne devas esti bonsona aŭ eĉ gramatike ĝusta. Ĝi nur celas informi la lernanton kiujn Esperantajn vortojn li aŭ ŝi uzu.  Ekzemple:
 
     rektatraduko: 
       - Ĉu: Whether

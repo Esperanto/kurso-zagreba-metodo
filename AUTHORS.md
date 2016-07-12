@@ -62,6 +62,7 @@ La ciferecigon faris laŭlingve:
 ### Kroata
 
 - [Zlatko Tišljar](https://github.com/ztisljar)
+- [Mea Bombardelli](https://github.com/umanto)
  
 ### Portugala
 
@@ -73,6 +74,22 @@ La ciferecigon faris laŭlingve:
 - Cicero Soares 
 - Frederico José Andries Lopes
 - Fabrício Valle
+
+### Ukraina
+
+- [Sergij Prudko](https://github.com/sacerdoto)
+
+### Kataluna
+
+- [Karles Berga](https://github.com/karulo)
+
+### Sveda
+
+- [Antonia Montaro](https://github.com/AntoniaMontaro)
+
+### Rusa
+
+- [Nikita Kungurov](https://github.com/Seemann147)
 
 ## Sono
 

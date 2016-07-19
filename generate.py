@@ -180,7 +180,9 @@ lingvoj = [
   ('nl', u'(test: nederlanda)'), # Nederlands  
   ('ru', u'(test: rusa)'),
   ('sv', u'(test: sveda)'),
-  ('ur', u'(test: urdua)')
+  ('ur', u'(test: urdua)'),
+  ('my', u'(test: birma)'),
+  ('lo', u'(test: laosa)')
 ]
 
 if args.lingvo:

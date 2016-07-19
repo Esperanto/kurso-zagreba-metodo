@@ -1,15 +1,15 @@
 afer: matter
 agrabl: pleasant
-akcept: accept
+akcept: ទទួលយក
 akv: water
-ali: another
-alt: high
+ali: ផ្សេងទៀត
+alt: ខ្ពស់
 am: love
 amas:
 - mass
 - crowd
 amik: friend
-arb: tree
+arb: ដើមឈើ
 aspekt:
 - look
 - seem
@@ -17,19 +17,19 @@ atend: to wait
 atent: pay attention
 aĉet: to buy
 aŭd: to hear
-aŭt: car
+aŭt: ឡាន
 aŭtoritat: authority
 bedaŭr: to regret
-bel: beautiful
-best: animal
+bel: ស្រស់ស្អាត
+best: សត្វ
 bezon: to need
 bien:
 - estate
 - land
-bon: good
+bon: ល្អ
 branĉ: branch
 bru: noise
-buŝ: mouth
+buŝ: មាត់
 cert: certain
 dank: to thank
 daŭr: to continue
@@ -41,7 +41,7 @@ diabl: devil
 dik:
 - thick
 - fat
-dimanĉ: Sunday
+dimanĉ: កាលពីថ្ងៃអាទិត្យ
 dir: to say
 direkt: direction
 doktor: doctor
@@ -49,12 +49,12 @@ dolar: dollar
 dolor:
 - pain
 - to hurt
-dolĉ: sweet
+dolĉ: ផ្អែម
 dom: house
 don: to give
 dorm: sleep
 doĝ: doge
-edz: husband
+edz: ប្តី
 efektiv: actually
 ekskurs: excursion
 esper: to hope
@@ -62,12 +62,12 @@ est: to be
 facil: easy
 fakt: fact
 fal: to fall
-famili: family
+famili: ក្រុមគ្រួសារ
 far: to do
 fart:
 - feel
 - be
-feliĉ: happy
+feliĉ: សប្បាយរីករាយ
 ferm: to close 
 fin: to end
 flank: side
@@ -88,14 +88,14 @@ graf:
 grand:
 - big
 - great
-grav: important
+grav: សំខាន់
 halt: to stop
 hav: to have
 hejm: home
 help: to help
 hom: human
 hor: hour
-hotel: hotel
+hotel: សណ្ឋាគារ
 ide: idea
 industri: industry 
 instru: to teach
@@ -105,7 +105,7 @@ ir: to go
 itali: Italy
 jar: year
 jun: young
-kaf: coffee
+kaf: កាហ្វេ
 kalv: bald
 kap: head
 kapabl: capable
@@ -130,11 +130,11 @@ korp: body
 kost: to cost
 kri: to scream
 kuir: to cook
-kuk: cake 
+kuk: នំ
 kur: to run
 labor: to work
 lakt: milk
-lamp: lamp
+lamp: ចង្កៀង
 land: land
 larĝ: wide
 last: last
@@ -152,8 +152,8 @@ lum: light
 man: hand
 mank: be lacking
 manĝ: to eat
-mar: sea
-maten: morning
+mar: សមុទ្រ
+maten: ព្រឹក
 memor: to remember
 met: to put
 mez: middle
@@ -161,57 +161,57 @@ milit: war
 minut: minute
 mir: to wonder
 moment: moment
-mon: money
-mont: mountain
+mon: ប្រាក់
+mont: ភ្នំ
 montr: to show
 mort: to die
 mov: to move
-mult: many
-muzik: music
+mult: មនុស្សជាច្រើន
+muzik: តន្ត្រី
 nask: to give birth
 natur: nature
 neces: to need
-nokt: night
-nom: name
+nokt: យប់
+nom: ឈ្មោះ
 not: note
-nov: new
+nov: ថ្មី
 odor: smell
 oft: often
 okaz: to happen
 okul: eye
-onkl: uncle
+onkl: ពូ
 opini: opinion
 ord: to order
 orel: ear
-pac: peace
+pac: សន្តិភាព
 pag: to pay
-pan: bread
-paper: paper
+pan: នំបុ័ង
+paper: ក្រដាស
 pardon: to forgive
 parol: to speak
 part: part
 pas: to pass
-patr: father
+patr: ឪពុក
 paŝ: step
 pens: to think
 perd: to loose
 person: person
 pet: to request
-pez: heavy
+pez: ធ្ងន់
 pied: foot
 plac: place
 plan: to plan
 plaĉ: to be pleasing
 plen: full
 polic: police
-pord: door
+pord: ទ្វារ
 port: to carry
 pov: can
 pren: to take 
 pret: ready
 prezent: to present
-problem: problem
-proksim: near
+problem: បញ្ហា
+proksim: នៅក្បែរ
 promen: to stroll
 propon: to propose
 prov: to try
@@ -227,12 +227,12 @@ rest: to remain
 ricev: to receive
 rid: to laugh
 rigard: to look at
-riĉ: rich
+riĉ: សម្បូរបែប
 rol: role
-ruĝ: red
+ruĝ: ក្រហម
 salt: to jump
 salut: hello
-sam: same
+sam: ដូចគ្នា
 san: healthy
 saĝ: wise
 sci: to know
@@ -256,16 +256,16 @@ son: to sound
 sovaĝ: wild
 sport: sport
 star: to stand
-strat: street
+strat: តាមផ្លូវ
 subit: suddenly
 sufiĉ: sufficient
 sukces: success
-sun: sun
+sun: ព្រះអាទិត្យ
 supr: above
-tabl: table 
+tabl: តារាង
 tag: day
-te: tea
-telefon: phone
+te: តែ
+telefon: ទូរស័ព្ទ
 temp: time
 temperatur: temperature
 ten: hold
@@ -277,20 +277,20 @@ trink: to drink
 trov: to find
 turk: Turkish
 tuŝ: to touch
-urb: city
+urb: ទីក្រុង
 util: useful
 uz: to use
 vagon: coach
 varm: warm
-ven: come
+ven: មក
 vend: to sell
 Veneci: Venice
 ver: 'true'
-vesper: evening
+vesper: ល្ងាច
 vest: to dress
 vetur: to travel
 vid: to see
-vin: wine
+vin: ស្រា
 vir: man
 viv: to live
 vizaĝ: face
@@ -299,10 +299,10 @@ voj: way
 vojaĝ: journey
 vok: to call
 vol: want
-vort: word
+vort: ពាក្យ
 voĉ: voice
 zorg: care
-ĉambr: room
+ĉambr: បន្ទប់
 ĉef: boss
 ĝen:
 - to distrub

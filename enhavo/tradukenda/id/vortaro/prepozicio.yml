@@ -8,18 +8,23 @@ antaŭ:
 apud: 
 - di dekat
 - di samping
-da: dari
-de: dari
-dum: selama
+da: 
+- dari
+- tentang
+de:
+- dari
+- tentang
+dum: 
+- selama
+- ketika
 ekde: sejak
 ekster: di luar
-el:
-- dari
-- diluar
+el: dari
 en: di dalam
 inter: di antara
 je: pada
-kontraŭ: 
+kontraŭ: terhadap
+
 - melawan
 - kontra
 krom: 

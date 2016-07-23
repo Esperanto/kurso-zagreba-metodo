@@ -183,6 +183,7 @@ lingvoj = [
   ('ur', u'(test: urdua)'),
   ('my', u'(test: birma)'),
   ('lo', u'(test: laosa)')
+  ('hu', u'(test: hungara)')
 ]
 
 if args.lingvo:

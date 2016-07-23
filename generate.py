@@ -182,7 +182,7 @@ lingvoj = [
   ('sv', u'(test: sveda)'),
   ('ur', u'(test: urdua)'),
   ('my', u'(test: birma)'),
-  ('lo', u'(test: laosa)')
+  ('lo', u'(test: laosa)'),
   ('hu', u'(test: hungara)')
 ]
 

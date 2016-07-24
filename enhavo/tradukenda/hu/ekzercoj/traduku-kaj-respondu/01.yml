@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: Ki a (te) barátnőd?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Ki
+    - estas: van (a magyar mondatban nem szerepel)
+    - via: tied
+    - amikino: barátnő
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Anna barátnőd most a szobában ír?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
+    - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
+    - via: tied
+    - amikino: barátnő
     - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - skribas: ír
+    - nun: most
+    - en: -ban/ben
+    - la: a
+    - ĉambro: szoba
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Apád barátja egy szállodában dolgozik?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
+    - la: a
+    - amiko: barát
+    - de: -nak/nek
+    - via: tied
+    - patro: apa
+    - laboras: dolgozik
+    - en: -ban/ben
+    - hotelo: szálloda
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: Mi van a munkaasztalon a szobánkban?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: mi 
+    - estas: van
+    - sur: -on/en/ön
+    - la: a 
+    - labortablo: munkaasztal
+    - en: -ban/ben
+    - nia: mienk
+    - ĉambro: szoba
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Eszperantó tankönyv van az asztalodon?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
+    - Esperanto-lernolibro: Eszperantó tankönyv
+    - estas: van
+    - sur: -on/en/ön
+    - via: tied 
+    - tablo: asztal
     - '?'
 

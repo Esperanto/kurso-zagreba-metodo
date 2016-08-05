@@ -9,21 +9,21 @@
 - 
   demando: Skriver din väninna Anna nu i rummet?
   rektatraduko:
-    - Ĉu: Huruvida
+    - Ĉu: (frågepartikeln)
     - via: din
     - amikino: väninna
     - Anna: Anna
     - skribas: skriver
     - nun: nu
     - en: i
-    - la: bestämd artikel 
+    - la: (bestämd artikel) 
     - ĉambro: rum
     - '?'
 - 
   demando: Arbetar din fars vän på hotellet?
   rektatraduko:
-    - Ĉu: Huruvida
-    - la: bestämd artikel
+    - Ĉu: (frågepartikeln)
+    - la: (bestämd artikel)
     - amiko: vän
     - de: preposition som visar ägande
     - via: din
@@ -38,7 +38,7 @@
     - Kio: Vad 
     - estas: är
     - sur: på
-    - la: bestämd artikel
+    - la: (bestämd artikel)
     - labortablo: arbetsbord
     - en: i
     - nia: vårt
@@ -47,7 +47,7 @@
 - 
   demando: Ligger det en esperantolärobok på ditt bord?
   rektatraduko:
-    - Ĉu: Huruvida
+    - Ĉu: (frågepartikeln)
     - Esperanto-lernolibro: esperantolärobok
     - estas: är
     - sur: på

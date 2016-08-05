@@ -1,7 +1,7 @@
 -
   demando: Kan du lära dig lugnt medan någon sjunger glatt?
   rektatraduko: 
-    - Ĉu: Huruvida
+    - Ĉu: (frågepartikeln)
     - vi: du
     - povas: kan
     - trankvile: lugnt
@@ -36,16 +36,16 @@
 -
   demando: Hjälpte någon dig att öppna dörren till det gamla huset?
   rektatraduko: 
-    - Ĉu: Huruvida
+    - Ĉu: (frågepartikeln)
     - iu: någon 
     - helpis: hjälpte
     - al: åt
     - vi: du 
     - malfermi: öppna 
-    - la: bestämd artikel
+    - la: (bestämd artikel)
     - pordon: dörr 
-    - de: preposition som visar ägande
-    - la: bestämd artikel
+    - de: (preposition som visar ägande)
+    - la: (bestämd artikel)
     - malnova: gammal
     - domo: hus
     - '?'

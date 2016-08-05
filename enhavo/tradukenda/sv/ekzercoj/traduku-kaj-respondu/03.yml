@@ -1,7 +1,7 @@
 -
   demando: Förstår kyparna i de stora hotellen många språk? 
   rektatraduko:  
-    - Ĉu: Huruvida 
+    - Ĉu: (frågepartikeln)
     - kelneroj: kypare
     - en: i
     - grandaj: stora
@@ -13,7 +13,7 @@
 -
   demando: Vet du om Anna gillar den nya sången om den fattige och den vackra flickan?
   rektatraduko: 
-    - Ĉu: Huruvida
+    - Ĉu: (frågepartikeln)
     - vi: du
     - scias: vet
     - ','
@@ -63,11 +63,11 @@
 -
   demando: Kan du, med den nya läroboken, lära dig esperanto tillräckligt fort?
   rektatraduko: 
-    - Ĉu: Huruvida
+    - Ĉu: (frågepartikeln)
     - vi: du
     - povas: kan
     - per: med
-    - la: den 
+    - la: (bestämd artikel) 
     - nova: nya
     - lernolibro: läroboken
     - sufiĉe: tillräckligt

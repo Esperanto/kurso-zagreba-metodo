@@ -15,7 +15,7 @@
     - vi: du
     - legis: läste
     - kaj: och
-    - ĉu: huruvida
+    - ĉu: (frågepartikeln)
     - ili: de
     - estas: är
     - bonaj: bra 
@@ -29,7 +29,7 @@
     - kaj: och
     - Marko: Marko
     - en: i 
-    - la: bestämd artikel
+    - la: (bestämd artikel)
     - malgranda: litet
     - ĉambro: rum
     - de: preposition som visar ägande
@@ -38,7 +38,7 @@
 - 
   demando: Tycker du om att läsa böcker om kärlek?
   rektatraduko: 
-    - Ĉu: Huruvida
+    - Ĉu: (frågepartikeln)
     - vi: du
     - ŝatas: tycker om
     - legi: läsa
@@ -60,9 +60,9 @@
 - 
   demando: Hurdana är din väninnas ögon?
   rektatraduko: 
-    - Kiaj: Hurdana
+    - Kiaj: (frågepartikeln)
     - estas: är
-    - la: bestämd artikel
+    - la: (bestämd artikel)
     - okuloj: ögon
     - de: preposition som visar ägande
     - via: din

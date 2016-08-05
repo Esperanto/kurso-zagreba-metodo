@@ -1,7 +1,7 @@
 - 
   demando: Önskar du att jag ska visa dig min nyaste bok?
   rektatraduko: 
-    - Ĉu: Huruvida
+    - Ĉu: (frågepartikeln)
     - vi: du
     - deziras: önskar
     - ',' 
@@ -31,11 +31,11 @@
     - Marko: Marko
     - alvenos: anläder
     - ',' 
-    - je: preposition som är vanlig vid tid
-    - la: bestämd artikel
+    - je: (preposition som är vanlig vid tid)
+    - la: (bestämd artikel)
     - kvina: femte
     - aŭ: eller
-    - je: preposition som är vanlig vid tid
+    - je: (preposition som är vanlig vid tid)
     - la: den
     - oka: åttonde
     - horo: timme
@@ -48,7 +48,7 @@
     - rimarkis: märkte
     - ','  
     - ke: att
-    - la: bestämd artikel
+    - la: (bestämd artikel)
     - tuta: hel
     - familio: familj
     - nomas: kallar
@@ -58,8 +58,8 @@
 - 
   demando: Var häftet användbart, som jag skickade?
   rektatraduko: 
-    - Ĉu: Huruvida
-    - la: bestämd artikel
+    - Ĉu: (frågepartikeln)
+    - la: (bestämd artikel)
     - libreto: häfte, liten bok
     - estis: var
     - utila: användbar

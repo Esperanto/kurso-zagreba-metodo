@@ -27,6 +27,7 @@ La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝ
 - en aliaj retpaĝoj:
 	- [angla](http://esperantofre.com/zagreb/zagreba.htm)
 	- [hispana](http://esperantofre.com/zagreb/zagrebh.htm)
+	- [kroata](https://drive.google.com/file/d/0B73-tppgbUrecVZxc21TQ2syUzQ/view?usp=sharing)
 
 (Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu nin](mailto:georg@jaehnig.org)!)
 

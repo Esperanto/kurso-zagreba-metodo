@@ -1,15 +1,15 @@
 Esperanto: Esperanto
 akcepteblan: dapat diterima
 alilandaj: luar negeri
-alporti: membawa
-alportis: membawa (lampau) 
-alvenigas: mengarah ke
+alporti: membawakan
+alportis: membawakan (lampau) 
+alvenigas: mengarahkan
 alvenis: datang (lampau)
 alvenos: akan datang
 amikino: teman wanita
 amikinon: teman wanita
 amletero: surat cinta
-antaŭeniris: went ahead
+antaŭeniris: melanjutkan (lampau)
 arbaro: hutan
 arbetoj: semak-semak
 arboplena: rimbun
@@ -21,21 +21,23 @@ belaĵoj: yang indah-indah
 beleta: imut
 bestetoj: binatang kecil
 bonega: sangat baik
-bonvolu: please
+bonvolu: 
+- silakan
+- tolong
 bonvolus: maukah Anda berbaik hati
 centoj: ratusan
 dankon: terima kasih
 daŭrigis: melanjutkan (lampau)
 denove: lagi
-devojiĝis: to go astray
+devojiĝis: kesasar
 dikiĝi: menjadi gemuk
-doloriga: menyebabkan sakit
-dolorige: pain causing
+doloriga: menyakitkan
+dolorige: menyakitkan
 domegon: vila
 dumnokte: saat malam hari
 dumtage: saat siang hari
 ekkriis: mulai berteriak (lampau)
-ekmire: wondrously
+ekmire: dengan menakjubkan
 ekparolis: mulai berbicara (lampau)
 ekridis: mulai tertawa (lampau)
 ekrigardis: mulai memandang (lampau)
@@ -45,76 +47,78 @@ eksidis: mulai duduk (lampau)
 ekstervoje: dalam perjalanan keluar
 ekveturas: mulai mengendarai 
 ekvidis: mulai melihat (lampau)
-elstaraj: outstanding
+elstaraj: terkemuka
 eniri: masuk 
 eniris: masuk (lampau) 
 eniru: masuklah!
 facilmovaj: mudah bergerak
 faligi: menjatuhkan
-faligis: ran over
+faligis: menjatuhkan
 familianoj: anggota keluarga
 fermita: tertutup
 fine: akhirnya
 foresti: menjadi jauh
 foriros: akan pergi jauh
 fratino: saudara perempuan
-fuŝparolis: spoke wrongly
+fuŝparolis: berbicara ngawur
 geamikoj: teman-teman
 gefratoj: saudara-saudara
-gelernantojn:
-- co-learners
-- fellow stundent
+gelernantojn: 
+- siswa-siswi
+- pelajar
 gepatroj: orangtua
-gondolisto: gondolist 
-gondolistoj: gondolists
-grafino: countess
-grafinon: countess
+gondolisto: pengayuh gondola
+gondolistoj: para pengayuh gondola
+grafino: Paduka Putri (gelar kebangsawanan)
+grafinon: Paduka Putri (gelar kebangsawanan)
 grandula: raksasa
 gravuloj: orang penting
-haltigis: stopped
-havigi: to obtain
-havindan: worth having
-homformo: form of a person
-hommulton: crowd
-ideoriĉan: imaginative
-industriisto: industrialist
+haltigis: berhenti
+havigi: memperoleh
+havindan: layak dimiliki
+homformo: bentuk manusia
+hommulton: padat
+ideoriĉan: imajinatif
+industriisto: industrialis
 instruistino: guru perempuan 
 instruiston: guru
 intervidiĝas: melihat satu sama lain
 iron: walk
-junulino: female youngster
-junulinoj: female youngsters
-junulinon: female youngster
-junuloj: youngsters
+junulino: pemudi
+junulinoj: para pemudi
+junulinon: pemudi
+junuloj: pemuda
 kafejo: kafe
 kafejon: kafe
-karulino: darling
-karulo: darling
-klarigis: explained
-klarigon: explanation 
-klubanoj: club members
+karulino: kesayangan (perempuan)
+karulo: kesayangan
+klarigis: menjelaskan
+klarigon: penjelasan
+klubanoj: anggota klub
 kompreneble: 
-- understandably
-- of course
-korpoforton: physical strength
-kunmanĝos: will eat together
-kunporti: to bring along
-kunulino: female companion
-kunvenas: come together
-laboristo: worker
-lampeto: little lamp
+- dapat dimengerti
+- tentu saja
+korpoforton: kekuatan fisik
+kunmanĝos: akan makan bersama
+kunporti: 
+- membawa
+- mengajak
+kunulino: teman wanita
+kunvenas: datang bersama
+laboristo: pekerja
+lampeto: lampu kecil
 lernanto:
-- learner
-- student
+- pelajar
+- siswa
 lernejo: sekolah
 lernejon: sekolah 
-lernolibroj: schoolbooks
+lernolibroj: buku sekolah
 leteroj: surat-surat
 libertempo: waktu luang
-libroj: books
+libroj: buku-buku
 lumigis:
-- lightened up
-- flashed up
+- menerangkan
+- menerangi
 malagrabla: tidak menyenangkan
 malbela: jelek
 malbonaj: buruk
@@ -130,8 +134,8 @@ malfruas: terlambat
 malfrue: terlambat
 malfrui: terlambat 
 malgranda: kecil
-malhelpis: hindered
-malinterese: uninteresting
+malhelpis: mengganggu
+malinterese: cuek
 malkontentigi: mengganggu
 mallaŭte: sunyi
 malliberejon: penjara
@@ -143,19 +147,19 @@ malnova: tua
 malnovaj: tua
 malofte: jarang 
 malplaĉa: tidak menyenangkan
-malplaĉan: uncomfortable 
-malproksime: far away
-malsaniĝis: got sick
+malplaĉan: tidak menyenangkan
+malproksime: jauh
+malsaniĝis: menjadi sakit
 malsaĝa: unwise
-malsekajn: wet
-malsukcesa: unsuccessful
-maltrankvila: anxious
-malvarman: cold
-malĝoja: sad
+malsekajn: basah
+malsukcesa: gagal
+maltrankvila: gelisah
+malvarman: dingin
+malĝoja: sedih
 malŝatas: tidak suka
 malŝatis: tidak suka
 manĝaĵo: makanan
-manĝegi: to devour
+manĝegi: menelan
 maristo: nelayan
 maristoj: nelayan
 mariston: nelayan
@@ -182,7 +186,7 @@ paperojn: kertas
 paperujon: tempat sampah kertas
 pasigos: melalui
 patrino: ibu
-perdigis: withdrew
+perdigis: menarik
 plenigadis: mengisi
 plenumis: memenuhi
 plibeligis: mempercantik
@@ -206,7 +210,7 @@ riĉeco:
 riĉulo: orang kaya
 salton: lompat
 saluton: halo
-samklubanoj: anggota seklub
+samklubanoj: anggota satu klub
 sekretajn: rahasia
 sekreton: rahasia
 senbrue: dengan senyap
@@ -243,15 +247,15 @@ vestaĵoj: pakaian
 vestaĵojn: pakaian-pakaian 
 vestaĵon: pakaian
 veturado:
-- drive
-- tour
+- perjalanan
+- tur
 veturigus: akan mengendarai 
 viaj: milikmu
 virino:
 - wanita
 - permpuan
-vojaĝantoj: travellers
-ĉambristoj: chambermaids
+vojaĝantoj: pelancong
+ĉambristoj: pelayan kamar
 ĉeesto: kehadiran
 ĉirkaŭaĵo: 
 - sekitar

@@ -280,37 +280,45 @@ urb: kota
 util: berguna
 uz: pakai, guna
 vagon: 
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to travel
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: journey
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
-ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: to correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- gerbong
+- kereta
+varm: panas
+ven: datang
+vend: jual
+Veneci: Venezia
+ver: 
+- benar
+- sejati
+vesper: malam
+vest: berpakaian
+vetur: 
+- pergi
+- perjalanan
+vid: lihat
+vin: anggur (minuman)
+vir: pria
+viv: hidup
+vizaĝ: wajah
+vizit: kunjung
+voj: jalan
+vojaĝ: perjalanan
+vok: panggil
+vol:
+- mau
+- ingin
+vort: kata
+voĉ: suara
+zorg: 
+- urus
+- peduli
+ĉambr: kamar
+ĉef: bos
+ĝen: ganggu
+ĝeneral: umum
+ĝoj: senang
+ĝust: benar, tepat
+ĵet: lempar
+ŝajn: tampak
+ŝanĝ: ubah
+ŝat: suka
+ŝip: kapal

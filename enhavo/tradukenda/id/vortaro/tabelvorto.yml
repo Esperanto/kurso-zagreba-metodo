@@ -1,45 +1,60 @@
-kio: apa
+kio: 
+- apa
+- yang
 tio: itu
 io: sesuatu
-ĉio: semua hal
-nenio: tidak ada hal
+ĉio: semuanya
+nenio: tidak ada sesuatu
 kiu:
 - siapa
 - yang
-tiu:
-- orang itu
-- hal itu
+- yang mana
+tiu: itu
 iu: seseorang
 ĉiu:
 - semua orang
 - setiap
-neniu: tak seorang pun
+neniu: 
+- tak seorangpun
+- tak sesuatupun
 kie: di mana
 tie: di sana
-ie: suatu tempat
+ie: di suatu tempat
 ĉie:
 - di mana-mana
 - di semua tempat
 nenie: tak dimanapun
-kia: jenis apa
-tia: jenis itu
-ia: sejenis
-ĉia: setiap jenis
-nenia: bukan (jenis) apapun
+kia: 
+- jenis apa
+- betapa
+tia:
+- yang begitu
+- semacam itu
+ia: 
+- sejenis
+- semacam
+ĉia: segala macam
+nenia: tidak ada semacam itu
 kiel: bagaimana
 tiel: seperti itu
-iel: dalam suatu cara
-ĉiel: dalam semua cara
-neniel: in no way
+iel: dengan suatu cara
+ĉiel: dengan cara apapun
+neniel: 
+- bagaimanapun tidak
+- tidak sama sekali
 kial: mengapa
 tial: untuk alasan itu
-ial: alasan itu
+ial: suatu alasan
 ĉial: untuk setiap alasan
 nenial: bukan alasan apapun
 kiam: ketika
 tiam: waktu itu
-iam: pernah, pada suatu waktu
-ĉiam: selalu, setiap saat
+iam: 
+- pernah
+- pada suatu waktu
+ĉiam: 
+- selalu 
+- setiap saat
 neniam: tidak pernah
 kiom: seberapa banyak
 tiom: sejumlah itu
@@ -47,9 +62,9 @@ iom: sejumlah
 ĉiom: 
 - semua
 - keseluruhan jumlah
-neniom: tak sebanyak apapun
+neniom: tak sedikitpun
 kies: milik siapa
-ties: kepunyaan siapa
+ties: kepunyaannya
 ies: kepunyaan seseorang
 ĉies: milik semua orang
-nenies: bukan milik siapa-siapa
+nenies: bukan milik siapapun

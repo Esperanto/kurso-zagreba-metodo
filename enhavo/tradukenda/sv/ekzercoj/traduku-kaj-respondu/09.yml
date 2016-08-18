@@ -1,75 +1,75 @@
 - 
-  demando: Vad skulle glädje dina föräldrar mest?
+  demando: Vad skulle kunna glädja dina föräldrar mest?
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: Vad
+    - povus: skulle kunna
+    - plej: mest
+    - ĝojigi: glädja
+    - viajn: dina
+    - gepatrojn: föräldrar
     - '?'
 - 
-  demando: Skulle du åtminstone vilja åka med mig till stan efter studierna?
+  demando: Om du åtminstone skulle åka med mig in till stan efter skolan!
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: Om
+    - almenaŭ: åtmisntone
+    - vi: du
+    - post: efter
+    - la: (bestämd artikel)
+    - lernado: lärande
+    - irus: skulle gå
+    - kun: med
+    - mi: jag
+    - en: in
+    - la: (bestämd artikel)
+    - urbocentron: stadskärna
     - '!'
 - 
-  demando: Vart skulle di önska att resa om du hade tillräckligt med tid och pengar?
+  demando: Vart skulle du önska att resa om du hade tillräckligt med tid och pengar?
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: Vart
+    - vi: de
+    - dezirus: skulle önska
+    - vojaĝi: resa
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: om
+    - vi: du
+    - havus: skulle ha
+    - sufiĉe: tillräckligt
+    - da: utav
+    - mono: pengar
+    - kaj: och
+    - tempo: tid
     - '?'
 - 
-  demando: Planerar ni att resa till Paris med tåg? Tror ni inte att det är bättre att åka tåg?
+  demando: Planerar ni att resa till Paris med bil? Tror ni inte att det är mycket bättre att åka tåg?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
+    - Ĉu: (Frågepartikeln)
+    - vi: du
+    - planas: planerar
+    - veturi: åka, resa
+    - al: till
     - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - per: med
+    - aŭto: bil
+    - aŭ: eller
+    - ĉu: (frågepartikeln)
+    - ne: inte
+    - ŝajnas: verkar
+    - multe: mycket
+    - pli: mer
+    - bone: bra
+    - per: med
+    - vagonaro: tåg
     - '?'
 - 
   demando: Varför förlkarar olika människor samma idéer på olika sätt?
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: Kial
+    - diversaj: olika
+    - homoj: människor
+    - klarigas: förklarar
+    - samajn: samma
+    - ideojn: idéer
+    - diversmaniere: på olika sätt 
     - '?'

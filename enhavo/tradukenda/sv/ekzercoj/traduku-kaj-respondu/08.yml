@@ -1,86 +1,86 @@
 - 
   demando: Vem ska göra rent i köket efter middagen?
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: Vem
+    - purigos: kommer att göra rent
+    - la: (bestämd artikel)
+    - kuirejon: kök
+    - post: efter
+    - la: (bestämd artikel)
+    - tagmanĝo: lunnch
     - '?'
 - 
-  demando: Vad önskar du att dricka: te, lite kaffe, ett glas vatten, eller ingenting?
+  demando: Vad vill du dricka: te, lite kaffe eller ingenting?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: Vad
+    - vi: du
+    - volas: vill
+    - trinki: dricka
     - ':' 
-    - teon: tea
+    - teon: te
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: lite
+    - da: utav
+    - kafo: kaffe
+    - aŭ: eller
+    - ĉu: (frågepartikeln)
+    - vi: du
+    - volas: vill
+    - nenion: ingenting
     - '?'
 - 
-  demando: Varför bestämde du så plötsligt att renovera ditt lilla rum?
+  demando: Varför bestämde du dig så plötsligt för att renovera ditt lilla rum?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: Varför
+    - vi: du
+    - tiel: så
+    - subite: plötsligt
+    - decidis: bestämde
+    - renovigi: renovera
+    - vian: ditt
+    - ĉambreton: litet rum
     - '?'
 - 
-  demando: Var har du ställt de rena vinlgasen?
+  demando: Till vem gav du de rena vinlgasen?
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: Till
+    - kiu: vem
+    - vi: du
+    - donis: gav
+    - la: (bestämd artikel)
+    - purajn: rena
+    - glasojn: glas
+    - por: för 
+    - la: (bestämd artikel)
+    - vino: vin
     - '?'
 - 
   demando: Mot vem spelade din idrottsklubb för två veckor sedan?
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: Mot
+    - kiu: vem
+    - ludis: spelade
+    - via: ditt
+    - sportklubo: sportklubb
+    - antaŭ: före
+    - du: två
+    - semajnoj: veckor
     - '?'
 - 
-  demando: Ser du ofta polismannen som bor i bostaden ovanför dig?
+  demando: Ser du ofta polisen som bor i bostaden ovanför dig?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: (Frågepartikeln)
+    - vi: du
+    - ofte: ofta
+    - vidas: ser
+    - la: (bestämd artikel)
+    - policiston: polis
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: som
+    - loĝas: bor
+    - en: i 
+    - la: (bestämd artikel)
+    - loĝejo: bostad
+    - super: ovanför
+    - vi: du
     - '?'

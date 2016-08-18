@@ -1,68 +1,68 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: Kommer vi att ses igen, oavsett var och oavsett när?
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: (Frågepartikeln)
+    - ni: vi
+    - revidos: kommer att återse
+    - nin: oss
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: var
+    - ajn: som helst
+    - kaj: och
+    - kiam: när 
+    - ajn: som helst
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: När kommer jag få tillbaka den andra hälften av böckerna?
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: När
+    - mi: jag
+    - rericevos: kommer att få tillbaka
+    - la: (bestämd artikel)
+    - alian: andra
+    - duonon: halva
+    - de: av
+    - la: (bestämd artikel)
+    - libroj: böcker
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: Kommer du behöva mer än ett fjärdedels år för de där jobben?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: (Frågepartikeln)
+    - vi: du
+    - bezonos: kommer behöva
+    - pli: mer
+    - ol: än
+    - kvaronan: fjärdedels
+    - jaron: år
+    - por: för
+    - tiuj: de där
+    - laboroj: jobb
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: Varför är det kallare ju längre ni väntar? Why is it that the colder it is, the longer we wait?
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: Varför
+    - estas: är
+    - des: desto
+    - pli: mer
+    - malvarma: kallt
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: ju
+    - pli: mer
+    - longe: länge
+    - ni: vi
+    - atendas: väntar
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: Skulle du vara nöjd med vilken man som helst?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
+    - Ĉu: (Frågepartikeln)
+    - vi: du
+    - estus: skulle vara
+    - kontenta: nöjd
+    - kun: med
+    - iu: vem
+    - ajn: om helst
     - viro: man
     - '?'

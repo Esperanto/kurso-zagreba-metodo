@@ -1,5 +1,5 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: Vem ska göra rent i köket efter middagen?
   rektatraduko: 
     - Kiu: Who
     - purigos: is going to clean
@@ -10,7 +10,7 @@
     - tagmanĝo: lunch
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: Vad önskar du att dricka: te, lite kaffe, ett glas vatten, eller ingenting?
   rektatraduko: 
     - Kion: What
     - vi: you
@@ -29,7 +29,7 @@
     - nenion: nothing
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: Varför bestämde du så plötsligt att renovera ditt lilla rum?
   rektatraduko: 
     - Kial: Why
     - vi: you
@@ -41,7 +41,7 @@
     - ĉambreton: small room
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: Var har du ställt de rena vinlgasen?
   rektatraduko: 
     - Al: To
     - kiu: whom
@@ -55,7 +55,7 @@
     - vino: wine
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: Mot vem spelade din idrottsklubb för två veckor sedan?
   rektatraduko: 
     - Kontraŭ: Against
     - kiu: whom
@@ -67,7 +67,7 @@
     - semajnoj: weeks
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: Ser du ofta polismannen som bor i bostaden ovanför dig?
   rektatraduko: 
     - Ĉu: Whether
     - vi: you

@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Kan du ta med min syters medicin?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: (Frågepartikeln)
+    - vi: du
+    - povas: kan
+    - kunporti: ta med
+    - la: (bestämd artikel)
+    - sanigilon: medicin
+    - de: (preposition som visar ägande)
+    - mia: min
+    - fratino: syster
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: När köpte du det där instrumentet?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: När
+    - vi: du
+    - aĉetis: köpte
+    - tiun: den där
+    - muzikilon: musikinstrument
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: Vem använde min nyckel sist?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Vem
+    - laste: sist
+    - uzis: använde
+    - mian: min
+    - ŝlosilon: nyckel
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Åkte du gondol i Venedig också?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: (Frågepartikel)
+    - vi: du
+    - en: i
+    - Venecio: Venedig
+    - veturis: åkte, reste
+    - ankaŭ: också
+    - per: med
+    - gondolo: gondol
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Kommer du kunna somna när det har blivit tyst?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: (Frågepartikeln)
+    - vi: du
+    - povos: kommer att kunna
+    - ekdormi: somna
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: när 
+    - silentiĝis: det blev tyst
     - '?'

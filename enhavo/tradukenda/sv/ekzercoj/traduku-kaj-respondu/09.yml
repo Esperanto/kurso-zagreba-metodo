@@ -1,5 +1,5 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: Vad skulle glädje dina föräldrar mest?
   rektatraduko: 
     - Kio: What
     - povus: could
@@ -9,7 +9,7 @@
     - gepatrojn: parents
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: Skulle du åtminstone vilja åka med mig till stan efter studierna?
   rektatraduko: 
     - Se: If
     - almenaŭ: at least
@@ -25,7 +25,7 @@
     - urbocentron: city center
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: Vart skulle di önska att resa om du hade tillräckligt med tid och pengar?
   rektatraduko: 
     - Kien: Where to
     - vi: you
@@ -42,7 +42,7 @@
     - tempo: time
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: Planerar ni att resa till Paris med tåg? Tror ni inte att det är bättre att åka tåg?
   rektatraduko: 
     - Ĉu: Whether
     - vi: you
@@ -63,7 +63,7 @@
     - vagonaro: train
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: Varför förlkarar olika människor samma idéer på olika sätt?
   rektatraduko: 
     - Kial: Why
     - diversaj: different

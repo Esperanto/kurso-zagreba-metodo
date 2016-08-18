@@ -1,77 +1,77 @@
 - 
   demando: Vem hade boken som du väntade på i mer än två år?
   rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+    - Kiu: Vem
+    - havis: hade
+    - la: (bestämd artikel)
+    - libron: bok
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
+    - kiun: vilken
+    - vi: du
+    - atendis: väntade
+    - pli: mer
+    - ol: än
+    - du: två
+    - jarojn: år
     - '?'
 - 
-  demando: Önskar du att jag visar dig mitt käraste foto?
+  demando: Vill du att jag visar dig mitt käraste foto?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+    - Ĉu: (Frågepartikeln)
+    - vi: du
+    - volas: vill
     - ','
-    - ke: that
-    - mi: I
-    - montras: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - ke: att
+    - mi: jag
+    - montras: visar
+    - al: till
+    - vi: du
+    - mian: mitt
+    - plej: mest
+    - karan: kära
+    - foton: foto
     - '?'
 - 
-  demando: Var har ni köpt de här kläderna?
+  demando: Var har du köpt det där plagget?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+    - Kie: Var
+    - vi: du
+    - aĉetis: köpte
+    - tiun: den där
+    - vestaĵon: klädesplagget
     - '?'
 - 
   demando: Vart ska du åka på söndag om det blir en solig dag?
   rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+    - Kien: Vart
+    - vi: du
+    - iros: kommer att åka
+    - dimanĉe: på söndag
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: om
+    - estos: kommer att vara
+    - suna: solig
+    - tago: dag
     - '?'
 - 
-  demando: Did your brother already leave?
+  demando: Har din bror redan åkt iväg?
   rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+    - Ĉu: (Frågepartikeln)
+    - via: din
+    - frato: bror
+    - jam: redan
+    - ekiris: började åka
     - '?'
 - 
-  demando: Var lämnade du vattnet som du själv hämtat?
+  demando: Var är vattnet som du hämtade själv?
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+    - Kie: Var
+    - estas: är
+    - la: (bestämd artikel)
+    - akvo: vatten
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: vilket
+    - vi: du
+    - mem: själv
+    - kunportis: tog med
     - '?'

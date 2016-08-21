@@ -1,12 +1,12 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- uczy **najważniejszych 500 słów**
+- **Brak rejestracji**: Po prostu naciśnij *Rozpocznij*
+- **wersja mobilna** dla smartfonów
+- kurs jest darmowy, a ponadto **[darmowy do wykorzystania w innych projektach](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-The course consists of **12 lessons**, each with
+Kurs składa się z **12 lekcji**, każda z
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+- tekstu
+- objaśnienia gramatycznego
+- i 3 ćwiczeń.
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+Po ukończeniu kursu będziesz stanie zrozumieć i wyrazić najważniejsze rzeczy. Po prostu spróbuj!

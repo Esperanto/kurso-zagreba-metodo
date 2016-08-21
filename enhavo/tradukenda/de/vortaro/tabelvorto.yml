@@ -5,7 +5,9 @@ tio:
 io: irgendwas
 ĉio: alles
 nenio: nichts
-kiu: wer
+kiu: 
+- wer
+- welcher
 tiu: jener
 iu: jemand
 ĉiu: jeder

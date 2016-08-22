@@ -1,13 +1,18 @@
 kio: què
-tio: allò
-io: alguna cosa
+tio: 
+- allò
+- això
+- ho
+io: 
+- alguna cosa
+- quelcom
 ĉio: tot
 nenio:
  - res
  - no res
 kiu:
  - qui
- - qual
+ - quin, quina
 tiu:
  - aquell, aquella
 iu: algú
@@ -15,6 +20,7 @@ iu: algú
  - cada un
  - cadascú
  - tots
+ - tothom
 neniu:
  - ningú
  - cap (negació d'existència)
@@ -25,22 +31,21 @@ ie:
  - en algún lloc
 ĉie:
  - a tot arreu
+ - pertot
 nenie:
  - enlloc
  - a cap lloc
 kia:
  - com (sentit adjectiu, no adverbial)
- - quin tipus de
+ - quina mena de
 tia:
  - tal
  - així (sentit adjectiu, no adverbial)
-ia: algún tipus de
+ia: alguna mena de
 ĉia:
- - de tots els tipus
- - de totes les classes
+ - de tota mena
 nenia:
- - de cap tipus
- - de cap classe
+ - de cap mena
 kiel:
  - com (sentit adverbial)
 tiel:
@@ -62,15 +67,21 @@ ial:
 ĉial:
  - per qualsevol raó
  - per qualsevol motiu
+ - per tots els motius
 nenial:
  - per cap raó
  - per cap motiu
 kiam:
  - quan
-tiam: llavors, en aquell moment
-iam: en algún moment
+tiam: 
+ - llavors
+ - aleshores
+ - en aquell moment
+iam: 
+- en algún moment
+- mai (en preguntes i condicions)
 ĉiam: sempre
-neniam: mai
+neniam: mai (en negacions)
 kiom: quant
 tiom: tant
 iom: una mica, una certa quantitat

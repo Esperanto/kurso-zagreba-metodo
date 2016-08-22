@@ -1,5 +1,5 @@
 -
-  demando: Pots aprendre tranquil·lament mentres algú està cantant animadament?
+  demando: Pots aprendre tranquil·lament mentre algú està cantant animadament?
   rektatraduko: 
     - Ĉu: ¿
     - vi: Tu
@@ -7,20 +7,20 @@
     - trankvile: tranquil·lament
     - lerni: aprendre
     - ','
-    - dum: mentres
+    - dum: mentre
     - iu: algú
     - ĝoje: animadament
     - kantas: canta
     - '?'
 -
-  demando: Qui sap quan i "on" ens tornarem a veure l'un a l'altre?
+  demando: Qui sap quan i on ens tornarem a veure l'un a l'altre?
   rektatraduko: 
     - Kiu: Qui
     - scias: sap
     - ','
     - kiam: quan 
     - kaj: i
-    - kie: "on"
+    - kie: on
     - ni: nosaltres
     - revidos: tornarem a veure
     - nin: l'un a l'altre
@@ -34,7 +34,7 @@
     - nun: ara
     - '?'
 -
-  demando: Algú et va ajudar a obrir la porta de la antiga casa?
+  demando: Algú et va ajudar a obrir la porta de l'antiga casa?
   rektatraduko: 
     - Ĉu: ¿
     - iu: algú 
@@ -50,11 +50,11 @@
     - domo: casa
     - '?'
 -
-  demando: Perquè "no" tens temps d'escoltar-me més temps?
+  demando: Perquè no tens temps d'escoltar-me més temps?
   rektatraduko: 
     - Kial: Perquè
     - vi: tu
-    - ne: "no"
+    - ne: no
     - havas: tens
     - tempon: temps
     - aŭskulti: escoltar

@@ -1,18 +1,10 @@
 -
-  demando: Quan et tornaré a veure?
-  rektatraduko: 
-    - Kiam: Quan
-    - mi: jo
-    - revidos: tornaré a veure
-    - vin: a tu
-    - '?'
--
-  demando: Quant temps portes aprenent la llengua internacional?
+  demando: Quant temps fa que aprens la llengua internacional?
   rektatraduko: 
     - Kiom: Quant
     - longe: llarg (en el temps)
     - vi: tu
-    - lernas: portes aprenent
+    - lernas: aprens
     - la: la 
     - Internacian: internacional
     - Lingvon: llengua
@@ -29,11 +21,11 @@
     - fotoj: fotografies
     - '?'
 -
-  demando: A on aniras després del dinar?
+  demando: On vas anar després del dinar?
   rektatraduko: 
     - Kien: On
     - vi: tu
-    - iros: aniras
+    - iris: vas anar
     - post: després de
     - la: el
     - tagmanĝo: dinar

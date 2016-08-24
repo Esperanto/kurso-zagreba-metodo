@@ -178,6 +178,7 @@ lingvoj = [
   ('hu', u'(test: hungara)'),
   ('id', u'(test: indonezia)'),
   ('km', u'(test: kmera)'),
+  ('ko', u'(test: korea)'),
   ('lo', u'(test: laosa)'),
   ('my', u'(test: birma)'),
   ('nl', u'(test: nederlanda)'), # Nederlands  

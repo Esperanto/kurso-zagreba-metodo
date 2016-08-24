@@ -29,6 +29,7 @@ La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝ
 	- [hispana](http://esperantofre.com/zagreb/zagrebh.htm)
 	- [kroata](https://drive.google.com/open?id=0B73-tppgbUrecVZxc21TQ2syUzQ)
 	- [pola](https://drive.google.com/open?id=0B73-tppgbUreU2tGMEFWR0pCblU)
+	- [slovaka](https://drive.google.com/open?id=0B73-tppgbUreTGdWT19JQ09jamM)
 
 (Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu nin](mailto:georg@jaehnig.org)!)
 

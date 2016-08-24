@@ -1,10 +1,10 @@
 # Kiel traduki al nova lingvo
 
-Saluton! Unue dankegon, ke vi volas traduki tiun kurson! Ĉi tie priskribitas kiel fari tion.
+Saluton! Unue dankegon, ke vi volas traduki tiun ĉi kurson! Kiel fari tion.
 
 ## Registru konton ĉe Github
 
-1. bonvole iru al https://github.com/join kaj registru (senpagan) personan konton.
+1. bonvole iru al https://github.com/join kaj kreu (senpagan) personan konton.
 2. Sendu vian uzantnomon al georg@jaehnig.org kaj skribu ankaŭ:
    - al kiu lingvo vi volas traduki
    - kiun jam ekzistantan, similan lingvon vi volas havi kiel ĝermo. (Normale, oni elektas la anglan. Sed se vi ekzemple volas traduki al la indonezia, indus elekti la similan malajan.)
@@ -12,7 +12,7 @@ Saluton! Unue dankegon, ke vi volas traduki tiun kurson! Ĉi tie priskribitas ki
 
 ## Akceptu la inviton al la teamo
 
-Kiam mi legis vian mesaĝon, mi invitas vin al la Esperanta teamo ĉe Github. Mi skribas al vi, kiam mi faris tion. Por akceptu la inviton
+Kiam mi legis vian mesaĝon, mi invitas vin al la Esperanta teamo ĉe Github. Mi skribas al vi, kiam mi faris tion. Por akcepti la inviton
 
 1. iru al https://github.com/Esperanto kaj klaku al "View invitation".
 2. En la sekva paĝo, klaku al "Join Esperanto".
@@ -31,7 +31,7 @@ La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝ
 	- [pola](https://drive.google.com/open?id=0B73-tppgbUreU2tGMEFWR0pCblU)
 	- [slovaka](https://drive.google.com/open?id=0B73-tppgbUreTGdWT19JQ09jamM)
 
-(Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu nin](mailto:georg@jaehnig.org)!)
+(Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu min](mailto:georg@jaehnig.org)!)
 
 ## Tradukado
 
@@ -39,8 +39,8 @@ Nun ek al la tradukado!
 
 ### Ĝenerale: kiel redakti
 
-1. Bonvole venu al la dosierujo kiun mi kreis por la nova lingvo. (Mi sendis ligilon al ĝi en mia retpoŝto al vi.)
-2. Eniru la dosierujojn kaj malfermu dosierojn kiun vi volas traduki (simple klaku al ĝi).
+1. Bonvole iru al la dosierujo kiun mi kreis por la nova lingvo. (Mi sendis la ligilon en mia retpoŝto al vi.)
+2. Eniru la dosierujon kaj malfermu dosieron kiun vi volas traduki (simple klaku al ĝi).
 3. Redaktu la dosierojn: Klaku al la redaktu-butono:
 
 ![Redaktu](redaktu.png)
@@ -60,7 +60,7 @@ Se via nova lingvo havas nur 1 tradukaĵo, skribu unu linion, ekzemple:
 
     - enskribi: to register
 
-Se via nova lingvo havas pli ol 1 tradukaĵo, skribu pli liniojn, ekzemple:
+Se via nova lingvo havas pli ol 1 tradukaĵo, skribu pli da liniojn, ekzemple:
 
     - enskribi: 
       - to register
@@ -72,7 +72,7 @@ Same, traduku la aliajn dosierojn en `/ekzercoj/traduku`. Bonas se vi ĉiam skri
 
 #### Vortaro 
 
-Same, traduku ĉiuj dosierojn en `/vortaro`.
+Same, traduku ĉiujn dosierojn en `/vortaro`.
 
 #### Ekzerco 3
 
@@ -97,7 +97,7 @@ En la linio `rektatraduko:`, skribu laŭvortan tradukon en via lingvo. Ĝi ne de
       - la: the
       - amo: love
       - '?'
-Tre bonas uzi la samajn vortojn kiel en la traduko en `/vortaro`. Sed notu ke tie oni bezonas __nur unu__ tradukaĵon per vorto.
+Tre bonas uzi la samajn vortojn kiel en viaj tradukoj en `/vortaro`. Sed rimarku ke tie oni bezonas __nur unu__ tradukaĵon per vorto.
 
 Se via lingvo tute ne havas laŭvortan tradukon de kelkaj Esperantaj vortoj, skribu ian klarigon. Ekzemple, se la angla ne havus la vorton "the", oni povus skribi
 
@@ -123,6 +123,3 @@ La gramatikaj klarigoj estas en la dosierujo `/gramatiko`. Ili skribitas en [Mar
 - se vi dubas, rigardu la [germanan version](de/)
 
 Ne timu se Github kelkfoje malĝuste transigas partojn de Markdown (ekz. kombinadojn kiel `*lern__ej__o*`), montrante la Markdown-dosierojn en sia retejo. Tio nur estas problemo de Github, nia kreanta skripto tamen bone tradukos ilin.
-
-
-

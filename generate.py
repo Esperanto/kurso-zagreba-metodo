@@ -175,7 +175,7 @@ lingvoj = [
   ('fa', u'(test: persa)'),
   ('frp', u'(test: arpitana)'),
   ('hr', u'(test: kroata)'),
-  ('hu', u'(test: hungara)')
+  ('hu', u'(test: hungara)'),
   ('id', u'(test: indonezia)'),
   ('km', u'(test: kmera)'),
   ('lo', u'(test: laosa)'),
@@ -184,7 +184,7 @@ lingvoj = [
   ('pl', u'(test: pola)'),
   ('ru', u'(test: rusa)'),
   ('sv', u'(test: sveda)'),
-  ('ur', u'(test: urdua)'),
+  ('ur', u'(test: urdua)')
 ]
 
 if args.lingvo:

@@ -31,6 +31,7 @@
     - Marko: Marc
     - alvenos: arribarà
     - ',' 
+    - Ĉu: ¿
     - je: a
     - la: les
     - kvina: cinc
@@ -41,7 +42,7 @@
     - horo: hores
     - '?'
 - 
-  demando: Quan et vas adonar de que la família sencera em diu benefactor?
+  demando: Quan et vas adonar que tota la família em diu benefactor?
   rektatraduko: 
     - Kiam: Quan
     - vi: tu
@@ -56,7 +57,7 @@
     - bonfarulo: benefactor
     - '?'
 - 
-  demando: Era útil el llibret que et vaig enviar?
+  demando: Que et va fer servei el llibret que et vaig enviar?
   rektatraduko: 
     - Ĉu: ¿
     - estis: Era
@@ -66,7 +67,7 @@
     - ',' 
     - kiun: que
     - mi: jo
-    - sendis: et vaig enviar
+    - sendis: vaig enviar
     - al: a
     - vi: tu
     - '?'

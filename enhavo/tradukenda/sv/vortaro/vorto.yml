@@ -1,11 +1,18 @@
 Esperanto: Esperanto
 akcepteblan: acceptabel
 alilandaj: utländsk
-alporti: to bring over
-alportis: brought over 
-alvenigas: leads here
+alporti: 
+- ta med
+- hämta
+alportis: 
+- tog med
+- hämtade
+alvenigas: 
+- leder till
+- får någon att komma
+- hämtar (någon)
 alvenis: anlände
-alvenos: kommer att änlända
+alvenos: kommer att anlända
 amikino: 
 - väninna
 - tjejkompis
@@ -13,7 +20,10 @@ amikinon:
 - väninna
 - tjejkompis
 amletero: kärleksbrev
-antaŭeniris: went ahead
+antaŭeniris: 
+- gick före
+- gick framför
+- gick frammåt
 arbaro: skog
 arbetoj: buskar
 arboplena: full av träd
@@ -28,13 +38,13 @@ bonega: jättebra
 bonvolu: 
 - var vänlig
 bonvolus: vore vänlig
-centoj: hundreds
+centoj: hundtratal
 dankon: tack
 daŭrigis: fortsätta
 denove: 
 - igen
 - på nytt
-devojiĝis: to go astray
+devojiĝis: kom på avvägar
 dikiĝi: tjockna
 doloriga: smärtande
 dolorige: smärtande
@@ -42,7 +52,7 @@ domegon: villa
 dumnokte: under nattetid
 dumtage: under dagtid
 ekkriis: skrika till
-ekmire: wondrously
+ekmire: förunderligt
 ekparolis: började prata
 ekridis: började skratta
 ekrigardis: började titta
@@ -51,8 +61,8 @@ eksaltis:
 - hoppa upp
 ekscii: få reda på
 eksidis: satte sig ner
-ekstervoje: on the way out
-ekveturas: start riding
+ekstervoje: påväg ut
+ekveturas: börjar åka
 ekvidis: fick syn på
 elstaraj: 
 - utstående
@@ -60,11 +70,17 @@ elstaraj:
 eniri: gå in
 eniris: gick in
 eniru: gå in
-facilmovaj: easy-to-move
+facilmovaj: 
+- lättflyttade
+- lättrubbade
 faligi:
+- fälla
 - välta
 - knuffa omkull
-faligis: välte
+faligis: 
+- fällde
+- välte
+- knuffade omkull
 familianoj: familjemedlemmar
 fermita: stängd 
 fine: 

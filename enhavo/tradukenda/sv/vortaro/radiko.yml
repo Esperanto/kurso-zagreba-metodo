@@ -2,7 +2,7 @@ afer:
 - sak
 - företeelse
 agrabl: trevlig
-akcept: akceptera
+akcept: acceptera
 akv: vatten
 ali: annan
 alt: hög
@@ -27,7 +27,9 @@ aŭtoritat:
 - auktoritet
 - myndighet
 bedaŭr: beklaga
-bel: vacker
+bel: 
+- vacker
+- snygg
 best: djur
 bezon: behöva
 bien:
@@ -98,8 +100,8 @@ fot: foto
 frat: bror
 fru: tidig
 fuŝ: 
-- fördärva
 - slarva
+- fördärva
 gondol: gondol
 graf: greve
 grand: stor
@@ -114,7 +116,7 @@ hotel: hotell
 ide: idé
 industri: industri 
 instru:
-- lära
+- lära (någon)
 - lära ut
 - undervisa
 interes: intressera
@@ -192,7 +194,7 @@ mank:
 - saknas
 - fattas
 manĝ: äta
-mar: sea
+mar: hav
 maten: morgon
 memor: minnas
 met: 
@@ -203,8 +205,8 @@ mez: mitt
 milit: krig
 minut: minut
 mir: 
-- förundrar
 - förvånas
+- förundras
 moment: ögonblick
 mon: pengar
 mont: berg
@@ -258,7 +260,7 @@ pens:
 perd: 
 - tappa
 - mista
- - förlora
+- förlora
 person: person
 pet: be (om något)
 pez: tung
@@ -309,12 +311,12 @@ ruĝ: röd
 salt: hoppa
 salut: hälsa
 sam: 
-  - samma
-  - likadan
+- samma
+- likadan
 san: frisk
 saĝ: 
-  - vis
-  - klok
+- vis
+- klok
 sci: veta
 sek: torr
 sekret: hemlighet
@@ -335,7 +337,7 @@ simil:
 sinjor:
 - herre
 - herr
-situaci: sitation
+situaci: situation
 skrib: skriva
 sol: ensam
 son: ljud
@@ -367,7 +369,9 @@ tuŝ:
 - vidröra
 - beröra
 urb: stad
-util: nyttig
+util: 
+- nyttig
+- användbar
 uz: använda
 vagon: järnvägsvagn
 varm: varm
@@ -407,9 +411,9 @@ zorg: bry sig
 - riktig
 ĵet: kasta
 ŝajn: 
-  - förefalla
-  - tyckas
-  - verka
+- förefalla
+- tyckas
+- verka
 ŝanĝ: 
 - ändra
 - byta

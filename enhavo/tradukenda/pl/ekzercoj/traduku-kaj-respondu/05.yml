@@ -1,65 +1,65 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: Czy potrafisz spokojnie uczyć się, gdy ktoś wesoło śpiewa?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: Czy
+    - vi: ty
+    - povas: możesz
+    - trankvile: spokojnie
+    - lerni: uczyć się
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: gdy
+    - iu: ktoś
+    - ĝoje: wesoło
+    - kantas: śpiewa
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Kto wie, kiedy i gdzie zobaczymy się znowu?
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Kto
+    - scias: wie
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: kiedy 
+    - kaj: i
+    - kie: gdzie
+    - ni: my
+    - revidos: zobaczymy znowu
+    - nin: się
     - '?'
 -
-  demando: What time is it now?
+  demando: Która jest teraz godzina?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: Która
+    - horo: godzina
+    - estas: jest
+    - nun: teraz
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Czy ktoś pomógł ci otworzyć drzwi starego domu?
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: Czy
+    - iu: ktoś 
+    - helpis: pomógł 
+    - al: do
+    - vi: ty 
+    - malfermi: otworzyć 
+    - la: (przedimek określony)
+    - pordon: drzwi
+    - de: od
+    - la: (przedimek określony)
+    - malnova: stary
+    - domo: dom
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Dlaczego nie masz czasu dłużej mnie słuchać?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - al: to
-    - mi: me
-    - pli: more
-    - longe: long
+    - Kial: Dlaczego
+    - vi: ty
+    - ne: nie
+    - havas: masz
+    - tempon: czasu
+    - aŭskulti: słuchać
+    - al: do
+    - mi: ja
+    - pli: bardziej
+    - longe: długo
     - '?'

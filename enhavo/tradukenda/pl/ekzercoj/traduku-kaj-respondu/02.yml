@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: Jaki był twój stary dom?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: Jaki
+    - estis: był
+    - via: twój
+    - malnova: stary
+    - hejmo: dom
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: Które książki czytałeś i czy one są dobre?
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: Które
+    - librojn: książki
+    - vi: ty
+    - legis: czytałeś
+    - kaj: i
+    - ĉu: czy
+    - ili: one
+    - estas: są
+    - bonaj: dobre
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: "Co Anna i Marek robili w małym pokoju Marka?"
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kion: Co
+    - faris: robili
     - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - kaj: i
+    - Marko: Marek
+    - en: w 
+    - la: (przedimek określony)
+    - malgranda: mały
+    - ĉambro: pokój
+    - de: od
+    - Marko: Marek
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Czy lubisz czytać książki o miłości?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: Czy
+    - vi: ty
+    - ŝatas: lubisz
+    - legi: czytać
+    - librojn: książki
+    - pri: o
+    - amo: miłość
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Kto pójdzie z tobą do twojego domu?
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: Kto
+    - iros: pójdzie
+    - kun: z
+    - vi: ty
+    - al: do
+    - via: twój
+    - hejmo: dom
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "Jakie są oczy twojej przyjaciółki?"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: Jakie
+    - estas: są
+    - la: (przedimek określony)
+    - okuloj: oczy
+    - de: od
+    - via: twoja
+    - amikino: przyjaciółka
     - '?'

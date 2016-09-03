@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Czy kelnerzy w wielkich hotelach rozumieją wiele języków? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: Czy 
+    - kelneroj: kelnerzy
+    - en: w
+    - grandaj: wielkie
+    - hoteloj: hotele
+    - komprenas: rozumieją
+    - multajn: wiele
+    - lingvojn: języków
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Czy wiesz, że Anna lubi nową piosenę o biedaku i pięknej kobiecie?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: Czy
+    - vi: ty
+    - scias: wiesz
     - ','
-    - ĉu: whether
+    - ĉu: czy
     - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ŝatas: lubi
+    - la: (przedimek określony)
+    - novan: nową
+    - kanton: piosenkę
+    - pri: o
+    - malriĉulo: biedak
+    - kaj: i
+    - belulino: piękna kobieta
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Gdzie widzieliście starca i młodzieńca, którzy nieśli duży stół?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Gdzie
+    - vi: wy
+    - vidis: widzieliście
+    - la: (przedimek określony)
+    - maljunulon: starca
+    - kaj: i
+    - la: (przedimek określony)
+    - junulon: młodzieńca
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: którzy
+    - portis: nieśli
+    - grandan: duży
+    - tablon: stół
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Jak to się stało, że znowu przyjechaliście do nas bez rodzeństwa?
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Jak
+    - okazis: stało się
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: że
+    - vi: wy
+    - denove: znowu
+    - venis: przyjechaliście
+    - al: do
+    - ni: my
+    - sen: bez
+    - gefratoj: rodzeństwo
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Czy wystarczająco szybko możecie się uczyć esperanta przy pomocy nowego podręcznika?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: Czy
+    - vi: wy
+    - povas: możecie
+    - per: przez
+    - la: (przedimek określony)
+    - nova: nowy
+    - lernolibro: podręcznik
+    - sufiĉe: wystarczająco
+    - rapide: szybko
+    - lerni: uczyć się
+    - Esperanton: esperanta
     - '?'

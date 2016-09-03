@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Czy chcesz, żebym pokazał Ci moją najnowszą książkę?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: Czy
+    - vi: ty
+    - deziras: pragniesz
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: że
+    - mi: ja
+    - montras: pokazuję
+    - al: do
+    - vi: ty
+    - mian: moją
+    - plej: najbardzierdziej
+    - novan: nową
+    - libron: książkę
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Co chcesz jutro na śniadanie?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Co
+    - vi: ty
+    - volas: chcesz
+    - morgaŭ: jutro
+    - matenmanĝi: jeść na śniadanie
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: "Kiedy przyjdzie Marek, czy o piątej lub o ósmej?"
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: Kiedy
+    - Marko: Marek
+    - alvenos: przyjdzie
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: o
+    - la: (przedimek określony)
+    - kvina: piąta
+    - aŭ: lub
+    - je: o
+    - la: (przedimek określony)
+    - oka: ósma
+    - horo: godzina
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Kiedy zauważyłeś, że cała rodzina nazywa mnie dobrym człowiekiem?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Kiedy
+    - vi: ty
+    - rimarkis: zauważyłeś
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: że
+    - la: (przedimek określony)
+    - tuta: cała
+    - familio: rodzina
+    - nomas: nazywa
+    - min: mnie
+    - bonfarulo: dobry człowiek
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Czy była ci przydatna książeczka, którą ci posłałem?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Czy
+    - la: (przedimek określony) 
+    - libreto: książeczka
+    - estis: była
+    - utila: przydatna
+    - al: do
+    - vi: ty
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: którą
+    - mi: ja
+    - sendis: wysłałem
     - '?'

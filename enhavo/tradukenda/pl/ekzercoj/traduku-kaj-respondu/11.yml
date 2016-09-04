@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Czy możesz przynieść lekarstwo mojej siostry?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: Czy
+    - vi: ty
+    - povas: możesz
+    - kunporti: przynieść
+    - la: (przedimek określony)
+    - sanigilon: lekarstwo
+    - de: od
+    - mia: mojej
+    - fratino: siostra
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: Kiedy kupiłeś tamten instrument muzyczny?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Kiedy
+    - vi: ty
+    - aĉetis: kupiłeś
+    - tiun: tamten
+    - muzikilon: instrument muzyczny
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: Kto ostatnim razem użył mojego klucza?
   rektatraduko: 
     - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - laste: ostatnim razem
+    - uzis: użył
+    - mian: mojego
+    - ŝlosilon: klucza
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Czy w Wenecji podróżowałeś też gondolą?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
+    - Ĉu: Czy
+    - vi: ty
+    - en: w
+    - Venecio: Wenecji
+    - veturis: jechałeś
+    - ankaŭ: też
+    - per: przez
     - gondolo: gondola
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Czy bedzięsz mógł zasnąć kiedy zrobiło się cicho?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: Czy
+    - vi: ty
+    - povos: będziesz mógł
+    - ekdormi: zasnąć
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: kiedy 
+    - silentiĝis: zrobiło się cicho
     - '?'

@@ -1,18 +1,26 @@
 ﻿- nekredebla: otrolig
-- organizado: organisation
+- organizado: 
+  - organisation
+  - organisering
 - informado: 
   - information
   - informationsflöde
+  - publicitet
 - libervole: frivilligt
 - parolado: tal
 - survoje: påväg
 - homaro: mänsklighet
-- kredeble: troligen
+- kredeble: 
+  - troligen
+  - troligt
 - kunvojaĝi: 
   - resa med
   - åka med
   - samåka
-- manĝaĵo: mat
+  - resa tillsammans
+- manĝaĵo: 
+  - mat
+  - maträtt
 - novaĵo: nyhet
 - vagonaro: tåg
 - ĉirkaŭaĵo: omgivning

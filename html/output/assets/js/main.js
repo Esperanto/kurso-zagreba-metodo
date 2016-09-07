@@ -62,7 +62,13 @@ $('input[data-solvo]').on('input', function() {
   var solutions = $(this).attr('data-solvo').split(/\s*\|\s*/);
   solutions = jQuery.map(solutions, normalize);
 
-  if (jQuery.inArray(input, solutions) !== -1) {
+	var correct = 
+	  // Input it part of solutions	
+		(jQuery.inArray(input, solutions) !== -1)
+	  ||
+		(input == normalize($(this).attr('data-solvo')));
+
+  if (correct) {
     form_group.removeClass('has-error').addClass('has-success');
     glyphicon.removeClass('glyphicon-remove').addClass('glyphicon-ok');
 		// Set focus on the current
@@ -71,6 +77,8 @@ $('input[data-solvo]').on('input', function() {
 		// Jump to the next input.
 		selectNextTabbableOrFocusable(':tabbable');
   } else {
+		console.log(input);
+		console.log($(this).attr('data-solvo'));
     form_group.removeClass('has-success').addClass('has-error');
     glyphicon.removeClass('glyphicon-ok').addClass('glyphicon-remove');
   }

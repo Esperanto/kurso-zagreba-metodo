@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: Milyen volt a régi otthonod?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: Milyen
+    - estis: volt
+    - via: a te
+    - malnova: régi
+    - hejmo: otthon 
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: Melyik könyveket olvastad, és jók?
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: Melyikeket 
+    - librojn: könyveket
+    - vi: te
+    - legis: olvasott
+    - kaj: és
+    - ĉu: vajon
+    - ili: azok
+    - estas: vannak
+    - bonaj: jók 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: "Mit csinált Anna és Márk Márk kicsi szobájában?"
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kion: Mit
+    - faris: csinált
     - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - kaj: és
+    - Marko: Márk
+    - en: -ban 
+    - la: a
+    - malgranda: kicsi
+    - ĉambro: szoba
+    - de: -nak a 
+    - Marko: Márk
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Szeretsz könyveket olvasni a szerelemről?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: Vajon
+    - vi: te
+    - ŝatas: szeret
+    - legi: olvasni
+    - librojn: könyveket
+    - pri: -ről
+    - amo: szerelem
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Ki megy veled majd az otthonodba?
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: Ki
+    - iros: fog menni
+    - kun: -val
+    - vi: te
+    - al: -hoz 
+    - via: te
+    - hejmo: otthon
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "Milyenek a barátnőd szemei?"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: Milyenek
+    - estas: van
+    - la: a
+    - okuloj: szemei
+    - de: -nak a 
+    - via: a te
+    - amikino: barátnőd
     - '?'

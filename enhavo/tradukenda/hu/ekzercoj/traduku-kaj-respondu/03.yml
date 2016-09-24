@@ -1,77 +1,74 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: A pincérek a nagy szállodákban sok nyelvet értenek?
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: Vajon 
+    - kelneroj: pincérek
+    - en: -ban
+    - grandaj: nagyok
+    - hoteloj: szállodák
+    - komprenas: ért
+    - multajn: sokat
+    - lingvojn: nyelveket
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+  demando: Te tudod vajon Anna szereti-e az új dalt a szegény emberről és a szépségről?
+    - Ĉu: Vajon
+    - vi: te
+    - scias: tud
     - ','
-    - ĉu: whether
+    - ĉu: Vajon
     - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ŝatas: szeret
+    - la: a
+    - novan: újat
+    - kanton: dalt
+    - pri: -ról
+    - malriĉulo: szegény ember
+    - kaj: és
+    - belulino: szépség
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+  demando: Hol láttad az öregembert és a fiatalembert, akik egy nagy asztalt vittek?
+    - Kie: Hol
+    - vi: te
+    - vidis: látta
+    - la: a
+    - maljunulon: öregember
+    - kaj: és
+    - la: a
+    - junulon: fiatalember
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: akik
+    - portis: vitte
+    - grandan: nagyot
+    - tablon: asztalt
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
-  rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+  demando: Hogy történt hogy megint testvérek nélkül jöttél el hozzánk?
+    - Kiel: Hogyan
+    - okazis: történt
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: hogy
+    - vi: te
+    - denove: megint
+    - venis: jött
+    - al: -hoz
+    - ni: mi
+    - sen: nélkül
+    - gefratoj: testvérek
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Vajon elég gyorsan tudod tanulni az eszperantót az új tankönyvvvel?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: Vajon
+    - vi: te
+    - povas: tud
+    - per: -val
+    - la: a 
+    - nova: új
+    - lernolibro: tankönyv
+    - sufiĉe: elég
+    - rapide: gyorsan
+    - lerni: tanulni
+    - Esperanton: eszperantót
     - '?'

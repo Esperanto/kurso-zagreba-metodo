@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: teraźniejszy czynna
+int: przeszły czynna
+ont: przyszły czynna
+unt: przypuszczający czynna
+at:  teraźniejszy bierna
+it:  przeszły bierna
+ot:  przyszły bierna
+ut:  przypuszczający bierna

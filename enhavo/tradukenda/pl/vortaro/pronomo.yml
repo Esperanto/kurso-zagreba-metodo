@@ -1,10 +1,17 @@
-ili: they
-li: he
-lia: his
-mi: I
-mia: my
-ni: we
-oni: one (indefinite pronoun)
-vi: you (can be both singular and plural)
-ĝi: it
-ŝi: she
+ili:
+- oni
+- one
+li: on
+lia: jego
+mi: ja
+mia: 
+- mój
+- moja
+- moje
+ni: my
+oni: oni (zaimek nieosobowy)
+vi:
+- ty
+- wy
+ĝi: to
+ŝi: ona

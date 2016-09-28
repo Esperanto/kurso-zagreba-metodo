@@ -185,7 +185,8 @@ lingvoj = [
   ('pl', u'(test: pola)'),
   ('ru', u'(test: rusa)'),
   ('sv', u'(test: sveda)'),
-  ('ur', u'(test: urdua)')
+  ('ur', u'(test: urdua)'),
+  ('zh-tw', u'(test: tradicia ĉina)')
 ]
 
 if args.lingvo:

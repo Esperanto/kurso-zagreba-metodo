@@ -1,0 +1,86 @@
+- 
+  demando: 是谁在午餐后将去清理厨房
+  rektatraduko: 
+    - Kiu: 谁
+    - purigos: 将去
+    - la: 
+    - kuirejon: 厨房
+    - post: 后
+    - la: 
+    - tagmanĝo: 午餐
+    - '?'
+- 
+  demando: “你想喝什么，茶，一些咖啡，或者是你什么都不要？”
+  rektatraduko: 
+    - Kion: 什么
+    - vi: 你
+    - volas: 要
+    - trinki: 喝
+    - ':' 
+    - teon: 茶
+    - ',' 
+    - iom: 一些
+    - da: 
+    - kafo: 咖啡
+    - aŭ: 还是
+    - ĉu: 或者是
+    - vi: 你
+    - volas: 要
+    - nenion: 没有东西
+    - '?'
+- 
+  demando: 为什么你那样突然要决定重新装修你的小房间 ？
+  rektatraduko: 
+    - Kial: 为什么
+    - vi: 你
+    - tiel: 那样
+    - subite: 突然
+    - decidis: 决定
+    - renovigi: 重新装修
+    - vian: 你的
+    - ĉambreton: 小房间
+    - '?'
+- 
+  demando: To whom did you give the clean wine glasses? 你是把那些干净的葡萄酒杯给了谁？
+  rektatraduko: 
+    - Al: 
+    - kiu: 谁
+    - vi: 你
+    - donis: 给了
+    - la: 那些
+    - purajn: 干净
+    - glasojn: 杯子
+    - por: 
+    - la: 
+    - vino: 葡萄
+    - '?'
+- 
+  demando: Against whom did your sports club play two weeks ago? 过去的两周，你的运动俱乐部和谁对上了 ？
+  rektatraduko: 
+    - Kontraŭ: 对上
+    - kiu: 谁
+    - ludis: 对上
+    - via: 你的
+    - sportklubo: 运动俱乐部
+    - antaŭ: 之前，过去的
+    - du: 两
+    - semajnoj: 周
+    - '?'
+- 
+  demando:  你是否经常看见那个住在你的公寓里上面的那个警察？
+  rektatraduko: 
+    - Ĉu: 是否
+    - vi: 你
+    - ofte: 经常
+    - vidas: 看见
+    - la: 那个
+    - policiston: 警察
+    - ',' 
+    - kiu: 谁
+    - loĝas: 住
+    - en: 
+    - la: 在
+    - loĝejo: 公寓
+    - super: 上面
+    - vi: 你
+    - '?'

@@ -1,0 +1,54 @@
+- 
+  demando: 你是否也可以把我姐姐的药品一同带来 ？
+  rektatraduko: 
+    - Ĉu: 是否
+    - vi: 你
+    - povas: 可以
+    - kunporti: 一同带来
+    - la: 那，这
+    - sanigilon: 药品
+    - de: 的
+    - mia: 我的
+    - fratino: 姐姐
+    - '?'
+- 
+  demando: 你何时买了那个乐器 ？
+  rektatraduko: 
+    - Kiam: 何时
+    - vi: 你
+    - aĉetis: 买了
+    - tiun: 那个
+    - muzikilon: 乐器
+    - '?'
+- 
+  demando: 是谁上回使用了我的钥匙？
+  rektatraduko: 
+    - Kiu: 谁
+    - laste: 上一次，上回
+    - uzis: 使用了
+    - mian: 我的
+    - ŝlosilon: 钥匙
+    - '?'
+- 
+  demando: 你在意大利旅行是否也使用贡多拉？
+  rektatraduko: 
+    - Ĉu: 是否
+    - vi: 你
+    - en: 在
+    - Venecio: 威尼斯
+    - veturis: 旅行
+    - ankaŭ: 也
+    - per: 使用
+    - gondolo: 贡多拉
+    - '?'
+- 
+  demando: 你是否可以睡着当更安静的时候？
+  rektatraduko: 
+    - Ĉu: 是否
+    - vi: 你
+    - povos: 可以
+    - ekdormi: 睡着
+    - ',' 
+    - kiam: 当
+    - silentiĝis: 安静
+    - '?'

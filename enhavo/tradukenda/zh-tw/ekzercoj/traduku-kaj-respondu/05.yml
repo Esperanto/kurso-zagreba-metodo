@@ -1,0 +1,65 @@
+-
+  demando: 你是否可以从容的学习，而有人在高兴地唱歌？
+  rektatraduko: 
+    - Ĉu: 是否
+    - vi: 你
+    - povas: 可以
+    - trankvile: 从容
+    - lerni: 学习
+    - ','
+    - dum: 而
+    - iu: 有人
+    - ĝoje: 高兴地
+    - kantas: 唱歌
+    - '?'
+-
+  demando: 谁知道何时及何地我们将可以再彼此相见？
+  rektatraduko: 
+    - Kiu: 谁
+    - scias: 知道
+    - ','
+    - kiam: 何时
+    - kaj: 及
+    - kie: 何地
+    - ni: 我们
+    - revidos: 将再见
+    - nin: 彼此
+    - '?'
+-
+  demando: 现在是几点钟了？
+  rektatraduko: 
+    - Kioma: 几点
+    - horo: 钟
+    - estas: 是
+    - nun: 现在
+    - '?'
+-
+  demando: 是否有人曾帮助你打开那扇在旧房子的门 ？
+  rektatraduko: 
+    - Ĉu: 是否
+    - iu: someone 
+    - helpis: 曾帮助
+    - al: 
+    - vi: 你
+    - malfermi: 打开
+    - la: 那
+    - pordon: 门
+    - de: 的
+    - la: 那
+    - malnova: 旧
+    - domo: 房子
+    - '?'
+-
+  demando: 为何你没有更多时间听我说？
+  rektatraduko: 
+    - Kial: 为何
+    - vi: 你
+    - ne: 没
+    - havas: 有
+    - tempon: 时间
+    - aŭskulti: 听
+    - al: 
+    - mi: 我
+    - pli: 更多
+    - longe: 
+    - '?'

@@ -1,7 +1,7 @@
 - 
-  demando: 你的舊家是什麼樣子的？
+  demando: 你的舊家是什麼樣的？
   rektatraduko: 
-    - Kia: 什麼樣子的
+    - Kia: 什麼樣的
     - estis: 是
     - via: 你的
     - malnova: 舊
@@ -21,7 +21,7 @@
     - bonaj: 好的
     - '?'
 - 
-  demando: “安娜和馬克在馬克的那個小房間裡做什麼？”
+  demando: “安娜和馬克在馬克的那小房間裡做什麼？”
   rektatraduko:
     - Kion: 什麼
     - faris: 做
@@ -36,21 +36,21 @@
     - Marko: 馬克
     - '?'
 - 
-  demando: 你是否喜欢阅读关于爱情的书籍吗？
+  demando: 你是否喜歡閱讀關於愛情的書？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
-    - ŝatas: 喜欢
-    - legi: 阅读
-    - librojn: 书籍
-    - pri: 关于
-    - amo: 爱情
+    - ŝatas: 喜歡
+    - legi: 閱讀
+    - librojn: 書
+    - pri: 關於
+    - amo: 愛情
     - '?'
 - 
-  demando: 谁将和你去到你的家？
+  demando: 誰將和你去到你的家？
   rektatraduko: 
-    - Kiu: 谁
-    - iros: 将去
+    - Kiu: 誰
+    - iros: 將去
     - kun: 和
     - vi: 你
     - al: 到
@@ -58,9 +58,9 @@
     - hejmo: 家
     - '?'
 - 
-  demando: 你的女朋友的眼睛是什么样子的？
+  demando: 你的女性朋友的眼睛是什麼樣的？
   rektatraduko: 
-    - Kiaj: 什么样子
+    - Kiaj: 什麼樣的
     - estas: 是
     - la: 的
     - okuloj: 眼睛

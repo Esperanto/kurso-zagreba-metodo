@@ -1,77 +1,77 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years? 是谁曾经有你的那本书，而你在等候了超过两年 ？
+  demando: 誰有著那本書，它你等候了超過兩年？
   rektatraduko: 
-    - Kiu: 谁
-    - havis: 曾经有
-    - la: 那本
-    - libron: 书
+    - Kiu: 誰
+    - havis: 有
+    - la: 那
+    - libron: 書
     - ',' 
-    - kiun: 谁
+    - kiun: 那書
     - vi: 你
     - atendis: 等候了
-    - pli: 超过
-    - ol: 了
-    - du: 两
+    - pli: 更多
+    - ol: 比
+    - du: 兩
     - jarojn: 年
     - '?'
 - 
-  demando: 是否要我展示给你那张我最爱的相片？
+  demando: 你是不是要我展示給你那張我最珍愛的照片？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
     - volas: 要
     - ','
-    - ke: 
+    - ke: 即
     - mi: 我
     - montras: 展示
-    - al: 给
+    - al: 給
     - vi: 你
     - mian: 我的
     - plej: 最
-    - karan: 爱
+    - karan: 珍愛的
     - foton: 照片
     - '?'
 - 
-  demando: 你在 哪里买那些衣物？
+  demando: 你在哪裡買了那些衣物？
   rektatraduko: 
-    - Kie: 哪里
+    - Kie: 哪裡
     - vi: 你
-    - aĉetis: 买
-    - tiun: 那
+    - aĉetis: 買了
+    - tiujn: 那些
     - vestaĵon: 衣物
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day? 你将会到哪里去，如果周日将是一个晴朗天？
+  demando: 周日你將去哪裡，如果是個晴朗天？
   rektatraduko: 
-    - Kien: 哪里
+    - Kien: 哪裡
     - vi: 你
-    - iros: 将去
+    - iros: 將去
     - dimanĉe: 周日
     - ',' 
     - se: 如果
-    - estos: 将是
+    - estos: 將是
     - suna: 晴朗
     - tago: 天
     - '?'
 - 
-  demando: 你的弟弟/哥哥是否已经离开了？
+  demando: 你的弟弟是否已經出發了？
   rektatraduko: 
     - Ĉu: 是否
     - via: 你的
-    - frato: 弟弟/哥哥
-    - jam: 已经
-    - ekiris: 离开
+    - frato: 弟弟，哥哥
+    - jam: 已經
+    - ekiris: 出發
     - '?'
 - 
-  demando: 在哪里是你带来的水 ？
+  demando: 你帶來的水在哪里？
   rektatraduko: 
     - Kie: 哪里
     - estas: 是
-    - la: 
+    - la: 那
     - akvo: 水
     - ',' 
-    - kiun: 
+    - kiun: 它
     - vi: 你
     - mem: 自己
-    - kunportis: have brought
+    - kunportis: 帶來
     - '?'

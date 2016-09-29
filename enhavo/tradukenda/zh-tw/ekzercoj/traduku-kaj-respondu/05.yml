@@ -1,65 +1,65 @@
 -
-  demando: 你是否可以从容的学习，而有人在高兴地唱歌？
+  demando: 你是否可以靜心地學習，當有人在高興地唱歌？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
     - povas: 可以
-    - trankvile: 从容
-    - lerni: 学习
+    - trankvile: 靜心地
+    - lerni: 學習
     - ','
-    - dum: 而
+    - dum: 當，此間
     - iu: 有人
-    - ĝoje: 高兴地
+    - ĝoje: 高興地
     - kantas: 唱歌
     - '?'
 -
-  demando: 谁知道何时及何地我们将可以再彼此相见？
+  demando: 誰知道，何時及何地我們將再彼此相見？
   rektatraduko: 
-    - Kiu: 谁
+    - Kiu: 誰
     - scias: 知道
     - ','
-    - kiam: 何时
+    - kiam: 何時
     - kaj: 及
     - kie: 何地
-    - ni: 我们
-    - revidos: 将再见
+    - ni: 我們
+    - revidos: 將再見
     - nin: 彼此
     - '?'
 -
-  demando: 现在是几点钟了？
+  demando: 現在是幾點鐘了？
   rektatraduko: 
-    - Kioma: 几点
-    - horo: 钟
+    - Kioma: 多少的
+    - horo: 小時
     - estas: 是
-    - nun: 现在
+    - nun: 現在
     - '?'
 -
-  demando: 是否有人曾帮助你打开那扇在旧房子的门 ？
+  demando: 是否有人幫了你打開那舊房子的門？
   rektatraduko: 
     - Ĉu: 是否
-    - iu: someone 
-    - helpis: 曾帮助
-    - al: 
+    - iu: 有人 
+    - helpis: 幫了
+    - al: 到，向
     - vi: 你
-    - malfermi: 打开
+    - malfermi: 打開
     - la: 那
-    - pordon: 门
+    - pordon: 門
     - de: 的
     - la: 那
-    - malnova: 旧
+    - malnova: 舊
     - domo: 房子
     - '?'
 -
-  demando: 为何你没有更多时间听我说？
+  demando: 為何你没有時間聽我說更久些？
   rektatraduko: 
-    - Kial: 为何
+    - Kial: 為何
     - vi: 你
     - ne: 没
     - havas: 有
-    - tempon: 时间
-    - aŭskulti: 听
-    - al: 
+    - tempon: 時間
+    - aŭskulti: 聽
+    - al: 到，向
     - mi: 我
-    - pli: 更多
-    - longe: 
+    - pli: 更
+    - longe: 久
     - '?'

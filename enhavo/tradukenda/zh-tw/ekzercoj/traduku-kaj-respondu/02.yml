@@ -1,39 +1,39 @@
 - 
-  demando: 你的旧房子是像什么样子？
+  demando: 你的舊家是什麼樣子的？
   rektatraduko: 
-    - Kia: 什么样子
+    - Kia: 什麼樣子的
     - estis: 是
     - via: 你的
-    - malnova: 旧
-    - hejmo: 房子
+    - malnova: 舊
+    - hejmo: 家
     - '?'
 - 
-  demando: 你曾经阅读什么书，它们是否是好书？
+  demando: 你讀了哪些書，它們是否是好的？
   rektatraduko: 
-    - Kiujn: 什么
-    - librojn: 书
+    - Kiujn: 哪些
+    - librojn: 書
     - vi: 你
-    - legis: 阅读
+    - legis: 讀了
     - kaj: 和
     - ĉu: 是否
-    - ili: 它们
+    - ili: 它們
     - estas: 是
-    - bonaj: 好
+    - bonaj: 好的
     - '?'
 - 
-  demando: “安娜和马克在马克的那间小房间干什么？”
+  demando: “安娜和馬克在馬克的那個小房間裡做什麼？”
   rektatraduko:
-    - Kion: 什么
-    - faris: 干
+    - Kion: 什麼
+    - faris: 做
     - Anna: 安娜
     - kaj: 和
-    - Marko: 马克
-    - en: 在
-    - la: 那间
+    - Marko: 馬克
+    - en: 在..裡
+    - la: 那
     - malgranda: 小
-    - ĉambro: 房间
+    - ĉambro: 房間
     - de: 的
-    - Marko: 马克
+    - Marko: 馬克
     - '?'
 - 
   demando: 你是否喜欢阅读关于爱情的书籍吗？

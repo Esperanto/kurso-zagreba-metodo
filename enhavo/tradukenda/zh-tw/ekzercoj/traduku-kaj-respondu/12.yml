@@ -1,68 +1,68 @@
 - 
-  demando: 我们是否可以再见面，无论何时，无论何处？
+  demando: 我们是否彼此將再見，無論何時，無論何地？
   rektatraduko: 
     - Ĉu: 是否
-    - ni: 我们
-    - revidos: 将见面
-    - nin: 我们，彼此
+    - ni: 我們
+    - revidos: 將再見
+    - nin: 我們，彼此
     - ',' 
-    - kie: 哪里
-    - ajn: 从
+    - kie: 哪裡
+    - ajn: 任何
     - kaj: 和
-    - kiam: 何时
-    - ajn: 从
+    - kiam: 何時
+    - ajn: 任何
     - '?'
 - 
-  demando: 我何时可以取回另一半的书籍？
+  demando: 我何時可以取回書的另一半？
   rektatraduko: 
-    - Kiam: 何时
+    - Kiam: 何時
     - mi: 我
-    - rericevos: 将接受
+    - rericevos: 將收回
     - la: 这，那
     - alian: 其他
     - duonon: 半
     - de: 的
     - la: 这，那
-    - libroj: 书
+    - libroj: 書
     - '?'
 - 
-  demando: 你是否将需要超过四个月的时间完成那些工作？
+  demando: 你是否將需要超过四個月的間去完成那些工作？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
-    - bezonos: 将需要
+    - bezonos: 將需要
     - pli: 超过
     - ol: 比
     - kvaronan: 四分之一
     - jaron: 年
-    - por: 给
+    - por: 為了
     - tiuj: 那些
     - laboroj: 工作
     - '?'
 - 
-  demando: 为什么我们等待越久，越是寒冷？
+  demando: 為什麼越是寒冷，我們等待越久？
   rektatraduko: 
-    - Kial: 为什么
+    - Kial: 為什麼
     - estas: 是
-    - des: 也不
+    - des: 越是
     - pli: 多
     - malvarma: 冷
     - ',' 
-    - ju: 也不
+    - ju: 越是
     - pli: 多
-    - longe: 常
-    - ni: 我们
+    - longe: 久
+    - ni: 我們
     - atendas: 等候
     - '?'
 - 
-  demando: 和任何男人在一起是否会快乐？
+  demando: 你是否和任何男人在一起都滿意？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
-    - estus: 可能
-    - kontenta: 快乐
+    - estus: 或許是
+    - kontenta: 滿意
     - kun: 和
-    - iu: 任何
-    - ajn: 从
+    - iu: 某人
+    - ajn: 任何
     - viro: 男人
     - '?'

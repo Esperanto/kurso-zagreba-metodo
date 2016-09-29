@@ -9,7 +9,7 @@
     - gepatrojn: 父母親
     - '?'
 - 
-  demando: 在課後，你是否要到城裡？
+  demando: 如果至少你在課後，和我去市中心！
   rektatraduko: 
     - Se: 假如
     - almenaŭ: 最少
@@ -17,17 +17,17 @@
     - post: 後
     - la: 那
     - lernado: 學習
-    - irus: 會去
+    - irus: 或許會去
     - kun: 和
     - mi: 我
-    - en: 在
+    - en: 在內
     - la: 那
     - urbocentron: 市中心
     - '!'
 - 
-  demando: 你希望到哪里去旅行，假如你有足够的钱和时间
+  demando: 你希望到哪裡去旅行，假如你有足够的錢和時間？
   rektatraduko: 
-    - Kien: 哪里
+    - Kien: 哪裡
     - vi: 你
     - dezirus: 希望
     - vojaĝi: 旅行
@@ -36,30 +36,30 @@
     - vi: 你
     - havus: 有
     - sufiĉe: 足够
-    - da: 
-    - mono: 钱
+    - da: 的
+    - mono: 錢
     - kaj: 和
-    - tempo: 时间
+    - tempo: 時間
     - '?'
 - 
-  demando: 你是否计划开那部车到巴黎去旅行，还是更好搭那班火车？
+  demando: 你是否計畫搭汽車到巴黎去，是否搭火車不是好像更好嗎？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
-    - plenas: 计划
-    - venturi: 去
+    - planas: 計畫
+    - venturi: 乘行
     - al: 往
     - Parizo: 巴黎
-    - per: 通过，使用
-    - aŭto: 气车
+    - per: 使用
+    - aŭto: 汽車
     - ĉu: 是否
     - ne: 不
     - ŝajnas：似乎，好像
     - multe: 多
     - pli: 更
     - bone: 好
-    - per: 通过，使用
-    - vagonaro: 火车
+    - per: 使用
+    - vagonaro: 火車
     - '?'
 - 
   demando: 为什么不同的人解释同样的看法，却是不同方式？

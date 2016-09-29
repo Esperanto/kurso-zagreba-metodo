@@ -1,51 +1,51 @@
 - 
-  demando: 是友情还是亲情使你更快乐？
+  demando: 是否友情比愛情更使你快樂？
   rektatraduko: 
     - Ĉu: 是否
     - amikeco: 友情
-    - pli: 多于
-    - feliĉigas: 使高兴
+    - pli: 更
+    - feliĉigas: 使快樂
     - vin: 你
     - ol: 比
-    - la: 那个，这个
-    - amo: 爱
+    - la: 那
+    - amo: 愛情
     - '?'
 - 
-  demando: 多经常你写信给你在意大利的女朋友 ？
+  demando: 你多常寫信給你在義大利的女性朋友們？
   rektatraduko: 
-    - Kiel: 怎么样
-    - ofte: 经常
+    - Kiel: 如何
+    - ofte: 常常
     - vi: 你
-    - skribas: 写
+    - skribas: 寫
     - leterojn: 信
-    - al: 给，到
+    - al: 給，到
     - viaj: 你的
-    - amikinoj: 朋友们
+    - amikinoj: 女性朋友們
     - en: 在
-    - Italio: 意大利
+    - Italio: 義大利
     - '?'
 - 
-  demando: 你和你的老师之间的关系有改善吗？
+  demando: 是否你和你的老師之間的關係有變化了？
   rektatraduko: 
     - Ĉu: 是否
-    - la: 那个，这个
-    - rilato: 关系
-    - inter: 之间
+    - la: 那
+    - rilato: 關係
+    - inter: 之間
     - vi: 你
     - kaj: 和
     - via: 你的
-    - instruisto: 老师
-    - ŝanĝiĝis: 改善，改变
+    - instruisto: 老師
+    - ŝanĝiĝis: 變化
     - '?'
 - 
-  demando: 你现在是否已经足够理解世界语了吧？
+  demando: 你現在是否已經理解世界語足夠好了呢？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
-    - nun: 现在
-    - jam: 已经
+    - nun: 現在
+    - jam: 已經
     - scias: 知道
-    - Esperanton: 世界语
+    - Esperanton: 世界語
     - sufiĉe: 足够
     - bone: 好
     - '?'

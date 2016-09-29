@@ -1,18 +1,18 @@
 - 
-  demando: 是谁在午餐后将去清理厨房
+  demando: 午餐後誰將清理廚房
   rektatraduko: 
-    - Kiu: 谁
-    - purigos: 将去
-    - la: 
-    - kuirejon: 厨房
-    - post: 后
-    - la: 
+    - Kiu: 誰
+    - purigos: 將清理
+    - la: 那
+    - kuirejon: 廚房
+    - post: 後
+    - la: 那
     - tagmanĝo: 午餐
     - '?'
 - 
-  demando: “你想喝什么，茶，一些咖啡，或者是你什么都不要？”
+  demando: 你想喝什麼：茶，一些咖啡，或你什麼都不要？
   rektatraduko: 
-    - Kion: 什么
+    - Kion: 什麼
     - vi: 你
     - volas: 要
     - trinki: 喝
@@ -20,66 +20,66 @@
     - teon: 茶
     - ',' 
     - iom: 一些
-    - da: 
+    - da: 的
     - kafo: 咖啡
-    - aŭ: 还是
-    - ĉu: 或者是
+    - aŭ: 或
+    - ĉu: 是否
     - vi: 你
     - volas: 要
-    - nenion: 没有东西
+    - nenion: 沒有東西
     - '?'
 - 
-  demando: 为什么你那样突然要决定重新装修你的小房间 ？
+  demando: 為什麼你那樣突然決定重新裝修你的小房間？
   rektatraduko: 
-    - Kial: 为什么
+    - Kial: 為什麼
     - vi: 你
-    - tiel: 那样
+    - tiel: 那樣
     - subite: 突然
-    - decidis: 决定
-    - renovigi: 重新装修
+    - decidis: 決定
+    - renovigi: 重新裝修
     - vian: 你的
-    - ĉambreton: 小房间
+    - ĉambreton: 小房間
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses? 你是把那些干净的葡萄酒杯给了谁？
+  demando: 你把喝酒用的那些乾淨的玻璃杯給了誰？
   rektatraduko: 
-    - Al: 
-    - kiu: 谁
+    - Al: 向
+    - kiu: 誰
     - vi: 你
-    - donis: 给了
-    - la: 那些
-    - purajn: 干净
-    - glasojn: 杯子
-    - por: 
-    - la: 
-    - vino: 葡萄
+    - donis: 給了
+    - la: 那
+    - purajn: 乾淨的
+    - glasojn: 玻璃杯
+    - por: 用來
+    - la: 那
+    - vino: 酒
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago? 过去的两周，你的运动俱乐部和谁对上了 ？
+  demando: 兩周前，你的運動俱樂部對上誰比賽了？
   rektatraduko: 
-    - Kontraŭ: 对上
-    - kiu: 谁
-    - ludis: 对上
+    - Kontraŭ: 對上
+    - kiu: 誰
+    - ludis: 比賽，遊玩
     - via: 你的
-    - sportklubo: 运动俱乐部
-    - antaŭ: 之前，过去的
-    - du: 两
+    - sportklubo: 運動俱樂部
+    - antaŭ: 之前
+    - du: 二，兩
     - semajnoj: 周
     - '?'
 - 
-  demando:  你是否经常看见那个住在你的公寓里上面的那个警察？
+  demando:  你是否常看見那住在你的公寓上面的警察？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
-    - ofte: 经常
-    - vidas: 看见
-    - la: 那个
+    - ofte: 常常
+    - vidas: 看見
+    - la: 那
     - policiston: 警察
     - ',' 
-    - kiu: 谁
+    - kiu: 誰，其人
     - loĝas: 住
-    - en: 
-    - la: 在
+    - en: 在內
+    - la: 那
     - loĝejo: 公寓
     - super: 上面
     - vi: 你

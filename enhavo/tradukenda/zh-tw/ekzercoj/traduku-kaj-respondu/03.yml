@@ -1,17 +1,17 @@
 -
-  demando: 在大酒店的服务员是否懂得多种语文？
+  demando: 在大旅館的服務員是否懂得多種語言？
   rektatraduko:  
     - Ĉu: 是否
-    - kelneroj: 服务员
+    - kelneroj: 服務員
     - en: 在
-    - grandaj: 大
-    - hoteloj: 酒店
+    - grandaj: 大的
+    - hoteloj: 旅館
     - komprenas: 懂得
-    - multajn: 多
-    - lingvojn: 语文
+    - multajn: 多的
+    - lingvojn: 語言
     - '?'
 -
-  demando: 你是否知道安娜喜欢那首新歌是关于一个穷汉子和一个美丽的姑娘？
+  demando: 你是否知道，安娜是否喜歡那關於窮小子和美女的新歌？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
@@ -19,59 +19,59 @@
     - ','
     - ĉu: 是否
     - Anna: 安娜
-    - ŝatas: 喜欢
+    - ŝatas: 喜歡
     - la: 那
     - novan: 新
     - kanton: 歌
-    - pri: 关于
-    - malriĉulo: 一个穷汉子
+    - pri: 關於
+    - malriĉulo: 窮小子
     - kaj: 和
-    - belulino: 一个美丽的姑娘
+    - belulino: 美女
     - '?'
 -
-  demando:  你在哪里曾看见那个老人和那个年轻人。他们抬举一张大桌子？
+  demando:  在哪裡你看見了那老人和那年輕人，他們抬著大桌子？
   rektatraduko: 
-    - Kie: 哪里
+    - Kie: 哪裡
     - vi: 你
-    - vidis: 曾看见
+    - vidis: 看見了
     - la: 那
     - maljunulon: 老人
     - kaj: 和
     - la: 那
-    - junulon: 年轻人
+    - junulon: 年輕人
     - ','
-    - kiuj: 他们
-    - portis: 抬举
-    - grandan: 大
+    - kiuj: 他們
+    - portis: 抬
+    - grandan: 大的
     - tablon: 桌子
     - '?'
 -
-  demando: 什么事情发生了，那你再次没有和兄弟姐妹到我们这里来？
+  demando: 怎麼發生了，也就是你再次來到我們這裡，沒帶兄弟姐妹？
   rektatraduko: 
-    - Kiel: 什么事
-    - okazis: 发生
+    - Kiel: 怎麼
+    - okazis: 發生了
     - ','
-    - ke: 那
+    - ke: 也就是
     - vi: 你
     - denove: 再次
-    - venis: 来
+    - venis: 來了
     - al: 到
-    - ni: 我们
+    - ni: 我們
     - sen: 没有
     - gefratoj:兄弟姐妹
     - '?'
 -
-  demando: 你是否可以通过那本新课本适度快速学习世界语？
+  demando: 你是否可以用那新的課本足夠快地學習世界語？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
     - povas: 可以
-    - per: 通过
-    - la: 那本
-    - nova: 新
-    - lernolibro: 课本
-    - sufiĉe: 适度
-    - rapide: 快速
-    - lerni: 学习
-    - Esperanton: 世界语
+    - per: 用，以
+    - la: 那
+    - nova: 新的
+    - lernolibro: 課本
+    - sufiĉe: 足夠
+    - rapide: 快速地
+    - lerni: 學習
+    - Esperanton: 世界語
     - '?'

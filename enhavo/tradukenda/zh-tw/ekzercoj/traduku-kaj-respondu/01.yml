@@ -33,13 +33,13 @@
     - hotelo: 旅館
     - '?'
 - 
-  demando: 是什麼東西在我們的房間的工作桌上？
+  demando: 是什麼東西在我們的房間的工作台上？
   rektatraduko:
     - Kio: 什麼東西
     - estas: 是
     - sur: 上
     - la: 這，那
-    - labortablo: 工作桌
+    - labortablo: 工作台
     - en: 内
     - nia: 我們的
     - ĉambro: 房間

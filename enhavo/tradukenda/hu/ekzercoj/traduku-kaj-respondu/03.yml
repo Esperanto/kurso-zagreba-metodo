@@ -12,6 +12,7 @@
     - '?'
 -
   demando: Te tudod vajon Anna szereti-e az új dalt a szegény emberről és a szépségről?
+  rektatraduko:  
     - Ĉu: Vajon
     - vi: te
     - scias: tud
@@ -29,6 +30,7 @@
     - '?'
 -
   demando: Hol láttad az öregembert és a fiatalembert, akik egy nagy asztalt vittek?
+  rektatraduko:  
     - Kie: Hol
     - vi: te
     - vidis: látta
@@ -45,6 +47,7 @@
     - '?'
 -
   demando: Hogy történt, hogy megint testvérek nélkül jöttél hozzánk?
+  rektatraduko:  
     - Kiel: Hogyan
     - okazis: történt
     - ','

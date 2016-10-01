@@ -16,13 +16,13 @@
   demando: Wie weet, wanneer en waar we ons zullen weerzien?
   rektatraduko:
     - Kiu: Wie
-    - scias: weeet
+    - scias: weet
     - ','
     - kiam: wanneer
     - kaj: en
     - kie: waar
     - ni: we
-    - revidos: zullen
+    - revidos: zullen weerzien
     - nin: ons
     - '?'
 -
@@ -34,7 +34,7 @@
     - nun: nu
     - '?'
 -
-  demando: Heeft iemand je geholpen, de deur van het  des alten Hauses zu öffnen?
+  demando: Heeft iemand je geholpen de deur van het oude huis te openen?
   rektatraduko:
     - Ĉu: Of
     - iu: iemand
@@ -54,7 +54,7 @@
   rektatraduko:
     - Kial: Waarom
     - vi: je
-    - ne: nicht
+    - ne: niet
     - havas: hebt
     - tempon: tijd
     - aŭskulti: luisteren

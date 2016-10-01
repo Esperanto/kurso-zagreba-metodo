@@ -1,10 +1,10 @@
 - 
-  demando: Kan je het geneesmiddel van mijn zus meebrengen?
+  demando: Kan je het geneesmiddel van mijn zus meedragen?
   rektatraduko:
     - Ĉu: Of
     - vi: je 
     - povas: kan
-    - kunporti: meebrengen 
+    - kunporti: meedragen 
     - la: het 
     - sanigilon: geneesmiddel 
     - de: van 
@@ -30,7 +30,7 @@
     - ŝlosilon: sleutel 
     - '?'
 - 
-  demando: Heb je in Venetië ook met een gondel Gondel gevaren?
+  demando: Heb je in Venetië ook met een gondel gevaren?
   rektatraduko:
     - Ĉu: Of
     - vi: je 
@@ -50,5 +50,5 @@
     - ekdormi: inslapen 
     - ',' 
     - kiam: wanneer 
-    - silentiĝis: stil werd 
+    - silentiĝis: werd stil  
     - '?'

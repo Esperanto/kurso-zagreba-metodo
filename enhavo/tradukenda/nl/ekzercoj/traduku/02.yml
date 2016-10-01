@@ -4,11 +4,15 @@
 - enhavo: inhoud
 - kunsido: vergadering
 - malbona: slecht
-- kunveno: bijeenkomst
+- kunveno: 
+  - bijeenkomst
+  - samenkomst
 - malfacila: moeilijk
 - maljuna: oud
 - gepatroj: ouders
-- alveni: aankomen
+- alveni: 
+  - aankomen
+  - arriveren
 - bonvena: welkom
 - gefratoj: broers en zussen
 - trinkmono: drinkgeld

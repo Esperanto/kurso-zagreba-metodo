@@ -42,7 +42,7 @@
     - tempo: 時間
     - '?'
 - 
-  demando: 你是否計畫搭汽車到巴黎去，是否搭火車不是好像更好嗎？
+  demando: 你是否計畫開車到巴黎去，搭火車不是好像更好嗎？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
@@ -70,5 +70,5 @@
     - klarigas: 解釋
     - samajn: 同樣
     - ideojn: 構想
-    - diversmaniere: 各種方式
+    - diversmaniere: 以各種方式
     - '?'

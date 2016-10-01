@@ -47,24 +47,24 @@
     - amo: liefde
     - '?'
 - 
-  demando: Wer wird mit dir zu deinem Heim gehen?
+  demando: Wie zak met u naar uw thuis gaan?
   rektatraduko:
-    - Kiu: Wer
-    - iros: wird gehen
-    - kun: mit
-    - vi: Dir
-    - al: zu 
-    - via: deinem
-    - hejmo: Heim
+    - Kiu: Wie
+    - iros: zal gaan
+    - kun: met
+    - vi: u
+    - al: naar 
+    - via: uw
+    - hejmo: thuis
     - '?'
 - 
-  demando: Wie sind die Augen deiner Freundin?
+  demando: Hoe(danig) zijn de ogen van uw vriendin?
   rektatraduko:
-    - Kiaj: Welcher Art
-    - estas: sind
-    - la: die
-    - okuloj: Augen
-    - de: von
-    - via: Deiner
-    - amikino: Freundin
+    - Kiaj: Hoedanig
+    - estas: zijn
+    - la: de
+    - okuloj: ogen
+    - de: van
+    - via: uw
+    - amikino: vriendin
     - '?'

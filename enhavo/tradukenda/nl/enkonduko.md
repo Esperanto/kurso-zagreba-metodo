@@ -1,7 +1,7 @@
 - Gebruikt de **belangrijkste 500 woorden**
 - **zonder inloggen**: Eenvoudig op *Start* klikken
 - **geoptimaliseerd** voor Smartphones
-- niet alleen gratis, maar ook **[vrij](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- niet alleen gratis, maar ook **[vrij bruikbaar in andere projecten](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
 De cursus bestaat uit **12 lessen**, met in elke les
 

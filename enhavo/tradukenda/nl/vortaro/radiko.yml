@@ -7,12 +7,17 @@ akv: water
 ali: ander
 alt: hoog
 am: beminnen
-amas: menigte
+amas: 
+- menigte
+- hoop
+- massa
 amik: vriend
 arb: boom
 aspekt: uitzicht
 atend: wachten
-atent: opletten (aandachtig zijn)
+atent: 
+- opletten 
+- aandacht
 aĉet: kopen
 aŭd: horen
 aŭt: auto
@@ -36,7 +41,9 @@ daŭr: duren
 decid: beslissen
 demand: vragen
 dev: moeten
-dezir: wensen
+dezir: 
+- wensen
+- verlangen
 diabl: duivel
 dik: dik
 dimanĉ: zondag
@@ -77,7 +84,10 @@ fort: sterk
 fot: foto
 frat: broer
 fru: vroeg
-fuŝ: prutsen (knoeien)
+fuŝ: 
+- prutsen 
+- knoeien
+- sukkelen
 gondol: gondel
 graf: graaf
 grand: groot
@@ -94,7 +104,10 @@ hotel: hotel
 ide: idee
 industri: industrie
 instru: onderwijzen
-interes: interesse
+interes: 
+- interesse
+- belangstelling
+- interesseren
 invit: uitnodigen
 ir: gaan
 itali: Italië
@@ -121,13 +134,17 @@ kelk:
 kelner: ober
 klar: klaar
 klub: club
-knab: jongen
+knab: 
+- jongen
+- knaap
 koler:
 - boos
 - kwaad zijn
 kolor: kleur
 komenc: beginnen
-kompren: verstaan
+kompren: 
+- verstaan
+- begrijpen
 kon: kennen
 kontent: tevreden
 kontrol: nazien
@@ -136,8 +153,13 @@ korp: lichaam
 kost: kosten
 kri: schreeuwen
 kuir: koken
-kuk: koek
-kur: lopen
+kuk: 
+- koek
+- cake
+kur: 
+- lopen
+- rennen
+- hardlopen
 labor: 
 - werken
 - arbeiden
@@ -151,7 +173,7 @@ lecion: les
 leg: lezen
 lern: leren
 leter: brief
-liber: vrrij
+liber: vrij
 libr: boek
 lok: plaats
 long: lang
@@ -164,7 +186,7 @@ mar: zee
 maten: morgen (begin van dag)
 memor: zich herinneren
 met:
-- setten
+- zetten
 - plaatsen
 - leggen 
 mez: midden
@@ -175,7 +197,9 @@ moment: moment (ogenblik)
 mon: geld
 mont: berg
 montr: tonen
-mort: sterven
+mort: 
+- sterven
+- dood
 mov: bewegen
 mult: veel
 muzik: muziek
@@ -234,6 +258,7 @@ pren: nemen
 pret: 
 - gereed
 - bereid
+- klaar
 prezent: voorstellen
 problem: probleem
 proksim: dicht(bij)
@@ -243,17 +268,25 @@ prov: proberen
 rajt:
 - het recht hebben
 - mogen
-rapid: snel
+rapid: 
+- snel
+- rap
 raport: 
-- verlag geven
+- verlaggeven
 - rapporteren
-real: werkelijk
+real: 
+- werkelijk
+- reëel
 rekt: 
 - rechtstreeks
 - direct
 renkont: ontmoeten
-respekt: achten
-respond: (be)antwoorden
+respekt: 
+- achten
+- respecteren
+respond: 
+- antwoorden
+- beantwoorden
 rest: blijven
 ricev: 
 - ontvangen
@@ -286,7 +319,9 @@ simil:
 sinjor: 
 - heer
 - mijnheer
-situaci: toestand
+situaci: 
+- toestand
+- situatie
 skrib: schrijven
 sol: alleen
 son: klank
@@ -294,7 +329,11 @@ sovaĝ: wild
 sport: sport
 star: staan
 strat: straat
-subit: plots
+subit: 
+- plots
+- eensklaps
+- ineens
+- plotseling
 sufiĉ: 
 - volstaan
 - genoeg
@@ -326,7 +365,10 @@ varm: warm
 ven: komen
 vend: verkopen
 Veneci: Venetië
-ver: waar
+ver: 
+- waar
+- echt
+- waarlijk
 vesper: avond
 vest: kleden
 vetur: rijden (auto)
@@ -355,9 +397,15 @@ zorg: zorgen
 - blij
 - vrolijk
 ĝust: juist
-ĵet: werpen
-ŝajn: schijnen
-ŝanĝ: veranderen
+ĵet: 
+- werpen
+- gooien
+ŝajn: 
+- schijnen
+- lijken
+ŝanĝ: 
+- veranderen
+- wijzigen
 ŝat:
 - graag hebben
 - lusten

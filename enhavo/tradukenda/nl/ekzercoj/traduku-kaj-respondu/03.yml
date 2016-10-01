@@ -11,10 +11,10 @@
     - lingvojn: talen
     - '?'
 -
-  demando: Weet je, of Anna houdt van het nieuwe lied over een arme en een schone?
+  demando: Weet jij, of Anna houdt van het nieuwe lied over een arme en een schone?
   rektatraduko:
     - Ĉu: Of
-    - vi: je
+    - vi: jij
     - scias: weet
     - ','
     - ĉu: of
@@ -29,16 +29,16 @@
     - belulino: een schone
     - '?'
 -
-  demando: Waar zag je de oude en de jonge, die een grote tafel droegen?
+  demando: Waar zag je de oude man en de jonge man, die een grote tafel droegen?
   rektatraduko:
     - Kie: Waar
     - vi: je
     - vidis: zag
     - la: de
-    - maljunulon: oude
+    - maljunulon: oude man
     - kaj: en
     - la: de
-    - junulon: jonge
+    - junulon: jonge man
     - ','
     - kiuj: die
     - portis: droegen
@@ -46,7 +46,7 @@
     - tablon: tafel
     - '?'
 -
-  demando: Hoe gebeurde het, dat je opnieuw kwam naar ons zonder broers en zussen?
+  demando: Hoe gebeurde het, dat je opnieuw naar ons kwam zonder broers en zussen?
   rektatraduko:
     - Kiel: Hoe
     - okazis: gebeurde
@@ -69,7 +69,7 @@
     - per: met
     - la: het
     - nova: nieuwe
-    - lernolibro: Leerboek
+    - lernolibro: leerboek
     - sufiĉe: genoeg
     - rapide: snel
     - lerni: leren

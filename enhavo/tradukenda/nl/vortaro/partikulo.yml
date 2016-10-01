@@ -1,8 +1,18 @@
 ajn: dan ook
-des: (hoe …) hoe
-jen: dit is
-ju: hoe (… hoe) 
+des: 
+  - (hoe …) des te
+  - (hoe _) hoe
+jen: 
+  - dit is
+  - ziehier
+ju: 
+  - hoe (… hoe)
+  - des te (_ hoe)
 mem: zelf 
-ne: neen, niet 
-ĉi: dichterbij 
+ne: 
+  - neen
+  - niet 
+ĉi: 
+  - dichterbij
+  - naasterbij
 ĉu: of; leidt een gewone vragende zin in. 

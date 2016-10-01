@@ -1,7 +1,9 @@
 Esperanto:
 - Esperanto
-- De hopende
-akcepteblan: aanvaardbaar
+- De Hopende
+akcepteblan: 
+- aanvaardbaar
+- aanvaardbare
 alilandaj: buitenlandse
 alporti: aanbrengen
 alportis: bracht aan
@@ -18,10 +20,14 @@ arboplena: vol bomen
 aĉetumos: zullen inkopen doen
 aĉodora: stinkend
 aŭdiĝis: werd gehoord
-bedaŭrinde: spijtig (betreurenswaardig)
+bedaŭrinde: 
+- spijtig
+- betreurenswaardig
 belaĵoj: schoonheden
 beleta: knap
-bestetoj: diertjes
+bestetoj:
+- diertjes
+- beestjes
 bonega: uitstekend
 bonvolu: gelieve
 bonvolus: zou zo goed willen zijn
@@ -39,7 +45,9 @@ dikiĝi: dik worden
 doloriga: pijnlijke
 dolorige: pijnlijk
 domegon: villa
-dumnokte: gedurende de nacht
+dumnokte: 
+- gedurende de nacht
+- 's nachts
 dumtage: overdag
 ekkriis: begon te schreeuwen
 ekmire: in verwondering
@@ -59,24 +67,28 @@ eniru: ga binnen
 facilmovaj: bewegelijk
 faligi: doen vallen
 faligis: deed vallen
-familianoj: gezinsgenoten
+familianoj: gezinsleden
 fermita: gesloten
 fine: eindelijk
 foresti: weg zijn
 foriros: zal weg gaan
-fratino: zus(ter)
+fratino: 
+- zus
+- zuster
 fuŝparolis: brabbelde
 geamikoj: vrienden en vriendinnen
 gefratoj: broers en zussen
 gelernantojn: leerlingen (m/v)
-gepatroj: oudres
+gepatroj: ouders
 gondolisto: gondelier
 gondolistoj: gondeliers
 grafino: gravin
 grafinon: gravin
 grandula: van een grote persoon
 gravuloj: belangrijke personen
-haltigis: stopte, hield halt
+haltigis: 
+- stopte 
+- hield halt
 havigi: bezorgen
 havindan: bezittenswaardig
 homformo: mensenvorm
@@ -84,8 +96,8 @@ hommulton: menigte mensen
 ideoriĉan: vol ideeën
 industriisto: industrieel
 instruistino: lerares 
-instruiston: keraar (accusatief - lijdend voorwerp)
-intervidiĝas: elkaar zien
+instruiston: leraar (accusatief - lijdend voorwerp)
+intervidiĝas: zien elkaar
 iron: gang (het gaan)
 junulino: jonge vrouw
 junulinoj: jonge vrouwen
@@ -122,18 +134,14 @@ malbonaj: slechte
 malbonajn: slechte
 malbonan: slecht
 malbono: (het) kwade
-malfacilan:
-- moeiliijk
-- ingewikkeld
-malfacile:
-- moeilijk
-- ingewikkeld
+malfacilan: moeilijk
+malfacile: moeilijk
 malfeliĉo: ongeluk
 malforta: zwak
 malforte: zwak
 malfruas: het is laat
 malfrue: laat
-malfrui: te laat zijn
+malfrui: (te) laat zijn
 malgranda: klein
 malhelpis: hinderde
 malinterese: oninteressant
@@ -153,15 +161,21 @@ malproksime: ver (in de verte)
 malsaniĝis: werd ziek
 malsaĝa: dwaas
 malsekajn: natte
-malsukcesa: mislukt
-maltrankvila: onrustig
+malsukcesa: mislukte
+maltrankvila: onrustige
 malvarman: koud (Accusatief)
 malĝoja: 
 - treurig
 - triestig
-malŝatas: heeft niet graag
-malŝatis: had niet graag
-manĝaĵo: spijs
+malŝatas: 
+- heeft niet graag
+- houdt niet van
+malŝatis: 
+- had niet graag
+- hield niet van
+manĝaĵo: 
+- spijs
+- eten
 manĝegi: vreten
 maristo: zeeman
 maristoj: zeelui
@@ -193,7 +207,9 @@ paperojn: papieren
 paperujon: papiermand
 pasigos: zal doorbrengen
 patrino: moeder
-perdigis: ontnam
+perdigis:
+- deed verliezen
+- ontnam
 plenigadis: vulde
 plenumis: vervulde
 plibeligis: verfraaide
@@ -203,7 +219,7 @@ promenejo: wandelweg
 promeno: wandeling
 rapidege: bliksemsnel
 realigi: realiseren
-redonu: geeef terug!
+redonu: geef terug
 rekapti: terugpakken
 repaciĝon: herbevrediging
 revenis: keerde(n) terug
@@ -219,7 +235,7 @@ samklubanoj: clubgenoten
 sekretajn: geheime
 sekreton: geheim
 senbrue: geluidloos
-seninterese: ongeïnteresseerd
+seninterese: niet interesserend
 senkolora: kleurloos
 sensukcese: zonder succes, vruchteloos
 sentimulo: onvervaarde persoon
@@ -232,7 +248,7 @@ sovaĝejo: wildernis
 sportisto: sporter
 subakvigis: zette onder water
 subakviĝis: 
-- ging onder
+- ging onder water
 - zonk
 subite: plots
 supren: 
@@ -241,7 +257,7 @@ supren:
 surhavas: 
 - draagt
 - heeft aan
-surlokan: ter plekke
+surlokan: plaatselijke
 teroristoj: terroristen
 tiuokaze: in dat geval
 travivaĵo: belevenis

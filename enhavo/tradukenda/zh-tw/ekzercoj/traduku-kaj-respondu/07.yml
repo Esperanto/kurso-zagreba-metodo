@@ -1,5 +1,5 @@
 - 
-  demando: 誰有著那本書，它你等候了超過兩年？
+  demando: 誰有著那本書，那書你等候了超過兩年？
   rektatraduko: 
     - Kiu: 誰
     - havis: 有
@@ -15,7 +15,7 @@
     - jarojn: 年
     - '?'
 - 
-  demando: 你是不是要我展示給你那張我最珍愛的照片？
+  demando: 你是否要我展示給你我最珍愛的照片？
   rektatraduko: 
     - Ĉu: 是否
     - vi: 你
@@ -63,7 +63,7 @@
     - ekiris: 出發
     - '?'
 - 
-  demando: 你帶來的水在哪裡？
+  demando: 你自己帶來的水在哪裡？
   rektatraduko: 
     - Kie: 哪裡
     - estas: 是

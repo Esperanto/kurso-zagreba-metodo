@@ -1,5 +1,5 @@
 - 
-  demando: Zullen we elkaar waar en wanneer dan ook weerzien?
+  demando: Zullen we elkaar weerzien, waar dan ook en wanneer dan ook?
   rektatraduko:
     - Ĉu: Of
     - ni: we 
@@ -26,14 +26,14 @@
     - libroj: boeken
     - '?'
 - 
-  demando: Zal je meer dan een kwartaal nodig hebben voor die werken?
+  demando: Zult ge meer dan een kwart jaar nodig hebben voor die werken?
   rektatraduko:
     - Ĉu: Of 
-    - vi: je 
-    - bezonos:zal nodig hebben
+    - vi: ge 
+    - bezonos: zal nodig hebben
     - pli: meer 
     - ol: dan 
-    - kvaronan: een vierde 
+    - kvaronan: een vierde (1/4)
     - jaron: jaar 
     - por: voor 
     - tiuj: die 
@@ -58,11 +58,11 @@
   demando: Zou je met eender welke man tevreden zijn?
   rektatraduko:
     - Ĉu: Of 
-    - vi: je 
-    - estus: zpudt zijn 
+    - vi: je
+    - estus: zou zijn 
     - kontenta: tevreden 
     - kun: met 
     - iu: een of andere 
-    - ajn: eender welke 
+    - ajn: dan ook 
     - viro: man 
     - '?'

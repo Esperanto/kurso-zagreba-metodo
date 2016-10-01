@@ -1,23 +1,41 @@
-almenaŭ: minstens
-ambaŭ: beide
-ankaŭ: ook
+almenaŭ: 
+  - minstens
+  - ten minste
+ambaŭ: 
+  - beide
+  - beiden
+ankaŭ: 
+  - ook
+  - eveneens
 ankoraŭ: nog
-baldaŭ: weldra
+baldaŭ: 
+  - weldra
+  - binnenkort
 do: dus
 eĉ: zelfs
 hieraŭ: gisteren
 hodiaŭ: vandaag
-jam: reeds
-jes: wel 
-kvazaŭ: alsof 
+jam: 
+  - reeds
+  - al
+jes: ja 
+kvazaŭ: 
+  - alsof
+  - als het ware
 morgaŭ: morgen
 nun: nu
-nur: selchts
+nur: 
+  - slechts
+  - enkel
 plej: meest (superlatief, overtreffende trap) 
 pli: meer (comparatief, vergelijkende trap) 
 plu: verder
 preskaŭ: bijna
 tamen: nochtans
 tre: zeer
-tro: te (teveel)
-tuj: onmiddellijk
+tro: 
+  - te
+  - teveel
+tuj: 
+  - onmiddellijk
+  - dadelijk

@@ -1,10 +1,10 @@
 -
   demando: Wanneer zal ik je weerzien?
   rektatraduko:
-    - Kiam: Wanner
+    - Kiam: Wanneer
     - mi: ik
-    - revidos: zal weerzein
-    - vin: je
+    - revidos: zal weerzien
+    - vin: jou
     - '?'
 -
   demando: Hoe lang leer je de Internationale Taal?
@@ -36,7 +36,7 @@
     - iros: zal gaan
     - post: na
     - la: het
-    - tagmanĝo: mittagmaal
+    - tagmanĝo: middagmaal
     - '?'
 -
   demando: Kan men de deur van de kamer sluiten, als het koud is?
@@ -56,14 +56,14 @@
     - malvarme: koud
     - '?'
 -
-  demando: Hoe lang ben je boos, indien men van je veel geld wegneemt?
+  demando: Hoe lang ben je boos, als men van je veel geld wegneemt?
   rektatraduko:
     - Kiel: Hoe
     - longe: lang
     - vi: je
     - koleras: bent boos
     - ','
-    - se: indien
+    - se: als (indien)
     - oni: men
     - forprenas: wegneemt
     - de: van

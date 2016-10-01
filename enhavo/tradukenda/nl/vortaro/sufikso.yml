@@ -2,11 +2,16 @@ ad:  duur (herhaling)
 an:
 - lid
 - aanhanger
+- inwoner
 ar:  verzameling
 aĉ:  uiterlijk afkerig
 aĵ:  concrete zaak
-ebl: mogelijkheid (-baar)
-ec:  abstract begrip, eigenschap (-heid)
+ebl: 
+- mogelijkheid 
+- -baar
+ec:  
+- abstract begrip, eigenschap
+- -heid
 eg:  Vergroting
 ej:
 - plaats
@@ -19,7 +24,9 @@ estr:
 - chef
 - baas
 et:  verkleining
-ig:  doen (maken)
+ig:  
+- doen
+- maken
 il:
 - werktuig
 - gereedschap
@@ -30,10 +37,10 @@ ind:
 - -waardig
 ist:
 - beroep
-- beschouwen
+- -er
 iĝ:  worden
 uj:
-- container
+- vat (container)
 - land
 - boom 
 ul:  persoon

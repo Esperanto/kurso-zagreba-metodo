@@ -10,7 +10,7 @@
     - tagmanĝo: middagmaal 
     - '?'
 - 
-  demando: "Wa wil je drinken: thTee, een beetje koffie, of wil je niets?"
+  demando: "Wat wil je drinken: thee, een beetje koffie, of wil je niets?"
   rektatraduko:
     - Kion: Wat 
     - vi: je 
@@ -55,12 +55,12 @@
     - vino: wijn 
     - '?'
 - 
-  demando: Tegen wie heeft je sportclub twee weken geleden gespeeld?
+  demando: Tegen wie heeft jouw sportclub twee weken geleden gespeeld?
   rektatraduko:
     - Kontraŭ: Tegen 
     - kiu: wie 
     - ludis: heeft gespeeld 
-    - via: je 
+    - via: jouw 
     - sportklubo: sportclub 
     - antaŭ: voor 
     - du: twee 

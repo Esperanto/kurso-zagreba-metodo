@@ -1,12 +1,12 @@
-- Vermittelt die **wichtigsten 500 Wörter**
-- **Ohne Anmeldung**: Einfach *Start* klicken
-- **mobil-optimiert** für Smartphones
-- nicht nur kostenlos, sondern auch **[frei](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Gebruikt de **belangrijkste 500 woorden**
+- **zonder inloggen**: Eenvoudig op *Start* klikken
+- **geoptimaliseerd** voor Smartphones
+- niet alleen gratis, maar ook **[vrij](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-Der Kurs besteht aus **12 Lektionen**, jede davon mit
+De cursus bestaat uit **12 Lessen**, met in elke les
 
-- einem Lesetext
-- einer Grammatik-Erklärung
-- und 3 Übungen.
+- een leestekst
+- commentaar over de grammatica
+- en 3 oefeningen.
 
-Danach kannst du das Wichtigste verstehen und Sätze bilden, um Dich grundlegend auszudrücken und zu verständigen. Probier es aus!
+Daarna kan je het belangrijkste verstaan en zinnen vormen om u elementair uit te drukken en verstaanbaar te maken. Test het uit!

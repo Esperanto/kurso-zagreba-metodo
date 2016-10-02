@@ -1,18 +1,25 @@
 - amikino: 
   - 朋友
   - 女性朋友
-- labortablo: 工作台
+- labortablo: 
+  - 工作台
+  - 工作桌
 - esperantistino: 
   - 世界語者
   - 女世界語者
 - instruisto: 
   - 老師
   - 教師
-- hotelĉambro: 旅館房間
+- hotelĉambro: 
+  - 旅館房間
+  - 飯店房間
+  - 酒店房間
 - enskribi: 
   - 註册
   - 題字
-- skribotablo: 寫字台
+- skribotablo: 
+  - 寫字台
+  - 寫字桌
 - lingvisto: 
   - 語文學者
   - 語言學家

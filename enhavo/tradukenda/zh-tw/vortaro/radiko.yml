@@ -6,13 +6,13 @@ ali: 另一個
 alt: 高
 am: 愛
 amas:
-- 眾
-- 人群
+  - 眾
+  - 人群
 amik: 朋友
 arb: 樹
 aspekt:
-- 外表
-- 顯得
+  - 外表
+  - 顯得
 atend: 等待
 atent: 注意
 aĉet: 買
@@ -24,8 +24,8 @@ bel: 美麗
 best: 動物
 bezon: 需要
 bien:
-- 地產
-- 土地
+  - 地產
+  - 土地
 bon: 好
 branĉ: 
   - 支部
@@ -41,16 +41,16 @@ dev: 必須
 dezir: 願望
 diabl: 妖魔
 dik:
-- 厚
-- 肥胖
+  - 厚
+  - 肥胖
 dimanĉ: 星期日
 dir: 說
 direkt: 方向
 doktor: 醫生
-dolar: 元 (钱)
+dolar: 元 (錢)
 dolor:
-- 痛
-- 受傷
+  - 痛
+  - 受傷
 dolĉ: 甜
 dom: 房子
 don: 給
@@ -66,14 +66,20 @@ fakt: 事實
 fal: 掉落
 famili: 家庭
 far: 做
-fart: 過活、康泰
-feliĉ: 幸福、快樂
+fart: 
+  - 過活
+  - 康泰
+feliĉ: 
+  - 幸福
+  - 快樂
 ferm: 關閉
 fin: 結束
-flank: 方面、側
+flank: 
+  - 方面
+  - 側
 foj:
-- 有時
-- 次
+  - 有時
+  - 次
 forges: 忘記
 form: 形式
 fort: 強壯
@@ -84,15 +90,17 @@ fuŝ: 搞糟
 gondol: 貢多拉
 graf: 伯爵
 grand:
-- 大
-- 巨大
+  - 大
+  - 巨大
 grav: 重要
 halt: 停止
 hav: 有
 hejm: 家
 help: 幫助
 hom: 人
-hor: 點鐘、小時
+hor: 
+  - 點鐘
+  - 小時
 hotel: 旅館
 ide: 想法
 industri: 工業
@@ -112,14 +120,18 @@ kar: 珍愛
 kastel: 城堡
 kav: 山洞
 kelk: 一些
-kelner: 服务員、侍應生
+kelner: 
+  - 服務員
+  - 侍應生
 klar: 解釋
 klub: 俱樂部
 knab: 男孩
 koler: 生氣
 kolor: 顏色
 komenc: 開始
-kompren: 理解，明白
+kompren: 
+  - 理解
+  - 明白
 kon: 認得
 kontent: 滿意
 kontrol: 檢查
@@ -135,7 +147,9 @@ lakt: 牛奶
 lamp: 燈
 land: 國家
 larĝ: 寛
-last: 最後，最新
+last: 
+  - 最後
+  - 最新
 laŭt: 大聲
 lecion: 課
 leg: 讀
@@ -185,7 +199,9 @@ pac: 和平
 pag: 付款
 pan: 麵包
 paper: 紙張
-pardon: 饒恕、原諒
+pardon: 
+  - 饒恕
+  - 原諒
 parol: 說
 part: 部分
 pas: 通過
@@ -208,7 +224,9 @@ pov: 可以
 pren: 拿
 pret: 備好
 prezent: 呈現
-problem: 問題，困難
+problem: 
+  - 問題
+  - 困難
 proksim: 近
 promen: 散步
 propon: 建議
@@ -222,36 +240,46 @@ renkont: 會見
 respekt: 尊敬
 respond: 回復
 rest: 停留
-ricev: 接獲，收到
+ricev: 
+  - 接獲
+  - 收到
 rid: 笑
 rigard: 看
 riĉ: 富
 rol: 角色
 ruĝ: 紅
 salt: 跳
-salut: 敬禮、問好
+salut: 
+  - 敬禮
+  - 問好
 sam: 相同
 san: 健康
 saĝ: 智慧
-sci: 知道、明了
+sci: 
+  - 知道
+  - 明了
 sek: 乾
 sekret: 秘密
 sekv: 跟隨
 semajn: 星期
-send: 送，寄
+send: 
+  - 送
+  - 寄
 serĉ: 尋找
 si: 反身代詞
 sid: 坐
 silent: 靜
-simil: 相似，相同
+simil: 相似
 sinjor:
-- 紳士
-- 先生
+  - 紳士
+  - 先生
 situaci: 情況
 skrib: 寫
 sol: 孤單
 son: 聲音
-sovaĝ: 野蠻
+sovaĝ: 
+  - 野蠻
+  - 野生
 sport: 運動
 star: 站立
 strat: 街道
@@ -286,13 +314,19 @@ Veneci: 威尼斯
 ver: 真
 vesper: 傍晚、晚上
 vest: 穿衣
-vetur: 乘行、行
+vetur: 
+  - 乘行
+  - 駕行
 vid: 看
 vin: 葡萄酒
 vir: 男人
-viv: 活、居住
+viv: 
+  - 活
+  - 生活
 vizaĝ: 臉
-vizit: 參觀、拜訪
+vizit: 
+  - 參觀
+  - 拜訪
 voj: 路
 vojaĝ: 旅行
 vok: 叫
@@ -301,15 +335,21 @@ vort: 詞
 voĉ: 說話聲
 zorg: 照顧
 ĉambr: 房間
-ĉef: 老板、主官
+ĉef: 
+  - 老板
+  - 主官
 ĝen:
-- 干擾
-- 困擾
+  - 干擾
+  - 困擾
 ĝeneral: 普通
 ĝoj: 高興
 ĝust: 正確
-ĵet: 丢、扔
+ĵet: 
+  - 丢
+  - 扔
 ŝajn: 似乎
-ŝanĝ: 改、改變
+ŝanĝ: 
+  - 改
+  - 改變
 ŝat: 喜歡
 ŝip: 船

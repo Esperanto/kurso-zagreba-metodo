@@ -1,59 +1,66 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: co
+tio: tamto
+io: coś
+ĉio: wszystko
+nenio: nic
 kiu:
-- who
-- which
+- kto
+- którego
 tiu:
-- that person
-- that one
-iu: someone
+- tamta
+- tamten
+- tamto
+iu: ktoś
 ĉiu:
-- everyone
-- every
-neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
+- każdy
+- wszyscy
+neniu: nikt
+kie: gdzie
+tie: tam
+ie: gdzieś
+ĉie: wszędzie
+nenie: nigdzie
+kia: 
+- jaki
+- jaka
+- jakie
+tia: 
+- taki
+- taka
+- takie
+ia: jakiś
+ĉia: wszelaki
+nenia:
+- nijaki
+- żaden
+kiel: jak
+tiel: tak (w ten sposób)
+iel: jakoś
+ĉiel: na wszelki sposób
+neniel: w żaden sposób
+kial: dlaczego
+tial: dlatego
+ial: z jakiegoś powodu
+ĉial: z każdego powodu
+nenial: z żadnego powodu
+kiam: kiedy
+tiam: wtedy
+iam: kiedyś
+ĉiam: zawsze
+neniam: nigdy
+kiom: ile
+tiom: tyle
 iom: 
-- to some extent
-- a certain amount
+- trochę
+- ileś
 ĉiom: 
-- all of it
-- the whole amount
+- całość
+- każda ilość
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- ani trochę
+- żadna ilość
+kies: czyj
+ties: tego
+ies: czyjś
+ĉies: każdego
+nenies: niczyj

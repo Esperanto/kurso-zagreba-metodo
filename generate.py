@@ -170,6 +170,7 @@ lingvoj = [
   ('tr', u'Türkçe (beta)'),
   ('uk', u'Українська'),
   ('zh', u'中文'),
+  ('zh-tw', u'正體中文'),
   ('ar', u'(test: araba)'),
   ('cs', u'(test: ĉeĥa)'),
   ('fa', u'(test: persa)'),
@@ -185,8 +186,7 @@ lingvoj = [
   ('pl', u'(test: pola)'),
   ('ru', u'(test: rusa)'),
   ('sv', u'(test: sveda)'),
-  ('ur', u'(test: urdua)'),
-  ('zh-tw', u'(test: tradicia ĉina)')
+  ('ur', u'(test: urdua)')
 ]
 
 if args.lingvo:

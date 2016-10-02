@@ -51,17 +51,17 @@ eniris: 進去了
 eniru: 進去吧
 facilmovaj: 遊移的
 faligi: 
-  - 使倒下
-  - 使落下
+- 使倒下
+- 使落下
 faligis: 
-  - 使倒下了
-  - 使落下了
+- 使倒下了
+- 使落下了
 familianoj: 家庭成員們
 fermita: 被關閉了的
 fine: 最後地
 foresti: 
-  - 不在 
-  - 遠離
+- 不在 
+- 遠離
 foriros: 將離去
 fratino: 姐妹
 fuŝparolis: 胡言亂語
@@ -108,19 +108,19 @@ kunvenas: 一起來
 laboristo: 工人
 lampeto: 小燈 lamp + eto
 lernanto:
-  - 學習者
-  - 學生
+- 學習者
+- 學生
 lernejo: 學校
 lernejon: 學校
 lernolibroj: 課本
 leteroj: 信件
 libertempo:
-  - 空閒時間
-  - 空餘時間
+- 空閒時間
+- 空餘時間
 libroj: 書本
 lumigis:
-  - 點亮
-  - 照亮
+- 點亮
+- 照亮
 malagrabla: 不舒爽
 malbela: 醜的
 malbonaj: 壞的
@@ -207,8 +207,8 @@ revido: 再見
 ridetis: 微笑了
 rideto: 微笑
 riĉeco:
-  - 財富
-  - 富裕
+- 財富
+- 富裕
 riĉulo: 富人
 salton: 跳
 saluton: 問候、你好
@@ -249,8 +249,8 @@ vestaĵoj: 衣服
 vestaĵojn: 衣服
 vestaĵon: 衣服
 veturado:
-  - 駕行
-  - 乘行
+- 駕行
+- 乘行
 veturigus: 可能讓...乘行
 viaj: 你的
 virino: 女人
@@ -258,11 +258,9 @@ vojaĝantoj: 旅客們
 ĉambristoj: 房間服務員們
 ĉeesto: 出席
 ĉirkaŭaĵo: 
-  - 環境
-  - 周遭
+- 環境
+- 周遭
 ĝenon: 困擾
-ĝustatempe: 
-  - 準時地
-  - 正巧
+ĝustatempe: 準時地
 ŝiaj: 她的
 ŝipkuron: 行船

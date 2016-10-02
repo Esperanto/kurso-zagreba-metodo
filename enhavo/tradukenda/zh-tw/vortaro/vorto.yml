@@ -261,6 +261,8 @@ vojaĝantoj: 旅客們
   - 環境
   - 周遭
 ĝenon: 困擾
-ĝustatempe: 準時地
+ĝustatempe: 
+  - 準時地
+  - 正巧
 ŝiaj: 她的
-ŝipkuron: 賽船
+ŝipkuron: 行船

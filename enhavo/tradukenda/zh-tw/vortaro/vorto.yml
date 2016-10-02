@@ -40,7 +40,7 @@ ekparolis: 開始說了
 ekridis: 笑出了
 ekrigardis: 開始看了
 eksaltis: 跳了起來
-ekscii: 頓知，ek + scii
+ekscii: 頓知
 eksidis: 坐下了
 ekstervoje: 在路外地
 ekveturas: 開始乘行
@@ -90,7 +90,7 @@ junulino: 女青年
 junulinoj: 女青年們
 junulinon: 女青年
 junuloj: 青年們
-kafejo: 咖啡店 kaf + ejo
+kafejo: 咖啡店
 kafejon: 咖啡店
 karulino: 心愛的女人
 karulo: 心愛的人
@@ -102,11 +102,11 @@ kompreneble:
 - 當然
 korpoforton: 體力
 kunmanĝos: 將一起用餐
-kunporti:  一起帶來, kun + porti
+kunporti:  一起帶來
 kunulino: 女伴
 kunvenas: 一起來
 laboristo: 工人
-lampeto: 小燈 lamp + eto
+lampeto: 小燈
 lernanto:
 - 學習者
 - 學生
@@ -134,13 +134,13 @@ malforta: 弱
 malforte: 弱地
 malfruas: 遲到
 malfrue: 遲地
-malfrui: 遲，mal + frui
+malfrui: 遲
 malgranda: 小的
 malhelpis: 阻礙
 malinterese: 枯燥地
 malkontentigi: 激怒
 mallaŭte: 小聲地
-malliberejon: 監獄，mal+liber+ejo+n
+malliberejon: 監獄
 mallumo: 漆黑
 malmulte: 少地
 malmultekosta: 便宜
@@ -155,13 +155,17 @@ malsaniĝis: 病了
 malsaĝa:  愚蠢的
 malsekajn: 濕的
 malsukcesa: 失敗的
-maltrankvila: 不安、急
+maltrankvila: 
+- 不安
+- 焦急
 malvarman: 冷
 malĝoja: 悲哀的
 malŝatas: 厭惡
 malŝatis: 厭惡了
 manĝaĵo: 食物
-manĝegi: 吃很多、大吃
+manĝegi: 
+- 吃很多
+- 大吃
 maristo: 海員
 maristoj: 海員們
 mariston: 海員
@@ -182,7 +186,7 @@ neinteresaj: 枯燥的
 nokta: 夜晚的
 novaĵoj: 新聞
 opinion: 意見
-ordigi: 整理， ord + igi
+ordigi: 整理
 paperoj: 紙張
 paperojn: 紙張
 paperujon: 紙簍
@@ -199,10 +203,12 @@ promeno: 散步
 rapidege: 非常快地
 realigi: 實現
 redonu: 還給吧
-rekapti:  抓回, re + kapti
-repaciĝon: 恢復平靜、重回平和
-revenis:  回來了
-revidi: 重見，re + vidi
+rekapti:  抓回
+repaciĝon: 
+- 恢復平靜
+- 重回平和
+revenis: 回來了
+revidi: 重見
 revido: 再見
 ridetis: 微笑了
 rideto: 微笑
@@ -211,31 +217,41 @@ riĉeco:
 - 富裕
 riĉulo: 富人
 salton: 跳
-saluton: 問候、你好
+saluton:
+- 問候
+- 你好
 samklubanoj: 同俱樂部者們
 sekretajn: 秘密的
 sekreton: 秘密
-senbrue: 安靜地、無聲響地
+senbrue:
+- 安靜地
+- 無聲響地
 seninterese: 無趣地
 senkolora: 無色的
 sensukcese: 不成功地
-sentimulo: 勇夫、无畏懼者
+sentimulo:
+- 勇夫
+- 無畏懼者
 senvorte: 無言地
 sinjorinoj: 女士們
 sinjorinon: 女士
-skribotablo: 寫字台
+skribotablo:
+- 寫字台
+- 寫字桌
 soleca: 孤單的
 sovaĝejo: 荒野
 sportisto: 運動員
 subakvigis: 使沉入了
 subakviĝis: 沉入了
 subite: 突然間
-supren: 向上方地
+supren: 向上
 surhavas: 穿
 surlokan: 現地的
 teroristoj: 恐怖份子們
 tiuokaze: 這情況下
-travivaĵo: 經驗，經歷
+travivaĵo:
+- 經驗
+- 經歷
 tridekjara: 三十歲的
 troviĝis: 有著
 unuaj: 第一的
@@ -251,7 +267,7 @@ vestaĵon: 衣服
 veturado:
 - 駕行
 - 乘行
-veturigus: 可能讓...乘行
+veturigus: 可讓...乘行
 viaj: 你的
 virino: 女人
 vojaĝantoj: 旅客們

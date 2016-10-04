@@ -1,65 +1,65 @@
 -
-  demando: "Est-ce que vous pouvez apprendre calmement pendant que quelqu'un chante joyeusement ?"
+  demando: "هل بإمكانك التعلم بهدوء، بينما يغني أحدهم مبتهجاً؟?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - povas: pouvez
-    - trankvile: tranquillement
-    - lerni: apprendre
+    - Ĉu: هل
+    - vi: أنت
+    - povas: تستطيع
+    - trankvile: بهدوء
+    - lerni: أن تتعلم
     - ','
-    - dum: pendant que
-    - iu: "quelqu'un"
-    - ĝoje: joyeusement
-    - kantas: chante
+    - dum: بينما
+    - iu: شخص ما
+    - ĝoje: مبتهجاً
+    - kantas: يغني
     - '?'
 -
-  demando: Qui sait quand et où nous nous reverrons ?
+  demando: من يعلم متى وأين سنرى بعضنا ?
   rektatraduko: 
-    - Kiu: Qui
-    - scias: sait
+    - Kiu: مَن
+    - scias: يعلم
     - ','
-    - kiam: quand 
-    - kaj: et
-    - kie: où
-    - ni: nous
-    - revidos: reverrons
-    - nin: nous
+    - kiam: متى 
+    - kaj: و
+    - kie: أين
+    - ni: نحن
+    - revidos: نرى
+    - nin: نفسنا
     - '?'
 -
-  demando: Quelle heure est-il maintenant ?
+  demando: كم الساعة الآن ?
   rektatraduko: 
-    - Kioma: Quelle
-    - horo: heure
-    - estas: il est 
-    - nun: maintenant
+    - Kioma: كم
+    - horo: ساغة
+    - estas: تكون 
+    - nun: الآن
     - '?'
 -
-  demando: "Est-ce que quelqu'un vous a aidé à ouvrir la porte de la vieille maison ?"
+  demando: "هل ساعدك أحدٌ بفتح باب البيت القديم؟ ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - iu: "quelqu'un" 
-    - helpis: a aidé
-    - al: [à] 
-    - vi: vous 
-    - malfermi: ouvrir 
-    - la: la 
-    - pordon: porte 
-    - de: de
-    - la: la
-    - malnova: vieille
-    - domo: maison
+    - Ĉu: هل
+    - iu: أحد 
+    - helpis: ساعد
+    - al: [إلى] 
+    - vi: أنت 
+    - malfermi: أن تفتح 
+    - la: ال 
+    - pordon: بابَ 
+    - de: لِ
+    - la: ال
+    - malnova: قديم
+    - domo: بيت
     - '?'
 -
-  demando: "Pourquoi n'avez-vous pas le temps de m'écouter plus longtemps ?"
+  demando: "لماذا ليس لديك وقتٌ لتستمع إلى لمدة أطول؟ ?"
   rektatraduko: 
-    - Kial: Pourquoi
-    - vi: vous
-    - ne: ne ... pas
-    - havas: avez
-    - tempon: le temps
-    - aŭskulti: écouter
-    - al: [à]
-    - mi: moi
-    - pli: plus
-    - longe: longtemps
+    - Kial: لماذا
+    - vi: أنت
+    - ne: ليس / لا
+    - havas: تملك
+    - tempon: وقتاً
+    - aŭskulti: أن تستمع
+    - al: إلى
+    - mi: أنا
+    - pli: أكثر
+    - longe: طولاً
     - '?'

@@ -32,7 +32,7 @@ La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝ
 	- [itala](https://drive.google.com/open?id=0B73-tppgbUreZ3dxUVB5QWFTMGs)
 	- [korea](https://drive.google.com/open?id=0B73-tppgbUreRGVKUXJqSzUwaVU)
 	- [kroata](https://drive.google.com/open?id=0B73-tppgbUrecVZxc21TQ2syUzQ)
-	- [makedona](https://drive.google.com/open?id=0B73-tppgbUreZVRhTUVQWjMtYlU)
+	- [makedona (nekompleta)](https://drive.google.com/open?id=0B73-tppgbUreZVRhTUVQWjMtYlU)
 	- [pola](https://drive.google.com/open?id=0B73-tppgbUreU2tGMEFWR0pCblU)
 	- [rumana](https://drive.google.com/open?id=0B73-tppgbUreN19waV84ZnFwd0E)
 	- [slovaka](https://drive.google.com/open?id=0B73-tppgbUreTGdWT19JQ09jamM)

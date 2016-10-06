@@ -32,8 +32,11 @@ La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝ
 	- [itala](https://drive.google.com/open?id=0B73-tppgbUreZ3dxUVB5QWFTMGs)
 	- [korea](https://drive.google.com/open?id=0B73-tppgbUreRGVKUXJqSzUwaVU)
 	- [kroata](https://drive.google.com/open?id=0B73-tppgbUrecVZxc21TQ2syUzQ)
+	- [makedona](https://drive.google.com/open?id=0B73-tppgbUreZVRhTUVQWjMtYlU)
 	- [pola](https://drive.google.com/open?id=0B73-tppgbUreU2tGMEFWR0pCblU)
+	- [rumana](https://drive.google.com/open?id=0B73-tppgbUreN19waV84ZnFwd0E)
 	- [slovaka](https://drive.google.com/open?id=0B73-tppgbUreTGdWT19JQ09jamM)
+	- [vjetnama](https://drive.google.com/open?id=0B73-tppgbUreYjBObFBhcHZROTg)
 
 (Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu min](mailto:georg@jaehnig.org)!)
 

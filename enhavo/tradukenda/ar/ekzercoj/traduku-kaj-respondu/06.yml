@@ -1,72 +1,72 @@
-- 
-  demando: Est-ce que vous voulez que je vous montre mon plus récent livre ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - deziras: voulez
-    - ',' 
-    - ke: que 
-    - mi: je
-    - montras: montre
-    - al: à
-    - vi: vous
-    - mian: mon
-    - plej: plus
-    - novan: nouveau
-    - libron: livre
+-
+  demando: هل تَوَدّ، أن أُريكَ أجدَّ كتاب لديّ؟
+  rektatraduko:
+    - Ĉu: هل
+    - vi: أنت
+    - deziras: تودُّ
+    - ','
+    - ke: أن
+    - mi: أنا
+    - montras: يُري
+    - al: إلى
+    - vi: أنت
+    - mian: لي
+    - plej: الأكثر
+    - novan: جديداً
+    - libron: كتاباً
     - '?'
-- 
-  demando: Que voulez-vous demain pour votre petit déjeuner ?
-  rektatraduko: 
-    - Kion: Que
-    - vi: vous
-    - volas: voulez
-    - morgaŭ: demain
-    - matenmanĝi: prendre le petit-déjeuner
+-
+  demando: ماذا تريد أن تفطر غداً؟ ?
+  rektatraduko:
+    - Kion: ماذا
+    - vi: أنت
+    - volas: تريد
+    - morgaŭ: غداً
+    - matenmanĝi: يُفطرُ
     - '?'
-- 
-  demando: Quand Marc arrivera-t-il, à 5 heures ou à 8 heures ?
-  rektatraduko: 
-    - Kiam: Quand
-    - Marko: Marc
-    - alvenos: arrivera
-    - ',' 
-    - je: à
-    - la: la
-    - kvina: cinquième
-    - aŭ: ou
-    - je: à
-    - la: la
-    - oka: huitième
-    - horo: heure
+-
+  demando: متى يصل مارك، عند الخامسة أو الثامنة؟ ?
+  rektatraduko:
+    - Kiam: متى
+    - Marko: مارك
+    - alvenos: سيصل
+    - ','
+    - je: عند
+    - la: ال
+    - kvina: خامسة
+    - aŭ: أو
+    - je: عند
+    - la: ال
+    - oka: ثامنة
+    - horo: ساعة
     - '?'
-- 
-  demando: "Quand avez-vous remarqué que toute la famille m'appelle bienfaiteur ?"
-  rektatraduko: 
-    - Kiam: Quand
-    - vi: vous
-    - rimarkis: avez remarqué
-    - ','  
-    - ke: que
-    - la: la
-    - tuta: toute
-    - familio: famille
-    - nomas: appelle
-    - min: moi
-    - bonfarulo: bienfaiteur
+-
+  demando: متى لاحظتَ أن كل العائلة تسميني فاعل الخير؟
+  rektatraduko:
+    - Kiam: متى
+    - vi: أنت
+    - rimarkis: لاحظتَ
+    - ','
+    - ke: أن
+    - la: ال
+    - tuta: كل
+    - familio: عائلة
+    - nomas: يُسمي
+    - min: إيايَ
+    - bonfarulo: فاعل خير
     - '?'
-- 
-  demando: "Est-ce que le livret que j'ai envoyé vous a été utile ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - la: le 
-    - libreto: livret
-    - estis: était
-    - utila: utile
-    - al: à
-    - vi: vous
-    - ',' 
-    - kiun: que
-    - mi: je
-    - sendis: ai envoyé
+-
+  demando: هل كان الكتيّبُ مفيداً لك؟، ذلك الذي أرسلته.
+  rektatraduko:
+    - Ĉu: هل
+    - la: ال
+    - libreto: كُتّيب
+    - estis: كان
+    - utila: مفيد
+    - al: إلى
+    - vi: أنت
+    - ','
+    - kiun: الذي
+    - mi: أنا
+    - sendis: أرسلته
     - '?'

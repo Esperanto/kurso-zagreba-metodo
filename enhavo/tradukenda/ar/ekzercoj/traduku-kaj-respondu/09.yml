@@ -1,37 +1,37 @@
-- 
-  demando: "Qu'est-ce qui pourrait le plus réjouir tes parents ?"
-  rektatraduko: 
-    - Kio: Quoi
-    - povus: pourrait
-    - plej: le plus
-    - ĝojigi: réjouir
-    - viajn: tes
-    - gepatrojn: parents
+-
+  demando: من قد يستطيع إسعادَ أبويك أكثر؟
+  rektatraduko:
+    - Kio: من
+    - povus: قد يستطيع
+    - plej: الأكثر
+    - ĝojigi: أن يسعد
+    - viajn: لك
+    - gepatrojn: أبوين
     - '?'
-- 
-  demando: "Si au moins allais après l'école avec moi au centre-ville !"
-  rektatraduko: 
-    - Se: Si
-    - almenaŭ: au moins
-    - vi: tu
-    - post: après
-    - la: "l'"
-    - lernado: école
-    - irus: irais
-    - kun: avec
-    - mi: moi
-    - en: à
-    - la: le 
-    - urbocentron: centre-ville
+-
+  demando: لو أنه على الأقل باستطاعتك الذهاب معي إلى مركز المدينة بعد التعلم!
+  rektatraduko:
+    - Se: لو/إذا
+    - almenaŭ: على الأقل
+    - vi: أنت
+    - post: بعد
+    - la: ال
+    - lernado: تعلّم
+    - irus: قد يذهب
+    - kun: مع
+    - mi: أنا
+    - en: في
+    - la: ال
+    - urbocentron: مركز المدينة
     - '!'
-- 
+-
   demando: "Où voudrais-tu voyager si tu avais suffisamment d'argent et de temps ?"
-  rektatraduko: 
+  rektatraduko:
     - Kien: Où
     - vi: tu
     - dezirus: voudrais
     - vojaĝi: voyager
-    - ',' 
+    - ','
     - se: si
     - vi: tu
     - havus: avais (litt. aurais)
@@ -41,9 +41,9 @@
     - kaj: et
     - tempo: temps
     - '?'
-- 
+-
   demando: Est-ce que tu prévois d'aller à Paris en voiture ou, est-ce-que cela ne semble pas beaucoup mieux, en train ?
-  rektatraduko: 
+  rektatraduko:
     - Ĉu: Est-ce que
     - vi: tu
     - planas: prévois
@@ -62,14 +62,14 @@
     - per: par
     - vagonaro: train
     - '?'
-- 
+-
   demando: Pourquoi différentes personnes expliquent les mêmes idées de façons différentes ?
-  rektatraduko: 
+  rektatraduko:
     - Kial: Pourquoi
     - diversaj: différentes
     - homoj: personnes
     - klarigas: expliquent
     - samajn: mêmes
     - ideojn: idées
-    - diversmaniere: de façons différentes 
+    - diversmaniere: de façons différentes
     - '?'

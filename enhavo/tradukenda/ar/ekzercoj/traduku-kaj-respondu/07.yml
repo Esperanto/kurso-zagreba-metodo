@@ -1,77 +1,77 @@
-- 
-  demando: Qui avait le livre que vous attendiez depuis plus de deux ans ?
-  rektatraduko: 
-    - Kiu: Qui
-    - havis: avait
-    - la: le
-    - libron: livre
-    - ',' 
-    - kiun: que
-    - vi: vous
-    - atendis: attendiez
-    - pli: plus 
-    - ol: de
-    - du: deux
-    - jarojn: ans
-    - '?'
-- 
-  demando: Est-ce que vous voulez que je vous montre ma photo la plus chère ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - volas: voulez
+-
+  demando: عند من كان الكتاب الذي انتظرته لأكثر من عامين؟
+  rektatraduko:
+    - Kiu: من
+    - havis: كان عند/ مَلَكَ
+    - la: ال
+    - libron: كتاباً
     - ','
-    - ke: que
-    - mi: je
-    - montras: montre
-    - al: à 
-    - vi: vous
-    - mian: ma
-    - plej: plus
-    - karan: chère
-    - foton: photo
+    - kiun: الذي
+    - vi: أنت
+    - atendis: انتظرَ
+    - pli: أكثر
+    - ol: من
+    - du: اثنين
+    - jarojn: أعواماً
     - '?'
-- 
-  demando: Où avez-vous acheté ce vêtement ?
-  rektatraduko: 
-    - Kie: Où
-    - vi: vous
-    - aĉetis: avez acheté
-    - tiun: ce
-    - vestaĵon: vêtement
+-
+  demando: هل تريد أن أُريكَ أعزَّ صورة لدي؟
+  rektatraduko:
+    - Ĉu: هل
+    - vi: أنت
+    - volas: تريد
+    - ','
+    - ke: أن
+    - mi: أنا
+    - montras: يُري
+    - al: إلى /على
+    - vi: أنت
+    - mian: خاصتي
+    - plej: الأكثر
+    - karan: عزيزةً
+    - foton: صورةً
     - '?'
-- 
-  demando: "Où irez-vous dimanche si c'est (litt. ce sera) une journée ensoleillée ?"
-  rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - dimanĉe: dimanche
-    - ',' 
-    - se: si
-    - estos: ce sera
-    - suna: ensoleillée
-    - tago: journée
+-
+  demando: أين اشتريتَ قطعة الملابس تلك؟
+  rektatraduko:
+    - Kie: أينَ
+    - vi: أنت
+    - aĉetis: اشترىَ
+    - tiun: تلك - ذلك
+    - vestaĵon: قطعةَ الملابسِ
     - '?'
-- 
-  demando: Est-ce que fon frère est déjà parti ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - via: ton
-    - frato: frère
-    - jam: déjà
-    - ekiris: est parti
+-
+  demando: إلى أين ستذهب يوم الأحد، لو كان يوماً مشمساً؟
+  rektatraduko:
+    - Kien: إلى أين
+    - vi: أنت
+    - iros: سيذهب
+    - dimanĉe: في يوم الأحد
+    - ','
+    - se: لو
+    - estos: سيكون
+    - suna: مشمس
+    - tago: يوم
     - '?'
-- 
-  demando: "Où est l'eau que vous avez vous-même apportée ?"
-  rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - la: "l'"
-    - akvo: eau
-    - ',' 
-    - kiun: que
-    - vi: vous
-    - mem: vous-même
-    - kunportis: avez apportée
+-
+  demando: هل غادر أخوكَ بالفعل؟
+  rektatraduko:
+    - Ĉu: هل
+    - via: لكَ
+    - frato: أخ
+    - jam: بالفعل
+    - ekiris: غادر
+    - '?'
+-
+  demando: أين الماء، التي أحضرتها بنفسك؟
+  rektatraduko:
+    - Kie: أين
+    - estas: يكون
+    - la: ال
+    - akvo: ماء
+    - ','
+    - kiun: التي
+    - vi: أنت
+    - mem: بنفسك
+    - kunportis: أحضر
     - '?'

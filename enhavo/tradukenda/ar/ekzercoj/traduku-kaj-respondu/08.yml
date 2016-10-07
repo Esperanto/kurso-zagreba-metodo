@@ -1,86 +1,86 @@
-- 
-  demando: Qui va nettoyer la cuisine après le déjeuner ?
-  rektatraduko: 
-    - Kiu: Qui
-    - purigos: va nettoyer
-    - la: la
-    - kuirejon: cuisine
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
+-
+  demando: من سينظف المطبخَ بعد الغداء؟
+  rektatraduko:
+    - Kiu: من
+    - purigos: سوف ينظف
+    - la: ال
+    - kuirejon: مطبخَ
+    - post: بعد
+    - la: ال
+    - tagmanĝo: غداء
     - '?'
-- 
-  demando: "Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?"
-  rektatraduko: 
-    - Kion: Que, quoi
-    - vi: tu
-    - volas: veux
-    - trinki: boire
-    - ':' 
-    - teon: du thé
-    - ',' 
-    - iom: un peu 
-    - da: de
-    - kafo: café
-    - aŭ: ou
-    - ĉu: est-ce que
-    - vi: tu
-    - volas: veux
-    - nenion: rien
+-
+  demando: ماذا تريد أن تشرب: شاياً، بعضاً من القهوة أم أنك لا تريد شيئاً؟
+  rektatraduko:
+    - Kion: ماذا
+    - vi: أنت
+    - volas: يريد
+    - trinki: أن يشرب
+    - ':'
+    - teon: شاياً
+    - ','
+    - iom: بعض
+    - da: من
+    - kafo: قهوة
+    - aŭ: أو
+    - ĉu: هل
+    - vi: أنت
+    - volas: يريد
+    - nenion: لا شيءَ
     - '?'
-- 
-  demando: Pourquoi as-tu si soudainement décider de rénover ta petite chambre ?
-  rektatraduko: 
-    - Kial: Pourquoi
-    - vi: tu
-    - tiel: ainsi, si
-    - subite: soudainement
-    - decidis: as décidé
-    - renovigi: rénover
-    - vian: ta
-    - ĉambreton: petite chambre
+-
+  demando: لم قررت فجأةً بهذا الشكل تجديد غرفتك الصغيرة؟
+  rektatraduko:
+    - Kial: لماذا
+    - vi: أنت
+    - tiel: هكذا/بهذا الشكل
+    - subite: فجأةً
+    - decidis: قرر
+    - renovigi: أن يجدد
+    - vian: لك
+    - ĉambreton: غرفتك الصغيرة
     - '?'
-- 
-  demando: À qui as-tu donnée les verres à vin propres ?
-  rektatraduko: 
-    - al: À
-    - kiu: qui
-    - vi: tu
-    - donis: as donné
-    - la: les
-    - purajn: propres
-    - glasojn: verres
-    - por: pour 
-    - la: le
-    - vino: vin
+-
+  demando: لِمن أعطيت الكؤوسَ النظيفة من أجل النبيذ؟
+  rektatraduko:
+    - al: إلى
+    - kiu: من
+    - vi: أنت
+    - donis: أعطى
+    - la: ال
+    - purajn: نظيفاتٍ
+    - glasojn: كؤوساً
+    - por: من أجل
+    - la: ال
+    - vino: نبيذ
     - '?'
-- 
-  demando: Contre qui ton club de sports a joué il y a deux semaines ?
-  rektatraduko: 
-    - Kontraŭ: Contre
-    - kiu: qui
-    - ludis: a joué
-    - via: ton
-    - sportklubo: club de sports
-    - antaŭ: avant
-    - du: deux
-    - semajnoj: semaines
+-
+  demando: ضد من لعب ناديك الرياضي قبل أسبوعين؟
+  rektatraduko:
+    - Kontraŭ: ضد
+    - kiu: من
+    - ludis: لعبَ
+    - via: لك
+    - sportklubo: ناديك الرياضي
+    - antaŭ: قبل
+    - du: اثنين
+    - semajnoj: أسابيع
     - '?'
-- 
-  demando: "Est-ce que tu vois souvent le policier qui habite dans l'appartement au-dessus de toi ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - ofte: souvent
-    - vidas: vois
-    - la: le
-    - policiston: policier
-    - ',' 
-    - kiu: qui
-    - loĝas: habite
-    - en: dans 
-    - la: "l'"
-    - loĝejo: appartement
-    - super: au-dessus de
-    - vi: toi
+-
+  demando: هل غالباً ترى الشرطي، الذي يسكن في الشقة التي تعلوك؟
+  rektatraduko:
+    - Ĉu: هل
+    - vi: أنت
+    - ofte: غالباً
+    - vidas: يرى
+    - la: ال
+    - policiston: شرطياً
+    - ','
+    - kiu: الذي
+    - loĝas: يسكن
+    - en: في
+    - la: ال
+    - loĝejo: شقة
+    - super: فوق
+    - vi: أنت
     - '?'

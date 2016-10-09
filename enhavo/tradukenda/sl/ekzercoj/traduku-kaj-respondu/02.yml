@@ -1,70 +1,70 @@
 - 
-  demando: Kakav je bio tvoj stari dom?
+  demando: Kakšen je bil tvoj stari dom?
   rektatraduko: 
-    - Kia: Kakav
-    - estis: je bio
+    - Kia: Kakšen
+    - estis: je bil
     - via: tvoj
     - malnova: stari
     - hejmo: dom
     - '?'
 - 
-  demando: Koje si knjige čitao i jesu li dobre?
+  demando: Katere knjige si čital in ali so dobre?
   rektatraduko: 
-    - Kiujn: Koje
+    - Kiujn: Katere
     - librojn: knjige
-    - vi: ti
-    - legis: si čitao
-    - kaj: i
-    - ĉu: je li
-    - ili: one
-    - estas: su
+    - vi: (zaimek ti)
+    - legis: si čital
+    - kaj: in
+    - ĉu: ali
+    - ili: (zaimek one)
+    - estas: so
     - bonaj: dobre
     - '?'
 - 
-  demando: Što su radili Ana i Marko u Markovoj maloj sobi?
+  demando: Kaj sta delala Ana in Marko v Markovi majhni sobi?
   rektatraduko: 
-    - Kion: Što
-    - faris: su radili
+    - Kion: Kaj
+    - faris: sta delala
     - Anna: Ana
-    - kaj: i
+    - kaj: in
     - Marko: Marko
-    - en: u
-    - la: (član)
-    - malgranda: mala
-    - ĉambro: soba
-    - de: od 
-    - Marko: Marko
+    - en: v
+    - la: (člen)
+    - de: (predlog od)
+    - Markovi
+    - malgranda: mali
+    - ĉambro: sobi
     - '?'
 - 
-  demando: Voliš li čitati knjige o ljubavi?
+  demando: Ali rad bereš knjige o ljubezni?
   rektatraduko: 
-    - Ĉu: Je li
-    - vi: ti
-    - ŝatas: voliš 
-    - legi: čitati
+    - Ĉu: Ali
+    - vi: (zaimek ti)
+    - ŝatas: rad 
+    - legi: bereš
     - librojn: knjige
     - pri: o
-    - amo: ljubav
+    - amo: ljubezni
     - '?'
 - 
-  demando: Tko će ići s tobom u tvoj dom?
+  demando: Kdo bo šel s teboj v tvoj dom?
   rektatraduko: 
-    - Kiu: Tko
-    - iros: će ići
+    - Kiu: Kdo
+    - iros: bo šel
     - kun: s
-    - vi: ti
-    - al: prema
+    - vi: teboj
+    - al: v
     - via: tvoj
     - hejmo: dom
     - '?'
 - 
-  demando: Kakve su oči tvoje prijateljice?
+  demando: Kakšne so oči tvoje prijateljice?
   rektatraduko: 
-    - Kiaj: Kakvi
-    - estas: su
-    - la: (član)
+    - Kiaj: Kakšne
+    - estas: so
+    - la: (člen)
     - okuloj: oči
-    - de: od
-    - via: tvoja
-    - amikino: prijateljica
+    - de: (predlog od)
+    - via: tvoje
+    - amikino: prijateljice
     - '?'

@@ -1,0 +1,54 @@
+- 
+  demando: Can you bring along the medicine of my sister?
+  rektatraduko: 
+    - Ĉu: Whether
+    - vi: you
+    - povas: can
+    - kunporti: bring along
+    - la: the
+    - sanigilon: medicine
+    - de: of
+    - mia: my
+    - fratino: sister
+    - '?'
+- 
+  demando: When did you buy that music instrument?
+  rektatraduko: 
+    - Kiam: When
+    - vi: you
+    - aĉetis: did buy
+    - tiun: that
+    - muzikilon: music instrument
+    - '?'
+- 
+  demando: Who did use my key the last time?
+  rektatraduko: 
+    - Kiu: Who
+    - laste: last time
+    - uzis: used
+    - mian: my
+    - ŝlosilon: key
+    - '?'
+- 
+  demando: Did you travel in Venice also by gondola?
+  rektatraduko: 
+    - Ĉu: Whether
+    - vi: you
+    - en: in
+    - Venecio: Venice
+    - veturis: did travel
+    - ankaŭ: also
+    - per: by
+    - gondolo: gondola
+    - '?'
+- 
+  demando: Will you be able to fall asleep when it got quiet?
+  rektatraduko: 
+    - Ĉu: Whether
+    - vi: you
+    - povos: will be able
+    - ekdormi: to fall asleep
+    - ',' 
+    - kiam: when 
+    - silentiĝis: got quiet
+    - '?'

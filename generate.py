@@ -185,6 +185,7 @@ lingvoj = [
   ('my', u'(test: birma)'),
   ('pl', u'(test: pola)'),
   ('ru', u'(test: rusa)'),
+  ('sl', u'(test: slovena)'),
   ('sv', u'(test: sveda)'),
   ('ur', u'(test: urdua)')
 ]

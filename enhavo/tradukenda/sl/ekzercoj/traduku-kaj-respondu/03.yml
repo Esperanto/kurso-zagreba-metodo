@@ -1,32 +1,32 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Ali natakarji v velikih hotelih razumejo veliko jezikov? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: Ali 
+    - kelneroj: natakarji
+    - en: v
+    - grandaj: velikih
+    - hoteloj: hotelih
+    - komprenas: razumejo
+    - multajn: veliko
+    - lingvojn: jezikov
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Ali veste, ali Ana ceni novo pesem o siromaku in lepotici?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: Ali
+    - vi: (zaimek vi)
+    - scias: veste
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ĉu: ali
+    - Anna: Ana 
+    - ŝatas: ceni
+    - la: (člen)
+    - novan: novo
+    - kanton: pesem
+    - pri: o
+    - malriĉulo: siromaku
+    - kaj: in
+    - belulino: lepotici
     - '?'
 -
   demando: Where did you see an old man and a young man who were carrying a large table?

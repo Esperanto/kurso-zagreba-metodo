@@ -1,65 +1,69 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: Ali se lahko mirno učiš, ko nekdo veselo prepeva? 
+  
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: Ali
+    - vi: (zaimek ti)
+    - povas: se lahko
+    - trankvile: mirno
+    - lerni: učiš
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: ko
+    - iu: nekdo
+    - ĝoje: veselo
+    - kantas: prepeva
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Kdo ve, kdaj in kje se bomo ponovno videli?
+  
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Kdo
+    - scias: ve
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: kdaj 
+    - kaj: in
+    - kie: kje
+    - ni: (zaimek mi)
+    - revidos: se bomo ponovno videli
+    - nin: (zaimek nas)
     - '?'
 -
-  demando: What time is it now?
+  demando: Koliko je ura?
+  
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: koliko
+    - estas: je
+    - horo: ura
+    - nun: (sedaj)
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Ali ti je kdo pomagal odpreti vrata stare hiše?
+ 
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: Ali ti je
+    - iu: kdo 
+    - helpis:  pomagal
+    - al: (zaimek k) 
+    - vi: (zaimek tebi) 
+    - malfermi: odpreti 
+    - la: (člen) 
+    - pordon: vrata 
+    - de: (predlog od)
+    - la: (člen)
+    - malnova: stare
+    - domo: hiše
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Zakaj me nimaš časa dlje poslušati?
+  
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - al: to
-    - mi: me
-    - pli: more
-    - longe: long
+    - Kial: Zakaj
+    - vi: (zaimek vi)
+    - ne: (nikalnica)
+    - havas: nimaš (zanikano)
+    - tempon: časa
+    - aŭskulti: poslušati
+    - al: (predlog k)
+    - mi: mene
+    - pli longe: dlje
     - '?'

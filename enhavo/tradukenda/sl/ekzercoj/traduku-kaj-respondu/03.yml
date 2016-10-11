@@ -29,49 +29,49 @@
     - belulino: lepotici
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Kje ste videli starca in mladeniča ki sta nosila veliko mizo?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Kje
+    - vi: ste
+    - vidis: videli
+    - la: (člen)
+    - maljunulon: starca
+    - kaj: in
+    - la: (člen)
+    - junulon: mladeniča
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: ki
+    - portis: sta nosila
+    - grandan: veliko
+    - tablon: mizo
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Kako se je zgodilo, da si spet prišel k nam brez bratov in sester?
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Kako
+    - okazis: se je zgodilo
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: da
+    - vi: (zaimek ti)
+    - denove: spet
+    - venis: prišel
+    - al: k 
+    - ni: nam
+    - sen: brez
+    - gefratoj: bratov in sester
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Ali se lahko z novim učbenikom dovolj hitro učiš esperanto?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: Ali
+    - vi: (zaimek ti)
+    - povas: se lahko
+    - per: z
+    - la: (člen) 
+    - nova: novim
+    - lernolibro: učbenikom
+    - sufiĉe: dovolj
+    - rapide: hitro
+    - lerni: učiš
+    - Esperanton: esperanto
     - '?'

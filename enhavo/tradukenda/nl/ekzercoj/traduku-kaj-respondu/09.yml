@@ -1,16 +1,16 @@
 - 
-  demando: Wat zou jouw ouders het meest kunnen verheugen?
-  rektatraduko:
+  demando: Wat zou jouw ouders het meest kunnen verheugen?/ Wat zou je ouders meest genoegen doen?
+  rekta traduko:
     - Kio: Wat 
     - povus: zou kunnen 
     - plej: meest 
-    - ĝojigi: verheugen 
+    - ĝojigi: verheugen/ blij maken
     - viajn: jouw 
     - gepatrojn: ouders 
     - '?'
 - 
   demando: Indien tenminste jij na het leren met mij in het stadscentrum zoudt gaan!
-  rektatraduko:
+  rekta traduko:
     - Se: Indien
     - almenaŭ: tenminste 
     - vi: jij 
@@ -25,8 +25,8 @@
     - urbocentron: stadscentrum 
     - '!'
 - 
-  demando: Waarheen zou jij willen reizen, als je genoeg geld en tijd had?
-  rektatraduko:
+  demando: Waarheen zou jij willen reizen, als je genoeg geld en tijd had?/ Waar zou je willen heen gaan, als ...?
+  rekta traduko:
     - Kien: Waarheen
     - vi: jij 
     - dezirus: zoudt willen
@@ -43,7 +43,7 @@
     - '?'
 - 
   demando: Ben je van plan per auto naar Parijs te rijden, of lijkt het niet veel beter per trein? 
-  rektatraduko:
+  rekta traduko:
     - Ĉu: Of
     - vi: je
     - planas: plant
@@ -63,13 +63,13 @@
     - vagonaro: trein
     - '?':
 - 
-  demando: Waarom worden gelijke ideeën door verschillende mensen op een verschillende manier verklaard?
-  rektatraduko:
+  demando: Waarom worden dezelfde ideeën door verschillende mensen op een verschillende manier verklaard?
+  rekta traduko:
     - Kial: Waarom
     - diversaj: verschillende 
     - homoj: mensen 
     - klarigas: verklaren 
-    - samajn: gelijke
+    - samajn: dezelfde
     - ideojn: ideeën 
     - diversmaniere: op een verschillende manier
     - '?'

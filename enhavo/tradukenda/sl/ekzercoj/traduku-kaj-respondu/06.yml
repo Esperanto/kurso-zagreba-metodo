@@ -1,59 +1,59 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Ali želiš, da ti danes pokažem najnovejšo knjigo o bolezni otrok?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: Ali
+    - vi: (zaimek ti)
+    - deziras: želiš
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: da 
+    - mi: (zaimek jaz)
+    - montras: pokažem
+    - al: (predlog k)
+    - vi: tebi
+    - mian: mojo
+    - plej: najbolj
+    - novan: novo
+    - libron: knjigo 
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Kaj želiš jutri za zajtrk?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Kaj
+    - vi: (zaimek ti)
+    - volas: želiš
+    - morgaŭ: jutri
+    - matenmanĝi: za zajtrk
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: Ali veš, kdaj pride Marko, ali ob petih ali ob osmih?
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: Kdaj
+    - Marko: Marko
+    - alvenos: pride
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: ali
+    - la: (člen)
+    - kvina: ob peti
+    - aŭ: ali
+    - je: ob
+    - la: (člen)
+    - oka: osmi
+    - horo: uri
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Kdaj ste opazili, da me vsa družina kliče dobričina?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Kdaj
+    - vi: (zaimek vi)
+    - rimarkis: ste opazili
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: da
+    - la: (člen)
+    - tuta: cela
+    - familio: družina
+    - nomas: kliče
+    - min: mene
+    - bonfarulo: dobričina
     - '?'
 - 
   demando: Was the booklet which I send you useful to you?

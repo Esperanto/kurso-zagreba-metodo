@@ -1,10 +1,10 @@
 -
-  demando: Wanneer zal ik je weerzien?
-  rektatraduko:
+  demando: Wanneer zal ik je/u weerzien?
+  rekta traduko:
     - Kiam: Wanneer
     - mi: ik
     - revidos: zal weerzien
-    - vin: jou
+    - vin: jou/u
     - '?'
 -
   demando: Hoe lang leer je de Internationale Taal?
@@ -19,7 +19,7 @@
     - '?'
 -
   demando: Waar is mijn nieuw boek met foto's?
-  rektatraduko:
+  rekta traduko:
     - Kie: Waar
     - estas: is
     - mia: mijn
@@ -40,7 +40,7 @@
     - '?'
 -
   demando: Kan men de deur van de kamer sluiten, als het koud is?
-  rektatraduko:
+  rekta traduko:
     - Ĉu: Of
     - oni: men
     - povas: kan
@@ -57,7 +57,7 @@
     - '?'
 -
   demando: Hoe lang ben je boos, als men van je veel geld wegneemt?
-  rektatraduko:
+  rekta traduko:
     - Kiel: Hoe
     - longe: lang
     - vi: je

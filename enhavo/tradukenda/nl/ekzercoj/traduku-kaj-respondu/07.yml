@@ -1,6 +1,6 @@
 - 
   demando: Wie had het boek, dat je meer dan twee jaar op gewacht hebt?
-  rektatraduko:
+  rekta traduko:
     - Kiu: Wie
     - havis: had 
     - la: het 
@@ -16,7 +16,7 @@
     - '?'
 - 
   demando: Wil je, dat ik je mijn liefste foto toon?
-  rektatraduko:
+  rekta traduko:
     - Ĉu: Of 
     - vi: je 
     - volas: wil 
@@ -32,17 +32,17 @@
     - foton: foto 
     - '?'
 - 
-  demando: Waar heb je dat kleed gekocht?
-  rektatraduko:
+  demando: Waar heb je dat kledingstuk gekocht?
+  rekta traduko:
     - Kie: Waar 
     - vi: je 
     - aĉetis: hebt gekocht 
     - tiun: dat 
-    - vestaĵon: kleed 
+    - vestaĵon: kledingstuk 
     - '?'
 - 
-  demando: Waarheen zal je op zondag gaan, als het een zonnige dag zal zijn?
-  rektatraduko:
+  demando: Waarheen zal je op zondag gaan, als het een zonnige dag zal zijn?/ Waar ga je zondag heen, als het zonnig is?
+  rekta traduko:
     - Kien: Waarheen 
     - vi: je 
     - iros: zal gaan 
@@ -55,7 +55,7 @@
     - '?'
 - 
   demando: Is je broer reeds vertrokken?
-  rektatraduko:
+  rekta traduko:
     - Ĉu: Of 
     - via: je 
     - frato: broer
@@ -64,7 +64,7 @@
     - '?'
 - 
   demando: Waar is het water, dat je zelf hebt meegebracht?
-  rektatraduko:
+  rekta traduko:
     - Kie: Waar
     - estas: is 
     - la: het

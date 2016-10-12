@@ -1,6 +1,6 @@
 -
   demando: Verstaan obers in grote hotels veel talen?
-  rektatraduko:
+  rekta traduko:
     - Ĉu: Of
     - kelneroj: obers
     - en: in
@@ -12,7 +12,7 @@
     - '?'
 -
   demando: Weet jij, of Anna houdt van het nieuwe lied over een arme en een schone?
-  rektatraduko:
+  rekta traduko:
     - Ĉu: Of
     - vi: jij
     - scias: weet
@@ -24,9 +24,9 @@
     - novan: nieuwe
     - kanton: lied
     - pri: over
-    - malriĉulo: eeen arme
+    - malriĉulo: een arme (mens)
     - kaj: en
-    - belulino: een schone
+    - belulino: een schone:mooie (vrouwelijke mens)
     - '?'
 -
   demando: Waar zag je de oude man en de jonge man, die een grote tafel droegen?

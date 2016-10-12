@@ -1,6 +1,6 @@
 - 
   demando: Kan je het geneesmiddel van mijn zus meedragen?
-  rektatraduko:
+  rekta traduko:
     - Ĉu: Of
     - vi: je 
     - povas: kan
@@ -13,7 +13,7 @@
     - '?'
 - 
   demando: Wanneer heb je dat muziekinstrument gekocht?
-  rektatraduko:
+  rekta traduko:
     - Kiam: Wanneer 
     - vi: je 
     - aĉetis: hebt gekocht 
@@ -22,7 +22,7 @@
     - '?'
 - 
   demando: Wie heeft laatst mijn sleutel gebruikt?
-  rektatraduko:
+  rekta traduko:
     - Kiu: Wie
     - laste: laatst 
     - uzis: heeft gebruikt 
@@ -31,19 +31,19 @@
     - '?'
 - 
   demando: Heb je in Venetië ook met een gondel gevaren?
-  rektatraduko:
+  rekta traduko:
     - Ĉu: Of
     - vi: je 
     - en: in 
     - Venecio: Venetië
-    - veturis: gevaren hebt 
+    - veturis: gevaren hebt/je verplaatst hebt
     - ankaŭ: ook 
-    - per: met 
+    - per: met/ door middel van
     - gondolo: een gondel 
     - '?'
 - 
   demando: Zal je kunnen inslapen, als het stil geworden is?
-  rektatraduko:
+  rekta traduko:
     - Ĉu: Of 
     - vi: je 
     - povos: zal kunnen 

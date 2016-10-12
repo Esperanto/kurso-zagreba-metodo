@@ -1,7 +1,7 @@
 - 
   demando: Hoe was je oude thuis?
-  rektatraduko:
-    - Kia: Hoe
+  rekta traduko:
+    - Kia: Hoe(danig)
     - estis: was
     - via: je
     - malnova: oude
@@ -9,7 +9,7 @@
     - '?'
 - 
   demando: Welke boeken heb jij gelezen en zijn ze goed?
-  rektatraduko:
+  rekta traduko:
     - Kiujn: Welke
     - librojn: boeken
     - vi: jij
@@ -22,7 +22,7 @@
     - '?'
 - 
   demando: Wat deden Anna en Marko in de kleine kamer van Marko?
-  rektatraduko:
+  rekta traduko:
     - Kion: Wat
     - faris: deden
     - Anna: Anna
@@ -37,7 +37,7 @@
     - '?'
 - 
   demando: Houd je van boeken lezen over liefde?
-  rektatraduko:
+  rekta traduko:
     - Ĉu: Of
     - vi: je
     - ŝatas: houdt van
@@ -48,7 +48,7 @@
     - '?'
 - 
   demando: Wie zak met u naar uw thuis gaan?
-  rektatraduko:
+  rekta traduko:
     - Kiu: Wie
     - iros: zal gaan
     - kun: met
@@ -59,8 +59,8 @@
     - '?'
 - 
   demando: Hoe(danig) zijn de ogen van uw vriendin?
-  rektatraduko:
-    - Kiaj: Hoedanig
+  rekta traduko:
+    - Kiaj: Hoe(danig)
     - estas: zijn
     - la: de
     - okuloj: ogen

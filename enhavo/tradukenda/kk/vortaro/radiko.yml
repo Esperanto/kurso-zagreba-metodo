@@ -8,8 +8,8 @@ am: love
 amas:
 - mass
 - crowd
-amik: friend
-arb: tree
+amik: дос
+arb: ағаш
 aspekt:
 - look
 - seem
@@ -29,7 +29,7 @@ bien:
 bon: good
 branĉ: branch
 bru: noise
-buŝ: mouth
+buŝ: ауыз
 cert: certain
 dank: to thank
 daŭr: to continue
@@ -41,11 +41,11 @@ diabl: devil
 dik:
 - thick
 - fat
-dimanĉ: Sunday
+dimanĉ: жексенбі
 dir: to say
 direkt: direction
-doktor: doctor
-dolar: dollar
+doktor: дәрігер
+dolar: доллар
 dolor:
 - pain
 - to hurt
@@ -67,7 +67,7 @@ far: to do
 fart:
 - feel
 - be
-feliĉ: happy
+feliĉ: бақыт
 ferm: to close 
 fin: to end
 flank: side
@@ -78,10 +78,10 @@ forges: to forget
 form: form
 fort: strong
 fot: photo
-frat: brother
+frat: аға
 fru: early
 fuŝ: to mess up
-gondol: gondola
+gondol: гондола
 graf:
 - count
 - earl
@@ -89,44 +89,44 @@ grand:
 - big
 - great
 grav: important
-halt: to stop
+halt: тоқтату; доғару
 hav: to have
-hejm: home
+hejm: үй
 help: to help
-hom: human
-hor: hour
-hotel: hotel
+hom: адам
+hor: сағат
+hotel: қонақхана
 ide: idea
 industri: industry 
 instru: to teach
 interes: to interest
 invit: to invite
 ir: to go
-itali: Italy
-jar: year
+itali: Италия
+jar: жыл
 jun: young
-kaf: coffee
+kaf: кофе
 kalv: bald
-kap: head
+kap: бас
 kapabl: capable
 kapt: to catch
-kar: dear
+kar: қымбат
 kastel: castle
 kav: cave
 kelk: some
 kelner: waiter
 klar: clear
-klub: club
-knab: boy
+klub: клуб
+knab: бала
 koler: anger
-kolor: color
+kolor: түс
 komenc: to begin
 kompren: to understand
 kon: to know
 kontent: satisfied
 kontrol: to check
-kor: heart
-korp: body
+kor: жүрек
+korp: дене; тән
 kost: to cost
 kri: to scream
 kuir: to cook
@@ -139,30 +139,30 @@ land: land
 larĝ: wide
 last: last
 laŭt: loud
-lecion: lesson
+lecion: дәріс; сабақ
 leg: to read
 lern: to learn
 leter: letter
 liber: free
-libr: book
+libr: кітап
 lok: place
-long: long
+long: ұзақ; ұзын
 lud: to play
 lum: light
-man: hand
+man: қол
 mank: be lacking
 manĝ: to eat
-mar: sea
-maten: morning
+mar: теңіз
+maten: таң; таңертең
 memor: to remember
 met: to put
 mez: middle
-milit: war
+milit: соғыс
 minut: minute
 mir: to wonder
 moment: moment
-mon: money
-mont: mountain
+mon: ақша
+mont: тау
 montr: to show
 mort: to die
 mov: to move
@@ -171,18 +171,18 @@ muzik: music
 nask: to give birth
 natur: nature
 neces: to need
-nokt: night
+nokt: түн
 nom: name
 not: note
-nov: new
+nov: жаңа
 odor: smell
 oft: often
 okaz: to happen
-okul: eye
-onkl: uncle
+okul: көз
+onkl: ағай
 opini: opinion
 ord: to order
-orel: ear
+orel: құлақ
 pac: peace
 pag: to pay
 pan: bread
@@ -204,7 +204,7 @@ plan: to plan
 plaĉ: to be pleasing
 plen: full
 polic: police
-pord: door
+pord: есік
 port: to carry
 pov: can
 pren: to take 
@@ -227,19 +227,19 @@ rest: to remain
 ricev: to receive
 rid: to laugh
 rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
+riĉ: бай
+rol: рөл
+ruĝ: қызыл
 salt: to jump
-salut: hello
+salut: сәлем
 sam: same
 san: healthy
 saĝ: wise
 sci: to know
 sek: dry
-sekret: secret
+sekret: құпия
 sekv: to follow
-semajn: week
+semajn: апта
 send: to send
 serĉ: to search
 si: reflexive pronoun
@@ -247,8 +247,7 @@ sid: to sit
 silent: silent
 simil: similar
 sinjor:
-- gentleman
-- Mr.
+- мырза
 situaci: sitation
 skrib: to write
 sol: alone
@@ -259,14 +258,14 @@ star: to stand
 strat: street
 subit: suddenly
 sufiĉ: sufficient
-sukces: success
-sun: sun
+sukces: табыс
+sun: күн
 supr: above
 tabl: table 
-tag: day
-te: tea
+tag: күн
+te: шай
 telefon: phone
-temp: time
+temp: уақыт
 temperatur: temperature
 ten: hold
 teror: terror
@@ -277,32 +276,32 @@ trink: to drink
 trov: to find
 turk: Turkish
 tuŝ: to touch
-urb: city
+urb: қала
 util: useful
 uz: to use
 vagon: coach
 varm: warm
 ven: come
 vend: to sell
-Veneci: Venice
+Veneci: Венеция
 ver: 'true'
 vesper: evening
 vest: to dress
 vetur: to travel
 vid: to see
-vin: wine
+vin: шарап
 vir: man
 viv: to live
 vizaĝ: face
 vizit: to visit
-voj: way
-vojaĝ: journey
+voj: жол
+vojaĝ: сапар
 vok: to call
 vol: want
-vort: word
-voĉ: voice
+vort: сөз
+voĉ: дауыс
 zorg: care
-ĉambr: room
+ĉambr: бөлім
 ĉef: boss
 ĝen:
 - to distrub
@@ -314,4 +313,4 @@ zorg: care
 ŝajn: seem
 ŝanĝ: to change
 ŝat: to like
-ŝip: ship
+ŝip: кеме

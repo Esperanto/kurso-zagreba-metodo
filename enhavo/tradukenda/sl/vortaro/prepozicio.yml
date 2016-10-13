@@ -1,60 +1,45 @@
-al: 
-- k
-- ka
-- prema
-anstataŭ: umjesto
-antaŭ:
-- prije
-- ispred
-apud: pored
+al: k
+anstataŭ: namesto
+antaŭ: pred
+apud: poleg
 da: od
 de: od
-dum: 
-- dok
-- za vrijeme
+dum: med
 ekde: od
-ekster: izvan
-el:
+ekster: izven
+el: 
 - iz
 - od
-en: u
-inter: 
-- između
-- među
-je:
+en: v
+inter: med
+je: 
 - od
 - s
-- u
-- (neodređeni prijedlog)
+- v
+- (nedoločeni predlog)
 kontraŭ: 
-- nasuprot
-- protiv
-krom: osim
-kun: s
-laŭ: 
-- prema
-- po
-per: 
-- pomoću
+- nasproti
+- proti
+krom: razne
+kun:
 - s
+- z
+laŭ: po
+per:
+- s
+- z
 por: za
 post: 
-- nakon
-- iza
+- nato
+- potem
 pri: o
-pro: 
-- zbog
-- radi
-sen: bez
-sub:
-- pod
-- ispod
-super: 
-- nad
-- iznad
+pro: - zaradi
+sen: brez
+sub: pod
+super: nad
 sur: na
-tra: kroz
-trans: preko
-ĉe: kod
-ĉirkaŭ: oko
+tra: skozi
+trans: čez
+ĉe: pri
+ĉirkaŭ: okoli
 ĝis: do

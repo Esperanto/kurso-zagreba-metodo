@@ -1,23 +1,23 @@
 - 
-  demando: Who is your girl-friend?
+  demando: Кто твоя подруга?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Кто
+    - estas: есть
+    - via: твоя
+    - amikino: подруга
     - '?'
 - 
   demando: Is your friend Anna now writing in the room?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - Ĉu: вопросительная частица
+    - via: Ваша, твоя
+    - amikino: подруга
+    - Anna: Анна
+    - skribas: пишет
+    - nun: сейчас
+    - en: в
+    - la: эта, это 
+    - ĉambro: комната
     - '?'
 - 
   demando: Does the friend of your father work in a hotel?

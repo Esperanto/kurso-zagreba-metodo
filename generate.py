@@ -179,6 +179,7 @@ lingvoj = [
   ('hr', u'(test: kroata)'),
   ('hu', u'(test: hungara)'),
   ('id', u'(test: indonezia)'),
+  ('kk', u'(test: kazaĥa)'),
   ('km', u'(test: kmera)'),
   ('ko', u'(test: korea)'),
   ('lo', u'(test: laosa)'),

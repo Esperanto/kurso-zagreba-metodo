@@ -1,8 +1,8 @@
-ant: aktivni particip sadašnjeg vremena
-int: aktivni particip prošlog vremena
-ont: aktivni particip budućeg vremena
+ant: aktivni particip sedanjega časa
+int: aktivni particip preteklega časa
+ont: aktivni particip prihodnjega časa
 unt: aktivni particip kondicionala
-at:  pasivni particip sadašnjeg vremena
-it:  pasivni particip prošlog vremena
-ot:  pasivni particip budućeg vremena
+at:  pasivni particip sedanjega časa
+it:  pasivni particip preteklega časa
+ot:  pasivni particip prihodnjega časa
 ut:  pasivni particip kondicionala

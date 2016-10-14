@@ -1,68 +1,69 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: Ali se bova videla spet, vseeno, kjer koli in kadar koli?
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: Ali
+    - nin: (zaimek midva)
+    - revidos: se bova videla
+    - denove: spet
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - tamen: vseeno
+    - kie: kjer
+    - ajn: koli
+    - kaj: in
+    - kiam: kadar
+    - ajn: koli
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: Kdaj bom dobil nazaj drugo polovico knjig?
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: Kdaj
+    - mi: (zaimek jaz) 
+    - rericevos: bom dobil nazaj
+    - la: (člen)
+    - alian: drugo
+    - duonon: polovico
+    - de: (predlog od)
+    - la: (člen)
+    - libroj: knjig
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: Ali boš potreboval več kot četrt leta za ta dela?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: Ali
+    - vi: (zaimek ti)
+    - bezonos: boš potreboval
+    - pli: več
+    - ol: kot
+    - kvaronan: četrt
+    - jaron: leta
+    - por: za
+    - tiuj: ta
+    - laboroj: dela
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: Zakaj je toliko bolj mrzlo, koliko bolj dolgo čakamo? 
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: Zakaj
+    - estas: je
+    - des: toliko
+    - pli: bolj
+    - malvarma: hladno
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: koliko
+    - pli: bolj
+    - longe: dolgo
+    - ni: (zaimek mi)
+    - atendas: čakamo
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: Ali bi bila srečna s katerim koli moškim?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: Ali
+    - vi: (zaimek ti)
+    - estus: bi bila
+    - kontenta: srečna
+    - kun: z
+    - iu: katerim
+    - ajn: koli
+    - viro: moškim
     - '?'

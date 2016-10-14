@@ -1,75 +1,78 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: Kaj bi lahko najbolj razveselilo tvoje starše?
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: Kaj
+    - povus: bi lahko
+    - plej: najbolj
+    - ĝojigi: razveselilo
+    - viajn: tvoje
+    - gepatrojn: starše
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: Ko bi le hotel po učenju z menoj iti v mesto!
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
+    - Se: Če
     - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - volus: bi hotel
+    - post: po
+    - la: (člen) 
+    - lernado: učenju
+    - kun: z
+    - mi: menoj 
+    - iri: iti
+    - en: v
+    - la: (člen) 
+    - urbo
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: Kam bi želeli potovati, če bi imeli dovolj denarja in časa?
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: Kam
+    - vi: (zaimek vi)
+    - dezirus: bi želeli
+    - vojaĝi: potovati
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: če
+    - vi: (zaimek vi)
+    - havus: bi imeli
+    - sufiĉe: dovolj
+    - da: (predlog da)
+    - mono: denarja
+    - kaj: in
+    - tempo: časa
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: Ali načrtujete z avtomobilom potovati v Pariz; ali se vam ne zdi, da je bolje potovati z vlakom?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
+    - Ĉu: Ĉu
+    - vi: (zaimek vi)
+    - planas: načrtujete
+    - per: z
+    - aŭto: avtom
+    - vojaĝi: potovati
+    - al: v
     - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - ';'
+    - aŭ: ali
+    - ne: ne
+    - ŝajnas: se zdi
+    - vin: vam
+    - ','
+    - ke: da
+    - estas: je
+    - pli bone: bolje
+    - vojaĝi: potovati
+    - per: z
+    - vagonaro: vlakom
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: Zakaj iste ideje različni ljudje pojasnjujejo na različne načine? 
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: Zakaj 
+    - samajn: enake
+    - ideojn: ideje
+    - diversaj: različni
+    - homoj: ljudje
+    - klarigas: pojasnjujejo
+    - diversmaniere: na različne načine 
     - '?'

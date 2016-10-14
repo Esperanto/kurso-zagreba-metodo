@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Ali lahko prinesete zdravilo moje sestre?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: Ali
+    - vi: (zaimek vi)
+    - povas: lahko
+    - kunporti: prinesete
+    - la: (člen)
+    - sanigilon: zdravilo
+    - de: (predlog od)
+    - mia: moje
+    - fratino: sestre
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: Kdaj ste kupili ta glasbeni inštrument?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Kdaj
+    - vi: vi (zaimek vi)
+    - aĉetis: ste kupili
+    - tiun: ta
+    - muzikilon: glasbeni inštrument
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: Kdo je nazadnje uporabljal moj ključ?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Kdo
+    - uzis: je uporabljal
+    - laste: nazadnje
+    - mian: moj
+    - ŝlosilon: ključ
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Ali ste se vozili v Benetkah tudi z gondolo?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: Ali
+    - vi: (zaimek vi)
+    - veturis: ste se vozili
+    - en: v
+    - Venecio: Benetkah
+    - ankaŭ: tudi
+    - per: z
+    - gondolo: gondolo
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Ali ste lahko zaspali, ko je vse utihnilo?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: Ali
+    - vi: (zaimek vi)
+    - povis: ste lahko
+    - ekdormi: zaspali
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: ko 
+    - silentiĝis: je vse utihnilo
     - '?'

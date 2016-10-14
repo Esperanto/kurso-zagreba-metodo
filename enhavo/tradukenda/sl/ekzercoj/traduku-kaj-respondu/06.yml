@@ -60,7 +60,7 @@
     - bonfarulo: dobričina
     - '?'
 - 
-  demando: Ali ti je bila koristna knjižica, ki sem ti jo poslal včeraj?
+  demando: Ali ti je bila koristna knjižica, ki sem ti jo poslal predvčerajšnjim?
   rektatraduko: 
     - Ĉu: Ali
     - estis: je bila
@@ -73,5 +73,6 @@
     - kiun: ki
     - mi: (zaimek jaz) 
     - sendis: sem jo poslal
+    - pred: antaŭ
     - hieraŭ: včeraj
     - '?'

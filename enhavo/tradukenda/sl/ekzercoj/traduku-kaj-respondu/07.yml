@@ -1,77 +1,96 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
+  demando: Ali bo pošta v vaši ulici, ki ste jo čakali dve leti, kmalu odprta?
   rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+    - Ĉu: Ali
+    - estos: bo
+    - la: (člen)
+    - posteĵo: pošta
+    - en: v
+    - via: vaši
+    - strato: ulici
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
-    - '?'
-- 
-  demando: Do you want me to show you the photo which is dearest to me?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+    - kiun: ki
+    - vi: (zaimek vi)
+    - atendis: jo čakate
+    - pli: več
+    - ol: kot
+    - du: dve
+    - jarojn: leti
     - ','
-    - ke: that
-    - mi: I
-    - montras: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - baldaŭ
+    - malfermos?
     - '?'
 - 
-  demando: Where did you buy that garment?
+  demando: Ali želiš, da ti pokažem svojo najljubšo fotografijo?
+  rektatraduko: 
+    - Ĉu: Ali
+    - vi: (zaimek vi)
+    - volas: želiš
+    - ','
+    - ke: da
+    - mi: (zaimek jaz)
+    - montras: pokažem
+    - al: (predlog k) 
+    - vi: ti
+    - mian: mojo
+    - plej karan: najljubšo
+    - foton: fotografijo
+    - '?'
+- 
+  demando: Kje ste kupili to obleko?
+  rektatraduko: 
+    - Kie: Kje
+    - vi: (zaimek vi)
+    - aĉetis: ste kupili
+    - tiun: to
+    - vestaĵon: obleko
+    - '?'
+- 
+  demando: Kam boš odšel v nedeljo, če bo sončen dan?
+  rektatraduko: 
+    - Kien: Kam
+    - vi: (zaimek vi)
+    - iros: boš odšel
+    - dimanĉe: v nedeljo
+    - ',' 
+    - se: če
+    - estos: bo
+    - suna: sončen
+    - tago: dan
+    - '?'
+- 
+  demando: Ali je tvoj brat žalosten, ali se jezi; ves dan se ni
+ niti nasmejal niti zapel z nami?
+  rektatraduko: 
+    - Ĉu: Ali
+    - estas: je
+    - via: tvoj
+    - frato: brat
+    - malĝoja: žalosten
+    - aŭ: ali
+    - li (zaimek on)
+    - estas: je
+    - koleras: se jezi;
+    - ĉiun: ves
+    - tagon: dan
+    - nek: niti
+    - ekridis: se ni nasmejal
+    - nek: niti
+    - ekkantis: ni zapel
+    - kun: z
+    - ni: nami
+    - '?'
+- 
+  demando: Kje si pustil vodo, ki si jo sam prinesel?
   rektatraduko: 
     - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
-    - '?'
-- 
-  demando: Where will you go on Sunday if it is a sunny day?
-  rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+    - vi: (zaimek ti)
+    - lasis: si pustil
+    - la: (člen)
+    - akvo: vodo
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
-    - '?'
-- 
-  demando: Did your brother already leave?
-  rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
-    - '?'
-- 
-  demando: Where is the water which you have brought yourself?
-  rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
-    - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: ki
+    - vi: (zaimek ti)
+    - mem: sam
+    - kunportis: si jo prinesel
     - '?'

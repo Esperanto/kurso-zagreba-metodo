@@ -7,13 +7,18 @@
     - ',' 
     - ke: da 
     - mi: (zaimek jaz)
+    - hodiaŭ: danes
     - montras: pokažem
     - al: (predlog k)
     - vi: tebi
     - mian: mojo
     - plej: najbolj
     - novan: novo
-    - libron: knjigo 
+    - libron: knjigo
+    - pri: o
+    - malsanoj: boleznih
+    - de: (predlog od)
+    - infanoj: otrok
     - '?'
 - 
   demando: Kaj želiš jutri za zajtrk?
@@ -22,14 +27,14 @@
     - vi: (zaimek ti)
     - volas: želiš
     - morgaŭ: jutri
-    - matenmanĝi: za zajtrk
+    - matenmanĝi: za zajtrk (zajtrkovati)
     - '?'
 - 
   demando: Ali veš, kdaj pride Marko, ali ob petih ali ob osmih?
   rektatraduko: 
     - Kiam: Kdaj
     - Marko: Marko
-    - alvenos: pride
+    - alvenas: pride
     - ',' 
     - je: ali
     - la: (člen)
@@ -38,7 +43,6 @@
     - je: ob
     - la: (člen)
     - oka: osmi
-    - horo: uri
     - '?'
 - 
   demando: Kdaj ste opazili, da me vsa družina kliče dobričina?
@@ -56,17 +60,18 @@
     - bonfarulo: dobričina
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Ali ti je bila koristna knjižica, ki sem ti jo poslal včeraj?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Ali
+    - estis: je bila
+    - utila: koristna
+    - al: (zaimek k)
+    - vi (zaimek ti)
+    - la : (člen) 
+    - libreto: knjižica
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: ki
+    - mi: (zaimek jaz) 
+    - sendis: sem jo poslal
+    - hieraŭ: včeraj
     - '?'

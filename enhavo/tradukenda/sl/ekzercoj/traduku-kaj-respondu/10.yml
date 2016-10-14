@@ -1,51 +1,61 @@
 - 
-  demando: Does friendship make you more happy than love does?
+  demando:  Ali te prijateljstvo bolj osrečuje kakor ljubezen? 
   rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+    - Ĉu: Ali
+    - vi: te
+    - amikeco: prijateljstvo
+    - pli: bolj
+    - feliĉigas: osrečuje
+    - ol: kot
+    - la: (člen)
+    - amo: ljubezen
     - '?'
 - 
-  demando: How often do you write letters to your girlfriends in Italy?
+  demando:  Kako pogosto pišeš pisma svojim prijateljicam v Italiji in Etiopiji? 
   rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
+    - Kiel: Kako
+    - ofte: pogosto
+    - vi: (zaimek ti)
+    - skribas: pišeš
+    - leterojn: pisma
+    - al: (predlog k)
+    - viaj: svojim
+    - amikinoj: prijateljicam
+    - en: v
     - Italio: Italy
+    - kaj: in
+    - Etiopio
     - '?'
 - 
-  demando: Has the relationship between you and your teacher changed?
+  demando: Ali se je spremenil odnos med tabo in tvojim učiteljem, ali je ostal isti? 
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+    - Ĉu: Ali
+    - ŝanĝiĝis: se je sprmenil
+    - la: (člen)
+    - rilato: odnos
+    - inter: med
+    - vi: tabo
+    - kaj: in
+    - via: tvojim
+    - instruisto: učiteljem
+    - aŭ: ali
+    - restis: je ostal
+    - la: (člen)
+    - sama: enak
     - '?'
 - 
-  demando: Do you now already know Esperanto well enough?
+  demando: Ali sedaj že dovolj dobro znate esperanto, tako da ga lahko sami uporabljate?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - Ĉu: Ali
+    - vi: (zaimek vi)
+    - nun: sedaj
+    - jam: že
+    - sufiĉe: dovolj
+    - bone: dobro
+    - scias: znate
+    - Esperanton: esperanto
+    - por ke: tako da
+    - vi: (zaimek vi)
+    - povas: lahko
+    - uzi: uporabljate    
     - '?'

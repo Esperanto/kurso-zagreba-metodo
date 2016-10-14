@@ -1,86 +1,93 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: Kdo bo očistil kuhinjo po kosilu?
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: Kdo
+    - purigos: bo očistil
+    - la: (člen)
+    - kuirejon: kuhinjo
+    - post: po
+    - la: (člen)
+    - tagmanĝo: kosilu
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: Kaj želite piti; ali čaj, malo kave, kozarec vode, ali ne boste nič?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: Kaj
+    - vi: (zaimek vi)
+    - deziras: želite
+    - trinki: piti
     - ':' 
+    - ĉu: ali
     - teon: tea
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
-    - '?'
-- 
-  demando: Why did you so suddenly decide to renovate your small room?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
-    - '?'
-- 
-  demando: To whom did you give the clean wine glasses?
-  rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
-    - '?'
-- 
-  demando: Against whom did your sports club play two weeks ago?
-  rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
-    - '?'
-- 
-  demando: Do you often see the policeman who is living in the appartment above you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - iom: malo
+    - da: (predlog da)
+    - kafo: kave
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - glaso: kozarec
+    - da: (predlog da) 
+    - akvo: vode
+    - aŭ: ali
+    - ne: ne
+    - estos: boste
+    - nič: nenion
+    - '?'
+- 
+  demando: Zaradi česa si se tako nenadoma odločil obnoviti svojo sobico in kupiti nekaj dragih knjig?
+  rektatraduko: ial vi tiel subite decidas renovigi lian ĉambreton kaj aĉeti iuj valoraj libroj?
+    - Kial: Zakaj
+    - vi: (zaimek ti)
+    - tiel: tako
+    - subite: nenadoma
+    - decidis: si se odločil
+    - renovigi: obnoviti
+    - vian: svojo
+    - ĉambreton: sobico
+    - kaj: aĉeti
+    - iuj: nekaj
+    - valoraj: dragih
+    - libroj: knjig
+    - '?'
+- 
+  demando: Kam si postavil čiste kozarce za vino??
+  rektatraduko: 
+    - Kiam: Kam
+    - vi: (zaimek ti)
+    - metis: si postavil
+    - la: (člen)
+    - purajn: čiste
+    - glasojn: kozarce
+    - por: za 
+    - la: (člen)
+    - vino: vino
+    - '?'
+- 
+  demando: S kom je igral tvoj športni klub pred dvema tednoma? 
+  rektatraduko: 
+    - Kun: S
+    - kiu: kom
+    - ludis: je igral
+    - via: tvoj
+    - sportklubo: športni klub
+    - antaŭ: pred
+    - du: dvema
+    - semajnoj: tednoma
+    - '?'
+- 
+  demando: Ali pogosto videvaš policista, ki stanuje v stanovanju nad tvojim? 
+  rektatraduko: 
+    - Ĉu: Ali
+    - vi: (zaimek ti)
+    - ofte: pogosto
+    - vidadas: videvaš
+    - la: (člen)
+    - policiston: policista
+    - ',' 
+    - kiu: ki
+    - loĝas: stanuje
+    - en: v 
+    - la: (člen)
+    - loĝejo: stanovanju
+    - super: nad
+    - vian: tvojim
     - '?'

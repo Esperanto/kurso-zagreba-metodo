@@ -33,7 +33,7 @@
   rektatraduko: 
     - Kien: Kam
     - vi: (zaimek ti)
-    - iros: greš (boš šel)
+    - iras: greš
     - post: po
     - la: (člen)
     - tagmanĝo: kosilu
@@ -42,7 +42,7 @@
   demando: Ali lahko zapremo vrata sobe, če nam bo hladno?
   rektatraduko: 
     - Ĉu: Ali
-    - oni: (nedoločni člen)
+    - ni: (zaimek mi)
     - povas: lahko 
     - fermi: zapremo
     - la: (člen)
@@ -51,7 +51,8 @@
     - la: (člen)
     - ĉambro: sobe
     - ','
-    - kiam: če
+    - se: če
+    - ni: (zaimek mi)
     - estos: nam bo
     - malvarme: hladno
     - '?'
@@ -64,10 +65,9 @@
     - koleras: se jeziš
     - ','
     - se: ko
-    - oni: (nedoločni člen)
+    - de: (predlog od)
     - vi: ti
     - forprenas: vzamejo
-    - de: (zaimek od)
     - multan: veliko
     - monon: denarja
     - '?'

@@ -8,8 +8,7 @@
     - trankvile: mirno
     - lerni: učiš
     - ','
-    - kiam: ko ?????
-    - dum: ko
+    - kiam: ko
     - iu: nekdo
     - ĝoje: veselo
     - kantas: prepeva
@@ -32,20 +31,19 @@
   demando: Koliko je ura?
   
   rektatraduko: 
-    - Kioma: koliko
+    - Kiom: koliko
     - estas: je
     - horo: ura
-    - nun: (sedaj)
     - '?'
 -
   demando: Ali ti je kdo pomagal odpreti vrata stare hiše?
  
   rektatraduko: 
-    - Ĉu: Ali ti je
+    - Ĉu: Ali
+    - al: (predlog k)
+    - vi: ti
     - iu: kdo 
     - helpis:  pomagal
-    - al: (zaimek k) 
-    - vi: (zaimek tebi) 
     - malfermi: odpreti 
     - la: (člen) 
     - pordon: vrata 
@@ -60,11 +58,10 @@
   rektatraduko: 
     - Kial: Zakaj
     - vi: (zaimek vi)
-    - ne: (nikalnica)
-    - havas: nimaš (zanikano)
+    - ne havas: nimaš
     - tempon: časa
-    - aŭskulti: poslušati
     - al: (predlog k)
     - mi: mene
     - pli longe: dlje
+    - aŭskulti: poslušati
     - '?'

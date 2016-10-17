@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Szeretnéd, hogy megmutassam neked éa legújabb könyvemet?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: Vajon
+    - vi: te
+    - deziras: kiván, óhajt, szeretne
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: hogy 
+    - mi: én
+    - montras: mutat
+    - al: -nak
+    - vi: te
+    - mian: enyémet
+    - plej: leg -bb
+    - novan: újat
+    - libron: könyvet
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Mit akarsz holnap reggelizni?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Mit
+    - vi: te
+    - volas: akarsz
+    - morgaŭ: holnap
+    - matenmanĝi: reggelizni
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: Mikor érkezik Márk ót órakor vagy hat órakor?
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: Mikor
+    - Marko: Márk
+    - alvenos: fog érkezni
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: -kor
+    - la: a, az
+    - kvina: ötödik
+    - aŭ: vagy
+    - je: -kor
+    - la: a, az
+    - oka: nyolcadik
+    - horo: óra
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Mikor vetetd észre, hogy az egész család jótevőnek hív engem?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Mikor
+    - vi: te
+    - rimarkis: észrevetted
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: hogy
+    - la: az
+    - tuta: egész
+    - familio: család
+    - nomas: hív/nevez
+    - min: engem
+    - bonfarulo: jótevő
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Hasznos volt-e neked/számodra a könyvecske, amit küldtem?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Vajon
+    - la: a, az 
+    - libreto: könyvecske
+    - estis: volt
+    - utila: hasznos
+    - al: -nak
+    - vi: te
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: amit/amelyet
+    - mi: én 
+    - sendis: küldött
     - '?'

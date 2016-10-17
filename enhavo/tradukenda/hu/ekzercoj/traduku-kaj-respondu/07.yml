@@ -1,77 +1,77 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
+  demando: Kinél volt a könyv, amit több, mint két évig vártál?
   rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+    - Kiu: Ki
+    - havis: volt valamije/birtokolta
+    - la: a, az
+    - libron: könyvet
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
+    - kiun: amelyet/amelyiket
+    - vi: te
+    - atendis: vártál
+    - pli: -bb/ több
+    - ol: mint
+    - du: két
+    - jarojn: éveket
     - '?'
 - 
-  demando: Do you want me to show you the photo which is dearest to me?
+  demando: Akarod-e, hogy megmutassam neked az én legkedvesebb fényképemet?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+    - Ĉu: Vajon
+    - vi: te
+    - volas: akar
     - ','
-    - ke: that
-    - mi: I
-    - montras: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - ke: hogy
+    - mi: én
+    - montras: mutat
+    - al: -nak 
+    - vi: te
+    - mian: enyémet
+    - plej: leg -bb
+    - karan: kedveset
+    - foton: fényképet
     - '?'
 - 
-  demando: Where did you buy that garment?
+  demando: Hol vetted ezt a ruhát?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+    - Kie: Hol
+    - vi: te
+    - aĉetis: vetted
+    - tiun: ezt a
+    - vestaĵon: ruhát
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
+  demando: Hová mész vasárnap, ha napos idő lesz?
   rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+    - Kien: Hová
+    - vi: te
+    - iros: fog menni
+    - dimanĉe: vasárnap
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: ha
+    - estos: lesz
+    - suna: napos
+    - tago: nap
     - '?'
 - 
-  demando: Did your brother already leave?
+  demando: A testvéred már elindult?
   rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+    - Ĉu: Vajon
+    - via: tiéd
+    - frato: testvér
+    - jam: már
+    - ekiris: elindult
     - '?'
 - 
-  demando: Where is the water which you have brought yourself?
+  demando: Hol van a víz, amit magad hoztál?
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+    - Kie: Hol
+    - estas: van
+    - la: a, az
+    - akvo: víz
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: amit/ amelyet
+    - vi: te
+    - mem: maga
+    - kunportis: hozott/ magával hozott
     - '?'

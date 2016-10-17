@@ -1,65 +1,65 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: Nyugodtan tudsz tanulni, amíg valaki vidáman énekel?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: Vajon
+    - vi: te
+    - povas: tud
+    - trankvile: nyugodtan
+    - lerni: tanulni
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: mialatt/miközben/amíg
+    - iu: valaki
+    - ĝoje: vidáman
+    - kantas: énekel
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Ki tudja mikor és hol fogjuk viszontlátni egymást?
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Ki
+    - scias: tudja
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: mikor 
+    - kaj: és
+    - kie: hol
+    - ni: mi
+    - revidos: újra fog látni
+    - nin: magunkat/egymást
     - '?'
 -
-  demando: What time is it now?
+  demando: Hány óra van most?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: Hányadik
+    - horo: óra
+    - estas: van 
+    - nun: most
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Segített neked valaki kinyitni a régi ház ajtaját?
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: Vajon
+    - iu: valaki 
+    - helpis: segített
+    - al: -nak 
+    - vi: te 
+    - malfermi: kinyitni 
+    - la: a, az 
+    - pordon: ajtót 
+    - de: -nak a
+    - la: a, az
+    - malnova: régi
+    - domo: ház
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Miért nincs időd több ideig hallgatni/figyelni rám? 
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - al: to
-    - mi: me
-    - pli: more
-    - longe: long
+    - Kial: Miért
+    - vi: te
+    - ne: nem
+    - havas: van valamije/birtokol
+    - tempon: időt
+    - aŭskulti: hallgatni
+    - al: -hoz/-nak
+    - mi: én
+    - pli: -bb
+    - longe: hosszan/sokáig
     - '?'

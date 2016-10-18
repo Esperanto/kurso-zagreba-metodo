@@ -91,8 +91,6 @@ def load(language):
         
         leciono['teksto']['titolo_string'] = titolo_string
 
-
-
         leciono['vortoj'] = {}
         leciono['vortoj']['teksto'] = []
         leciono['vortoj']['pliaj'] = []

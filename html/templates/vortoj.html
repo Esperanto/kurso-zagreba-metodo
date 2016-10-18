@@ -20,9 +20,8 @@
   </h2>
 
   {% include 'tabs.html' %}
-
 	<ul>
-		{% for radiko in leciono.vortoj -%} 
+		{% for radiko in leciono.vortoj.teksto -%} 
 			<li>
 				{% if radiko|lower in enhavo.vortaro -%}
 					{% set klavo = radiko|lower %}

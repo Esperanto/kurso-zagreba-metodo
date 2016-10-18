@@ -93,14 +93,15 @@ def load(language):
 
 
 
-        leciono['vortoj'] = []
+        leciono['vortoj'] = {}
+        leciono['vortoj']['teksto'] = []
 
         for paragrafo in leciono['teksto']['paragrafoj']:
             for vorto in paragrafo:
                 if type(vorto) is list:
                     for radiko in vorto:
                         if not radiko.lower() in vortoj:
-                            leciono['vortoj'].append(radiko)
+                            leciono['vortoj']['teksto'].append(radiko)
                             vortoj[radiko.lower()] = True
 
         path = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.md'

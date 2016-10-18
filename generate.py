@@ -95,6 +95,10 @@ def load(language):
 
         leciono['vortoj'] = {}
         leciono['vortoj']['teksto'] = []
+        leciono['vortoj']['pliaj'] = []
+
+        path = 'enhavo/netradukenda/vortoj/' + i_padded + '.yml'
+        leciono['vortoj']['pliaj'] = yaml.load(file(path, 'r'))
 
         for paragrafo in leciono['teksto']['paragrafoj']:
             for vorto in paragrafo:

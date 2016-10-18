@@ -20,6 +20,12 @@
   </h2>
 
   {% include 'tabs.html' %}
+
+	<h3>
+		<!--	{{enhavo.fasado['Sufiksoj']}} -->
+		En la teksto
+	</h3>
+
 	<ul>
 		{% for radiko in leciono.vortoj.teksto -%} 
 			<li>
@@ -39,6 +45,30 @@
 		{% endfor %}
 	</ul>
 	
+	<h3>
+		<!--	{{enhavo.fasado['Sufiksoj']}} -->
+		Pliaj
+	</h3>
+	
+	<ul>
+		{% for radiko in leciono.vortoj.pliaj -%} 
+			<li>
+				{% if radiko|lower in enhavo.vortaro -%}
+					{% set klavo = radiko|lower %}
+					<em>{{radiko|lower}}</em> 
+				{% elif radiko in enhavo.vortaro -%}
+					{% set klavo = radiko %}
+					<em>{{radiko}}</em> 
+				{% else -%}
+					{% set klavo = '' %}
+					<em>{{radiko}}</em> 
+				{% endif %} 
+				– 
+				{% include 'tradukajxo.html' %}
+			</li>
+		{% endfor %}
+	</ul>
+
   {% include 'pager.html' %}
 
 {% endblock %}

@@ -22,7 +22,7 @@
   {% include 'tabs.html' %}
 
 	<h3>
-	  {{enhavo.fasado['En la teksto']}}
+	  {{ enhavo.fasado['En la teksto'] | default('', true) }}
 	</h3>
 
 	<ul>
@@ -45,7 +45,7 @@
 	</ul>
 	
 	<h3>
-		{{enhavo.fasado['Pliaj']}}
+	  {{ enhavo.fasado['Pliaj'] | default('', true) }}
 	</h3>
 	
 	<ul>

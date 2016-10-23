@@ -1,32 +1,40 @@
 aŭskult: 
-divers: 
-ekzempl: 
-glas: 
-infan: 
-inform: 
-kant: 
-kien: 
-konsent: 
-lingv: 
-loĝ: 
+- hören
+- zuhören
+divers: verschieden
+ekzempl: Beispiel
+glas: Glas
+infan: Kind
+inform: informieren
+kant: singn
+kien: wohin
+konsent: zustimmen
+lingv: Sprache
+loĝ: wohne
 manier: 
-monat: 
-mond: 
-naci: 
-organiz: 
-plor: 
-pluv: 
-poŝ: 
-poŝt: 
-proksimum: 
-publik: 
-punkt: 
-pur: 
-rakont: 
-rimark: 
-seĝ: 
-sia: 
-simpl: 
-terur: 
-tut: 
-universal: 
+- Art
+- Weise
+monat: Monat
+mond: Welt
+naci: Nation
+organiz: organisieren
+plor: weinen
+pluv: regnen
+poŝ: Tasche
+poŝt: Post
+proksimum: ungefähr
+publik: öffentlich
+punkt: Punkt
+pur: sauber
+rakont: erzählen
+rimark: bemerken
+seĝ: Stuhl
+sia: sein
+simpl:
+- einfach
+- simpel
+terur: schrecklich
+tut: ganz
+universal:
+- allgemein
+- universell

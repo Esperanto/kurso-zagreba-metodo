@@ -33,11 +33,11 @@
     - hotelo: hotel
     - '?'
 - 
-  demando: Apa yang ada di atas meja kerja di ruangan kami?
+  demando: Apa yang ada pada meja kerja di ruangan kami?
   rektatraduko:
     - Kio: Apa 
     - estas: adalah
-    - sur: di atas
+    - sur: pada
     - la: (kata sandang)
     - labortablo: meja kerja
     - en: di
@@ -45,7 +45,7 @@
     - ĉambro: ruangan
     - '?'
 - 
-  demando: Apakah buku pelajaran Esperanto ada di atas mejamu?
+  demando: Apakah buku pelajaran Esperanto ada pada mejamu?
   rektatraduko:
     - Ĉu: Apakah
     - Esperanto-lernolibro: buku pelajaran Esperanto

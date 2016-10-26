@@ -1,10 +1,10 @@
 - 
-  demando: Apakah kamu bisa membawa obat milik saudara perempuanku?
+  demando: Apakah kamu bisa membawakan obat milik saudara perempuanku?
   rektatraduko: 
     - Ĉu: Apakah
     - vi: kamu
     - povas: bisa
-    - kunporti: membawa
+    - kunporti: membawakan
     - la: (kata sandang)
     - sanigilon: obat
     - de: dari
@@ -30,7 +30,7 @@
     - ŝlosilon: kunci
     - '?'
 - 
-  demando: Apakah kamu di Venesia bepergian juga menggunakan gondola?
+  demando: Apakah kamu di Venesia juga bepergian menggunakan gondola?
   rektatraduko: 
     - Ĉu: Apakah
     - vi: kamu
@@ -42,12 +42,12 @@
     - gondolo: gondola
     - '?'
 - 
-  demando: Apakah kamu akan bisa tidur ketika sunyi?
+  demando: Apakah kamu akan bisa tertidur ketika sunyi?
   rektatraduko: 
     - Ĉu: Apakah
     - vi: kamu
     - povos: akan bisa
-    - ekdormi: mulai tidur
+    - ekdormi: tertidur
     - ',' 
     - kiam: ketika 
     - silentiĝis: menjadi sunyi

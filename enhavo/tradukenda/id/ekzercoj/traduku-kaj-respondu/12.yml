@@ -26,7 +26,7 @@
     - libroj: buku-buku
     - '?'
 - 
-  demando: Apakah kamu akan membutuhkan lebih dari seperempat tahun untuk pekerjaan itu?
+  demando: Apakah kamu akan membutuhkan lebih dari seperempat tahun untuk pekerjaan-pekerjaan itu?
   rektatraduko: 
     - Ĉu: Apakah
     - vi: kamu
@@ -37,18 +37,18 @@
     - jaron: tahun
     - por: untuk
     - tiuj: itu
-    - laboroj: pekerjaan
+    - laboroj: pekerjaan-pekerjaan
     - '?'
 - 
-  demando: Mengapa semakin dingin semakin lama kami menunggu?
+  demando: Mengapa semakin dingin, semakin lama kami menunggu?
   rektatraduko: 
     - Kial: Mengapa
     - estas: adalah
-    - des: (kata sandang)
+    - des: semakin
     - pli: lebih
     - malvarma: dingin
     - ',' 
-    - ju: (kata sandang)
+    - ju: semakin
     - pli: lebih
     - longe: lama
     - ni: kami

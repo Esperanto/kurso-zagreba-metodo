@@ -1,5 +1,5 @@
 - 
-  demando: Apa yang paling bisa membuat orangtuamu senang?
+  demando: Apa yang paling bisa menyenangkan orangtuamu?
   rektatraduko: 
     - Kio: Apa
     - povus: bisa
@@ -9,9 +9,9 @@
     - gepatrojn: orangtua
     - '?'
 - 
-  demando: Jika setidaknya kamu ingin pergi ke pusat kota setelah pelajaran!
+  demando: Andai kamu setidaknya ingin pergi bersamaku ke pusat kota setelah pelajaran!
   rektatraduko: 
-    - Se: Jika
+    - Se: Andai
     - almenaŭ: setidaknya
     - vi: kamu
     - post: setelah
@@ -42,7 +42,7 @@
     - tempo: waktu
     - '?'
 - 
-  demando: Apakah kamu merencanakan bepergian ke Paris menggunakan mobil atau bukankah tampaknya lebih baik menggunakan kereta?
+  demando: Apakah kamu merencanakan bepergian ke Paris menggunakan mobil, atau bukankah sepertinya lebih baik menggunakan kereta?
   rektatraduko: 
     - Ĉu: Apakah
     - vi: kamu
@@ -55,7 +55,7 @@
     - aŭ: atau
     - ĉu: apakah
     - ne: tidak
-    - ŝajnas: tampaknya
+    - ŝajnas: sepertinya
     - multe: banyak
     - pli: lebih
     - bone: baik
@@ -63,13 +63,13 @@
     - vagonaro: kereta
     - '?'
 - 
-  demando: Mengapa macam-macam orang menjelaskan gagasan yang sama dengan cara berbeda?
+  demando: Mengapa macam-macam orang menjelaskan gagasan-gagasan yang sama dengan cara berbeda?
   rektatraduko: 
     - Kial: Mengapa
     - diversaj: macam-macam
     - homoj: orang-orang
     - klarigas: menjelaskan
     - samajn: sama
-    - ideojn: gagasan
+    - ideojn: gagasan-gagasan
     - diversmaniere: dengan cara berbeda 
     - '?'

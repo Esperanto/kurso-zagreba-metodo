@@ -3,7 +3,7 @@
   rektatraduko: 
     - Kiam: Kdaj
     - mi: (zaimek jaz)  
-    - revidos: te bom ponovno videl
+    - revidos: bom ponovno videl
     - vin: (zaimek tebe)
     - '?'
 -
@@ -15,7 +15,7 @@
     - lernas: se učite
     - la: (člen) 
     - Internacian: mednarodni
-    - Lingvon: jezik
+    - lingvon: jezik
     - '?'
 -
   demando: Kje je moja nova knjiga s fotografijami?
@@ -52,8 +52,8 @@
     - ĉambro: sobe
     - ','
     - se: če
-    - ni: (zaimek mi)
-    - estos: nam bo
+    - al ni: (zaimek nam)
+    - estos: bo
     - malvarme: hladno
     - '?'
 -
@@ -64,10 +64,10 @@
     - vi: (zaimek ti)
     - koleras: se jeziš
     - ','
-    - se: ko
+    - kiam: ko
     - de: (predlog od)
     - vi: ti
-    - forprenas: vzamejo
+    - oni prenas: vzamejo
     - multan: veliko
     - monon: denarja
     - '?'

@@ -6,27 +6,42 @@ infan: nen, nena
 inform: informar
 kant: cantar
 kien: on
-konsent: consentir 
-lingv: 
+konsent: 
+- consentir 
+- estar d'acord
+lingv: llengua
 loĝ: 
-manier: 
-monat: 
-mond: 
-naci: 
-organiz: 
-plor: 
-pluv: 
-poŝ: 
-poŝt: 
-proksimum: 
-publik: 
-punkt: 
-pur: 
+- viure
+- residir
+- habitar
+manier: manera
+monat: mes
+mond: món
+naci: nació
+organiz: organitzar
+plor: plorar
+pluv: ploure
+poŝ: butxaca
+poŝt: correu
+proksimum: aproximat
+publik: públic
+punkt: punt
+pur: net
 rakont: 
+- contar
+- narrar
+- explicar
 rimark: 
-seĝ: 
-sia: 
-simpl: 
-terur: 
-tut: 
-universal: 
+- notar
+- observar
+- percebre
+seĝ: seient
+sia: el seu (propi)
+simpl:
+- senzill
+- simple
+terur: terror
+tut:
+- sencer
+- tot
+universal: universal

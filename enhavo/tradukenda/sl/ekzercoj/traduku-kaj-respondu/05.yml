@@ -31,7 +31,7 @@
   demando: Koliko je ura?
   
   rektatraduko: 
-    - Kiom: koliko
+    - Kioma: koliko
     - estas: je
     - horo: ura
     - '?'
@@ -60,8 +60,7 @@
     - vi: (zaimek vi)
     - ne havas: nimaš
     - tempon: časa
-    - al: (predlog k)
-    - mi: mene
+    - min: mene
     - pli longe: dlje
     - aŭskulti: poslušati
     - '?'

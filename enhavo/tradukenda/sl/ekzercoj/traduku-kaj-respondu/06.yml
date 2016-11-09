@@ -8,7 +8,7 @@
     - ke: da 
     - mi: (zaimek jaz)
     - hodiaŭ: danes
-    - montras: pokažem
+    - montru: pokažem
     - al: (predlog k)
     - vi: tebi
     - mian: mojo
@@ -32,10 +32,14 @@
 - 
   demando: Ali veš, kdaj pride Marko, ali ob petih ali ob osmih?
   rektatraduko: 
-    - Kiam: Kdaj
+    - Ĉu: ali
+    - vi: (osebni zaimek ti)
+    - scias: veš
+    - kiam: kdaj
     - Marko: Marko
-    - alvenas: pride
-    - ',' 
+    - venas: pride
+    - ','
+    - ĉu: ali
     - je: ali
     - la: (člen)
     - kvina: ob peti
@@ -57,7 +61,7 @@
     - familio: družina
     - nomas: kliče
     - min: mene
-    - bonfarulo: dobričina
+    - bonulo: dobričina
     - '?'
 - 
   demando: Ali ti je bila koristna knjižica, ki sem ti jo poslal predvčerajšnjim?
@@ -66,13 +70,12 @@
     - estis: je bila
     - utila: koristna
     - al: (zaimek k)
-    - vi (zaimek ti)
-    - la : (člen) 
+    - vi: (zaimek ti)
+    - la: (člen) 
     - libreto: knjižica
     - ',' 
     - kiun: ki
     - mi: (zaimek jaz) 
     - sendis: sem jo poslal
-    - pred: antaŭ
-    - hieraŭ: včeraj
+    - predvčerajšnjim: antaŭhieraŭ
     - '?'

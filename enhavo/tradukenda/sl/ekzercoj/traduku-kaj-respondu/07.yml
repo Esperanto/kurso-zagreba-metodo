@@ -1,10 +1,11 @@
 - 
-  demando: Ali bo pošta v vaši ulici, ki ste jo čakali dve leti, kmalu odprta?
+  demando: Ali bo pošta v vaši ulici, ki ste jo čakali več kot dve leti, kmalu aktiva?
+  
   rektatraduko: 
     - Ĉu: Ali
     - estos: bo
     - la: (člen)
-    - posteĵo: pošta
+    - poŝtejo pošta
     - en: v
     - via: vaši
     - strato: ulici
@@ -17,19 +18,19 @@
     - du: dve
     - jarojn: leti
     - ','
-    - baldaŭ
-    - malfermos?
+    - baldaŭ: kmalu
+    - aktiva: aktivna
     - '?'
 - 
   demando: Ali želiš, da ti pokažem svojo najljubšo fotografijo?
   rektatraduko: 
     - Ĉu: Ali
     - vi: (zaimek vi)
-    - volas: želiš
+    - deziras: želiš
     - ','
     - ke: da
     - mi: (zaimek jaz)
-    - montras: pokažem
+    - montru: pokažem
     - al: (predlog k) 
     - vi: ti
     - mian: mojo
@@ -51,7 +52,7 @@
     - Kien: Kam
     - vi: (zaimek vi)
     - iros: boš odšel
-    - dimanĉe: v nedeljo
+    - dimanĉon: v nedeljo
     - ',' 
     - se: če
     - estos: bo
@@ -68,10 +69,9 @@
     - malĝoja: žalosten
     - aŭ: ali
     - li (zaimek on)
-    - estas: je
     - koleras: se jezi;
-    - ĉiun: ves
-    - tagon: dan
+    - ĉiutage: ves dan
+    - li: on
     - nek: niti
     - ekridis: se ni nasmejal
     - nek: niti
@@ -82,14 +82,14 @@
 - 
   demando: Kje si pustil vodo, ki si jo sam prinesel?
   rektatraduko: 
-    - Kie: Where
+    - Kie: Kje
     - vi: (zaimek ti)
     - lasis: si pustil
     - la: (člen)
-    - akvo: vodo
+    - akvon: vodo
     - ',' 
     - kiun: ki
     - vi: (zaimek ti)
     - mem: sam
-    - kunportis: si jo prinesel
+    - alportis: si jo prinesel
     - '?'

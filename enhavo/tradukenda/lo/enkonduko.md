@@ -1,12 +1,12 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
+- ສອນພຽງ **ຄຳສຳຄັນ 500 ຄໍາ** 
+- **ບໍ່ຕ້ອງມີການລົງທະບຽນ**: ພຽງແຕ່ຄລິກ *ເລີ່ມ*
 - **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- ບໍ່ມີຄ່າໃຊ້ຈ່າຍ, ແຕ່ຍັງສາມາດເຮັດໄດ້ຟຣີໃນ **[ໂຄງການອື່ນໆ](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-The course consists of **12 lessons**, each with
+ຫລັກສູດນີ້ມີ **12 ບົດ** ໂດຍປະກອບດ້ວຍ
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+- ຂໍ້ຄວາມ
+- ໄວຍະກອນ
+- ແບບຝຶກຫັດ 
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+ເມື່ອທ່ານສຳເລົດຫຼິກສູດນີ້ ທ່ານຈະເຂ້າໃຈສ່ວນທີ່ສຳຄັນຊອງພາສາແລະສາມາດສ້າງປະໂຫຍກທີ່ໃຊ້ໃນຊີວຶດປະຈຳວັນໄດ້ ອຍ່າຊ້າ..❗ ລອງໂລດ

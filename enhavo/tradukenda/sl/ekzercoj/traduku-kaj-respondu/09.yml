@@ -9,7 +9,7 @@
     - gepatrojn: starše
     - '?'
 - 
-  demando: Ko bi le hotel po učenju z menoj iti v mesto!
+  demando: Ko bi hotel po učenju z menoj iti v mesto!
   rektatraduko: 
     - Se: Če
     - vi: you
@@ -21,8 +21,7 @@
     - mi: menoj 
     - iri: iti
     - en: v
-    - la: (člen) 
-    - urbo
+    - urbo: mesto
     - '!'
 - 
   demando: Kam bi želeli potovati, če bi imeli dovolj denarja in časa?
@@ -36,7 +35,7 @@
     - vi: (zaimek vi)
     - havus: bi imeli
     - sufiĉe: dovolj
-    - da: (predlog da)
+    - de: (predlog od)
     - mono: denarja
     - kaj: in
     - tempo: časa
@@ -54,9 +53,8 @@
     - Parizo: Paris
     - ';'
     - aŭ: ali
-    - ne: ne
     - ŝajnas: se zdi
-    - vin: vam
+    - al vi: vam
     - ','
     - ke: da
     - estas: je

@@ -24,13 +24,11 @@
     - da: (predlog da)
     - kafo: kave
     - ',' 
-    - glaso: kozarec
+    - glason: kozarec
     - da: (predlog da) 
     - akvo: vode
     - aŭ: ali
-    - ne: ne
-    - estos: boste
-    - nič: nenion
+    - nenion: ne boste nič
     - '?'
 - 
   demando: Zaradi česa si se tako nenadoma odločil obnoviti svojo sobico in kupiti nekaj dragih knjig?
@@ -43,22 +41,21 @@
     - renovigi: obnoviti
     - vian: svojo
     - ĉambreton: sobico
-    - kaj: aĉeti
-    - iuj: nekaj
-    - valoraj: dragih
+    - kaj: in 
+    - aĉeti: kupiti
+    - iom da: nekaj
+    - multekostaj: dragih
     - libroj: knjig
     - '?'
 - 
   demando: Kam si postavil čiste kozarce za vino??
   rektatraduko: 
-    - Kiam: Kam
+    - Kien: Kam
     - vi: (zaimek ti)
     - metis: si postavil
-    - la: (člen)
     - purajn: čiste
     - glasojn: kozarce
     - por: za 
-    - la: (člen)
     - vino: vino
     - '?'
 - 
@@ -89,5 +86,5 @@
     - la: (člen)
     - loĝejo: stanovanju
     - super: nad
-    - vian: tvojim
+    - la via: tvojim
     - '?'

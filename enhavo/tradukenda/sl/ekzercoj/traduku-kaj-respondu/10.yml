@@ -2,7 +2,7 @@
   demando:  Ali te prijateljstvo bolj osrečuje kakor ljubezen? 
   rektatraduko: 
     - Ĉu: Ali
-    - vi: te
+    - vin: te
     - amikeco: prijateljstvo
     - pli: bolj
     - feliĉigas: osrečuje
@@ -24,13 +24,13 @@
     - en: v
     - Italio: Italy
     - kaj: in
-    - Etiopio
+    - Etiopio: Etiopiji
     - '?'
 - 
   demando: Ali se je spremenil odnos med tabo in tvojim učiteljem, ali je ostal isti? 
   rektatraduko: 
     - Ĉu: Ali
-    - ŝanĝiĝis: se je sprmenil
+    - ŝanĝiĝis: se je spremenil
     - la: (člen)
     - rilato: odnos
     - inter: med

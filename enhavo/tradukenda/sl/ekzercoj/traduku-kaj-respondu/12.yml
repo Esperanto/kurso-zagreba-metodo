@@ -2,11 +2,11 @@
   demando: Ali se bova videla spet, vseeno, kjer koli in kadar koli?
   rektatraduko: 
     - Ĉu: Ali
-    - nin: (zaimek midva)
-    - revidos: se bova videla
+    - ni: (zaimek midva)
+    - revidos nin: se bova videla
     - denove: spet
     - ',' 
-    - tamen: vseeno
+    - egale: vseeno
     - kie: kjer
     - ajn: koli
     - kaj: in
@@ -47,7 +47,7 @@
     - estas: je
     - des: toliko
     - pli: bolj
-    - malvarma: hladno
+    - malvarme: hladno
     - ',' 
     - ju: koliko
     - pli: bolj
@@ -61,7 +61,7 @@
     - Ĉu: Ali
     - vi: (zaimek ti)
     - estus: bi bila
-    - kontenta: srečna
+    - feliĉa: srečna
     - kun: z
     - iu: katerim
     - ajn: koli

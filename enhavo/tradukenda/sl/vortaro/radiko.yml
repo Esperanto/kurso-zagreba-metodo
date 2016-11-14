@@ -49,9 +49,7 @@ dir: reči
 direkt: smer
 doktor: doktor
 eŭro: euro
-dolor:
-- bolečina
-- poškodba
+dolor: bolečina
 dolĉ: sladko
 dom: hiša
 don: dati
@@ -65,7 +63,7 @@ ekskurs: izlet
 esper: upati
 est: biti
 facil: lahko
-fakt: v bistvu
+fakt: dejstvo
 fal: pasti
 falig: podreti
 famili: družina
@@ -109,13 +107,13 @@ Itali: Italija
 jar: leto
 jun: mlad
 kaf: kava
-kalv: kmalu
+kalv: plešast
 kant: pesem
 kap: glava
-kapabl: zmožen
+kapabl: sposoben, zmožen
 kapt: ujeti
 kar: ljub
-kastel: grad
+kastel: grad, dvorec
 kav: jama
 kelk: nekaj
 kelner: natakar
@@ -231,7 +229,7 @@ problem: problem
 proksim: blizu
 promen: sprehajati se
 propon: predlagati
-prov: poskusti
+prov: poskusiti
 rajt: smeti
 rapid: hitro
 raport: poročati
@@ -282,7 +280,7 @@ sufiĉ: dovolj
 suk: sok
 sukces: uspeh
 sun: sonce
-supr: nad
+supr: zgoraj
 ŝajn: zdeti se
 tabl: miza 
 tag: dan

@@ -128,7 +128,8 @@ koler: jeza
 kolor: barva
 komenc: začeti
 kompren: razumeti
-kon: vedeti
+kon: poznati
+konsent: 
 kontent: zadovoljen
 kontrol: preveriti
 kor: srce
@@ -156,7 +157,7 @@ libr: knjiga
 lok: prostor
 long: dolg
 lud: igrati
-lum: lahek
+lum: svetloba
 man: roka
 mank: manjkati
 manĝ: jesti
@@ -214,9 +215,9 @@ person: oseba
 pet: prositi
 pez: težko
 pied: noga, stopalo
-plac: prostor
-plan: planirati
+plac: trg, ploščad
 plaĉ: ugajati
+plan: planirati
 plen: poln
 polic: policija
 pord: vrata
@@ -252,6 +253,7 @@ salut: zdravo
 sam: isto
 san: zdrav
 saĝ: moder
+sat: sit
 sci: vedeti
 sek: suh
 sekret: skrivnost

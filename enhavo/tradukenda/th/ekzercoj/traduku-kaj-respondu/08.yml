@@ -55,16 +55,16 @@
     - vino: ไวน์
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: ชมรมกีฬาของคุณแข่งกับใครเมื่อสองอาทิตย์ก่อน
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: ตรงข้าม
+    - kiu: ใคร
+    - ludis: เล่น
+    - via: ของคุณ
+    - sportklubo: ชมรมกีฬา
+    - antaŭ: ก่อน
+    - du: สอง
+    - semajnoj: อาทิตย์
     - '?'
 - 
   demando: คุณเห็นตำรวจที่พักอาศัยในที่พักเหนือคุณบ่อยไหม

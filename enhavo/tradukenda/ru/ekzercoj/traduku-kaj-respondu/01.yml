@@ -20,38 +20,38 @@
     - ĉambro: комната
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Друг твоего отца работает в гостинице?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: вопросительная частица аналогичная "ли"
+    - la: определенный артикль
+    - amiko: друг
+    - de: притяжательный предлог
+    - via: твой
+    - patro: отец
+    - laboras: работает
+    - en: в
+    - hotelo: гостиница
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: Что на рабочем столе в нашей комнате?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: что 
+    - estas: есть
+    - sur: 'на'
+    - la: определенный артикль
+    - labortablo: рабочий стол
+    - en: в
+    - nia: наша
+    - ĉambro: комната
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Это учебник эсперанто на твоем столе?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: вопросительная частица
+    - Esperanto-lernolibro: учебник эсперанто
+    - estas: есть
+    - sur: 'на'
+    - via: твой 
+    - tablo: стол
     - '?'
 

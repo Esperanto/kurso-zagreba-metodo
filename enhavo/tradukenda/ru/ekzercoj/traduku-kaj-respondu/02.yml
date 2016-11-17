@@ -1,24 +1,24 @@
 - 
-  demando: What was your old home like?
+  demando: Каким был ваг старый дом?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: какой
+    - estis: был
+    - via: ваш
+    - malnova: старый
+    - hejmo: дом 
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: Какие книги вы читали, и хороши ли были они?
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: которые 
+    - librojn: книги
+    - vi: вы
+    - legis: читали
+    - kaj: и
+    - ĉu: вопросительная частица
+    - ili: они
+    - estas: есть
+    - bonaj: хорошие 
     - '?'
 - 
   demando: "What did Anna and Mark do in Marks little room?"

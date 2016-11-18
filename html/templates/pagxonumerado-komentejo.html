@@ -1,0 +1,34 @@
+<ul class="pager">
+  {% if previous_path -%}
+		<li class="previous"><a href="{{previous_path}}">{{enhavo.fasado['malantaŭen']}}</a></li>
+  {%- endif %} 
+
+	{% if enhavo.lingvo in ['sv'] %} 
+		<li><a href="javascript:show_disqus();">{{enhavo.fasado['Komentejo']}}</a></li>
+  {%- endif %} 
+
+  {% if next_path -%}
+		<li class="next"><a href="{{next_path}}">{{enhavo.fasado['antaŭen']}}</a></li>
+  {%- endif %} 
+</ul>
+
+
+{% if enhavo.lingvo in ['sv'] %} 
+
+	<div id="disqus_thread"></div>
+	<script>
+
+	var disqus_config = function () {
+		this.page.url = 'http://learn.esperanto.com/{{enhavo.lingvo}}/{{identigilo}}';  // Replace PAGE_URL with your page's canonical URL variable
+		this.page.identifier = '{{identigilo}}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+	};
+	var show_disqus = function() { // DON'T EDIT BELOW THIS LINE
+		var d = document, s = d.createElement('script');
+		s.src = '//kzm-sv.disqus.com/embed.js';
+		s.setAttribute('data-timestamp', +new Date());
+		(d.head || d.body).appendChild(s);
+	};
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{%- endif %} 

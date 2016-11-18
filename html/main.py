@@ -98,7 +98,8 @@ def generate_html(lingvo, enhavo, args):
               previous_path=previous_path,
               next_path=next_path,
               tabs=tabs,
-              active_tab=tab
+              active_tab=tab,
+              identigilo=i_padded+'/'+href
             )
 
             eligo[leciono_dir + '/' + href + '/' + '/index.html'] = tab_rendered

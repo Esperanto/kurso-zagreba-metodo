@@ -103,6 +103,9 @@ def generate_html(lingvo, enhavo, args):
 
             eligo[leciono_dir + '/' + href + '/' + '/index.html'] = tab_rendered
 
+    # Forigu nunan dosierujon.
     shutil.rmtree(output_path, ignore_errors=True)
+
+    # Kreu novajn dosierojn
     for vojo in eligo.keys():
         write_file(vojo, eligo[vojo])

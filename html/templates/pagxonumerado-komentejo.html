@@ -3,7 +3,7 @@
 		<li class="previous"><a href="{{previous_path}}">{{enhavo.fasado['malantaŭen']}}</a></li>
   {%- endif %} 
 
-	{% if enhavo.lingvo in ['sv'] %} 
+	{% if enhavo.lingvo in ['nl', 'sv'] %} 
 		<li><a href="javascript:show_disqus();">{{enhavo.fasado['Komentejo']}}</a></li>
   {%- endif %} 
 
@@ -24,7 +24,7 @@
 	};
 	var show_disqus = function() { // DON'T EDIT BELOW THIS LINE
 		var d = document, s = d.createElement('script');
-		s.src = '//kzm-sv.disqus.com/embed.js';
+		s.src = '//kzm-{{enhavo.lingvo}}.disqus.com/embed.js';
 		s.setAttribute('data-timestamp', +new Date());
 		(d.head || d.body).appendChild(s);
 	};

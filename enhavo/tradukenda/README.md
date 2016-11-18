@@ -112,6 +112,19 @@ Se via lingvo tute ne havas laŭvortan tradukon de kelkaj Esperantaj vortoj, skr
 
 Denove: La celo estas ke la lernanto sciu kion skribu.
 
+#### Se iu traduko ne aperas
+
+Foje vi devas uzi citolojn, ekzemple jen:
+
+    vorto: "on"
+
+Ĉar `on` estas angla vorto, la dosierformato ne komprenas ĝin kiel ĉeno (string), sed kiel buleo (boolean) kaj penas ke signifas `TRUE`. Tial vi devas uzi citilojn: `"on"`.
+
+Alia ekzemplo:
+
+    vorto: "apostrophe's translation"
+
+Se vi uzas citilojn en la tradukaĵo, uzu aliajn citilojn ĉirkaŭe.
 
 ### Gramatiko
 

@@ -3,7 +3,7 @@
 		<li class="previous"><a href="{{previous_path}}">{{enhavo.fasado['malantaŭen']}}</a></li>
   {%- endif %} 
 
-	{% if enhavo.lingvo in ['nl', 'sv'] %} 
+	{% if enhavo.lingvo in ['en', 'nl', 'sv'] %} 
 		<li><a href="javascript:show_disqus();">{{enhavo.fasado['Komentejo']}}</a></li>
   {%- endif %} 
 
@@ -13,7 +13,7 @@
 </ul>
 
 
-{% if enhavo.lingvo in ['nl', 'sv'] %} 
+{% if enhavo.lingvo in ['en', 'nl', 'sv'] %} 
 
 	<div id="disqus_thread"></div>
 	<script>

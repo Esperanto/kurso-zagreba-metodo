@@ -23,6 +23,7 @@ en:
     fontlingve: English
     esperante: angla
   stato: preta
+  komentejo: 1
 es:
   nomo:
     fontlingve: Español
@@ -93,6 +94,7 @@ nl:
     fontlingve: Nederlands
     esperante: nederlanda
   stato: preta
+  komentejo: 1
 pl:
   nomo:
     fontlingve: Polski
@@ -103,6 +105,7 @@ pt:
     fontlingve: Português
     esperante: portugala
   stato: preta
+  komentejo: 1
 ru:
   nomo:
     fontlingve: Русский
@@ -118,6 +121,7 @@ sv:
     fontlingve: Svenska
     esperante: sveda
   stato: testa
+  komentejo: 1
 th:
   nomo:
     fontlingve: ภาษาไทย

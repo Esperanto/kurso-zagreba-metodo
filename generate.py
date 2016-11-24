@@ -170,6 +170,7 @@ lingvoj = [
   ('ms', u'Bahasa Melayu'),
   ('nl', u'Nederlands'),
   ('pt', u'Português'),
+  ('sl', u'Slovenščina'),
   ('th', u'ภาษาไทย'),
   ('tr', u'Türkçe (beta)'),
   ('uk', u'Українська'),
@@ -189,7 +190,6 @@ lingvoj = [
   ('my', u'(test: birma)'),
   ('pl', u'(test: pola)'),
   ('ru', u'(test: rusa)'),
-  ('sl', u'(test: slovena)'),
   ('sv', u'(test: sveda)'),
   ('ur', u'(test: urdua)')
 ]

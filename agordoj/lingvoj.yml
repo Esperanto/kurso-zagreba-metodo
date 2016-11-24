@@ -1,8 +1,18 @@
+ar:
+  nomo:
+    fontlingve: العربية
+    esperante: araba
+  stato: testa
 ca:
   nomo:
     fontlingve: Català
     esperante: kataluna
   stato: preta
+cs:
+  nomo:
+    fontlingve: Čeština
+    esperante: ĉeĥa
+  stato: testa
 de:
   nomo:
     fontlingve: Deutsch
@@ -13,76 +23,21 @@ en:
     fontlingve: English
     esperante: angla
   stato: preta
-fr:
-  nomo:
-    fontlingve: Français
-    esperante: franca
-  stato: preta
 es:
   nomo:
     fontlingve: Español
     esperante: hispana
   stato: preta
-ms:
-  nomo:
-    fontlingve: Bahasa Melayu
-    esperante: malaja
-  stato: preta
-nl:
-  nomo:
-    fontlingve: Nederlands
-    esperante: nederlanda
-  stato: preta
-pt:
-  nomo:
-    fontlingve: Português
-    esperante: portugala
-  stato: preta
-sl:
-  nomo:
-    fontlingve: Slovenščina
-    esperante: slovena
-  stato: preta
-th:
-  nomo:
-    fontlingve: ภาษาไทย
-    esperante: taja
-  stato: preta
-tr:
-  nomo:
-    fontlingve: Türkçe 
-    esperante: turka
-  stato: preta
-uk:
-  nomo:
-    fontlingve: Українська
-    esperante: ukraina
-  stato: preta
-zh:
-  nomo:
-    fontlingve: 中文
-    esperante: ĉina (simpla)
-  stato: preta
-zh-tw:
-  nomo:
-    fontlingve: 正體中文
-    esperante: ĉina (tradicia)
-  stato: preta
-ar:
-  nomo:
-    fontlingve: العربية
-    esperante: araba
-  stato: testa
-cs:
-  nomo:
-    fontlingve: Čeština
-    esperante: ĉeĥa
-  stato: testa
 fa:
   nomo:
     fontlingve: فارسی
     esperante: persa
   stato: testa
+fr:
+  nomo:
+    fontlingve: Français
+    esperante: franca
+  stato: preta
 frp:
   nomo:
     fontlingve: Arpetan
@@ -123,28 +78,73 @@ lo:
     fontlingve: ລາວ
     esperante: laosa
   stato: testa
+ms:
+  nomo:
+    fontlingve: Bahasa Melayu
+    esperante: malaja
+  stato: preta
 my:
   nomo:
     fontlingve: မြန်မာဘာသာ
     esperante: birma
   stato: testa
+nl:
+  nomo:
+    fontlingve: Nederlands
+    esperante: nederlanda
+  stato: preta
 pl:
   nomo:
     fontlingve: Polski
     esperante: pola
   stato: testa
+pt:
+  nomo:
+    fontlingve: Português
+    esperante: portugala
+  stato: preta
 ru:
   nomo:
     fontlingve: Русский
     esperante: rusa
   stato: testa
+sl:
+  nomo:
+    fontlingve: Slovenščina
+    esperante: slovena
+  stato: preta
 sv:
   nomo:
     fontlingve: Svenska
     esperante: sveda
   stato: testa
+th:
+  nomo:
+    fontlingve: ภาษาไทย
+    esperante: taja
+  stato: preta
+tr:
+  nomo:
+    fontlingve: Türkçe 
+    esperante: turka
+  stato: preta
+uk:
+  nomo:
+    fontlingve: Українська
+    esperante: ukraina
+  stato: preta
 ur:
   nomo:
     fontlingve: اردو
     esperante: urdua
   stato: testa
+zh:
+  nomo:
+    fontlingve: 中文
+    esperante: ĉina (simpla)
+  stato: preta
+zh-tw:
+  nomo:
+    fontlingve: 正體中文
+    esperante: ĉina (tradicia)
+  stato: preta

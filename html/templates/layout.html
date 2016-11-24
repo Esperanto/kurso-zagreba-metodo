@@ -97,15 +97,21 @@
           <form class="navbar-form navbar-left">
             {% include 'vortaro.html' %}
           </form>
-
           <form class="navbar-form navbar-left">
             <select id="lingvoelektilo" class="form-control">
-              {% for (lingvoKodo, lingvoNomo) in enhavo.lingvoj %}
-                <option value="{{lingvoKodo}}"
-                {% if lingvoKodo == enhavo.lingvo %}  
+              {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'preta' %}
+                <option value="{{kodo}}"
+                {% if kodo == enhavo.lingvo %}  
                   selected
                 {% endif %}  
-                >{{lingvoNomo}}</option>
+                >{{enhavo.lingvoj[kodo].nomo.fontlingve}}</option>
+              {% endfor %}
+              {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'testa' %}
+                <option value="{{kodo}}"
+                {% if kodo == enhavo.lingvo %}  
+                  selected
+                {% endif %}  
+                >(test: {{enhavo.lingvoj[kodo].nomo.esperante}})</option>
               {% endfor %}
             </select>
           </form>

@@ -1,0 +1,150 @@
+ca:
+  nomo:
+    fontlingve: Català
+    esperante: kataluna
+  stato: preta
+de:
+  nomo:
+    fontlingve: Deutsch
+    esperante: germana
+  stato: preta
+en:
+  nomo:
+    fontlingve: English
+    esperante: angla
+  stato: preta
+fr:
+  nomo:
+    fontlingve: Français
+    esperante: franca
+  stato: preta
+es:
+  nomo:
+    fontlingve: Español
+    esperante: hispana
+  stato: preta
+ms:
+  nomo:
+    fontlingve: Bahasa Melayu
+    esperante: malaja
+  stato: preta
+nl:
+  nomo:
+    fontlingve: Nederlands
+    esperante: nederlanda
+  stato: preta
+pt:
+  nomo:
+    fontlingve: Português
+    esperante: portugala
+  stato: preta
+sl:
+  nomo:
+    fontlingve: Slovenščina
+    esperante: slovena
+  stato: preta
+th:
+  nomo:
+    fontlingve: ภาษาไทย
+    esperante: taja
+  stato: preta
+tr:
+  nomo:
+    fontlingve: Türkçe 
+    esperante: turka
+  stato: preta
+uk:
+  nomo:
+    fontlingve: Українська
+    esperante: ukraina
+  stato: preta
+zh:
+  nomo:
+    fontlingve: 中文
+    esperante: ĉina (simpla)
+  stato: preta
+zh-tw:
+  nomo:
+    fontlingve: 正體中文
+    esperante: ĉina (tradicia)
+  stato: preta
+ar:
+  nomo:
+    fontlingve: العربية
+    esperante: araba
+  stato: testa
+cs:
+  nomo:
+    fontlingve: Čeština
+    esperante: ĉeĥa
+  stato: testa
+fa:
+  nomo:
+    fontlingve: فارسی
+    esperante: persa
+  stato: testa
+frp:
+  nomo:
+    fontlingve: Arpetan
+    esperante: arpitana
+  stato: testa
+hr:
+  nomo:
+    fontlingve: Hrvatski
+    esperante: kroata
+  stato: testa
+hu:
+  nomo:
+    fontlingve: Magyar
+    esperante: hungara
+  stato: testa
+id:
+  nomo:
+    fontlingve: Bahasa Indonesia
+    esperante: indonezia
+  stato: testa
+kk:
+  nomo:
+    fontlingve: Қазақша
+    esperante: kazaĥa
+  stato: testa
+km:
+  nomo:
+    fontlingve: ភាសាខ្មែរ
+    esperante: kmera
+  stato: testa
+ko:
+  nomo:
+    fontlingve: 한국어
+    esperante: korea
+  stato: testa
+lo:
+  nomo:
+    fontlingve: ລາວ
+    esperante: laosa
+  stato: testa
+my:
+  nomo:
+    fontlingve: မြန်မာဘာသာ
+    esperante: birma
+  stato: testa
+pl:
+  nomo:
+    fontlingve: Polski
+    esperante: pola
+  stato: testa
+ru:
+  nomo:
+    fontlingve: Русский
+    esperante: rusa
+  stato: testa
+sv:
+  nomo:
+    fontlingve: Svenska
+    esperante: sveda
+  stato: testa
+ur:
+  nomo:
+    fontlingve: اردو
+    esperante: urdua
+  stato: testa

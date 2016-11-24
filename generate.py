@@ -161,38 +161,7 @@ ap.add_argument(
 
 args = ap.parse_args()
 
-lingvoj = [
-  ('ca', u'Català'),
-  ('de', u'Deutsch'),
-  ('en', u'English'),
-  ('fr', u'Français'),
-  ('es', u'Español'),
-  ('ms', u'Bahasa Melayu'),
-  ('nl', u'Nederlands'),
-  ('pt', u'Português'),
-  ('sl', u'Slovenščina'),
-  ('th', u'ภาษาไทย'),
-  ('tr', u'Türkçe (beta)'),
-  ('uk', u'Українська'),
-  ('zh', u'中文'),
-  ('zh-tw', u'正體中文'),
-  ('ar', u'(test: araba)'),
-  ('cs', u'(test: ĉeĥa)'),
-  ('fa', u'(test: persa)'),
-  ('frp', u'(test: arpitana)'),
-  ('hr', u'(test: kroata)'),
-  ('hu', u'(test: hungara)'),
-  ('id', u'(test: indonezia)'),
-  ('kk', u'(test: kazaĥa)'),
-  ('km', u'(test: kmera)'),
-  ('ko', u'(test: korea)'),
-  ('lo', u'(test: laosa)'),
-  ('my', u'(test: birma)'),
-  ('pl', u'(test: pola)'),
-  ('ru', u'(test: rusa)'),
-  ('sv', u'(test: sveda)'),
-  ('ur', u'(test: urdua)')
-]
+lingvoj = yaml.load(file('agordoj/lingvoj.yml', 'r'))
 
 if args.lingvo:
     #if args.lingvo not in lingvoj.keys():

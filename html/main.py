@@ -2,6 +2,7 @@
 
 import os
 import shutil
+import re
 
 def render_page(name, enhavo, vojprefikso, env, output_path):
 
@@ -109,4 +110,6 @@ def generate_html(lingvo, enhavo, args):
 
     # Kreu novajn dosierojn
     for vojo in eligo.keys():
+        # Forigu nenecesan blankspacon.
+        eligo[vojo] = re.sub(r'\s+', ' ', eligo[vojo])
         write_file(vojo, eligo[vojo])

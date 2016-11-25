@@ -170,8 +170,7 @@ if args.lingvo:
     enhavo['lingvoj'] = lingvoj
     generate_html(args.lingvo, enhavo, args)
 else:
-    for lingvo_tuple in lingvoj:
-        lingvo = lingvo_tuple[0]
+    for lingvo in lingvoj:
         enhavo = load(lingvo)
         enhavo['lingvoj'] = lingvoj
         generate_html(lingvo, enhavo, args)

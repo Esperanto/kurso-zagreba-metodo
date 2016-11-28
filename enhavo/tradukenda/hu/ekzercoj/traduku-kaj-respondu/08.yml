@@ -1,86 +1,86 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: Ki takarítja ki a konyhát ebéd után?
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: Ki
+    - purigos: fogja kitakarítani
+    - la: a
+    - kuirejon: konyhát
+    - post: után
+    - la: a, az
+    - tagmanĝo: ebéd
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: Mit akarsz/kérsz inni: teát, egy kis kávét vagy semmit sem kérsz?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: Mit
+    - vi: te
+    - volas: akarsz
+    - trinki: inni
     - ':' 
-    - teon: tea
+    - teon: teát
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: valamennyi
+    - da: -nyi
+    - kafo: kávé
+    - aŭ: vagy
+    - ĉu: vajon
+    - vi: te
+    - volas: akarsz
+    - nenion: semmit
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: Miért döntöttél ilyen hirtelen, hogy felújítod a szobácskádat?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: Miért
+    - vi: te
+    - tiel: úgy
+    - subite: hirtelen
+    - decidis: döntött
+    - renovigi: felújítani
+    - vian: tiédet
+    - ĉambreton: szobácskát
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: Kinek adtad a tiszta borospoharakat?
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: -nak,-nek
+    - kiu: ki
+    - vi: te
+    - donis: adott
+    - la: a,az
+    - purajn: tisztákat
+    - glasojn: poharakat
+    - por: számára 
+    - la: a
+    - vino: bor
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: Ki ellen játszott a sportcsapatod két hete?
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: Ellen
+    - kiu: ki
+    - ludis: játszott
+    - via: tiéd
+    - sportklubo: sportklub/sportcsapat
+    - antaŭ: előtt
+    - du: kettő
+    - semajnoj: hetek
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: Gykaran látod a rendőrt, aki a feletted lévő lakásban lakik?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: Vajon
+    - vi: te
+    - ofte: gyakran
+    - vidas: lát
+    - la: a, az
+    - policiston: rendőrt
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: aki
+    - loĝas: lakik
+    - en: -ban, -ben 
+    - la: a, az
+    - loĝejo: lakás
+    - super: felett
+    - vi: te
     - '?'

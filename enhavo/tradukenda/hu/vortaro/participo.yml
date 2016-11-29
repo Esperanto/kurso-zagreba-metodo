@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: cselekvő jelen
+int: cselekvő múlt
+ont: cselekvő jövő
+unt: cselekvő feltételes
+at:  szenvedő jelen
+it:  szenvedő múlt
+ot:  szenvedő jövő
+ut:  szenvedő feltételes

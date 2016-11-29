@@ -1,34 +1,46 @@
-aŭskult: 
+aŭskult: hallgat
 divers: 
-ekzempl: 
-glas: 
-infan: 
-inform: 
-kant: 
-kien: 
-konsent: 
-lingv: 
-loĝ: 
-manier: 
-monat: 
-mond: 
-naci: 
-organiz: 
-plor: 
-pluv: 
-poŝ: 
-poŝt: 
-proksimum: 
-publik: 
-punkt: 
-pur: 
-rakont: 
-rimark: 
-seĝ: 
+  - különböző
+  - különféle
+ekzempl: példa
+glas: pohár
+infan: gyerek
+inform: információ
+kant: ének
+kien: hová
+konsent: egyetért
+lingv: nyelv
+loĝ: lakik
+manier: mód
+monat: hónap
+mond: világ
+naci: nemzet
+organiz: szervez
+plor: sír
+pluv: eső
+poŝ: zseb
+poŝt: posta
+proksimum: körülbelül
+publik: közönség
+punkt: pont
+pur: tiszta
+rakont: mese
+rimark: észrevesz
+seĝ: szék
 sia: 
-simpl: 
+ - övé
+ - saját
+simpl: egyszerű
 terur: 
+  - szörnyű
+  - borzalmas
 tut: 
+  - egész
+  - teljes
 universal: 
-rilat:
-sat:
+  - egyetemes
+  - világ-
+rilat: 
+  - viszony
+  - kapcsolat
+sat: jóllakott

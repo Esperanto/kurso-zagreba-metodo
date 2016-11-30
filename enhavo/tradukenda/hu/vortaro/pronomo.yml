@@ -1,10 +1,18 @@
-ili: they
-li: he
-lia: his
-mi: I
-mia: my
-ni: we
-oni: one (indefinite pronoun)
-vi: you (can be both singular and plural)
-ĝi: it
-ŝi: she
+ili: ők
+li: ő (férfi)
+lia: 
+  - az ő
+  - övé (férfi)
+mi: én
+mia: 
+  - az én
+  - enyém
+ni: mi
+oni:  - az ember (általános alany)
+vi: 
+  - te
+  - ti
+ĝi: 
+  - ő (állat)
+  - az (tárgy)
+ŝi: ő (nő)

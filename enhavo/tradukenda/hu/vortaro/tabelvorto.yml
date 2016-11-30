@@ -1,59 +1,59 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: mi
+tio: az
+io: valami
+ĉio: minden
+nenio: semmi
 kiu:
-- who
-- which
+- ki
+- melyik
 tiu:
-- that person
-- that one
-iu: someone
+- az az ember
+- az a 
+iu: valaki
 ĉiu:
-- everyone
-- every
+- mindenki
+- mindegyik
 neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
+- senki
+- semelyik
+kie: hol
+tie: ott
+ie: valahol
+ĉie: mindenhol
+nenie: sehol
+kia: milyen
+tia: olyan
+ia: valamilyen
+ĉia: mindenféle
+nenia: semmilyen
+kiel: hogyan
+tiel: úgy
+iel: valahogyan
+ĉiel: mindenhogyan
+neniel: sehogyan
+kial: miért
+tial: azért
+ial: valamiért
+ĉial: mindenért
+nenial: semmiért
+kiam: mikor
+tiam: akkor
+iam: valamikor
+ĉiam: mindig
+neniam: soha
+kiom: mennyi
+tiom: annyi
 iom: 
-- to some extent
-- a certain amount
+- valamennyi
+- egy kis
 ĉiom: 
-- all of it
-- the whole amount
+- mindannyi
+- mindahány
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- semennyi
+- sehány
+kies: kié
+ties: azé
+ies: valakié
+ĉies: mindenkié
+nenies: senkié

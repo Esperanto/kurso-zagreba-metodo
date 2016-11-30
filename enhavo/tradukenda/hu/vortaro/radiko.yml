@@ -1,214 +1,207 @@
-afer: matter
-agrabl: pleasant
-akcept: accept
-akv: water
-ali: another
-alt: high
-am: love
-amas:
-- mass
-- crowd
-amik: friend
-arb: tree
-aspekt:
-- look
-- seem
-atend: to wait
-atent: pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
-bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: must
-dezir: to wish
-diabl: devil
-dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
-doktor: doctor
-dolar: dollar
-dolor:
-- pain
-- to hurt
-dolĉ: sweet
-dom: house
-don: to give
-dorm: sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
-fart:
-- feel
-- be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
-foj:
-- time
-- occasion
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
+afer: dolog
+agrabl: kellemes
+akcept: fogad
+akv: víz
+ali: más
+alt: magas
+am: szeret
+amas: tömeg
+amik: barát
+arb: fa
+aspekt: kinézet
+atend: vár
+atent: figyel
+aĉet: vesz
+aŭd: hall
+aŭt: autó
+aŭtoritat: hatalom
+bedaŭr: sajnál
+bel: szép
+best: állat
+bezon: szükség
+bien: telek
+bon: jó
+branĉ: ág
+bru: zaj
+buŝ: száj
+cert: biztos
+dank: köszön
+daŭr: tart
+decid: elhatároz
+demand: to askkérdez
+dev: kell
+dezir: kíván
+diabl: ördög
+dik: kövér
+dimanĉ: vasárnap
+dir: mond
+direkt: igazgat
+doktor: orvos
+dolar: dollár
+dolor: fájdalom
+dolĉ: édes
+dom: ház
+don: ad
+dorm: alszik
+doĝ: dózse
+edz: férj
+efektiv: 
+  - efektív
+  - tényleges
+ekskurs: kirándulás
+esper: remény
+est: van
+facil: könnyű
+fakt: tény
+fal: esik
+famili: család
+far: csinál
+fart: érzi magát
+feliĉ: boldog
+ferm: zár
+fin: vég
+flank: oldal
+foj: alkalom
+forges: felejt
+form: forma
+fort: erős
+fot: fénykép
+frat: fiútestvér
+fru: korán
+fuŝ: ront
 gondol: gondola
-graf:
-- count
-- earl
-grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: to need
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
-opini: opinion
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
+graf: gróf
+grand: nagy
+grav: fontos
+halt: megáll
+hav: van neki
+hejm: otthon
+help: segít
+hom: ember
+hor: óra
+hotel: szálloda
+ide: ötlet
+industri: ipar 
+instru: tanít
+interes: érdekes
+invit: meghív
+ir: megy
+itali: olasz
+jar: év
+jun: fiatal
+kaf: kávé
+kalv: kopasz
+kap: fej
+kapabl: képes
+kapt: elfog
+kar: 
+  - kedves
+  - drága
+kastel: kastély
+kav: pince
+kelk: néhány
+kelner: pincér
+klar: 
+  - világos
+  - tiszta
+klub: klub
+knab: fiú
+koler: méreg
+kolor: szín
+komenc: kezd
+kompren: ért
+kon: ismer
+kontent: elégedett
+kontrol: ellenőriz
+kor: szív
+korp: test
+kost: kerül
+kri: kiált
+kuir: főz
+kuk: süti
+kur: fut
+labor: 
+  - munka
+  - dolog
+lakt: tej
+lamp: lámpa
+land: ország
+larĝ: széles
+last: utolsó
+laŭt: hangos
+lecion: lecke
+leg: olvas
+lern: tanul
+leter: levél
+liber: szabad
+libr: könyv
+lok: hely
+long: hosszú
+lud: játszik
+lum: fény
+man: kéz
+mank: hiány
+manĝ: enni
+mar: tenger
+maten: reggel
+memor: emlék
+met: tesz
+mez: közép
+milit: háború
+minut: perc
+mir: csodálkozik
+moment: pillanat
+mon: pénz
+mont: hegy
+montr: mutat
+mort: halál
+mov: mozdít
+mult: sok
+muzik: zene
+nask: szül
+natur: természet
+neces: szükséges
+nokt: éjjel
+nom: név
+not: jegy
+nov: új
+odor: szag
+oft: gyakran
+okaz: 
+  - alkalom
+  - történik
+okul: szem
+onkl: nagybácsi
+opini: vélemény
+ord: rend
+orel: fül
+pac: béke
+pag: fizet
+pan: kenyér
+paper: papír
+pardon: bocsánat
+parol: beszél
+part: rész
+pas: múlik
+patr: apa
+paŝ: lépés
+pens: gondol
+perd: veszt
+person: személy
+pet: kér
+pied: láb
+plac: tér
+plan: terv
+plaĉ: tetszik
+plen: tele
+polic: rendőrség
+pord: ajtó
+port: visz
+pov: 
+  - tud
+  - képes
+pren: vesz 
+pret: kész
 prezent: to present
 problem: problem
 proksim: near

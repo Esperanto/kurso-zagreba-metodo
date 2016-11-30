@@ -1,264 +1,283 @@
-Esperanto: Esperanto
-akcepteblan: acceptable
-alilandaj: foreign
-alporti: to bring over
-alportis: brought over 
-alvenigas: leads here
-alvenis: came here
-alvenos: will come here
-amikino: girl-friend
-amikinon: girl-friend
-amletero: love letter
-antaŭeniris: went ahead
-arbaro: wood
-arbetoj: bushes
-arboplena: full of trees
-aĉetumos: will go shopping
-aĉodora: bad smelling 
-aŭdiĝis: was being heard
-bedaŭrinde: unfortunately
-belaĵoj: beautiful things
-beleta: cute
-bestetoj: little animals
-bonega: very good
-bonvolu: please
-bonvolus: would you be so kind
-centoj: hundreds
-dankon: thank you
-daŭrigis: continued
-denove: again
-devojiĝis: to go astray
-dikiĝi: to become fat
-doloriga: pain causing
-dolorige: pain causing
-domegon: villa
-dumnokte: at night
-dumtage: at day
-ekkriis: started screaming
-ekmire: wondrously
-ekparolis: started speaking
-ekridis: started laughing
-ekrigardis: started looking
-eksaltis: started jumping
-ekscii: to find out
-eksidis: sat down
-ekstervoje: on the way out
-ekveturas: start riding
-ekvidis: started seeing
-elstaraj: outstanding
-eniri: to go in
-eniris: went in 
-eniru: go in! 
-facilmovaj: easy-to-move
-faligi:
-- to cause falling
-- to run over
-faligis: ran over
-familianoj: family members
-fermita: closed 
-fine: at the end
-foresti: to be away
-foriros: will go away
-fratino: sister
-fuŝparolis: spoke wrongly
-geamikoj: friends
-gefratoj: siblings
-gelernantojn:
-- co-learners
-- fellow stundent
-gepatroj: parents
-gondolisto: gondolist 
-gondolistoj: gondolists
-grafino: countess
-grafinon: countess
-grandula: giant
-gravuloj: important people
-haltigis: stopped
-havigi: to obtain
-havindan: worth having
-homformo: form of a person
-hommulton: crowd
-ideoriĉan: imaginative
-industriisto: industrialist
-instruistino: female teacher 
-instruiston: teacher
-intervidiĝas: see each other
-iron: walk
-junulino: female youngster
-junulinoj: female youngsters
-junulinon: female youngster
-junuloj: youngsters
-kafejo: café
-kafejon: café
-karulino: darling
-karulo: darling
-klarigis: explained
-klarigon: explanation 
-klubanoj: club members
+Esperanto: eszperantó
+akcepteblan: elfogadhatót
+alilandaj: másországbeliek
+alporti: hozni
+alportis: hozott
+alvenigas: hozat
+alvenis: megjött
+alvenos: meg fog jönni
+amikino: barátnő
+amikinon: barátnőt
+amletero: szerelmes levél
+antaŭeniris: előrement
+arbaro: erdő
+arbetoj: 
+  - fácskák
+  - kis fák
+arboplena: erdős
+aĉetumos: vásárolni fog
+aĉodora: 
+  - rosszszagú
+  - büdös
+aŭdiĝis: hallatszott
+bedaŭrinde: sajnos
+belaĵoj: szép dolgok
+beleta: csinos
+bestetoj: kisállatok
+bonega: 
+  - kíváló
+  - nagyszerű
+bonvolu: 
+  - légy szíves, legyen szíves
+  - tessék
+bonvolus: szíveskedne
+centoj: százak
+dankon: köszönöm
+daŭrigis: folytatta
+denove: 
+  - megint
+  - újra
+devojiĝis: eltévedt
+dikiĝi: meghízni
+doloriga: fájdalmas
+dolorige: fájdalmasan
+domegon: nagy házat
+dumnokte: 
+  - éjszaka
+  - az éjjel
+  - az élszaka alatt
+dumtage: 
+  - napközben
+  - nappal
+ekkriis: felkiáltott
+ekmire: elcsodálkozva
+ekparolis: megszólalt
+ekridis: felnevetett
+ekrigardis: megnézte
+eksaltis: felugrott
+ekscii: megtudni
+eksidis: leült
+ekstervoje: az úton kívül
+ekveturas: elindul (járművel)
+ekvidis: meglátott
+elstaraj: kiválóak
+eniri: bemenni
+eniris: bement
+eniru: gyere be!
+facilmovaj: könnyedmozdulatúak
+faligi: leejteni
+faligis: leejtett
+familianoj: családtagok
+fermita: 
+  - zárt 
+  - csukott
+fine: végül
+foresti: távol lenni
+foriros: el fog menni
+fratino: lánytestvér
+fuŝparolis: rosszul bezsélt
+geamikoj: barátok
+gefratoj: testvérek
+gelernantojn: tanulókat
+gepatroj: szülők
+gondolisto: gondolás 
+gondolistoj: gondolások
+grafino: grófnő
+grafinon: grófnőt
+grandula: nagyos
+gravuloj: fontos emberek
+haltigis: megállított
+havigi: szerezni
+havindan: beszerzendőt
+homformo: emberalak
+hommulton: embersokaságot
+ideoriĉan: ötletgazdagot
+industriisto: iparos
+instruistino: tanárnő
+instruiston: tanárt
+intervidiĝas: látják egymást
+iron: járást
+junulino: fiatal lány
+junulinoj: fiatal lányok
+junulinon: fiatal lányt
+junuloj: fiatal fiúk
+kafejo: kávézó
+kafejon: kávézót
+karulino: kedves (nő)
+karulo: kedves (férfi)
+klarigis: magyarázta
+klarigon: magyarázatot 
+klubanoj: klubtagok
 kompreneble: 
-- understandably
-- of course
-korpoforton: physical strength
-kunmanĝos: will eat together
-kunporti: to bring along
-kunulino: female companion
-kunvenas: come together
-laboristo: worker
-lampeto: little lamp
+- természetesen
+- magától értetődik
+korpoforton: testi erőt
+kunmanĝos: együtt fognak enni
+kunporti: magával hozni
+kunulino: társnő
+kunvenas: összegyűlik
+laboristo: munkás
+lampeto: kis lámpa
 lernanto:
-- learner
-- student
-lernejo: school
-lernejon: school 
-lernolibroj: schoolbooks
-leteroj: letters
-libertempo:
-- free time
-- spare time
-libroj: books
-lumigis:
-- lightened up
-- flashed up
-malagrabla: unpleasant
-malbela: ugly
-malbonaj: bad
-malbonajn: bad
-malbonan: bad
-malbono: bad 
-malfacilan: difficult
-malfacile: difficult
-malfeliĉo: misfortune
-malforta: weak
-malforte: weak 
-malfruas: is late 
-malfrue: late
-malfrui: to be late 
+- tanuló
+- diák
+lernejo: iskola
+lernejon: iskolát 
+lernolibroj: tankönyvek
+leteroj: levelek
+libertempo: szabadidő
+libroj: könyvek
+lumigis: világított
+malagrabla: kellemetlen
+malbela: csúnya
+malbonaj: rosszak
+malbonajn: rosszakat
+malbonan: rosszat
+malbono: rosszaság 
+malfacilan: nehezet
+malfacile: nehezen
+malfeliĉo: 
+  - boldogtalanság
+  - szerencsétlenség
+malforta: gynege
+malforte: gyengén 
+malfruas: késik
+malfrue: későn
+malfrui: késni 
 malgranda:
-- little
--  small
-malhelpis: hindered
-malinterese: uninteresting
-malkontentigi: to annoy
-mallaŭte: quiet
-malliberejon: prison
-mallumo: darkness
-malmulte: few
-malmultekosta: cheap 
-malmulton: few
-malnova: old
-malnovaj: old
-malofte: rarely 
-malplaĉa: uncomfortable
-malplaĉan: uncomfortable 
-malproksime: far away
-malsaniĝis: got sick
-malsaĝa: unwise
-malsekajn: wet
-malsukcesa: unsuccessful
-maltrankvila: anxious
-malvarman: cold
-malĝoja: sad
-malŝatas: doesn't like
-malŝatis: didn't like
-manĝaĵo: food
-manĝegi: to devour
-maristo: seaman
-maristoj: seamen
-mariston: seaman
-miaj: my 
-militistoj: soldiers
-monerojn: coins
-monujo: purse
-morgaŭan: tomorrow's
-mortigo: murder
-moviĝis: moved
-multekosta: expensive
-multpiedaj: many-footed
-naskiĝtaga: birthday
-naskiĝtago: birthday 
-naturaĵojn: natural things
-nehoma: non-human
-neinteresaj: uninteresting
-nokta: nightly
-novaĵoj: news
-opinion: opinion
-ordigi: to order 
-paperoj: papers
-paperojn:  papers
-paperujon: wastebasket
-pasigos: will spend
-patrino: mother
-perdigis: withdrew
-plenigadis: filled
-plenumis: fulfilled
-plibeligis: beautified
-plimulto: majority
-policano: policeman
-promenejo: promenade
-promeno: walk
-rapidege: very quickly
-realigi: to realize
-redonu: give back
-rekapti: to get back
-repaciĝon: reliberation
-revenis: came back
-revidi: to see again
-revido: goodbye
-ridetis: smiled
-rideto: smile
-riĉeco:
-- richness
-- wealth
-riĉulo: rich man
-salton: jump
-saluton: hello
-samklubanoj: co-members of the club
-sekretajn: secret
-sekreton: secret
-senbrue: silently
-seninterese: disinterested
-senkolora: colorless
-sensukcese: without success
-sentimulo: fearless man
-senvorte: wordlessly
-sinjorinoj: ladies
-sinjorinon: lady
-skribotablo: desk
-soleca: lonely
-sovaĝejo: wilderness
-sportisto: sportsman
-subakvigis: to sink
-subakviĝis: to sink
-subite: suddenly
-supren: upward
-surhavas: wear
-surlokan: at this place
-teroristoj: terrorists
-tiuokaze: in that case
-travivaĵo: adventure
-tridekjara: 30-year-old
-troviĝis: was situated
-unuaj: first
-urbomezo: city center
-vagonaro: train
-vendejo: shop
-vendejon: shop
-vendisto: clerk 
-vestaĵo: clothes 
-vestaĵoj: clothes
-vestaĵojn: clothes 
-vestaĵon: clothes
-veturado:
-- drive
-- tour
-veturigus: would drive 
-viaj: your
-virino: woman
-vojaĝantoj: travellers
-ĉambristoj: chambermaids
-ĉeesto: presence
-ĉirkaŭaĵo: surrounding
-ĝenon: disturbance
-ĝustatempe: at the right time
-ŝiaj: her 
-ŝipkuron: ship race
+- kicsi
+- kis
+malhelpis: 
+  - akadályozott
+  - gátolt
+malinterese: unalmasan
+malkontentigi: elégedetlenné tenni
+mallaŭte: halkan
+malliberejon: börtönt
+mallumo: sötétség
+malmulte: keveset
+malmultekosta: olcsó 
+malmulton: keveset
+malnova: régi
+malnovaj: régiek
+malofte: ritkán 
+malplaĉa: nemtetsző
+malplaĉan: nemtetszőt 
+malproksime: messze
+malsaniĝis: beteg lett
+malsaĝa: 
+  - ostoba
+  - buta
+malsekajn: 
+  - vizeseket
+  - nedveseket
+malsukcesa: sikertelen
+maltrankvila: nyugtalan
+malvarman: hideget
+malĝoja: szomorú
+malŝatas: nem szeret
+malŝatis: nem szeretett
+manĝaĵo: étel
+manĝegi: zabálni
+maristo: tengerész
+maristoj: tengerészek
+mariston: tengerészt
+miaj: az én, enyéim 
+militistoj: katonák
+monerojn: pénzérméket
+monujo: pénztárca
+morgaŭan: holnapit
+mortigo: gyilkosság
+moviĝis: mozgott
+multekosta: drága
+multpiedaj: soklábúak
+naskiĝtaga: születésnapi
+naskiĝtago: születésnap 
+naturaĵojn: természeti dolgokat
+nehoma: nem emberi
+neinteresaj: nem érdekesek
+nokta: éjszakai
+novaĵoj: hírek
+opinion: véleményt
+ordigi: rendet rakni
+paperoj: papírok
+paperojn:  papírokat
+paperujon: papírkosarat
+pasigos: tölteni fog
+patrino: anya
+perdigis: elveszejtett
+plenigadis: töltögetett
+plenumis: teljesített
+plibeligis: szebbé tett
+plimulto: többség
+policano: rendőr
+promenejo: sétány
+promeno: séta
+rapidege: nagyon gyorsan
+realigi: megvalósítani
+redonu: add vissza
+rekapti: 
+  - újra elkapni
+  - visszaszerezni
+repaciĝon: újrakibékülést
+revenis: visszajött
+revidi: viszontlátni
+revido: viszontlátás
+ridetis: mosolygott
+rideto: mosoly
+riĉeco: gazdagság
+riĉulo: gazdag ember
+salton: ugrást
+saluton: 
+  - szia
+  - szervusz
+samklubanoj: klubtagok
+sekretajn: titkosakat
+sekreton: titkosat
+senbrue: zajtalanul
+seninterese: érdektelenül
+senkolora: színtelen
+sensukcese: sikertelenül
+sentimulo: félelemnélküli ember
+senvorte: szótlanul
+sinjorinoj: hölgyek
+sinjorinon: hölgyet
+skribotablo: íróasztal
+soleca: magányos
+sovaĝejo: vadaspark
+sportisto: sportoló
+subakvigis: elsüllyesztett
+subakviĝis: elsülyledt
+subite: hirtelen
+supren: fel
+surhavas: visel
+surlokan: helyit
+teroristoj: teroristák
+tiuokaze: abban az esetben
+travivaĵo: élmény
+tridekjara: 30 éves
+troviĝis: található volt
+unuaj: elsők
+urbomezo: városközpont
+vagonaro: vonat
+vendejo: bolt
+vendejon: boltot
+vendisto: eladó 
+vestaĵo: ruha 
+vestaĵoj: ruhák
+vestaĵojn: ruhákat 
+vestaĵon: ruhát
+veturado: utazás
+veturigus: elvinne (járművel)
+viaj: a tieid
+virino: nő
+vojaĝantoj: utazók
+ĉambristoj: szobafiúk
+ĉeesto: jelenlét
+ĉirkaŭaĵo: környék
+ĝenon: zavarást
+ĝustatempe: 
+  - jókor
+  - a megfelelő időben
+ŝiaj: az övéi (nőnem) 
+ŝipkuron: hajófutamot

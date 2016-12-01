@@ -3,7 +3,7 @@ ad:
   - -gat, -get
 an:  egy csoport tagja
 ar:  csoport, gyűjtemény
-aĉ:  alacsony minőség
+aĉ:  alacsony minőségű, silány
 aĵ:  
   - dolog
   - konkrétum
@@ -16,7 +16,7 @@ ej:  hely
 er:
   - rész
   - részecske
-estr: főnök
+estr: főnök, vezető
 et:  
   - kicsi
   - kicsinyítés
@@ -24,7 +24,7 @@ ig:
   - -tat, -tet (műveltetés)
   - -ít
 il: eszköz
-in: nő 
+in: nő, nőstény 
 ind: 
   - méltó
   - érdemes
@@ -34,7 +34,6 @@ iĝ:
   - -ul, -ül
 uj:  
   - tartály
-  - fa
   - ország
 ul: személy 
 um:  határozatlan jelentés

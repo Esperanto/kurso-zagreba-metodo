@@ -1,51 +1,53 @@
 - 
-  demando: Does friendship make you more happy than love does?
+  demando: A barátság boldogabbá tesz, mint a szerelem?
   rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+    - Ĉu: Vajon
+    - amikeco: barátság
+    - pli: -bb
+    - feliĉigas: 
+      - boldoggá tesz
+      - boldogít
+    - vin: téged
+    - ol: mint
+    - la: a
+    - amo: szerelem
     - '?'
 - 
-  demando: How often do you write letters to your girlfriends in Italy?
+  demando: Milyen gyakran írsz levelet a barátnőidnek Olaszországban?
   rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
+    - Kiel: Hogyan
+    - ofte: gyakran
+    - vi: te
+    - skribas: ír
+    - leterojn: leveleket
+    - al: -nak, -nek
+    - viaj: tieid
+    - amikinoj: barátnők
+    - en: ban
+    - Italio: Olyaszország
     - '?'
 - 
-  demando: Has the relationship between you and your teacher changed?
+  demando: Megváltozott a kapcsolat közted és a tanárod között?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+    - Ĉu: Vajon
+    - la: a
+    - rilato: kapcsolat
+    - inter: között
+    - vi: te
+    - kaj: és
+    - via: tiéd
+    - instruisto: tanár
+    - ŝanĝiĝis: (meg)változott
     - '?'
 - 
-  demando: Do you now already know Esperanto well enough?
+  demando: Most már elég jól tudod az eszperantót?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - Ĉu: Vajon
+    - vi: te
+    - nun: most
+    - jam: már
+    - scias: tud
+    - Esperanton: eszperantót
+    - sufiĉe: eléggé
+    - bone: jól
     - '?'

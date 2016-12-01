@@ -1,54 +1,60 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: El tudod hozni a testvérem gyógyszerét?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: Vajon
+    - vi: te
+    - povas: tud
+    - kunporti: magávalhozni
+    - la: a, az
+    - sanigilon: gyógyszert
+    - de: -nak a, nek a
+    - mia: 
+      - az én, 
+      - enyém
+    - fratino: lánytestvér
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: Mikor vetted ezt a hangszert?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Mikor
+    - vi: te
+    - aĉetis: vet
+    - tiun: ezt a
+    - muzikilon: hangszert
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: Ki használta utoljára a kulcsomat?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Ki
+    - laste: 
+      - utoljára
+      - legutóbb
+    - uzis: használt
+    - mian: 
+      - az én, 
+      - enyém
+    - ŝlosilon: kulcsot
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Utaztál Velencében gondolával is?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
+    - Ĉu: Vajon
+    - vi: te
+    - en: -ban, -ben
+    - Venecio: Velence
+    - veturis: utazott
+    - ankaŭ: is
+    - per: -val, -vel
     - gondolo: gondola
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: El tudsz majd aludni amikor elcsendesedett?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: Vajon
+    - vi: te
+    - povos: fogsz tudni
+    - ekdormi: elaludni
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: amikor 
+    - silentiĝis: elcsendesedett
     - '?'

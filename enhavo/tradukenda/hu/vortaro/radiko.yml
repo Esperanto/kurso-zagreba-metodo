@@ -28,7 +28,7 @@ cert: biztos
 dank: köszön
 daŭr: tart
 decid: elhatároz
-demand: to askkérdez
+demand: kérdez
 dev: kell
 dezir: kíván
 diabl: ördög
@@ -93,7 +93,9 @@ kaf: kávé
 kalv: kopasz
 kap: fej
 kapabl: képes
-kapt: elfog
+kapt: 
+  - elfog
+  - megfog
 kar: 
   - kedves
   - drága
@@ -203,7 +205,7 @@ pov:
   - tud
   - képes
 pren: 
-  - vesz 
+  - elvesz 
   - megfog
 pret: kész
 prezent: bemutat

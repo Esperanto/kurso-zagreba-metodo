@@ -1,68 +1,72 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: Viszontlátjuk-e egymást bárhol és bármikor?
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: Vajon
+    - ni: mi
+    - revidos: viszont fog látni
+    - nin: minket
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: hol
+    - ajn: -bár
+    - kaj: és
+    - kiam: mikor
+    - ajn: -bár
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: Mikor kapom vissza a könyvek másik felét?
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: Mikor
+    - mi: én 
+    - rericevos: vissza fog kapni
+    - la: a, az
+    - alian: másikat
+    - duonon: felét
+    - de: -nak a, -nek a
+    - la: a, az
+    - libroj: könyvek
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: Több, mint negyed évre lesz szükséged ezekhez a munkákhoz?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: Vajon
+    - vi: te
+    - bezonos: szüksége lesz
+    - pli: -bb
+    - ol: mint
+    - kvaronan: negyed
+    - jaron: évet
+    - por: 
+      - számára, részére
+      - -ra, -re
+    - tiuj: azok
+    - laboroj: munkák
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: Miért van annál inkább hidegebb, minél tovább várunk?
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: Miért
+    - estas: van
+    - des: annál inkább
+    - pli: -bb
+    - malvarma: hideg
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: minél inkább
+    - pli: -bb
+    - longe: 
+      - sokáig
+      - hosszan
+    - ni: mi
+    - atendas: vár
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: Elégedett lennél akármelyik férfival?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: Vajon
+    - vi: te
+    - estus: lenne
+    - kontenta: elégedett
+    - kun: -val, -vel
+    - iu: valamelyik
+    - ajn: akár
+    - viro: férfi
     - '?'

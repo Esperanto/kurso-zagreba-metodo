@@ -1,12 +1,12 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Tanuld meg **a legfontosabb 500 szót**
+- **Nem kötött regisztrációhoz **: Csak kattints a *Start* gombra
+- mobiltelefonra alkalmas** okostelefonokhoz
+- nem csak ingyenesen letölthető, hanem **[ingyenesen használható más projektekhez is](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-The course consists of **12 lessons**, each with
+A tanfolyam **12 leckéből** áll, mindegyik tartamaz
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+- egy szöveget
+- nyelvtani magyarázatokat
+- és 3 gyakorlatot.
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+Miután elvégezted a tanfolyamot, meg fogod érteni a legfontosabb dolgokat és képes leszel mondatokat alkotni, hogy kifejezd magadat. Csak próbáld ki!

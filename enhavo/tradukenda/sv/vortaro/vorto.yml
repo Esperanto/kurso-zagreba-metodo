@@ -52,7 +52,7 @@ domegon: villa
 dumnokte: under nattetid
 dumtage: under dagtid
 ekkriis: skrika till
-ekmire: förunderligt
+ekmire: förvånat
 ekparolis: började prata
 ekridis: började skratta
 ekrigardis: började titta
@@ -112,12 +112,16 @@ havindan: värd att ha
 homformo: 
 - människogestalt
 - människoform
+- människoskepnad
 hommulton: folksamling
 ideoriĉan: idérik
 industriisto: industrialist
 instruistino: lärarinna 
 instruiston: lärare
-intervidiĝas: få syn på varandra
+intervidiĝas: 
+- få syn på varandra
+- ses
+- träffas
 iron: gång
 junulino: ung tjej
 junulinoj: unga tjejer
@@ -279,9 +283,9 @@ subakvigis:
 - dopppa i vatten
 - dränka
 subakviĝis: 
-- dyka
-- hoppa i vattnet
-- hamna i vatten
+- dök
+- hoppade i vattnet
+- hamnade i vatten
 subite: plötsligt
 supren: uppåt
 surhavas: har på sig
@@ -317,7 +321,9 @@ virino: kvinna
 vojaĝantoj: resande
 ĉambristoj: 
 - städerska 
-- husa
+- husor
+- rumsansvariga
+- kammarbetjänter
 ĉeesto: närvaro
 ĉirkaŭaĵo: omgivning
 ĝenon: 

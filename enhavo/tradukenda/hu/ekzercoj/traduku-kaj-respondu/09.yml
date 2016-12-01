@@ -1,75 +1,85 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: Minek örülnének legjobban a szüleid?
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: Mi
+    - povus: tudná
+    - plej: leg
+    - ĝojigi: 
+      - vidámítani
+      - örömet okozni
+    - viajn: tieidet
+    - gepatrojn: szülőket
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: Ha legalább tanulás után mennél velem a városközpontba!
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: Ha
+    - almenaŭ: legalább
+    - vi: te
+    - post: után
+    - la: a, az 
+    - lernado: tanulás
+    - irus: mennél
+    - kun: -val, -vel
+    - mi: én
+    - en: -ban, -ben
+    - la: a, az 
+    - urbocentron: városközpontot
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: Hová szeretnél utazni, ha elegendő időd és pénzed lenne?
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: Hová
+    - vi: te
+    - dezirus: 
+      - szeretnél
+      - kívánnál
+    - vojaĝi: utazni
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: ha
+    - vi: te
+    - havus: lenne
+    - sufiĉe: elegendő
+    - da: 
+      - -nyi
+      - mennyiség
+    - mono: pénz
+    - kaj: és
+    - tempo: idő
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: Autóval szándékozol Párizsba utazni vagy nem tűnik-e sokkal jobbnak vonattal?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - Ĉu: Vajon
+    - vi: te
+    - planas: tervez
+    - veturi: utazni
+    - al: -hoz, -hez, -höz
+    - Parizo: Párizs
+    - per: -val, -vel
+    - aŭto: autó
+    - aŭ: vagy
+    - ĉu: vajon
+    - ne: nem
+    - ŝajnas: tűnik
+    - multe: sokat
+    - pli: -bb
+    - bone: jobb
+    - per: -val, -vel
+    - vagonaro: vonat
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: Miért magyarázzák különböző emberek ugyanazokat az eszméket másképpen?
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: Miért
+    - diversaj: különböző
+    - homoj: emberek
+    - klarigas: magyaráz
+    - samajn: ugyanazokat
+    - ideojn: 
+      - eszméket,
+      - ötleteket
+    - diversmaniere: 
+      - különbözőképpen 
+      - másképpen
     - '?'

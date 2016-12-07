@@ -2,7 +2,7 @@
 
 Saluton! Unue dankegon, ke vi volas traduki tiun ĉi kurson! Kiel fari tion.
 
-## Registru konton ĉe Github
+## Kreu konton ĉe Github
 
 1. bonvole iru al https://github.com/join kaj kreu (senpagan) personan konton.
 2. Sendu vian uzantnomon al georg@jaehnig.org kaj skribu ankaŭ:

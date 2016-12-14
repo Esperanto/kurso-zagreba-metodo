@@ -1,34 +1,57 @@
-aŭskult: 
+aŭskult: lyssna
 divers: 
-ekzempl: 
-glas: 
-infan: 
+ekzempl: exempel
+glas: dricksglas
+infan: barn
 inform: 
-kant: 
-kien: 
+ - informera
+ - information
+kant:
+ - sång
+ - sjunga
+kien: vart
 konsent: 
-lingv: 
-loĝ: 
-manier: 
-monat: 
-mond: 
-naci: 
-organiz: 
-plor: 
-pluv: 
-poŝ: 
-poŝt: 
-proksimum: 
+ - samtycka
+ - hålla med
+lingv: språk
+loĝ: bo
+manier: sätt 
+monat: månad
+mond: värld
+naci: nation
+organiz: organisera
+plor: gråta
+pluv: regna
+poŝ: ficka
+poŝt: post
+proksimum: ungefär
 publik: 
-punkt: 
-pur: 
-rakont: 
+ - publik
+ - allmänhet
+ - allmän
+ - offentlig
+punkt: punkt
+pur: ren
+rakont: berätta
 rimark: 
-seĝ: 
-sia: 
+ - märka
+ - lägga märke till
+ - påpeka
+seĝ: stol
+sia: sin
 simpl: 
+ - simpel
+ - enkel
 terur: 
-tut: 
-universal: 
-rilat:
-sat:
+ - förskräcklig
+ - hemsk
+ - förfärlig
+tut: hel
+universal: universiell
+rilat: 
+ - relation
+ - förhållande
+ - relatera
+ - relaterat
+ - relaterad
+sat: mätt

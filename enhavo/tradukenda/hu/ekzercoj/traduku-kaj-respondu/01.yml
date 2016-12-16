@@ -3,14 +3,14 @@
   rektatraduko:
     - Kiu: Ki
     - estas: van (a magyar mondatban nem szerepel)
-    - via: tied
+    - via: a te/tied
     - amikino: barátnő
     - '?'
 - 
   demando: Anna barátnőd most a szobában ír?
   rektatraduko:
     - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
-    - via: tied
+    - via: a te/tied
     - amikino: barátnő
     - Anna: Anna
     - skribas: ír
@@ -26,7 +26,7 @@
     - la: a
     - amiko: barát
     - de: -nak/nek
-    - via: tied
+    - via: a te/tied
     - patro: apa
     - laboras: dolgozik
     - en: -ban/ben
@@ -41,7 +41,7 @@
     - la: a 
     - labortablo: munkaasztal
     - en: -ban/ben
-    - nia: mienk
+    - nia: a mi/mienk
     - ĉambro: szoba
     - '?'
 - 
@@ -51,7 +51,7 @@
     - Esperanto-lernolibro: Eszperantó tankönyv
     - estas: van
     - sur: -on/en/ön
-    - via: tied 
+    - via: a te/tied 
     - tablo: asztal
     - '?'
 

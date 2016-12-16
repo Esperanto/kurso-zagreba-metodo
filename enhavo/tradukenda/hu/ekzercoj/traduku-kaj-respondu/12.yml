@@ -7,10 +7,10 @@
     - nin: minket
     - ',' 
     - kie: hol
-    - ajn: -bár
+    - ajn: bár-
     - kaj: és
     - kiam: mikor
-    - ajn: -bár
+    - ajn: bár-
     - '?'
 - 
   demando: Mikor kapom vissza a könyvek másik felét?
@@ -18,11 +18,11 @@
     - Kiam: Mikor
     - mi: én 
     - rericevos: vissza fog kapni
-    - la: a, az
+    - la: a
     - alian: másikat
     - duonon: felét
-    - de: -nak a, -nek a
-    - la: a, az
+    - de: -nak a/nek a
+    - la: a
     - libroj: könyvek
     - '?'
 - 
@@ -36,8 +36,9 @@
     - kvaronan: negyed
     - jaron: évet
     - por: 
-      - számára, részére
-      - -ra, -re
+      - számára
+      - részére
+      - -ra/re
     - tiuj: azok
     - laboroj: munkák
     - '?'
@@ -65,7 +66,7 @@
     - vi: te
     - estus: lenne
     - kontenta: elégedett
-    - kun: -val, -vel
+    - kun: -val/vel
     - iu: valamelyik
     - ajn: akár
     - viro: férfi

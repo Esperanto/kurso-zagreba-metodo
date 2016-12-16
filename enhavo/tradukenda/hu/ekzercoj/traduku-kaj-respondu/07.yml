@@ -2,14 +2,20 @@
   demando: Kinél volt a könyv, amit több, mint két évig vártál?
   rektatraduko: 
     - Kiu: Ki
-    - havis: volt valamije/birtokolta
-    - la: a, az
+    - havis: 
+      - volt valamije
+      - birtokolta
+    - la: a
     - libron: könyvet
     - ',' 
-    - kiun: amelyet/amelyiket
+    - kiun: 
+      - amelyet
+      - amelyiket
     - vi: te
     - atendis: vártál
-    - pli: -bb/ több
+    - pli: 
+      - -bb
+      - több
     - ol: mint
     - du: két
     - jarojn: éveket
@@ -24,7 +30,7 @@
     - ke: hogy
     - mi: én
     - montras: mutat
-    - al: -nak 
+    - al: -nak/nek 
     - vi: te
     - mian: enyémet
     - plej: leg -bb
@@ -67,11 +73,15 @@
   rektatraduko: 
     - Kie: Hol
     - estas: van
-    - la: a, az
+    - la: a
     - akvo: víz
     - ',' 
-    - kiun: amit/ amelyet
+    - kiun: 
+      - amit
+      - amelyet
     - vi: te
     - mem: maga
-    - kunportis: hozott/ magával hozott
+    - kunportis: 
+      - hozott
+      - magával hozott
     - '?'

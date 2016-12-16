@@ -7,7 +7,10 @@
     - trankvile: nyugodtan
     - lerni: tanulni
     - ','
-    - dum: mialatt/miközben/amíg
+    - dum: 
+      - mialatt
+      - miközben
+      - amíg
     - iu: valaki
     - ĝoje: vidáman
     - kantas: énekel
@@ -23,7 +26,9 @@
     - kie: hol
     - ni: mi
     - revidos: újra fog látni
-    - nin: magunkat/egymást
+    - nin: 
+      - magunkat
+      - egymást
     - '?'
 -
   demando: Hány óra van most?
@@ -55,11 +60,15 @@
     - Kial: Miért
     - vi: te
     - ne: nem
-    - havas: van valamije/birtokol
+    - havas: 
+      - van valamije
+      - birtokol
     - tempon: időt
     - aŭskulti: hallgatni
     - al: -hoz/-nak
     - mi: én
     - pli: -bb
-    - longe: hosszan/sokáig
+    - longe: 
+      - hosszan
+      - sokáig
     - '?'

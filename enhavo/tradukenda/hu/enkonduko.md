@@ -1,9 +1,9 @@
 - Tanuld meg **a legfontosabb 500 szót**
 - **Nem kötött regisztrációhoz **: Csak kattints a *Start* gombra
-- mobiltelefonra alkalmas** okostelefonokhoz
+- mobiltelefonnal használható** okostelefonokhoz
 - nem csak ingyenesen letölthető, hanem **[ingyenesen használható más projektekhez is](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-A tanfolyam **12 leckéből** áll, mindegyik tartamaz
+A tanfolyam **12 leckéből** áll, mindegyik tartalmaz
 
 - egy szöveget
 - nyelvtani magyarázatokat

@@ -6,7 +6,7 @@
     - la: a
     - kuirejon: konyhát
     - post: után
-    - la: a, az
+    - la: a
     - tagmanĝo: ebéd
     - '?'
 - 
@@ -38,16 +38,18 @@
     - decidis: döntött
     - renovigi: felújítani
     - vian: tiédet
-    - ĉambreton: szobácskát
+    - ĉambreton: 
+      - szobácskát
+      - kis szobát
     - '?'
 - 
   demando: Kinek adtad a tiszta borospoharakat?
   rektatraduko: 
-    - Al: -nak,-nek
+    - Al: -nak/nek
     - kiu: ki
     - vi: te
     - donis: adott
-    - la: a,az
+    - la: a
     - purajn: tisztákat
     - glasojn: poharakat
     - por: számára 
@@ -61,7 +63,9 @@
     - kiu: ki
     - ludis: játszott
     - via: tiéd
-    - sportklubo: sportklub/sportcsapat
+    - sportklubo: 
+      - sportklub
+      - sportcsapat
     - antaŭ: előtt
     - du: kettő
     - semajnoj: hetek
@@ -73,13 +77,13 @@
     - vi: te
     - ofte: gyakran
     - vidas: lát
-    - la: a, az
+    - la: a
     - policiston: rendőrt
     - ',' 
     - kiu: aki
     - loĝas: lakik
-    - en: -ban, -ben 
-    - la: a, az
+    - en: -ban/ben 
+    - la: a
     - loĝejo: lakás
     - super: felett
     - vi: te

@@ -17,13 +17,13 @@
     - almenaŭ: legalább
     - vi: te
     - post: után
-    - la: a, az 
+    - la: a
     - lernado: tanulás
     - irus: mennél
-    - kun: -val, -vel
+    - kun: -val/vel
     - mi: én
-    - en: -ban, -ben
-    - la: a, az 
+    - en: -ban/ben
+    - la: a
     - urbocentron: városközpontot
     - '!'
 - 
@@ -54,9 +54,9 @@
     - vi: te
     - planas: tervez
     - veturi: utazni
-    - al: -hoz, -hez, -höz
+    - al: -hoz/hez/höz
     - Parizo: Párizs
-    - per: -val, -vel
+    - per: -val/vel
     - aŭto: autó
     - aŭ: vagy
     - ĉu: vajon
@@ -64,8 +64,8 @@
     - ŝajnas: tűnik
     - multe: sokat
     - pli: -bb
-    - bone: jobb
-    - per: -val, -vel
+    - bone: jól
+    - per: -val/vel
     - vagonaro: vonat
     - '?'
 - 
@@ -77,7 +77,7 @@
     - klarigas: magyaráz
     - samajn: ugyanazokat
     - ideojn: 
-      - eszméket,
+      - eszméket
       - ötleteket
     - diversmaniere: 
       - különbözőképpen 

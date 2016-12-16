@@ -3,7 +3,7 @@
   rektatraduko:  
     - Ĉu: Vajon 
     - kelneroj: pincérek
-    - en: -ban, -ben
+    - en: -ban/ben
     - grandaj: nagyok
     - hoteloj: szállodák
     - komprenas: ért
@@ -23,7 +23,7 @@
     - la: a
     - novan: újat
     - kanton: dalt
-    - pri: -ról, -ről
+    - pri: -ról/ről
     - malriĉulo: szegény ember
     - kaj: és
     - belulino: szépség
@@ -55,7 +55,7 @@
     - vi: te
     - denove: megint
     - venis: jött
-    - al: -hoz
+    - al: -hoz/hez/höz
     - ni: mi
     - sen: nélkül
     - gefratoj: testvérek
@@ -66,7 +66,7 @@
     - Ĉu: Vajon
     - vi: te
     - povas: tud
-    - per: -val
+    - per: -val/vel
     - la: a 
     - nova: új
     - lernolibro: tankönyv

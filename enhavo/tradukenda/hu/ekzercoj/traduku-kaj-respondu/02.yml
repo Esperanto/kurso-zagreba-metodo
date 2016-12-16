@@ -3,7 +3,7 @@
   rektatraduko: 
     - Kia: Milyen
     - estis: volt
-    - via: a te
+    - via: a te/tied
     - malnova: régi
     - hejmo: otthon 
     - '?'
@@ -28,11 +28,11 @@
     - Anna: Anna
     - kaj: és
     - Marko: Márk
-    - en: -ban 
+    - en: -ban/ben 
     - la: a
     - malgranda: kicsi
     - ĉambro: szoba
-    - de: -nak a 
+    - de: -nak a/nek a 
     - Marko: Márk
     - '?'
 - 
@@ -43,7 +43,7 @@
     - ŝatas: szeret
     - legi: olvasni
     - librojn: könyveket
-    - pri: -ről
+    - pri: -ról/ről
     - amo: szerelem
     - '?'
 - 
@@ -51,10 +51,10 @@
   rektatraduko: 
     - Kiu: Ki
     - iros: fog menni
-    - kun: -val
+    - kun: -val/vel
     - vi: te
-    - al: -hoz 
-    - via: te
+    - al: -hoz/hez/höz 
+    - via: a te/tied
     - hejmo: otthon
     - '?'
 - 
@@ -64,7 +64,7 @@
     - estas: van
     - la: a
     - okuloj: szemei
-    - de: -nak a 
-    - via: a te
+    - de: -nak a/-nek a 
+    - via: a te/tied
     - amikino: barátnőd
     - '?'

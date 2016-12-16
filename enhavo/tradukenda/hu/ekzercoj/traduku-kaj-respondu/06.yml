@@ -8,7 +8,7 @@
     - ke: hogy 
     - mi: én
     - montras: mutat
-    - al: -nak
+    - al: -nak/nek
     - vi: te
     - mian: enyémet
     - plej: leg -bb
@@ -32,11 +32,11 @@
     - alvenos: fog érkezni
     - ',' 
     - je: -kor
-    - la: a, az
+    - la: a
     - kvina: ötödik
     - aŭ: vagy
     - je: -kor
-    - la: a, az
+    - la: a
     - oka: nyolcadik
     - horo: óra
     - '?'
@@ -48,7 +48,7 @@
     - rimarkis: észrevetted
     - ','  
     - ke: hogy
-    - la: az
+    - la: a
     - tuta: egész
     - familio: család
     - nomas: hív/nevez
@@ -59,11 +59,11 @@
   demando: Hasznos volt-e neked/számodra a könyvecske, amit küldtem?
   rektatraduko: 
     - Ĉu: Vajon
-    - la: a, az 
+    - la: a
     - libreto: könyvecske
     - estis: volt
     - utila: hasznos
-    - al: -nak
+    - al: -nak/nek
     - vi: te
     - ',' 
     - kiun: amit/amelyet

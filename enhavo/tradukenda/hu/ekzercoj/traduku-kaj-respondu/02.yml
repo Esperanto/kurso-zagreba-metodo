@@ -3,7 +3,7 @@
   rektatraduko: 
     - Kia: Milyen
     - estis: volt
-    - via: a te/tied
+    - via: tiéd
     - malnova: régi
     - hejmo: otthon 
     - '?'
@@ -54,7 +54,7 @@
     - kun: -val/vel
     - vi: te
     - al: -hoz/hez/höz 
-    - via: a te/tied
+    - via: tiéd
     - hejmo: otthon
     - '?'
 - 
@@ -65,6 +65,6 @@
     - la: a
     - okuloj: szemei
     - de: -nak a/-nek a 
-    - via: a te/tied
-    - amikino: barátnőd
+    - via: tiéd
+    - amikino: barátnő
     - '?'

@@ -22,10 +22,10 @@
   rektatraduko: 
     - Kie: Hol
     - estas: van
-    - mia: enyém
+    - mia: az én, enyém
     - nova: új
     - libro: könyv
-    - kun: -val
+    - kun: -val/vel
     - fotoj: fényképek
     - '?'
 -
@@ -35,7 +35,7 @@
     - vi: te
     - iros: fog menni
     - post: után
-    - la: a, az
+    - la: a
     - tagmanĝo: ebéd
     - '?'
 -
@@ -47,7 +47,7 @@
     - fermi: zárni
     - la: a, az
     - pordon: ajtó
-    - de: -nak 
+    - de: -nak/nek 
     - la: a
     - ĉambro: szoba
     - ','
@@ -66,7 +66,7 @@
     - se: ha
     - oni: az ember
     - forprenas: elvesz
-    - de: -tól
+    - de: -tól/től
     - vi: te
     - multan: sokat
     - monon: pénzt

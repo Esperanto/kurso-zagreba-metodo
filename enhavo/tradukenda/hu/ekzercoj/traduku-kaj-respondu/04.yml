@@ -10,7 +10,9 @@
   demando: Milyen régen tanulod a nemzetközi nyelvet?
   rektatraduko: 
     - Kiel: Hogyan
-    - longe: hosszan/sokáig
+    - longe: 
+      - hosszan
+      - sokáig
     - vi: te
     - lernas: tanul
     - la: a 
@@ -59,7 +61,9 @@
   demando: Milyen sokáig haragszol ha sok pénzt vesznek el tőled?
   rektatraduko: 
     - Kiel: Hogyan
-    - longe: hosszan/sokáig
+    - longe: 
+      - hosszan
+      - sokáig
     - vi: te
     - koleras: mérges van
     - ','

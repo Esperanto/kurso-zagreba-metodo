@@ -4,13 +4,13 @@
     - Ĉu: Vajon
     - vi: te
     - povas: tud
-    - kunporti: magávalhozni
-    - la: a, az
+    - kunporti: 
+      - magávalhozni
+      - elhozni
+    - la: a
     - sanigilon: gyógyszert
-    - de: -nak a, nek a
-    - mia: 
-      - az én, 
-      - enyém
+    - de: -nak a/nek a
+    - mia: enyém
     - fratino: lánytestvér
     - '?'
 - 
@@ -18,7 +18,7 @@
   rektatraduko: 
     - Kiam: Mikor
     - vi: te
-    - aĉetis: vet
+    - aĉetis: vett
     - tiun: ezt a
     - muzikilon: hangszert
     - '?'
@@ -30,9 +30,7 @@
       - utoljára
       - legutóbb
     - uzis: használt
-    - mian: 
-      - az én, 
-      - enyém
+    - mian: enyémet
     - ŝlosilon: kulcsot
     - '?'
 - 
@@ -40,11 +38,11 @@
   rektatraduko: 
     - Ĉu: Vajon
     - vi: te
-    - en: -ban, -ben
+    - en: -ban/ben
     - Venecio: Velence
     - veturis: utazott
     - ankaŭ: is
-    - per: -val, -vel
+    - per: -val/vel
     - gondolo: gondola
     - '?'
 - 

@@ -25,7 +25,7 @@ belaĵoj: szép dolgok
 beleta: csinos
 bestetoj: kisállatok
 bonega: 
-  - kíváló
+  - kiváló
   - nagyszerű
 bonvolu: 
   - légy szíves, legyen szíves
@@ -45,7 +45,7 @@ domegon: nagy házat
 dumnokte: 
   - éjszaka
   - az éjjel
-  - az élszaka alatt
+  - az éjszaka alatt
 dumtage: 
   - napközben
   - nappal
@@ -75,7 +75,7 @@ fine: végül
 foresti: távol lenni
 foriros: el fog menni
 fratino: lánytestvér
-fuŝparolis: rosszul bezsélt
+fuŝparolis: rosszul beszélt
 geamikoj: barátok
 gefratoj: testvérek
 gelernantojn: tanulókat
@@ -139,7 +139,7 @@ malfacile: nehezen
 malfeliĉo: 
   - boldogtalanság
   - szerencsétlenség
-malforta: gynege
+malforta: gyenge
 malforte: gyengén 
 malfruas: késik
 malfrue: későn
@@ -182,7 +182,7 @@ manĝegi: zabálni
 maristo: tengerész
 maristoj: tengerészek
 mariston: tengerészt
-miaj: az én, enyéim 
+miaj: enyéim 
 militistoj: katonák
 monerojn: pénzérméket
 monujo: pénztárca
@@ -208,7 +208,9 @@ patrino: anya
 perdigis: elveszejtett
 plenigadis: töltögetett
 plenumis: teljesített
-plibeligis: szebbé tett
+plibeligis: 
+  - szebbé tett
+  - szépített
 plimulto: többség
 policano: rendőr
 promenejo: sétány
@@ -238,7 +240,7 @@ senbrue: zajtalanul
 seninterese: érdektelenül
 senkolora: színtelen
 sensukcese: sikertelenül
-sentimulo: félelemnélküli ember
+sentimulo: félelem nélküli ember
 senvorte: szótlanul
 sinjorinoj: hölgyek
 sinjorinon: hölgyet
@@ -247,12 +249,12 @@ soleca: magányos
 sovaĝejo: vadaspark
 sportisto: sportoló
 subakvigis: elsüllyesztett
-subakviĝis: elsülyledt
+subakviĝis: elsüllyedt
 subite: hirtelen
 supren: fel
 surhavas: visel
 surlokan: helyit
-teroristoj: teroristák
+teroristoj: terroristák
 tiuokaze: abban az esetben
 travivaĵo: élmény
 tridekjara: 30 éves

@@ -1,14 +1,14 @@
 ad:  
   - ismétlődő cselekvés
-  - -gat, -get
+  - -gat/get
 an:  egy csoport tagja
 ar:  csoport, gyűjtemény
 aĉ:  alacsony minőségű, silány
 aĵ:  
   - dolog
   - konkrétum
-ebl: -ható, -hető
-ec:  -ság, -ség (tulajdonság)
+ebl: -ható/hető
+ec:  -ság/ség (tulajdonság)
 eg:
   - nagy
   - nagyítás
@@ -16,24 +16,28 @@ ej:  hely
 er:
   - rész
   - részecske
-estr: főnök, vezető
+estr: 
+  - főnök
+  - vezető
 et:  
   - kicsi
   - kicsinyítés
 ig:  
-  - -tat, -tet (műveltetés)
+  - -tat/tet (műveltetés)
   - -ít
 il: eszköz
-in: nő, nőstény 
+in: 
+  - nő
+  - nőstény(állat)
 ind: 
   - méltó
   - érdemes
 ist: foglalkozás
 iĝ: 
   - válik valamivé
-  - -ul, -ül
+  - -ul/ül
 uj:  
   - tartály
-  - ország
+  - ország (ritka)
 ul: személy 
-um:  határozatlan jelentés
+um: határozatlan jelentés

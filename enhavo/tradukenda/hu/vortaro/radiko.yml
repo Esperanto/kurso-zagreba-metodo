@@ -8,7 +8,7 @@ am: szeret
 amas: tömeg
 amik: barát
 arb: fa
-aspekt: kinézet
+aspekt: kinéz
 atend: vár
 atent: figyel
 aĉet: vesz
@@ -45,11 +45,9 @@ don: ad
 dorm: alszik
 doĝ: dózse
 edz: férj
-efektiv: 
-  - efektív
-  - tényleges
-ekskurs: kirándulás
-esper: remény
+efektiv: tényleges
+ekskurs: kirándul
+esper: remél
 est: van
 facil: könnyű
 fakt: tény
@@ -124,7 +122,7 @@ kuk: süti
 kur: fut
 labor: 
   - munka
-  - dolog
+  - dolgoz
 lakt: tej
 lamp: lámpa
 land: ország
@@ -143,7 +141,7 @@ lud: játszik
 lum: fény
 man: kéz
 mank: hiány
-manĝ: enni
+manĝ: eszik
 mar: tenger
 maten: reggel
 memor: emlék
@@ -186,7 +184,7 @@ parol: beszél
 part: rész
 pas: múlik
 patr: apa
-paŝ: lépés
+paŝ: lép
 pens: gondol
 perd: veszt
 person: személy

@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: Kdo je tvá přítelkyně?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Kdo
+    - estas: je
+    - via: tvá
+    - amikino: přítelkyně
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Píše nyní tvoje přítelkyně Anna v pokoji?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
+    - Ĉu: (tázací částice)
+    - via: tvoje
+    - amikino: přítelkyně
     - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - skribas: píše
+    - nun: nyní
+    - en: v
+    - la: (určitý člen)
+    - ĉambro: pokoji
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Pracuje přítel tvého otce v hotelu?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: (tázací částice)
+    - la: (určitý člen)
+    - amiko: přítel
+    - de: od
+    - via: tvého
+    - patro: otce
+    - laboras: pracuje
+    - en: v
+    - hotelo: hotelu
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: Co je na pracovním stole ve tvém pokoji?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: Co
+    - estas: je
+    - sur: na
+    - la: (určitý člen)
+    - labortablo: pracovním stole
+    - en: ve
+    - nia: tvém
+    - ĉambro: pokoji
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Je na tvém stole esperantská účebnice?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: (tázací částice)
+    - Esperanto-lernolibro: esperantská učebnice
+    - estas: je
+    - sur: na
+    - via: tvém
+    - tablo: stole
     - '?'
 

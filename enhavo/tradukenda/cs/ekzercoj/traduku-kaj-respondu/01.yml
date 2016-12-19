@@ -33,15 +33,15 @@
     - hotelo: hotelu
     - '?'
 - 
-  demando: Co je na pracovním stole ve tvém pokoji?
+  demando: Co je na pracovním stole v našem pokoji?
   rektatraduko:
     - Kio: Co
     - estas: je
     - sur: na
     - la: (určitý člen)
     - labortablo: pracovním stole
-    - en: ve
-    - nia: tvém
+    - en: v
+    - nia: našem
     - ĉambro: pokoji
     - '?'
 - 

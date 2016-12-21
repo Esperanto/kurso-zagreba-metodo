@@ -8,7 +8,7 @@
     - hejmo: domov
     - '?'
 - 
-  demando: Které knihy jsi četl a byly dobré?
+  demando: Které knihy jsi četl a jsou dobré?
   rektatraduko: 
     - Kiujn: Které
     - librojn: knihy
@@ -17,7 +17,7 @@
     - kaj: a
     - ĉu: (tázací částice)
     - ili: ony
-    - estas: byly
+    - estas: jsou
     - bonaj: dobré
     - '?'
 - 

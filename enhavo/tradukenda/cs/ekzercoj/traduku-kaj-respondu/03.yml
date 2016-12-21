@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Rozumí číšníci ve velkých hotelích hodně jazykům?
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: (Tázací částice)
+    - kelneroj: číšníci
+    - en: ve
+    - grandaj: velkých
+    - hoteloj: hotelích
+    - komprenas: rozumí
+    - multajn: hodně
+    - lingvojn: jazykům
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Víš, jestli má Anna ráda novou píseň o chudáku a krásce?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: (Tázací částice)
+    - vi: ty
+    - scias: víš
     - ','
-    - ĉu: whether
+    - ĉu: Jestli
     - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ŝatas: má ráda
+    - la: (člen určitý)
+    - novan: novou
+    - kanton: píseň
+    - pri: o
+    - malriĉulo: chudáku
+    - kaj: a
+    - belulino: krásce
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Kde jsi viděl starce a mladíka kteří nesli velký stůl?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Kde
+    - vi: ty
+    - vidis: jsi viděl
+    - la: (člen určitý)
+    - maljunulon: starce
+    - kaj: a
+    - la: (člen určitý)
+    - junulon: mladíka
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: kteří
+    - portis: nesli
+    - grandan: velký
+    - tablon: stůl
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Jak se to stalo, že jsi znovu přišel k nám bez sourozenců?
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Jak
+    - okazis: se to stalo
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: že
+    - vi: ty
+    - denove: znovu
+    - venis: jsi přišel
+    - al: k 
+    - ni: nám
+    - sen: bez
+    - gefratoj: sourozenců
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Můžeš se s novou učebnicí dostatečně rychle naučit Esperanto?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
+    - Ĉu: (Tázací částice)
+    - vi: ty
+    - povas: můžeš
+    - per: s
+    - la: (člen určitý) 
+    - nova: novou
+    - lernolibro: učebnicí
+    - sufiĉe: dostatečně
+    - rapide: rychle
+    - lerni: naučit se
     - Esperanton: Esperanto
     - '?'

@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: Jaký byl tvůj starý domov?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: Jaký
+    - estis: byl
+    - via: tvůj
+    - malnova: starý
+    - hejmo: domov
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: Které knihy jsi četl a byly dobré?
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: Které
+    - librojn: knihy
+    - vi: ty
+    - legis: jsi četl
+    - kaj: a
+    - ĉu: (tázací částice)
+    - ili: ony
+    - estas: byly
+    - bonaj: dobré
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: "Co dělali Anna a Marek v Markově malém pokoji?"
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kion: Co
+    - faris: dělali
     - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - kaj: a
+    - Marko: Marek
+    - en: v 
+    - la: (člen určitý)
+    - malgranda: malém
+    - ĉambro: pokoji
+    - de: od
+    - Marko: Marka
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Máš rád čtení knih o lásce?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: (Tazací částice)
+    - vi: ty
+    - ŝatas: máš rád
+    - legi: čtení
+    - librojn: knih
+    - pri: o
+    - amo: lásce
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Kdo s tebou půjde do tvého domova?
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: Kdo
+    - iros: půjde
+    - kun: s
+    - vi: tebou
+    - al: do 
+    - via: tvého
+    - hejmo: domova
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "Jaké jsou oči tvé přítelkyně?"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: Jaké
+    - estas: jsou
+    - la: (člen určitý)
+    - okuloj: oči
+    - de: od
+    - via: tvé
+    - amikino: přítelkyně
     - '?'

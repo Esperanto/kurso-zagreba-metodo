@@ -1,7 +1,7 @@
 -
   demando: Umíš se klidně učit, zatímco někdo vesele zpívá?
   rektatraduko: 
-    - Ĉu: (Tázací částice)
+    - Ĉu: Zda
     - vi: ty
     - povas: umíš
     - trankvile: klidně
@@ -36,7 +36,7 @@
 -
   demando: Pomohl ti někdo otevřít dveře toho starého domu?
   rektatraduko: 
-    - Ĉu: (Tázací částice)
+    - Ĉu: Zda
     - iu: někdo
     - helpis: pomohl
     - al: k, ke 
@@ -54,7 +54,7 @@
   rektatraduko: 
     - Kial: Proč
     - vi: ty
-    - ne: ne (zápor)
+    - ne: ne
     - havas: máš
     - tempon: čas
     - aŭskulti: poslouchat

@@ -28,7 +28,7 @@ cs:
     - nomo: Clon
       github: Clonewayx
     - nomo: Jindřich Zdráhal
-      github: JindraZdrahal 
+      github: JindraZdrahal
 de:
   nomo:
     fontlingve: Deutsch
@@ -36,7 +36,7 @@ de:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Georg Jähnig 
+    - nomo: Georg Jähnig
       github: georgjaehnig
     - nomo: Sebastian Hartwig
       github:
@@ -47,7 +47,7 @@ en:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Georg Jähnig 
+    - nomo: Georg Jähnig
       github: georgjaehnig
     - nomo: Ahmed BENSAAD
       github: benahm
@@ -57,13 +57,13 @@ en:
       github: emmrichard
     - nomo: Spencer van der Meulen
       github: Rajzin
-    - nomo: Alejandro Escobedo 
-      github: alescomu 
+    - nomo: Alejandro Escobedo
+      github: alescomu
     - nomo: Axel Rousseau
       github: axel584
     - nomo: Lucas Barbosa
       github: lukcxjo
-    - nomo: Mea Bombardelli 
+    - nomo: Mea Bombardelli
       github: umanto
     - nomo: Vasil Kadifeli
       github: vasilkadifeli
@@ -99,8 +99,8 @@ fr:
       github: emmrichard
     - nomo: Ahmed BENSAAD
       github: benahm
-    - nomo: Alejandro Escobedo 
-      github: alescomu 
+    - nomo: Alejandro Escobedo
+      github: alescomu
 frp:
   nomo:
     fontlingve: Arpetan
@@ -115,7 +115,7 @@ hr:
     esperante: kroata
   stato: testa
   aŭtoroj:
-    - nomo: Mea Bombardelli 
+    - nomo: Mea Bombardelli
       github: umanto
     - nomo: Zlatko Tišljar
       github: ztisljar
@@ -146,7 +146,7 @@ kk:
     esperante: kazaĥa
   stato: testa
   aŭtoroj:
-    - nomo: Vyacheslav Nasretdinov 
+    - nomo: Vyacheslav Nasretdinov
       github: ABChessel
 km:
   nomo:
@@ -204,7 +204,7 @@ pl:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Agata Cichocka 
+    - nomo: Agata Cichocka
       github: agatazyt
 pt:
   nomo:
@@ -219,7 +219,7 @@ pt:
       github: EmilioCid
     - nomo: Jairo Santos
       github: Jxajroad
-    - nomo: Alejandro Escobedo 
+    - nomo: Alejandro Escobedo
       github: alescomu
 ru:
   nomo:
@@ -227,11 +227,11 @@ ru:
     esperante: rusa
   stato: testa
   aŭtoroj:
-    - nomo: Nikita Kungurov 
+    - nomo: Nikita Kungurov
       github: Seemann147
     - nomo: Mensogulo
       github: mensogulo
-    - nomo: Vyacheslav Nasretdinov 
+    - nomo: Vyacheslav Nasretdinov
       github: ABChessel
 sl:
   nomo:
@@ -264,7 +264,7 @@ th:
       github: Warut92
 tr:
   nomo:
-    fontlingve: Türkçe 
+    fontlingve: Türkçe
     esperante: turka
   stato: preta
   komentejo: 1
@@ -279,7 +279,7 @@ uk:
     esperante: ukraina
   stato: preta
   aŭtoroj:
-    - nomo: Сергій Прудко 
+    - nomo: Сергій Прудко
       github: sacerdoto
 ur:
   nomo:

@@ -3,159 +3,307 @@ ar:
     fontlingve: العربية
     esperante: araba
   stato: testa
+  aŭtoroj:
+    - nomo: Ahmed BENSAAD
+      github: benahm
+    - nomo: Latif
+      github: llusx
 ca:
   nomo:
     fontlingve: Català
     esperante: kataluna
   stato: preta
+  aŭtoroj:
+    - nomo: Rubén Fernández Asensio
+      github: enseikou
+    - nomo: Karles Berga
+      github: karulo
 cs:
   nomo:
     fontlingve: Čeština
     esperante: ĉeĥa
   stato: testa
   komentejo: 1
+  aŭtoroj:
+    - nomo: Clon
+      github: Clonewayx
+    - nomo: Jindřich Zdráhal
+      github: JindraZdrahal 
 de:
   nomo:
     fontlingve: Deutsch
     esperante: germana
   stato: preta
   komentejo: 1
+  aŭtoroj:
+    - nomo: Georg Jähnig 
+      github: georgjaehnig
+    - nomo: Sebastian Hartwig
+      github:
 en:
   nomo:
     fontlingve: English
     esperante: angla
   stato: preta
   komentejo: 1
+  aŭtoroj:
+    - nomo: Georg Jähnig 
+      github: georgjaehnig
+    - nomo: Ahmed BENSAAD
+      github: benahm
+    - nomo: AntoniaMontaro
+      github: AntoniaMontaro
+    - nomo: Emmanuelle Richard
+      github: emmrichard
+    - nomo: Spencer van der Meulen
+      github: Rajzin
+    - nomo: Alejandro Escobedo 
+      github: alescomu 
+    - nomo: Axel Rousseau
+      github: axel584
+    - nomo: Lucas Barbosa
+      github: lukcxjo
+    - nomo: Mea Bombardelli 
+      github: umanto
+    - nomo: Vasil Kadifeli
+      github: vasilkadifeli
 es:
   nomo:
     fontlingve: Español
     esperante: hispana
   stato: preta
+  aŭtoroj:
+    - nomo: Enric Baltasar
+      github: enricbaltasar
+    - nomo: Alejandro Escobedo
+      github: alescomu
+    - nomo: Guillermo Molleda Jimena
+      github: gmolledaj
 fa:
   nomo:
     fontlingve: فارسی
     esperante: persa
   stato: testa
+  aŭtoroj:
+    - nomo: Ali Moradi
+      github: deadmarshal
 fr:
   nomo:
     fontlingve: Français
     esperante: franca
   stato: preta
+  aŭtoroj:
+    - nomo: Axel Rousseau
+      github: axel584
+    - nomo: Emmanuelle Richard
+      github: emmrichard
+    - nomo: Ahmed BENSAAD
+      github: benahm
+    - nomo: Alejandro Escobedo 
+      github: alescomu 
 frp:
   nomo:
     fontlingve: Arpetan
     esperante: arpitana
   stato: testa
+  aŭtoroj:
+    - nomo: Alexandre Raymond
+      github: alekcxjo
 hr:
   nomo:
     fontlingve: Hrvatski
     esperante: kroata
   stato: testa
+  aŭtoroj:
+    - nomo: Mea Bombardelli 
+      github: umanto
+    - nomo: Zlatko Tišljar
+      github: ztisljar
 hu:
   nomo:
     fontlingve: Magyar
     esperante: hungara
   stato: testa
   komentejo: 1
+  aŭtoroj:
+    - nomo: Palma Csiszár Salomon
+      github: cspalma
+    - nomo: Eszter Besenyei
+      github: steletourseto
+    - nomo: Bagó István
+      github: Agxulo
 id:
   nomo:
     fontlingve: Bahasa Indonesia
     esperante: indonezia
   stato: testa
+  aŭtoroj:
+    - nomo: Sesti Kusmayati
+      github: tayamsukit
 kk:
   nomo:
     fontlingve: Қазақша
     esperante: kazaĥa
   stato: testa
+  aŭtoroj:
+    - nomo: Vyacheslav Nasretdinov 
+      github: ABChessel
 km:
   nomo:
     fontlingve: ភាសាខ្មែរ
     esperante: kmera
   stato: testa
+  aŭtoroj:
+    - nomo: Onklo ENG
+      github: onklo
 ko:
   nomo:
     fontlingve: 한국어
     esperante: korea
   stato: testa
+  aŭtoroj:
+    - nomo: Huiyun Seo
+      github: jasmena
 lo:
   nomo:
     fontlingve: ລາວ
     esperante: laosa
   stato: testa
+  aŭtoroj:
+    - nomo: Warut Bunprasert
+      github: Warut92
 ms:
   nomo:
     fontlingve: Bahasa Melayu
     esperante: malaja
   stato: preta
+  aŭtoroj:
+    - nomo: Onklo ENG
+      github: onklo
 my:
   nomo:
     fontlingve: မြန်မာဘာသာ
     esperante: birma
   stato: testa
+  aŭtoroj:
+    - nomo: Onklo ENG
+      github: onklo
 nl:
   nomo:
     fontlingve: Nederlands
     esperante: nederlanda
   stato: preta
   komentejo: 1
+  aŭtoroj:
+    - nomo: Leo de Cooman
+      github: GrizaLeono
 pl:
   nomo:
     fontlingve: Polski
     esperante: pola
   stato: preta
   komentejo: 1
+  aŭtoroj:
+    - nomo: Agata Cichocka 
+      github: agatazyt
 pt:
   nomo:
     fontlingve: Português
     esperante: portugala
   stato: preta
   komentejo: 1
+  aŭtoroj:
+    - nomo: Lucas Barbosa
+      github: lukcxjo
+    - nomo: Emilio Cid
+      github: EmilioCid
+    - nomo: Jairo Santos
+      github: Jxajroad
+    - nomo: Alejandro Escobedo 
+      github: alescomu
 ru:
   nomo:
     fontlingve: Русский
     esperante: rusa
   stato: testa
+  aŭtoroj:
+    - nomo: Nikita Kungurov 
+      github: Seemann147
+    - nomo: Mensogulo
+      github: mensogulo
+    - nomo: Vyacheslav Nasretdinov 
+      github: ABChessel
 sl:
   nomo:
     fontlingve: Slovenščina
     esperante: slovena
   stato: preta
   komentejo: 1
+  aŭtoroj:
+    - nomo: Milan Jarnovič
+      github: Mioli
 sv:
   nomo:
     fontlingve: Svenska
     esperante: sveda
   stato: preta
   komentejo: 1
+  aŭtoroj:
+    - nomo: Antonia Montaro
+      github: AntoniaMontaro
+    - nomo: Charlotte Scherping Larsson
+      github: DuoNem
 th:
   nomo:
     fontlingve: ภาษาไทย
     esperante: taja
   stato: preta
   komentejo: 1
+  aŭtoroj:
+    - nomo: Warut Bunprasert
+      github: Warut92
 tr:
   nomo:
     fontlingve: Türkçe 
     esperante: turka
   stato: preta
   komentejo: 1
+  aŭtoroj:
+    - nomo: Vasil Kadifeli
+      github: vasilkadifeli
+    - nomo: Fatih Emre
+      github: fatihemre1
 uk:
   nomo:
     fontlingve: Українська
     esperante: ukraina
   stato: preta
+  aŭtoroj:
+    - nomo: Сергій Прудко 
+      github: sacerdoto
 ur:
   nomo:
     fontlingve: اردو
     esperante: urdua
   stato: testa
+  aŭtoroj:
+    - nomo: Adeel Butt
+      github: ambtg
 zh:
   nomo:
     fontlingve: 中文
     esperante: ĉina (simpla)
   stato: preta
+  aŭtoroj:
+    - nomo: Onklo ENG
+      github: onklo
+    - nomo: Fujurungga
+      github: Fujurungga
 zh-tw:
   nomo:
     fontlingve: 正體中文
     esperante: ĉina (tradicia)
   stato: preta
+  aŭtoroj:
+    - nomo: Manlajo
+      github: Manlajo

@@ -9,7 +9,7 @@
 - 
   demando: Píše nyní tvoje přítelkyně Anna v pokoji?
   rektatraduko:
-    - Ĉu: (tázací částice)
+    - Ĉu: Zda
     - via: tvoje
     - amikino: přítelkyně
     - Anna: Anna
@@ -22,7 +22,7 @@
 - 
   demando: Pracuje přítel tvého otce v hotelu?
   rektatraduko:
-    - Ĉu: (tázací částice)
+    - Ĉu: Zda
     - la: (určitý člen)
     - amiko: přítel
     - de: od
@@ -47,7 +47,7 @@
 - 
   demando: Je na tvém stole esperantská účebnice?
   rektatraduko:
-    - Ĉu: (tázací částice)
+    - Ĉu: Zda
     - Esperanto-lernolibro: esperantská učebnice
     - estas: je
     - sur: na

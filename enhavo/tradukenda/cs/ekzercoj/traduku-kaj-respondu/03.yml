@@ -1,7 +1,7 @@
 -
   demando: Rozumí číšníci ve velkých hotelích hodně jazykům?
   rektatraduko:  
-    - Ĉu: (Tázací částice)
+    - Ĉu: Zda
     - kelneroj: číšníci
     - en: ve
     - grandaj: velkých
@@ -11,13 +11,13 @@
     - lingvojn: jazykům
     - '?'
 -
-  demando: Víš, jestli má Anna ráda novou píseň o chudáku a krásce?
+  demando: Víš, zda má Anna ráda novou píseň o chudáku a krásce?
   rektatraduko: 
-    - Ĉu: (Tázací částice)
+    - Ĉu: Zda
     - vi: ty
     - scias: víš
     - ','
-    - ĉu: Jestli
+    - ĉu: zZda
     - Anna: Anna 
     - ŝatas: má ráda
     - la: (člen určitý)
@@ -63,7 +63,7 @@
 -
   demando: Můžeš se s novou učebnicí dostatečně rychle naučit Esperanto?
   rektatraduko: 
-    - Ĉu: (Tázací částice)
+    - Ĉu: Zda
     - vi: ty
     - povas: můžeš
     - per: s (za pomoci)

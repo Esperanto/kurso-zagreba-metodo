@@ -1,14 +1,28 @@
-- eniri:들어가다
-- enhavo: 내용, 포함
-- kunsido: 회의, 회담
+- eniri: 들어가다
+- enhavo:
+  - 내용 
+  - 포함
+- kunsido:
+  - 회의
+  - 회담
 - malbona: bad
-- kunveno: 모임, 집회
+- kunveno:
+  - 모임
+  - 집회
 - malfacila: 어려운
 - maljuna: 늙은
 - gepatroj: 부모님
 - alveni: 도착하다
 - bonvena: 환영하는
-- gefratoj: 형제자매, 남매
-- trinkmono: 팁, 사례금
-- malami: 증오하다, 싫어하다
-- kunlabori: 협동하다, 합작하다
+- gefratoj:
+  - 형제자매
+  - 남매
+- trinkmono: 
+  - 팁
+  - 사례금
+- malami: 
+  - 증오하다
+  - 싫어하다
+- kunlabori: 
+  - 협동하다
+  - 합작하다

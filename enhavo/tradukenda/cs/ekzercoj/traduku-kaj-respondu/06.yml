@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Přeješ si, abych ti ukázal svou nejnovější knihu?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: Zda
+    - vi: ty
+    - deziras: přeješ si
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: že
+    - mi: já
+    - montras: ukazuji
+    - al: k, ke
+    - vi: ty
+    - mian: mou
+    - plej: nej (3. stupeň přídavného jména)
+    - novan: novou
+    - libron: knihu
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Co chceš zítra snídat?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Co
+    - vi: ty
+    - volas: chceš
+    - morgaŭ: zítra
+    - matenmanĝi: snídat
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: "Kdy Marek přijde, v pět nebo v osm hodin?"
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: Kdy
+    - Marko: Marek
+    - alvenos: přijde
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: v (čas)
+    - la: (člen určitý)
+    - kvina: pátá
+    - aŭ: nebo
+    - je: v (čas)
+    - la: (člen určitý)
+    - oka: osmá
+    - horo: hodina
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Kdy sis všiml, že mi celá rodina říká dobrodinec?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Kdy
+    - vi: ty
+    - rimarkis: všiml sis
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: že
+    - la: (člen určitý)
+    - tuta: celá
+    - familio: rodina
+    - nomas: volá
+    - min: mě
+    - bonfarulo: dobrodinec
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Byla pro tebe užitečná ta knížečka, kterou jsem poslal?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Zda
+    - la: (člen určitý) 
+    - libreto: knížečka
+    - estis: byla
+    - utila: užitečná
+    - al: k
+    - vi: ty
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: kterou
+    - mi: já
+    - sendis: poslal
     - '?'

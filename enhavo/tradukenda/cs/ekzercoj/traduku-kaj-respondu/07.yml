@@ -1,77 +1,77 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
+  demando: Kdo měl knihu, na kterou jsi čekal víc než dva roky?
   rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+    - Kiu: Kdo
+    - havis: měl
+    - la: (člen určitý)
+    - libron: knihu
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
+    - kiun: kterou
+    - vi: ty
+    - atendis: čekal jsi
+    - pli: víc
+    - ol: než
+    - du: dva
+    - jarojn: roky
     - '?'
 - 
-  demando: Do you want me to show you the photo which is dearest to me?
+  demando: Chceš, abych ti ukázal svou nejmilejší fotku?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+    - Ĉu: Zda
+    - vi: ty
+    - volas: chceš
     - ','
-    - ke: that
-    - mi: I
-    - montras: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - ke: že
+    - mi: já
+    - montras: ukazuji
+    - al: k, ke  
+    - vi: ty
+    - mian: mou
+    - plej: nej (3. stupeň přídavných jmen)
+    - karan: milou
+    - foton: fotku
     - '?'
 - 
-  demando: Where did you buy that garment?
+  demando: Kde jsi koupil to oblečení?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+    - Kie: Kde
+    - vi: ty
+    - aĉetis: jsi koupil
+    - tiun: to
+    - vestaĵon: oblečení
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
+  demando: Kam půjdeš v neděli, když bude slunečný den?
   rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+    - Kien: kam
+    - vi: ty
+    - iros: půjdeš
+    - dimanĉe: v neděli
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: když
+    - estos: bude
+    - suna: slunečný
+    - tago: den
     - '?'
 - 
-  demando: Did your brother already leave?
+  demando: Tvůj bratr už odešel?
   rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+    - Ĉu: Zda
+    - via: tvůj
+    - frato: bratr
+    - jam: už
+    - ekiris: odešel
     - '?'
 - 
-  demando: Where is the water which you have brought yourself?
+  demando: Kde je voda, kterou sis přinesl?
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+    - Kie: Kde
+    - estas: je
+    - la: (člen určitý)
+    - akvo: voda
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: kterou
+    - vi: ty
+    - mem: sám
+    - kunportis: přinesl sis
     - '?'

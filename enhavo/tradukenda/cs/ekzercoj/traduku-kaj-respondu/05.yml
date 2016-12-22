@@ -1,65 +1,65 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: Umíš se klidně učit, zatímco někdo vesele zpívá?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: (Tázací částice)
+    - vi: ty
+    - povas: umíš
+    - trankvile: klidně
+    - lerni: se učit
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: zatímco
+    - iu: někdo
+    - ĝoje: radostně
+    - kantas: zpívá
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Kdo ví, kdy a kde se opět uvidíme?
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Kdo
+    - scias: ví
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: kdy 
+    - kaj: a
+    - kie: kde
+    - ni: my
+    - revidos: se znovu uvidíme
+    - nin: jeden druhého
     - '?'
 -
-  demando: What time is it now?
+  demando: Kolik je nyní hodin?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: Kolik
+    - horo: hodin
+    - estas: je
+    - nun: nyní
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Pomohl ti někdo otevřít dveře toho starého domu?
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: (Tázací částice)
+    - iu: někdo
+    - helpis: pomohl
+    - al: k, ke 
+    - vi: tobě
+    - malfermi: otevřít 
+    - la: (člen určitý)
+    - pordon: dveře
+    - de: od
+    - la: (člen určitý)
+    - malnova: starého
+    - domo: domu
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Proč nemáš čas poslouchat mne déle?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - al: to
-    - mi: me
-    - pli: more
-    - longe: long
+    - Kial: Proč
+    - vi: ty
+    - ne: ne (zápor)
+    - havas: máš
+    - tempon: čas
+    - aŭskulti: poslouchat
+    - al: k, ke
+    - mi: mne
+    - pli: víc (2. stupeň přídavných jmen)
+    - longe: dlouho
     - '?'

@@ -1,75 +1,75 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: Co by mohlo nejvíc potěšit tvé rodiče? 
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: Co
+    - povus: by mohlo
+    - plej: nejvíc (3. stupeň)
+    - ĝojigi: potěšit
+    - viajn: tvé
+    - gepatrojn: rodiče
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: Pokud bys alespoň ty šel se mnou po výuce do centra města!
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: Pokud
+    - almenaŭ: alespoň
+    - vi: ty
+    - post: po
+    - la: (člen určitý) 
+    - lernado: učení
+    - irus: bys šel 
+    - kun: s
+    - mi: já
+    - en: do
+    - la: (člen určitý)  
+    - urbocentron: městské centrum
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: Kam bys toužil cestovat, pokud bys měl dostatek peněz a času?
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: Kam
+    - vi: ty
+    - dezirus: bys toužil
+    - vojaĝi: cestovat
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: pokud
+    - vi: ty
+    - havus: bys měl
+    - sufiĉe: dostate
+    - da: (předložka množství)
+    - mono: peníze
+    - kaj: a
+    - tempo: čas
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: Plánuješ cestavat do Paříže autem nebo to vlakem nevypadá moc lepší?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - Ĉu: Zda
+    - vi: ty
+    - planas: plánuješ
+    - veturi: cestovat
+    - al: do
+    - Parizo: Paříž
+    - per: s (předložka 7. pádu)
+    - aŭto: auto
+    - aŭ: nebo
+    - ĉu: zda
+    - ne: ne
+    - ŝajnas: vypadá
+    - multe: moc
+    - pli: víc (2. stupeň přídavného jména a příslovce)
+    - bone: dobrý
+    - per: s (předložka 7. pádu)
+    - vagonaro: vlak
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: Proč různí lidé vysvětlují stejnou myšlenku různě?
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: Proč
+    - diversaj: různí
+    - homoj: lidé
+    - klarigas: vysvětlují
+    - samajn: stejnou
+    - ideojn: myšlenku
+    - diversmaniere: různě
     - '?'

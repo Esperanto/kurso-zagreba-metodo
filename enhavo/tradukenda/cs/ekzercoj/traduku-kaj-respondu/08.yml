@@ -1,86 +1,86 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: Kdo bude uklízet kuchyň po obědě?
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: Kdo
+    - purigos: bude uklízet
+    - la: (člen určitý)
+    - kuirejon: kuchyni
+    - post: po
+    - la: (člen určitý)
+    - tagmanĝo: oběd
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: "Co chceš pít: čaj, trochu kávy nebo nechceš nic?"
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: Co
+    - vi: ty
+    - volas: chceš
+    - trinki: pít
     - ':' 
-    - teon: tea
+    - teon: čaj
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: trochu
+    - da: (předložka množství)
+    - kafo: káva
+    - aŭ: nebo
+    - ĉu: zda
+    - vi: ty
+    - volas: chceš
+    - nenion: nic
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: Proč jsi se tak náhle rozhodl renovovat svůj malý pokoj?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: Proč
+    - vi: ty
+    - tiel: tak
+    - subite: náhle
+    - decidis: rozhodl ses
+    - renovigi: renovovat
+    - vian: tvůj
+    - ĉambreton: malý pokoj
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: Komu jsi dal čisté skleničky na víno?
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: K, ke
+    - kiu: kdo
+    - vi: ty
+    - donis: dal jsi
+    - la: (člen určitý)
+    - purajn: čisté
+    - glasojn: skleničky
+    - por: pro 
+    - la: (člen určitý)
+    - vino: víno
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: Proti komu hrál tvůj sportovní klub před dvěma týdny?
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: Proti
+    - kiu: kdo
+    - ludis: hrál
+    - via: tvůj
+    - sportklubo: sportovní klub
+    - antaŭ: před
+    - du: dva
+    - semajnoj: týdny
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: Vidíš často policistu, který bydlí v bytě nad tebou?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: Zda
+    - vi: ty
+    - ofte: často
+    - vidas: vidíš
+    - la: (člen určitý) 
+    - policiston: policistu
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: který
+    - loĝas: bydlí
+    - en: v 
+    - la: (člen určitý) 
+    - loĝejo: byt
+    - super: nad
+    - vi: ty
     - '?'

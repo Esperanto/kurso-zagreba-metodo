@@ -1,68 +1,68 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: Uvidíme se znovu, jedno kde a kdy?
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: Zda
+    - ni: my
+    - revidos: uvidíme znovu
+    - nin: nás
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: kde
+    - ajn: jakýkoliv
+    - kaj: a
+    - kiam: kdy
+    - ajn: jakýkoliv
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: Kdy vrátím zpět druhou polovinu knih?
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: Kdy
+    - mi: já
+    - rericevos: vrátím zpět
+    - la: (člen určitý) 
+    - alian: jinou
+    - duonon: polovinu
+    - de: od
+    - la: (člen určitý) 
+    - libroj: knihy
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: Budeš potřebovat víc než čtvrt roku pro ty práce?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: Zda
+    - vi: ty
+    - bezonos: budeš potřebovat
+    - pli: víc
+    - ol: než
+    - kvaronan: čtvrt
+    - jaron: roku
+    - por: pro
+    - tiuj: ty
+    - laboroj: práce
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: Proč je tím chladněji, čím déle čekáme?
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: Proč
+    - estas: je
+    - des: tím
+    - pli: víc (2. stupeň přídavného jména)
+    - malvarma: chladně
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: čím
+    - pli: víc (2. stupeň přídavného jména/ příslovce)
+    - longe: dlouze
+    - ni: my
+    - atendas: čekáme
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: Byla bys šťastná s jakýmkoliv mužem?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: Zda
+    - vi: ty
+    - estus: byla bys
+    - kontenta: šťastná
+    - kun: s
+    - iu: někdo
+    - ajn: jakýkoliv
+    - viro: muž
     - '?'

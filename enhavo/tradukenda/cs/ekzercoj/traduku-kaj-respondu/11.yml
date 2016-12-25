@@ -42,13 +42,13 @@
     - gondolo: gondoly
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Budeš moct usnout, kdy to utichne?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: Zda
+    - vi: ty
+    - povos: budeš moct
+    - ekdormi: usnout
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: kdy 
+    - silentiĝis: to bude tiché
     - '?'

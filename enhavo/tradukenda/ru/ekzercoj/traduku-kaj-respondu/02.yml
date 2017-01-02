@@ -21,7 +21,7 @@
     - bonaj: хорошие 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: Что делали Анна и Марк в маленькой комнате Марка?"
   rektatraduko:
     - Kion: Что
     - faris: делал(и)
@@ -36,7 +36,7 @@
     - Marko: Марк
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Ты любишь читать книги о любви?
   rektatraduko: 
     - Ĉu: Вопросительная частица
     - vi: ты
@@ -47,7 +47,7 @@
     - amo: любовь
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Кто пойдет с тобой к твоему дому?
   rektatraduko: 
     - Kiu: Кто
     - iros: пойдет, будет идти
@@ -58,7 +58,7 @@
     - hejmo: дом
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "Какие глаза у твоей девушки?"
   rektatraduko: 
     - Kiaj: Какие
     - estas: есть

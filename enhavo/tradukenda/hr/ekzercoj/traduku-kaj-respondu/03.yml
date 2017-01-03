@@ -1,26 +1,26 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Razumiju li konobari u velikim hotelima mnogo jezika? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: Da li
+    - kelneroj: konobari
+    - en: u
+    - grandaj: veliki
+    - hoteloj: hoteli
+    - komprenas: razumije
+    - multajn: mnoge
+    - lingvojn: jezike
     - '?'
 -
   demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: Da li 
+    - vi: ti
+    - scias: znaš
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
+    - ĉu: da li
+    - Anna: Ana 
+    - ŝatas: voli
+    - la: 
     - novan: new
     - kanton: song
     - pri: about

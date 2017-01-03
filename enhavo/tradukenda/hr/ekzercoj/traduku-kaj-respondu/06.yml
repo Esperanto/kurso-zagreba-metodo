@@ -1,72 +1,81 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Želiš li da ti danas pokažem moju najnoviju knjigu?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
-    - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - Ĉu: Da li
+    - vi: ti
+    - deziras: želiš
+    - ke: da 
+    - mi: ja
+    - hodiaŭ: danas
+    - montru: pokaži
+    - al: k
+    - vi: ti
+    - la: (član)
+    - plej: naj
+    - novan: novu
+    - libron: knjigu
+    - pri: o
+    - malsanoj: bolesti
+    - de: od
+    - infanoj: djeca
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Što želiš sutra za doručak?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Što
+    - vi: ti
+    - volas: želiš
+    - morgaŭ: sutra
+    - matenmanĝi: doručkovati
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: Znaš li kada će doći Marko, u pet ili u osam sati?
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
-    - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - Ĉu: Da li
+    - vi: ti
+    - scias: znaš
+    - kiam: kada
+    - Marko: Marko
+    - venas: dolazi
+    - ','
+    - ĉu: da li
+    - je: u
+    - la: (član)
+    - kvina: pet
+    - aŭ: ili
+    - je: u
+    - la: (član)
+    - oka: osam
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Kada ste primijetili da me cijela obitelj zove dobrotvor?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Kada
+    - vi: vi
+    - rimarkis: ste primijetili
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: da
+    - la: (član)
+    - tuta: cijela
+    - familio: obitelj
+    - nomas: zove
+    - min: mene
+    - bonfarulo: dobrotvor
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Je li ti bila korisna knjižica koju sam ti prekjučer poslao?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Je li 
+    - estis: bila
+    - utila: korisna
+    - al: k
+    - vi: ti
+    - la: (član) 
+    - libreto: knjižica
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: koju
+    - mi: ja
+    - sendis: sam poslao
+    - antaŭhieraŭ: prekjučer
     - '?'
+    

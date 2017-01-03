@@ -1,65 +1,65 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: Možeš li mirno učiti dok netko radosno pjeva?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: Da li
+    - vi: ti
+    - povas: možeš
+    - trankvile: mirno
+    - lerni: učiti
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: dok
+    - iu: netko
+    - ĝoje: radosno
+    - kantas: pjeva
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Tko zna kada i gdje ćemo se ponovno vidjeti?
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Tko
+    - scias: zna
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: kada 
+    - kaj: i
+    - kie: gdje
+    - ni: mi
+    - revidos: ponovno ćemo vidjeti
+    - nin: nas
     - '?'
 -
-  demando: What time is it now?
+  demando: Koliko je sati?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: koliko
+    - horo: sati
+    - estas: je
+    - nun: sada
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Je li ti netko pomogao otvoriti vrata stare kuće?
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: Je li
+    - iu: netko
+    - helpis: pomogao 
+    - al: k
+    - vi: ti 
+    - malfermi: otvoriti 
+    - la: (član)
+    - pordon: vrata
+    - de: od
+    - la: (član)
+    - malnova: stara
+    - domo: kuća
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Zašto me nemaš vremena slušati dulje?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - al: to
-    - mi: me
-    - pli: more
-    - longe: long
+    - Kial: Zašto
+    - vi: ti
+    - ne: ne
+    - havas: imaš
+    - tempon: vrijeme
+    - aŭskulti: slušati
+    - al: k
+    - mi: ja
+    - pli: više
+    - longe: dugo
     - '?'

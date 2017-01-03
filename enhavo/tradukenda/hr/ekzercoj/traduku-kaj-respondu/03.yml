@@ -46,32 +46,32 @@
     - tablon: stol
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Kako se dogodilo da si ponovno došao k nama bez braće i sestara?
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Kako
+    - okazis: dogodilo se
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: da
+    - vi: ti
+    - denove: ponovno
+    - venis: došao si
+    - al: k 
+    - ni: mi
+    - sen: bez
+    - gefratoj: braća i sestre
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Možeš li naučiti esperanto dovoljno brzo pomoću novog udžbenika?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: Da li
+    - vi: ti
+    - povas: možeš
+    - per: pomoću
+    - la: (član)
+    - nova: novi
+    - lernolibro: udžbenik
+    - sufiĉe: dovoljno
+    - rapide: brzo
+    - lerni: naučiti
+    - Esperanton: esperanto
     - '?'

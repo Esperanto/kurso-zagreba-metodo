@@ -1,77 +1,96 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
+  demando: Hoće li se uskoro otvoriti nova pošta u vašoj ulici koju ste čekali više od dvije godine?
   rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+    - Ĉu: Da li
+    - estos: će biti
+    - la: (član)
+    - nova: nova
+    - poŝtejo pošta
+    - en: u
+    - via: vaša
+    - strato: ulica
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
-    - '?'
-- 
-  demando: Do you want me to show you the photo which is dearest to me?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+    - kiun: koju
+    - vi: vi
+    - atendis: čekate
+    - pli: više
+    - ol: od
+    - du: dvije
+    - jarojn: godine
     - ','
-    - ke: that
-    - mi: I
-    - montras: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - baldaŭ: uskoro
+    - malfermita: otvoren
     - '?'
 - 
-  demando: Where did you buy that garment?
+  demando: Želiš li da ti pokažem svoju najdražu fotografiju?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+    - Ĉu: Da li
+    - vi: ti
+    - volas: želiš
+    - ','
+    - ke: da
+    - mi: ja
+    - montras: pokažem
+    - al: k
+    - vi: ti
+    - mian: moju
+    - plej: naj
+    - karan: dražu
+    - foton: fotografiju
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
+  demando: Gdje ste kupili ovu odjeću?
   rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+    - Kie: Gdje
+    - vi: vi
+    - aĉetis: ste kupili
+    - tiun: ovu
+    - vestaĵon: odjeću
+    - '?'
+- 
+  demando: Kamo ćeš otići u nedjelju ako bude sunčan dan?
+  rektatraduko: 
+    - Kien: Kamo
+    - vi: ti
+    - iros: ići ćeš
+    - dimanĉe: u nedjelju
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: ako
+    - estos: će biti
+    - suna: sunčan
+    - tago: dan
     - '?'
 - 
-  demando: Did your brother already leave?
+  demando: Je li tvoj brat tužan ili ljutit, cijeli dan se nije ni nasmijao ni zapjevao s nama?
   rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+    - Ĉu: Je li
+    - estas: je
+    - via: tvoj
+    - frato: brat
+    - malĝoja: tužan
+    - aŭ: ili
+    - li: 'on'
+    - koleras: ljuti se
+    - tuttage: cijeli dan
+    - li: 'on'
+    - nek: niti
+    - ekridis: nasmijao se
+    - nek: niti
+    - ekkantis: zapjevao je
+    - kun: s
+    - ni: nama
     - '?'
-- 
-  demando: Where is the water which you have brought yourself?
+-    
+  demando: Gdje si ostavio vodu koju si to osobno donio?
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+    - Kie: Gdje
+    - vi: ti
+    - lasis: si ostavio
+    - la: (član)
+    - akvon: vodu
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
-    - '?'
+    - kiun: koju
+    - vi: ti
+    - mem: sam
+    - alportis: donio si
+- '?'

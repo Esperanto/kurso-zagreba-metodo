@@ -6,12 +6,12 @@
     - en: u
     - grandaj: veliki
     - hoteloj: hoteli
-    - komprenas: razumije
+    - komprenas: razumiju
     - multajn: mnoge
     - lingvojn: jezike
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Znaš li voli li Ana novu pjesmu o siromahu i ljepotici?
   rektatraduko: 
     - Ĉu: Da li 
     - vi: ti
@@ -20,30 +20,30 @@
     - ĉu: da li
     - Anna: Ana 
     - ŝatas: voli
-    - la: 
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - la: (član)
+    - novan: novu
+    - kanton: pjesmu
+    - pri: o
+    - malriĉulo: siromah
+    - kaj: i
+    - belulino: ljepotica
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Gdje si vidio starca i mladića koji su nosili veliki stol?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Gdje
+    - vi: ti
+    - vidis: si vidio
+    - la: (član)
+    - maljunulon: starca
+    - kaj: i
+    - la: (član)
+    - junulon: mladića
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: koji
+    - portis: su nosili
+    - grandan: veliki
+    - tablon: stol
     - '?'
 -
   demando: How did it happen that you again came to us without brothers-and-sisters?

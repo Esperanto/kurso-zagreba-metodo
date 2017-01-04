@@ -21,50 +21,50 @@
     - bonaj: хорошие 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: Что делали Анна и Марк в маленькой комнате Марка?"
   rektatraduko:
-    - Kion: What
-    - faris: did do
-    - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - Kion: Что
+    - faris: делал(и)
+    - Anna: Анна
+    - kaj: и
+    - Marko: Марк
+    - en: в 
+    - la: определенный артикль
+    - malgranda: маленькая
+    - ĉambro: комната
+    - de: притяжательный предлог
+    - Marko: Марк
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Ты любишь читать книги о любви?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: Вопросительная частица
+    - vi: ты
+    - ŝatas: любишь
+    - legi: читать
+    - librojn: книги
+    - pri: о, об
+    - amo: любовь
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Кто пойдет с тобой к твоему дому?
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: Кто
+    - iros: пойдет, будет идти
+    - kun: с
+    - vi: ты
+    - al: к 
+    - via: твой
+    - hejmo: дом
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "Какие глаза у твоей девушки?"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: Какие
+    - estas: есть
+    - la: определенный артикль
+    - okuloj: глаза
+    - de: притяжательный предлог
+    - via: твой
+    - amikino: подруга
     - '?'

@@ -1,73 +1,73 @@
 -
-  demando: When am I going to see you again?
+  demando: Kada ću te ponovno vidjeti?
   rektatraduko: 
-    - Kiam: When
-    - mi: I  
-    - revidos: am going to see again
-    - vin: you
+    - Kiam: Kada
+    - mi: ja 
+    - revidos: ponovno vidjeti
+    - vin: tebe
     - '?'
 -
-  demando: How long have you been learning the internation language?
+  demando: Koliko dugo učite međunarodni jezik?
   rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - lernas: learn
-    - la: the 
-    - Internacian: international
-    - Lingvon: language
+    - Kiel: Kako
+    - longe: dugo
+    - vi: vi
+    - lernas: učite
+    - la: (član)
+    - Internacian: međunarodni
+    - Lingvon: jezik
     - '?'
 -
-  demando: Where is my new book with photographs?
+  demando: Gdje je moja nova knjiga s fotografijama?
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - mia: my
-    - nova: new
-    - libro: book
-    - kun: with
-    - fotoj: photographs
+    - Kie: Gdje
+    - estas: je
+    - mia: moj
+    - nova: novi
+    - libro: knjiga
+    - kun: s
+    - fotoj: fotografije
     - '?'
 -
-  demando: Where (where-to) will you go after lunch?
+  demando: Kamo ćeš ići nakon ručka?
   rektatraduko: 
-    - Kien: Where-to
-    - vi: you
-    - iros: will go
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kien: Kamo
+    - vi: ti
+    - iros: ići ćeš
+    - post: nakon
+    - la: (član)
+    - tagmanĝo: ručak
     - '?'
 -
-  demando: Can one close the door of the room when it is cold?
+  demando: Mogu li se zatvoriti sobna vrata kad je hladno?
   rektatraduko: 
-    - Ĉu: Whether
-    - oni: one
-    - povas: can 
-    - fermi: close
-    - la: the
-    - pordon: door
-    - de: of 
-    - la: the
-    - ĉambro: room
+    - Ĉu: Da li
+    - oni: (neodređena lična zamjenica)
+    - povas: može
+    - fermi: zatvoriti
+    - la: (član)
+    - pordon: vrata
+    - de: od
+    - la: (član)
+    - ĉambro: soba
     - ','
-    - kiam: when
-    - estas: is
-    - malvarme: cold
+    - kiam: kada
+    - estas: je
+    - malvarme: hladno
     - '?'
 -
-  demando: How long are you angry for if people take a lot of money from you?
+  demando: Koliko se dugo ljutiš ako ti se uzme mnogo novca?
   rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - koleras: are angry
+    - Kiel: Kako
+    - longe: dugo
+    - vi: ti
+    - koleras: ljutiš se
     - ','
-    - se: if
-    - oni: one
-    - forprenas: takes away
-    - de: from
-    - vi: you
-    - multan: a lot of
-    - monon: money
+    - se: ako
+    - oni: (neodređena lična zamjenica)
+    - forprenas: uzme
+    - de: od
+    - vi: ti
+    - multan: mnogo
+    - monon: novca
     - '?'

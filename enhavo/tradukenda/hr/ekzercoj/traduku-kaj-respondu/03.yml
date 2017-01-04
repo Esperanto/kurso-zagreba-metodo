@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Razumiju li konobari u velikim hotelima mnogo jezika? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: Da li
+    - kelneroj: konobari
+    - en: u
+    - grandaj: veliki
+    - hoteloj: hoteli
+    - komprenas: razumiju
+    - multajn: mnoge
+    - lingvojn: jezike
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Znaš li voli li Ana novu pjesmu o siromahu i ljepotici?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: Da li 
+    - vi: ti
+    - scias: znaš
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ĉu: da li
+    - Anna: Ana 
+    - ŝatas: voli
+    - la: (član)
+    - novan: novu
+    - kanton: pjesmu
+    - pri: o
+    - malriĉulo: siromah
+    - kaj: i
+    - belulino: ljepotica
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Gdje si vidio starca i mladića koji su nosili veliki stol?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Gdje
+    - vi: ti
+    - vidis: si vidio
+    - la: (član)
+    - maljunulon: starca
+    - kaj: i
+    - la: (član)
+    - junulon: mladića
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: koji
+    - portis: su nosili
+    - grandan: veliki
+    - tablon: stol
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Kako se dogodilo da si ponovno došao k nama bez braće i sestara?
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Kako
+    - okazis: dogodilo se
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: da
+    - vi: ti
+    - denove: ponovno
+    - venis: došao si
+    - al: k 
+    - ni: mi
+    - sen: bez
+    - gefratoj: braća i sestre
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Možeš li naučiti esperanto dovoljno brzo pomoću novog udžbenika?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: Da li
+    - vi: ti
+    - povas: možeš
+    - per: pomoću
+    - la: (član)
+    - nova: novi
+    - lernolibro: udžbenik
+    - sufiĉe: dovoljno
+    - rapide: brzo
+    - lerni: naučiti
+    - Esperanton: esperanto
     - '?'

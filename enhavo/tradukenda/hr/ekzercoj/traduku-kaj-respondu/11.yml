@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Možete li donijeti lijek moje sestre?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: da li
+    - vi: vi
+    - povas: možete
+    - kunporti: donijeti
+    - la: (član)
+    - sanigilon: lijek
+    - de: od
+    - mia: moja
+    - fratino: sestra
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: Kada si kupio to glazbalo?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Kada
+    - vi: ti
+    - aĉetis: kupio si
+    - tiun: taj
+    - muzikilon: muzički instrument
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: Tko je zadnji koristio moj ključ?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Tko
+    - laste: zadnje
+    - uzis: koristio je
+    - mian: moj
+    - ŝlosilon: ključ
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Jesi li se u Veneciji vozio i gondolom?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
+    - Ĉu: Da li
+    - vi: ti
+    - en: u
+    - Venecio: Venecija
+    - veturis: vozio se
+    - ankaŭ: također
+    - per: pomoću
     - gondolo: gondola
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Jesi li mogao zaspati kada je utihnulo?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: Da li
+    - vi: ti
+    - povis: mogao si
+    - ekdormi: zaspati
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: kada
+    - silentiĝis: utihnulo je
     - '?'

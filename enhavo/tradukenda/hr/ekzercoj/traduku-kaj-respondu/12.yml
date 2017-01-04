@@ -1,68 +1,68 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: Hoćemo li se ponovno vidjeti, bilo gdje i bilo kad?
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: da li
+    - ni: mi
+    - revidos: ponovno ćemo vidjeti
+    - nin: nas
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: gdje
+    - ajn: god
+    - kaj: i
+    - kiam: kad
+    - ajn: god
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: Kada ću dobiti natrag drugu polovicu knjiga?
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: Kada
+    - mi: ja
+    - rericevos: ponovno ću dobiti
+    - la: (član)
+    - alian: drugu
+    - duonon: polovinu
+    - de: od
+    - la: (član)
+    - libroj: knjige
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: Hoće li vam trebati više od četvrt godine za te poslove?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: Da li
+    - vi: vi
+    - bezonos: trebati
+    - pli: više
+    - ol: od
+    - kvaronan: četvrtina
+    - jaron: godine
+    - por: za
+    - tiuj: te
+    - laboroj: poslove
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: Zbog čega je sve hladnije što dulje čekamo?
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: Zašto
+    - estas: je
+    - des: to
+    - pli: više
+    - malvarme: hladno
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: što
+    - pli: više
+    - longe: dugo
+    - ni: mi
+    - atendas: čekamo
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: Da li bi bila zadovoljna s ikojim muškarcem?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: Da li
+    - vi: ti
+    - estus: bila bi
+    - kontenta: zadovoljan
+    - kun: s
+    - iu: neki
+    - ajn: bilo koji
+    - viro: muškarac
     - '?'

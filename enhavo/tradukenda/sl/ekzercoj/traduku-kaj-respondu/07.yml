@@ -5,7 +5,7 @@
     - Ĉu: Ali
     - estos: bo
     - la: (člen)
-    - poŝtejo pošta
+    - poŝtejo: pošta
     - en: v
     - via: vaši
     - strato: ulici
@@ -68,10 +68,11 @@
     - frato: brat
     - malĝoja: žalosten
     - aŭ: ali
-    - li (zaimek on)
-    - koleras: se jezi;
+    - li: (zaimek on)
+    - koleras: se jezi
+    - ';'
     - ĉiutage: ves dan
-    - li: on
+    - li: 'on'
     - nek: niti
     - ekridis: se ni nasmejal
     - nek: niti

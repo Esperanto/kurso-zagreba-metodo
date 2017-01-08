@@ -65,7 +65,9 @@ far:
 fart: osjećati se
 feliĉ: sretan
 ferm: zatvoriti
-fin: kraj
+fin: 
+- kraj
+- završetak
 flank: strana
 foj: put (prilika)
 forges: zaboraviti
@@ -81,7 +83,7 @@ gondol: gondola
 graf: grof
 grand: velik
 grav: važan
-halt: zaustviti
+halt: zaustaviti
 hav: imati
 hejm: dom
 help: pomoći

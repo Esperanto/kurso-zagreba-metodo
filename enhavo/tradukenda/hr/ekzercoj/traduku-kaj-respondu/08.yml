@@ -1,7 +1,7 @@
 - 
   demando: Tko će očistiti kuhinju nakon ručka?
   rektatraduko: 
-    - Kiu: Kiu
+    - Kiu: Tko
     - purigos: očistit će
     - la: (član)
     - kuirejon: kuhinju
@@ -10,7 +10,7 @@
     - tagmanĝo: ručak
     - '?'
 - 
-  demando: "Što želite piti: čaj, malo kave, čašu vode ili nećete ništa?"
+  demando: Što želite piti: čaj, malo kave, čašu vode ili nećete ništa?
   rektatraduko: 
     - Kion: Što
     - vi: vi
@@ -45,7 +45,8 @@
     - ĉambreton: mala soba
     - kaj: i
     - aĉeti: kupiti
-    - iom da: nekoliko
+    - iom: nekoliko
+    - da: od
     - multekostaj: skupih
     - libroj: knjiga
     - '?'

@@ -61,16 +61,17 @@
     - tago: dan
     - '?'
 - 
-  demando: Je li tvoj brat tužan ili ljutit, cijeli dan se nije ni nasmijao ni zapjevao s nama?
+  demando: Je li tvoj brat tužan ili ljutit; cijeli dan se nije ni nasmijao ni zapjevao s nama?
   rektatraduko: 
     - Ĉu: Je li
-    - estas: je
     - via: tvoj
     - frato: brat
+    - estas: je
     - malĝoja: tužan
     - aŭ: ili
     - li: 'on'
     - koleras: ljuti se
+    - ';' 
     - tuttage: cijeli dan
     - li: 'on'
     - nek: niti

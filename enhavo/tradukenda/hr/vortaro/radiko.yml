@@ -129,7 +129,9 @@ kontent: zadovoljan
 kontrol: provjeriti
 kor: srce
 korp: tijeo
-kost: koštati
+kost: 
+- koštati
+- stajati
 kri: vikati
 kuir: kuhati
 kuk: kolač

@@ -26,9 +26,9 @@
     - nin: nas
     - '?'
 -
-  demando: Koliko je sati?
+  demando: Koliko je sada sati?
   rektatraduko: 
-    - Kioma: koliko
+    - Kioma: Koliko
     - horo: sati
     - estas: je
     - nun: sada
@@ -50,7 +50,7 @@
     - domo: kuća
     - '?'
 -
-  demando: Zašto me nemaš vremena slušati dulje?
+  demando: Zašto me nemaš vremena slušati dulje danas?
   rektatraduko: 
     - Kial: Zašto
     - vi: ti
@@ -58,8 +58,8 @@
     - havas: imaš
     - tempon: vrijeme
     - aŭskulti: slušati
-    - al: k
-    - mi: ja
+    - min: mene
+    - hodiaŭ: danas
     - pli: više
     - longe: dugo
     - '?'

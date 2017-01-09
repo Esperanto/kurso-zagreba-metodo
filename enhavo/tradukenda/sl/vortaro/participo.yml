@@ -1,8 +1,8 @@
-ant: aktivni particip sedanjega časa
-int: aktivni particip preteklega časa
-ont: aktivni particip prihodnjega časa
-unt: aktivni particip kondicionala
-at:  pasivni particip sedanjega časa
-it:  pasivni particip preteklega časa
-ot:  pasivni particip prihodnjega časa
-ut:  pasivni particip kondicionala
+ant: tvorni deležnik sedanjega časa
+int: tvorni deležnik preteklega časa
+ont: tvorni deležnik prihodnjega časa
+unt: tvorni deležnik pogojnika
+at:  trpni deležnik sedanjega časa
+it:  trpni deležnik preteklega časa
+ot:  trpni deležnik prihodnjega časa
+ut:  trpni deležnik pogojnika

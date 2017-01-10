@@ -2,7 +2,7 @@
   demando: Hoće li se uskoro otvoriti nova pošta u vašoj ulici koju ste čekali više od dvije godine?
   rektatraduko: 
     - Ĉu: Da li
-    - estos: će biti
+    - baldaŭ: uskoro
     - la: (član)
     - nova: nova
     - poŝtejo: pošta
@@ -18,7 +18,6 @@
     - du: dvije
     - jarojn: godine
     - ','
-    - baldaŭ: uskoro
     - malfermiĝos: će se otvoriti
     - '?'
 - 
@@ -30,7 +29,7 @@
     - ','
     - ke: da
     - mi: ja
-    - montras: pokažem
+    - montru: pokažem
     - al: k
     - vi: ti
     - mian: moju
@@ -53,7 +52,7 @@
     - Kien: Kamo
     - vi: ti
     - iros: ići ćeš
-    - dimanĉe: u nedjelju
+    - dimanĉon: u nedjelju
     - ',' 
     - se: ako
     - estos: će biti

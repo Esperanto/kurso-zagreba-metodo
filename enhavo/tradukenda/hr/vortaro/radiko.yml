@@ -69,7 +69,9 @@ fin:
 - kraj
 - završetak
 flank: strana
-foj: put (prilika)
+foj: 
+- puta (višestrukost)
+- -struk
 forges: zaboraviti
 form: oblik
 fort: jak
@@ -327,3 +329,5 @@ zorg: brinuti
 ŝanĝ: mijenjati
 ŝat: voljeti
 ŝip: brod
+lernant: učenik
+falig: srušiti

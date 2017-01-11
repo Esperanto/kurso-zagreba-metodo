@@ -3,7 +3,9 @@ divers: različit
 ekzempl: primjer
 glas: čaša
 infan: dijete
-inform: podatak
+inform: 
+- informirati
+- informacija
 kant: pjevati
 kien: kamo
 konsent: dogovoriti
@@ -24,7 +26,9 @@ punkt: točka
 pur: čist
 rakont: pričati
 rimark: primjedba
-seĝ: sjedalica
+seĝ: 
+- sjedalica
+- stolica
 sia: svoj
 simpl: jednostavan
 terur: grozan

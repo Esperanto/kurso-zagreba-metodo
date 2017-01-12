@@ -318,7 +318,9 @@ vort: riječ
 voĉ: glas
 zorg: brinuti
 ĉambr: soba
-ĉef: šef
+ĉef: 
+- glavni
+- šef
 ĝen: smetati
 ĝeneral: opći
 ĝoj: 

@@ -1,39 +1,49 @@
-aŭskult: 
-divers: 
-ekzempl: 
-glas: 
-infan: 
-inform: 
-kant: 
-kien: 
-konsent: 
-lingv: 
-loĝ: 
-manier: 
-monat: 
-mond: 
-naci: 
-organiz: 
-plor: 
-pluv: 
-poŝ: 
-poŝt: 
-proksimum: 
-publik: 
-punkt: 
-pur: 
-rakont: 
-rimark: 
-seĝ: 
-sia: 
-simpl: 
-terur: 
-tut: 
-universal: 
-rilat:
-sat:
+aŭskult: posłuchać
+divers: różne
+ekzempl: przykład
+glas: szklanka
+infan: dziecko
+inform: informacja
+kant: śpiewać
+kien: dokąd
+konsent: zgadzać się
+lingv: język
+loĝ: mieszkać
+manier: sposób
+monat: miesiąc
+mond: świat
+naci: naród
+organiz: organizować
+plor: płakać
+pluv:
+- deszcz
+- padać
+poŝ: kieszeń
+poŝt: poczta
+proksimum: około
+publik: publicznie
+punkt: punkt
+pur: czysty
+rakont: opowiadać
+rimark: zauważyć
+seĝ: krzesło
+sia: swój
+simpl: prosty
+terur: przerażenie
+tut: cały
+universal: uniwersalny
+rilat: 
+- stosunek
+- relacja
+sat: syty
 ag:
+- działać
+- czynić
+- postępować
 aper:
-sent:
-kred:
-ide:
+- pojawiać się
+- ukazać się
+- pokazać się;
+sent: czuć
+kred: wierzyć
+ide: pomysł

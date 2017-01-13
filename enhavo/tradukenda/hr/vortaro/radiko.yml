@@ -131,7 +131,7 @@ kon: poznavati
 kontent: zadovoljan
 kontrol: provjeriti
 kor: srce
-korp: tijeo
+korp: tijelo
 kost: 
 - koštati
 - stajati
@@ -276,7 +276,9 @@ subit: iznenada
 sufiĉ: dovoljno
 sukces: uspjeh
 sun: sunce
-supr: iznad
+supr: 
+- gornji
+- gore
 tabl: stol 
 tag: dan
 te: čaj

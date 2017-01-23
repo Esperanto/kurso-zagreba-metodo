@@ -9,4 +9,4 @@ Kurs se skládá z **12 lekcí**, kažá obsahující
 - vysvětlení gramatiky
 - a 3 cvičení
 
-Dokončení kursu, vám umožní porozumět nejduležitějším věcem a tvořit jednoduché věty. Vyzkoušejte to!
+Dokončení kursu, vám umožní porozumět nejdůležitějším věcem a tvořit jednoduché věty. Vyzkoušejte to!

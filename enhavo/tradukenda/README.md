@@ -30,7 +30,7 @@ La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝ
 	- [finna](https://drive.google.com/open?id=0B73-tppgbUreUmhjOXhfRjROTms)
 	- [hispana](http://esperantofre.com/zagreb/zagrebh.htm)
 	- [itala](https://drive.google.com/open?id=0B73-tppgbUreZ3dxUVB5QWFTMGs)
-	- [korea](https://drive.google.com/open?id=0B73-tppgbUreRGVKUXJqSzUwaVU), [alia versio](https://drive.google.com/open?id=0B73-tppgbUreU2tGMEFWR0pCblU)
+	- [korea](https://drive.google.com/open?id=0B73-tppgbUreRGVKUXJqSzUwaVU), [alia versio](https://drive.google.com/open?id=0B73-tppgbUreQ3hOOG50WGFPQTQ)
 	- [kroata](https://drive.google.com/open?id=0B73-tppgbUrecVZxc21TQ2syUzQ)
 	- [makedona (nekompleta)](https://drive.google.com/open?id=0B73-tppgbUreZVRhTUVQWjMtYlU)
 	- [pola](https://drive.google.com/open?id=0B73-tppgbUreU2tGMEFWR0pCblU)

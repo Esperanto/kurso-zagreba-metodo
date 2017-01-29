@@ -1,86 +1,86 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: Кто очистит кухню после обеда?
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: Кто
+    - purigos: очистит
+    - la: определенный артикль
+    - kuirejon: кухню
+    - post: после
+    - la: определенный артикль
+    - tagmanĝo: обед
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: "Что вы хотите выпить: чай, немного кофе, или вы не хотите ничего?"
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: Что
+    - vi: вы
+    - volas: хотите
+    - trinki: выпить
     - ':' 
-    - teon: tea
+    - teon: чай
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: немного
+    - da: притяжательный предлог
+    - kafo: кофе
+    - aŭ: или
+    - ĉu: вопросительная частица
+    - vi: вы
+    - volas: хотите
+    - nenion: ничего
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: Почему вы вдруг решили обновить вашу комнатку?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: Почему
+    - vi: вы
+    - tiel: так
+    - subite: внезапно
+    - decidis: решили
+    - renovigi: обновить
+    - vian: вашу
+    - ĉambreton: маленькую комнату
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: Кому вы дали чистые стаканы для вина?
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: К
+    - kiu: кому
+    - vi: вы
+    - donis: дали
+    - la: определенный артикль
+    - purajn: чистые
+    - glasojn: стаканы
+    - por: для 
+    - la: определенный артикль
+    - vino: вино
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: Против кого играл ваш спортклуб две недели назад?
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: Против
+    - kiu: кого
+    - ludis: играл
+    - via: ваш
+    - sportklubo: спортклуб
+    - antaŭ: перед
+    - du: две
+    - semajnoj: недели
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: Часто ли вы видите полицейского, который живет в квартире над вами?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: вопросительная частица
+    - vi: вы
+    - ofte: часто
+    - vidas: видите
+    - la: определенный артикль
+    - policiston: полицейского
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: который
+    - loĝas: живет
+    - en: в 
+    - la: определенный артикль
+    - loĝejo: квартира(жилье)
+    - super: над
+    - vi: вами
     - '?'

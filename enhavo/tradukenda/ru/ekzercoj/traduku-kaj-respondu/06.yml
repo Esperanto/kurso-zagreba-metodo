@@ -1,72 +1,72 @@
 - 
   demando: Do you want me to show you my newest book?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: вопросительная частица
+    - vi: вы
+    - deziras: желаете
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: что 
+    - mi: я
+    - montras: показываю
+    - al: к
+    - vi: вы
+    - mian: мою
+    - plej: самую
+    - novan: новую
+    - libron: книгу
     - '?'
 - 
   demando: What do you want for breakfast tomorrow?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Что
+    - vi: вы
+    - volas: хотите
+    - morgaŭ: завтра
+    - matenmanĝi: съесть на завтрак
     - '?'
 - 
   demando: "When will Mark arrive, at five or at eight o'clock?"
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: Когда
+    - Marko: Марк
+    - alvenos: приедет
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: неопределенный редлог
+    - la: определенный артикль
+    - kvina: пятый
+    - aŭ: или
+    - je: неопределенный редлог
+    - la: определенный артикль
+    - oka: восьмой
+    - horo: час
     - '?'
 - 
   demando: When did you notice that the whole family calls me benefactor?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Когда
+    - vi: вы
+    - rimarkis: заметили
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: что
+    - la: определенный артикль
+    - tuta: вся
+    - familio: семья
+    - nomas: зовет
+    - min: меня
+    - bonfarulo: благодетель
     - '?'
 - 
   demando: Was the booklet which I send you useful to you?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: вопросительная частица
+    - la: определенный артикль 
+    - libreto: книжка
+    - estis: была
+    - utila: олезна
+    - al: к
+    - vi: вы
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: которую
+    - mi: я 
+    - sendis: послал
     - '?'

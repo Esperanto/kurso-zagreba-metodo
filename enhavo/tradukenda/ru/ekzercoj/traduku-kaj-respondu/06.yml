@@ -1,5 +1,5 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Вы хотите, чтобы я оказал вам мою самую новую книгу?
   rektatraduko: 
     - Ĉu: вопросительная частица
     - vi: вы
@@ -16,7 +16,7 @@
     - libron: книгу
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Чем вы хотите позавтракать завтра?
   rektatraduko: 
     - Kion: Что
     - vi: вы
@@ -25,7 +25,7 @@
     - matenmanĝi: съесть на завтрак
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: В котором часу Марк риедет, в пятом или восьмом часу?
   rektatraduko: 
     - Kiam: Когда
     - Marko: Марк
@@ -41,7 +41,7 @@
     - horo: час
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Когда вы заметили, что вся моя семья называет меня благодетелем?
   rektatraduko: 
     - Kiam: Когда
     - vi: вы
@@ -56,7 +56,7 @@
     - bonfarulo: благодетель
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Была ли полезной книжка, которую я послал вам?
   rektatraduko: 
     - Ĉu: вопросительная частица
     - la: определенный артикль 

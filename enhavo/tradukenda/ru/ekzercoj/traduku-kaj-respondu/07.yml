@@ -1,5 +1,5 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
+  demando: Кто имел книгу, которую вы ждали два года?
   rektatraduko: 
     - Kiu: Кто
     - havis: имел
@@ -15,7 +15,7 @@
     - jarojn: года
     - '?'
 - 
-  demando: Do you want me to show you the photo which is dearest to me?
+  demando: Вы хотите, чтобы я показал вам самое дорогое мне фото?
   rektatraduko: 
     - Ĉu: вопросительная частица
     - vi: вы
@@ -32,46 +32,45 @@
     - foton: фото
     - '?'
 - 
-  demando: Where did you buy that garment?
+  demando: Где вы купили эту одежду?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+    - Kie: Где
+    - vi: вы
+    - aĉetis: купили
+    - tiun: эту
+    - vestaĵon: одежду
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
-  rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+  demando: Куда вы пойдете в воскресенье, если будет солнечный день?
+    - Kien: Куда
+    - vi: вы
+    - iros: пойдете
+    - dimanĉe: в воскресенье
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: если
+    - estos: будет
+    - suna: солнечный
+    - tago: день
     - '?'
 - 
-  demando: Did your brother already leave?
+  demando: Ваш брат уже пошёл?
   rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+    - Ĉu: вопросительная частица
+    - via: ваш
+    - frato: брат
+    - jam: уже
+    - ekiris: пошёл
     - '?'
 - 
-  demando: Where is the water which you have brought yourself?
+  demando: Где вода, которую вы сами принесли?
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+    - Kie: Где
+    - estas: есть
+    - la: определенный артикль
+    - akvo: вода
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: которую
+    - vi: вы
+    - mem: сами
+    - kunportis: принесли
     - '?'

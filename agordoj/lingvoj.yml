@@ -140,6 +140,14 @@ id:
   aŭtoroj:
     - nomo: Sesti Kusmayati
       github: tayamsukit
+it:
+  nomo:
+    fontlingve: Italiano
+    esperante: itala
+  stato: testa
+  aŭtoroj:
+    - nomo: David Paleino
+      github: dpaleino
 kk:
   nomo:
     fontlingve: Қазақша

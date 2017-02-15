@@ -9,7 +9,7 @@
     - gepatrojn: rodiče
     - '?'
 - 
-  demando: Pokud bys alespoň ty šel se mnou po výuce do centra města!
+  demando: Pokud bys alespoň ty šel se mnou po výuce do středu města!
   rektatraduko: 
     - Se: Pokud
     - almenaŭ: alespoň
@@ -22,7 +22,7 @@
     - mi: já
     - en: do
     - la: (člen určitý)  
-    - urbocentron: městské centrum
+    - urbocentron: střed města
     - '!'
 - 
   demando: Kam bys toužil cestovat, pokud bys měl dostatek peněz a času?
@@ -42,7 +42,7 @@
     - tempo: čas
     - '?'
 - 
-  demando: Plánuješ cestavat do Paříže autem nebo to vlakem nevypadá moc lepší?
+  demando: Plánuješ cestovat do Paříže autem nebo to vlakem nevypadá moc lépe?
   rektatraduko: 
     - Ĉu: Zda
     - vi: ty

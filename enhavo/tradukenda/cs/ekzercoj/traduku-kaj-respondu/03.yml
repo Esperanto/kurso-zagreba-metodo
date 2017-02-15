@@ -1,5 +1,5 @@
 -
-  demando: Rozumí číšníci ve velkých hotelích hodně jazykům?
+  demando: Rozumí číšníci ve velkých hotelích mnoha jazykům?
   rektatraduko:  
     - Ĉu: Zda
     - kelneroj: číšníci
@@ -7,7 +7,7 @@
     - grandaj: velkých
     - hoteloj: hotelích
     - komprenas: rozumí
-    - multajn: hodně
+    - multajn: mnoha
     - lingvojn: jazykům
     - '?'
 -
@@ -29,7 +29,7 @@
     - belulino: krásce
     - '?'
 -
-  demando: Kde jsi viděl starce a mladíka kteří nesli velký stůl?
+  demando: Kde jsi viděl starce a mladíka, kteří nesli velký stůl?
   rektatraduko: 
     - Kie: Kde
     - vi: ty
@@ -46,10 +46,10 @@
     - tablon: stůl
     - '?'
 -
-  demando: Jak se to stalo, že jsi znovu přišel k nám bez sourozenců?
+  demando: Jak se stalo, že jsi znovu přišel k nám bez sourozenců?
   rektatraduko: 
     - Kiel: Jak
-    - okazis: se to stalo
+    - okazis: se stalo
     - ','
     - ke: že
     - vi: ty

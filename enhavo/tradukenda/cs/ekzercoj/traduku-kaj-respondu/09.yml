@@ -42,7 +42,7 @@
     - tempo: čas
     - '?'
 - 
-  demando: Plánuješ cestovat do Paříže autem nebo to vlakem nevypadá moc lépe?
+  demando: Plánuješ cestovat do Paříže autem nebo to vlakem nevypadá o moc lépe?
   rektatraduko: 
     - Ĉu: Zda
     - vi: ty
@@ -54,6 +54,7 @@
     - aŭto: auto
     - aŭ: nebo
     - ĉu: zda
+    - tio: to
     - ne: ne
     - ŝajnas: vypadá
     - multe: moc
@@ -63,7 +64,7 @@
     - vagonaro: vlak
     - '?'
 - 
-  demando: Proč různí lidé vysvětlují stejnou myšlenku různě?
+  demando: Proč různí lidé vysvětlují stejné myšlenky různě?
   rektatraduko: 
     - Kial: Proč
     - diversaj: různí

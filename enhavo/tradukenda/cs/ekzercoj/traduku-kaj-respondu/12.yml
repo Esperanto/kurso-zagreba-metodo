@@ -17,7 +17,7 @@
   rektatraduko: 
     - Kiam: Kdy
     - mi: já
-    - rericevos: vrátím zpět
+    - redonos: vrátím zpět
     - la: (člen určitý) 
     - alian: jinou
     - duonon: polovinu
@@ -26,14 +26,15 @@
     - libroj: knihy
     - '?'
 - 
-  demando: Budeš pro tyto práce potřebovat víc než čtvrt roku?
+  demando: Budeš pro ty práce potřebovat víc než čtvrt roku?
   rektatraduko: 
     - Ĉu: Zda
     - vi: ty
     - bezonos: budeš potřebovat
     - pli: víc
     - ol: než
-    - kvaronan: čtvrt
+    - kvaronon: čtvrt
+    - da: z (množství)
     - jaron: roku
     - por: pro
     - tiuj: ty
@@ -46,7 +47,7 @@
     - estas: je
     - des: tím
     - pli: víc (2. stupeň přídavného jména)
-    - malvarma: chladně
+    - malvarme: chladně
     - ',' 
     - ju: čím
     - pli: víc (2. stupeň přídavného jména/ příslovce)
@@ -55,12 +56,12 @@
     - atendas: čekáme
     - '?'
 - 
-  demando: Byla bys šťastná s jakýmkoliv mužem?
+  demando: Byla bys spokojená s jakýmkoliv mužem?
   rektatraduko: 
     - Ĉu: Zda
     - vi: ty
     - estus: byla bys
-    - kontenta: šťastná
+    - kontenta: spokojená
     - kun: s
     - iu: někdo
     - ajn: jakýkoliv

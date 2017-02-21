@@ -1,4 +1,6 @@
-afer: věc
+afer: 
+- věc
+- záležitost
 agrabl: příjemný
 akcept: přijmout
 akv: voda
@@ -136,6 +138,9 @@ lamp: lampa
 land: země
 larĝ: široký
 last: poslední
+las: 
+- nechat
+- opustit
 laŭt: hlasitý
 lecion: lekce
 leg: číst
@@ -181,7 +186,9 @@ okaz: stát se
 okul: oko
 onkl: strýc
 opini: názor
-ord: obědnat
+ord: 
+- řádný
+- pořádný
 orel: ucho
 pac: mír
 pag: platit
@@ -192,14 +199,14 @@ parol: mluvit
 part: část
 pas: míjet
 patr: otec
-paŝ: krot
+paŝ: krok
 pens: myslet
 perd: ztratit
 person: osoba
 pet: žádat
 pez: těžké
 pied: noha
-plac: místo
+plac: náměstí
 plan: plánovat
 plaĉ: líbit se
 plen: plný
@@ -277,7 +284,7 @@ ton: tón
 trankvil: klidný
 trink: pít
 trov: najít
-turk: Turecko
+turk: Turek
 tuŝ: dotýkat se
 urb: město
 util: užitečný
@@ -300,7 +307,9 @@ viv: žít
 vizaĝ: obličej
 vizit: navštívit
 voj: cesta
-vojaĝ: cesta
+vojaĝ: 
+- cestovat
+- cestování
 vok: volat
 vol: chtít
 vort: slovo

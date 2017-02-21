@@ -28,6 +28,7 @@
   demando: Změnil se vztah mezi tebou a tvým učitelem?
   rektatraduko: 
     - Ĉu: Zda
+    - ŝanĝiĝis: změnil se
     - la: (člen určitý) 
     - rilato: vztah
     - inter: mezi
@@ -35,7 +36,6 @@
     - kaj: a
     - via: tvůj
     - instruisto: učitel
-    - ŝanĝiĝis: změnil se
     - '?'
 - 
   demando: Znáš již nyní esperanto dostatečně dobře?

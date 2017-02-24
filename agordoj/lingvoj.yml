@@ -241,6 +241,15 @@ ru:
       github: mensogulo
     - nomo: Vyacheslav Nasretdinov
       github: ABChessel
+sk:
+  nomo:
+    fontlingve: Slovenčina
+    esperante: slovaka
+  stato: testa
+  komentejo: 0
+  aŭtoroj:
+    - nomo: Katka
+      github: testudeto
 sl:
   nomo:
     fontlingve: Slovenščina

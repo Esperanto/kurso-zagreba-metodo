@@ -1,0 +1,77 @@
+-
+  demando: Rozumí číšníci ve velkých hotelích mnoha jazykům?
+  rektatraduko:  
+    - Ĉu: Zda
+    - kelneroj: číšníci
+    - en: ve
+    - grandaj: velkých
+    - hoteloj: hotelích
+    - komprenas: rozumí
+    - multajn: mnoha
+    - lingvojn: jazykům
+    - '?'
+-
+  demando: Víš, zda má Anna ráda novou píseň o chudáku a krásce?
+  rektatraduko: 
+    - Ĉu: Zda
+    - vi: ty
+    - scias: víš
+    - ','
+    - ĉu: zda
+    - Anna: Anna 
+    - ŝatas: má ráda
+    - la: (člen určitý)
+    - novan: novou
+    - kanton: píseň
+    - pri: o
+    - malriĉulo: chudáku
+    - kaj: a
+    - belulino: krásce
+    - '?'
+-
+  demando: Kde jsi viděl starce a mladíka, kteří nesli velký stůl?
+  rektatraduko: 
+    - Kie: Kde
+    - vi: ty
+    - vidis: jsi viděl
+    - la: (člen určitý)
+    - maljunulon: starce
+    - kaj: a
+    - la: (člen určitý)
+    - junulon: mladíka
+    - ','
+    - kiuj: kteří
+    - portis: nesli
+    - grandan: velký
+    - tablon: stůl
+    - '?'
+-
+  demando: Jak se stalo, že jsi znovu přišel k nám bez sourozenců?
+  rektatraduko: 
+    - Kiel: Jak
+    - okazis: se stalo
+    - ','
+    - ke: že
+    - vi: ty
+    - denove: znovu
+    - venis: jsi přišel
+    - al: k 
+    - ni: nám
+    - sen: bez
+    - gefratoj: sourozenců
+    - '?'
+-
+  demando: Můžeš se s novou učebnicí dostatečně rychle naučit Esperanto?
+  rektatraduko: 
+    - Ĉu: Zda
+    - vi: ty
+    - povas: můžeš
+    - per: s (za pomoci)
+    - la: (člen určitý) 
+    - nova: novou
+    - lernolibro: učebnicí
+    - sufiĉe: dostatečně
+    - rapide: rychle
+    - lerni: naučit se
+    - Esperanton: Esperanto
+    - '?'

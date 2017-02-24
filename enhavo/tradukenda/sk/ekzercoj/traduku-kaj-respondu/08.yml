@@ -1,0 +1,86 @@
+- 
+  demando: Kdo bude uklízet kuchyň po obědě?
+  rektatraduko: 
+    - Kiu: Kdo
+    - purigos: bude uklízet
+    - la: (člen určitý)
+    - kuirejon: kuchyni
+    - post: po
+    - la: (člen určitý)
+    - tagmanĝo: oběd
+    - '?'
+- 
+  demando: "Co chceš pít: čaj, trochu kávy nebo nechceš nic?"
+  rektatraduko: 
+    - Kion: Co
+    - vi: ty
+    - volas: chceš
+    - trinki: pít
+    - ':' 
+    - teon: čaj
+    - ',' 
+    - iom: trochu
+    - da: (předložka množství)
+    - kafo: káva
+    - aŭ: nebo
+    - ĉu: zda
+    - vi: ty
+    - volas: chceš
+    - nenion: nic
+    - '?'
+- 
+  demando: Proč ses tak náhle rozhodl renovovat svůj malý pokoj?
+  rektatraduko: 
+    - Kial: Proč
+    - vi: ty
+    - tiel: tak
+    - subite: náhle
+    - decidis: rozhodl ses
+    - renovigi: renovovat
+    - vian: tvůj
+    - ĉambreton: malý pokoj
+    - '?'
+- 
+  demando: Komu jsi dal čisté skleničky na víno?
+  rektatraduko: 
+    - Al: K, ke
+    - kiu: kdo
+    - vi: ty
+    - donis: dal jsi
+    - la: (člen určitý)
+    - purajn: čisté
+    - glasojn: skleničky
+    - por: pro 
+    - la: (člen určitý)
+    - vino: víno
+    - '?'
+- 
+  demando: Proti komu hrál tvůj sportovní klub před dvěma týdny?
+  rektatraduko: 
+    - Kontraŭ: Proti
+    - kiu: kdo
+    - ludis: hrál
+    - via: tvůj
+    - sportklubo: sportovní klub
+    - antaŭ: před
+    - du: dva
+    - semajnoj: týdny
+    - '?'
+- 
+  demando: Vidíš často policistu, který bydlí v bytě nad tebou?
+  rektatraduko: 
+    - Ĉu: Zda
+    - vi: ty
+    - ofte: často
+    - vidas: vidíš
+    - la: (člen určitý) 
+    - policiston: policistu
+    - ',' 
+    - kiu: který
+    - loĝas: bydlí
+    - en: v 
+    - la: (člen určitý) 
+    - loĝejo: byt
+    - super: nad
+    - vi: ty
+    - '?'

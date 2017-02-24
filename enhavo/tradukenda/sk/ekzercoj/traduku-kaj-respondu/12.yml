@@ -1,0 +1,69 @@
+- 
+  demando: Uvidíme se znovu, jedno kde a kdy?
+  rektatraduko: 
+    - Ĉu: Zda
+    - ni: my
+    - revidos: uvidíme znovu
+    - nin: nás
+    - ',' 
+    - kie: kde
+    - ajn: jakýkoliv
+    - kaj: a
+    - kiam: kdy
+    - ajn: jakýkoliv
+    - '?'
+- 
+  demando: Kdy vrátím zpět druhou polovinu knih?
+  rektatraduko: 
+    - Kiam: Kdy
+    - mi: já
+    - redonos: vrátím zpět
+    - la: (člen určitý) 
+    - alian: jinou
+    - duonon: polovinu
+    - de: od
+    - la: (člen určitý) 
+    - libroj: knihy
+    - '?'
+- 
+  demando: Budeš pro ty práce potřebovat víc než čtvrt roku?
+  rektatraduko: 
+    - Ĉu: Zda
+    - vi: ty
+    - bezonos: budeš potřebovat
+    - pli: víc
+    - ol: než
+    - kvaronon: čtvrt
+    - da: z (množství)
+    - jaron: roku
+    - por: pro
+    - tiuj: ty
+    - laboroj: práce
+    - '?'
+- 
+  demando: Proč je tím chladněji, čím déle čekáme?
+  rektatraduko: 
+    - Kial: Proč
+    - estas: je
+    - des: tím
+    - pli: víc (2. stupeň přídavného jména)
+    - malvarme: chladně
+    - ',' 
+    - ju: čím
+    - pli: víc (2. stupeň přídavného jména/ příslovce)
+    - longe: dlouze
+    - ni: my
+    - atendas: čekáme
+    - '?'
+- 
+  demando: Byla bys spokojená s jakýmkoliv mužem?
+  rektatraduko: 
+    - Ĉu: Zda
+    - vi: ty
+    - estus: byla bys
+    - kontenta: spokojená
+    - kun: s
+    - iu: někdo
+    - ajn: jakýkoliv
+    - viro: muž
+    - '?'

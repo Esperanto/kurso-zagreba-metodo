@@ -1,0 +1,73 @@
+-
+  demando: Kdy tě znovu uvidím?
+  rektatraduko: 
+    - Kiam: Kdy
+    - mi: já  
+    - revidos: uvidím znovu
+    - vin: tebe
+    - '?'
+-
+  demando: Jak dlouho ty se učíš mezinárodní jazyk?
+  rektatraduko: 
+    - Kiel: Jak
+    - longe: dlouho
+    - vi: ty 
+    - lernas: se učíš
+    - la: (člen určitý)
+    - Internacian: mezinárodní
+    - Lingvon: jazyk
+    - '?'
+-
+  demando: Kde je moje nová kniha s fotografiemi?
+  rektatraduko: 
+    - Kie: Kde
+    - estas: je
+    - mia: moje
+    - nova: nová
+    - libro: kniha
+    - kun: s
+    - fotoj: fotografiemi
+    - '?'
+-
+  demando: Kam půjdeš po obědě?
+  rektatraduko: 
+    - Kien: Kam
+    - vi: ty
+    - iros: půjdeš
+    - post: po
+    - la: (člen určitý)
+    - tagmanĝo: obědě
+    - '?'
+-
+  demando: Může někdo zavřít dveře od pokoje, když je chladno?
+  rektatraduko: 
+    - Ĉu: Zda
+    - oni: někdo (neurčité zájmeno)
+    - povas: může
+    - fermi: zavřít
+    - la: (člen určitý)
+    - pordon: dveře
+    - de: od
+    - la: (člen určitý)
+    - ĉambro: pokoj
+    - ','
+    - kiam: kdy
+    - estas: je
+    - malvarme: chladno
+    - '?'
+-
+  demando: Jak dlouho jsi naštvaný, když ti seberou hodně peněz?
+  rektatraduko: 
+    - Kiel: Jak 
+    - longe: dlouho
+    - vi: ty
+    - koleras: jsi naštvaný
+    - ','
+    - se: když
+    - oni: oni (neurčité zájmeno)
+    - forprenas: bere
+    - de: od
+    - vi: tebe
+    - multan: hodně
+    - monon: peněz
+    - '?'

@@ -22,13 +22,13 @@ cs:
   nomo:
     fontlingve: Čeština
     esperante: ĉeĥa
-  stato: testa
+  stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Clon
-      github: Clonewayx
     - nomo: Jindřich Zdráhal
       github: JindraZdrahal
+    - nomo: Clon
+      github: Clonewayx
 de:
   nomo:
     fontlingve: Deutsch

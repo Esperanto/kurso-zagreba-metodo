@@ -48,6 +48,8 @@ def load(language):
             }
         enhavo['vortaro'].update(vortlisto)
 
+    enhavo['finajxoj'] = yaml.load(file('enhavo/netradukenda/radikaj_finajxoj.yml', 'r'))
+
     enhavo['fasado'] = {}
     paths = glob.glob('enhavo/tradukenda/' + language + '/fasado/*.yml')
     for path in paths:

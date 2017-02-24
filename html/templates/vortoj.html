@@ -31,12 +31,15 @@
 				{% if radiko|lower in enhavo.vortaro -%}
 					{% set klavo = radiko|lower %}
 					<em>{{radiko|lower}}</em> 
-				{% elif radiko in enhavo.vortaro -%}
+				{%- elif radiko in enhavo.vortaro -%}
 					{% set klavo = radiko %}
 					<em>{{radiko}}</em> 
-				{% else -%}
+				{%- else -%}
 					{% set klavo = '' %}
 					<em>{{radiko}}</em> 
+				{%- endif -%}
+				{%- if radiko|lower in enhavo.finajxoj -%}
+					<em>{{enhavo.finajxoj[radiko]}}</em>
 				{% endif %} 
 				– 
 				{% include 'tradukajxo.html' %}

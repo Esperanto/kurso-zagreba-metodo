@@ -45,8 +45,10 @@ tut:
 - sencer
 - tot
 universal: universal
-ag:
-aper:
-sent:
-kred:
+ag: 
+- actuar
+- obrar
+aper: aparèixer
+sent: sentir
+kred: creure
 ide:

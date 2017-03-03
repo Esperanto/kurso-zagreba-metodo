@@ -21,7 +21,7 @@
     - bonaj: bons 
     - '?'
 - 
-  demando: "Què van fer l'Anna i el Marko a la petita habitació del Marc?"
+  demando: Què van fer l'Anna i el Marc a la petita habitació del Marc?
   rektatraduko:
     - Kion: Què
     - faris: van fer
@@ -36,7 +36,7 @@
     - Marko: Marc
     - '?'
 - 
-  demando: T'agrada legir llibres d'amor?
+  demando: T'agrada llegir llibres d'amor?
   rektatraduko: 
     - Ĉu: ¿
     - vi: tu
@@ -58,7 +58,7 @@
     - hejmo: casa
     - '?'
 - 
-  demando: ¿Com són els ulls de la teva amiga?
+  demando: Com són els ulls de la teva amiga?
   rektatraduko: 
     - Kiaj: Com
     - estas: són

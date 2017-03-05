@@ -226,7 +226,7 @@ malmulte: poc
 malmultekosta: 
  - barat
  - barata
-malmulton: poc* 
+malmulton: poc 
 malnova:
  - vell
  - vella
@@ -310,7 +310,7 @@ novaĵoj:
  - notícies
  - novetats
 opinion: opinió
-ordigi: ordenar 
+ordigi: ordenar, endreçar
 paperoj: papers
 paperojn:  papers
 paperujon: paperera 
@@ -439,11 +439,11 @@ vojaĝantoj: viatgers
 ĉirkaŭaĵo: 
  - voltants
  - entorn
-ĝenon: molèstia 
+ĝenon: molèstia, nosa
 ĝustatempe: just a temps
 ŝiaj:
  - seus
  - seves 
  - els seus
  - les seves 
-ŝipkuron: cursa* de vaixells
+ŝipkuron: regata, cursa de vaixells

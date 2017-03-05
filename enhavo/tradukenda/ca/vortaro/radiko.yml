@@ -21,7 +21,7 @@ aĉet: comprar
 aŭd: sentir, oir
 aŭt: cotxe
 aŭtoritat: autoritat
-bedaŭr: lamentar
+bedaŭr: lamentar, deplorar
 bel:
  - bonic/a
  - bell/a
@@ -53,22 +53,24 @@ doktor: doctor
 dolar: dòlar
 dolor: fer mal, doler
 dolĉ: dolç/a
-dom: casa (física)
+dom: 
+ - casa
+ - edifici
 don: donar
 dorm: dormir
 doĝ: dux
 edz: marit
 efektiv: efectiu
 ekskurs: excursió
-esper: esperar (tenir esperança)
+esper: tenir esperança
 est:
  - ser
  - estar
- - haver (hi)
+ - haver-hi
 facil: fàcil
 fakt: fet
 fal: caure
-famili: familiar
+famili: família
 far: fer
 fart:
 - estar
@@ -85,18 +87,22 @@ fort: fort/a
 fot: foto
 frat: germà
 fru: d'hora, aviat
-fuŝ: fer un nyap
+fuŝ:
+ - espatllar
+ - malmetre
 gondol: góndola
 graf: comte
 grand: gran
 grav: important
 halt: aturar-se, parar-se
 hav: tenir
-hejm: casa, llar (habitatge de la família)
+hejm: 
+ - casa
+ - llar
 help: ajudar
 hom:
  - persona
- - ser humà
+ - ésser humà
 hor: hora
 hotel: hotel
 ide: idea
@@ -115,10 +121,11 @@ kapabl: capaç
 kapt:
  - atrapar
  - capturar
+ - segrestar
 kar: estimat/da, benvolgut/da
 kastel: castell
 kav: cavitat
-kelk: algún/a/alguns/algunes
+kelk: alguns/algunes
 kelner: cambrer/a
 klar: clar
 klub: club
@@ -138,7 +145,7 @@ kost: costar
 kri: cridar
 kuir: cuinar
 kuk: pastís
-kur: còrrer
+kur: córrer
 labor: treballar
 lakt: llet
 lamp: làmpada
@@ -147,11 +154,9 @@ land:
  - territori
 larĝ: ample/a
 last: últim/a
-laŭt: fort/a (so alt)
-lecion:
- - lliçó
- - classe
-leg: legir
+laŭt: fort/a (so)
+lecion: lliçó
+leg: llegir
 lern: aprendre
 leter: carta
 liber: lliure
@@ -159,7 +164,7 @@ libr: llibre
 lok: lloc
 long: llarg/a (distància o temps)
 lud: jugar
-lum: lum
+lum: llum
 man: mà
 mank: faltar, mancar
 manĝ: menjar
@@ -172,7 +177,10 @@ met:
 mez: mig (ubicació)
 milit: guerra
 minut: minut
-mir: meravellar-se
+mir: 
+ - meravellar-se
+ - admirar-se
+ - preguntar-se
 moment: moment
 mon: diners
 mont: muntanya
@@ -183,7 +191,7 @@ mort: morir
 mov: moure
 mult: molt/a
 muzik: música
-nask: parir
+nask: engendrar
 natur: natura
 neces: necessari/a
 nokt: nit
@@ -191,15 +199,18 @@ nom: nom
 not: nota
 nov: nou/nova
 odor: fer olor
-oft: sovint
+oft: 
+ - freqüent
+ - sovint
 okaz:
  - succeir
+ - esdevenir
  - passar
  - tenir lloc
 okul: ull
 onkl: oncle
 opini: opinar
-ord: estar en ordre
+ord: ordre, endreç
 orel: orella
 pac: pau
 pag: pagar
@@ -210,10 +221,14 @@ parol: parlar
 part: part
 pas: passar
 patr: pare
-paŝ: pas, passa
+paŝ: 
+ - caminar
+ - pas, passa
 pens: pensar
 perd: perdre
-person: persona
+person: 
+ - persona
+ - personatge
 pet: demanar
 pez: pesar (tenir pes)
 pied: peu
@@ -235,12 +250,14 @@ proksim: proper/a, pròxim/a
 promen: passejar
 propon: proposar
 prov: intentar, provar
-rajt: tenir dret (a)
+rajt: poder, tenir dret (a)
 rapid: ràpid/a
 raport: informar
 real: real
 rekt: directe/a
-renkont: trobar-se (amb)
+renkont: 
+ - trobar-se (amb)
+ - topar
 respekt: respectar
 respond: respondre
 rest: romandre, quedar-se
@@ -248,10 +265,10 @@ ricev: rebre
 rid: riure
 rigard: mirar
 riĉ: ric/a
-rol: paper (funció dins una escenificació)
+rol: paper, rol
 ruĝ: roig/roja
 salt: saltar
-salut: salutació
+salut: saludar
 sam: mateix/a
 san: sà/sana
 saĝ: savi/sàvia
@@ -265,26 +282,29 @@ serĉ: buscar, cercar
 si: pronom reflexiu
 sid: estar assegut, seure
 silent: callar, estar en silenci
-simil: similar
+simil: similar, semblant
 sinjor: senyor
 situaci: situació
 skrib: escriure
-sol: sol/a
+sol: sol/a, únic/a
 son: sonar
 sovaĝ: salvatge
 sport: esport
 star: estar dret, dempeus
 strat: carrer
-subit: de sobte
+subit: 
+ - sobtat
+ - de sobte
 sufiĉ:
  - suficient
  - bastant
+ - prou
 sukces: tenir èxit
 sun: sol (astre)
 supr: (a) dalt
 tabl: taula
 tag: dia
-te: tè
+te: te (planta)
 telefon: telèfon
 temp: temps
 temperatur: temperatura
@@ -301,19 +321,21 @@ turk: turc/a
 tuŝ: tocar
 urb: ciutat
 util: útil
-uz: usar
+uz: usar, emprar
 vagon: vagó
 varm: calent/a
 ven: venir
 vend: vendre
 Veneci: Venècia
-ver: veritat
+ver: 
+ - veritable
+ - veritat
 vesper: vespre
 vest: vestir
-vetur: anar (amb mitjà de transport)
+vetur: anar (amb vehicle)
 vid: veure
 vin: vi
-vir: home
+vir: home, mascle
 viv: viure
 vizaĝ: cara
 vizit: visitar
@@ -323,15 +345,21 @@ vok: cridar (fer venir algú, avisar)
 vol: voler
 vort: paraula
 voĉ: veu
-zorg: ocupar-se, tenir cura
+zorg: 
+ - ocupar-se, tenir cura (de)
+ - preocupar-se, amoïnar-se
 ĉambr: habitació
 ĉef: cap (directiu)
-ĝen: molestar
+ĝen: molestar, fer nosa
 ĝeneral: general
-ĝoj: content/a, feliç
+ĝoj: 
+ - alegrar-se
+ - estar content/a, feliç
 ĝust: correcte
-ĵet: tirar
+ĵet: tirar, llançar
 ŝajn: semblar
 ŝanĝ: canviar
-ŝat: agradar
+ŝat: 
+ - agradar
+ - valorar, preuar, apreciar
 ŝip: vaixell

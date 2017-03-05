@@ -1,4 +1,6 @@
-kio: què
+kio: 
+- què
+- quina cosa
 tio: 
 - allò
 - això
@@ -15,22 +17,24 @@ kiu:
  - quin, quina
 tiu:
  - aquell, aquella
-iu: algú
+iu: 
+ - algú
+ - algun, alguna
 ĉiu:
- - cada un
+ - cada
  - cadascú
  - tots
  - tothom
 neniu:
  - ningú
- - cap (negació d'existència)
+ - cap
 kie: "on"
 tie:
  - allà
 ie:
  - en algún lloc
 ĉie:
- - a tot arreu
+ - arreu
  - pertot
 nenie:
  - enlloc
@@ -51,6 +55,7 @@ kiel:
 tiel:
  - així
  - d'aquesta manera
+ - tan
 iel:
  - d'alguna manera
 ĉiel:
@@ -61,6 +66,7 @@ kial: per què
 tial:
  - per tal raó
  - per tal motiu
+ - per això
 ial:
  - per alguna raó
  - per algún motiu
@@ -68,6 +74,7 @@ ial:
  - per qualsevol raó
  - per qualsevol motiu
  - per tots els motius
+ - per tot
 nenial:
  - per cap raó
  - per cap motiu
@@ -82,14 +89,19 @@ iam:
 - mai (en preguntes i condicions)
 ĉiam: sempre
 neniam: mai (en negacions)
-kiom: quant
-tiom: tant
-iom: una mica, una certa quantitat
+kiom: 
+ - quant
+ - quants/quantes
+tiom: 
+ - tant
+ - tants/tantes
+iom: 
+ - una mica, una certa quantitat
+ - gens (en preguntes)
 ĉiom: tot (quantitat absoluta)
-neniom: gens, cap quantitat,
+neniom: no gens, cap quantitat,
 kies: de qui
 ties: d'aquell
 ies: d'algú
-ĉies: de tots
-nenies:
- - de ningú
+ĉies: de tothom
+nenies: de ningú

@@ -1,33 +1,37 @@
-- eniri: vejít
-- enhavo: obsah
+- eniri: 
+  - vstúpiť
+  - vojsť
+- enhavo: 
+  - obsah
+  - náplň
 - kunsido:
-  - zasedání
-  - schůze
+  - zasadnutie
+  - posedenie
 - malbona: 
-  - špatný
-  - špatná
-  - špatné
+  - zlý
+  - zlá
+  - zle
 - kunveno: 
-  - setkání
-  - schůze
+  - schôdzka
+  - schôdza
 - malfacila: 
-  - těžký
-  - těžká
-  - těžké
-  - obtížný
-  - obtížná
-  - obtížné
+  - ťažký
+  - ťažká
+  - ťažké
+  - obtiažny
+  - obtiažna
+  - obtiažne
 - maljuna:
   - starý
   - stará
   - staré
-- gepatroj: rodiče
-- alveni: přijít
+- gepatroj: rodičia
+- alveni: prísť
 - bonvena: 
   - vítaný
   - vítaná
   - vítané
-- gefratoj: sourozenci
-- trinkmono: spropitné
-- malami: nenávidět
-- kunlabori: spolupracovat
+- gefratoj: súrodenci
+- trinkmono: prepitné
+- malami: nenávidieť
+- kunlabori: spolupracovať

@@ -1,7 +1,7 @@
 - T'ensenya les **500 paraules més importants**
 - **No cal registrar-se**: només fes clic a *Començar*
 - **Accés optimitzat** per a telèfons mòbils
-- No només és de franc, sinò que a més **[es pot utilitzar en altres projectes](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- No només és de franc, sinó que a més **[es pot utilitzar en altres projectes](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
 El curs té **12 lliçons**, cadascuna amb:
 

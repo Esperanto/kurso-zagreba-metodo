@@ -1,11 +1,13 @@
-aŭ: nebo
+aŭ: alebo
 kaj: a
 ke: že 
-kvankam: ačkoli
+kvankam: hoci
 nek: ani
 ol: než
-se: když
+se: 
+  - ak
+  - keby
 sed: ale
 ĉar:
-- protože
-- kvůli
+  - pretože
+  - lebo

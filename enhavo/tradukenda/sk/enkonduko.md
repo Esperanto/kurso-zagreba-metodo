@@ -7,6 +7,6 @@ Kurz sa skladá z **12 lekcií**, každá obsahuje:
 
 - text,
 - vysvetlenie gramatiky a 
-- 3 cvičenia.
+- 3 cvičenia
 
 Dokončenie kurzu Vám umožní porozumieť najdôležitejším frázam a tvoriť jednoduché vety. Vyskúšajte to!

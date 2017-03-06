@@ -9,14 +9,14 @@
     - gepatrojn: pares
     - '?'
 - 
-  demando: Si almenys tu anessis amb mi al centre despres de les classes!
+  demando: Si almenys tu anessis amb mi al centre després de la lliçó!
   rektatraduko: 
     - Se: Si
     - almenaŭ: almenys
     - vi: tu
-    - post: despres de
+    - post: després de
     - la: les 
-    - lecionoj: classes
+    - leciono: lliçó
     - irus: anessis
     - kun: amb
     - mi: mi
@@ -25,11 +25,11 @@
     - centron: centre
     - '!'
 - 
-  demando: A on desitgeries viatjar si tinguessis suficients diners i temps?
+  demando: On desitjaries viatjar si tinguessis suficients diners i temps?
   rektatraduko: 
     - Kien: A on
     - vi: a tu
-    - dezirus: desitgeries
+    - dezirus: desitjaries
     - vojaĝi: viatjar
     - ',' 
     - se: si
@@ -57,7 +57,7 @@
     - bone: bé
     - per: amb
     - la: el
-    - trajno: tren
+    - vagonaro: tren
     - '?'
 - 
   demando: Per què persones diferents expliquen unes mateixes idees de manera diferent?

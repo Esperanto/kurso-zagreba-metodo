@@ -1,34 +1,34 @@
-almenaŭ: alespoň
-ambaŭ: oba
-ankaŭ: také
-ankoraŭ: ještě
-baldaŭ: brzy
-do: tedy
+almenaŭ: aspoň
+ambaŭ: obaja
+ankaŭ: tiež
+ankoraŭ: ešte
+baldaŭ: čoskoro
+do: teda
 eĉ: 
-  - ba i
-  - dokonce
+  - ba aj
+  - dokonca
 hieraŭ: včera
 hodiaŭ: dnes
-jam: 
-  - již
-  - už
-jes: ano 
-kvazaŭ: jakoby
-morgaŭ: zítra
-nun: nyní
-nur: pouze
-plej: nej (3. stupeň přídavných jmen) 
-pli: víc (2. stupeň přídavných jmen) 
-plu:
-- dále
-- více
+jam: už
+jes: áno 
+kvazaŭ: akoby
+morgaŭ: zajtra
+nun: teraz
+nur: 
+  - iba
+  - len
+plej: naj (3. stupeň prídavných mien) 
+pli: viac (2. stupeň prídavných mien) 
+plu: ďalej
 preskaŭ: 
-- skoro
-- téměř
+  - skoro
+  - takmer
 tamen: 
-- nicméně
-- přesto
-- však
-tre: velmi
-tro: příliš
-tuj: hned
+  - avšak
+  - predsa
+tre: veľmi
+tro: príliš
+tuj: 
+  - okamžite
+  - hneď
+  - ihneď

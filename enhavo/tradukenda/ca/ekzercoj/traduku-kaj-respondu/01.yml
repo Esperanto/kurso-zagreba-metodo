@@ -1,5 +1,5 @@
 - 
-  demando: ¿Qui és la teva amiga?
+  demando: Qui és la teva amiga?
   rektatraduko:
     - Kiu: Qui
     - estas: és
@@ -7,9 +7,9 @@
     - amikino: amiga
     - '?'
 - 
-  demando: ¿La teva amiga Anna escriu ara a l'habitació?
+  demando: Que escriu ara a l'habitació la teva amiga Anna?
   rektatraduko:
-    - Ĉu: ¿
+    - Ĉu: Que
     - via: la teva
     - amikino: amiga
     - Ana: Anna
@@ -20,7 +20,7 @@
     - ĉambro: habitació
     - '?'
 - 
-  demando: ¿L'amic del teu pare treballa en un hotel?
+  demando: L'amic del teu pare treballa en un hotel?
   rektatraduko:
     - Ĉu: ¿
     - la: el
@@ -33,7 +33,7 @@
     - hotelo: un hotel
     - '?'
 - 
-  demando: ¿Què hi ha sobre la taula de treball a la nostra habitació?
+  demando: Què hi ha sobre la taula de treball a la nostra habitació?
   rektatraduko:
     - Kio: Què
     - estas: hi ha
@@ -45,9 +45,9 @@
     - ĉambro: habitació
     - '?'
 - 
-  demando: ¿Hi ha un llibre de text d'esperanto sobre la teva taula?
+  demando: Que hi ha un llibre de text d'esperanto sobre la teva taula?
   rektatraduko:
-    - Ĉu: ¿
+    - Ĉu: Que
     - Esperanto-lernolibro: llibre de text d'esperanto
     - estas: hi ha
     - sur: sobre

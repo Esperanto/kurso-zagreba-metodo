@@ -5,10 +5,12 @@ alporti:
  - portar
  - aportar
 alportis:
+ - ha portat
  - va portar
  - portava
 alvenigas: fa venir
 alvenis:
+ - ha arribat
  - va arribar
  - arribava
 alvenos: arribarà
@@ -26,6 +28,7 @@ arboplena: ple d'arbres
 aĉetumos: anirà a fer compres
 aĉodora: que fa mala olor 
 aŭdiĝis:
+ - s'ha sentit
  - es va sentir
  - se sentia
 bedaŭrinde: malauradament
@@ -43,7 +46,8 @@ bonvolus: faries el favor
 centoj: centenars
 dankon: gràcies
 daŭrigis:
- - continuà
+ - ha continuat
+ - va continuar
  - continuava
 denove: 
  - de nou
@@ -64,9 +68,10 @@ dumtage:
  - durant el dia
  - de dia
 ekkriis:
+ - ha cridat
  - va cridar
  - cridava
-ekmire: meravellant-se*
+ekmire: meravellant-se
 ekparolis:
  - va començar a parlar
  - es va posar a parlar
@@ -77,18 +82,23 @@ ekscii: assabentar-se
 eksidis: es va asseure
 ekstervoje: fora del camí
 ekveturas: es posa en marxa 
-ekvidis: va començar a veure
+ekvidis: 
+ - va començar a veure
+ - va copsar
 elstaraj: destacables
 eniri: entrar
-eniris: va entrar
+eniris: 
+ - ha entrat
+ - va entrar
 eniru: entra 
 facilmovaj: 
  - de moviment fàcil
  - àgils
-faligi: derribar
+faligi: abatre, tombar, fer caure
 faligis:
- - va derribar
- - derribava
+ - ha fet caure
+ - va fer caure
+ - feia caure
 familianoj: 
  - familiars
  - parents
@@ -103,7 +113,9 @@ foresti:
  - estar fora
 foriros: marxarà
 fratino: germana
-fuŝparolis: parlava inadequadament
+fuŝparolis:
+ - va balbucejar
+ - va quequejar
 geamikoj: amics
 gefratoj: germans 
 gelernantojn: alumnes 
@@ -117,13 +129,16 @@ grandula:
  - de gent alta
 gravuloj: gent important
 haltigis:
+ - ha aturat
  - va aturar
  - aturava
-havigi: proporcionar
+havigi: 
+ - proporcionar
+ - procurar
 havindan: que paga la pena tenir
 homformo: forma de persona
 hommulton: 
- - multitud
+ - gentada
  - munió de persones
 ideoriĉan: imaginatiu
 industriisto: 
@@ -139,15 +154,16 @@ junulinon: una jove
 junuloj: uns joves 
 kafejo: cafeteria 
 kafejon: cafeteria 
-karulino: dona estimada
-karulo: home estimat
+karulino: estimada
+karulo: estimat
 klarigis:
+ - ha explicat
  - va explicar
  - explicava
 klarigon: explicació  
 klubanoj: membres d'un club
 kompreneble:
- - es clar
+ - és clar
  - per descomptat
  - naturalment
 korpoforton: força física
@@ -173,6 +189,7 @@ leteroj: cartes
 libertempo: temps lliure
 libroj: llibres
 lumigis:
+ - ha il·luminat
  - va il·luminar
  - il·luminava
 malagrabla: desagradable
@@ -211,13 +228,16 @@ malgranda:
  - petit
  - petita
 malhelpis:
+ - ha dificultat
  - va dificultar
  - dificultava
 malinterese: sense interès
 malkontentigi: 
  - deixar insatisfet
  - disgustar
-mallaŭte: baixet 
+mallaŭte: 
+ - fluix
+ - baix 
 malliberejon: 
  - presó
  - garjola
@@ -242,7 +262,9 @@ malplaĉa: desagradable
 malplaĉan: desagradable  
 malproksime: lluny
 malsaniĝis:
+ - s'ha posat malalt
  - es va posar malalt
+ - ha emmalaltit
  - va enmalaltir
 malsaĝa: 
  - insensat
@@ -286,8 +308,9 @@ monujo: moneder
 morgaŭan: de demà
 mortigo: 
  - mort
- - fet de matar
+ - assassinat
 moviĝis:
+ - s'ha mogut
  - es va moure
  - es movia
 multekosta: 
@@ -319,16 +342,16 @@ pasigos:
  - farà passar
 patrino: mare
 perdigis:
+ - ha fet perdre
  - va fer perdre
  - feia perdre
-plenigadis:
- - omplia
- - va estar omplint
+plenigadis: omplia
 plenumis:
+ - ha acomplert
  - va acomplir
- - acumplia
 plibeligis:
- - va enbellir
+ - ha embellit
+ - va embellir
  - embellia
 plimulto: majoria
 policano: agent de policia
@@ -346,6 +369,7 @@ redonu:
 rekapti: tornar a atrapar
 repaciĝon: reconciliació
 revenis:
+ - ha tornat
  - va tornar
  - tornava
 revidi: tornar a veure
@@ -353,6 +377,7 @@ revido:
  - reveure
  - reveure's
 ridetis:
+ - ha somrigut
  - va somriure
  - somreia
 rideto: somriure
@@ -360,7 +385,7 @@ riĉeco: riquesa
 riĉulo: un ric
 salton: salto 
 saluton: hola
-samklubanoj: membres del mateix club
+samklubanoj: col·legues, membres del mateix club
 sekretajn: 
  - secrets
  - secretes
@@ -372,8 +397,7 @@ senkolora:
  - incolora
 sensukcese: sense èxit
 sentimulo: 
- - valent
- - valenta
+ - intrèpid
 senvorte: sense paraules
 sinjorinoj: senyores
 sinjorinon: senyora 
@@ -384,9 +408,11 @@ soleca:
 sovaĝejo: territori salvatge
 sportisto: un esportista
 subakvigis:
+ - ha enfonsat
  - va enfonsar 
  - enfonsava 
 subakviĝis:
+ - s'ha enfonsat
  - es va enfonsar 
  - s'enfonsava 
 subite:
@@ -395,7 +421,7 @@ subite:
 supren: cap amunt
 surhavas: 
  - porta posat
- - du posat
+ - duu posat
 surlokan: 
  - sobre el lloc
  - del lloc
@@ -403,7 +429,9 @@ teroristoj: terroristes
 tiuokaze: 
  - en aquest cas
  - en tal situació
-travivaĵo: vivència
+travivaĵo: 
+ - vivència
+ - experiència
 tridekjara:
  - de trenta anys
 troviĝis:
@@ -422,7 +450,7 @@ vestaĵoj: peces de roba
 vestaĵojn: peces de roba 
 vestaĵon: peça de roba
 veturado: 
- - viatge*
+ - viatge
  - conducció
 veturigus: 
  - portaria
@@ -439,7 +467,9 @@ vojaĝantoj: viatgers
 ĉirkaŭaĵo: 
  - voltants
  - entorn
-ĝenon: molèstia, nosa
+ĝenon: 
+ - molèstia
+ - nosa
 ĝustatempe: just a temps
 ŝiaj:
  - seus

@@ -56,7 +56,9 @@ pro:
 sen: sense
 sub: sota
 super: per sobre
-sur: a sobre
+sur: 
+- damunt
+- sobre
 tra: 
 - a través
 - de banda a banda

@@ -1,70 +1,63 @@
 - 
-  demando: What was your old home like?
+  demando: خانه قدیمی شما چگونه بود؟
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: چگونه
+    - estis: بود
+    - via: شما
+    - malnova: قدیمی
+    - hejmo: خانه 
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: چه کتابهایی می خواندید، و آیا آنها خوب بودند؟
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: چه 
+    - librojn: کتابهایی
+    - legis: می خواندید
+    - kaj: و
+    - ĉu: آیا
+    - ili: آنها
+    - estas: بودند
+    - bonaj: خوب 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: "آنا و مارک در اتاق کوچک مارک چه می کردند؟"
   rektatraduko:
-    - Kion: What
-    - faris: did do
-    - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - Kion: چه
+    - faris: می کردند
+    - Anna: آنا
+    - kaj: و
+    - Marko: مارک
+    - en: در 
+    - malgranda: کوچک
+    - ĉambro: اتاق
+    - Marko: مارک
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: آیا دوست دازید کتاب هایی درباره عشق بخوانید؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: آیا
+    - ŝatas: دوست دارید
+    - legi: بخوانید
+    - librojn: کتاب هایی
+    - pri: درباره
+    - amo: عشق
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: چه کسی با شما به خانه می رود؟
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: چه کسی
+    - iros: می رود
+    - kun: با
+    - vi: شما
+    - al: به 
+    - hejmo: خانه
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "چشم های دوست دختر شما چه شکلی است؟"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: چه شکلی
+    - estas: است
+    - okuloj: چشم های
+    - via: شما
+    - amikino: دوست دختر
     - '?'

@@ -1,77 +1,77 @@
 -
-  demando: Rozumí číšníci ve velkých hotelích mnoha jazykům?
+  demando: Rozumejú časníci veľa jazykom vo veľkých hoteloch?
   rektatraduko:  
-    - Ĉu: Zda
-    - kelneroj: číšníci
-    - en: ve
-    - grandaj: velkých
-    - hoteloj: hotelích
-    - komprenas: rozumí
-    - multajn: mnoha
-    - lingvojn: jazykům
+    - Ĉu: Či
+    - kelneroj: časníci
+    - en: v
+    - grandaj: veľkých
+    - hoteloj: hoteloch
+    - komprenas: rozumejú
+    - multajn: mnohým
+    - lingvojn: jazykom
     - '?'
 -
-  demando: Víš, zda má Anna ráda novou píseň o chudáku a krásce?
+  demando: Nevieš, či má Anna rada novú pieseň o chudákovi a kráske?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
-    - scias: víš
+    - scias: vieš
     - ','
-    - ĉu: zda
+    - ĉu: či
     - Anna: Anna 
-    - ŝatas: má ráda
-    - la: (člen určitý)
-    - novan: novou
-    - kanton: píseň
+    - ŝatas: má rada
+    - la: (určitý člen)
+    - novan: novú
+    - kanton: pieseň
     - pri: o
-    - malriĉulo: chudáku
+    - malriĉulo: chudákovi
     - kaj: a
-    - belulino: krásce
+    - belulino: kráske
     - '?'
 -
-  demando: Kde jsi viděl starce a mladíka, kteří nesli velký stůl?
+  demando: Kde si videl starca a mladíka, ktorí niesli veľký stôl?
   rektatraduko: 
     - Kie: Kde
     - vi: ty
-    - vidis: jsi viděl
-    - la: (člen určitý)
-    - maljunulon: starce
+    - vidis: si videl
+    - la: (určitý člen)
+    - maljunulon: starca
     - kaj: a
-    - la: (člen určitý)
+    - la: (určitý člen)
     - junulon: mladíka
     - ','
-    - kiuj: kteří
-    - portis: nesli
-    - grandan: velký
-    - tablon: stůl
+    - kiuj: ktorí
+    - portis: niesli
+    - grandan: veľký
+    - tablon: stôl
     - '?'
 -
-  demando: Jak se stalo, že jsi znovu přišel k nám bez sourozenců?
+  demando: Ako sa stalo, že si k nám prišiel znovu bez súrodencov?
   rektatraduko: 
-    - Kiel: Jak
-    - okazis: se stalo
+    - Kiel: Ako
+    - okazis: sa stalo
     - ','
     - ke: že
     - vi: ty
     - denove: znovu
-    - venis: jsi přišel
+    - venis: si prišiel
     - al: k 
     - ni: nám
     - sen: bez
-    - gefratoj: sourozenců
+    - gefratoj: súrodencov
     - '?'
 -
-  demando: Můžeš se s novou učebnicí dostatečně rychle naučit Esperanto?
+  demando: Môžes sa s novou učebnicou dostatočne rýchlo naučiť Esperanto?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
-    - povas: můžeš
-    - per: s (za pomoci)
-    - la: (člen určitý) 
-    - nova: novou
-    - lernolibro: učebnicí
-    - sufiĉe: dostatečně
-    - rapide: rychle
-    - lerni: naučit se
+    - povas: môžeš
+    - per: s (pomocou)
+    - la: (určitý člen) 
+    - nova: novej
+    - lernolibro: učebnice
+    - sufiĉe: dostatočne
+    - rapide: rýchlo
+    - lerni: sa naučiť
     - Esperanton: Esperanto
     - '?'

@@ -1,70 +1,70 @@
 - 
-  demando: Jaký byl tvůj starý domov?
+  demando: Aký bol tvoj starý domov?
   rektatraduko: 
-    - Kia: Jaký
-    - estis: byl
-    - via: tvůj
+    - Kia: Aký
+    - estis: bol
+    - via: tvoj
     - malnova: starý
     - hejmo: domov
     - '?'
 - 
-  demando: Které knihy jsi četl a jsou dobré?
+  demando: Ktoré knihy si čítal a sú dobré?
   rektatraduko: 
-    - Kiujn: Které
+    - Kiujn: Ktoré
     - librojn: knihy
     - vi: ty
-    - legis: jsi četl
+    - legis: si čítal
     - kaj: a
-    - ĉu: (tázací částice)
-    - ili: ony
-    - estas: jsou
+    - ĉu: či (opytovacia častica)
+    - ili: oni
+    - estas: sú
     - bonaj: dobré
     - '?'
 - 
-  demando: "Co dělali Anna a Marek v Markově malém pokoji?"
+  demando: "Čo robili Anna a Marek v malej izbe Marka?"
   rektatraduko:
-    - Kion: Co
-    - faris: dělali
+    - Kion: Čo
+    - faris: robili
     - Anna: Anna
     - kaj: a
     - Marko: Marek
     - en: v 
-    - la: (člen určitý)
-    - malgranda: malém
-    - ĉambro: pokoji
+    - la: (určitý člen)
+    - malgranda: malej
+    - ĉambro: izbe
     - de: od
     - Marko: Marka
     - '?'
 - 
-  demando: Máš rád čtení knih o lásce?
+  demando: Máš rád čítanie kníh o láske?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
     - ŝatas: máš rád
-    - legi: čtení
-    - librojn: knih
+    - legi: čítanie
+    - librojn: kníh
     - pri: o
-    - amo: lásce
+    - amo: láske
     - '?'
 - 
-  demando: Kdo s tebou půjde do tvého domova?
+  demando: Kto s tebou pôjde do tvojho domova?
   rektatraduko: 
-    - Kiu: Kdo
-    - iros: půjde
+    - Kiu: Kto
+    - iros: pôjde
     - kun: s
     - vi: tebou
     - al: do 
-    - via: tvého
+    - via: tvojho
     - hejmo: domova
     - '?'
 - 
-  demando: "Jaké jsou oči tvé přítelkyně?"
+  demando: "Aké sú oči tvojej priateľky?"
   rektatraduko: 
-    - Kiaj: Jaké
-    - estas: jsou
+    - Kiaj: Ak=e
+    - estas: sú
     - la: (člen určitý)
     - okuloj: oči
     - de: od
-    - via: tvé
-    - amikino: přítelkyně
+    - via: tvojej
+    - amikino: priateľky
     - '?'

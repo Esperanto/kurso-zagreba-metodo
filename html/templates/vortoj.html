@@ -1,10 +1,10 @@
 {% extends "layout.html" %}
 
 {% block title %}
-	{{leciono_index}}. {{leciono.teksto.titolo_string}}
-	|
-	{{enhavo.fasado['Novaj vortoj']}}
-	|
+  {{leciono_index}}. {{leciono.teksto.titolo_string}}
+  |
+  {{enhavo.fasado['Novaj vortoj']}}
+  |
   {{enhavo.fasado['Esperanto en 12 tagoj']}}
 {% endblock %}
 
@@ -21,61 +21,61 @@
 
   {% include 'tabs.html' %}
 
-	<h3>
-	  {{ enhavo.fasado['En la teksto'] | default('', true) }}
-	</h3>
+  <h3>
+    {{ enhavo.fasado['En la teksto'] | default('', true) }}
+  </h3>
 
-	<ul>
-		{% for radiko in leciono.vortoj.teksto -%} 
-			<li>
-				<em>
-					{%- if radiko|lower in enhavo.vortaro -%}
-						{% set klavo = radiko|lower %}
-						{{radiko|lower}}
-					{%- elif radiko in enhavo.vortaro -%}
-						{% set klavo = radiko %}
-						{{radiko}}
-					{%- else -%}
-						{% set klavo = '' %}
-						{{radiko}}
-					{%- endif -%} 
-					{%- if radiko|lower in enhavo.finajxoj -%}
-						{{enhavo.finajxoj[radiko]}}
-					{% endif %} 
-				</em>
-				– 
-				{% include 'tradukajxo.html' %}
-			</li>
-		{% endfor %}
-	</ul>
-	
-	<h3>
-	  {{ enhavo.fasado['Pliaj'] | default('', true) }}
-	</h3>
-	
-	<ul>
-		{% for radiko in leciono.vortoj.pliaj -%} 
-			<li>
-				<em>
-					{%- if radiko|lower in enhavo.vortaro -%}
-						{% set klavo = radiko|lower %}
-						{{radiko|lower}}
-					{%- elif radiko in enhavo.vortaro -%}
-						{% set klavo = radiko %}
-						{{radiko}}
-					{%- else -%}
-						{% set klavo = '' %}
-						{{radiko}}
-					{%- endif -%} 
-					{%- if radiko|lower in enhavo.finajxoj -%}
-						{{enhavo.finajxoj[radiko]}}
-					{% endif %} 
-				</em>
-				– 
-				{% include 'tradukajxo.html' %}
-			</li>
-		{% endfor %}
-	</ul>
+  <ul>
+    {% for radiko in leciono.vortoj.teksto -%} 
+      <li>
+        <em>
+          {%- if radiko|lower in enhavo.vortaro -%}
+            {% set klavo = radiko|lower %}
+            {{radiko|lower}}
+          {%- elif radiko in enhavo.vortaro -%}
+            {% set klavo = radiko %}
+            {{radiko}}
+          {%- else -%}
+            {% set klavo = '' %}
+            {{radiko}}
+          {%- endif -%} 
+          {%- if radiko|lower in enhavo.finajxoj -%}
+            {{enhavo.finajxoj[radiko]}}
+          {% endif %} 
+        </em>
+        – 
+        {% include 'tradukajxo.html' %}
+      </li>
+    {% endfor %}
+  </ul>
+  
+  <h3>
+    {{ enhavo.fasado['Pliaj'] | default('', true) }}
+  </h3>
+  
+  <ul>
+    {% for radiko in leciono.vortoj.pliaj -%} 
+      <li>
+        <em>
+          {%- if radiko|lower in enhavo.vortaro -%}
+            {% set klavo = radiko|lower %}
+            {{radiko|lower}}
+          {%- elif radiko in enhavo.vortaro -%}
+            {% set klavo = radiko %}
+            {{radiko}}
+          {%- else -%}
+            {% set klavo = '' %}
+            {{radiko}}
+          {%- endif -%} 
+          {%- if radiko|lower in enhavo.finajxoj -%}
+            {{enhavo.finajxoj[radiko]}}
+          {% endif %} 
+        </em>
+        – 
+        {% include 'tradukajxo.html' %}
+      </li>
+    {% endfor %}
+  </ul>
 
   {% include 'pagxonumerado-komentejo.html' %}
 

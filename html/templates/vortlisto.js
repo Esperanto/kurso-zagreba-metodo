@@ -1,7 +1,11 @@
 var vortlisto = {
 	'esperante': [
 		{% for esperante in enhavo.vortaro|sort -%}
-			"{{esperante}}"
+			"{{esperante}}
+      {%- if esperante|lower in enhavo.finajxoj -%}
+	      {{enhavo.finajxoj[esperante]}}
+      {%- endif -%} 
+      "
 			{%- if not loop.last -%}
 				,
 			{%- endif -%}

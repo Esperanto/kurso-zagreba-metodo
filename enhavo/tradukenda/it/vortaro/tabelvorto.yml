@@ -1,59 +1,75 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: che cosa
+tio:
+- ciò
+- quella cosa
+io: qualche cosa
+ĉio:
+- tutto
+- ogni cosa
+nenio:
+- niente
+- nessuna cosa
 kiu:
-- who
-- which
+- chi
+- quale
 tiu:
-- that person
-- that one
-iu: someone
+- quello
+- colui
+iu: qualcuno
 ĉiu:
-- everyone
-- every
-neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
+- ognuno
+- ciascuno
+neniu: nessuno
+kie: dove
+tie: lì
+ie: da qualche parte
+ĉie: dovunque
+nenie: da nessuna parte
+kia:
+- quale
+- di quale specie
+tia:
+- tale
+- di quella specie
+ia:
+- qualche
+- di qualche specie
+ĉia: 
+- ogni
+- di ogni specie
+nenia: di nessuna specie
+kiel: come
+tiel: così
+iel: in qualche modo
+ĉiel: in ogni modo
+neniel: in nessun modo
+kial: perché
+tial:
+- perciò
+- per questa ragione
+ial: per qualche motivo
+ĉial: per tutte le ragioni
+nenial: per nessun motivo
+kiam: quando
+tiam: allora
+iam:
+- una volta
+- qualche volta
+ĉiam: sempre
+neniam: mai
+kiom: quanto
+tiom: tanto
 iom: 
-- to some extent
-- a certain amount
+- un poco
+- qualche volta
 ĉiom: 
-- all of it
-- the whole amount
+- tutto
+- interamente
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- niente
+- nessuna quantità
+kies: di chi
+ties: di lui/lei
+ies: di qualcuno
+ĉies: di tutti
+nenies: di nessuno

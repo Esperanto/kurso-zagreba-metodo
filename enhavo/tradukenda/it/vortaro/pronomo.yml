@@ -1,10 +1,18 @@
-ili: they
-li: he
-lia: his
-mi: I
-mia: my
-ni: we
-oni: one (indefinite pronoun)
-vi: you (can be both singular and plural)
-ĝi: it
-ŝi: she
+ili:
+- essi
+- esse
+li:
+- egli
+- lui
+lia: suo
+mi: io
+mia: mio
+ni: noi
+oni: si (pronome indefinito)
+vi:
+- tu
+- voi
+ĝi: esso
+ŝi:
+- ella
+- lei

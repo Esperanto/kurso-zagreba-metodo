@@ -1,20 +1,31 @@
 ﻿- leterportisto: postino
 - hejmlando: patria
-- iomete: "un po'"
+- iomete:
+  - "un po'"
+  - un poco
 - bonege: benissimo
 - vespermanĝo: cena
 - prizorgi:
-  - preoccuparsi di
-  - badare a
+  - preoccuparsi
+  - badare
+  - occuparsi
 - espereble:
   - si spera
   - se tutto va bene
+  - nella speranza di
 - altkvalita: di alta qualità
-- pripensi: riflettere
-- depreni: sottrarre
+- pripensi:
+  - riflettere
+  - pensarci
+- depreni:
+  - sottrarre
+  - togliere
 - loĝejo: abitazione
 - dufoje: due volte
-- multfoje: più volte
+- multfoje:
+  - molte volte
+  - spesse volte
+  - più volte
 - nomiĝi: chiamarsi
 - ruĝiĝi: arrossire
 - libreto: libretto

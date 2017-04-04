@@ -1,5 +1,5 @@
 - Imparerai le **500 parole più importanti**
-- **Non è necessario registrarsi** Comincia da subito cliccando su *Inizia*
+- **Non è necessario registrarsi**! Comincia da subito cliccando su *Inizia*
 - **Ottimizzato** per smartphone
 - Oltre ad essere totalmente gratuito, è anche **[riutilizzabile in altri progetti](https://github.com/Esperanto/kurso-zagreba-metodo)**
 

@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: Come era la tua vecchia casa?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: Come
+    - estis: era
+    - via: tua
+    - malnova: vecchia
+    - hejmo: casa
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: Quali libri hai letto? E sono buoni?
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: Quali
+    - librojn: libri
+    - vi: tu
+    - legis: hai letto
+    - kaj: e
+    - ĉu: (interrogativa)
+    - ili: essi
+    - estas: sono
+    - bonaj: buoni 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: Che cosa hanno fatto Anna e Marco nella piccola stanza di Marco?
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kion: Che cosa
+    - faris: hanno fatto
     - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - kaj: e
+    - Marko: Marco
+    - en: in
+    - la: la
+    - malgranda: piccola
+    - ĉambro: stanza
+    - de: di
+    - Marko: Marco
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Ti piace leggere libri d'amore?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: (interrogativa)
+    - vi: tu
+    - ŝatas: piace
+    - legi: leggere
+    - librojn: libri
+    - pri: riguardo
+    - amo: amore
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Chi andrà con te a casa tua?
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: Chi
+    - iros: andrà
+    - kun: con
+    - vi: tu
+    - al: a 
+    - via: tua
+    - hejmo: casa
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: Come sono gli occhi della tua amica?
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: Come
+    - estas: sono
+    - la: gli
+    - okuloj: occhi
+    - de: di
+    - via: tua
+    - amikino: amica
     - '?'

@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: Chi è la tua amica?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Chi
+    - estas: è
+    - via: la tua
+    - amikino: amica
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: La tua amica Anna scrive adesso, nella camera?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
+    - Ĉu: (interrogativa)
+    - via: La tua
+    - amikino: amica
     - Anna: Anna
-    - skribas: writes
-    - nun: now
+    - skribas: scrive
+    - nun: adesso
     - en: in
-    - la: the 
-    - ĉambro: room
+    - la: la 
+    - ĉambro: camera
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: "L'amico di tuo padre lavora in albergo?"
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
+    - Ĉu: (interrogativa)
+    - la: lo
+    - amiko: amico
+    - de: di
+    - via: tuo
+    - patro: padre
+    - laboras: lavora
     - en: in
-    - hotelo: hotel
+    - hotelo: albergo
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: Che cosa c'è sul tavolo da lavoro nella nostra camera?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
+    - Kio: Che cosa
+    - estas: è
+    - sur: su
+    - la: il
+    - labortablo: tavolo da lavoro
     - en: in
-    - nia: our
-    - ĉambro: room
+    - nia: nostra
+    - ĉambro: camera
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Sul tuo tavolo c'è il manuale di esperanto?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: (interrogativa)
+    - Esperanto-lernolibro: manuale di esperanto
+    - estas: "c'è"
+    - sur: su
+    - via: tuo
+    - tablo: tavolo
     - '?'
 

@@ -1,9 +1,15 @@
 - amikino: amica
-- labortablo: tavolo da lavoro
+- labortablo:
+  - tavolo da lavoro
+  - tavolo di lavoro
 - esperantistino: esperantista
 - instruisto: insegnante
-- hotelĉambro: "camera d'albergo"
-- enskribi: iscrivere
+- hotelĉambro:
+  - "camera d'albergo"
+  - "camera d'hotel"
+- enskribi:
+  - iscrivere
+  - inscrivere
 - skribotablo: scrivania
 - lingvisto: linguista
 - laboristino: lavoratrice

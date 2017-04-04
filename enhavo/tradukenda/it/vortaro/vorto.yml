@@ -120,7 +120,9 @@ lernanto:
 - studente
 lernejo: scuola
 lernejon: scuola 
-lernolibroj: libri di testo
+lernolibroj:
+- libri di testo
+- manuali
 leteroj: lettere
 libertempo: tempo libero
 libroj: libri

@@ -1,24 +1,42 @@
 ﻿- rideti: sorridere
 - tranokto: pernottamento
-- foriri: andarsene
+- foriri:
+  - andarsene
+  - uscire
 - forlasi: 
   - abbandonare
   - evacuare
-- ekde: da
-- formanĝi: divorare
+- ekde:
+  - da
+  - a cominciare da
+- formanĝi:
+  - divorare
+  - mangiare tutto
+  - spazzolare
 - forpreni:
   - asportare
   - portare via
-- laŭeble: possibilmente
-- saĝulo: saggio
+  - prendere via
+- laŭeble:
+  - possibilmente
+  - per quanto possibile
+- saĝulo:
+  - saggio
+  - uomo saggio
+  - persona saggia
 - ekstari:
   - alzarsi
   - erigersi
 - poŝtkarto: cartolina
 - diableto: diavoletto
 - senutila: inutile
-- elkuri: sfuggire
+- elkuri:
+  - sfuggire
+  - correre fuori
 - ekami:
   - affezionarsi
   - innamorarsi
-- ĝisnuna: finora
+- ĝisnuna:
+  - finora
+  - fino ad ora
+  - fino ad oggi

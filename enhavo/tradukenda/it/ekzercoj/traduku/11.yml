@@ -1,15 +1,23 @@
-- estraro: consiglio
+- estraro:
+  - consiglio
+  - direttivo
 - tagmeze: a mezzogiorno
 - posttagmeze: di pomeriggio
 - malsata: affamato
-- interkonsenti: concordare
+- interkonsenti:
+  - accordarsi
+  - concordare
 - manĝilaro: posate
 - vidpunkto: punto di vista
 - malfermilo: apribottiglie
 - noktomezo: mezzanotte
 - publikigi: pubblicare
 - pagigi: far pagare
-- duflanka: bilaterale
+- duflanka:
+  - bilaterale
+  - con due lati
 - aliflanke:
   - "d'altronde "
   - "d'altro canto"
+  - "d'altra parte" 
+  - "dall'altra parte"

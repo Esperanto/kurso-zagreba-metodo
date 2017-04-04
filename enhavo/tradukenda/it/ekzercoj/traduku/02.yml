@@ -2,11 +2,14 @@
 - enhavo:
   - contenuto
   - indice
-- kunsido: riunione
+- kunsido:
+  - riunione
+  - seduta
 - malbona: cattivo
 - kunveno: 
   - riunione
   - assemblea
+  - convegno
 - malfacila: difficile
 - maljuna: vecchio
 - gepatroj: genitori

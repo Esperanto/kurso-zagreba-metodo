@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Puoi portare con te la medicina di mia sorella?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: (interrogativa)
+    - vi: tu
+    - povas: puoi
+    - kunporti: portare con te
+    - la: la
+    - sanigilon: medicina
+    - de: di
+    - mia: mia
+    - fratino: sorella
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: Quando hai comprato quello strumento musicale?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Quando
+    - vi: tu
+    - aĉetis: hai comprato
+    - tiun: quello
+    - muzikilon: strumento musicale
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: "Chi ha usato l'ultima volta la mia chiave?"
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Chi
+    - laste: "l'ultima volta"
+    - uzis: ha usato
+    - mian: mia
+    - ŝlosilon: chiave
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Hai viaggiato a Venezia anche con la gondola?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
+    - Ĉu: (interrogativa)
+    - vi: tu
     - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
+    - Venecio: Venezia
+    - veturis: hai viaggiato
+    - ankaŭ: anche
+    - per: tramite
     - gondolo: gondola
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Potrai addormentarti quando si sarà fatto silenzioso?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: (interrogativa)
+    - vi: tu
+    - povos: potrai
+    - ekdormi: addormentarsi
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: quando
+    - silentiĝis: si è fatto silenzioso
     - '?'

@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: Puoi studiare tranquillamente mentre qualcuno canta gioiosamente?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: (interrogativa)
+    - vi: tu
+    - povas: puoi
+    - trankvile: tranquillamente
+    - lerni: studiare
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: mentre
+    - iu: qualcuno
+    - ĝoje: gioiosamente
+    - kantas: canta
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Chi sa quando e dove ci rivedremo?
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Chi
+    - scias: sa
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: quando 
+    - kaj: e
+    - kie: dove
+    - ni: noi (soggetto)
+    - revidos: rivedremo
+    - nin: noi (oggetto)
     - '?'
 -
-  demando: What time is it now?
+  demando: Che ora è adesso?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: Che (Quanta)
+    - horo: ora
+    - estas: è 
+    - nun: adesso
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Ti ha aiutato qualcuno ad aprire la porta della vecchia casa?
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: (interrogativa)
+    - iu: qualcuno
+    - helpis: ha aiutato
+    - al: a
+    - vi: te 
+    - malfermi: chiudere
+    - la: la
+    - pordon: porta
+    - de: di
+    - la: la
+    - malnova: vecchia
+    - domo: casa
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Perché non hai tempo di ascoltarmi più a lungo?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
+    - Kial: Perché
+    - vi: tu
+    - ne: non
+    - havas: hai
+    - tempon: tempo
+    - aŭskulti: ascoltare
     - min: me
-    - pli: more
-    - longe: long
+    - pli: più
+    - longe: a lungo
     - '?'

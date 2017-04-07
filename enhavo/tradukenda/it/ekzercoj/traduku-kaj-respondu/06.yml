@@ -1,72 +1,73 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Desideri che ti mostri il mio libro più recente?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: (interrogativa)
+    - vi: tu
+    - deziras: desideri
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: che
+    - mi: io
+    - montras: mostro
+    - al: a
+    - vi: te
+    - mian: mio
+    - plej: più
+    - novan: nuovo
+    - libron: libro
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Che cosa vuoi domani per colazione?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Che cosa
+    - vi: tu
+    - volas: vuoi
+    - morgaŭ: domani
+    - matenmanĝi: fare colazione
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: Sai quando arriverà Marco? Alle 5 o alle 8?
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: Qunando
+    - Marko: Marco
+    - alvenos: arriverà
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: a
+    - la: la
+    - kvina: quinta 
+    - aŭ: o
+    - je: a
+    - la: la
+    - oka: ottava
+    - horo: ora
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Quando ti sei accorto che tutta la famiglia mi chiama benefattore?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Quando
+    - vi: tu
+    - rimarkis: ti sei accorto
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
+    - ke: che
+    - la: la
+    - tuta: tutta
+    - familio: famiglia
+    - nomas: chiama
     - min: me
-    - bonfarulo: benefactor
+    - bonfarulo: benefattore
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: "È stato utile per te il libretto che ti ho mandato l'altro ieri?"
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: (interrogativa)
+    - la: il
+    - libreto: libretto
+    - estis: è stato
+    - utila: utile
+    - al: a
+    - vi: te
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: quello che
+    - mi: io
+    - sendis: ho mandato
+    - antaŭhieraŭ: "l'altro ieri"
     - '?'

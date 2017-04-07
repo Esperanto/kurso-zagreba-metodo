@@ -1,68 +1,68 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: Ci rivedremo ancora, in qualunque momento e in qualunque luogo?
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: (interrogativa)
+    - ni: noi (soggetto)
+    - revidos: rivedremo
+    - nin: noi (oggetto)
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: dove
+    - ajn: qualsiasi
+    - kaj: e
+    - kiam: quando
+    - ajn: qualsiasi
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: "Quando riceverò indietro l'altra metà dei libri?"
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: Quando
+    - mi: io
+    - rericevos: ri-riceverò
+    - la: la
+    - alian: altra
+    - duonon: metà
+    - de: di
+    - la: i
+    - libroj: libri
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: "Avrai bisogno di più di un quarto dell'anno per quei lavori?"
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: (interrogativa)
+    - vi: tu
+    - bezonos: avrai bisogno
+    - pli: più
+    - ol: di
+    - kvaronan: un quarto (aggettivo)
+    - jaron: anno
+    - por: per
+    - tiuj: quei
+    - laboroj: lavori
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: "Com'è che quanto più fa freddo, tanto più a lungo aspettiamo?"
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: Perché
+    - estas: è
+    - des: quanto
+    - pli: più
+    - malvarma: freddo
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: tanto
+    - pli: più
+    - longe: a lungo
+    - ni: noi
+    - atendas: aspettiamo
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: Saresti contenta con qualsiasi uomo?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: (interrogativa)
+    - vi: tu
+    - estus: saresti
+    - kontenta: contenta/o
+    - kun: con
+    - iu: qualcuno
+    - ajn: qualsiasi
+    - viro: uomo
     - '?'

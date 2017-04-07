@@ -1,86 +1,86 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: Chi pulirà la cucina dopo pranzo?
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: Chi
+    - purigos: pulirà
+    - la: la
+    - kuirejon: cucina
+    - post: dopo
+    - la: il
+    - tagmanĝo: pranzo
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: "Che cosa volete da bere: tè, un po' di caffè o non volete niente?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: Che cosa
+    - vi: voi
+    - volas: volete
+    - trinki: bere
     - ':' 
-    - teon: tea
+    - teon: tè
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: "un po'"
+    - da: di
+    - kafo: caffè
+    - aŭ: o
+    - ĉu: (interrogativa)
+    - vi: voi
+    - volas: volete
+    - nenion: niente
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: "Perché hai deciso così all'improvviso di rinnovare la tua cameretta?"
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: Perché
+    - vi: tu
+    - tiel: così
+    - subite: "all'improvviso"
+    - decidis: hai deciso
+    - renovigi: rinnovare
+    - vian: tua
+    - ĉambreton: cameretta
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: A chi hai dato i bicchieri da vino puliti?
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: A
+    - kiu: chi
+    - vi: tu
+    - donis: hai dato
+    - la: e
+    - purajn: puliti
+    - glasojn: bicchieri
+    - por: per
+    - la: il
+    - vino: vino
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: Contro chi ha giocato il tuo circolo sportivo due settimane fa?
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: Contro
+    - kiu: chi
+    - ludis: ha giocato
+    - via: tuo
+    - sportklubo: circolo (club) sportivo
+    - antaŭ: prima di
+    - du: due
+    - semajnoj: settimane
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: "Vedi spesso il poliziotto che abita nell'appartamento sopra il tuo?"
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: (interrogativa)
+    - vi: tu
+    - ofte: spesso
+    - vidas: vedi
+    - la: il
+    - policiston: poliziotto
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: il quale
+    - loĝas: abita
+    - en: in
+    - la: lo
+    - loĝejo: appartamento
+    - super: sopra
+    - vi: te
     - '?'

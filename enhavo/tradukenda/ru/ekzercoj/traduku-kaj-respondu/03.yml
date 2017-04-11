@@ -1,26 +1,25 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Официанты в больших гостиницах понимают много языков?
   rektatraduko:  
     - Ĉu: вопросительная частица
-    - kelneroj: кельнеры
+    - kelneroj: официанты
     - en: в
     - grandaj: больших
-    - hoteloj: отелях
+    - hoteloj: гостиницах
     - komprenas: понимают
-    - multajn: многие
+    - multajn: много
     - lingvojn: языки
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
-  rektatraduko: 
+  demando: Ты знаешь, что Анна любит новую песню о бедняке и красавице?
     - Ĉu: вопросительная частица
     - vi: ты 
     - scias: знаешь
     - ','
-    - ĉu: вопростельная частица
+    - ĉu: вопросительная частица
     - Anna: Анна
     - ŝatas: любит
-    - la: определенный артикль
+    - la: определённый артикль
     - novan: новую
     - kanton: песню
     - pri: о
@@ -29,7 +28,7 @@
     - belulino: красавице
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Где ты видел старика и юношу, которые несли большой стол?
   rektatraduko: 
     - Kie: Где
     - vi: ты
@@ -46,7 +45,7 @@
     - tablon: стол
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Как случилось, что ты снова пришёл к нам без братьев и сестёр?
   rektatraduko: 
     - Kiel: Как
     - okazis: случилось
@@ -54,17 +53,17 @@
     - ke: что
     - vi: ты
     - denove: снова
-    - venis: пришел
-    - al:к
-    - ni:нам
+    - venis: пришёл
+    - al: к
+    - ni: нам
     - sen: без
-    - gefratoj: братьев и сестер
+    - gefratoj: братьев и сестёр
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Ты можешь с помощью нового учебника достаточно быстро выучить Эсперанто?
   rektatraduko: 
     - Ĉu: Вопросительная частица
-    - vi:ты 
+    - vi: ты 
     - povas: можешь
     - per: посредством
     - la: определенный артикль
@@ -73,5 +72,5 @@
     - sufiĉe: достаточно
     - rapide: быстро
     - lerni: выучить
-    - Esperanton: эсперанто
+    - Esperanton: Эсперанто
     - '?'

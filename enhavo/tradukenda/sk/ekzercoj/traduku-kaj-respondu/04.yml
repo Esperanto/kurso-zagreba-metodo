@@ -1,73 +1,73 @@
 -
-  demando: Kdy tě znovu uvidím?
+  demando: Kedy ťa znovu uvidím?
   rektatraduko: 
-    - Kiam: Kdy
-    - mi: já  
+    - Kiam: Kedy
+    - mi: ja
     - revidos: uvidím znovu
-    - vin: tebe
+    - vin: teba
     - '?'
 -
-  demando: Jak dlouho ty se učíš mezinárodní jazyk?
+  demando: Ako dlho sa učíš medzinárodný jazyk?
   rektatraduko: 
-    - Kiel: Jak
-    - longe: dlouho
+    - Kiel: Ako
+    - longe: dlho
     - vi: ty 
-    - lernas: se učíš
+    - lernas: sa učíš
     - la: (člen určitý)
-    - Internacian: mezinárodní
+    - Internacian: medzinárodný
     - Lingvon: jazyk
     - '?'
 -
-  demando: Kde je moje nová kniha s fotografiemi?
+  demando: Kde je moja nová kniha s fotografiami?
   rektatraduko: 
     - Kie: Kde
     - estas: je
-    - mia: moje
+    - mia: moja
     - nova: nová
     - libro: kniha
     - kun: s
-    - fotoj: fotografiemi
+    - fotoj: fotografiami
     - '?'
 -
-  demando: Kam půjdeš po obědě?
+  demando: Kam pôjdeš po obede?
   rektatraduko: 
     - Kien: Kam
     - vi: ty
-    - iros: půjdeš
+    - iros: pôjdeš
     - post: po
     - la: (člen určitý)
-    - tagmanĝo: obědě
+    - tagmanĝo: obede
     - '?'
 -
-  demando: Může někdo zavřít dveře od pokoje, když je chladno?
+  demando: Môže niekdo zavrieť dvere od izby, keď je chladno?
   rektatraduko: 
-    - Ĉu: Zda
-    - oni: někdo (neurčité zájmeno)
-    - povas: může
-    - fermi: zavřít
+    - Ĉu: Či
+    - oni: niekdo (neurčité zámeno)
+    - povas: môže
+    - fermi: zavrieť
     - la: (člen určitý)
-    - pordon: dveře
+    - pordon: dvere
     - de: od
     - la: (člen určitý)
-    - ĉambro: pokoj
+    - ĉambro: izba
     - ','
-    - kiam: kdy
+    - kiam: kedy
     - estas: je
     - malvarme: chladno
     - '?'
 -
-  demando: Jak dlouho jsi naštvaný, když ti seberou hodně peněz?
+  demando: Ako dlho si naštvaný, keď ti zoberú veľa peňazí?
   rektatraduko: 
-    - Kiel: Jak 
-    - longe: dlouho
+    - Kiel: Ako
+    - longe: dlho
     - vi: ty
-    - koleras: jsi naštvaný
+    - koleras: si naštvaný
     - ','
-    - se: když
-    - oni: oni (neurčité zájmeno)
-    - forprenas: bere
+    - se: keď
+    - oni: oni (neurčité zámeno)
+    - forprenas: zobrať
     - de: od
-    - vi: tebe
-    - multan: hodně
-    - monon: peněz
+    - vi: teba
+    - multan: veľa
+    - monon: peňazí
     - '?'

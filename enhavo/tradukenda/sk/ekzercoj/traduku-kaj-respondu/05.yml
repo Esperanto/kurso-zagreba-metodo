@@ -1,64 +1,64 @@
 -
-  demando: Umíš se klidně učit, zatímco někdo vesele zpívá?
+  demando: Vieš sa kľudne učiť, zatiaľčo niekto veselo spieva?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
-    - povas: umíš
-    - trankvile: klidně
-    - lerni: se učit
+    - povas: vieš
+    - trankvile: kľudne
+    - lerni: sa učiť
     - ','
-    - dum: zatímco
-    - iu: někdo
-    - ĝoje: radostně
-    - kantas: zpívá
+    - dum: zatiaľčo
+    - iu: niekto
+    - ĝoje: veselo
+    - kantas: spieva
     - '?'
 -
-  demando: Kdo ví, kdy a kde se opět uvidíme?
+  demando: Kto vie, kedy a kde sa opäť uvidíme?
   rektatraduko: 
-    - Kiu: Kdo
-    - scias: ví
+    - Kiu: Kto
+    - scias: vie
     - ','
-    - kiam: kdy 
+    - kiam: kedy 
     - kaj: a
     - kie: kde
     - ni: my
-    - revidos: se znovu uvidíme
+    - revidos: sa znovu uvidíme
     - nin: jeden druhého
     - '?'
 -
-  demando: Kolik je nyní hodin?
+  demando: Koľko je teraz hodín?
   rektatraduko: 
-    - Kioma: Kolik
-    - horo: hodin
+    - Kioma: Koľko
+    - horo: hodín
     - estas: je
-    - nun: nyní
+    - nun: teraz
     - '?'
 -
-  demando: Pomohl ti někdo otevřít dveře toho starého domu?
+  demando: Pomohol ti niekto otvoriť dvere toho starého domu?
   rektatraduko: 
-    - Ĉu: Zda
-    - iu: někdo
-    - helpis: pomohl
-    - al: k, ke 
-    - vi: tobě
-    - malfermi: otevřít 
+    - Ĉu: Či
+    - iu: niekto
+    - helpis: pomohol
+    - al: k, ku 
+    - vi: tebe
+    - malfermi: otvoriť 
     - la: (člen určitý)
-    - pordon: dveře
+    - pordon: dvere
     - de: od
     - la: (člen určitý)
     - malnova: starého
     - domo: domu
     - '?'
 -
-  demando: Proč nemáš čas mne déle poslouchat?
+  demando: Prečo nemáš čas ma dlhšie počúvať?
   rektatraduko: 
-    - Kial: Proč
+    - Kial: Prečo
     - vi: ty
     - ne: ne
     - havas: máš
     - tempon: čas
-    - aŭskulti: poslouchat
-    - min: mne
-    - pli: víc (2. stupeň přídavných jmen)
-    - longe: dlouho
+    - aŭskulti: počúvať
+    - min: mňa
+    - pli: viac (2. stupeň prídavných mien)
+    - longe: dlho
     - '?'

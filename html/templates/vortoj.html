@@ -30,7 +30,7 @@
         <em>
           {%- if radiko|lower in enhavo.vortaro -%}
             {% set klavo = radiko|lower %}
-            {{radiko}}
+            {{radiko|lower}}
           {%- elif radiko in enhavo.vortaro -%}
             {% set klavo = radiko %}
             {{radiko}}

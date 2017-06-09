@@ -24,23 +24,21 @@
   <h3>
     {{ enhavo.fasado['En la teksto'] | default('', true) }}
   </h3>
-
   <ul>
     {% for radiko in leciono.vortoj.teksto -%} 
       <li>
         <em>
           {%- if radiko|lower in enhavo.vortaro -%}
             {% set klavo = radiko|lower %}
-            {{radiko|lower}}
+            {{radiko}}
           {%- elif radiko in enhavo.vortaro -%}
             {% set klavo = radiko %}
             {{radiko}}
           {%- else -%}
             {% set klavo = '' %}
-            {{radiko}}
           {%- endif -%} 
           {%- if radiko|lower in enhavo.finajxoj -%}
-            {{enhavo.finajxoj[radiko]}}
+            {{enhavo.finajxoj[radiko|lower]}}
           {% endif %} 
         </em>
         – 

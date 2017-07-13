@@ -114,7 +114,7 @@ Denove: La celo estas ke la lernanto sciu kion skribu.
 
 #### Se iu traduko ne aperas
 
-Foje vi devas uzi citolojn, ekzemple jen:
+Foje vi devas uzi citilojn, ekzemple jen:
 
     vorto: "on"
 

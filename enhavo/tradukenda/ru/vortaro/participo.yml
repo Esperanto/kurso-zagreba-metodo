@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: активное причастие настоящего времени
+int: активное причастие прошедшего времени
+ont: активное причастие будущего времени
+unt: активное условное причастие
+at:  пассивное причастие настоящего времени
+it:  пассивное причастие прошедшего времени
+ot:  пассивное причастие будущего времени
+ut:  пассивное условное причастие

@@ -21,25 +21,25 @@
     - muzikilon: музыкальный инструмент
     - '?'
 - 
-  demando: Who did use my key the last time?
+	demando: Кто пользовался моим ключам последний раз?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Кто
+    - laste: последний раз
+    - uzis: использовал
+    - mian: мой
+    - ŝlosilon: ключ
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+	demando: Ты плыл по Венеции ещё и на гондоле?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: Вопросительная частица
+    - vi: ты
+    - en: в
+    - Venecio: Венеция
+    - veturis: кататься, передвигаться, ехать
+    - ankaŭ: ещё
+    - per: через, с помощью
+    - gondolo: гондола
     - '?'
 - 
   demando: Will you be able to fall asleep when it got quiet?

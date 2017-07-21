@@ -1,51 +1,53 @@
 - 
-  demando: Does friendship make you more happy than love does?
+  demando: Делает ли дружба счастливее чем любовь?
   rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+    - Ĉu: Вопросительная частица
+    - amikeco: дружба
+    - pli: более
+    - feliĉigas: делает счастливее
+    - vin: тебя 
+    - ol: чем
+    - la: определённый артикль
+    - amo: любовь
     - '?'
 - 
-  demando: How often do you write letters to your girlfriends in Italy?
+  demando: Как часто ты пишешь письма своим подружками из Италии?
   rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
+    - Kiel: Как
+    - ofte: часто
+    - vi: ты
+    - skribas: пишешь
+    - leterojn: письма
+    - al: к, на, в
+    - viaj: твои
+    - amikinoj: подружки
+    - en: в
+    - Italio: Италии
     - '?'
 - 
   demando: Has the relationship between you and your teacher changed?
+  demando: Изменилось ли отношение между тобой и твоим учителем?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+    - Ĉu: Вопросительная частица
+    - la: определённый артикль
+    - rilato: отношение
+    - inter: между
+    - vi: ты
+    - kaj: и
+    - via: твой
+    - instruisto: учитель
+    - ŝanĝiĝis: изменилось
     - '?'
 - 
   demando: Do you now already know Esperanto well enough?
+  demando: Ты уже знаешь Эсперанто достаточно хорошо?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - Ĉu: Вопросительная частица
+    - vi: ты
+    - nun: сейчас
+    - jam: уже
+    - scias: знаешь
+    - Esperanton: Эсперанто
+    - sufiĉe: досточно
+    - bone: хорошо
     - '?'

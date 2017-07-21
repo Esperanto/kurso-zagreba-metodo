@@ -25,7 +25,7 @@
     - urbocentron: центр города
     - '!'
 - 
-  demando: Куда бы ты хотел путешествовать если бы у тебя было достаточно времени и денег?
+  demando: "Куда бы ты хотел путешествовать, если бы у тебя было достаточно времени и денег?"
   rektatraduko: 
     - Kien: Куда
     - vi: ты
@@ -42,34 +42,34 @@
     - tempo: время
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: Ты собираешься ехать в Париж на машине или лучше на поезде?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - Ĉu: Вопросительная частица
+    - vi: ты
+    - planas: собираешься, планируешь
+    - veturi: путешествовать, ездить, ехать
+    - al: в, к, на
+    - Parizo: Париж
+    - per: через, с помощью
+    - aŭto: машина
+    - aŭ: или
+    - ĉu: вопросительная частица
+    - ne: не
+    - ŝajnas: кажется
+    - multe: много
+    - pli: более
+    - bone: хорошо
+    - per: через, с помощью
+    - vagonaro: поезд
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: Почему разные люди толкуют те же самые идеи по-разному?
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: Почему
+    - diversaj: разные
+    - homoj: люди
+    - klarigas: поясняют, толкуют
+    - samajn: одинаковые, те же самые
+    - ideojn: идеи
+    - diversmaniere: по-разному 
     - '?'

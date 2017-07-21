@@ -42,13 +42,13 @@
     - gondolo: гондола
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Сможешь ли ты уснуть когда оно затихнет?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: Вопросительная частица
+    - vi: ты
+    - povos: сможешь
+    - ekdormi: уснуть
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: когда 
+    - silentiĝis: затихнул
     - '?'

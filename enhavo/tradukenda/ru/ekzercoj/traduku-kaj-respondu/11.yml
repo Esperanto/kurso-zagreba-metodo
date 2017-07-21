@@ -1,24 +1,24 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Можешь принести лекарство моей сестры?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: Вопросительная частица
+    - vi: ты
+    - povas: можешь
+    - kunporti: принести
+    - la: определённый артикль
+    - sanigilon: лекарство, оздоровительное средство
+    - de: придлог, выражающий родительный падеж
+    - mia: мой
+    - fratino: сестра
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: Когда ты купил тот музыкальный инструмент?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Когда
+    - vi: ты
+    - aĉetis: купил
+    - tiun: тот
+    - muzikilon: музыкальный инструмент
     - '?'
 - 
   demando: Who did use my key the last time?

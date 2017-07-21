@@ -1,5 +1,4 @@
 - 
-  demando: What could delight your parents most of all?
   demando: Что могло бы обрадовать ваших родителей больше всего?
   rektatraduko: 
     - Kio: Что
@@ -10,37 +9,37 @@
     - gepatrojn: родителей
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: Если хотя бы ты захотел пойти в центр города после школы!
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: Если
+    - almenaŭ: хотя бы
+    - vi: ты, вы
+    - post: после
+    - la: определённый артикль 
+    - lernado: изучение
+    - irus: пошёл бы
+    - kun: со
+    - mi: я
+    - en: в
+    - la: определённый артикль 
+    - urbocentron: центр города
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: Куда бы ты хотел путешествовать если бы у тебя было достаточно времени и денег?
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: Куда
+    - vi: ты
+    - dezirus: желать
+    - vojaĝi: путешествовать
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: если
+    - vi: ты
+    - havus: имел бы
+    - sufiĉe: достаточно
+    - da: предлог, обозначающий меру и количество
+    - mono: деньги
+    - kaj: и
+    - tempo: время
     - '?'
 - 
   demando: Are you planning to travel to Paris by car or does it not seem much better by train?

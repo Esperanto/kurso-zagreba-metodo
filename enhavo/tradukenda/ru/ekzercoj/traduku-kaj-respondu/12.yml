@@ -26,43 +26,43 @@
     - libroj: книги
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: Будет ли нужно тебе больше четверти года на эти работы?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: Вопросительная частица
+    - vi: ты
+    - bezonos: будешь нуждаться
+    - pli: больше
+    - ol: чем
+    - kvaronan: четверть
+    - jaron: года
+    - por: для
+    - tiuj: этих
+    - laboroj: работы
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: "Почему чем холоднее, тем дольше мы ждём?"
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: Почему
+    - estas: есть
+    - des: чем
+    - pli: более
+    - malvarma: холодный
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: тем
+    - pli: более
+    - longe: долго
+    - ni: мы
+    - atendas: ждём
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: Была ли бы ты довольна с любым мужчиной?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: Вопросительная частица
+    - vi: ты
+    - estus: была бы
+    - kontenta: довольная
+    - kun: с
+    - iu: кто-то, кто-либо, кто-нибудь
+    - ajn: любой
+    - viro: мужчина
     - '?'

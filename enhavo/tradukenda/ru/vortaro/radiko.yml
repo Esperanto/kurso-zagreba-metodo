@@ -16,30 +16,40 @@ arb: дерево
 aspekt:
 - look
 - seem
-atend: to wait
-atent: pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
+atend:
+- ждать
+atent: внимание
+aĉet: купить
+aŭd: слышать
+aŭt: 
+- машина
+- автомобиль
+aŭtoritat: авторитет
+bedaŭr: 
+- сожалеть
+- жалеть
+bel: красивый
+best: зверь
+bezon: нуждаться
 bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: must
-dezir: to wish
+- имение
+- поместиье
+bon: хороший
+branĉ: ветка
+bru: шум
+buŝ: морда
+cert: 
+- уверенный
+- несомненный
+dank:
+- благодарить
+daŭr: продолжать
+decid:
+- решать
+- принять решение
+demand: спросить
+dev: быть должным
+dezir: желать
 diabl: devil
 dik:
 - thick

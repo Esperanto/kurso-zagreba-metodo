@@ -37,37 +37,39 @@ centoj: сотни
 dankon: спасибо
 daŭrigis: продолжил
 denove: снова
-devojiĝis: to go astray
-dikiĝi: to become fat
-doloriga: pain causing
-dolorige: pain causing
-domegon: villa
-dumnokte: at night
-dumtage: at day
-ekkriis: started screaming
-ekmire: wondrously
-ekparolis: started speaking
-ekridis: started laughing
-ekrigardis: started looking
-eksaltis: started jumping
-ekscii: to find out
-eksidis: sat down
-ekstervoje: on the way out
-ekveturas: start riding
-ekvidis: started seeing
-elstaraj: outstanding
-eniri: to go in
-eniris: went in 
-eniru: go in! 
-facilmovaj: easy-to-move
+devojiĝis: потерялся
+dikiĝi: растолстеть
+doloriga: 
+ - болезненный
+ - болевой
+dolorige: болезненно
+domegon: виллу
+dumnokte: ночью
+dumtage: днём
+ekkriis: начал кричать
+ekmire: удивляюще
+ekparolis: заговорил
+ekridis: посмеялся
+ekrigardis: посмотрел
+eksaltis: прыгнул
+ekscii: узнать
+eksidis: сел
+ekstervoje: за дорогой
+ekveturas: начинает ехать
+ekvidis: увидел
+elstaraj: выдающиеся
+eniri: войти
+eniris: вошёл 
+eniru: войди 
+facilmovaj: подвижный
 faligi:
-- to cause falling
-- to run over
-faligis: ran over
-familianoj: family members
-fermita: closed 
-fine: at the end
-foresti: to be away
+- свалить
+- уронить
+faligis: уронил
+familianoj: члены семьи
+fermita: закрытый 
+fine: на конце
+foresti: отсутствовать
 foriros: will go away
 fratino: sister
 fuŝparolis: spoke wrongly

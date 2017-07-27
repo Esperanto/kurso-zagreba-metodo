@@ -1,60 +1,63 @@
 al: 
 - k
-- ke
-anstataŭ: namísto
-antaŭ: před
-apud: vedle
-da: (předložka množství)
+- ku
+anstataŭ: namiesto
+antaŭ: pred
+apud: vedľa
+da: (predložka množstva)
 de: od
-dum: během
+dum:
+- behom
+- počas
 ekde: od (čas)
 ekster: mimo
 el:
 - z
-- ze
+- zo
 en:
 - v
-- ve
+- vo
 - do
 inter: mezi
-je: (neurčitá předložka)
+je: (neurčitá predložka)
 kontraŭ: proti
 krom: 
-- kromě
+- okrem
 - mimo
 kun: 
 - s
-- se
+- so
 laŭ: 
-- podle
-- podél
+- podľa
+- pozdĺž
 per: 
-- pomocí
-- (7. pád)
+- pomocou
+- (inštrumentál, s, so)
 por: 
-- pro
+- pre
 - na
-- za (účelové)
+- za (účelovo)
 post:
 - po
-- za (místně i časově)
+- za (miestne aj časovo)
 pri: o
-pro: kvůli
+pro: kvôli
 sen:
 - bez
-- beze
+- bezo
 sub: pod
 super: nad
 sur: na
 tra: 
-- přes
+- cez
 - skrz
-trans: přes
+trans: 
+- za
+- cez
 ĉe: 
 - u
-- při
+- pri
 ĉirkaŭ:
-- kolem
 - okolo
 - asi
 ĝis: 

@@ -99,87 +99,105 @@ fuŝ:
 - делать небрежно
 - кое-как
 gondol: гондола
-graf:
-- count
-- earl
+graf: граф
 grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
+- большой
+- великий
+grav: важный
+halt: остановить
+hav: иметь
+hejm: дом
+help: помогать
+hom: человек
+hor: час
+hotel:
+- гостиница
+- отель
+ide: идея
+industri: индустрия 
+instru: обучать
+interes: интересоваться
+invit: пригласить
+ir: идти
+itali: Италия
+jar: год
+jun: молодой
+kaf: кофе
+kalv: лысый
+kap: голова
+kapabl: способный
+kapt: ловить
+kar:
+- дорогой
+- милый
+kastel: замок
+kav: яма
+kelk: некоторый
+kelner:
+- официант
+- кельнер
+klar:
+- ясный
+- чёткий
+klub: клуб
+knab: мальчик
+koler:
+- злоба
+- гнев
+kolor: цвет
+komenc: начинать
+kompren: понимать
+kon: знать
+kontent:
+- удовлетворённый
+- довольный
+kontrol:
+- проверять
+- контроллировать
+kor: сердце
+korp: тело
+kost:
+- стоить
+- цена
+kri: кричать
+kuir: готовить (пищу)
+kuk: торт 
+kur: бегать
+labor: работать
+lakt: молоко
+lamp: лампа
+land: страна
+larĝ:
+- широкий
+- обширный
+last: последний
+laŭt: громкий
+lecion: урок
+leg: читать
+lern: изучать
+leter: письмо
+liber: свободный
+libr: книга
+lok: место
+long: длинный
+lud: играть
+lum: свет
+man: рука
+mank: не хватать
+manĝ: есть
+mar: море
+maten: утро
+memor: запомнить
+met: положить
+mez: середина
+milit: война
+minut: минута
+mir: удивляться
+moment:
+- мгновение
+- момент
+mon: деньги
+mont: гора
 montr: to show
 mort: to die
 mov: to move

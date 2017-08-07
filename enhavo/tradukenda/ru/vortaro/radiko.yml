@@ -1,168 +1,203 @@
-afer: matter
-agrabl: pleasant
-akcept: accept
-akv: water
-ali: another
-alt: high
-am: love
+afer: дело
+agrabl: приятный
+akcept: принимать, принять
+akv: вода
+ali: другой
+alt: высокий
+am: любовь
 amas:
-- mass
-- crowd
-amik: friend
-arb: tree
+- толпа
+- скопление
+- куча
+- масса
+- груда
+amik: друг
+arb: дерево
 aspekt:
 - look
 - seem
-atend: to wait
-atent: pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
+atend:
+- ждать
+atent: внимание
+aĉet: купить
+aŭd: слышать
+aŭt: 
+- машина
+- автомобиль
+aŭtoritat: авторитет
+bedaŭr: 
+- сожалеть
+- жалеть
+bel: красивый
+best: зверь
+bezon: нуждаться
 bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: must
-dezir: to wish
-diabl: devil
+- имение
+- поместиье
+bon: хороший
+branĉ: ветка
+bru: шум
+buŝ: морда
+cert: 
+- уверенный
+- несомненный
+dank:
+- благодарить
+daŭr: продолжать
+decid:
+- решать
+- принять решение
+demand: спросить
+dev: быть должным
+dezir: желать
+diabl: дьявол
 dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
-doktor: doctor
-dolar: dollar
+- толстый
+- полный
+dimanĉ: Воскресение
+dir: сказать
+direkt: направление
+doktor: доктор
+dolar: доллар
 dolor:
-- pain
-- to hurt
-dolĉ: sweet
-dom: house
-don: to give
-dorm: sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
-fart:
-- feel
-- be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
+- боль
+- доставлять боль
+dolĉ: вкусный
+dom: дом
+don: дать
+dorm: спать
+doĝ: дож
+edz: муж
+efektiv: действительно
+ekskurs:
+- экскурсия
+- прогулка
+esper: надеяться
+est: быть
+facil: лёгкий
+fakt: факт
+fal: падать
+famili: семья
+far: делать
+fart: поживать
+feliĉ: счастье
+ferm: закрыть 
+fin: закончить
+flank:
+- сторона
+- бок
 foj:
-- time
-- occasion
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
-gondol: gondola
-graf:
-- count
-- earl
+- раз
+- случай
+forges: забыть
+form: форма
+fort: сильный
+fot: фотография
+frat: брат
+fru: рано
+fuŝ:
+- делать небрежно
+- кое-как
+gondol: гондола
+graf: граф
 grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
+- большой
+- великий
+grav: важный
+halt: остановить
+hav: иметь
+hejm: дом
+help: помогать
+hom: человек
+hor: час
+hotel:
+- гостиница
+- отель
+ide: идея
+industri: индустрия 
+instru: обучать
+interes: интересоваться
+invit: пригласить
+ir: идти
+itali: Италия
+jar: год
+jun: молодой
+kaf: кофе
+kalv: лысый
+kap: голова
+kapabl: способный
+kapt: ловить
+kar:
+- дорогой
+- милый
+kastel: замок
+kav: яма
+kelk: некоторый
+kelner:
+- официант
+- кельнер
+klar:
+- ясный
+- чёткий
+klub: клуб
+knab: мальчик
+koler:
+- злоба
+- гнев
+kolor: цвет
+komenc: начинать
+kompren: понимать
+kon: знать
+kontent:
+- удовлетворённый
+- довольный
+kontrol:
+- проверять
+- контроллировать
+kor: сердце
+korp: тело
+kost:
+- стоить
+- цена
+kri: кричать
+kuir: готовить (пищу)
+kuk: торт 
+kur: бегать
+labor: работать
+lakt: молоко
+lamp: лампа
+land: страна
+larĝ:
+- широкий
+- обширный
+last: последний
+laŭt: громкий
+lecion: урок
+leg: читать
+lern: изучать
+leter: письмо
+liber: свободный
+libr: книга
+lok: место
+long: длинный
+lud: играть
+lum: свет
+man: рука
+mank: не хватать
+manĝ: есть
+mar: море
+maten: утро
+memor: запомнить
+met: положить
+mez: середина
+milit: война
+minut: минута
+mir: удивляться
+moment:
+- мгновение
+- момент
+mon: деньги
+mont: гора
 montr: to show
 mort: to die
 mov: to move

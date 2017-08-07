@@ -1,58 +1,76 @@
 al: 
-- to
-- in the direction of
-anstataŭ: instead of
+- к
+- на
+- в
+- дательный падеж
+anstataŭ: вместо
 antaŭ:
-- before
-- in front of
-apud: next to
-da: of
+- перед
+- прежде
+apud: 
+ - около
+ - возле
+da: 
+ - мера
+ - количество
 de:
-- of
-- from
-dum: during
-ekde: since
-ekster: outside of
-el:
-- from
-- out of
-en: in
+- родительный падеж
+dum: 
+ - во время
+ - в течение
+ekde: 
+ - с
+ - начиная с
+ - от
+ekster: 
+ - вне
+ - снаружи
+el: из
+en: в
 inter: 
-- between
-- among
+- между
 je:
-- of
-- with
-- in
+- на
+- с
+- предлог с неопределённым значением
 kontraŭ: 
-- against
+- против
+- контр-
 krom: 
-- besides
-- in addition to
+- кроме
 kun: 
-- with
+- с
+- со
 laŭ: 
-- according to
-- along
+- по
+- согласно с
 per: 
-- by means of
-- with
-por: for
-post: after
+- через
+- с помощью
+por: для
+post: после
 pri:
-- about
-- concerning
-pro: because of
-sen: without
+- о
+- об
+pro: из-за
+sen: без
 sub:
-- under
-- beneath
+- под
 super: 
-- over
-- above
-sur: 'on'
-tra: through
-trans: across
-ĉe: at
-ĉirkaŭ: around
-ĝis: until
+- над
+- сверх
+- пере-
+sur: над
+tra: 
+ - через
+ - сквозь
+trans: 
+ - через
+ - за
+ĉe: 
+ - при
+ - у
+ĉirkaŭ: 
+ - вокруг
+ - около (о количестве, времени)
+ĝis: до

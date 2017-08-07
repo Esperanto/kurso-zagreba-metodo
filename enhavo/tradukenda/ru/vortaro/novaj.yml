@@ -18,30 +18,48 @@ manier:
  - образ
  - манера
  - способ
-monat: 
-mond: 
+monat: месяц
+mond: мир
 naci: 
-organiz: 
-plor: 
-pluv: 
+ - нация
+ - народ
+organiz: организация
+plor: плакать
+pluv: дождь
 poŝ: 
-poŝt: 
+ - карман
+ - сумка (у сумчатых животных)
+poŝt: почта
 proksimum: 
-publik: 
-punkt: 
-pur: 
-rakont: 
+ - приблизительный
+ - примерный
+publik: публичный
+punkt: точка
+pur: чистый
+rakont: рассказ
 rimark: 
+ - замечание
+ - примечание
 seĝ: 
-sia: 
-simpl: 
-terur: 
+ - стул
+ - кресло
+sia: свой
+simpl: простой
+terur: ужас
 tut: 
+ - весь
+ - целый
 universal: 
-rilat:
-sat:
-ag:
-aper:
+ - универсальный
+ - всеобщий
+rilat: относящийся
+sat: сытый
+ag: 
+ - действие
+ - поступок
+aper: явление
 sent:
-kred:
-ide:
+ - чувство
+ - ощущение
+kred: вера
+ide: идея

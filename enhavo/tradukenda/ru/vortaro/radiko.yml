@@ -317,63 +317,85 @@ sol: одинокий
 son: звук
 sovaĝ: дикий
 sport: спорт
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: hold
-teror: terror
-tim: fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to travel
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: journey
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
+star: стоять
+strat: улица
+subit:
+- внезапно
+- неожиданно
+sufiĉ: достаточно
+sukces:
+- успех
+- удача
+sun: солнце
+supr: наверху
+tabl: стол 
+tag: день
+te: чай
+telefon: телефон
+temp: время
+temperatur: температура
+ten: держать
+teror: террор
+tim: страх
+ton: тон
+trankvil: спокойный
+trink: пить
+trov: искать
+turk: турецкий
+tuŝ: трогать
+urb: город
+util: полезный
+uz: использовать
+vagon: вагон
+varm: тёплый
+ven: приходить
+vend: продавать
+Veneci: Венеция
+ver:
+- правда
+- истина
+vesper: вечер
+vest: одежда
+vetur:
+- ехать
+- путешествовать
+vid: видеть
+vin: вино
+vir: мужчина
+viv: жить
+vizaĝ:
+- лик
+- лицо
+vizit: посетить
+voj: путь
+vojaĝ: путешествие
+vok: звать
+vol:
+- желать
+- хотеть
+vort: слово
+voĉ: голос
+zorg: забота
+ĉambr: комната
+ĉef: главный
 ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: to correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- беспокоить
+- стеснять
+ĝeneral: общий
+ĝoj: радость
+ĝust:
+- точный
+- верный
+- правильный
+ĵet: кидать
+ŝajn:
+- казаться
+- представляться
+ŝanĝ: менять
+ŝat:
+- оценить
+- ценить
+- нравится
+ŝip:
+- корабль
+- судно

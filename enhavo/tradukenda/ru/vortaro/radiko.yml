@@ -198,98 +198,125 @@ moment:
 - момент
 mon: деньги
 mont: гора
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: to need
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
-opini: opinion
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
-si: reflexive pronoun
-sid: to sit
-silent: silent
-simil: similar
+montr: показать
+mort: умереть
+mov: двигать
+mult: много
+muzik: музыка
+nask: родить
+natur: природа
+neces:
+- необходимый
+- нужный
+nokt: ночь
+nom: имя
+not: заметка
+nov: новый
+odor: пахнуть
+oft: часто
+okaz:
+- случиться
+- произойти
+okul:
+- око
+- глаз
+onkl: дядя
+opini: мнение
+ord: порядок
+orel: ухо
+pac: мир
+pag: платить
+pan: хлеб
+paper: бумага
+pardon: простить
+parol: говорить
+part: часть
+pas: пройти
+patr: отец
+paŝ: шаг
+pens: думать
+perd: потерять
+person:
+- персона
+- лицо (особь)
+- личность
+pet: просить
+pez: тяжёлый
+pied:
+- нога
+- стопа
+- лапа
+plac:
+- площадь
+- площадка
+plan: план
+plaĉ: нравиться
+plen: полный
+polic: полиция
+pord: дверь
+port:
+- нести
+- носить
+pov: мочь
+pren: взять 
+pret: готовый
+prezent: представить
+problem: проблема
+proksim: близкий
+promen:
+- гулять
+- прогуливаться
+propon: предложить
+prov: пробовать
+rajt: иметь право
+rapid: быстрый
+raport: доложить
+real: настоящий
+rekt: прямой
+renkont: встретить
+respekt:
+- почтение
+- уважение
+respond: ответить
+rest: находиться
+ricev: получить
+rid: смеяться
+rigard: смотреть
+riĉ: богатый
+rol: роль
+ruĝ: красный
+salt: прыгать
+salut:
+- приветствие
+- привет
+sam: такой-же
+san: здоровье
+saĝ: умный
+sci: знать
+sek: сухой
+sekret: тайна
+sekv: следовать
+semajn: неделя
+send: отправлять
+serĉ: искать
+si:
+- себе
+- себя
+- свой
+sid: сидеть
+silent: тихий
+simil: похожий
 sinjor:
-- gentleman
-- Mr.
-situaci: sitation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
+- господин
+- сеньор
+situaci:
+- положение
+- ситуация
+skrib: писать
+sol: одинокий
+son: звук
+sovaĝ: дикий
+sport: спорт
 star: to stand
 strat: street
 subit: suddenly

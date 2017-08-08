@@ -32,7 +32,7 @@ beleta: хорошенький
 bestetoj: зверьки
 bonega: очень хороший
 bonvolu: пожалуйста
-bonvolus: would you be so kind
+bonvolus: не был бы ты так добр?
 centoj: сотни
 dankon: спасибо
 daŭrigis: продолжил
@@ -199,58 +199,76 @@ ordigi: упорядочивать
 paperoj: бумаги
 paperojn: бумаг
 paperujon: бумажника
-pasigos: will spend
+pasigos: будет проводить
 patrino: мать
-perdigis: withdrew
-plenigadis: filled
-plenumis: fulfilled
-plibeligis: beautified
+perdigis: заставил потерять
+plenigadis: заполнял
+plenumis: исполнил
+plibeligis: украсил
 plimulto: большинство
 policano: полицейский
-promenejo: promenade
-promeno: walk
+promenejo: место для гуляния
+promeno: гулять
 rapidege: очень быстро
 realigi: реализовать
 redonu: возвращать
-rekapti: to get back
-repaciĝon: reliberation
+rekapti:
+- опять схватить
+- подхватить
+repaciĝon:
+- помириться
+- умиротвориться
 revenis: вернулся
-revidi: to see again
-revido: goodbye
-ridetis: smiled
-rideto: smile
-riĉeco:
-- richness
-- wealth
+revidi:
+- вновь увидеть
+- снова увидеть
+- ещё раз увидеть
+revido: досвидания
+ridetis: улыбнулся
+rideto: улыбка
+riĉeco: богатство
 riĉulo: богач
-salton: jump
+salton: прыжка
 saluton: привет
-samklubanoj: co-members of the club
-sekretajn: secret
-sekreton: secret
-senbrue: silently
-seninterese: disinterested
+samklubanoj: одноклубник
+sekretajn: тайных
+sekreton: тайну
+senbrue:
+- бесшумно
+- тихо
+seninterese: неинтересно
 senkolora: бесцветный
 sensukcese: безуспешно
-sentimulo: fearless man
-senvorte: wordlessly
-sinjorinoj: ladies
-sinjorinon: lady
-skribotablo: desk
-soleca: lonely
-sovaĝejo: wilderness
-sportisto: sportsman
-subakvigis: to sink
-subakviĝis: to sink
+sentimulo: бесстрашный
+senvorte:
+- бессловно
+- бессловесно
+sinjorinoj: госпожи
+sinjorinon: госпожу
+skribotablo: письменный стол
+soleca:
+- одинокий
+- уединённый
+sovaĝejo:
+- дикое место
+- глушь
+- глухомань
+sportisto: спортсмен
+subakvigis:
+- погрузил под воду
+- опустил под воду
+subakviĝis:
+- погрузился под воду
+- опустился под воду
 subite: внезапно
-supren: upward
-surhavas: wear
-surlokan: at this place
-teroristoj: terrorists
-tiuokaze: in that case
-travivaĵo: adventure
-tridekjara: 30-year-old
-troviĝis: was situated
+supren: наверх
+surhavas: имеет на себе
+surlokan: осуществляемого на месте
+teroristoj: террористы
+tiuokaze: в этом случае
+travivaĵo: переживание
+tridekjara: тридцатилетний
+troviĝis: находился
 unuaj: первые
 urbomezo: центр города
 vagonaro: поезд
@@ -258,20 +276,23 @@ vendejo: магазин
 vendejon: магазин
 vendisto: продавец
 vestaĵo: одежда 
-vestaĵoj: clothes
-vestaĵojn: clothes 
-vestaĵon: clothes
+vestaĵoj: одежды
+vestaĵojn: одежд 
+vestaĵon: одежду
 veturado:
-- drive
-- tour
-veturigus: would drive 
+- поездка
+- езда
+veturigus: повёз бы 
 viaj: ваши
 virino: женщина
 vojaĝantoj: путешественники
-ĉambristoj: chambermaids
-ĉeesto: presence
-ĉirkaŭaĵo: surrounding
-ĝenon: disturbance
-ĝustatempe: at the right time
+ĉambristoj: камердинер
+ĉeesto: присутствие
+ĉirkaŭaĵo: окрестность
+ĝenon:
+- стесняющего обстоятельства
+- стеснения
+- помеху
+ĝustatempe: своевременный
 ŝiaj: её 
-ŝipkuron: ship race
+ŝipkuron: езду на судне

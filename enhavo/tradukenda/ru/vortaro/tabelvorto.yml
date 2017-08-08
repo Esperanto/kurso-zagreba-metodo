@@ -1,59 +1,53 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: что
+tio: то
+io: что-то
+ĉio: всё
+nenio: ничего
 kiu:
-- who
-- which
-tiu:
-- that person
-- that one
+- кто
+- который
+tiu: тот
 iu: someone
 ĉiu:
-- everyone
-- every
+- каждый
+- все
 neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
-iom: 
-- to some extent
-- a certain amount
-ĉiom: 
-- all of it
-- the whole amount
-neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- никто
+- никакой из
+kie: где
+tie: там
+ie: где-то
+ĉie: везде
+nenie: нигде
+kia: какой
+tia: такой
+ia: какой-то
+ĉia: всякий
+nenia: никакой
+kiel: как
+tiel: так
+iel: как-то
+ĉiel:
+- всячески
+- по-всякому
+neniel: никак
+kial: почему
+tial: потому
+ial: почему-то
+ĉial: по-всякой (любой) причине
+nenial: без причины
+kiam: когда
+tiam: тогда
+iam: когда-то
+ĉiam: всегда
+neniam: никогда
+kiom: сколько
+tiom: столько
+iom: сколько-то
+ĉiom: всё 
+neniom: нисколько
+kies: чей
+ties: того
+ies: чей-то
+ĉies: общий
+nenies: ничей

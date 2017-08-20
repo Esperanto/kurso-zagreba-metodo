@@ -1,5 +1,5 @@
 - Výučba **500 najdôležitejšich slov**
-- **Bez registrácie**: Stačí stlačiť *Štart*
+- **Bez registrácie**: stačí stlačiť *Štart*
 - **Responzívny dizajn** optimalizované pre smartfóny
 - Nielen zdarma, ale aj pre **[voľné použitie v iných projektoch](https://github.com/Esperanto/kurso-zagreba-metodo)**
 

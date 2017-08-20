@@ -31,6 +31,15 @@ cs:
     - nomo: Oldřich Arnošt Fischer
     - nomo: Clon
       github: Clonewayx
+da:
+  nomo:
+    fontlingve: Dansk
+    esperante: dana
+  stato: preta
+  komentejo: 1
+  aŭtoroj:
+    - nomo: Mia Nordentoft
+      github: miestasmia
 de:
   nomo:
     fontlingve: Deutsch

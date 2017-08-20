@@ -17,7 +17,7 @@ La retejon programis:
 
 ## Ciferecigo de la enhavo
 
-La laŭlingvajn aŭtorojn de la ciferecigo troviĝas en `[agordoj/lingvoj.yml](agordoj/lingvoj.yml)`.
+La laŭlingvajn aŭtorojn de la ciferecigo troviĝas en [agordoj/lingvoj.yml](agordoj/lingvoj.yml).
 
 ## Sono
 

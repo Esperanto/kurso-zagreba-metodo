@@ -1,0 +1,72 @@
+- 
+  demando: Kunne du tænke dig, at jeg viser dig min nyeste bog?
+  rektatraduko: 
+    - Ĉu: Om
+    - vi: du
+    - deziras: ønsker
+    - ',' 
+    - ke: at
+    - mi: jeg
+    - montru: vis
+    - al: til
+    - vi: dig
+    - mian: min
+    - plej: mest
+    - novan: ny
+    - libron: bog
+    - '?'
+- 
+  demando: Hvad vil du spise til morgenmad i morgen?
+  rektatraduko: 
+    - Kion: Hvad
+    - vi: du
+    - volas: vil
+    - morgaŭ: i morgen
+    - matenmanĝi: spise til morgenmad
+    - '?'
+- 
+  demando: Hvornår ankommer Mark, klokken fem eller klokken otte?
+  rektatraduko: 
+    - Kiam: Hvornår
+    - Marko: Mark
+    - alvenos: ankommer
+    - ',' 
+    - je: ved (uspecificeret præposition)
+    - la: (bestemt artikel)
+    - kvina: femte
+    - aŭ: eller
+    - je: ved (uspecificeret præposition)
+    - la: (bestemt artikel)
+    - oka: ottende
+    - horo: time, tid
+    - '?'
+- 
+  demando: Hvornår bemærkede du, at hele familien kalder mig velgører?
+  rektatraduko: 
+    - Kiam: Hvornår
+    - vi: du
+    - rimarkis: bemærkede
+    - ','  
+    - ke: at
+    - la: (bestemt artikel)
+    - tuta: hele
+    - familio: familie
+    - nomas: kalder
+    - min: mig
+    - '?'
+    - bonfarulo: velgører
+- 
+  demando: Var hæftet, som jeg sendte, brugbar for dig?
+  rektatraduko: 
+    - Ĉu: Om
+    - la: (bestemt artikel)
+    - libreto: hæfte
+    - estis: var
+    - utila: brugbar
+    - al: til
+    - vi: dig
+    - ',' 
+    - kiun: som
+    - mi: jeg
+    - sendis: sendte
+    - '?'

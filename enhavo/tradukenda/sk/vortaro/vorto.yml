@@ -108,7 +108,7 @@ gepatroj: rodičia
 gondolisto: gondolier
 gondolistoj: gondolieri
 grafino: grófka
-grafinon: grófa
+grafinon: grófku
 grandula: obrovský
 gravuloj: dôležití ľudia
 haltigis: zastavil
@@ -149,154 +149,171 @@ lernanto: žiak
 lernejo: škola
 lernejon: školu
 lernolibroj: učebnice
-leteroj: dopisy
-libertempo: volný čas
+leteroj: listy
+libertempo: voľný čas
 libroj: knihy
-lumigis: osvětlil
-malagrabla: nepříjemný
+lumigis: osvetlil
+malagrabla: nepríjemný
 malbela: škaredý
-malbonaj: špatní
-malbonajn: špatné
-malbonan: špatného
+malbonaj: zlí
+malbonajn: zlých
+malbonan: zlého
 malbono: zlo 
-malfacilan: obtížného
-malfacile: obtížně
-malfeliĉo: neštěstí
+malfacilan: 
+- obťažného
+- ťažkého
+- náročného
+malfacile: 
+- obťažne
+- ťažko
+malfeliĉo: nešťastie
 malforta: slabý
-malforte: slabě
-malfruas: jdu pozdě 
-malfrue: pozdě
-malfrui: opozdit se
+malforte: slabo
+malfruas: meškám
+malfrue: neskoro
+malfrui: oneskoriť sa
 malgranda: malý
 malhelpis: 
-- kazit 
-- překážet
-malinterese: s nezájmem
-malkontentigi: neuspokojit
-mallaŭte: tiše
-malliberejon: vězení
+- kazil 
+- prekážal
+malinterese: s nezáujmom
+malkontentigi: neuspokojiť
+mallaŭte: ticho
+malliberejon: väzenie
 mallumo: tma
 malmulte: málo
-malmultekosta: levný 
+malmultekosta: lacný 
 malmulton: málo
 malnova: starý
-malnovaj: staří
-malofte: zřídka 
-malplaĉa: neoblíbený
-malplaĉan: neoblíbeného
-malproksime: daleko
-malsaniĝis: onemocněl
-malsaĝa: hloupý
-malsekajn: suché
-malsukcesa: neúspěšný
-maltrankvila: neklidný
+malnovaj: starí
+malofte: zriedka
+malplaĉa: 
+- neobľúbený
+- protivný
+malplaĉan: neobľúbeného
+malproksime: ďaleko
+malsaniĝis: ochorel
+malsaĝa: hlúpy
+malsekajn: mokré
+malsukcesa: neúspešný
+maltrankvila: nepokojný
 malvarman: studený
 malĝoja: smutný
-malŝatas: namá rád
-malŝatis: neměl rád
-manĝaĵo: jídlo
-manĝegi: žrát
-maristo: námořník
-maristoj: námořníci
-mariston: námořníka
-miaj: moje 
-militistoj: vojáci
+malŝatas: nemá rád
+malŝatis: nemal rád
+manĝaĵo: jedlo
+manĝegi: žrať
+maristo: námorník
+maristoj: námorníci
+mariston: námorníka
+miaj: moje
+militistoj: vojaci
 monerojn: mince
-monujo: peněženka
-morgaŭan: zítřejší
-mortigo: zabití
-moviĝis: pohnul se
-multekosta: drahý
-multpiedaj: s hodně nohama
-naskiĝtaga: narozeninový
-naskiĝtago: narozeniny
-naturaĵojn: přírodní věci
-nehoma: nelidský
-neinteresaj: nezajímavý
-nokta: noční
+monujo: peňaženka
+morgaŭan: zajtrajší
+mortigo: zabitie
+moviĝis: pohnul sa
+multekosta: drahý (o cene)
+multpiedaj: s mnohými nohami, mnohonohí
+naskiĝtaga: narodeninový
+naskiĝtago: narodeniny
+naturaĵojn: prírodné veci
+nehoma: neľudský
+neinteresaj: nezaujímaví
+nokta: nočný
 novaĵoj: novinky
 opinion: názor
-ordigi: obědnat 
-paperoj: papíry
-paperojn:  papíry
-paperujon: papírový sáček
-pasigos: bude trávit
+ordigi: upratať
+paperoj: papiere
+paperojn:  papiere
+paperujon: papierové vrecko
+pasigos: strávi
 patrino: matka
-perdigis: utrácel
-plenigadis: naplňoval
+perdigis: 
+- zničil
+- zahubil
+plenigadis: napĺňal
 plenumis: splnil
-plibeligis: zkrášlil
-plimulto: většina
-policano: policista
-promenejo: promenáda
-promeno: procházka
-rapidege: velmi rychle
-realigi: realizovat
-redonu: vrať
-rekapti: znovi chytit
-repaciĝon: znovusmíření
-revenis: vrátil se
-revidi: znovu vidět
-revido: shledání
-ridetis: usmíval se
-rideto: úsměv
-riĉeco: bohatství
+plibeligis: skrášlil
+plimulto: väčšina
+policano: policajt
+promenejo: 
+- promenáda
+- korzo
+promeno: prechádzka
+rapidege: veľmi rýchlo
+realigi: realizovať
+redonu: vráť
+rekapti: znovu chytiť
+repaciĝon: znovuzmierenie
+revenis: vrátil sa
+revidi: znovu vidieť
+revido: uvidenie sa
+ridetis: usmieval sa
+rideto: úsmev
+riĉeco: bohatstvo
 riĉulo: boháč
 salton: skok
 saluton: pozdrav
-samklubanoj: členové stejného klubu
-sekretajn: tajný
-sekreton: tajemství
-senbrue: tiše
-seninterese: bez zájmu
-senkolora: bezbarvý
+samklubanoj: členovia jedného klubu
+sekretajn: tajných
+sekreton: tajomstvo
+senbrue: potichu
+seninterese: bez záujmu
+senkolora: bezfarebný
 sensukcese: bez úspěchu
-sentimulo: odvážný muž
-senvorte: beze slova
-sinjorinoj: dámy
-sinjorinon: dámu
-skribotablo: psací stůl
-soleca: osamělý
+sentimulo: odvážny muž
+senvorte: bez slova
+sinjorinoj: 
+- dámy
+- panie
+sinjorinon: 
+- dámu
+- pani
+skribotablo: písací stôl
+soleca: osamelý
 sovaĝejo: divočina
-sportisto: sportovec
-subakvigis: ponořil
-subakviĝis: ponořil se
+sportisto: športovec
+subakvigis: ponoril
+subakviĝis: ponoril sa
 subite: náhle
-supren: nahoru
-surhavas: nese
-surlokan: místní
+supren: nahor
+surhavas: má na sebe, nosí
+surlokan: miestneho
 teroristoj: teroristi
-tiuokaze: v tom případě
-travivaĵo: prožitek
-tridekjara: třicetiletý
-troviĝis: nalézal se
-unuaj: první
-urbomezo: střed města
+tiuokaze: v tom prípade
+travivaĵo: zážitok
+tridekjara: tridsaťročný
+troviĝis: nachádzal sa
+unuaj: prví
+urbomezo: stred města
 vagonaro: vlak
 vendejo: 
-- prodejna
+- predajňa
 - obchod
 vendejon: 
-- prodejnu
+- predajňu
 - obchod
-vendisto: prodavač
-vestaĵo: oblečení
-vestaĵoj: oblečení
-vestaĵojn: oblečení 
-vestaĵon: oblečení
-veturado: cestování
-veturigus: vezl by 
-viaj: tvé
+vendisto: predavač
+vestaĵo: oblečenie
+vestaĵoj: oblečenia
+vestaĵojn: oblečenia
+vestaĵon: oblečenie
+veturado: cestovanie
+veturigus: viezol by
+viaj: tvone
 virino: žena
-vojaĝantoj: cestovatelé
-ĉambristoj: pokojští
-ĉeesto: účast
+vojaĝantoj: cestovatelia
+ĉambristoj: 
+- komorník
+- sluha
+ĉeesto: účasť
 ĉirkaŭaĵo: 
 - krajina
-- okolí
+- okolie
 ĝenon: 
-- trápení
-- utrpení
-ĝustatempe: ve správný čas
-ŝiaj: její 
+- trápenie
+- utrpenie
+ĝustatempe: v správnom čase
+ŝiaj: jej 
 ŝipkuron: lodní vyjížďku

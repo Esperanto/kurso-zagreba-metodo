@@ -1,77 +1,73 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: آیا پیشخدمت ها در هتل های بزرگ زبان های زیادی را می فهمند؟
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: آیا 
+    - kelneroj: پیشخدمت ها
+    - en: در
+    - grandaj: بزرگ
+    - hoteloj: هتل ها
+    - komprenas: می فهمند
+    - multajn: زیادی
+    - lingvojn: زبان ها
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: آیا شما می دانید که آنا آهنگ جدیدی را درباره یک مرد فقیر و یک دختر زیبا دوست دارد؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: آیا
+    - vi: شما
+    - scias: دانستن
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ĉu: آیا
+    - Anna: آنا 
+    - ŝatas: دوست دارد
+    - novan: جدید
+    - kanton: آهنگ
+    - pri: درباره
+    - malriĉulo: یک مرد فقیر
+    - kaj: و
+    - belulino: یک دختر زیبا
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: کجا یک مرد پیر و یک مرد جوان را دیدید که در حال حمل یک میز بزرگ بودند؟
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: کجا
+    - vi: شما
+    - vidis: دیدید
+    - maljunulon: مرد پیر
+    - kaj: و
+    - junulon: مرد جوان
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: که
+    - portis: حمل کردن
+    - grandan: بزرگ
+    - tablon: میز
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: چطور شد که مجدد بدون برادر و خواهر به نزد ما آمدید؟
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: چطور
+    - okazis: اتفاق افتاد
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: که
+    - vi: شما
+    - denove: مجدد، دوباره
+    - venis: آمدید
+    - al: به 
+    - ni: ما
+    - sen: بدون
+    - gefratoj: برادران و خواهران
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: آیا می توانید با کمک کتاب درسی جدید اسپرانتو را تقریبا سریع یاد بگیرید؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: آیا
+    - vi: شما
+    - povas: می توانید
+    - per: با کمک 
+    - nova: جدید
+    - lernolibro: کتاب درسی
+    - sufiĉe: تقریبا
+    - rapide: سریع
+    - lerni: یاد گرفتن
+    - Esperanton: اسپرانتو
     - '?'

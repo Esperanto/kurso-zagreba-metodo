@@ -21,7 +21,7 @@
     - bonaj: dobré
     - '?'
 - 
-  demando: "Čo robili Anna a Marek v malej izbe Marka?"
+  demando: Čo robili Anna a Marek v malej izbe Marka?
   rektatraduko:
     - Kion: Čo
     - faris: robili
@@ -58,7 +58,7 @@
     - hejmo: domova
     - '?'
 - 
-  demando: "Aké sú oči tvojej priateľky?"
+  demando: Aké sú oči tvojej priateľky?
   rektatraduko: 
     - Kiaj: Aké
     - estas: sú

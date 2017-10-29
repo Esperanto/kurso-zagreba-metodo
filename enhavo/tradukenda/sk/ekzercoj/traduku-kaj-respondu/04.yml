@@ -39,10 +39,10 @@
     - tagmanĝo: obede
     - '?'
 -
-  demando: Môže niekdo zavrieť dvere od izby, keď je chladno?
+  demando: Môže niekto zavrieť dvere od izby, keď je chladno?
   rektatraduko: 
     - Ĉu: Či
-    - oni: niekdo (neurčité zámeno)
+    - oni: niekto (neurčité zámeno)
     - povas: môže
     - fermi: zavrieť
     - la: (člen určitý)
@@ -51,17 +51,17 @@
     - la: (člen určitý)
     - ĉambro: izba
     - ','
-    - kiam: kedy
+    - kiam: keď
     - estas: je
     - malvarme: chladno
     - '?'
 -
-  demando: Ako dlho si naštvaný, keď ti zoberú veľa peňazí?
+  demando: Ako dlho sa hneváš, keď ti zoberú veľa peňazí?
   rektatraduko: 
     - Kiel: Ako
     - longe: dlho
     - vi: ty
-    - koleras: si naštvaný
+    - koleras: sa hneváš
     - ','
     - se: keď
     - oni: oni (neurčité zámeno)

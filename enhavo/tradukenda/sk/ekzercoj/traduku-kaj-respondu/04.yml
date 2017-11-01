@@ -14,8 +14,8 @@
     - vi: ty 
     - lernas: sa učíš
     - la: (člen určitý)
-    - Internacian: medzinárodný
-    - Lingvon: jazyk
+    - internacian: medzinárodný
+    - lingvon: jazyk
     - '?'
 -
   demando: Kde je moja nová kniha s fotografiami?
@@ -56,7 +56,7 @@
     - malvarme: chladno
     - '?'
 -
-  demando: Ako dlho sa hneváš, keď ti zoberú veľa peňazí?
+  demando: Ako dlho sa hneváš, keď ti berú veľa peňazí?
   rektatraduko: 
     - Kiel: Ako
     - longe: dlho
@@ -65,7 +65,7 @@
     - ','
     - se: keď
     - oni: oni (neurčité zámeno)
-    - forprenas: zobrať
+    - forprenas: berú
     - de: od
     - vi: teba
     - multan: veľa

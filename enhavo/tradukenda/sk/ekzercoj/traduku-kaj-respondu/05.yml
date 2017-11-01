@@ -1,13 +1,13 @@
 -
-  demando: Vieš sa kľudne učiť, zatiaľčo niekto veselo spieva?
+  demando: Môžeš sa pokojne učiť, kým (keď) niekto veselo spieva?
   rektatraduko: 
     - Ĉu: Či
     - vi: ty
-    - povas: vieš
-    - trankvile: kľudne
+    - povas: môžeš
+    - trankvile: pokojne
     - lerni: sa učiť
     - ','
-    - dum: zatiaľčo
+    - dum: kým (keď)
     - iu: niekto
     - ĝoje: veselo
     - kantas: spieva

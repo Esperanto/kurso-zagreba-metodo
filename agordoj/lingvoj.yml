@@ -329,6 +329,14 @@ ur:
   aŭtoroj:
     - nomo: Adeel Butt
       github: ambtg
+vi:
+  nomo:
+    fontlingve: Tiếng Việt
+    esperante: vjetnama
+  stato: testa
+  aŭtoroj:
+    - nomo: Hoan Tran
+      github: Ghojo-37 
 zh:
   nomo:
     fontlingve: 中文

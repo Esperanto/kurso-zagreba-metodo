@@ -1,29 +1,29 @@
 - 
-  demando: Kdo měl knihu, na kterou jsi čekal déle než dva roky?
+  demando: Kto mal knihu, na ktorú si čakal dlhšie než dva roky?
   rektatraduko: 
-    - Kiu: Kdo
-    - havis: měl
-    - la: (člen určitý)
+    - Kiu: Kto
+    - havis: mal
+    - la: (určitý člen)
     - libron: knihu
     - ',' 
-    - kiun: kterou
+    - kiun: ktorú
     - vi: ty
-    - atendis: čekal jsi
-    - pli: víc
-    - ol: než
+    - atendis: si čakal
+    - pli: viac
+    - ol: ako
     - du: dva
     - jarojn: roky
     - '?'
 - 
-  demando: Chceš, abych ti ukázal svou nejmilejší fotku?
+  demando: Chceš, aby som ti ukázal svoju najmilšiu fotku?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
     - volas: chceš
     - ','
     - ke: že
     - mi: já
-    - montru: ukázal (příkaz)
+    - montru: ukázal (príkaz)
     - al: k, ke  
     - vi: ty
     - mian: mou

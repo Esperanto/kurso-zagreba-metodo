@@ -21,57 +21,57 @@
     - vi: ty
     - volas: chceš
     - ','
-    - ke: že
-    - mi: já
+    - ke: aby
+    - mi: ja
     - montru: ukázal (príkaz)
-    - al: k, ke  
+    - al: k, ku
     - vi: ty
-    - mian: mou
-    - plej: nej (3. stupeň přídavných jmen)
-    - karan: milou
+    - mian: moju
+    - plej: naj (3. stupeň přídavných jmen)
+    - karan: milú
     - foton: fotku
     - '?'
 - 
-  demando: Kde jsi koupil to oblečení?
+  demando: Kde si kúpil to oblečenie?
   rektatraduko: 
     - Kie: Kde
     - vi: ty
-    - aĉetis: jsi koupil
+    - aĉetis: si kúpil
     - tiun: to
-    - vestaĵon: oblečení
+    - vestaĵon: oblečenie
     - '?'
 - 
-  demando: Kam půjdeš v neděli, když bude slunečný den?
+  demando: Kam pôjdeš v nedeľu, keď bude slnečný deň?
   rektatraduko: 
-    - Kien: kam
+    - Kien: Kam
     - vi: ty
-    - iros: půjdeš
-    - dimanĉe: v neděli
+    - iros: pôjdeš
+    - dimanĉe: v nedeľu
     - ',' 
-    - se: když
+    - se: keď
     - estos: bude
-    - suna: slunečný
-    - tago: den
+    - suna: slnečný
+    - tago: deň
     - '?'
 - 
-  demando: Tvůj bratr už odešel?
+  demando: Tvoj brat už odišiel?
   rektatraduko: 
-    - Ĉu: Zda
-    - via: tvůj
-    - frato: bratr
+    - Ĉu: Či
+    - via: tvoj
+    - frato: brat
     - jam: už
-    - foriris: odešel
+    - foriris: odišiel
     - '?'
 - 
-  demando: Kde je voda, kterou sis přinesl?
+  demando: Kde je voda, ktorú si si priniesol?
   rektatraduko: 
     - Kie: Kde
     - estas: je
     - la: (člen určitý)
     - akvo: voda
     - ',' 
-    - kiun: kterou
+    - kiun: ktorú
     - vi: ty
     - mem: sám
-    - kunportis: přinesl sis
+    - kunportis: priniesol si
     - '?'

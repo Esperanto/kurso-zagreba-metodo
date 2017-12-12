@@ -1,76 +1,76 @@
 - 
-  demando: Co by mohlo nejvíc potěšit tvé rodiče? 
+  demando: Čo by mohlo najviac potešiť tvojich rodičov?
   rektatraduko: 
-    - Kio: Co
+    - Kio: Čo
     - povus: by mohlo
-    - plej: nejvíc (3. stupeň)
-    - ĝojigi: potěšit
-    - viajn: tvé
-    - gepatrojn: rodiče
+    - plej: najviac (3. stupeň)
+    - ĝojigi: potešiť
+    - viajn: tvojich
+    - gepatrojn: rodičov
     - '?'
 - 
-  demando: Pokud bys alespoň ty šel se mnou po výuce do středu města!
+  demando: Keby si aspoň ty išiel so mnou po vyučovaní do stredu mesta!
   rektatraduko: 
-    - Se: Pokud
-    - almenaŭ: alespoň
+    - Se: Keby
+    - almenaŭ: aspoň
     - vi: ty
     - post: po
     - la: (člen určitý) 
-    - lernado: učení
-    - irus: bys šel 
+    - lernado: učenie
+    - irus: by si išiel
     - kun: s
-    - mi: já
+    - mi: ja
     - en: do
     - la: (člen určitý)  
-    - urbocentron: střed města
+    - urbocentron: stred mesta
     - '!'
 - 
-  demando: Kam bys toužil cestovat, pokud bys měl dostatek peněz a času?
+  demando: Kam by si si želal cestovať, keby si mal dostatok peňazí a času?
   rektatraduko: 
     - Kien: Kam
     - vi: ty
-    - dezirus: bys toužil
-    - vojaĝi: cestovat
+    - dezirus: by si si želal
+    - vojaĝi: cestovať
     - ',' 
-    - se: pokud
+    - se: keby
     - vi: ty
-    - havus: bys měl
-    - sufiĉe: dostate
-    - da: (předložka množství)
-    - mono: peníze
+    - havus: si mal
+    - sufiĉe: dostatok
+    - da: (predložka množstva)
+    - mono: peniaze
     - kaj: a
     - tempo: čas
     - '?'
 - 
-  demando: Plánuješ cestovat do Paříže autem nebo to vlakem nevypadá o moc lépe?
+  demando: Plánuješ cestovať do Paríža autom alebo to nevyzerá oveľa lepšie vlakom?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
     - planas: plánuješ
-    - veturi: cestovat
+    - veturi: cestovať
     - al: do
-    - Parizo: Paříž
-    - per: s (předložka 7. pádu)
+    - Parizo: Paríž
+    - per: s (predložka inštrumentálu)
     - aŭto: auto
-    - aŭ: nebo
-    - ĉu: zda
+    - aŭ: alebo
+    - ĉu: či
     - tio: to
     - ne: ne
-    - ŝajnas: vypadá
-    - multe: moc
-    - pli: víc (2. stupeň přídavného jména a příslovce)
+    - ŝajnas: vyzerá
+    - multe: veľa
+    - pli: viac (2. stupeň prídavného mena a príslovky)
     - bone: dobrý
-    - per: s (předložka 7. pádu)
+    - per: s (predložka inštrumentálu)
     - vagonaro: vlak
     - '?'
 - 
-  demando: Proč různí lidé vysvětlují stejné myšlenky různě?
+  demando: Prečo rôzni ľudia vysveľujú rovnaké myšlienky rôzne?
   rektatraduko: 
-    - Kial: Proč
-    - diversaj: různí
-    - homoj: lidé
-    - klarigas: vysvětlují
-    - samajn: stejnou
-    - ideojn: myšlenku
-    - diversmaniere: různě
+    - Kial: Prečo
+    - diversaj: rôzni
+    - homoj: ľudia
+    - klarigas: vysvetľujú
+    - samajn: rovnaké
+    - ideojn: myšlenky
+    - diversmaniere: rôzne
     - '?'

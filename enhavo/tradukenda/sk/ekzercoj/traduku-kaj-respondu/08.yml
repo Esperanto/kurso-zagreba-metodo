@@ -1,83 +1,83 @@
 - 
-  demando: Kdo bude uklízet kuchyň po obědě?
+  demando: Kto bude upratovať kuchyňu po obede?
   rektatraduko: 
-    - Kiu: Kdo
-    - purigos: bude uklízet
+    - Kiu: Kto
+    - purigos: bude upratovať
     - la: (člen určitý)
-    - kuirejon: kuchyni
+    - kuirejon: kuchyňu
     - post: po
     - la: (člen určitý)
-    - tagmanĝo: oběd
+    - tagmanĝo: obede
     - '?'
 - 
-  demando: "Co chceš pít: čaj, trochu kávy nebo nechceš nic?"
+  demando: Čo chceš piť: čaj, trochu kávy alebo nechceš nič?
   rektatraduko: 
-    - Kion: Co
+    - Kion: Čo
     - vi: ty
     - volas: chceš
-    - trinki: pít
+    - trinki: piť
     - ':' 
     - teon: čaj
     - ',' 
     - iom: trochu
-    - da: (předložka množství)
+    - da: (predložka množstva)
     - kafo: káva
-    - aŭ: nebo
-    - ĉu: zda
+    - aŭ: alebo
+    - ĉu: či
     - vi: ty
     - volas: chceš
-    - nenion: nic
+    - nenion: nič (akuzatív)
     - '?'
 - 
-  demando: Proč ses tak náhle rozhodl renovovat svůj malý pokoj?
+  demando: Prečo si sa tak náhle rozhodol renovovať svoju malú izbu?
   rektatraduko: 
-    - Kial: Proč
+    - Kial: Prečo
     - vi: ty
     - tiel: tak
     - subite: náhle
-    - decidis: rozhodl ses
-    - renovigi: renovovat
-    - vian: tvůj
-    - ĉambreton: malý pokoj
+    - decidis: rozhodol si sa
+    - renovigi: renovovať
+    - vian: tvoju
+    - ĉambreton: malú izbu
     - '?'
 - 
-  demando: Komu jsi dal čisté skleničky na víno?
+  demando: Komu si dal čisté poháre na víno?
   rektatraduko: 
-    - Al: K, ke
-    - kiu: kdo
+    - Al: K, ku
+    - kiu: kto
     - vi: ty
-    - donis: dal jsi
+    - donis: dal si
     - la: (člen určitý)
     - purajn: čisté
-    - glasojn: skleničky
-    - por: pro 
+    - glasojn: poháre
+    - por: na (pre)
     - la: (člen určitý)
     - vino: víno
     - '?'
 - 
-  demando: Proti komu hrál tvůj sportovní klub před dvěma týdny?
+  demando: Proti komu hral tvoj športový klub pred dvoma týždňami?
   rektatraduko: 
     - Kontraŭ: Proti
-    - kiu: kdo
-    - ludis: hrál
-    - via: tvůj
-    - sportklubo: sportovní klub
-    - antaŭ: před
+    - kiu: kto
+    - ludis: hral
+    - via: tvoj
+    - sportklubo: športový klub
+    - antaŭ: pred
     - du: dva
-    - semajnoj: týdny
+    - semajnoj: týždne
     - '?'
 - 
-  demando: Vidíš často policistu, který bydlí v bytě nad tebou?
+  demando: Vidíš často policajta, ktotý býva v byte nad tebou?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
     - ofte: často
     - vidas: vidíš
     - la: (člen určitý) 
-    - policiston: policistu
+    - policiston: policajta
     - ',' 
-    - kiu: který
-    - loĝas: bydlí
+    - kiu: ktorý
+    - loĝas: býva
     - en: v 
     - la: (člen určitý) 
     - loĝejo: byt

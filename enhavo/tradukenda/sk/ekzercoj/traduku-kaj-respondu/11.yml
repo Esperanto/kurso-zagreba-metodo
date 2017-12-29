@@ -1,54 +1,54 @@
 - 
-  demando: Můžeš přinést lék mé sestry?
+  demando: Môžeš priniesť liek mojej sestry?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
-    - povas: můžeš
-    - alporti: přinést
+    - povas: môžeš
+    - alporti: priniesť
     - la: (člen určitý) 
-    - sanigilon: lék
+    - sanigilon: liek
     - de: od
-    - mia: mé
-    - fratino: sestra
+    - mia: mojej
+    - fratino: sestry
     - '?'
 - 
-  demando: Kdy jsi koupil ten hudební nástroj?
+  demando: Kedy si kúpil ten hudobný nástroj?
   rektatraduko: 
-    - Kiam: Kdy
+    - Kiam: Kedy
     - vi: ty
-    - aĉetis: jsi koupil
+    - aĉetis: si kúpil
     - tiun: ten
-    - muzikilon: hudební nástroj
+    - muzikilon: hudobný nástroj
     - '?'
 - 
-  demando: Kdo naposled použil můj klíč?
+  demando: Kto naposledy použil môj kľúč?
   rektatraduko: 
-    - Kiu: Kdo
-    - laste: naposled
+    - Kiu: Kto
+    - laste: naposledy
     - uzis: použil
-    - mian: můj
-    - ŝlosilon: klíč
+    - mian: môj
+    - ŝlosilon: kľúč
     - '?'
 - 
-  demando: Cestoval jsi v Benátkách také gongolou?
+  demando: Cestoval si v Benátkach aj gondolou?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
     - en: v
     - Venecio: Benátky
     - veturis: cestoval
-    - ankaŭ: také
-    - per: pomocí (předložka 7. pádu)
-    - gondolo: gondoly
+    - ankaŭ: aj
+    - per: pomocou (predložka inštrumentálu)
+    - gondolo: gondola
     - '?'
 - 
-  demando: Budeš moci usnout, když to utichne?
+  demando: Budeš môcť zaspať, keď to utíchne? 
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
-    - povos: budeš moct
-    - ekdormi: usnout
+    - povos: budeš môcť
+    - ekdormi: zaspať
     - ',' 
-    - kiam: kdy 
+    - kiam: keď
     - silentiĝis: utichlo
     - '?'

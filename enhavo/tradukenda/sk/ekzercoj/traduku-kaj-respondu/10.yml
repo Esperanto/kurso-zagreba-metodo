@@ -1,51 +1,51 @@
 - 
-  demando: Udělá tě přátelství šťastnějším než láska?
+  demando: Urobí ťa priateľstvo šťastnejším než láska?
   rektatraduko: 
-    - Ĉu: Zda
-    - amikeco: přátelství
-    - pli: víc (2. stupeň přídavných jmen)
-    - feliĉigas: dělá šťastným
-    - vin: tebe
+    - Ĉu: Či
+    - amikeco: priateľstvo 
+    - pli: viac (2. stupeň prídavných mien)
+    - feliĉigas: robí šťastným
+    - vin: teba
     - ol: než
     - la: (člen určitý) 
     - amo: láska
     - '?'
 - 
-  demando: Jak často píšeš dopisy svým přítelkyním v Itálii?
+  demando: Ako často píšeš listy svojim priateľkám v Taliansku?
   rektatraduko: 
-    - Kiel: Jak
+    - Kiel: Ako
     - ofte: často
     - vi: ty
     - skribas: píšeš
-    - leterojn: dopisy
-    - al: k, ke
-    - viaj: tvým
-    - amikinoj: přítelkyním
+    - leterojn: listy
+    - al: k, ku
+    - viaj: tvoji
+    - amikinoj: priateľky
     - en: v
-    - Italio: Itálii
+    - Italio: Taliansku
     - '?'
 - 
-  demando: Změnil se vztah mezi tebou a tvým učitelem?
+  demando: Zmenil sa vzťah medzi tebou a tvojím učiteľom?
   rektatraduko: 
-    - Ĉu: Zda
-    - ŝanĝiĝis: změnil se
+    - Ĉu: Či
+    - ŝanĝiĝis: zmenil sa
     - la: (člen určitý) 
-    - rilato: vztah
-    - inter: mezi
+    - rilato: vzťah
+    - inter: medzi
     - vi: ty
     - kaj: a
-    - via: tvůj
-    - instruisto: učitel
+    - via: tvoj
+    - instruisto: učiteľ
     - '?'
 - 
-  demando: Znáš již nyní esperanto dostatečně dobře?
+  demando: Vieš už teraz esperanto dostatočne dobre?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
-    - nun: nyní
-    - jam: již
-    - scias: znáš
-    - Esperanton: Esperanto
-    - sufiĉe: dostatečně
-    - bone: dobře
+    - nun: teraz
+    - jam: už
+    - scias: vieš
+    - Esperanton: esperanto
+    - sufiĉe: dostatočne
+    - bone: dobre
     - '?'

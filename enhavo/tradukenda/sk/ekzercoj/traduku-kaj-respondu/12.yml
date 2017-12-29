@@ -1,69 +1,69 @@
 - 
-  demando: Uvidíme se znovu, jedno kde a kdy?
+  demando: Uvidíme sa znovu, jedno kde a kedy?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - ni: my
     - revidos: uvidíme znovu
     - nin: nás
     - ',' 
     - kie: kde
-    - ajn: jakýkoliv
+    - ajn: akýkoľvek
     - kaj: a
-    - kiam: kdy
-    - ajn: jakýkoliv
+    - kiam: kedy
+    - ajn: akýkoľvek
     - '?'
 - 
-  demando: Kdy vrátím zpět druhou polovinu knih?
+  demando: Kedy vrátim späť druhú polovicu kníh?
   rektatraduko: 
-    - Kiam: Kdy
-    - mi: já
-    - redonos: vrátím zpět
+    - Kiam: Kedy
+    - mi: ja
+    - redonos: vrátim späť
     - la: (člen určitý) 
-    - alian: jinou
-    - duonon: polovinu
+    - alian: inú
+    - duonon: polovicu
     - de: od
     - la: (člen určitý) 
     - libroj: knihy
     - '?'
 - 
-  demando: Budeš pro ty práce potřebovat víc než čtvrt roku?
+  demando: Budeš na tie práce potrebovať viac ako štvrť roka?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
-    - bezonos: budeš potřebovat
-    - pli: víc
-    - ol: než
-    - kvaronon: čtvrt
-    - da: z (množství)
-    - jaron: roku
-    - por: pro
-    - tiuj: ty
+    - bezonos: budeš potrebovať
+    - pli: viac
+    - ol: ako
+    - kvaronon: štvrť
+    - da: z (množstvo)
+    - jaro: rok
+    - por: pre
+    - tiuj: tie
     - laboroj: práce
     - '?'
 - 
-  demando: Proč je tím chladněji, čím déle čekáme?
+  demando: Prečo je tým chladnejšie, čím dlhšie čakáme?
   rektatraduko: 
-    - Kial: Proč
+    - Kial: Prečo
     - estas: je
-    - des: tím
-    - pli: víc (2. stupeň přídavného jména)
-    - malvarme: chladně
+    - des: tým
+    - pli: viac (2. stupeň prídavného mena)
+    - malvarme: chladno
     - ',' 
     - ju: čím
-    - pli: víc (2. stupeň přídavného jména/ příslovce)
-    - longe: dlouze
+    - pli: viac (2. stupeň prídavného mena/príslovky)
+    - longe: dlho
     - ni: my
-    - atendas: čekáme
+    - atendas: čakáme
     - '?'
 - 
-  demando: Byla bys spokojená s jakýmkoliv mužem?
+  demando: Bola by si spokojná s akýmkoľvek mužom?
   rektatraduko: 
-    - Ĉu: Zda
+    - Ĉu: Či
     - vi: ty
-    - estus: byla bys
-    - kontenta: spokojená
+    - estus: bola by si
+    - kontenta: spokojná
     - kun: s
-    - iu: někdo
-    - ajn: jakýkoliv
+    - iu: niekto
+    - ajn: akýkoľvek
     - viro: muž
     - '?'

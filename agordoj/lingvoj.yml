@@ -266,7 +266,7 @@ sk:
   nomo:
     fontlingve: Slovenčina
     esperante: slovaka
-  stato: testa
+  stato: preta
   komentejo: 0
   aŭtoroj:
     - nomo: Katka
@@ -275,6 +275,10 @@ sk:
       github: nickn17
     - nomo: Miroslav Šedivý
       github: eumiro
+    - nomo: Lucia Mikulovská
+      github: LuMiCzSk
+    - nomo: Pavol Petrik
+      github: pavolcek
 sl:
   nomo:
     fontlingve: Slovenščina

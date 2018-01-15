@@ -34,7 +34,7 @@
 - 
   demando: On has comprat aquest vestit?
   rektatraduko: 
-    - Kie: "On"
+    - Kie: 'On'
     - vi: tu
     - aĉetis: has comprat
     - ĉi tiun: aquest
@@ -43,7 +43,7 @@
 - 
   demando: On aniràs el diumenge si és un dia assolellat?
   rektatraduko: 
-    - Kien: On
+    - Kien: 'On'
     - vi: tu
     - iros: aniràs
     - dimanĉe: el diumenge

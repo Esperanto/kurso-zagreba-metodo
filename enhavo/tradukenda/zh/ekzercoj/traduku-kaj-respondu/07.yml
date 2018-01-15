@@ -21,7 +21,7 @@
     - vi: 你
     - volas: 要
     - ','
-    - ke: 
+    - ke: '' 
     - mi: 我
     - montras: 展示
     - al: 给
@@ -67,10 +67,10 @@
   rektatraduko: 
     - Kie: 哪里
     - estas: 是
-    - la: 
+    - la: '' 
     - akvo: 水
     - ',' 
-    - kiun: 
+    - kiun: '' 
     - vi: 你
     - mem: 自己
     - kunportis: have brought

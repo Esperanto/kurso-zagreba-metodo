@@ -3,10 +3,10 @@
   rektatraduko: 
     - Kiu: 谁
     - purigos: 将去
-    - la: 
+    - la: '' 
     - kuirejon: 厨房
     - post: 后
-    - la: 
+    - la: '' 
     - tagmanĝo: 午餐
     - '?'
 - 
@@ -20,7 +20,7 @@
     - teon: 茶
     - ',' 
     - iom: 一些
-    - da: 
+    - da: '' 
     - kafo: 咖啡
     - aŭ: 还是
     - ĉu: 或者是
@@ -43,15 +43,15 @@
 - 
   demando: To whom did you give the clean wine glasses? 你是把那些干净的葡萄酒杯给了谁？
   rektatraduko: 
-    - Al: 
+    - Al: ''
     - kiu: 谁
     - vi: 你
     - donis: 给了
     - la: 那些
     - purajn: 干净
     - glasojn: 杯子
-    - por: 
-    - la: 
+    - por: '' 
+    - la: ''
     - vino: 葡萄
     - '?'
 - 
@@ -78,7 +78,7 @@
     - ',' 
     - kiu: 谁
     - loĝas: 住
-    - en: 
+    - en: '' 
     - la: 在
     - loĝejo: 公寓
     - super: 上面

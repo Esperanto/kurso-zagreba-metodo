@@ -19,7 +19,7 @@
     - scias: sabe
     - ','
     - kiam: cuándo 
-    - kaj: y
+    - kaj: 'y'
     - kie: dónde
     - ni: nosotros
     - revidos: nos volveremos a ver
@@ -54,7 +54,7 @@
   rektatraduko: 
     - Kial: Por qué
     - vi: tú
-    - ne: no
+    - ne: "no"
     - havas: tienes
     - tempon: tiempo
     - aŭskulti: de escucharme

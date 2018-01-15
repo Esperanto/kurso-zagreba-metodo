@@ -39,7 +39,7 @@ def load(language):
         dirs, filename = os.path.split(path)
         root, extension = os.path.splitext(filename)
         vortspeco = root.replace('_', ' ')
-        vortlisto = yaml.load(file(path, 'r'))
+        vortlisto = yaml.load(open(path).read())
         for esperante in vortlisto:
             fontlingve = vortlisto[esperante]
             vortlisto[esperante] = {
@@ -48,18 +48,17 @@ def load(language):
             }
         enhavo['vortaro'].update(vortlisto)
 
-    enhavo['finajxoj'] = yaml.load(file('enhavo/netradukenda/radikaj_finajxoj.yml', 'r'))
+    enhavo['finajxoj'] = yaml.load(open('enhavo/netradukenda/radikaj_finajxoj.yml').read())
 
     enhavo['fasado'] = {}
     paths = glob.glob('enhavo/tradukenda/' + language + '/fasado/*.yml')
     for path in paths:
-        tradukajxoj = yaml.load(file(path, 'r'))
+        tradukajxoj = yaml.load(open(path).read())
         enhavo['fasado'].update(tradukajxoj)
 
     path = 'enhavo/tradukenda/' + language + '/enkonduko.md'
 
-    enkonduko = file(path, 'r').read()
-    enkonduko = unicode(enkonduko, 'utf-8')
+    enkonduko = open(path).read()
     #enkonduko = transpose_headlines(enkonduko, 1)
 
     enhavo['enkonduko'] = enkonduko
@@ -81,7 +80,7 @@ def load(language):
         }
 
         path = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
-        leciono['teksto'] = yaml.load(file(path, 'r'))
+        leciono['teksto'] = yaml.load(open(path).read())
 
         # Create a string of the lesson titles.
         titolo_string = ''
@@ -98,7 +97,7 @@ def load(language):
         leciono['vortoj']['pliaj'] = []
 
         path = 'enhavo/netradukenda/vortoj/' + i_padded + '.yml'
-        leciono['vortoj']['pliaj'] = yaml.load(file(path, 'r'))
+        leciono['vortoj']['pliaj'] = yaml.load(open(path).read())
 
         for paragrafo in leciono['teksto']['paragrafoj']:
             for vorto in paragrafo:
@@ -110,8 +109,7 @@ def load(language):
 
         path = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.md'
 
-        gramatiko_teksto = file(path, 'r').read()
-        gramatiko_teksto = unicode(gramatiko_teksto, 'utf-8')
+        gramatiko_teksto = open(path).read()
         gramatiko_titoloj = get_markdown_headlines(gramatiko_teksto)
         gramatiko_teksto = transpose_headlines(gramatiko_teksto, 2)
 
@@ -124,13 +122,13 @@ def load(language):
         ekzercoj = {}
 
         path = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku/' + i_padded + '.yml'
-        ekzercoj['Traduku'] = yaml.load(file(path, 'r'))
+        ekzercoj['Traduku'] = yaml.load(open(path))
 
         path = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku-kaj-respondu/' + i_padded + '.yml'
-        ekzercoj['Traduku kaj respondu'] = yaml.load(file(path, 'r'))
+        ekzercoj['Traduku kaj respondu'] = yaml.load(open(path))
 
         path = 'enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/' + i_padded + '.yml'
-        ekzercoj['Kompletigu la frazojn'] = yaml.load(file(path, 'r'))
+        ekzercoj['Kompletigu la frazojn'] = yaml.load(open(path))
 
 
         # Covert from dict to list.
@@ -143,7 +141,7 @@ def load(language):
     return enhavo
 
 md = mistune.Markdown()
-execfile('html/main.py')
+exec(open("./html/main.py").read())
 
 ap = argparse.ArgumentParser()
 
@@ -163,7 +161,7 @@ ap.add_argument(
 
 args = ap.parse_args()
 
-lingvoj = yaml.load(file('agordoj/lingvoj.yml', 'r'))
+lingvoj = yaml.load(open('agordoj/lingvoj.yml').read())
 
 if args.lingvo:
     #if args.lingvo not in lingvoj.keys():

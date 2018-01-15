@@ -18,7 +18,8 @@ def write_file(filename, content):
     if not os.path.exists(dirname):
         os.makedirs(dirname)
     with open(filename, 'w') as f:
-        f.write(content.encode('utf-8'))
+        f.write(content)
+        True
 
 def generate_html(lingvo, enhavo, args):
 

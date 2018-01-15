@@ -38,9 +38,7 @@
     - decidis: döntött
     - renovigi: felújítani
     - vian: tiédet
-    - ĉambreton: 
-      - szobácskát
-      - kis szobát
+    - ĉambreton: szobácskát
     - '?'
 - 
   demando: Kinek adtad a tiszta borospoharakat?
@@ -63,9 +61,7 @@
     - kiu: ki
     - ludis: játszott
     - via: tiéd
-    - sportklubo: 
-      - sportklub
-      - sportcsapat
+    - sportklubo: sportklub
     - antaŭ: előtt
     - du: kettő
     - semajnoj: hetek

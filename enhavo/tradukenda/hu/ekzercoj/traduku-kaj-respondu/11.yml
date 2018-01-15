@@ -4,9 +4,7 @@
     - Ĉu: Vajon
     - vi: te
     - povas: tud
-    - kunporti: 
-      - magávalhozni
-      - elhozni
+    - kunporti: magávalhozni
     - la: a
     - sanigilon: gyógyszert
     - de: -nak a/nek a
@@ -26,9 +24,7 @@
   demando: Ki használta utoljára a kulcsomat?
   rektatraduko: 
     - Kiu: Ki
-    - laste: 
-      - utoljára
-      - legutóbb
+    - laste: utoljára
     - uzis: használt
     - mian: enyémet
     - ŝlosilon: kulcsot

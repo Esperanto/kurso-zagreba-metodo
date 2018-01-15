@@ -4,9 +4,7 @@
     - Kio: Mi
     - povus: tudná
     - plej: leg
-    - ĝojigi: 
-      - vidámítani
-      - örömet okozni
+    - ĝojigi: vidámítani
     - viajn: tieidet
     - gepatrojn: szülőket
     - '?'
@@ -31,18 +29,14 @@
   rektatraduko: 
     - Kien: Hová
     - vi: te
-    - dezirus: 
-      - szeretnél
-      - kívánnál
+    - dezirus: szeretnél
     - vojaĝi: utazni
     - ',' 
     - se: ha
     - vi: te
     - havus: lenne
     - sufiĉe: elegendő
-    - da: 
-      - -nyi
-      - mennyiség
+    - da: -nyi
     - mono: pénz
     - kaj: és
     - tempo: idő
@@ -76,10 +70,6 @@
     - homoj: emberek
     - klarigas: magyaráz
     - samajn: ugyanazokat
-    - ideojn: 
-      - eszméket
-      - ötleteket
-    - diversmaniere: 
-      - különbözőképpen 
-      - másképpen
+    - ideojn: eszméket
+    - diversmaniere: különbözőképpen 
     - '?'

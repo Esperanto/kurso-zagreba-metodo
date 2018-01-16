@@ -50,6 +50,12 @@ def load(language):
 
     enhavo['finajxoj'] = yaml.load(open('enhavo/netradukenda/radikaj_finajxoj.yml').read())
 
+    enhavo['ordoj'] = {}
+    enhavo['ordoj']['cifero'] = yaml.load(open('enhavo/netradukenda/ordoj/cifero.yml'))
+    enhavo['ordoj']['monato'] = yaml.load(open('enhavo/netradukenda/ordoj/monato.yml'))
+    enhavo['ordoj']['sezono'] = yaml.load(open('enhavo/netradukenda/ordoj/sezono.yml'))
+    enhavo['ordoj']['tago_en_la_semajno'] = yaml.load(open('enhavo/netradukenda/ordoj/tago_en_la_semajno.yml'))
+
     enhavo['fasado'] = {}
     paths = glob.glob('enhavo/tradukenda/' + language + '/fasado/*.yml')
     for path in paths:

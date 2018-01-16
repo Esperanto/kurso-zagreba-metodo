@@ -51,15 +51,12 @@
 </h3>
 
 <ul>
-{% for esperante in enhavo.vortaro|sort %}
-	{% if enhavo.vortaro[esperante].vortspeco=='cifero' %}
-		<li>
-			<em>{{esperante}}</em> – 
-			{% set klavo = esperante %}
-			{% include 'tradukajxo.html' %}
-		</li>
-	{% endif %}
-
+{% for esperante in enhavo.ordoj.cifero %}
+	<li>
+		<em>{{esperante}}</em> – 
+		{% set klavo = esperante %}
+		{% include 'tradukajxo.html' %}
+	</li>
 {% endfor %}
 </ul>
 
@@ -68,15 +65,12 @@
 </h3>
 
 <ul>
-{% for esperante in enhavo.vortaro|sort %}
-	{% if enhavo.vortaro[esperante].vortspeco=='tago en la semajno' %}
-		<li>
-			<em>{{esperante}}</em> – 
-			{% set klavo = esperante %}
-			{% include 'tradukajxo.html' %}
-		</li>
-	{% endif %}
-
+{% for esperante in enhavo.ordoj.tago_en_la_semajno %}
+	<li>
+		<em>{{esperante}}</em> – 
+		{% set klavo = esperante %}
+		{% include 'tradukajxo.html' %}
+	</li>
 {% endfor %}
 </ul>
 
@@ -85,15 +79,12 @@
 </h3>
 
 <ul>
-{% for esperante in enhavo.vortaro|sort %}
-	{% if enhavo.vortaro[esperante].vortspeco=='monato' %}
-		<li>
-			<em>{{esperante}}</em> – 
-			{% set klavo = esperante %}
-			{% include 'tradukajxo.html' %}
-		</li>
-	{% endif %}
-
+{% for esperante in enhavo.ordoj.monato %}
+	<li>
+		<em>{{esperante}}</em> – 
+		{% set klavo = esperante %}
+		{% include 'tradukajxo.html' %}
+	</li>
 {% endfor %}
 </ul>
 
@@ -102,15 +93,12 @@
 </h3>
 
 <ul>
-{% for esperante in enhavo.vortaro|sort %}
-	{% if enhavo.vortaro[esperante].vortspeco=='sezono' %}
-		<li>
-			<em>{{esperante}}</em> – 
-			{% set klavo = esperante %}
-			{% include 'tradukajxo.html' %}
-		</li>
-	{% endif %}
-
+{% for esperante in enhavo.ordoj.sezono %}
+	<li>
+		<em>{{esperante}}</em> – 
+		{% set klavo = esperante %}
+		{% include 'tradukajxo.html' %}
+	</li>
 {% endfor %}
 </ul>
 

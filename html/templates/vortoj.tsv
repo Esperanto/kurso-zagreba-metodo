@@ -1,0 +1,23 @@
+{%- for leciono in enhavo.lecionoj -%} 
+	{%- set leciono_index = loop.index -%}
+	{%- for radiko in leciono.vortoj.teksto -%} 
+		{%- if radiko|lower in enhavo.vortaro -%}
+			{%- set klavo = radiko|lower -%}
+			{{radiko|lower}}
+		{%- elif radiko in enhavo.vortaro -%}
+			{%- set klavo = radiko -%}
+			{{radiko}}
+		{%- else -%}
+			{%- set klavo = '' -%}
+		{%- endif -%} 
+		{%- if radiko|lower in enhavo.finajxoj -%}
+			{{enhavo.finajxoj[radiko|lower]}}
+		{%- endif -%} 
+		{%- raw %}	{% endraw -%} 
+		{%- include 'tradukajxo.html' -%}
+		{%- raw %}	{% endraw -%} 
+		{{ leciono_index }},{%- include 'vortspeco.html' -%}
+		{%- raw %}
+{% endraw -%} 
+	{%- endfor -%}
+{%- endfor -%}

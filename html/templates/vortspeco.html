@@ -1,0 +1,4 @@
+{%- if klavo -%} 
+	{%- set vortspeco = enhavo.vortaro[klavo]['vortspeco'] | replace("cx","ĉ") | replace("gx","ĝ") | replace("hx","ĥ") | replace("jx","ĵ") | replace("sx","ŝ") | replace("ux","ŭ") -%}
+	{{ vortspeco }}
+{%- endif -%} 

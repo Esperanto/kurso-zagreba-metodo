@@ -61,7 +61,11 @@ def generate_html(lingvo, enhavo, args):
       enhavo = enhavo,
     )
 
-    eligo[output_path + 'js/vortlisto.js'] = rendered
+    # vortoj.[lingvo].tsv
+    rendered = env.get_template('vortoj.tsv').render(
+      enhavo = enhavo,
+    )
+    eligo[output_path + 'vortoj.' + lingvo + '.tsv'] = rendered
 
 
     for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj']:
@@ -112,5 +116,7 @@ def generate_html(lingvo, enhavo, args):
     # Kreu novajn dosierojn
     for vojo in eligo.keys():
         # Forigu nenecesan blankspacon.
-        eligo[vojo] = re.sub(r'\s+', ' ', eligo[vojo])
+        # Sed ne ĉe .tsv
+        if not re.search(r'\.tsv$', vojo):
+            eligo[vojo] = re.sub(r'\s+', ' ', eligo[vojo])
         write_file(vojo, eligo[vojo])

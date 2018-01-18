@@ -62,10 +62,10 @@ def generate_html(lingvo, enhavo, args):
     )
 
     # vortoj.[lingvo].tsv
-    rendered = env.get_template('vortoj.tsv').render(
+    rendered = env.get_template('eksporto/anki.tsv').render(
       enhavo = enhavo,
     )
-    eligo[output_path + 'vortoj.' + lingvo + '.tsv'] = rendered
+    eligo[output_path + 'eksporto/anki.tsv'] = rendered
 
 
     for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj']:

@@ -64,6 +64,7 @@ def generate_html(lingvo, enhavo, args):
     # vortoj.[lingvo].tsv
     rendered = env.get_template('eksporto/anki.tsv').render(
       enhavo = enhavo,
+      vojprefikso = vojprefikso,
     )
     eligo[output_path + 'eksporto/anki.tsv'] = rendered
 

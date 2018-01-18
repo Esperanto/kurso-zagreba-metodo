@@ -21,6 +21,12 @@
 
   {% include 'tabs.html' %}
 
+	<div id="eksporto" >
+		<a class="btn btn-default" href="{{vojprefikso}}eksporto/anki.tsv">
+			<span class="glyphicon glyphicon-download" aria-hidden="true"></span> Anki.tsv
+		</a>
+	</div>
+
   <h3>
     {{ enhavo.fasado['En la teksto'] | default('', true) }}
   </h3>

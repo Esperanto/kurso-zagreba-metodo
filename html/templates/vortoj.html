@@ -22,7 +22,14 @@
   {% include 'tabs.html' %}
 
 	<div id="eksporto" >
-		<a class="btn btn-default" href="{{vojprefikso}}eksporto/anki.tsv">
+		<a class="btn btn-default" href="{{vojprefikso}}eksporto/anki.tsv"
+      data-toggle="popover" title="Eksporto al Anki" data-content="
+	  <ol>
+		  <li>Elŝutu la dosieron.</li>
+			<li>Iru al https://api.ankiapp.com/nexus/.</li>
+			<li>Importu kiel <em>spreadsheet</em>.</li>
+		</ol> 
+		">
 			<span class="glyphicon glyphicon-download" aria-hidden="true"></span> Anki.tsv
 		</a>
 	</div>

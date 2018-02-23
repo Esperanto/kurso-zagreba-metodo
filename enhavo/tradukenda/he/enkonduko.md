@@ -1,4 +1,4 @@
-- מלמד אותך את **most important 500 words**
+&#x202b;- מלמד אותך את **most important 500 words**
 - **No registration needed**: Just click *Start*
 - **mobile-optimized** for smartphones
 - not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**

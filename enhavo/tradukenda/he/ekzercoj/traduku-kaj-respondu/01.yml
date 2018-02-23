@@ -1,23 +1,23 @@
 - 
-  demando: Who is your girl-friend?
+  demando: מי החברה שלך?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: מי
+    - estas: היא
+    - via: שלך
+    - amikino: חברה
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Is your friend Anna now writing in the room?האם החברה שלך אנה כותבת עכשיו בחדר
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - Ĉu: האם
+    - via: שלך
+    - amikino: חברה
+    - Anna: אנה
+    - skribas: כותבת
+    - nun: עכשיו
+    - en: ב
+    - la: (ה הידיעה)
+    - ĉambro: חדר
     - '?'
 - 
   demando: Does the friend of your father work in a hotel?

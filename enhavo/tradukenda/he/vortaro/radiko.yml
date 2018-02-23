@@ -88,81 +88,83 @@ hor: שעה
 hotel: מלון
 ide: רעיון
 industri: תעשיה 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: to need
-nokt: night
-nom: name
+instru: ללמד
+interes: לעניין
+invit: להזמין
+ir: ללכת
+itali: איטליה
+jar: שנה
+jun: צעיר
+kaf: קפה
+kalv: קירח
+kap: ראש
+kapabl:
+ - מסוגל
+ - יכול
+kapt: לתפוס
+kar: יקר
+kastel: מצודה
+kav: מערה
+kelk: כמה, אחדים
+kelner: מלצר
+klar: ברור
+klub: מועדון
+knab: נער
+koler: כעס
+kolor: צבע
+komenc: להתחיל
+kompren: להבין
+kon: לדעת
+kontent: מרוצה
+kontrol: לבדוק
+kor: לב
+korp: גוף
+kost: מחיר
+kri: לצעוק
+kuir: לבשל
+kuk: עוגה 
+kur: לרוץ
+labor: לעבוד
+lakt: חלב
+lamp: מנורה
+land: ארץ
+larĝ: רחב
+last: אחרון
+laŭt: בקול רם
+lecion: שיעור
+leg: לקרוא
+lern: ללמוד
+leter: מכתב
+liber: חופש
+libr: ספר
+lok: מקום
+long: ארוך
+lud: לשחק, לנגן
+lum: אור
+man: יש
+mank: להיות חסר
+manĝ: לאכול
+mar: ים
+maten: בוקר
+memor: לזכור
+met: לשים
+mez: אמצע
+milit: מלחמה
+minut: דקה
+mir: להתפלא
+moment: רגע
+mon: כסף
+mont: הר
+montr: להראות
+mort: למות
+mov: לזוז
+mult: הרבה
+muzik: מוזיקה
+nask: ללדת
+natur: טבע
+neces: להיות צריך
+nokt: לילה
+nom: שם
 not: note
 nov: new
 odor: smell

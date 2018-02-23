@@ -165,145 +165,149 @@ natur: טבע
 neces: להיות צריך
 nokt: לילה
 nom: שם
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
-opini: opinion
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
-si: reflexive pronoun
-sid: to sit
-silent: silent
-simil: similar
+not:
+- פתק
+- ציון
+nov: חדש
+odor: ריח
+oft: לעתים קרובות
+okaz: לקרות
+okul: עין
+onkl: דוד
+opini: דעה
+ord: סדר
+orel: אוזן
+pac: חתיכה
+pag: לשלם
+pan: לחם
+paper: נייר
+pardon: לסלוח
+parol: לדבר
+part: חלק
+pas: לעבור
+patr: אב
+paŝ: צעד
+pens: לחשוב
+perd: לאבד
+person: אדם
+pet: לבקש
+pez: כבד
+pied: רגל
+plac: מקום
+plan: לתכנן
+plaĉ: למצוא חן
+plen: מלא
+polic: משטרה
+pord: דלת
+port: 
+- לשאת
+- ללבוש
+pov: יכול
+pren: לקחת
+pret: מוכן
+prezent: להציג
+problem: בעיה
+proksim: קרוב
+promen: לטייל
+propon: להציע
+prov: לנסות
+rajt: בעל זכות
+rapid: מהיר
+raport: דיווח
+real: אמיתי
+rekt: ישיר
+renkont: לפגוש
+respekt: לכבד
+respond: לענות
+rest: להישאר
+ricev: לקבל
+rid: לצחוק
+rigard: להסתכל
+riĉ: עשיר
+rol: תפקיד
+ruĝ: אדום
+salt: לקפוץ
+salut: לברך לשלום
+sam: אותו דבר
+san: בריא
+saĝ: חכם
+sci: לדעת
+sek: יבש
+sekret: סוד
+sekv: לעקוב
+semajn: שבוע
+send: לשלוח
+serĉ: לחפש
+si: את עצמו
+sid: לשבת
+silent: שקט
+simil: דומה
 sinjor:
-- gentleman
-- Mr.
-situaci: situation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: hold
-teror: terror
-tim: fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to travel
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: journey
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
+- מר
+- אדון
+situaci: מצב
+skrib: לכתוב
+sol: לבד
+son: קול
+sovaĝ: פראי
+sport: ספורט
+star: לעמוד
+strat: רחוב
+subit: פתאום
+sufiĉ: מספיק
+sukces: הצלחה
+sun: שמש
+supr: מעל
+tabl: שולחן 
+tag: יום
+te: תה
+telefon: טלפון
+temp: זמן
+temperatur: טמפרטורה
+ten: החזיק
+teror: אימה
+tim: פחד
+ton: טון, גוון
+trankvil: רגוע
+trink: לשתות
+trov: למצוא
+turk: תורכי
+tuŝ: לגעת
+urb: עיר
+util: שימושי
+uz: להשתמש
+vagon: קרון
+varm: חם
+ven: בא
+vend: למכור
+Veneci: ונציה
+ver: אמת
+vesper: ערב
+vest: בגד, לבוש
+vetur: לנסוע
+vid: לראות
+vin: יין
+vir: גבר
+viv: לחיות
+vizaĝ: פנים
+vizit: לבקר
+voj: דרך
+vojaĝ: מסע
+vok: לקרוא בקול
+vol: רצון
+vort: מלה
+voĉ: קול
+zorg: דאג
+ĉambr: חדר
+ĉef: בוס, מנהל
 ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- להפריע
+- להטריד
+ĝeneral: כללי
+ĝoj: שמח
+ĝust: נכון, מדוייק
+ĵet: לזרוק, להשליך
+ŝajn: נראה
+ŝanĝ: לשנות
+ŝat: לחבב, למצוא חן
+ŝip: אניה

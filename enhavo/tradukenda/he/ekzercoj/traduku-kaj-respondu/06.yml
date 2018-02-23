@@ -1,0 +1,72 @@
+- 
+  demando: Do you want me to show you my newest book?
+  rektatraduko: 
+    - Ĉu: Whether
+    - vi: you
+    - deziras: wish
+    - ',' 
+    - ke: that 
+    - mi: I
+    - montru: show
+    - al: to
+    - vi: you
+    - mian: my
+    - plej: most
+    - novan: new
+    - libron: book
+    - '?'
+- 
+  demando: What do you want for breakfast tomorrow?
+  rektatraduko: 
+    - Kion: What
+    - vi: you
+    - volas: want
+    - morgaŭ: tomorrow
+    - matenmanĝi: eat breakfast
+    - '?'
+- 
+  demando: "When will Mark arrive, at five or at eight o'clock?"
+  rektatraduko: 
+    - Kiam: When
+    - Marko: Mark
+    - alvenos: will arrive
+    - ',' 
+    - je: at
+    - la: the
+    - kvina: fifth
+    - aŭ: or
+    - je: at
+    - la: the
+    - oka: eighth
+    - horo: hour
+    - '?'
+- 
+  demando: When did you notice that the whole family calls me benefactor?
+  rektatraduko: 
+    - Kiam: When
+    - vi: you
+    - rimarkis: did notice
+    - ','  
+    - ke: that
+    - la: the
+    - tuta: whole
+    - familio: family
+    - nomas: calls
+    - min: me
+    - bonfarulo: benefactor
+    - '?'
+- 
+  demando: Was the booklet which I send you useful to you?
+  rektatraduko: 
+    - Ĉu: Whether
+    - la: the 
+    - libreto: booklet
+    - estis: was
+    - utila: useful
+    - al: to
+    - vi: you
+    - ',' 
+    - kiun: which
+    - mi: I 
+    - sendis: sent
+    - '?'

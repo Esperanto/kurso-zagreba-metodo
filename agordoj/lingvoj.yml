@@ -122,6 +122,14 @@ frp:
   aŭtoroj:
     - nomo: Alexandre Raymond
       github: alekcxjo
+he:
+  nomo:
+    fontlingve: עברית
+    esperante: hebrea
+  stato: testa
+  aŭtoroj:
+    - nomo: Amir
+      github: verkoj
 hr:
   nomo:
     fontlingve: Hrvatski

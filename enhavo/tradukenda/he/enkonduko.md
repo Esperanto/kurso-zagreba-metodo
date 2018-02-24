@@ -1,4 +1,4 @@
-&#x202b; -מלמד אותך את **500 המלים החשובות ביותר**
+מלמד אותך את **500 המלים החשובות ביותר**
 - **אין צורך להירשם** רק לחץ על התחל
 - **מתאים לטלפונים ניידים**
 - not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**

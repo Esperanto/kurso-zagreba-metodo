@@ -1,27 +1,27 @@
-unu: אחת
-du: שתיים
-tri: שלוש
-kvar: ארבע
-kvin: חמש
-ses: שש
-sep: שבע
-ok: שמונה
-naŭ: תשע
-dek: עשר
-dek unu: אחת עשרה
-dek du: שתיים עשרה
-dek tri: שלוש עשרה
-dek kvar: ארבע עשרה
-dek kvin: חמש עשרה 
-dek ses: שש עשרה 
-dek sep: שבע עשרה
-dek ok: שמונה עשרה
-dek naŭ: תשע עשרה
-dudek: עשרים
-tridek: שלושים
-kvardek: ארבעים
-cent: מאה
-ducent: מאתיים
-tricent: שלוש מאות
-mil: אלף
-dumil: אלפיים
+unu: "אחת"
+du: "שתיים"
+tri: "שלוש"
+kvar: "ארבע"
+kvin: "חמש"
+ses: "שש"
+sep: "שבע"
+ok: "שמונה"
+naŭ: "תשע"
+dek: "עשר"
+dek unu: "אחת עשרה"
+dek du: "שתיים עשרה"
+dek tri: "שלוש עשרה"
+dek kvar: "ארבע עשרה"
+dek kvin: "חמש עשרה"
+dek ses: "שש עשרה"
+dek sep: "שבע עשרה"
+dek ok: "שמונה עשרה"
+dek naŭ: "תשע עשרה"
+dudek: "עשרים"
+tridek: "שלושים"
+kvardek: "ארבעים"
+cent: "מאה"
+ducent: "מאתיים"
+tricent: "שלוש מאות"
+mil: "אלף"
+dumil: "אלפיים"

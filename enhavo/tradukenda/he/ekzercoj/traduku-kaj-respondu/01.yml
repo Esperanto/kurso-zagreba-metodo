@@ -20,38 +20,38 @@
     - ĉambro: חדר
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: ?האם החבר של אבא שלך עובד במלון
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: האם
+    - la: ה
+    - amiko: חבר
+    - de: של
+    - via: שלך
+    - patro: אבא
+    - laboras: עובד
+    - en: ב
+    - hotelo: מלון
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: ?מה יש על שולחן העבודה בחדר שלנו
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: מה 
+    - estas: יש
+    - sur: על
+    - la: ה
+    - labortablo: שולחן עבודה
+    - en: ב
+    - nia: שלנו
+    - ĉambro: חדר
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: ?האם יש ספר אספרנטו על השולחן שלך
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: האם
+    - Esperanto-lernolibro: ספר אספרנטו
+    - estas: יש
+    - sur: על
+    - via: שלך 
+    - tablo: שולחן
     - '?'
 

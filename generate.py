@@ -174,6 +174,7 @@ if args.lingvo:
     #    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
     enhavo = load(args.lingvo)
     enhavo['lingvoj'] = lingvoj
+    enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
     generate_html(args.lingvo, enhavo, args)
 else:
     for lingvo in lingvoj:

@@ -48,3 +48,6 @@
 	float: right;
   margin-top: 1em;
 }
+div[dir="rtl"] #eksporto {
+	float: left;
+}

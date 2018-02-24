@@ -21,6 +21,8 @@
 
   {% include 'tabs.html' %}
 
+  <div dir="{{enhavo.tekstodirekto}}">
+	
 	<div id="eksporto" >
 		<a class="btn btn-default" href="{{vojprefikso}}eksporto/anki.tsv"
       data-toggle="popover" title="Eksporto al Anki" data-content="
@@ -87,6 +89,8 @@
       </li>
     {% endfor %}
   </ul>
+
+</div>
 
   {% include 'pagxonumerado-komentejo.html' %}
 

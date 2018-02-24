@@ -60,6 +60,7 @@ def generate_html(lingvo, enhavo, args):
     rendered = env.get_template('vortlisto.js').render(
       enhavo = enhavo,
     )
+    eligo[output_path + 'js/vortlisto.js'] = rendered
 
     # vortoj.[lingvo].tsv
     rendered = env.get_template('eksporto/anki.tsv').render(

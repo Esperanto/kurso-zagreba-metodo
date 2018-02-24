@@ -25,13 +25,13 @@
   {% set ekzerco_index = 2 %}
   {% set form_id = leciono_index ~ '-' ~ ekzerco_index %}
 
-  <h3> {{enhavo.fasado[tasko]}} / {{tasko}} </h3>
+  <h3 dir="{{enhavo.tekstodirekto}}"> {{enhavo.fasado[tasko]}} / {{tasko}} </h3>
 
 	<div class="panel-group">
 		<div class="panel panel-default">
 			<div class="panel-heading">
 <a data-toggle="collapse" href="#teksto">
-				<h4 class="panel-title">
+				<h4 class="panel-title" dir="{{enhavo.tekstodirekto}}">
 					{{enhavo.fasado['Teksto']}}
 				</h4></a>
 			</div>
@@ -43,7 +43,7 @@
 		</div>
 	</div>
 	
-  <p class="alert alert-info" role="alert">{{ enhavo.fasado['Por la Esperantaj literoj vi ankaŭ rajtas skribi cx, gx, hx, jx, sx kaj ux.'] }}</p>
+  <p class="alert alert-info" role="alert" dir="{{enhavo.tekstodirekto}}">{{ enhavo.fasado['Por la Esperantaj literoj vi ankaŭ rajtas skribi cx, gx, hx, jx, sx kaj ux.'] }}</p>
 
   <form id="form-{{form_id}}" class="form-inline">
     <ol class="tasko">

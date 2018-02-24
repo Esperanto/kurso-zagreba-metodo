@@ -1,9 +1,9 @@
 מלמד אותך את **500 המלים החשובות ביותר**
 - **אין צורך להירשם** רק לחץ על התחל
 - **מתאים לטלפונים ניידים**
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- לא רק בחינם, אלא גם **[חופשי לשימוש בפרוייקטים אחרים](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
--הקורס כולל **12 שעורים**, בכל אחד מהם
+ הקורס כולל **12 שעורים**, בכל אחד מהם
 
 - טכסט
 - הסבר דקדוקי

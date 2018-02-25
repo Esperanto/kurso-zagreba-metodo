@@ -1,11 +1,11 @@
 - 
-  demando: What was your old home like?
+  demando: ?איפה היה הבית הישן שלך
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kie: איפה
+    - estis: היה
+    - via: שלך
+    - malnova: ישן
+    - hejmo: בית 
     - '?'
 - 
   demando: ?אילו ספרים קראת, והאם הם היו טובים
@@ -36,35 +36,35 @@
     - Marko: מרקו
     - '?'
 - 
-  demando: Do you like reading books about love?האם אתה אוהב לקרוא 
+  demando: ?האם את/אתה אוהב/ת לקרוא ספרים על אהבה
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: האם
+    - vi: את/אתה
+    - ŝatas: אוהב
+    - legi: לקרוא
+    - librojn: ספרים
+    - pri: על
+    - amo: אהבה
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: ?מי ילך עמך לביתך
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: מי
+    - iros: יילך
+    - kun: עם
+    - vi: אתה
+    - al: אל 
+    - via: שלך
+    - hejmo: בית
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: ?איזה עיניים יש לחברה שלך
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: איזה
+    - estas: הם
+    - la: הא הידיעה
+    - okuloj: עיניים
+    - de: של
+    - via: שלך
+    - amikino: חברה
     - '?'

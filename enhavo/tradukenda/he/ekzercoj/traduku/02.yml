@@ -1,26 +1,23 @@
 - eniri: 
-  - to go in
-  - to enter
-- enhavo: 
-  - contents
-  - content
+  - "להיכנס"
+ - enhavo: 
+  - "תוכן"
 - kunsido:
-  - meeting
-  - session
-- malbona: bad
+  - "פגישה"
+  - "ישיבה"
+- malbona: "רע"
 - kunveno: 
-  - meeting
-  - assembly
-- malfacila: difficult
-- maljuna: old
-- gepatroj: parents
-- alveni: arrive
-- bonvena:
-  - welcome
-  - welcoming
-- gefratoj: siblings
-- trinkmono: tip
-- malami: to hate
+  - "פגישה"
+- malfacila: "קשה"
+- maljuna: 
+  - "זקן"
+  - "ישן"
+- gepatroj: "הורים"
+- alveni: "להגיע"
+- bonvena: "ברוך הבא"
+- gefratoj: "אחים"
+- trinkmono: "טיפ"
+- malami: "לשנוא"
 - kunlabori:
-  - to collaborate
-  - to work together
+  - "לשתף פעולה"
+  - "לעבוד יחד"

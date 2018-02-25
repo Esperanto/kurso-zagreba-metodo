@@ -8,35 +8,35 @@
     - hejmo: home 
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: ?אילו ספרים קראת, והאם הם היו טובים
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: אילו
+    - librojn: ספרים
+    - vi: אתה
+    - legis: קראת
+    - kaj: ו
+    - ĉu: האם
+    - ili: הם
+    - estas: היו
+    - bonaj: טובים 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: ?מה עשו אנה ומרקו בחדר הקטן של מרקו
   rektatraduko:
-    - Kion: What
-    - faris: did do
-    - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - Kion: מה
+    - faris: עשו
+    - Anna: אנה
+    - kaj: ו
+    - Marko: מרקו
+    - en: ב 
+    - la: הא הידיעה
+    - malgranda: קטן
+    - ĉambro: חדר
+    - de: של
+    - Marko: מרקו
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Do you like reading books about love?האם אתה אוהב לקרוא 
   rektatraduko: 
     - Ĉu: Whether
     - vi: you

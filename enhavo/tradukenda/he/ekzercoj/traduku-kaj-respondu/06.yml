@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: ?האם אתה רוצה שאני אראה לך את הספר החדש ביותר שלי
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: האם
+    - vi: אתה
+    - deziras: רוצה
     - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: ש 
+    - mi: אני
+    - montru: אראה
+    - al: ל
+    - vi: אתה
+    - mian: את שלי
+    - plej: הכי
+    - novan: חדש
+    - libron: ספר
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: ?מה אתה רוצה לארוחת בוקר מחר
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: מה
+    - vi: אתה
+    - volas: רוצה
+    - morgaŭ: מחר
+    - matenmanĝi: לאכול לארוחת בוקר
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: ?מתי מרקו יגיע, בחמש או בשמונה
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: מתי
+    - Marko: מרקו
+    - alvenos: יגיע
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: ב
+    - la: הא הידיעה
+    - kvina: חמש
+    - aŭ: או
+    - je: ב
+    - la: הא הידיעה
+    - oka: שמונה
+    - horo: שעה
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: ?מתי אתה הבחנת שכל המשפחה קוראת לי אדם מיטיב
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: מתי
+    - vi: אתה
+    - rimarkis: הבחנת
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: ש
+    - la: הא הידיעה
+    - tuta: כל
+    - familio: משפחה
+    - nomas: קוראת
+    - min: לי
+    - bonfarulo: אדם מיטיב
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: ?האם החוברת שאותה שלחתי לך היתה מועילה
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: האם
+    - la: הא השאלה 
+    - libreto: חוברת
+    - estis: היתה
+    - utila: מועילה
+    - al: אל
+    - vi: אתה
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: שאותה
+    - mi: אני 
+    - sendis: שלחתי
     - '?'

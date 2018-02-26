@@ -1,4 +1,4 @@
-﻿- enfali: "ליפול לתוך"
+- enfali: "ליפול לתוך"
 - ellabori: "לעבד"
 - scivola: "סקרן"
 - trilingva: 
@@ -19,7 +19,9 @@
 - eldoni: "להוציא לאור"
 - eldonisto: "מוציא לאור"
 - okdek ses: '86'
-- revidi:  "לראות שוב"
+- revidi:  
+  - "לראות שוב"
+  - "להתראות"
 - reveni: "לחזור"
 - internacia: "בינלאומי"
 - piediri: "ללכת ברגל"

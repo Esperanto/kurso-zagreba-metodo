@@ -1,75 +1,75 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: ?מה יכול הכי לשמח את הוריך 
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: מה
+    - povus: יכול
+    - plej: הכי
+    - ĝojigi: לשמח
+    - viajn: את שלך
+    - gepatrojn: הורים
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: !אם לפחות אחרי הלימודים היית הולך איתי למרכז העיר
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: אם
+    - almenaŭ: לפחות
+    - vi: אתה
+    - post: אחרי
+    - la: הא הידיעה 
+    - lernado: לימודים
+    - irus: היית הולך
+    - kun: עם
+    - mi: אני
+    - en: אל
+    - la: הא הידיעה 
+    - urbocentron: מרכז העיר
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: ?לאן היית רוצה לנסוע אם היו לך מספיק כסף וזמן
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: לאן
+    - vi: אתה
+    - dezirus: היית רוצה
+    - vojaĝi: לנסוע
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: אם
+    - vi: אתה
+    - havus: היה לך
+    - sufiĉe: מספיק
+    - da: של
+    - mono: כסף
+    - kaj: ו
+    - tempo: זמן
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: ?האם אתה מתכנן לנסוע לפריז במכונית או שנראה שעדיף בהרבה ברכבת
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - Ĉu: האם
+    - vi: אתה
+    - planas: מתכנן
+    - veturi: לנסוע
+    - al: אל
+    - Parizo: פריז
+    - per: ב
+    - aŭto: מכונית
+    - aŭ: או
+    - ĉu: האם
+    - ne: לא
+    - ŝajnas: נראה
+    - multe: הרבה
+    - pli: יותר
+    - bone: טוב
+    - per: עם
+    - vagonaro: רכבת
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: ?מדוע אנשים שונים מסבירים את אותם רעיונות באופן שונה
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: מדוע
+    - diversaj: שונים
+    - homoj: אנשים
+    - klarigas: מסבירים
+    - samajn: את אותם
+    - ideojn: רעיונות
+    - diversmaniere: באופן שונה 
     - '?'

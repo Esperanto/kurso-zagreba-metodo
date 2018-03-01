@@ -55,14 +55,13 @@
     - atendas: מחכים
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: ?האם אתה מאושר בחייך
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun : with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: האם
+    - vi: אתה
+    - estas: (זמן הווה)
+    - feliĉa: מאושר
+    - en : ב
+    - via: שלך
+    - vivo: חיים
     - '?'

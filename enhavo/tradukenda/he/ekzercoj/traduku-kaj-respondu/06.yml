@@ -32,34 +32,34 @@
     - alvenos: יגיע
     - ',' 
     - je: ב
-    - la: הא הידיעה
+    - la: ה
     - kvina: חמש
     - aŭ: או
     - je: ב
-    - la: הא הידיעה
+    - la: ה
     - oka: שמונה
     - horo: שעה
     - '?'
 - 
-  demando: ?מתי אתה הבחנת שכל המשפחה קוראת לי אדם מיטיב
+  demando: ?מתי אתה הבחנת שכל המשפחה קוראת לי אדם טוב
   rektatraduko: 
     - Kiam: מתי
     - vi: אתה
     - rimarkis: הבחנת
     - ','  
     - ke: ש
-    - la: הא הידיעה
+    - la: ה
     - tuta: כל
     - familio: משפחה
     - nomas: קוראת
     - min: לי
-    - bonfarulo: אדם מיטיב
+    - bonfarulo: אדם טוב
     - '?'
 - 
   demando: ?האם החוברת שאותה שלחתי לך היתה מועילה
   rektatraduko: 
     - Ĉu: האם
-    - la: הא השאלה 
+    - la: ה 
     - libreto: חוברת
     - estis: היתה
     - utila: מועילה

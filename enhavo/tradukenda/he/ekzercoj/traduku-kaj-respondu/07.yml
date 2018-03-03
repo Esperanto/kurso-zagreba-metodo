@@ -3,7 +3,7 @@
   rektatraduko: 
     - Kiu: מי
     - havis: היה לו
-    - la: הא הידיעה
+    - la: ה
     - libron: את הספר
     - ',' 
     - kiun: ש
@@ -41,37 +41,37 @@
     - vestaĵon: בגד
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
+  demando: ?לאן תלך ביום ראשון אם זה יהיה יום עם שמש
   rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+    - Kien: לאן
+    - vi: אתה
+    - iros: תלך
+    - dimanĉe: ביום ראשון
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: אם
+    - estos: יהיה
+    - suna: עם שמש
+    - tago: יום
     - '?'
 - 
-  demando: Did your brother already leave?
+  demando: ?האם אחיך כבר עזב
   rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+    - Ĉu: האם
+    - via: שלך
+    - frato: אח
+    - jam: כבר
+    - ekiris: עזב
     - '?'
 - 
-  demando: Where is the water which you have brought yourself?
+  demando: ?איפה המים שאותם אתה בעצמך הבאת
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+    - Kie: איפה
+    - estas: הם
+    - la: ה
+    - akvo: מים
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: שאותם
+    - vi: אתה
+    - mem: בעצמך
+    - kunportis: הבאת
     - '?'

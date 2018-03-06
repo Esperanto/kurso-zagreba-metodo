@@ -1,16 +1,32 @@
-- antaŭĉambro: anteroom
-- malamiko: enemy
-- malantaŭ: behind
-- antaŭvidi: to foresee
-- malrapida: slow
-- trarigardi: to look through
-- junulo: teenager
-- malmulte: less
-- finfine: eventually
-- malriĉulo: poor
-- tagmanĝo: lunch
-- tralegi: read through
-- malnova: old
-- laborejo: workplace
-- travidebla: transparent
-- trinkebla: drinkable
+- antaŭĉambro:
+  - "הול"
+  - "כניסה"
+  - "חדר כניסה"
+- malamiko:
+  - "אויב"
+  - "אוייב"
+- malantaŭ: 
+  - "אחרי"
+  - "מאחורי"
+- antaŭvidi: 
+  - "לצפות"
+  - "לחזות"
+- malrapida: "לאט"
+- trarigardi: "להסתכל דרך"
+- junulo: 
+  - "צעיר"
+- malmulte: "פחות"
+- finfine: 
+  - "לבסוף"
+  - "סופסוף"
+- malriĉulo: "עני"
+- tagmanĝo: "ארוחת צהרים"
+- tralegi: 
+  - "לקרוא"
+  - "לקרוא ביסודיות"
+- malnova: "ישן"
+- laborejo: 
+  - "עבודה"
+  - "מקום עבודה"
+- travidebla: "שקוף"
+- trinkebla: "ניתן לשתיה"

@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: ?האם מלצרים במלונות גדולים מבינים הרבה שפות
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: האם
+    - kelneroj: מלצרים
+    - en: ב
+    - grandaj: גדולים
+    - hoteloj: מלונות
+    - komprenas: מבינים
+    - multajn: הרבה
+    - lingvojn: שפןת
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: ?האם אתה יודע אם אנה אוהבת את השיר החדש על אדם עני ויפהפיה
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: האם
+    - vi: אתה
+    - scias: יודע
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ĉu: אם
+    - Anna: אנה 
+    - ŝatas: אוהבת
+    - la: את ה
+    - novan: חדש
+    - kanton: שיר
+    - pri: על
+    - malriĉulo: אדם עני
+    - kaj: ו
+    - belulino: יפהפיה
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: ?איפה אתה ראית את האדם הזקן ואדם צעיר שנושאים שולחן גדול
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: איפה
+    - vi: אתה
+    - vidis: ראית
+    - la:  ה
+    - maljunulon: את הזקן
+    - kaj: ו
+    - la: ה
+    - junulon: אדם צעיר
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: ש
+    - portis: נשאו
+    - grandan: גדול 
+    - tablon: שולחן
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: ?איך קרה שאתה שוב באת אלינו בלי אחים ואחיות
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: איך
+    - okazis: קרה
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: ש
+    - vi: אתה
+    - denove: שוב
+    - venis: באת
+    - al: אל 
+    - ni: אנחנו
+    - sen: בלי
+    - gefratoj: אחים ואחיות
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: ?האם אתה יכול על ידי ספר הלימוד החדש מספיק מהר ללמוד אספרנטו
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: האם
+    - vi: אתה
+    - povas: יכול
+    - per: על ידי
+    - la: ה 
+    - nova: חדש
+    - lernolibro: ספר לימוד
+    - sufiĉe: מספיק
+    - rapide: מהר
+    - lerni: ללמוד
+    - Esperanton: אספרנטו
     - '?'

@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: ?האם יכול להביא אתך את התרופה של אחותי
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: האם
+    - vi: אתה
+    - povas: יכול
+    - kunporti: להביא אתך
+    - la: ה
+    - sanigilon: תרופה
+    - de: של
+    - mia: שלי
+    - fratino: אחות
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: ?מתי קנית את כלי הנגינה הזה
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: מתי
+    - vi: אתה
+    - aĉetis: קנית
+    - tiun: הזה
+    - muzikilon: כלי נגינה
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: ?מי השתמש במפתח שלי לאחרונה
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: מי
+    - laste: לאחרונה
+    - uzis: השתמש
+    - mian: שלי
+    - ŝlosilon: מפתח
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: ?האם אתה טיילת בונציה גם בגונדולה
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: האם
+    - vi: אתה
+    - en: ב
+    - Venecio: ונציה
+    - veturis: טיילת
+    - ankaŭ: גם
+    - per: על ידי
+    - gondolo: גונדולה
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: ?האם תוכל להירדם כאשר יעשה שקט
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: האם
+    - vi: אתה
+    - povos: תוכל
+    - ekdormi: להירדם
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: כאשר 
+    - silentiĝis: יעשה שקט
     - '?'

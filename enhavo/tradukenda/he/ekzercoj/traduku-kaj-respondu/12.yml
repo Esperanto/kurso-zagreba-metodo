@@ -1,68 +1,67 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: ?האם אנו נתראה, לא חשוב איפה ומתי
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: האם
+    - ni: אנו
+    - revidos: נתראה
+    - nin: אותנו
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: איפה
+    - ajn: שהוא
+    - kaj: ו
+    - kiam: היכן
+    - ajn: שהוא
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: ?מתי אני אקבל חזרה את החצי השני של הספרים
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: מתי
+    - mi: אני 
+    - rericevos: אקבל חזרה
+    - la: ה
+    - alian: אחר
+    - duonon: את החצי
+    - de: של
+    - la: ה
+    - libroj: ספרים
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: ?האם אתה תצטרך יותר מרבע שנה למשימות האלה
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: האם
+    - vi: אתה
+    - bezonos: תצטרך
+    - pli: יותר
+    - ol: מאשר
+    - kvaronan: רבע
+    - jaron: שנה
+    - por: בשביל
+    - tiuj: אלה
+    - laboroj: עבודות, משימות
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: ?מדוע ככל שקר יותר, אז אנו מחכים יותר
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: מדוע
+    - estas: (זמן הווה)
+    - des: ככל
+    - pli: יותר
+    - malvarma: קר
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: אז
+    - pli: יותר
+    - longe: ארוך
+    - ni: אנו
+    - atendas: מחכים
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: ?האם אתה מאושר בחייך
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: האם
+    - vi: אתה
+    - estas: (זמן הווה)
+    - feliĉa: מאושר
+    - en : ב
+    - via: שלך
+    - vivo: חיים
     - '?'

@@ -1,86 +1,86 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: ?מי הולך לנקות את המטבח אחרי ארוחת הצהרים
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: מי
+    - purigos: הולך לנקות
+    - la: ה
+    - kuirejon: מטבח
+    - post: אחרי
+    - la: ה
+    - tagmanĝo: ארוחת צהרים
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: ?מה אתה רוצה לשתות תה, קצת קפה או האם אתה רוצה שום דבר
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: מה
+    - vi: אתה
+    - volas: רוצה
+    - trinki: לשתות
     - ':' 
-    - teon: tea
+    - teon: תה
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: קצת
+    - da: של
+    - kafo: קפה
+    - aŭ: או
+    - ĉu: האם
+    - vi: אתה
+    - volas: רוצה
+    - nenion: שום דבר
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: ?למה אתה כל כך בפתאומיות החלטת לחדש את החדר הקטן שלך
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: למה
+    - vi: אתה
+    - tiel: כל כך
+    - subite: בפתאומיות
+    - decidis: החלטת
+    - renovigi: לחדש
+    - vian: את שלך
+    - ĉambreton: חדר קטן
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: ?למי נתת את הכוסות הנקיות של היין
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: אל
+    - kiu: מי
+    - vi: אתה
+    - donis: נתת
+    - la: ה
+    - purajn: נקיות
+    - glasojn: כוסות
+    - por: בשביל 
+    - la: ה
+    - vino: יין
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: ?נגד מי שיחק מועדון הספורט שלך לפני שבועיים
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: נגד
+    - kiu: מי
+    - ludis: שיחק
+    - via: שלך
+    - sportklubo: מועדון ספורט
+    - antaŭ: לפהי
+    - du: שני
+    - semajnoj: שבועות
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+  demando: ?האם אתה לעתים קרובות רואה את השוטר שגר בדירה מעליך
+  rektatraduko:  
+    - Ĉu: האם
+    - vi: אתה
+    - ofte: לעתים קרובות
+    - vidas: רואה 
+    - la: ה
+    - policiston: שוטר
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: אשר
+    - loĝas: גר
+    - en: ב 
+    - la: ה
+    - loĝejo: דירה
+    - super: מעל
+    - vi: אתה
     - '?'

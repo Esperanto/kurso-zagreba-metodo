@@ -1,10 +1,10 @@
 # Kiel traduki al nova lingvo
 
-Saluton! Unue dankegon, ke vi volas traduki tiun ĉi kurson! Kiel fari tion.
+Saluton! Unue dankegon, ke vi volas traduki tiun ĉi kurson! Kiel fari tion:
 
 ## Kreu konton ĉe Github
 
-1. bonvole iru al https://github.com/join kaj kreu (senpagan) personan konton.
+1. Bonvole iru al https://github.com/join kaj kreu (senpagan) personan konton.
 2. Sendu vian uzantnomon al georg@jaehnig.org kaj skribu ankaŭ:
    - al kiu lingvo vi volas traduki
    - kiun jam ekzistantan, similan lingvon vi volas havi kiel ĝermo. (Normale, oni elektas la anglan. Sed se vi ekzemple volas traduki al la indonezia, indus elekti la similan malajan.)
@@ -21,7 +21,7 @@ Kiam mi legis vian mesaĝon, mi invitas vin al la Esperanta teamo ĉe Github. Mi
 
 La [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo) estas jam tradukita al multe da lingvoj, tial plej bonus se vi ne mem tradukas al via lingvo sed trovas tradukaĵon al tiu lingvo.  
 
-La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkajn skanaĵojn troviĝas:
+La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkaj skanaĵoj troviĝas:
 
 - en la dosierujo [materialo](materialo)
 - en aliaj retpaĝoj:
@@ -63,11 +63,11 @@ Plej bonas komenci kun la ekzercoj:
    - Forigu la anglajn vortojn
    - en ilia loko, entajpu la vortojn de la nova lingvo
 
-Se via nova lingvo havas nur 1 tradukaĵo, skribu unu linion, ekzemple:
+Se via nova lingvo havas nur 1 tradukaĵon, skribu unu linion, ekzemple:
 
     - enskribi: to register
 
-Se via nova lingvo havas pli ol 1 tradukaĵo, skribu pli da liniojn, ekzemple:
+Se via nova lingvo havas pli ol 1 tradukaĵon, skribu pli da linioj, ekzemple:
 
     - enskribi: 
       - to register
@@ -110,7 +110,7 @@ Se via lingvo tute ne havas laŭvortan tradukon de kelkaj Esperantaj vortoj, skr
 
       - la: (definite article)
 
-Denove: La celo estas ke la lernanto sciu kion skribu.
+Denove: La celo estas ke la lernanto sciu kion li aŭ ŝi skribu.
 
 #### Se iu traduko ne aperas
 
@@ -118,17 +118,19 @@ Foje vi devas uzi citilojn, ekzemple jen:
 
     vorto: "on"
 
-Ĉar `on` estas angla vorto, la dosierformato ne komprenas ĝin kiel ĉeno (string), sed kiel buleo (boolean) kaj penas ke signifas `TRUE`. Tial vi devas uzi citilojn: `"on"`.
+Ĉar `on` estas angla vorto, la dosierformato ne komprenas ĝin kiel ĉeno (string), sed kiel buleo (boolean) kaj pensas ke signifas `TRUE`. Tial vi devas uzi citilojn: `"on"`.
 
 Alia ekzemplo:
 
     vorto: "apostrophe's translation"
 
-Se vi uzas citilojn en la tradukaĵo, uzu aliajn citilojn ĉirkaŭe.
+Se vi uzas apostrofon en la tradukaĵo, uzu citilojn ĉirkaŭe.
 
 ### Gramatiko
 
-La gramatikaj klarigoj estas en la dosierujo `/gramatiko`. Ili skribitas en [Markdown](https://en.wikipedia.org/wiki/Markdown). 
+La gramatikaj klarigoj estas en la dosierujo `/gramatiko`. Ili skribitas en [Markdown](https://en.wikipedia.org/wiki/Markdown).
+
+Ĉi tie vi estas tute libera pri la enhavo: Vi povas aldoni ekzemplojn kaj klarigojn kiom vi volas. Eble la parolantojn de via nova lingvo bezonas aliajn klarigojn ol tiujn kiuj jam ekzistas en la ĝerma lingvo. Adaptu ilin laŭ via gusto.
 
 - Por ĉiu leciono, kreu dosieron laŭ la leciona indekso. Ekzemple:
   -  `01.md` - Klarigo pri leciono 1

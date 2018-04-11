@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: حال معلوم
+int: گذشته معلوم
+ont: آینده معلوم
+unt: شرطی معلوم
+at:  حال مجهول
+it:  گذشته مجهول
+ot:  آینده مجهول
+ut:  شرطی مجهول

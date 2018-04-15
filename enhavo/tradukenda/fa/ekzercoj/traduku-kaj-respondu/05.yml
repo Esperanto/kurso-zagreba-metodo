@@ -1,64 +1,59 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: آیا وقتی که کسی با خوشی آواز می خواند شما می توانید بیاموزید؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: آیا
+    - vi: شما
+    - povas: می توانید
+    - trankvile: آرام
+    - lerni: بیاموزید
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: وقتی
+    - iu: کسی
+    - ĝoje: با خوشی
+    - kantas: آواز می خواند
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: چه کسی می داند کی و کجا مجدد همدیگر را خواهیم دید؟
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: چه کسی
+    - scias: می داند
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: کی
+    - kaj: و
+    - kie: کجا
+    - ni: ما
+    - revidos: مجدد خواهیم دید
+    - nin: همدیگر
     - '?'
 -
-  demando: What time is it now?
+  demando: ساعت الان جند است؟
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: چند
+    - horo: ساعت
+    - estas: است 
+    - nun: الان
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: آیا کسی به شما برای باز کردن در خانه قدیمی کمک کرد؟
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: آیا
+    - iu: کسی
+    - helpis: کمک کرد
+    - al: به 
+    - vi: شما
+    - malfermi: باز کردن 
+    - pordon: در
+    - malnova: قدیمی
+    - domo: خانه
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: چرا شما وقت ندارید بیشتر به من گوش کنید؟
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
+    - Kial: چرا
+    - vi: شما
+    - ne havas: ندارید
+    - tempon: زمان
+    - aŭskulti: گوش کردن
+    - min: به من
+    - pli longe: بیشتر
     - '?'

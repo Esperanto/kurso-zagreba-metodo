@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: آیا می خواهید جدید ترین کتابم را به شما نشان دهم؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: آیا
+    - vi: شما
+    - deziras: می خواهید
     - ',' 
-    - ke: that 
-    - mi: I
-    - montras: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: که
+    - mi: من
+    - montras: نشان دهم
+    - al: به
+    - vi: شما
+    - mian: مال من
+    - plej: بیشترین
+    - novan: جدید
+    - libron: کتاب
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: شما برای صبحانه فردا چه می خواهید؟
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: چه
+    - vi: شما
+    - volas: خواستن
+    - morgaŭ: فردا
+    - matenmanĝi: صبحانه خوردن
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: "مارک کی خواهد رسید، ساعت پنج یا هشت؟"
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: کسی
+    - Marko: مارک
+    - alvenos: خواهد رسید
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: در
+    - la: حرف تعریف
+    - kvina: پنج
+    - aŭ: یا
+    - je: در
+    - la: حرف تعریف
+    - oka: هشت
+    - horo: ساعت
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: کی فهمیمید که کل خانواده من را نیکوکار خطاب می کنند؟
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: کسی
+    - vi: شما
+    - rimarkis: فهمیدید
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: که
+    - la: حرف تعریف
+    - tuta: کل
+    - familio: خانواده
+    - nomas: خطاب می کنند
+    - min: من را
+    - bonfarulo: نیکوکار
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: آیا کتابچه ای که برای شما فرستادم مفید بود؟
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: آیا
+    - la: حرف تعریف 
+    - libreto: کتابچه
+    - estis: بود
+    - utila: مفید
+    - al: برای
+    - vi: شما
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: که
+    - mi: من
+    - sendis: فرستادم
     - '?'

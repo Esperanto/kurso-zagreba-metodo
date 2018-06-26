@@ -70,7 +70,7 @@ def generate_html(lingvo, enhavo, args):
     eligo[output_path + 'eksporto/anki.tsv'] = rendered
 
 
-    for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj']:
+    for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post']:
         eligo[output_path + tab_page + '/index.html'] = render_page(tab_page, enhavo, vojprefikso, env, output_path)
 
     paths = []

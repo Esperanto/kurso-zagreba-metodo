@@ -63,11 +63,12 @@ def load(language):
         enhavo['fasado'].update(tradukajxoj)
 
     path = 'enhavo/tradukenda/' + language + '/enkonduko.md'
-
     enkonduko = open(path).read()
     #enkonduko = transpose_headlines(enkonduko, 1)
-
     enhavo['enkonduko'] = enkonduko
+
+    path = 'enhavo/tradukenda/' + language + '/post.md'
+    enhavo['post'] = open(path).read()
 
     lecionoj = []
     vortoj = {}

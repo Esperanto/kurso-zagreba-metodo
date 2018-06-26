@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}
+  Post la kurso
+	|
+  {{enhavo.fasado['Esperanto en 12 tagoj']}}
+{% endblock %}
+
+{% block content %}
+
+<h2>
+	Post la kurso
+</h2>
+
+{{enhavo.post|markdown}}
+
+{% endblock %}

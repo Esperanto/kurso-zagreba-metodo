@@ -69,6 +69,7 @@ def load(language):
 
     path = 'enhavo/tradukenda/' + language + '/post.md'
     enhavo['post'] = open(path).read()
+    enhavo['post'] = transpose_headlines(enhavo['post'] , 2)
 
     lecionoj = []
     vortoj = {}

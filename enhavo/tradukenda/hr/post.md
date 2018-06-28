@@ -1,6 +1,6 @@
 # Nađi sugovornika u Hrvatskoj
 
-Svaki jezik mora se koristiti kako bi bio usavršen, pa tako i esperanto.
+Svaki se jezik mora koristiti kako bi bio usavršen, pa tako i esperanto.
 Na poveznicama koje slijede možete saznati više o udrugama esperantista u
 Hrvatskoj, upoznati ekipu i progovoriti uživo! 
 

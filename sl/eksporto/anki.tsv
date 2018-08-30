@@ -1,0 +1,457 @@
+Marko	Marko	1,nomo
+esti	biti	1,radiko
+as	sedanji čas	1,finaĵo
+mi	jaz	1,pronomo
+a	pridevnik	1,finaĵo
+amiko	prijatelj	1,radiko
+o	samostalnik	1,finaĵo
+li	on	1,pronomo
+lerni	učiti se	1,radiko
+ant	tvorni deležnik sedanjega časa	1,participo
+kaj	in	1,konjunkcio
+sporto	šport	1,radiko
+ist	poklic, pripadnik ideologije	1,sufikso
+nun	sedaj	1,adverbo
+sidi	sedeti	1,radiko
+en	v	1,prepozicio
+ĉambro	soba	1,radiko
+sur	na	1,prepozicio
+tablo	miza	1,radiko
+papero	papir	1,radiko
+j	množina	1,finaĵo
+libro	knjiga	1,radiko
+ĝi	ono	1,pronomo
+skribi	pisati	1,radiko
+la	(določni člen)	1,artikolo
+patro	oče	1,radiko
+in	ženska	1,sufikso
+de	od	1,prepozicio
+ne	ne	1,partikulo
+ili	oni	1,pronomo
+labori	delati	1,radiko
+hotelo	hotel	1,radiko
+instrui	učiti	1,radiko
+ŝi	ona	1,pronomo
+havi	imeti	2,radiko
+n	tožilnik	2,finaĵo
+nomo	ime	2,radiko
+Ana	Ana	2,nomo
+juna	mlad	2,radiko
+bela	čudovit	2,radiko
+ge	oba spola	2,prefikso
+veni	priti	2,radiko
+is	pretekli čas	2,finaĵo
+al	k	2,prepozicio
+hejmo	dom	2,radiko
+bona	dobro	2,radiko
+voli	hoteti	2,radiko
+u	velelnik	2,finaĵo
+iri	iti	2,radiko
+i	nedoločnik	2,finaĵo
+saluto	zdravo	2,radiko
+kio	kaj	2,tabelvorto
+vi	vi	2,pronomo
+fari	narediti	2,radiko
+legi	brati	2,radiko
+sed	a, ter, ampak	2,konjunkcio
+paroli	govoriti	2,radiko
+kun	s, z	2,prepozicio
+ĉu	ali kot vprašalnica	2,partikulo
+jes	da	2,adverbo
+ŝati	imeti rad	2,radiko
+nur	samo	2,adverbo
+trinki	piti	2,radiko
+kafo	kava	2,radiko
+frato	brat	2,radiko
+jen	tu	2,partikulo
+ankoraŭ	še	2,adverbo
+varma	toplo	2,radiko
+kuiri	kuhati	2,radiko
+danki	zahvaliti se	2,radiko
+povi	moči	2,radiko
+ankaŭ	tudi	2,adverbo
+mal	nasprotje	2,prefikso
+rigardi	gledati	2,radiko
+okulo	oko	2,radiko
+vidi	videti	2,radiko
+ke	da	2,konjunkcio
+ami	ljubezen	2,radiko
+longa	dolg	3,radiko
+e	prislov	3,radiko
+antaŭ	pred	3,prepozicio
+ej	kraj	3,radiko
+post	nato, potem	3,prepozicio
+ĝoja	veselje	3,radiko
+tra	skozi	3,prepozicio
+strato	cesta	3,radiko
+tago	dan	3,radiko
+kuko	pecivo	3,radiko
+ni	mi	3,pronomo
+manĝi	jesti	3,radiko
+diri	reči	3,radiko
+sufiĉa	dovolj	3,radiko
+mono	denar	3,radiko
+kompreni	razumeti	3,radiko
+ebl	možnost	3,sufikso
+cent	sto	3,cifero
+o		3,
+ho	oh	3,interjekcio
+riĉa	bogat	3,radiko
+kelnero	natakar	3,radiko
+porti	nositi	3,radiko
+multa	več	3,radiko
+nova	nov	3,radiko
+serĉi	iskati	3,radiko
+unu	ena	3,cifero
+loko	prostor	3,radiko
+alia	drugi	3,radiko
+vizaĝo	obraz	3,radiko
+fini	končati	3,radiko
+per	s, z, s pomočjo	3,radiko
+forta	močan	3,radiko
+voĉo	glas	3,radiko
+okazi	zgoditi se	3,radiko
+scii	vedeti	3,radiko
+letero	pismo	4,radiko
+vera	resnica	4,radiko
+foto	slika	4,radiko
+kiam	kdaj	4,tabelvorto
+re	ponovno	4,prefikso
+el	iz, od	4,prepozicio
+rapida	hitro	4,radiko
+tie	tam	4,tabelvorto
+stari	stati	4,radiko
+Vera	Vera	4,nomo
+mano	roka	4,radiko
+koleri	jeza	4,radiko
+iĝ	postati	4,sufikso
+ruĝa	rdeče	4,radiko
+fali	pasti	4,radiko
+pardoni	oprostiti	4,radiko
+doni	dati	4,radiko
+ricevi	prejeti	4,radiko
+leciono	lekcija	4,radiko
+plu	dalje, več	4,adverbo
+os	prihodnji čas	4,radiko
+devi	morati	4,radiko
+fermi	zapreti	4,radiko
+pordo	vrata	4,radiko
+sinjoro	gospod	5,radiko
+vendi	prodati	5,radiko
+aŭto	avto	5,radiko
+kiu	kdo	5,radiko
+plaĉi	ugajati	5,radiko
+demandi	vprašati	5,radiko
+plej	naj	5,adverbo
+tiu	ta, tisti	5,tabelvorto
+ĉi	beseda za približevanje	5,partikulo
+ĉiu	vsak	5,tabelvorto
+pli	več	5,adverbo
+ol	kot	5,konjunkcio
+tre	zelo	5,adverbo
+certa	gotovo	5,radiko
+kosti	stati (cenovno)	5,radiko
+bedaŭri	obžalovati	5,radiko
+ind	vredno česa	5,sufikso
+aĉeti	kupiti	5,radiko
+ĉar	ker, kajti	5,konjunkcio
+veturi	potovati	5,radiko
+dum	med	5,prepozicio
+tio	to, tisto	5,tabelvorto
+edzo	mož	5,radiko
+Maja	Maja	6,nomo
+et	zmanjšanje	6,sufikso
+ul	oseba	6,sufikso
+tri	tri	6,cifero
+ig	napraviti, povzročiti	6,sufikso
+sana	zdrav	6,radiko
+alta	visok	6,radiko
+temperaturo	temperatura	6,radiko
+resti	ostati	6,radiko
+morgaŭ	jutri	6,adverbo
+voki	klicati	6,radiko
+doktoro	doktor	6,radiko
+je	ob, v, s, joker predlog ki nadomešča pomene, ki jih ne moremo izraziti s katerim koli drugim predlogom	6,prepozicio
+naŭ	devet	6,cifero
+horo	ura	6,radiko
+por	za	6,prepozicio
+helpi	pomagati	6,radiko
+montri	kazati	6,radiko
+piedo	noga, stopalo	6,radiko
+vesti	obleči	6,radiko
+ĉio	vse	6,tabelvorto
+fine	končno	6,vorto
+semajno	teden	6,radiko
+sub	pod	6,prepozicio
+teo	čaj	6,radiko
+mateno	jutro	6,radiko
+vespero	večer	6,radiko
+deziri	želeti	6,radiko
+trankvila	miren	6,radiko
+farti	čutiti, biti	6,radiko
+eg	povečanje	6,sufikso
+Karlo	Karel	6,nomo
+hm	hm	6,interjekcio
+dormi	spati	7,radiko
+suno	sonce	7,radiko
+subita	nenadoma	7,radiko
+ek	začetek	7,prefikso
+salti	skočiti	7,radiko
+ĉiam	vedno	7,tabelvorto
+frua	zgodaj	7,radiko
+hodiaŭ	danes	7,adverbo
+meti	položiti	7,radiko
+aĵ	stvar, konkretno	7,sufikso
+kuri	teči	7,radiko
+laŭ	po	7,prepozicio
+homo	človek	7,radiko
+kia	kakšen	7,tabelvorto
+saĝa	moder	7,radiko
+knabo	deček	7,radiko
+baldaŭ	kmalu	7,adverbo
+it	trpni deležnik preteklega časa	7,participo
+nek	niti	7,konjunkcio
+pensi	misliti	7,radiko
+diablo	vrag	7,radiko
+memori	spomniti se	7,radiko
+dimanĉo	nedelja	7,radiko
+raporti	poročati	8,radiko
+noto	opomba	8,radiko
+aĉ	ogabnost, grdoba	8,sufikso
+kapo	glava	8,radiko
+kiom	koliko	8,tabelvorto
+da	od	8,prepozicio
+ĉe	pri	8,prepozicio
+ludi	igrati	8,radiko
+mem	sam	8,radiko
+tiom	toliko	8,tabelvorto
+kvankam	čeprav, četudi	8,konjunkcio
+tiam	takrat	8,tabelvorto
+aŭdi	slišati	8,radiko
+vorto	beseda	8,radiko
+tuj	takoj	8,adverbo
+respondi	odgovoriti	8,radiko
+kara	ljub	8,radiko
+problemo	problem	8,radiko
+pri	o	8,prepozicio
+muziko	glasba	8,radiko
+ridi	smejati se	8,radiko
+tamen	vendar	8,adverbo
+Petro	Peter	9,nomo
+Maria	Marija	9,nomo
+vojaĝi	potovanje	9,radiko
+lando	dežela	9,radiko
+libera	prost	9,radiko
+tempo	čas	9,radiko
+decidi	odločiti	9,radiko
+Italio	Italija	9,radiko
+urbo	mesto	9,radiko
+feliĉa	srečen	9,radiko
+kie	kje	9,tabelvorto
+forgesi	pozabiti	9,radiko
+esperi	upati	9,radiko
+us	bi	9,radiko
+komenci	začeti	9,radiko
+jam	že	9,adverbo
+vagono	vagon	9,radiko
+ar	skupina, množica	9,sufikso
+nenio	nič	9,tabelvorto
+sekreto	skrivnost	9,radiko
+onklo	stric	9,radiko
+Bonifacio	Bonifacij	9,nomo
+plena	poln	9,radiko
+um	joker pripona uporablja se, kjer nobena druga pripona ne ustreza	9,sufikso
+sia	povratni zaimek	9,radiko
+uzi	uporabiti	9,radiko
+domo	hiša	9,radiko
+ad	trajanje	9,sufikso
+atendi	čakati	9,radiko
+do	torej	9,adverbo
+kial	zakaj	9,tabelvorto
+neniam	nikoli	9,tabelvorto
+kiel	kako	10,tabelvorto
+pasi	miniti	10,radiko
+naski	roditi	10,radiko
+kelka	nekaj	10,radiko
+familio	družina	10,radiko
+an	član skupine	10,sufikso
+iom	nekoliko	10,tabelvorto
+trovi	najti	10,radiko
+almenaŭ	vsaj	10,adverbo
+ordo	red	10,radiko
+io	nekaj	10,tabelvorto
+manki	manjkati	10,radiko
+lakto	mleko	10,radiko
+necesa	potrebno	10,radiko
+anstataŭ	namesto	10,prepozicio
+intereso	zanimanje	10,radiko
+ekskurso	izlet	10,radiko
+klubo	klub	10,radiko
+ĵeti	vreči	10,radiko
+ia	nekakšen	10,tabelvorto
+uj	posoda, steblo, država	10,sufikso
+ĝusta	pravilno	10,radiko
+for	stran, proč	10,prefikso
+inter	med	10,prepozicio
+sama	isto	10,radiko
+fojo	krat, včasih	10,radiko
+rajti	smeti	10,radiko
+proponi	predlagati	10,radiko
+du	dve	10,cifero
+parto	del	10,radiko
+sukceso	uspeh	10,radiko
+iu	kdorkoli, nekdo	10,tabelvorto
+ideo	ideja	10,novaj
+tro	preveč	10,adverbo
+ec	abstraktno	10,sufikso
+reala	resnično	10,radiko
+silento	molčati	10,radiko
+daŭri	nadaljevati	10,radiko
+nu	torej	10,radiko
+minuto	minuta	10,radiko
+telefono	telefon	10,radiko
+viziti	obiskati	10,radiko
+dolĉa	sladko	10,radiko
+atenti	paziti	10,radiko
+dika	debel, rejen	10,radiko
+ŝanĝi	spremeniti	10,radiko
+opinii	mnenje	10,radiko
+sen	brez	10,prepozicio
+sola	sam	10,radiko
+Veneci	Benetke	11,radiko
+Sankt-Mark	Sveti Marko	11,nomo
+placo	trg, ploščad	11,radiko
+milito	vojna	11,radiko
+maro	morje	11,radiko
+ŝipo	ladja	11,radiko
+gondolo	gondola	11,radiko
+movi	gibati	11,radiko
+mezo	sredina	11,radiko
+proksima	blizu	11,radiko
+granda	velik	11,radiko
+oni	nedoločni zaimek	11,pronomo
+facila	lahko	11,radiko
+lumo	svetloba	11,radiko
+flanko	stran	11,radiko
+Stefan	Štefan	11,nomo
+krii	kričati	11,radiko
+turko	turško	11,radiko
+renkonti	srečati	11,radiko
+sekvi	slediti	11,radiko
+Pietro	Pietro	11,nomo
+koni	poznati	11,radiko
+akvo	voda	11,radiko
+tiel	tako	11,tabelvorto
+Ĝorĝo	Jurij	11,nomo
+preni	vzeti	11,radiko
+estro	šef, vodja	11,sufikso
+preskaŭ	skoraj	11,adverbo
+morti	umreti	11,radiko
+grava	pomemben	11,radiko
+Ĝino	Gino	11,nomo
+halti	ustaviti se	11,radiko
+apud	poleg	11,prepozicio
+dek	deset	11,cifero
+jaro	leto	11,radiko
+koloro	barva	11,radiko
+Jakopo	Jakob	11,nomo
+tial	zato	11,tabelvorto
+timi	strah	11,radiko
+sendi	poslati	11,radiko
+doĝo	dož	11,radiko
+bezoni	potrebovati	11,radiko
+pagi	plačati	11,radiko
+er	košček	11,sufikso
+afero	zadeva	11,radiko
+se	če	11,konjunkcio
+pano	kruh	11,radiko
+Don Kamilo	Don Kamilo	11,nomo
+ĝis	do	11,prepozicio
+S-ro	gospod	12,mallongigo
+Pipelbom	Pipelbom	12,nomo
+peza	težko	12,radiko
+larĝa	široko	12,radiko
+korpo	telo	12,radiko
+aspekto	pogled, videz	12,radiko
+rolo	vloga	12,radiko
+fakto	dejstvo	12,radiko
+respekti	spoštovati	12,radiko
+kontenta	zadovoljen	12,radiko
+ofte	pogosto	12,radiko
+utila	koristno	12,radiko
+prezenti	pokazati	12,radiko
+ĝeni	motiti	12,radiko
+nokto	noč	12,radiko
+arbo	drevo	12,radiko
+ĉefo	šef	12,radiko
+vojo	pot	12,radiko
+ekster	izven	12,prepozicio
+sovaĝa	divji	12,radiko
+bruo	hrup	12,radiko
+krom	razne	12,prepozicio
+tuŝi	dotakniti se	12,radiko
+naturo	narava	12,radiko
+ĝenerali	splošno	12,radiko
+seki	suh	12,radiko
+paŝi	korak	12,radiko
+vivi	živeti	12,radiko
+dolori	bolečina	12,radiko
+agrabla	ugodno	12,radiko
+ju	kot	12,partikulo
+kastelo	grad, dvorec	12,radiko
+des	kot	12,partikulo
+Adriano	Adrian	12,nomo
+viro	moški	12,radiko
+kapabla	sposoben, zmožen	12,radiko
+industrio	industrija	12,radiko
+polico	policija	12,radiko
+persono	oseba	12,radiko
+simila	podobno	12,radiko
+lasta	zadnje	12,radiko
+laŭta	glasno	12,radiko
+orelo	uho	12,radiko
+momento	trenutek	12,radiko
+ambaŭ	oba	12,adverbo
+direkti	smer	12,radiko
+zorgi	skrbeti	12,radiko
+situacio	situacija	12,radiko
+branĉo	veja	12,radiko
+rekta	smer	12,radiko
+besto	žival	12,radiko
+promeni	sprehajati se	12,radiko
+kavo	jama	12,radiko
+odoro	vonj	12,radiko
+preta	pripravljen	12,radiko
+ajn	karkoli	12,partikulo
+efektiva	dejansko	12,radiko
+miri	čuditi	12,radiko
+koro	srce	12,radiko
+ŝajni	zdeti se	12,radiko
+supri	zgoraj	12,radiko
+buŝo	usta	12,radiko
+provi	poskusiti	12,radiko
+kapti	ujeti	12,radiko
+lampo	luč	12,radiko
+paco	mir	12,radiko
+formo	oblika	12,radiko
+teni	držati	12,radiko
+sono	zveneti	12,radiko
+aŭtoritato	oblast	12,radiko
+nuuuu	nuuuu	12,interjekcio
+eee	eee	12,interjekcio
+fuŝi	pokvariti	12,radiko
+klara	jasno	12,radiko
+eĉ	celo	12,adverbo
+tono	ton	12,radiko
+ha	ha	12,interjekcio
+bieno	posestvo, pokrajina	12,radiko
+grafo	grof	12,radiko
+monto	gora	12,radiko
+kalva	plešast	12,radiko
+inviti	povabiti	12,radiko
+peti	prositi	12,radiko
+teroro	teror	12,radiko
+kontroli	preveriti	12,radiko
+ĉirkaŭ	okoli	12,prepozicio
+akcepti	sprejeti	12,radiko
+perdi	izgubiti	12,radiko

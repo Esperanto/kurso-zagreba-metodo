@@ -1,0 +1,457 @@
+Marko	มาร์ก	1,nomo
+esti	เป็น, อยู่, คือ	1,radiko
+as	ตัวลงท้ายกริยารูปปัจจุบัน	1,finaĵo
+mi	ฉัน	1,pronomo
+a	ตัวลงท้ายของคำคุณศัพท์	1,finaĵo
+amiko	เพื่อน	1,radiko
+o	ตัวลงท้ายของคำนาม	1,finaĵo
+li	เขา	1,pronomo
+lerni	เรียน	1,radiko
+ant	กำลังกระทำอยู่	1,participo
+kaj	และ	1,konjunkcio
+sporto	กีฬา	1,radiko
+ist	อาชีพ, ผู้ที่มีระบบความคิด	1,sufikso
+nun	ตอนนี้, เดี๋ยวนี้	1,adverbo
+sidi	นั่ง	1,radiko
+en	ใน	1,prepozicio
+ĉambro	ห้อง	1,radiko
+sur	บน	1,prepozicio
+tablo	โต๊ะ	1,radiko
+papero	กระดาษ	1,radiko
+j	ตัวลงท้ายแสดงพหูพจน์	1,finaĵo
+libro	หนังสือ	1,radiko
+ĝi	มัน	1,pronomo
+skribi	เขียน	1,radiko
+la	คำนำหน้านามชี้เฉพาะ	1,artikolo
+patro	พ่อ	1,radiko
+in	เพศหญิง	1,sufikso
+de	ของ, จาก, แห่ง, โดย	1,prepozicio
+ne	ไม่	1,partikulo
+ili	พวกเขา, พวกหล่อน, พวกมัน	1,pronomo
+labori	ทำงาน	1,radiko
+hotelo	โรงแรม	1,radiko
+instrui	สอน	1,radiko
+ŝi	หล่อน, เธอ	1,pronomo
+havi	มี	2,radiko
+n	ตัวลงท้ายของกรรมการก	2,finaĵo
+nomo	ชื่อ, ตั้งชื่อ	2,radiko
+Ana	อานา	2,nomo
+juna	วัยรุ่น	2,radiko
+bela	สวย	2,radiko
+ge	เพศชายและเพศหญิง	2,prefikso
+veni	มา	2,radiko
+is	ตัวลงท้ายกริยารูปอดีต	2,finaĵo
+al	ถึง, ไปยัง	2,prepozicio
+hejmo	บ้าน	2,radiko
+bona	ดี	2,radiko
+voli	ต้องการ	2,radiko
+u	ตัวลงท้ายกริยาแสดงการขอร้องหรือการสั่ง	2,finaĵo
+iri	ไป	2,radiko
+i	ตัวลงท้ายของกริยาไม่แสดงกาล, สภาวะมาลา	2,finaĵo
+saluto	สวัสดี	2,radiko
+kio	อะไร/ซึ่ง	2,tabelvorto
+vi	คุณ, พวกคุณ	2,pronomo
+fari	ทำ	2,radiko
+legi	อ่าน	2,radiko
+sed	แต่	2,konjunkcio
+paroli	พูด	2,radiko
+kun	กับ	2,prepozicio
+ĉu	หรือไม่, หรือเปล่า	2,partikulo
+jes	ใช่	2,adverbo
+ŝati	ชอบ	2,radiko
+nur	เท่านั้น	2,adverbo
+trinki	ดื่ม	2,radiko
+kafo	กาแฟ	2,radiko
+frato	พี่ชาย, น้องชาย	2,radiko
+jen	นี่	2,partikulo
+ankoraŭ	ยังคง	2,adverbo
+varma	อุ่น	2,radiko
+kuiri	ทำอาหาร	2,radiko
+danki	ขอบคุณ	2,radiko
+povi	สามารถ	2,radiko
+ankaŭ	ด้วย	2,adverbo
+mal	ตรงข้าม	2,prefikso
+rigardi	ดู	2,radiko
+okulo	ดวงตา	2,radiko
+vidi	เห็น, พบ	2,radiko
+ke	ว่า	2,konjunkcio
+ami	รัก	2,radiko
+longa	ยาว	3,radiko
+e	ตัวลงท้ายของคำกริยาวิเศษณ์	3,finaĵo
+antaŭ	ข้างหน้า, ก่อน	3,prepozicio
+ej	สถานที่	3,sufikso
+post	ข้างหลัง, หลังจาก, หลังจากนั้น	3,prepozicio
+ĝoja	ดีใจ, ร่าเริง	3,radiko
+tra	ตลอด, ทะลุผ่าน	3,prepozicio
+strato	ถนน	3,radiko
+tago	วัน	3,radiko
+kuko	เค้ก	3,radiko
+ni	พวกเรา	3,pronomo
+manĝi	กิน	3,radiko
+diri	บอก	3,radiko
+sufiĉa	พอ, เพียงพอ	3,radiko
+mono	เงิน	3,radiko
+kompreni	เข้าใจ	3,radiko
+ebl	เป็นไปได้	3,sufikso
+cent	หนึ่งร้อย	3,cifero
+dolaro	ดอลล่า	3,radiko
+ho	โอ้	3,interjekcio
+riĉa	รวย	3,radiko
+kelnero	บริกร	3,radiko
+porti	ขน, นำไปด้วย	3,radiko
+multa	มาก	3,radiko
+nova	ใหม่	3,radiko
+serĉi	ค้นหา	3,radiko
+unu	หนึ่ง	3,cifero
+loko	สถานที่	3,radiko
+alia	อื่น ๆ	3,radiko
+vizaĝo	ใบหน้า	3,radiko
+fini	จบ, เลิก	3,radiko
+per	โดย	3,prepozicio
+forta	แข็งแรง	3,radiko
+voĉo	เสียงร้อง	3,radiko
+okazi	เกิดเหตุการณ์	3,radiko
+scii	รู้	3,radiko
+letero	จดหมาย	4,radiko
+vera	จริง	4,radiko
+foto	รูปภาพ	4,radiko
+kiam	เวลาใด, ตอนไหน, /เมื่อ	4,tabelvorto
+re	อีกครั้ง	4,prefikso
+el	จาก, ออกจาก	4,prepozicio
+rapida	เร็ว	4,radiko
+tie	ที่นั้น	4,tabelvorto
+stari	ยืน	4,radiko
+Vera	เวรา	4,nomo
+mano	มือ	4,radiko
+koleri	โกรธ	4,radiko
+iĝ	กลายเป็น, รับสถานะใหม่	4,sufikso
+ruĝa	สีแดง	4,radiko
+fali	ตก	4,radiko
+pardoni	ขอโทษ	4,radiko
+doni	ให้	4,radiko
+ricevi	รับ	4,radiko
+leciono	บทเรียน	4,radiko
+plu	เพิ่มอีก, มากขึ้นอีก	4,adverbo
+os	ตัวลงท้ายกริยารูปอนาคต	4,finaĵo
+devi	ต้อง	4,radiko
+fermi	ปิด	4,radiko
+pordo	ประตู	4,radiko
+sinjoro	สุภาพบุรุษ, นาย	5,radiko
+vendi	ขาย	5,radiko
+aŭto	รถ	5,radiko
+kiu	ใคร, อันไหน, /ซึ่งเป็นคนที่, ซึ่งเป็นสิ่งที่	5,tabelvorto
+plaĉi	เป็นที่พอใจ, ต้องใจ	5,radiko
+demandi	ถาม	5,radiko
+plej	มากที่สุด	5,adverbo
+tiu	คนนั้น, อัน/สิ่งนั้น	5,tabelvorto
+ĉi	แสดงความใกล้	5,partikulo
+ĉiu	แต่ละคน, ทุก ๆ	5,tabelvorto
+pli	มากกว่า	5,adverbo
+ol	กว่า	5,konjunkcio
+tre	มาก	5,adverbo
+certa	แน่นอน	5,radiko
+kosti	มีราคา	5,radiko
+bedaŭri	เสียใจ, เสียดาย	5,radiko
+ind	น่า, มีคุณค่า	5,sufikso
+aĉeti	ซื้อ	5,radiko
+ĉar	เพราะว่า	5,konjunkcio
+veturi	เดินทาง	5,radiko
+dum	ในระหว่าง	5,prepozicio
+tio	สิ่งนั้น	5,tabelvorto
+edzo	สามี	5,radiko
+Maja	มายา	6,nomo
+et	ขนาดเล็ก	6,sufikso
+ul	บุคคล	6,sufikso
+tri	สาม	6,cifero
+ig	ทำให้	6,sufikso
+sana	สุขภาพดี	6,radiko
+alta	สูง	6,radiko
+temperaturo	อุณหภูมิ	6,radiko
+resti	พักอาศัย	6,radiko
+morgaŭ	พรุ่งนี้	6,adverbo
+voki	เรียก	6,radiko
+doktoro	แพทย์, ดอกเตอร์	6,radiko
+je	ณ, ใน, ต่อ, กับ	6,prepozicio
+naŭ	เก้า	6,cifero
+horo	ชั่วโมง	6,radiko
+por	สำหรับ, เพื่อ	6,prepozicio
+helpi	ช่วย, ช่วยเหลือ	6,radiko
+montri	แสดง	6,radiko
+piedo	เท้า	6,radiko
+vesti	สวมเสื้อ	6,radiko
+ĉio	ทุกสิ่ง	6,tabelvorto
+fine	ในตอนสุดท้าย	6,vorto
+semajno	สัปดาห์	6,radiko
+sub	ข้างใต้	6,prepozicio
+teo	ชา	6,radiko
+mateno	เช้า	6,radiko
+vespero	ตอนเย็น	6,radiko
+deziri	ปรารถณา	6,radiko
+trankvila	ใจเย็น	6,radiko
+farti	สภาพของสุขภาพ, เป็น	6,radiko
+eg	ขนาดใหญ่	6,sufikso
+Karlo	คาร์โล	6,nomo
+hm	อืม	6,interjekcio
+dormi	นอนหลับ	7,radiko
+suno	ดวงอาทิตย์	7,radiko
+subita	ในทันใด	7,radiko
+ek	เริ่ม	7,prefikso
+salti	กระโดด	7,radiko
+ĉiam	ทุกเวลา, เสมอ ๆ	7,tabelvorto
+frua	ก่อนเวลา	7,radiko
+hodiaŭ	วันนี้	7,adverbo
+meti	วาง	7,radiko
+aĵ	สิ่งของ, สิ่งที่เป็นรูปธรรม	7,sufikso
+kuri	วิ่ง	7,radiko
+laŭ	ตามที่	7,prepozicio
+homo	มนุษย์	7,radiko
+kia	ลักษณะเป็นอย่างไร, แบบไหน, /ซึ่งเป็นลักษณะที่, ซึ่งเป็นแบบที่	7,tabelvorto
+saĝa	ฉลาด	7,radiko
+knabo	เด็กชาย	7,radiko
+baldaŭ	เร็ว ๆ นี้, ในไม่ช้า	7,adverbo
+it	ถูกกระทำเสร็จสิ้นแล้ว	7,participo
+nek	และไม่	7,konjunkcio
+pensi	คิด	7,radiko
+diablo	ปีศาจ	7,radiko
+memori	จำได้	7,radiko
+dimanĉo	วันอาทิตย์	7,radiko
+raporti	รายงาน	8,radiko
+noto	จดบันทึก, ตัวโน้ต	8,radiko
+aĉ	คุณภาพแย่, ไม่ดี	8,sufikso
+kapo	ศีรษะ	8,radiko
+kiom	เท่าไหร่	8,tabelvorto
+da	ของ (ปริมาณ)	8,prepozicio
+ĉe	ที่	8,prepozicio
+ludi	เล่น	8,radiko
+mem	ตัวเอง	8,partikulo
+tiom	จำนวนนั้น	8,tabelvorto
+kvankam	ถึงแม้ว่า	8,konjunkcio
+tiam	เวลานั้น, ตอนนั้น	8,tabelvorto
+aŭdi	ได้ยิน	8,radiko
+vorto	คำ, คำศัพท์	8,radiko
+tuj	เดี๋ยวนี้	8,adverbo
+respondi	ตอบ	8,radiko
+kara	สี่	8,radiko
+problemo	ปัญหา	8,radiko
+pri	เกี่ยวกับ	8,prepozicio
+muziko	ดนตรี	8,radiko
+ridi	หัวเราะ	8,radiko
+tamen	อย่างไรก็ตาม	8,adverbo
+Petro	เปโตร	9,nomo
+Maria	มาริอา	9,nomo
+vojaĝi	ท่องเที่ยว	9,radiko
+lando	ประเทศ	9,radiko
+libera	อิสระ	9,radiko
+tempo	เวลา	9,radiko
+decidi	ตัดสินใจ	9,radiko
+italio	อิตาลี	9,radiko
+urbo	เมือง	9,radiko
+feliĉa	ความสุข	9,radiko
+kie	ที่ไหน/ที่ซึ่ง	9,tabelvorto
+forgesi	ลืม	9,radiko
+esperi	หวัง	9,radiko
+us	ตัวลงท้ายกริยาแสดงการสมมติ	9,finaĵo
+komenci	เริ่ม	9,radiko
+jam	แล้ว	9,adverbo
+vagono	ตู้รถไฟ	9,radiko
+ar	กลุ่มของสิ่งที่เหมือนกัน	9,sufikso
+nenio	ไม่มีสักอย่าง	9,tabelvorto
+sekreto	คงามลับ	9,radiko
+onklo	ลุง, อา, น้า (ชาย)	9,radiko
+Bonifacio	โบนิฟาซิโอ	9,nomo
+plena	เต็ม	9,radiko
+um	ปัจจัยพิเศษ แสดงความหมายพิเศษเชื่อมโยงกับรากคำ	9,sufikso
+sia	เขาเอง	9,radiko
+uzi	ใช้	9,radiko
+domo	บ้าน	9,radiko
+ad	การกระทำที่ต่อเนื่อง	9,sufikso
+atendi	คอย	9,radiko
+do	ดังนั้น	9,adverbo
+kial	ทำไม, เหตุใด	9,tabelvorto
+neniam	ไม่มีสักเวลา, ไม่เคย	9,tabelvorto
+kiel	วิธีใด, อย่างไร, /ดังเช่น, เหมือนกับ	10,tabelvorto
+pasi	ผ่าน	10,radiko
+naski	ให้กำเนิด	10,radiko
+kelka	จำนวนหนึ่ง	10,radiko
+familio	ครอบครัว	10,radiko
+an	สมาชิก	10,sufikso
+iom	จำนวนหนึ่ง	10,tabelvorto
+trovi	พบ	10,radiko
+almenaŭ	อย่างน้อย	10,adverbo
+ordo	สั่ง	10,radiko
+io	บางสิ่ง	10,tabelvorto
+manki	ขาด, ไม่มี	10,radiko
+lakto	นำ้นม	10,radiko
+necesa	จำเป็น	10,radiko
+anstataŭ	แทน	10,prepozicio
+intereso	สนใจ	10,radiko
+ekskurso	ทัศนศึกษา	10,radiko
+klubo	ชมรม	10,radiko
+ĵeti	ขว้าง	10,radiko
+ia	บางลักษณะ	10,tabelvorto
+uj	ภาชนะ, ต้นไม้, ประเทศ	10,sufikso
+ĝusta	ถูกต้อง	10,radiko
+for	ไกล, หายหมด	10,prefikso
+inter	ระหว่าง, ท่ามกลาง	10,prepozicio
+sama	เหมือนกัน	10,radiko
+fojo	ครั้ง	10,radiko
+rajti	มีสิทธิ์	10,radiko
+proponi	เสนอ, ข้อเสนอ	10,radiko
+du	สอง	10,cifero
+parto	ส่วน	10,radiko
+sukceso	สำเร็จ	10,radiko
+iu	บางคน, บางอัน/สิ่ง	10,tabelvorto
+ideo	แนวคิด, ไอเดีย	10,novaj
+tro	มากเกินไป	10,adverbo
+ec	สิ่งที่เป็นนามธรรม	10,sufikso
+reala	เกิดขึ้นจริง	10,radiko
+silento	เงียบ	10,radiko
+daŭri	ต่อเนื่อง	10,radiko
+nu	ดีละ	10,interjekcio
+minuto	นาที	10,radiko
+telefono	โทรศัพท์	10,radiko
+viziti	มาเยี่ยม, มาเยือน, เยี่ยมชม	10,radiko
+dolĉa	หวาน	10,radiko
+atenti	ระวัง	10,radiko
+dika	หนา, อ้วน	10,radiko
+ŝanĝi	เปลี่ยน	10,radiko
+opinii	ความเห็น	10,radiko
+sen	ปราศจาก	10,prepozicio
+sola	เดี่ยว, โดดเดี่ยว	10,radiko
+Veneci	เวนิส	11,radiko
+Sankt-Mark	นักบุญมาระโก	11,nomo
+placo	สถานที่	11,radiko
+milito	สงคราม	11,radiko
+maro	ทะเล	11,radiko
+ŝipo	เรือ	11,radiko
+gondolo	เรือกอนโดลา	11,radiko
+movi	เคลื่อนที่	11,radiko
+mezo	กลาง	11,radiko
+proksima	ใกล้	11,radiko
+granda	ใหญ่	11,radiko
+oni	ใคร ๆ , คนเรา (สรพพนามไม่เจาะจง)	11,pronomo
+facila	ง่าย	11,radiko
+lumo	แสงไฟ	11,radiko
+flanko	ด้าน	11,radiko
+Stefan	สเตฟาน	11,nomo
+krii	ตะโกน	11,radiko
+turko	ชาวตุรกี	11,radiko
+renkonti	พบปะ	11,radiko
+sekvi	ตาม	11,radiko
+Pietro	ปิเอโตร	11,nomo
+koni	รู้	11,radiko
+akvo	น้ำ	11,radiko
+tiel	วิธีนั้น, อย่างนั้น	11,tabelvorto
+Ĝorĝo	จอรโจ	11,nomo
+preni	เอามา	11,radiko
+estro	หัวหน้า	11,sufikso
+preskaŭ	เกือบจะ	11,adverbo
+morti	ตาย	11,radiko
+grava	สำคัญ	11,radiko
+Ĝino	จิโน	11,nomo
+halti	หยุด	11,radiko
+apud	ถัดจาก	11,prepozicio
+dek	สิบ	11,cifero
+jaro	ปี	11,radiko
+koloro	สี	11,radiko
+Jakopo	ยาโคโบ	11,nomo
+tial	เหตุนั้น	11,tabelvorto
+timi	กลัว	11,radiko
+sendi	ส่ง	11,radiko
+doĝo	สุนัข	11,radiko
+bezoni	จำเป็น	11,radiko
+pagi	จ่าย	11,radiko
+er	สิ่งที่เป็นชิ้น ๆ	11,sufikso
+afero	เรื่องราว, ข้าวของ	11,radiko
+se	ถ้า	11,konjunkcio
+pano	ขนมปัง	11,radiko
+Don Kamilo	ดอน คามิโล	11,nomo
+ĝis	จนกระทั่ง	11,prepozicio
+S-ro	Sinjoro – นาย	12,mallongigo
+Pipelbom	ปิเปลบอม	12,nomo
+peza	หนัก	12,radiko
+larĝa	กว้าง	12,radiko
+korpo	ร่างกาย	12,radiko
+aspekto	ลักษณะ	12,radiko
+rolo	บทบาท, หน้าที่	12,radiko
+fakto	ข้อเท็จจริง	12,radiko
+respekti	เคารพ	12,radiko
+kontenta	พอใจ	12,radiko
+ofte	บ่อย	12,radiko
+utila	มีประโยชน์	12,radiko
+prezenti	นำเสอน	12,radiko
+ĝeni	รบกวน	12,radiko
+nokto	กลางคืน	12,radiko
+arbo	ต้นไม้	12,radiko
+ĉefo	หัวหน้า, เป็นหลัก	12,radiko
+vojo	ทาง	12,radiko
+ekster	ข้างนอก	12,prepozicio
+sovaĝa	ป่าเถื่อน	12,radiko
+bruo	เสียงรบกวน	12,radiko
+krom	นอกจาก	12,prepozicio
+tuŝi	แตะ, สัมผัส	12,radiko
+naturo	ธรรมชาติ	12,radiko
+ĝenerali	ทั่ว ๆ ไป	12,radiko
+seki	แห้ง	12,radiko
+paŝi	ก้าว	12,radiko
+vivi	มีชีวิต	12,radiko
+dolori	เจ็บ	12,radiko
+agrabla	ยินดี	12,radiko
+ju	คำวางหน้า pli หรือ malp	12,partikulo
+kastelo	ปราสาท	12,radiko
+des	คำวางหน้า pli หรือ malpl	12,partikulo
+Adriano	อะดริอาโน	12,nomo
+viro	ผู้ชาย	12,radiko
+kapabla	สามารถ	12,radiko
+industrio	อุตสาหกรรม	12,radiko
+polico	ตำรวจ	12,radiko
+persono	บุคคล, คน	12,radiko
+simila	คล้าย	12,radiko
+lasta	สุดท้าย	12,radiko
+laŭta	ดัง	12,radiko
+orelo	หู	12,radiko
+momento	ชั่วขณะ	12,radiko
+ambaŭ	ทั้งคู่, ทั้งสอง	12,adverbo
+direkti	ทิศทาง	12,radiko
+zorgi	ดูแล, เอาใจใส่	12,radiko
+situacio	สถานการณ์	12,radiko
+branĉo	กิ่ง	12,radiko
+rekta	โดยตรง, ทางตรง	12,radiko
+besto	สัตว์	12,radiko
+promeni	เดินเล่น	12,radiko
+kavo	ถ้ำ, โพรง	12,radiko
+odoro	ส่งกลิ่น, กลิ่น	12,radiko
+preta	พร้อม	12,radiko
+ajn	-ไหนก็ได้	12,partikulo
+efektiva	เป็นจริง	12,radiko
+miri	ประหลาดใจ	12,radiko
+koro	หัวใจ	12,radiko
+ŝajni	ดูเหมือน	12,radiko
+supri	ด้านบน	12,radiko
+buŝo	ปาก	12,radiko
+provi	ลอง	12,radiko
+kapti	จับ	12,radiko
+lampo	ตะเกียง	12,radiko
+paco	สันติ	12,radiko
+formo	รูปแบบ	12,radiko
+teni	ถือ	12,radiko
+sono	ส่งเสียง	12,radiko
+aŭtoritato	มีสิทธิ์, มีอำนาจชอบธรรม	12,radiko
+nuuuu	nuuuu	12,interjekcio
+eee	เอ	12,interjekcio
+fuŝi	ทำผิด	12,radiko
+klara	กระจ่าง, สะอาด	12,radiko
+eĉ	แม้แต่	12,adverbo
+tono	น้ำเสียง	12,radiko
+ha	ฮ่า	12,interjekcio
+bieno	ทุ่ง	12,radiko
+grafo	ขุนนาง	12,radiko
+monto	ภูเขา	12,radiko
+kalva	หัวล้าน	12,radiko
+inviti	เชิญ	12,radiko
+peti	ขอ, ขอร้อง	12,radiko
+teroro	ก่อการร้าย	12,radiko
+kontroli	ตรวจสอบ	12,radiko
+ĉirkaŭ	รอบ ๆ, ราว ๆ, ประมาณ	12,prepozicio
+akcepti	ยอมรับ	12,radiko
+perdi	หาย	12,radiko

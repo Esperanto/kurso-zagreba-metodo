@@ -1,0 +1,457 @@
+Marko	Марко	1,nomo
+esti	быть	1,radiko
+as	Настоящее время глагола	1,finaĵo
+mi	я	1,pronomo
+a	Прилагательное	1,finaĵo
+amiko	друг	1,radiko
+o	Существительное	1,finaĵo
+li	он	1,pronomo
+lerni	изучать	1,radiko
+ant	активное причастие настоящего времени	1,participo
+kaj	и	1,konjunkcio
+sporto	спорт	1,radiko
+ist	-ист-, профессия, определённый род занятий	1,sufikso
+nun	сейчас, теперь	1,adverbo
+sidi	сидеть	1,radiko
+en	в	1,prepozicio
+ĉambro	комната	1,radiko
+sur	над	1,prepozicio
+tablo	стол	1,radiko
+papero	бумага	1,radiko
+j	Множественное число	1,finaĵo
+libro	книга	1,radiko
+ĝi	оно	1,pronomo
+skribi	писать	1,radiko
+la	определённый артикль	1,artikolo
+patro	отец	1,radiko
+in	женщина, феминитив	1,sufikso
+de	родительный падеж	1,prepozicio
+ne	нет, не	1,partikulo
+ili	они	1,pronomo
+labori	работать	1,radiko
+hotelo	гостиница, отель	1,radiko
+instrui	обучать	1,radiko
+ŝi	она	1,pronomo
+havi	иметь	2,radiko
+n	Винительный падеж	2,finaĵo
+nomo	имя	2,radiko
+Ana	Ана	2,nomo
+juna	молодой	2,radiko
+bela	красивый	2,radiko
+ge	группа лиц обоего пола, пара с женщиной и мужчиной	2,prefikso
+veni	приходить	2,radiko
+is	Прошедшее время глагола	2,finaĵo
+al	к, на, в, дательный падеж	2,prepozicio
+hejmo	дом	2,radiko
+bona	хороший	2,radiko
+voli	желать, хотеть	2,radiko
+u	Повелительное наклонение	2,finaĵo
+iri	идти	2,radiko
+i	Инфинитив	2,finaĵo
+saluto	приветствие, привет	2,radiko
+kio	что	2,tabelvorto
+vi	ты, вы (вежливое обращение или мн. ч)	2,pronomo
+fari	делать	2,radiko
+legi	читать	2,radiko
+sed	но	2,konjunkcio
+paroli	говорить	2,radiko
+kun	с, со	2,prepozicio
+ĉu	ли, разве (вопросительная частица)	2,partikulo
+jes	да	2,adverbo
+ŝati	оценить, ценить, нравится	2,radiko
+nur	только, лишь	2,adverbo
+trinki	пить	2,radiko
+kafo	кофе	2,radiko
+frato	брат	2,radiko
+jen	вот, вон	2,partikulo
+ankoraŭ	ещё	2,adverbo
+varma	тёплый	2,radiko
+kuiri	готовить (пищу)	2,radiko
+danki	благодарить	2,radiko
+povi	мочь	2,radiko
+ankaŭ	тоже, также	2,adverbo
+mal	наоборот, противоположность	2,prefikso
+rigardi	смотреть	2,radiko
+okulo	око, глаз	2,radiko
+vidi	видеть	2,radiko
+ke	что, чтобы	2,konjunkcio
+ami	любовь	2,radiko
+longa	длинный	3,radiko
+e	Наречие	3,finaĵo
+antaŭ	перед, прежде	3,prepozicio
+ej	место	3,sufikso
+post	после	3,prepozicio
+ĝoja	радость	3,radiko
+tra	через, сквозь	3,prepozicio
+strato	улица	3,radiko
+tago	день	3,radiko
+kuko	торт	3,radiko
+ni	мы	3,pronomo
+manĝi	есть	3,radiko
+diri	сказать	3,radiko
+sufiĉa	достаточно	3,radiko
+mono	деньги	3,radiko
+kompreni	понимать	3,radiko
+ebl	возможность	3,sufikso
+cent	сто	3,cifero
+dolaro	доллар	3,radiko
+ho	ого	3,interjekcio
+riĉa	богатый	3,radiko
+kelnero	официант, кельнер	3,radiko
+porti	нести, носить	3,radiko
+multa	много	3,radiko
+nova	новый	3,radiko
+serĉi	искать	3,radiko
+unu	один	3,cifero
+loko	место	3,radiko
+alia	другой	3,radiko
+vizaĝo	лик, лицо	3,radiko
+fini	закончить	3,radiko
+per	через, с помощью	3,prepozicio
+forta	сильный	3,radiko
+voĉo	голос	3,radiko
+okazi	случиться, произойти	3,radiko
+scii	знать	3,radiko
+letero	письмо	4,radiko
+vera	правда, истина	4,radiko
+foto	фотография	4,radiko
+kiam	когда	4,tabelvorto
+re	ещё раз, пере-	4,prefikso
+el	из	4,prepozicio
+rapida	быстрый	4,radiko
+tie	там	4,tabelvorto
+stari	стоять	4,radiko
+Vera	Вера	4,nomo
+mano	рука	4,radiko
+koleri	злоба, гнев	4,radiko
+iĝ	превратиться, стать	4,sufikso
+ruĝa	красный	4,radiko
+fali	падать	4,radiko
+pardoni	простить	4,radiko
+doni	дать	4,radiko
+ricevi	получить	4,radiko
+leciono	урок	4,radiko
+plu	далее, дальше	4,adverbo
+os	Будущее время глагола	4,finaĵo
+devi	быть должным	4,radiko
+fermi	закрыть	4,radiko
+pordo	дверь	4,radiko
+sinjoro	господин, сеньор	5,radiko
+vendi	продавать	5,radiko
+aŭto	машина, автомобиль	5,radiko
+kiu	кто, который	5,tabelvorto
+plaĉi	нравиться	5,radiko
+demandi	спросить	5,radiko
+plej	наиболее, самый	5,adverbo
+tiu	тот	5,tabelvorto
+ĉi	этот	5,partikulo
+ĉiu	каждый, все	5,tabelvorto
+pli	более	5,adverbo
+ol	чем	5,konjunkcio
+tre	очень	5,adverbo
+certa	уверенный, несомненный	5,radiko
+kosti	стоить, цена	5,radiko
+bedaŭri	сожалеть, жалеть	5,radiko
+ind	достойный	5,sufikso
+aĉeti	купить	5,radiko
+ĉar	потому что, так как, ибо	5,konjunkcio
+veturi	ехать, путешествовать	5,radiko
+dum	во время, в течение	5,prepozicio
+tio	то	5,tabelvorto
+edzo	муж	5,radiko
+Maja	Майа	6,nomo
+et	маленький, уменьшительный суффикс	6,sufikso
+ul	лицо с выраженным качеством	6,sufikso
+tri	три	6,cifero
+ig	заставить, превратить	6,sufikso
+sana	здоровье	6,radiko
+alta	высокий	6,radiko
+temperaturo	температура	6,radiko
+resti	находиться	6,radiko
+morgaŭ	завтра	6,adverbo
+voki	звать	6,radiko
+doktoro	доктор	6,radiko
+je	на, с, предлог с неопределённым значением	6,prepozicio
+naŭ	девять	6,cifero
+horo	час	6,radiko
+por	для	6,prepozicio
+helpi	помогать	6,radiko
+montri	показать	6,radiko
+piedo	нога, стопа, лапа	6,radiko
+vesti	одежда	6,radiko
+ĉio	всё	6,tabelvorto
+fine	на конце	6,vorto
+semajno	неделя	6,radiko
+sub	под	6,prepozicio
+teo	чай	6,radiko
+mateno	утро	6,radiko
+vespero	вечер	6,radiko
+deziri	желать	6,radiko
+trankvila	спокойный	6,radiko
+farti	поживать	6,radiko
+eg	большой, учеличительный суффикс	6,sufikso
+Karlo	Карло	6,nomo
+hm	хмм	6,interjekcio
+dormi	спать	7,radiko
+suno	солнце	7,radiko
+subita	внезапно, неожиданно	7,radiko
+ek	начало действия, внезапность	7,prefikso
+salti	прыгать	7,radiko
+ĉiam	всегда	7,tabelvorto
+frua	рано	7,radiko
+hodiaŭ	сегодня	7,adverbo
+meti	положить	7,radiko
+aĵ	вещь, конкретное проявление чего-либо	7,sufikso
+kuri	бегать	7,radiko
+laŭ	по, согласно с	7,prepozicio
+homo	человек	7,radiko
+kia	какой	7,tabelvorto
+saĝa	умный	7,radiko
+knabo	мальчик	7,radiko
+baldaŭ	скоро	7,adverbo
+it	пассивное причастие прошедшего времени	7,participo
+nek	ни	7,konjunkcio
+pensi	думать	7,radiko
+diablo	дьявол	7,radiko
+memori	запомнить	7,radiko
+dimanĉo	Воскресение	7,radiko
+raporti	доложить	8,radiko
+noto	заметка	8,radiko
+aĉ	обозначает низкое качество, непригодность, никчёмность	8,sufikso
+kapo	голова	8,radiko
+kiom	сколько	8,tabelvorto
+da	мера, количество	8,prepozicio
+ĉe	при, у	8,prepozicio
+ludi	играть	8,radiko
+mem	сам	8,partikulo
+tiom	столько	8,tabelvorto
+kvankam	хотя	8,konjunkcio
+tiam	тогда	8,tabelvorto
+aŭdi	слышать	8,radiko
+vorto	слово	8,radiko
+tuj	сразу	8,adverbo
+respondi	ответить	8,radiko
+kara	дорогой, милый	8,radiko
+problemo	проблема	8,radiko
+pri	о, об	8,prepozicio
+muziko	музыка	8,radiko
+ridi	смеяться	8,radiko
+tamen	однако	8,adverbo
+Petro	Петро	9,nomo
+Maria	Мария	9,nomo
+vojaĝi	путешествие	9,radiko
+lando	страна	9,radiko
+libera	свободный	9,radiko
+tempo	время	9,radiko
+decidi	решать, принять решение	9,radiko
+italio	Италия	9,radiko
+urbo	город	9,radiko
+feliĉa	счастье	9,radiko
+kie	где	9,tabelvorto
+forgesi	забыть	9,radiko
+esperi	надеяться	9,radiko
+us	Условное наклонение глагола	9,finaĵo
+komenci	начинать	9,radiko
+jam	уже	9,adverbo
+vagono	вагон	9,radiko
+ar	совокупность, набор	9,sufikso
+nenio	ничего	9,tabelvorto
+sekreto	тайна	9,radiko
+onklo	дядя	9,radiko
+Bonifacio	Бонифацио	9,nomo
+plena	полный	9,radiko
+um	неопределённое значение	9,sufikso
+sia	себе, себя, свой	9,radiko
+uzi	использовать	9,radiko
+domo	дом	9,radiko
+ad	продолжительное действие	9,sufikso
+atendi	ждать	9,radiko
+do	итак	9,adverbo
+kial	почему	9,tabelvorto
+neniam	никогда	9,tabelvorto
+kiel	как	10,tabelvorto
+pasi	пройти	10,radiko
+naski	родить	10,radiko
+kelka	некоторый	10,radiko
+familio	семья	10,radiko
+an	член, участник	10,sufikso
+iom	сколько-то	10,tabelvorto
+trovi	искать	10,radiko
+almenaŭ	по крайней мере, по меньшей мере	10,adverbo
+ordo	порядок	10,radiko
+io	что-то	10,tabelvorto
+manki	не хватать	10,radiko
+lakto	молоко	10,radiko
+necesa	необходимый, нужный	10,radiko
+anstataŭ	вместо	10,prepozicio
+intereso	интересоваться	10,radiko
+ekskurso	экскурсия, прогулка	10,radiko
+klubo	клуб	10,radiko
+ĵeti	кидать	10,radiko
+ia	какой-то	10,tabelvorto
+uj	вместилище, страна	10,sufikso
+ĝusta	точный, верный, правильный	10,radiko
+for	прочь, вон, долой	10,prefikso
+inter	между	10,prepozicio
+sama	такой-же	10,radiko
+fojo	раз, случай	10,radiko
+rajti	иметь право	10,radiko
+proponi	предложить	10,radiko
+du	два	10,cifero
+parto	часть	10,radiko
+sukceso	успех, удача	10,radiko
+iu	кто-то	10,tabelvorto
+ideo	идея	10,novaj
+tro	слишком, чересчур	10,adverbo
+ec	абстрактное качество	10,sufikso
+reala	настоящий	10,radiko
+silento	тихий	10,radiko
+daŭri	продолжать	10,radiko
+nu	ну	10,interjekcio
+minuto	минута	10,radiko
+telefono	телефон	10,radiko
+viziti	посетить	10,radiko
+dolĉa	вкусный	10,radiko
+atenti	внимание	10,radiko
+dika	толстый, полный	10,radiko
+ŝanĝi	менять	10,radiko
+opinii	мнение	10,radiko
+sen	без	10,prepozicio
+sola	одинокий	10,radiko
+Veneci	Венеция	11,radiko
+Sankt-Mark	Санкт-Маркус	11,nomo
+placo	площадь, площадка	11,radiko
+milito	война	11,radiko
+maro	море	11,radiko
+ŝipo	корабль, судно	11,radiko
+gondolo	гондола	11,radiko
+movi	двигать	11,radiko
+mezo	середина	11,radiko
+proksima	близкий	11,radiko
+granda	большой, великий	11,radiko
+oni	неопределённое местоимение	11,pronomo
+facila	лёгкий	11,radiko
+lumo	свет	11,radiko
+flanko	сторона, бок	11,radiko
+Stefan	Стефан	11,nomo
+krii	кричать	11,radiko
+turko	турецкий	11,radiko
+renkonti	встретить	11,radiko
+sekvi	следовать	11,radiko
+Pietro	Пётр	11,nomo
+koni	знать	11,radiko
+akvo	вода	11,radiko
+tiel	так	11,tabelvorto
+Ĝorĝo	Джордж	11,nomo
+preni	взять	11,radiko
+estro	главный, правитель	11,sufikso
+preskaŭ	почти	11,adverbo
+morti	умереть	11,radiko
+grava	важный	11,radiko
+Ĝino	Джино	11,nomo
+halti	остановить	11,radiko
+apud	около, возле	11,prepozicio
+dek	десять	11,cifero
+jaro	год	11,radiko
+koloro	цвет	11,radiko
+Jakopo	Якоб	11,nomo
+tial	потому	11,tabelvorto
+timi	страх	11,radiko
+sendi	отправлять	11,radiko
+doĝo	дож	11,radiko
+bezoni	нуждаться	11,radiko
+pagi	платить	11,radiko
+er	часть, фрагмент	11,sufikso
+afero	дело	11,radiko
+se	если	11,konjunkcio
+pano	хлеб	11,radiko
+Don Kamilo	Дон Камило	11,nomo
+ĝis	до	11,prepozicio
+S-ro	Sinjoro — Господин	12,mallongigo
+Pipelbom	Пипельбом	12,nomo
+peza	тяжёлый	12,radiko
+larĝa	широкий, обширный	12,radiko
+korpo	тело	12,radiko
+aspekto	look, seem	12,radiko
+rolo	роль	12,radiko
+fakto	факт	12,radiko
+respekti	почтение, уважение	12,radiko
+kontenta	удовлетворённый, довольный	12,radiko
+ofte	часто	12,radiko
+utila	полезный	12,radiko
+prezenti	представить	12,radiko
+ĝeni	беспокоить, стеснять	12,radiko
+nokto	ночь	12,radiko
+arbo	дерево	12,radiko
+ĉefo	главный	12,radiko
+vojo	путь	12,radiko
+ekster	вне, снаружи	12,prepozicio
+sovaĝa	дикий	12,radiko
+bruo	шум	12,radiko
+krom	кроме	12,prepozicio
+tuŝi	трогать	12,radiko
+naturo	природа	12,radiko
+ĝenerali	общий	12,radiko
+seki	сухой	12,radiko
+paŝi	шаг	12,radiko
+vivi	жить	12,radiko
+dolori	боль, доставлять боль	12,radiko
+agrabla	приятный	12,radiko
+ju	чем (больше, меньше)	12,partikulo
+kastelo	замок	12,radiko
+des	тем (больше, меньше)	12,partikulo
+Adriano	Адриано	12,nomo
+viro	мужчина	12,radiko
+kapabla	способный	12,radiko
+industrio	индустрия	12,radiko
+polico	полиция	12,radiko
+persono	персона, лицо (особь), личность	12,radiko
+simila	похожий	12,radiko
+lasta	последний	12,radiko
+laŭta	громкий	12,radiko
+orelo	ухо	12,radiko
+momento	мгновение, момент	12,radiko
+ambaŭ	оба, обе	12,adverbo
+direkti	направление	12,radiko
+zorgi	забота	12,radiko
+situacio	положение, ситуация	12,radiko
+branĉo	ветка	12,radiko
+rekta	прямой	12,radiko
+besto	зверь	12,radiko
+promeni	гулять, прогуливаться	12,radiko
+kavo	яма	12,radiko
+odoro	пахнуть	12,radiko
+preta	готовый	12,radiko
+ajn	любой	12,partikulo
+efektiva	действительно	12,radiko
+miri	удивляться	12,radiko
+koro	сердце	12,radiko
+ŝajni	казаться, представляться	12,radiko
+supri	наверху	12,radiko
+buŝo	морда	12,radiko
+provi	пробовать	12,radiko
+kapti	ловить	12,radiko
+lampo	лампа	12,radiko
+paco	мир	12,radiko
+formo	форма	12,radiko
+teni	держать	12,radiko
+sono	звук	12,radiko
+aŭtoritato	авторитет	12,radiko
+nuuuu	нуууу	12,interjekcio
+eee	эээ	12,interjekcio
+fuŝi	делать небрежно, кое-как	12,radiko
+klara	ясный, чёткий	12,radiko
+eĉ	даже	12,adverbo
+tono	тон	12,radiko
+ha	ха	12,interjekcio
+bieno	имение, поместиье	12,radiko
+grafo	граф	12,radiko
+monto	гора	12,radiko
+kalva	лысый	12,radiko
+inviti	пригласить	12,radiko
+peti	просить	12,radiko
+teroro	террор	12,radiko
+kontroli	проверять, контроллировать	12,radiko
+ĉirkaŭ	вокруг, около (о количестве, времени)	12,prepozicio
+akcepti	принимать, принять	12,radiko
+perdi	потерять	12,radiko

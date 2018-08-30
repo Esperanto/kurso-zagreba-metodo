@@ -1,0 +1,457 @@
+Marko	Márk	1,nomo
+esti	van	1,radiko
+as	Jelen idő	1,finaĵo
+mi	én	1,pronomo
+a	Melléknév	1,finaĵo
+amiko	barát	1,radiko
+o	Főnév	1,finaĵo
+li	ő (férfi)	1,pronomo
+lerni	tanul	1,radiko
+ant	cselekvő jelen	1,participo
+kaj	és	1,konjunkcio
+sporto	sport	1,radiko
+ist	foglalkozás	1,sufikso
+nun	most	1,adverbo
+sidi	ül	1,radiko
+en	-ban/ben	1,prepozicio
+ĉambro	szoba	1,radiko
+sur	-on/en/ön	1,prepozicio
+tablo	asztal	1,radiko
+papero	papír	1,radiko
+j	Többesszám	1,finaĵo
+libro	könyv	1,radiko
+ĝi	ő (állat), az (tárgy)	1,pronomo
+skribi	ír	1,radiko
+la	a	1,artikolo
+patro	apa	1,radiko
+in	nő, nőstény(állat)	1,sufikso
+de	-nak a/nek a, -tól/től	1,prepozicio
+ne	nem	1,partikulo
+ili	ők	1,pronomo
+labori	munka, dolgoz	1,radiko
+hotelo	szálloda	1,radiko
+instrui	tanít	1,radiko
+ŝi	ő (nő)	1,pronomo
+havi	van neki	2,radiko
+n	Tárgyeset	2,finaĵo
+nomo	név	2,radiko
+Ana	Anna	2,nomo
+juna	fiatal	2,radiko
+bela	szép	2,radiko
+ge	kétféle nemű együtt	2,prefikso
+veni	jön	2,radiko
+is	Múlt idő	2,finaĵo
+al	-nak/nek, -hoz/hez/höz, felé	2,prepozicio
+hejmo	otthon	2,radiko
+bona	jó	2,radiko
+voli	akar	2,radiko
+u	Felszólító mód	2,finaĵo
+iri	megy	2,radiko
+i	Főnévi igenév	2,finaĵo
+saluto	köszön	2,radiko
+kio	mi	2,tabelvorto
+vi	te, ti	2,pronomo
+fari	csinál	2,radiko
+legi	olvas	2,radiko
+sed	de	2,konjunkcio
+paroli	beszél	2,radiko
+kun	-val/vel (társ)	2,prepozicio
+ĉu	vajon	2,partikulo
+jes	igen	2,adverbo
+ŝati	szeret	2,radiko
+nur	csak	2,adverbo
+trinki	iszik	2,radiko
+kafo	kávé	2,radiko
+frato	fiútestvér	2,radiko
+jen	íme, tessék	2,partikulo
+ankoraŭ	még	2,adverbo
+varma	meleg	2,radiko
+kuiri	főz	2,radiko
+danki	köszön	2,radiko
+povi	tud, képes	2,radiko
+ankaŭ	is	2,adverbo
+mal	ellentét	2,prefikso
+rigardi	néz	2,radiko
+okulo	szem	2,radiko
+vidi	lát	2,radiko
+ke	hogy	2,konjunkcio
+ami	szeret	2,radiko
+longa	hosszú	3,radiko
+e	Határozó	3,finaĵo
+antaŭ	előtt	3,prepozicio
+ej	hely	3,sufikso
+post	után	3,prepozicio
+ĝoja	öröm	3,radiko
+tra	át, keresztül	3,prepozicio
+strato	utca	3,radiko
+tago	nap	3,radiko
+kuko	süti	3,radiko
+ni	mi	3,pronomo
+manĝi	eszik	3,radiko
+diri	mond	3,radiko
+sufiĉa	elég	3,radiko
+mono	pénz	3,radiko
+kompreni	ért	3,radiko
+ebl	-ható/hető	3,sufikso
+cent	száz	3,cifero
+dolaro	dollár	3,radiko
+ho	ó	3,interjekcio
+riĉa	gazdag	3,radiko
+kelnero	pincér	3,radiko
+porti	visz, visel	3,radiko
+multa	sok	3,radiko
+nova	új	3,radiko
+serĉi	keres	3,radiko
+unu	egy	3,cifero
+loko	hely	3,radiko
+alia	más	3,radiko
+vizaĝo	arc	3,radiko
+fini	vég	3,radiko
+per	-val/vel	3,prepozicio
+forta	erős	3,radiko
+voĉo	hang	3,radiko
+okazi	alkalom, történik	3,radiko
+scii	tud	3,radiko
+letero	levél	4,radiko
+vera	igaz	4,radiko
+foto	fénykép	4,radiko
+kiam	mikor	4,tabelvorto
+re	vissza, újra	4,prefikso
+el	-ból/ből	4,prepozicio
+rapida	gyors	4,radiko
+tie	ott	4,tabelvorto
+stari	áll	4,radiko
+Vera	Vera	4,nomo
+mano	kéz	4,radiko
+koleri	méreg	4,radiko
+iĝ	válik valamivé, -ul/ül	4,sufikso
+ruĝa	piros	4,radiko
+fali	esik	4,radiko
+pardoni	bocsánat	4,radiko
+doni	ad	4,radiko
+ricevi	kap	4,radiko
+leciono	lecke	4,radiko
+plu	tovább	4,adverbo
+os	Jövő idő	4,finaĵo
+devi	kell	4,radiko
+fermi	zár	4,radiko
+pordo	ajtó	4,radiko
+sinjoro	úr	5,radiko
+vendi	árul	5,radiko
+aŭto	autó	5,radiko
+kiu	ki, melyik	5,tabelvorto
+plaĉi	tetszik	5,radiko
+demandi	kérdez	5,radiko
+plej	leg -bb (felsőfok)	5,adverbo
+tiu	az az ember, az a	5,tabelvorto
+ĉi	közelítő szócska	5,partikulo
+ĉiu	mindenki, mindegyik	5,tabelvorto
+pli	-bb (középfok)	5,adverbo
+ol	mint	5,konjunkcio
+tre	nagyon	5,adverbo
+certa	biztos	5,radiko
+kosti	kerül	5,radiko
+bedaŭri	sajnál	5,radiko
+ind	méltó, érdemes	5,sufikso
+aĉeti	vesz	5,radiko
+ĉar	mert, mivel	5,konjunkcio
+veturi	utazik, közlekedik	5,radiko
+dum	alatt (időtartam)	5,prepozicio
+tio	az	5,tabelvorto
+edzo	férj	5,radiko
+Maja	Maja	6,nomo
+et	kicsi, kicsinyítés	6,sufikso
+ul	személy	6,sufikso
+tri	három	6,cifero
+ig	-tat/tet (műveltetés), -ít	6,sufikso
+sana	egészséges	6,radiko
+alta	magas	6,radiko
+temperaturo	hőmérséklet	6,radiko
+resti	marad	6,radiko
+morgaŭ	holnap	6,adverbo
+voki	hív	6,radiko
+doktoro	orvos	6,radiko
+je	kor, állandósult kifejezésekben	6,prepozicio
+naŭ	kilenc	6,cifero
+horo	óra	6,radiko
+por	számára,, részére, -ra/re	6,prepozicio
+helpi	segít	6,radiko
+montri	mutat	6,radiko
+piedo	láb	6,radiko
+vesti	ruha	6,radiko
+ĉio	minden	6,tabelvorto
+fine	végül	6,vorto
+semajno	hét	6,radiko
+sub	alatt	6,prepozicio
+teo	tea	6,radiko
+mateno	reggel	6,radiko
+vespero	este	6,radiko
+deziri	kíván	6,radiko
+trankvila	nyugodt	6,radiko
+farti	érzi magát	6,radiko
+eg	nagy, nagyítás	6,sufikso
+Karlo	Károly	6,nomo
+hm	hmm	6,interjekcio
+dormi	alszik	7,radiko
+suno	nap	7,radiko
+subita	hirtelen	7,radiko
+ek	cselekvés kezdete, mozzanatos ige	7,prefikso
+salti	ugrik	7,radiko
+ĉiam	mindig	7,tabelvorto
+frua	korán	7,radiko
+hodiaŭ	ma	7,adverbo
+meti	tesz	7,radiko
+aĵ	dolog, konkrétum	7,sufikso
+kuri	fut	7,radiko
+laŭ	szerint, mentén	7,prepozicio
+homo	ember	7,radiko
+kia	milyen	7,tabelvorto
+saĝa	okos	7,radiko
+knabo	fiú	7,radiko
+baldaŭ	hamarosan, majd	7,adverbo
+it	szenvedő múlt	7,participo
+nek	sem ... sem	7,konjunkcio
+pensi	gondol	7,radiko
+diablo	ördög	7,radiko
+memori	emlék	7,radiko
+dimanĉo	vasárnap	7,radiko
+raporti	jelent	8,radiko
+noto	jegy	8,radiko
+aĉ	alacsony minőségű, silány	8,sufikso
+kapo	fej	8,radiko
+kiom	mennyi	8,tabelvorto
+da	mennyiségek után	8,prepozicio
+ĉe	-nál/nél	8,prepozicio
+ludi	játszik	8,radiko
+mem	maga	8,partikulo
+tiom	annyi	8,tabelvorto
+kvankam	habár	8,konjunkcio
+tiam	akkor	8,tabelvorto
+aŭdi	hall	8,radiko
+vorto	szó	8,radiko
+tuj	azonnal, rögtön	8,adverbo
+respondi	válaszol	8,radiko
+kara	kedves, drága	8,radiko
+problemo	probléma	8,radiko
+pri	-ról/ről	8,prepozicio
+muziko	zene	8,radiko
+ridi	nevet	8,radiko
+tamen	mégis	8,adverbo
+Petro	Péter	9,nomo
+Maria	Mária	9,nomo
+vojaĝi	utazik	9,radiko
+lando	ország	9,radiko
+libera	szabad	9,radiko
+tempo	idő	9,radiko
+decidi	elhatároz	9,radiko
+italio	olasz	9,radiko
+urbo	város	9,radiko
+feliĉa	boldog	9,radiko
+kie	hol	9,tabelvorto
+forgesi	felejt	9,radiko
+esperi	remél	9,radiko
+us	Feltételes mód	9,finaĵo
+komenci	kezd	9,radiko
+jam	már	9,adverbo
+vagono	vagon	9,radiko
+ar	csoport, gyűjtemény	9,sufikso
+nenio	semmi	9,tabelvorto
+sekreto	titok	9,radiko
+onklo	nagybácsi	9,radiko
+Bonifacio	Bonifác	9,nomo
+plena	tele	9,radiko
+um	határozatlan jelentés	9,sufikso
+sia	visszaható névmás	9,radiko
+uzi	használ	9,radiko
+domo	ház	9,radiko
+ad	ismétlődő cselekvés, -gat/get	9,sufikso
+atendi	vár	9,radiko
+do	hát	9,adverbo
+kial	miért	9,tabelvorto
+neniam	soha	9,tabelvorto
+kiel	hogyan	10,tabelvorto
+pasi	múlik	10,radiko
+naski	szül	10,radiko
+kelka	néhány	10,radiko
+familio	család	10,radiko
+an	egy csoport tagja	10,sufikso
+iom	valamennyi, egy kis	10,tabelvorto
+trovi	talál	10,radiko
+almenaŭ	legalább	10,adverbo
+ordo	rend	10,radiko
+io	valami	10,tabelvorto
+manki	hiány	10,radiko
+lakto	tej	10,radiko
+necesa	szükséges	10,radiko
+anstataŭ	helyett	10,prepozicio
+intereso	érdekes	10,radiko
+ekskurso	kirándul	10,radiko
+klubo	klub	10,radiko
+ĵeti	dob	10,radiko
+ia	valamilyen	10,tabelvorto
+uj	tartály, ország (ritka)	10,sufikso
+ĝusta	helyes	10,radiko
+for	el, tova	10,prefikso
+inter	között	10,prepozicio
+sama	ugyanaz	10,radiko
+fojo	alkalom	10,radiko
+rajti	szabad, jog	10,radiko
+proponi	ajánl, javasol	10,radiko
+du	kettő	10,cifero
+parto	rész	10,radiko
+sukceso	siker	10,radiko
+iu	valaki	10,tabelvorto
+ideo		10,novaj
+tro	túl	10,adverbo
+ec	-ság/ség (tulajdonság)	10,sufikso
+reala	valódi	10,radiko
+silento	csend	10,radiko
+daŭri	tart	10,radiko
+nu	nos	10,interjekcio
+minuto	perc	10,radiko
+telefono	telefon	10,radiko
+viziti	látogat	10,radiko
+dolĉa	édes	10,radiko
+atenti	figyel	10,radiko
+dika	kövér	10,radiko
+ŝanĝi	cserél, vált	10,radiko
+opinii	vélemény	10,radiko
+sen	nélkül	10,prepozicio
+sola	egyedül	10,radiko
+Veneci	Velence	11,radiko
+Sankt-Mark	Szent Márk	11,nomo
+placo	tér	11,radiko
+milito	háború	11,radiko
+maro	tenger	11,radiko
+ŝipo	hajó	11,radiko
+gondolo	gondola	11,radiko
+movi	mozdít	11,radiko
+mezo	közép	11,radiko
+proksima	közel	11,radiko
+granda	nagy	11,radiko
+oni	az ember (általános alany)	11,pronomo
+facila	könnyű	11,radiko
+lumo	fény	11,radiko
+flanko	oldal	11,radiko
+Stefan	István	11,nomo
+krii	kiált	11,radiko
+turko	török	11,radiko
+renkonti	találkozik	11,radiko
+sekvi	következő	11,radiko
+Pietro	Pietro	11,nomo
+koni	ismer	11,radiko
+akvo	víz	11,radiko
+tiel	úgy	11,tabelvorto
+Ĝorĝo	György	11,nomo
+preni	elvesz, megfog	11,radiko
+estro	főnök, vezető	11,sufikso
+preskaŭ	majdnem	11,adverbo
+morti	halál	11,radiko
+grava	fontos	11,radiko
+Ĝino	Gino	11,nomo
+halti	megáll	11,radiko
+apud	mellett	11,prepozicio
+dek	tíz	11,cifero
+jaro	év	11,radiko
+koloro	szín	11,radiko
+Jakopo	Jákob	11,nomo
+tial	azért	11,tabelvorto
+timi	fél	11,radiko
+sendi	küld	11,radiko
+doĝo	dózse	11,radiko
+bezoni	szükség	11,radiko
+pagi	fizet	11,radiko
+er	rész, részecske	11,sufikso
+afero	dolog	11,radiko
+se	ha	11,konjunkcio
+pano	kenyér	11,radiko
+Don Kamilo	Don Camillo	11,nomo
+ĝis	-ig	11,prepozicio
+S-ro	úr	12,mallongigo
+Pipelbom	Pipelbom	12,nomo
+a		12,
+larĝa	széles	12,radiko
+korpo	test	12,radiko
+aspekto	kinéz	12,radiko
+rolo	szerep	12,radiko
+fakto	tény	12,radiko
+respekti	tisztel	12,radiko
+kontenta	elégedett	12,radiko
+ofte	gyakran	12,radiko
+utila	hasznos	12,radiko
+prezenti	bemutat	12,radiko
+ĝeni	zavar	12,radiko
+nokto	éjjel	12,radiko
+arbo	fa	12,radiko
+ĉefo	főnök	12,radiko
+vojo	út	12,radiko
+ekster	kívül (hely)	12,prepozicio
+sovaĝa	vad	12,radiko
+bruo	zaj	12,radiko
+krom	kívül	12,prepozicio
+tuŝi	érint	12,radiko
+naturo	természet	12,radiko
+ĝenerali	általános	12,radiko
+seki	száraz	12,radiko
+paŝi	lép	12,radiko
+vivi	él	12,radiko
+dolori	fájdalom	12,radiko
+agrabla	kellemes	12,radiko
+ju	minél inkább	12,partikulo
+kastelo	kastély	12,radiko
+des	annál inkább	12,partikulo
+Adriano	Adrián	12,nomo
+viro	ember	12,radiko
+kapabla	képes	12,radiko
+industrio	ipar	12,radiko
+polico	rendőrség	12,radiko
+persono	személy	12,radiko
+simila	hasonló	12,radiko
+lasta	utolsó	12,radiko
+laŭta	hangos	12,radiko
+orelo	fül	12,radiko
+momento	pillanat	12,radiko
+ambaŭ	mindkettő	12,adverbo
+direkti	igazgat	12,radiko
+zorgi	gond	12,radiko
+situacio	szituáció	12,radiko
+branĉo	ág	12,radiko
+rekta	egyenes	12,radiko
+besto	állat	12,radiko
+promeni	sétál	12,radiko
+kavo	pince	12,radiko
+odoro	szag	12,radiko
+preta	kész	12,radiko
+ajn	akár, bár	12,partikulo
+efektiva	tényleges	12,radiko
+miri	csodálkozik	12,radiko
+koro	szív	12,radiko
+ŝajni	tűnik	12,radiko
+supri	felső	12,radiko
+buŝo	száj	12,radiko
+provi	próbál	12,radiko
+kapti	elfog, megfog	12,radiko
+lampo	lámpa	12,radiko
+paco	béke	12,radiko
+formo	forma	12,radiko
+teni	tart	12,radiko
+sono	hang	12,radiko
+aŭtoritato	hatalom	12,radiko
+nuuuu	hát	12,interjekcio
+eee	ööö	12,interjekcio
+fuŝi	ront	12,radiko
+klara	világos, tiszta	12,radiko
+eĉ	még ... is	12,adverbo
+tono	hangnem	12,radiko
+ha	ah	12,interjekcio
+bieno	telek	12,radiko
+grafo	gróf	12,radiko
+monto	hegy	12,radiko
+kalva	kopasz	12,radiko
+inviti	meghív	12,radiko
+peti	kér	12,radiko
+teroro	terror	12,radiko
+kontroli	ellenőriz	12,radiko
+ĉirkaŭ	körül, körülbelül	12,prepozicio
+akcepti	fogad	12,radiko
+perdi	veszt	12,radiko

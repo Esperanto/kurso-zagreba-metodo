@@ -1,0 +1,457 @@
+Marko	مارکو	1,nomo
+esti	to be	1,radiko
+as	فعل در زمان حال	1,finaĵo
+mi	من	1,pronomo
+a	صفت	1,finaĵo
+amiko	friend	1,radiko
+o	اسم	1,finaĵo
+li	(او (مذکر	1,pronomo
+lerni	to learn	1,radiko
+ant	حال معلوم	1,participo
+kaj	و	1,konjunkcio
+sporto	sport	1,radiko
+ist	profession, habitual association	1,sufikso
+nun	حالا	1,adverbo
+sidi	to sit	1,radiko
+en	در	1,prepozicio
+ĉambro	room	1,radiko
+sur	روی	1,prepozicio
+tablo	table	1,radiko
+papero	paper	1,radiko
+j	جمع	1,finaĵo
+libro	book	1,radiko
+ĝi	آن	1,pronomo
+skribi	to write	1,radiko
+la	حرف تعریف	1,artikolo
+patro	father	1,radiko
+in	female	1,sufikso
+de	از, از روی	1,prepozicio
+ne	نه, نفی	1,partikulo
+ili	آنها	1,pronomo
+labori	to work	1,radiko
+hotelo	hotel	1,radiko
+instrui	to teach	1,radiko
+ŝi	(او (مونث	1,pronomo
+havi	to have	2,radiko
+n	حالت مفعولی	2,finaĵo
+nomo	name	2,radiko
+Ana	آنا	2,nomo
+juna	young	2,radiko
+bela	beautiful	2,radiko
+ge	شامل دو جنس	2,prefikso
+veni	come	2,radiko
+is	فعل در زمان گذشته	2,finaĵo
+al	به, در مسیر	2,prepozicio
+hejmo	home	2,radiko
+bona	good	2,radiko
+voli	want	2,radiko
+u	فعل امری	2,finaĵo
+iri	to go	2,radiko
+i	مصدر	2,finaĵo
+saluto	hello	2,radiko
+kio	what	2,tabelvorto
+vi	(شما (می تواند هم مفرد و هم جمع باشد	2,pronomo
+fari	to do	2,radiko
+legi	to read	2,radiko
+sed	اما	2,konjunkcio
+paroli	to speak	2,radiko
+kun	با	2,prepozicio
+ĉu	(آیا (شروع کننده جمله	2,partikulo
+jes	بله	2,adverbo
+ŝati	to like	2,radiko
+nur	فقط	2,adverbo
+trinki	to drink	2,radiko
+kafo	coffee	2,radiko
+frato	brother	2,radiko
+jen	ایناهاش	2,partikulo
+ankoraŭ	همچنان, هنوز	2,adverbo
+varma	warm	2,radiko
+kuiri	to cook	2,radiko
+danki	to thank	2,radiko
+povi	can	2,radiko
+ankaŭ	همچنین	2,adverbo
+mal	مخالف	2,prefikso
+rigardi	to look at	2,radiko
+okulo	eye	2,radiko
+vidi	to see	2,radiko
+ke	که	2,konjunkcio
+ami	love	2,radiko
+longa	long	3,radiko
+e	قید	3,finaĵo
+antaŭ	پیش از, جلوی	3,prepozicio
+ej	place	3,sufikso
+post	پس از	3,prepozicio
+ĝoja	glad	3,radiko
+tra	از طریق	3,prepozicio
+strato	street	3,radiko
+tago	day	3,radiko
+kuko	cake	3,radiko
+ni	ما	3,pronomo
+manĝi	to eat	3,radiko
+diri	to say	3,radiko
+sufiĉa	sufficient	3,radiko
+mono	money	3,radiko
+kompreni	to understand	3,radiko
+ebl	possibility	3,sufikso
+cent	صد	3,cifero
+dolaro	dollar	3,radiko
+ho	اوه	3,interjekcio
+riĉa	rich	3,radiko
+kelnero	waiter	3,radiko
+porti	to carry	3,radiko
+multa	many	3,radiko
+nova	new	3,radiko
+serĉi	to search	3,radiko
+unu	یک	3,cifero
+loko	place	3,radiko
+alia	another	3,radiko
+vizaĝo	face	3,radiko
+fini	to end	3,radiko
+per	با استفاده از, با	3,prepozicio
+forta	strong	3,radiko
+voĉo	voice	3,radiko
+okazi	to happen	3,radiko
+scii	to know	3,radiko
+letero	letter	4,radiko
+vera	true	4,radiko
+foto	photo	4,radiko
+kiam	when	4,tabelvorto
+re	مجدد, دوباره	4,prefikso
+el	از, بیرون از	4,prepozicio
+rapida	fast	4,radiko
+tie	there	4,tabelvorto
+stari	to stand	4,radiko
+Vera	وِرا	4,nomo
+mano	hand	4,radiko
+koleri	anger	4,radiko
+iĝ	become	4,sufikso
+ruĝa	red	4,radiko
+fali	to fall	4,radiko
+pardoni	to forgive	4,radiko
+doni	to give	4,radiko
+ricevi	to receive	4,radiko
+leciono	lesson	4,radiko
+plu	بیشتر, دیگر	4,adverbo
+os	فعل در زمان آینده	4,finaĵo
+devi	must	4,radiko
+fermi	to close	4,radiko
+pordo	door	4,radiko
+sinjoro	gentleman, Mr.	5,radiko
+vendi	to sell	5,radiko
+aŭto	car	5,radiko
+kiu	who, which	5,tabelvorto
+plaĉi	to be pleasing	5,radiko
+demandi	to ask	5,radiko
+plej	بیشترین	5,adverbo
+tiu	that person, that one	5,tabelvorto
+ĉi	این	5,partikulo
+ĉiu	everyone, every	5,tabelvorto
+pli	بیشتر	5,adverbo
+ol	نسبت به	5,konjunkcio
+tre	خیلی	5,adverbo
+certa	certain	5,radiko
+kosti	to cost	5,radiko
+bedaŭri	to regret	5,radiko
+ind	worthy of	5,sufikso
+aĉeti	to buy	5,radiko
+ĉar	زیرا, چون که	5,konjunkcio
+veturi	to travel	5,radiko
+dum	طی	5,prepozicio
+tio	that	5,tabelvorto
+edzo	husband	5,radiko
+Maja	مایا	6,nomo
+et	small, diminutive	6,sufikso
+ul	person	6,sufikso
+tri	سه	6,cifero
+ig	cause something	6,sufikso
+sana	healthy	6,radiko
+alta	high	6,radiko
+temperaturo	temperature	6,radiko
+resti	to remain	6,radiko
+morgaŭ	فردا	6,adverbo
+voki	to call	6,radiko
+doktoro	doctor	6,radiko
+je	از, با, در	6,prepozicio
+naŭ	نه	6,cifero
+horo	hour	6,radiko
+por	برای	6,prepozicio
+helpi	to help	6,radiko
+montri	to show	6,radiko
+piedo	foot	6,radiko
+vesti	to dress	6,radiko
+ĉio	everything	6,tabelvorto
+fine	at the end	6,vorto
+semajno	week	6,radiko
+sub	زیر, تحت	6,prepozicio
+teo	tea	6,radiko
+mateno	morning	6,radiko
+vespero	evening	6,radiko
+deziri	to wish	6,radiko
+trankvila	calm	6,radiko
+farti	feel, be	6,radiko
+eg	big, augmentative	6,sufikso
+Karlo	کارلو	6,nomo
+hm	هم	6,interjekcio
+dormi	sleep	7,radiko
+suno	sun	7,radiko
+subita	suddenly	7,radiko
+ek	شروع عمل, ناگهانی	7,prefikso
+salti	to jump	7,radiko
+ĉiam	always, every time	7,tabelvorto
+frua	early	7,radiko
+hodiaŭ	امروز	7,adverbo
+meti	to put	7,radiko
+aĵ	thing, concrete manifestation	7,sufikso
+kuri	to run	7,radiko
+laŭ	طبق, در امتداد	7,prepozicio
+homo	human	7,radiko
+kia	what kind of	7,tabelvorto
+saĝa	wise	7,radiko
+knabo	boy	7,radiko
+baldaŭ	به زودی	7,adverbo
+it	گذشته مجهول	7,participo
+nek	هیچ کدام	7,konjunkcio
+pensi	to think	7,radiko
+diablo	devil	7,radiko
+memori	to remember	7,radiko
+dimanĉo	Sunday	7,radiko
+raporti	report	8,radiko
+noto	note	8,radiko
+aĉ	indicates undesirable quality	8,sufikso
+kapo	head	8,radiko
+kiom	how much	8,tabelvorto
+da	از	8,prepozicio
+ĉe	در	8,prepozicio
+ludi	to play	8,radiko
+mem	خود	8,partikulo
+tiom	that much	8,tabelvorto
+kvankam	اگرچه	8,konjunkcio
+tiam	then	8,tabelvorto
+aŭdi	to hear	8,radiko
+vorto	word	8,radiko
+tuj	فورا	8,adverbo
+respondi	to answer	8,radiko
+kara	dear	8,radiko
+problemo	problem	8,radiko
+pri	درباره, درباب	8,prepozicio
+muziko	music	8,radiko
+ridi	to laugh	8,radiko
+tamen	اگرچه	8,adverbo
+Petro	پترو	9,nomo
+Maria	ماریا	9,nomo
+vojaĝi	journey	9,radiko
+lando	land	9,radiko
+libera	free	9,radiko
+tempo	time	9,radiko
+decidi	to decide	9,radiko
+italio	Italy	9,radiko
+urbo	city	9,radiko
+feliĉa	happy	9,radiko
+kie	where	9,tabelvorto
+forgesi	to forget	9,radiko
+esperi	to hope	9,radiko
+us	فعل در زمان شرطی	9,finaĵo
+komenci	to begin	9,radiko
+jam	از پیش	9,adverbo
+vagono	coach	9,radiko
+ar	group, collection	9,sufikso
+nenio	nothing	9,tabelvorto
+sekreto	secret	9,radiko
+onklo	uncle	9,radiko
+Bonifacio	بُنیفاسیو	9,nomo
+plena	full	9,radiko
+um	indefinite meaning	9,sufikso
+sia	reflexive pronoun	9,radiko
+uzi	to use	9,radiko
+domo	house	9,radiko
+ad	continuous action	9,sufikso
+atendi	to wait	9,radiko
+do	پس	9,adverbo
+kial	why	9,tabelvorto
+neniam	never, no time	9,tabelvorto
+kiel	how	10,tabelvorto
+pasi	to pass	10,radiko
+naski	to give birth	10,radiko
+kelka	some	10,radiko
+familio	family	10,radiko
+an	member of a group	10,sufikso
+iom	to some extent, a certain amount	10,tabelvorto
+trovi	to find	10,radiko
+almenaŭ	حداقل	10,adverbo
+ordo	to order	10,radiko
+io	something	10,tabelvorto
+manki	be lacking	10,radiko
+lakto	milk	10,radiko
+necesa	to need	10,radiko
+anstataŭ	به جای	10,prepozicio
+intereso	to interest	10,radiko
+ekskurso	excursion	10,radiko
+klubo	club	10,radiko
+ĵeti	to throw	10,radiko
+ia	some kind of	10,tabelvorto
+uj	container, tree, country	10,sufikso
+ĝusta	to correct	10,radiko
+for	دور, خارج	10,prefikso
+inter	بین, میان	10,prepozicio
+sama	same	10,radiko
+fojo	time, occasion	10,radiko
+rajti	to be allowed to	10,radiko
+proponi	to propose	10,radiko
+du	دو	10,cifero
+parto	part	10,radiko
+sukceso	success	10,radiko
+iu	someone	10,tabelvorto
+ideo	ایده	10,novaj
+tro	بیش از حد, بسیار زیاد	10,adverbo
+ec	abstract quality	10,sufikso
+reala	real	10,radiko
+silento	silent	10,radiko
+daŭri	to continue	10,radiko
+nu	خب	10,interjekcio
+minuto	minute	10,radiko
+telefono	phone	10,radiko
+viziti	to visit	10,radiko
+dolĉa	sweet	10,radiko
+atenti	pay attention	10,radiko
+dika	thick, fat	10,radiko
+ŝanĝi	to change	10,radiko
+opinii	opinion	10,radiko
+sen	بدون	10,prepozicio
+sola	alone	10,radiko
+Veneci	Venice	11,radiko
+Sankt-Mark	حضرت مارکوس	11,nomo
+placo	place	11,radiko
+milito	war	11,radiko
+maro	sea	11,radiko
+ŝipo	ship	11,radiko
+gondolo	gondola	11,radiko
+movi	to move	11,radiko
+mezo	middle	11,radiko
+proksima	near	11,radiko
+granda	big, great	11,radiko
+oni	(کسی (ضمیر نامشخص	11,pronomo
+facila	easy	11,radiko
+lumo	light	11,radiko
+flanko	side	11,radiko
+Stefan	استفان	11,nomo
+krii	to scream	11,radiko
+turko	Turkish	11,radiko
+renkonti	to meet	11,radiko
+sekvi	to follow	11,radiko
+Pietro	پیتر	11,nomo
+koni	to know	11,radiko
+akvo	water	11,radiko
+tiel	like that, thus	11,tabelvorto
+Ĝorĝo	جورج	11,nomo
+preni	to take	11,radiko
+estro	chief, head	11,sufikso
+preskaŭ	تقریبا	11,adverbo
+morti	to die	11,radiko
+grava	important	11,radiko
+Ĝino	جینو	11,nomo
+halti	to stop	11,radiko
+apud	کنار	11,prepozicio
+dek	ده	11,cifero
+jaro	year	11,radiko
+koloro	color	11,radiko
+Jakopo	یعغوب	11,nomo
+tial	for that reason	11,tabelvorto
+timi	fear	11,radiko
+sendi	to send	11,radiko
+doĝo	doge	11,radiko
+bezoni	to need	11,radiko
+pagi	to pay	11,radiko
+er	fragment, small piece, particle	11,sufikso
+afero	matter	11,radiko
+se	اگر	11,konjunkcio
+pano	bread	11,radiko
+Don Kamilo	دون کامیلو	11,nomo
+ĝis	تا	11,prepozicio
+S-ro	آقای	12,mallongigo
+Pipelbom	پیلپلبوم	12,nomo
+peza	heavy	12,radiko
+larĝa	wide	12,radiko
+korpo	body	12,radiko
+aspekto	look, seem	12,radiko
+rolo	role	12,radiko
+fakto	fact	12,radiko
+respekti	to respect	12,radiko
+kontenta	satisfied	12,radiko
+ofte	often	12,radiko
+utila	useful	12,radiko
+prezenti	to present	12,radiko
+ĝeni	to distrub, to bother	12,radiko
+nokto	night	12,radiko
+arbo	tree	12,radiko
+ĉefo	boss	12,radiko
+vojo	way	12,radiko
+ekster	بیرون	12,prepozicio
+sovaĝa	wild	12,radiko
+bruo	noise	12,radiko
+krom	در کنار, بعلاوه	12,prepozicio
+tuŝi	to touch	12,radiko
+naturo	nature	12,radiko
+ĝenerali	general	12,radiko
+seki	dry	12,radiko
+paŝi	step	12,radiko
+vivi	to live	12,radiko
+dolori	pain, to hurt	12,radiko
+agrabla	pleasant	12,radiko
+ju	(هرچه (بیشتر، کمتر	12,partikulo
+kastelo	castle	12,radiko
+des	(هرچه (بیشتر، کمتر	12,partikulo
+Adriano	آدریانو	12,nomo
+viro	man	12,radiko
+kapabla	capable	12,radiko
+industrio	industry	12,radiko
+polico	police	12,radiko
+persono	person	12,radiko
+simila	similar	12,radiko
+lasta	last	12,radiko
+laŭta	loud	12,radiko
+orelo	ear	12,radiko
+momento	moment	12,radiko
+ambaŭ	هردو	12,adverbo
+direkti	direction	12,radiko
+zorgi	care	12,radiko
+situacio	sitation	12,radiko
+branĉo	branch	12,radiko
+rekta	direct	12,radiko
+besto	animal	12,radiko
+promeni	to stroll	12,radiko
+kavo	cave	12,radiko
+odoro	smell	12,radiko
+preta	ready	12,radiko
+ajn	هر کدام, بهیچ وجه, هرگز	12,partikulo
+efektiva	actually	12,radiko
+miri	to wonder	12,radiko
+koro	heart	12,radiko
+ŝajni	seem	12,radiko
+supri	above	12,radiko
+buŝo	mouth	12,radiko
+provi	to try	12,radiko
+kapti	to catch	12,radiko
+lampo	lamp	12,radiko
+paco	peace	12,radiko
+formo	form	12,radiko
+teni	hold	12,radiko
+sono	to sound	12,radiko
+aŭtoritato	authority	12,radiko
+nuuuu	خبببب	12,interjekcio
+eee	اِ	12,interjekcio
+fuŝi	to mess up	12,radiko
+klara	clear	12,radiko
+eĉ	حتی	12,adverbo
+tono	tone	12,radiko
+ha	ها	12,interjekcio
+bieno	estate, land	12,radiko
+grafo	count, earl	12,radiko
+monto	mountain	12,radiko
+kalva	bald	12,radiko
+inviti	to invite	12,radiko
+peti	to request	12,radiko
+teroro	terror	12,radiko
+kontroli	to check	12,radiko
+ĉirkaŭ	پیرامون	12,prepozicio
+akcepti	accept	12,radiko
+perdi	to loose	12,radiko

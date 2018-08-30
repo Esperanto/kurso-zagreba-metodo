@@ -1,0 +1,457 @@
+Marko	Marc	1,nomo
+esti	يكون	1,radiko
+as	فعل في المضارع	1,finaĵo
+mi	أنا	1,pronomo
+a	صفة, نعت	1,finaĵo
+amiko	صديق	1,radiko
+o	اسم	1,finaĵo
+li	هو	1,pronomo
+lerni	تعلم	1,radiko
+ant	présent actif	1,participo
+kaj	و	1,konjunkcio
+sporto	رياضة	1,radiko
+ist	مهنة	1,sufikso
+nun	الآن, حاليا	1,adverbo
+sidi	جلس	1,radiko
+en	في	1,prepozicio
+ĉambro	غرفة	1,radiko
+sur	على	1,prepozicio
+tablo	طاولة	1,radiko
+papero	ورق	1,radiko
+j	صيغة الجمع	1,finaĵo
+libro	كتاب	1,radiko
+ĝi	هذا ( هذا لغير العاقل )	1,pronomo
+skribi	يكتب	1,radiko
+la	ال	1,artikolo
+patro	الأب	1,radiko
+in	أنثى	1,sufikso
+de	من, من عند	1,prepozicio
+ne	لا, ليس	1,partikulo
+ili	هم, هن	1,pronomo
+labori	عمل	1,radiko
+hotelo	فندق	1,radiko
+instrui	علم	1,radiko
+ŝi	هي	1,pronomo
+havi	يملك	2,radiko
+n	حالة المفعول به	2,finaĵo
+nomo	اسم	2,radiko
+Ana	Anne	2,nomo
+juna	شاب	2,radiko
+bela	جميل	2,radiko
+ge	تتعلق بكلا الجنسين	2,prefikso
+veni	جاء	2,radiko
+is	فعل في الماضي	2,finaĵo
+al	إلى, في اتجاه	2,prepozicio
+hejmo	منزل	2,radiko
+bona	جيد	2,radiko
+voli	يريد	2,radiko
+u	فعل حتمي	2,finaĵo
+iri	يذهب	2,radiko
+i	صيغة المصدر, مصدر	2,finaĵo
+saluto	سلام	2,radiko
+kio	ما, ماذا, الذي	2,tabelvorto
+vi	أنت, أنتم, أنتن, أنتما	2,pronomo
+fari	يفعل	2,radiko
+legi	قرأ	2,radiko
+sed	لكن	2,konjunkcio
+paroli	يتحدث	2,radiko
+kun	مع	2,prepozicio
+ĉu	هل	2,partikulo
+jes	نعم, أجل	2,adverbo
+ŝati	حب	2,radiko
+nur	فقط	2,adverbo
+trinki	شراب	2,radiko
+kafo	قهوة	2,radiko
+frato	شقيق, أخ	2,radiko
+jen	ها هو	2,partikulo
+ankoraŭ	ثاني, ثانية	2,adverbo
+varma	حار	2,radiko
+kuiri	طبخ	2,radiko
+danki	شكر	2,radiko
+povi	يستطيع	2,radiko
+ankaŭ	أيضا	2,adverbo
+mal	نقيض	2,prefikso
+rigardi	شاهد	2,radiko
+okulo	عين	2,radiko
+vidi	يري	2,radiko
+ke	أن	2,konjunkcio
+ami	حب	2,radiko
+longa	طويل	3,radiko
+e	ظرف حال	3,finaĵo
+antaŭ	قبل, أمام	3,prepozicio
+ej	مكان	3,sufikso
+post	بعد	3,prepozicio
+ĝoja	فرح	3,radiko
+tra	عبر	3,prepozicio
+strato	شارع	3,radiko
+tago	يوم	3,radiko
+kuko	كعكة	3,radiko
+ni	نحن	3,pronomo
+manĝi	أكل	3,radiko
+diri	أقول	3,radiko
+sufiĉa	كاف	3,radiko
+mono	فلوس, مال	3,radiko
+kompreni	فهم	3,radiko
+ebl	possibilité	3,sufikso
+cent	مئة	3,cifero
+dolaro	دولار	3,radiko
+ho	يا	3,interjekcio
+riĉa	غني	3,radiko
+kelnero	الخادم	3,radiko
+porti	احذر, إ نتبه	3,radiko
+multa	كثير	3,radiko
+nova	جديد	3,radiko
+serĉi	بحث	3,radiko
+unu	واحد	3,cifero
+loko	مكان	3,radiko
+alia	آخر	3,radiko
+vizaĝo	وجه	3,radiko
+fini	ينهى	3,radiko
+per	بواسطة, ب	3,prepozicio
+forta	قوى	3,radiko
+voĉo	صوت	3,radiko
+okazi	حدث	3,radiko
+scii	علم	3,radiko
+letero	حرف	4,radiko
+vera	حقيقي	4,radiko
+foto	صور	4,radiko
+kiam	quand	4,tabelvorto
+re	من جديد	4,prefikso
+el	من, بعيدا عن	4,prepozicio
+rapida	بسرعة	4,radiko
+tie	là	4,tabelvorto
+stari	قائم	4,radiko
+Vera	Vera	4,nomo
+mano	يد	4,radiko
+koleri	غضب	4,radiko
+iĝ	يصبح	4,sufikso
+ruĝa	أحمر	4,radiko
+fali	سقط	4,radiko
+pardoni	غفر	4,radiko
+doni	أعطى	4,radiko
+ricevi	تسلم, تلقى	4,radiko
+leciono	درس	4,radiko
+plu	إضافة	4,adverbo
+os	فعل في المستقبل	4,finaĵo
+devi	واجب	4,radiko
+fermi	أغلق	4,radiko
+pordo	باب	4,radiko
+sinjoro	سيد	5,radiko
+vendi	بيع	5,radiko
+aŭto	سيارة	5,radiko
+kiu	qui	5,tabelvorto
+plaĉi	يعجب	5,radiko
+demandi	تطلب	5,radiko
+plej	صيغة التفضيل) أكثر )	5,adverbo
+tiu	cette personne	5,tabelvorto
+ĉi	هذا, هذه	5,partikulo
+ĉiu	tout le monde, tous	5,tabelvorto
+pli	مقارن) أكثر)	5,adverbo
+ol	من	5,konjunkcio
+tre	جدا	5,adverbo
+certa	متأكد	5,radiko
+kosti	يكلف	5,radiko
+bedaŭri	ندم	5,radiko
+ind	digne de	5,sufikso
+aĉeti	اشترى	5,radiko
+ĉar	لأن, لأجل	5,konjunkcio
+veturi	قيادة	5,radiko
+dum	طوال, أثناء, خلال	5,prepozicio
+tio	ذلك	5,tabelvorto
+edzo	زوج	5,radiko
+Maja	Maja	6,nomo
+et	petit, diminutif	6,sufikso
+ul	شخص	6,sufikso
+tri	ثلاثة	6,cifero
+ig	faire quelque chose	6,sufikso
+sana	صحة	6,radiko
+alta	عالي	6,radiko
+temperaturo	درجة الحرارة	6,radiko
+resti	يبقي	6,radiko
+morgaŭ	غدا	6,adverbo
+voki	ينادي	6,radiko
+doktoro	طبيب	6,radiko
+je	من, مع, في	6,prepozicio
+naŭ	تسعة	6,cifero
+horo	ساعة	6,radiko
+por	ل	6,prepozicio
+helpi	مساعدة	6,radiko
+montri	عرض	6,radiko
+piedo	قدم	6,radiko
+vesti	يرتدي	6,radiko
+ĉio	كل, كل شئ	6,tabelvorto
+fine	أخيرا	6,vorto
+semajno	أسبوع	6,radiko
+sub	تحت	6,prepozicio
+teo	شاي	6,radiko
+mateno	صباح	6,radiko
+vespero	مساء	6,radiko
+deziri	رغبة	6,radiko
+trankvila	هدوء	6,radiko
+farti	يكون	6,radiko
+eg	grand, augmentatif	6,sufikso
+Karlo	Charles	6,nomo
+hm	هم	6,interjekcio
+dormi	نوم	7,radiko
+suno	شمس	7,radiko
+subita	فجأة	7,radiko
+ek	بداية تأثير, فجأة	7,prefikso
+salti	قفز	7,radiko
+ĉiam	toujours	7,tabelvorto
+frua	مبكرا	7,radiko
+hodiaŭ	اليوم	7,adverbo
+meti	وضع	7,radiko
+aĵ	chose concrète	7,sufikso
+kuri	جري	7,radiko
+laŭ	وفق	7,prepozicio
+homo	بشري	7,radiko
+kia	de quelle sorte	7,tabelvorto
+saĝa	حكيم	7,radiko
+knabo	صبي	7,radiko
+baldaŭ	قريبا	7,adverbo
+it	passé passif	7,participo
+nek	(لا هذا(...ولا ذاك	7,konjunkcio
+pensi	يفكر	7,radiko
+diablo	شيطان	7,radiko
+memori	تذكر	7,radiko
+dimanĉo	الأحد	7,radiko
+raporti	تقرير	8,radiko
+noto	مذكرة	8,radiko
+aĉ	indique un aspect négatif	8,sufikso
+kapo	الرأس	8,radiko
+kiom	combien	8,tabelvorto
+da	من	8,prepozicio
+ĉe	في, عند	8,prepozicio
+ludi	لعب	8,radiko
+mem	نفسه, ذاته	8,partikulo
+tiom	de cette quantité	8,tabelvorto
+kvankam	رغم أن, على الرغم من	8,konjunkcio
+tiam	à ce moment	8,tabelvorto
+aŭdi	سمع	8,radiko
+vorto	كلمة	8,radiko
+tuj	فورا	8,adverbo
+respondi	إجابة	8,radiko
+kara	عزيز	8,radiko
+problemo	مشكلة	8,radiko
+pri	فيما يتعلق ب, حول	8,prepozicio
+muziko	موسيقى	8,radiko
+ridi	ضحك	8,radiko
+tamen	لكن, مع ذلك	8,adverbo
+Petro	Pierre	9,nomo
+Maria	Marie	9,nomo
+vojaĝi	سفر, رحلة	9,radiko
+lando	بلد	9,radiko
+libera	حر	9,radiko
+tempo	وقت	9,radiko
+decidi	قرر	9,radiko
+italio	إيطاليا	9,radiko
+urbo	مدينة	9,radiko
+feliĉa	سعيد	9,radiko
+kie	où	9,tabelvorto
+forgesi	ينسى	9,radiko
+esperi	أمل	9,radiko
+us	فعل الشرطي	9,finaĵo
+komenci	بداية	9,radiko
+jam	سابقا, قد	9,adverbo
+vagono	عربة	9,radiko
+ar	مجموعة	9,sufikso
+nenio	لا شىء	9,tabelvorto
+sekreto	سر	9,radiko
+onklo	عم, خال	9,radiko
+Bonifacio	Boniface	9,nomo
+plena	كامل	9,radiko
+um	signification indéfinie	9,sufikso
+sia	ضمير انعكاسي	9,radiko
+uzi	استعمال	9,radiko
+domo	منزل, بيت	9,radiko
+ad	action continue	9,sufikso
+atendi	انتظر	9,radiko
+do	وبالتالي, اذن	9,adverbo
+kial	pourquoi	9,tabelvorto
+neniam	jamais	9,tabelvorto
+kiel	comment	10,tabelvorto
+pasi	مرر	10,radiko
+naski	يلد	10,radiko
+kelka	بعض	10,radiko
+familio	عائلة, أسرة	10,radiko
+an	membre d'un groupe	10,sufikso
+iom	un peu	10,tabelvorto
+trovi	يجد	10,radiko
+almenaŭ	على الأقل	10,adverbo
+ordo	أمر	10,radiko
+io	شيء ما	10,tabelvorto
+manki	مفتقر	10,radiko
+lakto	حليب	10,radiko
+necesa	حاجة	10,radiko
+anstataŭ	بدلا من	10,prepozicio
+intereso	اهتم	10,radiko
+ekskurso	نزهة	10,radiko
+klubo	ناد	10,radiko
+ĵeti	رمي	10,radiko
+ia	une sorte de	10,tabelvorto
+uj	وعاء, بلد	10,sufikso
+ĝusta	صحيح	10,radiko
+for	ابتعاد, اختفاء, زوال	10,prefikso
+inter	بين	10,prepozicio
+sama	نفسه	10,radiko
+fojo	مرة	10,radiko
+rajti	الحق في	10,radiko
+proponi	عرض	10,radiko
+du	اثنان	10,cifero
+parto	يرحل	10,radiko
+sukceso	نجاح	10,radiko
+iu	quelqu'un	10,tabelvorto
+ideo		10,novaj
+tro	كثيرا	10,adverbo
+ec	qualité abstraite	10,sufikso
+reala	شئ حقيقي	10,radiko
+silento	الصمت	10,radiko
+daŭri	استمر	10,radiko
+nu	اه	10,interjekcio
+minuto	دقيقة	10,radiko
+telefono	هاتف	10,radiko
+viziti	زيارة	10,radiko
+dolĉa	لطيف	10,radiko
+atenti	انتبه	10,radiko
+dika	ضخم	10,radiko
+ŝanĝi	تغيير	10,radiko
+opinii	رأي	10,radiko
+sen	بدون, بلا	10,prepozicio
+sola	وحيد	10,radiko
+Veneci	مدينة البندقية	11,radiko
+Sankt-Mark	Saint-Marc	11,nomo
+placo	مكان	11,radiko
+milito	حرب	11,radiko
+maro	بحر	11,radiko
+ŝipo	سفينة	11,radiko
+gondolo	جندول	11,radiko
+movi	يتحرك	11,radiko
+mezo	وسط	11,radiko
+proksima	بجانب	11,radiko
+granda	كبير	11,radiko
+oni	واحد  ( ضمير لأجل غير مسمى )	11,pronomo
+facila	سهل	11,radiko
+lumo	ضوء	11,radiko
+flanko	جانب	11,radiko
+Stefan	Stéphane	11,nomo
+krii	صرخة	11,radiko
+turko	تركي	11,radiko
+renkonti	يلا قي	11,radiko
+sekvi	تابع	11,radiko
+Pietro	Pietro	11,nomo
+koni	يعرف	11,radiko
+akvo	ماء	11,radiko
+tiel	ainsi	11,tabelvorto
+Ĝorĝo	Georges	11,nomo
+preni	أخذ	11,radiko
+estro	chef, principal	11,sufikso
+preskaŭ	تقريبا	11,adverbo
+morti	مات	11,radiko
+grava	مهم	11,radiko
+Ĝino	Gino	11,nomo
+halti	توقف	11,radiko
+apud	بجوار	11,prepozicio
+dek	عشرة	11,cifero
+jaro	عام	11,radiko
+koloro	اللون	11,radiko
+Jakopo	Jaques	11,nomo
+tial	pour cette raison	11,tabelvorto
+timi	خوف	11,radiko
+sendi	إرسال	11,radiko
+doĝo	دوج	11,radiko
+bezoni	حاجة	11,radiko
+pagi	دفع	11,radiko
+er	fragment, petite pièce, particule	11,sufikso
+afero	مسألة, قضية	11,radiko
+se	إذا	11,konjunkcio
+pano	خبز	11,radiko
+Don Kamilo	Don Camillus	11,nomo
+ĝis	إلى, حتى	11,prepozicio
+S-ro	سيد	12,mallongigo
+Pipelbom	Pipelbom	12,nomo
+peza	ثقيل	12,radiko
+larĝa	واسع	12,radiko
+korpo	جسد	12,radiko
+aspekto	مظهر	12,radiko
+rolo	دور	12,radiko
+fakto	حقيقة	12,radiko
+respekti	احترام	12,radiko
+kontenta	محتوى	12,radiko
+ofte	غالبا	12,radiko
+utila	مفيد	12,radiko
+prezenti	يقدم	12,radiko
+ĝeni	إزعاج	12,radiko
+nokto	ليل	12,radiko
+arbo	شجرة	12,radiko
+ĉefo	زعيم	12,radiko
+vojo	طريق	12,radiko
+ekster	خارج من	12,prepozicio
+sovaĝa	بري	12,radiko
+bruo	صوت	12,radiko
+krom	بالإضافة إلى, باستثناء	12,prepozicio
+tuŝi	لمس	12,radiko
+naturo	طبيعة	12,radiko
+ĝenerali	العام	12,radiko
+seki	جاف	12,radiko
+paŝi	خطوة	12,radiko
+vivi	يعيش	12,radiko
+dolori	ألم	12,radiko
+agrabla	ممتع	12,radiko
+ju	plus (plus…, plus…), moins (plus…, moins…)	12,partikulo
+kastelo	قلعة	12,radiko
+des	plus (plus…, plus…), moins (plus…, moins…)	12,partikulo
+Adriano	Adrian	12,nomo
+viro	رجل	12,radiko
+kapabla	قادر	12,radiko
+industrio	صناعة	12,radiko
+polico	شرطة	12,radiko
+persono	شخص	12,radiko
+simila	مطابق	12,radiko
+lasta	آخر	12,radiko
+laŭta	قوى	12,radiko
+orelo	إذن	12,radiko
+momento	لحظة	12,radiko
+ambaŭ	على حد سواء, كلاهما	12,adverbo
+direkti	اتجاه, جهة	12,radiko
+zorgi	مهتم	12,radiko
+situacio	حالة	12,radiko
+branĉo	غصن	12,radiko
+rekta	مباشرة	12,radiko
+besto	حيوان	12,radiko
+promeni	تنزه, تجول	12,radiko
+kavo	مغارة	12,radiko
+odoro	إحساس	12,radiko
+preta	جاهز, مستعد	12,radiko
+ajn	أي	12,partikulo
+efektiva	بالفعل	12,radiko
+miri	تعجب	12,radiko
+koro	قلب	12,radiko
+ŝajni	يبدو	12,radiko
+supri	فوق	12,radiko
+buŝo	فم	12,radiko
+provi	يحاول	12,radiko
+kapti	قبض	12,radiko
+lampo	مصباح	12,radiko
+paco	سلام	12,radiko
+formo	شكل	12,radiko
+teni	عقد	12,radiko
+sono	صوت	12,radiko
+aŭtoritato	سلطة	12,radiko
+nuuuu	نوو	12,interjekcio
+eee	إيه	12,interjekcio
+fuŝi	فوضى	12,radiko
+klara	واضح	12,radiko
+eĉ	حتى	12,adverbo
+tono	نغمة	12,radiko
+ha	ها	12,interjekcio
+bieno	ممتلكات	12,radiko
+grafo	الكونت	12,radiko
+monto	جبل	12,radiko
+kalva	قريبا	12,radiko
+inviti	دعا	12,radiko
+peti	تطلب	12,radiko
+teroro	رعب	12,radiko
+kontroli	تحقق, فحص	12,radiko
+ĉirkaŭ	حول	12,prepozicio
+akcepti	قبول, رضى	12,radiko
+perdi	فقد	12,radiko

@@ -1,0 +1,457 @@
+Marko	馬克	1,nomo
+esti	是	1,radiko
+as	現在式動詞	1,finaĵo
+mi	我	1,pronomo
+a	形容詞	1,finaĵo
+amiko	朋友	1,radiko
+o	名詞	1,finaĵo
+li	他	1,pronomo
+lerni	學	1,radiko
+ant	現在式, 主動	1,participo
+kaj	和	1,konjunkcio
+sporto	運動	1,radiko
+ist	職業, 某理念支持者	1,sufikso
+nun	現在	1,adverbo
+sidi	坐	1,radiko
+en	在內, 入內	1,prepozicio
+ĉambro	房間	1,radiko
+sur	在...上面	1,prepozicio
+tablo	桌子	1,radiko
+papero	紙張	1,radiko
+j	複數	1,finaĵo
+libro	書	1,radiko
+ĝi	它	1,pronomo
+skribi	寫	1,radiko
+la	那, 這	1,artikolo
+patro	父親	1,radiko
+in	雌性	1,sufikso
+de	屬, 從	1,prepozicio
+ne	不, 沒	1,partikulo
+ili	他們	1,pronomo
+labori	工作	1,radiko
+hotelo	旅館	1,radiko
+instrui	教	1,radiko
+ŝi	她	1,pronomo
+havi	有	2,radiko
+n	賓格	2,finaĵo
+nomo	名字	2,radiko
+Ana	安娜	2,nomo
+juna	年輕	2,radiko
+bela	美麗	2,radiko
+ge	兩性兼有	2,prefikso
+veni	來	2,radiko
+is	過去式動詞	2,finaĵo
+al	向, 往	2,prepozicio
+hejmo	家	2,radiko
+bona	好	2,radiko
+voli	想要	2,radiko
+u	祈使動詞	2,finaĵo
+iri	去	2,radiko
+i	不定詞	2,finaĵo
+saluto	敬禮, 問好	2,radiko
+kio	何物	2,tabelvorto
+vi	你	2,pronomo
+fari	做	2,radiko
+legi	讀	2,radiko
+sed	但是	2,konjunkcio
+paroli	說	2,radiko
+kun	跟, 與	2,prepozicio
+ĉu	是否, 是不是, 嗎	2,partikulo
+jes	是的	2,adverbo
+ŝati	喜歡	2,radiko
+nur	只是	2,adverbo
+trinki	飲, 喝	2,radiko
+kafo	咖啡	2,radiko
+frato	兄弟	2,radiko
+jen	瞧, 這是	2,partikulo
+ankoraŭ	還沒, 還在	2,adverbo
+varma	溫熱	2,radiko
+kuiri	煮	2,radiko
+danki	謝	2,radiko
+povi	可以	2,radiko
+ankaŭ	也是	2,adverbo
+mal	反義	2,prefikso
+rigardi	看	2,radiko
+okulo	眼睛	2,radiko
+vidi	看	2,radiko
+ke	那	2,konjunkcio
+ami	愛	2,radiko
+longa	長	3,radiko
+e	副詞	3,finaĵo
+antaŭ	之前, 前面	3,prepozicio
+ej	場所	3,sufikso
+post	之後	3,prepozicio
+ĝoja	高興	3,radiko
+tra	穿過	3,prepozicio
+strato	街道	3,radiko
+tago	天	3,radiko
+kuko	蛋糕	3,radiko
+ni	我們	3,pronomo
+manĝi	吃	3,radiko
+diri	說	3,radiko
+sufiĉa	充足	3,radiko
+mono	錢	3,radiko
+kompreni	理解, 明白	3,radiko
+ebl	可能	3,sufikso
+cent	百	3,cifero
+dolaro	元 (錢)	3,radiko
+ho	呵	3,interjekcio
+riĉa	富	3,radiko
+kelnero	服務員, 侍應生	3,radiko
+porti	携帶	3,radiko
+multa	多	3,radiko
+nova	新	3,radiko
+serĉi	尋找	3,radiko
+unu	一	3,cifero
+loko	地點	3,radiko
+alia	另一個	3,radiko
+vizaĝo	臉	3,radiko
+fini	結束	3,radiko
+per	以某工具/媒介, 用	3,prepozicio
+forta	強壯	3,radiko
+voĉo	說話聲	3,radiko
+okazi	發生	3,radiko
+scii	知道	3,radiko
+letero	書信	4,radiko
+vera	真	4,radiko
+foto	照片	4,radiko
+kiam	何時	4,tabelvorto
+re	重新, 再來	4,prefikso
+el	出自	4,prepozicio
+rapida	快	4,radiko
+tie	那裡	4,tabelvorto
+stari	站立	4,radiko
+Vera	維拉	4,nomo
+mano	手	4,radiko
+koleri	生氣	4,radiko
+iĝ	成為, 變成	4,sufikso
+ruĝa	紅	4,radiko
+fali	掉落	4,radiko
+pardoni	饒恕, 原諒	4,radiko
+doni	給	4,radiko
+ricevi	接獲, 收到	4,radiko
+leciono	課	4,radiko
+plu	進一步, 再	4,adverbo
+os	未來式動詞	4,finaĵo
+devi	必須	4,radiko
+fermi	關閉	4,radiko
+pordo	門	4,radiko
+sinjoro	紳士, 先生	5,radiko
+vendi	賣	5,radiko
+aŭto	汽車	5,radiko
+kiu	誰	5,tabelvorto
+plaĉi	討喜歡	5,radiko
+demandi	發問	5,radiko
+plej	最	5,adverbo
+tiu	那人	5,tabelvorto
+ĉi	這	5,partikulo
+ĉiu	每人, 每個	5,tabelvorto
+pli	多	5,adverbo
+ol	比	5,konjunkcio
+tre	非常	5,adverbo
+certa	確定	5,radiko
+kosti	價格	5,radiko
+bedaŭri	遺憾	5,radiko
+ind	值得	5,sufikso
+aĉeti	買	5,radiko
+ĉar	因為	5,konjunkcio
+veturi	乘行, 駕行	5,radiko
+dum	期間	5,prepozicio
+tio	那物	5,tabelvorto
+edzo	丈夫	5,radiko
+Maja	瑪雅	6,nomo
+et	小, 微	6,sufikso
+ul	人	6,sufikso
+tri	三	6,cifero
+ig	使, 引發	6,sufikso
+sana	健康	6,radiko
+alta	高	6,radiko
+temperaturo	溫度	6,radiko
+resti	停留	6,radiko
+morgaŭ	明天	6,adverbo
+voki	叫	6,radiko
+doktoro	醫生	6,radiko
+je	於, 在	6,prepozicio
+naŭ	九	6,cifero
+horo	點鐘, 小時	6,radiko
+por	為了	6,prepozicio
+helpi	幫助	6,radiko
+montri	展示	6,radiko
+piedo	腳	6,radiko
+vesti	穿衣	6,radiko
+ĉio	每物	6,tabelvorto
+fine	最後地	6,vorto
+semajno	星期	6,radiko
+sub	下方, 底下	6,prepozicio
+teo	茶	6,radiko
+mateno	早上	6,radiko
+vespero	傍晚, 晚上	6,radiko
+deziri	願望	6,radiko
+trankvila	安	6,radiko
+farti	過活, 康泰	6,radiko
+eg	大, 巨	6,sufikso
+Karlo	卡羅	6,nomo
+hm	呣	6,interjekcio
+dormi	睡	7,radiko
+suno	太陽	7,radiko
+subita	突然	7,radiko
+ek	啟動, 突然	7,prefikso
+salti	跳	7,radiko
+ĉiam	總是	7,tabelvorto
+frua	早	7,radiko
+hodiaŭ	今天	7,adverbo
+meti	放置	7,radiko
+aĵ	物品, 品項	7,sufikso
+kuri	跑	7,radiko
+laŭ	根據, 順著	7,prepozicio
+homo	人	7,radiko
+kia	怎樣的	7,tabelvorto
+saĝa	智慧	7,radiko
+knabo	男孩	7,radiko
+baldaŭ	不久後	7,adverbo
+it	過去式, 被動	7,participo
+nek	既非, 也非	7,konjunkcio
+pensi	想	7,radiko
+diablo	妖魔	7,radiko
+memori	記得	7,radiko
+dimanĉo	星期日	7,radiko
+raporti	報告	8,radiko
+noto	記錄	8,radiko
+aĉ	劣質	8,sufikso
+kapo	頭	8,radiko
+kiom	多少	8,tabelvorto
+da	的 (數量)	8,prepozicio
+ĉe	在	8,prepozicio
+ludi	玩	8,radiko
+mem	自己	8,partikulo
+tiom	那些	8,tabelvorto
+kvankam	雖然	8,konjunkcio
+tiam	那時	8,tabelvorto
+aŭdi	聽	8,radiko
+vorto	詞	8,radiko
+tuj	即刻	8,adverbo
+respondi	回復	8,radiko
+kara	珍愛	8,radiko
+problemo	問題, 困難	8,radiko
+pri	關於, 相關	8,prepozicio
+muziko	音樂	8,radiko
+ridi	笑	8,radiko
+tamen	然而	8,adverbo
+Petro	彼得	9,nomo
+Maria	瑪麗亞	9,nomo
+vojaĝi	旅行	9,radiko
+lando	國家	9,radiko
+libera	自由	9,radiko
+tempo	時間	9,radiko
+decidi	決定	9,radiko
+italio	義大利	9,radiko
+urbo	城市	9,radiko
+feliĉa	幸福, 快樂	9,radiko
+kie	哪裡	9,tabelvorto
+forgesi	忘記	9,radiko
+esperi	希望	9,radiko
+us	條件式動詞	9,finaĵo
+komenci	開始	9,radiko
+jam	已經	9,adverbo
+vagono	車廂	9,radiko
+ar	群, 組	9,sufikso
+nenio	無物	9,tabelvorto
+sekreto	秘密	9,radiko
+onklo	叔伯	9,radiko
+Bonifacio	博尼法喬	9,nomo
+plena	滿	9,radiko
+um	搞, 無固定義	9,sufikso
+sia	反身代詞	9,radiko
+uzi	使用	9,radiko
+domo	房子	9,radiko
+ad	持續	9,sufikso
+atendi	等待	9,radiko
+do	如此	9,adverbo
+kial	為什麼，為何	9,tabelvorto
+neniam	從不	9,tabelvorto
+kiel	如何	10,tabelvorto
+pasi	通過	10,radiko
+naski	生	10,radiko
+kelka	數個, 若干個	10,radiko
+familio	家庭	10,radiko
+an	成員	10,sufikso
+iom	有些	10,tabelvorto
+trovi	找到	10,radiko
+almenaŭ	至少	10,adverbo
+ordo	秩序	10,radiko
+io	某物	10,tabelvorto
+manki	欠缺	10,radiko
+lakto	牛奶	10,radiko
+necesa	需要	10,radiko
+anstataŭ	並非, 取代	10,prepozicio
+intereso	興趣	10,radiko
+ekskurso	出遊	10,radiko
+klubo	俱樂部	10,radiko
+ĵeti	丢, 扔	10,radiko
+ia	某樣的	10,tabelvorto
+uj	容器, 樹, 國	10,sufikso
+ĝusta	正確	10,radiko
+for	遠離, 不在	10,prefikso
+inter	之間, 其中	10,prepozicio
+sama	相同	10,radiko
+fojo	有時, 次	10,radiko
+rajti	權益	10,radiko
+proponi	建議	10,radiko
+du	二	10,cifero
+parto	部分	10,radiko
+sukceso	成功	10,radiko
+iu	某人	10,tabelvorto
+ideo		10,novaj
+tro	太過	10,adverbo
+ec	性質	10,sufikso
+reala	真實	10,radiko
+silento	靜	10,radiko
+daŭri	持續	10,radiko
+nu	嗯	10,interjekcio
+minuto	分鐘	10,radiko
+telefono	電話	10,radiko
+viziti	參觀, 拜訪	10,radiko
+dolĉa	甜	10,radiko
+atenti	注意	10,radiko
+dika	厚, 肥胖	10,radiko
+ŝanĝi	改, 改變	10,radiko
+opinii	意見	10,radiko
+sen	無, 沒有	10,prepozicio
+sola	孤單	10,radiko
+Veneci	威尼斯	11,radiko
+Sankt-Mark	聖馬可	11,nomo
+placo	廣場	11,radiko
+milito	戰爭	11,radiko
+maro	海	11,radiko
+ŝipo	船	11,radiko
+gondolo	貢多拉	11,radiko
+movi	移動	11,radiko
+mezo	中間	11,radiko
+proksima	近	11,radiko
+granda	大, 巨大	11,radiko
+oni	人們	11,pronomo
+facila	容易	11,radiko
+lumo	光	11,radiko
+flanko	方面, 側	11,radiko
+Stefan	史蒂芬	11,nomo
+krii	叫喊	11,radiko
+turko	土耳其	11,radiko
+renkonti	會見	11,radiko
+sekvi	跟隨	11,radiko
+Pietro	比埃特羅	11,nomo
+koni	認得	11,radiko
+akvo	水	11,radiko
+tiel	那樣地, 如此	11,tabelvorto
+Ĝorĝo	喬治	11,nomo
+preni	拿	11,radiko
+estro	首長, 主管	11,sufikso
+preskaŭ	幾乎	11,adverbo
+morti	死	11,radiko
+grava	重要	11,radiko
+Ĝino	基諾	11,nomo
+halti	停止	11,radiko
+apud	附近	11,prepozicio
+dek	十	11,cifero
+jaro	年	11,radiko
+koloro	顏色	11,radiko
+Jakopo	耶各	11,nomo
+tial	為那原因	11,tabelvorto
+timi	怕	11,radiko
+sendi	送, 寄	11,radiko
+doĝo	總督	11,radiko
+bezoni	需要	11,radiko
+pagi	付款	11,radiko
+er	小片, 零碎	11,sufikso
+afero	事情	11,radiko
+se	假如, 如果	11,konjunkcio
+pano	麵包	11,radiko
+Don Kamilo	唐卡米洛	11,nomo
+ĝis	直到	11,prepozicio
+S-ro	Sinjoro – 先生	12,mallongigo
+Pipelbom	比佩波姆	12,nomo
+peza	重	12,radiko
+larĝa	寛	12,radiko
+korpo	身體	12,radiko
+aspekto	外表, 顯得	12,radiko
+rolo	角色	12,radiko
+fakto	事實	12,radiko
+respekti	尊敬	12,radiko
+kontenta	滿意	12,radiko
+ofte	常	12,radiko
+utila	用處	12,radiko
+prezenti	呈現	12,radiko
+ĝeni	干擾, 困擾	12,radiko
+nokto	夜晚	12,radiko
+arbo	樹	12,radiko
+ĉefo	主要, 首領	12,radiko
+vojo	路	12,radiko
+ekster	外	12,prepozicio
+sovaĝa	野蠻, 野生	12,radiko
+bruo	噪音	12,radiko
+krom	此外, 除外	12,prepozicio
+tuŝi	觸摸	12,radiko
+naturo	自然	12,radiko
+ĝenerali	普通	12,radiko
+seki	乾	12,radiko
+paŝi	步伐	12,radiko
+vivi	活, 生活	12,radiko
+dolori	痛	12,radiko
+agrabla	愉快	12,radiko
+ju	越是	12,partikulo
+kastelo	城堡	12,radiko
+des	越是	12,partikulo
+Adriano	阿迪亞諾	12,nomo
+viro	男人	12,radiko
+kapabla	有能力	12,radiko
+industrio	工業	12,radiko
+polico	警察	12,radiko
+persono	人	12,radiko
+simila	相似	12,radiko
+lasta	最後, 最新	12,radiko
+laŭta	大聲	12,radiko
+orelo	耳朵	12,radiko
+momento	片刻	12,radiko
+ambaŭ	雙雙, 兩者	12,adverbo
+direkti	方向	12,radiko
+zorgi	照顧	12,radiko
+situacio	情況	12,radiko
+branĉo	支部, 枝	12,radiko
+rekta	直接	12,radiko
+besto	動物	12,radiko
+promeni	散步	12,radiko
+kavo	山洞	12,radiko
+odoro	味道	12,radiko
+preta	備好	12,radiko
+ajn	任何, 凡	12,partikulo
+efektiva	其實	12,radiko
+miri	奇跡	12,radiko
+koro	心	12,radiko
+ŝajni	似乎	12,radiko
+supri	上面	12,radiko
+buŝo	嘴	12,radiko
+provi	嘗試	12,radiko
+kapti	抓捕	12,radiko
+lampo	燈	12,radiko
+paco	和平	12,radiko
+formo	形式	12,radiko
+teni	持	12,radiko
+sono	聲音	12,radiko
+aŭtoritato	權威	12,radiko
+nuuuu	嗯嗯	12,interjekcio
+eee	咦	12,interjekcio
+fuŝi	搞糟	12,radiko
+klara	解釋	12,radiko
+eĉ	甚至	12,adverbo
+tono	音調	12,radiko
+ha	哈	12,interjekcio
+bieno	地產, 土地	12,radiko
+grafo	伯爵	12,radiko
+monto	山	12,radiko
+kalva	秃	12,radiko
+inviti	邀請	12,radiko
+peti	要求	12,radiko
+teroro	恐怖	12,radiko
+kontroli	檢查	12,radiko
+ĉirkaŭ	左右, 四周	12,prepozicio
+akcepti	接受	12,radiko
+perdi	失去	12,radiko

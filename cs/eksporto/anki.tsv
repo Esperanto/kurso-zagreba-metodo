@@ -1,0 +1,457 @@
+Marko	Marek	1,nomo
+esti	být	1,radiko
+as	koncovka pro sloveso v přítomném čase	1,finaĵo
+mi	já	1,pronomo
+a	koncovka pro přídavné jméno	1,finaĵo
+amiko	přítel	1,radiko
+o	koncovka pro podstatné jméno	1,finaĵo
+li	on	1,pronomo
+lerni	učit se	1,radiko
+ant	příčestí činné přítomné	1,participo
+kaj	a	1,konjunkcio
+sporto	sport	1,radiko
+ist	povolání	1,sufikso
+nun	nyní	1,adverbo
+sidi	sedět	1,radiko
+en	v, ve, do	1,prepozicio
+ĉambro	pokoj	1,radiko
+sur	na	1,prepozicio
+tablo	stůl	1,radiko
+papero	papír	1,radiko
+j	koncovka pro množné číslo	1,finaĵo
+libro	kniha	1,radiko
+ĝi	ono	1,pronomo
+skribi	psát	1,radiko
+la	určitý člen	1,artikolo
+patro	otec	1,radiko
+in	ženský rod	1,sufikso
+de	od	1,prepozicio
+ne	ne, (zápor)	1,partikulo
+ili	oni	1,pronomo
+labori	pracovat	1,radiko
+hotelo	hotel	1,radiko
+instrui	učit	1,radiko
+ŝi	ona	1,pronomo
+havi	vlastnit	2,radiko
+n	koncovka pro akuzativ (subjekt)	2,finaĵo
+nomo	jméno	2,radiko
+Ana	Anna	2,nomo
+juna	mladý	2,radiko
+bela	krásný	2,radiko
+ge	obsahující jedince obou pohlaví	2,prefikso
+veni	přijít	2,radiko
+is	koncovka pro sloveso v minulém čase	2,finaĵo
+al	k, ke	2,prepozicio
+hejmo	domov	2,radiko
+bona	dobré	2,radiko
+voli	chtít	2,radiko
+u	koncovka pro rozkazovací způsob	2,finaĵo
+iri	jít	2,radiko
+i	koncovka pro infinitiv	2,finaĵo
+saluto	zdravit	2,radiko
+kio	co	2,tabelvorto
+vi	Ty/Vy	2,pronomo
+fari	dělat	2,radiko
+legi	číst	2,radiko
+sed	ale	2,konjunkcio
+paroli	mluvit	2,radiko
+kun	s, se	2,prepozicio
+ĉu	Zda (začátek otázky zjišťovací)	2,partikulo
+jes	ano	2,adverbo
+ŝati	mít rád	2,radiko
+nur	pouze	2,adverbo
+trinki	pít	2,radiko
+kafo	káva	2,radiko
+frato	bratr	2,radiko
+jen	zde (zvolání)	2,partikulo
+ankoraŭ	ještě	2,adverbo
+varma	teplý	2,radiko
+kuiri	vařit	2,radiko
+danki	děkovat	2,radiko
+povi	moci	2,radiko
+ankaŭ	také	2,adverbo
+mal	opak	2,prefikso
+rigardi	dívat se	2,radiko
+okulo	oko	2,radiko
+vidi	vidět	2,radiko
+ke	že	2,konjunkcio
+ami	láska	2,radiko
+longa	dlouhý	3,radiko
+e	koncovka pro příslovce	3,finaĵo
+antaŭ	před	3,prepozicio
+ej	místo	3,sufikso
+post	po, za (místně i časově)	3,prepozicio
+ĝoja	radostný	3,radiko
+tra	přes, skrz	3,prepozicio
+strato	ulice	3,radiko
+tago	den	3,radiko
+kuko	koláč	3,radiko
+ni	my	3,pronomo
+manĝi	jíst	3,radiko
+diri	říct	3,radiko
+sufiĉa	dostatečný	3,radiko
+mono	peníze	3,radiko
+kompreni	rozumět	3,radiko
+ebl	možnost	3,sufikso
+cent	sto	3,cifero
+dolaro	dolar	3,radiko
+ho	oh	3,interjekcio
+riĉa	bohatý	3,radiko
+kelnero	číšník	3,radiko
+porti	nést	3,radiko
+multa	mnoho	3,radiko
+nova	nová	3,radiko
+serĉi	hledat	3,radiko
+unu	jedna	3,cifero
+loko	místo	3,radiko
+alia	jiný	3,radiko
+vizaĝo	obličej	3,radiko
+fini	ukončit	3,radiko
+per	pomocí, (7. pád)	3,prepozicio
+forta	silný	3,radiko
+voĉo	hlas	3,radiko
+okazi	stát se	3,radiko
+scii	znát	3,radiko
+letero	dopis	4,radiko
+vera	pravda	4,radiko
+foto	foto	4,radiko
+kiam	kdy, když	4,tabelvorto
+re	znovu, opakování	4,prefikso
+el	z, ze	4,prepozicio
+rapida	rychle	4,radiko
+tie	tam	4,tabelvorto
+stari	stát	4,radiko
+Vera	Věra	4,nomo
+mano	ruka	4,radiko
+koleri	vztek	4,radiko
+iĝ	stát se	4,sufikso
+ruĝa	červená	4,radiko
+fali	padat	4,radiko
+pardoni	odpustit	4,radiko
+doni	dát	4,radiko
+ricevi	dostat	4,radiko
+leciono	lekce	4,radiko
+plu	dále, více	4,adverbo
+os	koncovka pro sloveso v budoucím čase	4,finaĵo
+devi	muset	4,radiko
+fermi	zavřít	4,radiko
+pordo	dveře	4,radiko
+sinjoro	gentleman, Pan.	5,radiko
+vendi	prodat	5,radiko
+aŭto	auto	5,radiko
+kiu	kdo, který	5,tabelvorto
+plaĉi	líbit se	5,radiko
+demandi	požádat	5,radiko
+plej	nej (3. stupeň přídavných jmen)	5,adverbo
+tiu	ten	5,tabelvorto
+ĉi	(vyjádření blízkosti)	5,partikulo
+ĉiu	každý, veškerý	5,tabelvorto
+pli	víc (2. stupeň přídavných jmen)	5,adverbo
+ol	než	5,konjunkcio
+tre	velmi	5,adverbo
+certa	jistý	5,radiko
+kosti	stát (o ceně)	5,radiko
+bedaŭri	litovat	5,radiko
+ind	hodný (čeho)	5,sufikso
+aĉeti	koupit	5,radiko
+ĉar	protože, kvůli	5,konjunkcio
+veturi	cestovat	5,radiko
+dum	během	5,prepozicio
+tio	to	5,tabelvorto
+edzo	manžel	5,radiko
+Maja	Maja	6,nomo
+et	zmenšení	6,sufikso
+ul	přípona pro osobu, mající vlastnost obsaženou ve kmeni	6,sufikso
+tri	tři	6,cifero
+ig	udělat něco nějakým, způsobit	6,sufikso
+sana	zdravý	6,radiko
+alta	výška	6,radiko
+temperaturo	teplota	6,radiko
+resti	zůstat	6,radiko
+morgaŭ	zítra	6,adverbo
+voki	volat	6,radiko
+doktoro	doktor	6,radiko
+je	(neurčitá předložka)	6,prepozicio
+naŭ	devět	6,cifero
+horo	hodina	6,radiko
+por	pro, na, za (účelové)	6,prepozicio
+helpi	pomoct	6,radiko
+montri	ukázat	6,radiko
+piedo	noha	6,radiko
+vesti	obléct se	6,radiko
+ĉio	všechno	6,tabelvorto
+fine	nakonec	6,vorto
+semajno	týden	6,radiko
+sub	pod	6,prepozicio
+teo	čaj	6,radiko
+mateno	ráno	6,radiko
+vespero	večer	6,radiko
+deziri	toužit	6,radiko
+trankvila	klidný	6,radiko
+farti	cítit (se), mít se	6,radiko
+eg	zvětšení	6,sufikso
+Karlo	Karel	6,nomo
+hm	hm	6,interjekcio
+dormi	spát	7,radiko
+suno	slunce	7,radiko
+subita	náhle	7,radiko
+ek	začátek akce, náhlost	7,prefikso
+salti	skákat	7,radiko
+ĉiam	vždy	7,tabelvorto
+frua	brzy	7,radiko
+hodiaŭ	dnes	7,adverbo
+meti	položit	7,radiko
+aĵ	věc, konkrétní věc, projev	7,sufikso
+kuri	běžet	7,radiko
+laŭ	podle, podél	7,prepozicio
+homo	člověk	7,radiko
+kia	jaký	7,tabelvorto
+saĝa	moudře	7,radiko
+knabo	kluk	7,radiko
+baldaŭ	brzy	7,adverbo
+it	příčestí trpné minulé	7,participo
+nek	ani	7,konjunkcio
+pensi	myslet	7,radiko
+diablo	ďábel	7,radiko
+memori	pamamtovat	7,radiko
+dimanĉo	Neděle	7,radiko
+raporti	zpráva	8,radiko
+noto	známka, poznámka	8,radiko
+aĉ	zhoršená kvalita	8,sufikso
+kapo	hlava	8,radiko
+kiom	kolik	8,tabelvorto
+da	(předložka množství)	8,prepozicio
+ĉe	u, při	8,prepozicio
+ludi	hrát	8,radiko
+mem	sám, osobně	8,partikulo
+tiom	tolik	8,tabelvorto
+kvankam	ačkoli	8,konjunkcio
+tiam	tehdy	8,tabelvorto
+aŭdi	slyšet	8,radiko
+vorto	slovo	8,radiko
+tuj	hned	8,adverbo
+respondi	odpovědět	8,radiko
+kara	drahý (milý)	8,radiko
+problemo	problém	8,radiko
+pri	o	8,prepozicio
+muziko	hudba	8,radiko
+ridi	smát se	8,radiko
+tamen	nicméně, přesto, však	8,adverbo
+Petro	Petr	9,nomo
+Maria	Marie	9,nomo
+vojaĝi	cestovat, cestování	9,radiko
+lando	země	9,radiko
+libera	volný	9,radiko
+tempo	čas	9,radiko
+decidi	rozhodnout	9,radiko
+italio	Itálie	9,radiko
+urbo	město	9,radiko
+feliĉa	štěstí	9,radiko
+kie	kde	9,tabelvorto
+forgesi	zapomenout	9,radiko
+esperi	doufat	9,radiko
+us	koncovka pro podmiňovací způsob	9,finaĵo
+komenci	začít	9,radiko
+jam	již, už	9,adverbo
+vagono	vagon, vůz	9,radiko
+ar	vyšší celek	9,sufikso
+nenio	nic	9,tabelvorto
+sekreto	tajemství	9,radiko
+onklo	strýc	9,radiko
+Bonifacio	Bonifác	9,nomo
+plena	plný	9,radiko
+um	(používá se v různým významech)	9,sufikso
+sia	zvratné zájmeno	9,radiko
+uzi	použít	9,radiko
+domo	dům	9,radiko
+ad	trvání děje	9,sufikso
+atendi	čekat	9,radiko
+do	tedy	9,adverbo
+kial	proč	9,tabelvorto
+neniam	nikdy	9,tabelvorto
+kiel	jak	10,tabelvorto
+pasi	míjet	10,radiko
+naski	rodit	10,radiko
+kelka	nějaký, několik	10,radiko
+familio	rodina	10,radiko
+an	člen skupiny	10,sufikso
+iom	trochu	10,tabelvorto
+trovi	najít	10,radiko
+almenaŭ	alespoň	10,adverbo
+ordo	řádný, pořádný	10,radiko
+io	něco, cosi	10,tabelvorto
+manki	chybět	10,radiko
+lakto	mléko	10,radiko
+necesa	potřebovat	10,radiko
+anstataŭ	namísto	10,prepozicio
+intereso	zajímat se	10,radiko
+ekskurso	výlet	10,radiko
+klubo	klub	10,radiko
+ĵeti	hodit	10,radiko
+ia	nějaký, jakýsi	10,tabelvorto
+uj	nádoba, strom, stát	10,sufikso
+ĝusta	správně	10,radiko
+for	pryč	10,prefikso
+inter	mezi	10,prepozicio
+sama	stejně	10,radiko
+fojo	krát	10,radiko
+rajti	smět, mít právo	10,radiko
+proponi	nabídka	10,radiko
+du	dva	10,cifero
+parto	část	10,radiko
+sukceso	úspěch	10,radiko
+iu	někdo, kdosi	10,tabelvorto
+ideo	myšlenka, nápad	10,novaj
+tro	příliš	10,adverbo
+ec	vlastnost	10,sufikso
+reala	skutečný	10,radiko
+silento	tiše	10,radiko
+daŭri	pokračovat	10,radiko
+nu	na	10,interjekcio
+minuto	minuta	10,radiko
+telefono	telefon	10,radiko
+viziti	navštívit	10,radiko
+dolĉa	sladké	10,radiko
+atenti	dávat pozor	10,radiko
+dika	tlustý	10,radiko
+ŝanĝi	měnit	10,radiko
+opinii	názor	10,radiko
+sen	bez, beze	10,prepozicio
+sola	sám	10,radiko
+Veneci	Venécie	11,radiko
+Sankt-Mark	Svatý Marek	11,nomo
+placo	náměstí	11,radiko
+milito	válka	11,radiko
+maro	moře	11,radiko
+ŝipo	loď	11,radiko
+gondolo	gondola	11,radiko
+movi	pohyb	11,radiko
+mezo	střed	11,radiko
+proksima	blízko	11,radiko
+granda	velký	11,radiko
+oni	neurčité zájmeno	11,pronomo
+facila	jednoduchý	11,radiko
+lumo	světlo	11,radiko
+flanko	strana	11,radiko
+Stefan	Štefan	11,nomo
+krii	křičet	11,radiko
+turko	Turek	11,radiko
+renkonti	potkat	11,radiko
+sekvi	následovat	11,radiko
+Pietro	Petr	11,nomo
+koni	znát	11,radiko
+akvo	voda	11,radiko
+tiel	tak	11,tabelvorto
+Ĝorĝo	Jiří	11,nomo
+preni	vzít	11,radiko
+estro	vedoucí	11,sufikso
+preskaŭ	skoro, téměř	11,adverbo
+morti	zemřít	11,radiko
+grava	důležitý	11,radiko
+Ĝino	Gin	11,nomo
+halti	zastavit	11,radiko
+apud	vedle	11,prepozicio
+dek	deset	11,cifero
+jaro	rok	11,radiko
+koloro	barva	11,radiko
+Jakopo	Jakub	11,nomo
+tial	proto	11,tabelvorto
+timi	strach	11,radiko
+sendi	poslat	11,radiko
+doĝo	dóže	11,radiko
+bezoni	potřebovat	11,radiko
+pagi	platit	11,radiko
+er	část	11,sufikso
+afero	věc, záležitost	11,radiko
+se	když	11,konjunkcio
+pano	chléb	11,radiko
+Don Kamilo	Don Camillus	11,nomo
+ĝis	až k, až do	11,prepozicio
+S-ro	Pan - P.	12,mallongigo
+Pipelbom	Pipelbom	12,nomo
+peza	těžké	12,radiko
+larĝa	široký	12,radiko
+korpo	tělo	12,radiko
+aspekto	vypadat, vzhled	12,radiko
+rolo	role	12,radiko
+fakto	fakt	12,radiko
+respekti	respektovat	12,radiko
+kontenta	spokojený	12,radiko
+ofte	často	12,radiko
+utila	užitečný	12,radiko
+prezenti	představit	12,radiko
+ĝeni	obtěžovat	12,radiko
+nokto	noc	12,radiko
+arbo	strom	12,radiko
+ĉefo	šéf	12,radiko
+vojo	cesta	12,radiko
+ekster	mimo	12,prepozicio
+sovaĝa	divoký	12,radiko
+bruo	hluk	12,radiko
+krom	kromě, mimo	12,prepozicio
+tuŝi	dotýkat se	12,radiko
+naturo	příroda	12,radiko
+ĝenerali	obecný	12,radiko
+seki	suchý	12,radiko
+paŝi	krok	12,radiko
+vivi	žít	12,radiko
+dolori	bolest, bolet	12,radiko
+agrabla	příjemný	12,radiko
+ju	čím (ve vazbě čím ... tím)	12,partikulo
+kastelo	hrad	12,radiko
+des	tím (ve vazbě čím ... tím)	12,partikulo
+Adriano	Adriana	12,nomo
+viro	muž	12,radiko
+kapabla	schopný	12,radiko
+industrio	průmysl	12,radiko
+polico	policie	12,radiko
+persono	osoba	12,radiko
+simila	podobný	12,radiko
+lasta	poslední	12,radiko
+laŭta	hlasitý	12,radiko
+orelo	ucho	12,radiko
+momento	moment	12,radiko
+ambaŭ	oba	12,adverbo
+direkti	směr	12,radiko
+zorgi	starost	12,radiko
+situacio	situace	12,radiko
+branĉo	obor, větev	12,radiko
+rekta	přímý	12,radiko
+besto	zvíře	12,radiko
+promeni	procházet se	12,radiko
+kavo	jeskyně	12,radiko
+odoro	vůně	12,radiko
+preta	připraveno	12,radiko
+ajn	jakýkoliv, libovolný	12,partikulo
+efektiva	opravdu, skutečně	12,radiko
+miri	divit se	12,radiko
+koro	srdce	12,radiko
+ŝajni	zdát se	12,radiko
+supri	nad	12,radiko
+buŝo	ústa	12,radiko
+provi	zkusit	12,radiko
+kapti	chytit	12,radiko
+lampo	lampa	12,radiko
+paco	mír	12,radiko
+formo	forma	12,radiko
+teni	držet	12,radiko
+sono	znít	12,radiko
+aŭtoritato	autorita	12,radiko
+nuuuu	nuuuu	12,interjekcio
+eee	eee	12,interjekcio
+fuŝi	odbýt	12,radiko
+klara	jasný	12,radiko
+eĉ	ba i, dokonce	12,adverbo
+tono	tón	12,radiko
+ha	ha	12,interjekcio
+bieno	statek, země	12,radiko
+grafo	hrabě	12,radiko
+monto	hora	12,radiko
+kalva	plešatý	12,radiko
+inviti	pozvat	12,radiko
+peti	žádat	12,radiko
+teroro	teror	12,radiko
+kontroli	kontrolovat	12,radiko
+ĉirkaŭ	kolem, okolo, asi	12,prepozicio
+akcepti	přijmout	12,radiko
+perdi	ztratit	12,radiko

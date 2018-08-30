@@ -1,12 +1,12 @@
-- Vous apprendrez les **500 mots les plus importants**
-- **Pas d'inscription nécessaire** : Cliquez simplement sur *Démarrer*
-- **Optimisé** pour les mobiles
-- Pas uniquement gratuit, mais aussi **[libre d’être utilisé dans d’autres projets](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Vous alâds aprendre les **500 parôles les més emportantes**
+- **Gint d’enscripcion** : Clicâds solètament sur *Comencier*
+- **Optimisâ** pur los tèlèfonos
+- Pas solètament gratuit, mas adès **[libro d’être utilisâ diens d’âtros projèts](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-Le cours est composé de **12 leçons**, chacune contenant :
+Lo cors est composâ de **12 leçons**, chacuna contint :
 
-- un texte,
-- des explications grammaticales
-- et 3 exercices.
+- un tèxto,
+- d’èxplicacions gramaticales
+- et 3 exerciços.
 
-Après avoir suivi le cours, vous serez capable de comprendre les points les plus importants et de vous exprimer par vous-même en espéranto. L'essayer, c'est l'adopter !
+Après avêr fêt lo cors, vous serâds capablo de comprendre lo més importants et de vos exprimar tot solèt en espèranto. L'èprovar, y’est l’adoptar !

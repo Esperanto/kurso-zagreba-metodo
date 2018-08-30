@@ -5,8 +5,9 @@
 git stash
 git reset --hard
 git stash apply
-python generate.py
 export baselink=$1
+[ "x$baselink" == "x" ] && export baselink="https://esperanto.github.io/kurso-zagreba-metodo/" && echo "No baselink given as parameter, using $baselink"
+python generate.py
 for file in `find html/output/ -name \*.html`; do sed -i -r "s@src=\"/@src=\"$baselink@g" $file ; done 
 for file in `find html/output/ -name \*.html`; do sed -i -r "s@href=\"/@href=\"$baselink@g" $file ; done 
 cp -r projects/PWA/Images html/output/images

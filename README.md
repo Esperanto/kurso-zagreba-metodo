@@ -12,7 +12,7 @@ Tiel oni facile kaj rapide povos krei eldonaĵojn de la kurso en HTML, EPUB, PDF
 
 ## Eksperimenta PWA-subteno
 
-- https://esperanto.github.io/kurso-zagreba-metodo/ - En Android, aperas sugesto instali la aplikaĵon, en aliaj platformoj eblas instali ĝin per la opcio en la menuo en Chrome.
+- https://esperanto.github.io/kurso-zagreba-metodo/ - En Android, aperas sugesto instali la aplikaĵon, en aliaj platformoj eblas instali ĝin per la opcio en la menuo en Chrome. Sendepende de tia instalado, la paĝaro ebligas uzi la paĝojn eksterrete post unuafoja vizitado.
 
 ## Permesiloj
 

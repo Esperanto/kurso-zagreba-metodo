@@ -1,0 +1,122 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Esperanto in 12 days",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://learn.esperanto.com/",
+    "short_name": "Esperanto",
+    "theme_color": "transparent",
+    "description": "The fastest course for the basics",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [
+        {
+            "platform": "play",
+            "url": "https://play.google.com/store/apps/details?id=com.esperanto.learn",
+            "id": "com.esperanto.learn"
+        }
+    ],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/images/371c289f-a1ed-386d-928a-4b78331cde06.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/10b54c37-f94c-73e5-4191-4bd8cfb3cb7f.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3d4a6bb4-661e-2d3d-9ab1-862baca7df01.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a779910c-93e7-f812-6fc1-e04b8d011b20.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/87ade378-3322-524e-5eac-576371e2a31c.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/90dea89d-b89b-b149-9cf0-9ee1deb90dbb.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6fc9cce9-2566-a808-1205-199afb907c54.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6e0aa8f7-5b9b-1320-336a-f02d03e29c88.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0e701d9e-0db8-e9e9-f8a3-83d97fdd80fb.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ecbc30ce-3901-d33d-412d-10551879846f.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ffaf236b-78f4-b853-b310-caf359e3564e.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/54acc257-e58c-e0ba-fa8e-c327195072cb.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/016e1e74-b137-aa74-b115-637511681405.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e55a1f87-b5c0-1152-dd81-82309985004c.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/efd9b4ab-8eab-a00a-68d9-375ae973c0c3.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/81dd2cae-8af0-1525-a606-5e18d9b3835a.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f0cb08b5-ede8-000f-4ccc-b922669446cc.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6e8203d3-7a3c-5ee5-311a-693557ec470f.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/74af6ed0-966f-328c-25aa-a2b6887d08ca.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}

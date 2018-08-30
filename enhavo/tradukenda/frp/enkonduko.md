@@ -1,9 +1,9 @@
-- Vous alâds aprendre les **500 parôles les més emportantes**
-- **Gint d’enscripcion** : Clicâds solètament sur *Comencier*
+- Vos alâds aprendre les **500 parôles les més emportantes**
+- **Gint d’enscripcion** : Clicâds solètament sur *Comenciér*
 - **Optimisâ** pur los tèlèfonos
 - Pas solètament gratuit, mas adès **[libro d’être utilisâ diens d’âtros projèts](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-Lo cors est composâ de **12 leçons**, chacuna contint :
+Lo cors est composâ de **12 leçons**, chârc’una contint :
 
 - un tèxto,
 - d’èxplicacions gramaticales

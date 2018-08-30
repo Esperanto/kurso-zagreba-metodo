@@ -8,7 +8,7 @@ Tiel oni facile kaj rapide povos krei eldonaĵojn de la kurso en HTML, EPUB, PDF
 
 ## Demonstraĵo
 
-- http://learn.esperanto.com/
+- https://learn.esperanto.com/
 
 ## Eksperimenta PWA-subteno
 

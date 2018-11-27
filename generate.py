@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# encoding=utf8  
 
 import yaml
 import jinja2
@@ -9,6 +9,8 @@ import os
 import sys
 import argparse
 
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 def transpose_headlines(markdown, level):
     prefix = ''

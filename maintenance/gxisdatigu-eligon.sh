@@ -20,7 +20,7 @@ then
 	exit 
 fi
 
-for l in ar ca cs de en es fa fr frp he hr hu id it kk km ko lo ms my nl pl pt ru sk sl sv th tr uk ur vi zh zh-tw
+for l in ar ca cs da de en es fa fr frp he hr hu id it kk km ko lo ms my nl pl pt ru sk sl sv th tr uk ur vi zh zh-tw
 do
 	python2 generate.py -l $l
 done

@@ -9,8 +9,6 @@ import os
 import sys
 import argparse
 
-# Eble riparu denove:
-# https://stackoverflow.com/a/35444608/52023
 reload(sys)
 sys.setdefaultencoding('utf8')
 

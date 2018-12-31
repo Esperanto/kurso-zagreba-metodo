@@ -1,12 +1,21 @@
 - sinjorino: 
   - pani
   - dáma
-- malmultekosta: lacný
-- ĉiutaga: každodenný
+- malmultekosta: 
+  - lacný
+  - lacná
+  - lacné
+- ĉiutaga: 
+  - každodenný
+  - každodenná
+  - každodenné
 - intertempe: 
   - medzičasom
   - medzitým
-- plenplena: preplnený
+- plenplena: 
+  - preplnený
+  - preplnená
+  - preplnené
 - nuntempe: 
   - nateraz
   - v prítomnosti

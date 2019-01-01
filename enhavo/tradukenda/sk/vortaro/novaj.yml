@@ -29,7 +29,10 @@ sia: svoj
 simpl: jednoducho
 terur: hrôza
 tut: celý
-universal: univerzálny
+universal: 
+- univerzálny
+- všeobecný
+- všesvetový
 rilat: vzťah
 sat: sýty
 ag: skutok

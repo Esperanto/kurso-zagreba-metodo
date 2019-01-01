@@ -41,7 +41,9 @@ post:
 - po
 - za (miestne aj časovo)
 pri: o
-pro: kvôli
+pro: 
+- kvôli
+- pre
 sen:
 - bez
 - bezo

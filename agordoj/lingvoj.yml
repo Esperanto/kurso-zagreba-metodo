@@ -309,6 +309,15 @@ sv:
       github: AntoniaMontaro
     - nomo: Charlotte Scherping Larsson
       github: DuoNem
+sw:
+  nomo:
+    fontlingve: Kiswahili
+    esperante: svahila
+  stato: testa
+  komentejo: 1
+  aŭtoroj:
+    - nomo: Leo de Cooman
+      github: GrizaLeono
 th:
   nomo:
     fontlingve: ภาษาไทย

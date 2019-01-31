@@ -41,12 +41,12 @@
     - ĉambro: اتاق
     - '?'
 - 
-  demando: آیا کتاب اسپرانتو بر روی میز شما است؟
+  demando: آیا کتاب آموزشی اسپرانتو بر روی میز شما است؟
   rektatraduko:
     - Ĉu: آیا
-    - Esperanto-lernolibro: کتاب اسپرانتو
+    - Esperanto-lernolibro: کتاب آموزشی اسپرانتو
     - estas: است
-    - sur: 'روی'
+    - sur: روی
     - via: شما 
     - tablo: میز
     - '?'

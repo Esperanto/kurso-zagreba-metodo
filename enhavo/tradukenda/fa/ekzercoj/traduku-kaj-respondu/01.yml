@@ -1,17 +1,17 @@
 - 
-  demando: دوست دختر شما چه کسی است؟
+  demando: دوست (مونث) شما چه کسی است؟
   rektatraduko:
     - Kiu: چه کسی
     - estas: است
     - via: شما
-    - amikino: دوست دختر
+    - amikino: (دوست (مونث
     - '?'
 - 
-  demando: آیا آنا دوست شما در حال نوشتن در اتاق است؟
+  demando: آیا آنا دوست (مونث) شما در حال نوشتن در اتاق است؟
   rektatraduko:
     - Ĉu: آیا
     - via: شما
-    - amikino: دوست
+    - amikino: (دوست (مونث
     - Anna: آنا
     - skribas: نوشتن
     - nun: در حال

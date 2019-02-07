@@ -9,7 +9,7 @@
 - 
   demando: Rafiki yako Anna ameandika sasa ndani ya chumba?
   rektatraduko:
-    - Ĉu:
+    - Ĉu: ''
     - via: yako
     - amikino: rafiki
     - Anna: Anna
@@ -22,8 +22,8 @@
 - 
   demando: Rafiki ya Baba yako anatumika ndani ya nyumba ya wageni?
   rektatraduko:
-    - Ĉu: 
-    - la: 
+    - Ĉu: ''
+    - la: ''
     - amiko: rafiki
     - de: ya
     - via: yako
@@ -47,7 +47,7 @@
 - 
   demando: "Kuna kitabu kimoja kya esperanto juu ya meza yako?"
   rektatraduko:
-    - Ĉu:
+    - Ĉu: ''
     - Esperanto-lernolibro: kitabu kimoja kya Esperanto
     - estas: kuna
     - sur: juu ya

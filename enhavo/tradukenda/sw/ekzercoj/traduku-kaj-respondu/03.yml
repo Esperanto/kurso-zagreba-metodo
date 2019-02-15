@@ -1,75 +1,75 @@
 -
-  demando: Est-ce que les serveurs dans les grands hôtels comprennent beaucoup de langues ? 
-  rektatraduko:  
-    - Ĉu: Est-ce que 
-    - kelneroj: serveurs
-    - en: dans
-    - grandaj: grands
-    - hoteloj: hôtels
-    - komprenas: comprennnent
-    - multajn: beaucoup de 
-    - lingvojn: langues
+  demando: es ? 
+  rektatraduko: Heti watuishi ndani ya vyumba vikubwa vya wageni wanasikia lugha nyingi ? 
+    - Ĉu: heti
+    - kelneroj: watumishi
+    - en: ya
+    - grandaj: vikubwa
+    - hoteloj: vyumba vya wageni
+    - komprenas: wanasikia
+    - multajn: nyingi 
+    - lingvojn: lugha
     - '?'
 -
-  demando: "Est-ce que tu sais si Anne aime la nouvelle chanson à propos d'un pauvre et d'une jolie fille ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - scias: sais
+  demando: 
+  rektatraduko: Heti wajua kama Anna anapenda nyimbo ya mupya juu ya maskini na kizuri ?
+    - Ĉu: Heti
+    - vi: una
+    - scias: jua
     - ','
-    - ĉu: si
-    - Anna: Anne 
-    - ŝatas: aime
-    - la: la
-    - novan: nouvelle
-    - kanton: chanson
-    - pri: à propos de
-    - malriĉulo: un pauvre
-    - kaj: et
-    - belulino: une jolie fille
+    - ĉu: ni
+    - Anna: Anna 
+    - ŝatas: anapenda
+    - la: 
+    - novan: mupya
+    - kanton: nyimbo
+    - pri: kuhusu
+    - malriĉulo: maskini moja
+    - kaj: na
+    - belulino: musichana moja
     - '?'
 -
-  demando: Où as-tu vu le vieux et le jeune qui portaient une grande table ?
+  demando: Wapi ulionaka mzee na kijana walibebaka  meza kubwa?
   rektatraduko: 
-    - Kie: Où
-    - vi: tu
-    - vidis: as vu
+    - Kie: Wapi
+    - vi: uli
+    - vidis: onaka
     - la: le
-    - maljunulon: vieux (vieil homme)
-    - kaj: et
+    - maljunulon: mzee wa baba
+    - kaj: na
     - la: le
-    - junulon: jeune (homme jeune)
+    - junulon: kijana
     - ','
-    - kiuj: qui
-    - portis: portaient
-    - grandan: grande
-    - tablon: table
+    - kiuj: waki
+    - portis: bebaka
+    - grandan: kubwa
+    - tablon: meza
     - '?'
 -
-  demando: "Comment c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?"
+  demando: Imefikaje ukue umekuja kwetu bila ndugu zako na dada zako?
   rektatraduko: 
-    - Kiel: Comment
-    - okazis: "c'est arrivé"
+    - Kiel: Je
+    - okazis: imefika
     - ','
-    - ke: que
-    - vi: tu
-    - denove: encore
-    - venis: "[tu] es venu"
-    - al: chez
-    - ni: nous
-    - sen: sans
-    - gefratoj: frères et soeurs ?
+    - ke: 
+    - vi: wewe
+    - denove: tena
+    - venis: kuja
+    - al: kwetu
+    - ni: 
+    - sen: bila
+    - gefratoj: kaka na dada
     - '?'
 -
   demando: "Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau livre de cours ?"
   rektatraduko: 
-    - Ĉu: Est-ce que 
-    - vi: tu
-    - povas: peux
-    - per: avec
-    - la: le 
-    - nova: nouveau
-    - lernolibro: livre de cours
+    - Ĉu: heti
+    - vi: una
+    - povas: weza
+    - per: pamoja
+    - la: na
+    - nova: mupya
+    - lernolibro: kitabu kya somo
     - sufiĉe: assez
     - rapide: rapidement
     - lerni: apprendre

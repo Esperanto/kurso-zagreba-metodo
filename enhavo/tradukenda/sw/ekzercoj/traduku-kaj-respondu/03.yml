@@ -61,7 +61,7 @@
     - gefratoj: kaka na dada
     - '?'
 -
-  demando: "Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau livre de cours ?"
+  demando: unaweza kusoma esperanto ndani ya kitabu kya haraka? heti unaweza jifunza esperanto haraka na kitabu kipya ?
   rektatraduko: 
     - Ĉu: heti
     - vi: una
@@ -70,8 +70,8 @@
     - la: na
     - nova: mupya
     - lernolibro: kitabu kya somo
-    - sufiĉe: assez
-    - rapide: rapidement
-    - lerni: apprendre
-    - Esperanton: "[l'] espéranto"
+    - sufiĉe: inatosha
+    - rapide: haraka
+    - lerni: kusoma
+    - Esperanton: esperanto
     - '?'

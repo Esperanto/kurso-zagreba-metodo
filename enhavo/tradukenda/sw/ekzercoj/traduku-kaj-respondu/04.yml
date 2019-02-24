@@ -1,73 +1,73 @@
 -
   demando: Nitakuonaka wakati gani?
   rektatraduko: 
-    - Kiam: Quand
-    - mi: je  
-    - revidos: reverrai
-    - vin: vous
+    - Kiam: wakati gani
+    - mi: mimi  
+    - revidos: nitaonaka
+    - vin: wewe
     - '?'
 -
   demando: Tangu wakati gani unajifunza lugha ya kigeni?
   rektatraduko: 
-    - Kiel: Combien
-    - longe: longtemps
-    - vi: vous
-    - lernas: apprenez
-    - la: la 
-    - Internacian: internationale
-    - Lingvon: langue
+    - Kiel: ngapi
+    - longe: zamani
+    - vi: wewe
+    - lernas: jifunza
+    - 'la'  
+    - Internacian: kigeni
+    - Lingvon: lugha
     - '?'
 -
   demando: kitabu kyangu kya ma picha kiko wapi?
   rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - mia: mon
-    - nova: nouveau
-    - libro: livre
-    - kun: avec
-    - fotoj: des photos
+    - Kie: wapi
+    - estas: iko
+    - mia: yangu
+    - nova: mupya
+    - libro: kitabu
+    - kun: pamoja na
+    - fotoj: ma picha
     - '?'
 -
   demando: Utaenda wapi kiisha kula asubui?
   rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
+    - Kien: wapi
+    - vi: wewe
+    - iros: endaka
+    - post: kiisha
+    - 'la'
+    - tagmanĝo: kula asubui
     - '?'
 -
   demando: Heti chumba kinaweza fungwa wakati wa baridi?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - oni: "on"
-    - povas: peut
-    - fermi: fermer
-    - la: la
-    - pordon: porte
-    - de: de 
-    - la: la
-    - ĉambro: chambre
+    - Ĉu: heti
+    - 'oni'
+    - povas: weza
+    - fermi: funga
+    - 'la'
+    - pordon: mlango
+    - de: ya 
+    - 'la'
+    - ĉambro: chumba
     - ','
-    - kiam: quand
-    - estas: il fait
-    - malvarme: froid
+    - kiam: wakati 
+    - estas: kuko
+    - malvarme: baridi
     - '?'
 -
   demando: Unabaki muda gani na kasirani wakati wanaku nyanganya pesa nyingi?
   rektatraduko: 
-    - Kiel: Combien
-    - longe: de temps
-    - vi: vous
-    - koleras: êtes en colère
+    - Kiel: ngapi
+    - longe: zamani
+    - vi: wewe
+    - koleras: kua na kasirani
     - ','
-    - se: si
-    - oni: "on"
-    - forprenas: emporte
+    - se: kama
+    - 'oni'
+    - forprenas: kubeba
     - de: de
-    - vi: vous
-    - multan: beaucoup 
-    - monon: argent
+    - vi: wewe
+    - multan: mingi
+    - monon: pesa
     - '?'

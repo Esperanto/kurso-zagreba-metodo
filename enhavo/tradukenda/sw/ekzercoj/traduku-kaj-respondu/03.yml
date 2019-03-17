@@ -1,26 +1,26 @@
 -
-  demando: es ? 
-  rektatraduko: Heti watuishi ndani ya vyumba vikubwa vya wageni wanasikia lugha nyingi ? 
+  demando: Heti watuishi ndani ya vyumba vikubwa vya wageni wanasikia lugha nyingi ?
+  rektatraduko:
     - Ĉu: heti
     - kelneroj: watumishi
     - en: ya
     - grandaj: vikubwa
     - hoteloj: vyumba vya wageni
     - komprenas: wanasikia
-    - multajn: nyingi 
+    - multajn: nyingi
     - lingvojn: lugha
     - '?'
 -
-  demando: 
-  rektatraduko: Heti wajua kama Anna anapenda nyimbo ya mupya juu ya maskini na kizuri ?
+  demando: Heti wajua kama Anna anapenda nyimbo ya mupya juu ya maskini na kizuri ?
+  rektatraduko:
     - Ĉu: Heti
     - vi: una
     - scias: jua
     - ','
     - ĉu: ni
-    - Anna: Anna 
+    - Anna: Anna
     - ŝatas: anapenda
-    - la: 
+    - la: ''
     - novan: mupya
     - kanton: nyimbo
     - pri: kuhusu
@@ -30,7 +30,7 @@
     - '?'
 -
   demando: Wapi ulionaka mzee na kijana walibebaka  meza kubwa?
-  rektatraduko: 
+  rektatraduko:
     - Kie: Wapi
     - vi: uli
     - vidis: onaka
@@ -47,22 +47,22 @@
     - '?'
 -
   demando: Imefikaje ukue umekuja kwetu bila ndugu zako na dada zako?
-  rektatraduko: 
+  rektatraduko:
     - Kiel: Je
     - okazis: imefika
     - ','
-    - ke: 
+    - ke: ''
     - vi: wewe
     - denove: tena
     - venis: kuja
     - al: kwetu
-    - ni: 
+    - ni: ''
     - sen: bila
     - gefratoj: kaka na dada
     - '?'
 -
   demando: Heti unaweza kusoma esperanto ndani ya kitabu kya haraka?
-  rektatraduko: 
+  rektatraduko:
     - Ĉu: heti
     - vi: una
     - povas: weza

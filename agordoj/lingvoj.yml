@@ -159,10 +159,12 @@ id:
   nomo:
     fontlingve: Bahasa Indonesia
     esperante: indonezia
-  stato: testa
+  stato: preta
   aŭtoroj:
     - nomo: Sesti Kusmayati
       github: tayamsukit
+    - nomo: Onklo ENG
+      github: onklo
 it:
   nomo:
     fontlingve: Italiano

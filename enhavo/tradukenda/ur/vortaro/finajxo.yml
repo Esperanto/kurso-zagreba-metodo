@@ -1,11 +1,11 @@
-a:  Adjective
-e:  Adverb
-i:  Infinitive
-n:  Accusative case
-o:  Noun
-j:  Plural
-u:  Imperative verb 
-is: Verb in past tense
-as: Verb in present tense
-os: Verb in future tense
-us: Verb in conditional tense
+a:  اسم صفت
+e:  متعلق فعل
+i:  مصدر
+n:  اسم منصوب
+o:  اسم
+j:  اسم جمع
+u:  فعل امر
+is: فعل ماضی کی علامت
+as: فعل حال کی علامت
+os: فعل مستقبل کی علامت
+us: شرطیہ فعل کی علامت

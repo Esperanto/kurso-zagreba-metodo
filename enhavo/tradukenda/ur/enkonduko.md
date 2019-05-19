@@ -1,6 +1,6 @@
 - **آپ اس کورس کے ذریعے 500 پانچ سو اہم ترین الفاظ سیکھ سکیں گے**  
 - **آپ کو کسی اندراج کی ضرورت نہیں، صرف 'شروع کریں' پر کلک کریں**
-- **mobile-optimized** for smartphones
+- اسمارٹ فونز استعمال کرنے والوں کے لیے بھی سیپ تیار کی گئی ہے
 - not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
   یہ کورس بارہ 12 اسباق پر مشتمل ہے، ہر سبق میں موجود ہیں

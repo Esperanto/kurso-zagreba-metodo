@@ -1,5 +1,5 @@
-- **اہم ترین 500 پانچ سو الفاظ**  
-- **No registration needed**: Just click *Start*
+- **اس کورس کے ذریعے اہم ترین 500 پانچ سو الفاظ سیکھیں**  
+- **کسی اندراج کی ضرورت نہیں، صرف *شروع کریں* پر کلک کریں**
 - **mobile-optimized** for smartphones
 - not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
 

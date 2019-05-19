@@ -1,12 +1,13 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+ - このエスペラントのコースは、500語レベルの初級講座です。
 
-The course consists of **12 lessons**, each with
+ - **登録や登録が必要ありません。**クリックしてすぐに*開始*してください。
+ - **スマートフォンに最適化され**簡単に活用することができます。
+ - 無料であるだけでなく、**[他のプロジェクトにも活用]（https://github.com/Esperanto/kurso-zagreba-metodo）**することができます。
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+このコースは、**12と**とされており、それぞれは次のように構成されます。
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+ - テキスト本文
+ - 文法説明
+ - 3種類の練習問題です。
+
+このコースを完全に習得した後には、かなりのレベルの理解と表現力を得るでしょう。すぐに始めてみてください！

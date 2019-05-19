@@ -3,7 +3,7 @@
 - **mobile-optimized** for smartphones
 - not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
- یہ کورس بارہ 12 اسباق پر مشتمل ہے، ہر سبق میں موجود ہے
+  یہ کورس بارہ 12 اسباق پر مشتمل ہے، ہر سبق میں موجود ہیں
 
 - متن
 - گرامر کی تفصیل

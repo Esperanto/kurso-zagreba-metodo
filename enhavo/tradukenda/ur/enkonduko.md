@@ -1,4 +1,4 @@
-- Teaches you the **most important 500 words**
+- **اہم ترین 500 پانچ سو الفاظ**  
 - **No registration needed**: Just click *Start*
 - **mobile-optimized** for smartphones
 - not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**

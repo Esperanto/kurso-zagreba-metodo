@@ -1,5 +1,5 @@
 - **آپ اس کورس کے ذریعے 500 پانچ سو اہم ترین الفاظ سیکھ سکیں گے**  
-- **کسی اندراج کی ضرورت نہیں، صرف 'شروع کریں' پر کلک کریں**
+- **آپ کو کسی اندراج کی ضرورت نہیں، صرف 'شروع کریں' پر کلک کریں**
 - **mobile-optimized** for smartphones
 - not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
@@ -9,4 +9,5 @@
 - گرامر کی تفصیل
 - اور تین 3 مشقیں
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+یہ کورس ختم کرنے کے بعد آپ اہم ترین ترین چیزیں سمجھنے اور اپنے اظہار کے لیے جملے بنانے کے قابل ہو جائیں گے۔
+دیر کس بات کی، ابھی شروع کریں!

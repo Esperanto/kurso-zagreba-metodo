@@ -1,27 +1,81 @@
-unu: one
-du: two
-tri: three
-kvar: four
-kvin: five
-ses: six
-sep: seven
-ok: eight
-naŭ: nine
-dek: ten
-dek unu: eleven
-dek du: twelve
-dek tri: thirteen
-dek kvar: fourteen
-dek kvin: fiveteen 
-dek ses: sixteen 
-dek sep: seventeen
-dek ok: eightteen
-dek naŭ: nineteen
-dudek: twenty
-tridek: thirty
-kvardek: fourty
-cent: hundred
-ducent: two hundred
-tricent: three hundred
-mil: thousand
-dumil: two thousand
+unu:
+  - 하나
+  - 일(1)
+du:
+  - 둘
+  - 이(2)
+tri:
+  - 셋
+  - 삼(3)
+kvar:
+  - 넷
+  - 사(4)
+kvin:
+  - 다섯
+  - 오(5)
+ses:
+  - 여섯
+  - 육(6)
+sep:
+  - 일곱
+  - 칠(7)
+ok:
+  - 여덟
+  - 팔(8)
+naŭ:
+  - 아홉
+  - 구(9)
+dek:
+  - 열
+  - 십(10)
+dek unu:
+  - 열하나
+  - 11
+dek du:
+  - 열둘
+  - 12
+dek tri:
+  - 열셋
+  - 13
+dek kvar:
+  - 열넷
+  - 14
+dek kvin:
+  - 열다섯
+  - 15
+dek ses:
+  - 열여섯
+  - 16
+dek sep:
+  - 열일곱
+  - 17
+dek ok:
+  - 열여덟
+  - 18
+dek naŭ:
+  - 열아홉
+  - 19
+dudek:
+  - 스물
+  - 20
+tridek:
+  - 서른
+  - 30
+kvardek:
+  - 마흔
+  - 40
+cent:
+  - 백
+  - 100
+ducent:
+  - 이백
+  - 200
+tricent:
+  - 삼백
+  - 300
+mil:
+  - 천
+  - 1,000
+dumil:
+  - 이천
+  - 2,000

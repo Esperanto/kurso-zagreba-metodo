@@ -182,6 +182,7 @@ ja:
   stato: testa
   aŭtoroj:
     - nomo: Nomota Hiongun KIM
+      github: nomota
 kk:
   nomo:
     fontlingve: Қазақша
@@ -206,6 +207,8 @@ ko:
   aŭtoroj:
     - nomo: Huiyun Seo
       github: jasmena
+    - nomo: Nomota Hiongun KIM
+      github: nomota
 lo:
   nomo:
     fontlingve: ລາວ

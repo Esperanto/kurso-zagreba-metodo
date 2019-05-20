@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: "당신의 옛 집은 어떻하였는가?"
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: '어떤 (어떠한)'
+    - estis: ...이었다
+    - via: 당신의
+    - malnova: '옛 (오래된)'
+    - hejmo: '집 (가정)'
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: "어느 책들을 읽었는가, 그리고 그것들이 좋았는가?"
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: "어느 (복수 목적격)"
+    - librojn: "책들을 (복수 목적격)"
+    - vi: 당신은
+    - legis: 읽었다
+    - kaj: 그리고
+    - ĉu: ...한가?
+    - ili: 그것들이
+    - estas: ...이다
+    - bonaj: 좋은
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: "Anna와 Mark가 Mark의 그 작은 방에서 무엇을 했는가?"
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kion: "무엇을 (목적격)"
+    - faris: 했다
     - Anna: Anna
-    - kaj: and
+    - kaj: 와
     - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
+    - en: 안에서
+    - la: (그)
+    - malgranda: 작은
+    - ĉambro: 방
+    - de: ~의
     - Marko: Mark
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: "당신은 사랑에 대한 책들을 읽기 좋아하는가?"
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: ..한가?
+    - vi: 당신은
+    - ŝatas: 좋아하다
+    - legi: 읽기를
+    - librojn: 책들을 (복수 목적격)
+    - pri: ...에 대한
+    - amo: 사랑
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: "누가 당신과 함께 당신의 집으로 갈 것입니까?"
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: 누가
+    - iros: 갈 것이다
+    - kun: ...와 함께
+    - vi: 당신
+    - al: ..로
+    - via: 당신의
+    - hejmo: "집 (가정)"
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "당신의 여자친구의 눈이 어떻습니까?"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
+    - Kiaj: "어떠한가 (복수형)"
+    - estas: ...이다
+    - la: (그)
+    - okuloj: 눈들 (복수형)
+    - de: ...의
+    - via: 당신의
     - amikino: girl-friend
     - '?'

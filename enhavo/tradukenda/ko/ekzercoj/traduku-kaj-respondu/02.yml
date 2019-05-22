@@ -1,29 +1,29 @@
 - 
   demando: "당신의 옛 집은 어떻하였는가?"
   rektatraduko: 
-    - Kia: '어떤 (어떠한)'
-    - estis: ...이었다
+    - Kia: 어떠한
+    - estis: ~이었다
     - via: 당신의
-    - malnova: '옛 (오래된)'
+    - malnova: 오래된
     - hejmo: '집 (가정)'
     - '?'
 - 
   demando: "어느 책들을 읽었는가, 그리고 그것들이 좋았는가?"
   rektatraduko: 
-    - Kiujn: "어느 (복수 목적격)"
-    - librojn: "책들을 (복수 목적격)"
+    - Kiujn: 어느
+    - librojn: 책들을
     - vi: 당신은
     - legis: 읽었다
     - kaj: 그리고
-    - ĉu: ...한가?
+    - ĉu: ~한가?
     - ili: 그것들이
-    - estas: ...이다
+    - estas: ~이다
     - bonaj: 좋은
     - '?'
 - 
   demando: "Anna와 Mark가 Mark의 그 작은 방에서 무엇을 했는가?"
   rektatraduko:
-    - Kion: "무엇을 (목적격)"
+    - Kion: 무엇을
     - faris: 했다
     - Anna: Anna
     - kaj: 와
@@ -38,12 +38,12 @@
 - 
   demando: "당신은 사랑에 대한 책들을 읽기 좋아하는가?"
   rektatraduko: 
-    - Ĉu: ..한가?
+    - Ĉu: ~한가?
     - vi: 당신은
     - ŝatas: 좋아하다
     - legi: 읽기를
-    - librojn: 책들을 (복수 목적격)
-    - pri: ...에 대한
+    - librojn: 책들을
+    - pri: ~에 대한
     - amo: 사랑
     - '?'
 - 
@@ -51,20 +51,20 @@
   rektatraduko: 
     - Kiu: 누가
     - iros: 갈 것이다
-    - kun: ...와 함께
+    - kun: ~와 함께
     - vi: 당신
-    - al: ..로
+    - al: ~로
     - via: 당신의
     - hejmo: "집 (가정)"
     - '?'
 - 
   demando: "당신의 여자친구의 눈이 어떻습니까?"
   rektatraduko: 
-    - Kiaj: "어떠한가 (복수형)"
-    - estas: ...이다
+    - Kiaj: 어떠한가
+    - estas: ~이다
     - la: (그)
-    - okuloj: 눈들 (복수형)
-    - de: ...의
+    - okuloj: 눈들
+    - de: ~의
     - via: 당신의
     - amikino: girl-friend
     - '?'

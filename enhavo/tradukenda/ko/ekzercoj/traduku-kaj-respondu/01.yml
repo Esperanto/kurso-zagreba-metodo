@@ -2,14 +2,14 @@
   demando: 누가 당신의 여자친구인가?
   rektatraduko:
     - Kiu: 누구
-    - estas: ...이다
+    - estas: ~이다
     - via: 당신의
     - amikino: 여자친구
     - '?'
 - 
   demando: 당신의 친구 Anna는 지금 방에서 (글을) 쓰고 있습니까?
   rektatraduko:
-    - Ĉu: ...인가?
+    - Ĉu: ~인가?
     - via: 당신의
     - amikino: 여자친구
     - Anna: Anna
@@ -22,10 +22,10 @@
 - 
   demando: 당신의 아버지의 그 친구가 호텔에서 일하고 있습니까?
   rektatraduko:
-    - Ĉu: ...인가?
+    - Ĉu: ~인가?
     - la: 그
     - amiko: 친구
-    - de: ...의
+    - de: ~의
     - via: 당신의
     - patro: 아버지
     - laboras: 일하고 있다
@@ -36,8 +36,8 @@
   demando: 무엇이 우리 방안의 작업용 탁자 위에 있는가?
   rektatraduko:
     - Kio: 무엇
-    - estas: ...이 있다
-    - sur: ... 위에
+    - estas: ~이 있다
+    - sur: ~ 위에
     - la: 그
     - labortablo: 작업용 탁자
     - en: 안에
@@ -47,10 +47,10 @@
 - 
   demando: 당신의 테이블 위에 에스페란토 교과서가 있습니까?
   rektatraduko:
-    - Ĉu: ...인가?
+    - Ĉu: ~인가?
     - Esperanto-lernolibro: 에스페란토 학습서
-    - estas: ...이 있다
-    - sur: ... 위에
+    - estas: ~이 있다
+    - sur: ~ 위에
     - via: 당신의
     - tablo: 테이블
     - '?'

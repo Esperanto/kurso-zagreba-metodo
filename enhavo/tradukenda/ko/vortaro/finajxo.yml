@@ -1,11 +1,11 @@
-a:  Adjective
-e:  Adverb
-i:  Infinitive
-n:  Accusative case
-o:  Noun
-j:  Plural
-u:  Imperative verb 
-is: Verb in past tense
-as: Verb in present tense
-os: Verb in future tense
+a:  형용사형
+e:  부사형
+i:  기본형
+n:  목적격
+o:  명사형
+j:  복수형
+u:  명령형 
+is: 과거형
+as: 현재형
+os: 미래형
 us: Verb in conditional tense

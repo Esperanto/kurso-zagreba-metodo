@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: 당신은 내가 당신에게 나의 가장 새로운 책을 보여주기를 바랩니까?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: ~인가?
+    - vi: 당신은
+    - deziras: ~를 바라다
     - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: (문장접속사)~하는 것
+    - mi: 나
+    - montru: 보여주라
+    - al: ~에게
+    - vi: 당신
+    - mian: 나의(목적격)
+    - plej: 가장
+    - novan: 새로운(목적격)
+    - libron: 책을
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: 내일 아침식사로 무엇을 먹고 싶은가요?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: 무엇을
+    - vi: 당신은
+    - volas: 원한다
+    - morgaŭ: 내일
+    - matenmanĝi: 아침식사를 하다
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: "언제 마르코가 도착할까요? 5시에 아니면 8시에?"
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: 언제
+    - Marko: 마르코(Mark)
+    - alvenos: 도착할 것이다
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: ~에
+    - la: (그)
+    - kvina: 5번쨰
+    - aŭ: 또는
+    - je: ~에
+    - la: (그)
+    - oka: 8번째
+    - horo: 시간
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: 당신은 언제 알아챘나요? 전체 가족이 나를 후원자라고 부르는 것을.
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: 언제
+    - vi: 당신은
+    - rimarkis: 알아챘다
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: ~라는 것을
+    - la: (그)
+    - tuta: 전체
+    - familio: 가족이
+    - nomas: (이름하여)부른다
+    - min: 나를
+    - bonfarulo: 후원자
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: 내가 보낸 그 소책자가 당신에게 도움이 되었나요?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: ~인가
+    - la: (그)
+    - libreto: 소책자
+    - estis: ~이었다
+    - utila: 유용한
+    - al: ~에게
+    - vi: 당신
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: 그것을
+    - mi: 내가
+    - sendis: 보냈다
     - '?'

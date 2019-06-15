@@ -1,58 +1,61 @@
 al: 
-- to
-- in the direction of
-anstataŭ: instead of
+  - ~ 까지
+  - ~의 방향으로
+anstataŭ: ~ 대신에
 antaŭ:
-- before
-- in front of
-apud: next to
-da: of
+  - ~ 이전에 (시간)
+  - ~ 앞에 (공간)
+apud: ~의 곁에
+da: ~한 수량의
 de:
-- of
-- from
-dum: during
-ekde: since
-ekster: outside of
+  - ~ 의
+  - ~ 로 부터
+  - ~ 에 의해서
+dum: ~ 동안
+ekde: ~ 로 부터
+ekster: ~의 바깥에
 el:
-- from
-- out of
-en: in
+  - ~로 부터
+  - ~ 중에서
+en: ~안에
 inter: 
-- between
-- among
+  - ~ 사이에
+  - ~ 중에
 je:
-- of
-- with
-- in
+  - ~에
+  - ~로
 kontraŭ: 
-- against
+  - ~에 대항하여
+  - ~와 반대로
 krom: 
-- besides
-- in addition to
+  - ~ 이외에
+  - ~ 뿐만 아니라
 kun: 
-- with
+  - ~와 함께
 laŭ: 
-- according to
-- along
+  - ~에 따라서
 per: 
-- by means of
-- with
-por: for
-post: after
+  - ~로
+  - ~를 수단으로
+por: ~를 위해서
+post: ~ 다음에
 pri:
-- about
-- concerning
-pro: because of
-sen: without
+  - ~에 대한
+  - ~에 관한
+pro: ~ 때문에
+sen: ~ 없이
 sub:
-- under
-- beneath
+  - ~아래에
 super: 
-- over
-- above
-sur: 'on'
-tra: through
-trans: across
-ĉe: at
-ĉirkaŭ: around
-ĝis: until
+  - ~위에
+sur: ~의 표면 위에
+tra:
+  - ~를 통하여
+  - ~를 관통하여
+trans: ~를 가로질러
+ĉe: ~에
+ĉirkaŭ: ~ 주변에
+ĝis:
+  - ~ 까지
+  - ~ 이전까지
+  

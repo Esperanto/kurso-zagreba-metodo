@@ -63,7 +63,7 @@
     - ekiris: 떠나갔다
     - '?'
 - 
-  demando: 당신이 직접 떠온 그 물이 어디에 있나요?
+  demando: 당신이 직접  그 물이 어디에 있나요?
   rektatraduko: 
     - Kie: 어디에
     - estas: 있다
@@ -73,5 +73,5 @@
     - kiun: ~했던 그것을
     - vi: 당신이
     - mem: 직접
-    - kunportis: 가져왔다 (떠온)
+    - kunportis: 가져왔다
     - '?'

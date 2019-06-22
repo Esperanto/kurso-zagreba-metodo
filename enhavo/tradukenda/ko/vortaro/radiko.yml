@@ -1,317 +1,396 @@
-afer: matter
-agrabl: pleasant
-akcept: accept
-akv: water
-ali: another
-alt: high
-am: love
+afer: 
+  - 사건
+  - 일
+  - 사무
+agrabl: 유쾌한
+akcept: 받아 들이다
+akv: 물
+ali: 다른
+alt: 높은
+am: 사랑
 amas:
-- mass
-- crowd
-amik: friend
-arb: tree
+  - 군중
+  - 대중
+amik: 친구
+arb: 나무
 aspekt:
-- look
-- seem
-atend: to wait
-atent: pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
+  - ~한 외양이다
+  - ~한 표정이다
+atend: 기다리다
+atent: 주의하다
+aĉet: 사다
+aŭd: 듣다
+aŭt: 자동차
+aŭtoritat: 권위
+bedaŭr: 애석하게 여기다
+bel: 아름다운
+best: 동물
+bezon: 필요하다
 bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: must
-dezir: to wish
-diabl: devil
+  - 땅
+  - 토지
+  - 농장지
+bon: 좋은
+branĉ: 가지
+bru: 소음
+buŝ: 입
+cert: 확실한
+dank: 감사하다
+daŭr: 지속하다
+decid: 결정하다
+demand: 묻다
+dev: 해야한다
+dezir: 
+  - 바라다
+  - 욕망하다
+diabl: 악마
 dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
-doktor: doctor
-dolar: dollar
+  - 두꺼운
+  - 살찐
+dimanĉ: 일요일
+dir: 얘기하다
+direkt: 방향
+doktor: 의사
+dolar: 달러
 dolor:
-- pain
-- to hurt
-dolĉ: sweet
-dom: house
-don: to give
-dorm: sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
+  - 고통
+  - 아프게하다
+dolĉ: 달콤한
+dom: 집
+don: 주다
+dorm: 자다
+doĝ: 총독
+edz: 남편
+efektiv: 효과적인
+ekskurs: 소풍
+esper: 희망하다
+est: ~이다
+facil: 쉬운
+fakt: 사실
+fal: 떨어지다
+famili: 가족
+far:
+  - 만들다
+  - 짓다
+  - 제조하다
 fart:
-- feel
-- be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
+  - 살아가다
+  - 지내다
+feliĉ: 행복한
+ferm: 닫다 
+fin: 끝내다
+flank:
+  - 측면
+  - 면
 foj:
-- time
-- occasion
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
-gondol: gondola
+  - 번
+  - 차
+forges: 잊다
+form: 형성하다
+fort: 강한
+fot: 사진
+frat: 형제
+fru: 이른
+fuŝ: 망치다
+gondol: 곤돌라
 graf:
-- count
-- earl
+  - 백작
+  - 자작
 grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: to need
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
-opini: opinion
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
-si: reflexive pronoun
-sid: to sit
-silent: silent
-simil: similar
+  - 커다란
+  - 위대한
+grav: 중요한
+halt:
+  - 정지하다
+  - 멈추다
+hav: 가지다
+hejm: 가정
+help: 돕다
+hom: 사람
+hor: 시간
+hotel: 호텔
+ide: 아이디어
+industri: 산업 
+instru: 가르치다
+interes:
+  - 흥미나게 하다
+  - 관여케 하다
+invit: 초청하다
+ir: 가다
+itali: 이탈리아
+jar:
+  - 해
+  - 년
+jun: 젊은
+kaf: 커피
+kalv: 대머리의
+kap: 머리
+kapabl: 
+  - 능력이 있는
+  - 유능한
+  - 자격이 있는
+kapt: 잡다
+kar:
+  - 친애하는
+  - 사랑하는
+  - 소중한
+kastel: 성
+kav: 동굴
+kelk: 몇개의
+kelner: 웨이터
+klar:
+  - 맑은
+  - 밝은
+klub: 클럽
+knab: 소년
+koler: 화
+kolor: 색깔
+komenc: 시작하다
+kompren: 이해하다
+kon: 알다
+kontent: 만족한
+kontrol:
+  - 검사하다
+  - 감독하다
+kor: 심장
+korp: 신체
+kost: 비용
+kri: 외치다
+kuir: 요리하다
+kuk: 과자
+kur: 달리다
+labor: 일하다
+lakt: 우유
+lamp: 전등
+land: 땅
+larĝ:
+  - 넓은
+  - 널찍한
+last: 마지막
+laŭt: 소리가 큰
+lecion: 학과
+leg: 읽다
+lern: 배우다
+leter: 편지
+liber: 자유로운
+libr: 책
+lok: 장소
+long:
+  - 긴
+  - 오래된
+lud: 
+  - 놀다
+  - 장난하다
+  - 역할하다
+lum: 빛
+man: 손
+mank: 
+  - 결핍하다
+  - 부족하다
+  - 모자라다
+manĝ: 먹다
+mar: 바다
+maten: 아침
+memor: 기억하다
+met: 두다
+mez: 중간
+milit: 전쟁
+minut: 분
+mir: 놀라다
+moment: 순간
+mon: 돈
+mont: 산
+montr: 보여주다
+mort: 죽다
+mov: 움직이다
+mult: 많은
+muzik: 음악
+nask: 낳다
+natur: 자연
+neces: 필요한
+nokt: 밤
+nom: 이름
+not: 
+  - 각주
+  - 노트 필기
+nov: 새로운
+odor: 냄새나다
+oft: 자주
+okaz: 일어나다
+okul: 눈
+onkl: 삼촌
+opini: 의견
+ord: 
+  - 질서
+  - 순서
+  - 정돈
+orel: 귀
+pac: 평화
+pag: 지불하다
+pan: 빵
+paper: 종이
+pardon: 용서하다
+parol: 말하다
+part: 부분
+pas:
+  - 지나가다
+  - 통과하다
+patr: 아버지
+paŝ:
+  - 걷다
+  - 걸음을 옮기다
+pens: 생각하다
+perd: 잃어버리다
+person: 사람
+pet: 요청하다
+pez: 무거운
+pied: 발
+plac: 장소
+plan: 계획하다
+plaĉ: 
+  - 기쁘게하다
+  - 마음에 들게 하다
+plen: 가득찬
+polic: 경찰
+pord: 문
+port:
+  - 옮기다
+  - 운반하다
+pov: 할 수 있다
+pren:
+  - 취하다
+  - 손에 잡다
+pret: 준비된
+prezent:
+  - 증정하다
+  - 제출하다
+  - 소개하다
+problem: 문제
+proksim: 가까운
+promen: 산보하다
+propon: 제안하다
+prov: 시도하다
+rajt: 권리가 있는
+rapid: 빠른
+raport:
+  - 보고하다
+  - 보도하다
+real: 실제의
+rekt:
+  - 똑바른
+  - 직접의
+  - 솔직한
+renkont: 만나다
+respekt: 존경하다
+respond: 대답하다
+rest: 남다
+ricev: 받다
+rid: 웃다
+rigard: 바라보다
+riĉ: 부유한
+rol: 역할
+ruĝ: 붉은
+salt: 점프하다
+salut: 인사하다
+sam: 같은
+san: 건강한
+saĝ:
+  - 현명한
+  - 지혜로운
+sci: 알다
+sek: 건조한
+sekret: 비밀
+sekv:
+  - 뒤따르다
+  - 잇따르다
+semajn: 주
+send: 보내다
+serĉ: 찾다
+si: 자기자신
+sid: 앉다
+silent:
+  - 조용한
+  - 침묵의
+simil: 비슷한
 sinjor:
-- gentleman
-- Mr.
-situaci: sitation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: hold
-teror: terror
-tim: fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to travel
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: journey
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
+  - 신사
+  - 미스터
+situaci: 상황
+skrib: 쓰다
+sol: 홀로
+son: 소리
+sovaĝ: 야생의
+sport: 스포츠
+star: 일어서다
+strat: 거리
+subit: 갑자기
+sufiĉ: 충분한
+sukces: 성공
+sun: 태양
+supr: 위의
+tabl:
+  - 테이블
+  - 탁자
+tag: 날
+te: 차
+telefon: 전화
+temp: 시간
+temperatur: 온도
+ten: 손에 쥐다
+teror: 테러
+tim: 두려운
+ton:
+  - 톤
+  - 성조
+trankvil: 고요한
+trink: 마시다
+trov: 발견하다
+turk: 터키
+tuŝ: 만지다
+urb: 도시
+util: 유용한
+uz: 사용하다
+vagon: 차량
+varm:
+  - 따뜻한
+  - 더운
+  - 뜨거운
+ven: 오다
+vend: 팔다
+Veneci: 베니스
+ver: 진실한
+vesper: 저녁
+vest: 옷
+vetur: 타고 이동하다
+vid: 보다
+vin: 와인
+vir: 남자
+viv: 살다
+vizaĝ: 얼굴
+vizit: 방문하다
+voj: 길
+vojaĝ: 여행
+vok: 부르다
+vol: 원하다
+vort: 단어
+voĉ: 음성
+zorg:
+  - 돌보다
+  - 주의하다
+ĉambr: 방
+ĉef:
+  - 지휘자
+  - 우두머리
 ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: to correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+  - 괴롭히다
+  - 폐끼치다
+ĝeneral: 일반적인
+ĝoj: 기쁜
+ĝust: 옳은
+ĵet: 던지다
+ŝajn: 
+  - ~한 모양이다
+  - ~인 것 같다
+ŝanĝ: 변하다
+ŝat: 좋아하다
+ŝip: 배

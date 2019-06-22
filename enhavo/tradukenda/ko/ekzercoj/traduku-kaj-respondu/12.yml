@@ -1,68 +1,68 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: 우리는 어디든 언제든 서로 다시 만날까?
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: ~인가?
+    - ni: 우리는
+    - revidos: 다시 볼 것이다
+    - nin: 우리를
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: 어디
+    - ajn: ~든가
+    - kaj: 그리고
+    - kiam: 언제
+    - ajn: ~든가
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: 언제 내가 그 책들의 나머지 절반을 되받을 수 있을까?
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: 언제
+    - mi: 나는
+    - rericevos: 되받을 것이다
+    - la: (그)
+    - alian: 다른 (목적격)
+    - duonon: 절반을
+    - de: ~의
+    - la: (그)
+    - libroj: 책들
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: 그 일들을 위해 한 분기 이상 필요한가요?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: ~인가
+    - vi: 당신은
+    - bezonos: 필요할 것이다
+    - pli: 더
+    - ol: ~보다
+    - kvaronan: "1/4의 (목적격)"
+    - jaron: "1년 (목적격)"
+    - por: ~를 위해
+    - tiuj: 그 (복수형)
+    - laboroj: 일들
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: 우리는 왜 차가울 수록 더 오래 기다리는가?
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: 왜
+    - estas: 이다
+    - des: ~하면 할 수록
+    - pli: 더욱
+    - malvarma: 차가운
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: 더더욱
+    - pli: 더
+    - longe: 오래
+    - ni: 우리는
+    - atendas: 기다린다
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: 당신은 어느 아무 남자와도 만족스러울 수 있나요?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
+    - Ĉu: ~인가?
+    - vi: 당신은
+    - estus: ~일 수 있다
+    - kontenta: 만족한
+    - kun: ~와 함계
+    - iu: 어느 누구
+    - ajn: ~든가
     - viro: man
     - '?'

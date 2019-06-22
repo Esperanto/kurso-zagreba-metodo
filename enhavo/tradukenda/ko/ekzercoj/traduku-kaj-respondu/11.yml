@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: 당신은 내 여동생의 약을 가져와 줄 수 있나요?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: ~인가?
+    - vi: 당신은
+    - povas: 할수 있다
+    - kunporti: 가져오다
+    - la: (그)
+    - sanigilon: 회복제를 (약을)
+    - de: ~의
+    - mia: 나의
+    - fratino: 여동생 (누나)
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: 언제 그 악기를 샀나요?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: 언제
+    - vi: 당신은
+    - aĉetis: 샀다
+    - tiun: 그 (목적격)
+    - muzikilon: 악기를
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: 누가 내 열쇠를 마지막으로 사용했는가?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: 누가
+    - laste: 마지막으로
+    - uzis: 사용했다
+    - mian: 나의 (목적격)
+    - ŝlosilon: 열쇠를
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: 당신은 베니스에서 곤돌라로도 타고 이동했나요?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: ~인가
+    - vi: 당신은
+    - en: ~안에
+    - Venecio: 베니스
+    - veturis: 타고 이동했다
+    - ankaŭ: 또한
+    - per: ~를 가지고
+    - gondolo: 곤돌라
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: 조용해지면 잠들 수 있는가?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: ~인가?
+    - vi: 당신은
+    - povos: 할 수 있다
+    - ekdormi: 잠에들다
     - ',' 
-    - kiam: when 
+    - kiam: ~인 그 때
     - silentiĝis: got quiet
     - '?'

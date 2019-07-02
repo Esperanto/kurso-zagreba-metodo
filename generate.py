@@ -163,9 +163,17 @@ ap.add_argument(
     type=str
 )
 
+ap.add_argument(
+    "-e",
+    "--epub",
+    help="Generi la lekciojn kiel EPUB.",
+    action='store_true'
+)
+
 args = ap.parse_args()
 
 lingvoj = yaml.load(open('agordoj/lingvoj.yml').read())
+generate_funkcio = html_generiloj.generi.generate_html if not args.epub else generate_epub
 
 if args.lingvo:
     #if args.lingvo not in lingvoj.keys():
@@ -173,9 +181,9 @@ if args.lingvo:
     enhavo = load(args.lingvo)
     enhavo['lingvoj'] = lingvoj
     enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-    html_generiloj.generi.generate_html(args.lingvo, enhavo, args)
+    generate_funkcio(args.lingvo, enhavo, args)
 else:
     for lingvo in lingvoj:
         enhavo = load(lingvo)
         enhavo['lingvoj'] = lingvoj
-        html_generiloj.generi.generate_html(lingvo, enhavo, args)
+        generate_funkcio(lingvo, enhavo, args)

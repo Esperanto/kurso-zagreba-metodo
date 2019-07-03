@@ -19,14 +19,14 @@ def generate_lekcio(lekcio, lekcio_numero):
     libro += "# Lekcio {} - ".format(+1) + lekcio["teksto"]["titolo_string"] + "\n\n"
 
     # teksto
-    libro += "## Teksto " + lekcio["teksto"]["titolo_string"] + "\n\n"
+    libro += "## {} ".format(enhavo['fasado']['Teksto']) + lekcio["teksto"]["titolo_string"] + "\n\n"
     libro += "</div style=\"line-height: 80px; font-size: 40px;\">\\begin{Large}"
     for par in lekcio["teksto"]["paragrafoj"]:
         libro += " ".join(["".join(vorto) for vorto in par if vorto]) + "\n\n"
     libro += "\\end{Large}</div>"
 
     # Novaj Vortoj
-    libro += "## Novaj Vortoj " + lekcio["teksto"]["titolo_string"] + "\n\n"
+    libro += "## {} ".format(enhavo['fasado']['Novaj vortoj']) + lekcio["teksto"]["titolo_string"] + "\n\n"
     for vortoj_de, vortlisto in lekcio["vortoj"].items():
         libro += "\n\n### " + vortoj_de[0].upper() + vortoj_de[1:] + "\n\n"
         vortlisto = [v for v in vortlisto if v[0] not in "ABCDEFGHIJKLMNOPRSTUVZ"]
@@ -47,13 +47,13 @@ def generate_lekcio(lekcio, lekcio_numero):
         libro += ("-"*15+" ")*3 + "\n\n"
     libro += "\\pagebreak"  + "\n\n"
     # gramatiko
-    libro += "## Gramatiko " + "\n\n"
+    libro += "## {} ".format(enhavo['fasado']['Gramatiko']) + "\n\n"
     libro += lekcio["gramatiko"]["teksto"] + "\n\n"
     libro += "\\pagebreak"  + "\n\n"
 
-    libro += "## Ekzercoj " + "\n\n"
+    libro += "## {} ".format(enhavo['fasado']['Ekzercoj']) + "\n\n"
 
-    libro += "## Traduku " + "\n\n"
+    libro += "## {} ".format(enhavo['fasado']['Traduku']) + "\n\n"
     tradukendaj = [list(t.keys())[0] for t in lekcio["ekzercoj"]["Traduku"]]
     tlen = (len(tradukendaj)+1)//2
     libro += ("-"*33+" ")*2+"\n"
@@ -65,7 +65,7 @@ def generate_lekcio(lekcio, lekcio_numero):
         libro += "{}{}{}{}\n".format((33-len(v1))*" ", v1, (33-len(v2))*" ", v2)
     libro += ("-"*33+" ")*2 + "\n\n"
 
-    libro += "## Kompletigu la frazojn " + "\n\n"
+    libro += "## {} ".format(enhavo['fasado']['Kompletigu la frazojn']) + "\n\n"
     tradukendaj = []
     for frazo in lekcio["ekzercoj"]["Kompletigu la frazojn"]:
         tradukendaj += [" ".join([ frazero["videbla"] if frazero["videbla"] else 15*"_"
@@ -75,10 +75,10 @@ def generate_lekcio(lekcio, lekcio_numero):
         libro += "* {}\n".format(t)
     libro += "\n\n"
 
-    libro += "## Kompletigu la frazojn " + "\n\n"
+    libro += "## {} ".format(enhavo['fasado']['Traduku kaj respondu']) + "\n\n"
     tradukendaj = [t['demando'] for t in lekcio["ekzercoj"]["Traduku kaj respondu"]]
     for t in tradukendaj:
-        libro += "* {} - ".format(t) + 20*"_" + "\n" + "  + " + 60*"_" + "\n"
+        libro += "* {}".format(t) + " : \n\n" + 50*"_" + "\n\n" + 50*"_" + "\n\n"
 
     for rep in [".", "!", "?", ","]:
         libro = libro.replace(" " + rep, rep)

@@ -82,6 +82,7 @@ def generate_lekcio(lekcio, lekcio_numero):
 
     for rep in [".", "!", "?", ","]:
         libro = libro.replace(" " + rep, rep)
+    libro = re.sub("(__)((?=[^_ ])[\W\w])+(__)", "**\\2**", libro)
     return libro
 
 def generate_epub(lingvo, enhavo, args):

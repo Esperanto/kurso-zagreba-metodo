@@ -16,7 +16,7 @@ def write_epub_pdf_file(filename, content):
 
 def generate_lekcio(lekcio, lekcio_numero):
     libro = ""
-    libro += "# Lekcio {} - ".format(+1) + lekcio["teksto"]["titolo_string"] + "\n\n"
+    libro += "# Lekcio {} - ".format(lekcio_numero+1) + lekcio["teksto"]["titolo_string"] + "\n\n"
 
     # teksto
     libro += "## {} ".format(enhavo['fasado']['Teksto']) + lekcio["teksto"]["titolo_string"] + "\n\n"

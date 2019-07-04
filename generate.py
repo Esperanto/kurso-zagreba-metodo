@@ -170,6 +170,14 @@ ap.add_argument(
     action='store_true'
 )
 
+ap.add_argument(
+    "-p",
+    "--papersize",
+    help="En kombinacio kun PDF/EPUB genero kreas la PDF en aŭ A5, A4 aŭ letterpaper.",
+    type=str,
+    default="a4"
+)
+
 args = ap.parse_args()
 
 lingvoj = yaml.load(open('agordoj/lingvoj.yml').read())

@@ -1,75 +1,75 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: 무엇이 당신의 양부모님들을 가장 기쁘게 할 것 같나요?
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: 무엇이
+    - povus: ~할 수 있을 것 같다
+    - plej: 가장
+    - ĝojigi: 기쁘게하다
+    - viajn: "당신의 (복수, 목적격)"
+    - gepatrojn: 부모님들을
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: 졸업후에 너가 나와 함께 시청에 갈 수 있다면 좋겠다!
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: 만약
+    - almenaŭ: 적어도
+    - vi: 너가
+    - post: ~ 후에
+    - la: (그)
+    - lernado: 배우기
+    - irus: 갈 수 있다
+    - kun: ~와 함께
+    - mi: 나
+    - en: ~로
+    - la: (그) 
+    - urbocentron: 시청
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: 당신이 충분한 돈과 시간이 있으면 어디로 여행가기를 바랄 것인가?
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: 어디로
+    - vi: 당신은
+    - dezirus: 원할 것이다
+    - vojaĝi: 여행하다
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: 만약
+    - vi: 당신이
+    - havus: 가지고 있을 것이다
+    - sufiĉe: 충분히
+    - da: ~ 한 양만큼의
+    - mono: 돈
+    - kaj: 과
+    - tempo: 시간
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: 차로 파리 여행을 계획하나요? 아니면 기차로 가는게 훨씬 좋아 보이지 않나요?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - Ĉu: ~인가
+    - vi: 당신은
+    - planas: 계획한다
+    - veturi: 운전하다
+    - al: "~로, ~까지"
+    - Parizo: 파리
+    - per: ~로 (도구)
+    - aŭto: 자동차
+    - aŭ: 또는
+    - ĉu: ~인가
+    - ne: 아닌
+    - ŝajnas: ~해 보인다
+    - multe: 매우
+    - pli: 더
+    - bone: 좋게
+    - per: ~로
+    - vagonaro: 기차
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: 왜 다양한 사람들이 같은 아이디어들을 다르게 설명할까요?
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: 왜
+    - diversaj: 다양한 (복수형)
+    - homoj: 사람들
+    - klarigas: ~를 설명한다
+    - samajn: "똑같은 (복수형, 목적격)"
+    - ideojn: 생각들을
+    - diversmaniere: 다르게 
     - '?'

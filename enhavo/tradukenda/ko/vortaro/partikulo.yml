@@ -1,13 +1,15 @@
 ajn:
-- any
-- at all
-- '-ever'
-des: the (more, less)
-jen: here is
-ju: the (more, less)
-mem: self
+  - ~이든
+  - 무엇이든
+  - 어떤 것이든
+des: ~하면 할 수록
+jen:
+  - 자
+  - 여기
+ju: 더더욱 ~한
+mem: 자기자신
 ne:
-- 'no'
-- not
-ĉi: this
-ĉu: whether (starts questions)
+  - 아니오
+  - 아닌
+ĉi: 이
+ĉu: ~

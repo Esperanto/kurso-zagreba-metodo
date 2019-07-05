@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
+  demando: 누군가 즐겁게 노래하고 있는 동안, 너는 고요히 배울 수 있는가?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: ~인가?
+    - vi: 당신은
+    - povas: ~할수 있다.
+    - trankvile: 고요하게
+    - lerni: 배우다
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: ~하는 동안
+    - iu: 누군가
+    - ĝoje: 즐겁게
+    - kantas: 노래한다
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: 언제 어디서 우리가 다시 만나게 될 지를 누가 알겠는가?
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: 누가
+    - scias: 안다
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: 언제 
+    - kaj: 그리고
+    - kie: 어디서
+    - ni: 우리가
+    - revidos: 다시 만날 것이다
+    - nin: 우리를
     - '?'
 -
-  demando: What time is it now?
+  demando: 지금 몇시인가?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: 얼마의
+    - horo: 시간
+    - estas: 이다 
+    - nun: 지금
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: 그 오랜 집의 문을 여는 것을 누군가가 당신에게 도와주었는가?
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: ~인가
+    - iu: 누군가 
+    - helpis: 도왔다 
+    - al: ~에게
+    - vi: 당신
+    - malfermi: 열다 
+    - la: 그
+    - pordon: 문을 
+    - de: ~의
+    - la: 그
+    - malnova: 오래된
+    - domo: 집
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: 왜 당신은 나를 더 오랫동안 들을 시간이 없습니까?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
+    - Kial: 왜
+    - vi: 당신은
+    - ne: ~가 아닌
+    - havas: 가지고 있다
+    - tempon: 시간을
+    - aŭskulti: 듣다
+    - min: 나를
+    - pli: 더
     - longe: long
     - '?'

@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: 현재 진행형 (능동태)
+int: 과거 진행형 (능동태)
+ont: 미래 진행형 (능동태)
+unt: 가정법 능동태
+at:  현재 수동태 (완료형)
+it:  과거 수동태 (완료형)
+ot:  미래 수동태 (완료형)
+ut:  가정법 수정태

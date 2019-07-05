@@ -175,7 +175,14 @@ it:
       github: shokupan
     - nomo: David Paleino
       github: dpaleino
-
+ja:
+  nomo:
+    fontlingve: 日本語
+    esperante: japana
+  stato: testa
+  aŭtoroj:
+    - nomo: Nomota Hiongun KIM
+      github: nomota
 kk:
   nomo:
     fontlingve: Қазақша
@@ -200,6 +207,8 @@ ko:
   aŭtoroj:
     - nomo: Huiyun Seo
       github: jasmena
+    - nomo: Nomota Hiongun KIM
+      github: nomota
 lo:
   nomo:
     fontlingve: ລາວ

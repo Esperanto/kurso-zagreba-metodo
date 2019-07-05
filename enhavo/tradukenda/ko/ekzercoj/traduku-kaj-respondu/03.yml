@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: 큰 호텔들의 웨이터들은 많은 언어들을 이해하는가? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: ~인가? 
+    - kelneroj: 웨이터들
+    - en: ~ 안의
+    - grandaj: 큰
+    - hoteloj: 호텔들
+    - komprenas: 이해하다
+    - multajn: 많은
+    - lingvojn: 언어들을
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: 가난한 사람과 아름다운 여인에 대한 새로운 노래를 Anna가 좋아한다는 것을 당신은 아는가?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: ~하는가?
+    - vi: 당신은
+    - scias: 안다
     - ','
-    - ĉu: whether
+    - ĉu: ~인지
     - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ŝatas: 좋아한다
+    - la: (그)
+    - novan: 새로운
+    - kanton: 노래를
+    - pri: ~에 대한
+    - malriĉulo: 가난한 사람
+    - kaj: 과
+    - belulino: 아름다운 여인
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: 커다란 테이블을 들고가는 노인과 젊은이를 당신은 어디에서 보았는가?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: 어디에서
+    - vi: 당신은
+    - vidis: 보았다
+    - la: (그)
+    - maljunulon: 노인
+    - kaj: 과
+    - la: (그)
+    - junulon: 젊은이
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: (그들은)
+    - portis: 들고 가고 있었다
+    - grandan: 커다란
+    - tablon: 테이블을
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: 형제자매 없이 당신이 우리에게 다시 오는 것이 어떻게 일어났는가?
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: 어떻게
+    - okazis: 발생했다
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: ~ 라는 것
+    - vi: 당신
+    - denove: 다시
+    - venis: 왔다
+    - al: ~ 에게
+    - ni: 우리
+    - sen: ~ 없이
+    - gefratoj: 형제자매
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: 당신은 그 새로운 교과서의 도움으로 매우 빠르게 에스페란토를 배울 수 있는가?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: ~인가?
+    - vi: 당신
+    - povas: 할수 있다
+    - per: ~를 가지고
+    - la: (그) 
+    - nova: 새로운
+    - lernolibro: 학습서
+    - sufiĉe: 충분히
+    - rapide: 빠르게
+    - lerni: 배운다
+    - Esperanton: 에스페란토를
     - '?'

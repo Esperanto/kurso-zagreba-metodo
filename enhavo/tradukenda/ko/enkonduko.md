@@ -1,12 +1,13 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- 이 에스페란토 코스는 500단어 수준의 초급 강좌입니다.
 
-The course consists of **12 lessons**, each with
+- **전혀 가입이 필요없습니다.** 클릭하고 바로 *시작* 하시기 바랍니다.
+- **스마트폰에 최적화되어** 쉽게 활용할 수 있습니다.
+- 무료일 뿐만 아니라, 여러 **[다른 프로젝트](https://github.com/Esperanto/kurso-zagreba-metodo)** 에도 활용됩니다.
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+이 코스는 **12과**로 되어 있고, 각각은 다음과 같이 구성됩니다.
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+- 텍스트 본문
+- 문법 설명
+- 3종류의 연습문제.
+
+이 코스를 완전히 습득하신 후에는, 상당한 수준의 이해와 표현력을 얻게 될 것입니다. 곧바로 시작해 보세요!

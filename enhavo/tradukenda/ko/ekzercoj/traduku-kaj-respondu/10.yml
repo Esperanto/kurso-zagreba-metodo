@@ -1,40 +1,40 @@
 - 
-  demando: Does friendship make you more happy than love does?
+  demando: 사랑보다 우정이 당신을 더 행복하게 만드는가?
   rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+    - Ĉu: ~인가?
+    - amikeco: 우정
+    - pli: 더
+    - feliĉigas: 행복하게 하다
+    - vin: 당신을
+    - ol: ~보다
+    - la: (그)
+    - amo: 사랑
     - '?'
 - 
-  demando: How often do you write letters to your girlfriends in Italy?
+  demando: 이탈리아에 있는 당신의 여자친구들에게 얼마나 자주 편지를 쓰나요?
   rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
+    - Kiel: 어떻게
+    - ofte: 자주
+    - vi: 당신은
+    - skribas: 쓴다
+    - leterojn: "편지들을 (복수,목적격)"
+    - al: ~에게
+    - viaj: 당신의 (복수)
+    - amikinoj: 여자 진구들
+    - en: ~안에
+    - Italio: 이탈리아
     - '?'
 - 
-  demando: Has the relationship between you and your teacher changed?
+  demando: 당신과 당신의 선생님과의 관계가 변했나요?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
+    - Ĉu: ~인가?
+    - la: (그)
+    - rilato: 관계
+    - inter: ~사이에
+    - vi: 당신
+    - kaj: ~와
+    - via: 당신의
+    - instruisto: 선생님
     - ŝanĝiĝis: changed
     - '?'
 - 

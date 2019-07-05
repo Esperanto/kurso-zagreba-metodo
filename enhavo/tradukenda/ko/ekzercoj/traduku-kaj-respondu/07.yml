@@ -1,77 +1,77 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
+  demando: 당신이 2년 이상 기다렸던 그 책을 누가 가지고 있었나요?
   rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+    - Kiu: 누가
+    - havis: 가지고 있었다
+    - la: (그)
+    - libron: 책을
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
+    - kiun: ~한 그것을
+    - vi: 당신이
+    - atendis: 기다렸다
+    - pli: 더 ~한
+    - ol: ~보다
+    - du: '2'
+    - jarojn: 년(들을)
     - '?'
 - 
-  demando: Do you want me to show you the photo which is dearest to me?
+  demando: 내가 당신에게 나의 가장 소중한 사진을 보여주기를 원하시나요?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+    - Ĉu: ~인가
+    - vi: 당신은
+    - volas: 바란다
     - ','
-    - ke: that
-    - mi: I
-    - montru: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - ke: ~한 것을
+    - mi: 내가
+    - montru: 보여줘라
+    - al: ~에게
+    - vi: 당시
+    - mian: 나의 (목적격)
+    - plej: 가장
+    - karan: 소중한 (목적격)
+    - foton: 사진을
     - '?'
 - 
-  demando: Where did you buy that garment?
+  demando: 당신은 어디서 그 옷을 샀나요?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+    - Kie: 어디서
+    - vi: 당신은
+    - aĉetis: 샀다
+    - tiun: 그 (목적격)
+    - vestaĵon: 옷을
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
+  demando: "만약 햇볓나는 날이면, 당신은 일요일에 어디를 갈 것인가요?"
   rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+    - Kien: 어디로
+    - vi: 당신은
+    - iros: 갈 것이다
+    - dimanĉe: 일요일에
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: 만약
+    - estos: ~일 것이다
+    - suna: 태양의
+    - tago: 낮
     - '?'
 - 
-  demando: Did your brother already leave?
+  demando: 당신의 형제는 이미 출발했나요?
   rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+    - Ĉu: ~인가
+    - via: 당신의
+    - frato: 형제
+    - jam: 이미
+    - ekiris: 떠나갔다
     - '?'
 - 
-  demando: Where is the water which you have brought yourself?
+  demando: 당신이 직접  그 물이 어디에 있나요?
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+    - Kie: 어디에
+    - estas: 있다
+    - la: (그)
+    - akvo: 물이
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: ~했던 그것을
+    - vi: 당신이
+    - mem: 직접
+    - kunportis: 가져왔다
     - '?'

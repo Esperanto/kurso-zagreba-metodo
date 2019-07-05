@@ -10,3 +10,8 @@ The course consists of **12 lessons**, each with
 - and 3 exercises.
 
 After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+
+- **Phiên bản tiếng Việt sẽ được chuẩn bị cho đến cuối năm 2019.**
+
+- **Bonvolu sendi ret-posxton al mi, Nomota: hiongun@gmail.com se vi volas helpi min, por prepardo de la Vjetnama version.**
+

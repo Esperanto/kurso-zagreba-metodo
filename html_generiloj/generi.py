@@ -1,8 +1,10 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import os
 import shutil
 import re
+import yaml, jinja2, mistune
 
 def render_page(name, enhavo, vojprefikso, env, output_path):
 
@@ -19,27 +21,26 @@ def write_file(filename, content):
         os.makedirs(dirname)
     with open(filename, 'w') as f:
         f.write(content)
-        True
 
 def generate_html(lingvo, enhavo, args):
-
     eligo = {}
+    md = mistune.Markdown()
 
     env = jinja2.Environment()
     env.filters['markdown'] = lambda text: jinja2.Markup(md(text))
     env.trim_blocks = True
     env.lstrip_blocks = True
-    env.loader=jinja2.FileSystemLoader('html/templates/')
+    env.loader=jinja2.FileSystemLoader('html_generiloj/templates/')
 
-    output_path = 'html/output/' + lingvo + '/'
+    output_path = 'html_generiloj/output/' + lingvo + '/'
 
 
     tabs = [
-        ('teksto'    , ''           , enhavo['fasado']['Teksto']   ) , 
-        ('vortoj'    , 'vortoj/'    , enhavo['fasado']['Novaj vortoj']) , 
-        ('gramatiko' , 'gramatiko/' , enhavo['fasado']['Gramatiko']) , 
-        ('ekzerco1'  , 'ekzerco1/'  , enhavo['fasado']['Ekzerco 1']) , 
-        ('ekzerco2'  , 'ekzerco2/'  , enhavo['fasado']['Ekzerco 2']) , 
+        ('teksto'    , ''           , enhavo['fasado']['Teksto']   ) ,
+        ('vortoj'    , 'vortoj/'    , enhavo['fasado']['Novaj vortoj']) ,
+        ('gramatiko' , 'gramatiko/' , enhavo['fasado']['Gramatiko']) ,
+        ('ekzerco1'  , 'ekzerco1/'  , enhavo['fasado']['Ekzerco 1']) ,
+        ('ekzerco2'  , 'ekzerco2/'  , enhavo['fasado']['Ekzerco 2']) ,
         ('ekzerco3'  , 'ekzerco3/'  , enhavo['fasado']['Ekzerco 3'])
     ]
 
@@ -98,8 +99,8 @@ def generate_html(lingvo, enhavo, args):
             paths_index += 1
 
             tab_rendered = env.get_template(tab + '.html').render(
-              enhavo=enhavo, 
-              leciono=enhavo['lecionoj'][i-1], 
+              enhavo=enhavo,
+              leciono=enhavo['lecionoj'][i-1],
               leciono_index=i,
               vojprefikso=vojprefikso,
               tab_vojprefikso = tab_vojprefikso,

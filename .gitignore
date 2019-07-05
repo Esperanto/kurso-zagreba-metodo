@@ -1,4 +1,5 @@
 material
 maintenance/*.txt
-html/output/
+html_generiloj/output/
 agordoj/auxtoroj-lingvoj.yml
+__pycache__

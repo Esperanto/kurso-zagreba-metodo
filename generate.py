@@ -1,16 +1,13 @@
-# encoding=utf8  
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import yaml
-import jinja2
 import glob
 import re
-import mistune
 import os
 import sys
 import argparse
-
-reload(sys)
-sys.setdefaultencoding('utf8')
+import html_generiloj
 
 def transpose_headlines(markdown, level):
     prefix = ''
@@ -18,7 +15,7 @@ def transpose_headlines(markdown, level):
         prefix += '#'
     markdown = re.sub(r'^#', '#' + prefix, markdown)
     markdown = re.sub(r'\n#', '\n#' + prefix, markdown)
-    return markdown 
+    return markdown
 
 
 def get_markdown_headlines(s):
@@ -83,7 +80,7 @@ def load(language):
             'ekzercoj': None,
         }
         i_padded = str(i).zfill(2)
-        
+
         leciono['indekso'] = {
             'cifre': i,
             'cxene': i_padded
@@ -99,7 +96,7 @@ def load(language):
                 titolo_string += ''.join(radikoj)
             else:
                 titolo_string += ' '
-        
+
         leciono['teksto']['titolo_string'] = titolo_string
 
         leciono['vortoj'] = {}
@@ -150,21 +147,18 @@ def load(language):
 
     return enhavo
 
-md = mistune.Markdown()
-exec(open("./html/main.py").read())
-
 ap = argparse.ArgumentParser()
 
 ap.add_argument(
-    "-vp", 
-    "--vojprefikso", 
+    "-vp",
+    "--vojprefikso",
     help="La vojprefikso por ĉiuj ligiloj en la eligo. Norme: /[lingvokodo]/",
     type=str
 )
 
 ap.add_argument(
-    "-l", 
-    "--lingvo", 
+    "-l",
+    "--lingvo",
     help="Kreu eligon nur por tiu lingvo. Norme: Kreu por ĉiujn.",
     type=str
 )
@@ -179,10 +173,9 @@ if args.lingvo:
     enhavo = load(args.lingvo)
     enhavo['lingvoj'] = lingvoj
     enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-    generate_html(args.lingvo, enhavo, args)
+    html_generiloj.generi.generate_html(args.lingvo, enhavo, args)
 else:
     for lingvo in lingvoj:
         enhavo = load(lingvo)
         enhavo['lingvoj'] = lingvoj
-        generate_html(lingvo, enhavo, args)
-
+        html_generiloj.generi.generate_html(lingvo, enhavo, args)

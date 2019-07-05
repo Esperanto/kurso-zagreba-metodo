@@ -5,19 +5,21 @@ import shutil
 import re
 import pypandoc
 
-def write_epub_pdf_file(filename, content, papersize="a4"):
+def write_epub_pdf_file(filename, content, papersize="a4", includable_latex_source=False):
     dirname = os.path.dirname(filename)
     if not os.path.exists(dirname):
         os.makedirs(dirname)
 
     open(filename + '.md', 'w').write(content)
     pypandoc.convert_text(content, 'epub', format='md', outputfile=filename + '.epub')
+    if includable_latex_source:
+        pypandoc.convert_text(content, 'latex', format='md', outputfile=filename + '.tex')
     if papersize=="a5":
-        pypandoc.convert_text(content, 'pdf', format='md',  outputfile=filename + '.pdf', extra_args=["--latex-engine=xelatex", "-V", "margin-top=1cm", "-V", "margin-bottom=1cm", "-V", "margin-right=1.3cm", "-V", "margin-left=1.3cm", "-V", "papersize:a5"])
+        pypandoc.convert_text(content, 'pdf', format='md', outputfile=filename + '.pdf', extra_args=["--latex-engine=xelatex", "-V", "margin-top=1cm", "-V", "margin-bottom=1cm", "-V", "margin-right=1.3cm", "-V", "margin-left=1.3cm", "-V", "papersize:a5"])
     elif papersize=="letterpaper":
-        pypandoc.convert_text(content, 'pdf', format='md',  outputfile=filename + '.pdf', extra_args=["--latex-engine=xelatex", "-V", "margin-top=2.54cm", "-V", "margin-bottom=2.54cm", "-V", "margin-right=2.54cm", "-V", "margin-left=2.54cm", "-V", "papersize:letterpaper"])
+        pypandoc.convert_text(content, 'pdf', format='md', outputfile=filename + '.pdf', extra_args=["--latex-engine=xelatex", "-V", "margin-top=2.54cm", "-V", "margin-bottom=2.54cm", "-V", "margin-right=2.54cm", "-V", "margin-left=2.54cm", "-V", "papersize:letterpaper"])
     else:
-        pypandoc.convert_text(content, 'pdf', format='md',  outputfile=filename + '.pdf', extra_args=["--latex-engine=xelatex", "-V", "margin-top=2.54cm", "-V", "margin-bottom=2.54cm", "-V", "margin-right=2.54cm", "-V", "margin-left=2.54cm", "-V", "papersize:a4"])
+        pypandoc.convert_text(content, 'pdf', format='md', outputfile=filename + '.pdf', extra_args=["--latex-engine=xelatex", "-V", "margin-top=2.54cm", "-V", "margin-bottom=2.54cm", "-V", "margin-right=2.54cm", "-V", "margin-left=2.54cm", "-V", "papersize:a4"])
 
 def generate_lekcio(lekcio, lekcio_numero):
     libro = ""
@@ -99,5 +101,5 @@ def generate_epub(lingvo, enhavo, args):
         lekcio_string = generate_lekcio(lekcio, i)
         lekcioj += lekcio_string + "\\pagebreak"  + "\n\n"
         # Kreu novajn dosierojn
-        write_epub_pdf_file(output_path+"lekcio"+str(i+1), lekcio_string, args.papersize)
-    write_epub_pdf_file(output_path+"cxiuj_lekcioj", lekcioj, args.papersize)
+        write_epub_pdf_file(output_path+"lekcio"+str(i+1), lekcio_string, papersize=args.papersize, includable_latex_source=True)
+    write_epub_pdf_file(output_path+"cxiuj_lekcioj", lekcioj, papersize=args.papersize)

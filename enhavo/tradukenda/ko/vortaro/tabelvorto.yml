@@ -1,59 +1,63 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: 무엇
+tio: 그것
+io: 무엇인가 (불특정한 그 어느 것)
+ĉio: 모든 것
+nenio: 아무것도 아닌 것
 kiu:
-- who
-- which
+  - 누구
+  - 어느
 tiu:
-- that person
-- that one
-iu: someone
+  - 그 사람
+  - 그것
+iu: 누군가
 ĉiu:
-- everyone
-- every
+  - 모든 사람
+  - 모든
 neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
-iom: 
-- to some extent
-- a certain amount
-ĉiom: 
-- all of it
-- the whole amount
+  - 아무도 아닌 사람
+  - 아무것도 아닌
+kie: 어디에
+tie: 거기에
+ie: 어딘가에
+ĉie: 모든 곳에
+nenie: 아무데도
+kia:
+  - 무슨 종류의
+  - 무슨 특성의
+tia: 
+  - 그런 종류의
+  - 그런 특성의
+ia: 어떤 특성의
+ĉia: 모든 특성의
+nenia: 어떤 특성도 아닌
+kiel: 어떻게
+tiel:
+  - 그렇게
+  - 그래서
+iel: 어떤 방식으로든
+ĉiel: 모든 방식으로
+neniel: 어떤 방식도 아닌
+kial: 왜
+tial: 그 이유로
+ial: (불특정한) 어떤 이유로
+ĉial: 모든 이유로
+nenial: 아무 이유도 아니게
+kiam: 언제
+tiam: 그때
+iam: 언젠가
+ĉiam: 항상
+neniam: 영원히 아닌
+kiom: 얼마나 많이
+tiom: 그만큼 많이
+iom: 약간량의
+ĉiom:
+  - 전부다
+  - 전체 분량의
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+  - 전혀 없는
+  - 조금도 아닌
+kies: 누구의
+ties: 그 사람의
+ies: (불특정한) 누군가의
+ĉies: 모든 사람의
+nenies: 아무의 소유도 아닌

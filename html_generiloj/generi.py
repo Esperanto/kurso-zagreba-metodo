@@ -5,6 +5,7 @@ import os
 import shutil
 import re
 import yaml, jinja2, mistune
+import genanki
 
 def render_page(name, enhavo, vojprefikso, env, output_path):
 
@@ -21,6 +22,72 @@ def write_file(filename, content):
         os.makedirs(dirname)
     with open(filename, 'w') as f:
         f.write(content)
+
+# Create an Anki file.
+def create_anki(enhavo):
+
+  model = genanki.Model(
+    hash('Frases'),
+    'Frases',
+    fields=[
+      {'name': 'eo' },
+      {'name': enhavo['lingvo'] },
+    ],
+    templates=[
+      {
+        'name': 'eo' + '-' + enhavo['lingvo'],
+        'qfmt': '{{eo}}',
+        'afmt': '{{FrontSide}}<hr id="answer">{{' + enhavo['lingvo'] + '}}',
+      },
+      {
+        'name': enhavo['lingvo'] + '-' + 'eo',
+        'qfmt': '{{' + enhavo['lingvo'] + '}}',
+        'afmt': '{{FrontSide}}<hr id="answer">{{' + 'eo' + '}}',
+      },
+    ])
+
+  deck = genanki.Deck(
+    hash('eo' + '-' + enhavo['lingvo']),
+    'Learn Esperanto: ' + enhavo['lingvo']
+  )
+
+  for leciono_index_0 in range(len(enhavo['lecionoj'])):
+    leciono = enhavo['lecionoj'][leciono_index_0]
+    for radiko in leciono['vortoj']['teksto']:
+
+      if radiko.lower() in enhavo['vortaro']:
+          radiko = radiko.lower()
+
+      esperanta_karto = radiko
+
+      if enhavo['vortaro'][esperanta_karto]['vortspeco'] in ['interjekcio','nomo','vorto']:
+          continue
+
+      if radiko in enhavo['finajxoj']:
+          esperanta_karto = esperanta_karto + enhavo['finajxoj'][radiko]
+
+      # Aldonu '-' al afiksoj.
+      if enhavo['vortaro'][radiko]['vortspeco'] in ['prefikso']:
+          esperanta_karto = esperanta_karto + '-'
+      if enhavo['vortaro'][radiko]['vortspeco'] in ['sufikso', 'finajxo']:
+          esperanta_karto = '-' + esperanta_karto
+
+      fontlingva_karto = enhavo['vortaro'][radiko]['tradukajxo']
+      if isinstance(fontlingva_karto, list):
+          fontlingva_karto = ', '.join(fontlingva_karto) 
+
+      note = genanki.Note(
+        model = model,
+        tags = [str(leciono_index_0 + 1), enhavo['vortaro'][radiko]['vortspeco']],
+        fields = [
+            esperanta_karto,
+            fontlingva_karto
+        ]
+      )
+      deck.add_note(note)
+        
+  return deck
+
 
 def generate_html(lingvo, enhavo, args):
     eligo = {}
@@ -63,13 +130,7 @@ def generate_html(lingvo, enhavo, args):
     )
     eligo[output_path + 'js/vortlisto.js'] = rendered
 
-    # vortoj.[lingvo].tsv
-    rendered = env.get_template('eksporto/anki.tsv').render(
-      enhavo = enhavo,
-      vojprefikso = vojprefikso,
-    )
-    eligo[output_path + 'eksporto/anki.tsv'] = rendered
-
+    eligo[output_path + 'eksporto/anki.apkg'] = create_anki(enhavo)
 
     for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post']:
         eligo[output_path + tab_page + '/index.html'] = render_page(tab_page, enhavo, vojprefikso, env, output_path)
@@ -118,8 +179,8 @@ def generate_html(lingvo, enhavo, args):
 
     # Kreu novajn dosierojn
     for vojo in eligo.keys():
-        # Forigu nenecesan blankspacon.
-        # Sed ne ĉe .tsv
-        if not re.search(r'\.tsv$', vojo):
-            eligo[vojo] = re.sub(r'\s+', ' ', eligo[vojo])
+        if re.search(r'\.apkg$', vojo):
+            write_file(vojo, '')
+            genanki.Package(eligo[vojo]).write_to_file(vojo)
+            continue
         write_file(vojo, eligo[vojo])

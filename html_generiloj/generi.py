@@ -60,7 +60,7 @@ def create_anki(enhavo):
 
       esperanta_karto = radiko
 
-      if enhavo['vortaro'][esperanta_karto]['vortspeco'] in ['interjekcio','nomo','vorto']:
+      if enhavo['vortaro'][radiko]['vortspeco'] in ['interjekcio','nomo','vorto']:
           continue
 
       if radiko in enhavo['finajxoj']:

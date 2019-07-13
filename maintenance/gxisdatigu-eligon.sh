@@ -7,8 +7,8 @@ LAST_SAFE_COMMIT=`cat maintenance/last-safe-commit.txt`
 
 git pull -q
 git checkout $LAST_SAFE_COMMIT generate.py
-git checkout $LAST_SAFE_COMMIT html/main.py
-git checkout $LAST_SAFE_COMMIT html/output/index.html
+git checkout $LAST_SAFE_COMMIT html_generiloj/generi.py
+git checkout $LAST_SAFE_COMMIT html_generiloj/output/index.html
 
 # Check if anything new.
 LAST_COMMIT=`git rev-parse HEAD`
@@ -22,7 +22,7 @@ fi
 
 for l in ar ca cs da de en es fa fr frp he hr hu id it ja kk km ko lo ms my nl pl pt ru sk sl sv sw th tr uk ur vi zh zh-tw
 do
-	python2 generate.py -l $l
+	python3 generate.py -l $l
 done
 
 git rev-parse HEAD > maintenance/last-generated-commit.txt

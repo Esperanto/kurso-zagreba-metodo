@@ -61,7 +61,7 @@ def aldonu_karton(deck, model, enhavo, radiko, leciono = None):
   if leciono:
     tags.append(leciono)
 
-  note = genanki.Note(
+  note = NoteLeo(
     model = model,
     tags = tags,
     fields = [

@@ -23,7 +23,7 @@ def write_file(filename, content):
     with open(filename, 'w') as f:
         f.write(content)
 
-def aldonu_karton(deck, model, enhavo, radiko, leciono_index_0):
+def aldonu_karton(deck, model, enhavo, radiko, leciono_index_0 = -1):
 
   if radiko.lower() in enhavo['vortaro']:
       radiko = radiko.lower()

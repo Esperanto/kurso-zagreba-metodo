@@ -23,7 +23,7 @@ def write_file(filename, content):
     with open(filename, 'w') as f:
         f.write(content)
 
-def aldonu_karton(deck, model, enhavo, radiko, leciono_index_0 = -1):
+def aldonu_karton(deck, model, enhavo, radiko, leciono = None):
 
   # Ne kreu de tiuj vortspecoj.
   if enhavo['vortaro'][radiko]['vortspeco'] in ['interjekcio','nomo','vorto']:
@@ -51,8 +51,8 @@ def aldonu_karton(deck, model, enhavo, radiko, leciono_index_0 = -1):
 
   #tags = [enhavo['vortaro'][radiko]['vortspeco']]
   tags = []
-  if leciono_index_0 > -1:
-    tags.append(str(leciono_index_0 + 1))
+  if leciono:
+    tags.append(leciono)
 
   note = genanki.Note(
     model = model,
@@ -102,7 +102,8 @@ def create_anki(enhavo):
     for radiko in leciono['vortoj']['teksto']:
       if radiko.lower() in enhavo['vortaro']:
         radiko = radiko.lower()
-      aldonu_karton(deck, model, enhavo, radiko, leciono_index_0)
+      leciono = str(leciono_index_0 + 1)
+      aldonu_karton(deck, model, enhavo, radiko, leciono)
       aldonitaj.append(radiko)
         
   # # Nun aldonu la reston.

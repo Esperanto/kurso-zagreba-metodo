@@ -7,6 +7,13 @@ import re
 import yaml, jinja2, mistune
 import genanki
 
+# Customized classes for LearnEsperanto
+class NoteLeo(genanki.Note):
+  @property
+  def guid(self):
+    # Uzu unuan kampon (=radiko) por ID.
+    return genanki.guid_for(self.fields[0])
+
 def render_page(name, enhavo, vojprefikso, env, output_path):
 
     rendered = env.get_template(name + '.html').render(

@@ -10,13 +10,6 @@ import sys
 sys.path = ['/Users/jorge/code/web/leo/genanki'] + sys.path
 import genanki
 
-# Customized classes for LearnEsperanto
-class NoteLeo(genanki.Note):
-  @property
-  def guid(self):
-    # Uzu unuan kampon (=radiko) por ID.
-    return genanki.guid_for(self.fields[0])
-
 def render_page(name, enhavo, vojprefikso, env, output_path):
 
     rendered = env.get_template(name + '.html').render(
@@ -64,7 +57,7 @@ def aldonu_karton(deck, model, enhavo, radiko, leciono = None):
   if leciono:
     tags.append(leciono)
 
-  note = NoteLeo(
+  note = genanki.Note(
     model = model,
     tags = tags,
     fields = [

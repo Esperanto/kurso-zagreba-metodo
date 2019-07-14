@@ -49,7 +49,8 @@ def aldonu_karton(deck, model, enhavo, radiko, leciono_index_0 = -1):
   if not esperanta_karto or not fontlingva_karto:
     return deck
 
-  tags = [enhavo['vortaro'][radiko]['vortspeco']]
+  #tags = [enhavo['vortaro'][radiko]['vortspeco']]
+  tags = []
   if leciono_index_0 > -1:
     tags.append(str(leciono_index_0 + 1))
 

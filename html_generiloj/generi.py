@@ -23,6 +23,47 @@ def write_file(filename, content):
     with open(filename, 'w') as f:
         f.write(content)
 
+def aldonu_karton(deck, model, enhavo, leciono_index_0, radiko):
+
+  if radiko.lower() in enhavo['vortaro']:
+      radiko = radiko.lower()
+
+  # Ne kreu de tiuj vortspecoj.
+  if enhavo['vortaro'][radiko]['vortspeco'] in ['interjekcio','nomo','vorto']:
+    return deck 
+
+  esperanta_karto = radiko
+
+  # Aldonu finaĵon.
+  if radiko in enhavo['finajxoj']:
+      esperanta_karto = esperanta_karto + enhavo['finajxoj'][radiko]
+
+  # Aldonu '-' al afiksoj.
+  if enhavo['vortaro'][radiko]['vortspeco'] in ['prefikso']:
+      esperanta_karto = esperanta_karto + '-'
+  if enhavo['vortaro'][radiko]['vortspeco'] in ['sufikso', 'finajxo']:
+      esperanta_karto = '-' + esperanta_karto
+
+  fontlingva_karto = enhavo['vortaro'][radiko]['tradukajxo']
+  if isinstance(fontlingva_karto, list):
+      fontlingva_karto = ', '.join(fontlingva_karto) 
+
+  # Ne kreu karton se iu de ili malplenas.
+  if not esperanta_karto or not fontlingva_karto:
+    return deck
+
+  note = genanki.Note(
+    model = model,
+    tags = [str(leciono_index_0 + 1), enhavo['vortaro'][radiko]['vortspeco']],
+    fields = [
+        esperanta_karto,
+        fontlingva_karto
+    ]
+  )
+  deck.add_note(note)
+  
+  return deck
+
 # Create an Anki file.
 def create_anki(enhavo):
 
@@ -54,43 +95,7 @@ def create_anki(enhavo):
   for leciono_index_0 in range(len(enhavo['lecionoj'])):
     leciono = enhavo['lecionoj'][leciono_index_0]
     for radiko in leciono['vortoj']['teksto']:
-
-      if radiko.lower() in enhavo['vortaro']:
-          radiko = radiko.lower()
-
-      esperanta_karto = radiko
-
-      # Ne kreu de tiuj vortspecoj.
-      if enhavo['vortaro'][radiko]['vortspeco'] in ['interjekcio','nomo','vorto']:
-          continue
-
-      # Aldonu finaĵon.
-      if radiko in enhavo['finajxoj']:
-          esperanta_karto = esperanta_karto + enhavo['finajxoj'][radiko]
-
-      # Aldonu '-' al afiksoj.
-      if enhavo['vortaro'][radiko]['vortspeco'] in ['prefikso']:
-          esperanta_karto = esperanta_karto + '-'
-      if enhavo['vortaro'][radiko]['vortspeco'] in ['sufikso', 'finajxo']:
-          esperanta_karto = '-' + esperanta_karto
-
-      fontlingva_karto = enhavo['vortaro'][radiko]['tradukajxo']
-      if isinstance(fontlingva_karto, list):
-          fontlingva_karto = ', '.join(fontlingva_karto) 
-
-      # Ne kreu karton se iu de ili malplenas.
-      if not esperanta_karto or not fontlingva_karto:
-          continue
-
-      note = genanki.Note(
-        model = model,
-        tags = [str(leciono_index_0 + 1), enhavo['vortaro'][radiko]['vortspeco']],
-        fields = [
-            esperanta_karto,
-            fontlingva_karto
-        ]
-      )
-      deck.add_note(note)
+      aldonu_karton(deck, model, enhavo, leciono_index_0, radiko)
         
   return deck
 

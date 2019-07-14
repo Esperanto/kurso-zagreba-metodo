@@ -105,11 +105,11 @@ def create_anki(enhavo):
       aldonu_karton(deck, model, enhavo, radiko, leciono_index_0)
       aldonitaj.append(radiko)
         
-  # Nun aldonu la reston.
-  for radiko in enhavo['vortaro']:
-    if radiko in aldonitaj:
-      continue
-    aldonu_karton(deck, model, enhavo, radiko)
+  # # Nun aldonu la reston.
+  # for radiko in enhavo['vortaro']:
+  #   if radiko in aldonitaj:
+  #     continue
+  #   aldonu_karton(deck, model, enhavo, radiko)
 
   return deck
 

@@ -1,0 +1,3 @@
+[submodule "genanki"]
+	path = genanki
+	url = https://github.com/georgjaehnig/genanki

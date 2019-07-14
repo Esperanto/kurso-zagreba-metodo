@@ -71,7 +71,7 @@ def create_anki(enhavo):
 
   model = genanki.Model(
     hash('Learn Esperanto') & ((1<<31)-1),
-    'Frases',
+    'Learn Esperanto',
     fields=[
       {'name': 'eo' },
       {'name': enhavo['lingvo'] },

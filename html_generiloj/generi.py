@@ -78,6 +78,10 @@ def create_anki(enhavo):
       if isinstance(fontlingva_karto, list):
           fontlingva_karto = ', '.join(fontlingva_karto) 
 
+      # Ne kreu karton se iu de ili malplenas.
+      if not esperanta_karto or not fontlingva_karto:
+          continue
+
       note = genanki.Note(
         model = model,
         tags = [str(leciono_index_0 + 1), enhavo['vortaro'][radiko]['vortspeco']],

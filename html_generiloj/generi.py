@@ -52,9 +52,13 @@ def aldonu_karton(deck, model, enhavo, radiko, leciono_index_0 = -1):
   if not esperanta_karto or not fontlingva_karto:
     return deck
 
+  tags = [enhavo['vortaro'][radiko]['vortspeco']]
+  if leciono_index_0 > -1:
+    tags.append(str(leciono_index_0 + 1))
+
   note = genanki.Note(
     model = model,
-    tags = [str(leciono_index_0 + 1), enhavo['vortaro'][radiko]['vortspeco']],
+    tags = tags,
     fields = [
         esperanta_karto,
         fontlingva_karto

@@ -60,9 +60,11 @@ def create_anki(enhavo):
 
       esperanta_karto = radiko
 
+      # Ne kreu de tiuj vortspecoj.
       if enhavo['vortaro'][radiko]['vortspeco'] in ['interjekcio','nomo','vorto']:
           continue
 
+      # Aldonu finaĵon.
       if radiko in enhavo['finajxoj']:
           esperanta_karto = esperanta_karto + enhavo['finajxoj'][radiko]
 

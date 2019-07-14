@@ -70,7 +70,7 @@ def aldonu_karton(deck, model, enhavo, radiko, leciono_index_0 = -1):
 def create_anki(enhavo):
 
   model = genanki.Model(
-    hash('Learn Esperanto'),
+    hash('Learn Esperanto') & ((1<<31)-1),
     'Frases',
     fields=[
       {'name': 'eo' },
@@ -90,7 +90,7 @@ def create_anki(enhavo):
     ])
 
   deck = genanki.Deck(
-    hash('Learn Esperanto: ' + enhavo['lingvo']),
+    hash('Learn Esperanto: ' + enhavo['lingvo'])  & ((1<<31)-1),
     'Learn Esperanto: ' + enhavo['lingvo']
   )
 

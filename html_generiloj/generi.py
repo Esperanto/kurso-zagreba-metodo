@@ -25,9 +25,6 @@ def write_file(filename, content):
 
 def aldonu_karton(deck, model, enhavo, radiko, leciono_index_0 = -1):
 
-  if radiko.lower() in enhavo['vortaro']:
-      radiko = radiko.lower()
-
   # Ne kreu de tiuj vortspecoj.
   if enhavo['vortaro'][radiko]['vortspeco'] in ['interjekcio','nomo','vorto']:
     return deck 
@@ -96,11 +93,21 @@ def create_anki(enhavo):
     'Learn Esperanto: ' + enhavo['lingvo']
   )
 
+  aldonitaj = []
+
   for leciono_index_0 in range(len(enhavo['lecionoj'])):
     leciono = enhavo['lecionoj'][leciono_index_0]
     for radiko in leciono['vortoj']['teksto']:
+      if radiko.lower() in enhavo['vortaro']:
+        radiko = radiko.lower()
       aldonu_karton(deck, model, enhavo, radiko, leciono_index_0)
+      aldonitaj.append(radiko)
         
+  for radiko in enhavo['vortaro']:
+    if radiko in aldonitaj:
+      continue
+    aldonu_karton(deck, model, enhavo, radiko)
+
   return deck
 
 

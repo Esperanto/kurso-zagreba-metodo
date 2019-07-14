@@ -89,7 +89,7 @@ def create_anki(enhavo):
     ])
 
   deck = genanki.Deck(
-    hash('eo' + '-' + enhavo['lingvo']),
+    hash('Learn Esperanto: ' + enhavo['lingvo']),
     'Learn Esperanto: ' + enhavo['lingvo']
   )
 

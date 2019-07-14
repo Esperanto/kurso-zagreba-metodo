@@ -5,6 +5,9 @@ import os
 import shutil
 import re
 import yaml, jinja2, mistune
+
+import sys
+sys.path = ['/Users/jorge/code/web/leo/genanki'] + sys.path
 import genanki
 
 # Customized classes for LearnEsperanto

@@ -23,7 +23,7 @@ def write_file(filename, content):
     with open(filename, 'w') as f:
         f.write(content)
 
-def aldonu_karton(deck, model, enhavo, leciono_index_0, radiko):
+def aldonu_karton(deck, model, enhavo, radiko, leciono_index_0):
 
   if radiko.lower() in enhavo['vortaro']:
       radiko = radiko.lower()
@@ -95,7 +95,7 @@ def create_anki(enhavo):
   for leciono_index_0 in range(len(enhavo['lecionoj'])):
     leciono = enhavo['lecionoj'][leciono_index_0]
     for radiko in leciono['vortoj']['teksto']:
-      aldonu_karton(deck, model, enhavo, leciono_index_0, radiko)
+      aldonu_karton(deck, model, enhavo, radiko, leciono_index_0)
         
   return deck
 

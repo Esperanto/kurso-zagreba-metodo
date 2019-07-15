@@ -162,7 +162,8 @@ ap.add_argument(
     "--eligformo",
     help="La eligoformo",
     type=str,
-    choices=['html', 'md']
+    choices=['html', 'md'],
+    default='html'
 )
 
 ap.add_argument(

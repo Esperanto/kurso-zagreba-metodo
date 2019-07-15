@@ -177,9 +177,10 @@ args = ap.parse_args()
 
 lingvoj = yaml.load(open('agordoj/lingvoj.yml').read())
 
-#if args.lingvo not in lingvoj.keys():
-#    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
-enhavo = load(args.lingvo)
-enhavo['lingvoj'] = lingvoj
-enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-html_generiloj.generi.generate_html(args.lingvo, enhavo, args)
+if args.eligformo == 'html':
+    #if args.lingvo not in lingvoj.keys():
+    #    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
+    enhavo = load(args.lingvo)
+    enhavo['lingvoj'] = lingvoj
+    enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
+    html_generiloj.generi.generate_html(args.lingvo, enhavo, args)

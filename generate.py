@@ -7,7 +7,7 @@ import re
 import os
 import sys
 import argparse
-import html_generiloj
+import html_generiloj, epub_generiloj
 
 def transpose_headlines(markdown, level):
     prefix = ''
@@ -181,7 +181,7 @@ ap.add_argument(
 args = ap.parse_args()
 
 lingvoj = yaml.load(open('agordoj/lingvoj.yml').read())
-generate_funkcio = html_generiloj.generi.generate_html if not args.epub else generate_epub
+generate_funkcio = html_generiloj.generi.generate_html if not args.epub else epub_generiloj.generate_epub
 
 if args.lingvo:
     #if args.lingvo not in lingvoj.keys():

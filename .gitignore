@@ -1,6 +1,6 @@
 material
 maintenance/*.txt
 html_generiloj/output/
-epub/output/
+epub_generiloj/output/
 agordoj/auxtoroj-lingvoj.yml
 __pycache__

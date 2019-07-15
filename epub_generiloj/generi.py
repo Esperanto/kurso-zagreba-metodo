@@ -21,7 +21,7 @@ def write_epub_pdf_file(filename, content, papersize="a4", includable_latex_sour
     else:
         pypandoc.convert_text(content, 'pdf', format='md', outputfile=filename + '.pdf', extra_args=["--latex-engine=xelatex", "-V", "margin-top=2.54cm", "-V", "margin-bottom=2.54cm", "-V", "margin-right=2.54cm", "-V", "margin-left=2.54cm", "-V", "papersize:a4"])
 
-def generate_lekcio(lekcio, lekcio_numero):
+def generate_lekcio(enhavo, lekcio, lekcio_numero):
     libro = ""
     libro += "# Lekcio {} - ".format(lekcio_numero+1) + lekcio["teksto"]["titolo_string"] + "\n\n"
 
@@ -38,7 +38,10 @@ def generate_lekcio(lekcio, lekcio_numero):
         libro += "\n\n### " + vortoj_de[0].upper() + vortoj_de[1:] + "\n\n"
         vortlisto = [v for v in vortlisto if v[0] not in "ABCDEFGHIJKLMNOPRSTUVZ"]
         vlen = (len(vortlisto)+2)//3
+        for v_ind in range(vlen):
+            libro += "* {}\n".format(vortlisto[v_ind])
         #libro += "<table width=100%>"
+        """ TODO cxu tabelo aux listo aux ion alian?
         libro += ("-"*15+" ")*3+"\n"
         for v_ind in range(vlen):
             v1, v2, v3 = [vortlisto[v_ind].lower() if len(vortlisto) > v_ind and vortlisto[v_ind].lower() in enhavo["vortaro"] else "MDT" for i in [v_ind, v_ind+vlen, v_ind+2*vlen]]
@@ -52,6 +55,7 @@ def generate_lekcio(lekcio, lekcio_numero):
             #libro += "<tr><td>{}</td><td>{}</td><td>{}</td></tr>\n".format(v1, v2, v3)
             libro += "{}{}{}\n".format(v1, v2, v3)
         libro += ("-"*15+" ")*3 + "\n\n"
+        """
     libro += "\\pagebreak"  + "\n\n"
     # gramatiko
     libro += "## {} ".format(enhavo['fasado']['Gramatiko']) + "\n\n"
@@ -93,12 +97,12 @@ def generate_lekcio(lekcio, lekcio_numero):
     return libro
 
 def generate_epub(lingvo, enhavo, args):
-    output_path = 'epub/output/' + lingvo + "/"
+    output_path = 'epub_generiloj/output/' + lingvo + "/"
     lekcioj = ""
     # Forigu nunan dosierujon.
     shutil.rmtree(output_path, ignore_errors=True)
     for i, lekcio in enumerate(enhavo["lecionoj"]):
-        lekcio_string = generate_lekcio(lekcio, i)
+        lekcio_string = generate_lekcio(enhavo, lekcio, i)
         lekcioj += lekcio_string + "\\pagebreak"  + "\n\n"
         # Kreu novajn dosierojn
         write_epub_pdf_file(output_path+"lekcio"+str(i+1), lekcio_string, papersize=args.papersize, includable_latex_source=True)

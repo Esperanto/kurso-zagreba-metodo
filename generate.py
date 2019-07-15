@@ -8,6 +8,7 @@ import os
 import sys
 import argparse
 import html_generiloj
+import leo_markdown
 
 def transpose_headlines(markdown, level):
     prefix = ''
@@ -27,7 +28,7 @@ def get_markdown_headlines(s):
     return headlines
 
 
-def load(language):
+def load(language, gramatiko_transpose_headlines = 2):
 
     enhavo = {}
     enhavo['lingvo'] = language
@@ -118,7 +119,7 @@ def load(language):
 
         gramatiko_teksto = open(path).read()
         gramatiko_titoloj = get_markdown_headlines(gramatiko_teksto)
-        gramatiko_teksto = transpose_headlines(gramatiko_teksto, 2)
+        gramatiko_teksto = transpose_headlines(gramatiko_teksto, gramatiko_transpose_headlines)
 
         gramatiko = {
             'teksto': gramatiko_teksto,
@@ -184,3 +185,7 @@ if args.eligformo == 'html':
     enhavo['lingvoj'] = lingvoj
     enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
     html_generiloj.generi.generate_html(args.lingvo, enhavo, args)
+
+if args.eligformo == 'md':
+    enhavo = load(args.lingvo, 3)
+    leo_markdown.package.kreu_md(enhavo)

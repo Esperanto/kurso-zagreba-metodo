@@ -150,18 +150,18 @@ def load(language):
 ap = argparse.ArgumentParser()
 
 ap.add_argument(
-    "-vp",
-    "--vojprefikso",
-    help="La vojprefikso por ĉiuj ligiloj en la eligo. Norme: /[lingvokodo]/",
-    type=str
-)
-
-ap.add_argument(
     "-l",
     "--lingvo",
     help="Kreu eligon nur por tiu lingvo. Norme: Kreu por ĉiujn.",
     type=str,
     required=True
+)
+
+ap.add_argument(
+    "-vp",
+    "--vojprefikso",
+    help="La vojprefikso por ĉiuj ligiloj en la eligo. Norme: /[lingvokodo]/",
+    type=str
 )
 
 args = ap.parse_args()

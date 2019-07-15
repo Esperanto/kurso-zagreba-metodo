@@ -4,7 +4,7 @@ subtitle: {{enhavo.fasado['La plej rapida kurso por la bazoj']}}
 documentclass: scrartcl
 toc: True
 fontsize: 12pt
-papersize: A5
+'toc-depth': 2
 ---
 
 # Enkonduko

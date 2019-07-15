@@ -160,22 +160,17 @@ ap.add_argument(
     "-l",
     "--lingvo",
     help="Kreu eligon nur por tiu lingvo. Norme: Kreu por ĉiujn.",
-    type=str
+    type=str,
+    required=True
 )
 
 args = ap.parse_args()
 
 lingvoj = yaml.load(open('agordoj/lingvoj.yml').read())
 
-if args.lingvo:
-    #if args.lingvo not in lingvoj.keys():
-    #    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
-    enhavo = load(args.lingvo)
-    enhavo['lingvoj'] = lingvoj
-    enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-    html_generiloj.generi.generate_html(args.lingvo, enhavo, args)
-else:
-    for lingvo in lingvoj:
-        enhavo = load(lingvo)
-        enhavo['lingvoj'] = lingvoj
-        html_generiloj.generi.generate_html(lingvo, enhavo, args)
+#if args.lingvo not in lingvoj.keys():
+#    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
+enhavo = load(args.lingvo)
+enhavo['lingvoj'] = lingvoj
+enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
+html_generiloj.generi.generate_html(args.lingvo, enhavo, args)

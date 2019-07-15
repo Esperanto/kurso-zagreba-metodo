@@ -158,6 +158,14 @@ ap.add_argument(
 )
 
 ap.add_argument(
+    "-ef",
+    "--eligformo",
+    help="La eligoformo",
+    type=str,
+    choices=['html', 'md']
+)
+
+ap.add_argument(
     "-vp",
     "--vojprefikso",
     help="La vojprefikso por ĉiuj ligiloj en la eligo. Norme: /[lingvokodo]/",

@@ -8,6 +8,7 @@ import os
 import sys
 import argparse
 import html_generiloj
+import leo_markdown
 
 def transpose_headlines(markdown, level):
     prefix = ''
@@ -27,7 +28,7 @@ def get_markdown_headlines(s):
     return headlines
 
 
-def load(language):
+def load(language, gramatiko_transpose_headlines = 2):
 
     enhavo = {}
     enhavo['lingvo'] = language
@@ -118,7 +119,7 @@ def load(language):
 
         gramatiko_teksto = open(path).read()
         gramatiko_titoloj = get_markdown_headlines(gramatiko_teksto)
-        gramatiko_teksto = transpose_headlines(gramatiko_teksto, 2)
+        gramatiko_teksto = transpose_headlines(gramatiko_teksto, gramatiko_transpose_headlines)
 
         gramatiko = {
             'teksto': gramatiko_teksto,
@@ -150,16 +151,36 @@ def load(language):
 ap = argparse.ArgumentParser()
 
 ap.add_argument(
-    "-vp",
-    "--vojprefikso",
-    help="La vojprefikso por ĉiuj ligiloj en la eligo. Norme: /[lingvokodo]/",
-    type=str
-)
-
-ap.add_argument(
     "-l",
     "--lingvo",
     help="Kreu eligon nur por tiu lingvo. Norme: Kreu por ĉiujn.",
+    type=str,
+    required=True
+)
+
+ap.add_argument(
+    "-ef",
+    "--eligformo",
+    help="La eligoformo",
+    type=str,
+    choices=['html', 'md'],
+    default='html'
+)
+
+ap.add_argument(
+    "-p",
+    "--partoj",
+    help="Partoj",
+    type=str,
+    choices=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvo1', 'solvo2', 'solvo3'],
+    default=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvo1', 'solvo2', 'solvo3'],
+    nargs='*'
+)
+
+ap.add_argument(
+    "-vp",
+    "--vojprefikso",
+    help="La vojprefikso por ĉiuj ligiloj en la eligo. Norme: /[lingvokodo]/",
     type=str
 )
 
@@ -167,15 +188,16 @@ args = ap.parse_args()
 
 lingvoj = yaml.load(open('agordoj/lingvoj.yml').read())
 
-if args.lingvo:
+if args.eligformo == 'html':
     #if args.lingvo not in lingvoj.keys():
     #    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
     enhavo = load(args.lingvo)
     enhavo['lingvoj'] = lingvoj
     enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
     html_generiloj.generi.generate_html(args.lingvo, enhavo, args)
-else:
-    for lingvo in lingvoj:
-        enhavo = load(lingvo)
-        enhavo['lingvoj'] = lingvoj
-        html_generiloj.generi.generate_html(lingvo, enhavo, args)
+
+if args.eligformo == 'md':
+    enhavo = load(args.lingvo, 3)
+    enhavo['lingvoj'] = lingvoj
+    enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
+    leo_markdown.package.kreu_md(enhavo, args.partoj)

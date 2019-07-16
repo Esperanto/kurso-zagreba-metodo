@@ -168,6 +168,16 @@ ap.add_argument(
 )
 
 ap.add_argument(
+    "-p",
+    "--partoj",
+    help="Partoj",
+    type=str,
+    choices=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvoj'],
+    default=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvoj'],
+    nargs='*'
+)
+
+ap.add_argument(
     "-vp",
     "--vojprefikso",
     help="La vojprefikso por ĉiuj ligiloj en la eligo. Norme: /[lingvokodo]/",
@@ -190,4 +200,4 @@ if args.eligformo == 'md':
     enhavo = load(args.lingvo, 3)
     enhavo['lingvoj'] = lingvoj
     enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-    leo_markdown.package.kreu_md(enhavo)
+    leo_markdown.package.kreu_md(enhavo, args.partoj)

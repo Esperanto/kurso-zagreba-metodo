@@ -188,4 +188,6 @@ if args.eligformo == 'html':
 
 if args.eligformo == 'md':
     enhavo = load(args.lingvo, 3)
+    enhavo['lingvoj'] = lingvoj
+    enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
     leo_markdown.package.kreu_md(enhavo)

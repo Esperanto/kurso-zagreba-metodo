@@ -8,7 +8,7 @@
 {%- endif %}
 
 
-{% if 'vortoj' in partoj -%}
+{% if 'gramatiko' in partoj -%}
   {% include 'gramatiko.md' %}
 {%- endif %}
 

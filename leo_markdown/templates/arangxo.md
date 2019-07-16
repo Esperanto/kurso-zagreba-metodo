@@ -2,6 +2,7 @@
 title: {{ enhavo.fasado['Lerni Esperanton'] or enhavo.fasado['Esperanto en 12 tagoj'] }}
 subtitle: {{enhavo.fasado['La plej rapida kurso por la bazoj']}}
 documentclass: scrartcl
+lang: {{ enhavo.lingvo }}
 toc: True
 fontsize: 16pt
 'toc-depth': 2

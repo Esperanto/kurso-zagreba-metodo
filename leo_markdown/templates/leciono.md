@@ -31,3 +31,26 @@
 {%- endif %}
 
 {%- endif %}
+
+
+{% if 'solvo1' in partoj or 'solvo2' in partoj or 'solvo3' in partoj -%}
+
+### {{ enhavo.fasado['Solvoj'] or 'Solvoj' }}
+
+
+{% if 'solvo1' in partoj -%}
+  {% include 'solvo1.md' %}
+{%- endif %}
+
+
+{% if 'solvo2' in partoj -%}
+  {% include 'solvo2.md' %}
+{%- endif %}
+
+
+{% if 'solvo3' in partoj -%}
+  {% include 'solvo3.md' %}
+{%- endif %}
+
+
+{%- endif %}

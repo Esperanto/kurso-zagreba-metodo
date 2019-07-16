@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os
-import shutil
 import re
-import yaml, jinja2, mistune
+import jinja2, mistune
 
 def kreu_md(enhavo, partoj):
   md = mistune.Markdown()

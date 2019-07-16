@@ -4,7 +4,7 @@
 import re
 import jinja2, mistune
 
-def kreu_md(enhavo, partoj):
+def kreu_md(enhavo, printendaj):
   md = mistune.Markdown()
 
   env = jinja2.Environment()
@@ -17,5 +17,5 @@ def kreu_md(enhavo, partoj):
   for i in range(len(enhavo['lecionoj'])):
       enhavo['lecionoj'][i]['gramatiko']['teksto'] = re.sub('__', '**', enhavo['lecionoj'][i]['gramatiko']['teksto'] )
 
-  rendered = env.get_template('arangxo.md').render(enhavo = enhavo, partoj = partoj)
+  rendered = env.get_template('arangxo.md').render(enhavo = enhavo, printendaj = printendaj)
   print(rendered)

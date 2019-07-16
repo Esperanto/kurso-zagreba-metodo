@@ -168,12 +168,22 @@ ap.add_argument(
 )
 
 ap.add_argument(
-    "-p",
-    "--partoj",
-    help="Partoj",
+    "-pp",
+    "--printendaj-partoj",
+    help="Printendaj partoj",
     type=str,
     choices=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvo1', 'solvo2', 'solvo3'],
     default=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvo1', 'solvo2', 'solvo3'],
+    nargs='*'
+)
+
+ap.add_argument(
+    "-pc",
+    "--printendaj-lecionoj",
+    help="Printendaj lecionoj",
+    type=int,
+    choices=[1,2,3,4,5,6,7,8,9,10,11,12],
+    default=[1,2,3,4,5,6,7,8,9,10,11,12],
     nargs='*'
 )
 
@@ -200,4 +210,4 @@ if args.eligformo == 'md':
     enhavo = load(args.lingvo, 3)
     enhavo['lingvoj'] = lingvoj
     enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-    leo_markdown.package.kreu_md(enhavo, args.partoj)
+    leo_markdown.package.kreu_md(enhavo, printendaj = { 'partoj': args.printendaj_partoj, 'lecionoj': args.printendaj_lecionoj } )

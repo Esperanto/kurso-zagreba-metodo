@@ -16,5 +16,7 @@ fontsize: 16pt
 # Lecionoj
 
 {% for leciono in enhavo.lecionoj %}
-  {% include 'leciono.md' %}
+  {% if loop.index in printendaj.lecionoj %}
+    {% include 'leciono.md' %}
+  {% endif %}
 {% endfor %}

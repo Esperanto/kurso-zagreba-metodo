@@ -13,14 +13,14 @@
 #### {{ enhavo.fasado['En la teksto'] }}
 
 {% for radiko in leciono.vortoj.teksto %} 
-    {% include 'vortlisto.md' %}
+    {% include 'vortlistelemento.md' %}
 {% endfor %}
 
 
 #### {{ enhavo.fasado['Pliaj'] }}
 
 {% for radiko in leciono.vortoj.pliaj %} 
-    {% include 'vortlisto.md' %}
+    {% include 'vortlistelemento.md' %}
 {% endfor %}
 
 

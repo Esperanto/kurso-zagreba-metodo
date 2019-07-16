@@ -172,8 +172,8 @@ ap.add_argument(
     "--partoj",
     help="Partoj",
     type=str,
-    choices=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvoj'],
-    default=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvoj'],
+    choices=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvo1', 'solvo2', 'solvo3'],
+    default=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvo1', 'solvo2', 'solvo3'],
     nargs='*'
 )
 

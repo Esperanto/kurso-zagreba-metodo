@@ -47,7 +47,10 @@ don: donner
 dorm: dormir
 doĝ: doge
 edz: mari
-efektiv: effectivement
+efektiv:
+- effectif
+- réel
+- véritable
 ekskurs: excursion
 esper: espérer
 est: être
@@ -287,7 +290,7 @@ vok: appeler
 vol: vouloir
 vort: mot
 voĉ: voix
-zorg: souci
+zorg: se soucier
 ĉambr: pièce (d'un logement)
 ĉef: chef
 ĝen: gêner

@@ -178,7 +178,7 @@ ap.add_argument(
 )
 
 ap.add_argument(
-    "-pc",
+    "-pl",
     "--printendaj-lecionoj",
     help="Printendaj lecionoj",
     type=int,

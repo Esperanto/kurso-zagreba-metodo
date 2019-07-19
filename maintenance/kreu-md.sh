@@ -1,2 +1,2 @@
-python3 generate.py -l de -ef md | pandoc --latex-engine=xelatex -o de.pdf
+python3 generate.py --lingvo en --eligformo md --printendaj-lecionoj 1 | pandoc --latex-engine=xelatex -o en.pdf
 

@@ -7,6 +7,15 @@ dir: {{ enhavo.tekstodirekto }}
 toc: True
 fontsize: 16pt
 'toc-depth': 2
+author: 
+- Zlatko Tišljar
+- Spomenka Štimec
+- Ivica Špoljarec
+- Roger Imbert
+{% for auxtoro in enhavo.lingvoj[enhavo.lingvo]['aŭtoroj'] %}
+- {{ auxtoro.nomo }}
+{% endfor %}
+
 ---
 
 # Enkonduko

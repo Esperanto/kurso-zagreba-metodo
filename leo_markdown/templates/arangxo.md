@@ -7,7 +7,7 @@ dir: {{ enhavo.tekstodirekto }}
 toc: True
 fontsize: 16pt
 'toc-depth': 2
-author: 
+author:
 - Zlatko Tišljar
 - Spomenka Štimec
 - Ivica Špoljarec

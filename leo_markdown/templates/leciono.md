@@ -37,6 +37,9 @@
 
 ### {{ enhavo.fasado['Solvoj'] or 'Solvoj' }}
 
+`\begin{multicols}{2}`{=latex}
+
+
 
 {% if 'solvo1' in printendaj.partoj -%}
   {% include 'solvo1.md' %}
@@ -53,4 +56,7 @@
 {%- endif %}
 
 
-{%- endif %}
+`\end{multicols}`{=latex}
+
+
+{% endif %}

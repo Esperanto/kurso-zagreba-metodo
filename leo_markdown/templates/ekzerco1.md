@@ -2,7 +2,7 @@
 
 {% for vico in leciono.ekzercoj['Traduku'] %}
   {% for esperante, fontlingve in vico.items() %}
-- {{ esperante }}:
+- {{ esperante }}: `\hrulefill`{=latex}
 
   {% endfor %}
 {% endfor %}

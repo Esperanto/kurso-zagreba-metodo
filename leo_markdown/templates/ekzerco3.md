@@ -8,7 +8,7 @@
 
   {%- if paro is mapping -%}
     {% for esperante, fontlingve in paro.items() %}
-- {{ fontlingve }}:
+- {{ fontlingve }}: `\hrulefill`{=latex}
     {% endfor %}
   {% endif %}
 

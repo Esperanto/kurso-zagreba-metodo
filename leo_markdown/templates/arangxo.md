@@ -7,6 +7,8 @@ dir: {{ enhavo.tekstodirekto }}
 toc: True
 fontsize: 16pt
 'toc-depth': 2
+header-includes:
+- \usepackage{multicol}
 author:
 - Zlatko Tišljar
 - Spomenka Štimec

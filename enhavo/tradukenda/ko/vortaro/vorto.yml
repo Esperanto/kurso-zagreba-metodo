@@ -121,150 +121,178 @@ leteroj: letters
 libertempo:
 - free time
 - spare time
-libroj: books
-lumigis:
-- lightened up
-- flashed up
-malagrabla: unpleasant
-malbela: ugly
-malbonaj: bad
-malbonajn: bad
-malbonan: bad
-malbono: bad 
-malfacilan: difficult
-malfacile: difficult
-malfeliĉo: misfortune
-malforta: weak
-malforte: weak 
-malfruas: is late 
-malfrue: late
-malfrui: to be late 
-malgranda:
-- little
--  small
-malhelpis: hindered
-malinterese: uninteresting
-malkontentigi: to annoy
-mallaŭte: quiet
-malliberejon: prison
-mallumo: darkness
-malmulte: few
-malmultekosta: cheap 
-malmulton: few
-malnova: old
-malnovaj: old
-malofte: rarely 
-malplaĉa: uncomfortable
-malplaĉan: uncomfortable 
-malproksime: far away
-malsaniĝis: got sick
-malsaĝa: unwise
-malsekajn: wet
-malsukcesa: unsuccessful
-maltrankvila: anxious
-malvarman: cold
-malĝoja: sad
-malŝatas: doesn't like
-malŝatis: didn't like
-manĝaĵo: food
-manĝegi: to devour
-maristo: seaman
-maristoj: seamen
-mariston: seaman
-miaj: my 
-militistoj: soldiers
-monerojn: coins
-monujo: purse
-morgaŭan: tomorrow's
-mortigo: murder
-moviĝis: moved
-multekosta: expensive
-multpiedaj: many-footed
-naskiĝtaga: birthday
-naskiĝtago: birthday 
-naturaĵojn: natural things
-nehoma: non-human
-neinteresaj: uninteresting
-nokta: nightly
-novaĵoj: news
-opinion: opinion
-ordigi: to order 
-paperoj: papers
-paperojn:  papers
-paperujon: wastebasket
-pasigos: will spend
-patrino: mother
-perdigis: withdrew
-plenigadis: filled
-plenumis: fulfilled
-plibeligis: beautified
-plimulto: majority
-policano: policeman
-promenejo: promenade
-promeno: walk
-rapidege: very quickly
-realigi: to realize
-redonu: give back
-rekapti: to get back
-repaciĝon: reliberation
-revenis: came back
-revidi: to see again
-revido: goodbye
-ridetis: smiled
-rideto: smile
+libroj: 책들
+lumigis: 불을 밝혔다
+malagrabla: 불쾌한
+malbela:
+  - 못생긴
+  - 추한
+malbonaj: 나쁜
+malbonajn: 나쁜
+malbonan: 나쁜
+malbono: 나쁨
+malfacilan: 어려운
+malfacile: 어렵게
+malfeliĉo: 불행
+malforta: 약한
+malforte: 약하게
+malfruas: 늦었다 
+malfrue: 늦게
+malfrui: 늦다
+malgranda: 작은
+malhelpis: 방해했다
+malinterese:
+  - 흥미없이
+  - 재미없이
+malkontentigi:
+  - 불만족 시키다
+  - 불만을 사다
+mallaŭte: 낮은 소리로
+malliberejon: 감옥을
+mallumo:
+  - 어둠
+  - 암흑
+malmulte: 소량으로
+malmultekosta: 싼 
+malmulton: 소량을
+malnova:
+  - 오랜
+  - 헌
+malnovaj:
+  - 오래된
+  - 헌
+malofte: 드물게
+malplaĉa:
+  - 기분을 나쁘게 하는
+  - 비위에 거슬리는
+malplaĉan:
+  - 기분 나쁘게 하는
+  - 비위에 거슬리는
+malproksime: 멀리에
+malsaniĝis: 병이 들었다
+malsaĝa: 바보같은
+malsekajn: 젖은
+malsukcesa: 실패한
+maltrankvila: 불안한
+malvarman:
+  - 추운
+  - 차가운
+malĝoja: 슬픈
+malŝatas: 싫어한다
+malŝatis: 싫어했다
+manĝaĵo: 음식
+manĝegi: 많이 먹다
+maristo:
+  - 선원
+  - 뱃사람
+maristoj:
+  - 선원들
+  - 뱃사람들
+mariston:
+  - 선원을
+  - 뱃사람을
+miaj: 나의
+militistoj: 군인들
+monerojn: 동전들을
+monujo: 지갑
+morgaŭan: 내일의
+mortigo:
+  - 죽임
+  - 살해
+moviĝis: 이사했다
+multekosta: 비싼
+multpiedaj:
+  - 발이 많은
+  - 다족류의
+naskiĝtaga: 생일의
+naskiĝtago: 생일 
+naturaĵojn: 자연의 것들을
+nehoma: 사람이 아닌
+neinteresaj: 흥미롭지 않은
+nokta: 밤의
+novaĵoj: 뉴스
+opinion: 의견을
+ordigi: 정돈하다 
+paperoj: 종이들
+paperojn:  종이(들)을
+paperujon: 휴지통을
+pasigos: 보낼 것이다
+patrino: 어머니
+perdigis: 잃게 햇다
+plenigadis: 채웠다
+plenumis: 완수했다
+plibeligis: 더 아름답게 만들었다
+plimulto: 다수
+policano: 경찰관
+promenejo: 산책로
+promeno: 산책
+rapidege: 매우 빠르게
+realigi: 실현하다
+redonu: 되돌려주라
+rekapti: 다시잡다
+repaciĝon: 다시 평화롭기를
+revenis: 되돌아 왔다
+revidi: 다시보다
+revido: 다시봄
+ridetis: 미소지었다
+rideto: 미소
 riĉeco:
-- richness
-- wealth
-riĉulo: rich man
-salton: jump
-saluton: hello
-samklubanoj: co-members of the club
-sekretajn: secret
-sekreton: secret
-senbrue: silently
-seninterese: disinterested
-senkolora: colorless
-sensukcese: without success
-sentimulo: fearless man
-senvorte: wordlessly
-sinjorinoj: ladies
-sinjorinon: lady
-skribotablo: desk
-soleca: lonely
-sovaĝejo: wilderness
-sportisto: sportsman
-subakvigis: to sink
-subakviĝis: to sink
-subite: suddenly
-supren: upward
-surhavas: wear
-surlokan: at this place
-teroristoj: terrorists
-tiuokaze: in that case
-travivaĵo: adventure
-tridekjara: 30-year-old
-troviĝis: was situated
-unuaj: first
-urbomezo: city center
-vagonaro: train
-vendejo: shop
-vendejon: shop
-vendisto: clerk 
-vestaĵo: clothes 
-vestaĵoj: clothes
-vestaĵojn: clothes 
-vestaĵon: clothes
+- 부유함
+- 풍부함
+riĉulo: 부자
+salton: 점프를
+saluton: 안녕
+samklubanoj: 같은 클럽 멤버들
+sekretajn: 비밀의
+sekreton: 비밀을
+senbrue: 소음없이
+seninterese: 흥미없이
+senkolora: 색깔이 없는
+sensukcese: 성공없이
+sentimulo: 겂없는 사람
+senvorte: 말없이
+sinjorinoj: 숙녀들
+sinjorinon: 숙녀를
+skribotablo: 책상
+soleca: 외로운
+sovaĝejo: 야생지
+sportisto: 운동선수
+subakvigis: 가라앉혔다
+subakviĝis: 가라앉았다
+subite: 갑자기
+supren: 위로
+surhavas: 입다
+surlokan: 현장에서의
+teroristoj: 테러리스트들
+tiuokaze: 그 경우에
+travivaĵo:
+  - 겪음
+  - 경험
+tridekjara: 30살의
+troviĝis:
+  - 발견되었다
+  - 위치해 있었다
+unuaj: 첫
+urbomezo: 도시 중앙부
+vagonaro: 기차
+vendejo: 상점
+vendejon: 상점을
+vendisto: 상인 
+vestaĵo: 옷 
+vestaĵoj: 옷들
+vestaĵojn: 옷(들)을 
+vestaĵon: 옷을
 veturado:
-- drive
-- tour
-veturigus: would drive 
-viaj: your
-virino: woman
-vojaĝantoj: travellers
-ĉambristoj: chambermaids
-ĉeesto: presence
-ĉirkaŭaĵo: surrounding
-ĝenon: disturbance
-ĝustatempe: at the right time
-ŝiaj: her 
-ŝipkuron: ship race
+- 운전하기
+- 이동하기
+veturigus: 운전할 것이다 
+viaj: 당신의
+virino: 여자
+vojaĝantoj: 여행자들
+ĉambristoj: 가정부들
+ĉeesto: 참석
+ĉirkaŭaĵo: 주변
+ĝenon: 방해를
+ĝustatempe: 정확한 시간에
+ŝiaj: 그녀의 
+ŝipkuron: 배 경주를

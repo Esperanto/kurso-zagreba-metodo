@@ -42,46 +42,56 @@ dumnokte: 밤중에
 dumtage: 낮에
 ekkriis: 소리쳤다
 ekmire: 깜짝놀라게
-ekparolis: started speaking
-ekridis: started laughing
-ekrigardis: started looking
-eksaltis: started jumping
-ekscii: to find out
-eksidis: sat down
-ekstervoje: on the way out
-ekveturas: start riding
-ekvidis: started seeing
-elstaraj: outstanding
-eniri: to go in
-eniris: went in 
-eniru: go in! 
-facilmovaj: easy-to-move
+ekparolis: 말하기 시작했다
+ekridis: 웃기 시작했다
+ekrigardis: 바라보기 시작했다
+eksaltis: 점프를 시작했다
+ekscii: 알게 되었다
+eksidis: 앉았다
+ekstervoje: 밖으로 나가는 길에
+ekveturas: 운전해가기 시작했다
+ekvidis: 보기 시작했다
+elstaraj:
+  - 뛰어난
+  - 특출난
+eniri: 들어가다
+eniris: 들어갔다 
+eniru: 들어가라
+facilmovaj: 움직이기 쉬운
 faligi:
-- to cause falling
-- to run over
-faligis: ran over
-familianoj: family members
-fermita: closed 
-fine: at the end
-foresti: to be away
-foriros: will go away
-fratino: sister
-fuŝparolis: spoke wrongly
-geamikoj: friends
-gefratoj: siblings
-gelernantojn:
-- co-learners
-- fellow stundent
-gepatroj: parents
-gondolisto: gondolist 
-gondolistoj: gondolists
-grafino: countess
-grafinon: countess
-grandula: giant
-gravuloj: important people
-haltigis: stopped
-havigi: to obtain
-havindan: worth having
+- 떨어지게 하다
+- 쓰러뜨리다
+faligis:
+  - 떨어뜨렸다
+  - 쓰러뜨렸다
+familianoj: 가족 구성원들
+fermita: 닫힌 
+fine:
+  - 끝내
+  - 끝에
+foresti: 멀리 사라지다
+foriros:
+  - 멀리 갈 것이다
+  - 떠날 것이다
+fratino:
+  - 자매
+  - 언니 또는 여동생
+fuŝparolis: 엉망으로 말했다
+geamikoj: 남녀 친구들
+gefratoj: 형제자매들
+gelernantojn: 남녀 학생들을
+gepatroj: 부모들
+gondolisto: 곤돌라 운전사
+gondolistoj: 곤돌라 운전사들
+grafino: 백작부인
+grafinon: 백작부인을
+grandula: 거인의
+gravuloj:
+  - 중요한 사람들
+  - 요인들
+haltigis: 멈추게 했다
+havigi: 취득하다
+havindan: 가질만한
 homformo: form of a person
 hommulton: crowd
 ideoriĉan: imaginative

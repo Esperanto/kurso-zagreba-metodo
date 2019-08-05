@@ -10,6 +10,24 @@ Tiel oni facile kaj rapide povos krei eldonaĵojn de la kurso en HTML, EPUB, PDF
 
 - https://learn.esperanto.com/
 
+## Kiel krei eligon
+### HTML
+
+    python generate.py --lingvo en --eligformo html
+
+Kreas HTML-dosierujon en `html_generiloj/output/en`.
+
+### PDF kaj EPUB
+
+    python generate.py --lingvo en --eligformo md 
+
+Eligas la tutan kurson en Mardown al `STDOUT`, tial per:
+
+    python generate.py --lingvo en --eligformo md | pandoc --latex-engine=xelatex -o en.pdf
+    python generate.py --lingvo en --eligformo md | pandoc -o en.epub
+
+oni povas krei kaj PDF kaj PDF dosieron.
+
 ## Eksperimenta PWA-subteno
 
 - https://esperanto.github.io/kurso-zagreba-metodo/ - En Android, aperas sugesto instali la aplikaĵon, en aliaj platformoj eblas instali ĝin per la opcio en la menuo en Chrome. Sendepende de tia instalado, la paĝaro ebligas uzi la paĝojn eksterrete post unuafoja vizitado.

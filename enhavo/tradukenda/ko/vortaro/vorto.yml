@@ -1,264 +1,308 @@
-Esperanto: Esperanto
-akcepteblan: acceptable
-alilandaj: foreign
-alporti: to bring over
-alportis: brought over 
-alvenigas: leads here
-alvenis: came here
-alvenos: will come here
-amikino: girl-friend
-amikinon: girl-friend
-amletero: love letter
-antaŭeniris: went ahead
-arbaro: wood
-arbetoj: bushes
-arboplena: full of trees
-aĉetumos: will go shopping
-aĉodora: bad smelling 
-aŭdiĝis: was being heard
-bedaŭrinde: unfortunately
-belaĵoj: beautiful things
-beleta: cute
-bestetoj: little animals
-bonega: very good
-bonvolu: please
-bonvolus: would you be so kind
-centoj: hundreds
-dankon: thank you
-daŭrigis: continued
-denove: again
-devojiĝis: to go astray
-dikiĝi: to become fat
-doloriga: pain causing
-dolorige: pain causing
-domegon: villa
-dumnokte: at night
-dumtage: at day
-ekkriis: started screaming
-ekmire: wondrously
-ekparolis: started speaking
-ekridis: started laughing
-ekrigardis: started looking
-eksaltis: started jumping
-ekscii: to find out
-eksidis: sat down
-ekstervoje: on the way out
-ekveturas: start riding
-ekvidis: started seeing
-elstaraj: outstanding
-eniri: to go in
-eniris: went in 
-eniru: go in! 
-facilmovaj: easy-to-move
+Esperanto: 에스페란토
+akcepteblan: 수용가능한
+alilandaj: 다른나라(들)의
+alporti:
+  - 데려오다
+  - 가져오다
+alportis:
+  - 데려왔다
+  - 가져왔다
+alvenigas:
+  - 인도한다
+  - 도착하게 한다
+alvenis: 도착했다
+alvenos: 도착할 것이다
+amikino: 여자친구
+amikinon: 여자친구를
+amletero: 연애편지
+antaŭeniris: 앞으로 갔다
+arbaro: 숲
+arbetoj: 수풀
+arboplena: 나무가 가득한
+aĉetumos: 쇼핑할 것이다
+aĉodora: 냄새가 고약한
+aŭdiĝis: (소리가) 들렸다
+bedaŭrinde: 애석하게
+belaĵoj: 아름다운 것들
+beleta: 귀여운
+bestetoj: 작은동물들
+bonega: 매우좋은
+bonvolu: (제발)
+bonvolus: 선의로하다 
+centoj: 수백
+dankon: 감사합니다
+daŭrigis: 계속되도록 유지했다
+denove: 다시
+devojiĝis: 길을 잃었다
+dikiĝi: 살이쪘다
+doloriga: 고통을 주는
+dolorige: 고통스럽게도
+domegon: 큰 집을
+dumnokte: 밤중에
+dumtage: 낮에
+ekkriis: 소리쳤다
+ekmire: 깜짝놀라게
+ekparolis: 말하기 시작했다
+ekridis: 웃기 시작했다
+ekrigardis: 바라보기 시작했다
+eksaltis: 점프를 시작했다
+ekscii: 알게 되었다
+eksidis: 앉았다
+ekstervoje: 밖으로 나가는 길에
+ekveturas: 운전해가기 시작했다
+ekvidis: 보기 시작했다
+elstaraj:
+  - 뛰어난
+  - 특출난
+eniri: 들어가다
+eniris: 들어갔다 
+eniru: 들어가라
+facilmovaj: 움직이기 쉬운
 faligi:
-- to cause falling
-- to run over
-faligis: ran over
-familianoj: family members
-fermita: closed 
-fine: at the end
-foresti: to be away
-foriros: will go away
-fratino: sister
-fuŝparolis: spoke wrongly
-geamikoj: friends
-gefratoj: siblings
-gelernantojn:
-- co-learners
-- fellow stundent
-gepatroj: parents
-gondolisto: gondolist 
-gondolistoj: gondolists
-grafino: countess
-grafinon: countess
-grandula: giant
-gravuloj: important people
-haltigis: stopped
-havigi: to obtain
-havindan: worth having
-homformo: form of a person
-hommulton: crowd
-ideoriĉan: imaginative
-industriisto: industrialist
-instruistino: female teacher 
-instruiston: teacher
-intervidiĝas: see each other
-iron: walk
-junulino: female youngster
-junulinoj: female youngsters
-junulinon: female youngster
-junuloj: youngsters
-kafejo: café
-kafejon: café
-karulino: darling
-karulo: darling
-klarigis: explained
-klarigon: explanation 
-klubanoj: club members
-kompreneble: 
-- understandably
-- of course
-korpoforton: physical strength
-kunmanĝos: will eat together
-kunporti: to bring along
-kunulino: female companion
-kunvenas: come together
-laboristo: worker
-lampeto: little lamp
+- 떨어지게 하다
+- 쓰러뜨리다
+faligis:
+  - 떨어뜨렸다
+  - 쓰러뜨렸다
+familianoj: 가족 구성원들
+fermita: 닫힌 
+fine:
+  - 끝내
+  - 끝에
+foresti: 멀리 사라지다
+foriros:
+  - 멀리 갈 것이다
+  - 떠날 것이다
+fratino:
+  - 자매
+  - 언니 또는 여동생
+fuŝparolis: 엉망으로 말했다
+geamikoj: 남녀 친구들
+gefratoj: 형제자매들
+gelernantojn: 남녀 학생들을
+gepatroj: 부모들
+gondolisto: 곤돌라 운전사
+gondolistoj: 곤돌라 운전사들
+grafino: 백작부인
+grafinon: 백작부인을
+grandula: 거인의
+gravuloj:
+  - 중요한 사람들
+  - 요인들
+haltigis: 멈추게 했다
+havigi: 취득하다
+havindan: 가질만한
+homformo: 사람형상
+hommulton: 대중을
+ideoriĉan: 아이디어가 많은
+industriisto: 산업계 종사자
+instruistino: 여자 선생님 
+instruiston: 여자 선생님을
+intervidiĝas: 서로보게 된다
+iron:
+  - 진행을
+  - 가기를
+junulino: 젊은 여성
+junulinoj: 젊은 여성들
+junulinon: 젊은 여성을
+junuloj: 젊은이들
+kafejo: 까페
+kafejon: 까페를
+karulino: 친애하는 여인
+karulo: 친애하는 사람
+klarigis: 설명했다
+klarigon: 설명을 
+klubanoj: 클럽 멤버들
+kompreneble: 물론
+korpoforton: 신체적 힘
+kunmanĝos: 같이 먹을 것이다
+kunporti: 휴대하다
+kunulino: 여성 동거인
+kunvenas: 같이 모인다
+laboristo:
+  - 일꾼
+  - 작업자
+lampeto: 작은 램프
 lernanto:
-- learner
-- student
-lernejo: school
-lernejon: school 
-lernolibroj: schoolbooks
-leteroj: letters
-libertempo:
-- free time
-- spare time
-libroj: books
-lumigis:
-- lightened up
-- flashed up
-malagrabla: unpleasant
-malbela: ugly
-malbonaj: bad
-malbonajn: bad
-malbonan: bad
-malbono: bad 
-malfacilan: difficult
-malfacile: difficult
-malfeliĉo: misfortune
-malforta: weak
-malforte: weak 
-malfruas: is late 
-malfrue: late
-malfrui: to be late 
-malgranda:
-- little
--  small
-malhelpis: hindered
-malinterese: uninteresting
-malkontentigi: to annoy
-mallaŭte: quiet
-malliberejon: prison
-mallumo: darkness
-malmulte: few
-malmultekosta: cheap 
-malmulton: few
-malnova: old
-malnovaj: old
-malofte: rarely 
-malplaĉa: uncomfortable
-malplaĉan: uncomfortable 
-malproksime: far away
-malsaniĝis: got sick
-malsaĝa: unwise
-malsekajn: wet
-malsukcesa: unsuccessful
-maltrankvila: anxious
-malvarman: cold
-malĝoja: sad
-malŝatas: doesn't like
-malŝatis: didn't like
-manĝaĵo: food
-manĝegi: to devour
-maristo: seaman
-maristoj: seamen
-mariston: seaman
-miaj: my 
-militistoj: soldiers
-monerojn: coins
-monujo: purse
-morgaŭan: tomorrow's
-mortigo: murder
-moviĝis: moved
-multekosta: expensive
-multpiedaj: many-footed
-naskiĝtaga: birthday
-naskiĝtago: birthday 
-naturaĵojn: natural things
-nehoma: non-human
-neinteresaj: uninteresting
-nokta: nightly
-novaĵoj: news
-opinion: opinion
-ordigi: to order 
-paperoj: papers
-paperojn:  papers
-paperujon: wastebasket
-pasigos: will spend
-patrino: mother
-perdigis: withdrew
-plenigadis: filled
-plenumis: fulfilled
-plibeligis: beautified
-plimulto: majority
-policano: policeman
-promenejo: promenade
-promeno: walk
-rapidege: very quickly
-realigi: to realize
-redonu: give back
-rekapti: to get back
-repaciĝon: reliberation
-revenis: came back
-revidi: to see again
-revido: goodbye
-ridetis: smiled
-rideto: smile
+  - 배우는 사람
+  - 학생
+lernejo: 학교
+lernejon: 학교들을
+lernolibroj: 교과서들
+leteroj: 편지들
+libertempo: 자유시간
+libroj: 책들
+lumigis: 불을 밝혔다
+malagrabla: 불쾌한
+malbela:
+  - 못생긴
+  - 추한
+malbonaj: 나쁜
+malbonajn: 나쁜
+malbonan: 나쁜
+malbono: 나쁨
+malfacilan: 어려운
+malfacile: 어렵게
+malfeliĉo: 불행
+malforta: 약한
+malforte: 약하게
+malfruas: 늦었다 
+malfrue: 늦게
+malfrui: 늦다
+malgranda: 작은
+malhelpis: 방해했다
+malinterese:
+  - 흥미없이
+  - 재미없이
+malkontentigi:
+  - 불만족 시키다
+  - 불만을 사다
+mallaŭte: 낮은 소리로
+malliberejon: 감옥을
+mallumo:
+  - 어둠
+  - 암흑
+malmulte: 소량으로
+malmultekosta: 싼 
+malmulton: 소량을
+malnova:
+  - 오랜
+  - 헌
+malnovaj:
+  - 오래된
+  - 헌
+malofte: 드물게
+malplaĉa:
+  - 기분을 나쁘게 하는
+  - 비위에 거슬리는
+malplaĉan:
+  - 기분 나쁘게 하는
+  - 비위에 거슬리는
+malproksime: 멀리에
+malsaniĝis: 병이 들었다
+malsaĝa: 바보같은
+malsekajn: 젖은
+malsukcesa: 실패한
+maltrankvila: 불안한
+malvarman:
+  - 추운
+  - 차가운
+malĝoja: 슬픈
+malŝatas: 싫어한다
+malŝatis: 싫어했다
+manĝaĵo: 음식
+manĝegi: 많이 먹다
+maristo:
+  - 선원
+  - 뱃사람
+maristoj:
+  - 선원들
+  - 뱃사람들
+mariston:
+  - 선원을
+  - 뱃사람을
+miaj: 나의
+militistoj: 군인들
+monerojn: 동전들을
+monujo: 지갑
+morgaŭan: 내일의
+mortigo:
+  - 죽임
+  - 살해
+moviĝis: 이사했다
+multekosta: 비싼
+multpiedaj:
+  - 발이 많은
+  - 다족류의
+naskiĝtaga: 생일의
+naskiĝtago: 생일 
+naturaĵojn: 자연의 것들을
+nehoma: 사람이 아닌
+neinteresaj: 흥미롭지 않은
+nokta: 밤의
+novaĵoj: 뉴스
+opinion: 의견을
+ordigi: 정돈하다 
+paperoj: 종이들
+paperojn:  종이(들)을
+paperujon: 휴지통을
+pasigos: 보낼 것이다
+patrino: 어머니
+perdigis: 잃게 햇다
+plenigadis: 채웠다
+plenumis: 완수했다
+plibeligis: 더 아름답게 만들었다
+plimulto: 다수
+policano: 경찰관
+promenejo: 산책로
+promeno: 산책
+rapidege: 매우 빠르게
+realigi: 실현하다
+redonu: 되돌려주라
+rekapti: 다시잡다
+repaciĝon: 다시 평화롭기를
+revenis: 되돌아 왔다
+revidi: 다시보다
+revido: 다시봄
+ridetis: 미소지었다
+rideto: 미소
 riĉeco:
-- richness
-- wealth
-riĉulo: rich man
-salton: jump
-saluton: hello
-samklubanoj: co-members of the club
-sekretajn: secret
-sekreton: secret
-senbrue: silently
-seninterese: disinterested
-senkolora: colorless
-sensukcese: without success
-sentimulo: fearless man
-senvorte: wordlessly
-sinjorinoj: ladies
-sinjorinon: lady
-skribotablo: desk
-soleca: lonely
-sovaĝejo: wilderness
-sportisto: sportsman
-subakvigis: to sink
-subakviĝis: to sink
-subite: suddenly
-supren: upward
-surhavas: wear
-surlokan: at this place
-teroristoj: terrorists
-tiuokaze: in that case
-travivaĵo: adventure
-tridekjara: 30-year-old
-troviĝis: was situated
-unuaj: first
-urbomezo: city center
-vagonaro: train
-vendejo: shop
-vendejon: shop
-vendisto: clerk 
-vestaĵo: clothes 
-vestaĵoj: clothes
-vestaĵojn: clothes 
-vestaĵon: clothes
+- 부유함
+- 풍부함
+riĉulo: 부자
+salton: 점프를
+saluton: 안녕
+samklubanoj: 같은 클럽 멤버들
+sekretajn: 비밀의
+sekreton: 비밀을
+senbrue: 소음없이
+seninterese: 흥미없이
+senkolora: 색깔이 없는
+sensukcese: 성공없이
+sentimulo: 겂없는 사람
+senvorte: 말없이
+sinjorinoj: 숙녀들
+sinjorinon: 숙녀를
+skribotablo: 책상
+soleca: 외로운
+sovaĝejo: 야생지
+sportisto: 운동선수
+subakvigis: 가라앉혔다
+subakviĝis: 가라앉았다
+subite: 갑자기
+supren: 위로
+surhavas: 입다
+surlokan: 현장에서의
+teroristoj: 테러리스트들
+tiuokaze: 그 경우에
+travivaĵo:
+  - 겪음
+  - 경험
+tridekjara: 30살의
+troviĝis:
+  - 발견되었다
+  - 위치해 있었다
+unuaj: 첫
+urbomezo: 도시 중앙부
+vagonaro: 기차
+vendejo: 상점
+vendejon: 상점을
+vendisto: 상인 
+vestaĵo: 옷 
+vestaĵoj: 옷들
+vestaĵojn: 옷(들)을 
+vestaĵon: 옷을
 veturado:
-- drive
-- tour
-veturigus: would drive 
-viaj: your
-virino: woman
-vojaĝantoj: travellers
-ĉambristoj: chambermaids
-ĉeesto: presence
-ĉirkaŭaĵo: surrounding
-ĝenon: disturbance
-ĝustatempe: at the right time
-ŝiaj: her 
-ŝipkuron: ship race
+- 운전하기
+- 이동하기
+veturigus: 운전할 것이다 
+viaj: 당신의
+virino: 여자
+vojaĝantoj: 여행자들
+ĉambristoj: 가정부들
+ĉeesto: 참석
+ĉirkaŭaĵo: 주변
+ĝenon: 방해를
+ĝustatempe: 정확한 시간에
+ŝiaj: 그녀의 
+ŝipkuron: 배 경주를

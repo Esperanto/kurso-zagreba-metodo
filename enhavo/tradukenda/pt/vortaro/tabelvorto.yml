@@ -40,7 +40,9 @@ kiam: quando
 tiam: nesse momento
 iam: em algum momento
 ĉiam: sempre
-neniam: never, no time
+neniam:
+- nunca
+- jamais
 kiom: quanto
 tiom: 
 - tanto

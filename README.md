@@ -21,12 +21,12 @@ Kreas HTML-dosierujon en `html_generiloj/output/en`.
 
     python generate.py --lingvo en --eligformo md 
 
-Eligas la tutan kurson en Mardown al `STDOUT`, tial per:
+Eligas la tutan kurson en Markdown al `STDOUT`, tial per:
 
     python generate.py --lingvo en --eligformo md | pandoc --latex-engine=xelatex -o en.pdf
     python generate.py --lingvo en --eligformo md | pandoc -o en.epub
 
-oni povas krei kaj PDF kaj PDF dosieron.
+oni povas krei kaj PDF kaj EPUB dosieron.
 
 ## Eksperimenta PWA-subteno
 

@@ -19,6 +19,8 @@ Kreas HTML-dosierujon en `html_generiloj/output/en`.
 
 ### PDF kaj EPUB
 
+Vi bezonas [Pandoc](https://pandoc.org), minimume versionon 2.
+
     python generate.py --lingvo en --eligformo md 
 
 Eligas la tutan kurson en Markdown al `STDOUT`, tial per:

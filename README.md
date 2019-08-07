@@ -32,9 +32,10 @@ oni povas krei kaj PDF kaj EPUB dosieron.
 
 #### Limigu enhavon
 
-    python generate.py --lingvo en --eligformo md --printendaj-partoj ekzerco2 solvo2 --printendaj-lecionoj 1 2 3
+    python generate.py --lingvo en --eligformo md --printendaj-partoj ekzerco2 solvo2
+      --printendaj-lecionoj 1 2 3
     
-Eligu nur ekzercon 2 kaj sian solvon, kaj nur de lecionoj 1, 2, 3.
+Eligu nur ekzercon 2 kaj sian solvon, kaj nur de lecionoj 1, 2, 3. Legu plu per `python generate.py  --help`.
 
 ## Eksperimenta PWA-subteno
 

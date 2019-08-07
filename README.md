@@ -30,6 +30,12 @@ Eligas la tutan kurson en Markdown al `STDOUT`, tial per:
 
 oni povas krei kaj PDF kaj EPUB dosieron.
 
+#### Limigu enhavon
+
+    python generate.py --lingvo en --eligformo md --printendaj-partoj ekzerco2 solvo2 --printendaj-lecionoj 1 2 3
+    
+Eligu nur ekzercon 2 kaj sian solvon, kaj nur de lecionoj 1, 2, 3.
+
 ## Eksperimenta PWA-subteno
 
 - https://esperanto.github.io/kurso-zagreba-metodo/ - En Android, aperas sugesto instali la aplikaĵon, en aliaj platformoj eblas instali ĝin per la opcio en la menuo en Chrome. Sendepende de tia instalado, la paĝaro ebligas uzi la paĝojn eksterrete post unuafoja vizitado.

@@ -132,6 +132,14 @@ he:
     - nomo: Amir
       github: verkoj
   tekstodirekto: rtl
+hi:
+  nomo:
+    fontlingve: हिन्दी
+    esperante: hindia
+  stato: testa
+  aŭtoroj:
+    - nomo: Naga Siva Kotha 
+      github: kothanagasiva
 hr:
   nomo:
     fontlingve: Hrvatski

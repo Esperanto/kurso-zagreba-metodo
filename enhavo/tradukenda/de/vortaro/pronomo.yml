@@ -5,6 +5,8 @@ mi: ich
 mia: mein
 ni: wir
 oni: man
-vi: du
+vi:
+- du
+- ihr
 ĝi: es 
 ŝi: sie 

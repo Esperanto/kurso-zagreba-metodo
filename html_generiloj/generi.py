@@ -4,17 +4,16 @@
 import os
 import shutil
 import re
-import yaml, jinja2, mistune
-
-import sys
-sys.path = ['./genanki'] + sys.path
+import jinja2
+import mistune
 import genanki
+
 
 def render_page(name, enhavo, vojprefikso, env, output_path):
 
     rendered = env.get_template(name + '.html').render(
-      enhavo = enhavo,
-      vojprefikso   = vojprefikso,
+      enhavo=enhavo,
+      vojprefikso=vojprefikso,
     )
 
     return rendered

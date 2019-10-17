@@ -5,3 +5,6 @@ agordoj/auxtoroj-lingvoj.yml
 __pycache__
 *.pyc
 .idea/
+
+!html_generiloj/output/serviceworker.js
+!html_generiloj/output/manifest.json

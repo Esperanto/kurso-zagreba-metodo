@@ -1,5 +1,5 @@
-const version = 'V0.01';
-const staticCacheName = version + 'staticfiles';
+const version = 'V0.06';
+const staticCacheName = version + '_staticfiles';
 
 addEventListener('install', function(event) {
     skipWaiting();
@@ -11,44 +11,19 @@ addEventListener('install', function(event) {
                 'https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js',
                 'https://cdnjs.cloudflare.com/ajax/libs/corejs-typeahead/0.11.1/typeahead.bundle.min.js',
 
-                'http://localhost:8000/en/01/gramatiko/',
-                'http://localhost:8000/en/02/gramatiko/',
-                'http://localhost:8000/en/03/gramatiko/',
-                'http://localhost:8000/en/04/gramatiko/',
-                'http://localhost:8000/en/05/gramatiko/',
-                'http://localhost:8000/en/06/gramatiko/',
-                'http://localhost:8000/en/07/gramatiko/',
-                'http://localhost:8000/en/08/gramatiko/',
-                'http://localhost:8000/en/09/gramatiko/',
-                'http://localhost:8000/en/10/gramatiko/',
-                'http://localhost:8000/en/11/gramatiko/',
-                'http://localhost:8000/en/12/gramatiko/',
+                '/01/',
+                '/02/',
+                '/03/',
+                '/04/',
+                '/05/',
+                '/en/',
+                '/en/',
+                '/en/',
+                '/en/',
+                '/en/',
+                '/en/',
+                '/en/',
 
-                'http://localhost:8000/cs/01/gramatiko/',
-                'http://localhost:8000/cs/02/gramatiko/',
-                'http://localhost:8000/cs/03/gramatiko/',
-                'http://localhost:8000/cs/04/gramatiko/',
-                'http://localhost:8000/cs/05/gramatiko/',
-                'http://localhost:8000/cs/06/gramatiko/',
-                'http://localhost:8000/cs/07/gramatiko/',
-                'http://localhost:8000/cs/08/gramatiko/',
-                'http://localhost:8000/cs/09/gramatiko/',
-                'http://localhost:8000/cs/10/gramatiko/',
-                'http://localhost:8000/cs/11/gramatiko/',
-                'http://localhost:8000/cs/12/gramatiko/',
-
-                'http://localhost:8000/he/01/gramatiko/',
-                'http://localhost:8000/he/02/gramatiko/',
-                'http://localhost:8000/he/03/gramatiko/',
-                'http://localhost:8000/he/04/gramatiko/',
-                'http://localhost:8000/he/05/gramatiko/',
-                'http://localhost:8000/he/06/gramatiko/',
-                'http://localhost:8000/he/07/gramatiko/',
-                'http://localhost:8000/he/08/gramatiko/',
-                'http://localhost:8000/he/09/gramatiko/',
-                'http://localhost:8000/he/10/gramatiko/',
-                'http://localhost:8000/he/11/gramatiko/',
-                'http://localhost:8000/he/12/gramatiko/'
             ]);
         }).catch(function(err) {
             console.log('Error while populating cache: '+err);

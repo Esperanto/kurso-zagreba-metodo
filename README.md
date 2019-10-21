@@ -60,3 +60,7 @@ La Esperantaj leciontekstoj en la kurso `enhavo/netradukenda/tekstoj` devas rest
 ## Pliaj tradukoj?
 
 Ĉu vi volas traduki la kurson al nova lingvo? Belege! Bonvole [plulegu tie](enhavo/tradukenda).
+
+## First time
+- pip install pipenv
+- pipenv install

@@ -5,12 +5,14 @@ agrabl: angenehm
 akcept: akzeptieren
 akv: Wasser
 ali: anderer
-alt: hoch
+alt: 
+- hohe/r/s
+- hoch
 am: lieben
 amas: Menge
 amik: Freund
 arb: Baum
-aspekt: aussehen
+aspekt: Aussehen
 atend: warten
 atent: acht geben
 aĉet: kaufen
@@ -32,7 +34,9 @@ branĉ:
 - Ast
 bru: Lärm
 buŝ: Mund
-cert: sicher(lich)
+cert: 
+- sichere/r/s
+- sicherlich
 dank: Dank
 daŭr: dauern
 decid: entscheiden
@@ -334,3 +338,4 @@ zorg: sorgen
 - mögen
 - gern haben
 ŝip: Schiff
+:q

@@ -225,6 +225,14 @@ lo:
   aŭtoroj:
     - nomo: Warut Bunprasert
       github: Warut92
+mg:
+  nomo:
+    fontlingve: Malagasy
+    esperante: malagasa
+  stato: testa
+  aŭtoroj:
+    - nomo: Norbert Faly Randriamaitso
+      github: faly509
 ms:
   nomo:
     fontlingve: Bahasa Melayu

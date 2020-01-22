@@ -1,70 +1,70 @@
--
-  demando: Est-ce que les serveurs dans les grands hôtels comprennent beaucoup de langues ? 
+
+  demando: Moa ve ny mpiasa ao anaty hotely lehibe mahay fiteny maro?
   rektatraduko:  
-    - Ĉu: Est-ce que 
-    - kelneroj: serveurs
-    - en: dans
-    - grandaj: grands
-    - hoteloj: hôtels
-    - komprenas: comprennnent
-    - multajn: beaucoup de 
-    - lingvojn: langues
+    - Ĉu: Moa ve 
+    - kelneroj: ny mpiasa
+    - en: ao anaty
+    - grandaj: lehibe
+    - hoteloj: hotely
+    - komprenas: mahay
+    - multajn: maro 
+    - lingvojn: fiteny
     - '?'
 -
-  demando: "Est-ce que tu sais si Anne aime la nouvelle chanson à propos d'un pauvre et d'une jolie fille ?"
+  demando: "Moa ve fantatrao na i Anne tia ny hira vaovao mahakasika ny fahantrana sy ny vehivavy tsara ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - scias: sais
+    - Ĉu: Moa ve
+    - vi: ianao / ianareo
+    - scias: fantatra
     - ','
-    - ĉu: si
+    - ĉu: na 
     - Anna: Anne 
-    - ŝatas: aime
-    - la: la
-    - novan: nouvelle
-    - kanton: chanson
-    - pri: à propos de
-    - malriĉulo: un pauvre
-    - kaj: et
-    - belulino: une jolie fille
+    - ŝatas: tia
+    - la: ny
+    - novan: vaovao
+    - kanton: hira
+    - pri: mombamomba/mahakasika
+    - malriĉulo: ny fahantrana
+    - kaj: sy
+    - belulino: ny vehivavy tsara
     - '?'
 -
-  demando: Où as-tu vu le vieux et le jeune qui portaient une grande table ?
+  demando: Taiza ianao no nahita ny lehilahy antitra sy ny lehilahy tanora no nitondra latabatra lehibe ?
   rektatraduko: 
-    - Kie: Où
-    - vi: tu
-    - vidis: as vu
-    - la: le
-    - maljunulon: vieux (vieil homme)
-    - kaj: et
-    - la: le
-    - junulon: jeune (homme jeune)
+    - Kie: Taiza
+    - vi: ianao/ianareo
+    - vidis: no nahita
+    - la: ny
+    - maljunulon: lehilahy antitra
+    - kaj: sy
+    - la: ny
+    - junulon: lehilahy tanora
     - ','
-    - kiuj: qui
-    - portis: portaient
-    - grandan: grande
-    - tablon: table
+    - kiuj: no
+    - portis: nitondra
+    - grandan: lehibe
+    - tablon: latabatra
     - '?'
 -
-  demando: "Comment c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?"
+  demando: "Inona no nahatonga c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?"
   rektatraduko: 
-    - Kiel: Comment
-    - okazis: "c'est arrivé"
+    - Kiel: Inona
+    - okazis: no nahatongavana
     - ','
-    - ke: que
-    - vi: tu
-    - denove: encore
-    - venis: "[tu] es venu"
-    - al: chez
-    - ni: nous
+    - ke: raha tsy
+    - vi: ianao/ianareo
+    - denove: mbola
+    - venis: 
+    - al: aminy
+      ni: izahay
     - sen: sans
-    - gefratoj: frères et soeurs ?
+    - gefratoj: rahalahy sy rahavavy?
     - '?'
 -
   demando: "Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau livre de cours ?"
   rektatraduko: 
-    - Ĉu: Est-ce que 
-    - vi: tu
+    - cu: Moa ve
+    - vi: iana
     - povas: peux
     - per: avec
     - la: le 

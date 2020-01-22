@@ -1,70 +1,70 @@
 -
-  demando: Comment était votre ancienne maison ?
+  demando: Manao ahoana ny tranonareo taloha?
   rektatraduko: 
-    - Kia: Comment
-    - estis: était
-    - via: votre
-    - malnova: ancienne
-    - hejmo: maison
+    - Kia: Manao ahoana 
+    - estis: ny /no/dia
+    - via: ianareo/ianao
+    - malnova: taloha
+    - hejmo: trano
     - '?'
--
-  demando: "Quels livres as-tu lus, et est-ce qu'ils sont bons ?"
+-(trano + ianareo )= tranonareo
+  demando: "Boky manao ahoana no novakinareo, ary moa ve mba tsara izy ireo?"
   rektatraduko:
-    - Kiujn: Quels
-    - librojn: livres
-    - vi: tu
-    - legis: as lu
-    - kaj: et
-    - ĉu: est-ce que
-    - ili: ils
-    - estas: sont
-    - bonaj: bons
+    - Kiujn: Manao ahoana
+    - librojn: boky
+    - vi: ianareo/ianao
+    - legis: novakina
+    - kaj: ary/ sy
+    - ĉu: moa ve
+    - ili: izy ireo / zareo
+    - estas: no
+    - bonaj: tsara
     - '?'
--
-  demando: "Qu'ont fait Anne et Marc dans la petite chambre de Marc ?"
+-(novakina + ianareo = novakinareo )
+  demando: "Inona nataon'i Anna sy Marc ao anaty ny efi-trano kelin'i Marc ?"
   rektatraduko:
-    - Kion: "Qu'"
-    - faris: ont fait
+    - Kion: Inona
+    - faris: nataony
     - Anna: Anna
-    - kaj: et
+    - kaj: sy /ary
     - Marko: Marc
-    - en: dans
-    - la: la
-    - malgranda: petite
-    - ĉambro: chambre
-    - de: de
+    - en: ao anaty
+    - la: ny
+    - malgranda: kely
+    - ĉambro: efi-trano
+    - de: ny
     - Marko: Marc
     - '?'
 -
-  demando: "Est-ce que vous aimez lire des livres sur l'amour ?"
+  demando: "Moa ve tianareo mamaky boky fitiavana ?"
   rektatraduko:
-    - Ĉu: Est-ce que
-    - vi: vous
-    - ŝatas: aimez
-    - legi: lire
-    - librojn: des livres
-    - pri: sur
-    - amo: "l'amour"
+    - Ĉu: Moa ve 
+    - vi: ianareo/ianao
+    - ŝatas: tia
+    - legi: mamaky
+    - librojn: ny boky
+    - pri: eo ambony
+    - amo: fitiavana
     - '?'
 -
-  demando: Qui ira avec vous à votre maison ?
+  demando: Iza no andeha miarak'aminao amin' ny tranonareo ?
   rektatraduko:
-    - Kiu: Qui
-    - iros: ira
-    - kun: avec
-    - vi: vous
-    - al: à
-    - via: votre
-    - hejmo: maison
+    - Kiu: Iza
+    - iros: no andeha
+    - kun: miaraka
+    - vi: ianareo/ ianao
+    - al: amin'ny
+    - via: ianareo/ianao
+    - hejmo: trano
     - '?'
 -
-  demando: Comment sont les yeux de ta petite amie ?
+  demando: Manao ahoana ny mason'i sakaizanao ?
   rektatraduko:
-    - Kiaj: Comment
-    - estas: sont
-    - la: les
-    - okuloj: yeux
-    - de: de
-    - via: ta
-    - amikino: petite amie
+    - Kiaj: Manao ahoana 
+    - estas: ny/no/dia
+    - la: ny 
+    - okuloj: maso
+    - de: ny /n'i
+    - via: ianareo/ianao
+    - amikino: sakaiza
     - '?'

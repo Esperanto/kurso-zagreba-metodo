@@ -5,10 +5,10 @@ import yaml
 import glob
 import re
 import os
-import sys
 import argparse
 import html_generiloj
 import leo_markdown
+
 
 def transpose_headlines(markdown, level):
     prefix = ''
@@ -28,7 +28,7 @@ def get_markdown_headlines(s):
     return headlines
 
 
-def load(language, gramatiko_transpose_headlines = 2):
+def load(language, gramatiko_transpose_headlines=2):
 
     enhavo = {}
     enhavo['lingvo'] = language
@@ -64,17 +64,17 @@ def load(language, gramatiko_transpose_headlines = 2):
 
     path = 'enhavo/tradukenda/' + language + '/enkonduko.md'
     enkonduko = open(path).read()
-    #enkonduko = transpose_headlines(enkonduko, 1)
+    # enkonduko = transpose_headlines(enkonduko, 1)
     enhavo['enkonduko'] = enkonduko
 
     path = 'enhavo/tradukenda/' + language + '/post.md'
     enhavo['post'] = open(path).read()
-    enhavo['post'] = transpose_headlines(enhavo['post'] , 2)
+    enhavo['post'] = transpose_headlines(enhavo['post'], 2)
 
     lecionoj = []
     vortoj = {}
 
-    for i in range(1,13):
+    for i in range(1, 13):
         leciono = {
             'teksto': None,
             'gramatiko': None,
@@ -138,7 +138,6 @@ def load(language, gramatiko_transpose_headlines = 2):
         path = 'enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/' + i_padded + '.yml'
         ekzercoj['Kompletigu la frazojn'] = yaml.load(open(path))
 
-
         # Covert from dict to list.
         leciono['ekzercoj'] = ekzercoj
 
@@ -147,6 +146,7 @@ def load(language, gramatiko_transpose_headlines = 2):
     enhavo['lecionoj'] = lecionoj
 
     return enhavo
+
 
 ap = argparse.ArgumentParser()
 
@@ -172,8 +172,8 @@ ap.add_argument(
     "--printendaj-partoj",
     help="Printendaj partoj",
     type=str,
-    choices=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvo1', 'solvo2', 'solvo3'],
-    default=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvo1', 'solvo2', 'solvo3'],
+    choices=['teksto', 'vortoj', 'gramatiko', 'ekzerco1', 'ekzerco2', 'ekzerco3', 'solvo1', 'solvo2', 'solvo3'],
+    default=['teksto', 'vortoj', 'gramatiko', 'ekzerco1', 'ekzerco2', 'ekzerco3', 'solvo1', 'solvo2', 'solvo3'],
     nargs='*'
 )
 
@@ -182,8 +182,8 @@ ap.add_argument(
     "--printendaj-lecionoj",
     help="Printendaj lecionoj",
     type=int,
-    choices=[1,2,3,4,5,6,7,8,9,10,11,12],
-    default=[1,2,3,4,5,6,7,8,9,10,11,12],
+    choices=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    default=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     nargs='*'
 )
 
@@ -199,7 +199,7 @@ args = ap.parse_args()
 lingvoj = yaml.load(open('agordoj/lingvoj.yml').read())
 
 if args.eligformo == 'html':
-    #if args.lingvo not in lingvoj.keys():
+    # if args.lingvo not in lingvoj.keys():
     #    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
     enhavo = load(args.lingvo)
     enhavo['lingvoj'] = lingvoj
@@ -210,4 +210,4 @@ if args.eligformo == 'md':
     enhavo = load(args.lingvo, 3)
     enhavo['lingvoj'] = lingvoj
     enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-    leo_markdown.package.kreu_md(enhavo, printendaj = { 'partoj': args.printendaj_partoj, 'lecionoj': args.printendaj_lecionoj } )
+    leo_markdown.package.kreu_md(enhavo, printendaj = {'partoj': args.printendaj_partoj, 'lecionoj': args.printendaj_lecionoj})

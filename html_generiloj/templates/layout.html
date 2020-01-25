@@ -20,6 +20,9 @@
     <link href="{{vojprefikso}}../assets/css/main.css" rel="stylesheet">
     <link href="{{vojprefikso}}../assets/css/vortaro.css" rel="stylesheet">
 
+    <link rel="serviceworker" href="/serviceworker.js">
+	<link rel="manifest" href="/manifest.json">
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -165,6 +168,15 @@
     <script src="{{vojprefikso}}../assets/js/main.js"></script>
     <script src="{{vojprefikso}}js/vortlisto.js"></script>
     <script src="{{vojprefikso}}../assets/js/vortaro.js"></script>
+
+    <script>
+      if (navigator.serviceWorker)
+        navigator.serviceWorker.register("/serviceworker.js").then(function(registration) {
+          console.log('Service worker registered on scope '+registration.scope);
+        }).catch(function(error) {
+          console.log('Error registering service worker: '+error);
+        });
+    </script>
 
   </body>
 </html>

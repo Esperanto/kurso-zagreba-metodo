@@ -2,11 +2,11 @@
   demando: Iza no namanao?
   rektatraduko:
     - Kiu: Iza
-    - estas: no
+    - estas: "no"
     - via: ianao/ ianareo
     - amikino: namana 
     - '?'
-- ( ianao+namana  =  namanao )
+- 
   demando: "Moa ve namanao Anna manoratra ao anaty ny efi-trano izao?"
   rektatraduko:
     - Ĉu: Moa ve
@@ -19,7 +19,7 @@
     - la: ny
     - ĉambro: efi-trano
     - '?'
-- (ianao + namana  = namanao)
+- 
   demando:  "Moa ve ny naman'i dadanao miasa ao anaty hotely ?"
   rektatraduko:
     - Ĉu: Moa ve
@@ -32,13 +32,11 @@
     - en: ao anaty
     - hotelo: hotely
     - '?'
- - (namana + i = naman'i )
- - ( ianao+namana  = namanao )
- -(dada + ianao = dadanao )
-  demando: "Inona no eo ambony ny birao ao anaty efi-tranontsika?"
+-
+  demando: Inona no eo ambony ny birao ao anaty efi-tranontsika?
   rektatraduko:
     - Kio: Inona
-    - estas: no
+    - estas: "no"
     - sur: eo ambony
     - la: ny
     - labortablo: birao
@@ -46,7 +44,7 @@
     - nia: isika
     - ĉambro: efi-trano
     - '?'
-- ( efi-trano + isika )  =  efi-tranontsika
+-
   demando: "Moa ve ny boky kely esperanto eo ambony latabatrao ?"
   rektatraduko:
     - Ĉu: Moa ve (misy)
@@ -56,5 +54,3 @@
     - via: ianao
     - tablo: latabatra
     - '?'
-
-( latabatra + ianao  = latabatrao )

@@ -7,7 +7,7 @@
     - malnova: taloha
     - hejmo: trano
     - '?'
--(trano + ianareo )= tranonareo
+-
   demando: "Boky manao ahoana no novakinareo, ary moa ve mba tsara izy ireo?"
   rektatraduko:
     - Kiujn: Manao ahoana
@@ -17,10 +17,10 @@
     - kaj: ary/ sy
     - ĉu: moa ve
     - ili: izy ireo / zareo
-    - estas: no
+    - estas: "no"
     - bonaj: tsara
     - '?'
--(novakina + ianareo = novakinareo )
+-
   demando: "Inona nataon'i Anna sy Marc ao anaty ny efi-trano kelin'i Marc ?"
   rektatraduko:
     - Kion: Inona

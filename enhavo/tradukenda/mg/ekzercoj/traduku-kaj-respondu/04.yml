@@ -28,7 +28,7 @@
     - kun: miarak'amin'
     - fotoj: ny sary
     - '?'
-- (sary + ko = sariko )
+- 
   demando: Aiza no andehananao aorian'ny fisakafoanana?
   rektatraduko: 
     - Kien: Aiza
@@ -42,7 +42,7 @@
   demando: "Moa ve mba afaka mamody ny varavaran'ny hefi-trano raha mangatsiaka ny andro ?"
   rektatraduko: 
     - Ĉu: Moa ve
-    - oni: 9
+    - oni: 'on'
     - povas: afaka
     - fermi: mamody
     - la: ny
@@ -52,7 +52,7 @@
     - ĉambro: hefi-trano
     - ','
     - kiam: raha
-    - estas: 
+    - estas: estas
     - malvarme: mangatsiaka
     - '?'
 -

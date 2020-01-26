@@ -1,4 +1,4 @@
-
+-
   demando: Moa ve ny mpiasa ao anaty hotely lehibe mahay fiteny maro?
   rektatraduko:  
     - Ĉu: Moa ve 
@@ -17,7 +17,7 @@
     - vi: ianao / ianareo
     - scias: fantatra
     - ','
-    - ĉu:  
+    - ĉu: moa ve
     - Anna: Anne 
     - ŝatas:  dia tia
     - la: ny
@@ -28,7 +28,7 @@
     - kaj: sy
     - belulino: ny vehivavy tsara
     - '?'
-- ( fantatra + ianao ) = fantatrao
+- 
   demando: Taiza ianao no nahita ny lehilahy antitra sy ny lehilahy tanora no nitondra latabatra lehibe ?
   rektatraduko: 
     - Kie: Taiza
@@ -40,7 +40,7 @@
     - la: ny
     - junulon: lehilahy tanora
     - ','
-    - kiuj: no
+    - kiuj: "no"
     - portis: nitondra
     - grandan: lehibe
     - tablon: latabatra

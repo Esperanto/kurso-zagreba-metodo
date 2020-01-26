@@ -3,14 +3,14 @@
   rektatraduko:
     - Kiu: Iza
     - estas: no
-    - via: ianao
+    - via: ianao/ ianareo
     - amikino: namana 
     - '?'
 - ( ianao+namana  =  namanao )
   demando: "Moa ve namanao Anna manoratra ao anaty ny efi-trano izao?"
   rektatraduko:
     - Ĉu: Moa ve
-    - via: ianao
+    - via: ianao/ianareo
     - amikino: namana
     - Anna: Anna
     - skribas: manoratra
@@ -26,13 +26,15 @@
     - la: ny
     - amiko: namana
     - de: i (ny)
-    - via: ianao
+    - via: ianao / ianareo
     - patro: dada
     - laboras: miasa
     - en: ao anaty
     - hotelo: hotely
     - '?'
-- ( ianao+namana  = namanao )
+ - (namana + i = naman'i )
+ - ( ianao+namana  = namanao )
+ -(dada + ianao = dadanao )
   demando: "Inona no eo ambony ny birao ao anaty efi-tranontsika?"
   rektatraduko:
     - Kio: Inona
@@ -45,11 +47,11 @@
     - ĉambro: efi-trano
     - '?'
 - ( efi-trano + isika )  =  efi-tranontsika
-  demando: "Moa ve misy boky kely esperanto eo ambony latabatrao ?"
+  demando: "Moa ve ny boky kely esperanto eo ambony latabatrao ?"
   rektatraduko:
     - Ĉu: Moa ve (misy)
     - Esperanto-lernolibro: "boky kely esperanto"
-    - estas: no
+    - estas: ny
     - sur: eo ambony
     - via: ianao
     - tablo: latabatra

@@ -11,15 +11,15 @@
     - lingvojn: fiteny
     - '?'
 -
-  demando: "Moa ve fantatrao na i Anne tia ny hira vaovao mahakasika ny fahantrana sy ny vehivavy tsara ?"
+  demando: "Moa fantatrao ve fa i Anne tia ny hira vaovao mahakasika ny fahantrana sy ny vehivavy tsara ?"
   rektatraduko: 
     - Ĉu: Moa ve
     - vi: ianao / ianareo
     - scias: fantatra
     - ','
-    - ĉu: na 
+    - ĉu:  
     - Anna: Anne 
-    - ŝatas: tia
+    - ŝatas:  dia tia
     - la: ny
     - novan: vaovao
     - kanton: hira
@@ -28,7 +28,7 @@
     - kaj: sy
     - belulino: ny vehivavy tsara
     - '?'
--
+- ( fantatra + ianao ) = fantatrao
   demando: Taiza ianao no nahita ny lehilahy antitra sy ny lehilahy tanora no nitondra latabatra lehibe ?
   rektatraduko: 
     - Kie: Taiza
@@ -46,32 +46,32 @@
     - tablon: latabatra
     - '?'
 -
-  demando: "Inona no nahatonga c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?"
+  demando: "Inona no nahatonga ianao tonga  c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?"
   rektatraduko: 
     - Kiel: Inona
-    - okazis: no nahatongavana
+    - okazis: no nahatonga
     - ','
     - ke: raha tsy
     - vi: ianao/ianareo
     - denove: mbola
-    - venis: 
+    - venis: tonga 
     - al: aminy
       ni: izahay
-    - sen: sans
+    - sen: tsisy / tsy
     - gefratoj: rahalahy sy rahavavy?
-    - '?'
+    - 
 -
-  demando: "Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau livre de cours ?"
+  demando: "Moa ve ianao afaka mianatra esperanto tsy dia haingana loatra miarak'amin'ny boky vaovao fianarana "
   rektatraduko: 
     - cu: Moa ve
-    - vi: iana
-    - povas: peux
-    - per: avec
-    - la: le 
-    - nova: nouveau
-    - lernolibro: livre de cours
-    - sufiĉe: assez
-    - rapide: rapidement
-    - lerni: apprendre
+    - vi: ianao
+    - povas: afaka
+    - per: miarak'amin'
+    - la: ny
+    - nova: vaovao
+    - lernolibro: boky fianarana
+    - sufiĉe: tsy dia ... loatra
+    - rapide: haingana
+    - lerni: mianatra
     - Esperanton: "[l'] espéranto"
     - '?'

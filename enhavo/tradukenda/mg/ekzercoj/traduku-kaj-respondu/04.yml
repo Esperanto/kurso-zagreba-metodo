@@ -1,73 +1,73 @@
 -
-  demando: Quand vous reverrai-je ?
+  demando: Rahoviana no hifankahita amiko ianao ?
   rektatraduko: 
-    - Kiam: Quand
-    - mi: je  
-    - revidos: reverrai
-    - vin: vous
+    - Kiam: Rahoviana
+    - mi: -ko 
+    - revidos: no hifankahita
+    - vin: ianao
     - '?'
 -
-  demando: Depuis combien de temps apprenez-vous la langue internationale ?
+  demando: Fotoana firy ianao no mianatra ny fiteny iraisam-pirenena ?
   rektatraduko: 
-    - Kiel: Combien
-    - longe: longtemps
-    - vi: vous
-    - lernas: apprenez
-    - la: la 
-    - Internacian: internationale
-    - Lingvon: langue
+    - Kiel: Firy
+    - longe: fotoana
+    - vi: ianao
+    - lernas: no mianatra
+    - la: ny
+    - Internacian: iraisam-pirenena
+    - Lingvon: fiteny
     - '?'
 -
-  demando: Où est mon nouveau livre de photos ?
+  demando: Aiza ny bokiko vaovao miarak'amin'ny sariko ?
   rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - mia: mon
-    - nova: nouveau
-    - libro: livre
-    - kun: avec
-    - fotoj: des photos
+    - Kie: Aiza
+    - estas: ny
+    - mia: -ko
+    - nova: vaovao
+    - libro: boky
+    - kun: miarak'amin'
+    - fotoj: ny sary
+    - '?'
+- (sary + ko = sariko )
+  demando: Aiza no andehananao aorian'ny fisakafoanana?
+  rektatraduko: 
+    - Kien: Aiza
+    - vi: ianao
+    - iros: andeha
+    - post: aoriana
+    - la: ny
+    - tagmanĝo: fisakafoanana
     - '?'
 -
-  demando: Où irez-vous après le déjeuner ?
+  demando: "Moa ve mba afaka mamody ny varavaran'ny hefi-trano raha mangatsiaka ny andro ?"
   rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
-    - '?'
--
-  demando: "Est-ce qu'on peut fermer la porte de la chambre quand il fait froid ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - oni: "on"
-    - povas: peut
-    - fermi: fermer
-    - la: la
-    - pordon: porte
-    - de: de 
-    - la: la
-    - ĉambro: chambre
+    - Ĉu: Moa ve
+    - oni: 9
+    - povas: afaka
+    - fermi: mamody
+    - la: ny
+    - pordon: varavarana
+    - de: ny
+    - la: ny
+    - ĉambro: hefi-trano
     - ','
-    - kiam: quand
-    - estas: il fait
-    - malvarme: froid
+    - kiam: raha
+    - estas: 
+    - malvarme: mangatsiaka
     - '?'
 -
   demando: "Combien de temps êtes-vous en colère si on vous prend beaucoup d'argent ?"
   rektatraduko: 
-    - Kiel: Combien
-    - longe: de temps
-    - vi: vous
-    - koleras: êtes en colère
+    - Kiel: Firy
+    - longe: fotoana
+    - vi: ianao
+    - koleras: no tezitra
     - ','
-    - se: si
+    - se: raha
     - oni: "on"
     - forprenas: emporte
     - de: de
-    - vi: vous
-    - multan: beaucoup 
-    - monon: argent
+    - vi: ianao
+    - multan: betsaka / be
+    - monon: vola
     - '?'

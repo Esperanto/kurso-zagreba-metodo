@@ -1,37 +1,37 @@
 -
-  demando: "Est-ce que vous pouvez apprendre calmement pendant que quelqu'un chante joyeusement ?"
+  demando: "Moa ve mba afaka mianatra mangina ianao mandritra ny olona mihira ankafaliana ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - povas: pouvez
-    - trankvile: tranquillement
-    - lerni: apprendre
+    - Ĉu: Moa ve
+    - vi: ianao
+    - povas: mba afaka
+    - trankvile: mangina
+    - lerni: mianatra
     - ','
-    - dum: pendant que
-    - iu: "quelqu'un"
-    - ĝoje: joyeusement
-    - kantas: chante
+    - dum: mandritra ny
+    - iu: olona
+    - ĝoje: ankafaliana
+    - kantas: mihira
     - '?'
 -
-  demando: Qui sait quand et où nous nous reverrons ?
+  demando: Iza no mahay aiza sy rahoviana isika hifankahita indray ?
   rektatraduko: 
-    - Kiu: Qui
-    - scias: sait
+    - Kiu: Iza
+    - scias: no mahay
     - ','
-    - kiam: quand 
-    - kaj: et
-    - kie: où
-    - ni: nous
-    - revidos: reverrons
-    - nin: nous
+    - kiam: rahoviana
+    - kaj: sy
+    - kie: aiza
+    - ni: isika
+    - revidos: hifankahita
+    - nin: isika
     - '?'
 -
-  demando: Quelle heure est-il maintenant ?
+  demando: Aminy firy ny fotoana izao ?
   rektatraduko: 
-    - Kioma: Quelle
-    - horo: heure
-    - estas: il est 
-    - nun: maintenant
+    - Kioma: Aminy Firy
+    - horo: fotoana
+    - estas: ny
+    - nun: izao
     - '?'
 -
   demando: "Est-ce que quelqu'un vous a aidé à ouvrir la porte de la vieille maison ?"

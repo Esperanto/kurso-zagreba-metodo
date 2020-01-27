@@ -1,5 +1,5 @@
 -
-  demando: Moa ve mba afaka mianatra mangina ianao mandritra ny olona mihira ankafaliana ?
+  demando: "Moa ve mba afaka mianatra mangina ianao mandritra ny olona mihira ankafaliana ?"
   rektatraduko: 
     - Ĉu: Moa ve
     - vi: ianao
@@ -13,7 +13,7 @@
     - kantas: mihira
     - '?'
 -
-  demando: Iza no mahay aiza sy rahoviana isika hifankahita indray ?
+  demando: "Iza no mahay aiza sy rahoviana isika hifankahita indray ?"
   rektatraduko: 
     - Kiu: Iza
     - scias: no mahay
@@ -26,7 +26,7 @@
     - nin: isika
     - '?'
 -
-  demando: Aminy firy ny fotoana izao ?
+  demando: "Aminy firy ny fotoana izao ?"
   rektatraduko: 
     - Kioma: Aminy Firy
     - horo: fotoana
@@ -34,31 +34,31 @@
     - nun: izao
     - '?'
 -
-  demando: "Est-ce que quelqu'un vous a aidé à ouvrir la porte de la vieille maison ?"
+  demando: "Moa ve mba nisy olona no nanampy ianareo anokatra ny varavaran'ny trano taloha ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - iu: "quelqu'un" 
-    - helpis: a aidé
+    - Ĉu: Moa ve
+    - iu: "olona"
+    - helpis: no nanampy
     - al: [à] 
-    - vi: vous 
-    - malfermi: ouvrir 
-    - la: la 
-    - pordon: porte 
-    - de: de
-    - la: la
-    - malnova: vieille
-    - domo: maison
+    - vi: ianao / ianareo
+    - malfermi: anokatra
+    - la: ny
+    - pordon: varavarana
+    - de: ny
+    - la: ny
+    - malnova: taloha
+    - domo: trano
     - '?'
 -
-  demando: "Pourquoi n'avez-vous pas le temps de m'écouter plus longtemps ?"
+  demando: "Maninona ianao no tsy mba manana fotoana iheno ahy hela ?"
   rektatraduko: 
-    - Kial: Pourquoi
-    - vi: vous
-    - ne: ne ... pas
-    - havas: avez
-    - tempon: le temps
-    - aŭskulti: écouter
-    - min: moi
-    - pli: plus
-    - longe: longtemps
+    - Kial: Maninona
+    - vi: ianao / ianareo
+    - ne: tsy
+    - havas: no manana
+    - tempon: fotoana
+    - aŭskulti: iheno
+    - min: ahy 
+    - pli: 
+    - longe: hela
     - '?'

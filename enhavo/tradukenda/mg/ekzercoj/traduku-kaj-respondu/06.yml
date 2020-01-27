@@ -1,72 +1,72 @@
 - 
-  demando: Est-ce que vous voulez que je vous montre mon plus récent livre ?
+  demando: "Moa ve mba tianao asehoko anao ny bokiko vaobao ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - deziras: voulez
+    - Ĉu: Moa ve
+    - vi: ianao / ianareo
+    - deziras: tia / te
     - ',' 
-    - ke: que 
-    - mi: je
-    - montru: montre
-    - al: à
-    - vi: vous
-    - mian: mon
-    - plej: plus
-    - novan: nouveau
-    - libron: livre
+    - ke: fa / mba
+    - mi: -ko
+    - montru: aseho
+    - al:
+    - vi: ianao / ianareo
+    - mian: -ko / ahy
+    - plej: 
+    - novan: vaovao
+    - libron: boky
     - '?'
 - 
-  demando: Que voulez-vous demain pour votre petit déjeuner ?
+  demando: " Inona no tianareo honanina ho sakafo maraina rahampitso ?
   rektatraduko: 
-    - Kion: Que
-    - vi: vous
-    - volas: voulez
-    - morgaŭ: demain
-    - matenmanĝi: prendre le petit-déjeuner
+    - Kion: Inona 
+    - vi: ianao / ianareo
+    - volas: no tia
+    - morgaŭ: rahampitso
+    - matenmanĝi: hohanina ho sakafo maraina 
     - '?'
 - 
-  demando: Quand Marc arrivera-t-il, à 5 heures ou à 8 heures ?
+  demando: "Oviana i Marc ho tonga , amin'ny dimy sa amin'ny valo ora ?"
   rektatraduko: 
-    - Kiam: Quand
+    - Kiam: Oviana
     - Marko: Marc
-    - alvenos: arrivera
+    - alvenos: ho tonga
     - ',' 
-    - je: à
-    - la: la
-    - kvina: cinquième
-    - aŭ: ou
-    - je: à
-    - la: la
-    - oka: huitième
-    - horo: heure
+    - je: aminy
+    - la: ny
+    - kvina: dimy
+    - aŭ: sa
+    - je: aminy
+    - la: ny
+    - oka: valo
+    - horo: ora
     - '?'
 - 
-  demando: "Quand avez-vous remarqué que toute la famille m'appelle bienfaiteur ?"
+  demando: "Oviana ianao no nahatsikaritra fa ny fianakaviana rehetra miantso ahy mpanao soa?"
   rektatraduko: 
-    - Kiam: Quand
-    - vi: vous
-    - rimarkis: avez remarqué
+    - Kiam: Oviana 
+    - vi: ianao / ianareo
+    - rimarkis: no nahatsikaritra
     - ','  
-    - ke: que
-    - la: la
-    - tuta: toute
-    - familio: famille
-    - nomas: appelle
-    - min: moi
-    - bonfarulo: bienfaiteur
+    - ke: fa
+    - la: ny
+    - tuta: rehetra
+    - familio: fianakaviana
+    - nomas: miantso
+    - min: ahy
+    - bonfarulo: mpanao soa
     - '?'
 - 
-  demando: "Est-ce que le livret que j'ai envoyé vous a été utile ?"
+  demando: "Moa ve mba ilainareo ny boky nalefako taminareo ? "
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - la: le 
-    - libreto: livret
-    - estis: était
-    - utila: utile
-    - al: à
-    - vi: vous
+    - Ĉu: Moa ve 
+    - la: ny 
+    - libreto: boky
+    - estis: 
+    - utila: ilaina
+    - al: taminy / aminy
+    - vi: ianao / ianareo
     - ',' 
-    - kiun: que
-    - mi: je
-    - sendis: ai envoyé
+    - kiun: mba
+    - mi: -ko
+    - sendis: nalefa
     - '?'

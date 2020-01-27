@@ -1,77 +1,77 @@
 - 
-  demando: Qui avait le livre que vous attendiez depuis plus de deux ans ?
+  demando: "Iza  no mba nanana ny boky nandrasanareo nandritra ny roa taona mahery?"
   rektatraduko: 
-    - Kiu: Qui
-    - havis: avait
-    - la: le
-    - libron: livre
+    - Kiu: Iza 
+    - havis: no nanana
+    - la: ny
+    - libron: boky
     - ',' 
-    - kiun: que
-    - vi: vous
-    - atendis: attendiez
-    - pli: plus 
-    - ol: de
-    - du: deux
-    - jarojn: ans
+    - kiun: mba 
+    - vi: ianao / ianareo
+    - atendis: nandrasanareo
+    - pli: mahery 
+    - ol: ny
+    - du: roa
+    - jarojn: taona
     - '?'
 - 
-  demando: Est-ce que vous voulez que je vous montre ma photo la plus chère ?
+  demando: " Moa ve mba tianao asehoko aminao ny sariko tena lafo ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - volas: voulez
+    - Ĉu: Moa ve 
+    - vi: ianao / ianareo
+    - volas: tia
     - ','
-    - ke: que
-    - mi: je
-    - montru: montre
-    - al: à 
-    - vi: vous
-    - mian: ma
-    - plej: plus
-    - karan: chère
-    - foton: photo
+    - ke: mba 
+    - mi: -ko
+    - montru: aseho
+    - al: aminy
+    - vi: ianao / ianareo
+    - mian: -ko
+    - plej: tena / kokoa
+    - karan: lafo
+    - foton: sary
     - '?'
 - 
-  demando: Où avez-vous acheté ce vêtement ?
+  demando: " Taiza ianao no nividy ity akanjo ity ?
   rektatraduko: 
-    - Kie: Où
-    - vi: vous
-    - aĉetis: avez acheté
-    - tiun: ce
-    - vestaĵon: vêtement
+    - Kie: Taiza
+    - vi: ianao / ianareo
+    - aĉetis: no nividy
+    - tiun: ity
+    - vestaĵon: akanjo
     - '?'
 - 
-  demando: "Où irez-vous dimanche si c'est (litt. ce sera) une journée ensoleillée ?"
+  demando: "Aiza no andehananareo raha ho alahady andro talaky masoandro ?"
   rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - dimanĉe: dimanche
+    - Kien: Aiza
+    - vi: ianao / ianareo
+    - iros: no handeha
+    - dimanĉe: alahady
     - ',' 
-    - se: si
-    - estos: ce sera
-    - suna: ensoleillée
-    - tago: journée
+    - se: raha / rehefa
+    - estos: ho
+    - suna: talaky masoandro
+    - tago: andro
     - '?'
 - 
-  demando: Est-ce que fon frère est déjà parti ?
+  demando: " Moa ve ny rahalahinao dia efa lasa sahady ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - via: ton
-    - frato: frère
-    - jam: déjà
-    - ekiris: est parti
+    - Ĉu: Moa ve 
+    - via: -nao
+    - frato: rahalahy
+    - jam: sahady
+    - ekiris: dia efa lasa
     - '?'
 - 
-  demando: "Où est l'eau que vous avez vous-même apportée ?"
+  demando: "Aiza ny rano nalainao ?"
   rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - la: "l'"
-    - akvo: eau
+    - Kie: Aiza
+    - estas: 
+    - la: ny
+    - akvo: rano
     - ',' 
-    - kiun: que
-    - vi: vous
-    - mem: vous-même
-    - kunportis: avez apportée
+    - kiun: 
+    - vi: ianao / ianareo
+    - mem: ihany
+    - kunportis: nalaina
     - '?'

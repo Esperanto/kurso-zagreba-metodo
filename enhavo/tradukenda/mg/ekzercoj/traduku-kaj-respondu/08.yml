@@ -1,86 +1,86 @@
 - 
-  demando: Qui va nettoyer la cuisine après le déjeuner ?
+  demando: " Iza no manadio ny lakozia aorian'ny fisakafoanana maraina ?
   rektatraduko: 
-    - Kiu: Qui
-    - purigos: va nettoyer
-    - la: la
-    - kuirejon: cuisine
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
+    - Kiu: Iza
+    - purigos: no manadio
+    - la: ny
+    - kuirejon: lakozia
+    - post: aoriana
+    - la: ny
+    - tagmanĝo: fisakafoanana maraina
     - '?'
 - 
-  demando: "Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?"
+  demando: "Inona no tianao sotroina : dite, cafe kely sa tsy te hisotro na inona na inona ?"
   rektatraduko: 
-    - Kion: Que, quoi
-    - vi: tu
-    - volas: veux
-    - trinki: boire
+    - Kion: Inona 
+    - vi: ianao / ianareo
+    - volas: tiana / te
+    - trinki: no sotroina
     - ':' 
-    - teon: du thé
+    - teon: ny dite
     - ',' 
-    - iom: un peu 
-    - da: de
-    - kafo: café
-    - aŭ: ou
-    - ĉu: est-ce que
-    - vi: tu
-    - volas: veux
-    - nenion: rien
+    - iom: kely 
+    - da: ny
+    - kafo: kafe
+    - aŭ: sa
+    - ĉu: 
+    - vi: ianao
+    - volas: te
+    - nenion: tsy... na inona na inona / tsy misy
     - '?'
 - 
-  demando: Pourquoi as-tu si soudainement décider de rénover ta petite chambre ?
+  demando: "Maninona ianao no tapa-kevitra tampoka hanova ny hefi -trano kelinao ?
   rektatraduko: 
-    - Kial: Pourquoi
-    - vi: tu
-    - tiel: ainsi, si
-    - subite: soudainement
-    - decidis: as décidé
-    - renovigi: rénover
-    - vian: ta
-    - ĉambreton: petite chambre
+    - Kial: Maninona
+    - vi: ianao
+    - tiel: 
+    - subite: tampoka
+    - decidis: no tapa-kevitra
+    - renovigi: hanova
+    - vian: ny
+    - ĉambreton: hefi-trano kely
     - '?'
 - 
-  demando: À qui as-tu donnée les verres à vin propres ?
+  demando: " Nomenao iza ny veran'ny divay madio ? "
   rektatraduko: 
-    - al: À
-    - kiu: qui
-    - vi: tu
-    - donis: as donné
-    - la: les
-    - purajn: propres
-    - glasojn: verres
-    - por: pour 
-    - la: le
-    - vino: vin
+    - al: Aminy
+    - kiu: iza
+    - vi: ianao / ianareo
+    - donis: nomena
+    - la: ny
+    - purajn: madio
+    - glasojn: vera
+    - por: ho an'
+    - la: ny
+    - vino: divay
     - '?'
 - 
-  demando: Contre qui ton club de sports a joué il y a deux semaines ?
+  demando: " Iza ialy klioba fanatanjahanao nanoherana ny roa herinandro lasa izay ?"
   rektatraduko: 
-    - Kontraŭ: Contre
-    - kiu: qui
-    - ludis: a joué
-    - via: ton
-    - sportklubo: club de sports
-    - antaŭ: avant
-    - du: deux
-    - semajnoj: semaines
+    - Kontraŭ: nanohernana
+    - kiu: iza
+    - ludis: izay
+    - via: ianao / ianareo
+    - sportklubo: klioba fanatanjahana
+    - antaŭ: lasa 
+    - du: roa
+    - semajnoj: herinandro
     - '?'
 - 
-  demando: "Est-ce que tu vois souvent le policier qui habite dans l'appartement au-dessus de toi ?"
+  demando: "Moa ve mba hitanao matetika ilay mpitandro-filaminana izay mipetraka ao anaty trano eo amboninareo ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - ofte: souvent
-    - vidas: vois
-    - la: le
-    - policiston: policier
+    - Ĉu: Moa ve
+    - vi: ianao
+    - ofte: matetika
+    - vidas: mahita
+    - la: ny / ilay
+    - policiston: mpitandro-filaminana
     - ',' 
-    - kiu: qui
-    - loĝas: habite
-    - en: dans 
-    - la: "l'"
-    - loĝejo: appartement
-    - super: au-dessus de
-    - vi: toi
+    - kiu: izay
+    - loĝas: mipetraka
+    - en: ao anaty
+    - la: ny
+    - loĝejo: trano
+    - super: eo ambony ny
+    - vi: ianareo / ianao
     - '?'

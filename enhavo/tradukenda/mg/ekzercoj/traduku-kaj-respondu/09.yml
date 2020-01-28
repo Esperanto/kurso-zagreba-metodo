@@ -11,48 +11,48 @@
 - 
   demando: "Si au moins allais après l'école avec moi au centre-ville !"
   rektatraduko: 
-    - Se: Si
-    - almenaŭ: au moins
-    - vi: tu
-    - post: après
-    - la: "l'"
-    - lernado: école
+    - Se: Raha
+    - almenaŭ: fahafaharatsiny
+    - vi: ianao / ianareo
+    - post: aoriana
+    - la: ny
+    - lernado: sekoly
     - irus: irais
-    - kun: avec
-    - mi: moi
-    - en: à
-    - la: le 
+    - kun: miaraka
+    - mi: -ko
+    - en: aminy
+    - la: ny
     - urbocentron: centre-ville
     - '!'
 - 
-  demando: "Où voudrais-tu voyager si tu avais suffisamment d'argent et de temps ?"
+  demando: "Taiza no tianao itsangatsanganana raha ampy vola sy fotoana ianao ?"
   rektatraduko: 
-    - Kien: Où
-    - vi: tu
-    - dezirus: voudrais
-    - vojaĝi: voyager
+    - Kien: Taiza
+    - vi: ianao / ianareo
+    - dezirus: no tiana
+    - vojaĝi: itsangatsanganana
     - ',' 
-    - se: si
-    - vi: tu
-    - havus: avais (litt. aurais)
-    - sufiĉe: assez
-    - da: de
-    - mono: arget
-    - kaj: et
-    - tempo: temps
+    - se: raha
+    - vi: ianao / ianareo
+    - havus: no
+    - sufiĉe: ampy
+    - da: ny
+    - mono: vola
+    - kaj: sy
+    - tempo: fotoana
     - '?'
 - 
   demando: Est-ce que tu prévois d'aller à Paris en voiture ou, est-ce-que cela ne semble pas beaucoup mieux, en train ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - planas: prévois
-    - veturi: aller
-    - al: à
+    - Ĉu: Moa ve 
+    - vi: ianao / ianareo
+    - planas: mialoha
+    - veturi: mandeha
+    - al: any / aminy
     - Parizo: Paris
-    - per: avec
-    - aŭto: voiture
-    - aŭ: ou
+    - per: miarak'aminy
+    - aŭto: fiara
+    - aŭ: sa
     - ĉu: est-ce-que
     - ne: ne
     - ŝajnas: semble
@@ -65,11 +65,11 @@
 - 
   demando: Pourquoi différentes personnes expliquent les mêmes idées de façons différentes ?
   rektatraduko: 
-    - Kial: Pourquoi
-    - diversaj: différentes
-    - homoj: personnes
-    - klarigas: expliquent
-    - samajn: mêmes
-    - ideojn: idées
-    - diversmaniere: de façons différentes 
+    - Kial: Maninona
+    - diversaj: samy hafa
+    - homoj: olona
+    - klarigas: manazava
+    - samajn: mitovy
+    - ideojn: hevitra
+    - diversmaniere: amin'ny fomba samy hafa
     - '?'

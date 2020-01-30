@@ -1,9 +1,9 @@
 -
-  demando: Manao ahoana ny tranonareo taloha?
+  demando: "Manao ahoana ny tranonareo taloha?"
   rektatraduko: 
     - Kia: Manao ahoana 
-    - estis: ny /no/dia
-    - via: ianareo/ianao
+    - estis: ny
+    - via: ianareo / ianao
     - malnova: taloha
     - hejmo: trano
     - '?'
@@ -12,7 +12,7 @@
   rektatraduko:
     - Kiujn: Manao ahoana
     - librojn: boky
-    - vi: ianareo/ianao
+    - vi: ianao / ianareo
     - legis: novakina
     - kaj: ary/ sy
     - ĉu: moa ve
@@ -26,7 +26,7 @@
     - Kion: Inona
     - faris: nataony
     - Anna: Anna
-    - kaj: sy /ary
+    - kaj: sy 
     - Marko: Marc
     - en: ao anaty
     - la: ny
@@ -36,35 +36,35 @@
     - Marko: Marc
     - '?'
 -
-  demando: "Moa ve tianareo mamaky boky fitiavana ?"
+  demando: "Moa ve tianareo ny mamaky boky fitiavana ?"
   rektatraduko:
     - Ĉu: Moa ve 
     - vi: ianareo/ianao
     - ŝatas: tia
-    - legi: mamaky
-    - librojn: ny boky
+    - legi: ny mamaky
+    - librojn: boky
     - pri: eo ambony
     - amo: fitiavana
     - '?'
 -
-  demando: Iza no andeha miarak'aminao amin' ny tranonareo ?
+  demando: "Iza no andeha miarak'aminao amin' ny tranonareo ?"
   rektatraduko:
     - Kiu: Iza
     - iros: no andeha
     - kun: miaraka
     - vi: ianareo/ ianao
-    - al: amin'ny
+    - al: aminy
     - via: ianareo/ianao
-    - hejmo: trano
+    - hejmo: ny trano
     - '?'
 -
-  demando: Manao ahoana ny mason'i sakaizanao ?
+  demando: "Manao ahoana ny mason'i sakaizanao ?"
   rektatraduko:
     - Kiaj: Manao ahoana 
-    - estas: ny/no/dia
+    - estas: ny / no / dia
     - la: ny 
     - okuloj: maso
     - de: ny /n'i
-    - via: ianareo/ianao
+    - via: ianao / ianareo
     - amikino: sakaiza
     - '?'

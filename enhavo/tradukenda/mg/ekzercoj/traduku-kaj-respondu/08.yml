@@ -1,5 +1,5 @@
 - 
-  demando: " Iza no manadio ny lakozia aorian'ny fisakafoanana maraina ?
+  demando: " Iza no manadio ny lakozia aorian'ny fisakafoanana maraina ?"
   rektatraduko: 
     - Kiu: Iza
     - purigos: no manadio
@@ -29,7 +29,7 @@
     - nenion: tsy... na inona na inona / tsy misy
     - '?'
 - 
-  demando: "Maninona ianao no tapa-kevitra tampoka hanova ny hefi -trano kelinao ?
+  demando: "Maninona ianao no tapa-kevitra tampoka hanova ny hefi -trano kelinao ?"
   rektatraduko: 
     - Kial: Maninona
     - vi: ianao
@@ -41,7 +41,7 @@
     - ĉambreton: hefi-trano kely
     - '?'
 - 
-  demando: " Nomenao iza ny veran'ny divay madio ? "
+  demando: " Nomenao ho an'iza ny veran'ny divay madio ? "
   rektatraduko: 
     - al: Aminy
     - kiu: iza
@@ -55,9 +55,9 @@
     - vino: divay
     - '?'
 - 
-  demando: " Iza ialy klioba fanatanjahanao nanoherana ny roa herinandro lasa izay ?"
+  demando: " Iza ilay klioba fanatanjahanao nanoherana ny roa herinandro lasa izay ?"
   rektatraduko: 
-    - Kontraŭ: nanohernana
+    - Kontraŭ: nanoherana
     - kiu: iza
     - ludis: izay
     - via: ianao / ianareo

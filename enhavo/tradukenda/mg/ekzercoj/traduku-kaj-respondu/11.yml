@@ -1,7 +1,7 @@
 - 
-  demando: Pouvez-vous apporter le médicament de ma soeur ?
+  demando: "Moa ve mba afaka mitondra fanafody ny rahavaviko ve ianao?
   rektatraduko: 
-    - Ĉu: Moa ve 
+    - Ĉu: Moa ve
     - vi: ianao /ianareo 
     - povas: mba afaka
     - kunporti: mitondra
@@ -12,7 +12,7 @@
     - fratino: rahavavy
     - '?'
 - 
-  demando: Quand as-tu acheté cet instrument de musique ?
+  demando: "Rahoviana ianao no nividy ny zavamaneno?"
   rektatraduko: 
     - Kiam: Rahoviana
     - vi: ianao / ianareo
@@ -21,7 +21,7 @@
     - muzikilon: zavamaneno
     - '?'
 - 
-  demando: Qui a utilisé ma clé dernièrement ?
+  demando: "Iza no farany nampiasa ny fanalahidy?"
   rektatraduko: 
     - Kiu: Iza
     - laste: no farany
@@ -30,19 +30,19 @@
     - ŝlosilon: fanalahidy
     - '?'
 - 
-  demando: Vous êtes-vous déplacés à Venise en gondole aussi ?
+  demando: " Moa ve nandeha tany gondole koa ianao tany Venise ?
   rektatraduko: 
     - Ĉu: Moa ve
     - vi: ianao / ianareo
-    - en: any
+    - en: tany
     - Venecio: Venise
-    - veturis: to mamindra
+    - veturis: nandeha
     - ankaŭ: koa
-    - per: any 
+    - per: tany 
     - gondolo: gondole
     - '?'
 - 
-  demando: "Est-ce que pourra t'endormir quand ce sera silencieux ?"
+  demando: "Moa ve mba afaka matory ianao rehefa mangina ?"
   rektatraduko: 
     - Ĉu: Moa ve 
     - vi: ianao / ianareo

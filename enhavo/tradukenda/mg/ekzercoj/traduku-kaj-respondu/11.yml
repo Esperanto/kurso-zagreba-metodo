@@ -1,54 +1,54 @@
 - 
   demando: Pouvez-vous apporter le médicament de ma soeur ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - povas: pouvez
-    - kunporti: apporter
-    - la: le
-    - sanigilon: médicament
-    - de: de
-    - mia: ma
-    - fratino: sœur
+    - Ĉu: Moa ve 
+    - vi: ianao /ianareo 
+    - povas: mba afaka
+    - kunporti: mitondra
+    - la: ny
+    - sanigilon: fanafody
+    - de: ny
+    - mia: -ko
+    - fratino: rahavavy
     - '?'
 - 
   demando: Quand as-tu acheté cet instrument de musique ?
   rektatraduko: 
-    - Kiam: Quand
-    - vi: tu
-    - aĉetis: as acheté
-    - tiun: ce, cet
-    - muzikilon: instrument de musique
+    - Kiam: Rahoviana
+    - vi: ianao / ianareo
+    - aĉetis: no nividy
+    - tiun: ny
+    - muzikilon: zavamaneno
     - '?'
 - 
   demando: Qui a utilisé ma clé dernièrement ?
   rektatraduko: 
-    - Kiu: Qui
-    - laste: dernièrement
-    - uzis: a utilisé
-    - mian: ma
-    - ŝlosilon: clé
+    - Kiu: Iza
+    - laste: no farany
+    - uzis: nampiasa
+    - mian: ny
+    - ŝlosilon: fanalahidy
     - '?'
 - 
   demando: Vous êtes-vous déplacés à Venise en gondole aussi ?
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - en: à, dans
+    - Ĉu: Moa ve
+    - vi: ianao / ianareo
+    - en: any
     - Venecio: Venise
-    - veturis: êtes déplacés
-    - ankaŭ: aussi
-    - per: en
+    - veturis: to mamindra
+    - ankaŭ: koa
+    - per: any 
     - gondolo: gondole
     - '?'
 - 
   demando: "Est-ce que pourra t'endormir quand ce sera silencieux ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - povos: pourras
-    - ekdormi: "[t'] endormir"
+    - Ĉu: Moa ve 
+    - vi: ianao / ianareo
+    - povos: mba afaka
+    - ekdormi: matory
     - ',' 
-    - kiam: quand 
-    - silentiĝis: "ce sera silencieux (litt. c'est devenu silencieux)"
+    - kiam: rehefa
+    - silentiĝis: mangina
     - '?'

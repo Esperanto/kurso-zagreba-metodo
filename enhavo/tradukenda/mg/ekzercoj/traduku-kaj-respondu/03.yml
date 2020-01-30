@@ -1,9 +1,9 @@
 -
-  demando: Moa ve ny mpiasa ao anaty hotely lehibe mahay fiteny maro?
+  demando: "Moa ve ny mpiasa ao amin'ny hotely lehibe mba mahay fiteny maro?"
   rektatraduko:  
     - Ĉu: Moa ve 
     - kelneroj: ny mpiasa
-    - en: ao anaty
+    - en: ao aminy
     - grandaj: lehibe
     - hoteloj: hotely
     - komprenas: mahay
@@ -11,7 +11,7 @@
     - lingvojn: fiteny
     - '?'
 -
-  demando: "Moa fantatrao ve fa i Anne tia ny hira vaovao mahakasika ny fahantrana sy ny vehivavy tsara ?"
+  demando: "Moa fantatrao ve fa i Anne dia tia ny hira vaovao mahakasika ny fahantrana sy ny vehivavy tsara ?"
   rektatraduko: 
     - Ĉu: Moa ve
     - vi: ianao / ianareo
@@ -29,7 +29,7 @@
     - belulino: ny vehivavy tsara
     - '?'
 - 
-  demando: Taiza ianao no nahita ny lehilahy antitra sy ny lehilahy tanora no nitondra latabatra lehibe ?
+  demando: "Taiza ianao no nahita lehilahy antitra sy ny lehilahy tanora no nitondra latabatra lehibe ?"
   rektatraduko: 
     - Kie: Taiza
     - vi: ianao/ianareo
@@ -46,7 +46,7 @@
     - tablon: latabatra
     - '?'
 -
-  demando: "Inona no nahatonga ianao tonga  c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?"
+  demando: "Inona no nahatonga ianao tonga ety raha tsy nisy ny rahalahinao sy ny rahavavinao?"
   rektatraduko: 
     - Kiel: Inona
     - okazis: no nahatonga
@@ -55,7 +55,7 @@
     - vi: ianao/ianareo
     - denove: mbola
     - venis: tonga 
-    - al: aminy
+    - al: ety
       ni: izahay
     - sen: tsisy / tsy
     - gefratoj: rahalahy sy rahavavy?
@@ -66,7 +66,7 @@
     - cu: Moa ve
     - vi: ianao
     - povas: afaka
-    - per: miarak'amin'
+    - per: miarak'aminy 
     - la: ny
     - nova: vaovao
     - lernolibro: boky fianarana

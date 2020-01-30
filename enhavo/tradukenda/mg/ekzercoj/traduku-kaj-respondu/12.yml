@@ -1,68 +1,68 @@
 - 
-  demando: "Est-ce qu'on se reverra, à un moment et quelque part ?"
+  demando: "Moa ve mbola hihaona isika,amin'ny fotoana iray ary amin'ny toerana hafa?"
   rektatraduko: 
     - Ĉu: Moa ve
     - ni: isika
-    - revidos: hifankahita
-    - nin: nousisika
+    - revidos: hihaona
+    - nin: isika
     - ',' 
-    - kie: rehefa
-    - ajn: na aiza
+    - kie: any
+    - ajn: toerana hafa
     - kaj: 
-    - kiam: où
-    - ajn: na aiza
+    - kiam: ary
+    - ajn: toerana hafa
     - '?'
 - 
-  demando: "Quand récupèrerai-je de nouveau l'autre moitié des livres ?"
+  demando: "Rahovina aho no hamerina ny antsasaky ny boky hafa ?"
   rektatraduko: 
-    - Kiam: Oviana
+    - Kiam: Rahoviana
     - mi: aho
-    - rericevos: récupèrerai
-    - la: "l'"
-    - alian: autre
-    - duonon: moitié
-    - de: de
-    - la: les
-    - libroj: livres
+    - rericevos: no hamerina
+    - la: ny
+    - alian: hafa
+    - duonon: antsasany
+    - de: ny
+    - la: ny
+    - libroj: boky
     - '?'
 - 
-  demando: "Est-ce que vous aurez besoin de plus d'un trimestre pour ces travaux ?"
+  demando: "Moa ve ianao mba mila mihoatra ny ampahefany amin'ity asa ity?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - bezonos: aurez besoin
-    - pli: plus
-    - ol: de
-    - kvaronan: un quart
-    - jaron: année
-    - por: pour
-    - tiuj: des
-    - laboroj: travaux
+    - Ĉu: Moa ve
+    - vi: ianao / ianareo
+    - bezonos: mba mila
+    - pli: mihoatra
+    - ol: ny
+    - kvaronan: ampahefany
+    - jaron: toana
+    - por: aminy
+    - tiuj: ny
+    - laboroj: asa
     - '?'
 - 
-  demando: Pourquoi est-ce que plus il fait froid, plus nous attendons longtemps ?
+  demando: "Fa maninona mangatsiaka kokoa dia miandry ela kokoa isika ?"
   rektatraduko: 
-    - Kial: Pourquoi
-    - estas: est
-    - des: des
-    - pli: plus
-    - malvarma: froid
+    - Kial:  Fa maninona 
+    - estas: dia
+    - des: 
+    - pli: kokoa
+    - malvarma: mangatsiaka
     - ',' 
-    - ju: le
-    - pli: plus
-    - longe: longtemps
-    - ni: nous
-    - atendas: attendons
+    - ju: 
+    - pli: kokoa
+    - longe: ela
+    - ni: isika
+    - atendas: miandry
     - '?'
 - 
-  demando: "Est-ce que tu serais heureuse avec n'importe quel homme ?"
+  demando: "Moa ve mba mety ho faly amin'ny lelahy rehetra ve ianao ?"
   rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - estus: serais
-    - kontenta: heureuse
-    - kun: avec
-    - iu: "n'importe"
+    - Ĉu: Moa ve
+    - vi: ianao / ianareo 
+    - estus: ho
+    - kontenta: faly
+    - kun: aminy
+    - iu: rehetra
     - ajn: quel
-    - viro: homme
+    - viro: lehilahy
     - '?'

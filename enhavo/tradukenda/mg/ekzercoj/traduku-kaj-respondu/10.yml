@@ -1,9 +1,9 @@
 - 
-  demando: "Est-ce que l'amitié te rend plus heureux que l'amour ?"
+  demando: "Moa ve mampifaly ianao kokoa ny finamanana noho ny fitiavana ?"
   rektatraduko: 
     - Ĉu: Moa ve 
-    - amikeco: ny fisakaizana
-    - pli: be be kokoa 
+    - amikeco: ny finamanana
+    - pli: kokoa 
     - feliĉigas: mampifaly
     - vin: ianao / ianareo
     - ol: noho
@@ -11,9 +11,9 @@
     - amo: fitiavana
     - '?'
 - 
-  demando: À quelle fréquence écris-tu des lettres à tes amies en Italie ?
+  demando: " Impiry ianao no manoratra taratasy amin'ny namanao any Italia?
   rektatraduko: 
-    - Kiel: Maninona
+    - Kiel: Impiry
     - ofte: matetika
     - vi: ianao
     - skribas: manoratra
@@ -25,7 +25,7 @@
     - Italio: Italia
     - '?'
 - 
-  demando: Est-ce que la relation entre toi et tes professeurs ont changé ?
+  demando: " Moa ve niova ny fifandraisanareo sy ny mpampianatra?
   rektatraduko: 
     - Ĉu: Moa ve
     - la: ny
@@ -35,7 +35,7 @@
     - kaj: sy
     - via: -nao / -ianareo
     - instruisto: mpampianatra
-    - ŝanĝiĝis: mba niova
+    - ŝanĝiĝis: niova
     - '?'
 - 
   demando: "Est-ce maintenant que tu connais déjà assez bien l'espéranto ?"

@@ -15,7 +15,7 @@
     - jarojn: taona
     - '?'
 - 
-  demando: " Moa ve mba tianao asehoko aminao ny sariko tena lafo ?
+  demando: " Moa ve mba tianao asehoko aminao ny sariko tena lafo ?"
   rektatraduko: 
     - Ĉu: Moa ve 
     - vi: ianao / ianareo
@@ -32,7 +32,7 @@
     - foton: sary
     - '?'
 - 
-  demando: " Taiza ianao no nividy ity akanjo ity ?
+  demando: " Taiza ianao no nividy ity akanjo ity ?"
   rektatraduko: 
     - Kie: Taiza
     - vi: ianao / ianareo
@@ -54,10 +54,10 @@
     - tago: andro
     - '?'
 - 
-  demando: " Moa ve ny rahalahinao dia efa lasa sahady ?
+  demando: " Moa ve ny rahalahinao dia efa lasa sahady ?"
   rektatraduko: 
     - Ĉu: Moa ve 
-    - via: -nao
+    - via: ianao / ianareo
     - frato: rahalahy
     - jam: sahady
     - ekiris: dia efa lasa
@@ -66,7 +66,7 @@
   demando: "Aiza ny rano nalainao ?"
   rektatraduko: 
     - Kie: Aiza
-    - estas: 
+    - estas: no
     - la: ny
     - akvo: rano
     - ',' 

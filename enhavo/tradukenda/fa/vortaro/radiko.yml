@@ -1,317 +1,357 @@
-afer: matter
-agrabl: pleasant
-akcept: accept
-akv: water
-ali: another
-alt: high
-am: love
+afer:
+- چیز
+- موضوع
+agrabl: دلپذیر
+akcept: پذیرفتن
+akv: آب
+ali: دیگر
+alt: بلند
+am: عاشق بودن
 amas:
-- mass
-- crowd
-amik: friend
-arb: tree
-aspekt:
-- look
-- seem
-atend: to wait
-atent: pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
-bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: must
-dezir: to wish
-diabl: devil
+- توده
+- جمعیت مردم
+amik: دوست
+arb: درخت
+aspekt: دیده شدن
+atend:
+- منتظر بودن
+- انتظار داشتن
+atent: توجه کردن
+aĉet: خریدن
+aŭd: شنیدن
+aŭt: خودرو
+aŭtoritat:
+- قدرت
+- اختیار
+- اعتبار
+- نفوذ
+bedaŭr: متأسف بودن به خاطر
+bel: زیبا
+best: حیوان
+bezon: نیاز داشتن
+bien: مُلک
+bon: خوب
+branĉ: شاخه
+bru: سروصدا
+buŝ: دهان
+cert: مطمئن
+dank: تشکر کردن از
+daŭr: ادامه داشتن
+decid: تصمیم گرفتن
+demand: پرسیدن
+dev: باید
+dezir: آرزو داشتن
+diabl: شیطان
 dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
-doktor: doctor
-dolar: dollar
+- چاق
+- قطور
+dimanĉ: یک‌شنبه
+dir: گفتن
+direkt: جهت
+doktor: دکتر
+dolar: دلار
 dolor:
-- pain
-- to hurt
-dolĉ: sweet
-dom: house
-don: to give
-dorm: sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
-fart:
-- feel
-- be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
+- به درد آوردن
+- درد
+dolĉ: شیرین
+dom: ساختمان خانه
+don: دادن
+dorm:
+- خوابیده بودن
+- خوابیدن
+doĝ: دوج (دوک ونیز)
+edz: شوهر
+efektiv: 
+- عملی
+- واقعی
+ekskurs: گشت‌وگذار
+esper: امید داشتن به
+est: بودن
+facil: آسان
+fakt:
+- واقعیت
+- حقیقت
+fal: افتادن
+famili: خانواده
+far:
+- انجام دادن
+- درست کردن
+fart: سلامت بودن
+feliĉ: خوش‌حال
+ferm: بستن
+fin: پایان دادن
+flank: سمت
 foj:
-- time
-- occasion
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
-gondol: gondola
-graf:
-- count
-- earl
-grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: to need
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
-opini: opinion
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
-si: reflexive pronoun
-sid: to sit
-silent: silent
-simil: similar
-sinjor:
-- gentleman
-- Mr.
-situaci: sitation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: hold
-teror: terror
-tim: fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to travel
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: journey
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
+- دفعه
+- بار
+forges: فراموش کردن
+form: شکل
+fort: قوی
+fot: عکس
+frat: برادر
+fru:
+- زود
+- زودرس
+fuŝ: سمبل کردن
+gondol: گوندولا (نوعی قایق مورد استفاده در ونیز)
+graf: 
+- اشرافی اروپایی
+- کُنت
+grand: بزرگ
+grav: مهم
+halt: متوقف شدن
+hav: داشتن
+hejm: خانه
+help: کمک کردن
+hom: انسان
+hor: ساعت
+hotel: هتل
+ide: ایده
+industri: صنعت 
+instru: یاد دادن
+interes: علاقه‌مند کردن
+invit: دعوت کردن
+ir: رفتن
+itali: ایتالیا
+jar: سال
+jun: جوان
+kaf: قهوه
+kalv: کچل
+kap: سر
+kapabl: قادر
+kapt: گرفتن
+kar: عزیز
+kastel: قلعه
+kav: حفره
+kelk: چند
+kelner: پیشخدمت
+klar:
+- واضح
+- شفاف
+klub: کلوب
+knab: پسر
+koler: خشم
+kolor: رنگ
+komenc: آغاز کردن
+kompren: فهمیدن
+kon: شناختن
+kontent: راضی
+kontrol:
+- کنترل کردن
+- بررسی کردن
+kor: قلب
+korp: بدن
+kost: ارزیدن
+kri:
+- فریاد زدن
+- جیغ زدن
+kuir: پختن
+kuk: کیک 
+kur: دویدن
+labor: کار کردن
+lakt: شیر
+lamp: لامپ
+land: کشور
+larĝ:
+- گسترده
+- گشاد
+last: آخرین
+laŭt: بلند و رسا
+lecion: درس
+leg: خواندن
+lern: یاد گرفتن
+leter: نامه
+liber: آزاد
+libr: کتاب
+lok: مکان
+long: طولانی
+lud:
+- بازی کردن
+- نواختن موسیقی
+lum: نور
+man: دست
+mank: فقدان
+manĝ: خوردن
+mar: دریا
+maten: صبح
+memor: به یاد آوردن
+met: قرار رادن
+mez: میان
+milit: جنگ
+minut: دقیقه
+mir: شگفت‌زده کردن
+moment: لحظه
+mon: پول
+mont: کوه
+montr: نشان دادن
+mort: مردن
+mov: حرکت دادن
+mult: زیاد
+muzik: موسیقی
+nask:
+- زاییدن
+- به دنیا آوردن
+natur: طبیعت
+neces: ضروری
+nokt: شب
+nom: نام
+not: یادداشت
+nov: نو
+odor: بو دادن
+oft: غالبا
+okaz: رخ دادن
+okul: چشم
+onkl:
+- عمو
+- دایی
+opini: نگرش داشتن
+ord: ترتیب
+orel: گوش
+pac: صلح
+pag: پرداخت کردن
+pan: نان
+paper: کاغذ
+pardon:
+- بخشیدن
+- آمرزیدن
+parol: صحبت کردن
+part: قسمت
+pas: گذشتن
+patr: پدر
+paŝ: گام
+pens: فکر کردن
+perd: از دست دادن
+person: شخص
+pet: درخواست کردن
+pez: سنگین
+pied: پا
+plac:
+- محوطه
+- میدان
+plan: برنامه‌ریزی کردن
+plaĉ: خوشایند
+plen: پر
+polic: پلیس
+pord: در
+port: حمل کردن
+pov: توانستن
+pren: گرفتن
+pret: آماده
+prezent: معرفی کردن
+problem: مشکل
+proksim: نزدیک
+promen: قدم زدن
+propon: پیشنهاد دادن
+prov:
+- تلاش کردن
+- آزمودن
+rajt: حق داشتن
+rapid: سریع
+raport: گزارش
+real: واقعی
+rekt: مستقیم
+renkont: ملاقات کردن
+respekt: احترام گذاشتن
+respond: پاسخ دادن
+rest: باقی ماندن
+ricev: دریافت کردن
+rid: خندیدن
+rigard: نگاه کردن به
+riĉ:
+- ثروتمند
+- غنی
+rol: نقش
+ruĝ: قرمز
+salt: پریدن
+salut: سلام
+sam: همان
+san: سالم
+saĝ: هوشمند
+sci: دانستن
+sek: خشک
+sekret: راز
+sekv: دنبال کردن
+semajn: هفته
+send: فرستادن
+serĉ: دنبال چیزی یا کسی گشتن
+si: ضمیر انعکاسی سوم شخص
+sid:
+- نشسته بودن
+- نشستن
+silent: ساکت
+simil: شبیه
+sinjor: آقا
+situaci: وضعیت
+skrib: نوشتن
+sol: تنها
+son: صدا
+sovaĝ: وحشی
+sport: ورزش
+star: ایستادن
+strat: خیابان
+subit: ناگهان
+sufiĉ: کافی
+sukces: موفق
+sun: خورشید
+supr:
+- بالا
+- بالایی
+tabl: میز 
+tag: روز
+te: چای
+telefon: تلفن
+temp: زمان
+temperatur: دما
+ten: نگه داشتن
+teror:
+- اقدام وحشت افزا
+- ترور
+tim: ترسیدن
+ton: لحن
+trankvil: آرام
+trink: نوشیدن
+trov: پیدا کردن
+turk: ترک
+tuŝ: لمس کردن
+urb: شهر
+util: مفید
+uz: استفاده کردن
+vagon: واگن
+varm: گرم
+ven: آمدن
+vend: فروختن
+Veneci: ونیز
+ver: حقیقی
+vesper: سرشب
+vest: پوشاندن
+vetur: با وسیله‌ی نقلیه پیمودن
+vid: دیدن
+vin: شراب
+vir: مرد
+viv: زندگی کردن
+vizaĝ: چهره
+vizit: بازدید کردن
+voj:
+- راه
+- جاده
+vojaĝ: سفر کردن
+vok: صدا زدن
+vol: خواستن
+vort: واژه
+voĉ: صدای شخص
+zorg:
+- توجه کردن
+- نگران بودن
+ĉambr: اتاق
+ĉef: رییس
 ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: to correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- آزار دادن
+- زحمت دادن
+ĝeneral: عمومی
+ĝoj: شاد
+ĝust: درست
+ĵet: انداختن
+ŝajn: به نظر رسیدن
+ŝanĝ: تغییر دادن
+ŝat: دوست داشتن
+ŝip: کشتی

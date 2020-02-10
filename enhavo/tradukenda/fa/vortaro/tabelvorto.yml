@@ -1,59 +1,65 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: چه چیزی
+tio: آن چیز
+io: یک چیزی
+ĉio: همه چیز
+nenio: هیچ چیز
 kiu:
-- who
-- which
+- چه کسی
+- کدام
 tiu:
-- that person
-- that one
-iu: someone
+- آن شخص
+- آن یکی
+iu: یک شخصی
 ĉiu:
-- everyone
-- every
+- هر کس
+- همه کس
+- هر
+- همه
 neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
+- هیچ کس
+- هیچکدام
+kie: کجا
+tie: آن جا
+ie: یک جایی
+ĉie: هر جایی
+nenie: هیچ جا
+kia: چگونه
+tia: آن گونه
+ia: یک گونه‌ای
+ĉia: هر گونه
+nenia: هیچ گونه
+kiel: چطور
+tiel: آن طور
+iel: به روشی
+ĉiel: به هر روشی
+neniel: به هیچ روشی
+kial: چرا
+tial: به آن دلیل
+ial: به دلیلی
+ĉial: به هر دلیلی
+nenial: به هیچ دلیلی
+kiam: چه موقع
+tiam: آنگاه
+iam: یک موقعی
+ĉiam: همیشه
+neniam: هیچ وقت
+kiom: 
+- چقدر
+- چند تا
+tiom:
+- آن فدر
+- به آن تعداد
 iom: 
-- to some extent
-- a certain amount
+- مقداری
+- تعدادی
 ĉiom: 
-- all of it
-- the whole amount
+- همه‌ی مقدار
+- همه‌ی تعداد
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- هیچ مقداری
+- هیچ تعدادی
+kies: مال چه کسی
+ties: مال آن کس
+ies: مال یک کسی
+ĉies: مال همه کس
+nenies: مال هیچ کس

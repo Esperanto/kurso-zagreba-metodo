@@ -1,53 +1,56 @@
 - 
-  demando: دوست (مونث) شما چه کسی است؟
+  demando: دوست (مؤنث) شما چه کسی است؟
   rektatraduko:
     - Kiu: چه کسی
     - estas: است
-    - via: شما
-    - amikino: (دوست (مونث
+    - via: مال شما
+    - amikino: (دوست (مؤنث
     - '?'
 - 
-  demando: آیا آنا دوست (مونث) شما در حال نوشتن در اتاق است؟
+  demando: آیا دوست (مؤنث) شما، آنا اکنون دارد در اتاق می‌نویسد؟
   rektatraduko:
     - Ĉu: آیا
-    - via: شما
-    - amikino: (دوست (مونث
+    - via: مال شما
+    - amikino: (دوست (مؤنث
     - Anna: آنا
-    - skribas: نوشتن
-    - nun: در حال
+    - skribas: دارد می‌نویسد
+    - nun: اکنون
     - en: در
     - ĉambro: اتاق
     - '?'
 - 
-  demando: آیا دوست پدر شما در هتل کار می کند؟
+  demando: آیا دوست پدر شما در یک هتل کار می کند؟
   rektatraduko:
     - Ĉu: آیا
+    - la: حرف تعریف
     - amiko: دوست
-    - via: شما
+    - de: کسره (ـِ یا ی)
+    - via: مال شما
     - patro: پدر
     - laboras: کار می کند
     - en: در
     - hotelo: هتل
     - '?'
 - 
-  demando: روی میز کار در اتاق ما چه چیزی است؟
+  demando: روی میز تحریر در اتاق ما چه چیزی است؟
   rektatraduko:
     - Kio: چه چیزی
     - estas: است
-    - sur: 'روی'
-    - labortablo: میز کار
+    - sur: روی
+    - la: حرف تعریف
+    - labortablo: میز تحریر
     - en: در
-    - nia: ما
+    - nia: مال ما
     - ĉambro: اتاق
     - '?'
 - 
-  demando: آیا کتاب آموزشی اسپرانتو بر روی میز شما است؟
+  demando: آیا یک کتاب آموزشی اسپرانتو بر روی میز شما است؟
   rektatraduko:
     - Ĉu: آیا
-    - Esperanto-lernolibro: کتاب آموزشی اسپرانتو
+    - Esperanto-lernolibro: یک کتاب آموزشی اسپرانتو
     - estas: است
     - sur: روی
-    - via: شما 
+    - via: مال شما 
     - tablo: میز
     - '?'
 

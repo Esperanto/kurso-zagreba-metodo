@@ -6,9 +6,9 @@ alportis: آوردن
 alvenigas: به اینجا هدایت کرد
 alvenis: آمد اینجا
 alvenos: اینجا خواهد آمد
-amikino: دوست دختر
-amikinon: دوست دختر
-amletero: نامه عشقی
+amikino: دوست مؤنث
+amikinon: دوست مؤنث
+amletero: نامه‌ی عاشقانه
 antaŭeniris: جلو رفت
 arbaro: جنگل
 arbetoj: بوته ها
@@ -21,7 +21,9 @@ belaĵoj: چیزهای زیبا
 beleta: جذاب
 bestetoj: حیوانات کوچک
 bonega: بسیار خوب
-bonvolu: لطفا
+bonvolu:
+- لطف کنید
+- لطفا
 bonvolus: لطفا
 centoj: صدها
 dankon: متشکرم

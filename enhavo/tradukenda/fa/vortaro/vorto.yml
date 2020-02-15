@@ -52,7 +52,7 @@ eniru: "!وارد شو"
 facilmovaj: حرکت آسان
 faligi:
 - انداختن
-- to run over
+- زیر گرفتن
 faligis: ran over
 familianoj: اعضای خانواده
 fermita: بسته شده 
@@ -111,11 +111,14 @@ laboristo: کارگر
 lampeto: لامپ کوچک
 lernanto:
 - شاگرد
+- دانش‌آموز
 - یادگیرنده
 - آموزنده
 lernejo: مدرسه
 lernejon: مدرسه 
-lernolibroj: کتاب‌های درسی
+lernolibroj: 
+- کتاب‌های درسی
+- کتاب‌های آموزشی
 leteroj: نامه‌ها
 libertempo:
 - زمان آزاد

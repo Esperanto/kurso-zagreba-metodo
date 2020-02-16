@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import yaml
+from yaml.resolver import Resolver
 import glob
 import re
 import os
@@ -9,6 +10,15 @@ import sys
 import argparse
 import html_generiloj
 import leo_markdown
+
+# remove resolver entries for On/Off/Yes/No
+# https://stackoverflow.com/a/36470466/52023
+for ch in "OoYyNn":
+    if len(Resolver.yaml_implicit_resolvers[ch]) == 1:
+        del Resolver.yaml_implicit_resolvers[ch]
+    else:
+        Resolver.yaml_implicit_resolvers[ch] = [x for x in
+                Resolver.yaml_implicit_resolvers[ch] if x[0] != 'tag:yaml.org,2002:bool']
 
 def transpose_headlines(markdown, level):
     prefix = ''

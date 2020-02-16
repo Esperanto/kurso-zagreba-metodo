@@ -8,7 +8,7 @@
     - ',' 
     - kie: any
     - ajn: toerana hafa
-    - kaj: 
+    - kaj: ""
     - kiam: ary
     - ajn: toerana hafa
     - '?'
@@ -44,11 +44,11 @@
   rektatraduko: 
     - Kial:  Fa maninona 
     - estas: dia
-    - des: 
+    - des: ""
     - pli: kokoa
     - malvarma: mangatsiaka
     - ',' 
-    - ju: 
+    - ju: ""
     - pli: kokoa
     - longe: ela
     - ni: isika

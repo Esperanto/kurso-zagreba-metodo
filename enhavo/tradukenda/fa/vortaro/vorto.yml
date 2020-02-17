@@ -2,24 +2,24 @@ Esperanto: اسپرانتو
 akcepteblan: قابل قبول
 alilandaj: خارجی
 alporti: آوردن
-alportis: آوردن
-alvenigas: به اینجا هدایت کرد
-alvenis: آمد اینجا
-alvenos: اینجا خواهد آمد
+alportis: آورد
+alvenigas: می‌رسانَد
+alvenis: رسید
+alvenos: خواهد رسید
 amas: عاشق است
 amikino: دوست مؤنث
 amikinon: دوست مؤنث
 amletero: نامه‌ی عاشقانه
 antaŭeniris: جلو رفت
 arbaro: جنگل
-arbetoj: بوته ها
+arbetoj: بوته‌ها
 arboplena: پر از درخت
-aĉetumos: خرید خواهد کرد
+aĉetumos: به خرید خواهد رفت
 aĉodora: بوی بد
 aŭdiĝis: شنیده شد
-bedaŭrinde: متاسفانه
+bedaŭrinde: متأسفانه
 belaĵoj: چیزهای زیبا
-beleta: جذاب
+beleta: تا حدی زیبا
 bestetoj: حیوانات کوچک
 bonega: بسیار خوب
 bonvolu:
@@ -28,15 +28,15 @@ bonvolu:
 bonvolus: لطفا
 centoj: صدها
 dankon: متشکرم
-daŭrigis: ادامه یافت
-denove: مجدد
-devojiĝis: منحرف شدن
+daŭrigis: ادامه داد
+denove: از نو، دوباره
+devojiĝis: منحرف شد
 dikiĝi: چاق شدن
-doloriga: درد آور
-dolorige: به صورت در آور
+doloriga: دردآور
+dolorige: به صورت دردآور
 domegon: ویلا
-dumnokte: در شب
-dumtage: در روز
+dumnokte: طی شب، شبانه
+dumtage: طی روز، روزانه
 ekkriis: شروع به فریاد زدن کرد
 ekmire: به صورت شگفت انگیز
 ekparolis: شروع به صحبت کرد
@@ -44,28 +44,30 @@ ekridis: شروع به خندین کرد
 ekrigardis: شروع به نگاه کردن کرد
 eksaltis: شروع به پریدن کرد
 ekscii: دریافتن
-eksidis: نشستن
+eksidis: نشست
 ekstervoje: در راه خروج
-ekveturas: شروع به راندن کرد
+ekveturas: شروع به راندن می‌کند
 ekvidis: شروع به دیدن کرد
 elstaraj: برجسته
 eniri: وارد شدن
 eniris: وارد شد
 eniru: "!وارد شو"
-facilmovaj: حرکت آسان
+facilmovaj:
+- روان
+- مربوط به حرکت آسان
 faligi:
 - انداختن
 - زیر گرفتن
-faligis: ran over
+faligis: زیر گرفت
 familianoj: اعضای خانواده
-fermita: بسته شده 
+fermita: بسته‌شده 
 fine: در نهایت
 foresti:
 - غایب بودن
 - دور بودن
-foriros: دور رفتن
+foriros: دور خواهد رفت
 fratino: خواهر
-fuŝparolis: غلط صحبت کردن
+fuŝparolis: غلط صحبت کرد
 geamikoj: دوستان
 gefratoj: خواهران و برادران
 gelernantojn: شاگردان مختلط
@@ -74,7 +76,7 @@ gondolisto: قایق‌ران گوندولا
 gondolistoj: قایق رانان گوندولا
 grafino: کنتس
 grafinon: کنتس
-grandula: غول‌پیکر
+grandula: شخص غول‌پیکر
 gravuloj: افراد مهم
 haltigis: متوقف کرد
 havigi: به دست آوردن

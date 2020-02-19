@@ -1,13 +1,17 @@
-- estraro: هیئت
-- tagmeze: نیم روز
+- estraro: هیئت رئیسه
+- tagmeze: ظهر
 - posttagmeze: بعد از ظهر
 - malsata: گرسنه
 - interkonsenti: موافقت کردن
 - manĝilaro: کارد و چنگال
 - vidpunkto: نقطه نظر
-- malfermilo: در باز کن
-- noktomezo: نیمه شب
+- malfermilo: بازکننده
+- noktomezo:
+  - نیمه‌شب
+  - نیمه شب
 - publikigi: منتشر کردن
 - pagigi: وادار به پرداخت کردن
 - duflanka: دوجانبه
-- aliflanke: از طرفی دیگر
+- aliflanke:
+  - از طرفی دیگر
+  - از سویی دیگر

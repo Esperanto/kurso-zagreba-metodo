@@ -1,86 +1,86 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: چه کسی آشپزخانه را پس از ناهار تمیز خواهد کرد؟
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: چه کسی
+    - purigos: تمیز خواهد کرد
+    - la: حرف تعریف
+    - kuirejon: آشپزخانه
+    - post: بعد از
+    - la: حرف تعریف
+    - tagmanĝo: ناهار
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: چه چیزی می‌خواهید بنوشید: چای، مقداری قهوه یا این که چیزی نمی‌خواهید؟""
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: چه چیزی را
+    - vi: شما
+    - volas: می‌خواهید
+    - trinki: بنوشید (نوشیدن)
     - ':' 
-    - teon: tea
+    - teon: چای
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: مقداری
+    - da: از
+    - kafo: قهوه
+    - aŭ: یا
+    - ĉu: این که (آیا)
+    - vi: شما
+    - volas: (ن‍)‍می‌خواهید
+    - nenion: چیزی را
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: چرا تو آن قدر ناگهانی تصمیم گرفتی اتاق کوچکت را نوسازی کنی؟
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: چرا
+    - vi: تو
+    - tiel: آن قدر
+    - subite: ناگهان‍(‍‍ی)
+    - decidis: تصمیم گرفتی
+    - renovigi: نو سازی کنی (کردن)
+    - vian: مال تو
+    - ĉambreton: اتاق کوچک
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: لیوان‌های تمیز مخصوص شراب را به چه کسی دادی؟
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: به
+    - kiu: چه کسی
+    - vi: تو
+    - donis: دادی
+    - la: حرف تعریف
+    - purajn: تمیز
+    - glasojn: لیوان‌ها
+    - por: مخصوص 
+    - la: حرف تعریف
+    - vino: شراب
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: باشگاه ورزشی شما در برابر چه کسی دو هفته‌ی قبل بازی کرد؟
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: در برابر
+    - kiu: چه کسی
+    - ludis: بازی کرد
+    - via: مال شما
+    - sportklubo: باشگاه ورزشی
+    - antaŭ: قبل
+    - du: دو
+    - semajnoj: هفته
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: آیا شما غالبا آن مأمور پلیس را که در آپارتمان بالای شما اقامت می‌کند، می‌بینید؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: آیا
+    - vi: شما
+    - ofte: غالبا
+    - vidas: می‌بینید
+    - la: حرف تعریف
+    - policiston: مأمور پلیس را
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: که
+    - loĝas: اقامت می‌کند
+    - en: در 
+    - la: حرف تأریف
+    - loĝejo: آپارتمان
+    - super: بالای
+    - vi: شما
     - '?'

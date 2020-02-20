@@ -4,63 +4,68 @@
     - Kiam: کی
     - mi: من  
     - revidos: دوباره خواهم دید
-    - vin: شما
+    - vin: شما را
     - '?'
 -
-  demando: چه مدت در حال یادگیری زبان بین المللی هستید؟
+  demando: چه مدت (است که) دارید زبان بین المللی را یاد می‌گیرید؟
   rektatraduko: 
     - Kiel: چه
     - longe: مدت
     - vi: شما
-    - lernas: یادگیری
+    - lernas: دارید یاد می‌گیرید
+    - la: حرف تعریف
     - Internacian: بین المللی
     - Lingvon: زبان
     - '?'
 -
-  demando: کتاب همراه با عکس جدید من کجاست؟Where is my new book with photographs?
+  demando: کتاب جدیدِ همراه با عکس من کجاست؟
   rektatraduko: 
     - Kie: کجا
     - estas: هست
     - mia: مال من
     - nova: جدید
     - libro: کتاب
-    - kun: با، همراه
-    - fotoj: عکس ها
+    - kun: همراه با
+    - fotoj: عکس‌ها
     - '?'
 -
-  demando: بعد از ناهار کجا می روید؟
+  demando: بعد از ناهار به کجا می‌روید؟
   rektatraduko: 
-    - Kien: کجا
+    - Kien: به کجا
     - vi: شما
     - iros: خواهید رفت
     - post: بعد
+    - la: حرف تعریف
     - tagmanĝo: ناهار
     - '?'
 -
-  demando: کسی می تواند وقتی که سرد است در اتاق را ببندد؟
+  demando: آیا کسی می‌تواند وقتی که سرد است، در اتاق را ببندد؟
   rektatraduko: 
     - Ĉu: آیا
     - oni: کسی
     - povas: می تواند 
-    - fermi: بستن
+    - fermi: ببندد (بستن)
+    - la: حرف تعریف
     - pordon: در 
+    - de: کسره (ـِ)
+    - la: حرف تعریف
     - ĉambro: اتاق
     - ','
-    - kiam: وقتی
+    - kiam: وقتی که
     - estas: است
     - malvarme: سرد
     - '?'
 -
-  demando: برای چه مدت زمانی که مردم از شما پول زیادی بگیرند عصبانی خواهید بود؟
+  demando: چه مدت عصبانی هستید اگر کسی پول زیادی از شما ببرد؟
   rektatraduko: 
     - Kiel: چه
     - longe: مدت
     - vi: شما
-    - koleras: عصبانی بودن
+    - koleras: عصبانی هستید
     - ','
     - se: اگر
     - oni: کسی
-    - forprenas: بگیرد
+    - forprenas: ببرد
     - de: از
     - vi: شما
     - multan: زیاد

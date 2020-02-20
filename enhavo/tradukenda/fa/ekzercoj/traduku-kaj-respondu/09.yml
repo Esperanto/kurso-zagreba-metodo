@@ -1,75 +1,73 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: چه چیزی می‌توانست والدینت را بیش از هر چیز شاد کند؟
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: چه چیزی
+    - povus: می‌توانست
+    - plej: بیش از هر چیز
+    - ĝojigi: شاد کند (کردن)
+    - viajn: مال تو
+    - gepatrojn: والدین
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: اگر (ای کاش) حداقل شما بعد از یادگیری با من به مرکز شهر می‌رفتید!
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: اگر (ای کاش)
+    - almenaŭ: حداقل
+    - vi: شما
+    - post: بعد از
+    - la: حرف تعریف 
+    - lernado: یادگیری
+    - irus: می‌رفتید
+    - kun: با
+    - mi: من
+    - en: به درون
+    - la: حرف تعریف 
+    - urbocentron: مرکز شهر
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: به کجا آرزو داشتی سفر کنی اگر پول و زمان کافی داشتی؟
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: به کجا
+    - vi: تو
+    - dezirus: آرزو داشتی
+    - vojaĝi: سفر کنی
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: اگر
+    - vi: تو
+    - havus: داشتی
+    - sufiĉe: به مقدار کافی
+    - da: از
+    - mono: پول
+    - kaj: و
+    - tempo: زمان
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: آیا شما دارید برنامه می‌ریزید با خودرو به پاریس سفر کنید یا این که با قطار خیلی بهتر به نظر نمی‌رسد؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - Ĉu: آیا
+    - vi: شما
+    - planas: دارید برنامه می‌ریزد
+    - veturi: سفر کنید
+    - al: به
+    - Parizo: پاریس
+    - per: با
+    - aŭto: خودرو
+    - aŭ: یا
+    - ĉu: این که (آیا)
+    - ne ŝajnas: به نظر نمی‌رسد
+    - multe: خیلی، به مقدار زیادی
+    - pli bone: بهتر
+    - per: با
+    - vagonaro: قطار
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: چرا اشخاص متفاوت همان عقیده‌ها را به روش‌های متفاوتی توضیح می‌دهند؟
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: چرا
+    - diversaj: متفاوت
+    - homoj: اشخاص
+    - klarigas: توضیح می‌دهند
+    - samajn: همان
+    - ideojn: عقیده‌ها را
+    - diversmaniere: به روش‌های متفاوتی 
     - '?'

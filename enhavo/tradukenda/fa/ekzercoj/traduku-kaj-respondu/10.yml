@@ -1,51 +1,50 @@
 - 
-  demando: Does friendship make you more happy than love does?
+  demando: آیا دوستی تو را بیش‌تر از عشق خوش‌حال می‌کند؟
   rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+    - Ĉu: آیا
+    - amikeco: دوستی
+    - pli: بیش‌تر
+    - feliĉigas: خوش‌حال می‌کند
+    - vin: تو را
+    - ol: از
+    - la: حرف تعریف
+    - amo: عشق
     - '?'
 - 
-  demando: How often do you write letters to your girlfriends in Italy?
+  demando: هر چند وقت یک بار تو به دوستانت در ایتالیا نامه می‌نویسی؟
   rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
+    - Kiel ofte: هر چند وقت یک بار
+    - vi: تو
+    - skribas: می‌نویسی
+    - leterojn: نامه(ها)
+    - al: به
+    - viaj: مال تو
+    - amikinoj: دوستان (مؤنث)
+    - en: در
+    - Italio: ایتالیا
     - '?'
 - 
-  demando: Has the relationship between you and your teacher changed?
+  demando: آیا رابطه‌ی بین تو و معلمت تغییر کرده است؟
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+    - Ĉu: آیا
+    - la: حرف تعریف
+    - rilato: رابطه‌ی
+    - inter: بین
+    - vi: تو
+    - kaj: و
+    - via: مال تو
+    - instruisto: معلم
+    - ŝanĝiĝis: تغییر کرده است
     - '?'
 - 
-  demando: Do you now already know Esperanto well enough?
+  demando: آیا شما اکنون دیگر اسپرانتو را به اندازه‌ای کافی خوب بلدید؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - Ĉu: آیا
+    - vi: شما
+    - nun: اکنون
+    - jam: دیگر
+    - scias: بلدید (می‌دانید)
+    - Esperanton: اسپرانتو را
+    - sufiĉe: به اندازه‌ای کافی
+    - bone: خوب
     - '?'

@@ -1,77 +1,76 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
+  demando: چه کسی آن کتاب را که تو بیش‌تر از دو سال منتظرش بودی، داشت؟
   rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+    - Kiu: چه کسی
+    - havis: داشت
+    - la: آن (حرف تعریف)
+    - libron: کتاب را
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
+    - kiun: که
+    - vi: تو
+    - atendis: منتظر بودی
+    - pli: بیش‌تر
+    - ol: از
+    - du: دو
+    - jarojn: سال
     - '?'
 - 
-  demando: Do you want me to show you the photo which is dearest to me?
+  demando: آیا تو از من می‌خواهی که به تو عزیزترین عکسم را نشان بدهم؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+    - Ĉu: آیا
+    - vi: تو
+    - volas: می‌خواهی
     - ','
-    - ke: that
-    - mi: I
-    - montru: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - ke: که
+    - mi: من
+    - montru: نشان بدهم
+    - al: به 
+    - vi: تو
+    - mian: مال من
+    - plej karan: عزیزترین
+    - foton: عکس
     - '?'
 - 
-  demando: Where did you buy that garment?
+  demando: کجا آن لباس را خریدید؟
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+    - Kie: کجا
+    - vi: شما
+    - aĉetis: خریدید
+    - tiun: آن
+    - vestaĵon: لباس را
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
+  demando: یک‌شنبه به کجا خواهید رفت اگر روزی آفتابی باشد؟
   rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+    - Kien: به کجا
+    - vi: شما
+    - iros: خواهید رفت
+    - dimanĉe: یک‌شنبه
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: اگر
+    - estos: باشد (خواهد بود)
+    - suna: آفتابی
+    - tago: روز
     - '?'
 - 
-  demando: Did your brother already leave?
+  demando: آیا برادرت دیگر رفته است؟
   rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+    - Ĉu: آیا
+    - via: مال تو
+    - frato: برادر
+    - jam: دیگر
+    - ekiris: رفته است
     - '?'
 - 
-  demando: Where is the water which you have brought yourself?
+  demando: آن آب که خودتان آورده‌اید کجاست؟
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+    - Kie: کجا
+    - estas: است
+    - la: آن (حرف تعریف)
+    - akvo: آب
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: که
+    - vi: شما
+    - mem: خودتان
+    - kunportis: آورده‌اید
     - '?'

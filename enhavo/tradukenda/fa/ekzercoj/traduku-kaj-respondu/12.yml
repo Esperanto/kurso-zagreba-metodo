@@ -1,68 +1,66 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: آیا ما همدیگر را هر کجا و هر زمان که باشد دوباره خواهیم دید؟
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: آیا
+    - ni: ما
+    - revidos: دوباره خواهیم دید
+    - nin: همدیگر (خودمان) را
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: هر جا
+    - ajn: که باشد
+    - kaj: و
+    - kiam: هر زمان
+    - ajn: که باشد
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: کِی من نصف دیگر کتاب‌ها را پس خواهم گرفت؟
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: کِی
+    - mi: من 
+    - rericevos: پس خواهم گرفت
+    - la: حرف تعریف
+    - alian: دیگر
+    - duonon: نصف
+    - de: کسره (ـِ)
+    - la: حرف تعریف
+    - libroj: کتاب‌ها
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: آیا تو بیش‌تر از یک چارم سال برای آن کارها نیاز خواهی داشت؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: آیا
+    - vi: تو
+    - bezonos: نیاز خواهی داشت
+    - pli: بیش‌تر
+    - ol: از
+    - kvaronan: یک چهارم
+    - jaron: سال
+    - por: برای
+    - tiuj: آن
+    - laboroj: کارها
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: چرا این طور است که هر چقدر سردتر باشد ما مدت بیش‌تری منتظر می‌مانیم؟
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: چرا
+    - estas: این طور است که
+    - des: هر چقدر
+    - pli malvarma: سرد تر
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: همان قدر
+    - pli longe: مدت بیش‌تری
+    - ni: ما
+    - atendas: منتظر می‌مانیم
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: آیا می‌شود با هر مردی که باشد، راضی باشی؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: آیا
+    - vi: تو
+    - estus: می‌شود باشی
+    - kontenta: راضی
+    - kun: با
+    - iu: هر
+    - ajn: از هر نوع
+    - viro: مرد
     - '?'

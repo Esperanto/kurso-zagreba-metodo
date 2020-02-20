@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: آیا شما می‌توانید داروهای خواهرم را با هم بیاورید؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: آیا
+    - vi: شما
+    - povas: می‌توانید
+    - kunporti: با هم بیاورید (آوردن)
+    - la: حرف تعریف
+    - sanigilon: دارو
+    - de: ی
+    - mia: مال من
+    - fratino: خواهر
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: کِی شما آن ساز را خریدید؟
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: کِی
+    - vi: شما
+    - aĉetis: خریدید
+    - tiun: آن
+    - muzikilon: ساز را
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: چه کسی آخرین بار کلیدم را استفاده کرد؟
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: چه کسی
+    - laste: آخرین بار
+    - uzis: استفاده کرد
+    - mian: مال من
+    - ŝlosilon: کلید
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: آیا شما در ونیز با گوندولا هم گشتید؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: آیا
+    - vi: شما
+    - en: در
+    - Venecio: ونیز
+    - veturis: گشتید
+    - ankaŭ: هم
+    - per: با
+    - gondolo: گوندولا
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: آیا تو هنگامی که ساکت شد خواهی توانست بخوابی؟
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: آیا
+    - vi: تو
+    - povos: خواهی توانست
+    - ekdormi: بخوابی
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: هنگامی که 
+    - silentiĝis: ساکت شد
     - '?'

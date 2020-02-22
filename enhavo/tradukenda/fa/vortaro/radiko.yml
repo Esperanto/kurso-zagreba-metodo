@@ -47,7 +47,7 @@ dik:
 - قطور
 dimanĉ: یک‌شنبه
 dir: گفتن
-direkt: جهت
+direkt: جهت دادن
 doktor: دکتر
 dolar: دلار
 dolor:
@@ -62,6 +62,7 @@ dorm:
 doĝ: دوج (دوک ونیز)
 edz: شوهر
 efektiv: 
+- مؤثر
 - عملی
 - واقعی
 ekskurs: گشت‌وگذار
@@ -109,7 +110,7 @@ hotel: هتل
 ide: ایده
 industri: صنعت 
 instru: یاد دادن
-interes: علاقه‌مند کردن
+interes: علاقه
 invit: دعوت کردن
 ir: رفتن
 itali: ایتالیا
@@ -170,16 +171,16 @@ lud:
 - نواختن موسیقی
 lum: نور
 man: دست
-mank: فقدان
+mank: کم بودن
 manĝ: خوردن
 mar: دریا
 maten: صبح
 memor: به یاد آوردن
 met: قرار دادن
-mez: میان
+mez: میانه
 milit: جنگ
 minut: دقیقه
-mir: شگفت‌زده کردن
+mir: شگفت‌زده شدن
 moment: لحظه
 mon: پول
 mont: کوه
@@ -197,14 +198,14 @@ nokt: شب
 nom: نام
 not: یادداشت
 nov: نو
-odor: بو دادن
+odor: بو
 oft: غالبا
 okaz: رخ دادن
 okul: چشم
 onkl:
 - عمو
 - دایی
-opini: نگرش داشتن
+opini: عقیده داشتن
 ord: ترتیب
 orel: گوش
 pac: صلح
@@ -218,7 +219,9 @@ parol: صحبت کردن
 part: قسمت
 pas: گذشتن
 patr: پدر
-paŝ: گام
+paŝ:
+- قدم گذاشتن
+- گام نهادن
 pens: فکر کردن
 perd: از دست دادن
 person: شخص
@@ -228,9 +231,11 @@ pied: پا
 plac:
 - محوطه
 - میدان
-plan: برنامه‌ریزی کردن
+plan:
+- طرح
+- برنامه
 plaĉ: خوشایند بودن
-plen: پر
+plen: پُر
 polic: پلیس
 pord: در
 port: حمل کردن
@@ -240,7 +245,7 @@ pret: آماده
 prezent: معرفی کردن
 problem: مشکل
 proksim: نزدیک
-promen: قدم زدن
+promen: برای تفریح یا سلامتی گشتن
 propon: پیشنهاد دادن
 prov:
 - تلاش کردن
@@ -270,7 +275,7 @@ sam: همان
 san: سالم
 saĝ: هوشمند
 sci: دانستن
-sek: خشک
+sek: خشک بودن
 sekret: راز
 sekv: دنبال کردن
 semajn: هفته
@@ -293,11 +298,9 @@ star: ایستادن
 strat: خیابان
 subit: ناگهانی
 sufiĉ: کافی
-sukces: موفق
+sukces: موفقیت
 sun: خورشید
-supr:
-- بالا
-- بالایی
+supr: بالا بودن
 tabl: میز 
 tag: روز
 te: چای
@@ -351,11 +354,11 @@ zorg:
 ĝen:
 - آزار دادن
 - زحمت دادن
-ĝeneral: عمومی
+ĝeneral: عمومی بودن
 ĝoj: شاد
 ĝust: درست
 ĵet: انداختن
 ŝajn: به نظر رسیدن
 ŝanĝ: تغییر دادن
 ŝat: دوست داشتن
-ŝip: کشتی
+ŝip: کِشتی

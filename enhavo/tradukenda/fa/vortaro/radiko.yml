@@ -28,7 +28,7 @@ aŭtoritat:
 bedaŭr: متأسف بودن به خاطر
 bel: زیبا
 best: حیوان
-bezon: نیاز داشتن
+bezon: نیاز داشتن به
 bien: مُلک
 bon: خوب
 branĉ: شاخه
@@ -253,7 +253,9 @@ rekt: مستقیم
 renkont: ملاقات کردن
 respekt: احترام گذاشتن
 respond: پاسخ دادن
-rest: باقی ماندن
+rest:
+- باقی ماندن
+- ماندن
 ricev: دریافت کردن
 rid: خندیدن
 rigard: نگاه کردن به
@@ -301,7 +303,9 @@ tag: روز
 te: چای
 telefon: تلفن
 temp: زمان
-temperatur: دما
+temperatur:
+- تب
+- دما
 ten: نگه داشتن
 teror:
 - اقدام وحشت افزا

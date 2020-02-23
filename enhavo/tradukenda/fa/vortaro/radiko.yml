@@ -197,7 +197,9 @@ natur: طبیعت
 neces: ضروری
 nokt: شب
 nom: نام
-not: یادداشت
+not:
+- نمره
+- یادداشت
 nov: نو
 odor: بو
 oft: غالبا

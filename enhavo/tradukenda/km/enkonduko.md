@@ -1,5 +1,5 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
+- បង្រៀនដោយប្រើតែ **៥០០ ពាក្យសំខាន់ៗ។**
+- **មិនចាំបាច់ចុះឈ្មោះ** : គ្រាន់តែចុច *ចាប់ផ្តើម*
 - **mobile-optimized** for smartphones
 - not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
 

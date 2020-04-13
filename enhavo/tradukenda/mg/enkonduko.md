@@ -1,12 +1,12 @@
-- Vous apprendrez les **500 mots les plus importants**
-- **Pas d'inscription nécessaire** : Cliquez simplement sur *Démarrer*
-- **Optimisé** pour les mobiles
-- Pas uniquement gratuit, mais aussi **[libre d’être utilisé dans d’autres projets](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Hianatra ny ** 500 teny manan-danja indrindra ianao **
+- ** Tsy mila fisoratana anarana **: Tsindrio fotsiny eo amin'ny * fanombohana
+- ** Namboarina ** ho an'ny finday
+-Tsy maimaim-poana fotsiny hiany, fa koa ** [afaka ampiasaina amin'ny tetikasa hafa] (https://github.com/Esperanto/kurso-zagreba-metodo) **
+- Ny fampianarana dia ahitana ny lesona 12 , izay samy manana:
 
-Le cours est composé de **12 leçons**, chacune contenant :
+- lahateny iray,
+- fanazavana momba ny gramatika
+- ary fanazatra telo
 
-- un texte,
-- des explications grammaticales
-- et 3 exercices.
+Rehefa avy mianatra ianao dia ho azonao ny hevitr'ireo hevi-dehibe ary maneho ny tenanao amin'ny teny esperanto. Ny hanandrana azy dia ny manaiky an'io!
 
-Après avoir suivi le cours, vous serez capable de comprendre les points les plus importants et de vous exprimer par vous-même en espéranto. L'essayer, c'est l'adopter !

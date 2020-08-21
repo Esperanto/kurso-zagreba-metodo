@@ -15,7 +15,7 @@ arbaro: جنگل
 arbetoj: بوته‌ها
 arboplena: پر از درخت
 aĉetumos: به خرید خواهد رفت
-aĉodora: بوی بد
+aĉodora: بدبو
 aŭdiĝis: شنیده شد
 bedaŭrinde: متأسفانه
 belaĵoj: چیزهای زیبا
@@ -34,7 +34,7 @@ devojiĝis: منحرف شد
 dikiĝi: چاق شدن
 doloriga: دردآور
 dolorige: به صورت دردآور
-domegon: ویلا
+domegon: خانه‌ی بزرگ را
 dumnokte: طی شب، شبانه
 dumtage: طی روز، روزانه
 ekkriis: شروع به فریاد زدن کرد
@@ -58,23 +58,27 @@ facilmovaj:
 faligi:
 - انداختن
 - زیر گرفتن
-faligis: زیر گرفت
+faligis:
+- انداخت
+- زیر گرفت
 familianoj: اعضای خانواده
 fariĝis: شد
 fermita: بسته‌شده 
-fine: در نهایت
+fine:
+- در نهایت
+- در پایان
 foresti:
 - غایب بودن
 - دور بودن
 foriros: دور خواهد رفت
 fratino: خواهر
-fuŝparolis: غلط صحبت کرد
+fuŝparolis: با سنبل صحبت کرد
 geamikoj: دوستان
 gefratoj: خواهران و برادران
 gelernantojn: شاگردان مختلط را
 gepatroj: والدین
 gondolisto: قایق‌ران گوندولا 
-gondolistoj: قایق رانان گوندولا
+gondolistoj: قایق‌رانان گوندولا
 grafino: کنتس
 grafinon: کنتس را
 grandula: شخص غول‌پیکر
@@ -104,7 +108,7 @@ karulino: خانم عزیز
 karulo: شخص عزیز
 klarigis: توضیح داد
 klarigon: توضیح را 
-klubanoj: اعضای کلوب
+klubanoj: اعضای باشگاه
 kompreneble: 
 - مسلما
 - البته
@@ -112,7 +116,7 @@ korpoforton: قدرت بدنی را
 kunmanĝos: با همدیگر غذا خواهند خورد
 kunporti: با همدیگر حمل کردن
 kunulino: خانم همراه
-kunvenas: با همدیگر می‌آیند
+kunvenas: گرد هم می‌آیند
 laboristo: کارگر
 lampeto: لامپ کوچک
 lernanto:
@@ -138,10 +142,15 @@ malbela: زشت
 malbonaj: بد
 malbonajn: بد
 malbonan: بد
-malbono: بد 
+malbono:
+- بدی
+- عمل یا چیز بد
+- بد
 malfacilan: سخت
 malfacile: به سختی
-malfeliĉo: بی‌چارگی
+malfeliĉo:
+- بدحالی
+- بدبختی
 malforta: ضعیف
 malforte: با ضعف 
 malfruas: دیر می‌کند
@@ -166,7 +175,9 @@ malproksime: دور
 malsaniĝis: بیمار شد
 malsaĝa: 
 - نادان
+- ابله
 - غیر عاقلانه
+- ابلهانه
 malsekajn: خیس
 malsukcesa: ناموفق
 maltrankvila: ناآرام
@@ -187,7 +198,7 @@ morgaŭan: فردا
 mortigo: قتل
 moviĝis: حرکت کرد
 multekosta: گران‌قیمت
-multpiedaj: چندپایه
+multpiedaj: چندپا
 naskiĝtaga: مربوط به روز تولد
 naskiĝtago: روز تولد 
 naturaĵojn: چیزهای طبیعی را
@@ -195,10 +206,13 @@ nehoma: غیر انسانی
 neinteresaj: غیر جالب
 nokta: شبانه
 novaĵoj: اخبار
-opinion: نگرش را
+opinion:
+- عقیده را
+- نگرش را
+- نظر را
 ordigi: مرتب کردن
-paperoj: اوراق
-paperojn:  اوراق
+paperoj: کاغذها
+paperojn: کاغذها را
 paperujon:
 - جاکاغذی را
 - سبد کاغذ باطله را
@@ -214,7 +228,9 @@ promenejo: تفرجگاه
 promeno: گردش فرح‌انگیز
 rapidege: بسیار سریع
 realigi: تحقق بخشیدن
-redonu: بازگردان
+redonu:
+- پس بده
+- بازگردان
 rekapti: بازپس‌گرفتن
 repaciĝon: قرارگیری دوباره در وضعیت صلح را
 revenis: بازگشت
@@ -228,29 +244,29 @@ riĉeco:
 riĉulo: شخص ثروتمند
 salton: پرش را
 saluton: سلام
-samklubanoj: همکلوبی
-sekretajn: سرّی
-sekreton: راز
+samklubanoj: هم‌باشگاه‌ها
+sekretajn: رازآلود
+sekreton: راز را
 senbrue: بی‌سروصدا
 seninterese: بی‌علاقه
 senkolora: بی‌رنگ
 sensukcese: بی‌موفقیت
-sentimulo: شخص نترس
+sentimulo: شخص بی‌باک
 senvorte: بی‌واژه
 sinjorinoj: بانوان
 sinjorinon: خانم را
 skribotablo: میز تحریر
-soleca: تنها
+soleca: به گونه‌ای تنها
 sovaĝejo: سرزمین غیر مسکونی یا رام نشده
 sportisto: ورزشکار
-subakvigis: غرق کردن
-subakviĝis: غرق کردن
+subakvigis: غرق کرد
+subakviĝis: غرق شد
 subite: ناگهان
 supren: به سوی بالا
 surhavas: پوشیده است
-surlokan: این جا
+surlokan: روی این مکان
 teroristoj: تروریست‌ها
-tiuokaze: در این مورد
+tiuokaze: در این صورت
 travivaĵo:
 - آنچه زنده می‌گذرانند
 - تجربه
@@ -273,7 +289,9 @@ veturigus: می‌رانْد
 viaj: مال شما
 virino: زن
 vojaĝantoj: مسافران
-ĉambristoj: خدمت‌کار
+ĉambristoj:
+- اتاق‌داران
+- مسئولان نظافت اتاق
 ĉeesto: حضور
 ĉirkaŭaĵo: اطراف
 ĝenon: مزاحمت

@@ -9,6 +9,14 @@ ar:
     - nomo: Latif
       github: llusx
   tekstodirekto: rtl
+be:
+  nomo:
+    fontlingve: Беларуская
+    esperante: belarusa
+  stato: testa
+  aŭtoroj:
+    - nomo: Roman Ralko
+      github: EternaKrokodilanto
 ca:
   nomo:
     fontlingve: Català
@@ -101,9 +109,7 @@ fa:
   aŭtoroj:
     - nomo: Ali Moradi
       github: deadmarshal
-    - nomo: Sina Kiadaliri
-      github: sinakd
-  tekstodirekto: rtl
+    - github: sinakd
 fr:
   nomo:
     fontlingve: Français

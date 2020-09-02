@@ -1,70 +1,70 @@
 - 
-  demando: Каким был ваш старый дом?
+  demando: Якiм быў ваш стары дом?
   rektatraduko: 
-    - Kia: Какой
-    - estis: был
+    - Kia: Якi
+    - estis: быў
     - via: ваш
-    - malnova: старый
+    - malnova: стары
     - hejmo: дом 
     - '?'
 - 
-  demando: Какие книги вы читали, и хороши ли были они?
+  demando: Якiя кнiгi вы чыталi, i хороши ли были они?
   rektatraduko: 
-    - Kiujn: Какие
-    - librojn: книги
+    - Kiujn: якiя, якiх
+    - librojn: кнiгi
     - vi: вы
-    - legis: читали
-    - kaj: и
-    - ĉu: вопросительная частица
-    - ili: они
-    - estas: есть
-    - bonaj: хорошие 
+    - legis: чыталi
+    - kaj: i, ды
+    - ĉu: пытальная часьцiца
+    - ili: яны
+    - estas: ёсьць
+    - bonaj: добрыя
     - '?'
 - 
-  demando: Что делали Анна и Марк в маленькой комнате Марка?
+  demando: Што рабiлi Анна i Марк у маленькiм пакоi Марка?
   rektatraduko:
-    - Kion: Что
-    - faris: делал(и)
+    - Kion: Што
+    - faris: рабiлi
     - Anna: Анна
-    - kaj: и
+    - kaj: i
     - Marko: Марк
-    - en: в 
-    - la: определенный артикль
-    - malgranda: маленькая
-    - ĉambro: комната
+    - en: у
+    - la: азначальны артыкль
+    - malgranda: маленькi
+    - ĉambro: пакой
     - de: притяжательный предлог
     - Marko: Марк
     - '?'
 - 
-  demando: Ты любишь читать книги о любви?
+  demando: Ты любiш чытаць кнiгi пра каханьне?
   rektatraduko: 
     - Ĉu: Вопросительная частица
     - vi: ты
-    - ŝatas: любишь
-    - legi: читать
-    - librojn: книги
-    - pri: о, об
-    - amo: любовь
+    - ŝatas: любiш
+    - legi: чытаць
+    - librojn: кнiгi
+    - pri: пра
+    - amo: каханьне
     - '?'
 - 
-  demando: Кто пойдет с тобой к твоему дому?
+  demando: Хто пойдзу з табой да твайго дома?
   rektatraduko: 
-    - Kiu: Кто
-    - iros: пойдет, будет идти
-    - kun: с
+    - Kiu: Хто
+    - iros: пойдзе, будзе iсьцi
+    - kun: з
     - vi: ты
-    - al: к 
+    - al: да 
     - via: твой
     - hejmo: дом
     - '?'
 - 
-  demando: Какие глаза у твоей девушки?
+  demando: Якiя вочы мае твая дзяучына?
   rektatraduko: 
-    - Kiaj: Какие
-    - estas: есть
-    - la: определенный артикль
-    - okuloj: глаза
-    - de: притяжательный предлог
+    - Kiaj: Якiя
+    - estas: ёсьць
+    - la: азначальны артыкль
+    - okuloj: вочы
+    - de: прыналежны прыназоўнік
     - via: твой
-    - amikino: подруга
+    - amikino: сяброўка
     - '?'

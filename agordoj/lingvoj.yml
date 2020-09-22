@@ -109,7 +109,9 @@ fa:
   aŭtoroj:
     - nomo: Ali Moradi
       github: deadmarshal
-    - github: sinakd
+    - nomo: Sina Kiadaliri
+      github: sinakd
+  tekstodirekto: rtl
 fr:
   nomo:
     fontlingve: Français

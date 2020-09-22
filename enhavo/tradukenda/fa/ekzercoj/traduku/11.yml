@@ -1,17 +1,33 @@
 - estraro: هیئت رئیسه
-- tagmeze: ظهر
+- tagmeze:
+  - ظهرهنگام
+  - ظهر
 - posttagmeze: بعد از ظهر
 - malsata: گرسنه
-- interkonsenti: موافقت کردن
-- manĝilaro: کارد و چنگال
+- interkonsenti:
+  - توافق داشتن
+  - هم‌رای بودن
+  - هم‌نظر بودن
+- manĝilaro: سرویس غذاخوری
 - vidpunkto: نقطه نظر
-- malfermilo: بازکننده
+- malfermilo:
+  - بازکننده
+  - دربازکن
 - noktomezo:
   - نیمه‌شب
   - نیمه شب
-- publikigi: منتشر کردن
-- pagigi: وادار به پرداخت کردن
-- duflanka: دوجانبه
+- publikigi:
+  - در اختیار عموم گذاشتن
+  - عمومی کردن
+  - منتشر کردن
+- pagigi:
+  - وادار به پرداخت کردن
+  - به پرداخت واداشتن
+- duflanka:
+  - دوطرفه
+  - دوسویه
+  - دوجانبه
 - aliflanke:
   - از طرفی دیگر
   - از سویی دیگر
+  - از جانبی دیگر

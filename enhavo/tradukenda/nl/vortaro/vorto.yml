@@ -95,8 +95,12 @@ homformo: mensenvorm
 hommulton: menigte mensen
 ideoriĉan: vol ideeën
 industriisto: industrieel
-instruistino: lerares 
-instruiston: leraar (accusatief - lijdend voorwerp)
+instruistino: 
+- lerares
+- onderwijzeres
+instruiston: 
+- leraar (accusatief - lijdend voorwerp)
+- onderwijzer (accusatief - lijdend voorwerp)
 intervidiĝas: zien elkaar
 iron: gang (het gaan)
 junulino: jonge vrouw

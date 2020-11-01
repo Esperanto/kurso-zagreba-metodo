@@ -12,7 +12,7 @@ alvenis: kwam aan
 alvenos: zal aankomen
 amikino: vriendin
 amikinon: vriendin (lijdend voorwerp, ...)
-amletero: liefdebrief
+amletero: liefdesbrief
 antaŭeniris: ging voorop
 arbaro: bos
 arbetoj: bosjes
@@ -21,8 +21,8 @@ aĉetumos: zullen inkopen doen
 aĉodora: stinkend
 aŭdiĝis: werd gehoord
 bedaŭrinde: 
-- spijtig
-- betreurenswaardig
+- helaas
+- tot mijn spijt
 belaĵoj: schoonheden
 beleta: knap
 bestetoj:
@@ -95,8 +95,12 @@ homformo: mensenvorm
 hommulton: menigte mensen
 ideoriĉan: vol ideeën
 industriisto: industrieel
-instruistino: lerares 
-instruiston: leraar (accusatief - lijdend voorwerp)
+instruistino: 
+- lerares
+- onderwijzeres
+instruiston: 
+- leraar (accusatief - lijdend voorwerp)
+- onderwijzer (accusatief - lijdend voorwerp)
 intervidiĝas: zien elkaar
 iron: gang (het gaan)
 junulino: jonge vrouw

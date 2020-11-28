@@ -1,7 +1,9 @@
 - amikino: vriendin
 - labortablo: werktafel
 - esperantistino: Esperantiste
-- instruisto: leraar
+- instruisto: 
+  - leraar
+  - onderwijzer
 - hotelĉambro: hotelkamer
 - enskribi: 
   - inschrijven

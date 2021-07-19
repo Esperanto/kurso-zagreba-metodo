@@ -1,10 +1,17 @@
-ili: they
-li: he
-lia: his
-mi: I
-mia: my
-ni: we
-oni: one (indefinite pronoun)
-vi: you (can be both singular and plural)
-ĝi: it
-ŝi: she
+ili: họ
+li:
+  - anh ấy
+  - anh ta
+lia: của anh ấy
+mi:
+  - tôi
+  - tớ
+  - tao
+mia: của tôi
+ni: chúng tôi
+oni: người ta
+vi: bạn (số ít lẫn số nhiều)
+ĝi: nó
+ŝi:
+  - cô ấy
+  - cô ta

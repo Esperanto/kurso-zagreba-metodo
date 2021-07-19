@@ -5,7 +5,7 @@
 
 Khoá học bao gồm **12 bài**, mỗi bài sẽ có:
 
-- một đoạn văn bản ngắn
+- một bài đọc ngắn
 - phần giải thích ngữ pháp
 - và 3 bài tập thực hành.
 

@@ -1,7 +1,7 @@
 - 
-  demando: Ngôi nhà cũ của bạn đã từng là kiểu gì?
+  demando: Ngôi nhà cũ của bạn đã từng như thế nào?
   rektatraduko: 
-    - Kia: Kiểu gì
+    - Kia: Như thế nào
     - estis: đã từng
     - via: của bạn
     - malnova: cũ
@@ -36,35 +36,35 @@
     - Marko: Mark
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: Có phải bạn thích đọc những quyển sách về tình yêu không?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: Có phải không
+    - vi: bạn
+    - ŝatas: thích
+    - legi: đọc
+    - librojn: những quyển sách
+    - pri: về
+    - amo: tình yêu
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Ai sẽ đi cùng bạn tới nhà của bạn?
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: Ai
+    - iros: sẽ đi
+    - kun: cùng
+    - vi: bạn
+    - al: tới
+    - via: của bạn
+    - hejmo: nhà
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: Đôi mắt của người bạn-là-con-gái của bạn thì như thế nào?
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: Như thế nào
+    - estas: thì
+    - la: (mạo từ xác định)
+    - okuloj: đôi mắt
+    - de: của
+    - via: của bạn
+    - amikino: bạn-là-con-gái
     - '?'

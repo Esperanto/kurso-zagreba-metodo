@@ -1,47 +1,47 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Bạn có muốn mình cho bạn xem quyển sách mới nhất của mình không?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: Có không
+    - vi: bạn
+    - deziras: muốn
     - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: (rằng)
+    - mi: mình
+    - montru: cho xem
+    - al: (đến)
+    - vi: bạn
+    - mian: của mình
+    - plej: so sánh nhất
+    - novan: mới
+    - libron: quyển sách
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Bạn muốn ngày mai ăn sáng cái gì?
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Cái gì
+    - vi: bạn
+    - volas: muốn
+    - morgaŭ: ngày mai
+    - matenmanĝi: ăn sáng
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: Mark sẽ đến lúc nào vậy, lúc năm hay tám giờ?
   rektatraduko: 
-    - Kiam: When
+    - Kiam: Lúc nào
     - Marko: Mark
-    - alvenos: will arrive
+    - alvenos: sẽ đến
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: lúc
+    - la: (mạo từ xác định)
+    - kvina: năm
+    - aŭ: hay
+    - je: lúc
+    - la: (mạo từ xác định)
+    - oka: mười
+    - horo: giờ
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: When did you notice that the whole family calls me benefactor? 
   rektatraduko: 
     - Kiam: When
     - vi: you

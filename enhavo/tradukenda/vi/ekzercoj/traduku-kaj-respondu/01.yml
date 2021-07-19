@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: AI là bạn-là-con-gái của cậu?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: Ai
+    - estas: là
+    - via: của cậu
+    - amikino: bạn-là-con-gái
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Có phải Anna, bạn của cậu giờ đang viết ở trong phòng không?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
+    - Ĉu: Có phải không
+    - via: của cậu
+    - amikino: bạn-là-con-gái
     - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - skribas: viết
+    - nun: bây giờ
+    - en: ở trong
+    - la: (mạo từ xác định)
+    - ĉambro: phòng
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Does the friend of your father work in a hotel Có phải bạn của cha cậu làm việc ở trong khách sạn không?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: Có phải không
+    - la: (mạo từ xác định)
+    - amiko: bạn
+    - de: của
+    - via: của cậu
+    - patro: cha
+    - laboras: làm việc
+    - en: ở trong
+    - hotelo: khách sạn
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: Cái gì ở trên bàn làm việc trong phòng của chúng ta vậy?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: Cái gì
+    - estas: thì là
+    - sur: ở trên
+    - la: (mạo từ xác định)
+    - labortablo: bàn làm việc
+    - en: ở trong
+    - nia: của chúng ta
+    - ĉambro: phòng
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Có cuốn sách Esperanto nào ở trên bàn của cậu không?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: Có không
+    - Esperanto-lernolibro: sách Esperanto
+    - estas: thì là
+    - sur: ở trên
+    - via: của cậu
+    - tablo: bàn
     - '?'
 

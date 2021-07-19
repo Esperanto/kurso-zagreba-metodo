@@ -399,7 +399,9 @@ vi:
   stato: testa
   aŭtoroj:
     - nomo: Hoan Tran
-      github: Ghojo-37 
+      github: Ghojo-37
+    - nomo: Hoang Phuc
+      github: Huangphoux
 zh:
   nomo:
     fontlingve: 中文

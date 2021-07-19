@@ -1,11 +1,18 @@
-aŭ: or
-kaj: and
-ke: that 
-kvankam: although
-nek: neither (… nor)
-ol: than
-se: if
-sed: but
+aŭ:
+  - hoặc là
+  - hay là
+kaj: và
+ke:
+  - rằng
+  - mà
+kvankam: mặc dù
+nek: không (… mà cũng không)
+ol: hơn
+se:
+  - nếu như
+  - giá mà
+  - cho dù
+sed: nhưng mà
 ĉar:
-- because
-- for
+- bởi vì
+- tại vì

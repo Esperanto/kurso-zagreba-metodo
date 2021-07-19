@@ -46,32 +46,32 @@
     - tablon: cái bàn
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Làm thế nào mà đã xảy ra việc bạn lại đến chúng tôi mà không có anh em
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Làm thế nào
+    - okazis: đã xảy ra
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
+    - ke: mà
+    - vi: bạn
+    - denove: lại
+    - venis: đã đi
+    - al: tới
+    - ni: chúng tôi
+    - sen: không với
     - gefratoj: brothers-and-sisters
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Bạn có thể học khá nhanh tiếng Esperanto bằng cuốn sách giáo khoa mới được không?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: Có được không
+    - vi: bạn
+    - povas: có thể
+    - per: bằng
+    - la: (mạo từ xác định)
+    - nova: mới
+    - lernolibro: cuốn sách giáo khoa
+    - sufiĉe: khá
+    - rapide: nhanh
+    - lerni: học
+    - Esperanton: tiếng Esperanto
     - '?'

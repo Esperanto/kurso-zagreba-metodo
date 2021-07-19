@@ -1,18 +1,18 @@
 - 
-  demando: Can you bring along the medicine of my sister? Bạn đem 
+  demando: Bạn có thể đem theo thuốc của chị tôi được không?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: Được không
+    - vi: bạn
+    - povas: có thể
+    - kunporti: đem theo
+    - la: (mạo từ xác định)
+    - sanigilon: thuốc
+    - de: của
+    - mia: của tôi
+    - fratino: chị
     - '?'
 - 
-  demando:Bạn đã mua nhạc cụ đó khi nào vậy?
+  demando: Bạn đã mua nhạc cụ đó khi nào vậy?
   rektatraduko: 
     - Kiam: Khi nào
     - vi: bạn
@@ -21,34 +21,34 @@
     - muzikilon: nhạc cụ
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: Ai đã dùng chìa khoá của tôi lần cuối vậy?
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: Ai
+    - laste: lần cuối
+    - uzis: đã dùng
+    - mian: của tôi
+    - ŝlosilon: chìa khoá
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Bạn cũng đã du ngoạn thành phố Vơ-ni-dơ bằng thuyền gondola hả?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: Có phải không
+    - vi: bạn
+    - en: ở trong
+    - Venecio: thành phố Vơ-ni-dơ
+    - veturis: đã du ngoạn
+    - ankaŭ: cũng
+    - per: bằng
+    - gondolo: thuyền gondola
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Bạn sẽ có thể ngủ thiếp đi khi yên tĩnh được không?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: Có được không
+    - vi: bạn
+    - povos: sẽ có thể
+    - ekdormi: ngủ thiếp đi
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: khi
+    - silentiĝis: trở nên yên tĩnh
     - '?'

@@ -1,49 +1,49 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Mấy người phục vụ ở trong các khách sạn lớn có hiểu được nhiều ngôn ngữ không vậy?
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: Có không vậy 
+    - kelneroj: mấy người phục vụ
+    - en: ở trong
+    - grandaj: lớn
+    - hoteloj: các khách sạn
+    - komprenas: hiểu
+    - multajn: nhiều
+    - lingvojn: ngôn ngữ
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Bạn có biết không, liệu Anna có thích cái bài hát mới về một người nghèo và một cô gái xinh đẹp?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: Có không
+    - vi: bạn
+    - scias: biết
     - ','
-    - ĉu: whether
+    - ĉu: liệu
     - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ŝatas: có thích
+    - la: (mạo từ xác định)
+    - novan: mới
+    - kanton: cái bài hát
+    - pri: về
+    - malriĉulo: một người nghèo
+    - kaj: và
+    - belulino: một cô bé xinh đẹp
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Bạn đã nhìn thấy ông già và anh thanh niên ở đâu vậy, mấy người mà đã mang đi cái bàn bự ấy?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Ở đâu
+    - vi: bạn
+    - vidis: đã nhìn thấy
+    - la: (mạo từ xác định)
+    - maljunulon: ông già
+    - kaj: và
+    - la: (mạo từ xác định)
+    - junulon: anh thanh niên
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: mấy người mà
+    - portis: đã mang đi
+    - grandan: bự
+    - tablon: cái bàn
     - '?'
 -
   demando: How did it happen that you again came to us without brothers-and-sisters?

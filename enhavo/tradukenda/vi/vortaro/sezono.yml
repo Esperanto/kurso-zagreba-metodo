@@ -1,4 +1,6 @@
-printempo: spring
-somero: summer
-aŭtuno: autumn
-vintro: winter
+printempo: mùa xuân
+somero:
+  - mùa hạ
+  - mùa hè
+aŭtuno: mùa thu
+vintro: mùa đông

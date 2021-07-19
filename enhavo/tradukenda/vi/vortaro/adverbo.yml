@@ -1,29 +1,44 @@
-almenaŭ: at least
-ambaŭ: both
-ankaŭ: also
+almenaŭ: ít nhất
+ambaŭ: cả hai
+ankaŭ:
+  - cũng
+  - cũng vậy
 ankoraŭ: 
-- still
-- yet
-baldaŭ: soon
-do: so
-eĉ: even
-hieraŭ: yesterday
-hodiaŭ: today
-jam: already
-jes: 'yes' 
-kvazaŭ: as if
-morgaŭ: tomorrow
-nun: now
-nur: only
-plej: most (superlative) 
-pli: more (comparative) 
+  - vẫn
+  - chưa
+  - còn nữa
+baldaŭ: chẳng mấy chốc
+do:
+  - vì thế nên
+eĉ:
+  - kể cả
+  - thậm chí
+  - ngay cả
+hieraŭ: hôm qua
+hodiaŭ: hôm nay
+jam: đã … rồi
+jes: đúng vậy
+kvazaŭ: cứ như
+morgaŭ: ngày mai
+nun: bây giờ
+nur:
+  - chỉ có
+  - duy nhất
+plej: so sánh nhất
+pli: so sánh hơn 
 plu:
-- further
-- anymore
-preskaŭ: almost
-tamen: however
-tre: very
+- hơn nữa
+- nữa
+preskaŭ:
+  - suýt chút nữa
+  - gần như
+  - hầu như
+tamen:
+  - thế nhưng
+  - tuy nhiên
+  - tuy vậy
+tre: rất
 tro: 
-- too
-- too much
-tuj: immediately
+- quá
+- quá nhiều
+tuj: lập tức

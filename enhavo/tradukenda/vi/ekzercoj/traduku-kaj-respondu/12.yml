@@ -1,68 +1,68 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: Chúng ta sẽ còn gặp lại nhau không, ở bất cứ nơi đâu và bất cứ lúc nào?
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: Còn không
+    - ni: chúng ta
+    - revidos: sẽ gặp lại
+    - nin: nhau
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: nơi đâu
+    - ajn: bất cứ
+    - kaj: và
+    - kiam: lúc nào
+    - ajn: bất cứ
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: Đến khi nào mình sẽ lấy lại được một nửa kia của mấy quyển sách đây?
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: Khi nào
+    - mi: mình
+    - rericevos: sẽ lấy lại
+    - la: (mạo từ xác định)
+    - alian: kia
+    - duonon: một nửa
+    - de: của
+    - la: (mạo từ xác định)
+    - libroj: những quyển sách
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: Liệu bạn sẽ cần nhiều hơn một phần tư năm cho những công việc đó?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: Liệu
+    - vi: bạn
+    - bezonos: sẽ cần
+    - pli: nhiều
+    - ol: hơn
+    - kvaronan: một phần tư
+    - jaron: năm
+    - por: cho
+    - tiuj: cái đó
+    - laboroj: những công việc
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: Tại sao mà càng lạnh, chúng ta càng phải chờ lâu vậy?
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: Tại sao vậy
+    - estas: (thì là)
+    - des: (so sánh phối hợp)
+    - pli: càng
+    - malvarma: lạnh
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: (so sánh phối hợp)
+    - pli: càng
+    - longe: lâu
+    - ni: chúng ta
+    - atendas: chờ
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: Liệu bạn sẽ hài lòng với bất cứ người đàn ông nào?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: Liệu
+    - vi: bạn
+    - estus: sẽ
+    - kontenta: hài lòng
+    - kun: với
+    - iu: người nào
+    - ajn: bất kỳ
+    - viro: đàn ông
     - '?'

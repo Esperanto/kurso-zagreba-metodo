@@ -1,12 +1,18 @@
-januaro: January
-februaro: February
-marto: March
-aprilo: April
-majo: May
-junio: June
-julio: July
-aŭgusto: August
-septembro: September
-oktobro: October
-novembro: November
-decembro: December
+januaro:
+  - tháng một
+  - tháng giêng
+februaro: tháng hai
+marto: tháng ba
+aprilo:
+  - tháng bốn
+  - tháng tư
+majo: tháng năm
+junio: tháng sáu
+julio: tháng bảy
+aŭgusto: tháng tám
+septembro: tháng chín
+oktobro: tháng mười
+novembro: tháng mười một
+decembro:
+  - tháng mười hai
+  - tháng chạp

@@ -1,38 +1,38 @@
 - 
-  demando: What was your old home like?
+  demando: Ngôi nhà cũ của bạn đã từng là kiểu gì?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: Kiểu gì
+    - estis: đã từng
+    - via: của bạn
+    - malnova: cũ
+    - hejmo: ngôi nhà 
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: Bạn đã đọc những quyển sách nào, và tụi nó hay phải không?
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: Cái nào 
+    - librojn: những quyển sách
+    - vi: bạn
+    - legis: đã đọc
+    - kaj: và
+    - ĉu: phải không
+    - ili: tụi nó
+    - estas: (thì là)
+    - bonaj: hay
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: Anna và Mark đã làm gì ở trong căn phòng nhỏ của Mark vậy?
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kion: Cái gì
+    - faris: đã làm
     - Anna: Anna
-    - kaj: and
+    - kaj: và
     - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
+    - en: ở trong
+    - la: (mạo từ xác định)
+    - malgranda: nhỏ
+    - ĉambro: căn phòng
+    - de: của
     - Marko: Mark
     - '?'
 - 

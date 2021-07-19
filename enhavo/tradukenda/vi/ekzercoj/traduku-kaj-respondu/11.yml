@@ -1,5 +1,5 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Can you bring along the medicine of my sister? Bạn đem 
   rektatraduko: 
     - Ĉu: Whether
     - vi: you
@@ -12,13 +12,13 @@
     - fratino: sister
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando:Bạn đã mua nhạc cụ đó khi nào vậy?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: Khi nào
+    - vi: bạn
+    - aĉetis: đã mua
+    - tiun: đó
+    - muzikilon: nhạc cụ
     - '?'
 - 
   demando: Who did use my key the last time?

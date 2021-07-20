@@ -1,40 +1,40 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: Ai sẽ lau chùi cái nhà bếp sau bữa trưa đây?
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: Ai
+    - purigos: sẽ lau chùi
+    - la: (mạo từ xác định)
+    - kuirejon: cái nhà bếp
+    - post: sau
+    - la: (mạo từ xác định)
+    - tagmanĝo: bữa trưa
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: "Bạn muốn uống gì nào: trà, một chút cà phê hay bạn không muốn uống gì cả?"
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: Cái gì
+    - vi: bạn
+    - volas: muốn
+    - trinki: uống
     - ':' 
-    - teon: tea
+    - teon: trà
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: một chút
+    - da: (số lượng)
+    - kafo: cà phê
+    - aŭ: hay
+    - ĉu: không lẽ
+    - vi: bạn
+    - volas: muốn
+    - nenion: không gì cả
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: Sao đột ngột bạn quyết định cải tiến căn phòng nhỏ của bạn vậy?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
+    - Kial: Tại sao
+    - vi: bạn
+    - tiel: 
+    - subite: đột ngột
     - decidis: did decide
     - renovigi: to renovate
     - vian: your

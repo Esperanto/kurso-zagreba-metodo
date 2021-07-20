@@ -1,59 +1,65 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: việc gì
+tio: việc đó
+io: cái gì đó
+ĉio: mọi thứ
+nenio: không có thứ gì
 kiu:
-- who
-- which
+- ai
+- cái nào
 tiu:
-- that person
-- that one
-iu: someone
+- người đó
+- cái đó
+iu: ai đó
 ĉiu:
-- everyone
-- every
+- mọi người
+- tất cả
 neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
+- không ai cả
+- không phải cái nào cả
+kie: ở đâu
+tie: ở đó
+ie:
+  - ở đâu đó
+  - ở nơi nào đó
+ĉie: mọi nơi
+nenie: không nơi nào
+kia: loại gì vậy
+tia: cái loại đó
+ia: loại gì đó
+ĉia: đủ mọi loại
+nenia: không có loại nào
+kiel:
+  - làm cách nào
+  - như thế nào
+tiel:
+  - bằng cách đấy
+  - vì vậy nên
+iel: bằng cách nào đó
+ĉiel: bằng mọi cách
+neniel: không có cách nào
+kial: tại sao
+tial: vì lý do đó
+ial: vì lý do nào đó
+ĉial: vì mọi lý do
+nenial: không vì lý do nào cả
+kiam: khi nào
+tiam: lúc đấy
+iam: đôi lúc
+ĉiam: lúc nào, mọi lúc
+neniam: không bao giờ
+kiom: bao nhiêu vậy
+tiom: bấy nhiêu đó
 iom: 
-- to some extent
-- a certain amount
+- đến một mức nhất định
+- một số lượng cụ thể
 ĉiom: 
-- all of it
-- the whole amount
+- hết bấy nhiêu đó
+- cả một đống đó
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- không 
+- không số lượng nào
+kies: của ai vậy
+ties: của người đó
+ies: của ai đó
+ĉies: của mọi người
+nenies: không của ai cả

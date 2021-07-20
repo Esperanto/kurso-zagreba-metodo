@@ -1,181 +1,210 @@
-afer: matter
+afer:
+  - vật
+  - việc
 agrabl: pleasant
 akcept: accept
-akv: water
+akv: nước
 ali: another
-alt: high
-am: love
-amik: friend
-arb: tree
+alt: cao vút
+am: yêu dấu
+amik: bạn bè
+arb: cây cối
 aspekt:
 - look
 - seem
-atend: to wait
-atent: pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
+atend: chờ đợi
+atent:
+  - chú ý
+  - để ý
+aĉet: mua sắm
+aŭd: nghe thấy
+aŭt: xe hơi
+aŭtoritat: chính quyền
+bedaŭr: hối hận
+bel: đẹp đẽ
+best: động vật
+bezon: cần thiết
 bien:
 - estate
 - land
-bon: good
+bon: tốt lành
 branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: must
-dezir: to wish
-diabl: devil
+bru: tiếng ồn
+buŝ: miệng mồm
+cert: chắc chắn
+dank: cảm ơn
+daŭr: tiếp tục
+decid: quyết định
+demand: hỏi han
+dev: phải làm
+dezir: mong muốn
+diabl: ác quỷ
 dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
-doktor: doctor
-dolar: dollar
+- dày dặn
+- mập mạp
+dimanĉ: chủ nhật
+dir: nói rằng
+direkt: phương hướng
+doktor: bác sĩ
+dolar: đô la
 dolor:
-- pain
-- to hurt
-dolĉ: sweet
-dom: house
-don: to give
-dorm: sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
-fart:
-- feel
-- be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
+- làm đau
+- nỗi đau
+dolĉ: ngọt ngào
+dom: ngôi nhà
+don:
+  - đưa cho
+  - biếu tặng
+dorm: đi ngủ
+doĝ: tổng trấn (từ cũ)
+edz: người chồng
+efektiv: thật ra là
+ekskurs: chuyến đi chơi
+esper: hy vọng
+est: thì là
+facil: dễ dàng
+fakt: sự thật
+fal: sa ngã
+famili: gia đình
+far: thực hiện
+fart: cảm thấy
+feliĉ: hài lòng
+ferm: đóng lại
+fin: chấm dứt
+flank: khía cạnh
 foj:
-- time
-- occasion
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
-gondol: gondola
-graf:
-- count
-- earl
+- lần
+- dịp, cơ hội
+forges: quên đi
+form: hình thành
+fort: mạnh mẽ
+fot: ảnh chụp
+frat: anh em trai
+fru: sớm
+fuŝ:
+  - làm hỏng
+  - phá đám
+gondol: thuyền gondola
+graf: bá tước
 grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: to need
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
+- to lớn
+- vĩ đại
+grav: quan trọng
+halt: ngăn chặn
+hav: sở hữu
+hejm: tổ ấm
+help: giúp đỡ
+hom: con người
+hor: giờ
+hotel: khách sạn
+ide: ý tưởng
+industri: kinh doanh
+instru: chỉ dạy
+interes:
+  - quan tâm
+  - thích thú
+invit: mời
+ir: đi
+itali: nước Ý
+jar: năm
+jun: trẻ tuổi
+kaf: cà phê
+kalv: đầu hói
+kap: cái đầu
+kapabl: có khả năng
+kapt: bắt lấy
+kar: thân mến
+kastel: lâu đài
+kav: hang động
+kelk: một vài
+kelner: người phục vụ
+klar:
+  - trong trẻo
+  - rõ ràng
+klub: câu lạc bộ
+knab: cậu bé
+koler: giận dữ
+kolor: sắc màu
+komenc: bắt đầu
+kompren:
+  - hiểu
+  - nắm được
+kon: biết rằng
+kontent: thoã mãn
+kontrol:
+  - kiểm soát
+  - kiểm tra
+kor: con tim
+korp: thân thể
+kost: giá cả
+kri: la hét
+kuir: nấu ăn
+kuk:
+  - bánh ngọt
+  - bánh ga tô
+kur: chạy
+labor: làm việc
+lakt: sữa
+lamp: đèn
+land: vùng đất
+larĝ:
+  - rộng lớn
+  - mênh mông
+  - bao la
+  - thênh thang
+  - bát ngát
+last: cuối cùng
+laŭt:
+  - ầm ĩ
+  - inh ỏi
+  - lớn tiếng
+  - um sùm
+lecion: bài học
+leg: đọc
+lern: học hỏi
+leter: bức thư
+liber:
+  - tự do
+  - thoải mái
+libr: quyển sách
+lok: nơi chốn
+long: dài
+lud: chơi đùa
+lum: ánh sáng
+man: bàn tay
+mank: thiếu sót
+manĝ: ăn
+mar: biển cả
+maten: buổi sáng
+memor: nhớ
+met: để, đặt
+mez: chính giữa
+milit:
+  - cuộc chiến
+  - chiến tranh
+minut: phút
+mir: tự hỏi
+moment: khoảnh khắc
+mon: tiền bạc
+mont: ngọn núi
+montr:
+  - cho xem, cho thấy
+  - tỏ ra
+mort: chết đi
+mov: đi chuyển
+mult: nhiều
+muzik: âm nhạc
+nask: sinh ra
+natur: thiên nhiên
+neces: cần
+nokt: đêm khuya
+nom: tên
+not: ghi chú
+nov: mới
+odor: bốc mùi
+oft: thường xuyên
+okaz: xảy ra
+okul: con mắt
 onkl: uncle
 opini: opinion
 ord: to order

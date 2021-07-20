@@ -1,10 +1,10 @@
 afer:
   - vật
   - việc
-agrabl: pleasant
-akcept: accept
+agrabl: dễ chịu
+akcept: chấp thuận
 akv: nước
-ali: another
+ali: cái khác
 alt: cao vút
 am: yêu dấu
 amik: bạn bè
@@ -28,7 +28,9 @@ bien:
 - estate
 - land
 bon: tốt lành
-branĉ: branch
+branĉ:
+  - cành cây, nhánh cây
+  - ngả đường
 bru: tiếng ồn
 buŝ: miệng mồm
 cert: chắc chắn
@@ -129,7 +131,7 @@ komenc: bắt đầu
 kompren:
   - hiểu
   - nắm được
-kon: biết rằng
+kon: quen biết, quen thuộc
 kontent: thoã mãn
 kontrol:
   - kiểm soát
@@ -260,98 +262,127 @@ rapid: nhanh nhẹn
 raport: báo cáo
 real: thực tế, có thật
 rekt: gửi đến
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
+renkont: gặp gỡ
+respekt: tôn trọng
+respond: trả lời
+rest:
+  - còn sót lại
+  - tàn tích, di vật
+ricev: nhận được
+rid: cười lên
+rigard: nhìn xem
+riĉ: giàu có
+rol: vai trò
+ruĝ: đỏ rực
+salt: nhảy lên
+salut: xin chào
+sam: giống, như nhau
+san: khoẻ mạnh, lành mạnh
+saĝ:
+  - không ngoan
+  - uyên bác
+sci: biết được một điều, tri thức
+sek: khô cạn, khô ráo
+sekret: bí mật
+sekv:
+  - làm theo
+  - đi theo
+semajn: tuần lễ
+send: gửi đến
+serĉ: tìm kiếm
 si: đại từ phản thân của ngôi thứ ba
-sid: to sit
-silent: silent
-simil: similar
+sid: ngồi
+silent: tĩnh lặng
+simil: tương đồng
 sinjor:
-- gentleman
-- Mr.
+- quý ngài
+- quý ngài
 situaci: situation
 skrib: to write
 sol: alone
 son: to sound
 sovaĝ: wild
 sport: sport
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: hold
-teror: terror
-tim: fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to travel
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: journey
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
+star: đứng
+strat: đường phố
+subit: đột ngột, đột nhiên
+sufiĉ: có đủ
+sukces: thành công
+sun: mặt trời
+supr: ở trên
+tabl: cái bàn
+tag: ngày
+te: trà, chè
+telefon: điện thoại
+temp: thời gian
+temperatur: nhiệt độ
+ten: nắm giữ
+teror:
+  - kinh hãi
+  - khiếp sợ
+tim: sợ hãi
+ton:
+  - giọng
+  - tông
+trankvil:
+  - yên bình
+  - lặng lẽ
+  - thanh bình
+trink: uống
+trov: tìm thấy
+turk: Thổ Nhĩ Kỳ
+tuŝ: đụng chạm
+urb: thành phố
+util: hữu ích
+uz: sử dụng
+vagon:
+  - xe ngựa bốn bánh
+  - xe đò
+varm: ấm áp
+ven: đi đến
+vend: buôn bán
+Veneci: thành phố Vơ-ni-dơ
+ver:
+  - đúng đắn
+  - chính xác
+vesper: buổi tối
+vest: ăn mặc
+vetur: đi du lịch
+vid: thấy
+vin: rượu vang
+vir: đàn ông
+viv: sống, tồn tại
+vizaĝ: khuôn mặt
+vizit: viếng thăm
+voj: đường lối
+vojaĝ: hành trình
+vok: gọi
+vol: muốn
+vort: từ ngữ
+voĉ: giọng nói
+zorg: quan tâm
+ĉambr: căn phòng
+ĉef:
+  - trưởng phòng
+  - giám đốc
+  - ông trùm
+  - ông chủ
 ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- quấy rầy
+- làm phiền
+ĝeneral: chủ yếu
+ĝoj:
+  - vui mừng
+  - hân hoan
+ĝust:
+  - hợp lý
+  - chính xác
+ĵet: ném, vứt, quăng, liệng
+ŝajn:
+  - có vẻ như
+  - dường như
+ŝanĝ: thay đổi
+ŝat: thích
+ŝip:
+  - thuyền
+  - tàu thuỷ

@@ -205,47 +205,61 @@ odor: bốc mùi
 oft: thường xuyên
 okaz: xảy ra
 okul: con mắt
-onkl: uncle
-opini: opinion
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
+onkl: cậu, chú, bác
+opini:
+  - ý kiến
+  - quan điểm
+ord:
+  - ra lệnh, chỉ dẫn
+  - sắp xếp
+orel: tai
+pac: hoà bình
+pag: trả tiền
+pan: bánh mì
+paper: tờ giấp
+pardon: tha thứ
+parol: nói chuyện
+part: phần
+pas: truyền cho
+patr: cha/bố/tía
+paŝ: bước đi
+pens: suy nghĩ
+perd: nới lỏng
+person: con người
+pet:
+  - thỉnh cầu
+  - đề nghị
+pez: nặng nề
+pied: chân, bàn chân
+plac: nơi chốn
+plan:
+  - lên kế hoạch
+  - dự định
+plaĉ: vừa ý
+plen: đầy đủ
+polic:
+  - cảnh sát
+  - khống chế
+pord: cánh cửa
+port: mang, đem
+pov: có thể
+pren: lấy, cầm, nắm
+pret: sẵn sàng
+prezent: trình bày
+problem: vấn đề
+proksim: gần
+promen:
+  - đi dạo
+  - tản bộ
+propon:
+  - đề xuất, đề ra
+  - đề cử
+prov: làm thử
+rajt: cho phép
+rapid: nhanh nhẹn
+raport: báo cáo
+real: thực tế, có thật
+rekt: gửi đến
 renkont: to meet
 respekt: to respect
 respond: to answer
@@ -268,7 +282,7 @@ sekv: to follow
 semajn: week
 send: to send
 serĉ: to search
-si: reflexive pronoun
+si: đại từ phản thân của ngôi thứ ba
 sid: to sit
 silent: silent
 simil: similar

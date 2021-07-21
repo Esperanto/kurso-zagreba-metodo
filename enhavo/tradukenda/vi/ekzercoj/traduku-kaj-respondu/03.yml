@@ -11,10 +11,10 @@
     - lingvojn: ngôn ngữ
     - '?'
 -
-  demando: Bạn có biết không, liệu Anna có thích cái bài hát mới về một người nghèo và một cô gái xinh đẹp?
+  demando: Cậu có biết, liệu Anna có thích cái bài hát mới về một người nghèo và một cô gái xinh đẹp không?
   rektatraduko: 
     - Ĉu: Có không
-    - vi: bạn
+    - vi: cậu
     - scias: biết
     - ','
     - ĉu: liệu
@@ -29,7 +29,7 @@
     - belulino: một cô bé xinh đẹp
     - '?'
 -
-  demando: Bạn đã nhìn thấy ông già và anh thanh niên ở đâu vậy, mấy người mà đã mang đi cái bàn bự ấy?
+  demando: Cậu đã nhìn thấy ông già và anh thanh niên ở đâu vậy, mấy người mà đã mang đi cái bàn bự ấy?
   rektatraduko: 
     - Kie: Ở đâu
     - vi: bạn
@@ -46,25 +46,25 @@
     - tablon: cái bàn
     - '?'
 -
-  demando: Làm thế nào mà đã xảy ra việc bạn lại đến chúng tôi mà không có anh em
+  demando: Làm thế nào mà đã xảy ra việc cậu lại đến nhà chúng tôi mà không cùng với các anh chị em?
   rektatraduko: 
     - Kiel: Làm thế nào
     - okazis: đã xảy ra
     - ','
     - ke: mà
-    - vi: bạn
+    - vi: cậu
     - denove: lại
     - venis: đã đi
     - al: tới
     - ni: chúng tôi
-    - sen: không với
-    - gefratoj: brothers-and-sisters
+    - sen: không cùng với
+    - gefratoj: các anh chị em
     - '?'
 -
-  demando: Bạn có thể học khá nhanh tiếng Esperanto bằng cuốn sách giáo khoa mới được không?
+  demando: Cậu có thể học khá nhanh tiếng Esperanto bằng cuốn sách giáo khoa mới không?
   rektatraduko: 
     - Ĉu: Có được không
-    - vi: bạn
+    - vi: cậu
     - povas: có thể
     - per: bằng
     - la: (mạo từ xác định)

@@ -38,7 +38,7 @@ dank: cảm ơn
 daŭr: tiếp tục
 decid: quyết định
 demand: hỏi han
-dev: phải làm
+dev: phải
 dezir: mong muốn
 diabl: ác quỷ
 dik:
@@ -68,7 +68,7 @@ facil: dễ dàng
 fakt: sự thật
 fal: sa ngã
 famili: gia đình
-far: thực hiện
+far: làm
 fart: cảm thấy
 feliĉ: hài lòng
 ferm: đóng lại
@@ -120,9 +120,7 @@ kastel: lâu đài
 kav: hang động
 kelk: một vài
 kelner: người phục vụ
-klar:
-  - trong trẻo
-  - rõ ràng
+klar: rõ ràng
 klub: câu lạc bộ
 knab: cậu bé
 koler: giận dữ
@@ -193,7 +191,9 @@ montr:
   - cho xem, cho thấy
   - tỏ ra
 mort: chết đi
-mov: đi chuyển
+mov:
+  - di chuyển
+  - rung động
 mult: nhiều
 muzik: âm nhạc
 nask: sinh ra
@@ -229,8 +229,8 @@ pens: suy nghĩ
 perd: nới lỏng
 person: con người
 pet:
-  - thỉnh cầu
-  - đề nghị
+  - xin
+  - cầu mong
 pez: nặng nề
 pied: chân, bàn chân
 plac: nơi chốn
@@ -256,7 +256,9 @@ promen:
 propon:
   - đề xuất, đề ra
   - đề cử
-prov: làm thử
+prov:
+  - thử
+  - cố gắng
 rajt: cho phép
 rapid: nhanh nhẹn
 raport: báo cáo
@@ -297,11 +299,11 @@ simil: tương đồng
 sinjor:
 - quý ngài
 - quý ngài
-situaci: situation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
+situaci: hoàn cảnh
+skrib: viết
+sol: một mình
+son: lên tiếng
+sovaĝ: hoang dã
 sport: sport
 star: đứng
 strat: đường phố
@@ -321,9 +323,7 @@ teror:
   - kinh hãi
   - khiếp sợ
 tim: sợ hãi
-ton:
-  - giọng
-  - tông
+ton: giọng
 trankvil:
   - yên bình
   - lặng lẽ

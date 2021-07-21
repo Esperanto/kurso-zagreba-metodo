@@ -1,21 +1,21 @@
-kio: việc gì
-tio: việc đó
+kio: chuyện gì
+tio: chuyện đó
 io: cái gì đó
 ĉio: mọi thứ
-nenio: không có thứ gì
+nenio: không thứ gì
 kiu:
 - ai
-- cái nào
+- cái gì, cái nào
 tiu:
 - người đó
 - cái đó
 iu: ai đó
 ĉiu:
 - mọi người
-- tất cả
+- mọi thứ
 neniu:
 - không ai cả
-- không phải cái nào cả
+- không cái nào cả
 kie: ở đâu
 tie: ở đó
 ie:
@@ -27,7 +27,7 @@ kia: loại gì vậy
 tia: cái loại đó
 ia: loại gì đó
 ĉia: đủ mọi loại
-nenia: không có loại nào
+nenia: không loại nào
 kiel:
   - làm cách nào
   - như thế nào
@@ -47,7 +47,7 @@ tiam: lúc đấy
 iam: đôi lúc
 ĉiam: lúc nào, mọi lúc
 neniam: không bao giờ
-kiom: bao nhiêu vậy
+kiom: bao nhiêu
 tiom: bấy nhiêu đó
 iom: 
 - một chút
@@ -56,7 +56,7 @@ iom:
 - hết bấy nhiêu đó
 - cả một đống đó
 neniom:
-- không 
+- không bao nhiêu cả
 - không số lượng nào
 kies: của ai vậy
 ties: của người đó

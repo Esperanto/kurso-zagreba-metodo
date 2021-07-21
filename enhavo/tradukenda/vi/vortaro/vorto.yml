@@ -77,11 +77,11 @@ gondolisto: người lái thuyền
 gondolistoj: những người lái thuyền
 grafino: countess
 grafinon: countess
-grandula: giant
+grandula: phi thường
 gravuloj: important people
 haltigis: stopped
 havigi: to obtain
-havindan: worth having
+havindan: đáng để sỡ hữu
 homformo: form of a person
 hommulton: crowd
 ideoriĉan: imaginative
@@ -104,7 +104,7 @@ klubanoj: club members
 kompreneble: 
 - understandably
 - of course
-korpoforton: physical strength
+korpoforton: thể lực cường tráng
 kunmanĝos: sẽ cùng nhau ăn uống
 kunporti: đem theo
 kunulino: người bạn nữ đồng hành
@@ -144,7 +144,7 @@ malgranda:
 -  small
 malhelpis: hindered
 malinterese: uninteresting
-malkontentigi: to annoy
+malkontentigi: chọc tức
 mallaŭte: quiet
 malliberejon: prison
 mallumo: darkness
@@ -198,7 +198,9 @@ perdigis: withdrew
 plenigadis: filled
 plenumis: fulfilled
 plibeligis: beautified
-plimulto: majority
+plimulto:
+  - phần lớn
+  - đa số
 policano: policeman
 promenejo: promenade
 promeno: walk

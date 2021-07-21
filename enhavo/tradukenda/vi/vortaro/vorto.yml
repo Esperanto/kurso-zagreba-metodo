@@ -10,8 +10,8 @@ alportis: đã đem đến
 alvenigas: đã được chỉ dẫn để đi đến
 alvenis: đã đi đến
 alvenos: rồi sẽ đến
-amikino: bạn-là-con-gái
-amikinon: bạn-là-con-gái
+amikino: cô bạn
+amikinon: cô bạn
 amletero: thư tình
 antaŭeniris: đã đi trước
 arbaro:
@@ -41,7 +41,7 @@ domegon: căn biệt thự
 dumnokte: lúc đêm khuya
 dumtage: giữa ban ngày
 ekkriis: bỗng la hét lên
-ekmire: quả là phi thường
+ekmire: thật phi thường
 ekparolis: bắt đầu lên tiếng
 ekridis: bỗng cười phá lên
 ekrigardis: bắt đầu nhìn xem
@@ -225,18 +225,22 @@ senbrue: silently
 seninterese: disinterested
 senkolora: colorless
 sensukcese: without success
-sentimulo: fearless man
-senvorte: wordlessly
-sinjorinoj: ladies
-sinjorinon: lady
-skribotablo: desk
-soleca: lonely
-sovaĝejo: wilderness
-sportisto: sportsman
-subakvigis: to sink
-subakviĝis: to sink
-subite: suddenly
-supren: upward
+sentimulo: người đàn ông dũng cảm
+senvorte: không nói nên lời
+sinjorinoj: các quý bà
+sinjorinon: quý bà
+skribotablo:
+  - bàn học
+  - bàn làm việc
+soleca: cô đơn
+sovaĝejo: nơi hoang dã
+sportisto: nhà thể thao
+subakvigis: bị chìm xuống
+subakviĝis: bị chìm xuống
+subite:
+  - đột ngột
+  - bỗng nhiên
+supren: hướng lên
 surhavas: wear
 surlokan: at this place
 teroristoj: terrorists

@@ -1,51 +1,51 @@
 - 
-  demando: Liệu tình bạn có làm bạn vui hơn tình yêu không?
+  demando: Liệu tình bạn có làm cậu vui hơn tình yêu không?
   rektatraduko: 
     - Ĉu: Liệu
     - amikeco: tình bạn
     - pli: so sánh hơn
     - feliĉigas: làm vui
-    - vin: bạn
+    - vin: cậu
     - ol: hơn
     - la: (mạo từ xác định)
     - amo: tình yêu
     - '?'
 - 
-  demando: Bạn có thường xuyên viết thư cho mấy người bạn-là-con-gái ở nước Ý không?
+  demando: Cậu có thường xuyên viết thư cho mấy cô bạn gái của cậu ở nước Ý không?
   rektatraduko: 
     - Kiel: Như thế nào
     - ofte: thường xuyên
-    - vi: bạn
+    - vi: cậu
     - skribas: viết
     - leterojn: thư
     - al: tới
-    - viaj: của bạn
-    - amikinoj: mấy người bạn-là-con-gái
+    - viaj: của cậu
+    - amikinoj: mấy cô bạn gái
     - en: ở
     - Italio: nước Ý
     - '?'
 - 
-  demando: Has the relationship between you and your teacher changed?
+  demando: Mối quan hệ giữa cậu và thầy giáo của cậu đã có trở nên thay đổi gì chưa vậy?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+    - Ĉu: Có chưa vậy
+    - la: (mạo từ xác định)
+    - rilato: mối quan hệ
+    - inter: giữa
+    - vi: cậu
+    - kaj: và
+    - via: của cậu
+    - instruisto: thầy giáo
+    - ŝanĝiĝis: đã trở nên thay đổi
     - '?'
 - 
-  demando: Do you now already know Esperanto well enough?
+  demando: Có phải giờ cậu đã biết tiếng Esperanto khá tốt rồi, phải không?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - Ĉu: Có phải không
+    - vi: cậu
+    - nun: bây giờ
+    - jam: đã … rồi
+    - scias: biết
+    - Esperanton: tiếng Esperanto
+    - sufiĉe: khá
+    - bone: tốt
     - '?'

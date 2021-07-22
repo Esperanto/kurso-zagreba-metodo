@@ -1,31 +1,31 @@
 - 
-  demando: Bạn có muốn mình cho bạn xem quyển sách mới nhất của mình không?
+  demando: Cậu có muốn tớ cho cậu xem quyển sách mới nhất của tớ không?
   rektatraduko: 
     - Ĉu: Có không
-    - vi: bạn
+    - vi: cậu
     - deziras: muốn
     - ',' 
     - ke: (rằng)
-    - mi: mình
+    - mi: tớ
     - montru: cho xem
     - al: (đến)
-    - vi: bạn
-    - mian: của mình
+    - vi: cậu
+    - mian: của tớ
     - plej: so sánh nhất
     - novan: mới
     - libron: quyển sách
     - '?'
 - 
-  demando: Bạn muốn ngày mai ăn sáng cái gì?
+  demando: Cậu muốn ngày mai ăn sáng cái gì?
   rektatraduko: 
     - Kion: Cái gì
-    - vi: bạn
+    - vi: cậu
     - volas: muốn
     - morgaŭ: ngày mai
     - matenmanĝi: ăn sáng
     - '?'
 - 
-  demando: Mark sẽ đến lúc nào vậy, lúc năm hay tám giờ?
+  demando: Mark sẽ đến lúc nào vậy, lúc năm giờ hay tám giờ?
   rektatraduko: 
     - Kiam: Lúc nào
     - Marko: Mark
@@ -41,32 +41,32 @@
     - horo: giờ
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor? 
+  demando: Cậu đã nhận ra, rằng cả nhà gọi tớ là người làm việc thiện khi nào vậy?
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Khi nào
+    - vi: cậu
+    - rimarkis: đã nhận ra
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: rằng
+    - la: (mạo từ xác định)
+    - tuta: cả
+    - familio: nhà
+    - nomas: gọi
+    - min: tớ
+    - bonfarulo: người làm việc thiện
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Cái tập sách nhỏ có ích đối với cậu không vậy, cái mà mình gửi ấy?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Có không vậy
+    - la: (mạo từ xác định)
+    - libreto: tập sách nhỏ
+    - estis: đã
+    - utila: có ích
+    - al: đối với
+    - vi: cậu
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: cái mà
+    - mi: mình
+    - sendis: đã gửi
     - '?'

@@ -1,18 +1,23 @@
 - sinjorino:
   - quý bà
   - bà
-- malmultekosta: rẻ
+- malmultekosta:
+  - rẻ
+  - không mắc tiền
 - ĉiutaga: mỗi ngày
 - intertempe: trong lúc đó
 - plenplena: 
-  - đầy
+  - đầy đặn
   - đông đúc
   - nhồi nhét
 - nuntempe: 
   - hiện nay
   - gần đây
+  - thời gian gần đây
 - malhelpi: cản trở
-- vendejo: cửa hàng
+- vendejo:
+  - cửa hàng
+  - nơi bán hàng
 - edzino: vợ
 - ĉiujare: mỗi năm
 - jarcento:
@@ -23,4 +28,5 @@
 - pli multekosta:
   - mắc hơn
   - đắc tiền hơn
+  - tốn nhiều tiền hơn
 - la plej juna: trẻ nhất

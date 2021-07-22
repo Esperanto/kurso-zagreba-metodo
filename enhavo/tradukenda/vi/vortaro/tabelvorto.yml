@@ -1,4 +1,6 @@
-kio: chuyện gì
+kio:
+  - chuyện gì
+  - chuyện mà
 tio: chuyện đó
 io: cái gì đó
 ĉio: mọi thứ
@@ -6,6 +8,7 @@ nenio: không thứ gì
 kiu:
 - ai
 - cái gì, cái nào
+- người mà, cái mà
 tiu:
 - người đó
 - cái đó
@@ -16,14 +19,18 @@ iu: ai đó
 neniu:
 - không ai cả
 - không cái nào cả
-kie: ở đâu
+kie:
+  - ở đâu
+  - ở nơi mà
 tie: ở đó
 ie:
   - ở đâu đó
   - ở nơi nào đó
 ĉie: mọi nơi
 nenie: không nơi nào
-kia: loại gì vậy
+kia:
+  - loại gì vậy
+  - cái loại mà
 tia: cái loại đó
 ia: loại gì đó
 ĉia: đủ mọi loại
@@ -31,6 +38,7 @@ nenia: không loại nào
 kiel:
   - làm cách nào
   - như thế nào
+  - cái cách mà
 tiel:
   - bằng cách đấy
   - vì vậy nên
@@ -42,7 +50,9 @@ tial: vì lý do đó
 ial: vì lý do nào đó
 ĉial: vì mọi lý do
 nenial: không vì lý do nào cả
-kiam: khi nào
+kiam:
+  - khi nào
+  - khi mà
 tiam: lúc đấy
 iam: đôi lúc
 ĉiam: lúc nào, mọi lúc

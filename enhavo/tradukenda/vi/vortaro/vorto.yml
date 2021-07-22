@@ -184,22 +184,24 @@ naturaĵojn: natural things
 nehoma: non-human
 neinteresaj: uninteresting
 nokta: buổi tối
-novaĵoj: news
-opinion: opinion
-ordigi: to order 
-paperoj: papers
-paperojn:  papers
+novaĵoj: các tin tức
+opinion: ý kiến
+ordigi:
+  - ra lệnh
+  - sai bảo
+paperoj: mấy tờ giấy
+paperojn:  mấy tờ giấy
 paperujon: wastebasket
-pasigos: will spend
-patrino: mother
+pasigos: sẽ trả giá
+patrino: mẹ
 perdigis: withdrew
 plenigadis: filled
-plenumis: fulfilled
-plibeligis: beautified
+plenumis: làm tròn trách nhiệm
+plibeligis: làm đẹp hơn
 plimulto:
   - phần lớn
   - đa số
-policano: policeman
+policano: người cảnh sát
 promenejo: promenade
 promeno: đi dạo
 rapidege: very quickly
@@ -239,8 +241,8 @@ subite:
   - đột ngột
   - bỗng nhiên
 supren: hướng lên
-surhavas: wear
-surlokan: at this place
+surhavas: mặc lên
+surlokan: tại chỗ này
 teroristoj: những kẻ khủng bố
 tiuokaze: trong trường hợp đó
 travivaĵo: cuộc phiêu lưu

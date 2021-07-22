@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly when someone is singing joyfully?
+  demando: Cậu có thể học một cách bình tĩnh, trong khi có ai đó hát một cách vui vẻ được không?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: Có được không
+    - vi: cậu
+    - povas: có thể
+    - trankvile: một cách bình tĩnh
+    - lerni: học
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: trong khi
+    - iu: ai đó
+    - ĝoje: một cách vui vẻ
+    - kantas: hát
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Ai mà biết được chúng ta sẽ gặp lại nhau khi nào và ở đâu?
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Ai
+    - scias: biết
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: khi nào
+    - kaj: và
+    - kie: ở đâu
+    - ni: chúng ta
+    - revidos: sẽ gặp lại
+    - nin: nhau
     - '?'
 -
-  demando: What time is it now?
+  demando: Bây giờ là mấy (bao nhiêu) giờ rồi vậy?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: Bao nhiêu
+    - horo: giờ
+    - estas: thì là
+    - nun: bây giờ
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Có ai đó đã giúp cậu mở cánh cửa của ngôi nhà cũ đó hả?
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: Có hả
+    - iu: ai đó 
+    - helpis: đã giúp
+    - al: (đến)
+    - vi: cậu
+    - malfermi: mở
+    - la: (mạo từ xác định)
+    - pordon: cánh cửa
+    - de: của
+    - la: (mạo từ xác định)
+    - malnova: cũ
+    - domo: ngôi nhà
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Tại sao cậu không có thời gian để lắng nghe tôi lâu hơn nữa?
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
+    - Kial: Tại sao
+    - vi: cậu
+    - ne: không
+    - havas: có
+    - tempon: thời gian
+    - aŭskulti: lắng nghe
+    - min: tôi
+    - pli: hơn nữa
+    - longe: lâu
     - '?'

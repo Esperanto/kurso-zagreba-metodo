@@ -1,39 +1,39 @@
 - 
-  demando: Bạn có thể đem theo thuốc của chị tôi được không?
+  demando: Cậu có thể đem theo viên thuốc của chị tớ được không?
   rektatraduko: 
     - Ĉu: Được không
-    - vi: bạn
+    - vi: cậu
     - povas: có thể
     - kunporti: đem theo
     - la: (mạo từ xác định)
     - sanigilon: thuốc
     - de: của
-    - mia: của tôi
+    - mia: của tớ
     - fratino: chị
     - '?'
 - 
-  demando: Bạn đã mua nhạc cụ đó khi nào vậy?
+  demando: Cậu đã mua nhạc cụ đó khi nào vậy?
   rektatraduko: 
     - Kiam: Khi nào
-    - vi: bạn
+    - vi: cậu
     - aĉetis: đã mua
     - tiun: đó
     - muzikilon: nhạc cụ
     - '?'
 - 
-  demando: Ai đã dùng chìa khoá của tôi lần cuối vậy?
+  demando: Ai đã dùng chìa khoá của tớ lần cuối vậy?
   rektatraduko: 
     - Kiu: Ai
     - laste: lần cuối
     - uzis: đã dùng
-    - mian: của tôi
+    - mian: của tớ
     - ŝlosilon: chìa khoá
     - '?'
 - 
-  demando: Bạn cũng đã du ngoạn thành phố Vơ-ni-dơ bằng thuyền gondola hả?
+  demando: Cậu cũng đã du ngoạn thành phố Vơ-ni-dơ bằng thuyền gondola hả?
   rektatraduko: 
     - Ĉu: Có phải không
-    - vi: bạn
+    - vi: cậu
     - en: ở trong
     - Venecio: thành phố Vơ-ni-dơ
     - veturis: đã du ngoạn
@@ -42,10 +42,10 @@
     - gondolo: thuyền gondola
     - '?'
 - 
-  demando: Bạn sẽ có thể ngủ thiếp đi khi yên tĩnh được không?
+  demando: Cậu sẽ có thể ngủ thiếp đi được khi yên tĩnh, phải không?
   rektatraduko: 
-    - Ĉu: Có được không
-    - vi: bạn
+    - Ĉu: Phải không
+    - vi: cậu
     - povos: sẽ có thể
     - ekdormi: ngủ thiếp đi
     - ',' 

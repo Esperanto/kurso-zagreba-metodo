@@ -9,7 +9,7 @@ apud: bên cạnh
 da: (chỉ số lượng)
 de:
 - của
-- đến từ, làm từ
+- làm từ
 dum: trong lúc
 ekde: kể từ khi
 ekster: ở ngoài
@@ -35,7 +35,9 @@ por: cho
 post: sau
 pri: về việc
 pro: bởi vì
-sen: mà không có
+sen:
+  - không có
+  - không cần
 sub:
 - ở dưới
 - bên dưới

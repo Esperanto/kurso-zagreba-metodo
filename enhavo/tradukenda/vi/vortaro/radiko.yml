@@ -4,7 +4,7 @@ afer:
 agrabl: dễ chịu
 akcept: chấp thuận
 akv: nước
-ali: cái khác
+ali: khác
 alt: cao
 am: yêu dấu
 amik: bạn bè
@@ -54,16 +54,16 @@ dolor:
 - nỗi đau
 dolĉ: ngọt ngào
 dom: ngôi nhà
-don:
-  - đưa cho
-  - biếu tặng
+don: đưa cho
 dorm: đi ngủ
 doĝ: tổng trấn (từ cũ)
 edz: người chồng
 efektiv: thật ra là
 ekskurs: chuyến đi chơi
 esper: hy vọng
-est: thì là
+est:
+  - thì
+  - là
 facil: dễ dàng
 fakt: sự thật
 fal: sa ngã
@@ -77,7 +77,7 @@ flank: khía cạnh
 foj:
 - lần
 - dịp, cơ hội
-forges: quên đi
+forges: quên
 form: hình thành
 fort: mạnh mẽ
 fot: ảnh chụp
@@ -146,7 +146,9 @@ kur: chạy
 labor: làm việc
 lakt: sữa
 lamp: đèn
-land: vùng đất
+land:
+  - quốc gia
+  - đất nước
 larĝ:
   - rộng lớn
   - mênh mông
@@ -268,8 +270,8 @@ renkont: gặp gỡ
 respekt: tôn trọng
 respond: trả lời
 rest:
-  - còn sót lại
-  - tàn tích, di vật
+  - còn sót
+  - tàn tích
 ricev: nhận được
 rid: cười lên
 rigard: ngắm nhìn
@@ -292,7 +294,7 @@ sekv:
 semajn: tuần lễ
 send: gửi đến
 serĉ: tìm kiếm
-si: đại từ phản thân của ngôi thứ ba
+si: đại từ phản thân
 sid: ngồi
 silent: tĩnh lặng
 simil: tương đồng
@@ -304,7 +306,7 @@ skrib: viết
 sol: một mình
 son: lên tiếng
 sovaĝ: hoang dã
-sport: sport
+sport: thể thao
 star: đứng
 strat: đường phố
 subit: đột ngột, đột nhiên
@@ -327,7 +329,6 @@ ton: giọng
 trankvil:
   - yên bình
   - lặng lẽ
-  - thanh bình
 trink: uống
 trov: tìm thấy
 turk: Thổ Nhĩ Kỳ
@@ -355,10 +356,12 @@ viv: sống, tồn tại
 vizaĝ: khuôn mặt
 vizit: viếng thăm
 voj: đường lối
-vojaĝ: hành trình
+vojaĝ: đi du lịch
 vok: gọi
 vol: muốn
-vort: từ ngữ
+vort:
+  - lời
+  - từ
 voĉ: giọng nói
 zorg: quan tâm
 ĉambr: căn phòng

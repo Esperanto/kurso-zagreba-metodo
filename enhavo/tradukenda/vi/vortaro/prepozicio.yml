@@ -15,7 +15,9 @@ ekde: kể từ khi
 ekster: ở ngoài
 el: đến từ
 en: ở trong
-inter: ở giữa
+inter:
+  - ở giữa
+  - lẫn nhau
 je: giới từ vô định
 kontraŭ:
   - chống lại

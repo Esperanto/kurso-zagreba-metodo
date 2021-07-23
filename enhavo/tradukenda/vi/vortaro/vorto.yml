@@ -43,7 +43,7 @@ dumtage: giữa ban ngày
 ekkriis: bỗng la hét lên
 ekmire: thật phi thường
 ekparolis: bắt đầu lên tiếng
-ekridis: bỗng cười phá lên
+ekridis: cười phá lên
 ekrigardis: bắt đầu nhìn xem
 eksaltis: bất ngờ nhảy lên
 ekscii: bỗng dưng tìm thấy
@@ -96,10 +96,10 @@ junulinon: nữ thanh niên
 junuloj: các thanh niên
 kafejo: khu cà phê
 kafejon: khu cà phê
-karulino: đứa con yêu dấu
-karulo: đứa con yêu dấu
-klarigis: explained
-klarigon: explanation 
+karulino: thân mến
+karulo: thân mến
+klarigis: đã giải thích
+klarigon: lời giải thích
 klubanoj: các thành viên câu lạc bộ
 kompreneble: 
 - dễ hiểu
@@ -124,11 +124,11 @@ lumigis:
 - lightened up
 - flashed up
 malagrabla: unpleasant
-malbela: xấu
-malbonaj: bad
-malbonajn: bad
-malbonan: bad
-malbono: bad 
+malbela: tệ hại
+malbonaj: không tốt
+malbonajn: không tốt
+malbonan: không tốt
+malbono: cái ác
 malfacilan: khó khắn
 malfacile: khó khăn
 malfeliĉo: misfortune
@@ -149,19 +149,19 @@ mallumo: darkness
 malmulte: few
 malmultekosta: cheap 
 malmulton: few
-malnova: old
-malnovaj: old
+malnova: cổ
+malnovaj: cổ
 malofte: rarely 
 malplaĉa: uncomfortable
 malplaĉan: uncomfortable 
 malproksime: far away
 malsaniĝis: got sick
-malsaĝa: unwise
+malsaĝa: ngu dốt
 malsekajn: wet
 malsukcesa: unsuccessful
-maltrankvila: anxious
+maltrankvila: lo lắng
 malvarman: cold
-malĝoja: sad
+malĝoja: buồn
 malŝatas: doesn't like
 malŝatis: didn't like
 manĝaĵo: food
@@ -196,7 +196,7 @@ pasigos: sẽ trả giá
 patrino: mẹ
 perdigis: withdrew
 plenigadis: filled
-plenumis: làm tròn trách nhiệm
+plenumis: đã đáp ứng đầy đủ
 plibeligis: làm đẹp hơn
 plimulto:
   - phần lớn
@@ -237,9 +237,7 @@ sovaĝejo: nơi hoang dã
 sportisto: nhà thể thao
 subakvigis: bị chìm xuống
 subakviĝis: bị chìm xuống
-subite:
-  - đột ngột
-  - bỗng nhiên
+subite: bỗng
 supren: hướng lên
 surhavas: mặc lên
 surlokan: tại chỗ này
@@ -250,17 +248,17 @@ tridekjara: "30 tuổi"
 troviĝis: đặt vào hoàn cảnh
 unuaj: thứ nhất
 urbomezo: trung tâm thành phố
-vagonaro: đoàn tàu
+vagonaro: tàu lửa
 vendejo: cửa hàng
 vendejon: cửa hàng
 vendisto: người bán hàng
-vestaĵo: quần áo
+vestaĵo: bộ quần áo
 vestaĵoj: mấy bộ quần áo
 vestaĵojn: mấy bộ quần áo 
 vestaĵon: mấy bộ quần áo
 veturado:
-- drive
-- tour
+- đi phượt
+- đi chơi
 veturigus: would drive 
 viaj: của bạn
 virino: người phụ nữ

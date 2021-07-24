@@ -7,7 +7,7 @@ aŭ [legi ĝin en retejo](eduinf.waw.pl/esp/lern/uem/index.php).
 - [Kurso de Esperanto](kurso.com.br/index.php) (ĝi havas la vjetnama)
 - [uea.facila – Facilaj Artikoloj en Esperanto](uea.facila.org)
 # Por babili en Esperanto per [Discord](discord.gg/tEmDyAGWzS)!
-# Utila vortarojn nur en [la angla](tujavortaro.net) aŭ en [Esperanto](vortaro.net/)!
+# Utilajn vortarojn en [la angla](tujavortaro.net) aŭ en [Esperanto](vortaro.net/)!
 # Kursoj
 - Duolingo (se nur vi povus paroli en la la angla)
 - Lernu! (la plejparto de la retejo estas tradukita)

@@ -52,21 +52,21 @@ dolar: đô la
 dolor:
 - làm đau
 - nỗi đau
-dolĉ: ngọt ngào
+dolĉ: ngọt
 dom: ngôi nhà
 don: đưa cho
 dorm: đi ngủ
 doĝ: tổng trấn (từ cũ)
 edz: người chồng
 efektiv: thật ra là
-ekskurs: chuyến đi chơi
+ekskurs: đi chơi
 esper: hy vọng
 est:
   - thì
   - là
 facil: dễ dàng
 fakt: sự thật
-fal: sa ngã
+fal: rơi
 famili: gia đình
 far: làm
 fart: cảm thấy
@@ -92,7 +92,7 @@ grand:
 - to lớn
 - vĩ đại
 grav: quan trọng
-halt: ngăn chặn
+halt: dừng lại
 hav: có
 hejm: nhà
 help: giúp đỡ
@@ -139,9 +139,7 @@ korp: thân thể
 kost: giá cả
 kri: la hét
 kuir: nấu
-kuk:
-  - bánh ngọt
-  - bánh ga tô
+kuk: bánh ga tô
 kur: chạy
 labor: làm việc
 lakt: sữa
@@ -251,15 +249,15 @@ port: mang, đem
 pov: có thể
 pren: lấy, cầm, nắm
 pret: sẵn sàng
-prezent: trình bày
+prezent:
+  - biểu thị
+  - trình bày
 problem: vấn đề
 proksim: gần
 promen:
   - đi dạo
   - tản bộ
-propon:
-  - đề xuất, đề ra
-  - đề cử
+propon: đề xuất, đề ra
 prov:
   - thử
   - cố gắng

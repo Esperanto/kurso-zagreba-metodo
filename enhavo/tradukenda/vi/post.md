@@ -4,7 +4,7 @@
 - Universala Esperanto Metodo en [PDF](archive.org/download/BensonUniversalaEsperantoMetodo/BensonUniversalaEsperantoMetodo.pdf)
 aŭ [legi ĝin en retejo](eduinf.waw.pl/esp/lern/uem/index.php).
   - Ĝi havas du partojn: la unua parto estas kurso por komencanto, kaj la dua parto havas multajn krestomatiojn.
-- [Kurso de Esperanto](kurso.com.br/index.php)(ĝi havas la vjetnama)
+- [Kurso de Esperanto](kurso.com.br/index.php) (ĝi havas la vjetnama)
 - [uea.facila – Facilaj Artikoloj en Esperanto](uea.facila.org)
 # Por babili en Esperanto per [Discord](discord.gg/tEmDyAGWzS)!
 # Utila vortarojn nur en [la angla](tujavortaro.net) aŭ en [Esperanto](vortaro.net/)!

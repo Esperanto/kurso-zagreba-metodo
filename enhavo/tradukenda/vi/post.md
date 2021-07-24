@@ -18,7 +18,7 @@ aŭ [legi ĝin en retejo](eduinf.waw.pl/esp/lern/uem/index.php).
 - Duolingo (se nur vi povus paroli en la angla)
 - Lernu! (la plejparto de la retejo estas tradukita)
 - [Kurso de Esperanto](kurso.com.br/index.php) (ĝi havas la vjetnama)
-- 
+
 # Esperanta muziko en Spotify: [ĉi tie](open.spotify.com/playlist/7LYL5Mcc2oEBphWrKujpq3?nd=1) kaj [ĉi tie](open.spotify.com/playlist/0aQraHEEm3UE2Z6xahGplN?si=NzYJ-8ugSImH9jCodeeZng)
 
 # [Plena Manlibro de Esperanta Gramatiko (nur en Esperanto)](bertilow.com/pmeg/index.html)

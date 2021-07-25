@@ -1,8 +1,6 @@
 almenaŭ: ít nhất
 ambaŭ: cả hai
-ankaŭ:
-  - cũng
-  - cũng vậy
+ankaŭ: cũng
 ankoraŭ: 
   - vẫn
   - chưa
@@ -13,7 +11,6 @@ do:
 eĉ:
   - kể cả
   - thậm chí
-  - ngay cả
 hieraŭ: hôm qua
 hodiaŭ: hôm nay
 jam: đã … rồi
@@ -26,16 +23,12 @@ nur:
   - duy nhất
 plej: so sánh nhất
 pli: so sánh hơn 
-plu:
-- hơn nữa
-- nữa
+plu: hơn nữa
 preskaŭ:
   - suýt chút nữa
-  - gần như
   - hầu như
 tamen:
   - thế nhưng
-  - tuy nhiên
   - tuy vậy
 tre: rất
 tro: 

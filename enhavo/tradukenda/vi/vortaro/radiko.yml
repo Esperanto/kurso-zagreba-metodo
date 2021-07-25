@@ -4,8 +4,8 @@ afer:
 agrabl: dễ chịu
 akcept: chấp thuận
 akv: nước
-ali: cái khác
-alt: cao vút
+ali: khác
+alt: cao
 am: yêu dấu
 amik: bạn bè
 arb: cây cối
@@ -27,7 +27,7 @@ bezon: cần thiết
 bien:
 - estate
 - land
-bon: tốt lành
+bon: hay, tốt
 branĉ:
   - cành cây, nhánh cây
   - ngả đường
@@ -38,7 +38,7 @@ dank: cảm ơn
 daŭr: tiếp tục
 decid: quyết định
 demand: hỏi han
-dev: phải làm
+dev: phải
 dezir: mong muốn
 diabl: ác quỷ
 dik:
@@ -52,23 +52,23 @@ dolar: đô la
 dolor:
 - làm đau
 - nỗi đau
-dolĉ: ngọt ngào
+dolĉ: ngọt
 dom: ngôi nhà
-don:
-  - đưa cho
-  - biếu tặng
+don: đưa cho
 dorm: đi ngủ
 doĝ: tổng trấn (từ cũ)
 edz: người chồng
 efektiv: thật ra là
-ekskurs: chuyến đi chơi
+ekskurs: đi chơi
 esper: hy vọng
-est: thì là
+est:
+  - thì
+  - là
 facil: dễ dàng
 fakt: sự thật
-fal: sa ngã
+fal: rơi
 famili: gia đình
-far: thực hiện
+far: làm
 fart: cảm thấy
 feliĉ: hài lòng
 ferm: đóng lại
@@ -77,7 +77,7 @@ flank: khía cạnh
 foj:
 - lần
 - dịp, cơ hội
-forges: quên đi
+forges: quên
 form: hình thành
 fort: mạnh mẽ
 fot: ảnh chụp
@@ -92,16 +92,16 @@ grand:
 - to lớn
 - vĩ đại
 grav: quan trọng
-halt: ngăn chặn
-hav: sở hữu
-hejm: tổ ấm
+halt: dừng lại
+hav: có
+hejm: nhà
 help: giúp đỡ
 hom: con người
 hor: giờ
 hotel: khách sạn
 ide: ý tưởng
 industri: kinh doanh
-instru: chỉ dạy
+instru: giảng dạy
 interes:
   - quan tâm
   - thích thú
@@ -120,9 +120,7 @@ kastel: lâu đài
 kav: hang động
 kelk: một vài
 kelner: người phục vụ
-klar:
-  - trong trẻo
-  - rõ ràng
+klar: rõ ràng
 klub: câu lạc bộ
 knab: cậu bé
 koler: giận dữ
@@ -132,7 +130,7 @@ kompren:
   - hiểu
   - nắm được
 kon: quen biết, quen thuộc
-kontent: thoã mãn
+kontent: thoả mãn
 kontrol:
   - kiểm soát
   - kiểm tra
@@ -140,15 +138,15 @@ kor: con tim
 korp: thân thể
 kost: giá cả
 kri: la hét
-kuir: nấu ăn
-kuk:
-  - bánh ngọt
-  - bánh ga tô
+kuir: nấu
+kuk: bánh ga tô
 kur: chạy
 labor: làm việc
 lakt: sữa
 lamp: đèn
-land: vùng đất
+land:
+  - quốc gia
+  - đất nước
 larĝ:
   - rộng lớn
   - mênh mông
@@ -163,7 +161,7 @@ laŭt:
   - um sùm
 lecion: bài học
 leg: đọc
-lern: học hỏi
+lern: học
 leter: bức thư
 liber:
   - tự do
@@ -193,7 +191,9 @@ montr:
   - cho xem, cho thấy
   - tỏ ra
 mort: chết đi
-mov: đi chuyển
+mov:
+  - di chuyển
+  - rung động
 mult: nhiều
 muzik: âm nhạc
 nask: sinh ra
@@ -218,19 +218,21 @@ orel: tai
 pac: hoà bình
 pag: trả tiền
 pan: bánh mì
-paper: tờ giấp
+paper: tờ giấy
 pardon: tha thứ
 parol: nói chuyện
 part: phần
-pas: truyền cho
-patr: cha/bố/tía
+pas:
+  - trôi qua
+  - truyền qua
+patr: cha
 paŝ: bước đi
 pens: suy nghĩ
 perd: nới lỏng
 person: con người
 pet:
-  - thỉnh cầu
-  - đề nghị
+  - xin
+  - cầu mong
 pez: nặng nề
 pied: chân, bàn chân
 plac: nơi chốn
@@ -247,18 +249,20 @@ port: mang, đem
 pov: có thể
 pren: lấy, cầm, nắm
 pret: sẵn sàng
-prezent: trình bày
+prezent:
+  - biểu thị
+  - trình bày
 problem: vấn đề
 proksim: gần
 promen:
   - đi dạo
   - tản bộ
-propon:
-  - đề xuất, đề ra
-  - đề cử
-prov: làm thử
+propon: đề xuất, đề ra
+prov:
+  - thử
+  - cố gắng
 rajt: cho phép
-rapid: nhanh nhẹn
+rapid: nhanh
 raport: báo cáo
 real: thực tế, có thật
 rekt: gửi đến
@@ -266,11 +270,11 @@ renkont: gặp gỡ
 respekt: tôn trọng
 respond: trả lời
 rest:
-  - còn sót lại
-  - tàn tích, di vật
+  - còn sót
+  - tàn tích
 ricev: nhận được
 rid: cười lên
-rigard: nhìn xem
+rigard: ngắm nhìn
 riĉ: giàu có
 rol: vai trò
 ruĝ: đỏ rực
@@ -290,19 +294,19 @@ sekv:
 semajn: tuần lễ
 send: gửi đến
 serĉ: tìm kiếm
-si: đại từ phản thân của ngôi thứ ba
+si: đại từ phản thân
 sid: ngồi
 silent: tĩnh lặng
 simil: tương đồng
 sinjor:
 - quý ngài
 - quý ngài
-situaci: situation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
+situaci: hoàn cảnh
+skrib: viết
+sol: một mình
+son: lên tiếng
+sovaĝ: hoang dã
+sport: thể thao
 star: đứng
 strat: đường phố
 subit: đột ngột, đột nhiên
@@ -321,15 +325,12 @@ teror:
   - kinh hãi
   - khiếp sợ
 tim: sợ hãi
-ton:
-  - giọng
-  - tông
+ton: giọng
 trankvil:
   - yên bình
   - lặng lẽ
-  - thanh bình
 trink: uống
-trov: tìm thấy
+trov: đi tìm
 turk: Thổ Nhĩ Kỳ
 tuŝ: đụng chạm
 urb: thành phố
@@ -338,16 +339,16 @@ uz: sử dụng
 vagon:
   - xe ngựa bốn bánh
   - xe đò
-varm: ấm áp
+varm: nóng
 ven: đi đến
 vend: buôn bán
 Veneci: thành phố Vơ-ni-dơ
 ver:
-  - đúng đắn
-  - chính xác
+  - thật sự
+  - đúng là
 vesper: buổi tối
 vest: ăn mặc
-vetur: đi du lịch
+vetur: chạy xe
 vid: thấy
 vin: rượu vang
 vir: đàn ông
@@ -355,10 +356,12 @@ viv: sống, tồn tại
 vizaĝ: khuôn mặt
 vizit: viếng thăm
 voj: đường lối
-vojaĝ: hành trình
+vojaĝ: đi du lịch
 vok: gọi
 vol: muốn
-vort: từ ngữ
+vort:
+  - lời
+  - từ
 voĉ: giọng nói
 zorg: quan tâm
 ĉambr: căn phòng
@@ -375,11 +378,11 @@ zorg: quan tâm
   - vui mừng
   - hân hoan
 ĝust:
-  - hợp lý
   - chính xác
-ĵet: ném, vứt, quăng, liệng
+  - hợp lý
+ĵet: ném, vứt
 ŝajn:
-  - có vẻ như
+  - hình như
   - dường như
 ŝanĝ: thay đổi
 ŝat: thích

@@ -1,75 +1,75 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: Việc gì có thể làm cha mẹ cậu vui nhất?
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: Việc gì
+    - povus: có thể
+    - plej: (so sánh nhất)
+    - ĝojigi: làm vui
+    - viajn: của cậu
+    - gepatrojn: cha mẹ
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: Giá như là cậu ít nhất muốn đi cùng mình vào trung tâm thành phố sau khi việc học nhỉ!
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: Giá như
+    - almenaŭ: ít nhất
+    - vi: cậu
+    - post: sau khi
+    - la: (mạo từ xác định)
+    - lernado: việc học
+    - irus: muốn đi
+    - kun: cùng
+    - mi: mình
+    - en: vào
+    - la: (mạo từ xác định) 
+    - urbocentron: trung tâm thành phố
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: Cậu mong sẽ được đi du lịch ở đâu nếu bạn có đủ tiền và thời gian?
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: Đi đến đâu
+    - vi: cậu
+    - dezirus: mong
+    - vojaĝi: được đi
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: nếu
+    - vi: cậu
+    - havus: có
+    - sufiĉe: đủ
+    - da: (số lượng)
+    - mono: tiền
+    - kaj: và
+    - tempo: thời gian
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: Cậu định đi du lịch tới Paris bằng xe hơi thật sao, hay chẳng nhẽ đi bằng xe lửa không thấy tốt hơn nhiều? 
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
+    - Ĉu: Thật sao
+    - vi: cậu
+    - planas: định
+    - veturi: đi du lịch
+    - al: tới
     - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - per: bằng
+    - aŭto: xe hơi
+    - aŭ: hay
+    - ĉu: chẳng nhẽ
+    - ne: không
+    - ŝajnas: thấy
+    - multe: nhiều
+    - pli: (so sánh hơn)
+    - bone: tốt
+    - per: bằng
+    - vagonaro: xe lửa
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
+  demando: Tại sao những người khác nhau đều giải thích những ý tưởng giống nhau nhưng theo một cách khác biệt nhau vậy?
   rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: Tại sao
+    - diversaj: khác nhau
+    - homoj: những người
+    - klarigas: giải thích
+    - samajn: giống nhau
+    - ideojn: những ý tưởng
+    - diversmaniere: một cách khác biệt 
     - '?'

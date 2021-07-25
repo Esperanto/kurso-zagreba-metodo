@@ -2,16 +2,15 @@ aŭskult: lắng nghe
 divers: phong phú
 ekzempl: ví dụ
 glas: thuỷ tinh
-infan: child
-inform: to inform
-kant: to sing
-kien: where to
-konsent: to consent
+infan: trẻ con
+inform: thông báo
+kant: ca hát
+kien: đến đâu
+konsent: bằng lòng
 lingv: tiếng
 loĝ:
-- to live
-- to inhabit
-- to reside
+- sống
+- trú ngụ
 manier: cư xử
 monat: tháng
 mond: thế giới
@@ -20,37 +19,48 @@ organiz:
   - sắp xếp
   - tổ chức
 plor:
-- khóc
-- than khóc
+  - khóc
+  - than khóc
 pluv: mưa
 poŝ: túi
 poŝt: bưu điện
-proksimum: approximate
-publik: public
-punkt: point
+proksimum: xấp xỉ
+publik:
+  - công cộng
+  - công chúng
+  - công khai
+punkt: điểm
 pur:
-- clean
-- pure
+- sạch sẽ
+- trong sạch
+- thuần tuý
 rakont:
   - kể
   - thuật lại
 rimark: để ý
 seĝ: cái ghế
 sia: 
-- của 
-- her own
-- its own
-- one's own, 
-- their own
+- của anh ấy
+- của cô ấy
+- của nó
+- của ai đó
+- của họ
 simpl: đơn giản
-terur: terrible
-tut: whole
-universal: universa
-rilat: to relate
+terur:
+  - khủng khiếp
+  - ghê gớm
+  - tệ hại
+tut: toàn bộ
+universal: toàn thể
+rilat:
+  - liên quan
+  - quan hệ
 sat:
-- to be full
-- sated
-ag: to act
-aper: to appear
-sent: to feel
-kred: to believe
+- đầy bụng
+- no nê
+ag:
+  - hành động
+  - cư xử
+aper: xuất hiện
+sent: cảm giác
+kred: tin tưởng

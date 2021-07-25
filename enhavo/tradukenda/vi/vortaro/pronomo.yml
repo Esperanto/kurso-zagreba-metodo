@@ -1,17 +1,14 @@
 ili: họ
-li:
-  - anh ấy
-  - anh ta
+li: anh ấy
 lia: của anh ấy
 mi:
   - tôi
   - tớ
-  - tao
 mia: của tôi
-ni: chúng tôi
+ni:
+  - chúng tôi
+  - chúng ta
 oni: người ta
-vi: bạn (số ít lẫn số nhiều)
-ĝi: nó
-ŝi:
-  - cô ấy
-  - cô ta
+vi: bạn (số ít và số nhiều)
+ĝi: nó (con vật, đồ vật)
+ŝi: cô ấy

@@ -13,10 +13,10 @@
     - ajn: bất cứ
     - '?'
 - 
-  demando: Đến khi nào mình sẽ lấy lại được một nửa kia của mấy quyển sách đây?
+  demando: Đến khi nào tớ sẽ lấy lại được một nửa kia của mấy quyển sách vậy?
   rektatraduko: 
     - Kiam: Khi nào
-    - mi: mình
+    - mi: tớ
     - rericevos: sẽ lấy lại
     - la: (mạo từ xác định)
     - alian: kia
@@ -26,10 +26,10 @@
     - libroj: những quyển sách
     - '?'
 - 
-  demando: Liệu bạn sẽ cần nhiều hơn một phần tư năm cho những công việc đó?
+  demando: Liệu cậu sẽ cần nhiều hơn một phần tư năm cho những công việc đó?
   rektatraduko: 
     - Ĉu: Liệu
-    - vi: bạn
+    - vi: cậu
     - bezonos: sẽ cần
     - pli: nhiều
     - ol: hơn
@@ -55,10 +55,10 @@
     - atendas: chờ
     - '?'
 - 
-  demando: Liệu bạn sẽ hài lòng với bất cứ người đàn ông nào?
+  demando: Liệu cậu sẽ hài lòng với bất kỳ người đàn ông nào?
   rektatraduko: 
     - Ĉu: Liệu
-    - vi: bạn
+    - vi: cậu
     - estus: sẽ
     - kontenta: hài lòng
     - kun: với

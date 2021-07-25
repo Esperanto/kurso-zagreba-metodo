@@ -1,5 +1,7 @@
 - estraro: lãnh đạo
-- tagmeze: vào giữa ban ngày
+- tagmeze:
+  - vào giữa ban ngày
+  - giữa ban ngày
 - posttagmeze: vào buổi chiều
 - malsata: đói bụng
 - interkonsenti:
@@ -12,6 +14,7 @@
 - malfermilo: dụng cụ mở
 - noktomezo: giữa đêm
 - publikigi: xuất bản
-- pagigi: làm phải trả giá
+- pagigi:
+  - làm phải trả giá
 - duflanka: hai bên
 - aliflanke: mặt khác

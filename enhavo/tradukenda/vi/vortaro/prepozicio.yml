@@ -9,13 +9,15 @@ apud: bên cạnh
 da: (chỉ số lượng)
 de:
 - của
-- đến từ, làm từ
+- làm từ
 dum: trong lúc
 ekde: kể từ khi
 ekster: ở ngoài
 el: đến từ
 en: ở trong
-inter: ở giữa
+inter:
+  - giữa, ở giữa
+  - lẫn nhau
 je: giới từ vô định
 kontraŭ:
   - chống lại
@@ -31,11 +33,13 @@ laŭ:
 per: 
 - bằng
 - sử dụng
-por: cho
+por: cho việc
 post: sau
 pri: về việc
 pro: bởi vì
-sen: mà không có
+sen:
+  - không có
+  - không cần
 sub:
 - ở dưới
 - bên dưới

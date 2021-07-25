@@ -10,10 +10,10 @@
     - tagmanĝo: bữa trưa
     - '?'
 - 
-  demando: "Bạn muốn uống gì nào: trà, một chút cà phê hay bạn không muốn uống gì cả?"
+  demando: "Cậu muốn uống gì: trà, một chút cà phê hay cậu không muốn uống gì cả?"
   rektatraduko: 
     - Kion: Cái gì
-    - vi: bạn
+    - vi: cậu
     - volas: muốn
     - trinki: uống
     - ':' 
@@ -24,24 +24,24 @@
     - kafo: cà phê
     - aŭ: hay
     - ĉu: không lẽ
-    - vi: bạn
+    - vi: cậu
     - volas: muốn
     - nenion: không gì cả
     - '?'
 - 
-  demando: Sao đột ngột bạn quyết định cải tiến căn phòng nhỏ của bạn theo kiểu đó vậy?
+  demando: Sao đột ngột cậu lại quyết định cải tiến căn phòng nhỏ của cậu theo kiểu đó vậy?
   rektatraduko: 
     - Kial: Tại sao
-    - vi: bạn
+    - vi: cậu
     - tiel: theo kiểu đó
     - subite: đột ngột
     - decidis: đã quyết định
     - renovigi: làm cải tiến
-    - vian: của bạn
+    - vian: của cậu
     - ĉambreton: căn phòng nhỏ
     - '?'
 - 
-  demando: Bạn đã đưa những ly sạch để rượu vang sạch cho ai vậy?
+  demando: Cậu đã đưa những ly sạch để rượu vang cho ai vậy?
   rektatraduko: 
     - Al: Cho
     - kiu: ai
@@ -55,32 +55,32 @@
     - vino: rượu vang
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: Câu lạc bộ thể thao của cậu hai tuần trước đã chơi đối đầu với ai vậy?
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: Đối đầu
+    - kiu: với ai
+    - ludis: đã chơi
+    - via: của cậu
+    - sportklubo: câu lạc bộ thể thao
+    - antaŭ: trước
+    - du: hai
+    - semajnoj: tuần
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: Cậu có thường hay gặp chú cảnh sát sống trong căn hộ phía trên cậu không?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: Có không
+    - vi: cậu
+    - ofte: thường hay
+    - vidas: gặp
+    - la: (mạo từ xác định)
+    - policiston: chú cảnh sát
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: người mà
+    - loĝas: sống
+    - en: ở trong
+    - la: (mạo từ xác định)
+    - loĝejo: căn hộ
+    - super: phía trên
+    - vi: cậu
     - '?'

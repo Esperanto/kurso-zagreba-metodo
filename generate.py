@@ -45,6 +45,11 @@ def load(language, gramatiko_transpose_headlines = 2):
     enhavo['vortaro'] = {}
 
     paths = glob.glob('enhavo/tradukenda/' + language + '/vortaro/*.yml')
+    # Provo solvi
+    # https://github.com/Esperanto/kurso-zagreba-metodo/issues/36
+    # sed kauzas aliajn problemojn.
+    #paths.append('enhavo/tradukenda/en/vortaro/vorto.yml')
+    #print(paths)
     for path in paths:
         dirs, filename = os.path.split(path)
         root, extension = os.path.splitext(filename)

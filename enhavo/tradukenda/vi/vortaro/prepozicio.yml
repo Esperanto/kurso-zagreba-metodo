@@ -18,7 +18,9 @@ en: ở trong
 inter:
   - giữa, ở giữa
   - lẫn nhau
-je: giới từ vô định
+je:
+  - giới từ vô định
+  - vào lúc
 kontraŭ:
   - chống lại
   - phản đối

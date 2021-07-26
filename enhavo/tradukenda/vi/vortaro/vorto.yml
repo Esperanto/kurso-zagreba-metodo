@@ -133,7 +133,7 @@ malfeliĉo: bất hạnh
 malforta: yếu ớt
 malforte: một cách yếu ớt 
 malfruas: đi trễ
-malfrue: trễ
+malfrue: cũng trễ
 malfrui: đi trễ
 malgranda: nhỏ bé
 malhelpis: gây trở ngại
@@ -152,7 +152,9 @@ malplaĉa: khó chịu
 malplaĉan: khó chịu
 malproksime: xa rất xa
 malsaniĝis: bị thương
-malsaĝa: ngu dốt
+malsaĝa:
+  - ngớ ngẩn
+  - ngu ngốc
 malsekajn: ẩm ướt
 malsukcesa: không thành
 maltrankvila: lo lắng
@@ -249,7 +251,7 @@ vendisto: người bán hàng
 vestaĵo: bộ quần áo
 vestaĵoj: mấy bộ quần áo
 vestaĵojn: mấy bộ quần áo 
-vestaĵon: mấy bộ quần áo
+vestaĵon: bộ quần áo
 veturado: đi chơi
 veturigus: sẽ chạy xe 
 viaj: của bạn

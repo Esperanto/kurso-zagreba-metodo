@@ -3,8 +3,8 @@ al:
 - đi đến
 anstataŭ: thay vì
 antaŭ:
-- trước khi
 - ở ngay phía trước
+- trước khi
 apud: bên cạnh
 da: (chỉ số lượng)
 de:
@@ -34,7 +34,9 @@ per:
 - bằng
 - sử dụng
 por: cho việc
-post: sau
+post:
+  - ở ngay phía sau
+  - sau lúc
 pri: về việc
 pro: bởi vì
 sen:

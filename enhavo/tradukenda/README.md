@@ -35,6 +35,7 @@ La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkaj skanaĵoj ekzistas:
 - [rumana](https://drive.google.com/open?id=0B73-tppgbUreN19waV84ZnFwd0E)
 - [slovaka](https://drive.google.com/open?id=0B73-tppgbUreTGdWT19JQ09jamM)
 - [vjetnama](https://drive.google.com/open?id=0B73-tppgbUreYjBObFBhcHZROTg)
+- [...pluraj](https://drive.google.com/drive/folders/0B73-tppgbUrec2xJbW05UTJFb0U?resourcekey=0-rUrk3i8rCIjW3tCnzcjPSw&usp=sharing)
 
 (Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu min](mailto:georg@jaehnig.org)!)
 

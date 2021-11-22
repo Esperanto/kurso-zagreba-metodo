@@ -293,6 +293,15 @@ pt:
       github: Jxajroad
     - nomo: Alejandro Escobedo
       github: alescomu
+ro:
+  nomo:
+    fontlingve: Română
+    esperante: rumana
+  stato: testa
+  komentejo: 0
+  aŭtoroj:
+    - nomo: Yves Nevelsteen
+      github: yvesnevelsteen
 ru:
   nomo:
     fontlingve: Русский

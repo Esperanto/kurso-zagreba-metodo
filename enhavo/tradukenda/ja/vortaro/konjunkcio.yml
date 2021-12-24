@@ -1,11 +1,13 @@
-aŭ: or
-kaj: and
-ke: that 
-kvankam: although
-nek: neither (… nor)
-ol: than
-se: if
-sed: but
+aŭ: または
+kaj:
+- ～と
+- そして
+ke: ～ということ
+kvankam: ～にもかかわらず
+nek: ～でもない
+ol: ～よりも
+se: もし
+sed: しかし
 ĉar:
-- because
-- for
+- なぜなら
+- ～なので

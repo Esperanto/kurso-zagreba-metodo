@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: 現在形 能動態
+int: 過去形 能動態
+ont: 未来形 能動態
+unt: 仮定形 能動態
+at:  現在形 受動態
+it:  過去形 受動態
+ot:  未来形 受動態
+ut:  仮定形 受動態

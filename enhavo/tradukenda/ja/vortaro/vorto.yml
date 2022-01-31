@@ -22,7 +22,7 @@ beleta: かわいい
 bestetoj: 小動物
 bonega: 素晴らしい
 bonvolu: どうぞ
-bonvolus: would you be so kind
+bonvolus: なにとぞどうか
 centoj: 数百
 dankon: ありがとう
 daŭrigis: 続けました
@@ -43,7 +43,7 @@ eksaltis: 跳ねはじめた
 ekscii: 知る
 eksidis: 座った
 ekstervoje: 道から外れて
-ekveturas: （乗り物が）出発する
+ekveturas: （乗り物で）出発する
 ekvidis: 見かけた
 elstaraj: 飛び抜けた
 eniri: 入る
@@ -147,7 +147,7 @@ malgranda:
 malhelpis: 邪魔をした
 malinterese: つまらない
 malkontentigi: 苦しめる
-mallaŭte: やっと聞こえる
+mallaŭte: 小さい声で
 malliberejon: 牢獄を
 mallumo: 闇
 malmulte: 少し
@@ -159,114 +159,124 @@ malofte: たまに
 malplaĉa: 気にいらない
 malplaĉan: 気にいらない 
 malproksime: 遠くに
-malsaniĝis: got sick
-malsaĝa: unwise
-malsekajn: wet
-malsukcesa: unsuccessful
-maltrankvila: anxious
-malvarman: cold
-malĝoja: sad
-malŝatas: doesn't like
-malŝatis: didn't like
-manĝaĵo: food
-manĝegi: to devour
-maristo: seaman
-maristoj: seamen
-mariston: seaman
-miaj: my 
-militistoj: soldiers
-monerojn: coins
-monujo: purse
-morgaŭan: tomorrow's
-mortigo: murder
-moviĝis: moved
-multekosta: expensive
-multpiedaj: many-footed
-naskiĝtaga: birthday
-naskiĝtago: birthday 
-naturaĵojn: natural things
-nehoma: non-human
-neinteresaj: uninteresting
-nokta: nightly
-novaĵoj: news
-opinion: opinion
-ordigi: to order 
-paperoj: papers
-paperojn:  papers
-paperujon: wastebasket
-pasigos: will spend
-patrino: mother
-perdigis: withdrew
-plenigadis: filled
-plenumis: fulfilled
-plibeligis: beautified
-plimulto: majority
-policano: policeman
-promenejo: promenade
-promeno: walk
-rapidege: very quickly
-realigi: to realize
-redonu: give back
-rekapti: to get back
-repaciĝon: reliberation
-revenis: came back
-revidi: to see again
-revido: goodbye
-ridetis: smiled
-rideto: smile
+malsaniĝis: 病気になった
+malsaĝa: 愚かな
+malsekajn: ぬれた
+malsukcesa: 失敗の
+maltrankvila: 心配な
+malvarman: 寒い
+malĝoja: 悲しい
+malŝatas: 
+- 軽視する
+- 嫌う
+malŝatis:
+- 軽視した
+- 嫌った
+manĝaĵo: 食べ物
+manĝegi: むさぼり食う
+maristo: 船乗り
+maristoj: 船乗り
+mariston: 船乗りを
+miaj: 私の 
+militistoj: 兵士たち
+monerojn: 硬貨
+monujo: 財布
+morgaŭan: 明日の
+mortigo: 殺人
+moviĝis: 動いた
+multekosta: 高価な
+multpiedaj: 多足の
+naskiĝtaga: 誕生日の
+naskiĝtago: 誕生日 
+naturaĵojn: 天然の産物を
+nehoma: 人間味のない
+neinteresaj: おもしろみのない
+nokta: 夜の
+novaĵoj: ニュース
+opinion: 意見
+ordigi: 整理する
+paperoj: 書類
+paperojn:  書類を
+paperujon: 紙入れ
+pasigos: 
+- 過ごすだろう
+- 手渡すだろう
+patrino: 母
+perdigis: 失わせた
+plenigadis: いっぱいにしていた
+plenumis: 実行した
+plibeligis: よりきれいにした
+plimulto: もっと多くの物
+policano: 警察官
+promenejo: 散歩道
+promeno: 散歩
+rapidege: とても速く
+realigi: 実現させる
+redonu: 返しなさい
+rekapti: 取り戻す
+repaciĝon: 仲直りを
+revenis: 帰ってきた
+revidi: 再会する
+revido: 再会
+ridetis: ほほえんだ
+rideto: ほほえみ
 riĉeco:
-- richness
-- wealth
-riĉulo: rich man
-salton: jump
-saluton: hello
-samklubanoj: co-members of the club
-sekretajn: secret
-sekreton: secret
-senbrue: silently
-seninterese: disinterested
-senkolora: colorless
-sensukcese: without success
-sentimulo: fearless man
-senvorte: wordlessly
-sinjorinoj: ladies
-sinjorinon: lady
-skribotablo: desk
-soleca: lonely
-sovaĝejo: wilderness
-sportisto: sportsman
-subakvigis: to sink
-subakviĝis: to sink
-subite: suddenly
-supren: upward
-surhavas: wear
-surlokan: at this place
-teroristoj: terrorists
-tiuokaze: in that case
-travivaĵo: adventure
-tridekjara: 30-year-old
-troviĝis: was situated
-unuaj: first
-urbomezo: city center
-vagonaro: train
-vendejo: shop
-vendejon: shop
-vendisto: clerk 
-vestaĵo: clothes 
-vestaĵoj: clothes
-vestaĵojn: clothes 
-vestaĵon: clothes
+- 豊かさ
+- 富裕さ
+riĉulo: 金持ち
+salton: 跳躍を
+saluton: あいさつを
+samklubanoj: 同クラブ員
+sekretajn: 秘密の
+sekreton: 秘密を
+senbrue: 物音をたてずに
+seninterese: 興味を引かずに
+senkolora: 無色の
+sensukcese: 成功することなく
+sentimulo: 度胸のある人
+senvorte: 無言で
+sinjorinoj: 夫人たち
+sinjorinon: 夫人を
+skribotablo: 
+- 事務机
+- 勉強机
+soleca: 寂しい
+sovaĝejo: 未開の土地
+sportisto: スポーツマン
+subakvigis: 水に沈めた
+subakviĝis: 水に沈んだ
+subite: 突然に
+supren: 上へ
+surhavas: 身に着けている
+surlokan: その場の
+teroristoj: テロリストたち
+tiuokaze: その場合には
+travivaĵo: 体験
+tridekjara: ３０才の
+troviĝis: 存在した
+unuaj: 最初の
+urbomezo: 町の中央
+vagonaro: 列車
+vendejo: 店
+vendejon: 店を
+vendisto: 店員 
+vestaĵo: 衣服 
+vestaĵoj: 衣服類
+vestaĵojn: 衣服類を 
+vestaĵon: 衣服を
 veturado:
-- drive
-- tour
-veturigus: would drive 
-viaj: your
-virino: woman
-vojaĝantoj: travellers
-ĉambristoj: chambermaids
-ĉeesto: presence
-ĉirkaŭaĵo: surrounding
-ĝenon: disturbance
-ĝustatempe: at the right time
-ŝiaj: her 
-ŝipkuron: ship race
+- 運転
+- ドライブ
+veturigus: 乗せて行けたらなあ 
+viaj: あたたがたの
+virino: 女性
+vojaĝantoj: 旅行者たち
+ĉambristoj: 部屋係たち
+ĉeesto: 出席
+ĉirkaŭaĵo: 周囲
+ĝenon: 
+- 障害を
+- 妨害行為を
+ĝustatempe: ちょうど良い時に
+ŝiaj: 彼女たちの 
+ŝipkuron: 船舶レース

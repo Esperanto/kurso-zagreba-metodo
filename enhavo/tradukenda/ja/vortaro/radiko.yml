@@ -60,7 +60,9 @@ facil: やさしい
 fakt: 事実
 fal: 落ちる
 famili: 家族
-far: 作る
+far: 
+- 作る
+- する
 fart:
 - …な健康状態にある
 - 体調
@@ -83,214 +85,234 @@ graf: 伯爵
 grand:
 - 大きい
 - 偉大な
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: to need
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
-opini: opinion
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
-si: reflexive pronoun
-sid: to sit
-silent: silent
-simil: similar
+grav: 重要な
+halt: 止まる
+hav: 持つ
+hejm: 家庭
+help: 助ける
+hom: 人
+hor: 時間
+hotel: ホテル
+ide: 考え
+industri: 
+- 産業
+- 工業
+instru: 教える
+interes: 興味を持たせる
+invit: 招待する
+ir: 行く
+itali: イタリア
+jar: 年
+jun: 若い
+kaf: コーヒー
+kalv: はげ頭の
+kap: 頭
+kapabl: 能力がある
+kapt: つかまえる
+kar: 
+- いとしい
+- 大事な
+kastel: 城
+kav: 空洞
+kelk: いくらかの
+kelner: ウェイター
+klar: 
+- 澄んだ
+- 明るい
+- はっきりした
+klub: クラブ
+knab: 少年
+koler: 怒る
+kolor: 色
+komenc: 始める
+kompren: 理解する
+kon: 知る
+kontent: 満足した
+kontrol: 点検する
+kor: 
+- 心臓
+- 心
+korp: からだ
+kost: 費用がかかる
+kri: 叫ぶ
+kuir: 料理をする
+kuk: 菓子 
+kur: 走る
+labor: 働く
+lakt: ミルク
+lamp: ランプ
+land: 
+- 土地
+- 国
+larĝ: 広い
+last: 
+- 最後の
+- 最近の
+laŭt: （声が）大きい
+lecion: 授業
+leg: 読む
+lern: 学ぶ
+leter: 手紙
+liber: 自由
+libr: 本
+lok: 場所
+long: 長い
+lud: 遊ぶ
+lum: 光
+man: 手
+mank: 欠けている
+manĝ: 食べる
+mar: 海
+maten: 朝
+memor: 覚えている
+met: 置く
+mez: 中央
+milit: 戦争
+minut: 分
+mir: 驚嘆する
+moment: 瞬間
+mon: お金
+mont: 山
+montr: 見せる
+mort: 死ぬ
+mov: 動かす
+mult: たくさんの
+muzik: 音楽
+nask: 産む
+natur: 自然
+neces: 必要である
+nokt: 夜
+nom: 名前
+not: メモ
+nov: 新しい
+odor: 匂い
+oft: 度々
+okaz: 起きる
+onkl: 叔父
+opini: 意見
+ord: 秩序
+orel: 耳
+pac: 平和
+pag: 支払う
+pan: パン
+paper: 紙
+pardon: 許す
+parol: 話す
+part: 部分
+pas: 通る
+patr: 父親
+paŝ: 歩み
+pens: 考える
+perd: 失う
+person: 人物
+pet: 請う
+pez: 重い
+pied: 足
+plac: 場所
+plan: 計画する
+plaĉ: 好ましい
+plen: いっぱいの
+polic: 警察官
+pord: ドア
+port: 携える
+pov: できる
+pren: 取る 
+pret: 用意のできた
+prezent: 提示する
+problem: 問題
+proksim: 近い
+promen: 散歩をする
+propon: 提案する
+prov: 試みる
+rajt: してもよい
+rapid: 速い
+raport: 報告
+real: 実際の
+rekt: 
+- まっすぐな
+- 直接の
+renkont: 出会う
+respekt: 尊敬する
+respond: 答える
+rest: 留まっている
+ricev: 受け取る
+rid: 笑う
+rigard: 目を向ける
+riĉ: 豊かな
+rol: 役割
+ruĝ: 赤い
+salt: 跳ぶ
+salut: 挨拶する
+sam: 同じ
+san: 健康
+saĝ: 賢い
+sci: 知る
+sek: 乾いた
+sekret: 秘密の
+sekv: ついていく
+semajn: 週
+send: 送る
+serĉ: 探す
+si: 三人称再帰代名詞
+sid: 座っている
+silent: 声を出さない
+simil: 類似の
 sinjor:
-- gentleman
-- Mr.
-situaci: situation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: hold
-teror: terror
-tim: fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to travel
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
+- 紳士
+- さん
+situaci: 
+- 情勢
+- 立場
+skrib: 書く
+sol: 唯一の
+son: 音
+sovaĝ: 野生の
+sport: スポーツ
+star: 立っている
+strat: 街路
+subit: 突然
+sufiĉ: 十分な
+sukces: 成功する
+sun: 太陽
+supr: 上の
+tabl: テーブル 
+tag: 日
+te: 茶
+telefon: 電話
+temp: 時間
+temperatur: 温度
+ten: 支えている
+teror: テロル
+tim: 恐怖
+ton: 音の調子
+trankvil: 
+- 安心した
+- 平穏な
+trink: 飲む
+trov: 見つける
+turk: トルコ人
+tuŝ: 触れる
+urb: 都市
+util: 役に立つ
+uz: 使う
+vagon: 車両
+varm: 暖かい
+ven: 来る
+vend: 売る
+Veneci: ベニス
+ver: 真実
+vesper: 夕方
+vest: 服を着せる
+vetur: 
+- （乗り物で）行く
+- （乗り物で）旅行をする
+vid: 見えている
+vin: ワイン
+vir: 男
+viv: 生きる
+vizaĝ: 顔
+vizit: 訪れる
+voj: 道
 vojaĝ: journey
 vok: to call
 vol: want

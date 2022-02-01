@@ -81,9 +81,7 @@ frat: 兄弟
 fru: 早い
 fuŝ: やり損なう
 gondol: ゴンドラ
-graf: 
-- 伯爵
-- 伯爵
+graf: 伯爵
 grand:
 - 大きい
 - 偉大な
@@ -315,22 +313,28 @@ viv: 生きる
 vizaĝ: 顔
 vizit: 訪れる
 voj: 道
-vojaĝ: journey
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
+vojaĝ: 旅行をする
+vok: 呼びかける
+vol: したいと思う
+vort: 語
+voĉ: 声
+zorg: 気を配る
+ĉambr: 部屋
+ĉef: ボス
 ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- じゃまをする
+- 気をつかわせる
+ĝeneral: 
+- 全体の
+- 一般的な
+ĝoj: うれしい
+ĝust: 的確な
+ĵet: 投げる
+ŝajn: 
+- …の様子である
+- …らしい
+ŝanĝ: 代える
+ŝat: 
+- 高く評価する
+- 好む
+ŝip: 船

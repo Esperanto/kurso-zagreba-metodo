@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: 大きなホテルのウェイターたちはたくさんの言語を理解しますか？ 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Ĉu: ～か？ 
+    - kelneroj: ウェイター（複数）
+    - en: の中の
+    - grandaj: 大きな（複数）
+    - hoteloj: ホテル（複数）
+    - komprenas: 理解する
+    - multajn: 多くの
+    - lingvojn: 言語を（複数）
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: アンナが貧しい男と美少女についての新しい歌を好きかどうかあなたは知っていますか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: ～か？
+    - vi: あなたは
+    - scias: 知っている
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ĉu: ～かどうか
+    - Anna: アンナが 
+    - ŝatas: 好き
+    - la: （定冠詞）
+    - novan: 新しい
+    - kanton: 歌を
+    - pri: についての
+    - malriĉulo: 貧しい人
+    - kaj: と
+    - belulino: 美少女
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: あなたはどこで大きなテーブルを運んでいた老人と若者を見たのですか？
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: どこで
+    - vi: あなたは
+    - vidis: 見た
+    - la: （定冠詞）
+    - maljunulon: 老人
+    - kaj: と
+    - la: （定冠詞）
+    - junulon: 若者
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: 彼らは（接続詞）
+    - portis: 運んでいた
+    - grandan: 大きな
+    - tablon: テーブルを
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: どのような次第であなたはきょうだい（兄弟姉妹）抜きで改めて私たちのところに来たのですか？
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: どのように
+    - okazis: 起こった
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: ～ということが
+    - vi: あなたが
+    - denove: 改めて
+    - venis: 来た
+    - al: ～へ 
+    - ni: 私たちのところ
+    - sen: ～なしに
+    - gefratoj: きょうだい（兄弟姉妹）
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: あなたは新しい教科書によって十分速くエスペラントを学ぶことができますか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - Ĉu: ～か？
+    - vi: あなたは
+    - povas: できる
+    - per: によって
+    - la: （定冠詞） 
+    - nova: 新しい
+    - lernolibro: 教科書
+    - sufiĉe: 十分に
+    - rapide: 速く
+    - lerni: 学ぶ
+    - Esperanton: エスペラントを
     - '?'

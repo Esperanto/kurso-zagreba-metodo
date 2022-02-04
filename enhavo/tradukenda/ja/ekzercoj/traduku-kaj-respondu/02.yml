@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: あなたの古い家はどんな様子でしたか？
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: どんな様子
+    - estis: でした
+    - via: あなたの
+    - malnova: 古い
+    - hejmo: 家 
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: どのような本をあなたは読みましたか、そしてそれらは良いですか。？
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: どのような 
+    - librojn: 本を（複数）
+    - vi: あなたは
+    - legis: 読んだ
+    - kaj: そして
+    - ĉu: ～か？
+    - ili: それら
+    - estas: である
+    - bonaj: 良い 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: アンナとマークはマークの小さな部屋の中で何をしましたか？
   rektatraduko:
-    - Kion: What
-    - faris: did do
-    - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - Kion: 何を
+    - faris: しました
+    - Anna: アンナ
+    - kaj: と
+    - Marko: マーク
+    - en: 中で 
+    - la: （定冠詞）
+    - malgranda: 小さな
+    - ĉambro: 部屋
+    - de: ～の
+    - Marko: マーク
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: あなたは愛についての本を読むのが好きですか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: ～か？
+    - vi: あなたは
+    - ŝatas: 好き
+    - legi: 読むことが
+    - librojn: 本を（複数）
+    - pri: ～についての
+    - amo: 愛
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: 誰があなたと一緒にあなたの家へ行きますか？
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: 誰が
+    - iros: 行くだろう
+    - kun: ～と一緒に
+    - vi: あなた
+    - al: ～へ 
+    - via: あなたの
+    - hejmo: 家
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: あなたのガールフレンドの目はどんな様子ですか？
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: どんな様子
+    - estas: である
+    - la: （定冠詞）
+    - okuloj: 目（複数）
+    - de: ～の
+    - via: あなたの
+    - amikino: ガールフレンド
     - '?'

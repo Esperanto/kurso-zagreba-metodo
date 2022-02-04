@@ -112,7 +112,10 @@ kunporti: 持参する
 kunulino: （女性の）仲間
 kunvenas: 寄り集まる
 laboristo: 勤労者
-lampeto: 小さなランプ
+lampeto: 小さなランプ:
+lasi:
+- 離す
+- そのままにしておく
 lernanto:
 - 生徒
 - 学生
@@ -246,6 +249,7 @@ sportisto: スポーツマン
 subakvigis: 水に沈めた
 subakviĝis: 水に沈んだ
 subite: 突然に
+suko: ジュース
 supren: 上へ
 surhavas: 身に着けている
 surlokan: その場の

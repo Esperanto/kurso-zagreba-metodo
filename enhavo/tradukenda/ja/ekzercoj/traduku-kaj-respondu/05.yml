@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly when someone is singing joyfully?
+  demando: 誰かが陽気に歌っているときに、あなたは落ち着いて勉強できますか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: ～か？
+    - vi: あなたは
+    - povas: できる
+    - trankvile: 落ち着いて
+    - lerni: 勉強する
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: ～の間に
+    - iu: 誰かが
+    - ĝoje: 陽気に
+    - kantas: 歌っている
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: 私たちがいつ・どこで再会するか、誰が知るだろうか？
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: 誰が
+    - scias: 知ってる
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: いつ 
+    - kaj: そして
+    - kie: どこで
+    - ni: 私たちが
+    - revidos: 再び見るだろう
+    - nin: お互いを
     - '?'
 -
-  demando: What time is it now?
+  demando: いま何時ですか？
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: どれだけの
+    - horo: 時間
+    - estas: である 
+    - nun: 今
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
+  demando: 誰かあなたがその古い家のドアを開けるのを助けたのですか？
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - Ĉu: ～か？
+    - iu: 誰か 
+    - helpis: 助けた 
+    - al: ～へ
+    - vi: あなた 
+    - malfermi: 開く 
+    - la: （定冠詞） 
+    - pordon: ドアを 
+    - de: の
+    - la: （定冠詞）
+    - malnova: 古い
+    - domo: 家の
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: なぜあなたには私の話にもっと長く耳を傾ける時間がないのですか？
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
+    - Kial: なぜ
+    - vi: あなたは
+    - ne: ～ない
+    - havas: 持っている
+    - tempon: 時間を
+    - aŭskulti: 耳を傾ける
+    - min: 私に
+    - pli: もっと
+    - longe: 長く
     - '?'

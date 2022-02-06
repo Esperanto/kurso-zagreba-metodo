@@ -1,75 +1,74 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: 何があなたのご両親をいちばん喜ばせることができるのでしょう？
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: 何が
+    - povus: できるだろう
+    - plej: いちばん
+    - ĝojigi: 喜ばせる
+    - viajn: あなたの
+    - gepatrojn: 両親を
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
+  demando: せめてあなたが学習のあとで私と市のセンターへ行っていたらなぁ！
   rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+    - Se: もし
+    - almenaŭ: 少なくとも
+    - vi: あなたは
+    - post: 後で
+    - la: （定冠詞） 
+    - lernado: 学習
+    - irus: 行ったなら
+    - kun: ～と
+    - mi: 私
+    - en: の中に
+    - la: （定冠詞） 
+    - urbocentron: 市のセンター
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: もしあなたが十分にお金と時間を持っているとしたら、どこへ旅行をしたいですか？
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: どこへ
+    - vi: あなたは
+    - dezirus: 望む
+    - vojaĝi: 旅行することを
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: もし
+    - vi: あなたが
+    - havus: 持っているなら
+    - sufiĉe: 十分に
+    - da: ～だけの
+    - mono: お金
+    - kaj: そして
+    - tempo: 時間
+    - '?'
+-  demando: あなたはパリへ車で旅行する計画なのですか、あるいは列車の方がずっと良いように見えないですか？
+  rektatraduko: 
+    - Ĉu: ～か？
+    - vi: あなたは
+    - planas: 計画する
+    - veturi: 旅行することを
+    - al: ～へ
+    - Parizo: パリ
+    - per: ～で
+    - aŭto: 車
+    - aŭ: あるいは
+    - ĉu: ～か？
+    - ne: でない
+    - ŝajnas: ～のように見える
+    - multe: 多く
+    - pli: もっと
+    - bone: 良く
+    - per: ～で
+    - vagonaro: 列車
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: なぜいろいろな人が同じことを違ったやり方で説明するのだろうか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
-    - '?'
-- 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+    - Kial: なぜ
+    - diversaj: いろいろな
+    - homoj: 人々が
+    - klarigas: 説明する
+    - samajn: 同じ
+    - ideojn: 意見を
+    - diversmaniere: 違ったやりかたで 
     - '?'

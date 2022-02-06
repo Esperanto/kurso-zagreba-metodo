@@ -55,14 +55,14 @@
     - atendas: 待つ
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: あなたはどんな男と一緒でも満足なのですか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: ～か？
+    - vi: あなたは
+    - estus: （仮に）である
+    - kontenta: 満足な
+    - kun: ～一緒で
+    - iu: どんな（人）
+    - ajn: であっても
+    - viro: 男
     - '?'

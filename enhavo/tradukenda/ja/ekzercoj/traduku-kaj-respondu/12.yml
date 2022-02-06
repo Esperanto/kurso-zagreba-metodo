@@ -1,58 +1,58 @@
 - 
-  demando: Will we see each other again, no matter where or when?
+  demando: 私たちはどこでもいつでもいいから再び会うことにしませんか？
   rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - Ĉu: ～か？
+    - ni: 私たちは
+    - revidos: 再び見る
+    - nin: 私たちを
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: どこ
+    - ajn: であろうと
+    - kaj: そして
+    - kiam: いつ
+    - ajn: であろうと
     - '?'
 - 
-  demando: When will I get back the other half of the books?
+  demando: いつ私は残りの半分の本を返してもらえますか？
   rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+    - Kiam: いつ
+    - mi: 私は 
+    - rericevos: 再び受け取るだろう
+    - la: （定冠詞）
+    - alian: 他の
+    - duonon: 半分を
+    - de: の
+    - la: （定冠詞）
+    - libroj: 本（複数）
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
+  demando: あなたはその仕事のために四分の一年よりもっと必要ですか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+    - Ĉu: ～か？
+    - vi: あなたは
+    - bezonos: 必要とするだろう
+    - pli: もっと
+    - ol: ～より
+    - kvaronan: 四分の一の
+    - jaron: 年を
+    - por: ために
+    - tiuj: それらの
+    - laboroj: 仕事
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: 私たちはなぜ長く待てば待つほどますます寒くなるのですか？
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: なぜ
+    - estas: である
+    - des: なおいっそう
+    - pli: もっと
+    - malvarma: 寒い
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: であればあるほど
+    - pli: もっと
+    - longe: 長く
+    - ni: 私たちは
+    - atendas: 待つ
     - '?'
 - 
   demando: Would you be happy with any man?

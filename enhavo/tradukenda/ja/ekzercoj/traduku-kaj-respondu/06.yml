@@ -1,72 +1,72 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: あなたは私の一番新しい本を見せて欲しいですか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: ～か？
+    - vi: あなたは
+    - deziras: 望む
     - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: ～ということを 
+    - mi: 私が
+    - montru: 示す
+    - al: ～へ
+    - vi: あなた
+    - mian: 私の
+    - plej: 一番
+    - novan: 新しい
+    - libron: 本を
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: 明日の朝食には何がいいですか？
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: 何を
+    - vi: あなたは
+    - volas: 欲しい
+    - morgaŭ: 明日の
+    - matenmanĝi: 朝食に
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: いつマルコは着くでしょうか、５時ですかそれとも８時ですか？
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: いつ
+    - Marko: マルコは
+    - alvenos: 着くだろう
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: に
+    - la: （定冠詞）
+    - kvina: ５
+    - aŭ: または
+    - je: に
+    - la: （定冠詞）
+    - oka: ８
+    - horo: 時
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: その家族みんなが私を恩人と呼ぶことにあなたはいつ気づきましたか？
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: いつ
+    - vi: あなたは
+    - rimarkis: 気づいた
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: ～ということを
+    - la: （定冠詞）
+    - tuta: 全部
+    - familio: 家族
+    - nomas: 呼ぶ
+    - min: 私を
+    - bonfarulo: 恩人
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: 私が送った小冊子はあなたの役に立ちますか？
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: ～か？
+    - la: （定冠詞） 
+    - libreto: 小冊子
+    - estis: である
+    - utila: 役に立つ
+    - al: ～に
+    - vi: あなた
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: それを
+    - mi: 私が 
+    - sendis: 送った
     - '?'

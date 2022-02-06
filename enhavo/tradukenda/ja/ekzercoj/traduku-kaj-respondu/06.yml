@@ -20,8 +20,8 @@
   rektatraduko: 
     - Kion: 何を
     - vi: あなたは
-    - volas: 欲しい
-    - morgaŭ: 明日の
+    - volas: 欲する
+    - morgaŭ: 明日
     - matenmanĝi: 朝食に
     - '?'
 - 
@@ -56,12 +56,12 @@
     - bonfarulo: 恩人
     - '?'
 - 
-  demando: 私が送った小冊子はあなたの役に立ちますか？
+  demando: 私が送った小冊子はあなたの役に立ちました？
   rektatraduko: 
     - Ĉu: ～か？
     - la: （定冠詞） 
     - libreto: 小冊子
-    - estis: である
+    - estis: であった
     - utila: 役に立つ
     - al: ～に
     - vi: あなた

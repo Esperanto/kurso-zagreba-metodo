@@ -1,86 +1,86 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: 昼食の後は誰が台所をきれいにするのですか？
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+    - Kiu: 誰が
+    - purigos: きれいにするだろう
+    - la: （定冠詞）
+    - kuirejon: 台所を
+    - post: 後で
+    - la: （定冠詞）
+    - tagmanĝo: 昼食
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: あなたは何を飲みたいですか？お茶、いくらかのコーヒーあるいは何もいらないですか？
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: 何を
+    - vi: あなたは
+    - volas: 欲する
+    - trinki: 飲むことを
     - ':' 
-    - teon: tea
+    - teon: 茶
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: いくらか
+    - da: の
+    - kafo: コーヒー
+    - aŭ: または
+    - ĉu: ～か？
+    - vi: あなたは
+    - volas: 欲する
+    - nenion: なにもない
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: どうしてそんなに急にあなたの小部屋を修繕することにしたのですか？
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: なぜ
+    - vi: あなたは
+    - tiel: そのように
+    - subite: 突然に
+    - decidis: 決めた
+    - renovigi: 修繕する
+    - vian: あなたの
+    - ĉambreton: 小部屋を
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: あなたは誰にあのきれいなワイングラスをあげたのですか？
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+    - Al: ～に
+    - kiu: 誰
+    - vi: あなたは
+    - donis: 与えた
+    - la: （定冠詞）
+    - purajn: きれいな（複数）
+    - glasojn: グラスを（複数）
+    - por: ～のために 
+    - la: （定冠詞）
+    - vino: ワイン
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: あなたのスポーツクラブは二週間前、誰と試合したのですか？
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+    - Kontraŭ: ～に対抗して
+    - kiu: 誰の
+    - ludis: プレーした
+    - via: あなたの
+    - sportklubo: スポーツクラブが
+    - antaŭ: 前
+    - du: 二
+    - semajnoj: 週
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: アパートであなたの上の方に住んでいる警察官をあなたはよく見ますか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: ～か？
+    - vi: あなたは
+    - ofte: たびたび
+    - vidas: 見ます
+    - la: （定冠詞）
+    - policiston: 警察官を
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: その人は
+    - loĝas: 住んでいる
+    - en: の中に
+    - la: （定冠詞）
+    - loĝejo: 住居・アパート
+    - super: ～の上の方に
+    - vi: あなた
     - '?'

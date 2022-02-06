@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: あなたは私の姉妹の薬を持ってくることができますか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - Ĉu: ～か？
+    - vi: あなたは
+    - povas: できる
+    - kunporti: 持参する
+    - la: （定冠詞）
+    - sanigilon: 薬
+    - de: の
+    - mia: 私の
+    - fratino: 姉妹
     - '?'
 - 
-  demando: When did you buy that music instrument?
+  demando: あなたはいつその楽器を買ったのですか？
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+    - Kiam: いつ
+    - vi: あなたは
+    - aĉetis: 買った
+    - tiun: その
+    - muzikilon: 楽器を
     - '?'
 - 
-  demando: Who did use my key the last time?
+  demando: 誰が私の鍵を最後に使ったのだ？
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - Kiu: 誰が
+    - laste: 最後に
+    - uzis: 使った
+    - mian: 私の
+    - ŝlosilon: 鍵を
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: あなたはヴェネツィアではゴンドラでも旅をしましたか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - Ĉu: ～か？
+    - vi: あなたは
+    - en: ～の中で
+    - Venecio: ヴェネツィア
+    - veturis: 旅をする
+    - ankaŭ: もまた
+    - per: によって
+    - gondolo: ゴンドラ
     - '?'
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: あなたは静かになったときは眠りにつくことができますか？
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: ～か？
+    - vi: あなたは
+    - povos: できる
+    - ekdormi: 眠りにつく
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+    - kiam: ～の時 
+    - silentiĝis: 静かになった
     - '?'

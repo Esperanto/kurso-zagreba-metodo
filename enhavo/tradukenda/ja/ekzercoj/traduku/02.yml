@@ -1,26 +1,48 @@
 - eniri: 
-  - to go in
-  - to enter
+  - はいる
+  - 入る
 - enhavo: 
-  - contents
-  - content
+  - ないよう
+  - 内容
 - kunsido:
-  - meeting
-  - session
-- malbona: bad
+  - かいごう
+  - 会合
+  - 会議
+- malbona:
+  - わるい
+  - 悪い
 - kunveno: 
-  - meeting
-  - assembly
-- malfacila: difficult
-- maljuna: old
-- gepatroj: parents
-- alveni: arrive
+  - かいごう
+  - 会合
+  - 集まり
+- malfacila:
+  - むずかしい
+  - 難しい
+- maljuna:
+  - としをとった
+  - 年をとった
+  - 年寄りの
+- gepatroj:
+  - りょうしん
+  - 両親
+- alveni: 
+  - つく
+  - 着く
+  - 到着する
 - bonvena:
-  - welcome
-  - welcoming
-- gefratoj: siblings
-- trinkmono: tip
-- malami: to hate
+  - かんげいすべき
+  - 歓迎すべき
+- gefratoj: 
+  - きょうだい
+  - 兄弟姉妹
+- trinkmono:
+  - チップ
+  - 心付け
+  - 酒手
+- malami: 
+  - にくむ
+  - 憎む
 - kunlabori:
-  - to collaborate
-  - to work together
+  - きょうりょくする
+  - 協力する
+  - 共同作業をする

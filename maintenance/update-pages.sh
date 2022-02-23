@@ -1,7 +1,7 @@
 git push
 
 # Create pages for
-# http://learn.esperanto.com/
+# http://esperanto12.net/
 git checkout root-pages
 git merge master -m "Merge from master."
 python generate.py /

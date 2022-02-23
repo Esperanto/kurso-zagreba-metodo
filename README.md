@@ -8,7 +8,7 @@ Tiel oni facile kaj rapide povos krei eldonaĵojn de la kurso en HTML, EPUB, PDF
 
 ## Demonstraĵo
 
-- https://learn.esperanto.com/
+- https://esperanto12.net/
 
 ## Kiel krei eligon
 ### HTML

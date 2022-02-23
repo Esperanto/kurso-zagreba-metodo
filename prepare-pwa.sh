@@ -12,7 +12,7 @@ for file in `find html/output/ -name \*.html`; do sed -i -r "s@src=\"/@src=\"$ba
 for file in `find html/output/ -name \*.html`; do sed -i -r "s@href=\"/@href=\"$baselink@g" $file ; done 
 cp -r projects/PWA/Images html/output/images
 cp -r projects/PWA/manifest.json html/output/manifest.json
-sed -i "s@https://learn.esperanto.com/@$baselink@" html/output/manifest.json
+sed -i "s@https://esperanto12.net/@$baselink@" html/output/manifest.json
 sed -i 's@/images@images@' html/output/manifest.json
 (cd html/output/ ; wget https://raw.githubusercontent.com/boyofgreen/ManUp.js/master/manup.js)
 cp projects/serviceWorker2/* html/output/

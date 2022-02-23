@@ -1,7 +1,7 @@
 {% extends "layout.html" %}
 
 {% block title %}
-  {{ enhavo.fasado['Lerni Esperanton'] or enhavo.fasado['Esperanto en 12 tagoj'] }}
+  {{ enhavo.fasado['Lerni Esperanton'] or enhavo.fasado['Esperanto en 12 lecionoj'] }}
 	|
   {{enhavo.fasado['La plej rapida kurso por la bazoj']}}
 {% endblock %}
@@ -10,7 +10,7 @@
 
 <div dir="{{ enhavo.tekstodirekto}}">
 
-  <h1>{{enhavo.fasado['Esperanto en 12 tagoj']}}</h1>
+  <h1>{{enhavo.fasado['Esperanto en 12 lecionoj']}}</h1>
   <h3>{{enhavo.fasado['La plej rapida kurso por la bazoj']}}</h3>
 
   {{enhavo.enkonduko|markdown}}

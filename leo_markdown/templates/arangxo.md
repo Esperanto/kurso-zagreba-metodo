@@ -1,5 +1,5 @@
 ---
-title: {{ enhavo.fasado['Lerni Esperanton'] or enhavo.fasado['Esperanto en 12 tagoj'] }}
+title: {{ enhavo.fasado['Lerni Esperanton'] or enhavo.fasado['Esperanto en 12 lecionoj'] }}
 subtitle: {{enhavo.fasado['La plej rapida kurso por la bazoj']}}
 documentclass: scrartcl
 lang: {{ enhavo.lingvo }}

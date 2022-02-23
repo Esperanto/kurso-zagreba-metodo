@@ -57,7 +57,7 @@ Plej bonas komenci kun la ekzercoj:
 
 #### Ekzerco 1 
 
-1. Iru al `/ekzercoj/traduku` kaj malfermu `01.yml`. Nun vi vidas la fontdosieron de la [unua ekzerco](http://learn.esperanto.com/en/01/ekzerco1/)
+1. Iru al `/ekzercoj/traduku` kaj malfermu `01.yml`. Nun vi vidas la fontdosieron de la [unua ekzerco](https://esperanto12.net/en/01/ekzerco1/)
 2. Traduku nun la Esperantajn vortojn al la nova lingvo:
    - Forigu la anglajn vortojn
    - en ilia loko, entajpu la vortojn de la nova lingvo
@@ -82,7 +82,7 @@ Same, traduku ĉiujn dosierojn en `/vortaro`.
 
 #### Ekzerco 3
 
-En `/ekzercoj/traduku-kaj-respondu`, ni tradukas la [trian ekzercon](http://learn.esperanto.com/en/01/ekzerco3/). Por ĉiu traduko, vi vidas 2 linojn:
+En `/ekzercoj/traduku-kaj-respondu`, ni tradukas la [trian ekzercon](https://esperanto12.net/en/01/ekzerco3/). Por ĉiu traduko, vi vidas 2 linojn:
 
     demando:
     rektatraduko:

@@ -10,7 +10,7 @@
 - 
   demando: どのような本をあなたは読みましたか、そしてそれらは良いですか。？
   rektatraduko: 
-    - Kiujn: どのような 
+    - Kiujn: どのような（複数）
     - librojn: 本を（複数）
     - vi: あなたは
     - legis: 読んだ
@@ -60,7 +60,7 @@
 - 
   demando: あなたのガールフレンドの目はどんな様子ですか？
   rektatraduko: 
-    - Kiaj: どんな様子
+    - Kiaj: どんな様子（複数）
     - estas: である
     - la: （定冠詞）
     - okuloj: 目（複数）

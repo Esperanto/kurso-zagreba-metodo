@@ -2,7 +2,7 @@
   demando: 何があなたのご両親をいちばん喜ばせることができるのでしょう？
   rektatraduko: 
     - Kio: 何が
-    - povus: できるだろう
+    - povus: （仮に）できるだろうか
     - plej: いちばん
     - ĝojigi: 喜ばせる
     - viajn: あなたの
@@ -17,24 +17,24 @@
     - post: 後で
     - la: （定冠詞） 
     - lernado: 学習
-    - irus: 行ったなら
+    - irus: （仮に）行っていたらなぁ
     - kun: ～と
     - mi: 私
     - en: の中に
     - la: （定冠詞） 
-    - urbocentron: 市のセンター
+    - urbocentron: 市のセンターへ
     - '!'
 - 
   demando: もしあなたが十分にお金と時間を持っているとしたら、どこへ旅行をしたいですか？
   rektatraduko: 
     - Kien: どこへ
     - vi: あなたは
-    - dezirus: 望む
+    - dezirus: （仮に）望む
     - vojaĝi: 旅行することを
     - ',' 
     - se: もし
     - vi: あなたが
-    - havus: 持っているなら
+    - havus: （仮に）持っているとしたら
     - sufiĉe: 十分に
     - da: ～だけの
     - mono: お金
@@ -42,7 +42,7 @@
     - tempo: 時間
     - '?'
 -
-  demando: あなたはパリへ車で旅行する計画なのですか、あるいは列車の方がずっと良いように見えないですか？
+  demando: あなたはパリへ車で旅行する計画なのですか、あるいは列車の方がずっと良いように思えないですか？
   rektatraduko: 
     - Ĉu: ～か？
     - vi: あなたは
@@ -55,8 +55,8 @@
     - aŭ: あるいは
     - ĉu: ～か？
     - ne: でない
-    - ŝajnas: ～のように見える
-    - multe: 多く
+    - ŝajnas: ～のように思える
+    - multe: 多く（ずっと）
     - pli: もっと
     - bone: 良く
     - per: ～で
@@ -71,5 +71,5 @@
     - klarigas: 説明する
     - samajn: 同じ
     - ideojn: 意見を
-    - diversmaniere: 違ったやりかたで 
+    - diversmaniere: 様々なやりかたで 
     - '?'

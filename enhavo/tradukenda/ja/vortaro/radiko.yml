@@ -55,7 +55,9 @@ edz: 配偶者
 efektiv: 実際に
 ekskurs: 遠足
 esper: 希望する
-est: 存在する
+est:
+- 存在する
+- ～である
 facil: やさしい
 fakt: 事実
 fal: 落ちる
@@ -66,7 +68,7 @@ far:
 fart:
 - …な健康状態にある
 - 体調
-feliĉ: 幸せなy
+feliĉ: 幸せな
 ferm: 閉じる 
 fin: 終える
 flank: 脇の

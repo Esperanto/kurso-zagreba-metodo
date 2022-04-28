@@ -6,7 +6,16 @@
   margin-bottom: 5em;
 }
 
+body {
+	font-size: 18px;
+	line-height: 30px;
+}
+
 /* popover */
+.popover-title,
+.popover-content {
+	font-size: 18px;
+}
 .popover-content table {
     border-spacing: 0.5em;
     border-collapse: separate;    

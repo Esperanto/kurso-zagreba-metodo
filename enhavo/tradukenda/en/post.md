@@ -1,5 +1,7 @@
 # Community
 
+*(For ressources in other languages, change the language in the menu.)*
+
 * [Duolingo Esperanto Learners Facebook Group](https://www.facebook.com/groups/duolingo.esperanto.learners/)
 * [Celebrity Esperanto AMAs](https://duolinguists.wordpress.com/celebrity-esperanto-amas) (Ask Me Anything)
 * [Telegram Esperanto chat](http://www.telegramo.org/)

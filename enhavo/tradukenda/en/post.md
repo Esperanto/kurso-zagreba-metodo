@@ -1,7 +1,3 @@
-<-- 
-Ne montru nun, ĉar ne estas multe da aliaj lingvoj kun tiu informo.
-*(For ressources in other languages, change the language in the menu.)* -->
-
 # Community
 
 * [Duolingo Esperanto Learners Facebook Group](https://www.facebook.com/groups/duolingo.esperanto.learners/)

@@ -1,4 +1,6 @@
-*(For ressources in other languages, change the language in the menu.)*
+<-- 
+Ne montru nun, ĉar ne estas multe da aliaj lingvoj kun tiu informo.
+*(For ressources in other languages, change the language in the menu.)* -->
 
 # Community
 

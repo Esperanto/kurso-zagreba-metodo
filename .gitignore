@@ -1,7 +1,7 @@
+*.pyc
+/__pycache__
+/agordoj/auxtoroj-lingvoj.yml
+/html_generiloj/output/
+/maintenance/*.txt
 /pad
 /venv
-/maintenance/*.txt
-/html_generiloj/output/
-/agordoj/auxtoroj-lingvoj.yml
-/__pycache__
-*.pyc

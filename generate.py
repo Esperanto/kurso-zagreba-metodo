@@ -17,7 +17,9 @@ for ch in "OoYyNn":
         del Resolver.yaml_implicit_resolvers[ch]
     else:
         Resolver.yaml_implicit_resolvers[ch] = [x for x in
-                Resolver.yaml_implicit_resolvers[ch] if x[0] != 'tag:yaml.org,2002:bool']
+                                                Resolver.yaml_implicit_resolvers[ch] if
+                                                x[0] != 'tag:yaml.org,2002:bool']
+
 
 def transpose_headlines(markdown, level):
     prefix = ''

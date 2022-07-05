@@ -40,9 +40,7 @@ def get_markdown_headlines(s):
 
 def load(language, gramatiko_transpose_headlines = 2):
 
-    enhavo = {}
-    enhavo['lingvo'] = language
-    enhavo['vortaro'] = {}
+    enhavo = {'lingvo': language, 'vortaro': {}}
 
     paths = glob.glob('enhavo/tradukenda/' + language + '/vortaro/*.yml')
     # Provo solvi

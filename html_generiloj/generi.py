@@ -2,13 +2,14 @@
 # -*- coding: utf-8 -*-
 
 import os
-import shutil
 import re
-import yaml, jinja2, mistune
+import shutil
 
-import sys
-#sys.path = ['./genanki'] + sys.path
+# sys.path = ['./genanki'] + sys.path
 import genanki
+import jinja2
+import mistune
+
 
 def render_page(name, enhavo, vojprefikso, env, output_path):
 

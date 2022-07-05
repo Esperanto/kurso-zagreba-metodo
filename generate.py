@@ -31,24 +31,22 @@ def transpose_headlines(markdown, level):
 
 
 def get_markdown_headlines(s):
-
     headlines = []
-    for match in  re.finditer(r'(^|\n)# (.+)\n', s):
+    for match in re.finditer(r'(^|\n)# (.+)\n', s):
         headlines.append(match.group(2).strip())
 
     return headlines
 
 
-def load(language, gramatiko_transpose_headlines = 2):
-
+def load(language, gramatiko_transpose_headlines=2):
     enhavo = {'lingvo': language, 'vortaro': {}}
 
     paths = glob.glob('enhavo/tradukenda/' + language + '/vortaro/*.yml')
     # Provo solvi
     # https://github.com/Esperanto/kurso-zagreba-metodo/issues/36
     # sed kauzas aliajn problemojn.
-    #paths.append('enhavo/tradukenda/en/vortaro/vorto.yml')
-    #print(paths)
+    # paths.append('enhavo/tradukenda/en/vortaro/vorto.yml')
+    # print(paths)
     for path in paths:
         dirs, filename = os.path.split(path)
         root, extension = os.path.splitext(filename)
@@ -68,7 +66,8 @@ def load(language, gramatiko_transpose_headlines = 2):
     enhavo['ordoj']['cifero'] = yaml.load(open('enhavo/netradukenda/ordoj/cifero.yml'), yaml.Loader)
     enhavo['ordoj']['monato'] = yaml.load(open('enhavo/netradukenda/ordoj/monato.yml'), yaml.Loader)
     enhavo['ordoj']['sezono'] = yaml.load(open('enhavo/netradukenda/ordoj/sezono.yml'), yaml.Loader)
-    enhavo['ordoj']['tago_en_la_semajno'] = yaml.load(open('enhavo/netradukenda/ordoj/tago_en_la_semajno.yml'), yaml.Loader)
+    enhavo['ordoj']['tago_en_la_semajno'] = yaml.load(open('enhavo/netradukenda/ordoj/tago_en_la_semajno.yml'),
+                                                      yaml.Loader)
 
     enhavo['fasado'] = {}
     paths = glob.glob('enhavo/tradukenda/' + language + '/fasado/*.yml')
@@ -78,17 +77,17 @@ def load(language, gramatiko_transpose_headlines = 2):
 
     path = 'enhavo/tradukenda/' + language + '/enkonduko.md'
     enkonduko = open(path).read()
-    #enkonduko = transpose_headlines(enkonduko, 1)
+    # enkonduko = transpose_headlines(enkonduko, 1)
     enhavo['enkonduko'] = enkonduko
 
     path = 'enhavo/tradukenda/' + language + '/post.md'
     enhavo['post'] = open(path).read()
-    enhavo['post'] = transpose_headlines(enhavo['post'] , 2)
+    enhavo['post'] = transpose_headlines(enhavo['post'], 2)
 
     lecionoj = []
     vortoj = {}
 
-    for i in range(1,13):
+    for i in range(1, 13):
         leciono = {
             'teksto': None,
             'gramatiko': None,
@@ -151,7 +150,6 @@ def load(language, gramatiko_transpose_headlines = 2):
 
         path = 'enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/' + i_padded + '.yml'
         ekzercoj['Kompletigu la frazojn'] = yaml.load(open(path), yaml.Loader)
-
 
         # Covert from dict to list.
         leciono['ekzercoj'] = ekzercoj
@@ -228,4 +226,3 @@ def main():
 
 
 main()
-

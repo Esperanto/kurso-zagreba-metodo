@@ -162,8 +162,7 @@ def load(language, gramatiko_transpose_headlines = 2):
     return enhavo
 
 
-def main():
-    global args
+def get_cmdline_arguments():
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "-l",
@@ -205,6 +204,12 @@ def main():
         type=str
     )
     args = ap.parse_args()
+
+    return args
+
+
+def main():
+    args = get_cmdline_arguments()
     lingvoj = yaml.load(open('agordoj/lingvoj.yml').read(), yaml.Loader)
     if args.eligformo == 'html':
         # if args.lingvo not in lingvoj.keys():
@@ -222,3 +227,4 @@ def main():
 
 
 main()
+

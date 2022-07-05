@@ -161,66 +161,64 @@ def load(language, gramatiko_transpose_headlines = 2):
 
     return enhavo
 
-ap = argparse.ArgumentParser()
 
-ap.add_argument(
-    "-l",
-    "--lingvo",
-    help="Kreu eligon nur por tiu lingvo. Norme: Kreu por ĉiujn.",
-    type=str,
-    required=True
-)
+def main():
+    global args
+    ap = argparse.ArgumentParser()
+    ap.add_argument(
+        "-l",
+        "--lingvo",
+        help="Kreu eligon nur por tiu lingvo. Norme: Kreu por ĉiujn.",
+        type=str,
+        required=True
+    )
+    ap.add_argument(
+        "-ef",
+        "--eligformo",
+        help="La eligoformo",
+        type=str,
+        choices=['html', 'md'],
+        default='html'
+    )
+    ap.add_argument(
+        "-pp",
+        "--printendaj-partoj",
+        help="Printendaj partoj",
+        type=str,
+        choices=['teksto', 'vortoj', 'gramatiko', 'ekzerco1', 'ekzerco2', 'ekzerco3', 'solvo1', 'solvo2', 'solvo3'],
+        default=['teksto', 'vortoj', 'gramatiko', 'ekzerco1', 'ekzerco2', 'ekzerco3', 'solvo1', 'solvo2', 'solvo3'],
+        nargs='*'
+    )
+    ap.add_argument(
+        "-pl",
+        "--printendaj-lecionoj",
+        help="Printendaj lecionoj",
+        type=int,
+        choices=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+        default=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+        nargs='*'
+    )
+    ap.add_argument(
+        "-vp",
+        "--vojprefikso",
+        help="La vojprefikso por ĉiuj ligiloj en la eligo. Norme: /[lingvokodo]/",
+        type=str
+    )
+    args = ap.parse_args()
+    lingvoj = yaml.load(open('agordoj/lingvoj.yml').read(), yaml.Loader)
+    if args.eligformo == 'html':
+        # if args.lingvo not in lingvoj.keys():
+        #    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
+        enhavo = load(args.lingvo)
+        enhavo['lingvoj'] = lingvoj
+        enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
+        html_generiloj.generi.generate_html(args.lingvo, enhavo, args)
+    if args.eligformo == 'md':
+        enhavo = load(args.lingvo, 3)
+        enhavo['lingvoj'] = lingvoj
+        enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
+        leo_markdown.package.kreu_md(enhavo, printendaj={'partoj': args.printendaj_partoj,
+                                                         'lecionoj': args.printendaj_lecionoj})
 
-ap.add_argument(
-    "-ef",
-    "--eligformo",
-    help="La eligoformo",
-    type=str,
-    choices=['html', 'md'],
-    default='html'
-)
 
-ap.add_argument(
-    "-pp",
-    "--printendaj-partoj",
-    help="Printendaj partoj",
-    type=str,
-    choices=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvo1', 'solvo2', 'solvo3'],
-    default=['teksto','vortoj','gramatiko','ekzerco1','ekzerco2','ekzerco3','solvo1', 'solvo2', 'solvo3'],
-    nargs='*'
-)
-
-ap.add_argument(
-    "-pl",
-    "--printendaj-lecionoj",
-    help="Printendaj lecionoj",
-    type=int,
-    choices=[1,2,3,4,5,6,7,8,9,10,11,12],
-    default=[1,2,3,4,5,6,7,8,9,10,11,12],
-    nargs='*'
-)
-
-ap.add_argument(
-    "-vp",
-    "--vojprefikso",
-    help="La vojprefikso por ĉiuj ligiloj en la eligo. Norme: /[lingvokodo]/",
-    type=str
-)
-
-args = ap.parse_args()
-
-lingvoj = yaml.load(open('agordoj/lingvoj.yml').read(), yaml.Loader)
-
-if args.eligformo == 'html':
-    #if args.lingvo not in lingvoj.keys():
-    #    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
-    enhavo = load(args.lingvo)
-    enhavo['lingvoj'] = lingvoj
-    enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-    html_generiloj.generi.generate_html(args.lingvo, enhavo, args)
-
-if args.eligformo == 'md':
-    enhavo = load(args.lingvo, 3)
-    enhavo['lingvoj'] = lingvoj
-    enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-    leo_markdown.package.kreu_md(enhavo, printendaj = { 'partoj': args.printendaj_partoj, 'lecionoj': args.printendaj_lecionoj } )
+main()

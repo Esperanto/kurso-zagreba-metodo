@@ -6,7 +6,6 @@ from yaml.resolver import Resolver
 import glob
 import re
 import os
-import sys
 import argparse
 import html_generiloj
 import leo_markdown

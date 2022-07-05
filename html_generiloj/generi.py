@@ -7,7 +7,7 @@ import re
 import yaml, jinja2, mistune
 
 import sys
-sys.path = ['./genanki'] + sys.path
+#sys.path = ['./genanki'] + sys.path
 import genanki
 
 def render_page(name, enhavo, vojprefikso, env, output_path):

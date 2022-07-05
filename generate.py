@@ -54,7 +54,7 @@ def load(language, gramatiko_transpose_headlines = 2):
         dirs, filename = os.path.split(path)
         root, extension = os.path.splitext(filename)
         vortspeco = root.replace('_', ' ')
-        vortlisto = yaml.load(open(path).read())
+        vortlisto = yaml.load(open(path).read(), yaml.Loader)
         for esperante in vortlisto:
             fontlingve = vortlisto[esperante]
             vortlisto[esperante] = {
@@ -63,18 +63,18 @@ def load(language, gramatiko_transpose_headlines = 2):
             }
         enhavo['vortaro'].update(vortlisto)
 
-    enhavo['finajxoj'] = yaml.load(open('enhavo/netradukenda/radikaj_finajxoj.yml').read())
+    enhavo['finajxoj'] = yaml.load(open('enhavo/netradukenda/radikaj_finajxoj.yml').read(), yaml.Loader)
 
     enhavo['ordoj'] = {}
-    enhavo['ordoj']['cifero'] = yaml.load(open('enhavo/netradukenda/ordoj/cifero.yml'))
-    enhavo['ordoj']['monato'] = yaml.load(open('enhavo/netradukenda/ordoj/monato.yml'))
-    enhavo['ordoj']['sezono'] = yaml.load(open('enhavo/netradukenda/ordoj/sezono.yml'))
-    enhavo['ordoj']['tago_en_la_semajno'] = yaml.load(open('enhavo/netradukenda/ordoj/tago_en_la_semajno.yml'))
+    enhavo['ordoj']['cifero'] = yaml.load(open('enhavo/netradukenda/ordoj/cifero.yml'), yaml.Loader)
+    enhavo['ordoj']['monato'] = yaml.load(open('enhavo/netradukenda/ordoj/monato.yml'), yaml.Loader)
+    enhavo['ordoj']['sezono'] = yaml.load(open('enhavo/netradukenda/ordoj/sezono.yml'), yaml.Loader)
+    enhavo['ordoj']['tago_en_la_semajno'] = yaml.load(open('enhavo/netradukenda/ordoj/tago_en_la_semajno.yml'), yaml.Loader)
 
     enhavo['fasado'] = {}
     paths = glob.glob('enhavo/tradukenda/' + language + '/fasado/*.yml')
     for path in paths:
-        tradukajxoj = yaml.load(open(path).read())
+        tradukajxoj = yaml.load(open(path).read(), yaml.Loader)
         enhavo['fasado'].update(tradukajxoj)
 
     path = 'enhavo/tradukenda/' + language + '/enkonduko.md'
@@ -103,7 +103,7 @@ def load(language, gramatiko_transpose_headlines = 2):
         }
 
         path = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
-        leciono['teksto'] = yaml.load(open(path).read())
+        leciono['teksto'] = yaml.load(open(path).read(), yaml.Loader)
 
         # Create a string of the lesson titles.
         titolo_string = ''
@@ -120,7 +120,7 @@ def load(language, gramatiko_transpose_headlines = 2):
         leciono['vortoj']['pliaj'] = []
 
         path = 'enhavo/netradukenda/vortoj/' + i_padded + '.yml'
-        leciono['vortoj']['pliaj'] = yaml.load(open(path).read())
+        leciono['vortoj']['pliaj'] = yaml.load(open(path).read(), yaml.Loader)
 
         for paragrafo in leciono['teksto']['paragrafoj']:
             for vorto in paragrafo:
@@ -145,13 +145,13 @@ def load(language, gramatiko_transpose_headlines = 2):
         ekzercoj = {}
 
         path = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku/' + i_padded + '.yml'
-        ekzercoj['Traduku'] = yaml.load(open(path))
+        ekzercoj['Traduku'] = yaml.load(open(path), yaml.Loader)
 
         path = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku-kaj-respondu/' + i_padded + '.yml'
-        ekzercoj['Traduku kaj respondu'] = yaml.load(open(path))
+        ekzercoj['Traduku kaj respondu'] = yaml.load(open(path), yaml.Loader)
 
         path = 'enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/' + i_padded + '.yml'
-        ekzercoj['Kompletigu la frazojn'] = yaml.load(open(path))
+        ekzercoj['Kompletigu la frazojn'] = yaml.load(open(path), yaml.Loader)
 
 
         # Covert from dict to list.
@@ -211,7 +211,7 @@ ap.add_argument(
 
 args = ap.parse_args()
 
-lingvoj = yaml.load(open('agordoj/lingvoj.yml').read())
+lingvoj = yaml.load(open('agordoj/lingvoj.yml').read(), yaml.Loader)
 
 if args.eligformo == 'html':
     #if args.lingvo not in lingvoj.keys():

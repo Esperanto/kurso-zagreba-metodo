@@ -11,7 +11,7 @@ import jinja2
 import mistune
 
 
-def render_page(name, enhavo, vojprefikso, env, output_path):
+def render_page(name, enhavo, vojprefikso, env):
 
     rendered = env.get_template(name + '.html').render(
       enhavo = enhavo,
@@ -162,7 +162,7 @@ def generate_html(lingvo, enhavo, args):
     eligo[output_path + 'eksporto/' + enhavo['lingvo'] + '.apkg'] = create_anki(enhavo)
 
     for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post']:
-        eligo[output_path + tab_page + '/index.html'] = render_page(tab_page, enhavo, vojprefikso, env, output_path)
+        eligo[output_path + tab_page + '/index.html'] = render_page(tab_page, enhavo, vojprefikso, env)
 
     paths = []
     for i in range(1, 13):

@@ -167,7 +167,7 @@ def get_cmdline_arguments():
     ap.add_argument(
         "-l",
         "--lingvo",
-        help="Kreu eligon nur por tiu lingvo. Norme: Kreu por ĉiujn.",
+        help="Kreu eligon por tiu lingvo.",
         type=str,
         required=True
     )

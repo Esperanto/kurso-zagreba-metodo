@@ -2,21 +2,21 @@
 
 * [Duolingo Esperanto Learners Facebook Group](https://www.facebook.com/groups/duolingo.esperanto.learners/)
 * [Celebrity Esperanto AMAs](https://duolinguists.wordpress.com/celebrity-esperanto-amas) (Ask Me Anything)
-* [Telegram Esperanto chat](http://www.telegramo.org/)
-* [Pasporta Servo: Esperanto Hosts](http://pasportaservo.org/)
-* [Introductory Esperanto-USA offer](http://bit.ly/2ce8Ok8)
+* [Telegram Esperanto chat](https://www.telegramo.org/)
+* [Pasporta Servo: Esperanto Hosts](https://pasportaservo.org/)
+* [Introductory Esperanto-USA offer](https://bit.ly/2ce8Ok8)
 
 # Esperanto Speaker Maps
 
-* [Amikumu](http://www.amikumu.com/)
-* [Esperantujo.directory](http://esperantujo.directory/)
+* [Amikumu](https://www.amikumu.com/)
+* [Esperantujo.directory](https://esperantujo.directory/)
 * [Duolingo-Esperantistoj](https://www.google.com/maps/d/u/0/edit?mid=zHwhupZfxV_M.kEbZgnHaKo-o) (World Map)
-* [Esperanto in the USA](/google-map-for-esperanto-in-the-us-http-bit-ly-eousa)
+* [Esperanto in the USA](https://bit.ly/EoUSA)
 
 # Events
 
-* [Guide to the Main International Esperanto Events](http://whistlinginthewind.org/2015/09/01/a-guide-to-the-main-international-esperanto-events/)
-* [Calendar of Esperanto Events](http://www.eventoj.hu/kalendaro.htm)
+* [Guide to the Main International Esperanto Events](https://whistlinginthewind.org/2015/09/01/a-guide-to-the-main-international-esperanto-events/)
+* [Calendar of Esperanto Events](https://www.eventoj.hu/kalendaro.htm)
 
 # More
 

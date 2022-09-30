@@ -1,7 +1,7 @@
 - Bạn sẽ học được **500 từ quan trọng nhất** của Esperanto
-- **Không cần đăng ký gì cả**: Chỉ cần bấm nút *Bắt đầu*
-- Tối ưu cho việc **sử dụng trên điện thoại di động**
-- Không chỉ được học miễn phí, bạn cũng có thể **[thoải mái sử dụng trong các dự án khác](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- **Không cần đăng ký**: Chỉ cần bấm nút *Bắt đầu*
+- Tối ưu cho việc học **trên điện thoại di động**
+- Không chỉ được học miễn phí, bạn cũng có thể **[sử dụng bài học trong các dự án khác](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
 Khoá học bao gồm **12 bài**, mỗi bài sẽ có:
 
@@ -9,5 +9,7 @@ Khoá học bao gồm **12 bài**, mỗi bài sẽ có:
 - phần giải thích ngữ pháp
 - và 3 bài tập thực hành.
 
-Sau khi hoàn thành xong khoá học, bạn sẽ hiểu được những điểm quan trọng nhất của các văn bản Esperanto và có thể đặt câu dễ dàng. Hãy bắt đầu ngay bây giờ nào!
+Sau khi hoàn thành khoá học, bạn sẽ nắm được các ý chính của một văn bản bằng tiếng Esperanto và có thể đặt câu dễ dàng.
+
+Chần chờ gì nữa, bắt đầu ngay đi nào!
 

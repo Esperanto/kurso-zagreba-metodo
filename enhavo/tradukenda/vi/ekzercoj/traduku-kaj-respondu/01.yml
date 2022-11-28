@@ -1,5 +1,5 @@
 - 
-  demando: Cô bạn của cậu là ai vậy?
+  demando: Cô bạn của cậu là ai?
   rektatraduko:
     - Kiu: Ai
     - estas: là
@@ -7,9 +7,9 @@
     - amikino: cô bạn
     - '?'
 - 
-  demando: Có phải cô bạn Anna của cậu bây giờ đang viết ở trong phòng không?
+  demando: Cô bạn Anna của cậu bây giờ đang viết ở trong phòng phải không?
   rektatraduko:
-    - Ĉu: Có phải không
+    - Ĉu: Phải không
     - via: của cậu
     - amikino: cô bạn
     - Anna: Anna
@@ -20,7 +20,7 @@
     - ĉambro: phòng
     - '?'
 - 
-  demando: Có phải người bạn của cha cậu làm việc ở trong khách sạn không?
+  demando: Người bạn của cha cậu làm việc ở trong khách sạn phải không?
   rektatraduko:
     - Ĉu: Có phải không
     - la: (mạo từ xác định)

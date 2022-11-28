@@ -7,7 +7,7 @@
     - amikino: cô bạn
     - '?'
 - 
-  demando: Có phải cô bạn Anna của cậu giờ đang viết ở trong phòng không?
+  demando: Có phải cô bạn Anna của cậu bây giờ đang viết ở trong phòng không?
   rektatraduko:
     - Ĉu: Có phải không
     - via: của cậu
@@ -17,10 +17,10 @@
     - nun: bây giờ
     - en: ở trong
     - la: (mạo từ xác định)
-    - ĉambro: căn phòng
+    - ĉambro: phòng
     - '?'
 - 
-  demando: Có phải bạn của cha cậu làm việc ở trong khách sạn không?
+  demando: Có phải người bạn của cha cậu làm việc ở trong khách sạn không?
   rektatraduko:
     - Ĉu: Có phải không
     - la: (mạo từ xác định)
@@ -45,10 +45,10 @@
     - ĉambro: phòng
     - '?'
 - 
-  demando: Có quyển sách giáo khoa Esperanto nào ở trên bàn của cậu không?
+  demando: Có quyển sách dạy Esperanto nào ở trên bàn của cậu không?
   rektatraduko:
     - Ĉu: Có không
-    - Esperanto-lernolibro: quyển sách giáo khoa Esperanto
+    - Esperanto-lernolibro: sách dạy Esperanto
     - estas: thì là
     - sur: ở trên
     - via: của cậu

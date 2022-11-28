@@ -1,5 +1,5 @@
 - 
-  demando: Ngôi nhà cũ của cậu đã từng là loại nhà gì vậy?
+  demando: Ngôi nhà cũ của cậu đã từng là loại gì vậy?
   rektatraduko: 
     - Kia: Loại gì
     - estis: đã từng
@@ -8,9 +8,9 @@
     - hejmo: ngôi nhà 
     - '?'
 - 
-  demando: Cậu đã đọc những quyển sách nào vậy, và tụi nó có hay không?
+  demando: Cậu đã đọc những quyển sách nào, và chúng có hay không?
   rektatraduko: 
-    - Kiujn: Cái nào 
+    - Kiujn: Những cái nào
     - librojn: những quyển sách
     - vi: cậu
     - legis: đã đọc
@@ -36,9 +36,9 @@
     - Marko: Mark
     - '?'
 - 
-  demando: Có phải cậu thích đọc những quyển sách về tình yêu không?
+  demando: Cậu thích đọc những quyển sách về tình yêu phải không?
   rektatraduko: 
-    - Ĉu: Có phải không
+    - Ĉu: Phải không
     - vi: cậu
     - ŝatas: thích
     - legi: đọc

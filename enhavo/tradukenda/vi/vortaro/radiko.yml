@@ -2,7 +2,7 @@ afer:
   - vật
   - việc
 agrabl: dễ chịu
-akcept: chấp thuận
+akcept: chấp nhận
 akv: nước
 ali: khác
 alt: cao
@@ -29,7 +29,7 @@ bien:
   - đồn điền
 bon: hay, tốt
 branĉ:
-  - cành cây, nhánh cây
+  - cành cây
   - ngả đường
 bru: tiếng ồn
 buŝ: miệng
@@ -109,9 +109,9 @@ invit: mời
 ir: đi
 itali: nước Ý
 jar: năm
-jun: trẻ tuổi
+jun: trẻ trung
 kaf: cà phê
-kalv: đầu hói
+kalv: hói
 kap: cái đầu
 kapabl: có khả năng
 kapt: bắt lấy
@@ -129,7 +129,7 @@ komenc: bắt đầu
 kompren:
   - hiểu
   - nắm được
-kon: quen biết, quen thuộc
+kon: quen biết
 kontent: thoả mãn
 kontrol:
   - kiểm soát
@@ -139,7 +139,7 @@ korp: thân thể
 kost: giá cả
 kri: la hét
 kuir: nấu
-kuk: bánh ga tô
+kuk: bánh kem
 kur: chạy
 labor: làm việc
 lakt: sữa
@@ -201,7 +201,9 @@ natur: thiên nhiên
 neces: cần
 nokt: đêm khuya
 nom: tên
-not: ghi chú
+not:
+  - ghi chú
+  - điểm số
 nov: mới
 odor: bốc mùi
 oft: thường xuyên
@@ -234,7 +236,7 @@ pet:
   - xin
   - cầu mong
 pez: nặng nề
-pied: chân, bàn chân
+pied: chân
 plac: nơi chốn
 plan:
   - lên kế hoạch
@@ -257,14 +259,16 @@ proksim: gần
 promen:
   - đi dạo
   - tản bộ
-propon: đề xuất, đề ra
+propon: đề nghị
 prov:
   - thử
   - cố gắng
 rajt: cho phép
 rapid: nhanh
 raport: báo cáo
-real: thực tế, có thật
+real:
+   - thực tế
+   - có thật
 rekt: gửi đến
 renkont: gặp gỡ
 respekt: tôn trọng
@@ -285,8 +289,12 @@ san: khoẻ mạnh, lành mạnh
 saĝ:
   - không ngoan
   - uyên bác
-sci: biết được một điều, tri thức
-sek: khô cạn, khô ráo
+sci:
+  - biết được một điều
+  - tri thức
+sek:
+  - khô cạn
+  - khô ráo
 sekret: bí mật
 sekv:
   - làm theo
@@ -316,7 +324,7 @@ sun: mặt trời
 supr: ở trên
 tabl: cái bàn
 tag: ngày
-te: trà, chè
+te: trà
 telefon: điện thoại
 temp: thời gian
 temperatur: nhiệt độ

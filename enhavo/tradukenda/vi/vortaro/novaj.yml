@@ -1,17 +1,21 @@
 aŭskult: lắng nghe
 divers: phong phú
 ekzempl: ví dụ
-glas: thuỷ tinh
+glas:
+  - ly nước
+  - thuỷ tinh
 infan: trẻ con
 inform: thông báo
 kant: ca hát
 kien: đến đâu
 konsent: bằng lòng
-las: để cho
-lingv: tiếng
+las: để lại
+lingv:
+  - tiếng
+  - ngôn ngữ
 loĝ:
 - sống
-- trú ngụ
+- cư trú
 manier: cư xử
 monat: tháng
 mond: thế giới

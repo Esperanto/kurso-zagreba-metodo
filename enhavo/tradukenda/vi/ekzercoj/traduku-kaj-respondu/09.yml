@@ -1,5 +1,5 @@
 - 
-  demando: Việc gì có thể làm cha mẹ cậu vui nhất?
+  demando: Việc gì có thể làm cha mẹ  của cậu vui nhất?
   rektatraduko: 
     - Kio: Việc gì
     - povus: có thể
@@ -9,9 +9,9 @@
     - gepatrojn: cha mẹ
     - '?'
 - 
-  demando: Giá như là cậu ít nhất muốn đi cùng mình vào trung tâm thành phố sau khi việc học nhỉ!
+  demando: Phải chi ít nhất cậu muốn đi cùng mình vào trung tâm thành phố sau việc học!
   rektatraduko: 
-    - Se: Giá như
+    - Se: Phải chi
     - almenaŭ: ít nhất
     - vi: cậu
     - post: sau khi
@@ -25,12 +25,12 @@
     - urbocentron: trung tâm thành phố
     - '!'
 - 
-  demando: Cậu mong sẽ được đi du lịch ở đâu nếu bạn có đủ tiền và thời gian?
+  demando: Cậu mong được đi du lịch đến đâu, nếu cậu có đủ tiền và thời gian?
   rektatraduko: 
-    - Kien: Đi đến đâu
+    - Kien: Đến đâu
     - vi: cậu
     - dezirus: mong
-    - vojaĝi: được đi
+    - vojaĝi: đi du lịch
     - ',' 
     - se: nếu
     - vi: cậu
@@ -63,7 +63,7 @@
     - vagonaro: xe lửa
     - '?'
 - 
-  demando: Tại sao những người khác nhau đều giải thích những ý tưởng giống nhau nhưng theo một cách khác biệt nhau vậy?
+  demando: Tại sao những người khác nhau giải thích những ý tưởng giống nhau theo một cách khác nhau vậy?
   rektatraduko: 
     - Kial: Tại sao
     - diversaj: khác nhau

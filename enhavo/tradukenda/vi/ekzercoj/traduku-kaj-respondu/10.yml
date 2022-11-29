@@ -1,5 +1,5 @@
 - 
-  demando: Liệu tình bạn có làm cậu vui hơn tình yêu không?
+  demando: Liệu tình bạn có làm cậu vui hơn tình yêu?
   rektatraduko: 
     - Ĉu: Liệu
     - amikeco: tình bạn
@@ -11,7 +11,7 @@
     - amo: tình yêu
     - '?'
 - 
-  demando: Cậu có thường xuyên viết thư cho mấy cô bạn gái của cậu ở nước Ý không?
+  demando: Cậu có thường xuyên viết thư cho mấy cô bạn của cậu ở nước Ý không?
   rektatraduko: 
     - Kiel: Như thế nào
     - ofte: thường xuyên
@@ -20,14 +20,14 @@
     - leterojn: thư
     - al: tới
     - viaj: của cậu
-    - amikinoj: mấy cô bạn gái
+    - amikinoj: mấy cô bạn
     - en: ở
     - Italio: nước Ý
     - '?'
 - 
-  demando: Mối quan hệ giữa cậu và thầy giáo của cậu đã có trở nên thay đổi gì chưa vậy?
+  demando: Mối quan hệ giữa cậu và thầy giáo của cậu đã có thay đổi gì chưa?
   rektatraduko: 
-    - Ĉu: Có chưa vậy
+    - Ĉu: Có chưa
     - la: (mạo từ xác định)
     - rilato: mối quan hệ
     - inter: giữa
@@ -38,9 +38,9 @@
     - ŝanĝiĝis: đã trở nên thay đổi
     - '?'
 - 
-  demando: Có phải giờ cậu đã biết tiếng Esperanto khá tốt rồi, phải không?
+  demando: Giờ cậu biết tiếng Esperanto khá tốt rồi, phải không?
   rektatraduko: 
-    - Ĉu: Có phải không
+    - Ĉu: Phải không
     - vi: cậu
     - nun: bây giờ
     - jam: đã … rồi

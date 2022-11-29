@@ -1,5 +1,5 @@
 - 
-  demando: Chúng ta sẽ còn gặp lại nhau không, ở bất cứ nơi đâu và bất cứ lúc nào?
+  demando: Chúng ta sẽ còn gặp lại nhau không, ở bất cứ đâu và bất cứ lúc nào?
   rektatraduko: 
     - Ĉu: Còn không
     - ni: chúng ta
@@ -23,10 +23,10 @@
     - duonon: một nửa
     - de: của
     - la: (mạo từ xác định)
-    - libroj: những quyển sách
+    - libroj: mấy quyển sách
     - '?'
 - 
-  demando: Liệu cậu sẽ cần nhiều hơn một phần tư năm cho những công việc đó?
+  demando: Liệu cậu sẽ cần nhiều hơn một phần tư của năm cho những công việc đó?
   rektatraduko: 
     - Ĉu: Liệu
     - vi: cậu
@@ -36,13 +36,13 @@
     - kvaronan: một phần tư
     - jaron: năm
     - por: cho
-    - tiuj: cái đó
+    - tiuj: đó
     - laboroj: những công việc
     - '?'
 - 
-  demando: Tại sao mà càng lạnh, chúng ta càng phải chờ lâu vậy?
+  demando: Tại sao càng lạnh, chúng ta càng phải chờ lâu?
   rektatraduko: 
-    - Kial: Tại sao vậy
+    - Kial: Tại sao
     - estas: (thì là)
     - des: (so sánh phối hợp)
     - pli: càng

@@ -61,7 +61,7 @@
 
 * [Pasporta Servo](http://pasportaservo.org/) - stay with Esperanto speakers in 90+ countries
 * [Guide to the Main International Esperanto Events](http://whistlinginthewind.org/2015/09/01/a-guide-to-the-main-international-esperanto-events/)
-* [Calendar of Esperanto Events](http://www.eventoj.hu/kalendaro.htm)
+* [Calendar of Esperanto Events](https://eventaservo.org/)
 
 # Chat
 

@@ -44,7 +44,7 @@
 ## Improve vocabulary
 
 * [uTalk](https://utalk.com/en/store/esperanto) - vocabulary by topics
-* [Babadum](https://babadum.com/) - learn 1500 words in Esperanto
+* [Babadum](https://babadum.com/) - learn 1500 words in Esperanto (create free account to view Esperanto course)
 * [Memrise](https://www.memrise.com/courses/english/esperanto/) - Esperanto flashcards
 
 # General

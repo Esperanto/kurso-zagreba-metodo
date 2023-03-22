@@ -26,8 +26,8 @@
 
 ## Classroom course events
 
-* [Nord-Amerika Somera Kursaro](http://nask.esperanto-usa.org/) - Esperanto course in Raleigh, NC, USA (July 2019?)
-* [Somera Esperanto-Semajno](https://ses.ikso.net/) - Esperanto course in Slovakia (July 2019?)
+* [Nord-Amerika Somera Kursaro](http://nask.esperanto-usa.org/) - Esperanto course in Raleigh, NC, USA 
+* [Somera Esperanto-Semajno](https://ses.ikso.net/) - Esperanto course in Slovakia 
 
 ## Learn to speak
 

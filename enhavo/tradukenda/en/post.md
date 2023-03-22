@@ -135,7 +135,7 @@
 * [Scottish Esperanto Association (SEA)](http://www.skotlando.org/)
 * [Esperanto Association of Ireland (EAI)](http://esperanto.ie/)
 * [Australian Esperanto Association](http://www.esperanto.org.au/)
-* [Canadian Esperanto Association](http://www.esperanto.ca/kea/)
+* [Canadian Esperanto Association](http://www.esperanto.ca/)
 * [New Zealand Esperanto Association](http://en.esperanto.org.nz/)
 * [Esperanto Association of South Africa (EASA)](http://www.esperanto.org.za/english.html)
 * [Complete list of National Associations](http://uea.org/landoj/tutmonde) - over 175 (!) countries

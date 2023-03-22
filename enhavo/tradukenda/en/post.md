@@ -116,7 +116,7 @@
 * [Agadujo](https://agadujo.telegramo.org/) - Chat about Esperanto projects (Telegram)
 * [Vikipedio](http://eo.wikipedia.org/) - Wikipedia in Esperanto
 * [Cooperate in Muzaiko](http://muzaiko.info/partoprenu) - send recordings for the station
-* [City Weekend](http://urbsem.net/organizu/) - organize a small Esperanto event in North America
+* [City Weekend (Urba Semajnfino)](https://docs.google.com/document/d/1Aelx8sd2cTTa_9vPO2NmEcZpYJWq18aopSfYAAejgNk/edit?fbclid=IwAR1l5UUJDTUXYtqE7aNzUvBE-C1dfcd0YlzT95GGeInwEziWW8YTVnPnYbc) - organize a small Esperanto event in North America
 
 # Esperanto Organizations
 

@@ -15,7 +15,6 @@
 
 # Events
 
-* [Guide to the Main International Esperanto Events](https://whistlinginthewind.org/2015/09/01/a-guide-to-the-main-international-esperanto-events/)
 * [Calendar of Esperanto Events](https://www.eventoj.hu/kalendaro.htm)
 
 # More

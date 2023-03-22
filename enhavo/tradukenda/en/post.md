@@ -54,7 +54,7 @@
 
 # General
 
-* [So Many Ways to Learn Esperanto](http://www.learnlangs.com/esperanto/resources) - huge list of resources for learning Esperanto
+* [So Many Ways to Learn Esperanto](https://learnlangs.com/so-many-ways-to-learn-esperanto/) - huge list of resources for learning Esperanto
 * [Konciza klarigo pri landonomoj](http://bonalingvo.org/docs/klarigoprilandonomoj.pdf) - fully understand Esperanto country names
 
 # Travel

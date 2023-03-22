@@ -36,7 +36,7 @@
 ## Learn to read and write
 
 * [Lernu!](http://www.lernu.net/) - many courses and materials for intermediate to advanced students
-* [Complete Esperanto](https://www.amazon.com/Complete-Esperanto-Learn-write-understand/dp/1473669189/) - comprehensive course with dialogs
+* [Complete Esperanto](https://www.amazon.com/Complete-Esperanto-Learn-write-understand/dp/1473669189/) - comprehensive course with audio dialogs
 * [Being Colloquial in Esperanto](http://pages.ucsd.edu/~dkjordan/eo/colloq/colloq.html) - Esperanto grammar for intermediate students
 * [Gerda malaperis](http://esperantofre.com/gerdakd/gerda.pdf) - novel in easy Esperanto (increases difficulty as you read)
 * [Vojaĝo en Esperanto-lando](https://eo.wikipedia.org/wiki/Voja%C4%9Do_en_Esperanto-lando) - intermediate textbook highlighting Eo culture ([sample](http://www.esperanto-mv.pp.ru/Vojagxo/kolker_1.pdf))

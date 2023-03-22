@@ -35,7 +35,7 @@
 
 ## Learn to listen (and watch videos)
 
-* [Mazi en Gondolando](https://www.youtube.com/playlist?list=PL00F795A844E2824F)
+* [Mazi en Gondolando](https://www.youtube.com/watch?v=wCJt_Advj-A&t=0s)
 * [Pasporto al la tuta mondo](https://www.youtube.com/watch?v=OquSnGAKYGc=PL3VD8MnxHymAi4Xft9l52MtPdCe_RGmXY) - 16-episode soap opera (progressively increasing in difficulty)
 
 ## Learn to read and write

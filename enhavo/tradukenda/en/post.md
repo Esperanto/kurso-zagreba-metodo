@@ -17,10 +17,6 @@
 
 * [Calendar of Esperanto Events](https://www.eventoj.hu/kalendaro.htm)
 
-# More
-
-* [Finished the Esperanto tree, now what?](https://duolinguists.wordpress.com/2022/03/01/finished-the-esperanto-tree-now-what/)
-
 # Continue learning
 
 ## Classroom course events
@@ -55,7 +51,8 @@
 
 * [So Many Ways to Learn Esperanto](https://learnlangs.com/so-many-ways-to-learn-esperanto/) - huge list of resources for learning Esperanto
 * [Konciza klarigo pri landonomoj](http://bonalingvo.org/docs/klarigoprilandonomoj.pdf) - fully understand Esperanto country names
-
+* [Finished the Esperanto tree, now what?](https://duolinguists.wordpress.com/2022/03/01/finished-the-esperanto-tree-now-what/)
+* 
 # Travel
 
 * [Pasporta Servo](http://pasportaservo.org/) - stay with Esperanto speakers in 90+ countries

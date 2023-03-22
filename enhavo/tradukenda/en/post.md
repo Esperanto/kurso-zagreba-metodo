@@ -97,7 +97,7 @@
 
 * [Reddit Esperanto](https://www.reddit.com/r/esperanto) - about Esperanto
 * [Reddit Esperante](https://www.reddit.com/r/esperante) - in Esperanto
-* [TEJO-Aktuale](http://tejo.org/agado/tejo-aktuale/) - TEJO's newsletter
+* [TEJO-Aktuale](https://www.tejo.org/tejo-aktuale/) - TEJO's newsletter
 * [Chinese International Radio](http://esperanto.cri.cn/) - news from China
 * [Kontakto](http://tejo.org/duolingo/?lang=en) - TEJO's cultural magazine
 

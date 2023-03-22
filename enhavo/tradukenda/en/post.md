@@ -90,7 +90,7 @@
 * [Fajron sentas mi interne](http://www.u-matthias.de/verko/fajron.htm) - easy-to-read novel
 * [UEA-katalogo](http://katalogo.uea.org/) - buy books from UEA
 * [Esperanto USA Retbutiko](http://www.esperanto-usa.org/retbutiko/) - buy books from Esperanto USA
-* [Esperanto Association of Britain Bookstore]( - buy books from EAB
+* [Esperanto Association of Britain online store](https://esperanto.org.uk/store/category/1-books/) - buy books from EAB
 * [Start reading Esperanto literature](http://blogs.transparent.com/esperanto/start-reading-esperanto-literature/) - guide for beginners
 
 # News

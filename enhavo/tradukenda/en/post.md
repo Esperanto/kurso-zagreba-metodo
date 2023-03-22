@@ -77,6 +77,7 @@
 * [Kern.punkto.net](http://kern.punkto.info/) - technology, culture, society
 * [Pola Retradio](http://pola-retradio.org/) - varied program
 * [Esperanta Retradio](http://esperantaretradio.blogspot.de/) - podcast with transcripts
+* [Usone Persone](https://podcasts.apple.com/tr/podcast/usone-persone/id1641931989?ign-itscg=30200&ign-itsct=podtail_podcast)-lively podcast with US hosts
 
 # Video
 

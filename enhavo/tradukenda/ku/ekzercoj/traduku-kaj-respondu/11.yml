@@ -1,0 +1,54 @@
+- 
+  demando: آیا شما می‌توانید داروهای خواهرم را با هم بیاورید؟
+  rektatraduko: 
+    - Ĉu: آیا
+    - vi: شما
+    - povas: می‌توانید
+    - kunporti: با هم بیاورید (با هم آوردن)
+    - la: حرف تعریف
+    - sanigilon: دارو
+    - de: ی
+    - mia: مال من
+    - fratino: خواهر
+    - '?'
+- 
+  demando: کِی شما آن ساز را خریدید؟
+  rektatraduko: 
+    - Kiam: کِی
+    - vi: شما
+    - aĉetis: خریدید
+    - tiun: آن
+    - muzikilon: ساز را
+    - '?'
+- 
+  demando: چه کسی آخرین بار کلیدم را استفاده کرد؟
+  rektatraduko: 
+    - Kiu: چه کسی
+    - laste: آخرین بار
+    - uzis: استفاده کرد
+    - mian: مال من
+    - ŝlosilon: کلید
+    - '?'
+- 
+  demando: آیا شما در ونیز با گوندولا هم گشتید؟
+  rektatraduko: 
+    - Ĉu: آیا
+    - vi: شما
+    - en: در
+    - Venecio: ونیز
+    - veturis: گشتید (با وسیله‌ی نقلیه رفتید)
+    - ankaŭ: هم
+    - per: با
+    - gondolo: گوندولا
+    - '?'
+- 
+  demando: آیا تو هنگامی که ساکت شد خواهی توانست بخوابی؟
+  rektatraduko: 
+    - Ĉu: آیا
+    - vi: تو
+    - povos: خواهی توانست
+    - ekdormi: بخوابی
+    - ',' 
+    - kiam: هنگامی که 
+    - silentiĝis: ساکت شد
+    - '?'

@@ -232,6 +232,15 @@ ko:
       github: jasmena
     - nomo: Nomota Hiongun KIM
       github: nomota
+ku:
+  nomo:
+    fontlingve: Kurdî
+    esperante: kurda
+  stato: testa
+  aŭtoroj:
+    - nomo: Salah Mohammadpour
+      github: -
+  tekstodirekto: rtl
 lo:
   nomo:
     fontlingve: ລາວ

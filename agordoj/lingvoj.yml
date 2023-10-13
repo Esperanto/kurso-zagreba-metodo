@@ -134,6 +134,14 @@ frp:
   aŭtoroj:
     - nomo: Alexandre Raymond
       github: alekcxjo
+ga:
+  nomo:
+    fontlingve: Gaeilge
+    esperante: irlanda
+  stato: testa
+  aŭtoroj:
+    - nomo: Seán Ó Riain
+      github: SeanORiain32
 he:
   nomo:
     fontlingve: עברית

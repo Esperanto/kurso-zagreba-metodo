@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: Conas a bhí do shean-bhaile?
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
+    - Kia: Conas
+    - estis: bhí
+    - via: do
+    - malnova: sean
+    - hejmo: baile
     - '?'
 - 
-  demando: Which books did you read, and were they good?
+  demando: Cé na leabhair a léis, agus an rabhadar go maith?
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
+    - Kiujn: Cé na
+    - librojn: leabhair
+    - vi: tú
+    - legis: léigh
+    - kaj: agus
+    - ĉu: an
+    - ili: siad
+    - estas: tá
+    - bonaj: maith 
     - '?'
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: "Cad a dhein Áine agus Marc i seomra beag Mhairc?"
   rektatraduko:
-    - Kion: What
-    - faris: did do
-    - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - Kion: Cad
+    - faris: dhein
+    - Anna: Áine
+    - kaj: agus
+    - Marko: Marc
+    - en: in, i 
+    - la: an
+    - malgranda: beag
+    - ĉambro: seomra
+    - de: de
+    - Marko: Marc
     - '?'
 - 
-  demando: Do you like reading books about love?
+  demando: An maith leat leabhair faoin ngrá a léamh?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+    - Ĉu: An
+    - vi: tú
+    - ŝatas: an maith leat
+    - legi: léamh
+    - librojn: leabhair
+    - pri: faoi
+    - amo: grá
     - '?'
 - 
-  demando: Who will go with you to your home?
+  demando: Cé a raghaidh abhaile farat?  
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+    - Kiu: Cé
+    - iros: raghaidh
+    - kun: fara
+    - vi: tú
+    - al: chuig 
+    - via: do
+    - hejmo: baile, abhaile 
     - '?'
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: "Conas atá súile do chailín?"
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+    - Kiaj: Conas
+    - estas: atá
+    - la: na
+    - okuloj: súile
+    - de: de
+    - via: do 
+    - amikino: cailín
     - '?'

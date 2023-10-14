@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Freastalaithe in óstáin mhóra, an dtuigeann siad a lán teangacha? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
+    - Ĉu: An 
+    - kelneroj: freastalaithe
     - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - grandaj: mór
+    - hoteloj: óstáin
+    - komprenas: tuig
+    - multajn: a lán
+    - lingvojn: teangacha
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: An eol duit gur maith le hÁine amhrán nua faoi fhear bocht agus cailín álainn?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: An
+    - vi: tú
+    - scias: eol
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ĉu: gur
+    - Anna: Áine 
+    - ŝatas: is maith le
+    - la: an
+    - novan: nua
+    - kanton: amhrán
+    - pri: faoi
+    - malriĉulo: fear bocht
+    - kaj: agus
+    - belulino: cailín álainn
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Cá bhfacaís seanfhear agus fear óg agus bord mór á iompar acu? Where did you see an old man and a young man who were carrying a large table?
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Cá, cén áit
+    - vi: tú
+    - vidis: chonaic
+    - la: an
+    - maljunulon: seanfhear
+    - kaj: agus
+    - la: an
+    - junulon: fear óg
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: a
+    - portis: d'iompair
+    - grandan: mór
+    - tablon: bord
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Conas a tharla sé gur tháinís arís chugainn gan gan deartháireacha agus deirfiúracha?
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Conas
+    - okazis: tharla
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: gur, go
+    - vi: tú
+    - denove: arís
+    - venis: tháinig
+    - al: chuig 
+    - ni: sinn
+    - sen: gan
+    - gefratoj: deartháireacha agus deirfiúracha
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: An féidir leat Esperanto a fhoghlaim cuíosach tapaidh leis an dtéacsleabhar nua?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
+    - Ĉu: An 
+    - vi: tú
+    - povas: féidir
+    - per: le
+    - la: an
+    - nova: nua
+    - lernolibro: téacsleabhar
+    - sufiĉe: cuíosach
+    - rapide: tapaidh
+    - lerni: foghlaim
     - Esperanton: Esperanto
     - '?'

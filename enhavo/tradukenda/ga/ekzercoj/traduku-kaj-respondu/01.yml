@@ -1,57 +1,57 @@
 - 
-  demando: Who is your female friend?
+  demando: Cé hí do chara? 
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: female friend
+    - Kiu: Cé
+    - estas: hí
+    - via: do
+    - amikino: cara
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: An bhfuil do chara Áine ag scríobh sa tseomra anois?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: female friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
+    - Ĉu: An
+    - via: do
+    - amikino: cara
+    - Anna: Áine
+    - skribas: scríobh
+    - nun: anois
+    - en: sa
+    - la: an 
+    - ĉambro: seomra
+    - '?'
+- 
+  demando: An bhfuil cara d'athar ag obair in óstán?
+  rektatraduko:
+    - Ĉu: An
+    - la: an
+    - amiko: cara
+    - de: de
+    - via: do
+    - patro: athair
+    - laboras: obair
     - en: in
-    - la: the 
-    - ĉambro: room
+    - hotelo: óstán
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Cad atá ar an mbord inár seomra?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
+    - Kio: Cad 
+    - estas: atá
+    - sur: 'ar'
+    - la: an
+    - labortablo: bord
     - en: in
-    - hotelo: hotel
+    - nia: ár
+    - ĉambro: seomra
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: An bhfuil téacsleabhar Esperanto ar do bhord?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
-    - '?'
-- 
-  demando: Is there an Esperanto textbook on your table?
-  rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto-textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: An
+    - Esperanto-lernolibro: téacsleabhar Esperanto
+    - estas: bhfuil
+    - sur: 'ar'
+    - via: do 
+    - tablo: bord
     - '?'
 

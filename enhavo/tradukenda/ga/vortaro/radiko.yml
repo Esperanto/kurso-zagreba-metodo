@@ -1,316 +1,321 @@
-afer: matter
-agrabl: pleasant
-akcept: to accept
-akv: water
-ali: another
-alt: high
-am: to love
-amik: friend
-arb: tree
+afer: ábhar
+agrabl: taitneamhach
+akcept: glac le
+akv: uisce
+ali: eile
+alt: ard
+am: grá
+amik: cara
+arb: crann
 aspekt:
-- to look
-- to seem
-atend: to wait
-atent: to pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
+- cuma ar
+atend: fan
+atent: tabhair aire
+aĉet: ceannaigh
+aŭd: clois
+aŭt: carr
+aŭtoritat: údarás
+bedaŭr: aiféala
+bel: álainn
+best: ainmhí
+bezon: gá
 bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: to must
-dezir: to wish
-diabl: devil
+- eastát
+- talamh
+bon: maith
+branĉ: géag
+bru: fothram
+buŝ: béal
+cert: cinnte
+dank: buíochas
+daŭr: lean
+decid: cinn
+demand: fiafraigh
+dev: tá...ar
+dezir: mian
+diabl: diabhal
 dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
-doktor: doctor
+- ramhar
+- tiubh
+dimanĉ: Domhnach
+dir: deir
+direkt: treo
+doktor: dochtúir
 dolar: dollar
 dolor:
-- to hurt
-- pain
-dolĉ: sweet
-dom: house
-don: to give
-dorm: to sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
+- gortaigh
+- pian
+dolĉ: milis
+dom: teach
+don: tabhair
+dorm: codladh
+doĝ: dóg
+edz: fear céile
+efektiv: dáiríre
+ekskurs: turas
+esper: dóchas
+est: bí
+facil: furasta
+fakt: fíric
+fal: tit
+famili: líon tí
+far: déan
 fart:
-- to feel
-- to be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
+- braith
+- bí
+feliĉ: sona
+ferm: dún
+fin: críoch
+flank: taobh
 foj:
-- occasion
-- time
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
-gondol: gondola
+- uair
+- ócáid
+forges: dearmad
+form: foirm
+fort: láidir
+fot: grianghraf
+frat: deartháir
+- bráthair
+fru: luath
+fuŝ: déan praiseach
+gondol: gondala
 graf:
-- earl
-- count
+- cúnta
+
 grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
+- mór
+
+grav: tábhachtach
+halt: stopadh
+hav: bheith ....ag
+hejm: baile
+help: cabhair
+hom: duine
+hor: uair an chloig
+hotel: óstán
+ide: smaoineamh
+industri: tionscal
+instru: múin
+interes: suim
+invit: cuireadh
+ir: dul
+itali: Iodáil
+jar: bliain
+jun: óg
+kaf: caife
+kalv: maol
+kap: ceann
+kapabl: cumas
+kapt: breith ar
+kar: ionúin
+kastel: caisleán
+kav: pluais
+kelk: roinnt
+kelner: freastalaí
+klar: soiléir
 klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: necessary
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
+knab: buachaill
+koler: fearg
+kolor: dath
+komenc: tosaigh
+kompren: tuig
+kon: aithne
+kontent: sásta
+kontrol: seiceáil
+kor: croí
+korp: corp
+kost: costas
+kri: béic
+kuir: cócaireacht
+kuk: císte
+kur: rith
+labor: obair
+lakt: bainne
+lamp: lampa
+land: talamh
+- tír
+larĝ: leathan
+last: deiridh
+laŭt: ard
+lecion: ceacht
+leg: léigh
+lern: foghlaim
+leter: litir
+liber: saor
+libr: leabhar
+lok: áit
+long: fada
+lud: súgradh
+lum: solas
+man: lámh
+mank: easpa
+manĝ: ith
+mar: muir
+maten: maidin
+memor: cuimhne
+met: cuir
+mez: lár
+milit: cogadh
+minut: nóiméad
+mir: iontas
+moment: nóiméad
+mon: airgead
+mont: sliabh
+montr: taispeáin
+mort: bás
+mov: bog
+mult: an-chuid
+muzik: ceol
+nask: saolaigh
+natur: nádúr
+- dúlra
+neces: riachtanach
+nokt: oíche
+nom: ainm
+not: nóta
+nov: nua
+odor: boladh
+oft: minic
+okaz: tarlaigh
+okul: súil
+onkl: uncail
 opini:
-- to opinionate
-- to think
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
-si: reflexive pronoun
-sid: to sit
-silent: silent
-simil: similar
+- tuairim
+- smaoinigh
+ord: ordaigh
+orel: cluas
+pac: síocháin
+pag: íoc
+pan: arán
+paper: páipéar
+pardon: maith
+parol: labhair
+part: cuid
+pas: pas
+- dul thart
+patr: athair
+paŝ: céim
+pens: smaoinigh
+perd: caill
+person: duine
+pet: iarr
+pez: trom
+pied: cos
+plac: áit
+plan: pleanáil
+plaĉ: taitnigh
+plen: lán
+polic: póilíní
+pord: doras
+port: iompair
+pov: is féidir
+pren: tóg
+pret: ullamh
+prezent: bronn
+problem: fadhb
+proksim: in aice
+promen: spaisteoireacht
+propon: mol
+prov: iarracht
+rajt: cead
+rapid: tapa
+raport: tuairisc
+real: fíor-
+rekt: díreach
+renkont: buail le
+respekt: meas
+respond: freagra
+rest: fan
+ricev: faigh
+rid: gáir
+rigard: féach ar
+riĉ: saibhir
+rol: ról
+ruĝ: dearg
+salt: léim
+salut: beannaigh
+sam: céanna
+san: sláinte
+saĝ: críonna
+sci: fios
+sek: tirim
+sekret: rún
+sekv: lean
+semajn: seachtain
+send: seol
+serĉ: cuardaigh
+si: forainm aisfhillteach
+sid: suigh
+silent: ciúin
+simil: cosúil
 sinjor:
-- gentleman
-- Mr.
-situaci: situation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: to hold
-teror: terror
-tim: to fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to ride
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: to travel
-vok: to call
-vol: to want
-vort: word
-voĉ: voice
-zorg: to care
-ĉambr: room
-ĉef: boss
+- duine uasal
+- An tUas.
+situaci: staid
+skrib: scríobh
+sol: i d'aonar
+son: fuaim
+sovaĝ: fiáin
+sport: spórt
+star: seas
+strat: sráid
+subit: go tobann
+sufiĉ: leor
+sukces: éirigh le
+sun: grian
+supr: os cionn
+tabl: bord
+tag: lá
+te: tae
+telefon: fón
+temp: am
+temperatur: teocht
+ten: beir ar
+- greim
+teror: sceimhle
+tim: eagla
+ton: tuin
+trankvil: suaimhneas
+trink: ól
+trov: faigh
+turk: Turcach
+tuŝ: bain do
+urb: cathair
+util: úsáideach
+uz: úsáid
+vagon: cóiste
+varm: teolaí
+ven: tar
+vend: díol
+Veneci: Veinéis
+ver: 'fíor'
+vesper: tráthnóna
+vest: gléas
+vetur: taisteal
+vid: feic
+vin: fíon
+vir: fear
+viv: cónaigh
+- beo
+vizaĝ: aghaidh
+vizit: cuairt
+voj: slí
+vojaĝ: taisteal
+vok: glaoigh
+vol: teastaigh ó
+vort: focal
+voĉ: guth
+zorg: cúram
+ĉambr: seomra
+ĉef: saoiste
 ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- cuir isteach ar
+- cuir as do
+ĝeneral: ginearálta
+ĝoj: áthas
+ĝust: ceart
+ĵet: caith
+ŝajn: cuma
+ŝanĝ: athraigh
+ŝat: is maith le
+ŝip: long

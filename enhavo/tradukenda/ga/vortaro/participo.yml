@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: láithreach gníomhach
+int: caite gníomhach
+ont: fáisteanach gníomhach
+unt: coinníollach gníomhach
+at:  láithreach céasta
+it:  caite céasta
+ot:  fáisteanach céasta
+ut:  coinníollach céastas

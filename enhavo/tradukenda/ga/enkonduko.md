@@ -1,12 +1,12 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Múintear an **500 focal is tábhachtaí**
+- **Ní gá clárú**: Níl ann ach *Tús* a ghliogáil
+- **barrfheabhsaithe** don bhfón cliste
+- ní hamháin saor in aisce, ach fairis sin **[saor lena úsáid i dtionscadail eile](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-The course consists of **12 lessons**, each with
+Sa chúrsa tá **12 cheacht**, gach ceann le 
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+- téacs
+- míniú gramadúil 
+- agus 3 chleachtadh.
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+Tar éis an cúrsa a chríochnú, tuigfidh tú na nithe is tábhachtaí is beidh tú in ann abairtí a chumadh uait féin. Bain triail as!

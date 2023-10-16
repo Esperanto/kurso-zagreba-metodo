@@ -1,146 +1,146 @@
-# Community
+# Pobal
 
-* [Duolingo Esperanto Learners Facebook Group](https://www.facebook.com/groups/duolingo.esperanto.learners/)
-* [Celebrity Esperanto AMAs](https://duolinguists.wordpress.com/celebrity-esperanto-amas) (Ask Me Anything)
-* [Telegram Esperanto chat](https://www.telegramo.org/)
-* [Pasporta Servo: Esperanto Hosts](https://pasportaservo.org/)
-* [Introductory Esperanto-USA offer](https://bit.ly/2ce8Ok8)
+* [Grúpa Foghlaimeoirí Esperanto Duolingo ar Facebook](https://www.facebook.com/groups/duolingo.esperanto.learners/)
+* [Esperanto na gCeiliúrán CACO](https://duolinguists.wordpress.com/celebrity-esperanto-amas) (Cuir aon cheist orm)
+* [Comhrá Esperanto Telegram](https://www.telegramo.org/)
+* [Pasporta Servo: Óstaigh Esperanto](https://pasportaservo.org/)
+* [Bunchúrsa Esperanto-tairiscint SAM](https://bit.ly/2ce8Ok8)
 
-# Esperanto Speaker Maps
+# Léarscáileanna Cainteoirí Esperanto
 
 * [Amikumu](https://www.amikumu.com/)
-* [Esperantujo.directory](https://esperantujo.directory/)
+* [Esperantujo.eolaire](https://esperantujo.directory/)
 * [Duolingo-Esperantistoj](https://www.google.com/maps/d/u/0/edit?mid=zHwhupZfxV_M.kEbZgnHaKo-o) (World Map)
-* [Esperanto in the USA](https://bit.ly/EoUSA)
+* [Esperanto i SAM](https://bit.ly/EoUSA)
 
-# Events
+# Imeachtaí
 
-* [Calendar of Esperanto Events](https://www.eventoj.hu/kalendaro.htm)
+* [Féilire na nImeachtaí Esperanto](https://www.eventoj.hu/kalendaro.htm)
 
-# Continue learning
+# Lean ort ag foghlaim
 
-## Classroom course events
+## Cúrsaí seomra ranga
 
-* [Nord-Amerika Somera Kursaro](http://nask.esperanto-usa.org/) - Esperanto course in Raleigh, NC, USA 
-* [Somera Esperanto-Semajno](https://ses.ikso.net/) - Esperanto course in Slovakia 
+* [Nord-Amerika Somera Kursaro](http://nask.esperanto-usa.org/) - Cúrsa Esperanto i Raleigh, NC, SAM 
+* [Somera Esperanto-Semajno](https://ses.ikso.net/) - Cúrsa samhraidh Esperanto sa tSlóvaic 
 
-## Learn to speak
+## Comhrá a fhoghlaim
 
-* [Ekparolu!](http://edukado.net/ekparolu/prezento) - Skype course created for Esperanto Duolingo graduates
+* [Ekparolu!](http://edukado.net/ekparolu/prezento) - Cúrsa Skype dóibhsiúd a dhein cúrsa Esperanto Duolingo
 
-## Learn to listen (and watch videos)
+## Foghlaim trí éisteacht (agus féachaint ar fhíseáin)
 
 * [Mazi en Gondolando](https://www.youtube.com/watch?v=wCJt_Advj-A&t=0s)
-* [Pasporto al la tuta mondo](https://www.youtube.com/watch?v=OquSnGAKYGc=PL3VD8MnxHymAi4Xft9l52MtPdCe_RGmXY) - 16-episode soap opera (progressively increasing in difficulty)
+* [Pasporto al la tuta mondo](https://www.youtube.com/watch?v=OquSnGAKYGc=PL3VD8MnxHymAi4Xft9l52MtPdCe_RGmXY) - sobaldráma 16-mhír (ag dul i ndeacracht de réir a chéile)
 
-## Learn to read and write
+## Léamh agus scríobh a fhoghlaim
 
-* [Lernu!](http://www.lernu.net/) - many courses and materials for intermediate to advanced students
-* [Complete Esperanto](https://www.amazon.com/Complete-Esperanto-Learn-write-understand/dp/1473669189/) - comprehensive course with audio dialogs
-* [Being Colloquial in Esperanto](http://pages.ucsd.edu/~dkjordan/eo/colloq/colloq.html) - Esperanto grammar for intermediate students
-* [Gerda malaperis](http://esperantofre.com/gerdakd/gerda.pdf) - novel in easy Esperanto (increases difficulty as you read)
-* [Vojaĝo en Esperanto-lando](https://eo.wikipedia.org/wiki/Voja%C4%9Do_en_Esperanto-lando) - intermediate textbook highlighting Eo culture ([sample](http://www.esperanto-mv.pp.ru/Vojagxo/kolker_1.pdf))
+* [Lernu!](http://www.lernu.net/) - a lán ábhar do mheánchúrsaí is ardchúrsaí
+* [Complete Esperanto](https://www.amazon.com/Complete-Esperanto-Learn-write-understand/dp/1473669189/) - cúrsa cuimsitheach fara comhráite 
+* [Being Colloquial in Esperanto](http://pages.ucsd.edu/~dkjordan/eo/colloq/colloq.html) - Gramadach Esperanto do mheánchúrsaí
+* [Gerda malaperis](http://esperantofre.com/gerdakd/gerda.pdf) - úrscéal in Esperanto furasta (ag dul i ndeacracht de réir a chéile)
+* [Vojaĝo en Esperanto-lando](https://eo.wikipedia.org/wiki/Voja%C4%9Do_en_Esperanto-lando) - meánchúrsa a shoilsíonn cultúr Esperanto ([sample](http://www.esperanto-mv.pp.ru/Vojagxo/kolker_1.pdf))
 
-## Improve vocabulary
+## Stó Focal a shaibhriú
 
-* [uTalk](https://utalk.com/en/store/esperanto) - vocabulary by topics
-* [Babadum](https://babadum.com/) - learn 1500 words in Esperanto (create free account to view Esperanto course)
-* [Memrise](https://www.memrise.com/courses/english/esperanto/) - Esperanto flashcards
+* [uTalk](https://utalk.com/en/store/esperanto) - stór focal de réir ábhar
+* [Babadum](https://babadum.com/) - foghlaim 1500 focal in Esperanto (cruthaigh cuntas saor in aisce)
+* [Memrise](https://www.memrise.com/courses/english/esperanto/) - Luaschártaí Esperanto
 
-# General
+# Ginearálta
 
-* [So Many Ways to Learn Esperanto](https://learnlangs.com/so-many-ways-to-learn-esperanto/) - huge list of resources for learning Esperanto
-* [Konciza klarigo pri landonomoj](http://bonalingvo.org/docs/klarigoprilandonomoj.pdf) - fully understand Esperanto country names
-* [Finished the Esperanto tree, now what?](https://duolinguists.wordpress.com/2022/03/01/finished-the-esperanto-tree-now-what/)
+* [So Many Ways to Learn Esperanto](https://learnlangs.com/so-many-ways-to-learn-esperanto/) - liosta ollmhór acmhainní chun Esperanto a fhoghlaim
+* [Konciza klarigo pri landonomoj](http://bonalingvo.org/docs/klarigoprilandonomoj.pdf) - ainmneacha tíortha in Esperanto
+* [Crann Esperanto críochnaithe, cén treo anois?](https://duolinguists.wordpress.com/2022/03/01/finished-the-esperanto-tree-now-what/)
  
-# Travel
+# Taisteal
 
-* [Pasporta Servo](http://pasportaservo.org/) - stay with Esperanto speakers in 90+ countries
+* [Pasporta Servo](http://pasportaservo.org/) - lóistín le cainteoirí Esperanto in 90+ tír
 * [Calendar of Esperanto Events](https://eventaservo.org/)
 
-# Chat
+# Comhrá
 
-* [Telegram: Duolingo-lernantoj](https://duolingo.telegramo.org/) - chat with other Duolingo Esperanto learners (including Spanish speakers) in Esperanto
-* [Telegram: Esperantujo](http://www.telegramo.org/) - chat with Esperanto speakers all over the world
+* [Telegram: Duolingo-lernantoj](https://duolingo.telegramo.org/) - comhrá in Esperanto le foghlaimeoirí eile Esperanto Duolingo (cainteoirí Spáinnise ina measc) 
+* [Telegram: Esperantujo](http://www.telegramo.org/) - comhrá le cainteoirí Esperanto ar fud an domhain
 
-# Music
+# Ceol
 
-* [Awesome Esperanto music videos](https://www.youtube.com/playlist?list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37) - YouTube compilation
-* [Concert videos](http://bit.ly/koncertoj) - compilation of different bands
-* [Vinilkosmo MP3](http://vinilkosmo-mp3.com/) - largest Esperanto music label
+* [Awesome Esperanto music videos](https://www.youtube.com/playlist?list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37) - Díolaim YouTube
+* [Concert videos](http://bit.ly/koncertoj) - díolaim bannaí éagsúla
+* [Vinilkosmo MP3](http://vinilkosmo-mp3.com/) - an lipéad ceoil Esperanto is mó
 
-# Audio
+# Fuaim
 
-* [Muzaiko](http://muzaiko.info/) - 24/7 online radio station
-* [Varsovia Vento](http://www.podkasto.net/) - current events in the Esperanto community
-* [Radio Verda](http://radioverda.com/) - amazing series for intermediate speakers
-* [Kern.punkto.net](http://kern.punkto.info/) - technology, culture, society
-* [Pola Retradio](http://pola-retradio.org/) - varied program
-* [Esperanta Retradio](http://esperantaretradio.blogspot.de/) - podcast with transcripts
-* [Usone Persone](https://podcasts.apple.com/tr/podcast/usone-persone/id1641931989?ign-itscg=30200&ign-itsct=podtail_podcast) - lively podcast with US hosts
+* [Muzaiko](http://muzaiko.info/) - stáisiún raidió ar líne 24/7
+* [Varsovia Vento](http://www.podkasto.net/) - cúsaí reatha i bpobal Esperanto 
+* [Radio Verda](http://radioverda.com/) - sraith iontach don mheánleibhéal
+* [Kern.punkto.net](http://kern.punkto.info/) - teicneolaíocht, cultúr, sochaí
+* [Pola Retradio](http://pola-retradio.org/) - clár ilchineálach
+* [Esperanta Retradio](http://esperantaretradio.blogspot.de/) - podchraoladh le tras-scríbhinní
+* [Usone Persone](https://podcasts.apple.com/tr/podcast/usone-persone/id1641931989?ign-itscg=30200&ign-itsct=podtail_podcast) - podchraoladh beoga le hóstaigh SAM 
 
-# Video
+# Físeáin
 
-* [Easy Esperanto talk videos](https://www.youtube.com/playlist?list=PLFl0DRnKDTf_SLReiabL311J-hIunZZ8b) - Youtube videos spoken slowly and clearly
-* [Evildea](https://www.youtube.com/user/Evildela) - entertaining YouTube channel in Esperanto/English
-* [Esperanto Variety Show](https://www.youtube.com/channel/UCXnT_KZNsQw-MX8Q8gJQDgw) - Esperanto channel for beginners
-* [STUDIO](http://novajhoj.weebly.com/) - Esperanto video collection
+* [Easy Esperanto talk videos](https://www.youtube.com/playlist?list=PLFl0DRnKDTf_SLReiabL311J-hIunZZ8b) - Físeáin Youtube á labhairt go mall soiléir
+* [Evildea](https://www.youtube.com/user/Evildela) - bealach siamsaíochta YouTube as Esperanto/Béarla
+* [Esperanto Variety Show](https://www.youtube.com/channel/UCXnT_KZNsQw-MX8Q8gJQDgw) - bealach Esperanto do thosaitheoirí
+* [STUDIO](http://novajhoj.weebly.com/) - Díolaim físeán in Esperanto 
 
-# Books
+# Leabhair
 
-* [Fajron sentas mi interne](http://www.u-matthias.de/verko/fajron.htm) - easy-to-read novel
-* [UEA-katalogo](http://katalogo.uea.org/) - buy books from UEA
-* [Esperanto USA Retbutiko](http://www.esperanto-usa.org/retbutiko/) - buy books from Esperanto USA
-* [Esperanto Association of Britain online store](https://esperanto.org.uk/store/category/1-books/) - buy books from EAB
-* [Start reading Esperanto literature](http://blogs.transparent.com/esperanto/start-reading-esperanto-literature/) - guide for beginners
+* [Fajron sentas mi interne](http://www.u-matthias.de/verko/fajron.htm) - úrscéal soléite
+* [UEA-katalogo](http://katalogo.uea.org/) - ceannaigh leabhair ó UEA
+* [Esperanto USA Retbutiko](http://www.esperanto-usa.org/retbutiko/) - ceannaigh leabhair ó Esperanto USA
+* [Esperanto Association of Britain online store](https://esperanto.org.uk/store/category/1-books/) - ceannaigh leabhair ó  EAB
+* [Start reading Esperanto literature](http://blogs.transparent.com/esperanto/start-reading-esperanto-literature/) - treoir do thosaitheoirí
 
-# News
+# Nuacht
 
-* [Reddit Esperanto](https://www.reddit.com/r/esperanto) - about Esperanto
+* [Reddit Esperanto](https://www.reddit.com/r/esperanto) - mar gheall ar Esperanto
 * [Reddit Esperante](https://www.reddit.com/r/esperante) - in Esperanto
-* [TEJO-Aktuale](https://www.tejo.org/tejo-aktuale/) - TEJO's newsletter
-* [Chinese International Radio](http://esperanto.cri.cn/) - news from China
-* [Kontakto](http://tejo.org/duolingo/?lang=en) - TEJO's cultural magazine
+* [TEJO-Aktuale](https://www.tejo.org/tejo-aktuale/) - nuachtlitir na n-óg TEJO
+* [Chinese International Radio](http://esperanto.cri.cn/) - nuacht ón tSín
+* [Kontakto](http://tejo.org/duolingo/?lang=en) - iris chultúrhta na n-óg TEJO   
 
-# Put yourself on the map
+# Cuir tú féin ar an léarscáil 
 
-* [Amikumu](https://www.amikumu.com/) - find Esperanto speakers near you (or speakers of other languages)
-* [Esperantujo.directory](http://esperantujo.directory/) - Esperanto speaker directory
-* [Duolingo-Esperantistoj](https://www.google.com/maps/d/u/0/edit?mid=zHwhupZfxV_M.kEbZgnHaKo-o) - world map
-* [Esperanto in the USA](https://www.duolingo.com/comment/9089428) - USA map
+* [Amikumu](https://www.amikumu.com/) - aimsigh cainteoirí Esperanto in aice leat (nó cainteoirí teangacha eile)
+* [Esperantujo.directory](http://esperantujo.directory/) - Eolaire cainteoirí Esperanto 
+* [Duolingo-Esperantistoj](https://www.google.com/maps/d/u/0/edit?mid=zHwhupZfxV_M.kEbZgnHaKo-o) - léarscáil an domhain
+* [Esperanto in the USA](https://www.duolingo.com/comment/9089428) - léarscáil SAM
 
-# Cooperate in Esperanto
+# Comhoibriú in Esperanto
 
-* [Stack Exchange](https://esperanto.stackexchange.com/) - Ask or answer questions about Esperanto
-* [Agadejo](https://www.facebook.com/groups/agadejo/) - Find or announce Esperanto projects (Facebook)
-* [Agadujo](https://agadujo.telegramo.org/) - Chat about Esperanto projects (Telegram)
-* [Vikipedio](http://eo.wikipedia.org/) - Wikipedia in Esperanto
-* [Cooperate in Muzaiko](http://muzaiko.info/partoprenu) - send recordings for the station
-* [City Weekend (Urba Semajnfino)](https://docs.google.com/document/d/1Aelx8sd2cTTa_9vPO2NmEcZpYJWq18aopSfYAAejgNk/edit?fbclid=IwAR1l5UUJDTUXYtqE7aNzUvBE-C1dfcd0YlzT95GGeInwEziWW8YTVnPnYbc) - organize a small Esperanto event in North America
+* [Stack Exchange](https://esperanto.stackexchange.com/) - Ceisteanna a chur nó a fhreagairt faoi Esperanto
+* [Agadejo](https://www.facebook.com/groups/agadejo/) - Tionscadail Esperanto a fháil nó a fhógairt (Facebook)
+* [Agadujo](https://agadujo.telegramo.org/) - Comhrá faoi thionscadail Esperanto (Telegram)
+* [Vikipedio](http://eo.wikipedia.org/) - Vicipéid Esperanto
+* [Cooperate in Muzaiko](http://muzaiko.info/partoprenu) - taifeadtaí a chur chuig an stáisiún
+* [City Weekend (Urba Semajnfino)](https://docs.google.com/document/d/1Aelx8sd2cTTa_9vPO2NmEcZpYJWq18aopSfYAAejgNk/edit?fbclid=IwAR1l5UUJDTUXYtqE7aNzUvBE-C1dfcd0YlzT95GGeInwEziWW8YTVnPnYbc) - imeacht beag Esperanto a eagrú i Meiriceá Thuaidh
 
-# Esperanto Organizations
+# Eagrais Esperanto 
 
-## International
+## Idirnáisiúnta
 
 * [Tutmonda Esperantista Junulara Organizo (TEJO)](http://www.tejo.org/)
 * [Universala Esperanto-Asocio (UEA)](http://www.uea.org/)
 
-## National
+## Náisiúnta
 
 * [Esperanto USA](http://www.esperanto-usa.org/)
 * [Esperanto Association of Britain](http://www.esperanto-gb.org/)
 * [Scottish Esperanto Association (SEA)](http://www.skotlando.org/)
-* [Esperanto Association of Ireland (EAI)](http://esperanto.ie/)
+* [Cumann Esperanto na hÉireann (EAI)](http://esperanto.ie/)
 * [Australian Esperanto Association](http://www.esperanto.org.au/)
 * [Canadian Esperanto Association](http://www.esperanto.ca/)
 * [New Zealand Esperanto Association](http://en.esperanto.org.nz/)
 * [Esperanto Association of South Africa (EASA)](http://www.esperanto.org.za/english.html)
-* [Complete list of National Associations](http://uea.org/landoj/tutmonde) - over 175 (!) countries
+* [Liosta iomlán na gCumann Náisiúnta Esperanto](http://uea.org/landoj/tutmonde) - breis is 175 (!) thír
 
-# Free Esperanto magazine offer
+# Tairiscint ar iris Esperanto saor in aisce
 
-For a limited time, if you've **finished the course**, go to [http://duolingo.esperanto.net/](http://duolingo.esperanto.net/), fill out the form and the Universal Esperanto Association (UEA) and the Tutmonda Esperantista Junulara Organizo (TEJO) will send you a free copy of _Esperanto_ and _Kontakto_ to your home!
+Go ceann tréimhse teoranta, má **chríochnaís an cúrsa**, téir chuig [http://duolingo.esperanto.net/](http://duolingo.esperanto.net/), líon an fhoirm agus cuirfidh an Universala Esperanto-Asocip (UEA) agus an Tutmonda Esperantista Junulara Organizo (TEJO) cóip de _Esperanto_ agus _Kontakto_ chugat sa bhaile!
 
-# Introductory membership in Esperanto USA
+# Ballraíocht thosaigh in Esperanto SAM
 
-The Introductory Membership to Esperanto-USA is available to anyone who has completed an Esperanto course, and is not now (and has not been) a member of Esperanto-USA. This membership provides all the rights and privileges as listed in the category '12-Month Memberships'. See [details](http://bit.ly/2ce8Ok8).
+Tá ballraíocht thosaigh in Esperanto-USA ar fáil d'éinne a chríochnaigh cúrsa Esperanto, agus nach ball anois d'Esperanto-USA é/í (agus nár bhall cheana é/í). Tugann an bhallraíocht sin na cearta is na pribhléidí uile a liostaítear sa chatagóir '12-Month Memberships'. Féach [details](http://bit.ly/2ce8Ok8).

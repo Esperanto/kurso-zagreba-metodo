@@ -6,14 +6,15 @@ infan: páiste
 inform: cuir in iúl 
 kant: can
 kien: cá
-konsent: toiligh
+konsent: 
+- toiligh
 - cead
 las: lig
 lingv: teanga
 loĝ:
 - cónaigh
-
-manier: slí
+manier: 
+- slí
 - bealach
 monat: mí
 mond: domhan
@@ -25,7 +26,8 @@ plor:
 pluv: cuir báisteach
 poŝ: póca
 poŝt: post
-proksimum: gar-
+proksimum: 
+- gar-
 - neas-
 publik: poiblí
 punkt: pointe

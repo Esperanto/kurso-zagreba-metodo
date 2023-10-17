@@ -7,8 +7,7 @@ alt: ard
 am: grá
 amik: cara
 arb: crann
-aspekt:
-- cuma ar
+aspekt: cuma ar
 atend: fan
 atent: tabhair aire
 aĉet: ceannaigh
@@ -74,17 +73,14 @@ forges: dearmad
 form: foirm
 fort: láidir
 fot: grianghraf
-frat: deartháir
+frat: 
+- deartháir
 - bráthair
 fru: luath
 fuŝ: déan praiseach
 gondol: gondala
-graf:
-- cúnta
-
-grand:
-- mór
-
+graf: cúnta
+grand: mór
 grav: tábhachtach
 halt: stopadh
 hav: bheith ....ag
@@ -132,7 +128,8 @@ kur: rith
 labor: obair
 lakt: bainne
 lamp: lampa
-land: talamh
+land: 
+- talamh
 - tír
 larĝ: leathan
 last: deiridh
@@ -167,7 +164,8 @@ mov: bog
 mult: an-chuid
 muzik: ceol
 nask: saolaigh
-natur: nádúr
+natur: 
+- nádúr
 - dúlra
 neces: riachtanach
 nokt: oíche
@@ -191,7 +189,7 @@ paper: páipéar
 pardon: maith
 parol: labhair
 part: cuid
-pas: pas
+pas: 
 - dul thart
 patr: athair
 paŝ: céim
@@ -270,7 +268,8 @@ te: tae
 telefon: fón
 temp: am
 temperatur: teocht
-ten: beir ar
+ten: 
+- beir ar
 - greim
 teror: sceimhle
 tim: eagla
@@ -288,14 +287,15 @@ varm: teolaí
 ven: tar
 vend: díol
 Veneci: Veinéis
-ver: 'fíor'
+ver: fíor
 vesper: tráthnóna
 vest: gléas
 vetur: taisteal
 vid: feic
 vin: fíon
 vir: fear
-viv: cónaigh
+viv: 
+- cónaigh
 - beo
 vizaĝ: aghaidh
 vizit: cuairt

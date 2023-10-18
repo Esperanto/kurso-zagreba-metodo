@@ -4,7 +4,8 @@
 - utiligi: úsáid
 - deteni sin: staon
 - alivorte: i bhfocail eile
-- sinteno: iompar 
+- sinteno: 
+  - iompar 
   - iompraíocht
 - loĝigi: faigh lóistín do
 - memorigi: cur i gcuimhne
@@ -18,5 +19,6 @@
 - malplenigi: folmhaigh
 - kelkfoje: uaireanta
 - transdoni: tabhair ar láimh
-- superrigardo: achoimre
+- superrigardo: 
+  - achoimre
   - forléargas

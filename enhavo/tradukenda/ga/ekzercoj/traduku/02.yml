@@ -1,9 +1,7 @@
 - eniri: 
   - dul isteach
-  
 - enhavo: 
   - ábhar
-
 - kunsido:
   - cruinniú
   - seisiún
@@ -14,7 +12,8 @@
 - malfacila: deacair
 - maljuna: sean
 - gepatroj: tuismitheoirí 
-- alveni: tar
+- alveni: 
+  - tar
   - áit a bhaint amach
 - bonvena:
   - fáilte
@@ -24,4 +23,3 @@
 - malami: is fuath le
 - kunlabori:
   - comhoibrigh
-

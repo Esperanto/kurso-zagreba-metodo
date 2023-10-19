@@ -1,77 +1,78 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
+  demando: Cé aige a raibh an leabhar a rabhais ag fanacht air le breis is 2 bhliain?
+  
   rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+    - Kiu: Cé
+    - havis: bhí...ag
+    - la: an
+    - libron: leabhar
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
+    - kiun: a
+    - vi: tú
+    - atendis: d'fhan
+    - pli: níos mó
+    - ol: ná
+    - du: dhá
+    - jarojn: blianta
     - '?'
 - 
-  demando: Do you want me to show you the photo which is dearest to me?
+  demando: Ar mhaith leat go dtaispeánfainn duit an grianghraf is fearr liom?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+    - Ĉu: An
+    - vi: tú
+    - volas: mian
     - ','
-    - ke: that
-    - mi: I
-    - montru: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - ke: go
+    - mi: mé
+    - montru: taispeáin
+    - al: do
+    - vi: tú
+    - mian: mo
+    - plej: is mó
+    - karan: dil
+    - foton: grianghraf
     - '?'
 - 
-  demando: Where did you buy that garment?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+  demando: Cár cheannaís an ball éadaigh sin?
+    rektatraduko: 
+    - Kie: Cén áit
+    - vi: tú
+    - aĉetis: cheannaigh
+    - tiun: sin
+    - vestaĵon: ball éadaigh
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
-  rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+  demando: Cá raghair Dé Domhnaigh más lá grianmhar é?
+   rektatraduko: 
+    - Kien: Cén áit
+    - vi: tú
+    - iros: raghaidh
+    - dimanĉe: Dé Domhnaigh
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - se: má
+    - estos: beidh
+    - suna: grianmhar
+    - tago: lá
     - '?'
 - 
-  demando: Did your brother already leave?
-  rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+  demando: Ar fhág do dheartháir cheana féin?
+   rektatraduko: 
+    - Ĉu: Ar
+    - via: do
+    - frato: deartháir
+    - jam: cheana 
+    - ekiris: d'fhág
     - '?'
 - 
-  demando: Where is the water which you have brought yourself?
-  rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+  demando: Cá bhfuil an t-uisce a thugais leat féin?
+   rektatraduko: 
+    - Kie: Cén áit
+    - estas: tá
+    - la: an
+    - akvo: uisce
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: a
+    - vi: tú
+    - mem: féin
+    - kunportis: thug leat
     - '?'

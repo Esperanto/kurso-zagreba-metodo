@@ -1,6 +1,6 @@
 - 
   demando: An féidir leat cógas mo dheirféar a thabhairt leat?
-   rektatraduko: 
+  rektatraduko: 
     - Ĉu: An
     - vi: tú
     - povas: féidir
@@ -13,7 +13,7 @@
     - '?'
 - 
   demando: Cathain a cheannaís an uirlis cheoil sin?
-    rektatraduko: 
+  rektatraduko: 
     - Kiam: Cathain
     - vi: tú
     - aĉetis: cheannaigh
@@ -22,7 +22,7 @@
     - '?'
 - 
   demando: Cé a d'úsáid m'eochair an uair dheireanach?
-    rektatraduko: 
+  rektatraduko: 
     - Kiu: Cé
     - laste: an uair dheireanach
     - uzis: d'úsáid
@@ -31,7 +31,6 @@
     - '?'
 - 
   demando: Ar thaistilís go Veinéis i ngondala freisin?
- 
   rektatraduko: 
     - Ĉu: Ar
     - vi: tú
@@ -44,7 +43,7 @@
     - '?'
 - 
   demando: An mbeidh tú in ann titim i do chodladh nuair a éireoidh sé ciúin?
-   rektatraduko: 
+  rektatraduko: 
     - Ĉu: An
     - vi: tú
     - povos: beidh in ann

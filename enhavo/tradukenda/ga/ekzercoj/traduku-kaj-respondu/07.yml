@@ -1,6 +1,5 @@
 - 
   demando: Cé aige a raibh an leabhar a rabhais ag fanacht air le breis is 2 bhliain?
-  
   rektatraduko: 
     - Kiu: Cé
     - havis: bhí...ag
@@ -34,7 +33,7 @@
     - '?'
 - 
   demando: Cár cheannaís an ball éadaigh sin?
-    rektatraduko: 
+  rektatraduko: 
     - Kie: Cén áit
     - vi: tú
     - aĉetis: cheannaigh
@@ -43,7 +42,7 @@
     - '?'
 - 
   demando: Cá raghair Dé Domhnaigh más lá grianmhar é?
-   rektatraduko: 
+  rektatraduko: 
     - Kien: Cén áit
     - vi: tú
     - iros: raghaidh
@@ -56,7 +55,7 @@
     - '?'
 - 
   demando: Ar fhág do dheartháir cheana féin?
-   rektatraduko: 
+  rektatraduko: 
     - Ĉu: Ar
     - via: do
     - frato: deartháir
@@ -65,7 +64,7 @@
     - '?'
 - 
   demando: Cá bhfuil an t-uisce a thugais leat féin?
-   rektatraduko: 
+  rektatraduko: 
     - Kie: Cén áit
     - estas: tá
     - la: an

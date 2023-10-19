@@ -1,6 +1,6 @@
 - 
   demando: An ndéanann cairdeas níos sona thú ná mar a dhéanann grá?
-    rektatraduko: 
+  rektatraduko: 
     - Ĉu: An
     - amikeco: cairdeas
     - pli: níos
@@ -12,7 +12,7 @@
     - '?'
 - 
   demando: Cé chomh minic is a scríobhann tú litreacha chuig do chailíní san Iodáil?
-   rektatraduko: 
+  rektatraduko: 
     - Kiel: Cé chomh
     - ofte: minic
     - vi: tú
@@ -26,7 +26,7 @@
     - '?'
 - 
   demando: Ar athraigh an gaol idir tú féin agus do mhúinteoir?
-    rektatraduko: 
+  rektatraduko: 
     - Ĉu: Ar
     - la: an
     - rilato: gaol
@@ -39,7 +39,7 @@
     - '?'
 - 
   demando: An bhfuil Esperanto maith go leor agat cheana féin?
-   rektatraduko: 
+  rektatraduko: 
     - Ĉu: An 
     - vi: tú
     - nun: anois

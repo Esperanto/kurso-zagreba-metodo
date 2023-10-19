@@ -1,6 +1,6 @@
 - 
   demando: An bhfeicfimid a chéile arís, is cuma cén áit nó cén uair?
-    rektatraduko: 
+  rektatraduko: 
     - Ĉu: An
     - ni: sinn
     - revidos: feic arís
@@ -14,7 +14,7 @@
     - '?'
 - 
   demando: Cathain a gheobhad an leath eile de na leabhair ar ais?
-    rektatraduko: 
+  rektatraduko: 
     - Kiam: Cathain
     - mi: mé
     - rericevos: gheobhaidh ar ais
@@ -27,7 +27,7 @@
     - '?'
 - 
   demando: An mbeidh níos mó ná ráithe ag teastáil uait do na poist sin?
-    rektatraduko: 
+  rektatraduko: 
     - Ĉu: An
     - vi: tú
     - bezonos: gá
@@ -41,7 +41,6 @@
     - '?'
 - 
   demando: Cén fáth dá fhuaire é, gurb amhlaidh is sia a fhanaimid?   
-  Why is it that the colder it is, the longer we wait?
   rektatraduko: 
     - Kial: Cén fáth
     - estas: tá

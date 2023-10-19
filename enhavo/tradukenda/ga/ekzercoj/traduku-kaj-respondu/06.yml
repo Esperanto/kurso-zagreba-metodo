@@ -28,7 +28,7 @@
     - '?'
 - 
   demando: "Cathain a thiocfaidh Marcas, ar a cúig nó ar a hocht a chlog?"
-    rektatraduko: 
+  rektatraduko: 
     - Kiam: Cathain
     - Marko: Marcas
     - alvenos: tiocfaidh
@@ -44,7 +44,7 @@
     - '?'
 - 
   demando: Cathain a thugais faoi deara go nglaonn an teaghlach ar fad bronntóir orm?
-    rektatraduko: 
+  rektatraduko: 
     - Kiam: Cathain
     - vi: tú
     - rimarkis: thug faoi deara

@@ -1,6 +1,6 @@
 - 
   demando: Cé atá chun an chistin a ghlanadh tar éis lóin?
-   rektatraduko: 
+  rektatraduko: 
     - Kiu: Cé
     - purigos: glanfaidh
     - la: an
@@ -30,7 +30,6 @@
     - '?'
 - 
   demando: Cén fáth ar shocraís chomh tobann sin do sheomra beag a athchóiriú?
-  
   rektatraduko: 
     - Kial: Cén fáth
     - vi: tú 
@@ -43,7 +42,7 @@
     - '?'
 - 
   demando: Cé dó ar thug tú na gloiní fíona glana?
-   rektatraduko: 
+  rektatraduko: 
     - Al: Do
     - kiu: cé
     - vi: tú
@@ -57,7 +56,7 @@
     - '?'
 - 
   demando: Cé leis ar imir do chlub spóirt coicís ó shin?
-    rektatraduko: 
+  rektatraduko: 
     - Kontraŭ: i gcoinne
     - kiu: cé
     - ludis: d'imir
@@ -69,7 +68,7 @@
     - '?'
 - 
   demando: An minic a chíonn tú an garda atá ina chónaí san árasán os do chionn?
-   rektatraduko: 
+  rektatraduko: 
     - Ĉu: An
     - vi: tú
     - ofte: minic

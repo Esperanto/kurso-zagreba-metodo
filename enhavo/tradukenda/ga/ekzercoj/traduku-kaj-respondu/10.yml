@@ -1,51 +1,51 @@
 - 
-  demando: Does friendship make you more happy than love does?
-  rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+  demando: An ndéanann cairdeas níos sona thú ná mar a dhéanann grá?
+    rektatraduko: 
+    - Ĉu: An
+    - amikeco: cairdeas
+    - pli: níos
+    - feliĉigas: déan sona
+    - vin: tú
+    - ol: ná
+    - la: an
+    - amo: grá
     - '?'
 - 
-  demando: How often do you write letters to your girlfriends in Italy?
-  rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
+  demando: Cé chomh minic is a scríobhann tú litreacha chuig do chailíní san Iodáil?
+   rektatraduko: 
+    - Kiel: Cé chomh
+    - ofte: minic
+    - vi: tú
+    - skribas: scríobh
+    - leterojn: litreacha
+    - al: chuig
+    - viaj: do
+    - amikinoj: cairde ban
     - en: in
-    - Italio: Italy
+    - Italio: Iodáil
     - '?'
 - 
-  demando: Has the relationship between you and your teacher changed?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+  demando: Ar athraigh an gaol idir tú féin agus do mhúinteoir?
+    rektatraduko: 
+    - Ĉu: Ar
+    - la: an
+    - rilato: gaol
+    - inter: idir
+    - vi: tú
+    - kaj: agus
+    - via: do
+    - instruisto: múinteoir
+    - ŝanĝiĝis: athraigh
     - '?'
 - 
-  demando: Do you now already know Esperanto well enough?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
+  demando: An bhfuil Esperanto maith go leor agat cheana féin?
+   rektatraduko: 
+    - Ĉu: An 
+    - vi: tú
+    - nun: anois
+    - jam: cheana
+    - scias: tá...ag
     - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - sufiĉe: go leor
+    - bone: go maith
     - '?'

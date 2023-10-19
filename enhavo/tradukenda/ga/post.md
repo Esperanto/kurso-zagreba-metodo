@@ -82,8 +82,8 @@
 # Físeáin
 
 * [Easy Esperanto talk videos](https://www.youtube.com/playlist?list=PLFl0DRnKDTf_SLReiabL311J-hIunZZ8b) - Físeáin Youtube á labhairt go mall soiléir
-* [Evildea](https://www.youtube.com/user/Evildela) - bealach siamsaíochta YouTube as Esperanto/Béarla
-* [Esperanto Variety Show](https://www.youtube.com/channel/UCXnT_KZNsQw-MX8Q8gJQDgw) - bealach Esperanto do thosaitheoirí
+* [Evildea](https://www.youtube.com/user/Evildela) - cainéal siamsaíochta YouTube as Esperanto/Béarla
+* [Esperanto Variety Show](https://www.youtube.com/channel/UCXnT_KZNsQw-MX8Q8gJQDgw) - cainéal Esperanto do thosaitheoirí
 * [STUDIO](http://novajhoj.weebly.com/) - Díolaim físeán in Esperanto 
 
 # Leabhair
@@ -114,7 +114,7 @@
 * [Stack Exchange](https://esperanto.stackexchange.com/) - Ceisteanna a chur nó a fhreagairt faoi Esperanto
 * [Agadejo](https://www.facebook.com/groups/agadejo/) - Tionscadail Esperanto a fháil nó a fhógairt (Facebook)
 * [Agadujo](https://agadujo.telegramo.org/) - Comhrá faoi thionscadail Esperanto (Telegram)
-* [Vikipedio](http://eo.wikipedia.org/) - Vicipéid Esperanto
+* [Vikipedio](http://eo.wikipedia.org/) - Vicipéid Esperanto, breis is 350 000 alt.  
 * [Cooperate in Muzaiko](http://muzaiko.info/partoprenu) - taifeadtaí a chur chuig an stáisiún
 * [City Weekend (Urba Semajnfino)](https://docs.google.com/document/d/1Aelx8sd2cTTa_9vPO2NmEcZpYJWq18aopSfYAAejgNk/edit?fbclid=IwAR1l5UUJDTUXYtqE7aNzUvBE-C1dfcd0YlzT95GGeInwEziWW8YTVnPnYbc) - imeacht beag Esperanto a eagrú i Meiriceá Thuaidh
 
@@ -139,7 +139,7 @@
 
 # Tairiscint ar iris Esperanto saor in aisce
 
-Go ceann tréimhse teoranta, má **chríochnaís an cúrsa**, téir chuig [http://duolingo.esperanto.net/](http://duolingo.esperanto.net/), líon an fhoirm agus cuirfidh an Universala Esperanto-Asocip (UEA) agus an Tutmonda Esperantista Junulara Organizo (TEJO) cóip de _Esperanto_ agus _Kontakto_ chugat sa bhaile!
+Go ceann tréimhse teoranta, má **chríochnaís an cúrsa**, téir chuig [http://duolingo.esperanto.net/](http://duolingo.esperanto.net/), líon an fhoirm agus cuirfidh an Universala Esperanto-Asocio (UEA) agus an Tutmonda Esperantista Junulara Organizo (TEJO) cóip de _Esperanto_ agus _Kontakto_ chugat sa bhaile!
 
 # Ballraíocht thosaigh in Esperanto SAM
 

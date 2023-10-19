@@ -1,86 +1,87 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
-  rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+  demando: Cé atá chun an chistin a ghlanadh tar éis lóin?
+   rektatraduko: 
+    - Kiu: Cé
+    - purigos: glanfaidh
+    - la: an
+    - kuirejon: cistin
+    - post: tar éis
+    - la: an
+    - tagmanĝo: lón
     - '?'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: "Cad ba mhaith leat a ól: tae, roinnt caife nó ná fuil aon rud uait?"
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: Cad
+    - vi: tú
+    - volas: mian
+    - trinki: ól
     - ':' 
-    - teon: tea
+    - teon: tae
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - iom: roinnt
+    - da: de
+    - kafo: caife
+    - aŭ: nó
+    - ĉu: ná
+    - vi: tú
+    - volas: mian
+    - nenion: faic
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: Cén fáth ar shocraís chomh tobann sin do sheomra beag a athchóiriú?
+  
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+    - Kial: Cén fáth
+    - vi: tú 
+    - tiel: chomh..sin
+    - subite: tobann
+    - decidis: shocraigh
+    - renovigi: athchóiriú
+    - vian: do
+    - ĉambreton: seomra beag
     - '?'
 - 
-  demando: To whom did you give the clean wine glasses?
-  rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+  demando: Cé dó ar thug tú na gloiní fíona glana?
+   rektatraduko: 
+    - Al: Do
+    - kiu: cé
+    - vi: tú
+    - donis: thug
+    - la: na
+    - purajn: glana
+    - glasojn: gloiní
+    - por: do
+    - la: an
+    - vino: fíon
     - '?'
 - 
-  demando: Against whom did your sports club play two weeks ago?
-  rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+  demando: Cé leis ar imir do chlub spóirt coicís ó shin?
+    rektatraduko: 
+    - Kontraŭ: i gcoinne
+    - kiu: cé
+    - ludis: d'imir
+    - via: do
+    - sportklubo: club spóirt
+    - antaŭ: roimh
+    - du: dhá
+    - semajnoj: seachtaine
     - '?'
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+  demando: An minic a chíonn tú an garda atá ina chónaí san árasán os do chionn?
+   rektatraduko: 
+    - Ĉu: An
+    - vi: tú
+    - ofte: minic
+    - vidas: chíonn
+    - la: an
+    - policiston: garda
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+    - kiu: a
+    - loĝas: cónaíonn
+    - en: i
+    - la: an
+    - loĝejo: árasán
+    - super: os cionn
+    - vi: tú
     - '?'

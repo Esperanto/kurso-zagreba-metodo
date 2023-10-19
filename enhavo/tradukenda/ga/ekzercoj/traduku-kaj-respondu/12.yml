@@ -1,68 +1,69 @@
 - 
-  demando: Will we see each other again, no matter where or when?
-  rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+  demando: An bhfeicfimid a chéile arís, is cuma cén áit nó cén uair?
+    rektatraduko: 
+    - Ĉu: An
+    - ni: sinn
+    - revidos: feic arís
+    - nin: a chéile
     - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+    - kie: cén áit
+    - ajn: pé
+    - kaj: agus
+    - kiam: cén uair
+    - ajn: pé
     - '?'
 - 
-  demando: When will I get back the other half of the books?
-  rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+  demando: Cathain a gheobhad an leath eile de na leabhair ar ais?
+    rektatraduko: 
+    - Kiam: Cathain
+    - mi: mé
+    - rericevos: gheobhaidh ar ais
+    - la: an
+    - alian: eile
+    - duonon: leath
+    - de: de
+    - la: na
+    - libroj: leabhair
     - '?'
 - 
-  demando: Will you need more than a quarter of the year for those jobs?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+  demando: An mbeidh níos mó ná ráithe ag teastáil uait do na poist sin?
+    rektatraduko: 
+    - Ĉu: An
+    - vi: tú
+    - bezonos: gá
+    - pli: níos mó
+    - ol: ná
+    - kvaronan: ceathrú
+    - jaron: bliain
+    - por: do
+    - tiuj: sin
+    - laboroj: poist
     - '?'
 - 
-  demando: Why is it that the colder it is, the longer we wait?
+  demando: Cén fáth dá fhuaire é, gurb amhlaidh is sia a fhanaimid?   
+  Why is it that the colder it is, the longer we wait?
   rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
+    - Kial: Cén fáth
+    - estas: tá
+    - des: dá
+    - pli: níos mó
+    - malvarma: fuar
     - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+    - ju: dá
+    - pli: níos mó
+    - longe: fada
+    - ni: sinn
+    - atendas: fanann
     - '?'
 - 
-  demando: Would you be happy with any man?
+  demando: An mbeifeá sásta le fear ar bith?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+    - Ĉu: An
+    - vi: tú
+    - estus: bheadh
+    - kontenta: sásta
+    - kun: le
+    - iu: ar bith
+    - ajn: pé
+    - viro: fear
     - '?'

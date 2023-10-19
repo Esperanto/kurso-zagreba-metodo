@@ -1,72 +1,74 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Ar mhaith leat go dtaispeánfainn an leabhar is nua agam duit?
+  
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: An 
+    - vi: tú
+    - deziras: mian
     - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: go 
+    - mi: mé
+    - montru: taispeáin
+    - al: do
+    - vi: tú
+    - mian: mo
+    - plej: is mó
+    - novan: nua
+    - libron: leabhar
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Cad atá uait don bhricfeasta amárach?
+  
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+    - Kion: Cad
+    - vi: tú
+    - volas: mian
+    - morgaŭ: amárach
+    - matenmanĝi: ith bricfeasta
     - '?'
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
-  rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+  demando: "Cathain a thiocfaidh Marcas, ar a cúig nó ar a hocht a chlog?"
+    rektatraduko: 
+    - Kiam: Cathain
+    - Marko: Marcas
+    - alvenos: tiocfaidh
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+    - je: ar
+    - la: an
+    - kvina: cúigiú
+    - aŭ: nó
+    - je: ar
+    - la: lá
+    - oka: ochtú
+    - horo: uair an chloig
     - '?'
 - 
-  demando: When did you notice that the whole family calls me benefactor?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+  demando: Cathain a thugais faoi deara go nglaonn an teaghlach ar fad bronntóir orm?
+    rektatraduko: 
+    - Kiam: Cathain
+    - vi: tú
+    - rimarkis: thug faoi deara
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+    - ke: go
+    - la: an
+    - tuta: ar fad
+    - familio: teaghlach
+    - nomas: glaonn
+    - min: mé
+    - bonfarulo: bronntóir
     - '?'
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: An leabhrán a sheolas chugat, an raibh sé úsáideach duit?
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: An
+    - la: an
+    - libreto: leabhrán
+    - estis: bhí
+    - utila: úsáideach
+    - al: do
+    - vi: tú
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - kiun: a
+    - mi: mé 
+    - sendis: sheol
     - '?'

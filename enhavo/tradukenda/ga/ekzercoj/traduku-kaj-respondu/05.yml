@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly when someone is singing joyfully?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+  demando: An féidir leat foghlaim go suaimhneach agus duine éigin ag canadh le háthas?
+    rektatraduko: 
+    - Ĉu: An
+    - vi: tú
+    - povas: féidir
+    - trankvile: go suaimhneach
+    - lerni: foghlaim
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: i rith
+    - iu: duine éigin
+    - ĝoje: le háthas
+    - kantas: canann
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Cé hé gurb eol dó cathain agus cén áit a bhfeicfimid a chéile arís?  
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Cé
+    - scias: is eol
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: cathain 
+    - kaj: agus
+    - kie: cén áit
+    - ni: sinn
+    - revidos: feiscint arís
+    - nin: a chéile
     - '?'
 -
-  demando: What time is it now?
+  demando: Cén t-am anois é?
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+    - Kioma: Cé mhéad
+    - horo: uair an chloig
+    - estas: tá 
+    - nun: anois
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
-  rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+  demando: Ar chabhraigh duine leat doras an tsean tí a oscailt?
+    rektatraduko: 
+    - Ĉu: Ar
+    - iu: duine éigin
+    - helpis: chabhraigh
+    - al: le 
+    - vi: tú
+    - malfermi: oscail 
+    - la: an
+    - pordon: doras 
+    - de: de
+    - la: an
+    - malnova: sean
+    - domo: teach
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Cén fáth ná fuil am agat éisteacht liom níos mó?  
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
+    - Kial: Cén fáth
+    - vi: tú
+    - ne: ní
+    - havas: tá ... ag
+    - tempon: am
+    - aŭskulti: éist
+    - min: mé
+    - pli: níos mó
+    - longe: fada
     - '?'

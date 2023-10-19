@@ -1,75 +1,75 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: Cén rud is mó a chuirfeadh áthas ar do thuismitheoirí?
   rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Kio: Cén rud
+    - povus: d'fhéadfadh
+    - plej: is mó
+    - ĝojigi: áthas
+    - viajn: do
+    - gepatrojn: tuismitheoirí 
     - '?'
 - 
-  demando: If at least you wanted to go to the city center after school!
-  rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+  demando: Dá dteastódh uait ar a laghad dul go lár na cathrach tar éis na scoile!
+    rektatraduko: 
+    - Se: Dá
+    - almenaŭ: ar a laghad
+    - vi: tú
+    - post: tar éis
+    - la: an
+    - lernado: foghlaim
+    - irus: raghadh
+    - kun: le
+    - mi: mé
+    - en: isteach
+    - la: la
+    - urbocentron: lár na cathrach
     - '!'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: Cá háit ar mhaith leat taisteal go dtí dá mbeadh go leor airgid agus ama agat?
   rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
+    - Kien: Cá háit
+    - vi: tú
+    - dezirus: ar mhaith
+    - vojaĝi: taisteal
     - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+    - se: da
+    - vi: tú
+    - havus: bheadh....ag
+    - sufiĉe: go leor
+    - da: de
+    - mono: airgead
+    - kaj: agus
+    - tempo: am
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: An bhfuil fút taisteal go Páras i gcarr nó nach cosúil gur fearr i bhfad sa traein?
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - Ĉu: An
+    - vi: tú
+    - planas: tá ....faoi
+    - veturi: taisteal
+    - al: go
+    - Parizo: Páras
+    - per: i
+    - aŭto: carr
+    - aŭ: nó
+    - ĉu: an
+    - ne: ní
+    - ŝajnas: nach cosúil
+    - multe: i bhfad
+    - pli: níos
+    - bone: maith
+    - per: i
+    - vagonaro: traein
     - '?'
 - 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+  demando: Cén fáth a míníonn daoine difriúla smaointe comhionanna ar bhealach difriúil?
+   rektatraduko: 
+    - Kial: Cén fáth
+    - diversaj: difriúil
+    - homoj: daoine
+    - klarigas: mínigh
+    - samajn: comhionann
+    - ideojn: smaointe
+    - diversmaniere: ar bhealach difriúil
     - '?'

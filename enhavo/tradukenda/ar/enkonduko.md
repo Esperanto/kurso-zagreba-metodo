@@ -1,11 +1,10 @@
-- Vous apprendrez les **500 mots les plus importants**
-- **Pas d'inscription nécessaire** : Cliquez simplement sur *Démarrer*
-- **Optimisé** pour les mobiles
-- Pas uniquement gratuit, mais aussi **[libre d’être utilisé dans d’autres projets](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- **نحتوي على 500 كلمة الأكثر أهمية**
+- **لا تحتاج إلى التسجيل** : فقط أضغط على *البدء*
+- **متانسقة** مع الهواتف الذكية
+- الدورة مجانية ومفتوحة المصدر **[libre d’être utilisé dans d’autres projets](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-Le cours est composé de **12 leçons**, chacune contenant :
-
-- نص
+الدورة تحتوي على 12 درس مصحوبة بــ:
+- نصوص
 - تفسيرات نحوية
 - و 3 تمارين
 

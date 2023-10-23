@@ -2,7 +2,7 @@ Esperanto: الاسبرانتو
 akcepteblan: مقبول
 alilandaj: أجنبي
 alporti: أحضر
-alportis: حضر
+alportis: نقلَ
 alvenigas: يؤدي هنا
 alvenis: وصل
 alvenos: سيصل
@@ -27,44 +27,46 @@ bonvolu:
 bonvolus: ce serait gentil de
 centoj: المئات
 dankon: شكرا
-daŭrigis: يواصل
+daŭrigis: واصِل
 denove: من جديد
-devojiĝis: sortir du chemin
-dikiĝi: يسمن
+devojiĝis: انحرف عن طريق
+dikiĝi: يٌسمن
 doloriga: مؤلم
-dolorige: douloureusement
+dolorige: بألم
 domegon: فيلا
 dumnokte: خلال الليل
 dumtage: خلال النهار
-ekkriis: "s'écrier"
-ekmire: "s'émerveiller"
-ekparolis: a pris la parole
-ekridis: se mis à rire
-ekrigardis: "jeta un coup d'oeil"
-eksaltis: commença à sauter
-ekscii: apprendre
-eksidis: "s'assoir"
-ekstervoje: hors du chemin
-ekveturas: démarre
-ekvidis: a commencé à voir
+ekkriis: يبدأ في الصراخ
+ekmire: مستعجباً
+ekparolis:بدأ في الحديث 
+ekridis:بدأ في الضحك
+ekrigardis: بدأ النظر
+eksaltis: بدأ في القفز
+ekscii: بدأ في التعرف
+eksidis: "يشرع في الجلوس"
+ekstervoje: خارج الطريق
+ekveturas: بدأ في القيادة
+ekvidis: بدأ في النظر
 elstaraj: استثنائي
 eniri: يدخل
-eniris: entra
-eniru: entrez ! 
-facilmovaj: facile à déplacer
-faligi: faire tomber
-faligis: a fait tomber
-familianoj: membres de la famille
+eniris: دَحَلَ
+eniru: أدخل
+facilmovaj: سهل الحركة
+faligi: يٌسقِط
+faligis: أَسقَطَ
+familianoj: أجد أفراد الأسرة 
 fermita: مغلق
 fine: أخيرا
-foresti: partir
-foriros: partira
-fratino: soeur
+foresti: يبعد
+foriros: 
+- `ذهب بعيداً
+-غادر
+fratino: أخت 
 fuŝparolis: a mal parlé
-geamikoj: amis
-gefratoj: frères et soeurs
-gelernantojn: élèves
-gepatroj: parents
+geamikoj: أصدقاء من مختلف الجنسين
+gefratoj: الاخوة و الاخوات 
+gelernantojn: متعلمون
+gepatroj: الوالدين
 gondolisto: gondolier 
 gondolistoj: gondoliers
 grafino: comtesse

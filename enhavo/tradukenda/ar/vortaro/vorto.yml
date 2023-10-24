@@ -72,7 +72,7 @@ gondolistoj: gondoliers
 grafino: comtesse
 grafinon: comtesse
 grandula: géant
-gravuloj: personnalités
+gravuloj: ذو شأن
 haltigis: يٌوقِف
 havigi: يٌمَلِّك
 havindan: à avoir
@@ -134,9 +134,11 @@ malkontentigi: يٌحبِط
 mallaŭte: بخفوت
 malliberejon: سجن
 mallumo: ظلام
-malmulte: نادراً
+malmulte: 
+- قليلاً
+-نادراً
 malmultekosta: رخيص
-malmulton: peu
+malmulton: نٌدرة
 malnova: قديم
 malnovaj: قديمة
 malofte: rare 
@@ -150,66 +152,65 @@ malsukcesa: فاشل
 maltrankvila: صاخب
 malvarman: froid
 malĝoja: تعاسة
-malŝatas: est affamé
-malŝatis: était affamé 
-manĝaĵo: nourriture
+malŝatas: يكره
+malŝatis:كًرهُ
+manĝaĵo: وجبة
 manĝegi: يأكل بنهم
 maristo: marin
 maristoj: marins
 mariston: marin
-miaj: mes
+miaj: الخاصة بي
 militistoj: محاربون
-monerojn: pièces de monnaie
-monujo: porte-monnaie
-morgaŭan: demain
-mortigo: meurtre
-moviĝis: déplacer
-multekosta: cher
-multpiedaj: à plusieurs pieds
-naskiĝtaga: "d'anniversaire"
-naskiĝtago: anniversaire
-naturaĵojn: choses naturelles
-nehoma: non humain
-neinteresaj: inintéressants
-nokta: nocturne
-novaĵoj: nouvelles
-opinion: opinion
-ordigi: ranger
-paperoj: papiers
-paperojn:  papiers
-paperujon: corbeille
-pasigos: passera
+monerojn: عملات معدنية
+monujo: محفظة
+morgaŭan: الغد
+mortigo: قتل
+moviĝis: تتحرك
+multekosta: غالب
+multpiedaj: عدة أقدام
+naskiĝtaga:  يوم ميلاد
+naskiĝtago: يوم ميلاد
+naturaĵojn: أطعمة
+nehoma: بدون إنسان
+neinteresaj: غير شيقة
+nokta: ليلي
+novaĵoj: أخبار
+opinion: رأيأً
+ordigi: ليرتب
+paperoj: ورق
+paperojn:  ورقاً
+paperujon: حافظة أوراق
+pasigos: يقضي
 patrino: أم
-perdigis: a perdu
-plenigadis: a rempli
+perdigis: يجعله يفقد
 plenumis: a rempli
 plibeligis: "s'est rendue belle"
 plimulto: majorité
 policano: شٌرطي
 promenejo: ممشى
 promeno: مشى 
-rapidege: très rapide
-realigi: réaliser
-redonu: rends
+rapidege: بسرعة فائقة
+realigi: يجعله واقعاً
+redonu: يٌعٍيد العطية
 rekapti: réattraper
 repaciĝon: repacification
-revenis: est revenu
-revidi: revoir
-revido: revoir
-ridetis: a souri
-rideto: sourire
+revenis: عاد
+revidi: يرى مجدداً
+revido: رؤيك ثانيةً
+ridetis: ابتسم
+rideto: ابتسامة 
 riĉeco: الغناء
 riĉulo: غني
 salton: قفز
 saluton: مرحباً
-samklubanoj: membre du même club
-sekretajn: secret
+samklubanoj: عضو لذات النادي
+sekretajn: غامضة
 sekreton: سر
-senbrue: silencieusement
-seninterese: désintéressé
+senbrue: بدون صخب
+seninterese: بدون اهتمام
 senkolora: بدون لون
 sensukcese: بدون نجاح
-sentimulo: sans peur
+sentimulo: شجاع
 senvorte: من غير ولا كلمة
 sinjorinoj: سادة
 sinjorinon: سيدات
@@ -217,15 +218,15 @@ skribotablo: bureau
 soleca: seule
 sovaĝejo: nature
 sportisto: محترف رياضي
-subakvigis: noyer
-subakviĝis: se noyer
+subakvigis: أغرق 
+subakviĝis: غاص
 subite: فجأة
 supren: فوق
 surhavas: يرتدي
 surlokan: sur place
 teroristoj: إرهابيون
-tiuokaze: dans ce cas
-travivaĵo: aventure
+tiuokaze: بتلك 
+travivaĵo: خبرة حياتية
 tridekjara: "الثالث والثلاثون"
 troviĝis: يتواجد
 unuaj: أول 

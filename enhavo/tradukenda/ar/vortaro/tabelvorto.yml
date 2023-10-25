@@ -8,38 +8,48 @@ io: شيء ما
   - كل
   - كل شئ
 nenio: لا شىء
-kiu: 
+kiu:
+- من 
+- أى 
+- اسم موصول لشخص أو شئ بالتحديد
+
+tiu:
 -ذلك الشخص  
 -ذلك الشئ بالتحديد
-tiu: cette personne
-iu: "quelqu'un"
+iu: شحص ما
 ĉiu: 
 -كل الأشخاص
 - كل ذلك الششء بالتحديد
 neniu:
 - ليس لأحد
 - نفى شئ على وجه الخصوص
-kie: أين
+kie:
+- أين
+- المكان الذي
 tie: هناك
 ie: مكان ما
 ĉie: في كل مكان
 nenie: ليس بأى مكان
 kia: كيف يبدو
-tia: de cette sorte
-ia: une sorte de
-ĉia: de toute sorte
-nenia: "d'aucune sorte"
-kiel: comment
-tiel: ainsi
-iel: "d'une certaine manière"
-ĉiel: de toute manière
-neniel: "d'aucune manière"
+tia:
+- من ذلك النوع
+- من تلك الشاكلة
+ia: نوعاً ما
+ĉia: على كل شاكلة
+nenia: ليس بأى نوع
+kiel: كيف
+tiel: بتلك الطريقة
+iel: بطريقة ما
+ĉiel: في كل الأحوال
+neniel: استحالة
 kial: لماذا
 tial: لذلك
 ial:لسبب ما 
 ĉial: لكل الأسباب
 nenial: بدون أى أسباب
-kiam: متى 
+kiam:
+- حينما
+- متى 
 tiam: ومن ثمَّ
 iam:  في وفت ما
 ĉiam: دائماً
@@ -53,7 +63,9 @@ iom:
 - القليل
 ĉiom: كل الكمية 
 neniom: نفى الكمية
-kies: السؤال عن الملكية
+kies: 
+-السؤال عن الملكية
+- اسم موصول للملكية
 ties: 
 - ذلك الذى صاحبه
 - تلك التى صاحبها

@@ -8,21 +8,23 @@ io: شيء ما
   - كل
   - كل شئ
 nenio: لا شىء
-kiu: qui
+kiu: 
+-ذلك الشخص  
+-ذلك الشئ بالتحديد
 tiu: cette personne
 iu: "quelqu'un"
 ĉiu: 
-- tout le monde
-- tous
+-كل الأشخاص
+- كل ذلك الششء بالتحديد
 neniu:
-- personne
-- "aucun d'eux"
-kie: où
-tie: là
-ie: quelque part
-ĉie: partout
-nenie: nulle part
-kia: de quelle sorte
+- ليس لأحد
+- نفى شئ على وجه الخصوص
+kie: أين
+tie: هناك
+ie: مكان ما
+ĉie: في كل مكان
+nenie: ليس بأى مكان
+kia: كيف يبدو
 tia: de cette sorte
 ia: une sorte de
 ĉia: de toute sorte
@@ -32,25 +34,29 @@ tiel: ainsi
 iel: "d'une certaine manière"
 ĉiel: de toute manière
 neniel: "d'aucune manière"
-kial: pourquoi
-tial: pour cette raison
-ial: pour une certaine raison
-ĉial: pour toutes les raisons
-nenial: pour aucune raison
-kiam: quand
-tiam: à ce moment
-iam: 
-- un jour
-- à ce moment
-ĉiam: toujours
-neniam: jamais
-kiom: combien
-tiom: de cette quantité
-iom: un peu
-ĉiom: toutes les quantités
-neniom: aucune quantité
-kies: de qui
-ties: de celui-ci
-ies: "à quelqu'un"
-ĉies: à tout le monde
-nenies: à personne
+kial: لماذا
+tial: لذلك
+ial:لسبب ما 
+ĉial: لكل الأسباب
+nenial: بدون أى أسباب
+kiam: متى 
+tiam: ومن ثمَّ
+iam:  في وفت ما
+ĉiam: دائماً
+neniam: أبداً
+kiom: للسؤال عن الكمية
+tiom: 
+- تلك الكمية 
+- الكثير
+iom: 
+- كمية ما 
+- القليل
+ĉiom: كل الكمية 
+neniom: نفى الكمية
+kies: السؤال عن الملكية
+ties: 
+- ذلك الذى صاحبه
+- تلك التى صاحبها
+ies: صاحب ما
+ĉies: كل ما يملكه 
+nenies: نفى الملكية

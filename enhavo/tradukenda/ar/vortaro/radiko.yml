@@ -35,7 +35,7 @@ demand: تطلب
 dev: واجب
 dezir: رغبة
 diabl: شيطان
-dik: ضخم
+dik: سمين
 dimanĉ: الأحد
 dir: أقول
 direkt: 
@@ -77,7 +77,7 @@ frat:
   - شقيق
   - أخ
 fru: مبكرا
-fuŝ: فوضى
+fuŝ: فَسَدَ
 gondol: جندول
 graf: الكونت
 grand: كبير
@@ -99,7 +99,7 @@ itali: إيطاليا
 jar: عام
 jun: شاب
 kaf: قهوة
-kalv: قريبا
+kalv:  أصلع
 kap: الرأس
 kapabl: قادر 
 kapt: قبض
@@ -133,12 +133,12 @@ lamp: مصباح
 land: بلد
 larĝ: واسع
 last: آخر
-laŭt: قوى
+laŭt: عالي
 lecion: درس
 leg: قرأ
 lern: تعلم
 leter: حرف
-liber: حر
+liber: حرية،حر
 libr: كتاب
 lok: مكان
 long: طويل
@@ -170,7 +170,7 @@ natur: طبيعة
 neces: حاجة
 nokt: ليل
 nom: اسم
-not: مذكرة
+not: دوَنَ
 nov: جديد
 odor: إحساس
 oft: غالبا
@@ -180,7 +180,9 @@ onkl:
   - عم
   - خال
 opini: رأي
-ord: أمر
+ord: 
+- نظام 
+- تمام
 orel: إذن
 pac: سلام
 pag: دفع
@@ -204,9 +206,9 @@ plaĉ: يعجب
 plen: كامل
 polic: شرطة
 pord: باب
-port: 
-  - احذر
-  - إ نتبه
+port:
+- يحمل 
+- يرتدي
 pov: يستطيع
 pren: أخذ
 pret: 
@@ -221,11 +223,11 @@ promen:
 propon: عرض
 prov: يحاول
 rajt: الحق في
-rapid: بسرعة
+rapid: سريع
 raport: تقرير
 real: شئ حقيقي
 rekt: مباشرة
-renkont: يلا قي
+renkont: يقابل
 respekt: احترام
 respond: إجابة
 rest: يبقي
@@ -249,7 +251,7 @@ sekv: تابع
 semajn: أسبوع
 send: إرسال
 serĉ: بحث
-si: ضمير انعكاسي
+si: ضمير متعكس
 sid: جلس
 silent: الصمت
 simil: مطابق
@@ -273,8 +275,10 @@ te: شاي
 telefon: هاتف
 temp: وقت
 temperatur: درجة الحرارة
-ten: عقد
-teror: رعب
+ten: عَقدَ
+teror:
+- إرهاب
+- رعب
 tim: خوف
 ton: نغمة
 trankvil: هدوء
@@ -310,7 +314,9 @@ vort: كلمة
 voĉ: صوت
 zorg: مهتم
 ĉambr: غرفة
-ĉef: زعيم
+ĉef: 
+- أساس 
+- زعيم، مدير
 ĝen: إزعاج
 ĝeneral: العام
 ĝoj: فرح

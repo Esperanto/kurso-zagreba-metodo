@@ -1,36 +1,40 @@
-ad:  action continue
-an:  "membre d'un groupe"
+ad:  للإستمرار
+an:  
+- عضو
+- تابع 
 ar:
   - مجموعة
-aĉ:  indique un aspect négatif
-aĵ:  chose concrète
-ebl: possibilité
-ec:  qualité abstraite
+aĉ: للدلالة على القبح
+aĵ: لإبراز شئ من معنى واسع
+ebl: قابل
+ec:  تجريد المعنى
 eg:
-  - grand
-  - augmentatif
-ej:  مكان
+  - تكبير
+  - تقوية المعنى
+ej:
+- موقع
+- مكان
 er:
-  - fragment
-  - petite pièce
-  - particule
+- وحدة
+- قطرة 
 estr:
-  - chef
-  - principal
+  - مدير
 et:  
-  - petit
-  - diminutif
+  - للتصغير
+  - تضعيف المعنى
 ig:  
-  - faire quelque chose
+  - ليجعل
 il: أداة
-in: أنثى
-ind: digne de
-ist: مهنة
+in: للتأنيث
+ind: للاستحقاق
+ist: لاحقة للمهن و للإعتقاد
 iĝ: يصبح
-uj: 
-  - وعاء
-  - بلد
+uj:
+- حافظة
+- وعاء
+- شجرة
+- بلد
 ul: 
-  - شخص
+- شخص
 um:  
-  - signification indéfinie
+- لاحقة لاشتقاق الأفعال والحال من الأسماء

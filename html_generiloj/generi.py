@@ -9,6 +9,7 @@ import shutil
 import genanki
 import jinja2
 import mistune
+import markupsafe
 
 
 def render_page(name, enhavo, vojprefikso, env):
@@ -123,7 +124,7 @@ def generate_html(lingvo, enhavo, args):
     md = mistune.Markdown()
 
     env = jinja2.Environment()
-    env.filters['markdown'] = lambda text: jinja2.Markup(md(text))
+    env.filters['markdown'] = lambda text: markupsafe.Markup(md(text))
     env.trim_blocks = True
     env.lstrip_blocks = True
     env.loader = jinja2.FileSystemLoader('html_generiloj/templates/')

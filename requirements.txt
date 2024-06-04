@@ -2,7 +2,7 @@ cached-property==1.5.2
 chevron==0.14.0
 frozendict==2.3.8
 genanki==0.13.0
-Jinja2==3.1.2
+Jinja2==2.10
 MarkupSafe==2.0.1
 mistune==0.8.4
 PyYAML==6.0.1

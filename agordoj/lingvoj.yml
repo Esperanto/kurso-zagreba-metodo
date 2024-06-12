@@ -62,6 +62,15 @@ de:
       github:
     - nomo: David J. Sellinger
       github: jonnie-z
+el:
+  nomo:
+    fontlingve: Ελληνικά
+    esperante: greka
+  stato: testa
+  komentejo: 0
+  aŭtoroj:
+    - nomo: Andreas Zervas
+      github: andzer
 en:
   nomo:
     fontlingve: English

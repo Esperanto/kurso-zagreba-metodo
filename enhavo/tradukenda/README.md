@@ -24,18 +24,7 @@ La [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo) estas jam trad
 La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkaj skanaĵoj ekzistas:
 
 - [angla](http://esperantofre.com/zagreb/zagreba.htm)
-- [bulgara](https://drive.google.com/open?id=0B73-tppgbUreWE9Pakk3X3YtajA)
-- [finna](https://drive.google.com/open?id=0B73-tppgbUreUmhjOXhfRjROTms)
-- [hispana](http://esperantofre.com/zagreb/zagrebh.htm)
-- [itala](https://drive.google.com/open?id=0B73-tppgbUreZ3dxUVB5QWFTMGs)
-- [korea](https://drive.google.com/open?id=0B73-tppgbUreRGVKUXJqSzUwaVU), [alia versio](https://drive.google.com/open?id=0B73-tppgbUreQ3hOOG50WGFPQTQ)
-- [kroata](https://drive.google.com/open?id=0B73-tppgbUrecVZxc21TQ2syUzQ)
-- [makedona (nekompleta)](https://drive.google.com/open?id=0B73-tppgbUreZVRhTUVQWjMtYlU)
-- [pola](https://drive.google.com/open?id=0B73-tppgbUreU2tGMEFWR0pCblU)
-- [rumana](https://drive.google.com/open?id=0B73-tppgbUreN19waV84ZnFwd0E)
-- [slovaka](https://drive.google.com/open?id=0B73-tppgbUreTGdWT19JQ09jamM)
-- [vjetnama](https://drive.google.com/open?id=0B73-tppgbUreYjBObFBhcHZROTg)
-- [...pluraj](https://drive.google.com/drive/folders/0B73-tppgbUrec2xJbW05UTJFb0U?resourcekey=0-rUrk3i8rCIjW3tCnzcjPSw&usp=sharing)
+- [bulgara, finna, hispana, itala, korea, kroata, makedona (nekompleta), pola, rumana, slovaka, vjetnama kaj pluraj](https://mega.nz/folder/kchTHKwD#4EtlaUyMuPqEbx5No-qgAw)
 
 (Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu min](mailto:georg@jaehnig.org)!)
 

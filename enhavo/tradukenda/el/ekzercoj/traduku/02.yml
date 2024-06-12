@@ -1,26 +1,38 @@
 - eniri: 
-  - to go in
-  - to enter
-- enhavo: 
-  - contents
-  - content
+  - εισάγω
+  - μπαίνω
+- enhavo: περιεχόμενο
 - kunsido:
-  - meeting
-  - session
-- malbona: bad
+  - συνεδρία
+  - συνεδρίαση
+  - σύσκεψη
+- malbona: 
+  - κακός
+  - κακή
+  - κακό
 - kunveno: 
-  - meeting
-  - assembly
-- malfacila: difficult
-- maljuna: old
-- gepatroj: parents
-- alveni: to arrive
+  - συνάντηση
+  - συνέλευση
+- malfacila: 
+  - δύσκολος
+  - δύσκολη
+  - δύσκολο
+- maljuna: 
+  - παλιός (σε ηλικία)
+  - παλιά (σε ηλικία)
+  - παλιό (σε ηλικία)
+  - γέρος
+  - γριά
+- gepatroj: γονείς
+- alveni: 
+  - να φτάσω
+  - προσέρχομαι
 - bonvena:
-  - welcome
-  - welcoming
-- gefratoj: siblings
-- trinkmono: tip
-- malami: to hate
+  - καλώς ήρθες
+  - καλώς ήρθατε
+- gefratoj: αδέρφια
+- trinkmono: φιλοδώρημα, πουρμπουάρ
+- malami: να μισώ
 - kunlabori:
-  - to collaborate
-  - to work together
+  - να συνεργάζομαι
+  - να εργάζομαι μαζί

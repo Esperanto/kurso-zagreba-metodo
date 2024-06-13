@@ -1,54 +1,54 @@
 - 
-  demando: Can you bring along the medicine of my sister?
+  demando: Μπορείς να φέρεις μαζί το απολυμαντικό της αδελφής μου;
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
-    - '?'
+    - Ĉu: Μήπως
+    - vi: εσύ
+    - povas: μπορείς
+    - kunporti: να φέρεις μαζί
+    - la: το
+    - sanigilon: απολυμαντικό
+    - de: από
+    - mia: τη δική μου
+    - fratino: αδελφή
+    - '?': ;
 - 
-  demando: When did you buy that music instrument?
+  demando: Πότε αγόρασες αυτό το μουσικό όργανο;
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
-    - '?'
+    - Kiam: Πότε
+    - vi: εσύ
+    - aĉetis: αγόρασες
+    - tiun: αυτό
+    - muzikilon: το μουσικό όργανο
+    - '?': ;
 - 
-  demando: Who did use my key the last time?
+  demando: Ποιός χρησιμοποίησε το κλειδί μου τελευταία;
   rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
-    - '?'
+    - Kiu: Ποιός
+    - laste: τελευταία
+    - uzis: χρησιμοποίησε
+    - mian: το δικό μου
+    - ŝlosilon: κλειδί
+    - '?': ;
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Ταξίδεψες επίσης με γόνδολα στη Βενετία;
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
-    - '?'
+    - Ĉu: Μήπως
+    - vi: εσύ
+    - en: στην
+    - Venecio: Βενετία
+    - veturis: ταξίδεψες
+    - ankaŭ: επίσης
+    - per: με
+    - gondolo: γόνδολα
+    - '?': ;
 - 
-  demando: Will you be able to fall asleep when it got quiet?
+  demando: Μήπως θα μπορείς να κοιμηθείς όταν βρήκες ησυχία;
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Ĉu: Μήπως
+    - vi: εσύ
+    - povos: θα μπορείς
+    - ekdormi: να κοιμηθείς
     - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
-    - '?'
+    - kiam: όταν 
+    - silentiĝis: βρήκες ησυχία
+    - '?': ;

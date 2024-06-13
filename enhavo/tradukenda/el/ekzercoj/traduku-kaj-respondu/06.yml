@@ -1,72 +1,74 @@
 - 
-  demando: Do you want me to show you my newest book?
+  demando: Θέλεις να σου δείξω το πιο καινούργιο μου βιβλίο;
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
+    - Ĉu: Μήπως
+    - vi: εσύ
+    - deziras: 
+      - επιθυμείς
+      - θέλεις
     - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+    - ke: ότι 
+    - mi: εγώ
+    - montru: να δείξω
+    - al: σε
+    - vi: εσένα
+    - mian: το δικό μου
+    - plej: πιο
+    - novan: καινούργιο
+    - libron: βιβλίο
     - '?'
 - 
-  demando: What do you want for breakfast tomorrow?
+  demando: Τι θέλεις να φας για πρωινό αύριο;
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
-    - '?'
+    - Kion: Τι
+    - vi: εσύ
+    - volas: θέλεις
+    - morgaŭ: αύριο
+    - matenmanĝi: να φας για πρωινό
+    - '?': ;
 - 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
+  demando: Πότε θα φτάσει ο Μαρκος, κατά τις πέντε ή κατά τις οκτώ;
   rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
+    - Kiam: Πότε
+    - Marko: ο Μάρκος
+    - alvenos: θα φτάσει
     - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
-    - '?'
+    - je: κατά
+    - la: τις
+    - kvina: πέντε
+    - aŭ: ή
+    - je: κατά 
+    - la: τις
+    - oka: οκτώ
+    - horo: ώρα
+    - '?': ;
 - 
-  demando: When did you notice that the whole family calls me benefactor?
+  demando: Πότε πρόσεξες ότι όλη η οικογένεια με αποκαλεί ευεργέτη;
   rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
+    - Kiam: Πότε
+    - vi: εσύ
+    - rimarkis: πρόσεξες
     - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
-    - '?'
+    - ke: ότι
+    - la: η
+    - tuta: όλη
+    - familio: οικογένεια
+    - nomas: αποκαλεί
+    - min: εμένα
+    - bonfarulo: ευεργέτη
+    - '?': ;
 - 
-  demando: Was the booklet which I send you useful to you?
+  demando: Ήταν το βιβλιάριο το οποίο σου έστειλα χρήσιμο σε σένα  ;
   rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
+    - Ĉu: Μήπως
+    - la: το 
+    - libreto: βιβλιάριο
+    - estis: ήταν
+    - utila: χρήσιμο
+    - al: σε
+    - vi: σένα
     - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
-    - '?'
+    - kiun: το οποίο
+    - mi: εγώ 
+    - sendis: έστειλα
+    - '?': ;

@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly when someone is singing joyfully?
+  demando: Μπορείς να μαθαίνεις ήρεμα, ενώ κάποιος τραγουδάει χαρούμενα;
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - Ĉu: Μήπως
+    - vi: εσύ
+    - povas: μπορείς
+    - trankvile: ήρεμα
+    - lerni: να μαθαίνεις
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
-    - '?'
+    - dum: ενώ
+    - iu: κάποιος
+    - ĝoje: χαρούμενα
+    - kantas: τραγουδάει
+    - '?': ;
 -
-  demando: Who knows when and where we will see each other again?
+  demando: Ποιός ξέρει πότε και πού θα ξαναδούμε ο ένας τον άλλο;
   rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+    - Kiu: Ποιός
+    - scias: ξέρει
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
-    - '?'
+    - kiam: πότε 
+    - kaj: και
+    - kie: που
+    - ni: εμείς
+    - revidos: θα ξαναδούμε
+    - nin: ο ένας τον άλλο
+    - '?': ;
 -
-  demando: What time is it now?
+  demando: Τι ώρα είναι τώρα;
   rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
-    - '?'
+    - Kioma: Πόση
+    - horo: ώρα
+    - estas: είναι 
+    - nun: τώρα
+    - '?': ;
 -
-  demando: Did someone help you open the door of the old house?
+  demando: Σε βοήθησε κάποιος να ανοίξεις την πόρτα του παλιού σπιτιού;
   rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
-    - '?'
+    - Ĉu: Μήπως
+    - iu: κάποιος 
+    - helpis: βοήθησε 
+    - al: σε 
+    - vi: εσένα 
+    - malfermi: να ανοίξεις 
+    - la: την  
+    - pordon: πόρτα 
+    - de: από
+    - la: το
+    - malnova: παλιό
+    - domo: σπίτι
+    - '?': ;
 -
-  demando: Why do you not have time to listen to me longer?
+  demando: Γιατί δεν έχεις χρόνο να με ακούσεις πιο πολύ;
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
-    - '?'
+    - Kial: Γιατί
+    - vi: εσύ
+    - ne: δεν
+    - havas: έχεις
+    - tempon: χρόνο
+    - aŭskulti: να ακούσεις
+    - min: εμένα
+    - pli: πιό
+    - longe: πολύ
+    - '?': ;

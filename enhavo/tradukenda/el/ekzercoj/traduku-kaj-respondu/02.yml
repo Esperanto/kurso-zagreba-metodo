@@ -1,70 +1,70 @@
 - 
-  demando: What was your old home like?
+  demando: Πως ήταν το παλιό σου σπίτι; 
   rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
-    - '?'
+    - Kia: Πως
+    - estis: ήταν
+    - via: σου
+    - malnova: το παλιό
+    - hejmo: σπίτι 
+    - '?': ;
 - 
-  demando: Which books did you read, and were they good?
+  demando: Ποιά βιβλία διάβασες εσύ, και μήπως ήταν αυτά καλά;
   rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
-    - '?'
+    - Kiujn: Ποιά 
+    - librojn: βιβλία
+    - vi: εσύ
+    - legis: διάβασες
+    - kaj: και
+    - ĉu: μήπως
+    - ili: αυτά
+    - estas: ήταν
+    - bonaj: καλά 
+    - '?': ;
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
+  demando: Τι έκαναν η Άννα και ο Μαρκ μέσα στο μικρό δωμάτιο του Μαρκ;
   rektatraduko:
-    - Kion: What
-    - faris: did do
-    - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
-    - '?'
+    - Kion: Τι
+    - faris: έκαναν
+    - Anna: η Άννα
+    - kaj: και
+    - Marko: ο Μαρκ
+    - en: μέσα 
+    - la: στο
+    - malgranda: μικρό
+    - ĉambro: δωμάτιο
+    - de: του
+    - Marko: Μαρκ
+    - '?': ;
 - 
-  demando: Do you like reading books about love?
+  demando: Σου αρέσει να διαβάζεις βιβλία σχετικά με την αγάπη; 
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
-    - '?'
+    - Ĉu: Μήπως
+    - vi: σου
+    - ŝatas: αρέσει
+    - legi: να διαβάζεις
+    - librojn: βιβλία
+    - pri: σχετικά με
+    - amo: την αγάπη
+    - '?': ;
 - 
-  demando: Who will go with you to your home?
+  demando: Ποιός θα πάει μαζί σου στο σπίτι σου;
   rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
-    - '?'
+    - Kiu: Ποιός
+    - iros: θα πάει
+    - kun: μαζί
+    - vi: σου
+    - al: στο 
+    - via: σου
+    - hejmo: σπίτι
+    - '?': ;
 - 
-  demando: "What are your girl-friend's eyes like?"
+  demando: Πως είναι τα μάτια της φίλης σου; 
   rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
-    - '?'
+    - Kiaj: Πως
+    - estas: είναι
+    - la: τα
+    - okuloj: μάτια
+    - de: της
+    - via: σου
+    - amikino: φίλης
+    - '?': ;

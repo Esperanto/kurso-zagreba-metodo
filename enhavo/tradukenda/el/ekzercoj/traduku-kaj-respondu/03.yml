@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
+  demando: Οι σερβιτόροι στα μεγάλα ξενοδοχεία καταλαβαίνουν πολλές γλώσσες; Do waiters in large hotels understand a lot of languages? 
   rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
-    - '?'
+    - Ĉu: Μήπως 
+    - kelneroj: οι σερβιτόροι
+    - en: στα
+    - grandaj: μεγάλα
+    - hoteloj: ξενοδοχεία
+    - komprenas: καταλαβαίνουν
+    - multajn: πολλές
+    - lingvojn: γλώσσες
+    - '?': ;
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Ξέρεις μήπως αρέσει στην Άννα το νέο τραγούδι σχετικά με ένα φτωχό άντρα και ένα όμορφο κορίτσι;
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+    - Ĉu: Μήπως
+    - vi: εσύ
+    - scias: ξέρεις
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
-    - '?'
+    - ĉu: μήπως
+    - Anna: στην Άννα 
+    - ŝatas: αρέσει
+    - la: το
+    - novan: νέο
+    - kanton: τραγούδι
+    - pri: σχετικά με
+    - malriĉulo: ένα φτωχό άντρα
+    - kaj: και
+    - belulino: ένα όμορφο κορίτσι
+    - '?': ;
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
+  demando: Πού είδες εσύ τον γέρο και τον νεαρό, οι οποίοι κουβαλούσαν ένα μεγάλο τραπέζι;
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+    - Kie: Πού
+    - vi: εσύ
+    - vidis: είδες
+    - la: τον
+    - maljunulon: γέρο
+    - kaj: και
+    - la: τον
+    - junulon: νεαρό
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
-    - '?'
+    - kiuj: οι οποίοι
+    - portis: κουβαλούσαν
+    - grandan: ένα μεγάλο
+    - tablon: τραπέζι
+    - '?': ;
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
+  demando: Πώς έγινε, έτσι ώστε εσύ ήρθες πάλι σε εμάς χωρίς αδελφούς και αδελφές;
   rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+    - Kiel: Πώς
+    - okazis: έγινε
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
-    - '?'
+    - ke: έτσι ώστε
+    - vi: εσύ
+    - denove: πάλι
+    - venis: ήρθες
+    - al: σε 
+    - ni: εμάς
+    - sen: χωρίς
+    - gefratoj: αδελφούς και αδελφές
+    - '?': ;
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Μπορείς εσύ να μάθεις αρκετά γρήγορα Εσπεράντο με την βοήθεια του νέου βιβλίου κειμένου;
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
-    - '?'
+    - Ĉu: Μήπως
+    - vi: εσύ
+    - povas: μπορείς
+    - per: με τη βοήθεια
+    - la: του 
+    - nova: νέου
+    - lernolibro: βιβλίου κειμένου
+    - sufiĉe: αρκετά
+    - rapide: γρήγορα
+    - lerni: να μάθεις
+    - Esperanton: Εσπεράντο
+    - '?': ;

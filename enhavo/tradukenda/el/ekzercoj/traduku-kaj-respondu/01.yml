@@ -7,51 +7,51 @@
     - amikino: η φίλη
     - '?': ;
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Η φίλη σου Άννα γράφει τώρα μέσα στο δωμάτιο; 
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: female friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
-    - '?'
+    - Ĉu: Μήπως
+    - via: σου
+    - amikino: η φίλη
+    - Anna: Άννα
+    - skribas: γράφει
+    - nun: τώρα
+    - en: μέσα
+    - la: στο 
+    - ĉambro: δωμάτιο
+    - '?': ;
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: Ο φίλος του πατέρα σου δουλεύει σε ένα ξενοδοχείο; 
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
-    - '?'
+    - Ĉu: Μήπως
+    - la: ο
+    - amiko: φίλος
+    - de: του
+    - via: σου
+    - patro: πατέρα
+    - laboras: δουλεύει
+    - en: σε 
+    - hotelo: ένα ξενοδοχείο
+    - '?': 
 - 
-  demando: What is on the work-bench in our room?
+  demando: Τι υπάρχει πάνω στην επιφάνεια εργασίας μέσα στο δωμάτιο μας;
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
-    - '?'
+    - Kio: Τι 
+    - estas: υπάρχει
+    - sur: πάνω
+    - la: στην
+    - labortablo: επιφάνεια εργασίας
+    - en: μέσα στο
+    - nia: μας
+    - ĉambro: δωμάτιο
+    - '?': 
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: Υπάρχει ένα βιβλίο εκμάθησης Εσπεράντο πάνω στο τραπέζι σου; Is there an Esperanto textbook on your table?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto-textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
-    - '?'
+    - Ĉu: Μήπως
+    - Esperanto-lernolibro: ένα βιβλίο εκμάθησης Εσπαράντο
+    - estas: υπάρχει
+    - sur: πάνω στο
+    - via: σου 
+    - tablo: τραπέζι
+    - '?': ;
 

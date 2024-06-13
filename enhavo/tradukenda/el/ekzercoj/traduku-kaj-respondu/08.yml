@@ -1,86 +1,88 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: Ποιός θα καθαρίσει την κουζίνα μετά το γεύμα;
   rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
-    - '?'
+    - Kiu: Ποιός
+    - purigos: θα καθαρίσει
+    - la: την
+    - kuirejon: κουζίνα
+    - post: μετά
+    - la: το
+    - tagmanĝo: γεύμα
+    - '?': ;
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: "Τι θέλεις να πιείς: τσάι, λίγο καφέ ή δεν θέλεις τίποτα;"
   rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
+    - Kion: Τι
+    - vi: εσύ
+    - volas: θέλεις
+    - trinki: να πιείς
     - ':' 
-    - teon: tea
+    - teon: τσάι
     - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
-    - '?'
+    - iom: λίγο
+    - da: από
+    - kafo: καφέ
+    - aŭ: ή
+    - ĉu: μήπως
+    - vi: εσύ
+    - volas: θέλεις
+    - nenion: τίποτα
+    - '?': ;
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
+  demando: Γιατί αποφάσισες τόσο ξαφνικά να ανακαινίσεις το δωματιάκι σου;
   rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
-    - '?'
+    - Kial: Γιατί
+    - vi: εσύ
+    - tiel: τόσο
+    - subite: ξαφνικά
+    - decidis: αποφάσισες
+    - renovigi: να ανακαινίσεις
+    - vian: το δικό σου
+    - ĉambreton: 
+      - μικρό δωμάτιο
+      - δωματιάκι
+    - '?': ;
 - 
-  demando: To whom did you give the clean wine glasses?
+  demando: Σε ποιόν έδωσες τα καθαρά ποτήρια κρασιού;
   rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
-    - '?'
+    - Al: Σε
+    - kiu: ποιόν
+    - vi: εσύ
+    - donis: έδωσες
+    - la: τα
+    - purajn: καθαρά
+    - glasojn: ποτήρια
+    - por: για 
+    - la: το
+    - vino: κρασί
+    - '?': ;
 - 
-  demando: Against whom did your sports club play two weeks ago?
+  demando: Έναντι ποιού έπαιξε ο αθλητικός όμιλος σου πριν δύο εβδομάδες;
   rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
-    - '?'
+    - Kontraŭ: Έναντι
+    - kiu: ποιού
+    - ludis: έπαιξε
+    - via: ο δικός σου
+    - sportklubo: αθλητικός όμιλος
+    - antaŭ: πριν
+    - du: δύο
+    - semajnoj: εβδομάδες
+    - '?': ;
 - 
-  demando: Do you often see the policeman who is living in the appartment above you?
+  demando: Βλέπεις συχνά τον αστυνομικό, που ζει στο διαμέρισμα πάνω από σένα;
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
+    - Ĉu: Μήπως
+    - vi: εσύ
+    - ofte: συχνά
+    - vidas: βλέπεις
+    - la: τον
+    - policiston: αστυνομικό
     - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
-    - '?'
+    - kiu: ο οποίος
+    - loĝas: ζει
+    - en: μέσα 
+    - la: στο
+    - loĝejo: διαμέρισμα
+    - super: πάνω από
+    - vi: εσένα
+    - '?': ;

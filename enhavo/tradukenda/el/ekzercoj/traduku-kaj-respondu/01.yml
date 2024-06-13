@@ -31,7 +31,7 @@
     - laboras: δουλεύει
     - en: σε 
     - hotelo: ένα ξενοδοχείο
-    - '?': 
+    - '?': ;
 - 
   demando: Τι υπάρχει πάνω στην επιφάνεια εργασίας μέσα στο δωμάτιο μας;
   rektatraduko:
@@ -43,7 +43,7 @@
     - en: μέσα στο
     - nia: μας
     - ĉambro: δωμάτιο
-    - '?': 
+    - '?': ;
 - 
   demando: Υπάρχει ένα βιβλίο εκμάθησης Εσπεράντο πάνω στο τραπέζι σου; Is there an Esperanto textbook on your table?
   rektatraduko:

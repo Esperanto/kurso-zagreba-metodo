@@ -1,77 +1,77 @@
 - 
-  demando: Who had the book that you were waiting for more than 2 years?
+  demando: Ποιός είχε το βιβλίο, που περίμενες για πάνω από δύο χρόνια;
   rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
+    - Kiu: Ποιός
+    - havis: είχε
+    - la: το
+    - libron: βιβλίο
     - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
-    - '?'
+    - kiun: το οποίο
+    - vi: εσύ
+    - atendis: περίμενες
+    - pli: πάνω
+    - ol: από
+    - du: δύο
+    - jarojn: χρόνια
+    - '?': ;
 - 
-  demando: Do you want me to show you the photo which is dearest to me?
+  demando: Θέλεις να σου δείξω την πιο αγαπημένη μου φωτογραφία; 
   rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+    - Ĉu: Μήπως
+    - vi: εσύ
+    - volas: θέλεις
     - ','
-    - ke: that
-    - mi: I
-    - montru: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
-    - '?'
+    - ke: ότι
+    - mi: εγώ
+    - montru: να δείξω
+    - al: σε 
+    - vi: σένα
+    - mian: τη δική μου
+    - plej: πιο
+    - karan: αγαπημένη
+    - foton: φωτογραφία
+    - '?': ;
 - 
-  demando: Where did you buy that garment?
+  demando: Πού αγόρασες αυτό το ρούχο;
   rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
-    - '?'
+    - Kie: Πού
+    - vi: εσύ
+    - aĉetis: αγόρασες
+    - tiun: αυτό
+    - vestaĵon: το ρούχο
+    - '?': ;
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
+  demando: Πού θα πάς την Κυριακή, αν είναι μια ηλιόλουστη μέρα;
   rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
+    - Kien: Πού
+    - vi: εσύ
+    - iros: θα πας
+    - dimanĉe: την Κυριακή
     - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
-    - '?'
+    - se: αν
+    - estos: θα είναι
+    - suna: ηλιόλουστη
+    - tago: μέρα
+    - '?': ;
 - 
-  demando: Did your brother already leave?
+  demando: Έφυγε ήδη ο αδελφός σου;
   rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
-    - '?'
+    - Ĉu: Μήπως
+    - via: ο δικός σου
+    - frato: αδελφός
+    - jam: ήδη
+    - ekiris: έχει φύγει
+    - '?': ;
 - 
-  demando: Where is the water which you have brought yourself?
+  demando: Πού είναι το νερό, που εσύ ο ίδιος έφερες;
   rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
+    - Kie: Πού
+    - estas: είναι
+    - la: το
+    - akvo: νερό
     - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - kiun: το οποίο
+    - vi: εσύ
+    - mem: ο ίδιος
+    - kunportis: έφερες
     - '?'

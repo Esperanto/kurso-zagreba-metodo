@@ -1,11 +1,11 @@
-- 
-  demando: Who is your female friend?
+-
+  demando: Ποιά είναι η φίλη σου;
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: female friend
-    - '?'
+    - Kiu: Ποιά
+    - estas: είναι
+    - via: σου
+    - amikino: η φίλη
+    - '?': ;
 - 
   demando: Is your friend Anna now writing in the room?
   rektatraduko:

@@ -1,10 +1,20 @@
-ili: they
-li: he
-lia: his
-mi: I
-mia: my
-ni: we
-oni: one (indefinite pronoun)
-vi: you (can be both singular and plural)
-ĝi: it
-ŝi: she
+ili: 
+  - αυτοί
+  - αυτές
+  - αυτά
+li: αυτός
+lia: 
+  - αυτού
+  - του
+  - δικό του
+mi: εγώ
+mia: 
+  - μου
+  - δικό μου
+ni: εμείς
+oni: κάποιος (απρόσωπη αντωνυμία)
+vi: 
+  - εσύ 
+  - εσείς (μπορεί να είναι ενικός ή πληθυντικός)
+ĝi: αυτό
+ŝi: αυτή

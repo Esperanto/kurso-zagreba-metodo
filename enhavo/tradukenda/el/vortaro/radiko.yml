@@ -4,101 +4,85 @@ akcept: αποδεκτός
 akv: νερό
 ali: άλλος
 alt: ψηλά
-am: να αγαπώ
+am: αγαπώ
 amik: φίλος
 arb: δέντρο
-aspekt:
-- να βλέπω
-- να φαίνομαι
-atend: να περιμένω
-atent: να προσέχω
-aĉet: να αγοράζω
-aŭd: να ακούω
+aspekt: φαίνομαι
+atend: περιμένω
+atent: προσέχω
+aĉet: αγοράζω
+aŭd: ακούω
 aŭt: αυτοκίνητο
 aŭtoritat: εξουσία
-bedaŭr: να συγχωρώ
-bel: όμορφος
+bedaŭr: συγχωρώ
+bel: ωραίο
 best: ζώο
-bezon: να χρειάζομαι
-bien:
-- αγρόκτημα
-- γη
+bezon: χρειάζομαι
+bien: αγρόκτημα
 bon: καλό
 branĉ: κλάδος
 bru: θόρυβος
 buŝ: στόμα
 cert: βέβαιος
-dank: να ευχαριστώ
-daŭr: να συνεχίζω
-decid: να αποφασίζω
-demand: να ρωτώ
-dev: να πρέπει
-dezir: να εύχομαι
+dank: ευχαριστώ
+daŭr: συνεχίζω
+decid: αποφασίζω
+demand: ρωτώ
+dev: πρέπει
+dezir: επιθυμώ
 diabl: διάβολος
-dik:
-- χοντρό
-- παχύ
+dik: παχύ
 dimanĉ: Κυριακή
-dir: να λέω
+dir: λέω
 direkt: κατεύθυνση
 doktor: γιατρός
 dolar: δολλάριο
-dolor:
-- να πονάει
-- πόνος
+dolor: πονάει
 dolĉ: γλυκό
 dom: σπίτι
 don: να δίνω
-dorm: να κοιμάμαι
+dorm: κοιμάμαι
 doĝ: δόγης
 edz: σύζυγος
 efektiv: πράγματι
 ekskurs: εκδρομή
-esper: να ελπίζω
-est: να είμαι
+esper: ελπίζω
+est: είμαι
 facil: εύκολο
 fakt: γεγονός
-fal: να αποτύχω
+fal: πέφτω
 famili: οικογένεια
-far: να κάνω
-fart:
-- να αισθάνομαι
-- να είμαι
+far: κάνω
+fart: αισθάνομαι
 feliĉ: ευτυχής
-ferm: να κλείνω 
-fin: να τελειώνω
-flank: πλευρό
-foj:
-- ευκαιρία
-- φορά
-forges: να ξεχνώ
+ferm: κλείνω 
+fin: τελειώνω
+flank: πλευρά
+foj: φορά
+forges: ξεχνώ
 form: φόρμα
 fort: δυνατός
 fot: φωτογραφία
 frat: αδελφός
 fru: νωρίς
-fuŝ: να μπλέξω
+fuŝ: μπερδεύω
 gondol: γόνδολα
-graf:
-- κόμης
-- κόντες
-grand:
-- μεγάλος
-- τεράστιος
-grav: σημαντικός
-halt: να σταματώ
-hav: να έχω
+graf: κόμης
+grand: μεγάλο
+grav: σημαντικό
+halt: σταματώ
+hav: έχω
 hejm: σπίτι
-help: να βοηθώ
+help: βοηθώ
 hom: άνθρωπος
 hor: ώρα
 hotel: ξενοδοχείο
 ide: ιδέα
 industri: βιομηχανία 
-instru: να διδάσκω
-interes: να ενδιαφέρομαι
-invit: να προσκαλώ
-ir: να πηγαίνω
+instru: διδάσκω
+interes: ενδιαφέρομαι
+invit: προσκαλώ
+ir: πηγαίνω
 itali: Ιταλία
 jar: έτος
 jun: νέαρός
@@ -106,69 +90,66 @@ kaf: καφές
 kalv: φαλακρός
 kap: κεφάλι
 kapabl: ικανός
-kapt: να πιάνω
-kar: αγαπητός
+kapt: πιάνω
+kar: αγαπητό
 kastel: κάστρο
 kav: σπηλιά
 kelk: μερικό
 kelner: σερβιτόρος
-klar: καθαρός
+klar: καθαρό
 klub: όμιλος
 knab: αγόρι
 koler: θυμός
 kolor: χρώμα
-komenc: να σρχίζω
-kompren: να καταλαβαίνω
-kon: να γνωρίζω
-kontent: να ικανοποιώ
-kontrol: να ελέγχω
+komenc: αρχίζω
+kompren: καταλαβαίνω
+kon: γνωρίζω
+kontent: ικανοποιώ
+kontrol: ελέγχω
 kor: καρδιά
 korp: σώμα
-kost: να κοστίζω
-kri: να κραυγάζω
-kuir: να μαγειρεύω
+kost: κοστίζω
+kri: κραυγάζω
+kuir: μαγειρεύω
 kuk: κέικ 
-kur: να τρέχω
-labor: να δουλεύω
+kur: τρέχω
+labor: δουλεύω
 lakt: γάλα
 lamp: λάμπα
-land: χώρα, γη
-larĝ: πλατύς, μεγάλος
-last: 
-- προηγούμενος
-- τελευταίος
-- διαρκώ
+land: χώρα
+larĝ: πλατύς
+last: τελευταίος
 laŭt: μεγαλόφωνος
 lecion: μάθημα
-leg: να διαβάζω
-lern: να μαθαίνω
+leg: διαβάζω
+lern: μαθαίνω
 leter: γράμμα
 liber: ελεύθερος
 libr: βιβλίο
 lok: μέρος
 long: μακρύς
-lud: να παίζω
+lud: παίζω
 lum: φως
 man: χέρι
-mank: να λείπει
-manĝ: να τρώω
+mank: λείπω
+manĝ: τρώω
 mar: θάλασσα
-maten: πρωι
-memor: να θυμάμαι
-met: να βάζω
+maten: πρωί
+memor: θυμάμαι
+met: βάζω
 mez: μέση
 milit: στρατιωτικός
 minut: λεπτό
-mir: να θαυμάζω
+mir: θαυμάζω
 moment: στιγμή
 mon: χρήμα
 mont: βουνό
-montr: να επιδεικνύω
-mort: να πεθαίνω
-mov: να μετακινούμαι
+montr: επιδεικνύω
+mort: πεθαίνω
+mov: μετακινούμαι
 mult: πολύ
 muzik: μουσική
-nask: να γενώ
+nask: γενώ
 natur: φυσικό
 neces: αναγκαίο
 nokt: νύχτα
@@ -177,87 +158,83 @@ not: σημείωση
 nov: νέο
 odor: μυρωδιά
 oft: συχνά
-okaz: να συμβαίνει
+okaz: συμβαίνω
 okul: μάτι
 onkl: θείος
-opini:
-- να έχω γνώμη
-- να νομίζω
-ord: να παραγγέλνω
+opini: νομίζω
+ord: παραγγέλνω
 orel: αφτί
 pac: ειρήνη
-pag: να πληρώνω
+pag: πληρώνω
 pan: ψωμί
 paper: χαρτί
-pardon: να συγχωρώ
-parol: να μιλώ
+pardon: συγχωρώ
+parol: μιλώ
 part: μέρος
-pas: να περνώ
+pas: περνώ
 patr: πατέρας
 paŝ: βήμα
-pens: να νομίζω
-perd: να χάνω
+pens: σκέφτομαι
+perd: χάνω
 person: άτομο
-pet: να ζητώ
+pet: ζητώ
 pez: βαρύ
 pied: πόδι
 plac: μέρος
-plan: να σχεδιάζω
-plaĉ: να ευχαριστιέμαι
+plan: σχεδιάζω
+plaĉ: ευχαριστιέμαι
 plen: γεμάτος
 polic: αστυνομία
 pord: πόρτα
-port: να μεταφέρω
-pov: να μπορώ
-pren: να παίρνω 
+port: μεταφέρω
+pov: μπορώ
+pren: παίρνω 
 pret: έτοιμος
-prezent: να παρουσιάζω
+prezent: παρουσιάζω
 problem: πρόβλημα
 proksim: κοντά
-promen: να περπατώ
-propon: να προτείνω
-prov: να δοκιμάζω
-rajt: να μου επιτρέπεται
-rapid: γρήγορος
-raport: να αναφέρω
-real: πραγματικός
-rekt: ευθύς
-renkont: να συναντιέμαι
-respekt: να σέβομαι
-respond: να απαντώ
-rest: να παραμένω
-ricev: να παραλαμβάνω
-rid: να γελώ
-rigard: να εξετάζω
-riĉ: πλούσιος
+promen: περπατώ
+propon: προτείνω
+prov: δοκιμάζω
+rajt: δικαιούμαι
+rapid: γρήγορο
+raport: αναφέρω
+real: πραγματικό
+rekt: ευθύ
+renkont: συναντιέμαι
+respekt: σέβομαι
+respond: απαντώ
+rest: παραμένω
+ricev: παραλαμβάνω
+rid: γελώ
+rigard: κοιτάζω
+riĉ: πλούσιο
 rol: ρόλος
 ruĝ: κόκκινο
-salt: να πηδώ
-salut: χαιρετισμός
+salt: πηδώ
+salut: χαιρετώ
 sam: ίδιο
 san: υγιές
 saĝ: σοφό
-sci: να ξέρω
+sci: ξέρω
 sek: ξηρό
 sekret: μυστικό
-sekv: να ακολουθώ
+sekv: ακολουθώ
 semajn: εβδομάδα
-send: να στέλνω
-serĉ: να ψάχνω
+send: στέλνω
+serĉ: ψάχνω
 si: αυτοπαθής αντωνυμία
-sid: να κάθομαι
+sid: κάθομαι
 silent: σιωπή
 simil: παρόμοιο
-sinjor:
-- κύριος
-- Κος.
+sinjor: κύριος
 situaci: κατάσταση
-skrib: να γράφω
+skrib: γράφω
 sol: μόνος
-son: να ακούγομαι
+son: ακούγομαι
 sovaĝ: άγριος
 sport: σπορ
-star: να στέκομαι
+star: στέκομαι
 strat: δρόμος
 subit: ξαφνικά
 sufiĉ: επαρκής
@@ -270,48 +247,48 @@ te: τσάι
 telefon: τηλέφωνο
 temp: χρόνος
 temperatur: θερμοκρασία
-ten: να κρατώ
+ten: κρατώ
 teror: τρόμος
-tim: να φοβάμαι
+tim: φοβάμαι
 ton: τόνος
 trankvil: ηρεμία
-trink: να πίνω
-trov: να βρίσκω
+trink: πίνω
+trov: βρίσκω
 turk: τούρκικο
-tuŝ: να αγγίζω
+tuŝ: αγγίζω
 urb: πόλη
 util: χρήσιμο
-uz: να χρησιμοποιώ
-vagon: προπονητής
-varm: ζεστός
-ven: να έρχομαι
-vend: να πουλώ
+uz: χρησιμοποιώ
+vagon: κάρο
+varm: ζεστό
+ven: έρχομαι
+vend: πουλώ
 Veneci: Βενετία
-ver: 'αληθινό'
+ver: αληθινό
 vesper: βράδυ
-vest: να ντύνω
-vetur: να καβαλώ
-vid: να βλέπω
+vest: ντύνω
+vetur: οδηγώ
+vid: βλέπω
 vin: κρασί
 vir: άντρας
-viv: να ζω
+viv: ζω
 vizaĝ: πρόσωπο
-vizit: να επισκέπτομαι
+vizit: επισκέπτομαι
 voj: τρόπος
-vojaĝ: να ταξιδεύω
-vok: να καλώ
-vol: να θέλω
+vojaĝ: ταξιδεύω
+vok: καλώ
+vol: θέλω
 vort: λέξη
 voĉ: φωνή
-zorg: να φροντίζω
+zorg: φροντίζω
 ĉambr: δωμάτιο
 ĉef: αφεντικό
-ĝen: να ενοχλώ
-ĝeneral: γενικός
-ĝoj: χαρούμενος
-ĝust: σωστός
-ĵet: να απορρίπτω
-ŝajn: να φαίνεται
-ŝanĝ: να αλλάζω
-ŝat: να μου αρέσει
+ĝen: ενοχλώ
+ĝeneral: γενικό
+ĝoj: χαρούμενο
+ĝust: σωστό
+ĵet: απορρίπτω
+ŝajn: φαίνεται
+ŝanĝ: αλλάζω
+ŝat: μου αρέσει
 ŝip: πλοίο

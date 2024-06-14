@@ -3,22 +3,22 @@
   rektatraduko:
     - Kiu: Ποιά
     - estas: είναι
-    - via: σου
-    - amikino: η φίλη
-    - '?': ;
+    - via: η δική σου
+    - amikino: φίλη
+    - '?'
 - 
   demando: Η φίλη σου Άννα γράφει τώρα μέσα στο δωμάτιο; 
   rektatraduko:
     - Ĉu: Μήπως
-    - via: σου
-    - amikino: η φίλη
+    - via: η δική σου
+    - amikino: φίλη
     - Anna: Άννα
     - skribas: γράφει
     - nun: τώρα
     - en: μέσα
     - la: στο 
     - ĉambro: δωμάτιο
-    - '?': ;
+    - '?'
 - 
   demando: Ο φίλος του πατέρα σου δουλεύει σε ένα ξενοδοχείο; 
   rektatraduko:
@@ -26,12 +26,12 @@
     - la: ο
     - amiko: φίλος
     - de: του
-    - via: σου
+    - via: δικού σου
     - patro: πατέρα
     - laboras: δουλεύει
     - en: σε 
     - hotelo: ένα ξενοδοχείο
-    - '?': ;
+    - '?'
 - 
   demando: Τι υπάρχει πάνω στην επιφάνεια εργασίας μέσα στο δωμάτιο μας;
   rektatraduko:
@@ -41,17 +41,18 @@
     - la: στην
     - labortablo: επιφάνεια εργασίας
     - en: μέσα στο
-    - nia: μας
+    - nia: δικό μας
     - ĉambro: δωμάτιο
-    - '?': ;
+    - '?'
 - 
-  demando: Υπάρχει ένα βιβλίο εκμάθησης Εσπεράντο πάνω στο τραπέζι σου; Is there an Esperanto textbook on your table?
+  demando: Υπάρχει ένα βιβλίο εκμάθησης Εσπεράντο πάνω στο τραπέζι σου;
   rektatraduko:
     - Ĉu: Μήπως
     - Esperanto-lernolibro: ένα βιβλίο εκμάθησης Εσπαράντο
     - estas: υπάρχει
     - sur: πάνω στο
-    - via: σου 
+    - via: δικό σου 
     - tablo: τραπέζι
-    - '?': ;
+    - '?'
+-
 

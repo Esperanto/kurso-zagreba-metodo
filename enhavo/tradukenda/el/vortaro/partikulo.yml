@@ -1,13 +1,15 @@
 ajn:
-- any
-- at all
-- '-ever'
-des: the (more, less)
-jen: here is
-ju: the (more, less)
-mem: self
+  - οτιδήποτε
+  - καθόλου
+  - '-δήποτε'
+des: όσο πιο
+jen: 
+  - εδώ είναι
+  - ορίστε
+ju: τόσο πιο
+mem: εαυτός
 ne:
-- 'no'
-- not
-ĉi: this
-ĉu: whether (starts questions)
+  - 'όχι'
+  - δεν
+ĉi: αυτό
+ĉu: μήπως (ξεκινά ερωτήσεις)

@@ -1,59 +1,61 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: τι
+tio: αυτό
+io: κάτι
+ĉio: τα πάντα
+nenio: κανένα
 kiu:
-- who
-- which
+- ποιός
+- ποιά
 tiu:
-- that person
-- that one
-iu: someone
+- αυτός
+- αυτή
+iu: 
+  - κάποιος
+  - κάποια
 ĉiu:
-- everyone
-- every
+- καθένας
+- κάθε μία
 neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
+- κανένας
+- καμία
+kie: πού
+tie: εκεί
+ie: κάπου
+ĉie: παντού
+nenie: πουθενά
+kia: τί είδους
+tia: τέτοιου είδους
+ia: κάποιου είδους
+ĉia: όλων των ειδών
+nenia: κανενός είδους
+kiel: πώς
+tiel: έτσι
+iel: με κάποιο τρόπο
+ĉiel: με κάθε τρόπο
+neniel: με κανένα τρόπο
+kial: γιατί
+tial: "γι' αυτό το λόγο"
+ial: για κάποιο λόγο
+ĉial: για κάθε λόγο
+nenial: για κανένα λόγο
+kiam: πότε
+tiam: τότε
+iam: κάποτε
+ĉiam: πάντα
+neniam: ποτέ
+kiom: πόσο πολύ
+tiom: τόσο πολύ
 iom: 
-- to some extent
-- a certain amount
+- μέχρι κάποια ποσότητα
+- μια συγκεκριμένη ποσότητα
 ĉiom: 
-- all of it
-- the whole amount
+- κάθε ποσότητα
+- όλη η ποσότητα
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- καθόλου
+- καμία ποσότητα
+kies: τίνος
+ties: αυτουνού
+ies: κάποιου
+ĉies: όλων
+nenies: κανενός

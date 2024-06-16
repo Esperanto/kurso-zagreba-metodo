@@ -1,5 +1,6 @@
 Esperanto: Εσπεράντο
 akcepteblan: αποδεκτό
+alia: άλλο
 alilandaj: εξωτερικό
 alporti: να φέρει
 alportis: έφερε 
@@ -43,7 +44,11 @@ devojiĝis: να στραβώσει
 dikiĝi: να χοντρήνει
 diras: λέω
 diri: να πω
-diris: έλεγα
+diris: είπα
+dolaro: δολλάριο
+dolaron: δολλάριο
+dolaroj: δολλάρια
+dolarojn: δολλάρια
 doloriga: που προκαλεί πόνο
 dolorige: επίπονο
 domegon: βίλα
@@ -123,6 +128,7 @@ kafo: καφές
 kafon: καφέ
 karulino: αγαπητή
 karulo: αγαπητέ
+kelnero: σερβιτόρος
 kion: τι
 klarigis: εξήγησε
 klarigon: εξήγηση 
@@ -162,6 +168,7 @@ libro: βιβλίο
 libron: βιβλίον
 libroj: βιβλία
 librojn: βιβλία
+loko: μέρος
 longe: για πολύ καιρό
 lumigis: φώτισε
 malagrabla: δυσάρεστος
@@ -206,7 +213,8 @@ malŝatis: δεν άρεσε
 manĝaĵo: τροφή
 manĝas: τρώω
 manĝi: να φάω
-manĝis: έτρωγα
+manĝis: έφαγα
+manĝo: φαγητό
 manĝu:
 - φάε!
 - ας φάω
@@ -223,6 +231,10 @@ monujo: πορτοφόλι
 morgaŭan: αυριανός
 mortigo: φόνος
 moviĝis: μετακόμισε
+multa: πολύ
+multan: πολύν
+multaj: πολλά
+multajn: πολλά
 multekosta: ακριβός
 multpiedaj: πολύποδα
 naskiĝtaga: γενέθλια
@@ -233,6 +245,9 @@ neinteresaj: πληκτικοί
 nokta: νυκτερινός
 nomo: όνομα
 novaĵoj: νέα
+okazas: συμβαίνει
+okazi: να συμβεί
+okazis: συνέβη
 okulo: μάτι
 okulon: μάτι
 okuloj: μάτια
@@ -273,6 +288,8 @@ rideto: χαμόγελο
 rigardas: κοιτάζω
 rigardi: να κοιτάζω
 rigardis: κοίταξα
+riĉa: πλούσιο
+riĉan: πλούσιον
 riĉeco:
 - πλουσιότητα
 - πλούτος
@@ -280,6 +297,11 @@ riĉulo: πλούσιος
 salton: πήδημα
 saluton: γειά σου
 samklubanoj: μέλη του ίδιου ομίλου
+scias: 
+- γνωρίζω
+- ξέρω
+scii: να ξέρω
+sciis: ήξερα
 sekretajn: μυστικά
 sekreton: μυστικόν
 senbrue: σιωπηλά
@@ -288,6 +310,12 @@ senkolora: άχρωμο
 sensukcese: ανεπιτυχώς
 sentimulo: ατρόμητος
 senvorte: χωρίς λόγια
+serĉas: ψάχνω
+serĉi: να ψάξω
+serĉis: έψαξα
+serĉu:
+- ψάξε!
+- ας ψάξω
 sidas: κάθομαι
 sinjorinoj: κυρίες
 sinjorinon: κυρίαν
@@ -336,10 +364,12 @@ viaj: οι δικοί σου
 vidas: βλέπω
 vidi: να βλέπω
 vidis: έβλεπα
+vizaĝo: πρόσωπο
 virino: γυναίκα
 vojaĝantoj: ταξιδιώτες
 volas: θέλω
 volis: ήθελα
+voĉo: φωνή
 ĉambro: δωμάτιο
 ĉambron: δωμάτιον
 ĉambristoj: καμαρότοι

@@ -41,6 +41,9 @@ daŭrigis: συνεχίζεται
 denove: πάλι
 devojiĝis: να στραβώσει
 dikiĝi: να χοντρήνει
+diras: λέω
+diri: να πω
+diris: έλεγα
 doloriga: που προκαλεί πόνο
 dolorige: επίπονο
 domegon: βίλα
@@ -60,7 +63,9 @@ ekvidis: ξεκίνησε να βλέπει
 elstaraj: εξαιρετικοί
 eniri: να εισέλθω
 eniris: εισήλθα 
-eniru: πήγαινε μέσα! 
+eniru: 
+- μπες! 
+- ας μπω
 estas: είναι
 estis: ήταν
 estos: θα είναι
@@ -103,6 +108,9 @@ instruistino: δασκάλα
 instruisto: δάσκαλος
 instruiston: δάσκαλον
 intervidiĝas: βλέπω ο ένας τον άλλον
+iras: πηγαίνω
+iri: να πηγαίνω
+iris: πήγα
 iron: βόλτα
 juna: νεαρός
 junulino: νεαρή
@@ -127,6 +135,10 @@ kunmanĝos: θα φάμε μαζί
 kuiras: μαγειρεύω
 kuiri: να μαγειρεύω
 kuiris: μαγείρευα
+kuko: κέικ
+kukon: κέικ
+kukoj: τα κέικ
+kukojn: τα κέικ
 kunporti: να φέρει μαζί
 kunulino: γυναικεία συντροφιά
 kunvenas: έρχομαι μαζί
@@ -150,6 +162,7 @@ libro: βιβλίο
 libron: βιβλίον
 libroj: βιβλία
 librojn: βιβλία
+longe: για πολύ καιρό
 lumigis: φώτισε
 malagrabla: δυσάρεστος
 malbela: άσχημος
@@ -191,6 +204,12 @@ malĝoja: λύπη
 malŝatas: δεν αρέσει
 malŝatis: δεν άρεσε
 manĝaĵo: τροφή
+manĝas: τρώω
+manĝi: να φάω
+manĝis: έτρωγα
+manĝu:
+- φάε!
+- ας φάω
 manĝegi: να καταβροχθίζω
 maristo: ναυτικός
 maristoj: ναυτικοί
@@ -221,7 +240,9 @@ ordigi: να τακτοποιήσεις
 paperoj: χαρτιά
 paperojn:  χαρτιά
 paperujon: καλάθι αχρήστων
+parolas: μιλώ
 paroli: να μιλήσω
+parolis: μιλούσα
 pasigos: θα περάσει
 patro: πατέρας
 patrino: μητέρα
@@ -231,6 +252,7 @@ plenumis: συμπλήρωνε
 plibeligis: ομόρφαινε
 plimulto: πλειοψηφία
 policano: αστυνομικός
+poste: έπειτα
 povas: μπορώ
 povi: να μπορώ
 povis: μπόρεσα
@@ -271,6 +293,7 @@ skribotablo: γραφείο
 soleca: μοναχικά
 sovaĝejo: ερημιά
 sportisto: αθλητής
+strato: δρόμος
 subakvigis: βυθισμένος
 subakviĝis: βυθισμένος
 subite: ξαφνικά
@@ -278,6 +301,7 @@ supren: προς τα πάνω
 surhavas: φοράει
 surlokan: σ αυτό το μέρος
 tablo: τραπέζι
+tago: ημέρα
 teroristoj: τρομοκράτες
 tiuokaze: σ αυτή την περίπτωση
 travivaĵo: περιπέτεια
@@ -320,6 +344,7 @@ volis: ήθελα
 ĝenon: ενόχληση
 ĝi: αυτό
 ĝin: αυτόν
+ĝoje: με χαρά
 ĝustatempe: στη σωστή ώρα
 ŝatas: μου αρέσει
 ŝiaj: δικές της 

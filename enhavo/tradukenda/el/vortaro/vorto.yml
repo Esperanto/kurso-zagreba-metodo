@@ -23,7 +23,7 @@ arbaro: δάσος
 arbetoj: θάμνοι
 arboplena: γεμάτο με δέντρα
 aĉetas: αγοράζω
-aĉeti:
+aĉeti: να αγοράσω
 aĉetis: αγόρασα
 aĉetos: θα αγοράσω
 aĉetumos: θα πάμε στα μαγαζιά
@@ -301,6 +301,10 @@ nehoma: μη άνθρωπος
 neinteresaj: πληκτικοί
 nokta: νυκτερινός
 nomo: όνομα
+nova: νέο
+novan: νέον
+novaj: νέα
+novajn: νέα
 novaĵoj: νέα
 okazas: συμβαίνει
 okazi: να συμβεί
@@ -361,6 +365,9 @@ rideto: χαμόγελο
 rigardas: κοιτάζω
 rigardi: να κοιτάζω
 rigardis: κοίταξα
+rigardu:
+- κοίταξε
+- ας κοιτάξω
 riĉa: πλούσιο
 riĉan: πλούσιον
 riĉeco:
@@ -446,10 +453,13 @@ vestaĵo: ρούχο
 vestaĵoj: ρούχα
 vestaĵojn: ρούχα 
 vestaĵon: ρούχον
+veturas: οδηγώ
 veturado: 
 - οδήγηση
 - περιήγηση
+veturi: να οδηγήσω
 veturigus: θα οδηγούσε 
+veturis: οδηγούσα
 viaj: οι δικοί σου
 vidas: βλέπω
 vidi: να βλέπω

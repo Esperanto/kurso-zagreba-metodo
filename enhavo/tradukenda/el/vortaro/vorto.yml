@@ -1,6 +1,7 @@
 Esperanto: Εσπεράντο
 akcepteblan: αποδεκτό
 alia: άλλο
+aliaj: άλλων
 alilandaj: εξωτερικό
 alporti: να φέρει
 alportis: έφερε 
@@ -34,6 +35,7 @@ bona: καλό
 bonaj: καλά
 bonajn: καλά
 bonan: καλόν
+bone: καλά
 bonega: πολύ καλά
 bonvolu: παρακαλώ
 bonvolus: θα έχεις την ευγένεια
@@ -76,13 +78,18 @@ estas: είναι
 estis: ήταν
 estos: θα είναι
 facilmovaj: ευκίνητοι
+falas: πέφτω
+fali: να πέσω
 faligi:
 - να προκαλέσει πτώση
 - να τρέξει από πάνω
 faligis: έτρεξε από πάνω
+falis: έπεσα
 familianoj: μέλη οικογένειας
 faras: κάνω
 faris: έκανα
+fariĝas: γίνομαι
+fariĝis: έγινε
 fermita: κλειστός 
 fine: στο τέλος
 foresti: να είσαι μακριά
@@ -138,6 +145,8 @@ kion: τι
 klarigis: εξήγησε
 klarigon: εξήγηση 
 klubanoj: μέλη ομίλου
+kolere: θυμωμένα
+kolero: θυμός
 kompreneble: 
 - καταληπτώς
 - βεβαίως
@@ -159,8 +168,15 @@ lampeto: αρνάκι
 legas: διαβάζω
 legi: να διαβάζω
 legis: διάβαζα
+legu: 
+- διάβασε!
+- ας διαβάσω
 lernas: μαθαίνω
+lerni: να μαθαίνω
 lernis: μάθαινα
+lernu: 
+- μάθε!
+- ας μάθω
 lernanto:
 - μαθητευόμενος
 - μαθητής
@@ -218,6 +234,10 @@ malvarman: κρύον
 malĝoja: λύπη
 malŝatas: δεν αρέσει
 malŝatis: δεν άρεσε
+mano: χέρι
+manon: χέρι
+manoj: χέρια
+manojn: χέρια
 manĝaĵo: τροφή
 manĝas: τρώω
 manĝi: να φάω
@@ -265,6 +285,7 @@ ordigi: να τακτοποιήσεις
 paperoj: χαρτιά
 paperojn:  χαρτιά
 paperujon: καλάθι αχρήστων
+pardonu: συγγνώμη
 parolas: μιλώ
 paroli: να μιλήσω
 parolis: μιλούσα
@@ -335,6 +356,9 @@ skribotablo: γραφείο
 soleca: μοναχικά
 sovaĝejo: ερημιά
 sportisto: αθλητής
+staras: στέκομαι
+stari: να σταθώ
+staris: στεκόμουν
 strato: δρόμος
 subakvigis: βυθισμένος
 subakviĝis: βυθισμένος
@@ -345,6 +369,9 @@ sufiĉan: αρκετό
 surhavas: φοράει
 surlokan: σ αυτό το μέρος
 tablo: τραπέζι
+tablon: τραπέζι
+tabloj: τραπέζια
+tablojn: τραπέζια
 tago: ημέρα
 teroristoj: τρομοκράτες
 tiuokaze: σ αυτή την περίπτωση

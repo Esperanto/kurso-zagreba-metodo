@@ -63,7 +63,6 @@ bona: καλό
 bonaj: καλά
 bonajn: καλά
 bonan: καλόν
-bone: καλά
 bonega: πολύ καλά
 bonvolu: παρακαλώ
 bonvolus: θα έχεις την ευγένεια
@@ -235,9 +234,11 @@ iraĉas: βαδίζει δύσκολα
 iras: πηγαίνω
 iri: να πηγαίνω
 iris: πήγα
-iro: βάδισμα
-iron: βόλτα
-iru: πήγαινε!
+iro: πορεία
+iron: πορεία
+iru:
+- πήγαινε!
+- ας πάμε!
 Italio: Ιταλία
 iun: κάποιον
 juna: νεαρός
@@ -249,6 +250,7 @@ kafejo: καφετέρια
 kafejon: καφετέριαν
 kafo: καφές
 kafon: καφέ
+kapablis: ήταν ικανά
 kapo: κεφάλι
 kapon: κεφάλι
 kara: αγαπητό
@@ -308,6 +310,7 @@ landon: χώραν
 landoj: χώρες
 landojn: χώρες
 larĝa: πλατύς
+lasta: τελευταίο
 leciono: μάθημα
 lecionon: μάθημα
 lecionoj: μαθήματα
@@ -366,7 +369,6 @@ malgranda: μικρό
 malhelpis: εμπόδισε
 malinterese: πληκτικά
 malkontentigi: να ενοχλεί
-mallaŭte: σιωπηλά
 malliberejon: φυλακήν
 mallumo: σκοτάδι
 malmulte: λίγο
@@ -416,6 +418,7 @@ metis: έβαλα
 miaj: οι δικοί μου 
 militistoj: στρατιώτες
 minutoj: λεπτά
+momento: στιγμή
 monerojn: νομίσματα
 mono: χρήμα
 monon: χρήμα
@@ -484,6 +487,7 @@ onklo: θείος
 onklon: θείον
 opinion: γνώμη
 ordigi: να τακτοποιήσεις 
+orelon: αυτί
 pagas: πληρώνω
 panon: ψωμί
 pagi: να πληρώσω
@@ -513,6 +517,7 @@ penson: σκέψην
 pensoj: σκέψεις
 pensojn: σκέψεις
 perdigis: χαμένος
+persono: άτομο
 peza: βαρύς
 piedo: πόδι
 piedon: πόδι
@@ -634,6 +639,7 @@ sidis: κάθησα
 sidadas: συνεχίζω να κάθομαι 
 sidadis: συνέχισα να κάθομαι
 silento: σιωπή
+simila: παρόμοιο
 sinjorinoj: κυρίες
 sinjorinon: κυρίαν
 sinjoro: κύριος
@@ -782,7 +788,7 @@ voĉo: φωνή
 ĝojan: χαρούμενον
 ĝoje: με χαρά
 ĝustatempe: στη σωστή ώρα
-ĝuste: σωστά
+ĝusta: σωστή
 ĵetis: πέταξε
 ŝanĝis: άλλαξε
 ŝatas: μου αρέσει

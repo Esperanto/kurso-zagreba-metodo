@@ -82,6 +82,9 @@ dolarojn: δολλάρια
 doloriga: που προκαλεί πόνο
 dolorige: επίπονο
 domegon: βίλα
+dormas: κοιμάμαι
+dormi: να κοιμάμαι
+dormis: κοιμήθηκα
 dumnokte: κατά τη νύχτα
 dumtage: κατά τη μέρα
 ekkriis: άρχισε να ουρλιάζει
@@ -182,6 +185,7 @@ kafon: καφέ
 karulino: αγαπητή
 karulo: αγαπητέ
 kelnero: σερβιτόρος
+kiam: όταν
 kion: τι
 klarigis: εξήγησε
 klarigon: εξήγηση 
@@ -195,7 +199,7 @@ korpoforton: σωματική δύναμη
 kunmanĝos: θα φάμε μαζί
 kuiras: μαγειρεύω
 kuiri: να μαγειρεύω
-kuiris: μαγείρευα
+kuiris: μαγείρεψα
 kuko: κέικ
 kukon: κέικ
 kukoj: τα κέικ
@@ -203,6 +207,9 @@ kukojn: τα κέικ
 kunporti: να φέρει μαζί
 kunulino: γυναικεία συντροφιά
 kunvenas: έρχομαι μαζί
+kuras: τρέχω
+kuri: να τρέξω
+kuris: έτρεξα
 laboras: εργάζομαι
 laboristo: εργάτης
 lampeto: αρνάκι
@@ -252,7 +259,7 @@ malfacile: δύσκολα
 malfeliĉo: δυστυχία
 malforta: αδυναμος
 malforte: αδυναμία 
-malfruas: καθυστερεί 
+malfruas: καθυστερώ 
 malfrue: καθυστερημένα
 malfrui: να καθυστερεί 
 malgranda: μικρό
@@ -298,6 +305,9 @@ maristo: ναυτικός
 maristoj: ναυτικοί
 mariston: ναυτικόν
 matene: κατά το πρωί
+metas: βάζω
+meti: να βάλω
+metis: έβαλα
 miaj: οι δικοί μου 
 militistoj: στρατιώτες
 monerojn: νομίσματα
@@ -408,6 +418,9 @@ riĉeco:
 - πλουσιότητα
 - πλούτος
 riĉulo: πλούσιος
+saltas:
+salti:
+saltis: πήδηξε
 salton: πήδημα
 saluton: γειά σου
 samklubanoj: μέλη του ίδιου ομίλου
@@ -456,6 +469,8 @@ subite: ξαφνικά
 supren: προς τα πάνω
 sufiĉa: αρκετό
 sufiĉan: αρκετό
+suno: ήλιος
+sunon: ήλιον
 surhavas: φοράει
 surlokan: σ αυτό το μέρος
 tablo: τραπέζι
@@ -474,7 +489,9 @@ tiuokaze: σ αυτή την περίπτωση
 trankvila: χαλαρό
 travivaĵo: περιπέτεια
 tridekjara: τριαντάχρονος
+trinkas: πίνω
 trinki: να πίνω
+trinkis: ήπια
 trinku: πιές!
 troviĝis: βρέθηκε
 unuaj: πρώτοι
@@ -510,8 +527,8 @@ veturigus: θα οδηγούσε
 veturis: οδηγούσα
 viaj: οι δικοί σου
 vidas: βλέπω
-vidi: να βλέπω
-vidis: έβλεπα
+vidi: να δω
+vidis: είδα
 vizaĝo: πρόσωπο
 virino: γυναίκα
 vojaĝantoj: ταξιδιώτες

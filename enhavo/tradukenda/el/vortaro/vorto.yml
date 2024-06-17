@@ -13,8 +13,8 @@ altaj: ψηλοί
 altajn: ψηλούς
 altan: ψηλό
 alvenigas: οδηγεί εδώ
-alvenis: ήρθε εδώ
-alvenos: θα έλθει εδώ
+alvenis: ήρθα εδώ
+alvenos: θα έρθω εδώ
 amas: αγαπώ
 ami: να αγαπώ
 amis: αγάπησα
@@ -51,7 +51,7 @@ bela: ωραίο
 belan: ωραίον
 belaj: ωραία
 belajn: ωραία
-belaĵoj: ωραία πράγματα
+belaĵoj: ομορφιές
 beleta: χαριτωμένος
 bestetoj: ζωάκια
 bona: καλό
@@ -222,6 +222,7 @@ kapon: κεφάλι
 kara: αγαπητό
 karulino: αγαπητή
 karulo: αγαπητέ
+kelkaj: μερικά
 kelnero: σερβιτόρος
 kiam: όταν
 kion: τι
@@ -230,7 +231,7 @@ klarigon: εξήγηση
 klubanoj: μέλη ομίλου
 knabo: αγόρι
 knabaĉo: παλιόπαιδο
-kanabino: κορίτσι
+knabino: κορίτσι
 kolere: θυμωμένα
 kolero: θυμός
 komencas: αρχίζω
@@ -437,6 +438,7 @@ pardonu: συγγνώμη
 parolas: μιλώ
 paroli: να μιλήσω
 parolis: μιλούσα
+passas: περνώ
 pasigos: θα περάσει
 patro: πατέρας
 patrino: μητέρα
@@ -544,6 +546,7 @@ serĉis: έψαξα
 serĉu:
 - ψάξε!
 - ας ψάξω
+sian: το δικό του
 sidas: κάθομαι
 sidi: να καθήσω
 sidis: κάθησα
@@ -599,12 +602,14 @@ trinki: να πίνω
 trinkis: ήπια
 trinku: πιές!
 troviĝis: βρέθηκε
+trovu: βρες!
 unuaj: πρώτοι
 urbo: πόλη
 urbon: πόλην
 urboj: πόλεις
 urbojn: πόλεις
 urbomezo: κέντρο πόλης
+uzo: χρήση
 vagonaro: τρένο
 varma: ζεστό
 varman: ζεστόν

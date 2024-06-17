@@ -1,5 +1,6 @@
 Esperanto: Εσπεράντο
 Esperanton: Εσπεράντο
+aferoj: πράγματα
 akcepteblan: αποδεκτό
 alia: άλλο
 alian: άλλον
@@ -56,6 +57,7 @@ belajn: ωραία
 belaĵoj: ομορφιές
 beleta: χαριτωμένος
 bestetoj: ζωάκια
+bezonas: χρειάζομαι
 bona: καλό
 bonaj: καλά
 bonajn: καλά
@@ -65,6 +67,7 @@ bonega: πολύ καλά
 bonvolu: παρακαλώ
 bonvolus: θα έχεις την ευγένεια
 centoj: εκατοντάδες
+certa: σίγουρο
 certe: σίγουρα
 dankon: ευχαριστώ
 daŭrigis: συνέχισε
@@ -106,6 +109,7 @@ domegon: βίλα
 dormas: κοιμάμαι
 dormi: να κοιμάμαι
 dormis: κοιμήθηκα
+Doĝoj: Δόγηδες
 dua: δεύτερο
 dumnokte: κατά τη νύχτα
 dumtage: κατά τη μέρα
@@ -132,8 +136,10 @@ eniru:
 estas: είναι
 estis: ήταν
 estos: θα είναι
+estro: επικεφαλής
 estu: να είσαι!
 estus: θα μπορούσε να είναι
+facila: εύκολο
 facile: εύκολα
 facilmovaj: ευκίνητοι
 falas: πέφτω
@@ -185,12 +191,15 @@ geamikoj: φίλοι και φίλες
 gefratoj: αδελφοί και αδελφές
 gelernantojn: μαθητές και μαθήτριες
 gepatroj: γονείς
+gondolo: γόνδολα
+gondolon: γόνδολαν
 gondolisto: γονδολιέρης 
 gondolistoj: γονδολιέρηδες
 grafino: κοντέσσα
 grafinon: κοντέσσαν
 granda: μεγάλο
 grandula: γίγαντας
+grava: σημαντικό
 gravuloj: σημαντικοί άνθρωποι
 haltigis: σταμάτησε
 havas: έχω
@@ -200,6 +209,7 @@ havindan: αξίζει να έχω
 hejmo: σπίτι
 hejme: στο σπίτι
 helpi: να βοηθήσω
+helpon: βοήθεια
 homformo: τύπος ανθρώπου
 homo: άνθρωπος
 homoj: άνθρωποι
@@ -221,6 +231,7 @@ ion: κάτι
 iras: πηγαίνω
 iri: να πηγαίνω
 iris: πήγα
+iro: βάδισμα
 iron: βόλτα
 iru: πήγαινε!
 Italio: Ιταλία
@@ -283,6 +294,7 @@ laborigas: κάνω να δουλεύει
 laborigi: να κάνω να δουλέψει
 laborigis: έκανα να δούλεψει
 laboristo: εργάτης
+laborojn: εργασίες
 lakto: γάλα
 lampeto: αρνάκι
 lando: χώρα
@@ -338,8 +350,8 @@ malbono: κακό
 malfacilan: δύσκολον
 malfacile: δύσκολα
 malfeliĉo: δυστυχία
-malforta: αδυναμος
-malforte: αδυναμία 
+malforta: αδύναμο
+malforte: αδύναμα 
 malfruas: καθυστερώ 
 malfrue: καθυστερημένα
 malfrui: να καθυστερεί 
@@ -357,7 +369,8 @@ malnova: παλιός
 malnovaj: παλιόν
 malofte: σπανίως 
 malplaĉa: άβολος
-malplaĉan: άβολον 
+malplaĉan: άβολον
+malpli: λιγότερο
 malproksime: μακρινά
 malsaniĝis: αρώστησα
 malsaĝa: ανόητο
@@ -409,6 +422,7 @@ montru:
 monujo: πορτοφόλι
 morgaŭan: αυριανή
 mortigo: φόνος
+mortis: πέθανε
 moviĝis: κινούνταν
 multa: πολύ
 multan: πολύν
@@ -461,6 +475,9 @@ onklo: θείος
 onklon: θείον
 opinion: γνώμη
 ordigi: να τακτοποιήσεις 
+pagas: πληρώνω
+panon: ψωμί
+pagi: να πληρώσω
 paperoj: χαρτιά
 paperojn:  χαρτιά
 paperujon: καλάθι αχρήστων
@@ -473,6 +490,7 @@ parto:
 - μέρος
 - τμήμα
 pasas: περνώ
+pasis: πέρασε
 pasigos: θα περάσει
 patro: πατέρας
 patrino: μητέρα
@@ -511,6 +529,7 @@ povis: μπόρεσα
 povos: θα μπορέσω
 povu: ας μπορούσα
 povus: θα μπορούσα
+prenis: πήρα
 problemo: πρόβλημα
 problemon: πρόβλημα
 problemoj: προβλήματα
@@ -566,19 +585,21 @@ salti: να πηδήσω
 saltis: πήδηξα
 salton: πήδημα
 saluton: γειά σου
+sama: ίδιο
 samklubanoj: μέλη του ίδιου ομίλου
 scias: 
 - γνωρίζω
 - ξέρω
 scii: να ξέρω
 sciis: ήξερα
-sekretajn: μυστικά
+sekretajn: μυστικές
 sekreton: μυστικόν
 sekvis: ακολούθησε
 semajne: την εβδομάδα
 semajno: εβδομάδα
 semajnon: εβδομάδαν
 senbrue: σιωπηλά
+sendi: να στείλω
 seninterese: αδιάφορα
 senkolora: άχρωμο
 sensukcese: ανεπιτυχώς
@@ -617,13 +638,14 @@ staras: στέκομαι
 stari: να σταθώ
 staris: στεκόμουν
 strato: δρόμος
-subakvigis: βυθισμένος
-subakviĝis: βυθισμένος
+subakvigis: βύθισε
+subakviĝis: βυθίστηκε
 subite: ξαφνικά
 supren: προς τα πάνω
 sufiĉa: αρκετό
 sufiĉan: αρκετό
 sufiĉas: είναι αρκετό
+sufiĉe: αρκετά
 suno: ήλιος
 sunon: ήλιον
 surhavas: φοράει
@@ -643,9 +665,11 @@ tempo: χρόνος
 tempon: χρόνο
 teon: τσάι
 teroristoj: τρομοκράτες
+timas: φοβάμαι
 tion: αυτό
 tiuokaze: σ αυτή την περίπτωση
 trankvila: χαλαρό
+trankvile: χαλαρά
 travivaĵo: περιπέτεια
 tridekjara: τριαντάχρονος
 trifoje: τρεις φορές
@@ -701,6 +725,7 @@ viaj: οι δικοί σου
 vidas: βλέπω
 vidi: να δω
 vidis: είδα
+vidu: δες!
 vizaĝo: πρόσωπο
 vizaĝon: πρόσωπο
 vizitos: θα επισκευτώ

@@ -35,6 +35,7 @@ atendas: περιμένω
 atendi: να περιμένω
 atendis: περίμενα
 atentos: θα προσέξω
+aspekto: παρουσιαστικό
 aĉetas: αγοράζω
 aĉeti: να αγοράσω
 aĉetis: αγόρασα
@@ -81,11 +82,12 @@ denove: πάλι
 devas: πρέπει
 devi: να πρέπει
 devis: έπρεπε
-devojiĝis: να στραβώσει
+devojiĝis: ξέστράτισε
 deziras: επιθυμώ
 deziro: επιθυμία
 deziron: επιθυμίαν
 diable: διάβολε
+dika: παχύς
 dikiĝi: να χοντρήνει
 diras: λέω
 diri: να πω
@@ -124,7 +126,7 @@ eksidis: κάθισα
 eksidu: ας κάθομαι
 ekskursi: να πάω εκδρομή
 ekskurso: εκδρομή
-ekstervoje: στο δρόμο προς την έξοδο
+ekstervoje: εκτός δρόμου
 ekveturas: ξεκινώ να οδηγώ
 ekvidis: ξεκίνησε να βλέπει
 elstaraj: εξαιρετικοί
@@ -139,9 +141,11 @@ estos: θα είναι
 estro: επικεφαλής
 estu: να είσαι!
 estus: θα μπορούσε να είναι
+etan: μικρόν
 facila: εύκολο
 facile: εύκολα
 facilmovaj: ευκίνητοι
+fakto: γεγονός
 falas: πέφτω
 fali: να πέσω
 faligas: ρίχνω
@@ -198,14 +202,14 @@ gondolistoj: γονδολιέρηδες
 grafino: κοντέσσα
 grafinon: κοντέσσαν
 granda: μεγάλο
-grandula: γίγαντας
+grandula: επιβλητικό
 grava: σημαντικό
 gravuloj: σημαντικοί άνθρωποι
 haltigis: σταμάτησε
 havas: έχω
 havos: θα έχω
 havigi: να αποκτώ
-havindan: αξίζει να έχω
+havindan: να έχει επάξια
 hejmo: σπίτι
 hejme: στο σπίτι
 helpi: να βοηθήσω
@@ -228,6 +232,7 @@ instruiston: δάσκαλον
 interesa: ενδιαφέρον
 intervidiĝas: βλέπω ο ένας τον άλλον
 ion: κάτι
+iraĉas: βαδίζει δύσκολα
 iras: πηγαίνω
 iri: να πηγαίνω
 iris: πήγα
@@ -301,6 +306,7 @@ lando: χώρα
 landon: χώραν
 landoj: χώρες
 landojn: χώρες
+larĝa: πλατύς
 leciono: μάθημα
 lecionon: μάθημα
 lecionoj: μαθήματα
@@ -336,6 +342,7 @@ libroj: βιβλία
 librojn: βιβλία
 loko: μέρος
 longe: για πολύ καιρό
+ludis: έπαιξε
 ludo: παιχνίδι
 ludon: παιχνίδι
 ludoj: παιχνίδια
@@ -438,7 +445,7 @@ naskiĝtago: γενέθλια
 naturaĵojn: φυσικά πράγματα
 naŭa: έννατη
 necesas: είναι απαραίτητο
-nehoma: μη άνθρωπος
+nehoma: απάνθρωπη
 neinteresaj: πληκτικοί
 nenio: τίποτα
 nenion: τίποτα
@@ -464,6 +471,7 @@ novan: νέον
 novaj: νέα
 novajn: νέα
 novaĵoj: νέα
+ofte: συχνά
 okazas: συμβαίνει
 okazi: να συμβεί
 okazis: συνέβη
@@ -502,6 +510,7 @@ penson: σκέψην
 pensoj: σκέψεις
 pensojn: σκέψεις
 perdigis: χαμένος
+peza: βαρύς
 piedo: πόδι
 piedon: πόδι
 piedoj: πόδια
@@ -530,6 +539,8 @@ povos: θα μπορέσω
 povu: ας μπορούσα
 povus: θα μπορούσα
 prenis: πήρα
+prezentas: παρουσιάζει
+pripensis: σκεφτόταν καλά
 problemo: πρόβλημα
 problemon: πρόβλημα
 problemoj: προβλήματα
@@ -553,6 +564,7 @@ redonu: δώσε πίσω
 rekapti: να ανακτήσεις
 renkontis: συνάντησα
 repaciĝon: συμφιλίωση
+respektis: σεβόταν
 respondas: απαντώ
 respondi: να απαντήσω
 respondis: απάντησα
@@ -580,6 +592,7 @@ riĉeco:
 - πλουσιότητα
 - πλούτος
 riĉulo: πλούσιος
+rolon: ρόλον
 saltas: πηδώ
 salti: να πηδήσω
 saltis: πήδηξα
@@ -666,6 +679,7 @@ tempon: χρόνο
 teon: τσάι
 teroristoj: τρομοκράτες
 timas: φοβάμαι
+timis: φοβόταν
 tion: αυτό
 tiuokaze: σ αυτή την περίπτωση
 trankvila: χαλαρό
@@ -686,6 +700,7 @@ urbon: πόλην
 urboj: πόλεις
 urbojn: πόλεις
 urbomezo: κέντρο πόλης
+utila: χρήσιμο
 uzo: χρήση
 vagonaro: τρένο
 varma: ζεστό
@@ -749,6 +764,7 @@ voĉo: φωνή
 ĉambron: δωμάτιον
 ĉambristoj: καμαρότοι
 ĉeesto: παρουσία
+ĉefe: κυρίως
 ĉirkaŭaĵo: περιβάλλων χώρος
 ĉion: όλα
 ĉiuj: όλα

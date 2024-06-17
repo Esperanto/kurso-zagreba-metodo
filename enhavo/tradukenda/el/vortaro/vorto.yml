@@ -29,6 +29,9 @@ antaŭeniris: προσχώρησε
 arbaro: δάσος
 arbetoj: θάμνοι
 arboplena: γεμάτο με δέντρα
+atendas: περιμένω
+atendi: να περιμένω
+atendis: περίμενα
 aĉetas: αγοράζω
 aĉeti: να αγοράσω
 aĉetis: αγόρασα
@@ -110,8 +113,9 @@ ekrigardis: ξεκίνησε να κοιτά
 eksaltis: ξεκίνησε να πηδά
 ekscii: να μάθω περισσότερα
 eksidis: κάθισα
+eksidu: ας κάθομαι
 ekstervoje: στο δρόμο προς την έξοδο
-ekveturas: ξεκίνησε να καβαλά
+ekveturas: ξεκινώ να οδηγώ
 ekvidis: ξεκίνησε να βλέπει
 elstaraj: εξαιρετικοί
 eniri: να εισέλθω
@@ -543,6 +547,8 @@ serĉu:
 sidas: κάθομαι
 sidi: να καθήσω
 sidis: κάθησα
+sidadas: συνεχίζω να κάθομαι 
+sidadis: συνέχισα να κάθομαι
 sinjorinoj: κυρίες
 sinjorinon: κυρίαν
 sinjoro: κύριος
@@ -629,6 +635,7 @@ veturi: να οδηγήσω
 veturigus: θα οδηγούσε 
 veturis: οδηγούσα
 veturos: θα οδηγήσω
+veturu: ας οδηγώ
 viaj: οι δικοί σου
 vidas: βλέπω
 vidi: να δω

@@ -66,7 +66,7 @@ bonvolus: θα έχεις την ευγένεια
 centoj: εκατοντάδες
 certe: σίγουρα
 dankon: ευχαριστώ
-daŭrigis: συνεχίζεται
+daŭrigis: συνέχισε
 decidas: αποφασίζω
 decidi: να αποφασίσω
 decidis: αποφάσισα
@@ -97,6 +97,7 @@ dolaroj: δολλάρια
 dolarojn: δολλάρια
 doloriga: που προκαλεί πόνο
 dolorige: επίπονο
+dolĉajn: γλυκά
 donas: δίνω
 doni: να δώσω
 donis: έδωσα
@@ -137,6 +138,7 @@ faligas: ρίχνω
 faligi: να ρίχνω
 faligis: έριξα
 falis: έπεσα
+familia: οικογένεια
 familianoj: μέλη οικογένειας
 faras: κάνω
 fari: να κάνω
@@ -214,6 +216,7 @@ iris: πήγα
 iron: βόλτα
 iru: πήγαινε!
 Italio: Ιταλία
+iun: κάποιον
 juna: νεαρός
 junulino: νεαρή
 junulinoj: νεαρές
@@ -381,6 +384,7 @@ meti: να βάλω
 metis: έβαλα
 miaj: οι δικοί μου 
 militistoj: στρατιώτες
+minutoj: λεπτά
 monerojn: νομίσματα
 mono: χρήμα
 monon: χρήμα
@@ -412,6 +416,8 @@ nehoma: μη άνθρωπος
 neinteresaj: πληκτικοί
 nenio: τίποτα
 nenion: τίποτα
+nia: δικό μου
+nin: εμάς
 nokta: νυκτερινός
 nomo: όνομα
 nomon: όνομα
@@ -440,6 +446,7 @@ okulon: μάτι
 okuloj: μάτια
 okulojn: μάτια
 onklo: θείος
+onklon: θείον
 opinion: γνώμη
 ordigi: να τακτοποιήσεις 
 paperoj: χαρτιά
@@ -449,6 +456,10 @@ pardonu: συγγνώμη
 parolas: μιλώ
 paroli: να μιλήσω
 parolis: μιλούσα
+parolos: θα μιλώ
+parto: 
+- μέρος
+- τμήμα
 passas: περνώ
 pasigos: θα περάσει
 patro: πατέρας
@@ -468,6 +479,7 @@ piedojn: πόδια
 plaĉas: αρέσει
 plaĉi: να αρέσει
 plaĉis: άρεσε
+plena: γεμάτο
 plenigadis: γέμιζε
 plenumis: συμπλήρωνε
 plibeligis: ομόρφαινε
@@ -501,7 +513,7 @@ rapidege: πολύ γρήγορα
 raportas: αναφέρω
 raporti: να αναφέρω
 raportis: ανέφερα
-realigi: να αντιληφθώ
+realigi: να πραγματοποιήσω
 redonu: δώσε πίσω
 rekapti: να ανακτήσεις
 repaciĝon: συμφιλίωση
@@ -566,6 +578,7 @@ sidi: να καθήσω
 sidis: κάθησα
 sidadas: συνεχίζω να κάθομαι 
 sidadis: συνέχισα να κάθομαι
+silento: σιωπή
 sinjorinoj: κυρίες
 sinjorinon: κυρίαν
 sinjoro: κύριος
@@ -592,6 +605,7 @@ subite: ξαφνικά
 supren: προς τα πάνω
 sufiĉa: αρκετό
 sufiĉan: αρκετό
+sufiĉas: είναι αρκετό
 suno: ήλιος
 sunon: ήλιον
 surhavas: φοράει
@@ -604,10 +618,12 @@ tago: ημέρα
 tagon: ημέραν
 tagoj: ημέρες
 tagojn: ημέρες
+telefonis: τηλεφώνησε
 temperaturo: θερμοκρασία
 temperaturon: θερμοκρασίαν
 teon: τσάι
 teroristoj: τρομοκράτες
+tion: αυτό
 tiuokaze: σ αυτή την περίπτωση
 trankvila: χαλαρό
 travivaĵo: περιπέτεια
@@ -662,6 +678,7 @@ vidas: βλέπω
 vidi: να δω
 vidis: είδα
 vizaĝo: πρόσωπο
+vizitos: θα επισκευτώ
 virino: γυναίκα
 vojaĝantoj: ταξιδιώτες
 vojaĝas: ταξιδεύω

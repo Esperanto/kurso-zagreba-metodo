@@ -7,6 +7,10 @@ aliajn: άλλων
 alilandaj: εξωτερικό
 alporti: να φέρει
 alportis: έφερε 
+alta: ψηλό
+altaj: ψηλοί
+altajn: ψηλούς
+altan: ψηλό
 alvenigas: οδηγεί εδώ
 alvenis: ήρθε εδώ
 alvenos: θα έλθει εδώ
@@ -65,6 +69,11 @@ dikiĝi: να χοντρήνει
 diras: λέω
 diri: να πω
 diris: είπα
+diru: 
+- πες!
+- ας πω
+doktoro: γιατρός
+doktoron: γιατρόν
 dolaro: δολλάριο
 dolaron: δολλάριο
 dolaroj: δολλάρια
@@ -97,10 +106,9 @@ estos: θα είναι
 facilmovaj: ευκίνητοι
 falas: πέφτω
 fali: να πέσω
-faligi:
-- να προκαλέσει πτώση
-- να τρέξει από πάνω
-faligis: έτρεξε από πάνω
+faligas: ρίχνω
+faligi: να ρίχνω
+faligis: έριξα
 falis: έπεσα
 familianoj: μέλη οικογένειας
 faras: κάνω
@@ -139,8 +147,11 @@ havas: έχω
 havigi: να αποκτώ
 havindan: αξίζει να έχω
 hejmo: σπίτι
+hejme: στο σπίτι
 homformo: τύπος ανθρώπου
 hommulton: πλήθος
+horo: ώρα
+horon: ώραν
 hotelo: ξενοδοχείο
 ideoriĉan: ευφάνταστον
 industriisto: βιομήχανος
@@ -297,6 +308,7 @@ multpiedaj: πολύποδα
 naskiĝtaga: γενέθλια
 naskiĝtago: γενέθλια 
 naturaĵojn: φυσικά πράγματα
+naŭa: έννατη
 nehoma: μη άνθρωπος
 neinteresaj: πληκτικοί
 nokta: νυκτερινός
@@ -354,6 +366,9 @@ realigi: να αντιληφθώ
 redonu: δώσε πίσω
 rekapti: να ανακτήσεις
 repaciĝon: συμφιλίωση
+restas: παραμένω
+resti: να παραμείνω
+restis: παρέμεινα
 revenis: γύρισε πίσω
 revidi: τα λέμε
 revido: γειά
@@ -430,6 +445,8 @@ tago: ημέρα
 tagon: ημέραν
 tagoj: ημέρες
 tagojn: ημέρες
+temperaturo: θερμοκρασία
+temperaturon: θερμοκρασίαν
 teroristoj: τρομοκράτες
 tiuokaze: σ αυτή την περίπτωση
 travivaĵo: περιπέτεια
@@ -470,6 +487,10 @@ vidis: έβλεπα
 vizaĝo: πρόσωπο
 virino: γυναίκα
 vojaĝantoj: ταξιδιώτες
+vokas: καλώ
+voki: να καλώ
+vokis: κάλεσα
+vokos: θα καλέσω
 volas: θέλω
 volis: ήθελα
 voĉo: φωνή

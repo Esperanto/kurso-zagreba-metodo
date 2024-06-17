@@ -1,4 +1,5 @@
 Esperanto: Εσπεράντο
+Esperanton: Εσπεράντο
 akcepteblan: αποδεκτό
 alia: άλλο
 alian: άλλον
@@ -62,6 +63,9 @@ centoj: εκατοντάδες
 certe: σίγουρα
 dankon: ευχαριστώ
 daŭrigis: συνεχίζεται
+decidas: αποφασίζω
+decidi: να αποφασίσω
+decidis: αποφάσισα
 demandas: ρωτώ
 demandi: να ρωτήσω
 demandis: ρώτησα
@@ -71,6 +75,8 @@ devi: να πρέπει
 devis: έπρεπε
 devojiĝis: να στραβώσει
 deziras: επιθυμώ
+deziro: επιθυμία
+deziron: επιθυμίαν
 diable: διάβολε
 dikiĝi: να χοντρήνει
 diras: λέω
@@ -87,6 +93,9 @@ dolaroj: δολλάρια
 dolarojn: δολλάρια
 doloriga: που προκαλεί πόνο
 dolorige: επίπονο
+donas: δίνω
+doni: να δώσω
+donis: έδωσα
 domegon: βίλα
 dormas: κοιμάμαι
 dormi: να κοιμάμαι
@@ -123,17 +132,29 @@ faligis: έριξα
 falis: έπεσα
 familianoj: μέλη οικογένειας
 faras: κάνω
+fari: να κάνω
 faris: έκανα
+faros: θα κάνω
 fariĝas: γίνομαι
 fariĝis: έγινε
 fartas: αισθάνομαι
 fartos: θα αισθάνομαι
+feliĉa: ευτυχισμένο
+feliĉan: ευτυχισμένο
+feliĉaj: ευτυχισμένα
+feliĉajn: ευτυχισμένα
 fermas: κλείνω
 fermi: να κλείνω
 fermis: έκλεισα
 fermita: κλειστό
 fine: στο τέλος
 foresti: να είσαι μακριά
+forgesas: ξεχνώ
+forgesi: να ξεχάσω
+forgesis: ξέχασα
+forgesu: 
+- ξέχνα!
+- ας ξεχάσω
 foriros: θα φύγει μακριά
 forta: δυνατό
 fortan: δυνατόν
@@ -182,6 +203,7 @@ iri: να πηγαίνω
 iris: πήγα
 iron: βόλτα
 iru: πήγαινε!
+Italio: Ιταλία
 juna: νεαρός
 junulino: νεαρή
 junulinoj: νεαρές
@@ -207,6 +229,9 @@ knabaĉo: παλιόπαιδο
 kanabino: κορίτσι
 kolere: θυμωμένα
 kolero: θυμός
+komencas: αρχίζω
+komenci: να αρχίσω
+komencis: άρχισα
 kompreneble: 
 - καταληπτώς
 - βεβαίως
@@ -233,6 +258,10 @@ laborigi: να κάνω να δουλέψει
 laborigis: έκανα να δούλεψει
 laboristo: εργάτης
 lampeto: αρνάκι
+lando: χώρα
+landon: χώραν
+landoj: χώρες
+landojn: χώρες
 leciono: μάθημα
 lecionon: μάθημα
 lecionoj: μαθήματα
@@ -365,13 +394,23 @@ naturaĵojn: φυσικά πράγματα
 naŭa: έννατη
 nehoma: μη άνθρωπος
 neinteresaj: πληκτικοί
+nenio: τίποτα
+nenion: τίποτα
 nokta: νυκτερινός
 nomo: όνομα
 nomon: όνομα
-noto: σημείωμα
-noton: σημείωμα
-notoj: σημειώματα
-notojn: σημειώματα
+noto: 
+- σημείωμα
+- βαθμός
+noton: 
+- σημείωμα
+- βαθμό
+notoj: 
+- σημειώματα
+- βαθμοί
+notojn: 
+- σημειώματα
+- βαθμούς
 nova: νέο
 novan: νέον
 novaj: νέα
@@ -384,6 +423,7 @@ okulo: μάτι
 okulon: μάτι
 okuloj: μάτια
 okulojn: μάτια
+onklo: θείος
 opinion: γνώμη
 ordigi: να τακτοποιήσεις 
 paperoj: χαρτιά
@@ -424,6 +464,9 @@ poste: έπειτα
 povas: μπορώ
 povi: να μπορώ
 povis: μπόρεσα
+povos: θα μπορέσω
+povu: ας μπορούσα
+povus: θα μπορούσα
 problemo: πρόβλημα
 problemon: πρόβλημα
 problemoj: προβλήματα
@@ -551,6 +594,10 @@ trinkis: ήπια
 trinku: πιές!
 troviĝis: βρέθηκε
 unuaj: πρώτοι
+urbo: πόλη
+urbon: πόλην
+urboj: πόλεις
+urbojn: πόλεις
 urbomezo: κέντρο πόλης
 vagonaro: τρένο
 varma: ζεστό
@@ -581,6 +628,7 @@ veturado:
 veturi: να οδηγήσω
 veturigus: θα οδηγούσε 
 veturis: οδηγούσα
+veturos: θα οδηγήσω
 viaj: οι δικοί σου
 vidas: βλέπω
 vidi: να δω
@@ -588,6 +636,9 @@ vidis: είδα
 vizaĝo: πρόσωπο
 virino: γυναίκα
 vojaĝantoj: ταξιδιώτες
+vojaĝas: ταξιδεύω
+vojaĝi: να ταξιδέψω
+vojaĝis: ταξίδεψα
 vokas: καλώ
 voki: να καλώ
 vokis: κάλεσα

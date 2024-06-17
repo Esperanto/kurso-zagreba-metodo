@@ -65,6 +65,7 @@ devas: πρέπει
 devi: να πρέπει
 devis: έπρεπε
 devojiĝis: να στραβώσει
+deziras: επιθυμώ
 dikiĝi: να χοντρήνει
 diras: λέω
 diri: να πω
@@ -103,6 +104,7 @@ eniru:
 estas: είναι
 estis: ήταν
 estos: θα είναι
+estu: να είσαι!
 facilmovaj: ευκίνητοι
 falas: πέφτω
 fali: να πέσω
@@ -164,6 +166,7 @@ iras: πηγαίνω
 iri: να πηγαίνω
 iris: πήγα
 iron: βόλτα
+iru: πήγαινε!
 juna: νεαρός
 junulino: νεαρή
 junulinoj: νεαρές
@@ -271,6 +274,7 @@ malsekajn: υγροί
 malsukcesa: ανεπιτυχής
 maltrankvila: ανήσυχος
 malvarman: κρύον
+malvestu: γδύσου!
 malĝoja: λύπη
 malŝatas: δεν αρέσει
 malŝatis: δεν άρεσε
@@ -290,11 +294,18 @@ manĝegi: να καταβροχθίζω
 maristo: ναυτικός
 maristoj: ναυτικοί
 mariston: ναυτικόν
+matene: κατά το πρωί
 miaj: οι δικοί μου 
 militistoj: στρατιώτες
 monerojn: νομίσματα
 mono: χρήμα
 monon: χρήμα
+montras: δείχνω
+montri: να δείξω
+montris: έδειξα
+montru: 
+- δείξε
+- ας δείξω
 monujo: πορτοφόλι
 morgaŭan: αυριανός
 mortigo: φόνος
@@ -338,6 +349,10 @@ pasigos: θα περάσει
 patro: πατέρας
 patrino: μητέρα
 perdigis: χαμένος
+piedo: πόδι
+piedon: πόδι
+piedoj: πόδια
+piedojn: πόδια
 plaĉas: αρέσει
 plaĉi: να αρέσει
 plaĉis: άρεσε
@@ -399,6 +414,7 @@ scii: να ξέρω
 sciis: ήξερα
 sekretajn: μυστικά
 sekreton: μυστικόν
+semajnon: εβδομάδαν
 senbrue: σιωπηλά
 seninterese: αδιάφορα
 senkolora: άχρωμο
@@ -447,11 +463,14 @@ tagoj: ημέρες
 tagojn: ημέρες
 temperaturo: θερμοκρασία
 temperaturon: θερμοκρασίαν
+teon: τσάι
 teroristoj: τρομοκράτες
 tiuokaze: σ αυτή την περίπτωση
+trankvila: χαλαρό
 travivaĵo: περιπέτεια
 tridekjara: τριαντάχρονος
 trinki: να πίνω
+trinku: πιές!
 troviĝis: βρέθηκε
 unuaj: πρώτοι
 urbomezo: κέντρο πόλης
@@ -469,6 +488,7 @@ vera: αληθινό
 veran: αληθινόν
 veraj: αληθινά
 verajn: αληθινά
+vespere: κατά το βράδυ
 vestaĵo: ρούχο 
 vestaĵoj: ρούχα
 vestaĵojn: ρούχα 
@@ -499,6 +519,7 @@ voĉo: φωνή
 ĉambristoj: καμαρότοι
 ĉeesto: παρουσία
 ĉirkaŭaĵo: περιβάλλων χώρος
+ĉion: όλα
 ĉiuj: όλα
 ĉiujn: όλα
 ĝenon: ενόχληση

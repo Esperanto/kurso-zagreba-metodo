@@ -24,7 +24,7 @@ La [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo) estas jam trad
 La tradukaĵoj ĝis nun nur eldonitas en libra formo. Kelkaj skanaĵoj ekzistas:
 
 - [angla](http://esperantofre.com/zagreb/zagreba.htm)
-- [bulgara, finna, hispana, itala, korea, kroata, makedona (nekompleta), pola, rumana, slovaka, vjetnama kaj pluraj](https://mega.nz/folder/kchTHKwD#4EtlaUyMuPqEbx5No-qgAw)
+- [bulgara, finna, hispana, itala, korea, kroata, makedona (nekompleta), pola, rumana, slovaka, svahila, vjetnama kaj pluraj](https://mega.nz/folder/kchTHKwD#4EtlaUyMuPqEbx5No-qgAw)
 
 (Se vi havas pli da skanaĵojn, bonvole aldonu ilin aŭ [informu min](mailto:georg@jaehnig.org)!)
 

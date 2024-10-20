@@ -60,3 +60,12 @@ body {
 div[dir="rtl"] #eksporto {
 	float: left;
 }
+img.leciona {
+  float: right;
+	width: 50%;
+	margin-left: 1em;
+}
+ul.pager {
+  clear: both;
+	padding-top: 1em;
+}

@@ -441,6 +441,14 @@ vi:
       github: Ghojo-37
     - nomo: Hoang Phuc
       github: Huangphoux
+yo:
+  nomo:
+    fontlingve: yorùbá
+    esperante: joruba
+  stato: testa
+  aŭtoroj:
+    - nomo: Gabriel Olúbùnmi Ọ̀ṣhọ́-Davies
+      github: oshodavies
 zh:
   nomo:
     fontlingve: 中文

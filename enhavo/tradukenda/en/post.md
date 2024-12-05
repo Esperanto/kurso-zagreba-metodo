@@ -15,7 +15,7 @@
 
 # Events
 
-* [Calendar of Esperanto Events](https://www.eventoj.hu/kalendaro.htm)
+* [Calendar of Esperanto Events](https://eventaservo.org/)
 
 # Continue learning
 

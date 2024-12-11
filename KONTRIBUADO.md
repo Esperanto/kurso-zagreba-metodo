@@ -1,6 +1,6 @@
-# Kiel traduki al nova lingvo
+# Kiel helpu
 
-Saluton! Unue dankegon, ke vi volas traduki tiun ĉi kurson! Kiel fari tion:
+Saluton! Unue dankegon, ke vi volas helpi al tiun ĉi kurso! Kiel fari tion:
 
 ## Kreu konton ĉe Github
 

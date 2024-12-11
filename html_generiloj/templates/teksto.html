@@ -30,7 +30,9 @@
 		<a href="{{vojprefikso}}../assets/mp3/{{ '%02d' % leciono_index}}.mp3">Audio OGG</a>
 	</audio>
 
-	  <img class="leciona" src="{{vojprefikso}}../assets/img/lecionaj/{{ '%02d' % leciono_index}}.webp"/>
+	  <a href="{{vojprefikso}}../assets/img/lecionaj/{{ '%02d' % leciono_index}}.webp"/>
+	    <img class="leciona" src="{{vojprefikso}}../assets/img/lecionaj/{{ '%02d' % leciono_index}}.webp"/>
+		</a>
     {% include 'paragrafoj.html' %}
   {% include 'pagxonumerado-komentejo.html' %}
 

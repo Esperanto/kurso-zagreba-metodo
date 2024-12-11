@@ -32,6 +32,8 @@ La tradukaĵoj ĝis nun estas eldonitaj nur en libra formo. Kelkaj skanaĵoj ekz
 
 Nun ek al la tradukado!
 
+(Legu al la fino kiel nur kontrollegi kaj ĝustigi.)
+
 ### Ĝenerale: kiel redakti
 
 1. Bonvolu iri al la dosierujo, kiun mi kreis por la nova lingvo. (Mi sendis la ligilon en mia retpoŝto al vi.)
@@ -134,3 +136,10 @@ La gramatikaj klarigoj estas en la dosierujo `/gramatiko`. Ili estas skribitaj e
 - Se vi dubas, rigardu la [germanan version](de/).
 
 Ne zorgu, se GitHub foje malĝuste prezentas partojn de Markdown (ekz. kombinadojn kiel `*lern__ej__o*`) montrante la Markdown-dosierojn en sia retejo. Tio estas nur problemo de GitHub; nia kreanta skripto tamen ĝuste interpretos ilin.
+
+## Kontrollegado
+
+Se vi nur volas ĝustigi eraro(j)n kiun vi trovis, simple redaktu sian dosieron:
+
+- Trovu la lingvon en [enhavo/tradukenda/](enhavo/tradukenda/)
+= kaj poste la dosieron en la doserujoj.

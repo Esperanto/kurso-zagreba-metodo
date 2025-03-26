@@ -2,12 +2,14 @@ ar:
   nomo:
     fontlingve: العربية
     esperante: araba
-  stato: testa
+  stato: preta
   aŭtoroj:
     - nomo: Ahmed BENSAAD
       github: benahm
     - nomo: Latif
       github: llusx
+    - nomo: Anwar Erouk
+      github: anwarerouk
   tekstodirekto: rtl
 be:
   nomo:

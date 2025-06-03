@@ -406,6 +406,14 @@ th:
   aŭtoroj:
     - nomo: Warut Bunprasert
       github: Warut92
+tok:
+  nomo:
+    fontlingve: toki pona
+    esperante: Tokipono
+  stato: testa
+  aŭtoroj:
+    - nomo: Iván Zaragoza Martínez
+      github: ivaaane
 tr:
   nomo:
     fontlingve: Türkçe

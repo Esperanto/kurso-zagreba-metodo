@@ -1,12 +1,12 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- lipu ni li pana e sona pi **nimi suli 500**
+- **lipu li wile ala e sona sina**: o luka e nena *open* taso
+- lipu li pona **lon ilo lili**.
+- lipu li wile ala e mani. sina ken **[kepeken mama ona lon wile sina](https://github.com/Esperanto/kurso-zagreba-metodo)**
 
-The course consists of **12 lessons**, each with
+lipu li kulupu e **lipu lili 12**. lipu lili li pana e:
 
-- a text
-- a grammar clarification
-- and 3 exercises.
+- toki musi
+- sona toki
+- utala tu wan
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+sina pini sona tan lipu la, sina ken sona e ijo suli nanpa wan lon toki Epelanto. o alasa!

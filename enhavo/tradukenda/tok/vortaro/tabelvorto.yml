@@ -1,59 +1,55 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+kio: ijo seme
+tio: ijo ni
+io: ijo
+ĉio: ijo ale
+nenio: ijo ala
 kiu:
-- who
-- which
+- ijo seme
+- jan seme
 tiu:
-- that person
-- that one
-iu: someone
+- ijo ni
+- jan ni
+iu:
+- ijo ni
+- jan ni
 ĉiu:
-- everyone
-- every
+- ijo ale
+- jan ale
 neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
-iom: 
-- to some extent
-- a certain amount
-ĉiom: 
-- all of it
-- the whole amount
-neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- ijo ala
+- jan ala
+kie: ma seme
+tie: ma ni
+ie: ma
+ĉie: ma ale
+nenie: ma ala
+kia: kule seme
+tia: kule ni
+ia: kule
+ĉia: kule ale
+nenia: kule ala
+kiel: nasin seme
+tiel: nasin ni
+iel: nasin
+ĉiel: nasin ale
+neniel: nasin ala
+kial: tan seme
+tial: tan ni
+ial: tan ijo
+ĉial: tan ale
+nenial: tan ala
+kiam: tenpo seme
+tiam: tenpo ni
+iam: tenpo
+ĉiam: tenpo ale
+neniam: tenpo ala
+kiom: mute seme
+tiom: mute ni
+iom: mute
+ĉiom: ale
+neniom: mute ala
+kies: pi ijo seme
+ties: pi ijo ni
+ies: (tan) ijo
+ĉies: pi ijo ale
+nenies: pi ijo ala

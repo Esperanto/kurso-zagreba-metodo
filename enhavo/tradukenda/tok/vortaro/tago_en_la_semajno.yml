@@ -1,8 +1,8 @@
-lundo:    Monday
-mardo:    Tuesday
-merkredo: Wednesday
-ĵaŭdo:    Thursday
-vendredo: Friday
-sabato:   Saturday
-dimanĉo:  Sunday
+lundo:    'tenpo esun #1'
+mardo:    'tenpo esun #2' 
+merkredo: 'tenpo esun #3'
+ĵaŭdo:    'tenpo esun #4'
+vendredo: 'tenpo esun #5'
+sabato:   'tenpo suno lape #1'
+dimanĉo:  'tenpo suno lape #2'
 

@@ -1,5 +1,6 @@
 - [Slovenský portál o Esperante](https://esperanto.sk/)
   - [Udalosti](https://esperanto.sk/udalosti/)
+  - [Organizacie](https://esperanto.sk/organizacie/)
   - [Kluby](https://esperanto.sk/organizacie/kluby/)
 - [Česko-slovenská Telegram skupina](https://cssk.telegramo.org/)
 

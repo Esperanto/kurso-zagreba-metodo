@@ -6,5 +6,5 @@ Hrvatskoj, upoznati ekipu i progovoriti uživo!
 
 - [Studentski esperantski klub](http://sek.hr/) u Zagrebu
 - [Hrvatski savez za esperanto](http://www.esperanto.hr) u Zagrebu
-- [Esperanto društvo Rijeka](http://www.esperanto-rijeka.hr/)
+- [Esperanto društvo Rijeka](https://esperanto.hr/wp/o-nama/)
 - [Društvo esperantista Bjelovar](http://www.esperanto-bjelovar.hr/)

@@ -1,0 +1,2 @@
+- [Slovakia Esperanta Federacio](https://esperanto.sk/)
+- [Ĉeĥa-slovaka Telegram-grupo](https://cssk.telegramo.org/)

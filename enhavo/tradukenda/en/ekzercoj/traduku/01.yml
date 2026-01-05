@@ -9,7 +9,9 @@
 - esperantistino: 
   - Esperantist
   - female Esperantist
-- instruisto: teacher
+- instruisto:
+  - teacher
+  - instructor
 - hotelĉambro: hotel room
 - enskribi: 
   - to register

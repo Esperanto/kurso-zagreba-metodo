@@ -21,8 +21,7 @@ then
 fi
 
 #for l in ar ca cs da de el en es fa fr frp ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tr uk ur vi zh zh-tw
-#for l in ar ca cs da de el en es fa fr ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tok tr uk ur vi yo zh zh-tw
-for l in ar 
+for l in ar ca cs da de el en es fa fr ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tok tr uk ur vi yo zh zh-tw
 do
 	/home/stc/leo/.venv/bin/python generate.py -l $l
 done

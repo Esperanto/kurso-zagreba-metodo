@@ -5,3 +5,4 @@
 /maintenance/*.txt
 /pad
 /venv
+/.venv

@@ -20,21 +20,22 @@ La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperan
 
 ## Agordo Kaj Komandoj
 
-Instalu Python-dependecojn per:
+Kreu virtualan medion kaj instalu Python-dependecojn per:
 
 ```sh
-pip install -r requirements.txt
+make install
 ```
 
 La kanonika taska tavolo por agentoj estas `make`, simile al `npm run ...` en JavaScript-projektoj:
 
 ```sh
+make install
 make check
 make html LINGVO=en
 make md LINGVO=en
 ```
 
-La helpaj skriptoj elektas Python-interpretilon jene: `PYTHON`, poste `venv/bin/python`, poste `.venv/bin/python`, poste `python3` aŭ `python`.
+`make check` instalas nenion. Se `venv/bin/python` aŭ dependecoj mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
 
 Generu HTML por lingvo, ekzemple la angla:
 
@@ -76,3 +77,9 @@ make check
 ```
 
 Se ŝanĝo influas specifan lingvon, rulu la generilon ankaŭ por tiu lingvo.
+
+Por malpli oftaj opcioj de la generilo, uzu rekte:
+
+```sh
+venv/bin/python generate.py --help
+```

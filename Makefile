@@ -10,12 +10,12 @@ MD_OUT ?= $(TMP_ROOT)/leo-$(LINGVO).md
 
 help:
 	@printf '%s\n' \
-		'Targets:' \
-		'  make venv            Create venv, default VENV=venv' \
-		'  make install         Create venv and install requirements' \
-		'  make check           Run the safe smoke test, default LINGVO=en' \
-		'  make html LINGVO=en  Generate HTML for one language' \
-		'  make md LINGVO=en    Generate Markdown for one language'
+		'Celoj:' \
+		'  make venv            Kreas venv-on, defaŭlte VENV=venv' \
+		'  make install         Kreas venv-on kaj instalas requirements' \
+		'  make check           Rulas sekuran provan kontrolon, defaŭlte LINGVO=en' \
+		'  make html LINGVO=en  Generas HTML por unu lingvo' \
+		'  make md LINGVO=en    Generas Markdown por unu lingvo'
 
 venv:
 	@if [ ! -x "$(PYTHON)" ]; then \
@@ -26,10 +26,10 @@ install: venv
 	@"$(PYTHON)" -m pip install -r requirements.txt
 
 check:
-	@test -x "$(PYTHON)" || { printf '%s\n' 'Missing $(PYTHON). Run `make install` first or set VENV=/path/to/venv.' >&2; exit 1; }
+	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune'
 	@"$(PYTHON)" generate.py --lingvo "$(LINGVO)" --eligformo md >"$(MD_OUT)"
-	@printf 'OK: generated Markdown for %s at %s\n' "$(LINGVO)" "$(MD_OUT)"
+	@printf 'Sukcesis: generis Markdown por %s al %s\n' "$(LINGVO)" "$(MD_OUT)"
 
 html:
 	@"$(PYTHON)" generate.py --lingvo "$(LINGVO)" --eligformo html

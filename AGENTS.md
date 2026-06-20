@@ -26,10 +26,20 @@ Instalu Python-dependecojn per:
 pip install -r requirements.txt
 ```
 
+La kanonika taska tavolo por agentoj estas `make`, simile al `npm run ...` en JavaScript-projektoj:
+
+```sh
+make check
+make html LINGVO=en
+make md LINGVO=en
+```
+
+La helpaj skriptoj elektas Python-interpretilon jene: `PYTHON`, poste `venv/bin/python`, poste `.venv/bin/python`, poste `python3` aŭ `python`.
+
 Generu HTML por lingvo, ekzemple la angla:
 
 ```sh
-python generate.py --lingvo en --eligformo html
+make html LINGVO=en
 ```
 
 Tio skribas al `html_generiloj/output/en`.
@@ -37,7 +47,7 @@ Tio skribas al `html_generiloj/output/en`.
 Generu Markdown:
 
 ```sh
-python generate.py --lingvo en --eligformo md
+make md LINGVO=en
 ```
 
 La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pandoc, kiel priskribite en `README.md`.
@@ -62,13 +72,7 @@ La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pan
 Ne estas dokumentita aŭtomata testaro ĉe la deponeja radiko. Por ŝanĝoj al generiloj aŭ ŝablonoj, rulu almenaŭ:
 
 ```sh
-python generate.py --lingvo en --eligformo html
-```
-
-Por ŝanĝoj al Markdown-eligo, rulu ankaŭ:
-
-```sh
-python generate.py --lingvo en --eligformo md >/tmp/leo-en.md
+make check
 ```
 
 Se ŝanĝo influas specifan lingvon, rulu la generilon ankaŭ por tiu lingvo.

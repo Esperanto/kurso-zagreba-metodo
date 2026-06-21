@@ -38,6 +38,7 @@ make html LINGVO=en
 make html-all
 make md LINGVO=en
 make serve
+make clean
 ```
 
 `make check` instalas nenion. Se `venv/bin/python` aŭ dependecoj mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
@@ -57,6 +58,12 @@ make serve
 ```
 
 Tio nur servas la ekzistantan enhavon de `eligo/retejo`; ĝi ne regeneras dosierojn.
+
+Por forigi generitan retejan eligon, rulu:
+
+```sh
+make clean
+```
 
 Generu Markdown:
 

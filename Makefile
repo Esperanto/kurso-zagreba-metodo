@@ -1,4 +1,4 @@
-.PHONY: help venv install check html html-all md serve
+.PHONY: help venv install check html html-all md serve clean
 
 LINGVO ?= en
 HTML_LINGVOJ ?= ar ca cs da de el en es fa fr frp ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tr uk ur vi yo zh zh-tw
@@ -21,7 +21,8 @@ help:
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por ĉiuj produktadaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
-		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000'
+		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000' \
+		'  make clean           Forigas generitan HTML-eligon'
 
 venv:
 	@if [ ! -x "$(PYTHON)" ]; then \
@@ -51,3 +52,8 @@ md:
 
 serve:
 	@"$(PYTHON)" -m http.server "$(PORT)" --bind "$(HOST)" --directory "$(OUTPUT_DIR)"
+
+clean:
+	@test -n "$(OUTPUT_DIR)" && test "$(OUTPUT_DIR)" != "/" || { printf '%s\n' 'OUTPUT_DIR estas nesekura por forigo.' >&2; exit 1; }
+	@rm -rf "$(OUTPUT_DIR)"
+	@printf 'Forigis %s\n' "$(OUTPUT_DIR)"

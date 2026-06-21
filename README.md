@@ -36,6 +36,10 @@ Por antaŭrigardi jam generitan HTML-on loke:
 
 Tio servas `eligo/retejo` ĉe `http://127.0.0.1:8000`.
 
+Por forigi la generitan retejan eligon:
+
+    make clean
+
 La prova retejo `stg.esperanto12.net` estas publikigata per GitHub Pages el `eligo/retejo`. Antaŭ ebla produktada DNS-transiro al GitHub Pages, `iloj/gxisdatigu-eligon.sh` restas nur hereda servila rezervo.
 
 ### PDF kaj EPUB

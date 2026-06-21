@@ -14,9 +14,12 @@ La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperan
 - `enhavo/netradukenda/tekstoj/`: Esperantaj leciontekstoj. Ili estas licencitaj laŭ CC BY-ND kaj ne devas esti ŝanĝitaj.
 - `enhavo/tradukenda/<lingvo>/`: lingvospecifaj tradukoj, gramatikaj klarigoj, ekzercoj, vortaroj, enkonduko kaj posta teksto.
 - `agordoj/`: agordo de lingvoj kaj aŭtoroj.
-- `html_generiloj/`: HTML-genera kodo, ŝablonoj kaj generita eligo.
-- `leo_markdown/`: Markdown-genera kodo kaj ŝablonoj.
-- `genanki/`: inkluzivita aŭ vendorigita projekto rilata al Anki; evitu tuŝi ĝin krom se la tasko specife temas pri tiu subarbo.
+- `fonto/py/`: Python-generatoroj. La ĉefa enirpunkto estas `fonto.py.generu`.
+- `fonto/html/` kaj `fonto/md/`: ŝablonoj por HTML kaj Markdown.
+- `fonto/css/`, `fonto/js/`, `fonto/bildoj/` kaj `fonto/sonoj/`: statikaj fontdosieroj kopiataj al la reteja eligo.
+- `eligo/retejo/`: generita HTML-retejo. Ne versikontrolu ĝin.
+- `vendor/`: vendorigitaj eksteraj bibliotekoj, inkluzive de `bootstrap`, `jquery`, `typeahead` kaj `genanki`. Evitu tuŝi ilin krom se la tasko specife temas pri tiu subarbo.
+- `iloj/`: prizorgaj helpiloj.
 
 ## Agordo Kaj Komandoj
 
@@ -35,6 +38,7 @@ make html LINGVO=en
 make html-all
 make md LINGVO=en
 make serve
+make clean
 ```
 
 `make check` instalas nenion. Se `venv/bin/python` aŭ dependecoj mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
@@ -45,7 +49,7 @@ Generu HTML por lingvo, ekzemple la angla:
 make html LINGVO=en
 ```
 
-Tio skribas al `html_generiloj/output/en`.
+Tio skribas al `eligo/retejo/en`.
 
 Por antaŭrigardi jam generitan HTML-on loke, rulu:
 
@@ -53,7 +57,13 @@ Por antaŭrigardi jam generitan HTML-on loke, rulu:
 make serve
 ```
 
-Tio nur servas la ekzistantan enhavon de `html_generiloj/output`; ĝi ne regeneras dosierojn.
+Tio nur servas la ekzistantan enhavon de `eligo/retejo`; ĝi ne regeneras dosierojn.
+
+Por forigi generitan retejan eligon, rulu:
+
+```sh
+make clean
+```
 
 Generu Markdown:
 
@@ -63,7 +73,7 @@ make md LINGVO=en
 
 La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pandoc, kiel priskribite en `README.md`.
 
-La prova retejo `stg.esperanto12.net` estas konstruata per GitHub Pages el `html_generiloj/output` uzante `make html-all`. Ne revivigu `maintenance/gxisdatigu-eligon.sh` por produktadaj deplojoj; ĝi restas nur hereda servila rezervo dum la transiro.
+La prova retejo `stg.esperanto12.net` estas konstruata per GitHub Pages el `eligo/retejo` uzante `make html-all`. Ne aldonu apartajn deplojajn skriptojn por produktado; la Pages-artefakta laborfluo estas la kanonika deplojo.
 
 ## Redaktado De Enhavo
 
@@ -77,7 +87,7 @@ La prova retejo `stg.esperanto12.net` estas konstruata per GitHub Pages el `html
 
 - Ĉi tio estas malgranda Python-projekto, kiu uzas simplajn modulojn kaj ŝablonojn laŭ Jinja/Chevron-stilo. Preferu rektajn ŝanĝojn al novaj abstraktaĵoj.
 - Konservu UTF-8-tekston kaj Esperantajn supersignojn.
-- `generate.py` estas la ĉefa enirpunkto kaj atendas esti rulata el la deponeja radiko.
+- `fonto.py.generu` estas la ĉefa enirpunkto kaj atendas enhavajn vojojn relative al la deponeja radiko.
 - Evitu enmeti generitajn kaŝmemorojn kiel `__pycache__/` aŭ `.pyc`-dosierojn en versikontrolon.
 
 ## Validigo
@@ -93,5 +103,5 @@ Se ŝanĝo influas specifan lingvon, rulu la generilon ankaŭ por tiu lingvo.
 Por malpli oftaj opcioj de la generilo, uzu rekte:
 
 ```sh
-venv/bin/python generate.py --help
+venv/bin/python -m fonto.py.generu --help
 ```

@@ -23,7 +23,8 @@ Subtenon por PWA aldonis
 
 La laŭlingvajn aŭtorojn de la ciferecigo troviĝas en [agordoj/lingvoj.yml](agordoj/lingvoj.yml).
 
+La reteja fontkodo, ŝablonoj kaj statikaj dosieroj troviĝas sub `fonto/`; vendorigitaj eksteraj bibliotekoj troviĝas sub `vendor/`.
+
 ## Sono
 
 - [Emilio Cid](https://github.com/EmilioCid)
-

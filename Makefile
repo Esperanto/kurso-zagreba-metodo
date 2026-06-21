@@ -1,7 +1,10 @@
-.PHONY: help venv install check html html-all md
+.PHONY: help venv install check html html-all md serve
 
 LINGVO ?= en
 HTML_LINGVOJ ?= ar ca cs da de el en es fa fr frp ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tr uk ur vi yo zh zh-tw
+HOST ?= 127.0.0.1
+PORT ?= 8000
+OUTPUT_DIR ?= html_generiloj/output
 VENV ?= venv
 SYSTEM_PYTHON ?= python3
 PYTHON ?= $(VENV)/bin/python
@@ -17,7 +20,8 @@ help:
 		'  make check           Rulas sekuran provan kontrolon, defaŭlte LINGVO=en' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por ĉiuj produktadaj lingvoj' \
-		'  make md LINGVO=en    Generas Markdown por unu lingvo'
+		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
+		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000'
 
 venv:
 	@if [ ! -x "$(PYTHON)" ]; then \
@@ -44,3 +48,6 @@ html-all:
 
 md:
 	@"$(PYTHON)" generate.py --lingvo "$(LINGVO)" --eligformo md
+
+serve:
+	@"$(PYTHON)" -m http.server "$(PORT)" --bind "$(HOST)" --directory "$(OUTPUT_DIR)"

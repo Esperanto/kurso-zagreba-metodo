@@ -30,6 +30,12 @@ Por generi la tutan produktadan HTML-eligon:
 
     make html-all
 
+Por antaŭrigardi jam generitan HTML-on loke:
+
+    make serve
+
+Tio servas `html_generiloj/output` ĉe `http://127.0.0.1:8000`.
+
 La prova retejo `stg.esperanto12.net` estas publikigata per GitHub Pages el `html_generiloj/output`. Antaŭ ebla produktada DNS-transiro al GitHub Pages, `maintenance/gxisdatigu-eligon.sh` restas nur hereda servila rezervo.
 
 ### PDF kaj EPUB

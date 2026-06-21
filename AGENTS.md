@@ -73,7 +73,7 @@ make md LINGVO=en
 
 La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pandoc, kiel priskribite en `README.md`.
 
-La prova retejo `stg.esperanto12.net` estas konstruata per GitHub Pages el `eligo/retejo` uzante `make html-all`. Ne aldonu apartajn deplojajn skriptojn por produktado; la Pages-artefakta laborfluo estas la kanonika deplojo.
+La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `eligo/retejo` uzante `make html-all`. PR-oj al `master` rulas kontrolon kaj HTML-kunmeton, sed ne disponigas retejon. Ne aldonu apartajn disponigajn skriptojn por produktado; la Pages-artefakta laborfluo estas la kanonika disponigo.
 
 ## Redaktado De Enhavo
 

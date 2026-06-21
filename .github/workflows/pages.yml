@@ -42,10 +42,6 @@ jobs:
       - name: Build HTML
         run: make html-all
 
-      - name: Configure custom domain
-        if: github.ref == 'refs/heads/master'
-        run: printf '%s\n' 'stg.esperanto12.net' > eligo/retejo/CNAME
-
       - name: Upload Pages artifact
         if: github.ref == 'refs/heads/master'
         uses: actions/upload-pages-artifact@v4

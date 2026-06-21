@@ -40,7 +40,8 @@ Por forigi la generitan retejan eligon:
 
     make clean
 
-La prova retejo `stg.esperanto12.net` estas publikigata per GitHub Pages el `eligo/retejo`.
+La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `eligo/retejo`.
+PR-oj al `master` rulas la saman kontrolon kaj HTML-kunmeton, sed ne disponigas retejon.
 
 ### PDF kaj EPUB
 

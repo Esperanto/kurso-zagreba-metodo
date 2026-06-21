@@ -8,7 +8,7 @@ LAST_SAFE_COMMIT=`cat iloj/last-safe-commit.txt`
 git pull -q
 git checkout $LAST_SAFE_COMMIT fonto/py/generu.py 2> /dev/null
 git checkout $LAST_SAFE_COMMIT fonto/py/html.py 2> /dev/null
-git checkout $LAST_SAFE_COMMIT fonto/html/radiko.html 2> /dev/null
+git checkout $LAST_SAFE_COMMIT fonto/html/cxefpagxo.html 2> /dev/null
 
 # Check if anything new.
 LAST_COMMIT=`git rev-parse HEAD`

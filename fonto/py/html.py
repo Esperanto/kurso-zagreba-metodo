@@ -138,7 +138,7 @@ def copy_static_files():
     ]
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(FONTO_DIR / 'html' / 'radiko.html', OUTPUT_DIR / 'index.html')
+    shutil.copy2(FONTO_DIR / 'html' / 'cxefpagxo.html', OUTPUT_DIR / 'index.html')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
 
     for fonto, celo in static_dirs:

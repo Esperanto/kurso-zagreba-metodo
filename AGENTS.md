@@ -54,7 +54,7 @@ make md LINGVO=en
 
 La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pandoc, kiel priskribite en `README.md`.
 
-La produktada retejo estas konstruata per GitHub Pages el `html_generiloj/output` uzante `make html-all`. Ne revivigu `maintenance/gxisdatigu-eligon.sh` por produktadaj deplojoj; ĝi restas nur hereda servila rezervo dum la transiro.
+La prova retejo `stg.esperanto12.net` estas konstruata per GitHub Pages el `html_generiloj/output` uzante `make html-all`. Ne revivigu `maintenance/gxisdatigu-eligon.sh` por produktadaj deplojoj; ĝi restas nur hereda servila rezervo dum la transiro.
 
 ## Redaktado De Enhavo
 

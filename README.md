@@ -30,7 +30,7 @@ Por generi la tutan produktadan HTML-eligon:
 
     make html-all
 
-La produktada retejo estas publikigata per GitHub Pages el `html_generiloj/output`. Antaŭ la DNS-transiro al GitHub Pages, `maintenance/gxisdatigu-eligon.sh` restas nur hereda servila rezervo.
+La prova retejo `stg.esperanto12.net` estas publikigata per GitHub Pages el `html_generiloj/output`. Antaŭ ebla produktada DNS-transiro al GitHub Pages, `maintenance/gxisdatigu-eligon.sh` restas nur hereda servila rezervo.
 
 ### PDF kaj EPUB
 

@@ -34,7 +34,7 @@ jobs:
         run: make html-all
 
       - name: Configure custom domain
-        run: printf '%s\n' 'esperanto12.net' > html_generiloj/output/CNAME
+        run: printf '%s\n' 'stg.esperanto12.net' > html_generiloj/output/CNAME
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4

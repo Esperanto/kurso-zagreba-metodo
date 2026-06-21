@@ -34,6 +34,8 @@ Nun ek al la tradukado!
 
 (Legu al la fino kiel nur kontrollegi kaj ĝustigi.)
 
+La tradukenda enhavo plu restas sub `enhavo/tradukenda/<lingvo>/`. Generiloj kaj reteja fontkodo troviĝas sub `fonto/`, sed por ordinara tradukado oni normale ne bezonas tuŝi ilin.
+
 ### Ĝenerale: kiel redakti
 
 1. Bonvolu iri al la dosierujo, kiun mi kreis por la nova lingvo. (Mi sendis la ligilon en mia retpoŝto al vi.)

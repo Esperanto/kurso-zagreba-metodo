@@ -1,6 +1,7 @@
 aŭskult: 
 - hören
 - zuhören
+- anhören
 divers: verschieden
 ekzempl: Beispiel
 glas: Glas
@@ -14,6 +15,7 @@ loĝ: wohnen
 manier: 
 - Art
 - Weise
+- Art und Weise
 monat: Monat
 mond: Welt
 naci: Nation
@@ -27,6 +29,9 @@ publik: öffentlich
 punkt: Punkt
 pur: sauber
 rakont: erzählen
+rilat:
+- beziehen
+- zusammenhängen
 rimark: bemerken
 seĝ: Stuhl
 sia: sein
@@ -39,7 +44,6 @@ tut: ganz
 universal:
 - allgemein
 - universell
-rilat: beziehen
 sat: satt
 ag: handeln
 aper: erscheinen

@@ -55,11 +55,11 @@
     - atendas: warten 
     - '?'
 - 
-  demando: Wärest du mit einem x-beliebigen Mann zufrieden?
+  demando: Wärst du mit irgendeinem beliebigen Mann zufrieden?
   rektatraduko:
     - Ĉu: Ob 
     - vi: du 
-    - estus: wärest 
+    - estus: wärst
     - kontenta: zufrieden 
     - kun: mit 
     - iu: irgendeinem 

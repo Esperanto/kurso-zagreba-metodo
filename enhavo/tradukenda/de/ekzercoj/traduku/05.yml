@@ -1,13 +1,23 @@
 - sinjorino: Frau
-- malmultekosta: billig
+- malmultekosta:
+  - billig
+  - günstig
 - ĉiutaga: täglich
 - intertempe: zwischenzeitlich
 - plenplena: übervoll
-- nuntempe: derzeitig
+- nuntempe:
+  - derzeit
+  - heutzutage
 - malhelpi: hindern
-- vendejo: Geschäft
-- edzino: Gattin
-- ĉiujare: alljährlich
+- vendejo:
+  - Geschäft
+  - Laden
+- edzino:
+  - Ehefrau
+  - Gattin
+- ĉiujare:
+  - jährlich
+  - jedes Jahr
 - jarcento: Jahrhundert
 - kvarmonate: viermonatlich
 - alveturi: hinfahren

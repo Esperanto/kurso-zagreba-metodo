@@ -2,12 +2,20 @@
 - tagmeze: mittags
 - posttagmeze: nachmittags
 - malsata: hungrig
-- interkonsenti: vereinbaren
+- interkonsenti:
+  - vereinbaren
+  - sich einigen
 - manĝilaro: Besteck
-- vidpunkto: Gesichtspunkt
+- vidpunkto:
+  - Gesichtspunkt
+  - Standpunkt
 - malfermilo: Öffner
 - noktomezo: Mitternacht
-- publikigi: veröffentlichen
+- publikigi:
+  - veröffentlichen
+  - bekannt machen
 - pagigi: bezahlen lassen
-- duflanka: zweiseitig
+- duflanka:
+  - zweiseitig
+  - beidseitig
 - aliflanke: andererseits

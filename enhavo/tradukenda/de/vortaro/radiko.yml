@@ -6,8 +6,8 @@ akcept: akzeptieren
 akv: Wasser
 ali: anderer
 alt: 
-- hohe/r/s
 - hoch
+- hohe/r/s
 am: lieben
 amik: Freund
 arb: Baum
@@ -34,10 +34,11 @@ branĉ:
 bru: Lärm
 buŝ: Mund
 cert: 
-- sichere/r/s
-- sicherlich
-dank: Dank
-dank: danken
+- sicher
+- gewiss
+dank:
+- Dank
+- danken
 daŭr: dauern
 decid: entscheiden
 demand: fragen
@@ -64,14 +65,15 @@ ekskurs: Ausflug
 esper: hoffen
 est: sein (Verb)
 facil: leicht
-fakt: Tatsache
-fakt: tatsächlich
+fakt:
+- Tatsache
+- tatsächlich
 fal: fallen
 famili: Familie
 far:
 - machen
 - tun
-fart: sich fühlen 
+fart: sich fühlen
 feliĉ: glücklich
 ferm: schließen
 fin: beenden
@@ -103,7 +105,9 @@ instru: unterrichten
 interes: Interesse
 invit: einladen
 ir: gehen
-itali: Italien 
+itali:
+- Italien
+- italienisch
 jar: Jahr
 jun: jung
 kaf: Kaffee
@@ -124,7 +128,7 @@ kav:
 kelk:
 - manch
 - einige
-kelner: Kelner
+kelner: Kellner
 klar: klar
 klub: Club
 knab: Knabe
@@ -158,7 +162,7 @@ leter: Brief
 liber: frei
 libr: Buch
 lok: Ort
-long: lange
+long: lang
 lud: spielen
 lum: Licht
 man: Hand
@@ -207,7 +211,7 @@ paper: Papier
 pardon: verzeihen
 parol: sprechen
 part: Teil
-pas: vorbei gehen
+pas: vorbeigehen
 patr: Vater
 paŝ: schreiten
 pens: denken
@@ -263,7 +267,9 @@ sekv: folgen
 semajn: Woche
 send: schicken
 serĉ: suchen
-si: sein/ihr 
+si:
+- sich
+- sein/ihr
 sid: sitzen
 silent: Schweigen
 simil: ähnlich

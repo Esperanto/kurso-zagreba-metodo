@@ -1,16 +1,24 @@
 - rideti: lächeln
 - tranokto: Übernachtung
-- foriri: weggehen
-- forlasi: verlassen
+- foriri:
+  - weggehen
+  - fortgehen
+- forlasi:
+  - verlassen
+  - zurücklassen
 - ekde: seit
 - formanĝi: aufessen
 - forpreni: wegnehmen
 - laŭeble: möglichst
-- saĝulo: Weiser
+- saĝulo:
+  - Weiser
+  - kluger Mensch
 - ekstari: aufstehen
 - poŝtkarto: Postkarte
 - diableto: Teufelchen
 - senutila: nutzlos
 - elkuri: herausrennen
 - ekami: verlieben
-- ĝisnuna: bisherig
+- ĝisnuna:
+  - bisherig
+  - bisher

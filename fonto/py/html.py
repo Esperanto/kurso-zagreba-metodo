@@ -5,6 +5,7 @@ import os
 from pathlib import Path
 import re
 import shutil
+import subprocess
 
 # sys.path = ['./genanki'] + sys.path
 import genanki
@@ -33,6 +34,22 @@ def write_file(filename, content):
         os.makedirs(dirname)
     with open(filename, 'w') as f:
         f.write(content)
+
+
+def get_version_hash():
+    github_sha = os.environ.get('GITHUB_SHA')
+    if github_sha:
+        return github_sha[:7]
+
+    try:
+        return subprocess.check_output(
+            ['git', 'rev-parse', '--short=7', 'HEAD'],
+            cwd=str(ROOT_DIR),
+            stderr=subprocess.DEVNULL,
+            text=True
+        ).strip()
+    except (OSError, subprocess.CalledProcessError):
+        return 'nekonata'
 
 
 def aldonu_karton(deck, model, enhavo, radiko, leciono=None):
@@ -125,7 +142,13 @@ def create_anki(enhavo):
     return deck
 
 
-def copy_static_files():
+def render_cxefpagxo(versio):
+    env = jinja2.Environment()
+    env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))
+    return env.get_template('cxefpagxo.html').render(versio=versio)
+
+
+def copy_static_files(versio):
     static_dirs = [
         (FONTO_DIR / 'css', OUTPUT_DIR / 'assets' / 'css'),
         (FONTO_DIR / 'js', OUTPUT_DIR / 'assets' / 'js'),
@@ -138,7 +161,7 @@ def copy_static_files():
     ]
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(FONTO_DIR / 'html' / 'cxefpagxo.html', OUTPUT_DIR / 'index.html')
+    write_file(str(OUTPUT_DIR / 'index.html'), render_cxefpagxo(versio))
     shutil.copy2(FONTO_DIR / 'bildoj' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
 
     for fonto, celo in static_dirs:
@@ -149,7 +172,9 @@ def copy_static_files():
 def generate_html(lingvo, enhavo, args):
     eligo = {}
     md = mistune.Markdown()
-    copy_static_files()
+    versio = get_version_hash()
+    enhavo['versio'] = versio
+    copy_static_files(versio)
 
     env = jinja2.Environment()
     env.filters['markdown'] = lambda text: Markup(md(text))

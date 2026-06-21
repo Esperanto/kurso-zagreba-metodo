@@ -26,6 +26,12 @@ Por kontroli la plej oftan generadon sen ŝanĝi dosierojn en la deponejo:
 
 Kreas HTML-dosierujon en `html_generiloj/output/en`.
 
+Por generi la tutan produktadan HTML-eligon:
+
+    make html-all
+
+La produktada retejo estas publikigata per GitHub Pages el `html_generiloj/output`. Antaŭ la DNS-transiro al GitHub Pages, `maintenance/gxisdatigu-eligon.sh` restas nur hereda servila rezervo.
+
 ### PDF kaj EPUB
 
 Vi bezonas [Pandoc](https://pandoc.org), minimume versionon 2.

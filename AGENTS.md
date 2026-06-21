@@ -32,6 +32,7 @@ La kanonika taska tavolo por agentoj estas `make`, simile al `npm run ...` en Ja
 make install
 make check
 make html LINGVO=en
+make html-all
 make md LINGVO=en
 ```
 
@@ -52,6 +53,8 @@ make md LINGVO=en
 ```
 
 La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pandoc, kiel priskribite en `README.md`.
+
+La produktada retejo estas konstruata per GitHub Pages el `html_generiloj/output` uzante `make html-all`. Ne revivigu `maintenance/gxisdatigu-eligon.sh` por produktadaj deplojoj; ĝi restas nur hereda servila rezervo dum la transiro.
 
 ## Redaktado De Enhavo
 

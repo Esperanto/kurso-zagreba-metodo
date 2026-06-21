@@ -32,6 +32,9 @@ jobs:
       - name: Install dependencies
         run: make install
 
+      - name: Run smoke test
+        run: make check
+
       - name: Build HTML
         run: make html-all
 

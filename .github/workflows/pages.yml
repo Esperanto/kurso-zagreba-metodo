@@ -1,6 +1,9 @@
 name: Pages
 
 on:
+  pull_request:
+    branches:
+      - master
   push:
     branches:
       - master
@@ -27,24 +30,31 @@ jobs:
           python-version: "3.9"
 
       - name: Configure Pages
+        if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5
 
       - name: Install dependencies
         run: make install
 
+      - name: Run smoke test
+        run: make check
+
       - name: Build HTML
         run: make html-all
 
       - name: Configure custom domain
+        if: github.event_name != 'pull_request'
         run: printf '%s\n' 'stg.esperanto12.net' > eligo/retejo/CNAME
 
       - name: Upload Pages artifact
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v4
         with:
           path: eligo/retejo
           retention-days: 14
 
   deploy:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     needs: build
     permissions:

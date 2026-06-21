@@ -34,6 +34,7 @@ make check
 make html LINGVO=en
 make html-all
 make md LINGVO=en
+make serve
 ```
 
 `make check` instalas nenion. Se `venv/bin/python` aŭ dependecoj mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
@@ -45,6 +46,14 @@ make html LINGVO=en
 ```
 
 Tio skribas al `html_generiloj/output/en`.
+
+Por antaŭrigardi jam generitan HTML-on loke, rulu:
+
+```sh
+make serve
+```
+
+Tio nur servas la ekzistantan enhavon de `html_generiloj/output`; ĝi ne regeneras dosierojn.
 
 Generu Markdown:
 

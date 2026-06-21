@@ -1,8 +1,8 @@
 *.pyc
 /__pycache__
 /agordoj/auxtoroj-lingvoj.yml
-/html_generiloj/output/
-/maintenance/*.txt
+/eligo/retejo/
+/iloj/*.txt
 /pad
 /venv
 /.venv

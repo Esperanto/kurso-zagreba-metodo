@@ -7,8 +7,9 @@ import glob
 import re
 import os
 import argparse
-import html_generiloj
-import leo_markdown
+
+from . import html as html_generilo
+from . import md as md_generilo
 
 # remove resolver entries for On/Off/Yes/No
 # https://stackoverflow.com/a/36470466/52023
@@ -216,13 +217,14 @@ def main():
         enhavo = load(args.lingvo)
         enhavo['lingvoj'] = lingvoj
         enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-        html_generiloj.generi.generate_html(args.lingvo, enhavo, args)
+        html_generilo.generate_html(args.lingvo, enhavo, args)
     if args.eligformo == 'md':
         enhavo = load(args.lingvo, 3)
         enhavo['lingvoj'] = lingvoj
         enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-        leo_markdown.package.kreu_md(enhavo, printendaj={'partoj': args.printendaj_partoj,
-                                                         'lecionoj': args.printendaj_lecionoj})
+        md_generilo.kreu_md(enhavo, printendaj={'partoj': args.printendaj_partoj,
+                                                'lecionoj': args.printendaj_lecionoj})
 
 
-main()
+if __name__ == '__main__':
+    main()

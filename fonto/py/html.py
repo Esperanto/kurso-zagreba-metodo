@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+from pathlib import Path
 import re
 import shutil
 
@@ -10,6 +11,11 @@ import genanki
 import jinja2
 from markupsafe import Markup
 import mistune
+
+
+ROOT_DIR = Path(__file__).resolve().parents[2]
+FONTO_DIR = ROOT_DIR / 'fonto'
+OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
 
 
 def render_page(name, enhavo, vojprefikso, env):
@@ -119,17 +125,39 @@ def create_anki(enhavo):
     return deck
 
 
+def copy_static_files():
+    static_dirs = [
+        (FONTO_DIR / 'css', OUTPUT_DIR / 'assets' / 'css'),
+        (FONTO_DIR / 'js', OUTPUT_DIR / 'assets' / 'js'),
+        (FONTO_DIR / 'sonoj' / 'mp3', OUTPUT_DIR / 'assets' / 'mp3'),
+        (FONTO_DIR / 'sonoj' / 'ogg', OUTPUT_DIR / 'assets' / 'ogg'),
+        (FONTO_DIR / 'bildoj', OUTPUT_DIR / 'assets' / 'img'),
+        (ROOT_DIR / 'vendor' / 'bootstrap', OUTPUT_DIR / 'vendor' / 'bootstrap'),
+        (ROOT_DIR / 'vendor' / 'jquery', OUTPUT_DIR / 'vendor' / 'jquery'),
+        (ROOT_DIR / 'vendor' / 'typeahead', OUTPUT_DIR / 'vendor' / 'typeahead'),
+    ]
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(FONTO_DIR / 'html' / 'radiko.html', OUTPUT_DIR / 'index.html')
+    shutil.copy2(FONTO_DIR / 'bildoj' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
+
+    for fonto, celo in static_dirs:
+        shutil.rmtree(celo, ignore_errors=True)
+        shutil.copytree(fonto, celo)
+
+
 def generate_html(lingvo, enhavo, args):
     eligo = {}
     md = mistune.Markdown()
+    copy_static_files()
 
     env = jinja2.Environment()
     env.filters['markdown'] = lambda text: Markup(md(text))
     env.trim_blocks = True
     env.lstrip_blocks = True
-    env.loader = jinja2.FileSystemLoader('html_generiloj/templates/')
+    env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))
 
-    output_path = 'html_generiloj/output/' + lingvo + '/'
+    output_path = os.path.join(str(OUTPUT_DIR), lingvo, '')
 
     tabs = [
         ('teksto', '', enhavo['fasado']['Teksto']),

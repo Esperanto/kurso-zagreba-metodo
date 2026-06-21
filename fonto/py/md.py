@@ -5,16 +5,17 @@ import re
 
 import jinja2
 import mistune
+from markupsafe import Markup
 
 
 def kreu_md(enhavo, printendaj):
     md = mistune.Markdown()
 
     env = jinja2.Environment()
-    env.filters['markdown'] = lambda text: jinja2.Markup(md(text))
+    env.filters['markdown'] = lambda text: Markup(md(text))
     env.trim_blocks = True
     env.lstrip_blocks = True
-    env.loader = jinja2.FileSystemLoader('leo_markdown/templates/')
+    env.loader = jinja2.FileSystemLoader('fonto/md/')
 
     # Ŝanĝu __ al **, ĉar nur tio Pandoc ŝajne komprenas.
     for i in range(len(enhavo['lecionoj'])):

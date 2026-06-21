@@ -20,16 +20,28 @@ La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperan
 
 ## Agordo Kaj Komandoj
 
-Instalu Python-dependecojn per:
+Kreu virtualan medion kaj instalu Python-dependecojn per:
 
 ```sh
-pip install -r requirements.txt
+make install
 ```
+
+La kanonika taska tavolo por agentoj estas `make`, simile al `npm run ...` en JavaScript-projektoj:
+
+```sh
+make install
+make check
+make html LINGVO=en
+make html-all
+make md LINGVO=en
+```
+
+`make check` instalas nenion. Se `venv/bin/python` aŭ dependecoj mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
 
 Generu HTML por lingvo, ekzemple la angla:
 
 ```sh
-python generate.py --lingvo en --eligformo html
+make html LINGVO=en
 ```
 
 Tio skribas al `html_generiloj/output/en`.
@@ -37,10 +49,12 @@ Tio skribas al `html_generiloj/output/en`.
 Generu Markdown:
 
 ```sh
-python generate.py --lingvo en --eligformo md
+make md LINGVO=en
 ```
 
 La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pandoc, kiel priskribite en `README.md`.
+
+La prova retejo `stg.esperanto12.net` estas konstruata per GitHub Pages el `html_generiloj/output` uzante `make html-all`. Ne revivigu `maintenance/gxisdatigu-eligon.sh` por produktadaj deplojoj; ĝi restas nur hereda servila rezervo dum la transiro.
 
 ## Redaktado De Enhavo
 
@@ -62,13 +76,13 @@ La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pan
 Ne estas dokumentita aŭtomata testaro ĉe la deponeja radiko. Por ŝanĝoj al generiloj aŭ ŝablonoj, rulu almenaŭ:
 
 ```sh
-python generate.py --lingvo en --eligformo html
-```
-
-Por ŝanĝoj al Markdown-eligo, rulu ankaŭ:
-
-```sh
-python generate.py --lingvo en --eligformo md >/tmp/leo-en.md
+make check
 ```
 
 Se ŝanĝo influas specifan lingvon, rulu la generilon ankaŭ por tiu lingvo.
+
+Por malpli oftaj opcioj de la generilo, uzu rekte:
+
+```sh
+venv/bin/python generate.py --help
+```

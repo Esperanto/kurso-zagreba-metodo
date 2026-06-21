@@ -11,31 +11,46 @@ Tiel oni facile kaj rapide povos krei eldonaĵojn de la kurso en HTML, EPUB, PDF
 - https://esperanto12.net/
 
 ## Kiel krei eligon
+
+Unue kreu virtualan medion kaj instalu la bezonatajn Python-dependecojn:
+
+    make install
+
+Por kontroli la plej oftan generadon sen ŝanĝi dosierojn en la deponejo:
+
+    make check
+
 ### HTML
 
-    python generate.py --lingvo en --eligformo html
+    make html LINGVO=en
 
 Kreas HTML-dosierujon en `html_generiloj/output/en`.
+
+Por generi la tutan produktadan HTML-eligon:
+
+    make html-all
+
+La prova retejo `stg.esperanto12.net` estas publikigata per GitHub Pages el `html_generiloj/output`. Antaŭ ebla produktada DNS-transiro al GitHub Pages, `maintenance/gxisdatigu-eligon.sh` restas nur hereda servila rezervo.
 
 ### PDF kaj EPUB
 
 Vi bezonas [Pandoc](https://pandoc.org), minimume versionon 2.
 
-    python generate.py --lingvo en --eligformo md 
+    make md LINGVO=en
 
 Eligas la tutan kurson en Markdown al `STDOUT`, tial per:
 
-    python generate.py --lingvo en --eligformo md | pandoc --latex-engine=xelatex -o en.pdf
-    python generate.py --lingvo en --eligformo md | pandoc -o en.epub
+    make md LINGVO=en | pandoc --latex-engine=xelatex -o en.pdf
+    make md LINGVO=en | pandoc -o en.epub
 
 oni povas krei kaj PDF kaj EPUB dosieron.
 
 #### Limigu enhavon
 
-    python generate.py --lingvo en --eligformo md --printendaj-partoj ekzerco2 solvo2
+    venv/bin/python generate.py --lingvo en --eligformo md --printendaj-partoj ekzerco2 solvo2
       --printendaj-lecionoj 1 2 3
     
-Eligu nur ekzercon 2 kaj sian solvon, kaj nur de lecionoj 1, 2, 3. Legu plu per `python generate.py  --help`.
+Eligu nur ekzercon 2 kaj sian solvon, kaj nur de lecionoj 1, 2, 3. Legu plu per `venv/bin/python generate.py --help`.
 
 ## Eksperimenta PWA-subteno
 

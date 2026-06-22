@@ -20,11 +20,9 @@ markupsafe==2.0.1
     # via
     #   -r requirements.in
     #   jinja2
-mistune==3.2.1
+mistune==0.8.4
     # via -r requirements.in
 pyyaml==6.0.1
     # via
     #   -r requirements.in
     #   genanki
-typing-extensions==4.15.0
-    # via mistune

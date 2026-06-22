@@ -14,7 +14,7 @@ frozendict==2.3.8
     # via genanki
 genanki==0.13.0
     # via -r requirements.in
-jinja2==3.1.4
+jinja2==3.1.6
     # via -r requirements.in
 markupsafe==2.0.1
     # via

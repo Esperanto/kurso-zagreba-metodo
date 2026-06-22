@@ -43,6 +43,8 @@ make clean
 
 `make check` instalas nenion. Se `venv/bin/python` aŭ dependecoj mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
 
+Python-dependecoj estas mastrumataj per pip kaj pip-tools. Redaktu rektajn dependecojn en `requirements.in`, poste rulu `make lock` por regeneri la ŝlositan `requirements.txt`. Por intence ĝisdatigi ĉiujn ŝlositajn versiojn, rulu `make lock-upgrade`.
+
 Generu HTML por lingvo, ekzemple la angla:
 
 ```sh

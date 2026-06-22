@@ -16,6 +16,10 @@ Unue kreu virtualan medion kaj instalu la bezonatajn Python-dependecojn:
 
     make install
 
+La rektaj Python-dependecoj estas listigitaj en `requirements.in`. `requirements.txt` estas la ŝlosita instal-dosiero, generita per:
+
+    make lock
+
 Por kontroli la plej oftan generadon sen ŝanĝi dosierojn en la deponejo:
 
     make check

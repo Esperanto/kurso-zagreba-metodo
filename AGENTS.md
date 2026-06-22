@@ -18,7 +18,7 @@ La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperan
 - `fonto/html/` kaj `fonto/md/`: ŝablonoj por HTML kaj Markdown.
 - `fonto/css/`, `fonto/js/`, `fonto/bildoj/` kaj `fonto/sonoj/`: statikaj fontdosieroj kopiataj al la reteja eligo.
 - `eligo/retejo/`: generita HTML-retejo. Ne versikontrolu ĝin.
-- `vendor/`: vendorigitaj eksteraj bibliotekoj, inkluzive de `bootstrap`, `jquery`, `typeahead` kaj `genanki`. Evitu tuŝi ilin krom se la tasko specife temas pri tiu subarbo.
+- `vendor/`: vendorigitaj eksteraj bibliotekoj, inkluzive de `bootstrap`, `jquery` kaj `typeahead`. Evitu tuŝi ilin krom se la tasko specife temas pri tiu subarbo.
 - `iloj/`: prizorgaj helpiloj.
 
 ## Agordo Kaj Komandoj

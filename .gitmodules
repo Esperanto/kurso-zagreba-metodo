@@ -1,3 +1,0 @@
-[submodule "genanki"]
-	path = vendor/genanki
-	url = https://github.com/georgjaehnig/genanki

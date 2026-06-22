@@ -7,7 +7,6 @@ import re
 import shutil
 import subprocess
 
-# sys.path = ['./genanki'] + sys.path
 import genanki
 import jinja2
 from markupsafe import Markup

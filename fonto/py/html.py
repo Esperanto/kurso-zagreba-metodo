@@ -16,6 +16,7 @@ from . import pwa
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
+NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
 
 
@@ -32,6 +33,16 @@ def write_file(filename, content):
     path = Path(filename)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding='utf-8')
+
+
+def copy_vendor_file(fonto, celo):
+    if not fonto.is_file():
+        raise SystemExit(
+            'Mankas npm-vendordosiero ' + str(fonto) + '. Rulu `make install`.'
+        )
+
+    celo.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(fonto, celo)
 
 
 def get_version_hash():
@@ -152,10 +163,43 @@ def copy_static_files(versio):
         (FONTO_DIR / 'sonoj' / 'mp3', OUTPUT_DIR / 'assets' / 'mp3'),
         (FONTO_DIR / 'sonoj' / 'ogg', OUTPUT_DIR / 'assets' / 'ogg'),
         (FONTO_DIR / 'bildoj', OUTPUT_DIR / 'assets' / 'img'),
-        (ROOT_DIR / 'vendor' / 'bootstrap', OUTPUT_DIR / 'vendor' / 'bootstrap'),
-        (ROOT_DIR / 'vendor' / 'jquery', OUTPUT_DIR / 'vendor' / 'jquery'),
-        (ROOT_DIR / 'vendor' / 'typeahead', OUTPUT_DIR / 'vendor' / 'typeahead'),
     ]
+    bootstrap_fonts = [
+        'glyphicons-halflings-regular.eot',
+        'glyphicons-halflings-regular.svg',
+        'glyphicons-halflings-regular.ttf',
+        'glyphicons-halflings-regular.woff',
+        'glyphicons-halflings-regular.woff2',
+    ]
+    vendor_files = [
+        (
+            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'css' / 'bootstrap.min.css',
+            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css',
+        ),
+        (
+            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'js' / 'bootstrap.min.js',
+            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.min.js',
+        ),
+        (
+            NODE_MODULES_DIR / 'jquery' / 'dist' / 'jquery.min.js',
+            OUTPUT_DIR / 'vendor' / 'jquery' / 'jquery.min.js',
+        ),
+        (
+            NODE_MODULES_DIR / 'jquery-ui-bundle' / 'jquery-ui.min.js',
+            OUTPUT_DIR / 'vendor' / 'jquery' / 'jquery-ui.min.js',
+        ),
+        (
+            NODE_MODULES_DIR / 'typeahead.js' / 'dist' / 'typeahead.bundle.min.js',
+            OUTPUT_DIR / 'vendor' / 'typeahead' / 'typeahead.bundle.min.js',
+        ),
+    ]
+    vendor_files.extend(
+        (
+            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'fonts' / fonto,
+            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'fonts' / fonto,
+        )
+        for fonto in bootstrap_fonts
+    )
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     write_file(str(OUTPUT_DIR / 'index.html'), render_cxefpagxo(versio))
@@ -165,6 +209,10 @@ def copy_static_files(versio):
     for fonto, celo in static_dirs:
         shutil.rmtree(celo, ignore_errors=True)
         shutil.copytree(fonto, celo)
+
+    shutil.rmtree(OUTPUT_DIR / 'vendor', ignore_errors=True)
+    for fonto, celo in vendor_files:
+        copy_vendor_file(fonto, celo)
 
 
 def generate_pwa():

@@ -1,0 +1,16 @@
+{
+  "name": "kurso-zagreba-metodo",
+  "private": true,
+  "engines": {
+    "node": "24.14.1"
+  },
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "jquery": "1.11.3",
+    "jquery-ui-bundle": "1.11.4",
+    "typeahead.js": "0.11.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.61.0"
+  }
+}

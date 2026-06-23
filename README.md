@@ -36,6 +36,12 @@ Por generi la tutan produktadan HTML-eligon:
 
     make html-all
 
+Tio ankaŭ kreas PWA-manifeston, ikonojn, registrilon kaj radikan `sw.js`. La service worker antaŭkaŝmemorigas la tutan enhavon de `eligo/retejo`, tiel ke ĉiuj produktadaj lingvoj, sonoj, bildoj, vendor-dosieroj kaj Anki-eksportoj estu haveblaj offline post instalado/kaŝmemorigo.
+
+Por kontroli, ke la PWA-manifesto validas kaj ke ĉiu generita dosiero troviĝas en la offline-listo:
+
+    make check-pwa
+
 Por antaŭrigardi jam generitan HTML-on loke:
 
     make serve

@@ -34,6 +34,7 @@ La kanonika taska tavolo por agentoj estas `make`, simile al `npm run ...` en Ja
 ```sh
 make install
 make check
+make check-pwa
 make html LINGVO=en
 make html-all
 make md LINGVO=en
@@ -52,6 +53,8 @@ make html LINGVO=en
 ```
 
 Tio skribas al `eligo/retejo/en`.
+
+`make html` kaj `make html-all` kreas ankaŭ PWA-dosierojn (`manifest.webmanifest`, `pwa/registru.js`, `pwa/images/` kaj `sw.js`). La service worker estas generita el la efektivaj dosieroj en `eligo/retejo`; ne redaktu `eligo/retejo/sw.js` permane. Post `make html-all`, rulu `make check-pwa` por certigi, ke ĉiuj produktadaj lingvoj kaj ĉiuj generitaj lokaj dosieroj estas en la offline-precache-listo.
 
 Por antaŭrigardi jam generitan HTML-on loke, rulu:
 
@@ -75,7 +78,7 @@ make md LINGVO=en
 
 La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pandoc, kiel priskribite en `README.md`.
 
-La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `eligo/retejo` uzante `make html-all`. PR-oj al `master` rulas kontrolon kaj HTML-kunmeton, sed ne disponigas retejon. Ne aldonu apartajn disponigajn skriptojn por produktado; la Pages-artefakta laborfluo estas la kanonika disponigo.
+La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `eligo/retejo` uzante `make html-all` kaj `make check-pwa`. PR-oj al `master` rulas kontrolon kaj HTML-kunmeton, sed ne disponigas retejon. Ne aldonu apartajn disponigajn skriptojn por produktado; la Pages-artefakta laborfluo estas la kanonika disponigo.
 
 ## Redaktado De Enhavo
 
@@ -98,6 +101,13 @@ Ne estas dokumentita aŭtomata testaro ĉe la deponeja radiko. Por ŝanĝoj al g
 
 ```sh
 make check
+```
+
+Se ŝanĝo influas la PWA-on aŭ la produktadan retejan eligon, rulu ankaŭ:
+
+```sh
+make html-all
+make check-pwa
 ```
 
 Se ŝanĝo influas specifan lingvon, rulu la generilon ankaŭ por tiu lingvo.

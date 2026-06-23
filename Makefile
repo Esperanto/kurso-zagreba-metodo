@@ -1,4 +1,4 @@
-.PHONY: help venv install pip-tools lock lock-upgrade check html html-all md serve clean
+.PHONY: help venv install pip-tools lock lock-upgrade check check-pwa html html-all md serve clean
 
 LINGVO ?= en
 HTML_LINGVOJ ?= ar ca cs da de el en es fa fr frp ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tr uk ur vi yo zh zh-tw
@@ -20,6 +20,7 @@ help:
 		'  make lock            Rekreas requirements.txt el requirements.in' \
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
 		'  make check           Purigas kaj kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
+		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por ĉiuj produktadaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
@@ -52,6 +53,9 @@ check:
 	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"
 	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"
 	@"$(PYTHON)" -m fonto.py.kontrolu_eligon --lingvo "$(CHECK_LINGVO)" --md-out "$(MD_OUT)" --output-dir "$(OUTPUT_DIR)"
+
+check-pwa:
+	@"$(PYTHON)" -m fonto.py.kontrolu_pwa --output-dir "$(OUTPUT_DIR)" --lingvoj $(HTML_LINGVOJ)
 
 html:
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo html

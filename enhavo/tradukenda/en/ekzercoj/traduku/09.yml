@@ -1,11 +1,17 @@
 ﻿- nekredebla: unbelievable
-- organizado: organisation
+- organizado:
+  - organization
+  - organisation
 - informado: information
 - libervole: voluntarily
 - parolado: speech
 - survoje: on the way
-- homaro: mankind
-- kredeble: credible
+- homaro:
+  - humanity
+  - humankind
+- kredeble:
+  - probably
+  - presumably
 - kunvojaĝi: to travel with
 - manĝaĵo: food
 - novaĵo: news
@@ -13,4 +19,6 @@
 - ĉirkaŭaĵo: surroundings
 - parolrajto: right to speak
 - domaĉo: ruin
-- tiuokaze: this time
+- tiuokaze:
+  - in that case
+  - on that occasion

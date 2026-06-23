@@ -32,7 +32,7 @@ dank: to thank
 daŭr: to continue
 decid: to decide
 demand: to ask
-dev: to must
+dev: to have to
 dezir: to wish
 diabl: devil
 dik:
@@ -147,7 +147,7 @@ long: long
 lud: to play
 lum: light
 man: hand
-mank: be lacking
+mank: to be lacking
 manĝ: to eat
 mar: sea
 maten: morning
@@ -177,9 +177,7 @@ oft: often
 okaz: to happen
 okul: eye
 onkl: uncle
-opini:
-- to opinionate
-- to think
+opini: to think
 ord: to order
 orel: ear
 pac: peace
@@ -193,7 +191,7 @@ pas: to pass
 patr: father
 paŝ: step
 pens: to think
-perd: to loose
+perd: to lose
 person: person
 pet: to request
 pez: heavy
@@ -281,7 +279,7 @@ util: useful
 uz: to use
 vagon: coach
 varm: warm
-ven: come
+ven: to come
 vend: to sell
 Veneci: Venice
 ver: 'true'
@@ -304,7 +302,7 @@ zorg: to care
 ĉambr: room
 ĉef: boss
 ĝen:
-- to distrub
+- to disturb
 - to bother
 ĝeneral: general
 ĝoj: glad

@@ -1,6 +1,5 @@
 - antaŭĉambro:
   - anteroom
-  - chamber
   - antechamber
   - waiting room
 - malamiko: enemy
@@ -8,10 +7,17 @@
 - antaŭvidi: to foresee
 - malrapida: slow
 - trarigardi: to look through
-- junulo: teenager
-- malmulte: less
+- junulo:
+  - young person
+  - young man
+  - youth
+- malmulte:
+  - little
+  - not much
 - finfine: eventually
-- malriĉulo: poor
+- malriĉulo:
+  - poor person
+  - poor man
 - tagmanĝo: lunch
 - tralegi: 
   - to read through

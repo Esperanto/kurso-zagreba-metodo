@@ -1,5 +1,7 @@
 - estraro: board
-- tagmeze: middays
+- tagmeze:
+  - at noon
+  - at midday
 - posttagmeze: in the afternoon
 - malsata: hungry
 - interkonsenti: to agree
@@ -8,6 +10,8 @@
 - malfermilo: opener
 - noktomezo: midnight
 - publikigi: to publish
-- pagigi: to let pay
+- pagigi:
+  - to charge
+  - to make someone pay
 - duflanka: bilateral
 - aliflanke: on the other hand

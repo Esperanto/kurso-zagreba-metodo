@@ -3,7 +3,9 @@
   - Mrs
   - Mrs.
 - malmultekosta: cheap
-- ĉiutaga: everyday
+- ĉiutaga:
+  - daily
+  - everyday
 - intertempe: in the meantime
 - plenplena: 
   - packed
@@ -13,8 +15,12 @@
   - currently
   - nowadays
   - these days
-- malhelpi: to hinder
-- vendejo: store
+- malhelpi:
+  - to hinder
+  - to prevent
+- vendejo:
+  - shop
+  - store
 - edzino: wife
 - ĉiujare: every year
 - jarcento: century

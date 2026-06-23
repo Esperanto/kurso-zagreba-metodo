@@ -1,9 +1,16 @@
 $(document).ready(function(){
+  var popoverWhiteList = $.extend(
+    {},
+    $.fn.tooltip.Constructor.DEFAULTS.whiteList,
+    { table: [], tbody: [], tr: [], td: [] }
+  );
+
   $('[data-toggle="tooltip"]').tooltip(); 
   $('[data-toggle="popover"]').popover({
     placement: 'bottom',
     trigger: 'hover',
-    html: true 
+    html: true,
+    whiteList: popoverWhiteList
   }); 
   $('.container table').addClass('table'); 
 });

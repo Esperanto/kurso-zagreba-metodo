@@ -20,6 +20,18 @@ test('supra vortaro estas videbla kaj restas post rulumo', async ({ page }) => {
   expect(box.y).toBeLessThan(90);
 });
 
+test('vortaro staras dekstre de aldona menuo sur larĝa ekrano', async ({ page }) => {
+  await page.goto('/en/01/');
+
+  const aldono = page.locator('#site-navigation .dropdown-toggle').nth(1);
+  const vortaro = page.locator('#vortaro');
+  await expect(aldono).toBeVisible();
+  const aldonoBox = await aldono.boundingBox();
+  const vortaroBox = await vortaro.boundingBox();
+
+  expect(vortaroBox.x).toBeGreaterThan(aldonoBox.x + aldonoBox.width);
+});
+
 test('poŝtelefona vortaro restas videbla sen malfermi menuon', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto('/en/01/');

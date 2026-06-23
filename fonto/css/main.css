@@ -44,7 +44,7 @@ h1 {
 }
 
 .site-header {
-  background: rgba(255, 255, 255, 0.96);
+  background: var(--eo-green-dark);
   border: 0;
   border-radius: 0;
   box-shadow: 0 10px 30px rgba(31, 42, 36, 0.08);
@@ -55,45 +55,50 @@ h1 {
 }
 
 .site-header-inner {
+  align-items: center;
+  display: flex;
+  gap: 18px;
   margin: 0 auto;
   max-width: 1120px;
 }
 
-.site-header .navbar-header {
-  align-items: center;
-  display: flex;
-  gap: 16px;
-}
-
 .site-brand {
   align-items: center;
-  color: var(--ink) !important;
+  background: #fff;
+  border-radius: 999px;
   display: flex;
-  font-weight: 700;
-  gap: 10px;
-  height: 64px;
-  letter-spacing: 0;
+  flex: 0 0 auto;
+  height: 44px;
+  justify-content: center;
   padding: 0;
+  width: 44px;
 }
 
 .site-brand:hover,
 .site-brand:focus {
-  color: var(--eo-green-dark) !important;
-}
-
-.site-brand span {
-  white-space: nowrap;
+  opacity: 0.88;
 }
 
 #logo {
-  height: 34px;
+  height: 30px;
   margin: 0;
   padding: 0;
-  width: 34px;
+  width: 30px;
+}
+
+.site-header .navbar-collapse {
+  border: 0;
+  flex: 0 0 auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.site-header .navbar-nav {
+  margin: 0;
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: var(--ink);
+  color: #fff;
   font-weight: 600;
 }
 
@@ -102,8 +107,8 @@ h1 {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background: var(--eo-green-soft);
-  color: var(--eo-green-dark);
+  background: rgba(255, 255, 255, 0.14);
+  color: #fff;
 }
 
 .dropdown-menu {
@@ -127,9 +132,9 @@ h1 {
 .course-search {
   border: 0;
   box-shadow: none;
-  flex: 1 1 300px;
+  flex: 1 1 250px;
   margin: 12px 0;
-  max-width: 360px;
+  max-width: 320px;
   min-width: 220px;
   padding: 0;
 }
@@ -139,7 +144,15 @@ h1 {
   width: 100%;
 }
 
-.course-search #vortaro {
+.course-search #vortaro,
+.course-search .tt-input,
+.course-search .tt-hint {
+  width: 100% !important;
+}
+
+.course-search #vortaro,
+.course-search .tt-input {
+  background: #fff;
   border: 1px solid var(--line);
   border-radius: 999px;
   box-shadow: inset 0 1px 2px rgba(31, 42, 36, 0.06);
@@ -153,13 +166,18 @@ h1 {
 }
 
 .language-form {
+  flex: 0 1 194px;
   margin-bottom: 12px;
+  margin-left: auto;
   margin-top: 12px;
+  padding: 0;
 }
 
 #lingvoelektilo {
-  border-color: var(--line);
+  background: rgba(255, 255, 255, 0.96);
+  border-color: transparent;
   border-radius: 8px;
+  width: 100%;
 }
 
 .site-main {
@@ -396,22 +414,20 @@ ul.pager {
     line-height: 1.58;
   }
 
-  .site-header .navbar-header {
-    gap: 10px;
-    width: 100%;
+  .site-header-inner {
+    flex-wrap: wrap;
+    gap: 0 10px;
   }
 
   .site-brand {
-    height: 58px;
-  }
-
-  .site-brand span {
-    display: none;
+    flex: 0 0 auto;
+    height: 40px;
+    width: 40px;
   }
 
   #logo {
-    height: 31px;
-    width: 31px;
+    height: 27px;
+    width: 27px;
   }
 
   .course-search {
@@ -429,22 +445,44 @@ ul.pager {
   }
 
   .site-header .navbar-toggle {
+    border-color: rgba(255, 255, 255, 0.45);
     flex: 0 0 auto;
-    margin: 0 0 0 auto;
+    margin: 0;
+  }
+
+  .site-header .navbar-toggle:hover,
+  .site-header .navbar-toggle:focus {
+    background: rgba(255, 255, 255, 0.14);
+  }
+
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
   }
 
   .site-header .navbar-collapse {
-    border-top: 1px solid var(--line);
+    border-top: 1px solid rgba(255, 255, 255, 0.22);
+    flex-basis: 100%;
     margin-left: -15px;
     margin-right: -15px;
+    order: 5;
     width: calc(100% + 30px);
+  }
+
+  .site-header .navbar-nav {
+    margin: 8px 0;
+  }
+
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: rgba(255, 255, 255, 0.92);
   }
 
   .language-form {
     border: 0;
     box-shadow: none;
-    margin: 8px 0 12px;
-    padding: 0 15px;
+    flex-basis: 100%;
+    margin: 0 0 12px;
+    order: 6;
+    padding: 0;
   }
 
   #lingvoelektilo {

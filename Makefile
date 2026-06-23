@@ -46,6 +46,7 @@ lock-upgrade: pip-tools
 check:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune, genanki'
+	@"$(PYTHON)" -m fonto.py.kontrolu_yaml
 	@$(MAKE) --no-print-directory clean
 	@mkdir -p "$(dir $(MD_OUT))"
 	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"

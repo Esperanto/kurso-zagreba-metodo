@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import yaml
-from yaml.resolver import Resolver
 import glob
 import re
 import os
@@ -11,15 +10,10 @@ import argparse
 from . import html as html_generilo
 from . import md as md_generilo
 
-# remove resolver entries for On/Off/Yes/No
-# https://stackoverflow.com/a/36470466/52023
-for ch in "OoYyNn":
-    if len(Resolver.yaml_implicit_resolvers[ch]) == 1:
-        del Resolver.yaml_implicit_resolvers[ch]
-    else:
-        Resolver.yaml_implicit_resolvers[ch] = [x for x in
-                                                Resolver.yaml_implicit_resolvers[ch] if
-                                                x[0] != 'tag:yaml.org,2002:bool']
+
+def legi_yaml(path):
+    with open(path, encoding='utf-8-sig') as dosiero:
+        return yaml.safe_load(dosiero)
 
 
 def transpose_headlines(markdown, level):
@@ -52,7 +46,7 @@ def load(language, gramatiko_transpose_headlines=2):
         dirs, filename = os.path.split(path)
         root, extension = os.path.splitext(filename)
         vortspeco = root.replace('_', ' ')
-        vortlisto = yaml.load(open(path).read(), yaml.Loader)
+        vortlisto = legi_yaml(path)
         for esperante in vortlisto:
             fontlingve = vortlisto[esperante]
             vortlisto[esperante] = {
@@ -61,19 +55,18 @@ def load(language, gramatiko_transpose_headlines=2):
             }
         enhavo['vortaro'].update(vortlisto)
 
-    enhavo['finajxoj'] = yaml.load(open('enhavo/netradukenda/radikaj_finajxoj.yml').read(), yaml.Loader)
+    enhavo['finajxoj'] = legi_yaml('enhavo/netradukenda/radikaj_finajxoj.yml')
 
     enhavo['ordoj'] = {}
-    enhavo['ordoj']['cifero'] = yaml.load(open('enhavo/netradukenda/ordoj/cifero.yml'), yaml.Loader)
-    enhavo['ordoj']['monato'] = yaml.load(open('enhavo/netradukenda/ordoj/monato.yml'), yaml.Loader)
-    enhavo['ordoj']['sezono'] = yaml.load(open('enhavo/netradukenda/ordoj/sezono.yml'), yaml.Loader)
-    enhavo['ordoj']['tago_en_la_semajno'] = yaml.load(open('enhavo/netradukenda/ordoj/tago_en_la_semajno.yml'),
-                                                      yaml.Loader)
+    enhavo['ordoj']['cifero'] = legi_yaml('enhavo/netradukenda/ordoj/cifero.yml')
+    enhavo['ordoj']['monato'] = legi_yaml('enhavo/netradukenda/ordoj/monato.yml')
+    enhavo['ordoj']['sezono'] = legi_yaml('enhavo/netradukenda/ordoj/sezono.yml')
+    enhavo['ordoj']['tago_en_la_semajno'] = legi_yaml('enhavo/netradukenda/ordoj/tago_en_la_semajno.yml')
 
     enhavo['fasado'] = {}
     paths = glob.glob('enhavo/tradukenda/' + language + '/fasado/*.yml')
     for path in paths:
-        tradukajxoj = yaml.load(open(path).read(), yaml.Loader)
+        tradukajxoj = legi_yaml(path)
         enhavo['fasado'].update(tradukajxoj)
 
     path = 'enhavo/tradukenda/' + language + '/enkonduko.md'
@@ -102,7 +95,7 @@ def load(language, gramatiko_transpose_headlines=2):
         }
 
         path = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
-        leciono['teksto'] = yaml.load(open(path).read(), yaml.Loader)
+        leciono['teksto'] = legi_yaml(path)
 
         # Create a string of the lesson titles.
         titolo_string = ''
@@ -119,7 +112,7 @@ def load(language, gramatiko_transpose_headlines=2):
         leciono['vortoj']['pliaj'] = []
 
         path = 'enhavo/netradukenda/vortoj/' + i_padded + '.yml'
-        leciono['vortoj']['pliaj'] = yaml.load(open(path).read(), yaml.Loader)
+        leciono['vortoj']['pliaj'] = legi_yaml(path)
 
         for paragrafo in leciono['teksto']['paragrafoj']:
             for vorto in paragrafo:
@@ -144,13 +137,13 @@ def load(language, gramatiko_transpose_headlines=2):
         ekzercoj = {}
 
         path = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku/' + i_padded + '.yml'
-        ekzercoj['Traduku'] = yaml.load(open(path), yaml.Loader)
+        ekzercoj['Traduku'] = legi_yaml(path)
 
         path = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku-kaj-respondu/' + i_padded + '.yml'
-        ekzercoj['Traduku kaj respondu'] = yaml.load(open(path), yaml.Loader)
+        ekzercoj['Traduku kaj respondu'] = legi_yaml(path)
 
         path = 'enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/' + i_padded + '.yml'
-        ekzercoj['Kompletigu la frazojn'] = yaml.load(open(path), yaml.Loader)
+        ekzercoj['Kompletigu la frazojn'] = legi_yaml(path)
 
         # Covert from dict to list.
         leciono['ekzercoj'] = ekzercoj
@@ -210,7 +203,7 @@ def get_cmdline_arguments():
 
 def main():
     args = get_cmdline_arguments()
-    lingvoj = yaml.load(open('agordoj/lingvoj.yml').read(), yaml.Loader)
+    lingvoj = legi_yaml('agordoj/lingvoj.yml')
     if args.eligformo == 'html':
         # if args.lingvo not in lingvoj.keys():
         #    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")

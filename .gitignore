@@ -5,5 +5,7 @@
 /eligo/retejo/
 /node_modules/
 /pad
+/playwright-report/
+/test-results/
 /venv
 /.venv

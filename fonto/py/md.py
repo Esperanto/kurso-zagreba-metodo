@@ -9,7 +9,7 @@ from markupsafe import Markup
 
 
 def kreu_md(enhavo, printendaj):
-    md = mistune.Markdown()
+    md = mistune.create_markdown()
 
     env = jinja2.Environment()
     env.filters['markdown'] = lambda text: Markup(md(text))

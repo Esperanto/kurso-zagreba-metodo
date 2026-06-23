@@ -170,7 +170,7 @@ def copy_static_files(versio):
 
 def generate_html(lingvo, enhavo, args):
     eligo = {}
-    md = mistune.Markdown()
+    md = mistune.create_markdown()
     versio = get_version_hash()
     enhavo['versio'] = versio
     copy_static_files(versio)

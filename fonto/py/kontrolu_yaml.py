@@ -3,7 +3,7 @@
 import yaml
 from yaml.constructor import ConstructorError
 
-from .generu import legi_yaml
+from .generu import legi_yaml, YAML_LOADER
 
 
 def fail(message):
@@ -26,23 +26,26 @@ def collect_values(data, key):
             yield from collect_values(item, key)
 
 
-def check_safe_load_blocks_python_tags():
+def check_safe_yaml_loader_blocks_python_tags():
     try:
-        yaml.safe_load('x: !!python/name:os.system\n')
+        yaml.load('x: !!python/name:os.system\n', Loader=YAML_LOADER)
     except ConstructorError:
         return
-    fail('yaml.safe_load akceptis Python-specifan YAML-etikedon')
+    fail('la sekura YAML-loader akceptis Python-specifan YAML-etikedon')
 
 
 def check_bool_like_scalars():
-    data = yaml.safe_load(
-        'yes_value: yes\n'
-        'no_value: no\n'
-        'on_value: on\n'
-        'off_value: off\n'
-        'true_value: true\n'
-        'false_value: false\n'
-        'quoted_no: "no"\n'
+    data = yaml.load(
+        (
+            'yes_value: yes\n'
+            'no_value: no\n'
+            'on_value: on\n'
+            'off_value: off\n'
+            'true_value: true\n'
+            'false_value: false\n'
+            'quoted_no: "no"\n'
+        ),
+        Loader=YAML_LOADER
     )
     require(data['yes_value'] is True, 'unquoted yes ne fariĝis True')
     require(data['no_value'] is False, 'unquoted no ne fariĝis False')
@@ -66,7 +69,7 @@ def check_malagasy_no_values():
 
 
 def main():
-    check_safe_load_blocks_python_tags()
+    check_safe_yaml_loader_blocks_python_tags()
     check_bool_like_scalars()
     check_malagasy_no_values()
     print('Sukcesis: kontrolis sekuran YAML-legadon')

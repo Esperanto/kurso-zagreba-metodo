@@ -150,13 +150,16 @@ def create_anki(enhavo):
     return deck
 
 
-def render_cxefpagxo(versio):
+def render_cxefpagxo(versio, lingvoj):
     env = jinja2.Environment(auto_reload=False)
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))
-    return env.get_template('cxefpagxo.html').render(versio=versio)
+    return env.get_template('cxefpagxo.html').render(
+        lingvoj=lingvoj,
+        versio=versio,
+    )
 
 
-def copy_static_files(versio):
+def copy_static_files(versio, lingvoj):
     static_dirs = [
         (FONTO_DIR / 'css', OUTPUT_DIR / 'assets' / 'css'),
         (FONTO_DIR / 'js', OUTPUT_DIR / 'assets' / 'js'),
@@ -202,7 +205,7 @@ def copy_static_files(versio):
     )
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    write_file(str(OUTPUT_DIR / 'index.html'), render_cxefpagxo(versio))
+    write_file(str(OUTPUT_DIR / 'index.html'), render_cxefpagxo(versio, lingvoj))
     shutil.copy2(FONTO_DIR / 'bildoj' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
     pwa.copy_static_assets(OUTPUT_DIR)
 
@@ -225,7 +228,7 @@ def generate_html(lingvo, enhavo, args, kopiu_statikan=True):
     versio = get_version_hash()
     enhavo['versio'] = versio
     if kopiu_statikan:
-        copy_static_files(versio)
+        copy_static_files(versio, enhavo['lingvoj'])
 
     env = jinja2.Environment(auto_reload=False)
     env.filters['markdown'] = lambda text: Markup(md(text))

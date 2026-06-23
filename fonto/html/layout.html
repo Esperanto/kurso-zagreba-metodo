@@ -1,39 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{% block html_lang %}{{ enhavo.lingvo|default('en') }}{% endblock %}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>
-			{% block title %}
-			{% endblock %}
-		</title>
-
+    <title>{% block title %}{% endblock %}</title>
 
     <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{vojprefikso}}../assets/css/main.css?v=2" rel="stylesheet">
-    <link href="{{vojprefikso}}../assets/css/vortaro.css" rel="stylesheet">
-
+    <link href="/assets/css/main.css?v=3" rel="stylesheet">
+    <link href="/assets/css/vortaro.css?v=3" rel="stylesheet">
   </head>
-  <body>
-
-
-    <nav class="navbar navbar-inverse">
-      <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
+  <body class="{% block body_class %}course-page{% endblock %}">
+    {% block navigation %}
+    <nav class="navbar navbar-default site-header course-header">
+      <div class="container-fluid site-header-inner">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <a class="navbar-brand site-brand" href="{{vojprefikso}}">
+            <img id="logo" src="/assets/img/stelo.png" alt="Verda stelo">
+            <span>Esperanto 12</span>
+          </a>
+
+          <form class="navbar-form course-search">
+            {% include 'vortaro.html' %}
+          </form>
+
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#site-navigation" aria-expanded="false">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="{{vojprefikso}}"><img id="logo" src="{{vojprefikso}}../assets/img/stelo.png" alt="Verda stelo"></a>
         </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div class="collapse navbar-collapse" id="site-navigation">
           <ul class="nav navbar-nav">
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
@@ -52,105 +51,86 @@
                 <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                <li><a href="{{vojprefikso}}tabelvortoj">
-                  {{enhavo.fasado['Tabelvortoj']}}
-                </a></li>
-                <li><a href="{{vojprefikso}}prepozicioj">
-                  {{enhavo.fasado['Prepozicioj']}}
-                </a></li>
-                <li><a href="{{vojprefikso}}konjunkcioj">
-                  {{enhavo.fasado['Konjunkcioj']}}
-                </a></li>
-                <li><a href="{{vojprefikso}}afiksoj">
-                  {{enhavo.fasado['Afiksoj']}}
-                </a></li>
-                <li><a href="{{vojprefikso}}diversajxoj">
-                  {{enhavo.fasado['Diversaĵoj']}}
-                </a></li>
+                <li><a href="{{vojprefikso}}tabelvortoj">{{enhavo.fasado['Tabelvortoj']}}</a></li>
+                <li><a href="{{vojprefikso}}prepozicioj">{{enhavo.fasado['Prepozicioj']}}</a></li>
+                <li><a href="{{vojprefikso}}konjunkcioj">{{enhavo.fasado['Konjunkcioj']}}</a></li>
+                <li><a href="{{vojprefikso}}afiksoj">{{enhavo.fasado['Afiksoj']}}</a></li>
+                <li><a href="{{vojprefikso}}diversajxoj">{{enhavo.fasado['Diversaĵoj']}}</a></li>
               </ul>
             </li>
           </ul>
 
-          <form class="navbar-form navbar-left">
-            {% include 'vortaro.html' %}
-          </form>
-          <form class="navbar-form navbar-left">
+          <form class="navbar-form navbar-right language-form">
             <select id="lingvoelektilo" class="form-control">
               {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'preta' %}
                 <option value="{{kodo}}"
-                {% if kodo == enhavo.lingvo %}  
+                {% if kodo == enhavo.lingvo %}
                   selected
-                {% endif %}  
+                {% endif %}
                 >{{enhavo.lingvoj[kodo].nomo.fontlingve}}</option>
               {% endfor %}
               {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'testa' %}
                 <option value="{{kodo}}"
-                {% if kodo == enhavo.lingvo %}  
+                {% if kodo == enhavo.lingvo %}
                   selected
-                {% endif %}  
+                {% endif %}
                 >(test: {{enhavo.lingvoj[kodo].nomo.esperante}})</option>
               {% endfor %}
             </select>
           </form>
-
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container-fluid -->
-    </nav>   
-
-    <div class="container">
-      <div class="row">
-
-        <div class="col-sm-12">
-
-						<!--
-					<div class="ad" >
-						Vizitu la <a target="_blank" href="https://uk.esperanto.net/2026/">Universalan Kongreson en Graz</a> kaj renkontu 1000+ esperantistojn el la tuta mondo.
-					</div>
-						-->
-          
-          {% block content %}
-          {% endblock %}
-        
         </div>
       </div>
+    </nav>
+    {% endblock %}
 
-			<div class="footer well well-sm">
-				<div>
-					<a href="https://github.com/Esperanto/kurso-zagreba-metodo#permesiloj">
-				    <img id="cc" src="{{vojprefikso}}../assets/img/cc.png" alt="Creative commons">
-					</a> 
-					
-					Surbaze de la <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo">Zagreba metodo</a>, 
-					<a href="{{vojprefikso}}auxtoroj/">Aŭtoroj</a>,
-					<a href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md">Helpu</a>,
-					<a href="https://jaehnig.org/privacy">Privateco</a>,
-					<a href="https://jaehnig.org/impressum/">Kontakto</a>
-					<br/>
-	        <a href="https://uea.org/">
-				    <img id="cc" src="{{vojprefikso}}../assets/img/uea.png" alt="Universala Esperanto Asocio">
-					</a>
-					Subtenita de <a href="https://uea.org/">Universala Esperanto Asocio</a>
-					<br/>
-					<span class="versio">⏱︎ Versio: {{enhavo.versio}}</span>
-			</div>
+    <main class="site-main">
+      <div class="container site-container">
+        <div class="row">
+          <div class="col-sm-12">
+            {% block content %}
+            {% endblock %}
+          </div>
+        </div>
+      </div>
+    </main>
 
-    </div>
-
+    {% block footer %}
+    <footer class="site-footer">
+      <div class="container site-footer-inner">
+        <a href="https://github.com/Esperanto/kurso-zagreba-metodo#permesiloj">
+          <img class="footer-logo" src="/assets/img/cc.png" alt="Creative commons">
+        </a>
+        <span>
+          Surbaze de la <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo">Zagreba metodo</a>,
+          <a href="{{vojprefikso}}auxtoroj/">Aŭtoroj</a>,
+          <a href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md">Helpu</a>,
+          <a href="https://jaehnig.org/privacy">Privateco</a>,
+          <a href="https://jaehnig.org/impressum/">Kontakto</a>
+        </span>
+        <span class="footer-support">
+          <a href="https://uea.org/">
+            <img class="footer-logo" src="/assets/img/uea.png" alt="Universala Esperanto Asocio">
+          </a>
+          Subtenita de <a href="https://uea.org/">Universala Esperanto Asocio</a>
+        </span>
+        <span class="versio">⏱︎ Versio: {{enhavo.versio}}</span>
+      </div>
+    </footer>
+    {% endblock %}
 
     <script src="/vendor/jquery/jquery.min.js"></script>
     <script src="/vendor/jquery/jquery-ui.min.js"></script>
     <script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
-
     <script src="/vendor/typeahead/typeahead.bundle.min.js"></script>
-
-    <script src="{{vojprefikso}}../assets/js/main.js"></script>
+    <script src="/assets/js/main.js"></script>
+    {% block course_scripts %}
     <script src="{{vojprefikso}}js/vortlisto.js"></script>
-    <script src="{{vojprefikso}}../assets/js/vortaro.js"></script>
-
-			<!-- 100% privacy-first analytics -->
-	<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript>
-<script data-goatcounter="https://e12.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-
+    <script src="/assets/js/vortaro.js"></script>
+    {% endblock %}
+    {% block analytics %}
+    <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript>
+    <script data-goatcounter="https://e12.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    {% endblock %}
   </body>
 </html>

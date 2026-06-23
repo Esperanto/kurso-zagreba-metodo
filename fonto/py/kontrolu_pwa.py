@@ -1,0 +1,122 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import argparse
+import json
+import re
+from pathlib import Path
+
+from . import pwa
+
+
+PRECACHE_PATTERN = re.compile(r'const PRECACHE_URLS = (\[.*?\]);', re.DOTALL)
+
+
+def fail(message):
+    raise SystemExit('PWA-kontrolo malsukcesis: ' + message)
+
+
+def require(condition, message):
+    if not condition:
+        fail(message)
+
+
+def require_nonempty_file(path):
+    if not path.is_file():
+        fail('mankas dosiero ' + str(path))
+    if path.stat().st_size == 0:
+        fail('malplenas dosiero ' + str(path))
+
+
+def load_precache_urls(service_worker_path):
+    text = service_worker_path.read_text(encoding='utf-8')
+    match = PRECACHE_PATTERN.search(text)
+    require(match, 'ne trovis PRECACHE_URLS en ' + str(service_worker_path))
+    try:
+        urls = json.loads(match.group(1))
+    except json.JSONDecodeError as error:
+        fail('PRECACHE_URLS ne estas valida JSON: ' + str(error))
+    require(isinstance(urls, list), 'PRECACHE_URLS ne estas listo')
+    return set(urls), text
+
+
+def check_manifest(output_dir, precache_urls):
+    manifest_path = output_dir / 'manifest.webmanifest'
+    require_nonempty_file(manifest_path)
+    try:
+        manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+    except json.JSONDecodeError as error:
+        fail('manifest.webmanifest ne estas valida JSON: ' + str(error))
+
+    require(manifest.get('scope') == '/', 'manifest scope ne estas /')
+    require(manifest.get('start_url') == '/', 'manifest start_url ne estas /')
+    require(manifest.get('display') == 'standalone', 'manifest display ne estas standalone')
+    icons = manifest.get('icons')
+    require(isinstance(icons, list) and icons, 'manifest ne enhavas ikonojn')
+
+    for icon in icons:
+        src = icon.get('src')
+        require(src and src.startswith('/'), 'ikono ne havas radikan src')
+        icon_path = output_dir / src.lstrip('/')
+        require_nonempty_file(icon_path)
+        require(src in precache_urls, 'ikono mankas en precache: ' + src)
+
+
+def check_html_links(output_dir):
+    for path in [output_dir / 'index.html', output_dir / 'en' / 'index.html']:
+        require_nonempty_file(path)
+        text = path.read_text(encoding='utf-8')
+        require('/manifest.webmanifest' in text, 'mankas manifest-ligilo en ' + str(path))
+        require('/pwa/registru.js' in text, 'mankas PWA-registrilo en ' + str(path))
+
+
+def check_precache_completeness(output_dir, precache_urls):
+    expected_urls = set(pwa.collect_precache_urls(output_dir))
+    missing = sorted(expected_urls - precache_urls)
+    unexpected = sorted(precache_urls - expected_urls)
+    if missing:
+        fail('mankas ' + str(len(missing)) + ' dosieroj en precache, ekzemple: ' + ', '.join(missing[:10]))
+    if unexpected:
+        fail('precache enhavas nekonatajn URL-ojn, ekzemple: ' + ', '.join(unexpected[:10]))
+
+
+def check_languages(output_dir, lingvoj, precache_urls):
+    for lingvo in lingvoj:
+        required_urls = [
+            '/' + lingvo + '/index.html',
+            '/' + lingvo + '/01/index.html',
+            '/' + lingvo + '/01/gramatiko/index.html',
+            '/' + lingvo + '/js/vortlisto.js',
+            '/' + lingvo + '/eksporto/' + lingvo + '.apkg',
+        ]
+        for url in required_urls:
+            require_nonempty_file(output_dir / url.lstrip('/'))
+            require(url in precache_urls, 'mankas lingva URL en precache: ' + url)
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--output-dir', required=True)
+    parser.add_argument('--lingvoj', nargs='+', required=True)
+    args = parser.parse_args()
+
+    output_dir = Path(args.output_dir)
+    service_worker_path = output_dir / 'sw.js'
+    require_nonempty_file(service_worker_path)
+    require_nonempty_file(output_dir / 'pwa' / 'registru.js')
+
+    precache_urls, service_worker_text = load_precache_urls(service_worker_path)
+    require('CACHE_NAME' in service_worker_text, 'mankas CACHE_NAME en service worker')
+    require('/manifest.webmanifest' in precache_urls, 'manifest mankas en precache')
+    require('/pwa/registru.js' in precache_urls, 'registrilo mankas en precache')
+
+    check_manifest(output_dir, precache_urls)
+    check_html_links(output_dir)
+    check_languages(output_dir, args.lingvoj, precache_urls)
+    check_precache_completeness(output_dir, precache_urls)
+
+    print('Sukcesis: kontrolis PWA-on kaj offline-liston por ' + str(len(args.lingvoj)) + ' lingvoj')
+
+
+if __name__ == '__main__':
+    main()

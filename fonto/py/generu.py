@@ -219,6 +219,7 @@ def generu_html_por_lingvoj(args, lingvoj):
             print('Generas HTML por ' + lingvo, flush=True)
         enhavo = kompletigu_enhavon(lingvo, lingvoj)
         html_generilo.generate_html(lingvo, enhavo, args, kopiu_statikan=(index == 0))
+    html_generilo.generate_pwa()
 
 
 def main():

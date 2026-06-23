@@ -11,6 +11,8 @@ import jinja2
 from markupsafe import Markup
 import mistune
 
+from . import pwa
+
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
@@ -158,10 +160,15 @@ def copy_static_files(versio):
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     write_file(str(OUTPUT_DIR / 'index.html'), render_cxefpagxo(versio))
     shutil.copy2(FONTO_DIR / 'bildoj' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
+    pwa.copy_static_assets(OUTPUT_DIR)
 
     for fonto, celo in static_dirs:
         shutil.rmtree(celo, ignore_errors=True)
         shutil.copytree(fonto, celo)
+
+
+def generate_pwa():
+    pwa.write_service_worker(OUTPUT_DIR, get_version_hash())
 
 
 def generate_html(lingvo, enhavo, args, kopiu_statikan=True):

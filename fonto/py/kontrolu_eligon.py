@@ -9,6 +9,9 @@ from pathlib import Path
 
 
 GRAMATIKO_PATTERN = re.compile(r'<div dir="ltr">\s*<h3>Alphabet</h3>')
+PWA_MANIFEST_PATTERN = re.compile(r'/manifest\.webmanifest')
+PWA_REGISTER_PATTERN = re.compile(r'/pwa/registru\.js')
+PWA_SERVICE_WORKER_PATTERN = re.compile(r'const PRECACHE_URLS = \[')
 
 
 def fail(message):
@@ -89,9 +92,19 @@ def main():
         output_dir / 'assets' / 'css' / 'main.css',
         output_dir / 'assets' / 'js' / 'main.js',
         output_dir / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css',
+        output_dir / 'manifest.webmanifest',
+        output_dir / 'manifest.json',
+        output_dir / 'pwa' / 'registru.js',
+        output_dir / 'pwa' / 'images' / 'ecbc30ce-3901-d33d-412d-10551879846f.webPlatform.png',
+        output_dir / 'sw.js',
     ]:
         require_nonempty_file(path)
 
+    require_pattern(output_dir / 'index.html', PWA_MANIFEST_PATTERN)
+    require_pattern(output_dir / 'index.html', PWA_REGISTER_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', PWA_MANIFEST_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', PWA_REGISTER_PATTERN)
+    require_pattern(output_dir / 'sw.js', PWA_SERVICE_WORKER_PATTERN)
     require_pattern(lingvo_dir / '01' / 'gramatiko' / 'index.html', GRAMATIKO_PATTERN)
     require_apkg(lingvo_dir / 'eksporto' / (lingvo + '.apkg'))
 

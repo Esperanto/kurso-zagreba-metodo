@@ -24,7 +24,7 @@ Por kontroli la anglan Markdown-, HTML- kaj Anki-eligon:
 
     make check
 
-Tio generas `eligo/md/en.md` kaj `eligo/retejo/en`, poste kontrolas kernajn dosierojn kaj la APKG-eksporton.
+Tio unue forigas `eligo/retejo`, poste generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj fine kontrolas kernajn dosierojn kaj la APKG-eksporton.
 
 ### HTML
 

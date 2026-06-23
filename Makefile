@@ -19,7 +19,7 @@ help:
 		'  make install         Kreas venv-on kaj instalas requirements' \
 		'  make lock            Rekreas requirements.txt el requirements.in' \
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
-		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
+		'  make check           Purigas kaj kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por ĉiuj produktadaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
@@ -46,6 +46,7 @@ lock-upgrade: pip-tools
 check:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune, genanki'
+	@$(MAKE) --no-print-directory clean
 	@mkdir -p "$(dir $(MD_OUT))"
 	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"
 	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"

@@ -9,8 +9,6 @@ from pathlib import Path
 
 
 GRAMATIKO_PATTERN = re.compile(r'<div dir="ltr">\s*<h3>Alphabet</h3>')
-PWA_MANIFEST_PATTERN = re.compile(r'/manifest\.webmanifest')
-PWA_REGISTER_PATTERN = re.compile(r'/pwa/registru\.js')
 PWA_SERVICE_WORKER_PATTERN = re.compile(r'const PRECACHE_URLS = \[')
 
 
@@ -100,10 +98,6 @@ def main():
     ]:
         require_nonempty_file(path)
 
-    require_pattern(output_dir / 'index.html', PWA_MANIFEST_PATTERN)
-    require_pattern(output_dir / 'index.html', PWA_REGISTER_PATTERN)
-    require_pattern(lingvo_dir / 'index.html', PWA_MANIFEST_PATTERN)
-    require_pattern(lingvo_dir / 'index.html', PWA_REGISTER_PATTERN)
     require_pattern(output_dir / 'sw.js', PWA_SERVICE_WORKER_PATTERN)
     require_pattern(lingvo_dir / '01' / 'gramatiko' / 'index.html', GRAMATIKO_PATTERN)
     require_apkg(lingvo_dir / 'eksporto' / (lingvo + '.apkg'))

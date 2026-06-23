@@ -185,7 +185,7 @@ def copy_static_files(versio):
             OUTPUT_DIR / 'vendor' / 'jquery' / 'jquery.min.js',
         ),
         (
-            NODE_MODULES_DIR / 'jquery-ui-bundle' / 'jquery-ui.min.js',
+            NODE_MODULES_DIR / 'jquery-ui-dist' / 'jquery-ui.min.js',
             OUTPUT_DIR / 'vendor' / 'jquery' / 'jquery-ui.min.js',
         ),
         (

@@ -10,9 +10,9 @@ from pathlib import Path
 
 GRAMATIKO_PATTERN = re.compile(r'<div dir="ltr">\s*<h3>Alphabet</h3>')
 PWA_SERVICE_WORKER_PATTERN = re.compile(r'const PRECACHE_URLS = \[')
-BOOTSTRAP_PATTERN = re.compile(r'Bootstrap v3\.3\.6')
-JQUERY_PATTERN = re.compile(r'jQuery v1\.11\.3')
-JQUERY_UI_PATTERN = re.compile(r'jQuery UI - v1\.11\.4')
+BOOTSTRAP_PATTERN = re.compile(r'Bootstrap v3\.4\.1')
+JQUERY_PATTERN = re.compile(r'jQuery v3\.7\.1')
+JQUERY_UI_PATTERN = re.compile(r'jQuery UI - v1\.13\.3')
 TYPEAHEAD_PATTERN = re.compile(r'typeahead\.js 0\.11\.1')
 
 

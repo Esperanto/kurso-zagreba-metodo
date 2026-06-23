@@ -3,7 +3,6 @@
 
 import os
 from pathlib import Path
-import re
 import shutil
 import subprocess
 
@@ -28,11 +27,9 @@ def render_page(name, enhavo, vojprefikso, env):
 
 
 def write_file(filename, content):
-    dirname = os.path.dirname(filename)
-    if not os.path.exists(dirname):
-        os.makedirs(dirname)
-    with open(filename, 'w') as f:
-        f.write(content)
+    path = Path(filename)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(content, encoding='utf-8')
 
 
 def get_version_hash():
@@ -120,17 +117,16 @@ def create_anki(enhavo):
         'Learn Esperanto: ' + enhavo['lingvo']
     )
 
-    aldonitaj = []
+    aldonitaj = set()
 
     # Unue aldonu laux lecionoj.
-    for leciono_index_0 in range(len(enhavo['lecionoj'])):
-        leciono = enhavo['lecionoj'][leciono_index_0]
+    for leciono_index_0, leciono in enumerate(enhavo['lecionoj']):
         for radiko in leciono['vortoj']['teksto']:
             if radiko.lower() in enhavo['vortaro']:
                 radiko = radiko.lower()
-            leciono = str(leciono_index_0 + 1)
-            aldonu_karton(deck, model, enhavo, radiko, leciono)
-            aldonitaj.append(radiko)
+            leciono_numero = str(leciono_index_0 + 1)
+            aldonu_karton(deck, model, enhavo, radiko, leciono_numero)
+            aldonitaj.add(radiko)
 
     # Nun aldonu la reston.
     for radiko in enhavo['vortaro']:
@@ -142,7 +138,7 @@ def create_anki(enhavo):
 
 
 def render_cxefpagxo(versio):
-    env = jinja2.Environment()
+    env = jinja2.Environment(auto_reload=False)
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))
     return env.get_template('cxefpagxo.html').render(versio=versio)
 
@@ -168,20 +164,21 @@ def copy_static_files(versio):
         shutil.copytree(fonto, celo)
 
 
-def generate_html(lingvo, enhavo, args):
+def generate_html(lingvo, enhavo, args, kopiu_statikan=True):
     eligo = {}
     md = mistune.create_markdown()
     versio = get_version_hash()
     enhavo['versio'] = versio
-    copy_static_files(versio)
+    if kopiu_statikan:
+        copy_static_files(versio)
 
-    env = jinja2.Environment()
+    env = jinja2.Environment(auto_reload=False)
     env.filters['markdown'] = lambda text: Markup(md(text))
     env.trim_blocks = True
     env.lstrip_blocks = True
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))
 
-    output_path = os.path.join(str(OUTPUT_DIR), lingvo, '')
+    output_path = OUTPUT_DIR / lingvo
 
     tabs = [
         ('teksto', '', enhavo['fasado']['Teksto']),
@@ -203,18 +200,18 @@ def generate_html(lingvo, enhavo, args):
         tabs=tabs,
     )
 
-    eligo[output_path + 'index.html'] = rendered
+    eligo[output_path / 'index.html'] = rendered
 
     # vortaro.js
     rendered = env.get_template('vortlisto.js').render(
         enhavo=enhavo,
     )
-    eligo[output_path + 'js/vortlisto.js'] = rendered
+    eligo[output_path / 'js' / 'vortlisto.js'] = rendered
 
-    eligo[output_path + 'eksporto/' + enhavo['lingvo'] + '.apkg'] = create_anki(enhavo)
+    eligo[output_path / 'eksporto' / (enhavo['lingvo'] + '.apkg')] = create_anki(enhavo)
 
     for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post']:
-        eligo[output_path + tab_page + '/index.html'] = render_page(tab_page, enhavo, vojprefikso, env)
+        eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env)
 
     paths = []
     for i in range(1, 13):
@@ -225,7 +222,7 @@ def generate_html(lingvo, enhavo, args):
 
     for i in range(1, 13):
         i_padded = str(i).zfill(2)
-        leciono_dir = output_path + i_padded
+        leciono_dir = output_path / i_padded
 
         for tab, href, caption in tabs:
 
@@ -253,15 +250,15 @@ def generate_html(lingvo, enhavo, args):
                 identigilo=i_padded + '/' + href
             )
 
-            eligo[leciono_dir + '/' + href + '/' + '/index.html'] = tab_rendered
+            eligo[leciono_dir / href / 'index.html'] = tab_rendered
 
     # Forigu nunan dosierujon.
     shutil.rmtree(output_path, ignore_errors=True)
 
     # Kreu novajn dosierojn
-    for vojo in eligo.keys():
-        if re.search(r'\.apkg$', vojo):
-            write_file(vojo, '')
-            genanki.Package(eligo[vojo]).write_to_file(vojo)
+    for vojo, eliga_enhavo in eligo.items():
+        if vojo.suffix == '.apkg':
+            vojo.parent.mkdir(parents=True, exist_ok=True)
+            genanki.Package(eliga_enhavo).write_to_file(str(vojo))
             continue
-        write_file(vojo, eligo[vojo])
+        write_file(vojo, eliga_enhavo)

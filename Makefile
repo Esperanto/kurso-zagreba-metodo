@@ -57,10 +57,7 @@ html:
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo html
 
 html-all:
-	@set -e; for lingvo in $(HTML_LINGVOJ); do \
-		printf 'Generas HTML por %s\n' "$$lingvo"; \
-		"$(PYTHON)" -m fonto.py.generu --lingvo "$$lingvo" --eligformo html; \
-	done
+	@"$(PYTHON)" -m fonto.py.generu --lingvoj $(HTML_LINGVOJ) --eligformo html
 
 md:
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo md

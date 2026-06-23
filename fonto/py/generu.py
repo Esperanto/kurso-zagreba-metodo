@@ -2,50 +2,52 @@
 # -*- coding: utf-8 -*-
 
 import yaml
-import glob
 import re
-import os
 import argparse
+from pathlib import Path
 
 from . import html as html_generilo
 from . import md as md_generilo
 
 
+ROOT_DIR = Path(__file__).resolve().parents[2]
+AGORDOJ_DIR = ROOT_DIR / 'agordoj'
+ENHAVO_DIR = ROOT_DIR / 'enhavo'
+LECION_NUMEROJ = range(1, 13)
+YAML_LOADER = getattr(yaml, 'CSafeLoader', yaml.SafeLoader)
+
+
 def legi_yaml(path):
-    with open(path, encoding='utf-8-sig') as dosiero:
-        return yaml.safe_load(dosiero)
+    with Path(path).open(encoding='utf-8-sig') as dosiero:
+        return yaml.load(dosiero, Loader=YAML_LOADER)
+
+
+def legi_tekston(path):
+    return Path(path).read_text(encoding='utf-8-sig')
 
 
 def transpose_headlines(markdown, level):
-    prefix = ''
-    for i in range(level):
-        prefix += '#'
-    markdown = re.sub(r'^#', '#' + prefix, markdown)
-    markdown = re.sub(r'\n#', '\n#' + prefix, markdown)
-    return markdown
+    prefix = '#' * level
+    return re.sub(r'(^|\n)(#+)', lambda match: match.group(1) + prefix + match.group(2), markdown)
 
 
 def get_markdown_headlines(s):
-    headlines = []
-    for match in re.finditer(r'(^|\n)# (.+)\n', s):
-        headlines.append(match.group(2).strip())
-
-    return headlines
+    return [match.group(2).strip() for match in re.finditer(r'(^|\n)# (.+)\n', s)]
 
 
 def load(language, gramatiko_transpose_headlines=2):
     enhavo = {'lingvo': language, 'vortaro': {}}
 
-    paths = glob.glob('enhavo/tradukenda/' + language + '/vortaro/*.yml')
+    tradukenda_dir = ENHAVO_DIR / 'tradukenda' / language
+    netradukenda_dir = ENHAVO_DIR / 'netradukenda'
+    paths = sorted((tradukenda_dir / 'vortaro').glob('*.yml'))
     # Provo solvi
     # https://github.com/Esperanto/kurso-zagreba-metodo/issues/36
     # sed kauzas aliajn problemojn.
     # paths.append('enhavo/tradukenda/en/vortaro/vorto.yml')
     # print(paths)
     for path in paths:
-        dirs, filename = os.path.split(path)
-        root, extension = os.path.splitext(filename)
-        vortspeco = root.replace('_', ' ')
+        vortspeco = path.stem.replace('_', ' ')
         vortlisto = legi_yaml(path)
         for esperante in vortlisto:
             fontlingve = vortlisto[esperante]
@@ -55,33 +57,33 @@ def load(language, gramatiko_transpose_headlines=2):
             }
         enhavo['vortaro'].update(vortlisto)
 
-    enhavo['finajxoj'] = legi_yaml('enhavo/netradukenda/radikaj_finajxoj.yml')
+    enhavo['finajxoj'] = legi_yaml(netradukenda_dir / 'radikaj_finajxoj.yml')
 
     enhavo['ordoj'] = {}
-    enhavo['ordoj']['cifero'] = legi_yaml('enhavo/netradukenda/ordoj/cifero.yml')
-    enhavo['ordoj']['monato'] = legi_yaml('enhavo/netradukenda/ordoj/monato.yml')
-    enhavo['ordoj']['sezono'] = legi_yaml('enhavo/netradukenda/ordoj/sezono.yml')
-    enhavo['ordoj']['tago_en_la_semajno'] = legi_yaml('enhavo/netradukenda/ordoj/tago_en_la_semajno.yml')
+    ordoj_dir = netradukenda_dir / 'ordoj'
+    enhavo['ordoj']['cifero'] = legi_yaml(ordoj_dir / 'cifero.yml')
+    enhavo['ordoj']['monato'] = legi_yaml(ordoj_dir / 'monato.yml')
+    enhavo['ordoj']['sezono'] = legi_yaml(ordoj_dir / 'sezono.yml')
+    enhavo['ordoj']['tago_en_la_semajno'] = legi_yaml(ordoj_dir / 'tago_en_la_semajno.yml')
 
     enhavo['fasado'] = {}
-    paths = glob.glob('enhavo/tradukenda/' + language + '/fasado/*.yml')
-    for path in paths:
+    for path in sorted((tradukenda_dir / 'fasado').glob('*.yml')):
         tradukajxoj = legi_yaml(path)
         enhavo['fasado'].update(tradukajxoj)
 
-    path = 'enhavo/tradukenda/' + language + '/enkonduko.md'
-    enkonduko = open(path).read()
+    path = tradukenda_dir / 'enkonduko.md'
+    enkonduko = legi_tekston(path)
     # enkonduko = transpose_headlines(enkonduko, 1)
     enhavo['enkonduko'] = enkonduko
 
-    path = 'enhavo/tradukenda/' + language + '/post.md'
-    enhavo['post'] = open(path).read()
+    path = tradukenda_dir / 'post.md'
+    enhavo['post'] = legi_tekston(path)
     enhavo['post'] = transpose_headlines(enhavo['post'], 2)
 
     lecionoj = []
-    vortoj = {}
+    vortoj = set()
 
-    for i in range(1, 13):
+    for i in LECION_NUMEROJ:
         leciono = {
             'teksto': None,
             'gramatiko': None,
@@ -94,37 +96,33 @@ def load(language, gramatiko_transpose_headlines=2):
             'cxene': i_padded
         }
 
-        path = 'enhavo/netradukenda/tekstoj/' + i_padded + '.yml'
+        path = netradukenda_dir / 'tekstoj' / (i_padded + '.yml')
         leciono['teksto'] = legi_yaml(path)
 
-        # Create a string of the lesson titles.
-        titolo_string = ''
-        for radikoj in leciono['teksto']['titolo']:
-            if radikoj:
-                titolo_string += ''.join(radikoj)
-            else:
-                titolo_string += ' '
-
-        leciono['teksto']['titolo_string'] = titolo_string
+        leciono['teksto']['titolo_string'] = ''.join(
+            ''.join(radikoj) if radikoj else ' '
+            for radikoj in leciono['teksto']['titolo']
+        )
 
         leciono['vortoj'] = {}
         leciono['vortoj']['teksto'] = []
         leciono['vortoj']['pliaj'] = []
 
-        path = 'enhavo/netradukenda/vortoj/' + i_padded + '.yml'
+        path = netradukenda_dir / 'vortoj' / (i_padded + '.yml')
         leciono['vortoj']['pliaj'] = legi_yaml(path)
 
         for paragrafo in leciono['teksto']['paragrafoj']:
             for vorto in paragrafo:
-                if type(vorto) is list:
+                if isinstance(vorto, list):
                     for radiko in vorto:
-                        if not radiko.lower() in vortoj:
+                        radiko_lower = radiko.lower()
+                        if radiko_lower not in vortoj:
                             leciono['vortoj']['teksto'].append(radiko)
-                            vortoj[radiko.lower()] = True
+                            vortoj.add(radiko_lower)
 
-        path = 'enhavo/tradukenda/' + language + '/gramatiko/' + i_padded + '.md'
+        path = tradukenda_dir / 'gramatiko' / (i_padded + '.md')
 
-        gramatiko_teksto = open(path).read()
+        gramatiko_teksto = legi_tekston(path)
         gramatiko_titoloj = get_markdown_headlines(gramatiko_teksto)
         gramatiko_teksto = transpose_headlines(gramatiko_teksto, gramatiko_transpose_headlines)
 
@@ -136,16 +134,15 @@ def load(language, gramatiko_transpose_headlines=2):
 
         ekzercoj = {}
 
-        path = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku/' + i_padded + '.yml'
+        path = tradukenda_dir / 'ekzercoj' / 'traduku' / (i_padded + '.yml')
         ekzercoj['Traduku'] = legi_yaml(path)
 
-        path = 'enhavo/tradukenda/' + language + '/ekzercoj/traduku-kaj-respondu/' + i_padded + '.yml'
+        path = tradukenda_dir / 'ekzercoj' / 'traduku-kaj-respondu' / (i_padded + '.yml')
         ekzercoj['Traduku kaj respondu'] = legi_yaml(path)
 
-        path = 'enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/' + i_padded + '.yml'
+        path = netradukenda_dir / 'ekzercoj' / 'kompletigu-la-frazojn' / (i_padded + '.yml')
         ekzercoj['Kompletigu la frazojn'] = legi_yaml(path)
 
-        # Covert from dict to list.
         leciono['ekzercoj'] = ekzercoj
 
         lecionoj.append(leciono)
@@ -157,12 +154,17 @@ def load(language, gramatiko_transpose_headlines=2):
 
 def get_cmdline_arguments():
     ap = argparse.ArgumentParser()
-    ap.add_argument(
+    lingvo_group = ap.add_mutually_exclusive_group(required=True)
+    lingvo_group.add_argument(
         "-l",
         "--lingvo",
         help="Kreu eligon por tiu lingvo.",
-        type=str,
-        required=True
+        type=str
+    )
+    lingvo_group.add_argument(
+        "--lingvoj",
+        help="Kreu HTML-eligon por pluraj lingvoj per unu Python-procezo.",
+        nargs='+'
     )
     ap.add_argument(
         "-ef",
@@ -197,24 +199,37 @@ def get_cmdline_arguments():
         type=str
     )
     args = ap.parse_args()
+    if args.eligformo == 'md' and args.lingvoj:
+        ap.error('--lingvoj estas uzebla nur kun --eligformo html')
 
     return args
 
 
+def kompletigu_enhavon(lingvo, lingvoj, gramatiko_transpose_headlines=2):
+    enhavo = load(lingvo, gramatiko_transpose_headlines)
+    enhavo['lingvoj'] = lingvoj
+    enhavo['tekstodirekto'] = lingvoj[lingvo].get('tekstodirekto', 'ltr')
+    return enhavo
+
+
+def generu_html_por_lingvoj(args, lingvoj):
+    por_generi = args.lingvoj or [args.lingvo]
+    for index, lingvo in enumerate(por_generi):
+        if args.lingvoj:
+            print('Generas HTML por ' + lingvo, flush=True)
+        enhavo = kompletigu_enhavon(lingvo, lingvoj)
+        html_generilo.generate_html(lingvo, enhavo, args, kopiu_statikan=(index == 0))
+
+
 def main():
     args = get_cmdline_arguments()
-    lingvoj = legi_yaml('agordoj/lingvoj.yml')
+    lingvoj = legi_yaml(AGORDOJ_DIR / 'lingvoj.yml')
     if args.eligformo == 'html':
         # if args.lingvo not in lingvoj.keys():
         #    sys.exit("'" + args.lingvo + "' ne estas havebla lingvokodo.")
-        enhavo = load(args.lingvo)
-        enhavo['lingvoj'] = lingvoj
-        enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
-        html_generilo.generate_html(args.lingvo, enhavo, args)
+        generu_html_por_lingvoj(args, lingvoj)
     if args.eligformo == 'md':
-        enhavo = load(args.lingvo, 3)
-        enhavo['lingvoj'] = lingvoj
-        enhavo['tekstodirekto'] = lingvoj[args.lingvo].get('tekstodirekto', 'ltr')
+        enhavo = kompletigu_enhavon(args.lingvo, lingvoj, 3)
         md_generilo.kreu_md(enhavo, printendaj={'partoj': args.printendaj_partoj,
                                                 'lecionoj': args.printendaj_lecionoj})
 

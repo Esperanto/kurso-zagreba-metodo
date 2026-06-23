@@ -6,7 +6,7 @@
 The course consists of **12 lessons**, each with
 
 - a text
-- a grammar clarification
+- a grammar explanation
 - and 3 exercises.
 
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+After completing the course, you can understand the most important things and form sentences to express yourself. Just try it!

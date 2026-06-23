@@ -1,19 +1,26 @@
-﻿- leterportisto: postman
+﻿- leterportisto:
+  - mail carrier
+  - postal worker
+  - postman
 - hejmlando: homeland
 - iomete: a little
 - bonege: 
+  - excellent
+  - very well
   - great
-  - greatly
 - vespermanĝo:
   - supper
   - dinner
 - prizorgi: to take care of
 - espereble: hopefully
-- altkvalita: high quality
+- altkvalita: high-quality
 - pripensi: 
   - to think over
   - to think about
-- depreni: to take away
+- depreni:
+  - to take away
+  - to take off
+  - to remove
 - loĝejo: 
   - flat
   - apartment
@@ -21,15 +28,19 @@
 - dufoje: 
   - twice
   - two times
-- multfoje: multiple times
+- multfoje:
+  - many times
+  - multiple times
 - nomiĝi: 
   - to be called
   - to be named
 - ruĝiĝi: 
-  - blush
-  - redden
+  - to blush
+  - to redden
 - libreto: 
   - little book
   - small book
   - booklet
-- varmega: hot
+- varmega:
+  - very hot
+  - boiling hot

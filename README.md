@@ -20,9 +20,11 @@ La rektaj Python-dependecoj estas listigitaj en `requirements.in`. `requirements
 
     make lock
 
-Por kontroli la plej oftan generadon sen ŝanĝi dosierojn en la deponejo:
+Por kontroli la anglan Markdown-, HTML- kaj Anki-eligon:
 
     make check
+
+Tio generas `eligo/md/en.md` kaj `eligo/retejo/en`, poste kontrolas kernajn dosierojn kaj la APKG-eksporton.
 
 ### HTML
 

@@ -18,12 +18,12 @@ La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperan
 - `fonto/html/` kaj `fonto/md/`: ŝablonoj por HTML kaj Markdown.
 - `fonto/css/`, `fonto/js/`, `fonto/bildoj/` kaj `fonto/sonoj/`: statikaj fontdosieroj kopiataj al la reteja eligo.
 - `eligo/retejo/`: generita HTML-retejo. Ne versikontrolu ĝin.
-- `vendor/`: vendorigitaj eksteraj bibliotekoj, inkluzive de `bootstrap`, `jquery` kaj `typeahead`. Evitu tuŝi ilin krom se la tasko specife temas pri tiu subarbo.
+- `package.json` kaj `package-lock.json`: ŝlositaj npm-dependecoj por la publikaj `/vendor/...` frontend-bibliotekoj.
 - `iloj/`: prizorgaj helpiloj.
 
 ## Agordo Kaj Komandoj
 
-Kreu virtualan medion kaj instalu Python-dependecojn per:
+Kreu virtualan medion kaj instalu Python- kaj npm-dependecojn per:
 
 ```sh
 make install
@@ -42,9 +42,11 @@ make serve
 make clean
 ```
 
-`make check` instalas nenion. Ĝi ĉiam kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn kaj la Anki-APKG-on. Se `venv/bin/python` aŭ dependecoj mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
+`make check` instalas nenion. Ĝi ĉiam kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
 
 Python-dependecoj estas mastrumataj per pip kaj pip-tools. Redaktu rektajn dependecojn en `requirements.in`, poste rulu `make lock` por regeneri la ŝlositan `requirements.txt`. Por intence ĝisdatigi ĉiujn ŝlositajn versiojn, rulu `make lock-upgrade`.
+
+Frontend-vendoroj estas mastrumataj per npm kaj bezonas Node.js kun npm; la GitHub Actions-laborfluo uzas Node 24. Ne reenkonduku fontan `vendor/` dosierujon; ŝanĝu `package.json`, regeneru `package-lock.json`, kaj lasu la generatoron kopii el `node_modules` al `eligo/retejo/vendor`.
 
 Generu HTML por lingvo, ekzemple la angla:
 

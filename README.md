@@ -12,13 +12,16 @@ Tiel oni facile kaj rapide povos krei eldonaĵojn de la kurso en HTML, EPUB, PDF
 
 ## Kiel krei eligon
 
-Unue kreu virtualan medion kaj instalu la bezonatajn Python-dependecojn:
+Unue kreu virtualan medion kaj instalu la bezonatajn Python- kaj npm-dependecojn:
 
     make install
 
 La rektaj Python-dependecoj estas listigitaj en `requirements.in`. `requirements.txt` estas la ŝlosita instal-dosiero, generita per:
 
     make lock
+
+La frontend-bibliotekoj, kiuj aperas publike sub `/vendor/...`, estas ŝlositaj en `package.json` kaj `package-lock.json`. Ili estas instalataj per `npm ci --ignore-scripts` dum `make install` kaj kopiataj al `eligo/retejo/vendor` dum HTML-generado.
+Por tio necesas Node.js kun npm; la GitHub Actions-laborfluo uzas Node 24.
 
 Por kontroli la anglan Markdown-, HTML- kaj Anki-eligon:
 

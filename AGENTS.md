@@ -46,7 +46,7 @@ make clean
 
 Python-dependecoj estas mastrumataj per pip kaj pip-tools. Redaktu rektajn dependecojn en `requirements.in`, poste rulu `make lock` por regeneri la ŝlositan `requirements.txt`. Por intence ĝisdatigi ĉiujn ŝlositajn versiojn, rulu `make lock-upgrade`.
 
-Frontend-vendoroj estas mastrumataj per npm kaj bezonas Node.js kun npm; la GitHub Actions-laborfluo uzas Node 24. Ne reenkonduku fontan `vendor/` dosierujon; ŝanĝu `package.json`, regeneru `package-lock.json`, kaj lasu la generatoron kopii el `node_modules` al `eligo/retejo/vendor`.
+Frontend-vendoroj estas mastrumataj per npm kaj bezonas Node.js kun npm; la pinglita Node-versio troviĝas en `.nvmrc`, kaj la GitHub Actions-laborfluo uzas tiun saman version. Ne reenkonduku fontan `vendor/` dosierujon; ŝanĝu `package.json`, regeneru `package-lock.json`, kaj lasu la generatoron kopii el `node_modules` al `eligo/retejo/vendor`.
 
 Generu HTML por lingvo, ekzemple la angla:
 

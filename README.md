@@ -21,7 +21,7 @@ La rektaj Python-dependecoj estas listigitaj en `requirements.in`. `requirements
     make lock
 
 La frontend-bibliotekoj, kiuj aperas publike sub `/vendor/...`, estas ŝlositaj en `package.json` kaj `package-lock.json`. Ili estas instalataj per `npm ci --ignore-scripts` dum `make install` kaj kopiataj al `eligo/retejo/vendor` dum HTML-generado.
-Por tio necesas Node.js kun npm; la GitHub Actions-laborfluo uzas Node 24.
+Por tio necesas Node.js kun npm; la pinglita Node-versio troviĝas en `.nvmrc` kaj la GitHub Actions-laborfluo uzas tiun saman version.
 
 Por kontroli la anglan Markdown-, HTML- kaj Anki-eligon:
 

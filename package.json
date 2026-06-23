@@ -1,6 +1,9 @@
 {
   "name": "kurso-zagreba-metodo",
   "private": true,
+  "engines": {
+    "node": "24.14.1"
+  },
   "dependencies": {
     "bootstrap": "3.3.6",
     "jquery": "1.11.3",

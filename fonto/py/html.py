@@ -164,21 +164,14 @@ def copy_static_files(versio):
         (FONTO_DIR / 'sonoj' / 'ogg', OUTPUT_DIR / 'assets' / 'ogg'),
         (FONTO_DIR / 'bildoj', OUTPUT_DIR / 'assets' / 'img'),
     ]
-    bootstrap_fonts = [
-        'glyphicons-halflings-regular.eot',
-        'glyphicons-halflings-regular.svg',
-        'glyphicons-halflings-regular.ttf',
-        'glyphicons-halflings-regular.woff',
-        'glyphicons-halflings-regular.woff2',
-    ]
     vendor_files = [
         (
             NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'css' / 'bootstrap.min.css',
             OUTPUT_DIR / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css',
         ),
         (
-            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'js' / 'bootstrap.min.js',
-            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.min.js',
+            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'js' / 'bootstrap.bundle.min.js',
+            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js',
         ),
         (
             NODE_MODULES_DIR / 'jquery' / 'dist' / 'jquery.min.js',
@@ -193,13 +186,6 @@ def copy_static_files(versio):
             OUTPUT_DIR / 'vendor' / 'typeahead' / 'typeahead.bundle.min.js',
         ),
     ]
-    vendor_files.extend(
-        (
-            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'fonts' / fonto,
-            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'fonts' / fonto,
-        )
-        for fonto in bootstrap_fonts
-    )
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     write_file(str(OUTPUT_DIR / 'index.html'), render_cxefpagxo(versio))

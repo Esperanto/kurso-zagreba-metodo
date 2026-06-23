@@ -1,17 +1,22 @@
 $(document).ready(function(){
-  var popoverWhiteList = $.extend(
+  var popoverAllowList = $.extend(
+    true,
     {},
-    $.fn.tooltip.Constructor.DEFAULTS.whiteList,
+    bootstrap.Tooltip.Default.allowList,
     { table: [], tbody: [], tr: [], td: [] }
   );
 
-  $('[data-toggle="tooltip"]').tooltip(); 
-  $('[data-toggle="popover"]').popover({
-    placement: 'bottom',
-    trigger: 'hover',
-    html: true,
-    whiteList: popoverWhiteList
-  }); 
+  $('[data-bs-toggle="tooltip"]').each(function() {
+    new bootstrap.Tooltip(this);
+  });
+  $('[data-bs-toggle="popover"]').each(function() {
+    new bootstrap.Popover(this, {
+      placement: 'bottom',
+      trigger: 'hover',
+      html: true,
+      allowList: popoverAllowList
+    });
+  });
   $('.container table').addClass('table'); 
 });
 
@@ -59,7 +64,7 @@ function selectNextTabbableOrFocusable(selector){
 $('input[data-solvo]').on('input', function() {
   var id = $(this).attr('id');
   var form_group = $('#form-group-' + id);
-  var glyphicon = $('#glyphicon-' + id);
+  var feedback = $('#feedback-' + id);
 
   // Get input and normalize.
   var input = $(this).val();
@@ -77,7 +82,7 @@ $('input[data-solvo]').on('input', function() {
 
   if (correct) {
     form_group.removeClass('has-error').addClass('has-success');
-    glyphicon.removeClass('glyphicon-remove').addClass('glyphicon-ok');
+    feedback.removeClass('feedback-icon-remove').addClass('feedback-icon-ok').text('✓');
 		// Set focus on the current
 		// to not confuse it during the following step. 
 		$(this).focus();
@@ -87,7 +92,7 @@ $('input[data-solvo]').on('input', function() {
 		console.log(input);
 		console.log($(this).attr('data-solvo'));
     form_group.removeClass('has-success').addClass('has-error');
-    glyphicon.removeClass('glyphicon-ok').addClass('glyphicon-remove');
+    feedback.removeClass('feedback-icon-ok').addClass('feedback-icon-remove').text('✕');
   }
 });
 

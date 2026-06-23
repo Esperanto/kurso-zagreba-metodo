@@ -13,24 +13,44 @@ body {
 
 /* popover */
 .popover-title,
-.popover-content {
+.popover-content,
+.popover-header,
+.popover-body {
 	font-size: 18px;
 }
-.popover-content table {
+.popover-content table,
+.popover-body table {
     border-spacing: 0.5em;
     border-collapse: separate;    
 }
-.popover-content table tr {
+.popover-content table tr,
+.popover-body table tr {
   vertical-align: top;
   text-align: left;
 }
-.popover-content table td:first-child {
+.popover-content table td:first-child,
+.popover-body table td:first-child {
   text-align: right;
 }
 
 /* Ekzercoj */
 .has-error input {
   background: #f0f0f0;
+}
+.has-success input {
+  background: #eff8ef;
+}
+.feedback-icon {
+  display: inline-block;
+  font-weight: bold;
+  min-width: 1.5em;
+  text-align: center;
+}
+.feedback-icon-ok {
+  color: #198754;
+}
+.feedback-icon-remove {
+  color: #dc3545;
 }
 
 .fixed {
@@ -52,6 +72,12 @@ body {
 	display: inline-block;
 	padding: 0.2em;
 }
+.jumbotron {
+  background: #f8f9fa;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+  padding: 2rem;
+}
 
 #eksporto {
 	float: right;
@@ -68,6 +94,16 @@ img.leciona {
 ul.pager {
   clear: both;
 	padding-top: 1em;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding-left: 0;
+}
+.well {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 0.375rem;
+  padding: 0.75rem;
 }
 .ad {
   text-align: center;

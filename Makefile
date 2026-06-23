@@ -55,6 +55,7 @@ lock-upgrade: pip-tools
 check:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@test -f "$(NODE_MODULES)/bootstrap/dist/css/bootstrap.min.css" \
+		&& test -f "$(NODE_MODULES)/bootstrap/dist/js/bootstrap.bundle.min.js" \
 		&& test -f "$(NODE_MODULES)/jquery/dist/jquery.min.js" \
 		&& test -f "$(NODE_MODULES)/jquery-ui-dist/jquery-ui.min.js" \
 		&& test -f "$(NODE_MODULES)/typeahead.js/dist/typeahead.bundle.min.js" || { printf '%s\n' 'Mankas npm-dependecoj en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }

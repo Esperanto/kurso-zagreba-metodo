@@ -9,9 +9,8 @@ VENV ?= venv
 SYSTEM_PYTHON ?= python3
 PYTHON ?= $(VENV)/bin/python
 PIP_TOOLS ?= pip-tools==7.5.3
-TMPDIR ?= /tmp
-TMP_ROOT := $(patsubst %/,%,$(TMPDIR))
-MD_OUT ?= $(TMP_ROOT)/leo-$(LINGVO).md
+CHECK_LINGVO := en
+MD_OUT ?= eligo/md/$(CHECK_LINGVO).md
 
 help:
 	@printf '%s\n' \
@@ -20,7 +19,7 @@ help:
 		'  make install         Kreas venv-on kaj instalas requirements' \
 		'  make lock            Rekreas requirements.txt el requirements.in' \
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
-		'  make check           Rulas sekuran provan kontrolon, defaŭlte LINGVO=en' \
+		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por ĉiuj produktadaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
@@ -46,9 +45,11 @@ lock-upgrade: pip-tools
 
 check:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
-	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune'
-	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo md >"$(MD_OUT)"
-	@printf 'Sukcesis: generis Markdown por %s al %s\n' "$(LINGVO)" "$(MD_OUT)"
+	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune, genanki'
+	@mkdir -p "$(dir $(MD_OUT))"
+	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"
+	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"
+	@"$(PYTHON)" -m fonto.py.kontrolu_eligon --lingvo "$(CHECK_LINGVO)" --md-out "$(MD_OUT)" --output-dir "$(OUTPUT_DIR)"
 
 html:
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo html

@@ -14,7 +14,7 @@ test('vortaro montras tradukon dum tajpado', async ({ page }) => {
   await expect(suggestion).toBeVisible();
 });
 
-test('ŝvebi super teksta vorto montras tradukan ŝprucfenestron', async ({ page }) => {
+test('ŝvebi super tekstaj vortoj montras tradukajn ŝprucfenestrojn', async ({ page }) => {
   await page.goto('/en/01/');
 
   await page.getByRole('heading', { name: /1\.\s*Amiko Marko/ })
@@ -28,4 +28,14 @@ test('ŝvebi super teksta vorto montras tradukan ŝprucfenestron', async ({ page
   });
 
   await expect(popover).toBeVisible();
+
+  await page.getByRole('link', { name: 'estas' }).first().hover();
+
+  const verbPopover = page.locator('.popover').filter({
+    hasText: 'to be',
+  }).filter({
+    hasText: 'Verb in present tense',
+  });
+
+  await expect(verbPopover).toBeVisible();
 });

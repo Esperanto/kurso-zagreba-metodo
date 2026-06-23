@@ -4,11 +4,90 @@
   margin-left: auto;
   max-width: 960px;
   margin-bottom: 5em;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 body {
 	font-size: 18px;
 	line-height: 30px;
+}
+h1 {
+  font-size: 36px;
+  line-height: 1.1;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+h2 {
+  font-size: 30px;
+  line-height: 1.1;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+/* Bootstrap 5 is used for security; these rules preserve the former site layout. */
+.navbar {
+  margin-bottom: 20px;
+  min-height: 52px;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.navbar > .container-fluid {
+  min-height: 52px;
+  padding-left: 0;
+  padding-right: 0;
+}
+.navbar-brand {
+  align-items: center;
+  display: flex;
+  height: 52px;
+  padding: 15px;
+}
+.navbar-nav .nav-link {
+  color: #9d9d9d;
+  line-height: 20px;
+  padding: 15px;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #fff;
+}
+.navbar-form-bs3 {
+  margin: 8px 0 8px 22px;
+}
+.navbar-form-bs3 + .navbar-form-bs3 {
+  margin-left: 30px;
+}
+.navbar-form-bs3 .form-control,
+.navbar-form-bs3 .form-select {
+  height: 34px;
+  line-height: 1.42857143;
+  padding: 6px 12px;
+}
+.navbar-form-bs3 .form-control {
+  width: 177px;
+}
+.navbar-form-bs3 .form-select {
+  width: 193px;
+}
+.row > * {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.btn-outline-secondary {
+  background-color: #fff;
+  border-color: #ccc;
+  border-radius: 4px;
+  color: #333;
+  font-size: 14px;
+  line-height: 1.42857143;
+  padding: 6px 12px;
+}
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus {
+  background-color: #e6e6e6;
+  border-color: #adadad;
+  color: #333;
 }
 
 /* popover */
@@ -73,10 +152,15 @@ body {
 	padding: 0.2em;
 }
 .jumbotron {
-  background: #f8f9fa;
-  border-radius: 0.5rem;
-  margin-top: 2rem;
-  padding: 2rem;
+  background: #eee;
+  border-radius: 6px;
+  margin-bottom: 30px;
+  padding: 48px 60px;
+}
+.jumbotron h1 {
+  font-size: 63px;
+  line-height: 1.1;
+  margin-top: 20px;
 }
 
 #eksporto {
@@ -94,10 +178,34 @@ img.leciona {
 ul.pager {
   clear: both;
 	padding-top: 1em;
-  display: flex;
-  justify-content: space-between;
   list-style: none;
+  margin: 20px 0;
   padding-left: 0;
+  text-align: center;
+}
+ul.pager:before,
+ul.pager:after {
+  content: " ";
+  display: table;
+}
+ul.pager:after {
+  clear: both;
+}
+ul.pager li {
+  display: inline;
+}
+ul.pager li > a {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  display: inline-block;
+  padding: 5px 14px;
+}
+ul.pager .next > a {
+  float: right;
+}
+ul.pager .previous > a {
+  float: left;
 }
 .well {
   background: #f8f9fa;
@@ -105,10 +213,30 @@ ul.pager {
   border-radius: 0.375rem;
   padding: 0.75rem;
 }
+.well-sm {
+  border-radius: 3px;
+  padding: 9px;
+}
 .ad {
   text-align: center;
 	font-size: smaller;
 	border-radius: 0.5em;
 	padding: 0.5em;
-	background: #eee;
+  background: #eee;
+}
+
+@media (max-width: 767px) {
+  .navbar-form-bs3 {
+    margin: 8px 15px;
+  }
+  .navbar-form-bs3 .form-control,
+  .navbar-form-bs3 .form-select {
+    width: 100%;
+  }
+  .jumbotron {
+    padding: 30px 15px;
+  }
+  .jumbotron h1 {
+    font-size: 36px;
+  }
 }

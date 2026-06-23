@@ -27,7 +27,7 @@
         </button>
 
         <div class="collapse navbar-collapse" id="site-navigation">
-          <ul class="navbar-nav me-auto">
+          <ul class="navbar-nav">
             <li class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false">
                 {{enhavo.fasado['Lecionoj']}}
@@ -62,10 +62,10 @@
             </li>
           </ul>
 
-          <form class="d-flex ms-lg-3 my-2 my-lg-0">
+          <form class="navbar-form-bs3 d-flex">
             {% include 'vortaro.html' %}
           </form>
-          <form class="d-flex ms-lg-3 my-2 my-lg-0">
+          <form class="navbar-form-bs3 d-flex">
             <select id="lingvoelektilo" class="form-select">
               {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'preta' %}
                 <option value="{{kodo}}"

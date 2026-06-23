@@ -81,6 +81,10 @@ h1 {
   color: var(--eo-green-dark) !important;
 }
 
+.site-brand span {
+  white-space: nowrap;
+}
+
 #logo {
   height: 34px;
   margin: 0;

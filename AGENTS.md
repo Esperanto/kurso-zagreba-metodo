@@ -54,7 +54,7 @@ make html LINGVO=en
 
 Tio skribas al `eligo/retejo/en`.
 
-`make html` kaj `make html-all` kreas ankaŭ PWA-dosierojn (`manifest.webmanifest`, `pwa/registru.js`, `pwa/images/` kaj `sw.js`). La service worker estas generita el la efektivaj dosieroj en `eligo/retejo`; ne redaktu `eligo/retejo/sw.js` permane. Post `make html-all`, rulu `make check-pwa` por certigi, ke ĉiuj produktadaj lingvoj kaj ĉiuj generitaj lokaj dosieroj estas en la offline-precache-listo.
+`make html` kaj `make html-all` kreas ankaŭ PWA-dosierojn (`manifest.webmanifest`, `pwa/registru.js`, `pwa/images/` kaj `sw.js`). Tiuj dosieroj estas provizore ne ligitaj el la HTML, do la retejo nuntempe ne proponas instaleblan PWA-on al vizitantoj. Ne redaktu `eligo/retejo/sw.js` permane. Post `make html-all`, rulu `make check-pwa` por kontroli la nepublike proponatan PWA-eligon.
 
 Por antaŭrigardi jam generitan HTML-on loke, rulu:
 

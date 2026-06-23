@@ -62,14 +62,6 @@ def check_manifest(output_dir, precache_urls):
         require(src in precache_urls, 'ikono mankas en precache: ' + src)
 
 
-def check_html_links(output_dir):
-    for path in [output_dir / 'index.html', output_dir / 'en' / 'index.html']:
-        require_nonempty_file(path)
-        text = path.read_text(encoding='utf-8')
-        require('/manifest.webmanifest' in text, 'mankas manifest-ligilo en ' + str(path))
-        require('/pwa/registru.js' in text, 'mankas PWA-registrilo en ' + str(path))
-
-
 def check_precache_completeness(output_dir, precache_urls):
     expected_urls = set(pwa.collect_precache_urls(output_dir))
     missing = sorted(expected_urls - precache_urls)
@@ -111,7 +103,6 @@ def main():
     require('/pwa/registru.js' in precache_urls, 'registrilo mankas en precache')
 
     check_manifest(output_dir, precache_urls)
-    check_html_links(output_dir)
     check_languages(output_dir, args.lingvoj, precache_urls)
     check_precache_completeness(output_dir, precache_urls)
 

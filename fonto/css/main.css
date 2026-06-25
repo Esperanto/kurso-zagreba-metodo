@@ -66,6 +66,10 @@ h3 {
 .popover-body {
 	font-size: 18px;
 }
+.popover-header {
+  line-height: 1.42857143;
+  margin: 0;
+}
 .popover-content table,
 .popover-body table {
     border-spacing: 0.5em;

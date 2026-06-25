@@ -39,3 +39,17 @@ test('ŝvebi super tekstaj vortoj montras tradukajn ŝprucfenestrojn', async ({ 
 
   await expect(verbPopover).toBeVisible();
 });
+
+test('poŝtelefona aldona menuo restas malhela', async ({ page }) => {
+  await page.setViewportSize({ width: 580, height: 720 });
+  await page.goto('/en/01/');
+
+  await page.getByRole('button', { name: 'Toggle navigation' }).click();
+  await page.getByRole('button', { name: 'Appendix' }).click();
+
+  const menu = page.locator('.dropdown-menu.show').filter({
+    hasText: 'Correlatives',
+  });
+  await expect(menu).toBeVisible();
+  await expect(menu).toHaveCSS('background-color', 'rgb(34, 34, 34)');
+});

@@ -48,6 +48,39 @@ h3 {
   padding-top: 0;
 }
 
+@media (max-width: 991.98px) {
+  .navbar-collapse {
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+  }
+  .navbar .nav-link {
+    padding: 10px 15px;
+  }
+  .navbar .nav-link.show {
+    background-color: #080808;
+    color: #fff;
+  }
+  .navbar .dropdown-menu {
+    background-color: #222;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    margin: 0;
+    padding: 5px 0 15px;
+    position: static;
+    width: 100%;
+  }
+  .navbar .dropdown-item {
+    color: rgba(255, 255, 255, 0.6);
+    padding: 6px 30px;
+    white-space: normal;
+  }
+  .navbar .dropdown-item:hover,
+  .navbar .dropdown-item:focus {
+    background-color: #222;
+    color: #fff;
+  }
+}
+
 .card-header {
   padding: 10px 15px;
 }

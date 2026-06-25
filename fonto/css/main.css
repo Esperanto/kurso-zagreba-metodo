@@ -1,4 +1,9 @@
 /* set a max-width for horizontal fluid layout and make it centered */
+:root {
+  --bs-link-color: #337ab7;
+  --bs-link-hover-color: #23527c;
+}
+
 .container {
   margin-right: auto;
   margin-left: auto;
@@ -55,6 +60,9 @@ a[data-bs-toggle="popover"]:focus {
 }
 
 /* Ekzercoj */
+ol.tasko > li {
+  margin-bottom: 0.5em;
+}
 .form-group {
   margin-bottom: 15px;
 }
@@ -78,7 +86,7 @@ a[data-bs-toggle="popover"]:focus {
 }
 .form-inline .form-group {
   display: inline-block;
-  margin-bottom: 0;
+  margin: 0 0.2em 0.2em;
   position: relative;
   vertical-align: middle;
 }

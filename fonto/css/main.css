@@ -13,81 +13,16 @@ body {
 	line-height: 30px;
 }
 h1 {
-  font-size: 36px;
-  line-height: 1.1;
   margin-bottom: 10px;
   margin-top: 20px;
 }
 h2 {
-  font-size: 30px;
-  line-height: 1.1;
   margin-bottom: 10px;
   margin-top: 20px;
 }
 
-/* Bootstrap 5 is used for security; these rules preserve the former site layout. */
 .navbar {
   margin-bottom: 20px;
-  min-height: 52px;
-  padding-bottom: 0;
-  padding-top: 0;
-}
-.navbar > .container-fluid {
-  min-height: 52px;
-  padding-left: 0;
-  padding-right: 0;
-}
-.navbar-brand {
-  align-items: center;
-  display: flex;
-  height: 52px;
-  padding: 15px;
-}
-.navbar-nav .nav-link {
-  color: #9d9d9d;
-  line-height: 20px;
-  padding: 15px;
-}
-.navbar-nav .nav-link:hover,
-.navbar-nav .nav-link:focus {
-  color: #fff;
-}
-.navbar-form-bs3 {
-  margin: 8px 0 8px 22px;
-}
-.navbar-form-bs3 + .navbar-form-bs3 {
-  margin-left: 30px;
-}
-.navbar-form-bs3 .form-control,
-.navbar-form-bs3 .form-select {
-  height: 34px;
-  line-height: 1.42857143;
-  padding: 6px 12px;
-}
-.navbar-form-bs3 .form-control {
-  width: 177px;
-}
-.navbar-form-bs3 .form-select {
-  width: 193px;
-}
-.row > * {
-  padding-left: 15px;
-  padding-right: 15px;
-}
-.btn-outline-secondary {
-  background-color: #fff;
-  border-color: #ccc;
-  border-radius: 4px;
-  color: #333;
-  font-size: 14px;
-  line-height: 1.42857143;
-  padding: 6px 12px;
-}
-.btn-outline-secondary:hover,
-.btn-outline-secondary:focus {
-  background-color: #e6e6e6;
-  border-color: #adadad;
-  color: #333;
 }
 
 /* popover */
@@ -110,6 +45,13 @@ h2 {
 .popover-content table td:first-child,
 .popover-body table td:first-child {
   text-align: right;
+}
+a[data-bs-toggle="popover"] {
+  text-decoration: none;
+}
+a[data-bs-toggle="popover"]:hover,
+a[data-bs-toggle="popover"]:focus {
+  text-decoration: none;
 }
 
 /* Ekzercoj */
@@ -226,13 +168,6 @@ ul.pager .previous > a {
 }
 
 @media (max-width: 767px) {
-  .navbar-form-bs3 {
-    margin: 8px 15px;
-  }
-  .navbar-form-bs3 .form-control,
-  .navbar-form-bs3 .form-select {
-    width: 100%;
-  }
   .jumbotron {
     padding: 30px 15px;
   }

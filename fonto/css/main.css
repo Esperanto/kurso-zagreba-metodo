@@ -17,6 +17,13 @@ body {
 	font-size: 18px;
 	line-height: 30px;
 }
+a {
+  color: #337ab7;
+}
+a:hover,
+a:focus {
+  color: #23527c;
+}
 h1 {
   margin-bottom: 10px;
   margin-top: 20px;
@@ -52,16 +59,18 @@ h2 {
   text-align: right;
 }
 a[data-bs-toggle="popover"] {
+  color: inherit;
   text-decoration: none;
 }
 a[data-bs-toggle="popover"]:hover,
 a[data-bs-toggle="popover"]:focus {
+  color: #23527c;
   text-decoration: none;
 }
 
 /* Ekzercoj */
 ol.tasko > li {
-  margin-bottom: 0.5em;
+  margin-bottom: 1.25em;
 }
 .form-group {
   margin-bottom: 15px;
@@ -70,6 +79,7 @@ ol.tasko > li {
   align-items: center;
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 18px;
 }
 .form-horizontal .control-label {
   font-weight: 700;
@@ -83,6 +93,10 @@ ol.tasko > li {
   right: 12px;
   top: 50%;
   transform: translateY(-50%);
+}
+.form-horizontal .solvu,
+.form-horizontal .forigu {
+  margin-top: 0.25em;
 }
 .form-inline .form-group {
   display: inline-block;

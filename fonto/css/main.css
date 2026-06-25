@@ -55,6 +55,43 @@ a[data-bs-toggle="popover"]:focus {
 }
 
 /* Ekzercoj */
+.form-group {
+  margin-bottom: 15px;
+}
+.form-horizontal .form-group {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.form-horizontal .control-label {
+  font-weight: 700;
+  padding-top: 7px;
+}
+.form-horizontal .col-sm-10 {
+  position: relative;
+}
+.form-horizontal .feedback-icon {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.form-inline .form-group {
+  display: inline-block;
+  margin-bottom: 0;
+  position: relative;
+  vertical-align: middle;
+}
+.form-inline .form-control {
+  display: inline-block;
+  width: auto;
+}
+.form-inline .feedback-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
 .has-error input {
   background: #f0f0f0;
 }
@@ -72,6 +109,12 @@ a[data-bs-toggle="popover"]:focus {
 }
 .feedback-icon-remove {
   color: #dc3545;
+}
+
+@media (min-width: 576px) {
+  .form-horizontal .control-label {
+    text-align: right;
+  }
 }
 
 .fixed {

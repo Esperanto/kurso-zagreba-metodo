@@ -169,10 +169,12 @@ ol.tasko {
   width: auto;
 }
 .form-horizontal .col-sm-10 {
+  justify-self: start;
+  max-width: none;
   min-width: 0;
   padding-left: 0;
   position: relative;
-  width: auto;
+  width: max-content;
 }
 .form-horizontal .form-control {
   display: inline-block;

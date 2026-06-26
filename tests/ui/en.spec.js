@@ -152,3 +152,25 @@ test('ekzercaj tekstkampoj sekvas la size-valoron', async ({ page }) => {
     await expect(sizeOffsets.every((offset) => offset === 2)).toBe(true);
   }
 });
+
+test('ekzercaj respondaj ikonoj restas en la kampoj', async ({ page }) => {
+  for (const path of ['/en/06/ekzerco1/', '/en/06/ekzerco3/']) {
+    await page.goto(path);
+
+    const iconPositions = await page.locator('.form-horizontal .col-sm-10')
+      .evaluateAll((cells) => cells.map((cell) => {
+        const input = cell.querySelector('input[type="text"]');
+        const icon = cell.querySelector('.feedback-icon');
+        const inputBox = input.getBoundingClientRect();
+        const iconBox = icon.getBoundingClientRect();
+
+        return {
+          insideInput: iconBox.left >= inputBox.left && iconBox.right <= inputBox.right,
+          rightGap: Math.round(inputBox.right - iconBox.right),
+        };
+      }));
+
+    await expect(iconPositions.every(({ insideInput }) => insideInput)).toBe(true);
+    await expect(iconPositions.every(({ rightGap }) => rightGap >= 5 && rightGap <= 25)).toBe(true);
+  }
+});

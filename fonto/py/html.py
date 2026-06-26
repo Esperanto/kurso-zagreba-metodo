@@ -3,7 +3,6 @@
 
 import os
 from pathlib import Path
-import re
 import shutil
 import subprocess
 
@@ -19,14 +18,24 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
-GRAMATIKA_EMFAZO_PATTERN = re.compile(r'__([^_\n]+?)__')
 
 
-def render_markdown(text, md):
-    html = md(text)
-    # Mistune ne traktas __...__ kiel emfazon ene de vortoj, ekz. labor__i__.
-    html = GRAMATIKA_EMFAZO_PATTERN.sub(r'<strong>\1</strong>', html)
-    return Markup(html)
+def morfema_emfazo(md):
+    def parse_morfema_emfazo(inline, match, state):
+        child_state = state.copy()
+        child_state.src = match.group('morfemo')
+        state.append_token({
+            'type': 'strong',
+            'children': inline.render(child_state),
+        })
+        return match.end()
+
+    md.inline.register(
+        'morfema_emfazo',
+        r'__(?P<morfemo>[^_\n]+?)__',
+        parse_morfema_emfazo,
+        before='emphasis',
+    )
 
 
 def render_page(name, enhavo, vojprefikso, env):
@@ -216,14 +225,14 @@ def generate_pwa():
 
 def generate_html(lingvo, enhavo, args, kopiu_statikan=True):
     eligo = {}
-    md = mistune.create_markdown()
+    md = mistune.create_markdown(plugins=[morfema_emfazo])
     versio = get_version_hash()
     enhavo['versio'] = versio
     if kopiu_statikan:
         copy_static_files(versio)
 
     env = jinja2.Environment(auto_reload=False)
-    env.filters['markdown'] = lambda text: render_markdown(text, md)
+    env.filters['markdown'] = lambda text: Markup(md(text))
     env.trim_blocks = True
     env.lstrip_blocks = True
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))

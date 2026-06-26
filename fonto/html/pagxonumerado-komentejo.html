@@ -1,14 +1,20 @@
-<ul class="pager list-unstyled d-flex align-items-center ps-0">
+<ul class="pager list-unstyled align-items-center ps-0">
   {% if previous_path -%}
-		<li class="previous me-auto"><a class="btn btn-outline-secondary rounded-pill" href="{{previous_path}}">{{enhavo.fasado['malantaŭen']}}</a></li>
+		<li class="previous"><a class="btn btn-outline-secondary rounded-pill" href="{{previous_path}}">{{enhavo.fasado['malantaŭen']}}</a></li>
+  {%- else %}
+		<li></li>
   {%- endif %} 
 
 	{% if enhavo.lingvoj[enhavo.lingvo].komentejo %} 
-		<li class="mx-auto"><a class="btn btn-outline-secondary rounded-pill" href="javascript:show_disqus();">{{enhavo.fasado['Komentejo']}}</a></li>
+		<li class="comments"><a class="btn btn-outline-secondary rounded-pill" href="javascript:show_disqus();">{{enhavo.fasado['Komentejo']}}</a></li>
+  {%- else %}
+		<li></li>
   {%- endif %} 
 
   {% if next_path -%}
-		<li class="next ms-auto"><a class="btn btn-outline-secondary rounded-pill" href="{{next_path}}">{{enhavo.fasado['antaŭen']}}</a></li>
+		<li class="next"><a class="btn btn-outline-secondary rounded-pill" href="{{next_path}}">{{enhavo.fasado['antaŭen']}}</a></li>
+  {%- else %}
+		<li></li>
   {%- endif %} 
 </ul>
 

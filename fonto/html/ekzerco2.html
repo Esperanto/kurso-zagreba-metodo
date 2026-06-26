@@ -58,7 +58,7 @@
               {%- else %} {% endif -%} 
             {%- elif klavo == 'solvo' -%}
               <div id="form-group-{{id}}" class="form-group has-error has-feedback">
-                <input id="{{id}}" type="text" class="form-control" size="{{valoro|length}}" data-solvo="{{valoro}}" />
+                <input id="{{id}}" type="text" class="form-control" size="{{(valoro|length) + 2}}" data-solvo="{{valoro}}" />
                 <span id="feedback-{{id}}" class="feedback-icon feedback-icon-remove" aria-hidden="true">✕</span>
               </div>
             {%- endif -%} 

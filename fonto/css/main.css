@@ -67,6 +67,11 @@ h3 {
   font-size: 16px;
   line-height: 1.1;
 }
+.footer a,
+.footer a:hover,
+.footer a:focus {
+  text-decoration: none;
+}
 
 /* popover */
 .popover-header,
@@ -207,8 +212,14 @@ img.leciona {
 }
 ul.pager {
   clear: both;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  column-gap: 0.5rem;
   margin: 20px 0;
 	padding-top: 1em;
+}
+ul.pager .next {
+  text-align: right;
 }
 .ad {
   text-align: center;

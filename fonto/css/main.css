@@ -43,6 +43,15 @@ h3 {
   padding-top: 0;
 }
 
+.nav-tabs .nav-link {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.35rem;
+}
+.nav-tabs .tab-icon {
+  line-height: 1;
+}
+
 @media (max-width: 991.98px) {
   .navbar .dropdown-menu {
     --bs-dropdown-bg: #222;
@@ -54,6 +63,16 @@ h3 {
   }
   .navbar .dropdown-item {
     white-space: normal;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .nav-tabs .nav-link {
+    justify-content: center;
+    min-width: 2.75rem;
+  }
+  .nav-tabs .nav-link:not(.active) .tab-label {
+    display: none;
   }
 }
 

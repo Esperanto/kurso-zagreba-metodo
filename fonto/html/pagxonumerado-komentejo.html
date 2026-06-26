@@ -1,14 +1,14 @@
-<ul class="pager">
+<ul class="pager list-unstyled d-flex align-items-center ps-0">
   {% if previous_path -%}
-		<li class="previous"><a href="{{previous_path}}">{{enhavo.fasado['malantaŭen']}}</a></li>
+		<li class="previous me-auto"><a class="btn btn-outline-secondary rounded-pill" href="{{previous_path}}">{{enhavo.fasado['malantaŭen']}}</a></li>
   {%- endif %} 
 
 	{% if enhavo.lingvoj[enhavo.lingvo].komentejo %} 
-		<li><a href="javascript:show_disqus();">{{enhavo.fasado['Komentejo']}}</a></li>
+		<li class="mx-auto"><a class="btn btn-outline-secondary rounded-pill" href="javascript:show_disqus();">{{enhavo.fasado['Komentejo']}}</a></li>
   {%- endif %} 
 
   {% if next_path -%}
-		<li class="next"><a href="{{next_path}}">{{enhavo.fasado['antaŭen']}}</a></li>
+		<li class="next ms-auto"><a class="btn btn-outline-secondary rounded-pill" href="{{next_path}}">{{enhavo.fasado['antaŭen']}}</a></li>
   {%- endif %} 
 </ul>
 

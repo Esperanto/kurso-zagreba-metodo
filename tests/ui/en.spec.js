@@ -81,3 +81,25 @@ test('poŝtelefone nur aktiva leciona langeto montras etikedon', async ({ page }
   await expect(grammarTab).toContainText('🧩');
   await expect(grammarTab).toContainText('Grammar');
 });
+
+test('poŝtelefonaj lecionaj langetoj restas en unu vico', async ({ page }) => {
+  await page.setViewportSize({ width: 360, height: 720 });
+
+  const activeTabs = [
+    '/en/01/vortoj/',
+    '/en/01/ekzerco1/',
+    '/en/01/ekzerco2/',
+    '/en/01/ekzerco3/',
+  ];
+
+  for (const path of activeTabs) {
+    await page.goto(path);
+
+    const rowCount = await page.locator('.nav-tabs .nav-item').evaluateAll((items) => {
+      const tops = items.map((item) => Math.round(item.getBoundingClientRect().top));
+      return new Set(tops).size;
+    });
+
+    await expect(rowCount).toBe(1);
+  }
+});

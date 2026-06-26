@@ -67,9 +67,16 @@ h3 {
 }
 
 @media (max-width: 767.98px) {
+  .nav-tabs {
+    flex-wrap: nowrap;
+  }
   .nav-tabs .nav-link {
+    gap: 0.2rem;
     justify-content: center;
-    min-width: 2.75rem;
+    min-width: 2rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    white-space: nowrap;
   }
   .nav-tabs .nav-link:not(.active) .tab-label {
     display: none;

@@ -4,6 +4,7 @@
   --bs-link-color-rgb: 51, 122, 183;
   --bs-link-hover-color: #23527c;
   --bs-link-hover-color-rgb: 35, 82, 124;
+  --exercise-field-bg: #f0f0f0;
 }
 
 .container {
@@ -47,6 +48,9 @@ h3 {
   align-items: center;
   display: inline-flex;
   gap: 0.35rem;
+}
+.nav-tabs .nav-link.active {
+  background-color: var(--exercise-field-bg);
 }
 .nav-tabs .tab-icon {
   align-items: center;
@@ -138,20 +142,30 @@ ol.tasko {
 .form-group {
   margin-bottom: 15px;
 }
+.form-horizontal {
+  --exercise-label-column: clamp(9rem, 38vw, 12rem);
+}
 .form-horizontal .form-group {
   align-items: center;
-  display: flex;
-  flex-wrap: wrap;
+  column-gap: 0.75rem;
+  display: grid;
+  grid-template-columns: var(--exercise-label-column) max-content;
   margin-bottom: 18px;
 }
 .form-horizontal .control-label {
   font-weight: 700;
-  padding-right: 0.75rem;
-  padding-top: 7px;
+  justify-self: end;
+  max-width: var(--exercise-label-column);
+  padding-right: 0;
+  padding-top: 0;
+  text-align: right;
+  width: auto;
 }
 .form-horizontal .col-sm-10 {
-  padding-left: 0.75rem;
+  min-width: 0;
+  padding-left: 0;
   position: relative;
+  width: auto;
 }
 .ekzerco3-tasko > li {
   margin-bottom: 1.25em;
@@ -187,7 +201,7 @@ ol.tasko {
   transform: translateY(-50%);
 }
 .has-error input {
-  background: #f0f0f0;
+  background: var(--exercise-field-bg);
 }
 .has-success input {
   background: #eff8ef;

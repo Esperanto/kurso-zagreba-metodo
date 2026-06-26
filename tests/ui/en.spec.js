@@ -82,6 +82,15 @@ test('poŝtelefone nur aktiva leciona langeto montras etikedon', async ({ page }
   await expect(grammarTab).toContainText('Grammar');
 });
 
+test('aktiva leciona langeto havas kampecan fonon', async ({ page }) => {
+  await page.goto('/en/01/ekzerco3/');
+
+  await expect(page.getByRole('link', { name: 'Exercise 3' })).toHaveCSS(
+    'background-color',
+    'rgb(240, 240, 240)',
+  );
+});
+
 test('poŝtelefonaj lecionaj langetoj restas en unu vico kaj alteco', async ({ page }) => {
   await page.setViewportSize({ width: 360, height: 720 });
 
@@ -111,5 +120,21 @@ test('poŝtelefonaj lecionaj langetoj restas en unu vico kaj alteco', async ({ p
     });
 
     await expect(centerSpread).toBeLessThanOrEqual(1);
+  }
+});
+
+test('ekzercaj dupunktoj vicigxas dekstre', async ({ page }) => {
+  await page.setViewportSize({ width: 580, height: 720 });
+
+  for (const path of ['/en/06/ekzerco1/', '/en/06/ekzerco3/']) {
+    await page.goto(path);
+
+    const labelEdgeSpread = await page.locator('.form-horizontal .form-group.has-feedback .control-label')
+      .evaluateAll((labels) => {
+        const rights = labels.map((label) => Math.round(label.getBoundingClientRect().right));
+        return Math.max(...rights) - Math.min(...rights);
+      });
+
+    await expect(labelEdgeSpread).toBeLessThanOrEqual(1);
   }
 });

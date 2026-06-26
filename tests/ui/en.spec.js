@@ -82,7 +82,7 @@ test('poŝtelefone nur aktiva leciona langeto montras etikedon', async ({ page }
   await expect(grammarTab).toContainText('Grammar');
 });
 
-test('poŝtelefonaj lecionaj langetoj restas en unu vico', async ({ page }) => {
+test('poŝtelefonaj lecionaj langetoj restas en unu vico kaj alteco', async ({ page }) => {
   await page.setViewportSize({ width: 360, height: 720 });
 
   const activeTabs = [
@@ -101,5 +101,15 @@ test('poŝtelefonaj lecionaj langetoj restas en unu vico', async ({ page }) => {
     });
 
     await expect(rowCount).toBe(1);
+
+    const centerSpread = await page.locator('.nav-tabs .nav-link').evaluateAll((links) => {
+      const centers = links.map((link) => {
+        const box = link.getBoundingClientRect();
+        return Math.round(box.top + box.height / 2);
+      });
+      return Math.max(...centers) - Math.min(...centers);
+    });
+
+    await expect(centerSpread).toBeLessThanOrEqual(1);
   }
 });

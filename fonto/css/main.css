@@ -49,6 +49,8 @@ h3 {
   gap: 0.35rem;
 }
 .nav-tabs .tab-icon {
+  align-items: center;
+  display: inline-flex;
   line-height: 1;
 }
 
@@ -70,9 +72,13 @@ h3 {
   .nav-tabs {
     flex-wrap: nowrap;
   }
+  .nav-tabs .nav-item {
+    display: flex;
+  }
   .nav-tabs .nav-link {
     gap: 0.2rem;
     justify-content: center;
+    min-height: 2.4rem;
     min-width: 2rem;
     padding-left: 0.4rem;
     padding-right: 0.4rem;

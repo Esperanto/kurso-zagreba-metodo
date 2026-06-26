@@ -1,7 +1,18 @@
+{% set tab_icons = {
+  'teksto': '📖',
+  'vortoj': '🗂️',
+  'gramatiko': '🧩',
+  'ekzerco1': '1️⃣',
+  'ekzerco2': '2️⃣',
+  'ekzerco3': '3️⃣'
+} %}
 <ul class="nav nav-tabs">
   {% for id, href, caption in tabs %}
     <li class="nav-item" role="presentation">
-    <a class="nav-link{% if id == active_tab %} active{% endif %}" href="{{tab_vojprefikso}}{{href}}">{{caption}}</a>
+    <a class="nav-link{% if id == active_tab %} active{% endif %}" href="{{tab_vojprefikso}}{{href}}" aria-label="{{caption}}">
+      <span class="tab-icon" aria-hidden="true">{{tab_icons[id]}}</span>
+      <span class="tab-label">{{caption}}</span>
+    </a>
     </li>
   {% endfor %}
 </ul>

@@ -10,7 +10,7 @@ from pathlib import Path
 
 GRAMATIKO_PATTERN = re.compile(r'<div dir="ltr">\s*<h3>Alphabet</h3>')
 PWA_SERVICE_WORKER_PATTERN = re.compile(r'const PRECACHE_URLS = \[')
-BOOTSTRAP_PATTERN = re.compile(r'Bootstrap v3\.4\.1')
+BOOTSTRAP_PATTERN = re.compile(r'Bootstrap\s+v5\.3\.8')
 JQUERY_PATTERN = re.compile(r'jQuery v3\.7\.1')
 JQUERY_UI_PATTERN = re.compile(r'jQuery UI - v1\.13\.3')
 TYPEAHEAD_PATTERN = re.compile(r'typeahead\.js 0\.11\.1')
@@ -94,6 +94,7 @@ def main():
         output_dir / 'assets' / 'css' / 'main.css',
         output_dir / 'assets' / 'js' / 'main.js',
         output_dir / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css',
+        output_dir / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js',
         output_dir / 'manifest.webmanifest',
         output_dir / 'manifest.json',
         output_dir / 'pwa' / 'registru.js',
@@ -104,6 +105,7 @@ def main():
 
     require_pattern(output_dir / 'sw.js', PWA_SERVICE_WORKER_PATTERN)
     require_pattern(output_dir / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css', BOOTSTRAP_PATTERN)
+    require_pattern(output_dir / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js', BOOTSTRAP_PATTERN)
     require_pattern(output_dir / 'vendor' / 'jquery' / 'jquery.min.js', JQUERY_PATTERN)
     require_pattern(output_dir / 'vendor' / 'jquery' / 'jquery-ui.min.js', JQUERY_UI_PATTERN)
     require_pattern(output_dir / 'vendor' / 'typeahead' / 'typeahead.bundle.min.js', TYPEAHEAD_PATTERN)

@@ -1,8 +1,13 @@
-<ul class="pager">
+<ul class="pager list-unstyled align-items-center ps-0">
   {% if previous_path -%}
-  <li class="previous"><a href="{{previous_path}}">{{enhavo.fasado['malantaŭen']}}</a></li>
+  <li class="previous"><a class="btn btn-outline-secondary rounded-pill" href="{{previous_path}}">{{enhavo.fasado['malantaŭen']}}</a></li>
+  {%- else %}
+  <li></li>
   {%- endif %} 
+  <li></li>
   {% if next_path -%}
-  <li class="next"><a href="{{next_path}}">{{enhavo.fasado['antaŭen']}}</a></li>
+  <li class="next"><a class="btn btn-outline-secondary rounded-pill" href="{{next_path}}">{{enhavo.fasado['antaŭen']}}</a></li>
+  {%- else %}
+  <li></li>
   {%- endif %} 
 </ul>

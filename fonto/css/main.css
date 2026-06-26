@@ -1,36 +1,182 @@
 /* set a max-width for horizontal fluid layout and make it centered */
+:root {
+  --bs-link-color: #337ab7;
+  --bs-link-color-rgb: 51, 122, 183;
+  --bs-link-hover-color: #23527c;
+  --bs-link-hover-color-rgb: 35, 82, 124;
+}
+
 .container {
   margin-right: auto;
   margin-left: auto;
   max-width: 960px;
   margin-bottom: 5em;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 body {
 	font-size: 18px;
 	line-height: 30px;
 }
+h1 {
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+h2 {
+  font-size: 30px;
+  line-height: 1.1;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+h3 {
+  font-size: 24px;
+  line-height: 1.1;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+  min-height: 52px;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+@media (max-width: 991.98px) {
+  .navbar .dropdown-menu {
+    --bs-dropdown-bg: #222;
+    --bs-dropdown-border-width: 0;
+    --bs-dropdown-link-color: rgba(255, 255, 255, 0.6);
+    --bs-dropdown-link-hover-bg: #222;
+    --bs-dropdown-link-hover-color: #fff;
+    --bs-dropdown-min-width: 100%;
+  }
+  .navbar .dropdown-item {
+    white-space: normal;
+  }
+}
+
+.card-header {
+  padding: 10px 15px;
+}
+.card-header a {
+  text-decoration: none;
+}
+.card-title {
+  font-size: 16px;
+  line-height: 1.1;
+}
+.footer a,
+.footer a:hover,
+.footer a:focus {
+  text-decoration: none;
+}
 
 /* popover */
-.popover-title,
-.popover-content {
+.popover-header,
+.popover-body {
 	font-size: 18px;
 }
-.popover-content table {
+.popover-header {
+  line-height: 1.42857143;
+  margin: 0;
+}
+.popover-body table {
     border-spacing: 0.5em;
     border-collapse: separate;    
 }
-.popover-content table tr {
+.popover-body table tr {
   vertical-align: top;
   text-align: left;
 }
-.popover-content table td:first-child {
+.popover-body table td:first-child {
   text-align: right;
+}
+a[data-bs-toggle="popover"],
+a[data-bs-toggle="popover"]:hover,
+a[data-bs-toggle="popover"]:focus {
+  text-decoration: none;
 }
 
 /* Ekzercoj */
+ol.tasko {
+  padding-left: 40px;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+.form-horizontal .form-group {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+.form-horizontal .control-label {
+  font-weight: 700;
+  padding-right: 0.75rem;
+  padding-top: 7px;
+}
+.form-horizontal .col-sm-10 {
+  padding-left: 0.75rem;
+  position: relative;
+}
+.ekzerco3-tasko > li {
+  margin-bottom: 1.25em;
+}
+.form-horizontal .feedback-icon {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.form-horizontal .solvu,
+.form-horizontal .forigu {
+  margin-top: 0.25em;
+}
+.form-inline .form-group {
+  display: inline-block;
+  margin: 0 0.2em 0.2em;
+  position: relative;
+  vertical-align: middle;
+}
+.form-inline .form-control {
+  display: inline-block;
+  font-size: 14px;
+  height: 34px;
+  line-height: 1.42857143;
+  padding: 6px 42.5px 6px 12px;
+  width: auto;
+}
+.form-inline .feedback-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
 .has-error input {
   background: #f0f0f0;
+}
+.has-success input {
+  background: #eff8ef;
+}
+.feedback-icon {
+  display: inline-block;
+  font-weight: bold;
+  min-width: 1.5em;
+  text-align: center;
+}
+.feedback-icon-ok {
+  color: #198754;
+}
+.feedback-icon-remove {
+  color: #dc3545;
+}
+
+@media (min-width: 576px) {
+  .form-horizontal .control-label {
+    text-align: right;
+  }
 }
 
 .fixed {
@@ -42,17 +188,16 @@ body {
 	padding: 0;
 }
 
-.jumbotron ul {
+.lingvolisto {
 	margin: 0;
 	margin-top: 2em;
   padding: 0;
   list-style-type: none;
 }
-.jumbotron li {
+.lingvolisto li {
 	display: inline-block;
 	padding: 0.2em;
 }
-
 #eksporto {
 	float: right;
   margin-top: 1em;
@@ -67,12 +212,19 @@ img.leciona {
 }
 ul.pager {
   clear: both;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  column-gap: 0.5rem;
+  margin: 20px 0;
 	padding-top: 1em;
+}
+ul.pager .next {
+  text-align: right;
 }
 .ad {
   text-align: center;
 	font-size: smaller;
 	border-radius: 0.5em;
 	padding: 0.5em;
-	background: #eee;
+  background: #eee;
 }

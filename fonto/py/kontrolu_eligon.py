@@ -9,6 +9,7 @@ from pathlib import Path
 
 
 GRAMATIKO_PATTERN = re.compile(r'<div dir="ltr">\s*<h3>Alphabet</h3>')
+GRAMATIKO_EMFAZO_PATTERN = re.compile(r'<em>labor<strong>i</strong></em>\s+–\s+to work')
 PWA_SERVICE_WORKER_PATTERN = re.compile(r'const PRECACHE_URLS = \[')
 BOOTSTRAP_PATTERN = re.compile(r'Bootstrap\s+v5\.3\.8')
 JQUERY_PATTERN = re.compile(r'jQuery v3\.7\.1')
@@ -109,7 +110,9 @@ def main():
     require_pattern(output_dir / 'vendor' / 'jquery' / 'jquery.min.js', JQUERY_PATTERN)
     require_pattern(output_dir / 'vendor' / 'jquery' / 'jquery-ui.min.js', JQUERY_UI_PATTERN)
     require_pattern(output_dir / 'vendor' / 'typeahead' / 'typeahead.bundle.min.js', TYPEAHEAD_PATTERN)
-    require_pattern(lingvo_dir / '01' / 'gramatiko' / 'index.html', GRAMATIKO_PATTERN)
+    gramatiko_path = lingvo_dir / '01' / 'gramatiko' / 'index.html'
+    require_pattern(gramatiko_path, GRAMATIKO_PATTERN)
+    require_pattern(gramatiko_path, GRAMATIKO_EMFAZO_PATTERN)
     require_apkg(lingvo_dir / 'eksporto' / (lingvo + '.apkg'))
 
     print('Sukcesis: kontrolis Markdown-, HTML- kaj Anki-eligon por ' + lingvo)

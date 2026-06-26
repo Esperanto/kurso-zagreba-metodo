@@ -3,6 +3,7 @@
 
 import os
 from pathlib import Path
+import re
 import shutil
 import subprocess
 
@@ -18,6 +19,14 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
+GRAMATIKA_EMFAZO_PATTERN = re.compile(r'__([^_\n]+?)__')
+
+
+def render_markdown(text, md):
+    html = md(text)
+    # Mistune ne traktas __...__ kiel emfazon ene de vortoj, ekz. labor__i__.
+    html = GRAMATIKA_EMFAZO_PATTERN.sub(r'<strong>\1</strong>', html)
+    return Markup(html)
 
 
 def render_page(name, enhavo, vojprefikso, env):
@@ -214,7 +223,7 @@ def generate_html(lingvo, enhavo, args, kopiu_statikan=True):
         copy_static_files(versio)
 
     env = jinja2.Environment(auto_reload=False)
-    env.filters['markdown'] = lambda text: Markup(md(text))
+    env.filters['markdown'] = lambda text: render_markdown(text, md)
     env.trim_blocks = True
     env.lstrip_blocks = True
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))

@@ -20,6 +20,24 @@ NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
 
 
+def morfema_emfazo(md):
+    def parse_morfema_emfazo(inline, match, state):
+        child_state = state.copy()
+        child_state.src = match.group('morfemo')
+        state.append_token({
+            'type': 'strong',
+            'children': inline.render(child_state),
+        })
+        return match.end()
+
+    md.inline.register(
+        'morfema_emfazo',
+        r'__(?P<morfemo>[^_\n]+?)__',
+        parse_morfema_emfazo,
+        before='emphasis',
+    )
+
+
 def render_page(name, enhavo, vojprefikso, env):
     rendered = env.get_template(name + '.html').render(
         enhavo=enhavo,
@@ -207,7 +225,7 @@ def generate_pwa():
 
 def generate_html(lingvo, enhavo, args, kopiu_statikan=True):
     eligo = {}
-    md = mistune.create_markdown()
+    md = mistune.create_markdown(plugins=[morfema_emfazo])
     versio = get_version_hash()
     enhavo['versio'] = versio
     if kopiu_statikan:

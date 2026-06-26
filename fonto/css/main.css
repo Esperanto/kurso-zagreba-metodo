@@ -143,28 +143,40 @@ ol.tasko {
   margin-bottom: 15px;
 }
 .form-horizontal {
-  --exercise-label-column: clamp(9rem, 38vw, 12rem);
-}
-.form-horizontal .form-group {
+  --exercise-label-column: clamp(9rem, 30vw, 10.5rem);
   align-items: center;
   column-gap: 0.75rem;
   display: grid;
   grid-template-columns: var(--exercise-label-column) max-content;
-  margin-bottom: 18px;
+  row-gap: 18px;
+}
+.form-horizontal .form-group {
+  margin-bottom: 0;
+}
+.form-horizontal .form-group.has-feedback {
+  display: contents;
+}
+.form-horizontal .form-group:not(.has-feedback) {
+  grid-column: 1 / -1;
 }
 .form-horizontal .control-label {
   font-weight: 700;
   justify-self: end;
-  max-width: var(--exercise-label-column);
   padding-right: 0;
   padding-top: 0;
   text-align: right;
+  white-space: nowrap;
   width: auto;
 }
 .form-horizontal .col-sm-10 {
   min-width: 0;
   padding-left: 0;
   position: relative;
+  width: auto;
+}
+.form-horizontal .form-control {
+  display: inline-block;
+  padding-right: 42.5px;
   width: auto;
 }
 .ekzerco3-tasko > li {

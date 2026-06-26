@@ -62,7 +62,7 @@
                 <label class="control-label col-sm-2" for="{{id}}" 
                   data-bs-toggle="popover" data-bs-placement="bottom" title="{{esperante}}">{{fontlingve|join}}:</label>
                 <div class="col-sm-10">
-                  <input id="{{id}}" class="form-control" type="text" size="{{esperante|length}}" data-solvo="{{esperante}}"/>
+                  <input id="{{id}}" class="form-control" type="text" size="{{(esperante|length) + 2}}" data-solvo="{{esperante}}"/>
                   <span id="feedback-{{id}}" class="feedback-icon feedback-icon-remove" aria-hidden="true">✕</span>
                 </div>
               </div>

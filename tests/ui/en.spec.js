@@ -138,3 +138,17 @@ test('ekzercaj dupunktoj vicigxas dekstre', async ({ page }) => {
     await expect(labelEdgeSpread).toBeLessThanOrEqual(1);
   }
 });
+
+test('ekzercaj tekstkampoj sekvas la size-valoron', async ({ page }) => {
+  for (const path of ['/en/06/ekzerco1/', '/en/06/ekzerco3/']) {
+    await page.goto(path);
+
+    const sizeOffsets = await page.locator('.form-horizontal input[type="text"]')
+      .evaluateAll((inputs) => inputs.map((input) => {
+        const firstAnswer = input.dataset.solvo.split(' | ')[0];
+        return Number(input.getAttribute('size')) - firstAnswer.length;
+      }));
+
+    await expect(sizeOffsets.every((offset) => offset === 2)).toBe(true);
+  }
+});

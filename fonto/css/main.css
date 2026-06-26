@@ -47,7 +47,10 @@ h3 {
 .nav-tabs .nav-link {
   align-items: center;
   display: inline-flex;
-  gap: 0.35rem;
+  gap: 0.3rem;
+  padding-left: 0.65rem;
+  padding-right: 0.65rem;
+  white-space: nowrap;
 }
 .nav-tabs .nav-link.active {
   background-color: var(--exercise-field-bg);

@@ -247,8 +247,11 @@ ol.tasko {
 }
 
 #logo {
+	height: 32px;
 	margin: 0;
+	object-fit: contain;
 	padding: 0;
+	width: 32px;
 }
 
 .lingvolisto {

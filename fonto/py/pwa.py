@@ -9,8 +9,10 @@ from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_PWA_DIR = ROOT_DIR / 'fonto' / 'pwa'
+FONTO_LOGO_DIR = ROOT_DIR / 'fonto' / 'bildoj' / 'logo'
 CACHE_PREFIX = 'esperanto12'
 IGNORITAJ_DOSIEROJ = {'CNAME', 'sw.js'}
+PWA_IMAGE_FILES = ('icon-192.png', 'icon-512.png')
 
 
 def copy_static_assets(output_dir):
@@ -26,7 +28,9 @@ def copy_static_assets(output_dir):
     shutil.copy2(FONTO_PWA_DIR / 'registru.js', pwa_dir / 'registru.js')
 
     shutil.rmtree(images_dir, ignore_errors=True)
-    shutil.copytree(FONTO_PWA_DIR / 'Images', images_dir)
+    images_dir.mkdir(parents=True, exist_ok=True)
+    for image_file in PWA_IMAGE_FILES:
+        shutil.copy2(FONTO_LOGO_DIR / image_file, images_dir / image_file)
 
 
 def collect_precache_urls(output_dir):

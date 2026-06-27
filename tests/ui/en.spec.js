@@ -1,5 +1,33 @@
 const { expect, test } = require('@playwright/test');
 
+test('ĉefpaĝo elektas retumilan lingvon', async ({ browser }) => {
+  const context = await browser.newContext({ locale: 'fr-FR' });
+  const page = await context.newPage();
+
+  await page.goto('/');
+
+  await expect(page.getByRole('heading', { name: "Apprendre l'espéranto" })).toBeVisible();
+  await expect(page.getByText('Le cours le plus rapide pour apprendre les bases')).toBeVisible();
+
+  const primaryLanguage = page.locator('#cxefpagxo-cxefa-lingvo');
+  await expect(primaryLanguage).toHaveText('Français');
+  await expect(primaryLanguage).toHaveAttribute('href', 'fr/');
+
+  const languageButton = page.locator('#cxefpagxo-lingvoj-butono');
+  await expect(languageButton).toContainText('📂');
+  await expect(languageButton).toHaveClass(/btn-light/);
+  await page.locator('#cxefpagxo-lingvoj-butono').click();
+
+  const languageMenu = page.locator('#cxefpagxo-lingvoj');
+  await expect(languageMenu.getByRole('link', { name: 'English' })).toBeVisible();
+  await expect(languageMenu.getByRole('link', { name: 'Français' })).toHaveCount(0);
+  await expect(page.locator('.cxefpagxo-pri-esperanto a')).toHaveAttribute('href', 'https://esperanto.net/');
+  await expect(page.getByText('Subtenita de la')).toBeVisible();
+  await expect(page.getByRole('link', { name: 'Universala Esperanto Asocio' })).toBeVisible();
+
+  await context.close();
+});
+
 test('vortaro montras tradukon dum tajpado', async ({ page }) => {
   await page.goto('/en/01/');
 

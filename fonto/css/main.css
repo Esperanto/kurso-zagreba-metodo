@@ -11,14 +11,21 @@
   margin-right: auto;
   margin-left: auto;
   max-width: 960px;
-  margin-bottom: 5em;
   padding-left: 15px;
   padding-right: 15px;
 }
 
 body {
+	display: flex;
+	flex-direction: column;
 	font-size: 18px;
 	line-height: 30px;
+	min-height: 100vh;
+}
+body > .container {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
 }
 h1 {
   margin-bottom: 10px;
@@ -42,6 +49,59 @@ h3 {
   min-height: 52px;
   padding-bottom: 0;
   padding-top: 0;
+}
+.cxefpagxo {
+  margin-bottom: 1.5rem;
+  padding: 1.5rem 0;
+  text-align: center;
+}
+.cxefpagxo-korpo > .container > .row {
+  align-items: center;
+  flex: 1 0 auto;
+}
+.cxefpagxo-kapo {
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+.cxefpagxo-logo {
+  flex: 0 0 auto;
+}
+.cxefpagxo-titolo {
+  font-size: clamp(2.25rem, 5vw, 3.6rem);
+  line-height: 1.05;
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+}
+.cxefpagxo-subtitolo {
+  font-size: clamp(1.45rem, 3vw, 2.25rem);
+  line-height: 1.2;
+}
+.cxefpagxo-elektilo {
+  justify-content: center;
+  margin-top: 2rem;
+}
+.cxefpagxo-pri-esperanto {
+  margin-top: 2.5rem;
+}
+.cxefpagxo-subteno {
+  font-size: 1.05rem;
+  margin-top: 1.5rem;
+}
+.cxefpagxo-subteno img {
+  height: 2.2rem;
+  margin-right: 0.35rem;
+  width: auto;
+}
+.cxefpagxo-subteno a {
+  white-space: nowrap;
+}
+#cxefpagxo-lingvoj {
+  max-height: min(70vh, 24rem);
+  overflow-y: auto;
+}
+.footer {
+  margin-bottom: 1rem;
+  margin-top: auto;
 }
 
 .nav-tabs .nav-link {
@@ -72,6 +132,12 @@ h3 {
   }
   .navbar .dropdown-item {
     white-space: normal;
+  }
+}
+
+@media (min-width: 768px) {
+  .cxefpagxo-kapo {
+    flex-direction: column;
   }
 }
 
@@ -247,20 +313,13 @@ ol.tasko {
 }
 
 #logo {
+	height: 32px;
 	margin: 0;
+	object-fit: contain;
 	padding: 0;
+	width: 32px;
 }
 
-.lingvolisto {
-	margin: 0;
-	margin-top: 2em;
-  padding: 0;
-  list-style-type: none;
-}
-.lingvolisto li {
-	display: inline-block;
-	padding: 0.2em;
-}
 #eksporto {
 	float: right;
   margin-top: 1em;

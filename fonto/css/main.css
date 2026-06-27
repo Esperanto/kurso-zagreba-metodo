@@ -43,13 +43,20 @@ h3 {
   padding-bottom: 0;
   padding-top: 0;
 }
+.cxefpagxo {
+  margin-bottom: 1.5rem;
+  padding: 1.5rem 0;
+  text-align: center;
+}
 .cxefpagxo-kapo {
+  justify-content: center;
   margin-bottom: 1.5rem;
 }
 .cxefpagxo-logo {
   flex: 0 0 auto;
 }
 .cxefpagxo-elektilo {
+  justify-content: center;
   margin-top: 2rem;
 }
 #cxefpagxo-lingvoj {

@@ -10,10 +10,12 @@ test('ĉefpaĝo elektas retumilan lingvon', async ({ browser }) => {
   await expect(page.getByText('Le cours le plus rapide pour apprendre les bases')).toBeVisible();
 
   const primaryLanguage = page.locator('#cxefpagxo-cxefa-lingvo');
-  await expect(primaryLanguage).toHaveText('Démarrer');
+  await expect(primaryLanguage).toHaveText('Français');
   await expect(primaryLanguage).toHaveAttribute('href', 'fr/');
 
-  await expect(page.locator('#cxefpagxo-lingvoj-butono')).toContainText('📂');
+  const languageButton = page.locator('#cxefpagxo-lingvoj-butono');
+  await expect(languageButton).toContainText('📂');
+  await expect(languageButton).toHaveClass(/btn-light/);
   await page.locator('#cxefpagxo-lingvoj-butono').click();
 
   const languageMenu = page.locator('#cxefpagxo-lingvoj');

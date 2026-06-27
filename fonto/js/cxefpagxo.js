@@ -90,7 +90,7 @@
   agorduElementon(teksto, elektitaLingvo);
 
   cxefaLingvo.href = elektitaLingvo.kodo + '/';
-  cxefaLingvo.textContent = elektitaLingvo.ek;
+  cxefaLingvo.textContent = elektitaLingvo.nomo;
   cxefaLingvo.title = elektitaLingvo.nomo;
   agorduElementon(cxefaLingvo, elektitaLingvo);
 

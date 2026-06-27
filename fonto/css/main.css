@@ -112,8 +112,30 @@ h3 {
   overflow-y: auto;
 }
 .footer {
-  margin-bottom: 1rem;
+  background: #000;
+  color: rgba(255, 255, 255, 0.75);
   margin-top: auto;
+  padding: 1.25rem 0;
+  width: 100%;
+}
+.footer-kolumnoj {
+  display: grid;
+  gap: 1rem;
+}
+.footer-licenco {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.5rem;
+}
+.footer-licenco img {
+  flex: 0 0 auto;
+  height: 31px;
+  width: 88px;
+}
+.footer-listo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
 }
 
 .nav-tabs .nav-link {
@@ -207,7 +229,17 @@ h3 {
 .footer a,
 .footer a:hover,
 .footer a:focus {
+  color: #fff;
   text-decoration: none;
+}
+.footer .versio {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+@media (min-width: 768px) {
+  .footer-kolumnoj {
+    grid-template-columns: 2fr 1fr 1fr;
+  }
 }
 
 /* popover */

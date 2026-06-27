@@ -14,7 +14,7 @@ test('ĉefpaĝo elektas retumilan lingvon', async ({ browser }) => {
   await expect(primaryLanguage).toHaveAttribute('href', 'fr/');
 
   const languageButton = page.locator('#cxefpagxo-lingvoj-butono');
-  await expect(languageButton).toContainText('📂');
+  await expect(languageButton).toContainText('🌐');
   await expect(languageButton).toHaveClass(/btn-light/);
   await page.locator('#cxefpagxo-lingvoj-butono').click();
 
@@ -70,6 +70,36 @@ test('poŝtelefone vortaro restas inter logo kaj menuo', async ({ page }) => {
   }).first();
 
   await expect(suggestion).toBeVisible();
+});
+
+test('piedo montras nigrajn tri kolumnojn kun permesilaj ligiloj', async ({ page }) => {
+  await page.goto('/en/01/');
+
+  const footer = page.locator('.footer');
+  await expect(footer).toHaveCSS('background-color', 'rgb(0, 0, 0)');
+  await expect(footer.locator('img[src="/assets/img/cc-by.svg"]')).toBeVisible();
+  await expect(footer.getByRole('link', { name: 'Krea komunaĵo' })).toHaveAttribute(
+    'href',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md',
+  );
+  await expect(footer.getByRole('link', { name: 'Zagreba metodo' })).toHaveAttribute(
+    'href',
+    'https://eo.wikipedia.org/wiki/Zagreba_metodo',
+  );
+  await expect(footer.getByRole('link', { name: 'Kontribuantoj' })).toHaveAttribute(
+    'href',
+    /auxtoroj\/$/,
+  );
+  await expect(footer.getByRole('link', { name: 'Kontribuu' })).toHaveAttribute(
+    'href',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md',
+  );
+  await expect(footer.getByText(/⏱︎ Versio: [0-9a-f]{7}/)).toBeVisible();
+
+  const footerBox = await footer.boundingBox();
+  const viewport = page.viewportSize();
+  expect(Math.round(footerBox.x)).toBe(0);
+  expect(Math.abs(footerBox.width - viewport.width)).toBeLessThan(1);
 });
 
 test('ŝvebi super tekstaj vortoj montras tradukajn ŝprucfenestrojn', async ({ page }) => {

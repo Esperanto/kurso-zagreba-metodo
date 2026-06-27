@@ -134,15 +134,17 @@ h3 {
   top: 0;
   z-index: 1030;
 }
-.navbar-enhavo {
+.navbar > .navbar-enhavo {
   align-items: center;
   display: flex;
   gap: 0.75rem;
   min-width: 0;
+  flex-wrap: nowrap;
 }
 .navbar-brand {
   align-items: center;
   display: inline-flex;
+  flex: 0 0 auto;
   gap: 0.5rem;
   margin-right: 0;
   min-width: 0;
@@ -153,21 +155,24 @@ h3 {
 .navbar-iloj {
   align-items: center;
   display: flex;
+  flex: 1 1 auto;
   gap: 0.4rem;
   margin-left: auto;
   min-width: 0;
 }
 .vortaro-form {
-  flex: 0 1 18rem;
-  min-width: 8rem;
+  flex: 1 1 18rem;
+  min-width: 4.5rem;
 }
 .vortaro-form .twitter-typeahead,
 .vortaro-form .typeahead {
+  min-width: 0;
   width: 100%;
 }
 .navbar-ikona-butono {
   align-items: center;
   display: inline-flex;
+  flex: 0 0 auto;
   height: 2.375rem;
   justify-content: center;
   padding-left: 0.55rem;
@@ -274,11 +279,16 @@ h3 {
 }
 
 @media (max-width: 575.98px) {
-  .navbar-enhavo {
+  .navbar > .navbar-enhavo {
     gap: 0.45rem;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
   }
   .navbar-iloj {
     gap: 0.25rem;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto auto;
+    margin-left: 0;
   }
   .vortaro-form {
     flex-basis: auto;

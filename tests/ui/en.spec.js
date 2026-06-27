@@ -6,7 +6,7 @@ test('ĉefpaĝo elektas retumilan lingvon', async ({ browser }) => {
 
   await page.goto('/');
 
-  await expect(page.getByRole('heading', { name: "L'espéranto en 12 leçons" })).toBeVisible();
+  await expect(page.getByRole('heading', { name: "Apprendre l'espéranto" })).toBeVisible();
   await expect(page.getByText('Le cours le plus rapide pour apprendre les bases')).toBeVisible();
 
   const primaryLanguage = page.locator('#cxefpagxo-cxefa-lingvo');
@@ -21,6 +21,8 @@ test('ĉefpaĝo elektas retumilan lingvon', async ({ browser }) => {
   const languageMenu = page.locator('#cxefpagxo-lingvoj');
   await expect(languageMenu.getByRole('link', { name: 'English' })).toBeVisible();
   await expect(languageMenu.getByRole('link', { name: 'Français' })).toHaveCount(0);
+  await expect(page.getByText('Subtenita de la')).toBeVisible();
+  await expect(page.getByRole('link', { name: 'Universala Esperanto Asocio' })).toBeVisible();
 
   await context.close();
 });

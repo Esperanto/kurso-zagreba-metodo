@@ -15,7 +15,7 @@ AGORDOJ_DIR = ROOT_DIR / 'agordoj'
 ENHAVO_DIR = ROOT_DIR / 'enhavo'
 LECION_NUMEROJ = range(1, 13)
 YAML_LOADER = getattr(yaml, 'CSafeLoader', yaml.SafeLoader)
-CXEFPAGXO_TITOLO = 'Esperanto en 12 lecionoj'
+CXEFPAGXO_TITOLO = 'Lerni Esperanton'
 CXEFPAGXO_SUBTITOLO = 'La plej rapida kurso por la bazoj'
 
 

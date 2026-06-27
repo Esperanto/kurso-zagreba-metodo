@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>
-  {{fasado['Esperanto en 12 lecionoj']}}
+  {{fasado['Lerni Esperanton']}}
 	|
   {{fasado['La plej rapida kurso por la bazoj']}}
 		</title>
@@ -20,7 +20,7 @@
     <link href="assets/css/main.css" rel="stylesheet">
 
   </head>
-  <body>
+  <body class="cxefpagxo-korpo">
 
 
     <nav class="navbar navbar-dark bg-dark">
@@ -42,8 +42,8 @@
     <img class="cxefpagxo-logo" src="/assets/img/logo/logo-256.png" width="96" height="96" alt="">
     <div>
       <div id="cxefpagxo-teksto">
-        <h1 id="cxefpagxo-titolo" class="display-3">{{fasado['Esperanto en 12 lecionoj']}}</h1>
-        <p id="cxefpagxo-subtitolo" class="lead mb-0">{{fasado['La plej rapida kurso por la bazoj']}}</p>
+        <h1 id="cxefpagxo-titolo" class="cxefpagxo-titolo">{{fasado['Lerni Esperanton']}}</h1>
+        <p id="cxefpagxo-subtitolo" class="cxefpagxo-subtitolo mb-0">{{fasado['La plej rapida kurso por la bazoj']}}</p>
       </div>
     </div>
   </div>
@@ -53,6 +53,10 @@
       <button id="cxefpagxo-lingvoj-butono" class="btn btn-light btn-lg dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Elekti alian lingvon">📂</button>
       <ul id="cxefpagxo-lingvoj" class="dropdown-menu"></ul>
     </div>
+  </div>
+  <div class="cxefpagxo-subteno">
+    <img src="/assets/img/uea.png" alt="">
+    Subtenita de la <a href="https://uea.org/">Universala Esperanto Asocio</a>
   </div>
   <script id="cxefpagxo-lingvodatenoj" type="application/json">{{cxefpagxaj_lingvoj|tojson}}</script>
   </div>         
@@ -72,11 +76,6 @@
 					<a href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md">Helpu</a>,
 					<a href="https://jaehnig.org/privacy">Privateco</a>,
 					<a href="https://jaehnig.org/impressum/">Kontakto</a>
-					<br/>
-	        <a href="https://uea.org/">
-				    <img id="cc" src="assets/img/uea.png" alt="Universala Esperanto Asocio">
-					</a>
-					Subtenita de la <a href="https://uea.org/">Universala Esperanto Asocio</a>
 					<br/>
 					<span class="versio">⏱︎ Versio: {{versio}}</span>
 			</div>

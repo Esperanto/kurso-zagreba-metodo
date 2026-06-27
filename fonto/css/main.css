@@ -119,10 +119,10 @@ h3 {
   width: 2.25rem;
 }
 .leciona-sago-antauxa {
-  justify-content: end;
+  justify-content: start;
 }
 .leciona-sago-sekva {
-  justify-content: start;
+  justify-content: end;
 }
 
 .navbar {

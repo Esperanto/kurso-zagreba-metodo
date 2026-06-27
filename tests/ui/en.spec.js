@@ -158,7 +158,9 @@ test('leciona titolo malfermas lecionliston', async ({ page }) => {
 
   const lessonButton = page.getByRole('button', { name: /1\./ });
   await expect(lessonButton).toBeVisible();
+  await expect(lessonButton).toHaveClass(/btn-light/);
   await expect(lessonButton).toHaveClass(/dropdown-toggle/);
+  await expect(lessonButton).toHaveCSS('background-color', 'rgb(255, 255, 255)');
   await lessonButton.click();
 
   const lessonMenu = page.locator('.leciona-menuo-listo.show');

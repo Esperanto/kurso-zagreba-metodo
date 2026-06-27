@@ -53,18 +53,37 @@ h3 {
   display: inline-flex;
 }
 .leciona-menuo-butono {
+  align-items: center;
+  background: #fff;
+  border-color: #dee2e6;
   color: var(--bs-link-color);
+  display: inline-flex;
   font: inherit;
   font-weight: inherit;
+  gap: 0.25rem;
   line-height: inherit;
-  padding: 0;
+  padding: 0.125rem 0.5rem;
   text-decoration: none;
   vertical-align: baseline;
 }
 .leciona-menuo-butono:hover,
 .leciona-menuo-butono:focus {
+  background: #f8f9fa;
+  border-color: #cfd4da;
   color: var(--bs-link-hover-color);
   text-decoration: none;
+}
+.leciona-menuo-butono.dropdown-toggle::after {
+  display: none;
+}
+.leciona-menuo-butono.dropdown-toggle::before {
+  border-bottom: 0;
+  border-left: 0.3em solid transparent;
+  border-right: 0.3em solid transparent;
+  border-top: 0.3em solid;
+  content: "";
+  display: inline-block;
+  vertical-align: 0.1em;
 }
 .leciona-menuo-listo {
   max-height: min(70vh, 24rem);

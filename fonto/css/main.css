@@ -130,6 +130,7 @@ h3 {
   justify-content: end;
 }
 .gramatika-enhavtabelo {
+  background-color: var(--exercise-field-bg);
   border: 1px solid var(--bs-border-color);
   border-radius: var(--bs-border-radius);
   font-size: 0.95rem;
@@ -137,11 +138,20 @@ h3 {
   padding: 0.75rem 1rem;
 }
 .gramatika-enhavtabelo ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.25rem;
   margin-bottom: 0;
   padding-left: 1.25rem;
 }
 .gramatika-enhavtabelo a {
   text-decoration: none;
+}
+.gramatika-reenligo {
+  font-size: 0.75em;
+  margin-left: 0.35rem;
+  text-decoration: none;
+  vertical-align: 0.08em;
 }
 
 .navbar {
@@ -327,6 +337,9 @@ h3 {
     margin-left: 1.5rem;
     max-width: 15rem;
     width: 35%;
+  }
+  .gramatika-enhavtabelo ol {
+    display: block;
   }
   .cxefpagxo-kapo {
     flex-direction: column;

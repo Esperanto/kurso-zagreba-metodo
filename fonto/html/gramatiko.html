@@ -16,7 +16,7 @@
 
   <div dir="{{enhavo.tekstodirekto}}">
     {% if leciono.gramatiko.titoloj %}
-      <nav class="gramatika-enhavtabelo" aria-label="{{enhavo.fasado['Gramatiko']}}">
+      <nav id="gramatika-enhavtabelo" class="gramatika-enhavtabelo" aria-label="{{enhavo.fasado['Gramatiko']}}">
         <ol>
           {% for titolo in leciono.gramatiko.titoloj %}
             <li><a href="#{{titolo.ankro}}">{{titolo.titolo}}</a></li>
@@ -25,7 +25,7 @@
       </nav>
     {% endif %}
 
-  {{leciono.gramatiko.teksto|markdown}} 
+  {{leciono.gramatiko.teksto|markdown(true)}}
 
 	</div>
 

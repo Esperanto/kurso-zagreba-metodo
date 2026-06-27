@@ -313,7 +313,11 @@ test('gramatika enhavtabelo aperas dekstre sur labortablo', async ({ page }) => 
   await expect(toc.getByRole('link', { name: 'Pronunciation' })).toHaveAttribute('href', '#pronunciation');
   await expect(toc.getByRole('link', { name: 'Ĉu?' })).toBeVisible();
   await expect(toc).not.toContainText('*Ĉu?*');
-  await expect(page.locator('h3#alphabet')).toHaveText('Alphabet');
+  await expect(page.locator('h3#alphabet')).toContainText('Alphabet');
+  await expect(page.locator('h3#alphabet .gramatika-reenligo')).toHaveAttribute(
+    'href',
+    '#gramatika-enhavtabelo',
+  );
 
   const boxes = await page.evaluate(() => {
     const content = document.querySelector('main .col-sm-12').getBoundingClientRect();
@@ -328,6 +332,21 @@ test('gramatika enhavtabelo aperas dekstre sur labortablo', async ({ page }) => 
 
   expect(boxes.tocLeft).toBeGreaterThan(boxes.contentLeft + 0.5 * (boxes.contentRight - boxes.contentLeft));
   expect(boxes.tocRight).toBeLessThanOrEqual(boxes.contentRight + 1);
+});
+
+test('gramatika enhavtabelo restas horizontala sur poŝtelefono', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 720 });
+  await page.goto('/en/01/gramatiko/');
+
+  const first = page.locator('.gramatika-enhavtabelo li').first();
+  const second = page.locator('.gramatika-enhavtabelo li').nth(1);
+  const boxes = await Promise.all([
+    first.boundingBox(),
+    second.boundingBox(),
+  ]);
+
+  expect(Math.abs(boxes[0].y - boxes[1].y)).toBeLessThan(8);
+  expect(boxes[1].x).toBeGreaterThan(boxes[0].x);
 });
 
 test('aktiva leciona langeto havas kampecan fonon', async ({ page }) => {

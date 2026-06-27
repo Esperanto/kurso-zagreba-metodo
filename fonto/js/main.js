@@ -116,22 +116,20 @@ $('.forigu').click(function() {
 });
 
 
-var currentLangCode = $('#lingvoelektilo').val();
+var currentLangCode = $('.lingvoelektilo-ligilo[aria-current="true"]').data('lingvo');
 
-$('#lingvoelektilo').change(function(e) {
+$('.lingvoelektilo-ligilo').click(function(e) {
+  if (!currentLangCode) {
+    return;
+  }
 
-	// currentLangCode comes from global.
-	var newLanguangeCode = $(this).val()
+  e.preventDefault();
+  var newLanguageCode = $(this).data('lingvo');
 
-	var url = window.location.href;
+  var url = window.location.href;
   url = url.replace(
-		'/' + currentLangCode + '/',  	
-	  '/' + newLanguangeCode + '/'
-	);
-	window.location.href = url;
-
-	// var previousLangCode = $('#lingvoelektilo').val());
-	// var before_change = $(this).data('pre');
-	// console.log(before_change);
-	//var langCode = console.log($(this).val())
+    '/' + currentLangCode + '/',
+    '/' + newLanguageCode + '/'
+  );
+  window.location.href = url;
 });

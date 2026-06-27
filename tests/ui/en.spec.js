@@ -42,26 +42,29 @@ test('vortaro montras tradukon dum tajpado', async ({ page }) => {
   await expect(suggestion).toBeVisible();
 });
 
-test('poŝtelefone vortaro restas inter logo kaj menuo', async ({ page }) => {
+test('poŝtelefone vortaro restas inter logo kaj cxiamaj butonoj', async ({ page }) => {
   await page.setViewportSize({ width: 360, height: 720 });
   await page.goto('/en/01/');
 
-  const mobileDictionary = page.locator('#vortaro-mobile');
-  await expect(mobileDictionary).toBeVisible();
-  await expect(page.locator('#vortaro')).toBeHidden();
+  const dictionary = page.locator('#vortaro');
+  await expect(dictionary).toBeVisible();
+  await expect(page.getByRole('button', { name: 'Toggle navigation' })).toHaveCount(0);
 
   const logoBox = await page.locator('.navbar-brand').boundingBox();
-  const dictionaryBox = await mobileDictionary.boundingBox();
-  const menuBox = await page.getByRole('button', { name: 'Toggle navigation' }).boundingBox();
+  const dictionaryBox = await dictionary.boundingBox();
+  const appendixBox = await page.getByRole('button', { name: 'Appendix' }).boundingBox();
+  const languageBox = await page.getByRole('button', { name: 'Elekti alian lingvon' }).boundingBox();
   const navbarBox = await page.locator('.navbar').boundingBox();
 
   expect(dictionaryBox.x).toBeGreaterThan(logoBox.x + logoBox.width - 1);
-  expect(dictionaryBox.x + dictionaryBox.width).toBeLessThan(menuBox.x + 1);
+  expect(dictionaryBox.x + dictionaryBox.width).toBeLessThan(appendixBox.x + 1);
+  expect(appendixBox.x + appendixBox.width).toBeLessThan(languageBox.x + languageBox.width + 1);
   expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (logoBox.y + logoBox.height / 2))).toBeLessThan(3);
-  expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (menuBox.y + menuBox.height / 2))).toBeLessThan(3);
+  expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (appendixBox.y + appendixBox.height / 2))).toBeLessThan(3);
+  expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (languageBox.y + languageBox.height / 2))).toBeLessThan(3);
   expect(navbarBox.height).toBeLessThan(70);
 
-  await mobileDictionary.fill('est');
+  await dictionary.fill('est');
 
   const suggestion = page.locator('.tt-menu .tt-suggestion').filter({
     hasText: 'esti',
@@ -127,18 +130,24 @@ test('ŝvebi super tekstaj vortoj montras tradukajn ŝprucfenestrojn', async ({ 
   await expect(verbPopover).toBeVisible();
 });
 
-test('poŝtelefona aldona menuo restas malhela', async ({ page }) => {
+test('aldona kaj lingva menuoj restas cxiam atingeblaj', async ({ page }) => {
   await page.setViewportSize({ width: 580, height: 720 });
   await page.goto('/en/01/');
 
-  await page.getByRole('button', { name: 'Toggle navigation' }).click();
   await page.getByRole('button', { name: 'Appendix' }).click();
 
-  const menu = page.locator('.dropdown-menu.show').filter({
+  const appendixMenu = page.locator('.dropdown-menu.show').filter({
     hasText: 'Correlatives',
   });
-  await expect(menu).toBeVisible();
-  await expect(menu).toHaveCSS('background-color', 'rgb(34, 34, 34)');
+  await expect(appendixMenu).toBeVisible();
+
+  await page.getByRole('button', { name: 'Appendix' }).click();
+  await page.getByRole('button', { name: 'Elekti alian lingvon' }).click();
+  const languageMenu = page.locator('.dropdown-menu.show').filter({
+    hasText: 'Deutsch',
+  });
+  await expect(languageMenu).toBeVisible();
+  await expect(languageMenu.getByRole('link', { name: 'Deutsch' })).toHaveAttribute('href', '/de/');
 });
 
 test('navigilo restas supre dum rulumado', async ({ page }) => {

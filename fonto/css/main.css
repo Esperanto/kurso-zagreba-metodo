@@ -136,7 +136,7 @@ h3 {
   border-radius: var(--bs-border-radius);
   font-size: 0.95rem;
   margin-bottom: 1rem;
-  margin-top: 0.75rem;
+  margin-top: 1.25rem;
   padding: 0.75rem 1rem;
 }
 .gramatika-enhavtabelo ol {
@@ -148,6 +148,7 @@ h3 {
 }
 .gramatika-enhavtabelo li {
   margin-right: 1.5rem;
+  padding-left: 0.35rem;
 }
 .gramatika-enhavtabelo a {
   text-decoration: none;

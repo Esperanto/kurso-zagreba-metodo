@@ -168,6 +168,33 @@ test('leciona titolo malfermas lecionliston', async ({ page }) => {
   await expect(lessonMenu.getByRole('link', { name: /^12\./ })).toHaveAttribute('href', '/en/12');
 });
 
+test('lecionaj sagoj estas apud centrita titolo', async ({ page }) => {
+  await page.goto('/en/01/');
+
+  const header = page.locator('.leciona-kapo');
+  await expect(header.getByRole('link', { name: 'Forward' })).toHaveText('▶︎');
+  await expect(header.getByRole('link', { name: 'Back' })).toHaveCount(0);
+
+  const metrics = await header.evaluate((row) => {
+    const title = row.querySelector('.leciona-titolo').getBoundingClientRect();
+    const next = row.querySelector('.leciona-sago-sekva .btn').getBoundingClientRect();
+    const rowBox = row.getBoundingClientRect();
+
+    return {
+      nextCenterSpread: Math.abs((next.top + next.height / 2) - (title.top + title.height / 2)),
+      titleCenterSpread: Math.abs((title.left + title.width / 2) - (rowBox.left + rowBox.width / 2)),
+    };
+  });
+
+  expect(metrics.nextCenterSpread).toBeLessThanOrEqual(2);
+  expect(metrics.titleCenterSpread).toBeLessThanOrEqual(2);
+
+  await page.goto('/en/02/');
+  const secondHeader = page.locator('.leciona-kapo');
+  await expect(secondHeader.getByRole('link', { name: 'Back' })).toHaveText('◀︎');
+  await expect(secondHeader.getByRole('link', { name: 'Forward' })).toHaveText('▶︎');
+});
+
 test('leciona titolo ne falas sub la butonon dum linisalto', async ({ page }) => {
   await page.setViewportSize({ width: 260, height: 720 });
   await page.goto('/en/09/');

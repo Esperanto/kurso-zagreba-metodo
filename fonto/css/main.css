@@ -49,9 +49,9 @@ h3 {
   column-gap: 0.75rem;
   display: grid;
   grid-template-columns: minmax(2.75rem, 1fr) auto minmax(2.75rem, 1fr);
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   margin-top: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 16px;
 }
 .leciona-titolo {
   align-items: center;

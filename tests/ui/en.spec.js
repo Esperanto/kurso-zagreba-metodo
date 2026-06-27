@@ -42,6 +42,13 @@ test('vortaro montras tradukon dum tajpado', async ({ page }) => {
   await expect(suggestion).toBeVisible();
 });
 
+test('vortaro restas kompakta en la supra navigilo', async ({ page }) => {
+  await page.goto('/en/01/');
+
+  const dictionaryBox = await page.locator('#vortaro').boundingBox();
+  expect(dictionaryBox.width).toBeLessThanOrEqual(170);
+});
+
 test('poŝtelefone vortaro restas inter logo kaj cxiamaj butonoj en unu linio', async ({ page }) => {
   for (const width of [320, 360, 390]) {
     await page.setViewportSize({ width, height: 720 });
@@ -107,6 +114,12 @@ test('piedo montras grizajn tri kolumnojn kun permesilaj ligiloj', async ({ page
   const viewport = page.viewportSize();
   expect(Math.round(footerBox.x)).toBe(0);
   expect(Math.abs(footerBox.width - viewport.width)).toBeLessThan(1);
+});
+
+test('malsupra pagxilo havas apartigan linion', async ({ page }) => {
+  await page.goto('/en/02/');
+
+  await expect(page.locator('ul.pager')).toHaveCSS('border-top-style', 'solid');
 });
 
 test('ŝvebi super tekstaj vortoj montras tradukajn ŝprucfenestrojn', async ({ page }) => {
@@ -381,4 +394,18 @@ test('ekzercaj respondaj ikonoj restas en la kampoj', async ({ page }) => {
     await expect(iconPositions.every(({ insideInput }) => insideInput)).toBe(true);
     await expect(iconPositions.every(({ rightGap }) => rightGap >= 5 && rightGap <= 25)).toBe(true);
   }
+});
+
+test('ekzercaj titoloj montras nur la celan lingvon', async ({ page }) => {
+  await page.goto('/en/01/ekzerco1/');
+  await expect(page.getByRole('heading', { level: 3, name: 'Translate' })).toBeVisible();
+  await expect(page.getByRole('heading', { level: 3, name: /Translate \// })).toHaveCount(0);
+
+  await page.goto('/en/01/ekzerco2/');
+  await expect(page.getByRole('heading', { level: 3, name: 'Complete the sentences' })).toBeVisible();
+  await expect(page.getByRole('heading', { level: 3, name: /Complete the sentences \// })).toHaveCount(0);
+
+  await page.goto('/en/01/ekzerco3/');
+  await expect(page.getByRole('heading', { level: 3, name: 'Translate and answer' })).toBeVisible();
+  await expect(page.getByRole('heading', { level: 3, name: /Translate and answer \// })).toHaveCount(0);
 });

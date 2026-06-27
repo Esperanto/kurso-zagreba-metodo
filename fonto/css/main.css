@@ -45,16 +45,19 @@ h3 {
 }
 .leciona-kapo {
   align-items: center;
+  border-bottom: 1px solid var(--bs-border-color);
   column-gap: 0.75rem;
   display: grid;
   grid-template-columns: minmax(2.75rem, 1fr) auto minmax(2.75rem, 1fr);
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   margin-top: 20px;
+  padding-bottom: 16px;
 }
 .leciona-titolo {
   align-items: center;
   column-gap: 0.5rem;
   display: grid;
+  font-size: 26px;
   grid-template-columns: auto minmax(0, 1fr);
   justify-self: center;
   margin: 0;
@@ -155,13 +158,14 @@ h3 {
 .navbar-iloj {
   align-items: center;
   display: flex;
-  flex: 1 1 auto;
+  flex: 0 0 auto;
   gap: 0.4rem;
   margin-left: auto;
   min-width: 0;
 }
 .vortaro-form {
   flex: 1 1 18rem;
+  max-width: 15ch;
   min-width: 4.5rem;
 }
 .vortaro-form .twitter-typeahead,
@@ -292,6 +296,7 @@ h3 {
   }
   .vortaro-form {
     flex-basis: auto;
+    max-width: none;
     min-width: 0;
   }
   .navbar-ikona-butono {
@@ -425,8 +430,12 @@ ol.tasko {
   padding-right: 42.5px;
   width: auto;
 }
-.ekzerco3-tasko > li {
+.ekzerco3-tasko > div {
   margin-bottom: 1.25em;
+}
+.ekzerco3-tasko h4 {
+  margin-bottom: 1.5rem;
+  margin-top: 2rem;
 }
 .form-horizontal .feedback-icon {
   position: absolute;
@@ -508,6 +517,7 @@ img.leciona {
   margin-left: 1em;
 }
 ul.pager {
+  border-top: 1px solid var(--bs-border-color);
   clear: both;
   display: grid;
   grid-template-columns: 1fr auto 1fr;

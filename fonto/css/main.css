@@ -106,6 +106,7 @@ h3 {
 }
 .leciona-titolo-teksto {
   min-width: 0;
+  text-wrap: balance;
 }
 .leciona-sago {
   align-items: center;

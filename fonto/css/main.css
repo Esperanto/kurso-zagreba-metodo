@@ -122,16 +122,6 @@ h3 {
   display: grid;
   gap: 1rem;
 }
-.footer-licenco {
-  align-items: center;
-  display: inline-flex;
-  gap: 0.5rem;
-}
-.footer-licenco img {
-  flex: 0 0 auto;
-  height: 31px;
-  width: 88px;
-}
 .footer-listo {
   display: flex;
   flex-direction: column;

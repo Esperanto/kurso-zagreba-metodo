@@ -1,133 +1,178 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>
-			{% block title %}
-			{% endblock %}
-		</title>
+    <title>{% block title %} {% endblock %}</title>
 
-
-    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="icon" href="/favicon.ico" sizes="any">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/logo/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/logo/favicon-16x16.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link href="{{vojprefikso}}../assets/css/main.css?v=2" rel="stylesheet">
-    <link href="{{vojprefikso}}../assets/css/vortaro.css" rel="stylesheet">
-
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/assets/img/logo/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/assets/img/logo/favicon-16x16.png"
+    />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link href="{{vojprefikso}}../assets/css/main.css?v=2" rel="stylesheet" />
+    <link href="{{vojprefikso}}../assets/css/vortaro.css" rel="stylesheet" />
   </head>
   <body>
-
-
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/"><img id="logo" src="/assets/img/logo/logo-64.png" width="32" height="32" alt="Esperanto"></a>
+        <a class="navbar-brand" href="/"
+          ><img
+            id="logo"
+            src="/assets/img/logo/logo-64.png"
+            width="32"
+            height="32"
+            alt="Esperanto"
+        /></a>
         <form class="vortaro-form-mobile d-flex d-lg-none">
-          {% set vortaro_id = 'vortaro-mobile' %}
-          {% include 'vortaro.html' %}
+          {% set vortaro_id = 'vortaro-mobile' %} {% include 'vortaro.html' %}
           {% set vortaro_id = 'vortaro' %}
         </form>
-        <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#site-navigation" aria-controls="site-navigation" aria-expanded="false" aria-label="Toggle navigation">
+        <button
+          type="button"
+          class="navbar-toggler"
+          data-bs-toggle="collapse"
+          data-bs-target="#site-navigation"
+          aria-controls="site-navigation"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
           <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="site-navigation">
           <ul class="navbar-nav mb-2 mb-lg-0">
             <li class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false">
+              <a
+                href="#"
+                class="nav-link dropdown-toggle"
+                data-bs-toggle="dropdown"
+                role="button"
+                aria-expanded="false"
+              >
                 {{enhavo.fasado['Lecionoj']}}
               </a>
               <ul class="dropdown-menu">
                 {% for leciono in enhavo.lecionoj %}
-                <li><a class="dropdown-item" href="{{vojprefikso}}{{leciono.indekso.cxene}}">{{leciono.indekso.cifre}}. {{leciono.teksto.titolo_string}}</a></li>
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href="{{vojprefikso}}{{leciono.indekso.cxene}}"
+                    >{{leciono.indekso.cifre}}.
+                    {{leciono.teksto.titolo_string}}</a
+                  >
+                </li>
                 {% endfor %}
               </ul>
             </li>
             <li class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false">
+              <a
+                href="#"
+                class="nav-link dropdown-toggle"
+                data-bs-toggle="dropdown"
+                role="button"
+                aria-expanded="false"
+              >
                 {{enhavo.fasado['Aldono']}}
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="{{vojprefikso}}tabelvortoj">
-                  {{enhavo.fasado['Tabelvortoj']}}
-                </a></li>
-                <li><a class="dropdown-item" href="{{vojprefikso}}prepozicioj">
-                  {{enhavo.fasado['Prepozicioj']}}
-                </a></li>
-                <li><a class="dropdown-item" href="{{vojprefikso}}konjunkcioj">
-                  {{enhavo.fasado['Konjunkcioj']}}
-                </a></li>
-                <li><a class="dropdown-item" href="{{vojprefikso}}afiksoj">
-                  {{enhavo.fasado['Afiksoj']}}
-                </a></li>
-                <li><a class="dropdown-item" href="{{vojprefikso}}diversajxoj">
-                  {{enhavo.fasado['Diversaĵoj']}}
-                </a></li>
+                <li>
+                  <a class="dropdown-item" href="{{vojprefikso}}tabelvortoj">
+                    {{enhavo.fasado['Tabelvortoj']}}
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="{{vojprefikso}}prepozicioj">
+                    {{enhavo.fasado['Prepozicioj']}}
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="{{vojprefikso}}konjunkcioj">
+                    {{enhavo.fasado['Konjunkcioj']}}
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="{{vojprefikso}}afiksoj">
+                    {{enhavo.fasado['Afiksoj']}}
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="{{vojprefikso}}diversajxoj">
+                    {{enhavo.fasado['Diversaĵoj']}}
+                  </a>
+                </li>
               </ul>
             </li>
           </ul>
 
-          <form class="vortaro-form-desktop d-none d-lg-flex ms-lg-3 my-2 my-lg-0">
+          <form
+            class="vortaro-form-desktop d-none d-lg-flex ms-lg-3 my-2 my-lg-0"
+          >
             {% include 'vortaro.html' %}
           </form>
           <form class="d-flex ms-lg-3 my-2 my-lg-0">
             <select id="lingvoelektilo" class="form-select">
               {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'preta' %}
                 <option value="{{kodo}}"
-                {% if kodo == enhavo.lingvo %}  
+                {% if kodo == enhavo.lingvo %}
                   selected
-                {% endif %}  
+                {% endif %}
                 >{{enhavo.lingvoj[kodo].nomo.fontlingve}}</option>
               {% endfor %}
               {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'testa' %}
                 <option value="{{kodo}}"
-                {% if kodo == enhavo.lingvo %}  
+                {% if kodo == enhavo.lingvo %}
                   selected
-                {% endif %}  
+                {% endif %}
                 >(test: {{enhavo.lingvoj[kodo].nomo.esperante}})</option>
               {% endfor %}
             </select>
           </form>
-
         </div>
       </div>
-    </nav>   
+    </nav>
 
     <main class="container">
       <div class="row">
-
         <div class="col-sm-12">
-
-						<!--
+          <!--
 					<div class="ad" >
 						Vizitu la <a target="_blank" href="https://uk.esperanto.net/2026/">Universalan Kongreson en Graz</a> kaj renkontu 1000+ esperantistojn el la tuta mondo.
 					</div>
 						-->
-          
-          {% block content %}
-          {% endblock %}
-        
+
+          {% block content %} {% endblock %}
         </div>
       </div>
-
     </main>
 
     <footer class="footer">
       <div class="container footer-kolumnoj">
-        <div>
-          <a class="footer-licenco" href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md">
-            <img src="/assets/img/cc-by.svg" alt="">
-            <span>Krea komunaĵo</span>
-          </a>,
-          surbaze de la <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo">Zagreba metodo</a>
+        <div class="footer-listo">
+          <a href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md">Krea komunaĵo</a>
+          <span>
+            surbaze de la
+            <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo">Zagreba metodo</a>
+          </span>
         </div>
         <div class="footer-listo">
           <a href="{{vojprefikso}}auxtoroj/">Kontribuantoj</a>
-          <a href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md">Kontribuu</a>
+          <a
+            href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md"
+            >Kontribuu</a
+          >
         </div>
         <div class="footer-listo">
           <a href="https://jaehnig.org/impressum/">Kontakto</a>
@@ -136,7 +181,6 @@
         </div>
       </div>
     </footer>
-
 
     <script src="/vendor/jquery/jquery.min.js"></script>
     <script src="/vendor/jquery/jquery-ui.min.js"></script>
@@ -148,10 +192,21 @@
     <script src="{{vojprefikso}}js/vortlisto.js"></script>
     <script src="{{vojprefikso}}../assets/js/vortaro.js"></script>
 
-			<!-- 100% privacy-first analytics -->
-	<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript>
-<script data-goatcounter="https://e12.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-
+    <!-- 100% privacy-first analytics -->
+    <script
+      async
+      src="https://scripts.simpleanalyticscdn.com/latest.js"
+    ></script>
+    <noscript
+      ><img
+        src="https://queue.simpleanalyticscdn.com/noscript.gif"
+        alt=""
+        referrerpolicy="no-referrer-when-downgrade"
+    /></noscript>
+    <script
+      data-goatcounter="https://e12.goatcounter.com/count"
+      async
+      src="//gc.zgo.at/count.js"
+    ></script>
   </body>
 </html>

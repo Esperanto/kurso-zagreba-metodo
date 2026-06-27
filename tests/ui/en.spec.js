@@ -77,11 +77,11 @@ test('piedo montras nigrajn tri kolumnojn kun permesilaj ligiloj', async ({ page
 
   const footer = page.locator('.footer');
   await expect(footer).toHaveCSS('background-color', 'rgb(0, 0, 0)');
-  await expect(footer.locator('img[src="/assets/img/cc-by.svg"]')).toBeVisible();
   await expect(footer.getByRole('link', { name: 'Krea komunaĵo' })).toHaveAttribute(
     'href',
     'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md',
   );
+  await expect(footer.getByText('surbaze de la')).toBeVisible();
   await expect(footer.getByRole('link', { name: 'Zagreba metodo' })).toHaveAttribute(
     'href',
     'https://eo.wikipedia.org/wiki/Zagreba_metodo',

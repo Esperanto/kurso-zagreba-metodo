@@ -1,87 +1,136 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>
-  {{fasado['Lerni Esperanton']}}
-	|
-  {{fasado['La plej rapida kurso por la bazoj']}}
-		</title>
+      {{fasado['Lerni Esperanton']}} | {{fasado['La plej rapida kurso por la
+      bazoj']}}
+    </title>
 
-
-    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="icon" href="/favicon.ico" sizes="any">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/logo/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/logo/favicon-16x16.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link href="assets/css/main.css" rel="stylesheet">
-
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/assets/img/logo/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/assets/img/logo/favicon-16x16.png"
+    />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link href="assets/css/main.css" rel="stylesheet" />
   </head>
   <body class="cxefpagxo-korpo">
-
-
     <nav class="navbar navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/"><img id="logo" src="/assets/img/logo/logo-64.png" width="32" height="32" alt="Esperanto"></a>
-        <button type="button" class="navbar-toggler" aria-label="Toggle navigation">
+        <a class="navbar-brand" href="/"
+          ><img
+            id="logo"
+            src="/assets/img/logo/logo-64.png"
+            width="32"
+            height="32"
+            alt="Esperanto"
+        /></a>
+        <button
+          type="button"
+          class="navbar-toggler"
+          aria-label="Toggle navigation"
+        >
           <span class="navbar-toggler-icon"></span>
         </button>
       </div>
-    </nav>   
+    </nav>
 
     <main class="container">
       <div class="row">
-
         <div class="col-sm-12">
-
- <div class="cxefpagxo">
-  <div class="cxefpagxo-kapo d-flex align-items-center gap-3 flex-wrap">
-    <img class="cxefpagxo-logo" src="/assets/img/logo/logo-256.png" width="96" height="96" alt="">
-    <div>
-      <div id="cxefpagxo-teksto">
-        <h1 id="cxefpagxo-titolo" class="cxefpagxo-titolo">{{fasado['Lerni Esperanton']}}</h1>
-        <p id="cxefpagxo-subtitolo" class="cxefpagxo-subtitolo mb-0">{{fasado['La plej rapida kurso por la bazoj']}}</p>
-      </div>
-    </div>
-  </div>
-  <div class="cxefpagxo-elektilo d-flex gap-2 flex-wrap">
-    <a id="cxefpagxo-cxefa-lingvo" class="btn btn-primary btn-lg" href="en/" title="English">English</a>
-    <div class="dropdown">
-      <button id="cxefpagxo-lingvoj-butono" class="btn btn-light btn-lg dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Elekti alian lingvon">🌐</button>
-      <ul id="cxefpagxo-lingvoj" class="dropdown-menu"></ul>
-    </div>
-  </div>
-  <div class="cxefpagxo-pri-esperanto">
-    More about Esperanto<br/> on <a target="_blank" href="https://esperanto.net/">esperanto.net</a>
-  </div>
-  <div class="cxefpagxo-subteno">
-    <img src="/assets/img/uea.png" alt=""><br/>
-    Subtenita de la<br/> <a href="https://uea.org/">Universala Esperanto Asocio</a>
-  </div>
-  <script id="cxefpagxo-lingvodatenoj" type="application/json">{{cxefpagxaj_lingvoj|tojson}}</script>
-  </div>         
-
-        
+          <div class="cxefpagxo">
+            <div
+              class="cxefpagxo-kapo d-flex align-items-center gap-3 flex-wrap"
+            >
+              <img
+                class="cxefpagxo-logo"
+                src="/assets/img/logo/logo-256.png"
+                width="96"
+                height="96"
+                alt=""
+              />
+              <div>
+                <div id="cxefpagxo-teksto">
+                  <h1 id="cxefpagxo-titolo" class="cxefpagxo-titolo">
+                    {{fasado['Lerni Esperanton']}}
+                  </h1>
+                  <p id="cxefpagxo-subtitolo" class="cxefpagxo-subtitolo mb-0">
+                    {{fasado['La plej rapida kurso por la bazoj']}}
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="cxefpagxo-elektilo d-flex gap-2 flex-wrap">
+              <a
+                id="cxefpagxo-cxefa-lingvo"
+                class="btn btn-primary btn-lg"
+                href="en/"
+                title="English"
+                >English</a
+              >
+              <div class="dropdown">
+                <button
+                  id="cxefpagxo-lingvoj-butono"
+                  class="btn btn-light btn-lg dropdown-toggle"
+                  type="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                  aria-label="Elekti alian lingvon"
+                >
+                  🌐
+                </button>
+                <ul id="cxefpagxo-lingvoj" class="dropdown-menu"></ul>
+              </div>
+            </div>
+            <div class="cxefpagxo-pri-esperanto">
+              More about Esperanto<br />
+              on
+              <a target="_blank" href="https://esperanto.net/">esperanto.net</a>
+            </div>
+            <div class="cxefpagxo-subteno">
+              <img src="/assets/img/uea.png" alt="" /><br />
+              Subtenita de la<br />
+              <a href="https://uea.org/">Universala Esperanto Asocio</a>
+            </div>
+            <script id="cxefpagxo-lingvodatenoj" type="application/json">
+              {{cxefpagxaj_lingvoj|tojson}}
+            </script>
+          </div>
         </div>
       </div>
-
     </main>
 
     <footer class="footer">
       <div class="container footer-kolumnoj">
-        <div>
-          <a class="footer-licenco" href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md">
-            <img src="/assets/img/cc-by.svg" alt="">
-            <span>Krea komunaĵo</span>
-          </a>,
-          surbaze de la <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo">Zagreba metodo</a>
+        <div class="footer-listo">
+          <a href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md">Krea komunaĵo</a>
+          <span>
+            surbaze de la
+            <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo">Zagreba metodo</a>
+          </span>
         </div>
         <div class="footer-listo">
-          <a href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/AUTHORS.md">Kontribuantoj</a>
-          <a href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md">Kontribuu</a>
+          <a
+            href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/AUTHORS.md"
+            >Kontribuantoj</a
+          >
+          <a
+            href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md"
+            >Kontribuu</a
+          >
         </div>
         <div class="footer-listo">
           <a href="https://jaehnig.org/impressum/">Kontakto</a>
@@ -91,7 +140,6 @@
       </div>
     </footer>
 
-
     <script src="/vendor/jquery/jquery.min.js"></script>
     <script src="/vendor/jquery/jquery-ui.min.js"></script>
     <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -99,9 +147,21 @@
     <script src="/vendor/typeahead/typeahead.bundle.min.js"></script>
     <script src="assets/js/cxefpagxo.js"></script>
 
-			<!-- 100% privacy-first analytics -->
-    <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript>
-    <script data-goatcounter="https://e12.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <!-- 100% privacy-first analytics -->
+    <script
+      async
+      src="https://scripts.simpleanalyticscdn.com/latest.js"
+    ></script>
+    <noscript
+      ><img
+        src="https://queue.simpleanalyticscdn.com/noscript.gif"
+        alt=""
+        referrerpolicy="no-referrer-when-downgrade"
+    /></noscript>
+    <script
+      data-goatcounter="https://e12.goatcounter.com/count"
+      async
+      src="//gc.zgo.at/count.js"
+    ></script>
   </body>
 </html>

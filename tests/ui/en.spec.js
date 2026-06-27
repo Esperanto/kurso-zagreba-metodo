@@ -14,7 +14,7 @@ test('ĉefpaĝo elektas retumilan lingvon', async ({ browser }) => {
   await expect(primaryLanguage).toHaveAttribute('href', 'fr/');
 
   const languageButton = page.locator('#cxefpagxo-lingvoj-butono');
-  await expect(languageButton).toContainText('📂');
+  await expect(languageButton).toContainText('🌐');
   await expect(languageButton).toHaveClass(/btn-light/);
   await page.locator('#cxefpagxo-lingvoj-butono').click();
 
@@ -72,12 +72,41 @@ test('poŝtelefone vortaro restas inter logo kaj menuo', async ({ page }) => {
   await expect(suggestion).toBeVisible();
 });
 
+test('piedo montras grizajn tri kolumnojn kun permesilaj ligiloj', async ({ page }) => {
+  await page.goto('/en/01/');
+
+  const footer = page.locator('.footer');
+  await expect(footer).toHaveCSS('background-color', 'rgb(136, 136, 136)');
+  await expect(footer.locator('img[src="/assets/img/cc-by.svg"]')).toBeVisible();
+  await expect(footer.getByRole('link', { name: 'Krea komunaĵo' })).toHaveAttribute(
+    'href',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md',
+  );
+  await expect(footer.getByText('Surbaze de la')).toBeVisible();
+  await expect(footer.getByRole('link', { name: 'Zagreba metodo' })).toHaveAttribute(
+    'href',
+    'https://eo.wikipedia.org/wiki/Zagreba_metodo',
+  );
+  await expect(footer.getByRole('link', { name: 'Kontribuantoj' })).toHaveAttribute(
+    'href',
+    /auxtoroj\/$/,
+  );
+  await expect(footer.getByRole('link', { name: 'Kontribuu' })).toHaveAttribute(
+    'href',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md',
+  );
+  await expect(footer.getByText(/⏱︎ Versio: [0-9a-f]{7}/)).toBeVisible();
+
+  const footerBox = await footer.boundingBox();
+  const viewport = page.viewportSize();
+  expect(Math.round(footerBox.x)).toBe(0);
+  expect(Math.abs(footerBox.width - viewport.width)).toBeLessThan(1);
+});
+
 test('ŝvebi super tekstaj vortoj montras tradukajn ŝprucfenestrojn', async ({ page }) => {
   await page.goto('/en/01/');
 
-  await page.getByRole('heading', { name: /1\.\s*Amiko Marko/ })
-    .getByText('Amiko')
-    .hover();
+  await page.locator('.leciona-titolo-teksto > a', { hasText: 'Amiko' }).first().hover();
 
   const popover = page.locator('.popover').filter({
     hasText: 'friend',
@@ -120,6 +149,49 @@ test('navigilo restas supre dum rulumado', async ({ page }) => {
 
   const navbarBox = await page.locator('.navbar').boundingBox();
   expect(navbarBox.y).toBe(0);
+});
+
+test('leciona titolo malfermas lecionliston', async ({ page }) => {
+  await page.goto('/en/01/');
+
+  await expect(page.getByRole('link', { name: 'Lessons' })).toHaveCount(0);
+
+  const lessonButton = page.getByRole('button', { name: /1\./ });
+  await expect(lessonButton).toBeVisible();
+  await expect(lessonButton).toHaveClass(/btn-light/);
+  await expect(lessonButton).toHaveClass(/dropdown-toggle/);
+  await expect(lessonButton).toHaveCSS('background-color', 'rgb(255, 255, 255)');
+  await lessonButton.click();
+
+  const lessonMenu = page.locator('.leciona-menuo-listo.show');
+  await expect(lessonMenu.getByRole('link', { name: /^1\.\s*Amiko Marko/ })).toHaveAttribute('href', '/en/01');
+  await expect(lessonMenu.getByRole('link', { name: /^12\./ })).toHaveAttribute('href', '/en/12');
+});
+
+test('leciona titolo ne falas sub la butonon dum linisalto', async ({ page }) => {
+  await page.setViewportSize({ width: 260, height: 720 });
+  await page.goto('/en/09/');
+
+  const titleMetrics = await page.locator('.leciona-titolo').evaluate((heading) => {
+    const menuBox = heading.querySelector('.leciona-menuo').getBoundingClientRect();
+    const textBox = heading.querySelector('.leciona-titolo-teksto').getBoundingClientRect();
+    const wordBoxes = [...heading.querySelectorAll('.leciona-titolo-teksto > a')]
+      .map((word) => word.getBoundingClientRect());
+    const wordRows = new Set(wordBoxes.map((box) => Math.round(box.top))).size;
+
+    return {
+      centerSpread: Math.abs((menuBox.top + menuBox.height / 2) - (textBox.top + textBox.height / 2)),
+      leftSpread: Math.min(...wordBoxes.map((box) => box.left)) - textBox.left,
+      menuRight: menuBox.right,
+      textLeft: textBox.left,
+      wordRows,
+    };
+  });
+
+  expect(titleMetrics.centerSpread).toBeLessThanOrEqual(2);
+  expect(titleMetrics.textLeft).toBeGreaterThan(titleMetrics.menuRight);
+  expect(titleMetrics.leftSpread).toBeGreaterThanOrEqual(-1);
+  expect(titleMetrics.wordRows).toBeGreaterThan(1);
 });
 
 test('lecionaj langetoj montras ikonojn kun etikedoj sur labortablo', async ({ page }) => {

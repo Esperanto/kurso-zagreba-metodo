@@ -12,12 +12,7 @@
 
   {% include 'pager.html' %}
 
-  <h2 id="leciono{{leciono_index}}">
-    {{leciono_index}}.
-    {% for vorto in leciono.teksto.titolo %}
-      {% include 'vorto.html' %}
-    {% endfor %}
-  </h2>
+  {% include 'leciona-titolo.html' %}
 
   {% include 'tabs.html' %}
 

@@ -134,14 +134,51 @@ h3 {
   top: 0;
   z-index: 1030;
 }
-.vortaro-form-mobile {
-  flex: 1 1 auto;
-  margin: 0 0.5rem;
+.navbar-enhavo {
+  align-items: center;
+  display: flex;
+  gap: 0.75rem;
   min-width: 0;
 }
-.vortaro-form-mobile .twitter-typeahead,
-.vortaro-form-mobile .typeahead {
+.navbar-brand {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.5rem;
+  margin-right: 0;
+  min-width: 0;
+}
+.navbar-retejo {
+  font-weight: 600;
+}
+.navbar-iloj {
+  align-items: center;
+  display: flex;
+  gap: 0.4rem;
+  margin-left: auto;
+  min-width: 0;
+}
+.vortaro-form {
+  flex: 0 1 18rem;
+  min-width: 8rem;
+}
+.vortaro-form .twitter-typeahead,
+.vortaro-form .typeahead {
   width: 100%;
+}
+.navbar-ikona-butono {
+  align-items: center;
+  display: inline-flex;
+  height: 2.375rem;
+  justify-content: center;
+  padding-left: 0.55rem;
+  padding-right: 0.55rem;
+}
+.navbar-ikona-butono.dropdown-toggle::after {
+  display: none;
+}
+.navbar-lingvoj {
+  max-height: min(70vh, 24rem);
+  overflow-y: auto;
 }
 .cxefpagxo {
   margin-bottom: 1.5rem;
@@ -236,37 +273,20 @@ h3 {
   line-height: 1;
 }
 
-@media (max-width: 991.98px) {
-  .navbar .container-fluid {
-    align-items: center;
-    column-gap: 0.5rem;
-    display: grid;
-    grid-template-columns: auto minmax(7rem, 1fr) auto;
+@media (max-width: 575.98px) {
+  .navbar-enhavo {
+    gap: 0.45rem;
   }
-  .navbar-brand {
-    margin-right: 0;
+  .navbar-iloj {
+    gap: 0.25rem;
   }
-  .vortaro-form-mobile {
-    grid-column: 2;
-    margin: 0;
+  .vortaro-form {
+    flex-basis: auto;
+    min-width: 0;
   }
-  .navbar-toggler {
-    grid-column: 3;
-    justify-self: end;
-  }
-  .navbar-collapse {
-    grid-column: 1 / -1;
-  }
-  .navbar .dropdown-menu {
-    --bs-dropdown-bg: #222;
-    --bs-dropdown-border-width: 0;
-    --bs-dropdown-link-color: rgba(255, 255, 255, 0.6);
-    --bs-dropdown-link-hover-bg: #222;
-    --bs-dropdown-link-hover-color: #fff;
-    --bs-dropdown-min-width: 100%;
-  }
-  .navbar .dropdown-item {
-    white-space: normal;
+  .navbar-ikona-butono {
+    padding-left: 0.45rem;
+    padding-right: 0.45rem;
   }
 }
 

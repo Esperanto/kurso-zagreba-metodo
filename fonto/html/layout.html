@@ -26,97 +26,104 @@
     <link href="{{vojprefikso}}../assets/css/vortaro.css" rel="stylesheet" />
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="/"
-          ><img
+    <nav class="navbar navbar-dark bg-dark">
+      <div class="container navbar-enhavo">
+        <a class="navbar-brand" href="/">
+          <img
             id="logo"
             src="/assets/img/logo/logo-64.png"
             width="32"
             height="32"
             alt="Esperanto"
-        /></a>
-        <form class="vortaro-form-mobile d-flex d-lg-none">
-          {% set vortaro_id = 'vortaro-mobile' %} {% include 'vortaro.html' %}
-          {% set vortaro_id = 'vortaro' %}
-        </form>
-        <button
-          type="button"
-          class="navbar-toggler"
-          data-bs-toggle="collapse"
-          data-bs-target="#site-navigation"
-          aria-controls="site-navigation"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
+          />
+          <span class="navbar-retejo d-none d-md-inline">Esperanto12.net</span>
+        </a>
 
-        <div class="collapse navbar-collapse" id="site-navigation">
-          <ul class="navbar-nav mb-2 mb-lg-0">
-            <li class="nav-item dropdown">
-              <a
-                href="#"
-                class="nav-link dropdown-toggle"
-                data-bs-toggle="dropdown"
-                role="button"
-                aria-expanded="false"
-              >
-                {{enhavo.fasado['Aldono']}}
-              </a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a class="dropdown-item" href="{{vojprefikso}}tabelvortoj">
-                    {{enhavo.fasado['Tabelvortoj']}}
-                  </a>
-                </li>
-                <li>
-                  <a class="dropdown-item" href="{{vojprefikso}}prepozicioj">
-                    {{enhavo.fasado['Prepozicioj']}}
-                  </a>
-                </li>
-                <li>
-                  <a class="dropdown-item" href="{{vojprefikso}}konjunkcioj">
-                    {{enhavo.fasado['Konjunkcioj']}}
-                  </a>
-                </li>
-                <li>
-                  <a class="dropdown-item" href="{{vojprefikso}}afiksoj">
-                    {{enhavo.fasado['Afiksoj']}}
-                  </a>
-                </li>
-                <li>
-                  <a class="dropdown-item" href="{{vojprefikso}}diversajxoj">
-                    {{enhavo.fasado['Diversaĵoj']}}
-                  </a>
-                </li>
-              </ul>
-            </li>
-          </ul>
-
-          <form
-            class="vortaro-form-desktop d-none d-lg-flex ms-lg-3 my-2 my-lg-0"
-          >
+        <div class="navbar-iloj">
+          <form class="vortaro-form">
             {% include 'vortaro.html' %}
           </form>
-          <form class="d-flex ms-lg-3 my-2 my-lg-0">
-            <select id="lingvoelektilo" class="form-select">
+
+          <div class="dropdown">
+            <button
+              class="btn btn-dark navbar-ikona-butono dropdown-toggle"
+              type="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+              aria-label="{{enhavo.fasado['Aldono']}}"
+              title="{{enhavo.fasado['Aldono']}}"
+            >
+              📎
+            </button>
+            <ul class="dropdown-menu dropdown-menu-end">
+              <li>
+                <a class="dropdown-item" href="{{vojprefikso}}tabelvortoj">
+                  {{enhavo.fasado['Tabelvortoj']}}
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="{{vojprefikso}}prepozicioj">
+                  {{enhavo.fasado['Prepozicioj']}}
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="{{vojprefikso}}konjunkcioj">
+                  {{enhavo.fasado['Konjunkcioj']}}
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="{{vojprefikso}}afiksoj">
+                  {{enhavo.fasado['Afiksoj']}}
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="{{vojprefikso}}diversajxoj">
+                  {{enhavo.fasado['Diversaĵoj']}}
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="dropdown">
+            <button
+              class="btn btn-dark navbar-ikona-butono dropdown-toggle"
+              type="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+              aria-label="Elekti alian lingvon"
+              title="Elekti alian lingvon"
+            >
+              🌐
+            </button>
+            <ul class="dropdown-menu dropdown-menu-end navbar-lingvoj">
               {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'preta' %}
-                <option value="{{kodo}}"
-                {% if kodo == enhavo.lingvo %}
-                  selected
-                {% endif %}
-                >{{enhavo.lingvoj[kodo].nomo.fontlingve}}</option>
+                <li>
+                  <a
+                    class="dropdown-item lingvoelektilo-ligilo"
+                    href="/{{kodo}}/"
+                    data-lingvo="{{kodo}}"
+                    lang="{{kodo}}"
+                    {% if kodo == enhavo.lingvo %}
+                      aria-current="true"
+                    {% endif %}
+                  >{{enhavo.lingvoj[kodo].nomo.fontlingve}}</a>
+                </li>
               {% endfor %}
               {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'testa' %}
-                <option value="{{kodo}}"
-                {% if kodo == enhavo.lingvo %}
-                  selected
-                {% endif %}
-                >(test: {{enhavo.lingvoj[kodo].nomo.esperante}})</option>
+                <li>
+                  <a
+                    class="dropdown-item lingvoelektilo-ligilo"
+                    href="/{{kodo}}/"
+                    data-lingvo="{{kodo}}"
+                    lang="{{kodo}}"
+                    {% if kodo == enhavo.lingvo %}
+                      aria-current="true"
+                    {% endif %}
+                  >(test: {{enhavo.lingvoj[kodo].nomo.esperante}})</a>
+                </li>
               {% endfor %}
-            </select>
-          </form>
+            </ul>
+          </div>
         </div>
       </div>
     </nav>

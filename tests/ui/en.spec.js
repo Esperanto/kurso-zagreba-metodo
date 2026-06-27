@@ -112,6 +112,16 @@ test('poŝtelefona aldona menuo restas malhela', async ({ page }) => {
   await expect(menu).toHaveCSS('background-color', 'rgb(34, 34, 34)');
 });
 
+test('navigilo restas supre dum rulumado', async ({ page }) => {
+  await page.goto('/en/01/');
+
+  await page.evaluate(() => window.scrollTo(0, 700));
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBeGreaterThan(0);
+
+  const navbarBox = await page.locator('.navbar').boundingBox();
+  expect(navbarBox.y).toBe(0);
+});
+
 test('lecionaj langetoj montras ikonojn kun etikedoj sur labortablo', async ({ page }) => {
   await page.goto('/en/01/');
 

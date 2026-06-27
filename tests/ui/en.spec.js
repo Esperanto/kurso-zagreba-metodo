@@ -168,6 +168,62 @@ test('leciona titolo malfermas lecionliston', async ({ page }) => {
   await expect(lessonMenu.getByRole('link', { name: /^12\./ })).toHaveAttribute('href', '/en/12');
 });
 
+test('lecionaj sagoj estas apud centrita titolo', async ({ page }) => {
+  await page.goto('/en/01/');
+
+  const header = page.locator('.leciona-kapo');
+  await expect(header.getByRole('link', { name: 'Forward' })).toHaveText('▶︎');
+  await expect(header.getByRole('link', { name: 'Forward' })).toHaveAttribute('title', 'forward');
+  await expect(header.getByRole('link', { name: 'Back' })).toHaveCount(0);
+
+  const metrics = await header.evaluate((row) => {
+    const title = row.querySelector('.leciona-titolo').getBoundingClientRect();
+    const next = row.querySelector('.leciona-sago-sekva .btn').getBoundingClientRect();
+    const rowBox = row.getBoundingClientRect();
+
+    return {
+      nextCenterSpread: Math.abs((next.top + next.height / 2) - (title.top + title.height / 2)),
+      nextRightSpread: Math.abs(rowBox.right - next.right),
+      titleCenterSpread: Math.abs((title.left + title.width / 2) - (rowBox.left + rowBox.width / 2)),
+    };
+  });
+
+  expect(metrics.nextCenterSpread).toBeLessThanOrEqual(2);
+  expect(metrics.nextRightSpread).toBeLessThanOrEqual(2);
+  expect(metrics.titleCenterSpread).toBeLessThanOrEqual(2);
+
+  await page.goto('/en/02/');
+  const secondHeader = page.locator('.leciona-kapo');
+  await expect(secondHeader.getByRole('link', { name: 'Back' })).toHaveText('◀︎');
+  await expect(secondHeader.getByRole('link', { name: 'Back' })).toHaveAttribute('title', 'back');
+  await expect(secondHeader.getByRole('link', { name: 'Forward' })).toHaveText('▶︎');
+  await expect(secondHeader.getByRole('link', { name: 'Forward' })).toHaveAttribute('title', 'forward');
+
+  const edgeMetrics = await secondHeader.evaluate((row) => {
+    const previous = row.querySelector('.leciona-sago-antauxa .btn').getBoundingClientRect();
+    const next = row.querySelector('.leciona-sago-sekva .btn').getBoundingClientRect();
+    const rowBox = row.getBoundingClientRect();
+
+    return {
+      previousLeftSpread: Math.abs(previous.left - rowBox.left),
+      nextRightSpread: Math.abs(rowBox.right - next.right),
+    };
+  });
+
+  expect(edgeMetrics.previousLeftSpread).toBeLessThanOrEqual(2);
+  expect(edgeMetrics.nextRightSpread).toBeLessThanOrEqual(2);
+});
+
+test('malsupra pagxilo uzas sagojn kun tradukitaj konsiletoj', async ({ page }) => {
+  await page.goto('/en/02/');
+
+  const pager = page.locator('ul.pager');
+  await expect(pager.getByRole('link', { name: 'Back' })).toHaveText('◀︎');
+  await expect(pager.getByRole('link', { name: 'Back' })).toHaveAttribute('title', 'back');
+  await expect(pager.getByRole('link', { name: 'Forward' })).toHaveText('▶︎');
+  await expect(pager.getByRole('link', { name: 'Forward' })).toHaveAttribute('title', 'forward');
+});
+
 test('leciona titolo ne falas sub la butonon dum linisalto', async ({ page }) => {
   await page.setViewportSize({ width: 260, height: 720 });
   await page.goto('/en/09/');

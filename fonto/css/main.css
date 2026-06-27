@@ -43,11 +43,22 @@ h3 {
   margin-bottom: 10px;
   margin-top: 20px;
 }
+.leciona-kapo {
+  align-items: center;
+  column-gap: 0.75rem;
+  display: grid;
+  grid-template-columns: minmax(2.75rem, 1fr) auto minmax(2.75rem, 1fr);
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
 .leciona-titolo {
   align-items: center;
   column-gap: 0.5rem;
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
+  justify-self: center;
+  margin: 0;
+  max-width: 100%;
 }
 .leciona-menuo {
   display: inline-flex;
@@ -92,6 +103,26 @@ h3 {
 }
 .leciona-titolo-teksto {
   min-width: 0;
+}
+.leciona-sago {
+  align-items: center;
+  display: flex;
+}
+.leciona-sago .btn {
+  align-items: center;
+  display: inline-flex;
+  font-size: 1rem;
+  height: 2.25rem;
+  justify-content: center;
+  line-height: 1;
+  padding: 0;
+  width: 2.25rem;
+}
+.leciona-sago-antauxa {
+  justify-content: start;
+}
+.leciona-sago-sekva {
+  justify-content: end;
 }
 
 .navbar {

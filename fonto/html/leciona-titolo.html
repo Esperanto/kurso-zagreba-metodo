@@ -1,21 +1,35 @@
-<h2 id="leciono{{leciono_index}}" class="leciona-titolo" aria-label="{{leciono_index}}. {{leciono.teksto.titolo_string}}">
-  <span class="dropdown leciona-menuo">
-    <button class="btn btn-light dropdown-toggle leciona-menuo-butono" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-      {{leciono_index}}.
-    </button>
-    <ul class="dropdown-menu leciona-menuo-listo">
-      {% for menu_leciono in enhavo.lecionoj %}
-        <li>
-          <a class="dropdown-item" href="{{vojprefikso}}{{menu_leciono.indekso.cxene}}">
-            {{menu_leciono.indekso.cifre}}. {{menu_leciono.teksto.titolo_string}}
-          </a>
-        </li>
+<div class="leciona-kapo">
+  <span class="leciona-sago leciona-sago-antauxa">
+    {% if previous_path -%}
+      <a class="btn btn-outline-secondary" href="{{previous_path}}" aria-label="{{enhavo.fasado['malantaŭen']}}" title="{{enhavo.fasado['malantaŭen']}}">◀︎</a>
+    {%- endif %}
+  </span>
+
+  <h2 id="leciono{{leciono_index}}" class="leciona-titolo" aria-label="{{leciono_index}}. {{leciono.teksto.titolo_string}}">
+    <span class="dropdown leciona-menuo">
+      <button class="btn btn-light dropdown-toggle leciona-menuo-butono" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+        {{leciono_index}}.
+      </button>
+      <ul class="dropdown-menu leciona-menuo-listo">
+        {% for menu_leciono in enhavo.lecionoj %}
+          <li>
+            <a class="dropdown-item" href="{{vojprefikso}}{{menu_leciono.indekso.cxene}}">
+              {{menu_leciono.indekso.cifre}}. {{menu_leciono.teksto.titolo_string}}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </span>
+    <span class="leciona-titolo-teksto">
+      {% for vorto in leciono.teksto.titolo %}
+        {% include 'vorto.html' %}
       {% endfor %}
-    </ul>
+    </span>
+  </h2>
+
+  <span class="leciona-sago leciona-sago-sekva">
+    {% if next_path -%}
+      <a class="btn btn-outline-secondary" href="{{next_path}}" aria-label="{{enhavo.fasado['antaŭen']}}" title="{{enhavo.fasado['antaŭen']}}">▶︎</a>
+    {%- endif %}
   </span>
-  <span class="leciona-titolo-teksto">
-    {% for vorto in leciono.teksto.titolo %}
-      {% include 'vorto.html' %}
-    {% endfor %}
-  </span>
-</h2>
+</div>

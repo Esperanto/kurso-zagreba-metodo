@@ -156,7 +156,7 @@ h3 {
 .navbar-iloj {
   align-items: center;
   display: flex;
-  flex: 1 1 auto;
+  flex: 0 0 auto;
   gap: 0.4rem;
   margin-left: auto;
   min-width: 0;

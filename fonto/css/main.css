@@ -147,10 +147,11 @@ h3 {
   padding-left: 1.4rem;
 }
 .gramatika-enhavtabelo li {
+  list-style-position: inside;
   margin-right: 1.5rem;
-  padding-left: 0.35rem;
 }
 .gramatika-enhavtabelo a {
+  margin-left: 0.35rem;
   text-decoration: none;
 }
 .gramatika-teksto :is(h1, h2, h3, h4, h5, h6) {

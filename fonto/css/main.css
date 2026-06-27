@@ -131,6 +131,26 @@ h3 {
 }
 
 @media (max-width: 991.98px) {
+  .navbar .container-fluid {
+    align-items: center;
+    column-gap: 0.5rem;
+    display: grid;
+    grid-template-columns: auto minmax(7rem, 1fr) auto;
+  }
+  .navbar-brand {
+    margin-right: 0;
+  }
+  .vortaro-form-mobile {
+    grid-column: 2;
+    margin: 0;
+  }
+  .navbar-toggler {
+    grid-column: 3;
+    justify-self: end;
+  }
+  .navbar-collapse {
+    grid-column: 1 / -1;
+  }
   .navbar .dropdown-menu {
     --bs-dropdown-bg: #222;
     --bs-dropdown-border-width: 0;

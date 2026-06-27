@@ -43,7 +43,7 @@ test('vortaro montras tradukon dum tajpado', async ({ page }) => {
 });
 
 test('poŝtelefone vortaro restas inter logo kaj menuo', async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 720 });
+  await page.setViewportSize({ width: 360, height: 720 });
   await page.goto('/en/01/');
 
   const mobileDictionary = page.locator('#vortaro-mobile');
@@ -53,9 +53,13 @@ test('poŝtelefone vortaro restas inter logo kaj menuo', async ({ page }) => {
   const logoBox = await page.locator('.navbar-brand').boundingBox();
   const dictionaryBox = await mobileDictionary.boundingBox();
   const menuBox = await page.getByRole('button', { name: 'Toggle navigation' }).boundingBox();
+  const navbarBox = await page.locator('.navbar').boundingBox();
 
   expect(dictionaryBox.x).toBeGreaterThan(logoBox.x + logoBox.width - 1);
   expect(dictionaryBox.x + dictionaryBox.width).toBeLessThan(menuBox.x + 1);
+  expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (logoBox.y + logoBox.height / 2))).toBeLessThan(3);
+  expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (menuBox.y + menuBox.height / 2))).toBeLessThan(3);
+  expect(navbarBox.height).toBeLessThan(70);
 
   await mobileDictionary.fill('est');
 

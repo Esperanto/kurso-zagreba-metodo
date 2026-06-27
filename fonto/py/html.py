@@ -11,6 +11,7 @@ import jinja2
 from markupsafe import Markup
 import mistune
 
+from .ankroj import forigu_html, unika_ankro
 from . import pwa
 
 
@@ -36,6 +37,28 @@ def morfema_emfazo(md):
         parse_morfema_emfazo,
         before='emphasis',
     )
+
+
+class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
+    def __init__(self):
+        super().__init__()
+        self._uzitaj_ankroj = {}
+
+    def heading(self, text, level, **attrs):
+        ankro = unika_ankro(forigu_html(text), self._uzitaj_ankroj)
+        return '<h{level} id="{ankro}">{text}</h{level}>\n'.format(
+            ankro=mistune.escape(ankro),
+            level=level,
+            text=text,
+        )
+
+
+def render_markdown(text):
+    md = mistune.create_markdown(
+        renderer=AnkrohavaHTMLRenderer(),
+        plugins=[morfema_emfazo],
+    )
+    return Markup(md(text))
 
 
 def render_page(name, enhavo, vojprefikso, env):
@@ -257,7 +280,6 @@ def generate_html(
     cxefpagxaj_lingvoj=None,
 ):
     eligo = {}
-    md = mistune.create_markdown(plugins=[morfema_emfazo])
     versio = get_version_hash()
     enhavo['versio'] = versio
     if kopiu_statikan:
@@ -268,7 +290,7 @@ def generate_html(
         )
 
     env = jinja2.Environment(auto_reload=False)
-    env.filters['markdown'] = lambda text: Markup(md(text))
+    env.filters['markdown'] = render_markdown
     env.trim_blocks = True
     env.lstrip_blocks = True
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))

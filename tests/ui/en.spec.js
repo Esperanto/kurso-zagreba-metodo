@@ -303,6 +303,33 @@ test('poŝtelefone nur aktiva leciona langeto montras etikedon', async ({ page }
   await expect(grammarTab).toContainText('Grammar');
 });
 
+test('gramatika enhavtabelo aperas dekstre sur labortablo', async ({ page }) => {
+  await page.setViewportSize({ width: 1024, height: 720 });
+  await page.goto('/en/01/gramatiko/');
+
+  const toc = page.locator('.gramatika-enhavtabelo');
+  await expect(toc).toBeVisible();
+  await expect(toc.getByRole('link', { name: 'Alphabet' })).toHaveAttribute('href', '#alphabet');
+  await expect(toc.getByRole('link', { name: 'Pronunciation' })).toHaveAttribute('href', '#pronunciation');
+  await expect(toc.getByRole('link', { name: 'Ĉu?' })).toBeVisible();
+  await expect(toc).not.toContainText('*Ĉu?*');
+  await expect(page.locator('h3#alphabet')).toHaveText('Alphabet');
+
+  const boxes = await page.evaluate(() => {
+    const content = document.querySelector('main .col-sm-12').getBoundingClientRect();
+    const tocBox = document.querySelector('.gramatika-enhavtabelo').getBoundingClientRect();
+    return {
+      contentLeft: content.left,
+      contentRight: content.right,
+      tocLeft: tocBox.left,
+      tocRight: tocBox.right,
+    };
+  });
+
+  expect(boxes.tocLeft).toBeGreaterThan(boxes.contentLeft + 0.5 * (boxes.contentRight - boxes.contentLeft));
+  expect(boxes.tocRight).toBeLessThanOrEqual(boxes.contentRight + 1);
+});
+
 test('aktiva leciona langeto havas kampecan fonon', async ({ page }) => {
   await page.goto('/en/01/ekzerco3/');
 

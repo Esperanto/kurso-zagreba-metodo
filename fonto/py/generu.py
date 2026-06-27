@@ -8,6 +8,7 @@ from pathlib import Path
 
 from . import html as html_generilo
 from . import md as md_generilo
+from .ankroj import unika_ankro
 
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
@@ -34,7 +35,18 @@ def transpose_headlines(markdown, level):
 
 
 def get_markdown_headlines(s):
-    return [match.group(2).strip() for match in re.finditer(r'(^|\n)# (.+)\n', s)]
+    def purigu_titolon(markdown_titolo):
+        return re.sub(r'[`*_]+', '', markdown_titolo).strip()
+
+    uzitaj = {}
+    titoloj = []
+    for match in re.finditer(r'(^|\n)# (.+)\n', s):
+        titolo = purigu_titolon(match.group(2))
+        titoloj.append({
+            'titolo': titolo,
+            'ankro': unika_ankro(titolo, uzitaj),
+        })
+    return titoloj
 
 
 def load(language, gramatiko_transpose_headlines=2):

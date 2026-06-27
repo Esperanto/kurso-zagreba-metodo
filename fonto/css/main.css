@@ -49,6 +49,13 @@ h3 {
 .cxefpagxo-logo {
   flex: 0 0 auto;
 }
+.cxefpagxo-elektilo {
+  margin-top: 2rem;
+}
+#cxefpagxo-lingvoj {
+  max-height: min(70vh, 24rem);
+  overflow-y: auto;
+}
 
 .nav-tabs .nav-link {
   align-items: center;
@@ -260,16 +267,6 @@ ol.tasko {
 	width: 32px;
 }
 
-.lingvolisto {
-	margin: 0;
-	margin-top: 2em;
-  padding: 0;
-  list-style-type: none;
-}
-.lingvolisto li {
-	display: inline-block;
-	padding: 0.2em;
-}
 #eksporto {
 	float: right;
   margin-top: 1em;

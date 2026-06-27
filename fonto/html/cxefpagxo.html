@@ -41,44 +41,20 @@
   <div class="cxefpagxo-kapo d-flex align-items-center gap-3 flex-wrap">
     <img class="cxefpagxo-logo" src="/assets/img/logo/logo-256.png" width="96" height="96" alt="">
     <div>
-      <h1 class="display-3">{{fasado['Esperanto en 12 lecionoj']}}</h1>
-      <p class="lead mb-0">{{fasado['La plej rapida kurso por la bazoj']}}</p>
+      <div id="cxefpagxo-teksto">
+        <h1 id="cxefpagxo-titolo" class="display-3">{{fasado['Esperanto en 12 lecionoj']}}</h1>
+        <p id="cxefpagxo-subtitolo" class="lead mb-0">{{fasado['La plej rapida kurso por la bazoj']}}</p>
+      </div>
     </div>
   </div>
-	<ul class="lingvolisto">
-		<li><a class="btn btn-outline-secondary" href="ar/" title="araba">العربية</a></li>
-		<li><a class="btn btn-outline-secondary" href="ca/" title="kataluna">Català</a></li>
-		<li><a class="btn btn-outline-secondary" href="cs/" title="ĉeĥa">Čeština</a></li>
-		<li><a class="btn btn-outline-secondary" href="de/" title="germana">Deutsch</a></li>
-		<li><a class="btn btn-outline-secondary" href="da/" title="dana">Dansk</a></li>
-		<li><a class="btn btn-outline-secondary" href="el/" title="greka">Ελληνικά</a></li>
-		<li><a class="btn btn-outline-secondary" href="en/" title="angla">English</a></li>
-		<li><a class="btn btn-outline-secondary" href="es/" title="hispana">Español</a></li>
-		<li><a class="btn btn-outline-secondary" href="fa/" title="persa">فارسی</a></li>
-		<li><a class="btn btn-outline-secondary" href="fr/" title="franca">Français</a></li>
-		<li><a class="btn btn-outline-secondary" href="ga/" title="irlanda">Gaeilge</a></li>
-		<li><a class="btn btn-outline-secondary" href="he/" title="hebrea">עברית</a></li>
-		<li><a class="btn btn-outline-secondary" href="hr/" title="kroata">Hrvatski</a></li>
-		<li><a class="btn btn-outline-secondary" href="hu/" title="hungara">Magyar</a></li>
-		<li><a class="btn btn-outline-secondary" href="id/" title="indonezia">Bahasa Indonesia</a></li>
-		<li><a class="btn btn-outline-secondary" href="it/" title="itala">Italiano</a></li>
-		<li><a class="btn btn-outline-secondary" href="ja/" title="japana">日本語</a></li>
-		<li><a class="btn btn-outline-secondary" href="ko/" title="korea">한국어</a></li>
-		<li><a class="btn btn-outline-secondary" href="ms/" title="malaja">Bahasa Melayu</a></li>
-		<li><a class="btn btn-outline-secondary" href="nl/" title="nederlanda">Nederlands</a></li>
-		<li><a class="btn btn-outline-secondary" href="pl/" title="pola">Polski</a></li>
-		<li><a class="btn btn-outline-secondary" href="pt/" title="portugala">Português</a></li>
-		<li><a class="btn btn-outline-secondary" href="ru/" title="rusa">Русский</a></li>
-		<li><a class="btn btn-outline-secondary" href="sk/" title="slovaka">Slovenčina</a></li>
-		<li><a class="btn btn-outline-secondary" href="sl/" title="slovena">Slovenščina</a></li>
-		<li><a class="btn btn-outline-secondary" href="sv/" title="sveda">Svenska</a></li>
-		<li><a class="btn btn-outline-secondary" href="th/" title="taja">ภาษาไทย</a></li>
-		<li><a class="btn btn-outline-secondary" href="tr/" title="turka">Türkçe</a></li>
-		<li><a class="btn btn-outline-secondary" href="uk/" title="ukraina">Українська</a></li>
-		<li><a class="btn btn-outline-secondary" href="vi/" title="vjetnama">Tiếng Việt</a></li>
-		<li><a class="btn btn-outline-secondary" href="zh/" title="ĉina">中文</a></li>
-		<li><a class="btn btn-outline-secondary" href="zh-tw/" title="tradicia ĉina">正體中文</a></li>
-	</ul>
+  <div class="cxefpagxo-elektilo d-flex gap-2 flex-wrap">
+    <a id="cxefpagxo-cxefa-lingvo" class="btn btn-primary btn-lg" href="en/" title="English">Start</a>
+    <div class="dropdown">
+      <button id="cxefpagxo-lingvoj-butono" class="btn btn-secondary btn-lg dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Elekti alian lingvon">📂</button>
+      <ul id="cxefpagxo-lingvoj" class="dropdown-menu"></ul>
+    </div>
+  </div>
+  <script id="cxefpagxo-lingvodatenoj" type="application/json">{{cxefpagxaj_lingvoj|tojson}}</script>
   </div>         
 
         
@@ -113,6 +89,7 @@
     <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <script src="/vendor/typeahead/typeahead.bundle.min.js"></script>
+    <script src="assets/js/cxefpagxo.js"></script>
 
 			<!-- 100% privacy-first analytics -->
     <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>

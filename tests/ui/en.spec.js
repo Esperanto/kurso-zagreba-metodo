@@ -1,5 +1,28 @@
 const { expect, test } = require('@playwright/test');
 
+test('ĉefpaĝo elektas retumilan lingvon', async ({ browser }) => {
+  const context = await browser.newContext({ locale: 'fr-FR' });
+  const page = await context.newPage();
+
+  await page.goto('/');
+
+  await expect(page.getByRole('heading', { name: "L'espéranto en 12 leçons" })).toBeVisible();
+  await expect(page.getByText('Le cours le plus rapide pour apprendre les bases')).toBeVisible();
+
+  const primaryLanguage = page.locator('#cxefpagxo-cxefa-lingvo');
+  await expect(primaryLanguage).toHaveText('Démarrer');
+  await expect(primaryLanguage).toHaveAttribute('href', 'fr/');
+
+  await expect(page.locator('#cxefpagxo-lingvoj-butono')).toContainText('📂');
+  await page.locator('#cxefpagxo-lingvoj-butono').click();
+
+  const languageMenu = page.locator('#cxefpagxo-lingvoj');
+  await expect(languageMenu.getByRole('link', { name: 'English' })).toBeVisible();
+  await expect(languageMenu.getByRole('link', { name: 'Français' })).toHaveCount(0);
+
+  await context.close();
+});
+
 test('vortaro montras tradukon dum tajpado', async ({ page }) => {
   await page.goto('/en/01/');
 

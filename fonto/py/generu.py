@@ -15,6 +15,8 @@ AGORDOJ_DIR = ROOT_DIR / 'agordoj'
 ENHAVO_DIR = ROOT_DIR / 'enhavo'
 LECION_NUMEROJ = range(1, 13)
 YAML_LOADER = getattr(yaml, 'CSafeLoader', yaml.SafeLoader)
+CXEFPAGXO_TITOLO = 'Esperanto en 12 lecionoj'
+CXEFPAGXO_SUBTITOLO = 'La plej rapida kurso por la bazoj'
 
 
 def legi_yaml(path):
@@ -212,9 +214,40 @@ def kompletigu_enhavon(lingvo, lingvoj, gramatiko_transpose_headlines=2):
     return enhavo
 
 
+def legi_cxefpagxan_fasadon(lingvo, defauxlta_fasado=None):
+    fasado = dict(defauxlta_fasado or {})
+    path = ENHAVO_DIR / 'tradukenda' / lingvo / 'fasado' / 'cxefpagxo.yml'
+    if path.is_file():
+        fasado.update(legi_yaml(path) or {})
+    return fasado
+
+
+def cxefpagxaj_lingvoj(lingvoj):
+    defauxlta_fasado = legi_cxefpagxan_fasadon('en')
+    rezulto = []
+    for kodo in sorted(lingvoj):
+        lingvo = lingvoj[kodo]
+        if lingvo.get('stato') != 'preta':
+            continue
+
+        nomo = lingvo.get('nomo', {})
+        fasado = legi_cxefpagxan_fasadon(kodo, defauxlta_fasado)
+        rezulto.append({
+            'kodo': kodo,
+            'nomo': nomo.get('fontlingve', kodo),
+            'esperanta_nomo': nomo.get('esperante', kodo),
+            'tekstodirekto': lingvo.get('tekstodirekto', 'ltr'),
+            'titolo': fasado.get(CXEFPAGXO_TITOLO, defauxlta_fasado[CXEFPAGXO_TITOLO]),
+            'subtitolo': fasado.get(CXEFPAGXO_SUBTITOLO, defauxlta_fasado[CXEFPAGXO_SUBTITOLO]),
+            'ek': fasado.get('Ek', defauxlta_fasado['Ek']),
+        })
+    return rezulto
+
+
 def generu_html_por_lingvoj(args, lingvoj):
     por_generi = args.lingvoj or [args.lingvo]
-    cxefpagxa_fasado = legi_yaml(ENHAVO_DIR / 'tradukenda' / 'en' / 'fasado' / 'cxefpagxo.yml')
+    cxefpagxa_fasado = legi_cxefpagxan_fasadon('en')
+    cxefpagxaj_lingvoj_datenoj = cxefpagxaj_lingvoj(lingvoj)
     for index, lingvo in enumerate(por_generi):
         if args.lingvoj:
             print('Generas HTML por ' + lingvo, flush=True)
@@ -225,6 +258,7 @@ def generu_html_por_lingvoj(args, lingvoj):
             args,
             kopiu_statikan=(index == 0),
             cxefpagxa_fasado=cxefpagxa_fasado,
+            cxefpagxaj_lingvoj=cxefpagxaj_lingvoj_datenoj,
         )
     html_generilo.generate_pwa()
 

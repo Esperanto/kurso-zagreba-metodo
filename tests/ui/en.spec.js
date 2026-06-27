@@ -156,8 +156,9 @@ test('leciona titolo malfermas lecionliston', async ({ page }) => {
 
   await expect(page.getByRole('link', { name: 'Lessons' })).toHaveCount(0);
 
-  const lessonButton = page.getByRole('button', { name: /▼\s*1\./ });
+  const lessonButton = page.getByRole('button', { name: /1\./ });
   await expect(lessonButton).toBeVisible();
+  await expect(lessonButton).toHaveClass(/dropdown-toggle/);
   await lessonButton.click();
 
   const lessonMenu = page.locator('.leciona-menuo-listo.show');

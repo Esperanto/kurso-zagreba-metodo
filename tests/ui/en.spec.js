@@ -106,7 +106,7 @@ test('piedo montras grizajn tri kolumnojn kun permesilaj ligiloj', async ({ page
 test('ŝvebi super tekstaj vortoj montras tradukajn ŝprucfenestrojn', async ({ page }) => {
   await page.goto('/en/01/');
 
-  await page.locator('h2.leciona-titolo > a', { hasText: 'Amiko' }).first().hover();
+  await page.locator('.leciona-titolo-teksto > a', { hasText: 'Amiko' }).first().hover();
 
   const popover = page.locator('.popover').filter({
     hasText: 'friend',
@@ -166,6 +166,32 @@ test('leciona titolo malfermas lecionliston', async ({ page }) => {
   const lessonMenu = page.locator('.leciona-menuo-listo.show');
   await expect(lessonMenu.getByRole('link', { name: /^1\.\s*Amiko Marko/ })).toHaveAttribute('href', '/en/01');
   await expect(lessonMenu.getByRole('link', { name: /^12\./ })).toHaveAttribute('href', '/en/12');
+});
+
+test('leciona titolo ne falas sub la butonon dum linisalto', async ({ page }) => {
+  await page.setViewportSize({ width: 260, height: 720 });
+  await page.goto('/en/09/');
+
+  const titleMetrics = await page.locator('.leciona-titolo').evaluate((heading) => {
+    const menuBox = heading.querySelector('.leciona-menuo').getBoundingClientRect();
+    const textBox = heading.querySelector('.leciona-titolo-teksto').getBoundingClientRect();
+    const wordBoxes = [...heading.querySelectorAll('.leciona-titolo-teksto > a')]
+      .map((word) => word.getBoundingClientRect());
+    const wordRows = new Set(wordBoxes.map((box) => Math.round(box.top))).size;
+
+    return {
+      centerSpread: Math.abs((menuBox.top + menuBox.height / 2) - (textBox.top + textBox.height / 2)),
+      leftSpread: Math.min(...wordBoxes.map((box) => box.left)) - textBox.left,
+      menuRight: menuBox.right,
+      textLeft: textBox.left,
+      wordRows,
+    };
+  });
+
+  expect(titleMetrics.centerSpread).toBeLessThanOrEqual(2);
+  expect(titleMetrics.textLeft).toBeGreaterThan(titleMetrics.menuRight);
+  expect(titleMetrics.leftSpread).toBeGreaterThanOrEqual(-1);
+  expect(titleMetrics.wordRows).toBeGreaterThan(1);
 });
 
 test('lecionaj langetoj montras ikonojn kun etikedoj sur labortablo', async ({ page }) => {

@@ -13,7 +13,9 @@
       {% endfor %}
     </ul>
   </span>
-  {% for vorto in leciono.teksto.titolo %}
-    {% include 'vorto.html' %}
-  {% endfor %}
+  <span class="leciona-titolo-teksto">
+    {% for vorto in leciono.teksto.titolo %}
+      {% include 'vorto.html' %}
+    {% endfor %}
+  </span>
 </h2>

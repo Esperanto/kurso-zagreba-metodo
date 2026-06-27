@@ -50,6 +50,15 @@ h3 {
   padding-bottom: 0;
   padding-top: 0;
 }
+.vortaro-form-mobile {
+  flex: 1 1 auto;
+  margin: 0 0.5rem;
+  min-width: 0;
+}
+.vortaro-form-mobile .twitter-typeahead,
+.vortaro-form-mobile .typeahead {
+  width: 100%;
+}
 .cxefpagxo {
   margin-bottom: 1.5rem;
   padding: 1.5rem 0;

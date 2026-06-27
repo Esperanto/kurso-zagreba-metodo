@@ -26,6 +26,11 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
         <a class="navbar-brand" href="/"><img id="logo" src="/assets/img/logo/logo-64.png" width="32" height="32" alt="Esperanto"></a>
+        <form class="vortaro-form-mobile d-flex d-lg-none">
+          {% set vortaro_id = 'vortaro-mobile' %}
+          {% include 'vortaro.html' %}
+          {% set vortaro_id = 'vortaro' %}
+        </form>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#site-navigation" aria-controls="site-navigation" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -66,7 +71,7 @@
             </li>
           </ul>
 
-          <form class="d-flex ms-lg-3 my-2 my-lg-0">
+          <form class="vortaro-form-desktop d-none d-lg-flex ms-lg-3 my-2 my-lg-0">
             {% include 'vortaro.html' %}
           </form>
           <form class="d-flex ms-lg-3 my-2 my-lg-0">

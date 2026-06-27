@@ -55,7 +55,7 @@ h3 {
   align-items: center;
   column-gap: 0.5rem;
   display: grid;
-  font-size: 28px;
+  font-size: 26px;
   grid-template-columns: auto minmax(0, 1fr);
   justify-self: center;
   margin: 0;

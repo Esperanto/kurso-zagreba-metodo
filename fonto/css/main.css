@@ -294,6 +294,7 @@ h3 {
   }
   .vortaro-form {
     flex-basis: auto;
+    max-width: none;
     min-width: 0;
   }
   .navbar-ikona-butono {

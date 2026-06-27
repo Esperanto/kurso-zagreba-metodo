@@ -112,7 +112,7 @@ h3 {
   overflow-y: auto;
 }
 .footer {
-  background: #000;
+  background: #212529;
   color: rgba(255, 255, 255, 0.75);
   margin-top: auto;
   padding: 1.25rem 0;
@@ -126,6 +126,16 @@ h3 {
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
+}
+.footer-licenco {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.5rem;
+}
+.footer-licenco img {
+  flex: 0 0 auto;
+  height: 31px;
+  width: 88px;
 }
 
 .nav-tabs .nav-link {

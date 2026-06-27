@@ -91,15 +91,22 @@ def main():
     for path in [
         md_out,
         output_dir / 'index.html',
+        output_dir / 'favicon.ico',
+        output_dir / 'apple-touch-icon.png',
         lingvo_dir / 'index.html',
         output_dir / 'assets' / 'css' / 'main.css',
         output_dir / 'assets' / 'js' / 'main.js',
+        output_dir / 'assets' / 'img' / 'logo' / 'logo-64.png',
+        output_dir / 'assets' / 'img' / 'logo' / 'logo-256.png',
+        output_dir / 'assets' / 'img' / 'logo' / 'favicon-16x16.png',
+        output_dir / 'assets' / 'img' / 'logo' / 'favicon-32x32.png',
         output_dir / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css',
         output_dir / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js',
         output_dir / 'manifest.webmanifest',
         output_dir / 'manifest.json',
         output_dir / 'pwa' / 'registru.js',
-        output_dir / 'pwa' / 'images' / 'ecbc30ce-3901-d33d-412d-10551879846f.webPlatform.png',
+        output_dir / 'pwa' / 'images' / 'icon-192.png',
+        output_dir / 'pwa' / 'images' / 'icon-512.png',
         output_dir / 'sw.js',
     ]:
         require_nonempty_file(path)

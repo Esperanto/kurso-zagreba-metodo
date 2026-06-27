@@ -214,11 +214,18 @@ def kompletigu_enhavon(lingvo, lingvoj, gramatiko_transpose_headlines=2):
 
 def generu_html_por_lingvoj(args, lingvoj):
     por_generi = args.lingvoj or [args.lingvo]
+    cxefpagxa_fasado = legi_yaml(ENHAVO_DIR / 'tradukenda' / 'en' / 'fasado' / 'cxefpagxo.yml')
     for index, lingvo in enumerate(por_generi):
         if args.lingvoj:
             print('Generas HTML por ' + lingvo, flush=True)
         enhavo = kompletigu_enhavon(lingvo, lingvoj)
-        html_generilo.generate_html(lingvo, enhavo, args, kopiu_statikan=(index == 0))
+        html_generilo.generate_html(
+            lingvo,
+            enhavo,
+            args,
+            kopiu_statikan=(index == 0),
+            cxefpagxa_fasado=cxefpagxa_fasado,
+        )
     html_generilo.generate_pwa()
 
 

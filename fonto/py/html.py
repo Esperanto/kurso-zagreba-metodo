@@ -168,19 +168,21 @@ def create_anki(enhavo):
     return deck
 
 
-def render_cxefpagxo(versio):
+def render_cxefpagxo(versio, fasado):
     env = jinja2.Environment(auto_reload=False)
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))
-    return env.get_template('cxefpagxo.html').render(versio=versio)
+    return env.get_template('cxefpagxo.html').render(
+        fasado=fasado,
+        versio=versio,
+    )
 
 
-def copy_static_files(versio):
+def copy_static_files(versio, cxefpagxa_fasado):
     static_dirs = [
         (FONTO_DIR / 'css', OUTPUT_DIR / 'assets' / 'css'),
         (FONTO_DIR / 'js', OUTPUT_DIR / 'assets' / 'js'),
         (FONTO_DIR / 'sonoj' / 'mp3', OUTPUT_DIR / 'assets' / 'mp3'),
         (FONTO_DIR / 'sonoj' / 'ogg', OUTPUT_DIR / 'assets' / 'ogg'),
-        (FONTO_DIR / 'bildoj', OUTPUT_DIR / 'assets' / 'img'),
     ]
     vendor_files = [
         (
@@ -206,13 +208,24 @@ def copy_static_files(versio):
     ]
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    write_file(str(OUTPUT_DIR / 'index.html'), render_cxefpagxo(versio))
-    shutil.copy2(FONTO_DIR / 'bildoj' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
+    write_file(
+        str(OUTPUT_DIR / 'index.html'),
+        render_cxefpagxo(versio, cxefpagxa_fasado),
+    )
+    shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
+    shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'apple-touch-icon.png', OUTPUT_DIR / 'apple-touch-icon.png')
     pwa.copy_static_assets(OUTPUT_DIR)
 
     for fonto, celo in static_dirs:
         shutil.rmtree(celo, ignore_errors=True)
         shutil.copytree(fonto, celo)
+
+    shutil.rmtree(OUTPUT_DIR / 'assets' / 'img', ignore_errors=True)
+    shutil.copytree(
+        FONTO_DIR / 'bildoj',
+        OUTPUT_DIR / 'assets' / 'img',
+        ignore=shutil.ignore_patterns('icon-192.png', 'icon-512.png'),
+    )
 
     shutil.rmtree(OUTPUT_DIR / 'vendor', ignore_errors=True)
     for fonto, celo in vendor_files:
@@ -223,13 +236,13 @@ def generate_pwa():
     pwa.write_service_worker(OUTPUT_DIR, get_version_hash())
 
 
-def generate_html(lingvo, enhavo, args, kopiu_statikan=True):
+def generate_html(lingvo, enhavo, args, kopiu_statikan=True, cxefpagxa_fasado=None):
     eligo = {}
     md = mistune.create_markdown(plugins=[morfema_emfazo])
     versio = get_version_hash()
     enhavo['versio'] = versio
     if kopiu_statikan:
-        copy_static_files(versio)
+        copy_static_files(versio, cxefpagxa_fasado or enhavo['fasado'])
 
     env = jinja2.Environment(auto_reload=False)
     env.filters['markdown'] = lambda text: Markup(md(text))

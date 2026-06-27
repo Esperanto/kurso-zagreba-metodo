@@ -21,6 +21,7 @@ test('ĉefpaĝo elektas retumilan lingvon', async ({ browser }) => {
   const languageMenu = page.locator('#cxefpagxo-lingvoj');
   await expect(languageMenu.getByRole('link', { name: 'English' })).toBeVisible();
   await expect(languageMenu.getByRole('link', { name: 'Français' })).toHaveCount(0);
+  await expect(page.locator('.cxefpagxo-pri-esperanto a')).toHaveAttribute('href', 'https://esperanto.net/');
   await expect(page.getByText('Subtenita de la')).toBeVisible();
   await expect(page.getByRole('link', { name: 'Universala Esperanto Asocio' })).toBeVisible();
 

@@ -80,14 +80,20 @@ h3 {
   justify-content: center;
   margin-top: 2rem;
 }
+.cxefpagxo-pri-esperanto {
+  margin-top: 2.5rem;
+}
 .cxefpagxo-subteno {
   font-size: 1.05rem;
-  margin-top: 1.75rem;
+  margin-top: 1.5rem;
 }
 .cxefpagxo-subteno img {
   height: 2.2rem;
   margin-right: 0.35rem;
   width: auto;
+}
+.cxefpagxo-subteno a {
+  white-space: nowrap;
 }
 #cxefpagxo-lingvoj {
   max-height: min(70vh, 24rem);
@@ -126,6 +132,12 @@ h3 {
   }
   .navbar .dropdown-item {
     white-space: normal;
+  }
+}
+
+@media (min-width: 768px) {
+  .cxefpagxo-kapo {
+    flex-direction: column;
   }
 }
 

@@ -5,6 +5,7 @@
     "node": "24.14.1"
   },
   "dependencies": {
+    "@fontsource/fira-sans": "^5.2.7",
     "bootstrap": "5.3.8",
     "jquery": "3.7.1",
     "jquery-ui-dist": "1.13.3",

@@ -5,6 +5,7 @@
   --bs-link-hover-color: #23527c;
   --bs-link-hover-color-rgb: 35, 82, 124;
   --exercise-field-bg: #f0f0f0;
+  --toc-bg: #f8f9fa;
 }
 
 .container {
@@ -130,7 +131,7 @@ h3 {
   justify-content: end;
 }
 .gramatika-enhavtabelo {
-  background-color: var(--exercise-field-bg);
+  background-color: var(--toc-bg);
   border: 1px solid var(--bs-border-color);
   border-radius: var(--bs-border-radius);
   font-size: 0.95rem;
@@ -138,20 +139,14 @@ h3 {
   padding: 0.75rem 1rem;
 }
 .gramatika-enhavtabelo ol {
-  counter-reset: gramatika-enhavo;
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem 1.25rem;
   margin-bottom: 0;
-  padding-left: 0;
+  padding-left: 1.4rem;
 }
 .gramatika-enhavtabelo li {
-  counter-increment: gramatika-enhavo;
-  list-style: none;
-}
-.gramatika-enhavtabelo li::before {
-  content: counter(gramatika-enhavo) ".";
-  margin-right: 0.4rem;
+  padding-left: 0.35rem;
 }
 .gramatika-enhavtabelo a {
   text-decoration: none;
@@ -335,16 +330,27 @@ h3 {
 }
 
 @media (min-width: 768px) {
+  .gramatika-korpo {
+    align-items: start;
+    display: grid;
+    gap: 0 1.5rem;
+    grid-template-columns: minmax(0, 1fr) minmax(12rem, 15rem);
+  }
   .gramatika-enhavtabelo {
-    float: inline-end;
-    margin-left: 1.5rem;
+    grid-column: 2;
+    grid-row: 1;
     max-width: 15rem;
     position: sticky;
     top: calc(52px + 1rem);
-    width: 35%;
+    width: 100%;
   }
   .gramatika-enhavtabelo ol {
     display: block;
+  }
+  .gramatika-teksto {
+    grid-column: 1;
+    grid-row: 1;
+    min-width: 0;
   }
   .cxefpagxo-kapo {
     flex-direction: column;

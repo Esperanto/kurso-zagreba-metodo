@@ -16,11 +16,11 @@
 }
 
 body {
-	display: flex;
-	flex-direction: column;
-	font-size: 18px;
-	line-height: 30px;
-	min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  line-height: 30px;
+  min-height: 100vh;
 }
 body > .container {
   display: flex;
@@ -42,6 +42,33 @@ h3 {
   line-height: 1.1;
   margin-bottom: 10px;
   margin-top: 20px;
+}
+.leciona-titolo {
+  align-items: baseline;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.leciona-menuo {
+  display: inline-flex;
+}
+.leciona-menuo-butono {
+  color: var(--bs-link-color);
+  font: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  padding: 0;
+  text-decoration: none;
+  vertical-align: baseline;
+}
+.leciona-menuo-butono:hover,
+.leciona-menuo-butono:focus {
+  color: var(--bs-link-hover-color);
+  text-decoration: none;
+}
+.leciona-menuo-listo {
+  max-height: min(70vh, 24rem);
+  overflow-y: auto;
 }
 
 .navbar {
@@ -112,7 +139,7 @@ h3 {
   overflow-y: auto;
 }
 .footer {
-  background: #212529;
+  background: #888;
   color: rgba(255, 255, 255, 0.75);
   margin-top: auto;
   padding: 1.25rem 0;
@@ -245,15 +272,15 @@ h3 {
 /* popover */
 .popover-header,
 .popover-body {
-	font-size: 18px;
+  font-size: 18px;
 }
 .popover-header {
   line-height: 1.42857143;
   margin: 0;
 }
 .popover-body table {
-    border-spacing: 0.5em;
-    border-collapse: separate;    
+  border-spacing: 0.5em;
+  border-collapse: separate;
 }
 .popover-body table tr {
   vertical-align: top;
@@ -373,28 +400,28 @@ ol.tasko {
 }
 
 .fixed {
-    position: fixed;
+  position: fixed;
 }
 
 #logo {
-	height: 32px;
-	margin: 0;
-	object-fit: contain;
-	padding: 0;
-	width: 32px;
+  height: 32px;
+  margin: 0;
+  object-fit: contain;
+  padding: 0;
+  width: 32px;
 }
 
 #eksporto {
-	float: right;
+  float: right;
   margin-top: 1em;
 }
 div[dir="rtl"] #eksporto {
-	float: left;
+  float: left;
 }
 img.leciona {
   float: right;
-	width: 50%;
-	margin-left: 1em;
+  width: 50%;
+  margin-left: 1em;
 }
 ul.pager {
   clear: both;
@@ -402,15 +429,15 @@ ul.pager {
   grid-template-columns: 1fr auto 1fr;
   column-gap: 0.5rem;
   margin: 20px 0;
-	padding-top: 1em;
+  padding-top: 1em;
 }
 ul.pager .next {
   text-align: right;
 }
 .ad {
   text-align: center;
-	font-size: smaller;
-	border-radius: 0.5em;
-	padding: 0.5em;
+  font-size: smaller;
+  border-radius: 0.5em;
+  padding: 0.5em;
   background: #eee;
 }

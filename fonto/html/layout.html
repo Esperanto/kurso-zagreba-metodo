@@ -62,29 +62,6 @@
                 role="button"
                 aria-expanded="false"
               >
-                {{enhavo.fasado['Lecionoj']}}
-              </a>
-              <ul class="dropdown-menu">
-                {% for leciono in enhavo.lecionoj %}
-                <li>
-                  <a
-                    class="dropdown-item"
-                    href="{{vojprefikso}}{{leciono.indekso.cxene}}"
-                    >{{leciono.indekso.cifre}}.
-                    {{leciono.teksto.titolo_string}}</a
-                  >
-                </li>
-                {% endfor %}
-              </ul>
-            </li>
-            <li class="nav-item dropdown">
-              <a
-                href="#"
-                class="nav-link dropdown-toggle"
-                data-bs-toggle="dropdown"
-                role="button"
-                aria-expanded="false"
-              >
                 {{enhavo.fasado['Aldono']}}
               </a>
               <ul class="dropdown-menu">

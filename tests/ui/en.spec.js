@@ -72,11 +72,11 @@ test('poŝtelefone vortaro restas inter logo kaj menuo', async ({ page }) => {
   await expect(suggestion).toBeVisible();
 });
 
-test('piedo montras malhelgrizajn tri kolumnojn kun permesilaj ligiloj', async ({ page }) => {
+test('piedo montras grizajn tri kolumnojn kun permesilaj ligiloj', async ({ page }) => {
   await page.goto('/en/01/');
 
   const footer = page.locator('.footer');
-  await expect(footer).toHaveCSS('background-color', 'rgb(33, 37, 41)');
+  await expect(footer).toHaveCSS('background-color', 'rgb(136, 136, 136)');
   await expect(footer.locator('img[src="/assets/img/cc-by.svg"]')).toBeVisible();
   await expect(footer.getByRole('link', { name: 'Krea komunaĵo' })).toHaveAttribute(
     'href',
@@ -106,9 +106,7 @@ test('piedo montras malhelgrizajn tri kolumnojn kun permesilaj ligiloj', async (
 test('ŝvebi super tekstaj vortoj montras tradukajn ŝprucfenestrojn', async ({ page }) => {
   await page.goto('/en/01/');
 
-  await page.getByRole('heading', { name: /1\.\s*Amiko Marko/ })
-    .getByText('Amiko')
-    .hover();
+  await page.locator('h2.leciona-titolo > a', { hasText: 'Amiko' }).first().hover();
 
   const popover = page.locator('.popover').filter({
     hasText: 'friend',
@@ -151,6 +149,20 @@ test('navigilo restas supre dum rulumado', async ({ page }) => {
 
   const navbarBox = await page.locator('.navbar').boundingBox();
   expect(navbarBox.y).toBe(0);
+});
+
+test('leciona titolo malfermas lecionliston', async ({ page }) => {
+  await page.goto('/en/01/');
+
+  await expect(page.getByRole('link', { name: 'Lessons' })).toHaveCount(0);
+
+  const lessonButton = page.getByRole('button', { name: /▼\s*1\./ });
+  await expect(lessonButton).toBeVisible();
+  await lessonButton.click();
+
+  const lessonMenu = page.locator('.leciona-menuo-listo.show');
+  await expect(lessonMenu.getByRole('link', { name: /^1\.\s*Amiko Marko/ })).toHaveAttribute('href', '/en/01');
+  await expect(lessonMenu.getByRole('link', { name: /^12\./ })).toHaveAttribute('href', '/en/12');
 });
 
 test('lecionaj langetoj montras ikonojn kun etikedoj sur labortablo', async ({ page }) => {

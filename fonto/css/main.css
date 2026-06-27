@@ -18,6 +18,7 @@
 body {
   display: flex;
   flex-direction: column;
+  font-family: 'Fira Sans', sans-serif;
   font-size: 18px;
   line-height: 30px;
   min-height: 100vh;

@@ -232,6 +232,17 @@ def copy_static_files(versio, cxefpagxa_fasado, cxefpagxaj_lingvoj):
     for fonto, celo in vendor_files:
         copy_vendor_file(fonto, celo)
 
+    fira_fonto = NODE_MODULES_DIR / '@fontsource' / 'fira-sans'
+    fira_celo = OUTPUT_DIR / 'vendor' / 'fira-sans'
+    if not fira_fonto.is_dir():
+        raise SystemExit('Mankas @fontsource/fira-sans. Rulu `make install`.')
+    fira_celo.mkdir(parents=True, exist_ok=True)
+    for pezo in ('400', '700'):
+        shutil.copy2(fira_fonto / f'{pezo}.css', fira_celo / f'{pezo}.css')
+    (fira_celo / 'files').mkdir(parents=True, exist_ok=True)
+    for f in (fira_fonto / 'files').glob('fira-sans-*-[47]00-normal.*'):
+        shutil.copy2(f, fira_celo / 'files' / f.name)
+
 
 def generate_pwa():
     pwa.write_service_worker(OUTPUT_DIR, get_version_hash())

@@ -42,29 +42,32 @@ test('vortaro montras tradukon dum tajpado', async ({ page }) => {
   await expect(suggestion).toBeVisible();
 });
 
-test('poŝtelefone vortaro restas inter logo kaj cxiamaj butonoj', async ({ page }) => {
-  await page.setViewportSize({ width: 360, height: 720 });
-  await page.goto('/en/01/');
+test('poŝtelefone vortaro restas inter logo kaj cxiamaj butonoj en unu linio', async ({ page }) => {
+  for (const width of [320, 360, 390]) {
+    await page.setViewportSize({ width, height: 720 });
+    await page.goto('/en/01/');
 
-  const dictionary = page.locator('#vortaro');
-  await expect(dictionary).toBeVisible();
-  await expect(page.getByRole('button', { name: 'Toggle navigation' })).toHaveCount(0);
+    const dictionary = page.locator('#vortaro');
+    await expect(dictionary).toBeVisible();
+    await expect(page.getByRole('button', { name: 'Toggle navigation' })).toHaveCount(0);
 
-  const logoBox = await page.locator('.navbar-brand').boundingBox();
-  const dictionaryBox = await dictionary.boundingBox();
-  const appendixBox = await page.getByRole('button', { name: 'Appendix' }).boundingBox();
-  const languageBox = await page.getByRole('button', { name: 'Elekti alian lingvon' }).boundingBox();
-  const navbarBox = await page.locator('.navbar').boundingBox();
+    const logoBox = await page.locator('.navbar-brand').boundingBox();
+    const dictionaryBox = await dictionary.boundingBox();
+    const appendixBox = await page.getByRole('button', { name: 'Appendix' }).boundingBox();
+    const languageBox = await page.getByRole('button', { name: 'Elekti alian lingvon' }).boundingBox();
+    const navbarBox = await page.locator('.navbar').boundingBox();
 
-  expect(dictionaryBox.x).toBeGreaterThan(logoBox.x + logoBox.width - 1);
-  expect(dictionaryBox.x + dictionaryBox.width).toBeLessThan(appendixBox.x + 1);
-  expect(appendixBox.x + appendixBox.width).toBeLessThan(languageBox.x + languageBox.width + 1);
-  expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (logoBox.y + logoBox.height / 2))).toBeLessThan(3);
-  expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (appendixBox.y + appendixBox.height / 2))).toBeLessThan(3);
-  expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (languageBox.y + languageBox.height / 2))).toBeLessThan(3);
-  expect(navbarBox.height).toBeLessThan(70);
+    expect(dictionaryBox.x).toBeGreaterThan(logoBox.x + logoBox.width - 1);
+    expect(dictionaryBox.x + dictionaryBox.width).toBeLessThan(appendixBox.x + 1);
+    expect(appendixBox.x + appendixBox.width).toBeLessThan(languageBox.x + languageBox.width + 1);
+    expect(languageBox.x + languageBox.width).toBeLessThanOrEqual(width);
+    expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (logoBox.y + logoBox.height / 2))).toBeLessThan(3);
+    expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (appendixBox.y + appendixBox.height / 2))).toBeLessThan(3);
+    expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (languageBox.y + languageBox.height / 2))).toBeLessThan(3);
+    expect(navbarBox.height).toBeLessThan(60);
+  }
 
-  await dictionary.fill('est');
+  await page.locator('#vortaro').fill('est');
 
   const suggestion = page.locator('.tt-menu .tt-suggestion').filter({
     hasText: 'esti',

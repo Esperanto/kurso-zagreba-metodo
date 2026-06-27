@@ -8,10 +8,7 @@ import zipfile
 from pathlib import Path
 
 
-GRAMATIKO_PATTERN = re.compile(
-    r'<h3 id="alphabet">Alphabet\s+'
-    r'<a class="gramatika-reenligo" href="#gramatika-enhavtabelo"'
-)
+GRAMATIKO_PATTERN = re.compile(r'<h3 id="alphabet">Alphabet</h3>')
 GRAMATIKO_TOC_PATTERN = re.compile(
     r'<nav id="gramatika-enhavtabelo" class="gramatika-enhavtabelo"[^>]*>.*'
     r'<a href="#alphabet">Alphabet</a>.*'

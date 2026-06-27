@@ -40,30 +40,22 @@ def morfema_emfazo(md):
 
 
 class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
-    def __init__(self, kun_enhavtabela_ligilo=False):
+    def __init__(self):
         super().__init__()
-        self._kun_enhavtabela_ligilo = kun_enhavtabela_ligilo
         self._uzitaj_ankroj = {}
 
     def heading(self, text, level, **attrs):
         ankro = unika_ankro(forigu_html(text), self._uzitaj_ankroj)
-        enhavtabela_ligilo = ''
-        if self._kun_enhavtabela_ligilo:
-            enhavtabela_ligilo = (
-                ' <a class="gramatika-reenligo" href="#gramatika-enhavtabelo"'
-                ' aria-label="Enhavtabelo">⤴︎</a>'
-            )
-        return '<h{level} id="{ankro}">{text}{ligilo}</h{level}>\n'.format(
+        return '<h{level} id="{ankro}">{text}</h{level}>\n'.format(
             ankro=mistune.escape(ankro),
-            ligilo=enhavtabela_ligilo,
             level=level,
             text=text,
         )
 
 
-def render_markdown(text, kun_enhavtabela_ligilo=False):
+def render_markdown(text):
     md = mistune.create_markdown(
-        renderer=AnkrohavaHTMLRenderer(kun_enhavtabela_ligilo),
+        renderer=AnkrohavaHTMLRenderer(),
         plugins=[morfema_emfazo],
     )
     return Markup(md(text))

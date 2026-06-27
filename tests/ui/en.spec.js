@@ -313,11 +313,9 @@ test('gramatika enhavtabelo aperas dekstre sur labortablo', async ({ page }) => 
   await expect(toc.getByRole('link', { name: 'Pronunciation' })).toHaveAttribute('href', '#pronunciation');
   await expect(toc.getByRole('link', { name: 'Ĉu?' })).toBeVisible();
   await expect(toc).not.toContainText('*Ĉu?*');
-  await expect(page.locator('h3#alphabet')).toContainText('Alphabet');
-  await expect(page.locator('h3#alphabet .gramatika-reenligo')).toHaveAttribute(
-    'href',
-    '#gramatika-enhavtabelo',
-  );
+  await expect(page.locator('h3#alphabet')).toHaveText('Alphabet');
+  await expect(page.locator('.gramatika-reenligo')).toHaveCount(0);
+  await expect(toc).toHaveCSS('position', 'sticky');
 
   const boxes = await page.evaluate(() => {
     const content = document.querySelector('main .col-sm-12').getBoundingClientRect();

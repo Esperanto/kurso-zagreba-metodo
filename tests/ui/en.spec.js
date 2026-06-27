@@ -42,6 +42,32 @@ test('vortaro montras tradukon dum tajpado', async ({ page }) => {
   await expect(suggestion).toBeVisible();
 });
 
+test('poŝtelefone vortaro restas inter logo kaj menuo', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 720 });
+  await page.goto('/en/01/');
+
+  const mobileDictionary = page.locator('#vortaro-mobile');
+  await expect(mobileDictionary).toBeVisible();
+  await expect(page.locator('#vortaro')).toBeHidden();
+
+  const logoBox = await page.locator('.navbar-brand').boundingBox();
+  const dictionaryBox = await mobileDictionary.boundingBox();
+  const menuBox = await page.getByRole('button', { name: 'Toggle navigation' }).boundingBox();
+
+  expect(dictionaryBox.x).toBeGreaterThan(logoBox.x + logoBox.width - 1);
+  expect(dictionaryBox.x + dictionaryBox.width).toBeLessThan(menuBox.x + 1);
+
+  await mobileDictionary.fill('est');
+
+  const suggestion = page.locator('.tt-menu .tt-suggestion').filter({
+    hasText: 'esti',
+  }).filter({
+    hasText: 'to be',
+  }).first();
+
+  await expect(suggestion).toBeVisible();
+});
+
 test('ŝvebi super tekstaj vortoj montras tradukajn ŝprucfenestrojn', async ({ page }) => {
   await page.goto('/en/01/');
 

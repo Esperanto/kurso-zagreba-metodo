@@ -430,8 +430,12 @@ ol.tasko {
   padding-right: 42.5px;
   width: auto;
 }
-.ekzerco3-tasko > li {
+.ekzerco3-tasko > div {
   margin-bottom: 1.25em;
+}
+.ekzerco3-tasko h4 {
+  margin-bottom: 0.75rem;
+  margin-top: 2rem;
 }
 .form-horizontal .feedback-icon {
   position: absolute;

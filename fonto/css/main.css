@@ -19,7 +19,7 @@
 body {
   display: flex;
   flex-direction: column;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: "Fira Sans", sans-serif;
   font-size: 18px;
   line-height: 30px;
   min-height: 100vh;
@@ -52,8 +52,8 @@ h3 {
   display: grid;
   grid-template-columns: minmax(2.75rem, 1fr) auto minmax(2.75rem, 1fr);
   margin-bottom: 20px;
-  margin-top: 20px;
   padding-bottom: 16px;
+  padding-top: 16px;
 }
 .leciona-titolo {
   align-items: center;
@@ -171,6 +171,28 @@ h3 {
   position: sticky;
   top: 0;
   z-index: 1030;
+}
+.kurso-reklamo {
+  margin: -0.5rem auto 1rem;
+  max-width: 48rem;
+  text-align: center;
+  text-wrap: balance;
+  font-weight: 500;
+  font-style: italic;
+  a {
+    margin: 0 -0.2em;
+    padding: 0.1em 0.4em;
+    border-radius: 0.8em 0.3em;
+    background: rgba(0, 0, 0, 0);
+    background-image: linear-gradient(
+      to right,
+      rgba(255, 193, 7, 0.1),
+      rgba(255, 193, 7, 0.7) 4%,
+      rgba(255, 193, 7, 0.3)
+    );
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
 }
 .navbar > .navbar-enhavo {
   align-items: center;

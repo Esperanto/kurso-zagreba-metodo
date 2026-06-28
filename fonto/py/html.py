@@ -19,6 +19,7 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
+GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
 
 
 def morfema_emfazo(md):
@@ -68,6 +69,58 @@ def render_page(name, enhavo, vojprefikso, env):
     )
 
     return rendered
+
+
+def github_content_url(lingvo, path, kind='blob'):
+    return f'{GITHUB_CONTENT_BASE}/{kind}/master/enhavo/tradukenda/{lingvo}/{path}'
+
+
+def redaktaj_ligiloj(lingvo, tab=None, leciono=None):
+    if tab is None:
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'enkonduko.md'),
+            }
+        ]
+
+    if tab in ('teksto', 'vortoj'):
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro', 'tree'),
+            }
+        ]
+
+    if tab == 'gramatiko':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'gramatiko', 'tree'),
+            }
+        ]
+
+    if tab == 'ekzerco1':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, f'ekzercoj/traduku/{leciono}.yml'),
+            }
+        ]
+
+    if tab == 'ekzerco3':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, f'ekzercoj/traduku/{leciono}.yml'),
+            },
+            {
+                'teksto': 'Redaktu respondojn',
+                'url': github_content_url(lingvo, f'ekzercoj/traduku-kaj-respondu/{leciono}.yml'),
+            },
+        ]
+
+    return []
 
 
 def write_file(filename, content):
@@ -326,6 +379,7 @@ def generate_html(
         ],
         url=url,
         vojprefikso=vojprefikso,
+        redaktaj_ligiloj=redaktaj_ligiloj(lingvo),
         tabs=tabs,
     )
 
@@ -376,7 +430,8 @@ def generate_html(
                 next_path=next_path,
                 tabs=tabs,
                 active_tab=tab,
-                identigilo=i_padded + '/' + href
+                identigilo=i_padded + '/' + href,
+                redaktaj_ligiloj=redaktaj_ligiloj(lingvo, tab, i_padded),
             )
 
             eligo[leciono_dir / href / 'index.html'] = tab_rendered

@@ -163,6 +163,42 @@ test('piedo montras grizajn tri kolumnojn kun permesilaj ligiloj', async ({ page
   expect(Math.abs(footerBox.width - viewport.width)).toBeLessThan(1);
 });
 
+test('piedo ligas al redaktado de la aktuala enhavo', async ({ page }) => {
+  await page.goto('/en/');
+  await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu tiun ĉi enhavon' })).toHaveAttribute(
+    'href',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/enhavo/tradukenda/en/enkonduko.md',
+  );
+
+  await page.goto('/en/01/');
+  await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu tiun ĉi enhavon' })).toHaveAttribute(
+    'href',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/enhavo/tradukenda/en/vortaro',
+  );
+
+  await page.goto('/en/01/gramatiko/');
+  await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu tiun ĉi enhavon' })).toHaveAttribute(
+    'href',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/enhavo/tradukenda/en/gramatiko',
+  );
+
+  await page.goto('/en/01/ekzerco1/');
+  await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu tiun ĉi enhavon' })).toHaveAttribute(
+    'href',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/enhavo/tradukenda/en/ekzercoj/traduku/01.yml',
+  );
+
+  await page.goto('/en/01/ekzerco3/');
+  await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu tiun ĉi enhavon' })).toHaveAttribute(
+    'href',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/enhavo/tradukenda/en/ekzercoj/traduku/01.yml',
+  );
+  await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu respondojn' })).toHaveAttribute(
+    'href',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/enhavo/tradukenda/en/ekzercoj/traduku-kaj-respondu/01.yml',
+  );
+});
+
 test('malsupra pagxilo havas apartigan linion', async ({ page }) => {
   await page.goto('/en/02/');
 

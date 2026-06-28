@@ -175,6 +175,9 @@
             href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md"
             >Kontribuu</a
           >
+          {% for redakta_ligilo in redaktaj_ligiloj|default([]) %}
+            <a href="{{redakta_ligilo.url}}">{{redakta_ligilo.teksto}}</a>
+          {% endfor %}
         </div>
         <div class="footer-listo">
           <a href="https://jaehnig.org/impressum/">Kontakto</a>

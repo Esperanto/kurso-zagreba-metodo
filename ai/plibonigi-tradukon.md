@@ -87,6 +87,48 @@ Formataj konvencioj:
 - Aldonu nur vere akcepteblajn variantojn.
 - Ne aldonu tro vastajn sinonimojn, kiuj ŝanĝus la signifon.
 
+## Fasado kaj lingva startpaĝo (`fasado/cxefpagxo.yml`)
+
+La lingva startpaĝo (`/${LINGVO}/`) uzas tekstojn el `fasado/cxefpagxo.yml`.
+Necesaj ŝlosiloj — ĉiuj devas ĉeesti kaj NE esti malplenaj:
+
+- `Ek` (start-butono)
+- `Lerni Esperanton` (la SEO-serĉfrazo "lerni Esperanton")
+- `Lerni Esperanton en 12 lecionoj` (ĉeftitolo / h1)
+- `Esperanto en 12 lecionoj` (titolo ankaŭ de aliaj paĝoj)
+- `La plej rapida kurso por la bazoj` (subtitolo)
+- `{{lingvo_nombro}} lingvoj` (lingvo-nombrilo)
+- `Trovu Esperanto-parolantojn`
+
+Reguloj:
+
+- **Kompleteco:** ĉiu lingvo havu ĉiujn ĉi ŝlosilojn kun ne-malplena valoro.
+  Plenigu mankantajn/malplenajn (plej ofte mankas `Lerni Esperanton`).
+- **Ĝusta lingvo:** atentu loktenilojn kopiitajn el ALIA lingvo (ekz. franca en
+  ne-franca dosiero, rusa en belarusa, angla en ne-tradukita, persa en kurda).
+  Anstataŭigu per la cela lingvo. Se vi ne povas fidinde traduki la lingvon,
+  **marku ĝin por kontrolo de denaskulo** anstataŭ diveni.
+- **Titolo kun verbo (SEO):** `Lerni Esperanton en 12 lecionoj` enhavu la lernan
+  verbon kaj tenu la serĉfrazon "lerni Esperanton" (= la valoro de
+  `Lerni Esperanton`) kune. Konstruu ĝin el `Lerni Esperanton` + la
+  "en N lecionoj"-parto (el `Esperanto en 12 lecionoj`). Ekz. de:
+  `Esperanto lernen in 12 Lektionen`; es: `Aprender esperanto en 12 lecciones`.
+  Por SOV-/CJK-lingvoj aranĝu la vortordon nature, sed tenu la serĉfrazon kune.
+- **Placeholder-oj** (ekz. `{{lingvo_nombro}}`) restu netuŝitaj; ŝanĝu nur la
+  ĉirkaŭan tekston/ordon laŭbezone.
+
+## Enkonduko (`enkonduko.md`)
+
+La enkonduka teksto de la startpaĝo venas el `enkonduko.md`. Prilaboru ĝin laŭ la
+modelo de `enhavo/tradukenda/en/enkonduko.md` — samaj kernaj punktoj (kiom da
+vortoj, senpaga / sen registriĝo, ligilo al la fiŝkartaro, kaj la fina alvoko
+kiel "Provu ĝin!"). Konservu la Markdown-formaton kaj la placeholder-ojn
+(`{{ url.kartaro }}`, `{{ url.anki }}`).
+
+**Sed se iu lingvo jam havas pluan, netipan enhavon** (ekz. priskribon de la
+kursostrukturo aŭ mencion pri mobil-optimumigo, kiel en `de/`), **lasu ĝin** —
+nur korektu ĝin lingve kaj akordigu la kernon kun la angla.
+
 ## Formato kaj limigoj
 
 - Konservu validan YAML-on kaj Markdown-on.

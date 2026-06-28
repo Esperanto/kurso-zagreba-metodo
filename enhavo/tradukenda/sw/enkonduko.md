@@ -1,12 +1,8 @@
-- Vous apprendrez les **500 mots les plus importants**
-- **Pas d'inscription nécessaire** : Cliquez simplement sur *Démarrer*
-- **Optimisé** pour les mobiles
-- Pas uniquement gratuit, mais aussi **[libre d’être utilisé dans d’autres projets](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Inakufundisha **maneno 500 muhimu zaidi**
+- **Bure** na **bila usajili**
+- Na [kifurushi cha kadi za kujifunzia]({{ url.kartaro }}) kwa [Anki]({{ url.anki }})
 
-Le cours est composé de **12 leçons**, chacune contenant :
+Baada ya kozi, **utaelewa mambo muhimu**, utaunda sentensi zako mwenyewe, na utaweza kuwasilisha mawazo ya msingi katika hali za kila siku.
 
-- un texte,
-- des explications grammaticales
-- et 3 exercices.
-
-Après avoir suivi le cours, vous serez capable de comprendre les points les plus importants et de vous exprimer par vous-même en espéranto. L'essayer, c'est l'adopter !
+Jaribu tu!
+____

@@ -1,12 +1,8 @@
-- បង្រៀនដោយប្រើតែ **៥០០ ពាក្យសំខាន់ៗ។**
-- **មិនចាំបាច់ចុះឈ្មោះ** : គ្រាន់តែចុច *ចាប់ផ្តើម*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- បង្រៀន **ពាក្យសំខាន់បំផុត 500 ពាក្យ**
+- **ឥតគិតថ្លៃ** និង **មិនចាំបាច់ចុះឈ្មោះ**
+- មាន [កញ្ចប់កាតរំលឹក]({{ url.kartaro }}) សម្រាប់ [Anki]({{ url.anki }})
 
-The course consists of **12 lessons**, each with
+បន្ទាប់ពីវគ្គនេះ អ្នកនឹង **យល់ចំណុចសំខាន់ៗ** បង្កើតប្រយោគដោយខ្លួនឯង និងអាចទំនាក់ទំនងគំនិតមូលដ្ឋានក្នុងស្ថានភាពប្រចាំថ្ងៃ។
 
-- a text
-- a grammar clarification
-- and 3 exercises.
-
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+សាកល្បងមើល!
+____

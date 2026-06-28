@@ -20,6 +20,11 @@ CXEFPAGXO_TITOLO = 'Lerni Esperanton'
 CXEFPAGXO_SUBTITOLO = 'La plej rapida kurso por la bazoj'
 
 
+class Fasado(dict):
+    def __missing__(self, key):
+        return key
+
+
 def legi_yaml(path):
     with Path(path).open(encoding='utf-8-sig') as dosiero:
         return yaml.load(dosiero, Loader=YAML_LOADER)
@@ -80,7 +85,7 @@ def load(language, gramatiko_transpose_headlines=2):
     enhavo['ordoj']['sezono'] = legi_yaml(ordoj_dir / 'sezono.yml')
     enhavo['ordoj']['tago_en_la_semajno'] = legi_yaml(ordoj_dir / 'tago_en_la_semajno.yml')
 
-    enhavo['fasado'] = {}
+    enhavo['fasado'] = Fasado()
     for path in sorted((tradukenda_dir / 'fasado').glob('*.yml')):
         tradukajxoj = legi_yaml(path)
         enhavo['fasado'].update(tradukajxoj)
@@ -234,7 +239,7 @@ def legi_cxefpagxan_fasadon(lingvo, defauxlta_fasado=None):
     return fasado
 
 
-def cxefpagxaj_lingvoj(lingvoj):
+def hejmaj_lingvoj(lingvoj):
     defauxlta_fasado = legi_cxefpagxan_fasadon('en')
     rezulto = []
     for kodo in sorted(lingvoj):
@@ -258,8 +263,8 @@ def cxefpagxaj_lingvoj(lingvoj):
 
 def generu_html_por_lingvoj(args, lingvoj):
     por_generi = args.lingvoj or [args.lingvo]
-    cxefpagxa_fasado = legi_cxefpagxan_fasadon('en')
-    cxefpagxaj_lingvoj_datenoj = cxefpagxaj_lingvoj(lingvoj)
+    hejma_fasado = legi_cxefpagxan_fasadon('en')
+    hejmaj_lingvoj_datenoj = hejmaj_lingvoj(lingvoj)
     for index, lingvo in enumerate(por_generi):
         if args.lingvoj:
             print('Generas HTML por ' + lingvo, flush=True)
@@ -269,8 +274,8 @@ def generu_html_por_lingvoj(args, lingvoj):
             enhavo,
             args,
             kopiu_statikan=(index == 0),
-            cxefpagxa_fasado=cxefpagxa_fasado,
-            cxefpagxaj_lingvoj=cxefpagxaj_lingvoj_datenoj,
+            hejma_fasado=hejma_fasado,
+            hejmaj_lingvoj=hejmaj_lingvoj_datenoj,
         )
     html_generilo.generate_pwa()
 

@@ -1,12 +1,8 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Teaches the **most important 500 words**
+- **Free** and **without registration**
+- With [flashcard deck]({{ url.kartaro }}) for [Anki]({{ url.anki }})
 
-The course consists of **12 lessons**, each with
+After the course, you will **understand the essentials**, form your own sentences, and be able to communicate basic ideas in everyday situations.
 
-- a text
-- a grammar explanation
-- and 3 exercises.
-
-After completing the course, you can understand the most important things and form sentences to express yourself. Just try it!
+Just try it!
+____

@@ -1,12 +1,8 @@
-- Vos alâds aprendre les **500 parôles les més emportantes**
-- **Gint d’enscripcion** : Clicâds solètament sur *Comenciér*
-- **Optimisâ** pur los tèlèfonos
-- Pas solètament gratuit, mas adès **[libro d’être utilisâ diens d’âtros projèts](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Vos aprent les **500 mots les més emportants**
+- **Gratuito** et **sens encartâjo**
+- Avouéc un [paquet de cartes-mèmouèro]({{ url.kartaro }}) por [Anki]({{ url.anki }})
 
-Lo cors est composâ de **12 leçons**, chârc’una contint :
+Aprés lo cors, vos **comprendrés l'essenciâl**, formarés vouétras frases et porrés comunicar d'idées de bâsa dens les situacions de tôs los jorns.
 
-- un tèxto,
-- d’èxplicacions gramaticales
-- et 3 exerciços.
-
-Après avêr fêt lo cors, vous serâds capablo de comprendre lo més importants et de vos exprimar tot solèt en espèranto. L'èprovar, y’est l’adoptar !
+Èprovâd-lo simplament !
+____

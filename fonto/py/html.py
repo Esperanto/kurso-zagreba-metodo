@@ -191,17 +191,17 @@ def create_anki(enhavo):
     return deck
 
 
-def render_cxefpagxo(versio, fasado, cxefpagxaj_lingvoj):
+def render_hejmo(versio, fasado, hejmaj_lingvoj):
     env = jinja2.Environment(auto_reload=False)
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))
-    return env.get_template('cxefpagxo.html').render(
-        cxefpagxaj_lingvoj=cxefpagxaj_lingvoj,
+    return env.get_template('hejmo.html').render(
         fasado=fasado,
+        hejmaj_lingvoj=hejmaj_lingvoj,
         versio=versio,
     )
 
 
-def copy_static_files(versio, cxefpagxa_fasado, cxefpagxaj_lingvoj):
+def copy_static_files(versio, hejma_fasado, hejmaj_lingvoj):
     static_dirs = [
         (FONTO_DIR / 'css', OUTPUT_DIR / 'assets' / 'css'),
         (FONTO_DIR / 'js', OUTPUT_DIR / 'assets' / 'js'),
@@ -234,7 +234,7 @@ def copy_static_files(versio, cxefpagxa_fasado, cxefpagxaj_lingvoj):
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     write_file(
         str(OUTPUT_DIR / 'index.html'),
-        render_cxefpagxo(versio, cxefpagxa_fasado, cxefpagxaj_lingvoj),
+        render_hejmo(versio, hejma_fasado, hejmaj_lingvoj),
     )
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'apple-touch-icon.png', OUTPUT_DIR / 'apple-touch-icon.png')
@@ -276,8 +276,8 @@ def generate_html(
     enhavo,
     args,
     kopiu_statikan=True,
-    cxefpagxa_fasado=None,
-    cxefpagxaj_lingvoj=None,
+    hejma_fasado=None,
+    hejmaj_lingvoj=None,
 ):
     eligo = {}
     versio = get_version_hash()
@@ -285,8 +285,8 @@ def generate_html(
     if kopiu_statikan:
         copy_static_files(
             versio,
-            cxefpagxa_fasado or enhavo['fasado'],
-            cxefpagxaj_lingvoj or [],
+            hejma_fasado or enhavo['fasado'],
+            hejmaj_lingvoj or [],
         )
 
     env = jinja2.Environment(auto_reload=False)
@@ -311,8 +311,20 @@ def generate_html(
     else:
         vojprefikso = '/' + lingvo + '/'
 
+    url = {
+        'anki': 'https://apps.ankiweb.net/',
+        'kartaro': vojprefikso + 'eksporto/' + lingvo + '.apkg',
+    }
+
     rendered = env.get_template('index.html').render(
         enhavo=enhavo,
+        enkonduko=env.from_string(enhavo['enkonduko']).render(url=url),
+        pretaj_lingvoj=[
+            (kodo, lingvo)
+            for kodo, lingvo in sorted(enhavo['lingvoj'].items())
+            if lingvo.get('stato') == 'preta'
+        ],
+        url=url,
         vojprefikso=vojprefikso,
         tabs=tabs,
     )

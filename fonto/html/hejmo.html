@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>
+      {{ fasado['Lerni Esperanton'] }} | {{ fasado['La plej rapida kurso por la bazoj'] }}
+    </title>
+
+    <link href="/vendor/fira-sans/400.css" rel="stylesheet" />
+    <link href="/vendor/fira-sans/700.css" rel="stylesheet" />
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/assets/img/logo/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/assets/img/logo/favicon-16x16.png"
+    />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link href="assets/css/main.css?versio={{versio}}" rel="stylesheet" />
+  </head>
+  <body class="hejmo-korpo">
+    <nav class="navbar navbar-dark bg-dark">
+      <div class="container navbar-enhavo">
+        <a class="navbar-brand" href="/">
+          <span class="navbar-retejo">Esperanto12.net</span>
+        </a>
+      </div>
+    </nav>
+
+    <main class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="hejmo">
+            <h1 class="hejmo-titolo">Learn Esperanto</h1>
+            <div id="hejmo-lingvoj" class="hejmo-lingvoj">
+              {% for lingvo in hejmaj_lingvoj %}
+              <a
+                class="btn btn-outline-primary"
+                href="/{{lingvo.kodo}}/"
+                lang="{{lingvo.kodo}}"
+                dir="{{lingvo.tekstodirekto}}"
+                >{{lingvo.nomo}}</a
+              >
+              {% endfor %}
+            </div>
+            <script id="hejmo-lingvodatenoj" type="application/json">
+              {{hejmaj_lingvoj|tojson}}
+            </script>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="container footer-kolumnoj">
+        <div class="footer-listo">
+          <a
+            href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md"
+            >Krea komunaĵo</a
+          >
+          <span>
+            Surbaze de la
+            <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo"
+              >Zagreba metodo</a
+            >
+          </span>
+        </div>
+        <div class="footer-listo">
+          <a
+            href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/AUTHORS.md"
+            >Kontribuantoj</a
+          >
+          <a
+            href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md"
+            >Kontribuu</a
+          >
+        </div>
+        <div class="footer-listo">
+          <a href="https://jaehnig.org/impressum/">Kontakto</a>
+          <a href="https://jaehnig.org/privacy">Privateco</a>
+          <span class="versio">⏱︎ Versio: {{versio}}</span>
+        </div>
+      </div>
+    </footer>
+
+    <script src="assets/js/hejmo.js?versio={{versio}}"></script>
+
+    <!-- 100% privacy-first analytics -->
+    <script
+      data-goatcounter="https://e12.goatcounter.com/count"
+      async
+      src="//gc.zgo.at/count.js"
+    ></script>
+  </body>
+</html>

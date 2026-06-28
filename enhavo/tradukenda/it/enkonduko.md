@@ -1,12 +1,8 @@
-- Imparerai le **500 parole più importanti**
-- **Non è necessario registrarsi**! Comincia da subito cliccando su *Inizia*
-- **Ottimizzato** per gli smartphone
-- Oltre ad essere totalmente gratuito, è anche **[riutilizzabile in altri progetti](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Insegna le **500 parole più importanti**
+- **Gratis** e **senza registrazione**
+- Con un [mazzo di flashcard]({{ url.kartaro }}) per [Anki]({{ url.anki }})
 
-Il corso consiste di **12 lezioni**, ciascuna contenente:
+Dopo il corso **capirai l'essenziale**, formerai le tue frasi e saprai comunicare idee di base nelle situazioni quotidiane.
 
-- un brano
-- una spiegazione grammaticale
-- 3 esercizi
-
-A corso finito, sarai in grado di comprendere i concetti fondamentali e saprai formulare frasi per esprimerti al meglio. Prova ora!
+Provalo!
+____

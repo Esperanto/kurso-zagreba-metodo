@@ -224,54 +224,74 @@ h3 {
   max-height: min(70vh, 24rem);
   overflow-y: auto;
 }
-.cxefpagxo {
-  margin-bottom: 1.5rem;
-  padding: 1.5rem 0;
+.hejmo {
+  margin: 0 auto;
+  max-width: 48rem;
+  padding: 3rem 0;
   text-align: center;
 }
-.cxefpagxo-korpo > .container > .row {
-  align-items: center;
-  flex: 1 0 auto;
+.hejmo-titolo {
+  font-size: clamp(3rem, 9vw, 5.5rem);
+  line-height: 1;
+  margin-bottom: 2rem;
 }
-.cxefpagxo-kapo {
+.hejmo-lingvoj {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+}
+.lingva-startpagxo {
+  margin: 0 auto;
+  max-width: 42rem;
+  padding: 1.75rem 0 2.25rem;
+}
+.lingva-startpagxo-kapo {
+  align-items: center;
+  display: flex;
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+.lingva-startpagxo-logo {
+  flex: 0 0 auto;
+}
+.lingva-startpagxo-titoloj {
+  text-wrap: balance;
+}
+.lingva-startpagxo h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  line-height: 1.1;
+  margin-bottom: 0.35rem;
+}
+.lingva-startpagxo-subtitolo {
+  font-size: 1.35rem;
+  margin-bottom: 0;
+}
+.lingva-startpagxo-trajtoj {
+  margin-bottom: 1.75rem;
+}
+.lingva-startpagxo-agoj {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
   justify-content: center;
   margin-bottom: 1.5rem;
 }
-.cxefpagxo-logo {
-  flex: 0 0 auto;
-}
-.cxefpagxo-titolo {
-  font-size: clamp(2.25rem, 5vw, 3.6rem);
-  line-height: 1.05;
-  margin-bottom: 0.75rem;
-  margin-top: 0;
-}
-.cxefpagxo-subtitolo {
-  font-size: clamp(1.45rem, 3vw, 2.25rem);
-  line-height: 1.2;
-}
-.cxefpagxo-elektilo {
-  justify-content: center;
-  margin-top: 2rem;
-}
-.cxefpagxo-pri-esperanto {
-  margin-top: 2.5rem;
-}
-.cxefpagxo-subteno {
-  font-size: 1.05rem;
-  margin-top: 1.5rem;
-}
-.cxefpagxo-subteno img {
-  height: 2.2rem;
-  margin-right: 0.35rem;
-  width: auto;
-}
-.cxefpagxo-subteno a {
-  white-space: nowrap;
-}
-#cxefpagxo-lingvoj {
+.lingva-startpagxo-lingvoj {
   max-height: min(70vh, 24rem);
   overflow-y: auto;
+}
+.lingva-startpagxo-parolantoj {
+  border-top: 1px solid var(--bs-border-color);
+  padding-top: 1.5rem;
+}
+@media (max-width: 767.98px) {
+  .lingva-startpagxo-kapo {
+    flex-direction: column;
+    gap: 0.75rem;
+    text-align: center;
+  }
 }
 .footer {
   background: #888;
@@ -298,6 +318,19 @@ h3 {
   flex: 0 0 auto;
   height: 31px;
   width: 88px;
+}
+.footer-subteno {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.5rem;
+}
+.footer-subteno-teksto {
+  text-wrap: balance;
+}
+.footer-uea {
+  flex: 0 0 auto;
+  height: 2.2rem;
+  width: auto;
 }
 
 .nav-tabs .nav-link {
@@ -367,9 +400,6 @@ h3 {
     grid-column: 1;
     grid-row: 1;
     min-width: 0;
-  }
-  .cxefpagxo-kapo {
-    flex-direction: column;
   }
 }
 

@@ -1,12 +1,8 @@
-- Múintear an **500 focal is tábhachtaí**
-- **Ní gá clárú**: Níl ann ach *Tús* a ghliogáil
-- **barrfheabhsaithe** don bhfón cliste
-- ní hamháin saor in aisce, ach fairis sin **[saor lena úsáid i dtionscadail eile](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Múineann sé na **500 focal is tábhachtaí**
+- **Saor in aisce** agus **gan chlárú**
+- Le [deic luaschártaí]({{ url.kartaro }}) do [Anki]({{ url.anki }})
 
-Sa chúrsa tá **12 cheacht**, gach ceann le 
+Tar éis an chúrsa, **tuigfidh tú na bunrudaí**, cumfaidh tú abairtí de do chuid féin agus beidh tú in ann bunsmaointe a chur in iúl i ngnáthchásanna laethúla.
 
-- téacs
-- míniú gramadúil 
-- agus 3 chleachtadh.
-
-Tar éis an cúrsa a chríochnú, tuigfidh tú na nithe is tábhachtaí is beidh tú in ann abairtí a chumadh uait féin. Bain triail as!
+Bain triail as!
+____

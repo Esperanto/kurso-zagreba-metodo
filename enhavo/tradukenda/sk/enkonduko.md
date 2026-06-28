@@ -1,12 +1,8 @@
-- Výučba **500 najdôležitejšich slov**
-- **Bez registrácie**: stačí stlačiť *Štart*
-- **Responzívny dizajn** optimalizované pre smartfóny
-- Nielen zdarma, ale aj pre **[voľné použitie v iných projektoch](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Naučí ťa **500 najdôležitejších slov**
+- **Zadarmo** a **bez registrácie**
+- S [balíčkom kartičiek]({{ url.kartaro }}) pre [Anki]({{ url.anki }})
 
-Kurz sa skladá z **12 lekcií**, každá obsahuje:
+Po kurze budeš **rozumieť základom**, tvoriť vlastné vety a dokážeš vyjadriť základné myšlienky v každodenných situáciách.
 
-- text,
-- vysvetlenie gramatiky a 
-- 3 cvičenia
-
-Dokončenie kurzu vám umožní porozumieť najdôležitejším frázam a tvoriť jednoduché vety. Vyskúšajte to!
+Jednoducho to skús!
+____

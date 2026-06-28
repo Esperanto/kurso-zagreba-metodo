@@ -1,12 +1,8 @@
-- Naučit ćeš **500 najvažnijih riječi**
-- **Nije potrebna registracija**: Samo klikni *Početak*
-- **optimizirano** za pametne telefone
-- ne samo besplatan, već i **[slobodan za upotrebu u drugim projektima](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Uči te **500 najvažnijih riječi**
+- **Besplatno** i **bez registracije**
+- S [paketom kartica]({{ url.kartaro }}) za [Anki]({{ url.anki }})
 
-Tečaj se sastoji od **12 lekcija**, od kojih svaka sadrži
+Nakon tečaja **razumjet ćeš osnove**, sastavljati vlastite rečenice i moći prenijeti osnovne ideje u svakodnevnim situacijama.
 
-- tekst
-- gramatička objašnjenja
-- i 3 vježbe.
-
-Nakon što završiš tečaj, moći ćeš razumjeti najvažnije stvari i samostalno se izražavati na esperantu. Probaj!
+Samo isprobaj!
+____

@@ -1,14 +1,10 @@
-- Aqui você aprende as **500 palavras mais importantes**
-- **Não precisa fazer cadastro**: Basta clicar em *Começar*
-- **Compatível** com smartphones
-- Não apenas é grátis, mas também **[é de domínio público, e pode ser usado em outros projetos](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Ensina as **500 palavras mais importantes**
+- **Grátis** e **sem cadastro**
+- Com [baralho de cartões]({{ url.kartaro }}) para [Anki]({{ url.anki }})
 
-O curso consiste de **12 lições**, cada uma com:
+Depois do curso, você vai **entender o essencial**, formar suas próprias frases e conseguir comunicar ideias básicas em situações do dia a dia.
 
-- um texto
-- uma explicação gramatical
-- e 3 exercícios
-
-Depois de terminar o curso, você será capaz de compreender as coisas mais importantes, e de formar frases simples para se expressar. Experimente!
+Experimente!
+____
 
 **Participe de nosso grupo de apoio para tirar suas dúvidas [https://www.facebook.com/groups/esperanto12dias](https://www.facebook.com/groups/esperanto12dias/)**

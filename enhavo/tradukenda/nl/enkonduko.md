@@ -1,12 +1,8 @@
-- Gebruikt de **belangrijkste 500 woorden**
-- **zonder inloggen**: Eenvoudig op *Start* klikken
-- **geoptimaliseerd** voor Smartphones
-- niet alleen gratis, maar ook **[vrij bruikbaar in andere projecten](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Leert je de **500 belangrijkste woorden**
+- **Gratis** en **zonder registratie**
+- Met [flashcarddeck]({{ url.kartaro }}) voor [Anki]({{ url.anki }})
 
-De cursus bestaat uit **12 lessen**, met in elke les
+Na de cursus zul je **de essentie begrijpen**, je eigen zinnen vormen en basisideeën kunnen communiceren in alledaagse situaties.
 
-- een leestekst
-- commentaar over de grammatica
-- en 3 oefeningen.
-
-Daarna kan je het belangrijkste verstaan en zinnen vormen om je elementair uit te drukken en verstaanbaar te maken. Test het uit!
+Probeer het gewoon!
+____

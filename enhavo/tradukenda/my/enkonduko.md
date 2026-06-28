@@ -1,12 +1,8 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- **အရေးအကြီးဆုံး စကားလုံး ၅၀၀** ကို သင်ပေးသည်
+- **အခမဲ့** နှင့် **စာရင်းသွင်းရန် မလိုပါ**
+- [Anki]({{ url.anki }}) အတွက် [ဖလက်ရှ်ကတ်အစု]({{ url.kartaro }}) ပါရှိသည်
 
-The course consists of **12 lessons**, each with
+သင်ခန်းစာပြီးဆုံးပြီးနောက် သင်သည် **အဓိကအချက်များကို နားလည်** မိမိစာကြောင်းများ ဖွဲ့နိုင်ပြီး နေ့စဉ်အခြေအနေများတွင် အခြေခံအတွေးများကို ဆက်သွယ်ပြောနိုင်ပါမည်။
 
-- a text
-- a grammar clarification
-- and 3 exercises.
-
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+စမ်းကြည့်ပါ!
+____

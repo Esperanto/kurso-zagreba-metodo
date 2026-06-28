@@ -8,27 +8,64 @@
 
 {% block content %}
 
-<div dir="{{ enhavo.tekstodirekto}}">
+<div class="lingva-startpagxo" dir="{{ enhavo.tekstodirekto}}">
+  <div class="lingva-startpagxo-kapo">
+    <img
+      class="lingva-startpagxo-logo"
+      src="/assets/img/logo/logo-256.png"
+      width="96"
+      height="96"
+      alt=""
+    />
+    <div class="lingva-startpagxo-titoloj">
+      <h1>{{enhavo.fasado['Lerni Esperanton en 12 lecionoj']}}</h1>
+      <p class="lingva-startpagxo-subtitolo">
+        {{enhavo.fasado['La plej rapida kurso por la bazoj']}}
+      </p>
+    </div>
+  </div>
 
-  <h1>{{enhavo.fasado['Esperanto en 12 lecionoj']}}</h1>
-  <h3>{{enhavo.fasado['La plej rapida kurso por la bazoj']}}</h3>
+  <div class="lingva-startpagxo-trajtoj">
+    {{enkonduko|markdown}}
+  </div>
 
-  {{enhavo.enkonduko|markdown}}
+  <div class="lingva-startpagxo-agoj">
+    <a class="btn btn-primary btn-lg" href="{{vojprefikso}}01">{{enhavo.fasado['Ek']}}</a>
 
-	<div class="text-center">
-		<a class="btn btn-primary btn-lg" href="{{root}}01">{{enhavo.fasado['Ek']}}</a>
-	</div>
+    <div class="dropdown">
+      <button
+        class="btn btn-light btn-lg dropdown-toggle"
+        type="button"
+        data-bs-toggle="dropdown"
+        aria-expanded="false"
+      >
+        🌐 {{enhavo.fasado['{{lingvo_nombro}} lingvoj']|replace('{{lingvo_nombro}}', pretaj_lingvoj|length)}}
+      </button>
+      <ul class="dropdown-menu lingva-startpagxo-lingvoj">
+        {% for kodo, lingvo in pretaj_lingvoj %}
+          <li>
+            <a
+              class="dropdown-item"
+              href="/{{kodo}}/"
+              lang="{{kodo}}"
+              {% if kodo == enhavo.lingvo %}
+                aria-current="true"
+              {% endif %}
+            >{{lingvo.nomo.fontlingve}}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 
-	{% if enhavo.post %} 
-    &nbsp;
-  	<div class="text-center">
-  		<a class="btn btn-success" href="{{root}}post">Mi jam lernis Esperanton</a>
-  	</div>
-  {%- endif %} 
+  {% if enhavo.post %}
+    <p class="lingva-startpagxo-parolantoj text-center">
+      <a class="btn btn-outline-secondary" href="{{vojprefikso}}post">
+        {{enhavo.fasado['Trovu Esperanto-parolantojn']}}
+      </a>
+    </p>
+  {%- endif %}
 
 </div>
 
-	&nbsp;
-	
 {% endblock %}
-

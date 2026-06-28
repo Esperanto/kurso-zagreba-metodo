@@ -1,12 +1,8 @@
-- lipu ni li pana e sona pi **nimi suli 500**
-- **lipu li wile ala e sona sina**: o luka e nena *open* taso
-- lipu li pona **lon ilo lili**.
-- lipu li wile ala e mani. sina ken **[kepeken mama ona lon wile sina](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- li pana e sona pi **nimi suli 500**
+- **mani ala** li wile, li wile ala e **sitelen nimi**
+- li jo e [kulupu kaato sona]({{ url.kartaro }}) pi ilo [Anki]({{ url.anki }})
 
-lipu li kulupu e **lipu lili 12**. lipu lili li pana e:
+lon pini pi lipu sona ni la sina **sona e ijo suli**, sina ken pali e toki sina, li ken pana e sona lili lon tenpo ale.
 
-- toki musi
-- sona toki
-- utala tu wan
-
-sina pini sona tan lipu la, sina ken sona e ijo suli nanpa wan lon toki Epelanto. o alasa!
+o lukin taso!
+____

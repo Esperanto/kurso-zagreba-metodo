@@ -101,7 +101,7 @@ def main():
         output_dir / 'apple-touch-icon.png',
         lingvo_dir / 'index.html',
         output_dir / 'assets' / 'css' / 'main.css',
-        output_dir / 'assets' / 'js' / 'cxefpagxo.js',
+        output_dir / 'assets' / 'js' / 'hejmo.js',
         output_dir / 'assets' / 'js' / 'main.js',
         output_dir / 'assets' / 'img' / 'logo' / 'logo-64.png',
         output_dir / 'assets' / 'img' / 'logo' / 'logo-256.png',

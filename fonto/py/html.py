@@ -19,6 +19,7 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
+GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
 
 
 def morfema_emfazo(md):
@@ -52,6 +53,20 @@ class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
             text=text,
         )
 
+    def link(self, text, url, title=None):
+        title_attr = ''
+        if title:
+            title_attr = ' title="{}"'.format(mistune.escape(title))
+        target_attr = ''
+        if url.startswith(('http://', 'https://')):
+            target_attr = ' target="_blank" rel="noopener"'
+        return '<a href="{}"{}{}>{}</a>'.format(
+            mistune.escape_url(url),
+            title_attr,
+            target_attr,
+            text,
+        )
+
 
 def render_markdown(text):
     md = mistune.create_markdown(
@@ -61,13 +76,114 @@ def render_markdown(text):
     return Markup(md(text))
 
 
-def render_page(name, enhavo, vojprefikso, env):
+def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None):
     rendered = env.get_template(name + '.html').render(
         enhavo=enhavo,
         vojprefikso=vojprefikso,
+        redaktaj_ligiloj=redaktaj_ligiloj or [],
     )
 
     return rendered
+
+
+def github_content_url(lingvo, path, kind='blob'):
+    return f'{GITHUB_CONTENT_BASE}/{kind}/master/enhavo/tradukenda/{lingvo}/{path}'
+
+
+def redaktaj_ligiloj(lingvo, tab=None, leciono=None):
+    if tab is None:
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'enkonduko.md'),
+            }
+        ]
+
+    if tab in ('teksto', 'vortoj'):
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro', 'tree'),
+            }
+        ]
+
+    if tab == 'gramatiko':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, f'gramatiko/{leciono}.md'),
+            }
+        ]
+
+    if tab == 'ekzerco1':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, f'ekzercoj/traduku/{leciono}.yml'),
+            }
+        ]
+
+    if tab == 'ekzerco3':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, f'ekzercoj/traduku-kaj-respondu/{leciono}.yml'),
+            },
+        ]
+
+    if tab == 'post':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'post.md'),
+            }
+        ]
+
+    if tab == 'tabelvortoj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro/tabelvorto.yml'),
+            }
+        ]
+
+    if tab == 'prepozicioj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro/prepozicio.yml'),
+            }
+        ]
+
+    if tab == 'konjunkcioj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro/konjunkcio.yml'),
+            }
+        ]
+
+    if tab == 'afiksoj':
+        return [
+            {
+                'teksto': 'Redaktu prefiksojn',
+                'url': github_content_url(lingvo, 'vortaro/prefikso.yml'),
+            },
+            {
+                'teksto': 'Redaktu sufiksojn',
+                'url': github_content_url(lingvo, 'vortaro/sufikso.yml'),
+            },
+        ]
+
+    if tab == 'diversajxoj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro', 'tree'),
+            }
+        ]
+
+    return []
 
 
 def write_file(filename, content):
@@ -326,6 +442,7 @@ def generate_html(
         ],
         url=url,
         vojprefikso=vojprefikso,
+        redaktaj_ligiloj=redaktaj_ligiloj(lingvo),
         tabs=tabs,
     )
 
@@ -340,7 +457,8 @@ def generate_html(
     eligo[output_path / 'eksporto' / (enhavo['lingvo'] + '.apkg')] = create_anki(enhavo)
 
     for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post']:
-        eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env)
+        pagxaj_ligiloj = redaktaj_ligiloj(lingvo, tab_page)
+        eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env, pagxaj_ligiloj)
 
     paths = []
     for i in range(1, 13):
@@ -376,7 +494,8 @@ def generate_html(
                 next_path=next_path,
                 tabs=tabs,
                 active_tab=tab,
-                identigilo=i_padded + '/' + href
+                identigilo=i_padded + '/' + href,
+                redaktaj_ligiloj=redaktaj_ligiloj(lingvo, tab, i_padded),
             )
 
             eligo[leciono_dir / href / 'index.html'] = tab_rendered

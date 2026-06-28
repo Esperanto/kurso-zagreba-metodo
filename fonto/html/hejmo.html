@@ -29,7 +29,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link href="assets/css/main.css?versio={{versio}}" rel="stylesheet" />
   </head>
-  <body class="cxefpagxo-korpo">
+  <body class="hejmo-korpo">
     <nav class="navbar navbar-dark bg-dark">
       <div class="container navbar-enhavo">
         <a class="navbar-brand" href="/"
@@ -48,62 +48,22 @@
     <main class="container">
       <div class="row">
         <div class="col-sm-12">
-          <div class="cxefpagxo">
-            <div
-              class="cxefpagxo-kapo d-flex align-items-center gap-3 flex-wrap"
-            >
-              <img
-                class="cxefpagxo-logo"
-                src="/assets/img/logo/logo-256.png"
-                width="96"
-                height="96"
-                alt=""
-              />
-              <div>
-                <div id="cxefpagxo-teksto">
-                  <h1 id="cxefpagxo-titolo" class="cxefpagxo-titolo">
-                    {{fasado['Lerni Esperanton']}}
-                  </h1>
-                  <p id="cxefpagxo-subtitolo" class="cxefpagxo-subtitolo mb-0">
-                    {{fasado['La plej rapida kurso por la bazoj']}}
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="cxefpagxo-elektilo d-flex gap-2 flex-wrap">
-              <a
-                id="cxefpagxo-cxefa-lingvo"
-                class="btn btn-primary btn-lg"
-                href="en/"
-                title="English"
-                >English</a
-              >
-              <div class="dropdown">
-                <button
-                  id="cxefpagxo-lingvoj-butono"
-                  class="btn btn-light btn-lg dropdown-toggle"
-                  type="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                  aria-label="Elekti alian lingvon"
+          <div class="hejmo">
+            <h1 class="hejmo-titolo">{{fasado['Lerni Esperanton']}}</h1>
+            <p class="hejmo-subtitolo">
+              {{fasado['La plej rapida kurso por la bazoj']}}
+            </p>
+            <ul id="hejmo-lingvoj" class="hejmo-lingvoj">
+              {% for lingvo in hejmaj_lingvoj %}
+              <li lang="{{lingvo.kodo}}" dir="{{lingvo.tekstodirekto}}">
+                <a href="/{{lingvo.kodo}}/"
+                  >{{lingvo.titolo}} – {{lingvo.subtitolo}}</a
                 >
-                  🌐
-                </button>
-                <ul id="cxefpagxo-lingvoj" class="dropdown-menu"></ul>
-              </div>
-            </div>
-            <div class="cxefpagxo-pri-esperanto">
-              More about Esperanto<br />
-              on
-              <a target="_blank" href="https://esperanto.net/">esperanto.net</a>
-            </div>
-            <div class="cxefpagxo-subteno">
-              <img src="/assets/img/uea.png" alt="" /><br />
-              Subtenita de la<br />
-              <a href="https://uea.org/" target="_blank" rel="noopener">Universala Esperanto Asocio</a>
-            </div>
-            <script id="cxefpagxo-lingvodatenoj" type="application/json">
-              {{cxefpagxaj_lingvoj|tojson}}
+              </li>
+              {% endfor %}
+            </ul>
+            <script id="hejmo-lingvodatenoj" type="application/json">
+              {{hejmaj_lingvoj|tojson}}
             </script>
           </div>
         </div>
@@ -150,7 +110,7 @@
     <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <script src="/vendor/typeahead/typeahead.bundle.min.js"></script>
-    <script src="assets/js/cxefpagxo.js?versio={{versio}}"></script>
+    <script src="assets/js/hejmo.js?versio={{versio}}"></script>
 
     <!-- 100% privacy-first analytics -->
     <script

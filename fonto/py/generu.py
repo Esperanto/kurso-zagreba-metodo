@@ -239,7 +239,7 @@ def legi_cxefpagxan_fasadon(lingvo, defauxlta_fasado=None):
     return fasado
 
 
-def cxefpagxaj_lingvoj(lingvoj):
+def hejmaj_lingvoj(lingvoj):
     defauxlta_fasado = legi_cxefpagxan_fasadon('en')
     rezulto = []
     for kodo in sorted(lingvoj):
@@ -263,8 +263,8 @@ def cxefpagxaj_lingvoj(lingvoj):
 
 def generu_html_por_lingvoj(args, lingvoj):
     por_generi = args.lingvoj or [args.lingvo]
-    cxefpagxa_fasado = legi_cxefpagxan_fasadon('en')
-    cxefpagxaj_lingvoj_datenoj = cxefpagxaj_lingvoj(lingvoj)
+    hejma_fasado = legi_cxefpagxan_fasadon('en')
+    hejmaj_lingvoj_datenoj = hejmaj_lingvoj(lingvoj)
     for index, lingvo in enumerate(por_generi):
         if args.lingvoj:
             print('Generas HTML por ' + lingvo, flush=True)
@@ -274,8 +274,8 @@ def generu_html_por_lingvoj(args, lingvoj):
             enhavo,
             args,
             kopiu_statikan=(index == 0),
-            cxefpagxa_fasado=cxefpagxa_fasado,
-            cxefpagxaj_lingvoj=cxefpagxaj_lingvoj_datenoj,
+            hejma_fasado=hejma_fasado,
+            hejmaj_lingvoj=hejmaj_lingvoj_datenoj,
         )
     html_generilo.generate_pwa()
 

@@ -224,54 +224,22 @@ h3 {
   max-height: min(70vh, 24rem);
   overflow-y: auto;
 }
-.cxefpagxo {
+.hejmo {
+  margin: 0 auto;
+  max-width: 48rem;
+  padding: 2rem 0;
+}
+.hejmo-titolo {
+  font-size: 2rem;
+}
+.hejmo-subtitolo {
+  color: var(--bs-secondary-color);
+  font-size: 1.2rem;
   margin-bottom: 1.5rem;
-  padding: 1.5rem 0;
-  text-align: center;
 }
-.cxefpagxo-korpo > .container > .row {
-  align-items: center;
-  flex: 1 0 auto;
-}
-.cxefpagxo-kapo {
-  justify-content: center;
-  margin-bottom: 1.5rem;
-}
-.cxefpagxo-logo {
-  flex: 0 0 auto;
-}
-.cxefpagxo-titolo {
-  font-size: clamp(2.25rem, 5vw, 3.6rem);
-  line-height: 1.05;
-  margin-bottom: 0.75rem;
-  margin-top: 0;
-}
-.cxefpagxo-subtitolo {
-  font-size: clamp(1.45rem, 3vw, 2.25rem);
-  line-height: 1.2;
-}
-.cxefpagxo-elektilo {
-  justify-content: center;
-  margin-top: 2rem;
-}
-.cxefpagxo-pri-esperanto {
-  margin-top: 2.5rem;
-}
-.cxefpagxo-subteno {
-  font-size: 1.05rem;
-  margin-top: 1.5rem;
-}
-.cxefpagxo-subteno img {
-  height: 2.2rem;
-  margin-right: 0.35rem;
-  width: auto;
-}
-.cxefpagxo-subteno a {
-  white-space: nowrap;
-}
-#cxefpagxo-lingvoj {
-  max-height: min(70vh, 24rem);
-  overflow-y: auto;
+.hejmo-lingvoj {
+  line-height: 1.6;
+  padding-left: 1.25rem;
 }
 .lingva-startpagxo {
   margin: 0 auto;
@@ -419,9 +387,6 @@ h3 {
     grid-column: 1;
     grid-row: 1;
     min-width: 0;
-  }
-  .cxefpagxo-kapo {
-    flex-direction: column;
   }
 }
 

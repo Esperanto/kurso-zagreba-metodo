@@ -1,31 +1,41 @@
 const { expect, test } = require('@playwright/test');
 
-test('ĉefpaĝo elektas retumilan lingvon', async ({ browser }) => {
-  const context = await browser.newContext({ locale: 'fr-FR' });
+test('hejmpaĝo plusendas al la retumila lingvo', async ({ browser }) => {
+  const context = await browser.newContext({ locale: 'de-DE' });
+  await context.addInitScript(() => {
+    Object.defineProperty(navigator, 'languages', { get: () => ['de-DE', 'en-US'] });
+    Object.defineProperty(navigator, 'language', { get: () => 'de-DE' });
+  });
   const page = await context.newPage();
 
   await page.goto('/');
-
-  await expect(page.getByRole('heading', { name: "Apprendre l'espéranto" })).toBeVisible();
-  await expect(page.getByText('Le cours le plus rapide pour apprendre les bases')).toBeVisible();
-
-  const primaryLanguage = page.locator('#cxefpagxo-cxefa-lingvo');
-  await expect(primaryLanguage).toHaveText('Français');
-  await expect(primaryLanguage).toHaveAttribute('href', 'fr/');
-
-  const languageButton = page.locator('#cxefpagxo-lingvoj-butono');
-  await expect(languageButton).toContainText('🌐');
-  await expect(languageButton).toHaveClass(/btn-light/);
-  await page.locator('#cxefpagxo-lingvoj-butono').click();
-
-  const languageMenu = page.locator('#cxefpagxo-lingvoj');
-  await expect(languageMenu.getByRole('link', { name: 'English' })).toBeVisible();
-  await expect(languageMenu.getByRole('link', { name: 'Français' })).toHaveCount(0);
-  await expect(page.locator('.cxefpagxo-pri-esperanto a')).toHaveAttribute('href', 'https://esperanto.net/');
-  await expect(page.getByText('Subtenita de la')).toBeVisible();
-  await expect(page.getByRole('link', { name: 'Universala Esperanto Asocio' })).toBeVisible();
+  await expect(page).toHaveURL(/\/de\/$/);
 
   await context.close();
+});
+
+test('hejmpaĝo plusendas nekonatan lingvon al la angla', async ({ browser }) => {
+  const context = await browser.newContext({ locale: 'zz-ZZ' });
+  await context.addInitScript(() => {
+    Object.defineProperty(navigator, 'languages', { get: () => ['zz-ZZ'] });
+    Object.defineProperty(navigator, 'language', { get: () => 'zz-ZZ' });
+  });
+  const page = await context.newPage();
+
+  await page.goto('/');
+  await expect(page).toHaveURL(/\/en\/$/);
+
+  await context.close();
+});
+
+test('hejmpaĝo enhavas rektajn lingvoligilojn por serĉiloj', async ({ page }) => {
+  const response = await page.request.get('/');
+  const html = await response.text();
+
+  expect(html).toContain('href="/en/"');
+  expect(html).toContain('Learn Esperanto');
+  expect(html).toContain('href="/de/"');
+  expect(html).toContain('Esperanto lernen');
 });
 
 test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {

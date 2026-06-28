@@ -20,6 +20,11 @@ CXEFPAGXO_TITOLO = 'Lerni Esperanton'
 CXEFPAGXO_SUBTITOLO = 'La plej rapida kurso por la bazoj'
 
 
+class Fasado(dict):
+    def __missing__(self, key):
+        return key
+
+
 def legi_yaml(path):
     with Path(path).open(encoding='utf-8-sig') as dosiero:
         return yaml.load(dosiero, Loader=YAML_LOADER)
@@ -80,7 +85,7 @@ def load(language, gramatiko_transpose_headlines=2):
     enhavo['ordoj']['sezono'] = legi_yaml(ordoj_dir / 'sezono.yml')
     enhavo['ordoj']['tago_en_la_semajno'] = legi_yaml(ordoj_dir / 'tago_en_la_semajno.yml')
 
-    enhavo['fasado'] = {}
+    enhavo['fasado'] = Fasado()
     for path in sorted((tradukenda_dir / 'fasado').glob('*.yml')):
         tradukajxoj = legi_yaml(path)
         enhavo['fasado'].update(tradukajxoj)

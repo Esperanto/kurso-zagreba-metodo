@@ -311,8 +311,20 @@ def generate_html(
     else:
         vojprefikso = '/' + lingvo + '/'
 
+    url = {
+        'anki': 'https://apps.ankiweb.net/',
+        'kartaro': vojprefikso + 'eksporto/' + lingvo + '.apkg',
+    }
+
     rendered = env.get_template('index.html').render(
         enhavo=enhavo,
+        enkonduko=env.from_string(enhavo['enkonduko']).render(url=url),
+        pretaj_lingvoj=[
+            (kodo, lingvo)
+            for kodo, lingvo in sorted(enhavo['lingvoj'].items())
+            if lingvo.get('stato') == 'preta'
+        ],
+        url=url,
         vojprefikso=vojprefikso,
         tabs=tabs,
     )

@@ -273,6 +273,58 @@ h3 {
   max-height: min(70vh, 24rem);
   overflow-y: auto;
 }
+.lingva-startpagxo {
+  margin: 0 auto;
+  max-width: 42rem;
+  padding: 1.75rem 0 2.25rem;
+}
+.lingva-startpagxo-kapo {
+  align-items: center;
+  display: flex;
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+.lingva-startpagxo-logo {
+  flex: 0 0 auto;
+}
+.lingva-startpagxo-titoloj {
+  text-wrap: balance;
+}
+.lingva-startpagxo h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  line-height: 1.1;
+  margin-bottom: 0.35rem;
+}
+.lingva-startpagxo-subtitolo {
+  font-size: 1.35rem;
+  margin-bottom: 0;
+}
+.lingva-startpagxo-trajtoj {
+  margin-bottom: 1.75rem;
+}
+.lingva-startpagxo-agoj {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+.lingva-startpagxo-lingvoj {
+  max-height: min(70vh, 24rem);
+  overflow-y: auto;
+}
+.lingva-startpagxo-parolantoj {
+  border-top: 1px solid var(--bs-border-color);
+  padding-top: 1.5rem;
+}
+@media (max-width: 767.98px) {
+  .lingva-startpagxo-kapo {
+    flex-direction: column;
+    gap: 0.75rem;
+    text-align: center;
+  }
+}
 .footer {
   background: #888;
   color: rgba(255, 255, 255, 0.75);

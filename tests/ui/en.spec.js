@@ -28,6 +28,41 @@ test('ĉefpaĝo elektas retumilan lingvon', async ({ browser }) => {
   await context.close();
 });
 
+test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
+  await page.goto('/en/');
+
+  await expect(page.locator('.lingva-startpagxo-logo')).toHaveAttribute(
+    'src',
+    '/assets/img/logo/logo-256.png',
+  );
+  await expect(page.getByRole('heading', { name: 'Learn Esperanto in 12 Lessons' })).toBeVisible();
+  await expect(page.getByText('The Fastest Basics Course')).toBeVisible();
+  await expect(page.getByText('most important 500 words')).toBeVisible();
+  await expect(page.getByText('without registration')).toBeVisible();
+  await expect(page.getByRole('link', { name: 'flashcard deck' })).toHaveAttribute(
+    'href',
+    '/en/eksporto/en.apkg',
+  );
+  await expect(page.getByRole('link', { name: 'Anki' })).toHaveAttribute(
+    'href',
+    'https://apps.ankiweb.net/',
+  );
+  await expect(page.getByRole('link', { name: 'Start' })).toHaveAttribute('href', '/en/01');
+
+  const languageButton = page.locator('.lingva-startpagxo-agoj .dropdown-toggle');
+  await expect(languageButton).toContainText('🌐');
+  await expect(languageButton).toContainText(/languages/);
+  await languageButton.click();
+  await expect(page.locator('.lingva-startpagxo-lingvoj').getByRole('link', { name: 'English' })).toBeVisible();
+
+  const speakerLink = page.getByRole('link', { name: 'Find Esperanto speakers' });
+  await expect(speakerLink).toHaveAttribute(
+    'href',
+    '/en/post',
+  );
+  await expect(page.locator('.lingva-startpagxo-parolantoj')).toHaveClass(/text-center/);
+});
+
 test('vortaro montras tradukon dum tajpado', async ({ page }) => {
   await page.goto('/en/01/');
 

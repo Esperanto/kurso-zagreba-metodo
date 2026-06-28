@@ -92,6 +92,7 @@ test('poŝtelefone vortaro restas inter logo kaj cxiamaj butonoj en unu linio', 
     const dictionary = page.locator('#vortaro');
     await expect(dictionary).toBeVisible();
     await expect(page.getByRole('button', { name: 'Toggle navigation' })).toHaveCount(0);
+    await expect(page.locator('.navbar-brand')).toHaveAttribute('href', '/en/');
 
     const logoBox = await page.locator('.navbar-brand').boundingBox();
     const dictionaryBox = await dictionary.boundingBox();

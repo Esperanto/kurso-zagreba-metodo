@@ -94,11 +94,11 @@ Formataj konvencioj:
 - Ne tuŝu dosierojn ekster `enhavo/tradukenda/${LINGVO}/**`.
 - Se YAML-valoro povus esti interpretata speciale, metu ĝin inter citilojn (ekz.
   `on`, `off`, `yes`, valoroj kun apostrofoj aŭ dupunktoj).
-- Konservu UTF-8 kaj la Esperantajn supersignojn.
+- Konservu UTF-8 kaj la Esperantajn diakritajn signojn.
 
 ## Labormaniero
 
-1. Ekde aktuala `master` kreu novan branĉon (neniam committu rekte al `master`).
+1. Ekde aktuala `master` kreu novan branĉon (neniam enmetu rekte al `master`).
 2. Legu la dosierojn de la lingvo antaŭ ol redakti.
-3. `make check` devas sukcesi antaŭ ĉiu commit.
-4. Pushu kaj kreu PR per `gh`, kun titolo kaj priskribo en Esperanto.
+3. `make check` devas sukcesi antaŭ ĉiu enmeto.
+4. Puŝu kaj kreu PR per `gh`, kun titolo kaj priskribo en Esperanto.

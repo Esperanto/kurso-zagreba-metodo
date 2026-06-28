@@ -1,12 +1,8 @@
-- Hianatra ny ** 500 teny manan-danja indrindra ianao **
-- ** Tsy mila fisoratana anarana **: Tsindrio fotsiny eo amin'ny * fanombohana
-- ** Namboarina ** ho an'ny finday
--Tsy maimaim-poana fotsiny hiany, fa koa ** [afaka ampiasaina amin'ny tetikasa hafa] (https://github.com/Esperanto/kurso-zagreba-metodo) **
-- Ny fampianarana dia ahitana ny lesona 12 , izay samy manana:
+- Mampianatra ny **teny 500 manan-danja indrindra**
+- **Maimaim-poana** ary **tsy mila fisoratana anarana**
+- Miaraka amin'ny [karatra fianarana]({{ url.kartaro }}) ho an'ny [Anki]({{ url.anki }})
 
-- lahateny iray,
-- fanazavana momba ny gramatika
-- ary fanazatra telo
+Aorian'ny fampianarana dia **hahazo ny zava-dehibe** ianao, hamorona fehezanteny manokana, ary hahavita mampita hevitra fototra amin'ny toe-javatra andavanandro.
 
-Rehefa avy mianatra ianao dia ho azonao ny hevitr'ireo hevi-dehibe ary maneho ny tenanao amin'ny teny esperanto. Ny hanandrana azy dia ny manaiky an'io!
-
+Andramo fotsiny!
+____

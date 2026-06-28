@@ -1,12 +1,8 @@
-- uczy **najważniejszych 500 słów**
-- **brak rejestracji**: po prostu naciśnij *Rozpocznij*
-- **wersja mobilna** dla smartfonów
-- kurs jest darmowy, a ponadto **[można go bezpłatnie wykorzystać w innych projektach](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Uczy **500 najważniejszych słów**
+- **Za darmo** i **bez rejestracji**
+- Z [talią fiszek]({{ url.kartaro }}) do [Anki]({{ url.anki }})
 
-Kurs składa się z **12 lekcji**, a każda lekcja składa się z
+Po kursie **zrozumiesz podstawy**, utworzysz własne zdania i będziesz w stanie przekazywać podstawowe myśli w codziennych sytuacjach.
 
-- tekstu,
-- objaśnienia gramatycznego,
-- 3 ćwiczeń.
-
-Po ukończeniu kursu będziesz w stanie zrozumieć i wyrazić to, co najważniejsze. Po prostu spróbuj!
+Po prostu spróbuj!
+____

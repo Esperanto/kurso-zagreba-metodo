@@ -1,12 +1,8 @@
 - Lär ut **de 500 viktigaste orden**
-- **Ingen registrering behövs**: klicka bara på *Start*
-- **Optimerad** för smartphones
-- Inte bara kostnadsfritt, utan dessutom **[fritt att använda i andra projekt](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- **Gratis** och **utan registrering**
+- Med [flashcardlek]({{ url.kartaro }}) för [Anki]({{ url.anki }})
 
-Kursen består av **12 lektioner**, som var och en innehåller:
+Efter kursen kommer du att **förstå det viktigaste**, bilda egna meningar och kunna kommunicera grundläggande idéer i vardagliga situationer.
 
-- en text
-- ett grammatikavsnitt
-- och 3 övningar
-
-Efter att ha genomfört kursen kommer du kunna förstå det viktigaste och forma egna meningar. Ge det ett försök!
+Prova bara!
+____

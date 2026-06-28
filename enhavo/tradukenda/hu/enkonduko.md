@@ -1,12 +1,8 @@
-- Tanuld meg **a legfontosabb 500 szót**
-- **Nem kötött regisztrációhoz**: Csak kattints a *Start* gombra
-- **mobiltelefonnal használható** okostelefonokhoz
-- nem csak ingyenesen letölthető, hanem **[ingyenesen használható más projektekhez is](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Megtanítja a **legfontosabb 500 szót**
+- **Ingyenes** és **regisztráció nélkül használható**
+- [Anki]({{ url.anki }})-hoz való [tanulókártya-csomaggal]({{ url.kartaro }})
 
-A tanfolyam **12 leckéből** áll, mindegyik tartalmaz
+A kurzus után **megérted a lényeget**, saját mondatokat alkotsz, és alapvető gondolatokat tudsz közölni hétköznapi helyzetekben.
 
-- egy szöveget
-- nyelvtani magyarázatokat
-- és 3 gyakorlatot.
-
-Miután elvégezted a tanfolyamot, meg fogod érteni a legfontosabb dolgokat és képes leszel mondatokat alkotni, hogy kifejezd magadat. Csak próbáld ki!
+Csak próbáld ki!
+____

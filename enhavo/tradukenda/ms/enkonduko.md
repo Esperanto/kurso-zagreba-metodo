@@ -1,12 +1,8 @@
-- Mengajar anda menguasai **500 perkataan** yang paling penting
-- **Tidak perlu mendaftar **: Hanya klik  *Mula*
-- Boleh belajar melalui **telefon bimbit**
-- percuma dan boleh diguna di **[projek lain ](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Mengajar **500 perkataan paling penting**
+- **Percuma** dan **tanpa pendaftaran**
+- Dengan [dek kad imbas]({{ url.kartaro }}) untuk [Anki]({{ url.anki }})
 
-Kursus ini mengandungi **12 pelajaran**, setiap pelajaran disediakan
+Selepas kursus ini, anda akan **memahami perkara asas**, membina ayat sendiri, dan dapat menyampaikan idea asas dalam situasi harian.
 
-- satu teks
-- satu penjelasan tatabahasa
-- dan 3 latihan
-
-Setelah anda menamatkan kursus ini, anda boleh membina ayat-ayat untuk berkomunikasi dengan penutur Bahasa Esperanto di dunia. Cubalah !
+Cubalah!
+____

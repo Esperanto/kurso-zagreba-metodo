@@ -1,12 +1,8 @@
-- Teaches you the **most important 500 words**
-- **No registration needed**: Just click *Start*
-- **mobile-optimized** for smartphones
-- not only free of charge, but also **[free to use in other projects](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- आपको **सबसे महत्वपूर्ण 500 शब्द** सिखाता है
+- **मुफ़्त** और **बिना पंजीकरण**
+- [Anki]({{ url.anki }}) के लिए [फ़्लैशकार्ड डेक]({{ url.kartaro }}) सहित
 
-The course consists of **12 lessons**, each with
+कोर्स के बाद आप **आवश्यक बातें समझेंगे**, अपने वाक्य बना सकेंगे और रोज़मर्रा की स्थितियों में बुनियादी विचार व्यक्त कर सकेंगे।
 
-- a text
-- a grammar clarification
-- and 3 exercises.
-
-After having completed the course, you can understand the most important things and form sentences to express yourself. Just try it!
+बस आज़माइए!
+____

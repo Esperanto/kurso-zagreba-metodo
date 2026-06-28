@@ -1,12 +1,8 @@
-- Mengajarkanmu **500 kata terpenting**
-- **Tidak perlu registrasi**: Tinggal klik *Mulai*
-- **Dioptimasi** untuk perangkat ponsel pintar
-- Tidak hanya gratis, tapi juga **[bebas digunakan dalam proyek lainnya](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- Mengajarkan **500 kata terpenting**
+- **Gratis** dan **tanpa registrasi**
+- Dengan [dek kartu belajar]({{ url.kartaro }}) untuk [Anki]({{ url.anki }})
 
-Kursus ini terdiri dari **12 pelajaran**, masing-masing disertai:
+Setelah kursus, kamu akan **memahami hal-hal pokok**, membentuk kalimatmu sendiri, dan mampu menyampaikan gagasan dasar dalam situasi sehari-hari.
 
-- sebuah teks
-- sebuah penjelasan tata bahasa
-- dan 3 buah latihan.
-
-Setelah menyelesaikan kursus ini, kamu dapat memahami hal-hal yang paling penting dan membentuk kalimat untuk mengekspresikan dirimu. Cobalah!
+Coba saja!
+____

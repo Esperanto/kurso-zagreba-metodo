@@ -1,12 +1,8 @@
-- Bu kurs size **en önemli 500 kelimeyi** öğretir
-- **Kayıt olmaya gerek yok**: Sadece *Başla* 'a tıklamanız yeterli
-- Akıllı telefonlar için **mobil uyarlaması** da yapılmıştır.
-- Kurs sadece ücretsiz değil aynı zamanda **[başka projelerde kullanmak için de serbesttir](https://github.com/Esperanto/kurso-zagreba-metodo)**
+- **En önemli 500 kelimeyi** öğretir
+- **Ücretsiz** ve **kayıt gerektirmez**
+- [Anki]({{ url.anki }}) için [flashcard destesi]({{ url.kartaro }}) ile
 
-Kurs **12 ders**'ten meydana geliyor ve her birinde
+Kurstan sonra **temel noktaları anlayacak**, kendi cümlelerini kuracak ve günlük durumlarda temel fikirleri aktarabileceksin.
 
-- bir metin
-- bir dilbilgisi açıklaması
-- ve 3 alıştırma vardır.
-
-Kursu tamamladıktan sonra en önemli şeyleri anlayabilecek ve kendinizi ifade edecek şekilde cümleler kurabileceksiniz. Sadece bir deneyin!
+Sadece dene!
+____

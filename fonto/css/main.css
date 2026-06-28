@@ -319,6 +319,19 @@ h3 {
   height: 31px;
   width: 88px;
 }
+.footer-subteno {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.5rem;
+}
+.footer-subteno-teksto {
+  text-wrap: balance;
+}
+.footer-uea {
+  flex: 0 0 auto;
+  height: 2.2rem;
+  width: auto;
+}
 
 .nav-tabs .nav-link {
   align-items: center;

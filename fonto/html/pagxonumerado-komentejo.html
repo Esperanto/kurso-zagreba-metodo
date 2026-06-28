@@ -6,7 +6,7 @@
   {%- endif %} 
 
 	{% if enhavo.lingvoj[enhavo.lingvo].komentejo %} 
-		<li class="comments"><a class="btn btn-outline-secondary" href="javascript:show_disqus();">{{enhavo.fasado['Komentejo']}}</a></li>
+		<li class="comments"><a class="btn btn-outline-secondary" href="https://kzm-{{enhavo.lingvo}}.disqus.com/{{identigilo}}" target="_blank" rel="noopener">{{enhavo.fasado['Komentejo']}}</a></li>
   {%- else %}
 		<li></li>
   {%- endif %} 
@@ -17,24 +17,3 @@
 		<li></li>
   {%- endif %} 
 </ul>
-
-
-{% if enhavo.lingvoj[enhavo.lingvo].komentejo %} 
-
-	<div id="disqus_thread"></div>
-	<script>
-
-	var disqus_config = function () {
-		this.page.url = 'http://esperanto12.net/{{enhavo.lingvo}}/{{identigilo}}'; 
-		this.page.identifier = '{{identigilo}}'; 
-	};
-	var show_disqus = function() { 
-		var d = document, s = d.createElement('script');
-		s.src = '//kzm-{{enhavo.lingvo}}.disqus.com/embed.js';
-		s.setAttribute('data-timestamp', +new Date());
-		(d.head || d.body).appendChild(s);
-	};
-	</script>
-	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-{%- endif %} 

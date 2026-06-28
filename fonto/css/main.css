@@ -140,12 +140,13 @@ h3 {
   padding: 0.75rem 1rem;
 }
 .gramatika-enhavtabelo ol {
+  display: flex;
+  flex-wrap: wrap;
   line-height: 1.5;
   margin-bottom: 0;
   padding-left: 0.5rem;
 }
 .gramatika-enhavtabelo li {
-  display: inline;
   list-style-position: inside;
   margin-right: 1.5rem;
 }

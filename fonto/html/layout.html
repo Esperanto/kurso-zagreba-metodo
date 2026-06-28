@@ -130,15 +130,19 @@
       </div>
     </nav>
 
+    {% if leciono_index is defined %}
+      <div class="container">
+        <div class="kurso-reklamo">
+          Reklamo: Venu al la
+          <a target="_blank" href="https://www.uea.org/kongresoj">Universala Kongreso</a>
+          en Aŭstrio, 1–8 aŭg. 2026
+        </div>
+      </div>
+    {% endif %}
+
     <main class="container">
       <div class="row">
         <div class="col-sm-12">
-          <!--
-					<div class="ad" >
-						Vizitu la <a target="_blank" href="https://uk.esperanto.net/2026/">Universalan Kongreson en Graz</a> kaj renkontu 1000+ esperantistojn el la tuta mondo.
-					</div>
-						-->
-
           {% block content %} {% endblock %}
         </div>
       </div>
@@ -196,5 +200,18 @@
       async
       src="//gc.zgo.at/count.js"
     ></script>
+    <script>
+      document.addEventListener('click', function(event) {
+          var link = event.target.closest('a');
+          
+          if (link && link.href && !link.href.includes(window.location.hostname)) {
+              window.goatcounter.count({
+                  path:  'outbound-' + link.href,
+                  title: link.innerText.trim() || 'Externer Link',
+                  event: true, 
+              });
+          }
+      });
+    </script>
   </body>
 </html>

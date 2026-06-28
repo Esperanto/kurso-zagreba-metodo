@@ -87,6 +87,18 @@ Formataj konvencioj:
 - Aldonu nur vere akcepteblajn variantojn.
 - Ne aldonu tro vastajn sinonimojn, kiuj ŝanĝus la signifon.
 
+## Fasado (`fasado/*.yml`)
+
+- Plibonigu ankaŭ la tekstojn de la lingva startpaĝo en
+  `fasado/cxefpagxo.yml`.
+- Traduku ĉiujn videblajn fasadotekstojn, inkluzive de butonoj kaj mallongaj
+  alvokoj kiel `{{lingvo_nombro}} lingvoj` kaj
+  `Trovu Esperanto-parolantojn`.
+- Konservu placeholder-ojn ekzakte, ekzemple `{{lingvo_nombro}}`; traduku nur
+  la ĉirkaŭan tekston.
+- Se la cellingvo bezonas alian vortordon ĉirkaŭ placeholder, ŝanĝu la ordon
+  nature sed lasu la placeholder-on netuŝita.
+
 ## Formato kaj limigoj
 
 - Konservu validan YAML-on kaj Markdown-on.

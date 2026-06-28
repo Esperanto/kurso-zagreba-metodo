@@ -139,6 +139,54 @@ def redaktaj_ligiloj(lingvo, tab=None, leciono=None):
             }
         ]
 
+    if tab == 'tabelvortoj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro/tabelvorto.yml'),
+            }
+        ]
+
+    if tab == 'prepozicioj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro/prepozicio.yml'),
+            }
+        ]
+
+    if tab == 'konjunkcioj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro/konjunkcio.yml'),
+            }
+        ]
+
+    if tab == 'afiksoj':
+        return [
+            {
+                'teksto': 'Redaktu prefiksojn',
+                'url': github_content_url(lingvo, 'vortaro/prefikso.yml'),
+            },
+            {
+                'teksto': 'Redaktu sufiksojn',
+                'url': github_content_url(lingvo, 'vortaro/sufikso.yml'),
+            },
+        ]
+
+    if tab == 'diversajxoj':
+        return [
+            {
+                'teksto': 'Redaktu gravajn esprimojn',
+                'url': github_content_url(lingvo, 'vortaro/grava_esprimo.yml'),
+            },
+            {
+                'teksto': 'Redaktu kolorojn',
+                'url': github_content_url(lingvo, 'vortaro/koloro.yml'),
+            },
+        ]
+
     return []
 
 
@@ -413,7 +461,7 @@ def generate_html(
     eligo[output_path / 'eksporto' / (enhavo['lingvo'] + '.apkg')] = create_anki(enhavo)
 
     for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post']:
-        pagxaj_ligiloj = redaktaj_ligiloj(lingvo, 'post') if tab_page == 'post' else None
+        pagxaj_ligiloj = redaktaj_ligiloj(lingvo, tab_page)
         eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env, pagxaj_ligiloj)
 
     paths = []

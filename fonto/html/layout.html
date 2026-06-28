@@ -206,5 +206,18 @@
       async
       src="//gc.zgo.at/count.js"
     ></script>
+    <script>
+      document.addEventListener('click', function(event) {
+          var link = event.target.closest('a');
+          
+          if (link && link.href && !link.href.includes(window.location.hostname)) {
+              window.goatcounter.count({
+                  path:  'outbound-' + link.href,
+                  title: link.innerText.trim() || 'Externer Link',
+                  event: true, 
+              });
+          }
+      });
+    </script>
   </body>
 </html>

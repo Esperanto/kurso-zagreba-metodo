@@ -227,19 +227,19 @@ h3 {
 .hejmo {
   margin: 0 auto;
   max-width: 48rem;
-  padding: 2rem 0;
+  padding: 3rem 0;
+  text-align: center;
 }
 .hejmo-titolo {
-  font-size: 2rem;
-}
-.hejmo-subtitolo {
-  color: var(--bs-secondary-color);
-  font-size: 1.2rem;
-  margin-bottom: 1.5rem;
+  font-size: clamp(3rem, 9vw, 5.5rem);
+  line-height: 1;
+  margin-bottom: 2rem;
 }
 .hejmo-lingvoj {
-  line-height: 1.6;
-  padding-left: 1.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
 }
 .lingva-startpagxo {
   margin: 0 auto;

@@ -35,7 +35,8 @@ test('hejmpaĝo enhavas rektajn lingvoligilojn por serĉiloj', async ({ page }) 
   expect(html).toContain('href="/en/"');
   expect(html).toContain('Learn Esperanto');
   expect(html).toContain('href="/de/"');
-  expect(html).toContain('Esperanto lernen');
+  expect(html).toContain('Deutsch');
+  expect(html).not.toContain('hejmo-subtitolo');
 });
 
 test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {

@@ -49,19 +49,18 @@
       <div class="row">
         <div class="col-sm-12">
           <div class="hejmo">
-            <h1 class="hejmo-titolo">{{fasado['Lerni Esperanton']}}</h1>
-            <p class="hejmo-subtitolo">
-              {{fasado['La plej rapida kurso por la bazoj']}}
-            </p>
-            <ul id="hejmo-lingvoj" class="hejmo-lingvoj">
+            <h1 class="hejmo-titolo">Learn Esperanto</h1>
+            <div id="hejmo-lingvoj" class="hejmo-lingvoj">
               {% for lingvo in hejmaj_lingvoj %}
-              <li lang="{{lingvo.kodo}}" dir="{{lingvo.tekstodirekto}}">
-                <a href="/{{lingvo.kodo}}/"
-                  >{{lingvo.titolo}} – {{lingvo.subtitolo}}</a
-                >
-              </li>
+              <a
+                class="btn btn-outline-primary"
+                href="/{{lingvo.kodo}}/"
+                lang="{{lingvo.kodo}}"
+                dir="{{lingvo.tekstodirekto}}"
+                >{{lingvo.nomo}}</a
+              >
               {% endfor %}
-            </ul>
+            </div>
             <script id="hejmo-lingvodatenoj" type="application/json">
               {{hejmaj_lingvoj|tojson}}
             </script>

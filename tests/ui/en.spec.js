@@ -330,6 +330,20 @@ test('gramatika enhavtabelo aperas dekstre sur labortablo', async ({ page }) => 
 
   expect(boxes.tocLeft).toBeGreaterThan(boxes.contentLeft + 0.5 * (boxes.contentRight - boxes.contentLeft));
   expect(boxes.tocRight).toBeLessThanOrEqual(boxes.contentRight + 1);
+
+  const desktopItems = await page.locator('.gramatika-enhavtabelo li').evaluateAll((items) => {
+    return items.slice(0, 2).map((item) => {
+      const box = item.getBoundingClientRect();
+      return {
+        display: getComputedStyle(item).display,
+        y: box.y,
+      };
+    });
+  });
+
+  expect(desktopItems[0].display).toBe('list-item');
+  expect(desktopItems[1].display).toBe('list-item');
+  expect(desktopItems[1].y).toBeGreaterThan(desktopItems[0].y + 8);
 });
 
 test('gramatika enhavtabelo restas horizontala sur poŝtelefono', async ({ page }) => {
@@ -345,6 +359,7 @@ test('gramatika enhavtabelo restas horizontala sur poŝtelefono', async ({ page 
 
   expect(Math.abs(boxes[0].y - boxes[1].y)).toBeLessThan(8);
   expect(boxes[1].x).toBeGreaterThan(boxes[0].x);
+  await expect(first).toHaveCSS('display', 'list-item');
 });
 
 test('aktiva leciona langeto havas kampecan fonon', async ({ page }) => {

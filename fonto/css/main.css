@@ -140,13 +140,18 @@ h3 {
   padding: 0.75rem 1rem;
 }
 .gramatika-enhavtabelo ol {
-  display: flex;
-  flex-wrap: wrap;
   line-height: 1.5;
   margin-bottom: 0;
   padding-left: 0.5rem;
 }
+.gramatika-enhavtabelo ol::after {
+  clear: both;
+  content: "";
+  display: block;
+}
 .gramatika-enhavtabelo li {
+  display: list-item;
+  float: left;
   list-style-position: inside;
   margin-right: 1.5rem;
 }
@@ -352,6 +357,11 @@ h3 {
   }
   .gramatika-enhavtabelo ol {
     display: block;
+    padding-left: 1.25rem;
+  }
+  .gramatika-enhavtabelo li {
+    float: none;
+    margin-right: 0;
   }
   .gramatika-teksto {
     grid-column: 1;

@@ -178,13 +178,9 @@ def redaktaj_ligiloj(lingvo, tab=None, leciono=None):
     if tab == 'diversajxoj':
         return [
             {
-                'teksto': 'Redaktu gravajn esprimojn',
-                'url': github_content_url(lingvo, 'vortaro/grava_esprimo.yml'),
-            },
-            {
-                'teksto': 'Redaktu kolorojn',
-                'url': github_content_url(lingvo, 'vortaro/koloro.yml'),
-            },
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro', 'tree'),
+            }
         ]
 
     return []

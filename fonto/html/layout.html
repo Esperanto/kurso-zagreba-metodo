@@ -134,7 +134,7 @@
       <div class="container">
         <div class="kurso-reklamo">
           Reklamo: Venu al la
-          <a target="_blank" href="https://www.uea.org/kongresoj">Universala Kongreso</a>
+          <a href="https://www.uea.org/kongresoj" target="_blank" rel="noopener">Universala Kongreso</a>
           en Aŭstrio, 1–8 aŭg. 2026
         </div>
       </div>
@@ -151,13 +151,13 @@
     <footer class="footer">
       <div class="container footer-kolumnoj">
         <div class="footer-listo">
-          <a class="footer-licenco" href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md">
+          <a class="footer-licenco" href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md" target="_blank" rel="noopener">
             <img src="/assets/img/cc-by.svg" alt="">
             <span>Krea komunaĵo</span>
           </a>
           <span>
             Surbaze de la
-            <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo">Zagreba metodo</a>
+            <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo" target="_blank" rel="noopener">Zagreba metodo</a>
           </span>
           <span class="footer-subteno">
             <img class="footer-uea" src="/assets/img/uea.png" alt="" />
@@ -173,15 +173,17 @@
           <a href="{{vojprefikso}}auxtoroj/">Kontribuantoj</a>
           <a
             href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md"
+            target="_blank"
+            rel="noopener"
             >Kontribuu</a
           >
           {% for redakta_ligilo in redaktaj_ligiloj|default([]) %}
-            <a href="{{redakta_ligilo.url}}">{{redakta_ligilo.teksto}}</a>
+            <a href="{{redakta_ligilo.url}}" target="_blank" rel="noopener">{{redakta_ligilo.teksto}}</a>
           {% endfor %}
         </div>
         <div class="footer-listo">
-          <a href="https://jaehnig.org/impressum/">Kontakto</a>
-          <a href="https://jaehnig.org/privacy">Privateco</a>
+          <a href="https://jaehnig.org/impressum/" target="_blank" rel="noopener">Kontakto</a>
+          <a href="https://jaehnig.org/privacy" target="_blank" rel="noopener">Privateco</a>
           <span class="versio">⏱︎ Versio: {{enhavo.versio}}</span>
         </div>
       </div>

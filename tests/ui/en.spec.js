@@ -58,6 +58,8 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
     'href',
     'https://apps.ankiweb.net/',
   );
+  await expect(page.getByRole('link', { name: 'Anki' })).toHaveAttribute('target', '_blank');
+  await expect(page.getByRole('link', { name: 'Anki' })).toHaveAttribute('rel', 'noopener');
   await expect(page.getByRole('link', { name: 'Start' })).toHaveAttribute('href', '/en/01');
 
   const languageButton = page.locator('.lingva-startpagxo-agoj .dropdown-toggle');
@@ -142,11 +144,15 @@ test('piedo montras grizajn tri kolumnojn kun permesilaj ligiloj', async ({ page
     'href',
     'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md',
   );
+  await expect(footer.getByRole('link', { name: 'Krea komunaĵo' })).toHaveAttribute('target', '_blank');
+  await expect(footer.getByRole('link', { name: 'Krea komunaĵo' })).toHaveAttribute('rel', 'noopener');
   await expect(footer.getByText('Surbaze de la')).toBeVisible();
   await expect(footer.getByRole('link', { name: 'Zagreba metodo' })).toHaveAttribute(
     'href',
     'https://eo.wikipedia.org/wiki/Zagreba_metodo',
   );
+  await expect(footer.getByRole('link', { name: 'Zagreba metodo' })).toHaveAttribute('target', '_blank');
+  await expect(footer.getByRole('link', { name: 'Zagreba metodo' })).toHaveAttribute('rel', 'noopener');
   await expect(footer.getByRole('link', { name: 'Kontribuantoj' })).toHaveAttribute(
     'href',
     /auxtoroj\/$/,
@@ -155,6 +161,8 @@ test('piedo montras grizajn tri kolumnojn kun permesilaj ligiloj', async ({ page
     'href',
     'https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md',
   );
+  await expect(footer.getByRole('link', { name: 'Kontribuu' })).toHaveAttribute('target', '_blank');
+  await expect(footer.getByRole('link', { name: 'Kontribuu' })).toHaveAttribute('rel', 'noopener');
   await expect(footer.getByText(/⏱︎ Versio: [0-9a-f]{7}/)).toBeVisible();
 
   const footerBox = await footer.boundingBox();
@@ -169,6 +177,8 @@ test('piedo ligas al redaktado de la aktuala enhavo', async ({ page }) => {
     'href',
     'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/enhavo/tradukenda/en/enkonduko.md',
   );
+  await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu tiun ĉi enhavon' })).toHaveAttribute('target', '_blank');
+  await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu tiun ĉi enhavon' })).toHaveAttribute('rel', 'noopener');
 
   await page.goto('/en/01/');
   await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu tiun ĉi enhavon' })).toHaveAttribute(

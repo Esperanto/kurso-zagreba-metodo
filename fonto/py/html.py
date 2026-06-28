@@ -53,6 +53,20 @@ class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
             text=text,
         )
 
+    def link(self, text, url, title=None):
+        title_attr = ''
+        if title:
+            title_attr = ' title="{}"'.format(mistune.escape(title))
+        target_attr = ''
+        if url.startswith(('http://', 'https://')):
+            target_attr = ' target="_blank" rel="noopener"'
+        return '<a href="{}"{}{}>{}</a>'.format(
+            mistune.escape_url(url),
+            title_attr,
+            target_attr,
+            text,
+        )
+
 
 def render_markdown(text):
     md = mistune.create_markdown(

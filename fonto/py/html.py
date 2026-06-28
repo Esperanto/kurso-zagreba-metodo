@@ -76,10 +76,11 @@ def render_markdown(text):
     return Markup(md(text))
 
 
-def render_page(name, enhavo, vojprefikso, env):
+def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None):
     rendered = env.get_template(name + '.html').render(
         enhavo=enhavo,
         vojprefikso=vojprefikso,
+        redaktaj_ligiloj=redaktaj_ligiloj or [],
     )
 
     return rendered
@@ -110,7 +111,7 @@ def redaktaj_ligiloj(lingvo, tab=None, leciono=None):
         return [
             {
                 'teksto': 'Redaktu tiun ĉi enhavon',
-                'url': github_content_url(lingvo, 'gramatiko', 'tree'),
+                'url': github_content_url(lingvo, f'gramatiko/{leciono}.md'),
             }
         ]
 
@@ -126,12 +127,16 @@ def redaktaj_ligiloj(lingvo, tab=None, leciono=None):
         return [
             {
                 'teksto': 'Redaktu tiun ĉi enhavon',
-                'url': github_content_url(lingvo, f'ekzercoj/traduku/{leciono}.yml'),
-            },
-            {
-                'teksto': 'Redaktu respondojn',
                 'url': github_content_url(lingvo, f'ekzercoj/traduku-kaj-respondu/{leciono}.yml'),
             },
+        ]
+
+    if tab == 'post':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'post.md'),
+            }
         ]
 
     return []
@@ -408,7 +413,8 @@ def generate_html(
     eligo[output_path / 'eksporto' / (enhavo['lingvo'] + '.apkg')] = create_anki(enhavo)
 
     for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post']:
-        eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env)
+        pagxaj_ligiloj = redaktaj_ligiloj(lingvo, 'post') if tab_page == 'post' else None
+        eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env, pagxaj_ligiloj)
 
     paths = []
     for i in range(1, 13):

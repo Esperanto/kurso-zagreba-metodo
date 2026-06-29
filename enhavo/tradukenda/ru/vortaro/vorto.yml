@@ -7,7 +7,7 @@ alporti:
 alportis: 
  - принёс
  - поднёс
-alvenigas: leads here
+alvenigas: приводит сюда
 alvenis: 
  - прибыть
  - прийти
@@ -68,7 +68,7 @@ faligi:
 faligis: уронил
 familianoj: члены семьи
 fermita: закрытый 
-fine: на конце
+fine: наконец
 foresti: отсутствовать
 foriros: ушёл
 fratino: сестра
@@ -97,9 +97,11 @@ instruiston: учителя
 intervidiĝas: видятся
 iron: хождения
 junulino: девушка
-junulinoj: девушка
+junulinoj: девушки
 junulinon: девушку
-junuloj: youngsters
+junuloj:
+- молодые люди
+- юноши
 kafejo: кафе
 kafejon: кафе
 karulino: дорогая
@@ -189,7 +191,7 @@ multpiedaj:
 - многоногие
 naskiĝtaga: на день рождения
 naskiĝtago: день рождения 
-naturaĵojn: натуральный продукт
+naturaĵojn: натуральные продукты
 nehoma: нечеловеческий
 neinteresaj: неинтересные
 nokta: ночной
@@ -208,7 +210,7 @@ plibeligis: украсил
 plimulto: большинство
 policano: полицейский
 promenejo: место для гуляния
-promeno: гулять
+promeno: прогулка
 rapidege: очень быстро
 realigi: реализовать
 redonu: возвращать
@@ -223,14 +225,14 @@ revidi:
 - вновь увидеть
 - снова увидеть
 - ещё раз увидеть
-revido: досвидания
+revido: до свидания
 ridetis: улыбнулся
 rideto: улыбка
 riĉeco: богатство
 riĉulo: богач
 salton: прыжка
 saluton: привет
-samklubanoj: одноклубник
+samklubanoj: одноклубники
 sekretajn: тайных
 sekreton: тайну
 senbrue:
@@ -286,7 +288,7 @@ veturigus: повёз бы
 viaj: ваши
 virino: женщина
 vojaĝantoj: путешественники
-ĉambristoj: камердинер
+ĉambristoj: камердинеры
 ĉeesto: присутствие
 ĉirkaŭaĵo: окрестность
 ĝenon:

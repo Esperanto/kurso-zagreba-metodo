@@ -1,54 +1,83 @@
-al: 
+al:
 - à
-- dans la direction de
-anstataŭ: à la place de
+- vers
+anstataŭ:
+- à la place de
+- au lieu de
 antaŭ:
 - avant
 - devant
-apud: à côté de
+apud:
+- à côté de
+- près de
 da: de
 de:
 - de
 - depuis
-dum: pendant
-ekde: depuis
-ekster: hors de
+dum:
+- pendant
+- durant
+ekde:
+- depuis
+- à partir de
+ekster:
+- hors de
+- en dehors de
 el:
 - de
 - hors de
-en: 
+en:
 - dans
 - en
-inter: 
+inter:
 - entre
 - parmi
 je:
+- à
 - de
-- avec
 - dans
-kontraŭ: 
+kontraŭ:
 - contre
-krom: 
-- outre
+- en face de
+krom:
 - à part
-kun: 
-- avec
-laŭ: "d'après"
-per: 
+- sauf
+- outre
+kun: avec
+laŭ:
+- selon
+- "d'après"
+- le long de
+per:
 - au moyen de
 - avec
+- par
 por: pour
 post: après
 pri:
 - au sujet de
+- sur
 - concernant
-pro: à cause de
+pro:
+- à cause de
+- en raison de
 sen: sans
 sub: sous
-super: au-dessus de
+super:
+- au-dessus de
+- par-dessus
 sur: sur
-tra: par
-trans: au travers
-ĉe: chez
-ĉirkaŭ: autour de
+tra:
+- à travers
+- par
+trans:
+- "de l'autre côté de"
+- au-delà de
+ĉe:
+- chez
+- à
+- auprès de
+ĉirkaŭ:
+- autour de
+- environ
 ĝis: jusqu'à

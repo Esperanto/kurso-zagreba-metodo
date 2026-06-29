@@ -1,6 +1,6 @@
 - sinjorino:
-  - женщина
   - госпожа
+  - дама
 - malmultekosta: дешёвый
 - ĉiutaga: ежедневный
 - intertempe: тем временем
@@ -17,7 +17,9 @@
 - vendejo: магазин
 - edzino: жена
 - ĉiujare: ежегодно
-- jarcento: столетие
+- jarcento:
+  - столетие
+  - век
 - kvarmonate: каждые четыре месяца
 - alveturi: приехать
 - pli multekosta: более дорогой

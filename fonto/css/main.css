@@ -416,6 +416,7 @@ h3 {
   }
   .gramatika-enhavtabelo li {
     float: none;
+    list-style-position: outside;
     padding-right: 0;
   }
   .gramatika-teksto {

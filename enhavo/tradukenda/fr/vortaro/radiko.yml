@@ -96,7 +96,7 @@ kapabl: capable
 kapt: attraper
 kar: cher
 kastel: château
-kav: cave
+kav: creux
 kelk: quelques
 kelner: serveur
 klar: clair
@@ -156,7 +156,7 @@ mult: beaucoup
 muzik: musique
 nask: donner naissance
 natur: nature
-neces: avoir besoin
+neces: nécessaire
 nokt: nuit
 nom: nom
 not: note
@@ -167,7 +167,7 @@ okaz: avoir lieu
 okul: oeil
 onkl: oncle
 opini: opinion
-ord: commander
+ord: ordre
 orel: oreille
 pac: paix
 pag: payer
@@ -175,7 +175,7 @@ pan: pain
 paper: papier
 pardon: pardonner
 parol: parler
-part: partir
+part: partie
 pas: passer
 patr: père
 paŝ: pas
@@ -191,21 +191,21 @@ plaĉ: plaire
 plen: plein
 polic: police
 pord: porte
-port: faire attention
+port: porter
 pov: pouvoir
 pren: prendre
 pret: prêt
 prezent: présenter
 problem: problème
-proksim: à côté
+proksim: proche
 promen: se promener
 propon: proposer
 prov: essayer
 rajt: avoir le droit de
 rapid: rapide
 raport: rapporter
-real: réél
-rekt: directe
+real: réel
+rekt: direct
 renkont: rencontrer
 respekt: respecter
 respond: répondre
@@ -231,7 +231,7 @@ serĉ: chercher
 si: pronom réfléchi
 sid: être assis
 silent: silence
-simil: identique
+simil: semblable
 sinjor:
   - monsieur
   - M.
@@ -274,7 +274,7 @@ Veneci: Venise
 ver: vrai
 vesper: soir
 vest: habiller
-vetur: conduire
+vetur: voyager (en véhicule)
 vid: voir
 vin: vin
 vir: homme
@@ -291,7 +291,7 @@ zorg: se soucier
 ĉambr: pièce (d'un logement)
 ĉef: chef
 ĝen: gêner
-ĝeneral: géneral
+ĝeneral: général
 ĝoj: joie
 ĝust: juste
 ĵet: jeter

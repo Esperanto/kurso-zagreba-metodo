@@ -82,6 +82,7 @@ $('input[data-solvo]').on('input', function() {
 
   if (correct) {
     form_group.removeClass('has-error').addClass('has-success');
+    $(this).removeClass('is-invalid').addClass('is-valid');
     feedback.removeClass('feedback-icon-remove').addClass('feedback-icon-ok').text('✓');
 		// Set focus on the current
 		// to not confuse it during the following step. 
@@ -89,9 +90,10 @@ $('input[data-solvo]').on('input', function() {
 		// Jump to the next input.
 		selectNextTabbableOrFocusable(':tabbable');
   } else {
-		console.log(input);
-		console.log($(this).attr('data-solvo'));
+    console.log(input);
+    console.log($(this).attr('data-solvo'));
     form_group.removeClass('has-success').addClass('has-error');
+    $(this).removeClass('is-valid').addClass('is-invalid');
     feedback.removeClass('feedback-icon-ok').addClass('feedback-icon-remove').text('✕');
   }
 });

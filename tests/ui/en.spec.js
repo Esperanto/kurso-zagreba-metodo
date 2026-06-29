@@ -189,7 +189,7 @@ test('piedo ligas al redaktado de la aktuala enhavo', async ({ page }) => {
   await page.goto('/en/01/gramatiko/');
   await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu tiun ĉi enhavon' })).toHaveAttribute(
     'href',
-    'https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/enhavo/tradukenda/en/gramatiko',
+    'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/enhavo/tradukenda/en/gramatiko/01.md',
   );
 
   await page.goto('/en/01/ekzerco1/');
@@ -200,10 +200,6 @@ test('piedo ligas al redaktado de la aktuala enhavo', async ({ page }) => {
 
   await page.goto('/en/01/ekzerco3/');
   await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu tiun ĉi enhavon' })).toHaveAttribute(
-    'href',
-    'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/enhavo/tradukenda/en/ekzercoj/traduku/01.yml',
-  );
-  await expect(page.locator('.footer').getByRole('link', { name: 'Redaktu respondojn' })).toHaveAttribute(
     'href',
     'https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/enhavo/tradukenda/en/ekzercoj/traduku-kaj-respondu/01.yml',
   );
@@ -524,6 +520,42 @@ test('ekzercaj tekstkampoj sekvas la size-valoron', async ({ page }) => {
 
     await expect(sizeOffsets.every((offset) => offset === 2)).toBe(true);
   }
+});
+
+test('ekzerco 2 uzas Bootstrap-validigon ene de enigogrupoj', async ({ page }) => {
+  await page.goto('/en/01/ekzerco2/');
+
+  await expect(page.locator('.ekzerco2-tasko input[type="button"].ekz2-fiksa-vorto')).toHaveCount(0);
+  await expect(page.locator('.ekzerco2-tasko input[type="text"].ekz2-fiksa-vorto')).toHaveCount(0);
+  await expect(page.locator('.ekzerco2-tasko .input-group:not(:has(input.form-control)) > .input-group-text').first()).toBeVisible();
+
+  const inputGroup = page.locator('.ekzerco2-tasko .input-group:has(input.form-control)').first();
+  await expect(inputGroup.locator('.feedback-icon')).toHaveCount(0);
+  await expect(inputGroup.locator('input.form-control')).toHaveClass(/is-invalid/);
+
+  const groupEdges = await inputGroup.evaluate((group) => {
+    const parts = [...group.children].map((part) => part.getBoundingClientRect());
+    return parts.slice(1).every((part, index) => {
+      const previous = parts[index];
+      return Math.abs(previous.right - part.left) <= 1;
+    });
+  });
+
+  await expect(groupEdges).toBe(true);
+
+  const heightSpread = await page.locator('.ekzerco2-tasko .input-group, .ekzerco2-tasko .form-group')
+    .evaluateAll((items) => {
+      const heights = items.slice(0, 8).map((item) => Math.round(item.getBoundingClientRect().height));
+      return Math.max(...heights) - Math.min(...heights);
+    });
+  await expect(heightSpread).toBeLessThanOrEqual(2);
+
+  const punctuationGap = await page.locator('.ekzerco2-tasko .ekz2-interpunkcio').first()
+    .evaluate((punctuation) => {
+      const previous = punctuation.previousElementSibling;
+      return Math.round(punctuation.getBoundingClientRect().left - previous.getBoundingClientRect().right);
+    });
+  await expect(punctuationGap).toBeGreaterThanOrEqual(4);
 });
 
 test('ekzercaj respondaj ikonoj restas en la kampoj', async ({ page }) => {

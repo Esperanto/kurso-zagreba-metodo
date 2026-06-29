@@ -14,11 +14,10 @@ dum: podczas
 ekde: 
 - od
 - odkąd
-ekster: 
-- oprócz
+ekster:
 - poza
+- na zewnątrz
 el:
-- od
 - z
 - ze
 en: w
@@ -54,7 +53,9 @@ super:
 - powyżej
 sur: na
 tra: przez
-trans: poprzez
+trans:
+- na drugą stronę
+- po drugiej stronie
 ĉe: 
 - u
 - przy

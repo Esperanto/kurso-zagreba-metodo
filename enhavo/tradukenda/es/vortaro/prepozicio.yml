@@ -11,7 +11,7 @@ de:
 - desde
 dum:
 - durante
-- mediante
+- mientras
 ekde: desde
 ekster: fuera de
 el: de
@@ -46,7 +46,9 @@ sub:
 super: en (encima, no tocando)
 sur: en (encima)
 tra: a través de, por
-trans: a través de
+trans:
+- al otro lado de
+- más allá de
 ĉe:
 - en
 - por

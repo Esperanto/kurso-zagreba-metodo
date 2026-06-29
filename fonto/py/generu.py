@@ -39,14 +39,62 @@ def transpose_headlines(markdown, level):
     return re.sub(r'(^|\n)(#+)', lambda match: match.group(1) + prefix + match.group(2), markdown)
 
 
-def grupigu_kompletigon(vicoj):
-    """Transformu la ekzercon «Kompletigu la frazojn» en vortojn.
+INTERPUNKCIO = set('.,;:!?«»“”„"\'()[]…')
 
-    Ĉiu frazo (vico) iĝas listo de vortoj; ĉiu vorto estas listo de
-    segmentoj {'tipo': 'fiksa'|'solvo', 'teksto': ...}. Spacoj en la
-    «videbla»-teksto (kaj malplenaj «videbla»-eroj) apartigas vortojn;
-    «solvo»-eroj neniam apartigas vortojn, do ili kunfandiĝas kun
-    najbaraj fiksaj partoj (prefikso, sufikso aŭ infikso de unu vorto).
+
+def disigi_interpunkcion(segmentoj):
+    """Apartigu komencan/finan interpunkcion de vorto en proprajn tokenojn.
+
+    Liveras liston de tokenoj: {'tipo': 'vorto', 'segmentoj': [...]} aŭ
+    {'tipo': 'interpunkcio', 'teksto': ...}.
+    """
+    segmentoj = [dict(s) for s in segmentoj]
+    komencaj = []
+    while segmentoj and segmentoj[0]['tipo'] == 'fiksa':
+        teksto = segmentoj[0]['teksto']
+        n = 0
+        while n < len(teksto) and teksto[n] in INTERPUNKCIO:
+            n += 1
+        if n == 0:
+            break
+        komencaj.extend({'tipo': 'interpunkcio', 'teksto': c} for c in teksto[:n])
+        resto = teksto[n:]
+        if resto:
+            segmentoj[0]['teksto'] = resto
+            break
+        segmentoj.pop(0)
+
+    finaj = []
+    while segmentoj and segmentoj[-1]['tipo'] == 'fiksa':
+        teksto = segmentoj[-1]['teksto']
+        n = len(teksto)
+        while n > 0 and teksto[n - 1] in INTERPUNKCIO:
+            n -= 1
+        if n == len(teksto):
+            break
+        finaj = [{'tipo': 'interpunkcio', 'teksto': c} for c in teksto[n:]] + finaj
+        resto = teksto[:n]
+        if resto:
+            segmentoj[-1]['teksto'] = resto
+            break
+        segmentoj.pop()
+
+    tokenoj = list(komencaj)
+    if segmentoj:
+        tokenoj.append({'tipo': 'vorto', 'segmentoj': segmentoj})
+    tokenoj.extend(finaj)
+    return tokenoj
+
+
+def grupigu_kompletigon(vicoj):
+    """Transformu la ekzercon «Kompletigu la frazojn» en tokenojn.
+
+    Ĉiu frazo (vico) iĝas listo de tokenoj. Vorto-tokeno havas
+    «segmentoj» {'tipo': 'fiksa'|'solvo', 'teksto': ...}; interpunkcio
+    estas aparta tokeno. Spacoj en la «videbla»-teksto (kaj malplenaj
+    «videbla»-eroj) apartigas vortojn; «solvo»-eroj neniam apartigas,
+    do ili kunfandiĝas kun najbaraj fiksaj partoj (prefikso, sufikso
+    aŭ infikso de unu vorto).
     """
     frazoj = []
     for vico in vicoj:
@@ -75,7 +123,11 @@ def grupigu_kompletigon(vicoj):
                 if solvo != '':
                     nuna.append({'tipo': 'solvo', 'teksto': solvo})
         fini()
-        frazoj.append(vortoj)
+
+        tokenoj = []
+        for vorto in vortoj:
+            tokenoj.extend(disigi_interpunkcion(vorto))
+        frazoj.append(tokenoj)
     return frazoj
 
 

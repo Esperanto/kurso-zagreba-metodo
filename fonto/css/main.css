@@ -582,19 +582,22 @@ ol.tasko {
   top: 50%;
   transform: translateY(-50%);
 }
-/* Ekzerco 2: ĉiu vorto estas enigo aŭ enigogrupo. */
+/* Ekzerco 2: ĉiu vorto estas enigo aŭ enigogrupo, interpunkcio aparta. */
+.ekzerco2-tasko ol.tasko {
+  line-height: 2.6;
+}
 .ekzerco2-tasko ol.tasko li {
-  align-items: center;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.3em 0.4em;
-  line-height: 2.4;
-  margin-bottom: 0.4em;
+  margin-bottom: 0.5em;
+}
+.ekzerco2-tasko .ekz2-fiksa-vorto,
+.ekzerco2-tasko .form-group,
+.ekzerco2-tasko .input-group,
+.ekzerco2-tasko .ekz2-interpunkcio {
+  vertical-align: middle;
 }
 .ekzerco2-tasko .input-group {
   display: inline-flex;
   position: relative;
-  vertical-align: middle;
   width: auto;
 }
 .ekzerco2-tasko .input-group .form-control {
@@ -607,9 +610,13 @@ ol.tasko {
 }
 .ekzerco2-tasko .input-group .feedback-icon {
   align-self: center;
-  margin: 0 0.15em;
+  margin: 0 0.1em 0 0.15em;
   position: static;
   transform: none;
+}
+.ekzerco2-tasko .ekz2-interpunkcio {
+  display: inline-block;
+  font-weight: 700;
 }
 
 .has-error input {

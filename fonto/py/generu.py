@@ -39,6 +39,46 @@ def transpose_headlines(markdown, level):
     return re.sub(r'(^|\n)(#+)', lambda match: match.group(1) + prefix + match.group(2), markdown)
 
 
+def grupigu_kompletigon(vicoj):
+    """Transformu la ekzercon «Kompletigu la frazojn» en vortojn.
+
+    Ĉiu frazo (vico) iĝas listo de vortoj; ĉiu vorto estas listo de
+    segmentoj {'tipo': 'fiksa'|'solvo', 'teksto': ...}. Spacoj en la
+    «videbla»-teksto (kaj malplenaj «videbla»-eroj) apartigas vortojn;
+    «solvo»-eroj neniam apartigas vortojn, do ili kunfandiĝas kun
+    najbaraj fiksaj partoj (prefikso, sufikso aŭ infikso de unu vorto).
+    """
+    frazoj = []
+    for vico in vicoj:
+        vortoj = []
+        nuna = []
+
+        def fini():
+            if nuna:
+                vortoj.append(nuna[:])
+                nuna.clear()
+
+        for parto in vico:
+            if 'videbla' in parto:
+                teksto = parto['videbla']
+                if not teksto:
+                    fini()
+                    continue
+                pecoj = teksto.split(' ')
+                for indekso, peco in enumerate(pecoj):
+                    if indekso > 0:
+                        fini()
+                    if peco != '':
+                        nuna.append({'tipo': 'fiksa', 'teksto': peco})
+            elif 'solvo' in parto:
+                solvo = (parto['solvo'] or '').strip()
+                if solvo != '':
+                    nuna.append({'tipo': 'solvo', 'teksto': solvo})
+        fini()
+        frazoj.append(vortoj)
+    return frazoj
+
+
 def get_markdown_headlines(s):
     def purigu_titolon(markdown_titolo):
         return re.sub(r'[`*_]+', '', markdown_titolo).strip()
@@ -160,7 +200,7 @@ def load(language, gramatiko_transpose_headlines=2):
         ekzercoj['Traduku kaj respondu'] = legi_yaml(path)
 
         path = netradukenda_dir / 'ekzercoj' / 'kompletigu-la-frazojn' / (i_padded + '.yml')
-        ekzercoj['Kompletigu la frazojn'] = legi_yaml(path)
+        ekzercoj['Kompletigu la frazojn'] = grupigu_kompletigon(legi_yaml(path))
 
         leciono['ekzercoj'] = ekzercoj
 

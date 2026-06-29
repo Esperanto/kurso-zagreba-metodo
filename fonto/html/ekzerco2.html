@@ -36,26 +36,37 @@
 	
   <p class="alert alert-info" role="alert" dir="{{enhavo.tekstodirekto}}">{{ enhavo.fasado['Por la Esperantaj literoj vi ankaŭ rajtas skribi cx, gx, hx, jx, sx kaj ux.'] }}</p>
 
-  <form id="form-{{form_id}}" class="form-inline">
+  <form id="form-{{form_id}}" class="form-inline ekzerco2-tasko">
     <ol class="tasko">
-      {% for vico in leciono.ekzercoj[tasko] %}
+      {% for vorto in leciono.ekzercoj[tasko] %}
       {% set vico_loop = loop %}
       <li>
-        {%- for parto in vico -%}
-          {% set parto_loop = loop %}
-          {% set id = 'vico-' ~ leciono_index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index ~ '-' ~ parto_loop.index %}
-          {%- for klavo,valoro in parto.items() -%}
-            {%- if klavo == 'videbla' -%}
-              {%- if valoro -%}
-                {{valoro}}
-              {%- else %} {% endif -%} 
-            {%- elif klavo == 'solvo' -%}
-              <div id="form-group-{{id}}" class="form-group has-error has-feedback">
-                <input id="{{id}}" type="text" class="form-control" size="{{(valoro|length) + 2}}" data-solvo="{{valoro}}" />
-                <span id="feedback-{{id}}" class="feedback-icon feedback-icon-remove" aria-hidden="true">✕</span>
-              </div>
-            {%- endif -%} 
-         {%- endfor -%}
+        {%- for vorto in vorto -%}
+          {% set vorto_loop = loop %}
+          {% set id = 'vico-' ~ leciono_index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index ~ '-' ~ vorto_loop.index %}
+          {%- set havas_solvon = vorto | selectattr('tipo', 'equalto', 'solvo') | list | length > 0 -%}
+          {%- if not havas_solvon -%}
+            {# Tuta ekzistanta vorto: neredaktebla butono-enigo. #}
+            <input type="button" class="btn btn-outline-secondary ekz2-fiksa-vorto" value="{{ vorto | map(attribute='teksto') | join(' ') }}" tabindex="-1" />
+          {%- elif vorto | length == 1 -%}
+            {# Tuta plenigenda vorto: normala enigo. #}
+            <div id="form-group-{{id}}" class="form-group has-error has-feedback">
+              <input id="{{id}}" type="text" class="form-control" size="{{ (vorto[0].teksto|length) + 2 }}" data-solvo="{{ vorto[0].teksto }}" />
+              <span id="feedback-{{id}}" class="feedback-icon feedback-icon-remove" aria-hidden="true">✕</span>
+            </div>
+          {%- else -%}
+            {# Vortpartoj: enigogrupo kun fiksaj partoj kaj plenigenda enigo. #}
+            <div id="form-group-{{id}}" class="input-group has-error has-feedback">
+              {%- for segmento in vorto -%}
+                {%- if segmento.tipo == 'fiksa' -%}
+                  <span class="input-group-text">{{ segmento.teksto }}</span>
+                {%- else -%}
+                  <input id="{{id}}" type="text" class="form-control" size="{{ (segmento.teksto|length) + 2 }}" data-solvo="{{ segmento.teksto }}" />
+                  <span id="feedback-{{id}}" class="feedback-icon feedback-icon-remove" aria-hidden="true">✕</span>
+                {%- endif -%}
+              {%- endfor -%}
+            </div>
+          {%- endif -%}
         {%- endfor -%}
       </li>
       {% endfor %}

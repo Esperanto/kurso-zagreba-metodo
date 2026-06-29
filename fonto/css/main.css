@@ -582,6 +582,36 @@ ol.tasko {
   top: 50%;
   transform: translateY(-50%);
 }
+/* Ekzerco 2: ĉiu vorto estas enigo aŭ enigogrupo. */
+.ekzerco2-tasko ol.tasko li {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3em 0.4em;
+  line-height: 2.4;
+  margin-bottom: 0.4em;
+}
+.ekzerco2-tasko .input-group {
+  display: inline-flex;
+  position: relative;
+  vertical-align: middle;
+  width: auto;
+}
+.ekzerco2-tasko .input-group .form-control {
+  flex: 0 0 auto;
+  padding-right: 12px;
+}
+.ekzerco2-tasko .ekz2-fiksa-vorto {
+  background: #eee;
+  cursor: default;
+}
+.ekzerco2-tasko .input-group .feedback-icon {
+  align-self: center;
+  margin: 0 0.15em;
+  position: static;
+  transform: none;
+}
+
 .has-error input {
   background: var(--exercise-field-bg);
 }

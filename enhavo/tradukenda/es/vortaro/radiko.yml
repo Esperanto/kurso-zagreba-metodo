@@ -9,7 +9,9 @@ alt: alto/a
 am: amar
 amik: amigo
 arb: árbol
-aspekt: parecer (aspecto)
+aspekt:
+ - parecer
+ - aspecto
 atend: esperar
 atent:
  - estar atento
@@ -25,7 +27,9 @@ bel:
  - lindo/a
 best: animal
 bezon: necesitar
-bien: terreno
+bien:
+ - finca
+ - terreno
 bon: bueno/a
 branĉ: rama
 bru: ruido
@@ -94,12 +98,14 @@ grand:
 grav: importante
 halt: parar(se)
 hav: tener
-hejm: casa
+hejm:
+ - hogar
+ - casa
 help: ayudar
 hom:
  - persona
  - ser humano
-hor: horo
+hor: hora
 hotel: hotel
 ide: idea
 industri: industria 

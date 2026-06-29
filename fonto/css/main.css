@@ -573,7 +573,6 @@ ol.tasko {
   font-size: 14px;
   height: 34px;
   line-height: 1.42857143;
-  padding: 6px 42.5px 6px 12px;
   width: auto;
 }
 .form-inline .feedback-icon {
@@ -589,7 +588,6 @@ ol.tasko {
 .ekzerco2-tasko ol.tasko li {
   margin-bottom: 0.5em;
 }
-.ekzerco2-tasko .ekz2-fiksa-vorto,
 .ekzerco2-tasko .form-group,
 .ekzerco2-tasko .input-group,
 .ekzerco2-tasko .ekz2-interpunkcio {
@@ -597,26 +595,43 @@ ol.tasko {
 }
 .ekzerco2-tasko .input-group {
   display: inline-flex;
+  align-items: stretch;
+  font-size: inherit;
   position: relative;
   width: auto;
 }
+.ekzerco2-tasko .form-group {
+  align-items: stretch;
+  display: inline-flex;
+  font-size: inherit;
+}
+.ekzerco2-tasko .form-control,
+.ekzerco2-tasko .input-group-text {
+  font-size: inherit;
+  line-height: 1.5;
+  min-height: calc(1.5em + 0.75rem + 2px);
+  padding-bottom: 0.375rem;
+  padding-top: 0.375rem;
+}
+.ekzerco2-tasko .form-control {
+  height: auto;
+}
 .ekzerco2-tasko .input-group .form-control {
   flex: 0 0 auto;
-  padding-right: 12px;
-}
-.ekzerco2-tasko .ekz2-fiksa-vorto {
-  background: #eee;
-  cursor: default;
-}
-.ekzerco2-tasko .input-group .feedback-icon {
-  align-self: center;
-  margin: 0 0.1em 0 0.15em;
-  position: static;
-  transform: none;
+  width: auto;
 }
 .ekzerco2-tasko .ekz2-interpunkcio {
   display: inline-block;
   font-weight: 700;
+  margin-left: 0.25em;
+}
+.ekzerco2-tasko .form-control.is-valid,
+.ekzerco2-tasko .form-control.is-invalid {
+  background-position: right 0.75rem center;
+  padding-right: calc(1.5em + 0.75rem);
+}
+.ekzerco2-tasko .form-control.is-invalid {
+  border-color: var(--bs-border-color);
 }
 
 .has-error input {

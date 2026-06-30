@@ -21,6 +21,14 @@ BOOTSTRAP_PATTERN = re.compile(r'Bootstrap\s+v5\.3\.8')
 JQUERY_PATTERN = re.compile(r'jQuery v3\.7\.1')
 JQUERY_UI_PATTERN = re.compile(r'jQuery UI - v1\.13\.3')
 TYPEAHEAD_PATTERN = re.compile(r'typeahead\.js 0\.11\.1')
+HTML_LANG_PATTERN = re.compile(r'<html lang="en" dir="ltr">')
+CANONICAL_ROOT_PATTERN = re.compile(r'<link rel="canonical" href="https://esperanto12\.net/en/" />')
+CANONICAL_LESSON_PATTERN = re.compile(r'<link rel="canonical" href="https://esperanto12\.net/en/01/" />')
+HREFLANG_EN_PATTERN = re.compile(r'<link rel="alternate" hreflang="en" href="https://esperanto12\.net/en/" />')
+HREFLANG_DE_PATTERN = re.compile(r'<link rel="alternate" hreflang="de" href="https://esperanto12\.net/de/" />')
+HREFLANG_X_DEFAULT_PATTERN = re.compile(r'<link rel="alternate" hreflang="x-default" href="https://esperanto12\.net/" />')
+ROBOTS_SITEMAP_PATTERN = re.compile(r'Sitemap: https://esperanto12\.net/sitemap\.xml')
+SITEMAP_EN_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/</loc>')
 
 
 def fail(message):
@@ -99,6 +107,8 @@ def main():
         output_dir / 'index.html',
         output_dir / 'favicon.ico',
         output_dir / 'apple-touch-icon.png',
+        output_dir / 'robots.txt',
+        output_dir / 'sitemap.xml',
         lingvo_dir / 'index.html',
         output_dir / 'assets' / 'css' / 'main.css',
         output_dir / 'assets' / 'js' / 'hejmo.js',
@@ -119,6 +129,14 @@ def main():
         require_nonempty_file(path)
 
     require_pattern(output_dir / 'sw.js', PWA_SERVICE_WORKER_PATTERN)
+    require_pattern(output_dir / 'robots.txt', ROBOTS_SITEMAP_PATTERN)
+    require_pattern(output_dir / 'sitemap.xml', SITEMAP_EN_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', HTML_LANG_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', CANONICAL_ROOT_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', HREFLANG_EN_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', HREFLANG_DE_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', HREFLANG_X_DEFAULT_PATTERN)
+    require_pattern(lingvo_dir / '01' / 'index.html', CANONICAL_LESSON_PATTERN)
     require_pattern(output_dir / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css', BOOTSTRAP_PATTERN)
     require_pattern(output_dir / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js', BOOTSTRAP_PATTERN)
     require_pattern(output_dir / 'vendor' / 'jquery' / 'jquery.min.js', JQUERY_PATTERN)

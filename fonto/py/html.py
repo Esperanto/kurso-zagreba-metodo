@@ -3,6 +3,7 @@
 
 import os
 from pathlib import Path
+import re
 import shutil
 import subprocess
 
@@ -74,6 +75,15 @@ def render_markdown(text):
         plugins=[morfema_emfazo],
     )
     return Markup(md(text))
+
+
+def meta_description_from_markdown(text):
+    text = re.sub(r'\{\{\s*url\.[^}]+\s*\}\}', '', text)
+    text = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text)
+    text = re.sub(r'[*_`#>]', '', text)
+    text = re.sub(r'^\s*[-+]\s+', '', text, flags=re.MULTILINE)
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()
 
 
 def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None):
@@ -307,17 +317,17 @@ def create_anki(enhavo):
     return deck
 
 
-def render_hejmo(versio, fasado, hejmaj_lingvoj):
+def render_hejmo(versio, meta_description, hejmaj_lingvoj):
     env = jinja2.Environment(auto_reload=False)
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))
     return env.get_template('hejmo.html').render(
-        fasado=fasado,
         hejmaj_lingvoj=hejmaj_lingvoj,
+        meta_description=meta_description,
         versio=versio,
     )
 
 
-def copy_static_files(versio, hejma_fasado, hejmaj_lingvoj):
+def copy_static_files(versio, meta_description, hejmaj_lingvoj):
     static_dirs = [
         (FONTO_DIR / 'css', OUTPUT_DIR / 'assets' / 'css'),
         (FONTO_DIR / 'js', OUTPUT_DIR / 'assets' / 'js'),
@@ -350,7 +360,7 @@ def copy_static_files(versio, hejma_fasado, hejmaj_lingvoj):
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     write_file(
         str(OUTPUT_DIR / 'index.html'),
-        render_hejmo(versio, hejma_fasado, hejmaj_lingvoj),
+        render_hejmo(versio, meta_description, hejmaj_lingvoj),
     )
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'apple-touch-icon.png', OUTPUT_DIR / 'apple-touch-icon.png')
@@ -392,16 +402,18 @@ def generate_html(
     enhavo,
     args,
     kopiu_statikan=True,
-    hejma_fasado=None,
     hejmaj_lingvoj=None,
 ):
     eligo = {}
     versio = get_version_hash()
     enhavo['versio'] = versio
     if kopiu_statikan:
+        angla_enkonduko = (ROOT_DIR / 'enhavo' / 'tradukenda' / 'en' / 'enkonduko.md').read_text(
+            encoding='utf-8',
+        )
         copy_static_files(
             versio,
-            hejma_fasado or enhavo['fasado'],
+            meta_description_from_markdown(angla_enkonduko),
             hejmaj_lingvoj or [],
         )
 

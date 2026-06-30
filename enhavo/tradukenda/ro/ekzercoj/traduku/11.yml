@@ -1,31 +1,27 @@
-- estraro: 
-  - bureau
-  - direction
-- tagmeze: midi
-- posttagmeze: après-midi
-- malsata: 
-  - affamé
-  - affamée
-  - qui a faim
+- estraro:
+  - conducere
+  - comitet
+- tagmeze: la amiază
+- posttagmeze: după-amiază
+- malsata:
+  - flămând
+  - flămândă
 - interkonsenti:
-  - "se mettre d'accord"
-  - "s'accorder"
-- manĝilaro: couverts
-- vidpunkto: point de vue
-- malfermilo: 
-  - ouvreur
-  - ouvre-boite
-  - ouvre-boître
-- noktomezo: minuit
-- publikigi: publier
-- pagigi: 
-  - faire payer
-  - laisser payer
-- duflanka: 
-  - recto-verso
-  - des deux côtés
-  - sur les deux côtés
-- aliflanke: 
-  - "d'un autre côté"
-  - "d'autre part"
-  - par ailleurs
+  - a se înțelege
+  - a cădea de acord
+- manĝilaro: tacâmuri
+- vidpunkto: punct de vedere
+- malfermilo:
+  - deschizător
+  - desfăcător
+- noktomezo: miezul nopții
+- publikigi: a publica
+- pagigi:
+  - a face să plătească
+  - a taxa
+- duflanka:
+  - bilateral
+  - pe ambele fețe
+- aliflanke:
+  - pe de altă parte
+  - în schimb

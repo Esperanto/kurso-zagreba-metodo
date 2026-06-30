@@ -1,77 +1,77 @@
-- 
-  demando: Qui avait le livre que vous attendiez depuis plus de deux ans ?
-  rektatraduko: 
-    - Kiu: Qui
-    - havis: avait
-    - la: le
-    - libron: livre
-    - ',' 
-    - kiun: que
-    - vi: vous
-    - atendis: attendiez
-    - pli: plus 
-    - ol: de
-    - du: deux
-    - jarojn: ans
-    - '?'
-- 
-  demando: Est-ce que vous voulez que je vous montre ma photo la plus chère ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - volas: voulez
+-
+  demando: Cine avea cartea pe care o așteptai de mai mult de doi ani?
+  rektatraduko:
+    - Kiu: Cine
+    - havis: avea
+    - la: (articol)
+    - libron: carte
     - ','
-    - ke: que
-    - mi: je
-    - montru: montre
-    - al: à 
-    - vi: vous
-    - mian: ma
-    - plej: plus
-    - karan: chère
-    - foton: photo
+    - kiun: pe care
+    - vi: tu
+    - atendis: așteptai
+    - pli: mai mult
+    - ol: decât
+    - du: doi
+    - jarojn: ani
     - '?'
-- 
-  demando: Où avez-vous acheté ce vêtement ?
-  rektatraduko: 
-    - Kie: Où
-    - vi: vous
-    - aĉetis: avez acheté
-    - tiun: ce
-    - vestaĵon: vêtement
+-
+  demando: Vrei să îți arăt fotografia mea cea mai dragă?
+  rektatraduko:
+    - Ĉu: oare
+    - vi: tu
+    - volas: vrei
+    - ','
+    - ke: ca
+    - mi: eu
+    - montru: să arăt
+    - al: către
+    - vi: tine
+    - mian: mea
+    - plej: cea mai
+    - karan: dragă
+    - foton: fotografie
     - '?'
-- 
-  demando: "Où irez-vous dimanche si c'est (litt. ce sera) une journée ensoleillée ?"
-  rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - dimanĉe: dimanche
-    - ',' 
-    - se: si
-    - estos: ce sera
-    - suna: ensoleillée
-    - tago: journée
+-
+  demando: Unde ai cumpărat acel articol de îmbrăcăminte?
+  rektatraduko:
+    - Kie: Unde
+    - vi: tu
+    - aĉetis: ai cumpărat
+    - tiun: acel
+    - vestaĵon: articol de îmbrăcăminte
     - '?'
-- 
-  demando: Est-ce que fon frère est déjà parti ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - via: ton
-    - frato: frère
-    - jam: déjà
-    - ekiris: est parti
+-
+  demando: Încotro vei merge duminică dacă va fi o zi însorită?
+  rektatraduko:
+    - Kien: Încotro
+    - vi: tu
+    - iros: vei merge
+    - dimanĉe: duminică
+    - ','
+    - se: dacă
+    - estos: va fi
+    - suna: însorită
+    - tago: zi
     - '?'
-- 
-  demando: "Où est l'eau que vous avez vous-même apportée ?"
-  rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - la: "l'"
-    - akvo: eau
-    - ',' 
-    - kiun: que
-    - vi: vous
-    - mem: vous-même
-    - kunportis: avez apportée
+-
+  demando: A plecat deja fratele tău?
+  rektatraduko:
+    - Ĉu: oare
+    - via: tău
+    - frato: frate
+    - jam: deja
+    - ekiris: a plecat
+    - '?'
+-
+  demando: Unde este apa pe care ai adus-o tu însuți?
+  rektatraduko:
+    - Kie: Unde
+    - estas: este
+    - la: (articol)
+    - akvo: apă
+    - ','
+    - kiun: pe care
+    - vi: tu
+    - mem: însuți
+    - kunportis: ai adus
     - '?'

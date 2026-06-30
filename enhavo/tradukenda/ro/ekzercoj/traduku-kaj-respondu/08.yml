@@ -1,86 +1,86 @@
-- 
-  demando: Qui va nettoyer la cuisine après le déjeuner ?
-  rektatraduko: 
-    - Kiu: Qui
-    - purigos: va nettoyer
-    - la: la
-    - kuirejon: cuisine
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
+-
+  demando: Cine va curăța bucătăria după prânz?
+  rektatraduko:
+    - Kiu: Cine
+    - purigos: va curăța
+    - la: (articol)
+    - kuirejon: bucătărie
+    - post: după
+    - la: (articol)
+    - tagmanĝo: prânz
     - '?'
-- 
-  demando: "Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?"
-  rektatraduko: 
-    - Kion: Que, quoi
+-
+  demando: "Ce vrei să bei: ceai, puțină cafea sau nu vrei nimic?"
+  rektatraduko:
+    - Kion: Ce
     - vi: tu
-    - volas: veux
-    - trinki: boire
-    - ':' 
-    - teon: du thé
-    - ',' 
-    - iom: un peu 
+    - volas: vrei
+    - trinki: să bei
+    - ':'
+    - teon: ceai
+    - ','
+    - iom: puțin
     - da: de
-    - kafo: café
-    - aŭ: ou
-    - ĉu: est-ce que
+    - kafo: cafea
+    - aŭ: sau
+    - ĉu: oare
     - vi: tu
-    - volas: veux
-    - nenion: rien
+    - volas: vrei
+    - nenion: nimic
     - '?'
-- 
-  demando: Pourquoi as-tu si soudainement décider de rénover ta petite chambre ?
-  rektatraduko: 
-    - Kial: Pourquoi
+-
+  demando: De ce ai hotărât atât de brusc să renovezi camera ta mică?
+  rektatraduko:
+    - Kial: De ce
     - vi: tu
-    - tiel: ainsi, si
-    - subite: soudainement
-    - decidis: as décidé
-    - renovigi: rénover
+    - tiel: atât de
+    - subite: brusc
+    - decidis: ai hotărât
+    - renovigi: să renovezi
     - vian: ta
-    - ĉambreton: petite chambre
+    - ĉambreton: cameră mică
     - '?'
-- 
-  demando: À qui as-tu donnée les verres à vin propres ?
-  rektatraduko: 
-    - al: À
-    - kiu: qui
+-
+  demando: Cui ai dat paharele curate pentru vin?
+  rektatraduko:
+    - al: Cui
+    - kiu: cine
     - vi: tu
-    - donis: as donné
-    - la: les
-    - purajn: propres
-    - glasojn: verres
-    - por: pour 
-    - la: le
+    - donis: ai dat
+    - la: (articol)
+    - purajn: curate
+    - glasojn: pahare
+    - por: pentru
+    - la: (articol)
     - vino: vin
     - '?'
-- 
-  demando: Contre qui ton club de sports a joué il y a deux semaines ?
-  rektatraduko: 
-    - Kontraŭ: Contre
-    - kiu: qui
-    - ludis: a joué
-    - via: ton
-    - sportklubo: club de sports
-    - antaŭ: avant
-    - du: deux
-    - semajnoj: semaines
+-
+  demando: Împotriva cui a jucat clubul tău sportiv acum două săptămâni?
+  rektatraduko:
+    - Kontraŭ: Împotriva
+    - kiu: cui
+    - ludis: a jucat
+    - via: tău
+    - sportklubo: club sportiv
+    - antaŭ: înainte de
+    - du: două
+    - semajnoj: săptămâni
     - '?'
-- 
-  demando: "Est-ce que tu vois souvent le policier qui habite dans l'appartement au-dessus de toi ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
+-
+  demando: Îl vezi des pe polițistul care locuiește în locuința de deasupra ta?
+  rektatraduko:
+    - Ĉu: oare
     - vi: tu
-    - ofte: souvent
-    - vidas: vois
-    - la: le
-    - policiston: policier
-    - ',' 
-    - kiu: qui
-    - loĝas: habite
-    - en: dans 
-    - la: "l'"
-    - loĝejo: appartement
-    - super: au-dessus de
-    - vi: toi
+    - ofte: des
+    - vidas: vezi
+    - la: (articol)
+    - policiston: polițist
+    - ','
+    - kiu: care
+    - loĝas: locuiește
+    - en: în
+    - la: (articol)
+    - loĝejo: locuință
+    - super: deasupra
+    - vi: ta
     - '?'

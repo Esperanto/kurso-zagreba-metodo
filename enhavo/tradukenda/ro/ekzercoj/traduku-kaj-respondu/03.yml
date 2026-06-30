@@ -1,77 +1,77 @@
 -
-  demando: Est-ce que les serveurs dans les grands hôtels comprennent beaucoup de langues ? 
-  rektatraduko:  
-    - Ĉu: Est-ce que 
-    - kelneroj: serveurs
-    - en: dans
-    - grandaj: grands
-    - hoteloj: hôtels
-    - komprenas: comprennnent
-    - multajn: beaucoup de 
-    - lingvojn: langues
+  demando: Înțeleg chelnerii din hotelurile mari multe limbi?
+  rektatraduko:
+    - Ĉu: oare
+    - kelneroj: chelneri
+    - en: în
+    - grandaj: mari
+    - hoteloj: hoteluri
+    - komprenas: înțeleg
+    - multajn: multe
+    - lingvojn: limbi
     - '?'
 -
-  demando: "Est-ce que tu sais si Anne aime la nouvelle chanson à propos d'un pauvre et d'une jolie fille ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
+  demando: Știi dacă Annei îi place noul cântec despre un om sărac și o fată frumoasă?
+  rektatraduko:
+    - Ĉu: oare
     - vi: tu
-    - scias: sais
+    - scias: știi
     - ','
-    - ĉu: si
-    - Anna: Anne 
-    - ŝatas: aime
-    - la: la
-    - novan: nouvelle
-    - kanton: chanson
-    - pri: à propos de
-    - malriĉulo: un pauvre
-    - kaj: et
-    - belulino: une jolie fille
+    - ĉu: dacă
+    - Anna: Anna
+    - ŝatas: îi place
+    - la: (articol)
+    - novan: noul
+    - kanton: cântec
+    - pri: despre
+    - malriĉulo: om sărac
+    - kaj: și
+    - belulino: fată frumoasă
     - '?'
 -
-  demando: Où as-tu vu le vieux et le jeune qui portaient une grande table ?
-  rektatraduko: 
-    - Kie: Où
+  demando: Unde i-ai văzut pe bătrânul și pe tânărul care purtau o masă mare?
+  rektatraduko:
+    - Kie: Unde
     - vi: tu
-    - vidis: as vu
-    - la: le
-    - maljunulon: vieux (vieil homme)
-    - kaj: et
-    - la: le
-    - junulon: jeune (homme jeune)
+    - vidis: ai văzut
+    - la: (articol)
+    - maljunulon: bătrân
+    - kaj: și
+    - la: (articol)
+    - junulon: tânăr
     - ','
-    - kiuj: qui
-    - portis: portaient
-    - grandan: grande
-    - tablon: table
+    - kiuj: care
+    - portis: purtau
+    - grandan: mare
+    - tablon: masă
     - '?'
 -
-  demando: "Comment c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?"
-  rektatraduko: 
-    - Kiel: Comment
-    - okazis: "c'est arrivé"
+  demando: Cum s-a întâmplat că ai venit din nou la noi fără frați și surori?
+  rektatraduko:
+    - Kiel: Cum
+    - okazis: s-a întâmplat
     - ','
-    - ke: que
+    - ke: că
     - vi: tu
-    - denove: encore
-    - venis: "[tu] es venu"
-    - al: chez
-    - ni: nous
-    - sen: sans
-    - gefratoj: frères et soeurs ?
+    - denove: din nou
+    - venis: ai venit
+    - al: la
+    - ni: noi
+    - sen: fără
+    - gefratoj: frați și surori
     - '?'
 -
-  demando: "Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau livre de cours ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que 
+  demando: Poți învăța Esperanto destul de repede cu noul manual?
+  rektatraduko:
+    - Ĉu: oare
     - vi: tu
-    - povas: peux
-    - per: avec
-    - la: le 
-    - nova: nouveau
-    - lernolibro: livre de cours
-    - sufiĉe: assez
-    - rapide: rapidement
-    - lerni: apprendre
-    - Esperanton: "[l'] espéranto"
+    - povas: poți
+    - per: cu
+    - la: (articol)
+    - nova: nou
+    - lernolibro: manual
+    - sufiĉe: destul
+    - rapide: repede
+    - lerni: învăța
+    - Esperanton: Esperanto
     - '?'

@@ -355,7 +355,6 @@ def hejmaj_lingvoj(lingvoj):
 
 def generu_html_por_lingvoj(args, lingvoj):
     por_generi = args.lingvoj or [args.lingvo]
-    hejma_fasado = legi_cxefpagxan_fasadon('en')
     hejmaj_lingvoj_datenoj = hejmaj_lingvoj(lingvoj)
     for index, lingvo in enumerate(por_generi):
         if args.lingvoj:
@@ -366,7 +365,6 @@ def generu_html_por_lingvoj(args, lingvoj):
             enhavo,
             args,
             kopiu_statikan=(index == 0),
-            hejma_fasado=hejma_fasado,
             hejmaj_lingvoj=hejmaj_lingvoj_datenoj,
         )
     html_generilo.generate_pwa()

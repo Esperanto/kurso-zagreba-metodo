@@ -86,6 +86,13 @@ def meta_description_from_markdown(text):
     return text.strip()
 
 
+def og_bildo_url(lingvo):
+    lingva_bildo = FONTO_DIR / 'bildoj' / 'og' / f'{lingvo}.png'
+    if lingva_bildo.is_file():
+        return f'https://esperanto12.net/assets/img/og/{lingvo}.png'
+    return 'https://esperanto12.net/assets/img/og.png'
+
+
 def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None):
     rendered = env.get_template(name + '.html').render(
         enhavo=enhavo,
@@ -407,6 +414,7 @@ def generate_html(
     eligo = {}
     versio = get_version_hash()
     enhavo['versio'] = versio
+    enhavo['og_bildo_url'] = og_bildo_url(lingvo)
     if kopiu_statikan:
         angla_enkonduko = (ROOT_DIR / 'enhavo' / 'tradukenda' / 'en' / 'enkonduko.md').read_text(
             encoding='utf-8',

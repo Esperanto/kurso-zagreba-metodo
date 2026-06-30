@@ -1,10 +1,18 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{enhavo.lingvo}}" dir="{{enhavo.tekstodirekto}}">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    {% if seo.noindex %}
+      <meta name="robots" content="noindex, follow" />
+    {% endif %}
+    <meta name="description" content="{{seo.meta_description|e}}" />
+    <link rel="canonical" href="{{seo.canonical_url}}" />
+    {% for alterna in seo.alternaj_ligiloj %}
+      <link rel="alternate" hreflang="{{alterna.hreflang}}" href="{{alterna.url}}" />
+    {% endfor %}
     <meta property="og:image" content="{{enhavo.og_bildo_url}}" />
     <title>{% block title %} {% endblock %}</title>
 

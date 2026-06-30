@@ -6,6 +6,7 @@ from pathlib import Path
 import re
 import shutil
 import subprocess
+import xml.etree.ElementTree as ET
 
 import genanki
 import jinja2
@@ -20,7 +21,13 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
+SITE_URL = 'https://esperanto12.net'
 GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
+SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
+ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
+LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
+
+ET.register_namespace('', SITEMAP_NS)
 
 
 def morfema_emfazo(md):
@@ -80,17 +87,184 @@ def render_markdown(text):
 def meta_description_from_markdown(text):
     text = re.sub(r'\{\{\s*url\.[^}]+\s*\}\}', '', text)
     text = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text)
-    text = re.sub(r'[*_`#>]', '', text)
-    text = re.sub(r'^\s*[-+]\s+', '', text, flags=re.MULTILINE)
-    text = re.sub(r'\s+', ' ', text)
-    return text.strip()
+
+    partoj = []
+    alineo = []
+
+    def finu_alineon():
+        if alineo:
+            partoj.append(' '.join(alineo))
+            alineo.clear()
+
+    for linio in text.splitlines():
+        linio = linio.strip()
+        if not linio or re.fullmatch(r'[-_*]{3,}', linio):
+            finu_alineon()
+            continue
+
+        listero = re.match(r'^[-+]\s+(.*)$', linio)
+        if listero:
+            finu_alineon()
+            partoj.append(listero.group(1))
+            continue
+
+        alineo.append(linio)
+
+    finu_alineon()
+
+    purigitaj_partoj = []
+    for parto in partoj:
+        parto = re.sub(r'[*_`#>]', '', parto)
+        parto = re.sub(r'\s+', ' ', parto).strip()
+        if parto:
+            purigitaj_partoj.append(parto)
+
+    priskribo = ''
+    for parto in purigitaj_partoj:
+        if not priskribo:
+            priskribo = parto
+            continue
+        if priskribo[-1] in '.!?…؟。！？':
+            priskribo += ' ' + parto
+        else:
+            priskribo += '. ' + parto
+
+    return priskribo
 
 
 def og_bildo_url(lingvo):
     lingva_bildo = FONTO_DIR / 'bildoj' / 'og' / f'{lingvo}.png'
     if lingva_bildo.is_file():
-        return f'https://esperanto12.net/assets/img/og/{lingvo}.png'
-    return 'https://esperanto12.net/assets/img/og.png'
+        return f'{SITE_URL}/assets/img/og/{lingvo}.png'
+    return f'{SITE_URL}/assets/img/og.png'
+
+
+def absoluta_url(vojo):
+    if not vojo.startswith('/'):
+        vojo = '/' + vojo
+    return SITE_URL + vojo
+
+
+def pretaj_lingvokodoj(lingvoj):
+    return [
+        kodo
+        for kodo, lingvo in sorted(lingvoj.items())
+        if lingvo.get('stato') == 'preta'
+    ]
+
+
+def normaligu_relativan_vojon(relativa_vojo):
+    if not relativa_vojo:
+        return ''
+    relativa_vojo = relativa_vojo.lstrip('/')
+    if not relativa_vojo.endswith('/'):
+        relativa_vojo += '/'
+    return relativa_vojo
+
+
+def lingva_vojo(lingvo, relativa_vojo=''):
+    relativa_vojo = normaligu_relativan_vojon(relativa_vojo)
+    return '/' + lingvo + '/' + relativa_vojo
+
+
+def alternaj_ligiloj(lingvoj, relativa_vojo, inkluzivu_x_default=True):
+    alternaj = [
+        {
+            'hreflang': kodo,
+            'url': absoluta_url(lingva_vojo(kodo, relativa_vojo)),
+        }
+        for kodo in pretaj_lingvokodoj(lingvoj)
+    ]
+    if inkluzivu_x_default:
+        alternaj.append({
+            'hreflang': 'x-default',
+            'url': absoluta_url('/'),
+        })
+    return alternaj
+
+
+def seo_datenoj(enhavo, relativa_vojo=''):
+    lingvo = enhavo['lingvo']
+    stato = enhavo['lingvoj'][lingvo].get('stato')
+    alternaj = []
+    if stato == 'preta':
+        alternaj = alternaj_ligiloj(enhavo['lingvoj'], relativa_vojo)
+
+    return {
+        'canonical_url': absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
+        'alternaj_ligiloj': alternaj,
+        'meta_description': meta_description_from_markdown(enhavo['enkonduko']),
+        'noindex': stato == 'testa',
+    }
+
+
+def hejma_seo_datenoj(hejmaj_lingvoj):
+    lingvokodoj = sorted(lingvo['kodo'] for lingvo in hejmaj_lingvoj)
+    alternaj = [
+        {
+            'hreflang': kodo,
+            'url': absoluta_url('/' + kodo + '/'),
+        }
+        for kodo in lingvokodoj
+    ]
+    alternaj.append({
+        'hreflang': 'x-default',
+        'url': absoluta_url('/'),
+    })
+
+    return {
+        'canonical_url': absoluta_url('/'),
+        'alternaj_ligiloj': alternaj,
+        'noindex': False,
+    }
+
+
+def sitemap_relativaj_vojoj():
+    yield ''
+    for pagxo in ALDONAJ_PAGXOJ:
+        yield pagxo + '/'
+    for i in range(1, 13):
+        i_padded = str(i).zfill(2)
+        for tab_vojo in LECIONAJ_TAB_VOJOJ:
+            yield i_padded + '/' + tab_vojo
+
+
+def aldonu_sitemap_url(urlset, loc):
+    url = ET.SubElement(urlset, ET.QName(SITEMAP_NS, 'url'))
+    ET.SubElement(url, ET.QName(SITEMAP_NS, 'loc')).text = loc
+
+
+def render_sitemap(lingvoj, generitaj_lingvoj):
+    sitemap_lingvoj = [
+        kodo
+        for kodo in sorted(generitaj_lingvoj)
+        if lingvoj[kodo].get('stato') == 'preta'
+    ]
+    urlset = ET.Element(ET.QName(SITEMAP_NS, 'urlset'))
+
+    aldonu_sitemap_url(urlset, absoluta_url('/'))
+
+    for relativa_vojo in sitemap_relativaj_vojoj():
+        for lingvo in sitemap_lingvoj:
+            aldonu_sitemap_url(
+                urlset,
+                absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
+            )
+
+    return ET.tostring(urlset, encoding='unicode', xml_declaration=True)
+
+
+def generate_seo_files(lingvoj, generitaj_lingvoj):
+    write_file(
+        OUTPUT_DIR / 'robots.txt',
+        'User-agent: *\n'
+        'Allow: /\n'
+        'Sitemap: ' + absoluta_url('/sitemap.xml') + '\n',
+    )
+    write_file(
+        OUTPUT_DIR / 'sitemap.xml',
+        render_sitemap(lingvoj, generitaj_lingvoj),
+    )
 
 
 def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None):
@@ -98,6 +272,7 @@ def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None):
         enhavo=enhavo,
         vojprefikso=vojprefikso,
         redaktaj_ligiloj=redaktaj_ligiloj or [],
+        seo=seo_datenoj(enhavo, name + '/'),
     )
 
     return rendered
@@ -330,6 +505,8 @@ def render_hejmo(versio, meta_description, hejmaj_lingvoj):
     return env.get_template('hejmo.html').render(
         hejmaj_lingvoj=hejmaj_lingvoj,
         meta_description=meta_description,
+        seo=hejma_seo_datenoj(hejmaj_lingvoj),
+        site_url=SITE_URL,
         versio=versio,
     )
 
@@ -463,6 +640,7 @@ def generate_html(
         url=url,
         vojprefikso=vojprefikso,
         redaktaj_ligiloj=redaktaj_ligiloj(lingvo),
+        seo=seo_datenoj(enhavo),
         tabs=tabs,
     )
 
@@ -476,7 +654,7 @@ def generate_html(
 
     eligo[output_path / 'eksporto' / (enhavo['lingvo'] + '.apkg')] = create_anki(enhavo)
 
-    for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post']:
+    for tab_page in ALDONAJ_PAGXOJ:
         pagxaj_ligiloj = redaktaj_ligiloj(lingvo, tab_page)
         eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env, pagxaj_ligiloj)
 
@@ -516,6 +694,7 @@ def generate_html(
                 active_tab=tab,
                 identigilo=i_padded + '/' + href,
                 redaktaj_ligiloj=redaktaj_ligiloj(lingvo, tab, i_padded),
+                seo=seo_datenoj(enhavo, i_padded + '/' + href),
             )
 
             eligo[leciono_dir / href / 'index.html'] = tab_rendered

@@ -3,7 +3,7 @@
 [![Pages](https://github.com/Esperanto/kurso-zagreba-metodo/actions/workflows/pages.yml/badge.svg)](https://github.com/Esperanto/kurso-zagreba-metodo/actions/workflows/pages.yml)
 [![Permesilo: CC BY 4.0](https://img.shields.io/badge/permesilo-CC%20BY%204.0-lightgrey)](PERMESILO.md)
 [![Lingvoj: 32](https://img.shields.io/badge/lingvoj-32-blue)](agordoj/lingvoj.yml)
-[![Demo: esperanto12.net](https://img.shields.io/badge/demo-esperanto12.net-brightgreen)](https://esperanto12.net/)
+[![Live: esperanto12.net](https://img.shields.io/badge/live-esperanto12.net-brightgreen)](https://esperanto12.net/)
 [![Aliĝu al la babilejo en Telegram](https://img.shields.io/badge/babilejo-Telegram-26A5E4?logo=telegram&logoColor=white)](https://zagreba.telegramo.org/)
 
 Tiu deponejo enhavas la Esperanto-kurson laŭ la [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo) en strukturita datumaranĝo. Do, la kompleta enhavo estas konservita per [YAML](https://en.wikipedia.org/wiki/YAML)-dosieroj, facile legeblaj per diversaj komputilaj programlingvoj – kaj ankaŭ por homoj.

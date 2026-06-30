@@ -84,6 +84,10 @@ def render_markdown(text):
     return Markup(md(text))
 
 
+def normaligu_spacojn(text):
+    return re.sub(r'\s+', ' ', text).strip()
+
+
 def meta_description_from_markdown(text):
     text = re.sub(r'\{\{\s*url\.[^}]+\s*\}\}', '', text)
     text = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text)
@@ -604,6 +608,7 @@ def generate_html(
 
     env = jinja2.Environment(auto_reload=False)
     env.filters['markdown'] = render_markdown
+    env.filters['normaligu_spacojn'] = normaligu_spacojn
     env.trim_blocks = True
     env.lstrip_blocks = True
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))

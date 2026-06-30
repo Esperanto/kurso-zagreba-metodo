@@ -1,54 +1,54 @@
-- 
-  demando: Pouvez-vous apporter le médicament de ma soeur ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - povas: pouvez
-    - kunporti: apporter
-    - la: le
-    - sanigilon: médicament
-    - de: de
-    - mia: ma
-    - fratino: sœur
-    - '?'
-- 
-  demando: Quand as-tu acheté cet instrument de musique ?
-  rektatraduko: 
-    - Kiam: Quand
+-
+  demando: Poți aduce medicamentul surorii mele?
+  rektatraduko:
+    - Ĉu: oare
     - vi: tu
-    - aĉetis: as acheté
-    - tiun: ce, cet
-    - muzikilon: instrument de musique
+    - povas: poți
+    - kunporti: aduce
+    - la: (articol)
+    - sanigilon: medicament
+    - de: al
+    - mia: mea
+    - fratino: soră
     - '?'
-- 
-  demando: Qui a utilisé ma clé dernièrement ?
-  rektatraduko: 
-    - Kiu: Qui
-    - laste: dernièrement
-    - uzis: a utilisé
-    - mian: ma
-    - ŝlosilon: clé
-    - '?'
-- 
-  demando: Vous êtes-vous déplacés à Venise en gondole aussi ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - en: à, dans
-    - Venecio: Venise
-    - veturis: êtes déplacés
-    - ankaŭ: aussi
-    - per: en
-    - gondolo: gondole
-    - '?'
-- 
-  demando: "Est-ce que pourra t'endormir quand ce sera silencieux ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
+-
+  demando: Când ai cumpărat acel instrument muzical?
+  rektatraduko:
+    - Kiam: Când
     - vi: tu
-    - povos: pourras
-    - ekdormi: "[t'] endormir"
-    - ',' 
-    - kiam: quand 
-    - silentiĝis: "ce sera silencieux (litt. c'est devenu silencieux)"
+    - aĉetis: ai cumpărat
+    - tiun: acel
+    - muzikilon: instrument muzical
+    - '?'
+-
+  demando: Cine a folosit ultima dată cheia mea?
+  rektatraduko:
+    - Kiu: Cine
+    - laste: ultima dată
+    - uzis: a folosit
+    - mian: mea
+    - ŝlosilon: cheie
+    - '?'
+-
+  demando: Ai călătorit și prin Veneția cu gondola?
+  rektatraduko:
+    - Ĉu: oare
+    - vi: tu
+    - en: în
+    - Venecio: Veneția
+    - veturis: ai călătorit
+    - ankaŭ: și
+    - per: cu
+    - gondolo: gondolă
+    - '?'
+-
+  demando: Vei putea adormi când se va face liniște?
+  rektatraduko:
+    - Ĉu: oare
+    - vi: tu
+    - povos: vei putea
+    - ekdormi: adormi
+    - ','
+    - kiam: când
+    - silentiĝis: s-a făcut liniște
     - '?'

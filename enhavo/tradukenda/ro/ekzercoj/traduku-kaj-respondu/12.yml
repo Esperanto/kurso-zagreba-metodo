@@ -1,68 +1,68 @@
-- 
-  demando: "Est-ce qu'on se reverra, à un moment et quelque part ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - ni: nous
-    - revidos: reverrons
-    - nin: nous
-    - ',' 
-    - kie: quand
-    - ajn: "n'importe"
-    - kaj: et
-    - kiam: où
-    - ajn: "n'importe"
+-
+  demando: Ne vom revedea undeva și cândva?
+  rektatraduko:
+    - Ĉu: oare
+    - ni: noi
+    - revidos: vom revedea
+    - nin: pe noi
+    - ','
+    - kie: unde
+    - ajn: indiferent
+    - kaj: și
+    - kiam: când
+    - ajn: indiferent
     - '?'
-- 
-  demando: "Quand récupèrerai-je de nouveau l'autre moitié des livres ?"
-  rektatraduko: 
-    - Kiam: Quand
-    - mi: je 
-    - rericevos: récupèrerai
-    - la: "l'"
-    - alian: autre
-    - duonon: moitié
+-
+  demando: Când voi primi înapoi cealaltă jumătate a cărților?
+  rektatraduko:
+    - Kiam: Când
+    - mi: eu
+    - rericevos: voi primi înapoi
+    - la: (articol)
+    - alian: cealaltă
+    - duonon: jumătate
     - de: de
-    - la: les
-    - libroj: livres
+    - la: (articol)
+    - libroj: cărți
     - '?'
-- 
-  demando: "Est-ce que vous aurez besoin de plus d'un trimestre pour ces travaux ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - bezonos: aurez besoin
-    - pli: plus
-    - ol: de
-    - kvaronan: un quart
-    - jaron: année
-    - por: pour
-    - tiuj: des
-    - laboroj: travaux
-    - '?'
-- 
-  demando: Pourquoi est-ce que plus il fait froid, plus nous attendons longtemps ?
-  rektatraduko: 
-    - Kial: Pourquoi
-    - estas: est
-    - des: des
-    - pli: plus
-    - malvarma: froid
-    - ',' 
-    - ju: le
-    - pli: plus
-    - longe: longtemps
-    - ni: nous
-    - atendas: attendons
-    - '?'
-- 
-  demando: "Est-ce que tu serais heureuse avec n'importe quel homme ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
+-
+  demando: Vei avea nevoie de mai mult de un sfert de an pentru acele lucrări?
+  rektatraduko:
+    - Ĉu: oare
     - vi: tu
-    - estus: serais
-    - kontenta: heureuse
-    - kun: avec
-    - iu: "n'importe"
-    - ajn: quel
-    - viro: homme
+    - bezonos: vei avea nevoie
+    - pli: mai mult
+    - ol: decât
+    - kvaronan: sfert
+    - jaron: an
+    - por: pentru
+    - tiuj: acele
+    - laboroj: lucrări
+    - '?'
+-
+  demando: De ce este cu atât mai frig cu cât așteptăm mai mult?
+  rektatraduko:
+    - Kial: De ce
+    - estas: este
+    - des: cu atât
+    - pli: mai
+    - malvarma: frig
+    - ','
+    - ju: cu cât
+    - pli: mai
+    - longe: mult timp
+    - ni: noi
+    - atendas: așteptăm
+    - '?'
+-
+  demando: Ai fi mulțumit cu orice bărbat?
+  rektatraduko:
+    - Ĉu: oare
+    - vi: tu
+    - estus: ai fi
+    - kontenta: mulțumit
+    - kun: cu
+    - iu: orice
+    - ajn: indiferent
+    - viro: bărbat
     - '?'

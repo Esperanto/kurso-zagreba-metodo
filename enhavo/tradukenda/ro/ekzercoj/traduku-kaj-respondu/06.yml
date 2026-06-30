@@ -1,72 +1,72 @@
-- 
-  demando: Est-ce que vous voulez que je vous montre mon plus récent livre ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - deziras: voulez
-    - ',' 
-    - ke: que 
-    - mi: je
-    - montru: montre
-    - al: à
-    - vi: vous
-    - mian: mon
-    - plej: plus
-    - novan: nouveau
-    - libron: livre
+-
+  demando: Vrei să îți arăt cea mai nouă carte a mea?
+  rektatraduko:
+    - Ĉu: oare
+    - vi: tu
+    - deziras: vrei
+    - ','
+    - ke: ca
+    - mi: eu
+    - montru: să arăt
+    - al: către
+    - vi: tine
+    - mian: mea
+    - plej: cea mai
+    - novan: nouă
+    - libron: carte
     - '?'
-- 
-  demando: Que voulez-vous demain pour votre petit déjeuner ?
-  rektatraduko: 
-    - Kion: Que
-    - vi: vous
-    - volas: voulez
-    - morgaŭ: demain
-    - matenmanĝi: prendre le petit-déjeuner
+-
+  demando: Ce vrei să mănânci mâine dimineață?
+  rektatraduko:
+    - Kion: Ce
+    - vi: tu
+    - volas: vrei
+    - morgaŭ: mâine
+    - matenmanĝi: să iei micul dejun
     - '?'
-- 
-  demando: Quand Marc arrivera-t-il, à 5 heures ou à 8 heures ?
-  rektatraduko: 
-    - Kiam: Quand
-    - Marko: Marc
-    - alvenos: arrivera
-    - ',' 
-    - je: à
-    - la: la
-    - kvina: cinquième
-    - aŭ: ou
-    - je: à
-    - la: la
-    - oka: huitième
-    - horo: heure
+-
+  demando: Când va sosi Marko, la ora cinci sau la ora opt?
+  rektatraduko:
+    - Kiam: Când
+    - Marko: Marko
+    - alvenos: va sosi
+    - ','
+    - je: la
+    - la: (articol)
+    - kvina: a cincea
+    - aŭ: sau
+    - je: la
+    - la: (articol)
+    - oka: a opta
+    - horo: oră
     - '?'
-- 
-  demando: "Quand avez-vous remarqué que toute la famille m'appelle bienfaiteur ?"
-  rektatraduko: 
-    - Kiam: Quand
-    - vi: vous
-    - rimarkis: avez remarqué
-    - ','  
-    - ke: que
-    - la: la
-    - tuta: toute
-    - familio: famille
-    - nomas: appelle
-    - min: moi
-    - bonfarulo: bienfaiteur
+-
+  demando: Când ai observat că toată familia mă numește binefăcător?
+  rektatraduko:
+    - Kiam: Când
+    - vi: tu
+    - rimarkis: ai observat
+    - ','
+    - ke: că
+    - la: (articol)
+    - tuta: toată
+    - familio: familie
+    - nomas: numește
+    - min: pe mine
+    - bonfarulo: binefăcător
     - '?'
-- 
-  demando: "Est-ce que le livret que j'ai envoyé vous a été utile ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - la: le 
-    - libreto: livret
-    - estis: était
-    - utila: utile
-    - al: à
-    - vi: vous
-    - ',' 
-    - kiun: que
-    - mi: je
-    - sendis: ai envoyé
+-
+  demando: Ți-a fost utilă cărticica pe care ți-am trimis-o?
+  rektatraduko:
+    - Ĉu: oare
+    - la: (articol)
+    - libreto: cărticică
+    - estis: a fost
+    - utila: utilă
+    - al: pentru
+    - vi: tine
+    - ','
+    - kiun: pe care
+    - mi: eu
+    - sendis: am trimis
     - '?'

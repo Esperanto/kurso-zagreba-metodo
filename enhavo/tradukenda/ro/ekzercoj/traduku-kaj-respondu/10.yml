@@ -1,51 +1,51 @@
-- 
-  demando: "Est-ce que l'amitié te rend plus heureux que l'amour ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - amikeco: amitié
-    - pli: plus
-    - feliĉigas: rend heureux
-    - vin: toi
-    - ol: que
-    - la: "l'"
-    - amo: amour
+-
+  demando: Te face prietenia mai fericit decât iubirea?
+  rektatraduko:
+    - Ĉu: oare
+    - amikeco: prietenie
+    - pli: mai
+    - feliĉigas: face fericit
+    - vin: pe tine
+    - ol: decât
+    - la: (articol)
+    - amo: iubire
     - '?'
-- 
-  demando: À quelle fréquence écris-tu des lettres à tes amies en Italie ?
-  rektatraduko: 
-    - Kiel: Comment
-    - ofte: souvent
+-
+  demando: Cât de des le scrii scrisori prietenelor tale din Italia?
+  rektatraduko:
+    - Kiel: Cât de
+    - ofte: des
     - vi: tu
-    - skribas: écris
-    - leterojn: des lettres
-    - al: à
-    - viaj: tes
-    - amikinoj: amies
-    - en: en
-    - Italio: Italie
+    - skribas: scrii
+    - leterojn: scrisori
+    - al: către
+    - viaj: tale
+    - amikinoj: prietene
+    - en: în
+    - Italio: Italia
     - '?'
-- 
-  demando: Est-ce que la relation entre toi et tes professeurs ont changé ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - la: la
-    - rilato: relation
-    - inter: entre
-    - vi: toi
-    - kaj: et
-    - via: ton
-    - instruisto: professeur
-    - ŝanĝiĝis: a changé
+-
+  demando: S-a schimbat relația dintre tine și profesorul tău?
+  rektatraduko:
+    - Ĉu: oare
+    - la: (articol)
+    - rilato: relație
+    - inter: între
+    - vi: tine
+    - kaj: și
+    - via: tău
+    - instruisto: profesor
+    - ŝanĝiĝis: s-a schimbat
     - '?'
-- 
-  demando: "Est-ce maintenant que tu connais déjà assez bien l'espéranto ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
+-
+  demando: Știi deja acum destul de bine Esperanto?
+  rektatraduko:
+    - Ĉu: oare
     - vi: tu
-    - nun: maintenant
-    - jam: déjà
-    - scias: connais
-    - Esperanton: "l'espéranto"
-    - sufiĉe: assez
-    - bone: bien
+    - nun: acum
+    - jam: deja
+    - scias: știi
+    - Esperanton: Esperanto
+    - sufiĉe: destul
+    - bone: bine
     - '?'

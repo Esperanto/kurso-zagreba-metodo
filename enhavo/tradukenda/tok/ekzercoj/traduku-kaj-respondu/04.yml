@@ -1,73 +1,73 @@
 -
-  demando: When am I going to see you again?
-  rektatraduko: 
-    - Kiam: When
-    - mi: I  
-    - revidos: am going to see again
-    - vin: you
+  demando: mi lukin sin e sina lon tenpo seme?
+  rektatraduko:
+    - Kiam: tenpo seme
+    - mi: mi
+    - revidos: lukin sin, tenpo kama
+    - vin: sina
     - '?'
 -
-  demando: How long have you been learning the international language?
-  rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - lernas: learn
-    - la: the 
-    - Internacian: international
-    - Lingvon: language
+  demando: sina kama sona e toki pi ma ale lon tenpo pi suli seme?
+  rektatraduko:
+    - Kiel: nasin seme
+    - longe: tenpo suli
+    - vi: sina
+    - lernas: kama sona
+    - la: (ni)
+    - Internacian: pi ma ale
+    - Lingvon: toki
     - '?'
 -
-  demando: Where is my new book with photographs?
-  rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - mia: my
-    - nova: new
-    - libro: book
-    - kun: with
-    - fotoj: photographs
+  demando: lipu sin mi pi sitelen li lon ma seme?
+  rektatraduko:
+    - Kie: ma seme
+    - estas: li lon
+    - mia: mi
+    - nova: sin
+    - libro: lipu
+    - kun: poka
+    - fotoj: sitelen
     - '?'
 -
-  demando: Where (where-to) will you go after lunch?
-  rektatraduko: 
-    - Kien: Where-to
-    - vi: you
-    - iros: will go
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+  demando: sina tawa ma seme lon tenpo pi pini moku suno?
+  rektatraduko:
+    - Kien: tawa ma seme
+    - vi: sina
+    - iros: tawa, tenpo kama
+    - post: lon tenpo kama pi
+    - la: (ni)
+    - tagmanĝo: moku pi tenpo suno
     - '?'
 -
-  demando: Can one close the door of the room when it is cold?
-  rektatraduko: 
-    - Ĉu: Whether
-    - oni: one
-    - povas: can 
-    - fermi: close
-    - la: the
-    - pordon: door
-    - de: of 
-    - la: the
-    - ĉambro: room
+  demando: tenpo li lete la, jan li ken pini e lupa tomo, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - oni: jan
+    - povas: ken
+    - fermi: open ala e
+    - la: (ni)
+    - pordon: lupa tomo
+    - de: pi
+    - la: (ni)
+    - ĉambro: tomo
     - ','
-    - kiam: when
-    - estas: is
-    - malvarme: cold
+    - kiam: tenpo
+    - estas: li
+    - malvarme: lete
     - '?'
 -
-  demando: How long are you angry for if people take a lot of money from you?
-  rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - koleras: are angry
+  demando: jan li kama jo e mani mute tan sina la, sina pilin utala lon tenpo pi suli seme?
+  rektatraduko:
+    - Kiel: nasin seme
+    - longe: tenpo suli
+    - vi: sina
+    - koleras: pilin utala
     - ','
-    - se: if
-    - oni: one
-    - forprenas: takes away
-    - de: from
-    - vi: you
-    - multan: a lot of
-    - monon: money
+    - se: la
+    - oni: jan
+    - forprenas: kama jo, weka
+    - de: tan
+    - vi: sina
+    - multan: mute
+    - monon: mani
     - '?'

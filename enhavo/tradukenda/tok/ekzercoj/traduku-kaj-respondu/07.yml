@@ -1,77 +1,77 @@
-- 
-  demando: Who had the book that you were waiting for for more than 2 years?
-  rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
-    - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
-    - '?'
-- 
-  demando: Do you want me to show you the photo which is dearest to me?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+-
+  demando: jan seme li jo e lipu? sina awen e ona lon tenpo sike suno tu mute.
+  rektatraduko:
+    - Kiu: jan seme
+    - havis: jo, tenpo pini
+    - la: (ni)
+    - libron: lipu
     - ','
-    - ke: that
-    - mi: I
-    - montru: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - kiun: ona
+    - vi: sina
+    - atendis: awen, tenpo pini
+    - pli: mute
+    - ol: tawa
+    - du: tu
+    - jarojn: tenpo sike suno
     - '?'
-- 
-  demando: Where did you buy that garment?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+-
+  demando: sina wile e ni anu seme — mi pana e sitelen pi suli mute tawa pilin mi, tawa sina?
+  rektatraduko:
+    - Ĉu: anu seme
+    - vi: sina
+    - volas: wile
+    - ','
+    - ke: ni
+    - mi: mi
+    - montru: pana lon lukin
+    - al: tawa
+    - vi: sina
+    - mian: mi
+    - plej: nanpa wan
+    - karan: suli tawa pilin
+    - foton: sitelen
     - '?'
-- 
-  demando: Where will you go on Sunday if it is a sunny day?
-  rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
-    - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+-
+  demando: sina esun e len ni lon ma seme?
+  rektatraduko:
+    - Kie: ma seme
+    - vi: sina
+    - aĉetis: esun, tenpo pini
+    - tiun: ni
+    - vestaĵon: len
     - '?'
-- 
-  demando: Did your brother already leave?
-  rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+-
+  demando: tenpo suno nanpa 7 li suno la, sina tawa ma seme?
+  rektatraduko:
+    - Kien: tawa ma seme
+    - vi: sina
+    - iros: tawa, tenpo kama
+    - dimanĉe: lon tenpo suno nanpa 7
+    - ','
+    - se: la
+    - estos: li, tenpo kama
+    - suna: suno
+    - tago: tenpo suno
     - '?'
-- 
-  demando: Where is the water which you have brought yourself?
-  rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
-    - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+-
+  demando: jan sama mije sina li tawa weka, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - via: sina
+    - frato: jan sama mije
+    - jam: pini la
+    - ekiris: open tawa, tenpo pini
+    - '?'
+-
+  demando: telo pi jo sina sama li lon ma seme?
+  rektatraduko:
+    - Kie: ma seme
+    - estas: li lon
+    - la: (ni)
+    - akvo: telo
+    - ','
+    - kiun: ona
+    - vi: sina
+    - mem: sina sama
+    - kunportis: jo, tenpo pini
     - '?'

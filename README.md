@@ -1,6 +1,6 @@
 # La esperanto-kurso laŭ la Zagreba metodo
 
-[![Aliĝu la babililon https://gitter.im/Esperanto/kurso-zagreba-metodo](https://badges.gitter.im/Esperanto/kurso-zagreba-metodo.svg)](https://gitter.im/Esperanto/kurso-zagreba-metodo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Aliĝu al la babilejo en Telegram](https://img.shields.io/badge/babilejo-Telegram-26A5E4?logo=telegram&logoColor=white)](https://zagreba.telegramo.org/)
 
 Tiu deponejo enhavas la Esperanto-kurson laŭ la [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo) en strukturita datumaranĝo. Do, la kompleta enhavo estas konservita per [YAML](https://en.wikipedia.org/wiki/YAML)-dosieroj, facile legeblaj per diversaj komputilaj programlingvoj – kaj ankaŭ por homoj.
 

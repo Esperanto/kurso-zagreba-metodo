@@ -1,7 +1,7 @@
 .PHONY: help venv install install-ui pip-tools lock lock-upgrade check check-ui check-pwa html html-all md serve clean
 
 LINGVO ?= en
-HTML_LINGVOJ ?= ar ca cs da de el en es fa fr frp ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tr uk ur vi yo zh zh-tw
+HTML_LINGVOJ ?= ar ca cs da de el en es fa fr frp ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tok tr uk ur vi yo zh zh-tw
 HOST ?= 127.0.0.1
 PORT ?= 8000
 OUTPUT_DIR ?= eligo/retejo

@@ -87,10 +87,49 @@ def render_markdown(text):
 def meta_description_from_markdown(text):
     text = re.sub(r'\{\{\s*url\.[^}]+\s*\}\}', '', text)
     text = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text)
-    text = re.sub(r'[*_`#>]', '', text)
-    text = re.sub(r'^\s*[-+]\s+', '', text, flags=re.MULTILINE)
-    text = re.sub(r'\s+', ' ', text)
-    return text.strip()
+
+    partoj = []
+    alineo = []
+
+    def finu_alineon():
+        if alineo:
+            partoj.append(' '.join(alineo))
+            alineo.clear()
+
+    for linio in text.splitlines():
+        linio = linio.strip()
+        if not linio or re.fullmatch(r'[-_*]{3,}', linio):
+            finu_alineon()
+            continue
+
+        listero = re.match(r'^[-+]\s+(.*)$', linio)
+        if listero:
+            finu_alineon()
+            partoj.append(listero.group(1))
+            continue
+
+        alineo.append(linio)
+
+    finu_alineon()
+
+    purigitaj_partoj = []
+    for parto in partoj:
+        parto = re.sub(r'[*_`#>]', '', parto)
+        parto = re.sub(r'\s+', ' ', parto).strip()
+        if parto:
+            purigitaj_partoj.append(parto)
+
+    priskribo = ''
+    for parto in purigitaj_partoj:
+        if not priskribo:
+            priskribo = parto
+            continue
+        if priskribo[-1] in '.!?…؟。！？':
+            priskribo += ' ' + parto
+        else:
+            priskribo += '. ' + parto
+
+    return priskribo
 
 
 def og_bildo_url(lingvo):

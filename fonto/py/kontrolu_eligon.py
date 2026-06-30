@@ -58,6 +58,17 @@ def require_pattern(path, pattern):
         fail('mankas atendita enhavo en ' + str(path))
 
 
+def require_lesson_image_alts(output_dir, lingvo):
+    for leciono in range(1, 13):
+        leciono_numero = str(leciono).zfill(2)
+        path = output_dir / lingvo / leciono_numero / 'index.html'
+        pattern = re.compile(
+            rf'<img class="leciona" src="/{re.escape(lingvo)}/\.\./'
+            rf'assets/img/lecionaj/{leciono_numero}\.webp" alt="[^"]+" />'
+        )
+        require_pattern(path, pattern)
+
+
 def require_apkg(path):
     require_nonempty_file(path)
     try:
@@ -140,6 +151,7 @@ def main():
     require_pattern(lingvo_dir / 'index.html', HREFLANG_X_DEFAULT_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', CANONICAL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', META_DESCRIPTION_PATTERN)
+    require_lesson_image_alts(output_dir, lingvo)
     require_pattern(output_dir / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css', BOOTSTRAP_PATTERN)
     require_pattern(output_dir / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js', BOOTSTRAP_PATTERN)
     require_pattern(output_dir / 'vendor' / 'jquery' / 'jquery.min.js', JQUERY_PATTERN)

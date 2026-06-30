@@ -15,6 +15,15 @@ fonto/bildoj/og/<lingvo>.png
 La radika bildo `fonto/bildoj/og.png` restu la ĝenerala fallback-bildo kaj ne
 estu regenerata per ĉi tiu tasko krom se tio estas eksplicite petita.
 
+La publikaj `og:image`-valoroj en la HTML estu absolutaj URL-oj, ekzemple:
+
+```html
+<meta property="og:image" content="https://esperanto12.net/assets/img/og/de.png" />
+```
+
+Ne anstataŭigu ilin per relativaj vojoj kiel `/assets/img/og/de.png`; multaj
+Open Graph-konsumantoj atendas plenan `https://...`-URL-on.
+
 ## Lingvoj
 
 Uzu nur lingvojn el `agordoj/lingvoj.yml` kun:

@@ -154,6 +154,7 @@ def seo_datenoj(enhavo, relativa_vojo=''):
     return {
         'canonical_url': absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
         'alternaj_ligiloj': alternaj,
+        'meta_description': meta_description_from_markdown(enhavo['enkonduko']),
         'noindex': stato == 'testa',
     }
 

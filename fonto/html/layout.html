@@ -8,6 +8,7 @@
     {% if seo.noindex %}
       <meta name="robots" content="noindex, follow" />
     {% endif %}
+    <meta name="description" content="{{seo.meta_description|e}}" />
     <link rel="canonical" href="{{seo.canonical_url}}" />
     {% for alterna in seo.alternaj_ligiloj %}
       <link rel="alternate" hreflang="{{alterna.hreflang}}" href="{{alterna.url}}" />

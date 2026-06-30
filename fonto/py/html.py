@@ -24,12 +24,10 @@ OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
 SITE_URL = 'https://esperanto12.net'
 GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
-XHTML_NS = 'http://www.w3.org/1999/xhtml'
 ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
 LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
 
 ET.register_namespace('', SITEMAP_NS)
-ET.register_namespace('xhtml', XHTML_NS)
 
 
 def morfema_emfazo(md):
@@ -191,15 +189,9 @@ def sitemap_relativaj_vojoj():
             yield i_padded + '/' + tab_vojo
 
 
-def aldonu_sitemap_url(urlset, loc, alternaj):
+def aldonu_sitemap_url(urlset, loc):
     url = ET.SubElement(urlset, ET.QName(SITEMAP_NS, 'url'))
     ET.SubElement(url, ET.QName(SITEMAP_NS, 'loc')).text = loc
-    for alterna in alternaj:
-        ET.SubElement(url, ET.QName(XHTML_NS, 'link'), {
-            'rel': 'alternate',
-            'hreflang': alterna['hreflang'],
-            'href': alterna['url'],
-        })
 
 
 def render_sitemap(lingvoj, generitaj_lingvoj):
@@ -210,36 +202,13 @@ def render_sitemap(lingvoj, generitaj_lingvoj):
     ]
     urlset = ET.Element(ET.QName(SITEMAP_NS, 'urlset'))
 
-    root_alternaj = [
-        {
-            'hreflang': kodo,
-            'url': absoluta_url('/' + kodo + '/'),
-        }
-        for kodo in sitemap_lingvoj
-    ]
-    root_alternaj.append({
-        'hreflang': 'x-default',
-        'url': absoluta_url('/'),
-    })
-    aldonu_sitemap_url(urlset, absoluta_url('/'), root_alternaj)
+    aldonu_sitemap_url(urlset, absoluta_url('/'))
 
     for relativa_vojo in sitemap_relativaj_vojoj():
-        alternaj = [
-            {
-                'hreflang': kodo,
-                'url': absoluta_url(lingva_vojo(kodo, relativa_vojo)),
-            }
-            for kodo in sitemap_lingvoj
-        ]
-        alternaj.append({
-            'hreflang': 'x-default',
-            'url': absoluta_url('/'),
-        })
         for lingvo in sitemap_lingvoj:
             aldonu_sitemap_url(
                 urlset,
                 absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
-                alternaj,
             )
 
     return ET.tostring(urlset, encoding='unicode', xml_declaration=True)

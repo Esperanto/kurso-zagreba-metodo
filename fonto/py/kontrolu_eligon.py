@@ -31,6 +31,16 @@ HREFLANG_DE_PATTERN = re.compile(r'<link rel="alternate" hreflang="de" href="htt
 HREFLANG_X_DEFAULT_PATTERN = re.compile(r'<link rel="alternate" hreflang="x-default" href="https://esperanto12\.net/" />')
 ROBOTS_SITEMAP_PATTERN = re.compile(r'Sitemap: https://esperanto12\.net/sitemap\.xml')
 SITEMAP_EN_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/</loc>')
+LLMS_ROOT_TITLE_PATTERN = re.compile(r'^# Esperanto12\.net$', re.M)
+LLMS_ROOT_EN_PATTERN = re.compile(r'https://esperanto12\.net/en/llms\.txt\)')
+LLMS_ROOT_DE_PATTERN = re.compile(r'https://esperanto12\.net/de/llms\.txt\)')
+LLMS_ROOT_BE_PATTERN = re.compile(r'https://esperanto12\.net/be/llms\.txt\)')
+LLMS_EN_FULL_PATTERN = re.compile(r'https://esperanto12\.net/en/llms-full\.txt\)')
+LLMS_EN_LESSON_PATTERN = re.compile(r'https://esperanto12\.net/en/01/')
+LLMS_EN_TABELVORTOJ_PATTERN = re.compile(r'https://esperanto12\.net/en/tabelvortoj/')
+LLMS_FULL_LESSON_1_PATTERN = re.compile(r'Amiko\s+Marko')
+LLMS_FULL_LESSON_12_PATTERN = re.compile(r'Nokta\s+promeno')
+RAW_TEMPLATE_PATTERN = re.compile(r'\{\{[^}]+\}\}')
 
 
 def fail(message):
@@ -57,6 +67,16 @@ def require_pattern(path, pattern):
         fail('ne eblas legi kiel UTF-8 ' + str(path) + ': ' + str(error))
     if not pattern.search(text):
         fail('mankas atendita enhavo en ' + str(path))
+
+
+def forbid_pattern(path, pattern):
+    require_nonempty_file(path)
+    try:
+        text = path.read_text(encoding='utf-8')
+    except UnicodeDecodeError as error:
+        fail('ne eblas legi kiel UTF-8 ' + str(path) + ': ' + str(error))
+    if pattern.search(text):
+        fail('trovis neatenditan enhavon en ' + str(path))
 
 
 def require_apkg(path):
@@ -111,7 +131,10 @@ def main():
         output_dir / 'apple-touch-icon.png',
         output_dir / 'robots.txt',
         output_dir / 'sitemap.xml',
+        output_dir / 'llms.txt',
         lingvo_dir / 'index.html',
+        lingvo_dir / 'llms.txt',
+        lingvo_dir / 'llms-full.txt',
         output_dir / 'assets' / 'css' / 'main.css',
         output_dir / 'assets' / 'js' / 'hejmo.js',
         output_dir / 'assets' / 'js' / 'main.js',
@@ -133,6 +156,16 @@ def main():
     require_pattern(output_dir / 'sw.js', PWA_SERVICE_WORKER_PATTERN)
     require_pattern(output_dir / 'robots.txt', ROBOTS_SITEMAP_PATTERN)
     require_pattern(output_dir / 'sitemap.xml', SITEMAP_EN_PATTERN)
+    require_pattern(output_dir / 'llms.txt', LLMS_ROOT_TITLE_PATTERN)
+    require_pattern(output_dir / 'llms.txt', LLMS_ROOT_EN_PATTERN)
+    require_pattern(output_dir / 'llms.txt', LLMS_ROOT_DE_PATTERN)
+    forbid_pattern(output_dir / 'llms.txt', LLMS_ROOT_BE_PATTERN)
+    require_pattern(lingvo_dir / 'llms.txt', LLMS_EN_FULL_PATTERN)
+    require_pattern(lingvo_dir / 'llms.txt', LLMS_EN_LESSON_PATTERN)
+    require_pattern(lingvo_dir / 'llms.txt', LLMS_EN_TABELVORTOJ_PATTERN)
+    require_pattern(lingvo_dir / 'llms-full.txt', LLMS_FULL_LESSON_1_PATTERN)
+    require_pattern(lingvo_dir / 'llms-full.txt', LLMS_FULL_LESSON_12_PATTERN)
+    forbid_pattern(lingvo_dir / 'llms-full.txt', RAW_TEMPLATE_PATTERN)
     require_pattern(lingvo_dir / 'index.html', HTML_LANG_PATTERN)
     require_pattern(lingvo_dir / 'index.html', TITLE_ROOT_PATTERN)
     require_pattern(lingvo_dir / 'index.html', META_DESCRIPTION_PATTERN)

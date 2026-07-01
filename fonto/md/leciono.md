@@ -37,7 +37,9 @@
 
 ### {{ enhavo.fasado['Solvoj'] or 'Solvoj' }}
 
+{% if not llms %}
 `\begin{multicols}{2}`{=latex}
+{% endif %}
 
 
 
@@ -56,7 +58,9 @@
 {%- endif %}
 
 
+{% if not llms %}
 `\end{multicols}`{=latex}
+{% endif %}
 
 
 {% endif %}

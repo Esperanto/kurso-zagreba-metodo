@@ -14,6 +14,7 @@ from markupsafe import Markup
 import mistune
 
 from .ankroj import forigu_html, unika_ankro
+from . import md as md_generilo
 from . import pwa
 
 
@@ -26,6 +27,20 @@ GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
 LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
+LLMS_FULL_PRINTENDAJ = {
+    'partoj': (
+        'teksto',
+        'vortoj',
+        'gramatiko',
+        'ekzerco1',
+        'ekzerco2',
+        'ekzerco3',
+        'solvo1',
+        'solvo2',
+        'solvo3',
+    ),
+    'lecionoj': tuple(range(1, 13)),
+}
 
 ET.register_namespace('', SITEMAP_NS)
 
@@ -86,6 +101,14 @@ def render_markdown(text):
 
 def normaligu_spacojn(text):
     return re.sub(r'\s+', ' ', text).strip()
+
+
+def markdown_link(label, url, description=None):
+    label = str(label).replace('[', '\\[').replace(']', '\\]')
+    line = f'- [{label}]({url})'
+    if description:
+        line += ': ' + normaligu_spacojn(str(description))
+    return line
 
 
 def meta_description_from_markdown(text):
@@ -169,6 +192,10 @@ def normaligu_relativan_vojon(relativa_vojo):
 def lingva_vojo(lingvo, relativa_vojo=''):
     relativa_vojo = normaligu_relativan_vojon(relativa_vojo)
     return '/' + lingvo + '/' + relativa_vojo
+
+
+def lingva_dosiero_url(lingvo, relativa_vojo):
+    return absoluta_url('/' + lingvo + '/' + relativa_vojo.lstrip('/'))
 
 
 def alternaj_ligiloj(lingvoj, relativa_vojo, inkluzivu_x_default=True):
@@ -268,6 +295,117 @@ def generate_seo_files(lingvoj, generitaj_lingvoj):
     write_file(
         OUTPUT_DIR / 'sitemap.xml',
         render_sitemap(lingvoj, generitaj_lingvoj),
+    )
+
+
+def kursa_titolo(enhavo):
+    return (
+        enhavo['fasado'].get('Lerni Esperanton')
+        or enhavo['fasado'].get('Lerni Esperanton en 12 lecionoj')
+        or 'Lerni Esperanton'
+    )
+
+
+def fasada_etikedo(enhavo, klavo):
+    return enhavo['fasado'].get(klavo) or klavo
+
+
+def render_llms_index(hejmaj_lingvoj, meta_description):
+    lines = [
+        '# Esperanto12.net',
+        '',
+        '> Esperanto12.net is a free Esperanto basics course using the Zagreb method. '
+        + normaligu_spacojn(meta_description),
+        '',
+        '## Languages',
+    ]
+    for lingvo in hejmaj_lingvoj:
+        lines.append(markdown_link(
+            lingvo['nomo'],
+            lingva_dosiero_url(lingvo['kodo'], 'llms.txt'),
+            lingvo['titolo'],
+        ))
+    lines.extend([
+        '',
+        '## Resources',
+        markdown_link(
+            'Sitemap',
+            absoluta_url('/sitemap.xml'),
+            'XML sitemap for indexable pages.',
+        ),
+        '',
+    ])
+    return '\n'.join(lines)
+
+
+def render_lingva_llms(enhavo, enkonduko):
+    lingvo = enhavo['lingvo']
+    priskribo = meta_description_from_markdown(enkonduko)
+    lines = [
+        '# ' + kursa_titolo(enhavo),
+        '',
+        '> ' + priskribo,
+        '',
+        '## ' + fasada_etikedo(enhavo, 'Lecionoj'),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Lerni Esperanton en 12 lecionoj'),
+            absoluta_url(lingva_vojo(lingvo)),
+            priskribo,
+        ),
+        markdown_link(
+            '01. ' + enhavo['lecionoj'][0]['teksto']['titolo_string'],
+            absoluta_url(lingva_vojo(lingvo, '01/')),
+            fasada_etikedo(enhavo, 'Teksto'),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Tabelvortoj'),
+            absoluta_url(lingva_vojo(lingvo, 'tabelvortoj/')),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Prepozicioj'),
+            absoluta_url(lingva_vojo(lingvo, 'prepozicioj/')),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Konjunkcioj'),
+            absoluta_url(lingva_vojo(lingvo, 'konjunkcioj/')),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Afiksoj'),
+            absoluta_url(lingva_vojo(lingvo, 'afiksoj/')),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Diversaĵoj'),
+            absoluta_url(lingva_vojo(lingvo, 'diversajxoj/')),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Trovu Esperanto-parolantojn'),
+            absoluta_url(lingva_vojo(lingvo, 'post/')),
+        ),
+        '',
+        '## llms-full.txt',
+        markdown_link(
+            'llms-full.txt',
+            lingva_dosiero_url(lingvo, 'llms-full.txt'),
+        ),
+        '',
+        '## Optional',
+        markdown_link(
+            'Sitemap',
+            absoluta_url('/sitemap.xml'),
+        ),
+        '',
+    ]
+    return '\n'.join(lines)
+
+
+def render_lingva_llms_full(enhavo, enkonduko):
+    enhavo_md = dict(enhavo)
+    enhavo_md['enkonduko'] = enkonduko
+    return md_generilo.rendu_md(
+        enhavo_md,
+        LLMS_FULL_PRINTENDAJ,
+        template='llms-full.md',
+        llms=True,
     )
 
 
@@ -550,6 +688,10 @@ def copy_static_files(versio, meta_description, hejmaj_lingvoj):
         str(OUTPUT_DIR / 'index.html'),
         render_hejmo(versio, meta_description, hejmaj_lingvoj),
     )
+    write_file(
+        str(OUTPUT_DIR / 'llms.txt'),
+        render_llms_index(hejmaj_lingvoj, meta_description),
+    )
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'apple-touch-icon.png', OUTPUT_DIR / 'apple-touch-icon.png')
     pwa.copy_static_assets(OUTPUT_DIR)
@@ -633,10 +775,16 @@ def generate_html(
         'anki': 'https://apps.ankiweb.net/',
         'kartaro': vojprefikso + 'eksporto/' + lingvo + '.apkg',
     }
+    llms_url = {
+        'anki': 'https://apps.ankiweb.net/',
+        'kartaro': lingva_dosiero_url(lingvo, 'eksporto/' + lingvo + '.apkg'),
+    }
+    enkonduko = env.from_string(enhavo['enkonduko']).render(url=url)
+    llms_enkonduko = env.from_string(enhavo['enkonduko']).render(url=llms_url)
 
     rendered = env.get_template('index.html').render(
         enhavo=enhavo,
-        enkonduko=env.from_string(enhavo['enkonduko']).render(url=url),
+        enkonduko=enkonduko,
         pretaj_lingvoj=[
             (kodo, lingvo)
             for kodo, lingvo in sorted(enhavo['lingvoj'].items())
@@ -650,6 +798,9 @@ def generate_html(
     )
 
     eligo[output_path / 'index.html'] = rendered
+    if enhavo['lingvoj'][lingvo].get('stato') == 'preta':
+        eligo[output_path / 'llms.txt'] = render_lingva_llms(enhavo, llms_enkonduko)
+        eligo[output_path / 'llms-full.txt'] = render_lingva_llms_full(enhavo, llms_enkonduko)
 
     # vortaro.js
     rendered = env.get_template('vortlisto.js').render(

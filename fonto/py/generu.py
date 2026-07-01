@@ -193,14 +193,18 @@ def load(language, gramatiko_transpose_headlines=2):
 
     lecionoj = []
     vortoj = set()
+    lecionaj_bildoj = legi_yaml(netradukenda_dir / 'lecionaj_bildoj.yml')
 
     for i in LECION_NUMEROJ:
         leciono = {
+            'bildo': None,
             'teksto': None,
             'gramatiko': None,
             'ekzercoj': None,
         }
         i_padded = str(i).zfill(2)
+
+        leciono['bildo'] = lecionaj_bildoj[i_padded]
 
         leciono['indekso'] = {
             'cifre': i,

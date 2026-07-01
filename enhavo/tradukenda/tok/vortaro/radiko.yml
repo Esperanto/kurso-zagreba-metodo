@@ -1,316 +1,300 @@
-afer: matter
-agrabl: pleasant
-akcept: to accept
-akv: water
-ali: another
-alt: high
-am: to love
-amik: friend
-arb: tree
+afer: ijo
+agrabl: pona
+akcept: kama jo
+akv: telo
+ali: ante
+alt: sewi
+am: olin
+amik: jan pona
+arb: kasi suli
 aspekt:
-- to look
-- to seem
-atend: to wait
-atent: to pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
-bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: to must
-dezir: to wish
-diabl: devil
-dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
-doktor: doctor
-dolar: dollar
+- lukin
+- kama lukin sama
+atend: awen
+atent: kute pona
+aĉet: esun
+aŭd: kute
+aŭt: tomo tawa
+aŭtoritat: wawa lawa
+bedaŭr: pilin ike
+bel: pona lukin
+best: soweli
+bezon: wile
+bien: ma
+bon: pona
+branĉ: palisa kasi
+bru: kalama
+buŝ: uta
+cert: sona
+dank: toki pona tawa
+daŭr: awen
+decid: kama wile
+demand: wile sona
+dev: wile
+dezir: wile
+diabl: kon ike
+dik: suli
+dimanĉ: tenpo suno nanpa 7
+dir: toki
+direkt: nasin
+doktor: jan pi pona sijelo
+dolar: mani
 dolor:
-- to hurt
-- pain
-dolĉ: sweet
-dom: house
-don: to give
-dorm: to sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
-fart:
-- to feel
-- to be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
-foj:
-- occasion
-- time
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
-gondol: gondola
-graf:
-- earl
-- count
-grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: necessary
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
+- pilin ike
+- pakala
+dolĉ: suwi
+dom: tomo
+don: pana
+dorm: lape
+doĝ: jan lawa
+edz: mije olin
+efektiv: lon la
+ekskurs: tawa musi
+esper: wile pona
+est: lon
+facil: pali lili
+fakt: ijo lon
+fal: tawa anpa
+famili: kulupu mama
+far: pali
+fart: pilin
+feliĉ: pilin pona
+ferm: open ala
+fin: pini
+flank: poka
+foj: tenpo
+forges: weka e sona
+form: sijelo
+fort: wawa
+fot: sitelen
+frat: jan sama (mije)
+fru: lon tenpo open
+fuŝ: pakala
+gondol: tomo tawa telo
+graf: jan lawa
+grand: suli
+grav: suli tawa pilin
+halt: kama awen
+hav: jo
+hejm: tomo
+help: pana e pona
+hom: jan
+hor: tenpo
+hotel: tomo lape
+ide: sona sin
+industri: kulupu pali
+instru: pana e sona
+interes: pilin wile
+invit: toki e ni, o kama
+ir: tawa
+itali: ma Italija
+jar: tenpo pi sike suno
+jun: lili
+kaf: telo wawa
+kalv: lawa pi linja ala
+kap: lawa
+kapabl: ken
+kapt: alasa
+kar: suli tawa pilin
+kastel: tomo lawa suli
+kav: lupa ma
+kelk: mute lili
+kelner: jan pi pana moku
+klar: sona pona
+klub: kulupu
+knab: jan lili (mije)
+koler: pilin utala
+kolor: kule
+komenc: open
+kompren: kama sona
+kon: sona
+kontent: pilin pona
+kontrol: lukin pona
+kor: insa pilin
+korp: sijelo
+kost: wile mani
+kri: kalama wawa
+kuir: seli e moku
+kuk: pan suwi
+kur: tawa wawa
+labor: pali
+lakt: telo mama
+lamp: ilo suno
+land: ma
+larĝ: suli lon poka
+last: nanpa pini
+laŭt: kalama suli
+lecion: lipu sona
+leg: lukin e lipu
+lern: kama sona
+leter: lipu toki
+liber: ken pi pali ale
+libr: lipu
+lok: ma
+long: linja suli
+lud: musi
+lum: suno
+man: luka
+mank: jo ala
+manĝ: moku
+mar: telo suli
+maten: tenpo pi open suno
+memor: awen e sona
+met: pana lon
+mez: insa
+milit: utala suli
+minut: tenpo lili
+mir: pilin nasa
+moment: tenpo lili
+mon: mani
+mont: nena suli
+montr: pana e lukin
+mort: moli
+mov: tawa
+mult: mute
+muzik: kalama musi
+nask: kama mama
+natur: ma pi pali jan ala
+neces: wile suli
+nokt: tenpo pimeja
+nom: nimi
+not: sitelen lili
+nov: sin
+odor: kon
+oft: tenpo mute la
+okaz: kama lon
+okul: oko
+onkl: mije pi kulupu mama
 opini:
-- to opinionate
-- to think
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
-si: reflexive pronoun
-sid: to sit
-silent: silent
-simil: similar
-sinjor:
-- gentleman
-- Mr.
-situaci: situation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: to hold
-teror: terror
-tim: to fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to ride
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: to travel
-vok: to call
-vol: to want
-vort: word
-voĉ: voice
-zorg: to care
-ĉambr: room
-ĉef: boss
-ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- pilin
+- toki e pilin
+ord: lawa
+orel: ilo kute
+pac: utala ala
+pag: pana e mani
+pan: pan
+paper: lipu
+pardon: weka e pilin ike
+parol: toki
+part: kipisi
+pas: tawa weka
+patr: mama (mije)
+paŝ: tawa noka
+pens: pilin
+perd: weka e
+person: jan
+pet: toki e wile
+pez: suli
+pied: noka
+plac: ma pi jan mute
+plan: nasin pi tenpo kama
+plaĉ: pona tawa pilin
+plen: jo e ijo mute
+polic: jan pi awen lawa
+pord: lupa tomo
+port: jo lon tawa
+pov: ken
+pren: kama jo
+pret: ken open
+prezent: pana lon lukin
+problem: ijo ike
+proksim: poka
+promen: tawa noka musi
+propon: pana e nasin
+prov: alasa pali
+rajt: ken tan lawa
+rapid: tawa wawa
+raport: toki sona
+real: lon
+rekt: nasin linja
+renkont: kama poka
+respekt: pilin suli tawa
+respond: toki tawa wile sona
+rest: awen
+ricev: kama jo
+rid: mu musi
+rigard: lukin
+riĉ: jo mani mute
+rol: nasin pali
+ruĝ: loje
+salt: tawa sewi
+salut: toki!
+sam: sama
+san: sijelo pona
+saĝ: sona mute
+sci: sona
+sek: telo ala
+sekret: sona len
+sekv: tawa lon monsi
+semajn: tenpo pi suno mute
+send: pana tawa weka
+serĉ: alasa
+si: ona sama
+sid: lon supa
+silent: kalama ala
+simil: sama lili
+sinjor: jan mije
+situaci: ijo pi tenpo ni
+skrib: sitelen
+sol: wan taso
+son: kalama
+sovaĝ: pi ma
+sport: musi sijelo
+star: awen lon noka
+strat: nasin
+subit: kepeken tenpo lili
+sufiĉ: mute pona
+sukces: pini pona
+sun: suno
+supr: sewi
+tabl: supa
+tag: tenpo suno
+te: telo kasi
+telefon: ilo toki
+temp: tenpo
+temperatur: seli anu lete
+ten: jo kepeken luka
+teror: monsuta
+tim: pilin monsuta
+ton: nasin kalama
+trankvil: pilin awen
+trink: moku e telo
+trov: kama lukin e
+turk: pi ma Tuki
+tuŝ: luka e
+urb: ma tomo
+util: pona tawa pali
+uz: kepeken
+vagon: tomo tawa
+varm: seli
+ven: kama
+vend: esun pana
+Veneci: ma tomo Wenesija
+ver: lon
+vesper: tenpo pi pini suno
+vest: len e sijelo
+vetur: tawa kepeken tomo tawa
+vid: lukin
+vin: telo nasa
+vir: mije
+viv: lon (moli ala)
+vizaĝ: sinpin lawa
+vizit: kama lon tomo ante
+voj: nasin
+vojaĝ: tawa ma weka
+vok: toki tawa jan
+vol: wile
+vort: nimi
+voĉ: kalama uta
+zorg: lukin pona e
+ĉambr: tomo lili
+ĉef: jan lawa
+ĝen: ike tawa
+ĝeneral: pi ale
+ĝoj: pilin pona
+ĝust: pona lon
+ĵet: tawa e ijo weka
+ŝajn: lukin sama
+ŝanĝ: ante
+ŝat: pilin pona tawa
+ŝip: tomo tawa telo

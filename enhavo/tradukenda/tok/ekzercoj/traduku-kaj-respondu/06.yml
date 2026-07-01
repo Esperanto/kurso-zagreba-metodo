@@ -1,72 +1,72 @@
-- 
-  demando: Do you want me to show you my newest book?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
-    - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+-
+  demando: sina wile e ni anu seme — mi pana e lipu sin mi tawa sina?
+  rektatraduko:
+    - Ĉu: anu seme
+    - vi: sina
+    - deziras: wile
+    - ','
+    - ke: ni
+    - mi: mi
+    - montru: pana lon lukin
+    - al: tawa
+    - vi: sina
+    - mian: mi
+    - plej: nanpa wan
+    - novan: sin
+    - libron: lipu
     - '?'
-- 
-  demando: What do you want for breakfast tomorrow?
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+-
+  demando: sina wile moku e seme lon open pi tenpo suno kama?
+  rektatraduko:
+    - Kion: ijo seme
+    - vi: sina
+    - volas: wile
+    - morgaŭ: lon tenpo suno kama
+    - matenmanĝi: moku pi open suno
     - '?'
-- 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
-  rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
-    - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+-
+  demando: jan Mako li kama lon tenpo seme — lon nanpa 5 anu lon nanpa 8?
+  rektatraduko:
+    - Kiam: tenpo seme
+    - Marko: jan Mako
+    - alvenos: kama, tenpo kama
+    - ','
+    - je: lon
+    - la: (ni)
+    - kvina: nanpa 5
+    - aŭ: anu
+    - je: lon
+    - la: (ni)
+    - oka: nanpa 8
+    - horo: tenpo
     - '?'
-- 
-  demando: When did you notice that the whole family calls me benefactor?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
-    - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+-
+  demando: kulupu mama ale li nimi e mi, jan pi pali pona. sina kama sona e ni lon tenpo seme?
+  rektatraduko:
+    - Kiam: tenpo seme
+    - vi: sina
+    - rimarkis: kama sona, tenpo pini
+    - ','
+    - ke: ni
+    - la: (ni)
+    - tuta: ale
+    - familio: kulupu mama
+    - nomas: nimi e
+    - min: mi
+    - bonfarulo: jan pi pali pona
     - '?'
-- 
-  demando: Was the booklet which I sent you useful to you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
-    - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+-
+  demando: lipu lili pi pana mi tawa sina li pona tawa pali sina, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - la: (ni)
+    - libreto: lipu lili
+    - estis: li, tenpo pini
+    - utila: pona tawa pali
+    - al: tawa
+    - vi: sina
+    - ','
+    - kiun: ona
+    - mi: mi
+    - sendis: pana tawa weka, tenpo pini
     - '?'

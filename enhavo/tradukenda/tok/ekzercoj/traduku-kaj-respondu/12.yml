@@ -1,68 +1,68 @@
-- 
-  demando: Will we see each other again, no matter where or when?
-  rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
-    - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+-
+  demando: mi mute li lukin sin e mi mute, lon ma ale en lon tenpo ale, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - ni: mi mute
+    - revidos: lukin sin, tenpo kama
+    - nin: mi mute
+    - ','
+    - kie: ma
+    - ajn: ale
+    - kaj: en
+    - kiam: tenpo
+    - ajn: ale
     - '?'
-- 
-  demando: When will I get back the other half of the books?
-  rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+-
+  demando: mi kama jo sin e kipisi ante pi lipu lon tenpo seme?
+  rektatraduko:
+    - Kiam: tenpo seme
+    - mi: mi
+    - rericevos: kama jo sin, tenpo kama
+    - la: (ni)
+    - alian: ante
+    - duonon: kipisi tu
+    - de: pi
+    - la: (ni)
+    - libroj: lipu
     - '?'
-- 
-  demando: Will you need more than a quarter of the year for those jobs?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+-
+  demando: sina wile e tenpo, pi mute tawa kipisi pi tenpo sike suno, tawa pali ni, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - vi: sina
+    - bezonos: wile, tenpo kama
+    - pli: mute
+    - ol: tawa
+    - kvaronan: kipisi tu tu pi
+    - jaron: tenpo sike suno
+    - por: tawa
+    - tiuj: ni
+    - laboroj: pali
     - '?'
-- 
-  demando: Why is it that the colder it is, the longer we wait?
-  rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
-    - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+-
+  demando: tenpo li lete mute la, mi mute li awen lon tenpo suli, tan seme?
+  rektatraduko:
+    - Kial: tan seme
+    - estas: li
+    - des: ni la mute kin
+    - pli: mute
+    - malvarma: lete
+    - ','
+    - ju: mute la
+    - pli: mute
+    - longe: tenpo suli
+    - ni: mi mute
+    - atendas: awen
     - '?'
-- 
-  demando: Would you be happy with any man?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+-
+  demando: sina ken pilin pona poka mije ale, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - vi: sina
+    - estus: li, ken
+    - kontenta: pilin pona
+    - kun: poka
+    - iu: ale
+    - ajn: ale
+    - viro: mije
     - '?'

@@ -1,17 +1,17 @@
 Esperanto: esperanto
 akcepteblan: acceptabel
-alilandaj: fremmede
-alporti: at bringe over
-alportis: bragte over
+alilandaj: udenlandske
+alporti: at bringe
+alportis: bragte
 alvenigas: leder til
 alvenis: ankom
 alvenos: ankommer
 amikino: veninde
 amikinon: veninde
 amletero: kærlighedsbrev
-antaŭeniris: avancere
+antaŭeniris: gik frem
 arbaro: skov
-arbetoj: buskebed
+arbetoj: småtræer
 arboplena: fuld af træer
 aĉetumos: tager på shoppingtur
 aĉodora: dårligtlugtende
@@ -23,7 +23,7 @@ bestetoj: smådyr
 bonega: fantastisk
 bonvolu: være så sød
 bonvolus: kunne jeg få dig til at
-centoj: hundrede
+centoj: hundredvis
 dankon: tak
 daŭrigis: fortsatte
 denove: igen
@@ -35,19 +35,19 @@ domegon: villa
 dumnokte: om natten
 dumtage: om dagen
 ekkriis: begyndte at skrige
-ekmire: betænkeligt
+ekmire: med forundring
 ekparolis: begyndte at tale
 ekridis: begyndte at grine
 ekrigardis: begyndte at kigge
 eksaltis: begyndte at hoppe
 ekscii: at finde ud af
 eksidis: satte sig ned
-ekstervoje: på vej ud
+ekstervoje: uden for vejen
 ekveturas: begynder at tage afsted
 ekvidis: begyndte at se
-elstaraj: udemærkede
+elstaraj: udmærkede
 eniri: at gå ind
-eniris: went in 
+eniris: gik ind
 eniru: gå ind!
 facilmovaj: nemme at flytte
 faligi: vælte
@@ -63,25 +63,25 @@ geamikoj: venner
 gefratoj: søskende
 gelernantojn: elever
 gepatroj: forældre
-gondolisto: gondolist 
+gondolisto: gondolfører
 gondolistoj: gondolister
-grafino: greve
+grafino: grevinde
 grafinon: grevinde
-grandula: gigantisk
-gravuloj: betydeligheder
+grandula: kæmpestor
+gravuloj: vigtige personer
 haltigis: stoppede
 havigi: at få
-havindan: vær at have
+havindan: værd at have
 homformo: menneskeform
 hommulton: menneskemasse
 ideoriĉan: opfindsom
-industriisto: industrialist
+industriisto: industrimand
 instruistino:
 - lærerinde
 - lærer
 instruiston: lærer
 intervidiĝas: ser hinanden
-iron: gang
+iron: færden
 junulino: teenagepige
 junulinoj: teenagepiger
 junulinon: teenagepige
@@ -99,7 +99,7 @@ kompreneble:
 korpoforton: styrke
 kunmanĝos: spiser sammen
 kunporti: at medbringe
-kunulino: kvindelig ledsagende
+kunulino: kvindelig ledsager
 kunvenas: kommer sammen
 laboristo: arbejder
 lampeto: lille lampe
@@ -110,7 +110,7 @@ lernolibroj: skolebøger
 leteroj: breve
 libertempo: fritid
 libroj: bøger
-lumigis: belyste
+lumigis: oplyste
 malagrabla: ubehagelig
 malbela: grim
 malbonaj: dårlige
@@ -132,9 +132,9 @@ malkontentigi: irritere
 mallaŭte: stille
 malliberejon: fængsel
 mallumo: mørke
-malmulte: få
+malmulte: lidt
 malmultekosta: billig
-malmulton: få
+malmulton: lidt
 malnova: gammel
 malnovaj: gamle
 malofte: sjældent
@@ -159,14 +159,14 @@ miaj: mine
 militistoj: soldater
 monerojn: mønter
 monujo: pung
-morgaŭan: i morgens
+morgaŭan: morgendagens
 mortigo: drab
 moviĝis: flyttede sig
 multekosta: dyr
 multpiedaj: mangefodede
 naskiĝtaga: fødselsdags
 naskiĝtago: fødselsdag
-naturaĵojn: naturligheder
+naturaĵojn: naturting
 nehoma: umenneskelig
 neinteresaj: kedelige
 nokta: natlig
@@ -176,34 +176,34 @@ ordigi: at ordne
 paperoj: papirer
 paperojn:  papirer
 paperujon: skraldespand
-pasigos: spenderer
+pasigos: vil tilbringe
 patrino: mor
-perdigis: fratog
-plenigadis: udfyldte
-plenumis: udfyldte
-plibeligis: besmykkede
+perdigis: fik til at miste
+plenigadis: fyldte
+plenumis: opfyldte
+plibeligis: forskønnede
 plimulto: flertal
 policano: politibetjent
 promenejo: promenade
 promeno: spadseretur
 rapidege: meget hurtigt
-realigi: at indse
+realigi: at realisere
 redonu: giv tilbage
 rekapti: at genfange
-repaciĝon: genfred
+repaciĝon: forsoning
 revenis: kom tilbage
 revidi: at gense
 revido: gensyn
 ridetis: smilte
 rideto: smil
-riĉeco: righed
+riĉeco: rigdom
 riĉulo: rig person
 salton: hop
 saluton: hej
-samklubanoj: klubmedmedlemmer
+samklubanoj: klubkammerater
 sekretajn: hemmelige
 sekreton: hemmelighed
-senbrue: støgfrit
+senbrue: lydløst
 seninterese: uintereseret
 senkolora: farveløs
 sensukcese: uden succes
@@ -217,8 +217,8 @@ skribotablo: skrivebord
 soleca: ensom
 sovaĝejo: vildmark
 sportisto: sportsmand
-subakvigis: synke
-subakviĝis: synke
+subakvigis: sænkede under vand
+subakviĝis: kom under vand
 subite: pludseligt
 supren: opad
 surhavas: har på
@@ -229,8 +229,8 @@ travivaĵo: eventyr
 tridekjara: 30-årig
 troviĝis: kunne findes
 unuaj: første
-urbomezo: by-centrum
-vagonaro: togvogne
+urbomezo: bymidte
+vagonaro: tog
 vendejo: butik
 vendejon: butik
 vendisto: ekspedient
@@ -245,7 +245,7 @@ veturigus: ville køre
 viaj: dine
 virino: kvinde
 vojaĝantoj: rejsende
-ĉambristoj: husholderske
+ĉambristoj: værelsesbetjente
 ĉeesto: tilstedeværelse
 ĉirkaŭaĵo: omgivelse
 ĝenon: forstyrrelse

@@ -4,7 +4,9 @@ akcept: akceptere
 akv: vand
 ali: anden
 alt: høj
-am: kærlighed
+am:
+- elske
+- kærlighed
 amik: ven
 arb: træ
 aspekt:
@@ -115,7 +117,9 @@ instru:
 - undervise
 interes: interessere
 invit: invitere
-ir: tage til
+ir:
+- gå
+- tage af sted
 itali: Italien
 jar: år
 jun: ung
@@ -130,12 +134,12 @@ kar: kære
 kastel: slot
 kav: hule
 kelk:
-- smule
-- nogen
+- nogle
+- et par
 kelner: tjener
 klar:
 - klar
-- ikke tåget
+- tydelig
 klub: klub
 knab: dreng
 koler: vrede
@@ -167,12 +171,14 @@ lecion: lektion
 leg: læse
 lern: lære
 leter: brev
-liber: gratis
+liber: fri
 libr: bog
 lok: sted
 long: lang
 lud: lege
-lum: let
+lum:
+- lys
+- lyse
 man: hånd
 mank: mangle
 manĝ: spise
@@ -183,7 +189,9 @@ met: lægge
 mez: midte
 milit: krig
 minut: minut
-mir: spekulere
+mir:
+- undre sig
+- blive forbavset
 moment: øjeblik
 mon: penge
 mont: bjerg
@@ -197,8 +205,8 @@ muzik: musik
 nask: føde
 natur: natur
 neces:
-- behøve
-- have brug for
+- være nødvendig
+- behøves
 nokt: nat
 nom: navn
 not: note
@@ -209,9 +217,9 @@ okaz: ske
 okul: øje
 onkl: onkel
 opini: holdning
-ord: bestille
+ord: orden
 orel: øre
-pac: sted
+pac: fred
 pag: betale
 pan: brød
 paper: papir
@@ -222,7 +230,7 @@ parol: tale
 part:
 - part
 - del
-pas: lade
+pas: passere
 patr: far
 paŝ: skridt
 pens: tænke
@@ -233,7 +241,7 @@ pez: tung
 pied: fod
 plac: plads
 plan: planlægge
-plaĉ: tilfredsstille
+plaĉ: behage
 plen: fuld
 polic: politi
 pord: dør
@@ -247,9 +255,13 @@ proksim: nær
 promen: slentre
 propon: foreslå
 prov: prøve
-rajt: måtte
+rajt:
+- have ret
+- ret
 rapid: hurtig
-raport: anmelde
+raport:
+- rapportere
+- berette
 real: rigtig
 rekt: direkte
 renkont: møde

@@ -350,7 +350,6 @@ def render_lingva_llms(enhavo, enkonduko):
         markdown_link(
             fasada_etikedo(enhavo, 'Lerni Esperanton en 12 lecionoj'),
             absoluta_url(lingva_vojo(lingvo)),
-            priskribo,
         ),
         markdown_link(
             '01. ' + enhavo['lecionoj'][0]['teksto']['titolo_string'],

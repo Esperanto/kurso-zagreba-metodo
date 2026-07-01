@@ -38,6 +38,9 @@ LLMS_ROOT_BE_PATTERN = re.compile(r'https://esperanto12\.net/be/llms\.txt\)')
 LLMS_EN_FULL_PATTERN = re.compile(r'https://esperanto12\.net/en/llms-full\.txt\)')
 LLMS_EN_LESSON_PATTERN = re.compile(r'https://esperanto12\.net/en/01/')
 LLMS_EN_TABELVORTOJ_PATTERN = re.compile(r'https://esperanto12\.net/en/tabelvortoj/')
+LLMS_EN_DUPLICATE_INTRO_PATTERN = re.compile(
+    r'\(https://esperanto12\.net/en/\): Teaches the most important 500 words\.'
+)
 LLMS_FULL_LESSON_1_PATTERN = re.compile(r'Amiko\s+Marko')
 LLMS_FULL_LESSON_12_PATTERN = re.compile(r'Nokta\s+promeno')
 RAW_TEMPLATE_PATTERN = re.compile(r'\{\{[^}]+\}\}')
@@ -163,6 +166,7 @@ def main():
     require_pattern(lingvo_dir / 'llms.txt', LLMS_EN_FULL_PATTERN)
     require_pattern(lingvo_dir / 'llms.txt', LLMS_EN_LESSON_PATTERN)
     require_pattern(lingvo_dir / 'llms.txt', LLMS_EN_TABELVORTOJ_PATTERN)
+    forbid_pattern(lingvo_dir / 'llms.txt', LLMS_EN_DUPLICATE_INTRO_PATTERN)
     require_pattern(lingvo_dir / 'llms-full.txt', LLMS_FULL_LESSON_1_PATTERN)
     require_pattern(lingvo_dir / 'llms-full.txt', LLMS_FULL_LESSON_12_PATTERN)
     forbid_pattern(lingvo_dir / 'llms-full.txt', RAW_TEMPLATE_PATTERN)

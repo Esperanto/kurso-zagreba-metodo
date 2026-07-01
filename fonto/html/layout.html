@@ -14,7 +14,7 @@
       <link rel="alternate" hreflang="{{alterna.hreflang}}" href="{{alterna.url}}" />
     {% endfor %}
     <meta property="og:image" content="{{enhavo.og_bildo_url}}" />
-    <title>{% block title %} {% endblock %}</title>
+    <title>{% filter normaligu_spacojn %}{% block title %}{% endblock %}{% endfilter %}</title>
 
     <link href="/vendor/fira-sans/400.css" rel="stylesheet" />
     <link href="/vendor/fira-sans/700.css" rel="stylesheet" />

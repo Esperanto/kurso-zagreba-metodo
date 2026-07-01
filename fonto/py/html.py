@@ -346,9 +346,7 @@ def render_lingva_llms(enhavo, enkonduko):
         '',
         '> ' + priskribo,
         '',
-        'Esperanto12.net provides this free Esperanto basics course using the Zagreb method.',
-        '',
-        '## Course',
+        '## ' + fasada_etikedo(enhavo, 'Lecionoj'),
         markdown_link(
             fasada_etikedo(enhavo, 'Lerni Esperanton en 12 lecionoj'),
             absoluta_url(lingva_vojo(lingvo)),
@@ -384,18 +382,16 @@ def render_lingva_llms(enhavo, enkonduko):
             absoluta_url(lingva_vojo(lingvo, 'post/')),
         ),
         '',
-        '## Full Context',
+        '## llms-full.txt',
         markdown_link(
             'llms-full.txt',
             lingva_dosiero_url(lingvo, 'llms-full.txt'),
-            'Complete Markdown course context for this language.',
         ),
         '',
         '## Optional',
         markdown_link(
             'Sitemap',
             absoluta_url('/sitemap.xml'),
-            'XML sitemap for indexable pages.',
         ),
         '',
     ]

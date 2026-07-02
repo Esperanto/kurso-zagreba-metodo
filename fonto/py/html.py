@@ -765,6 +765,15 @@ def generate_html(
         ('ekzerco3', 'ekzerco3/', enhavo['fasado']['Ekzerco 3'])
     ]
 
+    # La apendico aperas kiel «leciono 13» kun ĉi tiuj langetoj (flataj URL-oj).
+    apendicaj_langetoj = [
+        ('tabelvortoj', 'tabelvortoj/', enhavo['fasado']['Tabelvortoj']),
+        ('prepozicioj', 'prepozicioj/', enhavo['fasado']['Prepozicioj']),
+        ('konjunkcioj', 'konjunkcioj/', enhavo['fasado']['Konjunkcioj']),
+        ('afiksoj', 'afiksoj/', enhavo['fasado']['Afiksoj']),
+        ('diversajxoj', 'diversajxoj/', enhavo['fasado']['Diversaĵoj']),
+    ]
+
     if args.vojprefikso:
         vojprefikso = args.vojprefikso + lingvo + '/'
     else:
@@ -809,14 +818,18 @@ def generate_html(
 
     eligo[output_path / 'eksporto' / (enhavo['lingvo'] + '.apkg')] = create_anki(enhavo)
 
-    for tab_page in ALDONAJ_PAGXOJ:
+    # Memstaraj aldonaj paĝoj (ne parto de la langetoj nek de la antaŭen/malantaŭen-fluo).
+    for tab_page in ('auxtoroj', 'post'):
         pagxaj_ligiloj = redaktaj_ligiloj(lingvo, tab_page)
         eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env, pagxaj_ligiloj)
 
+    # La fluo: 12 lecionoj × langetoj, poste la apendicaj langetoj kiel «leciono 13».
     paths = []
     for i in range(1, 13):
         for id, href, caption in tabs:
             paths.append(vojprefikso + str(i).zfill(2) + '/' + href)
+    for id, href, caption in apendicaj_langetoj:
+        paths.append(vojprefikso + href)
 
     paths_index = 0
 
@@ -826,15 +839,8 @@ def generate_html(
 
         for tab, href, caption in tabs:
 
-            previous_path = None
-            next_path = None
-
-            tab_vojprefikso = vojprefikso + i_padded + '/'
-
-            if paths_index > 0:
-                previous_path = paths[paths_index - 1]
-            if paths_index < len(paths) - 1:
-                next_path = paths[paths_index + 1]
+            previous_path = paths[paths_index - 1] if paths_index > 0 else None
+            next_path = paths[paths_index + 1] if paths_index < len(paths) - 1 else None
             paths_index += 1
 
             tab_rendered = env.get_template(tab + '.html').render(
@@ -842,7 +848,7 @@ def generate_html(
                 leciono=enhavo['lecionoj'][i - 1],
                 leciono_index=i,
                 vojprefikso=vojprefikso,
-                tab_vojprefikso=tab_vojprefikso,
+                tab_vojprefikso=vojprefikso + i_padded + '/',
                 previous_path=previous_path,
                 next_path=next_path,
                 tabs=tabs,
@@ -853,6 +859,30 @@ def generate_html(
             )
 
             eligo[leciono_dir / href / 'index.html'] = tab_rendered
+
+    # La apendico: samaj langetoj sur ĉiu paĝo, kaj daŭrigo de la sama fluo.
+    for tab, href, caption in apendicaj_langetoj:
+
+        previous_path = paths[paths_index - 1] if paths_index > 0 else None
+        next_path = paths[paths_index + 1] if paths_index < len(paths) - 1 else None
+        paths_index += 1
+
+        apendica_rendered = env.get_template(tab + '.html').render(
+            enhavo=enhavo,
+            leciono_index=13,
+            apendico=True,
+            vojprefikso=vojprefikso,
+            tab_vojprefikso=vojprefikso,
+            previous_path=previous_path,
+            next_path=next_path,
+            tabs=apendicaj_langetoj,
+            active_tab=tab,
+            identigilo=href,
+            redaktaj_ligiloj=redaktaj_ligiloj(lingvo, 'vortoj'),
+            seo=seo_datenoj(enhavo, href),
+        )
+
+        eligo[output_path / tab / 'index.html'] = apendica_rendered
 
     # Forigu nunan dosierujon.
     shutil.rmtree(output_path, ignore_errors=True)

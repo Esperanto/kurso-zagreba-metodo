@@ -8,9 +8,9 @@
 
 {% block content %}
 
-<h2>
-	{{enhavo.fasado['Tabelvortoj']}}
-</h2>
+  {% include 'leciona-titolo.html' %}
+
+  {% include 'tabs.html' %}
 
 <table class="table">
   <thead>
@@ -47,5 +47,7 @@
 		{% endfor %}
   </tbody>
 </table>
+
+  {% include 'pager.html' %}
 
 {% endblock %}

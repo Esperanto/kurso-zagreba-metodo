@@ -46,8 +46,15 @@ function normalize(s) {
   return s;
 }
 
-function selectNextTabbableOrFocusable(selector){
-	var selectables = $(selector);
+// Trovas la videblajn tabeblajn elementojn per jQuery-kerno (sen jQuery-UI,
+// kiu antaŭe provizis la «:tabbable»-elektilon).
+function selectNextTabbable(){
+	var selectables = $(
+		'a[href], button:not([disabled]), input:not([disabled]), '
+		+ 'select:not([disabled]), textarea:not([disabled]), [tabindex]'
+	).filter(function(){
+		return this.tabIndex >= 0 && $(this).is(':visible');
+	});
 	var current = $(':focus');
 	var nextIndex = 0;
 	if(current.length === 1){
@@ -88,7 +95,7 @@ $('input[data-solvo]').on('input', function() {
 		// to not confuse it during the following step. 
 		$(this).focus();
 		// Jump to the next input.
-		selectNextTabbableOrFocusable(':tabbable');
+		selectNextTabbable();
   } else {
     console.log(input);
     console.log($(this).attr('data-solvo'));

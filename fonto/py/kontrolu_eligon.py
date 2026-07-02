@@ -19,7 +19,6 @@ GRAMATIKO_EMFAZO_PATTERN = re.compile(r'<em>labor<strong>i</strong></em>\s+–\s
 PWA_SERVICE_WORKER_PATTERN = re.compile(r'const PRECACHE_URLS = \[')
 BOOTSTRAP_PATTERN = re.compile(r'Bootstrap\s+v5\.3\.8')
 JQUERY_PATTERN = re.compile(r'jQuery v3\.7\.1')
-JQUERY_UI_PATTERN = re.compile(r'jQuery UI - v1\.13\.3')
 TYPEAHEAD_PATTERN = re.compile(r'typeahead\.js 0\.11\.1')
 HTML_LANG_PATTERN = re.compile(r'<html lang="en" dir="ltr">')
 TITLE_ROOT_PATTERN = re.compile(r'<title>Learn Esperanto \| The Fastest Basics Course</title>')
@@ -196,7 +195,6 @@ def main():
     bundle_js = output_dir / 'assets' / 'bundle.js'
     require_pattern(bundle_js, BOOTSTRAP_PATTERN)
     require_pattern(bundle_js, JQUERY_PATTERN)
-    require_pattern(bundle_js, JQUERY_UI_PATTERN)
     require_pattern(bundle_js, TYPEAHEAD_PATTERN)
     gramatiko_path = lingvo_dir / '01' / 'gramatiko' / 'index.html'
     require_pattern(gramatiko_path, GRAMATIKO_PATTERN)

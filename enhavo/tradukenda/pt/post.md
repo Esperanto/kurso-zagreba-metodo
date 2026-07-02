@@ -16,5 +16,4 @@
 
 * [Biblioteca Carlos Domingues](https://esperanto.bib.net.br/) — biblioteca da Liga Brasileira de Esperanto.
 * [Loja da Liga Brasileira de Esperanto](https://loja.esperanto.org.br/) — livros e materiais em Esperanto.
-* [lernu! em português](https://lernu.net/?hl=pt) — curso e exercícios adicionais.
 * [Eventa Servo](https://eventaservo.org/) — calendário de encontros, congressos e eventos online em Esperanto.

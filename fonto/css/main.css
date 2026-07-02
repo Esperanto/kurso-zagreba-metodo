@@ -356,6 +356,7 @@ h3 {
 }
 
 .nav-tabs {
+  justify-content: center;
   margin-bottom: 1.5rem;
 }
 .nav-tabs .nav-link {

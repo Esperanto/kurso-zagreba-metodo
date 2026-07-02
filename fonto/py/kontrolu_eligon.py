@@ -149,13 +149,15 @@ def main():
         lingvo_dir / 'index.html',
         lingvo_dir / 'llms.txt',
         lingvo_dir / 'llms-full.txt',
-        output_dir / 'assets' / 'bundle.css',
-        output_dir / 'assets' / 'bundle.js',
-        output_dir / 'assets' / 'hejmo.js',
+        output_dir / 'assets' / 'css' / 'main.css',
+        output_dir / 'assets' / 'js' / 'hejmo.js',
+        output_dir / 'assets' / 'js' / 'main.js',
         output_dir / 'assets' / 'img' / 'logo' / 'logo-64.png',
         output_dir / 'assets' / 'img' / 'logo' / 'logo-256.png',
         output_dir / 'assets' / 'img' / 'logo' / 'favicon-16x16.png',
         output_dir / 'assets' / 'img' / 'logo' / 'favicon-32x32.png',
+        output_dir / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css',
+        output_dir / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js',
         output_dir / 'manifest.webmanifest',
         output_dir / 'manifest.json',
         output_dir / 'pwa' / 'registru.js',
@@ -189,13 +191,11 @@ def main():
     require_pattern(lingvo_dir / '01' / 'index.html', CANONICAL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', META_DESCRIPTION_PATTERN)
     require_lesson_image_alts(output_dir, lingvo)
-    # La vendaj bibliotekoj troviĝas nun en la kunmetita bundle.js; iliaj
-    # versiaj banneroj restas, ĉar la vendaj dosieroj ne estas re-minigitaj.
-    bundle_js = output_dir / 'assets' / 'bundle.js'
-    require_pattern(bundle_js, BOOTSTRAP_PATTERN)
-    require_pattern(bundle_js, JQUERY_PATTERN)
-    require_pattern(bundle_js, JQUERY_UI_PATTERN)
-    require_pattern(bundle_js, TYPEAHEAD_PATTERN)
+    require_pattern(output_dir / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css', BOOTSTRAP_PATTERN)
+    require_pattern(output_dir / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js', BOOTSTRAP_PATTERN)
+    require_pattern(output_dir / 'vendor' / 'jquery' / 'jquery.min.js', JQUERY_PATTERN)
+    require_pattern(output_dir / 'vendor' / 'jquery' / 'jquery-ui.min.js', JQUERY_UI_PATTERN)
+    require_pattern(output_dir / 'vendor' / 'typeahead' / 'typeahead.bundle.min.js', TYPEAHEAD_PATTERN)
     gramatiko_path = lingvo_dir / '01' / 'gramatiko' / 'index.html'
     require_pattern(gramatiko_path, GRAMATIKO_PATTERN)
     require_pattern(gramatiko_path, GRAMATIKO_TOC_PATTERN)

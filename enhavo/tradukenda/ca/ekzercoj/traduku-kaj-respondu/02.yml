@@ -8,16 +8,16 @@
     - hejmo: casa
     - '?'
 - 
-  demando: Quins llibres has llegit, i son bons?
+  demando: Quins llibres has llegit, i són bons?
   rektatraduko: 
     - Kiujn: Quins 
     - librojn: llibres
     - vi: tu
     - legis: has llegit
     - kaj: i
-    - ĉu: ¿
+    - ĉu: si
     - ili: ells
-    - estas: son
+    - estas: són
     - bonaj: bons 
     - '?'
 - 
@@ -38,7 +38,7 @@
 - 
   demando: T'agrada llegir llibres d'amor?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: tu
     - ŝatas: agrada
     - legi: llegir

@@ -9,7 +9,7 @@
 -
   demando: Pots aprendre tranquil·lament mentre algú està cantant animadament?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: Tu
     - povas: pots
     - trankvile: tranquil·lament
@@ -34,33 +34,33 @@
     - nin: l'un a l'altre
     - '?'
 -
-  demando: Quina hora és ara? 
-  rektatraduko: 
+  demando: Quina hora és ara?
+  rektatraduko:
     - Kioma: Quina
     - horo: hora
-    - estas: és 
+    - estas: és
     - nun: ara
     - '?'
 -
   demando: Algú et va ajudar a obrir la porta de l'antiga casa?
   rektatraduko: 
-    - Ĉu: ¿
-    - iu: algú 
+    - Ĉu: Que
+    - iu: algú
     - helpis: va ajudar
     - al: a
     - vi: tu
-    - malfermi: obrir 
-    - la: la 
-    - pordon: porta 
+    - malfermi: obrir
+    - la: la
+    - pordon: porta
     - de: de
     - la: la
     - malnova: antiga
     - domo: casa
     - '?'
 -
-  demando: Perquè no tens temps d'escoltar-me més temps?
+  demando: Per què no tens temps d'escoltar-me més temps?
   rektatraduko: 
-    - Kial: Perquè
+    - Kial: Per què
     - vi: tu
     - ne: 'no'
     - havas: tens

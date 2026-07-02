@@ -1,11 +1,11 @@
 - 
   demando: Ens veurem de nou l'un a l'altre, sense importar "on" ni quan sigui?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - ni: Nosaltres
     - revidos: ens veurem de nou
     - nin: l'un a l'altre
-    - ',' 
+    - ','
     - kie: "on"
     - ajn: sigui
     - kaj: i
@@ -13,7 +13,7 @@
     - ajn: sigui
     - '?'
 - 
-  demando: Quan tornaré l'altra meitad dels llibres?
+  demando: Quan tornaré l'altra meitat dels llibres?
   rektatraduko: 
     - Kiam: Quan
     - mi: jo
@@ -28,7 +28,7 @@
 - 
   demando: Necessitaràs més d'un quart d'any per a aquells treballs?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: Tu
     - bezonos: necessitaràs
     - pli: més
@@ -40,14 +40,14 @@
     - laboroj: treballs
     - '?'
 - 
-  demando: Per què  més fred fa, més temps esperem?
+  demando: Per què com més fred fa, més temps esperem?
   rektatraduko: 
     - Kial: Per què
     - ju: com
     - pli: més
     - malvarme: fred
     - estas: fa
-    - ',' 
+    - ','
     - des: tant
     - pli: més
     - longe: temps
@@ -57,7 +57,7 @@
 - 
   demando: Podries ser feliç amb un home qualsevol?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: Tu
     - estus: series
     - feliĉa: feliç

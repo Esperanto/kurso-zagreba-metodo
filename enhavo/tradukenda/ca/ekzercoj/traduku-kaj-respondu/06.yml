@@ -1,11 +1,11 @@
 - 
   demando: Desitges que t'ensenyi el meu llibre més nou?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: Tu
     - deziras: desitges
-    - ',' 
-    - ke: que 
+    - ','
+    - ke: que
     - mi: jo
     - montru: t'ensenyi
     - al: a
@@ -16,12 +16,12 @@
     - libron: llibre
     - '?'
 - 
-  demando: Què vols esmorçar demà?
+  demando: Què vols esmorzar demà?
   rektatraduko: 
     - Kion: Què
     - vi: tu
     - volas: vols
-    - matenmanĝi: esmorçar
+    - matenmanĝi: esmorzar
     - morgaŭ: demà
     - '?'
 - 
@@ -30,8 +30,8 @@
     - Kiam: Quan
     - Marko: Marc
     - alvenos: arribarà
-    - ',' 
-    - Ĉu: ¿
+    - ','
+    - Ĉu: si
     - je: a
     - la: les
     - kvina: cinc
@@ -47,24 +47,24 @@
     - Kiam: Quan
     - vi: tu
     - rimarkis: et vas adonar
-    - ','  
+    - ','
     - ke: que
     - la: la
     - tuta: sencera
     - familio: família
     - nomas: em diu
-    - min: a mí
+    - min: a mi
     - bonfarulo: benefactor
     - '?'
 - 
-  demando: Que et va fer servei el llibret que et vaig enviar?
+  demando: Et va ser útil el llibret que et vaig enviar?
   rektatraduko: 
-    - Ĉu: ¿
-    - estis: Era
+    - Ĉu: Que
+    - estis: va ser
     - utila: útil
-    - la: el 
+    - la: el
     - libreto: llibret
-    - ',' 
+    - ','
     - kiun: que
     - mi: jo
     - sendis: vaig enviar

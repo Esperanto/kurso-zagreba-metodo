@@ -4,5 +4,5 @@
 
 Po kurzu budeš **rozumět základům**, tvořit vlastní věty a dokážeš sdělit základní myšlenky v každodenních situacích.
 
-Prostě to zkus!
+Vyzkoušej to!
 ____

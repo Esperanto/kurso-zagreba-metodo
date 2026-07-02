@@ -28,14 +28,15 @@ test('hejmpaĝo plusendas nekonatan lingvon al la angla', async ({ browser }) =>
   await context.close();
 });
 
-test('hejmpaĝo enhavas rektajn lingvoligilojn por serĉiloj', async ({ page }) => {
+test('hejmpaĝo signalas la lingvoversiojn al serĉiloj', async ({ page }) => {
   const response = await page.request.get('/');
   const html = await response.text();
 
-  expect(html).toContain('href="/en/"');
   expect(html).toContain('Learn Esperanto');
-  expect(html).toContain('href="/de/"');
-  expect(html).toContain('Deutsch');
+  // La lingvoversioj estas signalitaj al serĉiloj per hreflang-alternativoj
+  // en la kapo (la hejmpaĝo mem estas JS-lingvoelektilo kun plusendo).
+  expect(html).toContain('rel="alternate" hreflang="en" href="https://esperanto12.net/en/"');
+  expect(html).toContain('rel="alternate" hreflang="de" href="https://esperanto12.net/de/"');
   expect(html).not.toContain('hejmo-subtitolo');
 });
 
@@ -109,16 +110,13 @@ test('poŝtelefone vortaro restas inter logo kaj cxiamaj butonoj en unu linio', 
 
     const logoBox = await page.locator('.navbar-brand').boundingBox();
     const dictionaryBox = await dictionary.boundingBox();
-    const appendixBox = await page.getByRole('button', { name: 'Appendix' }).boundingBox();
     const languageBox = await page.getByRole('button', { name: 'Elekti alian lingvon' }).boundingBox();
     const navbarBox = await page.locator('.navbar').boundingBox();
 
     expect(dictionaryBox.x).toBeGreaterThan(logoBox.x + logoBox.width - 1);
-    expect(dictionaryBox.x + dictionaryBox.width).toBeLessThan(appendixBox.x + 1);
-    expect(appendixBox.x + appendixBox.width).toBeLessThan(languageBox.x + languageBox.width + 1);
+    expect(dictionaryBox.x + dictionaryBox.width).toBeLessThan(languageBox.x + 1);
     expect(languageBox.x + languageBox.width).toBeLessThanOrEqual(width);
     expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (logoBox.y + logoBox.height / 2))).toBeLessThan(3);
-    expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (appendixBox.y + appendixBox.height / 2))).toBeLessThan(3);
     expect(Math.abs((dictionaryBox.y + dictionaryBox.height / 2) - (languageBox.y + languageBox.height / 2))).toBeLessThan(3);
     expect(navbarBox.height).toBeLessThan(60);
   }
@@ -239,14 +237,16 @@ test('aldona kaj lingva menuoj restas cxiam atingeblaj', async ({ page }) => {
   await page.setViewportSize({ width: 580, height: 720 });
   await page.goto('/en/01/');
 
-  await page.getByRole('button', { name: 'Appendix' }).click();
+  // La apendico estas atingebla kiel «13a leciono» el la lecionmenuo.
+  await page.getByRole('button', { name: /1\./ }).click();
+  const lessonMenu = page.locator('.leciona-menuo-listo.show');
+  await expect(lessonMenu).toBeVisible();
+  await expect(lessonMenu.getByRole('link', { name: 'Appendix' })).toHaveAttribute(
+    'href',
+    '/en/tabelvortoj',
+  );
 
-  const appendixMenu = page.locator('.dropdown-menu.show').filter({
-    hasText: 'Correlatives',
-  });
-  await expect(appendixMenu).toBeVisible();
-
-  await page.getByRole('button', { name: 'Appendix' }).click();
+  await page.getByRole('button', { name: /1\./ }).click();
   await page.getByRole('button', { name: 'Elekti alian lingvon' }).click();
   const languageMenu = page.locator('.dropdown-menu.show').filter({
     hasText: 'Deutsch',
@@ -518,7 +518,7 @@ test('ekzercaj tekstkampoj sekvas la size-valoron', async ({ page }) => {
         return Number(input.getAttribute('size')) - firstAnswer.length;
       }));
 
-    await expect(sizeOffsets.every((offset) => offset === 2)).toBe(true);
+    await expect(sizeOffsets.every((offset) => offset === 1)).toBe(true);
   }
 });
 
@@ -558,25 +558,25 @@ test('ekzerco 2 uzas Bootstrap-validigon ene de enigogrupoj', async ({ page }) =
   await expect(punctuationGap).toBeGreaterThanOrEqual(4);
 });
 
-test('ekzercaj respondaj ikonoj restas en la kampoj', async ({ page }) => {
+test('ekzercaj respondaj kampoj montras validigan retrosignon', async ({ page }) => {
   for (const path of ['/en/06/ekzerco1/', '/en/06/ekzerco3/']) {
     await page.goto(path);
 
-    const iconPositions = await page.locator('.form-horizontal .col-sm-10')
-      .evaluateAll((cells) => cells.map((cell) => {
-        const input = cell.querySelector('input[type="text"]');
-        const icon = cell.querySelector('.feedback-icon');
-        const inputBox = input.getBoundingClientRect();
-        const iconBox = icon.getBoundingClientRect();
+    const inputs = page.locator('.form-horizontal input[data-solvo]');
+    // Komence ĉiu kampo estas markita kiel nevalida (Bootstrap-5-validigo).
+    await expect(inputs.first()).toHaveClass(/is-invalid/);
 
-        return {
-          insideInput: iconBox.left >= inputBox.left && iconBox.right <= inputBox.right,
-          rightGap: Math.round(inputBox.right - iconBox.right),
-        };
-      }));
+    // «Solvu» plenigas ĉiun kampon per ĝia solvo → is-valid.
+    const solveButtons = page.locator('.solvu');
+    const buttonCount = await solveButtons.count();
+    for (let i = 0; i < buttonCount; i += 1) {
+      await solveButtons.nth(i).click();
+    }
 
-    await expect(iconPositions.every(({ insideInput }) => insideInput)).toBe(true);
-    await expect(iconPositions.every(({ rightGap }) => rightGap >= 5 && rightGap <= 25)).toBe(true);
+    const inputCount = await inputs.count();
+    for (let i = 0; i < inputCount; i += 1) {
+      await expect(inputs.nth(i)).toHaveClass(/is-valid/);
+    }
   }
 });
 

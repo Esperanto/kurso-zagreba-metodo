@@ -1,316 +1,314 @@
-afer: matter
-agrabl: pleasant
-akcept: accept
-akv: water
-ali: another
-alt: high
-am: love
-amik: friend
-arb: tree
+afer: मामला
+agrabl: सुखद
+akcept: स्वीकार करना
+akv: पानी
+ali: दूसरा
+alt: ऊँचा
+am: प्रेम करना
+amik: मित्र
+arb: पेड़
 aspekt:
-- look
-- seem
-atend: to wait
-atent: pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
+- दिखना
+- प्रतीत होना
+atend: प्रतीक्षा करना
+atent: ध्यान देना
+aĉet: खरीदना
+aŭd: सुनना
+aŭt: कार
+aŭtoritat: अधिकार
+bedaŭr: खेद होना
+bel: सुंदर
+best: पशु
+bezon: ज़रूरत होना
 bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: must
-dezir: to wish
-diabl: devil
+- जागीर
+- खेत-ज़मीन
+bon: अच्छा
+branĉ: शाखा
+bru: शोर
+buŝ: मुँह
+cert: निश्चित
+dank: धन्यवाद देना
+daŭr: जारी रहना
+decid: निर्णय करना
+demand: पूछना
+dev: करना पड़ना
+dezir: इच्छा करना
+diabl: शैतान
 dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
-doktor: doctor
-dolar: dollar
+- मोटा
+- गाढ़ा
+dimanĉ: रविवार
+dir: कहना
+direkt: दिशा
+doktor: डॉक्टर
+dolar: डॉलर
 dolor:
-- pain
-- to hurt
-dolĉ: sweet
-dom: house
-don: to give
-dorm: sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
+- दर्द होना
+- दर्द
+dolĉ: मीठा
+dom: घर
+don: देना
+dorm: सोना
+doĝ: डोजे
+edz: पति
+efektiv: वास्तव में
+ekskurs: सैर
+esper: आशा करना
+est: होना
+facil: आसान
+fakt: तथ्य
+fal: गिरना
+famili: परिवार
+far: करना
 fart:
-- feel
-- be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
+- महसूस करना
+- हाल होना
+feliĉ: खुश
+ferm: बंद करना
+fin: समाप्त करना
+flank: पक्ष
 foj:
-- time
-- occasion
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
-gondol: gondola
+- बार
+- अवसर
+forges: भूलना
+form: रूप
+fort: मज़बूत
+fot: फोटो
+frat: भाई
+fru: जल्दी
+fuŝ: बिगाड़ना
+gondol: गोंडोला
 graf:
-- count
-- earl
+- काउंट
+- उपाधिधारी
 grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: necessary
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
-opini:
-- to opinionate
-- to think
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
-si: reflexive pronoun
-sid: to sit
-silent: silent
-simil: similar
+- बड़ा
+- महान
+grav: महत्वपूर्ण
+halt: रुकना
+hav: रखना
+hejm: घर
+help: मदद करना
+hom: मनुष्य
+hor: घंटा
+hotel: होटल
+ide: विचार
+industri: उद्योग
+instru: पढ़ाना
+interes: रुचि जगाना
+invit: आमंत्रित करना
+ir: जाना
+itali: इटली
+jar: वर्ष
+jun: युवा
+kaf: कॉफी
+kalv: गंजा
+kap: सिर
+kapabl: सक्षम
+kapt: पकड़ना
+kar: प्रिय
+kastel: किला
+kav: गुफा
+kelk: कुछ
+kelner: वेटर
+klar: स्पष्ट
+klub: क्लब
+knab: लड़का
+koler: क्रोध
+kolor: रंग
+komenc: शुरू करना
+kompren: समझना
+kon: जानना
+kontent: संतुष्ट
+kontrol: जाँचना
+kor: हृदय
+korp: शरीर
+kost: कीमत होना
+kri: चिल्लाना
+kuir: पकाना
+kuk: केक
+kur: दौड़ना
+labor: काम करना
+lakt: दूध
+lamp: दीपक
+land: देश
+larĝ: चौड़ा
+last: अंतिम
+laŭt: ऊँचा
+lecion: पाठ
+leg: पढ़ना
+lern: सीखना
+leter: पत्र
+liber: स्वतंत्र
+libr: किताब
+lok: स्थान
+long: लंबा
+lud: खेलना
+lum: प्रकाश
+man: हाथ
+mank: कमी होना
+manĝ: खाना
+mar: समुद्र
+maten: सुबह
+memor: याद रखना
+met: रखना
+mez: बीच
+milit: युद्ध
+minut: मिनट
+mir: आश्चर्य करना
+moment: क्षण
+mon: पैसा
+mont: पर्वत
+montr: दिखाना
+mort: मरना
+mov: हिलना
+mult: बहुत
+muzik: संगीत
+nask: जन्म देना
+natur: प्रकृति
+neces: आवश्यक
+nokt: रात
+nom: नाम
+not: नोट
+nov: नया
+odor: गंध
+oft: अक्सर
+okaz: होना
+okul: आँख
+onkl: चाचा
+opini: सोचना
+ord: क्रम में रखना
+orel: कान
+pac: शांति
+pag: भुगतान करना
+pan: रोटी
+paper: कागज़
+pardon: क्षमा करना
+parol: बोलना
+part: भाग
+pas: गुजरना
+patr: पिता
+paŝ: कदम
+pens: सोचना
+perd: खोना
+person: व्यक्ति
+pet: अनुरोध करना
+pez: भारी
+pied: पैर
+plac: चौक
+plan: योजना बनाना
+plaĉ: पसंद आना
+plen: भरा हुआ
+polic: पुलिस
+pord: दरवाज़ा
+port: ले जाना
+pov: सकना
+pren: लेना
+pret: तैयार
+prezent: प्रस्तुत करना
+problem: समस्या
+proksim: पास
+promen: टहलना
+propon: प्रस्ताव करना
+prov: कोशिश करना
+rajt: अनुमति होना
+rapid: तेज़
+raport: रिपोर्ट
+real: वास्तविक
+rekt: सीधा
+renkont: मिलना
+respekt: सम्मान करना
+respond: उत्तर देना
+rest: रहना
+ricev: पाना
+rid: हँसना
+rigard: देखना
+riĉ: धनी
+rol: भूमिका
+ruĝ: लाल
+salt: कूदना
+salut: नमस्कार
+sam: वही
+san: स्वस्थ
+saĝ: बुद्धिमान
+sci: जानना
+sek: सूखा
+sekret: गुप्त
+sekv: अनुसरण करना
+semajn: सप्ताह
+send: भेजना
+serĉ: खोजना
+si: निजवाचक सर्वनाम
+sid: बैठना
+silent: मौन
+simil: समान
 sinjor:
-- gentleman
-- Mr.
-situaci: situation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: hold
-teror: terror
-tim: fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to ride
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: to travel
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
+- श्रीमान
+- सज्जन
+situaci: स्थिति
+skrib: लिखना
+sol: अकेला
+son: ध्वनि करना
+sovaĝ: जंगली
+sport: खेल
+star: खड़ा होना
+strat: सड़क
+subit: अचानक
+sufiĉ: पर्याप्त
+sukces: सफलता
+sun: सूरज
+supr: ऊपर
+tabl: मेज़
+tag: दिन
+te: चाय
+telefon: फ़ोन
+temp: समय
+temperatur: तापमान
+ten: पकड़ना
+teror: आतंक
+tim: डरना
+ton: स्वर
+trankvil: शांत
+trink: पीना
+trov: पाना
+turk: तुर्की
+tuŝ: छूना
+urb: शहर
+util: उपयोगी
+uz: उपयोग करना
+vagon: डिब्बा
+varm: गरम
+ven: आना
+vend: बेचना
+Veneci: वेनिस
+ver: सच
+vesper: शाम
+vest: पहनना
+vetur: वाहन से जाना
+vid: देखना
+vin: वाइन
+vir: पुरुष
+viv: जीना
+vizaĝ: चेहरा
+vizit: मिलने जाना
+voj: रास्ता
+vojaĝ: यात्रा करना
+vok: पुकारना
+vol: चाहना
+vort: शब्द
+voĉ: आवाज़
+zorg: देखभाल करना
+ĉambr: कमरा
+ĉef: मुख्य
 ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- परेशान करना
+- बाधा देना
+ĝeneral: सामान्य
+ĝoj: आनंद
+ĝust: सही
+ĵet: फेंकना
+ŝajn: प्रतीत होना
+ŝanĝ: बदलना
+ŝat: पसंद करना
+ŝip: जहाज़

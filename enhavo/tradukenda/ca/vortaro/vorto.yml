@@ -248,24 +248,19 @@ malmultekosta:
  - barata
 malmulton: poc 
 malnova:
- - vell
- - vella
- - antic
- - antiga
+ - vell/a
+ - antic/iga
 malnovaj:
- - vells
- - velles
- - antics
- - antigues
+ - vells/velles
+ - antics/igues
 malofte: rarament 
 malplaĉa: desagradable
 malplaĉan: desagradable  
 malproksime: lluny
 malsaniĝis:
  - s'ha posat malalt
- - es va posar malalt
  - ha emmalaltit
- - va enmalaltir
+ - es va posar malalt
 malsaĝa: 
  - insensat
  - insensata
@@ -300,8 +295,6 @@ mariston: mariner
 miaj:
  - els meus
  - les meves
- - meus
- - meves
 militistoj: militars
 monerojn: monedes
 monujo: moneder
@@ -456,13 +449,12 @@ veturigus:
  - portaria
  - acompanyaria (a algú amb vehicle) 
 viaj:
- - teu
- - teves
  - els teus
  - les teves
+ - els vostres/les vostres
 virino: dona
 vojaĝantoj: viatgers
-ĉambristoj: servidor d'habitacions
+ĉambristoj: cambrers d'habitació
 ĉeesto: assistència
 ĉirkaŭaĵo: 
  - voltants
@@ -472,8 +464,6 @@ vojaĝantoj: viatgers
  - nosa
 ĝustatempe: just a temps
 ŝiaj:
- - seus
- - seves 
  - els seus
  - les seves 
 ŝipkuron: regata, cursa de vaixells

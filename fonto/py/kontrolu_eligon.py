@@ -141,6 +141,7 @@ def main():
     for path in [
         md_out,
         output_dir / 'index.html',
+        output_dir / 'favicon-120x120.png',
         output_dir / 'favicon.ico',
         output_dir / 'apple-touch-icon.png',
         output_dir / 'robots.txt',
@@ -154,6 +155,7 @@ def main():
         output_dir / 'assets' / 'hejmo.js',
         output_dir / 'assets' / 'img' / 'logo' / 'logo-64.png',
         output_dir / 'assets' / 'img' / 'logo' / 'logo-256.png',
+        output_dir / 'assets' / 'img' / 'logo' / 'favicon-120x120.png',
         output_dir / 'assets' / 'img' / 'logo' / 'favicon-16x16.png',
         output_dir / 'assets' / 'img' / 'logo' / 'favicon-32x32.png',
         output_dir / 'manifest.webmanifest',

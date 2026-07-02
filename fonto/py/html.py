@@ -658,6 +658,7 @@ def copy_static_files(versio, meta_description, hejmaj_lingvoj):
         str(OUTPUT_DIR / 'llms.txt'),
         render_llms_index(hejmaj_lingvoj, meta_description),
     )
+    shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon-120x120.png', OUTPUT_DIR / 'favicon-120x120.png')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'apple-touch-icon.png', OUTPUT_DIR / 'apple-touch-icon.png')
     pwa.copy_static_assets(OUTPUT_DIR)

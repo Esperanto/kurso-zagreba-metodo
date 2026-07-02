@@ -1,6 +1,6 @@
 // Konstruas la pakaĵojn per esbuild:
 //   dist/bundle.css  – Fira-Sans + Bootstrap + main.css + vortaro.css (+ files/)
-//   dist/bundle.js   – jQuery, jQuery-UI, Bootstrap, typeahead, main.js, vortaro.js
+//   dist/bundle.js   – jQuery, Bootstrap, typeahead, main.js, vortaro.js
 //   dist/hejmo.js    – la memstara skripto de la lingvo-startpaĝo
 //
 // La vendaj JS-dosieroj estas jam minigitaj kaj estas nur KUNMETITAJ (ne ESM-
@@ -47,7 +47,6 @@ const [mainMin, vortaroMin, hejmoMin] = await Promise.all([
 // 3) JS-pakaĵo: venda kodo (jam minigita) + nia kodo, kunmetitaj laŭvice.
 const vendorRelatives = [
   'jquery/dist/jquery.min.js',
-  'jquery-ui-dist/jquery-ui.min.js',
   'bootstrap/dist/js/bootstrap.bundle.min.js',
   'typeahead.js/dist/typeahead.bundle.min.js',
 ];

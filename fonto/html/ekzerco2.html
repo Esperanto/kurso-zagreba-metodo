@@ -53,17 +53,17 @@
             {%- if not havas_solvon -%}
               {# Tuta ekzistanta vorto: neredaktebla enigogrupo. #}
               {% set fiksa_vorto = segmentoj | map(attribute='teksto') | join('') %}
-              <span id="form-group-{{id}}" class="input-group has-error has-feedback">
+              <span class="input-group">
                 <span class="input-group-text">{{ fiksa_vorto }}</span>
               </span>
             {%- elif segmentoj | length == 1 -%}
               {# Tuta plenigenda vorto: normala enigo. #}
-              <span id="form-group-{{id}}" class="form-group has-error has-feedback">
+              <span class="form-group">
                 <input id="{{id}}" type="text" class="form-control is-invalid" size="{{ (segmentoj[0].teksto|length) + 1 }}" data-solvo="{{ segmentoj[0].teksto }}" />
               </span>
             {%- else -%}
               {# Vortpartoj: enigogrupo kun fiksaj partoj kaj plenigenda enigo. #}
-              <span id="form-group-{{id}}" class="input-group has-error has-feedback">
+              <span class="input-group">
                 {%- for segmento in segmentoj -%}
                   {%- if segmento.tipo == 'fiksa' -%}
                     <span class="input-group-text">{{ segmento.teksto }}</span>

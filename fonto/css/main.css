@@ -529,13 +529,8 @@ ol.tasko {
   row-gap: 18px;
 }
 .form-horizontal .form-group {
-  margin-bottom: 0;
-}
-.form-horizontal .form-group.has-feedback {
   display: contents;
-}
-.form-horizontal .form-group:not(.has-feedback) {
-  grid-column: 1 / -1;
+  margin-bottom: 0;
 }
 .form-horizontal .control-label {
   font-weight: 700;
@@ -566,12 +561,6 @@ ol.tasko {
   margin-bottom: 1.5rem;
   margin-top: 2rem;
 }
-.form-horizontal .feedback-icon {
-  position: absolute;
-  right: 12px;
-  top: 50%;
-  transform: translateY(-50%);
-}
 .form-horizontal .solvu,
 .form-horizontal .forigu {
   margin-top: 0.25em;
@@ -588,12 +577,6 @@ ol.tasko {
   height: 34px;
   line-height: 1.42857143;
   width: auto;
-}
-.form-inline .feedback-icon {
-  position: absolute;
-  right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
 }
 /* Ekzerco 2: ĉiu vorto estas enigo aŭ enigogrupo, interpunkcio aparta. */
 .ekzerco2-tasko ol.tasko {
@@ -648,23 +631,13 @@ ol.tasko {
   border-color: var(--bs-border-color);
 }
 
-.has-error input {
-  background: var(--exercise-field-bg);
+/* Konservu la malfortan fonan tinkturon de la ekzercaj kampoj, sed ligitan al la
+   Bootstrap-5-validigo (is-invalid/is-valid) anstataŭ la malnovaj BS3-klasoj. */
+input.is-invalid {
+  background-color: var(--exercise-field-bg);
 }
-.has-success input {
-  background: #eff8ef;
-}
-.feedback-icon {
-  display: inline-block;
-  font-weight: bold;
-  min-width: 1.5em;
-  text-align: center;
-}
-.feedback-icon-ok {
-  color: #198754;
-}
-.feedback-icon-remove {
-  color: #dc3545;
+input.is-valid {
+  background-color: #eff8ef;
 }
 
 @media (min-width: 576px) {

@@ -1,4 +1,4 @@
-.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-ui check-pwa html html-all md serve clean
+.PHONY: help venv install install-ui pip-tools lock lock-upgrade check check-ui check-pwa html html-all md serve clean
 
 LINGVO ?= en
 HTML_LINGVOJ ?= ar ca cs da de el en es fa fr frp ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tok tr uk ur vi yo zh zh-tw
@@ -77,14 +77,10 @@ check-ui:
 check-pwa:
 	@"$(PYTHON)" -m fonto.py.kontrolu_pwa --output-dir "$(OUTPUT_DIR)" --lingvoj $(HTML_LINGVOJ)
 
-bundle:
-	@test -d "$(NODE_MODULES)/esbuild" || { printf '%s\n' 'Mankas esbuild en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
-	@"$(NPM)" run --silent bundle
-
-html: bundle
+html:
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo html
 
-html-all: bundle
+html-all:
 	@"$(PYTHON)" -m fonto.py.generu --lingvoj $(HTML_LINGVOJ) --eligformo html
 
 md:

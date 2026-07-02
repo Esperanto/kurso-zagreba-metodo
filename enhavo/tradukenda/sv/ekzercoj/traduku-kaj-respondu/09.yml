@@ -12,7 +12,7 @@
   demando: Om du åtminstone skulle åka med mig in till stan efter skolan!
   rektatraduko: 
     - Se: Om
-    - almenaŭ: åtmisntone
+    - almenaŭ: åtminstone
     - vi: du
     - post: efter
     - la: (bestämd artikel)
@@ -28,7 +28,7 @@
   demando: Vart skulle du önska att resa om du hade tillräckligt med tid och pengar?
   rektatraduko: 
     - Kien: Vart
-    - vi: de
+    - vi: du
     - dezirus: skulle önska
     - vojaĝi: resa
     - ',' 
@@ -63,9 +63,9 @@
     - vagonaro: tåg
     - '?'
 - 
-  demando: Varför förlkarar olika människor samma idéer på olika sätt?
+  demando: Varför förklarar olika människor samma idéer på olika sätt?
   rektatraduko: 
-    - Kial: Kial
+    - Kial: Varför
     - diversaj: olika
     - homoj: människor
     - klarigas: förklarar

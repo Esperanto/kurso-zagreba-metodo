@@ -20,7 +20,7 @@
     - rericevos: kommer att få tillbaka
     - la: (bestämd artikel)
     - alian: andra
-    - duonon: halva
+    - duonon: hälften
     - de: av
     - la: (bestämd artikel)
     - libroj: böcker
@@ -30,7 +30,7 @@
   rektatraduko: 
     - Ĉu: (Frågepartikeln)
     - vi: du
-    - bezonos: kommer behöva
+    - bezonos: kommer att behöva
     - pli: mer
     - ol: än
     - kvaronan: fjärdedels
@@ -40,13 +40,13 @@
     - laboroj: jobb
     - '?'
 - 
-  demando: Varför är det kallare ju längre ni väntar? Why is it that the colder it is, the longer we wait?
+  demando: Varför är det kallare ju längre vi väntar?
   rektatraduko: 
     - Kial: Varför
     - estas: är
     - des: desto
     - pli: mer
-    - malvarma: kallt
+    - malvarma: kallare
     - ',' 
     - ju: ju
     - pli: mer
@@ -62,7 +62,7 @@
     - estus: skulle vara
     - kontenta: nöjd
     - kun: med
-    - iu: vem
-    - ajn: om helst
+    - iu: någon
+    - ajn: som helst
     - viro: man
     - '?'

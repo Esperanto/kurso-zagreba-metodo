@@ -355,6 +355,9 @@ h3 {
   width: auto;
 }
 
+.nav-tabs {
+  margin-bottom: 1.5rem;
+}
 .nav-tabs .nav-link {
   align-items: center;
   display: inline-flex;
@@ -370,6 +373,11 @@ h3 {
   align-items: center;
   display: inline-flex;
   line-height: 1;
+}
+
+/* Neniu suba horizontala linio sub la lasta vico de la tabelvorta tabelo. */
+.table > tbody > tr:last-child > * {
+  border-bottom: 0;
 }
 
 @media (max-width: 575.98px) {

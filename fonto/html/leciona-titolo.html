@@ -27,7 +27,7 @@
     </span>
     <span class="leciona-titolo-teksto">
       {% if apendico %}
-        📎 {{enhavo.fasado['Aldono']}}
+        {{enhavo.fasado['Aldono']}}
       {% else %}
         {% for vorto in leciono.teksto.titolo %}
           {% include 'vorto.html' %}

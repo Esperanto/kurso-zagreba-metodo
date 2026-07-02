@@ -1,57 +1,56 @@
-- 
-  demando: Who is your female friend?
+-
+  demando: तुम्हारी महिला मित्र कौन है?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: female friend
+    - Kiu: कौन
+    - estas: है
+    - via: तुम्हारी
+    - amikino: महिला मित्र
     - '?'
-- 
-  demando: Is your friend Anna now writing in the room?
+-
+  demando: क्या तुम्हारी मित्र आना अब कमरे में लिख रही है?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - Ĉu: क्या
+    - via: तुम्हारी
+    - amikino: महिला मित्र
+    - Anna: आना
+    - skribas: लिख रही है
+    - nun: अब
+    - en: में
+    - la: निश्चित उपपद
+    - ĉambro: कमरा
     - '?'
-- 
-  demando: Does the friend of your father work in a hotel?
+-
+  demando: क्या तुम्हारे पिता का मित्र होटल में काम करता है?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: क्या
+    - la: निश्चित उपपद
+    - amiko: मित्र
+    - de: का
+    - via: तुम्हारा
+    - patro: पिता
+    - laboras: काम करता है
+    - en: में
+    - hotelo: होटल
     - '?'
-- 
-  demando: What is on the work-bench in our room?
+-
+  demando: हमारे कमरे में काम की मेज़ पर क्या है?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: क्या
+    - estas: है
+    - sur: पर
+    - la: निश्चित उपपद
+    - labortablo: काम की मेज़
+    - en: में
+    - nia: हमारा
+    - ĉambro: कमरा
     - '?'
-- 
-  demando: Is there an Esperanto textbook on your table?
+-
+  demando: क्या तुम्हारी मेज़ पर एस्पेरान्तो की पाठ्यपुस्तक है?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: क्या
+    - Esperanto-lernolibro: एस्पेरान्तो पाठ्यपुस्तक
+    - estas: है
+    - sur: पर
+    - via: तुम्हारी
+    - tablo: मेज़
     - '?'
-

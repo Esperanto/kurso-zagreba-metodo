@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly when someone is singing joyfully?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+  demando: जब कोई खुशी से गा रहा हो, क्या तुम शांतिपूर्वक सीख सकते हो?
+  rektatraduko:
+    - Ĉu: क्या
+    - vi: तुम
+    - povas: सकते हो
+    - trankvile: शांतिपूर्वक
+    - lerni: सीखना
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: जबकि
+    - iu: कोई
+    - ĝoje: खुशी से
+    - kantas: गाता है
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
-  rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+  demando: कौन जानता है कि हम फिर कब और कहाँ एक-दूसरे को देखेंगे?
+  rektatraduko:
+    - Kiu: कौन
+    - scias: जानता है
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: कब
+    - kaj: और
+    - kie: कहाँ
+    - ni: हम
+    - revidos: फिर देखेंगे
+    - nin: एक-दूसरे को
     - '?'
 -
-  demando: What time is it now?
-  rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+  demando: अभी कितने बजे हैं?
+  rektatraduko:
+    - Kioma: कितनीवीं
+    - horo: घड़ी/घंटा
+    - estas: है
+    - nun: अब
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
-  rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+  demando: क्या किसी ने पुराने घर का दरवाज़ा खोलने में तुम्हारी मदद की?
+  rektatraduko:
+    - Ĉu: क्या
+    - iu: किसी ने
+    - helpis: मदद की
+    - al: को
+    - vi: तुम
+    - malfermi: खोलना
+    - la: निश्चित उपपद
+    - pordon: दरवाज़ा
+    - de: का
+    - la: निश्चित उपपद
+    - malnova: पुराना
+    - domo: घर
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
+  demando: तुम्हारे पास मुझे और देर सुनने का समय क्यों नहीं है?
+  rektatraduko:
+    - Kial: क्यों
+    - vi: तुम
+    - ne: नहीं
+    - havas: रखते हो
+    - tempon: समय
+    - aŭskulti: सुनना
+    - min: मुझे
+    - pli: अधिक
+    - longe: देर तक
     - '?'

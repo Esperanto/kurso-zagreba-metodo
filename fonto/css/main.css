@@ -162,6 +162,11 @@ h3 {
 .gramatika-teksto :is(h1, h2, h3, h4, h5, h6) {
   scroll-margin-top: calc(52px + 1rem);
 }
+/* La unua titolo ne aldonu supran spacon, por ke la gramatiko komenciĝu
+   je la sama alto kiel la aliaj langetoj. */
+.gramatika-teksto > :first-child {
+  margin-top: 0;
+}
 
 .navbar {
   margin-bottom: 20px;

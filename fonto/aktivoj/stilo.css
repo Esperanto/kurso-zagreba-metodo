@@ -1,0 +1,7 @@
+/* CSS-enirpunkto por la pakaĵo. esbuild kunmetas ĉion en unu bundle.css
+   kaj kopias la Fira-Sans-tiparojn (url() reskribiĝas al files/…). */
+@import '@fontsource/fira-sans/400.css';
+@import '@fontsource/fira-sans/700.css';
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import '../css/main.css';
+@import '../css/vortaro.css';

@@ -8,9 +8,9 @@
 
 {% block content %}
 
-<h2>
-	{{enhavo.fasado['Diversaĵoj']}}
-</h2>
+  {% include 'leciona-titolo.html' %}
+
+  {% include 'tabs.html' %}
 
 <h3>
 	{{enhavo.fasado['Gravaj esprimoj']}}
@@ -101,5 +101,7 @@
 	</li>
 {% endfor %}
 </ul>
+
+  {% include 'pager.html' %}
 
 {% endblock %}

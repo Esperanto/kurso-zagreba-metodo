@@ -8,9 +8,9 @@
 
 {% block content %}
 
-<h2>
-	{{enhavo.fasado['Prepozicioj']}}
-</h2>
+  {% include 'leciona-titolo.html' %}
+
+  {% include 'tabs.html' %}
 
 <ul>
 {% for esperante in enhavo.vortaro|sort %}
@@ -24,5 +24,7 @@
 
 {% endfor %}
 </ul>
+
+  {% include 'pager.html' %}
 
 {% endblock %}

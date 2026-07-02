@@ -23,7 +23,7 @@ amletero: kärleksbrev
 antaŭeniris: 
 - gick före
 - gick framför
-- gick frammåt
+  - gick framåt
 arbaro: skog
 arbetoj: buskar
 arboplena: full av träd
@@ -38,9 +38,9 @@ bonega: jättebra
 bonvolu: 
 - var vänlig
 bonvolus: vore vänlig
-centoj: hundtratal
+centoj: hundratal
 dankon: tack
-daŭrigis: fortsätta
+daŭrigis: fortsatte
 denove: 
 - igen
 - på nytt
@@ -51,7 +51,7 @@ dolorige: smärtande
 domegon: villa
 dumnokte: under nattetid
 dumtage: under dagtid
-ekkriis: skrika till
+ekkriis: skrek till
 ekmire: förvånat
 ekparolis: började prata
 ekridis: började skratta
@@ -61,7 +61,7 @@ eksaltis:
 - hoppa upp
 ekscii: få reda på
 eksidis: satte sig ner
-ekstervoje: påväg ut
+ekstervoje: utanför vägen
 ekveturas: börjar åka
 ekvidis: fick syn på
 elstaraj: 
@@ -115,7 +115,7 @@ homformo:
 - människoskepnad
 hommulton: folksamling
 ideoriĉan: idérik
-industriisto: industrialist
+industriisto: industriman
 instruistino: lärarinna 
 instruiston: lärare
 intervidiĝas: 
@@ -135,14 +135,16 @@ klarigis: förklarade
 klarigon: förklaring 
 klubanoj: klubbmedlemmar
 kompreneble: 
-- förtåeligt
-- naturligtvis
-- förstås
+ - förståeligt
+ - naturligtvis
+ - förstås
 korpoforton: kroppsstyrka
 kunmanĝos: kommer att äta tillsammans
 kunporti: ta med sig
-kunulino: kvinnlig kompanion
-kunvenas: sammanträda
+kunulino: kvinnlig kamrat
+kunvenas:
+- sammanträder
+- möts
 laboristo: arbetare
 lampeto: liten lampa
 lernanto: elev
@@ -158,7 +160,7 @@ malbela: ful
 malbonaj: dåliga
 malbonajn: dåliga
 malbonan: dålig
-malbono: dålig
+malbono: det dåliga
 malfacilan: svår
 malfacile: svårt
 malfeliĉo: olycka
@@ -182,7 +184,7 @@ malnovaj: gamla
 malofte: sällan 
 malplaĉa: obehaglig
 malplaĉan: obehaglig
-malproksime: lågt borta
+malproksime: långt borta
 malsaniĝis: blev sjuk
 malsaĝa: oklok
 malsekajn: blöta
@@ -215,8 +217,8 @@ moviĝis:
 multekosta: dyr
 multpiedaj: flerfotade
 naskiĝtaga: födelsedags-
-naskiĝtago: fördelsedag
-naturaĵojn: naturligheter
+naskiĝtago: födelsedag
+naturaĵojn: naturföremål
 nehoma: omänsklig
 neinteresaj: ointressanta
 nokta: nattlig
@@ -230,9 +232,9 @@ paperojn:  papper
 paperujon: papperskorg
 pasigos: kommer att tillbringa (tid)
 patrino: mor
-perdigis: 
-- tappa
-- låta gå förlorat
+perdigis:
+- fick att förlora
+- lät gå förlorat
 plenigadis: fyllde ständigt
 plenumis: 
 - uppfyllde
@@ -241,7 +243,7 @@ plibeligis:
 - förskönade
 - gjorde vackrare
 plimulto: majoritet
-policano: polis(man)
+policano: polis
 promenejo: 
 - plats för promenader
 - promenadstråk
@@ -252,7 +254,7 @@ redonu: återge
 rekapti: 
 - återfånga
 - fånga in igen
-repaciĝon: reliberation
+repaciĝon: försoning
 revenis: kom tillbaka
 revidi: återse
 revido: återseende
@@ -277,11 +279,11 @@ sinjorinoj: damer
 sinjorinon: dam
 skribotablo: skrivbord
 soleca: ensam
-sovaĝejo: vildhet
+sovaĝejo: vildmark
 sportisto: idrottare
-subakvigis: 
-- dopppa i vatten
-- dränka
+subakvigis:
+- sänkte ner i vatten
+- dränkte
 subakviĝis: 
 - dök
 - hoppade i vattnet
@@ -289,8 +291,8 @@ subakviĝis:
 subite: plötsligt
 supren: uppåt
 surhavas: har på sig
-surlokan: 
-- påplatsenvarande
+surlokan:
+- på plats
 - närvarande
 teroristoj: terrorister
 tiuokaze: 
@@ -313,17 +315,15 @@ veturado:
 - åkning
 - tur
 - resa
-veturigus: 
+veturigus:
 - skulle köra
-- skulle styra
+- skulle skjutsa
 viaj: dina
 virino: kvinna
 vojaĝantoj: resande
-ĉambristoj: 
-- städerska 
-- husor
-- rumsansvariga
-- kammarbetjänter
+ĉambristoj:
+- hotellstädare
+- rumsbetjänter
 ĉeesto: närvaro
 ĉirkaŭaĵo: omgivning
 ĝenon: 

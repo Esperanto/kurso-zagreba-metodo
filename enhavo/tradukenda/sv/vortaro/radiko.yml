@@ -47,8 +47,8 @@ daŭr:
 - vara
 decid: bestämma
 demand: fråga
-dev: 
-  - måsta
+dev:
+  - måste
   - vara tvungen
 dezir: önska
 diabl: djävul
@@ -69,7 +69,7 @@ doĝ: doge (hög ämbetsman i Venedig)
 edz: 
 - make
 - man
-efektiv: i själva verket
+efektiv: faktisk
 ekskurs: utflykt
 esper: hoppas
 est: vara, finnas
@@ -107,7 +107,7 @@ halt: stanna
 hav: ha
 hejm: hem
 help: hjälpa
-hom: männsika
+hom: människa
 hor: timme
 hotel: hotell
 ide: idé
@@ -171,7 +171,7 @@ larĝ:
 - bred
 - vid
 last: sista
-laŭt: hödljudd
+laŭt: högljudd
 lecion: lektion
 leg: läsa
 lern: lära sig
@@ -254,9 +254,8 @@ paŝ:
 pens: 
 - tänka
 - tycka
-perd: 
+perd:
 - tappa
-- mista
 - förlora
 person: person
 pet: be (om något)
@@ -397,12 +396,16 @@ vort: ord
 voĉ: röst
 zorg: bry sig
 ĉambr: rum
-ĉef: chef
+ĉef:
+- huvud-
+- chef
 ĝen:
 - störa
 - besvära
-ĝeneral: generellt
-ĝoj: glad
+ĝeneral: allmän
+ĝoj:
+- glädje
+- vara glad
 ĝust:
 - rätt
 - riktig

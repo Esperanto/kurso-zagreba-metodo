@@ -1,4 +1,5 @@
 *.pyc
+/.claude
 /__pycache__
 /agordoj/auxtoroj-lingvoj.yml
 /eligo/md/

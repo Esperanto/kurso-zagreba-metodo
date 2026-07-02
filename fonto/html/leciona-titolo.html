@@ -5,10 +5,10 @@
     {%- endif %}
   </span>
 
-  <h2 id="leciono{{leciono_index}}" class="leciona-titolo" aria-label="{{leciono_index}}. {{leciono.teksto.titolo_string}}">
+  <h2 id="leciono{{leciono_index}}" class="leciona-titolo" aria-label="{% if apendico %}📎 {{enhavo.fasado['Aldono']}}{% else %}{{leciono_index}}. {{leciono.teksto.titolo_string}}{% endif %}">
     <span class="dropdown leciona-menuo">
       <button class="btn btn-light dropdown-toggle leciona-menuo-butono" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-        {{leciono_index}}.
+        {% if apendico %}📎{% else %}{{leciono_index}}.{% endif %}
       </button>
       <ul class="dropdown-menu leciona-menuo-listo">
         {% for menu_leciono in enhavo.lecionoj %}
@@ -18,12 +18,21 @@
             </a>
           </li>
         {% endfor %}
+        <li>
+          <a class="dropdown-item{% if apendico %} active{% endif %}" href="{{vojprefikso}}tabelvortoj">
+            📎 {{enhavo.fasado['Aldono']}}
+          </a>
+        </li>
       </ul>
     </span>
     <span class="leciona-titolo-teksto">
-      {% for vorto in leciono.teksto.titolo %}
-        {% include 'vorto.html' %}
-      {% endfor %}
+      {% if apendico %}
+        📎 {{enhavo.fasado['Aldono']}}
+      {% else %}
+        {% for vorto in leciono.teksto.titolo %}
+          {% include 'vorto.html' %}
+        {% endfor %}
+      {% endif %}
     </span>
   </h2>
 

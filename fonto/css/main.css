@@ -561,9 +561,17 @@ ol.tasko {
   margin-bottom: 1.5rem;
   margin-top: 2rem;
 }
-.form-horizontal .solvu,
-.form-horizontal .forigu {
-  margin-top: 0.25em;
+/* La agobutonoj (Solvu/Forigu) staru memstare sub la formularo, ne en la
+   krado, kaj neniam superu la ekranlarĝon (ili faldiĝas sur poŝtelefono). */
+.ekzercaj-agoj {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  max-width: 100%;
+}
+.form-horizontal .ekzercaj-agoj {
+  grid-column: 1 / -1;
 }
 .form-inline .form-group {
   display: inline-block;

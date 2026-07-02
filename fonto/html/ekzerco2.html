@@ -78,8 +78,10 @@
       </li>
       {% endfor %}
     </ol>
-    <input type="button" class="btn btn-success solvu" value="{{enhavo.fasado['Solvu']}}" data-form-id="{{ form_id }}" />
-    <input type="button" class="btn btn-danger forigu" value="{{enhavo.fasado['Forigu']}}" data-form-id="{{ form_id }}" />
+    <div class="ekzercaj-agoj">
+      <input type="button" class="btn btn-success solvu" value="{{enhavo.fasado['Solvu']}}" data-form-id="{{ form_id }}" />
+      <input type="button" class="btn btn-danger forigu" value="{{enhavo.fasado['Forigu']}}" data-form-id="{{ form_id }}" />
+    </div>
   </form>
 
   {% include 'pagxonumerado-komentejo.html' %}

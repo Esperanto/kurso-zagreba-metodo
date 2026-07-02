@@ -5,7 +5,7 @@ agrabl: príjemný
 akcept: prijať
 akv: voda
 ali: iný
-alt: výška
+alt: vysoký
 am: láska
 amik: priateľ
 arb: strom
@@ -62,8 +62,8 @@ dorm: spať
 doĝ: dóža
 edz: manžel
 efektiv: 
-- skutočne
-- efektívne
+- skutočný
+- v skutočnosti
 ekskurs: výlet
 esper: dúfať
 est: byť
@@ -198,14 +198,13 @@ mult:
 muzik: hudba
 nask: rodiť
 natur: príroda
-neces: potrebovať
+neces: potrebný
 nokt: noc
 nom: meno
 not: 
 - známka (na vysvedčení)
 - poznámka
 - nota
-- nóta
 nov: nový
 odor: vôňa
 oft: často
@@ -344,7 +343,7 @@ vin: víno
 vir: muž
 viv: život
 vizaĝ: tvár
-vizit: návšteva
+vizit: navštíviť
 voj: cesta
 vojaĝ: 
 - cestovať
@@ -357,10 +356,10 @@ zorg:
 - starosť
 - starostlivosť
 ĉambr: izba
-ĉef: šéf
+ĉef: hlavný
 ĝen: obťažovať
 ĝeneral: všeobecný
-ĝoj: radostný
+ĝoj: radosť
 ĝust: správny
 ĵet: hodiť
 ŝajn: zdať sa

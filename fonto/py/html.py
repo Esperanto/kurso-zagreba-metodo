@@ -686,7 +686,10 @@ def copy_static_files(versio, meta_description, hejmaj_lingvoj):
 
 
 def generate_pwa():
-    pwa.write_service_worker(OUTPUT_DIR, get_version_hash())
+    version = get_version_hash()
+    for lingvo in pwa.PWA_LINGVOJ:
+        if (OUTPUT_DIR / lingvo).is_dir():
+            pwa.write_service_worker(OUTPUT_DIR, lingvo, version)
 
 
 def generate_html(
@@ -699,6 +702,8 @@ def generate_html(
     eligo = {}
     versio = get_version_hash()
     enhavo['versio'] = versio
+    enhavo['havas_pwa'] = lingvo in pwa.PWA_LINGVOJ
+    enhavo['pwa_theme_color'] = pwa.PWA_THEME_COLOR
     enhavo['og_bildo_url'] = og_bildo_url(lingvo)
     if kopiu_statikan:
         angla_enkonduko = (ROOT_DIR / 'enhavo' / 'tradukenda' / 'en' / 'enkonduko.md').read_text(
@@ -772,6 +777,10 @@ def generate_html(
     if enhavo['lingvoj'][lingvo].get('stato') == 'preta':
         eligo[output_path / 'llms.txt'] = render_lingva_llms(enhavo, llms_enkonduko)
         eligo[output_path / 'llms-full.txt'] = render_lingva_llms_full(enhavo, llms_enkonduko)
+
+    # Lingvoj kun propra PWA ricevas manifeston sub /{lingvo}/.
+    if lingvo in pwa.PWA_LINGVOJ:
+        eligo[output_path / 'manifest.webmanifest'] = pwa.render_manifest(lingvo, enhavo['fasado'])
 
     # vortaro.js
     rendered = env.get_template('vortlisto.js').render(

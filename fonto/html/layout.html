@@ -31,6 +31,15 @@
       href="/assets/img/logo/favicon-16x16.png"
     />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    {% if enhavo.havas_pwa %}
+      <link rel="manifest" href="/{{enhavo.lingvo}}/manifest.webmanifest" />
+      <meta name="theme-color" content="{{enhavo.pwa_theme_color}}" />
+      <script>
+        if (navigator.standalone === true) {
+          document.documentElement.classList.add('pwa-standalone');
+        }
+      </script>
+    {% endif %}
     <link href="{{vojprefikso}}../assets/bundle.css?versio={{enhavo.versio}}" rel="stylesheet" />
   </head>
   <body>
@@ -52,7 +61,7 @@
             {% include 'vortaro.html' %}
           </form>
 
-          <div class="dropdown">
+          <div class="dropdown navbar-lingvoelektilo{% if enhavo.havas_pwa %} pwa-standalone-kasxita{% endif %}">
             <button
               class="btn btn-dark navbar-ikona-butono dropdown-toggle"
               type="button"
@@ -179,5 +188,16 @@
           }
       });
     </script>
+    {% if enhavo.havas_pwa %}
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('/{{enhavo.lingvo}}/sw.js').catch(function (error) {
+            console.warn('Ne eblis registri la service worker.', error);
+          });
+        });
+      }
+    </script>
+    {% endif %}
   </body>
 </html>

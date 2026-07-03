@@ -1,12 +1,12 @@
 - 
-  demando: Pots portar la medecina de la meva germana?
+  demando: Pots portar la medicina de la meva germana?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: Tu
     - povas: pots
     - kunporti: portar
     - la: la
-    - sanigilon: medecina
+    - sanigilon: medicina
     - de: de
     - mia: la meva
     - fratino: germana
@@ -32,7 +32,7 @@
 - 
   demando: A Venècia vas viatjar també amb góndola?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: Tu
     - en: a
     - Venecio: Venècia
@@ -44,12 +44,12 @@
 - 
   demando: Podràs adormir-te quan hi hagi silenci?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: Tu
     - povos: podràs
     - ekdormi: adormir-te
-    - ',' 
-    - kiam: quan 
-    - estos: hi hagi 
+    - ','
+    - kiam: quan
+    - estos: hi hagi
     - silento: silenci
     - '?'

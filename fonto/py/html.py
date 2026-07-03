@@ -703,6 +703,7 @@ def generate_html(
     versio = get_version_hash()
     enhavo['versio'] = versio
     enhavo['havas_pwa'] = lingvo in pwa.PWA_LINGVOJ
+    enhavo['pwa_theme_color'] = pwa.PWA_THEME_COLOR
     enhavo['og_bildo_url'] = og_bildo_url(lingvo)
     if kopiu_statikan:
         angla_enkonduko = (ROOT_DIR / 'enhavo' / 'tradukenda' / 'en' / 'enkonduko.md').read_text(

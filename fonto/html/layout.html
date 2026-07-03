@@ -33,7 +33,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     {% if enhavo.havas_pwa %}
       <link rel="manifest" href="/{{enhavo.lingvo}}/manifest.webmanifest" />
-      <meta name="theme-color" content="#198754" />
+      <meta name="theme-color" content="{{enhavo.pwa_theme_color}}" />
     {% endif %}
     <link href="{{vojprefikso}}../assets/bundle.css?versio={{enhavo.versio}}" rel="stylesheet" />
   </head>

@@ -5,7 +5,7 @@
     - havis: tenia
     - la: el
     - libron: llibre
-    - ',' 
+    - ','
     - kiun: que
     - vi: tu
     - atendis: vas estar esperant
@@ -15,21 +15,21 @@
     - jarojn: anys
     - '?'
 - 
-  demando: Vols que t'ensenyi la fotografía que més aprecio?
+  demando: Vols que t'ensenyi la fotografia que més aprecio?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: Tu
     - volas: vols
     - ','
     - ke: que
     - mi: jo
-    - montru: ensenyi
-    - al: a 
+    - montru: t'ensenyi
+    - al: a
     - vi: tu
     - mian: la meva
     - plej: més
     - karan: apreciada
-    - foton: fotografía
+    - foton: fotografia
     - '?'
 - 
   demando: On has comprat aquest vestit?
@@ -47,7 +47,7 @@
     - vi: tu
     - iros: aniràs
     - dimanĉe: el diumenge
-    - ',' 
+    - ','
     - se: si
     - estos: és
     - suna: assolellat
@@ -56,7 +56,7 @@
 - 
   demando: El teu germà ja se n'ha anat?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - via: El teu
     - frato: germà
     - jam: ja
@@ -69,7 +69,7 @@
     - estas: és
     - la: la
     - akvo: aigua
-    - ',' 
+    - ','
     - kiun: que
     - vi: tu
     - mem: mateix
@@ -78,7 +78,7 @@
 -
   demando: Ja s'ha enviat la carta?
   rektatraduko:
-    - Ĉu: ¿
+    - Ĉu: Que
     - la: la
     - letero: carta
     - jam: ja

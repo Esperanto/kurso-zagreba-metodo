@@ -1,8 +1,12 @@
 - sinjorino: senyora
-- malmultekosta: barat
+- malmultekosta:
+  - barat
+  - barata
 - ĉiutaga: de cada dia, quotidià
 - intertempe: mentrestant
-- plenplena: pleníssim
+- plenplena:
+  - pleníssim
+  - pleníssima
 - nuntempe: actualment
 - malhelpi: dificultar
 - vendejo: botiga
@@ -11,6 +15,10 @@
 - jarcento: segle
 - kvarmonate: cada quatre mesos, quatrimestralment
 - alveturi: viatjar-hi
-- pli multekosta: més car
-- la plej juna: el més jove
+- pli multekosta:
+  - més car
+  - més cara
+- la plej juna:
+  - el més jove
+  - la més jove
 - nepardoninde: de manera imperdonable

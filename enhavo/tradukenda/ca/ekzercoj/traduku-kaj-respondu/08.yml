@@ -16,9 +16,9 @@
     - vi: tu
     - volas: vols
     - trinki: beure
-    - ':' 
+    - ':'
     - teon: tè
-    - ',' 
+    - ','
     - iom: una mica
     - da: de
     - kafo: cafè
@@ -41,10 +41,10 @@
     - ĉambreton: habitació petita
     - '?'
 - 
-  demando: A qui li vas donar els gots nets per al vi?
+  demando: A qui vas donar els gots nets per al vi?
   rektatraduko: 
     - Al: A
-    - kiu: quí
+    - kiu: qui
     - vi: tu
     - donis: li vas donar
     - la: els
@@ -55,10 +55,10 @@
     - vino: vi
     - '?'
 - 
-  demando: Contra quí va jugar el teu club esportiu fa dues setmanes?
+  demando: Contra qui va jugar el teu club esportiu fa dues setmanes?
   rektatraduko: 
     - Kontraŭ: Contra
-    - kiu: quí
+    - kiu: qui
     - ludis: va jugar
     - via: el teu
     - sportklubo: club esportiu
@@ -67,18 +67,18 @@
     - semajnoj: setmanes
     - '?'
 - 
-  demando: Sovint veus el policía que viu al pis de dalt?
+  demando: Sovint veus el policia que viu al pis de dalt?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: Tu
     - ofte: sovint
     - vidas: veus
     - la: el
-    - policiston: policía
-    - ',' 
+    - policiston: policia
+    - ','
     - kiu: que
     - loĝas: viu
-    - en: a 
+    - en: a
     - la: el
     - loĝejo: pis
     - super: de dalt

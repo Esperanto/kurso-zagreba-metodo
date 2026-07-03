@@ -15,27 +15,27 @@
     - almenaŭ: almenys
     - vi: tu
     - post: després de
-    - la: les 
+    - la: la
     - leciono: lliçó
     - irus: anessis
     - kun: amb
     - mi: mi
     - en: a
-    - la: el 
+    - la: el
     - centron: centre
     - '!'
 - 
   demando: On desitjaries viatjar si tinguessis suficients diners i temps?
   rektatraduko: 
-    - Kien: A on
-    - vi: a tu
+    - Kien: "On"
+    - vi: tu
     - dezirus: desitjaries
     - vojaĝi: viatjar
-    - ',' 
+    - ','
     - se: si
     - vi: tu
     - havus: tinguessis
-    - sufiĉe: suficients
+    - sufiĉe: prou
     - da: de
     - mono: diners
     - kaj: i
@@ -44,7 +44,7 @@
 - 
   demando: Viatges amb el cotxe a París o millor amb el tren?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: Tu
     - vojaĝas: viatges
     - per: amb
@@ -68,5 +68,5 @@
     - klarigas: expliquen
     - samajn: unes mateixes
     - ideojn: idees
-    - diversmaniere: de manera diferent 
+    - diversmaniere: de manera diferent
     - '?'

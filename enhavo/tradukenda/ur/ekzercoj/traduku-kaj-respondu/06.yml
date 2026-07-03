@@ -1,72 +1,72 @@
-- 
-  demando: Do you want me to show you my newest book?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
-    - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
-    - '?'
-- 
-  demando: What do you want for breakfast tomorrow?
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
-    - '?'
-- 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
-  rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
-    - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
-    - '?'
-- 
-  demando: When did you notice that the whole family calls me benefactor?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
-    - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
-    - '?'
-- 
-  demando: Was the booklet which I send you useful to you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
-    - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
-    - '?'
+-
+  demando: کیا آپ چاہتے ہیں کہ میں آپ کو اپنی سب سے نئی کتاب دکھاؤں؟
+  rektatraduko:
+    - Ĉu: کیا
+    - vi: آپ
+    - deziras: چاہتے ہیں
+    - ',': ،
+    - ke: کہ
+    - mi: میں
+    - montru: دکھاؤں
+    - al: کو
+    - vi: آپ
+    - mian: میری
+    - plej: سب سے
+    - novan: نئی
+    - libron: کتاب
+    - '?': ؟
+-
+  demando: کل ناشتے میں آپ کیا کھانا چاہتے ہیں؟
+  rektatraduko:
+    - Kion: کیا
+    - vi: آپ
+    - volas: چاہتے ہیں
+    - morgaŭ: کل
+    - matenmanĝi: ناشتہ کرنا
+    - '?': ؟
+-
+  demando: مارک کب پہنچے گا، پانچ بجے یا آٹھ بجے؟
+  rektatraduko:
+    - Kiam: کب
+    - Marko: مارک
+    - alvenos: پہنچے گا
+    - ',': ،
+    - je: بجے
+    - la: متعین حرف
+    - kvina: پانچویں
+    - aŭ: یا
+    - je: بجے
+    - la: متعین حرف
+    - oka: آٹھویں
+    - horo: گھنٹہ
+    - '?': ؟
+-
+  demando: آپ نے کب غور کیا کہ پورا خاندان مجھے محسن کہتا ہے؟
+  rektatraduko:
+    - Kiam: کب
+    - vi: آپ
+    - rimarkis: غور کیا
+    - ',': ،
+    - ke: کہ
+    - la: متعین حرف
+    - tuta: پورا
+    - familio: خاندان
+    - nomas: کہتا ہے
+    - min: مجھے
+    - bonfarulo: محسن
+    - '?': ؟
+-
+  demando: جو کتابچہ میں نے آپ کو بھیجا تھا، کیا وہ آپ کے لیے مفید تھا؟
+  rektatraduko:
+    - Ĉu: کیا
+    - la: متعین حرف
+    - libreto: کتابچہ
+    - estis: تھا
+    - utila: مفید
+    - al: کے لیے
+    - vi: آپ
+    - ',': ،
+    - kiun: جسے
+    - mi: میں نے
+    - sendis: بھیجا
+    - '?': ؟

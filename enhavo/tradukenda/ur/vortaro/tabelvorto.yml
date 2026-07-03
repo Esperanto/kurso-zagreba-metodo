@@ -1,5 +1,5 @@
 kio: کیا
-tio: وہ
+tio: وہ چیز
 io: کچھ
 ĉio: سب کچھ
 nenio: کچھ نہیں
@@ -9,15 +9,12 @@ kiu:
 tiu:
 - وہ
 - وہ شخص
--  وہ ایک
 iu: کوئی
 ĉiu:
-- سب
 - ہر کوئی
 - ہر
 neniu:
-- no-one
-- none of them
+- کوئی نہیں
 kie: کہاں
 tie: وہاں
 ie: کہیں
@@ -29,7 +26,7 @@ ia: کسی قسم کا
 ĉia: ہر قسم کا
 nenia: کسی قسم کا نہیں
 kiel: کیسے
-tiel: ویسے
+tiel: ایسے
 iel: کسی طرح
 ĉiel: ہر طرح
 neniel: کسی طرح نہیں
@@ -45,17 +42,17 @@ iam: کبھی
 neniam: کبھی نہیں
 kiom: کتنا
 tiom: اتنا
-iom: 
-- to some extent
-- a certain amount
-ĉiom: 
-- all of it
-- the whole amount
+iom:
+- کچھ
+- کسی حد تک
+ĉiom:
+- سب
+- پوری مقدار
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- کچھ بھی نہیں
+- کوئی مقدار نہیں
+kies: کس کا
+ties: اس کا
+ies: کسی کا
+ĉies: سب کا
+nenies: کسی کا نہیں

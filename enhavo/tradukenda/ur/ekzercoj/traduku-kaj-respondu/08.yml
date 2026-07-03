@@ -1,86 +1,86 @@
-- 
-  demando: Who is going to clean the kitchen after lunch?
-  rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
-    - '?'
-- 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
-    - ':' 
-    - teon: tea
-    - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
-    - '?'
-- 
-  demando: Why did you so suddenly decide to renovate your small room?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
-    - '?'
-- 
-  demando: To whom did you give the clean wine glasses?
-  rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
-    - '?'
-- 
-  demando: Against whom did your sports club play two weeks ago?
-  rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
-    - '?'
-- 
-  demando: Do you often see the policeman who is living in the appartment above you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
-    - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
-    - '?'
+-
+  demando: دوپہر کے کھانے کے بعد باورچی خانہ کون صاف کرے گا؟
+  rektatraduko:
+    - Kiu: کون
+    - purigos: صاف کرے گا
+    - la: متعین حرف
+    - kuirejon: باورچی خانہ
+    - post: کے بعد
+    - la: متعین حرف
+    - tagmanĝo: دوپہر کا کھانا
+    - '?': ؟
+-
+  demando: "آپ کیا پینا چاہتے ہیں: چائے، کچھ کافی، یا آپ کچھ بھی نہیں چاہتے؟"
+  rektatraduko:
+    - Kion: کیا
+    - vi: آپ
+    - volas: چاہتے ہیں
+    - trinki: پینا
+    - ':': ':'
+    - teon: چائے
+    - ',': ،
+    - iom: کچھ
+    - da: مقدار کا
+    - kafo: کافی
+    - aŭ: یا
+    - ĉu: کیا
+    - vi: آپ
+    - volas: چاہتے ہیں
+    - nenion: کچھ نہیں
+    - '?': ؟
+-
+  demando: آپ نے اتنا اچانک اپنا چھوٹا کمرہ نیا کرنے کا فیصلہ کیوں کیا؟
+  rektatraduko:
+    - Kial: کیوں
+    - vi: آپ نے
+    - tiel: اتنا
+    - subite: اچانک
+    - decidis: فیصلہ کیا
+    - renovigi: نیا کرنا
+    - vian: اپنا
+    - ĉambreton: چھوٹا کمرہ
+    - '?': ؟
+-
+  demando: آپ نے صاف شراب کے گلاس کس کو دیے؟
+  rektatraduko:
+    - Al: کو
+    - kiu: کس
+    - vi: آپ نے
+    - donis: دیے
+    - la: متعین حرف
+    - purajn: صاف
+    - glasojn: گلاس
+    - por: کے لیے
+    - la: متعین حرف
+    - vino: شراب
+    - '?': ؟
+-
+  demando: آپ کے کھیل کلب نے دو ہفتے پہلے کس کے خلاف کھیلا؟
+  rektatraduko:
+    - Kontraŭ: کے خلاف
+    - kiu: کس
+    - ludis: کھیلا
+    - via: آپ کا
+    - sportklubo: کھیل کلب
+    - antaŭ: پہلے
+    - du: دو
+    - semajnoj: ہفتے
+    - '?': ؟
+-
+  demando: کیا آپ اکثر اس پولیس والے کو دیکھتے ہیں جو آپ کے اوپر والے فلیٹ میں رہتا ہے؟
+  rektatraduko:
+    - Ĉu: کیا
+    - vi: آپ
+    - ofte: اکثر
+    - vidas: دیکھتے ہیں
+    - la: متعین حرف
+    - policiston: پولیس والے کو
+    - ',': ،
+    - kiu: جو
+    - loĝas: رہتا ہے
+    - en: میں
+    - la: متعین حرف
+    - loĝejo: فلیٹ
+    - super: اوپر
+    - vi: آپ
+    - '?': ؟

@@ -386,7 +386,7 @@ def generu_html_por_lingvoj(args, lingvoj):
             hejmaj_lingvoj=hejmaj_lingvoj_datenoj,
         )
     html_generilo.generate_seo_files(lingvoj, por_generi)
-    html_generilo.generate_pwa()
+    html_generilo.generate_pwa(por_generi)
 
 
 def main():

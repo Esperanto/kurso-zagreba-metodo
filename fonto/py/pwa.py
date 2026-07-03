@@ -14,9 +14,6 @@ CACHE_PREFIX = 'esperanto12'
 PWA_THEME_COLOR = '#212529'
 PWA_IMAGE_FILES = ('icon-192.png', 'icon-512.png')
 
-# Lingvoj kun propra instalebla PWA. Dum testado tio povas resti unu lingvo.
-PWA_LINGVOJ = ('ur',)
-
 # Komunaj (ne po-lingvaj) aktivoj, kiujn ĉiu lingva PWA bezonas por funkcii offline.
 KOMUNAJ_AKTIVOJ = (
     'assets/bundle.css',
@@ -86,7 +83,7 @@ def app_name(lingvo):
 
 def render_manifest(lingvo, fasado):
     manifest = {
-        'dir': 'ltr',
+        'dir': 'auto',
         'lang': lingvo,
         'name': app_name(lingvo),
         'short_name': app_name(lingvo),

@@ -144,11 +144,13 @@ def main():
     args = parser.parse_args()
 
     output_dir = Path(args.output_dir)
-    require(pwa.PWA_LINGVOJ, 'neniu PWA-lingvo agordita')
-    for lingvo in pwa.PWA_LINGVOJ:
+    # Ĉiu lingvo kun propra service worker havas instaleblan PWA-on.
+    lingvoj = sorted(sw.parent.name for sw in output_dir.glob('*/sw.js'))
+    require(lingvoj, 'neniu PWA-lingvo trovita en ' + str(output_dir))
+    for lingvo in lingvoj:
         check_language_pwa(output_dir, lingvo)
 
-    print('Sukcesis: kontrolis la PWA-ojn por ' + ', '.join(pwa.PWA_LINGVOJ))
+    print('Sukcesis: kontrolis la PWA-ojn por ' + str(len(lingvoj)) + ' lingvoj')
 
 
 if __name__ == '__main__':

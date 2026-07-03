@@ -685,9 +685,9 @@ def copy_static_files(versio, meta_description, hejmaj_lingvoj):
     shutil.copytree(AKTIVOJ_DIST_DIR / 'files', assets_dir / 'files')
 
 
-def generate_pwa():
+def generate_pwa(lingvoj):
     version = get_version_hash()
-    for lingvo in pwa.PWA_LINGVOJ:
+    for lingvo in lingvoj:
         if (OUTPUT_DIR / lingvo).is_dir():
             pwa.write_service_worker(OUTPUT_DIR, lingvo, version)
 
@@ -702,7 +702,7 @@ def generate_html(
     eligo = {}
     versio = get_version_hash()
     enhavo['versio'] = versio
-    enhavo['havas_pwa'] = lingvo in pwa.PWA_LINGVOJ
+    enhavo['havas_pwa'] = True
     enhavo['pwa_theme_color'] = pwa.PWA_THEME_COLOR
     enhavo['og_bildo_url'] = og_bildo_url(lingvo)
     if kopiu_statikan:
@@ -778,9 +778,8 @@ def generate_html(
         eligo[output_path / 'llms.txt'] = render_lingva_llms(enhavo, llms_enkonduko)
         eligo[output_path / 'llms-full.txt'] = render_lingva_llms_full(enhavo, llms_enkonduko)
 
-    # Lingvoj kun propra PWA ricevas manifeston sub /{lingvo}/.
-    if lingvo in pwa.PWA_LINGVOJ:
-        eligo[output_path / 'manifest.webmanifest'] = pwa.render_manifest(lingvo, enhavo['fasado'])
+    # Ĉiu lingvo ricevas propran instaleblan PWA-on: manifeston sub /{lingvo}/.
+    eligo[output_path / 'manifest.webmanifest'] = pwa.render_manifest(lingvo, enhavo['fasado'])
 
     # vortaro.js
     rendered = env.get_template('vortlisto.js').render(

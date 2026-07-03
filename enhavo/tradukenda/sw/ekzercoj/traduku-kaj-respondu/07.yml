@@ -1,77 +1,77 @@
-- 
-  demando: Qui avait le livre que vous attendiez depuis plus de deux ans ?
-  rektatraduko: 
-    - Kiu: Qui
-    - havis: avait
-    - la: le
-    - libron: livre
-    - ',' 
-    - kiun: que
-    - vi: vous
-    - atendis: attendiez
-    - pli: plus 
-    - ol: de
-    - du: deux
-    - jarojn: ans
-    - '?'
-- 
-  demando: Est-ce que vous voulez que je vous montre ma photo la plus chère ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - volas: voulez
+-
+  demando: Nani alikuwa na kitabu ulichokuwa ukikingoja kwa zaidi ya miaka miwili?
+  rektatraduko:
+    - Kiu: Nani
+    - havis: alikuwa na
+    - la: kiarifu
+    - libron: kitabu
     - ','
-    - ke: que
-    - mi: je
-    - montru: montre
-    - al: à 
-    - vi: vous
-    - mian: ma
-    - plej: plus
-    - karan: chère
-    - foton: photo
+    - kiun: ambacho
+    - vi: wewe
+    - atendis: ulingoja
+    - pli: zaidi
+    - ol: kuliko
+    - du: mbili
+    - jarojn: miaka
     - '?'
-- 
-  demando: Où avez-vous acheté ce vêtement ?
-  rektatraduko: 
-    - Kie: Où
-    - vi: vous
-    - aĉetis: avez acheté
-    - tiun: ce
-    - vestaĵon: vêtement
+-
+  demando: Je, unataka nikuonyeshe picha ninayoipenda zaidi?
+  rektatraduko:
+    - Ĉu: je
+    - vi: wewe
+    - volas: unataka
+    - ','
+    - ke: kwamba
+    - mi: mimi
+    - montru: nionyeshe
+    - al: kwa
+    - vi: wewe
+    - mian: yangu
+    - plej: zaidi kabisa
+    - karan: ya thamani
+    - foton: picha
     - '?'
-- 
-  demando: "Où irez-vous dimanche si c'est (litt. ce sera) une journée ensoleillée ?"
-  rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - dimanĉe: dimanche
-    - ',' 
-    - se: si
-    - estos: ce sera
-    - suna: ensoleillée
-    - tago: journée
+-
+  demando: Ulinunua vazi hilo wapi?
+  rektatraduko:
+    - Kie: Wapi
+    - vi: wewe
+    - aĉetis: ulinunua
+    - tiun: hilo
+    - vestaĵon: vazi
     - '?'
-- 
-  demando: Est-ce que fon frère est déjà parti ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - via: ton
-    - frato: frère
-    - jam: déjà
-    - ekiris: est parti
+-
+  demando: Utaenda wapi Jumapili ikiwa itakuwa siku yenye jua?
+  rektatraduko:
+    - Kien: Kuelekea wapi
+    - vi: wewe
+    - iros: utaenda
+    - dimanĉe: Jumapili
+    - ','
+    - se: ikiwa
+    - estos: itakuwa
+    - suna: yenye jua
+    - tago: siku
     - '?'
-- 
-  demando: "Où est l'eau que vous avez vous-même apportée ?"
-  rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - la: "l'"
-    - akvo: eau
-    - ',' 
-    - kiun: que
-    - vi: vous
-    - mem: vous-même
-    - kunportis: avez apportée
+-
+  demando: Je, kaka yako tayari ameondoka?
+  rektatraduko:
+    - Ĉu: je
+    - via: yako
+    - frato: kaka
+    - jam: tayari
+    - ekiris: ameondoka
+    - '?'
+-
+  demando: Maji uliyoleta mwenyewe yako wapi?
+  rektatraduko:
+    - Kie: Wapi
+    - estas: yako
+    - la: kiarifu
+    - akvo: maji
+    - ','
+    - kiun: ambayo
+    - vi: wewe
+    - mem: mwenyewe
+    - kunportis: ulileta pamoja
     - '?'

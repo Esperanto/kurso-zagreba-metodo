@@ -1,72 +1,72 @@
-- 
-  demando: Heti unataka nikuoneshe kitabu kyangu kya mupya?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - deziras: voulez
-    - ',' 
-    - ke: que 
-    - mi: je
-    - montru: montre
-    - al: à
-    - vi: vous
-    - mian: mon
-    - plej: plus
-    - novan: nouveau
-    - libron: livre
+-
+  demando: Je, unataka nikuonyeshe kitabu changu kipya kabisa?
+  rektatraduko:
+    - Ĉu: je
+    - vi: wewe
+    - deziras: unataka
+    - ','
+    - ke: kwamba
+    - mi: mimi
+    - montru: nionyeshe
+    - al: kwa
+    - vi: wewe
+    - mian: changu
+    - plej: zaidi kabisa
+    - novan: kipya
+    - libron: kitabu
     - '?'
-- 
-  demando: Unataka kula nini kesho asubui?
-  rektatraduko: 
-    - Kion: Que
-    - vi: vous
-    - volas: voulez
-    - morgaŭ: demain
-    - matenmanĝi: prendre le petit-déjeuner
+-
+  demando: Unataka kula nini kesho asubuhi?
+  rektatraduko:
+    - Kion: Nini
+    - vi: wewe
+    - volas: unataka
+    - morgaŭ: kesho
+    - matenmanĝi: kula kiamsha kinywa
     - '?'
-- 
-  demando: Wakati gani Marko atafika, na saa tano ao na saa munane?
-  rektatraduko: 
-    - Kiam: Quand
-    - Marko: Marc
-    - alvenos: arrivera
-    - ',' 
-    - je: à
-    - la: la
-    - kvina: cinquième
-    - aŭ: ou
-    - je: à
-    - la: la
-    - oka: huitième
-    - horo: heure
+-
+  demando: Marko atafika lini, saa tano au saa nane?
+  rektatraduko:
+    - Kiam: Lini
+    - Marko: Marko
+    - alvenos: atafika
+    - ','
+    - je: saa
+    - la: kiarifu
+    - kvina: tano
+    - aŭ: au
+    - je: saa
+    - la: kiarifu
+    - oka: nane
+    - horo: saa
     - '?'
-- 
-  demando: Wakati gani uliona kama jamaa yote inaniita mtenda mema?
-  rektatraduko: 
-    - Kiam: Quand
-    - vi: vous
-    - rimarkis: avez remarqué
-    - ','  
-    - ke: que
-    - la: la
-    - tuta: toute
-    - familio: famille
-    - nomas: appelle
-    - min: moi
-    - bonfarulo: bienfaiteur
+-
+  demando: Ulitambua lini kwamba familia nzima inaniita mfadhili?
+  rektatraduko:
+    - Kiam: Lini
+    - vi: wewe
+    - rimarkis: ulitambua
+    - ','
+    - ke: kwamba
+    - la: kiarifu
+    - tuta: yote
+    - familio: familia
+    - nomas: inaita
+    - min: mimi
+    - bonfarulo: mfadhili
     - '?'
-- 
-  demando: Heti ka kitabu kenye nalikutumia kalikua ka lazima kwako?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - la: le 
-    - libreto: livret
-    - estis: était
-    - utila: utile
-    - al: à
-    - vi: vous
-    - ',' 
-    - kiun: que
-    - mi: je
-    - sendis: ai envoyé
+-
+  demando: Je, kijitabu nilichokutumia kilikuwa na manufaa kwako?
+  rektatraduko:
+    - Ĉu: je
+    - la: kiarifu
+    - libreto: kijitabu
+    - estis: kilikuwa
+    - utila: na manufaa
+    - al: kwa
+    - vi: wewe
+    - ','
+    - kiun: ambacho
+    - mi: mimi
+    - sendis: nilituma
     - '?'

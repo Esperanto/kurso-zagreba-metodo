@@ -1,86 +1,86 @@
-- 
-  demando: Qui va nettoyer la cuisine après le déjeuner ?
-  rektatraduko: 
-    - Kiu: Qui
-    - purigos: va nettoyer
-    - la: la
-    - kuirejon: cuisine
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
+-
+  demando: Nani atasafisha jikoni baada ya chakula cha mchana?
+  rektatraduko:
+    - Kiu: Nani
+    - purigos: atasafisha
+    - la: kiarifu
+    - kuirejon: jikoni
+    - post: baada ya
+    - la: kiarifu
+    - tagmanĝo: chakula cha mchana
     - '?'
-- 
-  demando: "Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?"
-  rektatraduko: 
-    - Kion: Que, quoi
-    - vi: tu
-    - volas: veux
-    - trinki: boire
-    - ':' 
-    - teon: du thé
-    - ',' 
-    - iom: un peu 
-    - da: de
-    - kafo: café
-    - aŭ: ou
-    - ĉu: est-ce que
-    - vi: tu
-    - volas: veux
-    - nenion: rien
+-
+  demando: "Unataka kunywa nini: chai, kahawa kidogo, au hutaki chochote?"
+  rektatraduko:
+    - Kion: Nini
+    - vi: wewe
+    - volas: unataka
+    - trinki: kunywa
+    - ':'
+    - teon: chai
+    - ','
+    - iom: kidogo
+    - da: ya kiasi
+    - kafo: kahawa
+    - aŭ: au
+    - ĉu: je
+    - vi: wewe
+    - volas: unataka
+    - nenion: hakuna kitu
     - '?'
-- 
-  demando: Pourquoi as-tu si soudainement décider de rénover ta petite chambre ?
-  rektatraduko: 
-    - Kial: Pourquoi
-    - vi: tu
-    - tiel: ainsi, si
-    - subite: soudainement
-    - decidis: as décidé
-    - renovigi: rénover
-    - vian: ta
-    - ĉambreton: petite chambre
+-
+  demando: Kwa nini uliamua ghafla hivyo kukarabati chumba chako kidogo?
+  rektatraduko:
+    - Kial: Kwa nini
+    - vi: wewe
+    - tiel: hivyo
+    - subite: ghafla
+    - decidis: uliamua
+    - renovigi: kukarabati
+    - vian: chako
+    - ĉambreton: chumba kidogo
     - '?'
-- 
-  demando: À qui as-tu donnée les verres à vin propres ?
-  rektatraduko: 
-    - al: À
-    - kiu: qui
-    - vi: tu
-    - donis: as donné
-    - la: les
-    - purajn: propres
-    - glasojn: verres
-    - por: pour 
-    - la: le
-    - vino: vin
+-
+  demando: Ulimpa nani glasi safi za divai?
+  rektatraduko:
+    - Al: Kwa
+    - kiu: nani
+    - vi: wewe
+    - donis: ulitoa
+    - la: kiarifu
+    - purajn: safi
+    - glasojn: glasi
+    - por: kwa ajili ya
+    - la: kiarifu
+    - vino: divai
     - '?'
-- 
-  demando: Contre qui ton club de sports a joué il y a deux semaines ?
-  rektatraduko: 
-    - Kontraŭ: Contre
-    - kiu: qui
-    - ludis: a joué
-    - via: ton
-    - sportklubo: club de sports
-    - antaŭ: avant
-    - du: deux
-    - semajnoj: semaines
+-
+  demando: Klabu yako ya michezo ilicheza dhidi ya nani wiki mbili zilizopita?
+  rektatraduko:
+    - Kontraŭ: Dhidi ya
+    - kiu: nani
+    - ludis: ilicheza
+    - via: yako
+    - sportklubo: klabu ya michezo
+    - antaŭ: kabla ya
+    - du: mbili
+    - semajnoj: wiki
     - '?'
-- 
-  demando: "Est-ce que tu vois souvent le policier qui habite dans l'appartement au-dessus de toi ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - ofte: souvent
-    - vidas: vois
-    - la: le
-    - policiston: policier
-    - ',' 
-    - kiu: qui
-    - loĝas: habite
-    - en: dans 
-    - la: "l'"
-    - loĝejo: appartement
-    - super: au-dessus de
-    - vi: toi
+-
+  demando: Je, mara nyingi unamwona polisi anayeishi katika nyumba iliyo juu yako?
+  rektatraduko:
+    - Ĉu: je
+    - vi: wewe
+    - ofte: mara nyingi
+    - vidas: unaona
+    - la: kiarifu
+    - policiston: polisi
+    - ','
+    - kiu: ambaye
+    - loĝas: anaishi
+    - en: katika
+    - la: kiarifu
+    - loĝejo: nyumba
+    - super: juu ya
+    - vi: wewe
     - '?'

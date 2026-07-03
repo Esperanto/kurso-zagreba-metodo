@@ -1,75 +1,75 @@
-- 
-  demando: "Qu'est-ce qui pourrait le plus réjouir tes parents ?"
-  rektatraduko: 
-    - Kio: Quoi
-    - povus: pourrait
-    - plej: le plus
-    - ĝojigi: réjouir
-    - viajn: tes
-    - gepatrojn: parents
+-
+  demando: Ni nini kingewafurahisha wazazi wako zaidi kuliko vyote?
+  rektatraduko:
+    - Kio: Nini
+    - povus: kingeweza
+    - plej: zaidi kabisa
+    - ĝojigi: kufurahisha
+    - viajn: wako
+    - gepatrojn: wazazi
     - '?'
-- 
-  demando: "Si au moins allais après l'école avec moi au centre-ville !"
-  rektatraduko: 
-    - Se: Si
-    - almenaŭ: au moins
-    - vi: tu
-    - post: après
-    - la: "l'"
-    - lernado: école
-    - irus: irais
-    - kun: avec
-    - mi: moi
-    - en: à
-    - la: le 
-    - urbocentron: centre-ville
+-
+  demando: Laiti ungeenda nami katikati ya mji baada ya kujifunza!
+  rektatraduko:
+    - Se: Kama
+    - almenaŭ: angalau
+    - vi: wewe
+    - post: baada ya
+    - la: kiarifu
+    - lernado: kujifunza
+    - irus: ungeenda
+    - kun: pamoja na
+    - mi: mimi
+    - en: ndani ya
+    - la: kiarifu
+    - urbocentron: katikati ya mji
     - '!'
-- 
-  demando: "Où voudrais-tu voyager si tu avais suffisamment d'argent et de temps ?"
-  rektatraduko: 
-    - Kien: Où
-    - vi: tu
-    - dezirus: voudrais
-    - vojaĝi: voyager
-    - ',' 
-    - se: si
-    - vi: tu
-    - havus: avais (litt. aurais)
-    - sufiĉe: assez
-    - da: de
-    - mono: arget
-    - kaj: et
-    - tempo: temps
+-
+  demando: Ungependa kusafiri kwenda wapi ikiwa ungekuwa na pesa na muda wa kutosha?
+  rektatraduko:
+    - Kien: Kuelekea wapi
+    - vi: wewe
+    - dezirus: ungetaka
+    - vojaĝi: kusafiri
+    - ','
+    - se: ikiwa
+    - vi: wewe
+    - havus: ungekuwa na
+    - sufiĉe: kutosha
+    - da: ya kiasi
+    - mono: pesa
+    - kaj: na
+    - tempo: muda
     - '?'
-- 
-  demando: Est-ce que tu prévois d'aller à Paris en voiture ou, est-ce-que cela ne semble pas beaucoup mieux, en train ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - planas: prévois
-    - veturi: aller
-    - al: à
+-
+  demando: Je, unapanga kusafiri kwenda Paris kwa gari, au haionekani kuwa bora zaidi kwa treni?
+  rektatraduko:
+    - Ĉu: je
+    - vi: wewe
+    - planas: unapanga
+    - veturi: kusafiri
+    - al: kwenda
     - Parizo: Paris
-    - per: avec
-    - aŭto: voiture
-    - aŭ: ou
-    - ĉu: est-ce-que
-    - ne: ne
-    - ŝajnas: semble
-    - multe: beaucoup
-    - pli: plus
-    - bone: bon
-    - per: par
-    - vagonaro: train
+    - per: kwa kutumia
+    - aŭto: gari
+    - aŭ: au
+    - ĉu: je
+    - ne: si
+    - ŝajnas: inaonekana
+    - multe: sana
+    - pli: zaidi
+    - bone: vizuri
+    - per: kwa kutumia
+    - vagonaro: treni
     - '?'
-- 
-  demando: Pourquoi différentes personnes expliquent les mêmes idées de façons différentes ?
-  rektatraduko: 
-    - Kial: Pourquoi
-    - diversaj: différentes
-    - homoj: personnes
-    - klarigas: expliquent
-    - samajn: mêmes
-    - ideojn: idées
-    - diversmaniere: de façons différentes 
+-
+  demando: Kwa nini watu mbalimbali hueleza mawazo yale yale kwa namna tofauti?
+  rektatraduko:
+    - Kial: Kwa nini
+    - diversaj: mbalimbali
+    - homoj: watu
+    - klarigas: wanaeleza
+    - samajn: yale yale
+    - ideojn: mawazo
+    - diversmaniere: kwa namna tofauti
     - '?'

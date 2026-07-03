@@ -1,7 +1,7 @@
 .PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-ui check-pwa html html-all md serve clean
 
 LINGVO ?= en
-HTML_LINGVOJ ?= ar ca cs da de el en es fa fr frp ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tok tr uk ur vi yo zh zh-tw
+HTML_LINGVOJ ?= ar be ca cs da de el en es fa fr frp ga he hi hr hu id it ja kk km ko ku lo mg ms my ne nl pl pt ro ru sk sl sv sw th tok tr uk ur vi yo zh zh-tw
 HOST ?= 127.0.0.1
 PORT ?= 8000
 OUTPUT_DIR ?= eligo/retejo
@@ -26,7 +26,7 @@ help:
 		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
 		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
-		'  make html-all        Generas HTML por ĉiuj produktadaj lingvoj' \
+		'  make html-all        Generas HTML por ĉiuj agorditaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
 		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000' \
 		'  make clean           Forigas generitan HTML-eligon'

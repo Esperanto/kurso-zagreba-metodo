@@ -19,7 +19,7 @@ GRAMATIKO_EMFAZO_PATTERN = re.compile(r'<em>labor<strong>i</strong></em>\s+–\s
 BOOTSTRAP_PATTERN = re.compile(r'Bootstrap\s+v5\.3\.8')
 JQUERY_PATTERN = re.compile(r'jQuery v3\.7\.1')
 TYPEAHEAD_PATTERN = re.compile(r'typeahead\.js 0\.11\.1')
-HTML_LANG_PATTERN = re.compile(r'<html lang="en" dir="ltr">')
+HTML_LANG_PATTERN = re.compile(r'<html lang="en" dir="ltr" translate="no">')
 TITLE_ROOT_PATTERN = re.compile(r'<title>Learn Esperanto \| The Fastest Basics Course</title>')
 META_DESCRIPTION_PATTERN = re.compile(r'<meta name="description" content="Teaches the most important 500 words\. Free and without registration\.')
 CANONICAL_ROOT_PATTERN = re.compile(r'<link rel="canonical" href="https://esperanto12\.net/en/" />')

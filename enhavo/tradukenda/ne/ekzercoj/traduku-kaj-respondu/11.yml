@@ -1,54 +1,54 @@
 -
-  demando: क्या तुम मेरी बहन की दवा साथ ला सकते हो?
+  demando: के तिमी मेरी बहिनीको औषधि साथ ल्याउन सक्छौ?
   rektatraduko:
-    - Ĉu: क्या
-    - vi: तुम
-    - povas: सकते हो
-    - kunporti: साथ लाना
+    - Ĉu: के
+    - vi: तिमी
+    - povas: सक्छौ
+    - kunporti: साथ ल्याउन
     - la: निश्चित उपपद
-    - sanigilon: दवा
-    - de: की
+    - sanigilon: औषधि
+    - de: को
     - mia: मेरी
-    - fratino: बहन
+    - fratino: बहिनी
     - '?'
 -
-  demando: तुमने वह वाद्य-यंत्र कब खरीदा?
+  demando: तिमीले त्यो बाजा कहिले किन्यौ?
   rektatraduko:
-    - Kiam: कब
-    - vi: तुम
-    - aĉetis: खरीदा
-    - tiun: वह
-    - muzikilon: वाद्य-यंत्र
+    - Kiam: कहिले
+    - vi: तिमी
+    - aĉetis: किन्यौ
+    - tiun: त्यो
+    - muzikilon: बाजा
     - '?'
 -
-  demando: मेरी चाबी पिछली बार किसने इस्तेमाल की?
+  demando: मेरो साँचो पछिल्लो पटक कसले प्रयोग गर्यो?
   rektatraduko:
-    - Kiu: किसने
-    - laste: पिछली बार
-    - uzis: इस्तेमाल की
-    - mian: मेरी
-    - ŝlosilon: चाबी
+    - Kiu: कसले
+    - laste: पछिल्लो पटक
+    - uzis: प्रयोग गर्यो
+    - mian: मेरो
+    - ŝlosilon: साँचो
     - '?'
 -
-  demando: क्या वेनिस में तुमने गोंडोला से भी यात्रा की?
+  demando: के तिमीले भेनिसमा गोन्डोलाबाट पनि यात्रा गर्यौ?
   rektatraduko:
-    - Ĉu: क्या
-    - vi: तुम
-    - en: में
-    - Venecio: वेनिस
-    - veturis: यात्रा की
-    - ankaŭ: भी
-    - per: से
-    - gondolo: गोंडोला
+    - Ĉu: के
+    - vi: तिमी
+    - en: मा
+    - Venecio: भेनिस
+    - veturis: यात्रा गर्यौ
+    - ankaŭ: पनि
+    - per: बाट
+    - gondolo: गोन्डोला
     - '?'
 -
-  demando: जब शांति हो जाएगी, क्या तुम सो सकोगे?
+  demando: शान्त भएपछि के तिमी निदाउन सक्नेछौ?
   rektatraduko:
-    - Ĉu: क्या
-    - vi: तुम
-    - povos: सकोगे
-    - ekdormi: सो जाना
+    - Ĉu: के
+    - vi: तिमी
+    - povos: सक्नेछौ
+    - ekdormi: निदाउन
     - ','
     - kiam: जब
-    - silentiĝis: शांत हो गया
+    - silentiĝis: शान्त भयो
     - '?'

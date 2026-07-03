@@ -1,70 +1,70 @@
 -
-  demando: तुम्हारा पुराना घर कैसा था?
+  demando: तिम्रो पुरानो घर कस्तो थियो?
   rektatraduko:
-    - Kia: कैसा
-    - estis: था
-    - via: तुम्हारा
-    - malnova: पुराना
+    - Kia: कस्तो
+    - estis: थियो
+    - via: तिम्रो
+    - malnova: पुरानो
     - hejmo: घर
     - '?'
 -
-  demando: तुमने कौन-सी किताबें पढ़ीं, और क्या वे अच्छी थीं?
+  demando: तिमीले कुन किताबहरू पढ्यौ, र के ती राम्रा थिए?
   rektatraduko:
-    - Kiujn: कौन-सी
-    - librojn: किताबें
-    - vi: तुम
-    - legis: पढ़ीं
-    - kaj: और
-    - ĉu: क्या
-    - ili: वे
-    - estas: हैं
-    - bonaj: अच्छी
+    - Kiujn: कुन
+    - librojn: किताबहरू
+    - vi: तिमी
+    - legis: पढ्यौ
+    - kaj: र
+    - ĉu: के
+    - ili: ती
+    - estas: छन्
+    - bonaj: राम्रा
     - '?'
 -
-  demando: आना और मार्को ने मार्को के छोटे कमरे में क्या किया?
+  demando: आना र मार्कोले मार्कोको सानो कोठामा के गरे?
   rektatraduko:
-    - Kion: क्या
-    - faris: किया
+    - Kion: के
+    - faris: गरे
     - Anna: आना
-    - kaj: और
+    - kaj: र
     - Marko: मार्को
-    - en: में
+    - en: मा
     - la: निश्चित उपपद
-    - malgranda: छोटा
-    - ĉambro: कमरा
-    - de: का
+    - malgranda: सानो
+    - ĉambro: कोठा
+    - de: को
     - Marko: मार्को
     - '?'
 -
-  demando: क्या तुम्हें प्रेम के बारे में किताबें पढ़ना पसंद है?
+  demando: के तिमीलाई प्रेमबारे किताबहरू पढ्न मन पर्छ?
   rektatraduko:
-    - Ĉu: क्या
-    - vi: तुम
-    - ŝatas: पसंद करते हो
-    - legi: पढ़ना
-    - librojn: किताबें
-    - pri: के बारे में
+    - Ĉu: के
+    - vi: तिमी
+    - ŝatas: मन पराउँछौ
+    - legi: पढ्न
+    - librojn: किताबहरू
+    - pri: बारे
     - amo: प्रेम
     - '?'
 -
-  demando: तुम्हारे साथ तुम्हारे घर कौन जाएगा?
+  demando: तिमीसँग तिम्रो घर को जानेछ?
   rektatraduko:
-    - Kiu: कौन
-    - iros: जाएगा
-    - kun: साथ
-    - vi: तुम
-    - al: को
-    - via: तुम्हारा
+    - Kiu: को
+    - iros: जानेछ
+    - kun: सँग
+    - vi: तिमी
+    - al: तर्फ
+    - via: तिम्रो
     - hejmo: घर
     - '?'
 -
-  demando: तुम्हारी महिला मित्र की आँखें कैसी हैं?
+  demando: तिम्री महिला मित्रका आँखाहरू कस्ता छन्?
   rektatraduko:
-    - Kiaj: कैसी
-    - estas: हैं
+    - Kiaj: कस्ता
+    - estas: छन्
     - la: निश्चित उपपद
-    - okuloj: आँखें
-    - de: की
-    - via: तुम्हारी
+    - okuloj: आँखाहरू
+    - de: का
+    - via: तिम्री
     - amikino: महिला मित्र
     - '?'

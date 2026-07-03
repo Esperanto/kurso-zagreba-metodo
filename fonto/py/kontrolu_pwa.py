@@ -95,6 +95,16 @@ def check_languages(output_dir, lingvoj, precache_urls):
             require(url in precache_urls, 'mankas lingva URL en precache: ' + url)
 
 
+def check_configured_languages_requested(lingvoj):
+    lingvaj_agordoj = legi_yaml(AGORDOJ_DIR / 'lingvoj.yml')
+    agorditaj = set(lingvaj_agordoj)
+    petitaj = set(lingvoj)
+    missing = sorted(agorditaj - petitaj)
+    extra = sorted(petitaj - agorditaj)
+    require(not missing, 'agorditaj lingvoj mankas en kontrolo: ' + ', '.join(missing))
+    require(not extra, 'nekonataj lingvoj en kontrolo: ' + ', '.join(extra))
+
+
 def check_seo(output_dir, lingvoj, precache_urls):
     robots_path = output_dir / 'robots.txt'
     sitemap_path = output_dir / 'sitemap.xml'
@@ -168,6 +178,7 @@ def main():
     require('/manifest.webmanifest' in precache_urls, 'manifest mankas en precache')
     require('/pwa/registru.js' in precache_urls, 'registrilo mankas en precache')
 
+    check_configured_languages_requested(args.lingvoj)
     check_manifest(output_dir, precache_urls)
     check_languages(output_dir, args.lingvoj, precache_urls)
     check_seo(output_dir, args.lingvoj, precache_urls)

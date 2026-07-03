@@ -1,0 +1,54 @@
+-
+  demando: क्या तुम मेरी बहन की दवा साथ ला सकते हो?
+  rektatraduko:
+    - Ĉu: क्या
+    - vi: तुम
+    - povas: सकते हो
+    - kunporti: साथ लाना
+    - la: निश्चित उपपद
+    - sanigilon: दवा
+    - de: की
+    - mia: मेरी
+    - fratino: बहन
+    - '?'
+-
+  demando: तुमने वह वाद्य-यंत्र कब खरीदा?
+  rektatraduko:
+    - Kiam: कब
+    - vi: तुम
+    - aĉetis: खरीदा
+    - tiun: वह
+    - muzikilon: वाद्य-यंत्र
+    - '?'
+-
+  demando: मेरी चाबी पिछली बार किसने इस्तेमाल की?
+  rektatraduko:
+    - Kiu: किसने
+    - laste: पिछली बार
+    - uzis: इस्तेमाल की
+    - mian: मेरी
+    - ŝlosilon: चाबी
+    - '?'
+-
+  demando: क्या वेनिस में तुमने गोंडोला से भी यात्रा की?
+  rektatraduko:
+    - Ĉu: क्या
+    - vi: तुम
+    - en: में
+    - Venecio: वेनिस
+    - veturis: यात्रा की
+    - ankaŭ: भी
+    - per: से
+    - gondolo: गोंडोला
+    - '?'
+-
+  demando: जब शांति हो जाएगी, क्या तुम सो सकोगे?
+  rektatraduko:
+    - Ĉu: क्या
+    - vi: तुम
+    - povos: सकोगे
+    - ekdormi: सो जाना
+    - ','
+    - kiam: जब
+    - silentiĝis: शांत हो गया
+    - '?'

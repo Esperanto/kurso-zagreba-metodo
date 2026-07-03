@@ -532,6 +532,13 @@ ol.tasko {
   display: contents;
   margin-bottom: 0;
 }
+/* Solaj tekstoj (interpunkcio ktp.) sen enigo: propra plena vico, kies etikedo
+   restas en la etikedkolumno, do ili ne ŝovas la sekvajn etikedo/enigo-parojn. */
+.form-horizontal .form-group.ekz3-interpunkcio {
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: subgrid;
+}
 .form-horizontal .control-label {
   font-weight: 700;
   justify-self: end;

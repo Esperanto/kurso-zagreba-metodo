@@ -1,68 +1,68 @@
-- 
-  demando: Will we see each other again, no matter where or when?
-  rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
-    - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
-    - '?'
-- 
-  demando: When will I get back the other half of the books?
-  rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
-    - '?'
-- 
-  demando: Will you need more than a quarter of the year for those jobs?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
-    - '?'
-- 
-  demando: Why is it that the colder it is, the longer we wait?
-  rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
-    - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
-    - '?'
-- 
-  demando: Would you be happy with any man?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
-    - '?'
+-
+  demando: کیا ہم ایک دوسرے کو دوبارہ دیکھیں گے، چاہے کہیں بھی اور کبھی بھی؟
+  rektatraduko:
+    - Ĉu: کیا
+    - ni: ہم
+    - revidos: دوبارہ دیکھیں گے
+    - nin: ایک دوسرے کو
+    - ',': ،
+    - kie: جہاں
+    - ajn: بھی
+    - kaj: اور
+    - kiam: جب
+    - ajn: بھی
+    - '?': ؟
+-
+  demando: کتابوں کا دوسرا آدھا حصہ مجھے کب واپس ملے گا؟
+  rektatraduko:
+    - Kiam: کب
+    - mi: مجھے
+    - rericevos: واپس ملے گا
+    - la: متعین حرف
+    - alian: دوسرا
+    - duonon: آدھا حصہ
+    - de: کا
+    - la: متعین حرف
+    - libroj: کتابیں
+    - '?': ؟
+-
+  demando: کیا آپ کو ان کاموں کے لیے سال کے ایک چوتھائی سے زیادہ وقت چاہیے ہو گا؟
+  rektatraduko:
+    - Ĉu: کیا
+    - vi: آپ کو
+    - bezonos: ضرورت ہو گی
+    - pli: زیادہ
+    - ol: سے
+    - kvaronan: چوتھائی
+    - jaron: سال
+    - por: کے لیے
+    - tiuj: ان
+    - laboroj: کاموں
+    - '?': ؟
+-
+  demando: ایسا کیوں ہے کہ جتنی زیادہ سردی ہوتی ہے، ہم اتنا ہی زیادہ انتظار کرتے ہیں؟
+  rektatraduko:
+    - Kial: کیوں
+    - estas: ہے
+    - des: اتنا
+    - pli: زیادہ
+    - malvarma: سرد
+    - ',': ،
+    - ju: جتنا
+    - pli: زیادہ
+    - longe: دیر تک
+    - ni: ہم
+    - atendas: انتظار کرتے ہیں
+    - '?': ؟
+-
+  demando: کیا آپ کسی بھی مرد کے ساتھ خوش ہوں گی؟
+  rektatraduko:
+    - Ĉu: کیا
+    - vi: آپ
+    - estus: ہوتیں
+    - kontenta: خوش
+    - kun: کے ساتھ
+    - iu: کسی
+    - ajn: بھی
+    - viro: مرد
+    - '?': ؟

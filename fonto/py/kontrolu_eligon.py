@@ -16,7 +16,6 @@ GRAMATIKO_TOC_PATTERN = re.compile(
     re.S,
 )
 GRAMATIKO_EMFAZO_PATTERN = re.compile(r'<em>labor<strong>i</strong></em>\s+–\s+to work')
-PWA_SERVICE_WORKER_PATTERN = re.compile(r'const PRECACHE_URLS = \[')
 BOOTSTRAP_PATTERN = re.compile(r'Bootstrap\s+v5\.3\.8')
 JQUERY_PATTERN = re.compile(r'jQuery v3\.7\.1')
 TYPEAHEAD_PATTERN = re.compile(r'typeahead\.js 0\.11\.1')
@@ -157,16 +156,11 @@ def main():
         output_dir / 'assets' / 'img' / 'logo' / 'favicon-120x120.png',
         output_dir / 'assets' / 'img' / 'logo' / 'favicon-16x16.png',
         output_dir / 'assets' / 'img' / 'logo' / 'favicon-32x32.png',
-        output_dir / 'manifest.webmanifest',
-        output_dir / 'manifest.json',
-        output_dir / 'pwa' / 'registru.js',
         output_dir / 'pwa' / 'images' / 'icon-192.png',
         output_dir / 'pwa' / 'images' / 'icon-512.png',
-        output_dir / 'sw.js',
     ]:
         require_nonempty_file(path)
 
-    require_pattern(output_dir / 'sw.js', PWA_SERVICE_WORKER_PATTERN)
     require_pattern(output_dir / 'robots.txt', ROBOTS_SITEMAP_PATTERN)
     require_pattern(output_dir / 'sitemap.xml', SITEMAP_EN_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_TITLE_PATTERN)

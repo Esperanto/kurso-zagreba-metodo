@@ -529,13 +529,15 @@ ol.tasko {
   row-gap: 18px;
 }
 .form-horizontal .form-group {
+  display: contents;
   margin-bottom: 0;
 }
-.form-horizontal .form-group.has-feedback {
-  display: contents;
-}
-.form-horizontal .form-group:not(.has-feedback) {
+/* Solaj tekstoj (interpunkcio ktp.) sen enigo: propra plena vico, kies etikedo
+   restas en la etikedkolumno, do ili ne ŝovas la sekvajn etikedo/enigo-parojn. */
+.form-horizontal .form-group.ekz3-interpunkcio {
+  display: grid;
   grid-column: 1 / -1;
+  grid-template-columns: subgrid;
 }
 .form-horizontal .control-label {
   font-weight: 700;
@@ -566,15 +568,17 @@ ol.tasko {
   margin-bottom: 1.5rem;
   margin-top: 2rem;
 }
-.form-horizontal .feedback-icon {
-  position: absolute;
-  right: 12px;
-  top: 50%;
-  transform: translateY(-50%);
+/* La agobutonoj (Solvu/Forigu) staru memstare sub la formularo, ne en la
+   krado, kaj neniam superu la ekranlarĝon (ili faldiĝas sur poŝtelefono). */
+.ekzercaj-agoj {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  max-width: 100%;
 }
-.form-horizontal .solvu,
-.form-horizontal .forigu {
-  margin-top: 0.25em;
+.form-horizontal .ekzercaj-agoj {
+  grid-column: 1 / -1;
 }
 .form-inline .form-group {
   display: inline-block;
@@ -588,12 +592,6 @@ ol.tasko {
   height: 34px;
   line-height: 1.42857143;
   width: auto;
-}
-.form-inline .feedback-icon {
-  position: absolute;
-  right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
 }
 /* Ekzerco 2: ĉiu vorto estas enigo aŭ enigogrupo, interpunkcio aparta. */
 .ekzerco2-tasko ol.tasko {
@@ -648,23 +646,13 @@ ol.tasko {
   border-color: var(--bs-border-color);
 }
 
-.has-error input {
-  background: var(--exercise-field-bg);
+/* Konservu la malfortan fonan tinkturon de la ekzercaj kampoj, sed ligitan al la
+   Bootstrap-5-validigo (is-invalid/is-valid) anstataŭ la malnovaj BS3-klasoj. */
+input.is-invalid {
+  background-color: var(--exercise-field-bg);
 }
-.has-success input {
-  background: #eff8ef;
-}
-.feedback-icon {
-  display: inline-block;
-  font-weight: bold;
-  min-width: 1.5em;
-  text-align: center;
-}
-.feedback-icon-ok {
-  color: #198754;
-}
-.feedback-icon-remove {
-  color: #dc3545;
+input.is-valid {
+  background-color: #eff8ef;
 }
 
 @media (min-width: 576px) {

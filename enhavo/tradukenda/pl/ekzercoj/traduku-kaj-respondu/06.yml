@@ -5,13 +5,13 @@
     - vi: ty
     - deziras: pragniesz
     - ',' 
-    - ke: że
+    - ke: żeby
     - mi: ja
-    - montru: pokazuję
-    - al: do
+    - montru: pokazał
+    - al: komu, do
     - vi: ty
     - mian: moją
-    - plej: najbardzierdziej
+    - plej: najbardziej
     - novan: nową
     - libron: książkę
     - '?'
@@ -25,7 +25,7 @@
     - matenmanĝi: jeść na śniadanie
     - '?'
 - 
-  demando: "Kiedy przyjdzie Marek, czy o piątej lub o ósmej?"
+  demando: "Kiedy przyjdzie Marek: o piątej czy o ósmej?"
   rektatraduko: 
     - Kiam: Kiedy
     - Marko: Marek
@@ -63,7 +63,7 @@
     - libreto: książeczka
     - estis: była
     - utila: przydatna
-    - al: do
+    - al: komu, do
     - vi: ty
     - ',' 
     - kiun: którą

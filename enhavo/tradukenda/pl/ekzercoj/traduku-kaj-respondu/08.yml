@@ -10,7 +10,7 @@
     - tagmanĝo: obiad
     - '?'
 - 
-  demando: "Czego chcecie się napić: herbaty, trochę kawy lub nie chcecie niczego?"
+  demando: "Czego chcecie się napić: herbaty, trochę kawy, czy niczego?"
   rektatraduko: 
     - Kion: Czego
     - vi: wy
@@ -20,7 +20,7 @@
     - teon: herbatę
     - ',' 
     - iom: trochę
-    - da: od
+    - da: miara ilości
     - kafo: kawa
     - aŭ: lub
     - ĉu: czy
@@ -29,7 +29,7 @@
     - nenion: nic
     - '?'
 - 
-  demando: Dlaczego tak niespodziewanie zdecydowałeś się odnowić twój pokoik?
+  demando: Dlaczego tak nagle zdecydowałeś się odnowić swój pokoik?
   rektatraduko: 
     - Kial: Dlaczego
     - vi: ty
@@ -43,14 +43,14 @@
 - 
   demando: Komu dałeś czyste szklanki na wino?
   rektatraduko: 
-    - Al: Do
+    - Al: Komu, do
     - kiu: kto
     - vi: ty
     - donis: dałeś
     - la: (przedimek określony)
     - purajn: czyste
     - glasojn: szklanki
-    - por: dla 
+    - por: do, dla
     - la: (przedimek określony)
     - vino: wino
     - '?'
@@ -81,6 +81,6 @@
     - en: w
     - la: (przedimek określony)
     - loĝejo: mieszkanie
-    - super: ponad
+    - super: nad
     - vi: ty
     - '?'

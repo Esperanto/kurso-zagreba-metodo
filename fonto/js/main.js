@@ -46,8 +46,15 @@ function normalize(s) {
   return s;
 }
 
-function selectNextTabbableOrFocusable(selector){
-	var selectables = $(selector);
+// Trovas la videblajn tabeblajn elementojn per jQuery-kerno (sen jQuery-UI,
+// kiu antaŭe provizis la «:tabbable»-elektilon).
+function selectNextTabbable(){
+	var selectables = $(
+		'a[href], button:not([disabled]), input:not([disabled]), '
+		+ 'select:not([disabled]), textarea:not([disabled]), [tabindex]'
+	).filter(function(){
+		return this.tabIndex >= 0 && $(this).is(':visible');
+	});
 	var current = $(':focus');
 	var nextIndex = 0;
 	if(current.length === 1){
@@ -62,10 +69,6 @@ function selectNextTabbableOrFocusable(selector){
 
 
 $('input[data-solvo]').on('input', function() {
-  var id = $(this).attr('id');
-  var form_group = $('#form-group-' + id);
-  var feedback = $('#feedback-' + id);
-
   // Get input and normalize.
   var input = $(this).val();
   input = normalize(input);
@@ -81,20 +84,14 @@ $('input[data-solvo]').on('input', function() {
 		(input == normalize($(this).attr('data-solvo')));
 
   if (correct) {
-    form_group.removeClass('has-error').addClass('has-success');
     $(this).removeClass('is-invalid').addClass('is-valid');
-    feedback.removeClass('feedback-icon-remove').addClass('feedback-icon-ok').text('✓');
 		// Set focus on the current
 		// to not confuse it during the following step. 
 		$(this).focus();
 		// Jump to the next input.
-		selectNextTabbableOrFocusable(':tabbable');
+		selectNextTabbable();
   } else {
-    console.log(input);
-    console.log($(this).attr('data-solvo'));
-    form_group.removeClass('has-success').addClass('has-error');
     $(this).removeClass('is-valid').addClass('is-invalid');
-    feedback.removeClass('feedback-icon-ok').addClass('feedback-icon-remove').text('✕');
   }
 });
 

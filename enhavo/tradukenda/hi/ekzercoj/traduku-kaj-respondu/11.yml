@@ -1,54 +1,54 @@
-- 
-  demando: Can you bring along the medicine of my sister?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+-
+  demando: क्या तुम मेरी बहन की दवा साथ ला सकते हो?
+  rektatraduko:
+    - Ĉu: क्या
+    - vi: तुम
+    - povas: सकते हो
+    - kunporti: साथ लाना
+    - la: निश्चित उपपद
+    - sanigilon: दवा
+    - de: की
+    - mia: मेरी
+    - fratino: बहन
     - '?'
-- 
-  demando: When did you buy that music instrument?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+-
+  demando: तुमने वह वाद्य-यंत्र कब खरीदा?
+  rektatraduko:
+    - Kiam: कब
+    - vi: तुम
+    - aĉetis: खरीदा
+    - tiun: वह
+    - muzikilon: वाद्य-यंत्र
     - '?'
-- 
-  demando: Who did use my key the last time?
-  rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+-
+  demando: मेरी चाबी पिछली बार किसने इस्तेमाल की?
+  rektatraduko:
+    - Kiu: किसने
+    - laste: पिछली बार
+    - uzis: इस्तेमाल की
+    - mian: मेरी
+    - ŝlosilon: चाबी
     - '?'
-- 
-  demando: Did you travel in Venice also by gondola?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+-
+  demando: क्या वेनिस में तुमने गोंडोला से भी यात्रा की?
+  rektatraduko:
+    - Ĉu: क्या
+    - vi: तुम
+    - en: में
+    - Venecio: वेनिस
+    - veturis: यात्रा की
+    - ankaŭ: भी
+    - per: से
+    - gondolo: गोंडोला
     - '?'
-- 
-  demando: Will you be able to fall asleep when it got quiet?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
-    - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+-
+  demando: जब शांति हो जाएगी, क्या तुम सो सकोगे?
+  rektatraduko:
+    - Ĉu: क्या
+    - vi: तुम
+    - povos: सकोगे
+    - ekdormi: सो जाना
+    - ','
+    - kiam: जब
+    - silentiĝis: शांत हो गया
     - '?'

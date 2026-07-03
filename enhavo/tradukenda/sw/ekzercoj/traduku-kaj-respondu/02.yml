@@ -1,70 +1,70 @@
 -
-  demando: Comment était votre ancienne maison ?
-  rektatraduko: 
-    - Kia: Comment
-    - estis: était
-    - via: votre
-    - malnova: ancienne
-    - hejmo: maison
+  demando: Nyumba yako ya zamani ilikuwa ya namna gani?
+  rektatraduko:
+    - Kia: Ya namna gani
+    - estis: ilikuwa
+    - via: yako
+    - malnova: ya zamani
+    - hejmo: nyumbani
     - '?'
 -
-  demando: "Quels livres as-tu lus, et est-ce qu'ils sont bons ?"
+  demando: Ulisoma vitabu vipi, na je, vilikuwa vizuri?
   rektatraduko:
-    - Kiujn: Quels
-    - librojn: livres
-    - vi: tu
-    - legis: as lu
-    - kaj: et
-    - ĉu: est-ce que
-    - ili: ils
-    - estas: sont
-    - bonaj: bons
+    - Kiujn: Vipi
+    - librojn: vitabu
+    - vi: wewe
+    - legis: ulisoma
+    - kaj: na
+    - ĉu: je
+    - ili: hivyo
+    - estas: ni
+    - bonaj: vizuri
     - '?'
 -
-  demando: "Qu'ont fait Anne et Marc dans la petite chambre de Marc ?"
+  demando: Anna na Marko walifanya nini katika chumba kidogo cha Marko?
   rektatraduko:
-    - Kion: "Qu'"
-    - faris: ont fait
+    - Kion: Nini
+    - faris: walifanya
     - Anna: Anna
-    - kaj: et
-    - Marko: Marc
-    - en: dans
-    - la: la
-    - malgranda: petite
-    - ĉambro: chambre
-    - de: de
-    - Marko: Marc
+    - kaj: na
+    - Marko: Marko
+    - en: katika
+    - la: kiarifu
+    - malgranda: kidogo
+    - ĉambro: chumba
+    - de: cha
+    - Marko: Marko
     - '?'
 -
-  demando: "Est-ce que vous aimez lire des livres sur l'amour ?"
+  demando: Je, unapenda kusoma vitabu kuhusu mapenzi?
   rektatraduko:
-    - Ĉu: Est-ce que
-    - vi: vous
-    - ŝatas: aimez
-    - legi: lire
-    - librojn: des livres
-    - pri: sur
-    - amo: "l'amour"
+    - Ĉu: je
+    - vi: wewe
+    - ŝatas: unapenda
+    - legi: kusoma
+    - librojn: vitabu
+    - pri: kuhusu
+    - amo: mapenzi
     - '?'
 -
-  demando: Qui ira avec vous à votre maison ?
+  demando: Nani ataenda pamoja nawe nyumbani kwako?
   rektatraduko:
-    - Kiu: Qui
-    - iros: ira
-    - kun: avec
-    - vi: vous
-    - al: à
-    - via: votre
-    - hejmo: maison
+    - Kiu: Nani
+    - iros: ataenda
+    - kun: pamoja na
+    - vi: wewe
+    - al: kwa
+    - via: kwako
+    - hejmo: nyumbani
     - '?'
 -
-  demando: Comment sont les yeux de ta petite amie ?
+  demando: Macho ya rafiki yako wa kike yakoje?
   rektatraduko:
-    - Kiaj: Comment
-    - estas: sont
-    - la: les
-    - okuloj: yeux
-    - de: de
-    - via: ta
-    - amikino: petite amie
+    - Kiaj: Yakoje
+    - estas: yako
+    - la: kiarifu
+    - okuloj: macho
+    - de: ya
+    - via: yako
+    - amikino: rafiki wa kike
     - '?'

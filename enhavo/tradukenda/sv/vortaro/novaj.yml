@@ -26,10 +26,9 @@ pluv: regna
 poŝ: ficka
 poŝt: post
 proksimum: ungefär
-publik: 
- - publik
+publik:
  - allmänhet
- - allmän
+ - publik
  - offentlig
 punkt: punkt
 pur: ren
@@ -40,21 +39,19 @@ rimark:
  - påpeka
 seĝ: stol
 sia: sin
-simpl: 
- - simpel
+simpl:
  - enkel
+ - simpel
 terur: 
  - förskräcklig
  - hemsk
  - förfärlig
 tut: hel
-universal: universiell
-rilat: 
+universal: universell
+rilat:
  - relation
  - förhållande
  - relatera
- - relaterat
- - relaterad
 sat: mätt
 ag: 
 - agera

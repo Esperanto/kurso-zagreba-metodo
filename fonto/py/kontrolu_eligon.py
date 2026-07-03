@@ -16,10 +16,8 @@ GRAMATIKO_TOC_PATTERN = re.compile(
     re.S,
 )
 GRAMATIKO_EMFAZO_PATTERN = re.compile(r'<em>labor<strong>i</strong></em>\s+–\s+to work')
-PWA_SERVICE_WORKER_PATTERN = re.compile(r'const PRECACHE_URLS = \[')
 BOOTSTRAP_PATTERN = re.compile(r'Bootstrap\s+v5\.3\.8')
 JQUERY_PATTERN = re.compile(r'jQuery v3\.7\.1')
-JQUERY_UI_PATTERN = re.compile(r'jQuery UI - v1\.13\.3')
 TYPEAHEAD_PATTERN = re.compile(r'typeahead\.js 0\.11\.1')
 HTML_LANG_PATTERN = re.compile(r'<html lang="en" dir="ltr">')
 TITLE_ROOT_PATTERN = re.compile(r'<title>Learn Esperanto \| The Fastest Basics Course</title>')
@@ -141,6 +139,7 @@ def main():
     for path in [
         md_out,
         output_dir / 'index.html',
+        output_dir / 'favicon-120x120.png',
         output_dir / 'favicon.ico',
         output_dir / 'apple-touch-icon.png',
         output_dir / 'robots.txt',
@@ -149,25 +148,19 @@ def main():
         lingvo_dir / 'index.html',
         lingvo_dir / 'llms.txt',
         lingvo_dir / 'llms-full.txt',
-        output_dir / 'assets' / 'css' / 'main.css',
-        output_dir / 'assets' / 'js' / 'hejmo.js',
-        output_dir / 'assets' / 'js' / 'main.js',
+        output_dir / 'assets' / 'bundle.css',
+        output_dir / 'assets' / 'bundle.js',
+        output_dir / 'assets' / 'hejmo.js',
         output_dir / 'assets' / 'img' / 'logo' / 'logo-64.png',
         output_dir / 'assets' / 'img' / 'logo' / 'logo-256.png',
+        output_dir / 'assets' / 'img' / 'logo' / 'favicon-120x120.png',
         output_dir / 'assets' / 'img' / 'logo' / 'favicon-16x16.png',
         output_dir / 'assets' / 'img' / 'logo' / 'favicon-32x32.png',
-        output_dir / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css',
-        output_dir / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js',
-        output_dir / 'manifest.webmanifest',
-        output_dir / 'manifest.json',
-        output_dir / 'pwa' / 'registru.js',
         output_dir / 'pwa' / 'images' / 'icon-192.png',
         output_dir / 'pwa' / 'images' / 'icon-512.png',
-        output_dir / 'sw.js',
     ]:
         require_nonempty_file(path)
 
-    require_pattern(output_dir / 'sw.js', PWA_SERVICE_WORKER_PATTERN)
     require_pattern(output_dir / 'robots.txt', ROBOTS_SITEMAP_PATTERN)
     require_pattern(output_dir / 'sitemap.xml', SITEMAP_EN_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_TITLE_PATTERN)
@@ -191,11 +184,12 @@ def main():
     require_pattern(lingvo_dir / '01' / 'index.html', CANONICAL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', META_DESCRIPTION_PATTERN)
     require_lesson_image_alts(output_dir, lingvo)
-    require_pattern(output_dir / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css', BOOTSTRAP_PATTERN)
-    require_pattern(output_dir / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js', BOOTSTRAP_PATTERN)
-    require_pattern(output_dir / 'vendor' / 'jquery' / 'jquery.min.js', JQUERY_PATTERN)
-    require_pattern(output_dir / 'vendor' / 'jquery' / 'jquery-ui.min.js', JQUERY_UI_PATTERN)
-    require_pattern(output_dir / 'vendor' / 'typeahead' / 'typeahead.bundle.min.js', TYPEAHEAD_PATTERN)
+    # La vendaj bibliotekoj troviĝas nun en la kunmetita bundle.js; iliaj
+    # versiaj banneroj restas, ĉar la vendaj dosieroj ne estas re-minigitaj.
+    bundle_js = output_dir / 'assets' / 'bundle.js'
+    require_pattern(bundle_js, BOOTSTRAP_PATTERN)
+    require_pattern(bundle_js, JQUERY_PATTERN)
+    require_pattern(bundle_js, TYPEAHEAD_PATTERN)
     gramatiko_path = lingvo_dir / '01' / 'gramatiko' / 'index.html'
     require_pattern(gramatiko_path, GRAMATIKO_PATTERN)
     require_pattern(gramatiko_path, GRAMATIKO_TOC_PATTERN)

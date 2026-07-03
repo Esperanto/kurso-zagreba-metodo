@@ -21,6 +21,7 @@ from . import pwa
 ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
+AKTIVOJ_DIST_DIR = FONTO_DIR / 'aktivoj' / 'dist'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
 SITE_URL = 'https://esperanto12.net'
 GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
@@ -525,16 +526,6 @@ def write_file(filename, content):
     path.write_text(content, encoding='utf-8')
 
 
-def copy_vendor_file(fonto, celo):
-    if not fonto.is_file():
-        raise SystemExit(
-            'Mankas npm-vendordosiero ' + str(fonto) + '. Rulu `make install`.'
-        )
-
-    celo.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(fonto, celo)
-
-
 def get_version_hash():
     github_sha = os.environ.get('GITHUB_SHA')
     if github_sha:
@@ -654,32 +645,8 @@ def render_hejmo(versio, meta_description, hejmaj_lingvoj):
 
 def copy_static_files(versio, meta_description, hejmaj_lingvoj):
     static_dirs = [
-        (FONTO_DIR / 'css', OUTPUT_DIR / 'assets' / 'css'),
-        (FONTO_DIR / 'js', OUTPUT_DIR / 'assets' / 'js'),
         (FONTO_DIR / 'sonoj' / 'mp3', OUTPUT_DIR / 'assets' / 'mp3'),
         (FONTO_DIR / 'sonoj' / 'ogg', OUTPUT_DIR / 'assets' / 'ogg'),
-    ]
-    vendor_files = [
-        (
-            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'css' / 'bootstrap.min.css',
-            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css',
-        ),
-        (
-            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'js' / 'bootstrap.bundle.min.js',
-            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js',
-        ),
-        (
-            NODE_MODULES_DIR / 'jquery' / 'dist' / 'jquery.min.js',
-            OUTPUT_DIR / 'vendor' / 'jquery' / 'jquery.min.js',
-        ),
-        (
-            NODE_MODULES_DIR / 'jquery-ui-dist' / 'jquery-ui.min.js',
-            OUTPUT_DIR / 'vendor' / 'jquery' / 'jquery-ui.min.js',
-        ),
-        (
-            NODE_MODULES_DIR / 'typeahead.js' / 'dist' / 'typeahead.bundle.min.js',
-            OUTPUT_DIR / 'vendor' / 'typeahead' / 'typeahead.bundle.min.js',
-        ),
     ]
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -691,6 +658,7 @@ def copy_static_files(versio, meta_description, hejmaj_lingvoj):
         str(OUTPUT_DIR / 'llms.txt'),
         render_llms_index(hejmaj_lingvoj, meta_description),
     )
+    shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon-120x120.png', OUTPUT_DIR / 'favicon-120x120.png')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'apple-touch-icon.png', OUTPUT_DIR / 'apple-touch-icon.png')
     pwa.copy_static_assets(OUTPUT_DIR)
@@ -706,24 +674,22 @@ def copy_static_files(versio, meta_description, hejmaj_lingvoj):
         ignore=shutil.ignore_patterns('icon-192.png', 'icon-512.png'),
     )
 
-    shutil.rmtree(OUTPUT_DIR / 'vendor', ignore_errors=True)
-    for fonto, celo in vendor_files:
-        copy_vendor_file(fonto, celo)
-
-    fira_fonto = NODE_MODULES_DIR / '@fontsource' / 'fira-sans'
-    fira_celo = OUTPUT_DIR / 'vendor' / 'fira-sans'
-    if not fira_fonto.is_dir():
-        raise SystemExit('Mankas @fontsource/fira-sans. Rulu `make install`.')
-    fira_celo.mkdir(parents=True, exist_ok=True)
-    for pezo in ('400', '700'):
-        shutil.copy2(fira_fonto / f'{pezo}.css', fira_celo / f'{pezo}.css')
-    (fira_celo / 'files').mkdir(parents=True, exist_ok=True)
-    for f in (fira_fonto / 'files').glob('fira-sans-*-[47]00-normal.*'):
-        shutil.copy2(f, fira_celo / 'files' / f.name)
+    # Kopiu la esbuild-pakaĵojn (vd. fonto/aktivoj/bundlo.mjs).
+    if not (AKTIVOJ_DIST_DIR / 'bundle.css').is_file():
+        raise SystemExit('Mankas la pakaĵoj en ' + str(AKTIVOJ_DIST_DIR) + '. Rulu `make bundle`.')
+    assets_dir = OUTPUT_DIR / 'assets'
+    assets_dir.mkdir(parents=True, exist_ok=True)
+    for nomo in ('bundle.css', 'bundle.js', 'hejmo.js'):
+        shutil.copy2(AKTIVOJ_DIST_DIR / nomo, assets_dir / nomo)
+    shutil.rmtree(assets_dir / 'files', ignore_errors=True)
+    shutil.copytree(AKTIVOJ_DIST_DIR / 'files', assets_dir / 'files')
 
 
 def generate_pwa():
-    pwa.write_service_worker(OUTPUT_DIR, get_version_hash())
+    version = get_version_hash()
+    for lingvo in pwa.PWA_LINGVOJ:
+        if (OUTPUT_DIR / lingvo).is_dir():
+            pwa.write_service_worker(OUTPUT_DIR, lingvo, version)
 
 
 def generate_html(
@@ -736,6 +702,8 @@ def generate_html(
     eligo = {}
     versio = get_version_hash()
     enhavo['versio'] = versio
+    enhavo['havas_pwa'] = lingvo in pwa.PWA_LINGVOJ
+    enhavo['pwa_theme_color'] = pwa.PWA_THEME_COLOR
     enhavo['og_bildo_url'] = og_bildo_url(lingvo)
     if kopiu_statikan:
         angla_enkonduko = (ROOT_DIR / 'enhavo' / 'tradukenda' / 'en' / 'enkonduko.md').read_text(
@@ -809,6 +777,10 @@ def generate_html(
     if enhavo['lingvoj'][lingvo].get('stato') == 'preta':
         eligo[output_path / 'llms.txt'] = render_lingva_llms(enhavo, llms_enkonduko)
         eligo[output_path / 'llms-full.txt'] = render_lingva_llms_full(enhavo, llms_enkonduko)
+
+    # Lingvoj kun propra PWA ricevas manifeston sub /{lingvo}/.
+    if lingvo in pwa.PWA_LINGVOJ:
+        eligo[output_path / 'manifest.webmanifest'] = pwa.render_manifest(lingvo, enhavo['fasado'])
 
     # vortaro.js
     rendered = env.get_template('vortlisto.js').render(

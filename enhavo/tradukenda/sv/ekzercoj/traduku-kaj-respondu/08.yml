@@ -7,7 +7,7 @@
     - kuirejon: kök
     - post: efter
     - la: (bestämd artikel)
-    - tagmanĝo: lunnch
+    - tagmanĝo: lunch
     - '?'
 - 
   demando: "Vad vill du dricka: te, lite kaffe eller ingenting?"
@@ -41,7 +41,7 @@
     - ĉambreton: litet rum
     - '?'
 - 
-  demando: Till vem gav du de rena vinlgasen?
+  demando: Till vem gav du de rena vinglasen?
   rektatraduko: 
     - Al: Till
     - kiu: vem

@@ -1,73 +1,73 @@
 -
-  demando: When am I going to see you again?
-  rektatraduko: 
-    - Kiam: When
-    - mi: I  
-    - revidos: am going to see again
-    - vin: you
+  demando: मैं तुम्हें फिर कब देखूँगा?
+  rektatraduko:
+    - Kiam: कब
+    - mi: मैं
+    - revidos: फिर देखूँगा
+    - vin: तुम्हें
     - '?'
 -
-  demando: How long have you been learning the internation language?
-  rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - lernas: learn
-    - la: the 
-    - Internacian: international
-    - Lingvon: language
+  demando: तुम अंतरराष्ट्रीय भाषा कितने समय से सीख रहे हो?
+  rektatraduko:
+    - Kiel: कितना
+    - longe: लंबा समय
+    - vi: तुम
+    - lernas: सीख रहे हो
+    - la: निश्चित उपपद
+    - Internacian: अंतरराष्ट्रीय
+    - Lingvon: भाषा
     - '?'
 -
-  demando: Where is my new book with photographs?
-  rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - mia: my
-    - nova: new
-    - libro: book
-    - kun: with
-    - fotoj: photographs
+  demando: तस्वीरों वाली मेरी नई किताब कहाँ है?
+  rektatraduko:
+    - Kie: कहाँ
+    - estas: है
+    - mia: मेरी
+    - nova: नई
+    - libro: किताब
+    - kun: साथ
+    - fotoj: तस्वीरें
     - '?'
 -
-  demando: Where (where-to) will you go after lunch?
-  rektatraduko: 
-    - Kien: Where-to
-    - vi: you
-    - iros: will go
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+  demando: दोपहर के भोजन के बाद तुम कहाँ जाओगे?
+  rektatraduko:
+    - Kien: कहाँ को
+    - vi: तुम
+    - iros: जाओगे
+    - post: बाद
+    - la: निश्चित उपपद
+    - tagmanĝo: दोपहर का भोजन
     - '?'
 -
-  demando: Can one close the door of the room when it is cold?
-  rektatraduko: 
-    - Ĉu: Whether
-    - oni: one
-    - povas: can 
-    - fermi: close
-    - la: the
-    - pordon: door
-    - de: of 
-    - la: the
-    - ĉambro: room
+  demando: क्या ठंड होने पर कमरे का दरवाज़ा बंद किया जा सकता है?
+  rektatraduko:
+    - Ĉu: क्या
+    - oni: कोई
+    - povas: सकता है
+    - fermi: बंद करना
+    - la: निश्चित उपपद
+    - pordon: दरवाज़ा
+    - de: का
+    - la: निश्चित उपपद
+    - ĉambro: कमरा
     - ','
-    - kiam: when
-    - estas: is
-    - malvarme: cold
+    - kiam: जब
+    - estas: है
+    - malvarme: ठंड
     - '?'
 -
-  demando: How long are you angry for if people take a lot of money from you?
-  rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - koleras: are angry
+  demando: यदि लोग तुमसे बहुत पैसा ले लें तो तुम कितनी देर नाराज़ रहते हो?
+  rektatraduko:
+    - Kiel: कितना
+    - longe: लंबा समय
+    - vi: तुम
+    - koleras: नाराज़ रहते हो
     - ','
-    - se: if
-    - oni: one
-    - forprenas: takes away
-    - de: from
-    - vi: you
-    - multan: a lot of
-    - monon: money
+    - se: यदि
+    - oni: लोग
+    - forprenas: ले जाते हैं
+    - de: से
+    - vi: तुम
+    - multan: बहुत
+    - monon: पैसा
     - '?'

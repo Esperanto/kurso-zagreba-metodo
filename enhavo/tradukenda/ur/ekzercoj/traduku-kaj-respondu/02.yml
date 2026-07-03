@@ -1,70 +1,70 @@
-- 
-  demando: آپکا پرانا گھر کس طرح کا تھا؟
-  rektatraduko: 
-    - Kia: کس طرح کا
+-
+  demando: آپ کا پرانا گھر کیسا تھا؟
+  rektatraduko:
+    - Kia: کیسا
     - estis: تھا
-    - via: آپکا
+    - via: آپ کا
     - malnova: پرانا
-    - hejmo: گھر 
+    - hejmo: گھر
     - '?': ؟
-- 
-  demando: آپ نے کونسی کتابیں پڑھیں، اور کیا وہ اچھی تھیں؟
-  rektatraduko: 
-    - Kiujn: کونسی
+-
+  demando: آپ نے کون سی کتابیں پڑھیں، اور کیا وہ اچھی تھیں؟
+  rektatraduko:
+    - Kiujn: کون سی
     - librojn: کتابیں
     - vi: آپ
-    - legis: پڑھا
+    - legis: پڑھیں
     - kaj: اور
-    - ĉu: کیا۔آیا
+    - ĉu: کیا
     - ili: وہ
     - estas: ہیں
-    - bonaj: اچھا 
+    - bonaj: اچھی
     - '?': ؟
-- 
-  demando: "اینا اور مارک، مارک کے جھوٹے کمرے میں کیا کر رہے تھے؟"
+-
+  demando: آنا اور مارک، مارک کے چھوٹے کمرے میں کیا کر رہے تھے؟
   rektatraduko:
     - Kion: کیا
     - faris: کر رہے تھے
-    - Anna: اینا
+    - Anna: آنا
     - kaj: اور
     - Marko: مارک
     - en: میں
-    - la: حرف تخصیص جیسے عربی میں ال
+    - la: متعین حرف
     - malgranda: چھوٹا
     - ĉambro: کمرہ
-    - de: کا۔کی
+    - de: کا
     - Marko: مارک
     - '?': ؟
-- 
-  demando: کیا آپ کو محبت کے متعلق کتابیں پڑھنا پسند ہے؟
-  rektatraduko: 
-    - Ĉu: کیا۔آیا
+-
+  demando: کیا آپ کو محبت کے بارے میں کتابیں پڑھنا پسند ہے؟
+  rektatraduko:
+    - Ĉu: کیا
     - vi: آپ
-    - ŝatas: پسند کرتا ہے
+    - ŝatas: پسند کرتے ہیں
     - legi: پڑھنا
     - librojn: کتابیں
-    - pri: کے متعلق
+    - pri: کے بارے میں
     - amo: محبت
     - '?': ؟
-- 
-  demando: آپکے ساتھ کون آپکے گھر جائیگا؟
-  rektatraduko: 
+-
+  demando: آپ کے ساتھ آپ کے گھر کون جائے گا؟
+  rektatraduko:
     - Kiu: کون
     - iros: جائے گا
     - kun: کے ساتھ
     - vi: آپ
     - al: کو
-    - via: آپکا
+    - via: آپ کا
     - hejmo: گھر
     - '?': ؟
-- 
-  demando: "آپکی سہیلی کی آنکھیں کس طرح کی ہیں؟"
-  rektatraduko: 
-    - Kiaj: کس طرح کا
+-
+  demando: آپ کی سہیلی کی آنکھیں کیسی ہیں؟
+  rektatraduko:
+    - Kiaj: کیسی
     - estas: ہیں
-    - la: حرف تخصیص جیسے عربی میں ال
+    - la: متعین حرف
     - okuloj: آنکھیں
-    - de: کا۔کی
-    - via: آپکا
+    - de: کی
+    - via: آپ کی
     - amikino: سہیلی
     - '?': ؟

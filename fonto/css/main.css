@@ -259,23 +259,6 @@ h3 {
 .pwa-standalone .pwa-standalone-kasxita {
   display: none !important;
 }
-.hejmo {
-  margin: 0 auto;
-  max-width: 48rem;
-  padding: 3rem 0;
-  text-align: center;
-}
-.hejmo-titolo {
-  font-size: clamp(3rem, 9vw, 5.5rem);
-  line-height: 1;
-  margin-bottom: 2rem;
-}
-.hejmo-lingvoj {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  justify-content: center;
-}
 .lingva-startpagxo {
   margin: 0 auto;
   max-width: 42rem;
@@ -667,10 +650,6 @@ input.is-valid {
   .form-horizontal .control-label {
     text-align: right;
   }
-}
-
-.fixed {
-  position: fixed;
 }
 
 #logo {

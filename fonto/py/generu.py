@@ -16,6 +16,7 @@ AGORDOJ_DIR = ROOT_DIR / 'agordoj'
 ENHAVO_DIR = ROOT_DIR / 'enhavo'
 LECION_NUMEROJ = range(1, 13)
 YAML_LOADER = getattr(yaml, 'CSafeLoader', yaml.SafeLoader)
+HTML_LINGVO_STATOJ = {'preta', 'testa'}
 CXEFPAGXO_TITOLO = 'Lerni Esperanton'
 CXEFPAGXO_SUBTITOLO = 'La plej rapida kurso por la bazoj'
 
@@ -281,6 +282,11 @@ def get_cmdline_arguments():
         help="Kreu HTML-eligon por pluraj lingvoj per unu Python-procezo.",
         nargs='+'
     )
+    lingvo_group.add_argument(
+        "--cxiuj-lingvoj",
+        action="store_true",
+        help="Kreu HTML-eligon por ĉiuj pretaj kaj testaj lingvoj."
+    )
     ap.add_argument(
         "-ef",
         "--eligformo",
@@ -314,8 +320,8 @@ def get_cmdline_arguments():
         type=str
     )
     args = ap.parse_args()
-    if args.eligformo == 'md' and args.lingvoj:
-        ap.error('--lingvoj estas uzebla nur kun --eligformo html')
+    if args.eligformo == 'md' and (args.lingvoj or args.cxiuj_lingvoj):
+        ap.error('--lingvoj kaj --cxiuj-lingvoj estas uzeblaj nur kun --eligformo html')
 
     return args
 
@@ -357,11 +363,19 @@ def hejmaj_lingvoj(lingvoj):
     return rezulto
 
 
+def html_lingvoj(lingvoj):
+    return [
+        kodo
+        for kodo, lingvo in sorted(lingvoj.items())
+        if lingvo.get('stato') in HTML_LINGVO_STATOJ
+    ]
+
+
 def generu_html_por_lingvoj(args, lingvoj):
-    por_generi = args.lingvoj or [args.lingvo]
+    por_generi = html_lingvoj(lingvoj) if args.cxiuj_lingvoj else (args.lingvoj or [args.lingvo])
     hejmaj_lingvoj_datenoj = hejmaj_lingvoj(lingvoj)
     for index, lingvo in enumerate(por_generi):
-        if args.lingvoj:
+        if len(por_generi) > 1:
             print('Generas HTML por ' + lingvo, flush=True)
         enhavo = kompletigu_enhavon(lingvo, lingvoj)
         html_generilo.generate_html(

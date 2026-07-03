@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 from . import pwa
-from .generu import AGORDOJ_DIR, legi_yaml
+from .generu import AGORDOJ_DIR, html_lingvoj, legi_yaml
 
 
 PRECACHE_PATTERN = re.compile(r'const PRECACHE_URLS = (\[.*?\]);', re.DOTALL)
@@ -95,6 +95,15 @@ def check_languages(output_dir, lingvoj, precache_urls):
             require(url in precache_urls, 'mankas lingva URL en precache: ' + url)
 
 
+def check_configured_languages_requested(lingvoj, lingvaj_agordoj):
+    agorditaj = set(html_lingvoj(lingvaj_agordoj))
+    petitaj = set(lingvoj)
+    missing = sorted(agorditaj - petitaj)
+    extra = sorted(petitaj - agorditaj)
+    require(not missing, 'pretaj aŭ testaj lingvoj mankas en kontrolo: ' + ', '.join(missing))
+    require(not extra, 'lingvoj sen HTML-eligo en kontrolo: ' + ', '.join(extra))
+
+
 def check_seo(output_dir, lingvoj, precache_urls):
     robots_path = output_dir / 'robots.txt'
     sitemap_path = output_dir / 'sitemap.xml'
@@ -155,9 +164,11 @@ def check_seo(output_dir, lingvoj, precache_urls):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--output-dir', required=True)
-    parser.add_argument('--lingvoj', nargs='+', required=True)
+    parser.add_argument('--lingvoj', nargs='+')
     args = parser.parse_args()
 
+    lingvaj_agordoj = legi_yaml(AGORDOJ_DIR / 'lingvoj.yml')
+    lingvoj = args.lingvoj or html_lingvoj(lingvaj_agordoj)
     output_dir = Path(args.output_dir)
     service_worker_path = output_dir / 'sw.js'
     require_nonempty_file(service_worker_path)
@@ -168,12 +179,13 @@ def main():
     require('/manifest.webmanifest' in precache_urls, 'manifest mankas en precache')
     require('/pwa/registru.js' in precache_urls, 'registrilo mankas en precache')
 
+    check_configured_languages_requested(lingvoj, lingvaj_agordoj)
     check_manifest(output_dir, precache_urls)
-    check_languages(output_dir, args.lingvoj, precache_urls)
-    check_seo(output_dir, args.lingvoj, precache_urls)
+    check_languages(output_dir, lingvoj, precache_urls)
+    check_seo(output_dir, lingvoj, precache_urls)
     check_precache_completeness(output_dir, precache_urls)
 
-    print('Sukcesis: kontrolis PWA-on kaj offline-liston por ' + str(len(args.lingvoj)) + ' lingvoj')
+    print('Sukcesis: kontrolis PWA-on kaj offline-liston por ' + str(len(lingvoj)) + ' lingvoj')
 
 
 if __name__ == '__main__':

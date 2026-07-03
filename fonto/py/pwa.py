@@ -11,10 +11,11 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_PWA_DIR = ROOT_DIR / 'fonto' / 'pwa'
 FONTO_LOGO_DIR = ROOT_DIR / 'fonto' / 'bildoj' / 'logo'
 CACHE_PREFIX = 'esperanto12'
+PWA_THEME_COLOR = '#212529'
 PWA_IMAGE_FILES = ('icon-192.png', 'icon-512.png')
 
-# Lingvoj kun propra instalebla PWA. Por nun nur mg; poste pliaj lingvoj.
-PWA_LINGVOJ = ('mg',)
+# Lingvoj kun propra instalebla PWA. Dum testado tio povas resti unu lingvo.
+PWA_LINGVOJ = ('ur',)
 
 # Komunaj (ne po-lingvaj) aktivoj, kiujn ĉiu lingva PWA bezonas por funkcii offline.
 KOMUNAJ_AKTIVOJ = (
@@ -79,18 +80,22 @@ def collect_precache_urls(output_dir, lingvo):
     return sorted(set(urls))
 
 
+def app_name(lingvo):
+    return 'Esperanto12 (' + lingvo + ')'
+
+
 def render_manifest(lingvo, fasado):
     manifest = {
         'dir': 'ltr',
         'lang': lingvo,
-        'name': fasado['Lerni Esperanton en 12 lecionoj'],
-        'short_name': 'Esperanto',
+        'name': app_name(lingvo),
+        'short_name': app_name(lingvo),
         'description': fasado['La plej rapida kurso por la bazoj'],
         'scope': '/' + lingvo + '/',
         'start_url': '/' + lingvo + '/',
         'display': 'standalone',
         'orientation': 'any',
-        'theme_color': '#198754',
+        'theme_color': PWA_THEME_COLOR,
         'background_color': '#ffffff',
         'prefer_related_applications': False,
         'icons': [

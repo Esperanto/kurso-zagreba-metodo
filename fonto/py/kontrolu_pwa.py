@@ -52,7 +52,9 @@ def check_manifest(output_dir, lingvo, precache_urls):
     require(manifest.get('scope') == scope, 'manifest scope ne estas ' + scope)
     require(manifest.get('start_url') == scope, 'manifest start_url ne estas ' + scope)
     require(manifest.get('display') == 'standalone', 'manifest display ne estas standalone')
-    require(manifest.get('name'), 'manifest ne havas nomon')
+    require(manifest.get('name') == pwa.app_name(lingvo), 'manifest nomo ne estas ' + pwa.app_name(lingvo))
+    require(manifest.get('short_name') == pwa.app_name(lingvo), 'manifest short_name ne estas ' + pwa.app_name(lingvo))
+    require(manifest.get('theme_color') == pwa.PWA_THEME_COLOR, 'manifest theme_color estas malĝusta')
     icons = manifest.get('icons')
     require(isinstance(icons, list) and icons, 'manifest ne enhavas ikonojn')
     for icon in icons:
@@ -73,6 +75,10 @@ def check_registration(output_dir, lingvo):
     require(
         "navigator.serviceWorker.register('/" + lingvo + "/sw.js')" in text,
         'la starta paĝo ne registras la service worker: ' + lingvo,
+    )
+    require(
+        '<meta name="theme-color" content="' + pwa.PWA_THEME_COLOR + '" />' in text,
+        'la starta paĝo ne havas ĝustan PWA-koloron: ' + lingvo,
     )
 
 

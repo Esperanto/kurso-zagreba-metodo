@@ -192,7 +192,9 @@ paperojn:  papiery
 paperujon: teczkę
 pasigos: spędzi
 patrino: matka
-perdigis: zgubił, spowodował utratę
+perdigis:
+- zgubił
+- spowodował utratę
 plenigadis: wypełniał
 plenumis: wypełnił
 plibeligis: upiększył

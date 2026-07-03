@@ -118,7 +118,9 @@ kastel: zamek
 kav: jaskinia
 kelk: kilka, pewien
 kelner: kelner
-klar: jasny, wyraźny
+klar:
+- jasny
+- wyraźny
 klub: klub
 knab: chłopiec
 koler: złość
@@ -268,7 +270,9 @@ subit: nagle
 sufiĉ: wystarczająco
 sukces: odnosić sukces
 sun: słońce
-supr: powyżej, na górze
+supr:
+- powyżej
+- na górze
 tabl: stół 
 tag: dzień
 te: herbata
@@ -304,18 +308,24 @@ vizaĝ: twarz
 vizit: odwiedzać
 voj: droga
 vojaĝ: podróżować
-vok: wołać, dzwonić
+vok:
+- wołać
+- dzwonić
 vol: chcieć
 vort: słowo
 voĉ: głos
 zorg: dbać
 ĉambr: pokój
-ĉef: główny, szef
+ĉef:
+- główny
+- szef
 ĝen:
 - przeszkadzać
 - dręczyć
 ĝeneral: ogólny
-ĝoj: cieszyć się, radość
+ĝoj:
+- cieszyć się
+- radość
 ĝust: poprawny
 ĵet: rzucać
 ŝajn: wydawać (się)

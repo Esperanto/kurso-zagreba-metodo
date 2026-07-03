@@ -251,6 +251,14 @@ h3 {
   max-height: min(70vh, 24rem);
   overflow-y: auto;
 }
+@media (display-mode: standalone) {
+  .pwa-standalone-kasxita {
+    display: none !important;
+  }
+}
+.pwa-standalone .pwa-standalone-kasxita {
+  display: none !important;
+}
 .hejmo {
   margin: 0 auto;
   max-width: 48rem;

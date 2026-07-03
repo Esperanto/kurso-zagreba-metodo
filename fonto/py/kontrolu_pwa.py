@@ -80,6 +80,18 @@ def check_registration(output_dir, lingvo):
         '<meta name="theme-color" content="' + pwa.PWA_THEME_COLOR + '" />' in text,
         'la starta paĝo ne havas ĝustan PWA-koloron: ' + lingvo,
     )
+    require(
+        "document.documentElement.classList.add('pwa-standalone')" in text,
+        'la starta paĝo ne markas iOS-standalone-reĝimon: ' + lingvo,
+    )
+    require(
+        'navbar-lingvoelektilo pwa-standalone-kasxita' in text,
+        'la supra lingvoelektilo ne estas kaŝebla en PWA-kunteksto: ' + lingvo,
+    )
+    require(
+        'lingva-startpagxo-lingvoelektilo pwa-standalone-kasxita' in text,
+        'la startpaĝa lingvoelektilo ne estas kaŝebla en PWA-kunteksto: ' + lingvo,
+    )
 
 
 def check_key_pages(output_dir, lingvo, precache_urls):

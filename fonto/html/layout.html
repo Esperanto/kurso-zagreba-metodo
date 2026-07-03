@@ -34,6 +34,11 @@
     {% if enhavo.havas_pwa %}
       <link rel="manifest" href="/{{enhavo.lingvo}}/manifest.webmanifest" />
       <meta name="theme-color" content="{{enhavo.pwa_theme_color}}" />
+      <script>
+        if (navigator.standalone === true) {
+          document.documentElement.classList.add('pwa-standalone');
+        }
+      </script>
     {% endif %}
     <link href="{{vojprefikso}}../assets/bundle.css?versio={{enhavo.versio}}" rel="stylesheet" />
   </head>
@@ -56,7 +61,7 @@
             {% include 'vortaro.html' %}
           </form>
 
-          <div class="dropdown">
+          <div class="dropdown navbar-lingvoelektilo{% if enhavo.havas_pwa %} pwa-standalone-kasxita{% endif %}">
             <button
               class="btn btn-dark navbar-ikona-butono dropdown-toggle"
               type="button"

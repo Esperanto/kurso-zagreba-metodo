@@ -8,8 +8,8 @@ am: miłość
 amik: przyjaciel
 arb: drzewo
 aspekt:
+- wyglądać
 - wygląd
-- aspekt
 atend: czekać
 atent: uważać
 aĉet: kupować
@@ -21,8 +21,8 @@ bel: ładny
 best: zwierzę
 bezon: potrzebować
 bien:
-- farma
 - gospodarstwo
+- majątek ziemski
 bon: dobry
 branĉ: gałąź
 bru: hałas
@@ -57,9 +57,8 @@ dorm: spać
 doĝ: doża
 edz: mąż
 efektiv:
-- efektywnie
-- faktycznie
-- rzeczywiście
+- faktyczny
+- rzeczywisty
 ekskurs: wycieczka
 esper: mieć nadzieję
 est: być
@@ -86,8 +85,7 @@ frat: brat
 fru: wcześnie
 fuŝ: 
 - psuć
-- rujnować
-- schrzanić
+- partaczyć
 gondol: gondola
 graf: hrabia
 grand:
@@ -97,7 +95,7 @@ grav: ważny
 halt: zatrzymać
 hav: mieć
 hejm: dom
-help: pomoc
+help: pomagać
 hom: człowiek
 hor: godzina
 hotel: hotel
@@ -118,9 +116,9 @@ kapt: złapać
 kar: drogi
 kastel: zamek
 kav: jaskinia
-kelk: niektóry
+kelk: kilka, pewien
 kelner: kelner
-klar: wyraźny
+klar: jasny, wyraźny
 klub: klub
 knab: chłopiec
 koler: złość
@@ -205,9 +203,9 @@ perd: zgubić
 person: osoba
 pet: prosić
 pez: ciężki
-pied: piedo
+pied: stopa
 plac: plac
-plan: plan
+plan: planować
 plaĉ: podobać się
 plen: pełny
 polic: policja
@@ -234,7 +232,7 @@ rest: zostawać
 ricev: otrzymywać
 rid: śmiać się
 rigard: patrzeć
-riĉ: boagty
+riĉ: bogaty
 rol: rola
 ruĝ: czerwony
 salt: skakać
@@ -268,9 +266,9 @@ star: stać
 strat: ulica
 subit: nagle
 sufiĉ: wystarczająco
-sukces: sukces
+sukces: odnosić sukces
 sun: słońce
-supr: nad
+supr: powyżej, na górze
 tabl: stół 
 tag: dzień
 te: herbata
@@ -305,19 +303,19 @@ viv: żyć
 vizaĝ: twarz
 vizit: odwiedzać
 voj: droga
-vojaĝ: journey
-vok: dzwonić
+vojaĝ: podróżować
+vok: wołać, dzwonić
 vol: chcieć
 vort: słowo
 voĉ: głos
 zorg: dbać
 ĉambr: pokój
-ĉef: szef
+ĉef: główny, szef
 ĝen:
 - przeszkadzać
 - dręczyć
 ĝeneral: ogólny
-ĝoj: radość
+ĝoj: cieszyć się, radość
 ĝust: poprawny
 ĵet: rzucać
 ŝajn: wydawać (się)

@@ -292,6 +292,15 @@ my:
   aŭtoroj:
     - nomo: Onklo ENG
       github: onklo
+ne:
+  nomo:
+    fontlingve: नेपाली
+    esperante: nepala
+  stato: testa
+  komentejo: 1
+  aŭtoroj:
+    - nomo: Onklo ENG
+      github: onklo
 nl:
   nomo:
     fontlingve: Nederlands

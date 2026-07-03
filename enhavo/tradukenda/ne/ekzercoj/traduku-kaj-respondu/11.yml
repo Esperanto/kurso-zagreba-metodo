@@ -1,0 +1,54 @@
+-
+  demando: के तिमी मेरी बहिनीको औषधि साथ ल्याउन सक्छौ?
+  rektatraduko:
+    - Ĉu: के
+    - vi: तिमी
+    - povas: सक्छौ
+    - kunporti: साथ ल्याउन
+    - la: निश्चित उपपद
+    - sanigilon: औषधि
+    - de: को
+    - mia: मेरी
+    - fratino: बहिनी
+    - '?'
+-
+  demando: तिमीले त्यो बाजा कहिले किन्यौ?
+  rektatraduko:
+    - Kiam: कहिले
+    - vi: तिमी
+    - aĉetis: किन्यौ
+    - tiun: त्यो
+    - muzikilon: बाजा
+    - '?'
+-
+  demando: मेरो साँचो पछिल्लो पटक कसले प्रयोग गर्यो?
+  rektatraduko:
+    - Kiu: कसले
+    - laste: पछिल्लो पटक
+    - uzis: प्रयोग गर्यो
+    - mian: मेरो
+    - ŝlosilon: साँचो
+    - '?'
+-
+  demando: के तिमीले भेनिसमा गोन्डोलाबाट पनि यात्रा गर्यौ?
+  rektatraduko:
+    - Ĉu: के
+    - vi: तिमी
+    - en: मा
+    - Venecio: भेनिस
+    - veturis: यात्रा गर्यौ
+    - ankaŭ: पनि
+    - per: बाट
+    - gondolo: गोन्डोला
+    - '?'
+-
+  demando: शान्त भएपछि के तिमी निदाउन सक्नेछौ?
+  rektatraduko:
+    - Ĉu: के
+    - vi: तिमी
+    - povos: सक्नेछौ
+    - ekdormi: निदाउन
+    - ','
+    - kiam: जब
+    - silentiĝis: शान्त भयो
+    - '?'

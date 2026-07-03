@@ -31,6 +31,10 @@
       href="/assets/img/logo/favicon-16x16.png"
     />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    {% if enhavo.havas_pwa %}
+      <link rel="manifest" href="/{{enhavo.lingvo}}/manifest.webmanifest" />
+      <meta name="theme-color" content="#198754" />
+    {% endif %}
     <link href="{{vojprefikso}}../assets/bundle.css?versio={{enhavo.versio}}" rel="stylesheet" />
   </head>
   <body>
@@ -179,5 +183,16 @@
           }
       });
     </script>
+    {% if enhavo.havas_pwa %}
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('/{{enhavo.lingvo}}/sw.js').catch(function (error) {
+            console.warn('Ne eblis registri la service worker.', error);
+          });
+        });
+      }
+    </script>
+    {% endif %}
   </body>
 </html>

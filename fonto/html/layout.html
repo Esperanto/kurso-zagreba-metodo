@@ -41,6 +41,17 @@
         if (navigator.standalone === true) {
           document.documentElement.classList.add('pwa-standalone');
         }
+        // Malŝaltu la aŭtomatan instal-inviton (mini-infobar) de Chrome, sed
+        // konservu la eventon por estonta propra install-infobox: voku
+        // window.pwaInstallPrompt.prompt() el via propra butono.
+        window.pwaInstallPrompt = null;
+        window.addEventListener('beforeinstallprompt', function (e) {
+          e.preventDefault();
+          window.pwaInstallPrompt = e;
+        });
+        window.addEventListener('appinstalled', function () {
+          window.pwaInstallPrompt = null;
+        });
       </script>
     {% endif %}
     <link href="{{vojprefikso}}../assets/bundle.css?versio={{enhavo.versio}}" rel="stylesheet" />

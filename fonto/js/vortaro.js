@@ -1,3 +1,9 @@
+function eskapiHtml(s) {
+  return String(s).replace(/[&<>"']/g, function(c) {
+    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+  });
+}
+
 var substringMatcher = function(vortlisto) {
   return function findMatches(q, cb) {
     var matches, substringRegex;
@@ -7,8 +13,9 @@ var substringMatcher = function(vortlisto) {
 
 		q = esperantigu(q);
 
-    // Search for strings that begin with the query.
-    substrRegex = new RegExp('^' + q, 'i');
+    // Traktu la enigon laŭvorte: eskapu regex-signojn (evitu ReDoS kaj rompon ĉe «(» ktp.).
+    var eskapita = q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    var substrRegex = new RegExp('^' + eskapita, 'i');
 
     // iterate through the pool of strings and for any string that
     // contains the substring `q`, add it to the `matches` array
@@ -38,7 +45,7 @@ $('.typeahead').typeahead({
 	display: 'table',
 	templates: {
 		suggestion: function(data) {
-			return '<p><em>' + data.esperante + '</em> – ' + data.fontlingve + '</p>';
+			return '<p><em>' + eskapiHtml(data.esperante) + '</em> – ' + eskapiHtml(data.fontlingve) + '</p>';
 		}
 	}
 });

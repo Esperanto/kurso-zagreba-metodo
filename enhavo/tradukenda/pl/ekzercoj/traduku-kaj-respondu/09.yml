@@ -9,10 +9,10 @@
     - gepatrojn: rodziców
     - '?'
 - 
-  demando: Jeśli przynajmniej poszedłbyś ze mną do centrum miasta po nauce!
+  demando: Gdybyś chociaż poszedł ze mną do centrum miasta po nauce!
   rektatraduko: 
-    - Se: Jeśli
-    - almenaŭ: przynajmniej
+    - Se: Gdyby
+    - almenaŭ: chociaż
     - vi: ty
     - post: po
     - la: (przedimek określony) 
@@ -20,7 +20,7 @@
     - irus: poszedłbyś
     - kun: z
     - mi: ja
-    - en: w
+    - en: do, w
     - la: (przedimek określony) 
     - urbocentron: centrum miasta
     - '!'
@@ -36,7 +36,7 @@
     - vi: wy
     - havus: mielibyście
     - sufiĉe: dość
-    - da: od
+    - da: miara ilości
     - mono: pieniądze
     - kaj: i
     - tempo: czas
@@ -50,7 +50,7 @@
     - veturi: jechać
     - al: do
     - Parizo: Paryż
-    - per: przez
+    - per: za pomocą
     - aŭto: samochód
     - aŭ: lub
     - ĉu: czy
@@ -59,7 +59,7 @@
     - multe: dużo
     - pli: więcej
     - bone: dobrze
-    - per: przez
+    - per: za pomocą
     - vagonaro: pociąg
     - '?'
 - 

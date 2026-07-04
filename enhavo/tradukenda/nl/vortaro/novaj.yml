@@ -1,4 +1,7 @@
-aŭskult: luisteren, beluisteren, aanhoren, toehoren 
+aŭskult:
+- luisteren
+- beluisteren
+- aanhoren
 divers: diverse, verschillende
 ekzempl: voorbeeld, toonbeeld
 glas: drinkglas, glas
@@ -6,7 +9,10 @@ infan: kind
 inform: informeren, inlichten
 kant: zingen, lied, zang
 kien: waarheen, waar naartoe
-konsent: instemmen, toestemmen, akkoord gaan, goedvinden
+konsent:
+- instemmen
+- toestemmen
+- akkoord gaan
 lingv: taal
 loĝ: wonen, resideren, gevestigd zijn
 manier: manier, wijze, trant
@@ -14,14 +20,22 @@ monat: maand
 mond: wereld
 naci: nationaal
 organiz: organiseren
-plor: wenen, huilen, krijten, schreien
+plor:
+- huilen
+- wenen
 pluv: regenen
 poŝ: zak (in kleding)
 poŝt: post, posterijen
-proksimum: ongeveer, circa, plusminus, rond, omtrent
+proksimum:
+- ongeveer
+- circa
+- rond
 publik: openbaar, publiek
 punkt: punt, stip
-pur: puur, zuiver, rein, louter
+pur:
+- zuiver
+- schoon
+- puur
 rakont: vertellen, verhalen
 rimark: bemerken, opmerken
 seĝ: stoel
@@ -33,7 +47,7 @@ tut: heel, helemaal, gans
 universal: universeel, algemeen
 rilat: betrekking, verhouding, verband
 sat: verzadigd
-ag:
-aper:
-sent:
-kred:
+ag: handelen
+aper: verschijnen
+sent: voelen
+kred: geloven

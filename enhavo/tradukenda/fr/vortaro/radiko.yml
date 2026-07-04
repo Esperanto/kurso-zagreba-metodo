@@ -34,10 +34,12 @@ diabl: diable
 dik: gros
 dimanĉ: dimanche
 dir: dire
-direkt: direction
+direkt: diriger
 doktor: docteur
 dolar: dollar
-dolor: douleur
+dolor:
+- faire mal
+- avoir mal
 dolĉ: doux
 dom: maison
 don: donner
@@ -83,7 +85,7 @@ hotel: hôtel
 ide: idée
 industri: industrie
 instru: enseigner
-interes: intéresser
+interes: intérêt
 invit: inviter
 ir: aller
 itali: Italie
@@ -102,14 +104,16 @@ kelner: serveur
 klar: clair
 klub: club
 knab: garçon
-koler: colère
+koler:
+- se mettre en colère
+- être en colère
 kolor: couleur
 komenc: commencer
 kompren: comprendre
 kon: connaître
 kontent: content
 kontrol: vérifier
-kor: coeur
+kor: cœur
 korp: corps
 kost: coûter
 kri: crier
@@ -129,7 +133,9 @@ lern: apprendre
 leter: lettre
 liber: libre
 libr: livre
-lok: placer
+lok:
+- lieu
+- endroit
 long: long
 lud: jouer
 lum: lumière
@@ -161,12 +167,14 @@ nokt: nuit
 nom: nom
 not: note
 nov: nouveau
-odor: sentir
+odor: odeur
 oft: souvent
 okaz: avoir lieu
-okul: oeil
+okul: œil
 onkl: oncle
-opini: opinion
+opini:
+- penser
+- être d'avis
 ord: ordre
 orel: oreille
 pac: paix
@@ -178,7 +186,7 @@ parol: parler
 part: partie
 pas: passer
 patr: père
-paŝ: pas
+paŝ: faire un pas
 pens: penser
 perd: perdre
 person: personne
@@ -186,7 +194,7 @@ pet: demander
 pez: lourd
 pied: pied
 plac: place
-plan: planifier
+plan: plan
 plaĉ: plaire
 plen: plein
 polic: police
@@ -219,7 +227,7 @@ ruĝ: rouge
 salt: sauter
 salut: salut
 sam: même
-san: santé
+san: sain
 saĝ: sage
 sci: savoir
 sek: sec
@@ -247,7 +255,7 @@ subit: subitement
 sufiĉ: suffisant
 sukces: succès
 sun: soleil
-supr: au dessus
+supr: au-dessus
 tabl: table 
 tag: jour
 te: thé
@@ -256,7 +264,9 @@ temp: temps
 temperatur: température
 ten: tenir
 teror: terreur
-tim: crainte
+tim:
+- craindre
+- avoir peur
 ton: ton
 trankvil: calme
 trink: boire
@@ -282,7 +292,7 @@ viv: vivre
 vizaĝ: visage
 vizit: visiter
 voj: voie
-vojaĝ: voyage
+vojaĝ: voyager
 vok: appeler
 vol: vouloir
 vort: mot
@@ -292,7 +302,7 @@ zorg: se soucier
 ĉef: chef
 ĝen: gêner
 ĝeneral: général
-ĝoj: joie
+ĝoj: joyeux
 ĝust: juste
 ĵet: jeter
 ŝajn: sembler

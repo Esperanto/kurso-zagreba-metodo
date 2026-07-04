@@ -18,7 +18,7 @@
     - Lingvon: Taal
     - '?'
 -
-  demando: Waar is mijn nieuw boek met foto's?
+  demando: Waar is mijn nieuwe boek met foto's?
   rektatraduko:
     - Kie: Waar
     - estas: is
@@ -56,7 +56,7 @@
     - malvarme: koud
     - '?'
 -
-  demando: Hoe lang ben je boos, als men van je veel geld wegneemt?
+  demando: Hoe lang ben je boos als iemand veel geld van je wegneemt?
   rektatraduko:
     - Kiel: Hoe
     - longe: lang
@@ -64,7 +64,7 @@
     - koleras: bent boos
     - ','
     - se: als (indien)
-    - oni: men
+    - oni: iemand
     - forprenas: wegneemt
     - de: van
     - vi: je

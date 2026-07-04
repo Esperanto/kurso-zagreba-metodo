@@ -1,0 +1,59 @@
+- demando: কেউ আনন্দে গান গাইলে তুমি কি শান্তভাবে শিখতে পার?
+  rektatraduko:
+    - Ĉu: কি
+    - vi: তুমি
+    - povas: পার
+    - trankvile: শান্তভাবে
+    - lerni: শিখতে
+    - ','
+    - dum: যখন
+    - iu: কেউ
+    - ĝoje: আনন্দে
+    - kantas: গায়
+    - '?'
+- demando: আমরা কখন ও কোথায় আবার দেখা করব কে জানে?
+  rektatraduko:
+    - Kiu: কে
+    - scias: জানে
+    - ','
+    - kiam: কখন
+    - kaj: এবং
+    - kie: কোথায়
+    - ni: আমরা
+    - revidos: আবার দেখব
+    - nin: পরস্পরকে
+    - '?'
+- demando: এখন কটা বাজে?
+  rektatraduko:
+    - Kioma: কততম
+    - horo: ঘণ্টা
+    - estas: হয়
+    - nun: এখন
+    - '?'
+- demando: কেউ কি তোমাকে পুরোনো বাড়ির দরজা খুলতে সাহায্য করেছিল?
+  rektatraduko:
+    - Ĉu: কি
+    - iu: কেউ
+    - helpis: সাহায্য করেছিল
+    - al: প্রতি
+    - vi: তোমাকে
+    - malfermi: খুলতে
+    - la: নির্দিষ্ট আর্টিকেল
+    - pordon: দরজা
+    - de: এর
+    - la: নির্দিষ্ট আর্টিকেল
+    - malnova: পুরোনো
+    - domo: বাড়ি
+    - '?'
+- demando: আমার কথা আরও দীর্ঘ সময় শুনতে তোমার সময় নেই কেন?
+  rektatraduko:
+    - Kial: কেন
+    - vi: তুমি
+    - ne: না
+    - havas: আছে
+    - tempon: সময়
+    - aŭskulti: শুনতে
+    - min: আমাকে
+    - pli: আরও
+    - longe: দীর্ঘ
+    - '?'

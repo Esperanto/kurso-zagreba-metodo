@@ -10,15 +10,17 @@ am: amar
 amik: amigo
 arb: árbol
 aspekt:
- - parecer
  - aspecto
+ - apariencia
 atend: esperar
 atent:
  - estar atento
  - prestar atención
 aĉet: comprar
 aŭd: oír
-aŭt: coche
+aŭt:
+ - auto
+ - coche
 aŭtoritat: autoridad
 bedaŭr: lamentar
 bel:
@@ -49,7 +51,7 @@ diabl: diablo
 dik: gordo
 dimanĉ: domingo
 dir: decir
-direkt: dirección
+direkt: dirigir
 doktor: doctor
 dolar: dólar
 dolor: doler
@@ -57,7 +59,7 @@ dolĉ: dulce
 dom: casa
 don: dar
 dorm: dormir
-doĝ: dux
+doĝ: dogo
 edz:
  - esposo
  - marido
@@ -71,7 +73,7 @@ est:
 facil: fácil
 fakt: hecho
 fal: caer
-famili: familiar
+famili: familia
 far: hacer
 fart:
 - estar
@@ -108,9 +110,9 @@ hom:
 hor: hora
 hotel: hotel
 ide: idea
-industri: industria 
+industri: industria
 instru: enseñar
-interes: interesar
+interes: interés
 invit: invitar
 ir: ir
 itali: Italia
@@ -131,7 +133,7 @@ kelner: camarero/a
 klar: claro
 klub: club
 knab: chico
-koler: estar enfadado
+koler: enfadarse
 kolor: color
 komenc: empezar
 kompren: entender
@@ -200,7 +202,7 @@ nokt: noche
 nom: nombre
 not: nota
 nov: nuevo
-odor: oler
+odor: olor
 oft: a menudo
 okaz:
  - ocurrir
@@ -208,7 +210,7 @@ okaz:
 okul: ojo
 onkl: tío
 opini: opinar
-ord: ordenar
+ord: orden
 orel: oreja
 pac: paz
 pag: pagar
@@ -219,12 +221,12 @@ parol: hablar
 part: parte
 pas: pasar
 patr: padre
-paŝ: paso
+paŝ: dar un paso
 pens: pensar
 perd: perder
 person: persona
 pet: pedir
-pez: pesar
+pez: pesado/a
 pied: pie
 plac: plaza
 plan: plan
@@ -239,7 +241,7 @@ port:
  - traer
 post: después de, detrás de
 pov: poder
-pren: coger
+pren: tomar
 pret:
  - listo
  - preparado
@@ -278,26 +280,25 @@ send: enviar
 serĉ: buscar
 si: pronombre reflexivo
 sid: estar sentado
-silent: callar
+silent: silencio
 simil: similar
 sinjor: señor
 situaci: situación
 skrib: escribir
 sol: solo/a
-son: sonar
+son: sonido
 sovaĝ: salvaje
 sport: deporte
 star: permanecer de pie
 strat: calle
-subit:
- - súbito
+subit: repentino/a
 sufiĉ:
  - suficiente
- - bastantes
+ - bastante
 sukces: tener éxito
 sun: sol
 supr: arriba
-tabl: mesa 
+tabl: mesa
 tag: día
 te: té
 telefon: teléfono

@@ -8,27 +8,27 @@
     - ',' 
     - kiun: que
     - vi: tú
-    - atendis: estuviste esperando
+    - atendis: esperaste
     - pli: más
-    - ol: de
+    - ol: que
     - du: dos
     - jarojn: años
     - '?'
 - 
   demando: ¿Quieres que te enseñe la fotografía que más aprecio?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: acaso
     - vi: Tú
     - volas: quieres
     - ','
     - ke: que
     - mi: yo
-    - montru: te muestre
+    - montru: muestre
     - al: a 
     - vi: ti
     - mian: mi
     - plej: más
-    - karan: apreciada
+    - karan: querida
     - foton: fotografía
     - '?'
 - 
@@ -56,11 +56,11 @@
 - 
   demando: ¿Tu hermano ya se ha ido?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: acaso
     - via: tu
     - frato: hermano
     - jam: ya
-    - foriris: se ha ido
+    - foriris: se fue
     - '?'
 - 
   demando: ¿Dónde está el agua que tú mismo has traído?
@@ -73,5 +73,5 @@
     - kiun: que
     - vi: tú
     - mem: mismo
-    - kunportis: has traído
+    - kunportis: trajiste contigo
     - '?'

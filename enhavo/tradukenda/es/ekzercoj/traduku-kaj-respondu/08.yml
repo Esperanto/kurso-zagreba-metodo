@@ -7,7 +7,7 @@
     - kuirejon: cocina
     - post: después de
     - la: la
-    - tagmanĝo: comida
+    - tagmanĝo: comida de mediodía
     - '?'
 - 
   demando: '¿Qué quieres beber: té, un poco de café o nada?'
@@ -19,7 +19,7 @@
     - ':' 
     - teon: té
     - ',' 
-    - iom: un poco
+    - iom: poco
     - da: de
     - kafo: café
     - aŭ: o
@@ -33,7 +33,7 @@
   rektatraduko: 
     - Kial: Por qué
     - vi: tú
-    - tiel: así
+    - tiel: tan
     - subite: de repente
     - decidis: has decidido
     - renovigi: renovar
@@ -46,7 +46,7 @@
     - Al: A
     - kiu: quién
     - vi: tú
-    - donis: le diste
+    - donis: diste
     - la: los
     - purajn: limpios
     - glasojn: vasos
@@ -62,18 +62,18 @@
     - ludis: jugó
     - via: tu
     - sportklubo: club deportivo
-    - antaŭ: hace
+    - antaŭ: antes de
     - du: dos
     - semajnoj: semanas
     - '?'
 - 
   demando: ¿Ves a menudo al policía que vive en el apartamento de encima?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: acaso
     - vi: Tú
-    - ofte: a menudo
+    - ofte: frecuente
     - vidas: ves
-    - la: al
+    - la: el
     - policiston: policía
     - ',' 
     - kiu: que
@@ -82,5 +82,5 @@
     - la: el
     - loĝejo: apartamento
     - super: encima de
-    - vi: tú
+    - vi: ti
     - '?'

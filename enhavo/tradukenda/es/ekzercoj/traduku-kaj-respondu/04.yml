@@ -3,16 +3,16 @@
   rektatraduko: 
     - Kiam: Cuándo
     - mi: yo
-    - revidos: volveré a ver
+    - revidos: veré de nuevo
     - vin: a ti
     - '?'
 -
   demando: ¿Cuánto tiempo has estado aprendiendo la lengua internacional?
   rektatraduko: 
     - Kiom: Cuánto
-    - longe: tiempo
+    - longe: largo
     - vi: tú
-    - lernas: has estado aprendiendo
+    - lernas: aprendes
     - la: la 
     - Internacian: internacional
     - Lingvon: lengua
@@ -36,13 +36,13 @@
     - iros: irás
     - post: después de
     - la: la
-    - tagmanĝo: comida
+    - tagmanĝo: comida de mediodía
     - '?'
 -
   demando: ¿Se puede cerrar la puerta de la habitación cuando hace frío?
   rektatraduko: 
-    - Ĉu: ¿
-    - oni: Se
+    - Ĉu: acaso
+    - oni: uno
     - povas: puede 
     - fermi: cerrar
     - la: la
@@ -52,22 +52,23 @@
     - ĉambro: habitación
     - ','
     - kiam: cuando
-    - estas: hace
+    - estas: está
     - malvarme: frío
     - '?'
 -
   demando: ¿Cuánto tiempo estás enojado si la gente te quita mucho dinero?
   rektatraduko: 
     - Kiom: Cuánto
-    - longe: tiempo
+    - longe: largo
     - vi: tú
-    - koleras: estás enojado
+    - koleras: te enojas
     - ','
     - se: si
-    - oni: la gente
+    - oni: uno
     - forprenas: quita
     - al: a
     - vi: ti
-    - multe da: mucho
+    - multe: mucho
+    - da: de
     - mono: dinero
     - '?'

@@ -1,18 +1,18 @@
 - 
   demando: ¿Deseas que te muestre mi libro más reciente?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: acaso
     - vi: Tú
     - deziras: deseas
     - ',' 
     - ke: que 
     - mi: yo
-    - montru: te muestre
+    - montru: muestre
     - al: a
     - vi: ti
     - mian: mi
     - plej: más
-    - novan: reciente
+    - novan: nuevo
     - libron: libro
     - '?'
 - 
@@ -32,33 +32,33 @@
     - alvenos: llegará
     - ',' 
     - je: a
-    - la: las
-    - kvina: cinco
+    - la: la
+    - kvina: quinta
     - aŭ: o
     - je: a
-    - la: las
-    - oka: ocho
-    - horo: horas
+    - la: la
+    - oka: octava
+    - horo: hora
     - '?'
 - 
   demando: ¿Cuándo te diste cuenta de que la familia entera me llama benefactor?
   rektatraduko: 
     - Kiam: Cuándo
     - vi: tú
-    - rimarkis: te diste cuenta
+    - rimarkis: notaste
     - ','  
-    - ke: de que
+    - ke: que
     - la: la
     - tuta: entera
     - familio: familia
-    - nomas: me llama
+    - nomas: llama
     - min: a mí
     - bonfarulo: benefactor
     - '?'
 - 
   demando: ¿Era útil el librito que te envié?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: acaso
     - estis: Era
     - utila: útil
     - la: el 
@@ -66,7 +66,7 @@
     - ',' 
     - kiun: que
     - mi: yo
-    - sendis: te envié
+    - sendis: envié
     - al: a
     - vi: ti
     - '?'

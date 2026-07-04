@@ -1,7 +1,7 @@
 - 
   demando: ¿Cómo era tu antigua casa?
   rektatraduko: 
-    - Kia: Cómo
+    - Kia: qué tipo de
     - estis: era
     - via: tu
     - malnova: antigua
@@ -10,7 +10,7 @@
 - 
   demando: ¿Qué libros has leído, y eran buenos?
   rektatraduko: 
-    - Kiujn: Qué 
+    - Kiujn: cuáles
     - librojn: libros
     - vi: tú
     - legis: has leído
@@ -38,12 +38,12 @@
 - 
   demando: ¿Te gusta leer libros de amor?
   rektatraduko: 
-    - Ĉu: ¿
-    - vi: Te
+    - Ĉu: acaso
+    - vi: tú
     - ŝatas: gusta
     - legi: leer
     - librojn: libros
-    - pri: de
+    - pri: sobre
     - amo: amor
     - '?'
 - 
@@ -52,7 +52,7 @@
     - Kiu: Quién
     - iros: irá
     - kun: con
-    - vi: tigo
+    - vi: ti
     - al: a 
     - via: tu
     - hejmo: casa
@@ -60,7 +60,7 @@
 - 
   demando: ¿Cómo son los ojos de tu amiga?
   rektatraduko: 
-    - Kiaj: Cómo
+    - Kiaj: qué tipo de
     - estas: son
     - la: los
     - okuloj: ojos

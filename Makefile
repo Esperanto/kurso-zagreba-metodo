@@ -62,10 +62,10 @@ check:
 	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune, genanki'
 	@"$(PYTHON)" -m fonto.py.kontrolu_yaml
 	@test -x "$(YAML_SCHEMA_LINTER)" || { printf '%s\n' 'Mankas $(YAML_SCHEMA_LINTER). Rulu `make install` unue.' >&2; exit 1; }
-	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.json" enhavo/tradukenda/*/fasado/*.yml
-	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.json" enhavo/tradukenda/*/vortaro/*.yml
-	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku.schema.json" enhavo/tradukenda/*/ekzercoj/traduku/*.yml
-	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu.schema.json" enhavo/tradukenda/*/ekzercoj/traduku-kaj-respondu/*.yml
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.yml" enhavo/tradukenda/*/fasado/*.yml
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.yml" enhavo/tradukenda/*/vortaro/*.yml
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku/*.yml
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku-kaj-respondu/*.yml
 	@$(MAKE) --no-print-directory clean
 	@mkdir -p "$(dir $(MD_OUT))"
 	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"

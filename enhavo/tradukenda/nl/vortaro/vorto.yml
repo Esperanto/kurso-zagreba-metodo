@@ -29,18 +29,19 @@ bestetoj:
 - diertjes
 - beestjes
 bonega: uitstekend
-bonvolu: gelieve
+bonvolu:
+- alstublieft
+- gelieve
 bonvolus: zou zo goed willen zijn
 centoj: honderden
 dankon: dank, bedankt
-daŭrigis: 
-- zette door
-- deed voort
-- deed verder
+daŭrigis:
+- ging door
+- zette voort
 denove:
 - opnieuw
 - terug
-devojiĝis: geraakte van de weg af
+devojiĝis: raakte van de weg af
 dikiĝi: dik worden
 doloriga: pijnlijke
 dolorige: pijnlijk
@@ -55,23 +56,25 @@ ekparolis: nam het woord
 ekridis: schoot in een lach
 ekrigardis: keek op
 eksaltis: sprong op
-ekscii: kwam te weten
+ekscii: te weten komen
 eksidis: ging zitten
 ekstervoje: buiten de weg
 ekveturas: vertrekt
-ekvidis: kreeg in het oog
+ekvidis:
+- zag ineens
+- merkte op
 elstaraj: uitstekende
 eniri: binnengaan
 eniris: ging binnen
 eniru: ga binnen
-facilmovaj: bewegelijk
+facilmovaj: beweeglijk
 faligi: doen vallen
 faligis: deed vallen
 familianoj: gezinsleden
 fermita: gesloten
 fine: eindelijk
 foresti: weg zijn
-foriros: zal weg gaan
+foriros: zal weggaan
 fratino: 
 - zus
 - zuster
@@ -90,7 +93,9 @@ haltigis:
 - stopte 
 - hield halt
 havigi: bezorgen
-havindan: bezittenswaardig
+havindan:
+- waard om te bezitten
+- de moeite waard om te hebben
 homformo: mensenvorm
 hommulton: menigte mensen
 ideoriĉan: vol ideeën
@@ -110,7 +115,7 @@ junuloj: jeugd
 kafejo: café
 kafejon: café (accusatief)
 karulino: lieveling
-karulo: lieve
+karulo: lieveling
 klarigis: verklaarde
 klarigon: verklaring
 klubanoj: clubleden
@@ -119,15 +124,17 @@ korpoforton: lichaamskracht
 kunmanĝos: zal mee-eten
 kunporti: meedragen, meebrengen
 kunulino: gezellin
-kunvenas: vergadert
+kunvenas:
+- komt bijeen
+- vergadert
 laboristo: arbeider
 lampeto: lampje
 lernanto:
 - leerling
-- schoolier
+- scholier
 lernejo: school
 lernejon: school
-lernolibroj: leerboek
+lernolibroj: leerboeken
 leteroj: brieven
 libertempo: vrijaf
 libroj: boeken
@@ -171,12 +178,8 @@ malvarman: koud (Accusatief)
 malĝoja: 
 - treurig
 - triestig
-malŝatas: 
-- heeft niet graag
-- houdt niet van
-malŝatis: 
-- had niet graag
-- hield niet van
+malŝatas: houdt niet van
+malŝatis: hield niet van
 manĝaĵo: 
 - spijs
 - eten
@@ -191,13 +194,13 @@ monerojn:
 - muntstukken
 monujo: geldbeugel
 morgaŭan: van/voor morgen
-mortigo: doding
+mortigo: het doden
 moviĝis: bewogen zich
 multekosta: duur
 multpiedaj: veelvoetige
 naskiĝtaga: verjaardags-
 naskiĝtago: geboortedag
-naturaĵojn: naturalia
+naturaĵojn: natuurlijke dingen
 nehoma: onmenselijk
 neinteresaj: oninteressant
 nokta: nachtelijke
@@ -213,6 +216,7 @@ pasigos: zal doorbrengen
 patrino: moeder
 perdigis:
 - deed verliezen
+- liet verliezen
 - ontnam
 plenigadis: vulde
 plenumis: vervulde
@@ -225,9 +229,9 @@ rapidege: bliksemsnel
 realigi: realiseren
 redonu: geef terug
 rekapti: terugpakken
-repaciĝon: herbevrediging
+repaciĝon: verzoening
 revenis: keerde(n) terug
-revidi: zagen terug
+revidi: weerzien
 revido: weerzien
 ridetis: glimlachte
 rideto: glimlach
@@ -242,7 +246,9 @@ senbrue: geluidloos
 seninterese: niet interesserend
 senkolora: kleurloos
 sensukcese: zonder succes, vruchteloos
-sentimulo: onvervaarde persoon
+sentimulo:
+- onbevreesde
+- dapper persoon
 senvorte: woordeloos
 sinjorinoj: dames
 sinjorinon: dame (accusatief)
@@ -288,16 +294,18 @@ vestaĵon: kledingstuk
 veturado: 
 - vaart
 - rit
-veturigus: zou afhalen
+veturigus: zou vervoeren
 viaj:
 - uw
 - jouw
 virino: vrouw
-vojaĝantoj: reiziger
+vojaĝantoj: reizigers
 ĉambristoj: kamerbedienden
 ĉeesto: aanwezigheid
 ĉirkaŭaĵo: omgeving
 ĝenon: hinder
 ĝustatempe: op tijd
 ŝiaj: hare
-ŝipkuron: scheepvaart
+ŝipkuron:
+- scheepsrace
+- bootrace

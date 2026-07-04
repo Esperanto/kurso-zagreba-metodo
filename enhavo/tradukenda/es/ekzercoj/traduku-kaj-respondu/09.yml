@@ -42,11 +42,11 @@
     - tempo: tiempo
     - '?'
 - 
-  demando: ¿Vas a París en auto o mejor en tren?
+  demando: ¿Viajas a París en auto o mejor en tren?
   rektatraduko: 
     - Ĉu: ¿
     - vi: Tú
-    - vojaĝas: vas
+    - vojaĝas: viajas
     - per: en
     - la: el
     - aŭto: auto

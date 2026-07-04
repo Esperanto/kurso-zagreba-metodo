@@ -4,6 +4,8 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://e12.goatcounter.com; font-src 'self'; connect-src 'self' https://e12.goatcounter.com; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'self'" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
     <meta http-equiv="refresh" content="2; url=/en/" />
     <meta name="description" content="{{meta_description|e}}" />
     <link rel="canonical" href="{{seo.canonical_url}}" />
@@ -40,7 +42,7 @@
     <script
       data-goatcounter="https://e12.goatcounter.com/count"
       async
-      src="//gc.zgo.at/count.js"
+      src="https://gc.zgo.at/count.js"
     ></script>
   </body>
 </html>

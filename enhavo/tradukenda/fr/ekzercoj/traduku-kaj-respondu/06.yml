@@ -1,5 +1,5 @@
 - 
-  demando: Est-ce que vous voulez que je vous montre mon plus récent livre ?
+  demando: Est-ce que vous voulez que je vous montre mon livre le plus récent ?
   rektatraduko: 
     - Ĉu: Est-ce que
     - vi: vous
@@ -16,7 +16,7 @@
     - libron: livre
     - '?'
 - 
-  demando: Que voulez-vous demain pour votre petit déjeuner ?
+  demando: Que voulez-vous prendre demain au petit déjeuner ?
   rektatraduko: 
     - Kion: Que
     - vi: vous

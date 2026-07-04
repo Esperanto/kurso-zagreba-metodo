@@ -9,7 +9,7 @@
 - 
   demando: ¿Tu amiga Ana escribe ahora en la habitación?
   rektatraduko:
-    - Ĉu: acaso
+    - Ĉu: Acaso
     - via: tu
     - amikino: amiga
     - Ana: Ana
@@ -22,7 +22,7 @@
 - 
   demando: ¿El amigo de tu padre trabaja en un hotel?
   rektatraduko:
-    - Ĉu: acaso
+    - Ĉu: Acaso
     - la: el
     - amiko: amigo
     - de: de
@@ -47,7 +47,7 @@
 - 
   demando: ¿Hay un libro de texto de esperanto sobre tu mesa?
   rektatraduko:
-    - Ĉu: acaso
+    - Ĉu: Acaso
     - Esperanto-lernolibro: libro de texto de esperanto
     - estas: está
     - sur: sobre

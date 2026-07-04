@@ -1,7 +1,7 @@
 - 
   demando: ¿Deseas que te muestre mi libro más reciente?
   rektatraduko: 
-    - Ĉu: acaso
+    - Ĉu: Acaso
     - vi: Tú
     - deziras: deseas
     - ',' 
@@ -58,7 +58,7 @@
 - 
   demando: ¿Era útil el librito que te envié?
   rektatraduko: 
-    - Ĉu: acaso
+    - Ĉu: Acaso
     - estis: Era
     - utila: útil
     - la: el 

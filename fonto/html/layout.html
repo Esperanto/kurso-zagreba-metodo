@@ -37,6 +37,10 @@
     {% if enhavo.havas_pwa %}
       <link rel="manifest" href="/{{enhavo.lingvo}}/manifest.webmanifest" />
       <meta name="theme-color" content="{{enhavo.pwa_theme_color}}" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+      <meta name="apple-mobile-web-app-title" content="Esperanto12 ({{enhavo.lingvo}})" />
       <script>
         if (navigator.standalone === true) {
           document.documentElement.classList.add('pwa-standalone');

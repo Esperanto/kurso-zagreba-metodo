@@ -2,7 +2,9 @@ afer:
 - aangelegenheid
 - zaak
 agrabl: aangenaam
-akcept: aanvaarden
+akcept:
+- accepteren
+- aanvaarden
 akv: water
 ali: ander
 alt: hoog
@@ -32,7 +34,7 @@ branĉ: tak
 bru: lawaai
 buŝ: mond
 cert: zeker
-dank: dank
+dank: bedanken
 daŭr: duren
 decid: beslissen
 demand: vragen
@@ -45,9 +47,11 @@ dik: dik
 dimanĉ: zondag
 dir: zeggen
 direkt: richting
-doktor: doctor
+doktor: dokter
 dolar: dollar
-dolor: pijn
+dolor:
+- pijn doen
+- pijn
 dolĉ: zoet
 dom: huis
 don: geven
@@ -57,23 +61,24 @@ edz: echtgenoot
 efektiv:
 - werkelijk
 - efficiënt
-ekskurs: uitstap
+ekskurs:
+- uitstapje
+- excursie
 esper: hopen
 est: zijn (werkwoord)
 facil: gemakkelijk
 fakt: feit
-fakt: feitelijk
 fal: vallen
 famili: gezin (familie)
 far:
 - maken
 - doen
-fart: 
+fart:
 - gesteld zijn
-- varen (zich voelen)
+- zich voelen
 feliĉ: gelukkig
 ferm: sluiten
-fin: einde
+fin: eindigen
 flank: zijde (kant)
 foj: keer
 forges: vergeten
@@ -90,7 +95,9 @@ gondol: gondel
 graf: graaf
 grand: groot
 grav: belangrijk
-halt: halthouden
+halt:
+- stoppen
+- halt houden
 hav: hebben
 hejm:
 - huis
@@ -130,7 +137,9 @@ kelk:
 - enige
 - enkele
 kelner: ober
-klar: klaar
+klar:
+- duidelijk
+- helder
 klub: club
 knab: 
 - jongen
@@ -145,7 +154,9 @@ kompren:
 - begrijpen
 kon: kennen
 kontent: tevreden
-kontrol: nazien
+kontrol:
+- controleren
+- nakijken
 kor: hart
 korp: lichaam
 kost: kosten
@@ -165,7 +176,7 @@ lakt: melk
 lamp: lamp
 land: land
 larĝ: breed
-last: laatst
+last: laatste
 laŭt: luid
 lecion: les
 leg: lezen
@@ -209,8 +220,8 @@ neces: nodig
 nokt: nacht
 nom: naam
 not:
-- noteren
-- nota
+- notitie
+- aantekening
 nov: nieuw
 odor: geur
 oft: 
@@ -233,9 +244,7 @@ parol: spreken
 part: deel
 pas: voorbijgaan
 patr: vader
-paŝ: 
-- schrijden
-- stappen
+paŝ: stappen
 pens: denken
 perd: verliezen
 person: persoon
@@ -271,8 +280,8 @@ rajt:
 rapid: 
 - snel
 - rap
-raport: 
-- verlaggeven
+raport:
+- verslag geven
 - rapporteren
 real: 
 - werkelijk
@@ -340,7 +349,7 @@ subit:
 sufiĉ: 
 - volstaan
 - genoeg
-sukces: slagen
+sukces: succes
 sun: zon
 supr: boven
 tabl: tafel
@@ -385,7 +394,9 @@ voj:
 - weg
 - baan
 vojaĝ: reizen
-vok: roepen
+vok:
+- roepen
+- bellen
 vol: willen
 vort: woord
 voĉ: stem

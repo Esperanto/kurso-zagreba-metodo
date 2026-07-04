@@ -20,7 +20,7 @@ aĉet: comprar
 aŭd: oír
 aŭt:
  - auto
- - coche
+ - automóvil
 aŭtoritat: autoridad
 bedaŭr: lamentar
 bel:
@@ -133,7 +133,8 @@ kelner: camarero/a
 klar: claro
 klub: club
 knab: chico
-koler: enfadarse
+koler:
+ - enojarse
 kolor: color
 komenc: empezar
 kompren: entender

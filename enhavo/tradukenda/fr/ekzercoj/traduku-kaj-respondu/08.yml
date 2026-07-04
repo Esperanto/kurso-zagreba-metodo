@@ -10,7 +10,7 @@
     - tagmanĝo: déjeuner
     - '?'
 - 
-  demando: "Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?"
+  demando: "Que veux-tu boire : du thé, un peu de café, ou ne veux-tu rien ?"
   rektatraduko: 
     - Kion: Que, quoi
     - vi: tu
@@ -55,13 +55,13 @@
     - vino: vin
     - '?'
 - 
-  demando: Contre qui ton club de sports a joué il y a deux semaines ?
+  demando: Contre qui ton club sportif a-t-il joué il y a deux semaines ?
   rektatraduko: 
     - Kontraŭ: Contre
     - kiu: qui
     - ludis: a joué
     - via: ton
-    - sportklubo: club de sports
+    - sportklubo: club sportif
     - antaŭ: avant
     - du: deux
     - semajnoj: semaines

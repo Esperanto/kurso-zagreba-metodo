@@ -11,7 +11,7 @@
     - lingvojn: langues
     - '?'
 -
-  demando: "Est-ce que tu sais si Anne aime la nouvelle chanson à propos d'un pauvre et d'une jolie fille ?"
+  demando: "Est-ce que tu sais si Anne aime la nouvelle chanson à propos d'un pauvre homme et d'une jolie fille ?"
   rektatraduko: 
     - Ĉu: Est-ce que
     - vi: tu
@@ -29,7 +29,7 @@
     - belulino: une jolie fille
     - '?'
 -
-  demando: Où as-tu vu le vieux et le jeune qui portaient une grande table ?
+  demando: Où as-tu vu le vieil homme et le jeune homme qui portaient une grande table ?
   rektatraduko: 
     - Kie: Où
     - vi: tu
@@ -46,7 +46,7 @@
     - tablon: table
     - '?'
 -
-  demando: "Comment c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?"
+  demando: "Comment se fait-il que tu sois revenu chez nous sans tes frères et sœurs ?"
   rektatraduko: 
     - Kiel: Comment
     - okazis: "c'est arrivé"
@@ -58,7 +58,7 @@
     - al: chez
     - ni: nous
     - sen: sans
-    - gefratoj: frères et soeurs
+    - gefratoj: frères et sœurs
     - '?'
 -
   demando: "Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau livre de cours ?"
@@ -73,5 +73,5 @@
     - sufiĉe: assez
     - rapide: rapidement
     - lerni: apprendre
-    - Esperanton: "[l'] espéranto"
+    - Esperanton: "l'espéranto"
     - '?'

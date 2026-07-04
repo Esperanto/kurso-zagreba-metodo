@@ -9,6 +9,8 @@ NPM ?= npm
 VENV ?= venv
 SYSTEM_PYTHON ?= python3
 PYTHON ?= $(VENV)/bin/python
+YAML_SCHEMA_LINTER ?= $(VENV)/bin/check-jsonschema
+TRADUKENDA_SCHEMA_DIR ?= skemoj/tradukenda
 PIP_TOOLS ?= pip-tools==7.5.3
 CHECK_LINGVO := en
 MD_OUT ?= eligo/md/$(CHECK_LINGVO).md
@@ -21,7 +23,7 @@ help:
 		'  make install-ui      Instalas Chromium por Playwright-testoj' \
 		'  make lock            Rekreas requirements.txt el requirements.in' \
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
-		'  make check           Purigas kaj kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
+		'  make check           Kontrolas YAML-skemojn kaj anglan Markdown-, HTML- kaj Anki-eligon' \
 		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
 		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
@@ -59,6 +61,11 @@ check:
 		&& test -f "$(NODE_MODULES)/typeahead.js/dist/typeahead.bundle.min.js" || { printf '%s\n' 'Mankas npm-dependecoj en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
 	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune, genanki'
 	@"$(PYTHON)" -m fonto.py.kontrolu_yaml
+	@test -x "$(YAML_SCHEMA_LINTER)" || { printf '%s\n' 'Mankas $(YAML_SCHEMA_LINTER). Rulu `make install` unue.' >&2; exit 1; }
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.json" enhavo/tradukenda/*/fasado/*.yml
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.json" enhavo/tradukenda/*/vortaro/*.yml
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku.schema.json" enhavo/tradukenda/*/ekzercoj/traduku/*.yml
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu.schema.json" enhavo/tradukenda/*/ekzercoj/traduku-kaj-respondu/*.yml
 	@$(MAKE) --no-print-directory clean
 	@mkdir -p "$(dir $(MD_OUT))"
 	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"

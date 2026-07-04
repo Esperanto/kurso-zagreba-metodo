@@ -12,7 +12,7 @@ FONTO_PWA_DIR = ROOT_DIR / 'fonto' / 'pwa'
 FONTO_LOGO_DIR = ROOT_DIR / 'fonto' / 'bildoj' / 'logo'
 CACHE_PREFIX = 'esperanto12'
 PWA_THEME_COLOR = '#212529'
-PWA_IMAGE_FILES = ('icon-192.png', 'icon-512.png')
+PWA_IMAGE_FILES = ('icon-192.png', 'icon-512.png', 'icon-maskable-512.png')
 
 # Komunaj (ne po-lingvaj) aktivoj, kiujn ĉiu lingva PWA bezonas por funkcii offline.
 KOMUNAJ_AKTIVOJ = (
@@ -88,6 +88,7 @@ def render_manifest(lingvo, fasado):
         'name': app_name(lingvo),
         'short_name': app_name(lingvo),
         'description': fasado['La plej rapida kurso por la bazoj'],
+        'id': '/' + lingvo + '/',
         'scope': '/' + lingvo + '/',
         'start_url': '/' + lingvo + '/',
         'display': 'standalone',
@@ -98,6 +99,7 @@ def render_manifest(lingvo, fasado):
         'icons': [
             {'src': '/pwa/images/icon-192.png', 'sizes': '192x192', 'type': 'image/png'},
             {'src': '/pwa/images/icon-512.png', 'sizes': '512x512', 'type': 'image/png'},
+            {'src': '/pwa/images/icon-maskable-512.png', 'sizes': '512x512', 'type': 'image/png', 'purpose': 'maskable'},
         ],
     }
     return json.dumps(manifest, ensure_ascii=False, indent=2)

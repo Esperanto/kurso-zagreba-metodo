@@ -1,8 +1,8 @@
-- Leert je de **500 belangrijkste woorden**
+- Je leert de **500 belangrijkste woorden**
 - **Gratis** en **zonder registratie**
-- Met [flashcarddeck]({{ url.kartaro }}) voor [Anki]({{ url.anki }})
+- Met een [flashcarddeck]({{ url.kartaro }}) voor [Anki]({{ url.anki }})
 
-Na de cursus zul je **de essentie begrijpen**, je eigen zinnen vormen en basisideeën kunnen communiceren in alledaagse situaties.
+Na de cursus zul je **de basis begrijpen**, je eigen zinnen vormen en eenvoudige ideeën kunnen overbrengen in alledaagse situaties.
 
 Probeer het gewoon!
 ____

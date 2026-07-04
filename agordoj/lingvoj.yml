@@ -19,6 +19,14 @@ be:
   aŭtoroj:
     - nomo: Roman Ralko
       github: EternaKrokodilanto
+bn:
+  nomo:
+    fontlingve: বাংলা
+    esperante: bengala
+  stato: testa
+  aŭtoroj:
+    - nomo: Onklo ENG
+      github: onklo
 ca:
   nomo:
     fontlingve: Català

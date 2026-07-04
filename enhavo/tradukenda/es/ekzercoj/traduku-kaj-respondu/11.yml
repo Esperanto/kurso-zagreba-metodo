@@ -1,10 +1,10 @@
 - 
-  demando: ¿Puedes traerte la medicina de mi hermana?
+  demando: ¿Puedes traer la medicina de mi hermana?
   rektatraduko: 
     - Ĉu: ¿
     - vi: Tú
     - povas: puedes
-    - kunporti: traerte
+    - kunporti: traer
     - la: la
     - sanigilon: medicina
     - de: de
@@ -30,7 +30,7 @@
     - ŝlosilon: llave
     - '?'
 - 
-  demando: ¿En Venecia fuiste también con góndola?
+  demando: ¿En Venecia fuiste también en góndola?
   rektatraduko: 
     - Ĉu: ¿
     - vi: Tú
@@ -38,7 +38,7 @@
     - Venecio: Venecia
     - veturis: fuiste
     - ankaŭ: también
-    - per: con
+    - per: en
     - gondolo: góndola
     - '?'
 - 

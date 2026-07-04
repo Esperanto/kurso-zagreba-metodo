@@ -42,12 +42,12 @@
     - tempo: tiempo
     - '?'
 - 
-  demando: ¿Viajas con el coche a París o mejor con el tren?
+  demando: ¿Vas a París en coche o mejor en tren?
   rektatraduko: 
     - Ĉu: ¿
     - vi: Tú
-    - vojaĝas: viajas
-    - per: con
+    - vojaĝas: vas
+    - per: en
     - la: el
     - aŭto: coche
     - al: a
@@ -55,18 +55,18 @@
     - aŭ: o
     - pli: más
     - bone: bien
-    - per: con
+    - per: en
     - la: el
     - vagonaro: tren
     - '?'
 - 
-  demando: ¿Por qué personas diferentes explican unas mismas ideas de manera diferente?
+  demando: ¿Por qué personas distintas explican las mismas ideas de maneras distintas?
   rektatraduko: 
     - Kial: Por qué
-    - diversaj: diferentes
+    - diversaj: distintas
     - homoj: personas
     - klarigas: explican
-    - samajn: unas mismas
+    - samajn: las mismas
     - ideojn: ideas
-    - diversmaniere: de manera diferente 
+    - diversmaniere: de maneras distintas
     - '?'

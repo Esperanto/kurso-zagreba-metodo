@@ -1,8 +1,8 @@
 - 
-  demando: ¿Quién va a ir a limpiar la cocina después de la comida?
+  demando: ¿Quién limpiará la cocina después de la comida?
   rektatraduko: 
     - Kiu: Quién
-    - purigos: va a ir a limpiar
+    - purigos: limpiará
     - la: la
     - kuirejon: cocina
     - post: después de
@@ -10,7 +10,7 @@
     - tagmanĝo: comida
     - '?'
 - 
-  demando: '¿Qué quieres beber: té, un poco de café o no quieres nada?'
+  demando: '¿Qué quieres beber: té, un poco de café o nada?'
   rektatraduko: 
     - Kion: Qué
     - vi: tú
@@ -29,7 +29,7 @@
     - nenion: nada
     - '?'
 - 
-  demando: ¿Por qué así de repente has decidido renovar tu habitación pequeña?
+  demando: ¿Por qué has decidido renovar tan de repente tu habitación pequeña?
   rektatraduko: 
     - Kial: Por qué
     - vi: tú
@@ -55,19 +55,19 @@
     - vino: vino
     - '?'
 - 
-  demando: ¿Contra quién jugó tu club de deporte hace dos semanas?
+  demando: ¿Contra quién jugó tu club deportivo hace dos semanas?
   rektatraduko: 
     - Kontraŭ: Contra
     - kiu: quién
     - ludis: jugó
     - via: tu
-    - sportklubo: club de deporte
+    - sportklubo: club deportivo
     - antaŭ: hace
     - du: dos
     - semajnoj: semanas
     - '?'
 - 
-  demando: ¿A menudo ves al policía que vive en el apartamento de arriba?
+  demando: ¿Ves a menudo al policía que vive en el apartamento de encima?
   rektatraduko: 
     - Ĉu: ¿
     - vi: Tú
@@ -81,6 +81,6 @@
     - en: en 
     - la: el
     - loĝejo: apartamento
-    - super: de arriba
+    - super: encima de
     - vi: tú
     - '?'

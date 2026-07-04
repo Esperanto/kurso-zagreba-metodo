@@ -4,8 +4,8 @@ afer:
 agrabl: agradable
 akcept: aceptar
 akv: agua
-ali: otro/a
-alt: alto/a
+ali: otro
+alt: alto
 am: amar
 amik: amigo
 arb: árbol
@@ -24,21 +24,21 @@ aŭt:
 aŭtoritat: autoridad
 bedaŭr: lamentar
 bel:
- - bonito/a
- - bello/a
- - lindo/a
+ - bonito
+ - bello
+ - lindo
 best: animal
 bezon: necesitar
 bien:
  - finca
  - terreno
-bon: bueno/a
+bon: bueno
 branĉ: rama
 bru: ruido
 buŝ: boca
 cert:
- - cierto/a
- - seguro/a
+ - cierto
+ - seguro
 dank: agradecer (a)
 daŭr: durar
 decid: decidir
@@ -90,7 +90,7 @@ form: forma
 fort: fuerte
 fot: fotografía
 frat: hermano
-fru: temprano/a
+fru: temprano
 fuŝ: hacer una chapuza
 gondol: góndola
 graf: conde
@@ -119,17 +119,19 @@ itali: Italia
 jar: año
 jun: joven
 kaf: café
-kalv: calvo/a
+kalv: calvo
 kap: cabeza
 kapabl: capaz
 kapt:
  - atrapar
  - capturar
-kar: querido/a
+kar: querido
 kastel: castillo
 kav: cavidad
-kelk: alguno/a/os/as
-kelner: camarero/a
+kelk:
+ - algún
+ - algunos
+kelner: camarero
 klar: claro
 klub: club
 knab: chico
@@ -170,7 +172,7 @@ leter: carta
 liber: libre
 libr: libro
 lok: lugar
-long: largo/a
+long: largo
 lud: jugar
 lum: luz
 man: mano
@@ -182,7 +184,7 @@ memor: recordar
 met:
  - poner
  - meter
-mez: medio/a
+mez: medio
 milit: guerra
 minut: minuto
 mir: maravillarse
@@ -194,11 +196,11 @@ montr:
  - enseñar
 mort: morir
 mov: mover
-mult: mucho/a
+mult: mucho
 muzik: música
 nask: parir
 natur: naturaleza
-neces: necesario/a
+neces: necesario
 nokt: noche
 nom: nombre
 not: nota
@@ -227,14 +229,14 @@ pens: pensar
 perd: perder
 person: persona
 pet: pedir
-pez: pesado/a
+pez: pesado
 pied: pie
 plac: plaza
 plan: plan
 plaĉ:
  - agradar
  - gustar
-plen: lleno/a
+plen: lleno
 polic: policía
 pord: puerta
 port:
@@ -248,15 +250,15 @@ pret:
  - preparado
 prezent: presentar
 problem: problema
-proksim: cercano/a
+proksim: cercano
 promen: pasear
 propon: proponer
 prov: intentar
 rajt: tener derecho (a)
-rapid: rápido/a
+rapid: rápido
 raport: informar
 real: real
-rekt: directo/a
+rekt: directo
 renkont: encontrarse (a)
 respekt: respetar
 respond: responder
@@ -264,16 +266,16 @@ rest: quedarse
 ricev: recibir
 rid: reír
 rigard: mirar
-riĉ: rico/a
+riĉ: rico
 rol: papel
-ruĝ: rojo/a
+ruĝ: rojo
 salt: saltar
 salut: saludo
-sam: mismo/a
-san: sano/a
-saĝ: sabio/a
+sam: mismo
+san: sano
+saĝ: sabio
 sci: saber
-sek: seco/a
+sek: seco
 sekret: secreto
 sekv: seguir
 semajn: semana
@@ -286,13 +288,13 @@ simil: similar
 sinjor: señor
 situaci: situación
 skrib: escribir
-sol: solo/a
+sol: solo
 son: sonido
 sovaĝ: salvaje
 sport: deporte
 star: permanecer de pie
 strat: calle
-subit: repentino/a
+subit: repentino
 sufiĉ:
  - suficiente
  - bastante
@@ -311,10 +313,10 @@ tim:
  - temer
  - tener miedo
 ton: nota
-trankvil: tranquilo/a
+trankvil: tranquilo
 trink: beber
 trov: encontrar
-turk: turco/a
+turk: turco
 tuŝ: tocar
 urb: ciudad
 util: útil
@@ -347,8 +349,8 @@ zorg:
 ĉef: jefe
 ĝen: molestar
 ĝeneral: general
-ĝoj: contento/a
-ĝust: correcto/a
+ĝoj: contento
+ĝust: correcto
 ĵet: lanzar
 ŝajn: parecer
 ŝanĝ: cambiar

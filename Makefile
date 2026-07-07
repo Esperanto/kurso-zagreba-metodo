@@ -1,4 +1,4 @@
-.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-ui check-pwa html html-all md serve clean
+.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-ui check-pwa html html-all md serve clean
 
 LINGVO ?= en
 HOST ?= 127.0.0.1
@@ -23,7 +23,8 @@ help:
 		'  make install-ui      Instalas Chromium por Playwright-testoj' \
 		'  make lock            Rekreas requirements.txt el requirements.in' \
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
-		'  make check           Kontrolas YAML-skemojn kaj anglan Markdown-, HTML- kaj Anki-eligon' \
+		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
+		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj' \
 		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
 		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
@@ -60,17 +61,20 @@ check:
 		&& test -f "$(NODE_MODULES)/jquery/dist/jquery.min.js" \
 		&& test -f "$(NODE_MODULES)/typeahead.js/dist/typeahead.bundle.min.js" || { printf '%s\n' 'Mankas npm-dependecoj en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
 	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune, genanki'
+	@$(MAKE) --no-print-directory clean
+	@mkdir -p "$(dir $(MD_OUT))"
+	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"
+	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"
+	@"$(PYTHON)" -m fonto.py.kontrolu_eligon --lingvo "$(CHECK_LINGVO)" --md-out "$(MD_OUT)" --output-dir "$(OUTPUT_DIR)"
+
+check-yaml:
+	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@"$(PYTHON)" -m fonto.py.kontrolu_yaml
 	@test -x "$(YAML_SCHEMA_LINTER)" || { printf '%s\n' 'Mankas $(YAML_SCHEMA_LINTER). Rulu `make install` unue.' >&2; exit 1; }
 	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.yml" enhavo/tradukenda/*/fasado/*.yml
 	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.yml" enhavo/tradukenda/*/vortaro/*.yml
 	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku/*.yml
 	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku-kaj-respondu/*.yml
-	@$(MAKE) --no-print-directory clean
-	@mkdir -p "$(dir $(MD_OUT))"
-	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"
-	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"
-	@"$(PYTHON)" -m fonto.py.kontrolu_eligon --lingvo "$(CHECK_LINGVO)" --md-out "$(MD_OUT)" --output-dir "$(OUTPUT_DIR)"
 
 check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }

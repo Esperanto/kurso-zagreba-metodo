@@ -92,6 +92,19 @@ Formataj konvencioj:
 - Aldonu nur vere akcepteblajn variantojn.
 - Ne aldonu tro vastajn sinonimojn, kiuj ŝanĝus la signifon.
 
+## Ekzerco 2 (`ekzercoj/traduku-kaj-respondu/*.yml`)
+
+- Plibonigu la kampojn `demando` tiel, ke ili sonu nature en la cellingvo.
+- Por `rektatraduko`, tamen konservu ĝin kiel **vort-post-vorta lernhelpa
+  mapo**, ne kiel natura frazo. La lernanto devas laŭ la cellingva vorto povi
+  rekoni, al kiu Esperanta vorto ĝi respondas.
+- Ne kunfandu apartajn Esperantajn vortojn en unu natura cellingva esprimo se
+  tio malklarigus la mapon. Ekz. traduku `Kiom` kaj `ofte` aparte anstataŭ
+  kunigi ilin al natura esprimo kiel "kiom ofte".
+- Ĉe prepozicioj elektu tradukon kiu montras la Esperantan funkcion, eĉ se la
+  natura frazo uzus alian prepozicion. Ekz. en hispana `rektatraduko` por `per`
+  taŭgas `por medio de`, ne la idioma prepozicio `en` el natura frazo.
+
 ## Fasado kaj lingva startpaĝo (`fasado/cxefpagxo.yml`)
 
 La lingva startpaĝo (`/${LINGVO}/`) uzas tekstojn el `fasado/cxefpagxo.yml`.

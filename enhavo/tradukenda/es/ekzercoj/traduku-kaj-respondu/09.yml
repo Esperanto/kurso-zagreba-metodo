@@ -4,8 +4,8 @@
     - Kio: Qué
     - povus: podría
     - plej: más
-    - ĝojigi: poner contentos
-    - viajn: a tus
+    - ĝojigi: alegrar
+    - viajn: tus
     - gepatrojn: padres
     - '?'
 - 
@@ -19,8 +19,8 @@
     - lecionoj: clases
     - irus: fueras
     - kun: con
-    - mi: migo
-    - en: a
+    - mi: mí
+    - en: en
     - la: el 
     - centron: centro
     - '!'
@@ -28,8 +28,8 @@
   demando: ¿Adónde te gustaría viajar si tuvieras suficiente dinero y tiempo?
   rektatraduko: 
     - Kien: Adónde
-    - vi: a ti
-    - dezirus: te gustaría
+    - vi: tú
+    - dezirus: desearías
     - vojaĝi: viajar
     - ',' 
     - se: si
@@ -42,31 +42,31 @@
     - tempo: tiempo
     - '?'
 - 
-  demando: ¿Viajas con el coche a París o mejor con el tren?
+  demando: ¿Viajas a París en auto o mejor en tren?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Acaso
     - vi: Tú
     - vojaĝas: viajas
-    - per: con
+    - per: por medio de
     - la: el
-    - aŭto: coche
+    - aŭto: auto
     - al: a
     - Parizo: París
     - aŭ: o
     - pli: más
     - bone: bien
-    - per: con
+    - per: por medio de
     - la: el
     - vagonaro: tren
     - '?'
 - 
-  demando: ¿Por qué personas diferentes explican unas mismas ideas de manera diferente?
+  demando: ¿Por qué personas distintas explican las mismas ideas de maneras distintas?
   rektatraduko: 
     - Kial: Por qué
-    - diversaj: diferentes
+    - diversaj: distintas
     - homoj: personas
     - klarigas: explican
-    - samajn: unas mismas
+    - samajn: mismas
     - ideojn: ideas
-    - diversmaniere: de manera diferente 
+    - diversmaniere: diversamente
     - '?'

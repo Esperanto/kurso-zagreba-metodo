@@ -1,7 +1,7 @@
 -
   demando: ¿Puedes aprender tranquilamente mientras alguien está cantando animadamente?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Acaso
     - vi: Tú
     - povas: puedes
     - trankvile: tranquilamente
@@ -9,7 +9,7 @@
     - ','
     - dum: mientras
     - iu: alguien
-    - ĝoje: animadamente
+    - ĝoje: alegremente
     - kantas: canta
     - '?'
 -
@@ -22,13 +22,13 @@
     - kaj: 'y'
     - kie: dónde
     - ni: nosotros
-    - revidos: nos volveremos a ver
-    - nin: el uno al otro
+    - revidos: veremos de nuevo
+    - nin: nos
     - '?'
 -
   demando: ¿Qué hora es ahora?
   rektatraduko: 
-    - Kioma: Qué
+    - Kioma: Qué número de
     - horo: hora
     - estas: es 
     - nun: ahora
@@ -36,12 +36,12 @@
 -
   demando: ¿Alguien te ayudó a abrir la puerta de la antigua casa?
   rektatraduko: 
-    - Ĉu: ¿
-    - iu: Alguien 
-    - helpis: te ayudó
+    - Ĉu: Acaso
+    - iu: alguien
+    - helpis: ayudó
     - al: a
     - vi: ti 
-    - malfermi: a abrir 
+    - malfermi: abrir
     - la: la 
     - pordon: puerta 
     - de: de
@@ -57,8 +57,8 @@
     - ne: "no"
     - havas: tienes
     - tempon: tiempo
-    - aŭskulti: de escucharme
-    - min: mí
+    - aŭskulti: escuchar
+    - min: me
     - pli: más
-    - longe: tiempo
+    - longe: largo
     - '?'

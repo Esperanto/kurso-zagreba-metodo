@@ -1,0 +1,25 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: Tradukenda traduku-kaj-respondu-ekzerco YAML
+type: array
+items:
+  type: object
+  required:
+    - demando
+    - rektatraduko
+  additionalProperties: false
+  properties:
+    demando:
+      type: string
+    rektatraduko:
+      type: array
+      minItems: 1
+      items:
+        anyOf:
+          - type: string
+          - type: object
+            minProperties: 1
+            maxProperties: 1
+            propertyNames:
+              minLength: 1
+            additionalProperties:
+              type: string

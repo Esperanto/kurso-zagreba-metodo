@@ -1,6 +1,6 @@
 // Konstruas la pakaĵojn per esbuild:
 //   dist/bundle.css  – Fira-Sans + Bootstrap + main.css + vortaro.css (+ files/)
-//   dist/bundle.js   – jQuery, Bootstrap, typeahead, main.js, vortaro.js
+//   dist/bundle.js   – jQuery, Bootstrap, typeahead, main.js, pwa-state.js, vortaro.js
 //   dist/hejmo.js    – la memstara skripto de la lingvo-startpaĝo
 //
 // La vendaj JS-dosieroj estas jam minigitaj kaj estas nur KUNMETITAJ (ne ESM-
@@ -38,8 +38,9 @@ async function minify(relative) {
   const result = await esbuild.transform(code, { minify: true, loader: 'js' });
   return result.code;
 }
-const [mainMin, vortaroMin, hejmoMin] = await Promise.all([
+const [mainMin, pwaStateMin, vortaroMin, hejmoMin] = await Promise.all([
   minify('fonto/js/main.js'),
+  minify('fonto/js/pwa-state.js'),
   minify('fonto/js/vortaro.js'),
   minify('fonto/js/hejmo.js'),
 ]);
@@ -53,7 +54,7 @@ const vendorRelatives = [
 const vendor = await Promise.all(
   vendorRelatives.map((relative) => readFile(path.join(nodeModules, relative), 'utf8')),
 );
-const bundleJs = [...vendor, mainMin, vortaroMin].join('\n;\n');
+const bundleJs = [...vendor, mainMin, pwaStateMin, vortaroMin].join('\n;\n');
 
 await writeFile(path.join(dist, 'bundle.js'), bundleJs);
 await writeFile(path.join(dist, 'hejmo.js'), hejmoMin);

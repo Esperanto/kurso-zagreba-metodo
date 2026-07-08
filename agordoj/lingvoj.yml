@@ -25,8 +25,8 @@ bn:
     esperante: bengala
   stato: testa
   aŭtoroj:
-    - nomo: Onklo ENG
-      github: onklo
+    - nomo: OpenAI
+      github: openai
 ca:
   nomo:
     fontlingve: Català
@@ -307,8 +307,8 @@ ne:
   stato: testa
   komentejo: 1
   aŭtoroj:
-    - nomo: Onklo ENG
-      github: onklo
+    - nomo: OpenAI
+      github: openai
 nl:
   nomo:
     fontlingve: Nederlands

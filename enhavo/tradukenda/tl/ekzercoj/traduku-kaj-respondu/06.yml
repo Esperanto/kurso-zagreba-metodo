@@ -1,67 +1,67 @@
-- demando: Do you want me to show you my newest book?
+- demando: Nais mo bang ipakita ko sa iyo ang pinakabago kong aklat?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - vi: ikaw
-  - deziras: wish
+  - deziras: nagnanais
   - ','
-  - ke: that
+  - ke: na
   - mi: ako
-  - montru: show
-  - al: papunta sa
+  - montru: ipakita
+  - al: sa
   - vi: ikaw
-  - mian: my
+  - mian: aking
   - plej: pinaka
-  - novan: new
-  - libron: book
+  - novan: bago
+  - libron: aklat
   - '?'
-- demando: What do you want for breakfast tomorrow?
+- demando: Ano ang gusto mong kainin sa almusal bukas?
   rektatraduko:
   - Kion: Ano
   - vi: ikaw
   - volas: gusto
   - morgaŭ: bukas
-  - matenmanĝi: eat breakfast
+  - matenmanĝi: mag-almusal
   - '?'
-- demando: When will Mark arrive, at five or at eight o'clock?
+- demando: Kailan darating si Marko, alas singko o alas otso?
   rektatraduko:
   - Kiam: Kailan
-  - Marko: Mark
-  - alvenos: will arrive
+  - Marko: Marko
+  - alvenos: darating
   - ','
-  - je: at
+  - je: sa
   - la: ang
-  - kvina: fifth
-  - aŭ: or
-  - je: at
+  - kvina: ikalima
+  - aŭ: o
+  - je: sa
   - la: ang
-  - oka: eighth
-  - horo: hour
+  - oka: ikawalo
+  - horo: oras
   - '?'
-- demando: When did you notice that the whole family calls me benefactor?
+- demando: Kailan mo napansin na tinatawag akong tagapagkabutihan ng buong pamilya?
   rektatraduko:
   - Kiam: Kailan
   - vi: ikaw
-  - rimarkis: did notice
+  - rimarkis: napansin
   - ','
-  - ke: that
+  - ke: na
   - la: ang
-  - tuta: whole
-  - familio: family
-  - nomas: calls
-  - min: me
-  - bonfarulo: benefactor
+  - tuta: buo
+  - familio: pamilya
+  - nomas: tumatawag
+  - min: ako
+  - bonfarulo: taong gumagawa ng mabuti
   - '?'
-- demando: Was the booklet which I sent you useful to you?
+- demando: Naging kapaki-pakinabang ba sa iyo ang maliit na aklat na ipinadala ko?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - la: ang
-  - libreto: booklet
+  - libreto: maliit na aklat
   - estis: ay noon
-  - utila: useful
-  - al: papunta sa
+  - utila: kapaki-pakinabang
+  - al: sa
   - vi: ikaw
   - ','
-  - kiun: which
+  - kiun: na
   - mi: ako
-  - sendis: sent
+  - sendis: nagpadala
   - '?'

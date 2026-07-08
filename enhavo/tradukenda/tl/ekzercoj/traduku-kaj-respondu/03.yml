@@ -1,72 +1,72 @@
-- demando: Do waiters in large hotels understand a lot of languages?
+- demando: Nakauunawa ba ng maraming wika ang mga weyter sa malalaking hotel?
   rektatraduko:
-  - Ĉu: Ba
-  - kelneroj: waiters
+  - Ĉu: ba
+  - kelneroj: mga weyter
   - en: sa loob ng
-  - grandaj: big
-  - hoteloj: hotels
-  - komprenas: understand
-  - multajn: many
-  - lingvojn: languages
+  - grandaj: malalaki
+  - hoteloj: mga hotel
+  - komprenas: umuunawa
+  - multajn: marami
+  - lingvojn: mga wika
   - '?'
-- demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+- demando: Alam mo ba na gusto ni Anna ang bagong kanta tungkol sa isang mahirap na lalaki at magandang babae?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - vi: ikaw
-  - scias: know
+  - scias: alam
   - ','
   - ĉu: ba
   - Anna: Anna
   - ŝatas: gusto
   - la: ang
-  - novan: new
-  - kanton: song
+  - novan: bago
+  - kanton: kanta
   - pri: tungkol sa
-  - malriĉulo: a poor man
-  - kaj: and
-  - belulino: a beautiful girl
+  - malriĉulo: taong mahirap
+  - kaj: at
+  - belulino: magandang babae
   - '?'
-- demando: Where did you see an old man and a young man who were carrying a large table?
+- demando: Saan mo nakita ang matandang lalaki at ang binatang nagdadala ng malaking mesa?
   rektatraduko:
   - Kie: Saan
   - vi: ikaw
   - vidis: nakakita
   - la: ang
-  - maljunulon: old man
-  - kaj: and
+  - maljunulon: matandang lalaki
+  - kaj: at
   - la: ang
-  - junulon: young man
+  - junulon: binata
   - ','
-  - kiuj: who
-  - portis: were carrying
+  - kiuj: na mga
+  - portis: nagdala
   - grandan: malaki
-  - tablon: table
+  - tablon: mesa
   - '?'
-- demando: How did it happen that you again came to us without brothers-and-sisters?
+- demando: Paano nangyari na muli kang dumating sa amin nang walang mga kapatid?
   rektatraduko:
   - Kiel: Paano
-  - okazis: did it happen
+  - okazis: nangyari
   - ','
-  - ke: that
+  - ke: na
   - vi: ikaw
-  - denove: again
+  - denove: muli
   - venis: dumating
   - al: papunta sa
-  - ni: kami
+  - ni: amin
   - sen: walang
-  - gefratoj: brothers-and-sisters
+  - gefratoj: mga kapatid
   - '?'
-- demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+- demando: Matututuhan mo ba ang Esperanto nang sapat na mabilis sa tulong ng bagong aklat-aralin?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - vi: ikaw
   - povas: maaari
   - per: sa pamamagitan ng
   - la: ang
   - nova: bago
   - lernolibro: aklat-aralin
-  - sufiĉe: quite
+  - sufiĉe: sapat
   - rapide: mabilis
-  - lerni: learn
+  - lerni: matuto
   - Esperanton: Esperanto
   - '?'

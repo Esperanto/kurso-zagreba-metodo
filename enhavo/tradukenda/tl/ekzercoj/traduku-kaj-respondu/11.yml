@@ -1,49 +1,49 @@
-- demando: Can you bring along my sister's medicine?
+- demando: Maaari mo bang dalhin ang gamot ng kapatid kong babae?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - vi: ikaw
   - povas: maaari
-  - kunporti: bring along
+  - kunporti: magdala
   - la: ang
-  - sanigilon: medicine
+  - sanigilon: gamot
   - de: ng
   - mia: aking
   - fratino: kapatid na babae
   - '?'
-- demando: When did you buy that musical instrument?
+- demando: Kailan mo binili ang instrumentong pangmusika na iyon?
   rektatraduko:
   - Kiam: Kailan
   - vi: ikaw
-  - aĉetis: did buy
-  - tiun: that
-  - muzikilon: musical instrument
+  - aĉetis: bumili
+  - tiun: iyon
+  - muzikilon: instrumentong pangmusika
   - '?'
-- demando: Who used my key the last time?
+- demando: Sino ang huling gumamit ng susi ko?
   rektatraduko:
   - Kiu: Sino
-  - laste: last time
-  - uzis: used
-  - mian: my
-  - ŝlosilon: key
+  - laste: sa huli
+  - uzis: gumamit
+  - mian: aking
+  - ŝlosilon: susi
   - '?'
-- demando: Did you travel in Venice also by gondola?
+- demando: Naglakbay ka rin ba sa Venecia sa pamamagitan ng gondola?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - vi: ikaw
   - en: sa loob ng
-  - Venecio: Venice
-  - veturis: did travel
+  - Venecio: Venecia
+  - veturis: bumiyahe
   - ankaŭ: din
   - per: sa pamamagitan ng
   - gondolo: gondola
   - '?'
-- demando: Will you be able to fall asleep when it becomes quiet?
+- demando: Makakatulog ka ba kapag naging tahimik?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - vi: ikaw
-  - povos: will be able
-  - ekdormi: to fall asleep
+  - povos: makakaya
+  - ekdormi: makatulog
   - ','
-  - kiam: when
-  - silentiĝis: became quiet
+  - kiam: kapag
+  - silentiĝis: tumahimik
   - '?'

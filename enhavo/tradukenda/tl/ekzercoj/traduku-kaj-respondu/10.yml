@@ -1,47 +1,47 @@
-- demando: Does friendship make you more happy than love does?
+- demando: Mas nagpapasaya ba sa iyo ang pagkakaibigan kaysa pag-ibig?
   rektatraduko:
-  - Ĉu: Ba
-  - amikeco: friendship
+  - Ĉu: ba
+  - amikeco: pagkakaibigan
   - pli: mas
-  - feliĉigas: makes happy
-  - vin: you
-  - ol: than
+  - feliĉigas: nagpapasaya
+  - vin: ikaw
+  - ol: kaysa
   - la: ang
-  - amo: love
+  - amo: pag-ibig
   - '?'
-- demando: How often do you write letters to your girlfriends in Italy?
+- demando: Gaano kadalas ka sumusulat ng mga liham sa iyong mga kaibigang babae sa Italya?
   rektatraduko:
   - Kiel: Paano
-  - ofte: madalas
+  - ofte: kadalas
   - vi: ikaw
   - skribas: sumusulat
-  - leterojn: letters
-  - al: papunta sa
+  - leterojn: mga liham
+  - al: sa
   - viaj: iyong mga
-  - amikinoj: female friends
+  - amikinoj: mga kaibigang babae
   - en: sa loob ng
-  - Italio: Italy
+  - Italio: Italya
   - '?'
-- demando: Has the relationship between you and your teacher changed?
+- demando: Nagbago ba ang ugnayan sa pagitan mo at ng iyong guro?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - la: ang
-  - rilato: relationship
+  - rilato: ugnayan
   - inter: sa pagitan ng
   - vi: ikaw
-  - kaj: and
+  - kaj: at
   - via: iyong
   - instruisto: guro
-  - ŝanĝiĝis: changed
+  - ŝanĝiĝis: nagbago
   - '?'
-- demando: Do you now already know Esperanto well enough?
+- demando: Alam mo na ba ngayon ang Esperanto nang sapat na mabuti?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - vi: ikaw
   - nun: ngayon
   - jam: na
-  - scias: know
+  - scias: alam
   - Esperanton: Esperanto
-  - sufiĉe: enough
+  - sufiĉe: sapat
   - bone: mabuti
   - '?'

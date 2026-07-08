@@ -1,48 +1,48 @@
-- demando: What was your old home like?
+- demando: Ano ang dating ng iyong lumang tahanan?
   rektatraduko:
   - Kia: Anong uri
   - estis: ay noon
   - via: iyong
   - malnova: luma
-  - hejmo: home
+  - hejmo: tahanan
   - '?'
-- demando: Which books did you read, and were they good?
+- demando: Aling mga aklat ang binasa mo, at mabuti ba ang mga iyon?
   rektatraduko:
-  - Kiujn: Which
-  - librojn: books
+  - Kiujn: Alin-alin
+  - librojn: mga aklat
   - vi: ikaw
   - legis: bumasa
-  - kaj: and
+  - kaj: at
   - ĉu: ba
   - ili: sila
   - estas: ay
-  - bonaj: good
+  - bonaj: mabubuti
   - '?'
-- demando: What did Anna and Mark do in Marks little room?
+- demando: Ano ang ginawa nina Anna at Marko sa maliit na silid ni Marko?
   rektatraduko:
   - Kion: Ano
   - faris: gumawa
   - Anna: Anna
-  - kaj: and
-  - Marko: Mark
+  - kaj: at
+  - Marko: Marko
   - en: sa loob ng
   - la: ang
   - malgranda: maliit
   - ĉambro: silid
   - de: ng
-  - Marko: Mark
+  - Marko: Marko
   - '?'
-- demando: Do you like reading books about love?
+- demando: Gusto mo bang magbasa ng mga aklat tungkol sa pag-ibig?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - vi: ikaw
   - ŝatas: gusto
-  - legi: to read
-  - librojn: books
+  - legi: bumasa
+  - librojn: mga aklat
   - pri: tungkol sa
-  - amo: love
+  - amo: pag-ibig
   - '?'
-- demando: Who will go with you to your home?
+- demando: Sino ang pupunta kasama mo sa iyong tahanan?
   rektatraduko:
   - Kiu: Sino
   - iros: pupunta
@@ -50,14 +50,14 @@
   - vi: ikaw
   - al: papunta sa
   - via: iyong
-  - hejmo: home
+  - hejmo: tahanan
   - '?'
-- demando: What are your girl-friend's eyes like?
+- demando: Ano ang dating ng mga mata ng iyong kaibigang babae?
   rektatraduko:
   - Kiaj: Anong uri
   - estas: ay
   - la: ang
-  - okuloj: eyes
+  - okuloj: mga mata
   - de: ng
   - via: iyong
   - amikino: kaibigang babae

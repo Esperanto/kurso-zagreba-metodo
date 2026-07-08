@@ -1,70 +1,70 @@
-- demando: What could delight your parents most of all?
+- demando: Ano ang maaaring magpasaya nang higit sa lahat sa iyong mga magulang?
   rektatraduko:
   - Kio: Ano
-  - povus: could
+  - povus: maaaring
   - plej: pinaka
-  - ĝojigi: delight
-  - viajn: your
-  - gepatrojn: parents
+  - ĝojigi: magpasaya
+  - viajn: iyong mga
+  - gepatrojn: mga magulang
   - '?'
-- demando: If only you wanted to go to the city center after school!
+- demando: Sana man lang gusto mong pumunta kasama ko sa sentro ng lungsod pagkatapos ng pag-aaral!
   rektatraduko:
-  - Se: If
-  - almenaŭ: at least (if only)
+  - Se: Kung
+  - almenaŭ: kahit man lang
   - vi: ikaw
   - post: pagkatapos ng
   - la: ang
-  - lernado: learning
-  - irus: would go
+  - lernado: pag-aaral
+  - irus: pupunta sana
   - kun: kasama
   - mi: ako
   - en: sa loob ng
   - la: ang
-  - urbocentron: city center
+  - urbocentron: sentro ng lungsod
   - '!'
-- demando: Where would you like to travel to if you had enough money and time?
+- demando: Saan mo nanaising maglakbay kung mayroon kang sapat na pera at panahon?
   rektatraduko:
-  - Kien: Patungong saan
+  - Kien: Papunta saan
   - vi: ikaw
-  - dezirus: would wish
-  - vojaĝi: to travel
+  - dezirus: nanaisin
+  - vojaĝi: maglakbay
   - ','
-  - se: if
+  - se: kung
   - vi: ikaw
-  - havus: would have
-  - sufiĉe: enough
-  - da: of
+  - havus: magkakaroon sana
+  - sufiĉe: sapat
+  - da: ng
   - mono: pera
-  - kaj: and
+  - kaj: at
   - tempo: panahon
   - '?'
-- demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+- demando: Balak mo bang maglakbay sa Paris sakay ng kotse, o hindi ba mukhang mas mabuti sa tren?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - vi: ikaw
-  - planas: plan
-  - veturi: to travel
+  - planas: nagpaplano
+  - veturi: bumiyahe
   - al: papunta sa
   - Parizo: Paris
   - per: sa pamamagitan ng
-  - aŭto: car
-  - aŭ: or
+  - aŭto: kotse
+  - aŭ: o
   - ĉu: ba
   - ne: hindi
-  - ŝajnas: seem
+  - ŝajnas: tila
   - multe: marami
   - pli: mas
   - bone: mabuti
   - per: sa pamamagitan ng
-  - vagonaro: train
+  - vagonaro: tren
   - '?'
-- demando: Why do different people explain identical ideas differently?
+- demando: Bakit magkakaibang ipinapaliwanag ng iba't ibang tao ang parehong mga ideya?
   rektatraduko:
   - Kial: Bakit
-  - diversaj: different
+  - diversaj: iba't iba
   - homoj: mga tao
-  - klarigas: explain
-  - samajn: identical
-  - ideojn: ideas
-  - diversmaniere: differently
+  - klarigas: nagpapaliwanag
+  - samajn: pareho
+  - ideojn: mga ideya
+  - diversmaniere: sa iba't ibang paraan
   - '?'

@@ -1,21 +1,21 @@
-- demando: When am I going to see you again?
+- demando: Kailan kita makikitang muli?
   rektatraduko:
   - Kiam: Kailan
   - mi: ako
-  - revidos: am going to see again
-  - vin: you
+  - revidos: makikitang muli
+  - vin: ikaw
   - '?'
-- demando: How long have you been learning the international language?
+- demando: Gaano ka na katagal nag-aaral ng internasyonal na wika?
   rektatraduko:
   - Kiel: Paano
-  - longe: long
+  - longe: katagal
   - vi: ikaw
   - lernas: nag-aaral
   - la: ang
-  - Internacian: international
-  - Lingvon: language
+  - Internacian: internasyonal
+  - Lingvon: wika
   - '?'
-- demando: Where is my new book with photographs?
+- demando: Nasaan ang bago kong aklat na may mga litrato?
   rektatraduko:
   - Kie: Saan
   - estas: ay
@@ -23,45 +23,45 @@
   - nova: bago
   - libro: aklat
   - kun: kasama
-  - fotoj: photographs
+  - fotoj: mga litrato
   - '?'
-- demando: Where (where-to) will you go after lunch?
+- demando: Saan ka pupunta pagkatapos ng tanghalian?
   rektatraduko:
-  - Kien: Patungong saan
+  - Kien: Papunta saan
   - vi: ikaw
   - iros: pupunta
   - post: pagkatapos ng
   - la: ang
-  - tagmanĝo: lunch
+  - tagmanĝo: tanghalian
   - '?'
-- demando: Can one close the door of the room when it is cold?
+- demando: Maaari bang isara ang pinto ng silid kapag malamig?
   rektatraduko:
-  - Ĉu: Ba
+  - Ĉu: ba
   - oni: ang isa
   - povas: maaari
-  - fermi: close
+  - fermi: isara
   - la: ang
-  - pordon: door
+  - pordon: pinto
   - de: ng
   - la: ang
   - ĉambro: silid
   - ','
-  - kiam: when
+  - kiam: kapag
   - estas: ay
-  - malvarme: cold
+  - malvarme: malamig
   - '?'
-- demando: How long are you angry for if people take a lot of money from you?
+- demando: Gaano ka katagal nagagalit kung kumukuha ang mga tao ng maraming pera mula sa iyo?
   rektatraduko:
   - Kiel: Paano
-  - longe: long
+  - longe: katagal
   - vi: ikaw
-  - koleras: are angry
+  - koleras: nagagalit
   - ','
-  - se: if
+  - se: kung
   - oni: ang isa
-  - forprenas: takes away
-  - de: ng
+  - forprenas: kumukuha palayo
+  - de: mula sa
   - vi: ikaw
-  - multan: a lot of
-  - monon: money
+  - multan: marami
+  - monon: pera
   - '?'

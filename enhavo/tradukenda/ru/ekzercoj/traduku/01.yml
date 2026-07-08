@@ -1,7 +1,9 @@
 - amikino: подруга
 - labortablo: рабочий стол
 - esperantistino: эсперантистка
-- instruisto: учитель
+- instruisto:
+  - учитель
+  - преподаватель
 - hotelĉambro:
   - гостиничная комната
   - гостиничный номер
@@ -10,4 +12,6 @@
   - записать
 - skribotablo: письменный стол
 - lingvisto: лингвист
-- laboristino: рабочая
+- laboristino:
+  - рабочая
+  - работница

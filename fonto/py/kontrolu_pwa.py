@@ -40,73 +40,115 @@ def load_precache_urls(service_worker_path):
     return set(urls), text
 
 
-def check_manifest(output_dir, precache_urls):
-    manifest_path = output_dir / 'manifest.webmanifest'
+def check_manifest(output_dir, lingvo, precache_urls):
+    manifest_path = output_dir / lingvo / 'manifest.webmanifest'
     require_nonempty_file(manifest_path)
     try:
         manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
     except json.JSONDecodeError as error:
-        fail('manifest.webmanifest ne estas valida JSON: ' + str(error))
+        fail(str(manifest_path) + ' ne estas valida JSON: ' + str(error))
 
-    require(manifest.get('scope') == '/', 'manifest scope ne estas /')
-    require(manifest.get('start_url') == '/', 'manifest start_url ne estas /')
+    scope = '/' + lingvo + '/'
+    require(manifest.get('scope') == scope, 'manifest scope ne estas ' + scope)
+    require(manifest.get('start_url') == scope, 'manifest start_url ne estas ' + scope)
     require(manifest.get('display') == 'standalone', 'manifest display ne estas standalone')
+    require(manifest.get('name') == pwa.app_name(lingvo), 'manifest nomo ne estas ' + pwa.app_name(lingvo))
+    require(manifest.get('short_name') == pwa.app_name(lingvo), 'manifest short_name ne estas ' + pwa.app_name(lingvo))
+    require(manifest.get('theme_color') == pwa.PWA_THEME_COLOR, 'manifest theme_color estas malĝusta')
     icons = manifest.get('icons')
     require(isinstance(icons, list) and icons, 'manifest ne enhavas ikonojn')
-
     for icon in icons:
         src = icon.get('src')
         require(src and src.startswith('/'), 'ikono ne havas radikan src')
-        icon_path = output_dir / src.lstrip('/')
-        require_nonempty_file(icon_path)
+        require_nonempty_file(output_dir / src.lstrip('/'))
         require(src in precache_urls, 'ikono mankas en precache: ' + src)
 
 
-def check_precache_completeness(output_dir, precache_urls):
-    expected_urls = set(pwa.collect_precache_urls(output_dir))
-    missing = sorted(expected_urls - precache_urls)
-    unexpected = sorted(precache_urls - expected_urls)
+def check_registration(output_dir, lingvo):
+    index_path = output_dir / lingvo / 'index.html'
+    require_nonempty_file(index_path)
+    text = index_path.read_text(encoding='utf-8')
+    require(
+        'rel="manifest" href="/' + lingvo + '/manifest.webmanifest"' in text,
+        'la starta paĝo ne ligas la manifeston: ' + lingvo,
+    )
+    require(
+        "navigator.serviceWorker.register('/" + lingvo + "/sw.js')" in text,
+        'la starta paĝo ne registras la service worker: ' + lingvo,
+    )
+    require(
+        '<meta name="theme-color" content="' + pwa.PWA_THEME_COLOR + '" />' in text,
+        'la starta paĝo ne havas ĝustan PWA-koloron: ' + lingvo,
+    )
+    require(
+        "document.documentElement.classList.add('pwa-standalone')" in text,
+        'la starta paĝo ne markas iOS-standalone-reĝimon: ' + lingvo,
+    )
+    require(
+        'navbar-lingvoelektilo pwa-standalone-kasxita' in text,
+        'la supra lingvoelektilo ne estas kaŝebla en PWA-kunteksto: ' + lingvo,
+    )
+    require(
+        'lingva-startpagxo-lingvoelektilo pwa-standalone-kasxita' in text,
+        'la startpaĝa lingvoelektilo ne estas kaŝebla en PWA-kunteksto: ' + lingvo,
+    )
+
+
+def check_key_pages(output_dir, lingvo, precache_urls):
+    required = [
+        '/' + lingvo + '/index.html',
+        '/' + lingvo + '/01/index.html',
+        '/' + lingvo + '/01/gramatiko/index.html',
+        '/' + lingvo + '/12/ekzerco3/index.html',
+        '/' + lingvo + '/tabelvortoj/index.html',
+        '/' + lingvo + '/js/vortlisto.js',
+        '/' + lingvo + '/manifest.webmanifest',
+        '/assets/bundle.css',
+        '/assets/bundle.js',
+    ]
+    for url in required:
+        require_nonempty_file(output_dir / url.lstrip('/'))
+        require(url in precache_urls, 'mankas ŝlosila URL en precache: ' + url)
+
+    # La granda Anki-eksporto NE estu en la offline-listo.
+    apkg = '/' + lingvo + '/eksporto/' + lingvo + '.apkg'
+    require(apkg not in precache_urls, 'la Anki-eksporto ne estu en precache: ' + apkg)
+
+
+def check_precache_completeness(output_dir, lingvo, precache_urls):
+    expected = set(pwa.collect_precache_urls(output_dir, lingvo))
+    missing = sorted(expected - precache_urls)
+    unexpected = sorted(precache_urls - expected)
     if missing:
-        fail('mankas ' + str(len(missing)) + ' dosieroj en precache, ekzemple: ' + ', '.join(missing[:10]))
+        fail('mankas ' + str(len(missing)) + ' dosieroj en precache, ekz.: ' + ', '.join(missing[:10]))
     if unexpected:
-        fail('precache enhavas nekonatajn URL-ojn, ekzemple: ' + ', '.join(unexpected[:10]))
+        fail('precache enhavas nekonatajn URL-ojn, ekz.: ' + ', '.join(unexpected[:10]))
+    for url in precache_urls:
+        require_nonempty_file(output_dir / url.lstrip('/'))
 
 
-def check_languages(output_dir, lingvoj, precache_urls):
-    for lingvo in lingvoj:
-        required_urls = [
-            '/' + lingvo + '/index.html',
-            '/' + lingvo + '/01/index.html',
-            '/' + lingvo + '/01/gramatiko/index.html',
-            '/' + lingvo + '/js/vortlisto.js',
-            '/' + lingvo + '/eksporto/' + lingvo + '.apkg',
-        ]
-        for url in required_urls:
-            require_nonempty_file(output_dir / url.lstrip('/'))
-            require(url in precache_urls, 'mankas lingva URL en precache: ' + url)
+def check_language_pwa(output_dir, lingvo):
+    sw_path = output_dir / lingvo / 'sw.js'
+    require_nonempty_file(sw_path)
+    precache_urls, sw_text = load_precache_urls(sw_path)
+    require('CACHE_NAME' in sw_text, 'mankas CACHE_NAME en service worker: ' + lingvo)
+    check_manifest(output_dir, lingvo, precache_urls)
+    check_registration(output_dir, lingvo)
+    check_key_pages(output_dir, lingvo, precache_urls)
+    check_precache_completeness(output_dir, lingvo, precache_urls)
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--output-dir', required=True)
-    parser.add_argument('--lingvoj', nargs='+', required=True)
     args = parser.parse_args()
 
     output_dir = Path(args.output_dir)
-    service_worker_path = output_dir / 'sw.js'
-    require_nonempty_file(service_worker_path)
-    require_nonempty_file(output_dir / 'pwa' / 'registru.js')
+    require(pwa.PWA_LINGVOJ, 'neniu PWA-lingvo agordita')
+    for lingvo in pwa.PWA_LINGVOJ:
+        check_language_pwa(output_dir, lingvo)
 
-    precache_urls, service_worker_text = load_precache_urls(service_worker_path)
-    require('CACHE_NAME' in service_worker_text, 'mankas CACHE_NAME en service worker')
-    require('/manifest.webmanifest' in precache_urls, 'manifest mankas en precache')
-    require('/pwa/registru.js' in precache_urls, 'registrilo mankas en precache')
-
-    check_manifest(output_dir, precache_urls)
-    check_languages(output_dir, args.lingvoj, precache_urls)
-    check_precache_completeness(output_dir, precache_urls)
-
-    print('Sukcesis: kontrolis PWA-on kaj offline-liston por ' + str(len(args.lingvoj)) + ' lingvoj')
+    print('Sukcesis: kontrolis la PWA-ojn por ' + ', '.join(pwa.PWA_LINGVOJ))
 
 
 if __name__ == '__main__':

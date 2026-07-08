@@ -1,15 +1,24 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{enhavo.lingvo}}" dir="ltr">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>{% block title %} {% endblock %}</title>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://e12.goatcounter.com; font-src 'self'; connect-src 'self' https://e12.goatcounter.com; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'self'" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    {% if seo.noindex %}
+      <meta name="robots" content="noindex, follow" />
+    {% endif %}
+    <meta name="description" content="{{seo.meta_description|e}}" />
+    <link rel="canonical" href="{{seo.canonical_url}}" />
+    {% for alterna in seo.alternaj_ligiloj %}
+      <link rel="alternate" hreflang="{{alterna.hreflang}}" href="{{alterna.url}}" />
+    {% endfor %}
+    <meta property="og:image" content="{{enhavo.og_bildo_url}}" />
+    <title>{% filter normaligu_spacojn %}{% block title %}{% endblock %}{% endfilter %}</title>
 
-    <link href="/vendor/fira-sans/400.css" rel="stylesheet" />
-    <link href="/vendor/fira-sans/700.css" rel="stylesheet" />
-    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" href="/favicon-120x120.png" type="image/png" sizes="120x120" />
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link
       rel="icon"
@@ -24,8 +33,16 @@
       href="/assets/img/logo/favicon-16x16.png"
     />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link href="{{vojprefikso}}../assets/css/main.css?versio={{enhavo.versio}}" rel="stylesheet" />
-    <link href="{{vojprefikso}}../assets/css/vortaro.css?versio={{enhavo.versio}}" rel="stylesheet" />
+    {% if enhavo.havas_pwa %}
+      <link rel="manifest" href="/{{enhavo.lingvo}}/manifest.webmanifest" />
+      <meta name="theme-color" content="{{enhavo.pwa_theme_color}}" />
+      <script>
+        if (navigator.standalone === true) {
+          document.documentElement.classList.add('pwa-standalone');
+        }
+      </script>
+    {% endif %}
+    <link href="{{vojprefikso}}../assets/bundle.css?versio={{enhavo.versio}}" rel="stylesheet" />
   </head>
   <body>
     <nav class="navbar navbar-dark bg-dark">
@@ -46,47 +63,7 @@
             {% include 'vortaro.html' %}
           </form>
 
-          <div class="dropdown">
-            <button
-              class="btn btn-dark navbar-ikona-butono dropdown-toggle"
-              type="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-              aria-label="{{enhavo.fasado['Aldono']}}"
-              title="{{enhavo.fasado['Aldono']}}"
-            >
-              📎
-            </button>
-            <ul class="dropdown-menu dropdown-menu-end">
-              <li>
-                <a class="dropdown-item" href="{{vojprefikso}}tabelvortoj">
-                  {{enhavo.fasado['Tabelvortoj']}}
-                </a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="{{vojprefikso}}prepozicioj">
-                  {{enhavo.fasado['Prepozicioj']}}
-                </a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="{{vojprefikso}}konjunkcioj">
-                  {{enhavo.fasado['Konjunkcioj']}}
-                </a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="{{vojprefikso}}afiksoj">
-                  {{enhavo.fasado['Afiksoj']}}
-                </a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="{{vojprefikso}}diversajxoj">
-                  {{enhavo.fasado['Diversaĵoj']}}
-                </a>
-              </li>
-            </ul>
-          </div>
-
-          <div class="dropdown">
+          <div class="dropdown navbar-lingvoelektilo{% if enhavo.havas_pwa %} pwa-standalone-kasxita{% endif %}">
             <button
               class="btn btn-dark navbar-ikona-butono dropdown-toggle"
               type="button"
@@ -134,8 +111,8 @@
       <div class="container">
         <div class="kurso-reklamo">
           Reklamo: Venu al la
-          <a target="_blank" href="https://www.uea.org/kongresoj">Universala Kongreso</a>
-          en Aŭstrio, 1–8 aŭg. 2026
+          <a href="https://www.uea.org/kongresoj" target="_blank" rel="noopener">Universala Kongreso</a>
+          en 🇦🇹 Aŭstrio, 1–8 aŭg. 2026
         </div>
       </div>
     {% endif %}
@@ -151,13 +128,13 @@
     <footer class="footer">
       <div class="container footer-kolumnoj">
         <div class="footer-listo">
-          <a class="footer-licenco" href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md">
+          <a class="footer-licenco" href="https://github.com/Esperanto/kurso-zagreba-metodo/blob/master/PERMESILO.md" target="_blank" rel="noopener">
             <img src="/assets/img/cc-by.svg" alt="">
             <span>Krea komunaĵo</span>
           </a>
           <span>
             Surbaze de la
-            <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo">Zagreba metodo</a>
+            <a href="https://eo.wikipedia.org/wiki/Zagreba_metodo" target="_blank" rel="noopener">Zagreba metodo</a>
           </span>
           <span class="footer-subteno">
             <img class="footer-uea" src="/assets/img/uea.png" alt="" />
@@ -173,32 +150,32 @@
           <a href="{{vojprefikso}}auxtoroj/">Kontribuantoj</a>
           <a
             href="https://github.com/Esperanto/kurso-zagreba-metodo/tree/master/KONTRIBUADO.md"
+            target="_blank"
+            rel="noopener"
             >Kontribuu</a
           >
+          {% for redakta_ligilo in redaktaj_ligiloj|default([]) %}
+            <a href="{{redakta_ligilo.url}}" target="_blank" rel="noopener">{{redakta_ligilo.teksto}}</a>
+          {% endfor %}
         </div>
         <div class="footer-listo">
-          <a href="https://jaehnig.org/impressum/">Kontakto</a>
-          <a href="https://jaehnig.org/privacy">Privateco</a>
+          <a href="https://jaehnig.org/impressum/" target="_blank" rel="noopener">Kontakto</a>
+          <a href="https://jaehnig.org/privacy" target="_blank" rel="noopener">Privateco</a>
           <span class="versio">⏱︎ Versio: {{enhavo.versio}}</span>
         </div>
       </div>
     </footer>
 
-    <script src="/vendor/jquery/jquery.min.js"></script>
-    <script src="/vendor/jquery/jquery-ui.min.js"></script>
-    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <script src="/vendor/typeahead/typeahead.bundle.min.js"></script>
-
-    <script src="{{vojprefikso}}../assets/js/main.js?versio={{enhavo.versio}}"></script>
+    <!-- vortlisto.js (po-lingve generita) devas ŝargiĝi antaŭ bundle.js,
+         ĉar vortaro.js en la pakaĵo legas la globalan variablon `vortlisto`. -->
     <script src="{{vojprefikso}}js/vortlisto.js?versio={{enhavo.versio}}"></script>
-    <script src="{{vojprefikso}}../assets/js/vortaro.js?versio={{enhavo.versio}}"></script>
+    <script src="{{vojprefikso}}../assets/bundle.js?versio={{enhavo.versio}}"></script>
 
     <!-- 100% privacy-first analytics -->
     <script
       data-goatcounter="https://e12.goatcounter.com/count"
       async
-      src="//gc.zgo.at/count.js"
+      src="https://gc.zgo.at/count.js"
     ></script>
     <script>
       document.addEventListener('click', function(event) {
@@ -213,5 +190,16 @@
           }
       });
     </script>
+    {% if enhavo.havas_pwa %}
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('/{{enhavo.lingvo}}/sw.js').catch(function (error) {
+            console.warn('Ne eblis registri la service worker.', error);
+          });
+        });
+      }
+    </script>
+    {% endif %}
   </body>
 </html>

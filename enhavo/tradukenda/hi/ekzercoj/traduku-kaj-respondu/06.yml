@@ -1,72 +1,72 @@
-- 
-  demando: Do you want me to show you my newest book?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
-    - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+-
+  demando: क्या तुम चाहते हो कि मैं तुम्हें अपनी सबसे नई किताब दिखाऊँ?
+  rektatraduko:
+    - Ĉu: क्या
+    - vi: तुम
+    - deziras: चाहते हो
+    - ','
+    - ke: कि
+    - mi: मैं
+    - montru: दिखाऊँ
+    - al: को
+    - vi: तुम
+    - mian: मेरी
+    - plej: सबसे
+    - novan: नई
+    - libron: किताब
     - '?'
-- 
-  demando: What do you want for breakfast tomorrow?
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+-
+  demando: कल नाश्ते में तुम क्या खाना चाहते हो?
+  rektatraduko:
+    - Kion: क्या
+    - vi: तुम
+    - volas: चाहते हो
+    - morgaŭ: कल
+    - matenmanĝi: नाश्ता करना
     - '?'
-- 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
-  rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
-    - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+-
+  demando: मार्को कब आएगा, पाँच बजे या आठ बजे?
+  rektatraduko:
+    - Kiam: कब
+    - Marko: मार्को
+    - alvenos: आएगा
+    - ','
+    - je: बजे
+    - la: निश्चित उपपद
+    - kvina: पाँचवीं
+    - aŭ: या
+    - je: बजे
+    - la: निश्चित उपपद
+    - oka: आठवीं
+    - horo: घड़ी
     - '?'
-- 
-  demando: When did you notice that the whole family calls me benefactor?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
-    - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+-
+  demando: तुमने कब ध्यान दिया कि पूरा परिवार मुझे उपकारी कहता है?
+  rektatraduko:
+    - Kiam: कब
+    - vi: तुम
+    - rimarkis: ध्यान दिया
+    - ','
+    - ke: कि
+    - la: निश्चित उपपद
+    - tuta: पूरा
+    - familio: परिवार
+    - nomas: कहता है
+    - min: मुझे
+    - bonfarulo: उपकारी
     - '?'
-- 
-  demando: Was the booklet which I send you useful to you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
-    - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+-
+  demando: जो पुस्तिका मैंने तुम्हें भेजी थी, क्या वह तुम्हारे लिए उपयोगी थी?
+  rektatraduko:
+    - Ĉu: क्या
+    - la: निश्चित उपपद
+    - libreto: पुस्तिका
+    - estis: थी
+    - utila: उपयोगी
+    - al: के लिए
+    - vi: तुम
+    - ','
+    - kiun: जिसे
+    - mi: मैंने
+    - sendis: भेजा
     - '?'

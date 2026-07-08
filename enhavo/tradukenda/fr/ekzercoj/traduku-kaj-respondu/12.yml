@@ -1,23 +1,23 @@
 - 
-  demando: "Est-ce qu'on se reverra, à un moment et quelque part ?"
+  demando: "Est-ce qu'on se reverra, n'importe où et n'importe quand ?"
   rektatraduko: 
     - Ĉu: Est-ce que
     - ni: nous
     - revidos: reverrons
     - nin: nous
     - ',' 
-    - kie: quand
-    - ajn: "n'importe"
+    - kie: où
+    - ajn: que ce soit
     - kaj: et
-    - kiam: où
-    - ajn: "n'importe"
+    - kiam: quand
+    - ajn: que ce soit
     - '?'
 - 
-  demando: "Quand récupèrerai-je de nouveau l'autre moitié des livres ?"
+  demando: "Quand récupérerai-je de nouveau l'autre moitié des livres ?"
   rektatraduko: 
     - Kiam: Quand
     - mi: je 
-    - rericevos: récupèrerai
+    - rericevos: récupérerai
     - la: "l'"
     - alian: autre
     - duonon: moitié
@@ -40,7 +40,7 @@
     - laboroj: travaux
     - '?'
 - 
-  demando: Pourquoi est-ce que plus il fait froid, plus nous attendons longtemps ?
+  demando: Pourquoi fait-il d'autant plus froid que nous attendons plus longtemps ?
   rektatraduko: 
     - Kial: Pourquoi
     - estas: est
@@ -55,12 +55,12 @@
     - atendas: attendons
     - '?'
 - 
-  demando: "Est-ce que tu serais heureuse avec n'importe quel homme ?"
+  demando: "Est-ce que tu serais satisfait avec n'importe quel homme ?"
   rektatraduko: 
     - Ĉu: Est-ce que
     - vi: tu
     - estus: serais
-    - kontenta: heureuse
+    - kontenta: satisfait
     - kun: avec
     - iu: "n'importe"
     - ajn: quel

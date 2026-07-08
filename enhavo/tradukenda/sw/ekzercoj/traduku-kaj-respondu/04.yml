@@ -1,73 +1,73 @@
 -
-  demando: Nitakuonaka wakati gani?
-  rektatraduko: 
-    - Kiam: wakati gani
-    - mi: mimi  
-    - revidos: nitaonaka
+  demando: Nitakuona tena lini?
+  rektatraduko:
+    - Kiam: Lini
+    - mi: mimi
+    - revidos: nitaona tena
     - vin: wewe
     - '?'
 -
-  demando: Tangu wakati gani unajifunza lugha ya kigeni?
-  rektatraduko: 
-    - Kiel: ngapi
-    - longe: zamani
+  demando: Umejifunza lugha ya kimataifa kwa muda gani?
+  rektatraduko:
+    - Kiel: Jinsi gani
+    - longe: kwa muda mrefu
     - vi: wewe
-    - lernas: jifunza
-    - 'la'  
-    - Internacian: kigeni
+    - lernas: unajifunza
+    - la: kiarifu
+    - Internacian: ya kimataifa
     - Lingvon: lugha
     - '?'
 -
-  demando: kitabu kyangu kya ma picha kiko wapi?
-  rektatraduko: 
-    - Kie: wapi
-    - estas: iko
-    - mia: yangu
-    - nova: mupya
+  demando: Kitabu changu kipya chenye picha kiko wapi?
+  rektatraduko:
+    - Kie: Wapi
+    - estas: kiko
+    - mia: changu
+    - nova: kipya
     - libro: kitabu
     - kun: pamoja na
-    - fotoj: ma picha
+    - fotoj: picha
     - '?'
 -
-  demando: Utaenda wapi kiisha kula asubui?
-  rektatraduko: 
-    - Kien: wapi
+  demando: Utaenda wapi baada ya chakula cha mchana?
+  rektatraduko:
+    - Kien: Kuelekea wapi
     - vi: wewe
-    - iros: endaka
-    - post: kiisha
-    - 'la'
-    - tagmanĝo: kula asubui
+    - iros: utaenda
+    - post: baada ya
+    - la: kiarifu
+    - tagmanĝo: chakula cha mchana
     - '?'
 -
-  demando: Heti chumba kinaweza fungwa wakati wa baridi?
-  rektatraduko: 
-    - Ĉu: heti
-    - 'oni'
-    - povas: weza
-    - fermi: funga
-    - 'la'
+  demando: Je, mtu anaweza kufunga mlango wa chumba wakati kuna baridi?
+  rektatraduko:
+    - Ĉu: je
+    - oni: mtu kwa jumla
+    - povas: anaweza
+    - fermi: kufunga
+    - la: kiarifu
     - pordon: mlango
-    - de: ya 
-    - 'la'
+    - de: wa
+    - la: kiarifu
     - ĉambro: chumba
     - ','
-    - kiam: wakati 
-    - estas: kuko
+    - kiam: wakati
+    - estas: kuna
     - malvarme: baridi
     - '?'
 -
-  demando: Unabaki muda gani na kasirani wakati wanaku nyanganya pesa nyingi?
-  rektatraduko: 
-    - Kiel: ngapi
-    - longe: zamani
+  demando: Unakasirika kwa muda gani ikiwa watu wanakuchukulia pesa nyingi?
+  rektatraduko:
+    - Kiel: Jinsi gani
+    - longe: kwa muda gani
     - vi: wewe
-    - koleras: kua na kasirani
+    - koleras: unakasirika
     - ','
-    - se: kama
-    - 'oni'
-    - forprenas: kubeba
-    - de: de
+    - se: ikiwa
+    - oni: watu
+    - forprenas: wanachukua
+    - de: kutoka kwa
     - vi: wewe
-    - multan: mingi
+    - multan: nyingi
     - monon: pesa
     - '?'

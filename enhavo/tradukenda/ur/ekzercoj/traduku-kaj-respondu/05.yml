@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
-    - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
-    - '?'
+  demando: کیا آپ سکون سے سیکھ سکتے ہیں جبکہ کوئی خوشی سے گا رہا ہو؟
+  rektatraduko:
+    - Ĉu: کیا
+    - vi: آپ
+    - povas: سکتے ہیں
+    - trankvile: سکون سے
+    - lerni: سیکھنا
+    - ',': ،
+    - dum: جبکہ
+    - iu: کوئی
+    - ĝoje: خوشی سے
+    - kantas: گا رہا ہے
+    - '?': ؟
 -
-  demando: Who knows when and where we will see each other again?
-  rektatraduko: 
-    - Kiu: Who
-    - scias: knows
-    - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
-    - '?'
+  demando: کون جانتا ہے کہ ہم کب اور کہاں دوبارہ ایک دوسرے کو دیکھیں گے؟
+  rektatraduko:
+    - Kiu: کون
+    - scias: جانتا ہے
+    - ',': ،
+    - kiam: کب
+    - kaj: اور
+    - kie: کہاں
+    - ni: ہم
+    - revidos: دوبارہ دیکھیں گے
+    - nin: ایک دوسرے کو
+    - '?': ؟
 -
-  demando: What time is it now?
-  rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
-    - '?'
+  demando: اب وقت کیا ہے؟
+  rektatraduko:
+    - Kioma: کتنے بجے
+    - horo: گھنٹہ
+    - estas: ہے
+    - nun: اب
+    - '?': ؟
 -
-  demando: Did someone help you open the door of the old house?
-  rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
-    - '?'
+  demando: کیا کسی نے آپ کو پرانے گھر کا دروازہ کھولنے میں مدد دی؟
+  rektatraduko:
+    - Ĉu: کیا
+    - iu: کسی نے
+    - helpis: مدد کی
+    - al: کو
+    - vi: آپ
+    - malfermi: کھولنا
+    - la: متعین حرف
+    - pordon: دروازہ
+    - de: کا
+    - la: متعین حرف
+    - malnova: پرانا
+    - domo: گھر
+    - '?': ؟
 -
-  demando: Why do you not have time to listen to me longer?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
-    - '?'
+  demando: آپ کے پاس مجھے زیادہ دیر سننے کا وقت کیوں نہیں ہے؟
+  rektatraduko:
+    - Kial: کیوں
+    - vi: آپ
+    - ne: نہیں
+    - havas: رکھتے ہیں
+    - tempon: وقت
+    - aŭskulti: سننا
+    - min: مجھے
+    - pli: زیادہ
+    - longe: دیر تک
+    - '?': ؟

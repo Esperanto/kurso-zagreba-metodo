@@ -73,6 +73,11 @@ Formataj konvencioj:
 ## Vortaro (`vortaro/*.yml`)
 
 - Plibonigu kaj kompletigu tradukojn.
+- Antaŭ ol ŝanĝi radikajn tradukojn, konsultu
+  `enhavo/netradukenda/radikaj_finajxoj.yml`: ĝi montras la bazan finaĵon /
+  vortospecon de la radiko (`-o`, `-a`, `-i`, `-e` ktp.). Elektu tradukon, kiu
+  kongruas kun tiu finaĵo; ekz. adjektiva radiko (`jun: a`) bezonas adjektivan
+  tradukon, ne substantivan.
 - Aldonu pli da akcepteblaj tradukoj kie utile.
 - Uzu maksimume 3 tradukojn por unu Esperanta ero; uzu 4 nur se vere necesas.
 - Preferu oftajn, naturajn tradukojn anstataŭ maloftajn aŭ tro vastajn
@@ -86,6 +91,19 @@ Formataj konvencioj:
 - Aldonu oftajn variantojn, kiujn lernantoj verŝajne tajpus.
 - Aldonu nur vere akcepteblajn variantojn.
 - Ne aldonu tro vastajn sinonimojn, kiuj ŝanĝus la signifon.
+
+## Ekzerco 2 (`ekzercoj/traduku-kaj-respondu/*.yml`)
+
+- Plibonigu la kampojn `demando` tiel, ke ili sonu nature en la cellingvo.
+- Por `rektatraduko`, tamen konservu ĝin kiel **vort-post-vorta lernhelpa
+  mapo**, ne kiel natura frazo. La lernanto devas laŭ la cellingva vorto povi
+  rekoni, al kiu Esperanta vorto ĝi respondas.
+- Ne kunfandu apartajn Esperantajn vortojn en unu natura cellingva esprimo se
+  tio malklarigus la mapon. Ekz. traduku `Kiom` kaj `ofte` aparte anstataŭ
+  kunigi ilin al natura esprimo kiel "kiom ofte".
+- Ĉe prepozicioj elektu tradukon kiu montras la Esperantan funkcion, eĉ se la
+  natura frazo uzus alian prepozicion. Ekz. en hispana `rektatraduko` por `per`
+  taŭgas `por medio de`, ne la idioma prepozicio `en` el natura frazo.
 
 ## Fasado kaj lingva startpaĝo (`fasado/cxefpagxo.yml`)
 

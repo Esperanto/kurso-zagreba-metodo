@@ -1,7 +1,7 @@
 -
-  demando: Els cambrers en els grans hotels entenen molts idiomes? 
-  rektatraduko:  
-    - Ĉu: ¿ 
+  demando: Els cambrers en els grans hotels entenen molts idiomes?
+  rektatraduko:
+    - Ĉu: Que
     - kelneroj: cambrers
     - en: en
     - grandaj: grans
@@ -13,12 +13,12 @@
 -
   demando: Saps que a l'Anna li agrada una nova cançó sobre un pobre i una noia maca?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Que
     - vi: tu
-    - scias: Saps
+    - scias: saps
     - ','
     - ke: que
-    - Ana:  Anna 
+    - Ana: Anna
     - ŝatas: li agrada
     - novan: una nova
     - kanton: cançó
@@ -54,7 +54,7 @@
     - vi: tu
     - denove: de nou
     - venis: has vingut
-    - al: a 
+    - al: a
     - ni: nosaltres
     - sen: sense
     - gefratoj: germans
@@ -64,7 +64,7 @@
   rektatraduko: 
     - Ĉu: Que
     - vi: tu
-    - povas: Pots
+    - povas: pots
     - rapide: ràpidament
     - lerni: aprendre
     - Esperanton: esperanto

@@ -53,7 +53,7 @@ facilmovaj: เคลื่อนที่ง่าย
 faligi: ทำให้ตก
 faligis: ทำให้ตก 
 familianoj: สมาชิกครอบครัว
-fermita: ถูดปิด 
+fermita: ถูกปิด
 fine: ในตอนสุดท้าย
 foresti: ไปไกล ๆ
 foriros: จะไปอยู่ไกล ๆ
@@ -85,7 +85,7 @@ junulinoj: สาว ๆ วัยรุ่น
 junulinon: สาววัยรุ่น 
 junuloj: หนุ่ม ๆ
 kafejo: ร้านกาแฟ
-kafejon: ร้ายกาแฟ
+kafejon: ร้านกาแฟ
 karulino: ที่รัก 
 karulo: ที่รัก 
 klarigis: อธิบาย, ทำให้กระจ่าง
@@ -94,8 +94,8 @@ klubanoj: สมาชิกชมรม
 kompreneble: 
 - อย่างที่เข้าใจได้
 - อย่างนั้นแหละ
-korpoforton: ร่ายกายแข็งแรง
-kunmanĝos: ร่วมรัปประทาานอาหารด้วยกัน
+korpoforton: กำลังกาย
+kunmanĝos: จะร่วมรับประทานอาหารด้วยกัน
 kunporti: นำมาด้วย
 kunulino: เพื่อนที่มาด้วย 
 kunvenas: มาด้วยกัน
@@ -111,17 +111,17 @@ libertempo:
 libroj: หนังสือ 
 lumigis:
 - ทำให้มีแสง
-malagrabla: 
-- ไม่ยินดี
-- เศร้า
-malbela: น่าเกียจ
+malagrabla:
+- ไม่น่าพอใจ
+- ไม่สบายใจ
+malbela: น่าเกลียด
 malbonaj: ไม่ดี 
 malbonajn: ไม่ดี 
 malbonan: ไม่ดี
 malbono: สิ่งที่ไม่ดี
 malfacilan: ยาก
 malfacile: อย่างยาก
-malfeliĉo: เศร้า, หดหู่
+malfeliĉo: ความทุกข์, ความโชคร้าย
 malforta: ไม่แข็งแรง
 malforte: อย่างไม่แข็งแรง 
 malfruas: สาย 
@@ -130,8 +130,8 @@ malfrui: สาย
 malgranda: เล็ก
 malhelpis: ไม่ช่วย, ขัดขวาง
 malinterese: อย่างไม่น่าสนใจ
-malkontentigi: ทำให้ไม่ต้องการอะไรเลย
-mallaŭte: เงียบ
+malkontentigi: ทำให้ไม่พอใจ
+mallaŭte: เบา ๆ, เสียงเบา
 malliberejon: คุก 
 mallumo: ความมืด
 malmulte: นิดหน่อย
@@ -139,7 +139,7 @@ malmultekosta: ราคาถูก
 malmulton: จำนวนน้อย
 malnova: เก่า
 malnovaj: เก่า 
-malofte: หายาก 
+malofte: ไม่บ่อย
 malplaĉa: ไม่เป็นที่พอใจ
 malplaĉan: ไม่เป็นที่พอใจ 
 malproksime: ไกล
@@ -147,13 +147,13 @@ malsaniĝis: ไม่สบาย
 malsaĝa: โง่
 malsekajn: เปียก
 malsukcesa: ไม่สำเร็จ
-maltrankvila: ฟุ่งซ่าน
+maltrankvila: ไม่สงบ, กระวนกระวาย
 malvarman: 
 - หนาว
 - เย็น
 malĝoja: เสียใจ
-malŝatas: หิว
-malŝatis: หิว 
+malŝatas: ไม่ชอบ
+malŝatis: ไม่ชอบ
 manĝaĵo: อาหาร
 manĝegi: กินอย่างตะกละ
 maristo: กะลาสี
@@ -184,7 +184,7 @@ pasigos: จะทำให้ผ่าน
 patrino: แม่
 perdigis: ทำให้หาย 
 plenigadis: ทำให้เต็ม
-plenumis: สมบูรณ์ 
+plenumis: ทำให้สำเร็จ
 plibeligis: ทำให้สวยขึ้น 
 plimulto: ส่วนมาก
 policano: ตำรวจ
@@ -207,8 +207,8 @@ saluton: สวัสดี
 samklubanoj: สมาชิกชมรมเดียวกัน 
 sekretajn: ความลับ, ลับ
 sekreton: ความลับ 
-senbrue: ปราศจากเสียยงรบกวน
-seninterese: ปราศาจากความสนใจ
+senbrue: โดยไม่มีเสียงรบกวน
+seninterese: อย่างไม่สนใจ
 senkolora: ไม่มีสี
 sensukcese: ปราศจากความสำเร็จ
 sentimulo: คนที่ปราศจากความกลัว
@@ -246,7 +246,7 @@ viaj: ของคุณ
 virino: ผู้หญิง
 vojaĝantoj: นักท่องเที่ยว 
 ĉambristoj: ผู้ดูแลห้อง 
-ĉeesto: ผู้เข้าร่วม
+ĉeesto: การอยู่ร่วม, การปรากฏตัว
 ĉirkaŭaĵo: สิ่งที่อยู่รอบ ๆ
 ĝenon: สิ่งที่รบกวน 
 ĝustatempe: ในเวลาที่ถูกต้อง

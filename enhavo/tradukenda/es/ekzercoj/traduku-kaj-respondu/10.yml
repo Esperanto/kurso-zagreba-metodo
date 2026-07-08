@@ -1,10 +1,10 @@
 - 
   demando: ¿La amistad te hace más feliz que el amor?
   rektatraduko: 
-    - Ĉu: ¿
-    - amikeco: La amistad
+    - Ĉu: Acaso
+    - amikeco: amistad
     - pli: más
-    - feliĉigas: te hace feliz
+    - feliĉigas: hace feliz
     - vin: a ti
     - ol: que
     - la: el
@@ -13,8 +13,8 @@
 - 
   demando: ¿Con qué frecuencia escribes cartas a tus amigas en Italia?
   rektatraduko: 
-    - Kiom: Cómo de
-    - ofte: frecuentemente
+    - Kiom: Cuánto
+    - ofte: frecuente
     - vi: tú
     - skribas: escribes
     - leterojn: cartas
@@ -27,20 +27,20 @@
 - 
   demando: ¿La relación entre tu profesor y tú ha cambiado?
   rektatraduko: 
-    - Ĉu: ¿
-    - la: La
+    - Ĉu: Acaso
+    - la: la
     - rilato: relación
     - inter: entre
     - via: tu
     - instruisto: profesor
     - kaj: 'y'
     - vi: tú
-    - ŝanĝiĝis: ha cambiado
+    - ŝanĝiĝis: cambió
     - '?'
 - 
   demando: ¿Ahora ya sabes esperanto bastante bien?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Acaso
     - vi: Tú
     - nun: ahora
     - jam: ya

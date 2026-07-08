@@ -11,7 +11,7 @@
     - lingvojn: języków
     - '?'
 -
-  demando: Czy wiesz, że Anna lubi nową piosenę o biedaku i pięknej kobiecie?
+  demando: Czy wiesz, czy Anna lubi nową piosenkę o biedaku i pięknej kobiecie?
   rektatraduko: 
     - Ĉu: Czy
     - vi: ty
@@ -61,12 +61,12 @@
     - gefratoj: rodzeństwo
     - '?'
 -
-  demando: Czy wystarczająco szybko możecie się uczyć esperanta przy pomocy nowego podręcznika?
+  demando: Czy przy pomocy nowego podręcznika możecie uczyć się esperanta wystarczająco szybko?
   rektatraduko: 
     - Ĉu: Czy
     - vi: wy
     - povas: możecie
-    - per: przez
+    - per: za pomocą
     - la: (przedimek określony)
     - nova: nowy
     - lernolibro: podręcznik

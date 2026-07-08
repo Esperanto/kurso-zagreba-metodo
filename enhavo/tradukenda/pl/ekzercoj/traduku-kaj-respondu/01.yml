@@ -39,19 +39,18 @@
     - estas: jest
     - sur: na
     - la: (przedimek określony)
-    - labortablo: stoł pracowniczy
+    - labortablo: stół roboczy
     - en: w
     - nia: nasz
     - ĉambro: pokój
     - '?'
 - 
-  demando: Czy na twoim stole jest podręcznik Esperanta?
+  demando: Czy na twoim stole jest podręcznik esperanta?
   rektatraduko:
     - Ĉu: Czy
-    - Esperanto-lernolibro: podręcznik Esperanta
+    - Esperanto-lernolibro: podręcznik esperanta
     - estas: jest
     - sur: na
     - via: twój 
     - tablo: stół
     - '?'
-

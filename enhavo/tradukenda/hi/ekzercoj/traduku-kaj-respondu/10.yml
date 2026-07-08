@@ -1,51 +1,51 @@
-- 
-  demando: Does friendship make you more happy than love does?
-  rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+-
+  demando: क्या मित्रता तुम्हें प्रेम से अधिक खुश करती है?
+  rektatraduko:
+    - Ĉu: क्या
+    - amikeco: मित्रता
+    - pli: अधिक
+    - feliĉigas: खुश करती है
+    - vin: तुम्हें
+    - ol: से
+    - la: निश्चित उपपद
+    - amo: प्रेम
     - '?'
-- 
-  demando: How often do you write letters to your girlfriends in Italy?
-  rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
+-
+  demando: तुम इटली में अपनी महिला मित्रों को कितनी बार पत्र लिखते हो?
+  rektatraduko:
+    - Kiel: कितना
+    - ofte: अक्सर
+    - vi: तुम
+    - skribas: लिखते हो
+    - leterojn: पत्र
+    - al: को
+    - viaj: तुम्हारी
+    - amikinoj: महिला मित्रें
+    - en: में
+    - Italio: इटली
     - '?'
-- 
-  demando: Has the relationship between you and your teacher changed?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+-
+  demando: क्या तुम्हारे और तुम्हारे शिक्षक के बीच का संबंध बदल गया है?
+  rektatraduko:
+    - Ĉu: क्या
+    - la: निश्चित उपपद
+    - rilato: संबंध
+    - inter: बीच
+    - vi: तुम
+    - kaj: और
+    - via: तुम्हारा
+    - instruisto: शिक्षक
+    - ŝanĝiĝis: बदल गया
     - '?'
-- 
-  demando: Do you now already know Esperanto well enough?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+-
+  demando: क्या अब तुम एस्पेरान्तो पर्याप्त अच्छी तरह जानते हो?
+  rektatraduko:
+    - Ĉu: क्या
+    - vi: तुम
+    - nun: अब
+    - jam: पहले ही
+    - scias: जानते हो
+    - Esperanton: एस्पेरान्तो
+    - sufiĉe: पर्याप्त
+    - bone: अच्छी तरह
     - '?'

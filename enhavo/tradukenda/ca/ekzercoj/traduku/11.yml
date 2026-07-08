@@ -1,16 +1,16 @@
 - estraro: 
   - junta directiva
   - direcció
-  - junta
   - gerència
-  - executiva
 - tagmeze: 
   - al migdia
   - a migdia
 - posttagmeze: 
   - a la tarda
   - durant la tarda
-- malsata: afamat
+- malsata:
+  - afamat
+  - afamada
 - interkonsenti: posar-se d'acord
 - manĝilaro: cuberteria
 - vidpunkto: punt de vista
@@ -19,9 +19,8 @@
 - publikigi: publicar
 - pagigi: fer pagar
 - duflanka: 
+  - bilateral
   - amb dues cares
-  - d'ambdós costats
-  - per les dues cares
 - aliflanke: 
+  - d'altra banda
   - per altra banda
-  - per altre costat

@@ -16,6 +16,7 @@ AGORDOJ_DIR = ROOT_DIR / 'agordoj'
 ENHAVO_DIR = ROOT_DIR / 'enhavo'
 LECION_NUMEROJ = range(1, 13)
 YAML_LOADER = getattr(yaml, 'CSafeLoader', yaml.SafeLoader)
+HTML_LINGVO_STATOJ = {'preta', 'testa'}
 CXEFPAGXO_TITOLO = 'Lerni Esperanton'
 CXEFPAGXO_SUBTITOLO = 'La plej rapida kurso por la bazoj'
 
@@ -37,6 +38,98 @@ def legi_tekston(path):
 def transpose_headlines(markdown, level):
     prefix = '#' * level
     return re.sub(r'(^|\n)(#+)', lambda match: match.group(1) + prefix + match.group(2), markdown)
+
+
+INTERPUNKCIO = set('.,;:!?«»“”„"\'()[]…')
+
+
+def disigi_interpunkcion(segmentoj):
+    """Apartigu komencan/finan interpunkcion de vorto en proprajn tokenojn.
+
+    Liveras liston de tokenoj: {'tipo': 'vorto', 'segmentoj': [...]} aŭ
+    {'tipo': 'interpunkcio', 'teksto': ...}.
+    """
+    segmentoj = [dict(s) for s in segmentoj]
+    komencaj = []
+    while segmentoj and segmentoj[0]['tipo'] == 'fiksa':
+        teksto = segmentoj[0]['teksto']
+        n = 0
+        while n < len(teksto) and teksto[n] in INTERPUNKCIO:
+            n += 1
+        if n == 0:
+            break
+        komencaj.extend({'tipo': 'interpunkcio', 'teksto': c} for c in teksto[:n])
+        resto = teksto[n:]
+        if resto:
+            segmentoj[0]['teksto'] = resto
+            break
+        segmentoj.pop(0)
+
+    finaj = []
+    while segmentoj and segmentoj[-1]['tipo'] == 'fiksa':
+        teksto = segmentoj[-1]['teksto']
+        n = len(teksto)
+        while n > 0 and teksto[n - 1] in INTERPUNKCIO:
+            n -= 1
+        if n == len(teksto):
+            break
+        finaj = [{'tipo': 'interpunkcio', 'teksto': c} for c in teksto[n:]] + finaj
+        resto = teksto[:n]
+        if resto:
+            segmentoj[-1]['teksto'] = resto
+            break
+        segmentoj.pop()
+
+    tokenoj = list(komencaj)
+    if segmentoj:
+        tokenoj.append({'tipo': 'vorto', 'segmentoj': segmentoj})
+    tokenoj.extend(finaj)
+    return tokenoj
+
+
+def grupigu_kompletigon(vicoj):
+    """Transformu la ekzercon «Kompletigu la frazojn» en tokenojn.
+
+    Ĉiu frazo (vico) iĝas listo de tokenoj. Vorto-tokeno havas
+    «segmentoj» {'tipo': 'fiksa'|'solvo', 'teksto': ...}; interpunkcio
+    estas aparta tokeno. Spacoj en la «videbla»-teksto (kaj malplenaj
+    «videbla»-eroj) apartigas vortojn; «solvo»-eroj neniam apartigas,
+    do ili kunfandiĝas kun najbaraj fiksaj partoj (prefikso, sufikso
+    aŭ infikso de unu vorto).
+    """
+    frazoj = []
+    for vico in vicoj:
+        vortoj = []
+        nuna = []
+
+        def fini():
+            if nuna:
+                vortoj.append(nuna[:])
+                nuna.clear()
+
+        for parto in vico:
+            if 'videbla' in parto:
+                teksto = parto['videbla']
+                if not teksto:
+                    fini()
+                    continue
+                pecoj = teksto.split(' ')
+                for indekso, peco in enumerate(pecoj):
+                    if indekso > 0:
+                        fini()
+                    if peco != '':
+                        nuna.append({'tipo': 'fiksa', 'teksto': peco})
+            elif 'solvo' in parto:
+                solvo = (parto['solvo'] or '').strip()
+                if solvo != '':
+                    nuna.append({'tipo': 'solvo', 'teksto': solvo})
+        fini()
+
+        tokenoj = []
+        for vorto in vortoj:
+            tokenoj.extend(disigi_interpunkcion(vorto))
+        frazoj.append(tokenoj)
+    return frazoj
 
 
 def get_markdown_headlines(s):
@@ -101,14 +194,18 @@ def load(language, gramatiko_transpose_headlines=2):
 
     lecionoj = []
     vortoj = set()
+    lecionaj_bildoj = legi_yaml(netradukenda_dir / 'lecionaj_bildoj.yml')
 
     for i in LECION_NUMEROJ:
         leciono = {
+            'bildo': None,
             'teksto': None,
             'gramatiko': None,
             'ekzercoj': None,
         }
         i_padded = str(i).zfill(2)
+
+        leciono['bildo'] = lecionaj_bildoj[i_padded]
 
         leciono['indekso'] = {
             'cifre': i,
@@ -160,7 +257,7 @@ def load(language, gramatiko_transpose_headlines=2):
         ekzercoj['Traduku kaj respondu'] = legi_yaml(path)
 
         path = netradukenda_dir / 'ekzercoj' / 'kompletigu-la-frazojn' / (i_padded + '.yml')
-        ekzercoj['Kompletigu la frazojn'] = legi_yaml(path)
+        ekzercoj['Kompletigu la frazojn'] = grupigu_kompletigon(legi_yaml(path))
 
         leciono['ekzercoj'] = ekzercoj
 
@@ -184,6 +281,11 @@ def get_cmdline_arguments():
         "--lingvoj",
         help="Kreu HTML-eligon por pluraj lingvoj per unu Python-procezo.",
         nargs='+'
+    )
+    lingvo_group.add_argument(
+        "--cxiuj-lingvoj",
+        action="store_true",
+        help="Kreu HTML-eligon por ĉiuj pretaj kaj testaj lingvoj."
     )
     ap.add_argument(
         "-ef",
@@ -218,8 +320,8 @@ def get_cmdline_arguments():
         type=str
     )
     args = ap.parse_args()
-    if args.eligformo == 'md' and args.lingvoj:
-        ap.error('--lingvoj estas uzebla nur kun --eligformo html')
+    if args.eligformo == 'md' and (args.lingvoj or args.cxiuj_lingvoj):
+        ap.error('--lingvoj kaj --cxiuj-lingvoj estas uzeblaj nur kun --eligformo html')
 
     return args
 
@@ -261,12 +363,19 @@ def hejmaj_lingvoj(lingvoj):
     return rezulto
 
 
+def html_lingvoj(lingvoj):
+    return [
+        kodo
+        for kodo, lingvo in sorted(lingvoj.items())
+        if lingvo.get('stato') in HTML_LINGVO_STATOJ
+    ]
+
+
 def generu_html_por_lingvoj(args, lingvoj):
-    por_generi = args.lingvoj or [args.lingvo]
-    hejma_fasado = legi_cxefpagxan_fasadon('en')
+    por_generi = html_lingvoj(lingvoj) if args.cxiuj_lingvoj else (args.lingvoj or [args.lingvo])
     hejmaj_lingvoj_datenoj = hejmaj_lingvoj(lingvoj)
     for index, lingvo in enumerate(por_generi):
-        if args.lingvoj:
+        if len(por_generi) > 1:
             print('Generas HTML por ' + lingvo, flush=True)
         enhavo = kompletigu_enhavon(lingvo, lingvoj)
         html_generilo.generate_html(
@@ -274,9 +383,9 @@ def generu_html_por_lingvoj(args, lingvoj):
             enhavo,
             args,
             kopiu_statikan=(index == 0),
-            hejma_fasado=hejma_fasado,
             hejmaj_lingvoj=hejmaj_lingvoj_datenoj,
         )
+    html_generilo.generate_seo_files(lingvoj, por_generi)
     html_generilo.generate_pwa()
 
 

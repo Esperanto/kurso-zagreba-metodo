@@ -1,16 +1,16 @@
 - 
-  demando: ¿Nos veremos de nuevo el uno al otro, sin importar dónde ni cuándo sea?
+  demando: ¿Volveremos a vernos, dondequiera y cuandoquiera que sea?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Acaso
     - ni: Nosotros
-    - revidos: nos veremos de nuevo
-    - nin: el uno al otro
+    - revidos: veremos de nuevo
+    - nin: nos
     - ',' 
     - kie: donde
-    - ajn: sea
+    - ajn: quiera
     - kaj: 'y'
     - kiam: cuando
-    - ajn: sea
+    - ajn: quiera
     - '?'
 - 
   demando: ¿Cuándo devolveré la otra mitad de los libros?
@@ -28,12 +28,12 @@
 - 
   demando: ¿Necesitarás más de un cuarto de año para esos trabajos?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Acaso
     - vi: Tú
     - bezonos: necesitarás
     - pli: más
-    - ol: de
-    - kvaronan: un cuarto de
+    - ol: que
+    - kvaronan: cuarto
     - jaron: año
     - por: para
     - tiuj: esos
@@ -46,23 +46,23 @@
     - ju: cuanto
     - pli: más
     - malvarme: frío
-    - estas: hace
+    - estas: está
     - ',' 
     - des: tanto
     - pli: más
-    - longe: tiempo
+    - longe: largo
     - ni: nosotros
     - atendas: esperamos
     - '?'
 - 
   demando: ¿Podrías ser feliz con un hombre cualquiera?
   rektatraduko: 
-    - Ĉu: ¿
+    - Ĉu: Acaso
     - vi: Tú
-    - estus: serías
+    - estus: estarías
     - feliĉa: feliz
     - kun: con
     - iu: algún
-    - ajn: cualquier
+    - ajn: cualquiera
     - viro: hombre
     - '?'

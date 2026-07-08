@@ -34,10 +34,12 @@ diabl: diable
 dik: gros
 dimanĉ: dimanche
 dir: dire
-direkt: direction
+direkt: diriger
 doktor: docteur
 dolar: dollar
-dolor: douleur
+dolor:
+- faire mal
+- avoir mal
 dolĉ: doux
 dom: maison
 don: donner
@@ -83,7 +85,7 @@ hotel: hôtel
 ide: idée
 industri: industrie
 instru: enseigner
-interes: intéresser
+interes: intérêt
 invit: inviter
 ir: aller
 itali: Italie
@@ -96,20 +98,22 @@ kapabl: capable
 kapt: attraper
 kar: cher
 kastel: château
-kav: cave
+kav: creux
 kelk: quelques
 kelner: serveur
 klar: clair
 klub: club
 knab: garçon
-koler: colère
+koler:
+- se mettre en colère
+- être en colère
 kolor: couleur
 komenc: commencer
 kompren: comprendre
 kon: connaître
 kontent: content
 kontrol: vérifier
-kor: coeur
+kor: cœur
 korp: corps
 kost: coûter
 kri: crier
@@ -129,7 +133,9 @@ lern: apprendre
 leter: lettre
 liber: libre
 libr: livre
-lok: placer
+lok:
+- lieu
+- endroit
 long: long
 lud: jouer
 lum: lumière
@@ -156,18 +162,20 @@ mult: beaucoup
 muzik: musique
 nask: donner naissance
 natur: nature
-neces: avoir besoin
+neces: nécessaire
 nokt: nuit
 nom: nom
 not: note
 nov: nouveau
-odor: sentir
+odor: odeur
 oft: souvent
 okaz: avoir lieu
-okul: oeil
+okul: œil
 onkl: oncle
-opini: opinion
-ord: commander
+opini:
+- penser
+- être d'avis
+ord: ordre
 orel: oreille
 pac: paix
 pag: payer
@@ -175,10 +183,10 @@ pan: pain
 paper: papier
 pardon: pardonner
 parol: parler
-part: partir
+part: partie
 pas: passer
 patr: père
-paŝ: pas
+paŝ: faire un pas
 pens: penser
 perd: perdre
 person: personne
@@ -186,26 +194,26 @@ pet: demander
 pez: lourd
 pied: pied
 plac: place
-plan: planifier
+plan: plan
 plaĉ: plaire
 plen: plein
 polic: police
 pord: porte
-port: faire attention
+port: porter
 pov: pouvoir
 pren: prendre
 pret: prêt
 prezent: présenter
 problem: problème
-proksim: à côté
+proksim: proche
 promen: se promener
 propon: proposer
 prov: essayer
 rajt: avoir le droit de
 rapid: rapide
 raport: rapporter
-real: réél
-rekt: directe
+real: réel
+rekt: direct
 renkont: rencontrer
 respekt: respecter
 respond: répondre
@@ -219,7 +227,7 @@ ruĝ: rouge
 salt: sauter
 salut: salut
 sam: même
-san: santé
+san: sain
 saĝ: sage
 sci: savoir
 sek: sec
@@ -231,7 +239,7 @@ serĉ: chercher
 si: pronom réfléchi
 sid: être assis
 silent: silence
-simil: identique
+simil: semblable
 sinjor:
   - monsieur
   - M.
@@ -247,7 +255,7 @@ subit: subitement
 sufiĉ: suffisant
 sukces: succès
 sun: soleil
-supr: au dessus
+supr: au-dessus
 tabl: table 
 tag: jour
 te: thé
@@ -256,7 +264,9 @@ temp: temps
 temperatur: température
 ten: tenir
 teror: terreur
-tim: crainte
+tim:
+- craindre
+- avoir peur
 ton: ton
 trankvil: calme
 trink: boire
@@ -274,7 +284,7 @@ Veneci: Venise
 ver: vrai
 vesper: soir
 vest: habiller
-vetur: conduire
+vetur: voyager (en véhicule)
 vid: voir
 vin: vin
 vir: homme
@@ -282,7 +292,7 @@ viv: vivre
 vizaĝ: visage
 vizit: visiter
 voj: voie
-vojaĝ: voyage
+vojaĝ: voyager
 vok: appeler
 vol: vouloir
 vort: mot
@@ -291,8 +301,8 @@ zorg: se soucier
 ĉambr: pièce (d'un logement)
 ĉef: chef
 ĝen: gêner
-ĝeneral: géneral
-ĝoj: joie
+ĝeneral: général
+ĝoj: joyeux
 ĝust: juste
 ĵet: jeter
 ŝajn: sembler

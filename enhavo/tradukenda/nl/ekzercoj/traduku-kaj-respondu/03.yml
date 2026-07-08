@@ -11,7 +11,7 @@
     - lingvojn: talen
     - '?'
 -
-  demando: Weet jij, of Anna houdt van het nieuwe lied over een arme en een schone?
+  demando: Weet jij of Anna houdt van het nieuwe lied over een arme man en een mooie vrouw?
   rektatraduko:
     - Ĉu: Of
     - vi: jij
@@ -26,7 +26,7 @@
     - pri: over
     - malriĉulo: een arme (mens)
     - kaj: en
-    - belulino: een schone:mooie (vrouwelijke mens)
+    - belulino: mooie vrouw
     - '?'
 -
   demando: Waar zag je de oude man en de jonge man, die een grote tafel droegen?
@@ -46,7 +46,7 @@
     - tablon: tafel
     - '?'
 -
-  demando: Hoe gebeurde het, dat je opnieuw naar ons kwam zonder broers en zussen?
+  demando: Hoe kwam het dat je opnieuw naar ons kwam zonder broers en zussen?
   rektatraduko:
     - Kiel: Hoe
     - okazis: gebeurde

@@ -1,0 +1,73 @@
+-
+  demando: म तिमीलाई फेरि कहिले देख्नेछु?
+  rektatraduko:
+    - Kiam: कहिले
+    - mi: म
+    - revidos: फेरि देख्नेछु
+    - vin: तिमीलाई
+    - '?'
+-
+  demando: तिमी अन्तर्राष्ट्रिय भाषा कति समयदेखि सिकिरहेका छौ?
+  rektatraduko:
+    - Kiel: कति
+    - longe: लामो समय
+    - vi: तिमी
+    - lernas: सिकिरहेका छौ
+    - la: निश्चित उपपद
+    - Internacian: अन्तर्राष्ट्रिय
+    - Lingvon: भाषा
+    - '?'
+-
+  demando: फोटोहरू भएको मेरो नयाँ किताब कहाँ छ?
+  rektatraduko:
+    - Kie: कहाँ
+    - estas: छ
+    - mia: मेरो
+    - nova: नयाँ
+    - libro: किताब
+    - kun: सहित
+    - fotoj: फोटोहरू
+    - '?'
+-
+  demando: दिउँसोको खानापछि तिमी कहाँ जानेछौ?
+  rektatraduko:
+    - Kien: कहाँतिर
+    - vi: तिमी
+    - iros: जानेछौ
+    - post: पछि
+    - la: निश्चित उपपद
+    - tagmanĝo: दिउँसोको खाना
+    - '?'
+-
+  demando: चिसो हुँदा कोठाको ढोका बन्द गर्न सकिन्छ?
+  rektatraduko:
+    - Ĉu: के
+    - oni: कोही
+    - povas: सक्छ
+    - fermi: बन्द गर्न
+    - la: निश्चित उपपद
+    - pordon: ढोका
+    - de: को
+    - la: निश्चित उपपद
+    - ĉambro: कोठा
+    - ','
+    - kiam: जब
+    - estas: हुन्छ
+    - malvarme: चिसो
+    - '?'
+-
+  demando: यदि मानिसहरूले तिमीबाट धेरै पैसा लिए भने तिमी कति बेर रिसाउँछौ?
+  rektatraduko:
+    - Kiel: कति
+    - longe: लामो समय
+    - vi: तिमी
+    - koleras: रिसाउँछौ
+    - ','
+    - se: यदि
+    - oni: मानिसहरूले
+    - forprenas: लिएर जान्छन्
+    - de: बाट
+    - vi: तिमी
+    - multan: धेरै
+    - monon: पैसा
+    - '?'

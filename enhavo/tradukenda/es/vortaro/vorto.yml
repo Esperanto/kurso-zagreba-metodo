@@ -1,11 +1,11 @@
 Esperanto: esperanto
 akcepteblan: aceptable
 alilandaj: de otros países
-alporti: llevar
+alporti: traer
 alportis:
- - llevó
- - llevaba
-alvenigas: dirige
+ - trajo
+ - traía
+alvenigas: hace llegar
 alvenis:
  - llegó
  - llegaba
@@ -18,7 +18,7 @@ antaŭeniris:
  - iba adelante
 arbaro: bosque
 arbetoj: arbustos
-arboplena: lleno/a de árboles
+arboplena: lleno de árboles
 aĉetumos: irá de compras
 aĉodora: que huele mal 
 aŭdiĝis:
@@ -31,7 +31,7 @@ bestetoj: animalitos
 bonega:
  - excelente
  - perfecto
- - buenísimo/a
+ - buenísimo
 bonvolu: por favor
 bonvolus: harías el favor (de)
 centoj: centenares
@@ -40,7 +40,7 @@ daŭrigis:
  - continuó
  - continuaba
 denove: de nuevo
-devojiĝis: desviarse del camino
+devojiĝis: se desvió del camino
 dikiĝi: engordar
 doloriga: que causa dolor
 dolorige: causando dolor
@@ -54,19 +54,19 @@ dumtage:
 ekkriis:
  - gritó
  - gritaba
-ekmire: maravillarse*
+ekmire: con asombro
 ekparolis:
  - empezó a hablar
  - se puso a hablar
 ekridis: se echó a reír
-ekrigardis: se puso a mirar
+ekrigardis: echó un vistazo
 eksaltis: se puso a saltar
 ekscii: enterarse
-eksidis: sentarse
+eksidis: se sentó
 ekstervoje: fuera del camino
 ekveturas: se pone en marcha
 ekvidis: vislumbró
-elstaraj: destacable
+elstaraj: destacables
 eniri: entrar
 eniris: entró
 eniru: entra
@@ -75,8 +75,8 @@ faligi: derribar
 faligis:
  - derribó
  - derribaba
-familianoj: familiaes
-fermita: cerrado/a 
+familianoj: familiares
+fermita: cerrado
 fine: finalmente
 fini: 
 - terminar
@@ -84,15 +84,15 @@ fini:
 fino:
 - fin
 - final
-foresti: estar fuera
+foresti: estar ausente
 foriros: se irá
 fratino: hermana
-fuŝparolis: hablaba inadecuadamente
-geamikoj: amigos
-gefratoj: hermanos
-gelernantojn: alumnos
+fuŝparolis: hablaba mal
+geamikoj: amigos y amigas
+gefratoj: hermanos y hermanas
+gelernantojn: alumnos y alumnas
 gepatroj: padres
-gondolisto: gondolero 
+gondolisto: gondolero
 gondolistoj: gondoleros
 grafino: condesa
 grafinon: condesa
@@ -101,15 +101,15 @@ gravuloj: gente importante
 haltigis:
  - paró
  - paraba
-havigi: dar
+havigi: proporcionar
 havindan: que vale la pena tener
 homformo: forma de persona
 hommulton: multitud
 ideoriĉan: imaginativo
-industriisto: industrialista
-instruistino: profesora 
+industriisto: industrial
+instruistino: profesora
 instruiston: profesor
-intervidiĝas: se ven el uno al otro
+intervidiĝas: se ven entre sí
 iron: ida
 junulino: (una) joven
 junulinoj: (unas) jóvenes
@@ -117,12 +117,12 @@ junulinon: (una) joven
 junuloj: jóvenes
 kafejo: cafetería
 kafejon: cafetería
-karulino: cariño
-karulo: cariño
+karulino: querida
+karulo: querido
 klarigis:
  - explicó
  - explicaba
-klarigon: explicación 
+klarigon: explicación
 klubanoj: miembros del club
 kompreneble:
 - claro
@@ -136,7 +136,7 @@ kunulino: compañera
 kunvenas: se reúnen
 laboristo: trabajador
 lampeto: lamparita
-lernanto: aprendiz
+lernanto: estudiante
 lernejo:
  - escuela
  - colegio
@@ -151,16 +151,16 @@ lumigis:
 - iluminó
 - iluminaba
 malagrabla: desagradable
-malbela: feo/a
-malbonaj: malos/as
-malbonajn: malos/as
-malbonan: malo/a
-malbono: maldad 
+malbela: feo
+malbonaj: malos
+malbonajn: malos
+malbonan: malo
+malbono: el mal
 malfacilan: difícil
 malfacile:
  - difícilmente
  - difícil
-malfeliĉo: tristeza
+malfeliĉo: desgracia
 malforta: débil
 malforte: débilmente 
 malfruas: tarda 
@@ -170,34 +170,34 @@ malgranda: pequeño
 malhelpis:
  - dificultó
  - dificultaba
-malinterese: no interesante
-malkontentigi: no satisfacer
-mallaŭte: bajito
+malinterese: sin interés
+malkontentigi: descontentar
+mallaŭte: en voz baja
 malliberejon:
  - prisión
  - cárcel
 mallumo: oscuridad
 malmulte: poco
-malmultekosta: caro/a 
-malmulton: poco*
+malmultekosta: barato
+malmulton: poco
 malnova:
- - viejo/a (no de edad)
- - antiguo/a
+ - viejo (no de edad)
+ - antiguo
 malnovaj:
- - viejos/as
- - antiguos/as
+ - viejos
+ - antiguos
 malofte: raramente 
-malplaĉa: incómodo/a
-malplaĉan: incómodo/a 
+malplaĉa: incómodo
+malplaĉan: incómodo
 malproksime: lejos
 malsaniĝis:
  - enfermó
- - se puso enfermo/a
+ - se puso enfermo
 malsaĝa: insensato
-malsekajn: mojado
-malsukcesa: fracasado/a
-maltrankvila: intranquilo/a
-malvarman: frío/a
+malsekajn: mojadas
+malsukcesa: fracasado
+maltrankvila: intranquilo
+malvarman: frío
 malĝoja: triste
 malsatas: tener hambre
 malsatis:
@@ -207,7 +207,7 @@ manĝaĵo: comida
 manĝegi: devorar
 maristo: marinero
 maristoj: marineros
-mariston: maerineros
+mariston: marinero
 miaj:
  - mis
  - míos
@@ -215,25 +215,25 @@ militistoj: militares
 monerojn: monedas
 monujo: monedero
 morgaŭan: de mañana
-mortigo: suicidio
+mortigo: homicidio
 moviĝis:
  - se movió
  - se movía
-multekosta: caro/a
+multekosta: caro
 multpiedaj: de muchos pies
 naskiĝtaga: del cumpleaños
 naskiĝtago: cumpleaños 
 naturaĵojn: cosas naturales
-nehoma: inhumano/a
-neinteresaj: indiferente
-nokta: nocturno/a
+nehoma: inhumano
+neinteresaj: poco interesantes
+nokta: nocturno
 novaĵoj:
  - noticias
  - novedades
 opinion: opinión
 ordigi: ordenar 
 paperoj: papeles
-paperojn:  papeles
+paperojn: papeles
 paperujon: papelera
 pasigos: pasará
 patrino: madre
@@ -251,7 +251,7 @@ plibeligis:
  - embellecía
 plimulto: mayoría
 policano: policía
-promenejo: promenade
+promenejo: lugar de paseo
 promeno: paseo
 rapidege: rapidísimamente
 realigi: realizar
@@ -262,7 +262,7 @@ revenis:
  - volvió
  - volvía
 revidi: ver de nuevo
-revido: vuelta a ver
+revido: reencuentro
 ridetis:
  - sonrió
  - sonreía
@@ -287,8 +287,8 @@ sinjorinon:
  - señora
  - señorita
 skribotablo: escritorio
-soleca: solitario/a
-sovaĝejo: tierra salvaje
+soleca: solitario
+sovaĝejo: lugar salvaje
 sportisto: deportista
 subakvigis:
  - (lo) hundió
@@ -303,8 +303,8 @@ supren: (hacia) arriba
 surhavas: llevar (puesto)
 surlokan: del sitio
 teroristoj: terroristas
-tiuokaze: en esa ocasión
-travivaĵo: aventura
+tiuokaze: en ese caso
+travivaĵo: experiencia vivida
 tridekjara:
  - de treinta años
  - treinta años
@@ -319,16 +319,16 @@ vendejon: tienda
 vendisto: vendedor 
 vestaĵo: ropa 
 vestaĵoj: prendas de ropa
-vestaĵojn: prendas de ropa 
+vestaĵojn: prendas de ropa
 vestaĵon: ropa
-veturado: ida*
-veturigus: llevar (a alguien) 
+veturado: viaje
+veturigus: llevar (a alguien)
 viaj:
  - tus
  - tuyos/as
 virino: mujer
 vojaĝantoj: viajeros
-ĉambristoj: limpiadores
+ĉambristoj: personal de limpieza
 ĉeesto: asistencia
 ĉirkaŭaĵo: alrededores
 ĝenon: molestia
@@ -336,4 +336,4 @@ vojaĝantoj: viajeros
 ŝiaj:
  - sus
  - suyos
-ŝipkuron: carrera* de barcos
+ŝipkuron: regata

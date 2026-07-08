@@ -1,7 +1,9 @@
 ### {{ enhavo.fasado['Novaj vortoj'] }}
 
 
+{% if not llms %}
 `\begin{multicols}{2}`{=latex}
+{% endif %}
 
 
 #### {{ enhavo.fasado['En la teksto'] or '' }}
@@ -18,5 +20,6 @@
 {% endfor %}
 
 
+{% if not llms %}
 `\end{multicols}`{=latex}
-
+{% endif %}

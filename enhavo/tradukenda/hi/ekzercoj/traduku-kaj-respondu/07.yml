@@ -1,77 +1,77 @@
-- 
-  demando: Who had the book that you were waiting for more than 2 years?
-  rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
-    - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
-    - '?'
-- 
-  demando: Do you want me to show you the photo which is dearest to me?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
+-
+  demando: वह किताब किसके पास थी जिसका तुम दो साल से अधिक समय से इंतज़ार कर रहे थे?
+  rektatraduko:
+    - Kiu: किसके पास
+    - havis: थी
+    - la: निश्चित उपपद
+    - libron: किताब
     - ','
-    - ke: that
-    - mi: I
-    - montru: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - kiun: जिसका/जिसे
+    - vi: तुम
+    - atendis: इंतज़ार कर रहे थे
+    - pli: अधिक
+    - ol: से
+    - du: दो
+    - jarojn: वर्ष
     - '?'
-- 
-  demando: Where did you buy that garment?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+-
+  demando: क्या तुम चाहते हो कि मैं तुम्हें वह तस्वीर दिखाऊँ जो मुझे सबसे प्रिय है?
+  rektatraduko:
+    - Ĉu: क्या
+    - vi: तुम
+    - volas: चाहते हो
+    - ','
+    - ke: कि
+    - mi: मैं
+    - montru: दिखाऊँ
+    - al: को
+    - vi: तुम
+    - mian: मेरी
+    - plej: सबसे
+    - karan: प्रिय
+    - foton: तस्वीर
     - '?'
-- 
-  demando: Where will you go on Sunday if it is a sunny day?
-  rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
-    - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+-
+  demando: तुमने वह वस्त्र कहाँ खरीदा?
+  rektatraduko:
+    - Kie: कहाँ
+    - vi: तुम
+    - aĉetis: खरीदा
+    - tiun: वह
+    - vestaĵon: वस्त्र
     - '?'
-- 
-  demando: Did your brother already leave?
-  rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
+-
+  demando: यदि रविवार को धूप वाला दिन होगा, तो तुम कहाँ जाओगे?
+  rektatraduko:
+    - Kien: कहाँ
+    - vi: तुम
+    - iros: जाओगे
+    - dimanĉe: रविवार को
+    - ','
+    - se: यदि
+    - estos: होगा
+    - suna: धूप वाला
+    - tago: दिन
     - '?'
-- 
-  demando: Where is the water which you have brought yourself?
-  rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
-    - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
+-
+  demando: क्या तुम्हारा भाई पहले ही चला गया?
+  rektatraduko:
+    - Ĉu: क्या
+    - via: तुम्हारा
+    - frato: भाई
+    - jam: पहले ही
+    - ekiris: चल पड़ा
+    - '?'
+-
+  demando: वह पानी कहाँ है जो तुम स्वयं साथ लाए थे?
+  rektatraduko:
+    - Kie: कहाँ
+    - estas: है
+    - la: निश्चित उपपद
+    - akvo: पानी
+    - ','
+    - kiun: जिसे
+    - vi: तुम
+    - mem: स्वयं
+    - kunportis: साथ लाए
     - '?'

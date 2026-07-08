@@ -1,73 +1,73 @@
 -
-  demando: Quand vous reverrai-je ?
-  rektatraduko: 
-    - Kiam: Quand
-    - mi: je  
-    - revidos: reverrai
-    - vin: vous
+  demando: Când te voi revedea?
+  rektatraduko:
+    - Kiam: Când
+    - mi: eu
+    - revidos: voi revedea
+    - vin: pe tine
     - '?'
 -
-  demando: Depuis combien de temps apprenez-vous la langue internationale ?
-  rektatraduko: 
-    - Kiel: Combien
-    - longe: longtemps
-    - vi: vous
-    - lernas: apprenez
-    - la: la 
-    - Internacian: internationale
-    - Lingvon: langue
+  demando: De cât timp înveți limba internațională?
+  rektatraduko:
+    - Kiel: Cât de
+    - longe: mult timp
+    - vi: tu
+    - lernas: înveți
+    - la: (articol)
+    - Internacian: internațională
+    - Lingvon: limbă
     - '?'
 -
-  demando: Où est mon nouveau livre de photos ?
-  rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - mia: mon
-    - nova: nouveau
-    - libro: livre
-    - kun: avec
-    - fotoj: des photos
+  demando: Unde este cartea mea nouă cu fotografii?
+  rektatraduko:
+    - Kie: Unde
+    - estas: este
+    - mia: mea
+    - nova: nouă
+    - libro: carte
+    - kun: cu
+    - fotoj: fotografii
     - '?'
 -
-  demando: Où irez-vous après le déjeuner ?
-  rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
+  demando: Încotro vei merge după prânz?
+  rektatraduko:
+    - Kien: Încotro
+    - vi: tu
+    - iros: vei merge
+    - post: după
+    - la: (articol)
+    - tagmanĝo: prânz
     - '?'
 -
-  demando: "Est-ce qu'on peut fermer la porte de la chambre quand il fait froid ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - oni: "on"
-    - povas: peut
-    - fermi: fermer
-    - la: la
-    - pordon: porte
-    - de: de 
-    - la: la
-    - ĉambro: chambre
-    - ','
-    - kiam: quand
-    - estas: il fait
-    - malvarme: froid
-    - '?'
--
-  demando: "Combien de temps êtes-vous en colère si on vous prend beaucoup d'argent ?"
-  rektatraduko: 
-    - Kiel: Combien
-    - longe: de temps
-    - vi: vous
-    - koleras: êtes en colère
-    - ','
-    - se: si
-    - oni: "on"
-    - forprenas: emporte
+  demando: Se poate închide ușa camerei când este frig?
+  rektatraduko:
+    - Ĉu: oare
+    - oni: se
+    - povas: poate
+    - fermi: închide
+    - la: (articol)
+    - pordon: ușă
     - de: de
-    - vi: vous
-    - multan: beaucoup 
-    - monon: argent
+    - la: (articol)
+    - ĉambro: cameră
+    - ','
+    - kiam: când
+    - estas: este
+    - malvarme: frig
+    - '?'
+-
+  demando: Cât timp te superi dacă cineva îți ia mulți bani?
+  rektatraduko:
+    - Kiel: Cât de
+    - longe: mult timp
+    - vi: tu
+    - koleras: te superi
+    - ','
+    - se: dacă
+    - oni: cineva
+    - forprenas: ia
+    - de: de la
+    - vi: tine
+    - multan: mulți
+    - monon: bani
     - '?'

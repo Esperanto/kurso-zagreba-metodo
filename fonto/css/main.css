@@ -153,7 +153,7 @@ h3 {
   display: list-item;
   float: left;
   list-style-position: inside;
-  margin-right: 1.5rem;
+  padding-right: 1.5rem;
 }
 .gramatika-enhavtabelo a {
   margin-left: 0.2rem;
@@ -161,6 +161,11 @@ h3 {
 }
 .gramatika-teksto :is(h1, h2, h3, h4, h5, h6) {
   scroll-margin-top: calc(52px + 1rem);
+}
+/* La unua titolo ne aldonu supran spacon, por ke la gramatiko komenciĝu
+   je la sama alto kiel la aliaj langetoj. */
+.gramatika-teksto > :first-child {
+  margin-top: 0;
 }
 
 .navbar {
@@ -246,22 +251,13 @@ h3 {
   max-height: min(70vh, 24rem);
   overflow-y: auto;
 }
-.hejmo {
-  margin: 0 auto;
-  max-width: 48rem;
-  padding: 3rem 0;
-  text-align: center;
+@media (display-mode: standalone) {
+  .pwa-standalone-kasxita {
+    display: none !important;
+  }
 }
-.hejmo-titolo {
-  font-size: clamp(3rem, 9vw, 5.5rem);
-  line-height: 1;
-  margin-bottom: 2rem;
-}
-.hejmo-lingvoj {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  justify-content: center;
+.pwa-standalone .pwa-standalone-kasxita {
+  display: none !important;
 }
 .lingva-startpagxo {
   margin: 0 auto;
@@ -355,6 +351,10 @@ h3 {
   width: auto;
 }
 
+.nav-tabs {
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
 .nav-tabs .nav-link {
   align-items: center;
   display: inline-flex;
@@ -370,6 +370,11 @@ h3 {
   align-items: center;
   display: inline-flex;
   line-height: 1;
+}
+
+/* Neniu suba horizontala linio sub la lasta vico de la tabelvorta tabelo. */
+.table > tbody > tr:last-child > * {
+  border-bottom: 0;
 }
 
 @media (max-width: 575.98px) {
@@ -416,7 +421,8 @@ h3 {
   }
   .gramatika-enhavtabelo li {
     float: none;
-    margin-right: 0;
+    list-style-position: outside;
+    padding-right: 0;
   }
   .gramatika-teksto {
     grid-column: 1;
@@ -514,13 +520,15 @@ ol.tasko {
   row-gap: 18px;
 }
 .form-horizontal .form-group {
+  display: contents;
   margin-bottom: 0;
 }
-.form-horizontal .form-group.has-feedback {
-  display: contents;
-}
-.form-horizontal .form-group:not(.has-feedback) {
+/* Solaj tekstoj (interpunkcio ktp.) sen enigo: propra plena vico, kies etikedo
+   restas en la etikedkolumno, do ili ne ŝovas la sekvajn etikedo/enigo-parojn. */
+.form-horizontal .form-group.ekz3-interpunkcio {
+  display: grid;
   grid-column: 1 / -1;
+  grid-template-columns: subgrid;
 }
 .form-horizontal .control-label {
   font-weight: 700;
@@ -551,15 +559,17 @@ ol.tasko {
   margin-bottom: 1.5rem;
   margin-top: 2rem;
 }
-.form-horizontal .feedback-icon {
-  position: absolute;
-  right: 12px;
-  top: 50%;
-  transform: translateY(-50%);
+/* La agobutonoj (Solvu/Forigu) staru memstare sub la formularo, ne en la
+   krado, kaj neniam superu la ekranlarĝon (ili faldiĝas sur poŝtelefono). */
+.ekzercaj-agoj {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  max-width: 100%;
 }
-.form-horizontal .solvu,
-.form-horizontal .forigu {
-  margin-top: 0.25em;
+.form-horizontal .ekzercaj-agoj {
+  grid-column: 1 / -1;
 }
 .form-inline .form-group {
   display: inline-block;
@@ -572,42 +582,74 @@ ol.tasko {
   font-size: 14px;
   height: 34px;
   line-height: 1.42857143;
-  padding: 6px 42.5px 6px 12px;
   width: auto;
 }
-.form-inline .feedback-icon {
-  position: absolute;
-  right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
+/* Ekzerco 2: ĉiu vorto estas enigo aŭ enigogrupo, interpunkcio aparta. */
+.ekzerco2-tasko ol.tasko {
+  line-height: 2.6;
 }
-.has-error input {
-  background: var(--exercise-field-bg);
+.ekzerco2-tasko ol.tasko li {
+  margin-bottom: 0.5em;
 }
-.has-success input {
-  background: #eff8ef;
+.ekzerco2-tasko .form-group,
+.ekzerco2-tasko .input-group,
+.ekzerco2-tasko .ekz2-interpunkcio {
+  vertical-align: middle;
 }
-.feedback-icon {
+.ekzerco2-tasko .input-group {
+  display: inline-flex;
+  align-items: stretch;
+  font-size: inherit;
+  position: relative;
+  width: auto;
+}
+.ekzerco2-tasko .form-group {
+  align-items: stretch;
+  display: inline-flex;
+  font-size: inherit;
+}
+.ekzerco2-tasko .form-control,
+.ekzerco2-tasko .input-group-text {
+  font-size: inherit;
+  line-height: 1.5;
+  min-height: calc(1.5em + 0.75rem + 2px);
+  padding-bottom: 0.375rem;
+  padding-top: 0.375rem;
+}
+.ekzerco2-tasko .form-control {
+  height: auto;
+}
+.ekzerco2-tasko .input-group .form-control {
+  flex: 0 0 auto;
+  width: auto;
+}
+.ekzerco2-tasko .ekz2-interpunkcio {
   display: inline-block;
-  font-weight: bold;
-  min-width: 1.5em;
-  text-align: center;
+  font-weight: 700;
+  margin-left: 0.25em;
 }
-.feedback-icon-ok {
-  color: #198754;
+.ekzerco2-tasko .form-control.is-valid,
+.ekzerco2-tasko .form-control.is-invalid {
+  background-position: right 0.75rem center;
+  padding-right: calc(1.5em + 0.75rem);
 }
-.feedback-icon-remove {
-  color: #dc3545;
+.ekzerco2-tasko .form-control.is-invalid {
+  border-color: var(--bs-border-color);
+}
+
+/* Konservu la malfortan fonan tinkturon de la ekzercaj kampoj, sed ligitan al la
+   Bootstrap-5-validigo (is-invalid/is-valid) anstataŭ la malnovaj BS3-klasoj. */
+input.is-invalid {
+  background-color: var(--exercise-field-bg);
+}
+input.is-valid {
+  background-color: #eff8ef;
 }
 
 @media (min-width: 576px) {
   .form-horizontal .control-label {
     text-align: right;
   }
-}
-
-.fixed {
-  position: fixed;
 }
 
 #logo {

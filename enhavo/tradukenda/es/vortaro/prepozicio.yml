@@ -11,13 +11,13 @@ de:
 - desde
 dum:
 - durante
-- mediante
+- mientras
 ekde: desde
 ekster: fuera de
 el: de
 en: en
 inter: entre
-je: a* (comodín)
+je: a (comodín)
 kontraŭ: 
 - contra
 - en contra de
@@ -46,10 +46,11 @@ sub:
 super: en (encima, no tocando)
 sur: en (encima)
 tra: a través de, por
-trans: a través de
+trans:
+- al otro lado de
+- más allá de
 ĉe:
 - en
 - por
 ĉirkaŭ: alrededor de
 ĝis: hasta
-

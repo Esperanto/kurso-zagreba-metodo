@@ -3,8 +3,10 @@
 
 import os
 from pathlib import Path
+import re
 import shutil
 import subprocess
+import xml.etree.ElementTree as ET
 
 import genanki
 import jinja2
@@ -12,13 +14,36 @@ from markupsafe import Markup
 import mistune
 
 from .ankroj import forigu_html, unika_ankro
+from . import md as md_generilo
 from . import pwa
 
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
+AKTIVOJ_DIST_DIR = FONTO_DIR / 'aktivoj' / 'dist'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
+SITE_URL = 'https://esperanto12.net'
+GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
+SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
+ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
+LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
+LLMS_FULL_PRINTENDAJ = {
+    'partoj': (
+        'teksto',
+        'vortoj',
+        'gramatiko',
+        'ekzerco1',
+        'ekzerco2',
+        'ekzerco3',
+        'solvo1',
+        'solvo2',
+        'solvo3',
+    ),
+    'lecionoj': tuple(range(1, 13)),
+}
+
+ET.register_namespace('', SITEMAP_NS)
 
 
 def morfema_emfazo(md):
@@ -52,6 +77,20 @@ class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
             text=text,
         )
 
+    def link(self, text, url, title=None):
+        title_attr = ''
+        if title:
+            title_attr = ' title="{}"'.format(mistune.escape(title))
+        target_attr = ''
+        if url.startswith(('http://', 'https://')):
+            target_attr = ' target="_blank" rel="noopener"'
+        return '<a href="{}"{}{}>{}</a>'.format(
+            mistune.escape_url(url),
+            title_attr,
+            target_attr,
+            text,
+        )
+
 
 def render_markdown(text):
     md = mistune.create_markdown(
@@ -61,29 +100,430 @@ def render_markdown(text):
     return Markup(md(text))
 
 
-def render_page(name, enhavo, vojprefikso, env):
+def normaligu_spacojn(text):
+    return re.sub(r'\s+', ' ', text).strip()
+
+
+def markdown_link(label, url, description=None):
+    label = str(label).replace('[', '\\[').replace(']', '\\]')
+    line = f'- [{label}]({url})'
+    if description:
+        line += ': ' + normaligu_spacojn(str(description))
+    return line
+
+
+def meta_description_from_markdown(text):
+    text = re.sub(r'\{\{\s*url\.[^}]+\s*\}\}', '', text)
+    text = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text)
+
+    partoj = []
+    alineo = []
+
+    def finu_alineon():
+        if alineo:
+            partoj.append(' '.join(alineo))
+            alineo.clear()
+
+    for linio in text.splitlines():
+        linio = linio.strip()
+        if not linio or re.fullmatch(r'[-_*]{3,}', linio):
+            finu_alineon()
+            continue
+
+        listero = re.match(r'^[-+]\s+(.*)$', linio)
+        if listero:
+            finu_alineon()
+            partoj.append(listero.group(1))
+            continue
+
+        alineo.append(linio)
+
+    finu_alineon()
+
+    purigitaj_partoj = []
+    for parto in partoj:
+        parto = re.sub(r'[*_`#>]', '', parto)
+        parto = re.sub(r'\s+', ' ', parto).strip()
+        if parto:
+            purigitaj_partoj.append(parto)
+
+    priskribo = ''
+    for parto in purigitaj_partoj:
+        if not priskribo:
+            priskribo = parto
+            continue
+        if priskribo[-1] in '.!?…؟。！？':
+            priskribo += ' ' + parto
+        else:
+            priskribo += '. ' + parto
+
+    return priskribo
+
+
+def og_bildo_url(lingvo):
+    lingva_bildo = FONTO_DIR / 'bildoj' / 'og' / f'{lingvo}.png'
+    if lingva_bildo.is_file():
+        return f'{SITE_URL}/assets/img/og/{lingvo}.png'
+    return f'{SITE_URL}/assets/img/og.png'
+
+
+def absoluta_url(vojo):
+    if not vojo.startswith('/'):
+        vojo = '/' + vojo
+    return SITE_URL + vojo
+
+
+def pretaj_lingvokodoj(lingvoj):
+    return [
+        kodo
+        for kodo, lingvo in sorted(lingvoj.items())
+        if lingvo.get('stato') == 'preta'
+    ]
+
+
+def normaligu_relativan_vojon(relativa_vojo):
+    if not relativa_vojo:
+        return ''
+    relativa_vojo = relativa_vojo.lstrip('/')
+    if not relativa_vojo.endswith('/'):
+        relativa_vojo += '/'
+    return relativa_vojo
+
+
+def lingva_vojo(lingvo, relativa_vojo=''):
+    relativa_vojo = normaligu_relativan_vojon(relativa_vojo)
+    return '/' + lingvo + '/' + relativa_vojo
+
+
+def lingva_dosiero_url(lingvo, relativa_vojo):
+    return absoluta_url('/' + lingvo + '/' + relativa_vojo.lstrip('/'))
+
+
+def alternaj_ligiloj(lingvoj, relativa_vojo, inkluzivu_x_default=True):
+    alternaj = [
+        {
+            'hreflang': kodo,
+            'url': absoluta_url(lingva_vojo(kodo, relativa_vojo)),
+        }
+        for kodo in pretaj_lingvokodoj(lingvoj)
+    ]
+    if inkluzivu_x_default:
+        alternaj.append({
+            'hreflang': 'x-default',
+            'url': absoluta_url('/'),
+        })
+    return alternaj
+
+
+def seo_datenoj(enhavo, relativa_vojo=''):
+    lingvo = enhavo['lingvo']
+    stato = enhavo['lingvoj'][lingvo].get('stato')
+    alternaj = []
+    if stato == 'preta':
+        alternaj = alternaj_ligiloj(enhavo['lingvoj'], relativa_vojo)
+
+    return {
+        'canonical_url': absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
+        'alternaj_ligiloj': alternaj,
+        'meta_description': meta_description_from_markdown(enhavo['enkonduko']),
+        'noindex': stato == 'testa',
+    }
+
+
+def hejma_seo_datenoj(hejmaj_lingvoj):
+    lingvokodoj = sorted(lingvo['kodo'] for lingvo in hejmaj_lingvoj)
+    alternaj = [
+        {
+            'hreflang': kodo,
+            'url': absoluta_url('/' + kodo + '/'),
+        }
+        for kodo in lingvokodoj
+    ]
+    alternaj.append({
+        'hreflang': 'x-default',
+        'url': absoluta_url('/'),
+    })
+
+    return {
+        'canonical_url': absoluta_url('/'),
+        'alternaj_ligiloj': alternaj,
+        'noindex': False,
+    }
+
+
+def sitemap_relativaj_vojoj():
+    yield ''
+    for pagxo in ALDONAJ_PAGXOJ:
+        yield pagxo + '/'
+    for i in range(1, 13):
+        i_padded = str(i).zfill(2)
+        for tab_vojo in LECIONAJ_TAB_VOJOJ:
+            yield i_padded + '/' + tab_vojo
+
+
+def aldonu_sitemap_url(urlset, loc):
+    url = ET.SubElement(urlset, ET.QName(SITEMAP_NS, 'url'))
+    ET.SubElement(url, ET.QName(SITEMAP_NS, 'loc')).text = loc
+
+
+def render_sitemap(lingvoj, generitaj_lingvoj):
+    sitemap_lingvoj = [
+        kodo
+        for kodo in sorted(generitaj_lingvoj)
+        if lingvoj[kodo].get('stato') == 'preta'
+    ]
+    urlset = ET.Element(ET.QName(SITEMAP_NS, 'urlset'))
+
+    aldonu_sitemap_url(urlset, absoluta_url('/'))
+
+    for relativa_vojo in sitemap_relativaj_vojoj():
+        for lingvo in sitemap_lingvoj:
+            aldonu_sitemap_url(
+                urlset,
+                absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
+            )
+
+    return ET.tostring(urlset, encoding='unicode', xml_declaration=True)
+
+
+def generate_seo_files(lingvoj, generitaj_lingvoj):
+    write_file(
+        OUTPUT_DIR / 'robots.txt',
+        'User-agent: *\n'
+        'Allow: /\n'
+        'Sitemap: ' + absoluta_url('/sitemap.xml') + '\n',
+    )
+    write_file(
+        OUTPUT_DIR / 'sitemap.xml',
+        render_sitemap(lingvoj, generitaj_lingvoj),
+    )
+
+
+def kursa_titolo(enhavo):
+    return (
+        enhavo['fasado'].get('Lerni Esperanton')
+        or enhavo['fasado'].get('Lerni Esperanton en 12 lecionoj')
+        or 'Lerni Esperanton'
+    )
+
+
+def fasada_etikedo(enhavo, klavo):
+    return enhavo['fasado'].get(klavo) or klavo
+
+
+def render_llms_index(hejmaj_lingvoj, meta_description):
+    lines = [
+        '# Esperanto12.net',
+        '',
+        '> Esperanto12.net is a free Esperanto basics course using the Zagreb method. '
+        + normaligu_spacojn(meta_description),
+        '',
+        '## Languages',
+    ]
+    for lingvo in hejmaj_lingvoj:
+        lines.append(markdown_link(
+            lingvo['nomo'],
+            lingva_dosiero_url(lingvo['kodo'], 'llms.txt'),
+            lingvo['titolo'],
+        ))
+    lines.extend([
+        '',
+        '## Resources',
+        markdown_link(
+            'Sitemap',
+            absoluta_url('/sitemap.xml'),
+            'XML sitemap for indexable pages.',
+        ),
+        '',
+    ])
+    return '\n'.join(lines)
+
+
+def render_lingva_llms(enhavo, enkonduko):
+    lingvo = enhavo['lingvo']
+    priskribo = meta_description_from_markdown(enkonduko)
+    lines = [
+        '# ' + kursa_titolo(enhavo),
+        '',
+        '> ' + priskribo,
+        '',
+        '## ' + fasada_etikedo(enhavo, 'Lecionoj'),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Lerni Esperanton en 12 lecionoj'),
+            absoluta_url(lingva_vojo(lingvo)),
+        ),
+        markdown_link(
+            '01. ' + enhavo['lecionoj'][0]['teksto']['titolo_string'],
+            absoluta_url(lingva_vojo(lingvo, '01/')),
+            fasada_etikedo(enhavo, 'Teksto'),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Tabelvortoj'),
+            absoluta_url(lingva_vojo(lingvo, 'tabelvortoj/')),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Prepozicioj'),
+            absoluta_url(lingva_vojo(lingvo, 'prepozicioj/')),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Konjunkcioj'),
+            absoluta_url(lingva_vojo(lingvo, 'konjunkcioj/')),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Afiksoj'),
+            absoluta_url(lingva_vojo(lingvo, 'afiksoj/')),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Diversaĵoj'),
+            absoluta_url(lingva_vojo(lingvo, 'diversajxoj/')),
+        ),
+        markdown_link(
+            fasada_etikedo(enhavo, 'Trovu Esperanto-parolantojn'),
+            absoluta_url(lingva_vojo(lingvo, 'post/')),
+        ),
+        '',
+        '## llms-full.txt',
+        markdown_link(
+            'llms-full.txt',
+            lingva_dosiero_url(lingvo, 'llms-full.txt'),
+        ),
+        '',
+        '## Optional',
+        markdown_link(
+            'Sitemap',
+            absoluta_url('/sitemap.xml'),
+        ),
+        '',
+    ]
+    return '\n'.join(lines)
+
+
+def render_lingva_llms_full(enhavo, enkonduko):
+    enhavo_md = dict(enhavo)
+    enhavo_md['enkonduko'] = enkonduko
+    return md_generilo.rendu_md(
+        enhavo_md,
+        LLMS_FULL_PRINTENDAJ,
+        template='llms-full.md',
+        llms=True,
+    )
+
+
+def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None):
     rendered = env.get_template(name + '.html').render(
         enhavo=enhavo,
         vojprefikso=vojprefikso,
+        redaktaj_ligiloj=redaktaj_ligiloj or [],
+        seo=seo_datenoj(enhavo, name + '/'),
     )
 
     return rendered
+
+
+def github_content_url(lingvo, path, kind='blob'):
+    return f'{GITHUB_CONTENT_BASE}/{kind}/master/enhavo/tradukenda/{lingvo}/{path}'
+
+
+def redaktaj_ligiloj(lingvo, tab=None, leciono=None):
+    if tab is None:
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'enkonduko.md'),
+            }
+        ]
+
+    if tab in ('teksto', 'vortoj'):
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro', 'tree'),
+            }
+        ]
+
+    if tab == 'gramatiko':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, f'gramatiko/{leciono}.md'),
+            }
+        ]
+
+    if tab == 'ekzerco1':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, f'ekzercoj/traduku/{leciono}.yml'),
+            }
+        ]
+
+    if tab == 'ekzerco3':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, f'ekzercoj/traduku-kaj-respondu/{leciono}.yml'),
+            },
+        ]
+
+    if tab == 'post':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'post.md'),
+            }
+        ]
+
+    if tab == 'tabelvortoj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro/tabelvorto.yml'),
+            }
+        ]
+
+    if tab == 'prepozicioj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro/prepozicio.yml'),
+            }
+        ]
+
+    if tab == 'konjunkcioj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro/konjunkcio.yml'),
+            }
+        ]
+
+    if tab == 'afiksoj':
+        return [
+            {
+                'teksto': 'Redaktu prefiksojn',
+                'url': github_content_url(lingvo, 'vortaro/prefikso.yml'),
+            },
+            {
+                'teksto': 'Redaktu sufiksojn',
+                'url': github_content_url(lingvo, 'vortaro/sufikso.yml'),
+            },
+        ]
+
+    if tab == 'diversajxoj':
+        return [
+            {
+                'teksto': 'Redaktu tiun ĉi enhavon',
+                'url': github_content_url(lingvo, 'vortaro', 'tree'),
+            }
+        ]
+
+    return []
 
 
 def write_file(filename, content):
     path = Path(filename)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding='utf-8')
-
-
-def copy_vendor_file(fonto, celo):
-    if not fonto.is_file():
-        raise SystemExit(
-            'Mankas npm-vendordosiero ' + str(fonto) + '. Rulu `make install`.'
-        )
-
-    celo.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(fonto, celo)
 
 
 def get_version_hash():
@@ -191,51 +631,34 @@ def create_anki(enhavo):
     return deck
 
 
-def render_hejmo(versio, fasado, hejmaj_lingvoj):
+def render_hejmo(versio, meta_description, hejmaj_lingvoj):
     env = jinja2.Environment(auto_reload=False)
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))
     return env.get_template('hejmo.html').render(
-        fasado=fasado,
         hejmaj_lingvoj=hejmaj_lingvoj,
+        meta_description=meta_description,
+        seo=hejma_seo_datenoj(hejmaj_lingvoj),
+        site_url=SITE_URL,
         versio=versio,
     )
 
 
-def copy_static_files(versio, hejma_fasado, hejmaj_lingvoj):
+def copy_static_files(versio, meta_description, hejmaj_lingvoj):
     static_dirs = [
-        (FONTO_DIR / 'css', OUTPUT_DIR / 'assets' / 'css'),
-        (FONTO_DIR / 'js', OUTPUT_DIR / 'assets' / 'js'),
         (FONTO_DIR / 'sonoj' / 'mp3', OUTPUT_DIR / 'assets' / 'mp3'),
         (FONTO_DIR / 'sonoj' / 'ogg', OUTPUT_DIR / 'assets' / 'ogg'),
-    ]
-    vendor_files = [
-        (
-            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'css' / 'bootstrap.min.css',
-            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css',
-        ),
-        (
-            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'js' / 'bootstrap.bundle.min.js',
-            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js',
-        ),
-        (
-            NODE_MODULES_DIR / 'jquery' / 'dist' / 'jquery.min.js',
-            OUTPUT_DIR / 'vendor' / 'jquery' / 'jquery.min.js',
-        ),
-        (
-            NODE_MODULES_DIR / 'jquery-ui-dist' / 'jquery-ui.min.js',
-            OUTPUT_DIR / 'vendor' / 'jquery' / 'jquery-ui.min.js',
-        ),
-        (
-            NODE_MODULES_DIR / 'typeahead.js' / 'dist' / 'typeahead.bundle.min.js',
-            OUTPUT_DIR / 'vendor' / 'typeahead' / 'typeahead.bundle.min.js',
-        ),
     ]
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     write_file(
         str(OUTPUT_DIR / 'index.html'),
-        render_hejmo(versio, hejma_fasado, hejmaj_lingvoj),
+        render_hejmo(versio, meta_description, hejmaj_lingvoj),
     )
+    write_file(
+        str(OUTPUT_DIR / 'llms.txt'),
+        render_llms_index(hejmaj_lingvoj, meta_description),
+    )
+    shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon-120x120.png', OUTPUT_DIR / 'favicon-120x120.png')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'apple-touch-icon.png', OUTPUT_DIR / 'apple-touch-icon.png')
     pwa.copy_static_assets(OUTPUT_DIR)
@@ -251,24 +674,22 @@ def copy_static_files(versio, hejma_fasado, hejmaj_lingvoj):
         ignore=shutil.ignore_patterns('icon-192.png', 'icon-512.png'),
     )
 
-    shutil.rmtree(OUTPUT_DIR / 'vendor', ignore_errors=True)
-    for fonto, celo in vendor_files:
-        copy_vendor_file(fonto, celo)
-
-    fira_fonto = NODE_MODULES_DIR / '@fontsource' / 'fira-sans'
-    fira_celo = OUTPUT_DIR / 'vendor' / 'fira-sans'
-    if not fira_fonto.is_dir():
-        raise SystemExit('Mankas @fontsource/fira-sans. Rulu `make install`.')
-    fira_celo.mkdir(parents=True, exist_ok=True)
-    for pezo in ('400', '700'):
-        shutil.copy2(fira_fonto / f'{pezo}.css', fira_celo / f'{pezo}.css')
-    (fira_celo / 'files').mkdir(parents=True, exist_ok=True)
-    for f in (fira_fonto / 'files').glob('fira-sans-*-[47]00-normal.*'):
-        shutil.copy2(f, fira_celo / 'files' / f.name)
+    # Kopiu la esbuild-pakaĵojn (vd. fonto/aktivoj/bundlo.mjs).
+    if not (AKTIVOJ_DIST_DIR / 'bundle.css').is_file():
+        raise SystemExit('Mankas la pakaĵoj en ' + str(AKTIVOJ_DIST_DIR) + '. Rulu `make bundle`.')
+    assets_dir = OUTPUT_DIR / 'assets'
+    assets_dir.mkdir(parents=True, exist_ok=True)
+    for nomo in ('bundle.css', 'bundle.js', 'hejmo.js'):
+        shutil.copy2(AKTIVOJ_DIST_DIR / nomo, assets_dir / nomo)
+    shutil.rmtree(assets_dir / 'files', ignore_errors=True)
+    shutil.copytree(AKTIVOJ_DIST_DIR / 'files', assets_dir / 'files')
 
 
 def generate_pwa():
-    pwa.write_service_worker(OUTPUT_DIR, get_version_hash())
+    version = get_version_hash()
+    for lingvo in pwa.PWA_LINGVOJ:
+        if (OUTPUT_DIR / lingvo).is_dir():
+            pwa.write_service_worker(OUTPUT_DIR, lingvo, version)
 
 
 def generate_html(
@@ -276,21 +697,27 @@ def generate_html(
     enhavo,
     args,
     kopiu_statikan=True,
-    hejma_fasado=None,
     hejmaj_lingvoj=None,
 ):
     eligo = {}
     versio = get_version_hash()
     enhavo['versio'] = versio
+    enhavo['havas_pwa'] = lingvo in pwa.PWA_LINGVOJ
+    enhavo['pwa_theme_color'] = pwa.PWA_THEME_COLOR
+    enhavo['og_bildo_url'] = og_bildo_url(lingvo)
     if kopiu_statikan:
+        angla_enkonduko = (ROOT_DIR / 'enhavo' / 'tradukenda' / 'en' / 'enkonduko.md').read_text(
+            encoding='utf-8',
+        )
         copy_static_files(
             versio,
-            hejma_fasado or enhavo['fasado'],
+            meta_description_from_markdown(angla_enkonduko),
             hejmaj_lingvoj or [],
         )
 
     env = jinja2.Environment(auto_reload=False)
     env.filters['markdown'] = render_markdown
+    env.filters['normaligu_spacojn'] = normaligu_spacojn
     env.trim_blocks = True
     env.lstrip_blocks = True
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'html'))
@@ -306,6 +733,15 @@ def generate_html(
         ('ekzerco3', 'ekzerco3/', enhavo['fasado']['Ekzerco 3'])
     ]
 
+    # La apendico aperas kiel «leciono 13» kun ĉi tiuj langetoj (flataj URL-oj).
+    apendicaj_langetoj = [
+        ('tabelvortoj', 'tabelvortoj/', enhavo['fasado']['Tabelvortoj']),
+        ('prepozicioj', 'prepozicioj/', enhavo['fasado']['Prepozicioj']),
+        ('konjunkcioj', 'konjunkcioj/', enhavo['fasado']['Konjunkcioj']),
+        ('afiksoj', 'afiksoj/', enhavo['fasado']['Afiksoj']),
+        ('diversajxoj', 'diversajxoj/', enhavo['fasado']['Diversaĵoj']),
+    ]
+
     if args.vojprefikso:
         vojprefikso = args.vojprefikso + lingvo + '/'
     else:
@@ -315,10 +751,16 @@ def generate_html(
         'anki': 'https://apps.ankiweb.net/',
         'kartaro': vojprefikso + 'eksporto/' + lingvo + '.apkg',
     }
+    llms_url = {
+        'anki': 'https://apps.ankiweb.net/',
+        'kartaro': lingva_dosiero_url(lingvo, 'eksporto/' + lingvo + '.apkg'),
+    }
+    enkonduko = env.from_string(enhavo['enkonduko']).render(url=url)
+    llms_enkonduko = env.from_string(enhavo['enkonduko']).render(url=llms_url)
 
     rendered = env.get_template('index.html').render(
         enhavo=enhavo,
-        enkonduko=env.from_string(enhavo['enkonduko']).render(url=url),
+        enkonduko=enkonduko,
         pretaj_lingvoj=[
             (kodo, lingvo)
             for kodo, lingvo in sorted(enhavo['lingvoj'].items())
@@ -326,10 +768,19 @@ def generate_html(
         ],
         url=url,
         vojprefikso=vojprefikso,
+        redaktaj_ligiloj=redaktaj_ligiloj(lingvo),
+        seo=seo_datenoj(enhavo),
         tabs=tabs,
     )
 
     eligo[output_path / 'index.html'] = rendered
+    if enhavo['lingvoj'][lingvo].get('stato') == 'preta':
+        eligo[output_path / 'llms.txt'] = render_lingva_llms(enhavo, llms_enkonduko)
+        eligo[output_path / 'llms-full.txt'] = render_lingva_llms_full(enhavo, llms_enkonduko)
+
+    # Lingvoj kun propra PWA ricevas manifeston sub /{lingvo}/.
+    if lingvo in pwa.PWA_LINGVOJ:
+        eligo[output_path / 'manifest.webmanifest'] = pwa.render_manifest(lingvo, enhavo['fasado'])
 
     # vortaro.js
     rendered = env.get_template('vortlisto.js').render(
@@ -339,13 +790,18 @@ def generate_html(
 
     eligo[output_path / 'eksporto' / (enhavo['lingvo'] + '.apkg')] = create_anki(enhavo)
 
-    for tab_page in ['tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post']:
-        eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env)
+    # Memstaraj aldonaj paĝoj (ne parto de la langetoj nek de la antaŭen/malantaŭen-fluo).
+    for tab_page in ('auxtoroj', 'post'):
+        pagxaj_ligiloj = redaktaj_ligiloj(lingvo, tab_page)
+        eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env, pagxaj_ligiloj)
 
+    # La fluo: 12 lecionoj × langetoj, poste la apendicaj langetoj kiel «leciono 13».
     paths = []
     for i in range(1, 13):
         for id, href, caption in tabs:
             paths.append(vojprefikso + str(i).zfill(2) + '/' + href)
+    for id, href, caption in apendicaj_langetoj:
+        paths.append(vojprefikso + href)
 
     paths_index = 0
 
@@ -355,15 +811,8 @@ def generate_html(
 
         for tab, href, caption in tabs:
 
-            previous_path = None
-            next_path = None
-
-            tab_vojprefikso = vojprefikso + i_padded + '/'
-
-            if paths_index > 0:
-                previous_path = paths[paths_index - 1]
-            if paths_index < len(paths) - 1:
-                next_path = paths[paths_index + 1]
+            previous_path = paths[paths_index - 1] if paths_index > 0 else None
+            next_path = paths[paths_index + 1] if paths_index < len(paths) - 1 else None
             paths_index += 1
 
             tab_rendered = env.get_template(tab + '.html').render(
@@ -371,15 +820,41 @@ def generate_html(
                 leciono=enhavo['lecionoj'][i - 1],
                 leciono_index=i,
                 vojprefikso=vojprefikso,
-                tab_vojprefikso=tab_vojprefikso,
+                tab_vojprefikso=vojprefikso + i_padded + '/',
                 previous_path=previous_path,
                 next_path=next_path,
                 tabs=tabs,
                 active_tab=tab,
-                identigilo=i_padded + '/' + href
+                identigilo=i_padded + '/' + href,
+                redaktaj_ligiloj=redaktaj_ligiloj(lingvo, tab, i_padded),
+                seo=seo_datenoj(enhavo, i_padded + '/' + href),
             )
 
             eligo[leciono_dir / href / 'index.html'] = tab_rendered
+
+    # La apendico: samaj langetoj sur ĉiu paĝo, kaj daŭrigo de la sama fluo.
+    for tab, href, caption in apendicaj_langetoj:
+
+        previous_path = paths[paths_index - 1] if paths_index > 0 else None
+        next_path = paths[paths_index + 1] if paths_index < len(paths) - 1 else None
+        paths_index += 1
+
+        apendica_rendered = env.get_template(tab + '.html').render(
+            enhavo=enhavo,
+            leciono_index=13,
+            apendico=True,
+            vojprefikso=vojprefikso,
+            tab_vojprefikso=vojprefikso,
+            previous_path=previous_path,
+            next_path=next_path,
+            tabs=apendicaj_langetoj,
+            active_tab=tab,
+            identigilo=href,
+            redaktaj_ligiloj=redaktaj_ligiloj(lingvo, 'vortoj'),
+            seo=seo_datenoj(enhavo, href),
+        )
+
+        eligo[output_path / tab / 'index.html'] = apendica_rendered
 
     # Forigu nunan dosierujon.
     shutil.rmtree(output_path, ignore_errors=True)

@@ -10,13 +10,11 @@ alporti:
 alportis: 
 - priniesol
 - priniesla
-- prinieslo
 - priniesli
 alvenigas: privádza
 alvenis:
 - prišiel
 - prišla
-- prišlo
 - prišli
 alvenos:
 - príde
@@ -82,7 +80,7 @@ elstaraj:
 eniri: vojsť
 eniris: vošiel
 eniru: vojdi! 
-facilmovaj: ľahko pohyblivý
+facilmovaj: ľahko pohyblivé
 faligi: 
 - zvaliť
 - zhodiť
@@ -174,8 +172,8 @@ malfrue: neskoro
 malfrui: oneskoriť sa
 malgranda: malý
 malhelpis: 
-- kazil 
 - prekážal
+- bránil
 malinterese: s nezáujmom
 malkontentigi: neuspokojiť
 mallaŭte: ticho
@@ -226,12 +224,11 @@ opinion: názor
 ordigi: upratať
 paperoj: papiere
 paperojn: papiere
-paperujon: papierové vrecko
+paperujon: kôš na papier
 pasigos: strávi
 patrino: matka
 perdigis: 
-- zničil
-- zahubil
+- spôsobil stratu
 plenigadis: napĺňal
 plenumis: splnil
 plibeligis: skrášlil
@@ -245,10 +242,10 @@ rapidege: veľmi rýchlo
 realigi: realizovať
 redonu: vráť
 rekapti: znovu chytiť
-repaciĝon: znovuzmierenie
+repaciĝon: zmierenie
 revenis: vrátil sa
 revidi: znovu vidieť
-revido: uvidenie sa
+revido: opätovné stretnutie
 ridetis: usmieval sa
 rideto: úsmev
 riĉeco: bohatstvo
@@ -296,8 +293,8 @@ vendejon:
 - obchod
 vendisto: predavač
 vestaĵo: oblečenie
-vestaĵoj: oblečenia
-vestaĵojn: oblečenia
+vestaĵoj: oblečenie
+vestaĵojn: oblečenie
 vestaĵon: oblečenie
 veturado: cestovanie
 veturigus: viezol by
@@ -305,8 +302,8 @@ viaj: tvoje
 virino: žena
 vojaĝantoj: cestovatelia
 ĉambristoj: 
-- komorník
-- sluha
+- komorníci
+- sluhovia
 ĉeesto: účasť
 ĉirkaŭaĵo: 
 - krajina
@@ -316,4 +313,4 @@ vojaĝantoj: cestovatelia
 - utrpenie
 ĝustatempe: v správnom čase
 ŝiaj: jej 
-ŝipkuron: výlet loďou
+ŝipkuron: lodné preteky

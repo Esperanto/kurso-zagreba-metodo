@@ -1,4 +1,4 @@
-﻿- leterportisto:
+- leterportisto:
   - postbud
   - postmand
 - hejmlando: hjemland
@@ -12,10 +12,16 @@
 - prizorgi:
   - tage sig af
   - passe på
-- espereble: forhåbentligt
-- altkvalita: højkvalitets
-- pripensi: tænke på
-- depreni: tage væk fra
+- espereble: forhåbentlig
+- altkvalita:
+  - af høj kvalitet
+  - højkvalitets
+- pripensi:
+  - overveje
+  - tænke over
+- depreni:
+  - tage af
+  - fjerne fra
 - loĝejo:
   - bopæl
   - bolig

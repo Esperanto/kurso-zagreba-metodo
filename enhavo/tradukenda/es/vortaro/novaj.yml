@@ -1,38 +1,70 @@
-aŭskult: 
-divers: 
+aŭskult: escuchar
+divers:
+- diverso
+- diferente
+- variado
 ekzempl: ejemplo
-glas: 
-infan: 
-inform: 
-kant: 
-kien: 
-konsent: 
-lingv: idioma
-loĝ: habitar, residir, vivir
-manier: 
-monat: 
-mond: 
-naci: 
-organiz: 
-plor: 
+glas: vaso
+infan: niño
+inform: informar
+kant: cantar
+kien: adónde (con movimiento)
+konsent:
+- consentir
+- estar de acuerdo
+las: dejar
+lingv:
+- idioma
+- lengua
+loĝ:
+- habitar
+- residir
+- vivir
+manier: manera
+monat: mes
+mond: mundo
+naci: nación
+organiz: organizar
+plor: llorar
 pluv: llover
-poŝ: 
-poŝt: 
-proksimum: 
-publik: 
-punkt: 
-pur: 
-rakont: 
-rimark: 
+poŝ: bolsillo
+poŝt: correo
+proksimum: aproximadamente
+publik: público
+punkt: punto
+pur:
+- limpio
+- puro
+rakont:
+- contar
+- relatar
+rimark:
+- notar
+- darse cuenta
 seĝ: silla
-sia: 
-simpl: 
-terur: 
-tut: 
-universal: 
+sia:
+- su (propio)
+- suyo (propio)
+simpl:
+- simple
+- sencillo
+suk:
+- jugo
+terur: terrible
+tut:
+- todo
+- entero
+- total
+universal: universal
 rilat:
+- relacionarse con
+- tener relación con
 sat:
+- estar saciado
+- estar lleno
 ag:
-aper:
-sent:
-kred:
+- actuar
+- obrar
+aper: aparecer
+sent: sentir
+kred: creer

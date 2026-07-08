@@ -1,52 +1,52 @@
-- 
-  demando: Wat zou jouw ouders het meest kunnen verheugen?/ Wat zou je ouders meest genoegen doen?
+-
+  demando: Wat zou je ouders het meest blij maken?
   rektatraduko:
-    - Kio: Wat 
-    - povus: zou kunnen 
-    - plej: meest 
-    - ĝojigi: verheugen/ blij maken
-    - viajn: jouw 
-    - gepatrojn: ouders 
+    - Kio: Wat
+    - povus: zou kunnen
+    - plej: meest
+    - ĝojigi: blij maken
+    - viajn: jouw
+    - gepatrojn: ouders
     - '?'
-- 
-  demando: Indien tenminste jij na het leren met mij in het stadscentrum zoudt gaan!
+-
+  demando: Als jij tenminste na het leren met mij naar het stadscentrum zou gaan!
   rektatraduko:
     - Se: Indien
-    - almenaŭ: tenminste 
-    - vi: jij 
-    - post: na 
-    - la: het 
-    - lernado: Leren 
-    - irus: zoudt gaan
-    - kun: met 
-    - mi: mij 
-    - en: in 
-    - la: het 
-    - urbocentron: stadscentrum 
+    - almenaŭ: tenminste
+    - vi: jij
+    - post: na
+    - la: het
+    - lernado: leren
+    - irus: zou gaan
+    - kun: met
+    - mi: mij
+    - en: in
+    - la: het
+    - urbocentron: stadscentrum
     - '!'
-- 
-  demando: Waarheen zou jij willen reizen, als je genoeg geld en tijd had?/ Waar zou je willen heen gaan, als ...?
+-
+  demando: Waarheen zou jij willen reizen als je genoeg geld en tijd had?
   rektatraduko:
     - Kien: Waarheen
-    - vi: jij 
-    - dezirus: zoudt willen
-    - vojaĝi: reizen 
-    - ',' 
-    - se: indien 
-    - vi: je 
-    - havus: zoudt hebben 
-    - sufiĉe: genoeg 
-    - da: van  
-    - mono: geld 
-    - kaj: en 
+    - vi: jij
+    - dezirus: zou willen
+    - vojaĝi: reizen
+    - ','
+    - se: indien
+    - vi: je
+    - havus: zou hebben
+    - sufiĉe: genoeg
+    - da: van
+    - mono: geld
+    - kaj: en
     - tempo: tijd
     - '?'
-- 
-  demando: Ben je van plan per auto naar Parijs te rijden, of lijkt het niet veel beter per trein? 
+-
+  demando: Ben je van plan met de auto naar Parijs te rijden, of lijkt het niet veel beter met de trein?
   rektatraduko:
     - Ĉu: Of
     - vi: je
-    - planas: plant
+    - planas: bent van plan
     - veturi: rijden
     - al: naar
     - Parizo: Parijs
@@ -62,14 +62,14 @@
     - per: per
     - vagonaro: trein
     - '?'
-- 
+-
   demando: Waarom worden dezelfde ideeën door verschillende mensen op een verschillende manier verklaard?
   rektatraduko:
     - Kial: Waarom
-    - diversaj: verschillende 
-    - homoj: mensen 
-    - klarigas: verklaren 
+    - diversaj: verschillende
+    - homoj: mensen
+    - klarigas: verklaren
     - samajn: dezelfde
-    - ideojn: ideeën 
+    - ideojn: ideeën
     - diversmaniere: op een verschillende manier
     - '?'

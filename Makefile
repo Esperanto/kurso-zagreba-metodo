@@ -1,7 +1,6 @@
-.PHONY: help venv install install-ui pip-tools lock lock-upgrade check check-ui check-pwa html html-all md serve clean
+.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-ui check-pwa html html-all md serve clean
 
 LINGVO ?= en
-HTML_LINGVOJ ?= ar ca cs da de el en es fa fr frp ga he hi hr hu id it ja kk km ko lo mg ms my nl pl pt ro ru sk sl sv sw th tr uk ur vi yo zh zh-tw
 HOST ?= 127.0.0.1
 PORT ?= 8000
 OUTPUT_DIR ?= eligo/retejo
@@ -10,6 +9,8 @@ NPM ?= npm
 VENV ?= venv
 SYSTEM_PYTHON ?= python3
 PYTHON ?= $(VENV)/bin/python
+YAML_SCHEMA_LINTER ?= $(VENV)/bin/check-jsonschema
+TRADUKENDA_SCHEMA_DIR ?= skemoj/tradukenda
 PIP_TOOLS ?= pip-tools==7.5.3
 CHECK_LINGVO := en
 MD_OUT ?= eligo/md/$(CHECK_LINGVO).md
@@ -22,11 +23,12 @@ help:
 		'  make install-ui      Instalas Chromium por Playwright-testoj' \
 		'  make lock            Rekreas requirements.txt el requirements.in' \
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
-		'  make check           Purigas kaj kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
+		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
+		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj' \
 		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
 		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
-		'  make html-all        Generas HTML por ĉiuj produktadaj lingvoj' \
+		'  make html-all        Generas HTML por pretaj kaj testaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
 		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000' \
 		'  make clean           Forigas generitan HTML-eligon'
@@ -57,15 +59,22 @@ check:
 	@test -f "$(NODE_MODULES)/bootstrap/dist/css/bootstrap.min.css" \
 		&& test -f "$(NODE_MODULES)/bootstrap/dist/js/bootstrap.bundle.min.js" \
 		&& test -f "$(NODE_MODULES)/jquery/dist/jquery.min.js" \
-		&& test -f "$(NODE_MODULES)/jquery-ui-dist/jquery-ui.min.js" \
 		&& test -f "$(NODE_MODULES)/typeahead.js/dist/typeahead.bundle.min.js" || { printf '%s\n' 'Mankas npm-dependecoj en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
 	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune, genanki'
-	@"$(PYTHON)" -m fonto.py.kontrolu_yaml
 	@$(MAKE) --no-print-directory clean
 	@mkdir -p "$(dir $(MD_OUT))"
 	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"
 	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"
 	@"$(PYTHON)" -m fonto.py.kontrolu_eligon --lingvo "$(CHECK_LINGVO)" --md-out "$(MD_OUT)" --output-dir "$(OUTPUT_DIR)"
+
+check-yaml:
+	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
+	@"$(PYTHON)" -m fonto.py.kontrolu_yaml
+	@test -x "$(YAML_SCHEMA_LINTER)" || { printf '%s\n' 'Mankas $(YAML_SCHEMA_LINTER). Rulu `make install` unue.' >&2; exit 1; }
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.yml" enhavo/tradukenda/*/fasado/*.yml
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.yml" enhavo/tradukenda/*/vortaro/*.yml
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku/*.yml
+	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku-kaj-respondu/*.yml
 
 check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
@@ -75,13 +84,17 @@ check-ui:
 	@"$(NPM)" exec -- playwright test
 
 check-pwa:
-	@"$(PYTHON)" -m fonto.py.kontrolu_pwa --output-dir "$(OUTPUT_DIR)" --lingvoj $(HTML_LINGVOJ)
+	@"$(PYTHON)" -m fonto.py.kontrolu_pwa --output-dir "$(OUTPUT_DIR)"
 
-html:
+bundle:
+	@test -d "$(NODE_MODULES)/esbuild" || { printf '%s\n' 'Mankas esbuild en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
+	@"$(NPM)" run --silent bundle
+
+html: bundle
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo html
 
-html-all:
-	@"$(PYTHON)" -m fonto.py.generu --lingvoj $(HTML_LINGVOJ) --eligformo html
+html-all: bundle
+	@"$(PYTHON)" -m fonto.py.generu --cxiuj-lingvoj --eligformo html
 
 md:
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo md

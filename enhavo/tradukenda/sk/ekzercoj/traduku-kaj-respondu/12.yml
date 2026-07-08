@@ -1,5 +1,5 @@
 - 
-  demando: Uvidíme sa znovu, jedno kde a kedy?
+  demando: Uvidíme sa znova, kdekoľvek a kedykoľvek?
   rektatraduko: 
     - Ĉu: Či
     - ni: my
@@ -7,10 +7,10 @@
     - nin: nás
     - ',' 
     - kie: kde
-    - ajn: akýkoľvek
+    - ajn: koľvek
     - kaj: a
     - kiam: kedy
-    - ajn: akýkoľvek
+    - ajn: koľvek
     - '?'
 - 
   demando: Kedy vrátim späť druhú polovicu kníh?
@@ -26,7 +26,7 @@
     - libroj: knihy
     - '?'
 - 
-  demando: Budeš na tie práce potrebovať viac ako štvrť roka?
+  demando: Budeš na tieto práce potrebovať viac ako štvrť roka?
   rektatraduko: 
     - Ĉu: Či
     - vi: ty

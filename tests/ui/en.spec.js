@@ -267,6 +267,17 @@ test('malsupra pagxilo havas apartigan linion', async ({ page }) => {
   await expect(page.locator('ul.pager')).toHaveCSS('border-top-style', 'solid');
 });
 
+test('komentoj malfermigxas kiel ekstera ligilo', async ({ page }) => {
+  await page.goto('/en/01/');
+
+  const commentsLink = page.locator('ul.pager .comments a');
+  await expect(commentsLink).toHaveAttribute('href', 'https://kzm-en.disqus.com/01/');
+  await expect(commentsLink).toHaveAttribute('target', '_blank');
+  await expect(commentsLink).toHaveAttribute('rel', 'noopener');
+  await expect(page.locator('#disqus_thread')).toHaveCount(0);
+  await expect(page.locator('script[src*="disqus.com/embed.js"]')).toHaveCount(0);
+});
+
 test('ŝvebi super tekstaj vortoj montras tradukajn ŝprucfenestrojn', async ({ page }) => {
   await page.goto('/en/01/');
 

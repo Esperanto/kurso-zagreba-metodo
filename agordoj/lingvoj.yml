@@ -25,8 +25,8 @@ bn:
     esperante: bengala
   stato: testa
   aŭtoroj:
-    - nomo: Onklo ENG
-      github: onklo
+    - nomo: OpenAI
+      github: openai
 ca:
   nomo:
     fontlingve: Català
@@ -305,10 +305,10 @@ ne:
     fontlingve: नेपाली
     esperante: nepala
   stato: testa
-  komentejo: 1
+  komentejo: 0
   aŭtoroj:
-    - nomo: Onklo ENG
-      github: onklo
+    - nomo: OpenAI
+      github: openai
 nl:
   nomo:
     fontlingve: Nederlands
@@ -390,7 +390,7 @@ sl:
     fontlingve: Slovenščina
     esperante: slovena
   stato: preta
-  komentejo: 0
+  komentejo: 1
   aŭtoroj:
     - nomo: Milan Jarnovič
       github: Mioli
@@ -410,7 +410,7 @@ sw:
     fontlingve: Kiswahili
     esperante: svahila
   stato: testa
-  komentejo: 1
+  komentejo: 0
   aŭtoroj:
     - nomo: Leo de Cooman
       github: GrizaLeono

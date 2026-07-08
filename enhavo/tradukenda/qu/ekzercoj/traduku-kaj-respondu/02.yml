@@ -1,0 +1,70 @@
+-
+  demando: Qanpa mawka wasiykiqa imaynataq karqa?
+  rektatraduko:
+    - Kia: Imayna
+    - estis: karqa
+    - via: qanpa
+    - malnova: mawka
+    - hejmo: wasi
+    - '?'
+-
+  demando: Mayqin liwrukunatataq ñawincharqanki, allinkunachu karqanku?
+  rektatraduko:
+    - Kiujn: Mayqinkunata
+    - librojn: liwrukunata
+    - vi: qan
+    - legis: ñawincharqanki
+    - kaj: hinaspa
+    - ĉu: chu
+    - ili: paykuna
+    - estas: kanku
+    - bonaj: allinkuna
+    - '?'
+-
+  demando: Anawan Markowanqa Markopa huch'uy wasi ukhunpi imatataq ruwarqanku?
+  rektatraduko:
+    - Kion: Imata
+    - faris: ruwarqa
+    - Anna: Ana
+    - kaj: hinaspa
+    - Marko: Marko
+    - en: ukhupi
+    - la: riqsisqa
+    - malgranda: huch'uy
+    - ĉambro: wasi ukhu
+    - de: pa
+    - Marko: Marko
+    - '?'
+-
+  demando: Kuyaymanta liwrukunata ñawinchayta munankichu?
+  rektatraduko:
+    - Ĉu: Chu
+    - vi: qan
+    - ŝatas: munanki
+    - legi: ñawinchay
+    - librojn: liwrukunata
+    - pri: manta
+    - amo: kuyay
+    - '?'
+-
+  demando: Piwanmi qanwan wasiykiman rinqa?
+  rektatraduko:
+    - Kiu: Pi
+    - iros: rinqa
+    - kun: wan
+    - vi: qan
+    - al: man
+    - via: qanpa
+    - hejmo: wasi
+    - '?'
+-
+  demando: Qanpa warmi masiykipa ñawinkunaqa imaynataq kanku?
+  rektatraduko:
+    - Kiaj: Imayna
+    - estas: kanku
+    - la: riqsisqa
+    - okuloj: ñawikuna
+    - de: pa
+    - via: qanpa
+    - amikino: warmi masi
+    - '?'

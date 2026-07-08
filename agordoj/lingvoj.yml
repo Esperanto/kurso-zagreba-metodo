@@ -342,6 +342,14 @@ pt:
       github: Jxajroad
     - nomo: Alejandro Escobedo
       github: alescomu
+qu:
+  nomo:
+    fontlingve: Runa Simi
+    esperante: keĉua
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 ro:
   nomo:
     fontlingve: Română

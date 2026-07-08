@@ -8,9 +8,9 @@
     - ',' 
     - kie: any
     - ajn: toerana hafa
-    - kaj: ""
-    - kiam: ary
-    - ajn: toerana hafa
+    - kaj: ary
+    - kiam: rahoviana
+    - ajn: na rahoviana
     - '?'
 - 
   demando: "Rahovina aho no hamerina ny antsasaky ny boky hafa ?"
@@ -44,11 +44,11 @@
   rektatraduko: 
     - Kial:  Fa maninona 
     - estas: dia
-    - des: ""
+    - des: dia vao mainka
     - pli: kokoa
     - malvarma: mangatsiaka
     - ',' 
-    - ju: ""
+    - ju: arakaraka ny
     - pli: kokoa
     - longe: ela
     - ni: isika
@@ -63,6 +63,6 @@
     - kontenta: faly
     - kun: aminy
     - iu: rehetra
-    - ajn: quel
+    - ajn: na iza na iza
     - viro: lehilahy
     - '?'

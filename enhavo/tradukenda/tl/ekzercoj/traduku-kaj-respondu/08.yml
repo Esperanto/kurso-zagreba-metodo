@@ -1,0 +1,80 @@
+- demando: Sino ang maglilinis ng kusina pagkatapos ng tanghalian?
+  rektatraduko:
+  - Kiu: Sino
+  - purigos: lilinis
+  - la: ang
+  - kuirejon: kusina
+  - post: pagkatapos ng
+  - la: ang
+  - tagmanĝo: tanghalian
+  - '?'
+- demando: 'Ano ang gusto mong inumin: tsaa, kaunting kape, o wala kang gustong anuman?'
+  rektatraduko:
+  - Kion: Ano
+  - vi: ikaw
+  - volas: gusto
+  - trinki: uminom
+  - ':'
+  - teon: tsaa
+  - ','
+  - iom: kaunti
+  - da: ng
+  - kafo: kape
+  - aŭ: o
+  - ĉu: ba
+  - vi: ikaw
+  - volas: gusto
+  - nenion: wala
+  - '?'
+- demando: Bakit mo biglang napagpasyahang baguhin ang maliit mong silid?
+  rektatraduko:
+  - Kial: Bakit
+  - vi: ikaw
+  - tiel: ganoon
+  - subite: bigla
+  - decidis: nagpasiya
+  - renovigi: baguhin
+  - vian: iyong
+  - ĉambreton: maliit na silid
+  - '?'
+- demando: Kanino mo ibinigay ang malilinis na baso para sa alak?
+  rektatraduko:
+  - Al: Sa
+  - kiu: sino
+  - vi: ikaw
+  - donis: nagbigay
+  - la: ang
+  - purajn: malilinis
+  - glasojn: mga baso
+  - por: para sa
+  - la: ang
+  - vino: alak
+  - '?'
+- demando: Laban kanino naglaro ang iyong sportklubo dalawang linggo ang nakalipas?
+  rektatraduko:
+  - Kontraŭ: Laban sa
+  - kiu: sino
+  - ludis: naglaro
+  - via: iyong
+  - sportklubo: sportklub
+  - antaŭ: bago
+  - du: dalawa
+  - semajnoj: mga linggo
+  - '?'
+- demando: Madalas mo bang nakikita ang pulis na nakatira sa apartment sa itaas mo?
+  rektatraduko:
+  - Ĉu: ba
+  - vi: ikaw
+  - ofte: madalas
+  - vidas: nakakakita
+  - la: ang
+  - policiston: pulis
+  - ','
+  - kiu: na
+  - loĝas: nakatira
+  - en: sa loob ng
+  - la: ang
+  - loĝejo: tirahan
+  - super: sa ibabaw ng
+  - vi: ikaw
+  - '?'

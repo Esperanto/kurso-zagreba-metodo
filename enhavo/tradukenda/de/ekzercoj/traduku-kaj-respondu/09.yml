@@ -1,56 +1,56 @@
-- 
+-
   demando: Was könnte deine Eltern am meisten erfreuen?
   rektatraduko:
-    - Kio: Was 
-    - povus: könnte 
-    - plej: am meisten 
-    - ĝojigi: erfreuen 
-    - viajn: deine 
-    - gepatrojn: Eltern 
+    - Kio: Was
+    - povus: könnte
+    - plej: am meisten
+    - ĝojigi: erfreuen
+    - viajn: deine
+    - gepatrojn: Eltern
     - '?'
-- 
+-
   demando: Wenn wenigstens du nach dem Lernen mit mir in das Stadtzentrum gehen würdest!
   rektatraduko:
     - Se: Wenn
-    - almenaŭ: wenigstens 
-    - vi: du 
-    - post: nach 
-    - la: dem 
-    - lernado: Lernen 
-    - irus: würdest gehen 
-    - kun: mit 
-    - mi: mir 
-    - en: in 
-    - la: das 
-    - urbocentron: Stadtzentrum 
+    - almenaŭ: wenigstens
+    - vi: du
+    - post: nach
+    - la: dem
+    - lernado: Lernen
+    - irus: würdest gehen
+    - kun: mit
+    - mi: mir
+    - en: in
+    - la: das
+    - urbocentron: Stadtzentrum
     - '!'
-- 
+-
   demando: Wohin würdest du reisen wollen, wenn du genug Geld und Zeit hättest?
   rektatraduko:
-    - Kien: Wohin 
-    - vi: du 
+    - Kien: Wohin
+    - vi: du
     - dezirus: würdest wollen
-    - vojaĝi: reisen 
-    - ',' 
-    - se: wenn 
-    - vi: du 
-    - havus: hättest 
-    - sufiĉe: genug 
-    - da: an 
-    - mono: Geld 
-    - kaj: und 
-    - tempo: Zeit 
+    - vojaĝi: reisen
+    - ','
+    - se: wenn
+    - vi: du
+    - havus: hättest
+    - sufiĉe: genug
+    - da: von (Mengenangabe)
+    - mono: Geld
+    - kaj: und
+    - tempo: Zeit
     - '?'
-- 
+-
   demando: Planst du, mit dem Auto nach Paris zu fahren, oder scheint es dir nicht viel besser, mit dem Zug zu fahren?
-  rektatraduko: 
+  rektatraduko:
     - Ĉu: Ob
     - vi: du
     - planas: planst
     - veturi: fahren
     - al: nach
     - Parizo: Paris
-    - per: mit
+    - per: mittels
     - aŭto: Auto
     - aŭ: oder
     - ĉu: ob
@@ -59,17 +59,17 @@
     - multe: viel
     - pli: mehr
     - bone: gut
-    - per: mit
+    - per: mittels
     - vagonaro: Zug
     - '?'
-- 
+-
   demando: Warum werden gleiche Ideen von verschiedenen Menschen verschiedenartig erklärt?
   rektatraduko:
-    - Kial: Warum 
-    - diversaj: verschiedene 
-    - homoj: Menschen 
-    - klarigas: erklären 
-    - samajn: gleiche 
-    - ideojn: Ideen 
-    - diversmaniere: verschiedenartig 
+    - Kial: Warum
+    - diversaj: verschiedene
+    - homoj: Menschen
+    - klarigas: erklären
+    - samajn: gleiche
+    - ideojn: Ideen
+    - diversmaniere: verschiedenartig
     - '?'

@@ -305,7 +305,7 @@ ne:
     fontlingve: नेपाली
     esperante: nepala
   stato: testa
-  komentejo: 1
+  komentejo: 0
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -390,7 +390,7 @@ sl:
     fontlingve: Slovenščina
     esperante: slovena
   stato: preta
-  komentejo: 0
+  komentejo: 1
   aŭtoroj:
     - nomo: Milan Jarnovič
       github: Mioli
@@ -410,7 +410,7 @@ sw:
     fontlingve: Kiswahili
     esperante: svahila
   stato: testa
-  komentejo: 1
+  komentejo: 0
   aŭtoroj:
     - nomo: Leo de Cooman
       github: GrizaLeono

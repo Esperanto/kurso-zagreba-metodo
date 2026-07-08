@@ -1,5 +1,1 @@
-## Tohizo ny fianarana
-
-Vita ny lesona 12: efa manana fototra tsara ianao izao. Avereno vakina tsikelikely ireo lesona, ampiasao ny karatra fianarana, ary manandrama manoratra na miteny fehezanteny fohy isan'andro.
-
-https://esperanto-malagasy.mg/
+- [Esperanto malagasy](https://esperanto-malagasy.mg/) estas projekto naskita en 2025 por promocii la Esperanto-lingvon en Malagasio. La celo estas diskonigi tiun lingvon al la malagasa publiko kaj kuraĝigi la interŝanĝojn inter esperantistoj same lokaj kiel internaciaj.

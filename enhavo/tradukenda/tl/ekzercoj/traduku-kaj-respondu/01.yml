@@ -1,0 +1,51 @@
+- demando: Who is your female friend?
+  rektatraduko:
+  - Kiu: Sino
+  - estas: ay
+  - via: iyong
+  - amikino: kaibigang babae
+  - '?'
+- demando: Is your friend Anna now writing in the room?
+  rektatraduko:
+  - Ĉu: Ba
+  - via: iyong
+  - amikino: kaibigang babae
+  - Anna: Anna
+  - skribas: sumusulat
+  - nun: ngayon
+  - en: sa loob ng
+  - la: ang
+  - ĉambro: silid
+  - '?'
+- demando: Does the friend of your father work in a hotel?
+  rektatraduko:
+  - Ĉu: Ba
+  - la: ang
+  - amiko: kaibigan
+  - de: ng
+  - via: iyong
+  - patro: ama
+  - laboras: nagtatrabaho
+  - en: sa loob ng
+  - hotelo: hotel
+  - '?'
+- demando: What is on the work-bench in our room?
+  rektatraduko:
+  - Kio: Ano
+  - estas: ay
+  - sur: nasa ibabaw ng
+  - la: ang
+  - labortablo: mesa ng trabaho
+  - en: sa loob ng
+  - nia: aming
+  - ĉambro: silid
+  - '?'
+- demando: Is there an Esperanto textbook on your table?
+  rektatraduko:
+  - Ĉu: Ba
+  - Esperanto-lernolibro: aklat-aralin ng Esperanto
+  - estas: ay
+  - sur: nasa ibabaw ng
+  - via: iyong
+  - tablo: mesa
+  - '?'

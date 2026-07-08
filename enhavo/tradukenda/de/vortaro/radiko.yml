@@ -5,7 +5,7 @@ agrabl: angenehm
 akcept: akzeptieren
 akv: Wasser
 ali: anderer
-alt: 
+alt:
 - hoch
 - hohe/r/s
 am: lieben
@@ -33,12 +33,10 @@ branĉ:
 - Ast
 bru: Lärm
 buŝ: Mund
-cert: 
+cert:
 - sicher
 - gewiss
-dank:
-- Dank
-- danken
+dank: danken
 daŭr: dauern
 decid: entscheiden
 demand: fragen
@@ -48,10 +46,10 @@ diabl: Teufel
 dik: dick
 dimanĉ: Sonntag
 dir: sagen
-direkt: Richtung
+direkt: lenken
 doktor: Doktor
 dolar: Dollar
-dolor: Schmerz
+dolor: schmerzen
 dolĉ: süß
 dom: Haus
 don: geben
@@ -65,9 +63,7 @@ ekskurs: Ausflug
 esper: hoffen
 est: sein (Verb)
 facil: leicht
-fakt:
-- Tatsache
-- tatsächlich
+fakt: Tatsache
 fal: fallen
 famili: Familie
 far:
@@ -174,7 +170,7 @@ memor: sich erinnern
 met:
 - setzen
 - stellen
-- legen 
+- legen
 mez: Mitte
 milit: Krieg
 minut: Minute

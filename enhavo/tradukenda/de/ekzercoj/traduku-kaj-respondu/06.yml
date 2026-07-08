@@ -1,72 +1,72 @@
-- 
+-
   demando: Möchtest du, dass ich dir mein neuestes Buch zeige?
   rektatraduko:
-    - Ĉu: Ob 
+    - Ĉu: Ob
     - vi: du
-    - deziras: wünschst 
-    - ',' 
-    - ke: dass 
-    - mi: ich 
-    - montru: zeige 
+    - deziras: wünschst
+    - ','
+    - ke: dass
+    - mi: ich
+    - montru: zeige
     - al: zu
-    - vi: dir 
-    - mian: mein 
-    - plej: am meisten  
-    - novan: neues 
-    - libron: Buch 
+    - vi: dir
+    - mian: mein
+    - plej: am meisten
+    - novan: neues
+    - libron: Buch
     - '?'
-- 
+-
   demando: Was möchtest du morgen frühstücken?
   rektatraduko:
-    - Kion: Was 
-    - vi: du  
-    - volas: willst 
-    - morgaŭ: morgen 
-    - matenmanĝi: frühstücken 
+    - Kion: Was
+    - vi: du
+    - volas: willst
+    - morgaŭ: morgen
+    - matenmanĝi: frühstücken
     - '?'
-- 
+-
   demando: Wann wird Marko ankommen, um fünf oder um acht Uhr?
   rektatraduko:
-    - Kiam: Wann 
-    - Marko: Marko 
-    - alvenos: ankommen 
-    - ',' 
-    - je: zu 
-    - la: der 
-    - kvina: fünften 
-    - aŭ: oder 
-    - je: zu 
-    - la: der 
-    - oka: achten 
-    - horo: Stunde 
+    - Kiam: Wann
+    - Marko: Marko
+    - alvenos: wird ankommen
+    - ','
+    - je: um
+    - la: der
+    - kvina: fünften
+    - aŭ: oder
+    - je: um
+    - la: der
+    - oka: achten
+    - horo: Stunde
     - '?'
-- 
+-
   demando: Wann hast du bemerkt, dass mich die ganze Familie Wohltäter nennt?
   rektatraduko:
-    - Kiam: Wann 
-    - vi: du 
-    - rimarkis: bemerktest
-    - ','  
+    - Kiam: Wann
+    - vi: du
+    - rimarkis: hast bemerkt
+    - ','
     - ke: dass
-    - la: die 
-    - tuta: ganze 
-    - familio: Familie 
-    - nomas: nennt 
-    - min: mich 
-    - bonfarulo: Wohltäter 
+    - la: die
+    - tuta: ganze
+    - familio: Familie
+    - nomas: nennt
+    - min: mich
+    - bonfarulo: Wohltäter
     - '?'
-- 
-  demando: War für dich das Büchlein nützlich, das ich geschickt habe?
+-
+  demando: War das Büchlein, das ich geschickt habe, für dich nützlich?
   rektatraduko:
-    - Ĉu: Ob 
+    - Ĉu: Ob
     - la: das
-    - libreto: Büchlein 
+    - libreto: Büchlein
     - estis: war
-    - utila: nützlich 
-    - al: zu 
+    - utila: nützlich
+    - al: zu
     - vi: dir
-    - ',' 
-    - kiun: das 
-    - mi: ich 
-    - sendis: sandte
+    - ','
+    - kiun: das
+    - mi: ich
+    - sendis: hast geschickt
     - '?'

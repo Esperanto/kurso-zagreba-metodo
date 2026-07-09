@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly when someone is singing joyfully?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+  demando: Ṣé o lè kọ́ ẹ̀kọ́ ní ìfarabalẹ̀ nígbà tí ẹnì kan ń kọrin pẹ̀lú ayọ̀?
+  rektatraduko:
+    - Ĉu: Ṣé
+    - vi: ìwọ
+    - povas: lè
+    - trankvile: ní ìfarabalẹ̀
+    - lerni: kọ́
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: nígbà tí
+    - iu: ẹnì kan
+    - ĝoje: pẹ̀lú ayọ̀
+    - kantas: ń kọrin
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
-  rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+  demando: Ta ni ó mọ̀ nígbà wo àti níbo ni a ó tún rí ara wa?
+  rektatraduko:
+    - Kiu: Ta ni
+    - scias: mọ̀
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: nígbà wo
+    - kaj: àti
+    - kie: níbo
+    - ni: àwa
+    - revidos: yóò tún rí
+    - nin: ara wa
     - '?'
 -
-  demando: What time is it now?
-  rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+  demando: Wákàtí mélòó ni báyìí?
+  rektatraduko:
+    - Kioma: Mélòó
+    - horo: wákàtí
+    - estas: jẹ́
+    - nun: báyìí
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
-  rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+  demando: Ṣé ẹnì kan ràn ọ́ lọ́wọ́ láti ṣí ilẹ̀kùn ilé àtijọ́ náà?
+  rektatraduko:
+    - Ĉu: Ṣé
+    - iu: ẹnì kan
+    - helpis: ràn lọ́wọ́
+    - al: sí
+    - vi: ìwọ
+    - malfermi: ṣí
+    - la: náà
+    - pordon: ilẹ̀kùn
+    - de: ti
+    - la: náà
+    - malnova: àtijọ́
+    - domo: ilé
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
+  demando: Kí ló dé tí o kò ní àkókò láti gbọ́ mi fún ìgbà pípẹ́ sí i?
+  rektatraduko:
+    - Kial: Kí ló dé
+    - vi: ìwọ
+    - ne: kò
+    - havas: ní
+    - tempon: àkókò
+    - aŭskulti: gbọ́
+    - min: mi
+    - pli: sí i
+    - longe: pẹ́
     - '?'

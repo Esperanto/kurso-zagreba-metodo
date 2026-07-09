@@ -1,75 +1,75 @@
-- 
-  demando: What could delight your parents most of all?
-  rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+-
+  demando: Kí ni ó lè mú inú àwọn òbí rẹ dùn jù lọ?
+  rektatraduko:
+    - Kio: Kí ni
+    - povus: lè
+    - plej: jùlọ
+    - ĝojigi: mú inú dùn
+    - viajn: rẹ
+    - gepatrojn: àwọn òbí
     - '?'
-- 
-  demando: If only you wanted to go to the city center after school!
-  rektatraduko: 
-    - Se: If
-    - almenaŭ: at least (if only)
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+-
+  demando: Ìbá ṣe pé o fẹ́ lọ sí àárín ìlú pẹ̀lú mi lẹ́yìn ẹ̀kọ́!
+  rektatraduko:
+    - Se: Bí
+    - almenaŭ: ó kéré tán
+    - vi: ìwọ
+    - post: lẹ́yìn
+    - la: náà
+    - lernado: ẹ̀kọ́
+    - irus: bá lọ
+    - kun: pẹ̀lú
+    - mi: mi
+    - en: sínú
+    - la: náà
+    - urbocentron: àárín ìlú
     - '!'
-- 
-  demando: Where would you like to travel to if you had enough money and time?
-  rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
-    - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+-
+  demando: Síbo ni o fẹ́ rìn ìrìn-àjò lọ bí o bá ní owó àti àkókò tó?
+  rektatraduko:
+    - Kien: Síbo
+    - vi: ìwọ
+    - dezirus: bá fẹ́
+    - vojaĝi: rìn ìrìn-àjò
+    - ','
+    - se: bí
+    - vi: ìwọ
+    - havus: bá ní
+    - sufiĉe: tó
+    - da: ti iye
+    - mono: owó
+    - kaj: àti
+    - tempo: àkókò
     - '?'
-- 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
+-
+  demando: Ṣé o ń gbero láti lọ sí Paris pẹ̀lú ọkọ̀ ayọ́kẹ́lẹ́, tàbí ṣé ọkọ̀ ojú irin kò dàbí ohun tó dára ju?
+  rektatraduko:
+    - Ĉu: Ṣé
+    - vi: ìwọ
+    - planas: ń gbero
+    - veturi: rìn pẹ̀lú ọkọ̀
+    - al: sí
     - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+    - per: nípasẹ̀
+    - aŭto: ọkọ̀ ayọ́kẹ́lẹ́
+    - aŭ: tàbí
+    - ĉu: ṣé
+    - ne: kò
+    - ŝajnas: dàbí
+    - multe: púpọ̀
+    - pli: ju
+    - bone: dára
+    - per: nípasẹ̀
+    - vagonaro: ọkọ̀ ojú irin
     - '?'
-- 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+-
+  demando: Kí ló dé tí àwọn ènìyàn onírúurú fi ń ṣàlàyé àwọn èrò kan náà ní ọ̀nà onírúurú?
+  rektatraduko:
+    - Kial: Kí ló dé
+    - diversaj: onírúurú
+    - homoj: àwọn ènìyàn
+    - klarigas: ṣàlàyé
+    - samajn: kan náà
+    - ideojn: àwọn èrò
+    - diversmaniere: ní ọ̀nà onírúurú
     - '?'

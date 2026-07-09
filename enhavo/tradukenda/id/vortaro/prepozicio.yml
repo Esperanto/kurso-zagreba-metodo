@@ -9,8 +9,8 @@ apud:
 - di dekat
 - di samping
 da: 
+- sejumlah
 - dari
-- tentang
 de:
 - dari
 - tentang
@@ -19,7 +19,7 @@ dum:
 - ketika
 ekde: sejak
 ekster: di luar
-el: dari
+el: dari, keluar dari
 en: di dalam
 inter: di antara
 je: pada
@@ -49,7 +49,7 @@ sub:
 - di bawah
 - di balik
 super: di atas
-sur: 'pada'
+sur: di atas
 tra: melalui
 trans: menyeberangi
 ĉe: di

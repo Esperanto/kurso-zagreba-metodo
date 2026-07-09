@@ -1,51 +1,51 @@
-- 
-  demando: Does friendship make you more happy than love does?
-  rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
+-
+  demando: nasin pi jan pona li pana e pilin pona tawa sina, mute tawa olin, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - amikeco: nasin pi jan pona
+    - pli: mute
+    - feliĉigas: pana e pilin pona
+    - vin: sina
+    - ol: tawa
+    - la: (ni)
+    - amo: olin
     - '?'
-- 
-  demando: How often do you write letters to your girlfriends in Italy?
-  rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
+-
+  demando: sina sitelen e lipu toki tawa jan pona meli sina lon ma Italija, lon tenpo pi mute seme?
+  rektatraduko:
+    - Kiel: nasin seme
+    - ofte: lon tenpo mute
+    - vi: sina
+    - skribas: sitelen
+    - leterojn: lipu toki
+    - al: tawa
+    - viaj: sina
+    - amikinoj: jan pona meli
+    - en: lon
+    - Italio: ma Italija
     - '?'
-- 
-  demando: Has the relationship between you and your teacher changed?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+-
+  demando: nasin poka pi sina en jan pi pana sona sina li kama ante, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - la: (ni)
+    - rilato: nasin poka
+    - inter: lon insa pi
+    - vi: sina
+    - kaj: en
+    - via: sina
+    - instruisto: jan pi pana sona
+    - ŝanĝiĝis: kama ante, tenpo pini
     - '?'
-- 
-  demando: Do you now already know Esperanto well enough?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+-
+  demando: sina sona pona e toki Epelanto lon tenpo ni, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - vi: sina
+    - nun: lon tenpo ni
+    - jam: pini la
+    - scias: sona
+    - Esperanton: toki Epelanto
+    - sufiĉe: mute pona
+    - bone: pona
     - '?'

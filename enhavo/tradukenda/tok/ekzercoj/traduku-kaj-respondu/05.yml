@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly when someone is singing joyfully?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+  demando: jan li kalama musi kepeken pilin pona la, sina ken kama sona kepeken pilin awen, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - vi: sina
+    - povas: ken
+    - trankvile: kepeken pilin awen
+    - lerni: kama sona
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: lon tenpo pi
+    - iu: jan
+    - ĝoje: kepeken pilin pona
+    - kantas: kalama musi
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
-  rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+  demando: jan seme li sona e tenpo en ma pi lukin sin pi mi mute?
+  rektatraduko:
+    - Kiu: jan seme
+    - scias: sona
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: tenpo seme
+    - kaj: en
+    - kie: ma seme
+    - ni: mi mute
+    - revidos: lukin sin, tenpo kama
+    - nin: mi mute
     - '?'
 -
-  demando: What time is it now?
-  rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+  demando: tenpo li seme lon tenpo ni?
+  rektatraduko:
+    - Kioma: nanpa seme
+    - horo: tenpo
+    - estas: li
+    - nun: lon tenpo ni
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
-  rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+  demando: jan li pana e pona tawa sina, tawa open pi lupa tomo pi tenpo pini, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - iu: jan
+    - helpis: pana e pona, tenpo pini
+    - al: tawa
+    - vi: sina
+    - malfermi: open e
+    - la: (ni)
+    - pordon: lupa tomo
+    - de: pi
+    - la: (ni)
+    - malnova: pi tenpo pini
+    - domo: tomo
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
+  demando: sina jo ala e tenpo pi kute e mi lon tenpo suli, tan seme?
+  rektatraduko:
+    - Kial: tan seme
+    - vi: sina
+    - ne: ala
+    - havas: jo
+    - tempon: tenpo
+    - aŭskulti: kute e
+    - min: mi
+    - pli: mute
+    - longe: tenpo suli
     - '?'

@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: pali lon tenpo ni
+int: pali lon tenpo pini
+ont: pali lon tenpo kama
+unt: pali ken
+at: kama pali lon tenpo ni
+it: kama pali lon tenpo pini
+ot: kama pali lon tenpo kama
+ut: kama pali ken

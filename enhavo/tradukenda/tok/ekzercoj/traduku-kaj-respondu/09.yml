@@ -1,75 +1,75 @@
-- 
-  demando: What could delight your parents most of all?
-  rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+-
+  demando: ijo seme li ken pana e pilin pona mute tawa mama sina?
+  rektatraduko:
+    - Kio: ijo seme
+    - povus: ken
+    - plej: nanpa wan
+    - ĝojigi: pana e pilin pona
+    - viajn: sina
+    - gepatrojn: mama mute
     - '?'
-- 
-  demando: If only you wanted to go to the city center after school!
-  rektatraduko: 
-    - Se: If
-    - almenaŭ: at least (if only)
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+-
+  demando: sina wile tawa insa pi ma tomo lon tenpo pi pini sona la, pona a!
+  rektatraduko:
+    - Se: la
+    - almenaŭ: taso
+    - vi: sina
+    - post: lon tenpo kama pi
+    - la: (ni)
+    - lernado: kama sona
+    - irus: tawa, ken
+    - kun: poka
+    - mi: mi
+    - en: tawa
+    - la: (ni)
+    - urbocentron: insa pi ma tomo
     - '!'
-- 
-  demando: Where would you like to travel to if you had enough money and time?
-  rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
-    - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+-
+  demando: sina jo e mani pona en tenpo pona la, sina wile tawa ma seme?
+  rektatraduko:
+    - Kien: tawa ma seme
+    - vi: sina
+    - dezirus: wile, ken
+    - vojaĝi: tawa ma weka
+    - ','
+    - se: la
+    - vi: sina
+    - havus: jo, ken
+    - sufiĉe: mute pona
+    - da: pi
+    - mono: mani
+    - kaj: en
+    - tempo: tenpo
     - '?'
-- 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+-
+  demando: sina wile tawa ma Pali kepeken tomo tawa, anu ni li pona mute — tomo tawa linja?
+  rektatraduko:
+    - Ĉu: anu seme
+    - vi: sina
+    - planas: wile
+    - veturi: tawa
+    - al: tawa
+    - Parizo: ma Pali
+    - per: kepeken
+    - aŭto: tomo tawa
+    - aŭ: anu
+    - ĉu: anu seme
+    - ne: ala
+    - ŝajnas: lukin sama
+    - multe: mute
+    - pli: mute
+    - bone: pona
+    - per: kepeken
+    - vagonaro: tomo tawa linja
     - '?'
-- 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+-
+  demando: jan ante mute li pana e sona pi pilin sama, kepeken nasin ante, tan seme?
+  rektatraduko:
+    - Kial: tan seme
+    - diversaj: ante mute
+    - homoj: jan
+    - klarigas: pana e sona
+    - samajn: sama
+    - ideojn: pilin
+    - diversmaniere: kepeken nasin ante
     - '?'

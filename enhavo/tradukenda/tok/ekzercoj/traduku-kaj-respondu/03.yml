@@ -1,77 +1,77 @@
 -
-  demando: Do waiters in large hotels understand a lot of languages? 
-  rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+  demando: jan pi pana moku lon tomo lape suli li sona e toki mute, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - kelneroj: jan pi pana moku
+    - en: lon
+    - grandaj: suli
+    - hoteloj: tomo lape
+    - komprenas: sona
+    - multajn: mute
+    - lingvojn: toki
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
+  demando: jan Ana li pilin pona tawa kalama musi sin pi jan pi mani lili en meli pona. sina sona ala sona e ni?
+  rektatraduko:
+    - Ĉu: anu seme
+    - vi: sina
+    - scias: sona
     - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ĉu: anu seme
+    - Anna: jan Ana
+    - ŝatas: pilin pona tawa
+    - la: (ni)
+    - novan: sin
+    - kanton: kalama musi
+    - pri: pi
+    - malriĉulo: jan pi mani lili
+    - kaj: en
+    - belulino: meli pona
     - '?'
 -
-  demando: Where did you see an old man and a young man who were carrying a large table?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
+  demando: sina lukin e mije pi tenpo pini en mije lili lon ma seme? ona li jo e supa suli.
+  rektatraduko:
+    - Kie: ma seme
+    - vi: sina
+    - vidis: lukin, tenpo pini
+    - la: (ni)
+    - maljunulon: mije pi tenpo pini
+    - kaj: en
+    - la: (ni)
+    - junulon: mije lili
     - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
+    - kiuj: ona
+    - portis: jo, tenpo pini
+    - grandan: suli
+    - tablon: supa
     - '?'
 -
-  demando: How did it happen that you again came to us without brothers-and-sisters?
-  rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
+  demando: sina kama sin tawa mi mute. jan sama sina li lon ala. ni li kama lon nasin seme?
+  rektatraduko:
+    - Kiel: nasin seme
+    - okazis: kama lon, tenpo pini
     - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
+    - ke: ni
+    - vi: sina
+    - denove: sin
+    - venis: kama, tenpo pini
+    - al: tawa
+    - ni: mi mute
+    - sen: weka pi
+    - gefratoj: jan sama
     - '?'
 -
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+  demando: sina ken kama sona pona e toki Epelanto kepeken lipu sona sin, anu seme?
+  rektatraduko:
+    - Ĉu: anu seme
+    - vi: sina
+    - povas: ken
+    - per: kepeken
+    - la: (ni)
+    - nova: sin
+    - lernolibro: lipu sona
+    - sufiĉe: mute pona
+    - rapide: kepeken tenpo lili
+    - lerni: kama sona
+    - Esperanton: toki Epelanto
     - '?'

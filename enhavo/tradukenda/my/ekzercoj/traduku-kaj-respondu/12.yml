@@ -1,68 +1,68 @@
-- 
-  demando: Will we see each other again, no matter where or when?
-  rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
-    - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
+-
+  demando: ဘယ်နေရာ၊ ဘယ်အချိန်မဆို ကျွန်ုပ်တို့ ပြန်တွေ့ကြမလား။
+  rektatraduko:
+    - Ĉu: လား
+    - ni: ကျွန်ုပ်တို့
+    - revidos: ပြန်တွေ့မည်
+    - nin: မိမိတို့ကိုယ်ကို
+    - ','
+    - kie: ဘယ်နေရာတွင်
+    - ajn: မဆို
+    - kaj: နှင့်
+    - kiam: ဘယ်အချိန်
+    - ajn: မဆို
     - '?'
-- 
-  demando: When will I get back the other half of the books?
-  rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
+-
+  demando: စာအုပ်များ၏ အခြားတစ်ဝက်ကို ကျွန်ုပ် ဘယ်အချိန် ပြန်ရမလဲ။
+  rektatraduko:
+    - Kiam: ဘယ်အချိန်
+    - mi: ကျွန်ုပ်
+    - rericevos: ပြန်ရရှိမည်
+    - la: ထို
+    - alian: အခြားသော
+    - duonon: တစ်ဝက်ကို
+    - de: ၏
+    - la: ထို
+    - libroj: စာအုပ်များ
     - '?'
-- 
-  demando: Will you need more than a quarter of the year for those jobs?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
+-
+  demando: ထိုအလုပ်များအတွက် သင် တစ်နှစ်၏ လေးပုံတစ်ပုံထက် ပိုလိုအပ်မလား။
+  rektatraduko:
+    - Ĉu: လား
+    - vi: သင်
+    - bezonos: လိုအပ်မည်
+    - pli: ပို၍
+    - ol: ထက်
+    - kvaronan: လေးပုံတစ်ပုံသော
+    - jaron: နှစ်ကို
+    - por: အတွက်
+    - tiuj: ထို
+    - laboroj: အလုပ်များ
     - '?'
-- 
-  demando: Why is it that the colder it is, the longer we wait?
-  rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
-    - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
+-
+  demando: ကျွန်ုပ်တို့ ကြာကြာစောင့်လေလေ ပိုအေးလာတာ ဘာကြောင့်လဲ။
+  rektatraduko:
+    - Kial: ဘာကြောင့်
+    - estas: ဖြစ်သည်
+    - des: ထိုမျှ
+    - pli: ပို၍
+    - malvarma: အေးသော
+    - ','
+    - ju: ဘယ်လောက်
+    - pli: ပို၍
+    - longe: ကြာရှည်စွာ
+    - ni: ကျွန်ုပ်တို့
+    - atendas: စောင့်သည်
     - '?'
-- 
-  demando: Would you be happy with any man?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
+-
+  demando: မည်သည့်အမျိုးသားနှင့်မဆို သင် ကျေနပ်မည်လား။
+  rektatraduko:
+    - Ĉu: လား
+    - vi: သင်
+    - estus: ဖြစ်မည်
+    - kontenta: ကျေနပ်သော
+    - kun: နှင့်အတူ
+    - iu: တစ်ယောက်ယောက်
+    - ajn: မဆို
+    - viro: အမျိုးသား
     - '?'

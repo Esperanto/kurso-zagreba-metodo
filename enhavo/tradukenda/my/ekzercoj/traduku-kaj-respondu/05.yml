@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+  demando: တစ်ယောက်ယောက်က ပျော်ရွှင်စွာ သီဆိုနေစဉ် သင် အေးအေးဆေးဆေး သင်ယူနိုင်ပါသလား။
+  rektatraduko:
+    - Ĉu: လား
+    - vi: သင်
+    - povas: တတ်နိုင်သည်
+    - trankvile: ငြိမ်သက်စွာ
+    - lerni: သင်ယူရန်
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: အချိန်တွင်
+    - iu: တစ်ယောက်ယောက်
+    - ĝoje: ပျော်ရွှင်စွာ
+    - kantas: သီဆိုသည်
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
-  rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+  demando: ကျွန်ုပ်တို့ ဘယ်အချိန်၊ ဘယ်နေရာမှာ ပြန်တွေ့မည်ကို ဘယ်သူသိသလဲ။
+  rektatraduko:
+    - Kiu: ဘယ်သူ
+    - scias: သိသည်
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: ဘယ်အချိန်
+    - kaj: နှင့်
+    - kie: ဘယ်နေရာတွင်
+    - ni: ကျွန်ုပ်တို့
+    - revidos: ပြန်တွေ့မည်
+    - nin: မိမိတို့ကိုယ်ကို
     - '?'
 -
-  demando: What time is it now?
-  rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+  demando: ယခု ဘယ်နှစ်နာရီရှိပြီလဲ။
+  rektatraduko:
+    - Kioma: ဘယ်မြောက်
+    - horo: နာရီ
+    - estas: ဖြစ်သည်
+    - nun: ယခု
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
-  rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+  demando: တစ်ယောက်ယောက်က သင့်ကို အိမ်ဟောင်း၏ တံခါး ဖွင့်ရန် ကူညီခဲ့ပါသလား။
+  rektatraduko:
+    - Ĉu: လား
+    - iu: တစ်ယောက်ယောက်
+    - helpis: ကူညီခဲ့သည်
+    - al: သို့
+    - vi: သင်
+    - malfermi: ဖွင့်ရန်
+    - la: ထို
+    - pordon: တံခါးကို
+    - de: ၏
+    - la: ထို
+    - malnova: ဟောင်းသော
+    - domo: အိမ်
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
+  demando: သင် ကျွန်ုပ်ကို ပိုကြာကြာ နားထောင်ရန် အချိန် ဘာကြောင့် မရှိသလဲ။
+  rektatraduko:
+    - Kial: ဘာကြောင့်
+    - vi: သင်
+    - ne: မ
+    - havas: ရှိသည်
+    - tempon: အချိန်ကို
+    - aŭskulti: နားထောင်ရန်
+    - min: ကျွန်ုပ်ကို
+    - pli: ပို၍
+    - longe: ကြာရှည်စွာ
     - '?'

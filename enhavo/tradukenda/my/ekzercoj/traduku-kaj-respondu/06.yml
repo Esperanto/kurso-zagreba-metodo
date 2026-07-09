@@ -1,72 +1,72 @@
-- 
-  demando: Do you want me to show you my newest book?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
-    - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+-
+  demando: ကျွန်ုပ်၏ အသစ်ဆုံးစာအုပ်ကို သင့်အား ပြစေချင်ပါသလား။
+  rektatraduko:
+    - Ĉu: လား
+    - vi: သင်
+    - deziras: ဆန္ဒရှိသည်
+    - ','
+    - ke: ဟု
+    - mi: ကျွန်ုပ်
+    - montru: ပြစေ
+    - al: သို့
+    - vi: သင်
+    - mian: ကျွန်ုပ်၏
+    - plej: အများဆုံး
+    - novan: အသစ်သော
+    - libron: စာအုပ်ကို
     - '?'
-- 
-  demando: What do you want for breakfast tomorrow?
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+-
+  demando: မနက်ဖြန် မနက်စာအတွက် သင် ဘာစားချင်သလဲ။
+  rektatraduko:
+    - Kion: ဘာကို
+    - vi: သင်
+    - volas: လိုချင်သည်
+    - morgaŭ: မနက်ဖြန်
+    - matenmanĝi: မနက်စာစားရန်
     - '?'
-- 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
-  rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
-    - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+-
+  demando: Marko သည် ဘယ်အချိန် ရောက်လာမလဲ၊ ငါးနာရီမှာလား ရှစ်နာရီမှာလား။
+  rektatraduko:
+    - Kiam: ဘယ်အချိန်
+    - Marko: Marko
+    - alvenos: ရောက်လာမည်
+    - ','
+    - je: မှာ
+    - la: ထို
+    - kvina: ငါးမြောက်
+    - aŭ: သို့မဟုတ်
+    - je: မှာ
+    - la: ထို
+    - oka: ရှစ်မြောက်
+    - horo: နာရီ
     - '?'
-- 
-  demando: When did you notice that the whole family calls me benefactor?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
-    - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+-
+  demando: မိသားစုတစ်စုလုံးက ကျွန်ုပ်ကို ကျေးဇူးရှင်ဟု ခေါ်ကြောင်း သင် ဘယ်အချိန် သတိပြုမိခဲ့သလဲ။
+  rektatraduko:
+    - Kiam: ဘယ်အချိန်
+    - vi: သင်
+    - rimarkis: သတိပြုမိခဲ့သည်
+    - ','
+    - ke: ဟု
+    - la: ထို
+    - tuta: တစ်ခုလုံး
+    - familio: မိသားစု
+    - nomas: ခေါ်သည်
+    - min: ကျွန်ုပ်ကို
+    - bonfarulo: ကျေးဇူးရှင်
     - '?'
-- 
-  demando: Was the booklet which I send you useful to you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
-    - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+-
+  demando: ကျွန်ုပ် သင့်ထံ ပို့ခဲ့သော စာအုပ်ငယ်သည် သင့်အတွက် အသုံးဝင်ခဲ့ပါသလား။
+  rektatraduko:
+    - Ĉu: လား
+    - la: ထို
+    - libreto: စာအုပ်ငယ်
+    - estis: ဖြစ်ခဲ့သည်
+    - utila: အသုံးဝင်သော
+    - al: သို့
+    - vi: သင်
+    - ','
+    - kiun: ဘယ်ဟာကို
+    - mi: ကျွန်ုပ်
+    - sendis: ပို့ခဲ့သည်
     - '?'

@@ -1,54 +1,54 @@
-- 
-  demando: Can you bring along the medicine of my sister?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+-
+  demando: ကျွန်ုပ်၏ ညီမ/အစ်မ၏ ဆေးကို သင် အတူယူလာနိုင်ပါသလား။
+  rektatraduko:
+    - Ĉu: လား
+    - vi: သင်
+    - povas: တတ်နိုင်သည်
+    - kunporti: အတူယူလာရန်
+    - la: ထို
+    - sanigilon: ကုသဆေးကို
+    - de: ၏
+    - mia: ကျွန်ုပ်၏
+    - fratino: ညီမ/အစ်မ
     - '?'
-- 
-  demando: When did you buy that music instrument?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+-
+  demando: ထိုဂီတကိရိယာကို သင် ဘယ်အချိန် ဝယ်ခဲ့သလဲ။
+  rektatraduko:
+    - Kiam: ဘယ်အချိန်
+    - vi: သင်
+    - aĉetis: ဝယ်ခဲ့သည်
+    - tiun: ထို
+    - muzikilon: ဂီတကိရိယာကို
     - '?'
-- 
-  demando: Who did use my key the last time?
-  rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+-
+  demando: နောက်ဆုံးတစ်ကြိမ် ကျွန်ုပ်၏ သော့ကို ဘယ်သူ အသုံးပြုခဲ့သလဲ။
+  rektatraduko:
+    - Kiu: ဘယ်သူ
+    - laste: နောက်ဆုံးအကြိမ်
+    - uzis: အသုံးပြုခဲ့သည်
+    - mian: ကျွန်ုပ်၏
+    - ŝlosilon: သော့ကို
     - '?'
-- 
-  demando: Did you travel in Venice also by gondola?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
+-
+  demando: သင် Venice တွင် ဂွန်ဒိုလာဖြင့်လည်း သွားလာခဲ့ပါသလား။
+  rektatraduko:
+    - Ĉu: လား
+    - vi: သင်
+    - en: ထဲတွင်
     - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - veturis: သွားလာခဲ့သည်
+    - ankaŭ: လည်း
+    - per: ဖြင့်
+    - gondolo: ဂွန်ဒိုလာ
     - '?'
-- 
-  demando: Will you be able to fall asleep when it got quiet?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
-    - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+-
+  demando: တိတ်ဆိတ်သွားသောအခါ သင် အိပ်ပျော်နိုင်မလား။
+  rektatraduko:
+    - Ĉu: လား
+    - vi: သင်
+    - povos: တတ်နိုင်မည်
+    - ekdormi: အိပ်ပျော်စတင်ရန်
+    - ','
+    - kiam: ဘယ်အချိန်
+    - silentiĝis: တိတ်ဆိတ်သွားသည်
     - '?'

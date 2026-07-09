@@ -1,0 +1,73 @@
+-
+  demando: Hayk'aqtaq qanta wakmanta rikusaq?
+  rektatraduko:
+    - Kiam: Hayk'aq
+    - mi: ñuqa
+    - revidos: wakmanta rikusaq
+    - vin: qanta
+    - '?'
+-
+  demando: Hayk'a unaytaq suyukunapura simita yachachkanki?
+  rektatraduko:
+    - Kiel: Imayna
+    - longe: unay
+    - vi: qan
+    - lernas: yachachkanki
+    - la: riqsisqa
+    - Internacian: suyukunapura
+    - Lingvon: simita
+    - '?'
+-
+  demando: Maypitaq musuq foto liwruy kachkan?
+  rektatraduko:
+    - Kie: Maypi
+    - estas: kan
+    - mia: ñuqaq
+    - nova: musuq
+    - libro: liwru
+    - kun: wan
+    - fotoj: fotokuna
+    - '?'
+-
+  demando: Chawpi p'unchaw mikhunamanta qhipa maymantaq rinki?
+  rektatraduko:
+    - Kien: Mayman
+    - vi: qan
+    - iros: rinki
+    - post: qhipaman
+    - la: riqsisqa
+    - tagmanĝo: chawpi p'unchaw mikhuna
+    - '?'
+-
+  demando: Chiri kaptinqa wasi ukhupa punkunta wichq'ayta atikunchu?
+  rektatraduko:
+    - Ĉu: Chu
+    - oni: huk runa
+    - povas: atin
+    - fermi: wichq'ay
+    - la: riqsisqa
+    - pordon: punkuta
+    - de: pa
+    - la: riqsisqa
+    - ĉambro: wasi ukhu
+    - ','
+    - kiam: hayk'aq
+    - estas: kan
+    - malvarme: chiri
+    - '?'
+-
+  demando: Sichus runakuna qanmantam achkha qullqita apaqaykuptinku, hayk'a unaytaq phiñakunki?
+  rektatraduko:
+    - Kiel: Imayna
+    - longe: unay
+    - vi: qan
+    - koleras: phiñakunki
+    - ','
+    - se: sichus
+    - oni: huk runa
+    - forprenas: apaqan
+    - de: manta
+    - vi: qan
+    - multan: achkha
+    - monon: qullqita
+    - '?'

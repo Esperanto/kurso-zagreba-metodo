@@ -1,70 +1,70 @@
-- 
-  demando: What was your old home like?
-  rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
-    - '?'
-- 
-  demando: Which books did you read, and were they good?
-  rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
-    - '?'
-- 
-  demando: "What did Anna and Mark do in Marks little room?"
+-
+  demando: သင့်အိမ်ဟောင်းက ဘယ်လိုဖြစ်ခဲ့သလဲ။
   rektatraduko:
-    - Kion: What
-    - faris: did do
+    - Kia: ဘယ်လို
+    - estis: ဖြစ်ခဲ့သည်
+    - via: သင်၏
+    - malnova: ဟောင်းသော
+    - hejmo: အိမ်
+    - '?'
+-
+  demando: သင် ဘယ်စာအုပ်တွေကို ဖတ်ခဲ့သလဲ၊ ၎င်းတို့က ကောင်းပါသလား။
+  rektatraduko:
+    - Kiujn: ဘယ်ဟာများကို
+    - librojn: စာအုပ်များ
+    - vi: သင်
+    - legis: ဖတ်ခဲ့သည်
+    - kaj: နှင့်
+    - ĉu: လား
+    - ili: ၎င်းတို့
+    - estas: ဖြစ်သည်
+    - bonaj: ကောင်းသော
+    - '?'
+-
+  demando: Anna နှင့် Marko သည် Marko ၏ အခန်းငယ်ထဲတွင် ဘာလုပ်ခဲ့ကြသလဲ။
+  rektatraduko:
+    - Kion: ဘာကို
+    - faris: လုပ်ခဲ့သည်
     - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - kaj: နှင့်
+    - Marko: Marko
+    - en: ထဲတွင်
+    - la: ထို
+    - malgranda: သေးသော
+    - ĉambro: အခန်း
+    - de: ၏
+    - Marko: Marko
     - '?'
-- 
-  demando: Do you like reading books about love?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+-
+  demando: သင် အချစ်အကြောင်း စာအုပ်များ ဖတ်ရတာကို ကြိုက်ပါသလား။
+  rektatraduko:
+    - Ĉu: လား
+    - vi: သင်
+    - ŝatas: ကြိုက်သည်
+    - legi: ဖတ်ရန်
+    - librojn: စာအုပ်များ
+    - pri: အကြောင်း
+    - amo: အချစ်
     - '?'
-- 
-  demando: Who will go with you to your home?
-  rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+-
+  demando: ဘယ်သူက သင်နှင့်အတူ သင့်အိမ်သို့ သွားမလဲ။
+  rektatraduko:
+    - Kiu: ဘယ်သူ
+    - iros: သွားမည်
+    - kun: နှင့်အတူ
+    - vi: သင်
+    - al: သို့
+    - via: သင်၏
+    - hejmo: အိမ်
     - '?'
-- 
-  demando: "What are your girl-friend's eyes like?"
-  rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+-
+  demando: သင့်မိန်းကလေးမိတ်ဆွေ၏ မျက်လုံးများက ဘယ်လိုဖြစ်သလဲ။
+  rektatraduko:
+    - Kiaj: ဘယ်လိုများ
+    - estas: ဖြစ်သည်
+    - la: ထို
+    - okuloj: မျက်လုံးများ
+    - de: ၏
+    - via: သင်၏
+    - amikino: မိန်းကလေးမိတ်ဆွေ
     - '?'

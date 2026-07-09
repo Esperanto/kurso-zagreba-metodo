@@ -276,6 +276,14 @@ lo:
   aŭtoroj:
     - nomo: Warut Bunprasert
       github: Warut92
+lv:
+  nomo:
+    fontlingve: Latviešu
+    esperante: latva
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 mg:
   nomo:
     fontlingve: Malagasy
@@ -342,6 +350,14 @@ pt:
       github: Jxajroad
     - nomo: Alejandro Escobedo
       github: alescomu
+qu:
+  nomo:
+    fontlingve: Runa Simi
+    esperante: keĉua
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 ro:
   nomo:
     fontlingve: Română
@@ -423,6 +439,15 @@ th:
   aŭtoroj:
     - nomo: Warut Bunprasert
       github: Warut92
+tl:
+  nomo:
+    fontlingve: Tagalog
+    esperante: tagaloga
+  stato: testa
+  komentejo: 0
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 tok:
   nomo:
     fontlingve: toki pona

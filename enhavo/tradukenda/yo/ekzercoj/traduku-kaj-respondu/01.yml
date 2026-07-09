@@ -1,57 +1,56 @@
-- 
-  demando: Who is your female friend?
+-
+  demando: Ta ni ọ̀rẹ́bìnrin rẹ?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: female friend
+    - Kiu: Ta ni
+    - estas: jẹ́
+    - via: rẹ
+    - amikino: ọ̀rẹ́bìnrin
     - '?'
-- 
-  demando: Is your friend Anna now writing in the room?
+-
+  demando: Ṣé ọ̀rẹ́bìnrin rẹ Anna ń kọ báyìí nínú yàrá?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: female friend
+    - Ĉu: Ṣé
+    - via: rẹ
+    - amikino: ọ̀rẹ́bìnrin
     - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - skribas: ń kọ
+    - nun: báyìí
+    - en: nínú
+    - la: náà
+    - ĉambro: yàrá
     - '?'
-- 
-  demando: Does the friend of your father work in a hotel?
+-
+  demando: Ṣé ọ̀rẹ́ baba rẹ ń ṣiṣẹ́ ní hòtẹ́lì?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: Ṣé
+    - la: náà
+    - amiko: ọ̀rẹ́
+    - de: ti
+    - via: rẹ
+    - patro: baba
+    - laboras: ń ṣiṣẹ́
+    - en: nínú
+    - hotelo: hòtẹ́lì
     - '?'
-- 
-  demando: What is on the work-bench in our room?
+-
+  demando: Kí ló wà lórí tábìlì iṣẹ́ nínú yàrá wa?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: Kí ni
+    - estas: wà
+    - sur: lórí
+    - la: náà
+    - labortablo: tábìlì iṣẹ́
+    - en: nínú
+    - nia: wa
+    - ĉambro: yàrá
     - '?'
-- 
-  demando: Is there an Esperanto textbook on your table?
+-
+  demando: Ṣé ìwé ẹ̀kọ́ Esperanto wà lórí tábìlì rẹ?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto-textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: Ṣé
+    - Esperanto-lernolibro: ìwé-ẹ̀kọ́-Esperanto
+    - estas: wà
+    - sur: lórí
+    - via: rẹ
+    - tablo: tábìlì
     - '?'
-

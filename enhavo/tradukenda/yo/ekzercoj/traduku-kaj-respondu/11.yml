@@ -1,54 +1,54 @@
-- 
-  demando: Can you bring along my sister's medicine?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+-
+  demando: Ṣé o lè mú oogun arábìnrin mi wá pẹ̀lú?
+  rektatraduko:
+    - Ĉu: Ṣé
+    - vi: ìwọ
+    - povas: lè
+    - kunporti: mú wá pẹ̀lú
+    - la: náà
+    - sanigilon: oogun
+    - de: ti
+    - mia: mi
+    - fratino: arábìnrin
     - '?'
-- 
-  demando: When did you buy that musical instrument?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: musical instrument
+-
+  demando: Nígbà wo ni o ra ohun èlò orin yẹn?
+  rektatraduko:
+    - Kiam: Nígbà wo
+    - vi: ìwọ
+    - aĉetis: rà
+    - tiun: yẹn
+    - muzikilon: ohun èlò orin
     - '?'
-- 
-  demando: Who used my key the last time?
-  rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+-
+  demando: Ta ni ó lo kọ́kọ́rọ́ mi ní ìgbà tó kẹ́yìn?
+  rektatraduko:
+    - Kiu: Ta ni
+    - laste: ní ìgbà kẹ́yìn
+    - uzis: lò
+    - mian: mi
+    - ŝlosilon: kọ́kọ́rọ́
     - '?'
-- 
-  demando: Did you travel in Venice also by gondola?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+-
+  demando: Ṣé o tún rìn pẹ̀lú góńdólà ní Venẹsia?
+  rektatraduko:
+    - Ĉu: Ṣé
+    - vi: ìwọ
+    - en: ní
+    - Venecio: Venẹsia
+    - veturis: rìn pẹ̀lú ọkọ̀
+    - ankaŭ: pẹ̀lú
+    - per: nípasẹ̀
+    - gondolo: góńdólà
     - '?'
-- 
-  demando: Will you be able to fall asleep when it becomes quiet?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
-    - ',' 
-    - kiam: when 
-    - silentiĝis: became quiet
+-
+  demando: Ṣé o máa lè bẹ̀rẹ̀ sí í sùn nígbà tí ibi bá dákẹ́?
+  rektatraduko:
+    - Ĉu: Ṣé
+    - vi: ìwọ
+    - povos: yóò lè
+    - ekdormi: bẹ̀rẹ̀ sí í sùn
+    - ','
+    - kiam: nígbà tí
+    - silentiĝis: dákẹ́
     - '?'

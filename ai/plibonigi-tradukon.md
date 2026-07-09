@@ -147,6 +147,16 @@ kiel "Provu ĝin!"). Konservu la Markdown-formaton kaj la placeholder-ojn
 kursostrukturo aŭ mencion pri mobil-optimumigo, kiel en `de/`), **lasu ĝin** —
 nur korektu ĝin lingve kaj akordigu la kernon kun la angla.
 
+## Posta teksto (`post.md`)
+
+La postkursa paĝo estu mallonga kaj loke utila por la cellingva komunumo. Ne
+kopiu ĝeneralajn, anglalingvajn aŭ uson-centrajn listojn de lerniloj,
+podkastoj, librobutikoj aŭ vojaĝservoj. Enmetu nur lokajn Esperanto-retejojn,
+kontaktpaĝojn, klubojn, asociojn kaj Facebook-grupojn aŭ Facebook-paĝojn
+rilatajn al la cellingva regiono. Kontrolu la ligilojn antaŭ aldono kaj, se
+fidinda loka fonto mankas, lasu `post.md` tre mallonga kun nur kontrolitaj
+kontaktaj ebloj.
+
 ## Formato kaj limigoj
 
 - Konservu validan YAML-on kaj Markdown-on.

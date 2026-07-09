@@ -1,0 +1,67 @@
+- demando: Vai tu vēlies, lai es tev parādu savu jaunāko grāmatu?
+  rektatraduko:
+  - Ĉu: Vai
+  - vi: tu
+  - deziras: vēlies
+  - ','
+  - ke: ka
+  - mi: es
+  - montru: parādu
+  - al: pie
+  - vi: tev
+  - mian: manu
+  - plej: vis-
+  - novan: jaunu
+  - libron: grāmatu
+  - '?'
+- demando: Ko tu rīt gribi ēst brokastīs?
+  rektatraduko:
+  - Kion: Ko
+  - vi: tu
+  - volas: gribi
+  - morgaŭ: rīt
+  - matenmanĝi: ēst brokastis
+  - '?'
+- demando: Kad Marks ieradīsies — pulksten piecos vai astoņos?
+  rektatraduko:
+  - Kiam: Kad
+  - Marko: Marks
+  - alvenos: ieradīsies
+  - ','
+  - je: pie
+  - la: tā
+  - kvina: piektā
+  - aŭ: vai
+  - je: pie
+  - la: tā
+  - oka: astotā
+  - horo: stunda
+  - '?'
+- demando: Kad tu pamanīji, ka visa ģimene mani sauc par labdari?
+  rektatraduko:
+  - Kiam: Kad
+  - vi: tu
+  - rimarkis: pamanīji
+  - ','
+  - ke: ka
+  - la: tā
+  - tuta: visa
+  - familio: ģimene
+  - nomas: sauc
+  - min: mani
+  - bonfarulo: labdaris
+  - '?'
+- demando: Vai grāmatiņa, ko es tev atsūtīju, tev bija noderīga?
+  rektatraduko:
+  - Ĉu: Vai
+  - la: tā
+  - libreto: grāmatiņa
+  - estis: bija
+  - utila: noderīga
+  - al: pie
+  - vi: tev
+  - ','
+  - kiun: kuru
+  - mi: es
+  - sendis: sūtīju
+  - '?'

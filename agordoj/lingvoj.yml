@@ -276,6 +276,14 @@ lo:
   aŭtoroj:
     - nomo: Warut Bunprasert
       github: Warut92
+lv:
+  nomo:
+    fontlingve: Latviešu
+    esperante: latva
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 mg:
   nomo:
     fontlingve: Malagasy

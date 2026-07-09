@@ -7,7 +7,7 @@
     - vin: kamu
     - '?'
 -
-  demando: Berapa lama kamu belajar Bahasa Internasional?
+  demando: Sudah berapa lama kamu belajar Bahasa Internasional?
   rektatraduko: 
     - Kiel: Bagaimana
     - longe: lama
@@ -39,7 +39,7 @@
     - tagmanĝo: makan siang
     - '?'
 -
-  demando: Apakah seseorang bisa menutup pintu kamar ketika sedang dingin?
+  demando: Bisakah pintu kamar ditutup ketika sedang dingin?
   rektatraduko:
     - Ĉu: Apakah
     - oni: seseorang
@@ -51,12 +51,12 @@
     - la: (kata sandang)
     - ĉambro: kamar
     - ','
-    - kiam: kapan
+    - kiam: ketika
     - estas: adalah
     - malvarme: dingin
     - '?'
 -
-  demando: Berapa lama kamu marah jika ada yang mengambil banyak uang dari kamu?
+  demando: Berapa lama kamu marah jika seseorang mengambil banyak uang darimu?
   rektatraduko: 
     - Kiel: Bagaimana
     - longe: lama

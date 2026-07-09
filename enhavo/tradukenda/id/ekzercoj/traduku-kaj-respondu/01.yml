@@ -7,7 +7,7 @@
     - amikino: teman perempuan
     - '?'
 - 
-  demando: Apakah Anna teman perempuanmu sekarang sedang menulis di kamar?
+  demando: Apakah Anna, teman perempuanmu, sekarang sedang menulis di kamar?
   rektatraduko:
     - Ĉu: Apakah
     - via: punyamu
@@ -33,11 +33,11 @@
     - hotelo: hotel
     - '?'
 - 
-  demando: Apa yang ada pada meja kerja di ruangan kami?
+  demando: Apa yang ada di atas meja kerja di kamar kami?
   rektatraduko:
     - Kio: Apa 
     - estas: adalah
-    - sur: pada
+    - sur: di atas
     - la: (kata sandang)
     - labortablo: meja kerja
     - en: di
@@ -45,13 +45,12 @@
     - ĉambro: ruangan
     - '?'
 - 
-  demando: Apakah buku pelajaran Esperanto ada pada mejamu?
+  demando: Apakah buku pelajaran Esperanto ada di atas mejamu?
   rektatraduko:
     - Ĉu: Apakah
     - Esperanto-lernolibro: buku pelajaran Esperanto
     - estas: adalah
-    - sur: pada
+    - sur: di atas
     - via: punyamu 
     - tablo: meja
     - '?'
-

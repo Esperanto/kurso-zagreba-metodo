@@ -8,7 +8,7 @@
     - hejmo: rumah 
     - '?'
 - 
-  demando: Buku-buku mana yang sudah kamu baca, dan apakah itu bagus?
+  demando: Buku-buku mana yang sudah kamu baca, dan apakah buku-buku itu bagus?
   rektatraduko: 
     - Kiujn: Yang mana 
     - librojn: buku-buku
@@ -21,7 +21,7 @@
     - bonaj: bagus 
     - '?'
 - 
-  demando: "Apa yang Anna dan Mark lakukan di ruangan sempit milik Mark?"
+  demando: "Apa yang Anna dan Mark lakukan di kamar kecil milik Mark?"
   rektatraduko:
     - Kion: Apa
     - faris: melakukan (lampau)
@@ -63,7 +63,7 @@
     - Kiaj: Seperti apa
     - estas: adalah
     - la: (kata sandang)
-    - okuloj: mata-mata
+    - okuloj: mata
     - de: dari
     - via: punyamu
     - amikino: teman perempuan

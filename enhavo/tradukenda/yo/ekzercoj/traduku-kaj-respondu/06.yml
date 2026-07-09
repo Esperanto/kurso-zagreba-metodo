@@ -1,72 +1,72 @@
-- 
-  demando: Do you want me to show you my newest book?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
-    - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
+-
+  demando: Ṣé o fẹ́ kí n fi ìwé tuntun mi jùlọ hàn ọ?
+  rektatraduko:
+    - Ĉu: Ṣé
+    - vi: ìwọ
+    - deziras: fẹ́
+    - ','
+    - ke: kí
+    - mi: èmi
+    - montru: fi hàn
+    - al: sí
+    - vi: ìwọ
+    - mian: mi
+    - plej: jùlọ
+    - novan: tuntun
+    - libron: ìwé
     - '?'
-- 
-  demando: What do you want for breakfast tomorrow?
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
+-
+  demando: Kí ni o fẹ́ jẹ fún oúnjẹ àárọ̀ lọ́la?
+  rektatraduko:
+    - Kion: Kí ni
+    - vi: ìwọ
+    - volas: fẹ́
+    - morgaŭ: lọ́la
+    - matenmanĝi: jẹ oúnjẹ àárọ̀
     - '?'
-- 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
-  rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
-    - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
+-
+  demando: Nígbà wo ni Marko yóò dé, ní wákàtí márùn-ún tàbí ní wákàtí mẹ́jọ?
+  rektatraduko:
+    - Kiam: Nígbà wo
+    - Marko: Marko
+    - alvenos: yóò dé
+    - ','
+    - je: ní
+    - la: náà
+    - kvina: karùn-ún
+    - aŭ: tàbí
+    - je: ní
+    - la: náà
+    - oka: kẹjọ
+    - horo: wákàtí
     - '?'
-- 
-  demando: When did you notice that the whole family calls me benefactor?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
-    - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
+-
+  demando: Nígbà wo ni o ṣàkíyèsí pé gbogbo ìdílé ń pè mí ní oníṣe rere?
+  rektatraduko:
+    - Kiam: Nígbà wo
+    - vi: ìwọ
+    - rimarkis: ṣàkíyèsí
+    - ','
+    - ke: pé
+    - la: náà
+    - tuta: gbogbo
+    - familio: ìdílé
+    - nomas: ń pè
+    - min: mi
+    - bonfarulo: oníṣe rere
     - '?'
-- 
-  demando: Was the booklet which I sent you useful to you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
-    - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+-
+  demando: Ṣé ìwé kékeré tí mo fi ránṣẹ́ sí ọ wúlò fún ọ?
+  rektatraduko:
+    - Ĉu: Ṣé
+    - la: náà
+    - libreto: ìwé kékeré
+    - estis: jẹ́
+    - utila: wúlò
+    - al: sí
+    - vi: ìwọ
+    - ','
+    - kiun: tí
+    - mi: èmi
+    - sendis: fi ránṣẹ́
     - '?'

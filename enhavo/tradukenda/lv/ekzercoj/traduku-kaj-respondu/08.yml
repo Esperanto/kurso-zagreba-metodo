@@ -1,0 +1,80 @@
+- demando: Kas tīrīs virtuvi pēc pusdienām?
+  rektatraduko:
+  - Kiu: Kas
+  - purigos: tīrīs
+  - la: to
+  - kuirejon: virtuvi
+  - post: pēc
+  - la: tām
+  - tagmanĝo: pusdienas
+  - '?'
+- demando: 'Ko tu gribi dzert: tēju, mazliet kafijas, vai arī tu neko negribi?'
+  rektatraduko:
+  - Kion: Ko
+  - vi: tu
+  - volas: gribi
+  - trinki: dzert
+  - ':'
+  - teon: tēju
+  - ','
+  - iom: mazliet
+  - da: "no"
+  - kafo: kafija
+  - aŭ: vai
+  - ĉu: vai
+  - vi: tu
+  - volas: gribi
+  - nenion: neko
+  - '?'
+- demando: Kāpēc tu tik pēkšņi nolēmi atjaunot savu mazo istabu?
+  rektatraduko:
+  - Kial: Kāpēc
+  - vi: tu
+  - tiel: tik
+  - subite: pēkšņi
+  - decidis: nolēmi
+  - renovigi: atjaunot
+  - vian: tavu
+  - ĉambreton: mazu istabu
+  - '?'
+- demando: Kam tu iedevi tīrās vīna glāzes?
+  rektatraduko:
+  - Al: Pie
+  - kiu: kura
+  - vi: tu
+  - donis: devi
+  - la: tās
+  - purajn: tīras
+  - glasojn: glāzes
+  - por: priekš
+  - la: tas
+  - vino: vīns
+  - '?'
+- demando: Pret ko tavs sporta klubs spēlēja pirms divām nedēļām?
+  rektatraduko:
+  - Kontraŭ: Pret
+  - kiu: kuru
+  - ludis: spēlēja
+  - via: tavs
+  - sportklubo: sporta klubs
+  - antaŭ: pirms
+  - du: divas
+  - semajnoj: nedēļas
+  - '?'
+- demando: Vai tu bieži redzi policistu, kurš dzīvo dzīvoklī virs tevis?
+  rektatraduko:
+  - Ĉu: Vai
+  - vi: tu
+  - ofte: bieži
+  - vidas: redzi
+  - la: to
+  - policiston: policistu
+  - ','
+  - kiu: kurš
+  - loĝas: dzīvo
+  - en: iekšā
+  - la: tas
+  - loĝejo: dzīvoklis
+  - super: virs
+  - vi: tevis
+  - '?'

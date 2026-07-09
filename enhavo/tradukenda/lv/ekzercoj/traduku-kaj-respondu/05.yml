@@ -1,0 +1,59 @@
+- demando: Vai tu vari mierīgi mācīties, kamēr kāds priecīgi dzied?
+  rektatraduko:
+  - Ĉu: Vai
+  - vi: tu
+  - povas: vari
+  - trankvile: mierīgi
+  - lerni: mācīties
+  - ','
+  - dum: kamēr
+  - iu: kāds
+  - ĝoje: priecīgi
+  - kantas: dzied
+  - '?'
+- demando: Kas zina, kad un kur mēs atkal redzēsimies?
+  rektatraduko:
+  - Kiu: Kas
+  - scias: zina
+  - ','
+  - kiam: kad
+  - kaj: un
+  - kie: kur
+  - ni: mēs
+  - revidos: redzēsim atkal
+  - nin: sevi
+  - '?'
+- demando: Cik tagad ir pulkstenis?
+  rektatraduko:
+  - Kioma: Kura pēc skaita
+  - horo: stunda
+  - estas: ir
+  - nun: tagad
+  - '?'
+- demando: Vai kāds tev palīdzēja atvērt vecās mājas durvis?
+  rektatraduko:
+  - Ĉu: Vai
+  - iu: kāds
+  - helpis: palīdzēja
+  - al: pie
+  - vi: tev
+  - malfermi: atvērt
+  - la: tās
+  - pordon: durvis
+  - de: "no"
+  - la: tās
+  - malnova: vecā
+  - domo: māja
+  - '?'
+- demando: Kāpēc tev nav laika mani klausīties ilgāk?
+  rektatraduko:
+  - Kial: Kāpēc
+  - vi: tu
+  - ne: ne
+  - havas: ir
+  - tempon: laiku
+  - aŭskulti: klausīties
+  - min: mani
+  - pli: vairāk
+  - longe: ilgi
+  - '?'

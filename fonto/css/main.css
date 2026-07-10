@@ -471,6 +471,10 @@ h3 {
 .footer .versio {
   color: rgba(255, 255, 255, 0.65);
 }
+.footer .versio-dato {
+  text-wrap-mode: nowrap;
+  white-space: nowrap;
+}
 
 @media (min-width: 768px) {
   .footer-kolumnoj {

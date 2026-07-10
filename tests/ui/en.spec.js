@@ -161,7 +161,12 @@ test('piedo montras grizajn tri kolumnojn kun permesilaj ligiloj', async ({ page
   );
   await expect(footer.getByRole('link', { name: 'Kontribuu' })).toHaveAttribute('target', '_blank');
   await expect(footer.getByRole('link', { name: 'Kontribuu' })).toHaveAttribute('rel', 'noopener');
-  await expect(footer.getByText(/⏱︎ Versio: [0-9a-f]{7}/)).toBeVisible();
+  const versio = footer.locator('.versio');
+  const versioDato = versio.locator('.versio-dato');
+  await expect(versio).toHaveText(/⏱︎ Versio: [0-9a-f]{7} \d{4}-\d{2}-\d{2} \d{2}:\d{2} Z/);
+  await expect(versioDato).toHaveAttribute('datetime', /\d{4}-\d{2}-\d{2}T\d{2}:\d{2}Z/);
+  await expect(versioDato).toHaveCSS('white-space', 'nowrap');
+  await expect(versioDato).toHaveCSS('text-wrap-mode', 'nowrap');
 
   const footerBox = await footer.boundingBox();
   const viewport = page.viewportSize();

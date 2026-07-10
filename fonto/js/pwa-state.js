@@ -7,6 +7,7 @@
   var INPUT_STORE = 'inputs';
   var INPUT_DEBOUNCE_MS = 400;
   var SCROLL_DEBOUNCE_MS = 500;
+  var RESUME_SCROLL_PREFIX = 'esperanto12-pwa-resume-scroll:';
 
   function hasPwaManifest() {
     return !!document.querySelector('link[rel="manifest"]');
@@ -40,6 +41,35 @@
 
   function pageUrl() {
     return window.location.pathname + window.location.search + window.location.hash;
+  }
+
+  function normalizedUrlKey(urlValue) {
+    try {
+      var url = new URL(urlValue, window.location.origin);
+      return normalizePath(url.pathname) + url.search + url.hash;
+    } catch (error) {
+      return null;
+    }
+  }
+
+  function currentUrlKey() {
+    return normalizedUrlKey(pageUrl());
+  }
+
+  function referrerUrlKey() {
+    if (!document.referrer) {
+      return null;
+    }
+
+    try {
+      var url = new URL(document.referrer);
+      if (url.origin !== window.location.origin) {
+        return null;
+      }
+      return normalizePath(url.pathname) + url.search + url.hash;
+    } catch (error) {
+      return null;
+    }
   }
 
   function sameOriginReferrer() {
@@ -209,20 +239,77 @@
     scrollTimer = window.setTimeout(savePageState, SCROLL_DEBOUNCE_MS);
   }
 
-  function restoreScrollPosition() {
-    if (window.location.hash) {
-      return Promise.resolve();
+  function disableBrowserScrollRestoration() {
+    if ('scrollRestoration' in window.history) {
+      window.history.scrollRestoration = 'manual';
+    }
+  }
+
+  function scrollToPosition(scrollY) {
+    return new Promise(function (resolve) {
+      window.requestAnimationFrame(function () {
+        window.scrollTo(0, scrollY);
+        resolve();
+      });
+    });
+  }
+
+  function resumeScrollKey() {
+    return RESUME_SCROLL_PREFIX + lingvo;
+  }
+
+  function rememberResumeScrollTarget(urlValue) {
+    var key = normalizedUrlKey(urlValue);
+    if (!key) {
+      return;
     }
 
+    try {
+      window.sessionStorage.setItem(resumeScrollKey(), key);
+    } catch (error) {
+      logStorageError(error);
+    }
+  }
+
+  function takeResumeScrollTarget() {
+    try {
+      var key = resumeScrollKey();
+      var target = window.sessionStorage.getItem(key);
+      window.sessionStorage.removeItem(key);
+      return target === currentUrlKey();
+    } catch (error) {
+      logStorageError(error);
+      return false;
+    }
+  }
+
+  function shouldRestoreScrollPosition() {
+    var referrer = referrerUrlKey();
+    if (takeResumeScrollTarget()) {
+      return true;
+    }
+    return !referrer || referrer === currentUrlKey();
+  }
+
+  function restoreScrollPosition() {
     return readRecord(PAGE_STORE, currentPageKey()).then(function (record) {
       if (!record || typeof record.scrollY !== 'number' || record.scrollY <= 0) {
         return;
       }
 
-      window.requestAnimationFrame(function () {
-        window.scrollTo(0, record.scrollY);
-      });
+      return scrollToPosition(record.scrollY);
     }).catch(logStorageError);
+  }
+
+  function applyInitialScrollPosition() {
+    disableBrowserScrollRestoration();
+    if (window.location.hash) {
+      return Promise.resolve();
+    }
+    if (shouldRestoreScrollPosition()) {
+      return restoreScrollPosition();
+    }
+    return scrollToPosition(0);
   }
 
   function allExerciseInputs() {
@@ -358,6 +445,7 @@
         return false;
       }
 
+      rememberResumeScrollTarget(record.url);
       window.location.replace(record.url);
       return true;
     }).catch(function (error) {
@@ -375,7 +463,7 @@
     bindButtonFlushes();
     bindPagePersistence();
     restoreInputValues()
-      .then(restoreScrollPosition)
+      .then(applyInitialScrollPosition)
       .then(savePageState)
       .catch(logStorageError);
   }).catch(logStorageError);

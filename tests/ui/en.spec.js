@@ -669,7 +669,7 @@ test('PWA-stato restas malŝaltita en ordinara retumilo', async ({ browser }) =>
   await context.close();
 });
 
-test('PWA-stato konservas ekzercajn respondojn, pozicion kaj lastan paĝon', async ({ browser }) => {
+test('PWA-stato konservas pozicion por rekomenco sed komencas supre post interna navigado', async ({ browser }) => {
   const context = await newStandalonePwaContext(browser);
   const pagePath = '/en/01/ekzerco1/';
   const inputKey = 'en|input|/en/01/ekzerco1/|vico-1-1-1';
@@ -679,6 +679,7 @@ test('PWA-stato konservas ekzercajn respondojn, pozicion kaj lastan paĝon', asy
   await page.goto(pagePath);
   await page.locator('#vico-1-1-1').fill('zzzz');
   await page.evaluate(() => window.scrollTo(0, 450));
+  await expect.poll(async () => page.evaluate(() => window.scrollY)).toBeGreaterThan(100);
 
   await expect.poll(async () => {
     const record = await readPwaRecord(page, 'inputs', inputKey);
@@ -691,7 +692,8 @@ test('PWA-stato konservas ekzercajn respondojn, pozicion kaj lastan paĝon', asy
   await page.close();
 
   page = await context.newPage();
-  await page.goto(pagePath);
+  await page.goto('/en/');
+  await expect(page).toHaveURL(/\/en\/01\/ekzerco1\/$/);
   await expect(page.locator('#vico-1-1-1')).toHaveValue('zzzz');
   await expect(page.locator('#vico-1-1-1')).toHaveClass(/is-invalid/);
   await expect.poll(async () => page.evaluate(() => window.scrollY)).toBeGreaterThan(100);
@@ -705,11 +707,31 @@ test('PWA-stato konservas ekzercajn respondojn, pozicion kaj lastan paĝon', asy
 
   await page.locator('.forigu[data-form-id="1-1"]').click();
   await expect.poll(async () => readPwaRecord(page, 'inputs', inputKey)).toBe(null);
+
+  await page.close();
+  page = await context.newPage();
+  await page.goto('/en/01/');
+  await page.evaluate((targetPath) => {
+    const link = document.createElement('a');
+    link.id = 'interna-navigado-al-ekzerco';
+    link.href = targetPath;
+    link.textContent = 'ekzerco';
+    document.body.prepend(link);
+  }, pagePath);
+  await page.locator('#interna-navigado-al-ekzerco').click();
+  await expect(page).toHaveURL(/\/en\/01\/ekzerco1\/$/);
+  await expect(page.locator('#vico-1-1-1')).toHaveValue('');
+  await expect.poll(async () => page.evaluate(() => window.scrollY)).toBe(0);
+  await expect.poll(async () => {
+    const record = await readPwaRecord(page, 'pages', pageKey);
+    return record && record.scrollY;
+  }).toBe(0);
   await page.close();
 
   page = await context.newPage();
   await page.goto('/en/');
   await expect(page).toHaveURL(/\/en\/01\/ekzerco1\/$/);
+  await expect.poll(async () => page.evaluate(() => window.scrollY)).toBe(0);
 
   await context.close();
 });

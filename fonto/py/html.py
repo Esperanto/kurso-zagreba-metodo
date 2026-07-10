@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+from datetime import datetime, timezone
 from pathlib import Path
 import re
 import shutil
@@ -42,6 +43,7 @@ LLMS_FULL_PRINTENDAJ = {
     ),
     'lecionoj': tuple(range(1, 13)),
 }
+BUILD_TIME = None
 
 ET.register_namespace('', SITEMAP_NS)
 
@@ -526,20 +528,46 @@ def write_file(filename, content):
     path.write_text(content, encoding='utf-8')
 
 
-def get_version_hash():
+def get_version_commit():
     github_sha = os.environ.get('GITHUB_SHA')
     if github_sha:
-        return github_sha[:7]
+        return github_sha
 
     try:
         return subprocess.check_output(
-            ['git', 'rev-parse', '--short=7', 'HEAD'],
+            ['git', 'rev-parse', 'HEAD'],
             cwd=str(ROOT_DIR),
             stderr=subprocess.DEVNULL,
             text=True
         ).strip()
     except (OSError, subprocess.CalledProcessError):
-        return 'nekonata'
+        return None
+
+
+def get_version_hash():
+    commit = get_version_commit()
+    if commit:
+        return commit[:7]
+
+    return 'nekonata'
+
+
+def get_build_date():
+    build_time = get_build_time()
+    return build_time.strftime('%Y-%m-%d %H:%M Z')
+
+
+def get_build_date_iso():
+    build_time = get_build_time()
+    return build_time.strftime('%Y-%m-%dT%H:%MZ')
+
+
+def get_build_time():
+    global BUILD_TIME
+    if BUILD_TIME is None:
+        BUILD_TIME = datetime.now(timezone.utc)
+
+    return BUILD_TIME
 
 
 def aldonu_karton(deck, model, enhavo, radiko, leciono=None):
@@ -700,8 +728,11 @@ def generate_html(
     hejmaj_lingvoj=None,
 ):
     eligo = {}
-    versio = get_version_hash()
+    version_commit = get_version_commit()
+    versio = version_commit[:7] if version_commit else 'nekonata'
     enhavo['versio'] = versio
+    enhavo['versio_dato'] = get_build_date()
+    enhavo['versio_dato_iso'] = get_build_date_iso()
     enhavo['havas_pwa'] = True
     enhavo['pwa_theme_color'] = pwa.PWA_THEME_COLOR
     enhavo['og_bildo_url'] = og_bildo_url(lingvo)

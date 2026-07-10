@@ -1,19 +1,8 @@
 $schema: https://json-schema.org/draft/2020-12/schema
 title: Tradukenda traduku-ekzerco YAML, leciono 05
-type: array
-maxItems: 15
-items:
-  type: object
-  minProperties: 1
-  maxProperties: 1
-  additionalProperties:
-    anyOf:
-    - type: string
-    - type: array
-      minItems: 1
-      items:
-        type: string
 allOf:
+- $ref: ../traduku.schema.yml
+- maxItems: 15
 - contains:
     required:
     - sinjorino

@@ -43,7 +43,7 @@ Por generi la tutan produktadan HTML-eligon:
 
     make html-all
 
-Tio ankaŭ kreas PWA-manifeston, ikonojn, registrilon kaj radikan `sw.js`. Tiuj dosieroj estas provizore ne ligitaj el la HTML, do la retejo nuntempe ne proponas instaleblan PWA-on al vizitantoj.
+Tio ankaŭ kreas po-lingvajn PWA-manifestojn, ikonojn kaj po-lingvajn service worker-dosierojn, ekzemple `/en/manifest.webmanifest` kaj `/en/sw.js`. Ĉiu lingva startpaĝo ligas sian manifeston kaj registras sian propran service worker-on.
 
 Por kontroli, ke la PWA-manifesto validas kaj ke ĉiu generita dosiero troviĝas en la offline-listo:
 

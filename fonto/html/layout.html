@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{enhavo.lingvo}}" dir="ltr">
+<html lang="{{enhavo.lingvo}}" dir="ltr" translate="no">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -11,6 +11,7 @@
       <meta name="robots" content="noindex, follow" />
     {% endif %}
     <meta name="description" content="{{seo.meta_description|e}}" />
+    <meta name="google" content="notranslate" />
     <link rel="canonical" href="{{seo.canonical_url}}" />
     {% for alterna in seo.alternaj_ligiloj %}
       <link rel="alternate" hreflang="{{alterna.hreflang}}" href="{{alterna.url}}" />
@@ -36,10 +37,25 @@
     {% if enhavo.havas_pwa %}
       <link rel="manifest" href="/{{enhavo.lingvo}}/manifest.webmanifest" />
       <meta name="theme-color" content="{{enhavo.pwa_theme_color}}" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+      <meta name="apple-mobile-web-app-title" content="Esperanto12 ({{enhavo.lingvo}})" />
       <script>
         if (navigator.standalone === true) {
           document.documentElement.classList.add('pwa-standalone');
         }
+        // Malŝaltu la aŭtomatan instal-inviton (mini-infobar) de Chrome, sed
+        // konservu la eventon por estonta propra install-infobox: voku
+        // window.pwaInstallPrompt.prompt() el via propra butono.
+        window.pwaInstallPrompt = null;
+        window.addEventListener('beforeinstallprompt', function (e) {
+          e.preventDefault();
+          window.pwaInstallPrompt = e;
+        });
+        window.addEventListener('appinstalled', function () {
+          window.pwaInstallPrompt = null;
+        });
       </script>
     {% endif %}
     <link href="{{vojprefikso}}../assets/bundle.css?versio={{enhavo.versio}}" rel="stylesheet" />

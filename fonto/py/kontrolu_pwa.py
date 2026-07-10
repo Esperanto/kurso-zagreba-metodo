@@ -115,6 +115,17 @@ def check_key_pages(output_dir, lingvo, precache_urls):
     require(apkg not in precache_urls, 'la Anki-eksporto ne estu en precache: ' + apkg)
 
 
+def check_pwa_state_bundle(output_dir):
+    bundle_path = output_dir / 'assets' / 'bundle.js'
+    require_nonempty_file(bundle_path)
+    text = bundle_path.read_text(encoding='utf-8')
+    require('esperanto12-pwa-state' in text, 'bundle.js ne enhavas la PWA-statan datumbazon')
+    require('indexedDB' in text, 'bundle.js ne uzas IndexedDB por PWA-stato')
+    require('display-mode: standalone' in text, 'bundle.js ne kontrolas standalone-reĝimon')
+    require('pwa-standalone' in text, 'bundle.js ne enhavas iOS-standalone-fallbackon')
+    require('input[data-solvo][id]' in text, 'bundle.js ne observas solveblajn enigkampojn')
+
+
 def check_precache_completeness(output_dir, lingvo, precache_urls):
     expected = set(pwa.collect_precache_urls(output_dir, lingvo))
     missing = sorted(expected - precache_urls)
@@ -144,11 +155,14 @@ def main():
     args = parser.parse_args()
 
     output_dir = Path(args.output_dir)
-    require(pwa.PWA_LINGVOJ, 'neniu PWA-lingvo agordita')
-    for lingvo in pwa.PWA_LINGVOJ:
+    # Ĉiu lingvo kun propra service worker havas instaleblan PWA-on.
+    lingvoj = sorted(sw.parent.name for sw in output_dir.glob('*/sw.js'))
+    require(lingvoj, 'neniu PWA-lingvo trovita en ' + str(output_dir))
+    check_pwa_state_bundle(output_dir)
+    for lingvo in lingvoj:
         check_language_pwa(output_dir, lingvo)
 
-    print('Sukcesis: kontrolis la PWA-ojn por ' + ', '.join(pwa.PWA_LINGVOJ))
+    print('Sukcesis: kontrolis la PWA-ojn por ' + str(len(lingvoj)) + ' lingvoj')
 
 
 if __name__ == '__main__':

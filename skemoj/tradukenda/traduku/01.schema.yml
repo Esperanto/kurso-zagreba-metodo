@@ -1,0 +1,52 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 01
+type: array
+maxItems: 9
+items:
+  type: object
+  minProperties: 1
+  maxProperties: 1
+  additionalProperties:
+    anyOf:
+    - type: string
+    - type: array
+      minItems: 1
+      items:
+        type: string
+allOf:
+- contains:
+    required:
+    - amikino
+  maxContains: 1
+- contains:
+    required:
+    - labortablo
+  maxContains: 1
+- contains:
+    required:
+    - esperantistino
+  maxContains: 1
+- contains:
+    required:
+    - instruisto
+  maxContains: 1
+- contains:
+    required:
+    - hotelĉambro
+  maxContains: 1
+- contains:
+    required:
+    - enskribi
+  maxContains: 1
+- contains:
+    required:
+    - skribotablo
+  maxContains: 1
+- contains:
+    required:
+    - lingvisto
+  maxContains: 1
+- contains:
+    required:
+    - laboristino
+  maxContains: 1

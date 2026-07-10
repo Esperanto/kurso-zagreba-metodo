@@ -1,0 +1,84 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 06
+type: array
+maxItems: 17
+items:
+  type: object
+  minProperties: 1
+  maxProperties: 1
+  additionalProperties:
+    anyOf:
+    - type: string
+    - type: array
+      minItems: 1
+      items:
+        type: string
+allOf:
+- contains:
+    required:
+    - leterportisto
+  maxContains: 1
+- contains:
+    required:
+    - hejmlando
+  maxContains: 1
+- contains:
+    required:
+    - iomete
+  maxContains: 1
+- contains:
+    required:
+    - bonege
+  maxContains: 1
+- contains:
+    required:
+    - vespermanĝo
+  maxContains: 1
+- contains:
+    required:
+    - prizorgi
+  maxContains: 1
+- contains:
+    required:
+    - espereble
+  maxContains: 1
+- contains:
+    required:
+    - altkvalita
+  maxContains: 1
+- contains:
+    required:
+    - pripensi
+  maxContains: 1
+- contains:
+    required:
+    - depreni
+  maxContains: 1
+- contains:
+    required:
+    - loĝejo
+  maxContains: 1
+- contains:
+    required:
+    - dufoje
+  maxContains: 1
+- contains:
+    required:
+    - multfoje
+  maxContains: 1
+- contains:
+    required:
+    - nomiĝi
+  maxContains: 1
+- contains:
+    required:
+    - ruĝiĝi
+  maxContains: 1
+- contains:
+    required:
+    - libreto
+  maxContains: 1
+- contains:
+    required:
+    - varmega
+  maxContains: 1

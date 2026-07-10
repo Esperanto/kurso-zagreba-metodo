@@ -1,0 +1,80 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 03
+type: array
+maxItems: 16
+items:
+  type: object
+  minProperties: 1
+  maxProperties: 1
+  additionalProperties:
+    anyOf:
+    - type: string
+    - type: array
+      minItems: 1
+      items:
+        type: string
+allOf:
+- contains:
+    required:
+    - antaŭĉambro
+  maxContains: 1
+- contains:
+    required:
+    - malamiko
+  maxContains: 1
+- contains:
+    required:
+    - malantaŭ
+  maxContains: 1
+- contains:
+    required:
+    - antaŭvidi
+  maxContains: 1
+- contains:
+    required:
+    - malrapida
+  maxContains: 1
+- contains:
+    required:
+    - trarigardi
+  maxContains: 1
+- contains:
+    required:
+    - junulo
+  maxContains: 1
+- contains:
+    required:
+    - malmulte
+  maxContains: 1
+- contains:
+    required:
+    - finfine
+  maxContains: 1
+- contains:
+    required:
+    - malriĉulo
+  maxContains: 1
+- contains:
+    required:
+    - tagmanĝo
+  maxContains: 1
+- contains:
+    required:
+    - tralegi
+  maxContains: 1
+- contains:
+    required:
+    - malnova
+  maxContains: 1
+- contains:
+    required:
+    - laborejo
+  maxContains: 1
+- contains:
+    required:
+    - travidebla
+  maxContains: 1
+- contains:
+    required:
+    - trinkebla
+  maxContains: 1

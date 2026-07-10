@@ -1,0 +1,84 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 04
+type: array
+maxItems: 17
+items:
+  type: object
+  minProperties: 1
+  maxProperties: 1
+  additionalProperties:
+    anyOf:
+    - type: string
+    - type: array
+      minItems: 1
+      items:
+        type: string
+allOf:
+- contains:
+    required:
+    - enfali
+  maxContains: 1
+- contains:
+    required:
+    - ellabori
+  maxContains: 1
+- contains:
+    required:
+    - scivola
+  maxContains: 1
+- contains:
+    required:
+    - trilingva
+  maxContains: 1
+- contains:
+    required:
+    - reiri
+  maxContains: 1
+- contains:
+    required:
+    - enmeti
+  maxContains: 1
+- contains:
+    required:
+    - dektaga
+  maxContains: 1
+- contains:
+    required:
+    - elpreni
+  maxContains: 1
+- contains:
+    required:
+    - malfermi
+  maxContains: 1
+- contains:
+    required:
+    - eldoni
+  maxContains: 1
+- contains:
+    required:
+    - eldonisto
+  maxContains: 1
+- contains:
+    required:
+    - okdek ses
+  maxContains: 1
+- contains:
+    required:
+    - revidi
+  maxContains: 1
+- contains:
+    required:
+    - reveni
+  maxContains: 1
+- contains:
+    required:
+    - internacia
+  maxContains: 1
+- contains:
+    required:
+    - piediri
+  maxContains: 1
+- contains:
+    required:
+    - dumil tri
+  maxContains: 1

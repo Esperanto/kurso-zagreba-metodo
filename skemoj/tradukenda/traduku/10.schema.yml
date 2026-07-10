@@ -1,0 +1,68 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 10
+type: array
+maxItems: 13
+items:
+  type: object
+  minProperties: 1
+  maxProperties: 1
+  additionalProperties:
+    anyOf:
+    - type: string
+    - type: array
+      minItems: 1
+      items:
+        type: string
+allOf:
+- contains:
+    required:
+    - verŝajne
+  maxContains: 1
+- contains:
+    required:
+    - tutsimple
+  maxContains: 1
+- contains:
+    required:
+    - neŭtraleco
+  maxContains: 1
+- contains:
+    required:
+    - tiurilate
+  maxContains: 1
+- contains:
+    required:
+    - universaleco
+  maxContains: 1
+- contains:
+    required:
+    - ebleco
+  maxContains: 1
+- contains:
+    required:
+    - partopreni
+  maxContains: 1
+- contains:
+    required:
+    - plejparte
+  maxContains: 1
+- contains:
+    required:
+    - samtempe
+  maxContains: 1
+- contains:
+    required:
+    - anstataŭigi
+  maxContains: 1
+- contains:
+    required:
+    - elĵeti
+  maxContains: 1
+- contains:
+    required:
+    - finiĝi
+  maxContains: 1
+- contains:
+    required:
+    - informiĝi
+  maxContains: 1

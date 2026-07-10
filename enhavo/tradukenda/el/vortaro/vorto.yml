@@ -7,7 +7,7 @@ alvenigas: "οδηγώ..ουν εδώ"
 alvenis: "ήρθα..αν εδώ"
 alvenos: "θα έρθω..ουν εδώ"
 amikino: φίλη
-amikinon: φίλην
+amikinon: φίλη
 amletero: ερωτική επιστολή
 antaŭeniris: "προχώρησα..αν μπροστά"
 arbaro: δάσος
@@ -27,11 +27,11 @@ centoj: εκατοντάδες
 dankon: ευχαριστώ
 daŭrigis: "συνεχίστηκα..αν"
 denove: πάλι
-devojiĝis: "ξέστράτισα..αν"
+devojiĝis: "ξέφυγα..αν από τον δρόμο"
 dikiĝi: "να χοντρήνω..ουν"
 doloriga: "επίπονος-η-ο"
 dolorige: επίπονα
-domegon: μέγαρον
+domegon: μέγαρο
 dumnokte: κατά τη νύχτα
 dumtage: κατά τη μέρα
 ekkriis: "άρχισα..αν να ουρλιάζω..ουν"
@@ -70,20 +70,20 @@ grafinon: κοντέσσαν
 grandula: "επιβλητικός-ή-ό"
 gravuloj: σημαντικοί άνθρωποι
 haltigis: "σταμάτησα..αν"
-havindan: αξιοκάτοχος
+havindan: άξιο να αποκτηθεί
 homformo: τύπος ανθρώπου
-ideoriĉan: ευφάνταστον
+ideoriĉan: ευφάνταστο
 industriisto: βιομήχανος
 instruistino: δασκάλα 
-instruiston: δάσκαλον
+instruiston: δάσκαλο
 intervidiĝas: "βλέπω..ουν ο ένας τον άλλον"
 iron: πορεία
 junulino: νεαρή
 junulinoj: νεαρές
-junulinon: νεαρήν
+junulinon: νεαρή
 junuloj: νεαροί
 kafejo: καφετέρια
-kafejon: καφετέριαν
+kafejon: καφετέρια
 karulino: αγαπητή
 karulo: αγαπητέ
 klarigis: "εξήγησα..αν"
@@ -103,7 +103,7 @@ lernanto:
 - μαθητευόμενος
 - μαθητής
 lernejo: σχολείο
-lernejon: σχολείον 
+lernejon: σχολείο
 lernolibroj: σχολικά βιβλία
 leteroj: γράμματα
 libertempo: ελεύθερος χρόνος
@@ -128,7 +128,7 @@ malhelpis: "εμπόδισα..αν"
 malinterese: πληκτικά
 malkontentigi: "να ενοχλώ..ουν"
 mallaŭte: σιωπηλά
-malliberejon: φυλακήν
+malliberejon: φυλακή
 mallumo: σκοτάδι
 malmulte: λίγο
 malmultekosta: "φτηνός-ή-ό-οί-ές-ά" 
@@ -139,7 +139,7 @@ malofte: σπάνια
 malplaĉa: "δυσάρεστος-η-ο"
 malplaĉan: "δυσάρεστον-ην-ον"
 malproksime: μακρινά
-malsaniĝis: "αρώστησα..αν"
+malsaniĝis: "αρρώστησα..αν"
 malsaĝa: "ανόητος-η-ο"
 malsekajn: "υγρούς-ές-ά"
 malsukcesa: "ανεπιτυχής-ής-ές"
@@ -153,7 +153,7 @@ manĝaĵo: τροφή
 manĝegi: "να καταβροχθίζω..ουν"
 maristo: ναυτικός
 maristoj: ναυτικοί
-mariston: ναυτικόν
+mariston: ναυτικό
 miaj: "οι δικοί-ές-ά μου" 
 militistoj: στρατιώτες
 monerojn: νομίσματα
@@ -174,7 +174,7 @@ ordigi: "να τακτοποιήσω..ουν"
 paperoj: χαρτιά
 paperojn:  χαρτιά
 paperujon: καλάθι αχρήστων
-pasigos: "θα περάσω..ουνι"
+pasigos: "θα περάσω..ουν"
 patrino: μητέρα
 perdigis: "έκανα..αν να χάσει"
 plenigadis: "γέμιζα..αν"
@@ -198,10 +198,10 @@ riĉeco:
 - πλούτος
 riĉulo: "πλούσιος-α-ο"
 salton: πήδημα
-saluton: γειά σου
+saluton: γεια σου
 samklubanoj: μέλη του ίδιου ομίλου
 sekretajn: "μυστικούς-ές-ά"
-sekreton: μυστικόν
+sekreton: μυστικό
 senbrue: σιωπηλά
 seninterese: αδιάφορα
 senkolora: "άχρωμος-η-ο"
@@ -209,7 +209,7 @@ sensukcese: ανεπιτυχώς
 sentimulo: "ατρόμητος-η-ο"
 senvorte: χωρίς λόγια
 sinjorinoj: κυρίες
-sinjorinon: κυρίαν
+sinjorinon: κυρία
 skribotablo: γραφείο
 soleca: "μοναχικός-ή-ό"
 sovaĝejo: ερημιά
@@ -234,7 +234,7 @@ vendisto: πωλητής
 vestaĵo: ρούχο 
 vestaĵoj: ρούχα
 vestaĵojn: ρούχα 
-vestaĵon: ρούχον
+vestaĵon: ρούχο
 veturado: 
 - οδήγηση
 - περιήγηση

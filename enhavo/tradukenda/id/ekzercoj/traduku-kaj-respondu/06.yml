@@ -1,5 +1,5 @@
 - 
-  demando: Apakah kamu ingin aku memperlihatkan padamu bukuku yang terbaru?
+  demando: Apakah kamu ingin aku memperlihatkan buku terbaruku kepadamu?
   rektatraduko: 
     - Ĉu: Apakah
     - vi: kamu
@@ -16,7 +16,7 @@
     - libron: buku
     - '?'
 - 
-  demando: Apa yang kamu mau untuk sarapan besok?
+  demando: Apa yang ingin kamu makan untuk sarapan besok?
   rektatraduko: 
     - Kion: Apa
     - vi: kamu
@@ -56,7 +56,7 @@
     - bonfarulo: dermawan
     - '?'
 - 
-  demando: Apakah buklet yang saya kirimkan berguna untukmu?
+  demando: Apakah buklet yang saya kirimkan itu berguna untukmu?
   rektatraduko: 
     - Ĉu: Apakah
     - la: (kata sandang)
@@ -66,7 +66,7 @@
     - al: bagi
     - vi: kamu
     - ',' 
-    - kiun: siapa
+    - kiun: yang
     - mi: saya 
     - sendis: mengirimkan (lampau)
     - '?'

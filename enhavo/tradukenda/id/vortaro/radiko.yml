@@ -29,7 +29,7 @@ branĉ: cabang
 bru: ribut
 buŝ: mulut
 cert: yakin
-dank: terima kasih
+dank: berterima kasih
 daŭr: lanjut
 decid: memutuskan
 demand: tanya
@@ -59,7 +59,7 @@ efektiv:
 ekskurs: ekskursi, perjalanan wisata
 esper: berharap
 est: 
-- adalah (to be)
+- adalah
 - ada
 facil: gampang
 fakt: fakta
@@ -85,8 +85,8 @@ fru: awal
 fuŝ: kacau
 gondol: gondola
 graf:
-- count
-- earl
+- graf
+- bangsawan bergelar graf
 grand:
 - besar
 - hebat
@@ -101,7 +101,7 @@ hotel: hotel
 ide: ide
 industri: industri 
 instru: mengajar
-interes: tertarik
+interes: minat
 invit: undang
 ir: pergi
 itali: Itali
@@ -112,7 +112,7 @@ kalv: botak
 kap: kepala
 kapabl: mampu
 kapt: tangkap
-kar: sayang, 
+kar: sayang
 kastel: kastil
 kav: gua
 kelk: beberapa
@@ -129,7 +129,7 @@ kontent: puas, senang
 kontrol: periksa
 kor: hati
 korp: badan, tubuh
-kost: harga
+kost: berharga
 kri: teriak
 kuir: masak
 kuk: kue 
@@ -161,7 +161,7 @@ met: taruh, simpan
 mez: tengah
 milit: perang
 minut: menit
-mir: bayang
+mir: heran
 moment: momen
 mon: uang
 mont: gunung
@@ -183,7 +183,7 @@ okaz: terjadi
 okul: mata
 onkl: paman
 opini: opini, pendapat
-ord: suruh, perintah
+ord: perintah
 orel: telinga, kuping
 pac: damai
 pag: bayar
@@ -194,7 +194,7 @@ parol: bicara
 part: bagian
 pas: lewat
 patr: ayah
-paŝ: langkah  
+paŝ: melangkah
 pens: pikir
 perd: kehilangan
 person: orang
@@ -225,15 +225,15 @@ rekt: langsung
 renkont: menemui
 respekt: menghargai
 respond: menjawab
-rest: sisa
+rest: tetap
 ricev: menerima
-rid: tawa
+rid: tertawa
 rigard: memandang
 riĉ: kaya
 rol: peran
 ruĝ: merah
 salt: lompat
-salut: sapa
+salut: salam
 sam: sama
 san: sehat
 saĝ: bijak
@@ -246,7 +246,7 @@ send: kirim
 serĉ: cari
 si: (kata ganti refleksif)
 sid: duduk
-silent: senyap, diam
+silent: hening, diam
 simil: mirip
 sinjor:
 - tuan
@@ -295,8 +295,8 @@ ver:
 vesper: malam
 vest: berpakaian
 vetur: 
-- pergi
-- perjalanan
+- bepergian
+- naik kendaraan
 vid: lihat
 vin: anggur (minuman)
 vir: pria
@@ -315,7 +315,7 @@ zorg:
 - urus
 - peduli
 ĉambr: kamar
-ĉef: bos
+ĉef: kepala, pemimpin
 ĝen: ganggu
 ĝeneral: umum
 ĝoj: senang

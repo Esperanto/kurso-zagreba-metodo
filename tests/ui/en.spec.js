@@ -714,6 +714,47 @@ test('PWA-stato konservas ekzercajn respondojn, pozicion kaj lastan paĝon', asy
   await context.close();
 });
 
+test('gxuste-sono ludas unufoje kiam respondo farigxas gxusta per tajpado', async ({ page }) => {
+  await page.addInitScript(() => {
+    window.__gxustePlayCalls = [];
+    HTMLMediaElement.prototype.play = function() {
+      window.__gxustePlayCalls.push({
+        sources: Array.from(this.querySelectorAll('source')).map((source) => ({
+          src: source.getAttribute('src'),
+          type: source.getAttribute('type'),
+        })),
+      });
+      return Promise.resolve();
+    };
+  });
+
+  await page.goto('/en/06/ekzerco1/');
+
+  const input = page.locator('.form-horizontal input[data-solvo]').first();
+  const solvo = await input.getAttribute('data-solvo');
+  const unuaSolvo = solvo.split(/\s*\|\s*/)[0];
+
+  await input.focus();
+  await page.keyboard.type(unuaSolvo);
+
+  await expect(input).toHaveClass(/is-valid/);
+  await expect.poll(
+    () => page.evaluate(() => window.__gxustePlayCalls),
+  ).toEqual([
+    {
+      sources: [
+        { src: '/assets/ogg/gxuste.ogg', type: 'audio/ogg' },
+        { src: '/assets/mp3/gxuste.mp3', type: 'audio/mpeg' },
+      ],
+    },
+  ]);
+
+  await page.locator('.solvu').click();
+  await expect.poll(
+    () => page.evaluate(() => window.__gxustePlayCalls.length),
+  ).toBe(1);
+});
+
 test('ekzercaj titoloj montras nur la celan lingvon', async ({ page }) => {
   await page.goto('/en/01/ekzerco1/');
   await expect(page.getByRole('heading', { level: 3, name: 'Translate' })).toBeVisible();

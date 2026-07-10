@@ -67,11 +67,56 @@ function selectNextTabbable(){
 	selectables.eq(nextIndex).focus();
 }
 
+var gxustaSono = null;
 
-$('input[data-solvo]').on('input', function() {
+function gxustaSonoElemento() {
+	if (gxustaSono !== null) {
+		return gxustaSono;
+	}
+
+	gxustaSono = document.createElement('audio');
+	gxustaSono.preload = 'auto';
+
+	var ogg = document.createElement('source');
+	ogg.src = '/assets/ogg/gxuste.ogg';
+	ogg.type = 'audio/ogg';
+	gxustaSono.appendChild(ogg);
+
+	var mp3 = document.createElement('source');
+	mp3.src = '/assets/mp3/gxuste.mp3';
+	mp3.type = 'audio/mpeg';
+	gxustaSono.appendChild(mp3);
+
+	return gxustaSono;
+}
+
+function luduGxustanSonon() {
+	var sono = gxustaSonoElemento();
+
+	try {
+		sono.currentTime = 0;
+	} catch (e) {
+	}
+
+	try {
+		var ludado = sono.play();
+		if (ludado && typeof ludado.catch === 'function') {
+			ludado.catch(function() {});
+		}
+	} catch (e) {
+	}
+}
+
+function estasUzantaEnigo(evento) {
+	return evento && evento.originalEvent && evento.originalEvent.isTrusted;
+}
+
+
+$('input[data-solvo]').on('input', function(evento) {
   // Get input and normalize.
   var input = $(this).val();
   input = normalize(input);
+	var jam_gxusta = $(this).hasClass('is-valid');
 
   // Split data-solvo to find solutions and normalize.
   var solutions = $(this).attr('data-solvo').split(/\s*\|\s*/);
@@ -85,6 +130,9 @@ $('input[data-solvo]').on('input', function() {
 
   if (correct) {
     $(this).removeClass('is-invalid').addClass('is-valid');
+		if (!jam_gxusta && estasUzantaEnigo(evento)) {
+			luduGxustanSonon();
+		}
 		// Set focus on the current
 		// to not confuse it during the following step. 
 		$(this).focus();

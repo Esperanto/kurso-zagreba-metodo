@@ -6,417 +6,176 @@ allOf:
     prefixItems:
       - properties:
           rektatraduko:
-            items:
-              anyOf:
-                - type: object
-                  required:
-                    - Kia
-                - type: object
-                  required:
-                    - estis
-                - type: object
-                  required:
-                    - via
-                - type: object
-                  required:
-                    - malnova
-                - type: object
-                  required:
-                    - hejmo
-                - const: '?'
-            allOf:
-              - contains:
-                  type: object
-                  required:
-                    - Kia
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - estis
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - via
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - malnova
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - hejmo
-                maxContains: 1
-              - contains:
-                  const: '?'
-                maxContains: 1
+            minItems: 6
+            prefixItems:
+              - type: object
+                required:
+                  - Kia
+              - type: object
+                required:
+                  - estis
+              - type: object
+                required:
+                  - via
+              - type: object
+                required:
+                  - malnova
+              - type: object
+                required:
+                  - hejmo
+              - const: '?'
+            items: false
       - properties:
           rektatraduko:
-            items:
-              anyOf:
-                - type: object
-                  required:
-                    - Kiujn
-                - type: object
-                  required:
-                    - librojn
-                - type: object
-                  required:
-                    - vi
-                - type: object
-                  required:
-                    - legis
-                - type: object
-                  required:
-                    - kaj
-                - type: object
-                  required:
-                    - ĉu
-                - type: object
-                  required:
-                    - ili
-                - type: object
-                  required:
-                    - estas
-                - type: object
-                  required:
-                    - bonaj
-                - const: '?'
-            allOf:
-              - contains:
-                  type: object
-                  required:
-                    - Kiujn
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - librojn
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - vi
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - legis
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - kaj
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - ĉu
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - ili
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - estas
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - bonaj
-                maxContains: 1
-              - contains:
-                  const: '?'
-                maxContains: 1
+            minItems: 10
+            prefixItems:
+              - type: object
+                required:
+                  - Kiujn
+              - type: object
+                required:
+                  - librojn
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - legis
+              - type: object
+                required:
+                  - kaj
+              - type: object
+                required:
+                  - ĉu
+              - type: object
+                required:
+                  - ili
+              - type: object
+                required:
+                  - estas
+              - type: object
+                required:
+                  - bonaj
+              - const: '?'
+            items: false
       - properties:
           rektatraduko:
-            items:
-              anyOf:
-                - type: object
-                  required:
-                    - Kion
-                - type: object
-                  required:
-                    - faris
-                - type: object
-                  required:
-                    - Anna
-                - type: object
-                  required:
-                    - kaj
-                - type: object
-                  required:
-                    - Marko
-                - type: object
-                  required:
-                    - en
-                - type: object
-                  required:
-                    - la
-                - type: object
-                  required:
-                    - malgranda
-                - type: object
-                  required:
-                    - ĉambro
-                - type: object
-                  required:
-                    - de
-                - const: '?'
-            allOf:
-              - contains:
-                  type: object
-                  required:
-                    - Kion
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - faris
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - Anna
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - kaj
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - Marko
-                maxContains: 2
-                minContains: 2
-              - contains:
-                  type: object
-                  required:
-                    - en
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - la
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - malgranda
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - ĉambro
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - de
-                maxContains: 1
-              - contains:
-                  const: '?'
-                maxContains: 1
+            minItems: 12
+            prefixItems:
+              - type: object
+                required:
+                  - Kion
+              - type: object
+                required:
+                  - faris
+              - type: object
+                required:
+                  - Ana
+              - type: object
+                required:
+                  - kaj
+              - type: object
+                required:
+                  - Marko
+              - type: object
+                required:
+                  - en
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - malgranda
+              - type: object
+                required:
+                  - ĉambro
+              - type: object
+                required:
+                  - de
+              - type: object
+                required:
+                  - Marko
+              - const: '?'
+            items: false
       - properties:
           rektatraduko:
-            items:
-              anyOf:
-                - type: object
-                  required:
-                    - Ĉu
-                - type: object
-                  required:
-                    - vi
-                - type: object
-                  required:
-                    - ŝatas
-                - type: object
-                  required:
-                    - legi
-                - type: object
-                  required:
-                    - librojn
-                - type: object
-                  required:
-                    - pri
-                - type: object
-                  required:
-                    - amo
-                - const: '?'
-            allOf:
-              - contains:
-                  type: object
-                  required:
-                    - Ĉu
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - vi
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - ŝatas
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - legi
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - librojn
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - pri
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - amo
-                maxContains: 1
-              - contains:
-                  const: '?'
-                maxContains: 1
+            minItems: 8
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - ŝatas
+              - type: object
+                required:
+                  - legi
+              - type: object
+                required:
+                  - librojn
+              - type: object
+                required:
+                  - pri
+              - type: object
+                required:
+                  - amo
+              - const: '?'
+            items: false
       - properties:
           rektatraduko:
-            items:
-              anyOf:
-                - type: object
-                  required:
-                    - Kiu
-                - type: object
-                  required:
-                    - iros
-                - type: object
-                  required:
-                    - kun
-                - type: object
-                  required:
-                    - vi
-                - type: object
-                  required:
-                    - al
-                - type: object
-                  required:
-                    - via
-                - type: object
-                  required:
-                    - hejmo
-                - const: '?'
-            allOf:
-              - contains:
-                  type: object
-                  required:
-                    - Kiu
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - iros
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - kun
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - vi
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - al
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - via
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - hejmo
-                maxContains: 1
-              - contains:
-                  const: '?'
-                maxContains: 1
+            minItems: 8
+            prefixItems:
+              - type: object
+                required:
+                  - Kiu
+              - type: object
+                required:
+                  - iros
+              - type: object
+                required:
+                  - kun
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - al
+              - type: object
+                required:
+                  - via
+              - type: object
+                required:
+                  - hejmo
+              - const: '?'
+            items: false
       - properties:
           rektatraduko:
-            items:
-              anyOf:
-                - type: object
-                  required:
-                    - Kiaj
-                - type: object
-                  required:
-                    - estas
-                - type: object
-                  required:
-                    - la
-                - type: object
-                  required:
-                    - okuloj
-                - type: object
-                  required:
-                    - de
-                - type: object
-                  required:
-                    - via
-                - type: object
-                  required:
-                    - amikino
-                - const: '?'
-            allOf:
-              - contains:
-                  type: object
-                  required:
-                    - Kiaj
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - estas
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - la
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - okuloj
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - de
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - via
-                maxContains: 1
-              - contains:
-                  type: object
-                  required:
-                    - amikino
-                maxContains: 1
-              - contains:
-                  const: '?'
-                maxContains: 1
+            minItems: 8
+            prefixItems:
+              - type: object
+                required:
+                  - Kiaj
+              - type: object
+                required:
+                  - estas
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - okuloj
+              - type: object
+                required:
+                  - de
+              - type: object
+                required:
+                  - via
+              - type: object
+                required:
+                  - amikino
+              - const: '?'
+            items: false
     items: false

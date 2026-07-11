@@ -7,7 +7,7 @@
     - viajn: els teus
     - gepatrojn: pares
     - '?'
-- demando: Tant de bo anessis amb mi al centre després de la lliçó!
+- demando: Tant de bo anessis amb mi a la ciutat després de la lliçó!
   rektatraduko:
     - Se: Si
     - almenaŭ: almenys
@@ -20,7 +20,7 @@
     - mi: mi
     - en: a
     - la: el
-    - urbocentron: centre
+    - urbon: ciutat
     - '!'
 - demando: On desitjaries viatjar si tinguessis suficients diners i temps?
   rektatraduko:
@@ -38,21 +38,21 @@
     - kaj: i
     - tempo: temps
     - '?'
-- demando: Viatges amb el cotxe a París o millor amb el tren?
+- demando: Viatges amb el cotxe a Itàlia o millor amb el tren?
   rektatraduko:
     - Ĉu: Que
     - vi: Tu
     - planas: viatges
-    - veturi: to travel
+    - veturi: viatjar
     - al: a
-    - Parizo: París
+    - Italio: Itàlia
     - per: amb
     - aŭto: cotxe
     - aŭ: o
     - ĉu: si
     - ne: 'no'
-    - ŝajnas: seem
-    - multe: much
+    - ŝajnas: sembla
+    - multe: molt
     - pli: més
     - bone: bé
     - per: amb

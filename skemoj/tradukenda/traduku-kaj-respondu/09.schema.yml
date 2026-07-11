@@ -67,7 +67,7 @@ allOf:
                   - la
               - type: object
                 required:
-                  - urbocentron
+                  - urbon
               - const: '!'
             items: false
       - properties:
@@ -134,7 +134,7 @@ allOf:
                   - al
               - type: object
                 required:
-                  - Parizo
+                  - Italio
               - type: object
                 required:
                   - per

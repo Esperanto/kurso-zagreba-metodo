@@ -1,64 +1,64 @@
 -
-  demando: Can you learn calmly why someone is singing joyfully?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+  demando: តើអ្នកអាចរៀនដោយស្ងប់ស្ងាត់ ខណៈដែលនរណាម្នាក់ច្រៀងដោយរីករាយឬ?
+  rektatraduko:
+    - Ĉu: តើ
+    - vi: អ្នក
+    - povas: អាច
+    - trankvile: ដោយស្ងប់ស្ងាត់
+    - lerni: រៀន
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
+    - dum: ខណៈពេល
+    - iu: នរណាម្នាក់
+    - ĝoje: ដោយរីករាយ
+    - kantas: ច្រៀង
     - '?'
 -
-  demando: Who knows when and where we will see each other again?
-  rektatraduko: 
-    - Kiu: Who
-    - scias: knows
+  demando: អ្នកណាដឹងថា ពេលណា និងទីណា យើងនឹងជួបគ្នាម្តងទៀត?
+  rektatraduko:
+    - Kiu: អ្នកណា
+    - scias: ដឹង
     - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
+    - kiam: ពេលណា
+    - kaj: និង
+    - kie: នៅទីណា
+    - ni: យើង
+    - revidos: នឹងជួបម្តងទៀត
+    - nin: គ្នា
     - '?'
 -
-  demando: What time is it now?
-  rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
+  demando: ឥឡូវនេះម៉ោងប៉ុន្មាន?
+  rektatraduko:
+    - Kioma: ទីប៉ុន្មាន
+    - horo: ម៉ោង
+    - estas: គឺ
+    - nun: ឥឡូវ
     - '?'
 -
-  demando: Did someone help you open the door of the old house?
-  rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+  demando: តើមាននរណាម្នាក់ជួយអ្នកបើកទ្វារផ្ទះចាស់ឬ?
+  rektatraduko:
+    - Ĉu: តើ
+    - iu: នរណាម្នាក់
+    - helpis: បានជួយ
+    - al: ដល់
+    - vi: អ្នក
+    - malfermi: បើក
+    - la: ពាក្យកំណត់
+    - pordon: ទ្វារ
+    - de: របស់
+    - la: ពាក្យកំណត់
+    - malnova: ចាស់
+    - domo: ផ្ទះ
     - '?'
 -
-  demando: Why do you not have time to listen to me longer?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
+  demando: ហេតុអ្វីបានជាអ្នកគ្មានពេលស្តាប់ខ្ញុំយូរជាងនេះ?
+  rektatraduko:
+    - Kial: ហេតុអ្វី
+    - vi: អ្នក
+    - ne: មិន
+    - havas: មាន
+    - tempon: ពេល
+    - aŭskulti: ស្តាប់
+    - min: ខ្ញុំ
+    - pli: ច្រើនជាង
+    - longe: យូរ
     - '?'

@@ -276,6 +276,10 @@ h3 {
 .lingva-startpagxo-titoloj {
   text-wrap: balance;
 }
+html:lang(th) .lingva-startpagxo-titoloj {
+  text-wrap: wrap;
+  text-wrap: pretty;
+}
 .lingva-startpagxo h1 {
   font-size: clamp(2rem, 5vw, 3rem);
   line-height: 1.1;

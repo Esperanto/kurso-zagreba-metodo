@@ -484,6 +484,14 @@ ur:
     - nomo: Adeel Butt
       github: ambtg
   tekstodirekto: rtl
+uz:
+  nomo:
+    fontlingve: Oʻzbekcha
+    esperante: uzbeka
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 vi:
   nomo:
     fontlingve: Tiếng Việt

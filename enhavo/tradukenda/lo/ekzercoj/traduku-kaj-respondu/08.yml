@@ -1,86 +1,80 @@
-- 
-  demando: Who is going to clean the kitchen after lunch?
-  rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
-    - '?'
-- 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
-    - ':' 
-    - teon: tea
-    - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
-    - '?'
-- 
-  demando: Why did you so suddenly decide to renovate your small room?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
-    - '?'
-- 
-  demando: To whom did you give the clean wine glasses?
-  rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
-    - '?'
-- 
-  demando: Against whom did your sports club play two weeks ago?
-  rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
-    - '?'
-- 
-  demando: Do you often see the policeman who is living in the appartment above you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
-    - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
-    - '?'
+- demando: ໃຜຈະທຳຄວາມສະອາດເຮືອນຄົວຫຼັງອາຫານທ່ຽງ?
+  rektatraduko:
+  - Kiu: ໃຜ
+  - purigos: ຈະທຳຄວາມສະອາດ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - kuirejon: ເຮືອນຄົວ
+  - post: ຫຼັງຈາກ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - tagmanĝo: ອາຫານທ່ຽງ
+  - '?'
+- demando: "ເຈົ້າຢາກດື່ມຫຍັງ: ຊາ, ກາເຟໜ້ອຍໜຶ່ງ, ຫຼືບໍ່ຢາກດື່ມຫຍັງເລີຍ?"
+  rektatraduko:
+  - Kion: ຫຍັງ
+  - vi: ເຈົ້າ
+  - volas: ຕ້ອງການ
+  - trinki: ດື່ມ
+  - ':'
+  - teon: ຊາ
+  - ','
+  - iom: ບາງສ່ວນ
+  - da: ຂອງ
+  - kafo: ກາເຟ
+  - aŭ: ຫຼື
+  - ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - volas: ຕ້ອງການ
+  - nenion: ບໍ່ມີຫຍັງ
+  - '?'
+- demando: ເປັນຫຍັງເຈົ້າຈຶ່ງຕັດສິນໃຈປັບປຸງຫ້ອງນ້ອຍຂອງເຈົ້າຢ່າງກະທັນຫັນ?
+  rektatraduko:
+  - Kial: ເປັນຫຍັງ
+  - vi: ເຈົ້າ
+  - tiel: ຢ່າງນັ້ນ
+  - subite: ກະທັນຫັນ
+  - decidis: ໄດ້ຕັດສິນໃຈ
+  - renovigi: ປັບປຸງໃໝ່
+  - vian: ຂອງເຈົ້າ
+  - ĉambreton: ຫ້ອງນ້ອຍ
+  - '?'
+- demando: ເຈົ້າໃຫ້ແກ້ວເຫຼົ້າອະງຸ່ນທີ່ສະອາດແກ່ໃຜ?
+  rektatraduko:
+  - Al: ໄປຫາ
+  - kiu: ໃຜ
+  - vi: ເຈົ້າ
+  - donis: ໄດ້ໃຫ້
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - purajn: ສະອາດ
+  - glasojn: ແກ້ວຫຼາຍໃບ
+  - por: ເພື່ອ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - vino: ເຫຼົ້າອະງຸ່ນ
+  - '?'
+- demando: ສະໂມສອນກິລາຂອງເຈົ້າແຂ່ງກັບໃຜເມື່ອສອງອາທິດກ່ອນ?
+  rektatraduko:
+  - Kontraŭ: ຕໍ່ຕ້ານ
+  - kiu: ໃຜ
+  - ludis: ໄດ້ຫຼິ້ນ
+  - via: ຂອງເຈົ້າ
+  - sportklubo: ສະໂມສອນກິລາ
+  - antaŭ: ກ່ອນ
+  - du: ສອງ
+  - semajnoj: ອາທິດຫຼາຍອາທິດ
+  - '?'
+- demando: ເຈົ້າມັກເຫັນຕຳຫຼວດທີ່ອາໄສຢູ່ອາພາດເມັນຂ້າງເທິງເຈົ້າບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - ofte: ເລື້ອຍໆ
+  - vidas: ເຫັນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - policiston: ຕຳຫຼວດ
+  - ','
+  - kiu: ໃຜ
+  - loĝas: ອາໄສຢູ່
+  - en: ໃນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - loĝejo: ທີ່ພັກ
+  - super: ເໜືອ
+  - vi: ເຈົ້າ
+  - '?'

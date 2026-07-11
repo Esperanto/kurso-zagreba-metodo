@@ -1,0 +1,71 @@
+- demando: Siz ikki yildan ortiq kutgan kitob kimda bor edi?
+  rektatraduko:
+  - Kiu: kim
+  - havis: ega edi
+  - la: aniq artikl
+  - libron: kitobni
+  - ','
+  - kiun: qaysini
+  - vi: siz
+  - atendis: kutdingiz
+  - pli: koʻproq
+  - ol: '...dan koʻra'
+  - du: ikki
+  - jarojn: yillarni
+  - '?'
+- demando: Menga eng aziz boʻlgan suratni sizga koʻrsatishimni xohlaysizmi?
+  rektatraduko:
+  - Ĉu: savol yuklamasi
+  - vi: siz
+  - volas: xohlaysiz
+  - ','
+  - ke: deb
+  - mi: men
+  - montru: koʻrsatay
+  - al: '...ga'
+  - vi: siz
+  - mian: mening
+  - plej: eng
+  - karan: aziz
+  - foton: suratni
+  - '?'
+- demando: Oʻsha kiyimni qayerdan sotib oldingiz?
+  rektatraduko:
+  - Kie: qayerda
+  - vi: siz
+  - aĉetis: sotib oldingiz
+  - tiun: oʻshani
+  - vestaĵon: kiyimni
+  - '?'
+- demando: Yakshanba kuni quyoshli kun boʻlsa, qayerga borasiz?
+  rektatraduko:
+  - Kien: qayerga
+  - vi: siz
+  - iros: borasiz
+  - dimanĉe: yakshanbada
+  - ','
+  - se: agar
+  - estos: boʻladi
+  - suna: quyoshli
+  - tago: kun
+  - '?'
+- demando: Akangiz/ukangiz allaqachon ketdimi?
+  rektatraduko:
+  - Ĉu: savol yuklamasi
+  - via: sizning
+  - frato: aka/uka
+  - jam: allaqachon
+  - ekiris: yoʻlga chiqdi
+  - '?'
+- demando: Oʻzingiz olib kelgan suv qayerda?
+  rektatraduko:
+  - Kie: qayerda
+  - estas: bor
+  - la: aniq artikl
+  - akvo: suv
+  - ','
+  - kiun: qaysini
+  - vi: siz
+  - mem: oʻzingiz
+  - kunportis: birga olib keldingiz
+  - '?'

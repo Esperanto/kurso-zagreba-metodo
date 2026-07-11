@@ -1,70 +1,70 @@
-- 
-  demando: What was your old home like?
-  rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
-    - '?'
-- 
-  demando: Which books did you read, and were they good?
-  rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
-    - '?'
-- 
-  demando: "What did Anna and Mark do in Marks little room?"
+-
+  demando: ផ្ទះចាស់របស់អ្នកមានលក្ខណៈដូចម្តេច?
   rektatraduko:
-    - Kion: What
-    - faris: did do
-    - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
+    - Kia: ប្រភេទណា
+    - estis: បានជា
+    - via: របស់អ្នក
+    - malnova: ចាស់
+    - hejmo: ផ្ទះ
     - '?'
-- 
-  demando: Do you like reading books about love?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
+-
+  demando: តើអ្នកបានអានសៀវភៅណាខ្លះ ហើយតើវាល្អឬទេ?
+  rektatraduko:
+    - Kiujn: មួយណាខ្លះ
+    - librojn: សៀវភៅ
+    - vi: អ្នក
+    - legis: បានអាន
+    - kaj: និង
+    - ĉu: តើ
+    - ili: ពួកវា
+    - estas: គឺ
+    - bonaj: ល្អ
     - '?'
-- 
-  demando: Who will go with you to your home?
-  rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
+-
+  demando: តើអាណា និងម៉ាកូបានធ្វើអ្វីនៅក្នុងបន្ទប់តូចរបស់ម៉ាកូ?
+  rektatraduko:
+    - Kion: អ្វី
+    - faris: បានធ្វើ
+    - Anna: អាណា
+    - kaj: និង
+    - Marko: ម៉ាកូ
+    - en: ក្នុង
+    - la: ពាក្យកំណត់
+    - malgranda: តូច
+    - ĉambro: បន្ទប់
+    - de: របស់
+    - Marko: ម៉ាកូ
     - '?'
-- 
-  demando: "What are your girl-friend's eyes like?"
-  rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
+-
+  demando: តើអ្នកចូលចិត្តអានសៀវភៅអំពីសេចក្តីស្រឡាញ់ឬ?
+  rektatraduko:
+    - Ĉu: តើ
+    - vi: អ្នក
+    - ŝatas: ចូលចិត្ត
+    - legi: អាន
+    - librojn: សៀវភៅ
+    - pri: អំពី
+    - amo: សេចក្តីស្រឡាញ់
+    - '?'
+-
+  demando: អ្នកណានឹងទៅផ្ទះរបស់អ្នកជាមួយអ្នក?
+  rektatraduko:
+    - Kiu: អ្នកណា
+    - iros: នឹងទៅ
+    - kun: ជាមួយ
+    - vi: អ្នក
+    - al: ទៅ
+    - via: របស់អ្នក
+    - hejmo: ផ្ទះ
+    - '?'
+-
+  demando: ភ្នែករបស់មិត្តស្រីអ្នកមានលក្ខណៈដូចម្តេច?
+  rektatraduko:
+    - Kiaj: ប្រភេទណា
+    - estas: គឺ
+    - la: ពាក្យកំណត់
+    - okuloj: ភ្នែក
+    - de: របស់
+    - via: របស់អ្នក
+    - amikino: មិត្តស្រី
     - '?'

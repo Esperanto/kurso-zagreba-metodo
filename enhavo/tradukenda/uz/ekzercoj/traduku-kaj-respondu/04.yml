@@ -1,0 +1,67 @@
+- demando: Sizni qachon yana koʻraman?
+  rektatraduko:
+  - Kiam: qachon
+  - mi: men
+  - revidos: yana koʻraman
+  - vin: sizni
+  - '?'
+- demando: Xalqaro tilni qancha vaqtdan beri oʻrganyapsiz?
+  rektatraduko:
+  - Kiel: qanday
+  - longe: uzoq
+  - vi: siz
+  - lernas: oʻrganyapsiz
+  - la: aniq artikl
+  - Internacian: xalqaro
+  - Lingvon: tilni
+  - '?'
+- demando: Suratlari bor yangi kitobim qayerda?
+  rektatraduko:
+  - Kie: qayerda
+  - estas: bor
+  - mia: mening
+  - nova: yangi
+  - libro: kitob
+  - kun: bilan
+  - fotoj: suratlar
+  - '?'
+- demando: Tushlikdan keyin qayerga borasiz?
+  rektatraduko:
+  - Kien: qayerga
+  - vi: siz
+  - iros: borasiz
+  - post: keyin
+  - la: aniq artikl
+  - tagmanĝo: tushlik
+  - '?'
+- demando: Sovuq boʻlganda xona eshigini yopish mumkinmi?
+  rektatraduko:
+  - Ĉu: savol yuklamasi
+  - oni: kishi
+  - povas: qila oladi
+  - fermi: yopmoq
+  - la: aniq artikl
+  - pordon: eshikni
+  - de: '...ning'
+  - la: aniq artikl
+  - ĉambro: xona
+  - ','
+  - kiam: qachon
+  - estas: boʻladi
+  - malvarme: sovuq
+  - '?'
+- demando: Agar odamlar sizdan koʻp pul olib qoʻysa, qancha vaqt jahlingiz chiqadi?
+  rektatraduko:
+  - Kiel: qanday
+  - longe: uzoq
+  - vi: siz
+  - koleras: jahlingiz chiqadi
+  - ','
+  - se: agar
+  - oni: kishi
+  - forprenas: olib ketadi
+  - de: '...dan'
+  - vi: siz
+  - multan: koʻpni
+  - monon: pulni
+  - '?'

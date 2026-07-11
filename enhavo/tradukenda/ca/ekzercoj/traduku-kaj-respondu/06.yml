@@ -19,8 +19,8 @@
     - Kion: Què
     - vi: tu
     - volas: vols
-    - matenmanĝi: esmorzar
     - morgaŭ: demà
+    - matenmanĝi: esmorzar
     - '?'
 - demando: Quan arribarà el Marko, a les cinc o a les vuit?
   rektatraduko:
@@ -54,8 +54,6 @@
 - demando: Et va ser útil el llibret que et vaig enviar?
   rektatraduko:
     - Ĉu: Que
-    - estis: va ser
-    - utila: útil
     - la: el
     - libreto: llibret
     - ','
@@ -64,4 +62,7 @@
     - sendis: vaig enviar
     - al: a
     - vi: tu
+    - ','
+    - estis: va ser
+    - utila: útil
     - '?'

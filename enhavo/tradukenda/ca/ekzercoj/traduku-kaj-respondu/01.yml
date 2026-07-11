@@ -5,12 +5,12 @@
     - via: la teva
     - amikino: amiga
     - '?'
-- demando: Que escriu ara a l'habitació la teva amiga Anna?
+- demando: Que escriu ara a l'habitació la teva amiga Ana?
   rektatraduko:
     - Ĉu: Que
     - via: la teva
     - amikino: amiga
-    - Anna: Anna
+    - Ana: Ana
     - skribas: escriu
     - nun: ara
     - en: a

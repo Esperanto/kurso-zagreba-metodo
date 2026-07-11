@@ -36,19 +36,19 @@
     - tiuj: aquells
     - laboroj: treballs
     - '?'
-- demando: Per què com més fred fa, més temps esperem?
+- demando: Per què com més temps esperem, més fred fa?
   rektatraduko:
     - Kial: Per què
-    - estas: fa
-    - des: tant
-    - pli: més
-    - malvarma: fred
-    - ','
     - ju: com
     - pli: més
     - longe: temps
     - ni: nosaltres
     - atendas: esperem
+    - ','
+    - des: tant
+    - pli: més
+    - malvarme: fred
+    - estas: fa
     - '?'
 - demando: Podries ser feliç amb un home qualsevol?
   rektatraduko:

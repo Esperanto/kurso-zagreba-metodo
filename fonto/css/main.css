@@ -274,7 +274,7 @@ h3 {
   flex: 0 0 auto;
 }
 .lingva-startpagxo-titoloj {
-  text-wrap: balance;
+  text-wrap: pretty;
 }
 .lingva-startpagxo h1 {
   font-size: clamp(2rem, 5vw, 3rem);

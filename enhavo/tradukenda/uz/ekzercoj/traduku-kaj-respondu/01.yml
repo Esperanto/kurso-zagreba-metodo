@@ -1,0 +1,51 @@
+- demando: Sizning dugonangiz kim?
+  rektatraduko:
+  - Kiu: kim
+  - estas: boʻladi
+  - via: sizning
+  - amikino: dugona
+  - '?'
+- demando: Doʻstingiz Anna hozir xonada yozyaptimi?
+  rektatraduko:
+  - Ĉu: savol yuklamasi
+  - via: sizning
+  - amikino: dugona
+  - Anna: Anna
+  - skribas: yozyapti
+  - nun: hozir
+  - en: ichida
+  - la: aniq artikl
+  - ĉambro: xona
+  - '?'
+- demando: Otangizning doʻsti mehmonxonada ishlaydimi?
+  rektatraduko:
+  - Ĉu: savol yuklamasi
+  - la: aniq artikl
+  - amiko: doʻst
+  - de: '...ning'
+  - via: sizning
+  - patro: ota
+  - laboras: ishlaydi
+  - en: ichida
+  - hotelo: mehmonxona
+  - '?'
+- demando: Xonamizdagi ish stolining ustida nima bor?
+  rektatraduko:
+  - Kio: nima
+  - estas: bor
+  - sur: ustida
+  - la: aniq artikl
+  - labortablo: ish stoli
+  - en: ichida
+  - nia: bizning
+  - ĉambro: xona
+  - '?'
+- demando: Stolingiz ustida Esperanto darsligi bormi?
+  rektatraduko:
+  - Ĉu: savol yuklamasi
+  - Esperanto-lernolibro: Esperanto-darsligi
+  - estas: bor
+  - sur: ustida
+  - via: sizning
+  - tablo: stol
+  - '?'

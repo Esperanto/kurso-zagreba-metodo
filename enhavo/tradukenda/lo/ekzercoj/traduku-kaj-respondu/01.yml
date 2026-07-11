@@ -1,57 +1,51 @@
-- 
-  demando: Who is your girl-friend?
+- demando: ແຟນສາວຂອງເຈົ້າແມ່ນໃຜ?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
-    - '?'
-- 
-  demando: Is your friend Anna now writing in the room?
+  - Kiu: ໃຜ
+  - estas: ແມ່ນ
+  - via: ຂອງເຈົ້າ
+  - amikino: ແຟນສາວ
+  - '?'
+- demando: ເພື່ອນຍິງຂອງເຈົ້າ Anna ກຳລັງຂຽນຢູ່ໃນຫ້ອງບໍ?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
-    - '?'
-- 
-  demando: Does the friend of your father work in a hotel?
+  - Ĉu: ບໍ
+  - via: ຂອງເຈົ້າ
+  - amikino: ເພື່ອນຍິງ
+  - Anna: Anna
+  - skribas: ຂຽນ
+  - nun: ຕອນນີ້
+  - en: ໃນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - ĉambro: ຫ້ອງ
+  - '?'
+- demando: ເພື່ອນຂອງພໍ່ເຈົ້າເຮັດວຽກຢູ່ໂຮງແຮມບໍ?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
-    - '?'
-- 
-  demando: What is on the work-bench in our room?
+  - Ĉu: ບໍ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - amiko: ເພື່ອນ
+  - de: ຂອງ
+  - via: ຂອງເຈົ້າ
+  - patro: ພໍ່
+  - laboras: ເຮັດວຽກ
+  - en: ໃນ
+  - hotelo: ໂຮງແຮມ
+  - '?'
+- demando: ມີຫຍັງຢູ່ເທິງໂຕະເຮັດວຽກໃນຫ້ອງຂອງພວກເຮົາ?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
-    - '?'
-- 
-  demando: Is there an Esperanto textbook on your table?
+  - Kio: ຫຍັງ
+  - estas: ແມ່ນ
+  - sur: ເທິງ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - labortablo: ໂຕະເຮັດວຽກ
+  - en: ໃນ
+  - nia: ຂອງພວກເຮົາ
+  - ĉambro: ຫ້ອງ
+  - '?'
+- demando: ມີປຶ້ມຮຽນເອສເປຣັນໂຕຢູ່ເທິງໂຕະຂອງເຈົ້າບໍ?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
-    - '?'
-
+  - Ĉu: ບໍ
+  - Esperanto-lernolibro: ປຶ້ມຮຽນເອສເປຣັນໂຕ
+  - estas: ແມ່ນ
+  - sur: ເທິງ
+  - via: ຂອງເຈົ້າ
+  - tablo: ໂຕະ
+  - '?'

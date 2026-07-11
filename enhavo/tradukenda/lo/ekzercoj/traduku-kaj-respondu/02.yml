@@ -1,70 +1,64 @@
-- 
-  demando: What was your old home like?
-  rektatraduko: 
-    - Kia: What like
-    - estis: was
-    - via: your
-    - malnova: old
-    - hejmo: home 
-    - '?'
-- 
-  demando: Which books did you read, and were they good?
-  rektatraduko: 
-    - Kiujn: Which 
-    - librojn: books
-    - vi: you
-    - legis: did read
-    - kaj: and
-    - ĉu: whether
-    - ili: they
-    - estas: are
-    - bonaj: good 
-    - '?'
-- 
-  demando: "What did Anna and Mark do in Marks little room?"
+- demando: ບ້ານເກົ່າຂອງເຈົ້າເປັນແນວໃດ?
   rektatraduko:
-    - Kion: What
-    - faris: did do
-    - Anna: Anna
-    - kaj: and
-    - Marko: Mark
-    - en: in 
-    - la: the
-    - malgranda: little
-    - ĉambro: room
-    - de: of
-    - Marko: Mark
-    - '?'
-- 
-  demando: Do you like reading books about love?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ŝatas: like
-    - legi: to read
-    - librojn: books
-    - pri: about
-    - amo: love
-    - '?'
-- 
-  demando: Who will go with you to your home?
-  rektatraduko: 
-    - Kiu: Who
-    - iros: will go
-    - kun: with
-    - vi: you
-    - al: to 
-    - via: your
-    - hejmo: home
-    - '?'
-- 
-  demando: "What are your girl-friend's eyes like?"
-  rektatraduko: 
-    - Kiaj: What like
-    - estas: are
-    - la: the
-    - okuloj: eyes
-    - de: of
-    - via: your
-    - amikino: girl-friend
-    - '?'
+  - Kia: ແບບໃດ
+  - estis: ເຄີຍແມ່ນ
+  - via: ຂອງເຈົ້າ
+  - malnova: ເກົ່າ
+  - hejmo: ບ້ານ
+  - '?'
+- demando: ເຈົ້າອ່ານປຶ້ມອັນໃດແດ່ ແລະມັນດີບໍ?
+  rektatraduko:
+  - Kiujn: ອັນໃດຫຼາຍອັນ
+  - librojn: ປຶ້ມຫຼາຍເຫຼັ້ມ
+  - vi: ເຈົ້າ
+  - legis: ໄດ້ອ່ານ
+  - kaj: ແລະ
+  - ĉu: ບໍ
+  - ili: ພວກເຂົາ
+  - estas: ແມ່ນ
+  - bonaj: ດີ
+  - '?'
+- demando: Anna ແລະ Marko ເຮັດຫຍັງໃນຫ້ອງນ້ອຍຂອງ Marko?
+  rektatraduko:
+  - Kion: ຫຍັງ
+  - faris: ໄດ້ເຮັດ
+  - Anna: Anna
+  - kaj: ແລະ
+  - Marko: Marko
+  - en: ໃນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - malgranda: ນ້ອຍ
+  - ĉambro: ຫ້ອງ
+  - de: ຂອງ
+  - Marko: Marko
+  - '?'
+- demando: ເຈົ້າມັກອ່ານປຶ້ມກ່ຽວກັບຄວາມຮັກບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - ŝatas: ມັກ
+  - legi: ອ່ານ
+  - librojn: ປຶ້ມຫຼາຍເຫຼັ້ມ
+  - pri: ກ່ຽວກັບ
+  - amo: ຄວາມຮັກ
+  - '?'
+- demando: ໃຜຈະໄປກັບເຈົ້າເຖິງບ້ານຂອງເຈົ້າ?
+  rektatraduko:
+  - Kiu: ໃຜ
+  - iros: ຈະໄປ
+  - kun: ກັບ
+  - vi: ເຈົ້າ
+  - al: ໄປຫາ
+  - via: ຂອງເຈົ້າ
+  - hejmo: ບ້ານ
+  - '?'
+- demando: ຕາຂອງແຟນສາວຂອງເຈົ້າເປັນແນວໃດ?
+  rektatraduko:
+  - Kiaj: ແບບໃດ
+  - estas: ແມ່ນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - okuloj: ຕາ
+  - de: ຂອງ
+  - via: ຂອງເຈົ້າ
+  - amikino: ແຟນສາວ
+  - '?'

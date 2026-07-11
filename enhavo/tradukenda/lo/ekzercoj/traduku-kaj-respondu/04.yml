@@ -1,73 +1,67 @@
--
-  demando: When am I going to see you again?
-  rektatraduko: 
-    - Kiam: When
-    - mi: I  
-    - revidos: am going to see again
-    - vin: you
-    - '?'
--
-  demando: How long have you been learning the internation language?
-  rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - lernas: learn
-    - la: the 
-    - Internacian: international
-    - Lingvon: language
-    - '?'
--
-  demando: Where is my new book with photographs?
-  rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - mia: my
-    - nova: new
-    - libro: book
-    - kun: with
-    - fotoj: photographs
-    - '?'
--
-  demando: Where (where-to) will you go after lunch?
-  rektatraduko: 
-    - Kien: Where-to
-    - vi: you
-    - iros: will go
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
-    - '?'
--
-  demando: Can one close the door of the room when it is cold?
-  rektatraduko: 
-    - Ĉu: Whether
-    - oni: one
-    - povas: can 
-    - fermi: close
-    - la: the
-    - pordon: door
-    - de: of 
-    - la: the
-    - ĉambro: room
-    - ','
-    - kiam: when
-    - estas: is
-    - malvarme: cold
-    - '?'
--
-  demando: How long are you angry for if people take a lot of money from you?
-  rektatraduko: 
-    - Kiel: How
-    - longe: long
-    - vi: you
-    - koleras: are angry
-    - ','
-    - se: if
-    - oni: one
-    - forprenas: takes away
-    - de: from
-    - vi: you
-    - multan: a lot of
-    - monon: money
-    - '?'
+- demando: ເມື່ອໃດຂ້ອຍຈະເຫັນເຈົ້າອີກ?
+  rektatraduko:
+  - Kiam: ເມື່ອໃດ
+  - mi: ຂ້ອຍ
+  - revidos: ຈະເຫັນອີກ
+  - vin: ເຈົ້າ
+  - '?'
+- demando: ເຈົ້າຮຽນພາສາສາກົນມາດົນປານໃດແລ້ວ?
+  rektatraduko:
+  - Kiel: ຢ່າງໃດ
+  - longe: ດົນ
+  - vi: ເຈົ້າ
+  - lernas: ຮຽນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - Internacian: ສາກົນ
+  - Lingvon: ພາສາ
+  - '?'
+- demando: ປຶ້ມໃໝ່ຂອງຂ້ອຍທີ່ມີຮູບຖ່າຍຢູ່ໃສ?
+  rektatraduko:
+  - Kie: ຢູ່ໃສ
+  - estas: ແມ່ນ
+  - mia: ຂອງຂ້ອຍ
+  - nova: ໃໝ່
+  - libro: ປຶ້ມ
+  - kun: ກັບ
+  - fotoj: ຮູບຖ່າຍ
+  - '?'
+- demando: ເຈົ້າຈະໄປໃສຫຼັງອາຫານທ່ຽງ?
+  rektatraduko:
+  - Kien: ໄປໃສ
+  - vi: ເຈົ້າ
+  - iros: ຈະໄປ
+  - post: ຫຼັງຈາກ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - tagmanĝo: ອາຫານທ່ຽງ
+  - '?'
+- demando: ເມື່ອອາກາດໜາວ ຄົນເຮົາປິດປະຕູຫ້ອງໄດ້ບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - oni: ຄົນທົ່ວໄປ
+  - povas: ສາມາດ
+  - fermi: ປິດ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - pordon: ປະຕູ
+  - de: ຂອງ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - ĉambro: ຫ້ອງ
+  - ','
+  - kiam: ເມື່ອ
+  - estas: ແມ່ນ
+  - malvarme: ໜາວ
+  - '?'
+- demando: ຖ້າມີຄົນເອົາເງິນຫຼາຍຈາກເຈົ້າ ເຈົ້າໂກດດົນປານໃດ?
+  rektatraduko:
+  - Kiel: ຢ່າງໃດ
+  - longe: ດົນ
+  - vi: ເຈົ້າ
+  - koleras: ໂກດ
+  - ','
+  - se: ຖ້າ
+  - oni: ຄົນທົ່ວໄປ
+  - forprenas: ເອົາອອກໄປ
+  - de: ຈາກ
+  - vi: ເຈົ້າ
+  - multan: ຫຼາຍ
+  - monon: ເງິນ
+  - '?'

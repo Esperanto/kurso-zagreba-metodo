@@ -1,77 +1,72 @@
--
-  demando: Do waiters in large hotels understand a lot of languages? 
-  rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
-    - '?'
--
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
-    - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
-    - '?'
--
-  demando: Where did you see an old man and a young man who were carrying a large table?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
-    - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
-    - '?'
--
-  demando: How did it happen that you again came to us without brothers-and-sisters?
-  rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
-    - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
-    - '?'
--
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
-    - '?'
+- demando: ພະນັກງານເສີບໃນໂຮງແຮມໃຫຍ່ເຂົ້າໃຈຫຼາຍພາສາບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - kelneroj: ພະນັກງານເສີບ
+  - en: ໃນ
+  - grandaj: ໃຫຍ່
+  - hoteloj: ໂຮງແຮມຫຼາຍແຫ່ງ
+  - komprenas: ເຂົ້າໃຈ
+  - multajn: ຫຼາຍ
+  - lingvojn: ພາສາຫຼາຍພາສາ
+  - '?'
+- demando: ເຈົ້າຮູ້ບໍວ່າ Anna ມັກເພງໃໝ່ກ່ຽວກັບຄົນຈົນແລະຍິງງາມ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - scias: ຮູ້
+  - ','
+  - ĉu: ບໍ
+  - Anna: Anna
+  - ŝatas: ມັກ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - novan: ໃໝ່
+  - kanton: ເພງ
+  - pri: ກ່ຽວກັບ
+  - malriĉulo: ຄົນຈົນ
+  - kaj: ແລະ
+  - belulino: ຍິງງາມ
+  - '?'
+- demando: ເຈົ້າເຫັນຊາຍເຖົ້າແລະຊາຍໜຸ່ມທີ່ຫາບໂຕະໃຫຍ່ຢູ່ໃສ?
+  rektatraduko:
+  - Kie: ຢູ່ໃສ
+  - vi: ເຈົ້າ
+  - vidis: ໄດ້ເຫັນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - maljunulon: ຊາຍເຖົ້າ
+  - kaj: ແລະ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - junulon: ຊາຍໜຸ່ມ
+  - ','
+  - kiuj: ຜູ້ທີ່
+  - portis: ໄດ້ຖື
+  - grandan: ໃຫຍ່
+  - tablon: ໂຕະ
+  - '?'
+- demando: ມັນເກີດຂຶ້ນແນວໃດທີ່ເຈົ້າມາຫາພວກເຮົາອີກໂດຍບໍ່ມີພີ່ນ້ອງ?
+  rektatraduko:
+  - Kiel: ຢ່າງໃດ
+  - okazis: ໄດ້ເກີດຂຶ້ນ
+  - ','
+  - ke: ວ່າ
+  - vi: ເຈົ້າ
+  - denove: ອີກຄັ້ງ
+  - venis: ໄດ້ມາ
+  - al: ໄປຫາ
+  - ni: ພວກເຮົາ
+  - sen: ບໍ່ມີ
+  - gefratoj: ພີ່ນ້ອງ
+  - '?'
+- demando: ເຈົ້າສາມາດຮຽນເອສເປຣັນໂຕໄດ້ໄວພໍສົມຄວນໂດຍໃຊ້ປຶ້ມຮຽນໃໝ່ບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - povas: ສາມາດ
+  - per: ໂດຍໃຊ້
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - nova: ໃໝ່
+  - lernolibro: ປຶ້ມຮຽນ
+  - sufiĉe: ພຽງພໍ
+  - rapide: ຢ່າງໄວ
+  - lerni: ຮຽນ
+  - Esperanton: ພາສາເອສເປຣັນໂຕ
+  - '?'

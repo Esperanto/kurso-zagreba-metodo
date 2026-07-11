@@ -1,6 +1,266 @@
 $schema: https://json-schema.org/draft/2020-12/schema
 title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 12
 allOf:
-- $ref: ../traduku-kaj-respondu.schema.yml
-- minItems: 5
-  maxItems: 5
+  - $ref: ../traduku-kaj-respondu.schema.yml
+  - minItems: 5
+    maxItems: 5
+    prefixItems:
+      - properties:
+          rektatraduko:
+            maxItems: 11
+            allOf:
+              - contains:
+                  type: object
+                  required:
+                    - Ĉu
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - ni
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - revidos
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - nin
+                maxContains: 1
+              - contains:
+                  const: ','
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - kie
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - ajn
+                maxContains: 2
+                minContains: 2
+              - contains:
+                  type: object
+                  required:
+                    - kaj
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - kiam
+                maxContains: 1
+              - contains:
+                  const: '?'
+                maxContains: 1
+      - properties:
+          rektatraduko:
+            maxItems: 10
+            allOf:
+              - contains:
+                  type: object
+                  required:
+                    - Kiam
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - mi
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - rericevos
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - la
+                maxContains: 2
+                minContains: 2
+              - contains:
+                  type: object
+                  required:
+                    - alian
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - duonon
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - de
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - libroj
+                maxContains: 1
+              - contains:
+                  const: '?'
+                maxContains: 1
+      - properties:
+          rektatraduko:
+            maxItems: 11
+            allOf:
+              - contains:
+                  type: object
+                  required:
+                    - Ĉu
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - vi
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - bezonos
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - pli
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - ol
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - kvaronan
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - jaron
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - por
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - tiuj
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - laboroj
+                maxContains: 1
+              - contains:
+                  const: '?'
+                maxContains: 1
+      - properties:
+          rektatraduko:
+            maxItems: 12
+            allOf:
+              - contains:
+                  type: object
+                  required:
+                    - Kial
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - estas
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - des
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - pli
+                maxContains: 2
+                minContains: 2
+              - contains:
+                  type: object
+                  required:
+                    - malvarma
+                maxContains: 1
+              - contains:
+                  const: ','
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - ju
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - longe
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - ni
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - atendas
+                maxContains: 1
+              - contains:
+                  const: '?'
+                maxContains: 1
+      - properties:
+          rektatraduko:
+            maxItems: 9
+            allOf:
+              - contains:
+                  type: object
+                  required:
+                    - Ĉu
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - vi
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - estus
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - kontenta
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - kun
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - iu
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - ajn
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - viro
+                maxContains: 1
+              - contains:
+                  const: '?'
+                maxContains: 1

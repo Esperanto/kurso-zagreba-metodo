@@ -1,6 +1,222 @@
 $schema: https://json-schema.org/draft/2020-12/schema
 title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 01
 allOf:
-- $ref: ../traduku-kaj-respondu.schema.yml
-- minItems: 5
-  maxItems: 5
+  - $ref: ../traduku-kaj-respondu.schema.yml
+  - minItems: 5
+    maxItems: 5
+    prefixItems:
+      - properties:
+          rektatraduko:
+            maxItems: 5
+            allOf:
+              - contains:
+                  type: object
+                  required:
+                    - Kiu
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - estas
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - via
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - amikino
+                maxContains: 1
+              - contains:
+                  const: '?'
+                maxContains: 1
+      - properties:
+          rektatraduko:
+            maxItems: 10
+            allOf:
+              - contains:
+                  type: object
+                  required:
+                    - Ĉu
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - via
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - amikino
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - Anna
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - skribas
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - nun
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - en
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - la
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - ĉambro
+                maxContains: 1
+              - contains:
+                  const: '?'
+                maxContains: 1
+      - properties:
+          rektatraduko:
+            maxItems: 10
+            allOf:
+              - contains:
+                  type: object
+                  required:
+                    - Ĉu
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - la
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - amiko
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - de
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - via
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - patro
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - laboras
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - en
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - hotelo
+                maxContains: 1
+              - contains:
+                  const: '?'
+                maxContains: 1
+      - properties:
+          rektatraduko:
+            maxItems: 9
+            allOf:
+              - contains:
+                  type: object
+                  required:
+                    - Kio
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - estas
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - sur
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - la
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - labortablo
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - en
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - nia
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - ĉambro
+                maxContains: 1
+              - contains:
+                  const: '?'
+                maxContains: 1
+      - properties:
+          rektatraduko:
+            maxItems: 7
+            allOf:
+              - contains:
+                  type: object
+                  required:
+                    - Ĉu
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - Esperanto-lernolibro
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - estas
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - sur
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - via
+                maxContains: 1
+              - contains:
+                  type: object
+                  required:
+                    - tablo
+                maxContains: 1
+              - contains:
+                  const: '?'
+                maxContains: 1

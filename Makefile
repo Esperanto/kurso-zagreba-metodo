@@ -79,7 +79,9 @@ check-yaml:
 		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku/$${leciono}.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku/$${leciono}.yml 2>&1) || { printf '%s\n' "$$eligo"; exit 1; }; \
 	done
 	@printf '%s\n' 'ok -- traduku-skemoj'
-	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku-kaj-respondu/*.yml 2>&1) || { printf '%s\n' "$$eligo"; exit 1; }
+	@for leciono in 01 02 03 04 05 06 07 08 09 10 11 12; do \
+		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu/$${leciono}.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku-kaj-respondu/$${leciono}.yml 2>&1) || { printf '%s\n' "$$eligo"; exit 1; }; \
+	done
 	@printf '%s\n' 'ok -- traduku-kaj-respondu-skemoj'
 	@printf '%s\n' 'Sukcesis: kontrolis YAML-dosierojn'
 

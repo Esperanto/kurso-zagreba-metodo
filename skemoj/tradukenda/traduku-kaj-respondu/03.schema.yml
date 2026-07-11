@@ -1,0 +1,6 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 03
+allOf:
+- $ref: ../traduku-kaj-respondu.schema.yml
+- minItems: 5
+  maxItems: 5

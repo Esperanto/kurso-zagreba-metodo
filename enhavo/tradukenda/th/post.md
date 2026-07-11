@@ -1,1 +1,3 @@
-<<**ใหม่!** ชุมชนผู้สนใจภาษาเอสเปรันโตในประเทศไทย [**ที่นี่**](https://www.facebook.com/groups/esperanto.tajlando/)>>
+### ชุมชน
+
+- **ใหม่!** ชุมชนผู้สนใจภาษาเอสเปรันโตในประเทศไทย: [**ที่นี่**](https://www.facebook.com/groups/esperanto.tajlando/)

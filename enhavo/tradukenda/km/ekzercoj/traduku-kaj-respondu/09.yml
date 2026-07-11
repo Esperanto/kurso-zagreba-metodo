@@ -1,75 +1,75 @@
-- 
-  demando: What could delight your parents most of all?
-  rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+-
+  demando: អ្វីអាចធ្វើឱ្យឪពុកម្តាយរបស់អ្នករីករាយបំផុត?
+  rektatraduko:
+    - Kio: អ្វី
+    - povus: អាចនឹង
+    - plej: បំផុត
+    - ĝojigi: ធ្វើឱ្យរីករាយ
+    - viajn: របស់អ្នក
+    - gepatrojn: ឪពុកម្តាយ
     - '?'
-- 
-  demando: If at least you wanted to go to the city center after school!
-  rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
+-
+  demando: បើតែអ្នកចង់ទៅកណ្តាលទីក្រុងជាមួយខ្ញុំបន្ទាប់ពីការរៀន!
+  rektatraduko:
+    - Se: ប្រសិនបើ
+    - almenaŭ: យ៉ាងហោចណាស់
+    - vi: អ្នក
+    - post: បន្ទាប់ពី
+    - la: ពាក្យកំណត់
+    - lernado: ការរៀន
+    - irus: នឹងទៅ
+    - kun: ជាមួយ
+    - mi: ខ្ញុំ
+    - en: ចូលទៅក្នុង
+    - la: ពាក្យកំណត់
+    - urbocentron: កណ្តាលទីក្រុង
     - '!'
-- 
-  demando: Where would you like to travel to if you had enough money and time?
-  rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
-    - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
+-
+  demando: ប្រសិនបើអ្នកមានប្រាក់ និងពេលវេលាគ្រប់គ្រាន់ តើអ្នកចង់ធ្វើដំណើរទៅទីណា?
+  rektatraduko:
+    - Kien: ទៅទីណា
+    - vi: អ្នក
+    - dezirus: ចង់
+    - vojaĝi: ធ្វើដំណើរ
+    - ','
+    - se: ប្រសិនបើ
+    - vi: អ្នក
+    - havus: មាន
+    - sufiĉe: គ្រប់គ្រាន់
+    - da: នៃបរិមាណ
+    - mono: ប្រាក់
+    - kaj: និង
+    - tempo: ពេលវេលា
     - '?'
-- 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
+-
+  demando: តើអ្នកមានគម្រោងធ្វើដំណើរទៅប៉ារីសដោយរថយន្ត ឬតើទៅដោយរថភ្លើងមិនល្អជាងច្រើនទេ?
+  rektatraduko:
+    - Ĉu: តើ
+    - vi: អ្នក
+    - planas: មានគម្រោង
+    - veturi: ធ្វើដំណើរ
+    - al: ទៅ
+    - Parizo: ប៉ារីស
+    - per: ដោយមធ្យោបាយ
+    - aŭto: រថយន្ត
+    - aŭ: ឬ
+    - ĉu: តើ
+    - ne: មិន
+    - ŝajnas: ហាក់ដូចជា
+    - multe: ច្រើន
+    - pli: ជាង
+    - bone: ល្អ
+    - per: ដោយមធ្យោបាយ
+    - vagonaro: រថភ្លើង
     - '?'
-- 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
+-
+  demando: ហេតុអ្វីបានជាមនុស្សផ្សេងៗពន្យល់គំនិតដូចគ្នាតាមរបៀបផ្សេងៗ?
+  rektatraduko:
+    - Kial: ហេតុអ្វី
+    - diversaj: ផ្សេងៗ
+    - homoj: មនុស្ស
+    - klarigas: ពន្យល់
+    - samajn: ដូចគ្នា
+    - ideojn: គំនិត
+    - diversmaniere: តាមរបៀបផ្សេងៗ
     - '?'

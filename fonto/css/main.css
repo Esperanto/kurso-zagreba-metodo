@@ -274,6 +274,10 @@ h3 {
   flex: 0 0 auto;
 }
 .lingva-startpagxo-titoloj {
+  text-wrap: balance;
+}
+html:lang(th) .lingva-startpagxo-titoloj {
+  text-wrap: wrap;
   text-wrap: pretty;
 }
 .lingva-startpagxo h1 {

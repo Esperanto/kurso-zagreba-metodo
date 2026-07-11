@@ -1,6 +1,5 @@
-- 
-  demando: Usrećuje li te prijateljstvo više nego ljubav?
-  rektatraduko: 
+- demando: Usrećuje li te prijateljstvo više nego ljubav?
+  rektatraduko:
     - Ĉu: Da li
     - amikeco: prijateljstvo
     - pli: više
@@ -10,9 +9,8 @@
     - la: (član)
     - amo: ljubav
     - '?'
-- 
-  demando: Koliko često pišeš pisma svojim prijateljicama u Italiji i Etiopiji?
-  rektatraduko: 
+- demando: Koliko često pišeš pisma svojim prijateljicama u Italiji i Etiopiji?
+  rektatraduko:
     - Kiel: Kako
     - ofte: često
     - vi: ti
@@ -23,14 +21,10 @@
     - amikinoj: prijateljice
     - en: u
     - Italio: Italija
-    - kaj: i
-    - Etiopio: Etiopija
     - '?'
-- 
-  demando: Da li se promijenio odnos između tebe i tvog učitelja ili je ostao isti?
-  rektatraduko: 
+- demando: Da li se promijenio odnos između tebe i tvog učitelja ili je ostao isti?
+  rektatraduko:
     - Ĉu: Da li
-    - ŝanĝiĝis: promijenio se
     - la: (član)
     - rilato: odnos
     - inter: između
@@ -38,28 +32,16 @@
     - kaj: i
     - via: tvoj
     - instruisto: učitelj
-    - aŭ: ili
-    - ĝi: 'on'
-    - restis: ostao je
-    - la: (član)
-    - sama: isti
-    - '?' 
-- 
-  demando: Znate li sada već dovoljno dobro esperanto da ga možete sami upotrebljavati?
-  rektatraduko: 
+    - ŝanĝiĝis: promijenio se
+    - '?'
+- demando: Znate li sada već dovoljno dobro esperanto da ga možete sami upotrebljavati?
+  rektatraduko:
     - Ĉu: Da li
     - vi: vi
     - nun: sada
     - jam: već
-    - sufiĉe: dovoljno
-    - bone: dobro
     - scias: znate
     - Esperanton: esperanto
-    - por: za
-    - ke: da
-    - vi: vi
-    - povu: mogli
-    - ĝin: njega
-    - mem: sam
-    - uzi: koristiti
+    - sufiĉe: dovoljno
+    - bone: dobro
     - '?'

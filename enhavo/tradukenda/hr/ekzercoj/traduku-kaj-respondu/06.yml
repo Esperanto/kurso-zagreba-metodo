@@ -1,44 +1,33 @@
-- 
-  demando: Želiš li da ti danas pokažem moju najnoviju knjigu o bolestima djece?
-  rektatraduko: 
+- demando: Želiš li da ti danas pokažem moju najnoviju knjigu o bolestima djece?
+  rektatraduko:
     - Ĉu: Da li
     - vi: ti
     - deziras: želiš
-    - ke: da 
+    - ','
+    - ke: da
     - mi: ja
-    - hodiaŭ: danas
     - montru: pokaži
     - al: k
     - vi: ti
-    - la: (član)
+    - mian: moju
     - plej: naj
     - novan: novu
     - libron: knjigu
-    - pri: o
-    - malsanoj: bolesti
-    - de: od
-    - infanoj: djeca
     - '?'
-- 
-  demando: Što želiš sutra za doručak?
-  rektatraduko: 
+- demando: Što želiš sutra za doručak?
+  rektatraduko:
     - Kion: Što
     - vi: ti
     - volas: želiš
     - morgaŭ: sutra
     - matenmanĝi: doručkovati
     - '?'
-- 
-  demando: Znaš li kada dolazi Marko, u pet ili u osam sati?
-  rektatraduko: 
-    - Ĉu: Da li
-    - vi: ti
-    - scias: znaš
-    - kiam: kada
+- demando: Znaš li kada dolazi Marko, u pet ili u osam sati?
+  rektatraduko:
+    - Kiam: kada
     - Marko: Marko
-    - venas: dolazi
+    - alvenos: will arrive
     - ','
-    - ĉu: da li
     - je: u
     - la: (član)
     - kvina: pet
@@ -46,14 +35,14 @@
     - je: u
     - la: (član)
     - oka: osam
+    - horo: sati
     - '?'
-- 
-  demando: Kada ste primijetili da me cijela obitelj zove dobrotvor?
-  rektatraduko: 
+- demando: Kada ste primijetili da me cijela obitelj zove dobrotvor?
+  rektatraduko:
     - Kiam: Kada
     - vi: vi
     - rimarkis: ste primijetili
-    - ','  
+    - ','
     - ke: da
     - la: (član)
     - tuta: cijela
@@ -62,20 +51,17 @@
     - min: mene
     - bonfarulo: dobrotvor
     - '?'
-- 
-  demando: Je li ti bila korisna knjižica koju sam prekjučer poslao?
-  rektatraduko: 
-    - Ĉu: Je li 
+- demando: Je li ti bila korisna knjižica koju sam prekjučer poslao?
+  rektatraduko:
+    - Ĉu: Je li
+    - la: (član)
+    - libreto: knjižica
     - estis: bila
     - utila: korisna
     - al: k
     - vi: ti
-    - la: (član) 
-    - libreto: knjižica
-    - ',' 
+    - ','
     - kiun: koju
     - mi: ja
     - sendis: sam poslao
-    - antaŭhieraŭ: prekjučer
     - '?'
-    

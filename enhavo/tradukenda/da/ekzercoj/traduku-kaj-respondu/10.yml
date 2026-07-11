@@ -1,6 +1,5 @@
-- 
-  demando: Gør venskab dig gladere end kærlighed?
-  rektatraduko: 
+- demando: Gør venskab dig gladere end kærlighed?
+  rektatraduko:
     - Ĉu: Om
     - amikeco: venskab
     - pli: mere
@@ -10,10 +9,9 @@
     - la: (bestemt artikel)
     - amo: kærlighed
     - '?'
-- 
-  demando: Hvor ofte skriver du breve til dine veninder i Italien?
-  rektatraduko: 
-    - Kiom: Hvor meget
+- demando: Hvor ofte skriver du breve til dine veninder i Italien?
+  rektatraduko:
+    - Kiel: Hvor meget
     - ofte: ofte
     - vi: du
     - skribas: skriver
@@ -24,9 +22,8 @@
     - en: i
     - Italio: Italien
     - '?'
-- 
-  demando: Har forholdet mellem dig og din lærer ændret sig?
-  rektatraduko: 
+- demando: Har forholdet mellem dig og din lærer ændret sig?
+  rektatraduko:
     - Ĉu: Om
     - la: (bestemt artikel)
     - rilato: forhold
@@ -37,9 +34,8 @@
     - instruisto: lærer
     - ŝanĝiĝis: ændrede sig
     - '?'
-- 
-  demando: Kender du allerede nu esperanto godt nok?
-  rektatraduko: 
+- demando: Kender du allerede nu esperanto godt nok?
+  rektatraduko:
     - Ĉu: Om
     - vi: du
     - nun: nu

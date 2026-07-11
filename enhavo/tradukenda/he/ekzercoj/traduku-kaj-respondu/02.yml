@@ -1,15 +1,13 @@
-- 
-  demando: ?איפה היה הבית הישן שלך
-  rektatraduko: 
-    - Kie: איפה
+- demando: ?איפה היה הבית הישן שלך
+  rektatraduko:
+    - Kia: What like
     - estis: היה
     - via: שלך
     - malnova: ישן
-    - hejmo: בית 
+    - hejmo: בית
     - '?'
-- 
-  demando: ?אילו ספרים קראת, והאם הם היו טובים
-  rektatraduko: 
+- demando: ?אילו ספרים קראת, והאם הם היו טובים
+  rektatraduko:
     - Kiujn: אילו
     - librojn: ספרים
     - vi: אתה
@@ -18,26 +16,24 @@
     - ĉu: האם
     - ili: הם
     - estas: היו
-    - bonaj: טובים 
+    - bonaj: טובים
     - '?'
-- 
-  demando: ?מה עשו אנה ומרקו בחדר הקטן של מרקו
+- demando: ?מה עשו אנה ומרקו בחדר הקטן של מרקו
   rektatraduko:
     - Kion: מה
     - faris: עשו
     - Anna: אנה
     - kaj: ו
     - Marko: מרקו
-    - en: ב 
+    - en: ב
     - la: הא הידיעה
     - malgranda: קטן
     - ĉambro: חדר
     - de: של
     - Marko: מרקו
     - '?'
-- 
-  demando: ?האם את/אתה אוהב/ת לקרוא ספרים על אהבה
-  rektatraduko: 
+- demando: ?האם את/אתה אוהב/ת לקרוא ספרים על אהבה
+  rektatraduko:
     - Ĉu: האם
     - vi: את/אתה
     - ŝatas: אוהב
@@ -46,20 +42,18 @@
     - pri: על
     - amo: אהבה
     - '?'
-- 
-  demando: ?מי ילך עמך לביתך
-  rektatraduko: 
+- demando: ?מי ילך עמך לביתך
+  rektatraduko:
     - Kiu: מי
     - iros: יילך
     - kun: עם
     - vi: אתה
-    - al: אל 
+    - al: אל
     - via: שלך
     - hejmo: בית
     - '?'
-- 
-  demando: ?איזה עיניים יש לחברה שלך
-  rektatraduko: 
+- demando: ?איזה עיניים יש לחברה שלך
+  rektatraduko:
     - Kiaj: איזה
     - estas: הם
     - la: הא הידיעה

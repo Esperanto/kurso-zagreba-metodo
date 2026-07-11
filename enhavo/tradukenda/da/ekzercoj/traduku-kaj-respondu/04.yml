@@ -1,15 +1,13 @@
--
-  demando: Hvornår ser jeg dig igen?
-  rektatraduko: 
+- demando: Hvornår ser jeg dig igen?
+  rektatraduko:
     - Kiam: Hvornår
     - mi: jeg
     - revidos: ser igen
     - vin: dig
     - '?'
--
-  demando: Hvor længe har du lært det Internationale Sprog?
-  rektatraduko: 
-    - Kiom: Hvor meget
+- demando: Hvor længe har du lært det Internationale Sprog?
+  rektatraduko:
+    - Kiel: Hvor meget
     - longe: langt/længe
     - vi: du
     - lernas: lærer
@@ -17,9 +15,8 @@
     - Internacian: International
     - Lingvon: Sprog
     - '?'
--
-  demando: Hvor er min nye bog med fotografier?
-  rektatraduko: 
+- demando: Hvor er min nye bog med fotografier?
+  rektatraduko:
     - Kie: Hvor
     - estas: er
     - mia: min/mit
@@ -28,18 +25,17 @@
     - kun: med
     - fotoj: fotografier
     - '?'
--
-  demando: Hvor vil du hen efter frokost?
-  rektatraduko: 
+- demando: Hvor vil du hen efter frokost?
+  rektatraduko:
     - Kien: Hvorhen
     - vi: du
     - iros: vil gå
     - post: efter
+    - la: (bestemt artikel)
     - tagmanĝo: frokost
     - '?'
--
-  demando: Kan man lukke døren til værelset når det er koldt?
-  rektatraduko: 
+- demando: Kan man lukke døren til værelset når det er koldt?
+  rektatraduko:
     - Ĉu: Om
     - oni: man
     - povas: kan
@@ -49,14 +45,14 @@
     - de: af
     - la: (bestemt artikel)
     - ĉambro: værelse
+    - ','
     - kiam: hvornår/når
     - estas: er
     - malvarme: koldt
     - '?'
--
-  demando: Hvor længe er du sur, hvis man stjæler mange penge fra dig?
-  rektatraduko: 
-    - Kiom: Hvor meget
+- demando: Hvor længe er du sur, hvis man stjæler mange penge fra dig?
+  rektatraduko:
+    - Kiel: Hvor meget
     - longe: langt/længe
     - vi: du
     - koleras: er sur

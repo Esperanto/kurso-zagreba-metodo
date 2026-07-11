@@ -1,38 +1,34 @@
-- 
-  demando: Što bi moglo najviše obradovati tvoje roditelje?
-  rektatraduko: 
+- demando: Što bi moglo najviše obradovati tvoje roditelje?
+  rektatraduko:
     - Kio: Što
     - povus: bi moglo
     - plej: naj-
-    - multe: više
     - ĝojigi: razveseliti
     - viajn: tvoje
     - gepatrojn: roditelje
     - '?'
-- 
-  demando: Kad bi barem nakon učenja išao sa mnom u grad!
-  rektatraduko: 
+- demando: Kad bi barem nakon učenja išao sa mnom u grad!
+  rektatraduko:
     - Se: Kad (ako)
     - almenaŭ: barem
     - vi: ti
     - post: nakon
-    - la: (član) 
+    - la: (član)
     - lernado: učenje
     - irus: išao bi
     - kun: s
     - mi: ja
     - en: u
-    - la: (član) 
-    - urbon: grad
+    - la: (član)
+    - urbocentron: city center
     - '!'
-- 
-  demando: Kamo biste željeli putovati kad biste imali dovoljno novaca i vremena?
-  rektatraduko: 
+- demando: Kamo biste željeli putovati kad biste imali dovoljno novaca i vremena?
+  rektatraduko:
     - Kien: Kamo
     - vi: vi
     - dezirus: biste željeli
     - vojaĝi: putovati
-    - ',' 
+    - ','
     - se: ako
     - vi: vi
     - havus: biste imali
@@ -42,31 +38,28 @@
     - kaj: i
     - tempo: vrijeme
     - '?'
-- 
-  demando: Planirate li putovati u Paris autom ili vam se čini da je mnogo bolje voziti se vlakom?
-  rektatraduko: 
+- demando: Planirate li putovati u Paris autom ili vam se čini da je mnogo bolje voziti se vlakom?
+  rektatraduko:
     - Ĉu: Da li
     - vi: vi
     - planas: planirate
-    - vojaĝi: putovati
+    - veturi: voziti se
     - al: u
     - Parizo: Pariz
     - per: pomoću
     - aŭto: auto
     - aŭ: ili
+    - ĉu: je li
+    - ne: ne
     - ŝajnas: čini se
-    - al: k
-    - vi: vi
     - multe: mnogo
     - pli: više
     - bone: dobro
-    - veturi: voziti se
     - per: pomoću
     - vagonaro: vlak
     - '?'
-- 
-  demando: Zašto različiti ljudi objašnjavaju iste ideje na razne načine?
-  rektatraduko: 
+- demando: Zašto različiti ljudi objašnjavaju iste ideje na razne načine?
+  rektatraduko:
     - Kial: Zašto
     - diversaj: različiti
     - homoj: ljudi

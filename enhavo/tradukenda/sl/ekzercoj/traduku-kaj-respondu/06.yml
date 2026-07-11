@@ -1,13 +1,11 @@
-- 
-  demando: Ali želiš, da ti danes pokažem najnovejšo knjigo o bolezni otrok?
-  rektatraduko: 
+- demando: Ali želiš, da ti danes pokažem najnovejšo knjigo o bolezni otrok?
+  rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek ti)
     - deziras: želiš
-    - ',' 
-    - ke: da 
+    - ','
+    - ke: da
     - mi: (zaimek jaz)
-    - hodiaŭ: danes
     - montru: pokažem
     - al: (predlog k)
     - vi: tebi
@@ -15,31 +13,21 @@
     - plej: najbolj
     - novan: novo
     - libron: knjigo
-    - pri: o
-    - malsanoj: boleznih
-    - de: (predlog od)
-    - infanoj: otrok
     - '?'
-- 
-  demando: Kaj želiš jutri za zajtrk?
-  rektatraduko: 
+- demando: Kaj želiš jutri za zajtrk?
+  rektatraduko:
     - Kion: Kaj
     - vi: (zaimek ti)
     - volas: želiš
     - morgaŭ: jutri
     - matenmanĝi: za zajtrk (zajtrkovati)
     - '?'
-- 
-  demando: Ali veš, kdaj pride Marko, ali ob petih ali ob osmih?
-  rektatraduko: 
-    - Ĉu: ali
-    - vi: (osebni zaimek ti)
-    - scias: veš
-    - kiam: kdaj
+- demando: Ali veš, kdaj pride Marko, ali ob petih ali ob osmih?
+  rektatraduko:
+    - Kiam: kdaj
     - Marko: Marko
-    - venas: pride
+    - alvenos: will arrive
     - ','
-    - ĉu: ali
     - je: ali
     - la: (člen)
     - kvina: ob peti
@@ -47,35 +35,33 @@
     - je: ob
     - la: (člen)
     - oka: osmi
+    - horo: ura
     - '?'
-- 
-  demando: Kdaj ste opazili, da me vsa družina kliče dobričina?
-  rektatraduko: 
+- demando: Kdaj ste opazili, da me vsa družina kliče dobričina?
+  rektatraduko:
     - Kiam: Kdaj
     - vi: (zaimek vi)
     - rimarkis: ste opazili
-    - ','  
+    - ','
     - ke: da
     - la: (člen)
     - tuta: cela
     - familio: družina
     - nomas: kliče
     - min: mene
-    - bonulo: dobričina
+    - bonfarulo: benefactor
     - '?'
-- 
-  demando: Ali ti je bila koristna knjižica, ki sem ti jo poslal predvčerajšnjim?
-  rektatraduko: 
+- demando: Ali ti je bila koristna knjižica, ki sem ti jo poslal predvčerajšnjim?
+  rektatraduko:
     - Ĉu: Ali
+    - la: (člen)
+    - libreto: knjižica
     - estis: je bila
     - utila: koristna
     - al: (zaimek k)
     - vi: (zaimek ti)
-    - la: (člen) 
-    - libreto: knjižica
-    - ',' 
+    - ','
     - kiun: ki
-    - mi: (zaimek jaz) 
+    - mi: (zaimek jaz)
     - sendis: sem jo poslal
-    - antaŭhieraŭ: predvčerajšnjim
     - '?'

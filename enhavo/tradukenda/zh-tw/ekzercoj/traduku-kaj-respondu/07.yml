@@ -1,11 +1,10 @@
-- 
-  demando: 誰有著那本書，那書你等候了超過兩年？
-  rektatraduko: 
+- demando: 誰有著那本書，那書你等候了超過兩年？
+  rektatraduko:
     - Kiu: 誰
     - havis: 有
     - la: 那
     - libron: 書
-    - ',' 
+    - ','
     - kiun: 那書
     - vi: 你
     - atendis: 等候了
@@ -14,9 +13,8 @@
     - du: 兩
     - jarojn: 年
     - '?'
-- 
-  demando: 你是否要我展示給你我最珍愛的照片？
-  rektatraduko: 
+- demando: 你是否要我展示給你我最珍愛的照片？
+  rektatraduko:
     - Ĉu: 是否
     - vi: 你
     - volas: 要
@@ -31,45 +29,41 @@
     - karan: 珍愛的
     - foton: 照片
     - '?'
-- 
-  demando: 你在哪裡買了那些衣物？
-  rektatraduko: 
+- demando: 你在哪裡買了那些衣物？
+  rektatraduko:
     - Kie: 哪裡
     - vi: 你
     - aĉetis: 買了
-    - tiujn: 那些
+    - tiun: 那個
     - vestaĵon: 衣物
     - '?'
-- 
-  demando: 周日你將去哪裡，如果是個晴朗天？
-  rektatraduko: 
+- demando: 周日你將去哪裡，如果是個晴朗天？
+  rektatraduko:
     - Kien: 哪裡
     - vi: 你
     - iros: 將去
     - dimanĉe: 周日
-    - ',' 
+    - ','
     - se: 如果
     - estos: 將是
     - suna: 晴朗
     - tago: 天
     - '?'
-- 
-  demando: 你的弟弟是否已經出發了？
-  rektatraduko: 
+- demando: 你的弟弟是否已經出發了？
+  rektatraduko:
     - Ĉu: 是否
     - via: 你的
     - frato: 弟弟，哥哥
     - jam: 已經
     - ekiris: 出發
     - '?'
-- 
-  demando: 你自己帶來的水在哪裡？
-  rektatraduko: 
+- demando: 你自己帶來的水在哪裡？
+  rektatraduko:
     - Kie: 哪裡
     - estas: 是
     - la: 那
     - akvo: 水
-    - ',' 
+    - ','
     - kiun: 它
     - vi: 你
     - mem: 自己

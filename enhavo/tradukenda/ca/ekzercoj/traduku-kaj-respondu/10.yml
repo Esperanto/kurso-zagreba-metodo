@@ -1,6 +1,5 @@
-- 
-  demando: L'amistat et fa més feliç que l'amor?
-  rektatraduko: 
+- demando: L'amistat et fa més feliç que l'amor?
+  rektatraduko:
     - Ĉu: Que
     - amikeco: L'amistat
     - pli: més
@@ -10,10 +9,9 @@
     - la: el
     - amo: amor
     - '?'
-- 
-  demando: Amb quina freqüència escrius cartes a les teves amigues a Itàlia?
-  rektatraduko: 
-    - Kiom: Com de
+- demando: Amb quina freqüència escrius cartes a les teves amigues a Itàlia?
+  rektatraduko:
+    - Kiel: Com de
     - ofte: freqüentment
     - vi: tu
     - skribas: escrius
@@ -24,9 +22,8 @@
     - en: a
     - Italio: Itàlia
     - '?'
-- 
-  demando: La relació entre el teu professor i tu ha canviat?
-  rektatraduko: 
+- demando: La relació entre el teu professor i tu ha canviat?
+  rektatraduko:
     - Ĉu: Que
     - la: La
     - rilato: relació
@@ -37,9 +34,8 @@
     - vi: tu
     - ŝanĝiĝis: ha canviat
     - '?'
-- 
-  demando: Ara ja saps esperanto bastant bé?
-  rektatraduko: 
+- demando: Ara ja saps esperanto bastant bé?
+  rektatraduko:
     - Ĉu: Que
     - vi: Tu
     - nun: ara

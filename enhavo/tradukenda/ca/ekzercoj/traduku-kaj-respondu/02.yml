@@ -1,16 +1,14 @@
-- 
-  demando: Com era la teva antiga casa?
-  rektatraduko: 
+- demando: Com era la teva antiga casa?
+  rektatraduko:
     - Kia: Com
     - estis: era
     - via: la teva
     - malnova: antiga
     - hejmo: casa
     - '?'
-- 
-  demando: Quins llibres has llegit, i són bons?
-  rektatraduko: 
-    - Kiujn: Quins 
+- demando: Quins llibres has llegit, i són bons?
+  rektatraduko:
+    - Kiujn: Quins
     - librojn: llibres
     - vi: tu
     - legis: has llegit
@@ -18,14 +16,13 @@
     - ĉu: si
     - ili: ells
     - estas: són
-    - bonaj: bons 
+    - bonaj: bons
     - '?'
-- 
-  demando: Què van fer l'Anna i el Marc a la petita habitació del Marc?
+- demando: Què van fer l'Anna i el Marc a la petita habitació del Marc?
   rektatraduko:
     - Kion: Què
     - faris: van fer
-    - Ana: Anna
+    - Anna: Anna
     - kaj: i
     - Marko: Marc
     - en: a
@@ -35,9 +32,8 @@
     - de: del
     - Marko: Marc
     - '?'
-- 
-  demando: T'agrada llegir llibres d'amor?
-  rektatraduko: 
+- demando: T'agrada llegir llibres d'amor?
+  rektatraduko:
     - Ĉu: Que
     - vi: tu
     - ŝatas: agrada
@@ -46,20 +42,18 @@
     - pri: de
     - amo: amor
     - '?'
-- 
-  demando: Qui ha anat amb tu a casa teva?
-  rektatraduko: 
+- demando: Qui ha anat amb tu a casa teva?
+  rektatraduko:
     - Kiu: Qui
-    - iris: ha anat
+    - iros: ha anat
     - kun: amb
     - vi: tu
-    - al: a 
+    - al: a
     - via: teva
     - hejmo: casa
     - '?'
-- 
-  demando: Com són els ulls de la teva amiga?
-  rektatraduko: 
+- demando: Com són els ulls de la teva amiga?
+  rektatraduko:
     - Kiaj: Com
     - estas: són
     - la: els

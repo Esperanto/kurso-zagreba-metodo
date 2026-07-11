@@ -1,37 +1,33 @@
-- 
-  demando: Můžeš přinést lék mé sestry?
-  rektatraduko: 
+- demando: Můžeš přinést lék mé sestry?
+  rektatraduko:
     - Ĉu: Zda
     - vi: ty
     - povas: můžeš
-    - alporti: přinést
-    - la: (člen určitý) 
+    - kunporti: přinést
+    - la: (člen určitý)
     - sanigilon: lék
     - de: od
     - mia: mé
     - fratino: sestra
     - '?'
-- 
-  demando: Kdy jsi koupil ten hudební nástroj?
-  rektatraduko: 
+- demando: Kdy jsi koupil ten hudební nástroj?
+  rektatraduko:
     - Kiam: Kdy
     - vi: ty
     - aĉetis: jsi koupil
     - tiun: ten
     - muzikilon: hudební nástroj
     - '?'
-- 
-  demando: Kdo naposled použil můj klíč?
-  rektatraduko: 
+- demando: Kdo naposled použil můj klíč?
+  rektatraduko:
     - Kiu: Kdo
     - laste: naposled
     - uzis: použil
     - mian: můj
     - ŝlosilon: klíč
     - '?'
-- 
-  demando: Cestoval jsi v Benátkách také gongolou?
-  rektatraduko: 
+- demando: Cestoval jsi v Benátkách také gongolou?
+  rektatraduko:
     - Ĉu: Zda
     - vi: ty
     - en: v
@@ -41,14 +37,13 @@
     - per: pomocí (předložka 7. pádu)
     - gondolo: gondoly
     - '?'
-- 
-  demando: Budeš moci usnout, když to utichne?
-  rektatraduko: 
+- demando: Budeš moci usnout, když to utichne?
+  rektatraduko:
     - Ĉu: Zda
     - vi: ty
     - povos: budeš moct
     - ekdormi: usnout
-    - ',' 
-    - kiam: kdy 
+    - ','
+    - kiam: kdy
     - silentiĝis: utichlo
     - '?'

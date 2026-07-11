@@ -1,6 +1,5 @@
-- 
-  demando: ¿Qué es lo que más podría poner contentos a tus padres?
-  rektatraduko: 
+- demando: ¿Qué es lo que más podría poner contentos a tus padres?
+  rektatraduko:
     - Kio: Qué
     - povus: podría
     - plej: más
@@ -8,60 +7,59 @@
     - viajn: tus
     - gepatrojn: padres
     - '?'
-- 
-  demando: ¡Si al menos tú fueras conmigo al centro después de las clases!
-  rektatraduko: 
+- demando: ¡Si al menos tú fueras conmigo al centro después de las clases!
+  rektatraduko:
     - Se: Si
     - almenaŭ: al menos
     - vi: tú
     - post: después de
-    - la: las 
-    - lecionoj: clases
+    - la: las
+    - lernado: clases
     - irus: fueras
     - kun: con
     - mi: mí
     - en: en
-    - la: el 
-    - centron: centro
+    - la: el
+    - urbocentron: centro
     - '!'
-- 
-  demando: ¿Adónde te gustaría viajar si tuvieras suficiente dinero y tiempo?
-  rektatraduko: 
+- demando: ¿Adónde te gustaría viajar si tuvieras suficiente dinero y tiempo?
+  rektatraduko:
     - Kien: Adónde
     - vi: tú
     - dezirus: desearías
     - vojaĝi: viajar
-    - ',' 
+    - ','
     - se: si
     - vi: tú
     - havus: tuvieras
     - sufiĉe: suficiente
     - da: de
     - mono: dinero
-    - kaj: 'y'
+    - kaj: y
     - tempo: tiempo
     - '?'
-- 
-  demando: ¿Viajas a París en auto o mejor en tren?
-  rektatraduko: 
+- demando: ¿Viajas a París en auto o mejor en tren?
+  rektatraduko:
     - Ĉu: Acaso
     - vi: Tú
-    - vojaĝas: viajas
-    - per: por medio de
-    - la: el
-    - aŭto: auto
+    - planas: viajas
+    - veturi: to travel
     - al: a
     - Parizo: París
+    - per: por medio de
+    - aŭto: auto
     - aŭ: o
+    - ĉu: acaso
+    - ne: 'no'
+    - ŝajnas: seem
+    - multe: mucho
     - pli: más
     - bone: bien
     - per: por medio de
-    - la: el
     - vagonaro: tren
     - '?'
-- 
-  demando: ¿Por qué personas distintas explican las mismas ideas de maneras distintas?
-  rektatraduko: 
+- demando: ¿Por qué personas distintas explican las mismas ideas de maneras distintas?
+  rektatraduko:
     - Kial: Por qué
     - diversaj: distintas
     - homoj: personas

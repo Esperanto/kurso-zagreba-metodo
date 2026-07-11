@@ -1,15 +1,10 @@
-- 
-  demando: Hoće li se uskoro otvoriti nova pošta u vašoj ulici koju ste čekali više od dvije godine?
-  rektatraduko: 
-    - Ĉu: Da li
-    - baldaŭ: uskoro
+- demando: Hoće li se uskoro otvoriti nova pošta u vašoj ulici koju ste čekali više od dvije godine?
+  rektatraduko:
+    - Kiu: Tko
+    - havis: had
     - la: (član)
-    - nova: nova
-    - poŝtejo: pošta
-    - en: u
-    - via: vaša
-    - strato: ulica
-    - ',' 
+    - libron: knjigu
+    - ','
     - kiun: koju
     - vi: vi
     - atendis: čekali ste
@@ -17,12 +12,9 @@
     - ol: od
     - du: dvije
     - jarojn: godine
-    - ','
-    - malfermiĝos: će se otvoriti
     - '?'
-- 
-  demando: Želiš li da ti pokažem svoju najdražu fotografiju?
-  rektatraduko: 
+- demando: Želiš li da ti pokažem svoju najdražu fotografiju?
+  rektatraduko:
     - Ĉu: Da li
     - vi: ti
     - volas: želiš
@@ -37,60 +29,43 @@
     - karan: dražu
     - foton: fotografiju
     - '?'
-- 
-  demando: Gdje ste kupili ovu odjeću?
-  rektatraduko: 
+- demando: Gdje ste kupili ovu odjeću?
+  rektatraduko:
     - Kie: Gdje
     - vi: vi
     - aĉetis: ste kupili
     - tiun: ovu
     - vestaĵon: odjeću
     - '?'
-- 
-  demando: Kamo ćeš otići u nedjelju ako bude sunčan dan?
-  rektatraduko: 
+- demando: Kamo ćeš otići u nedjelju ako bude sunčan dan?
+  rektatraduko:
     - Kien: Kamo
     - vi: ti
     - iros: ići ćeš
-    - dimanĉon: u nedjelju
-    - ',' 
+    - dimanĉe: on Sunday
+    - ','
     - se: ako
     - estos: će biti
     - suna: sunčan
     - tago: dan
     - '?'
-- 
-  demando: Je li tvoj brat tužan ili ljutit; cijeli dan se nije ni nasmijao ni zapjevao s nama?
-  rektatraduko: 
+- demando: Je li tvoj brat tužan ili ljutit; cijeli dan se nije ni nasmijao ni zapjevao s nama?
+  rektatraduko:
     - Ĉu: Je li
     - via: tvoj
     - frato: brat
-    - estas: je
-    - malĝoja: tužan
-    - aŭ: ili
-    - li: 'on'
-    - koleras: ljuti se
-    - ';' 
-    - tuttage: cijeli dan
-    - li: 'on'
-    - nek: niti
-    - ekridis: nasmijao se
-    - nek: niti
-    - ekkantis: zapjevao je
-    - kun: s
-    - ni: nama
+    - jam: već
+    - ekiris: did leave
     - '?'
--    
-  demando: Gdje si ostavio vodu koju si to osobno donio?
-  rektatraduko: 
+- demando: Gdje si ostavio vodu koju si to osobno donio?
+  rektatraduko:
     - Kie: Gdje
-    - vi: ti
-    - lasis: si ostavio
+    - estas: je
     - la: (član)
-    - akvon: vodu
-    - ',' 
+    - akvo: vode
+    - ','
     - kiun: koju
     - vi: ti
     - mem: sam
-    - alportis: donio si
+    - kunportis: have brought
     - '?'

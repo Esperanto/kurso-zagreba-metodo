@@ -1,37 +1,33 @@
-- 
-  demando: Ali lahko prinesete zdravilo moje sestre?
-  rektatraduko: 
+- demando: Ali lahko prinesete zdravilo moje sestre?
+  rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek vi)
     - povas: lahko
-    - alporti: prinesete
+    - kunporti: prinesete
     - la: (člen)
     - sanigilon: zdravilo
     - de: (predlog od)
     - mia: moje
     - fratino: sestre
     - '?'
-- 
-  demando: Kdaj ste kupili ta glasbeni inštrument?
-  rektatraduko: 
+- demando: Kdaj ste kupili ta glasbeni inštrument?
+  rektatraduko:
     - Kiam: Kdaj
     - vi: vi (zaimek vi)
     - aĉetis: ste kupili
     - tiun: ta
     - muzikilon: glasbeni inštrument
     - '?'
-- 
-  demando: Kdo je nazadnje uporabljal moj ključ?
-  rektatraduko: 
+- demando: Kdo je nazadnje uporabljal moj ključ?
+  rektatraduko:
     - Kiu: Kdo
     - uzis: je uporabljal
     - laste: nazadnje
     - mian: moj
     - ŝlosilon: ključ
     - '?'
-- 
-  demando: Ali ste se vozili v Benetkah tudi z gondolo?
-  rektatraduko: 
+- demando: Ali ste se vozili v Benetkah tudi z gondolo?
+  rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek vi)
     - veturis: ste se vozili
@@ -41,14 +37,13 @@
     - per: z
     - gondolo: gondolo
     - '?'
-- 
-  demando: Ali ste lahko zaspali, ko je vse utihnilo?
-  rektatraduko: 
+- demando: Ali ste lahko zaspali, ko je vse utihnilo?
+  rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek vi)
-    - povis: ste lahko
+    - povos: will be able
     - ekdormi: zaspali
-    - ',' 
-    - kiam: ko 
-    - ĉio silentiĝis: je vse utihnilo
+    - ','
+    - kiam: ko
+    - silentiĝis: je vse utihnilo
     - '?'

@@ -1,25 +1,22 @@
--
-  demando: ?מתי אראה אותך שוב
-  rektatraduko: 
+- demando: ?מתי אראה אותך שוב
+  rektatraduko:
     - Kiam: מתי
-    - mi: אני  
+    - mi: אני
     - revidos: אראה
     - vin: אותך
-    - denove: שוב
     - '?'
--
-  demando: ?כמה זמן אתה לומד את השפה הבינלאומית
-  rektatraduko: 
-    - Kiel longe: כמה זמן
+- demando: ?כמה זמן אתה לומד את השפה הבינלאומית
+  rektatraduko:
+    - Kiel: כמה זמן
+    - longe: כמה זמן
     - vi: אתה
     - lernas: לומד
-    - la: ה 
+    - la: ה
     - Internacian: בינלאומית
     - Lingvon: שפה
     - '?'
--
-  demando: ?איפה הספר החדש שלי עם הצילומים
-  rektatraduko: 
+- demando: ?איפה הספר החדש שלי עם הצילומים
+  rektatraduko:
     - Kie: איפה
     - estas: הוא
     - mia: שלי
@@ -28,9 +25,8 @@
     - kun: עם
     - fotoj: צילומים
     - '?'
--
-  demando: ?לאן תלך אחרי ארוחת הצהרים
-  rektatraduko: 
+- demando: ?לאן תלך אחרי ארוחת הצהרים
+  rektatraduko:
     - Kien: לאן
     - vi: אתה
     - iros: תלך
@@ -38,30 +34,32 @@
     - la: ה
     - tagmanĝo: ארוחת צהרים
     - '?'
--
-  demando: ?האם אפשר לסגור את הדלת של החדר כשקר
-  rektatraduko: 
+- demando: ?האם אפשר לסגור את הדלת של החדר כשקר
+  rektatraduko:
     - Ĉu: האם
-    - oni povas: אפשר
+    - oni: אפשר
+    - povas: אפשר
     - fermi: לסגור
     - la: ה
     - pordon: דלת
-    - de: של 
+    - de: של
     - la: ה
     - ĉambro: חדר
     - ','
-    - kiam estas: כאשר
+    - kiam: כאשר
+    - estas: כאשר
     - malvarme: קר
     - '?'
--
-  demando: ?כמה זמן אתה כועס אם לוקחים ממך הרבה כסף
-  rektatraduko: 
-    - Kiel longe: כמה זמן
+- demando: ?כמה זמן אתה כועס אם לוקחים ממך הרבה כסף
+  rektatraduko:
+    - Kiel: כמה זמן
+    - longe: כמה זמן
     - vi: אתה
     - koleras: כועס
     - ','
     - se: אם
-    - oni forprenas: לוקחים
+    - oni: לוקחים
+    - forprenas: לוקחים
     - de: מ
     - vi: אתה
     - multan: הרבה

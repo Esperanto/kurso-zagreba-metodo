@@ -1,22 +1,20 @@
-- 
-  demando: ?האם אנו נתראה, לא חשוב איפה ומתי
-  rektatraduko: 
+- demando: ?האם אנו נתראה, לא חשוב איפה ומתי
+  rektatraduko:
     - Ĉu: האם
     - ni: אנו
     - revidos: נתראה
     - nin: אותנו
-    - ',' 
+    - ','
     - kie: איפה
     - ajn: שהוא
     - kaj: ו
     - kiam: היכן
     - ajn: שהוא
     - '?'
-- 
-  demando: ?מתי אני אקבל חזרה את החצי השני של הספרים
-  rektatraduko: 
+- demando: ?מתי אני אקבל חזרה את החצי השני של הספרים
+  rektatraduko:
     - Kiam: מתי
-    - mi: אני 
+    - mi: אני
     - rericevos: אקבל חזרה
     - la: ה
     - alian: אחר
@@ -25,9 +23,8 @@
     - la: ה
     - libroj: ספרים
     - '?'
-- 
-  demando: ?האם אתה תצטרך יותר מרבע שנה למשימות האלה
-  rektatraduko: 
+- demando: ?האם אתה תצטרך יותר מרבע שנה למשימות האלה
+  rektatraduko:
     - Ĉu: האם
     - vi: אתה
     - bezonos: תצטרך
@@ -39,29 +36,28 @@
     - tiuj: אלה
     - laboroj: עבודות, משימות
     - '?'
-- 
-  demando: ?מדוע ככל שקר יותר, אז אנו מחכים יותר
-  rektatraduko: 
+- demando: ?מדוע ככל שקר יותר, אז אנו מחכים יותר
+  rektatraduko:
     - Kial: מדוע
     - estas: (זמן הווה)
     - des: ככל
     - pli: יותר
     - malvarma: קר
-    - ',' 
+    - ','
     - ju: אז
     - pli: יותר
     - longe: ארוך
     - ni: אנו
     - atendas: מחכים
     - '?'
-- 
-  demando: ?האם אתה מאושר בחייך
-  rektatraduko: 
+- demando: ?האם אתה מאושר בחייך
+  rektatraduko:
     - Ĉu: האם
     - vi: אתה
-    - estas: (זמן הווה)
-    - feliĉa: מאושר
-    - en : ב
-    - via: שלך
-    - vivo: חיים
+    - estus: (זמן הווה)
+    - kontenta: מאושר
+    - kun: ב
+    - iu: שלך
+    - ajn: חיים
+    - viro: man
     - '?'

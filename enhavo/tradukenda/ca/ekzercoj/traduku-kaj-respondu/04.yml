@@ -1,15 +1,13 @@
--
-  demando: Quan et tornaré a veure?
+- demando: Quan et tornaré a veure?
   rektatraduko:
     - Kiam: Quan
     - mi: jo
     - revidos: tornaré a veure
     - vin: a tu
     - '?'
--
-  demando: Quant temps fa que aprens la llengua internacional?
-  rektatraduko: 
-    - Kiom: Quant
+- demando: Quant temps fa que aprens la llengua internacional?
+  rektatraduko:
+    - Kiel: Quant
     - longe: llarg (en el temps)
     - vi: tu
     - lernas: aprens
@@ -17,9 +15,8 @@
     - Internacian: internacional
     - Lingvon: llengua
     - '?'
--
-  demando: On és el meu nou llibre amb fotografies?
-  rektatraduko: 
+- demando: On és el meu nou llibre amb fotografies?
+  rektatraduko:
     - Kie: 'On'
     - estas: és
     - mia: el meu
@@ -28,19 +25,17 @@
     - kun: amb
     - fotoj: fotografies
     - '?'
--
-  demando: On vas anar després del dinar?
-  rektatraduko: 
+- demando: On vas anar després del dinar?
+  rektatraduko:
     - Kien: 'On'
     - vi: tu
-    - iris: vas anar
+    - iros: vas anar
     - post: després de
     - la: el
     - tagmanĝo: dinar
     - '?'
--
-  demando: Es pot tancar la porta de l'habitació quan fa fred?
-  rektatraduko: 
+- demando: Es pot tancar la porta de l'habitació quan fa fred?
+  rektatraduko:
     - Ĉu: Que
     - oni: es
     - povas: pot
@@ -55,10 +50,9 @@
     - estas: fa
     - malvarme: fred
     - '?'
--
-  demando: Quant temps estàs enfadat si la gent et pren molts diners?
-  rektatraduko: 
-    - Kiom: Quant
+- demando: Quant temps estàs enfadat si la gent et pren molts diners?
+  rektatraduko:
+    - Kiel: Quant
     - longe: temps
     - vi: tu
     - koleras: estàs enfadat
@@ -66,8 +60,8 @@
     - se: si
     - oni: la gent
     - forprenas: et pren
-    - al: a
+    - de: del
     - vi: tu
-    - multe da: molts
-    - mono: diners
+    - multan: a lot of
+    - monon: money
     - '?'

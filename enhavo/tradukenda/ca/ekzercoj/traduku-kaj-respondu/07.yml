@@ -1,6 +1,5 @@
-- 
-  demando: Qui tenia el llibre que vas estar esperant més de dos anys?
-  rektatraduko: 
+- demando: Qui tenia el llibre que vas estar esperant més de dos anys?
+  rektatraduko:
     - Kiu: Qui
     - havis: tenia
     - la: el
@@ -14,9 +13,8 @@
     - du: dos
     - jarojn: anys
     - '?'
-- 
-  demando: Vols que t'ensenyi la fotografia que més aprecio?
-  rektatraduko: 
+- demando: Vols que t'ensenyi la fotografia que més aprecio?
+  rektatraduko:
     - Ĉu: Que
     - vi: Tu
     - volas: vols
@@ -31,18 +29,16 @@
     - karan: apreciada
     - foton: fotografia
     - '?'
-- 
-  demando: On has comprat aquest vestit?
-  rektatraduko: 
+- demando: On has comprat aquest vestit?
+  rektatraduko:
     - Kie: 'On'
     - vi: tu
     - aĉetis: has comprat
-    - ĉi tiun: aquest
+    - tiun: aquest
     - vestaĵon: vestit
     - '?'
-- 
-  demando: On aniràs el diumenge si és un dia assolellat?
-  rektatraduko: 
+- demando: On aniràs el diumenge si és un dia assolellat?
+  rektatraduko:
     - Kien: 'On'
     - vi: tu
     - iros: aniràs
@@ -53,19 +49,17 @@
     - suna: assolellat
     - tago: dia
     - '?'
-- 
-  demando: El teu germà ja se n'ha anat?
-  rektatraduko: 
+- demando: El teu germà ja se n'ha anat?
+  rektatraduko:
     - Ĉu: Que
     - via: El teu
     - frato: germà
     - jam: ja
-    - foriris: se n'ha anat
+    - ekiris: se n'ha anat
     - '?'
-- 
-  demando: On és l'aigua que tu mateix has portat?
-  rektatraduko: 
-    - Kie: "On"
+- demando: On és l'aigua que tu mateix has portat?
+  rektatraduko:
+    - Kie: 'On'
     - estas: és
     - la: la
     - akvo: aigua

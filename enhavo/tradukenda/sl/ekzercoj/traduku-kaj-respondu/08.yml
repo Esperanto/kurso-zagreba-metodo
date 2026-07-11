@@ -1,6 +1,5 @@
-- 
-  demando: Kdo bo očistil kuhinjo po kosilu?
-  rektatraduko: 
+- demando: Kdo bo očistil kuhinjo po kosilu?
+  rektatraduko:
     - Kiu: Kdo
     - purigos: bo očistil
     - la: (člen)
@@ -9,30 +8,26 @@
     - la: (člen)
     - tagmanĝo: kosilu
     - '?'
-- 
-  demando: Kaj želite piti; ali čaj, malo kave, kozarec vode, ali ne boste nič?
-  rektatraduko: 
+- demando: Kaj želite piti; ali čaj, malo kave, kozarec vode, ali ne boste nič?
+  rektatraduko:
     - Kion: Kaj
     - vi: (zaimek vi)
-    - deziras: želite
+    - volas: želiš
     - trinki: piti
-    - ':' 
-    - ĉu: ali
+    - ':'
     - teon: tea
-    - ',' 
+    - ','
     - iom: malo
     - da: (predlog da)
     - kafo: kave
-    - ',' 
-    - glason: kozarec
-    - da: (predlog da) 
-    - akvo: vode
     - aŭ: ali
+    - ĉu: ali
+    - vi: (zaimek ti)
+    - volas: želiš
     - nenion: ne boste nič
     - '?'
-- 
-  demando: Zaradi česa si se tako nenadoma odločil obnoviti svojo sobico in kupiti nekaj dragih knjig?
-  rektatraduko: 
+- demando: Zaradi česa si se tako nenadoma odločil obnoviti svojo sobico in kupiti nekaj dragih knjig?
+  rektatraduko:
     - Kial: Zakaj
     - vi: (zaimek ti)
     - tiel: tako
@@ -41,27 +36,23 @@
     - renovigi: obnoviti
     - vian: svojo
     - ĉambreton: sobico
-    - kaj: in 
-    - aĉeti: kupiti
-    - iom da: nekaj
-    - multekostaj: dragih
-    - libroj: knjig
     - '?'
-- 
-  demando: Kam si postavil čiste kozarce za vino??
-  rektatraduko: 
-    - Kien: Kam
+- demando: Kam si postavil čiste kozarce za vino??
+  rektatraduko:
+    - Al: v
+    - kiu: kom
     - vi: (zaimek ti)
-    - metis: si postavil
+    - donis: did give
+    - la: (člen)
     - purajn: čiste
     - glasojn: kozarce
-    - por: za 
+    - por: za
+    - la: (člen)
     - vino: vino
     - '?'
-- 
-  demando: S kom je igral tvoj športni klub pred dvema tednoma? 
-  rektatraduko: 
-    - Kun: S
+- demando: S kom je igral tvoj športni klub pred dvema tednoma?
+  rektatraduko:
+    - Kontraŭ: Against
     - kiu: kom
     - ludis: je igral
     - via: tvoj
@@ -70,21 +61,20 @@
     - du: dvema
     - semajnoj: tednoma
     - '?'
-- 
-  demando: Ali pogosto videvaš policista, ki stanuje v stanovanju nad tvojim? 
-  rektatraduko: 
+- demando: Ali pogosto videvaš policista, ki stanuje v stanovanju nad tvojim?
+  rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek ti)
     - ofte: pogosto
-    - vidadas: videvaš
+    - vidas: see
     - la: (člen)
     - policiston: policista
-    - ',' 
+    - ','
     - kiu: ki
     - loĝas: stanuje
-    - en: v 
+    - en: v
     - la: (člen)
     - loĝejo: stanovanju
     - super: nad
-    - la via: tvojim
+    - vi: (zaimek ti)
     - '?'

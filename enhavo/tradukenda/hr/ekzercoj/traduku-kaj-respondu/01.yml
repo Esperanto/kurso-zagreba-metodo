@@ -1,27 +1,24 @@
-- 
-  demando: Tko je tvoja prijateljica?
-  rektatraduko: 
+- demando: Tko je tvoja prijateljica?
+  rektatraduko:
     - Kiu: Tko
     - estas: je
     - via: tvoja
     - amikino: prijateljica
     - '?'
-- 
-  demando: Piše li tvoja prijateljica Ana sada u sobi?
-  rektatraduko: 
+- demando: Piše li tvoja prijateljica Ana sada u sobi?
+  rektatraduko:
     - Ĉu: Je li
     - via: tvoja
     - amikino: prijateljica
-    - Ana: Ana 
+    - Anna: Ana
     - skribas: piše
-    - nun: sada 
-    - en: u  
+    - nun: sada
+    - en: u
     - la: (član)
-    - ĉambro: soba 
+    - ĉambro: soba
     - '?'
-- 
-  demando: Radi li prijetelj tvog oca u hotelu?
-  rektatraduko: 
+- demando: Radi li prijetelj tvog oca u hotelu?
+  rektatraduko:
     - Ĉu: Je li
     - la: (član)
     - amiko: prijatelj
@@ -32,9 +29,8 @@
     - en: u
     - hotelo: hotel
     - '?'
-- 
-  demando: Što je na radnom stolu u našoj sobi?
-  rektatraduko: 
+- demando: Što je na radnom stolu u našoj sobi?
+  rektatraduko:
     - Kio: Što
     - estas: je
     - sur: na
@@ -44,9 +40,8 @@
     - nia: naša
     - ĉambro: soba
     - '?'
-- 
-  demando: Je li esperantski udžbenik na tvom stolu?
-  rektatraduko: 
+- demando: Je li esperantski udžbenik na tvom stolu?
+  rektatraduko:
     - Ĉu: Je li
     - Esperanto-lernolibro: esperantski udžbenik
     - estas: je
@@ -54,4 +49,3 @@
     - via: tvoj
     - tablo: stol
     - '?'
-

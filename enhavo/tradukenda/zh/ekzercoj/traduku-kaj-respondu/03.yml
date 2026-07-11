@@ -1,6 +1,5 @@
--
-  demando: 在大酒店的服务员是否懂得多种语文？
-  rektatraduko:  
+- demando: 在大酒店的服务员是否懂得多种语文？
+  rektatraduko:
     - Ĉu: 是否
     - kelneroj: 服务员
     - en: 在
@@ -10,9 +9,8 @@
     - multajn: 多
     - lingvojn: 语文
     - '?'
--
-  demando: 你是否知道安娜喜欢那首新歌是关于一个穷汉子和一个美丽的姑娘？
-  rektatraduko: 
+- demando: 你是否知道安娜喜欢那首新歌是关于一个穷汉子和一个美丽的姑娘？
+  rektatraduko:
     - Ĉu: 是否
     - vi: 你
     - scias: 知道
@@ -28,9 +26,8 @@
     - kaj: 和
     - belulino: 一个美丽的姑娘
     - '?'
--
-  demando:  你在哪里曾看见那个老人和那个年轻人。他们抬举一张大桌子？
-  rektatraduko: 
+- demando: 你在哪里曾看见那个老人和那个年轻人。他们抬举一张大桌子？
+  rektatraduko:
     - Kie: 哪里
     - vi: 你
     - vidis: 曾看见
@@ -45,9 +42,8 @@
     - grandan: 大
     - tablon: 桌子
     - '?'
--
-  demando: 什么事情发生了，那你再次没有和兄弟姐妹到我们这里来？
-  rektatraduko: 
+- demando: 什么事情发生了，那你再次没有和兄弟姐妹到我们这里来？
+  rektatraduko:
     - Kiel: 什么事
     - okazis: 发生
     - ','
@@ -58,11 +54,10 @@
     - al: 到
     - ni: 我们
     - sen: 没有
-    - gefratoj:兄弟姐妹
+    - gefratoj: brothers-and-sisters
     - '?'
--
-  demando: 你是否可以通过那本新课本适度快速学习世界语？
-  rektatraduko: 
+- demando: 你是否可以通过那本新课本适度快速学习世界语？
+  rektatraduko:
     - Ĉu: 是否
     - vi: 你
     - povas: 可以

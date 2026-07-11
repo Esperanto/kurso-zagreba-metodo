@@ -1,25 +1,22 @@
--
-  demando: Kdaj te bom ponovno videl?
-  rektatraduko: 
+- demando: Kdaj te bom ponovno videl?
+  rektatraduko:
     - Kiam: Kdaj
-    - mi: (zaimek jaz)  
+    - mi: (zaimek jaz)
     - revidos: bom ponovno videl
     - vin: (zaimek tebe)
     - '?'
--
-  demando: Kako dolgo se učite mednarodni jezik?
-  rektatraduko: 
+- demando: Kako dolgo se učite mednarodni jezik?
+  rektatraduko:
     - Kiel: Kako
     - longe: dolgo
     - vi: (zaimek vi)
     - lernas: se učite
-    - la: (člen) 
+    - la: (člen)
     - Internacian: mednarodni
-    - lingvon: jezik
+    - Lingvon: jezik
     - '?'
--
-  demando: Kje je moja nova knjiga s fotografijami?
-  rektatraduko: 
+- demando: Kje je moja nova knjiga s fotografijami?
+  rektatraduko:
     - Kie: Kje
     - estas: je
     - mia: moja
@@ -28,46 +25,43 @@
     - kun: s
     - fotoj: fotografijami
     - '?'
--
-  demando: Kam greš po kosilu?
-  rektatraduko: 
+- demando: Kam greš po kosilu?
+  rektatraduko:
     - Kien: Kam
     - vi: (zaimek ti)
-    - iras: greš
+    - iros: bo šel
     - post: po
     - la: (člen)
     - tagmanĝo: kosilu
     - '?'
--
-  demando: Ali lahko zapremo vrata sobe, če nam bo hladno?
-  rektatraduko: 
+- demando: Ali lahko zapremo vrata sobe, če nam bo hladno?
+  rektatraduko:
     - Ĉu: Ali
-    - ni: (zaimek mi)
-    - povas: lahko 
+    - oni: one
+    - povas: lahko
     - fermi: zapremo
     - la: (člen)
     - pordon: vrata
-    - de: (predlog) 
+    - de: (predlog)
     - la: (člen)
     - ĉambro: sobe
     - ','
-    - se: če
-    - al ni: (zaimek nam)
-    - estos: bo
+    - kiam: ko
+    - estas: je
     - malvarme: hladno
     - '?'
--
-  demando: Kako dolgo se jeziš, ko ti vzamejo veliko denarja?
-  rektatraduko: 
+- demando: Kako dolgo se jeziš, ko ti vzamejo veliko denarja?
+  rektatraduko:
     - Kiel: Kako
     - longe: dolgo
     - vi: (zaimek ti)
     - koleras: se jeziš
     - ','
-    - kiam: ko
+    - se: če
+    - oni: vzamejo
+    - forprenas: takes away
     - de: (predlog od)
     - vi: ti
-    - oni prenas: vzamejo
     - multan: veliko
     - monon: denarja
     - '?'

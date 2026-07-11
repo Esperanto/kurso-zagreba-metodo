@@ -1,25 +1,22 @@
--
-  demando: ¿Cuándo volveré a verte?
-  rektatraduko: 
+- demando: ¿Cuándo volveré a verte?
+  rektatraduko:
     - Kiam: Cuándo
     - mi: yo
     - revidos: veré de nuevo
     - vin: a ti
     - '?'
--
-  demando: ¿Cuánto tiempo has estado aprendiendo la lengua internacional?
-  rektatraduko: 
-    - Kiom: Cuánto
+- demando: ¿Cuánto tiempo has estado aprendiendo la lengua internacional?
+  rektatraduko:
+    - Kiel: Cuánto
     - longe: largo
     - vi: tú
     - lernas: aprendes
-    - la: la 
+    - la: la
     - Internacian: internacional
     - Lingvon: lengua
     - '?'
--
-  demando: ¿Dónde está mi nuevo libro con fotografías?
-  rektatraduko: 
+- demando: ¿Dónde está mi nuevo libro con fotografías?
+  rektatraduko:
     - Kie: Dónde
     - estas: está
     - mia: mi
@@ -28,9 +25,8 @@
     - kun: con
     - fotoj: fotografías
     - '?'
--
-  demando: ¿Adónde irás después de la comida?
-  rektatraduko: 
+- demando: ¿Adónde irás después de la comida?
+  rektatraduko:
     - Kien: Adónde
     - vi: tú
     - iros: irás
@@ -38,16 +34,15 @@
     - la: la
     - tagmanĝo: comida de mediodía
     - '?'
--
-  demando: ¿Se puede cerrar la puerta de la habitación cuando hace frío?
-  rektatraduko: 
+- demando: ¿Se puede cerrar la puerta de la habitación cuando hace frío?
+  rektatraduko:
     - Ĉu: Acaso
     - oni: uno
-    - povas: puede 
+    - povas: puede
     - fermi: cerrar
     - la: la
     - pordon: puerta
-    - de: de 
+    - de: de
     - la: la
     - ĉambro: habitación
     - ','
@@ -55,10 +50,9 @@
     - estas: está
     - malvarme: frío
     - '?'
--
-  demando: ¿Cuánto tiempo estás enojado si la gente te quita mucho dinero?
-  rektatraduko: 
-    - Kiom: Cuánto
+- demando: ¿Cuánto tiempo estás enojado si la gente te quita mucho dinero?
+  rektatraduko:
+    - Kiel: Cuánto
     - longe: largo
     - vi: tú
     - koleras: te enojas
@@ -66,9 +60,8 @@
     - se: si
     - oni: uno
     - forprenas: quita
-    - al: a
+    - de: de
     - vi: ti
-    - multe: mucho
-    - da: de
-    - mono: dinero
+    - multan: a lot of
+    - monon: money
     - '?'

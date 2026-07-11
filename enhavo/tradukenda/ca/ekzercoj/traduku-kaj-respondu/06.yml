@@ -1,6 +1,5 @@
-- 
-  demando: Desitges que t'ensenyi el meu llibre més nou?
-  rektatraduko: 
+- demando: Desitges que t'ensenyi el meu llibre més nou?
+  rektatraduko:
     - Ĉu: Que
     - vi: Tu
     - deziras: desitges
@@ -15,23 +14,20 @@
     - novan: nou
     - libron: llibre
     - '?'
-- 
-  demando: Què vols esmorzar demà?
-  rektatraduko: 
+- demando: Què vols esmorzar demà?
+  rektatraduko:
     - Kion: Què
     - vi: tu
     - volas: vols
     - matenmanĝi: esmorzar
     - morgaŭ: demà
     - '?'
-- 
-  demando: Quan arribarà el Marko, a les cinc o a les vuit?
-  rektatraduko: 
+- demando: Quan arribarà el Marko, a les cinc o a les vuit?
+  rektatraduko:
     - Kiam: Quan
     - Marko: Marc
     - alvenos: arribarà
     - ','
-    - Ĉu: si
     - je: a
     - la: les
     - kvina: cinc
@@ -41,9 +37,8 @@
     - oka: vuit
     - horo: hores
     - '?'
-- 
-  demando: Quan et vas adonar que tota la família em diu benefactor?
-  rektatraduko: 
+- demando: Quan et vas adonar que tota la família em diu benefactor?
+  rektatraduko:
     - Kiam: Quan
     - vi: tu
     - rimarkis: et vas adonar
@@ -56,9 +51,8 @@
     - min: a mi
     - bonfarulo: benefactor
     - '?'
-- 
-  demando: Et va ser útil el llibret que et vaig enviar?
-  rektatraduko: 
+- demando: Et va ser útil el llibret que et vaig enviar?
+  rektatraduko:
     - Ĉu: Que
     - estis: va ser
     - utila: útil

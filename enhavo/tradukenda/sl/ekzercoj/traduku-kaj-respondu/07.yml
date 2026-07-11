@@ -1,15 +1,10 @@
-- 
-  demando: Ali bo pošta v vaši ulici, ki ste jo čakali več kot dve leti, kmalu aktivna?
-  
-  rektatraduko: 
-    - Ĉu: Ali
-    - estos: bo
+- demando: Ali bo pošta v vaši ulici, ki ste jo čakali več kot dve leti, kmalu aktivna?
+  rektatraduko:
+    - Kiu: Kdo
+    - havis: had
     - la: (člen)
-    - poŝtejo: pošta
-    - en: v
-    - via: vaši
-    - strato: ulici
-    - ',' 
+    - libron: knjigo
+    - ','
     - kiun: ki
     - vi: (zaimek vi)
     - atendis: jo čakate
@@ -17,80 +12,60 @@
     - ol: kot
     - du: dve
     - jarojn: leti
-    - ','
-    - baldaŭ: kmalu
-    - aktiva: aktivna
     - '?'
-- 
-  demando: Ali želiš, da ti pokažem svojo najljubšo fotografijo?
-  rektatraduko: 
+- demando: Ali želiš, da ti pokažem svojo najljubšo fotografijo?
+  rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek vi)
-    - deziras: želiš
+    - volas: želiš
     - ','
     - ke: da
     - mi: (zaimek jaz)
     - montru: pokažem
-    - al: (predlog k) 
+    - al: (predlog k)
     - vi: ti
     - mian: mojo
-    - plej karan: najljubšo
+    - plej: najljubšo
+    - karan: najljubšo
     - foton: fotografijo
     - '?'
-- 
-  demando: Kje ste kupili to obleko?
-  rektatraduko: 
+- demando: Kje ste kupili to obleko?
+  rektatraduko:
     - Kie: Kje
     - vi: (zaimek vi)
     - aĉetis: ste kupili
     - tiun: to
     - vestaĵon: obleko
     - '?'
-- 
-  demando: Kam boš odšel v nedeljo, če bo sončen dan?
-  rektatraduko: 
+- demando: Kam boš odšel v nedeljo, če bo sončen dan?
+  rektatraduko:
     - Kien: Kam
     - vi: (zaimek vi)
     - iros: boš odšel
-    - dimanĉon: v nedeljo
-    - ',' 
+    - dimanĉe: on Sunday
+    - ','
     - se: če
     - estos: bo
     - suna: sončen
     - tago: dan
     - '?'
-- 
-  demando: Ali je tvoj brat žalosten, ali se jezi; ves dan se ni niti nasmejal niti zapel z nami?
-  rektatraduko: 
+- demando: Ali je tvoj brat žalosten, ali se jezi; ves dan se ni niti nasmejal niti zapel z nami?
+  rektatraduko:
     - Ĉu: Ali
-    - estas: je
     - via: tvoj
     - frato: brat
-    - malĝoja: žalosten
-    - aŭ: ali
-    - li: (zaimek on)
-    - koleras: se jezi
-    - ';'
-    - ĉiutage: ves dan
-    - li: 'on'
-    - nek: niti
-    - ekridis: se ni nasmejal
-    - nek: niti
-    - ekkantis: ni zapel
-    - kun: z
-    - ni: nami
+    - jam: že
+    - ekiris: did leave
     - '?'
-- 
-  demando: Kje si pustil vodo, ki si jo sam prinesel?
-  rektatraduko: 
+- demando: Kje si pustil vodo, ki si jo sam prinesel?
+  rektatraduko:
     - Kie: Kje
-    - vi: (zaimek ti)
-    - lasis: si pustil
+    - estas: je
     - la: (člen)
-    - akvon: vodo
-    - ',' 
+    - akvo: vode
+    - ','
     - kiun: ki
     - vi: (zaimek ti)
     - mem: sam
-    - alportis: si jo prinesel
+    - kunportis: have brought
     - '?'

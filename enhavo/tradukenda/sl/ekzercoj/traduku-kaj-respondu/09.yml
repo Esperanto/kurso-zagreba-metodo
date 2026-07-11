@@ -1,6 +1,5 @@
-- 
-  demando: Kaj bi lahko najbolj razveselilo tvoje starše?
-  rektatraduko: 
+- demando: Kaj bi lahko najbolj razveselilo tvoje starše?
+  rektatraduko:
     - Kio: Kaj
     - povus: bi lahko
     - plej: najbolj
@@ -8,29 +7,28 @@
     - viajn: tvoje
     - gepatrojn: starše
     - '?'
-- 
-  demando: Ali bi hotel po učenju z menoj iti v mesto!
-  rektatraduko: 
+- demando: Ali bi hotel po učenju z menoj iti v mesto!
+  rektatraduko:
     - Se: Ali
+    - almenaŭ: at least (if only)
     - vi: (zaimek ti)
-    - volus: bi hotel
     - post: po
-    - la: (člen) 
+    - la: (člen)
     - lernado: učenju
+    - irus: would go
     - kun: z
-    - mi: menoj 
-    - iri: iti
+    - mi: menoj
     - en: v
-    - urbo: mesto
+    - la: (člen)
+    - urbocentron: city center
     - '!'
-- 
-  demando: Kam bi želeli potovati, če bi imeli dovolj denarja in časa?
-  rektatraduko: 
+- demando: Kam bi želeli potovati, če bi imeli dovolj denarja in časa?
+  rektatraduko:
     - Kien: Kam
     - vi: (zaimek vi)
     - dezirus: bi želeli
     - vojaĝi: potovati
-    - ',' 
+    - ','
     - se: če
     - vi: (zaimek vi)
     - havus: bi imeli
@@ -40,37 +38,33 @@
     - kaj: in
     - tempo: časa
     - '?'
-- 
-  demando: Ali načrtujete z avtomobilom potovati v Pariz; ali se vam ne zdi, da je bolje potovati z vlakom?
-  rektatraduko: 
+- demando: Ali načrtujete z avtomobilom potovati v Pariz; ali se vam ne zdi, da je bolje potovati z vlakom?
+  rektatraduko:
     - Ĉu: Ĉu
     - vi: (zaimek vi)
     - planas: načrtujete
-    - per: z
-    - aŭto: avtom
-    - vojaĝi: potovati
+    - veturi: to travel
     - al: v
     - Parizo: Paris
-    - ';'
+    - per: z
+    - aŭto: avtom
     - aŭ: ali
+    - ĉu: da
+    - ne: not
     - ŝajnas: se zdi
-    - al vi: vam
-    - ','
-    - ke: da
-    - estas: je
-    - pli bone: bolje
-    - vojaĝi: potovati
+    - multe: much
+    - pli: bolje
+    - bone: bolje
     - per: z
     - vagonaro: vlakom
     - '?'
-- 
-  demando: Zakaj iste ideje različni ljudje pojasnjujejo na različne načine? 
-  rektatraduko: 
-    - Kial: Zakaj 
+- demando: Zakaj iste ideje različni ljudje pojasnjujejo na različne načine?
+  rektatraduko:
+    - Kial: Zakaj
     - samajn: enake
     - ideojn: ideje
     - diversaj: različni
     - homoj: ljudje
     - klarigas: pojasnjujejo
-    - diversmaniere: na različne načine 
+    - diversmaniere: na različne načine
     - '?'

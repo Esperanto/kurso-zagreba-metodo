@@ -3,11 +3,40 @@ title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 05
 allOf:
   - $ref: ../traduku-kaj-respondu.schema.yml
   - minItems: 5
-    maxItems: 5
     prefixItems:
       - properties:
           rektatraduko:
-            maxItems: 11
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Ĉu
+                - type: object
+                  required:
+                    - vi
+                - type: object
+                  required:
+                    - povas
+                - type: object
+                  required:
+                    - trankvile
+                - type: object
+                  required:
+                    - lerni
+                - const: ','
+                - type: object
+                  required:
+                    - dum
+                - type: object
+                  required:
+                    - iu
+                - type: object
+                  required:
+                    - ĝoje
+                - type: object
+                  required:
+                    - kantas
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -62,7 +91,34 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 10
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Kiu
+                - type: object
+                  required:
+                    - scias
+                - const: ','
+                - type: object
+                  required:
+                    - kiam
+                - type: object
+                  required:
+                    - kaj
+                - type: object
+                  required:
+                    - kie
+                - type: object
+                  required:
+                    - ni
+                - type: object
+                  required:
+                    - revidos
+                - type: object
+                  required:
+                    - nin
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -112,7 +168,21 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 5
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Kioma
+                - type: object
+                  required:
+                    - horo
+                - type: object
+                  required:
+                    - estas
+                - type: object
+                  required:
+                    - nun
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -139,7 +209,42 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 13
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Ĉu
+                - type: object
+                  required:
+                    - iu
+                - type: object
+                  required:
+                    - helpis
+                - type: object
+                  required:
+                    - al
+                - type: object
+                  required:
+                    - vi
+                - type: object
+                  required:
+                    - malfermi
+                - type: object
+                  required:
+                    - la
+                - type: object
+                  required:
+                    - pordon
+                - type: object
+                  required:
+                    - de
+                - type: object
+                  required:
+                    - malnova
+                - type: object
+                  required:
+                    - domo
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -202,7 +307,36 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 10
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Kial
+                - type: object
+                  required:
+                    - vi
+                - type: object
+                  required:
+                    - ne
+                - type: object
+                  required:
+                    - havas
+                - type: object
+                  required:
+                    - tempon
+                - type: object
+                  required:
+                    - aŭskulti
+                - type: object
+                  required:
+                    - min
+                - type: object
+                  required:
+                    - pli
+                - type: object
+                  required:
+                    - longe
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -252,3 +386,4 @@ allOf:
               - contains:
                   const: '?'
                 maxContains: 1
+    items: false

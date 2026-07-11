@@ -3,11 +3,24 @@ title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 01
 allOf:
   - $ref: ../traduku-kaj-respondu.schema.yml
   - minItems: 5
-    maxItems: 5
     prefixItems:
       - properties:
           rektatraduko:
-            maxItems: 5
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Kiu
+                - type: object
+                  required:
+                    - estas
+                - type: object
+                  required:
+                    - via
+                - type: object
+                  required:
+                    - amikino
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -34,7 +47,36 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 10
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Ĉu
+                - type: object
+                  required:
+                    - via
+                - type: object
+                  required:
+                    - amikino
+                - type: object
+                  required:
+                    - Anna
+                - type: object
+                  required:
+                    - skribas
+                - type: object
+                  required:
+                    - nun
+                - type: object
+                  required:
+                    - en
+                - type: object
+                  required:
+                    - la
+                - type: object
+                  required:
+                    - ĉambro
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -86,7 +128,36 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 10
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Ĉu
+                - type: object
+                  required:
+                    - la
+                - type: object
+                  required:
+                    - amiko
+                - type: object
+                  required:
+                    - de
+                - type: object
+                  required:
+                    - via
+                - type: object
+                  required:
+                    - patro
+                - type: object
+                  required:
+                    - laboras
+                - type: object
+                  required:
+                    - en
+                - type: object
+                  required:
+                    - hotelo
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -138,7 +209,33 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 9
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Kio
+                - type: object
+                  required:
+                    - estas
+                - type: object
+                  required:
+                    - sur
+                - type: object
+                  required:
+                    - la
+                - type: object
+                  required:
+                    - labortablo
+                - type: object
+                  required:
+                    - en
+                - type: object
+                  required:
+                    - nia
+                - type: object
+                  required:
+                    - ĉambro
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -185,7 +282,27 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 7
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Ĉu
+                - type: object
+                  required:
+                    - Esperanto-lernolibro
+                - type: object
+                  required:
+                    - estas
+                - type: object
+                  required:
+                    - sur
+                - type: object
+                  required:
+                    - via
+                - type: object
+                  required:
+                    - tablo
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -220,3 +337,4 @@ allOf:
               - contains:
                   const: '?'
                 maxContains: 1
+    items: false

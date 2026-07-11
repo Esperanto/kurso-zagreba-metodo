@@ -3,11 +3,30 @@ title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 09
 allOf:
   - $ref: ../traduku-kaj-respondu.schema.yml
   - minItems: 5
-    maxItems: 5
     prefixItems:
       - properties:
           rektatraduko:
-            maxItems: 7
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Kio
+                - type: object
+                  required:
+                    - povus
+                - type: object
+                  required:
+                    - plej
+                - type: object
+                  required:
+                    - ĝojigi
+                - type: object
+                  required:
+                    - viajn
+                - type: object
+                  required:
+                    - gepatrojn
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -44,7 +63,42 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 13
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Se
+                - type: object
+                  required:
+                    - almenaŭ
+                - type: object
+                  required:
+                    - vi
+                - type: object
+                  required:
+                    - post
+                - type: object
+                  required:
+                    - la
+                - type: object
+                  required:
+                    - lernado
+                - type: object
+                  required:
+                    - irus
+                - type: object
+                  required:
+                    - kun
+                - type: object
+                  required:
+                    - mi
+                - type: object
+                  required:
+                    - en
+                - type: object
+                  required:
+                    - urbocentron
+                - const: '!'
             allOf:
               - contains:
                   type: object
@@ -107,7 +161,43 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 14
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Kien
+                - type: object
+                  required:
+                    - vi
+                - type: object
+                  required:
+                    - dezirus
+                - type: object
+                  required:
+                    - vojaĝi
+                - const: ','
+                - type: object
+                  required:
+                    - se
+                - type: object
+                  required:
+                    - havus
+                - type: object
+                  required:
+                    - sufiĉe
+                - type: object
+                  required:
+                    - da
+                - type: object
+                  required:
+                    - mono
+                - type: object
+                  required:
+                    - kaj
+                - type: object
+                  required:
+                    - tempo
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -173,7 +263,57 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 18
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Ĉu
+                - type: object
+                  required:
+                    - vi
+                - type: object
+                  required:
+                    - planas
+                - type: object
+                  required:
+                    - veturi
+                - type: object
+                  required:
+                    - al
+                - type: object
+                  required:
+                    - Parizo
+                - type: object
+                  required:
+                    - per
+                - type: object
+                  required:
+                    - aŭto
+                - type: object
+                  required:
+                    - aŭ
+                - type: object
+                  required:
+                    - ĉu
+                - type: object
+                  required:
+                    - ne
+                - type: object
+                  required:
+                    - ŝajnas
+                - type: object
+                  required:
+                    - multe
+                - type: object
+                  required:
+                    - pli
+                - type: object
+                  required:
+                    - bone
+                - type: object
+                  required:
+                    - vagonaro
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -261,7 +401,30 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 8
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Kial
+                - type: object
+                  required:
+                    - diversaj
+                - type: object
+                  required:
+                    - homoj
+                - type: object
+                  required:
+                    - klarigas
+                - type: object
+                  required:
+                    - samajn
+                - type: object
+                  required:
+                    - ideojn
+                - type: object
+                  required:
+                    - diversmaniere
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -301,3 +464,4 @@ allOf:
               - contains:
                   const: '?'
                 maxContains: 1
+    items: false

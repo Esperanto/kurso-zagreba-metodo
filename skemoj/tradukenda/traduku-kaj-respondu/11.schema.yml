@@ -3,11 +3,39 @@ title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 11
 allOf:
   - $ref: ../traduku-kaj-respondu.schema.yml
   - minItems: 5
-    maxItems: 5
     prefixItems:
       - properties:
           rektatraduko:
-            maxItems: 10
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Ĉu
+                - type: object
+                  required:
+                    - vi
+                - type: object
+                  required:
+                    - povas
+                - type: object
+                  required:
+                    - kunporti
+                - type: object
+                  required:
+                    - la
+                - type: object
+                  required:
+                    - sanigilon
+                - type: object
+                  required:
+                    - de
+                - type: object
+                  required:
+                    - mia
+                - type: object
+                  required:
+                    - fratino
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -59,7 +87,24 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 6
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Kiam
+                - type: object
+                  required:
+                    - vi
+                - type: object
+                  required:
+                    - aĉetis
+                - type: object
+                  required:
+                    - tiun
+                - type: object
+                  required:
+                    - muzikilon
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -91,7 +136,24 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 6
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Kiu
+                - type: object
+                  required:
+                    - laste
+                - type: object
+                  required:
+                    - uzis
+                - type: object
+                  required:
+                    - mian
+                - type: object
+                  required:
+                    - ŝlosilon
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -123,7 +185,33 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 9
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Ĉu
+                - type: object
+                  required:
+                    - vi
+                - type: object
+                  required:
+                    - en
+                - type: object
+                  required:
+                    - Venecio
+                - type: object
+                  required:
+                    - veturis
+                - type: object
+                  required:
+                    - ankaŭ
+                - type: object
+                  required:
+                    - per
+                - type: object
+                  required:
+                    - gondolo
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -170,7 +258,28 @@ allOf:
                 maxContains: 1
       - properties:
           rektatraduko:
-            maxItems: 8
+            items:
+              anyOf:
+                - type: object
+                  required:
+                    - Ĉu
+                - type: object
+                  required:
+                    - vi
+                - type: object
+                  required:
+                    - povos
+                - type: object
+                  required:
+                    - ekdormi
+                - const: ','
+                - type: object
+                  required:
+                    - kiam
+                - type: object
+                  required:
+                    - silentiĝis
+                - const: '?'
             allOf:
               - contains:
                   type: object
@@ -208,3 +317,4 @@ allOf:
               - contains:
                   const: '?'
                 maxContains: 1
+    items: false

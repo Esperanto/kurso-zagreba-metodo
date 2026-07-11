@@ -1,86 +1,86 @@
-- 
-  demando: Who is going to clean the kitchen after lunch?
-  rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
+-
+  demando: អ្នកណានឹងសម្អាតផ្ទះបាយបន្ទាប់ពីអាហារថ្ងៃត្រង់?
+  rektatraduko:
+    - Kiu: អ្នកណា
+    - purigos: នឹងសម្អាត
+    - la: ពាក្យកំណត់
+    - kuirejon: ផ្ទះបាយ
+    - post: បន្ទាប់ពី
+    - la: ពាក្យកំណត់
+    - tagmanĝo: អាហារថ្ងៃត្រង់
     - '?'
-- 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
-    - ':' 
-    - teon: tea
-    - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+-
+  demando: "តើអ្នកចង់ផឹកអ្វី៖ តែ កាហ្វេបន្តិច ឬអ្នកមិនចង់បានអ្វីទេ?"
+  rektatraduko:
+    - Kion: អ្វី
+    - vi: អ្នក
+    - volas: ចង់
+    - trinki: ផឹក
+    - ':'
+    - teon: តែ
+    - ','
+    - iom: បន្តិច
+    - da: នៃបរិមាណ
+    - kafo: កាហ្វេ
+    - aŭ: ឬ
+    - ĉu: តើ
+    - vi: អ្នក
+    - volas: ចង់
+    - nenion: គ្មានអ្វី
     - '?'
-- 
-  demando: Why did you so suddenly decide to renovate your small room?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
+-
+  demando: ហេតុអ្វីបានជាអ្នកសម្រេចចិត្តភ្លាមៗដូច្នេះថានឹងជួសជុលបន្ទប់តូចរបស់អ្នក?
+  rektatraduko:
+    - Kial: ហេតុអ្វី
+    - vi: អ្នក
+    - tiel: ដូច្នេះ
+    - subite: ភ្លាមៗ
+    - decidis: បានសម្រេចចិត្ត
+    - renovigi: ជួសជុលថ្មី
+    - vian: របស់អ្នក
+    - ĉambreton: បន្ទប់តូច
     - '?'
-- 
-  demando: To whom did you give the clean wine glasses?
-  rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
+-
+  demando: តើអ្នកបានឱ្យកែវស្រាស្អាតទៅអ្នកណា?
+  rektatraduko:
+    - Al: ទៅ
+    - kiu: អ្នកណា
+    - vi: អ្នក
+    - donis: បានឱ្យ
+    - la: ពាក្យកំណត់
+    - purajn: ស្អាត
+    - glasojn: កែវ
+    - por: សម្រាប់
+    - la: ពាក្យកំណត់
+    - vino: ស្រា
     - '?'
-- 
-  demando: Against whom did your sports club play two weeks ago?
-  rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
+-
+  demando: តើក្លឹបកីឡារបស់អ្នកបានលេងប្រឆាំងនឹងអ្នកណាកាលពីពីរសប្តាហ៍មុន?
+  rektatraduko:
+    - Kontraŭ: ប្រឆាំងនឹង
+    - kiu: អ្នកណា
+    - ludis: បានលេង
+    - via: របស់អ្នក
+    - sportklubo: ក្លឹបកីឡា
+    - antaŭ: មុន
+    - du: ពីរ
+    - semajnoj: សប្តាហ៍
     - '?'
-- 
-  demando: Do you often see the policeman who is living in the appartment above you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
-    - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
+-
+  demando: តើអ្នកឃើញមន្ត្រីប៉ូលិសដែលរស់នៅក្នុងលំនៅដ្ឋានខាងលើអ្នកញឹកញាប់ឬ?
+  rektatraduko:
+    - Ĉu: តើ
+    - vi: អ្នក
+    - ofte: ញឹកញាប់
+    - vidas: ឃើញ
+    - la: ពាក្យកំណត់
+    - policiston: មន្ត្រីប៉ូលិស
+    - ','
+    - kiu: ដែល
+    - loĝas: រស់នៅ
+    - en: ក្នុង
+    - la: ពាក្យកំណត់
+    - loĝejo: លំនៅដ្ឋាន
+    - super: ខាងលើ
+    - vi: អ្នក
     - '?'

@@ -1,54 +1,54 @@
-- 
-  demando: Can you bring along the medicine of my sister?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+-
+  demando: តើអ្នកអាចនាំថ្នាំរបស់បងប្អូនស្រីខ្ញុំមកជាមួយបានទេ?
+  rektatraduko:
+    - Ĉu: តើ
+    - vi: អ្នក
+    - povas: អាច
+    - kunporti: នាំមកជាមួយ
+    - la: ពាក្យកំណត់
+    - sanigilon: ថ្នាំព្យាបាល
+    - de: របស់
+    - mia: របស់ខ្ញុំ
+    - fratino: បងប្អូនស្រី
     - '?'
-- 
-  demando: When did you buy that music instrument?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: music instrument
+-
+  demando: តើអ្នកបានទិញឧបករណ៍តន្ត្រីនោះនៅពេលណា?
+  rektatraduko:
+    - Kiam: ពេលណា
+    - vi: អ្នក
+    - aĉetis: បានទិញ
+    - tiun: នោះ
+    - muzikilon: ឧបករណ៍តន្ត្រី
     - '?'
-- 
-  demando: Who did use my key the last time?
-  rektatraduko: 
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+-
+  demando: អ្នកណាបានប្រើកូនសោរបស់ខ្ញុំលើកចុងក្រោយ?
+  rektatraduko:
+    - Kiu: អ្នកណា
+    - laste: លើកចុងក្រោយ
+    - uzis: បានប្រើ
+    - mian: របស់ខ្ញុំ
+    - ŝlosilon: កូនសោ
     - '?'
-- 
-  demando: Did you travel in Venice also by gondola?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+-
+  demando: តើអ្នកក៏បានធ្វើដំណើរនៅវេនីសដោយកុនដូឡាដែរឬ?
+  rektatraduko:
+    - Ĉu: តើ
+    - vi: អ្នក
+    - en: ក្នុង
+    - Venecio: វេនីស
+    - veturis: បានធ្វើដំណើរ
+    - ankaŭ: ក៏
+    - per: ដោយមធ្យោបាយ
+    - gondolo: កុនដូឡា
     - '?'
-- 
-  demando: Will you be able to fall asleep when it got quiet?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
-    - ',' 
-    - kiam: when 
-    - silentiĝis: got quiet
+-
+  demando: តើអ្នកនឹងអាចគេងលក់បានទេ នៅពេលវាស្ងាត់ទៅ?
+  rektatraduko:
+    - Ĉu: តើ
+    - vi: អ្នក
+    - povos: នឹងអាច
+    - ekdormi: ចាប់ផ្តើមគេងលក់
+    - ','
+    - kiam: នៅពេល
+    - silentiĝis: បានក្លាយជាស្ងាត់
     - '?'

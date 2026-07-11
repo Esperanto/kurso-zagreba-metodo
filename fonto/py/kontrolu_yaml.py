@@ -72,7 +72,7 @@ def main():
     check_safe_yaml_loader_blocks_python_tags()
     check_bool_like_scalars()
     check_malagasy_no_values()
-    print('Sukcesis: kontrolis sekuran YAML-legadon')
+    print('ok -- sekura YAML-legado')
 
 
 if __name__ == '__main__':

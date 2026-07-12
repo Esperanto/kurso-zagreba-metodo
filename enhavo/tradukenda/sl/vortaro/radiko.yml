@@ -44,6 +44,7 @@ dik:
 dimanĉ: nedelja
 dir: reči
 direkt: smer
+divers: različno
 doktor: doktor
 dolar: dolar
 dolor: bolečina
@@ -57,6 +58,7 @@ edz: mož
 efektiv: dejansko
 ej: kraj
 ekskurs: izlet
+ekzempl: primer
 esper: upati
 est: biti
 facil: lahko
@@ -82,6 +84,7 @@ fot: slika
 frat: brat
 fru: zgodaj
 fuŝ: pokvariti
+glas: steklo
 glaso: kozarec
 gondol: gondola
 graf: grof
@@ -96,6 +99,8 @@ hor: ura
 hotel: hotel
 ide: ideja
 industri: industrija
+infan: otrok
+inform: informirati
 instru: učiti
 interes: zanimanje
 invit: povabiti
@@ -105,7 +110,9 @@ jar: leto
 jun: mlad
 kaf: kava
 kalv: plešast
-kant: pesem
+kant:
+- pesem
+- peti
 kap: glava
 kapabl: sposoben, zmožen
 kapt: ujeti
@@ -114,7 +121,6 @@ kastel: grad, dvorec
 kav: jama
 kelk: nekaj
 kelner: natakar
-kien: kam
 kiu: kdo
 klar: jasno
 klub: klub
@@ -130,7 +136,9 @@ kontrol: preveriti
 kor: srce
 korp: telo
 kost: stati (cenovno)
-kred: verjeti, verovati
+kred:
+- verjeti, verovati
+- verjeti
 kri: kričati
 kuir: kuhati
 kuk: pecivo
@@ -149,11 +157,14 @@ lern: učiti se
 leter: pismo
 liber: prost
 libr: knjiga
+lingv: jezik
 lok: prostor
 long: dolg
+loĝ: stanovati
 lud: igrati
 lum: svetloba
 man: roka
+manier: način
 mank: manjkati
 manĝ: jesti
 mar: morje
@@ -167,6 +178,7 @@ minut: minuta
 mir: čuditi
 moment: trenutek
 mon: denar
+monat: mesec
 monato: mesec
 mond: svet
 mont: gora
@@ -192,6 +204,7 @@ onkl: stric
 opini: mnenje
 ord: red
 orel: uho
+organiz: organizacija
 os: prihodnji čas
 pac: mir
 pag: plačati
@@ -214,20 +227,28 @@ plac: trg, ploščad
 plan: planirati
 plaĉ: ugajati
 plen: poln
+plor: jokati
+pluv: deževati
 polic: policija
 pord: vrata
 port: nositi
 pov: moči
 poŝ: žep
+poŝt: pošta
 pren: vzeti
 pret: pripravljen
 prezent: pokazati
 problem: problem
 proksim: blizu
+proksimum: približno
 promen: sprehajati se
 propon: predlagati
 prov: poskusiti
+publik: javnost
+punkt: točka
+pur: čisto
 rajt: smeti
+rakont: pripovedovati
 rapid: hitro
 raport: poročati
 real: resnično
@@ -239,7 +260,10 @@ rest: ostati
 ricev: prejeti
 rid: smejati se
 rigard: gledati
-rilat: odnos
+rilat:
+- odnos
+- nanašati se
+rimark: pripomniti
 riĉ: bogat
 rol: vloga
 ruĝ: rdeče
@@ -247,7 +271,9 @@ salt: skočiti
 salut: zdravo
 sam: isto
 san: zdrav
-sat: sit
+sat:
+- sit
+- biti sit
 saĝ: moder
 sci: vedeti
 sek: suh
@@ -257,11 +283,12 @@ semajn: teden
 send: poslati
 sent: čutiti
 serĉ: iskati
+seĝ: stol
 si: povratni zaimek
-sia: svoj
 sid: sedeti
 silent: molčati
 simil: podobno
+simpl: preprosto
 sinjor:
 - gospod
 situaci: situacija
@@ -286,13 +313,16 @@ temp: čas
 temperatur: temperatura
 ten: držati
 teror: teror
+terur: grozno
 tim: strah
 ton: ton
 trankvil: miren
 trink: piti
 trov: najti
 turk: turško
+tut: vse
 tuŝ: dotakniti se
+universal: splošno
 urb: mesto
 us: bi
 util: koristno

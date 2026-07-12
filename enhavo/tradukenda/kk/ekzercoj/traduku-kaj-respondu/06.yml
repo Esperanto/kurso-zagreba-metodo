@@ -1,68 +1,68 @@
-- demando: Do you want me to show you my newest book?
+- demando: Мен саған ең жаңа кітабымды көрсеткенімді қалайсың ба?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - deziras: wish
+  - Ĉu: ма/ме
+  - vi: сен
+  - deziras: қалайды
   - ','
-  - ke: that
-  - mi: I
-  - montru: show
-  - al: to
-  - vi: you
-  - mian: my
-  - plej: most
-  - novan: new
-  - libron: book
+  - ke: деп
+  - mi: мен
+  - montru: көрсет
+  - al: -ға/-ге
+  - vi: сен
+  - mian: менің
+  - plej: ең
+  - novan: жаңа
+  - libron: кітапты
   - '?'
-- demando: What do you want for breakfast tomorrow?
+- demando: Ертең таңғы асқа не жегің келеді?
   rektatraduko:
-  - Kion: What
-  - vi: you
-  - volas: want
-  - morgaŭ: tomorrow
-  - matenmanĝi: eat breakfast
+  - Kion: нені
+  - vi: сен
+  - volas: қалайды
+  - morgaŭ: ертең
+  - matenmanĝi: таңғы ас ішу
   - '?'
-- demando: When will Mark arrive, at five or at eight o'clock?
+- demando: Марко қашан келеді, сағат бесте ме, әлде сегізде ме?
   rektatraduko:
-  - Kiam: When
-  - Marko: Mark
-  - alvenos: will arrive
+  - Kiam: қашан
+  - Marko: Марко
+  - alvenos: келеді
   - ','
-  - je: at
-  - la: the
-  - kvina: fifth
-  - aŭ: or
-  - je: at
-  - la: the
-  - oka: eighth
-  - horo: hour
+  - je: сағат
+  - la: анықтауыш
+  - kvina: бесінші
+  - aŭ: немесе
+  - je: сағат
+  - la: анықтауыш
+  - oka: сегізінші
+  - horo: сағат
   - '?'
-- demando: When did you notice that the whole family calls me benefactor?
+- demando: Бүкіл отбасы мені қайырымды адам деп атайтынын қашан байқадың?
   rektatraduko:
-  - Kiam: When
-  - vi: you
-  - rimarkis: did notice
+  - Kiam: қашан
+  - vi: сен
+  - rimarkis: байқады
   - ','
-  - ke: that
-  - la: the
-  - tuta: whole
-  - familio: family
-  - nomas: calls
-  - min: me
-  - bonfarulo: benefactor
+  - ke: деп
+  - la: анықтауыш
+  - tuta: бүкіл
+  - familio: отбасы
+  - nomas: атайды
+  - min: мені
+  - bonfarulo: қайырымды адам
   - '?'
-- demando: Was the booklet which I send you useful to you?
+- demando: Мен саған жіберген шағын кітапша пайдалы болды ма?
   rektatraduko:
-  - Ĉu: Whether
-  - la: the
-  - libreto: booklet
+  - Ĉu: ма/ме
+  - la: анықтауыш
+  - libreto: шағын кітапша
   - ','
-  - kiun: which
-  - mi: I
-  - sendis: sent
-  - al: to
-  - vi: you
+  - kiun: оны
+  - mi: мен
+  - sendis: жіберді
+  - al: -ға/-ге
+  - vi: сен
   - ','
-  - estis: was
-  - utila: useful
+  - estis: болды
+  - utila: пайдалы
   - '?'

@@ -1,0 +1,25 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, nomo
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - Sankt-Mark
+  - Adriano
+  - Ana
+  - Bonifacio
+  - Don Kamilo
+  - Jakopo
+  - Karlo
+  - Maja
+  - Maria
+  - Marko
+  - Monfort
+  - Petro
+  - Pietro
+  - Pipelbom
+  - Stefan
+  - Venecion
+  - Vera
+  - Ĝino
+  - Ĝorĝo

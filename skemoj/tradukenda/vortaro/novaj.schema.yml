@@ -1,0 +1,46 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, novaj
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - aŭskult
+  - divers
+  - ekzempl
+  - glas
+  - infan
+  - inform
+  - kant
+  - kien
+  - konsent
+  - las
+  - lingv
+  - loĝ
+  - manier
+  - monat
+  - mond
+  - naci
+  - organiz
+  - plor
+  - pluv
+  - poŝ
+  - poŝt
+  - proksimum
+  - publik
+  - punkt
+  - pur
+  - rakont
+  - rimark
+  - seĝ
+  - sia
+  - simpl
+  - suk
+  - terur
+  - tut
+  - universal
+  - rilat
+  - sat
+  - ag
+  - aper
+  - sent
+  - kred

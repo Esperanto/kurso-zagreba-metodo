@@ -1,0 +1,14 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, participo
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - ant
+  - int
+  - ont
+  - unt
+  - at
+  - it
+  - ot
+  - ut

@@ -1,0 +1,15 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, konjunkcio
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - aŭ
+  - kaj
+  - ke
+  - kvankam
+  - nek
+  - ol
+  - se
+  - sed
+  - ĉar

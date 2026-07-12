@@ -1,0 +1,51 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, tabelvorto
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - kio
+  - tio
+  - io
+  - ĉio
+  - nenio
+  - kiu
+  - tiu
+  - iu
+  - ĉiu
+  - neniu
+  - kie
+  - tie
+  - ie
+  - ĉie
+  - nenie
+  - kia
+  - tia
+  - ia
+  - ĉia
+  - nenia
+  - kiel
+  - tiel
+  - iel
+  - ĉiel
+  - neniel
+  - kial
+  - tial
+  - ial
+  - ĉial
+  - nenial
+  - kiam
+  - tiam
+  - iam
+  - ĉiam
+  - neniam
+  - kiom
+  - tiom
+  - iom
+  - ĉiom
+  - neniom
+  - kies
+  - ties
+  - ies
+  - ĉies
+  - nenies

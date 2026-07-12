@@ -1,80 +1,80 @@
-- demando: Who is going to clean the kitchen after lunch?
+- demando: jan seme li pona e tomo moku lon tenpo pini moku suli?
   rektatraduko:
-  - Kiu: Who
-  - purigos: is going to clean
-  - la: the
-  - kuirejon: kitchen
-  - post: after
-  - la: the
-  - tagmanĝo: lunch
+  - Kiu: jan seme
+  - purigos: li pona e
+  - la: ni
+  - kuirejon: tomo moku
+  - post: lon tenpo pini
+  - la: ni
+  - tagmanĝo: moku suli
   - '?'
-- demando: 'What do you want to drink: tea, some coffee or do you not want anything?'
+- demando: 'sina wile moku e telo seme: telo kasi, telo pimeja anu ala?'
   rektatraduko:
-  - Kion: What
-  - vi: you
-  - volas: want
-  - trinki: to drink
+  - Kion: ijo seme
+  - vi: sina
+  - volas: li wile
+  - trinki: moku e telo
   - ':'
-  - teon: tea
+  - teon: telo kasi
   - ','
-  - iom: some
-  - da: of
-  - kafo: coffee
-  - aŭ: or
-  - ĉu: whether
-  - vi: you
-  - volas: want
-  - nenion: nothing
+  - iom: lili
+  - da: pi mute
+  - kafo: telo pimeja
+  - aŭ: anu
+  - ĉu: anu seme
+  - vi: sina
+  - volas: li wile
+  - nenion: ijo ala
   - '?'
-- demando: Why did you so suddenly decide to renovate your small room?
+- demando: tan seme la sina wile ante e tomo lili sina lon tenpo lili?
   rektatraduko:
-  - Kial: Why
-  - vi: you
-  - tiel: so
-  - subite: suddenly
-  - decidis: did decide
-  - renovigi: to renovate
-  - vian: your
-  - ĉambreton: small room
+  - Kial: tan seme
+  - vi: sina
+  - tiel: sama ni
+  - subite: lon tenpo lili
+  - decidis: li wile
+  - renovigi: ante pona e
+  - vian: sina
+  - ĉambreton: tomo lili
   - '?'
-- demando: To whom did you give the clean wine glasses?
+- demando: sina pana e poki pi telo nasa tawa jan seme?
   rektatraduko:
-  - Al: To
-  - kiu: whom
-  - vi: you
-  - donis: did give
-  - la: the
-  - purajn: clean
-  - glasojn: glasses
-  - por: for
-  - la: the
-  - vino: wine
+  - Al: tawa jan seme
+  - kiu: jan seme
+  - vi: sina
+  - donis: li pana
+  - la: ni
+  - purajn: walo pona
+  - glasojn: poki telo
+  - por: tawa
+  - la: ni
+  - vino: telo nasa
   - '?'
-- demando: Against whom did your sports club play two weeks ago?
+- demando: kulupu musi sijelo sina li musi utala lon poka jan seme lon tenpo esun tu pini?
   rektatraduko:
-  - Kontraŭ: Against
-  - kiu: whom
-  - ludis: did play
-  - via: your
-  - sportklubo: sports club
-  - antaŭ: before
-  - du: two
-  - semajnoj: weeks
+  - Kontraŭ: utala e
+  - kiu: jan seme
+  - ludis: li musi
+  - via: sina
+  - sportklubo: kulupu musi sijelo
+  - antaŭ: lon tenpo pini
+  - du: tu
+  - semajnoj: tenpo esun
   - '?'
-- demando: Do you often see the policeman who is living in the apartment above you?
+- demando: sina lukin ala lukin e jan lawa pi nasin pona lon tomo sewi sina?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - ofte: often
-  - vidas: see
-  - la: the
-  - policiston: policeman
+  - Ĉu: anu seme
+  - vi: sina
+  - ofte: tenpo mute
+  - vidas: li lukin e
+  - la: ni
+  - policiston: jan lawa pi nasin pona
   - ','
-  - kiu: who
-  - loĝas: lives
-  - en: in
-  - la: the
-  - loĝejo: apartment
-  - super: above
-  - vi: you
+  - kiu: jan seme
+  - loĝas: li lon tomo
+  - en: lon
+  - la: ni
+  - loĝejo: tomo lon
+  - super: lon sewi
+  - vi: sina
   - '?'

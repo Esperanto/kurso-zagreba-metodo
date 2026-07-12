@@ -1,64 +1,64 @@
-- demando: What was your old home like?
+- demando: tomo sina pi tenpo pini li seme?
   rektatraduko:
-  - Kia: What like
-  - estis: was
-  - via: your
-  - malnova: old
-  - hejmo: home
+  - Kia: seme
+  - estis: li lon tenpo pini
+  - via: sina
+  - malnova: majuna
+  - hejmo: tomo
   - '?'
-- demando: Which books did you read, and were they good?
+- demando: sina lukin e lipu seme? lipu ni li pona anu seme?
   rektatraduko:
-  - Kiujn: Which
-  - librojn: books
-  - vi: you
-  - legis: did read
-  - kaj: and
-  - ĉu: whether
-  - ili: they
-  - estas: are
-  - bonaj: good
+  - Kiujn: seme
+  - librojn: lipu mute
+  - vi: sina
+  - legis: li lukin e lipu
+  - kaj: en
+  - ĉu: anu seme
+  - ili: ona mute
+  - estas: li lon
+  - bonaj: pona
   - '?'
-- demando: What did Ana and Mark do in Marks little room?
+- demando: jan Ana en jan Marko li pali e seme lon tomo lili pi jan Marko?
   rektatraduko:
-  - Kion: What
-  - faris: did do
-  - Ana: Ana
-  - kaj: and
-  - Marko: Mark
-  - en: in
-  - la: the
-  - malgranda: little
-  - ĉambro: room
-  - de: of
-  - Marko: Mark
+  - Kion: ijo seme
+  - faris: li pali e
+  - Ana: jan Ana
+  - kaj: en
+  - Marko: jan Marko
+  - en: lon
+  - la: ni
+  - malgranda: lili
+  - ĉambro: tomo
+  - de: pi
+  - Marko: jan Marko
   - '?'
-- demando: Do you like reading books about love?
+- demando: sina wile lukin e lipu pi olin anu seme?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - ŝatas: like
-  - legi: to read
-  - librojn: books
-  - pri: about
-  - amo: love
+  - Ĉu: anu seme
+  - vi: sina
+  - ŝatas: li olin e
+  - legi: lukin e lipu
+  - librojn: lipu mute
+  - pri: pi
+  - amo: olin
   - '?'
-- demando: Who will go with you to your home?
+- demando: jan seme li tawa tomo sina lon poka sina?
   rektatraduko:
-  - Kiu: Who
-  - iros: will go
-  - kun: with
-  - vi: you
-  - al: to
-  - via: your
-  - hejmo: home
+  - Kiu: jan seme
+  - iros: li tawa
+  - kun: lon poka
+  - vi: sina
+  - al: tawa
+  - via: sina
+  - hejmo: tomo
   - '?'
-- demando: What are your girl-friend's eyes like?
+- demando: sijelo lukin pi jan pona sina li seme?
   rektatraduko:
-  - Kiaj: What like
-  - estas: are
-  - la: the
-  - okuloj: eyes
-  - de: of
-  - via: your
-  - amikino: girl-friend
+  - Kiaj: seme
+  - estas: li lon
+  - la: ni
+  - okuloj: sijelo lukin
+  - de: pi
+  - via: sina
+  - amikino: jan pona meli
   - '?'

@@ -43,16 +43,16 @@
   demando: Warum ist es umso kälter, je länger wir warten?
   rektatraduko:
     - Kial: Warum
-    - estas: ist
-    - des: desto
-    - pli: mehr
-    - malvarma: kalt
-    - ','
     - ju: je
     - pli: mehr
     - longe: lange
     - ni: wir
     - atendas: warten
+    - ','
+    - des: desto
+    - pli: mehr
+    - malvarme: kalt
+    - estas: ist
     - '?'
 -
   demando: Wärst du mit irgendeinem beliebigen Mann zufrieden?

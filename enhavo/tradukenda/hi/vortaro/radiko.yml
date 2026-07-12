@@ -1,4 +1,5 @@
 afer: मामला
+ag: कार्य करना
 agrabl: सुखद
 akcept: स्वीकार करना
 akv: पानी
@@ -6,6 +7,7 @@ ali: दूसरा
 alt: ऊँचा
 am: प्रेम करना
 amik: मित्र
+aper: प्रकट होना
 arb: पेड़
 aspekt:
 - दिखना
@@ -14,6 +16,7 @@ atend: प्रतीक्षा करना
 atent: ध्यान देना
 aĉet: खरीदना
 aŭd: सुनना
+aŭskult: सुनना
 aŭt: कार
 aŭtoritat: अधिकार
 bedaŭr: खेद होना
@@ -41,6 +44,7 @@ dik:
 dimanĉ: रविवार
 dir: कहना
 direkt: दिशा
+divers: विविध
 doktor: डॉक्टर
 dolar: डॉलर
 dolor:
@@ -54,6 +58,7 @@ doĝ: डोजे
 edz: पति
 efektiv: वास्तव में
 ekskurs: सैर
+ekzempl: उदाहरण
 esper: आशा करना
 est: होना
 facil: आसान
@@ -78,6 +83,7 @@ fot: फोटो
 frat: भाई
 fru: जल्दी
 fuŝ: बिगाड़ना
+glas: गिलास
 gondol: गोंडोला
 graf:
 - काउंट
@@ -95,6 +101,8 @@ hor: घंटा
 hotel: होटल
 ide: विचार
 industri: उद्योग
+infan: बच्चा
+inform: सूचना देना
 instru: पढ़ाना
 interes: रुचि जगाना
 invit: आमंत्रित करना
@@ -104,6 +112,7 @@ jar: वर्ष
 jun: युवा
 kaf: कॉफी
 kalv: गंजा
+kant: गाना
 kap: सिर
 kapabl: सक्षम
 kapt: पकड़ना
@@ -120,11 +129,13 @@ kolor: रंग
 komenc: शुरू करना
 kompren: समझना
 kon: जानना
+konsent: सहमत होना
 kontent: संतुष्ट
 kontrol: जाँचना
 kor: हृदय
 korp: शरीर
 kost: कीमत होना
+kred: विश्वास करना
 kri: चिल्लाना
 kuir: पकाना
 kuk: केक
@@ -134,6 +145,7 @@ lakt: दूध
 lamp: दीपक
 land: देश
 larĝ: चौड़ा
+las: छोड़ना
 last: अंतिम
 laŭt: ऊँचा
 lecion: पाठ
@@ -142,11 +154,16 @@ lern: सीखना
 leter: पत्र
 liber: स्वतंत्र
 libr: किताब
+lingv: भाषा
 lok: स्थान
 long: लंबा
+loĝ:
+- रहना
+- निवास करना
 lud: खेलना
 lum: प्रकाश
 man: हाथ
+manier: तरीका
 mank: कमी होना
 manĝ: खाना
 mar: समुद्र
@@ -159,12 +176,15 @@ minut: मिनट
 mir: आश्चर्य करना
 moment: क्षण
 mon: पैसा
+monat: महीना
+mond: दुनिया
 mont: पर्वत
 montr: दिखाना
 mort: मरना
 mov: हिलना
 mult: बहुत
 muzik: संगीत
+naci: राष्ट्र
 nask: जन्म देना
 natur: प्रकृति
 neces: आवश्यक
@@ -180,6 +200,7 @@ onkl: चाचा
 opini: सोचना
 ord: क्रम में रखना
 orel: कान
+organiz: आयोजित करना
 pac: शांति
 pag: भुगतान करना
 pan: रोटी
@@ -200,19 +221,32 @@ plac: चौक
 plan: योजना बनाना
 plaĉ: पसंद आना
 plen: भरा हुआ
+plor:
+- रोना
+- विलाप करना
+pluv: बारिश होना
 polic: पुलिस
 pord: दरवाज़ा
 port: ले जाना
 pov: सकना
+poŝ: जेब
+poŝt: डाक
 pren: लेना
 pret: तैयार
 prezent: प्रस्तुत करना
 problem: समस्या
 proksim: पास
+proksimum: लगभग
 promen: टहलना
 propon: प्रस्ताव करना
 prov: कोशिश करना
+publik: सार्वजनिक
+punkt: बिंदु
+pur:
+- साफ़
+- शुद्ध
 rajt: अनुमति होना
+rakont: बताना
 rapid: तेज़
 raport: रिपोर्ट
 real: वास्तविक
@@ -224,6 +258,8 @@ rest: रहना
 ricev: पाना
 rid: हँसना
 rigard: देखना
+rilat: संबंध रखना
+rimark: ध्यान देना
 riĉ: धनी
 rol: भूमिका
 ruĝ: लाल
@@ -231,6 +267,9 @@ salt: कूदना
 salut: नमस्कार
 sam: वही
 san: स्वस्थ
+sat:
+- तृप्त होना
+- पेट भरा होना
 saĝ: बुद्धिमान
 sci: जानना
 sek: सूखा
@@ -238,11 +277,14 @@ sekret: गुप्त
 sekv: अनुसरण करना
 semajn: सप्ताह
 send: भेजना
+sent: महसूस करना
 serĉ: खोजना
+seĝ: कुर्सी
 si: निजवाचक सर्वनाम
 sid: बैठना
 silent: मौन
 simil: समान
+simpl: सरल
 sinjor:
 - श्रीमान
 - सज्जन
@@ -256,6 +298,7 @@ star: खड़ा होना
 strat: सड़क
 subit: अचानक
 sufiĉ: पर्याप्त
+suk: रस
 sukces: सफलता
 sun: सूरज
 supr: ऊपर
@@ -267,13 +310,16 @@ temp: समय
 temperatur: तापमान
 ten: पकड़ना
 teror: आतंक
+terur: भयानक
 tim: डरना
 ton: स्वर
 trankvil: शांत
 trink: पीना
 trov: पाना
 turk: तुर्की
+tut: पूरा
 tuŝ: छूना
+universal: सार्वभौमिक
 urb: शहर
 util: उपयोगी
 uz: उपयोग करना

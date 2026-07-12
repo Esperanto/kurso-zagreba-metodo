@@ -193,21 +193,3 @@ $('.forigu').click(function() {
   });
 });
 
-
-var currentLangCode = $('.lingvoelektilo-ligilo[aria-current="true"]').data('lingvo');
-
-$('.lingvoelektilo-ligilo').click(function(e) {
-  if (!currentLangCode) {
-    return;
-  }
-
-  e.preventDefault();
-  var newLanguageCode = $(this).data('lingvo');
-
-  var url = window.location.href;
-  url = url.replace(
-    '/' + currentLangCode + '/',
-    '/' + newLanguageCode + '/'
-  );
-  window.location.href = url;
-});

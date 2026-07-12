@@ -2,6 +2,7 @@ afer:
 - справа
 - діло
 - заняття
+ag:
 agrabl: приємний
 akcept: приймати
 akv: вода
@@ -11,12 +12,14 @@ am:
 - кохати
 - любити
 amik: друг
+aper:
 arb: дерево
 aspekt: вигляд
 atend: чекати
 atent: уважний
 aĉet: купувати
 aŭd: чути
+aŭskult:
 aŭt: автомобіль
 aŭtoritat: авторитет
 bedaŭr: жалкувати
@@ -47,6 +50,7 @@ dir:
 direkt:
 - направляти
 - спрямовувати
+divers:
 doktor: доктор
 dolar: долар
 dolor:
@@ -63,6 +67,7 @@ efektiv:
 - діючий
 - дійсний
 ekskurs: екскурсія
+ekzempl:
 esper: сподіватися
 est: бути
 facil: легкий
@@ -108,6 +113,7 @@ fuŝ:
 - робити що-небудь наспіх
 - халтурити
 - псувати
+glas:
 gondol: ґондола
 graf: граф
 grand: великий
@@ -127,6 +133,8 @@ hor: година
 hotel: готель
 ide: ідея
 industri: індустрія
+infan:
+inform:
 instru:
 - учити
 - навчати
@@ -140,6 +148,7 @@ jar: рік
 jun: молодий
 kaf: кава
 kalv: лисий
+kant:
 kap: голова
 kapabl: здатний
 kapt:
@@ -165,11 +174,13 @@ kolor: колір
 komenc: починати
 kompren: розуміти
 kon: знати
+konsent:
 kontent: задоволений
 kontrol: контролювати
 kor: серце
 korp: тіло
 kost: коштувати
+kred:
 kri: кричати
 kuir: варити
 kuk: пиріг
@@ -187,14 +198,17 @@ lern: вчити
 leter: лист
 liber: вільний
 libr: книжка
+lingv:
 lok: місце
 long: довгий
+loĝ:
 lud: грати
 lum:
 - світло
 - сяйво
 - світило
 man: рука
+manier:
 mank:
 - бракувати
 - не вистачати
@@ -210,6 +224,8 @@ minut: хвилина
 mir: дивуватися
 moment: мить
 mon: гроші
+monat:
+mond:
 mont: гора
 montr: показувати
 mort: смерть
@@ -220,6 +236,7 @@ mov:
 - ворушити
 mult: багато
 muzik: музика
+naci:
 nask: народжувати
 natur: природа
 neces:
@@ -250,6 +267,7 @@ ord:
 - порядок
 - лад
 orel: вухо
+organiz:
 pac: мир
 pag: платити
 pan: хліб
@@ -285,12 +303,16 @@ plac:
 plan: плянувати
 plaĉ: подобатися
 plen: повний
+plor:
+pluv:
 polic: поліція
 pord: двері
 port:
 - нести
 - носити
 pov: могти
+poŝ:
+poŝt:
 pren: брати
 pret: готовий
 prezent: презентувати
@@ -298,12 +320,17 @@ problem: проблема
 proksim:
 - близький
 - ближній
+proksimum:
 promen:
 - гуляти
 - прогулюватися
 propon: пропонувати
 prov: пробувати
+publik:
+punkt:
+pur:
 rajt: право
+rakont:
 rapid: швидкий
 raport: рапортувати
 real: реальний
@@ -317,6 +344,8 @@ rest:
 ricev: отримувати
 rid: сміятись
 rigard: дивитись
+rilat:
+rimark:
 riĉ: багатий
 rol: роль
 ruĝ: червоний
@@ -324,6 +353,7 @@ salt: стрибати
 salut: вітати
 sam: той самий
 san: здоровий
+sat:
 saĝ: розумний
 sci: знати
 sek: сухий
@@ -331,11 +361,14 @@ sekret: секрет
 sekv: іти за
 semajn: тиждень
 send: посилати
+sent:
 serĉ: шукати
+seĝ: крісло
 si: себе
 sid: сидіти
 silent: мовчати
 simil: схожий
+simpl:
 sinjor: пан
 situaci: ситуація
 skrib: писати
@@ -361,6 +394,7 @@ temp: час
 temperatur: температура
 ten: тримати
 teror: терор
+terur:
 tim: боятись
 ton:
 - тон
@@ -370,7 +404,9 @@ trankvil: спокійний
 trink: пити (воду)
 trov: знаходити
 turk: турок
+tut:
 tuŝ: торкатись
+universal:
 urb: місто
 util:
 - корисний -придатний

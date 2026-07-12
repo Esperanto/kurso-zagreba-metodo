@@ -21,9 +21,6 @@ class UniqueKeyLoader(yaml.SafeLoader):
 
 
 class NormalizingDumper(yaml.SafeDumper):
-    def increase_indent(self, flow=False, indentless=False):
-        return super().increase_indent(flow, False)
-
     def ignore_aliases(self, data):
         return True
 

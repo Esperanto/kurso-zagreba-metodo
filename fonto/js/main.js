@@ -67,6 +67,37 @@ function selectNextTabbable(){
 	selectables.eq(nextIndex).focus();
 }
 
+function selectNextExerciseAnswer(current){
+	var answers = $('[data-auto-sekvo="respondoj"] input[data-solvo]:not([disabled])')
+		.filter(function(){
+			return $(this).is(':visible');
+		});
+	var currentIndex = answers.index(current);
+	if(currentIndex !== -1 && currentIndex + 1 < answers.length){
+		answers.eq(currentIndex + 1).focus();
+		return true;
+	}
+
+	var nextButton = $('ul.pager .next a[href]').filter(function(){
+		return $(this).is(':visible');
+	}).first();
+	if(nextButton.length === 1){
+		nextButton.focus();
+		return true;
+	}
+
+	return false;
+}
+
+function selectNextAfterCorrectAnswer(current){
+	if($(current).closest('[data-auto-sekvo="respondoj"]').length > 0
+		&& selectNextExerciseAnswer(current)){
+		return;
+	}
+
+	selectNextTabbable();
+}
+
 var gxustaSono = null;
 
 function gxustaSonoElemento() {
@@ -130,14 +161,14 @@ $('input[data-solvo]').on('input', function(evento) {
 
   if (correct) {
     $(this).removeClass('is-invalid').addClass('is-valid');
-		if (!jam_gxusta && estasUzantaEnigo(evento)) {
-			luduGxustanSonon();
+		if (estasUzantaEnigo(evento)) {
+			if (!jam_gxusta) {
+				luduGxustanSonon();
+			}
+			// Set focus on the current to not confuse it during the following step.
+			$(this).focus();
+			selectNextAfterCorrectAnswer(this);
 		}
-		// Set focus on the current
-		// to not confuse it during the following step. 
-		$(this).focus();
-		// Jump to the next input.
-		selectNextTabbable();
   } else {
     $(this).removeClass('is-valid').addClass('is-invalid');
   }

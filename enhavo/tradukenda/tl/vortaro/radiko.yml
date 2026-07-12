@@ -1,4 +1,5 @@
 afer: bagay
+ag: kumilos
 agrabl: kaaya-aya
 akcept: tanggapin
 akv: tubig
@@ -6,6 +7,7 @@ ali: iba
 alt: mataas
 am: mahalin
 amik: kaibigan
+aper: lumitaw
 arb: puno
 aspekt:
 - magmukha
@@ -14,6 +16,7 @@ atend: maghintay
 atent: magbigay-pansin
 aĉet: bumili
 aŭd: marinig
+aŭskult: makinig
 aŭt: kotse
 aŭtoritat: awtoridad
 bedaŭr: magsisi
@@ -41,6 +44,7 @@ dik:
 dimanĉ: Linggo
 dir: sabihin
 direkt: direksiyon
+divers: diverse
 doktor: doktor
 dolar: dolyar
 dolor:
@@ -54,6 +58,7 @@ doĝ: doge
 edz: asawang lalaki
 efektiv: talaga
 ekskurs: ekskursiyon
+ekzempl: example
 esper: umasa
 est: maging
 facil: madali
@@ -78,6 +83,7 @@ fot: litrato
 frat: kapatid na lalaki
 fru: maaga
 fuŝ: palpak na gawin
+glas: glass
 gondol: gondola
 graf:
 - konde
@@ -95,6 +101,8 @@ hor: oras
 hotel: hotel
 ide: ideya
 industri: industriya
+infan: child
+inform: magbigay-alam
 instru: magturo
 interes: maging kawili-wili
 invit: mag-anyaya
@@ -104,6 +112,7 @@ jar: taon
 jun: bata
 kaf: kape
 kalv: kalbo
+kant: kumanta
 kap: ulo
 kapabl: may kakayahan
 kapt: hulihin
@@ -120,11 +129,13 @@ kolor: kulay
 komenc: magsimula
 kompren: umunawa
 kon: makilala
+konsent: sumang-ayon
 kontent: kontento
 kontrol: suriin
 kor: puso
 korp: katawan
 kost: magkakahalaga
+kred: maniwala
 kri: sumigaw
 kuir: magluto
 kuk: keyk
@@ -134,6 +145,7 @@ lakt: gatas
 lamp: lampara
 land: bansa
 larĝ: malapad
+las: hayaan
 last: huli
 laŭt: malakas ang tunog
 lecion: aralin
@@ -142,11 +154,17 @@ lern: matuto
 leter: liham
 liber: malaya
 libr: aklat
+lingv: language
 lok: lugar
 long: mahaba
+loĝ:
+- mabuhay
+- manirahan
+- tumira
 lud: maglaro
 lum: liwanag
 man: kamay
+manier: manner
 mank: magkulang
 manĝ: kumain
 mar: dagat
@@ -159,12 +177,15 @@ minut: minuto
 mir: magtaka
 moment: sandali
 mon: pera
+monat: month
+mond: world
 mont: bundok
 montr: ipakita
 mort: mamatay
 mov: gumalaw
 mult: marami
 muzik: musika
+naci: nation
 nask: manganak
 natur: kalikasan
 neces: kailangan
@@ -180,6 +201,7 @@ onkl: tiyo
 opini: mag-isip
 ord: mag-ayos
 orel: tainga
+organiz: mag-organisa
 pac: kapayapaan
 pag: magbayad
 pan: tinapay
@@ -200,19 +222,30 @@ plac: plaza
 plan: magplano
 plaĉ: magustuhan
 plen: puno
+plor: umiyak
+pluv: umulan
 polic: pulis
 pord: pinto
 port: magdala
 pov: maaari
+poŝ: pocket
+poŝt: post
 pren: kumuha
 pret: handa
 prezent: iharap
 problem: problema
 proksim: malapit
+proksimum: approximate
 promen: maglakad-lakad
 propon: magmungkahi
 prov: subukan
+publik: public
+punkt: point
+pur:
+- clean
+- pure
 rajt: may karapatan
+rakont: magkuwento
 rapid: mabilis
 raport: ulat
 real: tunay
@@ -224,6 +257,8 @@ rest: manatili
 ricev: tumanggap
 rid: tumawa
 rigard: tumingin
+rilat: maugnay
+rimark: mapansin
 riĉ: mayaman
 rol: papel
 ruĝ: pula
@@ -231,6 +266,9 @@ salt: tumalon
 salut: bati
 sam: pareho
 san: malusog
+sat:
+- busog
+- mabusog
 saĝ: matalino
 sci: malaman
 sek: tuyo
@@ -238,11 +276,14 @@ sekret: lihim
 sekv: sumunod
 semajn: linggo
 send: magpadala
+sent: makaramdam
 serĉ: maghanap
+seĝ: chair
 si: panghalip na pabalik
 sid: umupo
 silent: tahimik
 simil: katulad
+simpl: simple
 sinjor:
 - ginoo
 - G.
@@ -256,6 +297,7 @@ star: tumayo
 strat: kalye
 subit: bigla
 sufiĉ: sapat
+suk: katas
 sukces: tagumpay
 sun: araw
 supr: itaas
@@ -267,13 +309,16 @@ temp: panahon
 temperatur: temperatura
 ten: hawakan
 teror: teror
+terur: kakila-kilabot
 tim: matakot
 ton: tono
 trankvil: payapa
 trink: uminom
 trov: makahanap
 turk: Turko
+tut: buo
 tuŝ: humipo
+universal: unibersal
 urb: lungsod
 util: kapaki-pakinabang
 uz: gamitin

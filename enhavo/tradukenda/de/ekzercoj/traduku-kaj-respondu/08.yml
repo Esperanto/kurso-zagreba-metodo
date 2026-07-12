@@ -8,7 +8,7 @@
   - la: dem
   - tagmanĝo: Mittagessen
   - '?'
-- demando: 'Was willst du trinken: Tee, etwas Kaffee, oder willst du nichts?'
+- demando: 'Was möchtest du trinken: Tee, Kaffee oder nichts?'
   rektatraduko:
   - Kion: Was
   - vi: du
@@ -26,7 +26,7 @@
   - volas: willst
   - nenion: nichts
   - '?'
-- demando: Weswegen hast du dich so plötzlich entschlossen, dein Zimmerchen zu erneuern?
+- demando: Warum hast du dich so plötzlich entschieden, dein kleines Zimmer zu renovieren?
   rektatraduko:
   - Kial: Warum
   - vi: du
@@ -37,7 +37,7 @@
   - vian: dein
   - ĉambreton: Zimmerchen
   - '?'
-- demando: Wem hast du die sauberen Gläser für den Wein gegeben?
+- demando: Wem hast du die sauberen Weingläser gegeben?
   rektatraduko:
   - Al: Zu
   - kiu: wem
@@ -50,7 +50,7 @@
   - la: den
   - vino: Wein
   - '?'
-- demando: Gegen wen hat dein Sportklub vor zwei Wochen gespielt?
+- demando: Gegen wen hat dein Sportverein vor zwei Wochen gespielt?
   rektatraduko:
   - Kontraŭ: Gegen
   - kiu: wen

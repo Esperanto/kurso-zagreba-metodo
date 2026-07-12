@@ -1,4 +1,4 @@
-- demando: Wie war dein altes Heim?
+- demando: Wie war dein altes Zuhause?
   rektatraduko:
   - Kia: Welcher Art
   - estis: war
@@ -6,7 +6,7 @@
   - malnova: altes
   - hejmo: Heim
   - '?'
-- demando: Welche Bücher hast du gelesen und sind sie gut?
+- demando: Welche Bücher hast du gelesen, und waren sie gut?
   rektatraduko:
   - Kiujn: Welche
   - librojn: Bücher
@@ -18,7 +18,7 @@
   - estas: sind
   - bonaj: gut
   - '?'
-- demando: Was machten Ana und Marko in Markos kleinem Zimmer?
+- demando: Was haben Ana und Marko in Markos kleinem Zimmer gemacht?
   rektatraduko:
   - Kion: Was
   - faris: machten
@@ -42,7 +42,7 @@
   - pri: über
   - amo: Liebe
   - '?'
-- demando: Wer wird mit dir zu deinem Heim gehen?
+- demando: Wer wird mit dir zu dir nach Hause gehen?
   rektatraduko:
   - Kiu: Wer
   - iros: wird gehen
@@ -52,7 +52,7 @@
   - via: deinem
   - hejmo: Heim
   - '?'
-- demando: Wie sind die Augen deiner Freundin?
+- demando: Wie sehen die Augen deiner Freundin aus?
   rektatraduko:
   - Kiaj: Welcher Art
   - estas: sind

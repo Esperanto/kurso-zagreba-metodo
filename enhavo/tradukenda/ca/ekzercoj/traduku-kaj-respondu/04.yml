@@ -25,11 +25,11 @@
     - kun: amb
     - fotoj: fotografies
     - '?'
-- demando: On vas anar després del dinar?
+- demando: On aniràs després del dinar?
   rektatraduko:
     - Kien: 'On'
     - vi: tu
-    - iros: vas anar
+    - iros: aniràs
     - post: després de
     - la: el
     - tagmanĝo: dinar

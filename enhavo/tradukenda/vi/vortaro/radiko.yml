@@ -1,6 +1,9 @@
 afer:
 - vật
 - việc
+ag:
+- hành động
+- cư xử
 agrabl: dễ chịu
 akcept: chấp nhận
 akv: nước
@@ -8,6 +11,7 @@ ali: khác
 alt: cao
 am: yêu dấu
 amik: bạn bè
+aper: xuất hiện
 arb: cây cối
 aspekt:
 - diện mạo
@@ -18,6 +22,7 @@ atent:
 - để ý
 aĉet: mua sắm
 aŭd: nghe thấy
+aŭskult: lắng nghe
 aŭt: xe hơi
 aŭtoritat: chính quyền
 bedaŭr: hối hận
@@ -47,6 +52,7 @@ dik:
 dimanĉ: chủ nhật
 dir: nói
 direkt: phương hướng
+divers: phong phú
 doktor: bác sĩ
 dolar: đô la
 dolor:
@@ -60,6 +66,7 @@ doĝ: tổng trấn (từ cũ)
 edz: người chồng
 efektiv: thật ra là
 ekskurs: đi chơi
+ekzempl: ví dụ
 esper: hy vọng
 est:
 - thì
@@ -86,6 +93,9 @@ fru: sớm
 fuŝ:
 - làm hỏng
 - phá đám
+glas:
+- ly nước
+- thuỷ tinh
 gondol: thuyền gondola
 graf: bá tước
 grand:
@@ -101,6 +111,8 @@ hor: giờ
 hotel: khách sạn
 ide: ý tưởng
 industri: kinh doanh
+infan: trẻ con
+inform: thông báo
 instru: giảng dạy
 interes:
 - quan tâm
@@ -112,6 +124,7 @@ jar: năm
 jun: trẻ trung
 kaf: cà phê
 kalv: hói
+kant: ca hát
 kap: cái đầu
 kapabl: có khả năng
 kapt: bắt lấy
@@ -130,6 +143,7 @@ kompren:
 - hiểu
 - nắm được
 kon: quen biết
+konsent: bằng lòng
 kontent: thoả mãn
 kontrol:
 - kiểm soát
@@ -137,6 +151,7 @@ kontrol:
 kor: con tim
 korp: thân thể
 kost: giá cả
+kred: tin tưởng
 kri: la hét
 kuir: nấu
 kuk: bánh kem
@@ -153,6 +168,7 @@ larĝ:
 - bao la
 - thênh thang
 - bát ngát
+las: để lại
 last: cuối cùng
 laŭt:
 - ầm ĩ
@@ -167,11 +183,18 @@ liber:
 - tự do
 - thoải mái
 libr: quyển sách
+lingv:
+- tiếng
+- ngôn ngữ
 lok: nơi chốn
 long: lâu, dài
+loĝ:
+- sống
+- cư trú
 lud: chơi đùa
 lum: ánh sáng
 man: bàn tay
+manier: cư xử
 mank: thiếu sót
 manĝ: ăn
 mar: biển cả
@@ -186,6 +209,8 @@ minut: phút
 mir: tự hỏi
 moment: khoảnh khắc
 mon: tiền bạc
+monat: tháng
+mond: thế giới
 mont: ngọn núi
 montr:
 - cho xem, cho thấy
@@ -196,6 +221,7 @@ mov:
 - rung động
 mult: nhiều
 muzik: âm nhạc
+naci: quốc gia
 nask: sinh ra
 natur: thiên nhiên
 neces: cần
@@ -217,6 +243,9 @@ ord:
 - ra lệnh, chỉ dẫn
 - sắp xếp
 orel: tai
+organiz:
+- sắp xếp
+- tổ chức
 pac: hoà bình
 pag: trả tiền
 pan: bánh mì
@@ -243,12 +272,18 @@ plan:
 - dự định
 plaĉ: vừa ý
 plen: đầy đủ
+plor:
+- khóc
+- than khóc
+pluv: mưa
 polic:
 - cảnh sát
 - khống chế
 pord: cánh cửa
 port: mang, đem
 pov: có thể
+poŝ: túi
+poŝt: bưu điện
 pren: lấy, cầm, nắm
 pret: sẵn sàng
 prezent:
@@ -256,6 +291,7 @@ prezent:
 - trình bày
 problem: vấn đề
 proksim: gần
+proksimum: xấp xỉ
 promen:
 - đi dạo
 - tản bộ
@@ -263,7 +299,19 @@ propon: đề nghị
 prov:
 - thử
 - cố gắng
+publik:
+- công cộng
+- công chúng
+- công khai
+punkt: điểm
+pur:
+- sạch sẽ
+- trong sạch
+- thuần tuý
 rajt: cho phép
+rakont:
+- kể
+- thuật lại
 rapid: nhanh
 raport: báo cáo
 real:
@@ -279,6 +327,10 @@ rest:
 ricev: nhận được
 rid: cười lên
 rigard: ngắm nhìn
+rilat:
+- liên quan
+- quan hệ
+rimark: để ý
 riĉ: giàu có
 rol: vai trò
 ruĝ: đỏ rực
@@ -286,6 +338,9 @@ salt: nhảy lên
 salut: xin chào
 sam: giống, như nhau
 san: khoẻ mạnh, lành mạnh
+sat:
+- đầy bụng
+- no nê
 saĝ:
 - không ngoan
 - uyên bác
@@ -301,11 +356,14 @@ sekv:
 - đi theo
 semajn: tuần lễ
 send: gửi đến
+sent: cảm giác
 serĉ: tìm kiếm
+seĝ: cái ghế
 si: đại từ phản thân
 sid: ngồi
 silent: tĩnh lặng
 simil: tương đồng
+simpl: đơn giản
 sinjor:
 - quý ngài
 - quý ngài
@@ -319,6 +377,7 @@ star: đứng
 strat: đường phố
 subit: đột ngột, đột nhiên
 sufiĉ: đủ
+suk: nước ép hoa quả
 sukces: thành công
 sun: mặt trời
 supr: ở trên
@@ -332,6 +391,10 @@ ten: nắm giữ
 teror:
 - kinh hãi
 - khiếp sợ
+terur:
+- khủng khiếp
+- ghê gớm
+- tệ hại
 tim: sợ hãi
 ton: giọng
 trankvil:
@@ -340,7 +403,9 @@ trankvil:
 trink: uống
 trov: đi tìm
 turk: Thổ Nhĩ Kỳ
+tut: toàn bộ
 tuŝ: đụng chạm
+universal: toàn thể
 urb: thành phố
 util: hữu ích
 uz: sử dụng

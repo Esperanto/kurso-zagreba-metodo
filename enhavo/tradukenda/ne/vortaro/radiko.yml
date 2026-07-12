@@ -1,4 +1,5 @@
 afer: कुरा
+ag: कार्य गर्नु
 agrabl: मनपर्ने
 akcept: स्वीकार गर्नु
 akv: पानी
@@ -6,6 +7,7 @@ ali: अर्को
 alt: अग्लो
 am: माया गर्नु
 amik: साथी
+aper: देखिनु
 arb: रुख
 aspekt:
 - देखिनु
@@ -14,6 +16,7 @@ atend: पर्खनु
 atent: ध्यान दिनु
 aĉet: किन्नु
 aŭd: सुन्नु
+aŭskult: सुन्नु
 aŭt: कार
 aŭtoritat: अधिकार
 bedaŭr: पछुताउनु
@@ -41,6 +44,7 @@ dik:
 dimanĉ: आइतबार
 dir: भन्नु
 direkt: दिशा
+divers: विभिन्न
 doktor: डाक्टर
 dolar: डलर
 dolor:
@@ -54,6 +58,7 @@ doĝ: डोज
 edz: पति
 efektiv: साँच्चै
 ekskurs: भ्रमण
+ekzempl: उदाहरण
 esper: आशा गर्नु
 est: हुनु
 facil: सजिलो
@@ -78,6 +83,7 @@ fot: फोटो
 frat: दाजु / भाइ
 fru: चाँडो
 fuŝ: बिगार्नु
+glas: गिलास
 gondol: गोन्डोला
 graf: ग्राफ
 grand:
@@ -93,6 +99,8 @@ hor: घण्टा
 hotel: होटल
 ide: विचार
 industri: उद्योग
+infan: बच्चा
+inform: जानकारी दिनु
 instru: पढाउनु
 interes: चासो जगाउनु
 invit: निम्ता दिनु
@@ -102,6 +110,7 @@ jar: वर्ष
 jun: जवान
 kaf: कफी
 kalv: कपाल नभएको
+kant: गाउनु
 kap: टाउको
 kapabl: सक्षम
 kapt: समात्नु
@@ -118,11 +127,13 @@ kolor: रङ
 komenc: सुरु गर्नु
 kompren: बुझ्नु
 kon: चिन्नु
+konsent: सहमत हुनु
 kontent: सन्तुष्ट
 kontrol: जाँच गर्नु
 kor: मुटु
 korp: शरीर
 kost: मूल्य पर्नु
+kred: विश्वास गर्नु
 kri: चिच्याउनु
 kuir: पकाउनु
 kuk: केक
@@ -140,11 +151,16 @@ lern: सिक्नु
 leter: पत्र
 liber: स्वतन्त्र
 libr: किताब
+lingv: भाषा
 lok: ठाउँ
 long: लामो
+loĝ:
+- बस्नु
+- निवास गर्नु
 lud: खेल्नु
 lum: प्रकाश
 man: हात
+manier: तरिका
 mank: कमी हुनु
 manĝ: खानु
 mar: समुद्र
@@ -159,12 +175,15 @@ moment: क्षण
 mon:
 - पैसा
 - धन
+monat: महिना
+mond: संसार
 mont: पहाड
 montr: देखाउनु
 mort: मर्नु
 mov: सर्नु
 mult: धेरै
 muzik: संगीत
+naci: राष्ट्र
 nask: जन्म दिनु
 natur: प्रकृति
 neces: आवश्यक
@@ -180,6 +199,7 @@ onkl: काका / मामा
 opini: विचार गर्नु
 ord: आदेश दिनु
 orel: कान
+organiz: आयोजना गर्नु
 pac: शान्ति
 pag: तिर्नु
 pan: रोटी
@@ -200,19 +220,32 @@ plac: चोक
 plan: योजना बनाउनु
 plaĉ: मन पर्नु
 plen: भरिएको
+plor:
+- रुनु
+- आँसु झार्नु
+pluv: पानी पर्नु
 polic: प्रहरी
 pord: ढोका
 port: बोक्नु
 pov: सक्नु
+poŝ: खल्ती
+poŝt: हुलाक
 pren: लिनु
 pret: तयार
 prezent: प्रस्तुत गर्नु
 problem: समस्या
 proksim: नजिक
+proksimum: लगभग
 promen: टहलिनु
 propon: प्रस्ताव गर्नु
 prov: प्रयास गर्नु
+publik: सार्वजनिक
+punkt: बिन्दु
+pur:
+- सफा
+- शुद्ध
 rajt: अधिकार हुनु
+rakont: सुनाउनु
 rapid: छिटो
 raport: रिपोर्ट गर्नु
 real: वास्तविक
@@ -224,6 +257,8 @@ rest: बाँकी रहनु
 ricev: प्राप्त गर्नु
 rid: हाँस्नु
 rigard: हेर्नु
+rilat: सम्बन्धित हुनु
+rimark: याद गर्नु
 riĉ: धनी
 rol: भूमिका
 ruĝ: रातो
@@ -231,6 +266,9 @@ salt: उफ्रनु
 salut: नमस्ते
 sam: उस्तै
 san: स्वस्थ
+sat:
+- अघाउनु
+- सन्तुष्ट हुनु
 saĝ: बुद्धिमान
 sci: थाहा पाउनु
 sek: सुक्खा
@@ -238,11 +276,14 @@ sekret: गोप्य
 sekv: पछ्याउनु
 semajn: हप्ता
 send: पठाउनु
+sent: महसुस गर्नु
 serĉ: खोज्नु
+seĝ: कुर्सी
 si: प्रत्यावर्ती सर्वनाम
 sid: बस्नु
 silent: मौन
 simil: समान
+simpl: सरल
 sinjor:
 - श्रीमान्
 - महोदय
@@ -267,13 +308,16 @@ temp: समय
 temperatur: तापक्रम
 ten: समात्नु
 teror: डर
+terur: भयानक
 tim: डराउनु
 ton: स्वर
 trankvil: शान्त
 trink: पिउनु
 trov: भेट्टाउनु
 turk: टर्की
+tut: पूरै
 tuŝ: छुनु
+universal: विश्वव्यापी
 urb: सहर
 util: उपयोगी
 uz: प्रयोग गर्नु

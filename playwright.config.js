@@ -1,7 +1,8 @@
 const { defineConfig } = require('@playwright/test');
 
 module.exports = defineConfig({
-  testDir: 'tests/ui',
+  testDir: 'testoj',
+  outputDir: 'testrezultoj',
   timeout: 30000,
   reporter: [['list']],
   use: {

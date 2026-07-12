@@ -1,4 +1,5 @@
 afer: معاملہ
+ag: عمل کرنا
 agrabl: خوشگوار
 akcept: قبول کرنا
 akv: پانی
@@ -6,6 +7,7 @@ ali: دوسرا
 alt: اونچا
 am: محبت کرنا
 amik: دوست
+aper: ظاہر ہونا
 arb: درخت
 aspekt:
 - دکھائی دینا
@@ -14,6 +16,7 @@ atend: انتظار کرنا
 atent: توجہ دینا
 aĉet: خریدنا
 aŭd: سننا
+aŭskult: سننا
 aŭt: کار
 aŭtoritat: اختیار
 bedaŭr: افسوس کرنا
@@ -41,6 +44,7 @@ dik:
 dimanĉ: اتوار
 dir: کہنا
 direkt: سمت
+divers: مختلف
 doktor: ڈاکٹر
 dolar: ڈالر
 dolor:
@@ -54,6 +58,7 @@ doĝ: ڈوج
 edz: شوہر
 efektiv: واقعی
 ekskurs: سیر
+ekzempl: مثال
 esper: امید کرنا
 est: ہونا
 facil: آسان
@@ -78,6 +83,7 @@ fot: تصویر
 frat: بھائی
 fru: جلدی
 fuŝ: خراب کرنا
+glas: گلاس
 gondol: گونڈولا
 graf:
 - کاؤنٹ
@@ -95,6 +101,8 @@ hor: گھنٹہ
 hotel: ہوٹل
 ide: خیال
 industri: صنعت
+infan: بچہ
+inform: اطلاع دینا
 instru: سکھانا
 interes: دلچسپی ہونا
 invit: دعوت دینا
@@ -104,6 +112,7 @@ jar: سال
 jun: نوجوان
 kaf: کافی
 kalv: گنجا
+kant: گانا
 kap: سر
 kapabl: قابل
 kapt: پکڑنا
@@ -120,11 +129,13 @@ kolor: رنگ
 komenc: شروع کرنا
 kompren: سمجھنا
 kon: جاننا
+konsent: راضی ہونا
 kontent: مطمئن
 kontrol: جانچنا
 kor: دل
 korp: جسم
 kost: قیمت ہونا
+kred: یقین کرنا
 kri: چیخنا
 kuir: پکانا
 kuk: کیک
@@ -142,11 +153,14 @@ lern: سیکھنا
 leter: خط
 liber: آزاد
 libr: کتاب
+lingv: زبان
 lok: جگہ
 long: لمبا
+loĝ: رہنا
 lud: کھیلنا
 lum: روشنی
 man: ہاتھ
+manier: طریقہ
 mank: کم ہونا
 manĝ: کھانا
 mar: سمندر
@@ -159,12 +173,15 @@ minut: منٹ
 mir: حیران ہونا
 moment: لمحہ
 mon: پیسہ
+monat: مہینہ
+mond: دنیا
 mont: پہاڑ
 montr: دکھانا
 mort: مرنا
 mov: حرکت کرنا
 mult: بہت
 muzik: موسیقی
+naci: قوم
 nask: جنم دینا
 natur: فطرت
 neces: ضروری ہونا
@@ -180,6 +197,7 @@ onkl: چچا
 opini: رائے
 ord: ترتیب
 orel: کان
+organiz: منظم کرنا
 pac: امن
 pag: ادا کرنا
 pan: روٹی
@@ -200,19 +218,28 @@ plac: چوک
 plan: منصوبہ بنانا
 plaĉ: پسند آنا
 plen: بھرا ہوا
+plor: رونا
+pluv: بارش ہونا
 polic: پولیس
 pord: دروازہ
 port: اٹھانا
 pov: سکنا
+poŝ: جیب
+poŝt: ڈاک
 pren: لینا
 pret: تیار
 prezent: پیش کرنا
 problem: مسئلہ
 proksim: نزدیک
+proksimum: تقریباً
 promen: چہل قدمی کرنا
 propon: تجویز دینا
 prov: کوشش کرنا
+publik: عوامی
+punkt: نقطہ
+pur: صاف
 rajt: حق ہونا
+rakont: کہانی سنانا
 rapid: تیز
 raport: رپورٹ کرنا
 real: حقیقی
@@ -224,6 +251,8 @@ rest: باقی رہنا
 ricev: وصول کرنا
 rid: ہنسنا
 rigard: دیکھنا
+rilat: تعلق رکھنا
+rimark: غور کرنا
 riĉ: امیر
 rol: کردار
 ruĝ: سرخ
@@ -231,6 +260,7 @@ salt: کودنا
 salut: سلام کرنا
 sam: ایک جیسا
 san: صحت مند
+sat: سیر ہونا
 saĝ: عقل مند
 sci: جاننا
 sek: خشک
@@ -238,11 +268,14 @@ sekret: راز
 sekv: پیروی کرنا
 semajn: ہفتہ
 send: بھیجنا
+sent: محسوس کرنا
 serĉ: تلاش کرنا
+seĝ: کرسی
 si: انعکاسی ضمیر
 sid: بیٹھنا
 silent: خاموش رہنا
 simil: ملتا جلتا
+simpl: سادہ
 sinjor:
 - جناب
 - صاحب
@@ -267,13 +300,16 @@ temp: وقت
 temperatur: درجہ حرارت
 ten: پکڑنا
 teror: دہشت
+terur: دہشت
 tim: ڈر
 ton: لہجہ
 trankvil: پرسکون
 trink: پینا
 trov: پانا
 turk: ترک
+tut: پورا
 tuŝ: چھونا
+universal: عالمی
 urb: شہر
 util: مفید
 uz: استعمال کرنا

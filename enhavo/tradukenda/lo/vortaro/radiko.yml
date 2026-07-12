@@ -1,4 +1,5 @@
 afer: ເລື່ອງ
+ag: ກະທຳ
 agrabl: ນ່າພໍໃຈ
 akcept: ຮັບ
 akv: ນ້ຳ
@@ -6,12 +7,14 @@ ali: ອື່ນ
 alt: ສູງ
 am: ຮັກ
 amik: ເພື່ອນ
+aper: ປາກົດ
 arb: ຕົ້ນໄມ້
 aspekt: ເບິ່ງຄື
 atend: ລໍຖ້າ
 atent: ໃສ່ໃຈ
 aĉet: ຊື້
 aŭd: ໄດ້ຍິນ
+aŭskult: ຟັງ
 aŭt: ລົດ
 aŭtoritat: ອຳນາດ
 bedaŭr: ເສຍໃຈ
@@ -39,6 +42,7 @@ dik:
 dimanĉ: ວັນອາທິດ
 dir: ເວົ້າ
 direkt: ທິດທາງ
+divers: ຫຼາກຫຼາຍ
 doktor: ໝໍ
 dolar: ໂດລາ
 dolor:
@@ -52,6 +56,7 @@ doĝ: ດອຈ
 edz: ຜົວ
 efektiv: ແທ້ຈິງ
 ekskurs: ການທັດສະນະ
+ekzempl: ຕົວຢ່າງ
 esper: ຫວັງ
 est:
 - ເປັນ
@@ -74,6 +79,7 @@ fot: ຮູບຖ່າຍ
 frat: ອ້າຍນ້ອງ
 fru: ໄວ
 fuŝ: ເຮັດພາດ
+glas: ແກ້ວ
 gondol: ເຮືອກອນໂດລາ
 graf: ທ່ານເຄົານຕ໌
 grand:
@@ -89,6 +95,8 @@ hor: ຊົ່ວໂມງ
 hotel: ໂຮງແຮມ
 ide: ຄວາມຄິດ
 industri: ອຸດສາຫະກຳ
+infan: ເດັກ
+inform: ແຈ້ງຂໍ້ມູນ
 instru: ສອນ
 interes: ສົນໃຈ
 invit: ເຊີນ
@@ -98,6 +106,7 @@ jar: ປີ
 jun: ໜຸ່ມ
 kaf: ກາເຟ
 kalv: ຫົວລ້ານ
+kant: ຮ້ອງເພງ
 kap: ຫົວ
 kapabl: ສາມາດ
 kapt: ຈັບ
@@ -114,11 +123,13 @@ kolor: ສີ
 komenc: ເລີ່ມ
 kompren: ເຂົ້າໃຈ
 kon: ຮູ້ຈັກ
+konsent: ຕົກລົງ
 kontent: ພໍໃຈ
 kontrol: ກວດ
 kor: ຫົວໃຈ
 korp: ຮ່າງກາຍ
 kost: ມີລາຄາ
+kred: ເຊື່ອ
 kri: ຮ້ອງ
 kuir: ແຕ່ງອາຫານ
 kuk: ເຄັກ
@@ -138,11 +149,14 @@ lern: ຮຽນ
 leter: ຈົດໝາຍ
 liber: ອິດສະລະ
 libr: ປຶ້ມ
+lingv: ພາສາ
 lok: ບ່ອນ
 long: ຍາວ
+loĝ: ອາໄສ
 lud: ຫຼິ້ນ
 lum: ແສງ
 man: ມື
+manier: ວິທີ
 mank: ຂາດ
 manĝ: ກິນ
 mar: ທະເລ
@@ -155,12 +169,15 @@ minut: ນາທີ
 mir: ປະຫຼາດໃຈ
 moment: ຊ່ວງເວລາ
 mon: ເງິນ
+monat: ເດືອນ
+mond: ໂລກ
 mont: ພູ
 montr: ສະແດງ
 mort: ຕາຍ
 mov: ເຄື່ອນ
 mult: ຫຼາຍ
 muzik: ດົນຕີ
+naci: ຊາດ
 nask: ໃຫ້ກຳເນີດ
 natur: ທຳມະຊາດ
 neces: ຈຳເປັນ
@@ -178,6 +195,7 @@ ord:
 - ສັ່ງ
 - ຈັດລຳດັບ
 orel: ຫູ
+organiz: ຈັດຕັ້ງ
 pac: ສັນຕິພາບ
 pag: ຈ່າຍ
 pan: ເຂົ້າຈີ່
@@ -198,19 +216,28 @@ plac: ຈະຕຸລັດ
 plan: ວາງແຜນ
 plaĉ: ຖືກໃຈ
 plen: ເຕັມ
+plor: ຮ້ອງໄຫ້
+pluv: ຝົນ
 polic: ຕຳຫຼວດ
 pord: ປະຕູ
 port: ຖື
 pov: ສາມາດ
+poŝ: ກະເປົາເສື້ອ
+poŝt: ໄປສະນີ
 pren: ເອົາ
 pret: ພ້ອມ
 prezent: ນຳສະເໜີ
 problem: ບັນຫາ
 proksim: ໃກ້
+proksimum: ປະມານ
 promen: ຍ່າງຫຼິ້ນ
 propon: ສະເໜີ
 prov: ລອງ
+publik: ສາທາລະນະ
+punkt: ຈຸດ
+pur: ສະອາດ
 rajt: ມີສິດ
+rakont: ເລົ່າ
 rapid: ໄວ
 raport: ລາຍງານ
 real: ຈິງ
@@ -222,6 +249,8 @@ rest: ເຫຼືອ
 ricev: ໄດ້ຮັບ
 rid: ຫົວເລາະ
 rigard: ເບິ່ງ
+rilat: ກ່ຽວຂ້ອງ
+rimark: ສັງເກດ
 riĉ: ຮັ່ງມີ
 rol: ບົດບາດ
 ruĝ: ແດງ
@@ -229,6 +258,7 @@ salt: ໂດດ
 salut: ທັກທາຍ
 sam: ດຽວກັນ
 san: ສຸຂະພາບດີ
+sat: ອີ່ມ
 saĝ: ສະຫຼາດ
 sci: ຮູ້
 sek: ແຫ້ງ
@@ -236,11 +266,14 @@ sekret: ລັບ
 sekv: ຕາມ
 semajn: ອາທິດ
 send: ສົ່ງ
+sent: ຮູ້ສຶກ
 serĉ: ຄົ້ນຫາ
+seĝ: ເກົ້າອີ້
 si: ຕົນເອງ
 sid: ນັ່ງ
 silent: ງຽບ
 simil: ຄ້າຍ
+simpl: ງ່າຍ
 sinjor:
 - ທ່ານ
 - ສຸພາບບຸລຸດ
@@ -265,13 +298,16 @@ temp: ເວລາ
 temperatur: ອຸນຫະພູມ
 ten: ຖືໄວ້
 teror: ການກໍ່ການຮ້າຍ
+terur: ນ່າຢ້ານ
 tim: ຢ້ານ
 ton: ນ້ຳສຽງ
 trankvil: ສະຫງົບ
 trink: ດື່ມ
 trov: ພົບ
 turk: ຕວກກີ
+tut: ທັງໝົດ
 tuŝ: ແຕະ
+universal: ສາກົນ
 urb: ເມືອງ
 util: ມີປະໂຫຍດ
 uz: ໃຊ້

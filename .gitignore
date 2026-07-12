@@ -8,6 +8,6 @@
 /node_modules/
 /pad
 /playwright-report/
-/test-results/
+/testrezultoj/
 /venv
 /.venv

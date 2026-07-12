@@ -1,15 +1,15 @@
-- demando: 누가 당신의 여자친구인가?
+- demando: 당신의 친구는 누구입니까?
   rektatraduko:
   - Kiu: 누구
   - estas: ~이다
   - via: 당신의
-  - amikino: 여자친구
+  - amikino: 여자 친구
   - '?'
-- demando: 당신의 친구 아나(Ana)는 지금 방에서 (글을) 쓰고 있습니까?
+- demando: 당신의 친구 아나는 지금 방에서 글을 쓰고 있습니까?
   rektatraduko:
   - Ĉu: ~인가?
   - via: 당신의
-  - amikino: 여자친구
+  - amikino: 여자 친구
   - Ana: 아나(Ana)
   - skribas: (글을) 쓰고 있다
   - nun: 지금

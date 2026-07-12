@@ -18,6 +18,7 @@ atend: 等待
 atent: 注意
 aĉet: 買
 aŭd: 聽
+aŭskult: 聽
 aŭt: 汽車
 aŭtoritat: 權威
 bedaŭr: 遺憾
@@ -47,6 +48,7 @@ dik:
 dimanĉ: 星期日
 dir: 說
 direkt: 方向
+divers: 各種
 doktor: 醫生
 dolar: 元 (錢)
 dolor: 痛
@@ -58,6 +60,7 @@ doĝ: 總督
 edz: 丈夫
 efektiv: 其實
 ekskurs: 出遊
+ekzempl: 例如
 esper: 希望
 est: 是
 facil: 容易
@@ -86,6 +89,9 @@ fot: 照片
 frat: 兄弟
 fru: 早
 fuŝ: 搞糟
+glas:
+- 玻璃
+- 玻璃杯
 gondol: 貢多拉
 graf: 伯爵
 grand:
@@ -106,6 +112,12 @@ id:
 - 後代
 ide: 想法
 industri: 工業
+infan:
+- 孩子
+- 兒童
+inform:
+- 告知
+- 資訊
 instru: 教
 interes: 興趣
 invit: 邀請
@@ -140,11 +152,13 @@ kompren:
 - 理解
 - 明白
 kon: 認得
+konsent: 同意
 kontent: 滿意
 kontrol: 檢查
 kor: 心
 korp: 身體
 kost: 價格
+kred:
 kri: 叫喊
 kuir: 煮
 kuk: 蛋糕
@@ -167,11 +181,14 @@ lern: 學
 leter: 書信
 liber: 自由
 libr: 書
+lingv: 語言
 lok: 地點
 long: 長
+loĝ: 居住
 lud: 玩
 lum: 光
 man: 手
+manier: 方式
 mank: 欠缺
 manĝ: 吃
 mar: 海
@@ -184,12 +201,17 @@ minut: 分鐘
 mir: 奇跡
 moment: 片刻
 mon: 錢
+monat: 月份
+mond: 世界
 mont: 山
 montr: 展示
 mort: 死
 mov: 移動
 mult: 多
 muzik: 音樂
+naci:
+- 國家
+- 民族
 nask: 生
 natur: 自然
 neces: 需要
@@ -205,6 +227,7 @@ onkl: 叔伯
 opini: 意見
 ord: 秩序
 orel: 耳朵
+organiz: 組織
 pac: 和平
 pag: 付款
 pan: 麵包
@@ -227,10 +250,16 @@ plac: 廣場
 plan: 計畫
 plaĉ: 討喜歡
 plen: 滿
+plor: 哭
+pluv:
+- 雨
+- 下雨
 polic: 警察
 pord: 門
 port: 携帶
 pov: 可以
+poŝ: 口袋
+poŝt: 郵件
 pren: 拿
 pret: 備好
 prezent: 呈現
@@ -238,10 +267,17 @@ problem:
 - 問題
 - 困難
 proksim: 近
+proksimum: 近
 promen: 散步
 propon: 建議
 prov: 嘗試
+publik: 公開
+punkt: 點
+pur: 乾淨
 rajt: 權益
+rakont:
+- 說話
+- 故事
 rapid: 快
 raport: 報告
 real: 真實
@@ -255,6 +291,8 @@ ricev:
 - 收到
 rid: 笑
 rigard: 看
+rilat: 關係
+rimark: 注意
 riĉ: 富
 rol: 角色
 ruĝ: 紅
@@ -264,6 +302,7 @@ salut:
 - 問好
 sam: 相同
 san: 健康
+sat: 飽
 saĝ: 智慧
 sci: 知道
 sek: 乾
@@ -275,10 +314,12 @@ send:
 - 寄
 sent: 感覺
 serĉ: 尋找
+seĝ: 座椅
 si: 反身代詞
 sid: 坐
 silent: 靜
 simil: 相似
+simpl: 簡單
 sinjor:
 - 紳士
 - 先生
@@ -306,13 +347,18 @@ temp: 時間
 temperatur: 溫度
 ten: 持
 teror: 恐怖
+terur: 可怕
 tim: 怕
 ton: 音調
 trankvil: 安
 trink: 飲, 喝
 trov: 找到
 turk: 土耳其
+tut: 完全
 tuŝ: 觸摸
+universal:
+- 環球
+- 全面
 urb: 城市
 util: 用處
 uz: 使用

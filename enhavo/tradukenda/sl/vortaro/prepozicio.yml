@@ -7,17 +7,17 @@ de: od
 dum: med
 ekde: od
 ekster: izven
-el: 
+el:
 - iz
 - od
 en: v
 inter: med
-je: 
+je:
 - ob
 - v
 - s
 - joker predlog ki nadomešča pomene, ki jih ne moremo izraziti s katerim koli drugim predlogom
-kontraŭ: 
+kontraŭ:
 - nasproti
 - proti
 krom: razne
@@ -29,7 +29,7 @@ per:
 - s
 - z
 por: za
-post: 
+post:
 - nato
 - potem
 pri: o

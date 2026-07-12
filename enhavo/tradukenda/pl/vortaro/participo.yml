@@ -2,7 +2,7 @@ ant: teraźniejszy czynny
 int: przeszły czynny
 ont: przyszły czynny
 unt: przypuszczający czynny
-at:  teraźniejszy bierny
-it:  przeszły bierny
-ot:  przyszły bierny
-ut:  przypuszczający bierny
+at: teraźniejszy bierny
+it: przeszły bierny
+ot: przyszły bierny
+ut: przypuszczający bierny

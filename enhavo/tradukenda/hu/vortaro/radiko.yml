@@ -78,7 +78,7 @@ hom: ember
 hor: óra
 hotel: szálloda
 ide: ötlet
-industri: ipar 
+industri: ipar
 instru: tanít
 interes: érdekes
 invit: meghív
@@ -90,19 +90,19 @@ kaf: kávé
 kalv: kopasz
 kap: fej
 kapabl: képes
-kapt: 
-  - elfog
-  - megfog
-kar: 
-  - kedves
-  - drága
+kapt:
+- elfog
+- megfog
+kar:
+- kedves
+- drága
 kastel: kastély
 kav: pince
 kelk: néhány
 kelner: pincér
-klar: 
-  - világos
-  - tiszta
+klar:
+- világos
+- tiszta
 klub: klub
 knab: fiú
 koler: méreg
@@ -119,9 +119,9 @@ kri: kiált
 kuir: főz
 kuk: süti
 kur: fut
-labor: 
-  - munka
-  - dolgoz
+labor:
+- munka
+- dolgoz
 lakt: tej
 lamp: lámpa
 land: ország
@@ -166,9 +166,9 @@ not: jegy
 nov: új
 odor: szag
 oft: gyakran
-okaz: 
-  - alkalom
-  - történik
+okaz:
+- alkalom
+- történik
 okul: szem
 onkl: nagybácsi
 opini: vélemény
@@ -196,27 +196,27 @@ plaĉ: tetszik
 plen: tele
 polic: rendőrség
 pord: ajtó
-port: 
-  - visz
-  - visel
-pov: 
-  - tud
-  - képes
-pren: 
-  - elvesz 
-  - megfog
+port:
+- visz
+- visel
+pov:
+- tud
+- képes
+pren:
+- elvesz
+- megfog
 pret: kész
 prezent: bemutat
 problem: probléma
 proksim: közel
 promen: sétál
-propon: 
-  - ajánl
-  - javasol
+propon:
+- ajánl
+- javasol
 prov: próbál
-rajt: 
-  - szabad
-  - jog
+rajt:
+- szabad
+- jog
 rapid: gyors
 raport: jelent
 real: valódi
@@ -261,7 +261,7 @@ sufiĉ: elég
 sukces: siker
 sun: nap
 supr: felső
-tabl: asztal 
+tabl: asztal
 tag: nap
 te: tea
 telefon: telefon
@@ -287,9 +287,9 @@ Veneci: Velence
 ver: igaz
 vesper: este
 vest: ruha
-vetur: 
-  - utazik
-  - közlekedik
+vetur:
+- utazik
+- közlekedik
 vid: lát
 vin: bor
 vir: ember
@@ -311,8 +311,8 @@ zorg: gond
 ĝust: helyes
 ĵet: dob
 ŝajn: tűnik
-ŝanĝ: 
-  - cserél
-  - vált
+ŝanĝ:
+- cserél
+- vált
 ŝat: szeret
 ŝip: hajó

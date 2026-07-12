@@ -1,51 +1,51 @@
 - demando: Rafiki yako wa kike ni nani?
   rektatraduko:
-    - Kiu: Nani
-    - estas: ni
-    - via: yako
-    - amikino: rafiki wa kike
-    - '?'
+  - Kiu: Nani
+  - estas: ni
+  - via: yako
+  - amikino: rafiki wa kike
+  - '?'
 - demando: Je, rafiki yako wa kike Ana anaandika sasa chumbani?
   rektatraduko:
-    - Ĉu: je
-    - via: yako
-    - amikino: rafiki wa kike
-    - Ana: Ana
-    - skribas: anaandika
-    - nun: sasa
-    - en: ndani ya
-    - la: kiarifu
-    - ĉambro: chumba
-    - '?'
+  - Ĉu: je
+  - via: yako
+  - amikino: rafiki wa kike
+  - Ana: Ana
+  - skribas: anaandika
+  - nun: sasa
+  - en: ndani ya
+  - la: kiarifu
+  - ĉambro: chumba
+  - '?'
 - demando: Je, rafiki wa baba yako anafanya kazi hotelini?
   rektatraduko:
-    - Ĉu: je
-    - la: kiarifu
-    - amiko: rafiki
-    - de: wa
-    - via: yako
-    - patro: baba
-    - laboras: anafanya kazi
-    - en: katika
-    - hotelo: hoteli
-    - '?'
+  - Ĉu: je
+  - la: kiarifu
+  - amiko: rafiki
+  - de: wa
+  - via: yako
+  - patro: baba
+  - laboras: anafanya kazi
+  - en: katika
+  - hotelo: hoteli
+  - '?'
 - demando: Kuna nini juu ya meza ya kazi katika chumba chetu?
   rektatraduko:
-    - Kio: Nini
-    - estas: kiko
-    - sur: juu ya
-    - la: kiarifu
-    - labortablo: meza ya kazi
-    - en: katika
-    - nia: chetu
-    - ĉambro: chumba
-    - '?'
+  - Kio: Nini
+  - estas: kiko
+  - sur: juu ya
+  - la: kiarifu
+  - labortablo: meza ya kazi
+  - en: katika
+  - nia: chetu
+  - ĉambro: chumba
+  - '?'
 - demando: Je, kuna kitabu cha kujifunzia Kiesperanto juu ya meza yako?
   rektatraduko:
-    - Ĉu: je
-    - Esperanto-lernolibro: kitabu cha kujifunzia Kiesperanto
-    - estas: kiko
-    - sur: juu ya
-    - via: yako
-    - tablo: meza
-    - '?'
+  - Ĉu: je
+  - Esperanto-lernolibro: kitabu cha kujifunzia Kiesperanto
+  - estas: kiko
+  - sur: juu ya
+  - via: yako
+  - tablo: meza
+  - '?'

@@ -4,18 +4,18 @@ io: imapas
 ĉio: llapan ima
 nenio: mana ima
 kiu:
-  - pi
-  - mayqin
+- pi
+- mayqin
 tiu:
-  - chay runa
-  - chay
+- chay runa
+- chay
 iu: pipas
 ĉiu:
-  - llapan runa
-  - sapa
+- llapan runa
+- sapa
 neniu:
-  - mana pipas
-  - manan mayqinpas
+- mana pipas
+- manan mayqinpas
 kie: maypi
 tie: chaypi
 ie: maypipas
@@ -43,15 +43,15 @@ iam: hayk'aqpas
 neniam: mana hayk'aqpas
 kiom: hayk'a
 tiom: chay hina achkha
-iom: 
-  - pisilla
-  - imallapas
-ĉiom: 
-  - llapallan
-  - tukuynin
+iom:
+- pisilla
+- imallapas
+ĉiom:
+- llapallan
+- tukuynin
 neniom:
-  - mana imapas
-  - mana hayk'apas
+- mana imapas
+- mana hayk'apas
 kies: pipaq
 ties: chaypa
 ies: pipaspa

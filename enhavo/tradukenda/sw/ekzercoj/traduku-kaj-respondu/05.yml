@@ -1,64 +1,59 @@
--
-  demando: Je, unaweza kujifunza kwa utulivu wakati mtu anaimba kwa furaha?
+- demando: Je, unaweza kujifunza kwa utulivu wakati mtu anaimba kwa furaha?
   rektatraduko:
-    - Ĉu: je
-    - vi: wewe
-    - povas: unaweza
-    - trankvile: kwa utulivu
-    - lerni: kujifunza
-    - ','
-    - dum: wakati
-    - iu: mtu fulani
-    - ĝoje: kwa furaha
-    - kantas: anaimba
-    - '?'
--
-  demando: Nani anajua lini na wapi tutaonana tena?
+  - Ĉu: je
+  - vi: wewe
+  - povas: unaweza
+  - trankvile: kwa utulivu
+  - lerni: kujifunza
+  - ','
+  - dum: wakati
+  - iu: mtu fulani
+  - ĝoje: kwa furaha
+  - kantas: anaimba
+  - '?'
+- demando: Nani anajua lini na wapi tutaonana tena?
   rektatraduko:
-    - Kiu: Nani
-    - scias: anajua
-    - ','
-    - kiam: lini
-    - kaj: na
-    - kie: wapi
-    - ni: sisi
-    - revidos: tutaona tena
-    - nin: sisi wenyewe
-    - '?'
--
-  demando: Ni saa ngapi sasa?
+  - Kiu: Nani
+  - scias: anajua
+  - ','
+  - kiam: lini
+  - kaj: na
+  - kie: wapi
+  - ni: sisi
+  - revidos: tutaona tena
+  - nin: sisi wenyewe
+  - '?'
+- demando: Ni saa ngapi sasa?
   rektatraduko:
-    - Kioma: Ya ngapi
-    - horo: saa
-    - estas: ni
-    - nun: sasa
-    - '?'
--
-  demando: Je, mtu fulani alikusaidia kufungua mlango wa nyumba ya zamani?
+  - Kioma: Ya ngapi
+  - horo: saa
+  - estas: ni
+  - nun: sasa
+  - '?'
+- demando: Je, mtu fulani alikusaidia kufungua mlango wa nyumba ya zamani?
   rektatraduko:
-    - Ĉu: je
-    - iu: mtu fulani
-    - helpis: alisaidia
-    - al: kwa
-    - vi: wewe
-    - malfermi: kufungua
-    - la: kiarifu
-    - pordon: mlango
-    - de: wa
-    - la: kiarifu
-    - malnova: ya zamani
-    - domo: nyumba
-    - '?'
--
-  demando: Kwa nini huna muda wa kunisikiliza kwa muda mrefu zaidi?
+  - Ĉu: je
+  - iu: mtu fulani
+  - helpis: alisaidia
+  - al: kwa
+  - vi: wewe
+  - malfermi: kufungua
+  - la: kiarifu
+  - pordon: mlango
+  - de: wa
+  - la: kiarifu
+  - malnova: ya zamani
+  - domo: nyumba
+  - '?'
+- demando: Kwa nini huna muda wa kunisikiliza kwa muda mrefu zaidi?
   rektatraduko:
-    - Kial: Kwa nini
-    - vi: wewe
-    - ne: si
-    - havas: una
-    - tempon: muda
-    - aŭskulti: kusikiliza
-    - min: mimi
-    - pli: zaidi
-    - longe: kwa muda mrefu
-    - '?'
+  - Kial: Kwa nini
+  - vi: wewe
+  - ne: si
+  - havas: una
+  - tempon: muda
+  - aŭskulti: kusikiliza
+  - min: mimi
+  - pli: zaidi
+  - longe: kwa muda mrefu
+  - '?'

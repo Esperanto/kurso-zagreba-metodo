@@ -1,67 +1,67 @@
 - demando: Kiedy cię znów zobaczę?
   rektatraduko:
-    - Kiam: Kiedy
-    - mi: ja
-    - revidos: zobaczę
-    - vin: cię
-    - '?'
+  - Kiam: Kiedy
+  - mi: ja
+  - revidos: zobaczę
+  - vin: cię
+  - '?'
 - demando: Jak długo uczysz się międzynarodowego języka?
   rektatraduko:
-    - Kiom: ile
-    - longe: długo
-    - vi: ty
-    - lernas: uczysz się
-    - la: (przedimek określony)
-    - Internacian: międzynarodowy
-    - Lingvon: język
-    - '?'
+  - Kiom: ile
+  - longe: długo
+  - vi: ty
+  - lernas: uczysz się
+  - la: (przedimek określony)
+  - Internacian: międzynarodowy
+  - Lingvon: język
+  - '?'
 - demando: Gdzie jest moja nowa książka z fotografiami?
   rektatraduko:
-    - Kie: Gdzie
-    - estas: jest
-    - mia: moja
-    - nova: nowa
-    - libro: książka
-    - kun: z
-    - fotoj: zdjęcia
-    - '?'
+  - Kie: Gdzie
+  - estas: jest
+  - mia: moja
+  - nova: nowa
+  - libro: książka
+  - kun: z
+  - fotoj: zdjęcia
+  - '?'
 - demando: Dokąd pójdziesz po obiedzie?
   rektatraduko:
-    - Kien: Dokąd
-    - vi: ty
-    - iros: pójdziesz
-    - post: po
-    - la: (przedimek określony)
-    - tagmanĝo: obiad
-    - '?'
+  - Kien: Dokąd
+  - vi: ty
+  - iros: pójdziesz
+  - post: po
+  - la: (przedimek określony)
+  - tagmanĝo: obiad
+  - '?'
 - demando: Czy można zamknąć drzwi pokoju, jeśli będzie zimno?
   rektatraduko:
-    - Ĉu: Czy
-    - oni: się
-    - povas: można
-    - fermi: zamknąć
-    - la: (przedimek określony)
-    - pordon: drzwi
-    - de: od
-    - la: (przedimek określony)
-    - ĉambro: pokój
-    - ','
-    - kiam: kiedy
-    - estas: jest
-    - malvarme: zimno
-    - '?'
+  - Ĉu: Czy
+  - oni: się
+  - povas: można
+  - fermi: zamknąć
+  - la: (przedimek określony)
+  - pordon: drzwi
+  - de: od
+  - la: (przedimek określony)
+  - ĉambro: pokój
+  - ','
+  - kiam: kiedy
+  - estas: jest
+  - malvarme: zimno
+  - '?'
 - demando: Jak długo się złościsz, jeśli ktoś zabierze ci dużo pieniędzy?
   rektatraduko:
-    - Kiom: ile
-    - longe: długo
-    - vi: ty
-    - koleras: się złościsz
-    - ','
-    - se: jeśli
-    - oni: ktoś
-    - forprenas: zabiera
-    - de: od
-    - vi: ty
-    - multan: dużo
-    - monon: pieniędzy
-    - '?'
+  - Kiom: ile
+  - longe: długo
+  - vi: ty
+  - koleras: się złościsz
+  - ','
+  - se: jeśli
+  - oni: ktoś
+  - forprenas: zabiera
+  - de: od
+  - vi: ty
+  - multan: dużo
+  - monon: pieniędzy
+  - '?'

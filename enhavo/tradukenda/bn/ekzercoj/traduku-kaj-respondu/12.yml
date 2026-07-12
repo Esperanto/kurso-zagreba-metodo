@@ -1,63 +1,63 @@
 - demando: আমরা কি যেখানে বা যখনই হোক আবার দেখা করব?
   rektatraduko:
-    - Ĉu: কি
-    - ni: আমরা
-    - revidos: আবার দেখব
-    - nin: পরস্পরকে
-    - ','
-    - kie: কোথায়
-    - ajn: -ই হোক
-    - kaj: এবং
-    - kiam: কখন
-    - ajn: -ই হোক
-    - '?'
+  - Ĉu: কি
+  - ni: আমরা
+  - revidos: আবার দেখব
+  - nin: পরস্পরকে
+  - ','
+  - kie: কোথায়
+  - ajn: -ই হোক
+  - kaj: এবং
+  - kiam: কখন
+  - ajn: -ই হোক
+  - '?'
 - demando: বইগুলোর অন্য অর্ধেক আমি কখন ফিরে পাব?
   rektatraduko:
-    - Kiam: কখন
-    - mi: আমি
-    - rericevos: ফিরে পাব
-    - la: নির্দিষ্ট আর্টিকেল
-    - alian: অন্য
-    - duonon: অর্ধেক
-    - de: এর
-    - la: নির্দিষ্ট আর্টিকেল
-    - libroj: বইগুলি
-    - '?'
+  - Kiam: কখন
+  - mi: আমি
+  - rericevos: ফিরে পাব
+  - la: নির্দিষ্ট আর্টিকেল
+  - alian: অন্য
+  - duonon: অর্ধেক
+  - de: এর
+  - la: নির্দিষ্ট আর্টিকেল
+  - libroj: বইগুলি
+  - '?'
 - demando: ওই কাজগুলির জন্য তোমার কি বছরের এক-চতুর্থাংশের বেশি লাগবে?
   rektatraduko:
-    - Ĉu: কি
-    - vi: তুমি
-    - bezonos: প্রয়োজন হবে
-    - pli: আরও
-    - ol: চেয়ে
-    - kvaronan: চতুর্থাংশ
-    - jaron: বছর
-    - por: জন্য
-    - tiuj: ওই
-    - laboroj: কাজগুলি
-    - '?'
+  - Ĉu: কি
+  - vi: তুমি
+  - bezonos: প্রয়োজন হবে
+  - pli: আরও
+  - ol: চেয়ে
+  - kvaronan: চতুর্থাংশ
+  - jaron: বছর
+  - por: জন্য
+  - tiuj: ওই
+  - laboroj: কাজগুলি
+  - '?'
 - demando: আমরা যত বেশি অপেক্ষা করি, তত বেশি ঠান্ডা কেন হয়?
   rektatraduko:
-    - Kial: কেন
-    - ju: যত
-    - pli: আরও
-    - longe: দীর্ঘ
-    - ni: আমরা
-    - atendas: অপেক্ষা করি
-    - ','
-    - des: তত
-    - pli: আরও
-    - malvarme: ঠান্ডা
-    - estas: হয়
-    - '?'
+  - Kial: কেন
+  - ju: যত
+  - pli: আরও
+  - longe: দীর্ঘ
+  - ni: আমরা
+  - atendas: অপেক্ষা করি
+  - ','
+  - des: তত
+  - pli: আরও
+  - malvarme: ঠান্ডা
+  - estas: হয়
+  - '?'
 - demando: তুমি কি যে কোনও পুরুষের সঙ্গে সন্তুষ্ট থাকতে?
   rektatraduko:
-    - Ĉu: কি
-    - vi: তুমি
-    - estus: থাকতে
-    - kontenta: সন্তুষ্ট
-    - kun: সঙ্গে
-    - iu: কেউ
-    - ajn: -ই হোক
-    - viro: পুরুষ
-    - '?'
+  - Ĉu: কি
+  - vi: তুমি
+  - estus: থাকতে
+  - kontenta: সন্তুষ্ট
+  - kun: সঙ্গে
+  - iu: কেউ
+  - ajn: -ই হোক
+  - viro: পুরুষ
+  - '?'

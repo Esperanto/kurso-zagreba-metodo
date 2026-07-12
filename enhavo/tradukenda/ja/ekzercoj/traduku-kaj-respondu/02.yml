@@ -1,64 +1,64 @@
 - demando: あなたの古い家はどんな様子でしたか？
   rektatraduko:
-    - Kia: どんな様子
-    - estis: でした
-    - via: あなたの
-    - malnova: 古い
-    - hejmo: 家
-    - '?'
+  - Kia: どんな様子
+  - estis: でした
+  - via: あなたの
+  - malnova: 古い
+  - hejmo: 家
+  - '?'
 - demando: どのような本をあなたは読みましたか、そしてそれらは良いですか。？
   rektatraduko:
-    - Kiujn: どのような（複数）
-    - librojn: 本を（複数）
-    - vi: あなたは
-    - legis: 読んだ
-    - kaj: そして
-    - ĉu: ～か？
-    - ili: それら
-    - estas: である
-    - bonaj: 良い
-    - '?'
+  - Kiujn: どのような（複数）
+  - librojn: 本を（複数）
+  - vi: あなたは
+  - legis: 読んだ
+  - kaj: そして
+  - ĉu: ～か？
+  - ili: それら
+  - estas: である
+  - bonaj: 良い
+  - '?'
 - demando: アナとマークはマークの小さな部屋の中で何をしましたか？
   rektatraduko:
-    - Kion: 何を
-    - faris: しました
-    - Ana: アナ
-    - kaj: と
-    - Marko: マーク
-    - en: 中で
-    - la: （定冠詞）
-    - malgranda: 小さな
-    - ĉambro: 部屋
-    - de: ～の
-    - Marko: マーク
-    - '?'
+  - Kion: 何を
+  - faris: しました
+  - Ana: アナ
+  - kaj: と
+  - Marko: マーク
+  - en: 中で
+  - la: （定冠詞）
+  - malgranda: 小さな
+  - ĉambro: 部屋
+  - de: ～の
+  - Marko: マーク
+  - '?'
 - demando: あなたは愛についての本を読むのが好きですか？
   rektatraduko:
-    - Ĉu: ～か？
-    - vi: あなたは
-    - ŝatas: 好き
-    - legi: 読むことが
-    - librojn: 本を（複数）
-    - pri: ～についての
-    - amo: 愛
-    - '?'
+  - Ĉu: ～か？
+  - vi: あなたは
+  - ŝatas: 好き
+  - legi: 読むことが
+  - librojn: 本を（複数）
+  - pri: ～についての
+  - amo: 愛
+  - '?'
 - demando: 誰があなたと一緒にあなたの家へ行きますか？
   rektatraduko:
-    - Kiu: 誰が
-    - iros: 行くだろう
-    - kun: ～と一緒に
-    - vi: あなた
-    - al: ～へ
-    - via: あなたの
-    - hejmo: 家
-    - '?'
+  - Kiu: 誰が
+  - iros: 行くだろう
+  - kun: ～と一緒に
+  - vi: あなた
+  - al: ～へ
+  - via: あなたの
+  - hejmo: 家
+  - '?'
 - demando: あなたのガールフレンドの目はどんな様子ですか？
   rektatraduko:
-    - Kiaj: どんな様子（複数）
-    - estas: である
-    - la: （定冠詞）
-    - okuloj: 目（複数）
-    - de: ～の
-    - via: あなたの
-    - amikino: ガールフレンド
-    - '?'
+  - Kiaj: どんな様子（複数）
+  - estas: である
+  - la: （定冠詞）
+  - okuloj: 目（複数）
+  - de: ～の
+  - via: あなたの
+  - amikino: ガールフレンド
+  - '?'

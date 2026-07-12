@@ -1,68 +1,68 @@
 - demando: Aswan musuq liwruyta qanman rikuchinayta munankichu?
   rektatraduko:
-    - Ĉu: Chu
-    - vi: qan
-    - deziras: munanki
-    - ','
-    - ke: chayta
-    - mi: ñuqa
-    - montru: rikuchisaq
-    - al: man
-    - vi: qan
-    - mian: ñuqaq
-    - plej: aswan
-    - novan: musuq
-    - libron: liwruta
-    - '?'
+  - Ĉu: Chu
+  - vi: qan
+  - deziras: munanki
+  - ','
+  - ke: chayta
+  - mi: ñuqa
+  - montru: rikuchisaq
+  - al: man
+  - vi: qan
+  - mian: ñuqaq
+  - plej: aswan
+  - novan: musuq
+  - libron: liwruta
+  - '?'
 - demando: Paqarin tutamanta imata mikhuyta munanki?
   rektatraduko:
-    - Kion: Imata
-    - vi: qan
-    - volas: munanki
-    - morgaŭ: paqarin
-    - matenmanĝi: tutamanta mikhuy
-    - '?'
+  - Kion: Imata
+  - vi: qan
+  - volas: munanki
+  - morgaŭ: paqarin
+  - matenmanĝi: tutamanta mikhuy
+  - '?'
 - demando: Hayk'aqtaq Marko chayamunqa, pichqa urapi icha pusaq urapichu?
   rektatraduko:
-    - Kiam: Hayk'aq
-    - Marko: Marko
-    - alvenos: chayamunqa
-    - ','
-    - je: pi
-    - la: riqsisqa
-    - kvina: pichqa kaq
-    - aŭ: utaq
-    - je: pi
-    - la: riqsisqa
-    - oka: pusaq kaq
-    - horo: ura
-    - '?'
+  - Kiam: Hayk'aq
+  - Marko: Marko
+  - alvenos: chayamunqa
+  - ','
+  - je: pi
+  - la: riqsisqa
+  - kvina: pichqa kaq
+  - aŭ: utaq
+  - je: pi
+  - la: riqsisqa
+  - oka: pusaq kaq
+  - horo: ura
+  - '?'
 - demando: Hayk'aqtaq llapan ayllu ñuqata allin ruwaq nispa sutichasqanta repararqanki?
   rektatraduko:
-    - Kiam: Hayk'aq
-    - vi: qan
-    - rimarkis: repararqanki
-    - ','
-    - ke: chayta
-    - la: riqsisqa
-    - tuta: llapan
-    - familio: ayllu
-    - nomas: sutichan
-    - min: ñuqata
-    - bonfarulo: allin ruwaq
-    - '?'
+  - Kiam: Hayk'aq
+  - vi: qan
+  - rimarkis: repararqanki
+  - ','
+  - ke: chayta
+  - la: riqsisqa
+  - tuta: llapan
+  - familio: ayllu
+  - nomas: sutichan
+  - min: ñuqata
+  - bonfarulo: allin ruwaq
+  - '?'
 - demando: Qanman apachimusqay huch'uy liwruqa qanpaq allinchu karqa?
   rektatraduko:
-    - Ĉu: Chu
-    - la: riqsisqa
-    - libreto: huch'uy liwru
-    - ','
-    - kiun: mayqinta
-    - mi: ñuqa
-    - sendis: apachirqani
-    - al: man
-    - vi: qan
-    - ','
-    - estis: karqa
-    - utila: allinpaq
-    - '?'
+  - Ĉu: Chu
+  - la: riqsisqa
+  - libreto: huch'uy liwru
+  - ','
+  - kiun: mayqinta
+  - mi: ñuqa
+  - sendis: apachirqani
+  - al: man
+  - vi: qan
+  - ','
+  - estis: karqa
+  - utila: allinpaq
+  - '?'

@@ -1,77 +1,71 @@
-- 
-  demando: Chi aveva il libro che stavi aspettando da più di due anni?
-  rektatraduko: 
-    - Kiu: Chi
-    - havis: aveva
-    - la: il
-    - libron: libro
-    - ',' 
-    - kiun: che
-    - vi: tu
-    - atendis: aspettavi
-    - pli: più
-    - ol: di (comparativo)
-    - du: due
-    - jarojn: anni
-    - '?'
-- 
-  demando: Vuoi che ti mostri la mia più cara fotografia?
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - vi: tu
-    - volas: vuoi
-    - ','
-    - ke: che
-    - mi: io
-    - montru: mostro
-    - al: a
-    - vi: te
-    - mian: mia
-    - plej: la più
-    - karan: cara
-    - foton: foto
-    - '?'
-- 
-  demando: Dove hai comprato quel vestito?
-  rektatraduko: 
-    - Kie: Dove
-    - vi: tu
-    - aĉetis: hai comprato?
-    - tiun: quel
-    - vestaĵon: vestito
-    - '?'
-- 
-  demando: Dove andrete di domenica, se sarà un giorno soleggiato?
-  rektatraduko: 
-    - Kien: (Verso) dove
-    - vi: voi
-    - iros: andrete
-    - dimanĉe: di domenica
-    - ',' 
-    - se: se
-    - estos: sarà
-    - suna: soleggiato
-    - tago: giorno
-    - '?'
-- 
-  demando: Tuo fratello se ne è già andato via?
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - via: tuo
-    - frato: fratello
-    - jam: già
-    - ekiris: andato via
-    - '?'
-- 
-  demando: Dov'è l'acqua che tu stesso hai portato?
-  rektatraduko: 
-    - Kie: Dove
-    - estas: è
-    - la: la
-    - akvo: acqua
-    - ',' 
-    - kiun: la quale
-    - vi: tu
-    - mem: stesso
-    - kunportis: hai portato con te
-    - '?'
+- demando: Chi aveva il libro che stavi aspettando da più di due anni?
+  rektatraduko:
+  - Kiu: Chi
+  - havis: aveva
+  - la: il
+  - libron: libro
+  - ','
+  - kiun: che
+  - vi: tu
+  - atendis: aspettavi
+  - pli: più
+  - ol: di (comparativo)
+  - du: due
+  - jarojn: anni
+  - '?'
+- demando: Vuoi che ti mostri la mia più cara fotografia?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - vi: tu
+  - volas: vuoi
+  - ','
+  - ke: che
+  - mi: io
+  - montru: mostro
+  - al: a
+  - vi: te
+  - mian: mia
+  - plej: la più
+  - karan: cara
+  - foton: foto
+  - '?'
+- demando: Dove hai comprato quel vestito?
+  rektatraduko:
+  - Kie: Dove
+  - vi: tu
+  - aĉetis: hai comprato?
+  - tiun: quel
+  - vestaĵon: vestito
+  - '?'
+- demando: Dove andrete di domenica, se sarà un giorno soleggiato?
+  rektatraduko:
+  - Kien: (Verso) dove
+  - vi: voi
+  - iros: andrete
+  - dimanĉe: di domenica
+  - ','
+  - se: se
+  - estos: sarà
+  - suna: soleggiato
+  - tago: giorno
+  - '?'
+- demando: Tuo fratello se ne è già andato via?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - via: tuo
+  - frato: fratello
+  - jam: già
+  - ekiris: andato via
+  - '?'
+- demando: Dov'è l'acqua che tu stesso hai portato?
+  rektatraduko:
+  - Kie: Dove
+  - estas: è
+  - la: la
+  - akvo: acqua
+  - ','
+  - kiun: la quale
+  - vi: tu
+  - mem: stesso
+  - kunportis: hai portato con te
+  - '?'

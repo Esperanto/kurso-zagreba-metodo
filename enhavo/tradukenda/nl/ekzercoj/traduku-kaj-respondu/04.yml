@@ -1,67 +1,67 @@
 - demando: Wanneer zal ik je/u weerzien?
   rektatraduko:
-    - Kiam: Wanneer
-    - mi: ik
-    - revidos: zal weerzien
-    - vin: jou/u
-    - '?'
+  - Kiam: Wanneer
+  - mi: ik
+  - revidos: zal weerzien
+  - vin: jou/u
+  - '?'
 - demando: Hoe lang leer je de Internationale Taal?
   rektatraduko:
-    - Kiom: hoeveel
-    - longe: lang
-    - vi: je
-    - lernas: leert
-    - la: de
-    - Internacian: Internationale
-    - Lingvon: Taal
-    - '?'
+  - Kiom: hoeveel
+  - longe: lang
+  - vi: je
+  - lernas: leert
+  - la: de
+  - Internacian: Internationale
+  - Lingvon: Taal
+  - '?'
 - demando: Waar is mijn nieuwe boek met foto's?
   rektatraduko:
-    - Kie: Waar
-    - estas: is
-    - mia: mijn
-    - nova: nieuw
-    - libro: boek
-    - kun: met
-    - fotoj: foto's
-    - '?'
+  - Kie: Waar
+  - estas: is
+  - mia: mijn
+  - nova: nieuw
+  - libro: boek
+  - kun: met
+  - fotoj: foto's
+  - '?'
 - demando: Waarheen zal je na het middagmaal gaan?
   rektatraduko:
-    - Kien: Waarheen
-    - vi: je
-    - iros: zal gaan
-    - post: na
-    - la: het
-    - tagmanĝo: middagmaal
-    - '?'
+  - Kien: Waarheen
+  - vi: je
+  - iros: zal gaan
+  - post: na
+  - la: het
+  - tagmanĝo: middagmaal
+  - '?'
 - demando: Kan men de deur van de kamer sluiten, als het koud is?
   rektatraduko:
-    - Ĉu: Of
-    - oni: men
-    - povas: kan
-    - fermi: sluiten
-    - la: de
-    - pordon: deur
-    - de: van
-    - la: de
-    - ĉambro: kamer
-    - ','
-    - kiam: als
-    - estas: is
-    - malvarme: koud
-    - '?'
+  - Ĉu: Of
+  - oni: men
+  - povas: kan
+  - fermi: sluiten
+  - la: de
+  - pordon: deur
+  - de: van
+  - la: de
+  - ĉambro: kamer
+  - ','
+  - kiam: als
+  - estas: is
+  - malvarme: koud
+  - '?'
 - demando: Hoe lang ben je boos als iemand veel geld van je wegneemt?
   rektatraduko:
-    - Kiom: hoeveel
-    - longe: lang
-    - vi: je
-    - koleras: bent boos
-    - ','
-    - se: als (indien)
-    - oni: iemand
-    - forprenas: wegneemt
-    - de: van
-    - vi: je
-    - multan: veel
-    - monon: geld
-    - '?'
+  - Kiom: hoeveel
+  - longe: lang
+  - vi: je
+  - koleras: bent boos
+  - ','
+  - se: als (indien)
+  - oni: iemand
+  - forprenas: wegneemt
+  - de: van
+  - vi: je
+  - multan: veel
+  - monon: geld
+  - '?'

@@ -2,7 +2,7 @@ ant: şimdiki zaman aktif
 int: geçmiş zaman aktif
 ont: gelecek zaman aktif
 unt: şartlı zaman aktif
-at:  şimdiki zaman pasif
-it:  geçmiş zaman pasif
-ot:  gelecek zaman pasif
-ut:  şartlı zaman pasif
+at: şimdiki zaman pasif
+it: geçmiş zaman pasif
+ot: gelecek zaman pasif
+ut: şartlı zaman pasif

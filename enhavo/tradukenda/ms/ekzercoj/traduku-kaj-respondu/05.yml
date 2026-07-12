@@ -1,64 +1,59 @@
--
-  demando: Bolehkah anda belajar dengan tenang manakala seseorang menyanyi dengan gembira?
-  rektatraduko: 
-    - Ĉu: Bolehkah
-    - vi: anda
-    - povas: boleh
-    - trankvile: tenang
-    - lerni: belajar
-    - ','
-    - dum: manakala
-    - iu: seseorang
-    - ĝoje: gembira
-    - kantas: menyanyi
-    - '?'
--
-  demando: Siapa tahu bila dan di mana kita akan melihat satu sama lain lagi?
-  rektatraduko: 
-    - Kiu: Siapa
-    - scias: tahu
-    - ','
-    - kiam: bila
-    - kaj: dan
-    - kie: di mana
-    - ni: kita
-    - revidos: akan lihat
-    - nin: kami
-    - '?'
--
-  demando: Pukul berapa sekarang?
-  rektatraduko: 
-    - Kioma: berapa
-    - horo: jam
-    - estas: ialah
-    - nun: sekarang
-    - '?'
--
-  demando: Adakah sesiapa telah membantu awak membukakan pintu di rumah lama?
-  rektatraduko: 
-    - Ĉu: Adakah
-    - iu: seseorang
-    - helpis: telah membantu
-    - al: ke, kepada
-    - vi: awak
-    - malfermi: membuka
-    - la: itu,ini
-    - pordon: pintu
-    - de: yang
-    - la: ini, itu
-    - malnova: lama
-    - domo: rumah
-    - '?'
--
-  demando: Mengapa awak tidak mempunyai masa untuk mendengar kepada saya lagi?
-  rektatraduko: 
-    - Kial: kenapa
-    - vi: awak
-    - ne: tidak
-    - havas: mempunyai
-    - tempon: masa
-    - aŭskulti: mendengar
-    - min: saya
-    - pli: lagi
-    - longe: long
-    - '?'
+- demando: Bolehkah anda belajar dengan tenang manakala seseorang menyanyi dengan gembira?
+  rektatraduko:
+  - Ĉu: Bolehkah
+  - vi: anda
+  - povas: boleh
+  - trankvile: tenang
+  - lerni: belajar
+  - ','
+  - dum: manakala
+  - iu: seseorang
+  - ĝoje: gembira
+  - kantas: menyanyi
+  - '?'
+- demando: Siapa tahu bila dan di mana kita akan melihat satu sama lain lagi?
+  rektatraduko:
+  - Kiu: Siapa
+  - scias: tahu
+  - ','
+  - kiam: bila
+  - kaj: dan
+  - kie: di mana
+  - ni: kita
+  - revidos: akan lihat
+  - nin: kami
+  - '?'
+- demando: Pukul berapa sekarang?
+  rektatraduko:
+  - Kioma: berapa
+  - horo: jam
+  - estas: ialah
+  - nun: sekarang
+  - '?'
+- demando: Adakah sesiapa telah membantu awak membukakan pintu di rumah lama?
+  rektatraduko:
+  - Ĉu: Adakah
+  - iu: seseorang
+  - helpis: telah membantu
+  - al: ke, kepada
+  - vi: awak
+  - malfermi: membuka
+  - la: itu,ini
+  - pordon: pintu
+  - de: yang
+  - la: ini, itu
+  - malnova: lama
+  - domo: rumah
+  - '?'
+- demando: Mengapa awak tidak mempunyai masa untuk mendengar kepada saya lagi?
+  rektatraduko:
+  - Kial: kenapa
+  - vi: awak
+  - ne: tidak
+  - havas: mempunyai
+  - tempon: masa
+  - aŭskulti: mendengar
+  - min: saya
+  - pli: lagi
+  - longe: long
+  - '?'

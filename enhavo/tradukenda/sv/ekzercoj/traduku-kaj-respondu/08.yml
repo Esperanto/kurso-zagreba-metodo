@@ -1,86 +1,80 @@
-- 
-  demando: Vem ska göra rent i köket efter middagen?
-  rektatraduko: 
-    - Kiu: Vem
-    - purigos: kommer att göra rent
-    - la: (bestämd artikel)
-    - kuirejon: kök
-    - post: efter
-    - la: (bestämd artikel)
-    - tagmanĝo: lunch
-    - '?'
-- 
-  demando: "Vad vill du dricka: te, lite kaffe eller ingenting?"
-  rektatraduko: 
-    - Kion: Vad
-    - vi: du
-    - volas: vill
-    - trinki: dricka
-    - ':' 
-    - teon: te
-    - ',' 
-    - iom: lite
-    - da: utav
-    - kafo: kaffe
-    - aŭ: eller
-    - ĉu: (frågepartikeln)
-    - vi: du
-    - volas: vill
-    - nenion: ingenting
-    - '?'
-- 
-  demando: Varför bestämde du dig så plötsligt för att renovera ditt lilla rum?
-  rektatraduko: 
-    - Kial: Varför
-    - vi: du
-    - tiel: så
-    - subite: plötsligt
-    - decidis: bestämde
-    - renovigi: renovera
-    - vian: ditt
-    - ĉambreton: litet rum
-    - '?'
-- 
-  demando: Till vem gav du de rena vinglasen?
-  rektatraduko: 
-    - Al: Till
-    - kiu: vem
-    - vi: du
-    - donis: gav
-    - la: (bestämd artikel)
-    - purajn: rena
-    - glasojn: glas
-    - por: för 
-    - la: (bestämd artikel)
-    - vino: vin
-    - '?'
-- 
-  demando: Mot vem spelade din idrottsklubb för två veckor sedan?
-  rektatraduko: 
-    - Kontraŭ: Mot
-    - kiu: vem
-    - ludis: spelade
-    - via: ditt
-    - sportklubo: sportklubb
-    - antaŭ: före
-    - du: två
-    - semajnoj: veckor
-    - '?'
-- 
-  demando: Ser du ofta polisen som bor i bostaden ovanför dig?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - vi: du
-    - ofte: ofta
-    - vidas: ser
-    - la: (bestämd artikel)
-    - policiston: polis
-    - ',' 
-    - kiu: som
-    - loĝas: bor
-    - en: i 
-    - la: (bestämd artikel)
-    - loĝejo: bostad
-    - super: ovanför
-    - vi: du
-    - '?'
+- demando: Vem ska göra rent i köket efter middagen?
+  rektatraduko:
+  - Kiu: Vem
+  - purigos: kommer att göra rent
+  - la: (bestämd artikel)
+  - kuirejon: kök
+  - post: efter
+  - la: (bestämd artikel)
+  - tagmanĝo: lunch
+  - '?'
+- demando: 'Vad vill du dricka: te, lite kaffe eller ingenting?'
+  rektatraduko:
+  - Kion: Vad
+  - vi: du
+  - volas: vill
+  - trinki: dricka
+  - ':'
+  - teon: te
+  - ','
+  - iom: lite
+  - da: utav
+  - kafo: kaffe
+  - aŭ: eller
+  - ĉu: (frågepartikeln)
+  - vi: du
+  - volas: vill
+  - nenion: ingenting
+  - '?'
+- demando: Varför bestämde du dig så plötsligt för att renovera ditt lilla rum?
+  rektatraduko:
+  - Kial: Varför
+  - vi: du
+  - tiel: så
+  - subite: plötsligt
+  - decidis: bestämde
+  - renovigi: renovera
+  - vian: ditt
+  - ĉambreton: litet rum
+  - '?'
+- demando: Till vem gav du de rena vinglasen?
+  rektatraduko:
+  - Al: Till
+  - kiu: vem
+  - vi: du
+  - donis: gav
+  - la: (bestämd artikel)
+  - purajn: rena
+  - glasojn: glas
+  - por: för
+  - la: (bestämd artikel)
+  - vino: vin
+  - '?'
+- demando: Mot vem spelade din idrottsklubb för två veckor sedan?
+  rektatraduko:
+  - Kontraŭ: Mot
+  - kiu: vem
+  - ludis: spelade
+  - via: ditt
+  - sportklubo: sportklubb
+  - antaŭ: före
+  - du: två
+  - semajnoj: veckor
+  - '?'
+- demando: Ser du ofta polisen som bor i bostaden ovanför dig?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - vi: du
+  - ofte: ofta
+  - vidas: ser
+  - la: (bestämd artikel)
+  - policiston: polis
+  - ','
+  - kiu: som
+  - loĝas: bor
+  - en: i
+  - la: (bestämd artikel)
+  - loĝejo: bostad
+  - super: ovanför
+  - vi: du
+  - '?'

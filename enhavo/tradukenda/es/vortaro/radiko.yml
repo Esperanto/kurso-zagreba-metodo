@@ -1,6 +1,6 @@
 afer:
- - asunto
- - cosa
+- asunto
+- cosa
 agrabl: agradable
 akcept: aceptar
 akv: agua
@@ -10,42 +10,42 @@ am: amar
 amik: amigo
 arb: árbol
 aspekt:
- - aspecto
- - apariencia
+- aspecto
+- apariencia
 atend: esperar
 atent:
- - estar atento
- - prestar atención
+- estar atento
+- prestar atención
 aĉet: comprar
 aŭd: oír
 aŭt:
- - auto
- - automóvil
+- auto
+- automóvil
 aŭtoritat: autoridad
 bedaŭr: lamentar
 bel:
- - bonito
- - bello
- - lindo
+- bonito
+- bello
+- lindo
 best: animal
 bezon: necesitar
 bien:
- - finca
- - terreno
+- finca
+- terreno
 bon: bueno
 branĉ: rama
 bru: ruido
 buŝ: boca
 cert:
- - cierto
- - seguro
+- cierto
+- seguro
 dank: agradecer (a)
 daŭr: durar
 decid: decidir
 demand: preguntar
 dev:
- - tener que
- - deber
+- tener que
+- deber
 dezir: desear
 diabl: diablo
 dik: gordo
@@ -61,15 +61,15 @@ don: dar
 dorm: dormir
 doĝ: dogo
 edz:
- - esposo
- - marido
+- esposo
+- marido
 efektiv: efectivo
 ekskurs: excursión
 esper: esperar (esperanza)
 est:
- - ser
- - estar
- - haber
+- ser
+- estar
+- haber
 facil: fácil
 fakt: hecho
 fal: caer
@@ -80,7 +80,7 @@ fart:
 - sentirse
 feliĉ: feliz
 ferm: cerrar
-fin: 
+fin:
 - acabar
 - terminar
 flank: lado
@@ -101,12 +101,12 @@ grav: importante
 halt: parar(se)
 hav: tener
 hejm:
- - hogar
- - casa
+- hogar
+- casa
 help: ayudar
 hom:
- - persona
- - ser humano
+- persona
+- ser humano
 hor: hora
 hotel: hotel
 ide: idea
@@ -123,49 +123,49 @@ kalv: calvo
 kap: cabeza
 kapabl: capaz
 kapt:
- - atrapar
- - capturar
+- atrapar
+- capturar
 kar: querido
 kastel: castillo
 kav: cavidad
 kelk:
- - algún
- - algunos
+- algún
+- algunos
 kelner: camarero
 klar: claro
 klub: club
 knab: chico
 koler:
- - enojarse
+- enojarse
 kolor: color
 komenc: empezar
 kompren: entender
 kon: conocer
 kontent: contento
 kontrol:
- - controlar
- - comprobar
+- controlar
+- comprobar
 kor: corazón
 korp: cuerpo
 kost: costar
 kri: gritar
 kuir: cocinar
 kuk:
- - pastel
- - torta
+- pastel
+- torta
 kur: correr
 labor: trabajar
 lakt: leche
 lamp: lámpara
 land:
- - país
- - territorio
+- país
+- territorio
 larĝ: ancho
 last: último
 laŭt: fuerte
 lecion:
- - lección
- - clase
+- lección
+- clase
 leg: leer
 lern: aprender
 leter: carta
@@ -182,8 +182,8 @@ mar: mar
 maten: mañana
 memor: recordar
 met:
- - poner
- - meter
+- poner
+- meter
 mez: medio
 milit: guerra
 minut: minuto
@@ -192,8 +192,8 @@ moment: momento
 mon: dinero
 mont: montaña
 montr:
- - mostrar
- - enseñar
+- mostrar
+- enseñar
 mort: morir
 mov: mover
 mult: mucho
@@ -208,8 +208,8 @@ nov: nuevo
 odor: olor
 oft: a menudo
 okaz:
- - ocurrir
- - pasar
+- ocurrir
+- pasar
 okul: ojo
 onkl: tío
 opini: opinar
@@ -234,20 +234,20 @@ pied: pie
 plac: plaza
 plan: plan
 plaĉ:
- - agradar
- - gustar
+- agradar
+- gustar
 plen: lleno
 polic: policía
 pord: puerta
 port:
- - llevar
- - traer
+- llevar
+- traer
 post: después de, detrás de
 pov: poder
 pren: tomar
 pret:
- - listo
- - preparado
+- listo
+- preparado
 prezent: presentar
 problem: problema
 proksim: cercano
@@ -296,8 +296,8 @@ star: permanecer de pie
 strat: calle
 subit: repentino
 sufiĉ:
- - suficiente
- - bastante
+- suficiente
+- bastante
 sukces: tener éxito
 sun: sol
 supr: arriba
@@ -310,8 +310,8 @@ temperatur: temperatura
 ten: sostener
 teror: terror
 tim:
- - temer
- - tener miedo
+- temer
+- tener miedo
 ton: nota
 trankvil: tranquilo
 trink: beber
@@ -343,8 +343,8 @@ vol: querer
 vort: palabra
 voĉ: voz
 zorg:
- - preocuparse
- - encargarse
+- preocuparse
+- encargarse
 ĉambr: habitación
 ĉef: jefe
 ĝen: molestar

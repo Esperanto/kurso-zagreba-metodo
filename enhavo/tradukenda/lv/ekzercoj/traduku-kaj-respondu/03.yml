@@ -1,72 +1,72 @@
 - demando: Vai viesmīļi lielās viesnīcās saprot daudz valodu?
   rektatraduko:
-    - Ĉu: Vai
-    - kelneroj: viesmīļi
-    - en: iekšā
-    - grandaj: lielās
-    - hoteloj: viesnīcās
-    - komprenas: saprot
-    - multajn: daudzas
-    - lingvojn: valodas
-    - '?'
+  - Ĉu: Vai
+  - kelneroj: viesmīļi
+  - en: iekšā
+  - grandaj: lielās
+  - hoteloj: viesnīcās
+  - komprenas: saprot
+  - multajn: daudzas
+  - lingvojn: valodas
+  - '?'
 - demando: Vai tu zini, ka Anai patīk jauna dziesma par nabagu un skaistu meiteni?
   rektatraduko:
-    - Ĉu: Vai
-    - vi: tu
-    - scias: zini
-    - ','
-    - ĉu: vai
-    - Ana: Ana
-    - ŝatas: patīk
-    - la: tas
-    - novan: jaunu
-    - kanton: dziesmu
-    - pri: par
-    - malriĉulo: nabags
-    - kaj: un
-    - belulino: skaistule
-    - '?'
+  - Ĉu: Vai
+  - vi: tu
+  - scias: zini
+  - ','
+  - ĉu: vai
+  - Ana: Ana
+  - ŝatas: patīk
+  - la: tas
+  - novan: jaunu
+  - kanton: dziesmu
+  - pri: par
+  - malriĉulo: nabags
+  - kaj: un
+  - belulino: skaistule
+  - '?'
 - demando: Kur tu redzēji vecu vīru un jaunieti, kuri nesa lielu galdu?
   rektatraduko:
-    - Kie: Kur
-    - vi: tu
-    - vidis: redzēji
-    - la: tas
-    - maljunulon: vecu vīru
-    - kaj: un
-    - la: tas
-    - junulon: jaunieti
-    - ','
-    - kiuj: kuri
-    - portis: nesa
-    - grandan: lielu
-    - tablon: galdu
-    - '?'
+  - Kie: Kur
+  - vi: tu
+  - vidis: redzēji
+  - la: tas
+  - maljunulon: vecu vīru
+  - kaj: un
+  - la: tas
+  - junulon: jaunieti
+  - ','
+  - kiuj: kuri
+  - portis: nesa
+  - grandan: lielu
+  - tablon: galdu
+  - '?'
 - demando: Kā notika, ka tu atkal atnāci pie mums bez brāļiem un māsām?
   rektatraduko:
-    - Kiel: Kā
-    - okazis: notika
-    - ','
-    - ke: ka
-    - vi: tu
-    - denove: atkal
-    - venis: atnāci
-    - al: uz
-    - ni: mums
-    - sen: bez
-    - gefratoj: brāļi un māsas
-    - '?'
+  - Kiel: Kā
+  - okazis: notika
+  - ','
+  - ke: ka
+  - vi: tu
+  - denove: atkal
+  - venis: atnāci
+  - al: uz
+  - ni: mums
+  - sen: bez
+  - gefratoj: brāļi un māsas
+  - '?'
 - demando: Vai ar jaunās mācību grāmatas palīdzību tu vari diezgan ātri iemācīties Esperanto?
   rektatraduko:
-    - Ĉu: Vai
-    - vi: tu
-    - povas: vari
-    - per: ar palīdzību
-    - la: tā
-    - nova: jaunā
-    - lernolibro: mācību grāmata
-    - sufiĉe: diezgan
-    - rapide: ātri
-    - lerni: mācīties
-    - Esperanton: Esperanto
-    - '?'
+  - Ĉu: Vai
+  - vi: tu
+  - povas: vari
+  - per: ar palīdzību
+  - la: tā
+  - nova: jaunā
+  - lernolibro: mācību grāmata
+  - sufiĉe: diezgan
+  - rapide: ātri
+  - lerni: mācīties
+  - Esperanton: Esperanto
+  - '?'

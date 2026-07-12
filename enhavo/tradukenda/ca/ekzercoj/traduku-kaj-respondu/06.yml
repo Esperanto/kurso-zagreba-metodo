@@ -1,68 +1,68 @@
 - demando: Desitges que t'ensenyi el meu llibre més nou?
   rektatraduko:
-    - Ĉu: Que
-    - vi: Tu
-    - deziras: desitges
-    - ','
-    - ke: que
-    - mi: jo
-    - montru: t'ensenyi
-    - al: a
-    - vi: tu
-    - mian: el meu
-    - plej: més
-    - novan: nou
-    - libron: llibre
-    - '?'
+  - Ĉu: Que
+  - vi: Tu
+  - deziras: desitges
+  - ','
+  - ke: que
+  - mi: jo
+  - montru: t'ensenyi
+  - al: a
+  - vi: tu
+  - mian: el meu
+  - plej: més
+  - novan: nou
+  - libron: llibre
+  - '?'
 - demando: Què vols esmorzar demà?
   rektatraduko:
-    - Kion: Què
-    - vi: tu
-    - volas: vols
-    - morgaŭ: demà
-    - matenmanĝi: esmorzar
-    - '?'
+  - Kion: Què
+  - vi: tu
+  - volas: vols
+  - morgaŭ: demà
+  - matenmanĝi: esmorzar
+  - '?'
 - demando: Quan arribarà el Marko, a les cinc o a les vuit?
   rektatraduko:
-    - Kiam: Quan
-    - Marko: Marc
-    - alvenos: arribarà
-    - ','
-    - je: a
-    - la: les
-    - kvina: cinc
-    - aŭ: o
-    - je: a
-    - la: les
-    - oka: vuit
-    - horo: hores
-    - '?'
+  - Kiam: Quan
+  - Marko: Marc
+  - alvenos: arribarà
+  - ','
+  - je: a
+  - la: les
+  - kvina: cinc
+  - aŭ: o
+  - je: a
+  - la: les
+  - oka: vuit
+  - horo: hores
+  - '?'
 - demando: Quan et vas adonar que tota la família em diu benefactor?
   rektatraduko:
-    - Kiam: Quan
-    - vi: tu
-    - rimarkis: et vas adonar
-    - ','
-    - ke: que
-    - la: la
-    - tuta: sencera
-    - familio: família
-    - nomas: em diu
-    - min: a mi
-    - bonfarulo: benefactor
-    - '?'
+  - Kiam: Quan
+  - vi: tu
+  - rimarkis: et vas adonar
+  - ','
+  - ke: que
+  - la: la
+  - tuta: sencera
+  - familio: família
+  - nomas: em diu
+  - min: a mi
+  - bonfarulo: benefactor
+  - '?'
 - demando: Et va ser útil el llibret que et vaig enviar?
   rektatraduko:
-    - Ĉu: Que
-    - la: el
-    - libreto: llibret
-    - ','
-    - kiun: que
-    - mi: jo
-    - sendis: vaig enviar
-    - al: a
-    - vi: tu
-    - ','
-    - estis: va ser
-    - utila: útil
-    - '?'
+  - Ĉu: Que
+  - la: el
+  - libreto: llibret
+  - ','
+  - kiun: que
+  - mi: jo
+  - sendis: vaig enviar
+  - al: a
+  - vi: tu
+  - ','
+  - estis: va ser
+  - utila: útil
+  - '?'

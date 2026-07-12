@@ -1,51 +1,47 @@
-- 
-  demando: "L'amicizia ti rende più felice dell'amore?"
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - amikeco: amicizia
-    - pli: più
-    - feliĉigas: rende felice
-    - vin: te
-    - ol: rispetto
-    - la: "l'"
-    - amo: amore
-    - '?'
-- 
-  demando: Quanto spesso scrivi lettere alle tue amiche in Italia?
-  rektatraduko: 
-    - Kiel: Quanto (Come)
-    - ofte: spesso
-    - vi: tu
-    - skribas: scrivi
-    - leterojn: lettere
-    - al: a
-    - viaj: tue
-    - amikinoj: amiche
-    - en: in
-    - Italio: Italia
-    - '?'
-- 
-  demando: È cambiato il rapporto tra te ed il tuo insegnante?
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - la: il
-    - rilato: rapporto
-    - inter: tra
-    - vi: te
-    - kaj: e
-    - via: tuo
-    - instruisto: insegnante
-    - ŝanĝiĝis: è cambiato
-    - '?'
-- 
-  demando: "Sai già abbastanza bene l'esperanto?"
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - vi: tu
-    - nun: adesso
-    - jam: già
-    - scias: sai
-    - Esperanton: esperanto
-    - sufiĉe: abbastanza
-    - bone: bene
-    - '?'
+- demando: L'amicizia ti rende più felice dell'amore?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - amikeco: amicizia
+  - pli: più
+  - feliĉigas: rende felice
+  - vin: te
+  - ol: rispetto
+  - la: l'
+  - amo: amore
+  - '?'
+- demando: Quanto spesso scrivi lettere alle tue amiche in Italia?
+  rektatraduko:
+  - Kiel: Quanto (Come)
+  - ofte: spesso
+  - vi: tu
+  - skribas: scrivi
+  - leterojn: lettere
+  - al: a
+  - viaj: tue
+  - amikinoj: amiche
+  - en: in
+  - Italio: Italia
+  - '?'
+- demando: È cambiato il rapporto tra te ed il tuo insegnante?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - la: il
+  - rilato: rapporto
+  - inter: tra
+  - vi: te
+  - kaj: e
+  - via: tuo
+  - instruisto: insegnante
+  - ŝanĝiĝis: è cambiato
+  - '?'
+- demando: Sai già abbastanza bene l'esperanto?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - vi: tu
+  - nun: adesso
+  - jam: già
+  - scias: sai
+  - Esperanton: esperanto
+  - sufiĉe: abbastanza
+  - bone: bene
+  - '?'

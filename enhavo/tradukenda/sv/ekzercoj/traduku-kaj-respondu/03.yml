@@ -1,72 +1,72 @@
 - demando: Förstår kyparna i de stora hotellen många språk?
   rektatraduko:
-    - Ĉu: (frågepartikeln)
-    - kelneroj: kypare
-    - en: i
-    - grandaj: stora
-    - hoteloj: hotell
-    - komprenas: förstår
-    - multajn: många
-    - lingvojn: språk
-    - '?'
+  - Ĉu: (frågepartikeln)
+  - kelneroj: kypare
+  - en: i
+  - grandaj: stora
+  - hoteloj: hotell
+  - komprenas: förstår
+  - multajn: många
+  - lingvojn: språk
+  - '?'
 - demando: Vet du om Ana gillar den nya sången om den fattige och den vackra flickan?
   rektatraduko:
-    - Ĉu: (frågepartikeln)
-    - vi: du
-    - scias: vet
-    - ','
-    - ĉu: om
-    - Ana: Ana
-    - ŝatas: gillar
-    - la: den
-    - novan: ny
-    - kanton: sång
-    - pri: om
-    - malriĉulo: fattig person
-    - kaj: och
-    - belulino: vacker kvinna
-    - '?'
+  - Ĉu: (frågepartikeln)
+  - vi: du
+  - scias: vet
+  - ','
+  - ĉu: om
+  - Ana: Ana
+  - ŝatas: gillar
+  - la: den
+  - novan: ny
+  - kanton: sång
+  - pri: om
+  - malriĉulo: fattig person
+  - kaj: och
+  - belulino: vacker kvinna
+  - '?'
 - demando: Var såg ni den gamle och den unge mannen som bar på ett stort bord?
   rektatraduko:
-    - Kie: Var
-    - vi: du
-    - vidis: såg
-    - la: den
-    - maljunulon: gammal person
-    - kaj: och
-    - la: den
-    - junulon: ung person
-    - ','
-    - kiuj: som
-    - portis: bar
-    - grandan: stort
-    - tablon: bord
-    - '?'
+  - Kie: Var
+  - vi: du
+  - vidis: såg
+  - la: den
+  - maljunulon: gammal person
+  - kaj: och
+  - la: den
+  - junulon: ung person
+  - ','
+  - kiuj: som
+  - portis: bar
+  - grandan: stort
+  - tablon: bord
+  - '?'
 - demando: Hur kom det sig att ni kom till oss utan era syskon igen?
   rektatraduko:
-    - Kiel: Hur
-    - okazis: hände
-    - ','
-    - ke: att
-    - vi: ni
-    - denove: igen
-    - venis: kom
-    - al: till
-    - ni: vi
-    - sen: utan
-    - gefratoj: syskon
-    - '?'
+  - Kiel: Hur
+  - okazis: hände
+  - ','
+  - ke: att
+  - vi: ni
+  - denove: igen
+  - venis: kom
+  - al: till
+  - ni: vi
+  - sen: utan
+  - gefratoj: syskon
+  - '?'
 - demando: Kan du, med den nya läroboken, lära dig esperanto tillräckligt fort?
   rektatraduko:
-    - Ĉu: (frågepartikeln)
-    - vi: du
-    - povas: kan
-    - per: med
-    - la: (bestämd artikel)
-    - nova: nya
-    - lernolibro: läroboken
-    - sufiĉe: tillräckligt
-    - rapide: fort
-    - lerni: lära sig
-    - Esperanton: esperanto
-    - '?'
+  - Ĉu: (frågepartikeln)
+  - vi: du
+  - povas: kan
+  - per: med
+  - la: (bestämd artikel)
+  - nova: nya
+  - lernolibro: läroboken
+  - sufiĉe: tillräckligt
+  - rapide: fort
+  - lerni: lära sig
+  - Esperanton: esperanto
+  - '?'

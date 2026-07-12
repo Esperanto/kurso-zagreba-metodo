@@ -1,86 +1,80 @@
-- 
-  demando: ?מי הולך לנקות את המטבח אחרי ארוחת הצהרים
-  rektatraduko: 
-    - Kiu: מי
-    - purigos: הולך לנקות
-    - la: ה
-    - kuirejon: מטבח
-    - post: אחרי
-    - la: ה
-    - tagmanĝo: ארוחת צהרים
-    - '?'
-- 
-  demando: ?מה אתה רוצה לשתות תה, קצת קפה או האם אתה רוצה שום דבר
-  rektatraduko: 
-    - Kion: מה
-    - vi: אתה
-    - volas: רוצה
-    - trinki: לשתות
-    - ':' 
-    - teon: תה
-    - ',' 
-    - iom: קצת
-    - da: של
-    - kafo: קפה
-    - aŭ: או
-    - ĉu: האם
-    - vi: אתה
-    - volas: רוצה
-    - nenion: שום דבר
-    - '?'
-- 
-  demando: ?למה אתה כל כך בפתאומיות החלטת לחדש את החדר הקטן שלך
-  rektatraduko: 
-    - Kial: למה
-    - vi: אתה
-    - tiel: כל כך
-    - subite: בפתאומיות
-    - decidis: החלטת
-    - renovigi: לחדש
-    - vian: את שלך
-    - ĉambreton: חדר קטן
-    - '?'
-- 
-  demando: ?למי נתת את הכוסות הנקיות של היין
-  rektatraduko: 
-    - Al: אל
-    - kiu: מי
-    - vi: אתה
-    - donis: נתת
-    - la: ה
-    - purajn: נקיות
-    - glasojn: כוסות
-    - por: בשביל 
-    - la: ה
-    - vino: יין
-    - '?'
-- 
-  demando: ?נגד מי שיחק מועדון הספורט שלך לפני שבועיים
-  rektatraduko: 
-    - Kontraŭ: נגד
-    - kiu: מי
-    - ludis: שיחק
-    - via: שלך
-    - sportklubo: מועדון ספורט
-    - antaŭ: לפהי
-    - du: שני
-    - semajnoj: שבועות
-    - '?'
-- 
-  demando: ?האם אתה לעתים קרובות רואה את השוטר שגר בדירה מעליך
-  rektatraduko:  
-    - Ĉu: האם
-    - vi: אתה
-    - ofte: לעתים קרובות
-    - vidas: רואה 
-    - la: ה
-    - policiston: שוטר
-    - ',' 
-    - kiu: אשר
-    - loĝas: גר
-    - en: ב 
-    - la: ה
-    - loĝejo: דירה
-    - super: מעל
-    - vi: אתה
-    - '?'
+- demando: ?מי הולך לנקות את המטבח אחרי ארוחת הצהרים
+  rektatraduko:
+  - Kiu: מי
+  - purigos: הולך לנקות
+  - la: ה
+  - kuirejon: מטבח
+  - post: אחרי
+  - la: ה
+  - tagmanĝo: ארוחת צהרים
+  - '?'
+- demando: ?מה אתה רוצה לשתות תה, קצת קפה או האם אתה רוצה שום דבר
+  rektatraduko:
+  - Kion: מה
+  - vi: אתה
+  - volas: רוצה
+  - trinki: לשתות
+  - ':'
+  - teon: תה
+  - ','
+  - iom: קצת
+  - da: של
+  - kafo: קפה
+  - aŭ: או
+  - ĉu: האם
+  - vi: אתה
+  - volas: רוצה
+  - nenion: שום דבר
+  - '?'
+- demando: ?למה אתה כל כך בפתאומיות החלטת לחדש את החדר הקטן שלך
+  rektatraduko:
+  - Kial: למה
+  - vi: אתה
+  - tiel: כל כך
+  - subite: בפתאומיות
+  - decidis: החלטת
+  - renovigi: לחדש
+  - vian: את שלך
+  - ĉambreton: חדר קטן
+  - '?'
+- demando: ?למי נתת את הכוסות הנקיות של היין
+  rektatraduko:
+  - Al: אל
+  - kiu: מי
+  - vi: אתה
+  - donis: נתת
+  - la: ה
+  - purajn: נקיות
+  - glasojn: כוסות
+  - por: בשביל
+  - la: ה
+  - vino: יין
+  - '?'
+- demando: ?נגד מי שיחק מועדון הספורט שלך לפני שבועיים
+  rektatraduko:
+  - Kontraŭ: נגד
+  - kiu: מי
+  - ludis: שיחק
+  - via: שלך
+  - sportklubo: מועדון ספורט
+  - antaŭ: לפהי
+  - du: שני
+  - semajnoj: שבועות
+  - '?'
+- demando: ?האם אתה לעתים קרובות רואה את השוטר שגר בדירה מעליך
+  rektatraduko:
+  - Ĉu: האם
+  - vi: אתה
+  - ofte: לעתים קרובות
+  - vidas: רואה
+  - la: ה
+  - policiston: שוטר
+  - ','
+  - kiu: אשר
+  - loĝas: גר
+  - en: ב
+  - la: ה
+  - loĝejo: דירה
+  - super: מעל
+  - vi: אתה
+  - '?'

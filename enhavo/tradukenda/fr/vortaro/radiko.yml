@@ -60,7 +60,7 @@ famili: famille
 far: faire
 fart: se porter
 feliĉ: heureux
-ferm: fermer 
+ferm: fermer
 fin: finir
 flank: côté
 foj: fois
@@ -75,7 +75,7 @@ gondol: gondole
 graf: comte
 grand: grand
 grav: important
-halt: "s'arrêter"
+halt: s'arrêter
 hav: avoir
 hejm: foyer
 help: aider
@@ -149,7 +149,7 @@ met: mettre
 mez: milieu
 milit: guerre
 minut: minute
-mir: "s'étonner"
+mir: s'étonner
 moment: moment
 mon:
 - argent
@@ -241,8 +241,8 @@ sid: être assis
 silent: silence
 simil: semblable
 sinjor:
-  - monsieur
-  - M.
+- monsieur
+- M.
 situaci: situation
 skrib: écrire
 sol: seul
@@ -256,7 +256,7 @@ sufiĉ: suffisant
 sukces: succès
 sun: soleil
 supr: au-dessus
-tabl: table 
+tabl: table
 tag: jour
 te: thé
 telefon: téléphone

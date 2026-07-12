@@ -1,49 +1,49 @@
 - demando: Sama bolehkah anda membawa ubat kakak saya ?
   rektatraduko:
-    - Ĉu: apakah,sama boleh
-    - vi: awak
-    - povas: boleh
-    - kunporti: membawa
-    - la: itu,ini
-    - sanigilon: ubat
-    - de: yang
-    - mia: saya punya
-    - fratino: kakak/adik perempuan
-    - '?'
+  - Ĉu: apakah,sama boleh
+  - vi: awak
+  - povas: boleh
+  - kunporti: membawa
+  - la: itu,ini
+  - sanigilon: ubat
+  - de: yang
+  - mia: saya punya
+  - fratino: kakak/adik perempuan
+  - '?'
 - demando: Bilakah awak membeli alat muzik itu ?
   rektatraduko:
-    - Kiam: Bila
-    - vi: awak
-    - aĉetis: telah membeli
-    - tiun: itu
-    - muzikilon: alat muzik
-    - '?'
+  - Kiam: Bila
+  - vi: awak
+  - aĉetis: telah membeli
+  - tiun: itu
+  - muzikilon: alat muzik
+  - '?'
 - demando: Siapa yang telah menggunakan kunci saya kali terakhir?
   rektatraduko:
-    - Kiu: Siapa
-    - laste: kali terakhir
-    - uzis: telah mengguna
-    - mian: saya punya
-    - ŝlosilon: kunci
-    - '?'
+  - Kiu: Siapa
+  - laste: kali terakhir
+  - uzis: telah mengguna
+  - mian: saya punya
+  - ŝlosilon: kunci
+  - '?'
 - demando: Adakah awak menggunakan gondola bila melawat Venice ?
   rektatraduko:
-    - Ĉu: adakah
-    - vi: awak
-    - en: di
-    - Venecio: Venice
-    - veturis: perjalanan
-    - ankaŭ: juga
-    - per: dengan cara
-    - gondolo: gondola
-    - '?'
+  - Ĉu: adakah
+  - vi: awak
+  - en: di
+  - Venecio: Venice
+  - veturis: perjalanan
+  - ankaŭ: juga
+  - per: dengan cara
+  - gondolo: gondola
+  - '?'
 - demando: Bolehkah awak tidur apabila ia menjadi sunyi ?
   rektatraduko:
-    - Ĉu: Bolehkah
-    - vi: awak
-    - povos: akan boleh
-    - ekdormi: tidur
-    - ','
-    - kiam: apabila
-    - silentiĝos: sunyi,diam
-    - '?'
+  - Ĉu: Bolehkah
+  - vi: awak
+  - povos: akan boleh
+  - ekdormi: tidur
+  - ','
+  - kiam: apabila
+  - silentiĝos: sunyi,diam
+  - '?'

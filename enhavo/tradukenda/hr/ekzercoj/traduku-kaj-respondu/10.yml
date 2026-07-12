@@ -1,47 +1,47 @@
 - demando: Usrećuje li te prijateljstvo više nego ljubav?
   rektatraduko:
-    - Ĉu: Da li
-    - amikeco: prijateljstvo
-    - pli: više
-    - feliĉigas: usrećuje
-    - vin: tebe
-    - ol: nego
-    - la: (član)
-    - amo: ljubav
-    - '?'
+  - Ĉu: Da li
+  - amikeco: prijateljstvo
+  - pli: više
+  - feliĉigas: usrećuje
+  - vin: tebe
+  - ol: nego
+  - la: (član)
+  - amo: ljubav
+  - '?'
 - demando: Koliko često pišeš pisma svojim prijateljicama u Italiji i Etiopiji?
   rektatraduko:
-    - Kiel: Kako
-    - ofte: često
-    - vi: ti
-    - skribas: pišeš
-    - leterojn: pisma
-    - al: k
-    - viaj: tvoji
-    - amikinoj: prijateljice
-    - en: u
-    - Italio: Italija
-    - '?'
+  - Kiel: Kako
+  - ofte: često
+  - vi: ti
+  - skribas: pišeš
+  - leterojn: pisma
+  - al: k
+  - viaj: tvoji
+  - amikinoj: prijateljice
+  - en: u
+  - Italio: Italija
+  - '?'
 - demando: Da li se promijenio odnos između tebe i tvog učitelja ili je ostao isti?
   rektatraduko:
-    - Ĉu: Da li
-    - la: (član)
-    - rilato: odnos
-    - inter: između
-    - vi: ti
-    - kaj: i
-    - via: tvoj
-    - instruisto: učitelj
-    - ŝanĝiĝis: promijenio se
-    - '?'
+  - Ĉu: Da li
+  - la: (član)
+  - rilato: odnos
+  - inter: između
+  - vi: ti
+  - kaj: i
+  - via: tvoj
+  - instruisto: učitelj
+  - ŝanĝiĝis: promijenio se
+  - '?'
 - demando: Znate li sada već dovoljno dobro esperanto da ga možete sami upotrebljavati?
   rektatraduko:
-    - Ĉu: Da li
-    - vi: vi
-    - nun: sada
-    - jam: već
-    - scias: znate
-    - Esperanton: esperanto
-    - sufiĉe: dovoljno
-    - bone: dobro
-    - '?'
+  - Ĉu: Da li
+  - vi: vi
+  - nun: sada
+  - jam: već
+  - scias: znate
+  - Esperanton: esperanto
+  - sufiĉe: dovoljno
+  - bone: dobro
+  - '?'

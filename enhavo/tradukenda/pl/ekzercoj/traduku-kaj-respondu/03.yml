@@ -1,72 +1,72 @@
 - demando: Czy kelnerzy w wielkich hotelach rozumieją wiele języków?
   rektatraduko:
-    - Ĉu: Czy
-    - kelneroj: kelnerzy
-    - en: w
-    - grandaj: wielkie
-    - hoteloj: hotele
-    - komprenas: rozumieją
-    - multajn: wiele
-    - lingvojn: języków
-    - '?'
+  - Ĉu: Czy
+  - kelneroj: kelnerzy
+  - en: w
+  - grandaj: wielkie
+  - hoteloj: hotele
+  - komprenas: rozumieją
+  - multajn: wiele
+  - lingvojn: języków
+  - '?'
 - demando: Czy wiesz, czy Ana lubi nową piosenkę o biedaku i pięknej kobiecie?
   rektatraduko:
-    - Ĉu: Czy
-    - vi: ty
-    - scias: wiesz
-    - ','
-    - ĉu: czy
-    - Ana: Ana
-    - ŝatas: lubi
-    - la: (przedimek określony)
-    - novan: nową
-    - kanton: piosenkę
-    - pri: o
-    - malriĉulo: biedak
-    - kaj: i
-    - belulino: piękna kobieta
-    - '?'
+  - Ĉu: Czy
+  - vi: ty
+  - scias: wiesz
+  - ','
+  - ĉu: czy
+  - Ana: Ana
+  - ŝatas: lubi
+  - la: (przedimek określony)
+  - novan: nową
+  - kanton: piosenkę
+  - pri: o
+  - malriĉulo: biedak
+  - kaj: i
+  - belulino: piękna kobieta
+  - '?'
 - demando: Gdzie widzieliście starca i młodzieńca, którzy nieśli duży stół?
   rektatraduko:
-    - Kie: Gdzie
-    - vi: wy
-    - vidis: widzieliście
-    - la: (przedimek określony)
-    - maljunulon: starca
-    - kaj: i
-    - la: (przedimek określony)
-    - junulon: młodzieńca
-    - ','
-    - kiuj: którzy
-    - portis: nieśli
-    - grandan: duży
-    - tablon: stół
-    - '?'
+  - Kie: Gdzie
+  - vi: wy
+  - vidis: widzieliście
+  - la: (przedimek określony)
+  - maljunulon: starca
+  - kaj: i
+  - la: (przedimek określony)
+  - junulon: młodzieńca
+  - ','
+  - kiuj: którzy
+  - portis: nieśli
+  - grandan: duży
+  - tablon: stół
+  - '?'
 - demando: Jak to się stało, że znowu przyjechaliście do nas bez rodzeństwa?
   rektatraduko:
-    - Kiel: Jak
-    - okazis: stało się
-    - ','
-    - ke: że
-    - vi: wy
-    - denove: znowu
-    - venis: przyjechaliście
-    - al: do
-    - ni: my
-    - sen: bez
-    - gefratoj: rodzeństwo
-    - '?'
+  - Kiel: Jak
+  - okazis: stało się
+  - ','
+  - ke: że
+  - vi: wy
+  - denove: znowu
+  - venis: przyjechaliście
+  - al: do
+  - ni: my
+  - sen: bez
+  - gefratoj: rodzeństwo
+  - '?'
 - demando: Czy przy pomocy nowego podręcznika możecie uczyć się esperanta wystarczająco szybko?
   rektatraduko:
-    - Ĉu: Czy
-    - vi: wy
-    - povas: możecie
-    - per: za pomocą
-    - la: (przedimek określony)
-    - nova: nowy
-    - lernolibro: podręcznik
-    - sufiĉe: wystarczająco
-    - rapide: szybko
-    - lerni: uczyć się
-    - Esperanton: esperanta
-    - '?'
+  - Ĉu: Czy
+  - vi: wy
+  - povas: możecie
+  - per: za pomocą
+  - la: (przedimek określony)
+  - nova: nowy
+  - lernolibro: podręcznik
+  - sufiĉe: wystarczająco
+  - rapide: szybko
+  - lerni: uczyć się
+  - Esperanton: esperanta
+  - '?'

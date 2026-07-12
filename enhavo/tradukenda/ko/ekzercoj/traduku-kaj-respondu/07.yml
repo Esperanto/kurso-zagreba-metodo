@@ -1,77 +1,71 @@
-- 
-  demando: 당신이 2년 이상 기다렸던 그 책을 누가 가지고 있었나요?
-  rektatraduko: 
-    - Kiu: 누가
-    - havis: 가지고 있었다
-    - la: (그)
-    - libron: 책을
-    - ',' 
-    - kiun: ~한 그것을
-    - vi: 당신이
-    - atendis: 기다렸다
-    - pli: 더 ~한
-    - ol: ~보다
-    - du: '2'
-    - jarojn: 년(들을)
-    - '?'
-- 
-  demando: 내가 당신에게 나의 가장 소중한 사진을 보여주기를 원하시나요?
-  rektatraduko: 
-    - Ĉu: ~인가
-    - vi: 당신은
-    - volas: 바란다
-    - ','
-    - ke: ~한 것을
-    - mi: 내가
-    - montru: 보여줘라
-    - al: ~에게
-    - vi: 당시
-    - mian: 나의 (목적격)
-    - plej: 가장
-    - karan: 소중한 (목적격)
-    - foton: 사진을
-    - '?'
-- 
-  demando: 당신은 어디서 그 옷을 샀나요?
-  rektatraduko: 
-    - Kie: 어디서
-    - vi: 당신은
-    - aĉetis: 샀다
-    - tiun: 그 (목적격)
-    - vestaĵon: 옷을
-    - '?'
-- 
-  demando: "만약 햇볓나는 날이면, 당신은 일요일에 어디를 갈 것인가요?"
-  rektatraduko: 
-    - Kien: 어디로
-    - vi: 당신은
-    - iros: 갈 것이다
-    - dimanĉe: 일요일에
-    - ',' 
-    - se: 만약
-    - estos: ~일 것이다
-    - suna: 태양의
-    - tago: 낮
-    - '?'
-- 
-  demando: 당신의 형제는 이미 출발했나요?
-  rektatraduko: 
-    - Ĉu: ~인가
-    - via: 당신의
-    - frato: 형제
-    - jam: 이미
-    - ekiris: 떠나갔다
-    - '?'
-- 
-  demando: 당신이 직접  그 물이 어디에 있나요?
-  rektatraduko: 
-    - Kie: 어디에
-    - estas: 있다
-    - la: (그)
-    - akvo: 물이
-    - ',' 
-    - kiun: ~했던 그것을
-    - vi: 당신이
-    - mem: 직접
-    - kunportis: 가져왔다
-    - '?'
+- demando: 당신이 2년 이상 기다렸던 그 책을 누가 가지고 있었나요?
+  rektatraduko:
+  - Kiu: 누가
+  - havis: 가지고 있었다
+  - la: (그)
+  - libron: 책을
+  - ','
+  - kiun: ~한 그것을
+  - vi: 당신이
+  - atendis: 기다렸다
+  - pli: 더 ~한
+  - ol: ~보다
+  - du: '2'
+  - jarojn: 년(들을)
+  - '?'
+- demando: 내가 당신에게 나의 가장 소중한 사진을 보여주기를 원하시나요?
+  rektatraduko:
+  - Ĉu: ~인가
+  - vi: 당신은
+  - volas: 바란다
+  - ','
+  - ke: ~한 것을
+  - mi: 내가
+  - montru: 보여줘라
+  - al: ~에게
+  - vi: 당시
+  - mian: 나의 (목적격)
+  - plej: 가장
+  - karan: 소중한 (목적격)
+  - foton: 사진을
+  - '?'
+- demando: 당신은 어디서 그 옷을 샀나요?
+  rektatraduko:
+  - Kie: 어디서
+  - vi: 당신은
+  - aĉetis: 샀다
+  - tiun: 그 (목적격)
+  - vestaĵon: 옷을
+  - '?'
+- demando: 만약 햇볓나는 날이면, 당신은 일요일에 어디를 갈 것인가요?
+  rektatraduko:
+  - Kien: 어디로
+  - vi: 당신은
+  - iros: 갈 것이다
+  - dimanĉe: 일요일에
+  - ','
+  - se: 만약
+  - estos: ~일 것이다
+  - suna: 태양의
+  - tago: 낮
+  - '?'
+- demando: 당신의 형제는 이미 출발했나요?
+  rektatraduko:
+  - Ĉu: ~인가
+  - via: 당신의
+  - frato: 형제
+  - jam: 이미
+  - ekiris: 떠나갔다
+  - '?'
+- demando: 당신이 직접  그 물이 어디에 있나요?
+  rektatraduko:
+  - Kie: 어디에
+  - estas: 있다
+  - la: (그)
+  - akvo: 물이
+  - ','
+  - kiun: ~했던 그것을
+  - vi: 당신이
+  - mem: 직접
+  - kunportis: 가져왔다
+  - '?'

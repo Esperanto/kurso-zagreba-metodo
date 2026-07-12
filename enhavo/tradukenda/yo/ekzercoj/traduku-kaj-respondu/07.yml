@@ -1,77 +1,71 @@
--
-  demando: Ta ni ó ní ìwé tí o dúró de fún ju ọdún méjì lọ?
+- demando: Ta ni ó ní ìwé tí o dúró de fún ju ọdún méjì lọ?
   rektatraduko:
-    - Kiu: Ta ni
-    - havis: ní
-    - la: náà
-    - libron: ìwé
-    - ','
-    - kiun: tí
-    - vi: ìwọ
-    - atendis: dúró de
-    - pli: sí i
-    - ol: ju
-    - du: méjì
-    - jarojn: ọdún
-    - '?'
--
-  demando: Ṣé o fẹ́ kí n fi fọ́tò tí ó ṣeyebíye jù lọ fún mi hàn ọ?
+  - Kiu: Ta ni
+  - havis: ní
+  - la: náà
+  - libron: ìwé
+  - ','
+  - kiun: tí
+  - vi: ìwọ
+  - atendis: dúró de
+  - pli: sí i
+  - ol: ju
+  - du: méjì
+  - jarojn: ọdún
+  - '?'
+- demando: Ṣé o fẹ́ kí n fi fọ́tò tí ó ṣeyebíye jù lọ fún mi hàn ọ?
   rektatraduko:
-    - Ĉu: Ṣé
-    - vi: ìwọ
-    - volas: fẹ́
-    - ','
-    - ke: kí
-    - mi: èmi
-    - montru: fi hàn
-    - al: sí
-    - vi: ìwọ
-    - mian: mi
-    - plej: jùlọ
-    - karan: ọ̀wọ́n
-    - foton: fọ́tò
-    - '?'
--
-  demando: Níbo ni o ti ra aṣọ yẹn?
+  - Ĉu: Ṣé
+  - vi: ìwọ
+  - volas: fẹ́
+  - ','
+  - ke: kí
+  - mi: èmi
+  - montru: fi hàn
+  - al: sí
+  - vi: ìwọ
+  - mian: mi
+  - plej: jùlọ
+  - karan: ọ̀wọ́n
+  - foton: fọ́tò
+  - '?'
+- demando: Níbo ni o ti ra aṣọ yẹn?
   rektatraduko:
-    - Kie: Níbo
-    - vi: ìwọ
-    - aĉetis: rà
-    - tiun: yẹn
-    - vestaĵon: aṣọ
-    - '?'
--
-  demando: Síbo ni o máa lọ ní ọjọ́ Àìkú bí ọjọ́ náà bá ní oòrùn?
+  - Kie: Níbo
+  - vi: ìwọ
+  - aĉetis: rà
+  - tiun: yẹn
+  - vestaĵon: aṣọ
+  - '?'
+- demando: Síbo ni o máa lọ ní ọjọ́ Àìkú bí ọjọ́ náà bá ní oòrùn?
   rektatraduko:
-    - Kien: Síbo
-    - vi: ìwọ
-    - iros: yóò lọ
-    - dimanĉe: ní ọjọ́ Àìkú
-    - ','
-    - se: bí
-    - estos: yóò jẹ́
-    - suna: olóòrùn
-    - tago: ọjọ́
-    - '?'
--
-  demando: Ṣé arákùnrin rẹ ti lọ báyìí?
+  - Kien: Síbo
+  - vi: ìwọ
+  - iros: yóò lọ
+  - dimanĉe: ní ọjọ́ Àìkú
+  - ','
+  - se: bí
+  - estos: yóò jẹ́
+  - suna: olóòrùn
+  - tago: ọjọ́
+  - '?'
+- demando: Ṣé arákùnrin rẹ ti lọ báyìí?
   rektatraduko:
-    - Ĉu: Ṣé
-    - via: rẹ
-    - frato: arákùnrin
-    - jam: ti
-    - ekiris: bẹ̀rẹ̀ lọ
-    - '?'
--
-  demando: Níbo ni omi tí ìwọ fúnra rẹ mú wá wà?
+  - Ĉu: Ṣé
+  - via: rẹ
+  - frato: arákùnrin
+  - jam: ti
+  - ekiris: bẹ̀rẹ̀ lọ
+  - '?'
+- demando: Níbo ni omi tí ìwọ fúnra rẹ mú wá wà?
   rektatraduko:
-    - Kie: Níbo
-    - estas: wà
-    - la: náà
-    - akvo: omi
-    - ','
-    - kiun: tí
-    - vi: ìwọ
-    - mem: fúnra rẹ
-    - kunportis: mú wá pẹ̀lú
-    - '?'
+  - Kie: Níbo
+  - estas: wà
+  - la: náà
+  - akvo: omi
+  - ','
+  - kiun: tí
+  - vi: ìwọ
+  - mem: fúnra rẹ
+  - kunportis: mú wá pẹ̀lú
+  - '?'

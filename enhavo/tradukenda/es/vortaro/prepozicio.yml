@@ -18,15 +18,15 @@ el: de
 en: en
 inter: entre
 je: a (comodín)
-kontraŭ: 
+kontraŭ:
 - contra
 - en contra de
-krom: 
+krom:
 - además de
 - aparte de (con negación)
 kun: con
 laŭ: según
-per: 
+per:
 - por medio de
 - con
 por:
@@ -41,7 +41,7 @@ pro:
 - por
 sen: sin
 sub:
-- debajo de 
+- debajo de
 - debajo
 super: en (encima, no tocando)
 sur: en (encima)

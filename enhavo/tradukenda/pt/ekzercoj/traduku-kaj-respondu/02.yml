@@ -1,64 +1,64 @@
 - demando: Como era a tua casa velha?
   rektatraduko:
-    - Kia: Como
-    - estis: era
-    - via: tua
-    - malnova: velha
-    - hejmo: casa
-    - '?'
+  - Kia: Como
+  - estis: era
+  - via: tua
+  - malnova: velha
+  - hejmo: casa
+  - '?'
 - demando: Quais livros você leu e (Acaso) eles são bons?
   rektatraduko:
-    - Kiujn: Quais
-    - librojn: livros
-    - vi: você
-    - legis: leu
-    - kaj: e
-    - ĉu: (Acaso)
-    - ili: eles
-    - estas: são
-    - bonaj: bons
-    - '?'
+  - Kiujn: Quais
+  - librojn: livros
+  - vi: você
+  - legis: leu
+  - kaj: e
+  - ĉu: (Acaso)
+  - ili: eles
+  - estas: são
+  - bonaj: bons
+  - '?'
 - demando: O que Ana e Marcos faziam no pequeno quarto de Marcos?
   rektatraduko:
-    - Kion: O que
-    - faris: faziam
-    - Ana: Ana
-    - kaj: e
-    - Marko: Marcos
-    - en: em
-    - la: o
-    - malgranda: pequeno
-    - ĉambro: quarto
-    - de: de
-    - Marko: Marcos
-    - '?'
+  - Kion: O que
+  - faris: faziam
+  - Ana: Ana
+  - kaj: e
+  - Marko: Marcos
+  - en: em
+  - la: o
+  - malgranda: pequeno
+  - ĉambro: quarto
+  - de: de
+  - Marko: Marcos
+  - '?'
 - demando: (Acaso) você gosta de ler livros sobre o amor?
   rektatraduko:
-    - Ĉu: (Acaso)
-    - vi: você
-    - ŝatas: gosta de
-    - legi: ler
-    - librojn: livros
-    - pri: sobre
-    - amo: amor
-    - '?'
+  - Ĉu: (Acaso)
+  - vi: você
+  - ŝatas: gosta de
+  - legi: ler
+  - librojn: livros
+  - pri: sobre
+  - amo: amor
+  - '?'
 - demando: Quem irá com você à tua casa?
   rektatraduko:
-    - Kiu: Quem
-    - iros: irá
-    - kun: com
-    - vi: você
-    - al: à
-    - via: tua
-    - hejmo: casa
-    - '?'
+  - Kiu: Quem
+  - iros: irá
+  - kun: com
+  - vi: você
+  - al: à
+  - via: tua
+  - hejmo: casa
+  - '?'
 - demando: Como são os olhos da tua amiga?
   rektatraduko:
-    - Kiaj: Como
-    - estas: são
-    - la: os
-    - okuloj: olhos
-    - de: da
-    - via: tua
-    - amikino: amiga
-    - '?'
+  - Kiaj: Como
+  - estas: são
+  - la: os
+  - okuloj: olhos
+  - de: da
+  - via: tua
+  - amikino: amiga
+  - '?'

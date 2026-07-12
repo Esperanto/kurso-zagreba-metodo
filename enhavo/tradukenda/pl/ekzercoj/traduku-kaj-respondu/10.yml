@@ -1,51 +1,47 @@
-- 
-  demando: Czy przyjaźń uszczęśliwia cię bardziej niż miłość?
-  rektatraduko: 
-    - Ĉu: Czy 
-    - amikeco: przyjaźń
-    - pli: bardziej
-    - feliĉigas: uszczęśliwia
-    - vin: cię
-    - ol: niż
-    - la: (przedimek określony)
-    - amo: miłość
-    - '?'
-- 
-  demando: Jak często piszesz listy do swoich przyjaciółek we Włoszech?
-  rektatraduko: 
-    - Kiel: Jak
-    - ofte: często
-    - vi: ty
-    - skribas: piszesz
-    - leterojn: listy
-    - al: do
-    - viaj: twoje
-    - amikinoj: przyjaciółki
-    - en: w
-    - Italio: Włochy
-    - '?'
-- 
-  demando: Czy relacje między tobą a twoim nauczycielem zmieniły się?
-  rektatraduko: 
-    - Ĉu: Czy
-    - la: (przedimek określony)
-    - rilato: relacja
-    - inter: między
-    - vi: ty
-    - kaj: i
-    - via: twój
-    - instruisto: nauczyciel
-    - ŝanĝiĝis: zmieniły się
-    - '?'
-- 
-  demando: Czy teraz znasz już esperanto wystarczająco dobrze?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - nun: teraz
-    - jam: już
-    - scias: znasz, wiesz
-    - Esperanton: esperanto
-    - sufiĉe: wystarczająco
-    - bone: dobrze
-    - '?'
+- demando: Czy przyjaźń uszczęśliwia cię bardziej niż miłość?
+  rektatraduko:
+  - Ĉu: Czy
+  - amikeco: przyjaźń
+  - pli: bardziej
+  - feliĉigas: uszczęśliwia
+  - vin: cię
+  - ol: niż
+  - la: (przedimek określony)
+  - amo: miłość
+  - '?'
+- demando: Jak często piszesz listy do swoich przyjaciółek we Włoszech?
+  rektatraduko:
+  - Kiel: Jak
+  - ofte: często
+  - vi: ty
+  - skribas: piszesz
+  - leterojn: listy
+  - al: do
+  - viaj: twoje
+  - amikinoj: przyjaciółki
+  - en: w
+  - Italio: Włochy
+  - '?'
+- demando: Czy relacje między tobą a twoim nauczycielem zmieniły się?
+  rektatraduko:
+  - Ĉu: Czy
+  - la: (przedimek określony)
+  - rilato: relacja
+  - inter: między
+  - vi: ty
+  - kaj: i
+  - via: twój
+  - instruisto: nauczyciel
+  - ŝanĝiĝis: zmieniły się
+  - '?'
+- demando: Czy teraz znasz już esperanto wystarczająco dobrze?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - nun: teraz
+  - jam: już
+  - scias: znasz, wiesz
+  - Esperanton: esperanto
+  - sufiĉe: wystarczająco
+  - bone: dobrze
+  - '?'

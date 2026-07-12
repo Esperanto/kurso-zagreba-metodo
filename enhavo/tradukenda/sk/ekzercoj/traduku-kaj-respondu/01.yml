@@ -1,51 +1,51 @@
 - demando: Kto je tvoja priateľka?
   rektatraduko:
-    - Kiu: Kto
-    - estas: je
-    - via: tvoja
-    - amikino: priateľka
-    - '?'
+  - Kiu: Kto
+  - estas: je
+  - via: tvoja
+  - amikino: priateľka
+  - '?'
 - demando: Píše tvoja priateľka Ana teraz v izbe?
   rektatraduko:
-    - Ĉu: Či
-    - via: tvoja
-    - amikino: priateľka
-    - Ana: Ana
-    - skribas: píše
-    - nun: teraz
-    - en: v
-    - la: (určitý člen)
-    - ĉambro: izbe
-    - '?'
+  - Ĉu: Či
+  - via: tvoja
+  - amikino: priateľka
+  - Ana: Ana
+  - skribas: píše
+  - nun: teraz
+  - en: v
+  - la: (určitý člen)
+  - ĉambro: izbe
+  - '?'
 - demando: Pracuje priateľ tvojho otca v hoteli?
   rektatraduko:
-    - Ĉu: Či
-    - la: (určitý člen)
-    - amiko: priateľ
-    - de: od
-    - via: tvojho
-    - patro: otca
-    - laboras: pracuje
-    - en: v
-    - hotelo: hoteli
-    - '?'
+  - Ĉu: Či
+  - la: (určitý člen)
+  - amiko: priateľ
+  - de: od
+  - via: tvojho
+  - patro: otca
+  - laboras: pracuje
+  - en: v
+  - hotelo: hoteli
+  - '?'
 - demando: Čo je na pracovnom stole v našej izbe?
   rektatraduko:
-    - Kio: Čo
-    - estas: je
-    - sur: na
-    - la: (určitý člen)
-    - labortablo: pracovnom stole
-    - en: v
-    - nia: našej
-    - ĉambro: izbe
-    - '?'
+  - Kio: Čo
+  - estas: je
+  - sur: na
+  - la: (určitý člen)
+  - labortablo: pracovnom stole
+  - en: v
+  - nia: našej
+  - ĉambro: izbe
+  - '?'
 - demando: Je na tvojom stole esperantská učebnica?
   rektatraduko:
-    - Ĉu: Či
-    - Esperanto-lernolibro: esperantská učebnica
-    - estas: je
-    - sur: na
-    - via: tvojom
-    - tablo: stole
-    - '?'
+  - Ĉu: Či
+  - Esperanto-lernolibro: esperantská učebnica
+  - estas: je
+  - sur: na
+  - via: tvojom
+  - tablo: stole
+  - '?'

@@ -1,51 +1,51 @@
 - demando: Kto jest twoją przyjaciółką?
   rektatraduko:
-    - Kiu: Kto
-    - estas: jest
-    - via: twoja
-    - amikino: przyjaciółka
-    - '?'
+  - Kiu: Kto
+  - estas: jest
+  - via: twoja
+  - amikino: przyjaciółka
+  - '?'
 - demando: Czy twoja przyjaciółka Ana pisze teraz w pokoju?
   rektatraduko:
-    - Ĉu: Czy
-    - via: twoja
-    - amikino: przyjaciółka
-    - Ana: Ana
-    - skribas: pisze
-    - nun: teraz
-    - en: w
-    - la: (przedimek określony)
-    - ĉambro: pokój
-    - '?'
+  - Ĉu: Czy
+  - via: twoja
+  - amikino: przyjaciółka
+  - Ana: Ana
+  - skribas: pisze
+  - nun: teraz
+  - en: w
+  - la: (przedimek określony)
+  - ĉambro: pokój
+  - '?'
 - demando: Czy przyjaciel twojego ojca pracuje w hotelu?
   rektatraduko:
-    - Ĉu: Czy
-    - la: (przedimek określony)
-    - amiko: przyjaciel
-    - de: od
-    - via: twój
-    - patro: ojciec
-    - laboras: pracuje
-    - en: w
-    - hotelo: hotel
-    - '?'
+  - Ĉu: Czy
+  - la: (przedimek określony)
+  - amiko: przyjaciel
+  - de: od
+  - via: twój
+  - patro: ojciec
+  - laboras: pracuje
+  - en: w
+  - hotelo: hotel
+  - '?'
 - demando: Co jest na stole roboczym w naszym pokoju?
   rektatraduko:
-    - Kio: Co
-    - estas: jest
-    - sur: na
-    - la: (przedimek określony)
-    - labortablo: stół roboczy
-    - en: w
-    - nia: nasz
-    - ĉambro: pokój
-    - '?'
+  - Kio: Co
+  - estas: jest
+  - sur: na
+  - la: (przedimek określony)
+  - labortablo: stół roboczy
+  - en: w
+  - nia: nasz
+  - ĉambro: pokój
+  - '?'
 - demando: Czy na twoim stole jest podręcznik esperanta?
   rektatraduko:
-    - Ĉu: Czy
-    - Esperanto-lernolibro: podręcznik esperanta
-    - estas: jest
-    - sur: na
-    - via: twój
-    - tablo: stół
-    - '?'
+  - Ĉu: Czy
+  - Esperanto-lernolibro: podręcznik esperanta
+  - estas: jest
+  - sur: na
+  - via: twój
+  - tablo: stół
+  - '?'

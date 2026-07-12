@@ -1,51 +1,51 @@
 - demando: তোমার বান্ধবী কে?
   rektatraduko:
-    - Kiu: কে
-    - estas: হয়
-    - via: তোমার
-    - amikino: বান্ধবী
-    - '?'
+  - Kiu: কে
+  - estas: হয়
+  - via: তোমার
+  - amikino: বান্ধবী
+  - '?'
 - demando: তোমার বন্ধু আনা কি এখন ঘরে লিখছে?
   rektatraduko:
-    - Ĉu: কি
-    - via: তোমার
-    - amikino: বান্ধবী
-    - Ana: আনা
-    - skribas: লিখছে
-    - nun: এখন
-    - en: ভিতরে
-    - la: নির্দিষ্ট আর্টিকেল
-    - ĉambro: ঘর
-    - '?'
+  - Ĉu: কি
+  - via: তোমার
+  - amikino: বান্ধবী
+  - Ana: আনা
+  - skribas: লিখছে
+  - nun: এখন
+  - en: ভিতরে
+  - la: নির্দিষ্ট আর্টিকেল
+  - ĉambro: ঘর
+  - '?'
 - demando: তোমার বাবার বন্ধু কি হোটেলে কাজ করে?
   rektatraduko:
-    - Ĉu: কি
-    - la: নির্দিষ্ট আর্টিকেল
-    - amiko: বন্ধু
-    - de: এর
-    - via: তোমার
-    - patro: বাবা
-    - laboras: কাজ করে
-    - en: ভিতরে
-    - hotelo: হোটেল
-    - '?'
+  - Ĉu: কি
+  - la: নির্দিষ্ট আর্টিকেল
+  - amiko: বন্ধু
+  - de: এর
+  - via: তোমার
+  - patro: বাবা
+  - laboras: কাজ করে
+  - en: ভিতরে
+  - hotelo: হোটেল
+  - '?'
 - demando: আমাদের ঘরের কাজের টেবিলে কী আছে?
   rektatraduko:
-    - Kio: কি
-    - estas: আছে
-    - sur: উপর
-    - la: নির্দিষ্ট আর্টিকেল
-    - labortablo: কাজের টেবিল
-    - en: ভিতরে
-    - nia: আমাদের
-    - ĉambro: ঘর
-    - '?'
+  - Kio: কি
+  - estas: আছে
+  - sur: উপর
+  - la: নির্দিষ্ট আর্টিকেল
+  - labortablo: কাজের টেবিল
+  - en: ভিতরে
+  - nia: আমাদের
+  - ĉambro: ঘর
+  - '?'
 - demando: তোমার টেবিলে কি এস্পেরান্তো পাঠ্যবই আছে?
   rektatraduko:
-    - Ĉu: কি
-    - Esperanto-lernolibro: এস্পেরান্তো পাঠ্যবই
-    - estas: আছে
-    - sur: উপর
-    - via: তোমার
-    - tablo: টেবিল
-    - '?'
+  - Ĉu: কি
+  - Esperanto-lernolibro: এস্পেরান্তো পাঠ্যবই
+  - estas: আছে
+  - sur: উপর
+  - via: তোমার
+  - tablo: টেবিল
+  - '?'

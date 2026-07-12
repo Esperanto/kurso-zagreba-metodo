@@ -1,67 +1,67 @@
 - demando: តើខ្ញុំនឹងជួបអ្នកម្តងទៀតនៅពេលណា?
   rektatraduko:
-    - Kiam: ពេលណា
-    - mi: ខ្ញុំ
-    - revidos: នឹងជួបម្តងទៀត
-    - vin: អ្នក
-    - '?'
+  - Kiam: ពេលណា
+  - mi: ខ្ញុំ
+  - revidos: នឹងជួបម្តងទៀត
+  - vin: អ្នក
+  - '?'
 - demando: តើអ្នករៀនភាសាអន្តរជាតិបានយូរប៉ុនណាហើយ?
   rektatraduko:
-    - Kiom: ប៉ុន្មាន
-    - longe: យូរ
-    - vi: អ្នក
-    - lernas: រៀន
-    - la: ពាក្យកំណត់
-    - Internacian: អន្តរជាតិ
-    - Lingvon: ភាសា
-    - '?'
+  - Kiom: ប៉ុន្មាន
+  - longe: យូរ
+  - vi: អ្នក
+  - lernas: រៀន
+  - la: ពាក្យកំណត់
+  - Internacian: អន្តរជាតិ
+  - Lingvon: ភាសា
+  - '?'
 - demando: សៀវភៅថ្មីរបស់ខ្ញុំដែលមានរូបថតនៅទីណា?
   rektatraduko:
-    - Kie: នៅទីណា
-    - estas: គឺ
-    - mia: របស់ខ្ញុំ
-    - nova: ថ្មី
-    - libro: សៀវភៅ
-    - kun: ជាមួយ
-    - fotoj: រូបថត
-    - '?'
+  - Kie: នៅទីណា
+  - estas: គឺ
+  - mia: របស់ខ្ញុំ
+  - nova: ថ្មី
+  - libro: សៀវភៅ
+  - kun: ជាមួយ
+  - fotoj: រូបថត
+  - '?'
 - demando: បន្ទាប់ពីអាហារថ្ងៃត្រង់ អ្នកនឹងទៅទីណា?
   rektatraduko:
-    - Kien: ទៅទីណា
-    - vi: អ្នក
-    - iros: នឹងទៅ
-    - post: បន្ទាប់ពី
-    - la: ពាក្យកំណត់
-    - tagmanĝo: អាហារថ្ងៃត្រង់
-    - '?'
+  - Kien: ទៅទីណា
+  - vi: អ្នក
+  - iros: នឹងទៅ
+  - post: បន្ទាប់ពី
+  - la: ពាក្យកំណត់
+  - tagmanĝo: អាហារថ្ងៃត្រង់
+  - '?'
 - demando: តើគេអាចបិទទ្វារបន្ទប់បានទេ នៅពេលអាកាសត្រជាក់?
   rektatraduko:
-    - Ĉu: តើ
-    - oni: គេ
-    - povas: អាច
-    - fermi: បិទ
-    - la: ពាក្យកំណត់
-    - pordon: ទ្វារ
-    - de: របស់
-    - la: ពាក្យកំណត់
-    - ĉambro: បន្ទប់
-    - ','
-    - kiam: នៅពេល
-    - estas: គឺ
-    - malvarme: ត្រជាក់
-    - '?'
+  - Ĉu: តើ
+  - oni: គេ
+  - povas: អាច
+  - fermi: បិទ
+  - la: ពាក្យកំណត់
+  - pordon: ទ្វារ
+  - de: របស់
+  - la: ពាក្យកំណត់
+  - ĉambro: បន្ទប់
+  - ','
+  - kiam: នៅពេល
+  - estas: គឺ
+  - malvarme: ត្រជាក់
+  - '?'
 - demando: តើអ្នកខឹងយូរប៉ុនណា ប្រសិនបើគេយកប្រាក់ច្រើនពីអ្នក?
   rektatraduko:
-    - Kiom: ប៉ុន្មាន
-    - longe: យូរ
-    - vi: អ្នក
-    - koleras: ខឹង
-    - ','
-    - se: ប្រសិនបើ
-    - oni: គេ
-    - forprenas: យកចេញ
-    - de: ពី
-    - vi: អ្នក
-    - multan: ច្រើន
-    - monon: ប្រាក់
-    - '?'
+  - Kiom: ប៉ុន្មាន
+  - longe: យូរ
+  - vi: អ្នក
+  - koleras: ខឹង
+  - ','
+  - se: ប្រសិនបើ
+  - oni: គេ
+  - forprenas: យកចេញ
+  - de: ពី
+  - vi: អ្នក
+  - multan: ច្រើន
+  - monon: ប្រាក់
+  - '?'

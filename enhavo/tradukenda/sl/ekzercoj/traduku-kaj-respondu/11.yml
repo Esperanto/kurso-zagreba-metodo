@@ -1,49 +1,49 @@
 - demando: Ali lahko prinesete zdravilo moje sestre?
   rektatraduko:
-    - Ĉu: Ali
-    - vi: (zaimek vi)
-    - povas: lahko
-    - kunporti: prinesete
-    - la: (člen)
-    - sanigilon: zdravilo
-    - de: (predlog od)
-    - mia: moje
-    - fratino: sestre
-    - '?'
+  - Ĉu: Ali
+  - vi: (zaimek vi)
+  - povas: lahko
+  - kunporti: prinesete
+  - la: (člen)
+  - sanigilon: zdravilo
+  - de: (predlog od)
+  - mia: moje
+  - fratino: sestre
+  - '?'
 - demando: Kdaj ste kupili ta glasbeni inštrument?
   rektatraduko:
-    - Kiam: Kdaj
-    - vi: vi (zaimek vi)
-    - aĉetis: ste kupili
-    - tiun: ta
-    - muzikilon: glasbeni inštrument
-    - '?'
+  - Kiam: Kdaj
+  - vi: vi (zaimek vi)
+  - aĉetis: ste kupili
+  - tiun: ta
+  - muzikilon: glasbeni inštrument
+  - '?'
 - demando: Kdo je nazadnje uporabljal moj ključ?
   rektatraduko:
-    - Kiu: Kdo
-    - laste: nazadnje
-    - uzis: je uporabljal
-    - mian: moj
-    - ŝlosilon: ključ
-    - '?'
+  - Kiu: Kdo
+  - laste: nazadnje
+  - uzis: je uporabljal
+  - mian: moj
+  - ŝlosilon: ključ
+  - '?'
 - demando: Ali ste se vozili v Benetkah tudi z gondolo?
   rektatraduko:
-    - Ĉu: Ali
-    - vi: (zaimek vi)
-    - en: v
-    - Venecio: Benetkah
-    - veturis: ste se vozili
-    - ankaŭ: tudi
-    - per: z
-    - gondolo: gondolo
-    - '?'
+  - Ĉu: Ali
+  - vi: (zaimek vi)
+  - en: v
+  - Venecio: Benetkah
+  - veturis: ste se vozili
+  - ankaŭ: tudi
+  - per: z
+  - gondolo: gondolo
+  - '?'
 - demando: Ali ste lahko zaspali, ko je vse utihnilo?
   rektatraduko:
-    - Ĉu: Ali
-    - vi: (zaimek vi)
-    - povos: will be able
-    - ekdormi: zaspali
-    - ','
-    - kiam: ko
-    - silentiĝos: je vse utihnilo
-    - '?'
+  - Ĉu: Ali
+  - vi: (zaimek vi)
+  - povos: will be able
+  - ekdormi: zaspali
+  - ','
+  - kiam: ko
+  - silentiĝos: je vse utihnilo
+  - '?'

@@ -1,67 +1,67 @@
 - demando: 何時我將再見到你？
   rektatraduko:
-    - Kiam: 何時
-    - mi: 我
-    - revidos: 將再見到
-    - vin: 你
-    - '?'
+  - Kiam: 何時
+  - mi: 我
+  - revidos: 將再見到
+  - vin: 你
+  - '?'
 - demando: 你學習那國際語多久了？
   rektatraduko:
-    - Kiom: 多少
-    - longe: 久
-    - vi: 你
-    - lernas: 學習
-    - la: 那
-    - Internacian: 國際
-    - Lingvon: 語
-    - '?'
+  - Kiom: 多少
+  - longe: 久
+  - vi: 你
+  - lernas: 學習
+  - la: 那
+  - Internacian: 國際
+  - Lingvon: 語
+  - '?'
 - demando: 我有相片的新書是在哪裡？
   rektatraduko:
-    - Kie: 哪裡
-    - estas: 是
-    - mia: 我的
-    - nova: 新
-    - libro: 書
-    - kun: 帶有，跟著
-    - fotoj: 相片
-    - '?'
+  - Kie: 哪裡
+  - estas: 是
+  - mia: 我的
+  - nova: 新
+  - libro: 書
+  - kun: 帶有，跟著
+  - fotoj: 相片
+  - '?'
 - demando: 那午飯後，你將去哪裡？
   rektatraduko:
-    - Kien: 哪裡
-    - vi: 你
-    - iros: 將去
-    - post: 後
-    - la: 那
-    - tagmanĝo: 午飯
-    - '?'
+  - Kien: 哪裡
+  - vi: 你
+  - iros: 將去
+  - post: 後
+  - la: 那
+  - tagmanĝo: 午飯
+  - '?'
 - demando: 當冷時，是否人們可以把房間的門關上？
   rektatraduko:
-    - Ĉu: 是否
-    - oni: 人們
-    - povas: 可以
-    - fermi: 關上
-    - la: 那
-    - pordon: 門
-    - de: 的
-    - la: 那
-    - ĉambro: 房間
-    - ','
-    - kiam: 當
-    - estas: 是
-    - malvarme: 冷
-    - '?'
+  - Ĉu: 是否
+  - oni: 人們
+  - povas: 可以
+  - fermi: 關上
+  - la: 那
+  - pordon: 門
+  - de: 的
+  - la: 那
+  - ĉambro: 房間
+  - ','
+  - kiam: 當
+  - estas: 是
+  - malvarme: 冷
+  - '?'
 - demando: 你會生氣多久，如果有人從你取走很多錢？
   rektatraduko:
-    - Kiom: 多少
-    - longe: 久
-    - vi: 你
-    - koleras: 生氣
-    - ','
-    - se: 如果
-    - oni: 人
-    - forprenas: 取走
-    - de: 從
-    - vi: 你
-    - multan: 很多
-    - monon: 錢
-    - '?'
+  - Kiom: 多少
+  - longe: 久
+  - vi: 你
+  - koleras: 生氣
+  - ','
+  - se: 如果
+  - oni: 人
+  - forprenas: 取走
+  - de: 從
+  - vi: 你
+  - multan: 很多
+  - monon: 錢
+  - '?'

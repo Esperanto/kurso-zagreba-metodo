@@ -1,68 +1,68 @@
 - demando: Nais mo bang ipakita ko sa iyo ang pinakabago kong aklat?
   rektatraduko:
-    - Ĉu: ba
-    - vi: ikaw
-    - deziras: nagnanais
-    - ','
-    - ke: na
-    - mi: ako
-    - montru: ipakita
-    - al: sa
-    - vi: ikaw
-    - mian: aking
-    - plej: pinaka
-    - novan: bago
-    - libron: aklat
-    - '?'
+  - Ĉu: ba
+  - vi: ikaw
+  - deziras: nagnanais
+  - ','
+  - ke: na
+  - mi: ako
+  - montru: ipakita
+  - al: sa
+  - vi: ikaw
+  - mian: aking
+  - plej: pinaka
+  - novan: bago
+  - libron: aklat
+  - '?'
 - demando: Ano ang gusto mong kainin sa almusal bukas?
   rektatraduko:
-    - Kion: Ano
-    - vi: ikaw
-    - volas: gusto
-    - morgaŭ: bukas
-    - matenmanĝi: mag-almusal
-    - '?'
+  - Kion: Ano
+  - vi: ikaw
+  - volas: gusto
+  - morgaŭ: bukas
+  - matenmanĝi: mag-almusal
+  - '?'
 - demando: Kailan darating si Marko, alas singko o alas otso?
   rektatraduko:
-    - Kiam: Kailan
-    - Marko: Marko
-    - alvenos: darating
-    - ','
-    - je: sa
-    - la: ang
-    - kvina: ikalima
-    - aŭ: o
-    - je: sa
-    - la: ang
-    - oka: ikawalo
-    - horo: oras
-    - '?'
+  - Kiam: Kailan
+  - Marko: Marko
+  - alvenos: darating
+  - ','
+  - je: sa
+  - la: ang
+  - kvina: ikalima
+  - aŭ: o
+  - je: sa
+  - la: ang
+  - oka: ikawalo
+  - horo: oras
+  - '?'
 - demando: Kailan mo napansin na tinatawag akong tagapagkabutihan ng buong pamilya?
   rektatraduko:
-    - Kiam: Kailan
-    - vi: ikaw
-    - rimarkis: napansin
-    - ','
-    - ke: na
-    - la: ang
-    - tuta: buo
-    - familio: pamilya
-    - nomas: tumatawag
-    - min: ako
-    - bonfarulo: taong gumagawa ng mabuti
-    - '?'
+  - Kiam: Kailan
+  - vi: ikaw
+  - rimarkis: napansin
+  - ','
+  - ke: na
+  - la: ang
+  - tuta: buo
+  - familio: pamilya
+  - nomas: tumatawag
+  - min: ako
+  - bonfarulo: taong gumagawa ng mabuti
+  - '?'
 - demando: Naging kapaki-pakinabang ba sa iyo ang maliit na aklat na ipinadala ko?
   rektatraduko:
-    - Ĉu: ba
-    - la: ang
-    - libreto: maliit na aklat
-    - ','
-    - kiun: na
-    - mi: ako
-    - sendis: nagpadala
-    - al: sa
-    - vi: ikaw
-    - ','
-    - estis: ay noon
-    - utila: kapaki-pakinabang
-    - '?'
+  - Ĉu: ba
+  - la: ang
+  - libreto: maliit na aklat
+  - ','
+  - kiun: na
+  - mi: ako
+  - sendis: nagpadala
+  - al: sa
+  - vi: ikaw
+  - ','
+  - estis: ay noon
+  - utila: kapaki-pakinabang
+  - '?'

@@ -1,77 +1,71 @@
--
-  demando: Wer hatte das Buch, auf das du mehr als zwei Jahre gewartet hast?
+- demando: Wer hatte das Buch, auf das du mehr als zwei Jahre gewartet hast?
   rektatraduko:
-    - Kiu: Wer
-    - havis: hatte
-    - la: das
-    - libron: Buch
-    - ','
-    - kiun: welches
-    - vi: du
-    - atendis: hast gewartet
-    - pli: mehr
-    - ol: als
-    - du: zwei
-    - jarojn: Jahre
-    - '?'
--
-  demando: Möchtest du, dass ich dir mein liebstes Foto zeige?
+  - Kiu: Wer
+  - havis: hatte
+  - la: das
+  - libron: Buch
+  - ','
+  - kiun: welches
+  - vi: du
+  - atendis: hast gewartet
+  - pli: mehr
+  - ol: als
+  - du: zwei
+  - jarojn: Jahre
+  - '?'
+- demando: Möchtest du, dass ich dir mein liebstes Foto zeige?
   rektatraduko:
-    - Ĉu: Ob
-    - vi: du
-    - volas: willst
-    - ','
-    - ke: dass
-    - mi: ich
-    - montru: zeige
-    - al: zu
-    - vi: dir
-    - mian: mein
-    - plej: am meisten
-    - karan: liebes
-    - foton: Foto
-    - '?'
--
-  demando: Wo hast du dieses Kleid gekauft?
+  - Ĉu: Ob
+  - vi: du
+  - volas: willst
+  - ','
+  - ke: dass
+  - mi: ich
+  - montru: zeige
+  - al: zu
+  - vi: dir
+  - mian: mein
+  - plej: am meisten
+  - karan: liebes
+  - foton: Foto
+  - '?'
+- demando: Wo hast du dieses Kleid gekauft?
   rektatraduko:
-    - Kie: Wo
-    - vi: du
-    - aĉetis: hast gekauft
-    - tiun: dieses
-    - vestaĵon: Kleid
-    - '?'
--
-  demando: Wohin wirst du am Sonntag gehen, wenn es ein sonniger Tag sein wird?
+  - Kie: Wo
+  - vi: du
+  - aĉetis: hast gekauft
+  - tiun: dieses
+  - vestaĵon: Kleid
+  - '?'
+- demando: Wohin wirst du am Sonntag gehen, wenn es ein sonniger Tag sein wird?
   rektatraduko:
-    - Kien: Wohin
-    - vi: du
-    - iros: wirst gehen
-    - dimanĉe: am Sonntag
-    - ','
-    - se: wenn
-    - estos: wird sein
-    - suna: sonniger
-    - tago: Tag
-    - '?'
--
-  demando: Ist dein Bruder schon losgegangen?
+  - Kien: Wohin
+  - vi: du
+  - iros: wirst gehen
+  - dimanĉe: am Sonntag
+  - ','
+  - se: wenn
+  - estos: wird sein
+  - suna: sonniger
+  - tago: Tag
+  - '?'
+- demando: Ist dein Bruder schon losgegangen?
   rektatraduko:
-    - Ĉu: Ob
-    - via: dein
-    - frato: Bruder
-    - jam: schon
-    - ekiris: ist losgegangen
-    - '?'
--
-  demando: Wo ist das Wasser, das du selbst mitgebracht hast?
+  - Ĉu: Ob
+  - via: dein
+  - frato: Bruder
+  - jam: schon
+  - ekiris: ist losgegangen
+  - '?'
+- demando: Wo ist das Wasser, das du selbst mitgebracht hast?
   rektatraduko:
-    - Kie: Wo
-    - estas: ist
-    - la: das
-    - akvo: Wasser
-    - ','
-    - kiun: das
-    - vi: du
-    - mem: selbst
-    - kunportis: hast mitgebracht
-    - '?'
+  - Kie: Wo
+  - estas: ist
+  - la: das
+  - akvo: Wasser
+  - ','
+  - kiun: das
+  - vi: du
+  - mem: selbst
+  - kunportis: hast mitgebracht
+  - '?'

@@ -1,86 +1,80 @@
-- 
-  demando: Quem limpará a cozinha depois do almoço?
-  rektatraduko: 
-    - Kiu: Quem
-    - purigos: limpará
-    - la: a
-    - kuirejon: cozinha
-    - post: depois
-    - la: do (de + o)
-    - tagmanĝo: almoço
-    - '?'
-- 
-  demando: "O que você quer beber: chá, um pouco de café ou acaso você não quer nada?"
-  rektatraduko: 
-    - Kion: O que
-    - vi: você
-    - volas: quer
-    - trinki: beber
-    - ':' 
-    - teon: chá
-    - ',' 
-    - iom: um pouco
-    - da: de
-    - kafo: café
-    - aŭ: ou
-    - ĉu: acaso
-    - vi: você
-    - volas: não quer
-    - nenion: nada
-    - '?'
-- 
-  demando: Por que você tão de repente decidiu renovar sua sala pequena?
-  rektatraduko: 
-    - Kial: Por que
-    - vi: você
-    - tiel: tão
-    - subite: de repente
-    - decidis: decidiu
-    - renovigi: renovar
-    - vian: sua
-    - ĉambreton: sala pequena
-    - '?'
-- 
-  demando: Para quem você deu os copos limpos para o vinho?
-  rektatraduko: 
-    - Al: Para
-    - kiu: quem
-    - vi: você
-    - donis: deu
-    - la: os
-    - purajn: limpos
-    - glasojn: copos
-    - por: para 
-    - la: o
-    - vino: vinho
-    - '?'
-- 
-  demando: Contra quem jogou seu clube esportivo há duas semanas?
-  rektatraduko: 
-    - Kontraŭ: Contra
-    - kiu: quem
-    - ludis: jogou
-    - via: seu
-    - sportklubo: clube esportivo
-    - antaŭ: há
-    - du: duas
-    - semajnoj: semanas
-    - '?'
-- 
-  demando: (Acaso) você frequentemente vê o policial que mora no apartamento acima de você?
-  rektatraduko: 
-    - Ĉu: Acaso
-    - vi: você
-    - ofte: frequentemente
-    - vidas: vê
-    - la: o
-    - policiston: policial
-    - ',' 
-    - kiu: que
-    - loĝas: mora
-    - en: em 
-    - la: o (no)
-    - loĝejo: apartamento
-    - super: acima de
-    - vi: você
-    - '?'
+- demando: Quem limpará a cozinha depois do almoço?
+  rektatraduko:
+  - Kiu: Quem
+  - purigos: limpará
+  - la: a
+  - kuirejon: cozinha
+  - post: depois
+  - la: do (de + o)
+  - tagmanĝo: almoço
+  - '?'
+- demando: 'O que você quer beber: chá, um pouco de café ou acaso você não quer nada?'
+  rektatraduko:
+  - Kion: O que
+  - vi: você
+  - volas: quer
+  - trinki: beber
+  - ':'
+  - teon: chá
+  - ','
+  - iom: um pouco
+  - da: de
+  - kafo: café
+  - aŭ: ou
+  - ĉu: acaso
+  - vi: você
+  - volas: não quer
+  - nenion: nada
+  - '?'
+- demando: Por que você tão de repente decidiu renovar sua sala pequena?
+  rektatraduko:
+  - Kial: Por que
+  - vi: você
+  - tiel: tão
+  - subite: de repente
+  - decidis: decidiu
+  - renovigi: renovar
+  - vian: sua
+  - ĉambreton: sala pequena
+  - '?'
+- demando: Para quem você deu os copos limpos para o vinho?
+  rektatraduko:
+  - Al: Para
+  - kiu: quem
+  - vi: você
+  - donis: deu
+  - la: os
+  - purajn: limpos
+  - glasojn: copos
+  - por: para
+  - la: o
+  - vino: vinho
+  - '?'
+- demando: Contra quem jogou seu clube esportivo há duas semanas?
+  rektatraduko:
+  - Kontraŭ: Contra
+  - kiu: quem
+  - ludis: jogou
+  - via: seu
+  - sportklubo: clube esportivo
+  - antaŭ: há
+  - du: duas
+  - semajnoj: semanas
+  - '?'
+- demando: (Acaso) você frequentemente vê o policial que mora no apartamento acima de você?
+  rektatraduko:
+  - Ĉu: Acaso
+  - vi: você
+  - ofte: frequentemente
+  - vidas: vê
+  - la: o
+  - policiston: policial
+  - ','
+  - kiu: que
+  - loĝas: mora
+  - en: em
+  - la: o (no)
+  - loĝejo: apartamento
+  - super: acima de
+  - vi: você
+  - '?'

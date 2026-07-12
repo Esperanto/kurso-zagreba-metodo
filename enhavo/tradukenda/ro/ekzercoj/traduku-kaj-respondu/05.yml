@@ -1,64 +1,59 @@
--
-  demando: Poți învăța liniștit în timp ce cineva cântă vesel?
+- demando: Poți învăța liniștit în timp ce cineva cântă vesel?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - povas: poți
-    - trankvile: liniștit
-    - lerni: învăța
-    - ','
-    - dum: în timp ce
-    - iu: cineva
-    - ĝoje: vesel
-    - kantas: cântă
-    - '?'
--
-  demando: Cine știe când și unde ne vom revedea?
+  - Ĉu: oare
+  - vi: tu
+  - povas: poți
+  - trankvile: liniștit
+  - lerni: învăța
+  - ','
+  - dum: în timp ce
+  - iu: cineva
+  - ĝoje: vesel
+  - kantas: cântă
+  - '?'
+- demando: Cine știe când și unde ne vom revedea?
   rektatraduko:
-    - Kiu: Cine
-    - scias: știe
-    - ','
-    - kiam: când
-    - kaj: și
-    - kie: unde
-    - ni: noi
-    - revidos: vom revedea
-    - nin: pe noi
-    - '?'
--
-  demando: Cât este ceasul acum?
+  - Kiu: Cine
+  - scias: știe
+  - ','
+  - kiam: când
+  - kaj: și
+  - kie: unde
+  - ni: noi
+  - revidos: vom revedea
+  - nin: pe noi
+  - '?'
+- demando: Cât este ceasul acum?
   rektatraduko:
-    - Kioma: Cât
-    - horo: oră
-    - estas: este
-    - nun: acum
-    - '?'
--
-  demando: Te-a ajutat cineva să deschizi ușa casei vechi?
+  - Kioma: Cât
+  - horo: oră
+  - estas: este
+  - nun: acum
+  - '?'
+- demando: Te-a ajutat cineva să deschizi ușa casei vechi?
   rektatraduko:
-    - Ĉu: oare
-    - iu: cineva
-    - helpis: a ajutat
-    - al: pe
-    - vi: tine
-    - malfermi: deschide
-    - la: (articol)
-    - pordon: ușă
-    - de: de
-    - la: (articol)
-    - malnova: veche
-    - domo: casă
-    - '?'
--
-  demando: De ce nu ai timp să mă asculți mai mult?
+  - Ĉu: oare
+  - iu: cineva
+  - helpis: a ajutat
+  - al: pe
+  - vi: tine
+  - malfermi: deschide
+  - la: (articol)
+  - pordon: ușă
+  - de: de
+  - la: (articol)
+  - malnova: veche
+  - domo: casă
+  - '?'
+- demando: De ce nu ai timp să mă asculți mai mult?
   rektatraduko:
-    - Kial: De ce
-    - vi: tu
-    - ne: nu
-    - havas: ai
-    - tempon: timp
-    - aŭskulti: să asculți
-    - min: pe mine
-    - pli: mai
-    - longe: mult
-    - '?'
+  - Kial: De ce
+  - vi: tu
+  - ne: nu
+  - havas: ai
+  - tempon: timp
+  - aŭskulti: să asculți
+  - min: pe mine
+  - pli: mai
+  - longe: mult
+  - '?'

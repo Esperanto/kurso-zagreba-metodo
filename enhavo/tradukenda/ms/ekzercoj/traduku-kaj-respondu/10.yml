@@ -1,51 +1,47 @@
-- 
-  demando: Adakah persahabatan membuat awak lebih bahagia daripada cinta ?
-  rektatraduko: 
-    - Ĉu: Adakah
-    - amikeco: persahabatan
-    - pli: lebih
-    - feliĉigas: menjadi bahagia, menjadi senang hati
-    - vin: awak
-    - ol: daripada
-    - la: itu, ini
-    - amo: cinta
-    - '?'
-- 
-  demando: Berapa kerap awak menulis surat kepada teman wanita awak di Itali ?
-  rektatraduko: 
-    - Kiel: Bagaimana
-    - ofte: kerap
-    - vi: awak
-    - skribas: menulis
-    - leterojn: surat-surat
-    - al: kepada
-    - viaj: awak punya
-    - amikinoj: teman wanita
-    - en: di
-    - Italio: Itali
-    - '?'
-- 
-  demando: Adakah hubungan antara awak dan guru awak telah berubah ?
-  rektatraduko: 
-    - Ĉu: Adakah
-    - la: itu, ini
-    - rilato: hubungan
-    - inter: antara
-    - vi: awak
-    - kaj: dan
-    - via: awak punya
-    - instruisto: guru
-    - ŝanĝiĝis: telah berubah
-    - '?'
-- 
-  demando: Adakah awak kini sudah tahu Esperanto cukup baik?
-  rektatraduko: 
-    - Ĉu: Adakah
-    - vi: awak
-    - nun: kini
-    - jam: sudah
-    - scias: tahu
-    - Esperanton: Esperanto
-    - sufiĉe: cukup
-    - bone: baik
-    - '?'
+- demando: Adakah persahabatan membuat awak lebih bahagia daripada cinta ?
+  rektatraduko:
+  - Ĉu: Adakah
+  - amikeco: persahabatan
+  - pli: lebih
+  - feliĉigas: menjadi bahagia, menjadi senang hati
+  - vin: awak
+  - ol: daripada
+  - la: itu, ini
+  - amo: cinta
+  - '?'
+- demando: Berapa kerap awak menulis surat kepada teman wanita awak di Itali ?
+  rektatraduko:
+  - Kiel: Bagaimana
+  - ofte: kerap
+  - vi: awak
+  - skribas: menulis
+  - leterojn: surat-surat
+  - al: kepada
+  - viaj: awak punya
+  - amikinoj: teman wanita
+  - en: di
+  - Italio: Itali
+  - '?'
+- demando: Adakah hubungan antara awak dan guru awak telah berubah ?
+  rektatraduko:
+  - Ĉu: Adakah
+  - la: itu, ini
+  - rilato: hubungan
+  - inter: antara
+  - vi: awak
+  - kaj: dan
+  - via: awak punya
+  - instruisto: guru
+  - ŝanĝiĝis: telah berubah
+  - '?'
+- demando: Adakah awak kini sudah tahu Esperanto cukup baik?
+  rektatraduko:
+  - Ĉu: Adakah
+  - vi: awak
+  - nun: kini
+  - jam: sudah
+  - scias: tahu
+  - Esperanton: Esperanto
+  - sufiĉe: cukup
+  - bone: baik
+  - '?'

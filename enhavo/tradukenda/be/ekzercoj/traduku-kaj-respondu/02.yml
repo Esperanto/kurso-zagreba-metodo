@@ -1,64 +1,64 @@
 - demando: Якiм быў ваш стары дом?
   rektatraduko:
-    - Kia: Якi
-    - estis: быў
-    - via: ваш
-    - malnova: стары
-    - hejmo: дом
-    - '?'
+  - Kia: Якi
+  - estis: быў
+  - via: ваш
+  - malnova: стары
+  - hejmo: дом
+  - '?'
 - demando: Якiя кнiгi вы чыталi, i цi былi яны добрыя?
   rektatraduko:
-    - Kiujn: якiя, якiх
-    - librojn: кнiгi
-    - vi: вы
-    - legis: чыталi
-    - kaj: i, ды
-    - ĉu: пытальная часьцiца
-    - ili: яны
-    - estas: ёсьць
-    - bonaj: добрыя
-    - '?'
+  - Kiujn: якiя, якiх
+  - librojn: кнiгi
+  - vi: вы
+  - legis: чыталi
+  - kaj: i, ды
+  - ĉu: пытальная часьцiца
+  - ili: яны
+  - estas: ёсьць
+  - bonaj: добрыя
+  - '?'
 - demando: Што рабiлi Ана i Марк у маленькiм пакоi Марка?
   rektatraduko:
-    - Kion: Што
-    - faris: рабiлi
-    - Ana: Ана
-    - kaj: i
-    - Marko: Марк
-    - en: у
-    - la: азначальны артыкль
-    - malgranda: маленькi
-    - ĉambro: пакой
-    - de: притяжательный предлог
-    - Marko: Марк
-    - '?'
+  - Kion: Што
+  - faris: рабiлi
+  - Ana: Ана
+  - kaj: i
+  - Marko: Марк
+  - en: у
+  - la: азначальны артыкль
+  - malgranda: маленькi
+  - ĉambro: пакой
+  - de: притяжательный предлог
+  - Marko: Марк
+  - '?'
 - demando: Ты любiш чытаць кнiгi пра каханьне?
   rektatraduko:
-    - Ĉu: Вопросительная частица
-    - vi: ты
-    - ŝatas: любiш
-    - legi: чытаць
-    - librojn: кнiгi
-    - pri: пра
-    - amo: каханьне
-    - '?'
+  - Ĉu: Вопросительная частица
+  - vi: ты
+  - ŝatas: любiш
+  - legi: чытаць
+  - librojn: кнiгi
+  - pri: пра
+  - amo: каханьне
+  - '?'
 - demando: Хто пойдзу з табой да твайго дома?
   rektatraduko:
-    - Kiu: Хто
-    - iros: пойдзе, будзе iсьцi
-    - kun: з
-    - vi: ты
-    - al: да
-    - via: твой
-    - hejmo: дом
-    - '?'
+  - Kiu: Хто
+  - iros: пойдзе, будзе iсьцi
+  - kun: з
+  - vi: ты
+  - al: да
+  - via: твой
+  - hejmo: дом
+  - '?'
 - demando: Якiя вочы мае твая дзяучына?
   rektatraduko:
-    - Kiaj: Якiя
-    - estas: ёсьць
-    - la: азначальны артыкль
-    - okuloj: вочы
-    - de: прыналежны прыназоўнік
-    - via: твой
-    - amikino: сяброўка
-    - '?'
+  - Kiaj: Якiя
+  - estas: ёсьць
+  - la: азначальны артыкль
+  - okuloj: вочы
+  - de: прыналежны прыназоўнік
+  - via: твой
+  - amikino: сяброўка
+  - '?'

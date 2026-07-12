@@ -1,67 +1,67 @@
 - demando: Quan et tornaré a veure?
   rektatraduko:
-    - Kiam: Quan
-    - mi: jo
-    - revidos: tornaré a veure
-    - vin: a tu
-    - '?'
+  - Kiam: Quan
+  - mi: jo
+  - revidos: tornaré a veure
+  - vin: a tu
+  - '?'
 - demando: Quant temps fa que aprens la llengua internacional?
   rektatraduko:
-    - Kiom: Quant
-    - longe: llarg (en el temps)
-    - vi: tu
-    - lernas: aprens
-    - la: la
-    - Internacian: internacional
-    - Lingvon: llengua
-    - '?'
+  - Kiom: Quant
+  - longe: llarg (en el temps)
+  - vi: tu
+  - lernas: aprens
+  - la: la
+  - Internacian: internacional
+  - Lingvon: llengua
+  - '?'
 - demando: On és el meu nou llibre amb fotografies?
   rektatraduko:
-    - Kie: 'On'
-    - estas: és
-    - mia: el meu
-    - nova: nou
-    - libro: llibre
-    - kun: amb
-    - fotoj: fotografies
-    - '?'
+  - Kie: 'On'
+  - estas: és
+  - mia: el meu
+  - nova: nou
+  - libro: llibre
+  - kun: amb
+  - fotoj: fotografies
+  - '?'
 - demando: On aniràs després del dinar?
   rektatraduko:
-    - Kien: 'On'
-    - vi: tu
-    - iros: aniràs
-    - post: després de
-    - la: el
-    - tagmanĝo: dinar
-    - '?'
+  - Kien: 'On'
+  - vi: tu
+  - iros: aniràs
+  - post: després de
+  - la: el
+  - tagmanĝo: dinar
+  - '?'
 - demando: Es pot tancar la porta de l'habitació quan fa fred?
   rektatraduko:
-    - Ĉu: Que
-    - oni: es
-    - povas: pot
-    - fermi: tancar
-    - la: la
-    - pordon: porta
-    - de: de
-    - la: la
-    - ĉambro: habitació
-    - ','
-    - kiam: quan
-    - estas: fa
-    - malvarme: fred
-    - '?'
+  - Ĉu: Que
+  - oni: es
+  - povas: pot
+  - fermi: tancar
+  - la: la
+  - pordon: porta
+  - de: de
+  - la: la
+  - ĉambro: habitació
+  - ','
+  - kiam: quan
+  - estas: fa
+  - malvarme: fred
+  - '?'
 - demando: Quant temps estàs enfadat si la gent et pren molts diners?
   rektatraduko:
-    - Kiom: Quant
-    - longe: temps
-    - vi: tu
-    - koleras: estàs enfadat
-    - ','
-    - se: si
-    - oni: la gent
-    - forprenas: et pren
-    - de: del
-    - vi: tu
-    - multan: molts
-    - monon: diners
-    - '?'
+  - Kiom: Quant
+  - longe: temps
+  - vi: tu
+  - koleras: estàs enfadat
+  - ','
+  - se: si
+  - oni: la gent
+  - forprenas: et pren
+  - de: del
+  - vi: tu
+  - multan: molts
+  - monon: diners
+  - '?'

@@ -1,67 +1,67 @@
 - demando: ເມື່ອໃດຂ້ອຍຈະເຫັນເຈົ້າອີກ?
   rektatraduko:
-    - Kiam: ເມື່ອໃດ
-    - mi: ຂ້ອຍ
-    - revidos: ຈະເຫັນອີກ
-    - vin: ເຈົ້າ
-    - '?'
+  - Kiam: ເມື່ອໃດ
+  - mi: ຂ້ອຍ
+  - revidos: ຈະເຫັນອີກ
+  - vin: ເຈົ້າ
+  - '?'
 - demando: ເຈົ້າຮຽນພາສາສາກົນມາດົນປານໃດແລ້ວ?
   rektatraduko:
-    - Kiom: ເທົ່າໃດ
-    - longe: ດົນ
-    - vi: ເຈົ້າ
-    - lernas: ຮຽນ
-    - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
-    - Internacian: ສາກົນ
-    - Lingvon: ພາສາ
-    - '?'
+  - Kiom: ເທົ່າໃດ
+  - longe: ດົນ
+  - vi: ເຈົ້າ
+  - lernas: ຮຽນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - Internacian: ສາກົນ
+  - Lingvon: ພາສາ
+  - '?'
 - demando: ປຶ້ມໃໝ່ຂອງຂ້ອຍທີ່ມີຮູບຖ່າຍຢູ່ໃສ?
   rektatraduko:
-    - Kie: ຢູ່ໃສ
-    - estas: ແມ່ນ
-    - mia: ຂອງຂ້ອຍ
-    - nova: ໃໝ່
-    - libro: ປຶ້ມ
-    - kun: ກັບ
-    - fotoj: ຮູບຖ່າຍ
-    - '?'
+  - Kie: ຢູ່ໃສ
+  - estas: ແມ່ນ
+  - mia: ຂອງຂ້ອຍ
+  - nova: ໃໝ່
+  - libro: ປຶ້ມ
+  - kun: ກັບ
+  - fotoj: ຮູບຖ່າຍ
+  - '?'
 - demando: ເຈົ້າຈະໄປໃສຫຼັງອາຫານທ່ຽງ?
   rektatraduko:
-    - Kien: ໄປໃສ
-    - vi: ເຈົ້າ
-    - iros: ຈະໄປ
-    - post: ຫຼັງຈາກ
-    - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
-    - tagmanĝo: ອາຫານທ່ຽງ
-    - '?'
+  - Kien: ໄປໃສ
+  - vi: ເຈົ້າ
+  - iros: ຈະໄປ
+  - post: ຫຼັງຈາກ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - tagmanĝo: ອາຫານທ່ຽງ
+  - '?'
 - demando: ເມື່ອອາກາດໜາວ ຄົນເຮົາປິດປະຕູຫ້ອງໄດ້ບໍ?
   rektatraduko:
-    - Ĉu: ບໍ
-    - oni: ຄົນທົ່ວໄປ
-    - povas: ສາມາດ
-    - fermi: ປິດ
-    - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
-    - pordon: ປະຕູ
-    - de: ຂອງ
-    - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
-    - ĉambro: ຫ້ອງ
-    - ','
-    - kiam: ເມື່ອ
-    - estas: ແມ່ນ
-    - malvarme: ໜາວ
-    - '?'
+  - Ĉu: ບໍ
+  - oni: ຄົນທົ່ວໄປ
+  - povas: ສາມາດ
+  - fermi: ປິດ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - pordon: ປະຕູ
+  - de: ຂອງ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - ĉambro: ຫ້ອງ
+  - ','
+  - kiam: ເມື່ອ
+  - estas: ແມ່ນ
+  - malvarme: ໜາວ
+  - '?'
 - demando: ຖ້າມີຄົນເອົາເງິນຫຼາຍຈາກເຈົ້າ ເຈົ້າໂກດດົນປານໃດ?
   rektatraduko:
-    - Kiom: ເທົ່າໃດ
-    - longe: ດົນ
-    - vi: ເຈົ້າ
-    - koleras: ໂກດ
-    - ','
-    - se: ຖ້າ
-    - oni: ຄົນທົ່ວໄປ
-    - forprenas: ເອົາອອກໄປ
-    - de: ຈາກ
-    - vi: ເຈົ້າ
-    - multan: ຫຼາຍ
-    - monon: ເງິນ
-    - '?'
+  - Kiom: ເທົ່າໃດ
+  - longe: ດົນ
+  - vi: ເຈົ້າ
+  - koleras: ໂກດ
+  - ','
+  - se: ຖ້າ
+  - oni: ຄົນທົ່ວໄປ
+  - forprenas: ເອົາອອກໄປ
+  - de: ຈາກ
+  - vi: ເຈົ້າ
+  - multan: ຫຼາຍ
+  - monon: ເງິນ
+  - '?'

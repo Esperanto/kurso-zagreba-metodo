@@ -1,51 +1,51 @@
 - demando: Iza no namanao?
   rektatraduko:
-    - Kiu: Iza
-    - estas: 'no'
-    - via: ianao/ ianareo
-    - amikino: namana
-    - '?'
+  - Kiu: Iza
+  - estas: 'no'
+  - via: ianao/ ianareo
+  - amikino: namana
+  - '?'
 - demando: Moa ve namanao Ana no manoratra ao anaty ny efi-trano izao?
   rektatraduko:
-    - Ĉu: Moa ve
-    - via: ianao/ianareo
-    - amikino: namana
-    - Ana: Ana
-    - skribas: no manoratra
-    - nun: izao
-    - en: ao anaty
-    - la: ny
-    - ĉambro: efi-trano
-    - '?'
+  - Ĉu: Moa ve
+  - via: ianao/ianareo
+  - amikino: namana
+  - Ana: Ana
+  - skribas: no manoratra
+  - nun: izao
+  - en: ao anaty
+  - la: ny
+  - ĉambro: efi-trano
+  - '?'
 - demando: Moa ve ny naman'i dadanao miasa ao amin'ny hotely ?
   rektatraduko:
-    - Ĉu: Moa ve
-    - la: ny
-    - amiko: namana
-    - de: i / ny
-    - via: ianao / ianareo
-    - patro: dada
-    - laboras: miasa
-    - en: ao aminy
-    - hotelo: hotely
-    - '?'
+  - Ĉu: Moa ve
+  - la: ny
+  - amiko: namana
+  - de: i / ny
+  - via: ianao / ianareo
+  - patro: dada
+  - laboras: miasa
+  - en: ao aminy
+  - hotelo: hotely
+  - '?'
 - demando: Inona no eo ambony ny birao ao anaty efi-tranontsika?
   rektatraduko:
-    - Kio: Inona
-    - estas: 'no'
-    - sur: eo ambony
-    - la: ny
-    - labortablo: birao
-    - en: ao anaty
-    - nia: isika
-    - ĉambro: efi-trano
-    - '?'
+  - Kio: Inona
+  - estas: 'no'
+  - sur: eo ambony
+  - la: ny
+  - labortablo: birao
+  - en: ao anaty
+  - nia: isika
+  - ĉambro: efi-trano
+  - '?'
 - demando: Moa ve ny boky kely esperanto  no eo ambony latabatrao ?
   rektatraduko:
-    - Ĉu: Moa ve
-    - Esperanto-lernolibro: boky kely esperanto
-    - estas: ny
-    - sur: eo ambony
-    - via: ianao
-    - tablo: latabatra
-    - '?'
+  - Ĉu: Moa ve
+  - Esperanto-lernolibro: boky kely esperanto
+  - estas: ny
+  - sur: eo ambony
+  - via: ianao
+  - tablo: latabatra
+  - '?'

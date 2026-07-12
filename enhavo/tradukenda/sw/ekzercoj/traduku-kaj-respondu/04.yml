@@ -1,67 +1,67 @@
 - demando: Nitakuona tena lini?
   rektatraduko:
-    - Kiam: Lini
-    - mi: mimi
-    - revidos: nitaona tena
-    - vin: wewe
-    - '?'
+  - Kiam: Lini
+  - mi: mimi
+  - revidos: nitaona tena
+  - vin: wewe
+  - '?'
 - demando: Umejifunza lugha ya kimataifa kwa muda gani?
   rektatraduko:
-    - Kiom: kiasi gani
-    - longe: kwa muda mrefu
-    - vi: wewe
-    - lernas: unajifunza
-    - la: kiarifu
-    - Internacian: ya kimataifa
-    - Lingvon: lugha
-    - '?'
+  - Kiom: kiasi gani
+  - longe: kwa muda mrefu
+  - vi: wewe
+  - lernas: unajifunza
+  - la: kiarifu
+  - Internacian: ya kimataifa
+  - Lingvon: lugha
+  - '?'
 - demando: Kitabu changu kipya chenye picha kiko wapi?
   rektatraduko:
-    - Kie: Wapi
-    - estas: kiko
-    - mia: changu
-    - nova: kipya
-    - libro: kitabu
-    - kun: pamoja na
-    - fotoj: picha
-    - '?'
+  - Kie: Wapi
+  - estas: kiko
+  - mia: changu
+  - nova: kipya
+  - libro: kitabu
+  - kun: pamoja na
+  - fotoj: picha
+  - '?'
 - demando: Utaenda wapi baada ya chakula cha mchana?
   rektatraduko:
-    - Kien: Kuelekea wapi
-    - vi: wewe
-    - iros: utaenda
-    - post: baada ya
-    - la: kiarifu
-    - tagmanĝo: chakula cha mchana
-    - '?'
+  - Kien: Kuelekea wapi
+  - vi: wewe
+  - iros: utaenda
+  - post: baada ya
+  - la: kiarifu
+  - tagmanĝo: chakula cha mchana
+  - '?'
 - demando: Je, mtu anaweza kufunga mlango wa chumba wakati kuna baridi?
   rektatraduko:
-    - Ĉu: je
-    - oni: mtu kwa jumla
-    - povas: anaweza
-    - fermi: kufunga
-    - la: kiarifu
-    - pordon: mlango
-    - de: wa
-    - la: kiarifu
-    - ĉambro: chumba
-    - ','
-    - kiam: wakati
-    - estas: kuna
-    - malvarme: baridi
-    - '?'
+  - Ĉu: je
+  - oni: mtu kwa jumla
+  - povas: anaweza
+  - fermi: kufunga
+  - la: kiarifu
+  - pordon: mlango
+  - de: wa
+  - la: kiarifu
+  - ĉambro: chumba
+  - ','
+  - kiam: wakati
+  - estas: kuna
+  - malvarme: baridi
+  - '?'
 - demando: Unakasirika kwa muda gani ikiwa watu wanakuchukulia pesa nyingi?
   rektatraduko:
-    - Kiom: kiasi gani
-    - longe: kwa muda gani
-    - vi: wewe
-    - koleras: unakasirika
-    - ','
-    - se: ikiwa
-    - oni: watu
-    - forprenas: wanachukua
-    - de: kutoka kwa
-    - vi: wewe
-    - multan: nyingi
-    - monon: pesa
-    - '?'
+  - Kiom: kiasi gani
+  - longe: kwa muda gani
+  - vi: wewe
+  - koleras: unakasirika
+  - ','
+  - se: ikiwa
+  - oni: watu
+  - forprenas: wanachukua
+  - de: kutoka kwa
+  - vi: wewe
+  - multan: nyingi
+  - monon: pesa
+  - '?'

@@ -1,71 +1,71 @@
 - demando: Ali bo pošta v vaši ulici, ki ste jo čakali več kot dve leti, kmalu aktivna?
   rektatraduko:
-    - Kiu: Kdo
-    - havis: had
-    - la: (člen)
-    - libron: knjigo
-    - ','
-    - kiun: ki
-    - vi: (zaimek vi)
-    - atendis: jo čakate
-    - pli: več
-    - ol: kot
-    - du: dve
-    - jarojn: leti
-    - '?'
+  - Kiu: Kdo
+  - havis: had
+  - la: (člen)
+  - libron: knjigo
+  - ','
+  - kiun: ki
+  - vi: (zaimek vi)
+  - atendis: jo čakate
+  - pli: več
+  - ol: kot
+  - du: dve
+  - jarojn: leti
+  - '?'
 - demando: Ali želiš, da ti pokažem svojo najljubšo fotografijo?
   rektatraduko:
-    - Ĉu: Ali
-    - vi: (zaimek vi)
-    - volas: želiš
-    - ','
-    - ke: da
-    - mi: (zaimek jaz)
-    - montru: pokažem
-    - al: (predlog k)
-    - vi: ti
-    - mian: mojo
-    - plej: najljubšo
-    - karan: najljubšo
-    - foton: fotografijo
-    - '?'
+  - Ĉu: Ali
+  - vi: (zaimek vi)
+  - volas: želiš
+  - ','
+  - ke: da
+  - mi: (zaimek jaz)
+  - montru: pokažem
+  - al: (predlog k)
+  - vi: ti
+  - mian: mojo
+  - plej: najljubšo
+  - karan: najljubšo
+  - foton: fotografijo
+  - '?'
 - demando: Kje ste kupili to obleko?
   rektatraduko:
-    - Kie: Kje
-    - vi: (zaimek vi)
-    - aĉetis: ste kupili
-    - tiun: to
-    - vestaĵon: obleko
-    - '?'
+  - Kie: Kje
+  - vi: (zaimek vi)
+  - aĉetis: ste kupili
+  - tiun: to
+  - vestaĵon: obleko
+  - '?'
 - demando: Kam boš odšel v nedeljo, če bo sončen dan?
   rektatraduko:
-    - Kien: Kam
-    - vi: (zaimek vi)
-    - iros: boš odšel
-    - dimanĉe: on Sunday
-    - ','
-    - se: če
-    - estos: bo
-    - suna: sončen
-    - tago: dan
-    - '?'
+  - Kien: Kam
+  - vi: (zaimek vi)
+  - iros: boš odšel
+  - dimanĉe: on Sunday
+  - ','
+  - se: če
+  - estos: bo
+  - suna: sončen
+  - tago: dan
+  - '?'
 - demando: Ali je tvoj brat žalosten, ali se jezi; ves dan se ni niti nasmejal niti zapel z nami?
   rektatraduko:
-    - Ĉu: Ali
-    - via: tvoj
-    - frato: brat
-    - jam: že
-    - ekiris: did leave
-    - '?'
+  - Ĉu: Ali
+  - via: tvoj
+  - frato: brat
+  - jam: že
+  - ekiris: did leave
+  - '?'
 - demando: Kje si pustil vodo, ki si jo sam prinesel?
   rektatraduko:
-    - Kie: Kje
-    - estas: je
-    - la: (člen)
-    - akvo: vode
-    - ','
-    - kiun: ki
-    - vi: (zaimek ti)
-    - mem: sam
-    - kunportis: have brought
-    - '?'
+  - Kie: Kje
+  - estas: je
+  - la: (člen)
+  - akvo: vode
+  - ','
+  - kiun: ki
+  - vi: (zaimek ti)
+  - mem: sam
+  - kunportis: have brought
+  - '?'

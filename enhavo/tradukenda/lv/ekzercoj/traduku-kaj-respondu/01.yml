@@ -1,51 +1,51 @@
 - demando: Kas ir tava draudzene?
   rektatraduko:
-    - Kiu: Kas
-    - estas: ir
-    - via: tava
-    - amikino: draudzene
-    - '?'
+  - Kiu: Kas
+  - estas: ir
+  - via: tava
+  - amikino: draudzene
+  - '?'
 - demando: Vai tava draudzene Ana tagad raksta istabā?
   rektatraduko:
-    - Ĉu: Vai
-    - via: tava
-    - amikino: draudzene
-    - Ana: Ana
-    - skribas: raksta
-    - nun: tagad
-    - en: iekšā
-    - la: tas
-    - ĉambro: istaba
-    - '?'
+  - Ĉu: Vai
+  - via: tava
+  - amikino: draudzene
+  - Ana: Ana
+  - skribas: raksta
+  - nun: tagad
+  - en: iekšā
+  - la: tas
+  - ĉambro: istaba
+  - '?'
 - demando: Vai tava tēva draugs strādā viesnīcā?
   rektatraduko:
-    - Ĉu: Vai
-    - la: tas
-    - amiko: draugs
-    - de: 'no'
-    - via: tava
-    - patro: tēvs
-    - laboras: strādā
-    - en: iekšā
-    - hotelo: viesnīca
-    - '?'
+  - Ĉu: Vai
+  - la: tas
+  - amiko: draugs
+  - de: 'no'
+  - via: tava
+  - patro: tēvs
+  - laboras: strādā
+  - en: iekšā
+  - hotelo: viesnīca
+  - '?'
 - demando: Kas ir uz darba galda mūsu istabā?
   rektatraduko:
-    - Kio: Kas
-    - estas: ir
-    - sur: uz
-    - la: tas
-    - labortablo: darba galds
-    - en: iekšā
-    - nia: mūsu
-    - ĉambro: istaba
-    - '?'
+  - Kio: Kas
+  - estas: ir
+  - sur: uz
+  - la: tas
+  - labortablo: darba galds
+  - en: iekšā
+  - nia: mūsu
+  - ĉambro: istaba
+  - '?'
 - demando: Vai uz tava galda ir Esperanto mācību grāmata?
   rektatraduko:
-    - Ĉu: Vai
-    - Esperanto-lernolibro: Esperanto mācību grāmata
-    - estas: ir
-    - sur: uz
-    - via: tava
-    - tablo: galds
-    - '?'
+  - Ĉu: Vai
+  - Esperanto-lernolibro: Esperanto mācību grāmata
+  - estas: ir
+  - sur: uz
+  - via: tava
+  - tablo: galds
+  - '?'

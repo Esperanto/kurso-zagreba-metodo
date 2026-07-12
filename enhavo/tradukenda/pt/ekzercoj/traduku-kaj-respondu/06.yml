@@ -1,68 +1,68 @@
 - demando: (acaso) Você deseja que eu mostre para você meu mais novo livro?
   rektatraduko:
-    - Ĉu: Acaso
-    - vi: você
-    - deziras: deseja
-    - ','
-    - ke: que
-    - mi: eu
-    - montru: mostre
-    - al: para
-    - vi: você
-    - mian: meu
-    - plej: mais
-    - novan: novo
-    - libron: livro
-    - '?'
+  - Ĉu: Acaso
+  - vi: você
+  - deziras: deseja
+  - ','
+  - ke: que
+  - mi: eu
+  - montru: mostre
+  - al: para
+  - vi: você
+  - mian: meu
+  - plej: mais
+  - novan: novo
+  - libron: livro
+  - '?'
 - demando: O que você quer comer amanhã no café da manhã?
   rektatraduko:
-    - Kion: O que
-    - vi: você
-    - volas: quer
-    - morgaŭ: amanhã
-    - matenmanĝi: comer no café da manhã
-    - '?'
+  - Kion: O que
+  - vi: você
+  - volas: quer
+  - morgaŭ: amanhã
+  - matenmanĝi: comer no café da manhã
+  - '?'
 - demando: Quando Marcos chegará, às cinco ou às oito horas?
   rektatraduko:
-    - Kiam: Quando
-    - Marko: Marcos
-    - alvenos: chegará
-    - ','
-    - je: a
-    - la: as (às)
-    - kvina: cinco
-    - aŭ: ou
-    - je: a
-    - la: as (às)
-    - oka: oito
-    - horo: hora(s)
-    - '?'
+  - Kiam: Quando
+  - Marko: Marcos
+  - alvenos: chegará
+  - ','
+  - je: a
+  - la: as (às)
+  - kvina: cinco
+  - aŭ: ou
+  - je: a
+  - la: as (às)
+  - oka: oito
+  - horo: hora(s)
+  - '?'
 - demando: Quando você percebeu que a família inteira me chama de benfeitor?
   rektatraduko:
-    - Kiam: Quando
-    - vi: você
-    - rimarkis: percebeu
-    - ','
-    - ke: que
-    - la: a
-    - tuta: inteira
-    - familio: família
-    - nomas: chama
-    - min: a mim
-    - bonfarulo: benfeitor
-    - '?'
+  - Kiam: Quando
+  - vi: você
+  - rimarkis: percebeu
+  - ','
+  - ke: que
+  - la: a
+  - tuta: inteira
+  - familio: família
+  - nomas: chama
+  - min: a mim
+  - bonfarulo: benfeitor
+  - '?'
 - demando: (acaso) O livreto o qual eu enviei para você foi útil?
   rektatraduko:
-    - Ĉu: Acaso
-    - la: o
-    - libreto: livreto
-    - ','
-    - kiun: o qual
-    - mi: eu
-    - sendis: enviei
-    - al: para
-    - vi: você
-    - ','
-    - estis: foi
-    - utila: útil
-    - '?'
+  - Ĉu: Acaso
+  - la: o
+  - libreto: livreto
+  - ','
+  - kiun: o qual
+  - mi: eu
+  - sendis: enviei
+  - al: para
+  - vi: você
+  - ','
+  - estis: foi
+  - utila: útil
+  - '?'

@@ -1,68 +1,68 @@
 - demando: Ali želiš, da ti danes pokažem najnovejšo knjigo o bolezni otrok?
   rektatraduko:
-    - Ĉu: Ali
-    - vi: (zaimek ti)
-    - deziras: želiš
-    - ','
-    - ke: da
-    - mi: (zaimek jaz)
-    - montru: pokažem
-    - al: (predlog k)
-    - vi: tebi
-    - mian: mojo
-    - plej: najbolj
-    - novan: novo
-    - libron: knjigo
-    - '?'
+  - Ĉu: Ali
+  - vi: (zaimek ti)
+  - deziras: želiš
+  - ','
+  - ke: da
+  - mi: (zaimek jaz)
+  - montru: pokažem
+  - al: (predlog k)
+  - vi: tebi
+  - mian: mojo
+  - plej: najbolj
+  - novan: novo
+  - libron: knjigo
+  - '?'
 - demando: Kaj želiš jutri za zajtrk?
   rektatraduko:
-    - Kion: Kaj
-    - vi: (zaimek ti)
-    - volas: želiš
-    - morgaŭ: jutri
-    - matenmanĝi: za zajtrk (zajtrkovati)
-    - '?'
+  - Kion: Kaj
+  - vi: (zaimek ti)
+  - volas: želiš
+  - morgaŭ: jutri
+  - matenmanĝi: za zajtrk (zajtrkovati)
+  - '?'
 - demando: Ali veš, kdaj pride Marko, ali ob petih ali ob osmih?
   rektatraduko:
-    - Kiam: kdaj
-    - Marko: Marko
-    - alvenos: will arrive
-    - ','
-    - je: ali
-    - la: (člen)
-    - kvina: ob peti
-    - aŭ: ali
-    - je: ob
-    - la: (člen)
-    - oka: osmi
-    - horo: ura
-    - '?'
+  - Kiam: kdaj
+  - Marko: Marko
+  - alvenos: will arrive
+  - ','
+  - je: ali
+  - la: (člen)
+  - kvina: ob peti
+  - aŭ: ali
+  - je: ob
+  - la: (člen)
+  - oka: osmi
+  - horo: ura
+  - '?'
 - demando: Kdaj ste opazili, da me vsa družina kliče dobričina?
   rektatraduko:
-    - Kiam: Kdaj
-    - vi: (zaimek vi)
-    - rimarkis: ste opazili
-    - ','
-    - ke: da
-    - la: (člen)
-    - tuta: cela
-    - familio: družina
-    - nomas: kliče
-    - min: mene
-    - bonfarulo: benefactor
-    - '?'
+  - Kiam: Kdaj
+  - vi: (zaimek vi)
+  - rimarkis: ste opazili
+  - ','
+  - ke: da
+  - la: (člen)
+  - tuta: cela
+  - familio: družina
+  - nomas: kliče
+  - min: mene
+  - bonfarulo: benefactor
+  - '?'
 - demando: Ali ti je bila koristna knjižica, ki sem ti jo poslal predvčerajšnjim?
   rektatraduko:
-    - Ĉu: Ali
-    - la: (člen)
-    - libreto: knjižica
-    - ','
-    - kiun: ki
-    - mi: (zaimek jaz)
-    - sendis: sem jo poslal
-    - al: (zaimek k)
-    - vi: (zaimek ti)
-    - ','
-    - estis: je bila
-    - utila: koristna
-    - '?'
+  - Ĉu: Ali
+  - la: (člen)
+  - libreto: knjižica
+  - ','
+  - kiun: ki
+  - mi: (zaimek jaz)
+  - sendis: sem jo poslal
+  - al: (zaimek k)
+  - vi: (zaimek ti)
+  - ','
+  - estis: je bila
+  - utila: koristna
+  - '?'

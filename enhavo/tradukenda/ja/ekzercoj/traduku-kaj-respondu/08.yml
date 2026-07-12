@@ -1,86 +1,80 @@
-- 
-  demando: 昼食の後は誰が台所をきれいにするのですか？
-  rektatraduko: 
-    - Kiu: 誰が
-    - purigos: きれいにするだろう
-    - la: （定冠詞）
-    - kuirejon: 台所を
-    - post: 後で
-    - la: （定冠詞）
-    - tagmanĝo: 昼食
-    - '?'
-- 
-  demando: あなたは何を飲みたいですか？お茶、いくらかのコーヒーあるいは何もいらないですか？
-  rektatraduko: 
-    - Kion: 何を
-    - vi: あなたは
-    - volas: 欲する
-    - trinki: 飲むことを
-    - ':' 
-    - teon: 茶
-    - ',' 
-    - iom: いくらか
-    - da: の
-    - kafo: コーヒー
-    - aŭ: または
-    - ĉu: ～か？
-    - vi: あなたは
-    - volas: 欲する
-    - nenion: なにもない
-    - '?'
-- 
-  demando: どうしてそんなに急にあなたの小部屋を修繕することにしたのですか？
-  rektatraduko: 
-    - Kial: なぜ
-    - vi: あなたは
-    - tiel: そのように
-    - subite: 突然に
-    - decidis: 決めた
-    - renovigi: 修繕する（新しくする）
-    - vian: あなたの
-    - ĉambreton: 小部屋を
-    - '?'
-- 
-  demando: あなたは誰にあのきれいなワイングラスをあげたのですか？
-  rektatraduko: 
-    - Al: ～に
-    - kiu: 誰
-    - vi: あなたは
-    - donis: 与えた
-    - la: （定冠詞）
-    - purajn: きれいな（複数）
-    - glasojn: グラスを（複数）
-    - por: ～のために 
-    - la: （定冠詞）
-    - vino: ワイン
-    - '?'
-- 
-  demando: あなたのスポーツクラブは二週間前、誰と試合したのですか？
-  rektatraduko: 
-    - Kontraŭ: ～に対抗して
-    - kiu: 誰の
-    - ludis: プレーした
-    - via: あなたの
-    - sportklubo: スポーツクラブが
-    - antaŭ: 前
-    - du: 二
-    - semajnoj: 週
-    - '?'
-- 
-  demando: アパートであなたの上の方に住んでいる警察官をあなたはよく見ますか？
-  rektatraduko: 
-    - Ĉu: ～か？
-    - vi: あなたは
-    - ofte: たびたび
-    - vidas: 見ます
-    - la: （定冠詞）
-    - policiston: 警察官を
-    - ',' 
-    - kiu: その人は
-    - loĝas: 住んでいる
-    - en: の中に
-    - la: （定冠詞）
-    - loĝejo: 住居・アパート
-    - super: ～の上の方に
-    - vi: あなた
-    - '?'
+- demando: 昼食の後は誰が台所をきれいにするのですか？
+  rektatraduko:
+  - Kiu: 誰が
+  - purigos: きれいにするだろう
+  - la: （定冠詞）
+  - kuirejon: 台所を
+  - post: 後で
+  - la: （定冠詞）
+  - tagmanĝo: 昼食
+  - '?'
+- demando: あなたは何を飲みたいですか？お茶、いくらかのコーヒーあるいは何もいらないですか？
+  rektatraduko:
+  - Kion: 何を
+  - vi: あなたは
+  - volas: 欲する
+  - trinki: 飲むことを
+  - ':'
+  - teon: 茶
+  - ','
+  - iom: いくらか
+  - da: の
+  - kafo: コーヒー
+  - aŭ: または
+  - ĉu: ～か？
+  - vi: あなたは
+  - volas: 欲する
+  - nenion: なにもない
+  - '?'
+- demando: どうしてそんなに急にあなたの小部屋を修繕することにしたのですか？
+  rektatraduko:
+  - Kial: なぜ
+  - vi: あなたは
+  - tiel: そのように
+  - subite: 突然に
+  - decidis: 決めた
+  - renovigi: 修繕する（新しくする）
+  - vian: あなたの
+  - ĉambreton: 小部屋を
+  - '?'
+- demando: あなたは誰にあのきれいなワイングラスをあげたのですか？
+  rektatraduko:
+  - Al: ～に
+  - kiu: 誰
+  - vi: あなたは
+  - donis: 与えた
+  - la: （定冠詞）
+  - purajn: きれいな（複数）
+  - glasojn: グラスを（複数）
+  - por: ～のために
+  - la: （定冠詞）
+  - vino: ワイン
+  - '?'
+- demando: あなたのスポーツクラブは二週間前、誰と試合したのですか？
+  rektatraduko:
+  - Kontraŭ: ～に対抗して
+  - kiu: 誰の
+  - ludis: プレーした
+  - via: あなたの
+  - sportklubo: スポーツクラブが
+  - antaŭ: 前
+  - du: 二
+  - semajnoj: 週
+  - '?'
+- demando: アパートであなたの上の方に住んでいる警察官をあなたはよく見ますか？
+  rektatraduko:
+  - Ĉu: ～か？
+  - vi: あなたは
+  - ofte: たびたび
+  - vidas: 見ます
+  - la: （定冠詞）
+  - policiston: 警察官を
+  - ','
+  - kiu: その人は
+  - loĝas: 住んでいる
+  - en: の中に
+  - la: （定冠詞）
+  - loĝejo: 住居・アパート
+  - super: ～の上の方に
+  - vi: あなた
+  - '?'

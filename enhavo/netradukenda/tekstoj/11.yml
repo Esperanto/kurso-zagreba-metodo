@@ -1,1812 +1,1355 @@
-titolo: 
+titolo:
+- - La
+-
+- - sen
+  - tim
+  - ul
+  - o
+paragrafoj:
+- - - Est
+    - is
   -
-    - La
+  - - vesper
+    - o
   -
+  - - en
   -
-    - sen
-    - tim
+  - - Veneci
+    - o
+  - .
+  -
+  - - Cent
+    - o
+    - j
+  -
+  - - da
+  -
+  - - hom
+    - o
+    - j
+  -
+  - - plen
+    - ig
+    - ad
+    - is
+  -
+  - - la
+  -
+  - - Sankt-Mark
+    - a
+    - n
+  -
+  - - plac
+    - o
+    - n
+  - .
+  -
+  - - Jun
     - ul
     - o
-paragrafoj:
+    - j
   -
-    -
-      - Est
-      - is
-    -
-    -
-      - vesper
-      - o
-    -
-    -
-      - en
-    -
-    -
-      - Veneci
-      - o
-    - '.'
-    -
-    -
-      - Cent
-      - o
-      - j
-    -
-    -
-      - da
-    -
-    -
-      - hom
-      - o
-      - j
-    -
-    -
-      - plen
-      - ig
-      - ad
-      - is
-    -
-    -
-      - la
-    -
-    -
-      - 'Sankt-Mark'
-      - a
-      - n
-    -
-    -
-      - plac
-      - o
-      - n
-    - '.'
-    -
-    -
-      - Jun
-      - ul
-      - o
-      - j
-    -
-    -
-      - kaj
-    -
-    -
-      - milit
-      - ist
-      - o
-      - j
-    - ','
-    -
-    -
-      - mar
-      - ist
-      - o
-      - j
-    -
-    -
-      - de
-    -
-    -
-      - sur
-    -
-    -
-      - la
-    -
-    -
-      - ŝip
-      - o
-      - j
-    - ','
-    -
-    -
-      - el
-      - star
-      - a
-      - j
-    -
-    -
-      - sinjor
-      - in
-      - o
-      - j
-    - ','
-    -
-    -
-      - kaj
-    -
-    -
-      - jun
-      - ul
-      - in
-      - o
-      - j
-    - ','
-    -
-    -
-      - ali
-      - land
-      - a
-      - j
-    -
-    -
-      - vojaĝ
-      - ant
-      - o
-      - j
-    - ','
-    -
-    -
-      - ĉambr
-      - ist
-      - o
-      - j
-    -
-    -
-      - kaj
-    -
-    -
-      - gondol
-      - ist
-      - o
-      - j
-    -
-    - '–'
-    -
-    -
-      - ĉiu
-      - j
-    -
-    -
-      - mov
-      - iĝ
-      - is
-    -
-    -
-      - al
-    -
-    -
-      - la
-    -
-    -
-      - urb
-      - o
-      - mez
-      - o
-    - '.'
-    -
-    -
-      - Iom
-    -
-    -
-      - plu
-      - e
-    -
-    -
-      - sed
-    -
-    -
-      - ne
-    -
-    -
-      - mal
-      - proksim
-      - e
-    -
-    -
-      - de
-    -
-    -
-      - la
-    -
-    -
-      - mar
-      - o
-    -
-    -
-      - trov
-      - iĝ
-      - is
-    -
-    -
-      - mal
-      - grand
-      - a
-    -
-    -
-      - plac
-      - o
-    - '.'
-    -
-    -
-      - Fin
-      - e
-    -
-    -
-      - de
-    -
-    -
-      - ĝi
-    - ','
-    -
-    -
-      - proksim
-      - e
-    -
-    -
-      - de
-    -
-    -
-      - la
-    -
-    -
-      - mar
-      - o
-    -
-    -
-      - star
-      - is
-    -
-    -
-      - hom
-      - o
-    - '.'
-    -
-    -
-      - Laŭ
-    -
-    -
-      - la
-    -
-    -
-      - vest
-      - aĵ
-      - o
-    -
-    -
-      - oni
-    -
-    -
-      - facil
-      - e
-    -
-    -
-      - pov
-      - is
-    -
-    -
-      - ek
-      - sci
-      - i
-    - ','
-    -
-    -
-      - ke
-    -
-    -
-      - li
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - gondol
-      - ist
-      - o
-    -
-    -
-      - de
-    -
-    -
-      - i
-      - u
-    -
-    -
-      - riĉ
-      - ul
-      - o
-    - '.'
-    -
-    -
-      - Sen
-      - interes
-      - e
-    -
-    -
-      - li
-    -
-    -
-      - rigard
-      - is
-    -
-    -
-      - la
-    -
-    -
-      - ĝoj
-      - a
-      - n
-    -
-    -
-      - hom
-      - mult
-      - o
-      - n
-    - '.'
-    -
-    -
-      - Subit
-      - e
-    -
-    -
-      - rid
-      - et
-      - o
-    -
-    -
-      - lum
-      - ig
-      - is
-    -
-    -
-      - li
-      - a
-      - n
-    -
-    -
-      - vizaĝ
-      - o
-      - n
-    - ','
-    -
-    -
-      - kiam
-    -
-    -
-      - li
-    -
-    -
-      - ek
-      - vid
-      - is
-    -
-    -
-      - mar
-      - ist
-      - o
-      - n
-    - ','
-    -
-    -
-      - kiu
-    -
-    -
-      - al
-      - ven
-      - is
-    -
-    -
-      - el
-    -
-    -
-      - la
-    -
-    -
-      - flank
-      - o
-    -
-    -
-      - de
-    -
-    -
-      - la
-    -
-    -
-      - mar
-      - o
-    - '.'
+  - - kaj
   -
-    - '–'
-    -
-    -
-      - Ĉu
-    -
-    -
-      - tio
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - vi
-    - ','
-    -
-    -
-      - Stefan
-      - o
-    - '?'
-    -
-    - '–'
-    -
-    -
-      - ek
-      - kri
-      - is
-    -
-    -
-      - la
-    -
-    -
-      - gondol
-      - ist
-      - o
-    - '.'
-    -
-    -
-      - Ĉiu
-      - j
-    -
-    -
-      - dir
-      - as
-    - ','
-    -
-    -
-      - ke
-    -
-    -
-      - vi
-    -
-    -
-      - fal
-      - is
-    -
-    -
-      - en
-    -
-    -
-      - la
-    -
-    -
-      - man
-      - o
-      - j
-      - n
-    -
-    -
-      - de
-    -
-    -
-      - la
-    -
-    -
-      - Turk
-      - o
-      - j
-    - '.'
+  - - milit
+    - ist
+    - o
+    - j
+  - ','
   -
-    - '–'
-    -
-    -
-      - Ver
-      - e
-    - '.'
-    -
-    -
-      - Ni
-    -
-    -
-      - renkont
-      - is
-    -
-    -
-      - unu
-    -
-    -
-      - el
-    -
-    -
-      - ili
-      - a
-      - j
-    -
-    -
-      - ŝip
-      - o
-      - j
-    - '.'
-    -
-    -
-      - Ĝi
-    -
-    -
-      - sekv
-      - is
-    -
-    -
-      - ni
-      - n
-    -
-    -
-      - dum
-    -
-    -
-      - pli
-    -
-    -
-      - ol
-    -
-    -
-      - unu
-    -
-    -
-      - hor
-      - o
-    - '.'
-    -
-    -
-      - Sed
-    -
-    -
-      - ne
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - facil
-      - e
-    -
-    -
-      - ir
-      - i
-    -
-    -
-      - pli
-    -
-    -
-      - rapid
-      - e
-    -
-    -
-      - ol
-    -
-    -
-      - ni
-      - a
-    -
-    -
-      - ŝip
-      - o
-    - '.'
-    -
-    -
-      - Do
-    - ','
-    -
-    -
-      - kia
-      - j
-    -
-    -
-      - nov
-      - aĵ
-      - o
-      - j
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - tie
-    -
-    -
-      - ĉi
-    -
-    -
-      - en
-    -
-    -
-      - Veneci
-      - o
-    - '?'
+  - - mar
+    - ist
+    - o
+    - j
   -
-    - '–'
-    -
-    -
-      - Nenio
-    -
-    -
-      - interes
-      - a
-    -
-    - '–'
-    -
-    -
-      - nur
-    -
-    -
-      - grand
-      - a
-    -
-    -
-      - mal
-      - feliĉ
-      - o
-    -
-    -
-      - por
-    -
-    -
-      - Pietro
-    - '.'
-    -
-    -
-      - Ĉu
-    -
-    -
-      - vi
-    -
-    -
-      - kon
-      - as
-    -
-    -
-      - Pietro
-      - n
-    - '?'
+  - - de
   -
-    - '–'
-    -
-    -
-      - Kompren
-      - ebl
-      - e
-    - ','
-    -
-    -
-      - ke
-    -
-    -
-      - mi
-    -
-    -
-      - kon
-      - as
-    - '.'
+  - - sur
   -
-    - '–'
-    -
-    -
-      - Grand
-      - a
-    -
-    -
-      - ŝip
-      - o
-    -
-    -
-      - sub
-      - akv
-      - ig
-      - is
-    -
-    -
-      - li
-      - a
-      - n
-    -
-    -
-      - gondol
-      - o
-      - n
-    - '.'
-  
+  - - la
   -
-    - '–'
-    -
-    -
-      - Kaj
-    -
-    -
-      - kio
-    -
-    -
-      - pri
-    -
-    -
-      - Pietro
-    - '?'
-  
+  - - ŝip
+    - o
+    - j
+  - ','
   -
-    - '–'
-    -
-    -
-      - Li
-      - a
-    -
-    -
-      - gondol
-      - o
-    -
-    -
-      - sub
-      - akv
-      - iĝ
-      - is
-    - '.'
-    -
-    -
-      - Okaz
-      - is
-    - ','
-    -
-    -
-      - ke
-    -
-    -
-      - ni
-    -
-    -
-      - trov
-      - iĝ
-      - is
-    -
-    -
-      - proksim
-      - e
-    - ','
-    -
-    -
-      - tiel
-    -
-    -
-      - ke
-    -
-    -
-      - Ĝorĝo
-    -
-    -
-      - kaj
-    -
-    -
-      - mi
-    -
-    -
-      - pren
-      - is
-    -
-    -
-      - Pietro
-      - n
-    -
-    -
-      - en
-    -
-    -
-      - ni
-      - a
-      - n
-    -
-    -
-      - gondol
-      - o
-      - n
-    - '.'
-    -
-    -
-      - En
-    -
-    -
-      - la
-    -
-    -
-      - sam
-      - a
-    -
-    -
-      - temp
-      - o
-    -
-    -
-      - mi
-      - a
-    -
-    -
-      - estr
-      - o
-    -
-    -
-      - sub
-      - akv
-      - iĝ
-      - is
-    -
-    -
-      - por
-    -
-    -
-      - help
-      - i
-    -
-    -
-      - jun
-      - ul
-      - in
-      - o
-      - n
-    - ','
-    -
-    -
-      - kiu
-    -
-    -
-      - preskaŭ
-    -
-    -
-      - jam
-    -
-    -
-      - mort
-      - is
-    -
-    -
-      - kun
-    -
-    -
-      - si
-      - a
-    -
-    -
-      - onkl
-      - o
-    - '.'
+  - - el
+    - star
+    - a
+    - j
   -
-    - '–'
-    -
-    -
-      - Ho
-    - ','
-    -
-    -
-      - tie
-    -
-    -
-      - est
-      - is
-    -
-    -
-      - jun
-      - ul
-      - in
-      - o
-    -
-    - '–'
-    -
-    -
-      - kaj
-    -
-    -
-      - onkl
-      - o
-    - '?'
+  - - sinjor
+    - in
+    - o
+    - j
+  - ','
   -
-    - '–'
-    -
-    -
-      - Li
-      - n
-    -
-    -
-      - ni
-    -
-    -
-      - ne
-    -
-    -
-      - pov
-      - is
-    -
-    -
-      - help
-      - i
-    - '.'
-    -
-    -
-      - Est
-      - is
-    -
-    -
-      - grav
-      - a
-    -
-    -
-      - hom
-      - o
-    - '.'
-    -
-    -
-      - Sed
-    -
-    -
-      - kio
-    -
-    -
-      - vi
-      - n
-    -
-    -
-      - al
-      - ven
-      - ig
-      - as
-    -
-    -
-      - en
-    -
-    -
-      - Veneci
-      - o
-      - n
-    - ','
-    -
-    -
-      - amik
-      - o
-    -
-    -
-      - mi
-      - a
-    - '?'
-  
+  - - kaj
   -
-    -
-    -
-      - La
-    -
-    -
-      - mar
-      - ist
-      - o
-    -
-    -
-      - rapid
-      - e
-    -
-    -
-      - ek
-      - rigard
-      - is
-    -
-    -
-      - si
-      - a
-      - n
-    -
-    -
-      - amik
-      - o
-      - n
-    -
-    -
-      - kaj
-    -
-    -
-      - komenc
-      - is
-    -
-    -
-      - dir
-      - i
-    - ':'
+  - - jun
+    - ul
+    - in
+    - o
+    - j
+  - ','
   -
-    - '–'
-    -
-    -
-      - Do
-    - ','
-    -
-    -
-      - vi
-    -
-    -
-      - sci
-      - as
-    - ','
-    -
-    -
-      - Ĝino
-    - ','
-    -
-    -
-      - mi
-    -
-    -
-      - al
-      - port
-      - is
-    -
-    - '…'
+  - - ali
+    - land
+    - a
+    - j
   -
-    -
-      - La
-    -
-    -
-      - gondol
-      - ist
-      - o
-    -
-    -
-      - sub
-      - it
-      - e
-    -
-    -
-      - halt
-      - ig
-      - is
-    -
-    -
-      - li
-      - n
-    - '.'
+  - - vojaĝ
+    - ant
+    - o
+    - j
+  - ','
   -
-    - '–'
-    -
-    -
-      - Vid
-      - u
-    - '.'
-    -
-    - '–'
-    -
-    -
-      - li
-    -
-    -
-      - dir
-      - is
-    - '.'
-  
+  - - ĉambr
+    - ist
+    - o
+    - j
   -
-    -
-    -
-      - Tiam
-    -
-    -
-      - i
-      - u
-    -
-    -
-      - hom
-      - o
-    -
-    -
-      - pas
-      - is
-    -
-    -
-      - apud
-    -
-    -
-      - ili
-    - '.'
-    -
-    -
-      - Li
-    -
-    -
-      - ankoraŭ
-    -
-    -
-      - ne
-    -
-    -
-      - est
-      - is
-    -
-    -
-      - tri
-      - dek
-      - jar
-      - a
-    - ','
-    -
-    -
-      - kaj
-    -
-    -
-      - li
-      - a
-    -
-    -
-      - vizaĝ
-      - o
-    -
-    -
-      - est
-      - is
-    -
-    -
-      - sen
-      - kolor
-      - a
-    - '.'
-    -
-    -
-      - Li
-      - a
-    -
-    -
-      - ir
-      - o
-    -
-    -
-      - est
-      - is
-    -
-    -
-      - cert
-      - a
-    -
-    -
-      - kaj
-    -
-    -
-      - facil
-      - a
-    - '.'
-    -
-    -
-      - Li
-      - a
-    -
-    -
-      - vizaĝ
-      - o
-    -
-    -
-      - est
-      - is
-    -
-    -
-      - mal
-      - ĝoj
-      - a
-    - '.'
-  
+  - - kaj
   -
-    - '–'
-    -
-    -
-      - Jakopo
-    -
-    - '–'
-    -
-    -
-      - dir
-      - is
-    -
-    -
-      - Ĝino
-    - ','
-    -
-    -
-      - kiam
-    -
-    -
-      - li
-    -
-    -
-      - ek
-      - vid
-      - is
-    -
-    -
-      - la
-    -
-    -
-      - hom
-      - o
-      - n
-    -
-    - '–'
-    -
-    -
-      - oni
-    -
-    -
-      - dir
-      - as
-    - ','
-    -
-    -
-      - ke
-    -
-    -
-      - mult
-      - a
-      - j
-    -
-    -
-      - grav
-      - ul
-      - o
-      - j
-    -
-    -
-      - don
-      - as
-    -
-    -
-      - sekret
-      - a
-      - j
-      - n
-    -
-    -
-      - labor
-      - o
-      - j
-      - n
-    -
-    -
-      - al
-    -
-    -
-      - li
-    - '.'
-    -
-    -
-      - Li
-    -
-    -
-      - sci
-      - as
-    -
-    -
-      - tro
-    -
-    -
-      - da
-    -
-    -
-      - sekret
-      - o
-      - j
-    - '.'
-  
+  - - gondol
+    - ist
+    - o
+    - j
   -
-    - '–'
-    -
-    -
-      - Kaj
-    -
-    -
-      - tial
-    -
-    -
-      - ili
-    -
-    -
-      - tim
-      - as
-    -
-    -
-      - send
-      - i
-    -
-    -
-      - li
-      - n
-    -
-    -
-      - en
-    -
-    -
-      - mal
-      - liber
-      - ej
-      - o
-      - n
-    -
-    - '–'
-    -
-    -
-      - dir
-      - is
-    -
-    -
-      - la
-    -
-    -
-      - mar
-      - ist
-      - o
-    - ','
-    -
-    -
-      - kaj
-    -
-    -
-      - dum
-    -
-    -
-      - li
-    -
-    -
-      - parol
-      - is
-    - ','
-    -
-    -
-      - li
-    -
-    -
-      - montr
-      - is
-    -
-    -
-      - la
-    -
-    -
-      - dom
-      - eg
-      - o
-      - n
-    -
-    -
-      - de
-    -
-    -
-      - la
-    -
-    -
-      - Doĝ
-      - o
-      - j
-    - '.'
+  - –
   -
-    - '–'
-    -
-    -
-      - Ver
-      - e
-    - ','
-    -
-    -
-      - mult
-      - a
-      - j
-    -
-    -
-      - grav
-      - ul
-      - o
-      - j
-    -
-    -
-      - bezon
-      - as
-    -
-    -
-      - li
-      - a
-      - n
-    -
-    -
-      - help
-      - o
-      - n
-    -
-    - '–'
-    -
-    -
-      - dir
-      - is
-    -
-    -
-      - Ĝino
-    - '.'
-  
+  - - ĉiu
+    - j
   -
-    - '–'
-    -
-    -
-      - Kaj
-    -
-    -
-      - kiom
-    -
-    -
-      - ili
-    -
-    -
-      - pag
-      - as
-    -
-    -
-      - al
-    -
-    -
-      - li
-    -
-    -
-      - por
-    -
-    -
-      - unu
-    -
-    -
-      - mort
-      - ig
-      - o
-    - '?'
+  - - mov
+    - iĝ
+    - is
   -
-    - '–'
-    -
-    -
-      - Cert
-      - e
-    -
-    -
-      - ne
-    -
-    -
-      - mal
-      - pli
-    -
-    -
-      - ol
-    -
-    -
-      - cent
-    -
-    -
-      - mon
-      - er
-      - o
-      - j
-      - n
-    - '.'
-    -
-    -
-      - Ne
-    -
-    -
-      - forges
-      - u
-    - ','
-    -
-    -
-      - ke
-    -
-    -
-      - li
-    -
-    -
-      - labor
-      - as
-    -
-    -
-      - por
-    -
-    -
-      - tiu
-      - j
-    - ','
-    -
-    -
-      - kiu
-      - j
-    -
-    -
-      - hav
-      - as
-    -
-    -
-      - sufiĉ
-      - e
-    -
-    -
-      - da
-    -
-    -
-      - mon
-      - o
-    -
-    -
-      - por
-    -
-    -
-      - pag
-      - i
-    -
-    -
-      - al
-    -
-    -
-      - li
-    - '.'
-    -
-    -
-      - Sed
-    - ','
-    -
-    -
-      - Stefan
-      - o
-    - ','
-    -
-    -
-      - en
-    -
-    -
-      - Veneci
-      - o
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - afer
-      - o
-      - j
-    - ','
-    -
-    -
-      - kiu
-      - j
-      - n
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - pli
-    -
-    -
-      - bon
-      - e
-    -
-    -
-      - forges
-      - i
-    - ','
-    -
-    -
-      - se
-    -
-    -
-      - vi
-    -
-    -
-      - vol
-      - as
-    -
-    -
-      - trankvil
-      - e
-    -
-    -
-      - manĝ
-      - i
-    -
-    -
-      - vi
-      - a
-      - n
-    -
-    -
-      - pan
-      - o
-      - n
-    - '.'
+  - - al
   -
-    -
-      - Est
-      - is
-    -
-    -
-      - iom
-    -
-    -
-      - da
-    -
-    -
-      - silent
-      - o
-    -
-    -
-      - kaj
-    -
-    -
-      - post
-      - e
-    -
-    -
-      - la
-    -
-    -
-      - gondol
-      - ist
-      - o
-    -
-    -
-      - de
-      - nov
-      - e
-    -
-    -
-      - ek
-      - parol
-      - is
-    - ':'
+  - - la
   -
-    - '–'
-    -
-    -
-      - Vi
-    -
-    -
-      - ven
-      - is
-    -
-    -
-      - ĝust
-      - a
-      - temp
-      - e
-    -
-    -
-      - por
-    -
-    -
-      - vid
-      - i
-    -
-    -
-      - ŝip
-      - kur
-      - o
-      - n
-    - '.'
+  - - urb
+    - o
+    - mez
+    - o
+  - .
   -
-    - '–'
-    -
-    -
-      - Ĝino
-    -
-    - '–'
-    -
-    -
-      - i
-      - u
-    -
-    -
-      - dir
-      - is
-    -
-    -
-      - mal
-      - fort
-      - e
-    -
-    -
-      - proksim
-      - e
-    -
-    -
-      - de
-    -
-    -
-      - la
-    -
-    -
-      - gondol
-      - ist
-      - o
-    - '.'
+  - - Iom
   -
-    - '–'
-    -
-    -
-      - Sinjor
-      - o
-    - '?'
+  - - plu
+    - e
   -
-    -
-      - Don Kamilo
-    -
-    -
-      - Mon
-      - fort
-      - e
-    - ','
-    -
-    -
-      - la
-    -
-    -
-      - estr
-      - o
-    -
-    -
-      - de
-    -
-    -
-      - Ĝino
-    -
-    -
-      - sen
-      - vort
-      - e
-    -
-    -
-      - montr
-      - is
-    -
-    -
-      - al
-    -
-    -
-      - la
-    -
-    -
-      - gondol
-      - o
-    - '.'
+  - - sed
   -
-    - '–'
-    -
-    -
-      - Ĝis
-    -
-    -
-      - re
-      - vid
-      - o
-    -
-    -
-    - '–'
-    -
-    -
-      - dir
-      - is
-    -
-    -
-      - la
-    -
-    -
-      - gondol
-      - ist
-      - o
-    -
-    -
-      - kaj
-    -
-    -
-      - pren
-      - is
-    -
-    -
-      - la
-    -
-    -
-      - man
-      - o
-      - n
-    -
-    -
-      - de
-    -
-    -
-      - si
-      - a
-    -
-    -
-      - amik
-      - o
-    - '.'
+  - - ne
+  -
+  - - mal
+    - proksim
+    - e
+  -
+  - - de
+  -
+  - - la
+  -
+  - - mar
+    - o
+  -
+  - - trov
+    - iĝ
+    - is
+  -
+  - - mal
+    - grand
+    - a
+  -
+  - - plac
+    - o
+  - .
+  -
+  - - Fin
+    - e
+  -
+  - - de
+  -
+  - - ĝi
+  - ','
+  -
+  - - proksim
+    - e
+  -
+  - - de
+  -
+  - - la
+  -
+  - - mar
+    - o
+  -
+  - - star
+    - is
+  -
+  - - hom
+    - o
+  - .
+  -
+  - - Laŭ
+  -
+  - - la
+  -
+  - - vest
+    - aĵ
+    - o
+  -
+  - - oni
+  -
+  - - facil
+    - e
+  -
+  - - pov
+    - is
+  -
+  - - ek
+    - sci
+    - i
+  - ','
+  -
+  - - ke
+  -
+  - - li
+  -
+  - - est
+    - as
+  -
+  - - gondol
+    - ist
+    - o
+  -
+  - - de
+  -
+  - - i
+    - u
+  -
+  - - riĉ
+    - ul
+    - o
+  - .
+  -
+  - - Sen
+    - interes
+    - e
+  -
+  - - li
+  -
+  - - rigard
+    - is
+  -
+  - - la
+  -
+  - - ĝoj
+    - a
+    - n
+  -
+  - - hom
+    - mult
+    - o
+    - n
+  - .
+  -
+  - - Subit
+    - e
+  -
+  - - rid
+    - et
+    - o
+  -
+  - - lum
+    - ig
+    - is
+  -
+  - - li
+    - a
+    - n
+  -
+  - - vizaĝ
+    - o
+    - n
+  - ','
+  -
+  - - kiam
+  -
+  - - li
+  -
+  - - ek
+    - vid
+    - is
+  -
+  - - mar
+    - ist
+    - o
+    - n
+  - ','
+  -
+  - - kiu
+  -
+  - - al
+    - ven
+    - is
+  -
+  - - el
+  -
+  - - la
+  -
+  - - flank
+    - o
+  -
+  - - de
+  -
+  - - la
+  -
+  - - mar
+    - o
+  - .
+- - –
+  -
+  - - Ĉu
+  -
+  - - tio
+  -
+  - - est
+    - as
+  -
+  - - vi
+  - ','
+  -
+  - - Stefan
+    - o
+  - '?'
+  -
+  - –
+  -
+  - - ek
+    - kri
+    - is
+  -
+  - - la
+  -
+  - - gondol
+    - ist
+    - o
+  - .
+  -
+  - - Ĉiu
+    - j
+  -
+  - - dir
+    - as
+  - ','
+  -
+  - - ke
+  -
+  - - vi
+  -
+  - - fal
+    - is
+  -
+  - - en
+  -
+  - - la
+  -
+  - - man
+    - o
+    - j
+    - n
+  -
+  - - de
+  -
+  - - la
+  -
+  - - Turk
+    - o
+    - j
+  - .
+- - –
+  -
+  - - Ver
+    - e
+  - .
+  -
+  - - Ni
+  -
+  - - renkont
+    - is
+  -
+  - - unu
+  -
+  - - el
+  -
+  - - ili
+    - a
+    - j
+  -
+  - - ŝip
+    - o
+    - j
+  - .
+  -
+  - - Ĝi
+  -
+  - - sekv
+    - is
+  -
+  - - ni
+    - n
+  -
+  - - dum
+  -
+  - - pli
+  -
+  - - ol
+  -
+  - - unu
+  -
+  - - hor
+    - o
+  - .
+  -
+  - - Sed
+  -
+  - - ne
+  -
+  - - est
+    - as
+  -
+  - - facil
+    - e
+  -
+  - - ir
+    - i
+  -
+  - - pli
+  -
+  - - rapid
+    - e
+  -
+  - - ol
+  -
+  - - ni
+    - a
+  -
+  - - ŝip
+    - o
+  - .
+  -
+  - - Do
+  - ','
+  -
+  - - kia
+    - j
+  -
+  - - nov
+    - aĵ
+    - o
+    - j
+  -
+  - - est
+    - as
+  -
+  - - tie
+  -
+  - - ĉi
+  -
+  - - en
+  -
+  - - Veneci
+    - o
+  - '?'
+- - –
+  -
+  - - Nenio
+  -
+  - - interes
+    - a
+  -
+  - –
+  -
+  - - nur
+  -
+  - - grand
+    - a
+  -
+  - - mal
+    - feliĉ
+    - o
+  -
+  - - por
+  -
+  - - Pietro
+  - .
+  -
+  - - Ĉu
+  -
+  - - vi
+  -
+  - - kon
+    - as
+  -
+  - - Pietro
+    - n
+  - '?'
+- - –
+  -
+  - - Kompren
+    - ebl
+    - e
+  - ','
+  -
+  - - ke
+  -
+  - - mi
+  -
+  - - kon
+    - as
+  - .
+- - –
+  -
+  - - Grand
+    - a
+  -
+  - - ŝip
+    - o
+  -
+  - - sub
+    - akv
+    - ig
+    - is
+  -
+  - - li
+    - a
+    - n
+  -
+  - - gondol
+    - o
+    - n
+  - .
+- - –
+  -
+  - - Kaj
+  -
+  - - kio
+  -
+  - - pri
+  -
+  - - Pietro
+  - '?'
+- - –
+  -
+  - - Li
+    - a
+  -
+  - - gondol
+    - o
+  -
+  - - sub
+    - akv
+    - iĝ
+    - is
+  - .
+  -
+  - - Okaz
+    - is
+  - ','
+  -
+  - - ke
+  -
+  - - ni
+  -
+  - - trov
+    - iĝ
+    - is
+  -
+  - - proksim
+    - e
+  - ','
+  -
+  - - tiel
+  -
+  - - ke
+  -
+  - - Ĝorĝo
+  -
+  - - kaj
+  -
+  - - mi
+  -
+  - - pren
+    - is
+  -
+  - - Pietro
+    - n
+  -
+  - - en
+  -
+  - - ni
+    - a
+    - n
+  -
+  - - gondol
+    - o
+    - n
+  - .
+  -
+  - - En
+  -
+  - - la
+  -
+  - - sam
+    - a
+  -
+  - - temp
+    - o
+  -
+  - - mi
+    - a
+  -
+  - - estr
+    - o
+  -
+  - - sub
+    - akv
+    - iĝ
+    - is
+  -
+  - - por
+  -
+  - - help
+    - i
+  -
+  - - jun
+    - ul
+    - in
+    - o
+    - n
+  - ','
+  -
+  - - kiu
+  -
+  - - preskaŭ
+  -
+  - - jam
+  -
+  - - mort
+    - is
+  -
+  - - kun
+  -
+  - - si
+    - a
+  -
+  - - onkl
+    - o
+  - .
+- - –
+  -
+  - - Ho
+  - ','
+  -
+  - - tie
+  -
+  - - est
+    - is
+  -
+  - - jun
+    - ul
+    - in
+    - o
+  -
+  - –
+  -
+  - - kaj
+  -
+  - - onkl
+    - o
+  - '?'
+- - –
+  -
+  - - Li
+    - n
+  -
+  - - ni
+  -
+  - - ne
+  -
+  - - pov
+    - is
+  -
+  - - help
+    - i
+  - .
+  -
+  - - Est
+    - is
+  -
+  - - grav
+    - a
+  -
+  - - hom
+    - o
+  - .
+  -
+  - - Sed
+  -
+  - - kio
+  -
+  - - vi
+    - n
+  -
+  - - al
+    - ven
+    - ig
+    - as
+  -
+  - - en
+  -
+  - - Veneci
+    - o
+    - n
+  - ','
+  -
+  - - amik
+    - o
+  -
+  - - mi
+    - a
+  - '?'
+- -
+  - - La
+  -
+  - - mar
+    - ist
+    - o
+  -
+  - - rapid
+    - e
+  -
+  - - ek
+    - rigard
+    - is
+  -
+  - - si
+    - a
+    - n
+  -
+  - - amik
+    - o
+    - n
+  -
+  - - kaj
+  -
+  - - komenc
+    - is
+  -
+  - - dir
+    - i
+  - ':'
+- - –
+  -
+  - - Do
+  - ','
+  -
+  - - vi
+  -
+  - - sci
+    - as
+  - ','
+  -
+  - - Ĝino
+  - ','
+  -
+  - - mi
+  -
+  - - al
+    - port
+    - is
+  -
+  - …
+- - - La
+  -
+  - - gondol
+    - ist
+    - o
+  -
+  - - sub
+    - it
+    - e
+  -
+  - - halt
+    - ig
+    - is
+  -
+  - - li
+    - n
+  - .
+- - –
+  -
+  - - Vid
+    - u
+  - .
+  -
+  - –
+  -
+  - - li
+  -
+  - - dir
+    - is
+  - .
+- -
+  - - Tiam
+  -
+  - - i
+    - u
+  -
+  - - hom
+    - o
+  -
+  - - pas
+    - is
+  -
+  - - apud
+  -
+  - - ili
+  - .
+  -
+  - - Li
+  -
+  - - ankoraŭ
+  -
+  - - ne
+  -
+  - - est
+    - is
+  -
+  - - tri
+    - dek
+    - jar
+    - a
+  - ','
+  -
+  - - kaj
+  -
+  - - li
+    - a
+  -
+  - - vizaĝ
+    - o
+  -
+  - - est
+    - is
+  -
+  - - sen
+    - kolor
+    - a
+  - .
+  -
+  - - Li
+    - a
+  -
+  - - ir
+    - o
+  -
+  - - est
+    - is
+  -
+  - - cert
+    - a
+  -
+  - - kaj
+  -
+  - - facil
+    - a
+  - .
+  -
+  - - Li
+    - a
+  -
+  - - vizaĝ
+    - o
+  -
+  - - est
+    - is
+  -
+  - - mal
+    - ĝoj
+    - a
+  - .
+- - –
+  -
+  - - Jakopo
+  -
+  - –
+  -
+  - - dir
+    - is
+  -
+  - - Ĝino
+  - ','
+  -
+  - - kiam
+  -
+  - - li
+  -
+  - - ek
+    - vid
+    - is
+  -
+  - - la
+  -
+  - - hom
+    - o
+    - n
+  -
+  - –
+  -
+  - - oni
+  -
+  - - dir
+    - as
+  - ','
+  -
+  - - ke
+  -
+  - - mult
+    - a
+    - j
+  -
+  - - grav
+    - ul
+    - o
+    - j
+  -
+  - - don
+    - as
+  -
+  - - sekret
+    - a
+    - j
+    - n
+  -
+  - - labor
+    - o
+    - j
+    - n
+  -
+  - - al
+  -
+  - - li
+  - .
+  -
+  - - Li
+  -
+  - - sci
+    - as
+  -
+  - - tro
+  -
+  - - da
+  -
+  - - sekret
+    - o
+    - j
+  - .
+- - –
+  -
+  - - Kaj
+  -
+  - - tial
+  -
+  - - ili
+  -
+  - - tim
+    - as
+  -
+  - - send
+    - i
+  -
+  - - li
+    - n
+  -
+  - - en
+  -
+  - - mal
+    - liber
+    - ej
+    - o
+    - n
+  -
+  - –
+  -
+  - - dir
+    - is
+  -
+  - - la
+  -
+  - - mar
+    - ist
+    - o
+  - ','
+  -
+  - - kaj
+  -
+  - - dum
+  -
+  - - li
+  -
+  - - parol
+    - is
+  - ','
+  -
+  - - li
+  -
+  - - montr
+    - is
+  -
+  - - la
+  -
+  - - dom
+    - eg
+    - o
+    - n
+  -
+  - - de
+  -
+  - - la
+  -
+  - - Doĝ
+    - o
+    - j
+  - .
+- - –
+  -
+  - - Ver
+    - e
+  - ','
+  -
+  - - mult
+    - a
+    - j
+  -
+  - - grav
+    - ul
+    - o
+    - j
+  -
+  - - bezon
+    - as
+  -
+  - - li
+    - a
+    - n
+  -
+  - - help
+    - o
+    - n
+  -
+  - –
+  -
+  - - dir
+    - is
+  -
+  - - Ĝino
+  - .
+- - –
+  -
+  - - Kaj
+  -
+  - - kiom
+  -
+  - - ili
+  -
+  - - pag
+    - as
+  -
+  - - al
+  -
+  - - li
+  -
+  - - por
+  -
+  - - unu
+  -
+  - - mort
+    - ig
+    - o
+  - '?'
+- - –
+  -
+  - - Cert
+    - e
+  -
+  - - ne
+  -
+  - - mal
+    - pli
+  -
+  - - ol
+  -
+  - - cent
+  -
+  - - mon
+    - er
+    - o
+    - j
+    - n
+  - .
+  -
+  - - Ne
+  -
+  - - forges
+    - u
+  - ','
+  -
+  - - ke
+  -
+  - - li
+  -
+  - - labor
+    - as
+  -
+  - - por
+  -
+  - - tiu
+    - j
+  - ','
+  -
+  - - kiu
+    - j
+  -
+  - - hav
+    - as
+  -
+  - - sufiĉ
+    - e
+  -
+  - - da
+  -
+  - - mon
+    - o
+  -
+  - - por
+  -
+  - - pag
+    - i
+  -
+  - - al
+  -
+  - - li
+  - .
+  -
+  - - Sed
+  - ','
+  -
+  - - Stefan
+    - o
+  - ','
+  -
+  - - en
+  -
+  - - Veneci
+    - o
+  -
+  - - est
+    - as
+  -
+  - - afer
+    - o
+    - j
+  - ','
+  -
+  - - kiu
+    - j
+    - n
+  -
+  - - est
+    - as
+  -
+  - - pli
+  -
+  - - bon
+    - e
+  -
+  - - forges
+    - i
+  - ','
+  -
+  - - se
+  -
+  - - vi
+  -
+  - - vol
+    - as
+  -
+  - - trankvil
+    - e
+  -
+  - - manĝ
+    - i
+  -
+  - - vi
+    - a
+    - n
+  -
+  - - pan
+    - o
+    - n
+  - .
+- - - Est
+    - is
+  -
+  - - iom
+  -
+  - - da
+  -
+  - - silent
+    - o
+  -
+  - - kaj
+  -
+  - - post
+    - e
+  -
+  - - la
+  -
+  - - gondol
+    - ist
+    - o
+  -
+  - - de
+    - nov
+    - e
+  -
+  - - ek
+    - parol
+    - is
+  - ':'
+- - –
+  -
+  - - Vi
+  -
+  - - ven
+    - is
+  -
+  - - ĝust
+    - a
+    - temp
+    - e
+  -
+  - - por
+  -
+  - - vid
+    - i
+  -
+  - - ŝip
+    - kur
+    - o
+    - n
+  - .
+- - –
+  -
+  - - Ĝino
+  -
+  - –
+  -
+  - - i
+    - u
+  -
+  - - dir
+    - is
+  -
+  - - mal
+    - fort
+    - e
+  -
+  - - proksim
+    - e
+  -
+  - - de
+  -
+  - - la
+  -
+  - - gondol
+    - ist
+    - o
+  - .
+- - –
+  -
+  - - Sinjor
+    - o
+  - '?'
+- - - Don Kamilo
+  -
+  - - Mon
+    - fort
+    - e
+  - ','
+  -
+  - - la
+  -
+  - - estr
+    - o
+  -
+  - - de
+  -
+  - - Ĝino
+  -
+  - - sen
+    - vort
+    - e
+  -
+  - - montr
+    - is
+  -
+  - - al
+  -
+  - - la
+  -
+  - - gondol
+    - o
+  - .
+- - –
+  -
+  - - Ĝis
+  -
+  - - re
+    - vid
+    - o
+  -
+  -
+  - –
+  -
+  - - dir
+    - is
+  -
+  - - la
+  -
+  - - gondol
+    - ist
+    - o
+  -
+  - - kaj
+  -
+  - - pren
+    - is
+  -
+  - - la
+  -
+  - - man
+    - o
+    - n
+  -
+  - - de
+  -
+  - - si
+    - a
+  -
+  - - amik
+    - o
+  - .

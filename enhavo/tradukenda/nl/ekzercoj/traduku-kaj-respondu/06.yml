@@ -1,68 +1,68 @@
 - demando: Wil je dat ik je mijn nieuwste boek laat zien?
   rektatraduko:
-    - Ĉu: Of
-    - vi: je
-    - deziras: wilt
-    - ','
-    - ke: dat
-    - mi: ik
-    - montru: laat zien
-    - al: aan
-    - vi: jou
-    - mian: mijn
-    - plej: meest
-    - novan: nieuwe
-    - libron: boek
-    - '?'
+  - Ĉu: Of
+  - vi: je
+  - deziras: wilt
+  - ','
+  - ke: dat
+  - mi: ik
+  - montru: laat zien
+  - al: aan
+  - vi: jou
+  - mian: mijn
+  - plej: meest
+  - novan: nieuwe
+  - libron: boek
+  - '?'
 - demando: Wat wil je morgen ontbijten?
   rektatraduko:
-    - Kion: Wat
-    - vi: je
-    - volas: wil
-    - morgaŭ: morgen
-    - matenmanĝi: ontbijten
-    - '?'
+  - Kion: Wat
+  - vi: je
+  - volas: wil
+  - morgaŭ: morgen
+  - matenmanĝi: ontbijten
+  - '?'
 - demando: Wanneer zal Marc aankomen, om vijf of om acht uur?
   rektatraduko:
-    - Kiam: Wanneer
-    - Marko: Marc
-    - alvenos: zal aankomen
-    - ','
-    - je: om
-    - la: het
-    - kvina: vijfde
-    - aŭ: of
-    - je: om
-    - la: het
-    - oka: achtste
-    - horo: uur
-    - '?'
+  - Kiam: Wanneer
+  - Marko: Marc
+  - alvenos: zal aankomen
+  - ','
+  - je: om
+  - la: het
+  - kvina: vijfde
+  - aŭ: of
+  - je: om
+  - la: het
+  - oka: achtste
+  - horo: uur
+  - '?'
 - demando: Wanneer heb je gemerkt dat de hele familie mij een weldoener noemt?
   rektatraduko:
-    - Kiam: Wanneer
-    - vi: je
-    - rimarkis: hebt gemerkt
-    - ','
-    - ke: dat
-    - la: de
-    - tuta: hele
-    - familio: familie
-    - nomas: noemt
-    - min: mij
-    - bonfarulo: een weldoener
-    - '?'
+  - Kiam: Wanneer
+  - vi: je
+  - rimarkis: hebt gemerkt
+  - ','
+  - ke: dat
+  - la: de
+  - tuta: hele
+  - familio: familie
+  - nomas: noemt
+  - min: mij
+  - bonfarulo: een weldoener
+  - '?'
 - demando: Was het boekje dat ik gestuurd heb nuttig voor jou?
   rektatraduko:
-    - Ĉu: Of
-    - la: het
-    - libreto: boekje
-    - ','
-    - kiun: dat
-    - mi: ik
-    - sendis: stuurde
-    - al: voor
-    - vi: jou
-    - ','
-    - estis: was
-    - utila: nuttig
-    - '?'
+  - Ĉu: Of
+  - la: het
+  - libreto: boekje
+  - ','
+  - kiun: dat
+  - mi: ik
+  - sendis: stuurde
+  - al: voor
+  - vi: jou
+  - ','
+  - estis: was
+  - utila: nuttig
+  - '?'

@@ -1,51 +1,47 @@
-- 
-  demando: Gör vänskap dig lyckligare än kärleken?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - amikeco: vänskap
-    - pli: mer
-    - feliĉigas: gör lycklig
-    - vin: dig
-    - ol: än
-    - la: (bestämd artikel)
-    - amo: kärlek
-    - '?'
-- 
-  demando: Hur ofta skriver du brev till dina väninnor i Italien?
-  rektatraduko: 
-    - Kiel: Hur
-    - ofte: ofta
-    - vi: du
-    - skribas: skriver
-    - leterojn: brev
-    - al: till
-    - viaj: dina
-    - amikinoj: väninnor
-    - en: i
-    - Italio: Italien
-    - '?'
-- 
-  demando: Har relationen mellan dig och din lärare förändrats?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - la: (bestämd artikel)
-    - rilato: relation
-    - inter: mellan
-    - vi: du
-    - kaj: och
-    - via: din
-    - instruisto: lärare
-    - ŝanĝiĝis: ändrats
-    - '?'
-- 
-  demando: Kan du redan esperanto tillräckligt bra som det är nu?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - vi: du
-    - nun: nu
-    - jam: redan
-    - scias: vet
-    - Esperanton: Esperanto
-    - sufiĉe: tillräckligt
-    - bone: bra
-    - '?'
+- demando: Gör vänskap dig lyckligare än kärleken?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - amikeco: vänskap
+  - pli: mer
+  - feliĉigas: gör lycklig
+  - vin: dig
+  - ol: än
+  - la: (bestämd artikel)
+  - amo: kärlek
+  - '?'
+- demando: Hur ofta skriver du brev till dina väninnor i Italien?
+  rektatraduko:
+  - Kiel: Hur
+  - ofte: ofta
+  - vi: du
+  - skribas: skriver
+  - leterojn: brev
+  - al: till
+  - viaj: dina
+  - amikinoj: väninnor
+  - en: i
+  - Italio: Italien
+  - '?'
+- demando: Har relationen mellan dig och din lärare förändrats?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - la: (bestämd artikel)
+  - rilato: relation
+  - inter: mellan
+  - vi: du
+  - kaj: och
+  - via: din
+  - instruisto: lärare
+  - ŝanĝiĝis: ändrats
+  - '?'
+- demando: Kan du redan esperanto tillräckligt bra som det är nu?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - vi: du
+  - nun: nu
+  - jam: redan
+  - scias: vet
+  - Esperanton: Esperanto
+  - sufiĉe: tillräckligt
+  - bone: bra
+  - '?'

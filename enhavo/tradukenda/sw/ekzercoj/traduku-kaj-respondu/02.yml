@@ -1,64 +1,64 @@
 - demando: Nyumba yako ya zamani ilikuwa ya namna gani?
   rektatraduko:
-    - Kia: Ya namna gani
-    - estis: ilikuwa
-    - via: yako
-    - malnova: ya zamani
-    - hejmo: nyumbani
-    - '?'
+  - Kia: Ya namna gani
+  - estis: ilikuwa
+  - via: yako
+  - malnova: ya zamani
+  - hejmo: nyumbani
+  - '?'
 - demando: Ulisoma vitabu vipi, na je, vilikuwa vizuri?
   rektatraduko:
-    - Kiujn: Vipi
-    - librojn: vitabu
-    - vi: wewe
-    - legis: ulisoma
-    - kaj: na
-    - ĉu: je
-    - ili: hivyo
-    - estas: ni
-    - bonaj: vizuri
-    - '?'
+  - Kiujn: Vipi
+  - librojn: vitabu
+  - vi: wewe
+  - legis: ulisoma
+  - kaj: na
+  - ĉu: je
+  - ili: hivyo
+  - estas: ni
+  - bonaj: vizuri
+  - '?'
 - demando: Ana na Marko walifanya nini katika chumba kidogo cha Marko?
   rektatraduko:
-    - Kion: Nini
-    - faris: walifanya
-    - Ana: Ana
-    - kaj: na
-    - Marko: Marko
-    - en: katika
-    - la: kiarifu
-    - malgranda: kidogo
-    - ĉambro: chumba
-    - de: cha
-    - Marko: Marko
-    - '?'
+  - Kion: Nini
+  - faris: walifanya
+  - Ana: Ana
+  - kaj: na
+  - Marko: Marko
+  - en: katika
+  - la: kiarifu
+  - malgranda: kidogo
+  - ĉambro: chumba
+  - de: cha
+  - Marko: Marko
+  - '?'
 - demando: Je, unapenda kusoma vitabu kuhusu mapenzi?
   rektatraduko:
-    - Ĉu: je
-    - vi: wewe
-    - ŝatas: unapenda
-    - legi: kusoma
-    - librojn: vitabu
-    - pri: kuhusu
-    - amo: mapenzi
-    - '?'
+  - Ĉu: je
+  - vi: wewe
+  - ŝatas: unapenda
+  - legi: kusoma
+  - librojn: vitabu
+  - pri: kuhusu
+  - amo: mapenzi
+  - '?'
 - demando: Nani ataenda pamoja nawe nyumbani kwako?
   rektatraduko:
-    - Kiu: Nani
-    - iros: ataenda
-    - kun: pamoja na
-    - vi: wewe
-    - al: kwa
-    - via: kwako
-    - hejmo: nyumbani
-    - '?'
+  - Kiu: Nani
+  - iros: ataenda
+  - kun: pamoja na
+  - vi: wewe
+  - al: kwa
+  - via: kwako
+  - hejmo: nyumbani
+  - '?'
 - demando: Macho ya rafiki yako wa kike yakoje?
   rektatraduko:
-    - Kiaj: Yakoje
-    - estas: yako
-    - la: kiarifu
-    - okuloj: macho
-    - de: ya
-    - via: yako
-    - amikino: rafiki wa kike
-    - '?'
+  - Kiaj: Yakoje
+  - estas: yako
+  - la: kiarifu
+  - okuloj: macho
+  - de: ya
+  - via: yako
+  - amikino: rafiki wa kike
+  - '?'

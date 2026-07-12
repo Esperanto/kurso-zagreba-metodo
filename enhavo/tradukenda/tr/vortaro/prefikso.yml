@@ -1,16 +1,16 @@
 dis:
 - dağıtma
 - parçalara ayırma
-ek: 
+ek:
 - aksiyon başlangıc
-- ani başlangıç 
-for: 
+- ani başlangıç
+for:
 - uzak
 - yok etme
 ge:
-- her iki cinse dair 
+- her iki cinse dair
 mal:
-- zıt 
-re: 
+- zıt
+re:
 - tekrar
 - geriye

@@ -1,64 +1,59 @@
--
-  demando: Cậu có thể học một cách bình tĩnh, trong khi có ai đó hát một cách vui vẻ được không?
-  rektatraduko: 
-    - Ĉu: Có được không
-    - vi: cậu
-    - povas: có thể
-    - trankvile: một cách bình tĩnh
-    - lerni: học
-    - ','
-    - dum: trong khi
-    - iu: ai đó
-    - ĝoje: một cách vui vẻ
-    - kantas: hát
-    - '?'
--
-  demando: Ai mà biết được chúng ta sẽ gặp lại nhau khi nào và ở đâu?
-  rektatraduko: 
-    - Kiu: Ai
-    - scias: biết
-    - ','
-    - kiam: khi nào
-    - kaj: và
-    - kie: ở đâu
-    - ni: chúng ta
-    - revidos: sẽ gặp lại
-    - nin: nhau
-    - '?'
--
-  demando: Bây giờ là mấy (bao nhiêu) giờ rồi vậy?
-  rektatraduko: 
-    - Kioma: Bao nhiêu
-    - horo: giờ
-    - estas: thì là
-    - nun: bây giờ
-    - '?'
--
-  demando: Có ai đó đã giúp cậu mở cánh cửa của ngôi nhà cũ đó hả?
-  rektatraduko: 
-    - Ĉu: Có hả
-    - iu: ai đó 
-    - helpis: đã giúp
-    - al: (đến)
-    - vi: cậu
-    - malfermi: mở
-    - la: (mạo từ xác định)
-    - pordon: cánh cửa
-    - de: của
-    - la: (mạo từ xác định)
-    - malnova: cũ
-    - domo: ngôi nhà
-    - '?'
--
-  demando: Tại sao cậu không có thời gian để lắng nghe tôi lâu hơn nữa?
-  rektatraduko: 
-    - Kial: Tại sao
-    - vi: cậu
-    - ne: không
-    - havas: có
-    - tempon: thời gian
-    - aŭskulti: lắng nghe
-    - min: tôi
-    - pli: hơn nữa
-    - longe: lâu
-    - '?'
+- demando: Cậu có thể học một cách bình tĩnh, trong khi có ai đó hát một cách vui vẻ được không?
+  rektatraduko:
+  - Ĉu: Có được không
+  - vi: cậu
+  - povas: có thể
+  - trankvile: một cách bình tĩnh
+  - lerni: học
+  - ','
+  - dum: trong khi
+  - iu: ai đó
+  - ĝoje: một cách vui vẻ
+  - kantas: hát
+  - '?'
+- demando: Ai mà biết được chúng ta sẽ gặp lại nhau khi nào và ở đâu?
+  rektatraduko:
+  - Kiu: Ai
+  - scias: biết
+  - ','
+  - kiam: khi nào
+  - kaj: và
+  - kie: ở đâu
+  - ni: chúng ta
+  - revidos: sẽ gặp lại
+  - nin: nhau
+  - '?'
+- demando: Bây giờ là mấy (bao nhiêu) giờ rồi vậy?
+  rektatraduko:
+  - Kioma: Bao nhiêu
+  - horo: giờ
+  - estas: thì là
+  - nun: bây giờ
+  - '?'
+- demando: Có ai đó đã giúp cậu mở cánh cửa của ngôi nhà cũ đó hả?
+  rektatraduko:
+  - Ĉu: Có hả
+  - iu: ai đó
+  - helpis: đã giúp
+  - al: (đến)
+  - vi: cậu
+  - malfermi: mở
+  - la: (mạo từ xác định)
+  - pordon: cánh cửa
+  - de: của
+  - la: (mạo từ xác định)
+  - malnova: cũ
+  - domo: ngôi nhà
+  - '?'
+- demando: Tại sao cậu không có thời gian để lắng nghe tôi lâu hơn nữa?
+  rektatraduko:
+  - Kial: Tại sao
+  - vi: cậu
+  - ne: không
+  - havas: có
+  - tempon: thời gian
+  - aŭskulti: lắng nghe
+  - min: tôi
+  - pli: hơn nữa
+  - longe: lâu
+  - '?'

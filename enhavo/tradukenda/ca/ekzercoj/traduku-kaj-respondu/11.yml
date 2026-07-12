@@ -1,49 +1,49 @@
 - demando: Pots portar la medicina de la meva germana?
   rektatraduko:
-    - Ĉu: Que
-    - vi: Tu
-    - povas: pots
-    - kunporti: portar
-    - la: la
-    - sanigilon: medicina
-    - de: de
-    - mia: la meva
-    - fratino: germana
-    - '?'
+  - Ĉu: Que
+  - vi: Tu
+  - povas: pots
+  - kunporti: portar
+  - la: la
+  - sanigilon: medicina
+  - de: de
+  - mia: la meva
+  - fratino: germana
+  - '?'
 - demando: Quan vas comprar aquell instrument musical?
   rektatraduko:
-    - Kiam: Quan
-    - vi: tu
-    - aĉetis: vas comprar
-    - tiun: aquell
-    - muzikilon: instrument musical
-    - '?'
+  - Kiam: Quan
+  - vi: tu
+  - aĉetis: vas comprar
+  - tiun: aquell
+  - muzikilon: instrument musical
+  - '?'
 - demando: Qui va fer servir la meva clau per última vegada?
   rektatraduko:
-    - Kiu: Qui
-    - laste: per última vegada
-    - uzis: va fer servir
-    - mian: la meva
-    - ŝlosilon: clau
-    - '?'
+  - Kiu: Qui
+  - laste: per última vegada
+  - uzis: va fer servir
+  - mian: la meva
+  - ŝlosilon: clau
+  - '?'
 - demando: A Venècia vas viatjar també amb góndola?
   rektatraduko:
-    - Ĉu: Que
-    - vi: Tu
-    - en: a
-    - Venecio: Venècia
-    - veturis: vas viatjar
-    - ankaŭ: també
-    - per: amb
-    - gondolo: góndola
-    - '?'
+  - Ĉu: Que
+  - vi: Tu
+  - en: a
+  - Venecio: Venècia
+  - veturis: vas viatjar
+  - ankaŭ: també
+  - per: amb
+  - gondolo: góndola
+  - '?'
 - demando: Podràs adormir-te quan hi hagi silenci?
   rektatraduko:
-    - Ĉu: Que
-    - vi: Tu
-    - povos: podràs
-    - ekdormi: adormir-te
-    - ','
-    - kiam: quan
-    - silentiĝos: silenci
-    - '?'
+  - Ĉu: Que
+  - vi: Tu
+  - povos: podràs
+  - ekdormi: adormir-te
+  - ','
+  - kiam: quan
+  - silentiĝos: silenci
+  - '?'

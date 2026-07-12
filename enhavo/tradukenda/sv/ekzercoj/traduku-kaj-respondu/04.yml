@@ -1,67 +1,67 @@
 - demando: När kommer jag att se dig igen?
   rektatraduko:
-    - Kiam: När
-    - mi: jag
-    - revidos: kommer att återse
-    - vin: dig
-    - '?'
+  - Kiam: När
+  - mi: jag
+  - revidos: kommer att återse
+  - vin: dig
+  - '?'
 - demando: Hur länge har du lärt dig det Internationella språket?
   rektatraduko:
-    - Kiom: hur mycket
-    - longe: länge
-    - vi: du
-    - lernas: lära sig
-    - la: det
-    - Internacian: internationell
-    - Lingvon: språk
-    - '?'
+  - Kiom: hur mycket
+  - longe: länge
+  - vi: du
+  - lernas: lära sig
+  - la: det
+  - Internacian: internationell
+  - Lingvon: språk
+  - '?'
 - demando: Var är min nya bok med foton?
   rektatraduko:
-    - Kie: Var
-    - estas: är
-    - mia: min
-    - nova: ny
-    - libro: bok
-    - kun: med
-    - fotoj: foton
-    - '?'
+  - Kie: Var
+  - estas: är
+  - mia: min
+  - nova: ny
+  - libro: bok
+  - kun: med
+  - fotoj: foton
+  - '?'
 - demando: Vart ska du gå efter middagen?
   rektatraduko:
-    - Kien: Vart
-    - vi: du
-    - iros: kommer att gå
-    - post: efter
-    - la: (bestämd artikel)
-    - tagmanĝo: lunch
-    - '?'
+  - Kien: Vart
+  - vi: du
+  - iros: kommer att gå
+  - post: efter
+  - la: (bestämd artikel)
+  - tagmanĝo: lunch
+  - '?'
 - demando: Kan man stänga dörren till rummet om det är kallt?
   rektatraduko:
-    - Ĉu: (frågepartikeln)
-    - oni: man
-    - povas: kan
-    - fermi: stänga
-    - la: (bestämd artikel)
-    - pordon: dörr
-    - de: (preposition som visar ägande)
-    - la: (bestämd artikel)
-    - ĉambro: rum
-    - ','
-    - kiam: när
-    - estas: är
-    - malvarme: kallt
-    - '?'
+  - Ĉu: (frågepartikeln)
+  - oni: man
+  - povas: kan
+  - fermi: stänga
+  - la: (bestämd artikel)
+  - pordon: dörr
+  - de: (preposition som visar ägande)
+  - la: (bestämd artikel)
+  - ĉambro: rum
+  - ','
+  - kiam: när
+  - estas: är
+  - malvarme: kallt
+  - '?'
 - demando: Hur länge är du arg när man tar ifrån dig mycket pengar?
   rektatraduko:
-    - Kiom: hur mycket
-    - longe: länge
-    - vi: du
-    - koleras: är arg
-    - ','
-    - se: om
-    - oni: man
-    - forprenas: tar bort
-    - de: från
-    - vi: du
-    - multan: mycket
-    - monon: pengar
-    - '?'
+  - Kiom: hur mycket
+  - longe: länge
+  - vi: du
+  - koleras: är arg
+  - ','
+  - se: om
+  - oni: man
+  - forprenas: tar bort
+  - de: från
+  - vi: du
+  - multan: mycket
+  - monon: pengar
+  - '?'

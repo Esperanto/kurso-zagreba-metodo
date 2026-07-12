@@ -1,4 +1,4 @@
-.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-ui check-pwa html html-all md serve clean
+.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-ui check-pwa html html-all md normalize-yaml serve clean
 
 LINGVO ?= en
 HOST ?= 127.0.0.1
@@ -25,11 +25,13 @@ help:
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
 		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
 		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj' \
+		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/' \
 		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
 		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por pretaj kaj testaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
+		'  make normalize-yaml  Normaligas YAML-dosierojn sub enhavo/' \
 		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000' \
 		'  make clean           Forigas generitan HTML-eligon'
 
@@ -89,6 +91,10 @@ check-yaml:
 	@printf '%s\n' 'bone'
 	@printf '%s\n' 'Sukcesis: kontrolis YAML-dosierojn'
 
+check-yaml-normalized:
+	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
+	@"$(PYTHON)" iloj/normaligu-yaml.py --kontrolu enhavo
+
 check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@test -f "$(NODE_MODULES)/.bin/playwright" || { printf '%s\n' 'Mankas Playwright en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
@@ -111,6 +117,10 @@ html-all: bundle
 
 md:
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo md
+
+normalize-yaml:
+	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
+	@"$(PYTHON)" iloj/normaligu-yaml.py enhavo
 
 serve:
 	@"$(PYTHON)" -m http.server "$(PORT)" --bind "$(HOST)" --directory "$(OUTPUT_DIR)"

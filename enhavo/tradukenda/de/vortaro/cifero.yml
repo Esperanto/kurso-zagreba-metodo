@@ -3,15 +3,15 @@ unu:
 - eine
 - eines
 - eins
-du: zwei 
-tri: drei 
-kvar: vier 
-kvin: fünf 
-ses: sechs 
+du: zwei
+tri: drei
+kvar: vier
+kvin: fünf
+ses: sechs
 sep: sieben
-ok: acht 
-naŭ: neun 
-dek: zehn 
+ok: acht
+naŭ: neun
+dek: zehn
 dek unu: elf
 dek du: zwölf
 dek tri: dreizehn
@@ -27,5 +27,5 @@ kvardek: vierzig
 cent: hundert
 ducent: zweihundert
 tricent: dreihundert
-mil: tausend 
-dumil: zweitausend 
+mil: tausend
+dumil: zweitausend

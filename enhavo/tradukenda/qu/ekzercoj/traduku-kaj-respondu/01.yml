@@ -1,51 +1,51 @@
 - demando: Qanpa warmi masiykiqa pim?
   rektatraduko:
-    - Kiu: Pi
-    - estas: kan
-    - via: qanpa
-    - amikino: warmi masi
-    - '?'
+  - Kiu: Pi
+  - estas: kan
+  - via: qanpa
+  - amikino: warmi masi
+  - '?'
 - demando: Qanpa warmi masiyki Anaqa kunan wasi ukhupi qillqachkanchu?
   rektatraduko:
-    - Ĉu: Chu
-    - via: qanpa
-    - amikino: warmi masi
-    - Ana: Ana
-    - skribas: qillqan
-    - nun: kunan
-    - en: ukhupi
-    - la: riqsisqa
-    - ĉambro: wasi ukhu
-    - '?'
+  - Ĉu: Chu
+  - via: qanpa
+  - amikino: warmi masi
+  - Ana: Ana
+  - skribas: qillqan
+  - nun: kunan
+  - en: ukhupi
+  - la: riqsisqa
+  - ĉambro: wasi ukhu
+  - '?'
 - demando: Qanpa taytaykipa masinqa hotelpi llamk'anchu?
   rektatraduko:
-    - Ĉu: Chu
-    - la: riqsisqa
-    - amiko: masi
-    - de: pa
-    - via: qanpa
-    - patro: tayta
-    - laboras: llamk'an
-    - en: pi
-    - hotelo: hotel
-    - '?'
+  - Ĉu: Chu
+  - la: riqsisqa
+  - amiko: masi
+  - de: pa
+  - via: qanpa
+  - patro: tayta
+  - laboras: llamk'an
+  - en: pi
+  - hotelo: hotel
+  - '?'
 - demando: Imataq ñuqanchikpa wasi ukhupi llamk'ana mesapi kachkan?
   rektatraduko:
-    - Kio: Ima
-    - estas: kan
-    - sur: patapi
-    - la: riqsisqa
-    - labortablo: llamk'ana mesa
-    - en: ukhupi
-    - nia: ñuqanchikpa
-    - ĉambro: wasi ukhu
-    - '?'
+  - Kio: Ima
+  - estas: kan
+  - sur: patapi
+  - la: riqsisqa
+  - labortablo: llamk'ana mesa
+  - en: ukhupi
+  - nia: ñuqanchikpa
+  - ĉambro: wasi ukhu
+  - '?'
 - demando: Qanpa mesaykipi Esperanto yachay liwru kanchu?
   rektatraduko:
-    - Ĉu: Chu
-    - Esperanto-lernolibro: Esperanto yachay liwru
-    - estas: kan
-    - sur: patapi
-    - via: qanpa
-    - tablo: mesa
-    - '?'
+  - Ĉu: Chu
+  - Esperanto-lernolibro: Esperanto yachay liwru
+  - estas: kan
+  - sur: patapi
+  - via: qanpa
+  - tablo: mesa
+  - '?'

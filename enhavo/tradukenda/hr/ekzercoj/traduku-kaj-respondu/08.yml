@@ -1,80 +1,80 @@
 - demando: Tko će očistiti kuhinju nakon ručka?
   rektatraduko:
-    - Kiu: Tko
-    - purigos: očistit će
-    - la: (član)
-    - kuirejon: kuhinju
-    - post: nakon
-    - la: (član)
-    - tagmanĝo: ručak
-    - '?'
+  - Kiu: Tko
+  - purigos: očistit će
+  - la: (član)
+  - kuirejon: kuhinju
+  - post: nakon
+  - la: (član)
+  - tagmanĝo: ručak
+  - '?'
 - demando: 'Što želite piti: čaj, malo kave, čašu vode ili nećete ništa?'
   rektatraduko:
-    - Kion: Što
-    - vi: vi
-    - volas: želiš
-    - trinki: piti
-    - ':'
-    - teon: čaj
-    - ','
-    - iom: malo
-    - da: od
-    - kafo: kave
-    - aŭ: ili
-    - ĉu: je li
-    - vi: vi
-    - volas: želiš
-    - nenion: ništa
-    - '?'
+  - Kion: Što
+  - vi: vi
+  - volas: želiš
+  - trinki: piti
+  - ':'
+  - teon: čaj
+  - ','
+  - iom: malo
+  - da: od
+  - kafo: kave
+  - aŭ: ili
+  - ĉu: je li
+  - vi: vi
+  - volas: želiš
+  - nenion: ništa
+  - '?'
 - demando: Zbog čega si tako iznenada odlučio obnoviti svoju sobicu i kupiti nekoliko skupih knjiga?
   rektatraduko:
-    - Kial: Zašto
-    - vi: ti
-    - tiel: tako
-    - subite: iznenada
-    - decidis: odlučio si
-    - renovigi: obnoviti
-    - vian: tvoj
-    - ĉambreton: mala soba
-    - '?'
+  - Kial: Zašto
+  - vi: ti
+  - tiel: tako
+  - subite: iznenada
+  - decidis: odlučio si
+  - renovigi: obnoviti
+  - vian: tvoj
+  - ĉambreton: mala soba
+  - '?'
 - demando: Kamo si stavio čiste čaše za vino?
   rektatraduko:
-    - Al: prema
-    - kiu: tko
-    - vi: ti
-    - donis: did give
-    - la: (član)
-    - purajn: čiste
-    - glasojn: čaše
-    - por: za
-    - la: (član)
-    - vino: vino
-    - '?'
+  - Al: prema
+  - kiu: tko
+  - vi: ti
+  - donis: did give
+  - la: (član)
+  - purajn: čiste
+  - glasojn: čaše
+  - por: za
+  - la: (član)
+  - vino: vino
+  - '?'
 - demando: Protiv koga je igrao tvoj sportski klub prije dva tjedna?
   rektatraduko:
-    - Kontraŭ: Protiv
-    - kiu: tko
-    - ludis: igrao je
-    - via: tvoj
-    - sportklubo: sportski klub
-    - antaŭ: prije
-    - du: dva
-    - semajnoj: tjedna
-    - '?'
+  - Kontraŭ: Protiv
+  - kiu: tko
+  - ludis: igrao je
+  - via: tvoj
+  - sportklubo: sportski klub
+  - antaŭ: prije
+  - du: dva
+  - semajnoj: tjedna
+  - '?'
 - demando: Viđaš li često policajca koji stanuje u stanu iznad tvog?
   rektatraduko:
-    - Ĉu: Da li
-    - vi: ti
-    - ofte: često
-    - vidas: vidiš
-    - la: (član)
-    - policiston: policajac
-    - ','
-    - kiu: tko
-    - loĝas: stanuje
-    - en: u
-    - la: (član)
-    - loĝejo: stan
-    - super: iznad
-    - vi: ti
-    - '?'
+  - Ĉu: Da li
+  - vi: ti
+  - ofte: često
+  - vidas: vidiš
+  - la: (član)
+  - policiston: policajac
+  - ','
+  - kiu: tko
+  - loĝas: stanuje
+  - en: u
+  - la: (član)
+  - loĝejo: stan
+  - super: iznad
+  - vi: ti
+  - '?'

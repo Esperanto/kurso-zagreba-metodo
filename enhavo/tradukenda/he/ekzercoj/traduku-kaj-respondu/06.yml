@@ -1,68 +1,68 @@
 - demando: ?האם אתה רוצה שאני אראה לך את הספר החדש ביותר שלי
   rektatraduko:
-    - Ĉu: האם
-    - vi: אתה
-    - deziras: רוצה
-    - ','
-    - ke: ש
-    - mi: אני
-    - montru: אראה
-    - al: ל
-    - vi: אתה
-    - mian: את שלי
-    - plej: הכי
-    - novan: חדש
-    - libron: ספר
-    - '?'
+  - Ĉu: האם
+  - vi: אתה
+  - deziras: רוצה
+  - ','
+  - ke: ש
+  - mi: אני
+  - montru: אראה
+  - al: ל
+  - vi: אתה
+  - mian: את שלי
+  - plej: הכי
+  - novan: חדש
+  - libron: ספר
+  - '?'
 - demando: ?מה אתה רוצה לארוחת בוקר מחר
   rektatraduko:
-    - Kion: מה
-    - vi: אתה
-    - volas: רוצה
-    - morgaŭ: מחר
-    - matenmanĝi: לאכול לארוחת בוקר
-    - '?'
+  - Kion: מה
+  - vi: אתה
+  - volas: רוצה
+  - morgaŭ: מחר
+  - matenmanĝi: לאכול לארוחת בוקר
+  - '?'
 - demando: ?מתי מרקו יגיע, בחמש או בשמונה
   rektatraduko:
-    - Kiam: מתי
-    - Marko: מרקו
-    - alvenos: יגיע
-    - ','
-    - je: ב
-    - la: ה
-    - kvina: חמש
-    - aŭ: או
-    - je: ב
-    - la: ה
-    - oka: שמונה
-    - horo: שעה
-    - '?'
+  - Kiam: מתי
+  - Marko: מרקו
+  - alvenos: יגיע
+  - ','
+  - je: ב
+  - la: ה
+  - kvina: חמש
+  - aŭ: או
+  - je: ב
+  - la: ה
+  - oka: שמונה
+  - horo: שעה
+  - '?'
 - demando: ?מתי אתה הבחנת שכל המשפחה קוראת לי אדם טוב
   rektatraduko:
-    - Kiam: מתי
-    - vi: אתה
-    - rimarkis: הבחנת
-    - ','
-    - ke: ש
-    - la: ה
-    - tuta: כל
-    - familio: משפחה
-    - nomas: קוראת
-    - min: לי
-    - bonfarulo: אדם טוב
-    - '?'
+  - Kiam: מתי
+  - vi: אתה
+  - rimarkis: הבחנת
+  - ','
+  - ke: ש
+  - la: ה
+  - tuta: כל
+  - familio: משפחה
+  - nomas: קוראת
+  - min: לי
+  - bonfarulo: אדם טוב
+  - '?'
 - demando: ?האם החוברת שאותה שלחתי לך היתה מועילה
   rektatraduko:
-    - Ĉu: האם
-    - la: ה
-    - libreto: חוברת
-    - ','
-    - kiun: שאותה
-    - mi: אני
-    - sendis: שלחתי
-    - al: אל
-    - vi: אתה
-    - ','
-    - estis: היתה
-    - utila: מועילה
-    - '?'
+  - Ĉu: האם
+  - la: ה
+  - libreto: חוברת
+  - ','
+  - kiun: שאותה
+  - mi: אני
+  - sendis: שלחתי
+  - al: אל
+  - vi: אתה
+  - ','
+  - estis: היתה
+  - utila: מועילה
+  - '?'

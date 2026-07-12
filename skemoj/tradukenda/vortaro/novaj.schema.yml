@@ -1,6 +1,0 @@
-$schema: https://json-schema.org/draft/2020-12/schema
-title: Tradukenda vortaro YAML, novaj
-allOf:
-- $ref: ../vortaro.schema.yml
-- type: object
-  maxProperties: 0

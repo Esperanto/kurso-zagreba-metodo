@@ -1,6 +1,7 @@
 afer:
 - مسألة
 - قضية
+ag: فعل ، دور
 agrabl: ممتع
 akcept:
 - قبول
@@ -10,12 +11,14 @@ ali: آخر
 alt: عالي
 am: حب
 amik: صديق
+aper: ظهَرَ
 arb: شجرة
 aspekt: مظهر
 atend: انتظر
 atent: انتبه
 aĉet: اشترى
 aŭd: سمع
+aŭskult: يستمع
 aŭt: سيارة
 aŭtoritat: سلطة
 bedaŭr: ندم
@@ -41,6 +44,7 @@ dir: أقول
 direkt:
 - اتجاه
 - جهة
+divers: مختلف
 doktor: طبيب
 dolar: دولار
 dolor: ألم
@@ -54,6 +58,7 @@ doĝ: دوج
 edz: زوج
 efektiv: بالفعل
 ekskurs: نزهة
+ekzempl: مثال
 esper: أمل
 est: يكون
 facil: سهل
@@ -78,6 +83,7 @@ frat:
 - أخ
 fru: مبكرا
 fuŝ: فَسَدَ
+glas: كوب
 gondol: جندول
 graf: الكونت
 grand: كبير
@@ -91,6 +97,8 @@ hor: ساعة
 hotel: فندق
 ide: فكرة
 industri: صناعة
+infan: طفل
+inform: كعلومة
 instru: علم
 interes: اهتم
 invit: دعا
@@ -100,6 +108,7 @@ jar: عام
 jun: شاب
 kaf: قهوة
 kalv: أصلع
+kant: أغنية
 kap: الرأس
 kapabl: قادر
 kapt: قبض
@@ -116,6 +125,7 @@ kolor: اللون
 komenc: بداية
 kompren: فهم
 kon: يعرف
+konsent: يتفق
 kontent: محتوى
 kontrol:
 - تحقق
@@ -123,6 +133,7 @@ kontrol:
 kor: قلب
 korp: جسد
 kost: يكلف
+kred: اعتقد
 kri: صرخة
 kuir: طبخ
 kuk: كعكة
@@ -140,11 +151,14 @@ lern: تعلم
 leter: حرف
 liber: حرية،حر
 libr: كتاب
+lingv: لغة
 lok: مكان
 long: طويل
+loĝ: مسكن
 lud: لعب
 lum: ضوء
 man: يد
+manier: طريقة
 mank: مفتقر
 manĝ: أكل
 mar: بحر
@@ -159,12 +173,15 @@ moment: لحظة
 mon:
 - فلوس
 - مال
+monat: شهر
+mond: عالم
 mont: جبل
 montr: عرض
 mort: مات
 mov: يتحرك
 mult: كثير
 muzik: موسيقى
+naci: وطني،قومي
 nask: يلد
 natur: طبيعة
 neces: حاجة
@@ -184,6 +201,7 @@ ord:
 - نظام
 - تمام
 orel: إذن
+organiz: نظمَ
 pac: سلام
 pag: دفع
 pan: خبز
@@ -204,12 +222,16 @@ plac: مكان
 plan: خطة
 plaĉ: يعجب
 plen: كامل
+plor: بكى
+pluv: أمطرت
 polic: شرطة
 pord: باب
 port:
 - يحمل
 - يرتدي
 pov: يستطيع
+poŝ: فم
+poŝt: بريد
 pren: أخذ
 pret:
 - جاهز
@@ -217,12 +239,17 @@ pret:
 prezent: يقدم
 problem: مشكلة
 proksim: بجانب
+proksimum: حوالي
 promen:
 - تنزه
 - تجول
 propon: عرض
 prov: يحاول
+publik: يٌتيح للعموم
+punkt: نقطة
+pur: نظيف
 rajt: الحق في
+rakont: قصَّ، حكىَ
 rapid: سريع
 raport: تقرير
 real: شئ حقيقي
@@ -236,6 +263,8 @@ ricev:
 - تلقى
 rid: ضحك
 rigard: شاهد
+rilat: ذات صلة
+rimark: لاحظَ
 riĉ: غني
 rol: دور
 ruĝ: أحمر
@@ -243,6 +272,7 @@ salt: قفز
 salut: سلام
 sam: نفسه
 san: صحة
+sat: شَبَع
 saĝ: حكيم
 sci: علم
 sek: جاف
@@ -250,11 +280,14 @@ sekret: سر
 sekv: تابع
 semajn: أسبوع
 send: إرسال
+sent: شعَرَ
 serĉ: بحث
+seĝ: جَلَسَ
 si: ضمير متعكس
 sid: جلس
 silent: الصمت
 simil: مطابق
+simpl: بسيط
 sinjor: سيد
 situaci: حالة
 skrib: يكتب
@@ -279,13 +312,16 @@ ten: عَقدَ
 teror:
 - إرهاب
 - رعب
+terur: مٌروع
 tim: خوف
 ton: نغمة
 trankvil: هدوء
 trink: شراب
 trov: يجد
 turk: تركي
+tut: تماماً
 tuŝ: لمس
+universal: عالمي
 urb: مدينة
 util: مفيد
 uz: استعمال

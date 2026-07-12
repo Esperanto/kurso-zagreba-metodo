@@ -1,6 +1,6 @@
-- demando: (acaso) Você deseja que eu mostre para você meu mais novo livro?
+- demando: Você quer que eu lhe mostre meu livro mais novo?
   rektatraduko:
-  - Ĉu: Acaso
+  - Ĉu: será que
   - vi: você
   - deziras: deseja
   - ','
@@ -51,9 +51,9 @@
   - min: a mim
   - bonfarulo: benfeitor
   - '?'
-- demando: (acaso) O livreto o qual eu enviei para você foi útil?
+- demando: O livreto que eu enviei para você foi útil?
   rektatraduko:
-  - Ĉu: Acaso
+  - Ĉu: será que
   - la: o
   - libreto: livreto
   - ','

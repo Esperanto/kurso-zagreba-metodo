@@ -38,9 +38,9 @@
   - kaj: e
   - tempo: tempo
   - '?'
-- demando: (Acaso) você viaja por meio de carro à Itália ou ainda melhor, por meio de trem?
+- demando: Você planeja viajar para a Itália de carro, ou não parece muito melhor de trem?
   rektatraduko:
-  - Ĉu: Acaso
+  - Ĉu: será que
   - vi: você
   - planas: viaja
   - veturi: to travel
@@ -49,7 +49,7 @@
   - per: por meio de
   - aŭto: carro
   - aŭ: ou
-  - ĉu: (Acaso)
+  - ĉu: será que
   - ne: não
   - ŝajnas: seem
   - multe: much

@@ -1,6 +1,6 @@
-- demando: (Acaso) você pode trazer o remédio da minha irmã?
+- demando: Você pode trazer o remédio da minha irmã?
   rektatraduko:
-  - Ĉu: (Acaso)
+  - Ĉu: será que
   - vi: você
   - povas: pode
   - kunporti: trazer
@@ -26,9 +26,9 @@
   - mian: minha
   - ŝlosilon: chave
   - '?'
-- demando: (Acaso) você em Veneza andou também por meio de gôndola?
+- demando: Você também andou de gôndola em Veneza?
   rektatraduko:
-  - Ĉu: (Acaso)
+  - Ĉu: será que
   - vi: você
   - en: em
   - Venecio: Veneza
@@ -37,9 +37,9 @@
   - per: por meio de
   - gondolo: gôndola
   - '?'
-- demando: (Acaso) você poderá começar a dormir quando haja silêncio?
+- demando: Você conseguirá adormecer quando ficar silencioso?
   rektatraduko:
-  - Ĉu: (Acaso)
+  - Ĉu: será que
   - vi: você
   - povos: poderá
   - ekdormi: começar a dormir

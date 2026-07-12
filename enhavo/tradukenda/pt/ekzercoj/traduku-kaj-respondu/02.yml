@@ -6,14 +6,14 @@
   - malnova: velha
   - hejmo: casa
   - '?'
-- demando: Quais livros você leu e (Acaso) eles são bons?
+- demando: Quais livros você leu, e eles eram bons?
   rektatraduko:
   - Kiujn: Quais
   - librojn: livros
   - vi: você
   - legis: leu
   - kaj: e
-  - ĉu: (Acaso)
+  - ĉu: será que
   - ili: eles
   - estas: são
   - bonaj: bons
@@ -32,9 +32,9 @@
   - de: de
   - Marko: Marcos
   - '?'
-- demando: (Acaso) você gosta de ler livros sobre o amor?
+- demando: Você gosta de ler livros sobre amor?
   rektatraduko:
-  - Ĉu: (Acaso)
+  - Ĉu: será que
   - vi: você
   - ŝatas: gosta de
   - legi: ler

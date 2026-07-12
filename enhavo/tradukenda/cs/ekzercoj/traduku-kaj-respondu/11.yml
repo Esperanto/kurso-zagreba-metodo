@@ -1,4 +1,4 @@
-- demando: Můžeš přinést lék mé sestry?
+- demando: Můžeš přinést sestřin lék?
   rektatraduko:
   - Ĉu: Zda
   - vi: ty
@@ -26,7 +26,7 @@
   - mian: můj
   - ŝlosilon: klíč
   - '?'
-- demando: Cestoval jsi v Benátkách také gongolou?
+- demando: Jel jsi v Benátkách také gondolou?
   rektatraduko:
   - Ĉu: Zda
   - vi: ty
@@ -34,10 +34,10 @@
   - Venecio: Benátky
   - veturis: cestoval
   - ankaŭ: také
-  - per: pomocí (předložka 7. pádu)
+  - per: pomocí
   - gondolo: gondoly
   - '?'
-- demando: Budeš moci usnout, když to utichne?
+- demando: Budeš moci usnout, až bude ticho?
   rektatraduko:
   - Ĉu: Zda
   - vi: ty

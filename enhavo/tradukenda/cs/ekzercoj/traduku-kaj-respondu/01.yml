@@ -1,15 +1,15 @@
-- demando: Kdo je tvá přítelkyně?
+- demando: Kdo je tvoje kamarádka?
   rektatraduko:
   - Kiu: Kdo
   - estas: je
   - via: tvá
-  - amikino: přítelkyně
+  - amikino: kamarádka
   - '?'
-- demando: Píše nyní tvoje přítelkyně Ana v pokoji?
+- demando: Píše teď tvoje kamarádka Ana v pokoji?
   rektatraduko:
   - Ĉu: Zda
   - via: tvoje
-  - amikino: přítelkyně
+  - amikino: kamarádka
   - Ana: Ana
   - skribas: píše
   - nun: nyní
@@ -35,12 +35,12 @@
   - estas: je
   - sur: na
   - la: (určitý člen)
-  - labortablo: pracovním stole
+  - labortablo: pracovní stůl
   - en: v
   - nia: našem
   - ĉambro: pokoji
   - '?'
-- demando: Je na tvém stole esperantská účebnice?
+- demando: Je na tvém stole učebnice esperanta?
   rektatraduko:
   - Ĉu: Zda
   - Esperanto-lernolibro: esperantská učebnice

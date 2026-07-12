@@ -1,4 +1,5 @@
 afer: រឿង
+ag: ធ្វើសកម្មភាព
 agrabl: គួរឱ្យរីករាយ
 akcept: ទទួលយក
 akv: ទឹក
@@ -6,6 +7,7 @@ ali: ផ្សេង
 alt: ខ្ពស់
 am: ស្រឡាញ់
 amik: មិត្ត
+aper: លេចឡើង
 arb: ដើមឈើ
 aspekt:
 - មើលទៅ
@@ -14,6 +16,7 @@ atend: រង់ចាំ
 atent: យកចិត្តទុកដាក់
 aĉet: ទិញ
 aŭd: ឮ
+aŭskult: ស្តាប់
 aŭt: រថយន្ត
 aŭtoritat: អាជ្ញាធរ
 bedaŭr: សោកស្តាយ
@@ -41,6 +44,7 @@ dik:
 dimanĉ: ថ្ងៃអាទិត្យ
 dir: និយាយ
 direkt: ទិសដៅ
+divers: ផ្សេងៗគ្នា
 doktor: វេជ្ជបណ្ឌិត
 dolar: ដុល្លារ
 dolor:
@@ -54,6 +58,7 @@ doĝ: ដូជេ
 edz: ប្តី
 efektiv: ពិតប្រាកដ
 ekskurs: ដំណើរកម្សាន្ត
+ekzempl: ឧទាហរណ៍
 esper: សង្ឃឹម
 est: ជា
 facil: ងាយ
@@ -78,6 +83,7 @@ fot: រូបថត
 frat: បងប្អូនប្រុស
 fru: ឆាប់
 fuŝ: ធ្វើខុស
+glas: កែវ
 gondol: កុនដូឡា
 graf:
 - កោនត៍
@@ -95,6 +101,8 @@ hor: ម៉ោង
 hotel: សណ្ឋាគារ
 ide: គំនិត
 industri: ឧស្សាហកម្ម
+infan: កូនក្មេង
+inform: ជូនដំណឹង
 instru: បង្រៀន
 interes: ចាប់អារម្មណ៍
 invit: អញ្ជើញ
@@ -104,6 +112,7 @@ jar: ឆ្នាំ
 jun: ក្មេង
 kaf: កាហ្វេ
 kalv: ទំពែក
+kant: ច្រៀង
 kap: ក្បាល
 kapabl: អាច
 kapt: ចាប់
@@ -120,11 +129,13 @@ kolor: ពណ៌
 komenc: ចាប់ផ្តើម
 kompren: យល់
 kon: ស្គាល់
+konsent: យល់ព្រម
 kontent: ពេញចិត្ត
 kontrol: ពិនិត្យ
 kor: បេះដូង
 korp: រាងកាយ
 kost: មានតម្លៃ
+kred: ជឿ
 kri: ស្រែក
 kuir: ចម្អិន
 kuk: នំ
@@ -134,6 +145,7 @@ lakt: ទឹកដោះគោ
 lamp: ចង្កៀង
 land: ប្រទេស
 larĝ: ទូលាយ
+las: អនុញ្ញាតឱ្យ
 last: ចុងក្រោយ
 laŭt: ឮខ្លាំង
 lecion: មេរៀន
@@ -142,11 +154,16 @@ lern: រៀន
 leter: សំបុត្រ
 liber: សេរី
 libr: សៀវភៅ
+lingv: ភាសា
 lok: កន្លែង
 long: វែង
+loĝ:
+- រស់នៅ
+- ស្នាក់នៅ
 lud: លេង
 lum: ពន្លឺ
 man: ដៃ
+manier: របៀប
 mank: ខ្វះ
 manĝ: ញ៉ាំ
 mar: សមុទ្រ
@@ -159,12 +176,15 @@ minut: នាទី
 mir: ភ្ញាក់ផ្អើល
 moment: ខណៈ
 mon: ប្រាក់
+monat: ខែ
+mond: ពិភពលោក
 mont: ភ្នំ
 montr: បង្ហាញ
 mort: ស្លាប់
 mov: ផ្លាស់ទី
 mult: ច្រើន
 muzik: តន្ត្រី
+naci: ជាតិ
 nask: កើត
 natur: ធម្មជាតិ
 neces: ចាំបាច់
@@ -180,6 +200,7 @@ onkl: ពូ
 opini: គិត
 ord: បញ្ជា
 orel: ត្រចៀក
+organiz: រៀបចំ
 pac: សន្តិភាព
 pag: បង់ប្រាក់
 pan: នំបុ័ង
@@ -200,19 +221,32 @@ plac: ទីលាន
 plan: គ្រោង
 plaĉ: ពេញចិត្ត
 plen: ពេញ
+plor:
+- យំ
+- ស្រែកយំ
+pluv: ភ្លៀងធ្លាក់
 polic: ប៉ូលិស
 pord: ទ្វារ
 port: យកតាម
 pov: អាច
+poŝ: ហោប៉ៅ
+poŝt: ប្រៃសណីយ៍
 pren: យក
 pret: រួចរាល់
 prezent: បង្ហាញ
 problem: បញ្ហា
 proksim: ជិត
+proksimum: ប្រហែល
 promen: ដើរលេង
 propon: ស្នើ
 prov: សាកល្បង
+publik: សាធារណៈ
+punkt: ចំណុច
+pur:
+- ស្អាត
+- បរិសុទ្ធ
 rajt: មានសិទ្ធិ
+rakont: និទាន
 rapid: លឿន
 raport: រាយការណ៍
 real: ពិត
@@ -224,6 +258,8 @@ rest: នៅសល់
 ricev: ទទួល
 rid: សើច
 rigard: មើល
+rilat: ទាក់ទង
+rimark: កត់សម្គាល់
 riĉ: មានទ្រព្យ
 rol: តួនាទី
 ruĝ: ក្រហម
@@ -231,6 +267,9 @@ salt: លោត
 salut: ស្វាគមន៍
 sam: ដូចគ្នា
 san: មានសុខភាពល្អ
+sat:
+- ឆ្អែត
+- ពេញចិត្ត
 saĝ: ឆ្លាតវៃ
 sci: ដឹង
 sek: ស្ងួត
@@ -238,11 +277,14 @@ sekret: សម្ងាត់
 sekv: តាម
 semajn: សប្តាហ៍
 send: ផ្ញើ
+sent: មានអារម្មណ៍
 serĉ: ស្វែងរក
+seĝ: កៅអី
 si: ខ្លួន
 sid: អង្គុយ
 silent: ស្ងាត់
 simil: ស្រដៀង
+simpl: សាមញ្ញ
 sinjor:
 - លោក
 - បុរសសុភាព
@@ -256,6 +298,7 @@ star: ឈរ
 strat: ផ្លូវ
 subit: ភ្លាមៗ
 sufiĉ: គ្រប់គ្រាន់
+suk: ទឹកផ្លែឈើ
 sukces: ជោគជ័យ
 sun: ព្រះអាទិត្យ
 supr: ខាងលើ
@@ -267,13 +310,16 @@ temp: ពេល
 temperatur: សីតុណ្ហភាព
 ten: កាន់
 teror: ភេរវកម្ម
+terur: គួរឱ្យភ័យខ្លាច
 tim: ខ្លាច
 ton: សំឡេង
 trankvil: ស្ងប់
 trink: ផឹក
 trov: រកឃើញ
 turk: តួកគី
+tut: ទាំងមូល
 tuŝ: ប៉ះ
+universal: សកល
 urb: ទីក្រុង
 util: មានប្រយោជន៍
 uz: ប្រើ

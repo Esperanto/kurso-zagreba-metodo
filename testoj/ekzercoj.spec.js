@@ -129,6 +129,54 @@ test('gxuste-sono ludas unufoje kiam respondo farigxas gxusta per tajpado', asyn
   ).toBe(1);
 });
 
+test('ekzercoj 1 kaj 3 saltas al sekva respondo anstataux solvo-butonoj', async ({ page }) => {
+  for (const path of ['/en/06/ekzerco1/', '/en/06/ekzerco3/']) {
+    await page.goto(path);
+
+    const inputs = page.locator('.form-horizontal input[data-solvo]');
+    const first = inputs.first();
+    const second = inputs.nth(1);
+    const firstSolution = (await first.getAttribute('data-solvo')).split(/\s*\|\s*/)[0];
+
+    await first.focus();
+    await page.keyboard.type(firstSolution);
+
+    await expect(first).toHaveClass(/is-valid/);
+    await expect(second).toBeFocused();
+  }
+});
+
+test('ekzerco 3 saltas de finita demando al la sekva demando', async ({ page }) => {
+  await page.goto('/en/06/ekzerco3/');
+
+  const forms = page.locator('.form-horizontal[data-auto-sekvo="respondoj"]');
+  const firstQuestionLastInput = forms.first().locator('input[data-solvo]').last();
+  const secondQuestionFirstInput = forms.nth(1).locator('input[data-solvo]').first();
+  const solution = (await firstQuestionLastInput.getAttribute('data-solvo')).split(/\s*\|\s*/)[0];
+
+  await firstQuestionLastInput.focus();
+  await page.keyboard.type(solution);
+
+  await expect(firstQuestionLastInput).toHaveClass(/is-valid/);
+  await expect(secondQuestionFirstInput).toBeFocused();
+});
+
+test('ekzercoj 1 kaj 3 saltas al la pagxa antauxen-butono post la lasta respondo', async ({ page }) => {
+  for (const path of ['/en/06/ekzerco1/', '/en/06/ekzerco3/']) {
+    await page.goto(path);
+
+    const inputs = page.locator('.form-horizontal input[data-solvo]');
+    const last = inputs.last();
+    const lastSolution = (await last.getAttribute('data-solvo')).split(/\s*\|\s*/)[0];
+
+    await last.focus();
+    await page.keyboard.type(lastSolution);
+
+    await expect(last).toHaveClass(/is-valid/);
+    await expect(page.locator('ul.pager .next a')).toBeFocused();
+  }
+});
+
 test('ekzercaj titoloj montras nur la celan lingvon', async ({ page }) => {
   await page.goto('/en/01/ekzerco1/');
   await expect(page.getByRole('heading', { level: 3, name: 'Translate' })).toBeVisible();

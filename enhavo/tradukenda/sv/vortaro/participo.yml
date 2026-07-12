@@ -1,8 +1,8 @@
 ant: aktiv pågående handling
-int: aktiv avslutad handling
-ont: aktiv ej påbörjad handling
-unt: aktiv villkorlig handling
 at: passiv pågående handling
+int: aktiv avslutad handling
 it: passiv avslutad handling
+ont: aktiv ej påbörjad handling
 ot: passiv ej påbörjad handling
+unt: aktiv villkorlig handling
 ut: passiv villkorlig handling

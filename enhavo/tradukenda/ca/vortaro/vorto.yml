@@ -1,4 +1,3 @@
-Esperanto: esperanto
 akcepteblan: acceptable
 alilandaj: d'altres països
 alporti:
@@ -91,6 +90,7 @@ eniris:
 - ha entrat
 - va entrar
 eniru: entra
+Esperanto: esperanto
 facilmovaj:
 - de moviment fàcil
 - àgils
@@ -261,6 +261,12 @@ malsaniĝis:
 - s'ha posat malalt
 - ha emmalaltit
 - es va posar malalt
+malsatas:
+- té gana
+- té fam
+malsatis:
+- tenia gana
+- va passar gana
 malsaĝa:
 - insensat
 - insensata
@@ -279,12 +285,6 @@ malvarman:
 malĝoja:
 - trist
 - trista
-malsatas:
-- té gana
-- té fam
-malsatis:
-- tenia gana
-- va passar gana
 manĝaĵo: menjar
 manĝegi:
 - menjar amb voracitat

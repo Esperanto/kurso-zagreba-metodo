@@ -1,3 +1,5 @@
+ag:
+aper:
 aŭskult: 聽
 divers: 各種
 ekzempl: 例如
@@ -15,6 +17,7 @@ kant:
 - 歌
 kien: 往哪裡
 konsent: 同意
+kred:
 lingv: 語言
 loĝ: 居住
 manier: 方式
@@ -37,7 +40,10 @@ pur: 乾淨
 rakont:
 - 說話
 - 故事
+rilat: 關係
 rimark: 注意
+sat: 飽
+sent:
 seĝ: 座椅
 sia: 自己的 (用於第三人稱)
 simpl: 簡單
@@ -46,9 +52,3 @@ tut: 完全
 universal:
 - 環球
 - 全面
-rilat: 關係
-sat: 飽
-ag:
-aper:
-sent:
-kred:

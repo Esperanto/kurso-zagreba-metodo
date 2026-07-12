@@ -1,3 +1,5 @@
+ag: handeln
+aper: erscheinen
 aŭskult:
 - hören
 - zuhören
@@ -10,6 +12,7 @@ inform: informieren
 kant: singen
 kien: wohin
 konsent: zustimmen
+kred: glauben
 lingv: Sprache
 loĝ: wohnen
 manier:
@@ -33,6 +36,8 @@ rilat:
 - beziehen
 - zusammenhängen
 rimark: bemerken
+sat: satt
+sent: fühlen
 seĝ: Stuhl
 sia: sein
 simpl:
@@ -44,8 +49,3 @@ tut: ganz
 universal:
 - allgemein
 - universell
-sat: satt
-ag: handeln
-aper: erscheinen
-sent: fühlen
-kred: glauben

@@ -1,8 +1,8 @@
 ant: tvorni deležnik sedanjega časa
-int: tvorni deležnik preteklega časa
-ont: tvorni deležnik prihodnjega časa
-unt: tvorni deležnik pogojnika
 at: trpni deležnik sedanjega časa
+int: tvorni deležnik preteklega časa
 it: trpni deležnik preteklega časa
+ont: tvorni deležnik prihodnjega časa
 ot: trpni deležnik prihodnjega časa
+unt: tvorni deležnik pogojnika
 ut: trpni deležnik pogojnika

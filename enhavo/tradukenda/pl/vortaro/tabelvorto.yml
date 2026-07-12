@@ -1,66 +1,66 @@
-kio: co
-tio: tamto
-io: coś
-ĉio: wszystko
-nenio: nic
-kiu:
-- kto
-- którego
-tiu:
-- tamta
-- tamten
-- tamto
-iu: ktoś
-ĉiu:
-- każdy
-- wszyscy
-neniu: nikt
-kie: gdzie
-tie: tam
+ia: jakiś
+ial: z jakiegoś powodu
+iam: kiedyś
 ie: gdzieś
-ĉie: wszędzie
-nenie: nigdzie
+iel: jakoś
+ies: czyjś
+io: coś
+iom:
+- trochę
+- ileś
+iu: ktoś
 kia:
 - jaki
 - jaka
 - jakie
+kial: dlaczego
+kiam: kiedy
+kie: gdzie
+kiel: jak
+kies: czyj
+kio: co
+kiom: ile
+kiu:
+- kto
+- którego
+nenia:
+- nijaki
+- żaden
+nenial: z żadnego powodu
+neniam: nigdy
+nenie: nigdzie
+neniel: w żaden sposób
+nenies: niczyj
+nenio: nic
+neniom:
+- ani trochę
+- żadna ilość
+neniu: nikt
 tia:
 - taki
 - taka
 - takie
-ia: jakiś
-ĉia: wszelaki
-nenia:
-- nijaki
-- żaden
-kiel: jak
-tiel: tak (w ten sposób)
-iel: jakoś
-ĉiel: na wszelki sposób
-neniel: w żaden sposób
-kial: dlaczego
 tial: dlatego
-ial: z jakiegoś powodu
-ĉial: z każdego powodu
-nenial: z żadnego powodu
-kiam: kiedy
 tiam: wtedy
-iam: kiedyś
-ĉiam: zawsze
-neniam: nigdy
-kiom: ile
+tie: tam
+tiel: tak (w ten sposób)
+ties: tego
+tio: tamto
 tiom: tyle
-iom:
-- trochę
-- ileś
+tiu:
+- tamta
+- tamten
+- tamto
+ĉia: wszelaki
+ĉial: z każdego powodu
+ĉiam: zawsze
+ĉie: wszędzie
+ĉiel: na wszelki sposób
+ĉies: każdego
+ĉio: wszystko
 ĉiom:
 - całość
 - każda ilość
-neniom:
-- ani trochę
-- żadna ilość
-kies: czyj
-ties: tego
-ies: czyjś
-ĉies: każdego
-nenies: niczyj
+ĉiu:
+- każdy
+- wszyscy

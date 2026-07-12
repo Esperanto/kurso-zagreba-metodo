@@ -1,53 +1,53 @@
-kio: ce
-tio:
-- aceea
-- acel lucru
-io: ceva
-ĉio: totul
-nenio: nimic
-kiu: cine, care
-tiu: acea persoană, acela
-iu: cineva
-ĉiu:
-- fiecare
-- toată lumea
-neniu:
-- nimeni
-- niciunul
-kie: unde
-tie: acolo
-ie: undeva
-ĉie: pretutindeni
-nenie: nicăieri
-kia: de ce fel
-tia: de acel fel
 ia: de un anumit fel
-ĉia: de orice fel
-nenia: de niciun fel
-kiel: cum
-tiel: așa
-iel: într-un anumit fel
-ĉiel: în toate felurile
-neniel: în niciun fel
-kial: de ce
-tial: din acest motiv
 ial: dintr-un anumit motiv
-ĉial: din toate motivele
-nenial: fără niciun motiv
-kiam: când
-tiam: atunci
 iam:
 - cândva
 - vreodată
-ĉiam: întotdeauna
-neniam: niciodată
-kiom: cât
-tiom: atât
-iom: puțin
-ĉiom: toată cantitatea
-neniom: nicio cantitate
-kies: al cui
-ties: al aceluia
+ie: undeva
+iel: într-un anumit fel
 ies: al cuiva
-ĉies: al tuturor
+io: ceva
+iom: puțin
+iu: cineva
+kia: de ce fel
+kial: de ce
+kiam: când
+kie: unde
+kiel: cum
+kies: al cui
+kio: ce
+kiom: cât
+kiu: cine, care
+nenia: de niciun fel
+nenial: fără niciun motiv
+neniam: niciodată
+nenie: nicăieri
+neniel: în niciun fel
 nenies: al nimănui
+nenio: nimic
+neniom: nicio cantitate
+neniu:
+- nimeni
+- niciunul
+tia: de acel fel
+tial: din acest motiv
+tiam: atunci
+tie: acolo
+tiel: așa
+ties: al aceluia
+tio:
+- aceea
+- acel lucru
+tiom: atât
+tiu: acea persoană, acela
+ĉia: de orice fel
+ĉial: din toate motivele
+ĉiam: întotdeauna
+ĉie: pretutindeni
+ĉiel: în toate felurile
+ĉies: al tuturor
+ĉio: totul
+ĉiom: toată cantitatea
+ĉiu:
+- fiecare
+- toată lumea

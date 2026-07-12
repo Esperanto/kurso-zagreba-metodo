@@ -1,3 +1,5 @@
+ag: agir
+aper: apparaître
 aŭskult: écouter
 divers:
 - divers
@@ -10,6 +12,7 @@ inform: informer
 kant: chanter
 kien: où (avec mouvement)
 konsent: consentir
+kred: croire
 las: laisser
 lingv: langue
 loĝ:
@@ -30,7 +33,16 @@ publik: public
 punkt: point
 pur: pur
 rakont: raconter
+rilat:
+- être en rapport avec
+- avoir trait à
+- concerner
 rimark: remarquer
+sat: rassasier
+sent:
+- sentir
+- ressentir
+- éprouver
 seĝ: siège
 sia: son, sa
 simpl: simple
@@ -43,15 +55,3 @@ tut:
 - entier
 - total
 universal: universel
-rilat:
-- être en rapport avec
-- avoir trait à
-- concerner
-sat: rassasier
-ag: agir
-aper: apparaître
-sent:
-- sentir
-- ressentir
-- éprouver
-kred: croire

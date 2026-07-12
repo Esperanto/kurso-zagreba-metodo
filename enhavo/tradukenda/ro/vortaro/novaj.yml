@@ -1,3 +1,5 @@
+ag: a acționa
+aper: a apărea
 aŭskult: a asculta
 divers:
 - divers
@@ -10,6 +12,7 @@ inform: a informa
 kant: a cânta
 kien: unde (cu mișcare)
 konsent: a consimți
+kred: a crede
 las: a lăsa
 lingv: limbă
 loĝ:
@@ -30,7 +33,15 @@ publik: public
 punkt: punct
 pur: curat
 rakont: a povesti
+rilat:
+- a avea legătură cu
+- a se referi la
+- a privi
 rimark: a observa
+sat: sătul
+sent:
+- a simți
+- a resimți
 seĝ: scaun
 sia: al său propriu
 simpl: simplu
@@ -43,14 +54,3 @@ tut:
 - întreg
 - total
 universal: universal
-rilat:
-- a avea legătură cu
-- a se referi la
-- a privi
-sat: sătul
-ag: a acționa
-aper: a apărea
-sent:
-- a simți
-- a resimți
-kred: a crede

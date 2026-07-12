@@ -1,3 +1,7 @@
+ag:
+- actuar
+- obrar
+aper: aparecer
 aŭskult: escuchar
 divers:
 - diverso
@@ -12,6 +16,7 @@ kien: adónde (con movimiento)
 konsent:
 - consentir
 - estar de acuerdo
+kred: creer
 las: dejar
 lingv:
 - idioma
@@ -38,9 +43,16 @@ pur:
 rakont:
 - contar
 - relatar
+rilat:
+- relacionarse con
+- tener relación con
 rimark:
 - notar
 - darse cuenta
+sat:
+- estar saciado
+- estar lleno
+sent: sentir
 seĝ: silla
 sia:
 - su (propio)
@@ -56,15 +68,3 @@ tut:
 - entero
 - total
 universal: universal
-rilat:
-- relacionarse con
-- tener relación con
-sat:
-- estar saciado
-- estar lleno
-ag:
-- actuar
-- obrar
-aper: aparecer
-sent: sentir
-kred: creer

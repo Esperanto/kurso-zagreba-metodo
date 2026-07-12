@@ -1,3 +1,5 @@
+ag: harakat qilmoq
+aper: paydo boʻlmoq
 aŭskult: tinglamoq
 divers: turli
 ekzempl: misol
@@ -7,6 +9,7 @@ inform: xabar bermoq
 kant: kuylamoq
 kien: qayerga
 konsent: rozi boʻlmoq
+kred: ishonmoq
 las: ruxsat bermoq
 lingv: til
 loĝ:
@@ -30,7 +33,12 @@ pur:
 - toza
 - sof
 rakont: hikoya qilmoq
+rilat: aloqador boʻlmoq
 rimark: payqamoq
+sat:
+- toʻq boʻlmoq
+- qoniqqan
+sent: his qilmoq
 seĝ: stul
 sia:
 - oʻzining
@@ -40,11 +48,3 @@ suk: sharbat
 terur: dahshatli
 tut: butun
 universal: umumjahon
-rilat: aloqador boʻlmoq
-sat:
-- toʻq boʻlmoq
-- qoniqqan
-ag: harakat qilmoq
-aper: paydo boʻlmoq
-sent: his qilmoq
-kred: ishonmoq

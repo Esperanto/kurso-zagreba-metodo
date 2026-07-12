@@ -1,14 +1,14 @@
-ki-: opytovacie
-ti-: ukazovacie
-i-: neurčité
-ĉi-: univerzálne
-neni-: záporné
--o: vec
--u: osobné, vzťahové
--e: miestne
 -a: vlastnosť
--el: spôsobové
 -al: dôvodové
 -am: časové
--om: množstevné
+-e: miestne
+-el: spôsobové
 -es: privlastňovacie
+-o: vec
+-om: množstevné
+-u: osobné, vzťahové
+i-: neurčité
+ki-: opytovacie
+neni-: záporné
+ti-: ukazovacie
+ĉi-: univerzálne

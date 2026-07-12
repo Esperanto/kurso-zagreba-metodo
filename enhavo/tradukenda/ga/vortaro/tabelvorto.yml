@@ -1,57 +1,57 @@
-kio: cad
-tio: é sin
-io: rud éigin
-ĉio: gach rud
-nenio: faic
-kiu:
-- cé
-- cé acu
-tiu:
-- an duine sin
-- an ceann sin
-iu: duine éigin
-ĉiu:
-- gach duine, cách
-- gach
-neniu:
-- éinne
-kie: cá
-tie: ansin
-ie: áit éigin
-ĉie: gach áit
-nenie: in aon áit
-kia: cén saghas
-tia: an saghas sin
 ia: saghas éigin
-ĉia: gach saghas
-nenia: gan aon saghas
-kiel: conas
-tiel: mar sin
-iel: ar shlí éigin
-ĉiel: i ngach slí
-neniel: in aon slí
-kial: cén fáth
-tial: ar an gcúis sin
 ial: ar chúis éigin
-ĉial: ar gach cúis
-nenial: gan chúis
-kiam: cathain, nuair
-tiam: ansin
 iam: uair éigin
-ĉiam: i gcónaí
-neniam: riamh,choíche
-kiom: cé mhéad
-tiom: an méid sin
+ie: áit éigin
+iel: ar shlí éigin
+ies: le duine éigin
+io: rud éigin
 iom:
 - méid áirithe
 - oiread
+iu: duine éigin
+kia: cén saghas
+kial: cén fáth
+kiam: cathain, nuair
+kie: cá
+kiel: conas
+kies: cé leis
+kio: cad
+kiom: cé mhéad
+kiu:
+- cé
+- cé acu
+nenia: gan aon saghas
+nenial: gan chúis
+neniam: riamh,choíche
+nenie: in aon áit
+neniel: in aon slí
+nenies: le duine ar bith
+nenio: faic
+neniom:
+- faic de
+neniu:
+- éinne
+tia: an saghas sin
+tial: ar an gcúis sin
+tiam: ansin
+tie: ansin
+tiel: mar sin
+ties: leis an duine sin
+tio: é sin
+tiom: an méid sin
+tiu:
+- an duine sin
+- an ceann sin
+ĉia: gach saghas
+ĉial: ar gach cúis
+ĉiam: i gcónaí
+ĉie: gach áit
+ĉiel: i ngach slí
+ĉies: le cách
+ĉio: gach rud
 ĉiom:
 - é go léir
 - an méid uile
-neniom:
-- faic de
-kies: cé leis
-ties: leis an duine sin
-ies: le duine éigin
-ĉies: le cách
-nenies: le duine ar bith
+ĉiu:
+- gach duine, cách
+- gach

@@ -1,51 +1,51 @@
-kio: was
-tio:
-- jenes
-- das
-io: irgendwas
-ĉio: alles
-nenio: nichts
-kiu:
-- wer
-- welcher
-tiu: jener
-iu: jemand
-ĉiu: jeder
-neniu: keiner
-kie: wo
-tie: dort
-ie: irgendwo
-ĉie: überall
-nenie: nirgends
-kia: was für ein
-tia: solch ein
 ia: irgendein
-ĉia: jederlei
-nenia: keinerlei
-kiel: wie
-tiel: so
-iel: irgendwie
-ĉiel: auf jede Weise
-neniel: in keiner Weise
-kial: warum
-tial: deshalb
 ial: aus irgendeinem Grund
-ĉial: aus jedem Grund
-nenial: aus keinem Grund
-kiam: wann
-tiam: dann
 iam: irgendwann
-ĉiam: immer
-neniam: nie
-kiom: wie viel
-tiom: so viel
+ie: irgendwo
+iel: irgendwie
+ies: irgendjemandes
+io: irgendwas
 iom:
 - etwas
 - ein wenig
-ĉiom: alles
-neniom: nichts
+iu: jemand
+kia: was für ein
+kial: warum
+kiam: wann
+kie: wo
+kiel: wie
 kies: wessen
-ties: dessen
-ies: irgendjemandes
-ĉies: jedermanns
+kio: was
+kiom: wie viel
+kiu:
+- wer
+- welcher
+nenia: keinerlei
+nenial: aus keinem Grund
+neniam: nie
+nenie: nirgends
+neniel: in keiner Weise
 nenies: niemandes
+nenio: nichts
+neniom: nichts
+neniu: keiner
+tia: solch ein
+tial: deshalb
+tiam: dann
+tie: dort
+tiel: so
+ties: dessen
+tio:
+- jenes
+- das
+tiom: so viel
+tiu: jener
+ĉia: jederlei
+ĉial: aus jedem Grund
+ĉiam: immer
+ĉie: überall
+ĉiel: auf jede Weise
+ĉies: jedermanns
+ĉio: alles
+ĉiom: alles
+ĉiu: jeder

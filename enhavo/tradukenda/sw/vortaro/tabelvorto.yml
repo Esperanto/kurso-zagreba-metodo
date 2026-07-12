@@ -1,53 +1,53 @@
-kio: nini
-tio:
-- hicho
-- jambo hilo
-io: kitu fulani
-ĉio: kila kitu
-nenio: hakuna kitu
-kiu: nani
-tiu: huyo
-iu: mtu fulani
-ĉiu:
-- kila mtu
-- kila mmoja
-neniu:
-- hakuna mtu
-- hakuna hata mmoja
-kie: wapi
-tie: hapo
-ie: mahali fulani
-ĉie: kila mahali
-nenie: hakuna mahali
-kia: wa aina gani
-tia: wa aina hiyo
 ia: wa aina fulani
-ĉia: wa kila aina
-nenia: wa aina yoyote
-kiel: jinsi gani
-tiel: hivyo
-iel: kwa namna fulani
-ĉiel: kwa kila namna
-neniel: kwa namna yoyote
-kial: kwa nini
-tial: kwa sababu hiyo
 ial: kwa sababu fulani
-ĉial: kwa kila sababu
-nenial: bila sababu yoyote
-kiam: lini
-tiam: wakati huo
 iam:
 - wakati fulani
 - siku moja
-ĉiam: daima
-neniam: kamwe
-kiom: kiasi gani
-tiom: kiasi hicho
-iom: kidogo
-ĉiom: kiasi chote
-neniom: hakuna kiasi
-kies: ya nani
-ties: ya huyo
+ie: mahali fulani
+iel: kwa namna fulani
 ies: ya mtu fulani
-ĉies: ya kila mtu
+io: kitu fulani
+iom: kidogo
+iu: mtu fulani
+kia: wa aina gani
+kial: kwa nini
+kiam: lini
+kie: wapi
+kiel: jinsi gani
+kies: ya nani
+kio: nini
+kiom: kiasi gani
+kiu: nani
+nenia: wa aina yoyote
+nenial: bila sababu yoyote
+neniam: kamwe
+nenie: hakuna mahali
+neniel: kwa namna yoyote
 nenies: ya mtu yeyote
+nenio: hakuna kitu
+neniom: hakuna kiasi
+neniu:
+- hakuna mtu
+- hakuna hata mmoja
+tia: wa aina hiyo
+tial: kwa sababu hiyo
+tiam: wakati huo
+tie: hapo
+tiel: hivyo
+ties: ya huyo
+tio:
+- hicho
+- jambo hilo
+tiom: kiasi hicho
+tiu: huyo
+ĉia: wa kila aina
+ĉial: kwa kila sababu
+ĉiam: daima
+ĉie: kila mahali
+ĉiel: kwa kila namna
+ĉies: ya kila mtu
+ĉio: kila kitu
+ĉiom: kiasi chote
+ĉiu:
+- kila mtu
+- kila mmoja

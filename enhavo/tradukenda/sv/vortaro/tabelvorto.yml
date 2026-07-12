@@ -1,75 +1,75 @@
-kio: vad
-tio: det där
-io: någonting
-ĉio: allting
-nenio: ingenting
-kiu:
-- vem
-- vilken
-tiu:
-- den där personen
-- den där
-- det där
-iu:
-- någon
-- något
-ĉiu:
-- alla
-- varje
-neniu:
-- ingen
-- inget
-kie: var
-tie: där
-ie: någonstans
-ĉie: överallt
-nenie: ingenstans
-kia: hurdan
-tia:
-- sådan
-- sådant
 ia: någon slags
-ĉia: allt slags
-nenia: inget slags
-kiel: hur
-tiel:
-- så
-- på det sättet
-iel: på något sätt
-ĉiel: på alla sätt
-neniel: på inget sätt
-kial: varför
-tial: därför
 ial: av någon anledning
-ĉial: av alla skäl
-nenial: av ingen orsak
-kiam: när
-tiam: då
 iam:
 - någon gång
 - en gång
 - vid någon tid
-ĉiam: alltid
-neniam: aldrig
-kiom:
-- hur mycket
-- hur många
-tiom:
-- så mycket
-- så många
+ie: någonstans
+iel: på något sätt
+ies:
+- någons
+io: någonting
 iom:
 - något
 - lite
 - en smula
-ĉiom: alltsammans
-neniom: ingenting alls
+iu:
+- någon
+- något
+kia: hurdan
+kial: varför
+kiam: när
+kie: var
+kiel: hur
 kies:
 - vilkens
 - vems
+kio: vad
+kiom:
+- hur mycket
+- hur många
+kiu:
+- vem
+- vilken
+nenia: inget slags
+nenial: av ingen orsak
+neniam: aldrig
+nenie: ingenstans
+neniel: på inget sätt
+nenies: ingens
+nenio: ingenting
+neniom: ingenting alls
+neniu:
+- ingen
+- inget
+tia:
+- sådan
+- sådant
+tial: därför
+tiam: då
+tie: där
+tiel:
+- så
+- på det sättet
 ties:
 - dess
 - deras
-ies:
-- någons
+tio: det där
+tiom:
+- så mycket
+- så många
+tiu:
+- den där personen
+- den där
+- det där
+ĉia: allt slags
+ĉial: av alla skäl
+ĉiam: alltid
+ĉie: överallt
+ĉiel: på alla sätt
 ĉies: allas
-nenies: ingens
+ĉio: allting
+ĉiom: alltsammans
+ĉiu:
+- alla
+- varje

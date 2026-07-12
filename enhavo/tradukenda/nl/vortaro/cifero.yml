@@ -1,29 +1,29 @@
+cent: honderd
+dek: tien
+dek du: twaalf
+dek kvar: veertien
+dek kvin: vijftien
+dek naŭ: negentien
+dek ok: achttien
+dek sep: zeventien
+dek ses: zestien
+dek tri: dertien
+dek unu: elf
+du: twee
+ducent: tweehonderd
+dudek: twintig
+dumil: tweeduizend
+kvar: vier
+kvardek: veertig
+kvin: vijf
+mil: duizend
+naŭ: negen
+ok: acht
+sep: zeven
+ses: zes
+tri: drie
+tricent: driehonderd
+tridek: dertig
 unu:
 - een
 - één
-du: twee
-tri: drie
-kvar: vier
-kvin: vijf
-ses: zes
-sep: zeven
-ok: acht
-naŭ: negen
-dek: tien
-dek unu: elf
-dek du: twaalf
-dek tri: dertien
-dek kvar: veertien
-dek kvin: vijftien
-dek ses: zestien
-dek sep: zeventien
-dek ok: achttien
-dek naŭ: negentien
-dudek: twintig
-tridek: dertig
-kvardek: veertig
-cent: honderd
-ducent: tweehonderd
-tricent: driehonderd
-mil: duizend
-dumil: tweeduizend

@@ -1,3 +1,5 @@
+ag: kutenda
+aper: kuonekana
 aŭskult: kusikiliza
 divers: mbalimbali
 ekzempl: mfano
@@ -7,6 +9,7 @@ inform: kutoa habari
 kant: kuimba
 kien: kuelekea wapi
 konsent: kukubali
+kred: kuamini
 lingv: lugha
 loĝ:
 - kuishi
@@ -29,7 +32,12 @@ pur:
 - safi
 - halisi
 rakont: kusimulia
+rilat: kuhusiana
 rimark: kutambua
+sat:
+- kushiba
+- kuridhika
+sent: kuhisi
 seĝ: kiti
 sia:
 - yake mwenyewe
@@ -38,11 +46,3 @@ simpl: rahisi
 terur: ya kutisha
 tut: yote
 universal: ya ulimwengu wote
-rilat: kuhusiana
-sat:
-- kushiba
-- kuridhika
-ag: kutenda
-aper: kuonekana
-sent: kuhisi
-kred: kuamini

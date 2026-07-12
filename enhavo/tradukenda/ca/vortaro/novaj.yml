@@ -1,3 +1,7 @@
+ag:
+- actuar
+- obrar
+aper: aparèixer
 aŭskult: escoltar
 divers: divers
 ekzempl: exemple
@@ -9,6 +13,7 @@ kien: 'on'
 konsent:
 - consentir
 - estar d'acord
+kred: creure
 lingv: llengua
 loĝ:
 - viure
@@ -35,6 +40,7 @@ rimark:
 - notar
 - observar
 - percebre
+sent: sentir
 seĝ: seient
 sia: el seu (propi)
 simpl:
@@ -45,9 +51,3 @@ tut:
 - sencer
 - tot
 universal: universal
-ag:
-- actuar
-- obrar
-aper: aparèixer
-sent: sentir
-kred: creure

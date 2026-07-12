@@ -1,59 +1,59 @@
-kio: nima
-tio: u narsa, oʻsha
-io: nimadir
-ĉio: hamma narsa
-nenio: hech narsa
-kiu:
-- kim
-- qaysi
-tiu:
-- oʻsha kishi
-- oʻsha
-iu: kimdir
-ĉiu:
-- har kim
-- har bir
-neniu:
-- hech kim
-- hech qaysi
-kie: qayerda
-tie: u yerda
-ie: qayerdadir
-ĉie: hamma joyda
-nenie: hech qayerda
-kia: qanday
-tia: shunday
 ia: qandaydir
-ĉia: har xil
-nenia: hech qanday
-kiel: qanday qilib
-tiel: shunday qilib
-iel: qandaydir qilib
-ĉiel: har qanday yoʻl bilan
-neniel: hech qanday yoʻl bilan
-kial: nega
-tial: shu sababli
 ial: qaysidir sababdan
-ĉial: har qanday sababdan
-nenial: hech qanday sababdan
-kiam: qachon
-tiam: oʻshanda
 iam: qachondir
-ĉiam: doimo
-neniam: hech qachon
-kiom: qancha
-tiom: shuncha
+ie: qayerdadir
+iel: qandaydir qilib
+ies: kimningdir
+io: nimadir
 iom:
 - biroz
 - maʼlum miqdor
-ĉiom:
-- hammasi
-- butun miqdor
+iu: kimdir
+kia: qanday
+kial: nega
+kiam: qachon
+kie: qayerda
+kiel: qanday qilib
+kies: kimning
+kio: nima
+kiom: qancha
+kiu:
+- kim
+- qaysi
+nenia: hech qanday
+nenial: hech qanday sababdan
+neniam: hech qachon
+nenie: hech qayerda
+neniel: hech qanday yoʻl bilan
+nenies: hech kimning
+nenio: hech narsa
 neniom:
 - hech qancha
 - hech qanday miqdor
-kies: kimning
+neniu:
+- hech kim
+- hech qaysi
+tia: shunday
+tial: shu sababli
+tiam: oʻshanda
+tie: u yerda
+tiel: shunday qilib
 ties: oʻshaning
-ies: kimningdir
+tio: u narsa, oʻsha
+tiom: shuncha
+tiu:
+- oʻsha kishi
+- oʻsha
+ĉia: har xil
+ĉial: har qanday sababdan
+ĉiam: doimo
+ĉie: hamma joyda
+ĉiel: har qanday yoʻl bilan
 ĉies: hammaning
-nenies: hech kimning
+ĉio: hamma narsa
+ĉiom:
+- hammasi
+- butun miqdor
+ĉiu:
+- har kim
+- har bir

@@ -1,3 +1,9 @@
+ag:
+- agera
+- handla
+aper:
+- framträda
+- dyka upp
 aŭskult: lyssna
 divers: av olika slag
 ekzempl: exempel
@@ -14,6 +20,7 @@ konsent:
 - samtycka
 - hålla med
 - instämma
+kred: tro
 lingv: språk
 loĝ: bo
 manier: sätt
@@ -33,10 +40,18 @@ publik:
 punkt: punkt
 pur: ren
 rakont: berätta
+rilat:
+- relation
+- förhållande
+- relatera
 rimark:
 - märka
 - lägga märke till
 - påpeka
+sat: mätt
+sent:
+- känsla
+- känna
 seĝ: stol
 sia: sin
 simpl:
@@ -48,18 +63,3 @@ terur:
 - förfärlig
 tut: hel
 universal: universell
-rilat:
-- relation
-- förhållande
-- relatera
-sat: mätt
-ag:
-- agera
-- handla
-aper:
-- framträda
-- dyka upp
-sent:
-- känsla
-- känna
-kred: tro

@@ -1,3 +1,5 @@
+ag: rīkoties
+aper: parādīties
 aŭskult: klausīties
 divers: dažāds
 ekzempl: piemērs
@@ -7,6 +9,7 @@ inform: informēt
 kant: dziedāt
 kien: uz kurieni
 konsent: piekrist
+kred: ticēt
 las: ļaut
 lingv: valoda
 loĝ:
@@ -28,7 +31,11 @@ punkt: punkts
 pur:
 - tīrs
 rakont: stāstīt
+rilat: attiekties
 rimark: pamanīt
+sat:
+- būt paēdušam
+sent: just
 seĝ: krēsls
 sia:
 - savs
@@ -39,10 +46,3 @@ suk: sula
 terur: briesmīgs
 tut: vesels
 universal: universāls
-rilat: attiekties
-sat:
-- būt paēdušam
-ag: rīkoties
-aper: parādīties
-sent: just
-kred: ticēt

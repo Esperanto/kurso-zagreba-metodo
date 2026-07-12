@@ -1,8 +1,8 @@
 ant: kata kerja aktif di masa sekarang
-int: kata kerja aktif di masa lampau
-ont: kata kerja aktif di masa yang akan datang
-unt: kata kerja aktif kondisional
 at: kata kerja pasif di masa sekarang
+int: kata kerja aktif di masa lampau
 it: kata kerja pasif di masa lampau
+ont: kata kerja aktif di masa yang akan datang
 ot: kata kerja pasif di masa depan
+unt: kata kerja aktif kondisional
 ut: kata kerja pasif kondisional

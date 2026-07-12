@@ -1,3 +1,5 @@
+ag: 行动
+aper: 出现
 aŭskult: 听
 divers: 不同的
 ekzempl: 例子
@@ -7,6 +9,7 @@ inform: 通知
 kant: 唱
 kien: 到哪里
 konsent: 同意
+kred: 相信
 lingv: 语言
 loĝ: 居住
 manier: 方式
@@ -25,18 +28,15 @@ pur:
 - 干净的
 - 纯的
 rakont: 讲述
+rilat: 有关系
 rimark: 注意到
+sat:
+- 吃饱
+- 满足
+sent: 感觉
 seĝ: 椅子
 sia: 自己的
 simpl: 简单的
 terur: 可怕的
 tut: 整个的
 universal: 普遍的
-rilat: 有关系
-sat:
-- 吃饱
-- 满足
-ag: 行动
-aper: 出现
-sent: 感觉
-kred: 相信

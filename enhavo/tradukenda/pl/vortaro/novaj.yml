@@ -1,3 +1,11 @@
+ag:
+- działać
+- czynić
+- postępować
+aper:
+- pojawiać się
+- ukazać się
+- pokazać się
 aŭskult: posłuchać
 divers: różne
 ekzempl: przykład
@@ -7,6 +15,7 @@ inform: informować
 kant: śpiewać
 kien: dokąd
 konsent: zgadzać się
+kred: wierzyć
 lingv: język
 loĝ: mieszkać
 manier: sposób
@@ -25,7 +34,12 @@ publik: publiczny
 punkt: punkt
 pur: czysty
 rakont: opowiadać
+rilat:
+- stosunek
+- relacja
 rimark: zauważyć
+sat: syty
+sent: czuć
 seĝ: krzesło
 sia: swój
 simpl: prosty
@@ -33,17 +47,3 @@ suk: sok
 terur: straszny
 tut: cały
 universal: uniwersalny
-rilat:
-- stosunek
-- relacja
-sat: syty
-ag:
-- działać
-- czynić
-- postępować
-aper:
-- pojawiać się
-- ukazać się
-- pokazać się
-sent: czuć
-kred: wierzyć

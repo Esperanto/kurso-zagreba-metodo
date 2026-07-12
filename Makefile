@@ -93,7 +93,7 @@ check-yaml:
 
 check-yaml-normalized:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
-	@"$(PYTHON)" iloj/normaligu-yaml.py --kontrolu enhavo
+	@"$(PYTHON)" -m fonto.py.normaligu_yaml --kontrolu enhavo
 
 check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
@@ -120,7 +120,7 @@ md:
 
 normalize-yaml:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
-	@"$(PYTHON)" iloj/normaligu-yaml.py enhavo
+	@"$(PYTHON)" -m fonto.py.normaligu_yaml enhavo
 
 serve:
 	@"$(PYTHON)" -m http.server "$(PORT)" --bind "$(HOST)" --directory "$(OUTPUT_DIR)"

@@ -1,5 +1,4 @@
 A: letra
-aĉet: comprar
 afer:
 - assunto
 - coisa
@@ -22,6 +21,7 @@ aspekt:
 - aparentar
 atend: esperar
 atent: prestar atenção
+aĉet: comprar
 aŭd: ouvir
 aŭt: carro
 aŭtoritat:
@@ -46,12 +46,6 @@ bru:
 - barulho
 - fazer barulho
 buŝ: boca
-ĉambr:
-- quarto
-- sala
-ĉef:
-- patrão
-- chefe
 cert:
 - certo
 - certa
@@ -79,16 +73,16 @@ dir: dizer
 direkt:
 - direção
 - dirigir
-doĝ: doge
 doktor: doutor
 dolar: dólar
-dolĉ: doce
 dolor:
 - dor
 - doer
+dolĉ: doce
 dom: casa
 don: dar
 dorm: dormir
+doĝ: doge
 edz: marido
 efektiv: na realidade
 ekskurs:
@@ -129,16 +123,10 @@ fru: cedo
 fuŝ:
 - bagunçar
 - bagunçado
-ĝen: incomodar
-ĝeneral: geral
-ĝoj:
-- alegre
-- alegria
 gondol: gôndola
 graf: conde
 grand: grande
 grav: importante
-ĝust: correto
 halt: parar
 hav: ter
 hejm:
@@ -172,7 +160,6 @@ itali: Itália
 jar:
 - ano
 - anual
-ĵet: arremessar
 jun: jovem
 kaf: café
 kalv:
@@ -268,8 +255,8 @@ lum:
 - luz
 - iluminar
 man: mão
-manĝ: comer
 mank: faltar
+manĝ: comer
 mar: mar
 maten: manhã
 memor:
@@ -343,10 +330,10 @@ parol:
 - fala
 part: parte
 pas: passar
+patr: pai
 paŝ:
 - passo
 - dar passos
-patr: pai
 pens:
 - pensar
 - pensamento
@@ -358,8 +345,8 @@ pez:
 - ter peso
 pied: pé
 plac: praça
-plaĉ: ser agradável
 plan: planejar
+plaĉ: ser agradável
 plen:
 - cheio
 - cheia
@@ -406,20 +393,16 @@ respond:
 - responder
 - resposta
 rest: permanecer
-riĉ:
-- rico
-- rica
 ricev: receber
 rid: rir
 rigard: olhar para
+riĉ:
+- rico
+- rica
 rol:
 - função
 - desempenhar papel de
 ruĝ: vermelho
-saĝ:
-- sensato
-- sensata
-ŝajn: parecer
 salt:
 - saltar
 - salto
@@ -432,10 +415,9 @@ sam:
 san:
 - saudável
 - saúde
-ŝanĝ:
-- mudar
-- mudança
-ŝat: gostar
+saĝ:
+- sensato
+- sensata
 sci:
 - saber
 - conhecimento
@@ -460,7 +442,6 @@ silent:
 - fazer silêncio
 simil: semelhante
 sinjor: senhor
-ŝip: navio
 situaci: situação
 skrib: escrever
 sol:
@@ -538,7 +519,6 @@ vizaĝ:
 vizit:
 - visitar
 - visita
-voĉ: voz
 voj: caminho
 vojaĝ:
 - viagem
@@ -550,6 +530,26 @@ vol:
 - querer
 - desejo
 vort: palavra
+voĉ: voz
 zorg:
 - cuidado
 - cuidar
+ĉambr:
+- quarto
+- sala
+ĉef:
+- patrão
+- chefe
+ĝen: incomodar
+ĝeneral: geral
+ĝoj:
+- alegre
+- alegria
+ĝust: correto
+ĵet: arremessar
+ŝajn: parecer
+ŝanĝ:
+- mudar
+- mudança
+ŝat: gostar
+ŝip: navio

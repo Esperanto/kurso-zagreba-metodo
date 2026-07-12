@@ -1,8 +1,8 @@
 ant: actief deelwoord / grammaticale stam, tegenwoordige tijd
-int: actief deelwoord / grammaticale stam, verleden tijd
-ont: actief deelwoord / grammaticale stam, toekomende tijd
-unt: actief deelwoord / grammaticale stam, voorwaardelijke wijze/vorm
 at: passief deelwoord / grammaticale stam, tegenwoordige tijd
+int: actief deelwoord / grammaticale stam, verleden tijd
 it: passief deelwoord / grammaticale stam, verleden tijd
+ont: actief deelwoord / grammaticale stam, toekomende tijd
 ot: passief deelwoord / grammaticale stam, toekomende tijd
+unt: actief deelwoord / grammaticale stam, voorwaardelijke wijze/vorm
 ut: passief deelwoord / grammaticale stam, voorwaardelijke wijze/vorm

@@ -1,3 +1,5 @@
+ag: manao
+aper: miseho , miposaka
 aŭskult: mihaino
 divers:
 - samihafa
@@ -10,6 +12,7 @@ inform: milaza , manambara
 kant: mihira
 kien: ho aiza (mankany)
 konsent: manaiky
+kred: mino , matoky
 las: mamela
 lingv: lela , fiteny
 loĝ:
@@ -30,7 +33,16 @@ publik: vahoaka
 punkt: tendrin-tsoratra , vato
 pur: tsy misy fahony ,madio
 rakont: mitantara
+rilat:
+- ho mifandray amin'
+- mifandraika amin'ny
+- momba an'ny ...
 rimark: mandinika
+sat: mamoky
+sent:
+- mahatsapa
+- mahare
+- manandrana
 seĝ: fipetrahana
 sia: 'ny ...ny ( sa bouche : ny vavany )'
 simpl: tsotra
@@ -43,15 +55,3 @@ tut:
 - manontolo, tontolo
 - ankapobe
 universal: amin'ny izao tontolo izao
-rilat:
-- ho mifandray amin'
-- mifandraika amin'ny
-- momba an'ny ...
-sat: mamoky
-ag: manao
-aper: miseho , miposaka
-sent:
-- mahatsapa
-- mahare
-- manandrana
-kred: mino , matoky

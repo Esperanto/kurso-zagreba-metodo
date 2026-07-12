@@ -57,14 +57,15 @@ est: biti
 facil: lagan
 fakt: činjenica
 fal: pasti
+falig: srušiti
 famili: obitelj
 far:
 - napraviti
 - činiti
 fart: osjećati se
 feliĉ: sretan
-fermit: zatvoren
 ferm: zatvoriti
+fermit: zatvoren
 fin:
 - kraj
 - završetak
@@ -150,6 +151,7 @@ laŭt: glasan
 lecion: lekcija
 leg: čitati
 lern: učiti
+lernant: učenik
 leter: pismo
 liber: slobodan
 libr: knjiga
@@ -333,5 +335,3 @@ zorg: brinuti
 ŝanĝ: mijenjati
 ŝat: voljeti
 ŝip: brod
-lernant: učenik
-falig: srušiti

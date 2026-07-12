@@ -1,14 +1,14 @@
-ki-: tázací
-ti-: ukazovací
-i-: neurčitá
-ĉi-: všeobecná
-neni-: záporná
--o: věc
--u: osobní, vztažná
--e: místní
 -a: vlastnost
--el: způsobová
 -al: důvodová
 -am: časová
--om: množstevní
+-e: místní
+-el: způsobová
 -es: přivlastňovací
+-o: věc
+-om: množstevní
+-u: osobní, vztažná
+i-: neurčitá
+ki-: tázací
+neni-: záporná
+ti-: ukazovací
+ĉi-: všeobecná

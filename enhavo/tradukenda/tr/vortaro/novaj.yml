@@ -1,3 +1,5 @@
+ag:
+aper:
 aŭskult: dinlemek
 divers: farklı, çeşitli
 ekzempl: örnek
@@ -7,6 +9,7 @@ inform: bilgi vermek
 kant: şarkı söylemek
 kien: nereye
 konsent: hemfikir olmak
+kred:
 lingv: dil
 loĝ: ikamet etmek
 manier: yöntem
@@ -27,20 +30,17 @@ pur: temiz
 rakont:
 - hikaye
 - anlatmak
+rilat:
+- ilişki
+- alaka
 rimark:
 - not etmek
 - tespit etmek
+sat: tok
+sent:
 seĝ: sandalye
 sia: kendisinin
 simpl: basit
 terur: korkunç
 tut: tüm
 universal: uluslararası
-rilat:
-- ilişki
-- alaka
-sat: tok
-ag:
-aper:
-sent:
-kred:

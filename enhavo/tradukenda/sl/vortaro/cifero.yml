@@ -1,27 +1,27 @@
-unu: ena
-du: dve
-tri: tri
-kvar: štiri
-kvin: pet
-ses: šest
-sep: sedem
-ok: osem
-naŭ: devet
+cent: sto
 dek: deset
-dek unu: enajst
 dek du: dvanajst
-dek tri: trinajst
 dek kvar: štirinajst
 dek kvin: petnajst
-dek ses: šesnajst
-dek sep: sedemnajst
-dek ok: osemnajst
 dek naŭ: devetnajst
-dudek: dvajset
-tridek: trideset
-kvardek: štirideset
-cent: sto
+dek ok: osemnajst
+dek sep: sedemnajst
+dek ses: šesnajst
+dek tri: trinajst
+dek unu: enajst
+du: dve
 ducent: dvesto
-tricent: tristo
-mil: tisoč
+dudek: dvajset
 dumil: dva tisoč
+kvar: štiri
+kvardek: štirideset
+kvin: pet
+mil: tisoč
+naŭ: devet
+ok: osem
+sep: sedem
+ses: šest
+tri: tri
+tricent: tristo
+tridek: trideset
+unu: ena

@@ -1,3 +1,5 @@
+ag:
+aper:
 aŭskult: hallgat
 divers:
 - különböző
@@ -9,6 +11,7 @@ inform: információ
 kant: ének
 kien: hová
 konsent: egyetért
+kred:
 lingv: nyelv
 loĝ: lakik
 manier: mód
@@ -25,7 +28,12 @@ publik: közönség
 punkt: pont
 pur: tiszta
 rakont: mese
+rilat:
+- viszony
+- kapcsolat
 rimark: észrevesz
+sat: jóllakott
+sent:
 seĝ: szék
 sia:
 - övé
@@ -40,11 +48,3 @@ tut:
 universal:
 - egyetemes
 - világ-
-rilat:
-- viszony
-- kapcsolat
-sat: jóllakott
-ag:
-aper:
-sent:
-kred:

@@ -1,27 +1,27 @@
-unu: ',isa ,iray'
-du: roa
-tri: telo
-kvar: efatra
-kvin: dimy
-ses: enina
-sep: fito
-ok: valo
-naŭ: sivy
+cent: zato
 dek: folo
-dek unu: iraika ambin'ny folo
 dek du: roa ambin'ny folo
-dek tri: telo ambin'ny folo
 dek kvar: efatra ambin'ny folo
 dek kvin: dimy  ambin'ny folo
-dek ses: enina  ambin'ny folo
-dek sep: fito ambin'ny folo
-dek ok: valo ambin'ny folo
 dek naŭ: sivy ambin'ny folo
-dudek: roa-polo
-tridek: telo-polo
-kvardek: efa-polo
-cent: zato
+dek ok: valo ambin'ny folo
+dek sep: fito ambin'ny folo
+dek ses: enina  ambin'ny folo
+dek tri: telo ambin'ny folo
+dek unu: iraika ambin'ny folo
+du: roa
 ducent: roan-jato
-tricent: telon-jato
-mil: arivo
+dudek: roa-polo
 dumil: roa arivo
+kvar: efatra
+kvardek: efa-polo
+kvin: dimy
+mil: arivo
+naŭ: sivy
+ok: valo
+sep: fito
+ses: enina
+tri: telo
+tricent: telon-jato
+tridek: telo-polo
+unu: ',isa ,iray'

@@ -1,3 +1,7 @@
+ag:
+- agire
+- fare
+aper: apparire
 aŭskult: ascoltare
 divers: diverso
 ekzempl: esempio
@@ -7,6 +11,7 @@ inform: informare
 kant: cantare
 kien: dove (moto a luogo)
 konsent: consentire
+kred: credere
 lingv: lingua
 loĝ:
 - abitare
@@ -30,9 +35,12 @@ pur:
 - pulito
 - puro
 rakont: raccontare
+rilat: concernere
 rimark:
 - notare
 - accorgersi
+sat: sazio
+sent: sentire (percepire)
 seĝ: sedia
 sia: proprio
 simpl: semplice
@@ -41,11 +49,3 @@ tut:
 - tutto
 - intero
 universal: universale
-rilat: concernere
-sat: sazio
-ag:
-- agire
-- fare
-aper: apparire
-sent: sentire (percepire)
-kred: credere

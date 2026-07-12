@@ -1,3 +1,5 @@
+ag: gníomhaigh
+aper: nocht
 aŭskult: éist
 divers: éagsúil
 ekzempl: sampla
@@ -9,6 +11,7 @@ kien: cá
 konsent:
 - toiligh
 - cead
+kred: creid
 las: lig
 lingv: teanga
 loĝ:
@@ -35,7 +38,12 @@ pur:
 - glan
 - íon
 rakont: inis
+rilat: bain le
 rimark: tabhair faoi deara
+sat:
+- bheith lán
+- sáithithe
+sent: braith
 seĝ: cathaoir
 sia:
 - a cheann féin
@@ -46,11 +54,3 @@ suk: sú
 terur: uafásach
 tut: uile
 universal: uilíoch
-rilat: bain le
-sat:
-- bheith lán
-- sáithithe
-ag: gníomhaigh
-aper: nocht
-sent: braith
-kred: creid

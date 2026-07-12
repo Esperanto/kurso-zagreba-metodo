@@ -1,3 +1,9 @@
+ag:
+- beraksi
+- bertindak
+aper:
+- tampak
+- muncul
 aŭskult: mendengar
 divers: beragam
 ekzempl: contoh
@@ -7,6 +13,7 @@ inform: menginformasi
 kant: menyanyi
 kien: ke mana
 konsent: setuju
+kred: percaya
 lingv: bahasa
 loĝ:
 - tinggal
@@ -29,7 +36,10 @@ pur:
 - suci
 - bersih
 rakont: menceritakan
+rilat: berkaitan
 rimark: menyadari
+sat: suka
+sent: merasa
 seĝ: kursi
 sia: miliknya
 simpl: sederhana
@@ -38,13 +48,3 @@ terur:
 - mengerikan
 tut: semua
 universal: universal
-rilat: berkaitan
-sat: suka
-ag:
-- beraksi
-- bertindak
-aper:
-- tampak
-- muncul
-sent: merasa
-kred: percaya

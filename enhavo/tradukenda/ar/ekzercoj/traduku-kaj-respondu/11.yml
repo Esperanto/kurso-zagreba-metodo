@@ -1,49 +1,49 @@
-- demando: Pouvez-vous apporter le médicament de ma soeur ?
+- demando: هل يمكنك أن تحضر معك دواء أختي؟
   rektatraduko:
-  - Ĉu: Est-ce que
-  - vi: vous
-  - povas: pouvez
-  - kunporti: apporter
-  - la: le
-  - sanigilon: médicament
-  - de: de
-  - mia: ma
-  - fratino: sœur
+  - Ĉu: هل
+  - vi: أنت
+  - povas: تستطيع
+  - kunporti: تحضر معك
+  - la: الـ
+  - sanigilon: دواء
+  - de: لـ
+  - mia: خاصتي
+  - fratino: أخت
   - '?'
-- demando: Quand as-tu acheté cet instrument de musique ?
+- demando: متى اشتريت تلك الآلة الموسيقية؟
   rektatraduko:
-  - Kiam: Quand
-  - vi: tu
-  - aĉetis: as acheté
-  - tiun: ce, cet
-  - muzikilon: instrument de musique
+  - Kiam: متى
+  - vi: أنت
+  - aĉetis: اشتريت
+  - tiun: تلك
+  - muzikilon: آلة موسيقية
   - '?'
-- demando: Qui a utilisé ma clé dernièrement ?
+- demando: من استخدم مفتاحي أخيرًا؟
   rektatraduko:
-  - Kiu: Qui
-  - laste: dernièrement
-  - uzis: a utilisé
-  - mian: ma
-  - ŝlosilon: clé
+  - Kiu: من
+  - laste: أخيرًا
+  - uzis: استخدم
+  - mian: خاصتي
+  - ŝlosilon: مفتاح
   - '?'
-- demando: Vous êtes-vous déplacés à Venise en gondole aussi ?
+- demando: هل تنقلت في البندقية أيضًا بالجندول؟
   rektatraduko:
-  - Ĉu: Est-ce que
-  - vi: vous
-  - en: à, dans
-  - Venecio: Venise
-  - veturis: êtes déplacés
-  - ankaŭ: aussi
-  - per: en
-  - gondolo: gondole
+  - Ĉu: هل
+  - vi: أنت
+  - en: في
+  - Venecio: البندقية
+  - veturis: تنقلت
+  - ankaŭ: أيضًا
+  - per: بـ
+  - gondolo: جندول
   - '?'
-- demando: Est-ce que pourra t'endormir quand ce sera silencieux ?
+- demando: هل ستتمكن من النوم عندما يسود الصمت؟
   rektatraduko:
-  - Ĉu: Est-ce que
-  - vi: tu
-  - povos: pourras
-  - ekdormi: '[t''] endormir'
+  - Ĉu: هل
+  - vi: أنت
+  - povos: ستتمكن
+  - ekdormi: تبدأ النوم
   - ','
-  - kiam: quand
-  - silentiĝos: ce sera silencieux (litt. c'est devenu silencieux)
+  - kiam: عندما
+  - silentiĝos: يسود الصمت
   - '?'

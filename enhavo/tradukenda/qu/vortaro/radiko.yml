@@ -1,4 +1,5 @@
 afer: ima
+ag: ruway
 agrabl: sumaq
 akcept: chaskiy
 akv: yaku
@@ -6,12 +7,14 @@ ali: huk
 alt: hanaq
 am: kuyay
 amik: masi
+aper: rikuriy
 arb: sach'a
 aspekt: rikch'akuy
 atend: suyay
 atent: allinta qhaway
 aĉet: rantiy
 aŭd: uyariy
+aŭskult: uyariy
 aŭt: awtu
 aŭtoritat: kamachiq
 bedaŭr: llakiy
@@ -39,6 +42,7 @@ dik:
 dimanĉ: intichaw
 dir: niy
 direkt: mayman
+divers: imaymana
 doktor: hampiq
 dolar: dolar
 dolor:
@@ -52,6 +56,7 @@ doĝ: doĝe
 edz: qusa
 efektiv: chiqaqpi
 ekskurs: puriy
+ekzempl: rikch'ana
 esper: suyakuy
 est: kay
 facil: sasa mana
@@ -72,6 +77,7 @@ fot: foto
 frat: wawqi
 fru: ñawpaq
 fuŝ: pantay
+glas: qiru
 gondol: gondola
 graf: konti
 grand: hatun
@@ -85,6 +91,8 @@ hor: ura
 hotel: hotel
 ide: yuyay
 industri: industria
+infan: wawa
+inform: willay
 instru: yachachiy
 interes: munachiy
 invit: mink'ay
@@ -94,6 +102,7 @@ jar: wata
 jun: wayna
 kaf: kafi
 kalv: q'ala uma
+kant: takiy
 kap: uma
 kapabl: atiyuq
 kapt: hapiy
@@ -110,11 +119,13 @@ kolor: llimp'i
 komenc: qallariy
 kompren: hamut'ay
 kon: riqsiy
+konsent: ari niy
 kontent: kusisqa
 kontrol: qhaway
 kor: sunqu
 korp: ukhu
 kost: chaniyuq kay
+kred: iñiy
 kri: qapariy
 kuir: wayk'uy
 kuk: misk'i t'anta
@@ -126,6 +137,7 @@ land:
 - suyu
 - llaqta
 larĝ: kinray
+las: saqiy
 last: qhipa
 laŭt: qapariq
 lecion: yachachiy
@@ -134,11 +146,14 @@ lern: yachay
 leter: qillqa
 liber: qispisqa
 libr: liwru
+lingv: simi
 lok: tiyana
 long: suni
+loĝ: tiyay
 lud: pukllay
 lum: k'anchay
 man: maki
+manier: imayna
 mank: pisiy
 manĝ: mikhuy
 mar: mamaqucha
@@ -151,12 +166,15 @@ minut: minuto
 mir: musphay
 moment: pacha
 mon: qullqi
+monat: killa
+mond: pacha
 mont: urqu
 montr: rikuchiy
 mort: wañuy
 mov: kuyuy
 mult: achkha
 muzik: taki
+naci: suyu runakuna
 nask: wachay
 natur: pacha
 neces: kanan tiyan
@@ -172,6 +190,7 @@ onkl: tiyuy
 opini: yuyay
 ord: kamachiy
 orel: rinri
+organiz: allichay
 pac: hawka kay
 pag: pagay
 pan: t'anta
@@ -192,19 +211,30 @@ plac: plaza
 plan: planey
 plaĉ: gustay
 plen: hunt'a
+plor: waqay
+pluv: paramuy
 polic: policía
 pord: punku
 port: apay
 pov: atiy
+poŝ: bolsillo
+poŝt: correo
 pren: hap'iy
 pret: listo
 prezent: riqsichiy
 problem: sasachakuy
 proksim: qaylla
+proksimum: yaqa
 promen: puriy
 propon: haywariy
 prov: malliy
+publik: llapapaq
+punkt: ch'iku
+pur:
+- ch'uya
+- llimp'u
 rajt: atiyniyuq kay
+rakont: willay
 rapid: utqay
 raport: willakuy
 real: chiqaq
@@ -216,6 +246,8 @@ rest: qhipakuy
 ricev: chaskiy
 rid: asiy
 rigard: qhaway
+rilat: tinkiy
+rimark: reparay
 riĉ: qullqisapa
 rol: rurana
 ruĝ: puka
@@ -223,6 +255,7 @@ salt: phinkiy
 salut: napaykuy
 sam: kikin
 san: qhali
+sat: saksasqa kay
 saĝ: yachaysapa
 sci: yachay
 sek: ch'aki
@@ -230,11 +263,14 @@ sekret: pakasqa
 sekv: qatiy
 semajn: semana
 send: apachiy
+sent: sientiy
 serĉ: maskay
+seĝ: tiyana
 si: kikin
 sid: tiyay
 silent: upalla
 simil: rikch'akuq
+simpl: mana sasachu
 sinjor: wiraqucha
 situaci: kaynin
 skrib: qillqay
@@ -246,6 +282,7 @@ star: sayay
 strat: ñan
 subit: qonqay
 sufiĉ: aypaq
+suk: yaku misk'i
 sukces: allin lluqsiy
 sun: inti
 supr: patapi
@@ -257,13 +294,16 @@ temp: pacha
 temperatur: ruphay tupu
 ten: hap'iy
 teror: manchachiy
+terur: manchay
 tim: manchakuy
 ton: tono
 trankvil: thak
 trink: upyay
 trov: tariy
 turk: turku
+tut: llapan
 tuŝ: llamiy
+universal: llapan pachapaq
 urb: llaqta
 util: allinpaq
 uz: llamk'achiy

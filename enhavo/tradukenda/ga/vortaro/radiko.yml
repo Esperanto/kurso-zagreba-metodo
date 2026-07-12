@@ -1,4 +1,5 @@
 afer: ábhar
+ag: gníomhaigh
 agrabl: taitneamhach
 akcept: glac le
 akv: uisce
@@ -6,12 +7,14 @@ ali: eile
 alt: ard
 am: grá
 amik: cara
+aper: nocht
 arb: crann
 aspekt: cuma ar
 atend: fan
 atent: tabhair aire
 aĉet: ceannaigh
 aŭd: clois
+aŭskult: éist
 aŭt: carr
 aŭtoritat: údarás
 bedaŭr: aiféala
@@ -39,6 +42,7 @@ dik:
 dimanĉ: Domhnach
 dir: deir
 direkt: treo
+divers: éagsúil
 doktor: dochtúir
 dolar: dollar
 dolor:
@@ -52,6 +56,7 @@ doĝ: dóg
 edz: fear céile
 efektiv: dáiríre
 ekskurs: turas
+ekzempl: sampla
 esper: dóchas
 est: bí
 facil: furasta
@@ -78,6 +83,7 @@ frat:
 - bráthair
 fru: luath
 fuŝ: déan praiseach
+glas: gloine
 gondol: gondala
 graf: cúnta
 grand: mór
@@ -91,6 +97,8 @@ hor: uair an chloig
 hotel: óstán
 ide: smaoineamh
 industri: tionscal
+infan: páiste
+inform: cuir in iúl
 instru: múin
 interes: suim
 invit: cuireadh
@@ -100,6 +108,7 @@ jar: bliain
 jun: óg
 kaf: caife
 kalv: maol
+kant: can
 kap: ceann
 kapabl: cumas
 kapt: breith ar
@@ -116,11 +125,15 @@ kolor: dath
 komenc: tosaigh
 kompren: tuig
 kon: aithne
+konsent:
+- toiligh
+- cead
 kontent: sásta
 kontrol: seiceáil
 kor: croí
 korp: corp
 kost: costas
+kred: creid
 kri: béic
 kuir: cócaireacht
 kuk: císte
@@ -132,6 +145,7 @@ land:
 - talamh
 - tír
 larĝ: leathan
+las: lig
 last: deiridh
 laŭt: ard
 lecion: ceacht
@@ -140,11 +154,16 @@ lern: foghlaim
 leter: litir
 liber: saor
 libr: leabhar
+lingv: teanga
 lok: áit
 long: fada
+loĝ: cónaigh
 lud: súgradh
 lum: solas
 man: lámh
+manier:
+- slí
+- bealach
 mank: easpa
 manĝ: ith
 mar: muir
@@ -157,12 +176,15 @@ minut: nóiméad
 mir: iontas
 moment: nóiméad
 mon: airgead
+monat: mí
+mond: domhan
 mont: sliabh
 montr: taispeáin
 mort: bás
 mov: bog
 mult: an-chuid
 muzik: ceol
+naci: náisiún
 nask: saolaigh
 natur:
 - nádúr
@@ -182,6 +204,7 @@ opini:
 - smaoinigh
 ord: ordaigh
 orel: cluas
+organiz: eagraigh
 pac: síocháin
 pag: íoc
 pan: arán
@@ -203,19 +226,34 @@ plac: áit
 plan: pleanáil
 plaĉ: taitnigh
 plen: lán
+plor:
+- gol
+- caoineadh
+pluv: cuir báisteach
 polic: póilíní
 pord: doras
 port: iompair
 pov: is féidir
+poŝ: póca
+poŝt: post
 pren: tóg
 pret: ullamh
 prezent: bronn
 problem: fadhb
 proksim: in aice
+proksimum:
+- gar-
+- neas-
 promen: spaisteoireacht
 propon: mol
 prov: iarracht
+publik: poiblí
+punkt: pointe
+pur:
+- glan
+- íon
 rajt: cead
+rakont: inis
 rapid: tapa
 raport: tuairisc
 real: fíor-
@@ -227,6 +265,8 @@ rest: fan
 ricev: faigh
 rid: gáir
 rigard: féach ar
+rilat: bain le
+rimark: tabhair faoi deara
 riĉ: saibhir
 rol: ról
 ruĝ: dearg
@@ -234,6 +274,9 @@ salt: léim
 salut: beannaigh
 sam: céanna
 san: sláinte
+sat:
+- bheith lán
+- sáithithe
 saĝ: críonna
 sci: fios
 sek: tirim
@@ -241,11 +284,14 @@ sekret: rún
 sekv: lean
 semajn: seachtain
 send: seol
+sent: braith
 serĉ: cuardaigh
+seĝ: cathaoir
 si: forainm aisfhillteach
 sid: suigh
 silent: ciúin
 simil: cosúil
+simpl: simplí
 sinjor:
 - duine uasal
 - An tUas.
@@ -259,6 +305,7 @@ star: seas
 strat: sráid
 subit: go tobann
 sufiĉ: leor
+suk: sú
 sukces: éirigh le
 sun: grian
 supr: os cionn
@@ -272,13 +319,16 @@ ten:
 - beir ar
 - greim
 teror: sceimhle
+terur: uafásach
 tim: eagla
 ton: tuin
 trankvil: suaimhneas
 trink: ól
 trov: faigh
 turk: Turcach
+tut: uile
 tuŝ: bain do
+universal: uilíoch
 urb: cathair
 util: úsáideach
 uz: úsáid

@@ -19,7 +19,7 @@ test('aldona kaj lingva menuoj restas cxiam atingeblaj', async ({ page }) => {
     hasText: 'Deutsch',
   });
   await expect(languageMenu).toBeVisible();
-  await expect(languageMenu.getByRole('link', { name: 'Deutsch' })).toHaveAttribute('href', '/de/');
+  await expect(languageMenu.getByRole('link', { name: 'Deutsch' })).toHaveAttribute('href', '/de/01/');
 });
 
 test('navigilo restas supre dum rulumado', async ({ page }) => {
@@ -47,6 +47,32 @@ test('leciona titolo malfermas lecionliston', async ({ page }) => {
   const lessonMenu = page.locator('.leciona-menuo-listo.show');
   await expect(lessonMenu.getByRole('link', { name: /^1\.\s*Amiko Marko/ })).toHaveAttribute('href', '/en/01');
   await expect(lessonMenu.getByRole('link', { name: /^12\./ })).toHaveAttribute('href', '/en/12');
+});
+
+test('lecionmenuo konservas la aktivan langeton', async ({ page }) => {
+  await page.goto('/en/06/gramatiko/');
+
+  await page.getByRole('button', { name: /6\./ }).click();
+
+  const lessonMenu = page.locator('.leciona-menuo-listo.show');
+  await expect(lessonMenu.getByRole('link', { name: /^7\./ })).toHaveAttribute(
+    'href',
+    '/en/07/gramatiko/',
+  );
+});
+
+test('lingvomenuo konservas la aktualan pagxon', async ({ page }) => {
+  await page.goto('/en/06/gramatiko/');
+
+  await page.getByRole('button', { name: 'Elekti alian lingvon' }).click();
+
+  const languageMenu = page.locator('.dropdown-menu.show').filter({
+    hasText: 'Deutsch',
+  });
+  await expect(languageMenu.getByRole('link', { name: 'Deutsch' })).toHaveAttribute(
+    'href',
+    '/de/06/gramatiko/',
+  );
 });
 
 test('lecionaj sagoj estas apud centrita titolo', async ({ page }) => {

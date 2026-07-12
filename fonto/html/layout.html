@@ -94,9 +94,8 @@
               {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'preta' %}
                 <li>
                   <a
-                    class="dropdown-item lingvoelektilo-ligilo"
-                    href="/{{kodo}}/"
-                    data-lingvo="{{kodo}}"
+                    class="dropdown-item"
+                    href="{{lingvoelektilo_vojprefikso|default('/')}}{{kodo}}/{{identigilo|default('')}}"
                     lang="{{kodo}}"
                     {% if kodo == enhavo.lingvo %}
                       aria-current="true"
@@ -107,9 +106,8 @@
               {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'testa' %}
                 <li>
                   <a
-                    class="dropdown-item lingvoelektilo-ligilo"
-                    href="/{{kodo}}/"
-                    data-lingvo="{{kodo}}"
+                    class="dropdown-item"
+                    href="{{lingvoelektilo_vojprefikso|default('/')}}{{kodo}}/{{identigilo|default('')}}"
                     lang="{{kodo}}"
                     {% if kodo == enhavo.lingvo %}
                       aria-current="true"

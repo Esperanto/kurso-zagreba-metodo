@@ -411,10 +411,12 @@ def render_lingva_llms_full(enhavo, enkonduko):
     )
 
 
-def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None):
+def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None, lingvoelektilo_vojprefikso='/'):
     rendered = env.get_template(name + '.html').render(
         enhavo=enhavo,
         vojprefikso=vojprefikso,
+        lingvoelektilo_vojprefikso=lingvoelektilo_vojprefikso,
+        identigilo=name + '/',
         redaktaj_ligiloj=redaktaj_ligiloj or [],
         seo=seo_datenoj(enhavo, name + '/'),
     )
@@ -775,8 +777,10 @@ def generate_html(
 
     if args.vojprefikso:
         vojprefikso = args.vojprefikso + lingvo + '/'
+        lingvoelektilo_vojprefikso = args.vojprefikso
     else:
         vojprefikso = '/' + lingvo + '/'
+        lingvoelektilo_vojprefikso = '/'
 
     url = {
         'anki': 'https://apps.ankiweb.net/',
@@ -799,6 +803,7 @@ def generate_html(
         ],
         url=url,
         vojprefikso=vojprefikso,
+        lingvoelektilo_vojprefikso=lingvoelektilo_vojprefikso,
         redaktaj_ligiloj=redaktaj_ligiloj(lingvo),
         seo=seo_datenoj(enhavo),
         tabs=tabs,
@@ -823,7 +828,14 @@ def generate_html(
     # Memstaraj aldonaj paĝoj (ne parto de la langetoj nek de la antaŭen/malantaŭen-fluo).
     for tab_page in ('auxtoroj', 'post'):
         pagxaj_ligiloj = redaktaj_ligiloj(lingvo, tab_page)
-        eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env, pagxaj_ligiloj)
+        eligo[output_path / tab_page / 'index.html'] = render_page(
+            tab_page,
+            enhavo,
+            vojprefikso,
+            env,
+            pagxaj_ligiloj,
+            lingvoelektilo_vojprefikso,
+        )
 
     # La fluo: 12 lecionoj × langetoj, poste la apendicaj langetoj kiel «leciono 13».
     paths = []
@@ -851,6 +863,8 @@ def generate_html(
                 leciono_index=i,
                 vojprefikso=vojprefikso,
                 tab_vojprefikso=vojprefikso + i_padded + '/',
+                leciona_menuo_tab_vojo=href,
+                lingvoelektilo_vojprefikso=lingvoelektilo_vojprefikso,
                 previous_path=previous_path,
                 next_path=next_path,
                 tabs=tabs,
@@ -875,6 +889,7 @@ def generate_html(
             apendico=True,
             vojprefikso=vojprefikso,
             tab_vojprefikso=vojprefikso,
+            lingvoelektilo_vojprefikso=lingvoelektilo_vojprefikso,
             previous_path=previous_path,
             next_path=next_path,
             tabs=apendicaj_langetoj,

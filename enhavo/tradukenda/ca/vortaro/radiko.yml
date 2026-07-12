@@ -1,6 +1,9 @@
 afer:
 - assumpte
 - cosa
+ag:
+- actuar
+- obrar
 agrabl: agradable
 akcept: acceptar
 akv: aigua
@@ -8,6 +11,7 @@ ali: altre/a
 alt: alt/a
 am: estimar, amar
 amik: amic
+aper: aparèixer
 arb: arbre
 aspekt: semblar (aspecte)
 atend: esperar
@@ -16,6 +20,7 @@ atent:
 - parar atenció
 aĉet: comprar
 aŭd: sentir, oir
+aŭskult: escoltar
 aŭt: cotxe
 aŭtoritat: autoritat
 bedaŭr: lamentar, deplorar
@@ -46,6 +51,7 @@ dik: gras/grassa
 dimanĉ: diumenge
 dir: dir
 direkt: direcció
+divers: divers
 doktor: doctor
 dolar: dòlar
 dolor: fer mal, doler
@@ -59,6 +65,7 @@ doĝ: dux
 edz: marit
 efektiv: efectiu
 ekskurs: excursió
+ekzempl: exemple
 esper: tenir esperança
 est:
 - ser
@@ -88,6 +95,7 @@ fuŝ:
 - espatllar
 - malmetre
 - esguerrar
+glas: got
 gondol: góndola
 graf: comte
 grand: gran
@@ -105,6 +113,8 @@ hor: hora
 hotel: hotel
 ide: idea
 industri: indústria
+infan: nen, nena
+inform: informar
 instru: ensenyar, instruir
 interes: interessar
 invit: invitar, convidar
@@ -114,6 +124,7 @@ jar: any
 jun: jove
 kaf: cafè
 kalv: calv/a
+kant: cantar
 kap: cap (part superior del cos)
 kapabl: capaç
 kapt:
@@ -133,6 +144,9 @@ kolor: color
 komenc: començar
 kompren: entendre
 kon: conèixer
+konsent:
+- consentir
+- estar d'acord
 kontent: satisfet/a, content/a
 kontrol:
 - controlar
@@ -140,6 +154,7 @@ kontrol:
 kor: cor
 korp: cos
 kost: costar
+kred: creure
 kri: cridar
 kuir: cuinar
 kuk: pastís
@@ -159,11 +174,17 @@ lern: aprendre
 leter: carta
 liber: lliure
 libr: llibre
+lingv: llengua
 lok: lloc
 long: llarg/a (distància o temps)
+loĝ:
+- viure
+- residir
+- habitar
 lud: jugar
 lum: llum
 man: mà
+manier: manera
 mank: faltar, mancar
 manĝ: menjar
 mar: mar
@@ -181,6 +202,8 @@ mir:
 - preguntar-se
 moment: moment
 mon: diners
+monat: mes
+mond: món
 mont: muntanya
 montr:
 - mostrar
@@ -189,6 +212,7 @@ mort: morir
 mov: moure
 mult: molt/a
 muzik: música
+naci: nació
 nask: engendrar
 natur: natura
 neces: necessari/a
@@ -209,6 +233,7 @@ onkl: oncle
 opini: opinar
 ord: ordre, endreç
 orel: orella
+organiz: organitzar
 pac: pau
 pag: pagar
 pan: pa
@@ -233,10 +258,14 @@ plac: plaça
 plan: pla
 plaĉ: agradar
 plen: ple/plena
+plor: plorar
+pluv: ploure
 polic: policia
 pord: porta
 port: portar
 pov: poder
+poŝ: butxaca
+poŝt: correu
 pren: prendre
 pret:
 - llest, a punt
@@ -244,10 +273,18 @@ pret:
 prezent: presentar
 problem: problema
 proksim: proper/a, pròxim/a
+proksimum: aproximat
 promen: passejar
 propon: proposar
 prov: intentar, provar
+publik: públic
+punkt: punt
+pur: net
 rajt: poder, tenir dret (a)
+rakont:
+- contar
+- narrar
+- explicar
 rapid: ràpid/a
 raport: informar
 real: real
@@ -261,6 +298,10 @@ rest: romandre, quedar-se
 ricev: rebre
 rid: riure
 rigard: mirar
+rimark:
+- notar
+- observar
+- percebre
 riĉ: ric/a
 rol: paper, rol
 ruĝ: roig/roja
@@ -275,11 +316,16 @@ sekret: secret
 sekv: seguir
 semajn: setmana
 send: enviar
+sent: sentir
 serĉ: buscar, cercar
+seĝ: seient
 si: pronom reflexiu
 sid: estar assegut, seure
 silent: callar, estar en silenci
 simil: similar, semblant
+simpl:
+- senzill
+- simple
 sinjor: senyor
 situaci: situació
 skrib: escriure
@@ -307,6 +353,7 @@ temp: temps
 temperatur: temperatura
 ten: sostenir
 teror: terror
+terur: terror
 tim:
 - témer
 - tenir por
@@ -315,7 +362,11 @@ trankvil: tranquil/tranquil·la
 trink: beure
 trov: trobar
 turk: turc/a
+tut:
+- sencer
+- tot
 tuŝ: tocar
+universal: universal
 urb: ciutat
 util: útil
 uz: usar, emprar

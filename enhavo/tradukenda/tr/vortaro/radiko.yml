@@ -1,4 +1,5 @@
 afer: mesele, konu, şey
+ag:
 agrabl: hoş
 akcept: kabul etmek
 akv: su
@@ -6,6 +7,7 @@ ali: diğer
 alt: yüksek
 am: sevmek; sevgi, aşk
 amik: arkadaş
+aper:
 arb: ağaç
 aspekt:
 - görünmek
@@ -14,6 +16,7 @@ atend: beklemek
 atent: dikkat etmek
 aĉet: satın almak
 aŭd: duymak
+aŭskult: dinlemek
 aŭt: araba
 aŭtoritat: otorite
 bedaŭr:
@@ -49,6 +52,7 @@ dir:
 - söylemek
 - demek
 direkt: yön
+divers: farklı, çeşitli
 doktor: doktor
 dolar: dolar
 dolor:
@@ -62,6 +66,7 @@ doĝ: eski venedik başkanı
 edz: koca
 efektiv: gerçekte
 ekskurs: gezinti
+ekzempl: örnek
 esper: ummak, umut etmek
 est:
 - olmak
@@ -88,6 +93,7 @@ fot: fotoğraf
 frat: kardeş
 fru: erken
 fuŝ: batırmak, dağıtmak, yüzüne bulaştırmak
+glas: bardak
 gondol: gondol
 graf: Kont (soylu)
 grand: büyük
@@ -101,6 +107,8 @@ hor: saat
 hotel: otel
 ide: fikir
 industri: endüstri
+infan: çocuk
+inform: bilgi vermek
 instru: öğretmek
 interes: ilgilenmek
 invit: davet etmek
@@ -110,6 +118,7 @@ jar: yıl
 jun: genç
 kaf: kahve
 kalv: kel
+kant: şarkı söylemek
 kap: kafa
 kapabl: yetenekli
 kapt: yakalamak
@@ -130,6 +139,7 @@ kompren:
 - anlamak
 - kavramak
 kon: bilmek
+konsent: hemfikir olmak
 kontent: tatmin olmak
 kontrol: kontrol etmek
 kor: kalp
@@ -137,6 +147,7 @@ korp: beden
 kost:
 - tutmak, etmek (fiyat)
 - maaliyet
+kred:
 kri: çığlık atmak
 kuir:
 - yemek yapmak
@@ -156,13 +167,16 @@ lern: öğrenmek
 leter: mektup
 liber: serbest
 libr: kitap
+lingv: dil
 lok:
 - yer
 - lokasyon
 long: uzun
+loĝ: ikamet etmek
 lud: oynamak
 lum: parlak
 man: el
+manier: yöntem
 mank: eksik olmak
 manĝ: yemek
 mar: deniz
@@ -175,12 +189,15 @@ minut: dakika
 mir: hayret etmek
 moment: an
 mon: para
+monat: ay
+mond: dünya
 mont: dağ
 montr: göstermek
 mort: ölmek
 mov: hareket etmek
 mult: çok
 muzik: müzik
+naci: ulus
 nask: doğurmak
 natur: doğa
 neces: ihtiyaç duymak
@@ -200,6 +217,7 @@ ord:
 - emretmek
 - sipariş vermek
 orel: kulak
+organiz: organizasyon
 pac: barış
 pag: ödemek
 pan: ekmek
@@ -222,6 +240,8 @@ plac: yer
 plan: planlamak
 plaĉ: memnu etmek
 plen: dolu, full
+plor: aülamak
+pluv: yağmur yağmak
 polic: polis
 pord: kapı
 port:
@@ -230,15 +250,26 @@ port:
 pov:
 - yapabilmek, edebilmek
 - -bilmek
+poŝ: cep
+poŝt: posta
 pren: almak
 pret: hazır olmak
 prezent: sunmak
 problem: problem
 proksim: yakın
+proksimum: yaklaşık
 promen: dolaşmak
 propon: önermek
 prov: denemek
+publik:
+- halk
+- kamu
+punkt: nokta
+pur: temiz
 rajt: izni olmak
+rakont:
+- hikaye
+- anlatmak
 rapid: hızlı
 raport: rapor vermek
 real: gerçek
@@ -252,6 +283,12 @@ rest:
 ricev: teslim almak
 rid: gülmek
 rigard: bakmak
+rilat:
+- ilişki
+- alaka
+rimark:
+- not etmek
+- tespit etmek
 riĉ: zengin
 rol: rol
 ruĝ: kırmızı
@@ -259,6 +296,7 @@ salt: zıplamak
 salut: merhaba
 sam: aynı
 san: sağlıklı
+sat: tok
 saĝ: akıllı
 sci: bilmek
 sek: kuru
@@ -266,11 +304,14 @@ sekret: gizli
 sekv: takip etmek
 semajn: hafta
 send: iletmek
+sent:
 serĉ: aramak
+seĝ: sandalye
 si: dönüşlü zamir (kendi, kendisini)
 sid: oturmak
 silent: sessiz
 simil: benzer
+simpl: basit
 sinjor:
 - beyefendi
 - sayın
@@ -295,13 +336,16 @@ temp: zaman
 temperatur: sıcaklık
 ten: tutmak
 teror: terör, terörie etmek
+terur: korkunç
 tim: korku
 ton: ton
 trankvil: sakin
 trink: içmek
 trov: bulmak
 turk: Türkçe
+tut: tüm
 tuŝ: dokunmak
+universal: uluslararası
 urb: şehir
 util: kullanışlı, faydalı
 uz: kullanmak

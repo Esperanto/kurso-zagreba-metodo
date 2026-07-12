@@ -92,12 +92,26 @@ Formataj konvencioj:
 - Aldonu nur vere akcepteblajn variantojn.
 - Ne aldonu tro vastajn sinonimojn, kiuj ŝanĝus la signifon.
 
-## Ekzerco 2 (`ekzercoj/traduku-kaj-respondu/*.yml`)
+## Ekzerco 3 (`ekzercoj/traduku-kaj-respondu/*.yml`)
 
-- Plibonigu la kampojn `demando` tiel, ke ili sonu nature en la cellingvo.
+- Plibonigu la kampojn `demando` tiel, ke ili sonu kiel natura demando en la
+  cellingvo. Ne metu en `demando` lernhelpajn signalvortojn, krampajn klarigojn
+  aŭ nenaturajn dividostrekojn; tiuj apartenas al `rektatraduko`.
+- En `demando`, preferu la normalan ĉiutagan esprimon de la cellingvo, eĉ se ĝi
+  ne montras ĉiujn Esperantajn morfemojn. Ekz. en angla: `friend`, ne `female
+  friend`, kiam natura demando ne bezonas marki sekson; `poor man`, ne `poor
+  person`, se tio estas la natura frazo; `workbench`, ne `work-bench` aŭ `work
+  table`; `Where will you go ...?`, ne `Where (where-to) will you go ...?`.
+- Tamen ne forglatigu gravan signifon en `demando`: la demando restu semantike
+  fidela al la Esperanta frazo, nur idiome vortumita.
 - Por `rektatraduko`, tamen konservu ĝin kiel **vort-post-vorta lernhelpa
   mapo**, ne kiel natura frazo. La lernanto devas laŭ la cellingva vorto povi
   rekoni, al kiu Esperanta vorto ĝi respondas.
+- En `rektatraduko`, elektu vortojn kiuj bone signalas al parolanto de la
+  cellingvo, kion signifas la Esperanta ero, eĉ se tiuj vortoj estus tro
+  klarigaj aŭ nenaturaj en `demando`. Ekz. en angla: `amikino` -> `female
+  friend`, ne `girlfriend`; `gefratoj` -> `siblings`; `Kien` -> `Where to`;
+  `Kioma` -> `What-numbered`; `kontenta` -> `satisfied`.
 - Ne kunfandu apartajn Esperantajn vortojn en unu natura cellingva esprimo se
   tio malklarigus la mapon. Ekz. traduku `Kiom` kaj `ofte` aparte anstataŭ
   kunigi ilin al natura esprimo kiel "kiom ofte".

@@ -1,520 +1,388 @@
-titolo: 
-  -
-    - Maja
+titolo:
+- - Maja
 paragrafoj:
+- - - Maja
   -
-    -
-      - Maja
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - bel
-      - et
-      - a
-    -
-    -
-      - jun
-      - ul
-      - in
-      - o
-    - '.'
-    -
-    -
-      - Ĉiu
-      - j
-    -
-    -
-      - ŝi
-      - a
-      - j
-    -
-    -
-      - ge
-      - amik
-      - o
-      - j
-    -
-    -
-      - am
-      - as
-    -
-    -
-      - ŝi
-      - n
-    - '.'
-    -
-    -
-      - Antaŭ
-    -
-    -
-      - tri
-    -
-    -
-      - tag
-      - o
-      - j
-    -
-    -
-      - mal
-      - bon
-      - o
-    -
-    -
-      - okaz
-      - is
-    - ':'
-    -
-    -
-      - sur
-    -
-    -
-      - strat
-      - o
-    -
-    -
-      - aŭt
-      - o
-    -
-    -
-      - fal
-      - ig
-      - is
-    -
-    -
-      - ŝi
-      - n
-    - '.'
-  
+  - - est
+    - as
   -
-    -
-    -
-      - Maja
-    -
-    -
-      - mal
-      - san
-      - iĝ
-      - is
-    -
-    -
-      - kaj
-    -
-    -
-      - hav
-      - as
-    -
-    -
-      - alt
-      - a
-      - n
-    -
-    -
-      - temperatur
-      - o
-      - n
-    - '.'
-    -
-    -
-      - Ŝi
-      - a
-    -
-    -
-      - patr
-      - in
-      - o
-    -
-    -
-      - dir
-      - is
-    - ','
-    -
-    -
-      - ke
-    -
-    -
-      - ŝi
-    -
-    -
-      - dev
-      - as
-    -
-    -
-      - rest
-      - i
-    -
-    -
-      - hejm
-      - e
-    - '.'
-    -
-    -
-      - Morgaŭ
-    -
-    -
-      - ŝi
-    -
-    -
-      - vok
-      - os
-    -
-    -
-      - doktor
-      - o
-      - n
-    - '.'
-  
+  - - bel
+    - et
+    - a
   -
-    -
-    -
-      - La
-    -
-    -
-      - doktor
-      - o
-    -
-    -
-      - ven
-      - is
-    -
-    -
-      - je
-    -
-    -
-      - la
-    -
-    -
-      - naŭ
-      - a
-    -
-    -
-      - hor
-      - o
-    -
-    -
-      - por
-    -
-    -
-      - help
-      - i
-    -
-    -
-      - al
-    -
-    -
-      - Maja
-    - '.'
+  - - jun
+    - ul
+    - in
+    - o
+  - .
   -
-    - '–'
-    -
-    -
-      - Dir
-      - u
-    -
-    - '"A"'
-    -
-    - '…'
-    -
-      - montr
-      - u
-    -
-    -
-      - vi
-      - a
-      - j
-      - n
-    -
-    -
-      - man
-      - o
-      - j
-      - n
-    -
-    - '…'
-    -
-    -
-      - montr
-      - u
-    -
-    -
-      - vi
-      - a
-      - j
-      - n
-    -
-    -
-      - pied
-      - o
-      - j
-      - n
-    -
-    - '…'
-    -
-    -
-      - mal
-      - vest
-      - u
-    -
-    -
-      - vi
-      - n
-    - '!'
+  - - Ĉiu
+    - j
   -
-    -
-      - La
-    -
-    -
-      - doktor
-      - o
-    -
-    -
-      - ĉio
-      - n
-    -
-    -
-      - bon
-      - e
-    -
-    -
-      - rigard
-      - is
-    -
-    -
-      - kaj
-    -
-    -
-      - fine
-    -
-    -
-      - dir
-      - is
-    - ':'
+  - - ŝi
+    - a
+    - j
   -
-    - '–'
-    -
-    -
-      - Unu
-    -
-    -
-      - semajn
-      - o
-      - n
-    -
-    -
-      - rest
-      - u
-    -
-    -
-      - hejm
-      - e
-    -
-    -
-      - kaj
-    -
-    - '…'
-    -
-    -
-      - ne
-    -
-    -
-      - ir
-      - u
-    -
-    -
-      - sub
-    -
-    -
-      - aŭt
-      - o
-      - n
-    - '.'
-    -
-    -
-      - Trink
-      - u
-    -
-    -
-      - mult
-      - a
-      - n
-    -
-    -
-      - te
-      - o
-      - n
-    -
-    -
-      - maten
-      - e
-    -
-    -
-      - kaj
-    -
-    -
-      - vesper
-      - e
-    - '.'
-    -
-    -
-      - Mi
-    -
-    -
-      - dezir
-      - as
-    - ','
-    -
-    -
-      - ke
-    -
-    -
-      - vi
-    -
-    -
-      - est
-      - u
-    -
-    -
-      - trankvil
-      - a
-    - '.'
-    -
-    -
-      - Post
-    -
-    -
-      - unu
-    -
-    -
-      - semajn
-      - o
-    -
-    -
-      - vi
-    -
-    -
-      - fart
-      - os
-    -
-    -
-      - pli
-    -
-    -
-      - bon
-      - e
-    - '.'
-    -
-    -
-      - Mi
-    -
-    -
-      - ven
-      - os
-    -
-    -
-      - por
-    -
-    -
-      - re
-      - vid
-      - i
-    -
-    -
-      - vi
-      - n
-    - '.'
+  - - ge
+    - amik
+    - o
+    - j
   -
-    - '–'
-    -
-    -
-      - Sinjor
-      - o
-    -
-    -
-      - doktor
-      - o
-    - ','
-    -
-    -
-      - ĉu
-    -
-    -
-      - mi
-      - a
-    -
-    -
-      - bon
-      - eg
-      - a
-    -
-    -
-      - amik
-      - o
-    -
-    -
-      - Karlo
-    -
-    -
-      - pov
-      - as
-    -
-    -
-      - ven
-      - i
-    -
-    -
-      - vid
-      - i
-    -
-    -
-      - mi
-      - n
-    - '?'
-  
+  - - am
+    - as
   -
-    - '–'
-    -
-    -
-      - Hm
-    - ','
-    -
-    -
-      - jes
-    -
-    - '…'
-    -
-    -
-      - jes
-    - '.'
-    -
-    -
-      - Li
-    -
-    -
-      - pov
-      - as
-    -
-    -
-      - ven
-      - i
-    -
-    - '…'
-    -
-    -
-      - sed
-    -
-    -
-      - ankaŭ
-    -
-    -
-      - li
-    -
-    -
-      - est
-      - u
-    -
-    -
-      - trankvil
-      - a
-    - '.'
+  - - ŝi
+    - n
+  - .
+  -
+  - - Antaŭ
+  -
+  - - tri
+  -
+  - - tag
+    - o
+    - j
+  -
+  - - mal
+    - bon
+    - o
+  -
+  - - okaz
+    - is
+  - ':'
+  -
+  - - sur
+  -
+  - - strat
+    - o
+  -
+  - - aŭt
+    - o
+  -
+  - - fal
+    - ig
+    - is
+  -
+  - - ŝi
+    - n
+  - .
+- -
+  - - Maja
+  -
+  - - mal
+    - san
+    - iĝ
+    - is
+  -
+  - - kaj
+  -
+  - - hav
+    - as
+  -
+  - - alt
+    - a
+    - n
+  -
+  - - temperatur
+    - o
+    - n
+  - .
+  -
+  - - Ŝi
+    - a
+  -
+  - - patr
+    - in
+    - o
+  -
+  - - dir
+    - is
+  - ','
+  -
+  - - ke
+  -
+  - - ŝi
+  -
+  - - dev
+    - as
+  -
+  - - rest
+    - i
+  -
+  - - hejm
+    - e
+  - .
+  -
+  - - Morgaŭ
+  -
+  - - ŝi
+  -
+  - - vok
+    - os
+  -
+  - - doktor
+    - o
+    - n
+  - .
+- -
+  - - La
+  -
+  - - doktor
+    - o
+  -
+  - - ven
+    - is
+  -
+  - - je
+  -
+  - - la
+  -
+  - - naŭ
+    - a
+  -
+  - - hor
+    - o
+  -
+  - - por
+  -
+  - - help
+    - i
+  -
+  - - al
+  -
+  - - Maja
+  - .
+- - –
+  -
+  - - Dir
+    - u
+  -
+  - '"A"'
+  -
+  - …
+  - - montr
+    - u
+  -
+  - - vi
+    - a
+    - j
+    - n
+  -
+  - - man
+    - o
+    - j
+    - n
+  -
+  - …
+  -
+  - - montr
+    - u
+  -
+  - - vi
+    - a
+    - j
+    - n
+  -
+  - - pied
+    - o
+    - j
+    - n
+  -
+  - …
+  -
+  - - mal
+    - vest
+    - u
+  -
+  - - vi
+    - n
+  - '!'
+- - - La
+  -
+  - - doktor
+    - o
+  -
+  - - ĉio
+    - n
+  -
+  - - bon
+    - e
+  -
+  - - rigard
+    - is
+  -
+  - - kaj
+  -
+  - - fine
+  -
+  - - dir
+    - is
+  - ':'
+- - –
+  -
+  - - Unu
+  -
+  - - semajn
+    - o
+    - n
+  -
+  - - rest
+    - u
+  -
+  - - hejm
+    - e
+  -
+  - - kaj
+  -
+  - …
+  -
+  - - ne
+  -
+  - - ir
+    - u
+  -
+  - - sub
+  -
+  - - aŭt
+    - o
+    - n
+  - .
+  -
+  - - Trink
+    - u
+  -
+  - - mult
+    - a
+    - n
+  -
+  - - te
+    - o
+    - n
+  -
+  - - maten
+    - e
+  -
+  - - kaj
+  -
+  - - vesper
+    - e
+  - .
+  -
+  - - Mi
+  -
+  - - dezir
+    - as
+  - ','
+  -
+  - - ke
+  -
+  - - vi
+  -
+  - - est
+    - u
+  -
+  - - trankvil
+    - a
+  - .
+  -
+  - - Post
+  -
+  - - unu
+  -
+  - - semajn
+    - o
+  -
+  - - vi
+  -
+  - - fart
+    - os
+  -
+  - - pli
+  -
+  - - bon
+    - e
+  - .
+  -
+  - - Mi
+  -
+  - - ven
+    - os
+  -
+  - - por
+  -
+  - - re
+    - vid
+    - i
+  -
+  - - vi
+    - n
+  - .
+- - –
+  -
+  - - Sinjor
+    - o
+  -
+  - - doktor
+    - o
+  - ','
+  -
+  - - ĉu
+  -
+  - - mi
+    - a
+  -
+  - - bon
+    - eg
+    - a
+  -
+  - - amik
+    - o
+  -
+  - - Karlo
+  -
+  - - pov
+    - as
+  -
+  - - ven
+    - i
+  -
+  - - vid
+    - i
+  -
+  - - mi
+    - n
+  - '?'
+- - –
+  -
+  - - Hm
+  - ','
+  -
+  - - jes
+  -
+  - …
+  -
+  - - jes
+  - .
+  -
+  - - Li
+  -
+  - - pov
+    - as
+  -
+  - - ven
+    - i
+  -
+  - …
+  -
+  - - sed
+  -
+  - - ankaŭ
+  -
+  - - li
+  -
+  - - est
+    - u
+  -
+  - - trankvil
+    - a
+  - .

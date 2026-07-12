@@ -1,465 +1,336 @@
-titolo: 
+titolo:
+- - La
+-
+- - amik
+  - in
+  - o
+-
+- - de
+-
+- - Marko
+paragrafoj:
+- - - Marko
   -
-    - La
+  - - hav
+    - as
   -
-  -
-    - amik
+  - - amik
     - in
     - o
+    - n
+  - .
   -
+  - - Ŝi
+    - a
   -
-    - de
+  - - nom
+    - o
   -
+  - - est
+    - as
   -
-    - Marko
-  
-paragrafoj:
+  - - Ana
+  - .
   -
-    -
-      - Marko
-    -
-    -
-      - hav
-      - as
-    -
-    -
-      - amik
-      - in
-      - o
-      - n
-    - '.'
-    -
-    -
-      - Ŝi
-      - a
-    -
-    -
-      - nom
-      - o
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - Ana
-    - '.'
-    -
-    -
-      - Ŝi
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - jun
-      - a
-    -
-    -
-      - kaj
-    -
-    -
-      - bel
-      - a
-    - '.'
-    -
-    -
-      - Ana
-    -
-    -
-      - kaj
-    -
-    -
-      - Marko
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - ge
-      - amik
-      - o
-      - j
-    - '.'
-  
+  - - Ŝi
   -
-    -
-    -
-      - Ana
-    -
-    -
-      - ven
-      - is
-    -
-    -
-      - al
-    -
-    -
-      - la
-    -
-    -
-      - hejm
-      - o
-    -
-    -
-      - de
-    -
-    -
-      - Marko
-    - '.'
-  
+  - - est
+    - as
   -
-    -  '–'
-    - 
-    -
-      - Bon
-      - vol
-      - u
-    -
-    -
-      - en
-      - ir
-      - i
-    - ','
-    -
-    -
-      - amik
-      - in
-      - o
-    - '.'
-  
+  - - jun
+    - a
   -
-    -  '–'
-    - 
-    -
-      - Salut
-      - o
-      - n
-    -
-    -
-      - Marko
-    - '.'
-    -
-    -
-      - Kio
-      - n
-    -
-    -
-      - vi
-    -
-    -
-      - far
-      - as
-    - '?'
-  
+  - - kaj
   -
-    -  '–'
-    - 
-    -
-      - Salut
-      - o
-      - n
-    - '.'
-    -
-    -
-      - Mi
-    -
-    -
-      - leg
-      - is
-    - ','
-    -
-    -
-      - sed
-    -
-    -
-      - nun
-    -
-    -
-      - mi
-    -
-    -
-      - vol
-      - as
-    -
-    -
-      - parol
-      - i
-    -
-    -
-      - kun
-    -
-    -
-      - vi
-    - '.'
-  
+  - - bel
+    - a
+  - .
   -
-    -  '–'
-    - 
-    -
-      - Ĉu
-    -
-    -
-      - vi
-    -
-    -
-      - hav
-      - as
-    -
-    -
-      - bon
-      - a
-      - n
-    -
-    -
-      - libr
-      - o
-      - n
-    - '?'
-  
+  - - Ana
   -
-    -  '–'
-    - 
-    -
-      - Jes
-    - ','
-    -
-    -
-      - mi
-    -
-    -
-      - hav
-      - as
-    - '.'
-    -
-    -
-      - Mi
-    -
-    -
-      - ŝat
-      - as
-    -
-    -
-      - leg
-      - i
-    -
-    -
-      - nur
-    -
-    -
-      - bon
-      - a
-      - j
-      - n
-    -
-    -
-      - libr
-      - o
-      - j
-      - n
-    - '.'
-    -
-    -
-      - Ĉu
-    -
-    -
-      - vi
-    -
-    -
-      - vol
-      - as
-    -
-    -
-      - trink
-      - i
-    -
-    -
-      - kaf
-      - o
-      - n
-    - '?'
-  
+  - - kaj
   -
-    -  '–'
-    - 
-    -
-      - Jes
-    - '.'
-    -
-    -
-      - Ĉu
-    -
-    -
-      - vi
-      - a
-      - j
-    -
-    -
-      - ge
-      - patr
-      - o
-      - j
-    -
-    -
-      - kaj
-    -
-    -
-      - ge
-      - frat
-      - o
-      - j
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - en
-    -
-    -
-      - vi
-      - a
-    -
-    -
-      - hejm
-      - o
-    - '?'
-  
+  - - Marko
   -
-    -  '–'
-    - 
-    -
-      - Ne
-    - '.'
-    -
-    -
-      - Jen
-    -
-    -
-      - la
-    -
-    -
-      - kaf
-      - o
-    - ','
-    -
-    -
-      - ĝi
-    -
-    -
-      - est
-      - as
-    -
-    -
-      - ankoraŭ
-    -
-    -
-      - varm
-      - a
-    - '.'
-    -
-    -
-      - Mi
-    -
-    -
-      - nun
-    -
-    -
-      - kuir
-      - is
-    -
-    -
-      - ĝi
-      - n
-    - '.'
-  
+  - - est
+    - as
   -
-    -  '–'
-    - 
-    -
-      - Dank
-      - o
-      - n
-    - '.'
-    -
-    -
-      - Mi
-    -
-    -
-      - pov
-      - as
-    -
-    -
-      - trink
-      - i
-    -
-    -
-      - ankaŭ
-    -
-    -
-      - mal
-      - varm
-      - a
-      - n
-    -
-    -
-      - kaf
-      - o
-      - n
-    - '.'
+  - - ge
+    - amik
+    - o
+    - j
+  - .
+- -
+  - - Ana
   -
-    -
-    -
-      - Marko
-    -
-    -
-      - rigard
-      - is
-    -
-    -
-      - la
-    -
-    -
-      - bel
-      - a
-      - j
-      - n
-    -
-    -
-      - okul
-      - o
-      - j
-      - n
-    -
-    -
-      - de
-    -
-    -
-      - Ana
-    - '.'
-    -
-    -
-      - Mi
-    -
-    -
-      - vid
-      - as
-    - ','
-    -
-    -
-      - ke
-    -
-    -
-      - li
-    -
-    -
-      - am
-      - as
-    -
-    -
-      - ŝi
-      - n
-    - '.'
-  
+  - - ven
+    - is
+  -
+  - - al
+  -
+  - - la
+  -
+  - - hejm
+    - o
+  -
+  - - de
+  -
+  - - Marko
+  - .
+- - –
+  -
+  - - Bon
+    - vol
+    - u
+  -
+  - - en
+    - ir
+    - i
+  - ','
+  -
+  - - amik
+    - in
+    - o
+  - .
+- - –
+  -
+  - - Salut
+    - o
+    - n
+  -
+  - - Marko
+  - .
+  -
+  - - Kio
+    - n
+  -
+  - - vi
+  -
+  - - far
+    - as
+  - '?'
+- - –
+  -
+  - - Salut
+    - o
+    - n
+  - .
+  -
+  - - Mi
+  -
+  - - leg
+    - is
+  - ','
+  -
+  - - sed
+  -
+  - - nun
+  -
+  - - mi
+  -
+  - - vol
+    - as
+  -
+  - - parol
+    - i
+  -
+  - - kun
+  -
+  - - vi
+  - .
+- - –
+  -
+  - - Ĉu
+  -
+  - - vi
+  -
+  - - hav
+    - as
+  -
+  - - bon
+    - a
+    - n
+  -
+  - - libr
+    - o
+    - n
+  - '?'
+- - –
+  -
+  - - Jes
+  - ','
+  -
+  - - mi
+  -
+  - - hav
+    - as
+  - .
+  -
+  - - Mi
+  -
+  - - ŝat
+    - as
+  -
+  - - leg
+    - i
+  -
+  - - nur
+  -
+  - - bon
+    - a
+    - j
+    - n
+  -
+  - - libr
+    - o
+    - j
+    - n
+  - .
+  -
+  - - Ĉu
+  -
+  - - vi
+  -
+  - - vol
+    - as
+  -
+  - - trink
+    - i
+  -
+  - - kaf
+    - o
+    - n
+  - '?'
+- - –
+  -
+  - - Jes
+  - .
+  -
+  - - Ĉu
+  -
+  - - vi
+    - a
+    - j
+  -
+  - - ge
+    - patr
+    - o
+    - j
+  -
+  - - kaj
+  -
+  - - ge
+    - frat
+    - o
+    - j
+  -
+  - - est
+    - as
+  -
+  - - en
+  -
+  - - vi
+    - a
+  -
+  - - hejm
+    - o
+  - '?'
+- - –
+  -
+  - - Ne
+  - .
+  -
+  - - Jen
+  -
+  - - la
+  -
+  - - kaf
+    - o
+  - ','
+  -
+  - - ĝi
+  -
+  - - est
+    - as
+  -
+  - - ankoraŭ
+  -
+  - - varm
+    - a
+  - .
+  -
+  - - Mi
+  -
+  - - nun
+  -
+  - - kuir
+    - is
+  -
+  - - ĝi
+    - n
+  - .
+- - –
+  -
+  - - Dank
+    - o
+    - n
+  - .
+  -
+  - - Mi
+  -
+  - - pov
+    - as
+  -
+  - - trink
+    - i
+  -
+  - - ankaŭ
+  -
+  - - mal
+    - varm
+    - a
+    - n
+  -
+  - - kaf
+    - o
+    - n
+  - .
+- -
+  - - Marko
+  -
+  - - rigard
+    - is
+  -
+  - - la
+  -
+  - - bel
+    - a
+    - j
+    - n
+  -
+  - - okul
+    - o
+    - j
+    - n
+  -
+  - - de
+  -
+  - - Ana
+  - .
+  -
+  - - Mi
+  -
+  - - vid
+    - as
+  - ','
+  -
+  - - ke
+  -
+  - - li
+  -
+  - - am
+    - as
+  -
+  - - ŝi
+    - n
+  - .

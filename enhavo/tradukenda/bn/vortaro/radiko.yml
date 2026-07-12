@@ -1,4 +1,5 @@
 afer: ব্যাপার
+ag: কাজ করা
 agrabl: মনোরম
 akcept: গ্রহণ করা
 akv: জল
@@ -6,6 +7,7 @@ ali: অন্য
 alt: উঁচু
 am: ভালোবাসা
 amik: বন্ধু
+aper: দেখা দেওয়া
 arb: গাছ
 aspekt:
 - দেখতে হওয়া
@@ -14,6 +16,7 @@ atend: অপেক্ষা করা
 atent: মনোযোগ দেওয়া
 aĉet: কেনা
 aŭd: শোনা
+aŭskult: শোনা
 aŭt: গাড়ি
 aŭtoritat: কর্তৃত্ব
 bedaŭr: অনুতাপ করা
@@ -41,6 +44,7 @@ dik:
 dimanĉ: রবিবার
 dir: বলা
 direkt: দিক
+divers: বিভিন্ন
 doktor: ডাক্তার
 dolar: ডলার
 dolor:
@@ -54,6 +58,7 @@ doĝ: দোজে
 edz: স্বামী
 efektiv: বাস্তবিক
 ekskurs: ভ্রমণ
+ekzempl: উদাহরণ
 esper: আশা করা
 est: হওয়া / থাকা
 facil: সহজ
@@ -78,6 +83,7 @@ fot: ছবি
 frat: ভাই
 fru: শীঘ্র
 fuŝ: গোলমাল করা
+glas: গ্লাস
 gondol: গন্ডোলা
 graf:
 - কাউন্ট
@@ -95,6 +101,8 @@ hor: ঘণ্টা
 hotel: হোটেল
 ide: ভাবনা
 industri: শিল্প
+infan: শিশু
+inform: জানানো
 instru: শেখানো
 interes: আগ্রহ জাগানো
 invit: আমন্ত্রণ করা
@@ -104,6 +112,7 @@ jar: বছর
 jun: তরুণ
 kaf: কফি
 kalv: টাক
+kant: গাওয়া
 kap: মাথা
 kapabl: সক্ষম
 kapt: ধরা
@@ -120,11 +129,13 @@ kolor: রং
 komenc: শুরু করা
 kompren: বোঝা
 kon: চেনা / জানা
+konsent: সম্মত হওয়া
 kontent: সন্তুষ্ট
 kontrol: পরীক্ষা করা
 kor: হৃদয়
 korp: দেহ
 kost: দাম হওয়া
+kred: বিশ্বাস করা
 kri: চিৎকার করা
 kuir: রান্না করা
 kuk: কেক
@@ -134,6 +145,7 @@ lakt: দুধ
 lamp: বাতি
 land: দেশ
 larĝ: চওড়া
+las: ছেড়ে দেওয়া
 last: শেষ
 laŭt: জোরে
 lecion: পাঠ
@@ -142,11 +154,16 @@ lern: শেখা
 leter: চিঠি
 liber: মুক্ত
 libr: বই
+lingv: ভাষা
 lok: স্থান
 long: লম্বা
+loĝ:
+- বাস করা
+- থাকা
 lud: খেলা
 lum: আলো
 man: হাত
+manier: রীতি
 mank: অভাব থাকা
 manĝ: খাওয়া
 mar: সমুদ্র
@@ -159,12 +176,15 @@ minut: মিনিট
 mir: আশ্চর্য হওয়া
 moment: মুহূর্ত
 mon: টাকা
+monat: মাস
+mond: বিশ্ব
 mont: পাহাড়
 montr: দেখানো
 mort: মরা
 mov: নড়া
 mult: অনেক
 muzik: সঙ্গীত
+naci: জাতি
 nask: জন্ম দেওয়া
 natur: প্রকৃতি
 neces: প্রয়োজনীয়
@@ -180,6 +200,7 @@ onkl: কাকা / মামা
 opini: মত ভাবা
 ord: শৃঙ্খলা
 orel: কান
+organiz: সংগঠিত করা
 pac: শান্তি
 pag: পেমেন্ট করা
 pan: রুটি
@@ -200,19 +221,32 @@ plac: চত্বর
 plan: পরিকল্পনা করা
 plaĉ: ভালো লাগা
 plen: পূর্ণ
+plor:
+- কাঁদা
+- অশ্রু ফেলা
+pluv: বৃষ্টি হওয়া
 polic: পুলিশ
 pord: দরজা
 port: বহন করা
 pov: পারা
+poŝ: পকেট
+poŝt: ডাক
 pren: নেওয়া
 pret: প্রস্তুত
 prezent: উপস্থাপন করা
 problem: সমস্যা
 proksim: নিকট
+proksimum: আনুমানিক
 promen: হাঁটতে যাওয়া
 propon: প্রস্তাব করা
 prov: চেষ্টা করা
+publik: সর্বজনীন
+punkt: বিন্দু
+pur:
+- পরিষ্কার
+- বিশুদ্ধ
 rajt: অনুমতি থাকা
+rakont: বলা / গল্প বলা
 rapid: দ্রুত
 raport: প্রতিবেদন
 real: বাস্তব
@@ -224,6 +258,8 @@ rest: থাকা
 ricev: গ্রহণ করা
 rid: হাসা
 rigard: দেখা
+rilat: সম্পর্কিত হওয়া
+rimark: লক্ষ করা
 riĉ: ধনী
 rol: ভূমিকা
 ruĝ: লাল
@@ -231,6 +267,9 @@ salt: লাফানো
 salut: নমস্কার
 sam: একই
 san: সুস্থ
+sat:
+- পেট ভরা
+- তৃপ্ত
 saĝ: জ্ঞানী
 sci: জানা
 sek: শুকনো
@@ -238,11 +277,14 @@ sekret: গোপন
 sekv: অনুসরণ করা
 semajn: সপ্তাহ
 send: পাঠানো
+sent: অনুভব করা
 serĉ: খোঁজা
+seĝ: চেয়ার
 si: নিজেকে
 sid: বসা
 silent: নীরব
 simil: সদৃশ
+simpl: সরল
 sinjor:
 - ভদ্রলোক
 - জনাব
@@ -256,6 +298,7 @@ star: দাঁড়ানো
 strat: রাস্তা
 subit: হঠাৎ
 sufiĉ: যথেষ্ট
+suk: রস
 sukces: সাফল্য
 sun: সূর্য
 supr: উপরে
@@ -267,13 +310,16 @@ temp: সময়
 temperatur: তাপমাত্রা
 ten: ধরা
 teror: সন্ত্রাস
+terur: ভয়ংকর
 tim: ভয় করা
 ton: সুর
 trankvil: শান্ত
 trink: পান করা
 trov: খুঁজে পাওয়া
 turk: তুর্কি
+tut: সমগ্র
 tuŝ: ছোঁয়া
+universal: সার্বজনীন
 urb: শহর
 util: উপকারী
 uz: ব্যবহার করা

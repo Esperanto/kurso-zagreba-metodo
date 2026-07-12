@@ -1,36 +1,32 @@
--
-  demando: Kiedy cię znów zobaczę?
-  rektatraduko: 
+- demando: Kiedy cię znów zobaczę?
+  rektatraduko:
     - Kiam: Kiedy
-    - mi: ja  
+    - mi: ja
     - revidos: zobaczę
     - vin: cię
     - '?'
--
-  demando: Jak długo uczysz się międzynarodowego języka?
-  rektatraduko: 
-    - Kiel: Jak
+- demando: Jak długo uczysz się międzynarodowego języka?
+  rektatraduko:
+    - Kiom: ile
     - longe: długo
     - vi: ty
     - lernas: uczysz się
-    - la: (przedimek określony) 
+    - la: (przedimek określony)
     - Internacian: międzynarodowy
     - Lingvon: język
     - '?'
--
-  demando: Gdzie jest moja nowa książka z fotografiami?
-  rektatraduko: 
+- demando: Gdzie jest moja nowa książka z fotografiami?
+  rektatraduko:
     - Kie: Gdzie
     - estas: jest
-    - mia: moja 
+    - mia: moja
     - nova: nowa
     - libro: książka
     - kun: z
     - fotoj: zdjęcia
     - '?'
--
-  demando: Dokąd pójdziesz po obiedzie?
-  rektatraduko: 
+- demando: Dokąd pójdziesz po obiedzie?
+  rektatraduko:
     - Kien: Dokąd
     - vi: ty
     - iros: pójdziesz
@@ -38,12 +34,11 @@
     - la: (przedimek określony)
     - tagmanĝo: obiad
     - '?'
--
-  demando: Czy można zamknąć drzwi pokoju, jeśli będzie zimno?
-  rektatraduko: 
+- demando: Czy można zamknąć drzwi pokoju, jeśli będzie zimno?
+  rektatraduko:
     - Ĉu: Czy
     - oni: się
-    - povas: można 
+    - povas: można
     - fermi: zamknąć
     - la: (przedimek określony)
     - pordon: drzwi
@@ -55,10 +50,9 @@
     - estas: jest
     - malvarme: zimno
     - '?'
--
-  demando: Jak długo się złościsz, jeśli ktoś zabierze ci dużo pieniędzy?
-  rektatraduko: 
-    - Kiel: Jak
+- demando: Jak długo się złościsz, jeśli ktoś zabierze ci dużo pieniędzy?
+  rektatraduko:
+    - Kiom: ile
     - longe: długo
     - vi: ty
     - koleras: się złościsz

@@ -1,26 +1,23 @@
-- 
-  demando: Vem är din tjejkompis?
+- demando: Vem är din tjejkompis?
   rektatraduko:
     - Kiu: Vem
     - estas: är
     - via: din
     - amikino: tjejkompis
     - '?'
-- 
-  demando: Skriver din tjejkompis Anna nu i rummet?
+- demando: Skriver din tjejkompis Ana nu i rummet?
   rektatraduko:
     - Ĉu: (frågepartikeln)
     - via: din
     - amikino: tjejkompis
-    - Anna: Anna
+    - Ana: Ana
     - skribas: skriver
     - nun: nu
     - en: i
-    - la: (bestämd artikel) 
+    - la: (bestämd artikel)
     - ĉambro: rum
     - '?'
-- 
-  demando: Arbetar din fars vän på hotellet?
+- demando: Arbetar din fars vän på hotellet?
   rektatraduko:
     - Ĉu: (frågepartikeln)
     - la: (bestämd artikel)
@@ -32,10 +29,9 @@
     - en: i
     - hotelo: hotell
     - '?'
-- 
-  demando: Vad finns på arbetsbordet i vårt rum?
+- demando: Vad finns på arbetsbordet i vårt rum?
   rektatraduko:
-    - Kio: Vad 
+    - Kio: Vad
     - estas: är
     - sur: på
     - la: (bestämd artikel)
@@ -44,8 +40,7 @@
     - nia: vårt
     - ĉambro: rum
     - '?'
-- 
-  demando: Ligger det en esperantolärobok på ditt bord?
+- demando: Ligger det en esperantolärobok på ditt bord?
   rektatraduko:
     - Ĉu: (frågepartikeln)
     - Esperanto-lernolibro: esperantolärobok
@@ -54,4 +49,3 @@
     - via: ditt
     - tablo: bord
     - '?'
-

@@ -1,15 +1,13 @@
--
-  demando: Nitakuona tena lini?
+- demando: Nitakuona tena lini?
   rektatraduko:
     - Kiam: Lini
     - mi: mimi
     - revidos: nitaona tena
     - vin: wewe
     - '?'
--
-  demando: Umejifunza lugha ya kimataifa kwa muda gani?
+- demando: Umejifunza lugha ya kimataifa kwa muda gani?
   rektatraduko:
-    - Kiel: Jinsi gani
+    - Kiom: kiasi gani
     - longe: kwa muda mrefu
     - vi: wewe
     - lernas: unajifunza
@@ -17,8 +15,7 @@
     - Internacian: ya kimataifa
     - Lingvon: lugha
     - '?'
--
-  demando: Kitabu changu kipya chenye picha kiko wapi?
+- demando: Kitabu changu kipya chenye picha kiko wapi?
   rektatraduko:
     - Kie: Wapi
     - estas: kiko
@@ -28,8 +25,7 @@
     - kun: pamoja na
     - fotoj: picha
     - '?'
--
-  demando: Utaenda wapi baada ya chakula cha mchana?
+- demando: Utaenda wapi baada ya chakula cha mchana?
   rektatraduko:
     - Kien: Kuelekea wapi
     - vi: wewe
@@ -38,8 +34,7 @@
     - la: kiarifu
     - tagmanĝo: chakula cha mchana
     - '?'
--
-  demando: Je, mtu anaweza kufunga mlango wa chumba wakati kuna baridi?
+- demando: Je, mtu anaweza kufunga mlango wa chumba wakati kuna baridi?
   rektatraduko:
     - Ĉu: je
     - oni: mtu kwa jumla
@@ -55,10 +50,9 @@
     - estas: kuna
     - malvarme: baridi
     - '?'
--
-  demando: Unakasirika kwa muda gani ikiwa watu wanakuchukulia pesa nyingi?
+- demando: Unakasirika kwa muda gani ikiwa watu wanakuchukulia pesa nyingi?
   rektatraduko:
-    - Kiel: Jinsi gani
+    - Kiom: kiasi gani
     - longe: kwa muda gani
     - vi: wewe
     - koleras: unakasirika

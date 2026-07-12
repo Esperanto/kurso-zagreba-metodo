@@ -1,25 +1,22 @@
--
-  demando: Quand vous reverrai-je ?
-  rektatraduko: 
+- demando: Quand vous reverrai-je ?
+  rektatraduko:
     - Kiam: Quand
-    - mi: je  
+    - mi: je
     - revidos: reverrai
     - vin: vous
     - '?'
--
-  demando: Depuis combien de temps apprenez-vous la langue internationale ?
-  rektatraduko: 
-    - Kiel: Combien
+- demando: Depuis combien de temps apprenez-vous la langue internationale ?
+  rektatraduko:
+    - Kiom: combien
     - longe: longtemps
     - vi: vous
     - lernas: apprenez
-    - la: la 
+    - la: la
     - Internacian: internationale
     - Lingvon: langue
     - '?'
--
-  demando: Où est mon nouveau livre de photos ?
-  rektatraduko: 
+- demando: Où est mon nouveau livre de photos ?
+  rektatraduko:
     - Kie: Où
     - estas: est
     - mia: mon
@@ -28,9 +25,8 @@
     - kun: avec
     - fotoj: des photos
     - '?'
--
-  demando: Où irez-vous après le déjeuner ?
-  rektatraduko: 
+- demando: Où irez-vous après le déjeuner ?
+  rektatraduko:
     - Kien: Où
     - vi: vous
     - iros: irez
@@ -38,16 +34,15 @@
     - la: le
     - tagmanĝo: déjeuner
     - '?'
--
-  demando: "Est-ce qu'on peut fermer la porte de la chambre quand il fait froid ?"
-  rektatraduko: 
+- demando: Est-ce qu'on peut fermer la porte de la chambre quand il fait froid ?
+  rektatraduko:
     - Ĉu: Est-ce que
-    - oni: "on"
+    - oni: 'on'
     - povas: peut
     - fermi: fermer
     - la: la
     - pordon: porte
-    - de: de 
+    - de: de
     - la: la
     - ĉambro: chambre
     - ','
@@ -55,19 +50,18 @@
     - estas: il fait
     - malvarme: froid
     - '?'
--
-  demando: "Combien de temps êtes-vous en colère si on vous prend beaucoup d'argent ?"
-  rektatraduko: 
-    - Kiel: Combien
+- demando: Combien de temps êtes-vous en colère si on vous prend beaucoup d'argent ?
+  rektatraduko:
+    - Kiom: combien
     - longe: de temps
     - vi: vous
     - koleras: êtes en colère
     - ','
     - se: si
-    - oni: "on"
+    - oni: 'on'
     - forprenas: retire
     - de: de
     - vi: vous
-    - multan: beaucoup 
+    - multan: beaucoup
     - monon: argent
     - '?'

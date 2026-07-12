@@ -1,14 +1,12 @@
--
-  demando: "كيف كان بيت القديم؟" 
-  rektatraduko: 
+- demando: كيف كان بيت القديم؟
+  rektatraduko:
     - Kia: كيف
     - estis: كان
-    - via: "ك - ضمير ملكية"
+    - via: ك - ضمير ملكية
     - malnova: قديم
     - hejmo: بيت
     - '?'
--
-  demando: "أي كتب قرأت؟ وهل هم جيدون؟"
+- demando: أي كتب قرأت؟ وهل هم جيدون؟
   rektatraduko:
     - Kiujn: أي
     - librojn: كتب
@@ -20,12 +18,11 @@
     - estas: يكونون
     - bonaj: جيدين
     - '?'
--
-  demando: "ماذا فعلت آنا وماركو في غرفة ماركو الصغيرة؟"
+- demando: ماذا فعلت آنا وماركو في غرفة ماركو الصغيرة؟
   rektatraduko:
     - Kion: ماذا
     - faris: فعلت
-    - Anna: آنا
+    - Ana: آنا
     - kaj: و
     - Marko: ماركو
     - en: في
@@ -35,8 +32,7 @@
     - de: حرف إضافة
     - Marko: ماركو
     - '?'
--
-  demando: "هل تحب أن تقرأ كتباً عن الحب؟"
+- demando: هل تحب أن تقرأ كتباً عن الحب؟
   rektatraduko:
     - Ĉu: هل
     - vi: أنت
@@ -46,25 +42,23 @@
     - pri: عن
     - amo: حب
     - '?'
--
-  demando: "من سيذهب معك إلى منزلك؟"
+- demando: من سيذهب معك إلى منزلك؟
   rektatraduko:
     - Kiu: من
     - iros: سيذهب
     - kun: مع
-    - vi: "ك - ضمير نصب"
+    - vi: ك - ضمير نصب
     - al: إلى
-    - via: "ك - اداة ملكية"
+    - via: ك - اداة ملكية
     - hejmo: منزل
     - '?'
--
-  demando: "كيف هي عيون حبيبتك؟"
+- demando: كيف هي عيون حبيبتك؟
   rektatraduko:
     - Kiaj: كيف
     - estas: تكون
     - la: ال التعريف
     - okuloj: عيون
     - de: حرف إضافة
-    - via: "ك - اداة ملكية"
+    - via: ك - اداة ملكية
     - amikino: حبيبة
     - '?'

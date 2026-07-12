@@ -1,6 +1,5 @@
--
-  demando: Förstår kyparna i de stora hotellen många språk? 
-  rektatraduko:  
+- demando: Förstår kyparna i de stora hotellen många språk?
+  rektatraduko:
     - Ĉu: (frågepartikeln)
     - kelneroj: kypare
     - en: i
@@ -10,15 +9,14 @@
     - multajn: många
     - lingvojn: språk
     - '?'
--
-  demando: Vet du om Anna gillar den nya sången om den fattige och den vackra flickan?
-  rektatraduko: 
+- demando: Vet du om Ana gillar den nya sången om den fattige och den vackra flickan?
+  rektatraduko:
     - Ĉu: (frågepartikeln)
     - vi: du
     - scias: vet
     - ','
     - ĉu: om
-    - Anna: Anna 
+    - Ana: Ana
     - ŝatas: gillar
     - la: den
     - novan: ny
@@ -28,9 +26,8 @@
     - kaj: och
     - belulino: vacker kvinna
     - '?'
--
-  demando: Var såg ni den gamle och den unge mannen som bar på ett stort bord?
-  rektatraduko: 
+- demando: Var såg ni den gamle och den unge mannen som bar på ett stort bord?
+  rektatraduko:
     - Kie: Var
     - vi: du
     - vidis: såg
@@ -45,9 +42,8 @@
     - grandan: stort
     - tablon: bord
     - '?'
--
-  demando: Hur kom det sig att ni kom till oss utan era syskon igen?
-  rektatraduko: 
+- demando: Hur kom det sig att ni kom till oss utan era syskon igen?
+  rektatraduko:
     - Kiel: Hur
     - okazis: hände
     - ','
@@ -55,19 +51,18 @@
     - vi: ni
     - denove: igen
     - venis: kom
-    - al: till 
+    - al: till
     - ni: vi
     - sen: utan
     - gefratoj: syskon
     - '?'
--
-  demando: Kan du, med den nya läroboken, lära dig esperanto tillräckligt fort?
-  rektatraduko: 
+- demando: Kan du, med den nya läroboken, lära dig esperanto tillräckligt fort?
+  rektatraduko:
     - Ĉu: (frågepartikeln)
     - vi: du
     - povas: kan
     - per: med
-    - la: (bestämd artikel) 
+    - la: (bestämd artikel)
     - nova: nya
     - lernolibro: läroboken
     - sufiĉe: tillräckligt

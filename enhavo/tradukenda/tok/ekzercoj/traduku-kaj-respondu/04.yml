@@ -1,25 +1,22 @@
--
-  demando: When am I going to see you again?
-  rektatraduko: 
+- demando: When am I going to see you again?
+  rektatraduko:
     - Kiam: When
-    - mi: I  
+    - mi: I
     - revidos: am going to see again
     - vin: you
     - '?'
--
-  demando: How long have you been learning the international language?
-  rektatraduko: 
-    - Kiel: How
+- demando: How long have you been learning the international language?
+  rektatraduko:
+    - Kiom: mute seme
     - longe: long
     - vi: you
     - lernas: learn
-    - la: the 
+    - la: the
     - Internacian: international
     - Lingvon: language
     - '?'
--
-  demando: Where is my new book with photographs?
-  rektatraduko: 
+- demando: Where is my new book with photographs?
+  rektatraduko:
     - Kie: Where
     - estas: is
     - mia: my
@@ -28,9 +25,8 @@
     - kun: with
     - fotoj: photographs
     - '?'
--
-  demando: Where (where-to) will you go after lunch?
-  rektatraduko: 
+- demando: Where (where-to) will you go after lunch?
+  rektatraduko:
     - Kien: Where-to
     - vi: you
     - iros: will go
@@ -38,16 +34,15 @@
     - la: the
     - tagmanĝo: lunch
     - '?'
--
-  demando: Can one close the door of the room when it is cold?
-  rektatraduko: 
+- demando: Can one close the door of the room when it is cold?
+  rektatraduko:
     - Ĉu: Whether
     - oni: one
-    - povas: can 
+    - povas: can
     - fermi: close
     - la: the
     - pordon: door
-    - de: of 
+    - de: of
     - la: the
     - ĉambro: room
     - ','
@@ -55,10 +50,9 @@
     - estas: is
     - malvarme: cold
     - '?'
--
-  demando: How long are you angry for if people take a lot of money from you?
-  rektatraduko: 
-    - Kiel: How
+- demando: How long are you angry for if people take a lot of money from you?
+  rektatraduko:
+    - Kiom: mute seme
     - longe: long
     - vi: you
     - koleras: are angry

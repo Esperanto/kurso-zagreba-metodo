@@ -39,16 +39,16 @@
 - demando: ¿Por qué cuanto más frío hace, más tiempo esperamos?
   rektatraduko:
     - Kial: Por qué
-    - estas: está
-    - des: tanto
-    - pli: más
-    - malvarma: frío
-    - ','
     - ju: cuanto
     - pli: más
     - longe: largo
     - ni: nosotros
     - atendas: esperamos
+    - ','
+    - des: tanto
+    - pli: más
+    - malvarme: frío
+    - estas: está
     - '?'
 - demando: ¿Podrías ser feliz con un hombre cualquiera?
   rektatraduko:

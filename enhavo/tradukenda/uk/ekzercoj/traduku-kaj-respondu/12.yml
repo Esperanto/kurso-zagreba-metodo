@@ -39,16 +39,16 @@
 - demando: Чому є тим більш холодніше, чим більш довго ми чекаємо ?
   rektatraduko:
     - Kial: Чому
-    - estas: є
-    - des: тим
-    - pli: більш
-    - malvarma: холодніше
-    - ','
     - ju: чим
     - pli: більш
     - longe: довго
     - ni: ми
     - atendas: чекаємо
+    - ','
+    - des: тим
+    - pli: більш
+    - malvarme: холодніше
+    - estas: є
     - '?'
 - demando: Чи ти була б задоволена з яким завгодно чоловіком ?
   rektatraduko:

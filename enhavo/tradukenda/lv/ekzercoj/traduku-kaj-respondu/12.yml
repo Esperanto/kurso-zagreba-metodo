@@ -1,63 +1,63 @@
 - demando: Vai mēs atkal redzēsimies, vienalga kur un kad?
   rektatraduko:
-  - Ĉu: Vai
-  - ni: mēs
-  - revidos: redzēsim atkal
-  - nin: sevi
-  - ','
-  - kie: kur
-  - ajn: vienalga
-  - kaj: un
-  - kiam: kad
-  - ajn: vienalga
-  - '?'
+    - Ĉu: Vai
+    - ni: mēs
+    - revidos: redzēsim atkal
+    - nin: sevi
+    - ','
+    - kie: kur
+    - ajn: vienalga
+    - kaj: un
+    - kiam: kad
+    - ajn: vienalga
+    - '?'
 - demando: Kad es atgūšu otru pusi grāmatu?
   rektatraduko:
-  - Kiam: Kad
-  - mi: es
-  - rericevos: saņemšu atpakaļ
-  - la: to
-  - alian: otru
-  - duonon: pusi
-  - de: "no"
-  - la: tām
-  - libroj: grāmatas
-  - '?'
+    - Kiam: Kad
+    - mi: es
+    - rericevos: saņemšu atpakaļ
+    - la: to
+    - alian: otru
+    - duonon: pusi
+    - de: 'no'
+    - la: tām
+    - libroj: grāmatas
+    - '?'
 - demando: Vai tev tiem darbiem vajadzēs vairāk nekā ceturtdaļu gada?
   rektatraduko:
-  - Ĉu: Vai
-  - vi: tev
-  - bezonos: vajadzēs
-  - pli: vairāk
-  - ol: nekā
-  - kvaronan: ceturtdaļas
-  - jaron: gadu
-  - por: priekš
-  - tiuj: tiem
-  - laboroj: darbiem
-  - '?'
+    - Ĉu: Vai
+    - vi: tev
+    - bezonos: vajadzēs
+    - pli: vairāk
+    - ol: nekā
+    - kvaronan: ceturtdaļas
+    - jaron: gadu
+    - por: priekš
+    - tiuj: tiem
+    - laboroj: darbiem
+    - '?'
 - demando: Kāpēc ir tā, ka jo aukstāks, jo ilgāk mēs gaidām?
   rektatraduko:
-  - Kial: Kāpēc
-  - estas: ir
-  - des: jo
-  - pli: vairāk
-  - malvarma: auksts
-  - ','
-  - ju: jo
-  - pli: vairāk
-  - longe: ilgi
-  - ni: mēs
-  - atendas: gaidām
-  - '?'
+    - Kial: Kāpēc
+    - ju: jo
+    - pli: vairāk
+    - longe: ilgi
+    - ni: mēs
+    - atendas: gaidām
+    - ','
+    - des: jo
+    - pli: vairāk
+    - malvarme: auksts
+    - estas: ir
+    - '?'
 - demando: Vai tu būtu apmierināta ar jebkuru vīrieti?
   rektatraduko:
-  - Ĉu: Vai
-  - vi: tu
-  - estus: būtu
-  - kontenta: apmierināta
-  - kun: ar
-  - iu: kāds
-  - ajn: jebkurš
-  - viro: vīrietis
-  - '?'
+    - Ĉu: Vai
+    - vi: tu
+    - estus: būtu
+    - kontenta: apmierināta
+    - kun: ar
+    - iu: kāds
+    - ajn: jebkurš
+    - viro: vīrietis
+    - '?'

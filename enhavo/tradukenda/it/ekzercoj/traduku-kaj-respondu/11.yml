@@ -1,6 +1,5 @@
-- 
-  demando: Puoi portare con te la medicina di mia sorella?
-  rektatraduko: 
+- demando: Puoi portare con te la medicina di mia sorella?
+  rektatraduko:
     - Ĉu: (interrogativa)
     - vi: tu
     - povas: puoi
@@ -11,27 +10,24 @@
     - mia: mia
     - fratino: sorella
     - '?'
-- 
-  demando: Quando hai comprato quello strumento musicale?
-  rektatraduko: 
+- demando: Quando hai comprato quello strumento musicale?
+  rektatraduko:
     - Kiam: Quando
     - vi: tu
     - aĉetis: hai comprato
     - tiun: quello
     - muzikilon: strumento musicale
     - '?'
-- 
-  demando: "Chi ha usato l'ultima volta la mia chiave?"
-  rektatraduko: 
+- demando: Chi ha usato l'ultima volta la mia chiave?
+  rektatraduko:
     - Kiu: Chi
-    - laste: "l'ultima volta"
+    - laste: l'ultima volta
     - uzis: ha usato
     - mian: mia
     - ŝlosilon: chiave
     - '?'
-- 
-  demando: Hai viaggiato a Venezia anche con la gondola?
-  rektatraduko: 
+- demando: Hai viaggiato a Venezia anche con la gondola?
+  rektatraduko:
     - Ĉu: (interrogativa)
     - vi: tu
     - en: in
@@ -41,14 +37,13 @@
     - per: tramite
     - gondolo: gondola
     - '?'
-- 
-  demando: Potrai addormentarti quando si sarà fatto silenzioso?
-  rektatraduko: 
+- demando: Potrai addormentarti quando si sarà fatto silenzioso?
+  rektatraduko:
     - Ĉu: (interrogativa)
     - vi: tu
     - povos: potrai
     - ekdormi: addormentarsi
-    - ',' 
+    - ','
     - kiam: quando
-    - silentiĝis: si è fatto silenzioso
+    - silentiĝos: si è fatto silenzioso
     - '?'

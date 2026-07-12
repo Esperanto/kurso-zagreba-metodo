@@ -1,7 +1,6 @@
--
-  demando: Mấy người phục vụ ở trong các khách sạn lớn có hiểu được nhiều ngôn ngữ không vậy?
-  rektatraduko:  
-    - Ĉu: Có không vậy 
+- demando: Mấy người phục vụ ở trong các khách sạn lớn có hiểu được nhiều ngôn ngữ không vậy?
+  rektatraduko:
+    - Ĉu: Có không vậy
     - kelneroj: mấy người phục vụ
     - en: ở trong
     - grandaj: lớn
@@ -10,15 +9,14 @@
     - multajn: nhiều
     - lingvojn: ngôn ngữ
     - '?'
--
-  demando: Cậu có biết, liệu Anna có thích cái bài hát mới về một người nghèo và một cô gái xinh đẹp không?
-  rektatraduko: 
+- demando: Cậu có biết, liệu Ana có thích cái bài hát mới về một người nghèo và một cô gái xinh đẹp không?
+  rektatraduko:
     - Ĉu: Có không
     - vi: cậu
     - scias: biết
     - ','
     - ĉu: liệu
-    - Anna: Anna 
+    - Ana: Ana
     - ŝatas: có thích
     - la: (mạo từ xác định)
     - novan: mới
@@ -28,9 +26,8 @@
     - kaj: và
     - belulino: một cô bé xinh đẹp
     - '?'
--
-  demando: Cậu đã nhìn thấy ông già và anh thanh niên ở đâu vậy, mấy người mà đã mang đi cái bàn bự ấy?
-  rektatraduko: 
+- demando: Cậu đã nhìn thấy ông già và anh thanh niên ở đâu vậy, mấy người mà đã mang đi cái bàn bự ấy?
+  rektatraduko:
     - Kie: Ở đâu
     - vi: bạn
     - vidis: đã nhìn thấy
@@ -45,9 +42,8 @@
     - grandan: bự
     - tablon: cái bàn
     - '?'
--
-  demando: Làm thế nào mà đã xảy ra việc cậu lại đến nhà chúng tôi mà không cùng với các anh chị em?
-  rektatraduko: 
+- demando: Làm thế nào mà đã xảy ra việc cậu lại đến nhà chúng tôi mà không cùng với các anh chị em?
+  rektatraduko:
     - Kiel: Làm thế nào
     - okazis: đã xảy ra
     - ','
@@ -60,9 +56,8 @@
     - sen: không cùng với
     - gefratoj: các anh chị em
     - '?'
--
-  demando: Cậu có thể học khá nhanh tiếng Esperanto bằng cuốn sách giáo khoa mới không?
-  rektatraduko: 
+- demando: Cậu có thể học khá nhanh tiếng Esperanto bằng cuốn sách giáo khoa mới không?
+  rektatraduko:
     - Ĉu: Có được không
     - vi: cậu
     - povas: có thể

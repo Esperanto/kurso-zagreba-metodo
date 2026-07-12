@@ -1,7 +1,6 @@
--
-  demando: A pincérek a nagy szállodákban sok nyelvet értenek?
-  rektatraduko:  
-    - Ĉu: Vajon 
+- demando: A pincérek a nagy szállodákban sok nyelvet értenek?
+  rektatraduko:
+    - Ĉu: Vajon
     - kelneroj: pincérek
     - en: -ban/ben
     - grandaj: nagyok
@@ -10,15 +9,14 @@
     - multajn: sokat
     - lingvojn: nyelveket
     - '?'
--
-  demando: Te tudod vajon Anna szereti-e az új dalt a szegény emberről és a szépségről?
-  rektatraduko:  
+- demando: Te tudod vajon Ana szereti-e az új dalt a szegény emberről és a szépségről?
+  rektatraduko:
     - Ĉu: Vajon
     - vi: te
     - scias: tud
     - ','
     - ĉu: Vajon
-    - Anna: Anna 
+    - Ana: Ana
     - ŝatas: szeret
     - la: a
     - novan: újat
@@ -28,9 +26,8 @@
     - kaj: és
     - belulino: szépség
     - '?'
--
-  demando: Hol láttad az öregembert és a fiatalembert, akik egy nagy asztalt vittek?
-  rektatraduko:  
+- demando: Hol láttad az öregembert és a fiatalembert, akik egy nagy asztalt vittek?
+  rektatraduko:
     - Kie: Hol
     - vi: te
     - vidis: látta
@@ -45,9 +42,8 @@
     - grandan: nagyot
     - tablon: asztalt
     - '?'
--
-  demando: Hogy történt, hogy megint testvérek nélkül jöttél hozzánk?
-  rektatraduko:  
+- demando: Hogy történt, hogy megint testvérek nélkül jöttél hozzánk?
+  rektatraduko:
     - Kiel: Hogyan
     - okazis: történt
     - ','
@@ -60,14 +56,13 @@
     - sen: nélkül
     - gefratoj: testvérek
     - '?'
--
-  demando: Vajon elég gyorsan tudod tanulni az eszperantót az új tankönyvvvel?
-  rektatraduko: 
+- demando: Vajon elég gyorsan tudod tanulni az eszperantót az új tankönyvvvel?
+  rektatraduko:
     - Ĉu: Vajon
     - vi: te
     - povas: tud
     - per: -val/vel
-    - la: a 
+    - la: a
     - nova: új
     - lernolibro: tankönyv
     - sufiĉe: elég

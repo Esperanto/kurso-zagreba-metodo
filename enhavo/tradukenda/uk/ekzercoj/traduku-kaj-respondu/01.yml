@@ -1,27 +1,24 @@
-- 
-  demando: "Хто є твоя подруга ?"
+- demando: Хто є твоя подруга ?
   rektatraduko:
     - Kiu: Хто
     - estas: є
     - via: твоя
     - amikino: подруга
     - '?'
-- 
-  demando: "Чи твоя подруга Анна пише зараз в кімнаті ?"
+- demando: Чи твоя подруга Анна пише зараз в кімнаті ?
   rektatraduko:
     - Ĉu: Чи
     - via: твоя
     - amikino: подруга
-    - Anna: Анна
+    - Ana: Анна
     - skribas: пише
     - nun: зараз
     - en: в
     - la: означений артикль
     - ĉambro: кімнаті
     - '?'
-- 
-  demando: "Чи друг твого батька працює в готелі? "
-  rektatraduko: 
+- demando: 'Чи друг твого батька працює в готелі? '
+  rektatraduko:
     - Ĉu: Чи
     - la: означений артикль
     - amiko: друг
@@ -29,13 +26,12 @@
     - via: твого
     - patro: батька
     - laboras: працює
-    - en: в 
+    - en: в
     - hotelo: готелі
     - '?'
-- 
-  demando: "Що є на робочому столі в нашій кімнаті ?"
+- demando: Що є на робочому столі в нашій кімнаті ?
   rektatraduko:
-    - Kio: Що 
+    - Kio: Що
     - estas: є
     - sur: на
     - la: означений артикль
@@ -44,14 +40,12 @@
     - nia: нашій
     - ĉambro: кімнаті
     - '?'
-- 
-  demando: "Чи есперанто-підручник є на твоєму столі ?"
+- demando: Чи есперанто-підручник є на твоєму столі ?
   rektatraduko:
     - Ĉu: Чи
-    - Esperanto-lernolibro: "есперанто-підручник" 
+    - Esperanto-lernolibro: есперанто-підручник
     - estas: є
     - sur: на
     - via: твоєму
     - tablo: столі
     - '?'
-

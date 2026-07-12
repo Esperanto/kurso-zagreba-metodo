@@ -1,5 +1,4 @@
--
-  demando: Je, tutaonana tena, popote na wakati wowote?
+- demando: Je, tutaonana tena, popote na wakati wowote?
   rektatraduko:
     - Ĉu: je
     - ni: sisi
@@ -12,8 +11,7 @@
     - kiam: lini
     - ajn: wakati wowote
     - '?'
--
-  demando: Nitarudishiwa lini nusu nyingine ya vitabu?
+- demando: Nitarudishiwa lini nusu nyingine ya vitabu?
   rektatraduko:
     - Kiam: Lini
     - mi: mimi
@@ -25,8 +23,7 @@
     - la: kiarifu
     - libroj: vitabu
     - '?'
--
-  demando: Je, utahitaji zaidi ya robo mwaka kwa kazi hizo?
+- demando: Je, utahitaji zaidi ya robo mwaka kwa kazi hizo?
   rektatraduko:
     - Ĉu: je
     - vi: wewe
@@ -39,23 +36,21 @@
     - tiuj: hizo
     - laboroj: kazi
     - '?'
--
-  demando: Kwa nini kadiri kunavyokuwa baridi zaidi, ndivyo tunavyongoja kwa muda mrefu zaidi?
+- demando: Kwa nini kadiri kunavyokuwa baridi zaidi, ndivyo tunavyongoja kwa muda mrefu zaidi?
   rektatraduko:
     - Kial: Kwa nini
-    - estas: ni
-    - des: ndivyo
-    - pli: zaidi
-    - malvarma: baridi
-    - ','
     - ju: kadiri
     - pli: zaidi
     - longe: muda mrefu
     - ni: sisi
     - atendas: tunangoja
+    - ','
+    - des: ndivyo
+    - pli: zaidi
+    - malvarme: baridi
+    - estas: ni
     - '?'
--
-  demando: Je, ungefurahi kuwa na mwanamume yeyote?
+- demando: Je, ungefurahi kuwa na mwanamume yeyote?
   rektatraduko:
     - Ĉu: je
     - vi: wewe

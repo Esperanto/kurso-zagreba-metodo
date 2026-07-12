@@ -1,6 +1,5 @@
-- 
-  demando: あなたは私の姉妹の薬を持ってくることができますか？
-  rektatraduko: 
+- demando: あなたは私の姉妹の薬を持ってくることができますか？
+  rektatraduko:
     - Ĉu: ～か？
     - vi: あなたは
     - povas: できる
@@ -11,27 +10,24 @@
     - mia: 私の
     - fratino: 姉妹
     - '?'
-- 
-  demando: あなたはいつその楽器を買ったのですか？
-  rektatraduko: 
+- demando: あなたはいつその楽器を買ったのですか？
+  rektatraduko:
     - Kiam: いつ
     - vi: あなたは
     - aĉetis: 買った
     - tiun: その
     - muzikilon: 楽器を
     - '?'
-- 
-  demando: 誰が私の鍵を最後に使ったのだ？
-  rektatraduko: 
+- demando: 誰が私の鍵を最後に使ったのだ？
+  rektatraduko:
     - Kiu: 誰が
     - laste: 最後に
     - uzis: 使った
     - mian: 私の
     - ŝlosilon: 鍵を
     - '?'
-- 
-  demando: あなたはヴェネツィアではゴンドラでも旅をしましたか？
-  rektatraduko: 
+- demando: あなたはヴェネツィアではゴンドラでも旅をしましたか？
+  rektatraduko:
     - Ĉu: ～か？
     - vi: あなたは
     - en: ～の中で
@@ -41,14 +37,13 @@
     - per: によって
     - gondolo: ゴンドラ
     - '?'
-- 
-  demando: あなたは静かになったときは眠りにつくことができますか？
-  rektatraduko: 
+- demando: あなたは静かになったときは眠りにつくことができますか？
+  rektatraduko:
     - Ĉu: ～か？
     - vi: あなたは
     - povos: できる
     - ekdormi: 眠り始める
-    - ',' 
-    - kiam: ～の時 
-    - silentiĝis: 静かになった（黙った）
+    - ','
+    - kiam: ～の時
+    - silentiĝos: 静かになった（黙った）
     - '?'

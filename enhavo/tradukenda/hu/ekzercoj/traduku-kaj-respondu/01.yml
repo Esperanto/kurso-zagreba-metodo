@@ -1,26 +1,23 @@
-- 
-  demando: Ki a (te) barátnőd?
+- demando: Ki a (te) barátnőd?
   rektatraduko:
     - Kiu: Ki
     - estas: van (a magyar mondatban nem szerepel)
     - via: tiéd
     - amikino: barátnő
     - '?'
-- 
-  demando: Anna barátnőd most a szobában ír?
+- demando: Ana barátnőd most a szobában ír?
   rektatraduko:
     - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
     - via: tiéd
     - amikino: barátnő
-    - Anna: Anna
+    - Ana: Ana
     - skribas: ír
     - nun: most
     - en: -ban/ben
     - la: a
     - ĉambro: szoba
     - '?'
-- 
-  demando: Apád barátja egy szállodában dolgozik?
+- demando: Apád barátja egy szállodában dolgozik?
   rektatraduko:
     - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
     - la: a
@@ -32,26 +29,23 @@
     - en: -ban/ben
     - hotelo: szálloda
     - '?'
-- 
-  demando: Mi van a munkaasztalon a szobánkban?
+- demando: Mi van a munkaasztalon a szobánkban?
   rektatraduko:
-    - Kio: mi 
+    - Kio: mi
     - estas: van
     - sur: -on/en/ön
-    - la: a 
+    - la: a
     - labortablo: munkaasztal
     - en: -ban/ben
     - nia: miénk
     - ĉambro: szoba
     - '?'
-- 
-  demando: Eszperantó tankönyv van az asztalodon?
+- demando: Eszperantó tankönyv van az asztalodon?
   rektatraduko:
     - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
     - Esperanto-lernolibro: Eszperantó tankönyv
     - estas: van
     - sur: -on/en/ön
-    - via: tiéd 
+    - via: tiéd
     - tablo: asztal
     - '?'
-

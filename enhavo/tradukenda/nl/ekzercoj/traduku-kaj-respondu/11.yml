@@ -1,5 +1,4 @@
--
-  demando: Kan je het geneesmiddel van mijn zus meedragen?
+- demando: Kan je het geneesmiddel van mijn zus meedragen?
   rektatraduko:
     - Ĉu: Of
     - vi: je
@@ -11,8 +10,7 @@
     - mia: mijn
     - fratino: zus
     - '?'
--
-  demando: Wanneer heb je dat muziekinstrument gekocht?
+- demando: Wanneer heb je dat muziekinstrument gekocht?
   rektatraduko:
     - Kiam: Wanneer
     - vi: je
@@ -20,8 +18,7 @@
     - tiun: dat
     - muzikilon: muziekinstrument
     - '?'
--
-  demando: Wie heeft laatst mijn sleutel gebruikt?
+- demando: Wie heeft laatst mijn sleutel gebruikt?
   rektatraduko:
     - Kiu: Wie
     - laste: laatst
@@ -29,8 +26,7 @@
     - mian: mijn
     - ŝlosilon: sleutel
     - '?'
--
-  demando: Heb je in Venetië ook met een gondel gevaren?
+- demando: Heb je in Venetië ook met een gondel gevaren?
   rektatraduko:
     - Ĉu: Of
     - vi: je
@@ -41,8 +37,7 @@
     - per: met
     - gondolo: een gondel
     - '?'
--
-  demando: Zal je kunnen inslapen, als het stil geworden is?
+- demando: Zal je kunnen inslapen, als het stil geworden is?
   rektatraduko:
     - Ĉu: Of
     - vi: je
@@ -50,5 +45,5 @@
     - ekdormi: inslapen
     - ','
     - kiam: wanneer
-    - silentiĝis: is stil geworden
+    - silentiĝos: is stil geworden
     - '?'

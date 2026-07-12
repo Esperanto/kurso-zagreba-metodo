@@ -1,15 +1,13 @@
-- 
-  demando: Bagaimana rumah lama awak seperti ?
-  rektatraduko: 
+- demando: Bagaimana rumah lama awak seperti ?
+  rektatraduko:
     - Kia: bagaimana
     - estis: ialah
     - via: awak punya
     - malnova: lama
     - hejmo: rumah
     - '?'
-- 
-  demando: Buku-buku apa telah awak membaca, dan adakah mereka yang baik?
-  rektatraduko: 
+- demando: Buku-buku apa telah awak membaca, dan adakah mereka yang baik?
+  rektatraduko:
     - Kiujn: apa
     - librojn: buku-buku
     - vi: awak
@@ -20,12 +18,11 @@
     - estas: ialag
     - bonaj: baik
     - '?'
-- 
-  demando: "Apa yang Anna dan Mark buat di bilik kecil Mark ?"
+- demando: Apa yang Ana dan Mark buat di bilik kecil Mark ?
   rektatraduko:
     - Kion: Apa
     - faris: buat
-    - Anna: Anna
+    - Ana: Ana
     - kaj: dan
     - Marko: Mark
     - en: di
@@ -35,9 +32,8 @@
     - de: punya
     - Marko: Mark
     - '?'
-- 
-  demando: Adakah awak suka membaca buku-buku tentang cinta ?
-  rektatraduko: 
+- demando: Adakah awak suka membaca buku-buku tentang cinta ?
+  rektatraduko:
     - Ĉu: Adakah
     - vi: awak
     - ŝatas: suka
@@ -46,9 +42,8 @@
     - pri: tentang
     - amo: cinta
     - '?'
-- 
-  demando: Siapakah yang akan pergi dengan awak ke rumah awak ?
-  rektatraduko: 
+- demando: Siapakah yang akan pergi dengan awak ke rumah awak ?
+  rektatraduko:
     - Kiu: Siapakah
     - iros: akan pergi
     - kun: dengan
@@ -57,9 +52,8 @@
     - via: awak punya
     - hejmo: rumah
     - '?'
-- 
-  demando: "Bagaimanakah mata teman wanita awak seperti?"
-  rektatraduko: 
+- demando: Bagaimanakah mata teman wanita awak seperti?
+  rektatraduko:
     - Kiaj: Bagaimanakah seperti
     - estas: ialah
     - la: itu

@@ -1,15 +1,13 @@
--
-  demando: Când te voi revedea?
+- demando: Când te voi revedea?
   rektatraduko:
     - Kiam: Când
     - mi: eu
     - revidos: voi revedea
     - vin: pe tine
     - '?'
--
-  demando: De cât timp înveți limba internațională?
+- demando: De cât timp înveți limba internațională?
   rektatraduko:
-    - Kiel: Cât de
+    - Kiom: cât
     - longe: mult timp
     - vi: tu
     - lernas: înveți
@@ -17,8 +15,7 @@
     - Internacian: internațională
     - Lingvon: limbă
     - '?'
--
-  demando: Unde este cartea mea nouă cu fotografii?
+- demando: Unde este cartea mea nouă cu fotografii?
   rektatraduko:
     - Kie: Unde
     - estas: este
@@ -28,8 +25,7 @@
     - kun: cu
     - fotoj: fotografii
     - '?'
--
-  demando: Încotro vei merge după prânz?
+- demando: Încotro vei merge după prânz?
   rektatraduko:
     - Kien: Încotro
     - vi: tu
@@ -38,8 +34,7 @@
     - la: (articol)
     - tagmanĝo: prânz
     - '?'
--
-  demando: Se poate închide ușa camerei când este frig?
+- demando: Se poate închide ușa camerei când este frig?
   rektatraduko:
     - Ĉu: oare
     - oni: se
@@ -55,10 +50,9 @@
     - estas: este
     - malvarme: frig
     - '?'
--
-  demando: Cât timp te superi dacă cineva îți ia mulți bani?
+- demando: Cât timp te superi dacă cineva îți ia mulți bani?
   rektatraduko:
-    - Kiel: Cât de
+    - Kiom: cât
     - longe: mult timp
     - vi: tu
     - koleras: te superi

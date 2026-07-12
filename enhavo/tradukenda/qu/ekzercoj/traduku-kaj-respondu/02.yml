@@ -1,5 +1,4 @@
--
-  demando: Qanpa mawka wasiykiqa imaynataq karqa?
+- demando: Qanpa mawka wasiykiqa imaynataq karqa?
   rektatraduko:
     - Kia: Imayna
     - estis: karqa
@@ -7,8 +6,7 @@
     - malnova: mawka
     - hejmo: wasi
     - '?'
--
-  demando: Mayqin liwrukunatataq ñawincharqanki, allinkunachu karqanku?
+- demando: Mayqin liwrukunatataq ñawincharqanki, allinkunachu karqanku?
   rektatraduko:
     - Kiujn: Mayqinkunata
     - librojn: liwrukunata
@@ -20,12 +18,11 @@
     - estas: kanku
     - bonaj: allinkuna
     - '?'
--
-  demando: Anawan Markowanqa Markopa huch'uy wasi ukhunpi imatataq ruwarqanku?
+- demando: Anawan Markowanqa Markopa huch'uy wasi ukhunpi imatataq ruwarqanku?
   rektatraduko:
     - Kion: Imata
     - faris: ruwarqa
-    - Anna: Ana
+    - Ana: Ana
     - kaj: hinaspa
     - Marko: Marko
     - en: ukhupi
@@ -35,8 +32,7 @@
     - de: pa
     - Marko: Marko
     - '?'
--
-  demando: Kuyaymanta liwrukunata ñawinchayta munankichu?
+- demando: Kuyaymanta liwrukunata ñawinchayta munankichu?
   rektatraduko:
     - Ĉu: Chu
     - vi: qan
@@ -46,8 +42,7 @@
     - pri: manta
     - amo: kuyay
     - '?'
--
-  demando: Piwanmi qanwan wasiykiman rinqa?
+- demando: Piwanmi qanwan wasiykiman rinqa?
   rektatraduko:
     - Kiu: Pi
     - iros: rinqa
@@ -57,8 +52,7 @@
     - via: qanpa
     - hejmo: wasi
     - '?'
--
-  demando: Qanpa warmi masiykipa ñawinkunaqa imaynataq kanku?
+- demando: Qanpa warmi masiykipa ñawinkunaqa imaynataq kanku?
   rektatraduko:
     - Kiaj: Imayna
     - estas: kanku

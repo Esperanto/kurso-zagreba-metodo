@@ -1,10 +1,9 @@
-- 
-  demando: Czy chcesz, żebym pokazał Ci moją najnowszą książkę?
-  rektatraduko: 
+- demando: Czy chcesz, żebym pokazał Ci moją najnowszą książkę?
+  rektatraduko:
     - Ĉu: Czy
     - vi: ty
     - deziras: pragniesz
-    - ',' 
+    - ','
     - ke: żeby
     - mi: ja
     - montru: pokaż
@@ -15,22 +14,20 @@
     - novan: nową
     - libron: książkę
     - '?'
-- 
-  demando: Co chcesz jutro na śniadanie?
-  rektatraduko: 
+- demando: Co chcesz jutro na śniadanie?
+  rektatraduko:
     - Kion: Co
     - vi: ty
     - volas: chcesz
     - morgaŭ: jutro
     - matenmanĝi: jeść na śniadanie
     - '?'
-- 
-  demando: "Kiedy przyjdzie Marek: o piątej czy o ósmej?"
-  rektatraduko: 
+- demando: 'Kiedy przyjdzie Marek: o piątej czy o ósmej?'
+  rektatraduko:
     - Kiam: Kiedy
     - Marko: Marek
     - alvenos: przyjdzie
-    - ',' 
+    - ','
     - je: o
     - la: (przedimek określony)
     - kvina: piąta
@@ -40,13 +37,12 @@
     - oka: ósma
     - horo: godzina
     - '?'
-- 
-  demando: Kiedy zauważyłeś, że cała rodzina nazywa mnie dobrym człowiekiem?
-  rektatraduko: 
+- demando: Kiedy zauważyłeś, że cała rodzina nazywa mnie dobrym człowiekiem?
+  rektatraduko:
     - Kiam: Kiedy
     - vi: ty
     - rimarkis: zauważyłeś
-    - ','  
+    - ','
     - ke: że
     - la: (przedimek określony)
     - tuta: cała
@@ -55,18 +51,18 @@
     - min: mnie
     - bonfarulo: dobry człowiek
     - '?'
-- 
-  demando: Czy była ci przydatna książeczka, którą ci posłałem?
-  rektatraduko: 
+- demando: Czy była ci przydatna książeczka, którą ci posłałem?
+  rektatraduko:
     - Ĉu: Czy
-    - la: (przedimek określony) 
+    - la: (przedimek określony)
     - libreto: książeczka
-    - estis: była
-    - utila: przydatna
-    - al: do
-    - vi: ty
-    - ',' 
+    - ','
     - kiun: którą
     - mi: ja
     - sendis: wysłałem
+    - al: do
+    - vi: ty
+    - ','
+    - estis: była
+    - utila: przydatna
     - '?'

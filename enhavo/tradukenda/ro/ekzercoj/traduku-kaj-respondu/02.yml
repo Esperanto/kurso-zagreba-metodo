@@ -1,5 +1,4 @@
--
-  demando: Cum era vechea ta casă?
+- demando: Cum era vechea ta casă?
   rektatraduko:
     - Kia: Cum
     - estis: era
@@ -7,8 +6,7 @@
     - malnova: veche
     - hejmo: casă
     - '?'
--
-  demando: Ce cărți ai citit și sunt bune?
+- demando: Ce cărți ai citit și sunt bune?
   rektatraduko:
     - Kiujn: Ce
     - librojn: cărți
@@ -20,12 +18,11 @@
     - estas: sunt
     - bonaj: bune
     - '?'
--
-  demando: Ce au făcut Anna și Marko în camera mică a lui Marko?
+- demando: Ce au făcut Ana și Marko în camera mică a lui Marko?
   rektatraduko:
     - Kion: Ce
     - faris: au făcut
-    - Anna: Anna
+    - Ana: Ana
     - kaj: și
     - Marko: Marko
     - en: în
@@ -35,8 +32,7 @@
     - de: a
     - Marko: Marko
     - '?'
--
-  demando: Îți place să citești cărți despre iubire?
+- demando: Îți place să citești cărți despre iubire?
   rektatraduko:
     - Ĉu: oare
     - vi: tu
@@ -46,8 +42,7 @@
     - pri: despre
     - amo: iubire
     - '?'
--
-  demando: Cine va merge cu tine la casa ta?
+- demando: Cine va merge cu tine la casa ta?
   rektatraduko:
     - Kiu: Cine
     - iros: va merge
@@ -57,8 +52,7 @@
     - via: ta
     - hejmo: casă
     - '?'
--
-  demando: Cum sunt ochii prietenei tale?
+- demando: Cum sunt ochii prietenei tale?
   rektatraduko:
     - Kiaj: Cum
     - estas: sunt

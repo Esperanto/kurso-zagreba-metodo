@@ -1,11 +1,10 @@
-- 
-  demando: 你是否希望我展示于你我最新的书 ？
-  rektatraduko: 
+- demando: 你是否希望我展示于你我最新的书 ？
+  rektatraduko:
     - Ĉu: 是否
     - vi: 你
     - deziras: 希望
-    - ',' 
-    - ke: '' 
+    - ','
+    - ke: ''
     - mi: 我
     - montru: 展示
     - al: 于
@@ -15,22 +14,20 @@
     - novan: 新
     - libron: 书
     - '?'
-- 
-  demando: 你明天要吃什么早餐？
-  rektatraduko: 
+- demando: 你明天要吃什么早餐？
+  rektatraduko:
     - Kion: 什么
     - vi: 你
     - volas: 要
     - morgaŭ: 明天
     - matenmanĝi: 吃早餐
     - '?'
-- 
-  demando: “何时马克将抵达，是五还是八点钟？”
-  rektatraduko: 
+- demando: “何时马克将抵达，是五还是八点钟？”
+  rektatraduko:
     - Kiam: 何时
     - Marko: 马克
     - alvenos: 将抵达
-    - ',' 
+    - ','
     - je: 在
     - la: 第
     - kvina: 五
@@ -40,14 +37,13 @@
     - oka: 八
     - horo: 点钟
     - '?'
-- 
-  demando: 何时你曾注意到那个家庭全家人都叫我施主？
-  rektatraduko: 
+- demando: 何时你曾注意到那个家庭全家人都叫我施主？
+  rektatraduko:
     - Kiam: 何时
     - vi: 你
     - rimarkis: 曾注意
-    - ','  
-    - ke: '' 
+    - ','
+    - ke: ''
     - la: 那个
     - tuta: 全
     - familio: 家
@@ -55,18 +51,18 @@
     - min: 我
     - bonfarulo: 施主
     - '?'
-- 
-  demando: 那本我寄给你的小本书是否对你有用？
-  rektatraduko: 
+- demando: 那本我寄给你的小本书是否对你有用？
+  rektatraduko:
     - Ĉu: 是否
     - la: 那本
     - libreto: 小书本
-    - estis: 是
-    - utila: 有用
-    - al: 给
-    - vi: 你
-    - ',' 
-    - kiun: '' 
+    - ','
+    - kiun: ''
     - mi: 我
     - sendis: 寄给
+    - al: 给
+    - vi: 你
+    - ','
+    - estis: 是
+    - utila: 有用
     - '?'

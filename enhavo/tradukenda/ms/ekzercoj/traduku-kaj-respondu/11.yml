@@ -1,6 +1,5 @@
-- 
-  demando: Sama bolehkah anda membawa ubat kakak saya ?
-  rektatraduko: 
+- demando: Sama bolehkah anda membawa ubat kakak saya ?
+  rektatraduko:
     - Ĉu: apakah,sama boleh
     - vi: awak
     - povas: boleh
@@ -11,27 +10,24 @@
     - mia: saya punya
     - fratino: kakak/adik perempuan
     - '?'
-- 
-  demando: Bilakah awak membeli alat muzik itu ?
-  rektatraduko: 
+- demando: Bilakah awak membeli alat muzik itu ?
+  rektatraduko:
     - Kiam: Bila
     - vi: awak
     - aĉetis: telah membeli
     - tiun: itu
     - muzikilon: alat muzik
     - '?'
-- 
-  demando: Siapa yang telah menggunakan kunci saya kali terakhir?
-  rektatraduko: 
+- demando: Siapa yang telah menggunakan kunci saya kali terakhir?
+  rektatraduko:
     - Kiu: Siapa
     - laste: kali terakhir
     - uzis: telah mengguna
     - mian: saya punya
     - ŝlosilon: kunci
     - '?'
-- 
-  demando: Adakah awak menggunakan gondola bila melawat Venice ?
-  rektatraduko: 
+- demando: Adakah awak menggunakan gondola bila melawat Venice ?
+  rektatraduko:
     - Ĉu: adakah
     - vi: awak
     - en: di
@@ -41,14 +37,13 @@
     - per: dengan cara
     - gondolo: gondola
     - '?'
-- 
-  demando: Bolehkah awak tidur apabila ia menjadi sunyi ?
-  rektatraduko: 
+- demando: Bolehkah awak tidur apabila ia menjadi sunyi ?
+  rektatraduko:
     - Ĉu: Bolehkah
     - vi: awak
     - povos: akan boleh
     - ekdormi: tidur
-    - ',' 
+    - ','
     - kiam: apabila
-    - silentiĝis: sunyi,diam
+    - silentiĝos: sunyi,diam
     - '?'

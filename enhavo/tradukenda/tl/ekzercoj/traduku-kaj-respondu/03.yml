@@ -1,72 +1,72 @@
 - demando: Nakauunawa ba ng maraming wika ang mga weyter sa malalaking hotel?
   rektatraduko:
-  - Ĉu: ba
-  - kelneroj: mga weyter
-  - en: sa loob ng
-  - grandaj: malalaki
-  - hoteloj: mga hotel
-  - komprenas: umuunawa
-  - multajn: marami
-  - lingvojn: mga wika
-  - '?'
-- demando: Alam mo ba na gusto ni Anna ang bagong kanta tungkol sa isang mahirap na lalaki at magandang babae?
+    - Ĉu: ba
+    - kelneroj: mga weyter
+    - en: sa loob ng
+    - grandaj: malalaki
+    - hoteloj: mga hotel
+    - komprenas: umuunawa
+    - multajn: marami
+    - lingvojn: mga wika
+    - '?'
+- demando: Alam mo ba na gusto ni Ana ang bagong kanta tungkol sa isang mahirap na lalaki at magandang babae?
   rektatraduko:
-  - Ĉu: ba
-  - vi: ikaw
-  - scias: alam
-  - ','
-  - ĉu: ba
-  - Anna: Anna
-  - ŝatas: gusto
-  - la: ang
-  - novan: bago
-  - kanton: kanta
-  - pri: tungkol sa
-  - malriĉulo: taong mahirap
-  - kaj: at
-  - belulino: magandang babae
-  - '?'
+    - Ĉu: ba
+    - vi: ikaw
+    - scias: alam
+    - ','
+    - ĉu: ba
+    - Ana: Ana
+    - ŝatas: gusto
+    - la: ang
+    - novan: bago
+    - kanton: kanta
+    - pri: tungkol sa
+    - malriĉulo: taong mahirap
+    - kaj: at
+    - belulino: magandang babae
+    - '?'
 - demando: Saan mo nakita ang matandang lalaki at ang binatang nagdadala ng malaking mesa?
   rektatraduko:
-  - Kie: Saan
-  - vi: ikaw
-  - vidis: nakakita
-  - la: ang
-  - maljunulon: matandang lalaki
-  - kaj: at
-  - la: ang
-  - junulon: binata
-  - ','
-  - kiuj: na mga
-  - portis: nagdala
-  - grandan: malaki
-  - tablon: mesa
-  - '?'
+    - Kie: Saan
+    - vi: ikaw
+    - vidis: nakakita
+    - la: ang
+    - maljunulon: matandang lalaki
+    - kaj: at
+    - la: ang
+    - junulon: binata
+    - ','
+    - kiuj: na mga
+    - portis: nagdala
+    - grandan: malaki
+    - tablon: mesa
+    - '?'
 - demando: Paano nangyari na muli kang dumating sa amin nang walang mga kapatid?
   rektatraduko:
-  - Kiel: Paano
-  - okazis: nangyari
-  - ','
-  - ke: na
-  - vi: ikaw
-  - denove: muli
-  - venis: dumating
-  - al: papunta sa
-  - ni: amin
-  - sen: walang
-  - gefratoj: mga kapatid
-  - '?'
+    - Kiel: Paano
+    - okazis: nangyari
+    - ','
+    - ke: na
+    - vi: ikaw
+    - denove: muli
+    - venis: dumating
+    - al: papunta sa
+    - ni: amin
+    - sen: walang
+    - gefratoj: mga kapatid
+    - '?'
 - demando: Matututuhan mo ba ang Esperanto nang sapat na mabilis sa tulong ng bagong aklat-aralin?
   rektatraduko:
-  - Ĉu: ba
-  - vi: ikaw
-  - povas: maaari
-  - per: sa pamamagitan ng
-  - la: ang
-  - nova: bago
-  - lernolibro: aklat-aralin
-  - sufiĉe: sapat
-  - rapide: mabilis
-  - lerni: matuto
-  - Esperanton: Esperanto
-  - '?'
+    - Ĉu: ba
+    - vi: ikaw
+    - povas: maaari
+    - per: sa pamamagitan ng
+    - la: ang
+    - nova: bago
+    - lernolibro: aklat-aralin
+    - sufiĉe: sapat
+    - rapide: mabilis
+    - lerni: matuto
+    - Esperanton: Esperanto
+    - '?'

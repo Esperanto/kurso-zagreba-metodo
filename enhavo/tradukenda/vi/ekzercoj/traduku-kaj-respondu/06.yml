@@ -1,10 +1,9 @@
-- 
-  demando: Cậu có muốn tớ cho cậu xem quyển sách mới nhất của tớ không?
-  rektatraduko: 
+- demando: Cậu có muốn tớ cho cậu xem quyển sách mới nhất của tớ không?
+  rektatraduko:
     - Ĉu: Có không
     - vi: cậu
     - deziras: muốn
-    - ',' 
+    - ','
     - ke: (rằng)
     - mi: tớ
     - montru: cho xem
@@ -15,22 +14,20 @@
     - novan: mới
     - libron: quyển sách
     - '?'
-- 
-  demando: Cậu muốn ngày mai ăn sáng cái gì?
-  rektatraduko: 
+- demando: Cậu muốn ngày mai ăn sáng cái gì?
+  rektatraduko:
     - Kion: Cái gì
     - vi: cậu
     - volas: muốn
     - morgaŭ: ngày mai
     - matenmanĝi: ăn sáng
     - '?'
-- 
-  demando: Mark sẽ đến lúc nào vậy, lúc năm giờ hay tám giờ?
-  rektatraduko: 
+- demando: Mark sẽ đến lúc nào vậy, lúc năm giờ hay tám giờ?
+  rektatraduko:
     - Kiam: Lúc nào
     - Marko: Mark
     - alvenos: sẽ đến
-    - ',' 
+    - ','
     - je: lúc
     - la: (mạo từ xác định)
     - kvina: năm
@@ -40,13 +37,12 @@
     - oka: mười
     - horo: giờ
     - '?'
-- 
-  demando: Cậu đã nhận ra, rằng cả nhà gọi tớ là người làm việc thiện khi nào vậy?
-  rektatraduko: 
+- demando: Cậu đã nhận ra, rằng cả nhà gọi tớ là người làm việc thiện khi nào vậy?
+  rektatraduko:
     - Kiam: Khi nào
     - vi: cậu
     - rimarkis: đã nhận ra
-    - ','  
+    - ','
     - ke: rằng
     - la: (mạo từ xác định)
     - tuta: cả
@@ -55,18 +51,18 @@
     - min: tớ
     - bonfarulo: người làm việc thiện
     - '?'
-- 
-  demando: Cái tập sách nhỏ có ích đối với cậu không vậy, cái mà mình gửi ấy?
-  rektatraduko: 
+- demando: Cái tập sách nhỏ có ích đối với cậu không vậy, cái mà mình gửi ấy?
+  rektatraduko:
     - Ĉu: Có không vậy
     - la: (mạo từ xác định)
     - libreto: tập sách nhỏ
-    - estis: đã
-    - utila: có ích
-    - al: đối với
-    - vi: cậu
-    - ',' 
+    - ','
     - kiun: cái mà
     - mi: mình
     - sendis: đã gửi
+    - al: đối với
+    - vi: cậu
+    - ','
+    - estis: đã
+    - utila: có ích
     - '?'

@@ -1,5 +1,4 @@
--
-  demando: Je, unaweza kuleta dawa ya dada yangu?
+- demando: Je, unaweza kuleta dawa ya dada yangu?
   rektatraduko:
     - Ĉu: je
     - vi: wewe
@@ -11,8 +10,7 @@
     - mia: yangu
     - fratino: dada
     - '?'
--
-  demando: Ulinunua ala hiyo ya muziki lini?
+- demando: Ulinunua ala hiyo ya muziki lini?
   rektatraduko:
     - Kiam: Lini
     - vi: wewe
@@ -20,8 +18,7 @@
     - tiun: hiyo
     - muzikilon: ala ya muziki
     - '?'
--
-  demando: Nani alitumia ufunguo wangu mara ya mwisho?
+- demando: Nani alitumia ufunguo wangu mara ya mwisho?
   rektatraduko:
     - Kiu: Nani
     - laste: mara ya mwisho
@@ -29,8 +26,7 @@
     - mian: wangu
     - ŝlosilon: ufunguo
     - '?'
--
-  demando: Je, huko Venecia ulisafiri pia kwa gondola?
+- demando: Je, huko Venecia ulisafiri pia kwa gondola?
   rektatraduko:
     - Ĉu: je
     - vi: wewe
@@ -41,8 +37,7 @@
     - per: kwa
     - gondolo: gondola
     - '?'
--
-  demando: Je, utaweza kulala usingizi wakati kutakapokuwa kimya?
+- demando: Je, utaweza kulala usingizi wakati kutakapokuwa kimya?
   rektatraduko:
     - Ĉu: je
     - vi: wewe
@@ -50,5 +45,5 @@
     - ekdormi: kuanza kulala
     - ','
     - kiam: wakati
-    - silentiĝis: kumekuwa kimya
+    - silentiĝos: kumekuwa kimya
     - '?'

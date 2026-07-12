@@ -21,8 +21,8 @@
 - demando: Kdo je nazadnje uporabljal moj ključ?
   rektatraduko:
     - Kiu: Kdo
-    - uzis: je uporabljal
     - laste: nazadnje
+    - uzis: je uporabljal
     - mian: moj
     - ŝlosilon: ključ
     - '?'
@@ -30,9 +30,9 @@
   rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek vi)
-    - veturis: ste se vozili
     - en: v
     - Venecio: Benetkah
+    - veturis: ste se vozili
     - ankaŭ: tudi
     - per: z
     - gondolo: gondolo
@@ -45,5 +45,5 @@
     - ekdormi: zaspali
     - ','
     - kiam: ko
-    - silentiĝis: je vse utihnilo
+    - silentiĝos: je vse utihnilo
     - '?'

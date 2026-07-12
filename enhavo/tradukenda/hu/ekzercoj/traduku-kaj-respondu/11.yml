@@ -1,6 +1,5 @@
-- 
-  demando: El tudod hozni a testvérem gyógyszerét?
-  rektatraduko: 
+- demando: El tudod hozni a testvérem gyógyszerét?
+  rektatraduko:
     - Ĉu: Vajon
     - vi: te
     - povas: tud
@@ -11,27 +10,24 @@
     - mia: enyém
     - fratino: lánytestvér
     - '?'
-- 
-  demando: Mikor vetted ezt a hangszert?
-  rektatraduko: 
+- demando: Mikor vetted ezt a hangszert?
+  rektatraduko:
     - Kiam: Mikor
     - vi: te
     - aĉetis: vett
     - tiun: ezt a
     - muzikilon: hangszert
     - '?'
-- 
-  demando: Ki használta utoljára a kulcsomat?
-  rektatraduko: 
+- demando: Ki használta utoljára a kulcsomat?
+  rektatraduko:
     - Kiu: Ki
     - laste: utoljára
     - uzis: használt
     - mian: enyémet
     - ŝlosilon: kulcsot
     - '?'
-- 
-  demando: Utaztál Velencében gondolával is?
-  rektatraduko: 
+- demando: Utaztál Velencében gondolával is?
+  rektatraduko:
     - Ĉu: Vajon
     - vi: te
     - en: -ban/ben
@@ -41,14 +37,13 @@
     - per: -val/vel
     - gondolo: gondola
     - '?'
-- 
-  demando: El tudsz majd aludni amikor elcsendesedett?
-  rektatraduko: 
+- demando: El tudsz majd aludni amikor elcsendesedett?
+  rektatraduko:
     - Ĉu: Vajon
     - vi: te
     - povos: fogsz tudni
     - ekdormi: elaludni
-    - ',' 
-    - kiam: amikor 
-    - silentiĝis: elcsendesedett
+    - ','
+    - kiam: amikor
+    - silentiĝos: elcsendesedett
     - '?'

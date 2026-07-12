@@ -1,5 +1,4 @@
--
-  demando: Je, unataka nikuonyeshe kitabu changu kipya kabisa?
+- demando: Je, unataka nikuonyeshe kitabu changu kipya kabisa?
   rektatraduko:
     - Ĉu: je
     - vi: wewe
@@ -15,8 +14,7 @@
     - novan: kipya
     - libron: kitabu
     - '?'
--
-  demando: Unataka kula nini kesho asubuhi?
+- demando: Unataka kula nini kesho asubuhi?
   rektatraduko:
     - Kion: Nini
     - vi: wewe
@@ -24,8 +22,7 @@
     - morgaŭ: kesho
     - matenmanĝi: kula kiamsha kinywa
     - '?'
--
-  demando: Marko atafika lini, saa tano au saa nane?
+- demando: Marko atafika lini, saa tano au saa nane?
   rektatraduko:
     - Kiam: Lini
     - Marko: Marko
@@ -40,8 +37,7 @@
     - oka: nane
     - horo: saa
     - '?'
--
-  demando: Ulitambua lini kwamba familia nzima inaniita mfadhili?
+- demando: Ulitambua lini kwamba familia nzima inaniita mfadhili?
   rektatraduko:
     - Kiam: Lini
     - vi: wewe
@@ -55,18 +51,18 @@
     - min: mimi
     - bonfarulo: mfadhili
     - '?'
--
-  demando: Je, kijitabu nilichokutumia kilikuwa na manufaa kwako?
+- demando: Je, kijitabu nilichokutumia kilikuwa na manufaa kwako?
   rektatraduko:
     - Ĉu: je
     - la: kiarifu
     - libreto: kijitabu
-    - estis: kilikuwa
-    - utila: na manufaa
-    - al: kwa
-    - vi: wewe
     - ','
     - kiun: ambacho
     - mi: mimi
     - sendis: nilituma
+    - al: kwa
+    - vi: wewe
+    - ','
+    - estis: kilikuwa
+    - utila: na manufaa
     - '?'

@@ -1,25 +1,22 @@
--
-  demando: Mikor foglak viszontlátni téged?
-  rektatraduko: 
+- demando: Mikor foglak viszontlátni téged?
+  rektatraduko:
     - Kiam: Mikor
-    - mi: én  
+    - mi: én
     - revidos: látni fog
     - vin: téged
     - '?'
--
-  demando: Milyen régen tanulod a nemzetközi nyelvet?
-  rektatraduko: 
-    - Kiel: Hogyan
+- demando: Milyen régen tanulod a nemzetközi nyelvet?
+  rektatraduko:
+    - Kiom: mennyi
     - longe: hosszan
     - vi: te
     - lernas: tanul
-    - la: a 
+    - la: a
     - Internacian: nemzetközit
     - Lingvon: nyelvet
     - '?'
--
-  demando: Hol van az új fényképes könyvem?
-  rektatraduko: 
+- demando: Hol van az új fényképes könyvem?
+  rektatraduko:
     - Kie: Hol
     - estas: van
     - mia: enyém
@@ -28,9 +25,8 @@
     - kun: -val/vel
     - fotoj: fényképek
     - '?'
--
-  demando: Hová fogsz menni ebéd után?
-  rektatraduko: 
+- demando: Hová fogsz menni ebéd után?
+  rektatraduko:
     - Kien: Hová
     - vi: te
     - iros: fog menni
@@ -38,16 +34,15 @@
     - la: a
     - tagmanĝo: ebéd
     - '?'
--
-  demando: Be lehet zárni a szoba ajtaját amikor hideg van?
-  rektatraduko: 
+- demando: Be lehet zárni a szoba ajtaját amikor hideg van?
+  rektatraduko:
     - Ĉu: Vajon
     - oni: az ember
-    - povas: tud 
+    - povas: tud
     - fermi: zárni
     - la: a
     - pordon: ajtó
-    - de: -nak/nek 
+    - de: -nak/nek
     - la: a
     - ĉambro: szoba
     - ','
@@ -55,10 +50,9 @@
     - estas: van
     - malvarme: hidegen
     - '?'
--
-  demando: Milyen sokáig haragszol ha sok pénzt vesznek el tőled?
-  rektatraduko: 
-    - Kiel: Hogyan
+- demando: Milyen sokáig haragszol ha sok pénzt vesznek el tőled?
+  rektatraduko:
+    - Kiom: mennyi
     - longe: hosszan
     - vi: te
     - koleras: mérges van

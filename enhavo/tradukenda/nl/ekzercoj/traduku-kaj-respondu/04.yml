@@ -1,15 +1,13 @@
--
-  demando: Wanneer zal ik je/u weerzien?
+- demando: Wanneer zal ik je/u weerzien?
   rektatraduko:
     - Kiam: Wanneer
     - mi: ik
     - revidos: zal weerzien
     - vin: jou/u
     - '?'
--
-  demando: Hoe lang leer je de Internationale Taal?
+- demando: Hoe lang leer je de Internationale Taal?
   rektatraduko:
-    - Kiel: Hoe
+    - Kiom: hoeveel
     - longe: lang
     - vi: je
     - lernas: leert
@@ -17,8 +15,7 @@
     - Internacian: Internationale
     - Lingvon: Taal
     - '?'
--
-  demando: Waar is mijn nieuwe boek met foto's?
+- demando: Waar is mijn nieuwe boek met foto's?
   rektatraduko:
     - Kie: Waar
     - estas: is
@@ -28,8 +25,7 @@
     - kun: met
     - fotoj: foto's
     - '?'
--
-  demando: Waarheen zal je na het middagmaal gaan?
+- demando: Waarheen zal je na het middagmaal gaan?
   rektatraduko:
     - Kien: Waarheen
     - vi: je
@@ -38,8 +34,7 @@
     - la: het
     - tagmanĝo: middagmaal
     - '?'
--
-  demando: Kan men de deur van de kamer sluiten, als het koud is?
+- demando: Kan men de deur van de kamer sluiten, als het koud is?
   rektatraduko:
     - Ĉu: Of
     - oni: men
@@ -55,10 +50,9 @@
     - estas: is
     - malvarme: koud
     - '?'
--
-  demando: Hoe lang ben je boos als iemand veel geld van je wegneemt?
+- demando: Hoe lang ben je boos als iemand veel geld van je wegneemt?
   rektatraduko:
-    - Kiel: Hoe
+    - Kiom: hoeveel
     - longe: lang
     - vi: je
     - koleras: bent boos

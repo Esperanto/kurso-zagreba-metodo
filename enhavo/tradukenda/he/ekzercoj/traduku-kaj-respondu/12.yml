@@ -39,16 +39,16 @@
 - demando: ?מדוע ככל שקר יותר, אז אנו מחכים יותר
   rektatraduko:
     - Kial: מדוע
-    - estas: (זמן הווה)
-    - des: ככל
-    - pli: יותר
-    - malvarma: קר
-    - ','
     - ju: אז
     - pli: יותר
     - longe: ארוך
     - ni: אנו
     - atendas: מחכים
+    - ','
+    - des: ככל
+    - pli: יותר
+    - malvarme: קר
+    - estas: (זמן הווה)
     - '?'
 - demando: ?האם אתה מאושר בחייך
   rektatraduko:

@@ -1,16 +1,14 @@
-- 
-  demando: Hurdant var ditt gamla hem?
-  rektatraduko: 
+- demando: Hurdant var ditt gamla hem?
+  rektatraduko:
     - Kia: Hurdant
     - estis: var
     - via: ditt
     - malnova: gammalt
     - hejmo: hem
     - '?'
-- 
-  demando: Vilka böcker har du läst, och är de bra?
-  rektatraduko: 
-    - Kiujn: Vilka 
+- demando: Vilka böcker har du läst, och är de bra?
+  rektatraduko:
+    - Kiujn: Vilka
     - librojn: böcker
     - vi: du
     - legis: läste
@@ -18,26 +16,24 @@
     - ĉu: (frågepartikeln)
     - ili: de
     - estas: är
-    - bonaj: bra 
+    - bonaj: bra
     - '?'
-- 
-  demando: Vad gjorde Anna och Marko i Markos lilla rum?
+- demando: Vad gjorde Ana och Marko i Markos lilla rum?
   rektatraduko:
     - Kion: Vad
     - faris: gjorde
-    - Anna: Anna
+    - Ana: Ana
     - kaj: och
     - Marko: Marko
-    - en: i 
+    - en: i
     - la: (bestämd artikel)
     - malgranda: litet
     - ĉambro: rum
     - de: (preposition som visar ägande)
     - Marko: Marko
     - '?'
-- 
-  demando: Tycker du om att läsa böcker om kärlek?
-  rektatraduko: 
+- demando: Tycker du om att läsa böcker om kärlek?
+  rektatraduko:
     - Ĉu: (frågepartikeln)
     - vi: du
     - ŝatas: tycker om
@@ -46,20 +42,18 @@
     - pri: om
     - amo: kärlek
     - '?'
-- 
-  demando: Vem går med dig till ditt hem?
-  rektatraduko: 
+- demando: Vem går med dig till ditt hem?
+  rektatraduko:
     - Kiu: Vem
     - iros: kommer att gå
     - kun: med
     - vi: du
-    - al: till 
+    - al: till
     - via: ditt
     - hejmo: hem
     - '?'
-- 
-  demando: Hurdana är din väns ögon?
-  rektatraduko: 
+- demando: Hurdana är din väns ögon?
+  rektatraduko:
     - Kiaj: (frågepartikeln)
     - estas: är
     - la: (bestämd artikel)

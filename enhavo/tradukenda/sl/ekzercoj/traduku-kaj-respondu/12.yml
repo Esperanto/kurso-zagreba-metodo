@@ -39,16 +39,16 @@
 - demando: Zakaj je toliko bolj mrzlo, koliko bolj dolgo čakamo?
   rektatraduko:
     - Kial: Zakaj
-    - estas: je
-    - des: toliko
-    - pli: bolj
-    - malvarma: hladno
-    - ','
     - ju: koliko
     - pli: bolj
     - longe: dolgo
     - ni: (zaimek mi)
     - atendas: čakamo
+    - ','
+    - des: toliko
+    - pli: bolj
+    - malvarme: hladno
+    - estas: je
     - '?'
 - demando: Ali bi bila srečna s katerim koli moškim?
   rektatraduko:

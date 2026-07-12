@@ -1,24 +1,22 @@
--
-  demando: Büyük otellerdeki grasonlar bir çok dil anlıyorlar mı? 
-  rektatraduko:  
-    - Ĉu: mı 
+- demando: Büyük otellerdeki grasonlar bir çok dil anlıyorlar mı?
+  rektatraduko:
+    - Ĉu: mı
     - kelneroj: garsonlar
-    - en: -de 
+    - en: -de
     - grandaj: büyük
     - hoteloj: oteller
     - komprenas: anlıyor
     - multajn: çok, bir çok
     - lingvojn: diller
     - '?'
--
-  demando: Biliyor musun, Anna fakir bir adam ve güzel bir kız hakkındaki yeni şarkıyı beğeniyor mu?
+- demando: Biliyor musun, Ana fakir bir adam ve güzel bir kız hakkındaki yeni şarkıyı beğeniyor mu?
   rektatraduko:
     - Ĉu: musun
     - vi: sen
     - scias: biliyor
     - ','
     - ĉu: mu
-    - Anna: Anna 
+    - Ana: Ana
     - ŝatas: beğeniyor
     - la: (belirleyici artikel)
     - novan: yeni
@@ -28,9 +26,8 @@
     - kaj: ve
     - belulino: güzel bir kız
     - '?'
--
-  demando: Büyük bir masa taşıyan, yaşlı adam ve genç adamı nerede gördü? 
-  rektatraduko: 
+- demando: Büyük bir masa taşıyan, yaşlı adam ve genç adamı nerede gördü?
+  rektatraduko:
     - Kie: nerede
     - vi: sen
     - vidis: gördün
@@ -42,12 +39,11 @@
     - ','
     - kiuj: ki onlar
     - portis: taşıyordu
-    - grandan: büyük 
+    - grandan: büyük
     - tablon: masa
     - '?'
--
-  demando: Nasıl oldu ki sen gene bize kardeşler olmaksızın geldin? 
-  rektatraduko: 
+- demando: Nasıl oldu ki sen gene bize kardeşler olmaksızın geldin?
+  rektatraduko:
     - Kiel: nasıl
     - okazis: oldu
     - ','
@@ -55,18 +51,17 @@
     - vi: sen
     - denove: gene
     - venis: geldin
-    - al: -e, -a 
+    - al: -e, -a
     - ni: biz
     - sen: olmaksızın, -siz
-    - gefratoj: kardeşler 
+    - gefratoj: kardeşler
     - '?'
--
-  demando: Yeni eğitim kitabı sayesinde Esperanto'yu yeterince hızlı şekilde öğrenebilecek misin?
-  rektatraduko: 
+- demando: Yeni eğitim kitabı sayesinde Esperanto'yu yeterince hızlı şekilde öğrenebilecek misin?
+  rektatraduko:
     - Ĉu: misin
     - vi: sen
     - povas: -bilecek, yapabilecek
-    - per: sayesinde, vasıtası ile 
+    - per: sayesinde, vasıtası ile
     - la: (belirleyici artikel)
     - nova: yeni
     - lernolibro: eğitim kitabı

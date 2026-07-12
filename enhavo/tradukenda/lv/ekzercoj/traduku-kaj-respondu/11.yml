@@ -1,49 +1,49 @@
 - demando: Vai tu vari paņemt līdzi manas māsas zāles?
   rektatraduko:
-  - Ĉu: Vai
-  - vi: tu
-  - povas: vari
-  - kunporti: nest līdzi
-  - la: tās
-  - sanigilon: ārstēšanas līdzekli
-  - de: "no"
-  - mia: mana
-  - fratino: māsa
-  - '?'
+    - Ĉu: Vai
+    - vi: tu
+    - povas: vari
+    - kunporti: nest līdzi
+    - la: tās
+    - sanigilon: ārstēšanas līdzekli
+    - de: 'no'
+    - mia: mana
+    - fratino: māsa
+    - '?'
 - demando: Kad tu nopirki to mūzikas instrumentu?
   rektatraduko:
-  - Kiam: Kad
-  - vi: tu
-  - aĉetis: nopirki
-  - tiun: to
-  - muzikilon: mūzikas instrumentu
-  - '?'
+    - Kiam: Kad
+    - vi: tu
+    - aĉetis: nopirki
+    - tiun: to
+    - muzikilon: mūzikas instrumentu
+    - '?'
 - demando: Kurš pēdējoreiz lietoja manu atslēgu?
   rektatraduko:
-  - Kiu: Kurš
-  - laste: pēdējoreiz
-  - uzis: lietoja
-  - mian: manu
-  - ŝlosilon: atslēgu
-  - '?'
+    - Kiu: Kurš
+    - laste: pēdējoreiz
+    - uzis: lietoja
+    - mian: manu
+    - ŝlosilon: atslēgu
+    - '?'
 - demando: Vai Venēcijā tu brauci arī ar gondolu?
   rektatraduko:
-  - Ĉu: Vai
-  - vi: tu
-  - en: iekšā
-  - Venecio: Venēcija
-  - veturis: brauci
-  - ankaŭ: arī
-  - per: ar
-  - gondolo: gondola
-  - '?'
+    - Ĉu: Vai
+    - vi: tu
+    - en: iekšā
+    - Venecio: Venēcija
+    - veturis: brauci
+    - ankaŭ: arī
+    - per: ar
+    - gondolo: gondola
+    - '?'
 - demando: Vai tu varēsi aizmigt, kad kļūs kluss?
   rektatraduko:
-  - Ĉu: Vai
-  - vi: tu
-  - povos: varēsi
-  - ekdormi: aizmigt
-  - ','
-  - kiam: kad
-  - silentiĝis: kļuva kluss
-  - '?'
+    - Ĉu: Vai
+    - vi: tu
+    - povos: varēsi
+    - ekdormi: aizmigt
+    - ','
+    - kiam: kad
+    - silentiĝos: kļuva kluss
+    - '?'

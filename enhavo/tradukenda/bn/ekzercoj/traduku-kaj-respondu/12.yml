@@ -39,16 +39,16 @@
 - demando: আমরা যত বেশি অপেক্ষা করি, তত বেশি ঠান্ডা কেন হয়?
   rektatraduko:
     - Kial: কেন
-    - estas: হয়
-    - des: তত
-    - pli: আরও
-    - malvarma: ঠান্ডা
-    - ','
     - ju: যত
     - pli: আরও
     - longe: দীর্ঘ
     - ni: আমরা
     - atendas: অপেক্ষা করি
+    - ','
+    - des: তত
+    - pli: আরও
+    - malvarme: ঠান্ডা
+    - estas: হয়
     - '?'
 - demando: তুমি কি যে কোনও পুরুষের সঙ্গে সন্তুষ্ট থাকতে?
   rektatraduko:

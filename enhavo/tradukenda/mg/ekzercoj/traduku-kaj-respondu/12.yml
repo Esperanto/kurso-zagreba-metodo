@@ -1,20 +1,18 @@
-- 
-  demando: "Moa ve mbola hihaona isika,amin'ny fotoana iray ary amin'ny toerana hafa?"
-  rektatraduko: 
+- demando: Moa ve mbola hihaona isika,amin'ny fotoana iray ary amin'ny toerana hafa?
+  rektatraduko:
     - Ĉu: Moa ve
     - ni: isika
     - revidos: hihaona
     - nin: isika
-    - ',' 
+    - ','
     - kie: any
     - ajn: toerana hafa
     - kaj: ary
     - kiam: rahoviana
     - ajn: na rahoviana
     - '?'
-- 
-  demando: "Rahovina aho no hamerina ny antsasaky ny boky hafa ?"
-  rektatraduko: 
+- demando: Rahovina aho no hamerina ny antsasaky ny boky hafa ?
+  rektatraduko:
     - Kiam: Rahoviana
     - mi: aho
     - rericevos: no hamerina
@@ -25,9 +23,8 @@
     - la: ny
     - libroj: boky
     - '?'
-- 
-  demando: "Moa ve ianao mba mila mihoatra ny ampahefany amin'ity asa ity?"
-  rektatraduko: 
+- demando: Moa ve ianao mba mila mihoatra ny ampahefany amin'ity asa ity?
+  rektatraduko:
     - Ĉu: Moa ve
     - vi: ianao / ianareo
     - bezonos: mba mila
@@ -39,26 +36,24 @@
     - tiuj: ny
     - laboroj: asa
     - '?'
-- 
-  demando: "Fa maninona mangatsiaka kokoa dia miandry ela kokoa isika ?"
-  rektatraduko: 
-    - Kial:  Fa maninona 
-    - estas: dia
-    - des: dia vao mainka
-    - pli: kokoa
-    - malvarma: mangatsiaka
-    - ',' 
+- demando: Fa maninona mangatsiaka kokoa dia miandry ela kokoa isika ?
+  rektatraduko:
+    - Kial: Fa maninona
     - ju: arakaraka ny
     - pli: kokoa
     - longe: ela
     - ni: isika
     - atendas: miandry
+    - ','
+    - des: dia vao mainka
+    - pli: kokoa
+    - malvarme: mangatsiaka
+    - estas: dia
     - '?'
-- 
-  demando: "Moa ve mba mety ho faly amin'ny lelahy rehetra ve ianao ?"
-  rektatraduko: 
+- demando: Moa ve mba mety ho faly amin'ny lelahy rehetra ve ianao ?
+  rektatraduko:
     - Ĉu: Moa ve
-    - vi: ianao / ianareo 
+    - vi: ianao / ianareo
     - estus: ho
     - kontenta: faly
     - kun: aminy

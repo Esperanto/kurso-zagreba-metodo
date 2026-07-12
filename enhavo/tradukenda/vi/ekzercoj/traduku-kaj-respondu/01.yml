@@ -1,26 +1,23 @@
-- 
-  demando: Cô bạn của cậu là ai?
+- demando: Cô bạn của cậu là ai?
   rektatraduko:
     - Kiu: Ai
     - estas: là
     - via: của cậu
     - amikino: cô bạn
     - '?'
-- 
-  demando: Cô bạn Anna của cậu bây giờ đang viết ở trong phòng phải không?
+- demando: Cô bạn Ana của cậu bây giờ đang viết ở trong phòng phải không?
   rektatraduko:
     - Ĉu: Phải không
     - via: của cậu
     - amikino: cô bạn
-    - Anna: Anna
+    - Ana: Ana
     - skribas: viết
     - nun: bây giờ
     - en: ở trong
     - la: (mạo từ xác định)
     - ĉambro: phòng
     - '?'
-- 
-  demando: Người bạn của cha cậu làm việc ở trong khách sạn phải không?
+- demando: Người bạn của cha cậu làm việc ở trong khách sạn phải không?
   rektatraduko:
     - Ĉu: Có phải không
     - la: (mạo từ xác định)
@@ -32,8 +29,7 @@
     - en: ở trong
     - hotelo: khách sạn
     - '?'
-- 
-  demando: Cái gì ở trên bàn làm việc trong phòng của chúng ta vậy?
+- demando: Cái gì ở trên bàn làm việc trong phòng của chúng ta vậy?
   rektatraduko:
     - Kio: Cái gì
     - estas: thì là
@@ -44,8 +40,7 @@
     - nia: của chúng ta
     - ĉambro: phòng
     - '?'
-- 
-  demando: Có quyển sách dạy Esperanto nào ở trên bàn của cậu không?
+- demando: Có quyển sách dạy Esperanto nào ở trên bàn của cậu không?
   rektatraduko:
     - Ĉu: Có không
     - Esperanto-lernolibro: sách dạy Esperanto
@@ -54,4 +49,3 @@
     - via: của cậu
     - tablo: bàn
     - '?'
-

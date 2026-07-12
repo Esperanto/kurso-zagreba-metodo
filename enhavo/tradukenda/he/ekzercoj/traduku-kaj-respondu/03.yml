@@ -1,6 +1,5 @@
--
-  demando: ?האם מלצרים במלונות גדולים מבינים הרבה שפות
-  rektatraduko:  
+- demando: ?האם מלצרים במלונות גדולים מבינים הרבה שפות
+  rektatraduko:
     - Ĉu: האם
     - kelneroj: מלצרים
     - en: ב
@@ -10,15 +9,14 @@
     - multajn: הרבה
     - lingvojn: שפןת
     - '?'
--
-  demando: ?האם אתה יודע אם אנה אוהבת את השיר החדש על אדם עני ויפהפיה
-  rektatraduko: 
+- demando: ?האם אתה יודע אם אנה אוהבת את השיר החדש על אדם עני ויפהפיה
+  rektatraduko:
     - Ĉu: האם
     - vi: אתה
     - scias: יודע
     - ','
     - ĉu: אם
-    - Anna: אנה 
+    - Ana: אנה
     - ŝatas: אוהבת
     - la: את ה
     - novan: חדש
@@ -28,13 +26,12 @@
     - kaj: ו
     - belulino: יפהפיה
     - '?'
--
-  demando: ?איפה אתה ראית את האדם הזקן ואדם צעיר שנושאים שולחן גדול
-  rektatraduko: 
+- demando: ?איפה אתה ראית את האדם הזקן ואדם צעיר שנושאים שולחן גדול
+  rektatraduko:
     - Kie: איפה
     - vi: אתה
     - vidis: ראית
-    - la:  ה
+    - la: ה
     - maljunulon: את הזקן
     - kaj: ו
     - la: ה
@@ -42,12 +39,11 @@
     - ','
     - kiuj: ש
     - portis: נשאו
-    - grandan: גדול 
+    - grandan: גדול
     - tablon: שולחן
     - '?'
--
-  demando: ?איך קרה שאתה שוב באת אלינו בלי אחים ואחיות
-  rektatraduko: 
+- demando: ?איך קרה שאתה שוב באת אלינו בלי אחים ואחיות
+  rektatraduko:
     - Kiel: איך
     - okazis: קרה
     - ','
@@ -55,19 +51,18 @@
     - vi: אתה
     - denove: שוב
     - venis: באת
-    - al: אל 
+    - al: אל
     - ni: אנחנו
     - sen: בלי
     - gefratoj: אחים ואחיות
     - '?'
--
-  demando: ?האם אתה יכול על ידי ספר הלימוד החדש מספיק מהר ללמוד אספרנטו
-  rektatraduko: 
+- demando: ?האם אתה יכול על ידי ספר הלימוד החדש מספיק מהר ללמוד אספרנטו
+  rektatraduko:
     - Ĉu: האם
     - vi: אתה
     - povas: יכול
     - per: על ידי
-    - la: ה 
+    - la: ה
     - nova: חדש
     - lernolibro: ספר לימוד
     - sufiĉe: מספיק

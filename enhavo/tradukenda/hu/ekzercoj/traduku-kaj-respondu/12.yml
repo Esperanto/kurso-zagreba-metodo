@@ -1,22 +1,20 @@
-- 
-  demando: Viszontlátjuk-e egymást bárhol és bármikor?
-  rektatraduko: 
+- demando: Viszontlátjuk-e egymást bárhol és bármikor?
+  rektatraduko:
     - Ĉu: Vajon
     - ni: mi
     - revidos: viszont fog látni
     - nin: minket
-    - ',' 
+    - ','
     - kie: hol
     - ajn: bár-
     - kaj: és
     - kiam: mikor
     - ajn: bár-
     - '?'
-- 
-  demando: Mikor kapom vissza a könyvek másik felét?
-  rektatraduko: 
+- demando: Mikor kapom vissza a könyvek másik felét?
+  rektatraduko:
     - Kiam: Mikor
-    - mi: én 
+    - mi: én
     - rericevos: vissza fog kapni
     - la: a
     - alian: másikat
@@ -25,9 +23,8 @@
     - la: a
     - libroj: könyvek
     - '?'
-- 
-  demando: Több, mint negyed évre lesz szükséged ezekhez a munkákhoz?
-  rektatraduko: 
+- demando: Több, mint negyed évre lesz szükséged ezekhez a munkákhoz?
+  rektatraduko:
     - Ĉu: Vajon
     - vi: te
     - bezonos: szüksége lesz
@@ -39,24 +36,22 @@
     - tiuj: azok
     - laboroj: munkák
     - '?'
-- 
-  demando: Miért van annál inkább hidegebb, minél tovább várunk?
-  rektatraduko: 
+- demando: Miért van annál inkább hidegebb, minél tovább várunk?
+  rektatraduko:
     - Kial: Miért
-    - estas: van
-    - des: annál inkább
-    - pli: -bb
-    - malvarma: hideg
-    - ',' 
     - ju: minél inkább
     - pli: -bb
     - longe: sokáig
     - ni: mi
     - atendas: vár
+    - ','
+    - des: annál inkább
+    - pli: -bb
+    - malvarme: hideg
+    - estas: van
     - '?'
-- 
-  demando: Elégedett lennél akármelyik férfival?
-  rektatraduko: 
+- demando: Elégedett lennél akármelyik férfival?
+  rektatraduko:
     - Ĉu: Vajon
     - vi: te
     - estus: lenne

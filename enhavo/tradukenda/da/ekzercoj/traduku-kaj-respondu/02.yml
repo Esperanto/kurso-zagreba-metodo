@@ -1,15 +1,13 @@
-- 
-  demando: Hvordan var dit gamle hjem?
-  rektatraduko: 
+- demando: Hvordan var dit gamle hjem?
+  rektatraduko:
     - Kia: Hvilken slags
     - estis: var
     - via: din/dit
     - malnova: gammel
     - hejmo: hjem
     - '?'
-- 
-  demando: Hvilke bøger læste du, og er de gode?
-  rektatraduko: 
+- demando: Hvilke bøger læste du, og er de gode?
+  rektatraduko:
     - Kiujn: Hvilke
     - librojn: bøger
     - vi: du
@@ -20,12 +18,11 @@
     - estas: er
     - bonaj: gode
     - '?'
-- 
-  demando: Hvad lavede Anna og Mark i Marks lille værelse?
+- demando: Hvad lavede Ana og Mark i Marks lille værelse?
   rektatraduko:
     - Kion: Hvad
     - faris: lavede
-    - Anna: Anna
+    - Ana: Ana
     - kaj: og
     - Marko: Mark
     - en: i
@@ -35,9 +32,8 @@
     - de: af
     - Marko: Mark
     - '?'
-- 
-  demando: Kan du lide at læse bøger om kærlighed?
-  rektatraduko: 
+- demando: Kan du lide at læse bøger om kærlighed?
+  rektatraduko:
     - Ĉu: Om
     - vi: du
     - ŝatas: kan lide
@@ -46,9 +42,8 @@
     - pri: om
     - amo: kærlighed
     - '?'
-- 
-  demando: Hvem går med dig til dit hjem?
-  rektatraduko: 
+- demando: Hvem går med dig til dit hjem?
+  rektatraduko:
     - Kiu: Hvem
     - iros: går
     - kun: med
@@ -57,9 +52,8 @@
     - via: din/dit
     - hejmo: hjem
     - '?'
-- 
-  demando: Hvordan er din venindes øjne?
-  rektatraduko: 
+- demando: Hvordan er din venindes øjne?
+  rektatraduko:
     - Kiaj: Hvilken slags
     - estas: er
     - la: (bestemt artikel)

@@ -1,6 +1,5 @@
-- 
-  demando: Bisakah kamu membawakan obat milik saudara perempuanku?
-  rektatraduko: 
+- demando: Bisakah kamu membawakan obat milik saudara perempuanku?
+  rektatraduko:
     - Ĉu: Apakah
     - vi: kamu
     - povas: bisa
@@ -11,27 +10,24 @@
     - mia: punyaku
     - fratino: saudara perempuan
     - '?'
-- 
-  demando: Kapan kamu membeli alat musik itu?
-  rektatraduko: 
+- demando: Kapan kamu membeli alat musik itu?
+  rektatraduko:
     - Kiam: Kapan
     - vi: kamu
     - aĉetis: membeli (lampau)
     - tiun: itu
     - muzikilon: alat musik
     - '?'
-- 
-  demando: Siapa yang terakhir memakai kunciku?
-  rektatraduko: 
+- demando: Siapa yang terakhir memakai kunciku?
+  rektatraduko:
     - Kiu: Siapa
     - laste: terakhir kali
     - uzis: telah memakai
     - mian: punyaku
     - ŝlosilon: kunci
     - '?'
-- 
-  demando: Apakah di Venesia kamu juga naik gondola?
-  rektatraduko: 
+- demando: Apakah di Venesia kamu juga naik gondola?
+  rektatraduko:
     - Ĉu: Apakah
     - vi: kamu
     - en: di
@@ -41,14 +37,13 @@
     - per: menggunakan
     - gondolo: gondola
     - '?'
-- 
-  demando: Apakah kamu akan bisa tertidur ketika suasana menjadi sunyi?
-  rektatraduko: 
+- demando: Apakah kamu akan bisa tertidur ketika suasana menjadi sunyi?
+  rektatraduko:
     - Ĉu: Apakah
     - vi: kamu
     - povos: akan bisa
     - ekdormi: tertidur
-    - ',' 
-    - kiam: ketika 
-    - silentiĝis: menjadi sunyi
+    - ','
+    - kiam: ketika
+    - silentiĝos: menjadi sunyi
     - '?'

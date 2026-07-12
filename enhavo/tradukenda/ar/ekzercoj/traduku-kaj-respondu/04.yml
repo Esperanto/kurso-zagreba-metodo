@@ -1,25 +1,22 @@
--
-  demando: "متى سأراك؟"
-  rektatraduko: 
+- demando: متى سأراك؟
+  rektatraduko:
     - Kiam: متى
-    - mi: أنا  
+    - mi: أنا
     - revidos: سأرى
     - vin: إيّاكَ
     - '?'
--
-  demando: منذ متى وأنت تتعلم اللغة العالمية؟
-  rektatraduko: 
-    - Kiel: كيف
+- demando: منذ متى وأنت تتعلم اللغة العالمية؟
+  rektatraduko:
+    - Kiom: للسؤال عن الكمية
     - longe: زمن طويل
     - vi: أنت
     - lernas: تتعلم
-    - la: ال التعريف 
+    - la: ال التعريف
     - Internacian: عالميةَ
     - Lingvon: لغةً
     - '?'
--
-  demando: أين كتابي الجديد مع الصور؟
-  rektatraduko: 
+- demando: أين كتابي الجديد مع الصور؟
+  rektatraduko:
     - Kie: أين
     - estas: يكون
     - mia: الخاص بي
@@ -28,9 +25,8 @@
     - kun: مع
     - fotoj: صور
     - '?'
--
-  demando: إلى أين ستذهب بعد الغداء؟
-  rektatraduko: 
+- demando: إلى أين ستذهب بعد الغداء؟
+  rektatraduko:
     - Kien: إلى أين
     - vi: أنت
     - iros: ستذهب
@@ -38,16 +34,15 @@
     - la: ال التعريف
     - tagmanĝo: غداء
     - '?'
--
-  demando: هل يستطيع المرء إغلاق بابِ الغرفة عندما يبرد الجو؟
-  rektatraduko: 
+- demando: هل يستطيع المرء إغلاق بابِ الغرفة عندما يبرد الجو؟
+  rektatraduko:
     - Ĉu: هل
     - oni: المرء
     - povas: يستطيع
     - fermi: أن يغلق
     - la: ال التعريف
     - pordon: باب
-    - de: أداة الإضافة 
+    - de: أداة الإضافة
     - la: ال التعريف
     - ĉambro: غرفة
     - ','
@@ -55,10 +50,9 @@
     - estas: يكون
     - malvarme: بارداً
     - '?'
--
-  demando: لكم من الوقت تغضب إذا سلب منك المرء مالاً كثيراً؟
-  rektatraduko: 
-    - Kiel: كيف
+- demando: لكم من الوقت تغضب إذا سلب منك المرء مالاً كثيراً؟
+  rektatraduko:
+    - Kiom: للسؤال عن الكمية
     - longe: زمن طويل
     - vi: أنت
     - koleras: تغضب
@@ -68,6 +62,6 @@
     - forprenas: يسلب
     - de: من
     - vi: أنت
-    - multan: كثيراً 
+    - multan: كثيراً
     - monon: مالاً
     - '?'

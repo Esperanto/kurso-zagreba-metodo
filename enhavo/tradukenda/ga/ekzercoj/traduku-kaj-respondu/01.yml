@@ -1,26 +1,23 @@
-- 
-  demando: Cé hí do chara? 
+- demando: Cé hí do chara?
   rektatraduko:
     - Kiu: Cé
     - estas: hí
     - via: do
     - amikino: cara
     - '?'
-- 
-  demando: An bhfuil do chara Áine ag scríobh sa tseomra anois?
+- demando: An bhfuil do chara Ana ag scríobh sa tseomra anois?
   rektatraduko:
     - Ĉu: An
     - via: do
     - amikino: cara
-    - Anna: Áine
+    - Ana: Ana
     - skribas: scríobh
     - nun: anois
     - en: sa
-    - la: an 
+    - la: an
     - ĉambro: seomra
     - '?'
-- 
-  demando: An bhfuil cara d'athar ag obair in óstán?
+- demando: An bhfuil cara d'athar ag obair in óstán?
   rektatraduko:
     - Ĉu: An
     - la: an
@@ -32,26 +29,23 @@
     - en: in
     - hotelo: óstán
     - '?'
-- 
-  demando: Cad atá ar an mbord inár seomra?
+- demando: Cad atá ar an mbord inár seomra?
   rektatraduko:
-    - Kio: Cad 
+    - Kio: Cad
     - estas: atá
-    - sur: 'ar'
+    - sur: ar
     - la: an
     - labortablo: bord
     - en: in
     - nia: ár
     - ĉambro: seomra
     - '?'
-- 
-  demando: An bhfuil téacsleabhar Esperanto ar do bhord?
+- demando: An bhfuil téacsleabhar Esperanto ar do bhord?
   rektatraduko:
     - Ĉu: An
     - Esperanto-lernolibro: téacsleabhar Esperanto
     - estas: bhfuil
-    - sur: 'ar'
-    - via: do 
+    - sur: ar
+    - via: do
     - tablo: bord
     - '?'
-

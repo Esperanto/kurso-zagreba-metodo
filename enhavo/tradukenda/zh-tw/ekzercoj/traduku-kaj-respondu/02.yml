@@ -1,15 +1,13 @@
-- 
-  demando: 你的舊家是什麼樣的？
-  rektatraduko: 
+- demando: 你的舊家是什麼樣的？
+  rektatraduko:
     - Kia: 什麼樣的
     - estis: 是
     - via: 你的
     - malnova: 舊
     - hejmo: 家
     - '?'
-- 
-  demando: 你讀了哪些書，它們是否是好的？
-  rektatraduko: 
+- demando: 你讀了哪些書，它們是否是好的？
+  rektatraduko:
     - Kiujn: 哪些
     - librojn: 書
     - vi: 你
@@ -20,12 +18,11 @@
     - estas: 是
     - bonaj: 好的
     - '?'
-- 
-  demando: “安娜和馬克在馬克的那小房間裡做什麼？”
+- demando: “安娜和馬克在馬克的那小房間裡做什麼？”
   rektatraduko:
     - Kion: 什麼
     - faris: 做
-    - Anna: 安娜
+    - Ana: 安娜
     - kaj: 和
     - Marko: 馬克
     - en: 在..裡
@@ -35,9 +32,8 @@
     - de: 的
     - Marko: 馬克
     - '?'
-- 
-  demando: 你是否喜歡閱讀關於愛情的書？
-  rektatraduko: 
+- demando: 你是否喜歡閱讀關於愛情的書？
+  rektatraduko:
     - Ĉu: 是否
     - vi: 你
     - ŝatas: 喜歡
@@ -46,9 +42,8 @@
     - pri: 關於
     - amo: 愛情
     - '?'
-- 
-  demando: 誰將跟你去你的家？
-  rektatraduko: 
+- demando: 誰將跟你去你的家？
+  rektatraduko:
     - Kiu: 誰
     - iros: 將去
     - kun: 跟
@@ -57,9 +52,8 @@
     - via: 你的
     - hejmo: 家
     - '?'
-- 
-  demando: 你的女性朋友的眼睛是什麼樣的？
-  rektatraduko: 
+- demando: 你的女性朋友的眼睛是什麼樣的？
+  rektatraduko:
     - Kiaj: 什麼樣的
     - estas: 是
     - la: 的

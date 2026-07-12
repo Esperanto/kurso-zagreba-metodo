@@ -1,70 +1,70 @@
 - demando: Kaj bi lahko najbolj razveselilo tvoje starše?
   rektatraduko:
-    - Kio: Kaj
-    - povus: bi lahko
-    - plej: najbolj
-    - ĝojigi: razveselilo
-    - viajn: tvoje
-    - gepatrojn: starše
-    - '?'
+  - Kio: Kaj
+  - povus: bi lahko
+  - plej: najbolj
+  - ĝojigi: razveselilo
+  - viajn: tvoje
+  - gepatrojn: starše
+  - '?'
 - demando: Ali bi hotel po učenju z menoj iti v mesto!
   rektatraduko:
-    - Se: Ali
-    - almenaŭ: at least (if only)
-    - vi: (zaimek ti)
-    - post: po
-    - la: (člen)
-    - lernado: učenju
-    - irus: would go
-    - kun: z
-    - mi: menoj
-    - en: v
-    - la: (člen)
-    - urbocentron: city center
-    - '!'
+  - Se: Ali
+  - almenaŭ: at least (if only)
+  - vi: (zaimek ti)
+  - post: po
+  - la: (člen)
+  - lernado: učenju
+  - irus: would go
+  - kun: z
+  - mi: menoj
+  - en: v
+  - la: (člen)
+  - urbon: mesto
+  - '!'
 - demando: Kam bi želeli potovati, če bi imeli dovolj denarja in časa?
   rektatraduko:
-    - Kien: Kam
-    - vi: (zaimek vi)
-    - dezirus: bi želeli
-    - vojaĝi: potovati
-    - ','
-    - se: če
-    - vi: (zaimek vi)
-    - havus: bi imeli
-    - sufiĉe: dovolj
-    - da: (predlog od)
-    - mono: denarja
-    - kaj: in
-    - tempo: časa
-    - '?'
-- demando: Ali načrtujete z avtomobilom potovati v Pariz; ali se vam ne zdi, da je bolje potovati z vlakom?
+  - Kien: Kam
+  - vi: (zaimek vi)
+  - dezirus: bi želeli
+  - vojaĝi: potovati
+  - ','
+  - se: če
+  - vi: (zaimek vi)
+  - havus: bi imeli
+  - sufiĉe: dovolj
+  - da: (predlog od)
+  - mono: denarja
+  - kaj: in
+  - tempo: časa
+  - '?'
+- demando: Ali načrtujete z avtomobilom potovati v Italijo; ali se vam ne zdi, da je bolje potovati z vlakom?
   rektatraduko:
-    - Ĉu: Ĉu
-    - vi: (zaimek vi)
-    - planas: načrtujete
-    - veturi: to travel
-    - al: v
-    - Parizo: Paris
-    - per: z
-    - aŭto: avtom
-    - aŭ: ali
-    - ĉu: da
-    - ne: not
-    - ŝajnas: se zdi
-    - multe: much
-    - pli: bolje
-    - bone: bolje
-    - per: z
-    - vagonaro: vlakom
-    - '?'
+  - Ĉu: Ĉu
+  - vi: (zaimek vi)
+  - planas: načrtujete
+  - veturi: to travel
+  - al: v
+  - Italio: Italija
+  - per: z
+  - aŭto: avtom
+  - aŭ: ali
+  - ĉu: da
+  - ne: not
+  - ŝajnas: se zdi
+  - multe: much
+  - pli: bolje
+  - bone: bolje
+  - per: z
+  - vagonaro: vlakom
+  - '?'
 - demando: Zakaj iste ideje različni ljudje pojasnjujejo na različne načine?
   rektatraduko:
-    - Kial: Zakaj
-    - samajn: enake
-    - ideojn: ideje
-    - diversaj: različni
-    - homoj: ljudje
-    - klarigas: pojasnjujejo
-    - diversmaniere: na različne načine
-    - '?'
+  - Kial: Zakaj
+  - diversaj: različni
+  - homoj: ljudje
+  - klarigas: pojasnjujejo
+  - samajn: enake
+  - ideojn: ideje
+  - diversmaniere: na različne načine
+  - '?'

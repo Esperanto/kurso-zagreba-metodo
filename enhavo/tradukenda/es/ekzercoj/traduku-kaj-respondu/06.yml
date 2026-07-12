@@ -1,11 +1,10 @@
-- 
-  demando: ¿Deseas que te muestre mi libro más reciente?
-  rektatraduko: 
+- demando: ¿Deseas que te muestre mi libro más reciente?
+  rektatraduko:
     - Ĉu: Acaso
     - vi: Tú
     - deziras: deseas
-    - ',' 
-    - ke: que 
+    - ','
+    - ke: que
     - mi: yo
     - montru: muestre
     - al: a
@@ -15,22 +14,20 @@
     - novan: nuevo
     - libron: libro
     - '?'
-- 
-  demando: ¿Qué quieres desayunar mañana?
-  rektatraduko: 
+- demando: ¿Qué quieres desayunar mañana?
+  rektatraduko:
     - Kion: Qué
     - vi: tú
     - volas: quieres
-    - matenmanĝi: desayunar
     - morgaŭ: mañana
+    - matenmanĝi: desayunar
     - '?'
-- 
-  demando: ¿Cuándo llega Marko, a las cinco o a las ocho?
-  rektatraduko: 
+- demando: ¿Cuándo llega Marko, a las cinco o a las ocho?
+  rektatraduko:
     - Kiam: Cuándo
     - Marko: Marko
     - alvenos: llegará
-    - ',' 
+    - ','
     - je: a
     - la: la
     - kvina: quinta
@@ -40,13 +37,12 @@
     - oka: octava
     - horo: hora
     - '?'
-- 
-  demando: ¿Cuándo te diste cuenta de que la familia entera me llama benefactor?
-  rektatraduko: 
+- demando: ¿Cuándo te diste cuenta de que la familia entera me llama benefactor?
+  rektatraduko:
     - Kiam: Cuándo
     - vi: tú
     - rimarkis: notaste
-    - ','  
+    - ','
     - ke: que
     - la: la
     - tuta: entera
@@ -55,18 +51,18 @@
     - min: a mí
     - bonfarulo: benefactor
     - '?'
-- 
-  demando: ¿Era útil el librito que te envié?
-  rektatraduko: 
+- demando: ¿Era útil el librito que te envié?
+  rektatraduko:
     - Ĉu: Acaso
-    - estis: Era
-    - utila: útil
-    - la: el 
+    - la: el
     - libreto: librito
-    - ',' 
+    - ','
     - kiun: que
     - mi: yo
     - sendis: envié
     - al: a
     - vi: ti
+    - ','
+    - estis: Era
+    - utila: útil
     - '?'

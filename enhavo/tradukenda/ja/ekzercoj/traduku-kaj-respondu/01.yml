@@ -1,26 +1,23 @@
-- 
-  demando: あなたのガールフレンドは誰ですか？
+- demando: あなたのガールフレンドは誰ですか？
   rektatraduko:
     - Kiu: 誰
     - estas: ～です
     - via: あなたの
     - amikino: ガールフレンド
     - '?'
-- 
-  demando: あなたの友達のアンナさんは今、部屋で書き物をしていますか？
+- demando: あなたの友達のアナさんは今、部屋で書き物をしていますか？
   rektatraduko:
     - Ĉu: ～か？
     - via: あなたの
     - amikino: 友達
-    - Anna: アンナ
+    - Ana: アナ
     - skribas: 書く
     - nun: 今
     - en: ～の中
     - la: (定冠詞)
     - ĉambro: 部屋
     - '?'
-- 
-  demando: あなたの父親の友達はホテルで働いていますか？
+- demando: あなたの父親の友達はホテルで働いていますか？
   rektatraduko:
     - Ĉu: ～か？
     - la: (定冠詞)
@@ -32,10 +29,9 @@
     - en: ～の中
     - hotelo: ホテル
     - '?'
-- 
-  demando: 私達の部屋にある作業机の上には何がありますか？
+- demando: 私達の部屋にある作業机の上には何がありますか？
   rektatraduko:
-    - Kio: 何 
+    - Kio: 何
     - estas: あります
     - sur: 上
     - la: (定冠詞)
@@ -44,14 +40,12 @@
     - nia: 私達の
     - ĉambro: 部屋
     - '?'
-- 
-  demando: あなたの机の上にエスペラントの教科書がありますか？
+- demando: あなたの机の上にエスペラントの教科書がありますか？
   rektatraduko:
     - Ĉu: ～か？
     - Esperanto-lernolibro: エスペラントの教科書
     - estas: あります
     - sur: 上
-    - via: あなたの 
+    - via: あなたの
     - tablo: 机
     - '?'
-

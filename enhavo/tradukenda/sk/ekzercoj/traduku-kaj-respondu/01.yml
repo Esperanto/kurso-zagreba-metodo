@@ -1,26 +1,23 @@
-- 
-  demando: Kto je tvoja priateľka?
+- demando: Kto je tvoja priateľka?
   rektatraduko:
     - Kiu: Kto
     - estas: je
     - via: tvoja
     - amikino: priateľka
     - '?'
-- 
-  demando: Píše tvoja priateľka Anna teraz v izbe?
+- demando: Píše tvoja priateľka Ana teraz v izbe?
   rektatraduko:
     - Ĉu: Či
     - via: tvoja
     - amikino: priateľka
-    - Anna: Anna
+    - Ana: Ana
     - skribas: píše
     - nun: teraz
     - en: v
     - la: (určitý člen)
     - ĉambro: izbe
     - '?'
-- 
-  demando: Pracuje priateľ tvojho otca v hoteli?
+- demando: Pracuje priateľ tvojho otca v hoteli?
   rektatraduko:
     - Ĉu: Či
     - la: (určitý člen)
@@ -32,8 +29,7 @@
     - en: v
     - hotelo: hoteli
     - '?'
-- 
-  demando: Čo je na pracovnom stole v našej izbe?
+- demando: Čo je na pracovnom stole v našej izbe?
   rektatraduko:
     - Kio: Čo
     - estas: je
@@ -44,8 +40,7 @@
     - nia: našej
     - ĉambro: izbe
     - '?'
-- 
-  demando: Je na tvojom stole esperantská učebnica?
+- demando: Je na tvojom stole esperantská učebnica?
   rektatraduko:
     - Ĉu: Či
     - Esperanto-lernolibro: esperantská učebnica
@@ -54,4 +49,3 @@
     - via: tvojom
     - tablo: stole
     - '?'
-

@@ -1,75 +1,70 @@
-- 
-  demando: Minek örülnének legjobban a szüleid?
-  rektatraduko: 
-    - Kio: Mi
-    - povus: tudná
-    - plej: leg
-    - ĝojigi: vidámítani
-    - viajn: tieidet
-    - gepatrojn: szülőket
-    - '?'
-- 
-  demando: Ha legalább tanulás után mennél velem a városközpontba!
-  rektatraduko: 
-    - Se: Ha
-    - almenaŭ: legalább
-    - vi: te
-    - post: után
-    - la: a
-    - lernado: tanulás
-    - irus: mennél
-    - kun: -val/vel
-    - mi: én
-    - en: -ban/ben
-    - la: a
-    - urbocentron: városközpontot
-    - '!'
-- 
-  demando: Hová szeretnél utazni, ha elegendő időd és pénzed lenne?
-  rektatraduko: 
-    - Kien: Hová
-    - vi: te
-    - dezirus: szeretnél
-    - vojaĝi: utazni
-    - ',' 
-    - se: ha
-    - vi: te
-    - havus: lenne
-    - sufiĉe: elegendő
-    - da: -nyi
-    - mono: pénz
-    - kaj: és
-    - tempo: idő
-    - '?'
-- 
-  demando: Autóval szándékozol Párizsba utazni vagy nem tűnik-e sokkal jobbnak vonattal?
-  rektatraduko: 
-    - Ĉu: Vajon
-    - vi: te
-    - planas: tervez
-    - veturi: utazni
-    - al: -hoz/hez/höz
-    - Parizo: Párizs
-    - per: -val/vel
-    - aŭto: autó
-    - aŭ: vagy
-    - ĉu: vajon
-    - ne: nem
-    - ŝajnas: tűnik
-    - multe: sokat
-    - pli: -bb
-    - bone: jól
-    - per: -val/vel
-    - vagonaro: vonat
-    - '?'
-- 
-  demando: Miért magyarázzák különböző emberek ugyanazokat az eszméket másképpen?
-  rektatraduko: 
-    - Kial: Miért
-    - diversaj: különböző
-    - homoj: emberek
-    - klarigas: magyaráz
-    - samajn: ugyanazokat
-    - ideojn: eszméket
-    - diversmaniere: különbözőképpen 
-    - '?'
+- demando: Minek örülnének legjobban a szüleid?
+  rektatraduko:
+  - Kio: Mi
+  - povus: tudná
+  - plej: leg
+  - ĝojigi: vidámítani
+  - viajn: tieidet
+  - gepatrojn: szülőket
+  - '?'
+- demando: Ha legalább tanulás után mennél velem a városba!
+  rektatraduko:
+  - Se: Ha
+  - almenaŭ: legalább
+  - vi: te
+  - post: után
+  - la: a
+  - lernado: tanulás
+  - irus: mennél
+  - kun: -val/vel
+  - mi: én
+  - en: -ban/ben
+  - la: a
+  - urbon: város
+  - '!'
+- demando: Hová szeretnél utazni, ha elegendő időd és pénzed lenne?
+  rektatraduko:
+  - Kien: Hová
+  - vi: te
+  - dezirus: szeretnél
+  - vojaĝi: utazni
+  - ','
+  - se: ha
+  - vi: te
+  - havus: lenne
+  - sufiĉe: elegendő
+  - da: -nyi
+  - mono: pénz
+  - kaj: és
+  - tempo: idő
+  - '?'
+- demando: Autóval szándékozol Olaszországba utazni vagy nem tűnik-e sokkal jobbnak vonattal?
+  rektatraduko:
+  - Ĉu: Vajon
+  - vi: te
+  - planas: tervez
+  - veturi: utazni
+  - al: -hoz/hez/höz
+  - Italio: olasz
+  - per: -val/vel
+  - aŭto: autó
+  - aŭ: vagy
+  - ĉu: vajon
+  - ne: nem
+  - ŝajnas: tűnik
+  - multe: sokat
+  - pli: -bb
+  - bone: jól
+  - per: -val/vel
+  - vagonaro: vonat
+  - '?'
+- demando: Miért magyarázzák különböző emberek ugyanazokat az eszméket másképpen?
+  rektatraduko:
+  - Kial: Miért
+  - diversaj: különböző
+  - homoj: emberek
+  - klarigas: magyaráz
+  - samajn: ugyanazokat
+  - ideojn: eszméket
+  - diversmaniere: különbözőképpen
+  - '?'

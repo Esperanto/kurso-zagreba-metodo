@@ -1,6 +1,5 @@
-- 
-  demando: Чи ви можете захопити ліки моєї сестри ?
-  rektatraduko: 
+- demando: Чи ви можете захопити ліки моєї сестри ?
+  rektatraduko:
     - Ĉu: Чи
     - vi: ви
     - povas: можете
@@ -11,27 +10,24 @@
     - mia: моєї
     - fratino: сестри
     - '?'
-- 
-  demando: Коли ти купив той музичний інструмент ?
-  rektatraduko: 
+- demando: Коли ти купив той музичний інструмент ?
+  rektatraduko:
     - Kiam: Коли
     - vi: ти
     - aĉetis: купив
     - tiun: той
     - muzikilon: музичний інструмент
     - '?'
-- 
-  demando: Хто востаннє використовував мій ключ ?
-  rektatraduko: 
+- demando: Хто востаннє використовував мій ключ ?
+  rektatraduko:
     - Kiu: Хто
     - laste: востаннє
     - uzis: використовував
     - mian: мій
     - ŝlosilon: ключ
     - '?'
-- 
-  demando: Чи ви у Венеції їхали також за допомогою гондоли (гондолою) ?
-  rektatraduko: 
+- demando: Чи ви у Венеції їхали також за допомогою гондоли (гондолою) ?
+  rektatraduko:
     - Ĉu: Чи
     - vi: ви
     - en: у
@@ -41,14 +37,13 @@
     - per: за допомогою
     - gondolo: гондоли
     - '?'
-- 
-  demando: "Чи ти могтимеш заснути, коли замовкли ?"
-  rektatraduko: 
+- demando: Чи ти могтимеш заснути, коли замовкли ?
+  rektatraduko:
     - Ĉu: Чи
     - vi: ти
     - povos: могтимеш
-    - ekdormi: "заснути"
-    - ',' 
-    - kiam: коли 
-    - silentiĝis: "замовкли"
+    - ekdormi: заснути
+    - ','
+    - kiam: коли
+    - silentiĝos: замовкли
     - '?'

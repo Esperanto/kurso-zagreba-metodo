@@ -1,15 +1,13 @@
--
-  demando: Cathain a chífead arís thú? 
-  rektatraduko: 
+- demando: Cathain a chífead arís thú?
+  rektatraduko:
     - Kiam: Cathain
-    - mi: mé  
+    - mi: mé
     - revidos: chífidh arís
     - vin: tú
     - '?'
--
-  demando: Cé chomh fada atá an teanga idirnáisiúnta á foghlaim agat? 
-  rektatraduko: 
-    - Kiel: Cé chomh
+- demando: Cé chomh fada atá an teanga idirnáisiúnta á foghlaim agat?
+  rektatraduko:
+    - Kiom: cé mhéad
     - longe: fada
     - vi: tú
     - lernas: foghlaim
@@ -17,9 +15,8 @@
     - Internacian: idirnáisiúnta
     - Lingvon: teanga
     - '?'
--
-  demando: Cá bhfuil mo leabhar nua leis na grianghraif?  
-  rektatraduko: 
+- demando: Cá bhfuil mo leabhar nua leis na grianghraif?
+  rektatraduko:
     - Kie: Cá
     - estas: bhfuil
     - mia: mo
@@ -28,9 +25,8 @@
     - kun: le
     - fotoj: grianghraif
     - '?'
--
-  demando: Cá raghair tar éis an lóin? 
-  rektatraduko: 
+- demando: Cá raghair tar éis an lóin?
+  rektatraduko:
     - Kien: Cá
     - vi: tú
     - iros: raghaidh
@@ -38,16 +34,15 @@
     - la: an
     - tagmanĝo: lón
     - '?'
--
-  demando: An féidir doras an tseomra a dhúnadh nuair a bhíonn sé fuar?
-  rektatraduko: 
+- demando: An féidir doras an tseomra a dhúnadh nuair a bhíonn sé fuar?
+  rektatraduko:
     - Ĉu: An
     - oni: duine
-    - povas: féidir 
+    - povas: féidir
     - fermi: dúnadh
     - la: an
     - pordon: doras
-    - de: de 
+    - de: de
     - la: an
     - ĉambro: seomra
     - ','
@@ -55,13 +50,12 @@
     - estas: bíonn
     - malvarme: fuar
     - '?'
--
-  demando: Cé chomh fada a bhíonn fearg ort má thógann daoine a lán airgid uait? 
-  rektatraduko: 
-    - Kiel: Cé chomh
+- demando: Cé chomh fada a bhíonn fearg ort má thógann daoine a lán airgid uait?
+  rektatraduko:
+    - Kiom: cé mhéad
     - longe: fada
     - vi: tú
-    - koleras: fearg 
+    - koleras: fearg
     - ','
     - se: má
     - oni: duine/daoine

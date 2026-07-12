@@ -1,18 +1,16 @@
-- 
-  demando: Udělá tě přátelství šťastnějším než láska?
-  rektatraduko: 
+- demando: Udělá tě přátelství šťastnějším než láska?
+  rektatraduko:
     - Ĉu: Zda
     - amikeco: přátelství
     - pli: víc (2. stupeň přídavných jmen)
     - feliĉigas: dělá šťastným
     - vin: tebe
     - ol: než
-    - la: (člen určitý) 
+    - la: (člen určitý)
     - amo: láska
     - '?'
-- 
-  demando: Jak často píšeš dopisy svým přítelkyním v Itálii?
-  rektatraduko: 
+- demando: Jak často píšeš dopisy svým přítelkyním v Itálii?
+  rektatraduko:
     - Kiel: Jak
     - ofte: často
     - vi: ty
@@ -24,22 +22,20 @@
     - en: v
     - Italio: Itálii
     - '?'
-- 
-  demando: Změnil se vztah mezi tebou a tvým učitelem?
-  rektatraduko: 
+- demando: Změnil se vztah mezi tebou a tvým učitelem?
+  rektatraduko:
     - Ĉu: Zda
-    - ŝanĝiĝis: změnil se
-    - la: (člen určitý) 
+    - la: (člen určitý)
     - rilato: vztah
     - inter: mezi
     - vi: ty
     - kaj: a
     - via: tvůj
     - instruisto: učitel
+    - ŝanĝiĝis: změnil se
     - '?'
-- 
-  demando: Znáš již nyní esperanto dostatečně dobře?
-  rektatraduko: 
+- demando: Znáš již nyní esperanto dostatečně dobře?
+  rektatraduko:
     - Ĉu: Zda
     - vi: ty
     - nun: nyní

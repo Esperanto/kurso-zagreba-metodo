@@ -1,15 +1,13 @@
-- 
-  demando: Πώς ήταν το παλιό σου σπίτι;
-  rektatraduko: 
+- demando: Πώς ήταν το παλιό σου σπίτι;
+  rektatraduko:
     - Kia: Πώς
     - estis: ήταν
     - via: το δικό σου
     - malnova: παλιό
-    - hejmo: σπίτι 
+    - hejmo: σπίτι
     - '?'
-- 
-  demando: Ποια βιβλία διάβασες και ήταν καλά;
-  rektatraduko: 
+- demando: Ποια βιβλία διάβασες και ήταν καλά;
+  rektatraduko:
     - Kiujn: Ποια
     - librojn: βιβλία
     - vi: εσύ
@@ -18,26 +16,24 @@
     - ĉu: μήπως
     - ili: αυτά
     - estas: ήταν
-    - bonaj: καλά 
+    - bonaj: καλά
     - '?'
-- 
-  demando: Τι έκαναν η Άννα και ο Μάρκος μέσα στο μικρό δωμάτιο του Μάρκου;
+- demando: Τι έκαναν Άννα και ο Μάρκος μέσα στο μικρό δωμάτιο του Μάρκου;
   rektatraduko:
     - Kion: Τι
     - faris: έκαναν
-    - Anna: η Άννα
+    - Ana: Άννα
     - kaj: και
     - Marko: ο Μάρκος
-    - en: μέσα 
+    - en: μέσα
     - la: στο
     - malgranda: μικρό
     - ĉambro: δωμάτιο
     - de: του
     - Marko: Μάρκου
     - '?'
-- 
-  demando: Σου αρέσει να διαβάζεις βιβλία σχετικά με την αγάπη; 
-  rektatraduko: 
+- demando: Σου αρέσει να διαβάζεις βιβλία σχετικά με την αγάπη;
+  rektatraduko:
     - Ĉu: Μήπως
     - vi: σου
     - ŝatas: αρέσει
@@ -46,20 +42,18 @@
     - pri: σχετικά με
     - amo: αγάπη
     - '?'
-- 
-  demando: Ποιος θα πάει μαζί σου στο σπίτι σου;
-  rektatraduko: 
+- demando: Ποιος θα πάει μαζί σου στο σπίτι σου;
+  rektatraduko:
     - Kiu: Ποιος
     - iros: θα πάει
     - kun: μαζί
     - vi: σου
-    - al: στο 
+    - al: στο
     - via: δικό σου
     - hejmo: σπίτι
     - '?'
-- 
-  demando: Πώς είναι τα μάτια της φίλης σου;
-  rektatraduko: 
+- demando: Πώς είναι τα μάτια της φίλης σου;
+  rektatraduko:
     - Kiaj: Πως
     - estas: είναι
     - la: τα

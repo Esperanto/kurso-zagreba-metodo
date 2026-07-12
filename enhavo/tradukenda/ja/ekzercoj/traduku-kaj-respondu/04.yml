@@ -1,25 +1,22 @@
--
-  demando: 私はいつあなたに会えますか？
-  rektatraduko: 
+- demando: 私はいつあなたに会えますか？
+  rektatraduko:
     - Kiam: いつ
-    - mi: 私は  
+    - mi: 私は
     - revidos: 再び会うだろう
     - vin: あなたに
     - '?'
--
-  demando: あなたはどれくらい長く国際語を学んでいますか？
-  rektatraduko: 
-    - Kiel: どのように
+- demando: あなたはどれくらい長く国際語を学んでいますか？
+  rektatraduko:
+    - Kiom: どれくらい
     - longe: 長く
     - vi: あなたは
     - lernas: 学んでいます
-    - la: （定冠詞） 
+    - la: （定冠詞）
     - Internacian: 国際的な
     - Lingvon: 言語を
     - '?'
--
-  demando: 私の写真入りの新しい本はどこにありますか？
-  rektatraduko: 
+- demando: 私の写真入りの新しい本はどこにありますか？
+  rektatraduko:
     - Kie: どこに
     - estas: ある
     - mia: 私の
@@ -28,9 +25,8 @@
     - kun: ～と一緒の
     - fotoj: 写真（複数）
     - '?'
--
-  demando: あなたは昼食の後どこへ行きますか？
-  rektatraduko: 
+- demando: あなたは昼食の後どこへ行きますか？
+  rektatraduko:
     - Kien: どこへ
     - vi: あなたは
     - iros: 行くだろう
@@ -38,16 +34,15 @@
     - la: （定冠詞）
     - tagmanĝo: 昼食
     - '?'
--
-  demando: 寒いときは部屋のドアを閉めることができますか？
-  rektatraduko: 
+- demando: 寒いときは部屋のドアを閉めることができますか？
+  rektatraduko:
     - Ĉu: ～か？
     - oni: ひとは（不特定）
-    - povas: できる 
+    - povas: できる
     - fermi: 閉める
     - la: （定冠詞）
     - pordon: ドアを
-    - de: ～の 
+    - de: ～の
     - la: （定冠詞）
     - ĉambro: 部屋
     - ','
@@ -55,10 +50,9 @@
     - estas: である
     - malvarme: 寒い
     - '?'
--
-  demando: もし人があなたからたくさんのお金を奪い取ったら、あなたはどれくらい長く怒っていますか？?
-  rektatraduko: 
-    - Kiel: どのように
+- demando: もし人があなたからたくさんのお金を奪い取ったら、あなたはどれくらい長く怒っていますか？?
+  rektatraduko:
+    - Kiom: どれくらい
     - longe: 長く
     - vi: あなたは
     - koleras: 怒っている

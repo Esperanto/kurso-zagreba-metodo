@@ -1,20 +1,18 @@
-- 
-  demando: Kommer vi att ses igen, oavsett var och oavsett när?
-  rektatraduko: 
+- demando: Kommer vi att ses igen, oavsett var och oavsett när?
+  rektatraduko:
     - Ĉu: (Frågepartikeln)
     - ni: vi
     - revidos: kommer att återse
     - nin: oss
-    - ',' 
+    - ','
     - kie: var
     - ajn: som helst
     - kaj: och
-    - kiam: när 
+    - kiam: när
     - ajn: som helst
     - '?'
-- 
-  demando: När kommer jag få tillbaka den andra hälften av böckerna?
-  rektatraduko: 
+- demando: När kommer jag få tillbaka den andra hälften av böckerna?
+  rektatraduko:
     - Kiam: När
     - mi: jag
     - rericevos: kommer att få tillbaka
@@ -25,9 +23,8 @@
     - la: (bestämd artikel)
     - libroj: böcker
     - '?'
-- 
-  demando: Kommer du behöva mer än ett fjärdedels år för de där jobben?
-  rektatraduko: 
+- demando: Kommer du behöva mer än ett fjärdedels år för de där jobben?
+  rektatraduko:
     - Ĉu: (Frågepartikeln)
     - vi: du
     - bezonos: kommer att behöva
@@ -39,24 +36,22 @@
     - tiuj: de där
     - laboroj: jobb
     - '?'
-- 
-  demando: Varför är det kallare ju längre vi väntar?
-  rektatraduko: 
+- demando: Varför är det kallare ju längre vi väntar?
+  rektatraduko:
     - Kial: Varför
-    - estas: är
-    - des: desto
-    - pli: mer
-    - malvarma: kallare
-    - ',' 
     - ju: ju
     - pli: mer
     - longe: länge
     - ni: vi
     - atendas: väntar
+    - ','
+    - des: desto
+    - pli: mer
+    - malvarme: kallare
+    - estas: är
     - '?'
-- 
-  demando: Skulle du vara nöjd med vilken man som helst?
-  rektatraduko: 
+- demando: Skulle du vara nöjd med vilken man som helst?
+  rektatraduko:
     - Ĉu: (Frågepartikeln)
     - vi: du
     - estus: skulle vara

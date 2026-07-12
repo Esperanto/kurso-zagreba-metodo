@@ -7,7 +7,7 @@
   - viajn: tavus
   - gepatrojn: vecākus
   - '?'
-- demando: Kaut tu pēc mācībām gribētu iet ar mani uz pilsētas centru!
+- demando: Kaut tu pēc mācībām gribētu iet ar mani uz pilsētu!
   rektatraduko:
   - Se: Ja
   - almenaŭ: vismaz
@@ -20,7 +20,7 @@
   - mi: mani
   - en: iekšā
   - la: tas
-  - urbocentron: pilsētas centru
+  - urbon: pilsēta
   - '!'
 - demando: Uz kurieni tu vēlētos ceļot, ja tev būtu pietiekami daudz naudas un laika?
   rektatraduko:
@@ -33,7 +33,7 @@
   - vi: tu
   - havus: būtu
   - sufiĉe: pietiekami
-  - da: "no"
+  - da: 'no'
   - mono: nauda
   - kaj: un
   - tempo: laiks
@@ -45,7 +45,7 @@
   - planas: plāno
   - veturi: braukt
   - al: uz
-  - Parizo: Parīze
+  - Italio: Itālija
   - per: ar
   - aŭto: auto
   - aŭ: vai

@@ -1,15 +1,13 @@
-- 
-  demando: Ngôi nhà cũ của cậu đã từng là loại gì vậy?
-  rektatraduko: 
+- demando: Ngôi nhà cũ của cậu đã từng là loại gì vậy?
+  rektatraduko:
     - Kia: Loại gì
     - estis: đã từng
     - via: của cậu
     - malnova: cũ
-    - hejmo: ngôi nhà 
+    - hejmo: ngôi nhà
     - '?'
-- 
-  demando: Cậu đã đọc những quyển sách nào, và chúng có hay không?
-  rektatraduko: 
+- demando: Cậu đã đọc những quyển sách nào, và chúng có hay không?
+  rektatraduko:
     - Kiujn: Những cái nào
     - librojn: những quyển sách
     - vi: cậu
@@ -20,12 +18,11 @@
     - estas: (thì là)
     - bonaj: hay
     - '?'
-- 
-  demando: Anna và Mark đã làm gì ở trong căn phòng nhỏ của Mark vậy?
+- demando: Ana và Mark đã làm gì ở trong căn phòng nhỏ của Mark vậy?
   rektatraduko:
     - Kion: Cái gì
     - faris: đã làm
-    - Anna: Anna
+    - Ana: Ana
     - kaj: và
     - Marko: Mark
     - en: ở trong
@@ -35,9 +32,8 @@
     - de: của
     - Marko: Mark
     - '?'
-- 
-  demando: Cậu thích đọc những quyển sách về tình yêu phải không?
-  rektatraduko: 
+- demando: Cậu thích đọc những quyển sách về tình yêu phải không?
+  rektatraduko:
     - Ĉu: Phải không
     - vi: cậu
     - ŝatas: thích
@@ -46,9 +42,8 @@
     - pri: về
     - amo: tình yêu
     - '?'
-- 
-  demando: Ai sẽ đi cùng cậu tới nhà của cậu?
-  rektatraduko: 
+- demando: Ai sẽ đi cùng cậu tới nhà của cậu?
+  rektatraduko:
     - Kiu: Ai
     - iros: sẽ đi
     - kun: cùng
@@ -57,9 +52,8 @@
     - via: của cậu
     - hejmo: nhà
     - '?'
-- 
-  demando: Đôi mắt của cô bạn của cậu thì như thế nào?
-  rektatraduko: 
+- demando: Đôi mắt của cô bạn của cậu thì như thế nào?
+  rektatraduko:
     - Kiaj: Như thế nào
     - estas: thì
     - la: (mạo từ xác định)

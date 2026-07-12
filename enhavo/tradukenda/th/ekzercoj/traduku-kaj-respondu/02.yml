@@ -1,15 +1,13 @@
-- 
-  demando: บ้านหลังเก่าของคุณเป็นอย่างไร
-  rektatraduko: 
+- demando: บ้านหลังเก่าของคุณเป็นอย่างไร
+  rektatraduko:
     - Kia: ลักษณะอย่างไร
     - estis: เป็น
     - via: ของคุณ
     - malnova: เก่า
-    - hejmo: บ้าน 
+    - hejmo: บ้าน
     - '?'
-- 
-  demando: คุณอ่านหนังสือเล่มไหนบ้างและพวกมันดีไหม
-  rektatraduko: 
+- demando: คุณอ่านหนังสือเล่มไหนบ้างและพวกมันดีไหม
+  rektatraduko:
     - Kiujn: เล่มไหน
     - librojn: หนังสือ
     - vi: คุณ
@@ -18,26 +16,24 @@
     - ĉu: ไหม
     - ili: พวกมัน
     - estas: เป็น
-    - bonaj: ดี 
+    - bonaj: ดี
     - '?'
-- 
-  demando: "มาร์กและอันนาทำอะไรกันอยู่ในห้องเล็ก ๆ ของมาร์ก"
+- demando: มาร์กและอานาทำอะไรกันอยู่ในห้องเล็ก ๆ ของมาร์ก
   rektatraduko:
     - Kion: อะไร
     - faris: ทำ
-    - Anna: อันนา
+    - Ana: อานา
     - kaj: และ
     - Marko: มาร์ก
-    - en: ใน 
+    - en: ใน
     - la: คำนำหน้านาม
     - malgranda: เล็ก
     - ĉambro: ห้อง
     - de: ของ
     - Marko: มาร์ก
     - '?'
-- 
-  demando: คุณชอบอ่านหนังสือเกี่ยวกับความรักไหม
-  rektatraduko: 
+- demando: คุณชอบอ่านหนังสือเกี่ยวกับความรักไหม
+  rektatraduko:
     - Ĉu: ไหม
     - vi: คุณ
     - ŝatas: ชอบ
@@ -46,20 +42,18 @@
     - pri: เกี่ยวกับ
     - amo: ความรัก
     - '?'
-- 
-  demando: ใครจะไปบ้านของคุณกับคุณ
-  rektatraduko: 
+- demando: ใครจะไปบ้านของคุณกับคุณ
+  rektatraduko:
     - Kiu: ใคร
     - iros: จะไป
     - kun: กับ
     - vi: คุณ
-    - al: ไปยัง 
+    - al: ไปยัง
     - via: ของคุณ
     - hejmo: บ้าน
     - '?'
-- 
-  demando: "ดวงตาของเพื่อนผู้หญิงของคุณเป็นอย่างไร"
-  rektatraduko: 
+- demando: ดวงตาของเพื่อนผู้หญิงของคุณเป็นอย่างไร
+  rektatraduko:
     - Kiaj: ลักษณะเป็นอย่างไร
     - estas: เป็น
     - la: คำนำหน้านาม

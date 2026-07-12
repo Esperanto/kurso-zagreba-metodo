@@ -1,70 +1,70 @@
 - demando: Čo by mohlo najviac potešiť tvojich rodičov?
   rektatraduko:
-    - Kio: Čo
-    - povus: by mohlo
-    - plej: najviac (3. stupeň)
-    - ĝojigi: potešiť
-    - viajn: tvojich
-    - gepatrojn: rodičov
-    - '?'
-- demando: Keby si aspoň ty išiel so mnou po vyučovaní do centra mesta!
+  - Kio: Čo
+  - povus: by mohlo
+  - plej: najviac (3. stupeň)
+  - ĝojigi: potešiť
+  - viajn: tvojich
+  - gepatrojn: rodičov
+  - '?'
+- demando: Keby si aspoň ty išiel so mnou po vyučovaní do mesta!
   rektatraduko:
-    - Se: Keby
-    - almenaŭ: aspoň
-    - vi: ty
-    - post: po
-    - la: (člen určitý)
-    - lernado: učenie
-    - irus: by si išiel
-    - kun: s
-    - mi: ja
-    - en: do
-    - la: (člen určitý)
-    - urbocentron: centrum mesta
-    - '!'
+  - Se: Keby
+  - almenaŭ: aspoň
+  - vi: ty
+  - post: po
+  - la: (člen určitý)
+  - lernado: učenie
+  - irus: by si išiel
+  - kun: s
+  - mi: ja
+  - en: do
+  - la: (člen určitý)
+  - urbon: mesto
+  - '!'
 - demando: Kam by si si želal cestovať, keby si mal dostatok peňazí a času?
   rektatraduko:
-    - Kien: Kam
-    - vi: ty
-    - dezirus: by si si želal
-    - vojaĝi: cestovať
-    - ','
-    - se: keby
-    - vi: ty
-    - havus: si mal
-    - sufiĉe: dostatok
-    - da: (predložka množstva)
-    - mono: peniaze
-    - kaj: a
-    - tempo: čas
-    - '?'
-- demando: Plánuješ cestovať do Paríža autom alebo to nevyzerá oveľa lepšie vlakom?
+  - Kien: Kam
+  - vi: ty
+  - dezirus: by si si želal
+  - vojaĝi: cestovať
+  - ','
+  - se: keby
+  - vi: ty
+  - havus: si mal
+  - sufiĉe: dostatok
+  - da: (predložka množstva)
+  - mono: peniaze
+  - kaj: a
+  - tempo: čas
+  - '?'
+- demando: Plánuješ cestovať do Talianska autom alebo to nevyzerá oveľa lepšie vlakom?
   rektatraduko:
-    - Ĉu: Či
-    - vi: ty
-    - planas: plánuješ
-    - veturi: cestovať
-    - al: do
-    - Parizo: Paríž
-    - per: s (predložka inštrumentálu)
-    - aŭto: auto
-    - aŭ: alebo
-    - ĉu: či
-    - ne: ne
-    - ŝajnas: vyzerá
-    - multe: veľa
-    - pli: viac (2. stupeň prídavného mena a príslovky)
-    - bone: dobrý
-    - per: s (predložka inštrumentálu)
-    - vagonaro: vlak
-    - '?'
+  - Ĉu: Či
+  - vi: ty
+  - planas: plánuješ
+  - veturi: cestovať
+  - al: do
+  - Italio: Taliansko
+  - per: s (predložka inštrumentálu)
+  - aŭto: auto
+  - aŭ: alebo
+  - ĉu: či
+  - ne: ne
+  - ŝajnas: vyzerá
+  - multe: veľa
+  - pli: viac (2. stupeň prídavného mena a príslovky)
+  - bone: dobrý
+  - per: s (predložka inštrumentálu)
+  - vagonaro: vlak
+  - '?'
 - demando: Prečo rôzni ľudia vysvetľujú rovnaké myšlienky rôzne?
   rektatraduko:
-    - Kial: Prečo
-    - diversaj: rôzni
-    - homoj: ľudia
-    - klarigas: vysvetľujú
-    - samajn: rovnaké
-    - ideojn: myšlienky
-    - diversmaniere: rôzne
-    - '?'
+  - Kial: Prečo
+  - diversaj: rôzni
+  - homoj: ľudia
+  - klarigas: vysvetľujú
+  - samajn: rovnaké
+  - ideojn: myšlienky
+  - diversmaniere: rôzne
+  - '?'

@@ -1,16 +1,14 @@
-- 
-  demando: خانه‌ی قدیمی شما چگونه بود؟
-  rektatraduko: 
+- demando: خانه‌ی قدیمی شما چگونه بود؟
+  rektatraduko:
     - Kia: چگونه
     - estis: بود
     - via: مال شما
     - malnova: قدیمی
-    - hejmo: خانه 
+    - hejmo: خانه
     - '?'
-- 
-  demando: شما چه کتاب‌هایی می‌خواندید، و آیا آن‌ها خوب هستند؟
-  rektatraduko: 
-    - Kiujn: چه 
+- demando: شما چه کتاب‌هایی می‌خواندید، و آیا آن‌ها خوب هستند؟
+  rektatraduko:
+    - Kiujn: چه
     - librojn: کتاب‌هایی
     - vi: شما
     - legis: می‌خواندید
@@ -18,26 +16,24 @@
     - ĉu: آیا
     - ili: آن‌ها
     - estas: هستند
-    - bonaj: خوب 
+    - bonaj: خوب
     - '?'
-- 
-  demando: "آنا و مارک در اتاق کوچک مارک چه می‌کردند؟"
+- demando: آنا و مارک در اتاق کوچک مارک چه می‌کردند؟
   rektatraduko:
     - Kion: چه
     - faris: می‌کردند
-    - Anna: آنا
+    - Ana: آنا
     - kaj: و
     - Marko: مارک
-    - en: در 
+    - en: در
     - la: حرف تعریف
     - malgranda: کوچک
     - ĉambro: اتاق
     - de: کسره (ـِ)
     - Marko: مارک
     - '?'
-- 
-  demando: آیا شما دوست دارید کتاب‌هایی درباره‌ی عشق بخوانید؟
-  rektatraduko: 
+- demando: آیا شما دوست دارید کتاب‌هایی درباره‌ی عشق بخوانید؟
+  rektatraduko:
     - Ĉu: آیا
     - vi: شما
     - ŝatas: دوست دارید
@@ -46,20 +42,18 @@
     - pri: درباره‌ی
     - amo: عشق
     - '?'
-- 
-  demando: چه کسی با شما به خانه‌ی شما خواهد رفت؟
-  rektatraduko: 
+- demando: چه کسی با شما به خانه‌ی شما خواهد رفت؟
+  rektatraduko:
     - Kiu: چه کسی
     - iros: خواهد رفت
     - kun: با
     - vi: شما
-    - al: به 
+    - al: به
     - via: مال شما
     - hejmo: خانه
     - '?'
-- 
-  demando: "چشم‌های دوست (مؤنث) شما چه شکلی هستند؟"
-  rektatraduko: 
+- demando: چشم‌های دوست (مؤنث) شما چه شکلی هستند؟
+  rektatraduko:
     - Kiaj: چگونه
     - estas: هستند
     - la: حرف تعریف

@@ -1,26 +1,23 @@
--
-  demando: Qanpa warmi masiykiqa pim?
+- demando: Qanpa warmi masiykiqa pim?
   rektatraduko:
     - Kiu: Pi
     - estas: kan
     - via: qanpa
     - amikino: warmi masi
     - '?'
--
-  demando: Qanpa warmi masiyki Anaqa kunan wasi ukhupi qillqachkanchu?
+- demando: Qanpa warmi masiyki Anaqa kunan wasi ukhupi qillqachkanchu?
   rektatraduko:
     - Ĉu: Chu
     - via: qanpa
     - amikino: warmi masi
-    - Anna: Ana
+    - Ana: Ana
     - skribas: qillqan
     - nun: kunan
     - en: ukhupi
     - la: riqsisqa
     - ĉambro: wasi ukhu
     - '?'
--
-  demando: Qanpa taytaykipa masinqa hotelpi llamk'anchu?
+- demando: Qanpa taytaykipa masinqa hotelpi llamk'anchu?
   rektatraduko:
     - Ĉu: Chu
     - la: riqsisqa
@@ -32,8 +29,7 @@
     - en: pi
     - hotelo: hotel
     - '?'
--
-  demando: Imataq ñuqanchikpa wasi ukhupi llamk'ana mesapi kachkan?
+- demando: Imataq ñuqanchikpa wasi ukhupi llamk'ana mesapi kachkan?
   rektatraduko:
     - Kio: Ima
     - estas: kan
@@ -44,8 +40,7 @@
     - nia: ñuqanchikpa
     - ĉambro: wasi ukhu
     - '?'
--
-  demando: Qanpa mesaykipi Esperanto yachay liwru kanchu?
+- demando: Qanpa mesaykipi Esperanto yachay liwru kanchu?
   rektatraduko:
     - Ĉu: Chu
     - Esperanto-lernolibro: Esperanto yachay liwru

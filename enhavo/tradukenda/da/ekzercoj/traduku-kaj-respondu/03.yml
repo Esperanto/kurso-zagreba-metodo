@@ -1,6 +1,5 @@
--
-  demando: Forstår tjenere i store hoteller mange sprog?
-  rektatraduko:  
+- demando: Forstår tjenere i store hoteller mange sprog?
+  rektatraduko:
     - Ĉu: Om
     - kelneroj: tjenere
     - en: i
@@ -10,15 +9,14 @@
     - multajn: mange
     - lingvojn: sprog
     - '?'
--
-  demando: Ved du om Anna kan lide den nye sang om en fattig og en smuk pige?
-  rektatraduko: 
+- demando: Ved du om Ana kan lide den nye sang om en fattig og en smuk pige?
+  rektatraduko:
     - Ĉu: Om
     - vi: du
     - scias: ved
     - ','
     - ĉu: om
-    - Anna: Anna 
+    - Ana: Ana
     - ŝatas: kan lide
     - la: (bestemt artikel)
     - novan: ny
@@ -28,8 +26,7 @@
     - kaj: og
     - belulino: en smuk pige
     - '?'
--
-  demando: Hvor så du den gamle og den unge, som bar et stort bord?
+- demando: Hvor så du den gamle og den unge, som bar et stort bord?
   rektatraduko:
     - Kie: Hvor
     - vi: du
@@ -45,9 +42,8 @@
     - grandan: stor
     - tablon: bord
     - '?'
--
-  demando: Hvordan skete det, at du endnu en gang kom til os uden søskende?
-  rektatraduko: 
+- demando: Hvordan skete det, at du endnu en gang kom til os uden søskende?
+  rektatraduko:
     - Kiel: Hvordan
     - okazis: skete det
     - ','
@@ -60,9 +56,8 @@
     - sen: uden
     - gefratoj: søskende
     - '?'
--
-  demando: Kan du lære esperanto rimeligt hurtigt med den nye lærebog?
-  rektatraduko: 
+- demando: Kan du lære esperanto rimeligt hurtigt med den nye lærebog?
+  rektatraduko:
     - Ĉu: Om
     - vi: du
     - povas: kan

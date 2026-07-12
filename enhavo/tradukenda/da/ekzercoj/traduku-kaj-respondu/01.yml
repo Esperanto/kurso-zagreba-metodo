@@ -1,26 +1,23 @@
-- 
-  demando: Hvem er din veninde?
+- demando: Hvem er din veninde?
   rektatraduko:
     - Kiu: Hvem
     - estas: er
     - via: din/dit
     - amikino: veninde
     - '?'
-- 
-  demando: Skriver din veninde Anna nu i rummet?
+- demando: Skriver din veninde Ana nu i rummet?
   rektatraduko:
     - Ĉu: Om
     - via: din/dit
     - amikino: veninde
-    - Anna: Anna
+    - Ana: Ana
     - skribas: skriver
     - nun: nu
     - en: i
     - la: (bestemt artikel)
     - ĉambro: værelse
     - '?'
-- 
-  demando: Arbejder din fars ven i et hotel?
+- demando: Arbejder din fars ven i et hotel?
   rektatraduko:
     - Ĉu: Om
     - la: (bestemt artikel)
@@ -32,8 +29,7 @@
     - en: i
     - hotelo: hotel
     - '?'
-- 
-  demando: Hvad er der på arbejdsbordet i vores værelse?
+- demando: Hvad er der på arbejdsbordet i vores værelse?
   rektatraduko:
     - Kio: Hvad
     - estas: er
@@ -44,8 +40,7 @@
     - nia: vores
     - ĉambro: værelse
     - '?'
-- 
-  demando: Er der en esperanto-lærebog på dit bord?
+- demando: Er der en esperanto-lærebog på dit bord?
   rektatraduko:
     - Ĉu: Om
     - Esperanto-lernolibro: esperanto-lærebog
@@ -54,4 +49,3 @@
     - via: din/dit
     - tablo: bord
     - '?'
-

@@ -39,16 +39,16 @@
 - demando: Proč je tím chladněji, čím déle čekáme?
   rektatraduko:
     - Kial: Proč
-    - estas: je
-    - des: tím
-    - pli: víc (2. stupeň přídavného jména)
-    - malvarma: chladně
-    - ','
     - ju: čím
-    - pli: víc (2. stupeň přídavného jména/ příslovce)
+    - pli: víc (2. stupeň přídavného jména)
     - longe: dlouze
     - ni: my
     - atendas: čekáme
+    - ','
+    - des: tím
+    - pli: víc (2. stupeň přídavného jména/ příslovce)
+    - malvarme: chladně
+    - estas: je
     - '?'
 - demando: Byla bys spokojená s jakýmkoliv mužem?
   rektatraduko:

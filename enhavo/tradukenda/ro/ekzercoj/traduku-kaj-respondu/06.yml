@@ -1,5 +1,4 @@
--
-  demando: Vrei să îți arăt cea mai nouă carte a mea?
+- demando: Vrei să îți arăt cea mai nouă carte a mea?
   rektatraduko:
     - Ĉu: oare
     - vi: tu
@@ -15,8 +14,7 @@
     - novan: nouă
     - libron: carte
     - '?'
--
-  demando: Ce vrei să mănânci mâine dimineață?
+- demando: Ce vrei să mănânci mâine dimineață?
   rektatraduko:
     - Kion: Ce
     - vi: tu
@@ -24,8 +22,7 @@
     - morgaŭ: mâine
     - matenmanĝi: să iei micul dejun
     - '?'
--
-  demando: Când va sosi Marko, la ora cinci sau la ora opt?
+- demando: Când va sosi Marko, la ora cinci sau la ora opt?
   rektatraduko:
     - Kiam: Când
     - Marko: Marko
@@ -40,8 +37,7 @@
     - oka: a opta
     - horo: oră
     - '?'
--
-  demando: Când ai observat că toată familia mă numește binefăcător?
+- demando: Când ai observat că toată familia mă numește binefăcător?
   rektatraduko:
     - Kiam: Când
     - vi: tu
@@ -55,18 +51,18 @@
     - min: pe mine
     - bonfarulo: binefăcător
     - '?'
--
-  demando: Ți-a fost utilă cărticica pe care ți-am trimis-o?
+- demando: Ți-a fost utilă cărticica pe care ți-am trimis-o?
   rektatraduko:
     - Ĉu: oare
     - la: (articol)
     - libreto: cărticică
-    - estis: a fost
-    - utila: utilă
-    - al: pentru
-    - vi: tine
     - ','
     - kiun: pe care
     - mi: eu
     - sendis: am trimis
+    - al: pentru
+    - vi: tine
+    - ','
+    - estis: a fost
+    - utila: utilă
     - '?'

@@ -18,7 +18,7 @@
   - estas: so
   - bonaj: dobre
   - '?'
-- demando: Kaj sta delala Ana in Marko v Markovi majhni sobi?
+- demando: Kaj sta delala Ana in Marko v majhni sobi pri Marko?
   rektatraduko:
   - Kion: Kaj
   - faris: sta delala
@@ -30,7 +30,7 @@
   - malgranda: mali
   - ĉambro: sobi
   - de: (predlog od)
-  - Marko: Markovi
+  - Marko: Marko
   - '?'
 - demando: Ali rad bereš knjige o ljubezni?
   rektatraduko:

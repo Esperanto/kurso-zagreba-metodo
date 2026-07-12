@@ -18,19 +18,19 @@
   - estas: sú
   - bonaj: dobré
   - '?'
-- demando: Čo robili Ana a Marek v malej izbe Marka?
+- demando: Čo robili Ana a Marko v malej izbe u Marko?
   rektatraduko:
   - Kion: Čo
   - faris: robili
   - Ana: Ana
   - kaj: a
-  - Marko: Marek
+  - Marko: Marko
   - en: v
   - la: (určitý člen)
   - malgranda: malej
   - ĉambro: izbe
   - de: od
-  - Marko: Marka
+  - Marko: Marko
   - '?'
 - demando: Máš rád čítanie kníh o láske?
   rektatraduko:

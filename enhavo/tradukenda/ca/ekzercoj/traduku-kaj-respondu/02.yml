@@ -18,19 +18,19 @@
   - estas: són
   - bonaj: bons
   - '?'
-- demando: Què van fer l'Ana i el Marc a la petita habitació del Marc?
+- demando: Què van fer l'Ana i en Marko a la petita habitació d'en Marko?
   rektatraduko:
   - Kion: Què
   - faris: van fer
   - Ana: Ana
   - kaj: i
-  - Marko: Marc
+  - Marko: Marko
   - en: a
   - la: la
   - malgranda: petita
   - ĉambro: habitació
   - de: del
-  - Marko: Marc
+  - Marko: Marko
   - '?'
 - demando: T'agrada llegir llibres d'amor?
   rektatraduko:

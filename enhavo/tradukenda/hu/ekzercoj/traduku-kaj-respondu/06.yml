@@ -22,10 +22,10 @@
   - morgaŭ: holnap
   - matenmanĝi: reggelizni
   - '?'
-- demando: Mikor érkezik Márk ót órakor vagy hat órakor?
+- demando: Mikor érkezik Marko, öt órakor vagy nyolc órakor?
   rektatraduko:
   - Kiam: Mikor
-  - Marko: Márk
+  - Marko: Marko
   - alvenos: fog érkezni
   - ','
   - je: -kor

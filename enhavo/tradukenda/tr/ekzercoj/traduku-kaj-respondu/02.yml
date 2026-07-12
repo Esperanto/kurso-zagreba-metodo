@@ -18,19 +18,19 @@
   - estas: -dir, -dirler
   - bonaj: iyi
   - '?'
-- demando: Ana ve Mark, Mark'ın küçük odasında ne yaptılar?
+- demando: Ana ve Marko, Marko'nun küçük odasında ne yaptılar?
   rektatraduko:
   - Kion: ne, neyi
   - faris: yaptı
   - Ana: Ana
   - kaj: ve
-  - Marko: Mark
+  - Marko: Marko
   - en: -de, -da
   - la: (belirleyici artikel)
   - malgranda: küçük
   - ĉambro: oda
   - de: -in
-  - Marko: Mark
+  - Marko: Marko
   - '?'
 - demando: Aşk hakkında kitaplar okumayı seviyor musun?
   rektatraduko:

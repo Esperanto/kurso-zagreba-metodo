@@ -1,4 +1,8 @@
 afer: ting
+ag:
+- agere
+- opføre
+- handle
 agrabl: behagelig
 akcept: akceptere
 akv: vand
@@ -8,6 +12,9 @@ am:
 - elske
 - kærlighed
 amik: ven
+aper:
+- dukke op
+- være til stede
 arb: træ
 aspekt:
 - se ud som
@@ -18,6 +25,7 @@ atend:
 atent: være opmærksom
 aĉet: købe
 aŭd: høre
+aŭskult: lytte
 aŭt: bil
 aŭtoritat: autoritet
 bedaŭr:
@@ -54,6 +62,7 @@ dik:
 dimanĉ: søndag
 dir: sige
 direkt: retning
+divers: divers
 doktor: doktor
 dolar: dollar
 dolor:
@@ -69,6 +78,7 @@ edz:
 - ægtemand
 efektiv: faktisk
 ekskurs: ekskursion
+ekzempl: eksempel
 esper: håbe
 est: være
 facil: nem
@@ -95,6 +105,7 @@ fot: foto
 frat: bror
 fru: tidlig
 fuŝ: sjuske
+glas: glas
 gondol: gondol
 graf: greve
 grand: stor
@@ -112,6 +123,8 @@ ide:
 - idé
 - ide
 industri: industri
+infan: barn
+inform: informere
 instru:
 - lære
 - undervise
@@ -125,6 +138,7 @@ jar: år
 jun: ung
 kaf: kaffe
 kalv: skaldet
+kant: synge
 kap: hoved
 kapabl:
 - i stand til
@@ -147,6 +161,7 @@ kolor: farve
 komenc: begynde
 kompren: forstå
 kon: kende
+konsent: være enig
 kontent: tilfreds
 kontrol:
 - kontrollere
@@ -154,6 +169,7 @@ kontrol:
 kor: hjerte
 korp: krop
 kost: koste
+kred: tro
 kri: skrige
 kuir:
 - tilberede mad
@@ -173,13 +189,16 @@ lern: lære
 leter: brev
 liber: fri
 libr: bog
+lingv: sprog
 lok: sted
 long: lang
+loĝ: bo
 lud: lege
 lum:
 - lys
 - lyse
 man: hånd
+manier: måde
 mank: mangle
 manĝ: spise
 mar: hav
@@ -194,6 +213,8 @@ mir:
 - blive forbavset
 moment: øjeblik
 mon: penge
+monat: måned
+mond: verden
 mont: bjerg
 montr: vise
 mort: dø
@@ -202,6 +223,7 @@ mov:
 - flytte
 mult: mange
 muzik: musik
+naci: nation
 nask: føde
 natur: natur
 neces:
@@ -219,6 +241,7 @@ onkl: onkel
 opini: holdning
 ord: orden
 orel: øre
+organiz: organisere
 pac: fred
 pag: betale
 pan: brød
@@ -243,21 +266,32 @@ plac: plads
 plan: planlægge
 plaĉ: behage
 plen: fuld
+plor: græde
+pluv: regne
 polic: politi
 pord: dør
 port: bære
 pov: kunne
+poŝ: lomme
+poŝt: post
 pren: tage
 pret: være klar
 prezent: præsentere
 problem: problem
 proksim: nær
+proksimum: cirka
 promen: slentre
 propon: foreslå
 prov: prøve
+publik: offentlig
+punkt:
+- punkt
+- pointe
+pur: ren
 rajt:
 - have ret
 - ret
+rakont: fortælle
 rapid: hurtig
 raport:
 - rapportere
@@ -271,6 +305,8 @@ rest: blive
 ricev: modtage
 rid: grine
 rigard: kigge på
+rilat: relatere
+rimark: bemærke
 riĉ: rig
 rol: rolle
 ruĝ: rød
@@ -278,6 +314,7 @@ salt: hoppe
 salut: hej
 sam: samme
 san: rask
+sat: mæt
 saĝ: vis
 sci: vide
 sek: tør
@@ -285,11 +322,14 @@ sekret: hemmelighed
 sekv: følge
 semajn: uge
 send: sende
+sent: føle
 serĉ: søge
+seĝ: stol
 si: sig
 sid: sidde
 silent: stille
 simil: lignende
+simpl: simpel
 sinjor:
 - herre
 - Hr
@@ -314,13 +354,16 @@ temp: tid
 temperatur: temperatur
 ten: hold
 teror: terror
+terur: frygtelig
 tim: frygt
 ton: tone
 trankvil: rolig
 trink: drikke
 trov: finde
 turk: tyrkisk
+tut: hel
 tuŝ: røre
+universal: universal
 urb: by
 util: brugbar
 uz: bruge

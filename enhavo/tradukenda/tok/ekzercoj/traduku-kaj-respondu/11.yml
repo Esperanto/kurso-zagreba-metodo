@@ -1,49 +1,49 @@
-- demando: Can you bring along my sister's medicine?
+- demando: sina ken ala ken jo poka e ilo pi pona sijelo pi jan sama meli mi?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - povas: can
-  - kunporti: bring along
-  - la: the
-  - sanigilon: medicine
-  - de: of
-  - mia: my
-  - fratino: sister
+  - Ĉu: anu seme
+  - vi: sina
+  - povas: li ken
+  - kunporti: jo poka e
+  - la: ni
+  - sanigilon: ilo pi pona sijelo
+  - de: pi
+  - mia: mi
+  - fratino: jan sama meli
   - '?'
-- demando: When did you buy that musical instrument?
+- demando: sina esun e ilo kalama ni lon tenpo seme?
   rektatraduko:
-  - Kiam: When
-  - vi: you
-  - aĉetis: did buy
-  - tiun: that
-  - muzikilon: musical instrument
+  - Kiam: tenpo seme
+  - vi: sina
+  - aĉetis: li esun e
+  - tiun: ni
+  - muzikilon: ilo kalama
   - '?'
-- demando: Who used my key the last time?
+- demando: jan seme li kepeken e ilo open mi lon tenpo pini nanpa wan?
   rektatraduko:
-  - Kiu: Who
-  - laste: last time
-  - uzis: used
-  - mian: my
-  - ŝlosilon: key
+  - Kiu: jan seme
+  - laste: lon tenpo pini nanpa wan
+  - uzis: li kepeken e
+  - mian: mi
+  - ŝlosilon: ilo open
   - '?'
-- demando: Did you travel in Venice also by gondola?
+- demando: lon ma tomo Venecio la sina tawa kin kepeken tomo telo Kondolo anu seme?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - en: in
-  - Venecio: Venice
-  - veturis: did travel
-  - ankaŭ: also
-  - per: by
-  - gondolo: gondola
+  - Ĉu: anu seme
+  - vi: sina
+  - en: lon
+  - Venecio: ma tomo Venecio
+  - veturis: li tawa
+  - ankaŭ: kin
+  - per: kepeken
+  - gondolo: tomo telo Kondolo
   - '?'
-- demando: Will you be able to fall asleep when it becomes quiet?
+- demando: kalama li weka la sina ken ala ken lape?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - povos: will be able
-  - ekdormi: to fall asleep
+  - Ĉu: anu seme
+  - vi: sina
+  - povos: li ken lon tenpo kama
+  - ekdormi: open lape
   - ','
-  - kiam: when
-  - silentiĝos: became quiet
+  - kiam: tenpo seme
+  - silentiĝos: kalama li weka
   - '?'

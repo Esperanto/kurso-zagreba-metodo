@@ -9,7 +9,7 @@
   - multajn: wiele
   - lingvojn: języków
   - '?'
-- demando: Czy wiesz, czy Ana lubi nową piosenkę o biedaku i pięknej kobiecie?
+- demando: Wiesz, czy Ana lubi nową piosenkę o biednym mężczyźnie i pięknej kobiecie?
   rektatraduko:
   - Ĉu: Czy
   - vi: ty
@@ -26,11 +26,11 @@
   - kaj: i
   - belulino: piękna kobieta
   - '?'
-- demando: Gdzie widzieliście starca i młodzieńca, którzy nieśli duży stół?
+- demando: Gdzie widziałeś starca i młodzieńca, którzy nieśli duży stół?
   rektatraduko:
   - Kie: Gdzie
-  - vi: wy
-  - vidis: widzieliście
+  - vi: ty
+  - vidis: widziałeś
   - la: (przedimek określony)
   - maljunulon: starca
   - kaj: i
@@ -42,25 +42,25 @@
   - grandan: duży
   - tablon: stół
   - '?'
-- demando: Jak to się stało, że znowu przyjechaliście do nas bez rodzeństwa?
+- demando: Jak to się stało, że znowu przyszedłeś do nas bez rodzeństwa?
   rektatraduko:
   - Kiel: Jak
   - okazis: stało się
   - ','
   - ke: że
-  - vi: wy
+  - vi: ty
   - denove: znowu
-  - venis: przyjechaliście
+  - venis: przyszedłeś
   - al: do
   - ni: my
   - sen: bez
   - gefratoj: rodzeństwo
   - '?'
-- demando: Czy przy pomocy nowego podręcznika możecie uczyć się esperanta wystarczająco szybko?
+- demando: Czy możesz dość szybko nauczyć się esperanta z nowego podręcznika?
   rektatraduko:
   - Ĉu: Czy
-  - vi: wy
-  - povas: możecie
+  - vi: ty
+  - povas: możesz
   - per: za pomocą
   - la: (przedimek określony)
   - nova: nowy

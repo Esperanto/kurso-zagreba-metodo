@@ -1,15 +1,15 @@
-- demando: Kız arkadaşın kimdir?
+- demando: Arkadaşın kim?
   rektatraduko:
   - Kiu: Kim
   - estas: -dir yardımcı fiil
   - via: senin, -ın, -an
-  - amikino: kız arkadaş
+  - amikino: kadın arkadaş
   - '?'
-- demando: Kızarkadaşın Ana şimdi odada yazıyor mu?
+- demando: Arkadaşın Ana şimdi odada yazıyor mu?
   rektatraduko:
   - Ĉu: mu
   - via: senin, -ın, -an
-  - amikino: kız arkadaş
+  - amikino: kadın arkadaş
   - Ana: Ana
   - skribas: yazıyor
   - nun: şimdi

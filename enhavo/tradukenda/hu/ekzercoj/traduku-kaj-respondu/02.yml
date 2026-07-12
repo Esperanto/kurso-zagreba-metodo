@@ -18,19 +18,19 @@
   - estas: vannak
   - bonaj: jók
   - '?'
-- demando: Mit csinált Ana és Márk Márk kicsi szobájában?
+- demando: Mit csinált Ana és Marko Marko kis szobájában?
   rektatraduko:
   - Kion: Mit
   - faris: csinált
   - Ana: Ana
   - kaj: és
-  - Marko: Márk
+  - Marko: Marko
   - en: -ban/ben
   - la: a
   - malgranda: kicsi
   - ĉambro: szoba
   - de: -nak a/nek a
-  - Marko: Márk
+  - Marko: Marko
   - '?'
 - demando: Szeretsz könyveket olvasni a szerelemről?
   rektatraduko:

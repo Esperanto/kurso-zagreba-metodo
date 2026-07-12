@@ -1,11 +1,11 @@
-- demando: Who is your female friend?
+- demando: Who is your friend?
   rektatraduko:
   - Kiu: Who
   - estas: is
   - via: your
   - amikino: female friend
   - '?'
-- demando: Is your friend Ana now writing in the room?
+- demando: Is your friend Ana writing in the room now?
   rektatraduko:
   - Ĉu: Whether
   - via: your
@@ -17,7 +17,7 @@
   - la: the
   - ĉambro: room
   - '?'
-- demando: Does the friend of your father work in a hotel?
+- demando: Does your father's friend work in a hotel?
   rektatraduko:
   - Ĉu: Whether
   - la: the
@@ -29,13 +29,13 @@
   - en: in
   - hotelo: hotel
   - '?'
-- demando: What is on the work-bench in our room?
+- demando: What is on the workbench in our room?
   rektatraduko:
   - Kio: What
   - estas: is
   - sur: 'on'
   - la: the
-  - labortablo: work-bench
+  - labortablo: work table
   - en: in
   - nia: our
   - ĉambro: room

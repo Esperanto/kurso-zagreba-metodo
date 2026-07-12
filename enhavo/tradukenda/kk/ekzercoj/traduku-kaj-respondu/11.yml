@@ -1,49 +1,49 @@
-- demando: Can you bring along the medicine of my sister?
+- demando: Әпкемнің дәрісін өзіңмен бірге ала келе аласың ба?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - povas: can
-  - kunporti: bring along
-  - la: the
-  - sanigilon: medicine
-  - de: of
-  - mia: my
-  - fratino: sister
+  - Ĉu: ма/ме
+  - vi: сен
+  - povas: алады
+  - kunporti: бірге әкелу
+  - la: анықтауыш
+  - sanigilon: дәріні
+  - de: -ның/-нің
+  - mia: менің
+  - fratino: әпке
   - '?'
-- demando: When did you buy that music instrument?
+- demando: Ол музыкалық аспапты қашан сатып алдың?
   rektatraduko:
-  - Kiam: When
-  - vi: you
-  - aĉetis: did buy
-  - tiun: that
-  - muzikilon: music instrument
+  - Kiam: қашан
+  - vi: сен
+  - aĉetis: сатып алды
+  - tiun: сол
+  - muzikilon: музыкалық аспапты
   - '?'
-- demando: Who did use my key the last time?
+- demando: Кілтімді соңғы рет кім қолданды?
   rektatraduko:
-  - Kiu: Who
-  - laste: last time
-  - uzis: used
-  - mian: my
-  - ŝlosilon: key
+  - Kiu: кім
+  - laste: соңғы рет
+  - uzis: қолданды
+  - mian: менің
+  - ŝlosilon: кілтті
   - '?'
-- demando: Did you travel in Venice also by gondola?
+- demando: Венецияда гондоламен де жүрдің бе?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - en: in
-  - Venecio: Venice
-  - veturis: did travel
-  - ankaŭ: also
-  - per: by
-  - gondolo: gondola
+  - Ĉu: ма/ме
+  - vi: сен
+  - en: ішінде/де
+  - Venecio: Венеция
+  - veturis: жүрді
+  - ankaŭ: да
+  - per: арқылы/көмегімен
+  - gondolo: гондола
   - '?'
-- demando: Will you be able to fall asleep when it got quiet?
+- demando: Тыныштық орнағанда ұйықтап кете аласың ба?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - povos: will be able
-  - ekdormi: to fall asleep
+  - Ĉu: ма/ме
+  - vi: сен
+  - povos: ала алады
+  - ekdormi: ұйықтап кету
   - ','
-  - kiam: when
-  - silentiĝos: got quiet
+  - kiam: қашан
+  - silentiĝos: тынышталады
   - '?'

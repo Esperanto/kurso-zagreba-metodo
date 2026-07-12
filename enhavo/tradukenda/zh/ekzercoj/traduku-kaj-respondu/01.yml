@@ -1,15 +1,15 @@
-- demando: 谁是你的女朋友？
+- demando: 你的朋友是谁？
   rektatraduko:
   - Kiu: 谁
   - estas: 是
   - via: 你的
-  - amikino: 女朋友
+  - amikino: 女性朋友
   - '?'
-- demando: 是否是你的朋友安娜现在在房里写东西吗？
+- demando: 你的朋友安娜现在在房间里写东西吗？
   rektatraduko:
   - Ĉu: 是否
   - via: 你的
-  - amikino: 女朋友
+  - amikino: 女性朋友
   - Ana: 安娜
   - skribas: 写
   - nun: 现在

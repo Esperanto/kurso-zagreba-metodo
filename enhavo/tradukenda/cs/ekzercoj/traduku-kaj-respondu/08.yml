@@ -8,7 +8,7 @@
   - la: (člen určitý)
   - tagmanĝo: oběd
   - '?'
-- demando: 'Co chceš pít: čaj, trochu kávy nebo nechceš nic?'
+- demando: 'Co si dáš k pití: čaj, kávu, nebo nic?'
   rektatraduko:
   - Kion: Co
   - vi: ty
@@ -37,7 +37,7 @@
   - vian: tvůj
   - ĉambreton: malý pokoj
   - '?'
-- demando: Komu jsi dal čisté skleničky na víno?
+- demando: Komu jsi dal čisté sklenice na víno?
   rektatraduko:
   - Al: K, ke
   - kiu: kdo

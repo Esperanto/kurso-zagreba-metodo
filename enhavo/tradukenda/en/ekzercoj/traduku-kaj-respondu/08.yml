@@ -8,7 +8,7 @@
   - la: the
   - tagmanĝo: lunch
   - '?'
-- demando: 'What do you want to drink: tea, some coffee or do you not want anything?'
+- demando: 'What would you like to drink: tea, coffee, or nothing?'
   rektatraduko:
   - Kion: What
   - vi: you
@@ -26,7 +26,7 @@
   - volas: want
   - nenion: nothing
   - '?'
-- demando: Why did you so suddenly decide to renovate your small room?
+- demando: Why did you decide so suddenly to renovate your small room?
   rektatraduko:
   - Kial: Why
   - vi: you
@@ -37,7 +37,7 @@
   - vian: your
   - ĉambreton: small room
   - '?'
-- demando: To whom did you give the clean wine glasses?
+- demando: Who did you give the clean wine glasses to?
   rektatraduko:
   - Al: To
   - kiu: whom
@@ -50,7 +50,7 @@
   - la: the
   - vino: wine
   - '?'
-- demando: Against whom did your sports club play two weeks ago?
+- demando: Who did your sports club play against two weeks ago?
   rektatraduko:
   - Kontraŭ: Against
   - kiu: whom
@@ -61,14 +61,14 @@
   - du: two
   - semajnoj: weeks
   - '?'
-- demando: Do you often see the policeman who is living in the apartment above you?
+- demando: Do you often see the police officer who lives in the apartment above you?
   rektatraduko:
   - Ĉu: Whether
   - vi: you
   - ofte: often
   - vidas: see
   - la: the
-  - policiston: policeman
+  - policiston: police officer
   - ','
   - kiu: who
   - loĝas: lives

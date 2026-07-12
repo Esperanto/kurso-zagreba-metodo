@@ -18,19 +18,19 @@
   - estas: are
   - bonaj: good
   - '?'
-- demando: What did Ana and Mark do in Mark's little room?
+- demando: What did Ana and Marko do in Marko's little room?
   rektatraduko:
   - Kion: What
   - faris: did do
   - Ana: Ana
   - kaj: and
-  - Marko: Mark
+  - Marko: Marko
   - en: in
   - la: the
   - malgranda: little
   - ĉambro: room
   - de: of
-  - Marko: Mark
+  - Marko: Marko
   - '?'
 - demando: Do you like reading books about love?
   rektatraduko:
@@ -42,7 +42,7 @@
   - pri: about
   - amo: love
   - '?'
-- demando: Who will go with you to your home?
+- demando: Who will go to your home with you?
   rektatraduko:
   - Kiu: Who
   - iros: will go
@@ -52,7 +52,7 @@
   - via: your
   - hejmo: home
   - '?'
-- demando: What are your girl-friend's eyes like?
+- demando: What are your friend's eyes like?
   rektatraduko:
   - Kiaj: What like
   - estas: are
@@ -60,5 +60,5 @@
   - okuloj: eyes
   - de: of
   - via: your
-  - amikino: girl-friend
+  - amikino: female friend
   - '?'

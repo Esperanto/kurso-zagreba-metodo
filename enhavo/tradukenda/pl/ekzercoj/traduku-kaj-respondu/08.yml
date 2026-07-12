@@ -8,11 +8,11 @@
   - la: (przedimek określony)
   - tagmanĝo: obiad
   - '?'
-- demando: 'Czego chcecie się napić: herbaty, trochę kawy, czy niczego?'
+- demando: 'Czego chcesz się napić: herbaty, kawy czy niczego?'
   rektatraduko:
   - Kion: Czego
-  - vi: wy
-  - volas: chcecie
+  - vi: ty
+  - volas: chcesz
   - trinki: pić
   - ':'
   - teon: herbatę
@@ -22,8 +22,8 @@
   - kafo: kawa
   - aŭ: lub
   - ĉu: czy
-  - vi: wy
-  - volas: chcecie
+  - vi: ty
+  - volas: chcesz
   - nenion: nic
   - '?'
 - demando: Dlaczego tak nagle zdecydowałeś się odnowić swój pokoik?
@@ -50,7 +50,7 @@
   - la: (przedimek określony)
   - vino: wino
   - '?'
-- demando: Przeciwko komu grał twój klub sportowy przed dwoma tygodniami?
+- demando: Przeciwko komu grał twój klub sportowy dwa tygodnie temu?
   rektatraduko:
   - Kontraŭ: Przeciw
   - kiu: kto

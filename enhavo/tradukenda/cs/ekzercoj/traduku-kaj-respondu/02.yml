@@ -6,7 +6,7 @@
   - malnova: starý
   - hejmo: domov
   - '?'
-- demando: Které knihy jsi četl a jsou dobré?
+- demando: Které knihy jsi četl a byly dobré?
   rektatraduko:
   - Kiujn: Které
   - librojn: knihy
@@ -18,21 +18,21 @@
   - estas: jsou
   - bonaj: dobré
   - '?'
-- demando: Co dělali Ana a Marek v Markově malém pokoji?
+- demando: Co dělali Ana a Marko v malém pokoji u Marko?
   rektatraduko:
   - Kion: Co
   - faris: dělali
   - Ana: Ana
   - kaj: a
-  - Marko: Marek
+  - Marko: Marko
   - en: v
   - la: (člen určitý)
   - malgranda: malém
   - ĉambro: pokoji
   - de: od
-  - Marko: Marka
+  - Marko: Marko
   - '?'
-- demando: Máš rád čtení knih o lásce?
+- demando: Čteš rád knihy o lásce?
   rektatraduko:
   - Ĉu: Zda
   - vi: ty
@@ -42,7 +42,7 @@
   - pri: o
   - amo: lásce
   - '?'
-- demando: Kdo s tebou půjde do tvého domova?
+- demando: Kdo půjde s tebou domů?
   rektatraduko:
   - Kiu: Kdo
   - iros: půjde
@@ -52,7 +52,7 @@
   - via: tvého
   - hejmo: domova
   - '?'
-- demando: Jaké jsou oči tvé přítelkyně?
+- demando: Jaké oči má tvoje kamarádka?
   rektatraduko:
   - Kiaj: Jaké
   - estas: jsou
@@ -60,5 +60,5 @@
   - okuloj: oči
   - de: od
   - via: tvé
-  - amikino: přítelkyně
+  - amikino: kamarádka
   - '?'

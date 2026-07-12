@@ -9,7 +9,7 @@
   - multajn: mnoha
   - lingvojn: jazykům
   - '?'
-- demando: Víš, zda má Ana ráda novou píseň o chudáku a krásce?
+- demando: Víš, jestli má Ana ráda novou píseň o chudákovi a krásné ženě?
   rektatraduko:
   - Ĉu: Zda
   - vi: ty
@@ -22,9 +22,9 @@
   - novan: novou
   - kanton: píseň
   - pri: o
-  - malriĉulo: chudáku
+  - malriĉulo: chudák
   - kaj: a
-  - belulino: krásce
+  - belulino: krásná žena
   - '?'
 - demando: Kde jsi viděl starce a mladíka, kteří nesli velký stůl?
   rektatraduko:
@@ -42,7 +42,7 @@
   - grandan: velký
   - tablon: stůl
   - '?'
-- demando: Jak se stalo, že jsi znovu přišel k nám bez sourozenců?
+- demando: Jak se stalo, že jsi k nám znovu přišel bez sourozenců?
   rektatraduko:
   - Kiel: Jak
   - okazis: se stalo
@@ -56,12 +56,12 @@
   - sen: bez
   - gefratoj: sourozenců
   - '?'
-- demando: Můžeš se s novou učebnicí dostatečně rychle naučit Esperanto?
+- demando: Můžeš se s novou učebnicí naučit esperanto dost rychle?
   rektatraduko:
   - Ĉu: Zda
   - vi: ty
   - povas: můžeš
-  - per: s (za pomoci)
+  - per: pomocí
   - la: (člen určitý)
   - nova: novou
   - lernolibro: učebnicí

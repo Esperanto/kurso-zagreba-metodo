@@ -1,64 +1,64 @@
-- demando: What was your old home like?
+- demando: Ескі үйің қандай еді?
   rektatraduko:
-  - Kia: What like
-  - estis: was
-  - via: your
-  - malnova: old
-  - hejmo: home
+  - Kia: қандай
+  - estis: болды
+  - via: сенің
+  - malnova: ескі
+  - hejmo: үй
   - '?'
-- demando: Which books did you read, and were they good?
+- demando: Қай кітаптарды оқыдың, олар жақсы ма?
   rektatraduko:
-  - Kiujn: Which
-  - librojn: books
-  - vi: you
-  - legis: did read
-  - kaj: and
-  - ĉu: whether
-  - ili: they
-  - estas: are
-  - bonaj: good
+  - Kiujn: қайсысын
+  - librojn: кітаптарды
+  - vi: сен
+  - legis: оқыдың
+  - kaj: және
+  - ĉu: ма/ме
+  - ili: олар
+  - estas: бар/болып тұр
+  - bonaj: жақсы
   - '?'
-- demando: What did Ана and Mark do in Marks little room?
+- demando: Ана мен Марко Марконың кішкентай бөлмесінде не істеді?
   rektatraduko:
-  - Kion: What
-  - faris: did do
+  - Kion: нені
+  - faris: істеді
   - Ana: Ана
-  - kaj: and
-  - Marko: Mark
-  - en: in
-  - la: the
-  - malgranda: little
-  - ĉambro: room
-  - de: of
-  - Marko: Mark
+  - kaj: және
+  - Marko: Марко
+  - en: ішінде/де
+  - la: анықтауыш
+  - malgranda: кішкентай
+  - ĉambro: бөлме
+  - de: -ның/-нің
+  - Marko: Марко
   - '?'
-- demando: Do you like reading books about love?
+- demando: Махаббат туралы кітаптар оқығанды ұнатасың ба?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - ŝatas: like
-  - legi: to read
-  - librojn: books
-  - pri: about
-  - amo: love
+  - Ĉu: ма/ме
+  - vi: сен
+  - ŝatas: ұнатады
+  - legi: оқу
+  - librojn: кітаптарды
+  - pri: туралы
+  - amo: махаббат
   - '?'
-- demando: Who will go with you to your home?
+- demando: Үйіңе сенімен бірге кім барады?
   rektatraduko:
-  - Kiu: Who
-  - iros: will go
-  - kun: with
-  - vi: you
-  - al: to
-  - via: your
-  - hejmo: home
+  - Kiu: кім
+  - iros: барады
+  - kun: бірге
+  - vi: сен
+  - al: -ға/-ге
+  - via: сенің
+  - hejmo: үй
   - '?'
-- demando: What are your girl-friend's eyes like?
+- demando: Досыңның көздері қандай?
   rektatraduko:
-  - Kiaj: What like
-  - estas: are
-  - la: the
-  - okuloj: eyes
-  - de: of
-  - via: your
-  - amikino: girl-friend
+  - Kiaj: қандай
+  - estas: бар/болып тұр
+  - la: анықтауыш
+  - okuloj: көздер
+  - de: -ның/-нің
+  - via: сенің
+  - amikino: қыз дос
   - '?'

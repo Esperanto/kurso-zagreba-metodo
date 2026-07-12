@@ -13,7 +13,7 @@
   - du: dva
   - jarojn: roky
   - '?'
-- demando: Chceš, abych ti ukázal svou nejmilejší fotku?
+- demando: Chceš, abych ti ukázal fotku, která je mi nejdražší?
   rektatraduko:
   - Ĉu: Zda
   - vi: ty
@@ -37,9 +37,9 @@
   - tiun: to
   - vestaĵon: oblečení
   - '?'
-- demando: Kam půjdeš v neděli, když bude slunečný den?
+- demando: Kam půjdeš v neděli, když bude slunečno?
   rektatraduko:
-  - Kien: kam
+  - Kien: Kam
   - vi: ty
   - iros: půjdeš
   - dimanĉe: v neděli
@@ -49,7 +49,7 @@
   - suna: slunečný
   - tago: den
   - '?'
-- demando: Tvůj bratr už odešel?
+- demando: Odešel už tvůj bratr?
   rektatraduko:
   - Ĉu: Zda
   - via: tvůj

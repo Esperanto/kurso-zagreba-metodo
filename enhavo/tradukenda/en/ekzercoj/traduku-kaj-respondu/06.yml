@@ -14,7 +14,7 @@
   - novan: new
   - libron: book
   - '?'
-- demando: What do you want for breakfast tomorrow?
+- demando: What do you want to have for breakfast tomorrow?
   rektatraduko:
   - Kion: What
   - vi: you
@@ -22,10 +22,10 @@
   - morgaŭ: tomorrow
   - matenmanĝi: eat breakfast
   - '?'
-- demando: When will Mark arrive, at five or at eight o'clock?
+- demando: When will Marko arrive, at five or at eight o'clock?
   rektatraduko:
   - Kiam: When
-  - Marko: Mark
+  - Marko: Marko
   - alvenos: will arrive
   - ','
   - je: at
@@ -37,7 +37,7 @@
   - oka: eighth
   - horo: hour
   - '?'
-- demando: When did you notice that the whole family calls me benefactor?
+- demando: When did you notice that the whole family calls me a benefactor?
   rektatraduko:
   - Kiam: When
   - vi: you

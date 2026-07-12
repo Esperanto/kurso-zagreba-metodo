@@ -18,19 +18,19 @@
   - estas: ir
   - bonaj: labas
   - '?'
-- demando: Ko Ana un Marks darīja Marka mazajā istabā?
+- demando: Ko Ana un Marko darīja Marko mazajā istabā?
   rektatraduko:
   - Kion: Ko
   - faris: darīja
   - Ana: Ana
   - kaj: un
-  - Marko: Marks
+  - Marko: Marko
   - en: iekšā
   - la: tas
   - malgranda: mazā
   - ĉambro: istaba
   - de: 'no'
-  - Marko: Marks
+  - Marko: Marko
   - '?'
 - demando: Vai tev patīk lasīt grāmatas par mīlestību?
   rektatraduko:

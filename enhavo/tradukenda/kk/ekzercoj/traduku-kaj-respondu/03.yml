@@ -1,72 +1,72 @@
-- demando: Do waiters in large hotels understand a lot of languages?
+- demando: Үлкен қонақүйлердегі даяшылар көп тіл түсіне ме?
   rektatraduko:
-  - Ĉu: Whether
+  - Ĉu: ма/ме
   - kelneroj: даяшылар
-  - en: in
+  - en: ішінде/де
   - grandaj: үлкен
-  - hoteloj: мейманханалар
-  - komprenas: understand
+  - hoteloj: қонақүйлер
+  - komprenas: түсінеді
   - multajn: көп
-  - lingvojn: тілдер
+  - lingvojn: тілдерді
   - '?'
-- demando: Do you know that Ана likes a new song about a poor man and a beautiful girl?
+- demando: Ана кедей адам мен әдемі әйел туралы жаңа әнді ұната ма, білесің бе?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - scias: know
+  - Ĉu: ма/ме
+  - vi: сен
+  - scias: біледі
   - ','
-  - ĉu: whether
+  - ĉu: ма/ме
   - Ana: Ана
-  - ŝatas: likes
-  - la: the
+  - ŝatas: ұнатады
+  - la: анықтауыш
   - novan: жаңа
-  - kanton: song
-  - pri: about
-  - malriĉulo: a poor man
-  - kaj: and
-  - belulino: a beautiful girl
+  - kanton: әнді
+  - pri: туралы
+  - malriĉulo: кедей адам
+  - kaj: және
+  - belulino: әдемі әйел
   - '?'
-- demando: Where did you see an old man and a young man who were carrying a large table?
+- demando: Үлкен үстел көтеріп жүрген қарт адам мен жас адамды қайда көрдің?
   rektatraduko:
-  - Kie: Where
-  - vi: you
-  - vidis: did see
-  - la: the
-  - maljunulon: old man
-  - kaj: and
-  - la: the
-  - junulon: young man
+  - Kie: қайда
+  - vi: сен
+  - vidis: көрді
+  - la: анықтауыш
+  - maljunulon: қарт адамды
+  - kaj: және
+  - la: анықтауыш
+  - junulon: жас адамды
   - ','
-  - kiuj: who
-  - portis: were carrying
-  - grandan: big
-  - tablon: table
+  - kiuj: олар
+  - portis: көтерді
+  - grandan: үлкен
+  - tablon: үстелді
   - '?'
-- demando: How did it happen that you again came to us without brothers-and-sisters?
+- demando: Бауырларыңсыз бізге қайта келгенің қалай болды?
   rektatraduko:
-  - Kiel: How
-  - okazis: did it happen
+  - Kiel: қалай
+  - okazis: болды
   - ','
-  - ke: that
-  - vi: you
-  - denove: again
-  - venis: came
-  - al: to
-  - ni: us
-  - sen: without
-  - gefratoj: brothers-and-sisters
+  - ke: деп
+  - vi: сен
+  - denove: қайта
+  - venis: келді
+  - al: -ға/-ге
+  - ni: біз
+  - sen: -сыз/-сіз
+  - gefratoj: бауырлар
   - '?'
-- demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+- demando: Жаңа оқулықпен эсперантоны жеткілікті тез үйрене аласың ба?
   rektatraduko:
-  - Ĉu: Whether
-  - vi: you
-  - povas: can
-  - per: with-the-help-of
-  - la: the
+  - Ĉu: ма/ме
+  - vi: сен
+  - povas: алады
+  - per: арқылы/көмегімен
+  - la: анықтауыш
   - nova: жаңа
-  - lernolibro: textbook
-  - sufiĉe: quite
-  - rapide: quickly
-  - lerni: learn
-  - Esperanton: Эсперанто
+  - lernolibro: оқулық
+  - sufiĉe: жеткілікті
+  - rapide: тез
+  - lerni: үйрену
+  - Esperanton: эсперантоны
   - '?'

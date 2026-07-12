@@ -1,4 +1,4 @@
-- demando: Přeješ si, abych ti ukázal svou nejnovější knihu?
+- demando: Chceš, abych ti ukázal svou nejnovější knihu?
   rektatraduko:
   - Ĉu: Zda
   - vi: ty
@@ -22,10 +22,10 @@
   - morgaŭ: zítra
   - matenmanĝi: snídat
   - '?'
-- demando: Kdy Marek přijde, v pět nebo v osm hodin?
+- demando: Kdy dorazí Marko, v pět, nebo v osm?
   rektatraduko:
   - Kiam: Kdy
-  - Marko: Marek
+  - Marko: Marko
   - alvenos: přijde
   - ','
   - je: v (čas)
@@ -37,7 +37,7 @@
   - oka: osmá
   - horo: hodina
   - '?'
-- demando: Kdy sis všiml, že mi celá rodina říká dobrodinec?
+- demando: Kdy sis všiml, že mě celá rodina nazývá dobrodincem?
   rektatraduko:
   - Kiam: Kdy
   - vi: ty
@@ -51,7 +51,7 @@
   - min: mě
   - bonfarulo: dobrodinec
   - '?'
-- demando: Byla pro tebe užitečná ta knížečka, kterou jsem poslal?
+- demando: Byla pro tebe užitečná knížečka, kterou jsem ti poslal?
   rektatraduko:
   - Ĉu: Zda
   - la: (člen určitý)

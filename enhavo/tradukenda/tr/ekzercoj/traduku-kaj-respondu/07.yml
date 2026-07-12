@@ -29,13 +29,13 @@
   - karan: değerli
   - foton: fotoğraf'ı
   - '?'
-- demando: Bu elbiseyi nerede satın aldınız?
+- demando: Bu giysiyi nerede satın aldınız?
   rektatraduko:
   - Kie: nerede
   - vi: siz
   - aĉetis: satın aldı
   - tiun: bu
-  - vestaĵon: elbise'yi
+  - vestaĵon: giysiyi
   - '?'
 - demando: Eğer güneşli bir gün ise, Pazar günü nereye gideceksiniz?
   rektatraduko:

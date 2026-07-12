@@ -18,19 +18,19 @@
   - estas: er
   - bonaj: gode
   - '?'
-- demando: Hvad lavede Ana og Mark i Marks lille værelse?
+- demando: Hvad lavede Ana og Marko i det lille værelse hos Marko?
   rektatraduko:
   - Kion: Hvad
   - faris: lavede
   - Ana: Ana
   - kaj: og
-  - Marko: Mark
+  - Marko: Marko
   - en: i
   - la: (bestemt artikel)
   - malgranda: lille
   - ĉambro: værelse
   - de: af
-  - Marko: Mark
+  - Marko: Marko
   - '?'
 - demando: Kan du lide at læse bøger om kærlighed?
   rektatraduko:

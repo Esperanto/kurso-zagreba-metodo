@@ -1,86 +1,80 @@
-- 
-  demando: Siapa akan membersihkan dapur selepas makan tengah hari?
-  rektatraduko: 
-    - Kiu: Siapa
-    - purigos: akan membersihkan
-    - la: itu,ini
-    - kuirejon: dapur
-    - post: selepas
-    - la: itu,ini
-    - tagmanĝo: makan tengah hari
-    - '?'
-- 
-  demando: "Apa yang awak mahu minum: teh, kopi atau tidak mahu apa-apa?"
-  rektatraduko: 
-    - Kion: Apa
-    - vi: awak
-    - volas: mahu
-    - trinki: minum
-    - ':' 
-    - teon: teh
-    - ',' 
-    - iom: sedikit
-    - da: amaun
-    - kafo: kopi
-    - aŭ: atau
-    - ĉu: siapakah,bolehkah
-    - vi: awak
-    - volas: mahu
-    - nenion: tidak ada apa 
-    - '?'
-- 
-  demando: Kenapa kamu begitu tiba-tiba membuat keputusan untuk mengubah suai bilik kecil awak ?
-  rektatraduko: 
-    - Kial: Kenapa
-    - vi: kamu
-    - tiel: begitu
-    - subite: tiba-tiba
-    - decidis: telah membuat keputusan
-    - renovigi: mengubah suai
-    - vian: awak punya
-    - ĉambreton: bilik kecil
-    - '?'
-- 
-  demando: Siapakah awak telah memberikan gelas wain bersih ?
-  rektatraduko: 
-    - Al: kepada
-    - kiu: siapa
-    - vi: awak
-    - donis: telah memberikan
-    - la: itu,ini
-    - purajn: bersih
-    - glasojn: gelas
-    - por: untuk
-    - la: itu,ini
-    - vino: wain
-    - '?'
-- 
-  demando: Kelab sukan awak berlawan dengan siapa dua minggu sebelum ini ?
-  rektatraduko: 
-    - Kontraŭ: Berlawan
-    - kiu: siapa
-    - ludis: telah bermain
-    - via: awak punya
-    - sportklubo: kelab sukan
-    - antaŭ: sebelum
-    - du: dua
-    - semajnoj: minggu
-    - '?'
-- 
-  demando: Adakah awak sering melihat anggota polis itu yang hidup di di atas apartmen awak ?
-  rektatraduko: 
-    - Ĉu: Adakah
-    - vi: awak
-    - ofte: sering
-    - vidas: melihat
-    - la: itu,ini
-    - policiston: anggota polis
-    - ',' 
-    - kiu: siapa
-    - loĝas: hidup,duduk
-    - en: dalam
-    - la: itu,ini
-    - loĝejo: apartmen,tempat duduk
-    - super: di atas
-    - vi: awak
-    - '?'
+- demando: Siapa akan membersihkan dapur selepas makan tengah hari?
+  rektatraduko:
+  - Kiu: Siapa
+  - purigos: akan membersihkan
+  - la: itu,ini
+  - kuirejon: dapur
+  - post: selepas
+  - la: itu,ini
+  - tagmanĝo: makan tengah hari
+  - '?'
+- demando: 'Apa yang awak mahu minum: teh, kopi atau tidak mahu apa-apa?'
+  rektatraduko:
+  - Kion: Apa
+  - vi: awak
+  - volas: mahu
+  - trinki: minum
+  - ':'
+  - teon: teh
+  - ','
+  - iom: sedikit
+  - da: amaun
+  - kafo: kopi
+  - aŭ: atau
+  - ĉu: siapakah,bolehkah
+  - vi: awak
+  - volas: mahu
+  - nenion: tidak ada apa
+  - '?'
+- demando: Kenapa kamu begitu tiba-tiba membuat keputusan untuk mengubah suai bilik kecil awak ?
+  rektatraduko:
+  - Kial: Kenapa
+  - vi: kamu
+  - tiel: begitu
+  - subite: tiba-tiba
+  - decidis: telah membuat keputusan
+  - renovigi: mengubah suai
+  - vian: awak punya
+  - ĉambreton: bilik kecil
+  - '?'
+- demando: Siapakah awak telah memberikan gelas wain bersih ?
+  rektatraduko:
+  - Al: kepada
+  - kiu: siapa
+  - vi: awak
+  - donis: telah memberikan
+  - la: itu,ini
+  - purajn: bersih
+  - glasojn: gelas
+  - por: untuk
+  - la: itu,ini
+  - vino: wain
+  - '?'
+- demando: Kelab sukan awak berlawan dengan siapa dua minggu sebelum ini ?
+  rektatraduko:
+  - Kontraŭ: Berlawan
+  - kiu: siapa
+  - ludis: telah bermain
+  - via: awak punya
+  - sportklubo: kelab sukan
+  - antaŭ: sebelum
+  - du: dua
+  - semajnoj: minggu
+  - '?'
+- demando: Adakah awak sering melihat anggota polis itu yang hidup di di atas apartmen awak ?
+  rektatraduko:
+  - Ĉu: Adakah
+  - vi: awak
+  - ofte: sering
+  - vidas: melihat
+  - la: itu,ini
+  - policiston: anggota polis
+  - ','
+  - kiu: siapa
+  - loĝas: hidup,duduk
+  - en: dalam
+  - la: itu,ini
+  - loĝejo: apartmen,tempat duduk
+  - super: di atas
+  - vi: awak
+  - '?'

@@ -1,72 +1,72 @@
 - demando: Чи кельнери у великих готелях розуміють багато мов ?
   rektatraduko:
-    - Ĉu: Чи
-    - kelneroj: кельнери
-    - en: у
-    - grandaj: великих
-    - hoteloj: готелях
-    - komprenas: розуміють
-    - multajn: багато
-    - lingvojn: мов
-    - '?'
+  - Ĉu: Чи
+  - kelneroj: кельнери
+  - en: у
+  - grandaj: великих
+  - hoteloj: готелях
+  - komprenas: розуміють
+  - multajn: багато
+  - lingvojn: мов
+  - '?'
 - demando: Чи ти знаєш, чи Анна любить нову пісню про бідняка і красуню ?
   rektatraduko:
-    - Ĉu: Чи
-    - vi: ти
-    - scias: знаєш
-    - ','
-    - ĉu: чи
-    - Ana: Анна
-    - ŝatas: любить
-    - la: означений артикль
-    - novan: нову
-    - kanton: пісню
-    - pri: про
-    - malriĉulo: бідняка
-    - kaj: і
-    - belulino: красуню
-    - '?'
+  - Ĉu: Чи
+  - vi: ти
+  - scias: знаєш
+  - ','
+  - ĉu: чи
+  - Ana: Анна
+  - ŝatas: любить
+  - la: означений артикль
+  - novan: нову
+  - kanton: пісню
+  - pri: про
+  - malriĉulo: бідняка
+  - kaj: і
+  - belulino: красуню
+  - '?'
 - demando: Де ти бачив старого і юнака, котрі несли великий стіл ?
   rektatraduko:
-    - Kie: Де
-    - vi: ти
-    - vidis: бачив
-    - la: означений артикль
-    - maljunulon: старого
-    - kaj: і
-    - la: означений артикль
-    - junulon: юнака
-    - ','
-    - kiuj: котрі
-    - portis: несли
-    - grandan: великий
-    - tablon: стіл
-    - '?'
+  - Kie: Де
+  - vi: ти
+  - vidis: бачив
+  - la: означений артикль
+  - maljunulon: старого
+  - kaj: і
+  - la: означений артикль
+  - junulon: юнака
+  - ','
+  - kiuj: котрі
+  - portis: несли
+  - grandan: великий
+  - tablon: стіл
+  - '?'
 - demando: Як сталось, що ти знову прийшов до нас без братів і сестер ?
   rektatraduko:
-    - Kiel: Як
-    - okazis: сталось
-    - ','
-    - ke: що
-    - vi: ти
-    - denove: знову
-    - venis: прийшов
-    - al: до
-    - ni: нас
-    - sen: без
-    - gefratoj: братів і сестер
-    - '?'
+  - Kiel: Як
+  - okazis: сталось
+  - ','
+  - ke: що
+  - vi: ти
+  - denove: знову
+  - venis: прийшов
+  - al: до
+  - ni: нас
+  - sen: без
+  - gefratoj: братів і сестер
+  - '?'
 - demando: Чи ти можеш з новим підручником досить швидко вивчати есперанто ?
   rektatraduko:
-    - Ĉu: Чи
-    - vi: ти
-    - povas: можеш
-    - per: з
-    - la: означений артикль
-    - nova: новим
-    - lernolibro: підручником
-    - sufiĉe: досить
-    - rapide: швидко
-    - lerni: вивчати
-    - Esperanton: есперанто
-    - '?'
+  - Ĉu: Чи
+  - vi: ти
+  - povas: можеш
+  - per: з
+  - la: означений артикль
+  - nova: новим
+  - lernolibro: підручником
+  - sufiĉe: досить
+  - rapide: швидко
+  - lerni: вивчати
+  - Esperanton: есперанто
+  - '?'

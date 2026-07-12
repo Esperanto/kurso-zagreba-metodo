@@ -1,64 +1,59 @@
--
-  demando: "هل بإمكانك التعلم بهدوء، بينما يغني أحدهم مبتهجاً؟?"
-  rektatraduko: 
-    - Ĉu: هل
-    - vi: أنت
-    - povas: تستطيع
-    - trankvile: بهدوء
-    - lerni: أن تتعلم
-    - ','
-    - dum: بينما
-    - iu: شخص ما
-    - ĝoje: مبتهجاً
-    - kantas: يغني
-    - '?'
--
-  demando: من يعلم متى وأين سنرى بعضنا ?
-  rektatraduko: 
-    - Kiu: مَن
-    - scias: يعلم
-    - ','
-    - kiam: متى 
-    - kaj: و
-    - kie: أين
-    - ni: نحن
-    - revidos: نرى
-    - nin: نفسنا
-    - '?'
--
-  demando: كم الساعة الآن ?
-  rektatraduko: 
-    - Kioma: كم
-    - horo: ساغة
-    - estas: تكون 
-    - nun: الآن
-    - '?'
--
-  demando: "هل ساعدك أحدٌ بفتح باب البيت القديم؟ ?"
-  rektatraduko: 
-    - Ĉu: هل
-    - iu: أحد 
-    - helpis: ساعد
-    - al: إلى
-    - vi: أنت 
-    - malfermi: أن تفتح 
-    - la: ال 
-    - pordon: بابَ 
-    - de: لِ
-    - la: ال
-    - malnova: قديم
-    - domo: بيت
-    - '?'
--
-  demando: "لماذا ليس لديك وقتٌ لتستمع إلى لمدة أطول؟ ?"
-  rektatraduko: 
-    - Kial: لماذا
-    - vi: أنت
-    - ne: ليس / لا
-    - havas: تملك
-    - tempon: وقتاً
-    - aŭskulti: أن تستمع
-    - min: أنا
-    - pli: أكثر
-    - longe: طولاً
-    - '?'
+- demando: هل بإمكانك التعلم بهدوء، بينما يغني أحدهم مبتهجاً؟?
+  rektatraduko:
+  - Ĉu: هل
+  - vi: أنت
+  - povas: تستطيع
+  - trankvile: بهدوء
+  - lerni: أن تتعلم
+  - ','
+  - dum: بينما
+  - iu: شخص ما
+  - ĝoje: مبتهجاً
+  - kantas: يغني
+  - '?'
+- demando: من يعلم متى وأين سنرى بعضنا ?
+  rektatraduko:
+  - Kiu: مَن
+  - scias: يعلم
+  - ','
+  - kiam: متى
+  - kaj: و
+  - kie: أين
+  - ni: نحن
+  - revidos: نرى
+  - nin: نفسنا
+  - '?'
+- demando: كم الساعة الآن ?
+  rektatraduko:
+  - Kioma: كم
+  - horo: ساغة
+  - estas: تكون
+  - nun: الآن
+  - '?'
+- demando: هل ساعدك أحدٌ بفتح باب البيت القديم؟ ?
+  rektatraduko:
+  - Ĉu: هل
+  - iu: أحد
+  - helpis: ساعد
+  - al: إلى
+  - vi: أنت
+  - malfermi: أن تفتح
+  - la: ال
+  - pordon: بابَ
+  - de: لِ
+  - la: ال
+  - malnova: قديم
+  - domo: بيت
+  - '?'
+- demando: لماذا ليس لديك وقتٌ لتستمع إلى لمدة أطول؟ ?
+  rektatraduko:
+  - Kial: لماذا
+  - vi: أنت
+  - ne: ليس / لا
+  - havas: تملك
+  - tempon: وقتاً
+  - aŭskulti: أن تستمع
+  - min: أنا
+  - pli: أكثر
+  - longe: طولاً
+  - '?'

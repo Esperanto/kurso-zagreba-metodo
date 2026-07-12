@@ -11,44 +11,44 @@ amikinon: barátnőt
 amletero: szerelmes levél
 antaŭeniris: előrement
 arbaro: erdő
-arbetoj: 
-  - fácskák
-  - kis fák
+arbetoj:
+- fácskák
+- kis fák
 arboplena: erdős
 aĉetumos: vásárolni fog
-aĉodora: 
-  - rosszszagú
-  - büdös
+aĉodora:
+- rosszszagú
+- büdös
 aŭdiĝis: hallatszott
 bedaŭrinde: sajnos
 belaĵoj: szép dolgok
 beleta: csinos
 bestetoj: kisállatok
-bonega: 
-  - kiváló
-  - nagyszerű
-bonvolu: 
-  - légy szíves, legyen szíves
-  - tessék
+bonega:
+- kiváló
+- nagyszerű
+bonvolu:
+- légy szíves, legyen szíves
+- tessék
 bonvolus: szíveskedne
 centoj: százak
 dankon: köszönöm
 daŭrigis: folytatta
-denove: 
-  - megint
-  - újra
+denove:
+- megint
+- újra
 devojiĝis: eltévedt
 dikiĝi: meghízni
 doloriga: fájdalmas
 dolorige: fájdalmasan
 domegon: nagy házat
-dumnokte: 
-  - éjszaka
-  - az éjjel
-  - az éjszaka alatt
-dumtage: 
-  - napközben
-  - nappal
+dumnokte:
+- éjszaka
+- az éjjel
+- az éjszaka alatt
+dumtage:
+- napközben
+- nappal
 ekkriis: felkiáltott
 ekmire: elcsodálkozva
 ekparolis: megszólalt
@@ -68,9 +68,9 @@ facilmovaj: könnyedmozdulatúak
 faligi: leejteni
 faligis: leejtett
 familianoj: családtagok
-fermita: 
-  - zárt 
-  - csukott
+fermita:
+- zárt
+- csukott
 fine: végül
 foresti: távol lenni
 foriros: el fog menni
@@ -80,7 +80,7 @@ geamikoj: barátok
 gefratoj: testvérek
 gelernantojn: tanulókat
 gepatroj: szülők
-gondolisto: gondolás 
+gondolisto: gondolás
 gondolistoj: gondolások
 grafino: grófnő
 grafinon: grófnőt
@@ -106,9 +106,9 @@ kafejon: kávézót
 karulino: kedves (nő)
 karulo: kedves (férfi)
 klarigis: magyarázta
-klarigon: magyarázatot 
+klarigon: magyarázatot
 klubanoj: klubtagok
-kompreneble: 
+kompreneble:
 - természetesen
 - magától értetődik
 korpoforton: testi erőt
@@ -122,7 +122,7 @@ lernanto:
 - tanuló
 - diák
 lernejo: iskola
-lernejon: iskolát 
+lernejon: iskolát
 lernolibroj: tankönyvek
 leteroj: levelek
 libertempo: szabadidő
@@ -133,44 +133,44 @@ malbela: csúnya
 malbonaj: rosszak
 malbonajn: rosszakat
 malbonan: rosszat
-malbono: rosszaság 
+malbono: rosszaság
 malfacilan: nehezet
 malfacile: nehezen
-malfeliĉo: 
-  - boldogtalanság
-  - szerencsétlenség
+malfeliĉo:
+- boldogtalanság
+- szerencsétlenség
 malforta: gyenge
-malforte: gyengén 
+malforte: gyengén
 malfruas: késik
 malfrue: későn
-malfrui: késni 
+malfrui: késni
 malgranda:
 - kicsi
 - kis
-malhelpis: 
-  - akadályozott
-  - gátolt
+malhelpis:
+- akadályozott
+- gátolt
 malinterese: unalmasan
 malkontentigi: elégedetlenné tenni
 mallaŭte: halkan
 malliberejon: börtönt
 mallumo: sötétség
 malmulte: keveset
-malmultekosta: olcsó 
+malmultekosta: olcsó
 malmulton: keveset
 malnova: régi
 malnovaj: régiek
-malofte: ritkán 
+malofte: ritkán
 malplaĉa: nemtetsző
-malplaĉan: nemtetszőt 
+malplaĉan: nemtetszőt
 malproksime: messze
 malsaniĝis: beteg lett
-malsaĝa: 
-  - ostoba
-  - buta
-malsekajn: 
-  - vizeseket
-  - nedveseket
+malsaĝa:
+- ostoba
+- buta
+malsekajn:
+- vizeseket
+- nedveseket
 malsukcesa: sikertelen
 maltrankvila: nyugtalan
 malvarman: hideget
@@ -182,7 +182,7 @@ manĝegi: zabálni
 maristo: tengerész
 maristoj: tengerészek
 mariston: tengerészt
-miaj: enyéim 
+miaj: enyéim
 militistoj: katonák
 monerojn: pénzérméket
 monujo: pénztárca
@@ -192,7 +192,7 @@ moviĝis: mozgott
 multekosta: drága
 multpiedaj: soklábúak
 naskiĝtaga: születésnapi
-naskiĝtago: születésnap 
+naskiĝtago: születésnap
 naturaĵojn: természeti dolgokat
 nehoma: nem emberi
 neinteresaj: nem érdekesek
@@ -201,16 +201,16 @@ novaĵoj: hírek
 opinion: véleményt
 ordigi: rendet rakni
 paperoj: papírok
-paperojn:  papírokat
+paperojn: papírokat
 paperujon: papírkosarat
 pasigos: tölteni fog
 patrino: anya
 perdigis: elveszejtett
 plenigadis: töltögetett
 plenumis: teljesített
-plibeligis: 
-  - szebbé tett
-  - szépített
+plibeligis:
+- szebbé tett
+- szépített
 plimulto: többség
 policano: rendőr
 promenejo: sétány
@@ -218,9 +218,9 @@ promeno: séta
 rapidege: nagyon gyorsan
 realigi: megvalósítani
 redonu: add vissza
-rekapti: 
-  - újra elkapni
-  - visszaszerezni
+rekapti:
+- újra elkapni
+- visszaszerezni
 repaciĝon: újrakibékülést
 revenis: visszajött
 revidi: viszontlátni
@@ -230,9 +230,9 @@ rideto: mosoly
 riĉeco: gazdagság
 riĉulo: gazdag ember
 salton: ugrást
-saluton: 
-  - szia
-  - szervusz
+saluton:
+- szia
+- szervusz
 samklubanoj: klubtagok
 sekretajn: titkosakat
 sekreton: titkosat
@@ -264,10 +264,10 @@ urbomezo: városközpont
 vagonaro: vonat
 vendejo: bolt
 vendejon: boltot
-vendisto: eladó 
-vestaĵo: ruha 
+vendisto: eladó
+vestaĵo: ruha
 vestaĵoj: ruhák
-vestaĵojn: ruhákat 
+vestaĵojn: ruhákat
 vestaĵon: ruhát
 veturado: utazás
 veturigus: elvinne (járművel)
@@ -278,8 +278,8 @@ vojaĝantoj: utazók
 ĉeesto: jelenlét
 ĉirkaŭaĵo: környék
 ĝenon: zavarást
-ĝustatempe: 
-  - jókor
-  - a megfelelő időben
-ŝiaj: az övéi (nőnem) 
+ĝustatempe:
+- jókor
+- a megfelelő időben
+ŝiaj: az övéi (nőnem)
 ŝipkuron: hajófutamot

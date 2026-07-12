@@ -1,51 +1,51 @@
 - demando: ?מי החברה שלך
   rektatraduko:
-    - Kiu: מי
-    - estas: היא
-    - via: שלך
-    - amikino: חברה
-    - '?'
+  - Kiu: מי
+  - estas: היא
+  - via: שלך
+  - amikino: חברה
+  - '?'
 - demando: ?האם החברה שלך אנה כותבת עכשיו בחדר
   rektatraduko:
-    - Ĉu: האם
-    - via: שלך
-    - amikino: חברה
-    - Ana: אנה
-    - skribas: כותבת
-    - nun: עכשיו
-    - en: ב
-    - la: (ה הידיעה)
-    - ĉambro: חדר
-    - '?'
+  - Ĉu: האם
+  - via: שלך
+  - amikino: חברה
+  - Ana: אנה
+  - skribas: כותבת
+  - nun: עכשיו
+  - en: ב
+  - la: (ה הידיעה)
+  - ĉambro: חדר
+  - '?'
 - demando: ?האם החבר של אבא שלך עובד במלון
   rektatraduko:
-    - Ĉu: האם
-    - la: ה
-    - amiko: חבר
-    - de: של
-    - via: שלך
-    - patro: אבא
-    - laboras: עובד
-    - en: ב
-    - hotelo: מלון
-    - '?'
+  - Ĉu: האם
+  - la: ה
+  - amiko: חבר
+  - de: של
+  - via: שלך
+  - patro: אבא
+  - laboras: עובד
+  - en: ב
+  - hotelo: מלון
+  - '?'
 - demando: ?מה יש על שולחן העבודה בחדר שלנו
   rektatraduko:
-    - Kio: מה
-    - estas: יש
-    - sur: על
-    - la: ה
-    - labortablo: שולחן עבודה
-    - en: ב
-    - nia: שלנו
-    - ĉambro: חדר
-    - '?'
+  - Kio: מה
+  - estas: יש
+  - sur: על
+  - la: ה
+  - labortablo: שולחן עבודה
+  - en: ב
+  - nia: שלנו
+  - ĉambro: חדר
+  - '?'
 - demando: ?האם יש ספר אספרנטו על השולחן שלך
   rektatraduko:
-    - Ĉu: האם
-    - Esperanto-lernolibro: ספר אספרנטו
-    - estas: יש
-    - sur: על
-    - via: שלך
-    - tablo: שולחן
-    - '?'
+  - Ĉu: האם
+  - Esperanto-lernolibro: ספר אספרנטו
+  - estas: יש
+  - sur: על
+  - via: שלך
+  - tablo: שולחן
+  - '?'

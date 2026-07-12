@@ -1,77 +1,71 @@
--
-  demando: Nani alikuwa na kitabu ulichokuwa ukikingoja kwa zaidi ya miaka miwili?
+- demando: Nani alikuwa na kitabu ulichokuwa ukikingoja kwa zaidi ya miaka miwili?
   rektatraduko:
-    - Kiu: Nani
-    - havis: alikuwa na
-    - la: kiarifu
-    - libron: kitabu
-    - ','
-    - kiun: ambacho
-    - vi: wewe
-    - atendis: ulingoja
-    - pli: zaidi
-    - ol: kuliko
-    - du: mbili
-    - jarojn: miaka
-    - '?'
--
-  demando: Je, unataka nikuonyeshe picha ninayoipenda zaidi?
+  - Kiu: Nani
+  - havis: alikuwa na
+  - la: kiarifu
+  - libron: kitabu
+  - ','
+  - kiun: ambacho
+  - vi: wewe
+  - atendis: ulingoja
+  - pli: zaidi
+  - ol: kuliko
+  - du: mbili
+  - jarojn: miaka
+  - '?'
+- demando: Je, unataka nikuonyeshe picha ninayoipenda zaidi?
   rektatraduko:
-    - Ĉu: je
-    - vi: wewe
-    - volas: unataka
-    - ','
-    - ke: kwamba
-    - mi: mimi
-    - montru: nionyeshe
-    - al: kwa
-    - vi: wewe
-    - mian: yangu
-    - plej: zaidi kabisa
-    - karan: ya thamani
-    - foton: picha
-    - '?'
--
-  demando: Ulinunua vazi hilo wapi?
+  - Ĉu: je
+  - vi: wewe
+  - volas: unataka
+  - ','
+  - ke: kwamba
+  - mi: mimi
+  - montru: nionyeshe
+  - al: kwa
+  - vi: wewe
+  - mian: yangu
+  - plej: zaidi kabisa
+  - karan: ya thamani
+  - foton: picha
+  - '?'
+- demando: Ulinunua vazi hilo wapi?
   rektatraduko:
-    - Kie: Wapi
-    - vi: wewe
-    - aĉetis: ulinunua
-    - tiun: hilo
-    - vestaĵon: vazi
-    - '?'
--
-  demando: Utaenda wapi Jumapili ikiwa itakuwa siku yenye jua?
+  - Kie: Wapi
+  - vi: wewe
+  - aĉetis: ulinunua
+  - tiun: hilo
+  - vestaĵon: vazi
+  - '?'
+- demando: Utaenda wapi Jumapili ikiwa itakuwa siku yenye jua?
   rektatraduko:
-    - Kien: Kuelekea wapi
-    - vi: wewe
-    - iros: utaenda
-    - dimanĉe: Jumapili
-    - ','
-    - se: ikiwa
-    - estos: itakuwa
-    - suna: yenye jua
-    - tago: siku
-    - '?'
--
-  demando: Je, kaka yako tayari ameondoka?
+  - Kien: Kuelekea wapi
+  - vi: wewe
+  - iros: utaenda
+  - dimanĉe: Jumapili
+  - ','
+  - se: ikiwa
+  - estos: itakuwa
+  - suna: yenye jua
+  - tago: siku
+  - '?'
+- demando: Je, kaka yako tayari ameondoka?
   rektatraduko:
-    - Ĉu: je
-    - via: yako
-    - frato: kaka
-    - jam: tayari
-    - ekiris: ameondoka
-    - '?'
--
-  demando: Maji uliyoleta mwenyewe yako wapi?
+  - Ĉu: je
+  - via: yako
+  - frato: kaka
+  - jam: tayari
+  - ekiris: ameondoka
+  - '?'
+- demando: Maji uliyoleta mwenyewe yako wapi?
   rektatraduko:
-    - Kie: Wapi
-    - estas: yako
-    - la: kiarifu
-    - akvo: maji
-    - ','
-    - kiun: ambayo
-    - vi: wewe
-    - mem: mwenyewe
-    - kunportis: ulileta pamoja
-    - '?'
+  - Kie: Wapi
+  - estas: yako
+  - la: kiarifu
+  - akvo: maji
+  - ','
+  - kiun: ambayo
+  - vi: wewe
+  - mem: mwenyewe
+  - kunportis: ulileta pamoja
+  - '?'

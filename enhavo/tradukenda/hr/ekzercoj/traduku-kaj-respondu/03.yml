@@ -1,72 +1,72 @@
 - demando: Razumiju li konobari u velikim hotelima mnoge jezike?
   rektatraduko:
-    - Ĉu: Da li
-    - kelneroj: konobari
-    - en: u
-    - grandaj: veliki
-    - hoteloj: hoteli
-    - komprenas: razumiju
-    - multajn: mnoge
-    - lingvojn: jezike
-    - '?'
+  - Ĉu: Da li
+  - kelneroj: konobari
+  - en: u
+  - grandaj: veliki
+  - hoteloj: hoteli
+  - komprenas: razumiju
+  - multajn: mnoge
+  - lingvojn: jezike
+  - '?'
 - demando: Znaš li, voli li Ana novu pjesmu o siromahu i ljepotici?
   rektatraduko:
-    - Ĉu: Da li
-    - vi: ti
-    - scias: znaš
-    - ','
-    - ĉu: da li
-    - Ana: Ana
-    - ŝatas: voli
-    - la: (član)
-    - novan: novu
-    - kanton: pjesmu
-    - pri: o
-    - malriĉulo: siromah
-    - kaj: i
-    - belulino: ljepotica
-    - '?'
+  - Ĉu: Da li
+  - vi: ti
+  - scias: znaš
+  - ','
+  - ĉu: da li
+  - Ana: Ana
+  - ŝatas: voli
+  - la: (član)
+  - novan: novu
+  - kanton: pjesmu
+  - pri: o
+  - malriĉulo: siromah
+  - kaj: i
+  - belulino: ljepotica
+  - '?'
 - demando: Gdje si vidio starca i mladića koji su nosili veliki stol?
   rektatraduko:
-    - Kie: Gdje
-    - vi: ti
-    - vidis: si vidio
-    - la: (član)
-    - maljunulon: starca
-    - kaj: i
-    - la: (član)
-    - junulon: mladića
-    - ','
-    - kiuj: koji
-    - portis: su nosili
-    - grandan: veliki
-    - tablon: stol
-    - '?'
+  - Kie: Gdje
+  - vi: ti
+  - vidis: si vidio
+  - la: (član)
+  - maljunulon: starca
+  - kaj: i
+  - la: (član)
+  - junulon: mladića
+  - ','
+  - kiuj: koji
+  - portis: su nosili
+  - grandan: veliki
+  - tablon: stol
+  - '?'
 - demando: Kako se dogodilo da si ponovno došao k nama bez braće i sestara?
   rektatraduko:
-    - Kiel: Kako
-    - okazis: dogodilo se
-    - ','
-    - ke: da
-    - vi: ti
-    - denove: ponovno
-    - venis: došao si
-    - al: k
-    - ni: mi
-    - sen: bez
-    - gefratoj: braća i sestre
-    - '?'
+  - Kiel: Kako
+  - okazis: dogodilo se
+  - ','
+  - ke: da
+  - vi: ti
+  - denove: ponovno
+  - venis: došao si
+  - al: k
+  - ni: mi
+  - sen: bez
+  - gefratoj: braća i sestre
+  - '?'
 - demando: Možeš li naučiti esperanto dovoljno brzo pomoću novog udžbenika?
   rektatraduko:
-    - Ĉu: Da li
-    - vi: ti
-    - povas: možeš
-    - per: pomoću
-    - la: (član)
-    - nova: novi
-    - lernolibro: udžbenik
-    - sufiĉe: dovoljno
-    - rapide: brzo
-    - lerni: naučiti
-    - Esperanton: esperanto
-    - '?'
+  - Ĉu: Da li
+  - vi: ti
+  - povas: možeš
+  - per: pomoću
+  - la: (član)
+  - nova: novi
+  - lernolibro: udžbenik
+  - sufiĉe: dovoljno
+  - rapide: brzo
+  - lerni: naučiti
+  - Esperanton: esperanto
+  - '?'

@@ -1,63 +1,63 @@
 - demando: Ali se bova videla spet, vseeno, kjer koli in kadar koli?
   rektatraduko:
-    - Ĉu: Ali
-    - ni: (zaimek midva)
-    - revidos: se bova videla
-    - nin: se bova videla
-    - ','
-    - kie: kjer
-    - ajn: koli
-    - kaj: in
-    - kiam: kadar
-    - ajn: koli
-    - '?'
+  - Ĉu: Ali
+  - ni: (zaimek midva)
+  - revidos: se bova videla
+  - nin: se bova videla
+  - ','
+  - kie: kjer
+  - ajn: koli
+  - kaj: in
+  - kiam: kadar
+  - ajn: koli
+  - '?'
 - demando: Kdaj bom dobil nazaj drugo polovico knjig?
   rektatraduko:
-    - Kiam: Kdaj
-    - mi: (zaimek jaz)
-    - rericevos: bom dobil nazaj
-    - la: (člen)
-    - alian: drugo
-    - duonon: polovico
-    - de: (predlog od)
-    - la: (člen)
-    - libroj: knjig
-    - '?'
+  - Kiam: Kdaj
+  - mi: (zaimek jaz)
+  - rericevos: bom dobil nazaj
+  - la: (člen)
+  - alian: drugo
+  - duonon: polovico
+  - de: (predlog od)
+  - la: (člen)
+  - libroj: knjig
+  - '?'
 - demando: Ali boš potreboval več kot četrt leta za ta dela?
   rektatraduko:
-    - Ĉu: Ali
-    - vi: (zaimek ti)
-    - bezonos: boš potreboval
-    - pli: več
-    - ol: kot
-    - kvaronan: četrt
-    - jaron: leta
-    - por: za
-    - tiuj: ta
-    - laboroj: dela
-    - '?'
+  - Ĉu: Ali
+  - vi: (zaimek ti)
+  - bezonos: boš potreboval
+  - pli: več
+  - ol: kot
+  - kvaronan: četrt
+  - jaron: leta
+  - por: za
+  - tiuj: ta
+  - laboroj: dela
+  - '?'
 - demando: Zakaj je toliko bolj mrzlo, koliko bolj dolgo čakamo?
   rektatraduko:
-    - Kial: Zakaj
-    - ju: koliko
-    - pli: bolj
-    - longe: dolgo
-    - ni: (zaimek mi)
-    - atendas: čakamo
-    - ','
-    - des: toliko
-    - pli: bolj
-    - malvarme: hladno
-    - estas: je
-    - '?'
+  - Kial: Zakaj
+  - ju: koliko
+  - pli: bolj
+  - longe: dolgo
+  - ni: (zaimek mi)
+  - atendas: čakamo
+  - ','
+  - des: toliko
+  - pli: bolj
+  - malvarme: hladno
+  - estas: je
+  - '?'
 - demando: Ali bi bila srečna s katerim koli moškim?
   rektatraduko:
-    - Ĉu: Ali
-    - vi: (zaimek ti)
-    - estus: bi bila
-    - kontenta: srečna
-    - kun: z
-    - iu: katerim
-    - ajn: koli
-    - viro: moškim
-    - '?'
+  - Ĉu: Ali
+  - vi: (zaimek ti)
+  - estus: bi bila
+  - kontenta: srečna
+  - kun: z
+  - iu: katerim
+  - ajn: koli
+  - viro: moškim
+  - '?'

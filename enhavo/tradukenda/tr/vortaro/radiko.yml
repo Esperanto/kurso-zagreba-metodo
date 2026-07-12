@@ -16,7 +16,7 @@ aĉet: satın almak
 aŭd: duymak
 aŭt: araba
 aŭtoritat: otorite
-bedaŭr: 
+bedaŭr:
 - pişman olmak
 - esefle karşılamak
 bel: güzel
@@ -29,7 +29,7 @@ bon: iyi
 branĉ: dal
 bru: gürültü
 buŝ: ağız
-cert: 
+cert:
 - kesin
 - emin olmak
 dank: teşekkür etmek
@@ -37,7 +37,7 @@ daŭr: devam etmek
 decid: karar vermek
 demand: sormak
 dev: zorunda olmak
-dezir: 
+dezir:
 - dilemek
 - arzu etmek
 diabl: şeytan
@@ -45,7 +45,7 @@ dik:
 - kalın
 - şişman
 dimanĉ: Pazar
-dir: 
+dir:
 - söylemek
 - demek
 direkt: yön
@@ -63,8 +63,8 @@ edz: koca
 efektiv: gerçekte
 ekskurs: gezinti
 esper: ummak, umut etmek
-est: 
-- olmak 
+est:
+- olmak
 - -dir, -im vs (yardımcı fiil)
 facil: kolay
 fakt: aslında
@@ -75,7 +75,7 @@ fart:
 - hissetmek(ruh/sağlık hali)
 - olmak (iyi/kötü)
 feliĉ: mutlu
-ferm: kapatmak 
+ferm: kapatmak
 fin: bitirmek
 flank: taraf
 foj:
@@ -116,8 +116,8 @@ kapt: yakalamak
 kar: değerli, kıymetli
 kastel: kale
 kav: mağara
-kelk: 
-- bazı 
+kelk:
+- bazı
 - bir kaç
 kelner: garson
 klar: net, açık
@@ -126,7 +126,7 @@ knab: oğlan
 koler: sinir
 kolor: renk
 komenc: başlamak
-kompren: 
+kompren:
 - anlamak
 - kavramak
 kon: bilmek
@@ -134,11 +134,11 @@ kontent: tatmin olmak
 kontrol: kontrol etmek
 kor: kalp
 korp: beden
-kost: 
+kost:
 - tutmak, etmek (fiyat)
 - maaliyet
 kri: çığlık atmak
-kuir: 
+kuir:
 - yemek yapmak
 - pişirmek
 kuk: kek
@@ -156,7 +156,7 @@ lern: öğrenmek
 leter: mektup
 liber: serbest
 libr: kitap
-lok: 
+lok:
 - yer
 - lokasyon
 long: uzun
@@ -190,13 +190,13 @@ not: not
 nov: yeni
 odor: koku
 oft: sıkça
-okaz: 
+okaz:
 - olmak
 - vuku bulmak
 okul: göz
 onkl: amca
 opini: fikir
-ord: 
+ord:
 - emretmek
 - sipariş vermek
 orel: kulak
@@ -213,7 +213,7 @@ paŝ: adım, adımlamak
 pens: düşünmek
 perd: kaybetmek
 person: kişi
-pet: 
+pet:
 - rica etmek
 - talep etmek
 pez: ağır
@@ -224,10 +224,10 @@ plaĉ: memnu etmek
 plen: dolu, full
 polic: polis
 pord: kapı
-port: 
+port:
 - taşımak
 - giyior olmak
-pov: 
+pov:
 - yapabilmek, edebilmek
 - -bilmek
 pren: almak
@@ -246,7 +246,7 @@ rekt: direk
 renkont: tanışmak, karşılaşmak
 respekt: saygı duymak
 respond: cevap vermek
-rest: 
+rest:
 - geriye kalmak
 - arta kalmak
 ricev: teslim almak
@@ -310,7 +310,7 @@ varm: sıcak
 ven: gelmek
 vend: satmak
 Veneci: Venedik
-ver: 
+ver:
 - doğru
 - gerçek
 vesper: akşam
@@ -328,9 +328,9 @@ vok: seslenmek
 vol: istemek
 vort: kelime
 voĉ: ses
-zorg: 
+zorg:
 - ilgilenmek
--  endişelenmek
+- endişelenmek
 ĉambr: oda
 ĉef: patron
 ĝen:
@@ -340,7 +340,7 @@ zorg:
 ĝoj: memnun, hoşnut
 ĝust: düzeltmek
 ĵet: fırlatmak, atmak
-ŝajn: 
+ŝajn:
 - gibi görünmek
 - sanki
 ŝanĝ: değiştirmek

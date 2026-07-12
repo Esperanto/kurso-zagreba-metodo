@@ -1,64 +1,59 @@
--
-  demando: An féidir leat foghlaim go suaimhneach agus duine éigin ag canadh le háthas?
-  rektatraduko: 
-    - Ĉu: An
-    - vi: tú
-    - povas: féidir
-    - trankvile: go suaimhneach
-    - lerni: foghlaim
-    - ','
-    - dum: i rith
-    - iu: duine éigin
-    - ĝoje: le háthas
-    - kantas: canann
-    - '?'
--
-  demando: Cé hé gurb eol dó cathain agus cén áit a bhfeicfimid a chéile arís?  
-  rektatraduko: 
-    - Kiu: Cé
-    - scias: is eol
-    - ','
-    - kiam: cathain 
-    - kaj: agus
-    - kie: cén áit
-    - ni: sinn
-    - revidos: feiscint arís
-    - nin: a chéile
-    - '?'
--
-  demando: Cén t-am anois é?
-  rektatraduko: 
-    - Kioma: Cé mhéad
-    - horo: uair an chloig
-    - estas: tá 
-    - nun: anois
-    - '?'
--
-  demando: Ar chabhraigh duine leat doras an tsean tí a oscailt?
-  rektatraduko: 
-    - Ĉu: Ar
-    - iu: duine éigin
-    - helpis: chabhraigh
-    - al: le 
-    - vi: tú
-    - malfermi: oscail 
-    - la: an
-    - pordon: doras 
-    - de: de
-    - la: an
-    - malnova: sean
-    - domo: teach
-    - '?'
--
-  demando: Cén fáth ná fuil am agat éisteacht liom níos mó?  
-  rektatraduko: 
-    - Kial: Cén fáth
-    - vi: tú
-    - ne: ní
-    - havas: tá ... ag
-    - tempon: am
-    - aŭskulti: éist
-    - min: mé
-    - pli: níos mó
-    - longe: fada
-    - '?'
+- demando: An féidir leat foghlaim go suaimhneach agus duine éigin ag canadh le háthas?
+  rektatraduko:
+  - Ĉu: An
+  - vi: tú
+  - povas: féidir
+  - trankvile: go suaimhneach
+  - lerni: foghlaim
+  - ','
+  - dum: i rith
+  - iu: duine éigin
+  - ĝoje: le háthas
+  - kantas: canann
+  - '?'
+- demando: Cé hé gurb eol dó cathain agus cén áit a bhfeicfimid a chéile arís?
+  rektatraduko:
+  - Kiu: Cé
+  - scias: is eol
+  - ','
+  - kiam: cathain
+  - kaj: agus
+  - kie: cén áit
+  - ni: sinn
+  - revidos: feiscint arís
+  - nin: a chéile
+  - '?'
+- demando: Cén t-am anois é?
+  rektatraduko:
+  - Kioma: Cé mhéad
+  - horo: uair an chloig
+  - estas: tá
+  - nun: anois
+  - '?'
+- demando: Ar chabhraigh duine leat doras an tsean tí a oscailt?
+  rektatraduko:
+  - Ĉu: Ar
+  - iu: duine éigin
+  - helpis: chabhraigh
+  - al: le
+  - vi: tú
+  - malfermi: oscail
+  - la: an
+  - pordon: doras
+  - de: de
+  - la: an
+  - malnova: sean
+  - domo: teach
+  - '?'
+- demando: Cén fáth ná fuil am agat éisteacht liom níos mó?
+  rektatraduko:
+  - Kial: Cén fáth
+  - vi: tú
+  - ne: ní
+  - havas: tá ... ag
+  - tempon: am
+  - aŭskulti: éist
+  - min: mé
+  - pli: níos mó
+  - longe: fada
+  - '?'

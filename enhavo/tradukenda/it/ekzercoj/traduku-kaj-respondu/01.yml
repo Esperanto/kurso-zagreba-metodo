@@ -1,51 +1,51 @@
 - demando: Chi è la tua amica?
   rektatraduko:
-    - Kiu: Chi
-    - estas: è
-    - via: la tua
-    - amikino: amica
-    - '?'
+  - Kiu: Chi
+  - estas: è
+  - via: la tua
+  - amikino: amica
+  - '?'
 - demando: La tua amica Ana scrive adesso, nella camera?
   rektatraduko:
-    - Ĉu: (interrogativa)
-    - via: La tua
-    - amikino: amica
-    - Ana: Ana
-    - skribas: scrive
-    - nun: adesso
-    - en: in
-    - la: la
-    - ĉambro: camera
-    - '?'
+  - Ĉu: (interrogativa)
+  - via: La tua
+  - amikino: amica
+  - Ana: Ana
+  - skribas: scrive
+  - nun: adesso
+  - en: in
+  - la: la
+  - ĉambro: camera
+  - '?'
 - demando: L'amico di tuo padre lavora in albergo?
   rektatraduko:
-    - Ĉu: (interrogativa)
-    - la: lo
-    - amiko: amico
-    - de: di
-    - via: tuo
-    - patro: padre
-    - laboras: lavora
-    - en: in
-    - hotelo: albergo
-    - '?'
+  - Ĉu: (interrogativa)
+  - la: lo
+  - amiko: amico
+  - de: di
+  - via: tuo
+  - patro: padre
+  - laboras: lavora
+  - en: in
+  - hotelo: albergo
+  - '?'
 - demando: Che cosa c'è sul tavolo da lavoro nella nostra camera?
   rektatraduko:
-    - Kio: Che cosa
-    - estas: è
-    - sur: su
-    - la: il
-    - labortablo: tavolo da lavoro
-    - en: in
-    - nia: nostra
-    - ĉambro: camera
-    - '?'
+  - Kio: Che cosa
+  - estas: è
+  - sur: su
+  - la: il
+  - labortablo: tavolo da lavoro
+  - en: in
+  - nia: nostra
+  - ĉambro: camera
+  - '?'
 - demando: Sul tuo tavolo c'è il manuale di esperanto?
   rektatraduko:
-    - Ĉu: (interrogativa)
-    - Esperanto-lernolibro: manuale di esperanto
-    - estas: c'è
-    - sur: su
-    - via: tuo
-    - tablo: tavolo
-    - '?'
+  - Ĉu: (interrogativa)
+  - Esperanto-lernolibro: manuale di esperanto
+  - estas: c'è
+  - sur: su
+  - via: tuo
+  - tablo: tavolo
+  - '?'

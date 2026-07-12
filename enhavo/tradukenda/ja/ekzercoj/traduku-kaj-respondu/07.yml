@@ -1,77 +1,71 @@
-- 
-  demando: あなたが二年以上待っていたその本を誰が持っていたのですか？
-  rektatraduko: 
-    - Kiu: 誰が
-    - havis: 持っていた
-    - la: （定冠詞）
-    - libron: 本を
-    - ',' 
-    - kiun: それ（その本）を
-    - vi: あなたは
-    - atendis: 待っていた
-    - pli: もっと
-    - ol: ～より
-    - du: 二
-    - jarojn: 年
-    - '?'
-- 
-  demando: 私が一番大事にしている写真を見たいですか？
-  rektatraduko: 
-    - Ĉu: ～か？
-    - vi: あなたは
-    - volas: 欲する
-    - ','
-    - ke: ～ということを
-    - mi: 私が
-    - montru: 示す(意志）
-    - al: ～へ 
-    - vi: あなた
-    - mian: 私の
-    - plej: 一番
-    - karan: 大事な（愛しい）
-    - foton: 写真を
-    - '?'
-- 
-  demando: その服をどこで買ったのですか？
-  rektatraduko: 
-    - Kie: どこで
-    - vi: あなたは
-    - aĉetis: 買った
-    - tiun: その
-    - vestaĵon: 服を
-    - '?'
-- 
-  demando: もし晴れたら日曜日にはどこに行きますか？
-  rektatraduko: 
-    - Kien: どこに
-    - vi: あなたは
-    - iros: 行くだろう
-    - dimanĉe: 日曜日に
-    - ',' 
-    - se: もし～なら
-    - estos: であろう
-    - suna: 晴の（日の照る）
-    - tago: 日
-    - '?'
-- 
-  demando: あなたの兄弟はすでに出発しましたか？
-  rektatraduko: 
-    - Ĉu: ～か？
-    - via: あなたの
-    - frato: 兄弟は
-    - jam: すでに
-    - ekiris: 出発した
-    - '?'
-- 
-  demando: あなた自身が持ってきたその水はどこにあるのですか？
-  rektatraduko: 
-    - Kie: どこに
-    - estas: ある
-    - la: （定冠詞）
-    - akvo: 水
-    - ',' 
-    - kiun: それ（その水）を
-    - vi: あなた
-    - mem: あなた自身
-    - kunportis: 持ってきた
-    - '?'
+- demando: あなたが二年以上待っていたその本を誰が持っていたのですか？
+  rektatraduko:
+  - Kiu: 誰が
+  - havis: 持っていた
+  - la: （定冠詞）
+  - libron: 本を
+  - ','
+  - kiun: それ（その本）を
+  - vi: あなたは
+  - atendis: 待っていた
+  - pli: もっと
+  - ol: ～より
+  - du: 二
+  - jarojn: 年
+  - '?'
+- demando: 私が一番大事にしている写真を見たいですか？
+  rektatraduko:
+  - Ĉu: ～か？
+  - vi: あなたは
+  - volas: 欲する
+  - ','
+  - ke: ～ということを
+  - mi: 私が
+  - montru: 示す(意志）
+  - al: ～へ
+  - vi: あなた
+  - mian: 私の
+  - plej: 一番
+  - karan: 大事な（愛しい）
+  - foton: 写真を
+  - '?'
+- demando: その服をどこで買ったのですか？
+  rektatraduko:
+  - Kie: どこで
+  - vi: あなたは
+  - aĉetis: 買った
+  - tiun: その
+  - vestaĵon: 服を
+  - '?'
+- demando: もし晴れたら日曜日にはどこに行きますか？
+  rektatraduko:
+  - Kien: どこに
+  - vi: あなたは
+  - iros: 行くだろう
+  - dimanĉe: 日曜日に
+  - ','
+  - se: もし～なら
+  - estos: であろう
+  - suna: 晴の（日の照る）
+  - tago: 日
+  - '?'
+- demando: あなたの兄弟はすでに出発しましたか？
+  rektatraduko:
+  - Ĉu: ～か？
+  - via: あなたの
+  - frato: 兄弟は
+  - jam: すでに
+  - ekiris: 出発した
+  - '?'
+- demando: あなた自身が持ってきたその水はどこにあるのですか？
+  rektatraduko:
+  - Kie: どこに
+  - estas: ある
+  - la: （定冠詞）
+  - akvo: 水
+  - ','
+  - kiun: それ（その水）を
+  - vi: あなた
+  - mem: あなた自身
+  - kunportis: 持ってきた
+  - '?'

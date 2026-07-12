@@ -1,67 +1,67 @@
 - demando: Cathain a chífead arís thú?
   rektatraduko:
-    - Kiam: Cathain
-    - mi: mé
-    - revidos: chífidh arís
-    - vin: tú
-    - '?'
+  - Kiam: Cathain
+  - mi: mé
+  - revidos: chífidh arís
+  - vin: tú
+  - '?'
 - demando: Cé chomh fada atá an teanga idirnáisiúnta á foghlaim agat?
   rektatraduko:
-    - Kiom: cé mhéad
-    - longe: fada
-    - vi: tú
-    - lernas: foghlaim
-    - la: an
-    - Internacian: idirnáisiúnta
-    - Lingvon: teanga
-    - '?'
+  - Kiom: cé mhéad
+  - longe: fada
+  - vi: tú
+  - lernas: foghlaim
+  - la: an
+  - Internacian: idirnáisiúnta
+  - Lingvon: teanga
+  - '?'
 - demando: Cá bhfuil mo leabhar nua leis na grianghraif?
   rektatraduko:
-    - Kie: Cá
-    - estas: bhfuil
-    - mia: mo
-    - nova: nua
-    - libro: leabhar
-    - kun: le
-    - fotoj: grianghraif
-    - '?'
+  - Kie: Cá
+  - estas: bhfuil
+  - mia: mo
+  - nova: nua
+  - libro: leabhar
+  - kun: le
+  - fotoj: grianghraif
+  - '?'
 - demando: Cá raghair tar éis an lóin?
   rektatraduko:
-    - Kien: Cá
-    - vi: tú
-    - iros: raghaidh
-    - post: tar éis
-    - la: an
-    - tagmanĝo: lón
-    - '?'
+  - Kien: Cá
+  - vi: tú
+  - iros: raghaidh
+  - post: tar éis
+  - la: an
+  - tagmanĝo: lón
+  - '?'
 - demando: An féidir doras an tseomra a dhúnadh nuair a bhíonn sé fuar?
   rektatraduko:
-    - Ĉu: An
-    - oni: duine
-    - povas: féidir
-    - fermi: dúnadh
-    - la: an
-    - pordon: doras
-    - de: de
-    - la: an
-    - ĉambro: seomra
-    - ','
-    - kiam: nuair
-    - estas: bíonn
-    - malvarme: fuar
-    - '?'
+  - Ĉu: An
+  - oni: duine
+  - povas: féidir
+  - fermi: dúnadh
+  - la: an
+  - pordon: doras
+  - de: de
+  - la: an
+  - ĉambro: seomra
+  - ','
+  - kiam: nuair
+  - estas: bíonn
+  - malvarme: fuar
+  - '?'
 - demando: Cé chomh fada a bhíonn fearg ort má thógann daoine a lán airgid uait?
   rektatraduko:
-    - Kiom: cé mhéad
-    - longe: fada
-    - vi: tú
-    - koleras: fearg
-    - ','
-    - se: má
-    - oni: duine/daoine
-    - forprenas: tóg
-    - de: ó
-    - vi: tú
-    - multan: a lán
-    - monon: airgead
-    - '?'
+  - Kiom: cé mhéad
+  - longe: fada
+  - vi: tú
+  - koleras: fearg
+  - ','
+  - se: má
+  - oni: duine/daoine
+  - forprenas: tóg
+  - de: ó
+  - vi: tú
+  - multan: a lán
+  - monon: airgead
+  - '?'

@@ -1,64 +1,59 @@
--
-  demando: Kan du lära dig i lugn och ro medan någon sjunger glatt?
-  rektatraduko: 
-    - Ĉu: (frågepartikeln)
-    - vi: du
-    - povas: kan
-    - trankvile: lugnt
-    - lerni: lära sig
-    - ','
-    - dum: medan
-    - iu: någon
-    - ĝoje: glatt
-    - kantas: sjunger
-    - '?'
--
-  demando: Vem vet när och var vi kommer att ses igen?
-  rektatraduko: 
-    - Kiu: Vem
-    - scias: vet
-    - ','
-    - kiam: när
-    - kaj: och
-    - kie: var
-    - ni: vi
-    - revidos: kommer att se igen
-    - nin: oss
-    - '?'
--
-  demando: Hur mycket är klockan?
-  rektatraduko: 
-    - Kioma: Hur mycket-a
-    - horo: timme
-    - estas: är 
-    - nun: nu
-    - '?'
--
-  demando: Hjälpte någon dig att öppna dörren till det gamla huset?
-  rektatraduko: 
-    - Ĉu: (frågepartikeln)
-    - iu: någon 
-    - helpis: hjälpte
-    - al: åt
-    - vi: du 
-    - malfermi: öppna 
-    - la: (bestämd artikel)
-    - pordon: dörr 
-    - de: (preposition som visar ägande)
-    - la: (bestämd artikel)
-    - malnova: gammal
-    - domo: hus
-    - '?'
--
-  demando: Varför har du inte tid att lyssna på mig längre?
-  rektatraduko: 
-    - Kial: Varför
-    - vi: du
-    - ne: inte
-    - havas: har
-    - tempon: tid
-    - aŭskulti: lyssna
-    - min: mig
-    - pli: mer
-    - longe: länge
-    - '?'
+- demando: Kan du lära dig i lugn och ro medan någon sjunger glatt?
+  rektatraduko:
+  - Ĉu: (frågepartikeln)
+  - vi: du
+  - povas: kan
+  - trankvile: lugnt
+  - lerni: lära sig
+  - ','
+  - dum: medan
+  - iu: någon
+  - ĝoje: glatt
+  - kantas: sjunger
+  - '?'
+- demando: Vem vet när och var vi kommer att ses igen?
+  rektatraduko:
+  - Kiu: Vem
+  - scias: vet
+  - ','
+  - kiam: när
+  - kaj: och
+  - kie: var
+  - ni: vi
+  - revidos: kommer att se igen
+  - nin: oss
+  - '?'
+- demando: Hur mycket är klockan?
+  rektatraduko:
+  - Kioma: Hur mycket-a
+  - horo: timme
+  - estas: är
+  - nun: nu
+  - '?'
+- demando: Hjälpte någon dig att öppna dörren till det gamla huset?
+  rektatraduko:
+  - Ĉu: (frågepartikeln)
+  - iu: någon
+  - helpis: hjälpte
+  - al: åt
+  - vi: du
+  - malfermi: öppna
+  - la: (bestämd artikel)
+  - pordon: dörr
+  - de: (preposition som visar ägande)
+  - la: (bestämd artikel)
+  - malnova: gammal
+  - domo: hus
+  - '?'
+- demando: Varför har du inte tid att lyssna på mig längre?
+  rektatraduko:
+  - Kial: Varför
+  - vi: du
+  - ne: inte
+  - havas: har
+  - tempon: tid
+  - aŭskulti: lyssna
+  - min: mig
+  - pli: mer
+  - longe: länge
+  - '?'

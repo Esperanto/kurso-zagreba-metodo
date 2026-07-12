@@ -1,64 +1,59 @@
--
-  demando: Ṣé o lè kọ́ ẹ̀kọ́ ní ìfarabalẹ̀ nígbà tí ẹnì kan ń kọrin pẹ̀lú ayọ̀?
+- demando: Ṣé o lè kọ́ ẹ̀kọ́ ní ìfarabalẹ̀ nígbà tí ẹnì kan ń kọrin pẹ̀lú ayọ̀?
   rektatraduko:
-    - Ĉu: Ṣé
-    - vi: ìwọ
-    - povas: lè
-    - trankvile: ní ìfarabalẹ̀
-    - lerni: kọ́
-    - ','
-    - dum: nígbà tí
-    - iu: ẹnì kan
-    - ĝoje: pẹ̀lú ayọ̀
-    - kantas: ń kọrin
-    - '?'
--
-  demando: Ta ni ó mọ̀ nígbà wo àti níbo ni a ó tún rí ara wa?
+  - Ĉu: Ṣé
+  - vi: ìwọ
+  - povas: lè
+  - trankvile: ní ìfarabalẹ̀
+  - lerni: kọ́
+  - ','
+  - dum: nígbà tí
+  - iu: ẹnì kan
+  - ĝoje: pẹ̀lú ayọ̀
+  - kantas: ń kọrin
+  - '?'
+- demando: Ta ni ó mọ̀ nígbà wo àti níbo ni a ó tún rí ara wa?
   rektatraduko:
-    - Kiu: Ta ni
-    - scias: mọ̀
-    - ','
-    - kiam: nígbà wo
-    - kaj: àti
-    - kie: níbo
-    - ni: àwa
-    - revidos: yóò tún rí
-    - nin: ara wa
-    - '?'
--
-  demando: Wákàtí mélòó ni báyìí?
+  - Kiu: Ta ni
+  - scias: mọ̀
+  - ','
+  - kiam: nígbà wo
+  - kaj: àti
+  - kie: níbo
+  - ni: àwa
+  - revidos: yóò tún rí
+  - nin: ara wa
+  - '?'
+- demando: Wákàtí mélòó ni báyìí?
   rektatraduko:
-    - Kioma: Mélòó
-    - horo: wákàtí
-    - estas: jẹ́
-    - nun: báyìí
-    - '?'
--
-  demando: Ṣé ẹnì kan ràn ọ́ lọ́wọ́ láti ṣí ilẹ̀kùn ilé àtijọ́ náà?
+  - Kioma: Mélòó
+  - horo: wákàtí
+  - estas: jẹ́
+  - nun: báyìí
+  - '?'
+- demando: Ṣé ẹnì kan ràn ọ́ lọ́wọ́ láti ṣí ilẹ̀kùn ilé àtijọ́ náà?
   rektatraduko:
-    - Ĉu: Ṣé
-    - iu: ẹnì kan
-    - helpis: ràn lọ́wọ́
-    - al: sí
-    - vi: ìwọ
-    - malfermi: ṣí
-    - la: náà
-    - pordon: ilẹ̀kùn
-    - de: ti
-    - la: náà
-    - malnova: àtijọ́
-    - domo: ilé
-    - '?'
--
-  demando: Kí ló dé tí o kò ní àkókò láti gbọ́ mi fún ìgbà pípẹ́ sí i?
+  - Ĉu: Ṣé
+  - iu: ẹnì kan
+  - helpis: ràn lọ́wọ́
+  - al: sí
+  - vi: ìwọ
+  - malfermi: ṣí
+  - la: náà
+  - pordon: ilẹ̀kùn
+  - de: ti
+  - la: náà
+  - malnova: àtijọ́
+  - domo: ilé
+  - '?'
+- demando: Kí ló dé tí o kò ní àkókò láti gbọ́ mi fún ìgbà pípẹ́ sí i?
   rektatraduko:
-    - Kial: Kí ló dé
-    - vi: ìwọ
-    - ne: kò
-    - havas: ní
-    - tempon: àkókò
-    - aŭskulti: gbọ́
-    - min: mi
-    - pli: sí i
-    - longe: pẹ́
-    - '?'
+  - Kial: Kí ló dé
+  - vi: ìwọ
+  - ne: kò
+  - havas: ní
+  - tempon: àkókò
+  - aŭskulti: gbọ́
+  - min: mi
+  - pli: sí i
+  - longe: pẹ́
+  - '?'

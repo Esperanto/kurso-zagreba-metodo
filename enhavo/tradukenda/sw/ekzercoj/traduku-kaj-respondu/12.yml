@@ -1,63 +1,63 @@
 - demando: Je, tutaonana tena, popote na wakati wowote?
   rektatraduko:
-    - Ĉu: je
-    - ni: sisi
-    - revidos: tutaona tena
-    - nin: sisi wenyewe
-    - ','
-    - kie: wapi
-    - ajn: popote
-    - kaj: na
-    - kiam: lini
-    - ajn: wakati wowote
-    - '?'
+  - Ĉu: je
+  - ni: sisi
+  - revidos: tutaona tena
+  - nin: sisi wenyewe
+  - ','
+  - kie: wapi
+  - ajn: popote
+  - kaj: na
+  - kiam: lini
+  - ajn: wakati wowote
+  - '?'
 - demando: Nitarudishiwa lini nusu nyingine ya vitabu?
   rektatraduko:
-    - Kiam: Lini
-    - mi: mimi
-    - rericevos: nitapokea tena
-    - la: kiarifu
-    - alian: nyingine
-    - duonon: nusu
-    - de: ya
-    - la: kiarifu
-    - libroj: vitabu
-    - '?'
+  - Kiam: Lini
+  - mi: mimi
+  - rericevos: nitapokea tena
+  - la: kiarifu
+  - alian: nyingine
+  - duonon: nusu
+  - de: ya
+  - la: kiarifu
+  - libroj: vitabu
+  - '?'
 - demando: Je, utahitaji zaidi ya robo mwaka kwa kazi hizo?
   rektatraduko:
-    - Ĉu: je
-    - vi: wewe
-    - bezonos: utahitaji
-    - pli: zaidi
-    - ol: kuliko
-    - kvaronan: robo
-    - jaron: mwaka
-    - por: kwa ajili ya
-    - tiuj: hizo
-    - laboroj: kazi
-    - '?'
+  - Ĉu: je
+  - vi: wewe
+  - bezonos: utahitaji
+  - pli: zaidi
+  - ol: kuliko
+  - kvaronan: robo
+  - jaron: mwaka
+  - por: kwa ajili ya
+  - tiuj: hizo
+  - laboroj: kazi
+  - '?'
 - demando: Kwa nini kadiri kunavyokuwa baridi zaidi, ndivyo tunavyongoja kwa muda mrefu zaidi?
   rektatraduko:
-    - Kial: Kwa nini
-    - ju: kadiri
-    - pli: zaidi
-    - longe: muda mrefu
-    - ni: sisi
-    - atendas: tunangoja
-    - ','
-    - des: ndivyo
-    - pli: zaidi
-    - malvarme: baridi
-    - estas: ni
-    - '?'
+  - Kial: Kwa nini
+  - ju: kadiri
+  - pli: zaidi
+  - longe: muda mrefu
+  - ni: sisi
+  - atendas: tunangoja
+  - ','
+  - des: ndivyo
+  - pli: zaidi
+  - malvarme: baridi
+  - estas: ni
+  - '?'
 - demando: Je, ungefurahi kuwa na mwanamume yeyote?
   rektatraduko:
-    - Ĉu: je
-    - vi: wewe
-    - estus: ungekuwa
-    - kontenta: mwenye furaha
-    - kun: pamoja na
-    - iu: yeyote
-    - ajn: wowote
-    - viro: mwanamume
-    - '?'
+  - Ĉu: je
+  - vi: wewe
+  - estus: ungekuwa
+  - kontenta: mwenye furaha
+  - kun: pamoja na
+  - iu: yeyote
+  - ajn: wowote
+  - viro: mwanamume
+  - '?'

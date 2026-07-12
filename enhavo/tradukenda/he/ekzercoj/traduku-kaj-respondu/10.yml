@@ -1,51 +1,47 @@
-- 
-  demando: ?האם ידידות עושה אותך יותר מאושר מאשר אהבה
-  rektatraduko: 
-    - Ĉu: האם
-    - amikeco: ידידות
-    - pli: יותר
-    - feliĉigas: עושה מאושר
-    - vin: אותך
-    - ol: מאשר
-    - la: ה
-    - amo: אהבה
-    - '?'
-- 
-  demando: ?באיזו תכיפות אתה כותב מכתבים לחברות שלך באיטליה
-  rektatraduko: 
-    - Kiel: כמה
-    - ofte: לעתים קרובות
-    - vi: אתה
-    - skribas: כותב
-    - leterojn: מכתבים
-    - al: אל
-    - viaj: שלך
-    - amikinoj: חברות
-    - en: ב
-    - Italio: איטליה
-    - '?'
-- 
-  demando: ?האם הקשר בינך לבין המורה שלך השתנה
-  rektatraduko: 
-    - Ĉu: האם
-    - la: ה
-    - rilato: קשר, מערכת יחסים
-    - inter: בין
-    - vi: אתה
-    - kaj: ו
-    - via: שלך
-    - instruisto: מורה
-    - ŝanĝiĝis: השתנה
-    - '?'
-- 
-  demando: ?האם אתה עכשיו כבר יודע אספרנטו טוב מספיק
-  rektatraduko: 
-    - Ĉu: האם
-    - vi: אתה
-    - nun: עכשיו
-    - jam: כבר
-    - scias: יודע
-    - Esperanton: אספרנטו
-    - sufiĉe: מספיק
-    - bone: טוב
-    - '?'
+- demando: ?האם ידידות עושה אותך יותר מאושר מאשר אהבה
+  rektatraduko:
+  - Ĉu: האם
+  - amikeco: ידידות
+  - pli: יותר
+  - feliĉigas: עושה מאושר
+  - vin: אותך
+  - ol: מאשר
+  - la: ה
+  - amo: אהבה
+  - '?'
+- demando: ?באיזו תכיפות אתה כותב מכתבים לחברות שלך באיטליה
+  rektatraduko:
+  - Kiel: כמה
+  - ofte: לעתים קרובות
+  - vi: אתה
+  - skribas: כותב
+  - leterojn: מכתבים
+  - al: אל
+  - viaj: שלך
+  - amikinoj: חברות
+  - en: ב
+  - Italio: איטליה
+  - '?'
+- demando: ?האם הקשר בינך לבין המורה שלך השתנה
+  rektatraduko:
+  - Ĉu: האם
+  - la: ה
+  - rilato: קשר, מערכת יחסים
+  - inter: בין
+  - vi: אתה
+  - kaj: ו
+  - via: שלך
+  - instruisto: מורה
+  - ŝanĝiĝis: השתנה
+  - '?'
+- demando: ?האם אתה עכשיו כבר יודע אספרנטו טוב מספיק
+  rektatraduko:
+  - Ĉu: האם
+  - vi: אתה
+  - nun: עכשיו
+  - jam: כבר
+  - scias: יודע
+  - Esperanton: אספרנטו
+  - sufiĉe: מספיק
+  - bone: טוב
+  - '?'

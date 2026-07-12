@@ -1,68 +1,68 @@
 - demando: Adakah anda ingin saya untuk menunjukkan kepada anda buku terbaru saya ?
   rektatraduko:
-    - Ĉu: Adakah
-    - vi: anda
-    - deziras: ingin
-    - ','
-    - ke: bahawa
-    - mi: saya
-    - montru: menunjukkan
-    - al: kepada
-    - vi: anda
-    - mian: saya punya
-    - plej: ter
-    - novan: baru
-    - libron: buku
-    - '?'
+  - Ĉu: Adakah
+  - vi: anda
+  - deziras: ingin
+  - ','
+  - ke: bahawa
+  - mi: saya
+  - montru: menunjukkan
+  - al: kepada
+  - vi: anda
+  - mian: saya punya
+  - plej: ter
+  - novan: baru
+  - libron: buku
+  - '?'
 - demando: Apa yang anda mahu untuk sarapan pagi esok?
   rektatraduko:
-    - Kion: Apa
-    - vi: anda
-    - volas: mahu
-    - morgaŭ: esok
-    - matenmanĝi: sarapan pagi
-    - '?'
+  - Kion: Apa
+  - vi: anda
+  - volas: mahu
+  - morgaŭ: esok
+  - matenmanĝi: sarapan pagi
+  - '?'
 - demando: Bilakah Mark akan tiba, pada pukul lima atau lapan?
   rektatraduko:
-    - Kiam: Bilakah
-    - Marko: Mark
-    - alvenos: akan tiba
-    - ','
-    - je: pada
-    - la: itu,ini
-    - kvina: kelima
-    - aŭ: atau
-    - je: pada
-    - la: itu,ini
-    - oka: kelapan
-    - horo: jam
-    - '?'
+  - Kiam: Bilakah
+  - Marko: Mark
+  - alvenos: akan tiba
+  - ','
+  - je: pada
+  - la: itu,ini
+  - kvina: kelima
+  - aŭ: atau
+  - je: pada
+  - la: itu,ini
+  - oka: kelapan
+  - horo: jam
+  - '?'
 - demando: Bilakah anda perasan bahawa seluruh keluarga memanggil saya dermawan?
   rektatraduko:
-    - Kiam: Bilakah
-    - vi: anda
-    - rimarkis: perasan
-    - ','
-    - ke: bahawa
-    - la: itu,ini
-    - tuta: seluruh
-    - familio: keluarga
-    - nomas: memanggil
-    - min: saya
-    - bonfarulo: dermanwan
-    - '?'
+  - Kiam: Bilakah
+  - vi: anda
+  - rimarkis: perasan
+  - ','
+  - ke: bahawa
+  - la: itu,ini
+  - tuta: seluruh
+  - familio: keluarga
+  - nomas: memanggil
+  - min: saya
+  - bonfarulo: dermanwan
+  - '?'
 - demando: Adakah buku kecil yang telah saya hantarkan berguna kepada anda?
   rektatraduko:
-    - Ĉu: Adakah
-    - la: itu,ini
-    - libreto: buku kecil
-    - ','
-    - kiun: siapa
-    - mi: saya
-    - sendis: telah hantar
-    - al: kepada
-    - vi: anda
-    - ','
-    - estis: ilah
-    - utila: berguna
-    - '?'
+  - Ĉu: Adakah
+  - la: itu,ini
+  - libreto: buku kecil
+  - ','
+  - kiun: siapa
+  - mi: saya
+  - sendis: telah hantar
+  - al: kepada
+  - vi: anda
+  - ','
+  - estis: ilah
+  - utila: berguna
+  - '?'

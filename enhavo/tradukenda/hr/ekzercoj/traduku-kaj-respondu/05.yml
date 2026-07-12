@@ -1,59 +1,59 @@
 - demando: Možeš li mirno učiti dok netko radosno pjeva?
   rektatraduko:
-    - Ĉu: Da li
-    - vi: ti
-    - povas: možeš
-    - trankvile: mirno
-    - lerni: učiti
-    - ','
-    - dum: dok
-    - iu: netko
-    - ĝoje: radosno
-    - kantas: pjeva
-    - '?'
+  - Ĉu: Da li
+  - vi: ti
+  - povas: možeš
+  - trankvile: mirno
+  - lerni: učiti
+  - ','
+  - dum: dok
+  - iu: netko
+  - ĝoje: radosno
+  - kantas: pjeva
+  - '?'
 - demando: Tko zna kada i gdje ćemo se ponovno vidjeti?
   rektatraduko:
-    - Kiu: Tko
-    - scias: zna
-    - ','
-    - kiam: kada
-    - kaj: i
-    - kie: gdje
-    - ni: mi
-    - revidos: ponovno ćemo vidjeti
-    - nin: nas
-    - '?'
+  - Kiu: Tko
+  - scias: zna
+  - ','
+  - kiam: kada
+  - kaj: i
+  - kie: gdje
+  - ni: mi
+  - revidos: ponovno ćemo vidjeti
+  - nin: nas
+  - '?'
 - demando: Koliko je sada sati?
   rektatraduko:
-    - Kioma: Koliko
-    - horo: sati
-    - estas: je
-    - nun: sada
-    - '?'
+  - Kioma: Koliko
+  - horo: sati
+  - estas: je
+  - nun: sada
+  - '?'
 - demando: Je li ti netko pomogao otvoriti vrata stare kuće?
   rektatraduko:
-    - Ĉu: Je li
-    - iu: netko
-    - helpis: pomogao
-    - al: k
-    - vi: ti
-    - malfermi: otvoriti
-    - la: (član)
-    - pordon: vrata
-    - de: od
-    - la: (član)
-    - malnova: stara
-    - domo: kuća
-    - '?'
+  - Ĉu: Je li
+  - iu: netko
+  - helpis: pomogao
+  - al: k
+  - vi: ti
+  - malfermi: otvoriti
+  - la: (član)
+  - pordon: vrata
+  - de: od
+  - la: (član)
+  - malnova: stara
+  - domo: kuća
+  - '?'
 - demando: Zašto me nemaš vremena slušati dulje danas?
   rektatraduko:
-    - Kial: Zašto
-    - vi: ti
-    - ne: ne
-    - havas: imaš
-    - tempon: vrijeme
-    - aŭskulti: slušati
-    - min: mene
-    - pli: više
-    - longe: dugo
-    - '?'
+  - Kial: Zašto
+  - vi: ti
+  - ne: ne
+  - havas: imaš
+  - tempon: vrijeme
+  - aŭskulti: slušati
+  - min: mene
+  - pli: više
+  - longe: dugo
+  - '?'

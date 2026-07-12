@@ -1,51 +1,51 @@
 - demando: Sino ang iyong kaibigang babae?
   rektatraduko:
-    - Kiu: Sino
-    - estas: ay
-    - via: iyong
-    - amikino: kaibigang babae
-    - '?'
+  - Kiu: Sino
+  - estas: ay
+  - via: iyong
+  - amikino: kaibigang babae
+  - '?'
 - demando: Nagsusulat ba ngayon sa silid ang kaibigan mong si Ana?
   rektatraduko:
-    - Ĉu: ba
-    - via: iyong
-    - amikino: kaibigang babae
-    - Ana: Ana
-    - skribas: sumusulat
-    - nun: ngayon
-    - en: sa loob ng
-    - la: ang
-    - ĉambro: silid
-    - '?'
+  - Ĉu: ba
+  - via: iyong
+  - amikino: kaibigang babae
+  - Ana: Ana
+  - skribas: sumusulat
+  - nun: ngayon
+  - en: sa loob ng
+  - la: ang
+  - ĉambro: silid
+  - '?'
 - demando: Nagtatrabaho ba sa hotel ang kaibigan ng iyong ama?
   rektatraduko:
-    - Ĉu: ba
-    - la: ang
-    - amiko: kaibigan
-    - de: ng
-    - via: iyong
-    - patro: ama
-    - laboras: nagtatrabaho
-    - en: sa loob ng
-    - hotelo: hotel
-    - '?'
+  - Ĉu: ba
+  - la: ang
+  - amiko: kaibigan
+  - de: ng
+  - via: iyong
+  - patro: ama
+  - laboras: nagtatrabaho
+  - en: sa loob ng
+  - hotelo: hotel
+  - '?'
 - demando: Ano ang nasa mesa ng trabaho sa aming silid?
   rektatraduko:
-    - Kio: Ano
-    - estas: ay
-    - sur: nasa ibabaw ng
-    - la: ang
-    - labortablo: mesa ng trabaho
-    - en: sa loob ng
-    - nia: aming
-    - ĉambro: silid
-    - '?'
+  - Kio: Ano
+  - estas: ay
+  - sur: nasa ibabaw ng
+  - la: ang
+  - labortablo: mesa ng trabaho
+  - en: sa loob ng
+  - nia: aming
+  - ĉambro: silid
+  - '?'
 - demando: May aklat-aralin ba ng Esperanto sa iyong mesa?
   rektatraduko:
-    - Ĉu: ba
-    - Esperanto-lernolibro: aklat-aralin ng Esperanto
-    - estas: ay
-    - sur: nasa ibabaw ng
-    - via: iyong
-    - tablo: mesa
-    - '?'
+  - Ĉu: ba
+  - Esperanto-lernolibro: aklat-aralin ng Esperanto
+  - estas: ay
+  - sur: nasa ibabaw ng
+  - via: iyong
+  - tablo: mesa
+  - '?'

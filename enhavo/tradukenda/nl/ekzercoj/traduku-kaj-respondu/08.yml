@@ -1,86 +1,80 @@
--
-  demando: Wie zal de keuken schoonmaken na het middagmaal?
+- demando: Wie zal de keuken schoonmaken na het middagmaal?
   rektatraduko:
-    - Kiu: Wie
-    - purigos: zal schoonmaken
-    - la: de
-    - kuirejon: keuken
-    - post: na
-    - la: het
-    - tagmanĝo: middagmaal
-    - '?'
--
-  demando: "Wat wil je drinken: thee, een beetje koffie, of wil je niets?"
+  - Kiu: Wie
+  - purigos: zal schoonmaken
+  - la: de
+  - kuirejon: keuken
+  - post: na
+  - la: het
+  - tagmanĝo: middagmaal
+  - '?'
+- demando: 'Wat wil je drinken: thee, een beetje koffie, of wil je niets?'
   rektatraduko:
-    - Kion: Wat
-    - vi: je
-    - volas: wil
-    - trinki: drinken
-    - ':'
-    - teon: thee
-    - ','
-    - iom: een beetje
-    - da: van de
-    - kafo: koffie
-    - aŭ: of
-    - ĉu: of
-    - vi: je
-    - volas: wil
-    - nenion: niets
-    - '?'
--
-  demando: Waarom heb je zo plots beslist, jouw kamertje te vernieuwen?
+  - Kion: Wat
+  - vi: je
+  - volas: wil
+  - trinki: drinken
+  - ':'
+  - teon: thee
+  - ','
+  - iom: een beetje
+  - da: van de
+  - kafo: koffie
+  - aŭ: of
+  - ĉu: of
+  - vi: je
+  - volas: wil
+  - nenion: niets
+  - '?'
+- demando: Waarom heb je zo plots beslist, jouw kamertje te vernieuwen?
   rektatraduko:
-    - Kial: Waarom
-    - vi: je
-    - tiel: zo
-    - subite: plots
-    - decidis: hebt beslist
-    - renovigi: vernieuwen
-    - vian: jouw
-    - ĉambreton: kamertje
-    - '?'
--
-  demando: Aan wie heb je de schone glazen voor de wijn gegeven?
+  - Kial: Waarom
+  - vi: je
+  - tiel: zo
+  - subite: plots
+  - decidis: hebt beslist
+  - renovigi: vernieuwen
+  - vian: jouw
+  - ĉambreton: kamertje
+  - '?'
+- demando: Aan wie heb je de schone glazen voor de wijn gegeven?
   rektatraduko:
-    - Al: Aan
-    - kiu: wie
-    - vi: je
-    - donis: gaf
-    - la: de
-    - purajn: schone
-    - glasojn: glazen
-    - por: voor
-    - la: de
-    - vino: wijn
-    - '?'
--
-  demando: Tegen wie heeft jouw sportclub twee weken geleden gespeeld?
+  - Al: Aan
+  - kiu: wie
+  - vi: je
+  - donis: gaf
+  - la: de
+  - purajn: schone
+  - glasojn: glazen
+  - por: voor
+  - la: de
+  - vino: wijn
+  - '?'
+- demando: Tegen wie heeft jouw sportclub twee weken geleden gespeeld?
   rektatraduko:
-    - Kontraŭ: Tegen
-    - kiu: wie
-    - ludis: heeft gespeeld
-    - via: jouw
-    - sportklubo: sportclub
-    - antaŭ: voor
-    - du: twee
-    - semajnoj: weken
-    - '?'
--
-  demando: Zie je vaak de politieman, die in de woning boven jou woont?
+  - Kontraŭ: Tegen
+  - kiu: wie
+  - ludis: heeft gespeeld
+  - via: jouw
+  - sportklubo: sportclub
+  - antaŭ: voor
+  - du: twee
+  - semajnoj: weken
+  - '?'
+- demando: Zie je vaak de politieman, die in de woning boven jou woont?
   rektatraduko:
-    - Ĉu: Of
-    - vi: je
-    - ofte: vaak
-    - vidas: ziet
-    - la: de
-    - policiston: politieman
-    - ','
-    - kiu: die
-    - loĝas: woont
-    - en: in
-    - la: de
-    - loĝejo: woning
-    - super: boven
-    - vi: jou
-    - '?'
+  - Ĉu: Of
+  - vi: je
+  - ofte: vaak
+  - vidas: ziet
+  - la: de
+  - policiston: politieman
+  - ','
+  - kiu: die
+  - loĝas: woont
+  - en: in
+  - la: de
+  - loĝejo: woning
+  - super: boven
+  - vi: jou
+  - '?'

@@ -1,49 +1,49 @@
 - demando: Opamning/singlimning dorisini olib kela olasizmi?
   rektatraduko:
-    - Ĉu: savol yuklamasi
-    - vi: siz
-    - povas: qila olasiz
-    - kunporti: birga olib kelmoq
-    - la: aniq artikl
-    - sanigilon: davolash vositasini
-    - de: '...ning'
-    - mia: mening
-    - fratino: opa/singil
-    - '?'
+  - Ĉu: savol yuklamasi
+  - vi: siz
+  - povas: qila olasiz
+  - kunporti: birga olib kelmoq
+  - la: aniq artikl
+  - sanigilon: davolash vositasini
+  - de: '...ning'
+  - mia: mening
+  - fratino: opa/singil
+  - '?'
 - demando: Oʻsha musiqa asbobini qachon sotib oldingiz?
   rektatraduko:
-    - Kiam: qachon
-    - vi: siz
-    - aĉetis: sotib oldingiz
-    - tiun: oʻshani
-    - muzikilon: musiqa asbobini
-    - '?'
+  - Kiam: qachon
+  - vi: siz
+  - aĉetis: sotib oldingiz
+  - tiun: oʻshani
+  - muzikilon: musiqa asbobini
+  - '?'
 - demando: Oxirgi marta kalitimni kim ishlatdi?
   rektatraduko:
-    - Kiu: kim
-    - laste: oxirgi marta
-    - uzis: ishlatdi
-    - mian: mening
-    - ŝlosilon: kalitni
-    - '?'
+  - Kiu: kim
+  - laste: oxirgi marta
+  - uzis: ishlatdi
+  - mian: mening
+  - ŝlosilon: kalitni
+  - '?'
 - demando: Venetsiyada gondola bilan ham yurdingizmi?
   rektatraduko:
-    - Ĉu: savol yuklamasi
-    - vi: siz
-    - en: ichida
-    - Venecio: Venetsiya
-    - veturis: yurdingiz
-    - ankaŭ: ham
-    - per: vositasida
-    - gondolo: gondola
-    - '?'
+  - Ĉu: savol yuklamasi
+  - vi: siz
+  - en: ichida
+  - Venecio: Venetsiya
+  - veturis: yurdingiz
+  - ankaŭ: ham
+  - per: vositasida
+  - gondolo: gondola
+  - '?'
 - demando: Jim boʻlganda uxlab qola olasizmi?
   rektatraduko:
-    - Ĉu: savol yuklamasi
-    - vi: siz
-    - povos: qila olasiz
-    - ekdormi: uxlab qolmoq
-    - ','
-    - kiam: qachon
-    - silentiĝos: jim boʻldi
-    - '?'
+  - Ĉu: savol yuklamasi
+  - vi: siz
+  - povos: qila olasiz
+  - ekdormi: uxlab qolmoq
+  - ','
+  - kiam: qachon
+  - silentiĝos: jim boʻldi
+  - '?'

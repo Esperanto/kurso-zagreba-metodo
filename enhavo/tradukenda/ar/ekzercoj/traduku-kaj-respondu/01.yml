@@ -1,51 +1,51 @@
 - demando: من هي صديقتك؟
   rektatraduko:
-    - Kiu: من
-    - estas: هي
-    - via: ك - ضمير ملكية
-    - amikino: صديقة
-    - '?'
+  - Kiu: من
+  - estas: هي
+  - via: ك - ضمير ملكية
+  - amikino: صديقة
+  - '?'
 - demando: '? هل صديقتك آنا تكتب الآن في الغرفة'
   rektatraduko:
-    - Ĉu: هل
-    - via: الخاص بك
-    - amikino: صديقة
-    - Ana: آنا
-    - skribas: تكتب
-    - nun: الآن
-    - en: في
-    - la: ال
-    - ĉambro: غرفة
-    - '?'
+  - Ĉu: هل
+  - via: الخاص بك
+  - amikino: صديقة
+  - Ana: آنا
+  - skribas: تكتب
+  - nun: الآن
+  - en: في
+  - la: ال
+  - ĉambro: غرفة
+  - '?'
 - demando: هل يعمل صديق أبيك في فندق؟
   rektatraduko:
-    - Ĉu: هل
-    - la: أداة التعريف
-    - amiko: صديق
-    - de: أداة للمضاف إليه
-    - via: ك - ضمير ملكية
-    - patro: أب
-    - laboras: يعمل
-    - en: في
-    - hotelo: فندق
-    - '?'
+  - Ĉu: هل
+  - la: أداة التعريف
+  - amiko: صديق
+  - de: أداة للمضاف إليه
+  - via: ك - ضمير ملكية
+  - patro: أب
+  - laboras: يعمل
+  - en: في
+  - hotelo: فندق
+  - '?'
 - demando: ماذا يوجد على المكتب في غرفتنا؟
   rektatraduko:
-    - Kio: ماذا
-    - estas: يوجد
-    - sur: على
-    - la: على شاكلة ما ، -نوعية أو هيئة ما
-    - labortablo: مكتب - طاولة العمل
-    - en: في
-    - nia: الخاصة بنا -نا
-    - ĉambro: غرفة
-    - '?'
+  - Kio: ماذا
+  - estas: يوجد
+  - sur: على
+  - la: على شاكلة ما ، -نوعية أو هيئة ما
+  - labortablo: مكتب - طاولة العمل
+  - en: في
+  - nia: الخاصة بنا -نا
+  - ĉambro: غرفة
+  - '?'
 - demando: هل كتاب تعليم الإسبرانتو على طاولتك؟
   rektatraduko:
-    - Ĉu: هل
-    - Esperanto-lernolibro: كتاب تعليم الإسبرانتو
-    - estas: يكون
-    - sur: على
-    - via: ك - ضمير ملكية
-    - tablo: طاولة
-    - '?'
+  - Ĉu: هل
+  - Esperanto-lernolibro: كتاب تعليم الإسبرانتو
+  - estas: يكون
+  - sur: على
+  - via: ك - ضمير ملكية
+  - tablo: طاولة
+  - '?'

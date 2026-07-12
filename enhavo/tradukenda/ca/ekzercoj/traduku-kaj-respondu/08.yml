@@ -1,86 +1,80 @@
-- 
-  demando: Qui netejarà la cuina després del dinar?
-  rektatraduko: 
-    - Kiu: Qui
-    - purigos: netejarà
-    - la: la
-    - kuirejon: cuina
-    - post: després de
-    - la: el
-    - tagmanĝo: dinar
-    - '?'
-- 
-  demando: 'Què vols beure: tè, una mica de cafè o no vols res?'
-  rektatraduko: 
-    - Kion: Què
-    - vi: tu
-    - volas: vols
-    - trinki: beure
-    - ':'
-    - teon: tè
-    - ','
-    - iom: una mica
-    - da: de
-    - kafo: cafè
-    - aŭ: o
-    - ĉu: potser
-    - vi: tu
-    - volas: vols
-    - nenion: res
-    - '?'
-- 
-  demando: Per què així de sobte has decidit renovar la teva habitació petita?
-  rektatraduko: 
-    - Kial: Per què
-    - vi: tu
-    - tiel: així
-    - subite: de sobte
-    - decidis: has decidit
-    - renovigi: renovar
-    - vian: la teva
-    - ĉambreton: habitació petita
-    - '?'
-- 
-  demando: A qui vas donar els gots nets per al vi?
-  rektatraduko: 
-    - Al: A
-    - kiu: qui
-    - vi: tu
-    - donis: li vas donar
-    - la: els
-    - purajn: nets
-    - glasojn: gots
-    - por: per
-    - la: el
-    - vino: vi
-    - '?'
-- 
-  demando: Contra qui va jugar el teu club esportiu fa dues setmanes?
-  rektatraduko: 
-    - Kontraŭ: Contra
-    - kiu: qui
-    - ludis: va jugar
-    - via: el teu
-    - sportklubo: club esportiu
-    - antaŭ: fa
-    - du: dues
-    - semajnoj: setmanes
-    - '?'
-- 
-  demando: Sovint veus el policia que viu al pis de dalt?
-  rektatraduko: 
-    - Ĉu: Que
-    - vi: Tu
-    - ofte: sovint
-    - vidas: veus
-    - la: el
-    - policiston: policia
-    - ','
-    - kiu: que
-    - loĝas: viu
-    - en: a
-    - la: el
-    - loĝejo: pis
-    - super: de dalt
-    - vi: tu
-    - '?'
+- demando: Qui netejarà la cuina després del dinar?
+  rektatraduko:
+  - Kiu: Qui
+  - purigos: netejarà
+  - la: la
+  - kuirejon: cuina
+  - post: després de
+  - la: el
+  - tagmanĝo: dinar
+  - '?'
+- demando: 'Què vols beure: tè, una mica de cafè o no vols res?'
+  rektatraduko:
+  - Kion: Què
+  - vi: tu
+  - volas: vols
+  - trinki: beure
+  - ':'
+  - teon: tè
+  - ','
+  - iom: una mica
+  - da: de
+  - kafo: cafè
+  - aŭ: o
+  - ĉu: potser
+  - vi: tu
+  - volas: vols
+  - nenion: res
+  - '?'
+- demando: Per què així de sobte has decidit renovar la teva habitació petita?
+  rektatraduko:
+  - Kial: Per què
+  - vi: tu
+  - tiel: així
+  - subite: de sobte
+  - decidis: has decidit
+  - renovigi: renovar
+  - vian: la teva
+  - ĉambreton: habitació petita
+  - '?'
+- demando: A qui vas donar els gots nets per al vi?
+  rektatraduko:
+  - Al: A
+  - kiu: qui
+  - vi: tu
+  - donis: li vas donar
+  - la: els
+  - purajn: nets
+  - glasojn: gots
+  - por: per
+  - la: el
+  - vino: vi
+  - '?'
+- demando: Contra qui va jugar el teu club esportiu fa dues setmanes?
+  rektatraduko:
+  - Kontraŭ: Contra
+  - kiu: qui
+  - ludis: va jugar
+  - via: el teu
+  - sportklubo: club esportiu
+  - antaŭ: fa
+  - du: dues
+  - semajnoj: setmanes
+  - '?'
+- demando: Sovint veus el policia que viu al pis de dalt?
+  rektatraduko:
+  - Ĉu: Que
+  - vi: Tu
+  - ofte: sovint
+  - vidas: veus
+  - la: el
+  - policiston: policia
+  - ','
+  - kiu: que
+  - loĝas: viu
+  - en: a
+  - la: el
+  - loĝejo: pis
+  - super: de dalt
+  - vi: tu
+  - '?'

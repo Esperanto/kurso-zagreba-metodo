@@ -1,51 +1,47 @@
-- 
-  demando: "Moa ve mampifaly ianao kokoa ny finamanana noho ny fitiavana ?"
-  rektatraduko: 
-    - Ĉu: Moa ve 
-    - amikeco: ny finamanana
-    - pli: kokoa 
-    - feliĉigas: mampifaly
-    - vin: ianao / ianareo
-    - ol: noho
-    - la: ny
-    - amo: fitiavana
-    - '?'
-- 
-  demando: "Impiry ianao no manoratra taratasy amin'ny namanao any Italia?"
-  rektatraduko: 
-    - Kiel: Impiry
-    - ofte: matetika
-    - vi: ianao
-    - skribas: manoratra
-    - leterojn: taratasy
-    - al: aminy
-    - viaj: ny
-    - amikinoj: namana
-    - en: any
-    - Italio: Italia
-    - '?'
-- 
-  demando: "Moa ve niova ny fifandraisanareo sy ny mpampianatra?"
-  rektatraduko: 
-    - Ĉu: Moa ve
-    - la: ny
-    - rilato: fifandraisana
-    - inter: eo
-    - vi: ianao / ianareo
-    - kaj: sy
-    - via: -nao / -ianareo
-    - instruisto: mpampianatra
-    - ŝanĝiĝis: niova
-    - '?'
-- 
-  demando: "Moa ve fantatra tsara ny esperanto izao?"
-  rektatraduko: 
-    - Ĉu: Moa ve
-    - vi: ianao
-    - nun: izao
-    - jam: sahady
-    - scias: fantatra
-    - Esperanton: "ny esperanto"
-    - sufiĉe: tsara tsara
-    - bone: tsara
-    - '?'
+- demando: Moa ve mampifaly ianao kokoa ny finamanana noho ny fitiavana ?
+  rektatraduko:
+  - Ĉu: Moa ve
+  - amikeco: ny finamanana
+  - pli: kokoa
+  - feliĉigas: mampifaly
+  - vin: ianao / ianareo
+  - ol: noho
+  - la: ny
+  - amo: fitiavana
+  - '?'
+- demando: Impiry ianao no manoratra taratasy amin'ny namanao any Italia?
+  rektatraduko:
+  - Kiel: Impiry
+  - ofte: matetika
+  - vi: ianao
+  - skribas: manoratra
+  - leterojn: taratasy
+  - al: aminy
+  - viaj: ny
+  - amikinoj: namana
+  - en: any
+  - Italio: Italia
+  - '?'
+- demando: Moa ve niova ny fifandraisanareo sy ny mpampianatra?
+  rektatraduko:
+  - Ĉu: Moa ve
+  - la: ny
+  - rilato: fifandraisana
+  - inter: eo
+  - vi: ianao / ianareo
+  - kaj: sy
+  - via: -nao / -ianareo
+  - instruisto: mpampianatra
+  - ŝanĝiĝis: niova
+  - '?'
+- demando: Moa ve fantatra tsara ny esperanto izao?
+  rektatraduko:
+  - Ĉu: Moa ve
+  - vi: ianao
+  - nun: izao
+  - jam: sahady
+  - scias: fantatra
+  - Esperanton: ny esperanto
+  - sufiĉe: tsara tsara
+  - bone: tsara
+  - '?'

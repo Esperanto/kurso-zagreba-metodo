@@ -1,63 +1,63 @@
 - demando: Viszontlátjuk-e egymást bárhol és bármikor?
   rektatraduko:
-    - Ĉu: Vajon
-    - ni: mi
-    - revidos: viszont fog látni
-    - nin: minket
-    - ','
-    - kie: hol
-    - ajn: bár-
-    - kaj: és
-    - kiam: mikor
-    - ajn: bár-
-    - '?'
+  - Ĉu: Vajon
+  - ni: mi
+  - revidos: viszont fog látni
+  - nin: minket
+  - ','
+  - kie: hol
+  - ajn: bár-
+  - kaj: és
+  - kiam: mikor
+  - ajn: bár-
+  - '?'
 - demando: Mikor kapom vissza a könyvek másik felét?
   rektatraduko:
-    - Kiam: Mikor
-    - mi: én
-    - rericevos: vissza fog kapni
-    - la: a
-    - alian: másikat
-    - duonon: felét
-    - de: -nak a/nek a
-    - la: a
-    - libroj: könyvek
-    - '?'
+  - Kiam: Mikor
+  - mi: én
+  - rericevos: vissza fog kapni
+  - la: a
+  - alian: másikat
+  - duonon: felét
+  - de: -nak a/nek a
+  - la: a
+  - libroj: könyvek
+  - '?'
 - demando: Több, mint negyed évre lesz szükséged ezekhez a munkákhoz?
   rektatraduko:
-    - Ĉu: Vajon
-    - vi: te
-    - bezonos: szüksége lesz
-    - pli: -bb
-    - ol: mint
-    - kvaronan: negyed
-    - jaron: évet
-    - por: számára
-    - tiuj: azok
-    - laboroj: munkák
-    - '?'
+  - Ĉu: Vajon
+  - vi: te
+  - bezonos: szüksége lesz
+  - pli: -bb
+  - ol: mint
+  - kvaronan: negyed
+  - jaron: évet
+  - por: számára
+  - tiuj: azok
+  - laboroj: munkák
+  - '?'
 - demando: Miért van annál inkább hidegebb, minél tovább várunk?
   rektatraduko:
-    - Kial: Miért
-    - ju: minél inkább
-    - pli: -bb
-    - longe: sokáig
-    - ni: mi
-    - atendas: vár
-    - ','
-    - des: annál inkább
-    - pli: -bb
-    - malvarme: hideg
-    - estas: van
-    - '?'
+  - Kial: Miért
+  - ju: minél inkább
+  - pli: -bb
+  - longe: sokáig
+  - ni: mi
+  - atendas: vár
+  - ','
+  - des: annál inkább
+  - pli: -bb
+  - malvarme: hideg
+  - estas: van
+  - '?'
 - demando: Elégedett lennél akármelyik férfival?
   rektatraduko:
-    - Ĉu: Vajon
-    - vi: te
-    - estus: lenne
-    - kontenta: elégedett
-    - kun: -val/vel
-    - iu: valamelyik
-    - ajn: akár
-    - viro: férfi
-    - '?'
+  - Ĉu: Vajon
+  - vi: te
+  - estus: lenne
+  - kontenta: elégedett
+  - kun: -val/vel
+  - iu: valamelyik
+  - ajn: akár
+  - viro: férfi
+  - '?'

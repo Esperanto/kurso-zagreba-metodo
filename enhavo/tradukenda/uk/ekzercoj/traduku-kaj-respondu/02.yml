@@ -1,64 +1,64 @@
 - demando: Яким був ваш старий дім ?
   rektatraduko:
-    - Kia: Яким
-    - estis: була
-    - via: ваш
-    - malnova: старий
-    - hejmo: дім
-    - '?'
+  - Kia: Яким
+  - estis: була
+  - via: ваш
+  - malnova: старий
+  - hejmo: дім
+  - '?'
 - demando: Які книжки ти читав і чи вони є добрі ?
   rektatraduko:
-    - Kiujn: Які
-    - librojn: книжки
-    - vi: ти
-    - legis: читав
-    - kaj: і
-    - ĉu: чи
-    - ili: вони
-    - estas: є
-    - bonaj: добрі
-    - '?'
+  - Kiujn: Які
+  - librojn: книжки
+  - vi: ти
+  - legis: читав
+  - kaj: і
+  - ĉu: чи
+  - ili: вони
+  - estas: є
+  - bonaj: добрі
+  - '?'
 - demando: Що робили Анна і Марко в маленькій кімнаті Марка ?
   rektatraduko:
-    - Kion: Що
-    - faris: робили
-    - Ana: Анна
-    - kaj: і
-    - Marko: Марко
-    - en: в
-    - la: означений артикль
-    - malgranda: маленькій
-    - ĉambro: кімнаті
-    - de: прийменник, що утворює родовий відмінок
-    - Marko: Марка
-    - '?'
+  - Kion: Що
+  - faris: робили
+  - Ana: Анна
+  - kaj: і
+  - Marko: Марко
+  - en: в
+  - la: означений артикль
+  - malgranda: маленькій
+  - ĉambro: кімнаті
+  - de: прийменник, що утворює родовий відмінок
+  - Marko: Марка
+  - '?'
 - demando: Чи ви любите читати книжки про кохання ?
   rektatraduko:
-    - Ĉu: Чи
-    - vi: ви
-    - ŝatas: любите
-    - legi: читати
-    - librojn: книжки
-    - pri: про
-    - amo: кохання
-    - '?'
+  - Ĉu: Чи
+  - vi: ви
+  - ŝatas: любите
+  - legi: читати
+  - librojn: книжки
+  - pri: про
+  - amo: кохання
+  - '?'
 - demando: Хто піде з тобою до твого дому ?
   rektatraduko:
-    - Kiu: Хто
-    - iros: піде
-    - kun: з
-    - vi: тобою
-    - al: до
-    - via: твого
-    - hejmo: дому
-    - '?'
+  - Kiu: Хто
+  - iros: піде
+  - kun: з
+  - vi: тобою
+  - al: до
+  - via: твого
+  - hejmo: дому
+  - '?'
 - demando: Які є очі  твоєї подруги ?
   rektatraduko:
-    - Kiaj: Які
-    - estas: є
-    - la: означений артикль
-    - okuloj: очі
-    - de: прийменник, що утворює родовий відмінок
-    - via: твоєї
-    - amikino: подруги
-    - '?'
+  - Kiaj: Які
+  - estas: є
+  - la: означений артикль
+  - okuloj: очі
+  - de: прийменник, що утворює родовий відмінок
+  - via: твоєї
+  - amikino: подруги
+  - '?'

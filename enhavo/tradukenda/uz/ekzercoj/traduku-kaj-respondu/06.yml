@@ -1,68 +1,68 @@
 - demando: Sizga eng yangi kitobimni koʻrsatishimni xohlaysizmi?
   rektatraduko:
-    - Ĉu: savol yuklamasi
-    - vi: siz
-    - deziras: xohlaysiz
-    - ','
-    - ke: deb
-    - mi: men
-    - montru: koʻrsatay
-    - al: '...ga'
-    - vi: siz
-    - mian: mening
-    - plej: eng
-    - novan: yangini
-    - libron: kitobni
-    - '?'
+  - Ĉu: savol yuklamasi
+  - vi: siz
+  - deziras: xohlaysiz
+  - ','
+  - ke: deb
+  - mi: men
+  - montru: koʻrsatay
+  - al: '...ga'
+  - vi: siz
+  - mian: mening
+  - plej: eng
+  - novan: yangini
+  - libron: kitobni
+  - '?'
 - demando: Ertaga nonushtaga nima yemoqchisiz?
   rektatraduko:
-    - Kion: nimani
-    - vi: siz
-    - volas: xohlaysiz
-    - morgaŭ: ertaga
-    - matenmanĝi: nonushta qilmoq
-    - '?'
+  - Kion: nimani
+  - vi: siz
+  - volas: xohlaysiz
+  - morgaŭ: ertaga
+  - matenmanĝi: nonushta qilmoq
+  - '?'
 - demando: 'Marko qachon keladi: soat beshdami yoki soat sakkizdami?'
   rektatraduko:
-    - Kiam: qachon
-    - Marko: Marko
-    - alvenos: yetib keladi
-    - ','
-    - je: da
-    - la: aniq artikl
-    - kvina: beshinchi
-    - aŭ: yoki
-    - je: da
-    - la: aniq artikl
-    - oka: sakkizinchi
-    - horo: soat
-    - '?'
+  - Kiam: qachon
+  - Marko: Marko
+  - alvenos: yetib keladi
+  - ','
+  - je: da
+  - la: aniq artikl
+  - kvina: beshinchi
+  - aŭ: yoki
+  - je: da
+  - la: aniq artikl
+  - oka: sakkizinchi
+  - horo: soat
+  - '?'
 - demando: Butun oila meni xayrli ish qiluvchi deb atashini qachon payqadingiz?
   rektatraduko:
-    - Kiam: qachon
-    - vi: siz
-    - rimarkis: payqadingiz
-    - ','
-    - ke: deb
-    - la: aniq artikl
-    - tuta: butun
-    - familio: oila
-    - nomas: ataydi
-    - min: meni
-    - bonfarulo: yaxshilik qiluvchi
-    - '?'
+  - Kiam: qachon
+  - vi: siz
+  - rimarkis: payqadingiz
+  - ','
+  - ke: deb
+  - la: aniq artikl
+  - tuta: butun
+  - familio: oila
+  - nomas: ataydi
+  - min: meni
+  - bonfarulo: yaxshilik qiluvchi
+  - '?'
 - demando: Men sizga yuborgan kitobcha sizga foydali boʻldimi?
   rektatraduko:
-    - Ĉu: savol yuklamasi
-    - la: aniq artikl
-    - libreto: kitobcha
-    - ','
-    - kiun: qaysini
-    - mi: men
-    - sendis: yubordim
-    - al: '...ga'
-    - vi: siz
-    - ','
-    - estis: edi
-    - utila: foydali
-    - '?'
+  - Ĉu: savol yuklamasi
+  - la: aniq artikl
+  - libreto: kitobcha
+  - ','
+  - kiun: qaysini
+  - mi: men
+  - sendis: yubordim
+  - al: '...ga'
+  - vi: siz
+  - ','
+  - estis: edi
+  - utila: foydali
+  - '?'

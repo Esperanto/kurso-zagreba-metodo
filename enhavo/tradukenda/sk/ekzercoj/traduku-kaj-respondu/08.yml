@@ -1,86 +1,80 @@
-- 
-  demando: Kto bude upratovať kuchyňu po obede?
-  rektatraduko: 
-    - Kiu: Kto
-    - purigos: bude upratovať
-    - la: (člen určitý)
-    - kuirejon: kuchyňu
-    - post: po
-    - la: (člen určitý)
-    - tagmanĝo: obed
-    - '?'
-- 
-  demando: "Čo chceš piť: čaj, trochu kávy alebo nechceš nič?"
-  rektatraduko: 
-    - Kion: Čo
-    - vi: ty
-    - volas: chceš
-    - trinki: piť
-    - ':' 
-    - teon: čaj
-    - ',' 
-    - iom: trochu
-    - da: (predložka množstva)
-    - kafo: káva
-    - aŭ: alebo
-    - ĉu: či
-    - vi: ty
-    - volas: chceš
-    - nenion: nič (akuzatív)
-    - '?'
-- 
-  demando: Prečo si sa tak náhle rozhodol renovovať svoju malú izbu?
-  rektatraduko: 
-    - Kial: Prečo
-    - vi: ty
-    - tiel: tak
-    - subite: náhle
-    - decidis: rozhodol si sa
-    - renovigi: renovovať
-    - vian: tvoju
-    - ĉambreton: malú izbu
-    - '?'
-- 
-  demando: Komu si dal čisté poháre na víno?
-  rektatraduko: 
-    - Al: K, ku
-    - kiu: kto
-    - vi: ty
-    - donis: dal si
-    - la: (člen určitý)
-    - purajn: čisté
-    - glasojn: poháre
-    - por: na (pre)
-    - la: (člen určitý)
-    - vino: víno
-    - '?'
-- 
-  demando: Proti komu hral tvoj športový klub pred dvoma týždňami?
-  rektatraduko: 
-    - Kontraŭ: Proti
-    - kiu: kto
-    - ludis: hral
-    - via: tvoj
-    - sportklubo: športový klub
-    - antaŭ: pred
-    - du: dva
-    - semajnoj: týždne
-    - '?'
-- 
-  demando: Vidíš často policajta, ktorý býva v byte nad tebou?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - ofte: často
-    - vidas: vidíš
-    - la: (člen určitý) 
-    - policiston: policajta
-    - ',' 
-    - kiu: ktorý
-    - loĝas: býva
-    - en: v 
-    - la: (člen určitý) 
-    - loĝejo: byt
-    - super: nad
-    - vi: ty
-    - '?'
+- demando: Kto bude upratovať kuchyňu po obede?
+  rektatraduko:
+  - Kiu: Kto
+  - purigos: bude upratovať
+  - la: (člen určitý)
+  - kuirejon: kuchyňu
+  - post: po
+  - la: (člen určitý)
+  - tagmanĝo: obed
+  - '?'
+- demando: 'Čo chceš piť: čaj, trochu kávy alebo nechceš nič?'
+  rektatraduko:
+  - Kion: Čo
+  - vi: ty
+  - volas: chceš
+  - trinki: piť
+  - ':'
+  - teon: čaj
+  - ','
+  - iom: trochu
+  - da: (predložka množstva)
+  - kafo: káva
+  - aŭ: alebo
+  - ĉu: či
+  - vi: ty
+  - volas: chceš
+  - nenion: nič (akuzatív)
+  - '?'
+- demando: Prečo si sa tak náhle rozhodol renovovať svoju malú izbu?
+  rektatraduko:
+  - Kial: Prečo
+  - vi: ty
+  - tiel: tak
+  - subite: náhle
+  - decidis: rozhodol si sa
+  - renovigi: renovovať
+  - vian: tvoju
+  - ĉambreton: malú izbu
+  - '?'
+- demando: Komu si dal čisté poháre na víno?
+  rektatraduko:
+  - Al: K, ku
+  - kiu: kto
+  - vi: ty
+  - donis: dal si
+  - la: (člen určitý)
+  - purajn: čisté
+  - glasojn: poháre
+  - por: na (pre)
+  - la: (člen určitý)
+  - vino: víno
+  - '?'
+- demando: Proti komu hral tvoj športový klub pred dvoma týždňami?
+  rektatraduko:
+  - Kontraŭ: Proti
+  - kiu: kto
+  - ludis: hral
+  - via: tvoj
+  - sportklubo: športový klub
+  - antaŭ: pred
+  - du: dva
+  - semajnoj: týždne
+  - '?'
+- demando: Vidíš často policajta, ktorý býva v byte nad tebou?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - ofte: často
+  - vidas: vidíš
+  - la: (člen určitý)
+  - policiston: policajta
+  - ','
+  - kiu: ktorý
+  - loĝas: býva
+  - en: v
+  - la: (člen určitý)
+  - loĝejo: byt
+  - super: nad
+  - vi: ty
+  - '?'

@@ -1,51 +1,47 @@
-- 
-  demando: 友情は愛よりもあなたを幸せにしますか？
-  rektatraduko: 
-    - Ĉu: ～か？
-    - amikeco: 友情は
-    - pli: もっと
-    - feliĉigas: 幸わせにする
-    - vin: あなたを
-    - ol: より
-    - la: （定冠詞）
-    - amo: 愛
-    - '?'
-- 
-  demando: あなたはどれくらい頻繁にイタリアにいる女性の友達に手紙を書きますか？
-  rektatraduko: 
-    - Kiel: どのように
-    - ofte: しばしば
-    - vi: あなたは
-    - skribas: 書く
-    - leterojn: 手紙を（複数）
-    - al: ～へ
-    - viaj: あなたの（複数）
-    - amikinoj: 友達（女性、複数）
-    - en: ～の中の
-    - Italio: イタリア
-    - '?'
-- 
-  demando: あなたとあなたの先生の関係は変化しましたか？
-  rektatraduko: 
-    - Ĉu: ～か？
-    - la: （定冠詞）
-    - rilato: 関係
-    - inter: ～の間の
-    - vi: あなた
-    - kaj: と
-    - via: あなたの
-    - instruisto: 先生
-    - ŝanĝiĝis: 変化した
-    - '?'
-- 
-  demando: あなたはすでに十分良くエスペラントを知っていますか？
-  rektatraduko: 
-    - Ĉu: ～か？
-    - vi: あなたは
-    - nun: いま
-    - jam: すでに
-    - scias: 知っている
-    - Esperanton: エスペラントを
-    - sufiĉe: 十分に
-    - bone: よく
-    - '?'
+- demando: 友情は愛よりもあなたを幸せにしますか？
+  rektatraduko:
+  - Ĉu: ～か？
+  - amikeco: 友情は
+  - pli: もっと
+  - feliĉigas: 幸わせにする
+  - vin: あなたを
+  - ol: より
+  - la: （定冠詞）
+  - amo: 愛
+  - '?'
+- demando: あなたはどれくらい頻繁にイタリアにいる女性の友達に手紙を書きますか？
+  rektatraduko:
+  - Kiel: どのように
+  - ofte: しばしば
+  - vi: あなたは
+  - skribas: 書く
+  - leterojn: 手紙を（複数）
+  - al: ～へ
+  - viaj: あなたの（複数）
+  - amikinoj: 友達（女性、複数）
+  - en: ～の中の
+  - Italio: イタリア
+  - '?'
+- demando: あなたとあなたの先生の関係は変化しましたか？
+  rektatraduko:
+  - Ĉu: ～か？
+  - la: （定冠詞）
+  - rilato: 関係
+  - inter: ～の間の
+  - vi: あなた
+  - kaj: と
+  - via: あなたの
+  - instruisto: 先生
+  - ŝanĝiĝis: 変化した
+  - '?'
+- demando: あなたはすでに十分良くエスペラントを知っていますか？
+  rektatraduko:
+  - Ĉu: ～か？
+  - vi: あなたは
+  - nun: いま
+  - jam: すでに
+  - scias: 知っている
+  - Esperanton: エスペラントを
+  - sufiĉe: 十分に
+  - bone: よく
+  - '?'

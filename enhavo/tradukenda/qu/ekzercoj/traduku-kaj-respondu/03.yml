@@ -1,72 +1,72 @@
 - demando: Hatun hotelkunapi sirwiqkunaqa achkha simikunata hamut'ankuchu?
   rektatraduko:
-    - Ĉu: Chu
-    - kelneroj: sirwiqkuna
-    - en: pi
-    - grandaj: hatunkuna
-    - hoteloj: hotelkuna
-    - komprenas: hamut'anku
-    - multajn: achkhakunata
-    - lingvojn: simikunata
-    - '?'
+  - Ĉu: Chu
+  - kelneroj: sirwiqkuna
+  - en: pi
+  - grandaj: hatunkuna
+  - hoteloj: hotelkuna
+  - komprenas: hamut'anku
+  - multajn: achkhakunata
+  - lingvojn: simikunata
+  - '?'
 - demando: Anaqa wakcha runamantawan sumaq sipasmantawan musuq takita munasqanta yachankichu?
   rektatraduko:
-    - Ĉu: Chu
-    - vi: qan
-    - scias: yachanki
-    - ','
-    - ĉu: chu
-    - Ana: Ana
-    - ŝatas: munan
-    - la: riqsisqa
-    - novan: musuq
-    - kanton: takita
-    - pri: manta
-    - malriĉulo: wakcha runa
-    - kaj: hinaspa
-    - belulino: sumaq sipas
-    - '?'
+  - Ĉu: Chu
+  - vi: qan
+  - scias: yachanki
+  - ','
+  - ĉu: chu
+  - Ana: Ana
+  - ŝatas: munan
+  - la: riqsisqa
+  - novan: musuq
+  - kanton: takita
+  - pri: manta
+  - malriĉulo: wakcha runa
+  - kaj: hinaspa
+  - belulino: sumaq sipas
+  - '?'
 - demando: Maypitaq hatun mesata apaq mawka runatawan wayna runatawan rikurqanki?
   rektatraduko:
-    - Kie: Maypi
-    - vi: qan
-    - vidis: rikurqanki
-    - la: riqsisqa
-    - maljunulon: machu runata
-    - kaj: hinaspa
-    - la: riqsisqa
-    - junulon: wayna runata
-    - ','
-    - kiuj: pikuna
-    - portis: aparqanku
-    - grandan: hatun
-    - tablon: mesata
-    - '?'
+  - Kie: Maypi
+  - vi: qan
+  - vidis: rikurqanki
+  - la: riqsisqa
+  - maljunulon: machu runata
+  - kaj: hinaspa
+  - la: riqsisqa
+  - junulon: wayna runata
+  - ','
+  - kiuj: pikuna
+  - portis: aparqanku
+  - grandan: hatun
+  - tablon: mesata
+  - '?'
 - demando: Imaynataq qankuna wakmanta ñuqaykuman wawqipanakunayki mana kaspa hamurqanki?
   rektatraduko:
-    - Kiel: Imaynata
-    - okazis: karqa
-    - ','
-    - ke: chayta
-    - vi: qan
-    - denove: wakmanta
-    - venis: hamurqanki
-    - al: man
-    - ni: ñuqayku
-    - sen: mana
-    - gefratoj: wawqipanakuna
-    - '?'
+  - Kiel: Imaynata
+  - okazis: karqa
+  - ','
+  - ke: chayta
+  - vi: qan
+  - denove: wakmanta
+  - venis: hamurqanki
+  - al: man
+  - ni: ñuqayku
+  - sen: mana
+  - gefratoj: wawqipanakuna
+  - '?'
 - demando: Musuq yachay liwruwan Esperantota aslla utqaylla yachayta atinkichu?
   rektatraduko:
-    - Ĉu: Chu
-    - vi: qan
-    - povas: atinki
-    - per: wan
-    - la: riqsisqa
-    - nova: musuq
-    - lernolibro: yachay liwru
-    - sufiĉe: aypaq
-    - rapide: utqaylla
-    - lerni: yachay
-    - Esperanton: Esperantota
-    - '?'
+  - Ĉu: Chu
+  - vi: qan
+  - povas: atinki
+  - per: wan
+  - la: riqsisqa
+  - nova: musuq
+  - lernolibro: yachay liwru
+  - sufiĉe: aypaq
+  - rapide: utqaylla
+  - lerni: yachay
+  - Esperanton: Esperantota
+  - '?'

@@ -1,67 +1,67 @@
 - demando: متى سأراك؟
   rektatraduko:
-    - Kiam: متى
-    - mi: أنا
-    - revidos: سأرى
-    - vin: إيّاكَ
-    - '?'
+  - Kiam: متى
+  - mi: أنا
+  - revidos: سأرى
+  - vin: إيّاكَ
+  - '?'
 - demando: منذ متى وأنت تتعلم اللغة العالمية؟
   rektatraduko:
-    - Kiom: للسؤال عن الكمية
-    - longe: زمن طويل
-    - vi: أنت
-    - lernas: تتعلم
-    - la: ال التعريف
-    - Internacian: عالميةَ
-    - Lingvon: لغةً
-    - '?'
+  - Kiom: للسؤال عن الكمية
+  - longe: زمن طويل
+  - vi: أنت
+  - lernas: تتعلم
+  - la: ال التعريف
+  - Internacian: عالميةَ
+  - Lingvon: لغةً
+  - '?'
 - demando: أين كتابي الجديد مع الصور؟
   rektatraduko:
-    - Kie: أين
-    - estas: يكون
-    - mia: الخاص بي
-    - nova: جديد
-    - libro: كتاب
-    - kun: مع
-    - fotoj: صور
-    - '?'
+  - Kie: أين
+  - estas: يكون
+  - mia: الخاص بي
+  - nova: جديد
+  - libro: كتاب
+  - kun: مع
+  - fotoj: صور
+  - '?'
 - demando: إلى أين ستذهب بعد الغداء؟
   rektatraduko:
-    - Kien: إلى أين
-    - vi: أنت
-    - iros: ستذهب
-    - post: بعد
-    - la: ال التعريف
-    - tagmanĝo: غداء
-    - '?'
+  - Kien: إلى أين
+  - vi: أنت
+  - iros: ستذهب
+  - post: بعد
+  - la: ال التعريف
+  - tagmanĝo: غداء
+  - '?'
 - demando: هل يستطيع المرء إغلاق بابِ الغرفة عندما يبرد الجو؟
   rektatraduko:
-    - Ĉu: هل
-    - oni: المرء
-    - povas: يستطيع
-    - fermi: أن يغلق
-    - la: ال التعريف
-    - pordon: باب
-    - de: أداة الإضافة
-    - la: ال التعريف
-    - ĉambro: غرفة
-    - ','
-    - kiam: عندما
-    - estas: يكون
-    - malvarme: بارداً
-    - '?'
+  - Ĉu: هل
+  - oni: المرء
+  - povas: يستطيع
+  - fermi: أن يغلق
+  - la: ال التعريف
+  - pordon: باب
+  - de: أداة الإضافة
+  - la: ال التعريف
+  - ĉambro: غرفة
+  - ','
+  - kiam: عندما
+  - estas: يكون
+  - malvarme: بارداً
+  - '?'
 - demando: لكم من الوقت تغضب إذا سلب منك المرء مالاً كثيراً؟
   rektatraduko:
-    - Kiom: للسؤال عن الكمية
-    - longe: زمن طويل
-    - vi: أنت
-    - koleras: تغضب
-    - ','
-    - se: إذا
-    - oni: المرء
-    - forprenas: يسلب
-    - de: من
-    - vi: أنت
-    - multan: كثيراً
-    - monon: مالاً
-    - '?'
+  - Kiom: للسؤال عن الكمية
+  - longe: زمن طويل
+  - vi: أنت
+  - koleras: تغضب
+  - ','
+  - se: إذا
+  - oni: المرء
+  - forprenas: يسلب
+  - de: من
+  - vi: أنت
+  - multan: كثيراً
+  - monon: مالاً
+  - '?'

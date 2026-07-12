@@ -1,68 +1,68 @@
 - demando: Vrei să îți arăt cea mai nouă carte a mea?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - deziras: vrei
-    - ','
-    - ke: ca
-    - mi: eu
-    - montru: să arăt
-    - al: către
-    - vi: tine
-    - mian: mea
-    - plej: cea mai
-    - novan: nouă
-    - libron: carte
-    - '?'
+  - Ĉu: oare
+  - vi: tu
+  - deziras: vrei
+  - ','
+  - ke: ca
+  - mi: eu
+  - montru: să arăt
+  - al: către
+  - vi: tine
+  - mian: mea
+  - plej: cea mai
+  - novan: nouă
+  - libron: carte
+  - '?'
 - demando: Ce vrei să mănânci mâine dimineață?
   rektatraduko:
-    - Kion: Ce
-    - vi: tu
-    - volas: vrei
-    - morgaŭ: mâine
-    - matenmanĝi: să iei micul dejun
-    - '?'
+  - Kion: Ce
+  - vi: tu
+  - volas: vrei
+  - morgaŭ: mâine
+  - matenmanĝi: să iei micul dejun
+  - '?'
 - demando: Când va sosi Marko, la ora cinci sau la ora opt?
   rektatraduko:
-    - Kiam: Când
-    - Marko: Marko
-    - alvenos: va sosi
-    - ','
-    - je: la
-    - la: (articol)
-    - kvina: a cincea
-    - aŭ: sau
-    - je: la
-    - la: (articol)
-    - oka: a opta
-    - horo: oră
-    - '?'
+  - Kiam: Când
+  - Marko: Marko
+  - alvenos: va sosi
+  - ','
+  - je: la
+  - la: (articol)
+  - kvina: a cincea
+  - aŭ: sau
+  - je: la
+  - la: (articol)
+  - oka: a opta
+  - horo: oră
+  - '?'
 - demando: Când ai observat că toată familia mă numește binefăcător?
   rektatraduko:
-    - Kiam: Când
-    - vi: tu
-    - rimarkis: ai observat
-    - ','
-    - ke: că
-    - la: (articol)
-    - tuta: toată
-    - familio: familie
-    - nomas: numește
-    - min: pe mine
-    - bonfarulo: binefăcător
-    - '?'
+  - Kiam: Când
+  - vi: tu
+  - rimarkis: ai observat
+  - ','
+  - ke: că
+  - la: (articol)
+  - tuta: toată
+  - familio: familie
+  - nomas: numește
+  - min: pe mine
+  - bonfarulo: binefăcător
+  - '?'
 - demando: Ți-a fost utilă cărticica pe care ți-am trimis-o?
   rektatraduko:
-    - Ĉu: oare
-    - la: (articol)
-    - libreto: cărticică
-    - ','
-    - kiun: pe care
-    - mi: eu
-    - sendis: am trimis
-    - al: pentru
-    - vi: tine
-    - ','
-    - estis: a fost
-    - utila: utilă
-    - '?'
+  - Ĉu: oare
+  - la: (articol)
+  - libreto: cărticică
+  - ','
+  - kiun: pe care
+  - mi: eu
+  - sendis: am trimis
+  - al: pentru
+  - vi: tine
+  - ','
+  - estis: a fost
+  - utila: utilă
+  - '?'

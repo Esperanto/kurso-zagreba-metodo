@@ -1,77 +1,71 @@
-- 
-  demando: Хто мав книгу, яку ви чекали більш ніж два роки ?
-  rektatraduko: 
-    - Kiu: Хто
-    - havis: мав
-    - la: означений артикль
-    - libron: книгу
-    - ',' 
-    - kiun: яку
-    - vi: ви
-    - atendis: чекали
-    - pli: більш
-    - ol: ніж
-    - du: два
-    - jarojn: роки
-    - '?'
-- 
-  demando: Чи ви хочете, щоб я показав вам мою найбільш дорогу світлину ?
-  rektatraduko: 
-    - Ĉu: Чи
-    - vi: ви
-    - volas: хочете
-    - ','
-    - ke: що
-    - mi: я
-    - montru: показав
-    - al: прийменник, що утворює давальний відмінок
-    - vi: вам
-    - mian: мою
-    - plej: найбільш
-    - karan: дорогу
-    - foton: світлину
-    - '?'
-- 
-  demando: Де ви купили той одяг ?
-  rektatraduko: 
-    - Kie: Де
-    - vi: ви
-    - aĉetis: купили
-    - tiun: той
-    - vestaĵon: одяг
-    - '?'
-- 
-  demando: "Куди ви підете в неділю, якщо буде сонячний день ?"
-  rektatraduko: 
-    - Kien: Куди
-    - vi: ви
-    - iros: підете
-    - dimanĉe: в неділю
-    - ',' 
-    - se: якщо
-    - estos: буде
-    - suna: сонячний
-    - tago: день
-    - '?'
-- 
-  demando: Чи твій брат вже вирушив ?
-  rektatraduko: 
-    - Ĉu: Чи
-    - via: твій
-    - frato: брат
-    - jam: вже
-    - ekiris: вирушив
-    - '?'
-- 
-  demando: "Де є вода яку ви самі принесли ?"
-  rektatraduko: 
-    - Kie: Де
-    - estas: є
-    - la: "означений артикль"
-    - akvo: вода
-    - ',' 
-    - kiun: яку
-    - vi: ви
-    - mem: самі
-    - kunportis: принесли
-    - '?'
+- demando: Хто мав книгу, яку ви чекали більш ніж два роки ?
+  rektatraduko:
+  - Kiu: Хто
+  - havis: мав
+  - la: означений артикль
+  - libron: книгу
+  - ','
+  - kiun: яку
+  - vi: ви
+  - atendis: чекали
+  - pli: більш
+  - ol: ніж
+  - du: два
+  - jarojn: роки
+  - '?'
+- demando: Чи ви хочете, щоб я показав вам мою найбільш дорогу світлину ?
+  rektatraduko:
+  - Ĉu: Чи
+  - vi: ви
+  - volas: хочете
+  - ','
+  - ke: що
+  - mi: я
+  - montru: показав
+  - al: прийменник, що утворює давальний відмінок
+  - vi: вам
+  - mian: мою
+  - plej: найбільш
+  - karan: дорогу
+  - foton: світлину
+  - '?'
+- demando: Де ви купили той одяг ?
+  rektatraduko:
+  - Kie: Де
+  - vi: ви
+  - aĉetis: купили
+  - tiun: той
+  - vestaĵon: одяг
+  - '?'
+- demando: Куди ви підете в неділю, якщо буде сонячний день ?
+  rektatraduko:
+  - Kien: Куди
+  - vi: ви
+  - iros: підете
+  - dimanĉe: в неділю
+  - ','
+  - se: якщо
+  - estos: буде
+  - suna: сонячний
+  - tago: день
+  - '?'
+- demando: Чи твій брат вже вирушив ?
+  rektatraduko:
+  - Ĉu: Чи
+  - via: твій
+  - frato: брат
+  - jam: вже
+  - ekiris: вирушив
+  - '?'
+- demando: Де є вода яку ви самі принесли ?
+  rektatraduko:
+  - Kie: Де
+  - estas: є
+  - la: означений артикль
+  - akvo: вода
+  - ','
+  - kiun: яку
+  - vi: ви
+  - mem: самі
+  - kunportis: принесли
+  - '?'

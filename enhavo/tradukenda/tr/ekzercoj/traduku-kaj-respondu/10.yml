@@ -1,51 +1,47 @@
-- 
-  demando: Arkadaşlık sizi aşktan daha mı çok mutlu ediyor?
-  rektatraduko: 
-    - Ĉu: mı
-    - amikeco: arkadaşlık
-    - pli: daha çok, daha fazla
-    - feliĉigas: mutlu ediyor
-    - vin: siz'i
-    - ol: -den, -dan 
-    - la: (belirleyici artikel)
-    - amo: aşk
-    - '?'
-- 
-  demando: Italya'daki kız arkadaşlarınızı ne kadar sıklıkla mektup yazıyorsunuz?
-  rektatraduko: 
-    - Kiel: ne kadar, nasıl
-    - ofte: sık
-    - vi: siz
-    - skribas: yazıyor
-    - leterojn: mektuplar
-    - al: -e, -a (ismin -e hali)
-    - viaj: sizin
-    - amikinoj: kız ardaşlar
-    - en: -de, -da (ismin -de hali)
-    - Italio: İtalya
-    - '?'
-- 
-  demando: Senle öğretmenin arasındaki ilişki değişti mi?
-  rektatraduko: 
-    - Ĉu: mi
-    - la: (belirleyici artikel)
-    - rilato: ilişti
-    - inter: arasında
-    - vi: sen
-    - kaj: ve
-    - via: senin
-    - instruisto: öğretmen
-    - ŝanĝiĝis: değişti
-    - '?'
-- 
-  demando: Şimdiden Esperanto'yu yeterince iyi biliyor musun?
-  rektatraduko: 
-    - Ĉu: musun
-    - vi: sen
-    - nun: şimdi
-    - jam: zaten, bile, -den, şimdiden
-    - scias: biliyor
-    - Esperanton: Esperanto
-    - sufiĉe: yeterince
-    - bone: iyi
-    - '?'
+- demando: Arkadaşlık sizi aşktan daha mı çok mutlu ediyor?
+  rektatraduko:
+  - Ĉu: mı
+  - amikeco: arkadaşlık
+  - pli: daha çok, daha fazla
+  - feliĉigas: mutlu ediyor
+  - vin: siz'i
+  - ol: -den, -dan
+  - la: (belirleyici artikel)
+  - amo: aşk
+  - '?'
+- demando: Italya'daki kız arkadaşlarınızı ne kadar sıklıkla mektup yazıyorsunuz?
+  rektatraduko:
+  - Kiel: ne kadar, nasıl
+  - ofte: sık
+  - vi: siz
+  - skribas: yazıyor
+  - leterojn: mektuplar
+  - al: -e, -a (ismin -e hali)
+  - viaj: sizin
+  - amikinoj: kız ardaşlar
+  - en: -de, -da (ismin -de hali)
+  - Italio: İtalya
+  - '?'
+- demando: Senle öğretmenin arasındaki ilişki değişti mi?
+  rektatraduko:
+  - Ĉu: mi
+  - la: (belirleyici artikel)
+  - rilato: ilişti
+  - inter: arasında
+  - vi: sen
+  - kaj: ve
+  - via: senin
+  - instruisto: öğretmen
+  - ŝanĝiĝis: değişti
+  - '?'
+- demando: Şimdiden Esperanto'yu yeterince iyi biliyor musun?
+  rektatraduko:
+  - Ĉu: musun
+  - vi: sen
+  - nun: şimdi
+  - jam: zaten, bile, -den, şimdiden
+  - scias: biliyor
+  - Esperanton: Esperanto
+  - sufiĉe: yeterince
+  - bone: iyi
+  - '?'

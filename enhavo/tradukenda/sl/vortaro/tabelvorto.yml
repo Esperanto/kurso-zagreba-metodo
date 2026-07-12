@@ -1,8 +1,8 @@
 kio: kaj
-tio: 
+tio:
 - to
 - tisto
-io: 
+io:
 - nekaj
 ĉio: vse
 nenio: nič
@@ -12,7 +12,7 @@ kiu:
 tiu:
 - ta
 - tisti
-iu: 
+iu:
 - kdorkoli
 - nekdo
 ĉiu:
@@ -21,17 +21,17 @@ neniu:
 - nobeden
 - nihče
 kie: kje
-tie: 
+tie:
 - tam
-ie: 
+ie:
 - nekje
 - kjerkoli
 ĉie: povsod
 nenie: nikjer
 kia: kakšen
-tia: 
+tia:
 - takšen
-ia: 
+ia:
 - nekakšen
 ĉia: kakršenkoli
 nenia: nikakšen
@@ -39,7 +39,7 @@ kiel: kako
 tiel: tako
 iel: nekako
 ĉiel: na katerikoli način
-neniel: 
+neniel:
 - nikakor
 - na noben način
 kial: zakaj

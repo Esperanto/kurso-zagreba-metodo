@@ -1,77 +1,71 @@
-- 
-  demando: Vem hade boken som du väntade på i mer än två år?
-  rektatraduko: 
-    - Kiu: Vem
-    - havis: hade
-    - la: (bestämd artikel)
-    - libron: bok
-    - ',' 
-    - kiun: vilken
-    - vi: du
-    - atendis: väntade
-    - pli: mer
-    - ol: än
-    - du: två
-    - jarojn: år
-    - '?'
-- 
-  demando: Vill du att jag visar dig mitt käraste foto?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - vi: du
-    - volas: vill
-    - ','
-    - ke: att
-    - mi: jag
-    - montru: visar
-    - al: till
-    - vi: du
-    - mian: mitt
-    - plej: mest
-    - karan: kära
-    - foton: foto
-    - '?'
-- 
-  demando: Var har du köpt det där plagget?
-  rektatraduko: 
-    - Kie: Var
-    - vi: du
-    - aĉetis: köpte
-    - tiun: den där
-    - vestaĵon: klädesplagget
-    - '?'
-- 
-  demando: Vart ska du åka på söndag om det blir en solig dag?
-  rektatraduko: 
-    - Kien: Vart
-    - vi: du
-    - iros: kommer att åka
-    - dimanĉe: på söndag
-    - ',' 
-    - se: om
-    - estos: kommer att vara
-    - suna: solig
-    - tago: dag
-    - '?'
-- 
-  demando: Har din bror redan åkt iväg?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - via: din
-    - frato: bror
-    - jam: redan
-    - ekiris: började åka
-    - '?'
-- 
-  demando: Var är vattnet som du hämtade själv?
-  rektatraduko: 
-    - Kie: Var
-    - estas: är
-    - la: (bestämd artikel)
-    - akvo: vatten
-    - ',' 
-    - kiun: vilket
-    - vi: du
-    - mem: själv
-    - kunportis: tog med
-    - '?'
+- demando: Vem hade boken som du väntade på i mer än två år?
+  rektatraduko:
+  - Kiu: Vem
+  - havis: hade
+  - la: (bestämd artikel)
+  - libron: bok
+  - ','
+  - kiun: vilken
+  - vi: du
+  - atendis: väntade
+  - pli: mer
+  - ol: än
+  - du: två
+  - jarojn: år
+  - '?'
+- demando: Vill du att jag visar dig mitt käraste foto?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - vi: du
+  - volas: vill
+  - ','
+  - ke: att
+  - mi: jag
+  - montru: visar
+  - al: till
+  - vi: du
+  - mian: mitt
+  - plej: mest
+  - karan: kära
+  - foton: foto
+  - '?'
+- demando: Var har du köpt det där plagget?
+  rektatraduko:
+  - Kie: Var
+  - vi: du
+  - aĉetis: köpte
+  - tiun: den där
+  - vestaĵon: klädesplagget
+  - '?'
+- demando: Vart ska du åka på söndag om det blir en solig dag?
+  rektatraduko:
+  - Kien: Vart
+  - vi: du
+  - iros: kommer att åka
+  - dimanĉe: på söndag
+  - ','
+  - se: om
+  - estos: kommer att vara
+  - suna: solig
+  - tago: dag
+  - '?'
+- demando: Har din bror redan åkt iväg?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - via: din
+  - frato: bror
+  - jam: redan
+  - ekiris: började åka
+  - '?'
+- demando: Var är vattnet som du hämtade själv?
+  rektatraduko:
+  - Kie: Var
+  - estas: är
+  - la: (bestämd artikel)
+  - akvo: vatten
+  - ','
+  - kiun: vilket
+  - vi: du
+  - mem: själv
+  - kunportis: tog med
+  - '?'

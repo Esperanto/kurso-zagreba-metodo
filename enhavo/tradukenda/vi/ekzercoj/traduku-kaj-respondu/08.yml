@@ -1,86 +1,80 @@
-- 
-  demando: Ai sẽ lau chùi cái nhà bếp sau bữa trưa đây?
-  rektatraduko: 
-    - Kiu: Ai
-    - purigos: sẽ lau chùi
-    - la: (mạo từ xác định)
-    - kuirejon: cái nhà bếp
-    - post: sau
-    - la: (mạo từ xác định)
-    - tagmanĝo: bữa trưa
-    - '?'
-- 
-  demando: "Cậu muốn uống gì: trà, một chút cà phê hay cậu không muốn uống gì cả?"
-  rektatraduko: 
-    - Kion: Cái gì
-    - vi: cậu
-    - volas: muốn
-    - trinki: uống
-    - ':' 
-    - teon: trà
-    - ',' 
-    - iom: một chút
-    - da: (số lượng)
-    - kafo: cà phê
-    - aŭ: hay
-    - ĉu: không lẽ
-    - vi: cậu
-    - volas: muốn
-    - nenion: không gì cả
-    - '?'
-- 
-  demando: Sao đột ngột cậu lại quyết định cải tiến căn phòng nhỏ của cậu theo kiểu đó vậy?
-  rektatraduko: 
-    - Kial: Tại sao
-    - vi: cậu
-    - tiel: theo kiểu đó
-    - subite: đột ngột
-    - decidis: đã quyết định
-    - renovigi: làm cải tiến
-    - vian: của cậu
-    - ĉambreton: căn phòng nhỏ
-    - '?'
-- 
-  demando: Cậu đã đưa những ly sạch để rượu vang cho ai vậy?
-  rektatraduko: 
-    - Al: Cho
-    - kiu: ai
-    - vi: bạn
-    - donis: đã đưa
-    - la: (mạo từ xác định)
-    - purajn: sạch
-    - glasojn: những cái ly
-    - por: để
-    - la: (mạo từ xác định)
-    - vino: rượu vang
-    - '?'
-- 
-  demando: Câu lạc bộ thể thao của cậu hai tuần trước đã chơi đối đầu với ai vậy?
-  rektatraduko: 
-    - Kontraŭ: Đối đầu
-    - kiu: với ai
-    - ludis: đã chơi
-    - via: của cậu
-    - sportklubo: câu lạc bộ thể thao
-    - antaŭ: trước
-    - du: hai
-    - semajnoj: tuần
-    - '?'
-- 
-  demando: Cậu có thường hay gặp chú cảnh sát sống trong căn hộ phía trên cậu không?
-  rektatraduko: 
-    - Ĉu: Có không
-    - vi: cậu
-    - ofte: thường hay
-    - vidas: gặp
-    - la: (mạo từ xác định)
-    - policiston: chú cảnh sát
-    - ',' 
-    - kiu: người mà
-    - loĝas: sống
-    - en: ở trong
-    - la: (mạo từ xác định)
-    - loĝejo: căn hộ
-    - super: phía trên
-    - vi: cậu
-    - '?'
+- demando: Ai sẽ lau chùi cái nhà bếp sau bữa trưa đây?
+  rektatraduko:
+  - Kiu: Ai
+  - purigos: sẽ lau chùi
+  - la: (mạo từ xác định)
+  - kuirejon: cái nhà bếp
+  - post: sau
+  - la: (mạo từ xác định)
+  - tagmanĝo: bữa trưa
+  - '?'
+- demando: 'Cậu muốn uống gì: trà, một chút cà phê hay cậu không muốn uống gì cả?'
+  rektatraduko:
+  - Kion: Cái gì
+  - vi: cậu
+  - volas: muốn
+  - trinki: uống
+  - ':'
+  - teon: trà
+  - ','
+  - iom: một chút
+  - da: (số lượng)
+  - kafo: cà phê
+  - aŭ: hay
+  - ĉu: không lẽ
+  - vi: cậu
+  - volas: muốn
+  - nenion: không gì cả
+  - '?'
+- demando: Sao đột ngột cậu lại quyết định cải tiến căn phòng nhỏ của cậu theo kiểu đó vậy?
+  rektatraduko:
+  - Kial: Tại sao
+  - vi: cậu
+  - tiel: theo kiểu đó
+  - subite: đột ngột
+  - decidis: đã quyết định
+  - renovigi: làm cải tiến
+  - vian: của cậu
+  - ĉambreton: căn phòng nhỏ
+  - '?'
+- demando: Cậu đã đưa những ly sạch để rượu vang cho ai vậy?
+  rektatraduko:
+  - Al: Cho
+  - kiu: ai
+  - vi: bạn
+  - donis: đã đưa
+  - la: (mạo từ xác định)
+  - purajn: sạch
+  - glasojn: những cái ly
+  - por: để
+  - la: (mạo từ xác định)
+  - vino: rượu vang
+  - '?'
+- demando: Câu lạc bộ thể thao của cậu hai tuần trước đã chơi đối đầu với ai vậy?
+  rektatraduko:
+  - Kontraŭ: Đối đầu
+  - kiu: với ai
+  - ludis: đã chơi
+  - via: của cậu
+  - sportklubo: câu lạc bộ thể thao
+  - antaŭ: trước
+  - du: hai
+  - semajnoj: tuần
+  - '?'
+- demando: Cậu có thường hay gặp chú cảnh sát sống trong căn hộ phía trên cậu không?
+  rektatraduko:
+  - Ĉu: Có không
+  - vi: cậu
+  - ofte: thường hay
+  - vidas: gặp
+  - la: (mạo từ xác định)
+  - policiston: chú cảnh sát
+  - ','
+  - kiu: người mà
+  - loĝas: sống
+  - en: ở trong
+  - la: (mạo từ xác định)
+  - loĝejo: căn hộ
+  - super: phía trên
+  - vi: cậu
+  - '?'

@@ -1,59 +1,59 @@
 - demando: Ali se lahko mirno učiš, ko nekdo veselo prepeva?
   rektatraduko:
-    - Ĉu: Ali
-    - vi: (zaimek ti)
-    - povas: se lahko
-    - trankvile: mirno
-    - lerni: učiš
-    - ','
-    - dum: while
-    - iu: nekdo
-    - ĝoje: veselo
-    - kantas: prepeva
-    - '?'
+  - Ĉu: Ali
+  - vi: (zaimek ti)
+  - povas: se lahko
+  - trankvile: mirno
+  - lerni: učiš
+  - ','
+  - dum: while
+  - iu: nekdo
+  - ĝoje: veselo
+  - kantas: prepeva
+  - '?'
 - demando: Kdo ve, kdaj in kje se bomo ponovno videli?
   rektatraduko:
-    - Kiu: Kdo
-    - scias: ve
-    - ','
-    - kiam: kdaj
-    - kaj: in
-    - kie: kje
-    - ni: (zaimek mi)
-    - revidos: se bomo ponovno videli
-    - nin: (zaimek nas)
-    - '?'
+  - Kiu: Kdo
+  - scias: ve
+  - ','
+  - kiam: kdaj
+  - kaj: in
+  - kie: kje
+  - ni: (zaimek mi)
+  - revidos: se bomo ponovno videli
+  - nin: (zaimek nas)
+  - '?'
 - demando: Koliko je ura?
   rektatraduko:
-    - Kioma: koliko
-    - horo: ura
-    - estas: je
-    - nun: sedaj
-    - '?'
+  - Kioma: koliko
+  - horo: ura
+  - estas: je
+  - nun: sedaj
+  - '?'
 - demando: Ali ti je kdo pomagal odpreti vrata stare hiše?
   rektatraduko:
-    - Ĉu: Ali
-    - iu: kdo
-    - helpis: pomagal
-    - al: (predlog k)
-    - vi: ti
-    - malfermi: odpreti
-    - la: (člen)
-    - pordon: vrata
-    - de: (predlog od)
-    - la: (člen)
-    - malnova: stare
-    - domo: hiše
-    - '?'
+  - Ĉu: Ali
+  - iu: kdo
+  - helpis: pomagal
+  - al: (predlog k)
+  - vi: ti
+  - malfermi: odpreti
+  - la: (člen)
+  - pordon: vrata
+  - de: (predlog od)
+  - la: (člen)
+  - malnova: stare
+  - domo: hiše
+  - '?'
 - demando: Zakaj me nimaš časa dlje poslušati?
   rektatraduko:
-    - Kial: Zakaj
-    - vi: (zaimek vi)
-    - ne: nimaš
-    - havas: nimaš
-    - tempon: časa
-    - aŭskulti: poslušati
-    - min: mene
-    - pli: dlje
-    - longe: dlje
-    - '?'
+  - Kial: Zakaj
+  - vi: (zaimek vi)
+  - ne: nimaš
+  - havas: nimaš
+  - tempon: časa
+  - aŭskulti: poslušati
+  - min: mene
+  - pli: dlje
+  - longe: dlje
+  - '?'

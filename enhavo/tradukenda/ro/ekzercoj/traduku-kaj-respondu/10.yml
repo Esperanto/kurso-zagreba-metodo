@@ -1,51 +1,47 @@
--
-  demando: Te face prietenia mai fericit decât iubirea?
+- demando: Te face prietenia mai fericit decât iubirea?
   rektatraduko:
-    - Ĉu: oare
-    - amikeco: prietenie
-    - pli: mai
-    - feliĉigas: face fericit
-    - vin: pe tine
-    - ol: decât
-    - la: (articol)
-    - amo: iubire
-    - '?'
--
-  demando: Cât de des le scrii scrisori prietenelor tale din Italia?
+  - Ĉu: oare
+  - amikeco: prietenie
+  - pli: mai
+  - feliĉigas: face fericit
+  - vin: pe tine
+  - ol: decât
+  - la: (articol)
+  - amo: iubire
+  - '?'
+- demando: Cât de des le scrii scrisori prietenelor tale din Italia?
   rektatraduko:
-    - Kiel: Cât de
-    - ofte: des
-    - vi: tu
-    - skribas: scrii
-    - leterojn: scrisori
-    - al: către
-    - viaj: tale
-    - amikinoj: prietene
-    - en: în
-    - Italio: Italia
-    - '?'
--
-  demando: S-a schimbat relația dintre tine și profesorul tău?
+  - Kiel: Cât de
+  - ofte: des
+  - vi: tu
+  - skribas: scrii
+  - leterojn: scrisori
+  - al: către
+  - viaj: tale
+  - amikinoj: prietene
+  - en: în
+  - Italio: Italia
+  - '?'
+- demando: S-a schimbat relația dintre tine și profesorul tău?
   rektatraduko:
-    - Ĉu: oare
-    - la: (articol)
-    - rilato: relație
-    - inter: între
-    - vi: tine
-    - kaj: și
-    - via: tău
-    - instruisto: profesor
-    - ŝanĝiĝis: s-a schimbat
-    - '?'
--
-  demando: Știi deja acum destul de bine Esperanto?
+  - Ĉu: oare
+  - la: (articol)
+  - rilato: relație
+  - inter: între
+  - vi: tine
+  - kaj: și
+  - via: tău
+  - instruisto: profesor
+  - ŝanĝiĝis: s-a schimbat
+  - '?'
+- demando: Știi deja acum destul de bine Esperanto?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - nun: acum
-    - jam: deja
-    - scias: știi
-    - Esperanton: Esperanto
-    - sufiĉe: destul
-    - bone: bine
-    - '?'
+  - Ĉu: oare
+  - vi: tu
+  - nun: acum
+  - jam: deja
+  - scias: știi
+  - Esperanton: Esperanto
+  - sufiĉe: destul
+  - bone: bine
+  - '?'

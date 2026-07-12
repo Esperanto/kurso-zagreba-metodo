@@ -1,72 +1,72 @@
 - demando: A pincérek a nagy szállodákban sok nyelvet értenek?
   rektatraduko:
-    - Ĉu: Vajon
-    - kelneroj: pincérek
-    - en: -ban/ben
-    - grandaj: nagyok
-    - hoteloj: szállodák
-    - komprenas: ért
-    - multajn: sokat
-    - lingvojn: nyelveket
-    - '?'
+  - Ĉu: Vajon
+  - kelneroj: pincérek
+  - en: -ban/ben
+  - grandaj: nagyok
+  - hoteloj: szállodák
+  - komprenas: ért
+  - multajn: sokat
+  - lingvojn: nyelveket
+  - '?'
 - demando: Te tudod vajon Ana szereti-e az új dalt a szegény emberről és a szépségről?
   rektatraduko:
-    - Ĉu: Vajon
-    - vi: te
-    - scias: tud
-    - ','
-    - ĉu: Vajon
-    - Ana: Ana
-    - ŝatas: szeret
-    - la: a
-    - novan: újat
-    - kanton: dalt
-    - pri: -ról/ről
-    - malriĉulo: szegény ember
-    - kaj: és
-    - belulino: szépség
-    - '?'
+  - Ĉu: Vajon
+  - vi: te
+  - scias: tud
+  - ','
+  - ĉu: Vajon
+  - Ana: Ana
+  - ŝatas: szeret
+  - la: a
+  - novan: újat
+  - kanton: dalt
+  - pri: -ról/ről
+  - malriĉulo: szegény ember
+  - kaj: és
+  - belulino: szépség
+  - '?'
 - demando: Hol láttad az öregembert és a fiatalembert, akik egy nagy asztalt vittek?
   rektatraduko:
-    - Kie: Hol
-    - vi: te
-    - vidis: látta
-    - la: a
-    - maljunulon: öregember
-    - kaj: és
-    - la: a
-    - junulon: fiatalember
-    - ','
-    - kiuj: akik
-    - portis: vitte
-    - grandan: nagyot
-    - tablon: asztalt
-    - '?'
+  - Kie: Hol
+  - vi: te
+  - vidis: látta
+  - la: a
+  - maljunulon: öregember
+  - kaj: és
+  - la: a
+  - junulon: fiatalember
+  - ','
+  - kiuj: akik
+  - portis: vitte
+  - grandan: nagyot
+  - tablon: asztalt
+  - '?'
 - demando: Hogy történt, hogy megint testvérek nélkül jöttél hozzánk?
   rektatraduko:
-    - Kiel: Hogyan
-    - okazis: történt
-    - ','
-    - ke: hogy
-    - vi: te
-    - denove: megint
-    - venis: jött
-    - al: -hoz/hez/höz
-    - ni: mi
-    - sen: nélkül
-    - gefratoj: testvérek
-    - '?'
+  - Kiel: Hogyan
+  - okazis: történt
+  - ','
+  - ke: hogy
+  - vi: te
+  - denove: megint
+  - venis: jött
+  - al: -hoz/hez/höz
+  - ni: mi
+  - sen: nélkül
+  - gefratoj: testvérek
+  - '?'
 - demando: Vajon elég gyorsan tudod tanulni az eszperantót az új tankönyvvvel?
   rektatraduko:
-    - Ĉu: Vajon
-    - vi: te
-    - povas: tud
-    - per: -val/vel
-    - la: a
-    - nova: új
-    - lernolibro: tankönyv
-    - sufiĉe: elég
-    - rapide: gyorsan
-    - lerni: tanulni
-    - Esperanton: eszperantót
-    - '?'
+  - Ĉu: Vajon
+  - vi: te
+  - povas: tud
+  - per: -val/vel
+  - la: a
+  - nova: új
+  - lernolibro: tankönyv
+  - sufiĉe: elég
+  - rapide: gyorsan
+  - lerni: tanulni
+  - Esperanton: eszperantót
+  - '?'

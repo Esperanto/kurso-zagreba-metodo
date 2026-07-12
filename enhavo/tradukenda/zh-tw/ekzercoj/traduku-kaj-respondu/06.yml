@@ -1,68 +1,68 @@
 - demando: 你是否希望，我展示給你我最新的書？
   rektatraduko:
-    - Ĉu: 是否
-    - vi: 你
-    - deziras: 希望
-    - ','
-    - ke: 即
-    - mi: 我
-    - montru: 展示
-    - al: 給，向
-    - vi: 你
-    - mian: 我的
-    - plej: 最
-    - novan: 新
-    - libron: 書
-    - '?'
+  - Ĉu: 是否
+  - vi: 你
+  - deziras: 希望
+  - ','
+  - ke: 即
+  - mi: 我
+  - montru: 展示
+  - al: 給，向
+  - vi: 你
+  - mian: 我的
+  - plej: 最
+  - novan: 新
+  - libron: 書
+  - '?'
 - demando: 你明天吃早餐要什麼？
   rektatraduko:
-    - Kion: 什麼
-    - vi: 你
-    - volas: 要
-    - morgaŭ: 明天
-    - matenmanĝi: 吃早餐
-    - '?'
+  - Kion: 什麼
+  - vi: 你
+  - volas: 要
+  - morgaŭ: 明天
+  - matenmanĝi: 吃早餐
+  - '?'
 - demando: “何時馬克將抵達，是五點或八點？”
   rektatraduko:
-    - Kiam: 何時
-    - Marko: 馬克
-    - alvenos: 將抵達
-    - ','
-    - je: 在
-    - la: 這
-    - kvina: 第五
-    - aŭ: 或
-    - je: 在
-    - la: 這
-    - oka: 第八
-    - horo: 小時
-    - '?'
+  - Kiam: 何時
+  - Marko: 馬克
+  - alvenos: 將抵達
+  - ','
+  - je: 在
+  - la: 這
+  - kvina: 第五
+  - aŭ: 或
+  - je: 在
+  - la: 這
+  - oka: 第八
+  - horo: 小時
+  - '?'
 - demando: 何時你注意到了，那全家人都叫我施主？
   rektatraduko:
-    - Kiam: 何時
-    - vi: 你
-    - rimarkis: 注意了
-    - ','
-    - ke: 即
-    - la: 那
-    - tuta: 全
-    - familio: 家
-    - nomas: 叫
-    - min: 我
-    - bonfarulo: 施主
-    - '?'
+  - Kiam: 何時
+  - vi: 你
+  - rimarkis: 注意了
+  - ','
+  - ke: 即
+  - la: 那
+  - tuta: 全
+  - familio: 家
+  - nomas: 叫
+  - min: 我
+  - bonfarulo: 施主
+  - '?'
 - demando: 那本我寄給你的小書是否對你有用？
   rektatraduko:
-    - Ĉu: 是否
-    - la: 那本
-    - libreto: 小書
-    - ','
-    - kiun: 那本
-    - mi: 我
-    - sendis: 寄出
-    - al: 給，對，向
-    - vi: 你
-    - ','
-    - estis: 是
-    - utila: 有用
-    - '?'
+  - Ĉu: 是否
+  - la: 那本
+  - libreto: 小書
+  - ','
+  - kiun: 那本
+  - mi: 我
+  - sendis: 寄出
+  - al: 給，對，向
+  - vi: 你
+  - ','
+  - estis: 是
+  - utila: 有用
+  - '?'

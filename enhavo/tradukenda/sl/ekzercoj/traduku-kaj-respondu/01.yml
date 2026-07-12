@@ -1,51 +1,51 @@
 - demando: Kdo je tvoja prijateljica?
   rektatraduko:
-    - Kiu: Kdo
-    - estas: je
-    - via: tvoja
-    - amikino: prijateljica
-    - '?'
+  - Kiu: Kdo
+  - estas: je
+  - via: tvoja
+  - amikino: prijateljica
+  - '?'
 - demando: Ali tvoja prijateljica Ana sedaj piše v sobi?
   rektatraduko:
-    - Ĉu: Ali
-    - via: tvoja
-    - amikino: prijateljica
-    - Ana: Ana
-    - skribas: piše
-    - nun: sedaj
-    - en: v
-    - la: (člen)
-    - ĉambro: sobi
-    - '?'
+  - Ĉu: Ali
+  - via: tvoja
+  - amikino: prijateljica
+  - Ana: Ana
+  - skribas: piše
+  - nun: sedaj
+  - en: v
+  - la: (člen)
+  - ĉambro: sobi
+  - '?'
 - demando: Ali prijatelj tvojega očeta dela v hotelu?
   rektatraduko:
-    - Ĉu: Ali
-    - la: (člen)
-    - amiko: prijatelj
-    - de: (predlog od)
-    - via: tvojega
-    - patro: očeta
-    - laboras: dela
-    - en: v
-    - hotelo: hotelu
-    - '?'
+  - Ĉu: Ali
+  - la: (člen)
+  - amiko: prijatelj
+  - de: (predlog od)
+  - via: tvojega
+  - patro: očeta
+  - laboras: dela
+  - en: v
+  - hotelo: hotelu
+  - '?'
 - demando: Kaj je na delovni mizi v naši sobi?
   rektatraduko:
-    - Kio: Kaj
-    - estas: je
-    - sur: na
-    - la: (člen)
-    - labortablo: delovni mizi
-    - en: v
-    - nia: naši
-    - ĉambro: sobi
-    - '?'
+  - Kio: Kaj
+  - estas: je
+  - sur: na
+  - la: (člen)
+  - labortablo: delovni mizi
+  - en: v
+  - nia: naši
+  - ĉambro: sobi
+  - '?'
 - demando: Ali je esperantski učbenik na tvoji mizi?
   rektatraduko:
-    - Ĉu: Ali
-    - Esperanto-lernolibro: esperantski učbenik
-    - estas: je
-    - sur: na
-    - via: tvoji
-    - tablo: mizi
-    - '?'
+  - Ĉu: Ali
+  - Esperanto-lernolibro: esperantski učbenik
+  - estas: je
+  - sur: na
+  - via: tvoji
+  - tablo: mizi
+  - '?'

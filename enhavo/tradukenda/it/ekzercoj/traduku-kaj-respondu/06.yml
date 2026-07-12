@@ -1,68 +1,68 @@
 - demando: Desideri che ti mostri il mio libro più recente?
   rektatraduko:
-    - Ĉu: (interrogativa)
-    - vi: tu
-    - deziras: desideri
-    - ','
-    - ke: che
-    - mi: io
-    - montru: mostro
-    - al: a
-    - vi: te
-    - mian: mio
-    - plej: più
-    - novan: nuovo
-    - libron: libro
-    - '?'
+  - Ĉu: (interrogativa)
+  - vi: tu
+  - deziras: desideri
+  - ','
+  - ke: che
+  - mi: io
+  - montru: mostro
+  - al: a
+  - vi: te
+  - mian: mio
+  - plej: più
+  - novan: nuovo
+  - libron: libro
+  - '?'
 - demando: Che cosa vuoi domani per colazione?
   rektatraduko:
-    - Kion: Che cosa
-    - vi: tu
-    - volas: vuoi
-    - morgaŭ: domani
-    - matenmanĝi: fare colazione
-    - '?'
+  - Kion: Che cosa
+  - vi: tu
+  - volas: vuoi
+  - morgaŭ: domani
+  - matenmanĝi: fare colazione
+  - '?'
 - demando: Sai quando arriverà Marco? Alle 5 o alle 8?
   rektatraduko:
-    - Kiam: Quando
-    - Marko: Marco
-    - alvenos: arriverà
-    - ','
-    - je: a
-    - la: la
-    - kvina: quinta
-    - aŭ: o
-    - je: a
-    - la: la
-    - oka: ottava
-    - horo: ora
-    - '?'
+  - Kiam: Quando
+  - Marko: Marco
+  - alvenos: arriverà
+  - ','
+  - je: a
+  - la: la
+  - kvina: quinta
+  - aŭ: o
+  - je: a
+  - la: la
+  - oka: ottava
+  - horo: ora
+  - '?'
 - demando: Quando ti sei accorto che tutta la famiglia mi chiama benefattore?
   rektatraduko:
-    - Kiam: Quando
-    - vi: tu
-    - rimarkis: ti sei accorto
-    - ','
-    - ke: che
-    - la: la
-    - tuta: tutta
-    - familio: famiglia
-    - nomas: chiama
-    - min: me
-    - bonfarulo: benefattore
-    - '?'
+  - Kiam: Quando
+  - vi: tu
+  - rimarkis: ti sei accorto
+  - ','
+  - ke: che
+  - la: la
+  - tuta: tutta
+  - familio: famiglia
+  - nomas: chiama
+  - min: me
+  - bonfarulo: benefattore
+  - '?'
 - demando: È stato utile per te il libretto che ti ho mandato l'altro ieri?
   rektatraduko:
-    - Ĉu: (interrogativa)
-    - la: il
-    - libreto: libretto
-    - ','
-    - kiun: quello che
-    - mi: io
-    - sendis: ho mandato
-    - al: a
-    - vi: te
-    - ','
-    - estis: è stato
-    - utila: utile
-    - '?'
+  - Ĉu: (interrogativa)
+  - la: il
+  - libreto: libretto
+  - ','
+  - kiun: quello che
+  - mi: io
+  - sendis: ho mandato
+  - al: a
+  - vi: te
+  - ','
+  - estis: è stato
+  - utila: utile
+  - '?'

@@ -1,63 +1,63 @@
 - demando: Uvidíme sa znova, kdekoľvek a kedykoľvek?
   rektatraduko:
-    - Ĉu: Či
-    - ni: my
-    - revidos: uvidíme znovu
-    - nin: nás
-    - ','
-    - kie: kde
-    - ajn: koľvek
-    - kaj: a
-    - kiam: kedy
-    - ajn: koľvek
-    - '?'
+  - Ĉu: Či
+  - ni: my
+  - revidos: uvidíme znovu
+  - nin: nás
+  - ','
+  - kie: kde
+  - ajn: koľvek
+  - kaj: a
+  - kiam: kedy
+  - ajn: koľvek
+  - '?'
 - demando: Kedy vrátim späť druhú polovicu kníh?
   rektatraduko:
-    - Kiam: Kedy
-    - mi: ja
-    - rericevos: vrátim späť
-    - la: (člen určitý)
-    - alian: inú
-    - duonon: polovicu
-    - de: od
-    - la: (člen určitý)
-    - libroj: knihy
-    - '?'
+  - Kiam: Kedy
+  - mi: ja
+  - rericevos: vrátim späť
+  - la: (člen určitý)
+  - alian: inú
+  - duonon: polovicu
+  - de: od
+  - la: (člen určitý)
+  - libroj: knihy
+  - '?'
 - demando: Budeš na tieto práce potrebovať viac ako štvrť roka?
   rektatraduko:
-    - Ĉu: Či
-    - vi: ty
-    - bezonos: budeš potrebovať
-    - pli: viac
-    - ol: ako
-    - kvaronan: štvrť
-    - jaron: year
-    - por: pre
-    - tiuj: tie
-    - laboroj: práce
-    - '?'
+  - Ĉu: Či
+  - vi: ty
+  - bezonos: budeš potrebovať
+  - pli: viac
+  - ol: ako
+  - kvaronan: štvrť
+  - jaron: year
+  - por: pre
+  - tiuj: tie
+  - laboroj: práce
+  - '?'
 - demando: Prečo je tým chladnejšie, čím dlhšie čakáme?
   rektatraduko:
-    - Kial: Prečo
-    - ju: čím
-    - pli: viac (2. stupeň prídavného mena)
-    - longe: dlho
-    - ni: my
-    - atendas: čakáme
-    - ','
-    - des: tým
-    - pli: viac (2. stupeň prídavného mena/príslovky)
-    - malvarme: chladno
-    - estas: je
-    - '?'
+  - Kial: Prečo
+  - ju: čím
+  - pli: viac (2. stupeň prídavného mena)
+  - longe: dlho
+  - ni: my
+  - atendas: čakáme
+  - ','
+  - des: tým
+  - pli: viac (2. stupeň prídavného mena/príslovky)
+  - malvarme: chladno
+  - estas: je
+  - '?'
 - demando: Bola by si spokojná s akýmkoľvek mužom?
   rektatraduko:
-    - Ĉu: Či
-    - vi: ty
-    - estus: bola by si
-    - kontenta: spokojná
-    - kun: s
-    - iu: niekto
-    - ajn: akýkoľvek
-    - viro: muž
-    - '?'
+  - Ĉu: Či
+  - vi: ty
+  - estus: bola by si
+  - kontenta: spokojná
+  - kun: s
+  - iu: niekto
+  - ajn: akýkoľvek
+  - viro: muž
+  - '?'

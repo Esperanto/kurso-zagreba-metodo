@@ -1,68 +1,68 @@
 - demando: Ar mhaith leat go dtaispeánfainn an leabhar is nua agam duit?
   rektatraduko:
-    - Ĉu: An
-    - vi: tú
-    - deziras: mian
-    - ','
-    - ke: go
-    - mi: mé
-    - montru: taispeáin
-    - al: do
-    - vi: tú
-    - mian: mo
-    - plej: is mó
-    - novan: nua
-    - libron: leabhar
-    - '?'
+  - Ĉu: An
+  - vi: tú
+  - deziras: mian
+  - ','
+  - ke: go
+  - mi: mé
+  - montru: taispeáin
+  - al: do
+  - vi: tú
+  - mian: mo
+  - plej: is mó
+  - novan: nua
+  - libron: leabhar
+  - '?'
 - demando: Cad atá uait don bhricfeasta amárach?
   rektatraduko:
-    - Kion: Cad
-    - vi: tú
-    - volas: mian
-    - morgaŭ: amárach
-    - matenmanĝi: ith bricfeasta
-    - '?'
+  - Kion: Cad
+  - vi: tú
+  - volas: mian
+  - morgaŭ: amárach
+  - matenmanĝi: ith bricfeasta
+  - '?'
 - demando: Cathain a thiocfaidh Marcas, ar a cúig nó ar a hocht a chlog?
   rektatraduko:
-    - Kiam: Cathain
-    - Marko: Marcas
-    - alvenos: tiocfaidh
-    - ','
-    - je: ar
-    - la: an
-    - kvina: cúigiú
-    - aŭ: nó
-    - je: ar
-    - la: lá
-    - oka: ochtú
-    - horo: uair an chloig
-    - '?'
+  - Kiam: Cathain
+  - Marko: Marcas
+  - alvenos: tiocfaidh
+  - ','
+  - je: ar
+  - la: an
+  - kvina: cúigiú
+  - aŭ: nó
+  - je: ar
+  - la: lá
+  - oka: ochtú
+  - horo: uair an chloig
+  - '?'
 - demando: Cathain a thugais faoi deara go nglaonn an teaghlach ar fad bronntóir orm?
   rektatraduko:
-    - Kiam: Cathain
-    - vi: tú
-    - rimarkis: thug faoi deara
-    - ','
-    - ke: go
-    - la: an
-    - tuta: ar fad
-    - familio: teaghlach
-    - nomas: glaonn
-    - min: mé
-    - bonfarulo: bronntóir
-    - '?'
+  - Kiam: Cathain
+  - vi: tú
+  - rimarkis: thug faoi deara
+  - ','
+  - ke: go
+  - la: an
+  - tuta: ar fad
+  - familio: teaghlach
+  - nomas: glaonn
+  - min: mé
+  - bonfarulo: bronntóir
+  - '?'
 - demando: An leabhrán a sheolas chugat, an raibh sé úsáideach duit?
   rektatraduko:
-    - Ĉu: An
-    - la: an
-    - libreto: leabhrán
-    - ','
-    - kiun: a
-    - mi: mé
-    - sendis: sheol
-    - al: do
-    - vi: tú
-    - ','
-    - estis: bhí
-    - utila: úsáideach
-    - '?'
+  - Ĉu: An
+  - la: an
+  - libreto: leabhrán
+  - ','
+  - kiun: a
+  - mi: mé
+  - sendis: sheol
+  - al: do
+  - vi: tú
+  - ','
+  - estis: bhí
+  - utila: úsáideach
+  - '?'

@@ -1,72 +1,72 @@
 - demando: Büyük otellerdeki grasonlar bir çok dil anlıyorlar mı?
   rektatraduko:
-    - Ĉu: mı
-    - kelneroj: garsonlar
-    - en: -de
-    - grandaj: büyük
-    - hoteloj: oteller
-    - komprenas: anlıyor
-    - multajn: çok, bir çok
-    - lingvojn: diller
-    - '?'
+  - Ĉu: mı
+  - kelneroj: garsonlar
+  - en: -de
+  - grandaj: büyük
+  - hoteloj: oteller
+  - komprenas: anlıyor
+  - multajn: çok, bir çok
+  - lingvojn: diller
+  - '?'
 - demando: Biliyor musun, Ana fakir bir adam ve güzel bir kız hakkındaki yeni şarkıyı beğeniyor mu?
   rektatraduko:
-    - Ĉu: musun
-    - vi: sen
-    - scias: biliyor
-    - ','
-    - ĉu: mu
-    - Ana: Ana
-    - ŝatas: beğeniyor
-    - la: (belirleyici artikel)
-    - novan: yeni
-    - kanton: şarkı, şarkıyı
-    - pri: hakkında
-    - malriĉulo: fakir bir adam
-    - kaj: ve
-    - belulino: güzel bir kız
-    - '?'
+  - Ĉu: musun
+  - vi: sen
+  - scias: biliyor
+  - ','
+  - ĉu: mu
+  - Ana: Ana
+  - ŝatas: beğeniyor
+  - la: (belirleyici artikel)
+  - novan: yeni
+  - kanton: şarkı, şarkıyı
+  - pri: hakkında
+  - malriĉulo: fakir bir adam
+  - kaj: ve
+  - belulino: güzel bir kız
+  - '?'
 - demando: Büyük bir masa taşıyan, yaşlı adam ve genç adamı nerede gördü?
   rektatraduko:
-    - Kie: nerede
-    - vi: sen
-    - vidis: gördün
-    - la: (belirleyici artikel)
-    - maljunulon: yaşlı adam
-    - kaj: ve
-    - la: (belirleyici artikel)
-    - junulon: genç adam
-    - ','
-    - kiuj: ki onlar
-    - portis: taşıyordu
-    - grandan: büyük
-    - tablon: masa
-    - '?'
+  - Kie: nerede
+  - vi: sen
+  - vidis: gördün
+  - la: (belirleyici artikel)
+  - maljunulon: yaşlı adam
+  - kaj: ve
+  - la: (belirleyici artikel)
+  - junulon: genç adam
+  - ','
+  - kiuj: ki onlar
+  - portis: taşıyordu
+  - grandan: büyük
+  - tablon: masa
+  - '?'
 - demando: Nasıl oldu ki sen gene bize kardeşler olmaksızın geldin?
   rektatraduko:
-    - Kiel: nasıl
-    - okazis: oldu
-    - ','
-    - ke: ki
-    - vi: sen
-    - denove: gene
-    - venis: geldin
-    - al: -e, -a
-    - ni: biz
-    - sen: olmaksızın, -siz
-    - gefratoj: kardeşler
-    - '?'
+  - Kiel: nasıl
+  - okazis: oldu
+  - ','
+  - ke: ki
+  - vi: sen
+  - denove: gene
+  - venis: geldin
+  - al: -e, -a
+  - ni: biz
+  - sen: olmaksızın, -siz
+  - gefratoj: kardeşler
+  - '?'
 - demando: Yeni eğitim kitabı sayesinde Esperanto'yu yeterince hızlı şekilde öğrenebilecek misin?
   rektatraduko:
-    - Ĉu: misin
-    - vi: sen
-    - povas: -bilecek, yapabilecek
-    - per: sayesinde, vasıtası ile
-    - la: (belirleyici artikel)
-    - nova: yeni
-    - lernolibro: eğitim kitabı
-    - sufiĉe: yeterince
-    - rapide: hızlı şekilde
-    - lerni: öğrenmek
-    - Esperanton: Esperanto'yu
-    - '?'
+  - Ĉu: misin
+  - vi: sen
+  - povas: -bilecek, yapabilecek
+  - per: sayesinde, vasıtası ile
+  - la: (belirleyici artikel)
+  - nova: yeni
+  - lernolibro: eğitim kitabı
+  - sufiĉe: yeterince
+  - rapide: hızlı şekilde
+  - lerni: öğrenmek
+  - Esperanton: Esperanto'yu
+  - '?'

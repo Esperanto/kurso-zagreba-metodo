@@ -1,51 +1,51 @@
 - demando: Qui és la teva amiga?
   rektatraduko:
-    - Kiu: Qui
-    - estas: és
-    - via: la teva
-    - amikino: amiga
-    - '?'
+  - Kiu: Qui
+  - estas: és
+  - via: la teva
+  - amikino: amiga
+  - '?'
 - demando: Que escriu ara a l'habitació la teva amiga Ana?
   rektatraduko:
-    - Ĉu: Que
-    - via: la teva
-    - amikino: amiga
-    - Ana: Ana
-    - skribas: escriu
-    - nun: ara
-    - en: a
-    - la: la
-    - ĉambro: habitació
-    - '?'
+  - Ĉu: Que
+  - via: la teva
+  - amikino: amiga
+  - Ana: Ana
+  - skribas: escriu
+  - nun: ara
+  - en: a
+  - la: la
+  - ĉambro: habitació
+  - '?'
 - demando: L'amic del teu pare treballa en un hotel?
   rektatraduko:
-    - Ĉu: Que
-    - la: el
-    - amiko: amic
-    - de: del
-    - via: teu
-    - patro: pare
-    - laboras: treballa
-    - en: en
-    - hotelo: un hotel
-    - '?'
+  - Ĉu: Que
+  - la: el
+  - amiko: amic
+  - de: del
+  - via: teu
+  - patro: pare
+  - laboras: treballa
+  - en: en
+  - hotelo: un hotel
+  - '?'
 - demando: Què hi ha sobre la taula de treball a la nostra habitació?
   rektatraduko:
-    - Kio: Què
-    - estas: hi ha
-    - sur: sobre
-    - la: la
-    - labortablo: taula de treball
-    - en: a
-    - nia: la nostra
-    - ĉambro: habitació
-    - '?'
+  - Kio: Què
+  - estas: hi ha
+  - sur: sobre
+  - la: la
+  - labortablo: taula de treball
+  - en: a
+  - nia: la nostra
+  - ĉambro: habitació
+  - '?'
 - demando: Que hi ha un llibre de text d'esperanto sobre la teva taula?
   rektatraduko:
-    - Ĉu: Que
-    - Esperanto-lernolibro: llibre de text d'esperanto
-    - estas: hi ha
-    - sur: sobre
-    - via: la teva
-    - tablo: taula
-    - '?'
+  - Ĉu: Que
+  - Esperanto-lernolibro: llibre de text d'esperanto
+  - estas: hi ha
+  - sur: sobre
+  - via: la teva
+  - tablo: taula
+  - '?'

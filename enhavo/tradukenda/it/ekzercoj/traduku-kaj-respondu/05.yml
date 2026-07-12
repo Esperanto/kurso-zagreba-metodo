@@ -1,64 +1,59 @@
--
-  demando: Puoi studiare tranquillamente mentre qualcuno canta gioiosamente?
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - vi: tu
-    - povas: puoi
-    - trankvile: tranquillamente
-    - lerni: studiare
-    - ','
-    - dum: mentre
-    - iu: qualcuno
-    - ĝoje: gioiosamente
-    - kantas: canta
-    - '?'
--
-  demando: Chi sa quando e dove ci rivedremo?
-  rektatraduko: 
-    - Kiu: Chi
-    - scias: sa
-    - ','
-    - kiam: quando 
-    - kaj: e
-    - kie: dove
-    - ni: noi (soggetto)
-    - revidos: rivedremo
-    - nin: noi (oggetto)
-    - '?'
--
-  demando: Che ora è adesso?
-  rektatraduko: 
-    - Kioma: Che (Quanta)
-    - horo: ora
-    - estas: è 
-    - nun: adesso
-    - '?'
--
-  demando: Ti ha aiutato qualcuno ad aprire la porta della vecchia casa?
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - iu: qualcuno
-    - helpis: ha aiutato
-    - al: a
-    - vi: te 
-    - malfermi: aprire
-    - la: la
-    - pordon: porta
-    - de: di
-    - la: la
-    - malnova: vecchia
-    - domo: casa
-    - '?'
--
-  demando: Perché non hai tempo di ascoltarmi più a lungo?
-  rektatraduko: 
-    - Kial: Perché
-    - vi: tu
-    - ne: non
-    - havas: hai
-    - tempon: tempo
-    - aŭskulti: ascoltare
-    - min: me
-    - pli: più
-    - longe: a lungo
-    - '?'
+- demando: Puoi studiare tranquillamente mentre qualcuno canta gioiosamente?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - vi: tu
+  - povas: puoi
+  - trankvile: tranquillamente
+  - lerni: studiare
+  - ','
+  - dum: mentre
+  - iu: qualcuno
+  - ĝoje: gioiosamente
+  - kantas: canta
+  - '?'
+- demando: Chi sa quando e dove ci rivedremo?
+  rektatraduko:
+  - Kiu: Chi
+  - scias: sa
+  - ','
+  - kiam: quando
+  - kaj: e
+  - kie: dove
+  - ni: noi (soggetto)
+  - revidos: rivedremo
+  - nin: noi (oggetto)
+  - '?'
+- demando: Che ora è adesso?
+  rektatraduko:
+  - Kioma: Che (Quanta)
+  - horo: ora
+  - estas: è
+  - nun: adesso
+  - '?'
+- demando: Ti ha aiutato qualcuno ad aprire la porta della vecchia casa?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - iu: qualcuno
+  - helpis: ha aiutato
+  - al: a
+  - vi: te
+  - malfermi: aprire
+  - la: la
+  - pordon: porta
+  - de: di
+  - la: la
+  - malnova: vecchia
+  - domo: casa
+  - '?'
+- demando: Perché non hai tempo di ascoltarmi più a lungo?
+  rektatraduko:
+  - Kial: Perché
+  - vi: tu
+  - ne: non
+  - havas: hai
+  - tempon: tempo
+  - aŭskulti: ascoltare
+  - min: me
+  - pli: più
+  - longe: a lungo
+  - '?'

@@ -1,72 +1,72 @@
 - demando: Els cambrers en els grans hotels entenen molts idiomes?
   rektatraduko:
-    - Ĉu: Que
-    - kelneroj: cambrers
-    - en: en
-    - grandaj: grans
-    - hoteloj: hotels
-    - komprenas: entenen
-    - multajn: molts
-    - lingvojn: idiomes
-    - '?'
+  - Ĉu: Que
+  - kelneroj: cambrers
+  - en: en
+  - grandaj: grans
+  - hoteloj: hotels
+  - komprenas: entenen
+  - multajn: molts
+  - lingvojn: idiomes
+  - '?'
 - demando: Saps si a l'Ana li agrada una nova cançó sobre un pobre i una noia maca?
   rektatraduko:
-    - Ĉu: Que
-    - vi: tu
-    - scias: saps
-    - ','
-    - ĉu: si
-    - Ana: Ana
-    - ŝatas: li agrada
-    - la: la
-    - novan: una nova
-    - kanton: cançó
-    - pri: sobre
-    - malriĉulo: un pobre
-    - kaj: i
-    - belulino: una noia maca
-    - '?'
+  - Ĉu: Que
+  - vi: tu
+  - scias: saps
+  - ','
+  - ĉu: si
+  - Ana: Ana
+  - ŝatas: li agrada
+  - la: la
+  - novan: una nova
+  - kanton: cançó
+  - pri: sobre
+  - malriĉulo: un pobre
+  - kaj: i
+  - belulino: una noia maca
+  - '?'
 - demando: On vas veure el vell i el jove que portaven una taula gran?
   rektatraduko:
-    - Kie: 'On'
-    - vi: tu
-    - vidis: vas veure
-    - la: el
-    - maljunulon: vell
-    - kaj: i
-    - la: el
-    - junulon: jove
-    - ','
-    - kiuj: que
-    - portis: portaven
-    - grandan: una gran
-    - tablon: taula
-    - '?'
+  - Kie: 'On'
+  - vi: tu
+  - vidis: vas veure
+  - la: el
+  - maljunulon: vell
+  - kaj: i
+  - la: el
+  - junulon: jove
+  - ','
+  - kiuj: que
+  - portis: portaven
+  - grandan: una gran
+  - tablon: taula
+  - '?'
 - demando: Com ha passat que has vingut de nou a nosaltres sense germans?
   rektatraduko:
-    - Kiel: Com
-    - okazis: ha passat
-    - ','
-    - ke: que
-    - vi: tu
-    - denove: de nou
-    - venis: has vingut
-    - al: a
-    - ni: nosaltres
-    - sen: sense
-    - gefratoj: germans
-    - '?'
+  - Kiel: Com
+  - okazis: ha passat
+  - ','
+  - ke: que
+  - vi: tu
+  - denove: de nou
+  - venis: has vingut
+  - al: a
+  - ni: nosaltres
+  - sen: sense
+  - gefratoj: germans
+  - '?'
 - demando: Que pots aprendre esperanto ràpidament amb el nou llibre de text?
   rektatraduko:
-    - Ĉu: Que
-    - vi: tu
-    - povas: pots
-    - per: amb
-    - la: la
-    - nova: un nou
-    - lernolibro: llibre de text
-    - sufiĉe: prou
-    - rapide: ràpidament
-    - lerni: aprendre
-    - Esperanton: esperanto
-    - '?'
+  - Ĉu: Que
+  - vi: tu
+  - povas: pots
+  - per: amb
+  - la: la
+  - nova: un nou
+  - lernolibro: llibre de text
+  - sufiĉe: prou
+  - rapide: ràpidament
+  - lerni: aprendre
+  - Esperanton: esperanto
+  - '?'

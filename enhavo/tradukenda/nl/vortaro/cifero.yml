@@ -1,21 +1,21 @@
-unu: 
-  - een
-  - één
-du: twee 
-tri: drie 
-kvar: vier 
-kvin: vijf 
-ses: zes 
+unu:
+- een
+- één
+du: twee
+tri: drie
+kvar: vier
+kvin: vijf
+ses: zes
 sep: zeven
-ok: acht 
-naŭ: negen 
-dek: tien 
+ok: acht
+naŭ: negen
+dek: tien
 dek unu: elf
 dek du: twaalf
 dek tri: dertien
 dek kvar: veertien
 dek kvin: vijftien
-dek ses: zestien 
+dek ses: zestien
 dek sep: zeventien
 dek ok: achttien
 dek naŭ: negentien
@@ -25,5 +25,5 @@ kvardek: veertig
 cent: honderd
 ducent: tweehonderd
 tricent: driehonderd
-mil: duizend 
-dumil: tweeduizend 
+mil: duizend
+dumil: tweeduizend

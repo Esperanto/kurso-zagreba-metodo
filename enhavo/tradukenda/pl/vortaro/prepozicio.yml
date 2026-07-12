@@ -1,9 +1,9 @@
-al: 
+al:
 - do
 - ku
 anstataŭ: zamiast
 antaŭ: przed
-apud: 
+apud:
 - obok
 - przy
 da: zastępuje dopełniacz (po słowach oznaczających miarę, wagę itp.)
@@ -11,7 +11,7 @@ de:
 - od
 - z
 dum: podczas
-ekde: 
+ekde:
 - od
 - odkąd
 ekster:
@@ -21,20 +21,20 @@ el:
 - z
 - ze
 en: w
-inter: 
+inter:
 - pomiędzy
 - między
 je: przyimek uniwersalny
-kontraŭ: 
+kontraŭ:
 - przeciw
-krom: 
+krom:
 - oprócz
 - z wyjątkiem
-kun: 
+kun:
 - z
-laŭ: 
+laŭ:
 - według
-per: 
+per:
 - przy pomocy
 - przez
 por: dla
@@ -48,7 +48,7 @@ sen: bez
 sub:
 - pod
 - poniżej
-super: 
+super:
 - nad
 - powyżej
 sur: na
@@ -56,10 +56,10 @@ tra: przez
 trans:
 - na drugą stronę
 - po drugiej stronie
-ĉe: 
+ĉe:
 - u
 - przy
 ĉirkaŭ: około
-ĝis: 
+ĝis:
 - do
 - aż

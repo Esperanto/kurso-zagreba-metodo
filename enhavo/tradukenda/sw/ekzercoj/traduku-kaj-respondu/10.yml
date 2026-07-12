@@ -1,51 +1,47 @@
--
-  demando: Je, urafiki hukufanya uwe na furaha zaidi kuliko mapenzi?
+- demando: Je, urafiki hukufanya uwe na furaha zaidi kuliko mapenzi?
   rektatraduko:
-    - Ĉu: je
-    - amikeco: urafiki
-    - pli: zaidi
-    - feliĉigas: hufurahisha
-    - vin: wewe
-    - ol: kuliko
-    - la: kiarifu
-    - amo: mapenzi
-    - '?'
--
-  demando: Unaandika barua kwa rafiki zako wa kike nchini Italia mara ngapi?
+  - Ĉu: je
+  - amikeco: urafiki
+  - pli: zaidi
+  - feliĉigas: hufurahisha
+  - vin: wewe
+  - ol: kuliko
+  - la: kiarifu
+  - amo: mapenzi
+  - '?'
+- demando: Unaandika barua kwa rafiki zako wa kike nchini Italia mara ngapi?
   rektatraduko:
-    - Kiel: Jinsi gani
-    - ofte: mara nyingi
-    - vi: wewe
-    - skribas: unaandika
-    - leterojn: barua
-    - al: kwa
-    - viaj: zako
-    - amikinoj: rafiki wa kike
-    - en: nchini
-    - Italio: Italia
-    - '?'
--
-  demando: Je, uhusiano kati yako na mwalimu wako umebadilika?
+  - Kiel: Jinsi gani
+  - ofte: mara nyingi
+  - vi: wewe
+  - skribas: unaandika
+  - leterojn: barua
+  - al: kwa
+  - viaj: zako
+  - amikinoj: rafiki wa kike
+  - en: nchini
+  - Italio: Italia
+  - '?'
+- demando: Je, uhusiano kati yako na mwalimu wako umebadilika?
   rektatraduko:
-    - Ĉu: je
-    - la: kiarifu
-    - rilato: uhusiano
-    - inter: kati ya
-    - vi: wewe
-    - kaj: na
-    - via: wako
-    - instruisto: mwalimu
-    - ŝanĝiĝis: umebadilika
-    - '?'
--
-  demando: Je, sasa tayari unajua Kiesperanto vizuri vya kutosha?
+  - Ĉu: je
+  - la: kiarifu
+  - rilato: uhusiano
+  - inter: kati ya
+  - vi: wewe
+  - kaj: na
+  - via: wako
+  - instruisto: mwalimu
+  - ŝanĝiĝis: umebadilika
+  - '?'
+- demando: Je, sasa tayari unajua Kiesperanto vizuri vya kutosha?
   rektatraduko:
-    - Ĉu: je
-    - vi: wewe
-    - nun: sasa
-    - jam: tayari
-    - scias: unajua
-    - Esperanton: Kiesperanto
-    - sufiĉe: vya kutosha
-    - bone: vizuri
-    - '?'
+  - Ĉu: je
+  - vi: wewe
+  - nun: sasa
+  - jam: tayari
+  - scias: unajua
+  - Esperanton: Kiesperanto
+  - sufiĉe: vya kutosha
+  - bone: vizuri
+  - '?'

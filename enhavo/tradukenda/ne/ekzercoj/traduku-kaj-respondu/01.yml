@@ -1,51 +1,51 @@
 - demando: तिम्री महिला मित्र को हो?
   rektatraduko:
-    - Kiu: को
-    - estas: हो
-    - via: तिम्री
-    - amikino: महिला मित्र
-    - '?'
+  - Kiu: को
+  - estas: हो
+  - via: तिम्री
+  - amikino: महिला मित्र
+  - '?'
 - demando: के तिम्री मित्र आना अहिले कोठामा लेखिरहेकी छ?
   rektatraduko:
-    - Ĉu: के
-    - via: तिम्री
-    - amikino: महिला मित्र
-    - Ana: आना
-    - skribas: लेख्दै छ
-    - nun: अहिले
-    - en: मा
-    - la: निश्चित उपपद
-    - ĉambro: कोठा
-    - '?'
+  - Ĉu: के
+  - via: तिम्री
+  - amikino: महिला मित्र
+  - Ana: आना
+  - skribas: लेख्दै छ
+  - nun: अहिले
+  - en: मा
+  - la: निश्चित उपपद
+  - ĉambro: कोठा
+  - '?'
 - demando: के तिम्रो बुबाको मित्र होटलमा काम गर्छ?
   rektatraduko:
-    - Ĉu: के
-    - la: निश्चित उपपद
-    - amiko: मित्र
-    - de: को
-    - via: तिम्रो
-    - patro: बुबा
-    - laboras: काम गर्छ
-    - en: मा
-    - hotelo: होटल
-    - '?'
+  - Ĉu: के
+  - la: निश्चित उपपद
+  - amiko: मित्र
+  - de: को
+  - via: तिम्रो
+  - patro: बुबा
+  - laboras: काम गर्छ
+  - en: मा
+  - hotelo: होटल
+  - '?'
 - demando: हाम्रो कोठामा काम गर्ने टेबलमाथि के छ?
   rektatraduko:
-    - Kio: के
-    - estas: छ
-    - sur: माथि
-    - la: निश्चित उपपद
-    - labortablo: काम गर्ने टेबल
-    - en: मा
-    - nia: हाम्रो
-    - ĉambro: कोठा
-    - '?'
+  - Kio: के
+  - estas: छ
+  - sur: माथि
+  - la: निश्चित उपपद
+  - labortablo: काम गर्ने टेबल
+  - en: मा
+  - nia: हाम्रो
+  - ĉambro: कोठा
+  - '?'
 - demando: के तिम्रो टेबलमाथि एस्पेरान्तोको पाठ्यपुस्तक छ?
   rektatraduko:
-    - Ĉu: के
-    - Esperanto-lernolibro: एस्पेरान्तो पाठ्यपुस्तक
-    - estas: छ
-    - sur: माथि
-    - via: तिम्रो
-    - tablo: टेबल
-    - '?'
+  - Ĉu: के
+  - Esperanto-lernolibro: एस्पेरान्तो पाठ्यपुस्तक
+  - estas: छ
+  - sur: माथि
+  - via: तिम्रो
+  - tablo: टेबल
+  - '?'

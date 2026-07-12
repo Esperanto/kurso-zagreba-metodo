@@ -1,51 +1,51 @@
 - demando: Ki a (te) barátnőd?
   rektatraduko:
-    - Kiu: Ki
-    - estas: van (a magyar mondatban nem szerepel)
-    - via: tiéd
-    - amikino: barátnő
-    - '?'
+  - Kiu: Ki
+  - estas: van (a magyar mondatban nem szerepel)
+  - via: tiéd
+  - amikino: barátnő
+  - '?'
 - demando: Ana barátnőd most a szobában ír?
   rektatraduko:
-    - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
-    - via: tiéd
-    - amikino: barátnő
-    - Ana: Ana
-    - skribas: ír
-    - nun: most
-    - en: -ban/ben
-    - la: a
-    - ĉambro: szoba
-    - '?'
+  - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
+  - via: tiéd
+  - amikino: barátnő
+  - Ana: Ana
+  - skribas: ír
+  - nun: most
+  - en: -ban/ben
+  - la: a
+  - ĉambro: szoba
+  - '?'
 - demando: Apád barátja egy szállodában dolgozik?
   rektatraduko:
-    - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
-    - la: a
-    - amiko: barát
-    - de: -nak/nek
-    - via: tiéd
-    - patro: apa
-    - laboras: dolgozik
-    - en: -ban/ben
-    - hotelo: szálloda
-    - '?'
+  - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
+  - la: a
+  - amiko: barát
+  - de: -nak/nek
+  - via: tiéd
+  - patro: apa
+  - laboras: dolgozik
+  - en: -ban/ben
+  - hotelo: szálloda
+  - '?'
 - demando: Mi van a munkaasztalon a szobánkban?
   rektatraduko:
-    - Kio: mi
-    - estas: van
-    - sur: -on/en/ön
-    - la: a
-    - labortablo: munkaasztal
-    - en: -ban/ben
-    - nia: miénk
-    - ĉambro: szoba
-    - '?'
+  - Kio: mi
+  - estas: van
+  - sur: -on/en/ön
+  - la: a
+  - labortablo: munkaasztal
+  - en: -ban/ben
+  - nia: miénk
+  - ĉambro: szoba
+  - '?'
 - demando: Eszperantó tankönyv van az asztalodon?
   rektatraduko:
-    - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
-    - Esperanto-lernolibro: Eszperantó tankönyv
-    - estas: van
-    - sur: -on/en/ön
-    - via: tiéd
-    - tablo: asztal
-    - '?'
+  - Ĉu: Vajon (a magyar kérdő mondatba nem kell)
+  - Esperanto-lernolibro: Eszperantó tankönyv
+  - estas: van
+  - sur: -on/en/ön
+  - via: tiéd
+  - tablo: asztal
+  - '?'

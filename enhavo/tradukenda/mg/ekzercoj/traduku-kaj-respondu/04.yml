@@ -1,67 +1,67 @@
 - demando: Rahoviana no hifankahita amiko ianao ?
   rektatraduko:
-    - Kiam: Rahoviana
-    - mi: -ko
-    - revidos: no hifankahita
-    - vin: ianao
-    - '?'
+  - Kiam: Rahoviana
+  - mi: -ko
+  - revidos: no hifankahita
+  - vin: ianao
+  - '?'
 - demando: Fotoana firy ianao no mianatra ny fiteny iraisam-pirenena ?
   rektatraduko:
-    - Kiom: firy / ohatrinona
-    - longe: fotoana
-    - vi: ianao / ianareo
-    - lernas: no mianatra
-    - la: ny
-    - Internacian: iraisam-pirenena
-    - Lingvon: fiteny
-    - '?'
+  - Kiom: firy / ohatrinona
+  - longe: fotoana
+  - vi: ianao / ianareo
+  - lernas: no mianatra
+  - la: ny
+  - Internacian: iraisam-pirenena
+  - Lingvon: fiteny
+  - '?'
 - demando: Aiza ny bokiko vaovao miarak'amin'ny sariko ?
   rektatraduko:
-    - Kie: Aiza
-    - estas: ny
-    - mia: -ko
-    - nova: vaovao
-    - libro: boky
-    - kun: miarak'aminy
-    - fotoj: ny sary
-    - '?'
+  - Kie: Aiza
+  - estas: ny
+  - mia: -ko
+  - nova: vaovao
+  - libro: boky
+  - kun: miarak'aminy
+  - fotoj: ny sary
+  - '?'
 - demando: Aiza no andehananao aorian'ny fisakafoanana?
   rektatraduko:
-    - Kien: Aiza
-    - vi: ianao / ianareo
-    - iros: andeha
-    - post: aoriana
-    - la: ny
-    - tagmanĝo: fisakafoanana
-    - '?'
+  - Kien: Aiza
+  - vi: ianao / ianareo
+  - iros: andeha
+  - post: aoriana
+  - la: ny
+  - tagmanĝo: fisakafoanana
+  - '?'
 - demando: Moa ve mba afaka mamody ny varavaran'ny hefi-trano isika raha mangatsiaka ny andro ?
   rektatraduko:
-    - Ĉu: Moa ve
-    - oni: isika
-    - povas: afaka
-    - fermi: mamody
-    - la: ny
-    - pordon: varavarana
-    - de: ny
-    - la: ny
-    - ĉambro: hefi-trano
-    - ','
-    - kiam: raha
-    - estas: 'no'
-    - malvarme: mangatsiaka
-    - '?'
+  - Ĉu: Moa ve
+  - oni: isika
+  - povas: afaka
+  - fermi: mamody
+  - la: ny
+  - pordon: varavarana
+  - de: ny
+  - la: ny
+  - ĉambro: hefi-trano
+  - ','
+  - kiam: raha
+  - estas: 'no'
+  - malvarme: mangatsiaka
+  - '?'
 - demando: Fotoana firy ianao no tezitra raha akana vola be ianao?
   rektatraduko:
-    - Kiom: firy / ohatrinona
-    - longe: fotoana
-    - vi: ianao
-    - koleras: no tezitra
-    - ','
-    - se: raha
-    - oni: olona
-    - forprenas: akana
-    - de: ny
-    - vi: ianao
-    - multan: betsaka / be
-    - monon: vola
-    - '?'
+  - Kiom: firy / ohatrinona
+  - longe: fotoana
+  - vi: ianao
+  - koleras: no tezitra
+  - ','
+  - se: raha
+  - oni: olona
+  - forprenas: akana
+  - de: ny
+  - vi: ianao
+  - multan: betsaka / be
+  - monon: vola
+  - '?'

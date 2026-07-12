@@ -1,64 +1,64 @@
 - demando: Com era la teva antiga casa?
   rektatraduko:
-    - Kia: Com
-    - estis: era
-    - via: la teva
-    - malnova: antiga
-    - hejmo: casa
-    - '?'
+  - Kia: Com
+  - estis: era
+  - via: la teva
+  - malnova: antiga
+  - hejmo: casa
+  - '?'
 - demando: Quins llibres has llegit, i són bons?
   rektatraduko:
-    - Kiujn: Quins
-    - librojn: llibres
-    - vi: tu
-    - legis: has llegit
-    - kaj: i
-    - ĉu: si
-    - ili: ells
-    - estas: són
-    - bonaj: bons
-    - '?'
+  - Kiujn: Quins
+  - librojn: llibres
+  - vi: tu
+  - legis: has llegit
+  - kaj: i
+  - ĉu: si
+  - ili: ells
+  - estas: són
+  - bonaj: bons
+  - '?'
 - demando: Què van fer l'Ana i el Marc a la petita habitació del Marc?
   rektatraduko:
-    - Kion: Què
-    - faris: van fer
-    - Ana: Ana
-    - kaj: i
-    - Marko: Marc
-    - en: a
-    - la: la
-    - malgranda: petita
-    - ĉambro: habitació
-    - de: del
-    - Marko: Marc
-    - '?'
+  - Kion: Què
+  - faris: van fer
+  - Ana: Ana
+  - kaj: i
+  - Marko: Marc
+  - en: a
+  - la: la
+  - malgranda: petita
+  - ĉambro: habitació
+  - de: del
+  - Marko: Marc
+  - '?'
 - demando: T'agrada llegir llibres d'amor?
   rektatraduko:
-    - Ĉu: Que
-    - vi: tu
-    - ŝatas: agrada
-    - legi: llegir
-    - librojn: llibres
-    - pri: de
-    - amo: amor
-    - '?'
+  - Ĉu: Que
+  - vi: tu
+  - ŝatas: agrada
+  - legi: llegir
+  - librojn: llibres
+  - pri: de
+  - amo: amor
+  - '?'
 - demando: Qui anirà amb tu a casa teva?
   rektatraduko:
-    - Kiu: Qui
-    - iros: anirà
-    - kun: amb
-    - vi: tu
-    - al: a
-    - via: teva
-    - hejmo: casa
-    - '?'
+  - Kiu: Qui
+  - iros: anirà
+  - kun: amb
+  - vi: tu
+  - al: a
+  - via: teva
+  - hejmo: casa
+  - '?'
 - demando: Com són els ulls de la teva amiga?
   rektatraduko:
-    - Kiaj: Com
-    - estas: són
-    - la: els
-    - okuloj: ulls
-    - de: de
-    - via: la teva
-    - amikino: amiga
-    - '?'
+  - Kiaj: Com
+  - estas: són
+  - la: els
+  - okuloj: ulls
+  - de: de
+  - via: la teva
+  - amikino: amiga
+  - '?'

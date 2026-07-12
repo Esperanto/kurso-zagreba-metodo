@@ -1,49 +1,49 @@
 - demando: Je, unaweza kuleta dawa ya dada yangu?
   rektatraduko:
-    - Ĉu: je
-    - vi: wewe
-    - povas: unaweza
-    - kunporti: kuleta pamoja
-    - la: kiarifu
-    - sanigilon: dawa
-    - de: ya
-    - mia: yangu
-    - fratino: dada
-    - '?'
+  - Ĉu: je
+  - vi: wewe
+  - povas: unaweza
+  - kunporti: kuleta pamoja
+  - la: kiarifu
+  - sanigilon: dawa
+  - de: ya
+  - mia: yangu
+  - fratino: dada
+  - '?'
 - demando: Ulinunua ala hiyo ya muziki lini?
   rektatraduko:
-    - Kiam: Lini
-    - vi: wewe
-    - aĉetis: ulinunua
-    - tiun: hiyo
-    - muzikilon: ala ya muziki
-    - '?'
+  - Kiam: Lini
+  - vi: wewe
+  - aĉetis: ulinunua
+  - tiun: hiyo
+  - muzikilon: ala ya muziki
+  - '?'
 - demando: Nani alitumia ufunguo wangu mara ya mwisho?
   rektatraduko:
-    - Kiu: Nani
-    - laste: mara ya mwisho
-    - uzis: alitumia
-    - mian: wangu
-    - ŝlosilon: ufunguo
-    - '?'
+  - Kiu: Nani
+  - laste: mara ya mwisho
+  - uzis: alitumia
+  - mian: wangu
+  - ŝlosilon: ufunguo
+  - '?'
 - demando: Je, huko Venecia ulisafiri pia kwa gondola?
   rektatraduko:
-    - Ĉu: je
-    - vi: wewe
-    - en: katika
-    - Venecio: Venecia
-    - veturis: ulisafiri
-    - ankaŭ: pia
-    - per: kwa
-    - gondolo: gondola
-    - '?'
+  - Ĉu: je
+  - vi: wewe
+  - en: katika
+  - Venecio: Venecia
+  - veturis: ulisafiri
+  - ankaŭ: pia
+  - per: kwa
+  - gondolo: gondola
+  - '?'
 - demando: Je, utaweza kulala usingizi wakati kutakapokuwa kimya?
   rektatraduko:
-    - Ĉu: je
-    - vi: wewe
-    - povos: utaweza
-    - ekdormi: kuanza kulala
-    - ','
-    - kiam: wakati
-    - silentiĝos: kumekuwa kimya
-    - '?'
+  - Ĉu: je
+  - vi: wewe
+  - povos: utaweza
+  - ekdormi: kuanza kulala
+  - ','
+  - kiam: wakati
+  - silentiĝos: kumekuwa kimya
+  - '?'

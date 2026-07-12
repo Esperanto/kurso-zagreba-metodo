@@ -1,77 +1,71 @@
-- 
-  demando: Cé aige a raibh an leabhar a rabhais ag fanacht air le breis is 2 bhliain?
-  rektatraduko: 
-    - Kiu: Cé
-    - havis: bhí...ag
-    - la: an
-    - libron: leabhar
-    - ',' 
-    - kiun: a
-    - vi: tú
-    - atendis: d'fhan
-    - pli: níos mó
-    - ol: ná
-    - du: dhá
-    - jarojn: blianta
-    - '?'
-- 
-  demando: Ar mhaith leat go dtaispeánfainn duit an grianghraf is fearr liom?
-  rektatraduko: 
-    - Ĉu: An
-    - vi: tú
-    - volas: mian
-    - ','
-    - ke: go
-    - mi: mé
-    - montru: taispeáin
-    - al: do
-    - vi: tú
-    - mian: mo
-    - plej: is mó
-    - karan: dil
-    - foton: grianghraf
-    - '?'
-- 
-  demando: Cár cheannaís an ball éadaigh sin?
-  rektatraduko: 
-    - Kie: Cén áit
-    - vi: tú
-    - aĉetis: cheannaigh
-    - tiun: sin
-    - vestaĵon: ball éadaigh
-    - '?'
-- 
-  demando: Cá raghair Dé Domhnaigh más lá grianmhar é?
-  rektatraduko: 
-    - Kien: Cén áit
-    - vi: tú
-    - iros: raghaidh
-    - dimanĉe: Dé Domhnaigh
-    - ',' 
-    - se: má
-    - estos: beidh
-    - suna: grianmhar
-    - tago: lá
-    - '?'
-- 
-  demando: Ar fhág do dheartháir cheana féin?
-  rektatraduko: 
-    - Ĉu: Ar
-    - via: do
-    - frato: deartháir
-    - jam: cheana 
-    - ekiris: d'fhág
-    - '?'
-- 
-  demando: Cá bhfuil an t-uisce a thugais leat féin?
-  rektatraduko: 
-    - Kie: Cén áit
-    - estas: tá
-    - la: an
-    - akvo: uisce
-    - ',' 
-    - kiun: a
-    - vi: tú
-    - mem: féin
-    - kunportis: thug leat
-    - '?'
+- demando: Cé aige a raibh an leabhar a rabhais ag fanacht air le breis is 2 bhliain?
+  rektatraduko:
+  - Kiu: Cé
+  - havis: bhí...ag
+  - la: an
+  - libron: leabhar
+  - ','
+  - kiun: a
+  - vi: tú
+  - atendis: d'fhan
+  - pli: níos mó
+  - ol: ná
+  - du: dhá
+  - jarojn: blianta
+  - '?'
+- demando: Ar mhaith leat go dtaispeánfainn duit an grianghraf is fearr liom?
+  rektatraduko:
+  - Ĉu: An
+  - vi: tú
+  - volas: mian
+  - ','
+  - ke: go
+  - mi: mé
+  - montru: taispeáin
+  - al: do
+  - vi: tú
+  - mian: mo
+  - plej: is mó
+  - karan: dil
+  - foton: grianghraf
+  - '?'
+- demando: Cár cheannaís an ball éadaigh sin?
+  rektatraduko:
+  - Kie: Cén áit
+  - vi: tú
+  - aĉetis: cheannaigh
+  - tiun: sin
+  - vestaĵon: ball éadaigh
+  - '?'
+- demando: Cá raghair Dé Domhnaigh más lá grianmhar é?
+  rektatraduko:
+  - Kien: Cén áit
+  - vi: tú
+  - iros: raghaidh
+  - dimanĉe: Dé Domhnaigh
+  - ','
+  - se: má
+  - estos: beidh
+  - suna: grianmhar
+  - tago: lá
+  - '?'
+- demando: Ar fhág do dheartháir cheana féin?
+  rektatraduko:
+  - Ĉu: Ar
+  - via: do
+  - frato: deartháir
+  - jam: cheana
+  - ekiris: d'fhág
+  - '?'
+- demando: Cá bhfuil an t-uisce a thugais leat féin?
+  rektatraduko:
+  - Kie: Cén áit
+  - estas: tá
+  - la: an
+  - akvo: uisce
+  - ','
+  - kiun: a
+  - vi: tú
+  - mem: féin
+  - kunportis: thug leat
+  - '?'

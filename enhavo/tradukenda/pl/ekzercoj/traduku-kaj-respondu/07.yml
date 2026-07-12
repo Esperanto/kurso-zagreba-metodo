@@ -1,4 +1,4 @@
-- demando: Kto miał książkę, na którą czekaliście ponad dwa lata?
+- demando: Kto miał książkę, na którą czekałeś ponad dwa lata?
   rektatraduko:
   - Kiu: Kto
   - havis: miał
@@ -6,14 +6,14 @@
   - libron: książkę
   - ','
   - kiun: którą
-  - vi: wy
-  - atendis: oczekiwaliście
+  - vi: ty
+  - atendis: czekałeś
   - pli: więcej
   - ol: niż
   - du: dwa
   - jarojn: lata
   - '?'
-- demando: Czy chcesz, żebym ci pokazał moją najdroższą fotografię?
+- demando: Czy chcesz, żebym pokazał ci najdroższe mi zdjęcie?
   rektatraduko:
   - Ĉu: Czy
   - vi: ty
@@ -29,19 +29,19 @@
   - karan: drogą, ukochaną
   - foton: fotografię
   - '?'
-- demando: Gdzie kupiliście to ubranie?
+- demando: Gdzie kupiłeś to ubranie?
   rektatraduko:
   - Kie: Gdzie
-  - vi: wy
-  - aĉetis: kupiliście
+  - vi: ty
+  - aĉetis: kupiłeś
   - tiun: to
   - vestaĵon: ubranie
   - '?'
-- demando: Gdzie pójdziecie w niedzielę, jeśli będzie słoneczny dzień?
+- demando: Dokąd pójdziesz w niedzielę, jeśli będzie słonecznie?
   rektatraduko:
-  - Kien: Gdzie
-  - vi: wy
-  - iros: pójdziecie
+  - Kien: Dokąd
+  - vi: ty
+  - iros: pójdziesz
   - dimanĉe: w niedzielę
   - ','
   - se: jeśli

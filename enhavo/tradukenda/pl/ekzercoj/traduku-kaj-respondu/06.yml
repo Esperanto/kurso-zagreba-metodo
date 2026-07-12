@@ -1,4 +1,4 @@
-- demando: Czy chcesz, żebym pokazał Ci moją najnowszą książkę?
+- demando: Czy chcesz, żebym pokazał ci moją najnowszą książkę?
   rektatraduko:
   - Ĉu: Czy
   - vi: ty
@@ -37,7 +37,7 @@
   - oka: ósma
   - horo: godzina
   - '?'
-- demando: Kiedy zauważyłeś, że cała rodzina nazywa mnie dobrym człowiekiem?
+- demando: Kiedy zauważyłeś, że cała rodzina nazywa mnie dobroczyńcą?
   rektatraduko:
   - Kiam: Kiedy
   - vi: ty
@@ -49,7 +49,7 @@
   - familio: rodzina
   - nomas: nazywa
   - min: mnie
-  - bonfarulo: dobry człowiek
+  - bonfarulo: dobroczyńca
   - '?'
 - demando: Czy była ci przydatna książeczka, którą ci posłałem?
   rektatraduko:

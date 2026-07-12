@@ -42,7 +42,7 @@
     - gondolo: Gondel
     - '?'
 -
-  demando: Wirst du einschlafen können, wenn es still geworden ist?
+  demando: Wirst du einschlafen können, wenn es still wird?
   rektatraduko:
     - Ĉu: Ob
     - vi: du
@@ -50,5 +50,5 @@
     - ekdormi: einschlafen
     - ','
     - kiam: wenn
-    - silentiĝis: still geworden
+    - silentiĝos: still wird
     - '?'

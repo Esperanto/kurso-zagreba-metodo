@@ -1,43 +1,39 @@
-- 
-  demando: Eski evin nasıldı?
-  rektatraduko: 
+- demando: Eski evin nasıldı?
+  rektatraduko:
     - Kia: nasıl, ne çeşit
-    - estis: -dı, idi 
+    - estis: -dı, idi
     - via: senin, -in
     - malnova: eski
-    - hejmo: ev 
+    - hejmo: ev
     - '?'
-- 
-  demando: Hangi kitapları okudun, ve onlar iyi midirler? 
-  rektatraduko: 
-    - Kiujn: hangi, hangileri 
+- demando: Hangi kitapları okudun, ve onlar iyi midirler?
+  rektatraduko:
+    - Kiujn: hangi, hangileri
     - librojn: kitapları
     - vi: sen
-    - legis: okudun 
+    - legis: okudun
     - kaj: ve
     - ĉu: mi?
     - ili: onlar
     - estas: -dir, -dirler
     - bonaj: iyi
     - '?'
-- 
-  demando: Anna ve Mark, Mark'ın küçük odasında ne yaptılar? 
+- demando: Ana ve Mark, Mark'ın küçük odasında ne yaptılar?
   rektatraduko:
     - Kion: ne, neyi
     - faris: yaptı
-    - Anna: Anna
+    - Ana: Ana
     - kaj: ve
     - Marko: Mark
-    - en: -de, -da 
+    - en: -de, -da
     - la: (belirleyici artikel)
     - malgranda: küçük
     - ĉambro: oda
-    - de: -in 
+    - de: -in
     - Marko: Mark
     - '?'
-- 
-  demando: Aşk hakkında kitaplar okumayı seviyor musun? 
-  rektatraduko: 
+- demando: Aşk hakkında kitaplar okumayı seviyor musun?
+  rektatraduko:
     - Ĉu: musun
     - vi: sen
     - ŝatas: seviyor
@@ -46,25 +42,23 @@
     - pri: hakkında
     - amo: aşk
     - '?'
-- 
-  demando: Seninle senin evine kim gidecek? 
-  rektatraduko: 
+- demando: Seninle senin evine kim gidecek?
+  rektatraduko:
     - Kiu: kim
     - iros: gidecek
     - kun: ile, -le
     - vi: sen
-    - al: -e, -a  
+    - al: -e, -a
     - via: senin
     - hejmo: ev
     - '?'
-- 
-  demando: Kız arkadaşının gözleri nasıldır?
-  rektatraduko: 
+- demando: Kız arkadaşının gözleri nasıldır?
+  rektatraduko:
     - Kiaj: nasıl, ne çeşit (çoğul formu)
-    - estas: -dır 
+    - estas: -dır
     - la: (belirleyici artikel)
     - okuloj: gözler
-    - de: -in, -nin 
+    - de: -in, -nin
     - via: senin
     - amikino: kız arkadaş
     - '?'

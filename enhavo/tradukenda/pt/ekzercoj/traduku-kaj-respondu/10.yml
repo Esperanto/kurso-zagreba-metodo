@@ -1,6 +1,5 @@
-- 
-  demando: (Acaso) a amizade mais faz feliz você que o amor?
-  rektatraduko: 
+- demando: (Acaso) a amizade mais faz feliz você que o amor?
+  rektatraduko:
     - Ĉu: (Acaso)
     - amikeco: amizade
     - pli: mais
@@ -10,10 +9,9 @@
     - la: o
     - amo: amor
     - '?'
-- 
-  demando: Quão frequentemente você escreve cartas a tuas amigas na Itália?
-  rektatraduko: 
-    - Kiom: Quão
+- demando: Quão frequentemente você escreve cartas a tuas amigas na Itália?
+  rektatraduko:
+    - Kiel: Quão
     - ofte: frequentemente
     - vi: você
     - skribas: escreve
@@ -24,22 +22,20 @@
     - en: na
     - Italio: Itália
     - '?'
-- 
-  demando: (Acaso) a relação entre teu professor e você mudou?
-  rektatraduko: 
+- demando: (Acaso) a relação entre teu professor e você mudou?
+  rektatraduko:
     - Ĉu: (Acaso)
     - la: a
     - rilato: relação
     - inter: entre
+    - vi: você
+    - kaj: e
     - via: teu
     - instruisto: professor
-    - kaj: e
-    - vi: você
     - ŝanĝiĝis: mudou
     - '?'
-- 
-  demando: (Acaso) você agora já sabe esperanto suficientemente bem?
-  rektatraduko: 
+- demando: (Acaso) você agora já sabe esperanto suficientemente bem?
+  rektatraduko:
     - Ĉu: (Acaso)
     - vi: você
     - nun: agora

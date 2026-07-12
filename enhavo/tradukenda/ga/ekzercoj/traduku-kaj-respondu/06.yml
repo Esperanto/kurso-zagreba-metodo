@@ -1,12 +1,10 @@
-- 
-  demando: Ar mhaith leat go dtaispeánfainn an leabhar is nua agam duit?
-  
-  rektatraduko: 
-    - Ĉu: An 
+- demando: Ar mhaith leat go dtaispeánfainn an leabhar is nua agam duit?
+  rektatraduko:
+    - Ĉu: An
     - vi: tú
     - deziras: mian
-    - ',' 
-    - ke: go 
+    - ','
+    - ke: go
     - mi: mé
     - montru: taispeáin
     - al: do
@@ -16,23 +14,20 @@
     - novan: nua
     - libron: leabhar
     - '?'
-- 
-  demando: Cad atá uait don bhricfeasta amárach?
-  
-  rektatraduko: 
+- demando: Cad atá uait don bhricfeasta amárach?
+  rektatraduko:
     - Kion: Cad
     - vi: tú
     - volas: mian
     - morgaŭ: amárach
     - matenmanĝi: ith bricfeasta
     - '?'
-- 
-  demando: "Cathain a thiocfaidh Marcas, ar a cúig nó ar a hocht a chlog?"
-  rektatraduko: 
+- demando: Cathain a thiocfaidh Marcas, ar a cúig nó ar a hocht a chlog?
+  rektatraduko:
     - Kiam: Cathain
     - Marko: Marcas
     - alvenos: tiocfaidh
-    - ',' 
+    - ','
     - je: ar
     - la: an
     - kvina: cúigiú
@@ -42,13 +37,12 @@
     - oka: ochtú
     - horo: uair an chloig
     - '?'
-- 
-  demando: Cathain a thugais faoi deara go nglaonn an teaghlach ar fad bronntóir orm?
-  rektatraduko: 
+- demando: Cathain a thugais faoi deara go nglaonn an teaghlach ar fad bronntóir orm?
+  rektatraduko:
     - Kiam: Cathain
     - vi: tú
     - rimarkis: thug faoi deara
-    - ','  
+    - ','
     - ke: go
     - la: an
     - tuta: ar fad
@@ -57,18 +51,18 @@
     - min: mé
     - bonfarulo: bronntóir
     - '?'
-- 
-  demando: An leabhrán a sheolas chugat, an raibh sé úsáideach duit?
-  rektatraduko: 
+- demando: An leabhrán a sheolas chugat, an raibh sé úsáideach duit?
+  rektatraduko:
     - Ĉu: An
     - la: an
     - libreto: leabhrán
-    - estis: bhí
-    - utila: úsáideach
+    - ','
+    - kiun: a
+    - mi: mé
+    - sendis: sheol
     - al: do
     - vi: tú
-    - ',' 
-    - kiun: a
-    - mi: mé 
-    - sendis: sheol
+    - ','
+    - estis: bhí
+    - utila: úsáideach
     - '?'

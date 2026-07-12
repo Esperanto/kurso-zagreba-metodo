@@ -1,6 +1,5 @@
-- 
-  demando: Czy możesz przynieść lekarstwo mojej siostry?
-  rektatraduko: 
+- demando: Czy możesz przynieść lekarstwo mojej siostry?
+  rektatraduko:
     - Ĉu: Czy
     - vi: ty
     - povas: możesz
@@ -11,27 +10,24 @@
     - mia: mojej
     - fratino: siostra
     - '?'
-- 
-  demando: Kiedy kupiłeś tamten instrument muzyczny?
-  rektatraduko: 
+- demando: Kiedy kupiłeś tamten instrument muzyczny?
+  rektatraduko:
     - Kiam: Kiedy
     - vi: ty
     - aĉetis: kupiłeś
     - tiun: tamten
     - muzikilon: instrument muzyczny
     - '?'
-- 
-  demando: Kto ostatnim razem użył mojego klucza?
-  rektatraduko: 
+- demando: Kto ostatnim razem użył mojego klucza?
+  rektatraduko:
     - Kiu: Kto
     - laste: ostatnim razem
     - uzis: użył
     - mian: mojego
     - ŝlosilon: klucza
     - '?'
-- 
-  demando: Czy w Wenecji podróżowałeś też gondolą?
-  rektatraduko: 
+- demando: Czy w Wenecji podróżowałeś też gondolą?
+  rektatraduko:
     - Ĉu: Czy
     - vi: ty
     - en: w
@@ -41,14 +37,13 @@
     - per: za pomocą
     - gondolo: gondola
     - '?'
-- 
-  demando: Czy będziesz mógł zasnąć, kiedy zrobi się cicho?
-  rektatraduko: 
+- demando: Czy będziesz mógł zasnąć, kiedy zrobi się cicho?
+  rektatraduko:
     - Ĉu: Czy
     - vi: ty
     - povos: będziesz mógł
     - ekdormi: zasnąć
-    - ',' 
-    - kiam: kiedy 
-    - silentiĝis: zrobiło się cicho
+    - ','
+    - kiam: kiedy
+    - silentiĝos: zrobiło się cicho
     - '?'

@@ -1,0 +1,61 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 02
+allOf:
+- $ref: ../traduku.schema.yml
+- maxItems: 14
+- contains:
+    required:
+    - eniri
+  maxContains: 1
+- contains:
+    required:
+    - enhavo
+  maxContains: 1
+- contains:
+    required:
+    - kunsido
+  maxContains: 1
+- contains:
+    required:
+    - malbona
+  maxContains: 1
+- contains:
+    required:
+    - kunveno
+  maxContains: 1
+- contains:
+    required:
+    - malfacila
+  maxContains: 1
+- contains:
+    required:
+    - maljuna
+  maxContains: 1
+- contains:
+    required:
+    - gepatroj
+  maxContains: 1
+- contains:
+    required:
+    - alveni
+  maxContains: 1
+- contains:
+    required:
+    - bonvena
+  maxContains: 1
+- contains:
+    required:
+    - gefratoj
+  maxContains: 1
+- contains:
+    required:
+    - trinkmono
+  maxContains: 1
+- contains:
+    required:
+    - malami
+  maxContains: 1
+- contains:
+    required:
+    - kunlabori
+  maxContains: 1

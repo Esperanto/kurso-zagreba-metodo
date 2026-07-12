@@ -1,11 +1,10 @@
-- 
-  demando: Szeretnéd, hogy megmutassam neked éa legújabb könyvemet?
-  rektatraduko: 
+- demando: Szeretnéd, hogy megmutassam neked éa legújabb könyvemet?
+  rektatraduko:
     - Ĉu: Vajon
     - vi: te
     - deziras: kiván, óhajt, szeretne
-    - ',' 
-    - ke: hogy 
+    - ','
+    - ke: hogy
     - mi: én
     - montru: mutat
     - al: -nak/nek
@@ -15,22 +14,20 @@
     - novan: újat
     - libron: könyvet
     - '?'
-- 
-  demando: Mit akarsz holnap reggelizni?
-  rektatraduko: 
+- demando: Mit akarsz holnap reggelizni?
+  rektatraduko:
     - Kion: Mit
     - vi: te
     - volas: akarsz
     - morgaŭ: holnap
     - matenmanĝi: reggelizni
     - '?'
-- 
-  demando: Mikor érkezik Márk ót órakor vagy hat órakor?
-  rektatraduko: 
+- demando: Mikor érkezik Márk ót órakor vagy hat órakor?
+  rektatraduko:
     - Kiam: Mikor
     - Marko: Márk
     - alvenos: fog érkezni
-    - ',' 
+    - ','
     - je: -kor
     - la: a
     - kvina: ötödik
@@ -40,13 +37,12 @@
     - oka: nyolcadik
     - horo: óra
     - '?'
-- 
-  demando: Mikor vetetd észre, hogy az egész család jótevőnek hív engem?
-  rektatraduko: 
+- demando: Mikor vetetd észre, hogy az egész család jótevőnek hív engem?
+  rektatraduko:
     - Kiam: Mikor
     - vi: te
     - rimarkis: észrevetted
-    - ','  
+    - ','
     - ke: hogy
     - la: a
     - tuta: egész
@@ -55,18 +51,18 @@
     - min: engem
     - bonfarulo: jótevő
     - '?'
-- 
-  demando: Hasznos volt-e neked/számodra a könyvecske, amit küldtem?
-  rektatraduko: 
+- demando: Hasznos volt-e neked/számodra a könyvecske, amit küldtem?
+  rektatraduko:
     - Ĉu: Vajon
     - la: a
     - libreto: könyvecske
-    - estis: volt
-    - utila: hasznos
+    - ','
+    - kiun: amit/amelyet
+    - mi: én
+    - sendis: küldött
     - al: -nak/nek
     - vi: te
-    - ',' 
-    - kiun: amit/amelyet
-    - mi: én 
-    - sendis: küldött
+    - ','
+    - estis: volt
+    - utila: hasznos
     - '?'

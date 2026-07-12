@@ -1,26 +1,23 @@
-- 
-  demando: 谁是你的女朋友？
+- demando: 谁是你的女朋友？
   rektatraduko:
     - Kiu: 谁
     - estas: 是
     - via: 你的
     - amikino: 女朋友
     - '?'
-- 
-  demando: 是否是你的朋友安娜现在在房里写东西吗？
+- demando: 是否是你的朋友安娜现在在房里写东西吗？
   rektatraduko:
     - Ĉu: 是否
     - via: 你的
     - amikino: 女朋友
-    - Anna: 安娜
+    - Ana: 安娜
     - skribas: 写
     - nun: 现在
     - en: 在
     - la: 那间
     - ĉambro: 房间
     - '?'
-- 
-  demando: 你的朋友的父亲是否在酒店工作 ？
+- demando: 你的朋友的父亲是否在酒店工作 ？
   rektatraduko:
     - Ĉu: 是否
     - la: 这，那
@@ -32,8 +29,7 @@
     - en: 在
     - hotelo: 酒店
     - '?'
-- 
-  demando: 是什么东西在我们的房间的工作桌上？
+- demando: 是什么东西在我们的房间的工作桌上？
   rektatraduko:
     - Kio: 什么东西
     - estas: 是
@@ -44,8 +40,7 @@
     - nia: 我们的
     - ĉambro: 房间
     - '?'
-- 
-  demando: 是否是在你的桌子上面有本世界语课本？
+- demando: 是否是在你的桌子上面有本世界语课本？
   rektatraduko:
     - Ĉu: 是否
     - Esperanto-lernolibro: 世界语课本
@@ -54,4 +49,3 @@
     - via: 你的
     - tablo: 桌子
     - '?'
-

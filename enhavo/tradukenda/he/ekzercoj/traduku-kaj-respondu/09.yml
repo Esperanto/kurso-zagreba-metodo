@@ -1,75 +1,70 @@
-- 
-  demando: ?מה יכול הכי לשמח את הוריך 
-  rektatraduko: 
-    - Kio: מה
-    - povus: יכול
-    - plej: הכי
-    - ĝojigi: לשמח
-    - viajn: את שלך
-    - gepatrojn: הורים
-    - '?'
-- 
-  demando: " !אם לפחות אחרי הלימודים היית הולך איתי למרכז העיר"
-  rektatraduko: 
-    - Se: אם
-    - almenaŭ: לפחות
-    - vi: אתה
-    - post: אחרי
-    - la: ה 
-    - lernado: לימודים
-    - irus: היית הולך
-    - kun: עם
-    - mi: אני
-    - en: אל
-    - la: ה 
-    - urbocentron: מרכז העיר
-    - '!'
-- 
-  demando: ?לאן היית רוצה לנסוע אם היו לך מספיק כסף וזמן
-  rektatraduko: 
-    - Kien: לאן
-    - vi: אתה
-    - dezirus: היית רוצה
-    - vojaĝi: לנסוע
-    - ',' 
-    - se: אם
-    - vi: אתה
-    - havus: היה לך
-    - sufiĉe: מספיק
-    - da: של
-    - mono: כסף
-    - kaj: ו
-    - tempo: זמן
-    - '?'
-- 
-  demando: ?האם אתה מתכנן לנסוע לפריז במכונית או שנראה שעדיף בהרבה ברכבת
-  rektatraduko: 
-    - Ĉu: האם
-    - vi: אתה
-    - planas: מתכנן
-    - veturi: לנסוע
-    - al: אל
-    - Parizo: פריז
-    - per: ב
-    - aŭto: מכונית
-    - aŭ: או
-    - ĉu: האם
-    - ne: לא
-    - ŝajnas: נראה
-    - multe: הרבה
-    - pli: יותר
-    - bone: טוב
-    - per: עם
-    - vagonaro: רכבת
-    - '?'
-- 
-  demando: ?מדוע אנשים שונים מסבירים את אותם רעיונות באופן שונה
-  rektatraduko: 
-    - Kial: מדוע
-    - diversaj: שונים
-    - homoj: אנשים
-    - klarigas: מסבירים
-    - samajn: את אותם
-    - ideojn: רעיונות
-    - diversmaniere: באופן שונה 
-    - '?'
+- demando: ?מה יכול הכי לשמח את הוריך
+  rektatraduko:
+  - Kio: מה
+  - povus: יכול
+  - plej: הכי
+  - ĝojigi: לשמח
+  - viajn: את שלך
+  - gepatrojn: הורים
+  - '?'
+- demando: ' !אם לפחות אחרי הלימודים היית הולך איתי לעיר'
+  rektatraduko:
+  - Se: אם
+  - almenaŭ: לפחות
+  - vi: אתה
+  - post: אחרי
+  - la: ה
+  - lernado: לימודים
+  - irus: היית הולך
+  - kun: עם
+  - mi: אני
+  - en: אל
+  - la: ה
+  - urbon: עיר
+  - '!'
+- demando: ?לאן היית רוצה לנסוע אם היו לך מספיק כסף וזמן
+  rektatraduko:
+  - Kien: לאן
+  - vi: אתה
+  - dezirus: היית רוצה
+  - vojaĝi: לנסוע
+  - ','
+  - se: אם
+  - vi: אתה
+  - havus: היה לך
+  - sufiĉe: מספיק
+  - da: של
+  - mono: כסף
+  - kaj: ו
+  - tempo: זמן
+  - '?'
+- demando: ?האם אתה מתכנן לנסוע לאיטליה במכונית או שנראה שעדיף בהרבה ברכבת
+  rektatraduko:
+  - Ĉu: האם
+  - vi: אתה
+  - planas: מתכנן
+  - veturi: לנסוע
+  - al: אל
+  - Italio: איטליה
+  - per: ב
+  - aŭto: מכונית
+  - aŭ: או
+  - ĉu: האם
+  - ne: לא
+  - ŝajnas: נראה
+  - multe: הרבה
+  - pli: יותר
+  - bone: טוב
+  - per: עם
+  - vagonaro: רכבת
+  - '?'
+- demando: ?מדוע אנשים שונים מסבירים את אותם רעיונות באופן שונה
+  rektatraduko:
+  - Kial: מדוע
+  - diversaj: שונים
+  - homoj: אנשים
+  - klarigas: מסבירים
+  - samajn: את אותם
+  - ideojn: רעיונות
+  - diversmaniere: באופן שונה
+  - '?'

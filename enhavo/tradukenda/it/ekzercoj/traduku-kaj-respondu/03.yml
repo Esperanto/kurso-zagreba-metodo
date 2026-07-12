@@ -1,6 +1,5 @@
--
-  demando: I camerieri dei grandi alberghi capiscono molte lingue?
-  rektatraduko:  
+- demando: I camerieri dei grandi alberghi capiscono molte lingue?
+  rektatraduko:
     - Ĉu: (interrogativa)
     - kelneroj: camerieri
     - en: in
@@ -10,15 +9,14 @@
     - multajn: molte
     - lingvojn: lingue
     - '?'
--
-  demando: Sai se ad Anna piace la nuova canzone sul povero e la bella?
-  rektatraduko: 
+- demando: Sai se ad Ana piace la nuova canzone sul povero e la bella?
+  rektatraduko:
     - Ĉu: (interrogativa)
     - vi: tu
     - scias: sai
     - ','
     - ĉu: se
-    - Anna: Anna 
+    - Ana: Ana
     - ŝatas: piace
     - la: la
     - novan: nuova
@@ -28,9 +26,8 @@
     - kaj: e
     - belulino: una ragazza bella
     - '?'
--
-  demando: Dove hai visto il vecchio e il giovane che hanno portato il grande tavolo?
-  rektatraduko: 
+- demando: Dove hai visto il vecchio e il giovane che hanno portato il grande tavolo?
+  rektatraduko:
     - Kie: Dove
     - vi: tu
     - vidis: hai visto
@@ -45,9 +42,8 @@
     - grandan: grande
     - tablon: tavolo
     - '?'
--
-  demando: Come è successo che sei di nuovo venuto da noi senza fratelli-e-sorelle?
-  rektatraduko: 
+- demando: Come è successo che sei di nuovo venuto da noi senza fratelli-e-sorelle?
+  rektatraduko:
     - Kiel: Come
     - okazis: è successo
     - ','
@@ -60,9 +56,8 @@
     - sen: senza
     - gefratoj: fratelli-e-sorelle
     - '?'
--
-  demando: "Con il nuovo manuale potete imparare l'esperanto abbastanza rapidamente?"
-  rektatraduko: 
+- demando: Con il nuovo manuale potete imparare l'esperanto abbastanza rapidamente?
+  rektatraduko:
     - Ĉu: (interrogativa)
     - vi: voi
     - povas: potete

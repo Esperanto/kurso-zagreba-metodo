@@ -1,0 +1,69 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 09
+allOf:
+- $ref: ../traduku.schema.yml
+- maxItems: 16
+- contains:
+    required:
+    - nekredebla
+  maxContains: 1
+- contains:
+    required:
+    - organizado
+  maxContains: 1
+- contains:
+    required:
+    - informado
+  maxContains: 1
+- contains:
+    required:
+    - libervole
+  maxContains: 1
+- contains:
+    required:
+    - parolado
+  maxContains: 1
+- contains:
+    required:
+    - survoje
+  maxContains: 1
+- contains:
+    required:
+    - homaro
+  maxContains: 1
+- contains:
+    required:
+    - kredeble
+  maxContains: 1
+- contains:
+    required:
+    - kunvojaĝi
+  maxContains: 1
+- contains:
+    required:
+    - manĝaĵo
+  maxContains: 1
+- contains:
+    required:
+    - novaĵo
+  maxContains: 1
+- contains:
+    required:
+    - vagonaro
+  maxContains: 1
+- contains:
+    required:
+    - ĉirkaŭaĵo
+  maxContains: 1
+- contains:
+    required:
+    - parolrajto
+  maxContains: 1
+- contains:
+    required:
+    - domaĉo
+  maxContains: 1
+- contains:
+    required:
+    - tiuokaze
+  maxContains: 1

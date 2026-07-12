@@ -9,7 +9,7 @@
     - gepatrojn: parents
     - '?'
 - 
-  demando: If only you wanted to go to the city center after school!
+  demando: If only you wanted to go to the city after studying!
   rektatraduko: 
     - Se: If
     - almenaŭ: at least (if only)
@@ -22,7 +22,7 @@
     - mi: me
     - en: into
     - la: the 
-    - urbocentron: city center
+    - urbon: city
     - '!'
 - 
   demando: Where would you like to travel to if you had enough money and time?
@@ -42,14 +42,14 @@
     - tempo: time
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: Are you planning to travel to Italy by car or does it not seem much better by train?
   rektatraduko: 
     - Ĉu: Whether
     - vi: you
     - planas: plan
     - veturi: to travel
     - al: to
-    - Parizo: Paris
+    - Italio: Italy
     - per: by
     - aŭto: car
     - aŭ: or

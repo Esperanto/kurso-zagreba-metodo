@@ -1,72 +1,70 @@
-- 
-  demando: ¿Qué es lo que más podría poner contentos a tus padres?
-  rektatraduko: 
-    - Kio: Qué
-    - povus: podría
-    - plej: más
-    - ĝojigi: alegrar
-    - viajn: tus
-    - gepatrojn: padres
-    - '?'
-- 
-  demando: ¡Si al menos tú fueras conmigo al centro después de las clases!
-  rektatraduko: 
-    - Se: Si
-    - almenaŭ: al menos
-    - vi: tú
-    - post: después de
-    - la: las 
-    - lecionoj: clases
-    - irus: fueras
-    - kun: con
-    - mi: mí
-    - en: en
-    - la: el 
-    - centron: centro
-    - '!'
-- 
-  demando: ¿Adónde te gustaría viajar si tuvieras suficiente dinero y tiempo?
-  rektatraduko: 
-    - Kien: Adónde
-    - vi: tú
-    - dezirus: desearías
-    - vojaĝi: viajar
-    - ',' 
-    - se: si
-    - vi: tú
-    - havus: tuvieras
-    - sufiĉe: suficiente
-    - da: de
-    - mono: dinero
-    - kaj: 'y'
-    - tempo: tiempo
-    - '?'
-- 
-  demando: ¿Viajas a París en auto o mejor en tren?
-  rektatraduko: 
-    - Ĉu: Acaso
-    - vi: Tú
-    - vojaĝas: viajas
-    - per: por medio de
-    - la: el
-    - aŭto: auto
-    - al: a
-    - Parizo: París
-    - aŭ: o
-    - pli: más
-    - bone: bien
-    - per: por medio de
-    - la: el
-    - vagonaro: tren
-    - '?'
-- 
-  demando: ¿Por qué personas distintas explican las mismas ideas de maneras distintas?
-  rektatraduko: 
-    - Kial: Por qué
-    - diversaj: distintas
-    - homoj: personas
-    - klarigas: explican
-    - samajn: mismas
-    - ideojn: ideas
-    - diversmaniere: diversamente
-    - '?'
+- demando: ¿Qué es lo que más podría poner contentos a tus padres?
+  rektatraduko:
+  - Kio: Qué
+  - povus: podría
+  - plej: más
+  - ĝojigi: alegrar
+  - viajn: tus
+  - gepatrojn: padres
+  - '?'
+- demando: ¡Si al menos tú fueras conmigo a la ciudad después de las clases!
+  rektatraduko:
+  - Se: Si
+  - almenaŭ: al menos
+  - vi: tú
+  - post: después de
+  - la: las
+  - lernado: clases
+  - irus: fueras
+  - kun: con
+  - mi: mí
+  - en: en
+  - la: el
+  - urbon: ciudad
+  - '!'
+- demando: ¿Adónde te gustaría viajar si tuvieras suficiente dinero y tiempo?
+  rektatraduko:
+  - Kien: Adónde
+  - vi: tú
+  - dezirus: desearías
+  - vojaĝi: viajar
+  - ','
+  - se: si
+  - vi: tú
+  - havus: tuvieras
+  - sufiĉe: suficiente
+  - da: de
+  - mono: dinero
+  - kaj: y
+  - tempo: tiempo
+  - '?'
+- demando: ¿Viajas a Italia en auto o mejor en tren?
+  rektatraduko:
+  - Ĉu: Acaso
+  - vi: Tú
+  - planas: viajas
+  - veturi: to travel
+  - al: a
+  - Italio: Italia
+  - per: por medio de
+  - aŭto: auto
+  - aŭ: o
+  - ĉu: acaso
+  - ne: 'no'
+  - ŝajnas: seem
+  - multe: mucho
+  - pli: más
+  - bone: bien
+  - per: por medio de
+  - vagonaro: tren
+  - '?'
+- demando: ¿Por qué personas distintas explican las mismas ideas de maneras distintas?
+  rektatraduko:
+  - Kial: Por qué
+  - diversaj: distintas
+  - homoj: personas
+  - klarigas: explican
+  - samajn: mismas
+  - ideojn: ideas
+  - diversmaniere: diversamente
+  - '?'

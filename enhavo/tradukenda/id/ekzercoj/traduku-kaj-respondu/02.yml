@@ -1,43 +1,39 @@
-- 
-  demando: Seperti apa rumahmu yang lama?
-  rektatraduko: 
+- demando: Seperti apa rumahmu yang lama?
+  rektatraduko:
     - Kia: Seperti apa
     - estis: adalah (lampau)
     - via: punyamu
     - malnova: lama
-    - hejmo: rumah 
+    - hejmo: rumah
     - '?'
-- 
-  demando: Buku-buku mana yang sudah kamu baca, dan apakah buku-buku itu bagus?
-  rektatraduko: 
-    - Kiujn: Yang mana 
+- demando: Buku-buku mana yang sudah kamu baca, dan apakah buku-buku itu bagus?
+  rektatraduko:
+    - Kiujn: Yang mana
     - librojn: buku-buku
     - vi: kamu
-    - legis: membaca (lampau) 
+    - legis: membaca (lampau)
     - kaj: dan
     - ĉu: apakah
     - ili: mereka
     - estas: adalah
-    - bonaj: bagus 
+    - bonaj: bagus
     - '?'
-- 
-  demando: "Apa yang Anna dan Mark lakukan di kamar kecil milik Mark?"
+- demando: Apa yang Ana dan Mark lakukan di kamar kecil milik Mark?
   rektatraduko:
     - Kion: Apa
     - faris: melakukan (lampau)
-    - Anna: Anna
+    - Ana: Ana
     - kaj: dan
     - Marko: Mark
-    - en: di 
+    - en: di
     - la: (kata sandang)
     - malgranda: kecil
     - ĉambro: ruangan
     - de: dari
     - Marko: Mark
     - '?'
-- 
-  demando: Apakah kamu suka membaca buku-buku tentang cinta?
-  rektatraduko: 
+- demando: Apakah kamu suka membaca buku-buku tentang cinta?
+  rektatraduko:
     - Ĉu: Apakah
     - vi: kamu
     - ŝatas: suka
@@ -46,20 +42,18 @@
     - pri: tentang
     - amo: cinta
     - '?'
-- 
-  demando: Siapa yang akan pergi denganmu ke rumahmu?
-  rektatraduko: 
+- demando: Siapa yang akan pergi denganmu ke rumahmu?
+  rektatraduko:
     - Kiu: Siapa
     - iros: akan pergi
     - kun: dengan
     - vi: kamu
-    - al: ke 
+    - al: ke
     - via: punyamu
     - hejmo: rumah
     - '?'
-- 
-  demando: "Seperti apa mata teman perempuanmu?"
-  rektatraduko: 
+- demando: Seperti apa mata teman perempuanmu?
+  rektatraduko:
     - Kiaj: Seperti apa
     - estas: adalah
     - la: (kata sandang)

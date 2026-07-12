@@ -1,6 +1,5 @@
-- 
-  demando: (Acaso) você pode trazer o remédio da minha irmã?
-  rektatraduko: 
+- demando: (Acaso) você pode trazer o remédio da minha irmã?
+  rektatraduko:
     - Ĉu: (Acaso)
     - vi: você
     - povas: pode
@@ -11,27 +10,24 @@
     - mia: minha
     - fratino: irmã
     - '?'
-- 
-  demando: Quando você comprou esse instrumento musical?
-  rektatraduko: 
+- demando: Quando você comprou esse instrumento musical?
+  rektatraduko:
     - Kiam: Quando
     - vi: você
     - aĉetis: comprou
     - tiun: esse
     - muzikilon: instrumento musical
     - '?'
-- 
-  demando: Quem pela última vez usou minha chave?
-  rektatraduko: 
+- demando: Quem pela última vez usou minha chave?
+  rektatraduko:
     - Kiu: Quem
     - laste: pela última vez
     - uzis: usou
     - mian: minha
     - ŝlosilon: chave
     - '?'
-- 
-  demando: (Acaso) você em Veneza andou também por meio de gôndola?
-  rektatraduko: 
+- demando: (Acaso) você em Veneza andou também por meio de gôndola?
+  rektatraduko:
     - Ĉu: (Acaso)
     - vi: você
     - en: em
@@ -41,14 +37,13 @@
     - per: por meio de
     - gondolo: gôndola
     - '?'
-- 
-  demando: (Acaso) você poderá começar a dormir quando haja silêncio?
-  rektatraduko: 
+- demando: (Acaso) você poderá começar a dormir quando haja silêncio?
+  rektatraduko:
     - Ĉu: (Acaso)
     - vi: você
     - povos: poderá
     - ekdormi: começar a dormir
-    - ',' 
-    - kiam: quando 
-    - estos silento: haja silêncio
+    - ','
+    - kiam: quando
+    - silentiĝos: became quiet
     - '?'

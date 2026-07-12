@@ -5,8 +5,6 @@ items:
   type: object
   minProperties: 1
   maxProperties: 1
-  propertyNames:
-    minLength: 1
   additionalProperties:
     anyOf:
       - type: string

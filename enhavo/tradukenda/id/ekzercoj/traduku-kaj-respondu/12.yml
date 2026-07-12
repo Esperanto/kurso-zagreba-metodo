@@ -1,20 +1,18 @@
-- 
-  demando: Apakah kita akan bertemu lagi, di mana pun dan kapan pun?
-  rektatraduko: 
+- demando: Apakah kita akan bertemu lagi, di mana pun dan kapan pun?
+  rektatraduko:
     - Ĉu: Apakah
     - ni: kita
     - revidos: akan melihat lagi
     - nin: kita
-    - ',' 
+    - ','
     - kie: di mana
     - ajn: pun
     - kaj: dan
     - kiam: kapan
     - ajn: pun
     - '?'
-- 
-  demando: Kapan saya akan menerima setengah lainnya dari buku-buku itu?
-  rektatraduko: 
+- demando: Kapan saya akan menerima setengah lainnya dari buku-buku itu?
+  rektatraduko:
     - Kiam: Kapan
     - mi: saya
     - rericevos: akan menerima lagi
@@ -25,9 +23,8 @@
     - la: (kata sandang)
     - libroj: buku-buku
     - '?'
-- 
-  demando: Apakah kamu akan membutuhkan lebih dari seperempat tahun untuk pekerjaan-pekerjaan itu?
-  rektatraduko: 
+- demando: Apakah kamu akan membutuhkan lebih dari seperempat tahun untuk pekerjaan-pekerjaan itu?
+  rektatraduko:
     - Ĉu: Apakah
     - vi: kamu
     - bezonos: akan membutuhkan
@@ -39,24 +36,22 @@
     - tiuj: itu
     - laboroj: pekerjaan-pekerjaan
     - '?'
-- 
-  demando: Mengapa semakin lama kami menunggu, semakin dingin?
-  rektatraduko: 
+- demando: Mengapa semakin lama kami menunggu, semakin dingin?
+  rektatraduko:
     - Kial: Mengapa
-    - estas: adalah
-    - des: semakin
-    - pli: lebih
-    - malvarma: dingin
-    - ',' 
     - ju: semakin
     - pli: lebih
     - longe: lama
     - ni: kami
     - atendas: menunggu
+    - ','
+    - des: semakin
+    - pli: lebih
+    - malvarme: dingin
+    - estas: adalah
     - '?'
-- 
-  demando: Apakah kamu akan puas dengan pria mana pun?
-  rektatraduko: 
+- demando: Apakah kamu akan puas dengan pria mana pun?
+  rektatraduko:
     - Ĉu: Apakah
     - vi: kamu
     - estus: akan menjadi

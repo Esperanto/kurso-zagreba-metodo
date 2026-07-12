@@ -1,0 +1,202 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 03
+allOf:
+  - $ref: ../traduku-kaj-respondu.schema.yml
+  - minItems: 5
+    prefixItems:
+      - properties:
+          rektatraduko:
+            minItems: 9
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - kelneroj
+              - type: object
+                required:
+                  - en
+              - type: object
+                required:
+                  - grandaj
+              - type: object
+                required:
+                  - hoteloj
+              - type: object
+                required:
+                  - komprenas
+              - type: object
+                required:
+                  - multajn
+              - type: object
+                required:
+                  - lingvojn
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 15
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - scias
+              - const: ','
+              - type: object
+                required:
+                  - ĉu
+              - type: object
+                required:
+                  - Ana
+              - type: object
+                required:
+                  - ŝatas
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - novan
+              - type: object
+                required:
+                  - kanton
+              - type: object
+                required:
+                  - pri
+              - type: object
+                required:
+                  - malriĉulo
+              - type: object
+                required:
+                  - kaj
+              - type: object
+                required:
+                  - belulino
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 14
+            prefixItems:
+              - type: object
+                required:
+                  - Kie
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - vidis
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - maljunulon
+              - type: object
+                required:
+                  - kaj
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - junulon
+              - const: ','
+              - type: object
+                required:
+                  - kiuj
+              - type: object
+                required:
+                  - portis
+              - type: object
+                required:
+                  - grandan
+              - type: object
+                required:
+                  - tablon
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 12
+            prefixItems:
+              - type: object
+                required:
+                  - Kiel
+              - type: object
+                required:
+                  - okazis
+              - const: ','
+              - type: object
+                required:
+                  - ke
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - denove
+              - type: object
+                required:
+                  - venis
+              - type: object
+                required:
+                  - al
+              - type: object
+                required:
+                  - ni
+              - type: object
+                required:
+                  - sen
+              - type: object
+                required:
+                  - gefratoj
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 12
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - povas
+              - type: object
+                required:
+                  - per
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - nova
+              - type: object
+                required:
+                  - lernolibro
+              - type: object
+                required:
+                  - sufiĉe
+              - type: object
+                required:
+                  - rapide
+              - type: object
+                required:
+                  - lerni
+              - type: object
+                required:
+                  - Esperanton
+              - const: '?'
+            items: false
+    items: false

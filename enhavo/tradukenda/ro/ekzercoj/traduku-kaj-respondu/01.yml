@@ -1,26 +1,23 @@
--
-  demando: Cine este prietena ta?
+- demando: Cine este prietena ta?
   rektatraduko:
     - Kiu: Cine
     - estas: este
     - via: ta
     - amikino: prietenă
     - '?'
--
-  demando: Scrie prietena ta Anna acum în cameră?
+- demando: Scrie prietena ta Ana acum în cameră?
   rektatraduko:
     - Ĉu: oare
     - via: ta
     - amikino: prietenă
-    - Anna: Anna
+    - Ana: Ana
     - skribas: scrie
     - nun: acum
     - en: în
     - la: (articol)
     - ĉambro: cameră
     - '?'
--
-  demando: Lucrează prietenul tatălui tău într-un hotel?
+- demando: Lucrează prietenul tatălui tău într-un hotel?
   rektatraduko:
     - Ĉu: oare
     - la: (articol)
@@ -32,8 +29,7 @@
     - en: în
     - hotelo: hotel
     - '?'
--
-  demando: Ce este pe masa de lucru din camera noastră?
+- demando: Ce este pe masa de lucru din camera noastră?
   rektatraduko:
     - Kio: Ce
     - estas: este
@@ -44,8 +40,7 @@
     - nia: noastră
     - ĉambro: cameră
     - '?'
--
-  demando: Este un manual de Esperanto pe masa ta?
+- demando: Este un manual de Esperanto pe masa ta?
   rektatraduko:
     - Ĉu: oare
     - Esperanto-lernolibro: manual de Esperanto

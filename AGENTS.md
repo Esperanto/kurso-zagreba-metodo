@@ -8,6 +8,10 @@ Gvidilo por aŭtomatigitaj kodaj agentoj laborantaj en ĉi tiu deponejo.
 
 La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperantaj. Konservu ekzistantajn Esperantajn vortumojn kaj dosiernomajn konvenciojn krom se tasko eksplicite petas tradukon aŭ tekstajn ŝanĝojn.
 
+## Git Kaj Kunlaboro
+
+- Uzu Esperanton por branĉonomoj, commit-mesaĝoj kaj PR-titoloj/priskriboj, krom se la uzanto eksplicite petas alian lingvon.
+
 ## Gravaj Dosierujoj
 
 - `enhavo/netradukenda/`: netradukenda fontenhavo komuna al ĉiuj lingvoj.

@@ -1,25 +1,22 @@
--
-  demando: Quando eu verei você novamente?
-  rektatraduko: 
+- demando: Quando eu verei você novamente?
+  rektatraduko:
     - Kiam: Quando
-    - mi: eu  
+    - mi: eu
     - revidos: verei novamente
     - vin: você
     - '?'
--
-  demando: Por quanto tempo (quão longamente) você estuda a língua internacional?
-  rektatraduko: 
-    - Kiel: Quão
+- demando: Por quanto tempo (quão longamente) você estuda a língua internacional?
+  rektatraduko:
+    - Kiom: quanto
     - longe: longamente
     - vi: você
     - lernas: estuda
-    - la: a 
+    - la: a
     - Internacian: internacional
     - Lingvon: língua
     - '?'
--
-  demando: Onde está meu livro novo com fotografias?
-  rektatraduko: 
+- demando: Onde está meu livro novo com fotografias?
+  rektatraduko:
     - Kie: Onde
     - estas: está
     - mia: meu
@@ -28,9 +25,8 @@
     - kun: com
     - fotoj: fotografias
     - '?'
--
-  demando: Aonde você irá após o almoço?
-  rektatraduko: 
+- demando: Aonde você irá após o almoço?
+  rektatraduko:
     - Kien: Aonde
     - vi: você
     - iros: irá
@@ -38,16 +34,15 @@
     - la: o
     - tagmanĝo: almoço
     - '?'
--
-  demando: (Acaso) alguém pode fechar a porta da sala quando está frio?
-  rektatraduko: 
+- demando: (Acaso) alguém pode fechar a porta da sala quando está frio?
+  rektatraduko:
     - Ĉu: (Acaso)
     - oni: alguém
-    - povas: pode 
+    - povas: pode
     - fermi: fechar
     - la: a
     - pordon: porta
-    - de: de 
+    - de: de
     - la: a
     - ĉambro: sala
     - ','
@@ -55,10 +50,9 @@
     - estas: está
     - malvarme: frio
     - '?'
--
-  demando: Por quanto tempo (quão longamente) você fica zangado se alguém toma de você muito dinheiro ?
-  rektatraduko: 
-    - Kiel: Quão
+- demando: Por quanto tempo (quão longamente) você fica zangado se alguém toma de você muito dinheiro ?
+  rektatraduko:
+    - Kiom: quanto
     - longe: longamente
     - vi: você
     - koleras: fica zangado

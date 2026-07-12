@@ -1,15 +1,13 @@
--
-  demando: Когда я увижу вас вновь?
-  rektatraduko: 
+- demando: Когда я увижу вас вновь?
+  rektatraduko:
     - Kiam: Когда
-    - mi: я 
+    - mi: я
     - revidos: увижу снова
     - vin: вас
     - '?'
--
-  demando: Как долго вы учите международный язык?
-  rektatraduko: 
-    - Kiel: Как
+- demando: Как долго вы учите международный язык?
+  rektatraduko:
+    - Kiom: сколько
     - longe: долго
     - vi: вы
     - lernas: учите
@@ -17,9 +15,8 @@
     - Internacian: международный
     - Lingvon: язык
     - '?'
--
-  demando: Где моя новая книга с фотографиями?
-  rektatraduko: 
+- demando: Где моя новая книга с фотографиями?
+  rektatraduko:
     - Kie: Где
     - estas: есть
     - mia: моя
@@ -28,9 +25,8 @@
     - kun: с
     - fotoj: фотографиями
     - '?'
--
-  demando: Куда вы пойдёте после обеда?
-  rektatraduko: 
+- demando: Куда вы пойдёте после обеда?
+  rektatraduko:
     - Kien: Куда
     - vi: вы
     - iros: пойдёте
@@ -38,9 +34,8 @@
     - la: определённый артикль
     - tagmanĝo: обеда
     - '?'
--
-  demando: Можно ли закрыть дверь комнаты, когда холодно?
-  rektatraduko: 
+- demando: Можно ли закрыть дверь комнаты, когда холодно?
+  rektatraduko:
     - Ĉu: Вопросительная частица
     - oni: неопределенное местоимение
     - povas: можно
@@ -55,12 +50,11 @@
     - estas: есть
     - malvarme: холодно
     - '?'
--
-  demando: Как долго вы злитесь, если люди берут у вас много денег?
-  rektatraduko: 
-    - Kiel: Как
+- demando: Как долго вы злитесь, если люди берут у вас много денег?
+  rektatraduko:
+    - Kiom: сколько
     - longe: долго
-    - vi: вы 
+    - vi: вы
     - koleras: злитесь
     - ','
     - se: если

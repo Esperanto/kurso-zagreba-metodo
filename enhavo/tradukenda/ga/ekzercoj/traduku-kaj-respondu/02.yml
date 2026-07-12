@@ -1,15 +1,13 @@
-- 
-  demando: Conas a bhí do shean-bhaile?
-  rektatraduko: 
+- demando: Conas a bhí do shean-bhaile?
+  rektatraduko:
     - Kia: Conas
     - estis: bhí
     - via: do
     - malnova: sean
     - hejmo: baile
     - '?'
-- 
-  demando: Cé na leabhair a léis, agus an rabhadar go maith?
-  rektatraduko: 
+- demando: Cé na leabhair a léis, agus an rabhadar go maith?
+  rektatraduko:
     - Kiujn: Cé na
     - librojn: leabhair
     - vi: tú
@@ -18,26 +16,24 @@
     - ĉu: an
     - ili: siad
     - estas: tá
-    - bonaj: maith 
+    - bonaj: maith
     - '?'
-- 
-  demando: "Cad a dhein Áine agus Marc i seomra beag Mhairc?"
+- demando: Cad a dhein Ana agus Marc i seomra beag Mhairc?
   rektatraduko:
     - Kion: Cad
     - faris: dhein
-    - Anna: Áine
+    - Ana: Ana
     - kaj: agus
     - Marko: Marc
-    - en: in, i 
+    - en: in, i
     - la: an
     - malgranda: beag
     - ĉambro: seomra
     - de: de
     - Marko: Marc
     - '?'
-- 
-  demando: An maith leat leabhair faoin ngrá a léamh?
-  rektatraduko: 
+- demando: An maith leat leabhair faoin ngrá a léamh?
+  rektatraduko:
     - Ĉu: An
     - vi: tú
     - ŝatas: an maith leat
@@ -46,25 +42,23 @@
     - pri: faoi
     - amo: grá
     - '?'
-- 
-  demando: Cé a raghaidh abhaile farat?  
-  rektatraduko: 
+- demando: Cé a raghaidh abhaile farat?
+  rektatraduko:
     - Kiu: Cé
     - iros: raghaidh
     - kun: fara
     - vi: tú
-    - al: chuig 
+    - al: chuig
     - via: do
-    - hejmo: baile, abhaile 
+    - hejmo: baile, abhaile
     - '?'
-- 
-  demando: "Conas atá súile do chailín?"
-  rektatraduko: 
+- demando: Conas atá súile do chailín?
+  rektatraduko:
     - Kiaj: Conas
     - estas: atá
     - la: na
     - okuloj: súile
     - de: de
-    - via: do 
+    - via: do
     - amikino: cailín
     - '?'

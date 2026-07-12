@@ -7,12 +7,12 @@
     - amikino: Freundin
     - '?'
 - 
-  demando: Schreibt deine Freundin Anna jetzt im Zimmer?
+  demando: Schreibt deine Freundin Ana jetzt im Zimmer?
   rektatraduko:
     - Ĉu: Ob
     - via: deine
     - amikino: Freundin
-    - Anna: Anna
+    - Ana: Ana
     - skribas: schreibt
     - nun: jetzt
     - en: in
@@ -54,4 +54,3 @@
     - via: deinem 
     - tablo: Tisch
     - '?'
-

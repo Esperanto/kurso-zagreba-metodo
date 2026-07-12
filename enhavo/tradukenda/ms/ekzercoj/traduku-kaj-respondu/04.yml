@@ -1,15 +1,13 @@
--
-  demando: Bilakah saya akan berjumpa awak lagi?
-  rektatraduko: 
+- demando: Bilakah saya akan berjumpa awak lagi?
+  rektatraduko:
     - Kiam: Bilakah
     - mi: saya
     - revidos: akan berjumpa lagi
     - vin: awak
     - '?'
--
-  demando: Berapa lama awak telah mempelajari bahasa antarabangsa?
-  rektatraduko: 
-    - Kiel: bagaimana
+- demando: Berapa lama awak telah mempelajari bahasa antarabangsa?
+  rektatraduko:
+    - Kiom: berapa
     - longe: lama
     - vi: awak
     - lernas: belajar
@@ -17,9 +15,8 @@
     - Internacian: antarabangsa
     - Lingvon: bahasa
     - '?'
--
-  demando: Di mana buku baru saya yang ada gambar-gambar ?
-  rektatraduko: 
+- demando: Di mana buku baru saya yang ada gambar-gambar ?
+  rektatraduko:
     - Kie: Mana
     - estas: ialah
     - mia: saya
@@ -28,9 +25,8 @@
     - kun: dengan
     - fotoj: gambar-gambar
     - '?'
--
-  demando: Ke mana akan awak pergi selepas makan tengah hari?
-  rektatraduko: 
+- demando: Ke mana akan awak pergi selepas makan tengah hari?
+  rektatraduko:
     - Kien: ke mana
     - vi: awak
     - iros: akan pergi
@@ -38,9 +34,8 @@
     - la: itu,ini
     - tagmanĝo: makan tengah hari
     - '?'
--
-  demando: Bolehkah sesiapa boleh menutup pintu bilik apabila ia sejuk?
-  rektatraduko: 
+- demando: Bolehkah sesiapa boleh menutup pintu bilik apabila ia sejuk?
+  rektatraduko:
     - Ĉu: Bolehkah
     - oni: seseorang
     - povas: boleh
@@ -55,10 +50,9 @@
     - estas: ialah
     - malvarme: sejuk
     - '?'
--
-  demando: Berapa lama awak marah jika orang mengambil wang yang banyak daripada awak ?
-  rektatraduko: 
-    - Kiel: bagaimana
+- demando: Berapa lama awak marah jika orang mengambil wang yang banyak daripada awak ?
+  rektatraduko:
+    - Kiom: berapa
     - longe: lama
     - vi: awak
     - koleras: marah

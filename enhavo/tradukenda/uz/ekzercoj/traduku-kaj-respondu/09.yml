@@ -7,7 +7,7 @@
   - viajn: sizning
   - gepatrojn: ota-onalarni
   - '?'
-- demando: Qaniydi oʻqishdan keyin men bilan shahar markaziga borsangiz!
+- demando: Qaniydi oʻqishdan keyin men bilan shaharga borsangiz!
   rektatraduko:
   - Se: agar
   - almenaŭ: hech boʻlmasa
@@ -20,7 +20,7 @@
   - mi: men
   - en: ichiga
   - la: aniq artikl
-  - urbocentron: shahar markazini
+  - urbon: shahar
   - '!'
 - demando: Pul va vaqtingiz yetarli boʻlsa, qayerga sayohat qilishni xohlardingiz?
   rektatraduko:
@@ -38,14 +38,14 @@
   - kaj: va
   - tempo: vaqt
   - '?'
-- demando: Parijga mashinada borishni rejalashtiryapsizmi yoki poyezdda ancha yaxshiroqdek tuyulmayaptimi?
+- demando: Italiyaga mashinada borishni rejalashtiryapsizmi yoki poyezdda ancha yaxshiroqdek tuyulmayaptimi?
   rektatraduko:
   - Ĉu: savol yuklamasi
   - vi: siz
   - planas: rejalashtiryapsiz
   - veturi: yurmoq
   - al: '...ga'
-  - Parizo: Parij
+  - Italio: Italiya
   - per: vositasida
   - aŭto: mashina
   - aŭ: yoki

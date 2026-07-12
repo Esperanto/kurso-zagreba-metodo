@@ -1,15 +1,13 @@
--
-  demando: "Rahoviana no hifankahita amiko ianao ?"
-  rektatraduko: 
+- demando: Rahoviana no hifankahita amiko ianao ?
+  rektatraduko:
     - Kiam: Rahoviana
-    - mi: -ko 
+    - mi: -ko
     - revidos: no hifankahita
     - vin: ianao
     - '?'
--
-  demando: "Fotoana firy ianao no mianatra ny fiteny iraisam-pirenena ?"
-  rektatraduko: 
-    - Kiel: Firy
+- demando: Fotoana firy ianao no mianatra ny fiteny iraisam-pirenena ?
+  rektatraduko:
+    - Kiom: firy / ohatrinona
     - longe: fotoana
     - vi: ianao / ianareo
     - lernas: no mianatra
@@ -17,9 +15,8 @@
     - Internacian: iraisam-pirenena
     - Lingvon: fiteny
     - '?'
--
-  demando: "Aiza ny bokiko vaovao miarak'amin'ny sariko ?"
-  rektatraduko: 
+- demando: Aiza ny bokiko vaovao miarak'amin'ny sariko ?
+  rektatraduko:
     - Kie: Aiza
     - estas: ny
     - mia: -ko
@@ -28,9 +25,8 @@
     - kun: miarak'aminy
     - fotoj: ny sary
     - '?'
-- 
-  demando: "Aiza no andehananao aorian'ny fisakafoanana?"
-  rektatraduko: 
+- demando: Aiza no andehananao aorian'ny fisakafoanana?
+  rektatraduko:
     - Kien: Aiza
     - vi: ianao / ianareo
     - iros: andeha
@@ -38,9 +34,8 @@
     - la: ny
     - tagmanĝo: fisakafoanana
     - '?'
--
-  demando: "Moa ve mba afaka mamody ny varavaran'ny hefi-trano isika raha mangatsiaka ny andro ?"
-  rektatraduko: 
+- demando: Moa ve mba afaka mamody ny varavaran'ny hefi-trano isika raha mangatsiaka ny andro ?
+  rektatraduko:
     - Ĉu: Moa ve
     - oni: isika
     - povas: afaka
@@ -52,13 +47,12 @@
     - ĉambro: hefi-trano
     - ','
     - kiam: raha
-    - estas: "no"
+    - estas: 'no'
     - malvarme: mangatsiaka
     - '?'
--
-  demando: "Fotoana firy ianao no tezitra raha akana vola be ianao?"
-  rektatraduko: 
-    - Kiel: Firy
+- demando: Fotoana firy ianao no tezitra raha akana vola be ianao?
+  rektatraduko:
+    - Kiom: firy / ohatrinona
     - longe: fotoana
     - vi: ianao
     - koleras: no tezitra

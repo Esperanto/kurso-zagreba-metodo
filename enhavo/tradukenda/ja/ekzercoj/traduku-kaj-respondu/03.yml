@@ -1,7 +1,6 @@
--
-  demando: 大きなホテルのウェイターたちはたくさんの言語を理解しますか？ 
-  rektatraduko:  
-    - Ĉu: ～か？ 
+- demando: 大きなホテルのウェイターたちはたくさんの言語を理解しますか？
+  rektatraduko:
+    - Ĉu: ～か？
     - kelneroj: ウェイター（複数）
     - en: の中の
     - grandaj: 大きな（複数）
@@ -10,15 +9,14 @@
     - multajn: 多くの
     - lingvojn: 言語を（複数）
     - '?'
--
-  demando: アンナが貧しい男と美少女についての新しい歌を好きかどうかあなたは知っていますか？
-  rektatraduko: 
+- demando: アナ貧しい男と美少女についての新しい歌を好きかどうかあなたは知っていますか？
+  rektatraduko:
     - Ĉu: ～か？
     - vi: あなたは
     - scias: 知っている
     - ','
     - ĉu: ～かどうか
-    - Anna: アンナが 
+    - Ana: アナ
     - ŝatas: 好き
     - la: （定冠詞）
     - novan: 新しい
@@ -28,9 +26,8 @@
     - kaj: と
     - belulino: 美女
     - '?'
--
-  demando: あなたはどこで大きなテーブルを運んでいた老人と若者を見たのですか？
-  rektatraduko: 
+- demando: あなたはどこで大きなテーブルを運んでいた老人と若者を見たのですか？
+  rektatraduko:
     - Kie: どこで
     - vi: あなたは
     - vidis: 見た
@@ -45,9 +42,8 @@
     - grandan: 大きな
     - tablon: テーブルを
     - '?'
--
-  demando: どのような次第であなたはきょうだい（兄弟姉妹）抜きで改めて私たちのところに来たのですか？
-  rektatraduko: 
+- demando: どのような次第であなたはきょうだい（兄弟姉妹）抜きで改めて私たちのところに来たのですか？
+  rektatraduko:
     - Kiel: どのように
     - okazis: 起こった
     - ','
@@ -55,19 +51,18 @@
     - vi: あなたが
     - denove: 改めて
     - venis: 来た
-    - al: ～へ 
+    - al: ～へ
     - ni: 私たちのところ
     - sen: ～なしに
     - gefratoj: きょうだい（兄弟姉妹）
     - '?'
--
-  demando: あなたは新しい教科書によって十分速くエスペラントを学ぶことができますか？
-  rektatraduko: 
+- demando: あなたは新しい教科書によって十分速くエスペラントを学ぶことができますか？
+  rektatraduko:
     - Ĉu: ～か？
     - vi: あなたは
     - povas: できる
     - per: によって
-    - la: （定冠詞） 
+    - la: （定冠詞）
     - nova: 新しい
     - lernolibro: 教科書
     - sufiĉe: 十分に

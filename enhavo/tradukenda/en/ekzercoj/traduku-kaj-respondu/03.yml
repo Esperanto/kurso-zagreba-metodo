@@ -11,14 +11,14 @@
     - lingvojn: languages
     - '?'
 -
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Do you know whether Ana likes a new song about a poor man and a beautiful girl?
   rektatraduko: 
     - Ĉu: Whether
     - vi: you
     - scias: know
     - ','
     - ĉu: whether
-    - Anna: Anna 
+    - Ana: Ana
     - ŝatas: likes
     - la: the
     - novan: new

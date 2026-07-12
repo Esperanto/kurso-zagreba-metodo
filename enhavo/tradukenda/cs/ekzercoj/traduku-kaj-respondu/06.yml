@@ -1,10 +1,9 @@
-- 
-  demando: Přeješ si, abych ti ukázal svou nejnovější knihu?
-  rektatraduko: 
+- demando: Přeješ si, abych ti ukázal svou nejnovější knihu?
+  rektatraduko:
     - Ĉu: Zda
     - vi: ty
     - deziras: přeješ si
-    - ',' 
+    - ','
     - ke: že
     - mi: já
     - montru: ukázal (rozkaz)
@@ -15,22 +14,20 @@
     - novan: novou
     - libron: knihu
     - '?'
-- 
-  demando: Co chceš zítra snídat?
-  rektatraduko: 
+- demando: Co chceš zítra snídat?
+  rektatraduko:
     - Kion: Co
     - vi: ty
     - volas: chceš
     - morgaŭ: zítra
     - matenmanĝi: snídat
     - '?'
-- 
-  demando: "Kdy Marek přijde, v pět nebo v osm hodin?"
-  rektatraduko: 
+- demando: Kdy Marek přijde, v pět nebo v osm hodin?
+  rektatraduko:
     - Kiam: Kdy
     - Marko: Marek
     - alvenos: přijde
-    - ',' 
+    - ','
     - je: v (čas)
     - la: (člen určitý)
     - kvina: pátá
@@ -40,13 +37,12 @@
     - oka: osmá
     - horo: hodina
     - '?'
-- 
-  demando: Kdy sis všiml, že mi celá rodina říká dobrodinec?
-  rektatraduko: 
+- demando: Kdy sis všiml, že mi celá rodina říká dobrodinec?
+  rektatraduko:
     - Kiam: Kdy
     - vi: ty
     - rimarkis: všiml sis
-    - ','  
+    - ','
     - ke: že
     - la: (člen určitý)
     - tuta: celá
@@ -55,18 +51,18 @@
     - min: mě
     - bonfarulo: dobrodinec
     - '?'
-- 
-  demando: Byla pro tebe užitečná ta knížečka, kterou jsem poslal?
-  rektatraduko: 
+- demando: Byla pro tebe užitečná ta knížečka, kterou jsem poslal?
+  rektatraduko:
     - Ĉu: Zda
-    - la: (člen určitý) 
+    - la: (člen určitý)
     - libreto: knížečka
-    - estis: byla
-    - utila: užitečná
-    - al: k
-    - vi: ty
-    - ',' 
+    - ','
     - kiun: kterou
     - mi: já
     - sendis: poslal
+    - al: k
+    - vi: ty
+    - ','
+    - estis: byla
+    - utila: užitečná
     - '?'

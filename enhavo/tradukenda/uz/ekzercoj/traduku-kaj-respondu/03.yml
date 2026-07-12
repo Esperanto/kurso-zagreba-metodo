@@ -1,72 +1,72 @@
 - demando: Katta mehmonxonalardagi ofitsiantlar koʻp tillarni tushunadimi?
   rektatraduko:
-  - Ĉu: savol yuklamasi
-  - kelneroj: ofitsiantlar
-  - en: ichida
-  - grandaj: katta
-  - hoteloj: mehmonxonalar
-  - komprenas: tushunadi
-  - multajn: koʻplarni
-  - lingvojn: tillarni
-  - '?'
-- demando: Anna kambagʻal odam va goʻzal qiz haqidagi yangi qoʻshiqni yoqtirishini bilasizmi?
+    - Ĉu: savol yuklamasi
+    - kelneroj: ofitsiantlar
+    - en: ichida
+    - grandaj: katta
+    - hoteloj: mehmonxonalar
+    - komprenas: tushunadi
+    - multajn: koʻplarni
+    - lingvojn: tillarni
+    - '?'
+- demando: Ana kambagʻal odam va goʻzal qiz haqidagi yangi qoʻshiqni yoqtirishini bilasizmi?
   rektatraduko:
-  - Ĉu: savol yuklamasi
-  - vi: siz
-  - scias: bilasiz
-  - ','
-  - ĉu: savol yuklamasi
-  - Anna: Anna
-  - ŝatas: yoqtiradi
-  - la: aniq artikl
-  - novan: yangini
-  - kanton: qoʻshiqni
-  - pri: haqida
-  - malriĉulo: kambagʻal odam
-  - kaj: va
-  - belulino: goʻzal qiz
-  - '?'
+    - Ĉu: savol yuklamasi
+    - vi: siz
+    - scias: bilasiz
+    - ','
+    - ĉu: savol yuklamasi
+    - Ana: Ana
+    - ŝatas: yoqtiradi
+    - la: aniq artikl
+    - novan: yangini
+    - kanton: qoʻshiqni
+    - pri: haqida
+    - malriĉulo: kambagʻal odam
+    - kaj: va
+    - belulino: goʻzal qiz
+    - '?'
 - demando: Katta stolni koʻtarib ketayotgan qari kishi va yigitni qayerda koʻrdingiz?
   rektatraduko:
-  - Kie: qayerda
-  - vi: siz
-  - vidis: koʻrdingiz
-  - la: aniq artikl
-  - maljunulon: qari kishini
-  - kaj: va
-  - la: aniq artikl
-  - junulon: yigitni
-  - ','
-  - kiuj: qaysilar/kimlar
-  - portis: koʻtarib ketayotgan edi
-  - grandan: kattani
-  - tablon: stolni
-  - '?'
+    - Kie: qayerda
+    - vi: siz
+    - vidis: koʻrdingiz
+    - la: aniq artikl
+    - maljunulon: qari kishini
+    - kaj: va
+    - la: aniq artikl
+    - junulon: yigitni
+    - ','
+    - kiuj: qaysilar/kimlar
+    - portis: koʻtarib ketayotgan edi
+    - grandan: kattani
+    - tablon: stolni
+    - '?'
 - demando: Qanday qilib siz yana aka-uka va opa-singillarsiz biznikiga keldingiz?
   rektatraduko:
-  - Kiel: qanday
-  - okazis: sodir boʻldi
-  - ','
-  - ke: deb
-  - vi: siz
-  - denove: yana
-  - venis: keldingiz
-  - al: '...ga'
-  - ni: biz
-  - sen: '...siz'
-  - gefratoj: aka-uka va opa-singillar
-  - '?'
+    - Kiel: qanday
+    - okazis: sodir boʻldi
+    - ','
+    - ke: deb
+    - vi: siz
+    - denove: yana
+    - venis: keldingiz
+    - al: '...ga'
+    - ni: biz
+    - sen: '...siz'
+    - gefratoj: aka-uka va opa-singillar
+    - '?'
 - demando: Yangi darslik yordamida Esperantoni ancha tez oʻrgana olasizmi?
   rektatraduko:
-  - Ĉu: savol yuklamasi
-  - vi: siz
-  - povas: qila olasiz
-  - per: vositasida
-  - la: aniq artikl
-  - nova: yangi
-  - lernolibro: darslik
-  - sufiĉe: yetarlicha
-  - rapide: tez
-  - lerni: oʻrganmoq
-  - Esperanton: Esperantoni
-  - '?'
+    - Ĉu: savol yuklamasi
+    - vi: siz
+    - povas: qila olasiz
+    - per: vositasida
+    - la: aniq artikl
+    - nova: yangi
+    - lernolibro: darslik
+    - sufiĉe: yetarlicha
+    - rapide: tez
+    - lerni: oʻrganmoq
+    - Esperanton: Esperantoni
+    - '?'

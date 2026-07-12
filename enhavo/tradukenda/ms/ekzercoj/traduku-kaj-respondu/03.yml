@@ -1,6 +1,5 @@
--
-  demando: Adakah pelayan di hotel-hotel besar memahami banyak bahasa ? 
-  rektatraduko:  
+- demando: Adakah pelayan di hotel-hotel besar memahami banyak bahasa ?
+  rektatraduko:
     - Ĉu: Adakah
     - kelneroj: pelayan-pelayan
     - en: di
@@ -10,15 +9,14 @@
     - multajn: banyak
     - lingvojn: bahasa-bahasa
     - '?'
--
-  demando: Adakah anda tahu bahawa Anna suka lagu baru tentang seorang lelaki miskin dan seorang gadis cantik?
-  rektatraduko: 
+- demando: Adakah anda tahu bahawa Ana suka lagu baru tentang seorang lelaki miskin dan seorang gadis cantik?
+  rektatraduko:
     - Ĉu: Adakah
     - vi: anda
     - scias: tahu
     - ','
     - ĉu: adakah
-    - Anna: Anna 
+    - Ana: Ana
     - ŝatas: suka
     - la: itu
     - novan: baru
@@ -28,9 +26,8 @@
     - kaj: dan
     - belulino: seorang gadis cantik
     - '?'
--
-  demando: Di mana anda telah melihat seorang lelaki tua dan seorang lelaki muda yang telah membawa meja besar?
-  rektatraduko: 
+- demando: Di mana anda telah melihat seorang lelaki tua dan seorang lelaki muda yang telah membawa meja besar?
+  rektatraduko:
     - Kie: Di mana
     - vi: anda
     - vidis: telah melihat
@@ -45,9 +42,8 @@
     - grandan: besar
     - tablon: meja
     - '?'
--
-  demando: Bagaimana ia berlaku bahawa anda sekali lagi datang kepada kami tanpa adik beradik?
-  rektatraduko: 
+- demando: Bagaimana ia berlaku bahawa anda sekali lagi datang kepada kami tanpa adik beradik?
+  rektatraduko:
     - Kiel: Bagaimana
     - okazis: berlaku
     - ','
@@ -60,9 +56,8 @@
     - sen: tanpa
     - gefratoj: adik beradaik
     - '?'
--
-  demando: Bolehkah anda belajar Esperanto agak cepat dengan bantuan buku teks baru?
-  rektatraduko: 
+- demando: Bolehkah anda belajar Esperanto agak cepat dengan bantuan buku teks baru?
+  rektatraduko:
     - Ĉu: Bolehkah
     - vi: anda
     - povas: boleh

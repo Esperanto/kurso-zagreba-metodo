@@ -1,16 +1,14 @@
-- 
-  demando: Milyen volt a régi otthonod?
-  rektatraduko: 
+- demando: Milyen volt a régi otthonod?
+  rektatraduko:
     - Kia: Milyen
     - estis: volt
     - via: tiéd
     - malnova: régi
-    - hejmo: otthon 
+    - hejmo: otthon
     - '?'
-- 
-  demando: Melyik könyveket olvastad, és jók?
-  rektatraduko: 
-    - Kiujn: Melyikeket 
+- demando: Melyik könyveket olvastad, és jók?
+  rektatraduko:
+    - Kiujn: Melyikeket
     - librojn: könyveket
     - vi: te
     - legis: olvasott
@@ -18,26 +16,24 @@
     - ĉu: vajon
     - ili: azok
     - estas: vannak
-    - bonaj: jók 
+    - bonaj: jók
     - '?'
-- 
-  demando: "Mit csinált Anna és Márk Márk kicsi szobájában?"
+- demando: Mit csinált Ana és Márk Márk kicsi szobájában?
   rektatraduko:
     - Kion: Mit
     - faris: csinált
-    - Anna: Anna
+    - Ana: Ana
     - kaj: és
     - Marko: Márk
-    - en: -ban/ben 
+    - en: -ban/ben
     - la: a
     - malgranda: kicsi
     - ĉambro: szoba
-    - de: -nak a/nek a 
+    - de: -nak a/nek a
     - Marko: Márk
     - '?'
-- 
-  demando: Szeretsz könyveket olvasni a szerelemről?
-  rektatraduko: 
+- demando: Szeretsz könyveket olvasni a szerelemről?
+  rektatraduko:
     - Ĉu: Vajon
     - vi: te
     - ŝatas: szeret
@@ -46,25 +42,23 @@
     - pri: -ról/ről
     - amo: szerelem
     - '?'
-- 
-  demando: Ki megy veled majd az otthonodba?
-  rektatraduko: 
+- demando: Ki megy veled majd az otthonodba?
+  rektatraduko:
     - Kiu: Ki
     - iros: fog menni
     - kun: -val/vel
     - vi: te
-    - al: -hoz/hez/höz 
+    - al: -hoz/hez/höz
     - via: tiéd
     - hejmo: otthon
     - '?'
-- 
-  demando: "Milyenek a barátnőd szemei?"
-  rektatraduko: 
+- demando: Milyenek a barátnőd szemei?
+  rektatraduko:
     - Kiaj: Milyenek
     - estas: van
     - la: a
     - okuloj: szemei
-    - de: -nak a/-nek a 
+    - de: -nak a/-nek a
     - via: tiéd
     - amikino: barátnő
     - '?'

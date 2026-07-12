@@ -1,75 +1,70 @@
-- 
-  demando: Che cosa potrebbe rallegrare di più i tuoi genitori?
-  rektatraduko: 
-    - Kio: Che cosa
-    - povus: potrebbe
-    - plej: di più
-    - ĝojigi: rallegare
-    - viajn: tuoi
-    - gepatrojn: genitori
-    - '?'
-- 
-  demando: Se almeno tu volessi andare in centro (città) con me, dopo lo studio!
-  rektatraduko: 
-    - Se: Se
-    - almenaŭ: almeno
-    - vi: tu
-    - post: dopo
-    - la: lo
-    - lernado: studio
-    - irus: volessi andare
-    - kun: con
-    - mi: me
-    - en: in
-    - la: il 
-    - urbocentron: centro città
-    - '!'
-- 
-  demando: Dove desidereste viaggiare, se aveste abbastanza denaro e tempo?
-  rektatraduko: 
-    - Kien: (Verso) dove
-    - vi: voi
-    - dezirus: desidereste
-    - vojaĝi: viaggiare
-    - ',' 
-    - se: se
-    - vi: voi
-    - havus: aveste
-    - sufiĉe: abbastanza
-    - da: di (quantità)
-    - mono: denaro
-    - kaj: e
-    - tempo: tempo
-    - '?'
-- 
-  demando: State programmando di andare in automobile a Parigi, non vi sembra molto meglio con il treno?
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - vi: voi
-    - planas: programmate
-    - veturi: andare (con mezzi)
-    - al: a
-    - Parizo: Parigi
-    - per: tramite
-    - aŭto: automobile
-    - aŭ: o
-    - ĉu: (interrogativa)
-    - ne: non
-    - ŝajnas: sembra
-    - multe: molto
-    - pli: più
-    - bone: bene
-    - per: tramite
-    - vagonaro: treno
-    - '?'
-- 
-  demando: Perché uomini diversi spiegano le stesse idee in modo diverso?
-  rektatraduko: 
-    - Kial: Perché
-    - diversaj: diversi
-    - homoj: uomini
-    - klarigas: spiegano
-    - samajn: stesse
-    - ideojn: idee
-    - diversmaniere: in modo diverso?
-    - '?'
+- demando: Che cosa potrebbe rallegrare di più i tuoi genitori?
+  rektatraduko:
+  - Kio: Che cosa
+  - povus: potrebbe
+  - plej: di più
+  - ĝojigi: rallegare
+  - viajn: tuoi
+  - gepatrojn: genitori
+  - '?'
+- demando: Se almeno tu volessi andare in città con me, dopo lo studio!
+  rektatraduko:
+  - Se: Se
+  - almenaŭ: almeno
+  - vi: tu
+  - post: dopo
+  - la: lo
+  - lernado: studio
+  - irus: volessi andare
+  - kun: con
+  - mi: me
+  - en: in
+  - la: il
+  - urbon: città
+  - '!'
+- demando: Dove desidereste viaggiare, se aveste abbastanza denaro e tempo?
+  rektatraduko:
+  - Kien: (Verso) dove
+  - vi: voi
+  - dezirus: desidereste
+  - vojaĝi: viaggiare
+  - ','
+  - se: se
+  - vi: voi
+  - havus: aveste
+  - sufiĉe: abbastanza
+  - da: di (quantità)
+  - mono: denaro
+  - kaj: e
+  - tempo: tempo
+  - '?'
+- demando: State programmando di andare in automobile in Italia, non vi sembra molto meglio con il treno?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - vi: voi
+  - planas: programmate
+  - veturi: andare (con mezzi)
+  - al: a
+  - Italio: Italia
+  - per: tramite
+  - aŭto: automobile
+  - aŭ: o
+  - ĉu: (interrogativa)
+  - ne: non
+  - ŝajnas: sembra
+  - multe: molto
+  - pli: più
+  - bone: bene
+  - per: tramite
+  - vagonaro: treno
+  - '?'
+- demando: Perché uomini diversi spiegano le stesse idee in modo diverso?
+  rektatraduko:
+  - Kial: Perché
+  - diversaj: diversi
+  - homoj: uomini
+  - klarigas: spiegano
+  - samajn: stesse
+  - ideojn: idee
+  - diversmaniere: in modo diverso?
+  - '?'

@@ -1,10 +1,9 @@
-- 
-  demando: 당신은 내가 당신에게 나의 가장 새로운 책을 보여주기를 바랩니까?
-  rektatraduko: 
+- demando: 당신은 내가 당신에게 나의 가장 새로운 책을 보여주기를 바랩니까?
+  rektatraduko:
     - Ĉu: ~인가?
     - vi: 당신은
     - deziras: ~를 바라다
-    - ',' 
+    - ','
     - ke: (문장접속사)~하는 것
     - mi: 나
     - montru: 보여주라
@@ -15,22 +14,20 @@
     - novan: 새로운(목적격)
     - libron: 책을
     - '?'
-- 
-  demando: 내일 아침식사로 무엇을 먹고 싶은가요?
-  rektatraduko: 
+- demando: 내일 아침식사로 무엇을 먹고 싶은가요?
+  rektatraduko:
     - Kion: 무엇을
     - vi: 당신은
     - volas: 원한다
     - morgaŭ: 내일
     - matenmanĝi: 아침식사를 하다
     - '?'
-- 
-  demando: "언제 마르코가 도착할까요? 5시에 아니면 8시에?"
-  rektatraduko: 
+- demando: 언제 마르코가 도착할까요? 5시에 아니면 8시에?
+  rektatraduko:
     - Kiam: 언제
     - Marko: 마르코(Mark)
     - alvenos: 도착할 것이다
-    - ',' 
+    - ','
     - je: ~에
     - la: (그)
     - kvina: 5번쨰
@@ -40,13 +37,12 @@
     - oka: 8번째
     - horo: 시간
     - '?'
-- 
-  demando: 당신은 언제 알아챘나요? 전체 가족이 나를 후원자라고 부르는 것을.
-  rektatraduko: 
+- demando: 당신은 언제 알아챘나요? 전체 가족이 나를 후원자라고 부르는 것을.
+  rektatraduko:
     - Kiam: 언제
     - vi: 당신은
     - rimarkis: 알아챘다
-    - ','  
+    - ','
     - ke: ~라는 것을
     - la: (그)
     - tuta: 전체
@@ -55,18 +51,18 @@
     - min: 나를
     - bonfarulo: 후원자
     - '?'
-- 
-  demando: 내가 보낸 그 소책자가 당신에게 도움이 되었나요?
-  rektatraduko: 
+- demando: 내가 보낸 그 소책자가 당신에게 도움이 되었나요?
+  rektatraduko:
     - Ĉu: ~인가
     - la: (그)
     - libreto: 소책자
-    - estis: ~이었다
-    - utila: 유용한
-    - al: ~에게
-    - vi: 당신
-    - ',' 
+    - ','
     - kiun: ~한 그것을
     - mi: 내가
     - sendis: 보냈다
+    - al: ~에게
+    - vi: 당신
+    - ','
+    - estis: ~이었다
+    - utila: 유용한
     - '?'

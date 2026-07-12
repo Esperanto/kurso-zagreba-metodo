@@ -71,10 +71,23 @@ check-yaml:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@"$(PYTHON)" -m fonto.py.kontrolu_yaml
 	@test -x "$(YAML_SCHEMA_LINTER)" || { printf '%s\n' 'Mankas $(YAML_SCHEMA_LINTER). Rulu `make install` unue.' >&2; exit 1; }
-	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.yml" enhavo/tradukenda/*/fasado/*.yml
-	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.yml" enhavo/tradukenda/*/vortaro/*.yml
-	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku/*.yml
-	@"$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku-kaj-respondu/*.yml
+	@printf '%s' 'startis fasado-skemoj... '
+	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.yml" enhavo/tradukenda/*/fasado/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }
+	@printf '%s\n' 'bone'
+	@printf '%s' 'startis vortaro-skemoj... '
+	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.yml" enhavo/tradukenda/*/vortaro/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }
+	@printf '%s\n' 'bone'
+	@printf '%s' 'startis traduku-skemoj... '
+	@for leciono in 01 02 03 04 05 06 07 08 09 10 11 12; do \
+		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku/$${leciono}.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku/$${leciono}.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
+	done
+	@printf '%s\n' 'bone'
+	@printf '%s' 'startis traduku-kaj-respondu-skemoj... '
+	@for leciono in 01 02 03 04 05 06 07 08 09 10 11 12; do \
+		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu/$${leciono}.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku-kaj-respondu/$${leciono}.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
+	done
+	@printf '%s\n' 'bone'
+	@printf '%s\n' 'Sukcesis: kontrolis YAML-dosierojn'
 
 check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }

@@ -1,5 +1,4 @@
--
-  demando: Înțeleg chelnerii din hotelurile mari multe limbi?
+- demando: Înțeleg chelnerii din hotelurile mari multe limbi?
   rektatraduko:
     - Ĉu: oare
     - kelneroj: chelneri
@@ -10,15 +9,14 @@
     - multajn: multe
     - lingvojn: limbi
     - '?'
--
-  demando: Știi dacă Annei îi place noul cântec despre un om sărac și o fată frumoasă?
+- demando: Știi dacă Anai îi place noul cântec despre un om sărac și o fată frumoasă?
   rektatraduko:
     - Ĉu: oare
     - vi: tu
     - scias: știi
     - ','
     - ĉu: dacă
-    - Anna: Anna
+    - Ana: Ana
     - ŝatas: îi place
     - la: (articol)
     - novan: noul
@@ -28,8 +26,7 @@
     - kaj: și
     - belulino: fată frumoasă
     - '?'
--
-  demando: Unde i-ai văzut pe bătrânul și pe tânărul care purtau o masă mare?
+- demando: Unde i-ai văzut pe bătrânul și pe tânărul care purtau o masă mare?
   rektatraduko:
     - Kie: Unde
     - vi: tu
@@ -45,8 +42,7 @@
     - grandan: mare
     - tablon: masă
     - '?'
--
-  demando: Cum s-a întâmplat că ai venit din nou la noi fără frați și surori?
+- demando: Cum s-a întâmplat că ai venit din nou la noi fără frați și surori?
   rektatraduko:
     - Kiel: Cum
     - okazis: s-a întâmplat
@@ -60,8 +56,7 @@
     - sen: fără
     - gefratoj: frați și surori
     - '?'
--
-  demando: Poți învăța Esperanto destul de repede cu noul manual?
+- demando: Poți învăța Esperanto destul de repede cu noul manual?
   rektatraduko:
     - Ĉu: oare
     - vi: tu

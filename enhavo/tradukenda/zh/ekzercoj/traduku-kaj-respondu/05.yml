@@ -37,9 +37,9 @@
   demando: 是否有人曾帮助你打开那扇在旧房子的门 ？
   rektatraduko: 
     - Ĉu: 是否
-    - iu: someone 
+    - iu: 有人
     - helpis: 曾帮助
-    - al: '' 
+    - al: 给
     - vi: 你
     - malfermi: 打开
     - la: 那
@@ -60,5 +60,5 @@
     - aŭskulti: 听
     - min: 我
     - pli: 更多
-    - longe: ''
+    - longe: 久
     - '?'

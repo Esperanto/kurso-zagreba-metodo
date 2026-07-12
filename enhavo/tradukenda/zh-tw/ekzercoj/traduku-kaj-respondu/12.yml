@@ -1,20 +1,18 @@
-- 
-  demando: 我們是否彼此將再見，無論何時，無論何地？
-  rektatraduko: 
+- demando: 我們是否彼此將再見，無論何時，無論何地？
+  rektatraduko:
     - Ĉu: 是否
     - ni: 我們
     - revidos: 將再見
     - nin: 我們，彼此
-    - ',' 
+    - ','
     - kie: 哪裡
     - ajn: 任何
     - kaj: 和
     - kiam: 何時
     - ajn: 任何
     - '?'
-- 
-  demando: 我何時可以取回那些書的另一半？
-  rektatraduko: 
+- demando: 我何時可以取回那些書的另一半？
+  rektatraduko:
     - Kiam: 何時
     - mi: 我
     - rericevos: 將收回
@@ -25,9 +23,8 @@
     - la: 这，那
     - libroj: 書
     - '?'
-- 
-  demando: 你是否將需要超过四個月時間為那些工作？
-  rektatraduko: 
+- demando: 你是否將需要超过四個月時間為那些工作？
+  rektatraduko:
     - Ĉu: 是否
     - vi: 你
     - bezonos: 將需要
@@ -39,24 +36,22 @@
     - tiuj: 那些
     - laboroj: 工作
     - '?'
-- 
-  demando: 為什麼越是寒冷，我們等待越久？
-  rektatraduko: 
+- demando: 為什麼越是寒冷，我們等待越久？
+  rektatraduko:
     - Kial: 為什麼
-    - estas: 是
-    - des: 越是
-    - pli: 多
-    - malvarma: 冷
-    - ',' 
     - ju: 越是
     - pli: 多
     - longe: 久
     - ni: 我們
     - atendas: 等候
+    - ','
+    - des: 越是
+    - pli: 多
+    - malvarme: 冷
+    - estas: 是
     - '?'
-- 
-  demando: 你是否和任何男人一起都滿意？
-  rektatraduko: 
+- demando: 你是否和任何男人一起都滿意？
+  rektatraduko:
     - Ĉu: 是否
     - vi: 你
     - estus: 或許是

@@ -1,15 +1,13 @@
-- 
-  demando: Якiм быў ваш стары дом?
-  rektatraduko: 
+- demando: Якiм быў ваш стары дом?
+  rektatraduko:
     - Kia: Якi
     - estis: быў
     - via: ваш
     - malnova: стары
-    - hejmo: дом 
+    - hejmo: дом
     - '?'
-- 
-  demando: Якiя кнiгi вы чыталi, i цi былi яны добрыя?
-  rektatraduko: 
+- demando: Якiя кнiгi вы чыталi, i цi былi яны добрыя?
+  rektatraduko:
     - Kiujn: якiя, якiх
     - librojn: кнiгi
     - vi: вы
@@ -20,12 +18,11 @@
     - estas: ёсьць
     - bonaj: добрыя
     - '?'
-- 
-  demando: Што рабiлi Анна i Марк у маленькiм пакоi Марка?
+- demando: Што рабiлi Ана i Марк у маленькiм пакоi Марка?
   rektatraduko:
     - Kion: Што
     - faris: рабiлi
-    - Anna: Анна
+    - Ana: Ана
     - kaj: i
     - Marko: Марк
     - en: у
@@ -35,9 +32,8 @@
     - de: притяжательный предлог
     - Marko: Марк
     - '?'
-- 
-  demando: Ты любiш чытаць кнiгi пра каханьне?
-  rektatraduko: 
+- demando: Ты любiш чытаць кнiгi пра каханьне?
+  rektatraduko:
     - Ĉu: Вопросительная частица
     - vi: ты
     - ŝatas: любiш
@@ -46,20 +42,18 @@
     - pri: пра
     - amo: каханьне
     - '?'
-- 
-  demando: Хто пойдзу з табой да твайго дома?
-  rektatraduko: 
+- demando: Хто пойдзу з табой да твайго дома?
+  rektatraduko:
     - Kiu: Хто
     - iros: пойдзе, будзе iсьцi
     - kun: з
     - vi: ты
-    - al: да 
+    - al: да
     - via: твой
     - hejmo: дом
     - '?'
-- 
-  demando: Якiя вочы мае твая дзяучына?
-  rektatraduko: 
+- demando: Якiя вочы мае твая дзяучына?
+  rektatraduko:
     - Kiaj: Якiя
     - estas: ёсьць
     - la: азначальны артыкль

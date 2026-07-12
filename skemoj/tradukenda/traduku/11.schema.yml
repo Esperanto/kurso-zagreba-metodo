@@ -1,0 +1,57 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 11
+allOf:
+- $ref: ../traduku.schema.yml
+- maxItems: 13
+- contains:
+    required:
+    - estraro
+  maxContains: 1
+- contains:
+    required:
+    - tagmeze
+  maxContains: 1
+- contains:
+    required:
+    - posttagmeze
+  maxContains: 1
+- contains:
+    required:
+    - malsata
+  maxContains: 1
+- contains:
+    required:
+    - interkonsenti
+  maxContains: 1
+- contains:
+    required:
+    - manĝilaro
+  maxContains: 1
+- contains:
+    required:
+    - vidpunkto
+  maxContains: 1
+- contains:
+    required:
+    - malfermilo
+  maxContains: 1
+- contains:
+    required:
+    - noktomezo
+  maxContains: 1
+- contains:
+    required:
+    - publikigi
+  maxContains: 1
+- contains:
+    required:
+    - pagigi
+  maxContains: 1
+- contains:
+    required:
+    - duflanka
+  maxContains: 1
+- contains:
+    required:
+    - aliflanke
+  maxContains: 1

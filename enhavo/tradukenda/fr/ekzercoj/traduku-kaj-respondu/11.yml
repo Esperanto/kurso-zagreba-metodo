@@ -1,6 +1,5 @@
-- 
-  demando: Pouvez-vous apporter le médicament de ma sœur ?
-  rektatraduko: 
+- demando: Pouvez-vous apporter le médicament de ma sœur ?
+  rektatraduko:
     - Ĉu: Est-ce que
     - vi: vous
     - povas: pouvez
@@ -11,27 +10,24 @@
     - mia: ma
     - fratino: sœur
     - '?'
-- 
-  demando: Quand as-tu acheté cet instrument de musique ?
-  rektatraduko: 
+- demando: Quand as-tu acheté cet instrument de musique ?
+  rektatraduko:
     - Kiam: Quand
     - vi: tu
     - aĉetis: as acheté
     - tiun: ce, cet
     - muzikilon: instrument de musique
     - '?'
-- 
-  demando: Qui a utilisé ma clé dernièrement ?
-  rektatraduko: 
+- demando: Qui a utilisé ma clé dernièrement ?
+  rektatraduko:
     - Kiu: Qui
     - laste: dernièrement
     - uzis: a utilisé
     - mian: ma
     - ŝlosilon: clé
     - '?'
-- 
-  demando: Vous êtes-vous aussi déplacés à Venise en gondole ?
-  rektatraduko: 
+- demando: Vous êtes-vous aussi déplacés à Venise en gondole ?
+  rektatraduko:
     - Ĉu: Est-ce que
     - vi: vous
     - en: à, dans
@@ -41,14 +37,13 @@
     - per: en
     - gondolo: gondole
     - '?'
-- 
-  demando: "Est-ce que tu pourras t'endormir quand ce sera silencieux ?"
-  rektatraduko: 
+- demando: Est-ce que tu pourras t'endormir quand ce sera silencieux ?
+  rektatraduko:
     - Ĉu: Est-ce que
     - vi: tu
     - povos: pourras
-    - ekdormi: "[t'] endormir"
-    - ',' 
-    - kiam: quand 
-    - silentiĝis: "ce sera silencieux (litt. c'est devenu silencieux)"
+    - ekdormi: '[t''] endormir'
+    - ','
+    - kiam: quand
+    - silentiĝos: ce sera silencieux (litt. c'est devenu silencieux)
     - '?'

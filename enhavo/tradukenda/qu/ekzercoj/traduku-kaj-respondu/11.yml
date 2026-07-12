@@ -1,5 +1,4 @@
--
-  demando: Panaypa hampinta apamuyta atinkichu?
+- demando: Panaypa hampinta apamuyta atinkichu?
   rektatraduko:
     - Ĉu: Chu
     - vi: qan
@@ -11,8 +10,7 @@
     - mia: ñuqaq
     - fratino: pana
     - '?'
--
-  demando: Hayk'aqtaq chay taki llamk'anata rantirqanki?
+- demando: Hayk'aqtaq chay taki llamk'anata rantirqanki?
   rektatraduko:
     - Kiam: Hayk'aq
     - vi: qan
@@ -20,8 +18,7 @@
     - tiun: chayta
     - muzikilon: taki llamk'anata
     - '?'
--
-  demando: Pitaq qhipa kutipi ñuqaq kichanayta llamk'achirqan?
+- demando: Pitaq qhipa kutipi ñuqaq kichanayta llamk'achirqan?
   rektatraduko:
     - Kiu: Pi
     - laste: qhipa kutipi
@@ -29,8 +26,7 @@
     - mian: ñuqaq
     - ŝlosilon: kichanata
     - '?'
--
-  demando: Veneciapi gondolawanpas purirqankichu?
+- demando: Veneciapi gondolawanpas purirqankichu?
   rektatraduko:
     - Ĉu: Chu
     - vi: qan
@@ -41,8 +37,7 @@
     - per: wan
     - gondolo: gondola
     - '?'
--
-  demando: Upalla kaptinqa puñuyta qallarina atinkichu?
+- demando: Upalla kaptinqa puñuyta qallarina atinkichu?
   rektatraduko:
     - Ĉu: Chu
     - vi: qan
@@ -50,5 +45,5 @@
     - ekdormi: puñuyta qallariy
     - ','
     - kiam: hayk'aq
-    - silentiĝis: upalla tukurqa
+    - silentiĝos: upalla tukurqa
     - '?'

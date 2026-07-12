@@ -1,5 +1,4 @@
--
-  demando: Aswan musuq liwruyta qanman rikuchinayta munankichu?
+- demando: Aswan musuq liwruyta qanman rikuchinayta munankichu?
   rektatraduko:
     - Ĉu: Chu
     - vi: qan
@@ -15,8 +14,7 @@
     - novan: musuq
     - libron: liwruta
     - '?'
--
-  demando: Paqarin tutamanta imata mikhuyta munanki?
+- demando: Paqarin tutamanta imata mikhuyta munanki?
   rektatraduko:
     - Kion: Imata
     - vi: qan
@@ -24,8 +22,7 @@
     - morgaŭ: paqarin
     - matenmanĝi: tutamanta mikhuy
     - '?'
--
-  demando: Hayk'aqtaq Marko chayamunqa, pichqa urapi icha pusaq urapichu?
+- demando: Hayk'aqtaq Marko chayamunqa, pichqa urapi icha pusaq urapichu?
   rektatraduko:
     - Kiam: Hayk'aq
     - Marko: Marko
@@ -40,8 +37,7 @@
     - oka: pusaq kaq
     - horo: ura
     - '?'
--
-  demando: Hayk'aqtaq llapan ayllu ñuqata allin ruwaq nispa sutichasqanta repararqanki?
+- demando: Hayk'aqtaq llapan ayllu ñuqata allin ruwaq nispa sutichasqanta repararqanki?
   rektatraduko:
     - Kiam: Hayk'aq
     - vi: qan
@@ -55,18 +51,18 @@
     - min: ñuqata
     - bonfarulo: allin ruwaq
     - '?'
--
-  demando: Qanman apachimusqay huch'uy liwruqa qanpaq allinchu karqa?
+- demando: Qanman apachimusqay huch'uy liwruqa qanpaq allinchu karqa?
   rektatraduko:
     - Ĉu: Chu
     - la: riqsisqa
     - libreto: huch'uy liwru
-    - estis: karqa
-    - utila: allinpaq
-    - al: man
-    - vi: qan
     - ','
     - kiun: mayqinta
     - mi: ñuqa
     - sendis: apachirqani
+    - al: man
+    - vi: qan
+    - ','
+    - estis: karqa
+    - utila: allinpaq
     - '?'

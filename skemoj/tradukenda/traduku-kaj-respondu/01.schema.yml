@@ -1,0 +1,145 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 01
+allOf:
+  - $ref: ../traduku-kaj-respondu.schema.yml
+  - minItems: 5
+    prefixItems:
+      - properties:
+          rektatraduko:
+            minItems: 5
+            prefixItems:
+              - type: object
+                required:
+                  - Kiu
+              - type: object
+                required:
+                  - estas
+              - type: object
+                required:
+                  - via
+              - type: object
+                required:
+                  - amikino
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 10
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - via
+              - type: object
+                required:
+                  - amikino
+              - type: object
+                required:
+                  - Ana
+              - type: object
+                required:
+                  - skribas
+              - type: object
+                required:
+                  - nun
+              - type: object
+                required:
+                  - en
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - ĉambro
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 10
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - amiko
+              - type: object
+                required:
+                  - de
+              - type: object
+                required:
+                  - via
+              - type: object
+                required:
+                  - patro
+              - type: object
+                required:
+                  - laboras
+              - type: object
+                required:
+                  - en
+              - type: object
+                required:
+                  - hotelo
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 9
+            prefixItems:
+              - type: object
+                required:
+                  - Kio
+              - type: object
+                required:
+                  - estas
+              - type: object
+                required:
+                  - sur
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - labortablo
+              - type: object
+                required:
+                  - en
+              - type: object
+                required:
+                  - nia
+              - type: object
+                required:
+                  - ĉambro
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 7
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - Esperanto-lernolibro
+              - type: object
+                required:
+                  - estas
+              - type: object
+                required:
+                  - sur
+              - type: object
+                required:
+                  - via
+              - type: object
+                required:
+                  - tablo
+              - const: '?'
+            items: false
+    items: false

@@ -1,23 +1,21 @@
-- 
-  demando: ¿Volveremos a vernos, dondequiera y cuandoquiera que sea?
-  rektatraduko: 
+- demando: ¿Volveremos a vernos, dondequiera y cuandoquiera que sea?
+  rektatraduko:
     - Ĉu: Acaso
     - ni: Nosotros
     - revidos: veremos de nuevo
     - nin: nos
-    - ',' 
+    - ','
     - kie: donde
     - ajn: quiera
-    - kaj: 'y'
+    - kaj: y
     - kiam: cuando
     - ajn: quiera
     - '?'
-- 
-  demando: ¿Cuándo devolveré la otra mitad de los libros?
-  rektatraduko: 
+- demando: ¿Cuándo devolveré la otra mitad de los libros?
+  rektatraduko:
     - Kiam: Cuándo
     - mi: yo
-    - redonos: devolveré
+    - rericevos: devolveré
     - la: la
     - alian: otra
     - duonon: mitad
@@ -25,9 +23,8 @@
     - la: los
     - libroj: libros
     - '?'
-- 
-  demando: ¿Necesitarás más de un cuarto de año para esos trabajos?
-  rektatraduko: 
+- demando: ¿Necesitarás más de un cuarto de año para esos trabajos?
+  rektatraduko:
     - Ĉu: Acaso
     - vi: Tú
     - bezonos: necesitarás
@@ -39,28 +36,26 @@
     - tiuj: esos
     - laboroj: trabajos
     - '?'
-- 
-  demando: ¿Por qué cuanto más frío hace, más tiempo esperamos?
-  rektatraduko: 
+- demando: ¿Por qué cuanto más frío hace, más tiempo esperamos?
+  rektatraduko:
     - Kial: Por qué
     - ju: cuanto
-    - pli: más
-    - malvarme: frío
-    - estas: está
-    - ',' 
-    - des: tanto
     - pli: más
     - longe: largo
     - ni: nosotros
     - atendas: esperamos
+    - ','
+    - des: tanto
+    - pli: más
+    - malvarme: frío
+    - estas: está
     - '?'
-- 
-  demando: ¿Podrías ser feliz con un hombre cualquiera?
-  rektatraduko: 
+- demando: ¿Podrías ser feliz con un hombre cualquiera?
+  rektatraduko:
     - Ĉu: Acaso
     - vi: Tú
     - estus: estarías
-    - feliĉa: feliz
+    - kontenta: feliz
     - kun: con
     - iu: algún
     - ajn: cualquiera

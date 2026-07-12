@@ -1,15 +1,13 @@
--
-  demando: کی دوباره شما را خواهم دید؟
-  rektatraduko: 
+- demando: کی دوباره شما را خواهم دید؟
+  rektatraduko:
     - Kiam: کی
-    - mi: من  
+    - mi: من
     - revidos: دوباره خواهم دید
     - vin: شما را
     - '?'
--
-  demando: چه مدت (است که) دارید زبان بین المللی را یاد می‌گیرید؟
-  rektatraduko: 
-    - Kiel: چه
+- demando: چه مدت (است که) دارید زبان بین المللی را یاد می‌گیرید؟
+  rektatraduko:
+    - Kiom: چقدر
     - longe: مدت
     - vi: شما
     - lernas: دارید یاد می‌گیرید
@@ -17,9 +15,8 @@
     - Internacian: بین المللی
     - Lingvon: زبان
     - '?'
--
-  demando: کتاب جدیدِ همراه با عکس من کجاست؟
-  rektatraduko: 
+- demando: کتاب جدیدِ همراه با عکس من کجاست؟
+  rektatraduko:
     - Kie: کجا
     - estas: هست
     - mia: مال من
@@ -28,9 +25,8 @@
     - kun: همراه با
     - fotoj: عکس‌ها
     - '?'
--
-  demando: بعد از ناهار به کجا می‌روید؟
-  rektatraduko: 
+- demando: بعد از ناهار به کجا می‌روید؟
+  rektatraduko:
     - Kien: به کجا
     - vi: شما
     - iros: خواهید رفت
@@ -38,15 +34,14 @@
     - la: حرف تعریف
     - tagmanĝo: ناهار
     - '?'
--
-  demando: آیا کسی می‌تواند وقتی که سرد است، در اتاق را ببندد؟
-  rektatraduko: 
+- demando: آیا کسی می‌تواند وقتی که سرد است، در اتاق را ببندد؟
+  rektatraduko:
     - Ĉu: آیا
     - oni: کسی
-    - povas: می تواند 
+    - povas: می تواند
     - fermi: ببندد (بستن)
     - la: حرف تعریف
-    - pordon: در 
+    - pordon: در
     - de: کسره (ـِ)
     - la: حرف تعریف
     - ĉambro: اتاق
@@ -55,10 +50,9 @@
     - estas: است
     - malvarme: سرد
     - '?'
--
-  demando: چه مدت عصبانی هستید اگر کسی پول زیادی از شما ببرد؟
-  rektatraduko: 
-    - Kiel: چه
+- demando: چه مدت عصبانی هستید اگر کسی پول زیادی از شما ببرد؟
+  rektatraduko:
+    - Kiom: چقدر
     - longe: مدت
     - vi: شما
     - koleras: عصبانی هستید

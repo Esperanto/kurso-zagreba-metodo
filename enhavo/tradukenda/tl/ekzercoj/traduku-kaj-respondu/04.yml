@@ -1,67 +1,67 @@
 - demando: Kailan kita makikitang muli?
   rektatraduko:
-  - Kiam: Kailan
-  - mi: ako
-  - revidos: makikitang muli
-  - vin: ikaw
-  - '?'
+    - Kiam: Kailan
+    - mi: ako
+    - revidos: makikitang muli
+    - vin: ikaw
+    - '?'
 - demando: Gaano ka na katagal nag-aaral ng internasyonal na wika?
   rektatraduko:
-  - Kiel: Paano
-  - longe: katagal
-  - vi: ikaw
-  - lernas: nag-aaral
-  - la: ang
-  - Internacian: internasyonal
-  - Lingvon: wika
-  - '?'
+    - Kiom: magkano
+    - longe: katagal
+    - vi: ikaw
+    - lernas: nag-aaral
+    - la: ang
+    - Internacian: internasyonal
+    - Lingvon: wika
+    - '?'
 - demando: Nasaan ang bago kong aklat na may mga litrato?
   rektatraduko:
-  - Kie: Saan
-  - estas: ay
-  - mia: aking
-  - nova: bago
-  - libro: aklat
-  - kun: kasama
-  - fotoj: mga litrato
-  - '?'
+    - Kie: Saan
+    - estas: ay
+    - mia: aking
+    - nova: bago
+    - libro: aklat
+    - kun: kasama
+    - fotoj: mga litrato
+    - '?'
 - demando: Saan ka pupunta pagkatapos ng tanghalian?
   rektatraduko:
-  - Kien: Papunta saan
-  - vi: ikaw
-  - iros: pupunta
-  - post: pagkatapos ng
-  - la: ang
-  - tagmanĝo: tanghalian
-  - '?'
+    - Kien: Papunta saan
+    - vi: ikaw
+    - iros: pupunta
+    - post: pagkatapos ng
+    - la: ang
+    - tagmanĝo: tanghalian
+    - '?'
 - demando: Maaari bang isara ang pinto ng silid kapag malamig?
   rektatraduko:
-  - Ĉu: ba
-  - oni: ang isa
-  - povas: maaari
-  - fermi: isara
-  - la: ang
-  - pordon: pinto
-  - de: ng
-  - la: ang
-  - ĉambro: silid
-  - ','
-  - kiam: kapag
-  - estas: ay
-  - malvarme: malamig
-  - '?'
+    - Ĉu: ba
+    - oni: ang isa
+    - povas: maaari
+    - fermi: isara
+    - la: ang
+    - pordon: pinto
+    - de: ng
+    - la: ang
+    - ĉambro: silid
+    - ','
+    - kiam: kapag
+    - estas: ay
+    - malvarme: malamig
+    - '?'
 - demando: Gaano ka katagal nagagalit kung kumukuha ang mga tao ng maraming pera mula sa iyo?
   rektatraduko:
-  - Kiel: Paano
-  - longe: katagal
-  - vi: ikaw
-  - koleras: nagagalit
-  - ','
-  - se: kung
-  - oni: ang isa
-  - forprenas: kumukuha palayo
-  - de: mula sa
-  - vi: ikaw
-  - multan: marami
-  - monon: pera
-  - '?'
+    - Kiom: magkano
+    - longe: katagal
+    - vi: ikaw
+    - koleras: nagagalit
+    - ','
+    - se: kung
+    - oni: ang isa
+    - forprenas: kumukuha palayo
+    - de: mula sa
+    - vi: ikaw
+    - multan: marami
+    - monon: pera
+    - '?'

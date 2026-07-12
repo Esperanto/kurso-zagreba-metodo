@@ -1,7 +1,6 @@
--
-  demando: Do waiters in large hotels understand a lot of languages? 
-  rektatraduko:  
-    - Ĉu: Whether 
+- demando: Do waiters in large hotels understand a lot of languages?
+  rektatraduko:
+    - Ĉu: Whether
     - kelneroj: даяшылар
     - en: in
     - grandaj: үлкен
@@ -10,15 +9,14 @@
     - multajn: көп
     - lingvojn: тілдер
     - '?'
--
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
-  rektatraduko: 
+- demando: Do you know that Ана likes a new song about a poor man and a beautiful girl?
+  rektatraduko:
     - Ĉu: Whether
     - vi: you
     - scias: know
     - ','
     - ĉu: whether
-    - Anna: Анна 
+    - Ana: Ана
     - ŝatas: likes
     - la: the
     - novan: жаңа
@@ -28,9 +26,8 @@
     - kaj: and
     - belulino: a beautiful girl
     - '?'
--
-  demando: Where did you see an old man and a young man who were carrying a large table?
-  rektatraduko: 
+- demando: Where did you see an old man and a young man who were carrying a large table?
+  rektatraduko:
     - Kie: Where
     - vi: you
     - vidis: did see
@@ -45,9 +42,8 @@
     - grandan: big
     - tablon: table
     - '?'
--
-  demando: How did it happen that you again came to us without brothers-and-sisters?
-  rektatraduko: 
+- demando: How did it happen that you again came to us without brothers-and-sisters?
+  rektatraduko:
     - Kiel: How
     - okazis: did it happen
     - ','
@@ -55,19 +51,18 @@
     - vi: you
     - denove: again
     - venis: came
-    - al: to 
+    - al: to
     - ni: us
     - sen: without
     - gefratoj: brothers-and-sisters
     - '?'
--
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
-  rektatraduko: 
+- demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  rektatraduko:
     - Ĉu: Whether
     - vi: you
     - povas: can
     - per: with-the-help-of
-    - la: the 
+    - la: the
     - nova: жаңа
     - lernolibro: textbook
     - sufiĉe: quite

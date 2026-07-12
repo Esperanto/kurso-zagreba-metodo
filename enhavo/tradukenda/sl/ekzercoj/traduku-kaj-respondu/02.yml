@@ -1,15 +1,13 @@
-- 
-  demando: Kakšen je bil tvoj stari dom?
-  rektatraduko: 
+- demando: Kakšen je bil tvoj stari dom?
+  rektatraduko:
     - Kia: Kakšen
     - estis: je bil
     - via: tvoj
     - malnova: stari
     - hejmo: dom
     - '?'
-- 
-  demando: Katere knjige si čital in ali so dobre?
-  rektatraduko: 
+- demando: Katere knjige si čital in ali so dobre?
+  rektatraduko:
     - Kiujn: Katere
     - librojn: knjige
     - vi: (zaimek ti)
@@ -20,9 +18,8 @@
     - estas: so
     - bonaj: dobre
     - '?'
-- 
-  demando: Kaj sta delala Ana in Marko v Markovi majhni sobi?
-  rektatraduko: 
+- demando: Kaj sta delala Ana in Marko v Markovi majhni sobi?
+  rektatraduko:
     - Kion: Kaj
     - faris: sta delala
     - Ana: Ana
@@ -35,20 +32,18 @@
     - de: (predlog od)
     - Marko: Markovi
     - '?'
-- 
-  demando: Ali rad bereš knjige o ljubezni?
-  rektatraduko: 
+- demando: Ali rad bereš knjige o ljubezni?
+  rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek ti)
-    - ŝatas: rad 
+    - ŝatas: rad
     - legi: bereš
     - librojn: knjige
     - pri: o
     - amo: ljubezni
     - '?'
-- 
-  demando: Kdo bo šel s teboj v tvoj dom?
-  rektatraduko: 
+- demando: Kdo bo šel s teboj v tvoj dom?
+  rektatraduko:
     - Kiu: Kdo
     - iros: bo šel
     - kun: s
@@ -57,9 +52,8 @@
     - via: tvoj
     - hejmo: dom
     - '?'
-- 
-  demando: Kakšne so oči tvoje prijateljice?
-  rektatraduko: 
+- demando: Kakšne so oči tvoje prijateljice?
+  rektatraduko:
     - Kiaj: Kakšne
     - estas: so
     - la: (člen)

@@ -1,6 +1,5 @@
-- 
-  demando: Tko će očistiti kuhinju nakon ručka?
-  rektatraduko: 
+- demando: Tko će očistiti kuhinju nakon ručka?
+  rektatraduko:
     - Kiu: Tko
     - purigos: očistit će
     - la: (član)
@@ -9,31 +8,26 @@
     - la: (član)
     - tagmanĝo: ručak
     - '?'
-- 
-  demando: "Što želite piti: čaj, malo kave, čašu vode ili nećete ništa?"
-  rektatraduko: 
+- demando: 'Što želite piti: čaj, malo kave, čašu vode ili nećete ništa?'
+  rektatraduko:
     - Kion: Što
     - vi: vi
-    - deziras: želite
+    - volas: želiš
     - trinki: piti
-    - ':' 
+    - ':'
     - teon: čaj
-    - ',' 
+    - ','
     - iom: malo
     - da: od
     - kafo: kave
-    - ',' 
-    - glason: čašu
-    - da: od
-    - akvo: vode
     - aŭ: ili
+    - ĉu: je li
     - vi: vi
-    - deziras: želite
+    - volas: želiš
     - nenion: ništa
     - '?'
-- 
-  demando: Zbog čega si tako iznenada odlučio obnoviti svoju sobicu i kupiti nekoliko skupih knjiga?
-  rektatraduko: 
+- demando: Zbog čega si tako iznenada odlučio obnoviti svoju sobicu i kupiti nekoliko skupih knjiga?
+  rektatraduko:
     - Kial: Zašto
     - vi: ti
     - tiel: tako
@@ -42,27 +36,22 @@
     - renovigi: obnoviti
     - vian: tvoj
     - ĉambreton: mala soba
-    - kaj: i
-    - aĉeti: kupiti
-    - iom: nekoliko
-    - da: od
-    - multekostaj: skupih
-    - libroj: knjiga
     - '?'
-- 
-  demando: Kamo si stavio čiste čaše za vino?
-  rektatraduko: 
-    - Kien: Kamo
+- demando: Kamo si stavio čiste čaše za vino?
+  rektatraduko:
+    - Al: prema
+    - kiu: tko
     - vi: ti
-    - metis: stavio si
+    - donis: did give
+    - la: (član)
     - purajn: čiste
     - glasojn: čaše
-    - por: za 
+    - por: za
+    - la: (član)
     - vino: vino
     - '?'
-- 
-  demando: Protiv koga je igrao tvoj sportski klub prije dva tjedna?
-  rektatraduko: 
+- demando: Protiv koga je igrao tvoj sportski klub prije dva tjedna?
+  rektatraduko:
     - Kontraŭ: Protiv
     - kiu: tko
     - ludis: igrao je
@@ -72,21 +61,20 @@
     - du: dva
     - semajnoj: tjedna
     - '?'
-- 
-  demando: Viđaš li često policajca koji stanuje u stanu iznad tvog?
-  rektatraduko: 
+- demando: Viđaš li često policajca koji stanuje u stanu iznad tvog?
+  rektatraduko:
     - Ĉu: Da li
     - vi: ti
     - ofte: često
     - vidas: vidiš
     - la: (član)
     - policiston: policajac
-    - ',' 
+    - ','
     - kiu: tko
     - loĝas: stanuje
     - en: u
     - la: (član)
     - loĝejo: stan
     - super: iznad
-    - via: tvoj
+    - vi: ti
     - '?'

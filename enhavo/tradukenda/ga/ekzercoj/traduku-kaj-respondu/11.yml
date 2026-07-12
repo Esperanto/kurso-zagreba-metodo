@@ -1,6 +1,5 @@
-- 
-  demando: An féidir leat cógas mo dheirféar a thabhairt leat?
-  rektatraduko: 
+- demando: An féidir leat cógas mo dheirféar a thabhairt leat?
+  rektatraduko:
     - Ĉu: An
     - vi: tú
     - povas: féidir
@@ -11,27 +10,24 @@
     - mia: mo
     - fratino: deirfiúr
     - '?'
-- 
-  demando: Cathain a cheannaís an uirlis cheoil sin?
-  rektatraduko: 
+- demando: Cathain a cheannaís an uirlis cheoil sin?
+  rektatraduko:
     - Kiam: Cathain
     - vi: tú
     - aĉetis: cheannaigh
     - tiun: sin
-    - muzikilon: uirlis cheoil 
+    - muzikilon: uirlis cheoil
     - '?'
-- 
-  demando: Cé a d'úsáid m'eochair an uair dheireanach?
-  rektatraduko: 
+- demando: Cé a d'úsáid m'eochair an uair dheireanach?
+  rektatraduko:
     - Kiu: Cé
     - laste: an uair dheireanach
     - uzis: d'úsáid
     - mian: mo
     - ŝlosilon: eochair
     - '?'
-- 
-  demando: Ar thaistilís go Veinéis i ngondala freisin?
-  rektatraduko: 
+- demando: Ar thaistilís go Veinéis i ngondala freisin?
+  rektatraduko:
     - Ĉu: Ar
     - vi: tú
     - en: in
@@ -41,14 +37,13 @@
     - per: i
     - gondolo: gondala
     - '?'
-- 
-  demando: An mbeidh tú in ann titim i do chodladh nuair a éireoidh sé ciúin?
-  rektatraduko: 
+- demando: An mbeidh tú in ann titim i do chodladh nuair a éireoidh sé ciúin?
+  rektatraduko:
     - Ĉu: An
     - vi: tú
     - povos: beidh in ann
     - ekdormi: titim i do chodladh
-    - ',' 
+    - ','
     - kiam: nuair
-    - silentiĝis: d'éirigh ciúin
+    - silentiĝos: d'éirigh ciúin
     - '?'

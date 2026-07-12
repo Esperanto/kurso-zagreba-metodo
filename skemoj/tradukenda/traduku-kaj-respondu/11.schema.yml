@@ -1,0 +1,137 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 11
+allOf:
+  - $ref: ../traduku-kaj-respondu.schema.yml
+  - minItems: 5
+    prefixItems:
+      - properties:
+          rektatraduko:
+            minItems: 10
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - povas
+              - type: object
+                required:
+                  - kunporti
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - sanigilon
+              - type: object
+                required:
+                  - de
+              - type: object
+                required:
+                  - mia
+              - type: object
+                required:
+                  - fratino
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 6
+            prefixItems:
+              - type: object
+                required:
+                  - Kiam
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - aĉetis
+              - type: object
+                required:
+                  - tiun
+              - type: object
+                required:
+                  - muzikilon
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 6
+            prefixItems:
+              - type: object
+                required:
+                  - Kiu
+              - type: object
+                required:
+                  - laste
+              - type: object
+                required:
+                  - uzis
+              - type: object
+                required:
+                  - mian
+              - type: object
+                required:
+                  - ŝlosilon
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 9
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - en
+              - type: object
+                required:
+                  - Venecio
+              - type: object
+                required:
+                  - veturis
+              - type: object
+                required:
+                  - ankaŭ
+              - type: object
+                required:
+                  - per
+              - type: object
+                required:
+                  - gondolo
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 8
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - povos
+              - type: object
+                required:
+                  - ekdormi
+              - const: ','
+              - type: object
+                required:
+                  - kiam
+              - type: object
+                required:
+                  - silentiĝos
+              - const: '?'
+            items: false
+    items: false

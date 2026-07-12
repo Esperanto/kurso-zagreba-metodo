@@ -7,12 +7,12 @@
     - amikino: female friend
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: Is your friend Ana now writing in the room?
   rektatraduko:
     - Ĉu: Whether
     - via: your
     - amikino: female friend
-    - Anna: Anna
+    - Ana: Ana
     - skribas: writes
     - nun: now
     - en: in
@@ -54,4 +54,3 @@
     - via: your 
     - tablo: table
     - '?'
-

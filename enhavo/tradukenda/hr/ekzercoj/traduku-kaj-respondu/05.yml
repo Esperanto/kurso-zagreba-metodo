@@ -1,6 +1,5 @@
--
-  demando: Možeš li mirno učiti dok netko radosno pjeva?
-  rektatraduko: 
+- demando: Možeš li mirno učiti dok netko radosno pjeva?
+  rektatraduko:
     - Ĉu: Da li
     - vi: ti
     - povas: možeš
@@ -12,36 +11,33 @@
     - ĝoje: radosno
     - kantas: pjeva
     - '?'
--
-  demando: Tko zna kada i gdje ćemo se ponovno vidjeti?
-  rektatraduko: 
+- demando: Tko zna kada i gdje ćemo se ponovno vidjeti?
+  rektatraduko:
     - Kiu: Tko
     - scias: zna
     - ','
-    - kiam: kada 
+    - kiam: kada
     - kaj: i
     - kie: gdje
     - ni: mi
     - revidos: ponovno ćemo vidjeti
     - nin: nas
     - '?'
--
-  demando: Koliko je sada sati?
-  rektatraduko: 
+- demando: Koliko je sada sati?
+  rektatraduko:
     - Kioma: Koliko
     - horo: sati
     - estas: je
     - nun: sada
     - '?'
--
-  demando: Je li ti netko pomogao otvoriti vrata stare kuće?
-  rektatraduko: 
+- demando: Je li ti netko pomogao otvoriti vrata stare kuće?
+  rektatraduko:
     - Ĉu: Je li
     - iu: netko
-    - helpis: pomogao 
+    - helpis: pomogao
     - al: k
-    - vi: ti 
-    - malfermi: otvoriti 
+    - vi: ti
+    - malfermi: otvoriti
     - la: (član)
     - pordon: vrata
     - de: od
@@ -49,9 +45,8 @@
     - malnova: stara
     - domo: kuća
     - '?'
--
-  demando: Zašto me nemaš vremena slušati dulje danas?
-  rektatraduko: 
+- demando: Zašto me nemaš vremena slušati dulje danas?
+  rektatraduko:
     - Kial: Zašto
     - vi: ti
     - ne: ne
@@ -59,7 +54,6 @@
     - tempon: vrijeme
     - aŭskulti: slušati
     - min: mene
-    - hodiaŭ: danas
     - pli: više
     - longe: dugo
     - '?'

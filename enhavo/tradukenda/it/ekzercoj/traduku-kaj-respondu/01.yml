@@ -1,26 +1,23 @@
-- 
-  demando: Chi è la tua amica?
+- demando: Chi è la tua amica?
   rektatraduko:
     - Kiu: Chi
     - estas: è
     - via: la tua
     - amikino: amica
     - '?'
-- 
-  demando: La tua amica Anna scrive adesso, nella camera?
+- demando: La tua amica Ana scrive adesso, nella camera?
   rektatraduko:
     - Ĉu: (interrogativa)
     - via: La tua
     - amikino: amica
-    - Anna: Anna
+    - Ana: Ana
     - skribas: scrive
     - nun: adesso
     - en: in
-    - la: la 
+    - la: la
     - ĉambro: camera
     - '?'
-- 
-  demando: "L'amico di tuo padre lavora in albergo?"
+- demando: L'amico di tuo padre lavora in albergo?
   rektatraduko:
     - Ĉu: (interrogativa)
     - la: lo
@@ -32,8 +29,7 @@
     - en: in
     - hotelo: albergo
     - '?'
-- 
-  demando: Che cosa c'è sul tavolo da lavoro nella nostra camera?
+- demando: Che cosa c'è sul tavolo da lavoro nella nostra camera?
   rektatraduko:
     - Kio: Che cosa
     - estas: è
@@ -44,14 +40,12 @@
     - nia: nostra
     - ĉambro: camera
     - '?'
-- 
-  demando: Sul tuo tavolo c'è il manuale di esperanto?
+- demando: Sul tuo tavolo c'è il manuale di esperanto?
   rektatraduko:
     - Ĉu: (interrogativa)
     - Esperanto-lernolibro: manuale di esperanto
-    - estas: "c'è"
+    - estas: c'è
     - sur: su
     - via: tuo
     - tablo: tavolo
     - '?'
-

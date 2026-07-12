@@ -1,25 +1,22 @@
--
-  demando: Πότε θα σε ξαναδώ;
-  rektatraduko: 
+- demando: Πότε θα σε ξαναδώ;
+  rektatraduko:
     - Kiam: Πότε
-    - mi: εγώ  
+    - mi: εγώ
     - revidos: θα δω ξανά
     - vin: εσένα
     - '?'
--
-  demando: Πόσο καιρό μαθαίνεις τη Διεθνή Γλώσσα;
-  rektatraduko: 
-    - Kiel: Πόσο
+- demando: Πόσο καιρό μαθαίνεις τη Διεθνή Γλώσσα;
+  rektatraduko:
+    - Kiom: πόσο, όσο
     - longe: καιρό
     - vi: εσύ
     - lernas: μαθαίνεις
-    - la: τη 
+    - la: τη
     - Internacian: Διεθνή
     - Lingvon: Γλώσσα
     - '?'
--
-  demando: Πού είναι το νέο μου βιβλίο με φωτογραφίες;
-  rektatraduko: 
+- demando: Πού είναι το νέο μου βιβλίο με φωτογραφίες;
+  rektatraduko:
     - Kie: Πού
     - estas: είναι
     - mia: το δικό μου
@@ -28,9 +25,8 @@
     - kun: με
     - fotoj: φωτογραφίες
     - '?'
--
-  demando: Πού θα πας μετά το γεύμα;
-  rektatraduko: 
+- demando: Πού θα πας μετά το γεύμα;
+  rektatraduko:
     - Kien: Πού
     - vi: εσύ
     - iros: θα πας
@@ -38,16 +34,15 @@
     - la: το
     - tagmanĝo: γεύμα
     - '?'
--
-  demando: Μπορεί κάποιος να κλείσει την πόρτα του δωματίου όταν κάνει κρύο;
-  rektatraduko: 
+- demando: Μπορεί κάποιος να κλείσει την πόρτα του δωματίου όταν κάνει κρύο;
+  rektatraduko:
     - Ĉu: Μήπως
     - oni: κάποιος
-    - povas: μπορεί 
+    - povas: μπορεί
     - fermi: να κλείσει
     - la: την
     - pordon: πόρτα
-    - de: από 
+    - de: από
     - la: το
     - ĉambro: δωμάτιο
     - ','
@@ -55,10 +50,9 @@
     - estas: κάνει
     - malvarme: κρύο
     - '?'
--
-  demando: Πόσο καιρό είσαι θυμωμένος, αν κάποιος σου πάρει πολλά χρήματα;
-  rektatraduko: 
-    - Kiel: Πόσο
+- demando: Πόσο καιρό είσαι θυμωμένος, αν κάποιος σου πάρει πολλά χρήματα;
+  rektatraduko:
+    - Kiom: πόσο, όσο
     - longe: καιρό
     - vi: εσύ
     - koleras: είσαι θυμωμένος

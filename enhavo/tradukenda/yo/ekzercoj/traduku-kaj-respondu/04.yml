@@ -1,15 +1,13 @@
--
-  demando: Nígbà wo ni màá tún rí ọ?
+- demando: Nígbà wo ni màá tún rí ọ?
   rektatraduko:
     - Kiam: Nígbà wo
     - mi: èmi
     - revidos: yóò tún rí
     - vin: ìwọ
     - '?'
--
-  demando: Báwo ni o ti pẹ́ tó tí o ti ń kọ́ Èdè Àgbáyé?
+- demando: Báwo ni o ti pẹ́ tó tí o ti ń kọ́ Èdè Àgbáyé?
   rektatraduko:
-    - Kiel: Báwo
+    - Kiom: mélòó
     - longe: pẹ́ tó
     - vi: ìwọ
     - lernas: ń kọ́
@@ -17,8 +15,7 @@
     - Internacian: àgbáyé
     - Lingvon: èdè
     - '?'
--
-  demando: Níbo ni ìwé tuntun mi pẹ̀lú àwọn fọ́tò wà?
+- demando: Níbo ni ìwé tuntun mi pẹ̀lú àwọn fọ́tò wà?
   rektatraduko:
     - Kie: Níbo
     - estas: wà
@@ -28,8 +25,7 @@
     - kun: pẹ̀lú
     - fotoj: àwọn fọ́tò
     - '?'
--
-  demando: Síbo ni o máa lọ lẹ́yìn oúnjẹ ọ̀sán?
+- demando: Síbo ni o máa lọ lẹ́yìn oúnjẹ ọ̀sán?
   rektatraduko:
     - Kien: Síbo
     - vi: ìwọ
@@ -38,8 +34,7 @@
     - la: náà
     - tagmanĝo: oúnjẹ ọ̀sán
     - '?'
--
-  demando: Ṣé a lè pa ilẹ̀kùn yàrá náà nígbà tí òtútù bá ń mú?
+- demando: Ṣé a lè pa ilẹ̀kùn yàrá náà nígbà tí òtútù bá ń mú?
   rektatraduko:
     - Ĉu: Ṣé
     - oni: a
@@ -55,10 +50,9 @@
     - estas: jẹ́
     - malvarme: tútù
     - '?'
--
-  demando: Báwo ni o ṣe máa ń bínú pẹ́ tó bí ènìyàn bá gba owó púpọ̀ lọ́wọ́ rẹ?
+- demando: Báwo ni o ṣe máa ń bínú pẹ́ tó bí ènìyàn bá gba owó púpọ̀ lọ́wọ́ rẹ?
   rektatraduko:
-    - Kiel: Báwo
+    - Kiom: mélòó
     - longe: pẹ́ tó
     - vi: ìwọ
     - koleras: ń bínú

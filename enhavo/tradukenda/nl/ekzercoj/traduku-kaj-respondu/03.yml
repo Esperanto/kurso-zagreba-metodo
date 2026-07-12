@@ -1,5 +1,4 @@
--
-  demando: Verstaan obers in grote hotels veel talen?
+- demando: Verstaan obers in grote hotels veel talen?
   rektatraduko:
     - Ĉu: Of
     - kelneroj: obers
@@ -10,15 +9,14 @@
     - multajn: veel
     - lingvojn: talen
     - '?'
--
-  demando: Weet jij of Anna houdt van het nieuwe lied over een arme man en een mooie vrouw?
+- demando: Weet jij of Ana houdt van het nieuwe lied over een arme man en een mooie vrouw?
   rektatraduko:
     - Ĉu: Of
     - vi: jij
     - scias: weet
     - ','
     - ĉu: of
-    - Anna: Anna
+    - Ana: Ana
     - ŝatas: houdt van
     - la: het
     - novan: nieuwe
@@ -28,8 +26,7 @@
     - kaj: en
     - belulino: mooie vrouw
     - '?'
--
-  demando: Waar zag je de oude man en de jonge man, die een grote tafel droegen?
+- demando: Waar zag je de oude man en de jonge man, die een grote tafel droegen?
   rektatraduko:
     - Kie: Waar
     - vi: je
@@ -45,8 +42,7 @@
     - grandan: grote
     - tablon: tafel
     - '?'
--
-  demando: Hoe kwam het dat je opnieuw naar ons kwam zonder broers en zussen?
+- demando: Hoe kwam het dat je opnieuw naar ons kwam zonder broers en zussen?
   rektatraduko:
     - Kiel: Hoe
     - okazis: gebeurde
@@ -60,8 +56,7 @@
     - sen: zonder
     - gefratoj: broers en zussen
     - '?'
--
-  demando: Kan je met het nieuwe leerboek snel genoeg Esperanto leren?
+- demando: Kan je met het nieuwe leerboek snel genoeg Esperanto leren?
   rektatraduko:
     - Ĉu: Of
     - vi: je

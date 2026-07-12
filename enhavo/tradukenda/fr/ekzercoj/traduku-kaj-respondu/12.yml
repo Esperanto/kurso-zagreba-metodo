@@ -1,33 +1,30 @@
-- 
-  demando: "Est-ce qu'on se reverra, n'importe où et n'importe quand ?"
-  rektatraduko: 
+- demando: Est-ce qu'on se reverra, n'importe où et n'importe quand ?
+  rektatraduko:
     - Ĉu: Est-ce que
     - ni: nous
     - revidos: reverrons
     - nin: nous
-    - ',' 
+    - ','
     - kie: où
     - ajn: que ce soit
     - kaj: et
     - kiam: quand
     - ajn: que ce soit
     - '?'
-- 
-  demando: "Quand récupérerai-je de nouveau l'autre moitié des livres ?"
-  rektatraduko: 
+- demando: Quand récupérerai-je de nouveau l'autre moitié des livres ?
+  rektatraduko:
     - Kiam: Quand
-    - mi: je 
+    - mi: je
     - rericevos: récupérerai
-    - la: "l'"
+    - la: l'
     - alian: autre
     - duonon: moitié
     - de: de
     - la: les
     - libroj: livres
     - '?'
-- 
-  demando: "Est-ce que vous aurez besoin de plus d'un trimestre pour ces travaux ?"
-  rektatraduko: 
+- demando: Est-ce que vous aurez besoin de plus d'un trimestre pour ces travaux ?
+  rektatraduko:
     - Ĉu: Est-ce que
     - vi: vous
     - bezonos: aurez besoin
@@ -39,30 +36,28 @@
     - tiuj: des
     - laboroj: travaux
     - '?'
-- 
-  demando: Pourquoi fait-il d'autant plus froid que nous attendons plus longtemps ?
-  rektatraduko: 
+- demando: Pourquoi fait-il d'autant plus froid que nous attendons plus longtemps ?
+  rektatraduko:
     - Kial: Pourquoi
-    - estas: est
-    - des: des
-    - pli: plus
-    - malvarma: froid
-    - ',' 
     - ju: le
     - pli: plus
     - longe: longtemps
     - ni: nous
     - atendas: attendons
+    - ','
+    - des: des
+    - pli: plus
+    - malvarme: froid
+    - estas: est
     - '?'
-- 
-  demando: "Est-ce que tu serais satisfait avec n'importe quel homme ?"
-  rektatraduko: 
+- demando: Est-ce que tu serais satisfait avec n'importe quel homme ?
+  rektatraduko:
     - Ĉu: Est-ce que
     - vi: tu
     - estus: serais
     - kontenta: satisfait
     - kun: avec
-    - iu: "n'importe"
+    - iu: n'importe
     - ajn: quel
     - viro: homme
     - '?'

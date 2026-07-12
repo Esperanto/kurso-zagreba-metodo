@@ -1,16 +1,14 @@
-- 
-  demando: What was your old home like?
-  rektatraduko: 
+- demando: What was your old home like?
+  rektatraduko:
     - Kia: What like
     - estis: was
     - via: your
     - malnova: old
-    - hejmo: home 
+    - hejmo: home
     - '?'
-- 
-  demando: Which books did you read, and were they good?
-  rektatraduko: 
-    - Kiujn: Which 
+- demando: Which books did you read, and were they good?
+  rektatraduko:
+    - Kiujn: Which
     - librojn: books
     - vi: you
     - legis: did read
@@ -18,26 +16,24 @@
     - ĉu: whether
     - ili: they
     - estas: are
-    - bonaj: good 
+    - bonaj: good
     - '?'
-- 
-  demando: "What did Anna and Mark do in Marks little room?"
+- demando: What did Ана and Mark do in Marks little room?
   rektatraduko:
     - Kion: What
     - faris: did do
-    - Anna: Anna
+    - Ana: Ана
     - kaj: and
     - Marko: Mark
-    - en: in 
+    - en: in
     - la: the
     - malgranda: little
     - ĉambro: room
     - de: of
     - Marko: Mark
     - '?'
-- 
-  demando: Do you like reading books about love?
-  rektatraduko: 
+- demando: Do you like reading books about love?
+  rektatraduko:
     - Ĉu: Whether
     - vi: you
     - ŝatas: like
@@ -46,20 +42,18 @@
     - pri: about
     - amo: love
     - '?'
-- 
-  demando: Who will go with you to your home?
-  rektatraduko: 
+- demando: Who will go with you to your home?
+  rektatraduko:
     - Kiu: Who
     - iros: will go
     - kun: with
     - vi: you
-    - al: to 
+    - al: to
     - via: your
     - hejmo: home
     - '?'
-- 
-  demando: "What are your girl-friend's eyes like?"
-  rektatraduko: 
+- demando: What are your girl-friend's eyes like?
+  rektatraduko:
     - Kiaj: What like
     - estas: are
     - la: the

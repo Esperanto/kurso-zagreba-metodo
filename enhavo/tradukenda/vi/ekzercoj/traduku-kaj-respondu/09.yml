@@ -1,75 +1,70 @@
-- 
-  demando: Việc gì có thể làm cha mẹ  của cậu vui nhất?
-  rektatraduko: 
-    - Kio: Việc gì
-    - povus: có thể
-    - plej: (so sánh nhất)
-    - ĝojigi: làm vui
-    - viajn: của cậu
-    - gepatrojn: cha mẹ
-    - '?'
-- 
-  demando: Phải chi ít nhất cậu muốn đi cùng mình vào trung tâm thành phố sau việc học!
-  rektatraduko: 
-    - Se: Phải chi
-    - almenaŭ: ít nhất
-    - vi: cậu
-    - post: sau khi
-    - la: (mạo từ xác định)
-    - lernado: việc học
-    - irus: muốn đi
-    - kun: cùng
-    - mi: mình
-    - en: vào
-    - la: (mạo từ xác định) 
-    - urbocentron: trung tâm thành phố
-    - '!'
-- 
-  demando: Cậu mong được đi du lịch đến đâu, nếu cậu có đủ tiền và thời gian?
-  rektatraduko: 
-    - Kien: Đến đâu
-    - vi: cậu
-    - dezirus: mong
-    - vojaĝi: đi du lịch
-    - ',' 
-    - se: nếu
-    - vi: cậu
-    - havus: có
-    - sufiĉe: đủ
-    - da: (số lượng)
-    - mono: tiền
-    - kaj: và
-    - tempo: thời gian
-    - '?'
-- 
-  demando: Cậu định đi du lịch tới Paris bằng xe hơi thật sao, hay chẳng nhẽ đi bằng xe lửa không thấy tốt hơn nhiều? 
-  rektatraduko: 
-    - Ĉu: Thật sao
-    - vi: cậu
-    - planas: định
-    - veturi: đi du lịch
-    - al: tới
-    - Parizo: Paris
-    - per: bằng
-    - aŭto: xe hơi
-    - aŭ: hay
-    - ĉu: chẳng nhẽ
-    - ne: không
-    - ŝajnas: thấy
-    - multe: nhiều
-    - pli: (so sánh hơn)
-    - bone: tốt
-    - per: bằng
-    - vagonaro: xe lửa
-    - '?'
-- 
-  demando: Tại sao những người khác nhau giải thích những ý tưởng giống nhau theo một cách khác nhau vậy?
-  rektatraduko: 
-    - Kial: Tại sao
-    - diversaj: khác nhau
-    - homoj: những người
-    - klarigas: giải thích
-    - samajn: giống nhau
-    - ideojn: những ý tưởng
-    - diversmaniere: một cách khác nhau 
-    - '?'
+- demando: Việc gì có thể làm cha mẹ  của cậu vui nhất?
+  rektatraduko:
+  - Kio: Việc gì
+  - povus: có thể
+  - plej: (so sánh nhất)
+  - ĝojigi: làm vui
+  - viajn: của cậu
+  - gepatrojn: cha mẹ
+  - '?'
+- demando: Phải chi ít nhất cậu muốn đi cùng mình vào thành phố sau việc học!
+  rektatraduko:
+  - Se: Phải chi
+  - almenaŭ: ít nhất
+  - vi: cậu
+  - post: sau khi
+  - la: (mạo từ xác định)
+  - lernado: việc học
+  - irus: muốn đi
+  - kun: cùng
+  - mi: mình
+  - en: vào
+  - la: (mạo từ xác định)
+  - urbon: thành phố
+  - '!'
+- demando: Cậu mong được đi du lịch đến đâu, nếu cậu có đủ tiền và thời gian?
+  rektatraduko:
+  - Kien: Đến đâu
+  - vi: cậu
+  - dezirus: mong
+  - vojaĝi: đi du lịch
+  - ','
+  - se: nếu
+  - vi: cậu
+  - havus: có
+  - sufiĉe: đủ
+  - da: (số lượng)
+  - mono: tiền
+  - kaj: và
+  - tempo: thời gian
+  - '?'
+- demando: Cậu định đi du lịch tới nước Ý bằng xe hơi thật sao, hay chẳng nhẽ đi bằng xe lửa không thấy tốt hơn nhiều?
+  rektatraduko:
+  - Ĉu: Thật sao
+  - vi: cậu
+  - planas: định
+  - veturi: đi du lịch
+  - al: tới
+  - Italio: nước Ý
+  - per: bằng
+  - aŭto: xe hơi
+  - aŭ: hay
+  - ĉu: chẳng nhẽ
+  - ne: không
+  - ŝajnas: thấy
+  - multe: nhiều
+  - pli: (so sánh hơn)
+  - bone: tốt
+  - per: bằng
+  - vagonaro: xe lửa
+  - '?'
+- demando: Tại sao những người khác nhau giải thích những ý tưởng giống nhau theo một cách khác nhau vậy?
+  rektatraduko:
+  - Kial: Tại sao
+  - diversaj: khác nhau
+  - homoj: những người
+  - klarigas: giải thích
+  - samajn: giống nhau
+  - ideojn: những ý tưởng
+  - diversmaniere: một cách khác nhau
+  - '?'

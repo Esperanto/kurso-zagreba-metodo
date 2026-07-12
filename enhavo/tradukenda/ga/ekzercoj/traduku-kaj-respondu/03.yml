@@ -1,7 +1,6 @@
--
-  demando: Freastalaithe in óstáin mhóra, an dtuigeann siad a lán teangacha? 
-  rektatraduko:  
-    - Ĉu: An 
+- demando: Freastalaithe in óstáin mhóra, an dtuigeann siad a lán teangacha?
+  rektatraduko:
+    - Ĉu: An
     - kelneroj: freastalaithe
     - en: in
     - grandaj: mór
@@ -10,15 +9,14 @@
     - multajn: a lán
     - lingvojn: teangacha
     - '?'
--
-  demando: An eol duit gur maith le hÁine amhrán nua faoi fhear bocht agus cailín álainn?
-  rektatraduko: 
+- demando: An eol duit gur maith le hAna amhrán nua faoi fhear bocht agus cailín álainn?
+  rektatraduko:
     - Ĉu: An
     - vi: tú
     - scias: eol
     - ','
     - ĉu: gur
-    - Anna: Áine 
+    - Ana: Ana
     - ŝatas: is maith le
     - la: an
     - novan: nua
@@ -28,9 +26,9 @@
     - kaj: agus
     - belulino: cailín álainn
     - '?'
--
-  demando: Cá bhfacaís seanfhear agus fear óg agus bord mór á iompar acu? Where did you see an old man and a young man who were carrying a large table?
-  rektatraduko: 
+- demando: Cá bhfacaís seanfhear agus fear óg agus bord mór á iompar acu? Where did you see an old man and a young man who
+    were carrying a large table?
+  rektatraduko:
     - Kie: Cá, cén áit
     - vi: tú
     - vidis: chonaic
@@ -45,9 +43,8 @@
     - grandan: mór
     - tablon: bord
     - '?'
--
-  demando: Conas a tharla sé gur tháinís arís chugainn gan gan deartháireacha agus deirfiúracha?
-  rektatraduko: 
+- demando: Conas a tharla sé gur tháinís arís chugainn gan gan deartháireacha agus deirfiúracha?
+  rektatraduko:
     - Kiel: Conas
     - okazis: tharla
     - ','
@@ -55,15 +52,14 @@
     - vi: tú
     - denove: arís
     - venis: tháinig
-    - al: chuig 
+    - al: chuig
     - ni: sinn
     - sen: gan
     - gefratoj: deartháireacha agus deirfiúracha
     - '?'
--
-  demando: An féidir leat Esperanto a fhoghlaim cuíosach tapaidh leis an dtéacsleabhar nua?
-  rektatraduko: 
-    - Ĉu: An 
+- demando: An féidir leat Esperanto a fhoghlaim cuíosach tapaidh leis an dtéacsleabhar nua?
+  rektatraduko:
+    - Ĉu: An
     - vi: tú
     - povas: féidir
     - per: le

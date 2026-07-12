@@ -1,23 +1,21 @@
-- 
-  demando: Ens veurem de nou l'un a l'altre, sense importar "on" ni quan sigui?
-  rektatraduko: 
+- demando: Ens veurem de nou l'un a l'altre, sense importar "on" ni quan sigui?
+  rektatraduko:
     - Ĉu: Que
     - ni: Nosaltres
     - revidos: ens veurem de nou
     - nin: l'un a l'altre
     - ','
-    - kie: "on"
+    - kie: 'on'
     - ajn: sigui
     - kaj: i
     - kiam: quan
     - ajn: sigui
     - '?'
-- 
-  demando: Quan tornaré l'altra meitat dels llibres?
-  rektatraduko: 
+- demando: Quan tornaré l'altra meitat dels llibres?
+  rektatraduko:
     - Kiam: Quan
     - mi: jo
-    - redonos: tornaré
+    - rericevos: tornaré
     - la: la
     - alian: altra
     - duonon: meitat
@@ -25,9 +23,8 @@
     - la: els
     - libroj: llibres
     - '?'
-- 
-  demando: Necessitaràs més d'un quart d'any per a aquells treballs?
-  rektatraduko: 
+- demando: Necessitaràs més d'un quart d'any per a aquells treballs?
+  rektatraduko:
     - Ĉu: Que
     - vi: Tu
     - bezonos: necessitaràs
@@ -39,28 +36,26 @@
     - tiuj: aquells
     - laboroj: treballs
     - '?'
-- 
-  demando: Per què com més fred fa, més temps esperem?
-  rektatraduko: 
+- demando: Per què com més temps esperem, més fred fa?
+  rektatraduko:
     - Kial: Per què
     - ju: com
-    - pli: més
-    - malvarme: fred
-    - estas: fa
-    - ','
-    - des: tant
     - pli: més
     - longe: temps
     - ni: nosaltres
     - atendas: esperem
+    - ','
+    - des: tant
+    - pli: més
+    - malvarme: fred
+    - estas: fa
     - '?'
-- 
-  demando: Podries ser feliç amb un home qualsevol?
-  rektatraduko: 
+- demando: Podries ser feliç amb un home qualsevol?
+  rektatraduko:
     - Ĉu: Que
     - vi: Tu
     - estus: series
-    - feliĉa: feliç
+    - kontenta: feliç
     - kun: amb
     - iu: algú
     - ajn: qualsevol

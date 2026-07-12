@@ -1,7 +1,6 @@
--
-  demando: Czy kelnerzy w wielkich hotelach rozumieją wiele języków? 
-  rektatraduko:  
-    - Ĉu: Czy 
+- demando: Czy kelnerzy w wielkich hotelach rozumieją wiele języków?
+  rektatraduko:
+    - Ĉu: Czy
     - kelneroj: kelnerzy
     - en: w
     - grandaj: wielkie
@@ -10,15 +9,14 @@
     - multajn: wiele
     - lingvojn: języków
     - '?'
--
-  demando: Czy wiesz, czy Anna lubi nową piosenkę o biedaku i pięknej kobiecie?
-  rektatraduko: 
+- demando: Czy wiesz, czy Ana lubi nową piosenkę o biedaku i pięknej kobiecie?
+  rektatraduko:
     - Ĉu: Czy
     - vi: ty
     - scias: wiesz
     - ','
     - ĉu: czy
-    - Anna: Anna 
+    - Ana: Ana
     - ŝatas: lubi
     - la: (przedimek określony)
     - novan: nową
@@ -28,9 +26,8 @@
     - kaj: i
     - belulino: piękna kobieta
     - '?'
--
-  demando: Gdzie widzieliście starca i młodzieńca, którzy nieśli duży stół?
-  rektatraduko: 
+- demando: Gdzie widzieliście starca i młodzieńca, którzy nieśli duży stół?
+  rektatraduko:
     - Kie: Gdzie
     - vi: wy
     - vidis: widzieliście
@@ -45,9 +42,8 @@
     - grandan: duży
     - tablon: stół
     - '?'
--
-  demando: Jak to się stało, że znowu przyjechaliście do nas bez rodzeństwa?
-  rektatraduko: 
+- demando: Jak to się stało, że znowu przyjechaliście do nas bez rodzeństwa?
+  rektatraduko:
     - Kiel: Jak
     - okazis: stało się
     - ','
@@ -60,9 +56,8 @@
     - sen: bez
     - gefratoj: rodzeństwo
     - '?'
--
-  demando: Czy przy pomocy nowego podręcznika możecie uczyć się esperanta wystarczająco szybko?
-  rektatraduko: 
+- demando: Czy przy pomocy nowego podręcznika możecie uczyć się esperanta wystarczająco szybko?
+  rektatraduko:
     - Ĉu: Czy
     - vi: wy
     - povas: możecie

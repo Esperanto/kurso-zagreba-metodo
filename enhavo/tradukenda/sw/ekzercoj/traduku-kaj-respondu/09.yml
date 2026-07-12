@@ -1,75 +1,70 @@
--
-  demando: Ni nini kingewafurahisha wazazi wako zaidi kuliko vyote?
+- demando: Ni nini kingewafurahisha wazazi wako zaidi kuliko vyote?
   rektatraduko:
-    - Kio: Nini
-    - povus: kingeweza
-    - plej: zaidi kabisa
-    - ĝojigi: kufurahisha
-    - viajn: wako
-    - gepatrojn: wazazi
-    - '?'
--
-  demando: Laiti ungeenda nami katikati ya mji baada ya kujifunza!
+  - Kio: Nini
+  - povus: kingeweza
+  - plej: zaidi kabisa
+  - ĝojigi: kufurahisha
+  - viajn: wako
+  - gepatrojn: wazazi
+  - '?'
+- demando: Laiti ungeenda nami mji baada ya kujifunza!
   rektatraduko:
-    - Se: Kama
-    - almenaŭ: angalau
-    - vi: wewe
-    - post: baada ya
-    - la: kiarifu
-    - lernado: kujifunza
-    - irus: ungeenda
-    - kun: pamoja na
-    - mi: mimi
-    - en: ndani ya
-    - la: kiarifu
-    - urbocentron: katikati ya mji
-    - '!'
--
-  demando: Ungependa kusafiri kwenda wapi ikiwa ungekuwa na pesa na muda wa kutosha?
+  - Se: Kama
+  - almenaŭ: angalau
+  - vi: wewe
+  - post: baada ya
+  - la: kiarifu
+  - lernado: kujifunza
+  - irus: ungeenda
+  - kun: pamoja na
+  - mi: mimi
+  - en: ndani ya
+  - la: kiarifu
+  - urbon: mji
+  - '!'
+- demando: Ungependa kusafiri kwenda wapi ikiwa ungekuwa na pesa na muda wa kutosha?
   rektatraduko:
-    - Kien: Kuelekea wapi
-    - vi: wewe
-    - dezirus: ungetaka
-    - vojaĝi: kusafiri
-    - ','
-    - se: ikiwa
-    - vi: wewe
-    - havus: ungekuwa na
-    - sufiĉe: kutosha
-    - da: ya kiasi
-    - mono: pesa
-    - kaj: na
-    - tempo: muda
-    - '?'
--
-  demando: Je, unapanga kusafiri kwenda Paris kwa gari, au haionekani kuwa bora zaidi kwa treni?
+  - Kien: Kuelekea wapi
+  - vi: wewe
+  - dezirus: ungetaka
+  - vojaĝi: kusafiri
+  - ','
+  - se: ikiwa
+  - vi: wewe
+  - havus: ungekuwa na
+  - sufiĉe: kutosha
+  - da: ya kiasi
+  - mono: pesa
+  - kaj: na
+  - tempo: muda
+  - '?'
+- demando: Je, unapanga kusafiri kwenda Italia kwa gari, au haionekani kuwa bora zaidi kwa treni?
   rektatraduko:
-    - Ĉu: je
-    - vi: wewe
-    - planas: unapanga
-    - veturi: kusafiri
-    - al: kwenda
-    - Parizo: Paris
-    - per: kwa kutumia
-    - aŭto: gari
-    - aŭ: au
-    - ĉu: je
-    - ne: si
-    - ŝajnas: inaonekana
-    - multe: sana
-    - pli: zaidi
-    - bone: vizuri
-    - per: kwa kutumia
-    - vagonaro: treni
-    - '?'
--
-  demando: Kwa nini watu mbalimbali hueleza mawazo yale yale kwa namna tofauti?
+  - Ĉu: je
+  - vi: wewe
+  - planas: unapanga
+  - veturi: kusafiri
+  - al: kwenda
+  - Italio: Italia
+  - per: kwa kutumia
+  - aŭto: gari
+  - aŭ: au
+  - ĉu: je
+  - ne: si
+  - ŝajnas: inaonekana
+  - multe: sana
+  - pli: zaidi
+  - bone: vizuri
+  - per: kwa kutumia
+  - vagonaro: treni
+  - '?'
+- demando: Kwa nini watu mbalimbali hueleza mawazo yale yale kwa namna tofauti?
   rektatraduko:
-    - Kial: Kwa nini
-    - diversaj: mbalimbali
-    - homoj: watu
-    - klarigas: wanaeleza
-    - samajn: yale yale
-    - ideojn: mawazo
-    - diversmaniere: kwa namna tofauti
-    - '?'
+  - Kial: Kwa nini
+  - diversaj: mbalimbali
+  - homoj: watu
+  - klarigas: wanaeleza
+  - samajn: yale yale
+  - ideojn: mawazo
+  - diversmaniere: kwa namna tofauti
+  - '?'

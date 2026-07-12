@@ -1,26 +1,23 @@
-- 
-  demando: ?מי החברה שלך
+- demando: ?מי החברה שלך
   rektatraduko:
     - Kiu: מי
     - estas: היא
     - via: שלך
     - amikino: חברה
     - '?'
-- 
-  demando: ?האם החברה שלך אנה כותבת עכשיו בחדר
+- demando: ?האם החברה שלך אנה כותבת עכשיו בחדר
   rektatraduko:
     - Ĉu: האם
     - via: שלך
     - amikino: חברה
-    - Anna: אנה
+    - Ana: אנה
     - skribas: כותבת
     - nun: עכשיו
     - en: ב
     - la: (ה הידיעה)
     - ĉambro: חדר
     - '?'
-- 
-  demando: ?האם החבר של אבא שלך עובד במלון
+- demando: ?האם החבר של אבא שלך עובד במלון
   rektatraduko:
     - Ĉu: האם
     - la: ה
@@ -32,10 +29,9 @@
     - en: ב
     - hotelo: מלון
     - '?'
-- 
-  demando: ?מה יש על שולחן העבודה בחדר שלנו
+- demando: ?מה יש על שולחן העבודה בחדר שלנו
   rektatraduko:
-    - Kio: מה 
+    - Kio: מה
     - estas: יש
     - sur: על
     - la: ה
@@ -44,14 +40,12 @@
     - nia: שלנו
     - ĉambro: חדר
     - '?'
-- 
-  demando: ?האם יש ספר אספרנטו על השולחן שלך
+- demando: ?האם יש ספר אספרנטו על השולחן שלך
   rektatraduko:
     - Ĉu: האם
     - Esperanto-lernolibro: ספר אספרנטו
     - estas: יש
     - sur: על
-    - via: שלך 
+    - via: שלך
     - tablo: שולחן
     - '?'
-

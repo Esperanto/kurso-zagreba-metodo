@@ -1,5 +1,4 @@
--
-  demando: Ne vom revedea undeva și cândva?
+- demando: Ne vom revedea undeva și cândva?
   rektatraduko:
     - Ĉu: oare
     - ni: noi
@@ -12,8 +11,7 @@
     - kiam: când
     - ajn: indiferent
     - '?'
--
-  demando: Când voi primi înapoi cealaltă jumătate a cărților?
+- demando: Când voi primi înapoi cealaltă jumătate a cărților?
   rektatraduko:
     - Kiam: Când
     - mi: eu
@@ -25,8 +23,7 @@
     - la: (articol)
     - libroj: cărți
     - '?'
--
-  demando: Vei avea nevoie de mai mult de un sfert de an pentru acele lucrări?
+- demando: Vei avea nevoie de mai mult de un sfert de an pentru acele lucrări?
   rektatraduko:
     - Ĉu: oare
     - vi: tu
@@ -39,23 +36,21 @@
     - tiuj: acele
     - laboroj: lucrări
     - '?'
--
-  demando: De ce este cu atât mai frig cu cât așteptăm mai mult?
+- demando: De ce este cu atât mai frig cu cât așteptăm mai mult?
   rektatraduko:
     - Kial: De ce
-    - estas: este
-    - des: cu atât
-    - pli: mai
-    - malvarma: frig
-    - ','
     - ju: cu cât
     - pli: mai
     - longe: mult timp
     - ni: noi
     - atendas: așteptăm
+    - ','
+    - des: cu atât
+    - pli: mai
+    - malvarme: frig
+    - estas: este
     - '?'
--
-  demando: Ai fi mulțumit cu orice bărbat?
+- demando: Ai fi mulțumit cu orice bărbat?
   rektatraduko:
     - Ĉu: oare
     - vi: tu

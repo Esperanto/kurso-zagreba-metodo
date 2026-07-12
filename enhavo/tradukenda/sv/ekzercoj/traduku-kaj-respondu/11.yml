@@ -1,6 +1,5 @@
-- 
-  demando: Kan du ta med min systers medicin?
-  rektatraduko: 
+- demando: Kan du ta med min systers medicin?
+  rektatraduko:
     - Ĉu: (Frågepartikeln)
     - vi: du
     - povas: kan
@@ -11,27 +10,24 @@
     - mia: min
     - fratino: syster
     - '?'
-- 
-  demando: När köpte du det där instrumentet?
-  rektatraduko: 
+- demando: När köpte du det där instrumentet?
+  rektatraduko:
     - Kiam: När
     - vi: du
     - aĉetis: köpte
     - tiun: den där
     - muzikilon: musikinstrument
     - '?'
-- 
-  demando: Vem använde min nyckel sist?
-  rektatraduko: 
+- demando: Vem använde min nyckel sist?
+  rektatraduko:
     - Kiu: Vem
     - laste: sist
     - uzis: använde
     - mian: min
     - ŝlosilon: nyckel
     - '?'
-- 
-  demando: Åkte du gondol i Venedig också?
-  rektatraduko: 
+- demando: Åkte du gondol i Venedig också?
+  rektatraduko:
     - Ĉu: (Frågepartikel)
     - vi: du
     - en: i
@@ -41,14 +37,13 @@
     - per: med
     - gondolo: gondol
     - '?'
-- 
-  demando: Kommer du kunna somna när det har blivit tyst?
-  rektatraduko: 
+- demando: Kommer du kunna somna när det har blivit tyst?
+  rektatraduko:
     - Ĉu: (Frågepartikeln)
     - vi: du
     - povos: kommer att kunna
     - ekdormi: somna
-    - ',' 
-    - kiam: när 
-    - silentiĝis: det blev tyst
+    - ','
+    - kiam: när
+    - silentiĝos: det blev tyst
     - '?'

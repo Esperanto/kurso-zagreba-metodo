@@ -1,23 +1,20 @@
-- 
-  demando: Ali se bova videla spet, vseeno, kjer koli in kadar koli?
-  rektatraduko: 
+- demando: Ali se bova videla spet, vseeno, kjer koli in kadar koli?
+  rektatraduko:
     - Ĉu: Ali
     - ni: (zaimek midva)
-    - revidos nin: se bova videla
-    - denove: spet
-    - ',' 
-    - egale: vseeno
+    - revidos: se bova videla
+    - nin: se bova videla
+    - ','
     - kie: kjer
     - ajn: koli
     - kaj: in
     - kiam: kadar
     - ajn: koli
     - '?'
-- 
-  demando: Kdaj bom dobil nazaj drugo polovico knjig?
-  rektatraduko: 
+- demando: Kdaj bom dobil nazaj drugo polovico knjig?
+  rektatraduko:
     - Kiam: Kdaj
-    - mi: (zaimek jaz) 
+    - mi: (zaimek jaz)
     - rericevos: bom dobil nazaj
     - la: (člen)
     - alian: drugo
@@ -26,9 +23,8 @@
     - la: (člen)
     - libroj: knjig
     - '?'
-- 
-  demando: Ali boš potreboval več kot četrt leta za ta dela?
-  rektatraduko: 
+- demando: Ali boš potreboval več kot četrt leta za ta dela?
+  rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek ti)
     - bezonos: boš potreboval
@@ -40,28 +36,26 @@
     - tiuj: ta
     - laboroj: dela
     - '?'
-- 
-  demando: Zakaj je toliko bolj mrzlo, koliko bolj dolgo čakamo? 
-  rektatraduko: 
+- demando: Zakaj je toliko bolj mrzlo, koliko bolj dolgo čakamo?
+  rektatraduko:
     - Kial: Zakaj
-    - estas: je
-    - des: toliko
-    - pli: bolj
-    - malvarme: hladno
-    - ',' 
     - ju: koliko
     - pli: bolj
     - longe: dolgo
     - ni: (zaimek mi)
     - atendas: čakamo
+    - ','
+    - des: toliko
+    - pli: bolj
+    - malvarme: hladno
+    - estas: je
     - '?'
-- 
-  demando: Ali bi bila srečna s katerim koli moškim?
-  rektatraduko: 
+- demando: Ali bi bila srečna s katerim koli moškim?
+  rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek ti)
     - estus: bi bila
-    - feliĉa: srečna
+    - kontenta: srečna
     - kun: z
     - iu: katerim
     - ajn: koli

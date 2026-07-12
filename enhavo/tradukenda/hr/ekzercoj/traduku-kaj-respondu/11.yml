@@ -1,6 +1,5 @@
-- 
-  demando: Možete li donijeti lijek moje sestre?
-  rektatraduko: 
+- demando: Možete li donijeti lijek moje sestre?
+  rektatraduko:
     - Ĉu: Da li
     - vi: vi
     - povas: možete
@@ -11,27 +10,24 @@
     - mia: moja
     - fratino: sestra
     - '?'
-- 
-  demando: Kada si kupio to glazbalo?
-  rektatraduko: 
+- demando: Kada si kupio to glazbalo?
+  rektatraduko:
     - Kiam: Kada
     - vi: ti
     - aĉetis: kupio si
     - tiun: taj
     - muzikilon: muzički instrument
     - '?'
-- 
-  demando: Tko je zadnji koristio moj ključ?
-  rektatraduko: 
+- demando: Tko je zadnji koristio moj ključ?
+  rektatraduko:
     - Kiu: Tko
     - laste: zadnje
     - uzis: koristio je
     - mian: moj
     - ŝlosilon: ključ
     - '?'
-- 
-  demando: Jesi li se u Veneciji vozio i gondolom?
-  rektatraduko: 
+- demando: Jesi li se u Veneciji vozio i gondolom?
+  rektatraduko:
     - Ĉu: Da li
     - vi: ti
     - en: u
@@ -41,14 +37,13 @@
     - per: pomoću
     - gondolo: gondola
     - '?'
-- 
-  demando: Jesi li mogao zaspati kada je utihnulo?
-  rektatraduko: 
+- demando: Jesi li mogao zaspati kada je utihnulo?
+  rektatraduko:
     - Ĉu: Da li
     - vi: ti
-    - povis: mogao si
+    - povos: will be able
     - ekdormi: zaspati
-    - ',' 
+    - ','
     - kiam: kada
-    - silentiĝis: utihnulo je
+    - silentiĝos: utihnulo je
     - '?'

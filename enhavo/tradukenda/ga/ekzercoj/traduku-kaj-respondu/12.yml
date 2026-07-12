@@ -1,20 +1,18 @@
-- 
-  demando: An bhfeicfimid a chéile arís, is cuma cén áit nó cén uair?
-  rektatraduko: 
+- demando: An bhfeicfimid a chéile arís, is cuma cén áit nó cén uair?
+  rektatraduko:
     - Ĉu: An
     - ni: sinn
     - revidos: feic arís
     - nin: a chéile
-    - ',' 
+    - ','
     - kie: cén áit
     - ajn: pé
     - kaj: agus
     - kiam: cén uair
     - ajn: pé
     - '?'
-- 
-  demando: Cathain a gheobhad an leath eile de na leabhair ar ais?
-  rektatraduko: 
+- demando: Cathain a gheobhad an leath eile de na leabhair ar ais?
+  rektatraduko:
     - Kiam: Cathain
     - mi: mé
     - rericevos: gheobhaidh ar ais
@@ -25,9 +23,8 @@
     - la: na
     - libroj: leabhair
     - '?'
-- 
-  demando: An mbeidh níos mó ná ráithe ag teastáil uait do na poist sin?
-  rektatraduko: 
+- demando: An mbeidh níos mó ná ráithe ag teastáil uait do na poist sin?
+  rektatraduko:
     - Ĉu: An
     - vi: tú
     - bezonos: gá
@@ -39,24 +36,22 @@
     - tiuj: sin
     - laboroj: poist
     - '?'
-- 
-  demando: Cén fáth dá fhuaire é, gurb amhlaidh is sia a fhanaimid?   
-  rektatraduko: 
+- demando: Cén fáth dá fhuaire é, gurb amhlaidh is sia a fhanaimid?
+  rektatraduko:
     - Kial: Cén fáth
-    - estas: tá
-    - des: dá
-    - pli: níos mó
-    - malvarma: fuar
-    - ',' 
     - ju: dá
     - pli: níos mó
     - longe: fada
     - ni: sinn
     - atendas: fanann
+    - ','
+    - des: dá
+    - pli: níos mó
+    - malvarme: fuar
+    - estas: tá
     - '?'
-- 
-  demando: An mbeifeá sásta le fear ar bith?
-  rektatraduko: 
+- demando: An mbeifeá sásta le fear ar bith?
+  rektatraduko:
     - Ĉu: An
     - vi: tú
     - estus: bheadh

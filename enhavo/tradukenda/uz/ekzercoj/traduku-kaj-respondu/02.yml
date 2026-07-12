@@ -1,64 +1,64 @@
 - demando: Eski uyingiz qanday edi?
   rektatraduko:
-  - Kia: qanday
-  - estis: edi
-  - via: sizning
-  - malnova: eski
-  - hejmo: uy
-  - '?'
+    - Kia: qanday
+    - estis: edi
+    - via: sizning
+    - malnova: eski
+    - hejmo: uy
+    - '?'
 - demando: Qaysi kitoblarni oʻqidingiz va ular yaxshimidi?
   rektatraduko:
-  - Kiujn: qaysilarni
-  - librojn: kitoblarni
-  - vi: siz
-  - legis: oʻqidingiz
-  - kaj: va
-  - ĉu: savol yuklamasi
-  - ili: ular
-  - estas: boʻladi
-  - bonaj: yaxshi
-  - '?'
-- demando: Anna va Marko Markoning kichik xonasida nima qildi?
+    - Kiujn: qaysilarni
+    - librojn: kitoblarni
+    - vi: siz
+    - legis: oʻqidingiz
+    - kaj: va
+    - ĉu: savol yuklamasi
+    - ili: ular
+    - estas: boʻladi
+    - bonaj: yaxshi
+    - '?'
+- demando: Ana va Marko Markoning kichik xonasida nima qildi?
   rektatraduko:
-  - Kion: nimani
-  - faris: qildi
-  - Anna: Anna
-  - kaj: va
-  - Marko: Marko
-  - en: ichida
-  - la: aniq artikl
-  - malgranda: kichik
-  - ĉambro: xona
-  - de: '...ning'
-  - Marko: Marko
-  - '?'
+    - Kion: nimani
+    - faris: qildi
+    - Ana: Ana
+    - kaj: va
+    - Marko: Marko
+    - en: ichida
+    - la: aniq artikl
+    - malgranda: kichik
+    - ĉambro: xona
+    - de: '...ning'
+    - Marko: Marko
+    - '?'
 - demando: Sevgi haqidagi kitoblarni oʻqishni yoqtirasizmi?
   rektatraduko:
-  - Ĉu: savol yuklamasi
-  - vi: siz
-  - ŝatas: yoqtirasiz
-  - legi: oʻqimoq
-  - librojn: kitoblarni
-  - pri: haqida
-  - amo: sevgi
-  - '?'
+    - Ĉu: savol yuklamasi
+    - vi: siz
+    - ŝatas: yoqtirasiz
+    - legi: oʻqimoq
+    - librojn: kitoblarni
+    - pri: haqida
+    - amo: sevgi
+    - '?'
 - demando: Kim siz bilan uyingizga boradi?
   rektatraduko:
-  - Kiu: kim
-  - iros: boradi
-  - kun: bilan
-  - vi: siz
-  - al: '...ga'
-  - via: sizning
-  - hejmo: uy
-  - '?'
+    - Kiu: kim
+    - iros: boradi
+    - kun: bilan
+    - vi: siz
+    - al: '...ga'
+    - via: sizning
+    - hejmo: uy
+    - '?'
 - demando: Dugonangizning koʻzlari qanday?
   rektatraduko:
-  - Kiaj: qandaylar
-  - estas: boʻladi
-  - la: aniq artikl
-  - okuloj: koʻzlar
-  - de: '...ning'
-  - via: sizning
-  - amikino: dugona
-  - '?'
+    - Kiaj: qandaylar
+    - estas: boʻladi
+    - la: aniq artikl
+    - okuloj: koʻzlar
+    - de: '...ning'
+    - via: sizning
+    - amikino: dugona
+    - '?'

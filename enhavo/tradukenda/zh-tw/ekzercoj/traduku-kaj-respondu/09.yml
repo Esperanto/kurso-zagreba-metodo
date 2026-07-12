@@ -1,74 +1,70 @@
-- 
-  demando: 什麼東西可能讓你的父母親最高興？
-  rektatraduko: 
-    - Kio: 什麼東西
-    - povus: 能
-    - plej: 最
-    - ĝojigi: 使高興
-    - viajn: 你的
-    - gepatrojn: 父母親
-    - '?'
-- 
-  demando: 如果至少你在課後，和我去市中心！
-  rektatraduko: 
-    - Se: 假如
-    - almenaŭ: 最少
-    - vi: 你
-    - post: 後
-    - la: 那
-    - lernado: 學習
-    - irus: 或許會去
-    - kun: 和
-    - mi: 我
-    - en: 在內
-    - la: 那
-    - urbocentron: 市中心
-    - '!'
-- 
-  demando: 你希望到哪裡去旅行，假如你有足够的錢和時間？
-  rektatraduko: 
-    - Kien: 哪裡
-    - vi: 你
-    - dezirus: 希望
-    - vojaĝi: 旅行
-    - ',' 
-    - se: 假如
-    - vi: 你
-    - havus: 有
-    - sufiĉe: 足够
-    - da: 的
-    - mono: 錢
-    - kaj: 和
-    - tempo: 時間
-    - '?'
-- 
-  demando: 你是否計畫開車到巴黎去，搭火車不是好像更好嗎？
-  rektatraduko: 
-    - Ĉu: 是否
-    - vi: 你
-    - planas: 計畫
-    - venturi: 乘行
-    - al: 往
-    - Parizo: 巴黎
-    - per: 使用
-    - aŭto: 汽車
-    - ĉu: 是否
-    - ne: 不
-    - ŝajnas：似乎，好像
-    - multe: 多
-    - pli: 更
-    - bone: 好
-    - per: 使用
-    - vagonaro: 火車
-    - '?'
-- 
-  demando: 為什麼各種人以各種方式解释同樣的構想？
-  rektatraduko: 
-    - Kial: 為什麼
-    - diversaj: 各種
-    - homoj: 人
-    - klarigas: 解釋
-    - samajn: 同樣
-    - ideojn: 構想
-    - diversmaniere: 以各種方式
-    - '?'
+- demando: 什麼東西可能讓你的父母親最高興？
+  rektatraduko:
+  - Kio: 什麼東西
+  - povus: 能
+  - plej: 最
+  - ĝojigi: 使高興
+  - viajn: 你的
+  - gepatrojn: 父母親
+  - '?'
+- demando: 如果至少你在課後，和我去城市！
+  rektatraduko:
+  - Se: 假如
+  - almenaŭ: 最少
+  - vi: 你
+  - post: 後
+  - la: 那
+  - lernado: 學習
+  - irus: 或許會去
+  - kun: 和
+  - mi: 我
+  - en: 在內
+  - la: 那
+  - urbon: 城市
+  - '!'
+- demando: 你希望到哪裡去旅行，假如你有足够的錢和時間？
+  rektatraduko:
+  - Kien: 哪裡
+  - vi: 你
+  - dezirus: 希望
+  - vojaĝi: 旅行
+  - ','
+  - se: 假如
+  - vi: 你
+  - havus: 有
+  - sufiĉe: 足够
+  - da: 的
+  - mono: 錢
+  - kaj: 和
+  - tempo: 時間
+  - '?'
+- demando: 你是否計畫開車到義大利去，搭火車不是好像更好嗎？
+  rektatraduko:
+  - Ĉu: 是否
+  - vi: 你
+  - planas: 計畫
+  - veturi: 旅行
+  - al: 往
+  - Italio: 義大利
+  - per: 使用
+  - aŭto: 汽車
+  - aŭ: 或
+  - ĉu: 是否
+  - ne: 不
+  - ŝajnas: 似乎
+  - multe: 多
+  - pli: 更
+  - bone: 好
+  - per: 使用
+  - vagonaro: 火車
+  - '?'
+- demando: 為什麼各種人以各種方式解释同樣的構想？
+  rektatraduko:
+  - Kial: 為什麼
+  - diversaj: 各種
+  - homoj: 人
+  - klarigas: 解釋
+  - samajn: 同樣
+  - ideojn: 構想
+  - diversmaniere: 以各種方式
+  - '?'

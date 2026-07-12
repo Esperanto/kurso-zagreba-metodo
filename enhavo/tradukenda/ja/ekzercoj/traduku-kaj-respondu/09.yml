@@ -1,75 +1,70 @@
-- 
-  demando: 何があなたのご両親をいちばん喜ばせることができるのでしょう？
-  rektatraduko: 
-    - Kio: 何が
-    - povus: （仮に）できるだろうか
-    - plej: いちばん
-    - ĝojigi: 喜ばせる
-    - viajn: あなたの
-    - gepatrojn: 両親を
-    - '?'
-- 
-  demando: せめてあなたが学習のあとで私と市のセンターへ行っていたらなぁ！
-  rektatraduko: 
-    - Se: もし
-    - almenaŭ: 少なくとも
-    - vi: あなたは
-    - post: 後で
-    - la: （定冠詞） 
-    - lernado: 学習
-    - irus: （仮に）行っていたらなぁ
-    - kun: ～と
-    - mi: 私
-    - en: の中に
-    - la: （定冠詞） 
-    - urbocentron: 市のセンターへ
-    - '!'
-- 
-  demando: もしあなたが十分にお金と時間を持っているとしたら、どこへ旅行をしたいですか？
-  rektatraduko: 
-    - Kien: どこへ
-    - vi: あなたは
-    - dezirus: （仮に）望む
-    - vojaĝi: 旅行することを
-    - ',' 
-    - se: もし
-    - vi: あなたが
-    - havus: （仮に）持っているとしたら
-    - sufiĉe: 十分に
-    - da: ～だけの
-    - mono: お金
-    - kaj: そして
-    - tempo: 時間
-    - '?'
--
-  demando: あなたはパリへ車で旅行する計画なのですか、あるいは列車の方がずっと良いように思えないですか？
-  rektatraduko: 
-    - Ĉu: ～か？
-    - vi: あなたは
-    - planas: 計画する
-    - veturi: 旅行することを
-    - al: ～へ
-    - Parizo: パリ
-    - per: ～で
-    - aŭto: 車
-    - aŭ: あるいは
-    - ĉu: ～か？
-    - ne: でない
-    - ŝajnas: ～のように思える
-    - multe: 多く（ずっと）
-    - pli: もっと
-    - bone: 良く
-    - per: ～で
-    - vagonaro: 列車
-    - '?'
-- 
-  demando: なぜいろいろな人が同じことを違ったやり方で説明するのだろうか？
-  rektatraduko: 
-    - Kial: なぜ
-    - diversaj: いろいろな
-    - homoj: 人々が
-    - klarigas: 説明する
-    - samajn: 同じ
-    - ideojn: 意見を
-    - diversmaniere: 様々なやりかたで 
-    - '?'
+- demando: 何があなたのご両親をいちばん喜ばせることができるのでしょう？
+  rektatraduko:
+  - Kio: 何が
+  - povus: （仮に）できるだろうか
+  - plej: いちばん
+  - ĝojigi: 喜ばせる
+  - viajn: あなたの
+  - gepatrojn: 両親を
+  - '?'
+- demando: せめてあなたが学習のあとで私と都市へ行っていたらなぁ！
+  rektatraduko:
+  - Se: もし
+  - almenaŭ: 少なくとも
+  - vi: あなたは
+  - post: 後で
+  - la: （定冠詞）
+  - lernado: 学習
+  - irus: （仮に）行っていたらなぁ
+  - kun: ～と
+  - mi: 私
+  - en: の中に
+  - la: （定冠詞）
+  - urbon: 都市
+  - '!'
+- demando: もしあなたが十分にお金と時間を持っているとしたら、どこへ旅行をしたいですか？
+  rektatraduko:
+  - Kien: どこへ
+  - vi: あなたは
+  - dezirus: （仮に）望む
+  - vojaĝi: 旅行することを
+  - ','
+  - se: もし
+  - vi: あなたが
+  - havus: （仮に）持っているとしたら
+  - sufiĉe: 十分に
+  - da: ～だけの
+  - mono: お金
+  - kaj: そして
+  - tempo: 時間
+  - '?'
+- demando: あなたはイタリアへ車で旅行する計画なのですか、あるいは列車の方がずっと良いように思えないですか？
+  rektatraduko:
+  - Ĉu: ～か？
+  - vi: あなたは
+  - planas: 計画する
+  - veturi: 旅行することを
+  - al: ～へ
+  - Italio: イタリア
+  - per: ～で
+  - aŭto: 車
+  - aŭ: あるいは
+  - ĉu: ～か？
+  - ne: でない
+  - ŝajnas: ～のように思える
+  - multe: 多く（ずっと）
+  - pli: もっと
+  - bone: 良く
+  - per: ～で
+  - vagonaro: 列車
+  - '?'
+- demando: なぜいろいろな人が同じことを違ったやり方で説明するのだろうか？
+  rektatraduko:
+  - Kial: なぜ
+  - diversaj: いろいろな
+  - homoj: 人々が
+  - klarigas: 説明する
+  - samajn: 同じ
+  - ideojn: 意見を
+  - diversmaniere: 様々なやりかたで
+  - '?'

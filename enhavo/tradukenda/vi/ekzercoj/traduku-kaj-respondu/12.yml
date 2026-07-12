@@ -1,20 +1,18 @@
-- 
-  demando: Chúng ta sẽ còn gặp lại nhau không, ở bất cứ đâu và bất cứ lúc nào?
-  rektatraduko: 
+- demando: Chúng ta sẽ còn gặp lại nhau không, ở bất cứ đâu và bất cứ lúc nào?
+  rektatraduko:
     - Ĉu: Còn không
     - ni: chúng ta
     - revidos: sẽ gặp lại
     - nin: nhau
-    - ',' 
+    - ','
     - kie: nơi đâu
     - ajn: bất cứ
     - kaj: và
     - kiam: lúc nào
     - ajn: bất cứ
     - '?'
-- 
-  demando: Đến khi nào tớ sẽ lấy lại được một nửa kia của mấy quyển sách vậy?
-  rektatraduko: 
+- demando: Đến khi nào tớ sẽ lấy lại được một nửa kia của mấy quyển sách vậy?
+  rektatraduko:
     - Kiam: Khi nào
     - mi: tớ
     - rericevos: sẽ lấy lại
@@ -25,9 +23,8 @@
     - la: (mạo từ xác định)
     - libroj: mấy quyển sách
     - '?'
-- 
-  demando: Liệu cậu sẽ cần nhiều hơn một phần tư của năm cho những công việc đó?
-  rektatraduko: 
+- demando: Liệu cậu sẽ cần nhiều hơn một phần tư của năm cho những công việc đó?
+  rektatraduko:
     - Ĉu: Liệu
     - vi: cậu
     - bezonos: sẽ cần
@@ -39,24 +36,22 @@
     - tiuj: đó
     - laboroj: những công việc
     - '?'
-- 
-  demando: Tại sao càng lạnh, chúng ta càng phải chờ lâu?
-  rektatraduko: 
+- demando: Tại sao càng lạnh, chúng ta càng phải chờ lâu?
+  rektatraduko:
     - Kial: Tại sao
-    - estas: (thì là)
-    - des: (so sánh phối hợp)
-    - pli: càng
-    - malvarma: lạnh
-    - ',' 
     - ju: (so sánh phối hợp)
     - pli: càng
     - longe: lâu
     - ni: chúng ta
     - atendas: chờ
+    - ','
+    - des: (so sánh phối hợp)
+    - pli: càng
+    - malvarme: lạnh
+    - estas: (thì là)
     - '?'
-- 
-  demando: Liệu cậu sẽ hài lòng với bất kỳ người đàn ông nào?
-  rektatraduko: 
+- demando: Liệu cậu sẽ hài lòng với bất kỳ người đàn ông nào?
+  rektatraduko:
     - Ĉu: Liệu
     - vi: cậu
     - estus: sẽ

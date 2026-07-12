@@ -1,76 +1,70 @@
-- 
-  demando: Ebeveynlerinizi en çok ne memnun edebilirdi?
-  rektatraduko: 
-    - Kio: ne
-    - povus: -bilirdi, yapabilirdi, edebilirdi
-    - plej: en çok
-    - ĝojigi: memnun etmek
-    - viajn: sizin
-    - gepatrojn: ebeveyn 
-    - '?'
-- 
-  demando: Okuldan sonra benle hiç olmazsa şehir merkezine gitmek isteseydin eğer!
-  rektatraduko: 
-    - Se: eğer
-    - almenaŭ: hiç olmazsa
-    - vi: sen
-    - post: sonra
-    - la: (belirleyici artikel)
-    - lernado: eğitim, okul
-    - irus: gitseydin
-    - kun: ile
-    - mi: ben
-    - en: -e, içine 
-    - la: (belirleyici artikel)
-    - urbocentron: şehir merkezi
-    - '!'
-- 
-  demando: Eğer yeterli para ve zamanınız olsaydı nereye seyahat etmeyi arzu ederdiniz?
-  rektatraduko: 
-    - Kien: nereye
-    - vi: siz
-    - dezirus: arzu ederdiniz
-    - vojaĝi: seyahat etmek
-    - ',' 
-    - se: eğer
-    - vi: siz
-    - havus: sahip olsaydı
-    - sufiĉe: yeterli
-    - da: -den, -dan
-    - mono: para
-    - kaj: ve
-    - tempo: zaman
-    - '?'
-- 
-  demando: Paris'e otomobil ile seyahat etmeği mi planlıyorsunuz yoksa tren ile gitmek daha iyi görünmüyor mu?
-  rektatraduko: 
-    - Ĉu: mi
-    - vi: siz
-    - planas : planlıyor
-    - veturi: seyahat etmek
-    - al: -e 
-    - Parizo: Paris
-    - per: ile, vasıtası ile
-    - aŭto: otomobil
-    - aŭ: yoksa, veya
-    - ĉu: mu
-    - ne: -miyor 
-    - ŝajnas: benziyor
-    - multe: çok 
-    - pli: daha 
-    - bone: iyi, iyisi
-    - veturi: seyahat etmek, gitmek
-    - per: ile, vasıtası ile
-    - vagonaro: tren
-    - '?'
-- 
-  demando: Neden aynı fikirleri farklı insanlar farklı şekilde açıklıyor?
-  rektatraduko: 
-    - Kial: neden, niçin
-    - diversaj: farklı
-    - homoj: insanlar
-    - klarigas: açıklıyor
-    - samajn: aynı, benzer
-    - ideojn: fikirler
-    - diversmaniere: farklı şekilde 
-    - '?'
+- demando: Ebeveynlerinizi en çok ne memnun edebilirdi?
+  rektatraduko:
+  - Kio: ne
+  - povus: -bilirdi, yapabilirdi, edebilirdi
+  - plej: en çok
+  - ĝojigi: memnun etmek
+  - viajn: sizin
+  - gepatrojn: ebeveyn
+  - '?'
+- demando: Okuldan sonra benle hiç olmazsa şehre gitmek isteseydin eğer!
+  rektatraduko:
+  - Se: eğer
+  - almenaŭ: hiç olmazsa
+  - vi: sen
+  - post: sonra
+  - la: (belirleyici artikel)
+  - lernado: eğitim, okul
+  - irus: gitseydin
+  - kun: ile
+  - mi: ben
+  - en: -e, içine
+  - la: (belirleyici artikel)
+  - urbon: şehir
+  - '!'
+- demando: Eğer yeterli para ve zamanınız olsaydı nereye seyahat etmeyi arzu ederdiniz?
+  rektatraduko:
+  - Kien: nereye
+  - vi: siz
+  - dezirus: arzu ederdiniz
+  - vojaĝi: seyahat etmek
+  - ','
+  - se: eğer
+  - vi: siz
+  - havus: sahip olsaydı
+  - sufiĉe: yeterli
+  - da: -den, -dan
+  - mono: para
+  - kaj: ve
+  - tempo: zaman
+  - '?'
+- demando: İtalya'ya otomobil ile seyahat etmeği mi planlıyorsunuz yoksa tren ile gitmek daha iyi görünmüyor mu?
+  rektatraduko:
+  - Ĉu: mi
+  - vi: siz
+  - planas: planlıyor
+  - veturi: seyahat etmek
+  - al: -e
+  - Italio: İtalya
+  - per: ile, vasıtası ile
+  - aŭto: otomobil
+  - aŭ: yoksa, veya
+  - ĉu: mu
+  - ne: -miyor
+  - ŝajnas: benziyor
+  - multe: çok
+  - pli: daha
+  - bone: iyi, iyisi
+  - per: ile, vasıtası ile
+  - vagonaro: tren
+  - '?'
+- demando: Neden aynı fikirleri farklı insanlar farklı şekilde açıklıyor?
+  rektatraduko:
+  - Kial: neden, niçin
+  - diversaj: farklı
+  - homoj: insanlar
+  - klarigas: açıklıyor
+  - samajn: aynı, benzer
+  - ideojn: fikirler
+  - diversmaniere: farklı şekilde
+  - '?'

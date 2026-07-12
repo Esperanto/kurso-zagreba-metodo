@@ -1,26 +1,23 @@
-- 
-  demando: Siapa teman wanita anda?
+- demando: Siapa teman wanita anda?
   rektatraduko:
     - Kiu: Siapa
     - estas: ialah
     - via: anda punya
     - amikino: teman wanita
     - '?'
-- 
-  demando: Adakah kawan wanita anda Anna kini menulis di dalam bilik ?
+- demando: Adakah kawan wanita anda Ana kini menulis di dalam bilik ?
   rektatraduko:
     - Ĉu: Adakah
     - via: anda punya
     - amikino: kawan wanita
-    - Anna: Anna
+    - Ana: Ana
     - skribas: menulis
     - nun: kini
     - en: di
     - la: itu
     - ĉambro: bilik
     - '?'
-- 
-  demando: Adakah bapa kawan anda bekerja di sebuah hotel?
+- demando: Adakah bapa kawan anda bekerja di sebuah hotel?
   rektatraduko:
     - Ĉu: Adakah
     - la: itu
@@ -32,8 +29,7 @@
     - en: di
     - hotelo: sebuah hotel
     - '?'
-- 
-  demando: Apa yang ada di atas meja kerja di dalam bilik kita ?
+- demando: Apa yang ada di atas meja kerja di dalam bilik kita ?
   rektatraduko:
     - Kio: Apa
     - estas: ialah
@@ -44,8 +40,7 @@
     - nia: kita punya
     - ĉambro: bilik
     - '?'
-- 
-  demando: Adakah buku teks Esperanto di atas meja anda ?
+- demando: Adakah buku teks Esperanto di atas meja anda ?
   rektatraduko:
     - Ĉu: Adakah
     - Esperanto-lernolibro: buku teks Esperanto
@@ -54,4 +49,3 @@
     - via: anda punya
     - tablo: meja
     - '?'
-

@@ -1,75 +1,70 @@
-- 
-  demando: "Inona no tokony ampifaly be be kokoa ny Ray aman-dReninao?"
-  rektatraduko: 
-    - Kio: Inona
-    - povus: no tokony
-    - plej: kokoa
-    - ĝojigi: ampifaly
-    - viajn: -nao / -nareo
-    - gepatrojn: Ray aman-dReny
-    - '?'
-- 
-  demando: "Raha farafaharatsiny lasa niaraka amiko any afovoan-tanana aorian'ny sekoly ?"
-  rektatraduko: 
-    - Se: Raha
-    - almenaŭ: fahafaharatsiny
-    - vi: ianao / ianareo
-    - post: aoriana
-    - la: ny
-    - lernado: sekoly
-    - irus: lasa
-    - kun: niaraka
-    - mi: -ko
-    - en: aminy
-    - la: ny
-    - urbocentron: afovoan-tanàna
-    - '!'
-- 
-  demando: "Taiza no tianao itsangatsanganana raha ampy vola sy fotoana ianao ?"
-  rektatraduko: 
-    - Kien: Taiza
-    - vi: ianao / ianareo
-    - dezirus: no tiana
-    - vojaĝi: itsangatsanganana
-    - ',' 
-    - se: raha
-    - vi: ianao / ianareo
-    - havus: "no"
-    - sufiĉe: ampy
-    - da: ny
-    - mono: vola
-    - kaj: sy
-    - tempo: fotoana
-    - '?'
-- 
-  demando: "Ianao ve mikasa ny handeha ho any Paris amin'ny fiara, sa tsy dia tsara noho ny fiaran-dalamby ?"
-  rektatraduko: 
-    - Ĉu: Moa ve 
-    - vi: ianao / ianareo
-    - planas: mikasa
-    - veturi: ny handeha
-    - al: ho any
-    - Parizo: Paris
-    - per: aminy
-    - aŭto: ny fiara
-    - aŭ: sa
-    - ĉu: moa ve
-    - ne: tsy
-    - ŝajnas: toa
-    - multe: be
-    - pli: kokoa
-    - bone: tsara
-    - per: ny
-    - vagonaro: fiaran-dalamby
-    - '?'
-- 
-  demando: "Nahoana ny olona samy hafa manazava ny hevitra mitovy amin'ny fomba samy hafa?"
-  rektatraduko: 
-    - Kial: Nahoana
-    - diversaj: samy hafa
-    - homoj: ny olona
-    - klarigas: manazava
-    - samajn: mitovy
-    - ideojn: ny hevitra
-    - diversmaniere: amin'ny fomba samy hafa
-    - '?'
+- demando: Inona no tokony ampifaly be be kokoa ny Ray aman-dReninao?
+  rektatraduko:
+  - Kio: Inona
+  - povus: no tokony
+  - plej: kokoa
+  - ĝojigi: ampifaly
+  - viajn: -nao / -nareo
+  - gepatrojn: Ray aman-dReny
+  - '?'
+- demando: Raha farafaharatsiny lasa niaraka amiko any tanàna aorian'ny sekoly ?
+  rektatraduko:
+  - Se: Raha
+  - almenaŭ: fahafaharatsiny
+  - vi: ianao / ianareo
+  - post: aoriana
+  - la: ny
+  - lernado: sekoly
+  - irus: lasa
+  - kun: niaraka
+  - mi: -ko
+  - en: aminy
+  - la: ny
+  - urbon: tanàna lehibe
+  - '!'
+- demando: Taiza no tianao itsangatsanganana raha ampy vola sy fotoana ianao ?
+  rektatraduko:
+  - Kien: Taiza
+  - vi: ianao / ianareo
+  - dezirus: no tiana
+  - vojaĝi: itsangatsanganana
+  - ','
+  - se: raha
+  - vi: ianao / ianareo
+  - havus: 'no'
+  - sufiĉe: ampy
+  - da: ny
+  - mono: vola
+  - kaj: sy
+  - tempo: fotoana
+  - '?'
+- demando: Ianao ve mikasa ny handeha ho any Italia amin'ny fiara, sa tsy dia tsara noho ny fiaran-dalamby ?
+  rektatraduko:
+  - Ĉu: Moa ve
+  - vi: ianao / ianareo
+  - planas: mikasa
+  - veturi: ny handeha
+  - al: ho any
+  - Italio: italia
+  - per: aminy
+  - aŭto: ny fiara
+  - aŭ: sa
+  - ĉu: moa ve
+  - ne: tsy
+  - ŝajnas: toa
+  - multe: be
+  - pli: kokoa
+  - bone: tsara
+  - per: ny
+  - vagonaro: fiaran-dalamby
+  - '?'
+- demando: Nahoana ny olona samy hafa manazava ny hevitra mitovy amin'ny fomba samy hafa?
+  rektatraduko:
+  - Kial: Nahoana
+  - diversaj: samy hafa
+  - homoj: ny olona
+  - klarigas: manazava
+  - samajn: mitovy
+  - ideojn: ny hevitra
+  - diversmaniere: amin'ny fomba samy hafa
+  - '?'

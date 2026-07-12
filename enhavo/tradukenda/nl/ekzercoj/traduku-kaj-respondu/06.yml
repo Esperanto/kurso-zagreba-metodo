@@ -1,5 +1,4 @@
--
-  demando: Wil je dat ik je mijn nieuwste boek laat zien?
+- demando: Wil je dat ik je mijn nieuwste boek laat zien?
   rektatraduko:
     - Ĉu: Of
     - vi: je
@@ -15,8 +14,7 @@
     - novan: nieuwe
     - libron: boek
     - '?'
--
-  demando: Wat wil je morgen ontbijten?
+- demando: Wat wil je morgen ontbijten?
   rektatraduko:
     - Kion: Wat
     - vi: je
@@ -24,8 +22,7 @@
     - morgaŭ: morgen
     - matenmanĝi: ontbijten
     - '?'
--
-  demando: Wanneer zal Marc aankomen, om vijf of om acht uur?
+- demando: Wanneer zal Marc aankomen, om vijf of om acht uur?
   rektatraduko:
     - Kiam: Wanneer
     - Marko: Marc
@@ -40,8 +37,7 @@
     - oka: achtste
     - horo: uur
     - '?'
--
-  demando: Wanneer heb je gemerkt dat de hele familie mij een weldoener noemt?
+- demando: Wanneer heb je gemerkt dat de hele familie mij een weldoener noemt?
   rektatraduko:
     - Kiam: Wanneer
     - vi: je
@@ -55,18 +51,18 @@
     - min: mij
     - bonfarulo: een weldoener
     - '?'
--
-  demando: Was het boekje dat ik gestuurd heb nuttig voor jou?
+- demando: Was het boekje dat ik gestuurd heb nuttig voor jou?
   rektatraduko:
     - Ĉu: Of
     - la: het
     - libreto: boekje
-    - estis: was
-    - utila: nuttig
-    - al: voor
-    - vi: jou
     - ','
     - kiun: dat
     - mi: ik
     - sendis: stuurde
+    - al: voor
+    - vi: jou
+    - ','
+    - estis: was
+    - utila: nuttig
     - '?'

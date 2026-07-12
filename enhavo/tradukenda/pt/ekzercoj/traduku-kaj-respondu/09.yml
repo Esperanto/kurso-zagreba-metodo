@@ -1,72 +1,70 @@
-- 
-  demando: O que poderia mais alegrar teus pais?
-  rektatraduko: 
-    - Kio: O que
-    - povus: poderia
-    - plej: mais
-    - ĝojigi: alegrar
-    - viajn: teus
-    - gepatrojn: pais
-    - '?'
-- 
-  demando: Se ao menos você após o aprendizado fosse comigo no centro da cidade!
-  rektatraduko: 
-    - Se: Se
-    - almenaŭ: ao menos
-    - vi: você
-    - post: após
-    - la: o 
-    - lernado: aprendizado
-    - irus: fosse
-    - kun: com
-    - mi: eu (comigo)
-    - en: em
-    - la: o (no) 
-    - urbocentron: centro da cidade
-    - '!'
-- 
-  demando: Para onde você gostaria de viajar se você tivesse suficiente quantidade de dinheiro e tempo?
-  rektatraduko: 
-    - Kien: Para onde
-    - vi: você
-    - dezirus: gostaria de
-    - vojaĝi: viajar
-    - ',' 
-    - se: se
-    - vi: você
-    - havus: tivesse
-    - sufiĉe: suficiente
-    - da: quantidade de
-    - mono: dinheiro
-    - kaj: e
-    - tempo: tempo
-    - '?'
-- 
-  demando: (Acaso) você viaja por meio de carro a Paris ou ainda melhor, por meio de trem?
-  rektatraduko: 
-    - Ĉu: Acaso
-    - vi: você
-    - vojaĝas: viaja
-    - per: por meio de
-    - la: o
-    - aŭto: carro
-    - al: a
-    - Parizo: Paris
-    - aŭ: ou
-    - pli: (mais) ainda
-    - bone: melhor
-    - per: por meio de
-    - la: o
-    - vagonaro: trem
-    - '?'
-- 
-  demando: Por que diferentes pessoas explicam as mesmas ideias diferentemente?
-  rektatraduko: 
-    - Kial: Por que
-    - diversaj: diferentes
-    - homoj: pessoas
-    - klarigas: explicam
-    - samajn: as mesmas
-    - ideojn: ideias
-    - diversmaniere: diferentemente 
-    - '?'
+- demando: O que poderia mais alegrar teus pais?
+  rektatraduko:
+  - Kio: O que
+  - povus: poderia
+  - plej: mais
+  - ĝojigi: alegrar
+  - viajn: teus
+  - gepatrojn: pais
+  - '?'
+- demando: Se ao menos você após o aprendizado fosse comigo na cidade!
+  rektatraduko:
+  - Se: Se
+  - almenaŭ: ao menos
+  - vi: você
+  - post: após
+  - la: o
+  - lernado: aprendizado
+  - irus: fosse
+  - kun: com
+  - mi: eu (comigo)
+  - en: em
+  - la: o (no)
+  - urbon: cidade
+  - '!'
+- demando: Para onde você gostaria de viajar se você tivesse suficiente quantidade de dinheiro e tempo?
+  rektatraduko:
+  - Kien: Para onde
+  - vi: você
+  - dezirus: gostaria de
+  - vojaĝi: viajar
+  - ','
+  - se: se
+  - vi: você
+  - havus: tivesse
+  - sufiĉe: suficiente
+  - da: quantidade de
+  - mono: dinheiro
+  - kaj: e
+  - tempo: tempo
+  - '?'
+- demando: (Acaso) você viaja por meio de carro à Itália ou ainda melhor, por meio de trem?
+  rektatraduko:
+  - Ĉu: Acaso
+  - vi: você
+  - planas: viaja
+  - veturi: to travel
+  - al: a
+  - Italio: Itália
+  - per: por meio de
+  - aŭto: carro
+  - aŭ: ou
+  - ĉu: (Acaso)
+  - ne: não
+  - ŝajnas: seem
+  - multe: much
+  - pli: (mais) ainda
+  - bone: melhor
+  - per: por meio de
+  - vagonaro: trem
+  - '?'
+- demando: Por que diferentes pessoas explicam as mesmas ideias diferentemente?
+  rektatraduko:
+  - Kial: Por que
+  - diversaj: diferentes
+  - homoj: pessoas
+  - klarigas: explicam
+  - samajn: as mesmas
+  - ideojn: ideias
+  - diversmaniere: diferentemente
+  - '?'

@@ -1,15 +1,13 @@
--
-  demando: Kada ću te ponovno vidjeti?
-  rektatraduko: 
+- demando: Kada ću te ponovno vidjeti?
+  rektatraduko:
     - Kiam: Kada
-    - mi: ja 
+    - mi: ja
     - revidos: ponovno će vidjeti
     - vin: tebe
     - '?'
--
-  demando: Koliko dugo učite međunarodni jezik?
-  rektatraduko: 
-    - Kiel: Kako
+- demando: Koliko dugo učite međunarodni jezik?
+  rektatraduko:
+    - Kiom: koliko
     - longe: dugo
     - vi: vi
     - lernas: učite
@@ -17,9 +15,8 @@
     - Internacian: međunarodni
     - Lingvon: jezik
     - '?'
--
-  demando: Gdje je moja nova knjiga s fotografijama?
-  rektatraduko: 
+- demando: Gdje je moja nova knjiga s fotografijama?
+  rektatraduko:
     - Kie: Gdje
     - estas: je
     - mia: moj
@@ -28,9 +25,8 @@
     - kun: s
     - fotoj: fotografije
     - '?'
--
-  demando: Kamo ćeš ići nakon ručka?
-  rektatraduko: 
+- demando: Kamo ćeš ići nakon ručka?
+  rektatraduko:
     - Kien: Kamo
     - vi: ti
     - iros: ići ćeš
@@ -38,9 +34,8 @@
     - la: (član)
     - tagmanĝo: ručak
     - '?'
--
-  demando: Mogu li se zatvoriti sobna vrata kad je hladno?
-  rektatraduko: 
+- demando: Mogu li se zatvoriti sobna vrata kad je hladno?
+  rektatraduko:
     - Ĉu: Da li
     - oni: (neodređena lična zamjenica)
     - povas: može
@@ -55,17 +50,16 @@
     - estas: je
     - malvarme: hladno
     - '?'
--
-  demando: Koliko se dugo ljutiš ako ti se uzme mnogo novca?
-  rektatraduko: 
-    - Kiel: Kako
+- demando: Koliko se dugo ljutiš ako ti se uzme mnogo novca?
+  rektatraduko:
+    - Kiom: koliko
     - longe: dugo
     - vi: ti
     - koleras: ljutiš se
     - ','
     - se: ako
     - oni: (neodređena lična zamjenica)
-    - prenas: uzme
+    - forprenas: takes away
     - de: od
     - vi: ti
     - multan: mnogo

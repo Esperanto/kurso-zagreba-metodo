@@ -56,17 +56,18 @@
     - bonfarulo: Wohltäter
     - '?'
 -
-  demando: War das Büchlein, das ich geschickt habe, für dich nützlich?
+  demando: War das Büchlein, das ich dir geschickt habe, nützlich?
   rektatraduko:
     - Ĉu: Ob
     - la: das
     - libreto: Büchlein
-    - estis: war
-    - utila: nützlich
-    - al: zu
-    - vi: dir
     - ','
     - kiun: das
     - mi: ich
-    - sendis: hast geschickt
+    - sendis: geschickt habe
+    - al: an
+    - vi: dich
+    - ','
+    - estis: war
+    - utila: nützlich
     - '?'

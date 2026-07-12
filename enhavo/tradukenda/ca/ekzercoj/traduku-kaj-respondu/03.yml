@@ -1,5 +1,4 @@
--
-  demando: Els cambrers en els grans hotels entenen molts idiomes?
+- demando: Els cambrers en els grans hotels entenen molts idiomes?
   rektatraduko:
     - Ĉu: Que
     - kelneroj: cambrers
@@ -10,16 +9,16 @@
     - multajn: molts
     - lingvojn: idiomes
     - '?'
--
-  demando: Saps que a l'Anna li agrada una nova cançó sobre un pobre i una noia maca?
-  rektatraduko: 
+- demando: Saps si a l'Ana li agrada una nova cançó sobre un pobre i una noia maca?
+  rektatraduko:
     - Ĉu: Que
     - vi: tu
     - scias: saps
     - ','
-    - ke: que
-    - Ana: Anna
+    - ĉu: si
+    - Ana: Ana
     - ŝatas: li agrada
+    - la: la
     - novan: una nova
     - kanton: cançó
     - pri: sobre
@@ -27,10 +26,9 @@
     - kaj: i
     - belulino: una noia maca
     - '?'
--
-  demando: On vas veure el vell i el jove que portaven una taula gran?
-  rektatraduko: 
-    - Kie: "On"
+- demando: On vas veure el vell i el jove que portaven una taula gran?
+  rektatraduko:
+    - Kie: 'On'
     - vi: tu
     - vidis: vas veure
     - la: el
@@ -44,9 +42,8 @@
     - grandan: una gran
     - tablon: taula
     - '?'
--
-  demando: Com ha passat que has vingut de nou a nosaltres sense germans?
-  rektatraduko: 
+- demando: Com ha passat que has vingut de nou a nosaltres sense germans?
+  rektatraduko:
     - Kiel: Com
     - okazis: ha passat
     - ','
@@ -59,17 +56,17 @@
     - sen: sense
     - gefratoj: germans
     - '?'
--
-  demando: Que pots aprendre esperanto ràpidament amb el nou llibre de text?
-  rektatraduko: 
+- demando: Que pots aprendre esperanto ràpidament amb el nou llibre de text?
+  rektatraduko:
     - Ĉu: Que
     - vi: tu
     - povas: pots
-    - rapide: ràpidament
-    - lerni: aprendre
-    - Esperanton: esperanto
     - per: amb
     - la: la
     - nova: un nou
     - lernolibro: llibre de text
+    - sufiĉe: prou
+    - rapide: ràpidament
+    - lerni: aprendre
+    - Esperanton: esperanto
     - '?'

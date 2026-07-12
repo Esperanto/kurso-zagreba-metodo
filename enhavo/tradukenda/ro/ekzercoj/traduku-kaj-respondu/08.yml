@@ -1,5 +1,4 @@
--
-  demando: Cine va curăța bucătăria după prânz?
+- demando: Cine va curăța bucătăria după prânz?
   rektatraduko:
     - Kiu: Cine
     - purigos: va curăța
@@ -9,8 +8,7 @@
     - la: (articol)
     - tagmanĝo: prânz
     - '?'
--
-  demando: "Ce vrei să bei: ceai, puțină cafea sau nu vrei nimic?"
+- demando: 'Ce vrei să bei: ceai, puțină cafea sau nu vrei nimic?'
   rektatraduko:
     - Kion: Ce
     - vi: tu
@@ -28,8 +26,7 @@
     - volas: vrei
     - nenion: nimic
     - '?'
--
-  demando: De ce ai hotărât atât de brusc să renovezi camera ta mică?
+- demando: De ce ai hotărât atât de brusc să renovezi camera ta mică?
   rektatraduko:
     - Kial: De ce
     - vi: tu
@@ -40,10 +37,9 @@
     - vian: ta
     - ĉambreton: cameră mică
     - '?'
--
-  demando: Cui ai dat paharele curate pentru vin?
+- demando: Cui ai dat paharele curate pentru vin?
   rektatraduko:
-    - al: Cui
+    - Al: Cui
     - kiu: cine
     - vi: tu
     - donis: ai dat
@@ -54,8 +50,7 @@
     - la: (articol)
     - vino: vin
     - '?'
--
-  demando: Împotriva cui a jucat clubul tău sportiv acum două săptămâni?
+- demando: Împotriva cui a jucat clubul tău sportiv acum două săptămâni?
   rektatraduko:
     - Kontraŭ: Împotriva
     - kiu: cui
@@ -66,8 +61,7 @@
     - du: două
     - semajnoj: săptămâni
     - '?'
--
-  demando: Îl vezi des pe polițistul care locuiește în locuința de deasupra ta?
+- demando: Îl vezi des pe polițistul care locuiește în locuința de deasupra ta?
   rektatraduko:
     - Ĉu: oare
     - vi: tu

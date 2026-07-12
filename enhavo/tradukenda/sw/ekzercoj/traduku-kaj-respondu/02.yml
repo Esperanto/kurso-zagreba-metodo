@@ -1,5 +1,4 @@
--
-  demando: Nyumba yako ya zamani ilikuwa ya namna gani?
+- demando: Nyumba yako ya zamani ilikuwa ya namna gani?
   rektatraduko:
     - Kia: Ya namna gani
     - estis: ilikuwa
@@ -7,8 +6,7 @@
     - malnova: ya zamani
     - hejmo: nyumbani
     - '?'
--
-  demando: Ulisoma vitabu vipi, na je, vilikuwa vizuri?
+- demando: Ulisoma vitabu vipi, na je, vilikuwa vizuri?
   rektatraduko:
     - Kiujn: Vipi
     - librojn: vitabu
@@ -20,12 +18,11 @@
     - estas: ni
     - bonaj: vizuri
     - '?'
--
-  demando: Anna na Marko walifanya nini katika chumba kidogo cha Marko?
+- demando: Ana na Marko walifanya nini katika chumba kidogo cha Marko?
   rektatraduko:
     - Kion: Nini
     - faris: walifanya
-    - Anna: Anna
+    - Ana: Ana
     - kaj: na
     - Marko: Marko
     - en: katika
@@ -35,8 +32,7 @@
     - de: cha
     - Marko: Marko
     - '?'
--
-  demando: Je, unapenda kusoma vitabu kuhusu mapenzi?
+- demando: Je, unapenda kusoma vitabu kuhusu mapenzi?
   rektatraduko:
     - Ĉu: je
     - vi: wewe
@@ -46,8 +42,7 @@
     - pri: kuhusu
     - amo: mapenzi
     - '?'
--
-  demando: Nani ataenda pamoja nawe nyumbani kwako?
+- demando: Nani ataenda pamoja nawe nyumbani kwako?
   rektatraduko:
     - Kiu: Nani
     - iros: ataenda
@@ -57,8 +52,7 @@
     - via: kwako
     - hejmo: nyumbani
     - '?'
--
-  demando: Macho ya rafiki yako wa kike yakoje?
+- demando: Macho ya rafiki yako wa kike yakoje?
   rektatraduko:
     - Kiaj: Yakoje
     - estas: yako

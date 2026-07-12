@@ -1,0 +1,223 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 08
+allOf:
+  - $ref: ../traduku-kaj-respondu.schema.yml
+  - minItems: 6
+    prefixItems:
+      - properties:
+          rektatraduko:
+            minItems: 8
+            prefixItems:
+              - type: object
+                required:
+                  - Kiu
+              - type: object
+                required:
+                  - purigos
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - kuirejon
+              - type: object
+                required:
+                  - post
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - tagmanĝo
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 16
+            prefixItems:
+              - type: object
+                required:
+                  - Kion
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - volas
+              - type: object
+                required:
+                  - trinki
+              - const: ':'
+              - type: object
+                required:
+                  - teon
+              - const: ','
+              - type: object
+                required:
+                  - iom
+              - type: object
+                required:
+                  - da
+              - type: object
+                required:
+                  - kafo
+              - type: object
+                required:
+                  - aŭ
+              - type: object
+                required:
+                  - ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - volas
+              - type: object
+                required:
+                  - nenion
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 9
+            prefixItems:
+              - type: object
+                required:
+                  - Kial
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - tiel
+              - type: object
+                required:
+                  - subite
+              - type: object
+                required:
+                  - decidis
+              - type: object
+                required:
+                  - renovigi
+              - type: object
+                required:
+                  - vian
+              - type: object
+                required:
+                  - ĉambreton
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 11
+            prefixItems:
+              - type: object
+                required:
+                  - Al
+              - type: object
+                required:
+                  - kiu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - donis
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - purajn
+              - type: object
+                required:
+                  - glasojn
+              - type: object
+                required:
+                  - por
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - vino
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 9
+            prefixItems:
+              - type: object
+                required:
+                  - Kontraŭ
+              - type: object
+                required:
+                  - kiu
+              - type: object
+                required:
+                  - ludis
+              - type: object
+                required:
+                  - via
+              - type: object
+                required:
+                  - sportklubo
+              - type: object
+                required:
+                  - antaŭ
+              - type: object
+                required:
+                  - du
+              - type: object
+                required:
+                  - semajnoj
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 15
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - ofte
+              - type: object
+                required:
+                  - vidas
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - policiston
+              - const: ','
+              - type: object
+                required:
+                  - kiu
+              - type: object
+                required:
+                  - loĝas
+              - type: object
+                required:
+                  - en
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - loĝejo
+              - type: object
+                required:
+                  - super
+              - type: object
+                required:
+                  - vi
+              - const: '?'
+            items: false
+    items: false

@@ -1,15 +1,13 @@
-- 
-  demando: Jaki był twój stary dom?
-  rektatraduko: 
+- demando: Jaki był twój stary dom?
+  rektatraduko:
     - Kia: Jaki
     - estis: był
     - via: twój
     - malnova: stary
     - hejmo: dom
     - '?'
-- 
-  demando: Które książki czytałeś i czy one są dobre?
-  rektatraduko: 
+- demando: Które książki czytałeś i czy one są dobre?
+  rektatraduko:
     - Kiujn: Które
     - librojn: książki
     - vi: ty
@@ -20,24 +18,22 @@
     - estas: są
     - bonaj: dobre
     - '?'
-- 
-  demando: "Co Anna i Marek robili w małym pokoju Marka?"
+- demando: Co Ana i Marek robili w małym pokoju Marka?
   rektatraduko:
     - Kion: Co
     - faris: robili
-    - Anna: Anna
+    - Ana: Ana
     - kaj: i
     - Marko: Marek
-    - en: w 
+    - en: w
     - la: (przedimek określony)
     - malgranda: mały
     - ĉambro: pokój
     - de: od
     - Marko: Marek
     - '?'
-- 
-  demando: Czy lubisz czytać książki o miłości?
-  rektatraduko: 
+- demando: Czy lubisz czytać książki o miłości?
+  rektatraduko:
     - Ĉu: Czy
     - vi: ty
     - ŝatas: lubisz
@@ -46,9 +42,8 @@
     - pri: o
     - amo: miłość
     - '?'
-- 
-  demando: Kto pójdzie z tobą do twojego domu?
-  rektatraduko: 
+- demando: Kto pójdzie z tobą do twojego domu?
+  rektatraduko:
     - Kiu: Kto
     - iros: pójdzie
     - kun: z
@@ -57,9 +52,8 @@
     - via: twój
     - hejmo: dom
     - '?'
-- 
-  demando: "Jakie są oczy twojej przyjaciółki?"
-  rektatraduko: 
+- demando: Jakie są oczy twojej przyjaciółki?
+  rektatraduko:
     - Kiaj: Jakie
     - estas: są
     - la: (przedimek określony)

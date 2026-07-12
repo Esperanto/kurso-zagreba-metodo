@@ -9,7 +9,7 @@
     - gepatrojn: Eltern
     - '?'
 -
-  demando: Wenn wenigstens du nach dem Lernen mit mir in das Stadtzentrum gehen würdest!
+  demando: Wenn du doch nach dem Lernen mit mir in die Stadt gehen würdest!
   rektatraduko:
     - Se: Wenn
     - almenaŭ: wenigstens
@@ -21,8 +21,8 @@
     - kun: mit
     - mi: mir
     - en: in
-    - la: das
-    - urbocentron: Stadtzentrum
+    - la: die
+    - urbon: Stadt
     - '!'
 -
   demando: Wohin würdest du reisen wollen, wenn du genug Geld und Zeit hättest?
@@ -42,14 +42,14 @@
     - tempo: Zeit
     - '?'
 -
-  demando: Planst du, mit dem Auto nach Paris zu fahren, oder scheint es dir nicht viel besser, mit dem Zug zu fahren?
+  demando: Planst du, mit dem Auto nach Italien zu fahren, oder scheint es dir nicht viel besser, mit dem Zug zu fahren?
   rektatraduko:
     - Ĉu: Ob
     - vi: du
     - planas: planst
     - veturi: fahren
     - al: nach
-    - Parizo: Paris
+    - Italio: Italien
     - per: mittels
     - aŭto: Auto
     - aŭ: oder

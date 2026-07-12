@@ -1,20 +1,18 @@
-- 
-  demando: 우리는 어디든 언제든 서로 다시 만날까?
-  rektatraduko: 
+- demando: 우리는 어디든 언제든 서로 다시 만날까?
+  rektatraduko:
     - Ĉu: ~인가?
     - ni: 우리는
     - revidos: 다시 볼 것이다
     - nin: 우리를
-    - ',' 
+    - ','
     - kie: 어디
     - ajn: ~든가
     - kaj: 그리고
     - kiam: 언제
     - ajn: ~든가
     - '?'
-- 
-  demando: 언제 내가 그 책들의 나머지 절반을 되받을 수 있을까?
-  rektatraduko: 
+- demando: 언제 내가 그 책들의 나머지 절반을 되받을 수 있을까?
+  rektatraduko:
     - Kiam: 언제
     - mi: 나는
     - rericevos: 되받을 것이다
@@ -25,38 +23,35 @@
     - la: (그)
     - libroj: 책들
     - '?'
-- 
-  demando: 그 일들을 위해 한 분기 이상 필요한가요?
-  rektatraduko: 
+- demando: 그 일들을 위해 한 분기 이상 필요한가요?
+  rektatraduko:
     - Ĉu: ~인가
     - vi: 당신은
     - bezonos: 필요할 것이다
     - pli: 더
     - ol: ~보다
-    - kvaronan: "1/4의 (목적격)"
-    - jaron: "1년 (목적격)"
+    - kvaronan: 1/4의 (목적격)
+    - jaron: 1년 (목적격)
     - por: ~를 위해
     - tiuj: 그 (복수형)
     - laboroj: 일들
     - '?'
-- 
-  demando: 우리는 왜 차가울 수록 더 오래 기다리는가?
-  rektatraduko: 
+- demando: 우리는 왜 차가울 수록 더 오래 기다리는가?
+  rektatraduko:
     - Kial: 왜
-    - estas: 이다
-    - des: ~하면 할 수록
-    - pli: 더욱
-    - malvarma: 차가운
-    - ',' 
     - ju: 더더욱
-    - pli: 더
+    - pli: 더욱
     - longe: 오래
     - ni: 우리는
     - atendas: 기다린다
+    - ','
+    - des: ~하면 할 수록
+    - pli: 더
+    - malvarme: 차가운
+    - estas: 이다
     - '?'
-- 
-  demando: 당신은 어느 아무 남자와도 만족스러울 수 있나요?
-  rektatraduko: 
+- demando: 당신은 어느 아무 남자와도 만족스러울 수 있나요?
+  rektatraduko:
     - Ĉu: ~인가?
     - vi: 당신은
     - estus: ~일 수 있다

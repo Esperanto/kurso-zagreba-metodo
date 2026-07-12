@@ -1,20 +1,18 @@
-- 
-  demando: Ci rivedremo ancora, in qualunque momento e in qualunque luogo?
-  rektatraduko: 
+- demando: Ci rivedremo ancora, in qualunque momento e in qualunque luogo?
+  rektatraduko:
     - Ĉu: (interrogativa)
     - ni: noi (soggetto)
     - revidos: rivedremo
     - nin: noi (oggetto)
-    - ',' 
+    - ','
     - kie: dove
     - ajn: qualsiasi
     - kaj: e
     - kiam: quando
     - ajn: qualsiasi
     - '?'
-- 
-  demando: "Quando riceverò indietro l'altra metà dei libri?"
-  rektatraduko: 
+- demando: Quando riceverò indietro l'altra metà dei libri?
+  rektatraduko:
     - Kiam: Quando
     - mi: io
     - rericevos: ri-riceverò
@@ -25,9 +23,8 @@
     - la: i
     - libroj: libri
     - '?'
-- 
-  demando: "Avrai bisogno di più di un quarto dell'anno per quei lavori?"
-  rektatraduko: 
+- demando: Avrai bisogno di più di un quarto dell'anno per quei lavori?
+  rektatraduko:
     - Ĉu: (interrogativa)
     - vi: tu
     - bezonos: avrai bisogno
@@ -39,24 +36,22 @@
     - tiuj: quei
     - laboroj: lavori
     - '?'
-- 
-  demando: "Com'è che quanto più fa freddo, tanto più a lungo aspettiamo?"
-  rektatraduko: 
+- demando: Com'è che quanto più fa freddo, tanto più a lungo aspettiamo?
+  rektatraduko:
     - Kial: Perché
-    - estas: è
-    - des: quanto
-    - pli: più
-    - malvarma: freddo
-    - ',' 
     - ju: tanto
     - pli: più
     - longe: a lungo
     - ni: noi
     - atendas: aspettiamo
+    - ','
+    - des: quanto
+    - pli: più
+    - malvarme: freddo
+    - estas: è
     - '?'
-- 
-  demando: Saresti contenta con qualsiasi uomo?
-  rektatraduko: 
+- demando: Saresti contenta con qualsiasi uomo?
+  rektatraduko:
     - Ĉu: (interrogativa)
     - vi: tu
     - estus: saresti

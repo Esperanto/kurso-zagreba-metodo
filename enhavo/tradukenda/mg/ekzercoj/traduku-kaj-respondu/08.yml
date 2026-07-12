@@ -1,6 +1,5 @@
-- 
-  demando: " Iza no manadio ny lakozia aorian'ny fisakafoanana maraina ?"
-  rektatraduko: 
+- demando: ' Iza no manadio ny lakozia aorian''ny fisakafoanana maraina ?'
+  rektatraduko:
     - Kiu: Iza
     - purigos: no manadio
     - la: ny
@@ -9,17 +8,16 @@
     - la: ny
     - tagmanĝo: fisakafoanana maraina
     - '?'
-- 
-  demando: "Inona no tianao sotroina : dite, cafe kely sa tsy te hisotro na inona na inona ?"
-  rektatraduko: 
-    - Kion: Inona 
+- demando: 'Inona no tianao sotroina : dite, cafe kely sa tsy te hisotro na inona na inona ?'
+  rektatraduko:
+    - Kion: Inona
     - vi: ianao / ianareo
     - volas: tiana / te
     - trinki: no sotroina
-    - ':' 
+    - ':'
     - teon: ny dite
-    - ',' 
-    - iom: kely 
+    - ','
+    - iom: kely
     - da: ny
     - kafo: kafe
     - aŭ: sa
@@ -28,9 +26,8 @@
     - volas: te
     - nenion: tsy... na inona na inona / tsy misy
     - '?'
-- 
-  demando: "Maninona ianao no tapa-kevitra tampoka hanova ny hefi -trano kelinao ?"
-  rektatraduko: 
+- demando: Maninona ianao no tapa-kevitra tampoka hanova ny hefi -trano kelinao ?
+  rektatraduko:
     - Kial: Maninona
     - vi: ianao
     - tiel: toy izany
@@ -40,10 +37,9 @@
     - vian: ny
     - ĉambreton: hefi-trano kely
     - '?'
-- 
-  demando: " Nomenao ho an'iza ny veran'ny divay madio ? "
-  rektatraduko: 
-    - al: Aminy
+- demando: ' Nomenao ho an''iza ny veran''ny divay madio ? '
+  rektatraduko:
+    - Al: Aminy
     - kiu: iza
     - vi: ianao / ianareo
     - donis: nomena
@@ -54,28 +50,26 @@
     - la: ny
     - vino: divay
     - '?'
-- 
-  demando: " Iza ilay klioba fanatanjahanao nanoherana ny roa herinandro lasa izay ?"
-  rektatraduko: 
+- demando: ' Iza ilay klioba fanatanjahanao nanoherana ny roa herinandro lasa izay ?'
+  rektatraduko:
     - Kontraŭ: nanoherana
     - kiu: iza
     - ludis: izay
     - via: ianao / ianareo
     - sportklubo: klioba fanatanjahana
-    - antaŭ: lasa 
+    - antaŭ: lasa
     - du: roa
     - semajnoj: herinandro
     - '?'
-- 
-  demando: "Moa ve mba hitanao matetika ilay mpitandro-filaminana izay mipetraka ao anaty trano eo amboninareo ?"
-  rektatraduko: 
+- demando: Moa ve mba hitanao matetika ilay mpitandro-filaminana izay mipetraka ao anaty trano eo amboninareo ?
+  rektatraduko:
     - Ĉu: Moa ve
     - vi: ianao
     - ofte: matetika
     - vidas: mahita
     - la: ny / ilay
     - policiston: mpitandro-filaminana
-    - ',' 
+    - ','
     - kiu: izay
     - loĝas: mipetraka
     - en: ao anaty

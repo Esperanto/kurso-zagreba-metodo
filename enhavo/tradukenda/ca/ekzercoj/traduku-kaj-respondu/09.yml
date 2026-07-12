@@ -1,6 +1,5 @@
-- 
-  demando: Què és el que més podria posar contents els teus pares?
-  rektatraduko: 
+- demando: Què és el que més podria posar contents els teus pares?
+  rektatraduko:
     - Kio: Què
     - povus: podria
     - plej: més
@@ -8,26 +7,24 @@
     - viajn: els teus
     - gepatrojn: pares
     - '?'
-- 
-  demando: Tant de bo anessis amb mi al centre després de la lliçó!
-  rektatraduko: 
+- demando: Tant de bo anessis amb mi a la ciutat després d'estudiar!
+  rektatraduko:
     - Se: Si
     - almenaŭ: almenys
     - vi: tu
     - post: després de
     - la: la
-    - leciono: lliçó
+    - lernado: estudiar
     - irus: anessis
     - kun: amb
     - mi: mi
     - en: a
     - la: el
-    - centron: centre
+    - urbon: ciutat
     - '!'
-- 
-  demando: On desitjaries viatjar si tinguessis suficients diners i temps?
-  rektatraduko: 
-    - Kien: "On"
+- demando: On desitjaries viatjar si tinguessis suficients diners i temps?
+  rektatraduko:
+    - Kien: 'On'
     - vi: tu
     - dezirus: desitjaries
     - vojaĝi: viatjar
@@ -41,27 +38,28 @@
     - kaj: i
     - tempo: temps
     - '?'
-- 
-  demando: Viatges amb el cotxe a París o millor amb el tren?
-  rektatraduko: 
+- demando: Penses viatjar amb cotxe a Itàlia o no et sembla molt millor amb tren?
+  rektatraduko:
     - Ĉu: Que
     - vi: Tu
-    - vojaĝas: viatges
-    - per: amb
-    - la: el
-    - aŭto: cotxe
+    - planas: penses
+    - veturi: viatjar
     - al: a
-    - Parizo: París
+    - Italio: Itàlia
+    - per: amb
+    - aŭto: cotxe
     - aŭ: o
+    - ĉu: si
+    - ne: 'no'
+    - ŝajnas: sembla
+    - multe: molt
     - pli: més
     - bone: bé
     - per: amb
-    - la: el
     - vagonaro: tren
     - '?'
-- 
-  demando: Per què persones diferents expliquen unes mateixes idees de manera diferent?
-  rektatraduko: 
+- demando: Per què persones diferents expliquen unes mateixes idees de manera diferent?
+  rektatraduko:
     - Kial: Per què
     - diversaj: diferents
     - homoj: persones

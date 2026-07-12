@@ -1,11 +1,10 @@
-- 
-  demando: چه کسی آن کتاب را که تو بیش‌تر از دو سال منتظرش بودی، داشت؟
-  rektatraduko: 
+- demando: چه کسی آن کتاب را که تو بیش‌تر از دو سال منتظرش بودی، داشت؟
+  rektatraduko:
     - Kiu: چه کسی
     - havis: داشت
     - la: آن (حرف تعریف)
     - libron: کتاب را
-    - ',' 
+    - ','
     - kiun: که
     - vi: تو
     - atendis: منتظر بودی
@@ -14,9 +13,8 @@
     - du: دو
     - jarojn: سال
     - '?'
-- 
-  demando: آیا تو از من می‌خواهی که به تو عزیزترین عکسم را نشان بدهم؟
-  rektatraduko: 
+- demando: آیا تو از من می‌خواهی که به تو عزیزترین عکسم را نشان بدهم؟
+  rektatraduko:
     - Ĉu: آیا
     - vi: تو
     - volas: می‌خواهی
@@ -24,51 +22,48 @@
     - ke: که
     - mi: من
     - montru: نشان بدهم
-    - al: به 
+    - al: به
     - vi: تو
     - mian: مال من
-    - plej karan: عزیزترین
+    - plej: عزیزترین
+    - karan: عزیزترین
     - foton: عکس
     - '?'
-- 
-  demando: کجا آن لباس را خریدید؟
-  rektatraduko: 
+- demando: کجا آن لباس را خریدید؟
+  rektatraduko:
     - Kie: کجا
     - vi: شما
     - aĉetis: خریدید
     - tiun: آن
     - vestaĵon: لباس را
     - '?'
-- 
-  demando: یک‌شنبه به کجا خواهید رفت اگر یک روز آفتابی باشد؟
-  rektatraduko: 
+- demando: یک‌شنبه به کجا خواهید رفت اگر یک روز آفتابی باشد؟
+  rektatraduko:
     - Kien: به کجا
     - vi: شما
     - iros: خواهید رفت
     - dimanĉe: یک‌شنبه
-    - ',' 
+    - ','
     - se: اگر
     - estos: باشد (خواهد بود)
     - suna: آفتابی
     - tago: روز
     - '?'
-- 
-  demando: آیا برادرت دیگر رفته است؟
-  rektatraduko: 
+- demando: آیا برادرت دیگر رفته است؟
+  rektatraduko:
     - Ĉu: آیا
     - via: مال تو
     - frato: برادر
     - jam: دیگر
     - ekiris: رفته است
     - '?'
-- 
-  demando: آن آب که خودتان آورده‌اید کجاست؟
-  rektatraduko: 
+- demando: آن آب که خودتان آورده‌اید کجاست؟
+  rektatraduko:
     - Kie: کجا
     - estas: است
     - la: آن (حرف تعریف)
     - akvo: آب
-    - ',' 
+    - ','
     - kiun: که
     - vi: شما
     - mem: خودتان

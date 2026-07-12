@@ -1,5 +1,4 @@
--
-  demando: Hatun hotelkunapi sirwiqkunaqa achkha simikunata hamut'ankuchu?
+- demando: Hatun hotelkunapi sirwiqkunaqa achkha simikunata hamut'ankuchu?
   rektatraduko:
     - Ĉu: Chu
     - kelneroj: sirwiqkuna
@@ -10,15 +9,14 @@
     - multajn: achkhakunata
     - lingvojn: simikunata
     - '?'
--
-  demando: Anaqa wakcha runamantawan sumaq sipasmantawan musuq takita munasqanta yachankichu?
+- demando: Anaqa wakcha runamantawan sumaq sipasmantawan musuq takita munasqanta yachankichu?
   rektatraduko:
     - Ĉu: Chu
     - vi: qan
     - scias: yachanki
     - ','
     - ĉu: chu
-    - Anna: Ana
+    - Ana: Ana
     - ŝatas: munan
     - la: riqsisqa
     - novan: musuq
@@ -28,8 +26,7 @@
     - kaj: hinaspa
     - belulino: sumaq sipas
     - '?'
--
-  demando: Maypitaq hatun mesata apaq mawka runatawan wayna runatawan rikurqanki?
+- demando: Maypitaq hatun mesata apaq mawka runatawan wayna runatawan rikurqanki?
   rektatraduko:
     - Kie: Maypi
     - vi: qan
@@ -45,8 +42,7 @@
     - grandan: hatun
     - tablon: mesata
     - '?'
--
-  demando: Imaynataq qankuna wakmanta ñuqaykuman wawqipanakunayki mana kaspa hamurqanki?
+- demando: Imaynataq qankuna wakmanta ñuqaykuman wawqipanakunayki mana kaspa hamurqanki?
   rektatraduko:
     - Kiel: Imaynata
     - okazis: karqa
@@ -60,8 +56,7 @@
     - sen: mana
     - gefratoj: wawqipanakuna
     - '?'
--
-  demando: Musuq yachay liwruwan Esperantota aslla utqaylla yachayta atinkichu?
+- demando: Musuq yachay liwruwan Esperantota aslla utqaylla yachayta atinkichu?
   rektatraduko:
     - Ĉu: Chu
     - vi: qan

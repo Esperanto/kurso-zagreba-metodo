@@ -1,18 +1,16 @@
-- 
-  demando:  Ali te prijateljstvo bolj osrečuje kakor ljubezen? 
-  rektatraduko: 
+- demando: Ali te prijateljstvo bolj osrečuje kakor ljubezen?
+  rektatraduko:
     - Ĉu: Ali
-    - vin: te
     - amikeco: prijateljstvo
     - pli: bolj
     - feliĉigas: osrečuje
+    - vin: te
     - ol: kot
     - la: (člen)
     - amo: ljubezen
     - '?'
-- 
-  demando:  Kako pogosto pišeš pisma svojim prijateljicam v Italiji in Etiopiji? 
-  rektatraduko: 
+- demando: Kako pogosto pišeš pisma svojim prijateljicam v Italiji in Etiopiji?
+  rektatraduko:
     - Kiel: Kako
     - ofte: pogosto
     - vi: (zaimek ti)
@@ -23,14 +21,10 @@
     - amikinoj: prijateljicam
     - en: v
     - Italio: Italy
-    - kaj: in
-    - Etiopio: Etiopiji
     - '?'
-- 
-  demando: Ali se je spremenil odnos med tabo in tvojim učiteljem, ali je ostal isti? 
-  rektatraduko: 
+- demando: Ali se je spremenil odnos med tabo in tvojim učiteljem, ali je ostal isti?
+  rektatraduko:
     - Ĉu: Ali
-    - ŝanĝiĝis: se je spremenil
     - la: (člen)
     - rilato: odnos
     - inter: med
@@ -38,24 +32,16 @@
     - kaj: in
     - via: tvojim
     - instruisto: učiteljem
-    - aŭ: ali
-    - ĝi restis: je ostal
-    - la: (člen)
-    - sama: enak
+    - ŝanĝiĝis: se je spremenil
     - '?'
-- 
-  demando: Ali sedaj že dovolj dobro znate esperanto, tako da ga lahko sami uporabljate?
-  rektatraduko: 
+- demando: Ali sedaj že dovolj dobro znate esperanto, tako da ga lahko sami uporabljate?
+  rektatraduko:
     - Ĉu: Ali
     - vi: (zaimek vi)
     - nun: sedaj
     - jam: že
-    - sufiĉe: dovolj
-    - bone: dobro
     - scias: znate
     - Esperanton: esperanto
-    - por ke: tako da
-    - vi: (zaimek vi)
-    - povas ĝin: ga lahko
-    - uzi: uporabljate    
+    - sufiĉe: dovolj
+    - bone: dobro
     - '?'

@@ -1,6 +1,5 @@
--
-  demando: Razumiju li konobari u velikim hotelima mnoge jezike? 
-  rektatraduko:  
+- demando: Razumiju li konobari u velikim hotelima mnoge jezike?
+  rektatraduko:
     - Ĉu: Da li
     - kelneroj: konobari
     - en: u
@@ -10,15 +9,14 @@
     - multajn: mnoge
     - lingvojn: jezike
     - '?'
--
-  demando: Znaš li, voli li Ana novu pjesmu o siromahu i ljepotici?
-  rektatraduko: 
-    - Ĉu: Da li 
+- demando: Znaš li, voli li Ana novu pjesmu o siromahu i ljepotici?
+  rektatraduko:
+    - Ĉu: Da li
     - vi: ti
     - scias: znaš
     - ','
     - ĉu: da li
-    - Ana: Ana 
+    - Ana: Ana
     - ŝatas: voli
     - la: (član)
     - novan: novu
@@ -28,9 +26,8 @@
     - kaj: i
     - belulino: ljepotica
     - '?'
--
-  demando: Gdje si vidio starca i mladića koji su nosili veliki stol?
-  rektatraduko: 
+- demando: Gdje si vidio starca i mladića koji su nosili veliki stol?
+  rektatraduko:
     - Kie: Gdje
     - vi: ti
     - vidis: si vidio
@@ -45,9 +42,8 @@
     - grandan: veliki
     - tablon: stol
     - '?'
--
-  demando: Kako se dogodilo da si ponovno došao k nama bez braće i sestara?
-  rektatraduko: 
+- demando: Kako se dogodilo da si ponovno došao k nama bez braće i sestara?
+  rektatraduko:
     - Kiel: Kako
     - okazis: dogodilo se
     - ','
@@ -55,14 +51,13 @@
     - vi: ti
     - denove: ponovno
     - venis: došao si
-    - al: k 
+    - al: k
     - ni: mi
     - sen: bez
     - gefratoj: braća i sestre
     - '?'
--
-  demando: Možeš li naučiti esperanto dovoljno brzo pomoću novog udžbenika?
-  rektatraduko: 
+- demando: Možeš li naučiti esperanto dovoljno brzo pomoću novog udžbenika?
+  rektatraduko:
     - Ĉu: Da li
     - vi: ti
     - povas: možeš

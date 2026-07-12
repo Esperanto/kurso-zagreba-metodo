@@ -1,0 +1,165 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 05
+allOf:
+  - $ref: ../traduku-kaj-respondu.schema.yml
+  - minItems: 5
+    prefixItems:
+      - properties:
+          rektatraduko:
+            minItems: 11
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - povas
+              - type: object
+                required:
+                  - trankvile
+              - type: object
+                required:
+                  - lerni
+              - const: ','
+              - type: object
+                required:
+                  - dum
+              - type: object
+                required:
+                  - iu
+              - type: object
+                required:
+                  - ĝoje
+              - type: object
+                required:
+                  - kantas
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 10
+            prefixItems:
+              - type: object
+                required:
+                  - Kiu
+              - type: object
+                required:
+                  - scias
+              - const: ','
+              - type: object
+                required:
+                  - kiam
+              - type: object
+                required:
+                  - kaj
+              - type: object
+                required:
+                  - kie
+              - type: object
+                required:
+                  - ni
+              - type: object
+                required:
+                  - revidos
+              - type: object
+                required:
+                  - nin
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 5
+            prefixItems:
+              - type: object
+                required:
+                  - Kioma
+              - type: object
+                required:
+                  - horo
+              - type: object
+                required:
+                  - estas
+              - type: object
+                required:
+                  - nun
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 13
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - iu
+              - type: object
+                required:
+                  - helpis
+              - type: object
+                required:
+                  - al
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - malfermi
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - pordon
+              - type: object
+                required:
+                  - de
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - malnova
+              - type: object
+                required:
+                  - domo
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 10
+            prefixItems:
+              - type: object
+                required:
+                  - Kial
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - ne
+              - type: object
+                required:
+                  - havas
+              - type: object
+                required:
+                  - tempon
+              - type: object
+                required:
+                  - aŭskulti
+              - type: object
+                required:
+                  - min
+              - type: object
+                required:
+                  - pli
+              - type: object
+                required:
+                  - longe
+              - const: '?'
+            items: false
+    items: false

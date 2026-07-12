@@ -56,17 +56,18 @@
     - bonfarulo: benefactor
     - '?'
 - 
-  demando: Was the booklet which I sent you useful to you?
+  demando: Was the booklet that I sent you useful?
   rektatraduko: 
     - Ĉu: Whether
-    - la: the 
+    - la: the
     - libreto: booklet
-    - estis: was
-    - utila: useful
+    - ','
+    - kiun: which
+    - mi: I
+    - sendis: sent
     - al: to
     - vi: you
-    - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
+    - ','
+    - estis: was
+    - utila: useful
     - '?'

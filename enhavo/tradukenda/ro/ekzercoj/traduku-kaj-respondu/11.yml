@@ -1,5 +1,4 @@
--
-  demando: Poți aduce medicamentul surorii mele?
+- demando: Poți aduce medicamentul surorii mele?
   rektatraduko:
     - Ĉu: oare
     - vi: tu
@@ -11,8 +10,7 @@
     - mia: mea
     - fratino: soră
     - '?'
--
-  demando: Când ai cumpărat acel instrument muzical?
+- demando: Când ai cumpărat acel instrument muzical?
   rektatraduko:
     - Kiam: Când
     - vi: tu
@@ -20,8 +18,7 @@
     - tiun: acel
     - muzikilon: instrument muzical
     - '?'
--
-  demando: Cine a folosit ultima dată cheia mea?
+- demando: Cine a folosit ultima dată cheia mea?
   rektatraduko:
     - Kiu: Cine
     - laste: ultima dată
@@ -29,8 +26,7 @@
     - mian: mea
     - ŝlosilon: cheie
     - '?'
--
-  demando: Ai călătorit și prin Veneția cu gondola?
+- demando: Ai călătorit și prin Veneția cu gondola?
   rektatraduko:
     - Ĉu: oare
     - vi: tu
@@ -41,8 +37,7 @@
     - per: cu
     - gondolo: gondolă
     - '?'
--
-  demando: Vei putea adormi când se va face liniște?
+- demando: Vei putea adormi când se va face liniște?
   rektatraduko:
     - Ĉu: oare
     - vi: tu
@@ -50,5 +45,5 @@
     - ekdormi: adormi
     - ','
     - kiam: când
-    - silentiĝis: s-a făcut liniște
+    - silentiĝos: s-a făcut liniște
     - '?'

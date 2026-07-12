@@ -1,0 +1,186 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 06
+allOf:
+  - $ref: ../traduku-kaj-respondu.schema.yml
+  - minItems: 5
+    prefixItems:
+      - properties:
+          rektatraduko:
+            minItems: 14
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - deziras
+              - const: ','
+              - type: object
+                required:
+                  - ke
+              - type: object
+                required:
+                  - mi
+              - type: object
+                required:
+                  - montru
+              - type: object
+                required:
+                  - al
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - mian
+              - type: object
+                required:
+                  - plej
+              - type: object
+                required:
+                  - novan
+              - type: object
+                required:
+                  - libron
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 6
+            prefixItems:
+              - type: object
+                required:
+                  - Kion
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - volas
+              - type: object
+                required:
+                  - morgaŭ
+              - type: object
+                required:
+                  - matenmanĝi
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 13
+            prefixItems:
+              - type: object
+                required:
+                  - Kiam
+              - type: object
+                required:
+                  - Marko
+              - type: object
+                required:
+                  - alvenos
+              - const: ','
+              - type: object
+                required:
+                  - je
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - kvina
+              - type: object
+                required:
+                  - aŭ
+              - type: object
+                required:
+                  - je
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - oka
+              - type: object
+                required:
+                  - horo
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 12
+            prefixItems:
+              - type: object
+                required:
+                  - Kiam
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - rimarkis
+              - const: ','
+              - type: object
+                required:
+                  - ke
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - tuta
+              - type: object
+                required:
+                  - familio
+              - type: object
+                required:
+                  - nomas
+              - type: object
+                required:
+                  - min
+              - type: object
+                required:
+                  - bonfarulo
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 13
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - libreto
+              - const: ','
+              - type: object
+                required:
+                  - kiun
+              - type: object
+                required:
+                  - mi
+              - type: object
+                required:
+                  - sendis
+              - type: object
+                required:
+                  - al
+              - type: object
+                required:
+                  - vi
+              - const: ','
+              - type: object
+                required:
+                  - estis
+              - type: object
+                required:
+                  - utila
+              - const: '?'
+            items: false
+    items: false

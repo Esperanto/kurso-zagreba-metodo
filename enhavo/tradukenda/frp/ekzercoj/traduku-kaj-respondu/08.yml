@@ -1,6 +1,5 @@
-- 
-  demando: Qui va nettoyer la cuisine après le déjeuner ?
-  rektatraduko: 
+- demando: Qui va nettoyer la cuisine après le déjeuner ?
+  rektatraduko:
     - Kiu: Qui
     - purigos: va nettoyer
     - la: la
@@ -9,17 +8,16 @@
     - la: le
     - tagmanĝo: déjeuner
     - '?'
-- 
-  demando: "Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?"
-  rektatraduko: 
+- demando: 'Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?'
+  rektatraduko:
     - Kion: Que, quoi
     - vi: tu
     - volas: veux
     - trinki: boire
-    - ':' 
+    - ':'
     - teon: du thé
-    - ',' 
-    - iom: un peu 
+    - ','
+    - iom: un peu
     - da: de
     - kafo: café
     - aŭ: ou
@@ -28,9 +26,8 @@
     - volas: veux
     - nenion: rien
     - '?'
-- 
-  demando: Pourquoi as-tu si soudainement décider de rénover ta petite chambre ?
-  rektatraduko: 
+- demando: Pourquoi as-tu si soudainement décider de rénover ta petite chambre ?
+  rektatraduko:
     - Kial: Pourquoi
     - vi: tu
     - tiel: ainsi, si
@@ -40,23 +37,21 @@
     - vian: ta
     - ĉambreton: petite chambre
     - '?'
-- 
-  demando: À qui as-tu donnée les verres à vin propres ?
-  rektatraduko: 
-    - al: À
+- demando: À qui as-tu donnée les verres à vin propres ?
+  rektatraduko:
+    - Al: À
     - kiu: qui
     - vi: tu
     - donis: as donné
     - la: les
     - purajn: propres
     - glasojn: verres
-    - por: pour 
+    - por: pour
     - la: le
     - vino: vin
     - '?'
-- 
-  demando: Contre qui ton club de sports a joué il y a deux semaines ?
-  rektatraduko: 
+- demando: Contre qui ton club de sports a joué il y a deux semaines ?
+  rektatraduko:
     - Kontraŭ: Contre
     - kiu: qui
     - ludis: a joué
@@ -66,20 +61,19 @@
     - du: deux
     - semajnoj: semaines
     - '?'
-- 
-  demando: "Est-ce que tu vois souvent le policier qui habite dans l'appartement au-dessus de toi ?"
-  rektatraduko: 
+- demando: Est-ce que tu vois souvent le policier qui habite dans l'appartement au-dessus de toi ?
+  rektatraduko:
     - Ĉu: Est-ce que
     - vi: tu
     - ofte: souvent
     - vidas: vois
     - la: le
     - policiston: policier
-    - ',' 
+    - ','
     - kiu: qui
     - loĝas: habite
-    - en: dans 
-    - la: "l'"
+    - en: dans
+    - la: l'
     - loĝejo: appartement
     - super: au-dessus de
     - vi: toi

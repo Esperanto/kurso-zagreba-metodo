@@ -1,5 +1,4 @@
--
-  demando: Je, wahudumu katika hoteli kubwa wanaelewa lugha nyingi?
+- demando: Je, wahudumu katika hoteli kubwa wanaelewa lugha nyingi?
   rektatraduko:
     - Ĉu: je
     - kelneroj: wahudumu
@@ -10,15 +9,14 @@
     - multajn: nyingi
     - lingvojn: lugha
     - '?'
--
-  demando: Je, unajua kwamba Anna anapenda wimbo mpya kuhusu mtu maskini na msichana mzuri?
+- demando: Je, unajua kwamba Ana anapenda wimbo mpya kuhusu mtu maskini na msichana mzuri?
   rektatraduko:
     - Ĉu: je
     - vi: wewe
     - scias: unajua
     - ','
     - ĉu: kwamba
-    - Anna: Anna
+    - Ana: Ana
     - ŝatas: anapenda
     - la: kiarifu
     - novan: mpya
@@ -28,8 +26,7 @@
     - kaj: na
     - belulino: msichana mzuri
     - '?'
--
-  demando: Ulimwona wapi mzee na kijana waliokuwa wakibeba meza kubwa?
+- demando: Ulimwona wapi mzee na kijana waliokuwa wakibeba meza kubwa?
   rektatraduko:
     - Kie: Wapi
     - vi: wewe
@@ -45,8 +42,7 @@
     - grandan: kubwa
     - tablon: meza
     - '?'
--
-  demando: Ilitokeaje kwamba ulikuja kwetu tena bila ndugu zako?
+- demando: Ilitokeaje kwamba ulikuja kwetu tena bila ndugu zako?
   rektatraduko:
     - Kiel: Jinsi gani
     - okazis: ilitokea
@@ -60,8 +56,7 @@
     - sen: bila
     - gefratoj: ndugu
     - '?'
--
-  demando: Je, unaweza kujifunza Kiesperanto haraka vya kutosha kwa kutumia kitabu kipya?
+- demando: Je, unaweza kujifunza Kiesperanto haraka vya kutosha kwa kutumia kitabu kipya?
   rektatraduko:
     - Ĉu: je
     - vi: wewe

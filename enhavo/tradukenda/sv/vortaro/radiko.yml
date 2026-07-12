@@ -1,6 +1,9 @@
 afer:
 - sak
 - företeelse
+ag:
+- agera
+- handla
 agrabl: trevlig
 akcept: acceptera
 akv: vatten
@@ -10,6 +13,9 @@ am:
 - kärlek
 - älska
 amik: vän
+aper:
+- framträda
+- dyka upp
 arb: träd
 aspekt: se ut
 atend: vänta
@@ -19,6 +25,7 @@ atent:
 - se upp
 aĉet: köpa
 aŭd: höra
+aŭskult: lyssna
 aŭt: bil
 aŭtoritat:
 - auktoritet
@@ -56,6 +63,7 @@ dik: tjock
 dimanĉ: söndag
 dir: säga
 direkt: riktning
+divers: av olika slag
 doktor: doktor
 dolar: dollar
 dolor:
@@ -71,6 +79,7 @@ edz:
 - man
 efektiv: faktisk
 ekskurs: utflykt
+ekzempl: exempel
 esper: hoppas
 est: vara, finnas
 facil:
@@ -99,6 +108,7 @@ fru: tidig
 fuŝ:
 - slarva
 - fördärva
+glas: dricksglas
 gondol: gondol
 graf: greve
 grand: stor
@@ -112,6 +122,10 @@ hor: timme
 hotel: hotell
 ide: idé
 industri: industri
+infan: barn
+inform:
+- informera
+- information
 instru:
 - lära (någon)
 - lära ut
@@ -126,6 +140,9 @@ jar: år
 jun: ung
 kaf: kaffe
 kalv: flintskallig
+kant:
+- sång
+- sjunga
 kap: huvud
 kapabl: kapabel
 kapt: fånga
@@ -152,11 +169,16 @@ komenc:
 - påbörja
 kompren: förstå
 kon: känna (till)
+konsent:
+- samtycka
+- hålla med
+- instämma
 kontent: nöjd
 kontrol: kontrollera
 kor: hjärta
 korp: kropp
 kost: kosta
+kred: tro
 kri: skrika
 kuir: laga (mat)
 kuk: kaka
@@ -180,13 +202,16 @@ liber:
 - fri
 - ledig
 libr: bok
+lingv: språk
 lok: plats
 long: lång
+loĝ: bo
 lud:
 - spela
 - leka
 lum: ljus
 man: hand
+manier: sätt
 mank:
 - saknas
 - fattas
@@ -206,6 +231,8 @@ mir:
 - förundras
 moment: ögonblick
 mon: pengar
+monat: månad
+mond: värld
 mont: berg
 montr:
 - visa
@@ -214,6 +241,7 @@ mort: dö
 mov: (för)flytta
 mult: många
 muzik: musik
+naci: nation
 nask: föda (barn)
 natur: natur
 neces: nödvändig
@@ -235,6 +263,7 @@ onkl:
 opini: åsikt
 ord: ordning
 orel: öra
+organiz: organisera
 pac: fred
 pag: betala
 pan: bröd
@@ -267,10 +296,14 @@ plaĉ: behaga
 plen:
 - full
 - fullständig
+plor: gråta
+pluv: regna
 polic: polis
 pord: dörr
 port: bära
 pov: kunna
+poŝ: ficka
+poŝt: post
 pren: ta
 pret:
 - färdig
@@ -278,12 +311,20 @@ pret:
 prezent: presentera
 problem: problem
 proksim: nära
+proksimum: ungefär
 promen: promenera
 propon: föreslå
 prov: prova
+publik:
+- allmänhet
+- publik
+- offentlig
+punkt: punkt
+pur: ren
 rajt:
 - få
 - ha rätt till
+rakont: berätta
 rapid: snabb
 raport: rapportera
 real: verklig
@@ -301,6 +342,14 @@ rest:
 ricev: få
 rid: skratta
 rigard: titta
+rilat:
+- relation
+- förhållande
+- relatera
+rimark:
+- märka
+- lägga märke till
+- påpeka
 riĉ: rik
 rol: roll
 ruĝ: röd
@@ -310,6 +359,7 @@ sam:
 - samma
 - likadan
 san: frisk
+sat: mätt
 saĝ:
 - vis
 - klok
@@ -321,15 +371,22 @@ semajn: vecka
 send:
 - sända
 - skicka
+sent:
+- känsla
+- känna
 serĉ:
 - söka
 - leta
+seĝ: stol
 si: sig
 sid: sitta
 silent: tyst
 simil:
 - lik
 - liknande
+simpl:
+- enkel
+- simpel
 sinjor:
 - herre
 - herr
@@ -354,16 +411,22 @@ temp: tid
 temperatur: temperatur
 ten: hålla
 teror: terror
+terur:
+- förskräcklig
+- hemsk
+- förfärlig
 tim: rädsla
 ton: ton
 trankvil: lugn
 trink: dricka
 trov: hitta
 turk: turkisk
+tut: hel
 tuŝ:
 - röra
 - vidröra
 - beröra
+universal: universell
 urb: stad
 util:
 - nyttig

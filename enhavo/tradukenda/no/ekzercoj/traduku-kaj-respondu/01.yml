@@ -1,0 +1,51 @@
+- demando: Hvem er venninnen din?
+  rektatraduko:
+  - Kiu: Hvem
+  - estas: er
+  - via: din/ditt
+  - amikino: venninne
+  - '?'
+- demando: Skriver venninnen din Ana nå i rommet?
+  rektatraduko:
+  - Ĉu: Om
+  - via: din/ditt
+  - amikino: venninne
+  - Ana: Ana
+  - skribas: skriver
+  - nun: nå
+  - en: i
+  - la: (bestemt artikkel)
+  - ĉambro: rom
+  - '?'
+- demando: Arbeider vennen til faren din på et hotell?
+  rektatraduko:
+  - Ĉu: Om
+  - la: (bestemt artikkel)
+  - amiko: venn
+  - de: av
+  - via: din
+  - patro: far
+  - laboras: arbeider
+  - en: i
+  - hotelo: hotell
+  - '?'
+- demando: Hva er det på arbeidsbordet i rommet vårt?
+  rektatraduko:
+  - Kio: Hva
+  - estas: er
+  - sur: på
+  - la: (bestemt artikkel)
+  - labortablo: arbeidsbord
+  - en: i
+  - nia: vårt
+  - ĉambro: rom
+  - '?'
+- demando: Er det en esperanto-lærebok på bordet ditt?
+  rektatraduko:
+  - Ĉu: Om
+  - Esperanto-lernolibro: esperanto-lærebok
+  - estas: er
+  - sur: på
+  - via: din/ditt
+  - tablo: bord
+  - '?'

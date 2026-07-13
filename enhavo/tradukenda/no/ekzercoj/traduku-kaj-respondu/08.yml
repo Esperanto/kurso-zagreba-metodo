@@ -1,0 +1,80 @@
+- demando: Hvem rengjør kjøkkenet etter lunsj?
+  rektatraduko:
+  - Kiu: Hvem
+  - purigos: rengjør
+  - la: (bestemt artikkel)
+  - kuirejon: kjøkken
+  - post: etter
+  - la: (bestemt artikkel)
+  - tagmanĝo: lunsj
+  - '?'
+- demando: 'Hva vil du drikke: te, litt kaffe, eller vil du ikke ha noe?'
+  rektatraduko:
+  - Kion: Hva
+  - vi: du
+  - volas: vil
+  - trinki: drikke
+  - ':'
+  - teon: te
+  - ','
+  - iom: litt
+  - da: av
+  - kafo: kaffe
+  - aŭ: eller
+  - ĉu: om
+  - vi: du
+  - volas: vil
+  - nenion: ingenting
+  - '?'
+- demando: Hvorfor bestemte du deg så plutselig for å pusse opp det lille rommet ditt?
+  rektatraduko:
+  - Kial: Hvorfor
+  - vi: du
+  - tiel: så
+  - subite: plutselig
+  - decidis: bestemte seg for
+  - renovigi: å renovere
+  - vian: din/ditt
+  - ĉambreton: lite rom
+  - '?'
+- demando: Hvem ga du de rene vinglassene til?
+  rektatraduko:
+  - Al: Til
+  - kiu: hvem
+  - vi: du
+  - donis: ga
+  - la: (bestemt artikkel)
+  - purajn: rene
+  - glasojn: glas
+  - por: for
+  - la: (bestemt artikkel)
+  - vino: vin
+  - '?'
+- demando: Hvem spilte idrettsklubben din mot for to uker siden?
+  rektatraduko:
+  - Kontraŭ: Mot
+  - kiu: hvem
+  - ludis: spilte
+  - via: din/ditt
+  - sportklubo: idrettsklubb
+  - antaŭ: før
+  - du: to
+  - semajnoj: uker
+  - '?'
+- demando: Ser du ofte politibetjenten som bor i leiligheten over deg?
+  rektatraduko:
+  - Ĉu: Om
+  - vi: du
+  - ofte: ofte
+  - vidas: ser
+  - la: (bestemt artikkel)
+  - policiston: politibetjent
+  - ','
+  - kiu: som
+  - loĝas: bor
+  - en: i
+  - la: (bestemt artikkel)
+  - loĝejo: leilighet
+  - super: over
+  - vi: deg
+  - '?'

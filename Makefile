@@ -79,6 +79,19 @@ check-yaml:
 	@printf '%s' 'startis vortaro-skemoj... '
 	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.yml" enhavo/tradukenda/*/vortaro/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }
 	@printf '%s\n' 'bone'
+	@printf '%s' 'startis specifaj vortaro-skemoj... '
+	@for dosiero in enhavo/tradukenda/*/vortaro/*.yml; do \
+		nomo=$$(basename "$$dosiero" .yml); \
+		skemo="$(TRADUKENDA_SCHEMA_DIR)/vortaro/$${nomo}.schema.yml"; \
+		test -f "$$skemo" || { printf '\nMankas vortaro-skemo por %s: %s\n' "$$dosiero" "$$skemo"; exit 1; }; \
+	done
+	@for skemo in "$(TRADUKENDA_SCHEMA_DIR)"/vortaro/*.schema.yml; do \
+		nomo=$$(basename "$$skemo" .schema.yml); \
+		dosieroj=$$(find enhavo/tradukenda -path "*/vortaro/$${nomo}.yml" -type f | sort); \
+		test -n "$$dosieroj" || continue; \
+		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$$skemo" $$dosieroj 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
+	done
+	@printf '%s\n' 'bone'
 	@printf '%s' 'startis traduku-skemoj... '
 	@for leciono in 01 02 03 04 05 06 07 08 09 10 11 12; do \
 		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku/$${leciono}.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku/$${leciono}.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \

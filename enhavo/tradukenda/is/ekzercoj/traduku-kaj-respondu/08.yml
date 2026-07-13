@@ -1,0 +1,80 @@
+- demando: Hver mun þrífa eldhúsið eftir hádegismat?
+  rektatraduko:
+  - Kiu: Hver
+  - purigos: mun þrífa
+  - la: hinn/hin/hið
+  - kuirejon: eldhús
+  - post: eftir
+  - la: hinn/hin/hið
+  - tagmanĝo: hádegismatur
+  - '?'
+- demando: 'Hvað viltu drekka: te, kaffi eða ekkert?'
+  rektatraduko:
+  - Kion: Hvað
+  - vi: þú
+  - volas: vill
+  - trinki: drekka
+  - ':'
+  - teon: te
+  - ','
+  - iom: svolítið
+  - da: af (magn)
+  - kafo: kaffi
+  - aŭ: eða
+  - ĉu: hvort
+  - vi: þú
+  - volas: vill
+  - nenion: ekkert
+  - '?'
+- demando: Af hverju ákvaðstu svona skyndilega að endurnýja litla herbergið þitt?
+  rektatraduko:
+  - Kial: Af hverju
+  - vi: þú
+  - tiel: svona
+  - subite: skyndilega
+  - decidis: ákvað
+  - renovigi: endurnýja
+  - vian: þinn/þína/þitt
+  - ĉambreton: lítið herbergi
+  - '?'
+- demando: Hverjum gafstu hreinu vínglösin?
+  rektatraduko:
+  - Al: Til
+  - kiu: hver
+  - vi: þú
+  - donis: gaf
+  - la: hinn/hin/hið
+  - purajn: hrein
+  - glasojn: glös
+  - por: fyrir
+  - la: hinn/hin/hið
+  - vino: vín
+  - '?'
+- demando: Við hvern spilaði íþróttafélagið þitt fyrir tveimur vikum?
+  rektatraduko:
+  - Kontraŭ: Gegn
+  - kiu: hver
+  - ludis: spilaði
+  - via: þinn/þín/þitt
+  - sportklubo: íþróttafélag
+  - antaŭ: fyrir
+  - du: tvö
+  - semajnoj: vikur
+  - '?'
+- demando: Sérðu oft lögreglumanninn sem býr í íbúðinni fyrir ofan þig?
+  rektatraduko:
+  - Ĉu: Hvort
+  - vi: þú
+  - ofte: oft
+  - vidas: sér
+  - la: hinn/hin/hið
+  - policiston: lögreglumann
+  - ','
+  - kiu: hver
+  - loĝas: býr
+  - en: í
+  - la: hinn/hin/hið
+  - loĝejo: íbúð
+  - super: fyrir ofan
+  - vi: þú
+  - '?'

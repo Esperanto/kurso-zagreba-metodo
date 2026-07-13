@@ -1,0 +1,68 @@
+- demando: Viltu að ég sýni þér nýjustu bókina mína?
+  rektatraduko:
+  - Ĉu: Hvort
+  - vi: þú
+  - deziras: óskar
+  - ','
+  - ke: að
+  - mi: ég
+  - montru: sýni
+  - al: til
+  - vi: þú
+  - mian: minn/mína/mitt
+  - plej: mest
+  - novan: nýjan
+  - libron: bók
+  - '?'
+- demando: Hvað viltu borða í morgunmat á morgun?
+  rektatraduko:
+  - Kion: Hvað
+  - vi: þú
+  - volas: vill
+  - morgaŭ: á morgun
+  - matenmanĝi: borða morgunmat
+  - '?'
+- demando: Hvenær kemur Marko, klukkan fimm eða átta?
+  rektatraduko:
+  - Kiam: Hvenær
+  - Marko: Marko
+  - alvenos: mun koma
+  - ','
+  - je: við/klukkan
+  - la: hinn/hin/hið
+  - kvina: fimmta
+  - aŭ: eða
+  - je: við/klukkan
+  - la: hinn/hin/hið
+  - oka: áttunda
+  - horo: klukkustund
+  - '?'
+- demando: Hvenær tókstu eftir því að öll fjölskyldan kallar mig velgjörðarmann?
+  rektatraduko:
+  - Kiam: Hvenær
+  - vi: þú
+  - rimarkis: tók eftir
+  - ','
+  - ke: að
+  - la: hinn/hin/hið
+  - tuta: öll
+  - familio: fjölskylda
+  - nomas: kallar
+  - min: mig
+  - bonfarulo: velgjörðarmaður
+  - '?'
+- demando: Var bæklingurinn sem ég sendi þér gagnlegur?
+  rektatraduko:
+  - Ĉu: Hvort
+  - la: hinn/hin/hið
+  - libreto: bæklingur
+  - ','
+  - kiun: sem
+  - mi: ég
+  - sendis: sendi
+  - al: til
+  - vi: þú
+  - ','
+  - estis: var
+  - utila: gagnlegur
+  - '?'

@@ -1,59 +1,60 @@
-kio: ima
-tio: chay
-io: imapas
-ĉio: llapan ima
-nenio: mana ima
-kiu:
-- pi
-- mayqin
-tiu:
-- chay runa
-- chay
-iu: pipas
-ĉiu:
-- llapan runa
-- sapa
-neniu:
-- mana pipas
-- manan mayqinpas
-kie: maypi
-tie: chaypi
-ie: maypipas
-ĉie: llapanpi
-nenie: mana maypipas
-kia: imayna
-tia: chayna
 ia: imaynapas
-ĉia: llapan imayna
-nenia: mana imayna
-kiel: imaynata
-tiel: chaynata
-iel: imaynapas
-ĉiel: llapan hinapi
-neniel: mana imaynapas
-kial: imarayku
-tial: chayrayku
 ial: imaraykupas
-ĉial: llapanrayku
-nenial: mana imaraykupas
-kiam: hayk'aq
-tiam: chaypacha
 iam: hayk'aqpas
-ĉiam: sapa kuti
-neniam: mana hayk'aqpas
-kiom: hayk'a
-tiom: chay hina achkha
+ie: maypipas
+iel: imaynapas
+ies: pipaspa
+io: imapas
 iom:
 - pisilla
 - imallapas
-ĉiom:
-- llapallan
-- tukuynin
+iu: pipas
+kia: imayna
+kial: imarayku
+kiam: hayk'aq
+kie: maypi
+kiel: imaynata
+kien: mayman
+kies: pipaq
+kio: ima
+kiom: hayk'a
+kiu:
+- pi
+- mayqin
+nenia: mana imayna
+nenial: mana imaraykupas
+neniam: mana hayk'aqpas
+nenie: mana maypipas
+neniel: mana imaynapas
+nenies: mana pipaspa
+nenio: mana ima
 neniom:
 - mana imapas
 - mana hayk'apas
-kies: pipaq
+neniu:
+- mana pipas
+- manan mayqinpas
+tia: chayna
+tial: chayrayku
+tiam: chaypacha
+tie: chaypi
+tiel: chaynata
 ties: chaypa
-ies: pipaspa
+tio: chay
+tiom: chay hina achkha
+tiu:
+- chay runa
+- chay
+ĉia: llapan imayna
+ĉial: llapanrayku
+ĉiam: sapa kuti
+ĉie: llapanpi
+ĉiel: llapan hinapi
 ĉies: llapankunapa
-nenies: mana pipaspa
+ĉio: llapan ima
+ĉiom:
+- llapallan
+- tukuynin
+ĉiu:
+- llapan runa
+- sapa

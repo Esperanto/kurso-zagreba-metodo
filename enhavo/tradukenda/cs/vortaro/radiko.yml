@@ -1,6 +1,7 @@
 afer:
 - věc
 - záležitost
+ag: skutek
 agrabl: příjemný
 akcept: přijmout
 akv: voda
@@ -8,6 +9,7 @@ ali: jiný
 alt: výška
 am: láska
 amik: přítel
+aper: objevit se
 arb: strom
 aspekt:
 - vypadat
@@ -16,6 +18,7 @@ atend: čekat
 atent: dávat pozor
 aĉet: koupit
 aŭd: slyšet
+aŭskult: poslouchat
 aŭt: auto
 aŭtoritat: autorita
 bedaŭr: litovat
@@ -43,6 +46,7 @@ dik: tlustý
 dimanĉ: Neděle
 dir: říct
 direkt: směr
+divers: různý
 doktor: doktor
 dolar: dolar
 dolor:
@@ -58,6 +62,7 @@ efektiv:
 - opravdu
 - skutečně
 ekskurs: výlet
+ekzempl: příklad
 esper: doufat
 est: být
 facil: jednoduchý
@@ -80,6 +85,7 @@ fot: foto
 frat: bratr
 fru: brzy
 fuŝ: odbýt
+glas: sklenice
 gondol: gondola
 graf: hrabě
 grand: velký
@@ -93,6 +99,8 @@ hor: hodina
 hotel: hotel
 ide: idea
 industri: průmysl
+infan: dítě
+inform: informovat
 instru: učit
 interes: zajímat se
 invit: pozvat
@@ -102,6 +110,7 @@ jar: rok
 jun: mladý
 kaf: káva
 kalv: plešatý
+kant: zpívat
 kap: hlava
 kapabl: schopný
 kapt: chytit
@@ -120,11 +129,13 @@ kolor: barva
 komenc: začít
 kompren: rozumět
 kon: znát
+konsent: souhlas
 kontent: spokojený
 kontrol: kontrolovat
 kor: srdce
 korp: tělo
 kost: stát (o ceně)
+kred: víra
 kri: křičet
 kuir: vařit
 kuk: koláč
@@ -134,10 +145,10 @@ lakt: mléko
 lamp: lampa
 land: země
 larĝ: široký
-last: poslední
 las:
 - nechat
 - opustit
+last: poslední
 laŭt: hlasitý
 lecion: lekce
 leg: číst
@@ -145,11 +156,14 @@ lern: učit se
 leter: dopis
 liber: volný
 libr: kniha
+lingv: jazyk
 lok: místo
 long: dlouhý
+loĝ: bydlet
 lud: hrát
 lum: světlo
 man: ruka
+manier: způsob
 mank: chybět
 manĝ: jíst
 mar: moře
@@ -162,12 +176,15 @@ minut: minuta
 mir: divit se
 moment: moment
 mon: peníze
+monat: měsíc
+mond: svět
 mont: hora
 montr: ukázat
 mort: zemřít
 mov: pohyb
 mult: mnoho
 muzik: hudba
+naci: národní
 nask: rodit
 natur: příroda
 neces: potřebovat
@@ -187,6 +204,7 @@ ord:
 - řádný
 - pořádný
 orel: ucho
+organiz: organizovat
 pac: mír
 pag: platit
 pan: chléb
@@ -207,21 +225,30 @@ plac: náměstí
 plan: plánovat
 plaĉ: líbit se
 plen: plný
+plor: plakat
+pluv: pršet
 polic: policie
 pord: dveře
 port: nést
 pov: moci
+poŝ: kapsa
+poŝt: pošta
 pren: vzít
 pret: připraveno
 prezent: představit
 problem: problém
 proksim: blízko
+proksimum: přibližný
 promen: procházet se
 propon: nabídka
 prov: zkusit
+publik: veřejný
+punkt: bod
+pur: čistý
 rajt:
 - smět
 - mít právo
+rakont: potkat
 rapid: rychle
 raport: zpráva
 real: skutečný
@@ -233,6 +260,8 @@ rest: zůstat
 ricev: dostat
 rid: smát se
 rigard: dívat se
+rilat: vztah
+rimark: poznámka
 riĉ: bohatý
 rol: role
 ruĝ: červená
@@ -240,6 +269,7 @@ salt: skákat
 salut: zdravit
 sam: stejně
 san: zdravý
+sat: sytý
 saĝ: moudře
 sci: znát
 sek: suchý
@@ -247,11 +277,14 @@ sekret: tajemství
 sekv: následovat
 semajn: týden
 send: poslat
+sent: cítit
 serĉ: hledat
+seĝ: židle
 si: zvratné zájmeno
 sid: sedět
 silent: tiše
 simil: podobný
+simpl: jednoduše
 sinjor:
 - gentleman
 - Pan.
@@ -265,8 +298,8 @@ star: stát
 strat: ulice
 subit: náhle
 sufiĉ: dostatečný
-sukces: úspěch
 suk: šťáva
+sukces: úspěch
 sun: slunce
 supr: nad
 tabl: stůl
@@ -277,13 +310,16 @@ temp: čas
 temperatur: teplota
 ten: držet
 teror: teror
+terur: hrůza
 tim: strach
 ton: tón
 trankvil: klidný
 trink: pít
 trov: najít
 turk: Turek
+tut: celý
 tuŝ: dotýkat se
+universal: universální
 urb: město
 util: užitečný
 uz: použít

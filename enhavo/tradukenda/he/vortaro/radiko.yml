@@ -1,4 +1,5 @@
 afer: עניין
+ag: לפעול
 agrabl: מעים
 akcept: לקבל
 akv: מים
@@ -6,12 +7,14 @@ ali: אחר
 alt: גבוה
 am: אהבה
 amik: חבר
+aper: להופיע
 arb: עץ
 aspekt: נראה
 atend: לחכות
 atent: לשים לב
 aĉet: לקנות
 aŭd: שלמוע
+aŭskult: להקשיב
 aŭt: מכונית
 aŭtoritat: סמכות
 bedaŭr: להצטער
@@ -37,6 +40,7 @@ dik:
 dimanĉ: יום ראשון
 dir: להגיד
 direkt: כיוון
+divers: שונים
 doktor: דוקטור
 dolar: דולר
 dolor:
@@ -50,6 +54,7 @@ doĝ: דוצ'ה, שליט איטלקי
 edz: בעל
 efektiv: למעשה
 ekskurs: טיול
+ekzempl: דוגמה
 esper: תקווה
 est: להיות
 facil: קל
@@ -70,6 +75,7 @@ fot: לצלם
 frat: אח
 fru: מוקדם
 fuŝ: לפשל, לקלקל
+glas: זכוכית
 gondol: גונדולה
 graf:
 - גרף
@@ -85,6 +91,8 @@ hor: שעה
 hotel: מלון
 ide: רעיון
 industri: תעשיה
+infan: ילד
+inform: להודיע
 instru: ללמד
 interes: לעניין
 invit: להזמין
@@ -94,6 +102,7 @@ jar: שנה
 jun: צעיר
 kaf: קפה
 kalv: קירח
+kant: לשיר
 kap: ראש
 kapabl:
 - מסוגל
@@ -112,11 +121,13 @@ kolor: צבע
 komenc: להתחיל
 kompren: להבין
 kon: לדעת
+konsent: להסכים
 kontent: מרוצה
 kontrol: לבדוק
 kor: לב
 korp: גוף
 kost: מחיר
+kred: להאמין
 kri: לצעוק
 kuir: לבשל
 kuk: עוגה
@@ -126,6 +137,9 @@ lakt: חלב
 lamp: מנורה
 land: ארץ
 larĝ: רחב
+las:
+- להניח
+- לאפשר
 last: אחרון
 laŭt: בקול רם
 lecion: שיעור
@@ -134,11 +148,16 @@ lern: ללמוד
 leter: מכתב
 liber: חופש
 libr: ספר
+lingv: שפה
 lok: מקום
 long: ארוך
+loĝ: לגור
 lud: לשחק, לנגן
 lum: אור
 man: יד
+manier:
+- צורה
+- אופן
 mank: להיות חסר
 manĝ: לאכול
 mar: ים
@@ -151,12 +170,15 @@ minut: דקה
 mir: להתפלא
 moment: רגע
 mon: כסף
+monat: חודש
+mond: עולם
 mont: הר
 montr: להראות
 mort: למות
 mov: לזוז
 mult: הרבה
 muzik: מוזיקה
+naci: אומה
 nask: ללדת
 natur: טבע
 neces: להיות צריך
@@ -174,6 +196,7 @@ onkl: דוד
 opini: דעה
 ord: סדר
 orel: אוזן
+organiz: לארגן
 pac: חתיכה
 pag: לשלם
 pan: לחם
@@ -194,21 +217,32 @@ plac: מקום
 plan: לתכנן
 plaĉ: למצוא חן
 plen: מלא
+plor: לבכות
+pluv: גשם
 polic: משטרה
 pord: דלת
 port:
 - לשאת
 - ללבוש
 pov: יכול
+poŝ: כיס
+poŝt: דואר
 pren: לקחת
 pret: מוכן
 prezent: להציג
 problem: בעיה
 proksim: קרוב
+proksimum: קרוב
 promen: לטייל
 propon: להציע
 prov: לנסות
+publik: ציבור
+punkt: נקודה
+pur:
+- נקי
+- טהור
 rajt: בעל זכות
+rakont: לספר
 rapid: מהיר
 raport: דיווח
 real: אמיתי
@@ -220,6 +254,8 @@ rest: להישאר
 ricev: לקבל
 rid: לצחוק
 rigard: להסתכל
+rilat: קשור ל
+rimark: להבחין
 riĉ: עשיר
 rol: תפקיד
 ruĝ: אדום
@@ -227,6 +263,7 @@ salt: לקפוץ
 salut: לברך לשלום
 sam: אותו דבר
 san: בריא
+sat: להיות שבע
 saĝ: חכם
 sci: לדעת
 sek: יבש
@@ -234,11 +271,14 @@ sekret: סוד
 sekv: לעקוב
 semajn: שבוע
 send: לשלוח
+sent: להרגיש
 serĉ: לחפש
+seĝ: כסא
 si: את עצמו
 sid: לשבת
 silent: שקט
 simil: דומה
+simpl: פשוט
 sinjor:
 - מר
 - אדון
@@ -252,6 +292,7 @@ star: לעמוד
 strat: רחוב
 subit: פתאום
 sufiĉ: מספיק
+suk: מיץ
 sukces: הצלחה
 sun: שמש
 supr: מעל
@@ -263,13 +304,18 @@ temp: זמן
 temperatur: טמפרטורה
 ten: החזיק
 teror: אימה
+terur: נורא
 tim: פחד
 ton: טון, גוון
 trankvil: רגוע
 trink: לשתות
 trov: למצוא
 turk: תורכי
+tut:
+- כל
+- שלם
 tuŝ: לגעת
+universal: אוניברסלי
 urb: עיר
 util: שימושי
 uz: להשתמש

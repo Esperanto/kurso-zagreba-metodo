@@ -2,6 +2,7 @@ afer:
 - 사건
 - 일
 - 사무
+ag: 행동하다
 agrabl: 유쾌한
 akcept: 받아 들이다
 akv: 물
@@ -9,6 +10,7 @@ ali: 다른
 alt: 높은
 am: 사랑
 amik: 친구
+aper: 나타나다
 arb: 나무
 aspekt:
 - ~한 외양이다
@@ -17,6 +19,7 @@ atend: 기다리다
 atent: 주의하다
 aĉet: 사다
 aŭd: 듣다
+aŭskult: 경청하다
 aŭt: 자동차
 aŭtoritat: 권위
 bedaŭr: 애석하게 여기다
@@ -47,6 +50,7 @@ dik:
 dimanĉ: 일요일
 dir: 얘기하다
 direkt: 방향
+divers: 다양한
 doktor: 의사
 dolar: 달러
 dolor:
@@ -60,6 +64,7 @@ doĝ: 총독
 edz: 남편
 efektiv: 효과적인
 ekskurs: 소풍
+ekzempl: 예
 esper: 희망하다
 est: ~이다
 facil: 쉬운
@@ -89,6 +94,7 @@ fot: 사진
 frat: 형제
 fru: 이른
 fuŝ: 망치다
+glas: 잔
 gondol: 곤돌라
 graf:
 - 백작
@@ -108,6 +114,8 @@ hor: 시간
 hotel: 호텔
 ide: 아이디어
 industri: 산업
+infan: 어린이
+inform: 알려주다
 instru: 가르치다
 interes:
 - 흥미나게 하다
@@ -121,6 +129,7 @@ jar:
 jun: 젊은
 kaf: 커피
 kalv: 대머리의
+kant: 노래
 kap: 머리
 kapabl:
 - 능력이 있는
@@ -145,6 +154,7 @@ kolor: 색깔
 komenc: 시작하다
 kompren: 이해하다
 kon: 알다
+konsent: 동의하다
 kontent: 만족한
 kontrol:
 - 검사하다
@@ -152,6 +162,7 @@ kontrol:
 kor: 심장
 korp: 신체
 kost: 비용
+kred: 믿다
 kri: 외치다
 kuir: 요리하다
 kuk: 과자
@@ -163,6 +174,7 @@ land: 땅
 larĝ:
 - 넓은
 - 널찍한
+las: 허락하다
 last: 마지막
 laŭt: 소리가 큰
 lecion: 학과
@@ -171,16 +183,19 @@ lern: 배우다
 leter: 편지
 liber: 자유로운
 libr: 책
+lingv: 언어
 lok: 장소
 long:
 - 긴
 - 오래된
+loĝ: 주거하다
 lud:
 - 놀다
 - 장난하다
 - 역할하다
 lum: 빛
 man: 손
+manier: 방법
 mank:
 - 결핍하다
 - 부족하다
@@ -196,12 +211,15 @@ minut: 분
 mir: 놀라다
 moment: 순간
 mon: 돈
+monat: 달(月)
+mond: 세계
 mont: 산
 montr: 보여주다
 mort: 죽다
 mov: 움직이다
 mult: 많은
 muzik: 음악
+naci: 나라
 nask: 낳다
 natur: 자연
 neces: 필요한
@@ -222,6 +240,7 @@ ord:
 - 순서
 - 정돈
 orel: 귀
+organiz: 조직
 pac: 평화
 pag: 지불하다
 pan: 빵
@@ -248,12 +267,16 @@ plaĉ:
 - 기쁘게하다
 - 마음에 들게 하다
 plen: 가득찬
+plor: 울다
+pluv: 비오다
 polic: 경찰
 pord: 문
 port:
 - 옮기다
 - 운반하다
 pov: 할 수 있다
+poŝ: 호주머니
+poŝt: 우편
 pren:
 - 취하다
 - 손에 잡다
@@ -264,10 +287,15 @@ prezent:
 - 소개하다
 problem: 문제
 proksim: 가까운
+proksimum: 가까운
 promen: 산보하다
 propon: 제안하다
 prov: 시도하다
+publik: 공공의
+punkt: 점
+pur: 맑은
 rajt: 권리가 있는
+rakont: 이야기하다
 rapid: 빠른
 raport:
 - 보고하다
@@ -284,6 +312,8 @@ rest: 남다
 ricev: 받다
 rid: 웃다
 rigard: 바라보다
+rilat: 관계된
+rimark: 주목하다
 riĉ: 부유한
 rol: 역할
 ruĝ: 붉은
@@ -291,6 +321,7 @@ salt: 점프하다
 salut: 인사하다
 sam: 같은
 san: 건강한
+sat: 만족시키다
 saĝ:
 - 현명한
 - 지혜로운
@@ -302,13 +333,16 @@ sekv:
 - 잇따르다
 semajn: 주
 send: 보내다
+sent: 느끼다
 serĉ: 찾다
+seĝ: 의자
 si: 자기자신
 sid: 앉다
 silent:
 - 조용한
 - 침묵의
 simil: 비슷한
+simpl: 간단한
 sinjor:
 - 신사
 - 미스터
@@ -322,6 +356,7 @@ star: 일어서다
 strat: 거리
 subit: 갑자기
 sufiĉ: 충분한
+suk: 주스
 sukces: 성공
 sun: 태양
 supr: 위의
@@ -335,6 +370,7 @@ temp: 시간
 temperatur: 온도
 ten: 손에 쥐다
 teror: 테러
+terur: 끔찍한
 tim: 두려운
 ton:
 - 톤
@@ -343,7 +379,9 @@ trankvil: 고요한
 trink: 마시다
 trov: 발견하다
 turk: 터키
+tut: 전체의
 tuŝ: 만지다
+universal: 세계적인
 urb: 도시
 util: 유용한
 uz: 사용하다

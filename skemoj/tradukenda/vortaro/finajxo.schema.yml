@@ -1,0 +1,17 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, finajxo
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - a
+  - e
+  - i
+  - n
+  - o
+  - j
+  - u
+  - is
+  - as
+  - os
+  - us

@@ -1,4 +1,7 @@
 afer: hal
+ag:
+- beraksi
+- bertindak
 agrabl:
 - menyenangkan
 - baik (sifat)
@@ -8,6 +11,9 @@ ali: lain
 alt: tinggi
 am: cinta
 amik: teman
+aper:
+- tampak
+- muncul
 arb: pohon
 aspekt:
 - tampak
@@ -15,6 +21,7 @@ atend: tunggu
 atent: perhatian
 aĉet: beli
 aŭd: dengar
+aŭskult: mendengar
 aŭt: mobil
 aŭtoritat: kuasa
 bedaŭr: sesal
@@ -42,6 +49,7 @@ dik:
 dimanĉ: Minggu
 dir: bilang
 direkt: arah
+divers: beragam
 doktor: dokter
 dolar: dolar
 dolor:
@@ -57,6 +65,7 @@ efektiv:
 - sebenarnya
 - nyata
 ekskurs: ekskursi, perjalanan wisata
+ekzempl: contoh
 esper: berharap
 est:
 - adalah
@@ -83,6 +92,7 @@ fot: foto
 frat: saudara
 fru: awal
 fuŝ: kacau
+glas: gelas
 gondol: gondola
 graf:
 - graf
@@ -100,6 +110,8 @@ hor: jam
 hotel: hotel
 ide: ide
 industri: industri
+infan: anak
+inform: menginformasi
 instru: mengajar
 interes: minat
 invit: undang
@@ -109,6 +121,7 @@ jar: tahun
 jun: muda
 kaf: kopi
 kalv: botak
+kant: menyanyi
 kap: kepala
 kapabl: mampu
 kapt: tangkap
@@ -125,11 +138,13 @@ kolor: warna
 komenc: mulai
 kompren: paham
 kon: tahu, kenal
+konsent: setuju
 kontent: puas, senang
 kontrol: periksa
 kor: hati
 korp: badan, tubuh
 kost: berharga
+kred: percaya
 kri: teriak
 kuir: masak
 kuk: kue
@@ -139,6 +154,7 @@ lakt: susu
 lamp: lampu
 land: negeri
 larĝ: luas
+las: membiarkan
 last: terakhir
 laŭt: keras (suara), kencang
 lecion: pelajaran
@@ -147,11 +163,16 @@ lern: belajar
 leter: surat
 liber: gratis, bebas
 libr: buku
+lingv: bahasa
 lok: tempat
 long: panjang
+loĝ:
+- tinggal
+- menempati
 lud: main
 lum: cahaya
 man: tangan
+manier: cara
 mank: kurang
 manĝ: makan
 mar: laut
@@ -164,12 +185,15 @@ minut: menit
 mir: heran
 moment: momen
 mon: uang
+monat: bulan
+mond: dunia
 mont: gunung
 montr: memperlihatkan
 mort: mati
 mov: bergerak, pindah
 mult: banyak
 muzik: musik
+naci: bangsa
 nask: melahirkan
 natur: alam
 neces: perlu, butuh
@@ -185,6 +209,9 @@ onkl: paman
 opini: opini, pendapat
 ord: perintah
 orel: telinga, kuping
+organiz:
+- mengorganisasi
+- mengatur
 pac: damai
 pag: bayar
 pan: roti
@@ -205,19 +232,30 @@ plac: tempat
 plan: rencana
 plaĉ: menyenangkan
 plen: penuh
+plor: menangis
+pluv: hujan
 polic: polisi
 pord: pintu
 port: bawa
 pov: bisa
+poŝ: saku
+poŝt: pos
 pren: ambil
 pret: siap
 prezent: menghadirkan
 problem: masalah
 proksim: dekat
+proksimum: dekat
 promen: jalan-jalan
 propon: usul
 prov: coba
+publik: publik
+punkt: titik
+pur:
+- suci
+- bersih
 rajt: berhak
+rakont: menceritakan
 rapid: cepat
 raport: lapor
 real: asli
@@ -229,6 +267,8 @@ rest: tetap
 ricev: menerima
 rid: tertawa
 rigard: memandang
+rilat: berkaitan
+rimark: menyadari
 riĉ: kaya
 rol: peran
 ruĝ: merah
@@ -236,6 +276,7 @@ salt: lompat
 salut: salam
 sam: sama
 san: sehat
+sat: suka
 saĝ: bijak
 sci: tahu
 sek: kering
@@ -243,11 +284,14 @@ sekret: rahasia
 sekv: mengikuti
 semajn: minggu
 send: kirim
+sent: merasa
 serĉ: cari
+seĝ: kursi
 si: (kata ganti refleksif)
 sid: duduk
 silent: hening, diam
 simil: mirip
+simpl: sederhana
 sinjor:
 - tuan
 - Tn.
@@ -261,6 +305,7 @@ star: berdiri
 strat: jalan
 subit: tiba-tiba
 sufiĉ: cukup
+suk: jus
 sukces: sukses
 sun: matahari
 supr: atas
@@ -272,13 +317,18 @@ temp: waktu
 temperatur: temperatur
 ten: pegang
 teror: teror
+terur:
+- parah
+- mengerikan
 tim: takut
 ton: nada
 trankvil: tenang
 trink: minum
 trov: menemukan
 turk: Turki
+tut: semua
 tuŝ: memegang
+universal: universal
 urb: kota
 util: berguna
 uz: pakai, guna

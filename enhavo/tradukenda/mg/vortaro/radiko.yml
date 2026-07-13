@@ -1,4 +1,5 @@
 afer: raharaha
+ag: manao
 agrabl: mahafinaritra
 akcept: manaiky
 akv: rano
@@ -6,12 +7,14 @@ ali: hafa
 alt: avo
 am: tia
 amik: sakaiza
+aper: miseho , miposaka
 arb: hazo
 aspekt: endrika , bika
 atend: miandry
 atent: mitandrina
 aĉet: mividy
 aŭd: mahare
+aŭskult: mihaino
 aŭt: fiara
 aŭtoritat: fanjakana
 bedaŭr: manenina
@@ -35,6 +38,10 @@ dik: be vatana , vaventy
 dimanĉ: alahady
 dir: miteny
 direkt: fizotra
+divers:
+- samihafa
+- hafa
+- miovaova ,maro karazana
 doktor: dokotera
 dolar: dolara
 dolor: fijaliana , fangirifiriana
@@ -49,6 +56,7 @@ efektiv:
 - marina, tena marina
 - marina tokoa
 ekskurs: fandehandehanana
+ekzempl: ohatra
 esper: manantena
 est: izy , zavatra
 facil: mora
@@ -69,6 +77,7 @@ fot: sary
 frat: rahalahy
 fru: faingana
 fuŝ: manaonao foana
+glas: fitaratra , vera
 gondol: gondole
 graf: comte
 grand: lehibe , vaventy
@@ -82,6 +91,8 @@ hor: ora
 hotel: hotely
 ide: hevitra
 industri: taozavatra
+infan: zaza , ankizy
+inform: milaza , manambara
 instru: mampianatra
 interes: mahaliana
 invit: manasa
@@ -91,6 +102,7 @@ jar: taona
 jun: tanora
 kaf: kafe
 kalv: sola
+kant: mihira
 kap: loha
 kapabl: mahavita , mahazaka
 kapt: misambotra ,mahazo
@@ -107,11 +119,13 @@ kolor: loko
 komenc: manomboka
 kompren: mahazo ,misy
 kon: mahay
+konsent: manaiky
 kontent: faly ,afa-po
 kontrol: mamotopototra
 kor: fo
 korp: vatana
 kost: vidiny
+kred: mino , matoky
 kri: mihorakoraka
 kuir: mahandro
 kuk: mofo mamy
@@ -121,6 +135,7 @@ lakt: ronono
 lamp: jiro
 land: fari-tany , tany
 larĝ: malalaka
+las: mamela
 last: farany
 laŭt: matanjaka
 lecion: lesona
@@ -129,11 +144,17 @@ lern: mianatra
 leter: taratasy
 liber: afaka , tsy voatery
 libr: boky
+lingv: lela , fiteny
 lok: mametraka
 long: lava
+loĝ:
+- monina
+- mitoetra
+- mipetraka, monina
 lud: milalao
 lum: fahazavana
 man: tanana
+manier: toetra ,fomba
 mank: diso
 manĝ: mihinana
 mar: rano masina
@@ -148,12 +169,15 @@ moment: fotoana kely , kelikely
 mon:
 - vola
 - vola madinika
+monat: volana
+mond: izao tontolo izao
 mont: tendrombohitra
 montr: mampiseho
 mort: maty , miala aina
 mov: mihetsika
 mult: betsaka
 muzik: mozika
+naci: firenena
 nask: miteraka
 natur: natiora ,toe-javatra
 neces: mila
@@ -169,6 +193,7 @@ onkl: dadatoa , rahalahin-dray
 opini: hevitra , fiheverina
 ord: mandidy , mifehy , manafatra
 orel: sofina
+organiz: mandahatra
 pac: fifanarahana
 pag: mandoa
 pan: mofo
@@ -189,19 +214,28 @@ plac: toerana
 plan: mandrafitra
 plaĉ: ankasitrahana
 plen: feno
+plor: mitomany
+pluv: manorana
 polic: polisy
 pord: varavarana
 port: mitandrina
 pov: fahefana
+poŝ: paosy
+poŝt: fitoerana
 pren: maka , mandray
 pret: vonona
 prezent: manolotra
 problem: olana
 proksim: anila , ankila
+proksimum: tokony
 promen: mitsangatsangana
 propon: manolotra , mamosaka
 prov: mitsapa , manandrana
+publik: vahoaka
+punkt: tendrin-tsoratra , vato
+pur: tsy misy fahony ,madio
 rajt: manan-jo amin'ny
+rakont: mitantara
 rapid: malaky , faingana
 raport: mamerina , mitondra
 real: misy tokoa , marina
@@ -213,6 +247,11 @@ rest: mijanona
 ricev: mandray , mahazo
 rid: hehy
 rigard: mijery
+rilat:
+- ho mifandray amin'
+- mifandraika amin'ny
+- momba an'ny ...
+rimark: mandinika
 riĉ: manan-karena
 rol: anjarany , filaharana
 ruĝ: mena
@@ -220,6 +259,7 @@ salt: mitsambikina
 salut: famonjena , fiarabana
 sam: izay izany
 san: fahasalamana
+sat: mamoky
 saĝ: hendry
 sci: fahaizana
 sek: maina
@@ -227,11 +267,17 @@ sekret: tsiambaratelo
 sekv: manaraka
 semajn: herinandro
 send: maniraka ,mandefa
+sent:
+- mahatsapa
+- mahare
+- manandrana
 serĉ: mitady
+seĝ: fipetrahana
 si: mpisolo toerana
 sid: mametraka
 silent: fanginana
 simil: mitovy
+simpl: tsotra
 sinjor:
 - andriamatoa
 - Ra.
@@ -245,6 +291,9 @@ star: mijoro
 strat: arabe
 subit: tampoka
 sufiĉ: ampy
+suk:
+- ranon-kazo
+- ranom-boankazo
 sukces: fahombiasana
 sun: masoandro
 supr: ambony
@@ -256,13 +305,19 @@ temp: andro
 temperatur: toetrandro , hafanana
 ten: mitana , mihazona
 teror: fahatsiravina ,tahotra mafy
+terur: mahatsiravina
 tim: tahotra
 ton: feo
 trankvil: tony , maotona ; mandry
 trink: misotro
 trov: mahita
 turk: torka
+tut:
+- rehetra, daholo
+- manontolo, tontolo
+- ankapobe
 tuŝ: mikasika
+universal: amin'ny izao tontolo izao
 urb: tanàna lehibe
 util: mahasoa
 uz: mampiasa , manao zavatra mahasoa

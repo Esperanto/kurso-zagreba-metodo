@@ -1,6 +1,8 @@
 ant: presente activo
-int: pasado activo
-ont: futuro activo
 at: presente pasivo
+int: pasado activo
 it: pasado pasivo
+ont: futuro activo
 ot: futuro pasivo
+unt: condicional activo
+ut: condicional pasivo

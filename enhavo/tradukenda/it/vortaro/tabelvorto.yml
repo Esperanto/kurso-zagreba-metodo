@@ -1,75 +1,76 @@
-kio: che cosa
-tio:
-- ciò
-- quella cosa
-io: qualche cosa
-ĉio:
-- tutto
-- ogni cosa
-nenio:
-- niente
-- nessuna cosa
-kiu:
-- chi
-- quale
-tiu:
-- quello
-- colui
-iu: qualcuno
-ĉiu:
-- ognuno
-- ciascuno
-neniu: nessuno
-kie: dove
-tie: lì
-ie: da qualche parte
-ĉie: dovunque
-nenie: da nessuna parte
-kia:
-- quale
-- di quale specie
-tia:
-- tale
-- di quella specie
 ia:
 - qualche
 - di qualche specie
-ĉia:
-- ogni
-- di ogni specie
-nenia: di nessuna specie
-kiel: come
-tiel: così
-iel: in qualche modo
-ĉiel: in ogni modo
-neniel: in nessun modo
-kial: perché
-tial:
-- perciò
-- per questa ragione
 ial: per qualche motivo
-ĉial: per tutte le ragioni
-nenial: per nessun motivo
-kiam: quando
-tiam: allora
 iam:
 - una volta
 - qualche volta
-ĉiam: sempre
-neniam: mai
-kiom: quanto
-tiom: tanto
+ie: da qualche parte
+iel: in qualche modo
+ies: di qualcuno
+io: qualche cosa
 iom:
 - un poco
 - qualche volta
-ĉiom:
-- tutto
-- interamente
+iu: qualcuno
+kia:
+- quale
+- di quale specie
+kial: perché
+kiam: quando
+kie: dove
+kiel: come
+kien: dove (moto a luogo)
+kies: di chi
+kio: che cosa
+kiom: quanto
+kiu:
+- chi
+- quale
+nenia: di nessuna specie
+nenial: per nessun motivo
+neniam: mai
+nenie: da nessuna parte
+neniel: in nessun modo
+nenies: di nessuno
+nenio:
+- niente
+- nessuna cosa
 neniom:
 - niente
 - nessuna quantità
-kies: di chi
+neniu: nessuno
+tia:
+- tale
+- di quella specie
+tial:
+- perciò
+- per questa ragione
+tiam: allora
+tie: lì
+tiel: così
 ties: di lui/lei
-ies: di qualcuno
+tio:
+- ciò
+- quella cosa
+tiom: tanto
+tiu:
+- quello
+- colui
+ĉia:
+- ogni
+- di ogni specie
+ĉial: per tutte le ragioni
+ĉiam: sempre
+ĉie: dovunque
+ĉiel: in ogni modo
 ĉies: di tutti
-nenies: di nessuno
+ĉio:
+- tutto
+- ogni cosa
+ĉiom:
+- tutto
+- interamente
+ĉiu:
+- ognuno
+- ciascuno

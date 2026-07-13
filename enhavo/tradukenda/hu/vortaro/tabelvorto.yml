@@ -1,59 +1,60 @@
-kio: mi
-tio: az
-io: valami
-ĉio: minden
-nenio: semmi
-kiu:
-- ki
-- melyik
-tiu:
-- az az ember
-- az a
-iu: valaki
-ĉiu:
-- mindenki
-- mindegyik
-neniu:
-- senki
-- semelyik
-kie: hol
-tie: ott
-ie: valahol
-ĉie: mindenhol
-nenie: sehol
-kia: milyen
-tia: olyan
 ia: valamilyen
-ĉia: mindenféle
-nenia: semmilyen
-kiel: hogyan
-tiel: úgy
-iel: valahogyan
-ĉiel: mindenhogyan
-neniel: sehogyan
-kial: miért
-tial: azért
 ial: valamiért
-ĉial: mindenért
-nenial: semmiért
-kiam: mikor
-tiam: akkor
 iam: valamikor
-ĉiam: mindig
-neniam: soha
-kiom: mennyi
-tiom: annyi
+ie: valahol
+iel: valahogyan
+ies: valakié
+io: valami
 iom:
 - valamennyi
 - egy kis
-ĉiom:
-- mindannyi
-- mindahány
+iu: valaki
+kia: milyen
+kial: miért
+kiam: mikor
+kie: hol
+kiel: hogyan
+kien: hová
+kies: kié
+kio: mi
+kiom: mennyi
+kiu:
+- ki
+- melyik
+nenia: semmilyen
+nenial: semmiért
+neniam: soha
+nenie: sehol
+neniel: sehogyan
+nenies: senkié
+nenio: semmi
 neniom:
 - semennyi
 - sehány
-kies: kié
+neniu:
+- senki
+- semelyik
+tia: olyan
+tial: azért
+tiam: akkor
+tie: ott
+tiel: úgy
 ties: azé
-ies: valakié
+tio: az
+tiom: annyi
+tiu:
+- az az ember
+- az a
+ĉia: mindenféle
+ĉial: mindenért
+ĉiam: mindig
+ĉie: mindenhol
+ĉiel: mindenhogyan
 ĉies: mindenkié
-nenies: senkié
+ĉio: minden
+ĉiom:
+- mindannyi
+- mindahány
+ĉiu:
+- mindenki
+- mindegyik

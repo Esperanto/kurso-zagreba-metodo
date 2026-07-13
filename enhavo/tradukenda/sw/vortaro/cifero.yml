@@ -1,27 +1,27 @@
-unu: moja
-du: mbili
-tri: tatu
-kvar: nne
-kvin: tano
-ses: sita
-sep: saba
-ok: nane
-naŭ: tisa
+cent: mia
 dek: kumi
-dek unu: kumi na moja
 dek du: kumi na mbili
-dek tri: kumi na tatu
 dek kvar: kumi na nne
 dek kvin: kumi na tano
-dek ses: kumi na sita
-dek sep: kumi na saba
-dek ok: kumi na nane
 dek naŭ: kumi na tisa
-dudek: ishirini
-tridek: thelathini
-kvardek: arobaini
-cent: mia
+dek ok: kumi na nane
+dek sep: kumi na saba
+dek ses: kumi na sita
+dek tri: kumi na tatu
+dek unu: kumi na moja
+du: mbili
 ducent: mia mbili
-tricent: mia tatu
-mil: elfu
+dudek: ishirini
 dumil: elfu mbili
+kvar: nne
+kvardek: arobaini
+kvin: tano
+mil: elfu
+naŭ: tisa
+ok: nane
+sep: saba
+ses: sita
+tri: tatu
+tricent: mia tatu
+tridek: thelathini
+unu: moja

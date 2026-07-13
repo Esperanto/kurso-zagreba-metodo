@@ -1,27 +1,27 @@
-unu: wan
-du: tu
-tri: tu wan
-kvar: tu tu
-kvin: luka (nanpa)
-ses: luka wan
-sep: luka tu
-ok: luka tu wan
-naŭ: luka tu tu
+cent: ale (nanpa)
 dek: luka luka
-dek unu: luka luka wan
 dek du: luka luka tu
-dek tri: luka luka tu wan
 dek kvar: luka luka tu tu
 dek kvin: luka luka luka
-dek ses: luka luka luka wan
-dek sep: luka luka luka tu
-dek ok: luka luka luka tu wan
 dek naŭ: luka luka luka tu tu
-dudek: mute (nanpa)
-tridek: mute luka luka
-kvardek: mute mute
-cent: ale (nanpa)
+dek ok: luka luka luka tu wan
+dek sep: luka luka luka tu
+dek ses: luka luka luka wan
+dek tri: luka luka tu wan
+dek unu: luka luka wan
+du: tu
 ducent: ale ale
-tricent: ale ale ale
-mil: ale ale ale ale ale ale ale ale ale ale
+dudek: mute (nanpa)
 dumil: ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale
+kvar: tu tu
+kvardek: mute mute
+kvin: luka (nanpa)
+mil: ale ale ale ale ale ale ale ale ale ale
+naŭ: luka tu tu
+ok: luka tu wan
+sep: luka tu
+ses: luka wan
+tri: tu wan
+tricent: ale ale ale
+tridek: mute luka luka
+unu: wan

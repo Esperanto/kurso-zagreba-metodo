@@ -1,0 +1,16 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, grava_esprimo
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - ĉu ne
+  - iom post iom
+  - pli-malpli
+  - memkompreneble
+  - temas pri
+  - iomete
+  - rilate al
+  - ni diru
+  - verŝajne
+  - eble

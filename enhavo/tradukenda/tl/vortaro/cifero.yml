@@ -1,27 +1,27 @@
-unu: isa
-du: dalawa
-tri: tatlo
-kvar: apat
-kvin: lima
-ses: anim
-sep: pito
-ok: walo
-naŭ: siyam
+cent: daan
 dek: sampu
-dek unu: labing-isa
 dek du: labindalawa
-dek tri: labintatlo
 dek kvar: labing-apat
 dek kvin: labinlima
-dek ses: labing-anim
-dek sep: labimpito
-dek ok: labing-walo
 dek naŭ: labinsiyam
-dudek: dalawampu
-tridek: tatlumpu
-kvardek: apatnapu
-cent: daan
+dek ok: labing-walo
+dek sep: labimpito
+dek ses: labing-anim
+dek tri: labintatlo
+dek unu: labing-isa
+du: dalawa
 ducent: dalawang daan
-tricent: tatlong daan
-mil: libo
+dudek: dalawampu
 dumil: dalawang libo
+kvar: apat
+kvardek: apatnapu
+kvin: lima
+mil: libo
+naŭ: siyam
+ok: walo
+sep: pito
+ses: anim
+tri: tatlo
+tricent: tatlong daan
+tridek: tatlumpu
+unu: isa

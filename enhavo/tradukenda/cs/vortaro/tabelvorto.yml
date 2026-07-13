@@ -1,73 +1,74 @@
-kio: co
-tio: to
-io:
-- něco
-- cosi
-ĉio: všechno
-nenio: nic
-kiu:
-- kdo
-- který
-tiu: ten
-iu:
-- někdo
-- kdosi
-ĉiu:
-- každý
-- veškerý
-neniu:
-- nikdo
-- žádný
-kie: kde
-tie: tam
-ie:
-- někde
-- kdesi
-ĉie: všude
-nenie: nikde
-kia: jaký
-tia: takový
 ia:
 - nějaký
 - jakýsi
-ĉia: všelijaký
-nenia: nijaký
-kiel: jak
-tiel: tak
-iel:
-- nějak
-- jaksi
-ĉiel: všelijak
-neniel: nijak
-kial: proč
-tial: proto
 ial: z nějakého důvodu
-ĉial: ze všech důvodů
-nenial: bez důvodu
-kiam:
-- kdy
-- když
-tiam: tehdy
 iam:
 - někdy
 - kdysi
-ĉiam: vždy
-neniam: nikdy
-kiom: kolik
-tiom: tolik
-iom: trochu
-ĉiom: všechno
-neniom: ani trochu
-kies: čí
-ties:
-- toho
-- těch
+ie:
+- někde
+- kdesi
+iel:
+- nějak
+- jaksi
 ies:
 - něčí
 - čísi
-ĉies:
-- všech
-- každého
+io:
+- něco
+- cosi
+iom: trochu
+iu:
+- někdo
+- kdosi
+kia: jaký
+kial: proč
+kiam:
+- kdy
+- když
+kie: kde
+kiel: jak
+kien: kam
+kies: čí
+kio: co
+kiom: kolik
+kiu:
+- kdo
+- který
+nenia: nijaký
+nenial: bez důvodu
+neniam: nikdy
+nenie: nikde
+neniel: nijak
 nenies:
 - ničí
 - nikoho
+nenio: nic
+neniom: ani trochu
+neniu:
+- nikdo
+- žádný
+tia: takový
+tial: proto
+tiam: tehdy
+tie: tam
+tiel: tak
+ties:
+- toho
+- těch
+tio: to
+tiom: tolik
+tiu: ten
+ĉia: všelijaký
+ĉial: ze všech důvodů
+ĉiam: vždy
+ĉie: všude
+ĉiel: všelijak
+ĉies:
+- všech
+- každého
+ĉio: všechno
+ĉiom: všechno
+ĉiu:
+- každý
+- veškerý

@@ -1,57 +1,58 @@
-kio: apa
-tio: itu
-io: sesuatu
-ĉio: semua
-nenio: tidak ada apa-apa
-kiu: siapa
-tiu:
-- itu orang
-- itu barang
-iu: seseorang
-ĉiu:
-- semua orang
-- semua
-neniu:
-- tidak orang
-- tidak ada mereka
-kie: di mana
-tie: di sana
-ie: di suatu tempat
-ĉie: semua tempat
-nenie: di mana-mana
-kia: apa jenis
-tia: jenis ini
 ia: beberapa jenis
-ĉia: semua jenis
-nenia: tiada jenis
-kiel: begaimana
-tiel: begini
-iel: dalam sesuatu cara
-ĉiel: semua cara
-neniel: tidak ada cara
-kial: kenapa
-tial: untuk alasan itu
 ial: untuk alasan lain
-ĉial: untuk semua alasan
-nenial: untuk tidak ada alasan
-kiam: bila
-tiam: masa itu
 iam: sewaktu
-ĉiam: selalu
-neniam: tidak pernah
-kiom: berapa
-tiom: begitu banyak
+ie: di suatu tempat
+iel: dalam sesuatu cara
+ies: seseorang punya
+io: sesuatu
 iom:
 - sehingga satu tahap
 - jumlah tertentu
-ĉiom:
-- semua
-- jumlah keseluruhan
+iu: seseorang
+kia: apa jenis
+kial: kenapa
+kiam: bila
+kie: di mana
+kiel: begaimana
+kien: ke mana
+kies: siapa punya
+kio: apa
+kiom: berapa
+kiu: siapa
+nenia: tiada jenis
+nenial: untuk tidak ada alasan
+neniam: tidak pernah
+nenie: di mana-mana
+neniel: tidak ada cara
+nenies: tidak ada orang punya
+nenio: tidak ada apa-apa
 neniom:
 - tidak ada
 - tidak ada jumlah
-kies: siapa punya
+neniu:
+- tidak orang
+- tidak ada mereka
+tia: jenis ini
+tial: untuk alasan itu
+tiam: masa itu
+tie: di sana
+tiel: begini
 ties: orang lain punya
-ies: seseorang punya
+tio: itu
+tiom: begitu banyak
+tiu:
+- itu orang
+- itu barang
+ĉia: semua jenis
+ĉial: untuk semua alasan
+ĉiam: selalu
+ĉie: semua tempat
+ĉiel: semua cara
 ĉies: semua orang punya
-nenies: tidak ada orang punya
+ĉio: semua
+ĉiom:
+- semua
+- jumlah keseluruhan
+ĉiu:
+- semua orang
+- semua

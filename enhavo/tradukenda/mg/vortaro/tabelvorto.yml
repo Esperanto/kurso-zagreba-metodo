@@ -1,53 +1,54 @@
-kio: inona
-tio:
-- izany
-- io zavatra io
-io: zavatra iray
-ĉio: ny zavatra rehetra
-nenio: na inona na inona
-kiu: iza
-tiu: io olona io / izany
-iu: olona anankiray
-ĉiu:
-- olona rehetra
-- tsirairay
-neniu:
-- tsy misy olona
-- tsy misy na dia iray aza
-kie: aiza
-tie: eo / any
-ie: any ho any
-ĉie: hatraiza hatraiza
-nenie: tsy na aiza na aiza
-kia: karazana inona
-tia: karazana izany
 ia: karazana iray
-ĉia: karazana rehetra
-nenia: tsy misy karazany
-kiel: ahoana
-tiel: toy izany
-iel: amin'ny fomba iray
-ĉiel: amin'ny fomba rehetra
-neniel: tsy amin'ny fomba na inona na inona
-kial: nahoana
-tial: noho io antony io
 ial: noho ny antony sasany
-ĉial: noho ny antony rehetra
-nenial: tsy misy antony
-kiam: rahoviana
-tiam: amin'izay fotoana izay
 iam:
 - indray andro any
 - fotoana iray
-ĉiam: mandrakariva
-neniam: na oviana na oviana
-kiom: firy / ohatrinona
-tiom: izany habe izany
-iom: kely
-ĉiom: ny habetsahana rehetra
-neniom: tsy misy na kely aza
-kies: an'iza
-ties: an'io olona io
+ie: any ho any
+iel: amin'ny fomba iray
 ies: an'olona
-ĉies: an'olona rehetra
+io: zavatra iray
+iom: kely
+iu: olona anankiray
+kia: karazana inona
+kial: nahoana
+kiam: rahoviana
+kie: aiza
+kiel: ahoana
+kien: ho aiza (mankany)
+kies: an'iza
+kio: inona
+kiom: firy / ohatrinona
+kiu: iza
+nenia: tsy misy karazany
+nenial: tsy misy antony
+neniam: na oviana na oviana
+nenie: tsy na aiza na aiza
+neniel: tsy amin'ny fomba na inona na inona
 nenies: tsy an'olona
+nenio: na inona na inona
+neniom: tsy misy na kely aza
+neniu:
+- tsy misy olona
+- tsy misy na dia iray aza
+tia: karazana izany
+tial: noho io antony io
+tiam: amin'izay fotoana izay
+tie: eo / any
+tiel: toy izany
+ties: an'io olona io
+tio:
+- izany
+- io zavatra io
+tiom: izany habe izany
+tiu: io olona io / izany
+ĉia: karazana rehetra
+ĉial: noho ny antony rehetra
+ĉiam: mandrakariva
+ĉie: hatraiza hatraiza
+ĉiel: amin'ny fomba rehetra
+ĉies: an'olona rehetra
+ĉio: ny zavatra rehetra
+ĉiom: ny habetsahana rehetra
+ĉiu:
+- olona rehetra
+- tsirairay

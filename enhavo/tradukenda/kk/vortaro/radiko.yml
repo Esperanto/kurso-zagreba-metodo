@@ -1,4 +1,5 @@
 afer: matter
+ag: әрекет ету
 agrabl: pleasant
 akcept: accept
 akv: water
@@ -6,6 +7,7 @@ ali: another
 alt: high
 am: love
 amik: дос
+aper: пайда болу
 arb: ағаш
 aspekt:
 - look
@@ -14,6 +16,7 @@ atend: to wait
 atent: pay attention
 aĉet: to buy
 aŭd: to hear
+aŭskult: тыңдау
 aŭt: car
 aŭtoritat: authority
 bedaŭr: to regret
@@ -41,6 +44,7 @@ dik:
 dimanĉ: жексенбі
 dir: to say
 direkt: direction
+divers: әртүрлі
 doktor: дәрігер
 dolar: доллар
 dolor:
@@ -54,6 +58,7 @@ doĝ: doge
 edz: husband
 efektiv: actually
 ekskurs: excursion
+ekzempl: мысал
 esper: to hope
 est: to be
 facil: easy
@@ -78,6 +83,7 @@ fot: photo
 frat: аға
 fru: early
 fuŝ: to mess up
+glas: стақан
 gondol: гондола
 graf:
 - count
@@ -95,6 +101,8 @@ hor: сағат
 hotel: қонақхана
 ide: idea
 industri: industry
+infan: бала
+inform: хабарлау
 instru: to teach
 interes: to interest
 invit: to invite
@@ -104,6 +112,7 @@ jar: жыл
 jun: young
 kaf: кофе
 kalv: bald
+kant: ән айту
 kap: бас
 kapabl: capable
 kapt: to catch
@@ -120,11 +129,13 @@ kolor: түс
 komenc: to begin
 kompren: to understand
 kon: to know
+konsent: келісу
 kontent: satisfied
 kontrol: to check
 kor: жүрек
 korp: дене; тән
 kost: to cost
+kred: сену
 kri: to scream
 kuir: to cook
 kuk: cake
@@ -134,6 +145,9 @@ lakt: milk
 lamp: lamp
 land: land
 larĝ: wide
+las:
+- рұқсат ету
+- қалдыру
 last: last
 laŭt: loud
 lecion: дәріс; сабақ
@@ -142,11 +156,14 @@ lern: to learn
 leter: letter
 liber: free
 libr: кітап
+lingv: тіл
 lok: place
 long: ұзақ; ұзын
+loĝ: тұру
 lud: to play
 lum: light
 man: қол
+manier: тәсіл
 mank: be lacking
 manĝ: to eat
 mar: теңіз
@@ -159,12 +176,15 @@ minut: minute
 mir: to wonder
 moment: moment
 mon: ақша
+monat: ай
+mond: әлем
 mont: тау
 montr: to show
 mort: to die
 mov: to move
 mult: many
 muzik: music
+naci: ұлт
 nask: to give birth
 natur: nature
 neces: to need
@@ -180,6 +200,7 @@ onkl: ағай
 opini: opinion
 ord: to order
 orel: құлақ
+organiz: ұйымдастыру
 pac: peace
 pag: to pay
 pan: bread
@@ -200,19 +221,28 @@ plac: place
 plan: to plan
 plaĉ: to be pleasing
 plen: full
+plor: жылау
+pluv: жаңбыр жауу
 polic: police
 pord: есік
 port: to carry
 pov: can
+poŝ: қалта
+poŝt: пошта
 pren: to take
 pret: ready
 prezent: to present
 problem: problem
 proksim: near
+proksimum: шамамен
 promen: to stroll
 propon: to propose
 prov: to try
+publik: қоғамдық
+punkt: нүкте
+pur: таза
 rajt: to be allowed to
+rakont: әңгімелеу
 rapid: fast
 raport: report
 real: real
@@ -224,6 +254,8 @@ rest: to remain
 ricev: to receive
 rid: to laugh
 rigard: to look at
+rilat: қатысты болу
+rimark: байқау
 riĉ: бай
 rol: рөл
 ruĝ: қызыл
@@ -231,6 +263,7 @@ salt: to jump
 salut: сәлем
 sam: same
 san: healthy
+sat: тоқ
 saĝ: wise
 sci: to know
 sek: dry
@@ -238,11 +271,14 @@ sekret: құпия
 sekv: to follow
 semajn: апта
 send: to send
+sent: сезу
 serĉ: to search
+seĝ: орындық
 si: reflexive pronoun
 sid: to sit
 silent: silent
 simil: similar
+simpl: қарапайым
 sinjor:
 - мырза
 situaci: sitation
@@ -255,6 +291,7 @@ star: to stand
 strat: street
 subit: suddenly
 sufiĉ: sufficient
+suk: шырын
 sukces: табыс
 sun: күн
 supr: above
@@ -266,13 +303,16 @@ temp: уақыт
 temperatur: temperature
 ten: hold
 teror: terror
+terur: қорқынышты
 tim: fear
 ton: tone
 trankvil: calm
 trink: to drink
 trov: to find
 turk: Turkish
+tut: бүтін
 tuŝ: to touch
+universal: әмбебап
 urb: қала
 util: useful
 uz: to use

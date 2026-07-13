@@ -79,6 +79,19 @@ check-yaml:
 	@printf '%s' 'startis vortaro-skemoj... '
 	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.yml" enhavo/tradukenda/*/vortaro/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }
 	@printf '%s\n' 'bone'
+	@printf '%s' 'startis specifaj vortaro-skemoj... '
+	@for dosiero in enhavo/tradukenda/*/vortaro/*.yml; do \
+		nomo=$$(basename "$$dosiero" .yml); \
+		skemo="$(TRADUKENDA_SCHEMA_DIR)/vortaro/$${nomo}.schema.yml"; \
+		test -f "$$skemo" || { printf '\nMankas vortaro-skemo por %s: %s\n' "$$dosiero" "$$skemo"; exit 1; }; \
+	done
+	@for skemo in "$(TRADUKENDA_SCHEMA_DIR)"/vortaro/*.schema.yml; do \
+		nomo=$$(basename "$$skemo" .schema.yml); \
+		dosieroj=$$(find enhavo/tradukenda -path "*/vortaro/$${nomo}.yml" -type f | sort); \
+		test -n "$$dosieroj" || continue; \
+		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$$skemo" $$dosieroj 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
+	done
+	@printf '%s\n' 'bone'
 	@printf '%s' 'startis traduku-skemoj... '
 	@for leciono in 01 02 03 04 05 06 07 08 09 10 11 12; do \
 		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku/$${leciono}.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku/$${leciono}.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
@@ -93,7 +106,7 @@ check-yaml:
 
 check-yaml-normalized:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
-	@"$(PYTHON)" iloj/normaligu-yaml.py --kontrolu enhavo
+	@"$(PYTHON)" -m fonto.py.normaligu_yaml --kontrolu enhavo
 
 check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
@@ -120,7 +133,7 @@ md:
 
 normalize-yaml:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
-	@"$(PYTHON)" iloj/normaligu-yaml.py enhavo
+	@"$(PYTHON)" -m fonto.py.normaligu_yaml enhavo
 
 serve:
 	@"$(PYTHON)" -m http.server "$(PORT)" --bind "$(HOST)" --directory "$(OUTPUT_DIR)"

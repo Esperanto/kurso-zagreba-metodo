@@ -1,6 +1,7 @@
 afer:
 - aangelegenheid
 - zaak
+ag: handelen
 agrabl: aangenaam
 akcept:
 - accepteren
@@ -10,6 +11,7 @@ ali: ander
 alt: hoog
 am: beminnen
 amik: vriend
+aper: verschijnen
 arb: boom
 aspekt: uitzicht
 atend: wachten
@@ -18,6 +20,10 @@ atent:
 - aandacht
 aĉet: kopen
 aŭd: horen
+aŭskult:
+- luisteren
+- beluisteren
+- aanhoren
 aŭt: auto
 aŭtoritat: autoriteit
 bedaŭr: betreuren
@@ -47,6 +53,7 @@ dik: dik
 dimanĉ: zondag
 dir: zeggen
 direkt: richting
+divers: diverse, verschillende
 doktor: dokter
 dolar: dollar
 dolor:
@@ -64,6 +71,7 @@ efektiv:
 ekskurs:
 - uitstapje
 - excursie
+ekzempl: voorbeeld, toonbeeld
 esper: hopen
 est: zijn (werkwoord)
 facil: gemakkelijk
@@ -91,6 +99,7 @@ fuŝ:
 - prutsen
 - knoeien
 - sukkelen
+glas: drinkglas, glas
 gondol: gondel
 graf: graaf
 grand: groot
@@ -108,6 +117,8 @@ hor: uur
 hotel: hotel
 ide: idee
 industri: industrie
+infan: kind
+inform: informeren, inlichten
 instru: onderwijzen
 interes:
 - interesse
@@ -120,6 +131,7 @@ jar: jaar
 jun: jong
 kaf: koffie
 kalv: kaal
+kant: zingen, lied, zang
 kap: kop
 kapabl: bekwaam
 kapt: vangen
@@ -153,6 +165,10 @@ kompren:
 - verstaan
 - begrijpen
 kon: kennen
+konsent:
+- instemmen
+- toestemmen
+- akkoord gaan
 kontent: tevreden
 kontrol:
 - controleren
@@ -160,6 +176,7 @@ kontrol:
 kor: hart
 korp: lichaam
 kost: kosten
+kred: geloven
 kri: schreeuwen
 kuir: koken
 kuk:
@@ -176,6 +193,7 @@ lakt: melk
 lamp: lamp
 land: land
 larĝ: breed
+las: laten
 last: laatste
 laŭt: luid
 lecion: les
@@ -184,11 +202,14 @@ lern: leren
 leter: brief
 liber: vrij
 libr: boek
+lingv: taal
 lok: plaats
 long: lang
+loĝ: wonen, resideren, gevestigd zijn
 lud: spelen
 lum: licht
 man: hand
+manier: manier, wijze, trant
 mank: ontbreken
 manĝ: eten
 mar: zee
@@ -206,6 +227,8 @@ minut: minuut
 mir: verwonderd zijn
 moment: moment (ogenblik)
 mon: geld
+monat: maand
+mond: wereld
 mont: berg
 montr: tonen
 mort:
@@ -214,6 +237,7 @@ mort:
 mov: bewegen
 mult: veel
 muzik: muziek
+naci: nationaal
 nask: baren
 natur: natuur
 neces: nodig
@@ -235,6 +259,7 @@ onkl: oom
 opini: menen
 ord: orde
 orel: oor
+organiz: organiseren
 pac: vrede
 pag: betalen
 pan: brood
@@ -259,10 +284,16 @@ plac:
 plan: plan
 plaĉ: bevallen
 plen: vol
+plor:
+- huilen
+- wenen
+pluv: regenen
 polic: politie
 pord: deur
 port: dragen
 pov: kunnen
+poŝ: zak (in kleding)
+poŝt: post, posterijen
 pren: nemen
 pret:
 - gereed
@@ -271,12 +302,23 @@ pret:
 prezent: voorstellen
 problem: probleem
 proksim: dicht(bij)
+proksimum:
+- ongeveer
+- circa
+- rond
 promen: wandelen
 propon: voorstellen
 prov: proberen
+publik: openbaar, publiek
+punkt: punt, stip
+pur:
+- zuiver
+- schoon
+- puur
 rajt:
 - het recht hebben
 - mogen
+rakont: vertellen, verhalen
 rapid:
 - snel
 - rap
@@ -305,6 +347,8 @@ rigard:
 - kijken
 - kijken naar
 - bekijken
+rilat: betrekking, verhouding, verband
+rimark: bemerken, opmerken
 riĉ: rijk
 rol: rol
 ruĝ: rood
@@ -312,6 +356,7 @@ salt: springen
 salut: groet
 sam: gelijk
 san: gezond
+sat: verzadigd
 saĝ:
 - snugger
 - wijs
@@ -321,13 +366,16 @@ sekret: geheim
 sekv: volgen
 semajn: week (7 dagen)
 send: zenden
+sent: voelen
 serĉ: zoeken
+seĝ: stoel
 si: zich
 sid: zitten
 silent: zwijgen
 simil:
 - gelijkaardig
 - gelijkend
+simpl: simpel, eenvoudig, enkelvoudig
 sinjor:
 - heer
 - mijnheer
@@ -349,6 +397,7 @@ subit:
 sufiĉ:
 - volstaan
 - genoeg
+suk: sap
 sukces: succes
 sun: zon
 supr: boven
@@ -360,6 +409,7 @@ temp: tijd
 temperatur: temperatuur
 ten: houden
 teror: terreur
+terur: verschrikkelijk, vreselijk
 tim:
 - vrezen
 - bang zijn
@@ -368,7 +418,9 @@ trankvil: rustig
 trink: drinken
 trov: vinden
 turk: Turk
+tut: heel, helemaal, gans
 tuŝ: aanraken
+universal: universeel, algemeen
 urb: stad
 util: nuttig
 uz: gebruiken

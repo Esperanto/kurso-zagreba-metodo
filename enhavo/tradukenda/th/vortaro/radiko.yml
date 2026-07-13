@@ -1,6 +1,7 @@
 afer:
 - เรื่องราว
 - ข้าวของ
+ag: กระทำ
 agrabl: น่าพอใจ
 akcept: ยอมรับ
 akv: น้ำ
@@ -8,6 +9,7 @@ ali: อื่น ๆ
 alt: สูง
 am: รัก
 amik: เพื่อน
+aper: ปรากฏ
 arb: ต้นไม้
 aspekt:
 - ดูเหมือน
@@ -16,6 +18,7 @@ atend: คอย
 atent: ใส่ใจ, ระวัง
 aĉet: ซื้อ
 aŭd: ได้ยิน
+aŭskult: ฟัง
 aŭt: รถ
 aŭtoritat: อำนาจ, ผู้มีอำนาจ
 bedaŭr: เสียใจ, เสียดาย
@@ -43,6 +46,7 @@ dik:
 dimanĉ: วันอาทิตย์
 dir: บอก
 direkt: ทิศทาง
+divers: ต่าง ๆ
 doktor:
 - แพทย์
 - ดอกเตอร์
@@ -57,6 +61,7 @@ doĝ: โดเจ
 edz: สามี
 efektiv: เป็นจริง
 ekskurs: ทัศนศึกษา
+ekzempl: ตัวอย่าง
 esper: หวัง
 est:
 - เป็น
@@ -87,6 +92,7 @@ frat:
 - น้องชาย
 fru: ก่อนเวลา
 fuŝ: ทำผิด
+glas: แก้ว
 gondol: เรือกอนโดลา
 graf:
 - เคานต์
@@ -105,6 +111,8 @@ hor: ชั่วโมง
 hotel: โรงแรม
 ide: ความคิด
 industri: อุตสาหกรรม
+infan: เด็ก
+inform: ข้อมูลข่าวสาร
 instru: สอน
 interes: สนใจ
 invit: เชิญ
@@ -114,6 +122,7 @@ jar: ปี
 jun: วัยรุ่น
 kaf: กาแฟ
 kalv: หัวล้าน
+kant: ร้องเพลง
 kap: ศีรษะ
 kapabl: สามารถ
 kapt: จับ
@@ -134,11 +143,13 @@ kolor: สี
 komenc: เริ่ม
 kompren: เข้าใจ
 kon: รู้
+konsent: เห็นด้วย
 kontent: พอใจ
 kontrol: ตรวจสอบ
 kor: หัวใจ
 korp: ร่างกาย
 kost: มีราคา
+kred: เชื่อ
 kri: ตะโกน
 kuir: ทำอาหาร, ปรุง, ชง
 kuk: เค้ก
@@ -148,6 +159,7 @@ lakt: น้ำนม
 lamp: ตะเกียง
 land: ประเทศ
 larĝ: กว้าง
+las: ปล่อยให้
 last: สุดท้าย
 laŭt: ดัง
 lecion: บทเรียน
@@ -156,11 +168,14 @@ lern: เรียน
 leter: จดหมาย
 liber: อิสระ
 libr: หนังสือ
+lingv: ภาษา
 lok: สถานที่
 long: ยาว
+loĝ: อาศัย
 lud: เล่น
 lum: แสงไฟ
 man: มือ
+manier: วิธี
 mank:
 - ขาด
 - ไม่มี
@@ -175,12 +190,15 @@ minut: นาที
 mir: ประหลาดใจ
 moment: ชั่วขณะ
 mon: เงิน
+monat: เดือน
+mond: โลก
 mont: ภูเขา
 montr: แสดง
 mort: ตาย
 mov: เคลื่อนที่
 mult: มาก
 muzik: ดนตรี
+naci: ชาติ
 nask: ให้กำเนิด
 natur: ธรรมชาติ
 neces: จำเป็น
@@ -205,6 +223,7 @@ onkl:
 opini: ความเห็น
 ord: สั่ง
 orel: หู
+organiz: จัด, บริหาร
 pac: สันติ
 pag: จ่าย
 pan: ขนมปัง
@@ -231,23 +250,32 @@ plaĉ:
 - เป็นที่พอใจ
 - ต้องใจ
 plen: เต็ม
+plor: ร้องไห้
+pluv: ฝน
 polic: ตำรวจ
 pord: ประตู
 port:
 - ขน
 - นำไปด้วย
 pov: สามารถ
+poŝ: กระเป๋าเสื้อ, กระเป๋ากางเกง
+poŝt: ไปรษณีย์
 pren: เอามา
 pret: พร้อม
 prezent: นำเสนอ
 problem: ปัญหา
 proksim: ใกล้
+proksimum: ราว ๆ
 promen: เดินเล่น
 propon:
 - เสนอ
 - ข้อเสนอ
 prov: ลอง
+publik: สาธารณะ
+punkt: จุด
+pur: สะอาด
 rajt: มีสิทธิ์
+rakont: เรื่องเล่า
 rapid: เร็ว
 raport: รายงาน
 real: เกิดขึ้นจริง
@@ -261,6 +289,8 @@ rest: พักอาศัย
 ricev: รับ
 rid: หัวเราะ
 rigard: ดู
+rilat: สัมพันธ์
+rimark: สังเกต
 riĉ: รวย
 rol:
 - บทบาท
@@ -270,6 +300,7 @@ salt: กระโดด
 salut: สวัสดี
 sam: เหมือนกัน
 san: สุขภาพดี
+sat: อิ่ม
 saĝ: ฉลาด
 sci: รู้
 sek: แห้ง
@@ -277,11 +308,14 @@ sekret: ความลับ
 sekv: ตาม
 semajn: สัปดาห์
 send: ส่ง
+sent: รู้สึกถึง
 serĉ: ค้นหา
+seĝ: เก้าอี้
 si: ตัวเอง (บุรุษที่สาม)
 sid: นั่ง
 silent: เงียบ
 simil: คล้าย
+simpl: เรียบง่าย
 sinjor:
 - สุภาพบุรุษ
 - นาย
@@ -299,6 +333,7 @@ subit: ในทันใด
 sufiĉ:
 - พอ
 - เพียงพอ
+suk: น้ำผลไม้
 sukces: สำเร็จ
 sun: ดวงอาทิตย์
 supr: ด้านบน
@@ -310,15 +345,18 @@ temp: เวลา
 temperatur: อุณหภูมิ
 ten: ถือ
 teror: ก่อการร้าย
+terur: น่ากลัว
 tim: กลัว
 ton: น้ำเสียง
 trankvil: ใจเย็น
 trink: ดื่ม
 trov: พบ
 turk: ชาวตุรกี
+tut: ทั้งหมด
 tuŝ:
 - แตะ
 - สัมผัส
+universal: สากล
 urb: เมือง
 util: มีประโยชน์
 uz: ใช้

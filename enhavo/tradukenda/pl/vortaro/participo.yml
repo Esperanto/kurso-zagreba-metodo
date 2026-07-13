@@ -1,8 +1,8 @@
 ant: teraźniejszy czynny
-int: przeszły czynny
-ont: przyszły czynny
-unt: przypuszczający czynny
 at: teraźniejszy bierny
+int: przeszły czynny
 it: przeszły bierny
+ont: przyszły czynny
 ot: przyszły bierny
+unt: przypuszczający czynny
 ut: przypuszczający bierny

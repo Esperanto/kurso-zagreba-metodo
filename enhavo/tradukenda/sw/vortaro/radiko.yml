@@ -1,4 +1,5 @@
 afer: jambo
+ag: kutenda
 agrabl: kupendeza
 akcept: kukubali
 akv: maji
@@ -6,6 +7,7 @@ ali: mwingine
 alt: juu
 am: kupenda
 amik: rafiki
+aper: kuonekana
 arb: mti
 aspekt:
 - kuonekana
@@ -14,6 +16,7 @@ atend: kungoja
 atent: kuzingatia
 aĉet: kununua
 aŭd: kusikia
+aŭskult: kusikiliza
 aŭt: gari
 aŭtoritat: mamlaka
 bedaŭr: kujuta
@@ -41,6 +44,7 @@ dik:
 dimanĉ: Jumapili
 dir: kusema
 direkt: mwelekeo
+divers: mbalimbali
 doktor: daktari
 dolar: dola
 dolor:
@@ -54,6 +58,7 @@ doĝ: doji
 edz: mume
 efektiv: kwa kweli
 ekskurs: matembezi
+ekzempl: mfano
 esper: kutumaini
 est: kuwa
 facil: rahisi
@@ -78,6 +83,7 @@ fot: picha
 frat: kaka
 fru: mapema
 fuŝ: kuharibu
+glas: glasi
 gondol: gondola
 graf: grafu
 grand:
@@ -93,6 +99,8 @@ hor: saa
 hotel: hoteli
 ide: wazo
 industri: viwanda
+infan: mtoto
+inform: kutoa habari
 instru: kufundisha
 interes: kuvutia
 invit: kualika
@@ -102,6 +110,7 @@ jar: mwaka
 jun: kijana
 kaf: kahawa
 kalv: kipara
+kant: kuimba
 kap: kichwa
 kapabl: kuwa na uwezo
 kapt: kukamata
@@ -118,11 +127,13 @@ kolor: rangi
 komenc: kuanza
 kompren: kuelewa
 kon: kujua
+konsent: kukubali
 kontent: kuridhika
 kontrol: kukagua
 kor: moyo
 korp: mwili
 kost: kugharimu
+kred: kuamini
 kri: kupiga kelele
 kuir: kupika
 kuk: keki
@@ -132,6 +143,7 @@ lakt: maziwa
 lamp: taa
 land: nchi
 larĝ: pana
+las: kuacha
 last: mwisho
 laŭt: sauti kubwa
 lecion: somo
@@ -140,11 +152,16 @@ lern: kujifunza
 leter: barua
 liber: huru
 libr: kitabu
+lingv: lugha
 lok: mahali
 long: ndefu
+loĝ:
+- kuishi
+- kukaa
 lud: kucheza
 lum: mwanga
 man: mkono
+manier: namna
 mank: kukosekana
 manĝ: kula
 mar: bahari
@@ -159,12 +176,15 @@ moment: wakati
 mon:
 - pesa
 - fedha
+monat: mwezi
+mond: dunia
 mont: mlima
 montr: kuonyesha
 mort: kufa
 mov: kusonga
 mult: nyingi
 muzik: muziki
+naci: taifa
 nask: kuzaa
 natur: maumbile
 neces: muhimu
@@ -180,6 +200,7 @@ onkl: mjomba
 opini: kufikiri
 ord: kuamuru
 orel: sikio
+organiz: kuandaa
 pac: amani
 pag: kulipa
 pan: mkate
@@ -200,19 +221,32 @@ plac: uwanja
 plan: kupanga
 plaĉ: kupendeza
 plen: kujaa
+plor:
+- kulia
+- kutoa machozi
+pluv: kunyesha mvua
 polic: polisi
 pord: mlango
 port: kubeba
 pov: kuweza
+poŝ: mfuko
+poŝt: posta
 pren: kuchukua
 pret: tayari
 prezent: kuwasilisha
 problem: tatizo
 proksim: karibu
+proksimum: takribani
 promen: kutembea
 propon: kupendekeza
 prov: kujaribu
+publik: umma
+punkt: nukta
+pur:
+- safi
+- halisi
 rajt: kuruhusiwa
+rakont: kusimulia
 rapid: haraka
 raport: kuripoti
 real: halisi
@@ -224,6 +258,8 @@ rest: kubaki
 ricev: kupokea
 rid: kucheka
 rigard: kutazama
+rilat: kuhusiana
+rimark: kutambua
 riĉ: tajiri
 rol: jukumu
 ruĝ: nyekundu
@@ -231,6 +267,9 @@ salt: kuruka
 salut: salamu
 sam: sawa
 san: afya
+sat:
+- kushiba
+- kuridhika
 saĝ: busara
 sci: kujua
 sek: kavu
@@ -238,11 +277,14 @@ sekret: siri
 sekv: kufuata
 semajn: wiki
 send: kutuma
+sent: kuhisi
 serĉ: kutafuta
+seĝ: kiti
 si: kiwakilishi rejea
 sid: kukaa
 silent: kimya
 simil: kufanana
+simpl: rahisi
 sinjor:
 - bwana
 - Bw.
@@ -256,6 +298,7 @@ star: kusimama
 strat: barabara
 subit: ghafla
 sufiĉ: kutosha
+suk: juisi
 sukces: mafanikio
 sun: jua
 supr: juu
@@ -267,13 +310,16 @@ temp: wakati
 temperatur: joto
 ten: kushika
 teror: hofu
+terur: ya kutisha
 tim: kuogopa
 ton: toni
 trankvil: tulivu
 trink: kunywa
 trov: kupata
 turk: Kituruki
+tut: yote
 tuŝ: kugusa
+universal: ya ulimwengu wote
 urb: mji
 util: kufaa
 uz: kutumia

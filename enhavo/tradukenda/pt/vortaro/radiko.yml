@@ -1,8 +1,8 @@
 A: letra
-aĉet: comprar
 afer:
 - assunto
 - coisa
+ag: agir
 agrabl: agradável
 akcept: aceitar
 akv: água
@@ -16,13 +16,16 @@ am:
 amik:
 - amigo
 - amiga
+aper: surgir
 arb: árvore
 aspekt:
 - aspecto
 - aparentar
 atend: esperar
 atent: prestar atenção
+aĉet: comprar
 aŭd: ouvir
+aŭskult: ouvir
 aŭt: carro
 aŭtoritat:
 - autoridade
@@ -46,12 +49,6 @@ bru:
 - barulho
 - fazer barulho
 buŝ: boca
-ĉambr:
-- quarto
-- sala
-ĉef:
-- patrão
-- chefe
 cert:
 - certo
 - certa
@@ -79,21 +76,23 @@ dir: dizer
 direkt:
 - direção
 - dirigir
-doĝ: doge
+divers: diverso
 doktor: doutor
 dolar: dólar
-dolĉ: doce
 dolor:
 - dor
 - doer
+dolĉ: doce
 dom: casa
 don: dar
 dorm: dormir
+doĝ: doge
 edz: marido
 efektiv: na realidade
 ekskurs:
 - excursão
 - excursionar
+ekzempl: exemplo
 esper: ter esperança
 est:
 - ser
@@ -129,16 +128,11 @@ fru: cedo
 fuŝ:
 - bagunçar
 - bagunçado
-ĝen: incomodar
-ĝeneral: geral
-ĝoj:
-- alegre
-- alegria
+glas: copo
 gondol: gôndola
 graf: conde
 grand: grande
 grav: importante
-ĝust: correto
 halt: parar
 hav: ter
 hejm:
@@ -156,6 +150,8 @@ ide: ideia
 industri:
 - indústria
 - industrial
+infan: criança
+inform: informação
 instru:
 - ensinar
 - ensinamento
@@ -172,12 +168,12 @@ itali: Itália
 jar:
 - ano
 - anual
-ĵet: arremessar
 jun: jovem
 kaf: café
 kalv:
 - calvo
 - calva
+kant: cantar
 kap: cabeça
 kapabl: capaz
 kapt: pegar
@@ -215,6 +211,7 @@ kompren:
 kon:
 - saber
 - conhecer
+konsent: acordo/concordar
 kontent:
 - satisfeito
 - satisfeita
@@ -230,6 +227,7 @@ korp: corpo
 kost:
 - custar
 - custoso
+kred: acreditar
 kri: gritar
 kuir: cozinhar
 kuk: bolo
@@ -239,6 +237,7 @@ lakt: leite
 lamp: lâmpada
 land: terra
 larĝ: largo
+las: deixar
 last:
 - último
 - última
@@ -255,10 +254,12 @@ liber:
 - livre
 - liberdade
 libr: livro
+lingv: lingua
 lok: lugar
 long:
 - longo
 - longa
+loĝ: morar
 lud:
 - jogar
 - brincar
@@ -268,8 +269,9 @@ lum:
 - luz
 - iluminar
 man: mão
-manĝ: comer
+manier: maneira
 mank: faltar
+manĝ: comer
 mar: mar
 maten: manhã
 memor:
@@ -286,6 +288,8 @@ minut: minuto
 mir: admirar-se
 moment: momento
 mon: dinheiro
+monat: mês
+mond: mundo
 mont: montanha
 montr: mostrar
 mort:
@@ -300,6 +304,7 @@ mult:
 muzik:
 - música
 - tocar música
+naci: nação
 nask:
 - dar à luz
 - parir
@@ -329,6 +334,7 @@ opini:
 - opinar
 ord: ordem
 orel: orelha
+organiz: organizar
 pac: paz
 pag:
 - pagar
@@ -343,10 +349,10 @@ parol:
 - fala
 part: parte
 pas: passar
+patr: pai
 paŝ:
 - passo
 - dar passos
-patr: pai
 pens:
 - pensar
 - pensamento
@@ -358,17 +364,21 @@ pez:
 - ter peso
 pied: pé
 plac: praça
-plaĉ: ser agradável
 plan: planejar
+plaĉ: ser agradável
 plen:
 - cheio
 - cheia
+plor: chorar
+pluv: chuva
 polic: polícia
 pord: porta
 port: carregar
 pov:
 - ser capaz de
 - poder
+poŝ: bolso
+poŝt: correio
 pren: pegar
 pret:
 - pronto
@@ -378,6 +388,7 @@ prezent:
 - apresentação
 problem: problema
 proksim: perto
+proksimum: aproximadamente
 promen:
 - passear
 - passeio
@@ -385,9 +396,13 @@ propon:
 - propor
 - proposta
 prov: tentar
+publik: público
+punkt: ponto
+pur: limpo
 rajt:
 - direito
 - ter direito de
+rakont: conto/história
 rapid:
 - rápido
 - rápida
@@ -406,20 +421,18 @@ respond:
 - responder
 - resposta
 rest: permanecer
-riĉ:
-- rico
-- rica
 ricev: receber
 rid: rir
 rigard: olhar para
+rilat: relação
+rimark: perceber
+riĉ:
+- rico
+- rica
 rol:
 - função
 - desempenhar papel de
 ruĝ: vermelho
-saĝ:
-- sensato
-- sensata
-ŝajn: parecer
 salt:
 - saltar
 - salto
@@ -432,10 +445,10 @@ sam:
 san:
 - saudável
 - saúde
-ŝanĝ:
-- mudar
-- mudança
-ŝat: gostar
+sat: satisfeito (nutrido)
+saĝ:
+- sensato
+- sensata
 sci:
 - saber
 - conhecimento
@@ -449,7 +462,9 @@ sekret:
 sekv: seguir
 semajn: semana
 send: enviar
+sent: sentir
 serĉ: procurar
+seĝ: cadeira
 si: se (reflexivo)
 sid:
 - sentar
@@ -459,8 +474,8 @@ silent:
 - silenciosa
 - fazer silêncio
 simil: semelhante
+simpl: simples
 sinjor: senhor
-ŝip: navio
 situaci: situação
 skrib: escrever
 sol:
@@ -475,6 +490,7 @@ star: estar de pé
 strat: rua
 subit: de repente
 sufiĉ: suficiente
+suk: suco
 sukces:
 - sucesso
 - conseguir
@@ -490,6 +506,7 @@ temp: tempo
 temperatur: temperatura
 ten: segurar
 teror: terror
+terur: terrível
 tim:
 - medo
 - ter medo
@@ -500,7 +517,9 @@ trankvil:
 trink: beber
 trov: encontrar
 turk: turco
+tut: inteiro
 tuŝ: tocar
+universal: universal
 urb: cidade
 util: útil
 uz: usar
@@ -508,6 +527,7 @@ vagon: vagão
 varm: quente
 ven: vir
 vend: vender
+Veneci: Veneza
 veneci: Veneza
 ver:
 - verdade
@@ -538,7 +558,6 @@ vizaĝ:
 vizit:
 - visitar
 - visita
-voĉ: voz
 voj: caminho
 vojaĝ:
 - viagem
@@ -550,6 +569,26 @@ vol:
 - querer
 - desejo
 vort: palavra
+voĉ: voz
 zorg:
 - cuidado
 - cuidar
+ĉambr:
+- quarto
+- sala
+ĉef:
+- patrão
+- chefe
+ĝen: incomodar
+ĝeneral: geral
+ĝoj:
+- alegre
+- alegria
+ĝust: correto
+ĵet: arremessar
+ŝajn: parecer
+ŝanĝ:
+- mudar
+- mudança
+ŝat: gostar
+ŝip: navio

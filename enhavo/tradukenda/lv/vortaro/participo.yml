@@ -1,8 +1,8 @@
 ant: tagadnes aktīvais
-int: pagātnes aktīvais
-ont: nākotnes aktīvais
-unt: nosacījuma aktīvais
 at: tagadnes pasīvais
+int: pagātnes aktīvais
 it: pagātnes pasīvais
+ont: nākotnes aktīvais
 ot: nākotnes pasīvais
+unt: nosacījuma aktīvais
 ut: nosacījuma pasīvais

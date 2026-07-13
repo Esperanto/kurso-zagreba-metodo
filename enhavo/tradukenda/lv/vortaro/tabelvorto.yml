@@ -1,57 +1,58 @@
-kio: kas
-tio: tas
-io: kaut kas
-ĉio: viss
-nenio: nekas
-kiu:
-- kurš
-- kura
-tiu:
-- tas cilvēks
-- tas
-iu: kāds
-ĉiu:
-- katrs
-- ikviens
-neniu:
-- neviens
-kie: kur
-tie: tur
-ie: kaut kur
-ĉie: visur
-nenie: nekur
-kia: kāds
-tia: tāds
 ia: kaut kāds
-ĉia: visāds
-nenia: nekāds
-kiel: kā
-tiel: tā
-iel: kaut kā
-ĉiel: visādi
-neniel: nekādi
-kial: kāpēc
-tial: tāpēc
 ial: kaut kāpēc
-ĉial: visu iemeslu dēļ
-nenial: nekāda iemesla dēļ
-kiam: kad
-tiam: tad
 iam: kādreiz
-ĉiam: vienmēr
-neniam: nekad
-kiom: cik
-tiom: tik daudz
+ie: kaut kur
+iel: kaut kā
+ies: kāda piederība
+io: kaut kas
 iom:
 - nedaudz
 - mazliet
-ĉiom:
-- viss daudzums
+iu: kāds
+kia: kāds
+kial: kāpēc
+kiam: kad
+kie: kur
+kiel: kā
+kien: uz kurieni
+kies: kura
+kio: kas
+kiom: cik
+kiu:
+- kurš
+- kura
+nenia: nekāds
+nenial: nekāda iemesla dēļ
+neniam: nekad
+nenie: nekur
+neniel: nekādi
+nenies: neviena piederība
+nenio: nekas
 neniom:
 - nemaz
 - nekāds daudzums
-kies: kura
+neniu:
+- neviens
+tia: tāds
+tial: tāpēc
+tiam: tad
+tie: tur
+tiel: tā
 ties: tā piederība
-ies: kāda piederība
+tio: tas
+tiom: tik daudz
+tiu:
+- tas cilvēks
+- tas
+ĉia: visāds
+ĉial: visu iemeslu dēļ
+ĉiam: vienmēr
+ĉie: visur
+ĉiel: visādi
 ĉies: visu piederība
-nenies: neviena piederība
+ĉio: viss
+ĉiom:
+- viss daudzums
+ĉiu:
+- katrs
+- ikviens

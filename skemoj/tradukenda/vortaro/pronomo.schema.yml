@@ -1,0 +1,17 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, pronomo
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - ili
+  - li
+  - lia
+  - mi
+  - mia
+  - ni
+  - oni
+  - sia
+  - vi
+  - ĝi
+  - ŝi

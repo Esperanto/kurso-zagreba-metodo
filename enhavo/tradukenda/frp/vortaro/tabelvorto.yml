@@ -1,53 +1,54 @@
-kio: qui
-tio:
-- celui
-- qui
-io: quelque chose
-ĉio: tout
-nenio: rien
-kiu: qui
-tiu: cette personne
-iu: quelqu'un
-ĉiu:
-- tout le monde
-- tous
-neniu:
-- personne
-- aucun d'eux
-kie: où
-tie: là
-ie: quelque part
-ĉie: partout
-nenie: nulle part
-kia: de quelle sorte
-tia: de cette sorte
 ia: une sorte de
-ĉia: de toute sorte
-nenia: d'aucune sorte
-kiel: comment
-tiel: ainsi
-iel: d'une certaine manière
-ĉiel: de toute manière
-neniel: d'aucune manière
-kial: pourquoi
-tial: pour cette raison
 ial: pour une certaine raison
-ĉial: pour toutes les raisons
-nenial: pour aucune raison
-kiam: quand
-tiam: à ce moment
 iam:
 - un jour
 - à ce moment
-ĉiam: toujours
-neniam: jamais
-kiom: combien
-tiom: de cette quantité
-iom: un peu
-ĉiom: toutes les quantités
-neniom: aucune quantité
-kies: de qui
-ties: de celui-ci
+ie: quelque part
+iel: d'une certaine manière
 ies: à quelqu'un
-ĉies: à tout le monde
+io: quelque chose
+iom: un peu
+iu: quelqu'un
+kia: de quelle sorte
+kial: pourquoi
+kiam: quand
+kie: où
+kiel: comment
+kien: où
+kies: de qui
+kio: qui
+kiom: combien
+kiu: qui
+nenia: d'aucune sorte
+nenial: pour aucune raison
+neniam: jamais
+nenie: nulle part
+neniel: d'aucune manière
 nenies: à personne
+nenio: rien
+neniom: aucune quantité
+neniu:
+- personne
+- aucun d'eux
+tia: de cette sorte
+tial: pour cette raison
+tiam: à ce moment
+tie: là
+tiel: ainsi
+ties: de celui-ci
+tio:
+- celui
+- qui
+tiom: de cette quantité
+tiu: cette personne
+ĉia: de toute sorte
+ĉial: pour toutes les raisons
+ĉiam: toujours
+ĉie: partout
+ĉiel: de toute manière
+ĉies: à tout le monde
+ĉio: tout
+ĉiom: toutes les quantités
+ĉiu:
+- tout le monde
+- tous

@@ -1,64 +1,65 @@
-kio: kaj
-tio:
-- to
-- tisto
-io:
-- nekaj
-ĉio: vse
-nenio: nič
-kiu:
-- kdo
-- kateri
-tiu:
-- ta
-- tisti
-iu:
-- kdorkoli
-- nekdo
-ĉiu:
-- vsak
-neniu:
-- nobeden
-- nihče
-kie: kje
-tie:
-- tam
+ia:
+- nekakšen
+ial: zaradi nečesa
+iam: nekoč
 ie:
 - nekje
 - kjerkoli
-ĉie: povsod
-nenie: nikjer
-kia: kakšen
-tia:
-- takšen
-ia:
-- nekakšen
-ĉia: kakršenkoli
-nenia: nikakšen
-kiel: kako
-tiel: tako
 iel: nekako
-ĉiel: na katerikoli način
+ies: od nekoga
+io:
+- nekaj
+iom: nekoliko
+iu:
+- kdorkoli
+- nekdo
+kia: kakšen
+kial: zakaj
+kiam: kdaj
+kie: kje
+kiel: kako
+kien: kam
+kies: čigav
+kio: kaj
+kiom: koliko
+kiu:
+- kdo
+- kateri
+nenia: nikakšen
+nenial: iz nobenega vzroka
+neniam: nikoli
+nenie: nikjer
 neniel:
 - nikakor
 - na noben način
-kial: zakaj
-tial: zato
-ial: zaradi nečesa
-ĉial: zaradi vsega
-nenial: iz nobenega vzroka
-kiam: kdaj
-tiam: takrat
-iam: nekoč
-ĉiam: vedno
-neniam: nikoli
-kiom: koliko
-tiom: toliko
-iom: nekoliko
-ĉiom: vse
-neniom: nič
-kies: čigav
-ties: od tega
-ies: od nekoga
-ĉies: od vseh
 nenies: od nikogar
+nenio: nič
+neniom: nič
+neniu:
+- nobeden
+- nihče
+tia:
+- takšen
+tial: zato
+tiam: takrat
+tie:
+- tam
+tiel: tako
+ties: od tega
+tio:
+- to
+- tisto
+tiom: toliko
+tiu:
+- ta
+- tisti
+ĉia: kakršenkoli
+ĉial: zaradi vsega
+ĉiam: vedno
+ĉie: povsod
+ĉiel: na katerikoli način
+ĉies: od vseh
+ĉio: vse
+ĉiom: vse
+ĉiu:
+- vsak

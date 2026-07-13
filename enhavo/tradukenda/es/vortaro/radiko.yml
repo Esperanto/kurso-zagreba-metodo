@@ -1,6 +1,9 @@
 afer:
 - asunto
 - cosa
+ag:
+- actuar
+- obrar
 agrabl: agradable
 akcept: aceptar
 akv: agua
@@ -8,6 +11,7 @@ ali: otro
 alt: alto
 am: amar
 amik: amigo
+aper: aparecer
 arb: árbol
 aspekt:
 - aspecto
@@ -18,6 +22,7 @@ atent:
 - prestar atención
 aĉet: comprar
 aŭd: oír
+aŭskult: escuchar
 aŭt:
 - auto
 - automóvil
@@ -52,6 +57,10 @@ dik: gordo
 dimanĉ: domingo
 dir: decir
 direkt: dirigir
+divers:
+- diverso
+- diferente
+- variado
 doktor: doctor
 dolar: dólar
 dolor: doler
@@ -65,6 +74,7 @@ edz:
 - marido
 efektiv: efectivo
 ekskurs: excursión
+ekzempl: ejemplo
 esper: esperar (esperanza)
 est:
 - ser
@@ -92,6 +102,7 @@ fot: fotografía
 frat: hermano
 fru: temprano
 fuŝ: hacer una chapuza
+glas: vaso
 gondol: góndola
 graf: conde
 grand:
@@ -111,6 +122,8 @@ hor: hora
 hotel: hotel
 ide: idea
 industri: industria
+infan: niño
+inform: informar
 instru: enseñar
 interes: interés
 invit: invitar
@@ -120,6 +133,7 @@ jar: año
 jun: joven
 kaf: café
 kalv: calvo
+kant: cantar
 kap: cabeza
 kapabl: capaz
 kapt:
@@ -141,6 +155,9 @@ kolor: color
 komenc: empezar
 kompren: entender
 kon: conocer
+konsent:
+- consentir
+- estar de acuerdo
 kontent: contento
 kontrol:
 - controlar
@@ -148,6 +165,7 @@ kontrol:
 kor: corazón
 korp: cuerpo
 kost: costar
+kred: creer
 kri: gritar
 kuir: cocinar
 kuk:
@@ -161,6 +179,7 @@ land:
 - país
 - territorio
 larĝ: ancho
+las: dejar
 last: último
 laŭt: fuerte
 lecion:
@@ -171,11 +190,19 @@ lern: aprender
 leter: carta
 liber: libre
 libr: libro
+lingv:
+- idioma
+- lengua
 lok: lugar
 long: largo
+loĝ:
+- habitar
+- residir
+- vivir
 lud: jugar
 lum: luz
 man: mano
+manier: manera
 mank: faltar
 manĝ: comer
 mar: mar
@@ -190,6 +217,8 @@ minut: minuto
 mir: maravillarse
 moment: momento
 mon: dinero
+monat: mes
+mond: mundo
 mont: montaña
 montr:
 - mostrar
@@ -198,6 +227,7 @@ mort: morir
 mov: mover
 mult: mucho
 muzik: música
+naci: nación
 nask: parir
 natur: naturaleza
 neces: necesario
@@ -215,6 +245,7 @@ onkl: tío
 opini: opinar
 ord: orden
 orel: oreja
+organiz: organizar
 pac: paz
 pag: pagar
 pan: pan
@@ -237,6 +268,8 @@ plaĉ:
 - agradar
 - gustar
 plen: lleno
+plor: llorar
+pluv: llover
 polic: policía
 pord: puerta
 port:
@@ -244,6 +277,8 @@ port:
 - traer
 post: después de, detrás de
 pov: poder
+poŝ: bolsillo
+poŝt: correo
 pren: tomar
 pret:
 - listo
@@ -251,10 +286,19 @@ pret:
 prezent: presentar
 problem: problema
 proksim: cercano
+proksimum: aproximadamente
 promen: pasear
 propon: proponer
 prov: intentar
+publik: público
+punkt: punto
+pur:
+- limpio
+- puro
 rajt: tener derecho (a)
+rakont:
+- contar
+- relatar
 rapid: rápido
 raport: informar
 real: real
@@ -266,6 +310,12 @@ rest: quedarse
 ricev: recibir
 rid: reír
 rigard: mirar
+rilat:
+- relacionarse con
+- tener relación con
+rimark:
+- notar
+- darse cuenta
 riĉ: rico
 rol: papel
 ruĝ: rojo
@@ -273,6 +323,9 @@ salt: saltar
 salut: saludo
 sam: mismo
 san: sano
+sat:
+- estar saciado
+- estar lleno
 saĝ: sabio
 sci: saber
 sek: seco
@@ -280,11 +333,16 @@ sekret: secreto
 sekv: seguir
 semajn: semana
 send: enviar
+sent: sentir
 serĉ: buscar
+seĝ: silla
 si: pronombre reflexivo
 sid: estar sentado
 silent: silencio
 simil: similar
+simpl:
+- simple
+- sencillo
 sinjor: señor
 situaci: situación
 skrib: escribir
@@ -298,6 +356,7 @@ subit: repentino
 sufiĉ:
 - suficiente
 - bastante
+suk: jugo
 sukces: tener éxito
 sun: sol
 supr: arriba
@@ -309,6 +368,7 @@ temp: tiempo
 temperatur: temperatura
 ten: sostener
 teror: terror
+terur: terrible
 tim:
 - temer
 - tener miedo
@@ -317,7 +377,12 @@ trankvil: tranquilo
 trink: beber
 trov: encontrar
 turk: turco
+tut:
+- todo
+- entero
+- total
 tuŝ: tocar
+universal: universal
 urb: ciudad
 util: útil
 uz: usar

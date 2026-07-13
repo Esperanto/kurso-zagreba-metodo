@@ -1,4 +1,5 @@
 afer: ọ̀ràn
+ag: ṣe
 agrabl:
 - dídùn
 - tó dùn mọ́ni
@@ -8,6 +9,7 @@ ali: mìíràn
 alt: gíga
 am: fẹ́ràn
 amik: ọ̀rẹ́
+aper: farahàn
 arb: igi
 aspekt:
 - dàbí
@@ -16,6 +18,7 @@ atend: dúró de
 atent: fiyèsí
 aĉet: rà
 aŭd: gbọ́
+aŭskult: gbọ́
 aŭt: ọkọ̀ ayọ́kẹ́lẹ́
 aŭtoritat: àṣẹ
 bedaŭr: bínú sí
@@ -43,6 +46,7 @@ dik:
 dimanĉ: ọjọ́ Àìkú
 dir: sọ
 direkt: ìtọ́sọ́nà
+divers: onírúurú
 doktor: dókítà
 dolar: dọ́là
 dolor:
@@ -58,6 +62,7 @@ efektiv:
 - gan-an
 - ní tòótọ́
 ekskurs: ìrìn-àjò kúkúrú
+ekzempl: àpẹẹrẹ
 esper: nírètí
 est:
 - jẹ́
@@ -84,6 +89,7 @@ fot: fọ́tò
 frat: arákùnrin
 fru: tètè
 fuŝ: bà jẹ́
+glas: gíláàsì
 gondol: góńdólà
 graf:
 - gíràfù
@@ -101,6 +107,8 @@ hor: wákàtí
 hotel: hòtẹ́lì
 ide: èrò
 industri: ilé-iṣẹ́
+infan: ọmọ
+inform: sọ fún
 instru: kọ́ni
 interes: fa ìfẹ́
 invit: pè
@@ -110,6 +118,7 @@ jar: ọdún
 jun: ọ̀dọ́
 kaf: kọ́fí
 kalv: alápárí
+kant: kọrin
 kap: orí
 kapabl: lè ṣe
 kapt: mú
@@ -126,11 +135,13 @@ kolor: àwọ̀
 komenc: bẹ̀rẹ̀
 kompren: lóye
 kon: mọ̀
+konsent: gba
 kontent: ní ìtẹ́lọ́rùn
 kontrol: ṣàyẹ̀wò
 kor: ọkàn
 korp: ara
 kost: jẹ́ owó
+kred: gbàgbọ́
 kri: pariwo
 kuir: ṣe oúnjẹ
 kuk: àkàrà oyinbo
@@ -142,6 +153,7 @@ land:
 - ilẹ̀
 - orílẹ̀-èdè
 larĝ: fífẹ̀
+las: jẹ́ kí
 last: kẹ́yìn
 laŭt: aláriwo
 lecion: ẹ̀kọ́
@@ -152,11 +164,16 @@ liber:
 - òmìnira
 - ọ̀fẹ́
 libr: ìwé
+lingv: èdè
 lok: ibi
 long: gùn
+loĝ:
+- gbé
+- ń gbé
 lud: ṣeré
 lum: ìmọ́lẹ̀
 man: ọwọ́
+manier: ọ̀nà
 mank: ṣàìní
 manĝ: jẹun
 mar: òkun
@@ -169,12 +186,17 @@ minut: ìṣẹ́jú
 mir: yà lẹ́nu
 moment: ìṣẹ́jú kan
 mon: owó
+monat: oṣù
+mond: ayé
 mont: òkè
 montr: fi hàn
 mort: kú
 mov: gbe
 mult: púpọ̀
 muzik: orin
+naci:
+- orílẹ̀-èdè
+- ẹ̀yà
 nask: bí
 natur: ìṣẹ̀dá
 neces: ṣe pàtàkì
@@ -194,6 +216,7 @@ ord:
 - pàṣẹ
 - ṣètò
 orel: etí
+organiz: ṣètò
 pac: àlàáfíà
 pag: sanwó
 pan: búrẹ́dì
@@ -214,19 +237,32 @@ plac: pápá ìlú
 plan: gbèrò
 plaĉ: dùn mọ́ni
 plen: kún
+plor:
+- sunkún
+- sọkún
+pluv: rọ̀jò
 polic: ọlọ́pàá
 pord: ilẹ̀kùn
 port: gbé
 pov: lè
+poŝ: àpò
+poŝt: ìfìwéránṣẹ́
 pren: mú
 pret: ṣetán
 prezent: ṣàfihàn
 problem: ìṣòro
 proksim: súnmọ́
+proksimum: ní ìsúnmọ́
 promen: rìn fún ìsinmi
 propon: dábàá
 prov: gbìyànjú
+publik: gbangba
+punkt: àmì
+pur:
+- mọ́
+- mímọ́
 rajt: ní ẹ̀tọ́
+rakont: sọ ìtàn
 rapid: yára
 raport: ìròyìn
 real: gidi
@@ -238,6 +274,8 @@ rest: kù
 ricev: gbà
 rid: rẹ́rìn-ín
 rigard: wò
+rilat: ní ìbáṣepọ̀
+rimark: ṣàkíyèsí
 riĉ: olówó
 rol: ipa
 ruĝ: pupa
@@ -245,6 +283,9 @@ salt: fò
 salut: ìkíni
 sam: kan náà
 san: ní ìlera
+sat:
+- yó
+- kún fún oúnjẹ
 saĝ: ọlọ́gbọ́n
 sci: mọ̀
 sek: gbẹ
@@ -252,11 +293,14 @@ sekret: aṣírí
 sekv: tẹ̀lé
 semajn: ọ̀sẹ̀
 send: fi ránṣẹ́
+sent: ní ìmọ̀lára
 serĉ: wá
+seĝ: àga
 si: arọ́pò-orúkọ ìpadà sí ara ẹni
 sid: jókòó
 silent: dákẹ́
 simil: jọ
+simpl: rọrùn
 sinjor:
 - ọ̀gbẹ́ni
 - ọkùnrin ọlọ́lá
@@ -270,6 +314,7 @@ star: dúró
 strat: òpópónà
 subit: lojijì
 sufiĉ: tó
+suk: oje
 sukces: àṣeyọrí
 sun: oòrùn
 supr: òkè
@@ -281,13 +326,16 @@ temp: àkókò
 temperatur: ìwọ̀n òtútù/ìgbóná
 ten: dì mú
 teror: ẹ̀rù
+terur: ẹlẹ́rù
 tim: bẹ̀rù
 ton: ohun orin
 trankvil: balẹ̀
 trink: mu
 trov: rí
 turk: Tọ́ọ̀kì
+tut: gbogbo
 tuŝ: fọwọ́ kan
+universal: gbogbo ayé
 urb: ìlú
 util: wúlò
 uz: lò

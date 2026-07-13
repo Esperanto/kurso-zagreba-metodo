@@ -1,27 +1,27 @@
-unu: တစ်
-du: နှစ်
-tri: သုံး
-kvar: လေး
-kvin: ငါး
-ses: ခြောက်
-sep: ခုနစ်
-ok: ရှစ်
-naŭ: ကိုး
+cent: တစ်ရာ
 dek: ဆယ်
-dek unu: ဆယ့်တစ်
 dek du: ဆယ့်နှစ်
-dek tri: ဆယ့်သုံး
 dek kvar: ဆယ့်လေး
 dek kvin: ဆယ့်ငါး
-dek ses: ဆယ့်ခြောက်
-dek sep: ဆယ့်ခုနစ်
-dek ok: ဆယ့်ရှစ်
 dek naŭ: ဆယ့်ကိုး
-dudek: နှစ်ဆယ်
-tridek: သုံးဆယ်
-kvardek: လေးဆယ်
-cent: တစ်ရာ
+dek ok: ဆယ့်ရှစ်
+dek sep: ဆယ့်ခုနစ်
+dek ses: ဆယ့်ခြောက်
+dek tri: ဆယ့်သုံး
+dek unu: ဆယ့်တစ်
+du: နှစ်
 ducent: နှစ်ရာ
-tricent: သုံးရာ
-mil: တစ်ထောင်
+dudek: နှစ်ဆယ်
 dumil: နှစ်ထောင်
+kvar: လေး
+kvardek: လေးဆယ်
+kvin: ငါး
+mil: တစ်ထောင်
+naŭ: ကိုး
+ok: ရှစ်
+sep: ခုနစ်
+ses: ခြောက်
+tri: သုံး
+tricent: သုံးရာ
+tridek: သုံးဆယ်
+unu: တစ်

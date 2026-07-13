@@ -1,4 +1,6 @@
-- antaŭĉambro: غرفة الجلوس
+- antaŭĉambro:
+  - ردهة
+  - غرفة انتظار
 - malamiko: عدو
 - malantaŭ: وراء
 - antaŭvidi:
@@ -6,17 +8,24 @@
   - تنبأ
 - malrapida:
   - بطيء
-- trarigardi: ننظر من خلال
+- trarigardi:
+  - ينظر خلال
+  - يتفحص
 - junulo:
   - شاب
   - مراهق
-- malmulte: أقل
+- malmulte:
+  - قليلاً
+  - بكمية قليلة
 - finfine: أخيرا
-- malriĉulo: فقير
+- malriĉulo:
+  - فقير
+  - شخص فقير
 - tagmanĝo:
   - غداء
 - tralegi:
-  - تصفح
+  - يقرأ كاملاً
+  - يقرأ من البداية إلى النهاية
 - malnova:
   - قديم
 - laborejo:

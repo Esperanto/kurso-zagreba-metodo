@@ -1,0 +1,49 @@
+- demando: Kan du ta med medisinen til søsteren min?
+  rektatraduko:
+  - Ĉu: Om
+  - vi: du
+  - povas: kan
+  - kunporti: ta med
+  - la: (bestemt artikkel)
+  - sanigilon: medisin
+  - de: av
+  - mia: min/mitt
+  - fratino: søster
+  - '?'
+- demando: Når kjøpte du det musikkinstrumentet?
+  rektatraduko:
+  - Kiam: Når
+  - vi: du
+  - aĉetis: kjøpte
+  - tiun: det
+  - muzikilon: musikinstrument
+  - '?'
+- demando: Hvem brukte nøkkelen min sist?
+  rektatraduko:
+  - Kiu: Hvem
+  - laste: siste gang
+  - uzis: brukte
+  - mian: min/mitt
+  - ŝlosilon: nøkkel
+  - '?'
+- demando: Reiste du også med gondol i Venezia?
+  rektatraduko:
+  - Ĉu: Om
+  - vi: du
+  - en: i
+  - Venecio: Venezia
+  - veturis: reiste
+  - ankaŭ: også
+  - per: med
+  - gondolo: gondol
+  - '?'
+- demando: Kommer du til å kunne sovne når det blir stille?
+  rektatraduko:
+  - Ĉu: Om
+  - vi: du
+  - povos: kommer til å kunne
+  - ekdormi: sovne
+  - ','
+  - kiam: når
+  - silentiĝos: blir stille
+  - '?'

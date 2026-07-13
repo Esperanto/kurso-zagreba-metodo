@@ -1,0 +1,68 @@
+- demando: Vil du at jeg skal vise deg den nyeste boken min?
+  rektatraduko:
+  - Ĉu: Om
+  - vi: du
+  - deziras: ønsker
+  - ','
+  - ke: at
+  - mi: jeg
+  - montru: vis
+  - al: til
+  - vi: deg
+  - mian: min
+  - plej: mest
+  - novan: ny
+  - libron: bok
+  - '?'
+- demando: Hva vil du spise til frokost i morgen?
+  rektatraduko:
+  - Kion: Hva
+  - vi: du
+  - volas: vil
+  - morgaŭ: i morgen
+  - matenmanĝi: spise frokost
+  - '?'
+- demando: Når kommer Marko, klokken fem eller klokken åtte?
+  rektatraduko:
+  - Kiam: Når
+  - Marko: Marko
+  - alvenos: ankommer
+  - ','
+  - je: ved (uspesifisert preposisjon)
+  - la: (bestemt artikkel)
+  - kvina: femte
+  - aŭ: eller
+  - je: ved (uspesifisert preposisjon)
+  - la: (bestemt artikkel)
+  - oka: åttende
+  - horo: time, tid
+  - '?'
+- demando: Når la du merke til at hele familien kaller meg velgjører?
+  rektatraduko:
+  - Kiam: Når
+  - vi: du
+  - rimarkis: la merke til
+  - ','
+  - ke: at
+  - la: (bestemt artikkel)
+  - tuta: hele
+  - familio: familie
+  - nomas: kaller
+  - min: meg
+  - bonfarulo: velgjører
+  - '?'
+- demando: Var heftet jeg sendte, nyttig for deg?
+  rektatraduko:
+  - Ĉu: Om
+  - la: (bestemt artikkel)
+  - libreto: hefte
+  - ','
+  - kiun: som
+  - mi: jeg
+  - sendis: sendte
+  - al: til
+  - vi: deg
+  - ','
+  - estis: var
+  - utila: nyttig
+  - '?'

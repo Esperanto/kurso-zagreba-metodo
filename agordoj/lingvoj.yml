@@ -333,6 +333,15 @@ ne:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+'no':
+  nomo:
+    fontlingve: Norsk
+    esperante: norvega
+  stato: testa
+  komentejo: 1
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 nl:
   nomo:
     fontlingve: Nederlands

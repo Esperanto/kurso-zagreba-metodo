@@ -1,0 +1,51 @@
+- demando: Wa ne abokinka?
+  rektatraduko:
+  - Kiu: Wa
+  - estas: ne
+  - via: naka/naku
+  - amikino: abokiya
+  - '?'
+- demando: Shin abokiyarka Ana tana rubutu a ɗakin yanzu?
+  rektatraduko:
+  - Ĉu: Ko
+  - via: naka/naku
+  - amikino: abokiya
+  - Ana: Ana
+  - skribas: yana rubutu
+  - nun: yanzu
+  - en: a ciki
+  - la: (alama ta sananne)
+  - ĉambro: ɗaki
+  - '?'
+- demando: Shin abokin mahaifinka yana aiki a otal?
+  rektatraduko:
+  - Ĉu: Ko
+  - la: (alama ta sananne)
+  - amiko: aboki
+  - de: na
+  - via: naka/naku
+  - patro: mahaifi
+  - laboras: yana aiki
+  - en: a ciki
+  - hotelo: otal
+  - '?'
+- demando: Me ke kan teburin aiki a ɗakinmu?
+  rektatraduko:
+  - Kio: Me
+  - estas: ne
+  - sur: a kan
+  - la: (alama ta sananne)
+  - labortablo: teburin aiki
+  - en: a ciki
+  - nia: namu
+  - ĉambro: ɗaki
+  - '?'
+- demando: Akwai littafin koyon Esperanto a kan teburinka?
+  rektatraduko:
+  - Ĉu: Ko
+  - Esperanto-lernolibro: littafin koyon Esperanto
+  - estas: ne
+  - sur: a kan
+  - via: naka/naku
+  - tablo: tebur
+  - '?'

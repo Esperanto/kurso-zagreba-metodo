@@ -161,6 +161,14 @@ ga:
   aŭtoroj:
     - nomo: Seán Ó Riain
       github: SeanORiain32
+ha:
+  nomo:
+    fontlingve: Hausa
+    esperante: haŭsa
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 he:
   nomo:
     fontlingve: עברית

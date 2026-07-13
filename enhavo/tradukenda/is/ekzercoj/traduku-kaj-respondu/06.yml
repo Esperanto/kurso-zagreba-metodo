@@ -29,11 +29,11 @@
   - alvenos: mun koma
   - ','
   - je: við/klukkan
-  - la: hinn/hin/hið
+  - la: ákveðinn greinir
   - kvina: fimmta
   - aŭ: eða
   - je: við/klukkan
-  - la: hinn/hin/hið
+  - la: ákveðinn greinir
   - oka: áttunda
   - horo: klukkustund
   - '?'
@@ -44,7 +44,7 @@
   - rimarkis: tók eftir
   - ','
   - ke: að
-  - la: hinn/hin/hið
+  - la: ákveðinn greinir
   - tuta: öll
   - familio: fjölskylda
   - nomas: kallar
@@ -54,7 +54,7 @@
 - demando: Var bæklingurinn sem ég sendi þér gagnlegur?
   rektatraduko:
   - Ĉu: Hvort
-  - la: hinn/hin/hið
+  - la: ákveðinn greinir
   - libreto: bæklingur
   - ','
   - kiun: sem

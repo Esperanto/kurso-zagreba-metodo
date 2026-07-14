@@ -66,6 +66,19 @@ test('ekzerco 2 uzas Bootstrap-validigon ene de enigogrupoj', async ({ page }) =
   await expect(punctuationGap).toBeGreaterThanOrEqual(4);
 });
 
+test('ekzercaj ŝprucfenestroj uzas la retejan tiparon', async ({ page }) => {
+  await page.goto('/en/01/ekzerco1/');
+
+  await page.locator('.form-horizontal label[data-bs-toggle="popover"]', { hasText: 'amikino:' }).hover();
+  const popover = page.locator('.popover').filter({
+    hasText: 'friend',
+  });
+
+  await expect(popover).toBeVisible();
+  await expect(popover).toHaveCSS('font-family', /Fira Sans/);
+  await expect(popover.locator('.popover-header')).toHaveCSS('font-family', /Fira Sans/);
+});
+
 test('ekzercaj respondaj kampoj montras validigan retrosignon', async ({ page }) => {
   for (const path of ['/en/06/ekzerco1/', '/en/06/ekzerco3/']) {
     await page.goto(path);

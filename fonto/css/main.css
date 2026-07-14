@@ -1,5 +1,7 @@
 /* set a max-width for horizontal fluid layout and make it centered */
 :root {
+  --bs-body-font-family: "Fira Sans", sans-serif;
+  --bs-font-sans-serif: "Fira Sans", sans-serif;
   --bs-link-color: #337ab7;
   --bs-link-color-rgb: 51, 122, 183;
   --bs-link-hover-color: #23527c;
@@ -19,7 +21,7 @@
 body {
   display: flex;
   flex-direction: column;
-  font-family: "Fira Sans", sans-serif;
+  font-family: var(--bs-body-font-family);
   font-size: 18px;
   line-height: 30px;
   min-height: 100vh;

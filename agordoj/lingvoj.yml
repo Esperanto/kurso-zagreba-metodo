@@ -139,6 +139,14 @@ fa:
     - nomo: Sina Kiadaliri
       github: sinakd
   tekstodirekto: rtl
+fi:
+  nomo:
+    fontlingve: Suomi
+    esperante: finna
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 fr:
   nomo:
     fontlingve: Français

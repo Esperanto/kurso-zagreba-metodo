@@ -1,0 +1,72 @@
+- demando: Ymmärtävätkö suurten hotellien tarjoilijat monia kieliä?
+  rektatraduko:
+  - Ĉu: kysymys
+  - kelneroj: tarjoilijat
+  - en: sisällä
+  - grandaj: suuret
+  - hoteloj: hotellit
+  - komprenas: ymmärtävät
+  - multajn: monet objektina
+  - lingvojn: kielet objektina
+  - '?'
+- demando: Tiedätkö, pitääkö Ana uudesta laulusta, joka kertoo köyhästä miehestä ja kauniista naisesta?
+  rektatraduko:
+  - Ĉu: kysymys
+  - vi: sinä
+  - scias: tiedät
+  - ','
+  - ĉu: kysymys
+  - Ana: Ana
+  - ŝatas: pitää
+  - la: määräinen artikkeli
+  - novan: uusi objektina
+  - kanton: laulu objektina
+  - pri: aiheesta
+  - malriĉulo: köyhä henkilö
+  - kaj: ja
+  - belulino: kaunis nainen
+  - '?'
+- demando: Missä näit vanhan miehen ja nuoren miehen kantamassa suurta pöytää?
+  rektatraduko:
+  - Kie: missä
+  - vi: sinä
+  - vidis: näki
+  - la: määräinen artikkeli
+  - maljunulon: vanha henkilö objektina
+  - kaj: ja
+  - la: määräinen artikkeli
+  - junulon: nuori henkilö objektina
+  - ','
+  - kiuj: jotka
+  - portis: kantoivat
+  - grandan: suuri objektina
+  - tablon: pöytä objektina
+  - '?'
+- demando: Miten kävi niin, että tulit taas luoksemme ilman sisaruksiasi?
+  rektatraduko:
+  - Kiel: miten
+  - okazis: tapahtui
+  - ','
+  - ke: että
+  - vi: sinä
+  - denove: uudelleen
+  - venis: tulit
+  - al: kohti
+  - ni: meitä
+  - sen: ilman
+  - gefratoj: sisarukset
+  - '?'
+- demando: Voitko oppia esperantoa melko nopeasti uuden oppikirjan avulla?
+  rektatraduko:
+  - Ĉu: kysymys
+  - vi: sinä
+  - povas: voit
+  - per: avulla
+  - la: määräinen artikkeli
+  - nova: uusi
+  - lernolibro: oppikirja
+  - sufiĉe: riittävän
+  - rapide: nopeasti
+  - lerni: oppia
+  - Esperanton: esperanto objektina
+  - '?'

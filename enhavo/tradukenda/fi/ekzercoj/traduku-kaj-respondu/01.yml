@@ -1,0 +1,51 @@
+- demando: Kuka on ystäväsi?
+  rektatraduko:
+  - Kiu: kuka
+  - estas: 'on'
+  - via: sinun
+  - amikino: naispuolinen ystävä
+  - '?'
+- demando: Kirjoittaako ystäväsi Ana nyt huoneessa?
+  rektatraduko:
+  - Ĉu: kysymys
+  - via: sinun
+  - amikino: naispuolinen ystävä
+  - Ana: Ana
+  - skribas: kirjoittaa
+  - nun: nyt
+  - en: sisällä
+  - la: määräinen artikkeli
+  - ĉambro: huone
+  - '?'
+- demando: Työskenteleekö isäsi ystävä hotellissa?
+  rektatraduko:
+  - Ĉu: kysymys
+  - la: määräinen artikkeli
+  - amiko: ystävä
+  - de: jonkun
+  - via: sinun
+  - patro: isä
+  - laboras: työskentelee
+  - en: sisällä
+  - hotelo: hotelli
+  - '?'
+- demando: Mitä on huoneemme työpöydällä?
+  rektatraduko:
+  - Kio: mikä
+  - estas: 'on'
+  - sur: päällä
+  - la: määräinen artikkeli
+  - labortablo: työpöytä
+  - en: sisällä
+  - nia: meidän
+  - ĉambro: huone
+  - '?'
+- demando: Onko pöydälläsi esperanton oppikirja?
+  rektatraduko:
+  - Ĉu: kysymys
+  - Esperanto-lernolibro: esperanto-oppikirja
+  - estas: 'on'
+  - sur: päällä
+  - via: sinun
+  - tablo: pöytä
+  - '?'

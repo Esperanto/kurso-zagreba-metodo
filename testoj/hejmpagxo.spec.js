@@ -63,9 +63,10 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
   await expect(page.getByRole('link', { name: 'Anki' })).toHaveAttribute('rel', 'noopener');
   await expect(page.getByRole('link', { name: 'Start' })).toHaveAttribute('href', '/en/01');
 
-  const languageButton = page.locator('.lingva-startpagxo-agoj .dropdown-toggle');
+  const languageButton = page.locator('.lingva-startpagxo-titoloj .dropdown-toggle');
   await expect(languageButton).toContainText('🌐');
   await expect(languageButton).toContainText(/languages/);
+  await expect(languageButton).toHaveClass(/btn-outline-secondary/);
   await languageButton.click();
   await expect(page.locator('.lingva-startpagxo-lingvoj').getByRole('link', { name: 'English' })).toBeVisible();
 
@@ -75,4 +76,28 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
     '/en/post',
   );
   await expect(page.locator('.lingva-startpagxo-parolantoj')).toHaveClass(/text-center/);
+});
+
+test('startpaĝa lingvoelektilo vicigxas kun la titoloj', async ({ page }) => {
+  await page.goto('/en/');
+
+  const logo = page.locator('.lingva-startpagxo-logo');
+  const title = page.getByRole('heading', { name: 'Learn Esperanto in 12 Lessons' });
+  const languageButton = page.locator('.lingva-startpagxo-titoloj .dropdown-toggle');
+
+  const logoBox = await logo.boundingBox();
+  const titleBox = await title.boundingBox();
+  const desktopButtonBox = await languageButton.boundingBox();
+
+  expect(Math.abs(desktopButtonBox.x - titleBox.x)).toBeLessThan(1);
+  expect(desktopButtonBox.x).toBeGreaterThan(logoBox.x + logoBox.width);
+
+  await page.setViewportSize({ width: 375, height: 667 });
+  await page.goto('/en/');
+  const mobileTitleBox = await title.boundingBox();
+  const mobileButtonBox = await languageButton.boundingBox();
+
+  const mobileTitleCenter = mobileTitleBox.x + mobileTitleBox.width / 2;
+  const mobileButtonCenter = mobileButtonBox.x + mobileButtonBox.width / 2;
+  expect(Math.abs(mobileButtonCenter - mobileTitleCenter)).toBeLessThan(1);
 });

@@ -359,6 +359,14 @@ nl:
   aŭtoroj:
     - nomo: Leo de Cooman
       github: GrizaLeono
+pa:
+  nomo:
+    fontlingve: ਪੰਜਾਬੀ
+    esperante: panĝaba
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 pl:
   nomo:
     fontlingve: Polski

@@ -1,0 +1,51 @@
+- demando: Kas yra tavo draugė?
+  rektatraduko:
+  - Kiu: kas
+  - estas: yra
+  - via: tavo
+  - amikino: draugė
+  - '?'
+- demando: Ar tavo draugė Ana dabar rašo kambaryje?
+  rektatraduko:
+  - Ĉu: ar
+  - via: tavo
+  - amikino: draugė
+  - Ana: Ana
+  - skribas: rašo
+  - nun: dabar
+  - en: į, viduje
+  - la: apibrėžtasis artikelis
+  - ĉambro: kambarys
+  - '?'
+- demando: Ar tavo tėvo draugas dirba viešbutyje?
+  rektatraduko:
+  - Ĉu: ar
+  - la: apibrėžtasis artikelis
+  - amiko: draugas
+  - de: kieno, iš
+  - via: tavo
+  - patro: tėvas
+  - laboras: dirba
+  - en: į, viduje
+  - hotelo: viešbutis
+  - '?'
+- demando: Kas yra ant darbo stalo mūsų kambaryje?
+  rektatraduko:
+  - Kio: kas
+  - estas: yra
+  - sur: ant
+  - la: apibrėžtasis artikelis
+  - labortablo: darbo stalas
+  - en: į, viduje
+  - nia: mūsų
+  - ĉambro: kambarys
+  - '?'
+- demando: Ar ant tavo stalo yra esperanto vadovėlis?
+  rektatraduko:
+  - Ĉu: ar
+  - Esperanto-lernolibro: esperanto vadovėlis
+  - estas: yra
+  - sur: ant
+  - via: tavo
+  - tablo: stalas
+  - '?'

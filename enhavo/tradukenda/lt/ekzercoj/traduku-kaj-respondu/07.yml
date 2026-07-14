@@ -1,0 +1,71 @@
+- demando: Kas turėjo knygą, kurios laukei daugiau nei dvejus metus?
+  rektatraduko:
+  - Kiu: kas
+  - havis: turėjo
+  - la: apibrėžtasis artikelis
+  - libron: knygą
+  - ','
+  - kiun: kurį
+  - vi: tu, jūs
+  - atendis: laukei
+  - pli: daugiau
+  - ol: negu
+  - du: du
+  - jarojn: metus
+  - '?'
+- demando: Ar nori, kad parodyčiau tau man brangiausią nuotrauką?
+  rektatraduko:
+  - Ĉu: ar
+  - vi: tu, jūs
+  - volas: nori
+  - ','
+  - ke: kad
+  - mi: aš
+  - montru: parodyčiau
+  - al: į, link
+  - vi: tu, jūs
+  - mian: mano
+  - plej: labiausiai (aukščiausiasis laipsnis)
+  - karan: brangią
+  - foton: nuotrauką
+  - '?'
+- demando: Kur nusipirkai tą drabužį?
+  rektatraduko:
+  - Kie: kur
+  - vi: tu, jūs
+  - aĉetis: pirkai
+  - tiun: tą
+  - vestaĵon: drabužį
+  - '?'
+- demando: Kur eisi sekmadienį, jei bus saulėta diena?
+  rektatraduko:
+  - Kien: kur link
+  - vi: tu, jūs
+  - iros: eis
+  - dimanĉe: sekmadienį
+  - ','
+  - se: jei
+  - estos: estos
+  - suna: saulėtas
+  - tago: diena
+  - '?'
+- demando: Ar tavo brolis jau išėjo?
+  rektatraduko:
+  - Ĉu: ar
+  - via: tavo
+  - frato: brolis
+  - jam: jau
+  - ekiris: išėjo
+  - '?'
+- demando: Kur yra vanduo, kurį pats atsinešei?
+  rektatraduko:
+  - Kie: kur
+  - estas: yra
+  - la: apibrėžtasis artikelis
+  - akvo: vanduo
+  - ','
+  - kiun: kurį
+  - vi: tu, jūs
+  - mem: pats
+  - kunportis: atsinešei
+  - '?'

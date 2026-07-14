@@ -316,6 +316,14 @@ mg:
   aŭtoroj:
     - nomo: Norbert Faly Randriamaitso
       github: faly509
+mr:
+  nomo:
+    fontlingve: मराठी
+    esperante: marata
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 ms:
   nomo:
     fontlingve: Bahasa Melayu

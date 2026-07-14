@@ -120,6 +120,14 @@ es:
       github: alescomu
     - nomo: Guillermo Molleda Jimena
       github: gmolledaj
+eu:
+  nomo:
+    fontlingve: Euskara
+    esperante: eŭska
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 fa:
   nomo:
     fontlingve: فارسی

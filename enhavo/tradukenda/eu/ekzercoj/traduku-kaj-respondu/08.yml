@@ -1,0 +1,80 @@
+- demando: Nork garbituko du sukaldea bazkaldu ondoren?
+  rektatraduko:
+  - Kiu: Nork
+  - purigos: garbituko du
+  - la: artikulu zehatza
+  - kuirejon: sukalde
+  - post: ondoren
+  - la: artikulu zehatza
+  - tagmanĝo: bazkari
+  - '?'
+- demando: 'Zer edan nahi duzu: tea, kafe pixka bat, ala ezer ez?'
+  rektatraduko:
+  - Kion: Zer
+  - vi: zuk
+  - volas: nahi duzu
+  - trinki: edan
+  - ':'
+  - teon: te
+  - ','
+  - iom: pixka bat
+  - da: kopuruzko lotura
+  - kafo: kafe
+  - aŭ: edo
+  - ĉu: ea
+  - vi: zuk
+  - volas: nahi duzu
+  - nenion: ezer ez
+  - '?'
+- demando: Zergatik erabaki zenuen hain bat-batean zure gela txikia berritzea?
+  rektatraduko:
+  - Kial: Zergatik
+  - vi: zuk
+  - tiel: horrela
+  - subite: bat-batean
+  - decidis: erabaki zenuen
+  - renovigi: berritu
+  - vian: zure
+  - ĉambreton: gela txiki
+  - '?'
+- demando: Nori eman zenizkion ardo-kopa garbiak?
+  rektatraduko:
+  - Al: -ri
+  - kiu: nor
+  - vi: zuk
+  - donis: eman zenuen
+  - la: artikulu zehatza
+  - purajn: garbiak
+  - glasojn: edalontziak
+  - por: -rentzat
+  - la: artikulu zehatza
+  - vino: ardo
+  - '?'
+- demando: Noren aurka jokatu zuen zure kirol-klubak duela bi aste?
+  rektatraduko:
+  - Kontraŭ: Aurka
+  - kiu: nor
+  - ludis: jokatu zuen
+  - via: zure
+  - sportklubo: kirol-klub
+  - antaŭ: aurretik
+  - du: bi
+  - semajnoj: asteak
+  - '?'
+- demando: Maiz ikusten al duzu zure gaineko etxebizitzan bizi den polizia?
+  rektatraduko:
+  - Ĉu: Ea
+  - vi: zuk
+  - ofte: maiz
+  - vidas: ikusten duzu
+  - la: artikulu zehatza
+  - policiston: polizia
+  - ','
+  - kiu: zeina
+  - loĝas: bizi da
+  - en: -n
+  - la: artikulu zehatza
+  - loĝejo: etxebizitza
+  - super: gainetik
+  - vi: zu
+  - '?'

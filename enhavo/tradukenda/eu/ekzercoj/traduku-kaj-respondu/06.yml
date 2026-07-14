@@ -1,0 +1,68 @@
+- demando: Nire libururik berriena erakustea nahi al duzu?
+  rektatraduko:
+  - Ĉu: Ea
+  - vi: zuk
+  - deziras: nahi duzu
+  - ','
+  - ke: -(e)la
+  - mi: nik
+  - montru: erakuts dezadan
+  - al: -ri
+  - vi: zu
+  - mian: nire
+  - plej: gehien
+  - novan: berri
+  - libron: liburu
+  - '?'
+- demando: Zer gosaldu nahi duzu bihar?
+  rektatraduko:
+  - Kion: Zer
+  - vi: zuk
+  - volas: nahi duzu
+  - morgaŭ: bihar
+  - matenmanĝi: gosaldu
+  - '?'
+- demando: Noiz iritsiko da Marko, bostetan ala zortzietan?
+  rektatraduko:
+  - Kiam: Noiz
+  - Marko: Marko
+  - alvenos: iritsiko da
+  - ','
+  - je: -etan
+  - la: artikulu zehatza
+  - kvina: bosgarren
+  - aŭ: edo
+  - je: -etan
+  - la: artikulu zehatza
+  - oka: zortzigarren
+  - horo: ordu
+  - '?'
+- demando: Noiz ohartu zinen familia osoak ongile deitzen didala?
+  rektatraduko:
+  - Kiam: Noiz
+  - vi: zu
+  - rimarkis: ohartu zinen
+  - ','
+  - ke: -(e)la
+  - la: artikulu zehatza
+  - tuta: oso
+  - familio: familia
+  - nomas: deitzen du
+  - min: ni
+  - bonfarulo: ongile
+  - '?'
+- demando: Bidali nizun liburuxka erabilgarria izan al zen?
+  rektatraduko:
+  - Ĉu: Ea
+  - la: artikulu zehatza
+  - libreto: liburuxka
+  - ','
+  - kiun: zeina
+  - mi: nik
+  - sendis: bidali nuen
+  - al: -ri
+  - vi: zu
+  - ','
+  - estis: zen
+  - utila: erabilgarri
+  - '?'

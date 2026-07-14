@@ -6,7 +6,8 @@ lokaj startpaĝoj de la kurso.
 ## Celo
 
 Kreu PNG-bildon por ĉiu preta lingva startpaĝo, uzante la videblan enhavon de
-`/<lingvo>/` kiel fonton. La bildoj estu konservitaj sub:
+`/<lingvo>/` kiel fonton. Kiam tasko eksplicite petas ankaŭ testajn lingvojn,
+inkluzivu ankaŭ lingvojn kun `stato: testa`. La bildoj estu konservitaj sub:
 
 ```sh
 fonto/bildoj/og/<lingvo>.png
@@ -26,20 +27,32 @@ Open Graph-konsumantoj atendas plenan `https://...`-URL-on.
 
 ## Lingvoj
 
-Uzu nur lingvojn el `agordoj/lingvoj.yml` kun:
+Normale uzu nur lingvojn el `agordoj/lingvoj.yml` kun:
 
 ```yaml
 stato: preta
 ```
 
-Traktu direkton laŭ `tekstodirekto`:
+Kiam la tasko eksplicite petas ankaŭ testajn lingvojn, uzu lingvojn kun:
 
-- LTR-lingvoj (`tekstodirekto` mankas aŭ estas `ltr`): aldonu 100 px blankan
-  randon maldekstre.
-- RTL-lingvoj (`tekstodirekto: rtl`): aldonu 100 px blankan randon dekstre.
+```yaml
+stato: preta
+```
 
-Ne kreu aŭ ĝisdatigu bildojn por `stato: testa`, krom se la tasko eksplicite
-petas tion.
+aŭ:
+
+```yaml
+stato: testa
+```
+
+Por ĉiu generita bildo:
+
+- Aldonu 100 px blankan randon maldekstre.
+- Aldonu 100 px blankan randon dekstre.
+- Forigu 2 px ĉe la malsupro de la fina bildo.
+
+Direkto (`tekstodirekto`) influas la paĝan aranĝon mem, sed la fina blanka
+rando estas simetria por LTR- kaj RTL-lingvoj.
 
 ## Generado
 
@@ -83,26 +96,18 @@ petas tion.
    fonto/bildoj/og/<lingvo>.raw.png
    ```
 
-7. Aldonu blankan randon per ImageMagick:
+7. Aldonu blankan randon kaj forigu 2 px ĉe la malsupro per ImageMagick:
 
-   - LTR:
-
-     ```sh
-     magick fonto/bildoj/og/<lingvo>.raw.png \
-       -background white \
-       -splice 100x0 \
-       fonto/bildoj/og/<lingvo>.png
-     ```
-
-   - RTL:
-
-     ```sh
-     magick fonto/bildoj/og/<lingvo>.raw.png \
-       -background white \
-       -gravity east \
-       -splice 100x0 \
-       fonto/bildoj/og/<lingvo>.png
-     ```
+   ```sh
+   magick fonto/bildoj/og/<lingvo>.raw.png \
+     -background white \
+     -splice 100x0 \
+     -gravity east \
+     -splice 100x0 \
+     -gravity south \
+     -chop 0x2 \
+     fonto/bildoj/og/<lingvo>.png
+   ```
 
 8. Forigu ĉiujn provizorajn `*.raw.png`-dosierojn.
 
@@ -110,7 +115,7 @@ petas tion.
 
 Post generado:
 
-- Kontrolu ke ĉiu `stato: preta` lingvo havas bildon:
+- Kontrolu ke ĉiu bezonata lingvo havas bildon. Por nur pretaj lingvoj:
 
   ```sh
   venv/bin/python - <<'PY'
@@ -121,6 +126,24 @@ Post generado:
   pretaj = [k for k, v in sorted(lingvoj.items()) if v.get('stato') == 'preta']
   missing = [k for k in pretaj if not Path(f'fonto/bildoj/og/{k}.png').is_file()]
   print('pretaj:', len(pretaj), 'missing:', missing)
+  raise SystemExit(bool(missing))
+  PY
+  ```
+
+  Por pretaj kaj testaj lingvoj:
+
+  ```sh
+  venv/bin/python - <<'PY'
+  from pathlib import Path
+  import yaml
+
+  lingvoj = yaml.safe_load(Path('agordoj/lingvoj.yml').read_text(encoding='utf-8'))
+  kodoj = [
+      k for k, v in sorted(lingvoj.items())
+      if v.get('stato') in {'preta', 'testa'}
+  ]
+  missing = [k for k in kodoj if not Path(f'fonto/bildoj/og/{k}.png').is_file()]
+  print('pretaj+testaj:', len(kodoj), 'missing:', missing)
   raise SystemExit(bool(missing))
   PY
   ```

@@ -62,6 +62,10 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
   await expect(page.getByRole('link', { name: 'Anki' })).toHaveAttribute('target', '_blank');
   await expect(page.getByRole('link', { name: 'Anki' })).toHaveAttribute('rel', 'noopener');
   await expect(page.getByRole('link', { name: 'Start' })).toHaveAttribute('href', '/en/01');
+  const installButton = page.locator('[data-pwa-install]');
+  await expect(installButton).toHaveText('Install app');
+  await expect(installButton).toHaveClass(/btn-outline-primary/);
+  await expect(installButton).toBeHidden();
 
   const languageButton = page.locator('.lingva-startpagxo-titoloj .dropdown-toggle');
   await expect(languageButton).toContainText('🌐');
@@ -76,6 +80,27 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
     '/en/post',
   );
   await expect(page.locator('.lingva-startpagxo-parolantoj')).toHaveClass(/text-center/);
+});
+
+test('startpaĝa instalbutono malfermas la PWA-inviton', async ({ page }) => {
+  await page.goto('/en/');
+
+  await page.evaluate(() => {
+    window.__pwaPromptCalls = 0;
+    const event = new Event('beforeinstallprompt', { cancelable: true });
+    event.prompt = () => {
+      window.__pwaPromptCalls += 1;
+      return Promise.resolve();
+    };
+    event.userChoice = Promise.resolve({ outcome: 'accepted', platform: 'web' });
+    window.dispatchEvent(event);
+  });
+
+  const installButton = page.locator('[data-pwa-install]');
+  await expect(installButton).toBeVisible();
+  await installButton.click();
+  await expect.poll(() => page.evaluate(() => window.__pwaPromptCalls)).toBe(1);
+  await expect(installButton).toBeHidden();
 });
 
 test('startpaĝa lingvoelektilo vicigxas kun la titoloj', async ({ page }) => {

@@ -17,7 +17,57 @@ $(document).ready(function(){
       allowList: popoverAllowList
     });
   });
-  $('.container table').addClass('table'); 
+  $('.container table').addClass('table');
+
+  var pwaInstallButton = document.querySelector('[data-pwa-install]');
+  if (pwaInstallButton) {
+    function estasMemstaraPwa() {
+      return navigator.standalone === true
+        || (
+          window.matchMedia
+          && window.matchMedia('(display-mode: standalone)').matches
+        )
+        || document.documentElement.classList.contains('pwa-standalone');
+    }
+
+    function gxisdatiguPwaInstallButton() {
+      var instalebla = !estasMemstaraPwa() && !!window.pwaInstallPrompt;
+      pwaInstallButton.classList.toggle('d-none', !instalebla);
+      pwaInstallButton.disabled = !instalebla;
+    }
+
+    window.addEventListener('beforeinstallprompt', function(e) {
+      e.preventDefault();
+      window.pwaInstallPrompt = e;
+      gxisdatiguPwaInstallButton();
+    });
+
+    window.addEventListener('appinstalled', function() {
+      window.pwaInstallPrompt = null;
+      gxisdatiguPwaInstallButton();
+    });
+
+    pwaInstallButton.addEventListener('click', function() {
+      var installPrompt = window.pwaInstallPrompt;
+      if (!installPrompt) {
+        gxisdatiguPwaInstallButton();
+        return;
+      }
+
+      try {
+        var promptResult = installPrompt.prompt();
+        if (promptResult && typeof promptResult.catch === 'function') {
+          promptResult.catch(function() {});
+        }
+      } catch (e) {
+      }
+
+      window.pwaInstallPrompt = null;
+      gxisdatiguPwaInstallButton();
+    });
+
+    gxisdatiguPwaInstallButton();
+  }
 });
 
 function esperantigu(s) {
@@ -192,4 +242,3 @@ $('.forigu').click(function() {
     $(this).trigger('input');
   });
 });
-

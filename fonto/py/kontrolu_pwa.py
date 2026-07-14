@@ -92,6 +92,14 @@ def check_registration(output_dir, lingvo):
         'lingva-startpagxo-lingvoelektilo pwa-standalone-kasxita' in text,
         'la startpaĝa lingvoelektilo ne estas kaŝebla en PWA-kunteksto: ' + lingvo,
     )
+    require(
+        'data-pwa-install' in text,
+        'la startpaĝo ne havas PWA-instalbutonon: ' + lingvo,
+    )
+    require(
+        'btn-outline-primary btn-lg pwa-install-butono pwa-standalone-kasxita' in text,
+        'la PWA-instalbutono ne havas la atendatajn klasojn: ' + lingvo,
+    )
 
 
 def check_key_pages(output_dir, lingvo, precache_urls):

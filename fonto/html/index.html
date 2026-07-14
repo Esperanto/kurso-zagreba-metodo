@@ -55,6 +55,15 @@
 
   <div class="lingva-startpagxo-agoj">
     <a class="btn btn-primary btn-lg" href="{{vojprefikso}}01">{{enhavo.fasado['Ek']}}</a>
+    {% if enhavo.havas_pwa %}
+      <button
+        class="btn btn-outline-primary btn-lg pwa-install-butono pwa-standalone-kasxita d-none"
+        type="button"
+        data-pwa-install
+      >
+        {{enhavo.fasado['Instalu apon']|default('Instalu apon', true)}}
+      </button>
+    {% endif %}
   </div>
 
   {% if enhavo.post %}

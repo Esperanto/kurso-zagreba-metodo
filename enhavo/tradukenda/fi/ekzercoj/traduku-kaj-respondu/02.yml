@@ -1,0 +1,64 @@
+- demando: Millainen vanha kotisi oli?
+  rektatraduko:
+  - Kia: millainen
+  - estis: oli
+  - via: sinun
+  - malnova: vanha
+  - hejmo: koti
+  - '?'
+- demando: Mitkä kirjat luit, ja olivatko ne hyviä?
+  rektatraduko:
+  - Kiujn: mitkä objektina
+  - librojn: kirjat
+  - vi: sinä
+  - legis: luki
+  - kaj: ja
+  - ĉu: kysymys
+  - ili: ne
+  - estas: ovat
+  - bonaj: hyvät
+  - '?'
+- demando: Mitä Ana ja Marko tekivät Markon pienessä huoneessa?
+  rektatraduko:
+  - Kion: mitä objektina
+  - faris: teki
+  - Ana: Ana
+  - kaj: ja
+  - Marko: Marko
+  - en: sisällä
+  - la: määräinen artikkeli
+  - malgranda: pieni
+  - ĉambro: huone
+  - de: jonkun
+  - Marko: Marko
+  - '?'
+- demando: Pidätkö rakkaudesta kertovien kirjojen lukemisesta?
+  rektatraduko:
+  - Ĉu: kysymys
+  - vi: sinä
+  - ŝatas: pidät
+  - legi: lukea
+  - librojn: kirjat
+  - pri: aiheesta
+  - amo: rakkaus
+  - '?'
+- demando: Kuka menee kotiisi sinun kanssasi?
+  rektatraduko:
+  - Kiu: kuka
+  - iros: menee tulevaisuudessa
+  - kun: kanssa
+  - vi: sinä
+  - al: kohti
+  - via: sinun
+  - hejmo: koti
+  - '?'
+- demando: Millaiset ystäväsi silmät ovat?
+  rektatraduko:
+  - Kiaj: millaiset
+  - estas: ovat
+  - la: määräinen artikkeli
+  - okuloj: silmät
+  - de: jonkun
+  - via: sinun
+  - amikino: naispuolinen ystävä
+  - '?'

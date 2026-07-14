@@ -1,0 +1,80 @@
+- demando: Kuka siivoaa keittiön lounaan jälkeen?
+  rektatraduko:
+  - Kiu: kuka
+  - purigos: puhdistaa tulevaisuudessa
+  - la: määräinen artikkeli
+  - kuirejon: keittiö objektina
+  - post: jälkeen
+  - la: määräinen artikkeli
+  - tagmanĝo: lounas
+  - '?'
+- demando: 'Mitä haluat juoda: teetä, kahvia vai et mitään?'
+  rektatraduko:
+  - Kion: mitä objektina
+  - vi: sinä
+  - volas: haluat
+  - trinki: juoda
+  - ':'
+  - teon: tee objektina
+  - ','
+  - iom: jonkin verran
+  - da: määrää ilmaiseva
+  - kafo: kahvi
+  - aŭ: tai
+  - ĉu: kysymys
+  - vi: sinä
+  - volas: haluat
+  - nenion: ei mitään objektina
+  - '?'
+- demando: Miksi päätit niin äkkiä uudistaa pienen huoneesi?
+  rektatraduko:
+  - Kial: miksi
+  - vi: sinä
+  - tiel: siten
+  - subite: äkillisesti
+  - decidis: päätit
+  - renovigi: uudistaa
+  - vian: sinun objektina
+  - ĉambreton: pieni huone objektina
+  - '?'
+- demando: Kenelle annoit puhtaat viinilasit?
+  rektatraduko:
+  - Al: -lle
+  - kiu: kuka
+  - vi: sinä
+  - donis: annoit
+  - la: määräinen artikkeli
+  - purajn: puhtaat objektina
+  - glasojn: lasit objektina
+  - por: varten
+  - la: määräinen artikkeli
+  - vino: viini
+  - '?'
+- demando: Ketä vastaan urheiluseurasi pelasi kaksi viikkoa sitten?
+  rektatraduko:
+  - Kontraŭ: vastaan
+  - kiu: kuka
+  - ludis: pelasi
+  - via: sinun
+  - sportklubo: urheiluklubi
+  - antaŭ: ennen
+  - du: kaksi
+  - semajnoj: viikot
+  - '?'
+- demando: Näetkö usein poliisin, joka asuu yläpuolellasi olevassa asunnossa?
+  rektatraduko:
+  - Ĉu: kysymys
+  - vi: sinä
+  - ofte: usein
+  - vidas: näet
+  - la: määräinen artikkeli
+  - policiston: poliisi objektina
+  - ','
+  - kiu: joka
+  - loĝas: asuu
+  - en: sisällä
+  - la: määräinen artikkeli
+  - loĝejo: asunto
+  - super: yläpuolella
+  - vi: sinä
+  - '?'

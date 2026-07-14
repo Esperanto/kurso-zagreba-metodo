@@ -1,0 +1,51 @@
+- demando: Nor da zure lagun emakumea?
+  rektatraduko:
+  - Kiu: Nor
+  - estas: da
+  - via: zure
+  - amikino: lagun emakumea
+  - '?'
+- demando: Zure lagun Ana gelan idazten ari al da orain?
+  rektatraduko:
+  - Ĉu: Ea
+  - via: zure
+  - amikino: lagun emakumea
+  - Ana: Ana
+  - skribas: idazten du
+  - nun: orain
+  - en: -n
+  - la: artikulu zehatza
+  - ĉambro: gela
+  - '?'
+- demando: Zure aitaren lagunak hotel batean lan egiten al du?
+  rektatraduko:
+  - Ĉu: Ea
+  - la: artikulu zehatza
+  - amiko: lagun
+  - de: -ren
+  - via: zure
+  - patro: aita
+  - laboras: lan egiten du
+  - en: -n
+  - hotelo: hotel
+  - '?'
+- demando: Zer dago gure gelako lan-mahaiaren gainean?
+  rektatraduko:
+  - Kio: Zer
+  - estas: dago
+  - sur: gainean
+  - la: artikulu zehatza
+  - labortablo: lan-mahai
+  - en: -n
+  - nia: gure
+  - ĉambro: gela
+  - '?'
+- demando: Esperanto-ikasliburu bat al dago zure mahai gainean?
+  rektatraduko:
+  - Ĉu: Ea
+  - Esperanto-lernolibro: Esperanto-ikasliburu
+  - estas: dago
+  - sur: gainean
+  - via: zure
+  - tablo: mahai
+  - '?'

@@ -1,0 +1,59 @@
+- demando: Lasai ikas dezakezu norbait pozik kantatzen ari den bitartean?
+  rektatraduko:
+  - Ĉu: Ea
+  - vi: zuk
+  - povas: ahal duzu
+  - trankvile: lasai
+  - lerni: ikasi
+  - ','
+  - dum: bitartean
+  - iu: norbait
+  - ĝoje: pozik
+  - kantas: kantatzen du
+  - '?'
+- demando: Nork daki noiz eta non ikusiko dugun elkar berriro?
+  rektatraduko:
+  - Kiu: Nork
+  - scias: daki
+  - ','
+  - kiam: noiz
+  - kaj: eta
+  - kie: non
+  - ni: guk
+  - revidos: berriro ikusiko dugu
+  - nin: elkar
+  - '?'
+- demando: Zer ordu da orain?
+  rektatraduko:
+  - Kioma: Zenbatgarren
+  - horo: ordu
+  - estas: da
+  - nun: orain
+  - '?'
+- demando: Norbaitek lagundu al zizun etxe zaharreko atea irekitzen?
+  rektatraduko:
+  - Ĉu: Ea
+  - iu: norbait
+  - helpis: lagundu zuen
+  - al: -ri
+  - vi: zu
+  - malfermi: ireki
+  - la: artikulu zehatza
+  - pordon: ate
+  - de: -ren
+  - la: artikulu zehatza
+  - malnova: zahar
+  - domo: etxe
+  - '?'
+- demando: Zergatik ez duzu denborarik niri luzeago entzuteko?
+  rektatraduko:
+  - Kial: Zergatik
+  - vi: zuk
+  - ne: ez
+  - havas: duzu
+  - tempon: denbora
+  - aŭskulti: entzun
+  - min: ni
+  - pli: gehiago
+  - longe: luze
+  - '?'

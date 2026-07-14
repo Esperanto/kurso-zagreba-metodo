@@ -1,0 +1,72 @@
+- demando: Hotel handietako zerbitzariek hizkuntza asko ulertzen al dituzte?
+  rektatraduko:
+  - Ĉu: Ea
+  - kelneroj: zerbitzariak
+  - en: -n
+  - grandaj: handiak
+  - hoteloj: hotelak
+  - komprenas: ulertzen dute
+  - multajn: asko
+  - lingvojn: hizkuntzak
+  - '?'
+- demando: Badakizu Anak gizon pobre bati eta emakume eder bati buruzko abesti berria gustuko duen?
+  rektatraduko:
+  - Ĉu: Ea
+  - vi: zuk
+  - scias: badakizu
+  - ','
+  - ĉu: ea
+  - Ana: Ana
+  - ŝatas: gustuko du
+  - la: artikulu zehatza
+  - novan: berri
+  - kanton: abesti
+  - pri: buruz
+  - malriĉulo: pertsona pobre
+  - kaj: eta
+  - belulino: emakume eder
+  - '?'
+- demando: Non ikusi zenituen mahai handi bat zeramaten gizon zahar bat eta gazte bat?
+  rektatraduko:
+  - Kie: Non
+  - vi: zuk
+  - vidis: ikusi zenuen
+  - la: artikulu zehatza
+  - maljunulon: pertsona zahar
+  - kaj: eta
+  - la: artikulu zehatza
+  - junulon: pertsona gazte
+  - ','
+  - kiuj: zeinek
+  - portis: eramaten zuten
+  - grandan: handi
+  - tablon: mahai
+  - '?'
+- demando: Nola gertatu zen berriro gurera anai-arrebarik gabe etortzea?
+  rektatraduko:
+  - Kiel: Nola
+  - okazis: gertatu zen
+  - ','
+  - ke: -(e)la
+  - vi: zu
+  - denove: berriro
+  - venis: etorri zinen
+  - al: -ra
+  - ni: gu
+  - sen: gabe
+  - gefratoj: anai-arrebak
+  - '?'
+- demando: Ikasliburu berriarekin Esperanto nahiko azkar ikas dezakezu?
+  rektatraduko:
+  - Ĉu: Ea
+  - vi: zuk
+  - povas: ahal duzu
+  - per: bidez
+  - la: artikulu zehatza
+  - nova: berri
+  - lernolibro: ikasliburu
+  - sufiĉe: nahiko
+  - rapide: azkar
+  - lerni: ikasi
+  - Esperanton: Esperanto
+  - '?'

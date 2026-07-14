@@ -308,6 +308,14 @@ lv:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+lt:
+  nomo:
+    fontlingve: Lietuvių
+    esperante: litova
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 mg:
   nomo:
     fontlingve: Malagasy

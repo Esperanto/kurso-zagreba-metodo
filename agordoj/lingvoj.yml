@@ -463,6 +463,14 @@ sw:
   aŭtoroj:
     - nomo: Leo de Cooman
       github: GrizaLeono
+te:
+  nomo:
+    fontlingve: తెలుగు
+    esperante: telugua
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 th:
   nomo:
     fontlingve: ภาษาไทย

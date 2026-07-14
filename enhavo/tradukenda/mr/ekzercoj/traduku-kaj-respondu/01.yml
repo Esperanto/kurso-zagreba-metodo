@@ -1,0 +1,51 @@
+- demando: तुझी मैत्रीण कोण आहे?
+  rektatraduko:
+  - Kiu: कोण
+  - estas: आहे
+  - via: तुझी/तुमची
+  - amikino: मैत्रीण
+  - '?'
+- demando: तुझी मैत्रीण आना आता खोलीत लिहित आहे का?
+  rektatraduko:
+  - Ĉu: काय
+  - via: तुझी/तुमची
+  - amikino: मैत्रीण
+  - Ana: आना
+  - skribas: लिहितो/लिहिते
+  - nun: आता
+  - en: मध्ये
+  - la: निश्चित उपपद
+  - ĉambro: खोली
+  - '?'
+- demando: तुझ्या वडिलांचा मित्र हॉटेलमध्ये काम करतो का?
+  rektatraduko:
+  - Ĉu: काय
+  - la: निश्चित उपपद
+  - amiko: मित्र
+  - de: चा
+  - via: तुझा/तुमचा
+  - patro: वडील
+  - laboras: काम करतो
+  - en: मध्ये
+  - hotelo: हॉटेल
+  - '?'
+- demando: आपल्या खोलीत कामाच्या टेबलावर काय आहे?
+  rektatraduko:
+  - Kio: काय
+  - estas: आहे
+  - sur: वर
+  - la: निश्चित उपपद
+  - labortablo: कामाचे टेबल
+  - en: मध्ये
+  - nia: आपला/आमचा
+  - ĉambro: खोली
+  - '?'
+- demando: तुझ्या टेबलावर एस्पेरान्तोची पाठ्यपुस्तक आहे का?
+  rektatraduko:
+  - Ĉu: काय
+  - Esperanto-lernolibro: एस्पेरान्तो पाठ्यपुस्तक
+  - estas: आहे
+  - sur: वर
+  - via: तुझी/तुमची
+  - tablo: टेबल
+  - '?'

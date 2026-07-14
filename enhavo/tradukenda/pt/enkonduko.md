@@ -7,4 +7,4 @@ Depois do curso, você vai **entender o essencial**, formar suas próprias frase
 Experimente!
 ____
 
-**Participe de nosso grupo de apoio para tirar suas dúvidas [https://www.facebook.com/groups/esperanto12dias](https://www.facebook.com/groups/esperanto12dias/)**
+Participe de [nosso grupo de apoio](https://www.facebook.com/groups/esperanto12dias/) para tirar suas dúvidas

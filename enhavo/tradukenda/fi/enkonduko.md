@@ -1,5 +1,8 @@
-Tämä kurssi opettaa esperanton perusteet 12 oppitunnissa. Se sisältää noin 500 tavallisinta sanaa ja peruskieliopin, jonka avulla voit alkaa lukea, kirjoittaa ja puhua esperantoa heti ensimmäisistä oppitunneista alkaen.
+- Opettaa **500 tärkeintä sanaa**
+- **Ilmainen** ja **ilman rekisteröitymistä**
+- Mukana [sanakorttipakka]({{ url.kartaro }}) [Ankia]({{ url.anki }}) varten
 
-Kurssi on ilmainen eikä vaadi rekisteröitymistä. Voit opiskella selaimessa omaan tahtiin ja kerrata sanoja [sanakorteilla]({{ url.kartaro }}). Jos käytät Ankia, voit ladata myös [Anki-pakan]({{ url.anki }}).
+Kurssin jälkeen **ymmärrät olennaiset asiat**, osaat muodostaa omia lauseita ja pystyt ilmaisemaan perusajatuksia arjen tilanteissa.
 
-Kokeile rohkeasti!
+Kokeile vain!
+____

@@ -98,7 +98,7 @@ La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `elig
 - Gardu YAML-on valida kaj preferu ekzistantan proksiman strukturon anstataŭ enkonduki novajn formatojn.
 - Metu inter citilojn YAML-valorojn, kiuj povus esti interpretataj kiel buleaj aŭ specialaj skalaroj, ekzemple `on`, `off`, `yes`, aŭ valorojn enhavantajn apostrofojn.
 - Post kiam KI aŭ aŭtomatigita agento redaktis YAML-dosierojn, ĉiam rulu `venv/bin/python iloj/normaligu-yaml.py <koncernaj vojoj>` por la tuŝitaj dosieroj aŭ dosierujoj antaŭ validigo aŭ commit. Por normaligi la tutan `enhavo/`, uzu `make normalize-yaml`.
-- Por gramatika Markdown, sekvu la konvenciojn en `KONTRIBUADO.md`: Esperantaj ekzemploj uzas `*...*`, tradukoj estas apartigitaj per `–`, kaj emfazitaj morfemoj uzas `__...__`.
+- Por gramatika Markdown, sekvu la konvenciojn en `KONTRIBUADO.md`: Esperantaj ekzemploj uzas kursivon, tradukoj estas apartigitaj per `–`, emfazitaj morfemoj uzas normalan Markdown-formon kiel `_patr**in**o_` aŭ `_**-o**_`, kaj fluaj alineoj ne ricevas manajn linisaltojn meze de frazo.
 - Kiam vi aldonas aŭ ĝisdatigas lingvon, spegulu la ekzistantan dosierujan strukturon sub `enhavo/tradukenda/`.
 - Ne modifu `enhavo/netradukenda/tekstoj/` krom se la uzanto eksplicite konfirmas licencokonscian ŝanĝon.
 

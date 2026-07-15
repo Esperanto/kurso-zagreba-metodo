@@ -29,9 +29,10 @@ temojn aŭ evitas antaŭdoni ekzerco-respondojn.
 Formataj konvencioj:
 
 - Ĉio Esperanta estas kursiva: `*vorto*`, ankaŭ unuopaj literoj kaj finaĵoj.
-- Novajn morfemojn marku grase per `__morfemo__`; ĉe enkonduko de nova
-  finaĵo/afikso kombinu kursivon kaj grason: `*__-o__*`.
-- Ene de ekzempla vorto la morfemo estas grasa: `patr__in__o`.
+- Kiam vi kombinas Esperantan kursivon kun grasa morfemo, uzu la
+  mdformat-stabilan Markdown-formon `_...**...**..._`.
+- Novajn finaĵojn aŭ afiksojn marku per kursivo kaj graso: `_**-o**_`.
+- Ene de ekzempla vorto la morfemo estas grasa: `_patr**in**o_`.
 - Avertaj kaj memorhelpaj kestoj uzas konstantan ikonon kaj etikedon en la
   cellingvo:
   - `**⚠️ <averto>:**` por avertoj/stumbliloj
@@ -42,10 +43,12 @@ Formataj konvencioj:
 - Por vortfaradaj ekzemploj, skribu la bazan vorton, poste sagon al la nova
   vorto: `*skribi* (traduko) → *skribilo* (traduko)`.
 - Por frazaj ekzemploj, skribu simplan Esperantan frazon kaj poste la tradukon.
+- Ne rompu fluan frazon aŭ alineon per manaj linisaltoj. Linisaltoj apartigu
+  strukturojn kiel titoloj, alineoj kaj listoj.
 - Krucreferencojn faru ligiloj: `[<leciono> 6](/${LINGVO}/06/gramatiko/)`.
 - La tabelon de korelativoj ligu al `[<korelativoj>](/${LINGVO}/tabelvortoj/)`.
 - Ne skribu nudan «(leciono 5)».
-- Riparu fuŝan markadon, ekz. `*libr_ego_*` al `*libr__eg__o*`.
+- Riparu fuŝan markadon, ekz. `*libr_ego_*` al `_libr**eg**o_`.
 - Tabeloj ne rendiĝas en gramatiko; ne uzu inline-Markdown-tabelon, sed ligu al
   `/${LINGVO}/tabelvortoj/`.
 

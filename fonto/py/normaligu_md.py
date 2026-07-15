@@ -15,7 +15,24 @@ JINJA_LINK_RE = re.compile(
     r'\\?\[(?P<label>[^\]\n]+?)\\?\]'
     r'(?P<destination>\(\s*\{\{\s*[^()\n]+?\s*\}\}\s*\))'
 )
-LEGACY_MORPHEME_RE = re.compile(r'(?<!\*)\*([^*\n]*__[^*\n]*?)\*(?!\*)')
+LEGACY_WORD_SUFFIX_RE = re.compile(
+    r'\*(?P<prefix>(?![\s.,;:!?])[^*\n]+?)\*__(?P<strong>[^_\n]+?)__'
+    r'(?:\*(?P<suffix>[^\s*\n]+?)\*)?'
+)
+LEGACY_BARE_WORD_SUFFIX_RE = re.compile(
+    r'(?P<prefix>[^\W\d_][\wĈĉĜĝĤĥĴĵŜŝŬŭ-]*?)'
+    r'\*__(?P<strong>[^_\n]+?)__'
+    r'(?:\*(?P<suffix>[^\s*\n]+?)\*|\*(?!\w)|(?=\s|$))'
+)
+LEGACY_STRONG_PREFIX_RE = re.compile(
+    r'__(?P<strong>[^_\n]+?)__\*(?P<suffix>[^\s*\n]+?)\*'
+)
+LEGACY_MIDWORD_STRONG_RE = re.compile(
+    r'\*__(?P<content>[^_\n]+?)__\*(?=\w)'
+)
+LEGACY_MORPHEME_RE = re.compile(
+    r'(?<!\*)\*(?![\s.,;:!?])([^*\n]*__[^*\n]*?)\*(?!\*)'
+)
 LEGACY_STRONG_RE = re.compile(r'__(?P<content>[^_\n]+?)__')
 
 
@@ -37,6 +54,29 @@ def markdown_paths(paths):
 
 
 def standardize_morpheme_markup(text):
+    text = LEGACY_WORD_SUFFIX_RE.sub(
+        lambda match: (
+            f'_{match.group("prefix")}**{match.group("strong")}**'
+            f'{match.group("suffix") or ""}_'
+        ),
+        text,
+    )
+    text = LEGACY_BARE_WORD_SUFFIX_RE.sub(
+        lambda match: (
+            f'_{match.group("prefix")}**{match.group("strong")}**'
+            f'{match.group("suffix") or ""}_'
+        ),
+        text,
+    )
+    text = LEGACY_STRONG_PREFIX_RE.sub(
+        lambda match: f'_**{match.group("strong")}**{match.group("suffix")}_',
+        text,
+    )
+    text = LEGACY_MIDWORD_STRONG_RE.sub(
+        lambda match: f'***{match.group("content")}***',
+        text,
+    )
+
     def normalize_italic_span(match):
         content = LEGACY_STRONG_RE.sub(r'**\g<content>**', match.group(1))
         return '_' + content + '_'

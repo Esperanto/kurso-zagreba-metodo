@@ -17,6 +17,9 @@ Koncernas `ekzercoj/traduku-kaj-respondu/*.yml`.
 - En `rektatraduko`, elektu vortojn kiuj bone signalas al parolanto de la
   cellingvo, kion signifas la Esperanta ero, eĉ se tiuj vortoj estus tro
   klarigaj aŭ nenaturaj en `demando`.
+- En `rektatraduko`, la cellingva gloso ĉe frazkomenco komenciĝu per majusklo.
+  Post fina interpunkcio (`.`, `?`, `!`) ankaŭ la sekva frazkomenca gloso
+  komenciĝu per majusklo. Meze de frazo restu la normala minusklo.
 - Se `rektatraduko` uzas lernhelpan gloson, tiu gloso devas jam aperi en la
   gramatiko aŭ vortaro de sama aŭ pli frua leciono. Preferu simplan ordinaran
   vorton de la cellingvo, ne metapriskribon. Ekzemple, germane `Ĉu` povas esti

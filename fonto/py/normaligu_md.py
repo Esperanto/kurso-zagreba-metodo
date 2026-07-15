@@ -31,7 +31,7 @@ LEGACY_MIDWORD_STRONG_RE = re.compile(
     r'\*__(?P<content>[^_\n]+?)__\*(?=\w)'
 )
 LEGACY_MORPHEME_RE = re.compile(
-    r'(?<!\*)\*(?=(?:__|[^\W_]))([^*\n]*__[^*\n]*?)\*(?!\*)'
+    r'(?<!\*)\*(?=(?:__|[^\W_]|[.!?]+[^\W_]))([^*\n]*__[^*\n]*?)\*(?!\*)'
 )
 LEGACY_STRONG_RE = re.compile(r'__(?P<content>[^_\n]+?)__')
 

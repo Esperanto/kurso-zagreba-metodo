@@ -57,6 +57,7 @@ def kontrolu_matricon(matrico, path):
                 raise AgordaEraro(f'{path}: temo en leciono {leciono} ne estas mapo')
             temo_id = temo.get('id')
             ankroj = temo.get('ankroj')
+            minimumo = temo.get('minimumo')
             if not isinstance(temo_id, str) or not temo_id:
                 raise AgordaEraro(f'{path}: temo en leciono {leciono} bezonas id')
             if temo_id in uzitaj_id:
@@ -66,6 +67,11 @@ def kontrolu_matricon(matrico, path):
                 raise AgordaEraro(f'{path}: temo {temo_id} bezonas ankro-liston')
             if not all(isinstance(ankro, str) and ankro for ankro in ankroj):
                 raise AgordaEraro(f'{path}: temo {temo_id} enhavas nevalidan ankron')
+            if minimumo is not None:
+                if not isinstance(minimumo, int) or not 1 <= minimumo <= len(ankroj):
+                    raise AgordaEraro(
+                        f'{path}: temo {temo_id} havas nevalidan minimumon'
+                    )
 
 
 def lingvoj_por_raporto(lingvo=None):
@@ -94,14 +100,18 @@ def mankantaj_temoj(teksto, temoj):
     normaligita = normaligu_tekston(teksto)
     mankantaj = []
     for temo in temoj:
-        mankantaj_ankroj = [
-            ankro
-            for ankro in temo['ankroj']
-            if normaligu_tekston(ankro) not in normaligita
-        ]
-        if mankantaj_ankroj:
+        trovitaj = sum(
+            1 for ankro in temo['ankroj']
+            if normaligu_tekston(ankro) in normaligita
+        )
+        minimumo = temo.get('minimumo') or minimumaj_ankroj(temo['ankroj'])
+        if trovitaj < minimumo:
             mankantaj.append(temo['id'])
     return mankantaj
+
+
+def minimumaj_ankroj(ankroj):
+    return max(1, (len(ankroj) + 1) // 2)
 
 
 def linioj(teksto):

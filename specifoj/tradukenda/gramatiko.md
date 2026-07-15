@@ -43,3 +43,6 @@ PR-priskribo menciu aŭ `neniu mankanta temo`, aŭ la intence restantajn mankant
 temojn.
 
 La lecionaj temankroj troviĝas en `gramatiko/01.yml` … `gramatiko/12.yml`.
+La raporto traktas tiujn ankrojn kiel signalojn, ne kiel devigajn ekzemplojn:
+defaŭlte temo sufiĉas se almenaŭ la supren-rondigita duono de ĝiaj ankroj
+aperas. Se temo bezonas alian sojlon, aldonu `minimumo` al la koncerna temo.

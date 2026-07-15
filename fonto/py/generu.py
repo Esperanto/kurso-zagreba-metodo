@@ -197,8 +197,8 @@ def load(language, gramatiko_transpose_headlines=2):
     enhavo['enkonduko'] = enkonduko
 
     path = tradukenda_dir / 'post.md'
-    enhavo['post'] = legi_tekston(path)
-    enhavo['post'] = transpose_headlines(enhavo['post'], 2)
+    post = legi_tekston(path).strip()
+    enhavo['post'] = transpose_headlines(post, 2) if post else ''
 
     lecionoj = []
     vortoj = set()

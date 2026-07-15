@@ -9,6 +9,9 @@ ekzercoj.
   montri gramatikan regulon aŭ afikson.
 - Preferu bazajn, oftajn kaj lernanto-utilajn vortojn. Se malpli ofta vorto
   estas nepra por la leciona temo, klarigu ĝin simple.
+- Por gramatikaj ekzemploj, preferu vortojn jam enkondukitajn en la sama aŭ
+  antaŭaj lecionoj, se tio donas naturan kaj klaran ekzemplon. Tio estas
+  prefero, ne rigida regulo.
 - Ne longigu respondolistojn per maloftaj, arkaikaj, poeziaj aŭ nur vortare
   troveblaj variantoj, krom se ili estas vere normala respondo por la
   ekzerco-vorto.

@@ -8,8 +8,8 @@ temojn aŭ evitas antaŭdoni ekzerco-respondojn.
 
 - Dispecigu densajn tekstblokojn en skaneblan strukturon: subtitoloj, mallongaj
   alineoj kaj listeroj.
-- Gramatikaj klarigoj estas lernanto-videblaj klarigoj. Tial apliku la
-  ĝeneralan regulon pri simpla lingvo.
+- Gramatikaj klarigoj estas lernanto-videblaj klarigoj. Sekvu la regulon
+  "Simpla lingvo por lernantoj" en `README.md`.
 - Eksplicitigu la regulecon de Esperanto, ekzemple `-as` egala por ĉiuj
   personoj, posedaj pronomoj = pronomo + `-a`, la vokala sistemo `-o`/`-a`/`-e`,
   kaj la tempaj vokaloj `i`–`a`–`o`.

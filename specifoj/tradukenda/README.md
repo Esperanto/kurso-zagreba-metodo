@@ -22,8 +22,6 @@ Por laboro pri unu lingvo:
   cela lingvo.
 - Faru la videblan tekston natura, klara kaj lernanto-amika, sed restu fidele
   proksima al la Esperanta enhavo.
-- Klarigoj por lernantoj estu kiel eble plej simplaj. Uzu mallongajn frazojn,
-  oftajn vortojn kaj klarigu unu ideon post alia.
 - Se kampo estas intence lernhelpa, ekzemple `rektatraduko`, sekvu ĝian apartan
   specifon.
 - Konservu la ekzistantan tonon kaj rektan alparolon al lernantoj.
@@ -33,6 +31,17 @@ Por laboro pri unu lingvo:
 - Se YAML-valoro povus esti interpretata speciale, metu ĝin inter citilojn
   (ekz. `on`, `off`, `yes`, valoroj kun apostrofoj aŭ dupunktoj).
 - Konservu UTF-8 kaj la Esperantajn diakritajn signojn.
+
+Simpla lingvo por lernantoj:
+
+- Klarigoj por lernantoj estu kiel eble plej simplaj.
+- Uzu mallongajn frazojn.
+- Uzu oftajn vortojn.
+- Klarigu unu ideon post alia.
+- Evitu nenecesajn fakvortojn. Se fakvorto estas bezonata, klarigu ĝin tuj.
+- Disigu longajn frazojn en du aŭ pli da frazoj aŭ en liston.
+- Preferu klaran ekzemplon al longa abstrakta klarigo.
+- Ne metu tro multe da nova informo en unu loko.
 
 Labormaniero:
 

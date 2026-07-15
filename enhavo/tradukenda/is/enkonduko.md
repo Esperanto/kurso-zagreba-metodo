@@ -1,4 +1,3 @@
-
 - Kennir **500 mikilvægustu orðin**
 - **Ókeypis** og **án skráningar**
 - Með [spjaldastokki]({{ url.kartaro }}) fyrir [Anki]({{ url.anki }})

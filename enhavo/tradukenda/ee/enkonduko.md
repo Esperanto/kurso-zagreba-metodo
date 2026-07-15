@@ -5,4 +5,3 @@
 Le nusrɔ̃ɖeɖea megbe la, àse **nu veviwo gɔme**, awɔ wò ŋutɔ ƒe nyagbewo, eye nàte ŋu agblɔ tameɖoɖo bɔbɔewo le ŋkeke sia ŋkeke ƒe nɔnɔmeawo me.
 
 Te ŋu kpɔe!
-____

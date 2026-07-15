@@ -5,4 +5,3 @@
 Setelah kursus, kamu akan **memahami hal-hal pokok**, membentuk kalimatmu sendiri, dan mampu menyampaikan gagasan dasar dalam situasi sehari-hari.
 
 Coba saja!
-____

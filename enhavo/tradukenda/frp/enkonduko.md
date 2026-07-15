@@ -5,4 +5,3 @@
 Aprés lo cors, vos **comprendrés l'essenciâl**, formarés vouétras frases et porrés comunicar d'idées de bâsa dens les situacions de tôs los jorns.
 
 Èprovâd-lo simplament !
-____

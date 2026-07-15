@@ -5,4 +5,3 @@
 Aorian'ny fianarana dia **hahazo ny tena fototra** ianao, hahavita hamorona fehezanteny manokana, ary hahavita hampita hevitra tsotra amin'ny toe-javatra andavanandro.
 
 Andramo!
-____

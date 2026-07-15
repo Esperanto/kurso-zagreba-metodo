@@ -5,4 +5,3 @@
 Lẹ́yìn kóọ̀sì náà, ìwọ yóò **lóye ohun pàtàkì**, dá àwọn gbolohun tirẹ̀ sílẹ̀, kí o sì lè sọ àwọn èrò ìpilẹ̀ ní àwọn ipo ojoojúmọ́.
 
 Kan gbìyànjú rẹ̀!
-____

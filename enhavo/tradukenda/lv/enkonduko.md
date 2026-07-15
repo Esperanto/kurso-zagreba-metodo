@@ -5,4 +5,3 @@
 Pēc kursa tu **sapratīsi pamatus**, varēsi veidot savus teikumus un vienkārši sazināties ikdienas situācijās.
 
 Pamēģini!
-____

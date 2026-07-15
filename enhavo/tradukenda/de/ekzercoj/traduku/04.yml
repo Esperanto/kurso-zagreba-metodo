@@ -1,26 +1,54 @@
-- enfali: einfallen
-- ellabori: ausarbeiten
-- scivola: neugierig
+- enfali:
+  - einfallen
+  - hineinfallen
+- ellabori:
+  - ausarbeiten
+  - erarbeiten
+- scivola:
+  - neugierig
+  - wissbegierig
 - trilingva: dreisprachig
-- reiri: zurückgehen
+- reiri:
+  - zurückgehen
+  - zurückkehren
 - enmeti:
   - hineintun
   - hineinlegen
   - einsetzen
-- dektaga: zehntägig
-- elpreni: herausnehmen
+  - einlegen
+  - hineinstecken
+- dektaga:
+  - zehntägig
+  - zehn Tage dauernd
+- elpreni:
+  - herausnehmen
+  - entnehmen
 - malfermi:
   - öffnen
   - aufmachen
 - eldoni:
   - herausgeben
   - veröffentlichen
-- eldonisto: Herausgeber
-- okdek ses: '86'
-- revidi: wiedersehen
-- reveni: zurückkommen
+  - verlegen
+- eldonisto:
+  - Herausgeber
+  - Verleger
+- okdek ses:
+  - '86'
+  - sechsundachtzig
+- revidi:
+  - wiedersehen
+  - erneut sehen
+- reveni:
+  - zurückkommen
+  - wiederkommen
+  - zurückkehren
 - internacia:
   - international
   - zwischenstaatlich
-- piediri: zu Fuß gehen
-- dumil tri: '2003'
+- piediri:
+  - zu Fuß gehen
+  - laufen
+- dumil tri:
+  - '2003'
+  - zweitausenddrei

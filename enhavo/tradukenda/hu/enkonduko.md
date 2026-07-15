@@ -5,4 +5,3 @@
 A kurzus után **megérted a lényeget**, saját mondatokat alkotsz, és alapvető gondolatokat tudsz közölni hétköznapi helyzetekben.
 
 Csak próbáld ki!
-____

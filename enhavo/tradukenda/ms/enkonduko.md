@@ -5,4 +5,3 @@
 Selepas kursus ini, anda akan **memahami perkara asas**, membina ayat sendiri, dan dapat menyampaikan idea asas dalam situasi harian.
 
 Cubalah!
-____

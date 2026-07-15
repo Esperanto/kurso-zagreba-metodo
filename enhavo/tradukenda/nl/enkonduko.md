@@ -5,4 +5,3 @@
 Na de cursus zul je **de basis begrijpen**, je eigen zinnen vormen en eenvoudige ideeën kunnen overbrengen in alledaagse situaties.
 
 Probeer het gewoon!
-____

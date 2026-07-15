@@ -5,4 +5,3 @@
 Po tečaju boš **razumel bistveno**, tvoril svoje stavke in znal sporočiti osnovne misli v vsakdanjih situacijah.
 
 Preprosto poskusi!
-____

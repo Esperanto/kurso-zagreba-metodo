@@ -5,4 +5,3 @@
 Kurstan sonra **temel noktaları anlayacak**, kendi cümlelerini kuracak ve günlük durumlarda temel fikirleri aktarabileceksin.
 
 Sadece dene!
-____

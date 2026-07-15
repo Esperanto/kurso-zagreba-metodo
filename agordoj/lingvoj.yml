@@ -583,6 +583,14 @@ vi:
       github: Ghojo-37
     - nomo: Hoang Phuc
       github: Huangphoux
+wuu:
+  nomo:
+    fontlingve: 吴语
+    esperante: ĉina (Wu)
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 yo:
   nomo:
     fontlingve: yorùbá

@@ -7,6 +7,7 @@
   var INPUT_STORE = 'inputs';
   var INPUT_DEBOUNCE_MS = 400;
   var SCROLL_DEBOUNCE_MS = 500;
+  var MANUAL_ROOT_NAVIGATION_PREFIX = 'esperanto12-pwa-manual-root:';
   var RESUME_SCROLL_PREFIX = 'esperanto12-pwa-resume-scroll:';
 
   function hasPwaManifest() {
@@ -258,6 +259,38 @@
     return RESUME_SCROLL_PREFIX + lingvo;
   }
 
+  function manualRootNavigationKey() {
+    return MANUAL_ROOT_NAVIGATION_PREFIX + lingvo;
+  }
+
+  function languageRootKey() {
+    return '/' + lingvo + '/';
+  }
+
+  function rememberManualRootNavigation(urlValue) {
+    if (normalizedUrlKey(urlValue) !== languageRootKey()) {
+      return;
+    }
+
+    try {
+      window.sessionStorage.setItem(manualRootNavigationKey(), languageRootKey());
+    } catch (error) {
+      logStorageError(error);
+    }
+  }
+
+  function takeManualRootNavigation() {
+    try {
+      var key = manualRootNavigationKey();
+      var target = window.sessionStorage.getItem(key);
+      window.sessionStorage.removeItem(key);
+      return target === currentUrlKey();
+    } catch (error) {
+      logStorageError(error);
+      return false;
+    }
+  }
+
   function rememberResumeScrollTarget(urlValue) {
     var key = normalizedUrlKey(urlValue);
     if (!key) {
@@ -418,6 +451,24 @@
     });
   }
 
+  function bindManualRootNavigation() {
+    document.addEventListener('click', function (event) {
+      if (event.defaultPrevented || event.button !== 0) {
+        return;
+      }
+      if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+        return;
+      }
+
+      var link = event.target.closest && event.target.closest('a[data-pwa-root-link]');
+      if (!link || (link.target && link.target !== '_self')) {
+        return;
+      }
+
+      rememberManualRootNavigation(link.href);
+    }, true);
+  }
+
   function bindPagePersistence() {
     window.addEventListener('scroll', schedulePageSave, { passive: true });
     window.addEventListener('pagehide', function () {
@@ -433,7 +484,10 @@
   }
 
   function resumeLastPageIfNeeded() {
-    if (!isLanguageRoot() || window.location.hash || sameOriginReferrer()) {
+    if (!isLanguageRoot() || window.location.hash) {
+      return Promise.resolve(false);
+    }
+    if (takeManualRootNavigation() || sameOriginReferrer()) {
       return Promise.resolve(false);
     }
 
@@ -453,6 +507,8 @@
       return false;
     });
   }
+
+  bindManualRootNavigation();
 
   resumeLastPageIfNeeded().then(function (redirecting) {
     if (redirecting) {

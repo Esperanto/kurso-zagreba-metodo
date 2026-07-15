@@ -1,5 +1,59 @@
 const { expect, test } = require('@playwright/test');
 
+async function readPwaLastUrl(page) {
+  return page.evaluate(() => new Promise((resolve, reject) => {
+    const request = window.indexedDB.open('esperanto12-pwa-state', 1);
+
+    request.onupgradeneeded = () => {
+      const db = request.result;
+      if (!db.objectStoreNames.contains('pages')) {
+        db.createObjectStore('pages', { keyPath: 'key' });
+      }
+      if (!db.objectStoreNames.contains('inputs')) {
+        db.createObjectStore('inputs', { keyPath: 'key' });
+      }
+    };
+    request.onerror = () => reject(request.error);
+    request.onsuccess = () => {
+      const db = request.result;
+      const transaction = db.transaction('pages', 'readonly');
+      const store = transaction.objectStore('pages');
+      const getRequest = store.get('en|last');
+
+      getRequest.onerror = () => reject(getRequest.error);
+      getRequest.onsuccess = () => {
+        const record = getRequest.result;
+        db.close();
+        resolve(record && record.url);
+      };
+    };
+  }));
+}
+
+async function emulateStandalonePwa(page) {
+  await page.addInitScript(() => {
+    const originalMatchMedia = window.matchMedia.bind(window);
+    window.matchMedia = (query) => {
+      if (query !== '(display-mode: standalone)') {
+        return originalMatchMedia(query);
+      }
+
+      return {
+        matches: true,
+        media: query,
+        onchange: null,
+        addListener() {},
+        removeListener() {},
+        addEventListener() {},
+        removeEventListener() {},
+        dispatchEvent() {
+          return false;
+        },
+      };
+    };
+  });
+}
+
 test('hejmpaĝo plusendas al la retumila lingvo', async ({ browser }) => {
   const context = await browser.newContext({ locale: 'de-DE' });
   await context.addInitScript(() => {
@@ -123,6 +177,22 @@ test('startpaĝa instalbutono helpas sen beforeinstallprompt', async ({ page }) 
   await expect(installHelp).toHaveText(
     'Open the browser menu and choose "Install" or "Add to Home screen".',
   );
+});
+
+test('PWA-logoligilo iras al startpaĝo anstataŭ rekomenci konservitan paĝon', async ({ page }) => {
+  await emulateStandalonePwa(page);
+  await page.goto('/en/06/gramatiko/');
+
+  await expect.poll(() => readPwaLastUrl(page)).toBe('/en/06/gramatiko/');
+
+  const logoLink = page.locator('.navbar-brand');
+  await expect(logoLink).toHaveAttribute('data-pwa-root-link', '');
+  await logoLink.evaluate((link) => link.setAttribute('rel', 'noreferrer'));
+  await logoLink.click();
+
+  await expect(page).toHaveURL(/\/en\/$/);
+  await page.waitForTimeout(600);
+  await expect(page).toHaveURL(/\/en\/$/);
 });
 
 test('startpaĝa lingvoelektilo vicigxas kun la titoloj', async ({ page }) => {

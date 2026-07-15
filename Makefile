@@ -1,4 +1,4 @@
-.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-ui check-pwa html html-all md normalize-yaml serve clean
+.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md normalize-yaml normalize-md serve clean
 
 LINGVO ?= en
 HOST ?= 127.0.0.1
@@ -26,12 +26,14 @@ help:
 		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
 		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj' \
 		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/' \
+		'  make check-md-normalized    Kontrolas Markdown-formaton sub enhavo/' \
 		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
 		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por pretaj kaj testaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
 		'  make normalize-yaml  Normaligas YAML-dosierojn sub enhavo/' \
+		'  make normalize-md    Normaligas Markdown-dosierojn sub enhavo/' \
 		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000' \
 		'  make clean           Forigas generitan HTML-eligon'
 
@@ -108,6 +110,10 @@ check-yaml-normalized:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@"$(PYTHON)" -m fonto.py.normaligu_yaml --kontrolu enhavo
 
+check-md-normalized:
+	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
+	@"$(PYTHON)" -m fonto.py.normaligu_md --kontrolu enhavo
+
 check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@test -f "$(NODE_MODULES)/.bin/playwright" || { printf '%s\n' 'Mankas Playwright en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
@@ -134,6 +140,10 @@ md:
 normalize-yaml:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@"$(PYTHON)" -m fonto.py.normaligu_yaml enhavo
+
+normalize-md:
+	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
+	@"$(PYTHON)" -m fonto.py.normaligu_md enhavo
 
 serve:
 	@"$(PYTHON)" -m http.server "$(PORT)" --bind "$(HOST)" --directory "$(OUTPUT_DIR)"

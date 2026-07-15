@@ -1,0 +1,43 @@
+- id: adjektivoj_a
+  ankroj:
+  - bela
+  - granda frato
+  - malgranda fratino
+- id: kazoj_n
+  ankroj:
+  - kiun mi vidas
+  - amikon
+  - bonajn amikojn
+  - de mia frato
+- id: konjugacio
+  ankroj:
+  - labori
+  - laboras
+  - laboris
+  - laboros
+- id: ke
+  ankroj:
+  - ke mi manĝas
+  - ke li iros
+- id: prefikso_mal
+  ankroj:
+  - malbona
+  - malgranda
+  - malbela
+- id: prefikso_ge
+  ankroj:
+  - gefratoj
+  - gepatroj
+- id: gxentilaj_esprimoj
+  ankroj:
+  - bonvolu
+  - dankon
+  - saluton
+- id: vortordo
+  ankroj:
+  - mi legas libron
+  - libron mi legas
+- id: kio_kion
+  ankroj:
+  - kio estas tio
+  - kion vi faras

@@ -1,0 +1,18 @@
+- id: sufikso_an
+  ankroj:
+  - klubano
+  - amerikano
+  - samlandano
+  - samideano
+- id: sufikso_ec
+  ankroj:
+  - beleco
+  - varmeco
+  - simpleco
+- id: sufikso_uj
+  ankroj:
+  - manĝujo
+  - cindrujo
+  - Francujo
+  - Aŭstrujo
+  - pomujo

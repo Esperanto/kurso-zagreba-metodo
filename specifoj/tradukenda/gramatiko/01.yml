@@ -1,0 +1,75 @@
+- id: alfabeto
+  ankroj:
+  - a, b, c, ĉ
+  - ŭ, v, z
+- id: prononco
+  ankroj:
+  - amiko
+  - ĉambro
+  - ĝi
+- id: akcento
+  ankroj:
+  - te-le-fo-no
+  - ra-di-o
+  - an-kaŭ
+- id: artikolo_la
+  ankroj:
+  - la amiko
+  - la laboro
+- id: personaj_pronomoj
+  ankroj:
+  - mi
+  - vi
+  - li
+  - ŝi
+  - ĝi
+  - ni
+  - ili
+- id: posedaj_pronomoj
+  ankroj:
+  - mia
+  - via
+  - lia
+  - ŝia
+  - nia
+  - ilia
+- id: substantivo_o
+  ankroj:
+  - tablo
+  - lernanto
+- id: pluralo_j
+  ankroj:
+  - tabloj
+  - lernantoj
+- id: verboj_i_as
+  ankroj:
+  - lerni
+  - labori
+  - esti
+  - sidas
+- id: cxu
+  ankroj:
+  - ĉu vi sidas
+  - ĉu vi skribas
+- id: kiu
+  ankroj:
+  - kiu vi estas
+  - kiu instruisto
+- id: sufikso_ist
+  ankroj:
+  - instruisto
+  - hotelisto
+  - esperantisto
+- id: sufikso_in
+  ankroj:
+  - patrino
+  - lernantino
+  - instruistino
+- id: jes
+  ankroj:
+  - jes
+  - ĉu vi estas en la ĉambro
+- id: ne
+  ankroj:
+  - ne
+  - mi ne estas en la ĉambro

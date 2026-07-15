@@ -10,7 +10,7 @@ from .generu import legi_yaml
 
 
 LECIONOJ = tuple(f'{numero:02}' for numero in range(1, 13))
-TEMOJ_PATH = ROOT_DIR / 'skemoj' / 'tradukenda' / 'gramatiko-temoj.yml'
+TEMOJ_DIR = ROOT_DIR / 'specifoj' / 'tradukenda' / 'gramatiko'
 TRADUKENDA_DIR = ROOT_DIR / 'enhavo' / 'tradukenda'
 
 
@@ -26,11 +26,18 @@ def normaligu_tekston(teksto):
     return teksto.strip()
 
 
-def legu_temon_matricon(path=TEMOJ_PATH):
-    try:
-        matrico = legi_yaml(path)
-    except Exception as error:
-        raise AgordaEraro(f'ne eblas legi {path}: {error}') from error
+def legu_temon_matricon(path=TEMOJ_DIR):
+    if not path.is_dir():
+        raise AgordaEraro(f'mankas gramatika tem-dosierujo: {path}')
+
+    matrico = {}
+    for leciono in LECIONOJ:
+        leciona_path = path / f'{leciono}.yml'
+        try:
+            matrico[leciono] = legi_yaml(leciona_path)
+        except Exception as error:
+            raise AgordaEraro(f'ne eblas legi {leciona_path}: {error}') from error
+
     kontrolu_matricon(matrico, path)
     return matrico
 
@@ -38,16 +45,6 @@ def legu_temon_matricon(path=TEMOJ_PATH):
 def kontrolu_matricon(matrico, path):
     if not isinstance(matrico, dict):
         raise AgordaEraro(f'{path} devas enhavi mapon de lecionoj')
-
-    mankantaj_lecionoj = [leciono for leciono in LECIONOJ if leciono not in matrico]
-    if mankantaj_lecionoj:
-        raise AgordaEraro(
-            f'{path} ne enhavas lecionojn: {", ".join(mankantaj_lecionoj)}'
-        )
-
-    nekonataj = [str(leciono) for leciono in matrico if str(leciono) not in LECIONOJ]
-    if nekonataj:
-        raise AgordaEraro(f'{path} enhavas nekonatajn lecionojn: {", ".join(nekonataj)}')
 
     for leciono in LECIONOJ:
         temoj = matrico[leciono]

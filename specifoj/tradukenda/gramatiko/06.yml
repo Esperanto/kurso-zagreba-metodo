@@ -1,28 +1,6 @@
-- id: u_en_subfrazoj
-  ankroj:
-  - ke vi lernu
-  - ke mi iru
-- id: prepozicio_je
-  ankroj:
-  - je kioma horo
-  - je la kvina horo
-- id: verbo_farti
-  ankroj:
-  - kiel vi fartas
-- id: sufikso_et
-  ankroj:
-  - libreto
-  - beleta
-  - varmeta
-- id: sufikso_eg
-  ankroj:
-  - librego
-  - varmega
-  - belega
-  - bonega
-- id: sufikso_igx
-  ankroj:
-  - riĉiĝi
-  - trankviliĝi
-  - resaniĝi
-  - geedziĝi
+- U-formo en subfrazoj
+- Prepozicio je
+- Verbo farti
+- Sufikso -et
+- Sufikso -eg
+- Sufikso -iĝ

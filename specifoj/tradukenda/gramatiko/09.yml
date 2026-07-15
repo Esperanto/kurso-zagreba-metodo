@@ -1,27 +1,5 @@
-- id: kondicionalo
-  ankroj:
-  - kredus
-  - estus sana
-  - estus tre feliĉa
-- id: kvazaux
-  ankroj:
-  - kvazaŭ vi estus riĉulo
-  - kvazaŭ riĉulo
-- id: sufikso_ad
-  ankroj:
-  - kantado
-  - suferado
-  - rigardadi
-  - demandadi
-  - informado
-- id: sufikso_ar
-  ankroj:
-  - arbaro
-  - vagonaro
-  - vortaro
-- id: sufikso_um
-  ankroj:
-  - plenumi
-  - proksimume
-  - sunumi
-  - malvarmumi
+- Kondicionalo
+- Kvazaŭ
+- Sufikso -ad
+- Sufikso -ar
+- Sufikso -um

@@ -1,55 +1,10 @@
-- id: tabelvortoj
-  ankroj:
-  - ĉio
-  - ĉiu
-  - ĉiuj
-  - ĉiam
-  - iom
-- id: kio
-  ankroj:
-  - kion vi manĝas
-  - kukon mi manĝas
-- id: kiu
-  ankroj:
-  - kiu
-  - kiun
-  - kiuj
-  - kiujn
-- id: kia
-  ankroj:
-  - kia estas la vetero
-  - kian aŭton
-  - kiaj estas
-  - kiajn fotojn
-- id: kie
-  ankroj:
-  - kie mi estas
-  - kien vi iras
-- id: tabelvortoj_kun_prepozicioj
-  ankroj:
-  - al kiu
-  - kun kiu
-  - al tiu
-  - inter tiuj
-- id: komparacio
-  ankroj:
-  - pli bona
-  - plej bona
-  - ol vi
-  - el ĉiuj
-- id: dum
-  ankroj:
-  - dum la manĝo
-  - dum li legas
-- id: cxi
-  ankroj:
-  - tiu ĉi
-  - ĉi tiu
-  - tie ĉi
-  - ĉi tie
-- id: sufikso_ind
-  ankroj:
-  - aŭskultinda
-  - leginda
-  - bedaŭrinde
-  - nedankinde
+- Tabelvortoj
+- Kio
+- Kiu
+- Kia
+- Kie
+- Tabelvortoj kun prepozicioj
+- Komparacio
+- Dum
+- Ĉi
+- Sufikso -ind

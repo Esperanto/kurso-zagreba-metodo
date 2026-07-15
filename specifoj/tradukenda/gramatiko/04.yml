@@ -1,23 +1,5 @@
-- id: nombroj
-  ankroj:
-  - mil du-cent
-  - dek-unu
-  - dek-kvin
-- id: direkta_akuzativo
-  ankroj:
-  - en la domon
-  - sur la tablon
-- id: pronomo_oni
-  ankroj:
-  - oni manĝas
-  - oni sidas
-- id: pronomo_si
-  ankroj:
-  - lavas sin
-  - rigardas sin
-  - al si
-- id: prefikso_re
-  ankroj:
-  - revidi
-  - redoni
-  - remeti
+- Nombroj
+- Direkta akuzativo
+- Pronomo oni
+- Refleksiva pronomo si
+- Prefikso re-

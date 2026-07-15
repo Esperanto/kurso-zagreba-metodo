@@ -38,11 +38,13 @@ Formataj konvencioj:
 - Tabeloj ne rendiĝas en gramatiko; ne uzu inline-Markdown-tabelon, sed ligu al
   `/${LINGVO}/tabelvortoj/`.
 
-Post gramatikaj ŝanĝoj rulu `make raportu-gramatikon LINGVO=${LINGVO}`. En la
-PR-priskribo menciu aŭ `neniu mankanta temo`, aŭ la intence restantajn mankantajn
-temojn.
+La atendataj temoj por ĉiu leciono troviĝas en `gramatiko/01.yml` …
+`gramatiko/12.yml`. Ĉiu dosiero estas simpla listo de Esperantaj temnomoj, ne
+maŝinlegebla kontrolilo. Tiuj temoj estas minimuma postulo: estas tute en ordo,
+se leciono enhavas pliajn klarigojn, ekzemplojn aŭ helpajn rimarkojn.
 
-La lecionaj temankroj troviĝas en `gramatiko/01.yml` … `gramatiko/12.yml`.
-La raporto traktas tiujn ankrojn kiel signalojn, ne kiel devigajn ekzemplojn:
-defaŭlte temo sufiĉas se almenaŭ la supren-rondigita duono de ĝiaj ankroj
-aperas. Se temo bezonas alian sojlon, aldonu `minimumo` al la koncerna temo.
+Kiam vi redaktas gramatikan lecionon, komparu ĝian Markdown-dosieron kun la
+koncerna temlisto kaj certigu, ke ĉiuj temoj estas enhave kovritaj. Temo povas
+aperi kiel propra titolo, subtitolo aŭ klara klariga sekcio; la vortumo ne devas
+esti identa al la temnomo. Se temo ŝajnas manki aŭ troviĝi en alia leciono,
+kontrolu tion aktive antaŭ PR kaj menciu la decidon en la PR-priskribo.

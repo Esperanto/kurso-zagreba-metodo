@@ -1,44 +1,9 @@
-- id: adverboj_e
-  ankroj:
-  - bele
-  - forte
-  - veturi rapide
-- id: prepozicio_per
-  ankroj:
-  - per kulero
-  - per tre bela voĉo
-- id: prepozicio_kun
-  ankroj:
-  - kun la amiko
-  - kun li
-- id: prepozicio_post
-  ankroj:
-  - post mi
-  - post du horoj
-  - poste
-- id: prepozicio_malantaux
-  ankroj:
-  - malantaŭ mi
-- id: sufikso_ul
-  ankroj:
-  - grandulo
-  - malbonulo
-  - belulino
-- id: sufikso_ej
-  ankroj:
-  - lernejo
-  - kuirejo
-  - laborejo
-- id: sufikso_ebl
-  ankroj:
-  - manĝebla
-  - videbla
-  - kompreneble
-  - eble
-  - malebla
-- id: imperativo
-  ankroj:
-  - manĝu
-  - iru
-  - lernu
-  - vidu
+- Adverboj je -e
+- Prepozicio per
+- Prepozicio kun
+- Prepozicio post
+- Prepozicio malantaŭ
+- Sufikso -ul
+- Sufikso -ej
+- Sufikso -ebl
+- Imperativo

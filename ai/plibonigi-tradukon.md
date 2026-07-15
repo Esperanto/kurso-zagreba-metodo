@@ -33,7 +33,7 @@ merge-konfliktojn. Legu la koncernajn dosierojn antaŭ redaktado:
 
 - `specifoj/tradukenda/README.md` — ĝeneralaj reguloj kaj labormaniero
 - `specifoj/tradukenda/gramatiko.md` — gramatikaj klarigoj
-- `specifoj/tradukenda/gramatiko/01.yml` … `12.yml` — gramatikaj temankroj
+- `specifoj/tradukenda/gramatiko/01.yml` … `12.yml` — atendataj gramatikaj temoj
 - `specifoj/tradukenda/vortaro.md` — vortaro
 - `specifoj/tradukenda/traduku.md` — ekzerco 1
 - `specifoj/tradukenda/traduku-kaj-respondu.md` — ekzerco 3

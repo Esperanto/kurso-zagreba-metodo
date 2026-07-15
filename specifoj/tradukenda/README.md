@@ -32,6 +32,7 @@ Labormaniero:
 1. Ekde aktuala `master` kreu novan branĉon; neniam enmetu rekte al `master`.
 2. Legu la dosierojn de la lingvo antaŭ ol redakti.
 3. Post YAML-redaktoj rulu la normaligilon laŭ la repo-instrukcioj.
-4. Post gramatikaj ŝanĝoj rulu `make raportu-gramatikon LINGVO=${LINGVO}`.
+4. Post gramatikaj ŝanĝoj komparu la lecionon kun la koncerna temlisto en
+   `gramatiko/NN.yml`.
 5. `make check` devas sukcesi antaŭ ĉiu enmeto.
 6. Puŝu kaj kreu PR per `gh`, kun titolo kaj priskribo en Esperanto.

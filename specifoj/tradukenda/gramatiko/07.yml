@@ -1,24 +1,5 @@
-- id: neado
-  ankroj:
-  - nek li nek ŝi
-  - nek sidas nek rigardas
-  - neniam
-- id: mem
-  ankroj:
-  - mi mem faris
-- id: adiauxo
-  ankroj:
-  - ĝis la revido
-  - ĝis revido
-- id: prefikso_ek
-  ankroj:
-  - ekparoli
-  - eksilenti
-  - eksidi
-  - ekridi
-- id: sufikso_ajx
-  ankroj:
-  - manĝaĵo
-  - trinkaĵo
-  - belaĵo
-  - sendaĵo
+- Neado
+- Mem
+- Ĝis revido
+- Prefikso ek-
+- Sufikso -aĵ

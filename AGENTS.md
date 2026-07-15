@@ -17,6 +17,8 @@ La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperan
 - `enhavo/netradukenda/`: netradukenda fontenhavo komuna al ĉiuj lingvoj.
 - `enhavo/netradukenda/tekstoj/`: Esperantaj leciontekstoj. Ili estas licencitaj laŭ CC BY-ND kaj ne devas esti ŝanĝitaj.
 - `enhavo/tradukenda/<lingvo>/`: lingvospecifaj tradukoj, gramatikaj klarigoj, ekzercoj, vortaroj, enkonduko kaj posta teksto.
+- `specifoj/tradukenda/`: la fonto de vero por tradukenda enhavo; legu la koncernajn specifojn antaŭ ŝanĝi tradukojn, ekzercojn, vortaron, gramatikon, fasadon, enkondukon aŭ posttekston.
+- `ai/`: reuzeblaj promptoj kaj laborinstrukcioj por agentoj, ekzemple por plibonigi tradukojn aŭ generi OG-bildojn.
 - `agordoj/`: agordo de lingvoj kaj aŭtoroj.
 - `fonto/py/`: Python-generatoroj. La ĉefa enirpunkto estas `fonto.py.generu`.
 - `fonto/html/` kaj `fonto/md/`: ŝablonoj por HTML kaj Markdown.
@@ -97,6 +99,8 @@ La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `elig
 
 - Gardu YAML-on valida kaj preferu ekzistantan proksiman strukturon anstataŭ enkonduki novajn formatojn.
 - Metu inter citilojn YAML-valorojn, kiuj povus esti interpretataj kiel buleaj aŭ specialaj skalaroj, ekzemple `on`, `off`, `yes`, aŭ valorojn enhavantajn apostrofojn.
+- Antaŭ enhavaj ŝanĝoj, legu la koncernajn dosierojn en `specifoj/tradukenda/`; ili superas ekzemplojn aŭ malnovajn kutimojn en ekzistantaj tradukoj.
+- Kiam tasko sekvas reuzeblan agentan laborfluon, legu la taŭgan prompton en `ai/`, ekzemple `ai/plibonigi-tradukon.md` por tradukaj plibonigoj aŭ `ai/generi-og-bildojn.md` por OG-bildoj.
 - Post kiam KI aŭ aŭtomatigita agento redaktis YAML-dosierojn, ĉiam rulu `venv/bin/python iloj/normaligu-yaml.py <koncernaj vojoj>` por la tuŝitaj dosieroj aŭ dosierujoj antaŭ validigo aŭ commit. Por normaligi la tutan `enhavo/`, uzu `make normalize-yaml`.
 - Por gramatika Markdown, sekvu la konvenciojn en `KONTRIBUADO.md`: Esperantaj ekzemploj uzas kursivon, tradukoj estas apartigitaj per `–`, emfazitaj morfemoj uzas normalan Markdown-formon kiel `_patr**in**o_` aŭ `_**-o**_`, kaj fluaj alineoj ne ricevas manajn linisaltojn meze de frazo.
 - Kiam vi aldonas aŭ ĝisdatigas lingvon, spegulu la ekzistantan dosierujan strukturon sub `enhavo/tradukenda/`.

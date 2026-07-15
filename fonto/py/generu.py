@@ -148,7 +148,7 @@ def get_markdown_headlines(s):
 
 
 def load(language, gramatiko_transpose_headlines=2):
-    enhavo = {'lingvo': language, 'vortaro': {}}
+    enhavo = {'lingvo': language, 'vortaro': {}, 'tutvorta_vortaro': {}}
 
     tradukenda_dir = ENHAVO_DIR / 'tradukenda' / language
     netradukenda_dir = ENHAVO_DIR / 'netradukenda'
@@ -168,6 +168,14 @@ def load(language, gramatiko_transpose_headlines=2):
                 'vortspeco': vortspeco
             }
         enhavo['vortaro'].update(vortlisto)
+
+    for esperante, vortero in enhavo['vortaro'].items():
+        if vortero['vortspeco'] == 'vorto':
+            enhavo['tutvorta_vortaro'][esperante] = vortero
+
+    for esperante, vortero in enhavo['vortaro'].items():
+        if vortero['vortspeco'] != 'radiko':
+            enhavo['tutvorta_vortaro'].setdefault(esperante, vortero)
 
     enhavo['finajxoj'] = legi_yaml(netradukenda_dir / 'radikaj_finajxoj.yml')
 

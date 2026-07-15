@@ -33,8 +33,8 @@ Formataj konvencioj:
   mdformat-stabilan Markdown-formon `_...**...**..._`.
 - Novajn finaĵojn aŭ afiksojn marku per kursivo kaj graso: `_**-o**_`.
 - Ene de ekzempla vorto la morfemo estas grasa: `_patr**in**o_`.
-- Avertaj kaj memorhelpaj kestoj uzas konstantan ikonon kaj etikedon en la
-  cellingvo:
+- Avertaj kaj memorhelpaj kestoj ĉiam staru kiel propra alineo, ne meze de alia
+  frazo aŭ listo. Ili uzas konstantan ikonon kaj etikedon en la cellingvo:
   - `**⚠️ <averto>:**` por avertoj/stumbliloj
   - `**💡 <memorhelpilo>:**` por memorhelpiloj kaj konsiletoj
 - Neniu ikono en titoloj; tio rompus la enhav-kontrolon

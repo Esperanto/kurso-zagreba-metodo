@@ -1,4 +1,4 @@
-.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-ui check-pwa raportu-gramatikon html html-all md normalize-yaml serve clean
+.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-ui check-pwa html html-all md normalize-yaml serve clean
 
 LINGVO ?= en
 HOST ?= 127.0.0.1
@@ -14,7 +14,6 @@ TRADUKENDA_SCHEMA_DIR ?= skemoj/tradukenda
 PIP_TOOLS ?= pip-tools==7.5.3
 CHECK_LINGVO := en
 MD_OUT ?= eligo/md/$(CHECK_LINGVO).md
-RAPORTU_GRAMATIKON_ARGS := $(if $(and $(LINGVO),$(filter command line environment,$(origin LINGVO))),--lingvo $(LINGVO),)
 
 help:
 	@printf '%s\n' \
@@ -29,7 +28,6 @@ help:
 		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/' \
 		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
 		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston' \
-		'  make raportu-gramatikon [LINGVO=lt]  Raportas mankantajn gramatikajn temojn' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por pretaj kaj testaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
@@ -119,10 +117,6 @@ check-ui:
 
 check-pwa:
 	@"$(PYTHON)" -m fonto.py.kontrolu_pwa --output-dir "$(OUTPUT_DIR)"
-
-raportu-gramatikon:
-	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
-	@"$(PYTHON)" -m fonto.py.raportu_gramatikon $(RAPORTU_GRAMATIKON_ARGS)
 
 bundle:
 	@test -d "$(NODE_MODULES)/esbuild" || { printf '%s\n' 'Mankas esbuild en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }

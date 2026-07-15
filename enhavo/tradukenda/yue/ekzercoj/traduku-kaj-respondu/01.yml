@@ -1,0 +1,51 @@
+- demando: 你的朋友是誰？
+  rektatraduko:
+  - Kiu: 誰
+  - estas: 是
+  - via: 你的
+  - amikino: 女性朋友
+  - '?'
+- demando: 你的朋友安娜現在在房裡寫東西嗎？
+  rektatraduko:
+  - Ĉu: 是不是
+  - via: 你的
+  - amikino: 女性朋友
+  - Ana: 安娜
+  - skribas: 寫
+  - nun: 現在
+  - en: 在
+  - la: 那
+  - ĉambro: 房間
+  - '?'
+- demando: 你的朋友的父親是不是在旅館工作 ？
+  rektatraduko:
+  - Ĉu: 是不是
+  - la: 這，那
+  - amiko: 朋友
+  - de: 的
+  - via: 你的
+  - patro: 父親
+  - laboras: 工作
+  - en: 在
+  - hotelo: 旅館
+  - '?'
+- demando: 是什麼東西在我們的房間的工作台上？
+  rektatraduko:
+  - Kio: 什麼東西
+  - estas: 是
+  - sur: 上
+  - la: 這，那
+  - labortablo: 工作台
+  - en: 内
+  - nia: 我們的
+  - ĉambro: 房間
+  - '?'
+- demando: 是不是在你的桌子上面有世界語課本？
+  rektatraduko:
+  - Ĉu: 是不是
+  - Esperanto-lernolibro: 世界語課本
+  - estas: 是
+  - sur: 上面
+  - via: 你的
+  - tablo: 桌子
+  - '?'

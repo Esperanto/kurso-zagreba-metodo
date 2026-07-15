@@ -16,7 +16,7 @@ JINJA_LINK_RE = re.compile(
     r'(?P<destination>\(\s*\{\{\s*[^()\n]+?\s*\}\}\s*\))'
 )
 LEGACY_WORD_SUFFIX_RE = re.compile(
-    r'\*(?P<prefix>(?![\s.,;:!?])[^*\n]+?)\*__(?P<strong>[^_\n]+?)__'
+    r'(?<!\*)\*(?!\*)(?P<prefix>(?=[^\W_])[^*\n]+?)\*__(?P<strong>[^_\n]+?)__'
     r'(?:\*(?P<suffix>[^\s*\n]+?)\*)?'
 )
 LEGACY_BARE_WORD_SUFFIX_RE = re.compile(
@@ -25,13 +25,13 @@ LEGACY_BARE_WORD_SUFFIX_RE = re.compile(
     r'(?:\*(?P<suffix>[^\s*\n]+?)\*|\*(?!\w)|(?=\s|$))'
 )
 LEGACY_STRONG_PREFIX_RE = re.compile(
-    r'__(?P<strong>[^_\n]+?)__\*(?P<suffix>[^\s*\n]+?)\*'
+    r'__(?P<strong>[^_\n]+?)__\*(?P<suffix>[^\W_][^\s*\n]*?)\*'
 )
 LEGACY_MIDWORD_STRONG_RE = re.compile(
     r'\*__(?P<content>[^_\n]+?)__\*(?=\w)'
 )
 LEGACY_MORPHEME_RE = re.compile(
-    r'(?<!\*)\*(?![\s.,;:!?])([^*\n]*__[^*\n]*?)\*(?!\*)'
+    r'(?<!\*)\*(?=(?:__|[^\W_]))([^*\n]*__[^*\n]*?)\*(?!\*)'
 )
 LEGACY_STRONG_RE = re.compile(r'__(?P<content>[^_\n]+?)__')
 

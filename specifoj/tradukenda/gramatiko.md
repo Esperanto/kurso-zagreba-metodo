@@ -39,12 +39,20 @@ Formataj konvencioj:
   `/${LINGVO}/tabelvortoj/`.
 
 La atendataj temoj por ĉiu leciono troviĝas en `gramatiko/01.yml` …
-`gramatiko/12.yml`. Ĉiu dosiero estas simpla listo de Esperantaj temnomoj, ne
-maŝinlegebla kontrolilo. Tiuj temoj estas minimuma postulo: estas tute en ordo,
-se leciono enhavas pliajn klarigojn, ekzemplojn aŭ helpajn rimarkojn.
+`gramatiko/12.yml`. Ĉiu dosiero estas homlegebla listo de gramatikaj
+minimumoj, ne maŝinlegebla kontrolilo. Ĉiu ero havas `temo`, `subtemoj` kaj
+`ekzemploj`. Tiuj temoj estas minimuma postulo: estas tute en ordo, se leciono
+enhavas pliajn klarigojn, ekzemplojn aŭ helpajn rimarkojn.
+
+La gramatiko devas doni al lernantoj la ilaron por solvi la ekzercojn de la
+sama leciono. Tial la temlistoj inkluzivas ne nur klasikajn gramatikajn
+titolojn, sed ankaŭ vortfaradajn ŝablonojn, frue bezonatajn tabelvortojn kaj
+ekzemplojn el la ekzercoj.
 
 Kiam vi redaktas gramatikan lecionon, komparu ĝian Markdown-dosieron kun la
-koncerna temlisto kaj certigu, ke ĉiuj temoj estas enhave kovritaj. Temo povas
-aperi kiel propra titolo, subtitolo aŭ klara klariga sekcio; la vortumo ne devas
-esti identa al la temnomo. Se temo ŝajnas manki aŭ troviĝi en alia leciono,
-kontrolu tion aktive antaŭ PR kaj menciu la decidon en la PR-priskribo.
+koncerna temlisto kaj kun la ekzercoj de la sama leciono. Certigu, ke ĉiuj
+temoj kaj subtemoj estas enhave kovritaj. Temo povas aperi kiel propra titolo,
+subtitolo aŭ klara klariga sekcio; la vortumo ne devas esti identa al la
+temnomo. La listigitaj ekzemploj montras atendatan specon de uzado, ne
+devigajn frazojn. Se temo ŝajnas manki aŭ troviĝi en alia leciono, kontrolu
+tion aktive antaŭ PR kaj menciu la decidon en la PR-priskribo.

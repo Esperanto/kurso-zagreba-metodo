@@ -1,5 +1,38 @@
-- Kondicionalo
-- Kvazaŭ
-- Sufikso -ad
-- Sufikso -ar
-- Sufikso -um
+- temo: Kondicionalo
+  subtemoj:
+  - Verba finaĵo -us.
+  - Ambaŭ partoj de se-frazo povas uzi -us.
+  ekzemploj:
+  - Se vi irus, mi ĝojus.
+  - vi havus sufiĉe da mono
+- temo: Kvazaŭ
+  subtemoj:
+  - Kvazaŭ normale kun kondicionalo.
+  - Kvazaŭ ankaŭ povas aperi elipse.
+  ekzemploj:
+  - kvazaŭ vi estus riĉulo
+- temo: Sufikso -ad
+  subtemoj:
+  - Daŭra ago aŭ ago kiel substantivo.
+  ekzemploj:
+  - parolado
+  - lernado
+- temo: Sufikso -ar
+  subtemoj:
+  - Aro aŭ kolekto rigardata kiel tuto.
+  ekzemploj:
+  - vagonaro
+  - homaro
+- temo: Sufikso -um
+  subtemoj:
+  - Nedifinita aŭ idiome lernenda signifo.
+  ekzemploj:
+  - proksimume
+- temo: Rekombinado de jam konataj elementoj
+  subtemoj:
+  - Lernantoj devas rekoni kombinojn de mal-, -ebl, -aĵ, da, per kaj tabelvortoj.
+  ekzemploj:
+  - nekredebla
+  - ĉirkaŭaĵo
+  - survoje
+  - tiuokaze

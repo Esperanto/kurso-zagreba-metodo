@@ -1,5 +1,55 @@
-- Neado
-- Mem
-- Ĝis revido
-- Prefikso ek-
-- Sufikso -aĵ
+- temo: Neado
+  subtemoj:
+  - Ne staras antaŭ la neata vorto.
+  - Nek kaj neni-vortoj ne bezonas duoblan neadon.
+  ekzemploj:
+  - ne parolu
+  - nek li nek ŝi
+  - neniam
+- temo: Mem
+  subtemoj:
+  - Mem emfazas la koncernan personon aŭ aferon.
+  - Distingu mem de sola.
+  ekzemploj:
+  - Mi mem faris tion.
+- temo: Ĝis revido
+  subtemoj:
+  - Ofta adiaŭa esprimo.
+  ekzemploj:
+  - ĝis la revido
+  - ĝis revido
+- temo: Prefikso ek-
+  subtemoj:
+  - Komenco aŭ subita momento de ago.
+  ekzemploj:
+  - ekstari
+  - ekami
+- temo: Prefikso for-
+  subtemoj:
+  - For montras movon aŭ forigon for de io.
+  - Ĝi povas aperi kiel prefikseca radiko en verboj.
+  ekzemploj:
+  - foriri
+  - forlasi
+  - forpreni
+- temo: Sufikso -aĵ
+  subtemoj:
+  - Konkreta afero aŭ manifestiĝo.
+  ekzemploj:
+  - manĝaĵo
+  - vestaĵo
+- temo: Ekde, laŭ kaj sen en vortfarado
+  subtemoj:
+  - Ekde montras komencon de periodo.
+  - Laŭ kaj sen aperas en utilaj kunmetaĵoj.
+  ekzemploj:
+  - ekde
+  - laŭeble
+  - senutila
+- temo: Rilata kiu kaj montra tiu
+  subtemoj:
+  - Kiun plu aperas en rilataj subfrazoj.
+  - Tiu kaj tiun montras jam konatan aŭ montratan aferon.
+  ekzemploj:
+  - la libro, kiun vi atendis
+  - tiun vestaĵon

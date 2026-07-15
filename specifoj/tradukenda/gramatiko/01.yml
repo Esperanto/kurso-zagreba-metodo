@@ -1,14 +1,111 @@
-- Alfabeto
-- Prononco
-- Akcento
-- Artikolo la
-- Personaj pronomoj
-- Posedaj pronomoj
-- Substantivoj je -o
-- Pluralo je -j
-- Verboj je -i kaj -as
-- Ĉu
-- Kiu
-- Sufikso -ist
-- Sufikso -in
-- Jes / Ne
+- temo: Alfabeto
+  subtemoj:
+  - 28 Esperantaj literoj.
+  - Literoj kun supersignoj.
+  ekzemploj:
+  - ĉ
+  - ĝ
+  - ŝ
+  - ŭ
+- temo: Prononco
+  subtemoj:
+  - Ĉiu litero havas stabilan sonon.
+  - Vokaloj restas klaraj kaj mallongaj.
+  ekzemploj:
+  - ĝi
+  - ĉambro
+- temo: Akcento
+  subtemoj:
+  - La akcento estas ĉiam sur la antaŭlasta silabo.
+  - Apudaj vokaloj restas apartaj silaboj.
+  ekzemploj:
+  - telefono
+  - radio
+  - familio
+- temo: Artikolo la
+  subtemoj:
+  - La estas difina artikolo.
+  - Nedifina artikolo ne ekzistas.
+  ekzemploj:
+  - la amiko
+  - amiko
+- temo: Personaj pronomoj
+  subtemoj:
+  - Bazaj personaj pronomoj.
+  - Vi validas por unu aŭ pluraj personoj.
+  ekzemploj:
+  - mi
+  - vi
+  - li
+  - ili
+- temo: Posedaj pronomoj
+  subtemoj:
+  - Posedaj pronomoj formiĝas per persona pronomo plus -a.
+  ekzemploj:
+  - mia
+  - via
+  - nia
+- temo: Substantivoj je -o
+  subtemoj:
+  - Substantivoj finiĝas per -o.
+  - Gramatika genro ne ekzistas.
+  ekzemploj:
+  - tablo
+  - lernanto
+- temo: Pluralo je -j
+  subtemoj:
+  - Pluralo formiĝas per -j.
+  - Ankaŭ adjektivoj kaj posedaj pronomoj povas ricevi -j.
+  ekzemploj:
+  - amikoj
+  - viaj lernantoj
+- temo: Verboj je -i kaj -as
+  subtemoj:
+  - Infinitivo finiĝas per -i.
+  - Prezenco finiĝas per -as por ĉiuj personoj.
+  ekzemploj:
+  - labori
+  - mi laboras
+  - ili sidas
+- temo: Kunmetitaj vortoj
+  subtemoj:
+  - Radikoj povas kuniĝi en unu vorton.
+  - La finaĵo apartenas al la tuta kunmetaĵo.
+  - La lasta radiko normale portas la ĉefan signifon.
+  ekzemploj:
+  - labortablo
+  - hotelĉambro
+  - Esperanto-lernolibro
+- temo: Ĉu
+  subtemoj:
+  - Ĉu staras antaŭ jes/ne-demando.
+  - La vortordo normale ne ŝanĝiĝas.
+  ekzemploj:
+  - Ĉu vi sidas?
+  - Ĉu ŝi skribas?
+- temo: Baza demandovorto kiu
+  subtemoj:
+  - Kiu demandas pri persono aŭ elekto.
+  ekzemploj:
+  - Kiu vi estas?
+  - Kiu instruisto sidas?
+- temo: Sufikso -ist
+  subtemoj:
+  - Profesio, okupo aŭ kutima rilato al afero.
+  ekzemploj:
+  - instruisto
+  - esperantistino
+- temo: Sufikso -in
+  subtemoj:
+  - Ina persono aŭ besto.
+  - Kombinebla kun aliaj sufiksoj.
+  ekzemploj:
+  - amikino
+  - laboristino
+- temo: Jes / Ne
+  subtemoj:
+  - Jes respondas pozitive.
+  - Ne respondas negative aŭ neas frazon.
+  ekzemploj:
+  - Jes, mi estas.
+  - Ne, mi ne estas.

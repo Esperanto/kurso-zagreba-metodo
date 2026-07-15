@@ -599,6 +599,14 @@ yo:
   aŭtoroj:
     - nomo: Gabriel Olúbùnmi Ọ̀ṣhọ́-Davies
       github: oshodavies
+yue:
+  nomo:
+    fontlingve: 粵語
+    esperante: ĉina (kantona)
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 zh:
   nomo:
     fontlingve: 中文

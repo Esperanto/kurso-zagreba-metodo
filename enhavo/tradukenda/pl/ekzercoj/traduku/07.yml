@@ -1,26 +1,43 @@
-- rideti: uśmiechać się
-- tranokto: nocleg
+- rideti:
+  - uśmiechać się
+  - uśmiechnąć się
+- tranokto:
+  - nocleg
+  - nocowanie
 - foriri:
   - odchodzić
+  - odejść
   - wychodzić
+  - wyjść
 - forlasi:
   - porzucać
+  - porzucić
   - opuszczać
+  - opuścić
 - ekde:
   - od
   - począwszy od
 - formanĝi:
   - pożerać
   - zjadać
+  - zjeść
 - forpreni:
+  - zabierać
   - zabrać
+  - usuwać
   - usunąć
   - odejmować
+  - odjąć
 - laŭeble:
   - o ile to możliwe
   - według możliwości
-- saĝulo: mędrzec
-- ekstari: wstawać
+  - w miarę możliwości
+- saĝulo:
+  - mędrzec
+  - mądry człowiek
+- ekstari:
+  - wstawać
+  - wstać
 - poŝtkarto:
   - kartka pocztowa
   - pocztówka
@@ -29,10 +46,15 @@
   - bezużyteczny
   - bezużyteczna
   - bezużyteczne
+  - nieprzydatny
+  - nieprzydatna
+  - nieprzydatne
 - elkuri:
   - wybiec
   - wybiegać
-- ekami: pokochać
+- ekami:
+  - pokochać
+  - zakochać się
 - ĝisnuna:
   - dotychczasowy
   - dotychczasowa

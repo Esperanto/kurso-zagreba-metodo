@@ -119,8 +119,9 @@ test('startpaĝa instalbutono helpas sen beforeinstallprompt', async ({ page }) 
   await installButton.click();
   await expect(installButton).toHaveAttribute('aria-expanded', 'true');
   await expect(installHelp).toBeVisible();
+  await expect(installHelp).toHaveCSS('animation-name', 'pwa-instala-helpo-aufsxovo');
   await expect(installHelp).toHaveText(
-    'Open the browser menu and choose Install or Add to Home screen to install the app.',
+    'Open the browser menu and choose "Install" or "Add to Home screen".',
   );
 });
 

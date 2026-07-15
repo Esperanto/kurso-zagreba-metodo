@@ -306,10 +306,29 @@ html:lang(th) .lingva-startpagxo-titoloj {
   margin-bottom: 1.5rem;
 }
 .pwa-instala-helpo {
+  animation: pwa-instala-helpo-aufsxovo 180ms ease-out;
   flex-basis: 100%;
   margin: 0.25rem auto 0;
   max-width: 36rem;
+  overflow: hidden;
   text-align: center;
+}
+@keyframes pwa-instala-helpo-aufsxovo {
+  from {
+    max-height: 0;
+    opacity: 0;
+    transform: translateY(-0.35rem);
+  }
+  to {
+    max-height: 8rem;
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .pwa-instala-helpo {
+    animation: none;
+  }
 }
 .lingva-startpagxo-lingvoj {
   max-height: min(70vh, 24rem);

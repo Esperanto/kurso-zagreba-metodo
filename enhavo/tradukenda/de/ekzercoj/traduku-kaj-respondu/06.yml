@@ -1,6 +1,6 @@
 - demando: Möchtest du, dass ich dir mein neuestes Buch zeige?
   rektatraduko:
-  - Ĉu: Ob
+  - Ĉu: Zeichen für eine Ja/Nein-Frage
   - vi: du
   - deziras: wünschst
   - ','
@@ -53,7 +53,7 @@
   - '?'
 - demando: War das Büchlein, das ich dir geschickt habe, nützlich?
   rektatraduko:
-  - Ĉu: Ob
+  - Ĉu: Zeichen für eine Ja/Nein-Frage
   - la: das
   - libreto: Büchlein
   - ','

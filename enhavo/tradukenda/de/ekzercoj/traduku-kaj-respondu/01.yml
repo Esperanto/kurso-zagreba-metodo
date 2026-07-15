@@ -7,7 +7,7 @@
   - '?'
 - demando: Schreibt deine Freundin Ana jetzt im Zimmer?
   rektatraduko:
-  - Ĉu: Ob
+  - Ĉu: Zeichen für eine Ja/Nein-Frage
   - via: deine
   - amikino: Freundin
   - Ana: Ana
@@ -19,7 +19,7 @@
   - '?'
 - demando: Arbeitet der Freund deines Vaters in einem Hotel?
   rektatraduko:
-  - Ĉu: Ob
+  - Ĉu: Zeichen für eine Ja/Nein-Frage
   - la: der
   - amiko: Freund
   - de: von
@@ -42,7 +42,7 @@
   - '?'
 - demando: Liegt ein Esperanto-Lehrbuch auf deinem Tisch?
   rektatraduko:
-  - Ĉu: Ob
+  - Ĉu: Zeichen für eine Ja/Nein-Frage
   - Esperanto-lernolibro: Esperanto-Lernbuch
   - estas: ist
   - sur: auf

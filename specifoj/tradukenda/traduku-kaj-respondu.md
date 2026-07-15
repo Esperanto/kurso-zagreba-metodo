@@ -17,6 +17,10 @@ Koncernas `ekzercoj/traduku-kaj-respondu/*.yml`.
 - En `rektatraduko`, elektu vortojn kiuj bone signalas al parolanto de la
   cellingvo, kion signifas la Esperanta ero, eĉ se tiuj vortoj estus tro
   klarigaj aŭ nenaturaj en `demando`.
+- Se `rektatraduko` uzas klarigan signalon anstataŭ normalan tradukvorton, tiu
+  signalo devas jam aperi en la gramatiko aŭ vortaro de sama aŭ pli frua
+  leciono. Ekzemple, por `Ĉu` uzu la saman signalon kiel en la klarigo pri
+  jes/ne-demandoj; ne enkonduku subite alian gloson.
 - Ne kunfandu apartajn Esperantajn vortojn en unu natura cellingva esprimo se
   tio malklarigus la mapon.
 - Ĉe prepozicioj elektu tradukon kiu montras la Esperantan funkcion, eĉ se la

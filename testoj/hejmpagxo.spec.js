@@ -103,6 +103,28 @@ test('startpaĝa instalbutono malfermas la PWA-inviton', async ({ page }) => {
   await expect(installButton).toBeHidden();
 });
 
+test('startpaĝa instalbutono helpas en Firefox por Android', async ({ browser }) => {
+  const context = await browser.newContext({
+    userAgent: 'Mozilla/5.0 (Android 14; Mobile; rv:144.0) Gecko/144.0 Firefox/144.0',
+  });
+  const page = await context.newPage();
+
+  await page.goto('/en/');
+
+  const installButton = page.locator('[data-pwa-install]');
+  await expect(installButton).toBeVisible();
+
+  const dialogPromise = page.waitForEvent('dialog');
+  const clickPromise = installButton.click();
+  const dialog = await dialogPromise;
+  expect(dialog.message()).toContain('Firefox cannot open the install prompt directly.');
+  expect(dialog.message()).toContain('Add to Home screen');
+  await dialog.accept();
+  await clickPromise;
+
+  await context.close();
+});
+
 test('startpaĝa lingvoelektilo vicigxas kun la titoloj', async ({ page }) => {
   await page.goto('/en/');
 

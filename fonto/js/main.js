@@ -30,8 +30,13 @@ $(document).ready(function(){
         || document.documentElement.classList.contains('pwa-standalone');
     }
 
+    function estasFirefoxAndroid() {
+      var userAgent = navigator.userAgent || '';
+      return /Android/i.test(userAgent) && /Firefox\/\d/i.test(userAgent);
+    }
+
     function gxisdatiguPwaInstallButton() {
-      var instalebla = !estasMemstaraPwa() && !!window.pwaInstallPrompt;
+      var instalebla = !estasMemstaraPwa() && (!!window.pwaInstallPrompt || estasFirefoxAndroid());
       pwaInstallButton.classList.toggle('d-none', !instalebla);
       pwaInstallButton.disabled = !instalebla;
     }
@@ -50,6 +55,13 @@ $(document).ready(function(){
     pwaInstallButton.addEventListener('click', function() {
       var installPrompt = window.pwaInstallPrompt;
       if (!installPrompt) {
+        if (estasFirefoxAndroid()) {
+          var mesaĝo = pwaInstallButton.getAttribute('data-pwa-mana-instalo');
+          if (mesaĝo) {
+            window.alert(mesaĝo);
+            return;
+          }
+        }
         gxisdatiguPwaInstallButton();
         return;
       }

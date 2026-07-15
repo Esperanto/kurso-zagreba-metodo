@@ -128,6 +128,14 @@ eu:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+ewe:
+  nomo:
+    fontlingve: Eʋegbe
+    esperante: evea
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 fa:
   nomo:
     fontlingve: فارسی

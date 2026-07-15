@@ -22,6 +22,8 @@ Por laboro pri unu lingvo:
   cela lingvo.
 - Faru la videblan tekston natura, klara kaj lernanto-amika, sed restu fidele
   proksima al la Esperanta enhavo.
+- Klarigoj por lernantoj estu kiel eble plej simplaj. Uzu mallongajn frazojn,
+  oftajn vortojn kaj klarigu unu ideon post alia.
 - Se kampo estas intence lernhelpa, ekzemple `rektatraduko`, sekvu ĝian apartan
   specifon.
 - Konservu la ekzistantan tonon kaj rektan alparolon al lernantoj.

@@ -11,6 +11,10 @@ import mdformat
 
 MARKDOWN_EXTENSIONS = {'.md', '.markdown'}
 MDFORMAT_OPTIONS = {'number': True, 'wrap': 'no'}
+JINJA_LINK_RE = re.compile(
+    r'\\?\[(?P<label>[^\]\n]+?)\\?\]'
+    r'(?P<destination>\(\s*\{\{\s*[^()\n]+?\s*\}\}\s*\))'
+)
 LEGACY_MORPHEME_RE = re.compile(r'(?<!\*)\*([^*\n]*__[^*\n]*?)\*(?!\*)')
 LEGACY_STRONG_RE = re.compile(r'__(?P<content>[^_\n]+?)__')
 
@@ -41,12 +45,34 @@ def standardize_morpheme_markup(text):
     return LEGACY_STRONG_RE.sub(r'**\g<content>**', text)
 
 
+def protect_jinja_links(text):
+    replacements = []
+
+    def replace_link(match):
+        placeholder = f'https://mdformat.invalid/jinja-link-{len(replacements)}'
+        destination = match.group('destination')[1:-1]
+        replacements.append((placeholder, destination))
+        return f'[{match.group("label")}]({placeholder})'
+
+    return JINJA_LINK_RE.sub(replace_link, text), replacements
+
+
+def restore_jinja_links(text, replacements):
+    for placeholder, destination in replacements:
+        text = text.replace(placeholder, destination)
+    return text
+
+
 def normalized_text(path):
     old_text = path.read_text(encoding='utf-8-sig')
+    prepared_text, jinja_links = protect_jinja_links(
+        standardize_morpheme_markup(old_text)
+    )
     new_text = mdformat.text(
-        standardize_morpheme_markup(old_text),
+        prepared_text,
         options=MDFORMAT_OPTIONS,
     )
+    new_text = restore_jinja_links(new_text, jinja_links)
     return new_text if new_text.endswith('\n') else new_text + '\n'
 
 

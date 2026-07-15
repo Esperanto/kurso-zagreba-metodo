@@ -1,21 +1,39 @@
-- estraro: Vorstand
-- tagmeze: mittags
-- posttagmeze: nachmittags
+- estraro:
+  - Vorstand
+  - Leitung
+- tagmeze:
+  - mittags
+  - am Mittag
+- posttagmeze:
+  - nachmittags
+  - am Nachmittag
 - malsata: hungrig
 - interkonsenti:
   - vereinbaren
   - sich einigen
-- manĝilaro: Besteck
+  - übereinkommen
+- manĝilaro:
+  - Besteck
+  - Essbesteck
 - vidpunkto:
   - Gesichtspunkt
   - Standpunkt
-- malfermilo: Öffner
-- noktomezo: Mitternacht
+  - Perspektive
+- malfermilo:
+  - Öffner
+- noktomezo:
+  - Mitternacht
 - publikigi:
   - veröffentlichen
   - bekannt machen
-- pagigi: bezahlen lassen
+  - publizieren
+- pagigi:
+  - bezahlen lassen
+  - zahlen lassen
 - duflanka:
   - zweiseitig
   - beidseitig
-- aliflanke: andererseits
+  - beiderseitig
+- aliflanke:
+  - andererseits
+  - auf der anderen Seite

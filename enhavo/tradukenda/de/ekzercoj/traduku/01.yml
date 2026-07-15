@@ -3,15 +3,23 @@
   - Arbeitstisch
   - Werktisch
 - esperantistino: Esperantistin
-- instruisto: Lehrer
-- hotelĉambro: Hotelzimmer
+- instruisto:
+  - Lehrer
+  - Lehrkraft
+- hotelĉambro:
+  - Hotelzimmer
+  - Zimmer im Hotel
 - enskribi:
   - einschreiben
   - eintragen
   - hineinschreiben
-- skribotablo: Schreibtisch
+- skribotablo:
+  - Schreibtisch
+  - Schreibpult
 - lingvisto:
   - Linguist
   - Sprachwissenschaftler
   - Sprachforscher
-- laboristino: Arbeiterin
+- laboristino:
+  - Arbeiterin
+  - Arbeitnehmerin

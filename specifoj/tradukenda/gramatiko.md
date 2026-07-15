@@ -10,11 +10,15 @@ lingvo; plibonigu nur la prezenton.
 - Eksplicitigu la regulecon de Esperanto, ekzemple `-as` egala por ĉiuj
   personoj, posedaj pronomoj = pronomo + `-a`, la vokala sistemo `-o`/`-a`/`-e`,
   kaj la tempaj vokaloj `i`–`a`–`o`.
-- Kontrastu kun la denaska lingvo de la lernanto.
+- Klarigu el la perspektivo de parolantoj de la cela lingvo. Se Esperanta
+  strukturo mankas en la cellingvo, funkcias alimaniere aŭ facile instigas
+  eraron, donu apartan klarigon kun kontrasto kaj mallonga ekzemplo.
 - Aldonu memorhelpilojn kaj avertojn pri stumbliloj, kiujn parolantoj de la cela
   lingvo emas fari.
-- Se vi aldonas aŭ ŝanĝas Esperantajn ekzemplojn, uzu nur bazan/fundamentan
-  Esperanton.
+- Por Esperantaj ekzemploj kaj vortelekto sekvu `uzataj-vortoj.md`.
+- Ne antaŭdonu respondojn de la samlecionaj ekzercoj: en gramatika klarigo ne
+  kopiu ekzaktajn traduk-taskajn vortojn kun iliaj tradukoj kiel ekzemplojn.
+  Elektu oftan, jam konatan aŭ analogan ekzemplon por instrui la saman ŝablonon.
 
 Formataj konvencioj:
 
@@ -47,7 +51,9 @@ enhavas pliajn klarigojn, ekzemplojn aŭ helpajn rimarkojn.
 La gramatiko devas doni al lernantoj la ilaron por solvi la ekzercojn de la
 sama leciono. Tial la temlistoj inkluzivas ne nur klasikajn gramatikajn
 titolojn, sed ankaŭ vortfaradajn ŝablonojn, frue bezonatajn tabelvortojn kaj
-ekzemplojn el la ekzercoj.
+ekzerco-rilatajn uzotipojn. Kiam speca ekzemplo devenas el ekzerco, ne
+transprenu ĝin kiel solvon en lernanto-videblan klarigon de la sama leciono;
+elektu oftan aŭ jam konatan analogan ekzemplon, kiu instruas la saman ŝablonon.
 
 Kiam vi redaktas gramatikan lecionon, komparu ĝian Markdown-dosieron kun la
 koncerna temlisto kaj kun la ekzercoj de la sama leciono. Certigu, ke ĉiuj

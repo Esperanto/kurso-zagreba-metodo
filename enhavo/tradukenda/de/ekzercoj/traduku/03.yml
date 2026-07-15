@@ -1,25 +1,42 @@
-- antaŭĉambro: Vorzimmer
-- malamiko: Feind
+- antaŭĉambro:
+  - Vorzimmer
+  - Vorraum
+- malamiko:
+  - Feind
+  - Gegner
 - malantaŭ: hinter
-- antaŭvidi: vorhersehen
-- malrapida: langsam
+- antaŭvidi:
+  - vorhersehen
+  - voraussehen
+- malrapida:
+  - langsam
 - trarigardi:
   - durchsehen
   - durchschauen
 - junulo: Jugendlicher
-- malmulte: wenig
+- malmulte:
+  - wenig
 - finfine:
   - schließlich
   - letztendlich
+  - endlich
 - malriĉulo:
   - Armer
   - armer Mensch
-- tagmanĝo: Mittagessen
-- tralegi: durchlesen
+  - Bedürftiger
+- tagmanĝo:
+  - Mittagessen
+  - Mittagmahl
+- tralegi:
+  - durchlesen
+  - zu Ende lesen
+  - vollständig lesen
 - malnova:
   - alt
-  - nicht neu
-- laborejo: Arbeitsplatz
+- laborejo:
+  - Arbeitsplatz
+  - Arbeitsstätte
+  - Arbeitsstelle
 - travidebla:
   - durchsichtig
   - transparent

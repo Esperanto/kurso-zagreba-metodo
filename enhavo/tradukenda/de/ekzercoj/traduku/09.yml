@@ -1,26 +1,52 @@
-- nekredebla: unglaublich
-- organizado: Organisation
-- informado: Information
+- nekredebla:
+  - unglaublich
+- organizado:
+  - Organisation
+  - Organisieren
+- informado:
+  - Information
+  - Informieren
 - libervole:
   - freiwillig
   - aus freien Stücken
 - parolado:
   - Rede
   - Vortrag
-- survoje: unterwegs
-- homaro: Menschheit
+  - Ansprache
+- survoje:
+  - unterwegs
+  - auf dem Weg
+- homaro:
+  - Menschheit
 - kredeble:
   - vermutlich
   - wahrscheinlich
-- kunvojaĝi: mitreisen
+  - wohl
+- kunvojaĝi:
+  - mitreisen
+  - mitfahren
 - manĝaĵo:
   - Essen
   - Speise
-- novaĵo: Neuigkeit
+  - Nahrung
+- novaĵo:
+  - Neuigkeit
+  - Nachricht
+  - Neues
 - vagonaro:
   - Zug
   - Eisenbahnzug
-- ĉirkaŭaĵo: Umgebung
-- parolrajto: Rederecht
-- domaĉo: Bruchbude
-- tiuokaze: in diesem Fall
+- ĉirkaŭaĵo:
+  - Umgebung
+  - Umfeld
+- parolrajto:
+  - Rederecht
+  - Sprechrecht
+  - Recht zu sprechen
+- domaĉo:
+  - Bruchbude
+  - baufälliges Haus
+- tiuokaze:
+  - in diesem Fall
+  - in dem Fall
+  - dann

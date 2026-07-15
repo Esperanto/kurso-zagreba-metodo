@@ -17,6 +17,9 @@ Konservu la Markdown-formaton kaj la placeholder-ojn:
 - `{{ url.kartaro }}`
 - `{{ url.anki }}`
 
+Ne aldonu horizontalan Markdown-linion fine de la dosiero. Se tia linio jam
+estas tie, forigu ĝin.
+
 Se iu lingvo jam havas pluan, netipan enhavon, ekzemple priskribon de la
 kursostrukturo aŭ mencion pri mobil-optimumigo kiel en `de/`, lasu ĝin. Nur
 korektu ĝin lingve kaj akordigu la kernon kun la angla.

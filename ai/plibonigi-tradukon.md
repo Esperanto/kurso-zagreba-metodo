@@ -27,6 +27,8 @@ strukturon**.
 - Konservu la ekzistantan tonon kaj rektan alparolon al lernantoj.
 - Apliku la detalajn regulojn en `specifoj/tradukenda/`; tie troviĝas la
   fonto de vero por gramatikaj ekzemploj kaj akcepteblaj ekzerco-respondoj.
+- Ĉe `enkonduko.md`, atentu aparte la enkondukan specifon: ne lasu aŭ aldonu
+  finan horizontalan Markdown-linion.
 - Ne ŝanĝu la netradukendan Esperantan fontenhavon.
 
 ## Specifoj

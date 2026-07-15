@@ -1,6 +1,6 @@
 - demando: Werden wir uns wiedersehen, wo und wann auch immer?
   rektatraduko:
-  - Ĉu: Zeichen für eine Ja/Nein-Frage
+  - Ĉu: ob
   - ni: wir
   - revidos: wiedersehen
   - nin: uns
@@ -25,7 +25,7 @@
   - '?'
 - demando: Wirst du mehr als ein Vierteljahr für diese Arbeiten benötigen?
   rektatraduko:
-  - Ĉu: Zeichen für eine Ja/Nein-Frage
+  - Ĉu: ob
   - vi: du
   - bezonos: wirst benötigen
   - pli: mehr
@@ -52,7 +52,7 @@
   - '?'
 - demando: Wärst du mit jedem beliebigen Mann zufrieden?
   rektatraduko:
-  - Ĉu: Zeichen für eine Ja/Nein-Frage
+  - Ĉu: ob
   - vi: du
   - estus: wärst
   - kontenta: zufrieden

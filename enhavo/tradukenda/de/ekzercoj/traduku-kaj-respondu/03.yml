@@ -1,6 +1,6 @@
 - demando: Verstehen Kellner in großen Hotels viele Sprachen?
   rektatraduko:
-  - Ĉu: Zeichen für eine Ja/Nein-Frage
+  - Ĉu: ob
   - kelneroj: Kellner
   - en: in
   - grandaj: großen
@@ -11,7 +11,7 @@
   - '?'
 - demando: Weißt du, ob Ana das neue Lied über einen armen Mann und eine schöne Frau mag?
   rektatraduko:
-  - Ĉu: Zeichen für eine Ja/Nein-Frage
+  - Ĉu: ob
   - vi: du
   - scias: weißt
   - ','
@@ -58,7 +58,7 @@
   - '?'
 - demando: Kannst du mit dem neuen Lehrbuch ziemlich schnell Esperanto lernen?
   rektatraduko:
-  - Ĉu: Zeichen für eine Ja/Nein-Frage
+  - Ĉu: ob
   - vi: du
   - povas: kannst
   - per: mittels

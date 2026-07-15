@@ -1,6 +1,6 @@
 - demando: Macht dich Freundschaft glücklicher als die Liebe?
   rektatraduko:
-  - Ĉu: Zeichen für eine Ja/Nein-Frage
+  - Ĉu: ob
   - amikeco: Freundschaft
   - pli: mehr
   - feliĉigas: macht glücklich
@@ -24,7 +24,7 @@
   - '?'
 - demando: Hat sich die Beziehung zwischen dir und deinem Lehrer geändert?
   rektatraduko:
-  - Ĉu: Zeichen für eine Ja/Nein-Frage
+  - Ĉu: ob
   - la: die
   - rilato: Beziehung
   - inter: zwischen
@@ -36,7 +36,7 @@
   - '?'
 - demando: Beherrschst du Esperanto jetzt schon gut genug?
   rektatraduko:
-  - Ĉu: Zeichen für eine Ja/Nein-Frage
+  - Ĉu: ob
   - vi: du
   - nun: jetzt
   - jam: schon

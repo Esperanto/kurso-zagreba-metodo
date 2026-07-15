@@ -23,8 +23,8 @@ temojn aŭ evitas antaŭdoni ekzerco-respondojn.
   kopiu ekzaktajn traduk-taskajn vortojn kun iliaj tradukoj kiel ekzemplojn.
   Elektu oftan, jam konatan aŭ analogan ekzemplon por instrui la saman ŝablonon.
 - Kiam gramatiko enkondukas funkcisignon aŭ helpvorton, kiu poste aperas en
-  `rektatraduko`, donu mallongan lernan signalon. Uzu la saman signalon poste
-  en `rektatraduko`, por ke lernanto rekonu ĝin.
+  `rektatraduko`, donu mallongan lernan signalon en la cellingvo. Preferu
+  simplan ordinaran vorton aŭ gloson, ne metapriskribon.
 
 Formataj konvencioj:
 

@@ -5,6 +5,5 @@
 Depois do curso, você vai **entender o essencial**, formar suas próprias frases e conseguir comunicar ideias básicas em situações do dia a dia.
 
 Experimente!
-____
 
 Participe de [nosso grupo de apoio](https://www.facebook.com/groups/esperanto12dias/) para tirar suas dúvidas

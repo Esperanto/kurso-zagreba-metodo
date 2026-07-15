@@ -5,4 +5,3 @@
 Baigę kursą **suprasite pagrindus**, kursite savo sakinius ir galėsite paprastai bendrauti kasdienėse situacijose.
 
 Tiesiog pabandykite!
-____

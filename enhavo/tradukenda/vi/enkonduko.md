@@ -5,4 +5,3 @@
 Sau khóa học, bạn sẽ **hiểu những điều cốt yếu**, tự đặt câu và có thể truyền đạt các ý cơ bản trong những tình huống hằng ngày.
 
 Hãy thử nhé!
-____

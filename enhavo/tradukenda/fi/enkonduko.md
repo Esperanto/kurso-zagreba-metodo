@@ -5,4 +5,3 @@
 Kurssin jälkeen **ymmärrät olennaiset asiat**, osaat muodostaa omia lauseita ja pystyt ilmaisemaan perusajatuksia arjen tilanteissa.
 
 Kokeile vain!
-____

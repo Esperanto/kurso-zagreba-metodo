@@ -5,4 +5,3 @@
 Dopo il corso **capirai l'essenziale**, formerai le tue frasi e saprai comunicare idee di base nelle situazioni quotidiane.
 
 Provalo!
-____

@@ -5,4 +5,3 @@
 lon pini pi lipu sona ni la sina **sona e ijo suli**, sina ken pali e toki sina, li ken pana e sona lili lon tenpo ale.
 
 o lukin taso!
-____

@@ -8,17 +8,22 @@ prompta dosiero.
 Por laboro pri unu lingvo:
 
 1. Agordu `LINGVO`, ekzemple `LINGVO=de`.
-2. Laboru nur en `enhavo/tradukenda/${LINGVO}/**`.
+2. Por ordinara lingva tasko, laboru nur en
+   `enhavo/tradukenda/${LINGVO}/**`.
 3. Legu la koncernajn specifojn en ĉi tiu dosierujo antaŭ redaktado.
-4. Ne ŝanĝu la netradukendan Esperantan fontenhavon.
+4. Redaktu ĉi tiujn specifojn aŭ aliajn komunajn dosierojn nur se la tasko tion
+   klare petas.
+5. Ne ŝanĝu la netradukendan Esperantan fontenhavon.
 
 Ĝeneralaj reguloj:
 
 - Plibonigu tradukojn sen ŝanĝi la kursan strukturon.
 - Korektu gramatikajn, ortografiajn, interpunkciajn kaj stilajn erarojn en la
   cela lingvo.
-- Faru la tradukitan tekston natura, klara kaj lernanto-amika, sed restu fidele
+- Faru la videblan tekston natura, klara kaj lernanto-amika, sed restu fidele
   proksima al la Esperanta enhavo.
+- Se kampo estas intence lernhelpa, ekzemple `rektatraduko`, sekvu ĝian apartan
+  specifon.
 - Konservu la ekzistantan tonon kaj rektan alparolon al lernantoj.
 - Konservu validan YAML-on kaj Markdown-on.
 - Ne ŝanĝu dosiernomojn, ŝlosilojn, dosierujan strukturon aŭ generatoran kodon,

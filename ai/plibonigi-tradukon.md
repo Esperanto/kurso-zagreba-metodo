@@ -1,14 +1,15 @@
 # Prompto: plibonigi la tradukon de la Zagreba-metoda kurso
 
 Reuzebla prompto por plibonigi la tradukon de unu lingvo de la kurso —
-gramatikaj klarigoj, vortaro kaj ekzercoj. Agordu la cellingvon kaj laboru nur
-ene de ĝia dosierujo:
+gramatikaj klarigoj, vortaro kaj ekzercoj. Agordu la cellingvon:
 
 ```
 LINGVO=de
 ```
 
-Laboru nur en `enhavo/tradukenda/${LINGVO}/**`.
+Por ordinara lingva tasko, laboru nur en
+`enhavo/tradukenda/${LINGVO}/**`. Redaktu specifojn aŭ aliajn komunajn
+dosierojn nur kiam la tasko tion klare petas.
 
 ## Celo
 
@@ -19,8 +20,10 @@ strukturon**.
 
 - Korektu gramatikajn, ortografiajn, interpunkciajn kaj stilajn erarojn en la
   cela lingvo.
-- Faru la tradukitan tekston natura, klara kaj lernanto-amika, sed restu fidele
+- Faru la videblan tekston natura, klara kaj lernanto-amika, sed restu fidele
   proksima al la Esperanta enhavo.
+- Se kampo estas intence lernhelpa, ekzemple `rektatraduko`, sekvu ĝian apartan
+  specifon.
 - Konservu la ekzistantan tonon kaj rektan alparolon al lernantoj.
 - Apliku la detalajn regulojn en `specifoj/tradukenda/`; tie troviĝas la
   fonto de vero por gramatikaj ekzemploj kaj akcepteblaj ekzerco-respondoj.
@@ -42,5 +45,5 @@ merge-konfliktojn. Legu la koncernajn dosierojn antaŭ redaktado:
 - `specifoj/tradukenda/enkonduko.md` — enkonduko
 - `specifoj/tradukenda/post.md` — postkursa teksto
 
-Ne tuŝu dosierojn ekster `enhavo/tradukenda/${LINGVO}/**`, krom se aparta tasko
-eksplicite petas tion.
+Ne tuŝu dosierojn ekster `enhavo/tradukenda/${LINGVO}/**`, krom se la tasko
+klare petas tion.

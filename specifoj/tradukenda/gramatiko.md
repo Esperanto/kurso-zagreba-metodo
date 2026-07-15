@@ -2,8 +2,9 @@
 
 Koncernas `gramatiko/01.md` … `gramatiko/12.md`.
 
-Konservu la temojn, la sekcian strukturon kaj la Esperanto-ekzemplojn de la
-lingvo; plibonigu nur la prezenton.
+Konservu la celon de la leciono kaj la kursan strukturon. Vi rajtas reordigi
+sekciojn, aldoni klarigojn kaj ŝanĝi ekzemplojn, kiam tio helpas kovri la
+temojn aŭ evitas antaŭdoni ekzerco-respondojn.
 
 - Dispecigu densajn tekstblokojn en skaneblan strukturon: subtitoloj, mallongaj
   alineoj kaj listeroj.
@@ -33,8 +34,9 @@ Formataj konvencioj:
 - Neniu ikono en titoloj; tio rompus la enhav-kontrolon
   `fonto/py/kontrolu_eligon.py`.
 - Ekzemplojn post dupunkto metu kiel apartajn listerojn, ne inline.
-- Ekzemplo-formato: Esperanto-vorto unue, traduko en krampoj, sago al la
-  rezulto: `*skribi* (traduko) → *skribilo* (traduko)`.
+- Por vortfaradaj ekzemploj, skribu la bazan vorton, poste sagon al la nova
+  vorto: `*skribi* (traduko) → *skribilo* (traduko)`.
+- Por frazaj ekzemploj, skribu simplan Esperantan frazon kaj poste la tradukon.
 - Krucreferencojn faru ligiloj: `[<leciono> 6](/${LINGVO}/06/gramatiko/)`.
 - La tabelon de korelativoj ligu al `[<korelativoj>](/${LINGVO}/tabelvortoj/)`.
 - Ne skribu nudan «(leciono 5)».

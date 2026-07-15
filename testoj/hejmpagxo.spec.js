@@ -35,6 +35,10 @@ async function readPwaLastUrl(page) {
   return record && record.url;
 }
 
+async function readPwaLastRecord(page) {
+  return readPwaRecord(page, 'en|last');
+}
+
 async function emulateStandalonePwa(page) {
   await page.addInitScript(() => {
     const originalMatchMedia = window.matchMedia.bind(window);
@@ -192,9 +196,10 @@ test('PWA-logoligilo iras al startpaĝo anstataŭ rekomenci konservitan paĝon',
   await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
   await expect.poll(() => page.evaluate(() => window.scrollY)).toBeGreaterThan(100);
   await expect.poll(async () => {
-    const record = await readPwaRecord(page, 'en|page|/en/');
-    return record && record.scrollY;
+    const record = await readPwaLastRecord(page);
+    return record && record.url === '/en/' && record.scrollY;
   }).toBeGreaterThan(100);
+  await expect.poll(() => readPwaRecord(page, 'en|page|/en/')).toBe(null);
 
   await page.goto('/en/06/gramatiko/');
 
@@ -209,6 +214,28 @@ test('PWA-logoligilo iras al startpaĝo anstataŭ rekomenci konservitan paĝon',
   await page.waitForTimeout(600);
   await expect(page).toHaveURL(/\/en\/$/);
   await expect.poll(() => page.evaluate(() => window.scrollY)).toBe(0);
+});
+
+test('PWA ekstera remalfermo rekomencas lastan paĝon kaj rulpozicion', async ({ page }) => {
+  await emulateStandalonePwa(page);
+  await page.setViewportSize({ width: 390, height: 667 });
+  await page.goto('/en/06/gramatiko/');
+
+  await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBeGreaterThan(100);
+  await expect.poll(async () => {
+    const record = await readPwaLastRecord(page);
+    return record && record.url === '/en/06/gramatiko/' && record.scrollY;
+  }).toBeGreaterThan(100);
+  await expect.poll(() => readPwaRecord(page, 'en|page|/en/06/gramatiko/')).toBe(null);
+
+  const reopenedPage = await page.context().newPage();
+  await emulateStandalonePwa(reopenedPage);
+  await reopenedPage.goto('/en/');
+
+  await expect(reopenedPage).toHaveURL(/\/en\/06\/gramatiko\/$/);
+  await expect.poll(() => reopenedPage.evaluate(() => window.scrollY)).toBeGreaterThan(100);
+  await reopenedPage.close();
 });
 
 test('startpaĝa lingvoelektilo vicigxas kun la titoloj', async ({ page }) => {

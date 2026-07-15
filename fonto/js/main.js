@@ -20,6 +20,7 @@ $(document).ready(function(){
   $('.container table').addClass('table');
 
   var pwaInstallButton = document.querySelector('[data-pwa-install]');
+  var pwaInstallHelp = document.querySelector('[data-pwa-install-help]');
   if (pwaInstallButton) {
     function estasMemstaraPwa() {
       return navigator.standalone === true
@@ -30,20 +31,32 @@ $(document).ready(function(){
         || document.documentElement.classList.contains('pwa-standalone');
     }
 
-    function estasFirefoxAndroid() {
-      var userAgent = navigator.userAgent || '';
-      return /Android/i.test(userAgent) && /Firefox\/\d/i.test(userAgent);
+    function subtenasBeforeInstallPrompt() {
+      return 'onbeforeinstallprompt' in window;
+    }
+
+    function montruPwaInstallHelp(montru) {
+      if (!pwaInstallHelp) {
+        return;
+      }
+      pwaInstallHelp.classList.toggle('d-none', !montru);
+      pwaInstallButton.setAttribute('aria-expanded', montru ? 'true' : 'false');
     }
 
     function gxisdatiguPwaInstallButton() {
-      var instalebla = !estasMemstaraPwa() && (!!window.pwaInstallPrompt || estasFirefoxAndroid());
+      var instalebla = !estasMemstaraPwa()
+        && (!!window.pwaInstallPrompt || !subtenasBeforeInstallPrompt());
       pwaInstallButton.classList.toggle('d-none', !instalebla);
       pwaInstallButton.disabled = !instalebla;
+      if (!instalebla) {
+        montruPwaInstallHelp(false);
+      }
     }
 
     window.addEventListener('beforeinstallprompt', function(e) {
       e.preventDefault();
       window.pwaInstallPrompt = e;
+      montruPwaInstallHelp(false);
       gxisdatiguPwaInstallButton();
     });
 
@@ -55,12 +68,9 @@ $(document).ready(function(){
     pwaInstallButton.addEventListener('click', function() {
       var installPrompt = window.pwaInstallPrompt;
       if (!installPrompt) {
-        if (estasFirefoxAndroid()) {
-          var mesaĝo = pwaInstallButton.getAttribute('data-pwa-mana-instalo');
-          if (mesaĝo) {
-            window.alert(mesaĝo);
-            return;
-          }
+        if (!subtenasBeforeInstallPrompt()) {
+          montruPwaInstallHelp(true);
+          return;
         }
         gxisdatiguPwaInstallButton();
         return;
@@ -75,6 +85,7 @@ $(document).ready(function(){
       }
 
       window.pwaInstallPrompt = null;
+      montruPwaInstallHelp(false);
       gxisdatiguPwaInstallButton();
     });
 

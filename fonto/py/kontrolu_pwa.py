@@ -97,6 +97,10 @@ def check_registration(output_dir, lingvo):
         'la startpaĝo ne havas PWA-instalbutonon: ' + lingvo,
     )
     require(
+        'data-pwa-install-help' in text,
+        'la startpaĝo ne havas PWA-instalan helpotekston: ' + lingvo,
+    )
+    require(
         'btn-outline-primary btn-lg pwa-install-butono pwa-standalone-kasxita' in text,
         'la PWA-instalbutono ne havas la atendatajn klasojn: ' + lingvo,
     )

@@ -305,6 +305,12 @@ html:lang(th) .lingva-startpagxo-titoloj {
   justify-content: center;
   margin-bottom: 1.5rem;
 }
+.pwa-instala-helpo {
+  flex-basis: 100%;
+  margin: 0.25rem auto 0;
+  max-width: 36rem;
+  text-align: center;
+}
 .lingva-startpagxo-lingvoj {
   max-height: min(70vh, 24rem);
   overflow-y: auto;

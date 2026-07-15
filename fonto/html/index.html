@@ -56,16 +56,25 @@
   <div class="lingva-startpagxo-agoj">
     <a class="btn btn-primary btn-lg" href="{{vojprefikso}}01">{{enhavo.fasado['Ek']}}</a>
     {% if enhavo.havas_pwa %}
-      {% set pwa_mana_instalo = 'Firefox ne povas rekte malfermi la instalinviton. Malfermu la retumilan menuon kaj elektu Instali aŭ Aldoni al starta ekrano.' %}
-      {% set pwa_mana_instalo_teksto = enhavo.fasado['PWA-instala helpo por Firefox Android']|default(pwa_mana_instalo, true) %}
+      {% set pwa_mana_instalo = 'Malfermu la retumilan menuon kaj elektu Instali aŭ Aldoni al starta ekrano por instali la apon.' %}
+      {% set pwa_mana_instalo_teksto = enhavo.fasado['PWA-instala helpo']|default(pwa_mana_instalo, true) %}
       <button
         class="btn btn-outline-primary btn-lg pwa-install-butono pwa-standalone-kasxita d-none"
         type="button"
         data-pwa-install
-        data-pwa-mana-instalo="{{pwa_mana_instalo_teksto}}"
+        aria-expanded="false"
+        aria-controls="pwa-instala-helpo"
       >
         {{enhavo.fasado['Instalu apon']|default('Instalu apon', true)}}
       </button>
+      <div
+        id="pwa-instala-helpo"
+        class="alert alert-info pwa-instala-helpo pwa-standalone-kasxita d-none"
+        data-pwa-install-help
+        role="status"
+      >
+        {{pwa_mana_instalo_teksto}}
+      </div>
     {% endif %}
   </div>
 

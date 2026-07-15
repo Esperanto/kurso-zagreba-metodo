@@ -103,26 +103,25 @@ test('startpaĝa instalbutono malfermas la PWA-inviton', async ({ page }) => {
   await expect(installButton).toBeHidden();
 });
 
-test('startpaĝa instalbutono helpas en Firefox por Android', async ({ browser }) => {
-  const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Android 14; Mobile; rv:144.0) Gecko/144.0 Firefox/144.0',
+test('startpaĝa instalbutono helpas sen beforeinstallprompt', async ({ page }) => {
+  await page.addInitScript(() => {
+    delete window.onbeforeinstallprompt;
   });
-  const page = await context.newPage();
 
   await page.goto('/en/');
 
   const installButton = page.locator('[data-pwa-install]');
+  const installHelp = page.locator('[data-pwa-install-help]');
   await expect(installButton).toBeVisible();
+  await expect(installButton).toHaveAttribute('aria-expanded', 'false');
+  await expect(installHelp).toBeHidden();
 
-  const dialogPromise = page.waitForEvent('dialog');
-  const clickPromise = installButton.click();
-  const dialog = await dialogPromise;
-  expect(dialog.message()).toContain('Firefox cannot open the install prompt directly.');
-  expect(dialog.message()).toContain('Add to Home screen');
-  await dialog.accept();
-  await clickPromise;
-
-  await context.close();
+  await installButton.click();
+  await expect(installButton).toHaveAttribute('aria-expanded', 'true');
+  await expect(installHelp).toBeVisible();
+  await expect(installHelp).toHaveText(
+    'Open the browser menu and choose Install or Add to Home screen to install the app.',
+  );
 });
 
 test('startpaĝa lingvoelektilo vicigxas kun la titoloj', async ({ page }) => {

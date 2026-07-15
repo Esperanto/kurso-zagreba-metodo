@@ -49,6 +49,7 @@ ET.register_namespace('', SITEMAP_NS)
 
 
 def morfema_emfazo(md):
+    # Retrokongrue subtenu malnovan morfem-markadon kiel *lern__i__*.
     def parse_morfema_emfazo(inline, match, state):
         child_state = state.copy()
         child_state.src = match.group('morfemo')

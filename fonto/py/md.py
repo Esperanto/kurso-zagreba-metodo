@@ -14,7 +14,7 @@ FONTO_DIR = Path(__file__).resolve().parents[1]
 
 def preparu_enhavon(enhavo):
     enhavo = deepcopy(enhavo)
-    # Ŝanĝu __ al **, ĉar nur tio Pandoc ŝajne komprenas.
+    # Retrokongruo por malnova morfem-markado: Pandoc bezonas **.
     for leciono in enhavo['lecionoj']:
         leciono['gramatiko']['teksto'] = leciono['gramatiko']['teksto'].replace('__', '**')
     return enhavo

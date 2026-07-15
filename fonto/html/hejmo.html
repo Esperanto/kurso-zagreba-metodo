@@ -12,6 +12,10 @@
     {% for alterna in seo.alternaj_ligiloj %}
       <link rel="alternate" hreflang="{{alterna.hreflang}}" href="{{alterna.url}}" />
     {% endfor %}
+    <meta property="og:locale" content="{{seo.og_locale}}" />
+    {% for locale in seo.og_locale_alternativoj %}
+      <meta property="og:locale:alternate" content="{{locale}}" />
+    {% endfor %}
     <meta property="og:image" content="{{site_url}}/assets/img/og.png" />
     <title>Learn Esperanto | The Fastest Basics Course</title>
 

@@ -29,6 +29,41 @@ GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
 LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
+OG_LOCALE_OVERRIDES = {
+    'ar': 'ar_SA',
+    'ca': 'ca_ES',
+    'cs': 'cs_CZ',
+    'da': 'da_DK',
+    'de': 'de_DE',
+    'el': 'el_GR',
+    'en': 'en_US',
+    'es': 'es_ES',
+    'fa': 'fa_IR',
+    'fr': 'fr_FR',
+    'ga': 'ga_IE',
+    'he': 'he_IL',
+    'hr': 'hr_HR',
+    'hu': 'hu_HU',
+    'id': 'id_ID',
+    'is': 'is_IS',
+    'it': 'it_IT',
+    'ja': 'ja_JP',
+    'ko': 'ko_KR',
+    'ms': 'ms_MY',
+    'nl': 'nl_NL',
+    'pl': 'pl_PL',
+    'pt': 'pt_PT',
+    'ru': 'ru_RU',
+    'sk': 'sk_SK',
+    'sl': 'sl_SI',
+    'sv': 'sv_SE',
+    'th': 'th_TH',
+    'tr': 'tr_TR',
+    'uk': 'uk_UA',
+    'vi': 'vi_VN',
+    'zh': 'zh_CN',
+    'zh-tw': 'zh_TW',
+}
 LLMS_FULL_PRINTENDAJ = {
     'partoj': (
         'teksto',
@@ -183,6 +218,22 @@ def pretaj_lingvokodoj(lingvoj):
     ]
 
 
+def og_locale(lingvokodo):
+    return OG_LOCALE_OVERRIDES.get(lingvokodo, lingvokodo.replace('-', '_'))
+
+
+def alternaj_og_localej(lingvoj, nuna_lingvo):
+    nuna_locale = og_locale(nuna_lingvo)
+    return [
+        locale
+        for locale in [
+            og_locale(kodo)
+            for kodo in pretaj_lingvokodoj(lingvoj)
+        ]
+        if locale != nuna_locale
+    ]
+
+
 def normaligu_relativan_vojon(relativa_vojo):
     if not relativa_vojo:
         return ''
@@ -227,6 +278,12 @@ def seo_datenoj(enhavo, relativa_vojo=''):
     return {
         'canonical_url': absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
         'alternaj_ligiloj': alternaj,
+        'og_locale': og_locale(lingvo),
+        'og_locale_alternativoj': (
+            alternaj_og_localej(enhavo['lingvoj'], lingvo)
+            if stato == 'preta'
+            else []
+        ),
         'meta_description': meta_description_from_markdown(enhavo['enkonduko']),
         'noindex': stato == 'testa',
     }
@@ -249,6 +306,12 @@ def hejma_seo_datenoj(hejmaj_lingvoj):
     return {
         'canonical_url': absoluta_url('/'),
         'alternaj_ligiloj': alternaj,
+        'og_locale': og_locale('en'),
+        'og_locale_alternativoj': [
+            og_locale(kodo)
+            for kodo in lingvokodoj
+            if og_locale(kodo) != og_locale('en')
+        ],
         'noindex': False,
     }
 

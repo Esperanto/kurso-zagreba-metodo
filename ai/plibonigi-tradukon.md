@@ -69,6 +69,9 @@ Formataj konvencioj:
   «ego») al `*libr__eg__o*`.
 - **Tabeloj ne rendiĝas** (mankas tabela kromaĵo en mistune) — ne uzu
   inline-Markdown-tabelon; ligu al `/${LINGVO}/tabelvortoj/`.
+- Post gramatikaj ŝanĝoj rulu `make raportu-gramatikon LINGVO=${LINGVO}` kaj
+  kontrolu la raporton: menciu en la PR-priskribo aŭ `neniu mankanta temo`, aŭ
+  la intence restantajn mankantajn temojn.
 
 ## Vortaro (`vortaro/*.yml`)
 
@@ -184,5 +187,6 @@ kontaktaj ebloj.
 
 1. Ekde aktuala `master` kreu novan branĉon (neniam enmetu rekte al `master`).
 2. Legu la dosierojn de la lingvo antaŭ ol redakti.
-3. `make check` devas sukcesi antaŭ ĉiu enmeto.
-4. Puŝu kaj kreu PR per `gh`, kun titolo kaj priskribo en Esperanto.
+3. Post gramatikaj ŝanĝoj rulu `make raportu-gramatikon LINGVO=${LINGVO}`.
+4. `make check` devas sukcesi antaŭ ĉiu enmeto.
+5. Puŝu kaj kreu PR per `gh`, kun titolo kaj priskribo en Esperanto.

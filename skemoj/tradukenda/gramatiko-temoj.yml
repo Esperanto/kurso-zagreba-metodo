@@ -1,0 +1,389 @@
+'01':
+- id: alfabeto
+  ankroj:
+  - a, b, c, ĉ
+  - ŭ, v, z
+- id: prononco
+  ankroj:
+  - amiko
+  - ĉambro
+  - ĝi
+- id: akcento
+  ankroj:
+  - te-le-fo-no
+  - ra-di-o
+  - an-kaŭ
+- id: artikolo_la
+  ankroj:
+  - la amiko
+  - la laboro
+- id: personaj_pronomoj
+  ankroj:
+  - mi
+  - vi
+  - li
+  - ŝi
+  - ĝi
+  - ni
+  - ili
+- id: posedaj_pronomoj
+  ankroj:
+  - mia
+  - via
+  - lia
+  - ŝia
+  - nia
+  - ilia
+- id: substantivo_o
+  ankroj:
+  - tablo
+  - lernanto
+- id: pluralo_j
+  ankroj:
+  - tabloj
+  - lernantoj
+- id: verboj_i_as
+  ankroj:
+  - lerni
+  - labori
+  - esti
+  - sidas
+- id: cxu
+  ankroj:
+  - ĉu vi sidas
+  - ĉu vi skribas
+- id: kiu
+  ankroj:
+  - kiu vi estas
+  - kiu instruisto
+- id: sufikso_ist
+  ankroj:
+  - instruisto
+  - hotelisto
+  - esperantisto
+- id: sufikso_in
+  ankroj:
+  - patrino
+  - lernantino
+  - instruistino
+- id: jes
+  ankroj:
+  - jes
+  - ĉu vi estas en la ĉambro
+- id: ne
+  ankroj:
+  - ne
+  - mi ne estas en la ĉambro
+'02':
+- id: adjektivoj_a
+  ankroj:
+  - bela
+  - granda frato
+  - malgranda fratino
+- id: kazoj_n
+  ankroj:
+  - kiun mi vidas
+  - amikon
+  - bonajn amikojn
+  - de mia frato
+- id: konjugacio
+  ankroj:
+  - labori
+  - laboras
+  - laboris
+  - laboros
+- id: ke
+  ankroj:
+  - ke mi manĝas
+  - ke li iros
+- id: prefikso_mal
+  ankroj:
+  - malbona
+  - malgranda
+  - malbela
+- id: prefikso_ge
+  ankroj:
+  - gefratoj
+  - gepatroj
+- id: gxentilaj_esprimoj
+  ankroj:
+  - bonvolu
+  - dankon
+  - saluton
+- id: vortordo
+  ankroj:
+  - mi legas libron
+  - libron mi legas
+- id: kio_kion
+  ankroj:
+  - kio estas tio
+  - kion vi faras
+'03':
+- id: adverboj_e
+  ankroj:
+  - bele
+  - forte
+  - veturi rapide
+- id: prepozicio_per
+  ankroj:
+  - per kulero
+  - per tre bela voĉo
+- id: prepozicio_kun
+  ankroj:
+  - kun la amiko
+  - kun li
+- id: prepozicio_post
+  ankroj:
+  - post mi
+  - post du horoj
+  - poste
+- id: prepozicio_malantaux
+  ankroj:
+  - malantaŭ mi
+- id: sufikso_ul
+  ankroj:
+  - grandulo
+  - malbonulo
+  - belulino
+- id: sufikso_ej
+  ankroj:
+  - lernejo
+  - kuirejo
+  - laborejo
+- id: sufikso_ebl
+  ankroj:
+  - manĝebla
+  - videbla
+  - kompreneble
+  - eble
+  - malebla
+- id: imperativo
+  ankroj:
+  - manĝu
+  - iru
+  - lernu
+  - vidu
+'04':
+- id: nombroj
+  ankroj:
+  - mil du-cent
+  - dek-unu
+  - dek-kvin
+- id: direkta_akuzativo
+  ankroj:
+  - en la domon
+  - sur la tablon
+- id: pronomo_oni
+  ankroj:
+  - oni manĝas
+  - oni sidas
+- id: pronomo_si
+  ankroj:
+  - lavas sin
+  - rigardas sin
+  - al si
+- id: prefikso_re
+  ankroj:
+  - revidi
+  - redoni
+  - remeti
+'05':
+- id: tabelvortoj
+  ankroj:
+  - ĉio
+  - ĉiu
+  - ĉiuj
+  - ĉiam
+  - iom
+- id: kio
+  ankroj:
+  - kion vi manĝas
+  - kukon mi manĝas
+- id: kiu
+  ankroj:
+  - kiu
+  - kiun
+  - kiuj
+  - kiujn
+- id: kia
+  ankroj:
+  - kia estas la vetero
+  - kian aŭton
+  - kiaj estas
+  - kiajn fotojn
+- id: kie
+  ankroj:
+  - kie mi estas
+  - kien vi iras
+- id: tabelvortoj_kun_prepozicioj
+  ankroj:
+  - al kiu
+  - kun kiu
+  - al tiu
+  - inter tiuj
+- id: komparacio
+  ankroj:
+  - pli bona
+  - plej bona
+  - ol vi
+  - el ĉiuj
+- id: dum
+  ankroj:
+  - dum la manĝo
+  - dum li legas
+- id: cxi
+  ankroj:
+  - tiu ĉi
+  - ĉi tiu
+  - tie ĉi
+  - ĉi tie
+- id: sufikso_ind
+  ankroj:
+  - aŭskultinda
+  - leginda
+  - bedaŭrinde
+  - nedankinde
+'06':
+- id: u_en_subfrazoj
+  ankroj:
+  - ke vi lernu
+  - ke mi iru
+- id: prepozicio_je
+  ankroj:
+  - je kioma horo
+  - je la kvina horo
+- id: verbo_farti
+  ankroj:
+  - kiel vi fartas
+- id: sufikso_et
+  ankroj:
+  - libreto
+  - beleta
+  - varmeta
+- id: sufikso_eg
+  ankroj:
+  - librego
+  - varmega
+  - belega
+  - bonega
+- id: sufikso_igx
+  ankroj:
+  - riĉiĝi
+  - trankviliĝi
+  - resaniĝi
+  - geedziĝi
+'07':
+- id: neado
+  ankroj:
+  - nek li nek ŝi
+  - nek sidas nek rigardas
+  - neniam
+- id: mem
+  ankroj:
+  - mi mem faris
+- id: adiauxo
+  ankroj:
+  - ĝis la revido
+  - ĝis revido
+- id: prefikso_ek
+  ankroj:
+  - ekparoli
+  - eksilenti
+  - eksidi
+  - ekridi
+- id: sufikso_ajx
+  ankroj:
+  - manĝaĵo
+  - trinkaĵo
+  - belaĵo
+  - sendaĵo
+08:
+- id: prepozicio_da
+  ankroj:
+  - kilogramo da sukero
+  - glaso da akvo
+  - multe da ideoj
+- id: sufikso_ig
+  ankroj:
+  - beligi
+  - malplenigi
+  - sanigi
+  - mortigi
+- id: sufikso_acx
+  ankroj:
+  - hundaĉo
+  - knabaĉo
+  - skribaĉi
+09:
+- id: kondicionalo
+  ankroj:
+  - kredus
+  - estus sana
+  - estus tre feliĉa
+- id: kvazaux
+  ankroj:
+  - kvazaŭ vi estus riĉulo
+  - kvazaŭ riĉulo
+- id: sufikso_ad
+  ankroj:
+  - kantado
+  - suferado
+  - rigardadi
+  - demandadi
+  - informado
+- id: sufikso_ar
+  ankroj:
+  - arbaro
+  - vagonaro
+  - vortaro
+- id: sufikso_um
+  ankroj:
+  - plenumi
+  - proksimume
+  - sunumi
+  - malvarmumi
+'10':
+- id: sufikso_an
+  ankroj:
+  - klubano
+  - amerikano
+  - samlandano
+  - samideano
+- id: sufikso_ec
+  ankroj:
+  - beleco
+  - varmeco
+  - simpleco
+- id: sufikso_uj
+  ankroj:
+  - manĝujo
+  - cindrujo
+  - Francujo
+  - Aŭstrujo
+  - pomujo
+'11':
+- id: sufikso_il
+  ankroj:
+  - tranĉilo
+  - hakilo
+  - ŝlosilo
+  - timigilo
+'12':
+- id: ju_des
+  ankroj:
+  - ju pli
+  - des pli
+  - ju pli longe
+- id: ajn
+  ankroj:
+  - kiom ajn
+- id: prefikso_dis
+  ankroj:
+  - disĵeti
+  - dissendi
+- id: sufikso_on
+  ankroj:
+  - duono
+  - triono
+  - kvarono
+  - sesono

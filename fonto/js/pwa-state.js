@@ -106,6 +106,7 @@
   var pendingInputTimer = null;
   var scrollTimer = null;
   var restoringInputs = false;
+  var manualRootNavigationTaken = false;
 
   function openDb() {
     return new Promise(function (resolve, reject) {
@@ -284,7 +285,8 @@
       var key = manualRootNavigationKey();
       var target = window.sessionStorage.getItem(key);
       window.sessionStorage.removeItem(key);
-      return target === currentUrlKey();
+      manualRootNavigationTaken = target === currentUrlKey();
+      return manualRootNavigationTaken;
     } catch (error) {
       logStorageError(error);
       return false;
@@ -318,6 +320,9 @@
 
   function shouldRestoreScrollPosition() {
     var referrer = referrerUrlKey();
+    if (manualRootNavigationTaken) {
+      return false;
+    }
     if (takeResumeScrollTarget()) {
       return true;
     }

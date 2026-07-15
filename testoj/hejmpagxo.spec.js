@@ -1,7 +1,7 @@
 const { expect, test } = require('@playwright/test');
 
-async function readPwaLastUrl(page) {
-  return page.evaluate(() => new Promise((resolve, reject) => {
+async function readPwaRecord(page, key) {
+  return page.evaluate((recordKey) => new Promise((resolve, reject) => {
     const request = window.indexedDB.open('esperanto12-pwa-state', 1);
 
     request.onupgradeneeded = () => {
@@ -18,16 +18,21 @@ async function readPwaLastUrl(page) {
       const db = request.result;
       const transaction = db.transaction('pages', 'readonly');
       const store = transaction.objectStore('pages');
-      const getRequest = store.get('en|last');
+      const getRequest = store.get(recordKey);
 
       getRequest.onerror = () => reject(getRequest.error);
       getRequest.onsuccess = () => {
         const record = getRequest.result;
         db.close();
-        resolve(record && record.url);
+        resolve(record || null);
       };
     };
-  }));
+  }), key);
+}
+
+async function readPwaLastUrl(page) {
+  const record = await readPwaRecord(page, 'en|last');
+  return record && record.url;
 }
 
 async function emulateStandalonePwa(page) {
@@ -181,6 +186,16 @@ test('startpaĝa instalbutono helpas sen beforeinstallprompt', async ({ page }) 
 
 test('PWA-logoligilo iras al startpaĝo anstataŭ rekomenci konservitan paĝon', async ({ page }) => {
   await emulateStandalonePwa(page);
+  await page.setViewportSize({ width: 390, height: 667 });
+
+  await page.goto('/en/');
+  await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBeGreaterThan(100);
+  await expect.poll(async () => {
+    const record = await readPwaRecord(page, 'en|page|/en/');
+    return record && record.scrollY;
+  }).toBeGreaterThan(100);
+
   await page.goto('/en/06/gramatiko/');
 
   await expect.poll(() => readPwaLastUrl(page)).toBe('/en/06/gramatiko/');
@@ -193,6 +208,7 @@ test('PWA-logoligilo iras al startpaĝo anstataŭ rekomenci konservitan paĝon',
   await expect(page).toHaveURL(/\/en\/$/);
   await page.waitForTimeout(600);
   await expect(page).toHaveURL(/\/en\/$/);
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBe(0);
 });
 
 test('startpaĝa lingvoelektilo vicigxas kun la titoloj', async ({ page }) => {

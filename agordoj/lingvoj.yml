@@ -495,6 +495,14 @@ sw:
   aŭtoroj:
     - nomo: Leo de Cooman
       github: GrizaLeono
+ta:
+  nomo:
+    fontlingve: தமிழ்
+    esperante: tamila
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 te:
   nomo:
     fontlingve: తెలుగు
@@ -575,6 +583,14 @@ vi:
       github: Ghojo-37
     - nomo: Hoang Phuc
       github: Huangphoux
+wuu:
+  nomo:
+    fontlingve: 吴语
+    esperante: ĉina (Wu)
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 yo:
   nomo:
     fontlingve: yorùbá

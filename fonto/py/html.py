@@ -69,7 +69,7 @@ def morfema_emfazo(md):
 
 class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
     def __init__(self):
-        super().__init__()
+        super().__init__(escape=False)
         self._uzitaj_ankroj = {}
 
     def heading(self, text, level, **attrs):

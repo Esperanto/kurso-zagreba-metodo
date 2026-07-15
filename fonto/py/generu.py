@@ -8,7 +8,7 @@ from pathlib import Path
 
 from . import html as html_generilo
 from . import md as md_generilo
-from .ankroj import unika_ankro
+from .ankroj import forigu_html, unika_ankro
 
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
@@ -140,9 +140,10 @@ def get_markdown_headlines(s):
     titoloj = []
     for match in re.finditer(r'(^|\n)# (.+)\n', s):
         titolo = purigu_titolon(match.group(2))
+        titolo_por_ankro = forigu_html(titolo).strip()
         titoloj.append({
             'titolo': titolo,
-            'ankro': unika_ankro(titolo, uzitaj),
+            'ankro': unika_ankro(titolo_por_ankro, uzitaj),
         })
     return titoloj
 

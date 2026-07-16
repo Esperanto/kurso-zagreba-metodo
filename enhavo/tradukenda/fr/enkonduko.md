@@ -1,7 +1,5 @@
-- Vous apprendrez les **500 mots les plus importants**
-- **Gratuit** et **sans inscription**
-- Avec un [paquet de cartes mémoire]({{ url.kartaro }}) pour [Anki]({{ url.anki }})
+- Apprenez les **500 mots les plus importants**
+- Comprenez **95 % de l'espéranto parlé**
+- **Gratuit** et sans inscription
 
-Après le cours, vous **comprendrez l'essentiel**, formerez vos propres phrases et pourrez communiquer des idées de base dans des situations quotidiennes.
-
-Essayez !
+Ensuite, vous pourrez suivre des conversations simples, former vos propres phrases et aller directement à la [prochaine rencontre d'espéranto](https://eventaservo.org/).

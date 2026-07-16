@@ -1,7 +1,5 @@
-- Efia **nya vevi 500** gbãtɔwo
-- **Femaxe** eye **mèhiã ŋkɔŋlɔ̃ o**
-- Kple [flashcard deck]({{ url.kartaro }}) na [Anki]({{ url.anki }})
+- Srɔ̃ **nya 500 siwo hia ŋutɔ**
+- Se egɔme **Esperanto si wogblɔna la ƒe 95 %**
+- **Le gbɔgbɔe** eye wòhia ŋkɔŋlɔ o
 
-Le nusrɔ̃ɖeɖea megbe la, àse **nu veviwo gɔme**, awɔ wò ŋutɔ ƒe nyagbewo, eye nàte ŋu agblɔ tameɖoɖo bɔbɔewo le ŋkeke sia ŋkeke ƒe nɔnɔmeawo me.
-
-Te ŋu kpɔe!
+Le esia megbe, àte ŋu adze dzeƒomegbeƒoƒo bɔbɔewo yome, awɔ wò ŋutɔ ƒe nyawo, eye ayi [Esperanto ƒe ƒuƒoƒo si kplɔe](https://eventaservo.org/) dzi enumake.

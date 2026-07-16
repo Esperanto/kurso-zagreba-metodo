@@ -1,7 +1,5 @@
-- Mengajar **500 perkataan paling penting**
-- **Percuma** dan **tanpa pendaftaran**
-- Dengan [dek kad imbas]({{ url.kartaro }}) untuk [Anki]({{ url.anki }})
+- Pelajari **500 perkataan paling penting**
+- Fahami **95 % bahasa Esperanto yang dituturkan**
+- **Percuma** dan tanpa pendaftaran
 
-Selepas kursus ini, anda akan **memahami perkara asas**, membina ayat sendiri, dan dapat menyampaikan idea asas dalam situasi harian.
-
-Cubalah!
+Selepas itu, anda boleh mengikuti perbualan mudah, membina ayat sendiri dan terus pergi ke [pertemuan Esperanto seterusnya](https://eventaservo.org/).

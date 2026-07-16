@@ -1,7 +1,5 @@
-- **Aswan allin 500 simikunata** yachachin
-- **Mana qullqiyuq** hinaspa **mana qillqachikuspa**
-- [Anki]({{ url.anki }}) nisqapaq [yuyarina kartakunawan]({{ url.kartaro }})
+- Yachay **500 aswan allin simikunata**
+- Hamut'ay **rimasqa Esperanto simipi 95 %**
+- **Mana qullqichu** hinallataq mana qillqakuychu
 
-Kay yachayta tukuspaqa, **aswan allin kaqninkunata hamutanki**, kikin rimaykunata ruwanki, hinaspa sapa p'unchaypi sasan mana kaq yuyaykunata willakuyta atinki.
-
-Malliylla!
+Chaymantaqa mana sasa rimaykunata qatiyta atinki, kikin rimaynikikunata rurayta atinki, hinaspa chiqanta [qatiq Esperanto tinkuyman](https://eventaservo.org/) riyta atinki.

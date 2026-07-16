@@ -1,7 +1,5 @@
-- Itinuturo ang **500 pinakamahalagang salita**
-- **Libre** at **walang pagpaparehistro**
-- May [flashcard deck]({{ url.kartaro }}) para sa [Anki]({{ url.anki }})
+- Matutunan ang **500 pinakamahalagang salita**
+- Maunawaan ang **95 % ng sinasalitang Esperanto**
+- **Libre** at walang pagpaparehistro
 
-Pagkatapos ng kurso, **maiintindihan mo ang mga batayan**, makabubuo ka ng sarili mong mga pangungusap, at maipahahayag mo ang mga simpleng ideya sa pang-araw-araw na sitwasyon.
-
-Subukan mo!
+Pagkatapos nito, masusundan mo ang mga simpleng usapan, makakabuo ng sarili mong pangungusap at makakapunta ka agad sa [susunod na pagkikita ng Esperanto](https://eventaservo.org/).

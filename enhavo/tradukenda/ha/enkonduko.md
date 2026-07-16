@@ -1,7 +1,5 @@
-- Yana koyar da **muhimman kalmomi 500**
-- **Kyauta** kuma **ba sai rajista ba**
-- Tare da [tarin katunan koyo]({{ url.kartaro }}) don [Anki]({{ url.anki }})
+- Koyi **kalmomi 500 mafi muhimmanci**
+- Fahimci **95 % na Esperanto da ake magana**
+- **Kyauta** kuma ba tare da rajista ba
 
-Bayan kwas ɗin, za ka **fahimci muhimman abubuwa**, ka ƙirƙiri jimlolinka, kuma ka iya bayyana ra'ayoyi na yau da kullum.
-
-Ka gwada kawai!
+Bayan haka, za ka iya bin tattaunawa masu sauƙi, ka ƙirƙiri jumlolinka, kuma ka tafi kai tsaye zuwa [taron Esperanto na gaba](https://eventaservo.org/).

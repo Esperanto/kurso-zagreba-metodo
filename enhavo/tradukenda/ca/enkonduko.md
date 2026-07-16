@@ -1,7 +1,5 @@
-- T'ensenya les **500 paraules més importants**
-- **Gratuït** i **sense registre**
-- Amb [baralla de targetes]({{ url.kartaro }}) per a [Anki]({{ url.anki }})
+- Aprèn les **500 paraules més importants**
+- Entén el **95 % de l'esperanto parlat**
+- **Gratis** i sense registre
 
-Després del curs, **entendràs l'essencial**, formaràs les teves pròpies frases i podràs comunicar idees bàsiques en situacions quotidianes.
-
-Prova-ho!
+Després podràs seguir converses senzilles, formar frases pròpies i anar directament a la [propera trobada d'esperanto](https://eventaservo.org/).

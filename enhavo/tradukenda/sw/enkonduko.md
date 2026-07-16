@@ -1,7 +1,5 @@
-- Inakufundisha **maneno 500 muhimu zaidi**
-- **Bure** na **bila usajili**
-- Pamoja na [kifurushi cha kadi za kujifunzia]({{ url.kartaro }}) kwa [Anki]({{ url.anki }})
+- Jifunze **maneno 500 muhimu zaidi**
+- Elewa **95 % ya Kiesperanto kinachozungumzwa**
+- **Bure** na bila kujisajili
 
-Baada ya kozi hii, **utaelewa mambo ya msingi**, utaweza kutunga sentensi zako mwenyewe, na utaweza kuwasilisha mawazo rahisi katika hali za kila siku.
-
-Jaribu tu!
+Baada ya hapo, utaweza kufuata mazungumzo rahisi, kutengeneza sentensi zako mwenyewe na kwenda moja kwa moja kwenye [mkutano ujao wa Kiesperanto](https://eventaservo.org/).

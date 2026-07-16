@@ -1,7 +1,5 @@
-- Moko **500 svarbiausių žodžių**
-- **Nemokamai** ir **be registracijos**
-- Su [kortelių rinkiniu]({{ url.kartaro }}) programai [Anki]({{ url.anki }})
+- Išmok **500 svarbiausių žodžių**
+- Suprask **95 % šnekamosios esperanto kalbos**
+- **Nemokamai** ir be registracijos
 
-Baigę kursą **suprasite pagrindus**, kursite savo sakinius ir galėsite paprastai bendrauti kasdienėse situacijose.
-
-Tiesiog pabandykite!
+Po to galėsi sekti paprastus pokalbius, kurti savo sakinius ir iš karto vykti į [kitą esperanto susitikimą](https://eventaservo.org/).

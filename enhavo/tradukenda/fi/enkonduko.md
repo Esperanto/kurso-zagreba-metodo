@@ -1,7 +1,5 @@
-- Opettaa **500 tärkeintä sanaa**
-- **Ilmainen** ja **ilman rekisteröitymistä**
-- Mukana [sanakorttipakka]({{ url.kartaro }}) [Ankia]({{ url.anki }}) varten
+- Opi **500 tärkeintä sanaa**
+- Ymmärrä **95 % puhutusta esperantosta**
+- **Ilmaiseksi** ja ilman rekisteröitymistä
 
-Kurssin jälkeen **ymmärrät olennaiset asiat**, osaat muodostaa omia lauseita ja pystyt ilmaisemaan perusajatuksia arjen tilanteissa.
-
-Kokeile vain!
+Sen jälkeen pystyt seuraamaan helppoja keskusteluja, muodostamaan omia lauseita ja lähtemään suoraan [seuraavaan esperanto-tapaamiseen](https://eventaservo.org/).

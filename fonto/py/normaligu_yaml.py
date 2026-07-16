@@ -99,6 +99,19 @@ def is_translated_vortaro_file(path):
     return False
 
 
+def is_translated_fasado_file(path):
+    parts = path.parts
+    for index in range(len(parts) - 4):
+        if (
+            parts[index] == 'enhavo'
+            and parts[index + 1] == 'tradukenda'
+            and parts[index + 3] == 'fasado'
+            and index + 5 == len(parts)
+        ):
+            return True
+    return False
+
+
 def sort_top_level_keys(data):
     if not isinstance(data, dict):
         return data
@@ -107,7 +120,7 @@ def sort_top_level_keys(data):
 
 def normalized_text(path):
     data = read_yaml(path)
-    if is_translated_vortaro_file(path):
+    if is_translated_vortaro_file(path) or is_translated_fasado_file(path):
         data = sort_top_level_keys(data)
     text = dump_yaml(data)
     reparsed = yaml.load(text, Loader=UniqueKeyLoader)

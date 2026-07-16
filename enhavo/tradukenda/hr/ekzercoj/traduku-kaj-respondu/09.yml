@@ -2,7 +2,7 @@
   rektatraduko:
   - Kio: Što
   - povus: bi moglo
-  - plej: naj
+  - plej: naj-
   - ĝojigi: razveseliti
   - viajn: tvoje
   - gepatrojn: roditelje
@@ -25,13 +25,13 @@
 - demando: Kamo biste željeli putovati kad biste imali dovoljno novca i vremena?
   rektatraduko:
   - Kien: Kamo
-  - vi: ti
-  - dezirus: želio bi
+  - vi: vi
+  - dezirus: biste željeli
   - vojaĝi: putovati
   - ','
   - se: ako
-  - vi: ti
-  - havus: imao bi
+  - vi: vi
+  - havus: biste imali
   - sufiĉe: dovoljno
   - da: od
   - mono: novac
@@ -41,10 +41,10 @@
 - demando: Planirate li putovati u Italiju automobilom ili vam se čini da bi bilo mnogo bolje putovati vlakom?
   rektatraduko:
   - Ĉu: Li
-  - vi: ti
-  - planas: planira
+  - vi: vi
+  - planas: planirate
   - veturi: voziti se
-  - al: k
+  - al: u
   - Italio: Italija
   - per: pomoću
   - aŭto: auto
@@ -63,7 +63,7 @@
   - Kial: Zašto
   - diversaj: različiti
   - homoj: ljudi
-  - klarigas: objašnjava
+  - klarigas: objašnjavaju
   - samajn: iste
   - ideojn: ideje
   - diversmaniere: različito

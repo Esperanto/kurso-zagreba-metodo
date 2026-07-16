@@ -2,14 +2,14 @@
   rektatraduko:
   - Ĉu: Li
   - vi: ti
-  - deziras: želi
+  - deziras: želiš
   - ','
   - ke: da
   - mi: ja
   - montru: pokaži
   - al: k
   - vi: ti
-  - mian: moj
+  - mian: moju
   - plej: naj
   - novan: novu
   - libron: knjigu
@@ -18,7 +18,7 @@
   rektatraduko:
   - Kion: Što
   - vi: ti
-  - volas: želi
+  - volas: želiš
   - morgaŭ: sutra
   - matenmanĝi: doručkovati
   - '?'
@@ -40,8 +40,8 @@
 - demando: Kada ste primijetili da me cijela obitelj zove dobrotvor?
   rektatraduko:
   - Kiam: Kada
-  - vi: ti
-  - rimarkis: primijetio je
+  - vi: vi
+  - rimarkis: ste primijetili
   - ','
   - ke: da
   - la: (član)
@@ -59,10 +59,10 @@
   - ','
   - kiun: koju
   - mi: ja
-  - sendis: poslao je
+  - sendis: sam poslao
   - al: k
   - vi: ti
   - ','
-  - estis: bio je
+  - estis: bila
   - utila: korisna
   - '?'

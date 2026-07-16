@@ -1,20 +1,20 @@
 - demando: Možete li ponijeti lijek moje sestre?
   rektatraduko:
   - Ĉu: Li
-  - vi: ti
-  - povas: može
+  - vi: vi
+  - povas: možete
   - kunporti: ponijeti
   - la: (član)
   - sanigilon: lijek
   - de: od
-  - mia: moj
+  - mia: moja
   - fratino: sestra
   - '?'
 - demando: Kada si kupio to glazbalo?
   rektatraduko:
   - Kiam: Kada
   - vi: ti
-  - aĉetis: kupio
+  - aĉetis: kupio si
   - tiun: taj
   - muzikilon: muzički instrument
   - '?'
@@ -41,7 +41,7 @@
   rektatraduko:
   - Ĉu: Li
   - vi: ti
-  - povos: moći će
+  - povos: moći ćeš
   - ekdormi: zaspati
   - ','
   - kiam: kada

@@ -14,12 +14,17 @@ Koncernas `ekzercoj/traduku-kaj-respondu/*.yml`.
   natura frazo. La lernanto devas laŭ la cellingva vorto povi rekoni, al kiu
   Esperanta vorto ĝi respondas.
 - Tio estas intenca escepto de la ĝenerala regulo pri natura videbla teksto.
-- En `rektatraduko`, traktu ĉiun Esperantan vorton izolite. Ne fleksiu aŭ
-  ŝanĝu la cellingvan gloson nur por kongrui kun najbaraj vortoj, la natura
-  cellingva frazordo, kazo, genro, nombro aŭ persono.
-- Uzu la saman cellingvan gloson por la sama Esperanta vorto tra la ekzercoj,
-  kiam la signifo estas la sama. Esceptu nur verajn signifajn diferencojn,
-  ekzemple kiam tabelvorto funkcias jen memstare, jen kiel determinanto.
+- En `rektatraduko`, ĉiu gloso respondu al unu Esperanta vorto aŭ klare
+  rekonebla Esperanta vortero. La mapo estu sufiĉe travidebla, por ke lernanto
+  senpene sciu, kiu Esperanta vorto estas klarigata.
+- Permesu normalan cellingvan fleksion, kongruon, kazon kaj verboformon, kiam
+  tio helpas la lokan vortgrupon. Preferu tamen simplan kaj malplej distran
+  formon; ne fleksiu pli ol necesas por komprenebleco.
+- Por sama Esperanta vorto kun sama signifo, konservu la saman bazan signifon
+  aŭ vortstamon tra la ekzercoj, sed ne devigu identan surfacan formon se la
+  cellingva gramatiko nature postulas alian formon.
+- Ne uzu idiomojn aŭ konstruojn kiuj transdonas la signifon al alia Esperanta
+  vorto aŭ malklarigas, kiu gloso apartenas al kiu Esperanta vorto.
 - En `rektatraduko`, elektu vortojn kiuj bone signalas al parolanto de la
   cellingvo, kion signifas la Esperanta ero, eĉ se tiuj vortoj estus tro
   klarigaj aŭ nenaturaj en `demando`.

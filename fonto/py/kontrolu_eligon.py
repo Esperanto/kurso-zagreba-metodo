@@ -42,6 +42,8 @@ LLMS_EN_DUPLICATE_INTRO_PATTERN = re.compile(
 LLMS_FULL_LESSON_1_PATTERN = re.compile(r'Amiko\s+Marko')
 LLMS_FULL_LESSON_12_PATTERN = re.compile(r'Nokta\s+promeno')
 RAW_TEMPLATE_PATTERN = re.compile(r'\{\{[^}]+\}\}')
+FONT_DISPLAY_OPTIONAL_PATTERN = re.compile(r'font-display:optional')
+FONT_DISPLAY_SWAP_PATTERN = re.compile(r'font-display:\s*swap')
 
 
 def fail(message):
@@ -89,6 +91,22 @@ def forbid_pattern(path, pattern):
         fail('ne eblas legi kiel UTF-8 ' + str(path) + ': ' + str(error))
     if pattern.search(text):
         fail('trovis neatenditan enhavon en ' + str(path))
+
+
+def require_font_preloads(path, href_prefix):
+    for subset, weight in (
+        ('latin', 400),
+        ('latin-ext', 400),
+        ('latin', 700),
+    ):
+        pattern = re.compile(
+            r'<link\s+rel="preload"\s+href="'
+            + re.escape(href_prefix)
+            + rf'assets/files/fira-sans-{subset}-{weight}-normal\.woff2"'
+            + r'\s+as="font"\s+type="font/woff2"\s+crossorigin\s*/>',
+            re.S,
+        )
+        require_pattern(path, pattern)
 
 
 def require_apkg(path):
@@ -183,7 +201,12 @@ def main():
     require_pattern(lingvo_dir / 'index.html', HREFLANG_X_DEFAULT_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', CANONICAL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', META_DESCRIPTION_PATTERN)
+    require_font_preloads(output_dir / 'index.html', '')
+    require_font_preloads(lingvo_dir / 'index.html', '/' + lingvo + '/../')
     require_lesson_image_alts(output_dir, lingvo)
+    bundle_css = output_dir / 'assets' / 'bundle.css'
+    require_pattern(bundle_css, FONT_DISPLAY_OPTIONAL_PATTERN)
+    forbid_pattern(bundle_css, FONT_DISPLAY_SWAP_PATTERN)
     # La vendaj bibliotekoj troviĝas nun en la kunmetita bundle.js; iliaj
     # versiaj banneroj restas, ĉar la vendaj dosieroj ne estas re-minigitaj.
     bundle_js = output_dir / 'assets' / 'bundle.js'

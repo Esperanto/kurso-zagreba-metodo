@@ -1,0 +1,49 @@
+- demando: Kas saate mu õe ravimeid kaasa võtta?
+  rektatraduko:
+  - Ĉu: kas
+  - vi: sina
+  - povas: saab
+  - kunporti: kaasa tuua
+  - la: a
+  - sanigilon: ravim
+  - de: kohta
+  - mia: minu
+  - fratino: õde
+  - '?'
+- demando: Millal sa selle muusikainstrumendi ostsid?
+  rektatraduko:
+  - Kiam: Millal
+  - vi: sina
+  - aĉetis: ostis küll
+  - tiun: et
+  - muzikilon: muusikainstrument
+  - '?'
+- demando: Kes mu võtit viimati kasutas?
+  rektatraduko:
+  - Kiu: WHO
+  - laste: viimane kord
+  - uzis: kasutatud
+  - mian: minu
+  - ŝlosilon: võti
+  - '?'
+- demando: Kas sõitsite ka Veneetsias gondliga?
+  rektatraduko:
+  - Ĉu: kas
+  - vi: sina
+  - en: sisse
+  - Venecio: Veneetsia
+  - veturis: reisis
+  - ankaŭ: samuti
+  - per: poolt
+  - gondolo: gondel
+  - '?'
+- demando: Kas sa suudad magama jääda, kui vaikseks jääb?
+  rektatraduko:
+  - Ĉu: kas
+  - vi: sina
+  - povos: saab hakkama
+  - ekdormi: magama jääma
+  - ','
+  - kiam: millal
+  - silentiĝos: muutub vaikseks
+  - '?'

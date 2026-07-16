@@ -1,0 +1,80 @@
+- demando: Kes hakkab pärast lõunat kööki koristama?
+  rektatraduko:
+  - Kiu: WHO
+  - purigos: läheb koristama
+  - la: a
+  - kuirejon: köök
+  - post: pärast
+  - la: a
+  - tagmanĝo: lõunasöök
+  - '?'
+- demando: 'Mida sa tahaksid juua: teed, kohvi või mitte midagi?'
+  rektatraduko:
+  - Kion: Mida
+  - vi: sina
+  - volas: tahan
+  - trinki: juua
+  - ':'
+  - teon: tee
+  - ','
+  - iom: mõned
+  - da: kohta
+  - kafo: kohvi
+  - aŭ: või
+  - ĉu: kas
+  - vi: sina
+  - volas: tahan
+  - nenion: mitte midagi
+  - '?'
+- demando: Miks otsustasite nii ootamatult oma väikese toa renoveerida?
+  rektatraduko:
+  - Kial: Miks
+  - vi: sina
+  - tiel: nii
+  - subite: äkki
+  - decidis: otsustas küll
+  - renovigi: renoveerida
+  - vian: sinu
+  - ĉambreton: väike tuba
+  - '?'
+- demando: Kellele sa puhtad veiniklaasid kinkisid?
+  rektatraduko:
+  - Al: To
+  - kiu: keda
+  - vi: sina
+  - donis: andis küll
+  - la: a
+  - purajn: puhas
+  - glasojn: prillid
+  - por: jaoks
+  - la: a
+  - vino: veini
+  - '?'
+- demando: Kellega teie spordiklubi kaks nädalat tagasi mängis?
+  rektatraduko:
+  - Kontraŭ: Vastu
+  - kiu: keda
+  - ludis: mängis küll
+  - via: sinu
+  - sportklubo: spordiklubi
+  - antaŭ: enne
+  - du: kaks
+  - semajnoj: nädalaid
+  - '?'
+- demando: Kas näete sageli politseinikku, kes elab teie kohal asuvas korteris?
+  rektatraduko:
+  - Ĉu: kas
+  - vi: sina
+  - ofte: sageli
+  - vidas: vaata
+  - la: a
+  - policiston: politseinik
+  - ','
+  - kiu: WHO
+  - loĝas: elusid
+  - en: sisse
+  - la: a
+  - loĝejo: korter
+  - super: eespool
+  - vi: sina
+  - '?'

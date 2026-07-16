@@ -1,5 +1,5 @@
-- Învață cele **500 de cuvinte cele mai importante**
+- Învață cele **500 de cuvinte esențiale**
 - Înțelege **95 % din esperanto vorbit**
-- **Gratis** și fără înscriere
+- **Gratis**, fără înscriere
 
-După aceea vei putea urmări conversații simple, forma propriile propoziții și merge direct la [următoarea întâlnire de esperanto](https://eventaservo.org/).
+După aceea poți urmări conversații simple, îți poți face propriile propoziții și poți merge direct la [următoarea întâlnire de esperanto](https://eventaservo.org/).

@@ -1,5 +1,5 @@
-- o sona e **nimi 500 suli nanpa wan**
-- o sona e **95 % pi toki Epelanto pi jan toki**
-- **mani ala** li lon, nimi sina li wile ala
+- o kama sona e **nimi 500 pi suli mute**
+- o kama sona e **95 % pi toki Epelanto pi kalama uta**
+- **mani ala**, sina wile ala pana e nimi sina
 
-tenpo kama la sina ken kute e toki lili, ken pali e toki sina, ken tawa wawa tawa [kulupu toki Epelanto kama](https://eventaservo.org/).
+tenpo kama la sina ken sona e toki lili, ken pali e toki sina, ken tawa [kulupu toki Epelanto kama](https://eventaservo.org/).

@@ -1,5 +1,5 @@
-- **500 وشەی گرنگتر** فێربە
-- **95 % لە ئێسپێرانتۆی قسەکراو** تێبگە
-- **بەخۆڕایی** و بێ تۆمارکردن
+- **500 peyvên herî girîng** fêr bibe
+- **95 % ji Esperantoya axaftinê** fam bike
+- **Belaş** û bê tomar kirin
 
-دوای ئەوە دەتوانیت گفتوگۆی سادە تێبگەیت، ڕستەی خۆت دروست بکەیت و ڕاستەوخۆ بچیتە [کۆبوونەوەی داهاتووی ئێسپێرانتۆ](https://eventaservo.org/).
+Piştî wê, tu dikarî axaftinên hêsan bişopînî, hevokên xwe çêkî û rasterast biçî [civîna Esperantoyê ya din](https://eventaservo.org/).

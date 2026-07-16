@@ -7,7 +7,7 @@
   - '?'
 - demando: Piše li tvoja prijateljica Ana sada u sobi?
   rektatraduko:
-  - Ĉu: Je li
+  - Ĉu: Li
   - via: tvoja
   - amikino: prijateljica
   - Ana: Ana
@@ -19,7 +19,7 @@
   - '?'
 - demando: Radi li prijatelj tvog oca u hotelu?
   rektatraduko:
-  - Ĉu: Je li
+  - Ĉu: Li
   - la: (član)
   - amiko: prijatelj
   - de: od
@@ -42,7 +42,7 @@
   - '?'
 - demando: Je li esperantski udžbenik na tvom stolu?
   rektatraduko:
-  - Ĉu: Je li
+  - Ĉu: Li
   - Esperanto-lernolibro: esperantski udžbenik
   - estas: je
   - sur: na

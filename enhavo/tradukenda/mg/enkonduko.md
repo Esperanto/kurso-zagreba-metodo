@@ -1,7 +1,5 @@
-- Mampianatra ireo **teny 500 manan-danja indrindra**
-- **Maimaim-poana** ary **tsy mila fisoratana anarana**
-- Misy [karatra fianarana]({{ url.kartaro }}) ho an'ny [Anki]({{ url.anki }})
+- Ianaro ireo **teny 500 manan-danja indrindra**
+- Mahatakatra **95 % amin'ny Esperanto resahina**
+- **Maimaim-poana**, tsy mila misoratra anarana
 
-Aorian'ny fianarana dia **hahazo ny tena fototra** ianao, hahavita hamorona fehezanteny manokana, ary hahavita hampita hevitra tsotra amin'ny toe-javatra andavanandro.
-
-Andramo!
+Aorian'izay dia afaka manaraka resaka tsotra ianao, mamorona fehezanteny anao manokana, ary mandeha mivantana any amin'ny [fihaonana Esperanto manaraka](https://eventaservo.org/).

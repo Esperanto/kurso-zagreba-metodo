@@ -1,7 +1,5 @@
-- **500 وشەی گرنگترین** فێرت دەکات
-- **خۆڕاییە** و **بێ تۆمارکردنە**
-- لەگەڵ [کۆمەڵە کارتی فێربوون]({{ url.kartaro }}) بۆ [Anki]({{ url.anki }})
+- **500 peyvên herî girîng** fêr bibe
+- **95 % ji Esperantoya axaftinê** fam bike
+- **Belaş** û bê tomar kirin
 
-دوای کۆرسەکە، **بنەماکان تێدەگەیت**، ڕستەی خۆت دروست دەکەیت و دەتوانیت بیرۆکە سەرەتاییەکان لە دۆخی ڕۆژانەدا بگەیەنیت.
-
-تەنها تاقی بکەرەوە!
+Piştî wê, tu dikarî axaftinên hêsan bişopînî, hevokên xwe çêkî û rasterast biçî [civîna Esperantoyê ya din](https://eventaservo.org/).

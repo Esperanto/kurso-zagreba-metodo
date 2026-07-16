@@ -1,7 +1,5 @@
-- Kennir **500 mikilvægustu orðin**
-- **Ókeypis** og **án skráningar**
-- Með [spjaldastokki]({{ url.kartaro }}) fyrir [Anki]({{ url.anki }})
+- Lærðu **500 mikilvægustu orðin**
+- Skildu **95 % af töluðu esperanto**
+- **Ókeypis** og án skráningar
 
-Að námskeiðinu loknu munt þú **skilja grundvallaratriðin**, mynda eigin setningar og geta komið einföldum hugmyndum á framfæri í daglegum aðstæðum.
-
-Prófaðu bara!
+Eftir það geturðu fylgt einföldum samtölum, búið til eigin setningar og farið beint á [næsta esperanto-mót](https://eventaservo.org/).

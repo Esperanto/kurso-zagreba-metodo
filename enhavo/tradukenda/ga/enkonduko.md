@@ -1,7 +1,5 @@
-- Múineann sé na **500 focal is tábhachtaí**
-- **Saor in aisce** agus **gan chlárú**
-- Le [deic luaschártaí]({{ url.kartaro }}) do [Anki]({{ url.anki }})
+- Foghlaim na **500 focal is tábhachtaí**
+- Tuig **95 % den Esperanto labhartha**
+- **Saor in aisce** agus gan chlárú
 
-Tar éis an chúrsa, **tuigfidh tú na bunrudaí**, cumfaidh tú abairtí de do chuid féin agus beidh tú in ann bunsmaointe a chur in iúl i ngnáthchásanna laethúla.
-
-Bain triail as!
+Ina dhiaidh sin, beidh tú in ann comhráite simplí a leanúint, d'abairtí féin a dhéanamh agus dul díreach chuig an [gcéad chruinniú Esperanto eile](https://eventaservo.org/).

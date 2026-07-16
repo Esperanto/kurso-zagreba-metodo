@@ -1,7 +1,5 @@
-- Teaches the **most important 500 words**
-- **Free** and **without registration**
-- With [flashcard deck]({{ url.kartaro }}) for [Anki]({{ url.anki }})
+- Learn the **500 most important words**
+- Understand **95 % of spoken Esperanto**
+- **Free** and no sign-up
 
-After the course, you will **understand the essentials**, form your own sentences, and be able to communicate basic ideas in everyday situations.
-
-Just try it!
+After that, you can follow simple conversations, make your own sentences, and go straight to the [next Esperanto meetup](https://eventaservo.org/).

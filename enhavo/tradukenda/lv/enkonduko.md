@@ -1,7 +1,5 @@
-- Māca **500 svarīgākos vārdus**
-- **Bez maksas** un **bez reģistrācijas**
-- Ar [kartīšu komplektu]({{ url.kartaro }}) priekš [Anki]({{ url.anki }})
+- Iemācies **500 svarīgākos vārdus**
+- Saproti **95 % runātā esperanto**
+- **Bez maksas** un bez reģistrācijas
 
-Pēc kursa tu **sapratīsi pamatus**, varēsi veidot savus teikumus un vienkārši sazināties ikdienas situācijās.
-
-Pamēģini!
+Pēc tam tu varēsi sekot vienkāršām sarunām, veidot savus teikumus un doties tieši uz [nākamo esperanto tikšanos](https://eventaservo.org/).

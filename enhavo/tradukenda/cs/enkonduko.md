@@ -1,7 +1,5 @@
-- Naučí tě **500 nejdůležitějších slov**
-- **Zdarma** a **bez registrace**
-- S [balíčkem kartiček]({{ url.kartaro }}) pro [Anki]({{ url.anki }})
+- Nauč se **500 nejdůležitějších slov**
+- Porozuměj **95 % mluveného esperanta**
+- **Zdarma** a bez registrace
 
-Po kurzu budeš **rozumět základům**, tvořit vlastní věty a dokážeš sdělit základní myšlenky v každodenních situacích.
-
-Prostě to zkus!
+Potom můžeš sledovat jednoduché rozhovory, tvořit vlastní věty a jet rovnou na [příští esperantské setkání](https://eventaservo.org/).

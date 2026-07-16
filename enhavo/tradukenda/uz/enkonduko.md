@@ -1,7 +1,5 @@
-- **Eng muhim 500 ta soʻzni** oʻrgatadi
-- **Bepul** va **roʻyxatdan oʻtmasdan**
-- [Anki]({{ url.anki }}) uchun [kartochkalar toʻplami]({{ url.kartaro }}) bilan
+- **Eng muhim 500 soʻzni** oʻrganing
+- Ogʻzaki Esperantoning **95 %** qismini tushuning
+- **Bepul** va roʻyxatdan oʻtmasdan
 
-Kursdan keyin siz **asosiy narsalarni tushunasiz**, oʻzingiz gap tuza olasiz va kundalik vaziyatlarda sodda fikrlarni yetkaza olasiz.
-
-Sinab koʻring!
+Shundan keyin siz oddiy suhbatlarni tushuna olasiz, oʻz gaplaringizni tuza olasiz va toʻgʻridan-toʻgʻri [keyingi Esperanto uchrashuviga](https://eventaservo.org/) bora olasiz.

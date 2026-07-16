@@ -1,7 +1,5 @@
-- **500 hitz garrantzitsuenak** irakasten ditu
-- **Doakoa** eta **erregistratu gabe**
-- [Flashcard sorta]({{ url.kartaro }}) batekin [Anki]({{ url.anki }})-rako
+- Ikasi **500 hitz garrantzitsuenak**
+- Ulertu **ahozko esperantoaren 95 %**
+- **Doan** eta izena eman gabe
 
-Ikastaroaren ondoren, **oinarriak ulertuko dituzu**, zure esaldiak osatuko dituzu eta eguneroko egoeretan ideia sinpleak komunikatzeko gai izango zara.
-
-Probatu!
+Ondoren elkarrizketa errazak jarraitu, zure esaldiak sortu eta zuzenean [hurrengo esperanto-topaketara](https://eventaservo.org/) joan ahal izango zara.

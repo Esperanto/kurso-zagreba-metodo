@@ -22,15 +22,18 @@ await rm(dist, { recursive: true, force: true });
 await mkdir(dist, { recursive: true });
 
 // 1) CSS-pakaĵo: esbuild solvas la @import-ojn kaj kopias la tiparojn.
+const bundleCssPath = path.join(dist, 'bundle.css');
 await esbuild.build({
   entryPoints: [path.join(dir, 'stilo.css')],
   bundle: true,
   minify: true,
   loader: { '.woff2': 'file', '.woff': 'file' },
   assetNames: 'files/[name]',
-  outfile: path.join(dist, 'bundle.css'),
+  outfile: bundleCssPath,
   logLevel: 'warning',
 });
+const bundleCss = await readFile(bundleCssPath, 'utf8');
+await writeFile(bundleCssPath, bundleCss.replace(/font-display:\s*swap/g, 'font-display:optional'));
 
 // 2) Minigu nian propran JS (transform → konservas la tutmondan amplekson).
 async function minify(relative) {

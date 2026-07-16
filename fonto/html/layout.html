@@ -58,6 +58,8 @@
         });
       </script>
     {% endif %}
+    {% set tiparoj_vojprefikso = vojprefikso ~ '../' %}
+    {% include 'tiparoj.html' %}
     <link href="{{vojprefikso}}../assets/bundle.css?versio={{enhavo.versio}}" rel="stylesheet" />
   </head>
   <body>

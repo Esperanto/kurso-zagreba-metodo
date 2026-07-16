@@ -22,6 +22,30 @@
       <p class="lingva-startpagxo-subtitolo">
         {{enhavo.fasado['La plej rapida kurso por la bazoj']}}
       </p>
+      <div class="dropdown lingva-startpagxo-lingvoelektilo{% if enhavo.havas_pwa %} pwa-standalone-kasxita{% endif %}">
+        <button
+          class="btn btn-outline-secondary btn-lg dropdown-toggle"
+          type="button"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+        >
+          🌐 {{enhavo.fasado['{{lingvo_nombro}} lingvoj']|replace('{{lingvo_nombro}}', pretaj_lingvoj|length)}}
+        </button>
+        <ul class="dropdown-menu lingva-startpagxo-lingvoj">
+          {% for kodo, lingvo in pretaj_lingvoj %}
+            <li>
+              <a
+                class="dropdown-item"
+                href="/{{kodo}}/"
+                lang="{{kodo}}"
+                {% if kodo == enhavo.lingvo %}
+                  aria-current="true"
+                {% endif %}
+              >{{lingvo.nomo.fontlingve}}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -31,31 +55,27 @@
 
   <div class="lingva-startpagxo-agoj">
     <a class="btn btn-primary btn-lg" href="{{vojprefikso}}01">{{enhavo.fasado['Ek']}}</a>
-
-    <div class="dropdown lingva-startpagxo-lingvoelektilo{% if enhavo.havas_pwa %} pwa-standalone-kasxita{% endif %}">
+    {% if enhavo.havas_pwa %}
+      {% set pwa_mana_instalo = 'Malfermu la retumilan menuon kaj elektu "Instali" aŭ "Aldoni al la hejma ekrano".' %}
+      {% set pwa_mana_instalo_teksto = enhavo.fasado[pwa_mana_instalo]|default(pwa_mana_instalo, true) %}
       <button
-        class="btn btn-light btn-lg dropdown-toggle"
+        class="btn btn-outline-primary btn-lg pwa-install-butono pwa-standalone-kasxita d-none"
         type="button"
-        data-bs-toggle="dropdown"
+        data-pwa-install
         aria-expanded="false"
+        aria-controls="pwa-instala-helpo"
       >
-        🌐 {{enhavo.fasado['{{lingvo_nombro}} lingvoj']|replace('{{lingvo_nombro}}', pretaj_lingvoj|length)}}
+        {{enhavo.fasado['Instalu apon']|default('Instalu apon', true)}}
       </button>
-      <ul class="dropdown-menu lingva-startpagxo-lingvoj">
-        {% for kodo, lingvo in pretaj_lingvoj %}
-          <li>
-            <a
-              class="dropdown-item"
-              href="/{{kodo}}/"
-              lang="{{kodo}}"
-              {% if kodo == enhavo.lingvo %}
-                aria-current="true"
-              {% endif %}
-            >{{lingvo.nomo.fontlingve}}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
+      <div
+        id="pwa-instala-helpo"
+        class="alert alert-info pwa-instala-helpo pwa-standalone-kasxita d-none"
+        data-pwa-install-help
+        role="status"
+      >
+        {{pwa_mana_instalo_teksto}}
+      </div>
+    {% endif %}
   </div>
 
   {% if enhavo.post %}

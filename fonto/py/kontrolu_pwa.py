@@ -89,8 +89,24 @@ def check_registration(output_dir, lingvo):
         'la supra lingvoelektilo ne estas kaŝebla en PWA-kunteksto: ' + lingvo,
     )
     require(
+        'data-pwa-root-link' in text,
+        'la starta paĝo ne markas la PWA-radikan ligilon: ' + lingvo,
+    )
+    require(
         'lingva-startpagxo-lingvoelektilo pwa-standalone-kasxita' in text,
         'la startpaĝa lingvoelektilo ne estas kaŝebla en PWA-kunteksto: ' + lingvo,
+    )
+    require(
+        'data-pwa-install' in text,
+        'la startpaĝo ne havas PWA-instalbutonon: ' + lingvo,
+    )
+    require(
+        'data-pwa-install-help' in text,
+        'la startpaĝo ne havas PWA-instalan helpotekston: ' + lingvo,
+    )
+    require(
+        'btn-outline-primary btn-lg pwa-install-butono pwa-standalone-kasxita' in text,
+        'la PWA-instalbutono ne havas la atendatajn klasojn: ' + lingvo,
     )
 
 

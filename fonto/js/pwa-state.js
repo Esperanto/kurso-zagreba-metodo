@@ -7,7 +7,8 @@
   var INPUT_STORE = 'inputs';
   var INPUT_DEBOUNCE_MS = 400;
   var SCROLL_DEBOUNCE_MS = 500;
-  var RESUME_SCROLL_PREFIX = 'esperanto12-pwa-resume-scroll:';
+  var IN_APP_NAVIGATION_PREFIX = 'esperanto12-pwa-in-app-navigation:';
+  var RESUME_TARGET_PREFIX = 'esperanto12-pwa-resume-target:';
 
   function hasPwaManifest() {
     return !!document.querySelector('link[rel="manifest"]');
@@ -56,22 +57,6 @@
     return normalizedUrlKey(pageUrl());
   }
 
-  function referrerUrlKey() {
-    if (!document.referrer) {
-      return null;
-    }
-
-    try {
-      var url = new URL(document.referrer);
-      if (url.origin !== window.location.origin) {
-        return null;
-      }
-      return normalizePath(url.pathname) + url.search + url.hash;
-    } catch (error) {
-      return null;
-    }
-  }
-
   function sameOriginReferrer() {
     if (!document.referrer) {
       return false;
@@ -105,6 +90,9 @@
   var pendingInputTimer = null;
   var scrollTimer = null;
   var restoringInputs = false;
+  var inAppNavigationStarted = false;
+  var inAppNavigationTaken = false;
+  var resumeTarget = null;
 
   function openDb() {
     return new Promise(function (resolve, reject) {
@@ -189,10 +177,6 @@
     return lingvo + '|last';
   }
 
-  function currentPageKey() {
-    return lingvo + '|page|' + path;
-  }
-
   function inputKey(input) {
     return lingvo + '|input|' + path + '|' + input.id;
   }
@@ -201,9 +185,9 @@
     return lingvo + '|input|' + path + '|' + inputId;
   }
 
-  function pageRecord(key) {
+  function pageRecord() {
     return {
-      key: key,
+      key: lastPageKey(),
       lingvo: lingvo,
       path: path,
       url: pageUrl(),
@@ -226,12 +210,39 @@
     }
   }
 
+  function isInternalPageUrl(urlValue) {
+    try {
+      var url = new URL(urlValue, window.location.origin);
+      var normalizedPath = normalizePath(url.pathname);
+      return url.origin === window.location.origin
+        && normalizedPath.indexOf('/' + lingvo + '/') === 0
+        && normalizedPath.endsWith('/');
+    } catch (error) {
+      return false;
+    }
+  }
+
+  function isSameDocumentUrl(urlValue) {
+    try {
+      var url = new URL(urlValue, window.location.origin);
+      return url.origin === window.location.origin
+        && normalizePath(url.pathname) === path
+        && url.search === window.location.search;
+    } catch (error) {
+      return false;
+    }
+  }
+
   function savePageState() {
-    var record = pageRecord(currentPageKey());
-    return Promise.all([
-      putRecord(PAGE_STORE, record),
-      putRecord(PAGE_STORE, Object.assign({}, record, { key: lastPageKey() }))
-    ]).catch(logStorageError);
+    if (inAppNavigationStarted) {
+      return Promise.resolve();
+    }
+
+    return putRecord(PAGE_STORE, pageRecord()).catch(logStorageError);
+  }
+
+  function clearPageState() {
+    return deleteRecord(PAGE_STORE, lastPageKey()).catch(logStorageError);
   }
 
   function schedulePageSave() {
@@ -254,51 +265,69 @@
     });
   }
 
-  function resumeScrollKey() {
-    return RESUME_SCROLL_PREFIX + lingvo;
+  function inAppNavigationKey() {
+    return IN_APP_NAVIGATION_PREFIX + lingvo;
   }
 
-  function rememberResumeScrollTarget(urlValue) {
-    var key = normalizedUrlKey(urlValue);
-    if (!key) {
+  function resumeTargetKey() {
+    return RESUME_TARGET_PREFIX + lingvo;
+  }
+
+  function rememberInAppNavigation(urlValue) {
+    var target = normalizedUrlKey(urlValue);
+    if (!target) {
       return;
     }
 
     try {
-      window.sessionStorage.setItem(resumeScrollKey(), key);
+      window.sessionStorage.setItem(inAppNavigationKey(), target);
     } catch (error) {
       logStorageError(error);
     }
   }
 
-  function takeResumeScrollTarget() {
+  function takeInAppNavigation() {
     try {
-      var key = resumeScrollKey();
+      var key = inAppNavigationKey();
       var target = window.sessionStorage.getItem(key);
       window.sessionStorage.removeItem(key);
-      return target === currentUrlKey();
+      inAppNavigationTaken = target === currentUrlKey();
+      return inAppNavigationTaken;
     } catch (error) {
       logStorageError(error);
       return false;
     }
   }
 
-  function shouldRestoreScrollPosition() {
-    var referrer = referrerUrlKey();
-    if (takeResumeScrollTarget()) {
-      return true;
+  function rememberResumeTarget(record) {
+    try {
+      window.sessionStorage.setItem(resumeTargetKey(), JSON.stringify({
+        url: record.url,
+        scrollY: record.scrollY || 0
+      }));
+    } catch (error) {
+      logStorageError(error);
     }
-    return !referrer || referrer === currentUrlKey();
   }
 
-  function restoreScrollPosition() {
-    return readRecord(PAGE_STORE, currentPageKey()).then(function (record) {
-      if (!record || typeof record.scrollY !== 'number' || record.scrollY <= 0) {
-        return;
+  function takeResumeTarget() {
+    try {
+      var key = resumeTargetKey();
+      var serializedTarget = window.sessionStorage.getItem(key);
+      window.sessionStorage.removeItem(key);
+      if (!serializedTarget) {
+        return null;
       }
-
-      return scrollToPosition(record.scrollY);
-    }).catch(logStorageError);
+      var target = JSON.parse(serializedTarget);
+      if (target
+        && normalizedUrlKey(target.url) === currentUrlKey()
+        && typeof target.scrollY === 'number') {
+        return target;
+      }
+    } catch (error) {
+      logStorageError(error);
+    }
+    return null;
   }
 
   function applyInitialScrollPosition() {
@@ -306,9 +335,12 @@
     if (window.location.hash) {
       return Promise.resolve();
     }
-    if (shouldRestoreScrollPosition()) {
-      return restoreScrollPosition();
+
+    var target = resumeTarget || takeResumeTarget();
+    if (target && target.scrollY > 0) {
+      return scrollToPosition(target.scrollY);
     }
+
     return scrollToPosition(0);
   }
 
@@ -418,6 +450,31 @@
     });
   }
 
+  function bindInAppNavigation() {
+    document.addEventListener('click', function (event) {
+      if (event.defaultPrevented || event.button !== 0) {
+        return;
+      }
+      if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+        return;
+      }
+
+      var link = event.target.closest && event.target.closest('a[href]');
+      if (!link
+        || link.hasAttribute('download')
+        || (link.target && link.target !== '_self')) {
+        return;
+      }
+      if (!isInternalPageUrl(link.href) || isSameDocumentUrl(link.href)) {
+        return;
+      }
+
+      inAppNavigationStarted = true;
+      rememberInAppNavigation(link.href);
+      clearPageState();
+    }, true);
+  }
+
   function bindPagePersistence() {
     window.addEventListener('scroll', schedulePageSave, { passive: true });
     window.addEventListener('pagehide', function () {
@@ -433,7 +490,10 @@
   }
 
   function resumeLastPageIfNeeded() {
-    if (!isLanguageRoot() || window.location.hash || sameOriginReferrer()) {
+    if (!isLanguageRoot() || window.location.hash) {
+      return Promise.resolve(false);
+    }
+    if (inAppNavigationTaken || sameOriginReferrer()) {
       return Promise.resolve(false);
     }
 
@@ -442,10 +502,11 @@
         return false;
       }
       if (record.url === pageUrl()) {
+        resumeTarget = record;
         return false;
       }
 
-      rememberResumeScrollTarget(record.url);
+      rememberResumeTarget(record);
       window.location.replace(record.url);
       return true;
     }).catch(function (error) {
@@ -453,6 +514,9 @@
       return false;
     });
   }
+
+  bindInAppNavigation();
+  takeInAppNavigation();
 
   resumeLastPageIfNeeded().then(function (redirecting) {
     if (redirecting) {

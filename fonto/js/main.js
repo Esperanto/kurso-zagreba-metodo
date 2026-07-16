@@ -17,7 +17,80 @@ $(document).ready(function(){
       allowList: popoverAllowList
     });
   });
-  $('.container table').addClass('table'); 
+  $('.container table').addClass('table');
+
+  var pwaInstallButton = document.querySelector('[data-pwa-install]');
+  var pwaInstallHelp = document.querySelector('[data-pwa-install-help]');
+  if (pwaInstallButton) {
+    function estasMemstaraPwa() {
+      return navigator.standalone === true
+        || (
+          window.matchMedia
+          && window.matchMedia('(display-mode: standalone)').matches
+        )
+        || document.documentElement.classList.contains('pwa-standalone');
+    }
+
+    function subtenasBeforeInstallPrompt() {
+      return 'onbeforeinstallprompt' in window;
+    }
+
+    function montruPwaInstallHelp(montru) {
+      if (!pwaInstallHelp) {
+        return;
+      }
+      pwaInstallHelp.classList.toggle('d-none', !montru);
+      pwaInstallButton.setAttribute('aria-expanded', montru ? 'true' : 'false');
+    }
+
+    function gxisdatiguPwaInstallButton() {
+      var instalebla = !estasMemstaraPwa()
+        && (!!window.pwaInstallPrompt || !subtenasBeforeInstallPrompt());
+      pwaInstallButton.classList.toggle('d-none', !instalebla);
+      pwaInstallButton.disabled = !instalebla;
+      if (!instalebla) {
+        montruPwaInstallHelp(false);
+      }
+    }
+
+    window.addEventListener('beforeinstallprompt', function(e) {
+      e.preventDefault();
+      window.pwaInstallPrompt = e;
+      montruPwaInstallHelp(false);
+      gxisdatiguPwaInstallButton();
+    });
+
+    window.addEventListener('appinstalled', function() {
+      window.pwaInstallPrompt = null;
+      gxisdatiguPwaInstallButton();
+    });
+
+    pwaInstallButton.addEventListener('click', function() {
+      var installPrompt = window.pwaInstallPrompt;
+      if (!installPrompt) {
+        if (!subtenasBeforeInstallPrompt()) {
+          montruPwaInstallHelp(true);
+          return;
+        }
+        gxisdatiguPwaInstallButton();
+        return;
+      }
+
+      try {
+        var promptResult = installPrompt.prompt();
+        if (promptResult && typeof promptResult.catch === 'function') {
+          promptResult.catch(function() {});
+        }
+      } catch (e) {
+      }
+
+      window.pwaInstallPrompt = null;
+      montruPwaInstallHelp(false);
+      gxisdatiguPwaInstallButton();
+    });
+
+    gxisdatiguPwaInstallButton();
+  }
 });
 
 function esperantigu(s) {
@@ -192,4 +265,3 @@ $('.forigu').click(function() {
     $(this).trigger('input');
   });
 });
-

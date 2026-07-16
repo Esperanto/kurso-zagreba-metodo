@@ -1,5 +1,7 @@
 /* set a max-width for horizontal fluid layout and make it centered */
 :root {
+  --bs-body-font-family: "Fira Sans", sans-serif;
+  --bs-font-sans-serif: "Fira Sans", sans-serif;
   --bs-link-color: #337ab7;
   --bs-link-color-rgb: 51, 122, 183;
   --bs-link-hover-color: #23527c;
@@ -19,7 +21,7 @@
 body {
   display: flex;
   flex-direction: column;
-  font-family: "Fira Sans", sans-serif;
+  font-family: var(--bs-body-font-family);
   font-size: 18px;
   line-height: 30px;
   min-height: 100vh;
@@ -289,6 +291,9 @@ html:lang(th) .lingva-startpagxo-titoloj {
   font-size: 1.35rem;
   margin-bottom: 0;
 }
+.lingva-startpagxo-lingvoelektilo {
+  margin-top: 0.85rem;
+}
 .lingva-startpagxo-trajtoj {
   margin-bottom: 1.75rem;
 }
@@ -299,6 +304,31 @@ html:lang(th) .lingva-startpagxo-titoloj {
   gap: 0.75rem;
   justify-content: center;
   margin-bottom: 1.5rem;
+}
+.pwa-instala-helpo {
+  animation: pwa-instala-helpo-aufsxovo 180ms ease-out;
+  flex-basis: 100%;
+  margin: 0.25rem auto 0;
+  max-width: 36rem;
+  overflow: hidden;
+  text-align: center;
+}
+@keyframes pwa-instala-helpo-aufsxovo {
+  from {
+    max-height: 0;
+    opacity: 0;
+    transform: translateY(-0.35rem);
+  }
+  to {
+    max-height: 8rem;
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .pwa-instala-helpo {
+    animation: none;
+  }
 }
 .lingva-startpagxo-lingvoj {
   max-height: min(70vh, 24rem);

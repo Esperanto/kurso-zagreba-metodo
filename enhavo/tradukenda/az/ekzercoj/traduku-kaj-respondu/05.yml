@@ -1,0 +1,59 @@
+- demando: Biri neşeli şekilde şarkı söylediği sırada sen sakin şekilde öğrenebilir misin?
+  rektatraduko:
+  - Ĉu: misin
+  - vi: sen
+  - povas: -bilir, yapabilir
+  - trankvile: sakin şekilde, sakince
+  - lerni: öğrenmek
+  - ','
+  - dum: sırada, sırasında
+  - iu: biri, birisi
+  - ĝoje: neşeli
+  - kantas: şarkı söylüyor
+  - '?'
+- demando: Kim bilir, ne zaman ve nerede biz tekrar göreceğiz bizi?
+  rektatraduko:
+  - Kiu: Kİm
+  - scias: bilir
+  - ','
+  - kiam: ne zaman
+  - kaj: ve
+  - kie: nerede
+  - ni: biz
+  - revidos: tekrar görecegiz
+  - nin: bizi
+  - '?'
+- demando: Saat kaç şimdi?
+  rektatraduko:
+  - Kioma: kaç, kaçıncı
+  - horo: saat
+  - estas: -dır
+  - nun: şimdi
+  - '?'
+- demando: Biri size eski evin kapısını açmaya yardımcı oldu mu?
+  rektatraduko:
+  - Ĉu: Mu
+  - iu: biri
+  - helpis: yardımcı oldu
+  - al: -e
+  - vi: siz
+  - malfermi: açmak
+  - la: belirleyici artikel
+  - pordon: kapıyı
+  - de: -in
+  - la: belirleyici artikel
+  - malnova: eski
+  - domo: ev
+  - '?'
+- demando: Neden beni daha fazla dinlemeye vaktiniz yok?
+  rektatraduko:
+  - Kial: neden
+  - vi: siz
+  - ne: yok, hayır, -meyecek, -miyorum vs
+  - havas: sahip olmak
+  - tempon: zaman
+  - aŭskulti: dinlemek
+  - min: ben
+  - pli: daha fazla
+  - longe: long
+  - '?'

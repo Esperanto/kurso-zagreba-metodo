@@ -1,0 +1,49 @@
+- demando: Yanından kızkardeşimin ilacını getirebilir misin?
+  rektatraduko:
+  - Ĉu: misin
+  - vi: sen
+  - povas: -bilir, yapabilir
+  - kunporti: yanında getirmek, taşımak
+  - la: (belirleyici artikel)
+  - sanigilon: ilaç
+  - de: -in
+  - mia: benim
+  - fratino: kızkardeş
+  - '?'
+- demando: Bu müzik aletini ne zaman satın aldın?
+  rektatraduko:
+  - Kiam: ne zaman
+  - vi: sen
+  - aĉetis: satın aldı
+  - tiun: bu
+  - muzikilon: müzik aleti'ni
+  - '?'
+- demando: En son kim benim anahtarı kullandı?
+  rektatraduko:
+  - Kiu: kim
+  - laste: en son
+  - uzis: kullandı
+  - mian: benim
+  - ŝlosilon: anahtar'ı
+  - '?'
+- demando: Venedik'te gondol ile de seyahat ettiniz mi?
+  rektatraduko:
+  - Ĉu: mi
+  - vi: siz
+  - en: -te, içinde
+  - Venecio: Venedik
+  - veturis: seyahat etti, gitti
+  - ankaŭ: de, da
+  - per: ile, aracılığı ile
+  - gondolo: gondol
+  - '?'
+- demando: Sessizleşince uyuyabilecek misin?
+  rektatraduko:
+  - Ĉu: misin
+  - vi: sen
+  - povos: -bilecek, yapabilecek
+  - ekdormi: uyumak, uykuya dalmak
+  - ','
+  - kiam: olduğunda, zamanda
+  - silentiĝos: sessizleşti
+  - '?'

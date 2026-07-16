@@ -1,0 +1,67 @@
+- demando: Seni ne zaman tekrar göreceğim?
+  rektatraduko:
+  - Kiam: ne zaman
+  - mi: ben
+  - revidos: tekrar göreceğim
+  - vin: seni
+  - '?'
+- demando: Uluslararası dili ne kadar zaman öğreniyorsun?
+  rektatraduko:
+  - Kiom: ne kadar
+  - longe: uzun
+  - vi: sen
+  - lernas: öğreniyorsun
+  - la: (belirleyici artikel)
+  - Internacian: uluslararası
+  - Lingvon: dili
+  - '?'
+- demando: Fotoğraflar ile birlikte benim yeni kitabım nerededir?
+  rektatraduko:
+  - Kie: nerede
+  - estas: -dır, -dir
+  - mia: benim
+  - nova: yeni
+  - libro: kitap
+  - kun: ile birlikte
+  - fotoj: fotoğraflar
+  - '?'
+- demando: Öğle yemeğinden sonra nereye gideceksin?
+  rektatraduko:
+  - Kien: Nereye
+  - vi: sen
+  - iros: gideceksin
+  - post: -den sonra
+  - la: (belirleyici artikel)
+  - tagmanĝo: öğle yemeği
+  - '?'
+- demando: Soğuk olduğu zaman odanın kapısını birisi kapatabilir mi?
+  rektatraduko:
+  - Ĉu: mi
+  - oni: birisi
+  - povas: -bilir
+  - fermi: kapatmak
+  - la: (belireyici artikel)
+  - pordon: kapıyı
+  - de: -nin, -nin
+  - la: (Belirleyici artikel)
+  - ĉambro: oda
+  - ','
+  - kiam: zaman
+  - estas: olduğu
+  - malvarme: soğuk
+  - '?'
+- demando: Eğer biri senden çok para alıp götürürse ne kadar uzun kızarsın?
+  rektatraduko:
+  - Kiom: ne kadar
+  - longe: uzun
+  - vi: sen
+  - koleras: kızarsın
+  - ','
+  - se: eğer
+  - oni: biri
+  - forprenas: alıp götürürse
+  - de: -den
+  - vi: sen
+  - multan: çok
+  - monon: para
+  - '?'

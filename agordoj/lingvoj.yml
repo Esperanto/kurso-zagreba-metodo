@@ -11,6 +11,14 @@ ar:
     - nomo: Anwar Erouk
       github: anwarerouk
   tekstodirekto: rtl
+az:
+  nomo:
+    fontlingve: Azərbaycanca
+    esperante: azerbajĝana
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 be:
   nomo:
     fontlingve: Беларуская

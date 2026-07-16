@@ -8,11 +8,11 @@
   - la: (član)
   - tagmanĝo: ručak
   - '?'
-- demando: 'Što želite piti: čaj, malo kave ili ništa?'
+- demando: 'Što želiš piti: čaj, malo kave ili ništa?'
   rektatraduko:
   - Kion: Što
-  - vi: vi
-  - volas: želite
+  - vi: ti
+  - volas: želiš
   - trinki: piti
   - ':'
   - teon: čaj
@@ -22,8 +22,8 @@
   - kafo: kave
   - aŭ: ili
   - ĉu: li
-  - vi: vi
-  - volas: želite
+  - vi: ti
+  - volas: želiš
   - nenion: ništa
   - '?'
 - demando: Zašto si tako iznenada odlučio obnoviti svoju sobicu?

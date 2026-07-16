@@ -1,0 +1,59 @@
+- demando: Kas saate rahulikult õppida, kui keegi rõõmsalt laulab?
+  rektatraduko:
+  - Ĉu: kas
+  - vi: sina
+  - povas: saab
+  - trankvile: rahulikult
+  - lerni: õppida
+  - ','
+  - dum: samal ajal
+  - iu: keegi
+  - ĝoje: rõõmsalt
+  - kantas: laulab
+  - '?'
+- demando: Kes teab, millal ja kus me üksteist taas näeme?
+  rektatraduko:
+  - Kiu: WHO
+  - scias: teab
+  - ','
+  - kiam: millal
+  - kaj: ja
+  - kie: kus
+  - ni: meie
+  - revidos: näeb jälle
+  - nin: üksteist
+  - '?'
+- demando: Mis kell praegu on?
+  rektatraduko:
+  - Kioma: Mis numbriga
+  - horo: tund
+  - estas: 'on'
+  - nun: nüüd
+  - '?'
+- demando: Kas keegi aitas sul vana maja ust avada?
+  rektatraduko:
+  - Ĉu: kas
+  - iu: keegi
+  - helpis: aitas küll
+  - al: juurde
+  - vi: sina
+  - malfermi: avatud
+  - la: a
+  - pordon: uks
+  - de: kohta
+  - la: a
+  - malnova: vana
+  - domo: maja
+  - '?'
+- demando: Miks sul ei ole aega mind kauem kuulata?
+  rektatraduko:
+  - Kial: Miks
+  - vi: sina
+  - ne: mitte
+  - havas: 'on'
+  - tempon: aega
+  - aŭskulti: kuulata
+  - min: mina
+  - pli: rohkem
+  - longe: pikk
+  - '?'

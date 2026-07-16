@@ -1,0 +1,72 @@
+- demando: Kas suurte hotellide kelnerid mõistavad paljusid keeli?
+  rektatraduko:
+  - Ĉu: kas
+  - kelneroj: kelnerid
+  - en: sisse
+  - grandaj: suur
+  - hoteloj: hotellid
+  - komprenas: aru saada
+  - multajn: paljud
+  - lingvojn: keeled
+  - '?'
+- demando: Kas tead, kas Anale meeldib uus laul vaesest mehest ja ilusast naisest?
+  rektatraduko:
+  - Ĉu: kas
+  - vi: sina
+  - scias: tea
+  - ','
+  - ĉu: kas
+  - Ana: Ana
+  - ŝatas: meeldib
+  - la: a
+  - novan: uus
+  - kanton: laul
+  - pri: umbes
+  - malriĉulo: vaene inimene
+  - kaj: ja
+  - belulino: ilus naine
+  - '?'
+- demando: Kus sa nägid vanameest ja noormeest suurt lauda kandmas?
+  rektatraduko:
+  - Kie: Kus
+  - vi: sina
+  - vidis: nägi küll
+  - la: a
+  - maljunulon: vana inimene
+  - kaj: ja
+  - la: a
+  - junulon: noor inimene
+  - ','
+  - kiuj: WHO
+  - portis: kandsid
+  - grandan: suur
+  - tablon: laud
+  - '?'
+- demando: Kuidas sa ilma õdede-vendadeta jälle meie juurde tulid?
+  rektatraduko:
+  - Kiel: Kuidas
+  - okazis: kas see juhtus
+  - ','
+  - ke: et
+  - vi: sina
+  - denove: uuesti
+  - venis: tuli
+  - al: juurde
+  - ni: meie
+  - sen: ilma
+  - gefratoj: õed-vennad
+  - '?'
+- demando: Kas uue õpikuga saate esperanto selgeks üsna kiiresti?
+  rektatraduko:
+  - Ĉu: kas
+  - vi: sina
+  - povas: saab
+  - per: abiga
+  - la: a
+  - nova: uus
+  - lernolibro: õpik
+  - sufiĉe: päris
+  - rapide: kiiresti
+  - lerni: õppida
+  - Esperanton: esperanto
+  - '?'

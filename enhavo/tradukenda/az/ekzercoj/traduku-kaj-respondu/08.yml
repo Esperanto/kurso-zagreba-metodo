@@ -1,0 +1,80 @@
+- demando: Öğle yemeğinden sonra mutfağı kim temizleyecek?
+  rektatraduko:
+  - Kiu: kim
+  - purigos: temizleyecek
+  - la: (beirleyici artikel)
+  - kuirejon: mutfak'ı
+  - post: sonra, -den sonra
+  - la: (belirleyici artikel)
+  - tagmanĝo: öğle yemeği
+  - '?'
+- demando: Ne içmek istiyorsun, çay, biraz kahve yoksa hiç bir şey istemiyor musun?
+  rektatraduko:
+  - Kion: ne, neyi
+  - vi: sen
+  - volas: istiyorsun
+  - trinki: içmek
+  - ':'
+  - teon: çay
+  - ','
+  - iom: biraz
+  - da: -den, -dan
+  - kafo: kahve
+  - aŭ: yoksa, veya
+  - ĉu: mi
+  - vi: sen
+  - volas: istiyor
+  - nenion: hiçbirşey'i
+  - '?'
+- demando: Niçin böyle aniden küçük odanızı yenilemeye karar verdiniz?
+  rektatraduko:
+  - Kial: neden, miçin
+  - vi: siz
+  - tiel: böyle
+  - subite: aniden
+  - decidis: karar verdi
+  - renovigi: yenilemek
+  - vian: sizin
+  - ĉambreton: küçük oda'yı
+  - '?'
+- demando: Şarap için temiz kadehlerini kime verdin?
+  rektatraduko:
+  - Al: -e (ismin -e hali)
+  - kiu: kim
+  - vi: sen
+  - donis: verdin
+  - la: (belirleyici artikel)
+  - purajn: temiz
+  - glasojn: bardaklar'ı
+  - por: için
+  - la: (belirleyici artikel)
+  - vino: şarap
+  - '?'
+- demando: Spor kulübünüz iki hafta önce kime karşı oynadı?
+  rektatraduko:
+  - Kontraŭ: Karşı
+  - kiu: kim
+  - ludis: oynadı
+  - via: sizin
+  - sportklubo: spor kulübü
+  - antaŭ: önce
+  - du: iki
+  - semajnoj: hafta
+  - '?'
+- demando: Sizin üzerinizdeki dairede yaşayan polisi sık sık görüyor musunuz?
+  rektatraduko:
+  - Ĉu: musunuz
+  - vi: siz
+  - ofte: sık sık
+  - vidas: görüyor
+  - la: (belirleyici artikel)
+  - policiston: polis
+  - ','
+  - kiu: ki o
+  - loĝas: yaşıyor
+  - en: -de, içinde
+  - la: (belirleyici artikel)
+  - loĝejo: daire
+  - super: üzeri, üzerinde
+  - vi: siz
+  - '?'

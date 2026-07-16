@@ -11,6 +11,14 @@ ar:
     - nomo: Anwar Erouk
       github: anwarerouk
   tekstodirekto: rtl
+az:
+  nomo:
+    fontlingve: Azərbaycanca
+    esperante: azerbajĝana
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 be:
   nomo:
     fontlingve: Беларуская
@@ -19,6 +27,14 @@ be:
   aŭtoroj:
     - nomo: Roman Ralko
       github: EternaKrokodilanto
+bg:
+  nomo:
+    fontlingve: Български
+    esperante: bulgara
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 bn:
   nomo:
     fontlingve: বাংলা
@@ -120,6 +136,14 @@ es:
       github: alescomu
     - nomo: Guillermo Molleda Jimena
       github: gmolledaj
+et:
+  nomo:
+    fontlingve: Eesti
+    esperante: estona
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 eu:
   nomo:
     fontlingve: Euskara
@@ -193,6 +217,14 @@ ha:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+hak:
+  nomo:
+    fontlingve: 客家話
+    esperante: hakka
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 he:
   nomo:
     fontlingve: עברית
@@ -243,6 +275,14 @@ id:
       github: tayamsukit
     - nomo: Onklo ENG
       github: onklo
+ig:
+  nomo:
+    fontlingve: Igbo
+    esperante: igboa
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 is:
   nomo:
     fontlingve: Íslenska
@@ -273,6 +313,30 @@ ja:
       github: ucxgk
     - nomo: NAMBA Fumiharu
       github: osametan
+jv:
+  nomo:
+    fontlingve: Basa Jawa
+    esperante: java
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
+ka:
+  nomo:
+    fontlingve: ქართული
+    esperante: kartvela
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
+kbp:
+  nomo:
+    fontlingve: Kabɩyɛ
+    esperante: kabijea
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 kk:
   nomo:
     fontlingve: Қазақша

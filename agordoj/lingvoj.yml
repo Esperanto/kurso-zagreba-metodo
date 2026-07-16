@@ -275,6 +275,14 @@ id:
       github: tayamsukit
     - nomo: Onklo ENG
       github: onklo
+ig:
+  nomo:
+    fontlingve: Igbo
+    esperante: igboa
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 is:
   nomo:
     fontlingve: Íslenska

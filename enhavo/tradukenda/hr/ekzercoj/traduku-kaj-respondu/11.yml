@@ -1,6 +1,6 @@
-- demando: Možete li donijeti lijek moje sestre?
+- demando: Možete li ponijeti lijek moje sestre?
   rektatraduko:
-  - Ĉu: Da li
+  - Ĉu: Je li
   - vi: vi
   - povas: možete
   - kunporti: ponijeti
@@ -28,7 +28,7 @@
   - '?'
 - demando: Jesi li se u Veneciji vozio i gondolom?
   rektatraduko:
-  - Ĉu: Da li
+  - Ĉu: Je li
   - vi: ti
   - en: u
   - Venecio: Venecija
@@ -37,13 +37,13 @@
   - per: pomoću
   - gondolo: gondola
   - '?'
-- demando: Jesi li mogao zaspati kada je utihnulo?
+- demando: Hoćeš li moći zaspati kad utihne?
   rektatraduko:
-  - Ĉu: Da li
+  - Ĉu: Je li
   - vi: ti
   - povos: moći ćeš
   - ekdormi: zaspati
   - ','
   - kiam: kada
-  - silentiĝos: utihnulo je
+  - silentiĝos: utihnut će
   - '?'

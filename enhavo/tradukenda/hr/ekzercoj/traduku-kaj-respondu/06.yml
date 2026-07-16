@@ -1,6 +1,6 @@
-- demando: Želiš li da ti danas pokažem moju najnoviju knjigu o bolestima djece?
+- demando: Želiš li da ti pokažem svoju najnoviju knjigu?
   rektatraduko:
-  - Ĉu: Da li
+  - Ĉu: Je li
   - vi: ti
   - deziras: želiš
   - ','
@@ -22,9 +22,9 @@
   - morgaŭ: sutra
   - matenmanĝi: doručkovati
   - '?'
-- demando: Znaš li kada dolazi Marko, u pet ili u osam sati?
+- demando: Kada će Marko stići, u pet ili u osam sati?
   rektatraduko:
-  - Kiam: kada
+  - Kiam: Kada
   - Marko: Marko
   - alvenos: stići će
   - ','

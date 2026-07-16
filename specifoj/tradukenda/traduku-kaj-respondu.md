@@ -20,6 +20,9 @@ Koncernas `ekzercoj/traduku-kaj-respondu/*.yml`.
 - Permesu normalan cellingvan fleksion, kongruon, kazon kaj verboformon, kiam
   tio helpas la lokan vortgrupon. Preferu tamen simplan kaj malplej distran
   formon; ne fleksiu pli ol necesas por komprenebleco.
+- Se cellingva kazo aŭ fleksio povus ŝajni indiki Esperantan markon, kiu ne
+  ĉeestas en la Esperanta vorto, preferu bazan aŭ malpli distran gloson, se la
+  mapo restas klara.
 - Por sama Esperanta vorto kun sama signifo, konservu la saman bazan signifon
   aŭ vortstamon tra la ekzercoj, sed ne devigu identan surfacan formon se la
   cellingva gramatiko nature postulas alian formon.

@@ -110,7 +110,7 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
     'src',
     '/assets/img/logo/logo-256.png',
   );
-  await expect(page.getByRole('heading', { name: 'Esperanto in 12 Hours' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Learn Esperanto in 12 Hours' })).toBeVisible();
   await expect(page.getByText('The Fastest Basics Course')).toBeVisible();
   await expect(page.getByText('Learn the 500 most important words')).toBeVisible();
   await expect(page.getByText('Understand 95 % of spoken Esperanto')).toBeVisible();
@@ -238,7 +238,7 @@ test('startpaĝa lingvoelektilo vicigxas kun la titoloj', async ({ page }) => {
   await page.goto('/en/');
 
   const logo = page.locator('.lingva-startpagxo-logo');
-  const title = page.getByRole('heading', { name: 'Esperanto in 12 Hours' });
+  const title = page.getByRole('heading', { name: 'Learn Esperanto in 12 Hours' });
   const languageButton = page.locator('.lingva-startpagxo-titoloj .dropdown-toggle');
 
   const logoBox = await logo.boundingBox();

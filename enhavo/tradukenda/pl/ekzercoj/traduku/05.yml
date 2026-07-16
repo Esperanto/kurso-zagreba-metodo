@@ -1,6 +1,9 @@
 - sinjorino: pani
-- malmultekosta: tani
-- ĉiutaga: codzienny
+- malmultekosta:
+  - tani
+  - niedrogi
+- ĉiutaga:
+  - codzienny
 - intertempe:
   - w tym czasie
   - tymczasem
@@ -8,7 +11,11 @@
   - zapełniony
   - zapchany
   - pełny
-- nuntempe: obecnie
+  - przepełniony
+- nuntempe:
+  - obecnie
+  - aktualnie
+  - współcześnie
 - malhelpi:
   - przeszkadzać
   - utrudniać
@@ -22,7 +29,13 @@
 - jarcento:
   - wiek
   - stulecie
-- kvarmonate: co cztery miesiące
-- alveturi: nadjechać
-- pli multekosta: droższy
-- la plej juna: najmłodszy
+- kvarmonate:
+  - co cztery miesiące
+  - raz na cztery miesiące
+- alveturi:
+  - nadjechać
+  - przyjechać
+- pli multekosta:
+  - droższy
+- la plej juna:
+  - najmłodszy

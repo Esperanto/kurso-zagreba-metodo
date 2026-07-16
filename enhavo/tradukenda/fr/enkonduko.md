@@ -5,4 +5,3 @@
 Après le cours, vous **comprendrez l'essentiel**, formerez vos propres phrases et pourrez communiquer des idées de base dans des situations quotidiennes.
 
 Essayez !
-____

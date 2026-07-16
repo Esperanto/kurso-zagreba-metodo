@@ -1,0 +1,51 @@
+- demando: మీ స్నేహితురాలు ఎవరు?
+  rektatraduko:
+  - Kiu: ఎవరు
+  - estas: ఉంది
+  - via: మీ
+  - amikino: స్నేహితురాలు
+  - '?'
+- demando: మీ స్నేహితురాలు ఆనా ఇప్పుడు గదిలో రాస్తుందా?
+  rektatraduko:
+  - Ĉu: ప్రశ్న సూచకం
+  - via: మీ
+  - amikino: స్నేహితురాలు
+  - Ana: ఆనా
+  - skribas: రాస్తుంది
+  - nun: ఇప్పుడు
+  - en: లో
+  - la: ఆ
+  - ĉambro: గది
+  - '?'
+- demando: మీ తండ్రి స్నేహితుడు హోటల్లో పని చేస్తాడా?
+  rektatraduko:
+  - Ĉu: ప్రశ్న సూచకం
+  - la: ఆ
+  - amiko: స్నేహితుడు
+  - de: యొక్క
+  - via: మీ
+  - patro: తండ్రి
+  - laboras: పని చేస్తాడు
+  - en: లో
+  - hotelo: హోటల్
+  - '?'
+- demando: మన గదిలోని పనిబల్లపై ఏముంది?
+  rektatraduko:
+  - Kio: ఏమి
+  - estas: ఉంది
+  - sur: పై
+  - la: ఆ
+  - labortablo: పనిబల్ల
+  - en: లో
+  - nia: మన
+  - ĉambro: గది
+  - '?'
+- demando: మీ బల్లపై ఎస్పెరాంటో పాఠ్యపుస్తకం ఉందా?
+  rektatraduko:
+  - Ĉu: ప్రశ్న సూచకం
+  - Esperanto-lernolibro: ఎస్పెరాంటో పాఠ్యపుస్తకం
+  - estas: ఉంది
+  - sur: పై
+  - via: మీ
+  - tablo: బల్ల
+  - '?'

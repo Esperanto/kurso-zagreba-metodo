@@ -5,4 +5,3 @@
 Kay yachayta tukuspaqa, **aswan allin kaqninkunata hamutanki**, kikin rimaykunata ruwanki, hinaspa sapa p'unchaypi sasan mana kaq yuyaykunata willakuyta atinki.
 
 Malliylla!
-____

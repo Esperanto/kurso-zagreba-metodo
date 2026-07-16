@@ -5,4 +5,3 @@
 Po kursie **zrozumiesz podstawy**, utworzysz własne zdania i będziesz umieć przekazywać proste myśli w codziennych sytuacjach.
 
 Po prostu spróbuj!
-____

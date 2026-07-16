@@ -5,4 +5,3 @@
 Después del curso, **entenderás lo esencial**, formarás tus propias frases y podrás comunicar ideas básicas en situaciones cotidianas.
 
 ¡Pruébalo!
-____

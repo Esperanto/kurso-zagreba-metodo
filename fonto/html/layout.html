@@ -16,6 +16,18 @@
     {% for alterna in seo.alternaj_ligiloj %}
       <link rel="alternate" hreflang="{{alterna.hreflang}}" href="{{alterna.url}}" />
     {% endfor %}
+    <meta property="og:url" content="{{seo.og_url}}" />
+    <meta property="og:site_name" content="{{seo.og_site_name}}" />
+    <meta property="og:description" content="{{seo.og_description|e}}" />
+    <meta property="og:locale" content="{{seo.og_locale}}" />
+    {% for locale in seo.og_locale_alternativoj %}
+      <meta property="og:locale:alternate" content="{{locale}}" />
+    {% endfor %}
+    {% if seo.og_audio %}
+      <meta property="og:audio" content="{{seo.og_audio.url}}" />
+      <meta property="og:audio:secure_url" content="{{seo.og_audio.url}}" />
+      <meta property="og:audio:type" content="{{seo.og_audio.type}}" />
+    {% endif %}
     <meta property="og:image" content="{{enhavo.og_bildo_url}}" />
     <title>{% filter normaligu_spacojn %}{% block title %}{% endblock %}{% endfilter %}</title>
 
@@ -58,6 +70,8 @@
         });
       </script>
     {% endif %}
+    {% set tiparoj_vojprefikso = vojprefikso ~ '../' %}
+    {% include 'tiparoj.html' %}
     <link href="{{vojprefikso}}../assets/bundle.css?versio={{enhavo.versio}}" rel="stylesheet" />
   </head>
   <body>

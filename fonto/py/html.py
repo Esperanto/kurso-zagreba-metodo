@@ -24,11 +24,47 @@ FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
 AKTIVOJ_DIST_DIR = FONTO_DIR / 'aktivoj' / 'dist'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
+SITE_NAME = 'Esperanto12.net'
 SITE_URL = 'https://esperanto12.net'
 GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
 LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
+OG_LOCALE_OVERRIDES = {
+    'ar': 'ar_SA',
+    'ca': 'ca_ES',
+    'cs': 'cs_CZ',
+    'da': 'da_DK',
+    'de': 'de_DE',
+    'el': 'el_GR',
+    'en': 'en_US',
+    'es': 'es_ES',
+    'fa': 'fa_IR',
+    'fr': 'fr_FR',
+    'ga': 'ga_IE',
+    'he': 'he_IL',
+    'hr': 'hr_HR',
+    'hu': 'hu_HU',
+    'id': 'id_ID',
+    'is': 'is_IS',
+    'it': 'it_IT',
+    'ja': 'ja_JP',
+    'ko': 'ko_KR',
+    'ms': 'ms_MY',
+    'nl': 'nl_NL',
+    'pl': 'pl_PL',
+    'pt': 'pt_PT',
+    'ru': 'ru_RU',
+    'sk': 'sk_SK',
+    'sl': 'sl_SI',
+    'sv': 'sv_SE',
+    'th': 'th_TH',
+    'tr': 'tr_TR',
+    'uk': 'uk_UA',
+    'vi': 'vi_VN',
+    'zh': 'zh_CN',
+    'zh-tw': 'zh_TW',
+}
 LLMS_FULL_PRINTENDAJ = {
     'partoj': (
         'teksto',
@@ -49,6 +85,7 @@ ET.register_namespace('', SITEMAP_NS)
 
 
 def morfema_emfazo(md):
+    # Retrokongrue subtenu malnovan morfem-markadon kiel *lern__i__*.
     def parse_morfema_emfazo(inline, match, state):
         child_state = state.copy()
         child_state.src = match.group('morfemo')
@@ -68,7 +105,7 @@ def morfema_emfazo(md):
 
 class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
     def __init__(self):
-        super().__init__()
+        super().__init__(escape=False)
         self._uzitaj_ankroj = {}
 
     def heading(self, text, level, **attrs):
@@ -169,6 +206,16 @@ def og_bildo_url(lingvo):
     return f'{SITE_URL}/assets/img/og.png'
 
 
+def og_audio_datenoj(leciono_index):
+    dosiernomo = str(leciono_index).zfill(2) + '.ogg'
+    if not (FONTO_DIR / 'sonoj' / 'ogg' / dosiernomo).is_file():
+        return None
+    return {
+        'url': absoluta_url('/assets/ogg/' + dosiernomo),
+        'type': 'audio/ogg',
+    }
+
+
 def absoluta_url(vojo):
     if not vojo.startswith('/'):
         vojo = '/' + vojo
@@ -180,6 +227,22 @@ def pretaj_lingvokodoj(lingvoj):
         kodo
         for kodo, lingvo in sorted(lingvoj.items())
         if lingvo.get('stato') == 'preta'
+    ]
+
+
+def og_locale(lingvokodo):
+    return OG_LOCALE_OVERRIDES.get(lingvokodo, lingvokodo.replace('-', '_'))
+
+
+def alternaj_og_localej(lingvoj, nuna_lingvo):
+    nuna_locale = og_locale(nuna_lingvo)
+    return [
+        locale
+        for locale in [
+            og_locale(kodo)
+            for kodo in pretaj_lingvokodoj(lingvoj)
+        ]
+        if locale != nuna_locale
     ]
 
 
@@ -217,22 +280,34 @@ def alternaj_ligiloj(lingvoj, relativa_vojo, inkluzivu_x_default=True):
     return alternaj
 
 
-def seo_datenoj(enhavo, relativa_vojo=''):
+def seo_datenoj(enhavo, relativa_vojo='', og_audio=None):
     lingvo = enhavo['lingvo']
     stato = enhavo['lingvoj'][lingvo].get('stato')
     alternaj = []
     if stato == 'preta':
         alternaj = alternaj_ligiloj(enhavo['lingvoj'], relativa_vojo)
 
+    meta_description = meta_description_from_markdown(enhavo['enkonduko'])
+    canonical_url = absoluta_url(lingva_vojo(lingvo, relativa_vojo))
     return {
-        'canonical_url': absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
+        'canonical_url': canonical_url,
         'alternaj_ligiloj': alternaj,
-        'meta_description': meta_description_from_markdown(enhavo['enkonduko']),
+        'og_url': canonical_url,
+        'og_site_name': SITE_NAME,
+        'og_locale': og_locale(lingvo),
+        'og_locale_alternativoj': (
+            alternaj_og_localej(enhavo['lingvoj'], lingvo)
+            if stato == 'preta'
+            else []
+        ),
+        'og_description': meta_description,
+        'og_audio': og_audio,
+        'meta_description': meta_description,
         'noindex': stato == 'testa',
     }
 
 
-def hejma_seo_datenoj(hejmaj_lingvoj):
+def hejma_seo_datenoj(hejmaj_lingvoj, meta_description):
     lingvokodoj = sorted(lingvo['kodo'] for lingvo in hejmaj_lingvoj)
     alternaj = [
         {
@@ -249,6 +324,16 @@ def hejma_seo_datenoj(hejmaj_lingvoj):
     return {
         'canonical_url': absoluta_url('/'),
         'alternaj_ligiloj': alternaj,
+        'og_url': absoluta_url('/'),
+        'og_site_name': SITE_NAME,
+        'og_description': meta_description,
+        'og_locale': og_locale('en'),
+        'og_locale_alternativoj': [
+            og_locale(kodo)
+            for kodo in lingvokodoj
+            if og_locale(kodo) != og_locale('en')
+        ],
+        'og_audio': None,
         'noindex': False,
     }
 
@@ -667,7 +752,7 @@ def render_hejmo(versio, meta_description, hejmaj_lingvoj):
     return env.get_template('hejmo.html').render(
         hejmaj_lingvoj=hejmaj_lingvoj,
         meta_description=meta_description,
-        seo=hejma_seo_datenoj(hejmaj_lingvoj),
+        seo=hejma_seo_datenoj(hejmaj_lingvoj, meta_description),
         site_url=SITE_URL,
         versio=versio,
     )
@@ -871,7 +956,11 @@ def generate_html(
                 active_tab=tab,
                 identigilo=i_padded + '/' + href,
                 redaktaj_ligiloj=redaktaj_ligiloj(lingvo, tab, i_padded),
-                seo=seo_datenoj(enhavo, i_padded + '/' + href),
+                seo=seo_datenoj(
+                    enhavo,
+                    i_padded + '/' + href,
+                    og_audio=og_audio_datenoj(i) if tab == 'teksto' else None,
+                ),
             )
 
             eligo[leciono_dir / href / 'index.html'] = tab_rendered

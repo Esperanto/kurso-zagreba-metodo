@@ -1,20 +1,33 @@
-- estraro: zarząd
+- estraro:
+  - zarząd
+  - kierownictwo
 - tagmeze: w południe
 - posttagmeze: po południu
-- malsata: głodny
-- interkonsenti: godzić się
+- malsata:
+  - głodny
+- interkonsenti:
+  - godzić się
+  - zgadzać się
+  - porozumieć się
+  - dojść do porozumienia
 - manĝilaro:
   - nakrycie stołowe
   - zastawa
+  - zastawa stołowa
   - sztućce
-- vidpunkto: punkt widzenia
+- vidpunkto:
+  - punkt widzenia
+  - perspektywa
 - malfermilo: otwieracz
 - noktomezo: północ
 - publikigi:
   - publikować
   - opublikować
-- pagigi: pobierać opłatę
+- pagigi:
+  - pobierać opłatę
+  - kazać płacić
 - duflanka:
   - dwustronny
   - obustronny
-- aliflanke: z drugiej strony
+- aliflanke:
+  - z drugiej strony

@@ -5,4 +5,3 @@
 Etter kurset vil du **forstå det grunnleggende**, lage dine egne setninger og kunne formidle enkle ideer i hverdagssituasjoner.
 
 Prøv det!
-____

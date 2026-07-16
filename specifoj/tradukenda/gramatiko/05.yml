@@ -1,0 +1,85 @@
+- temo: Tabelvortoj
+  subtemoj:
+  - La sistemo de komencoj ki-, ti-, i-, ĉi-, neni-.
+  - La sistemo de finaĵoj -o, -u, -a, -e, -am, -al, -el, -om, -es.
+  - Kelkaj tabelvortoj povas ricevi -j kaj -n.
+  - Ligu al la plena tabelvortaro anstataŭ montri Markdown-tabelon.
+  ekzemploj:
+  - ĉio
+  - ĉiu
+  - ĉiam
+- temo: Kio
+  subtemoj:
+  - Kio demandas pri afero.
+  - Kion estas la akuzativa formo.
+  ekzemploj:
+  - Kion vi manĝas?
+- temo: Kiu-formoj
+  subtemoj:
+  - Kiu, kiun, kiuj kaj kiujn.
+  - Kiu kiel demanda kaj rilata vorto.
+  ekzemploj:
+  - Kiu scias?
+  - kiujn fotojn
+- temo: Kia
+  subtemoj:
+  - Kia, kian, kiaj kaj kiajn.
+  - Demandas pri eco aŭ speco.
+  ekzemploj:
+  - Kia estas la vetero?
+  - Kiajn fotojn vi faris?
+- temo: Kie
+  subtemoj:
+  - Kie demandas pri loko.
+  - Kien demandas pri direkto.
+  ekzemploj:
+  - Kie mi estas?
+  - Kien vi iras?
+- temo: Aliaj tabelvortoj por la ekzercoj
+  subtemoj:
+  - Kiam, kial, kiom kaj kioma.
+  - Iu por nedifinita persono.
+  ekzemploj:
+  - Kioma horo estas?
+  - Kial vi ne havas tempon?
+  - dum iu kantas
+- temo: Tabelvortoj kun prepozicioj
+  subtemoj:
+  - Prepozicio povas stari antaŭ tabelvorto.
+  - La prepozicio montras la rilaton.
+  ekzemploj:
+  - al kiu
+  - kun kiu
+- temo: Komparacio
+  subtemoj:
+  - Pli por komparativo.
+  - Plej por superlativo.
+  - Ol kaj el en komparoj.
+  ekzemploj:
+  - pli multekosta
+  - la plej juna
+- temo: Dum
+  subtemoj:
+  - Dum montras samtempecon aŭ daŭron.
+  ekzemploj:
+  - dum ŝi kantas
+- temo: Ĉi
+  subtemoj:
+  - Ĉi montras proksimecon ĉe ti-vortoj.
+  ekzemploj:
+  - ĉi tiu
+  - ĉi tie
+- temo: Sufikso -ind
+  subtemoj:
+  - Indas fari aŭ meritas ion.
+  ekzemploj:
+  - leginda
+  - bedaŭrinde
+- temo: Tempo-radikoj en kunmetaĵoj
+  subtemoj:
+  - Tag, jar, monat, temp kaj cent formas oftajn kunmetaĵojn.
+  ekzemploj:
+  - ĉiutaga
+  - ĉiujare
+  - kvarmonate
+  - jarcento

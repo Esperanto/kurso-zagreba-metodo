@@ -8,7 +8,7 @@ from pathlib import Path
 
 from . import html as html_generilo
 from . import md as md_generilo
-from .ankroj import unika_ankro
+from .ankroj import forigu_html, unika_ankro
 
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
@@ -140,15 +140,16 @@ def get_markdown_headlines(s):
     titoloj = []
     for match in re.finditer(r'(^|\n)# (.+)\n', s):
         titolo = purigu_titolon(match.group(2))
+        titolo_por_ankro = forigu_html(titolo).strip()
         titoloj.append({
             'titolo': titolo,
-            'ankro': unika_ankro(titolo, uzitaj),
+            'ankro': unika_ankro(titolo_por_ankro, uzitaj),
         })
     return titoloj
 
 
 def load(language, gramatiko_transpose_headlines=2):
-    enhavo = {'lingvo': language, 'vortaro': {}}
+    enhavo = {'lingvo': language, 'vortaro': {}, 'tutvorta_vortaro': {}}
 
     tradukenda_dir = ENHAVO_DIR / 'tradukenda' / language
     netradukenda_dir = ENHAVO_DIR / 'netradukenda'
@@ -168,6 +169,14 @@ def load(language, gramatiko_transpose_headlines=2):
                 'vortspeco': vortspeco
             }
         enhavo['vortaro'].update(vortlisto)
+
+    for esperante, vortero in enhavo['vortaro'].items():
+        if vortero['vortspeco'] == 'vorto':
+            enhavo['tutvorta_vortaro'][esperante] = vortero
+
+    for esperante, vortero in enhavo['vortaro'].items():
+        if vortero['vortspeco'] != 'radiko':
+            enhavo['tutvorta_vortaro'].setdefault(esperante, vortero)
 
     enhavo['finajxoj'] = legi_yaml(netradukenda_dir / 'radikaj_finajxoj.yml')
 
@@ -189,8 +198,8 @@ def load(language, gramatiko_transpose_headlines=2):
     enhavo['enkonduko'] = enkonduko
 
     path = tradukenda_dir / 'post.md'
-    enhavo['post'] = legi_tekston(path)
-    enhavo['post'] = transpose_headlines(enhavo['post'], 2)
+    post = legi_tekston(path).strip()
+    enhavo['post'] = transpose_headlines(post, 2) if post else ''
 
     lecionoj = []
     vortoj = set()

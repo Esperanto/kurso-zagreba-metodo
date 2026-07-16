@@ -1,15 +1,22 @@
-- leterportisto: listonosz
-- hejmlando: ojczyzna
+- leterportisto:
+  - listonosz
+- hejmlando:
+  - ojczyzna
+  - kraj rodzinny
 - iomete:
   - trochę
   - troszeczkę
+  - odrobinę
 - bonege:
   - wspaniale
   - świetnie
+  - bardzo dobrze
+  - znakomicie
 - vespermanĝo: kolacja
 - prizorgi:
   - opiekować się
   - pielęgnować
+  - dbać o
 - espereble:
   - oby
   - miejmy nadzieję
@@ -17,11 +24,17 @@
 - altkvalita:
   - wysokojakościowy
   - wysokiej jakości
-- pripensi: przemyśleć
+- pripensi:
+  - przemyśleć
+  - rozważyć
 - depreni:
   - zdjąć
+  - zdejmować
   - zabrać
-- loĝejo: mieszkanie
+  - zabierać
+- loĝejo:
+  - mieszkanie
+  - miejsce zamieszkania
 - dufoje:
   - dwa razy
   - dwukrotnie
@@ -33,8 +46,11 @@
   - mieć na imię
 - ruĝiĝi:
   - czerwienić się
+  - zaczerwienić się
   - rumienić
 - libreto:
   - książeczka
   - broszura
-- varmega: gorący
+- varmega:
+  - gorący
+  - bardzo gorący

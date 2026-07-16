@@ -5,4 +5,3 @@
 Po kurze budeš **rozumieť základom**, tvoriť vlastné vety a dokážeš vyjadriť základné myšlienky v každodenných situáciách.
 
 Jednoducho to skús!
-____

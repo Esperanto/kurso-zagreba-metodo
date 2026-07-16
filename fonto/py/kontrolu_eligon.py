@@ -27,6 +27,16 @@ CANONICAL_LESSON_PATTERN = re.compile(r'<link rel="canonical" href="https://espe
 HREFLANG_EN_PATTERN = re.compile(r'<link rel="alternate" hreflang="en" href="https://esperanto12\.net/en/" />')
 HREFLANG_DE_PATTERN = re.compile(r'<link rel="alternate" hreflang="de" href="https://esperanto12\.net/de/" />')
 HREFLANG_X_DEFAULT_PATTERN = re.compile(r'<link rel="alternate" hreflang="x-default" href="https://esperanto12\.net/" />')
+OG_URL_ROOT_PATTERN = re.compile(r'<meta property="og:url" content="https://esperanto12\.net/en/" />')
+OG_URL_LESSON_PATTERN = re.compile(r'<meta property="og:url" content="https://esperanto12\.net/en/01/" />')
+OG_SITE_NAME_PATTERN = re.compile(r'<meta property="og:site_name" content="Esperanto12\.net" />')
+OG_DESCRIPTION_PATTERN = re.compile(r'<meta property="og:description" content="Teaches the most important 500 words\. Free and without registration\.')
+OG_LOCALE_EN_PATTERN = re.compile(r'<meta property="og:locale" content="en_US" />')
+OG_LOCALE_ALTERNATE_DE_PATTERN = re.compile(r'<meta property="og:locale:alternate" content="de_DE" />')
+OG_AUDIO_PATTERN = re.compile(r'<meta property="og:audio" content="https://esperanto12\.net/assets/ogg/01\.ogg" />')
+OG_AUDIO_SECURE_PATTERN = re.compile(r'<meta property="og:audio:secure_url" content="https://esperanto12\.net/assets/ogg/01\.ogg" />')
+OG_AUDIO_TYPE_PATTERN = re.compile(r'<meta property="og:audio:type" content="audio/ogg" />')
+OG_AUDIO_ANY_PATTERN = re.compile(r'<meta property="og:audio"')
 ROBOTS_SITEMAP_PATTERN = re.compile(r'Sitemap: https://esperanto12\.net/sitemap\.xml')
 SITEMAP_EN_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/</loc>')
 LLMS_ROOT_TITLE_PATTERN = re.compile(r'^# Esperanto12\.net$', re.M)
@@ -42,6 +52,8 @@ LLMS_EN_DUPLICATE_INTRO_PATTERN = re.compile(
 LLMS_FULL_LESSON_1_PATTERN = re.compile(r'Amiko\s+Marko')
 LLMS_FULL_LESSON_12_PATTERN = re.compile(r'Nokta\s+promeno')
 RAW_TEMPLATE_PATTERN = re.compile(r'\{\{[^}]+\}\}')
+FONT_DISPLAY_OPTIONAL_PATTERN = re.compile(r'font-display:optional')
+FONT_DISPLAY_SWAP_PATTERN = re.compile(r'font-display:\s*swap')
 
 
 def fail(message):
@@ -89,6 +101,22 @@ def forbid_pattern(path, pattern):
         fail('ne eblas legi kiel UTF-8 ' + str(path) + ': ' + str(error))
     if pattern.search(text):
         fail('trovis neatenditan enhavon en ' + str(path))
+
+
+def require_font_preloads(path, href_prefix):
+    for subset, weight in (
+        ('latin', 400),
+        ('latin-ext', 400),
+        ('latin', 700),
+    ):
+        pattern = re.compile(
+            r'<link\s+rel="preload"\s+href="'
+            + re.escape(href_prefix)
+            + rf'assets/files/fira-sans-{subset}-{weight}-normal\.woff2"'
+            + r'\s+as="font"\s+type="font/woff2"\s+crossorigin\s*/>',
+            re.S,
+        )
+        require_pattern(path, pattern)
 
 
 def require_apkg(path):
@@ -181,9 +209,24 @@ def main():
     require_pattern(lingvo_dir / 'index.html', HREFLANG_EN_PATTERN)
     require_pattern(lingvo_dir / 'index.html', HREFLANG_DE_PATTERN)
     require_pattern(lingvo_dir / 'index.html', HREFLANG_X_DEFAULT_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', OG_URL_ROOT_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', OG_SITE_NAME_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', OG_DESCRIPTION_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', OG_LOCALE_EN_PATTERN)
+    require_pattern(lingvo_dir / 'index.html', OG_LOCALE_ALTERNATE_DE_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', CANONICAL_LESSON_PATTERN)
+    require_pattern(lingvo_dir / '01' / 'index.html', OG_URL_LESSON_PATTERN)
+    require_pattern(lingvo_dir / '01' / 'index.html', OG_AUDIO_PATTERN)
+    require_pattern(lingvo_dir / '01' / 'index.html', OG_AUDIO_SECURE_PATTERN)
+    require_pattern(lingvo_dir / '01' / 'index.html', OG_AUDIO_TYPE_PATTERN)
+    forbid_pattern(lingvo_dir / '01' / 'vortoj' / 'index.html', OG_AUDIO_ANY_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', META_DESCRIPTION_PATTERN)
+    require_font_preloads(output_dir / 'index.html', '')
+    require_font_preloads(lingvo_dir / 'index.html', '/' + lingvo + '/../')
     require_lesson_image_alts(output_dir, lingvo)
+    bundle_css = output_dir / 'assets' / 'bundle.css'
+    require_pattern(bundle_css, FONT_DISPLAY_OPTIONAL_PATTERN)
+    forbid_pattern(bundle_css, FONT_DISPLAY_SWAP_PATTERN)
     # La vendaj bibliotekoj troviĝas nun en la kunmetita bundle.js; iliaj
     # versiaj banneroj restas, ĉar la vendaj dosieroj ne estas re-minigitaj.
     bundle_js = output_dir / 'assets' / 'bundle.js'

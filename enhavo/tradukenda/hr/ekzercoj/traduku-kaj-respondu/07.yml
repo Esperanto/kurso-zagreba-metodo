@@ -6,25 +6,25 @@
   - libron: knjigu
   - ','
   - kiun: koju
-  - vi: vi
-  - atendis: čekali ste
+  - vi: ti
+  - atendis: čekao je
   - pli: više
-  - ol: od
-  - du: dvije
+  - ol: nego
+  - du: dva
   - jarojn: godine
   - '?'
 - demando: Želiš li da ti pokažem svoju najdražu fotografiju?
   rektatraduko:
   - Ĉu: Li
   - vi: ti
-  - volas: želiš
+  - volas: želi
   - ','
   - ke: da
   - mi: ja
-  - montru: pokažem
+  - montru: pokaži
   - al: k
   - vi: ti
-  - mian: moju
+  - mian: moj
   - plej: naj
   - karan: dražu
   - foton: fotografiju
@@ -32,16 +32,16 @@
 - demando: Gdje ste kupili ovu odjeću?
   rektatraduko:
   - Kie: Gdje
-  - vi: vi
-  - aĉetis: ste kupili
-  - tiun: ovu
+  - vi: ti
+  - aĉetis: kupio
+  - tiun: taj
   - vestaĵon: odjeću
   - '?'
 - demando: Kamo ćeš otići u nedjelju ako bude sunčan dan?
   rektatraduko:
   - Kien: Kamo
   - vi: ti
-  - iros: ići ćeš
+  - iros: ići će
   - dimanĉe: u nedjelju
   - ','
   - se: ako
@@ -67,5 +67,5 @@
   - kiun: koju
   - vi: ti
   - mem: sam
-  - kunportis: donio si
+  - kunportis: donio je
   - '?'

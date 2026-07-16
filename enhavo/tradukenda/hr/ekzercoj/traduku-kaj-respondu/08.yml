@@ -12,7 +12,7 @@
   rektatraduko:
   - Kion: Što
   - vi: ti
-  - volas: želiš
+  - volas: želi
   - trinki: piti
   - ':'
   - teon: čaj
@@ -23,7 +23,7 @@
   - aŭ: ili
   - ĉu: li
   - vi: ti
-  - volas: želiš
+  - volas: želi
   - nenion: ništa
   - '?'
 - demando: Zašto si tako iznenada odlučio obnoviti svoju sobicu?
@@ -32,7 +32,7 @@
   - vi: ti
   - tiel: tako
   - subite: iznenada
-  - decidis: odlučio si
+  - decidis: odlučio je
   - renovigi: obnoviti
   - vian: tvoj
   - ĉambreton: mala soba
@@ -40,9 +40,9 @@
 - demando: Kome si dao čiste čaše za vino?
   rektatraduko:
   - Al: K
-  - kiu: kome
+  - kiu: tko
   - vi: ti
-  - donis: dao si
+  - donis: dao je
   - la: (član)
   - purajn: čiste
   - glasojn: čaše
@@ -66,15 +66,15 @@
   - Ĉu: Li
   - vi: ti
   - ofte: često
-  - vidas: vidiš
+  - vidas: vidi
   - la: (član)
   - policiston: policajca
   - ','
-  - kiu: koji
+  - kiu: tko
   - loĝas: stanuje
   - en: u
   - la: (član)
   - loĝejo: stan
   - super: iznad
-  - vi: tebe
+  - vi: ti
   - '?'

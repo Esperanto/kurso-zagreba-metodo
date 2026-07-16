@@ -24,6 +24,9 @@ strukturon**.
   proksima al la Esperanta enhavo.
 - Se kampo estas intence lernhelpa, ekzemple `rektatraduko`, sekvu ĝian apartan
   specifon.
+- En `rektatraduko`, traktu ĉiun Esperantan vorton izolite: ne adaptu la
+  cellingvan gloson al najbaraj vortoj, kaj tenu la saman gloson por la sama
+  Esperanta vorto kiam la signifo estas la sama.
 - Konservu la ekzistantan tonon kaj rektan alparolon al lernantoj.
 - Apliku la detalajn regulojn en `specifoj/tradukenda/`; tie troviĝas la
   fonto de vero por gramatikaj ekzemploj kaj akcepteblaj ekzerco-respondoj.

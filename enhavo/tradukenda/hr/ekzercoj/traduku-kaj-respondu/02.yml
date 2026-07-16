@@ -1,9 +1,9 @@
 - demando: Kakav je bio tvoj stari dom?
   rektatraduko:
   - Kia: Kakav
-  - estis: je bio
+  - estis: bio je
   - via: tvoj
-  - malnova: stari
+  - malnova: star
   - hejmo: dom
   - '?'
 - demando: Koje si knjige čitao i jesu li dobre?
@@ -11,20 +11,20 @@
   - Kiujn: Koje
   - librojn: knjige
   - vi: ti
-  - legis: si čitao
+  - legis: čitao je
   - kaj: i
   - ĉu: li
   - ili: one
-  - estas: su
+  - estas: je
   - bonaj: dobre
   - '?'
 - demando: Što su Ana i Marko radili u Markovoj maloj sobi?
   rektatraduko:
   - Kion: Što
-  - faris: su radili
+  - faris: radio je
   - Ana: Ana
   - kaj: i
-  - Marko: Marka
+  - Marko: Marko
   - en: u
   - la: (član)
   - malgranda: mala
@@ -36,7 +36,7 @@
   rektatraduko:
   - Ĉu: Li
   - vi: ti
-  - ŝatas: voliš
+  - ŝatas: voli
   - legi: čitati
   - librojn: knjige
   - pri: o
@@ -45,20 +45,20 @@
 - demando: Tko će ići s tobom u tvoj dom?
   rektatraduko:
   - Kiu: Tko
-  - iros: će ići
+  - iros: ići će
   - kun: s
   - vi: ti
-  - al: prema
+  - al: k
   - via: tvoj
   - hejmo: dom
   - '?'
 - demando: Kakve su oči tvoje prijateljice?
   rektatraduko:
   - Kiaj: Kakve
-  - estas: su
+  - estas: je
   - la: (član)
   - okuloj: oči
   - de: od
-  - via: tvoja
+  - via: tvoj
   - amikino: prijateljica
   - '?'

@@ -1,0 +1,71 @@
+- demando: İki yıldan fazla beklediğiniz kitap kimde idi?
+  rektatraduko:
+  - Kiu: kim
+  - havis: sahipti
+  - la: (belirleyici artikel)
+  - libron: kitap
+  - ','
+  - kiun: ki
+  - vi: siz
+  - atendis: beliyordunuz
+  - pli: fazla, daha fazla
+  - ol: -den, -dan
+  - du: iki
+  - jarojn: yıl
+  - '?'
+- demando: Benim için en değerli olan fotoğrafı size göstermemi istiyor musunuz?
+  rektatraduko:
+  - Ĉu: musunuz
+  - vi: siz
+  - volas: istiyor
+  - ','
+  - ke: ki
+  - mi: ben
+  - montru: göstereyim
+  - al: -e
+  - vi: size
+  - mian: benim
+  - plej: en, en fazla
+  - karan: değerli
+  - foton: fotoğraf'ı
+  - '?'
+- demando: Bu giysiyi nerede satın aldınız?
+  rektatraduko:
+  - Kie: nerede
+  - vi: siz
+  - aĉetis: satın aldı
+  - tiun: bu
+  - vestaĵon: giysiyi
+  - '?'
+- demando: Eğer güneşli bir gün ise, Pazar günü nereye gideceksiniz?
+  rektatraduko:
+  - Kien: nere'ye
+  - vi: siz
+  - iros: gidecek
+  - dimanĉe: Pazar günü
+  - ','
+  - se: eğer
+  - estos: olacak
+  - suna: güneşli
+  - tago: gün
+  - '?'
+- demando: Kardeşiniz ayrıldı bile mi?
+  rektatraduko:
+  - Ĉu: mi
+  - via: sizin
+  - frato: kardeş
+  - jam: bile, aten, şimdiden
+  - ekiris: ayrıldı, gitti
+  - '?'
+- demando: Kendin getirdiğin su nerede?
+  rektatraduko:
+  - Kie: nerede
+  - estas: -dir
+  - la: (belirleyici artikel)
+  - akvo: su
+  - ','
+  - kiun: ki onu
+  - vi: sen
+  - mem: kendin
+  - kunportis: getirdin, taşıdın
+  - '?'

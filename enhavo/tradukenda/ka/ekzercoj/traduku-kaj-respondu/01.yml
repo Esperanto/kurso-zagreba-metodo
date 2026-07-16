@@ -1,0 +1,51 @@
+- demando: Arkadaşın kim?
+  rektatraduko:
+  - Kiu: Kim
+  - estas: -dir yardımcı fiil
+  - via: senin, -ın, -an
+  - amikino: kadın arkadaş
+  - '?'
+- demando: Arkadaşın Ana şimdi odada yazıyor mu?
+  rektatraduko:
+  - Ĉu: mu
+  - via: senin, -ın, -an
+  - amikino: kadın arkadaş
+  - Ana: Ana
+  - skribas: yazıyor
+  - nun: şimdi
+  - en: -de, -da
+  - la: (belirleyici artikel)
+  - ĉambro: oda
+  - '?'
+- demando: Babanın arkadaşı bir otelde mi çalışıyor?
+  rektatraduko:
+  - Ĉu: mi
+  - la: (belirleyici artikel)
+  - amiko: arkadaş
+  - de: -nın, -nun
+  - via: senin
+  - patro: baba
+  - laboras: çalışıyor
+  - en: -de, -da
+  - hotelo: otel
+  - '?'
+- demando: Odamızın çalışma tezgahının üzerinde ne vardır?
+  rektatraduko:
+  - Kio: ne
+  - estas: -dır
+  - sur: üzerinde
+  - la: (belirleyici artikel)
+  - labortablo: çalışma tezgahı
+  - en: -de, -da
+  - nia: bizim
+  - ĉambro: oda
+  - '?'
+- demando: Senin masanın üzerinde Esperanto ders kitabı mı var?
+  rektatraduko:
+  - Ĉu: mı
+  - Esperanto-lernolibro: Esperanto ders kitabı
+  - estas: var yardımcı fiil
+  - sur: üzerinde
+  - via: senin
+  - tablo: masanın
+  - '?'

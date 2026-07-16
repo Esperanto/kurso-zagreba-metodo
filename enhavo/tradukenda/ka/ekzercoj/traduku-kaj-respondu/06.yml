@@ -1,0 +1,68 @@
+- demando: Size en yeni kitabı göstermemi arzu ediyor musunuz?
+  rektatraduko:
+  - Ĉu: musunuz
+  - vi: siz
+  - deziras: arzu etmek
+  - ','
+  - ke: ki
+  - mi: ben
+  - montru: gösteriyorum
+  - al: -e (ismin -e hali)
+  - vi: siz
+  - mian: benim
+  - plej: en, en fazla
+  - novan: yeni
+  - libron: kitabı
+  - '?'
+- demando: Yarın kahvaltı ethmek için ne istiyorsunuz?
+  rektatraduko:
+  - Kion: ne'yi
+  - vi: siz
+  - volas: istiyor
+  - morgaŭ: yarın
+  - matenmanĝi: kahvaltı etmek
+  - '?'
+- demando: Marko ne zaman gelecek, saat beşte mi yoksa sekizde mi?
+  rektatraduko:
+  - Kiam: ne zaman
+  - Marko: Marko
+  - alvenos: varacak, gelecek
+  - ','
+  - je: -te, -de
+  - la: (belirleyici artikel)
+  - kvina: beş, beşinci
+  - aŭ: veya
+  - je: -te, -de
+  - la: (belirleyici artikel)
+  - oka: sekiz, sekizinci
+  - horo: saat
+  - '?'
+- demando: Ne zaman farkına vardınız ki tüm aile bani iyiliksever olarak adlandırıyor?
+  rektatraduko:
+  - Kiam: ne zaman
+  - vi: siz
+  - rimarkis: farkına vardın
+  - ','
+  - ke: ki
+  - la: (belirleyici artikel)
+  - tuta: tüm
+  - familio: aile
+  - nomas: adlandırıyor
+  - min: beni
+  - bonfarulo: iyiliksever
+  - '?'
+- demando: Size gönderdiğim kitapçık yardımcı oldu mu?
+  rektatraduko:
+  - Ĉu: mu
+  - la: (belirleyici artikel)
+  - libreto: kitapçık
+  - ','
+  - kiun: ki onu
+  - mi: ben
+  - sendis: gönderdi
+  - al: -e
+  - vi: siz
+  - ','
+  - estis: idi
+  - utila: yardımcı, faydalı
+  - '?'

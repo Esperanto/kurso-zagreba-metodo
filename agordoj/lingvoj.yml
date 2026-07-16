@@ -297,6 +297,14 @@ jv:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+ka:
+  nomo:
+    fontlingve: ქართული
+    esperante: kartvela
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 kk:
   nomo:
     fontlingve: Қазақша

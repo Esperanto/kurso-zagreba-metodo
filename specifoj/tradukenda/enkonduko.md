@@ -2,16 +2,16 @@
 
 Koncernas `enkonduko.md`.
 
-La enkonduka teksto de la startpaĝo venas el `enkonduko.md`. Prilaboru ĝin laŭ la angla modelo ĉi-sube.
+La enkonduka teksto de la startpaĝo venas el `enkonduko.md`. Prilaboru ĝin laŭ la Esperanta modelo ĉi-sube.
 
 ## Modelo
 
 ```md
-- Learn the **500 most important words**
-- They are enough for **95% of spoken Esperanto**
-- **Free** and **no sign-up**
+- Lernu la 500 plej gravajn vortojn
+- Komprenu 95 % de la parolata Esperanto.
+- Senpage kaj sen aliĝo
 
-After that, you understand the most important things in conversations, make your own sentences easily, and can go straight to the [next Esperanto meetup](https://eventaservo.org/).
+Poste vi povos sekvi simplajn konversaciojn, mem formuli proprajn frazojn kaj vojaĝi rekte al la [sekva Esperanto-renkontiĝo](https://eventaservo.org/).
 ```
 
 ## Tradukaj instrukcioj
@@ -25,12 +25,12 @@ After that, you understand the most important things in conversations, make your
 
 - mallonga listo el tri eroj:
   - lernu la 500 plej gravajn vortojn
-  - ili sufiĉas por 95 % de parolata Esperanto
-  - senpage kaj sen registriĝo
+  - komprenu 95 % de la parolata Esperanto
+  - senpage kaj sen aliĝo
 - unu fina alineo:
-  - poste vi komprenas en konversacioj la plej gravan enhavon, facile formas proprajn frazojn kaj povas tuj iri al la sekva Esperanto-renkontiĝo
+  - poste vi povas sekvi simplajn konversaciojn, mem formuli proprajn frazojn kaj vojaĝi rekte al la sekva Esperanto-renkontiĝo
 - la ligilo al la sekva Esperanto-renkontiĝo restu `https://eventaservo.org/`
-- la Markdown-emfazoj restu ĉe la sama enhava rolo kiel en la modelo
+- la Markdown-formato restu proksima al la modelo
 - ne aldonu aliajn ligilojn krom se la lingvo jam havas aprobitan netipan enhavon
 
 Ne aldonu horizontalan Markdown-linion fine de la dosiero. Se tia linio jam estas tie, forigu ĝin.

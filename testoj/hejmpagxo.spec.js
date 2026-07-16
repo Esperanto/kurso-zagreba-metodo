@@ -113,8 +113,9 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
   await expect(page.getByRole('heading', { name: 'Esperanto in 12 Hours' })).toBeVisible();
   await expect(page.getByText('The Fastest Basics Course')).toBeVisible();
   await expect(page.getByText('Learn the 500 most important words')).toBeVisible();
-  await expect(page.getByText('They are enough for 95% of spoken Esperanto')).toBeVisible();
+  await expect(page.getByText('Understand 95% of spoken Esperanto')).toBeVisible();
   await expect(page.getByText('Free and no sign-up')).toBeVisible();
+  await expect(page.getByText('follow simple conversations')).toBeVisible();
   await expect(page.getByRole('link', { name: 'next Esperanto meetup' })).toHaveAttribute(
     'href',
     'https://eventaservo.org/',

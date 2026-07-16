@@ -281,6 +281,14 @@ ja:
       github: ucxgk
     - nomo: NAMBA Fumiharu
       github: osametan
+jv:
+  nomo:
+    fontlingve: Basa Jawa
+    esperante: java
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 kk:
   nomo:
     fontlingve: Қазақша

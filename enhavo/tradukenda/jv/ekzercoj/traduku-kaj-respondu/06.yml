@@ -1,0 +1,68 @@
+- demando: Apakah kamu ingin aku memperlihatkan buku terbaruku kepadamu?
+  rektatraduko:
+  - Ĉu: Apakah
+  - vi: kamu
+  - deziras: ingin
+  - ','
+  - ke: bahwa
+  - mi: saya
+  - montru: memperlihatkan
+  - al: kepada
+  - vi: kamu
+  - mian: punyaku
+  - plej: paling
+  - novan: baru
+  - libron: buku
+  - '?'
+- demando: Apa yang ingin kamu makan untuk sarapan besok?
+  rektatraduko:
+  - Kion: Apa
+  - vi: kamu
+  - volas: mau
+  - morgaŭ: besok
+  - matenmanĝi: sarapan
+  - '?'
+- demando: Kapan Marko akan datang, pada jam lima atau jam delapan?
+  rektatraduko:
+  - Kiam: Kapan
+  - Marko: Marko
+  - alvenos: akan datang
+  - ','
+  - je: pada
+  - la: (kata sandang)
+  - kvina: ke lima
+  - aŭ: atau
+  - je: pada
+  - la: (kata sandang)
+  - oka: ke delapan
+  - horo: jam
+  - '?'
+- demando: Kapan kamu menyadari bahwa seluruh keluarga menyebutku dermawan?
+  rektatraduko:
+  - Kiam: Kapan
+  - vi: kamu
+  - rimarkis: menyadari (lampau)
+  - ','
+  - ke: bahwa
+  - la: (kata sandang)
+  - tuta: seluruh
+  - familio: keluarga
+  - nomas: menamai
+  - min: saya
+  - bonfarulo: dermawan
+  - '?'
+- demando: Apakah buklet yang saya kirimkan itu berguna untukmu?
+  rektatraduko:
+  - Ĉu: Apakah
+  - la: (kata sandang)
+  - libreto: buklet
+  - ','
+  - kiun: yang
+  - mi: saya
+  - sendis: mengirimkan (lampau)
+  - al: bagi
+  - vi: kamu
+  - ','
+  - estis: adalah (lampau)
+  - utila: berguna
+  - '?'

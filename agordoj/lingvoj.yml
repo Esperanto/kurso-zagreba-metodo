@@ -209,6 +209,14 @@ ha:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+hak:
+  nomo:
+    fontlingve: 客家話
+    esperante: hakka
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 he:
   nomo:
     fontlingve: עברית

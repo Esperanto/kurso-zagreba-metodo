@@ -7,9 +7,9 @@ La enkonduka teksto de la startpaĝo venas el `enkonduko.md`. Prilaboru ĝin la�
 ## Modelo
 
 ```md
-- Lernu la 500 plej gravajn vortojn
-- Komprenu 95 % de la parolata Esperanto.
-- Senpage kaj sen aliĝo
+- Lernu la **500 plej gravajn vortojn**
+- Komprenu **95% de la parolata Esperanto**
+- **Senpage** kaj sen aliĝo
 
 Poste vi povos sekvi simplajn konversaciojn, mem formuli proprajn frazojn kaj vojaĝi rekte al la [sekva Esperanto-renkontiĝo](https://eventaservo.org/).
 ```

@@ -8,10 +8,10 @@
   - la: (član)
   - tagmanĝo: ručak
   - '?'
-- demando: 'Što želite piti: čaj, malo kave, čašu vode ili nećete ništa?'
+- demando: 'Što želiš piti: čaj, malo kave ili ništa?'
   rektatraduko:
   - Kion: Što
-  - vi: vi
+  - vi: ti
   - volas: želiš
   - trinki: piti
   - ':'
@@ -19,14 +19,14 @@
   - ','
   - iom: malo
   - da: od
-  - kafo: kave
+  - kafo: kava
   - aŭ: ili
-  - ĉu: je li
-  - vi: vi
+  - ĉu: li
+  - vi: ti
   - volas: želiš
   - nenion: ništa
   - '?'
-- demando: Zbog čega si tako iznenada odlučio obnoviti svoju sobicu i kupiti nekoliko skupih knjiga?
+- demando: Zašto si tako iznenada odlučio obnoviti svoju sobicu?
   rektatraduko:
   - Kial: Zašto
   - vi: ti
@@ -37,10 +37,10 @@
   - vian: tvoj
   - ĉambreton: mala soba
   - '?'
-- demando: Kamo si stavio čiste čaše za vino?
+- demando: Kome si dao čiste čaše za vino?
   rektatraduko:
-  - Al: prema
-  - kiu: tko
+  - Al: K
+  - kiu: kome
   - vi: ti
   - donis: dao si
   - la: (član)
@@ -61,16 +61,16 @@
   - du: dva
   - semajnoj: tjedna
   - '?'
-- demando: Viđaš li često policajca koji stanuje u stanu iznad tvog?
+- demando: Viđaš li često policajca koji stanuje u stanu iznad tvoga?
   rektatraduko:
-  - Ĉu: Da li
+  - Ĉu: Li
   - vi: ti
   - ofte: često
   - vidas: vidiš
   - la: (član)
-  - policiston: policajac
+  - policiston: policajca
   - ','
-  - kiu: tko
+  - kiu: koji
   - loĝas: stanuje
   - en: u
   - la: (član)

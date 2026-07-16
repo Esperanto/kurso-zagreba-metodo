@@ -1,6 +1,6 @@
 - demando: Razumiju li konobari u velikim hotelima mnoge jezike?
   rektatraduko:
-  - Ĉu: Da li
+  - Ĉu: Li
   - kelneroj: konobari
   - en: u
   - grandaj: veliki
@@ -9,13 +9,13 @@
   - multajn: mnoge
   - lingvojn: jezike
   - '?'
-- demando: Znaš li, voli li Ana novu pjesmu o siromahu i ljepotici?
+- demando: Znaš li voli li Ana novu pjesmu o siromahu i ljepotici?
   rektatraduko:
-  - Ĉu: Da li
+  - Ĉu: Li
   - vi: ti
   - scias: znaš
   - ','
-  - ĉu: da li
+  - ĉu: li
   - Ana: Ana
   - ŝatas: voli
   - la: (član)
@@ -58,7 +58,7 @@
   - '?'
 - demando: Možeš li naučiti esperanto dovoljno brzo pomoću novog udžbenika?
   rektatraduko:
-  - Ĉu: Da li
+  - Ĉu: Li
   - vi: ti
   - povas: možeš
   - per: pomoću

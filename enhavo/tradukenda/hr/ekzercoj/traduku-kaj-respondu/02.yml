@@ -13,12 +13,12 @@
   - vi: ti
   - legis: si čitao
   - kaj: i
-  - ĉu: je li
+  - ĉu: li
   - ili: one
   - estas: su
   - bonaj: dobre
   - '?'
-- demando: Što su radili Ana i Marko u maloj sobi kod Marko?
+- demando: Što su Ana i Marko radili u Markovoj maloj sobi?
   rektatraduko:
   - Kion: Što
   - faris: su radili
@@ -34,7 +34,7 @@
   - '?'
 - demando: Voliš li čitati knjige o ljubavi?
   rektatraduko:
-  - Ĉu: Je li
+  - Ĉu: Li
   - vi: ti
   - ŝatas: voliš
   - legi: čitati

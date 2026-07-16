@@ -80,9 +80,11 @@
   subtemoj:
   - Ĉu staras antaŭ jes/ne-demando.
   - La vortordo normale ne ŝanĝiĝas.
+  - Ĉu povas ankaŭ enkonduki subdemandon.
   ekzemploj:
   - Ĉu vi sidas?
   - Ĉu ŝi skribas?
+  - Mi scias, ĉu ŝi venos.
 - temo: Baza demandovorto kiu
   subtemoj:
   - Kiu demandas pri persono aŭ elekto.

@@ -5,4 +5,3 @@
 Bayan kwas ɗin, za ka **fahimci muhimman abubuwa**, ka ƙirƙiri jimlolinka, kuma ka iya bayyana ra'ayoyi na yau da kullum.
 
 Ka gwada kawai!
-____

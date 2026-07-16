@@ -5,4 +5,3 @@
 Després del curs, **entendràs l'essencial**, formaràs les teves pròpies frases i podràs comunicar idees bàsiques en situacions quotidianes.
 
 Prova-ho!
-____

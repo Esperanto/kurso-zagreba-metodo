@@ -128,6 +128,14 @@ eu:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+ee:
+  nomo:
+    fontlingve: Eʋegbe
+    esperante: evea
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 fa:
   nomo:
     fontlingve: فارسی
@@ -495,6 +503,14 @@ sw:
   aŭtoroj:
     - nomo: Leo de Cooman
       github: GrizaLeono
+ta:
+  nomo:
+    fontlingve: தமிழ்
+    esperante: tamila
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 te:
   nomo:
     fontlingve: తెలుగు
@@ -575,6 +591,14 @@ vi:
       github: Ghojo-37
     - nomo: Hoang Phuc
       github: Huangphoux
+wuu:
+  nomo:
+    fontlingve: 吴语
+    esperante: ĉina (Wu)
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 yo:
   nomo:
     fontlingve: yorùbá
@@ -583,6 +607,14 @@ yo:
   aŭtoroj:
     - nomo: Gabriel Olúbùnmi Ọ̀ṣhọ́-Davies
       github: oshodavies
+yue:
+  nomo:
+    fontlingve: 粵語
+    esperante: ĉina (kantona)
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 zh:
   nomo:
     fontlingve: 中文

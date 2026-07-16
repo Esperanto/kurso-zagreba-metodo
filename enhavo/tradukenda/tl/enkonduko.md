@@ -5,4 +5,3 @@
 Pagkatapos ng kurso, **maiintindihan mo ang mga batayan**, makabubuo ka ng sarili mong mga pangungusap, at maipahahayag mo ang mga simpleng ideya sa pang-araw-araw na sitwasyon.
 
 Subukan mo!
-____

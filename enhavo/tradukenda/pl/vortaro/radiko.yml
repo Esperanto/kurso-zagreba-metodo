@@ -8,16 +8,14 @@ akcept: akceptować
 akv: woda
 ali: inny
 alt: wysoki
-am: miłość
+am: kochać
 amik: przyjaciel
 aper:
 - pojawiać się
 - ukazać się
 - pokazać się
 arb: drzewo
-aspekt:
-- wyglądać
-- wygląd
+aspekt: wygląd
 atend: czekać
 atent: uważać
 aĉet: kupować
@@ -51,15 +49,13 @@ dik:
 - tłusty
 dimanĉ: niedziela
 dir: mówić
-direkt: kierunek
+direkt: kierować
 divers: różne
 doktor:
 - doktor
 - lekarz
 dolar: dolar
-dolor:
-- ból
-- boleć
+dolor: boleć
 dolĉ: słodki
 dom: dom (budynek)
 don: dać
@@ -116,7 +112,7 @@ industri: przemysł
 infan: dziecko
 inform: informować
 instru: nauczać
-interes: zaciekawiać
+interes: zainteresowanie
 invit: zapraszać
 ir: iść
 itali: Włochy
@@ -138,7 +134,9 @@ klar:
 - wyraźny
 klub: klub
 knab: chłopiec
-koler: złość
+koler:
+- gniewać się
+- złościć się
 kolor: kolor
 komenc: zaczynać
 kompren: rozumieć
@@ -203,18 +201,22 @@ muzik: muzyka
 naci: naród
 nask: rodzić
 natur: natura
-neces: potrzebować
+neces:
+- konieczny
+- potrzebny
 nokt: noc
 nom: imię
 not: notować
 nov: nowy
 odor: zapach
-oft: częsty
+oft: często
 okaz: zdarzyć się
 okul: oko
 onkl: wujek
-opini: opinia
-ord: porządkować
+opini:
+- uważać
+- sądzić
+ord: porządek
 orel: ucho
 organiz: organizować
 pac: pokój (brak wojny)
@@ -234,13 +236,11 @@ pet: prosić
 pez: ciężki
 pied: stopa
 plac: plac
-plan: planować
+plan: plan
 plaĉ: podobać się
 plen: pełny
 plor: płakać
-pluv:
-- deszcz
-- padać
+pluv: padać
 polic: policja
 pord: drzwi
 port: nosić
@@ -251,7 +251,7 @@ pren: brać
 pret: gotowy
 prezent: przedstawiać
 problem: problem
-proksim: blisko
+proksim: bliski
 proksimum: około
 promen: spacerować
 propon: proponować
@@ -262,7 +262,7 @@ pur: czysty
 rajt: mieć prawo
 rakont: opowiadać
 rapid: szybki
-raport: raport
+raport: raportować
 real: rzeczywisty
 rekt: bezpośredni
 renkont: spotykać
@@ -312,7 +312,7 @@ sovaĝ: dziki
 sport: sport
 star: stać
 strat: ulica
-subit: nagle
+subit: nagły
 sufiĉ: wystarczająco
 suk: sok
 sukces: odnosić sukces
@@ -373,9 +373,7 @@ zorg: dbać
 - przeszkadzać
 - dręczyć
 ĝeneral: ogólny
-ĝoj:
-- cieszyć się
-- radość
+ĝoj: radosny
 ĝust: poprawny
 ĵet: rzucać
 ŝajn: wydawać (się)

@@ -5,4 +5,3 @@
 Nakon tečaja **razumjet ćeš osnove**, sastavljati vlastite rečenice i moći prenijeti osnovne ideje u svakodnevnim situacijama.
 
 Samo isprobaj!
-____

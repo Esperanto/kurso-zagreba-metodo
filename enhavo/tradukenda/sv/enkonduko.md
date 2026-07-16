@@ -5,4 +5,3 @@
 Efter kursen kommer du att **förstå det viktigaste**, bilda egna meningar och kunna kommunicera grundläggande idéer i vardagliga situationer.
 
 Testa själv!
-____

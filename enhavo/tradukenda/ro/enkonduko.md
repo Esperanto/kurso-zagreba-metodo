@@ -5,4 +5,3 @@
 După curs, vei **înțelege esențialul**, vei forma propriile propoziții și vei putea comunica idei de bază în situații de zi cu zi.
 
 Încearcă!
-____

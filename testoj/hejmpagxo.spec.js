@@ -110,20 +110,15 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
     'src',
     '/assets/img/logo/logo-256.png',
   );
-  await expect(page.getByRole('heading', { name: 'Learn Esperanto in 12 Lessons' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Esperanto in 12 Hours' })).toBeVisible();
   await expect(page.getByText('The Fastest Basics Course')).toBeVisible();
-  await expect(page.getByText('most important 500 words')).toBeVisible();
-  await expect(page.getByText('without registration')).toBeVisible();
-  await expect(page.getByRole('link', { name: 'flashcard deck' })).toHaveAttribute(
+  await expect(page.getByText('Learn the 500 most important words')).toBeVisible();
+  await expect(page.getByText('They are enough for 95% of spoken Esperanto')).toBeVisible();
+  await expect(page.getByText('Free and no sign-up')).toBeVisible();
+  await expect(page.getByRole('link', { name: 'next Esperanto meetup' })).toHaveAttribute(
     'href',
-    '/en/eksporto/en.apkg',
+    'https://eventaservo.org/',
   );
-  await expect(page.getByRole('link', { name: 'Anki' })).toHaveAttribute(
-    'href',
-    'https://apps.ankiweb.net/',
-  );
-  await expect(page.getByRole('link', { name: 'Anki' })).toHaveAttribute('target', '_blank');
-  await expect(page.getByRole('link', { name: 'Anki' })).toHaveAttribute('rel', 'noopener');
   await expect(page.getByRole('link', { name: 'Start' })).toHaveAttribute('href', '/en/01');
   const installButton = page.locator('[data-pwa-install]');
   await expect(installButton).toHaveText('Install app');
@@ -242,7 +237,7 @@ test('startpaĝa lingvoelektilo vicigxas kun la titoloj', async ({ page }) => {
   await page.goto('/en/');
 
   const logo = page.locator('.lingva-startpagxo-logo');
-  const title = page.getByRole('heading', { name: 'Learn Esperanto in 12 Lessons' });
+  const title = page.getByRole('heading', { name: 'Esperanto in 12 Hours' });
   const languageButton = page.locator('.lingva-startpagxo-titoloj .dropdown-toggle');
 
   const logoBox = await logo.boundingBox();

@@ -10,9 +10,11 @@ Kernaj punktoj devas resti:
 - lernu la 500 plej gravajn vortojn
 - ili sufiĉas por 95 % de parolata Esperanto
 - senpaga / sen registriĝo
-- poste oni komprenas en konversacioj la esencon
+- uzu simplan, rektan lingvon
+- poste oni komprenas en konversacioj la plej gravan enhavon
 - oni facile formas proprajn frazojn
 - oni povas tuj iri al la sekva Esperanto-renkontiĝo
+- la sekva Esperanto-renkontiĝo estu ligita al `https://eventaservo.org/`
 
 La nova enkonduko havu proksimume ĉi tiun strukturon:
 
@@ -21,8 +23,8 @@ La nova enkonduko havu proksimume ĉi tiun strukturon:
   - kiuj sufiĉas por 95 % de parolata Esperanto
   - senpage kaj sen registriĝo
 - unu fina alineo:
-  - poste vi komprenas en konversacioj la esencon, facile formas proprajn
-    frazojn kaj povas tuj iri al la sekva Esperanto-renkontiĝo
+  - poste vi komprenas en konversacioj la plej gravan enhavon, facile formas
+    proprajn frazojn kaj povas tuj iri al la sekva Esperanto-renkontiĝo
 
 Ne aldonu horizontalan Markdown-linion fine de la dosiero. Se tia linio jam
 estas tie, forigu ĝin.

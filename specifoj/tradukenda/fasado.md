@@ -7,7 +7,8 @@ Necesaj ŝlosiloj — ĉiuj devas ĉeesti kaj ne esti malplenaj:
 
 - `Ek` (start-butono)
 - `Lerni Esperanton` (SEO-serĉfrazo por lerni Esperanton)
-- `Lerni Esperanton en 12 lecionoj` (ĉeftitolo / h1)
+- `Esperanto en 12 horoj` (titolo de la lingva startpaĝo / h1)
+- `Lerni Esperanton en 12 lecionoj` (kursa titolo en aliaj kuntekstoj)
 - `Esperanto en 12 lecionoj` (titolo ankaŭ de aliaj paĝoj)
 - `La plej rapida kurso por la bazoj` (subtitolo)
 - `{{lingvo_nombro}} lingvoj` (lingvo-nombrilo)
@@ -18,6 +19,9 @@ Reguloj:
 - Ĉiu lingvo havu ĉiujn ĉi ŝlosilojn kun ne-malplena valoro.
 - Plenigu mankantajn aŭ malplenajn valorojn; plej ofte mankas
   `Lerni Esperanton`.
+- La lingva startpaĝo uzas `Esperanto en 12 horoj` kiel videblan ĉeftitolon.
+  `Lerni Esperanton en 12 lecionoj` restas uzata kiel kursa titolo en aliaj
+  kuntekstoj.
 - Atentu loktenilojn kopiitajn el alia lingvo, ekzemple franca en ne-franca
   dosiero, rusa en belarusa, angla en ne-tradukita aŭ persa en kurda.
 - Anstataŭigu alilingvajn restaĵojn per la cela lingvo.

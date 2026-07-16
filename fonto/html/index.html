@@ -1,7 +1,7 @@
 {% extends "layout.html" %}
 
 {% block title %}
-  {{ enhavo.fasado['Lerni Esperanton'] or enhavo.fasado['Lerni Esperanton en 12 lecionoj'] }}
+  {{ enhavo.fasado.get('Esperanto en 12 horoj') or enhavo.fasado.get('Lerni Esperanton en 12 lecionoj') or enhavo.fasado['Lerni Esperanton'] }}
 	|
   {{enhavo.fasado['La plej rapida kurso por la bazoj']}}
 {% endblock %}
@@ -18,7 +18,7 @@
       alt=""
     />
     <div class="lingva-startpagxo-titoloj">
-      <h1>{{enhavo.fasado['Lerni Esperanton en 12 lecionoj']}}</h1>
+      <h1>{{enhavo.fasado.get('Esperanto en 12 horoj') or enhavo.fasado['Lerni Esperanton en 12 lecionoj']}}</h1>
       <p class="lingva-startpagxo-subtitolo">
         {{enhavo.fasado['La plej rapida kurso por la bazoj']}}
       </p>

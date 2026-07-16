@@ -1,7 +1,5 @@
-- Uczy **500 najważniejszych słów**
-- **Za darmo** i **bez rejestracji**
-- Z [zestawem fiszek]({{ url.kartaro }}) do [Anki]({{ url.anki }})
+- Naucz się **500 najważniejszych słów**
+- Zrozum **95 % mówionego esperanta**
+- **Za darmo** i bez rejestracji
 
-Po kursie **zrozumiesz podstawy**, utworzysz własne zdania i będziesz umieć przekazywać proste myśli w codziennych sytuacjach.
-
-Po prostu spróbuj!
+Potem możesz śledzić proste rozmowy, samodzielnie tworzyć własne zdania i pojechać prosto na [najbliższe spotkanie esperanckie](https://eventaservo.org/).

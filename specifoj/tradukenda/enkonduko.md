@@ -3,19 +3,26 @@
 Koncernas `enkonduko.md`.
 
 La enkonduka teksto de la startpaĝo venas el `enkonduko.md`. Prilaboru ĝin laŭ
-la modelo de `enhavo/tradukenda/en/enkonduko.md`.
+la nova enhava modelo ĉi-sube.
 
 Kernaj punktoj devas resti:
 
-- kiom da vortoj la kurso instruas
+- lernu la 500 plej gravajn vortojn
+- ili sufiĉas por 95 % de parolata Esperanto
 - senpaga / sen registriĝo
-- ligilo al la fiŝkartaro
-- la fina alvoko kiel "Provu ĝin!"
+- poste oni komprenas en konversacioj la esencon
+- oni facile formas proprajn frazojn
+- oni povas tuj iri al la sekva Esperanto-renkontiĝo
 
-Konservu la Markdown-formaton kaj la placeholder-ojn:
+La nova enkonduko havu proksimume ĉi tiun strukturon:
 
-- `{{ url.kartaro }}`
-- `{{ url.anki }}`
+- mallonga listo el tri eroj:
+  - lernu la 500 plej gravajn vortojn
+  - kiuj sufiĉas por 95 % de parolata Esperanto
+  - senpage kaj sen registriĝo
+- unu fina alineo:
+  - poste vi komprenas en konversacioj la esencon, facile formas proprajn
+    frazojn kaj povas tuj iri al la sekva Esperanto-renkontiĝo
 
 Ne aldonu horizontalan Markdown-linion fine de la dosiero. Se tia linio jam
 estas tie, forigu ĝin.

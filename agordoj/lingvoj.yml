@@ -305,6 +305,14 @@ ka:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+kbp:
+  nomo:
+    fontlingve: Kabɩyɛ
+    esperante: kabijea
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 kk:
   nomo:
     fontlingve: Қазақша

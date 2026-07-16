@@ -131,7 +131,7 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
   await expect(languageButton).toContainText(/languages/);
   await expect(languageButton).toHaveClass(/btn-outline-secondary/);
   await languageButton.click();
-  await expect(page.locator('.lingva-startpagxo-lingvoj').getByRole('link', { name: 'English' })).toBeVisible();
+  await expect(page.locator('.lingva-startpagxo-lingvoj').getByRole('link', { name: 'English (en)' })).toBeVisible();
 
   const speakerLink = page.getByRole('link', { name: 'Find Esperanto speakers' });
   await expect(speakerLink).toHaveAttribute(

@@ -114,7 +114,7 @@
                     {% if kodo == enhavo.lingvo %}
                       aria-current="true"
                     {% endif %}
-                  >{{enhavo.lingvoj[kodo].nomo.fontlingve}}</a>
+                  >{{enhavo.lingvoj[kodo].nomo.fontlingve}} ({{kodo}})</a>
                 </li>
               {% endfor %}
               {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'testa' %}
@@ -126,7 +126,7 @@
                     {% if kodo == enhavo.lingvo %}
                       aria-current="true"
                     {% endif %}
-                  >(test: {{enhavo.lingvoj[kodo].nomo.esperante}})</a>
+                  >(test: {{enhavo.lingvoj[kodo].nomo.esperante}} ({{kodo}}))</a>
                 </li>
               {% endfor %}
             </ul>

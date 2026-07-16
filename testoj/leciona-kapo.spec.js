@@ -19,7 +19,7 @@ test('aldona kaj lingva menuoj restas cxiam atingeblaj', async ({ page }) => {
     hasText: 'Deutsch',
   });
   await expect(languageMenu).toBeVisible();
-  await expect(languageMenu.getByRole('link', { name: 'Deutsch' })).toHaveAttribute('href', '/de/01/');
+  await expect(languageMenu.getByRole('link', { name: 'Deutsch (de)' })).toHaveAttribute('href', '/de/01/');
 });
 
 test('navigilo restas supre dum rulumado', async ({ page }) => {
@@ -69,7 +69,7 @@ test('lingvomenuo konservas la aktualan pagxon', async ({ page }) => {
   const languageMenu = page.locator('.dropdown-menu.show').filter({
     hasText: 'Deutsch',
   });
-  await expect(languageMenu.getByRole('link', { name: 'Deutsch' })).toHaveAttribute(
+  await expect(languageMenu.getByRole('link', { name: 'Deutsch (de)' })).toHaveAttribute(
     'href',
     '/de/06/gramatiko/',
   );

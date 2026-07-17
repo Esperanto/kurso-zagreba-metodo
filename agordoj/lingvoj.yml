@@ -136,6 +136,14 @@ ee:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+et:
+  nomo:
+    fontlingve: Eesti
+    esperante: estona
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 fa:
   nomo:
     fontlingve: فارسی

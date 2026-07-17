@@ -1,15 +1,15 @@
-- demando: Tgi è tia amia?
+- demando: Tgi è tia amiga?
   rektatraduko:
   - Kiu: Tgi
   - estas: è
   - via: tes/tia
-  - amikino: amia
+  - amikino: amiga
   - '?'
-- demando: Scriva tia amia Anna ussa en la chombra?
+- demando: Scriva tia amiga Anna ussa en la chombra?
   rektatraduko:
   - Ĉu: Sche
   - via: tes/tia
-  - amikino: amia
+  - amikino: amiga
   - Ana: Anna
   - skribas: scriva
   - nun: ussa
@@ -17,11 +17,11 @@
   - la: il/la
   - ĉambro: chombra
   - '?'
-- demando: Lavura l'ami da tes bab en in hotel?
+- demando: Lavura l'amig da tes bab en in hotel?
   rektatraduko:
   - Ĉu: Sche
   - la: il/la
-  - amiko: ami
+  - amiko: amig
   - de: da
   - via: tes/tia
   - patro: bab

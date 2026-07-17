@@ -190,6 +190,25 @@ test('ekzercoj 1 kaj 3 saltas al la pagxa antauxen-butono post la lasta respondo
   }
 });
 
+test('ekzerco 2 saltas al la pagxa antauxen-butono post la lasta respondo', async ({ page }) => {
+  await page.goto('/en/01/ekzerco2/');
+
+  const form = page.locator('.ekzerco2-tasko[data-auto-sekvo="respondoj"]');
+  const lastInput = form.locator('input[data-solvo]').last();
+  const followingWord = lastInput.locator(
+    'xpath=following::span[contains(@class, "input-group-text")][normalize-space()="Marko"][1]',
+  );
+  const lastSolution = (await lastInput.getAttribute('data-solvo')).split(/\s*\|\s*/)[0];
+
+  await expect(followingWord).toBeVisible();
+
+  await lastInput.focus();
+  await page.keyboard.type(lastSolution);
+
+  await expect(lastInput).toHaveClass(/is-valid/);
+  await expect(page.locator('ul.pager .next a')).toBeFocused();
+});
+
 test('ekzercaj titoloj montras nur la celan lingvon', async ({ page }) => {
   await page.goto('/en/01/ekzerco1/');
   await expect(page.getByRole('heading', { level: 3, name: 'Translate' })).toBeVisible();

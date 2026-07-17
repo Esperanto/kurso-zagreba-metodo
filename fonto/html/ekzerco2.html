@@ -36,7 +36,7 @@
 	
   <p class="alert alert-info" role="alert" dir="{{enhavo.tekstodirekto}}">{{ enhavo.fasado['Por la Esperantaj literoj vi ankaŭ rajtas skribi cx, gx, hx, jx, sx kaj ux.'] }}</p>
 
-  <form id="form-{{form_id}}" class="form-inline ekzerco2-tasko">
+  <form id="form-{{form_id}}" class="form-inline ekzerco2-tasko" data-auto-sekvo="respondoj">
     <ol class="tasko">
       {% for vico in leciono.ekzercoj[tasko] %}
       {% set vico_loop = loop %}

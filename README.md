@@ -2,7 +2,7 @@
 
 [![Pages](https://github.com/Esperanto/kurso-zagreba-metodo/actions/workflows/pages.yml/badge.svg)](https://github.com/Esperanto/kurso-zagreba-metodo/actions/workflows/pages.yml)
 [![Permesilo: CC BY 4.0](https://img.shields.io/badge/permesilo-CC%20BY%204.0-lightgrey)](PERMESILO.md)
-[![Lingvoj: 32](https://img.shields.io/badge/lingvoj-32-blue)](agordoj/lingvoj.yml)
+[![Lingvoj: 35](https://img.shields.io/badge/lingvoj-35-blue)](agordoj/lingvoj.yml)
 [![Live: esperanto12.net](https://img.shields.io/badge/live-esperanto12.net-brightgreen)](https://esperanto12.net/)
 [![Aliĝu al la babilejo en Telegram](https://img.shields.io/badge/babilejo-Telegram-26A5E4?logo=telegram&logoColor=white)](https://zagreba.telegramo.org/)
 

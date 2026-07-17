@@ -5,10 +5,12 @@
 		<li></li>
   {%- endif %} 
 
-	<li class="help"><a class="btn btn-outline-secondary" href="https://www.google.com/search?hl={{enhavo.lingvo}}&udm=50&aep=11&q=Estu+babilroboto+por+la+enhavo+de+responde+al+miaj+demandoj+pri+https%3A%2F%2Fesperanto12.net%2F{{enhavo.lingvo}}%2Fllms-full.txt.+Skribu+bonvenigan+mesa%C4%9Don+por+tio+en+%5B{{enhavo.lingvo}}%5D" target="_blank" rel="noopener">{{enhavo.fasado['Helpo']}}</a></li>
-	<!-- Kommentare:
-	<li class="comments"><a class="btn btn-outline-secondary" href="https://github.com/Esperanto/kurso-zagreba-metodo/discussions/categories/{{enhavo.lingvo}}" target="_blank" rel="noopener">{{enhavo.fasado['Komentejo']}}</a></li>
-	-->
+	<li class="pager-actions">
+		<a class="help btn btn-outline-secondary" href="https://www.google.com/search?hl={{enhavo.lingvo}}&udm=50&aep=11&q=Estu+babilroboto+por+la+enhavo+de+responde+al+miaj+demandoj+pri+https%3A%2F%2Fesperanto12.net%2F{{enhavo.lingvo}}%2Fllms-full.txt.+Skribu+bonvenigan+mesa%C4%9Don+por+tio+en+%5B{{enhavo.lingvo}}%5D" target="_blank" rel="noopener">{{enhavo.fasado['Helpo']}}</a>
+  {% if enhavo.lingvoj[enhavo.lingvo].get('komentejo') %}
+		<a class="comments btn btn-outline-secondary" href="https://github.com/Esperanto/kurso-zagreba-metodo/discussions/categories/{{enhavo.lingvo}}" target="_blank" rel="noopener">{{enhavo.fasado['Komentejo']}}</a>
+  {% endif %}
+	</li>
 
   {% if next_path -%}
 		<li class="next"><a class="btn btn-primary" href="{{next_path}}" aria-label="{{enhavo.fasado['antaŭen']}}" title="{{enhavo.fasado['antaŭen']}}">▶︎</a></li>

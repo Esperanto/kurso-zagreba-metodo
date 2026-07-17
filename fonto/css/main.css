@@ -722,6 +722,13 @@ ul.pager {
 ul.pager .next {
   text-align: right;
 }
+ul.pager .pager-actions {
+  direction: ltr;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
 .ad {
   text-align: center;
   font-size: smaller;

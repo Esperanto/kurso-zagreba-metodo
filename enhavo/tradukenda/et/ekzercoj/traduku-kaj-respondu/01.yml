@@ -1,0 +1,51 @@
+- demando: Kes on sinu sõbranna?
+  rektatraduko:
+  - Kiu: Kes
+  - estas: 'on'
+  - via: sinu
+  - amikino: naissoost sõber
+  - '?'
+- demando: Kas sinu sõbranna Ana kirjutab nüüd toas?
+  rektatraduko:
+  - Ĉu: Kas
+  - via: sinu
+  - amikino: naissoost sõber
+  - Ana: Ana
+  - skribas: kirjutab
+  - nun: nüüd
+  - en: sees
+  - la: määrav artikkel
+  - ĉambro: tuba
+  - '?'
+- demando: Kas sinu isa sõber töötab hotellis?
+  rektatraduko:
+  - Ĉu: Kas
+  - la: määrav artikkel
+  - amiko: sõber
+  - de: oma
+  - via: sinu
+  - patro: isa
+  - laboras: töötab
+  - en: sees
+  - hotelo: hotell
+  - '?'
+- demando: Mis on meie toa tööpingil?
+  rektatraduko:
+  - Kio: Mis
+  - estas: 'on'
+  - sur: peal
+  - la: määrav artikkel
+  - labortablo: töölaud
+  - en: sees
+  - nia: meie
+  - ĉambro: tuba
+  - '?'
+- demando: Kas sinu laual on esperanto õpik?
+  rektatraduko:
+  - Ĉu: Kas
+  - Esperanto-lernolibro: esperanto-õpik
+  - estas: 'on'
+  - sur: peal
+  - via: sinu
+  - tablo: laud
+  - '?'

@@ -1,0 +1,64 @@
+- demando: Milline oli sinu vana kodu?
+  rektatraduko:
+  - Kia: Milline
+  - estis: oli
+  - via: sinu
+  - malnova: vana
+  - hejmo: kodu
+  - '?'
+- demando: Milliseid raamatuid sa lugesid ja kas need olid head?
+  rektatraduko:
+  - Kiujn: Milliseid
+  - librojn: raamatuid
+  - vi: sina
+  - legis: lugesid
+  - kaj: ja
+  - ĉu: kas
+  - ili: nemad
+  - estas: 'on'
+  - bonaj: head
+  - '?'
+- demando: Mida Ana ja Marko Marko väikeses toas tegid?
+  rektatraduko:
+  - Kion: Mida
+  - faris: tegid
+  - Ana: Ana
+  - kaj: ja
+  - Marko: Marko
+  - en: sees
+  - la: määrav artikkel
+  - malgranda: väike
+  - ĉambro: tuba
+  - de: oma
+  - Marko: Marko
+  - '?'
+- demando: Kas sulle meeldib lugeda raamatuid armastusest?
+  rektatraduko:
+  - Ĉu: Kas
+  - vi: sina
+  - ŝatas: meeldib
+  - legi: lugeda
+  - librojn: raamatuid
+  - pri: kohta
+  - amo: armastus
+  - '?'
+- demando: Kes läheb koos sinuga sinu koju?
+  rektatraduko:
+  - Kiu: Kes
+  - iros: läheb
+  - kun: koos
+  - vi: sina
+  - al: juurde
+  - via: sinu
+  - hejmo: kodu
+  - '?'
+- demando: Millised on sinu sõbranna silmad?
+  rektatraduko:
+  - Kiaj: Millised
+  - estas: 'on'
+  - la: määrav artikkel
+  - okuloj: silmad
+  - de: oma
+  - via: sinu
+  - amikino: naissoost sõber
+  - '?'

@@ -1,0 +1,63 @@
+- demando: Kas me näeme üksteist jälle, ükskõik kus ja millal?
+  rektatraduko:
+  - Ĉu: Kas
+  - ni: meie
+  - revidos: näeme jälle
+  - nin: üksteist
+  - ','
+  - kie: kus
+  - ajn: iganes
+  - kaj: ja
+  - kiam: millal
+  - ajn: iganes
+  - '?'
+- demando: Millal ma saan tagasi raamatute teise poole?
+  rektatraduko:
+  - Kiam: Millal
+  - mi: mina
+  - rericevos: saan tagasi
+  - la: määrav artikkel
+  - alian: teise
+  - duonon: poole
+  - de: oma
+  - la: määrav artikkel
+  - libroj: raamatud
+  - '?'
+- demando: Kas sul on nende tööde jaoks vaja rohkem kui veerand aastat?
+  rektatraduko:
+  - Ĉu: Kas
+  - vi: sina
+  - bezonos: vajad
+  - pli: rohkem
+  - ol: kui
+  - kvaronan: veerand
+  - jaron: aastat
+  - por: jaoks
+  - tiuj: need
+  - laboroj: tööd
+  - '?'
+- demando: Miks on seda külmem, mida kauem me ootame?
+  rektatraduko:
+  - Kial: Miks
+  - ju: mida
+  - pli: rohkem
+  - longe: kaua
+  - ni: meie
+  - atendas: ootame
+  - ','
+  - des: seda
+  - pli: rohkem
+  - malvarme: külm
+  - estas: 'on'
+  - '?'
+- demando: Kas sa oleksid rahul ükskõik millise mehega?
+  rektatraduko:
+  - Ĉu: Kas
+  - vi: sina
+  - estus: oleksid
+  - kontenta: rahul
+  - kun: koos
+  - iu: keegi
+  - ajn: iganes
+  - viro: mees
+  - '?'

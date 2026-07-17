@@ -1,0 +1,67 @@
+- demando: Millal ma sind jälle näen?
+  rektatraduko:
+  - Kiam: Millal
+  - mi: mina
+  - revidos: näen jälle
+  - vin: sind
+  - '?'
+- demando: Kui kaua sa rahvusvahelist keelt õpid?
+  rektatraduko:
+  - Kiom: Kui palju
+  - longe: kaua
+  - vi: sina
+  - lernas: õpid
+  - la: määrav artikkel
+  - Internacian: rahvusvahelist
+  - Lingvon: keelt
+  - '?'
+- demando: Kus on minu uus fotodega raamat?
+  rektatraduko:
+  - Kie: Kus
+  - estas: 'on'
+  - mia: minu
+  - nova: uus
+  - libro: raamat
+  - kun: koos
+  - fotoj: fotod
+  - '?'
+- demando: Kuhu sa pärast lõunasööki lähed?
+  rektatraduko:
+  - Kien: Kuhu
+  - vi: sina
+  - iros: lähed
+  - post: pärast
+  - la: määrav artikkel
+  - tagmanĝo: lõunasöök
+  - '?'
+- demando: Kas toa ukse võib sulgeda, kui on külm?
+  rektatraduko:
+  - Ĉu: Kas
+  - oni: keegi
+  - povas: saab
+  - fermi: sulgeda
+  - la: määrav artikkel
+  - pordon: ust
+  - de: oma
+  - la: määrav artikkel
+  - ĉambro: tuba
+  - ','
+  - kiam: kui
+  - estas: 'on'
+  - malvarme: külm
+  - '?'
+- demando: Kui kaua sa oled vihane, kui keegi võtab sinult palju raha ära?
+  rektatraduko:
+  - Kiom: Kui palju
+  - longe: kaua
+  - vi: sina
+  - koleras: oled vihane
+  - ','
+  - se: kui
+  - oni: keegi
+  - forprenas: võtab ära
+  - de: juurest
+  - vi: sina
+  - multan: palju
+  - monon: raha
+  - '?'

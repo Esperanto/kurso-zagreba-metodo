@@ -1,0 +1,80 @@
+- demando: Kes koristab köögi pärast lõunasööki?
+  rektatraduko:
+  - Kiu: Kes
+  - purigos: puhastab
+  - la: määrav artikkel
+  - kuirejon: kööki
+  - post: pärast
+  - la: määrav artikkel
+  - tagmanĝo: lõunasöök
+  - '?'
+- demando: 'Mida sa tahad juua: teed, kohvi või mitte midagi?'
+  rektatraduko:
+  - Kion: Mida
+  - vi: sina
+  - volas: tahad
+  - trinki: juua
+  - ':'
+  - teon: teed
+  - ','
+  - iom: natuke
+  - da: koguse kohta
+  - kafo: kohv
+  - aŭ: või
+  - ĉu: kas
+  - vi: sina
+  - volas: tahad
+  - nenion: mitte midagi
+  - '?'
+- demando: Miks sa otsustasid nii äkki oma väikest tuba uuendada?
+  rektatraduko:
+  - Kial: Miks
+  - vi: sina
+  - tiel: nii
+  - subite: äkki
+  - decidis: otsustasid
+  - renovigi: uuendada
+  - vian: sinu
+  - ĉambreton: väikest tuba
+  - '?'
+- demando: Kellele sa andsid puhtad veiniklaasid?
+  rektatraduko:
+  - Al: Kellele
+  - kiu: kes
+  - vi: sina
+  - donis: andsid
+  - la: määrav artikkel
+  - purajn: puhtaid
+  - glasojn: klaase
+  - por: jaoks
+  - la: määrav artikkel
+  - vino: vein
+  - '?'
+- demando: Kelle vastu mängis sinu spordiklubi kaks nädalat tagasi?
+  rektatraduko:
+  - Kontraŭ: Vastu
+  - kiu: keda
+  - ludis: mängis
+  - via: sinu
+  - sportklubo: spordiklubi
+  - antaŭ: enne
+  - du: kaks
+  - semajnoj: nädalat
+  - '?'
+- demando: Kas sa näed sageli politseinikku, kes elab sinu kohal olevas korteris?
+  rektatraduko:
+  - Ĉu: Kas
+  - vi: sina
+  - ofte: sageli
+  - vidas: näed
+  - la: määrav artikkel
+  - policiston: politseinikku
+  - ','
+  - kiu: kes
+  - loĝas: elab
+  - en: sees
+  - la: määrav artikkel
+  - loĝejo: korter
+  - super: kohal
+  - vi: sina
+  - '?'

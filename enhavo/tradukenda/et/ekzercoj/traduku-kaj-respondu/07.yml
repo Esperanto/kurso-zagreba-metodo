@@ -1,0 +1,71 @@
+- demando: Kellel oli raamat, mida sa ootasid üle kahe aasta?
+  rektatraduko:
+  - Kiu: Kes
+  - havis: omas
+  - la: määrav artikkel
+  - libron: raamatut
+  - ','
+  - kiun: mida
+  - vi: sina
+  - atendis: ootasid
+  - pli: rohkem
+  - ol: kui
+  - du: kaks
+  - jarojn: aastat
+  - '?'
+- demando: Kas sa tahad, et ma näitaksin sulle fotot, mis on mulle kõige kallim?
+  rektatraduko:
+  - Ĉu: Kas
+  - vi: sina
+  - volas: tahad
+  - ','
+  - ke: et
+  - mi: mina
+  - montru: näitaksin
+  - al: juurde
+  - vi: sina
+  - mian: minu
+  - plej: kõige
+  - karan: kallist
+  - foton: fotot
+  - '?'
+- demando: Kust sa selle riideeseme ostsid?
+  rektatraduko:
+  - Kie: Kus
+  - vi: sina
+  - aĉetis: ostsid
+  - tiun: selle
+  - vestaĵon: riideeseme
+  - '?'
+- demando: Kuhu sa pühapäeval lähed, kui tuleb päikeseline päev?
+  rektatraduko:
+  - Kien: Kuhu
+  - vi: sina
+  - iros: lähed
+  - dimanĉe: pühapäeval
+  - ','
+  - se: kui
+  - estos: saab olema
+  - suna: päikeseline
+  - tago: päev
+  - '?'
+- demando: Kas sinu vend on juba ära läinud?
+  rektatraduko:
+  - Ĉu: Kas
+  - via: sinu
+  - frato: vend
+  - jam: juba
+  - ekiris: asus teele
+  - '?'
+- demando: Kus on vesi, mille sa ise kaasa tõid?
+  rektatraduko:
+  - Kie: Kus
+  - estas: 'on'
+  - la: määrav artikkel
+  - akvo: vesi
+  - ','
+  - kiun: mille
+  - vi: sina
+  - mem: ise
+  - kunportis: tõid kaasa
+  - '?'

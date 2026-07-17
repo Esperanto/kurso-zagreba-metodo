@@ -448,6 +448,14 @@ ro:
   aŭtoroj:
     - nomo: Yves Nevelsteen
       github: yvesnevelsteen
+rm:
+  nomo:
+    fontlingve: Rumantsch Grischun
+    esperante: romanĉa
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 ru:
   nomo:
     fontlingve: Русский

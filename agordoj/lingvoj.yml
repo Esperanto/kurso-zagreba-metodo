@@ -481,6 +481,15 @@ ru:
       github: vistar
     - nomo: Reedych
       github: reedych
+rw:
+  nomo:
+    fontlingve: Ikinyarwanda
+    esperante: kinjarvanda
+  stato: testa
+  komentejo: 0
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 sk:
   nomo:
     fontlingve: Slovenčina

@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+import argparse
+
 import yaml
 from yaml.constructor import ConstructorError
 
@@ -56,7 +58,10 @@ def check_bool_like_scalars():
     require(data['quoted_no'] == 'no', 'quoted "no" ne restis teksto')
 
 
-def check_malagasy_no_values():
+def check_malagasy_no_values(lingvo):
+    if lingvo and lingvo != 'mg':
+        return
+
     checks = [
         ('enhavo/tradukenda/mg/ekzercoj/traduku-kaj-respondu/04.yml', 'estas'),
         ('enhavo/tradukenda/mg/ekzercoj/traduku-kaj-respondu/07.yml', 'estas'),
@@ -68,11 +73,19 @@ def check_malagasy_no_values():
         require(False not in values, path + ' ankoraŭ enhavas bulean False por ' + key)
 
 
-def main():
+def parse_args(argv=None):
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--lingvo', help='Kontrolu lingvospecifajn YAML-regresiojn nur por tiu lingvo.')
+    return parser.parse_args(argv)
+
+
+def main(argv=None):
+    args = parse_args(argv)
+
     print('startis sekura YAML-legado... ', end='', flush=True)
     check_safe_yaml_loader_blocks_python_tags()
     check_bool_like_scalars()
-    check_malagasy_no_values()
+    check_malagasy_no_values(args.lingvo)
     print('bone')
 
 

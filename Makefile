@@ -1,5 +1,6 @@
 .PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md normalize-yaml normalize-md serve clean
 
+LINGVO_ORIGIN := $(origin LINGVO)
 LINGVO ?= en
 HOST ?= 127.0.0.1
 PORT ?= 8000
@@ -12,6 +13,11 @@ PYTHON ?= $(VENV)/bin/python
 YAML_SCHEMA_LINTER ?= $(VENV)/bin/check-jsonschema
 TRADUKENDA_SCHEMA_DIR ?= skemoj/tradukenda
 PIP_TOOLS ?= pip-tools==7.5.3
+CHECK_YAML_LINGVO ?= $(if $(filter command line,$(LINGVO_ORIGIN)),$(LINGVO),)
+CHECK_YAML_ARGS := $(if $(CHECK_YAML_LINGVO),--lingvo $(CHECK_YAML_LINGVO),)
+CHECK_YAML_TRADUKENDA_GLOB := enhavo/tradukenda/$(if $(CHECK_YAML_LINGVO),$(CHECK_YAML_LINGVO),*)
+CHECK_YAML_TRADUKENDA_FIND_ROOT := $(if $(CHECK_YAML_LINGVO),enhavo/tradukenda/$(CHECK_YAML_LINGVO),enhavo/tradukenda)
+CHECK_YAML_SUCCESS := $(if $(CHECK_YAML_LINGVO),Sukcesis: kontrolis YAML-dosierojn por $(CHECK_YAML_LINGVO),Sukcesis: kontrolis YAML-dosierojn)
 CHECK_LINGVO := en
 MD_OUT ?= eligo/md/$(CHECK_LINGVO).md
 
@@ -24,7 +30,7 @@ help:
 		'  make lock            Rekreas requirements.txt el requirements.in' \
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
 		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
-		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj' \
+		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj; kun LINGVO=de nur unu lingvon' \
 		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/' \
 		'  make check-md-normalized    Kontrolas Markdown-formaton sub enhavo/' \
 		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
@@ -73,38 +79,39 @@ check:
 
 check-yaml:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
-	@"$(PYTHON)" -m fonto.py.kontrolu_yaml
+	@test -z "$(CHECK_YAML_LINGVO)" || test -d "$(CHECK_YAML_TRADUKENDA_FIND_ROOT)" || { printf '%s\n' 'Nekonata lingvo por YAML-kontrolo: $(CHECK_YAML_LINGVO)' >&2; exit 1; }
+	@"$(PYTHON)" -m fonto.py.kontrolu_yaml $(CHECK_YAML_ARGS)
 	@test -x "$(YAML_SCHEMA_LINTER)" || { printf '%s\n' 'Mankas $(YAML_SCHEMA_LINTER). Rulu `make install` unue.' >&2; exit 1; }
 	@printf '%s' 'startis fasado-skemoj... '
-	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.yml" enhavo/tradukenda/*/fasado/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }
+	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.yml" $(CHECK_YAML_TRADUKENDA_GLOB)/fasado/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }
 	@printf '%s\n' 'bone'
 	@printf '%s' 'startis vortaro-skemoj... '
-	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.yml" enhavo/tradukenda/*/vortaro/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }
+	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.yml" $(CHECK_YAML_TRADUKENDA_GLOB)/vortaro/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }
 	@printf '%s\n' 'bone'
 	@printf '%s' 'startis specifaj vortaro-skemoj... '
-	@for dosiero in enhavo/tradukenda/*/vortaro/*.yml; do \
+	@for dosiero in $(CHECK_YAML_TRADUKENDA_GLOB)/vortaro/*.yml; do \
 		nomo=$$(basename "$$dosiero" .yml); \
 		skemo="$(TRADUKENDA_SCHEMA_DIR)/vortaro/$${nomo}.schema.yml"; \
 		test -f "$$skemo" || { printf '\nMankas vortaro-skemo por %s: %s\n' "$$dosiero" "$$skemo"; exit 1; }; \
 	done
 	@for skemo in "$(TRADUKENDA_SCHEMA_DIR)"/vortaro/*.schema.yml; do \
 		nomo=$$(basename "$$skemo" .schema.yml); \
-		dosieroj=$$(find enhavo/tradukenda -path "*/vortaro/$${nomo}.yml" -type f | sort); \
+		dosieroj=$$(find "$(CHECK_YAML_TRADUKENDA_FIND_ROOT)" -path "*/vortaro/$${nomo}.yml" -type f | sort); \
 		test -n "$$dosieroj" || continue; \
 		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$$skemo" $$dosieroj 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
 	done
 	@printf '%s\n' 'bone'
 	@printf '%s' 'startis traduku-skemoj... '
 	@for leciono in 01 02 03 04 05 06 07 08 09 10 11 12; do \
-		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku/$${leciono}.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku/$${leciono}.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
+		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku/$${leciono}.schema.yml" $(CHECK_YAML_TRADUKENDA_GLOB)/ekzercoj/traduku/$${leciono}.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
 	done
 	@printf '%s\n' 'bone'
 	@printf '%s' 'startis traduku-kaj-respondu-skemoj... '
 	@for leciono in 01 02 03 04 05 06 07 08 09 10 11 12; do \
-		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu/$${leciono}.schema.yml" enhavo/tradukenda/*/ekzercoj/traduku-kaj-respondu/$${leciono}.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
+		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu/$${leciono}.schema.yml" $(CHECK_YAML_TRADUKENDA_GLOB)/ekzercoj/traduku-kaj-respondu/$${leciono}.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
 	done
 	@printf '%s\n' 'bone'
-	@printf '%s\n' 'Sukcesis: kontrolis YAML-dosierojn'
+	@printf '%s\n' '$(CHECK_YAML_SUCCESS)'
 
 check-yaml-normalized:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }

@@ -1,49 +1,49 @@
-- demando: Pouvez-vous apporter le médicament de ma soeur ?
+- demando: Pouvéd-vos aportar lo remèdo de ma seror?
   rektatraduko:
-  - Ĉu: Est-ce que
-  - vi: vous
-  - povas: pouvez
-  - kunporti: apporter
-  - la: le
-  - sanigilon: médicament
+  - Ĉu: Se
+  - vi: vos
+  - povas: pouvéd
+  - kunporti: aportar
+  - la: lo
+  - sanigilon: remèdo
   - de: de
   - mia: ma
-  - fratino: sœur
+  - fratino: seror
   - '?'
-- demando: Quand as-tu acheté cet instrument de musique ?
+- demando: Quand as-tu achetâ ceti instrument de musica?
   rektatraduko:
   - Kiam: Quand
   - vi: tu
-  - aĉetis: as acheté
-  - tiun: ce, cet
-  - muzikilon: instrument de musique
+  - aĉetis: as achetâ
+  - tiun: ceti
+  - muzikilon: instrument de musica
   - '?'
-- demando: Qui a utilisé ma clé dernièrement ?
+- demando: Qui at utilisâ ma cllâf derniérement?
   rektatraduko:
   - Kiu: Qui
-  - laste: dernièrement
-  - uzis: a utilisé
+  - laste: derniérement
+  - uzis: at utilisâ
   - mian: ma
-  - ŝlosilon: clé
+  - ŝlosilon: cllâf
   - '?'
-- demando: Vous êtes-vous déplacés à Venise en gondole aussi ?
+- demando: Avéd-vos asse-ben voyagiê a Venécia en gondola?
   rektatraduko:
-  - Ĉu: Est-ce que
-  - vi: vous
-  - en: à, dans
-  - Venecio: Venise
-  - veturis: êtes déplacés
-  - ankaŭ: aussi
+  - Ĉu: Se
+  - vi: vos
+  - en: en
+  - Venecio: Venécia
+  - veturis: avéd voyagiê
+  - ankaŭ: asse-ben
   - per: en
-  - gondolo: gondole
+  - gondolo: gondola
   - '?'
-- demando: Est-ce que pourra t'endormir quand ce sera silencieux ?
+- demando: Porrâs-tu t'endormir quand tot devendrat silencios?
   rektatraduko:
-  - Ĉu: Est-ce que
+  - Ĉu: Se
   - vi: tu
-  - povos: pourras
-  - ekdormi: '[t''] endormir'
+  - povos: porrâs
+  - ekdormi: t'endormir
   - ','
   - kiam: quand
-  - silentiĝos: deviendra silencieux
+  - silentiĝos: devendrat silencios
   - '?'

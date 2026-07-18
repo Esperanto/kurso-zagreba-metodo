@@ -1,68 +1,68 @@
-- demando: Est-ce que vous voulez que je vous montre mon plus récent livre ?
+- demando: Vôléd-vos que jou vos montre mon livro lo més novél?
   rektatraduko:
-  - Ĉu: Est-ce que
-  - vi: vous
-  - deziras: voulez
+  - Ĉu: Se
+  - vi: vos
+  - deziras: vôléd
   - ','
   - ke: que
-  - mi: je
+  - mi: jou
   - montru: montre
-  - al: à
-  - vi: vous
+  - al: a
+  - vi: vos
   - mian: mon
-  - plej: plus
-  - novan: nouveau
-  - libron: livre
+  - plej: lo més
+  - novan: novél
+  - libron: livro
   - '?'
-- demando: Que voulez-vous demain pour votre petit déjeuner ?
+- demando: Què vôléd-vos mandziér deman matin?
   rektatraduko:
-  - Kion: Que
-  - vi: vous
-  - volas: voulez
-  - morgaŭ: demain
-  - matenmanĝi: prendre le petit-déjeuner
+  - Kion: Què
+  - vi: vos
+  - volas: vôléd
+  - morgaŭ: deman
+  - matenmanĝi: mandziér lo matin
   - '?'
-- demando: Quand Marko arrivera-t-il, à 5 heures ou à 8 heures ?
+- demando: Quand Marko arruverat-il, a cinc hores ou a uèt hores?
   rektatraduko:
   - Kiam: Quand
   - Marko: Marko
-  - alvenos: arrivera
+  - alvenos: arruverat
   - ','
-  - je: à
+  - je: a
   - la: la
-  - kvina: cinquième
+  - kvina: cinquièma
   - aŭ: ou
-  - je: à
+  - je: a
   - la: la
-  - oka: huitième
-  - horo: heure
+  - oka: uètièma
+  - horo: hora
   - '?'
-- demando: Quand avez-vous remarqué que toute la famille m'appelle bienfaiteur ?
+- demando: Quand avéd-vos remarquâ que tota la famelye m'apelle benfactor?
   rektatraduko:
   - Kiam: Quand
-  - vi: vous
-  - rimarkis: avez remarqué
+  - vi: vos
+  - rimarkis: avéd remarquâ
   - ','
   - ke: que
   - la: la
-  - tuta: toute
-  - familio: famille
-  - nomas: appelle
-  - min: moi
-  - bonfarulo: bienfaiteur
+  - tuta: tota
+  - familio: famelye
+  - nomas: apelle
+  - min: mè
+  - bonfarulo: benfactor
   - '?'
-- demando: Est-ce que le livret que j'ai envoyé vous a été utile ?
+- demando: Lo petit livro que jou vos ai mandâ at-i étâ utilo?
   rektatraduko:
-  - Ĉu: Est-ce que
-  - la: le
-  - libreto: livret
+  - Ĉu: Se
+  - la: lo
+  - libreto: petit livro
   - ','
   - kiun: que
-  - mi: je
-  - sendis: ai envoyé
-  - al: à
-  - vi: vous
+  - mi: jou
+  - sendis: ai mandâ
+  - al: a
+  - vi: vos
   - ','
-  - estis: était
-  - utila: utile
+  - estis: ètait
+  - utila: utilo
   - '?'

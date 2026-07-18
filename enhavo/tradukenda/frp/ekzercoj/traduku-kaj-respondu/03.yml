@@ -1,72 +1,72 @@
-- demando: Est-ce que les serveurs dans les grands hôtels comprennent beaucoup de langues ?
+- demando: Los sèrvior dans los grands hôtèls comprenont-ils de nombreuses lengoues?
   rektatraduko:
-  - Ĉu: Est-ce que
-  - kelneroj: serveurs
+  - Ĉu: Se
+  - kelneroj: sèrvior
   - en: dans
   - grandaj: grands
-  - hoteloj: hôtels
-  - komprenas: comprennnent
-  - multajn: beaucoup de
-  - lingvojn: langues
+  - hoteloj: hôtèls
+  - komprenas: comprenont
+  - multajn: de nombreuses
+  - lingvojn: lengoues
   - '?'
-- demando: Est-ce que tu sais si Ana aime la nouvelle chanson à propos d'un pauvre homme et d'une belle femme ?
+- demando: Sâs-tu se Ana aime la novèla chanson sur un povro et una bela fena?
   rektatraduko:
-  - Ĉu: Est-ce que
+  - Ĉu: Se
   - vi: tu
-  - scias: sais
+  - scias: sâs
   - ','
-  - ĉu: si
+  - ĉu: se
   - Ana: Ana
   - ŝatas: aime
   - la: la
-  - novan: nouvelle
+  - novan: novèla
   - kanton: chanson
-  - pri: à propos de
-  - malriĉulo: une personne pauvre
+  - pri: sur
+  - malriĉulo: povro
   - kaj: et
-  - belulino: une belle femme
+  - belulino: bela fena
   - '?'
-- demando: Où as-tu vu le vieux et le jeune qui portaient une grande table ?
+- demando: Yo as-tu vu lo viely et lo jouvèno que portâvont una granda tabla?
   rektatraduko:
-  - Kie: Où
+  - Kie: Yo
   - vi: tu
   - vidis: as vu
-  - la: le
-  - maljunulon: vieux (vieil homme)
+  - la: lo
+  - maljunulon: viely
   - kaj: et
-  - la: le
-  - junulon: jeune (homme jeune)
+  - la: lo
+  - junulon: jouvèno
   - ','
-  - kiuj: qui
-  - portis: portaient
-  - grandan: grande
-  - tablon: table
+  - kiuj: que
+  - portis: portâvont
+  - grandan: granda
+  - tablon: tabla
   - '?'
-- demando: Comment c'est arrivé que tu sois encore venu chez nous sans tes frères et soeurs ?
+- demando: Coment est-i arrivâ que tu es revenu vers nos sens tos frâres et serors?
   rektatraduko:
   - Kiel: Comment
-  - okazis: c'est arrivé
+  - okazis: est arrivâ
   - ','
   - ke: que
   - vi: tu
-  - denove: encore
-  - venis: '[tu] es venu'
-  - al: chez
-  - ni: nous
-  - sen: sans
-  - gefratoj: frères et soeurs ?
+  - denove: denôvo
+  - venis: es venu
+  - al: vers
+  - ni: nos
+  - sen: sens
+  - gefratoj: frâres et serors
   - '?'
-- demando: Est-ce que tu peux apprendre l'espéranto assez rapidement avec le nouveau livre de cours ?
+- demando: Pués-tu aprendre l'espèranto prod vitement avouéc lo novél livro de cors?
   rektatraduko:
-  - Ĉu: Est-ce que
+  - Ĉu: Se
   - vi: tu
-  - povas: peux
-  - per: avec
-  - la: le
-  - nova: nouveau
-  - lernolibro: livre de cours
-  - sufiĉe: assez
-  - rapide: rapidement
-  - lerni: apprendre
-  - Esperanton: '[l''] espéranto'
+  - povas: pués
+  - per: avouéc
+  - la: lo
+  - nova: novél
+  - lernolibro: livro de cors
+  - sufiĉe: prod
+  - rapide: vitement
+  - lerni: aprendre
+  - Esperanton: l'espèranto
   - '?'

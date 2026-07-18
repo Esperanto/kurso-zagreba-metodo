@@ -1,70 +1,70 @@
-- demando: Qu'est-ce qui pourrait le plus réjouir tes parents ?
+- demando: Què porrié rendre tos parents los més joyos?
   rektatraduko:
-  - Kio: Quoi
-  - povus: pourrait
-  - plej: le plus
-  - ĝojigi: réjouir
-  - viajn: tes
+  - Kio: Què
+  - povus: porrié
+  - plej: lo més
+  - ĝojigi: rendre joyos
+  - viajn: tos
   - gepatrojn: parents
   - '?'
-- demando: Si au moins allais après l'école avec moi en ville !
+- demando: Se u muens tu alâs aprés l'ècoula en vela avouéc mè!
   rektatraduko:
-  - Se: Si
-  - almenaŭ: au moins
+  - Se: Se
+  - almenaŭ: u muens
   - vi: tu
-  - post: après
+  - post: aprés
   - la: l'
-  - lernado: école
-  - irus: irais
-  - kun: avec
-  - mi: moi
-  - en: à
-  - la: le
-  - urbon: ville
+  - lernado: aprentissâjo
+  - irus: alâs
+  - kun: avouéc
+  - mi: mè
+  - en: en
+  - la: la
+  - urbon: vela
   - '!'
-- demando: Où voudrais-tu voyager si tu avais suffisamment d'argent et de temps ?
+- demando: Yona voudriés-tu voyagiér se tu avêves prod d'argent et de temps?
   rektatraduko:
-  - Kien: Où
+  - Kien: Yona
   - vi: tu
-  - dezirus: voudrais
-  - vojaĝi: voyager
+  - dezirus: voudriés
+  - vojaĝi: voyagiér
   - ','
-  - se: si
+  - se: se
   - vi: tu
-  - havus: aurais
-  - sufiĉe: assez
+  - havus: avêves
+  - sufiĉe: prod
   - da: de
-  - mono: arget
+  - mono: argent
   - kaj: et
   - tempo: temps
   - '?'
-- demando: Est-ce que tu prévois d'aller en Italie en voiture ou, est-ce-que cela ne semble pas beaucoup mieux, en train ?
+- demando: Plânes-tu d'alar en Italia en ôto, ou semble-t-il pas més bon d'y alar en train?
   rektatraduko:
-  - Ĉu: Est-ce que
+  - Ĉu: Se
   - vi: tu
-  - planas: prévois
-  - veturi: aller
-  - al: à
-  - Italio: Italie
-  - per: avec
-  - aŭto: voiture
+  - planas: plânes
+  - veturi: alar en vèhicllo
+  - al: a
+  - Italio: Italia
+  - per: avouéc
+  - aŭto: ôto
   - aŭ: ou
-  - ĉu: est-ce-que
+  - ĉu: se
   - ne: ne
   - ŝajnas: semble
   - multe: beaucoup
-  - pli: plus
-  - bone: bon
-  - per: par
+  - pli: més
+  - bone: ben
+  - per: per
   - vagonaro: train
   - '?'
-- demando: Pourquoi différentes personnes expliquent les mêmes idées de façons différentes ?
+- demando: Porquè de divèrses persones èxplicont les mêmes idêes de maniéres divèrses?
   rektatraduko:
-  - Kial: Pourquoi
-  - diversaj: différentes
-  - homoj: personnes
-  - klarigas: expliquent
+  - Kial: Porquè
+  - diversaj: divèrses
+  - homoj: persones
+  - klarigas: èxplicont
   - samajn: mêmes
-  - ideojn: idées
-  - diversmaniere: de façons différentes
+  - ideojn: idêes
+  - diversmaniere: de maniéres divèrses
   - '?'

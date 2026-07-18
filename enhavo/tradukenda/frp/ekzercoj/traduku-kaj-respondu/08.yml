@@ -1,80 +1,80 @@
-- demando: Qui va nettoyer la cuisine après le déjeuner ?
+- demando: Qui neteyerat la cusina aprés lo repas de midi?
   rektatraduko:
   - Kiu: Qui
-  - purigos: va nettoyer
+  - purigos: neteyerat
   - la: la
-  - kuirejon: cuisine
-  - post: après
-  - la: le
-  - tagmanĝo: déjeuner
+  - kuirejon: cusina
+  - post: aprés
+  - la: lo
+  - tagmanĝo: repas de midi
   - '?'
-- demando: 'Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?'
+- demando: 'Què vôs-tu bêre: tè, un pou de cafè, ou ren?'
   rektatraduko:
-  - Kion: Que, quoi
+  - Kion: Què
   - vi: tu
-  - volas: veux
-  - trinki: boire
+  - volas: vôs
+  - trinki: bêre
   - ':'
-  - teon: du thé
+  - teon: tè
   - ','
-  - iom: un peu
+  - iom: un pou
   - da: de
-  - kafo: café
+  - kafo: cafè
   - aŭ: ou
-  - ĉu: est-ce que
+  - ĉu: se
   - vi: tu
-  - volas: veux
-  - nenion: rien
+  - volas: vôs
+  - nenion: ren
   - '?'
-- demando: Pourquoi as-tu si soudainement décider de rénover ta petite chambre ?
+- demando: Porquè as-tu dècidâ si soudainament de renovar ta petita chambra?
   rektatraduko:
-  - Kial: Pourquoi
+  - Kial: Porquè
   - vi: tu
-  - tiel: ainsi, si
-  - subite: soudainement
-  - decidis: as décidé
-  - renovigi: rénover
+  - tiel: ense, si
+  - subite: soudainament
+  - decidis: as dècidâ
+  - renovigi: renovar
   - vian: ta
-  - ĉambreton: petite chambre
+  - ĉambreton: petita chambra
   - '?'
-- demando: À qui as-tu donnée les verres à vin propres ?
+- demando: A qui as-tu balyê los vêrros nets por lo vin?
   rektatraduko:
-  - Al: À
+  - Al: A
   - kiu: qui
   - vi: tu
-  - donis: as donné
-  - la: les
-  - purajn: propres
-  - glasojn: verres
-  - por: pour
-  - la: le
+  - donis: as balyê
+  - la: los
+  - purajn: nets
+  - glasojn: vêrros
+  - por: por
+  - la: lo
   - vino: vin
   - '?'
-- demando: Contre qui ton club de sports a joué il y a deux semaines ?
+- demando: Contra qui ton club de sport at-il jouâ doux semanes y at?
   rektatraduko:
-  - Kontraŭ: Contre
+  - Kontraŭ: Contra
   - kiu: qui
-  - ludis: a joué
+  - ludis: at jouâ
   - via: ton
-  - sportklubo: club de sports
+  - sportklubo: club de sport
   - antaŭ: avant
-  - du: deux
-  - semajnoj: semaines
+  - du: doux
+  - semajnoj: semanes
   - '?'
-- demando: Est-ce que tu vois souvent le policier qui habite dans l'appartement au-dessus de toi ?
+- demando: Vês-tu sovent lo policiér que habite dans l'apartament dessus tu?
   rektatraduko:
-  - Ĉu: Est-ce que
+  - Ĉu: Se
   - vi: tu
-  - ofte: souvent
-  - vidas: vois
-  - la: le
-  - policiston: policier
+  - ofte: sovent
+  - vidas: vês
+  - la: lo
+  - policiston: policiér
   - ','
-  - kiu: qui
+  - kiu: que
   - loĝas: habite
   - en: dans
   - la: l'
-  - loĝejo: appartement
-  - super: au-dessus de
-  - vi: toi
+  - loĝejo: apartament
+  - super: dessus
+  - vi: tu
   - '?'

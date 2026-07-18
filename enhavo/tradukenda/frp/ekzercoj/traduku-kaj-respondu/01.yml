@@ -1,51 +1,51 @@
-- demando: Qui est ton amie ?
+- demando: Qui est ta amiga?
   rektatraduko:
   - Kiu: Qui
   - estas: est
   - via: ta
-  - amikino: amie
+  - amikino: amiga
   - '?'
-- demando: Est-ce que ton amie Ana écrit maintenant dans la chambre ?
+- demando: Ta amiga Ana ècrit-ela ora dans la chambra?
   rektatraduko:
-  - Ĉu: Est-ce que
-  - via: ton
-  - amikino: amie
+  - Ĉu: Se
+  - via: ta
+  - amikino: amiga
   - Ana: Ana
-  - skribas: écrit
-  - nun: maintenant
+  - skribas: ècrit
+  - nun: ora
   - en: dans
   - la: la
-  - ĉambro: chambre
+  - ĉambro: chambra
   - '?'
-- demando: Est-ce que l'ami de ton père travaille dans un hôtel ?
+- demando: L'ami de ton pâre travalye-t-il dans un hôtèl?
   rektatraduko:
-  - Ĉu: Est-ce que
+  - Ĉu: Se
   - la: l'
   - amiko: ami
   - de: de
   - via: ton
-  - patro: père
-  - laboras: travaille
+  - patro: pâre
+  - laboras: travalye
   - en: dans
-  - hotelo: un hôtel
+  - hotelo: hôtèl
   - '?'
-- demando: Qu'y-a-t-il sur le bureau dans notre chambre ?
+- demando: Què est sur lo buro dans nouta chambra?
   rektatraduko:
-  - Kio: Quoi
+  - Kio: Què
   - estas: est
   - sur: sur
-  - la: le
-  - labortablo: bureau
+  - la: lo
+  - labortablo: tabla de travâly
   - en: dans
-  - nia: notre
-  - ĉambro: chambre
+  - nia: nouta
+  - ĉambro: chambra
   - '?'
-- demando: Est-ce qu'il y a un manuel d'espéranto sur ta table ?
+- demando: At-i un livro por aprendre l'espèranto sur ta tabla?
   rektatraduko:
-  - Ĉu: Est-ce que
-  - Esperanto-lernolibro: un manuel d'espéranto
+  - Ĉu: Se
+  - Esperanto-lernolibro: livro d'espèranto
   - estas: est
   - sur: sur
   - via: ta
-  - tablo: table
+  - tablo: tabla
   - '?'

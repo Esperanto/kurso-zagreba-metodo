@@ -17,7 +17,6 @@ REQUESTED_LINGVO := $(if $(filter command line,$(LINGVO_ORIGIN)),$(LINGVO),)
 CHECK_FORMAT_LINGVO ?= $(REQUESTED_LINGVO)
 CHECK_FORMAT_PATH := $(if $(CHECK_FORMAT_LINGVO),enhavo/tradukenda/$(CHECK_FORMAT_LINGVO),enhavo)
 CHECK_YAML_LINGVO ?= $(REQUESTED_LINGVO)
-CHECK_YAML_ARGS := $(if $(CHECK_YAML_LINGVO),--lingvo $(CHECK_YAML_LINGVO),)
 CHECK_YAML_TRADUKENDA_GLOB := enhavo/tradukenda/$(if $(CHECK_YAML_LINGVO),$(CHECK_YAML_LINGVO),*)
 CHECK_YAML_TRADUKENDA_FIND_ROOT := $(if $(CHECK_YAML_LINGVO),enhavo/tradukenda/$(CHECK_YAML_LINGVO),enhavo/tradukenda)
 CHECK_YAML_SUCCESS := $(if $(CHECK_YAML_LINGVO),Sukcesis: kontrolis YAML-dosierojn por $(CHECK_YAML_LINGVO),Sukcesis: kontrolis YAML-dosierojn)
@@ -85,7 +84,7 @@ check:
 check-yaml:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@test -z "$(CHECK_YAML_LINGVO)" || test -d "$(CHECK_YAML_TRADUKENDA_FIND_ROOT)" || { printf '%s\n' 'Nekonata lingvo por YAML-kontrolo: $(CHECK_YAML_LINGVO)' >&2; exit 1; }
-	@"$(PYTHON)" -m fonto.py.kontrolu_yaml $(CHECK_YAML_ARGS)
+	@"$(PYTHON)" -m fonto.py.kontrolu_yaml
 	@test -x "$(YAML_SCHEMA_LINTER)" || { printf '%s\n' 'Mankas $(YAML_SCHEMA_LINTER). Rulu `make install` unue.' >&2; exit 1; }
 	@printf '%s' 'startis fasado-skemoj... '
 	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.yml" $(CHECK_YAML_TRADUKENDA_GLOB)/fasado/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }

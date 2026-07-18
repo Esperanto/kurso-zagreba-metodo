@@ -37,14 +37,14 @@ domegon: خانه‌ی بزرگ را
 dumnokte: طی شب، شبانه
 dumtage: طی روز، روزانه
 ekkriis: شروع به فریاد زدن کرد
-ekmire: به صورت شگفت انگیز
+ekmire: با شگفتی
 ekparolis: شروع به صحبت کرد
-ekridis: شروع به خندین کرد
+ekridis: شروع به خندیدن کرد
 ekrigardis: شروع به نگاه کردن کرد
 eksaltis: شروع به پریدن کرد
 ekscii: دریافتن
 eksidis: نشست
-ekstervoje: در راه خروج
+ekstervoje: بیرون از راه
 ekveturas: شروع به راندن می‌کند
 ekvidis: شروع به دیدن کرد
 elstaraj: برجسته
@@ -54,13 +54,13 @@ eniru: '!وارد شو'
 Esperanto: اسپرانتو
 facilmovaj:
 - روان
-- مربوط به حرکت آسان
+- به‌راحتی حرکت‌پذیر
 faligi:
 - انداختن
-- زیر گرفتن
+- به زمین انداختن
 faligis:
 - انداخت
-- زیر گرفت
+- به زمین انداخت
 familianoj: اعضای خانواده
 fariĝis: شد
 fermita: بسته‌شده
@@ -72,7 +72,7 @@ foresti:
 - دور بودن
 foriros: دور خواهد رفت
 fratino: خواهر
-fuŝparolis: با سنبل صحبت کرد
+fuŝparolis: بد و اشتباه حرف زد
 geamikoj: دوستان
 gefratoj: خواهران و برادران
 gelernantojn: شاگردان مختلط را
@@ -92,8 +92,8 @@ ideoriĉan: پرپندار
 industriisto: صنعتگر
 instruistino: معلم (خانم)
 instruiston: معلم را
-intervidiĝas: با دیگران دیدار می‌کند
-iron: راه‌روی
+intervidiĝas: با هم دیدار می‌کنند
+iron: رفتن را
 junulino: خانم جوان
 junulinoj: خانم‌های جوان
 junulinon: خانم جوان را
@@ -114,7 +114,9 @@ kompreneble:
 - البته
 korpoforton: قدرت بدنی را
 kunmanĝos: با همدیگر غذا خواهند خورد
-kunporti: با همدیگر حمل کردن
+kunporti:
+- همراه آوردن
+- با خود بردن
 kunulino: خانم همراه
 kunvenas: گرد هم می‌آیند
 laboristo: کارگر
@@ -145,7 +147,6 @@ malbonan: بد
 malbono:
 - بدی
 - عمل یا چیز بد
-- بد
 malfacilan: سخت
 malfacile: به سختی
 malfeliĉo:
@@ -225,8 +226,8 @@ paperujon:
 - سبد کاغذ باطله را
 pasigos: خواهد گذراند
 patrino: مادر
-perdigis: به از دست دادن واداشتن
-plenigadis: پر کرد
+perdigis: باعث از دست رفتن شد
+plenigadis: پر می‌کرد
 plenumis: برآورده کرد
 plibeligis: زیباتر کرد
 plimulto: اکثریت
@@ -239,7 +240,9 @@ redonu:
 - پس بده
 - بازگردان
 rekapti: بازپس‌گرفتن
-repaciĝon: قرارگیری دوباره در وضعیت صلح را
+repaciĝon:
+- آشتی دوباره را
+- قرارگیری دوباره در وضعیت صلح را
 revenis: بازگشت
 revidi: دوباره دیدن
 revido: دیدار دوباره
@@ -252,26 +255,34 @@ riĉulo: شخص ثروتمند
 salton: پرش را
 saluton: سلام
 samklubanoj: هم‌باشگاه‌ها
-sekretajn: رازآلود
+sekretajn:
+- محرمانه را
+- پنهانی را
 sekreton: راز را
 senbrue: بی‌سروصدا
 seninterese: بی‌علاقه
 senkolora: بی‌رنگ
 sensukcese: بی‌موفقیت
 sentimulo: شخص بی‌باک
-senvorte: بی‌واژه
+senvorte: بی‌کلام
 sinjorinoj: بانوان
 sinjorinon: خانم را
 skribotablo: میز تحریر
-soleca: به گونه‌ای تنها
-sovaĝejo: سرزمین غیر مسکونی یا رام نشده
+soleca:
+- تنها
+- منزوی
+sovaĝejo:
+- جای وحشی
+- منطقه‌ی بکر
 sportisto: ورزشکار
 subakvigis: غرق کرد
 subakviĝis: غرق شد
 subite: ناگهان
 supren: به سوی بالا
 surhavas: پوشیده است
-surlokan: روی این مکان
+surlokan:
+- محلی را
+- در محل را
 teroristoj: تروریست‌ها
 tiuokaze: در این صورت
 travivaĵo:
@@ -283,16 +294,18 @@ unuaj: اولین
 urbomezo: مرکز شهر
 vagonaro: قطار
 vendejo: فروشگاه
-vendejon: فروشگاه
+vendejon: فروشگاه را
 vendisto: فروشنده
 vestaĵo: لباس
 vestaĵoj: لباس‌ها
 vestaĵojn: لباس‌ها را
 vestaĵon: لباس را
 veturado:
-- پیمایش
-- سِیر
-veturigus: می‌رانْد
+- رفت‌وآمد
+- سفر با وسیله‌ی نقلیه
+veturigus:
+- می‌رساند
+- با وسیله‌ی نقلیه می‌بَرَد
 viaj: مال شما
 virino: زن
 vojaĝantoj: مسافران

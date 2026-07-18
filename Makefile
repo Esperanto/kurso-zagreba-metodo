@@ -13,11 +13,16 @@ PYTHON ?= $(VENV)/bin/python
 YAML_SCHEMA_LINTER ?= $(VENV)/bin/check-jsonschema
 TRADUKENDA_SCHEMA_DIR ?= skemoj/tradukenda
 PIP_TOOLS ?= pip-tools==7.5.3
-CHECK_YAML_LINGVO ?= $(if $(filter command line,$(LINGVO_ORIGIN)),$(LINGVO),)
+REQUESTED_LINGVO := $(if $(filter command line,$(LINGVO_ORIGIN)),$(LINGVO),)
+CHECK_FORMAT_LINGVO ?= $(REQUESTED_LINGVO)
+CHECK_FORMAT_PATH := $(if $(CHECK_FORMAT_LINGVO),enhavo/tradukenda/$(CHECK_FORMAT_LINGVO),enhavo)
+CHECK_YAML_LINGVO ?= $(REQUESTED_LINGVO)
 CHECK_YAML_ARGS := $(if $(CHECK_YAML_LINGVO),--lingvo $(CHECK_YAML_LINGVO),)
 CHECK_YAML_TRADUKENDA_GLOB := enhavo/tradukenda/$(if $(CHECK_YAML_LINGVO),$(CHECK_YAML_LINGVO),*)
 CHECK_YAML_TRADUKENDA_FIND_ROOT := $(if $(CHECK_YAML_LINGVO),enhavo/tradukenda/$(CHECK_YAML_LINGVO),enhavo/tradukenda)
 CHECK_YAML_SUCCESS := $(if $(CHECK_YAML_LINGVO),Sukcesis: kontrolis YAML-dosierojn por $(CHECK_YAML_LINGVO),Sukcesis: kontrolis YAML-dosierojn)
+CHECK_PWA_LINGVO ?= $(REQUESTED_LINGVO)
+CHECK_PWA_ARGS := $(if $(CHECK_PWA_LINGVO),--lingvo $(CHECK_PWA_LINGVO),)
 CHECK_LINGVO := en
 MD_OUT ?= eligo/md/$(CHECK_LINGVO).md
 
@@ -31,10 +36,10 @@ help:
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
 		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
 		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj; kun LINGVO=de nur unu lingvon' \
-		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/' \
-		'  make check-md-normalized    Kontrolas Markdown-formaton sub enhavo/' \
+		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/; kun LINGVO=de nur unu lingvon' \
+		'  make check-md-normalized    Kontrolas Markdown-formaton sub enhavo/; kun LINGVO=de nur unu lingvon' \
 		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
-		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston' \
+		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston; kun LINGVO=de nur unu lingvon' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por pretaj kaj testaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
@@ -115,11 +120,13 @@ check-yaml:
 
 check-yaml-normalized:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
-	@"$(PYTHON)" -m fonto.py.normaligu_yaml --kontrolu enhavo
+	@test -z "$(CHECK_FORMAT_LINGVO)" || test -d "$(CHECK_FORMAT_PATH)" || { printf '%s\n' 'Nekonata lingvo por YAML-formata kontrolo: $(CHECK_FORMAT_LINGVO)' >&2; exit 1; }
+	@"$(PYTHON)" -m fonto.py.normaligu_yaml --kontrolu "$(CHECK_FORMAT_PATH)"
 
 check-md-normalized:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
-	@"$(PYTHON)" -m fonto.py.normaligu_md --kontrolu enhavo
+	@test -z "$(CHECK_FORMAT_LINGVO)" || test -d "$(CHECK_FORMAT_PATH)" || { printf '%s\n' 'Nekonata lingvo por Markdown-formata kontrolo: $(CHECK_FORMAT_LINGVO)' >&2; exit 1; }
+	@"$(PYTHON)" -m fonto.py.normaligu_md --kontrolu "$(CHECK_FORMAT_PATH)"
 
 check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
@@ -129,7 +136,7 @@ check-ui:
 	@"$(NPM)" exec -- playwright test
 
 check-pwa:
-	@"$(PYTHON)" -m fonto.py.kontrolu_pwa --output-dir "$(OUTPUT_DIR)"
+	@"$(PYTHON)" -m fonto.py.kontrolu_pwa --output-dir "$(OUTPUT_DIR)" $(CHECK_PWA_ARGS)
 
 bundle:
 	@test -d "$(NODE_MODULES)/esbuild" || { printf '%s\n' 'Mankas esbuild en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }

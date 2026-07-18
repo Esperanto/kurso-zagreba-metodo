@@ -1,0 +1,51 @@
+- demando: Nshuti yawe ninde?
+  rektatraduko:
+  - Kiu: Nde
+  - estas: ni
+  - via: wawe
+  - amikino: inshuti y'umugore
+  - '?'
+- demando: Ese inshuti yawe Ana yandika mucyumba ubu?
+  rektatraduko:
+  - Ĉu: Ese
+  - via: wawe
+  - amikino: inshuti y'umugore
+  - Ana: Ana
+  - skribas: arandika
+  - nun: ubu
+  - en: mu
+  - la: uwo/iyo
+  - ĉambro: icyumba
+  - '?'
+- demando: Ese inshuti ya so ikora muri hoteri?
+  rektatraduko:
+  - Ĉu: Ese
+  - la: uwo/iyo
+  - amiko: inshuti
+  - de: wa/ya
+  - via: wawe
+  - patro: data
+  - laboras: akora
+  - en: mu
+  - hotelo: hoteli
+  - '?'
+- demando: Niki kiri kumurimo wakazi mucyumba cyacu?
+  rektatraduko:
+  - Kio: Iki
+  - estas: ni
+  - sur: ku
+  - la: uwo/iyo
+  - labortablo: ameza yo gukoreraho
+  - en: mu
+  - nia: wacu
+  - ĉambro: icyumba
+  - '?'
+- demando: Hano hari igitabo cya Esperanto kumeza yawe?
+  rektatraduko:
+  - Ĉu: Ese
+  - Esperanto-lernolibro: igitabo cyo kwigiramo Esperanto
+  - estas: ni
+  - sur: ku
+  - via: wawe
+  - tablo: ameza
+  - '?'

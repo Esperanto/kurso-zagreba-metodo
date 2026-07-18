@@ -1,0 +1,68 @@
+- demando: Haluatko, että näytän sinulle uusimman kirjani?
+  rektatraduko:
+  - Ĉu: kysymys
+  - vi: sinä
+  - deziras: toivot
+  - ','
+  - ke: että
+  - mi: minä
+  - montru: näyttäisin
+  - al: -lle
+  - vi: sinä
+  - mian: minun objektina
+  - plej: eniten
+  - novan: uusi objektina
+  - libron: kirja objektina
+  - '?'
+- demando: Mitä haluat syödä aamiaiseksi huomenna?
+  rektatraduko:
+  - Kion: mitä objektina
+  - vi: sinä
+  - volas: haluat
+  - morgaŭ: huomenna
+  - matenmanĝi: syödä aamiaista
+  - '?'
+- demando: Milloin Marko saapuu, viideltä vai kahdeksalta?
+  rektatraduko:
+  - Kiam: milloin
+  - Marko: Marko
+  - alvenos: saapuu
+  - ','
+  - je: kello
+  - la: määräinen artikkeli
+  - kvina: viides
+  - aŭ: tai
+  - je: kello
+  - la: määräinen artikkeli
+  - oka: kahdeksas
+  - horo: tunti
+  - '?'
+- demando: Milloin huomasit, että koko perhe kutsuu minua hyväntekijäksi?
+  rektatraduko:
+  - Kiam: milloin
+  - vi: sinä
+  - rimarkis: huomasit
+  - ','
+  - ke: että
+  - la: määräinen artikkeli
+  - tuta: koko
+  - familio: perhe
+  - nomas: kutsuu
+  - min: minua
+  - bonfarulo: hyväntekijä
+  - '?'
+- demando: Oliko kirjanen, jonka lähetin sinulle, hyödyllinen?
+  rektatraduko:
+  - Ĉu: kysymys
+  - la: määräinen artikkeli
+  - libreto: kirjanen
+  - ','
+  - kiun: jonka objektina
+  - mi: minä
+  - sendis: lähetin
+  - al: -lle
+  - vi: sinä
+  - ','
+  - estis: oli
+  - utila: hyödyllinen
+  - '?'

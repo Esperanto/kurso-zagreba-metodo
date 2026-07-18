@@ -1,27 +1,27 @@
-unu: jeden  
-du: dwa
-tri: trzy
-kvar: cztery
-kvin: pięć
-ses: sześć
-sep: siedem
-ok: osiem
-naŭ: dziewięć
+cent: sto
 dek: dziesięć
-dek unu: jedenaście
 dek du: dwanaście
-dek tri: trzynaście
 dek kvar: czternaście
-dek kvin: piętnaście 
-dek ses: szesnaście 
-dek sep: siedemnaście
-dek ok: osiemnaście
+dek kvin: piętnaście
 dek naŭ: dziewiętnaście
-dudek: dwadzieścia
-tridek: trzydzieści
-kvardek: czterdzieści
-cent: pięćdziesiąt
+dek ok: osiemnaście
+dek sep: siedemnaście
+dek ses: szesnaście
+dek tri: trzynaście
+dek unu: jedenaście
+du: dwa
 ducent: dwieście
-tricent: trzysta
-mil: tysiąc
+dudek: dwadzieścia
 dumil: dwa tysiące
+kvar: cztery
+kvardek: czterdzieści
+kvin: pięć
+mil: tysiąc
+naŭ: dziewięć
+ok: osiem
+sep: siedem
+ses: sześć
+tri: trzy
+tricent: trzysta
+tridek: trzydzieści
+unu: jeden

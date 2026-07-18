@@ -1,59 +1,60 @@
-kio: o que
-tio: isso
+ia: de algum tipo
+ial: por alguma razão
+iam: em algum momento
+ie: em algum lugar
+iel: de alguma maneira
+ies: de alguém
 io: algo
-ĉio: tudo
-nenio: nada
+iom:
+- até certo ponto
+- certa quantidade
+iu: alguém
+kia: de que tipo
+kial: por que
+kiam: quando
+kie: onde
+kiel: como
+kien: para onde
+kies: de quem
+kio: o que
+kiom: quanto
 kiu:
 - quem
 - qual
-tiu:
-- aquela pessoa
-- aquilo
-iu: alguém
-ĉiu:
-- tudo
-- todo
-neniu:
-- ninguém
-- nenhum
-kie: onde
-tie: nesse lugar
-ie: em algum lugar
-ĉie: em todo lugar
-nenie: em lugar nenhum
-kia: de que tipo
-tia: desse tipo
-ia: de algum tipo
-ĉia: de todo tipo
 nenia: de nenhum tipo
-kiel: como
-tiel: assim
-iel: de alguma maneira
-ĉiel: de toda maneira
-neniel: de jeito nenhum
-kial: por que
-tial: por essa razão
-ial: por alguma razão
-ĉial: por toda razão
 nenial: por nenhuma razão
-kiam: quando
-tiam: nesse momento
-iam: em algum momento
-ĉiam: sempre
 neniam:
 - nunca
 - jamais
-kiom: quanto
-tiom: 
+nenie: em lugar nenhum
+neniel: de jeito nenhum
+nenies: de ninguém
+nenio: nada
+neniom: nada disso
+neniu:
+- ninguém
+- nenhum
+tia: desse tipo
+tial: por essa razão
+tiam: nesse momento
+tie: nesse lugar
+tiel: assim
+ties: dessa pessoa
+tio: isso
+tiom:
 - tanto
 - tão
-iom: 
-- até certo ponto
-- certa quantidade
-ĉiom: tudo disso
-neniom: nada disso
-kies: de quem
-ties: dessa pessoa
-ies: de alguém
+tiu:
+- aquela pessoa
+- aquilo
+ĉia: de todo tipo
+ĉial: por toda razão
+ĉiam: sempre
+ĉie: em todo lugar
+ĉiel: de toda maneira
 ĉies: de todos
-nenies: de ninguém
+ĉio: tudo
+ĉiom: tudo disso
+ĉiu:
+- tudo
+- todo

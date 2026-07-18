@@ -1,27 +1,27 @@
-unu: jedna
-du: dva
-tri: tři
-kvar: čtyři
-kvin: pět
-ses: šest
-sep: sedm
-ok: osm
-naŭ: devět
-dek: deset
-dek unu: jedenáct
-dek du: dvanáct
-dek tri: třináct
-dek kvar: čtrnáct
-dek kvin: patnáct 
-dek ses: šestnáct
-dek sep: sedmnáct
-dek ok: osmnáct
-dek naŭ: devatenáct
-dudek: dvacet
-tridek: třicet
-kvardek: čtyřicet
 cent: sto
+dek: deset
+dek du: dvanáct
+dek kvar: čtrnáct
+dek kvin: patnáct
+dek naŭ: devatenáct
+dek ok: osmnáct
+dek sep: sedmnáct
+dek ses: šestnáct
+dek tri: třináct
+dek unu: jedenáct
+du: dva
 ducent: dvě stě
-tricent: tři sta
-mil: tisíc
+dudek: dvacet
 dumil: dva tisíce
+kvar: čtyři
+kvardek: čtyřicet
+kvin: pět
+mil: tisíc
+naŭ: devět
+ok: osm
+sep: sedm
+ses: šest
+tri: tři
+tricent: tři sta
+tridek: třicet
+unu: jedna

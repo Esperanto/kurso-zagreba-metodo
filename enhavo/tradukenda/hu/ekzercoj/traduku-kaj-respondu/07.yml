@@ -1,77 +1,71 @@
-- 
-  demando: Kinél volt a könyv, amit több, mint két évig vártál?
-  rektatraduko: 
-    - Kiu: Ki
-    - havis: volt valamije
-    - la: a
-    - libron: könyvet
-    - ',' 
-    - kiun: amelyet
-    - vi: te
-    - atendis: vártál
-    - pli: '-bb'
-    - ol: mint
-    - du: két
-    - jarojn: éveket
-    - '?'
-- 
-  demando: Akarod-e, hogy megmutassam neked az én legkedvesebb fényképemet?
-  rektatraduko: 
-    - Ĉu: Vajon
-    - vi: te
-    - volas: akar
-    - ','
-    - ke: hogy
-    - mi: én
-    - montru: mutat
-    - al: '-nak/nek'
-    - vi: te
-    - mian: enyémet
-    - plej: leg -bb
-    - karan: kedveset
-    - foton: fényképet
-    - '?'
-- 
-  demando: Hol vetted ezt a ruhát?
-  rektatraduko: 
-    - Kie: Hol
-    - vi: te
-    - aĉetis: vetted
-    - tiun: ezt a
-    - vestaĵon: ruhát
-    - '?'
-- 
-  demando: Hová mész vasárnap, ha napos idő lesz?
-  rektatraduko: 
-    - Kien: Hová
-    - vi: te
-    - iros: fog menni
-    - dimanĉe: vasárnap
-    - ',' 
-    - se: ha
-    - estos: lesz
-    - suna: napos
-    - tago: nap
-    - '?'
-- 
-  demando: A testvéred már elindult?
-  rektatraduko: 
-    - Ĉu: Vajon
-    - via: tiéd
-    - frato: testvér
-    - jam: már
-    - ekiris: elindult
-    - '?'
-- 
-  demando: Hol van a víz, amit magad hoztál?
-  rektatraduko: 
-    - Kie: Hol
-    - estas: van
-    - la: a
-    - akvo: víz
-    - ',' 
-    - kiun: amit
-    - vi: te
-    - mem: maga
-    - kunportis: hozott
-    - '?'
+- demando: Kinél volt a könyv, amit több, mint két évig vártál?
+  rektatraduko:
+  - Kiu: Ki
+  - havis: volt valamije
+  - la: a
+  - libron: könyvet
+  - ','
+  - kiun: amelyet
+  - vi: te
+  - atendis: vártál
+  - pli: -bb
+  - ol: mint
+  - du: két
+  - jarojn: éveket
+  - '?'
+- demando: Akarod-e, hogy megmutassam neked az én legkedvesebb fényképemet?
+  rektatraduko:
+  - Ĉu: Vajon
+  - vi: te
+  - volas: akar
+  - ','
+  - ke: hogy
+  - mi: én
+  - montru: mutat
+  - al: -nak/nek
+  - vi: te
+  - mian: enyémet
+  - plej: leg -bb
+  - karan: kedveset
+  - foton: fényképet
+  - '?'
+- demando: Hol vetted ezt a ruhát?
+  rektatraduko:
+  - Kie: Hol
+  - vi: te
+  - aĉetis: vetted
+  - tiun: ezt a
+  - vestaĵon: ruhát
+  - '?'
+- demando: Hová mész vasárnap, ha napos idő lesz?
+  rektatraduko:
+  - Kien: Hová
+  - vi: te
+  - iros: fog menni
+  - dimanĉe: vasárnap
+  - ','
+  - se: ha
+  - estos: lesz
+  - suna: napos
+  - tago: nap
+  - '?'
+- demando: A testvéred már elindult?
+  rektatraduko:
+  - Ĉu: Vajon
+  - via: tiéd
+  - frato: testvér
+  - jam: már
+  - ekiris: elindult
+  - '?'
+- demando: Hol van a víz, amit magad hoztál?
+  rektatraduko:
+  - Kie: Hol
+  - estas: van
+  - la: a
+  - akvo: víz
+  - ','
+  - kiun: amit
+  - vi: te
+  - mem: maga
+  - kunportis: hozott
+  - '?'

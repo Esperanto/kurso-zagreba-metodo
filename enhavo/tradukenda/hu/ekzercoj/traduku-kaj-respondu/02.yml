@@ -1,70 +1,64 @@
-- 
-  demando: Milyen volt a régi otthonod?
-  rektatraduko: 
-    - Kia: Milyen
-    - estis: volt
-    - via: tiéd
-    - malnova: régi
-    - hejmo: otthon 
-    - '?'
-- 
-  demando: Melyik könyveket olvastad, és jók?
-  rektatraduko: 
-    - Kiujn: Melyikeket 
-    - librojn: könyveket
-    - vi: te
-    - legis: olvasott
-    - kaj: és
-    - ĉu: vajon
-    - ili: azok
-    - estas: vannak
-    - bonaj: jók 
-    - '?'
-- 
-  demando: "Mit csinált Anna és Márk Márk kicsi szobájában?"
+- demando: Milyen volt a régi otthonod?
   rektatraduko:
-    - Kion: Mit
-    - faris: csinált
-    - Anna: Anna
-    - kaj: és
-    - Marko: Márk
-    - en: -ban/ben 
-    - la: a
-    - malgranda: kicsi
-    - ĉambro: szoba
-    - de: -nak a/nek a 
-    - Marko: Márk
-    - '?'
-- 
-  demando: Szeretsz könyveket olvasni a szerelemről?
-  rektatraduko: 
-    - Ĉu: Vajon
-    - vi: te
-    - ŝatas: szeret
-    - legi: olvasni
-    - librojn: könyveket
-    - pri: -ról/ről
-    - amo: szerelem
-    - '?'
-- 
-  demando: Ki megy veled majd az otthonodba?
-  rektatraduko: 
-    - Kiu: Ki
-    - iros: fog menni
-    - kun: -val/vel
-    - vi: te
-    - al: -hoz/hez/höz 
-    - via: tiéd
-    - hejmo: otthon
-    - '?'
-- 
-  demando: "Milyenek a barátnőd szemei?"
-  rektatraduko: 
-    - Kiaj: Milyenek
-    - estas: van
-    - la: a
-    - okuloj: szemei
-    - de: -nak a/-nek a 
-    - via: tiéd
-    - amikino: barátnő
-    - '?'
+  - Kia: Milyen
+  - estis: volt
+  - via: tiéd
+  - malnova: régi
+  - hejmo: otthon
+  - '?'
+- demando: Melyik könyveket olvastad, és jók?
+  rektatraduko:
+  - Kiujn: Melyikeket
+  - librojn: könyveket
+  - vi: te
+  - legis: olvasott
+  - kaj: és
+  - ĉu: vajon
+  - ili: azok
+  - estas: vannak
+  - bonaj: jók
+  - '?'
+- demando: Mit csinált Ana és Marko Marko kis szobájában?
+  rektatraduko:
+  - Kion: Mit
+  - faris: csinált
+  - Ana: Ana
+  - kaj: és
+  - Marko: Marko
+  - en: -ban/ben
+  - la: a
+  - malgranda: kicsi
+  - ĉambro: szoba
+  - de: -nak a/nek a
+  - Marko: Marko
+  - '?'
+- demando: Szeretsz könyveket olvasni a szerelemről?
+  rektatraduko:
+  - Ĉu: Vajon
+  - vi: te
+  - ŝatas: szeret
+  - legi: olvasni
+  - librojn: könyveket
+  - pri: -ról/ről
+  - amo: szerelem
+  - '?'
+- demando: Ki megy veled majd az otthonodba?
+  rektatraduko:
+  - Kiu: Ki
+  - iros: fog menni
+  - kun: -val/vel
+  - vi: te
+  - al: -hoz/hez/höz
+  - via: tiéd
+  - hejmo: otthon
+  - '?'
+- demando: Milyenek a barátnőd szemei?
+  rektatraduko:
+  - Kiaj: Milyenek
+  - estas: van
+  - la: a
+  - okuloj: szemei
+  - de: -nak a/-nek a
+  - via: tiéd
+  - amikino: barátnő
+  - '?'

@@ -1,70 +1,64 @@
-- 
-  demando: Якiм быў ваш стары дом?
-  rektatraduko: 
-    - Kia: Якi
-    - estis: быў
-    - via: ваш
-    - malnova: стары
-    - hejmo: дом 
-    - '?'
-- 
-  demando: Якiя кнiгi вы чыталi, i цi былi яны добрыя?
-  rektatraduko: 
-    - Kiujn: якiя, якiх
-    - librojn: кнiгi
-    - vi: вы
-    - legis: чыталi
-    - kaj: i, ды
-    - ĉu: пытальная часьцiца
-    - ili: яны
-    - estas: ёсьць
-    - bonaj: добрыя
-    - '?'
-- 
-  demando: Што рабiлi Анна i Марк у маленькiм пакоi Марка?
+- demando: Якім быў твой стары дом?
   rektatraduko:
-    - Kion: Што
-    - faris: рабiлi
-    - Anna: Анна
-    - kaj: i
-    - Marko: Марк
-    - en: у
-    - la: азначальны артыкль
-    - malgranda: маленькi
-    - ĉambro: пакой
-    - de: притяжательный предлог
-    - Marko: Марк
-    - '?'
-- 
-  demando: Ты любiш чытаць кнiгi пра каханьне?
-  rektatraduko: 
-    - Ĉu: Вопросительная частица
-    - vi: ты
-    - ŝatas: любiш
-    - legi: чытаць
-    - librojn: кнiгi
-    - pri: пра
-    - amo: каханьне
-    - '?'
-- 
-  demando: Хто пойдзу з табой да твайго дома?
-  rektatraduko: 
-    - Kiu: Хто
-    - iros: пойдзе, будзе iсьцi
-    - kun: з
-    - vi: ты
-    - al: да 
-    - via: твой
-    - hejmo: дом
-    - '?'
-- 
-  demando: Якiя вочы мае твая дзяучына?
-  rektatraduko: 
-    - Kiaj: Якiя
-    - estas: ёсьць
-    - la: азначальны артыкль
-    - okuloj: вочы
-    - de: прыналежны прыназоўнік
-    - via: твой
-    - amikino: сяброўка
-    - '?'
+  - Kia: які
+  - estis: быў
+  - via: твой
+  - malnova: стары
+  - hejmo: дом
+  - '?'
+- demando: Якія кнігі ты прачытаў, і ці добрыя яны?
+  rektatraduko:
+  - Kiujn: якія
+  - librojn: кнігі
+  - vi: ты
+  - legis: прачытаў
+  - kaj: і
+  - ĉu: ці
+  - ili: яны
+  - estas: ёсць
+  - bonaj: добрыя
+  - '?'
+- demando: Што рабілі Ана і Марко ў маленькім пакоі Марка?
+  rektatraduko:
+  - Kion: што
+  - faris: рабілі
+  - Ana: Ана
+  - kaj: і
+  - Marko: Марко
+  - en: у
+  - la: азначальны артыкль
+  - malgranda: маленькі
+  - ĉambro: пакой
+  - de: ад/з
+  - Marko: Марко
+  - '?'
+- demando: Ці любіш ты чытаць кнігі пра каханне?
+  rektatraduko:
+  - Ĉu: ці
+  - vi: ты
+  - ŝatas: падабаецца
+  - legi: чытаць
+  - librojn: кнігі
+  - pri: пра
+  - amo: каханне
+  - '?'
+- demando: Хто пойдзе з табой да твайго дому?
+  rektatraduko:
+  - Kiu: хто
+  - iros: пойдзе
+  - kun: з
+  - vi: ты
+  - al: да
+  - via: твой
+  - hejmo: дом
+  - '?'
+- demando: Якія вочы ў тваёй сяброўкі?
+  rektatraduko:
+  - Kiaj: якія
+  - estas: ёсць
+  - la: азначальны артыкль
+  - okuloj: вочы
+  - de: ад/з
+  - via: твой
+  - amikino: сяброўка
+  - '?'

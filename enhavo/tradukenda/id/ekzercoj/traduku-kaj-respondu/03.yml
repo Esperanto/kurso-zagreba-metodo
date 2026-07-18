@@ -1,77 +1,72 @@
--
-  demando: Apakah para pelayan di hotel-hotel besar mengerti banyak bahasa? 
-  rektatraduko:  
-    - Ĉu: Apakah
-    - kelneroj: pelayan-pelayan
-    - en: di
-    - grandaj: besar
-    - hoteloj: hotel-hotel
-    - komprenas: mengerti
-    - multajn: banyak
-    - lingvojn: bahasa-bahasa
-    - '?'
--
-  demando: Tahukah kamu apakah Anna suka lagu yang baru tentang orang miskin dan gadis cantik?
-  rektatraduko: 
-    - Ĉu: Apakah
-    - vi: kamu
-    - scias: tahu
-    - ','
-    - ĉu: Apakah
-    - Anna: Anna 
-    - ŝatas: suka
-    - la: (kata sandang)
-    - novan: baru
-    - kanton: lagu
-    - pri: tentang
-    - malriĉulo: orang miskin
-    - kaj: dan
-    - belulino: gadis cantik
-    - '?'
--
-  demando: Di mana kamu melihat pria tua dan pemuda yang membawa meja besar?
-  rektatraduko: 
-    - Kie: Di mana
-    - vi: kamu
-    - vidis: melihat (lampau)
-    - la: (kata sandang)
-    - maljunulon: pria tua
-    - kaj: dan
-    - la: (kata sandang)
-    - junulon: pemuda
-    - ','
-    - kiuj: siapa
-    - portis: membawa (lampau)
-    - grandan: besar
-    - tablon: meja
-    - '?'
--
-  demando: Bagaimana bisa kamu datang lagi kepada kami tanpa saudara?
-  rektatraduko: 
-    - Kiel: Bagaimana
-    - okazis: terjadi (lampau)
-    - ','
-    - ke: bahwa
-    - vi: kamu
-    - denove: lagi
-    - venis: datang (lampau)
-    - al: kepada
-    - ni: kami
-    - sen: tanpa
-    - gefratoj: saudara-saudara
-    - '?'
--
-  demando: Apakah kamu bisa belajar bahasa Esperanto dengan cukup cepat menggunakan buku pelajaran yang baru?
-  rektatraduko:  
-    - Ĉu: Apakah
-    - vi: kamu
-    - povas: bisa
-    - per: dengan menggunakan
-    - la: (kata sandang) 
-    - nova: baru
-    - lernolibro: buku pelajaran
-    - sufiĉe: cukup
-    - rapide: dengan cepat
-    - lerni: belajar
-    - Esperanton: Esperanto
-    - '?'
+- demando: Apakah para pelayan di hotel-hotel besar mengerti banyak bahasa?
+  rektatraduko:
+  - Ĉu: Apakah
+  - kelneroj: pelayan-pelayan
+  - en: di
+  - grandaj: besar
+  - hoteloj: hotel-hotel
+  - komprenas: mengerti
+  - multajn: banyak
+  - lingvojn: bahasa-bahasa
+  - '?'
+- demando: Tahukah kamu apakah Ana menyukai lagu baru tentang orang miskin dan gadis cantik?
+  rektatraduko:
+  - Ĉu: Apakah
+  - vi: kamu
+  - scias: tahu
+  - ','
+  - ĉu: Apakah
+  - Ana: Ana
+  - ŝatas: suka
+  - la: (kata sandang)
+  - novan: baru
+  - kanton: lagu
+  - pri: tentang
+  - malriĉulo: orang miskin
+  - kaj: dan
+  - belulino: gadis cantik
+  - '?'
+- demando: Di mana kamu melihat pria tua dan pemuda yang membawa meja besar?
+  rektatraduko:
+  - Kie: Di mana
+  - vi: kamu
+  - vidis: melihat (lampau)
+  - la: (kata sandang)
+  - maljunulon: pria tua
+  - kaj: dan
+  - la: (kata sandang)
+  - junulon: pemuda
+  - ','
+  - kiuj: yang
+  - portis: membawa (lampau)
+  - grandan: besar
+  - tablon: meja
+  - '?'
+- demando: Bagaimana ceritanya kamu datang lagi kepada kami tanpa saudara-saudaramu?
+  rektatraduko:
+  - Kiel: Bagaimana
+  - okazis: terjadi (lampau)
+  - ','
+  - ke: bahwa
+  - vi: kamu
+  - denove: lagi
+  - venis: datang (lampau)
+  - al: kepada
+  - ni: kami
+  - sen: tanpa
+  - gefratoj: saudara-saudara
+  - '?'
+- demando: Apakah kamu bisa belajar bahasa Esperanto dengan cukup cepat menggunakan buku pelajaran yang baru?
+  rektatraduko:
+  - Ĉu: Apakah
+  - vi: kamu
+  - povas: bisa
+  - per: dengan menggunakan
+  - la: (kata sandang)
+  - nova: baru
+  - lernolibro: buku pelajaran
+  - sufiĉe: cukup
+  - rapide: dengan cepat
+  - lerni: belajar
+  - Esperanton: Esperanto
+  - '?'

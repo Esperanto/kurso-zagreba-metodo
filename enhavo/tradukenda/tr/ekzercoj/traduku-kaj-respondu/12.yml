@@ -1,68 +1,63 @@
-- 
-  demando: Her nerede ve her ne zaman, birbirimizi tekrar görecek miyiz?
-  rektatraduko: 
-    - Ĉu: miyiz
-    - ni: biz
-    - revidos: tekrar görecek
-    - nin: bizi
-    - ',' 
-    - kie: nerede
-    - ajn: her ne
-    - kaj: ve
-    - kiam: ne zaman
-    - ajn: her ne
-    - '?'
-- 
-  demando: Kitapların diğer yarısını ne zaman geri alacaağım?
-  rektatraduko: 
-    - Kiam: ne zaman
-    - mi: ben
-    - rericevos: geri alacak
-    - la: (belirleyici artikel)
-    - alian: diğer
-    - duonon: yarısı'nı
-    - de: -den, -dan
-    - la: (belirleyici artikel)
-    - libroj: kitaplar
-    - '?'
-- 
-  demando: BU işler için çeyrek yıldan fazlasına ihtiyacın mı olacak?
-  rektatraduko: 
-    - Ĉu: mı
-    - vi: sen
-    - bezonos: ijhtiyacı olacak
-    - pli: daha fazla
-    - ol: -den, -dan 
-    - kvaronan: çeyrek
-    - jaron: yıl'dan
-    - por: için
-    - tiuj: bu
-    - laboroj: işler
-    - '?'
-- 
-  demando: Nedendir ki daha soğuk olduğunda, daha uzun bekliyoruz?
-  rektatraduko: 
-    - Kial: neden
-    - estas: -dir 
-    - des: "ne kadar"
-    - pli: daha çok
-    - malvarma: soğuk
-    - ',' 
-    - ju: "o kadar"
-    - pli: daha çok
-    - longe: uzun
-    - ni: biz 
-    - atendas: bekliyor
-    - '?'
-- 
-  demando: Herhangi bir erkekle memnun olur muydunn?
-  rektatraduko: 
-    - Ĉu: mu
-    - vi: sen
-    - estus: -du, olurdu 
-    - kontenta: memnun
-    - kun: ile
-    - iu: bir
-    - ajn: herhangi
-    - viro: erkek
-    - '?'
+- demando: Her nerede ve her ne zaman, birbirimizi tekrar görecek miyiz?
+  rektatraduko:
+  - Ĉu: miyiz
+  - ni: biz
+  - revidos: tekrar görecek
+  - nin: bizi
+  - ','
+  - kie: nerede
+  - ajn: her ne
+  - kaj: ve
+  - kiam: ne zaman
+  - ajn: her ne
+  - '?'
+- demando: Kitapların diğer yarısını ne zaman geri alacaağım?
+  rektatraduko:
+  - Kiam: ne zaman
+  - mi: ben
+  - rericevos: geri alacak
+  - la: (belirleyici artikel)
+  - alian: diğer
+  - duonon: yarısı'nı
+  - de: -den, -dan
+  - la: (belirleyici artikel)
+  - libroj: kitaplar
+  - '?'
+- demando: BU işler için çeyrek yıldan fazlasına ihtiyacın mı olacak?
+  rektatraduko:
+  - Ĉu: mı
+  - vi: sen
+  - bezonos: ijhtiyacı olacak
+  - pli: daha fazla
+  - ol: -den, -dan
+  - kvaronan: çeyrek
+  - jaron: yıl'dan
+  - por: için
+  - tiuj: bu
+  - laboroj: işler
+  - '?'
+- demando: Nedendir ki daha soğuk olduğunda, daha uzun bekliyoruz?
+  rektatraduko:
+  - Kial: neden
+  - ju: o kadar
+  - pli: daha çok
+  - longe: uzun
+  - ni: biz
+  - atendas: bekliyor
+  - ','
+  - des: ne kadar
+  - pli: daha çok
+  - malvarme: soğuk
+  - estas: -dir
+  - '?'
+- demando: Herhangi bir erkekle memnun olur muydunn?
+  rektatraduko:
+  - Ĉu: mu
+  - vi: sen
+  - estus: -du, olurdu
+  - kontenta: memnun
+  - kun: ile
+  - iu: bir
+  - ajn: herhangi
+  - viro: erkek
+  - '?'

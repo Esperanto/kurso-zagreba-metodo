@@ -1,77 +1,71 @@
-- 
-  demando: Quem tinha o livro que você estava esperando há mais de dois anos?
-  rektatraduko: 
-    - Kiu: Quem
-    - havis: tinha
-    - la: o
-    - libron: livro
-    - ',' 
-    - kiun: que
-    - vi: você
-    - atendis: estava esperando
-    - pli: (há) mais
-    - ol: de
-    - du: dois
-    - jarojn: anos
-    - '?'
-- 
-  demando: (Acaso) Você quer que eu mostre para você minha mais estimada foto?
-  rektatraduko: 
-    - Ĉu: Acaso
-    - vi: você
-    - volas: quer
-    - ','
-    - ke: que 
-    - mi: eu
-    - montru: mostre
-    - al: para 
-    - vi: você
-    - mian: minha
-    - plej: mais
-    - karan: estimada
-    - foton: foto
-    - '?'
-- 
-  demando: Onde você comprou aquela roupa?
-  rektatraduko: 
-    - Kie: Onde
-    - vi: você
-    - aĉetis: comprou
-    - tiun: aquela
-    - vestaĵon: roupa
-    - '?'
-- 
-  demando: Onde você irá no domingo se estiver um dia ensolarado?
-  rektatraduko: 
-    - Kien: Onde
-    - vi: você
-    - iros: irá
-    - dimanĉe: no domingo
-    - ',' 
-    - se: se
-    - estos: estiver
-    - suna: ensolarado
-    - tago: (um) dia
-    - '?'
-- 
-  demando: (Acaso) Teu irmão já saiu?
-  rektatraduko: 
-    - Ĉu: Acaso
-    - via: teu
-    - frato: irmão
-    - jam: já
-    - ekiris: saiu
-    - '?'
-- 
-  demando: Onde está a água a qual você mesmo trouxe?
-  rektatraduko: 
-    - Kie: Onde
-    - estas: está
-    - la: a
-    - akvo: água
-    - ',' 
-    - kiun: a qual
-    - vi: você
-    - mem: mesmo
-    - kunportis: trouxe
-    - '?'
+- demando: Quem tinha o livro que você estava esperando há mais de dois anos?
+  rektatraduko:
+  - Kiu: Quem
+  - havis: tinha
+  - la: o
+  - libron: livro
+  - ','
+  - kiun: que
+  - vi: você
+  - atendis: estava esperando
+  - pli: (há) mais
+  - ol: de
+  - du: dois
+  - jarojn: anos
+  - '?'
+- demando: Você quer que eu lhe mostre minha foto mais querida?
+  rektatraduko:
+  - Ĉu: será que
+  - vi: você
+  - volas: quer
+  - ','
+  - ke: que
+  - mi: eu
+  - montru: mostre
+  - al: para
+  - vi: você
+  - mian: minha
+  - plej: mais
+  - karan: estimada
+  - foton: foto
+  - '?'
+- demando: Onde você comprou aquela roupa?
+  rektatraduko:
+  - Kie: Onde
+  - vi: você
+  - aĉetis: comprou
+  - tiun: aquela
+  - vestaĵon: roupa
+  - '?'
+- demando: Onde você irá no domingo se estiver um dia ensolarado?
+  rektatraduko:
+  - Kien: Onde
+  - vi: você
+  - iros: irá
+  - dimanĉe: no domingo
+  - ','
+  - se: se
+  - estos: estiver
+  - suna: ensolarado
+  - tago: (um) dia
+  - '?'
+- demando: Seu irmão já saiu?
+  rektatraduko:
+  - Ĉu: será que
+  - via: teu
+  - frato: irmão
+  - jam: já
+  - ekiris: saiu
+  - '?'
+- demando: Onde está a água a qual você mesmo trouxe?
+  rektatraduko:
+  - Kie: Onde
+  - estas: está
+  - la: a
+  - akvo: água
+  - ','
+  - kiun: a qual
+  - vi: você
+  - mem: mesmo
+  - kunportis: trouxe
+  - '?'

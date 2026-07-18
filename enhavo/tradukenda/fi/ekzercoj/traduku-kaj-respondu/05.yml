@@ -1,0 +1,59 @@
+- demando: Voitko opiskella rauhassa, kun joku laulaa iloisesti?
+  rektatraduko:
+  - Ĉu: kysymys
+  - vi: sinä
+  - povas: voit
+  - trankvile: rauhallisesti
+  - lerni: oppia
+  - ','
+  - dum: sillä aikaa kun
+  - iu: joku
+  - ĝoje: iloisesti
+  - kantas: laulaa
+  - '?'
+- demando: Kuka tietää, milloin ja missä näemme toisemme uudelleen?
+  rektatraduko:
+  - Kiu: kuka
+  - scias: tietää
+  - ','
+  - kiam: milloin
+  - kaj: ja
+  - kie: missä
+  - ni: me
+  - revidos: näemme uudelleen
+  - nin: toisemme
+  - '?'
+- demando: Paljonko kello on nyt?
+  rektatraduko:
+  - Kioma: monesko
+  - horo: tunti
+  - estas: 'on'
+  - nun: nyt
+  - '?'
+- demando: Auttoiko joku sinua avaamaan vanhan talon oven?
+  rektatraduko:
+  - Ĉu: kysymys
+  - iu: joku
+  - helpis: auttoi
+  - al: -lle
+  - vi: sinä
+  - malfermi: avata
+  - la: määräinen artikkeli
+  - pordon: ovi objektina
+  - de: jonkun
+  - la: määräinen artikkeli
+  - malnova: vanha
+  - domo: talo
+  - '?'
+- demando: Miksi sinulla ei ole aikaa kuunnella minua pidempään?
+  rektatraduko:
+  - Kial: miksi
+  - vi: sinä
+  - ne: ei
+  - havas: sinulla on
+  - tempon: aika objektina
+  - aŭskulti: kuunnella
+  - min: minua
+  - pli: enemmän
+  - longe: pitkään
+  - '?'

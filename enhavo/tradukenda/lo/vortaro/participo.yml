@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: ກຳລັງກະທຳ
+at: ກຳລັງຖືກກະທຳ
+int: ໄດ້ກະທຳແລ້ວ
+it: ຖືກກະທຳແລ້ວ
+ont: ຈະກະທຳ
+ot: ຈະຖືກກະທຳ
+unt: ຈະກະທຳໃນເງື່ອນໄຂ
+ut: ຈະຖືກກະທຳໃນເງື່ອນໄຂ

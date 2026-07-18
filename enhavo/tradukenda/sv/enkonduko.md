@@ -1,8 +1,5 @@
-- Lär ut **de 500 viktigaste orden**
-- **Gratis** och **utan registrering**
-- Med [flashcardlek]({{ url.kartaro }}) för [Anki]({{ url.anki }})
+- Lär dig de **500 viktigaste orden**
+- Förstå **95 % av talad esperanto**
+- **Gratis** och utan registrering
 
-Efter kursen kommer du att **förstå det viktigaste**, bilda egna meningar och kunna kommunicera grundläggande idéer i vardagliga situationer.
-
-Prova bara!
-____
+Efter det kan du följa enkla samtal, skapa egna meningar och gå direkt till nästa [esperantoträff](https://eventaservo.org/).

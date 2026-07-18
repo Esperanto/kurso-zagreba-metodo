@@ -1,64 +1,59 @@
--
-  demando: Kan je rustig leren, terwijl iemand vrolijk zingt?
+- demando: Kan je rustig leren, terwijl iemand vrolijk zingt?
   rektatraduko:
-    - Ĉu: Of
-    - vi: je
-    - povas: kan
-    - trankvile: rustig
-    - lerni: leren
-    - ','
-    - dum: terwijl
-    - iu: iemand
-    - ĝoje: vrolijk
-    - kantas: zingt
-    - '?'
--
-  demando: Wie weet, wanneer en waar we ons zullen weerzien?
+  - Ĉu: Of
+  - vi: je
+  - povas: kan
+  - trankvile: rustig
+  - lerni: leren
+  - ','
+  - dum: terwijl
+  - iu: iemand
+  - ĝoje: vrolijk
+  - kantas: zingt
+  - '?'
+- demando: Wie weet wanneer en waar we elkaar zullen weerzien?
   rektatraduko:
-    - Kiu: Wie
-    - scias: weet
-    - ','
-    - kiam: wanneer
-    - kaj: en
-    - kie: waar
-    - ni: we
-    - revidos: zullen weerzien
-    - nin: ons
-    - '?'
--
-  demando: Hoe laat is het nu?
+  - Kiu: Wie
+  - scias: weet
+  - ','
+  - kiam: wanneer
+  - kaj: en
+  - kie: waar
+  - ni: we
+  - revidos: zullen weerzien
+  - nin: ons
+  - '?'
+- demando: Hoe laat is het nu?
   rektatraduko:
-    - Kioma: Hoeveelste
-    - horo: uur
-    - estas: is
-    - nun: nu
-    - '?'
--
-  demando: Heeft iemand je geholpen de deur van het oude huis te openen?
+  - Kioma: Hoeveelste
+  - horo: uur
+  - estas: is
+  - nun: nu
+  - '?'
+- demando: Heeft iemand je geholpen de deur van het oude huis te openen?
   rektatraduko:
-    - Ĉu: Of
-    - iu: iemand
-    - helpis: heeft geholpen
-    - al: aan
-    - vi: je
-    - malfermi: openen
-    - la: de
-    - pordon: deur
-    - de: van
-    - la: het
-    - malnova: oude
-    - domo: huis
-    - '?'
--
-  demando: Waarom heb je geen tijd om langer naar mij te luisteren?
+  - Ĉu: Of
+  - iu: iemand
+  - helpis: heeft geholpen
+  - al: aan
+  - vi: je
+  - malfermi: openen
+  - la: de
+  - pordon: deur
+  - de: van
+  - la: het
+  - malnova: oude
+  - domo: huis
+  - '?'
+- demando: Waarom heb je geen tijd om langer naar mij te luisteren?
   rektatraduko:
-    - Kial: Waarom
-    - vi: je
-    - ne: niet
-    - havas: hebt
-    - tempon: tijd
-    - aŭskulti: luisteren
-    - min: mij
-    - pli: meer
-    - longe: lang
-    - '?'
+  - Kial: Waarom
+  - vi: je
+  - ne: niet
+  - havas: hebt
+  - tempon: tijd
+  - aŭskulti: luisteren
+  - min: mij
+  - pli: meer
+  - longe: lang
+  - '?'

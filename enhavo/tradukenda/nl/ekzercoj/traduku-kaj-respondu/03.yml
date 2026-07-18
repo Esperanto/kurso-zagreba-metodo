@@ -1,77 +1,72 @@
--
-  demando: Verstaan obers in grote hotels veel talen?
+- demando: Verstaan obers in grote hotels veel talen?
   rektatraduko:
-    - Ĉu: Of
-    - kelneroj: obers
-    - en: in
-    - grandaj: grote
-    - hoteloj: hotels
-    - komprenas: verstaan
-    - multajn: veel
-    - lingvojn: talen
-    - '?'
--
-  demando: Weet jij, of Anna houdt van het nieuwe lied over een arme en een schone?
+  - Ĉu: Of
+  - kelneroj: obers
+  - en: in
+  - grandaj: grote
+  - hoteloj: hotels
+  - komprenas: verstaan
+  - multajn: veel
+  - lingvojn: talen
+  - '?'
+- demando: Weet jij of Ana houdt van het nieuwe lied over een arme man en een mooie vrouw?
   rektatraduko:
-    - Ĉu: Of
-    - vi: jij
-    - scias: weet
-    - ','
-    - ĉu: of
-    - Anna: Anna
-    - ŝatas: houdt van
-    - la: het
-    - novan: nieuwe
-    - kanton: lied
-    - pri: over
-    - malriĉulo: een arme (mens)
-    - kaj: en
-    - belulino: een schone:mooie (vrouwelijke mens)
-    - '?'
--
-  demando: Waar zag je de oude man en de jonge man, die een grote tafel droegen?
+  - Ĉu: Of
+  - vi: jij
+  - scias: weet
+  - ','
+  - ĉu: of
+  - Ana: Ana
+  - ŝatas: houdt van
+  - la: het
+  - novan: nieuwe
+  - kanton: lied
+  - pri: over
+  - malriĉulo: een arme (mens)
+  - kaj: en
+  - belulino: mooie vrouw
+  - '?'
+- demando: Waar zag je de oude man en de jonge man, die een grote tafel droegen?
   rektatraduko:
-    - Kie: Waar
-    - vi: je
-    - vidis: zag
-    - la: de
-    - maljunulon: oude man
-    - kaj: en
-    - la: de
-    - junulon: jonge man
-    - ','
-    - kiuj: die
-    - portis: droegen
-    - grandan: grote
-    - tablon: tafel
-    - '?'
--
-  demando: Hoe gebeurde het, dat je opnieuw naar ons kwam zonder broers en zussen?
+  - Kie: Waar
+  - vi: je
+  - vidis: zag
+  - la: de
+  - maljunulon: oude man
+  - kaj: en
+  - la: de
+  - junulon: jonge man
+  - ','
+  - kiuj: die
+  - portis: droegen
+  - grandan: grote
+  - tablon: tafel
+  - '?'
+- demando: Hoe kwam het dat je opnieuw naar ons kwam zonder broers en zussen?
   rektatraduko:
-    - Kiel: Hoe
-    - okazis: gebeurde
-    - ','
-    - ke: dat
-    - vi: je
-    - denove: opnieuw
-    - venis: kwam
-    - al: naar
-    - ni: ons
-    - sen: zonder
-    - gefratoj: broers en zussen
-    - '?'
--
-  demando: Kan je met het nieuwe leerboek snel genoeg Esperanto leren?
+  - Kiel: Hoe
+  - okazis: gebeurde
+  - ','
+  - ke: dat
+  - vi: je
+  - denove: opnieuw
+  - venis: kwam
+  - al: naar
+  - ni: ons
+  - sen: zonder
+  - gefratoj: broers en zussen
+  - '?'
+- demando: Kan je met het nieuwe leerboek snel genoeg Esperanto leren?
   rektatraduko:
-    - Ĉu: Of
-    - vi: je
-    - povas: kan
-    - per: met
-    - la: het
-    - nova: nieuwe
-    - lernolibro: leerboek
-    - sufiĉe: genoeg
-    - rapide: snel
-    - lerni: leren
-    - Esperanton: Esperanto
-    - '?'
+  - Ĉu: Of
+  - vi: je
+  - povas: kan
+  - per: met
+  - la: het
+  - nova: nieuwe
+  - lernolibro: leerboek
+  - sufiĉe: genoeg
+  - rapide: snel
+  - lerni: leren
+  - Esperanton: Esperanto
+  - '?'

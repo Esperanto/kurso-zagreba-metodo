@@ -1,86 +1,80 @@
-- 
-  demando: Siapa yang akan membersihkan dapur setelah makan siang?
-  rektatraduko: 
-    - Kiu: Siapa
-    - purigos: akan membersihkan
-    - la: (kata sandang)
-    - kuirejon: dapur
-    - post: setelah
-    - la: (kata sandang)
-    - tagmanĝo: makan siang
-    - '?'
-- 
-  demando: "Kamu mau minum apa, teh, kopi atau tidak mau apapun?"
-  rektatraduko: 
-    - Kion: Apa
-    - vi: kamu
-    - volas: ingin
-    - trinki: minum
-    - ':' 
-    - teon: teh
-    - ',' 
-    - iom: sejumlah
-    - da: dari
-    - kafo: kopi
-    - aŭ: atau
-    - ĉu: apakah
-    - vi: kamu
-    - volas: mau
-    - nenion: bukan apapun
-    - '?'
-- 
-  demando: Mengapa kamu tiba-tiba memutuskan untuk merenovasi kamarmu yang sempit?
-  rektatraduko: 
-    - Kial: Mengapa
-    - vi: kamu
-    - tiel: seperti itu
-    - subite: tiba-tiba
-    - decidis: memutuskan (lampau)
-    - renovigi: merenovasi
-    - vian: punyamu
-    - ĉambreton: kamar yang kecil
-    - '?'
-- 
-  demando: Kepada siapa kamu memberi gelas-gelas bersih untuk anggur?
-  rektatraduko: 
-    - Al: Kepada
-    - kiu: siapa
-    - vi: kamu
-    - donis: memberi (lampau)
-    - la: (kata sandang)
-    - purajn: bersih
-    - glasojn: gelas-gelas
-    - por: untuk 
-    - la: (kata sandang)
-    - vino: anggur (minuman)
-    - '?'
-- 
-  demando: Klub olahragamu bermain melawan siapa dua minggu lalu?
-  rektatraduko: 
-    - Kontraŭ: melawan
-    - kiu: siapa
-    - ludis: bermain (lampau)
-    - via: punyamu
-    - sportklubo: klub olahraga
-    - antaŭ: sebelum
-    - du: dua
-    - semajnoj: minggu
-    - '?'
-- 
-  demando: Apakah kamu sering melihat polisi yang tinggal di apartemen di atasmu?
-  rektatraduko: 
-    - Ĉu: Apakah
-    - vi: kamu 
-    - ofte: sering
-    - vidas: melihat
-    - la: (kata sandang)
-    - policiston: polisi
-    - ',' 
-    - kiu: siapa
-    - loĝas: tinggal
-    - en: di 
-    - la: (kata sandang)
-    - loĝejo: apartemen
-    - super: di atas
-    - vi: kamu
-    - '?'
+- demando: Siapa yang akan membersihkan dapur setelah makan siang?
+  rektatraduko:
+  - Kiu: Siapa
+  - purigos: akan membersihkan
+  - la: (kata sandang)
+  - kuirejon: dapur
+  - post: setelah
+  - la: (kata sandang)
+  - tagmanĝo: makan siang
+  - '?'
+- demando: 'Kamu mau minum apa: teh, kopi, atau tidak mau apa-apa?'
+  rektatraduko:
+  - Kion: Apa
+  - vi: kamu
+  - volas: ingin
+  - trinki: minum
+  - ':'
+  - teon: teh
+  - ','
+  - iom: sejumlah
+  - da: dari
+  - kafo: kopi
+  - aŭ: atau
+  - ĉu: apakah
+  - vi: kamu
+  - volas: mau
+  - nenion: tidak apa-apa
+  - '?'
+- demando: Mengapa kamu tiba-tiba memutuskan untuk merenovasi kamar kecilmu?
+  rektatraduko:
+  - Kial: Mengapa
+  - vi: kamu
+  - tiel: seperti itu
+  - subite: tiba-tiba
+  - decidis: memutuskan (lampau)
+  - renovigi: merenovasi
+  - vian: punyamu
+  - ĉambreton: kamar yang kecil
+  - '?'
+- demando: Kepada siapa kamu memberi gelas-gelas bersih untuk anggur?
+  rektatraduko:
+  - Al: Kepada
+  - kiu: siapa
+  - vi: kamu
+  - donis: memberi (lampau)
+  - la: (kata sandang)
+  - purajn: bersih
+  - glasojn: gelas-gelas
+  - por: untuk
+  - la: (kata sandang)
+  - vino: anggur (minuman)
+  - '?'
+- demando: Klub olahragamu bermain melawan siapa dua minggu lalu?
+  rektatraduko:
+  - Kontraŭ: melawan
+  - kiu: siapa
+  - ludis: bermain (lampau)
+  - via: punyamu
+  - sportklubo: klub olahraga
+  - antaŭ: sebelum
+  - du: dua
+  - semajnoj: minggu
+  - '?'
+- demando: Apakah kamu sering melihat polisi yang tinggal di apartemen di atas tempatmu?
+  rektatraduko:
+  - Ĉu: Apakah
+  - vi: kamu
+  - ofte: sering
+  - vidas: melihat
+  - la: (kata sandang)
+  - policiston: polisi
+  - ','
+  - kiu: yang
+  - loĝas: tinggal
+  - en: di
+  - la: (kata sandang)
+  - loĝejo: apartemen
+  - super: di atas
+  - vi: kamu
+  - '?'

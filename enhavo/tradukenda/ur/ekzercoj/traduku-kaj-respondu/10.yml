@@ -1,51 +1,47 @@
-- 
-  demando: Does friendship make you more happy than love does?
-  rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
-    - '?'
-- 
-  demando: How often do you write letters to your girlfriends in Italy?
-  rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
-    - '?'
-- 
-  demando: Has the relationship between you and your teacher changed?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
-    - '?'
-- 
-  demando: Do you now already know Esperanto well enough?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
-    - '?'
+- demando: کیا دوستی آپ کو محبت سے زیادہ خوش کرتی ہے؟
+  rektatraduko:
+  - Ĉu: کیا
+  - amikeco: دوستی
+  - pli: زیادہ
+  - feliĉigas: خوش کرتی ہے
+  - vin: آپ کو
+  - ol: سے
+  - la: متعین حرف
+  - amo: محبت
+  - '?'
+- demando: آپ اٹلی میں اپنی سہیلیوں کو کتنی بار خط لکھتے ہیں؟
+  rektatraduko:
+  - Kiel: کیسے
+  - ofte: کتنی بار
+  - vi: آپ
+  - skribas: لکھتے ہیں
+  - leterojn: خطوط
+  - al: کو
+  - viaj: آپ کی
+  - amikinoj: سہیلیاں
+  - en: میں
+  - Italio: اٹلی
+  - '?'
+- demando: کیا آپ اور آپ کے استاد کے درمیان تعلق بدل گیا ہے؟
+  rektatraduko:
+  - Ĉu: کیا
+  - la: متعین حرف
+  - rilato: تعلق
+  - inter: درمیان
+  - vi: آپ
+  - kaj: اور
+  - via: آپ کے
+  - instruisto: استاد
+  - ŝanĝiĝis: بدل گیا ہے
+  - '?'
+- demando: کیا اب آپ ایسپرانتو کافی اچھی طرح جانتے ہیں؟
+  rektatraduko:
+  - Ĉu: کیا
+  - vi: آپ
+  - nun: اب
+  - jam: پہلے ہی
+  - scias: جانتے ہیں
+  - Esperanton: ایسپرانتو
+  - sufiĉe: کافی
+  - bone: اچھی طرح
+  - '?'

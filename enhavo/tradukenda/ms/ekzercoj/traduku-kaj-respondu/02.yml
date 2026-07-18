@@ -1,70 +1,64 @@
-- 
-  demando: Bagaimana rumah lama awak seperti ?
-  rektatraduko: 
-    - Kia: bagaimana
-    - estis: ialah
-    - via: awak punya
-    - malnova: lama
-    - hejmo: rumah
-    - '?'
-- 
-  demando: Buku-buku apa telah awak membaca, dan adakah mereka yang baik?
-  rektatraduko: 
-    - Kiujn: apa
-    - librojn: buku-buku
-    - vi: awak
-    - legis: telah baca
-    - kaj: dan
-    - ĉu: adakah
-    - ili: mereka
-    - estas: ialag
-    - bonaj: baik
-    - '?'
-- 
-  demando: "Apa yang Anna dan Mark buat di bilik kecil Mark ?"
+- demando: Bagaimana rumah lama awak seperti ?
   rektatraduko:
-    - Kion: Apa
-    - faris: buat
-    - Anna: Anna
-    - kaj: dan
-    - Marko: Mark
-    - en: di
-    - la: itu
-    - malgranda: kecil
-    - ĉambro: bilik
-    - de: punya
-    - Marko: Mark
-    - '?'
-- 
-  demando: Adakah awak suka membaca buku-buku tentang cinta ?
-  rektatraduko: 
-    - Ĉu: Adakah
-    - vi: awak
-    - ŝatas: suka
-    - legi: membaca
-    - librojn: buku-buku
-    - pri: tentang
-    - amo: cinta
-    - '?'
-- 
-  demando: Siapakah yang akan pergi dengan awak ke rumah awak ?
-  rektatraduko: 
-    - Kiu: Siapakah
-    - iros: akan pergi
-    - kun: dengan
-    - vi: awak
-    - al: ke
-    - via: awak punya
-    - hejmo: rumah
-    - '?'
-- 
-  demando: "Bagaimanakah mata teman wanita awak seperti?"
-  rektatraduko: 
-    - Kiaj: Bagaimanakah seperti
-    - estas: ialah
-    - la: itu
-    - okuloj: mata
-    - de: punya
-    - via: awak punya
-    - amikino: teman wanita
-    - '?'
+  - Kia: bagaimana
+  - estis: ialah
+  - via: awak punya
+  - malnova: lama
+  - hejmo: rumah
+  - '?'
+- demando: Buku-buku apa telah awak membaca, dan adakah mereka yang baik?
+  rektatraduko:
+  - Kiujn: apa
+  - librojn: buku-buku
+  - vi: awak
+  - legis: telah baca
+  - kaj: dan
+  - ĉu: adakah
+  - ili: mereka
+  - estas: ialag
+  - bonaj: baik
+  - '?'
+- demando: Apa yang Ana dan Marko buat di bilik kecil Marko?
+  rektatraduko:
+  - Kion: Apa
+  - faris: buat
+  - Ana: Ana
+  - kaj: dan
+  - Marko: Marko
+  - en: di
+  - la: itu
+  - malgranda: kecil
+  - ĉambro: bilik
+  - de: punya
+  - Marko: Marko
+  - '?'
+- demando: Adakah awak suka membaca buku-buku tentang cinta ?
+  rektatraduko:
+  - Ĉu: Adakah
+  - vi: awak
+  - ŝatas: suka
+  - legi: membaca
+  - librojn: buku-buku
+  - pri: tentang
+  - amo: cinta
+  - '?'
+- demando: Siapakah yang akan pergi dengan awak ke rumah awak ?
+  rektatraduko:
+  - Kiu: Siapakah
+  - iros: akan pergi
+  - kun: dengan
+  - vi: awak
+  - al: ke
+  - via: awak punya
+  - hejmo: rumah
+  - '?'
+- demando: Bagaimanakah mata teman wanita awak seperti?
+  rektatraduko:
+  - Kiaj: Bagaimanakah seperti
+  - estas: ialah
+  - la: itu
+  - okuloj: mata
+  - de: punya
+  - via: awak punya
+  - amikino: teman wanita
+  - '?'

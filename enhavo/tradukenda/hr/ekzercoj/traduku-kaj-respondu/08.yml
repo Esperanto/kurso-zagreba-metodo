@@ -1,92 +1,80 @@
-- 
-  demando: Tko će očistiti kuhinju nakon ručka?
-  rektatraduko: 
-    - Kiu: Tko
-    - purigos: očistit će
-    - la: (član)
-    - kuirejon: kuhinju
-    - post: nakon
-    - la: (član)
-    - tagmanĝo: ručak
-    - '?'
-- 
-  demando: "Što želite piti: čaj, malo kave, čašu vode ili nećete ništa?"
-  rektatraduko: 
-    - Kion: Što
-    - vi: vi
-    - deziras: želite
-    - trinki: piti
-    - ':' 
-    - teon: čaj
-    - ',' 
-    - iom: malo
-    - da: od
-    - kafo: kave
-    - ',' 
-    - glason: čašu
-    - da: od
-    - akvo: vode
-    - aŭ: ili
-    - vi: vi
-    - deziras: želite
-    - nenion: ništa
-    - '?'
-- 
-  demando: Zbog čega si tako iznenada odlučio obnoviti svoju sobicu i kupiti nekoliko skupih knjiga?
-  rektatraduko: 
-    - Kial: Zašto
-    - vi: ti
-    - tiel: tako
-    - subite: iznenada
-    - decidis: odlučio si
-    - renovigi: obnoviti
-    - vian: tvoj
-    - ĉambreton: mala soba
-    - kaj: i
-    - aĉeti: kupiti
-    - iom: nekoliko
-    - da: od
-    - multekostaj: skupih
-    - libroj: knjiga
-    - '?'
-- 
-  demando: Kamo si stavio čiste čaše za vino?
-  rektatraduko: 
-    - Kien: Kamo
-    - vi: ti
-    - metis: stavio si
-    - purajn: čiste
-    - glasojn: čaše
-    - por: za 
-    - vino: vino
-    - '?'
-- 
-  demando: Protiv koga je igrao tvoj sportski klub prije dva tjedna?
-  rektatraduko: 
-    - Kontraŭ: Protiv
-    - kiu: tko
-    - ludis: igrao je
-    - via: tvoj
-    - sportklubo: sportski klub
-    - antaŭ: prije
-    - du: dva
-    - semajnoj: tjedna
-    - '?'
-- 
-  demando: Viđaš li često policajca koji stanuje u stanu iznad tvog?
-  rektatraduko: 
-    - Ĉu: Da li
-    - vi: ti
-    - ofte: često
-    - vidas: vidiš
-    - la: (član)
-    - policiston: policajac
-    - ',' 
-    - kiu: tko
-    - loĝas: stanuje
-    - en: u
-    - la: (član)
-    - loĝejo: stan
-    - super: iznad
-    - via: tvoj
-    - '?'
+- demando: Tko će očistiti kuhinju nakon ručka?
+  rektatraduko:
+  - Kiu: Tko
+  - purigos: očistit će
+  - la: (član)
+  - kuirejon: kuhinju
+  - post: nakon
+  - la: (član)
+  - tagmanĝo: ručak
+  - '?'
+- demando: 'Što želiš piti: čaj, malo kave ili ništa?'
+  rektatraduko:
+  - Kion: Što
+  - vi: ti
+  - volas: želiš
+  - trinki: piti
+  - ':'
+  - teon: čaj
+  - ','
+  - iom: malo
+  - da: od
+  - kafo: kava
+  - aŭ: ili
+  - ĉu: li
+  - vi: ti
+  - volas: želiš
+  - nenion: ništa
+  - '?'
+- demando: Zašto si tako iznenada odlučio obnoviti svoju sobicu?
+  rektatraduko:
+  - Kial: Zašto
+  - vi: ti
+  - tiel: tako
+  - subite: iznenada
+  - decidis: odlučio si
+  - renovigi: obnoviti
+  - vian: tvoj
+  - ĉambreton: mala soba
+  - '?'
+- demando: Kome si dao čiste čaše za vino?
+  rektatraduko:
+  - Al: K
+  - kiu: kome
+  - vi: ti
+  - donis: dao si
+  - la: (član)
+  - purajn: čiste
+  - glasojn: čaše
+  - por: za
+  - la: (član)
+  - vino: vino
+  - '?'
+- demando: Protiv koga je igrao tvoj sportski klub prije dva tjedna?
+  rektatraduko:
+  - Kontraŭ: Protiv
+  - kiu: tko
+  - ludis: igrao je
+  - via: tvoj
+  - sportklubo: sportski klub
+  - antaŭ: prije
+  - du: dva
+  - semajnoj: tjedna
+  - '?'
+- demando: Viđaš li često policajca koji stanuje u stanu iznad tvoga?
+  rektatraduko:
+  - Ĉu: Li
+  - vi: ti
+  - ofte: često
+  - vidas: vidiš
+  - la: (član)
+  - policiston: policajca
+  - ','
+  - kiu: koji
+  - loĝas: stanuje
+  - en: u
+  - la: (član)
+  - loĝejo: stan
+  - super: iznad
+  - vi: ti
+  - '?'

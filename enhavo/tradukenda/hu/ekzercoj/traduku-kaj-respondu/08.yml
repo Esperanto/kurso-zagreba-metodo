@@ -1,86 +1,80 @@
-- 
-  demando: Ki takarítja ki a konyhát ebéd után?
-  rektatraduko: 
-    - Kiu: Ki
-    - purigos: fogja kitakarítani
-    - la: a
-    - kuirejon: konyhát
-    - post: után
-    - la: a
-    - tagmanĝo: ebéd
-    - '?'
-- 
-  demando: "Mit akarsz/kérsz inni: teát, egy kis kávét vagy semmit sem kérsz?"
-  rektatraduko: 
-    - Kion: Mit
-    - vi: te
-    - volas: akarsz
-    - trinki: inni
-    - ':' 
-    - teon: teát
-    - ',' 
-    - iom: valamennyi
-    - da: -nyi
-    - kafo: kávé
-    - aŭ: vagy
-    - ĉu: vajon
-    - vi: te
-    - volas: akarsz
-    - nenion: semmit
-    - '?'
-- 
-  demando: Miért döntöttél ilyen hirtelen, hogy felújítod a szobácskádat?
-  rektatraduko: 
-    - Kial: Miért
-    - vi: te
-    - tiel: úgy
-    - subite: hirtelen
-    - decidis: döntött
-    - renovigi: felújítani
-    - vian: tiédet
-    - ĉambreton: szobácskát
-    - '?'
-- 
-  demando: Kinek adtad a tiszta borospoharakat?
-  rektatraduko: 
-    - Al: -nak/nek
-    - kiu: ki
-    - vi: te
-    - donis: adott
-    - la: a
-    - purajn: tisztákat
-    - glasojn: poharakat
-    - por: számára 
-    - la: a
-    - vino: bor
-    - '?'
-- 
-  demando: Ki ellen játszott a sportcsapatod két hete?
-  rektatraduko: 
-    - Kontraŭ: Ellen
-    - kiu: ki
-    - ludis: játszott
-    - via: tiéd
-    - sportklubo: sportklub
-    - antaŭ: előtt
-    - du: kettő
-    - semajnoj: hetek
-    - '?'
-- 
-  demando: Gykaran látod a rendőrt, aki a feletted lévő lakásban lakik?
-  rektatraduko: 
-    - Ĉu: Vajon
-    - vi: te
-    - ofte: gyakran
-    - vidas: lát
-    - la: a
-    - policiston: rendőrt
-    - ',' 
-    - kiu: aki
-    - loĝas: lakik
-    - en: -ban/ben 
-    - la: a
-    - loĝejo: lakás
-    - super: felett
-    - vi: te
-    - '?'
+- demando: Ki takarítja ki a konyhát ebéd után?
+  rektatraduko:
+  - Kiu: Ki
+  - purigos: fogja kitakarítani
+  - la: a
+  - kuirejon: konyhát
+  - post: után
+  - la: a
+  - tagmanĝo: ebéd
+  - '?'
+- demando: 'Mit kérsz inni: teát, egy kis kávét vagy semmit?'
+  rektatraduko:
+  - Kion: Mit
+  - vi: te
+  - volas: akarsz
+  - trinki: inni
+  - ':'
+  - teon: teát
+  - ','
+  - iom: valamennyi
+  - da: -nyi
+  - kafo: kávé
+  - aŭ: vagy
+  - ĉu: vajon
+  - vi: te
+  - volas: akarsz
+  - nenion: semmit
+  - '?'
+- demando: Miért döntöttél ilyen hirtelen, hogy felújítod a szobácskádat?
+  rektatraduko:
+  - Kial: Miért
+  - vi: te
+  - tiel: úgy
+  - subite: hirtelen
+  - decidis: döntött
+  - renovigi: felújítani
+  - vian: tiédet
+  - ĉambreton: szobácskát
+  - '?'
+- demando: Kinek adtad a tiszta borospoharakat?
+  rektatraduko:
+  - Al: -nak/nek
+  - kiu: ki
+  - vi: te
+  - donis: adott
+  - la: a
+  - purajn: tisztákat
+  - glasojn: poharakat
+  - por: számára
+  - la: a
+  - vino: bor
+  - '?'
+- demando: Ki ellen játszott a sportcsapatod két hete?
+  rektatraduko:
+  - Kontraŭ: Ellen
+  - kiu: ki
+  - ludis: játszott
+  - via: tiéd
+  - sportklubo: sportklub
+  - antaŭ: előtt
+  - du: kettő
+  - semajnoj: hetek
+  - '?'
+- demando: Gykaran látod a rendőrt, aki a feletted lévő lakásban lakik?
+  rektatraduko:
+  - Ĉu: Vajon
+  - vi: te
+  - ofte: gyakran
+  - vidas: lát
+  - la: a
+  - policiston: rendőrt
+  - ','
+  - kiu: aki
+  - loĝas: lakik
+  - en: -ban/ben
+  - la: a
+  - loĝejo: lakás
+  - super: felett
+  - vi: te
+  - '?'

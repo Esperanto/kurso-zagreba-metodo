@@ -1,72 +1,68 @@
-- 
-  demando: (acaso) Você deseja que eu mostre para você meu mais novo livro?
-  rektatraduko: 
-    - Ĉu: Acaso
-    - vi: você
-    - deziras: deseja
-    - ',' 
-    - ke: que 
-    - mi: eu
-    - montru: mostre
-    - al: para
-    - vi: você
-    - mian: meu
-    - plej: mais
-    - novan: novo
-    - libron: livro
-    - '?'
-- 
-  demando: O que você quer comer amanhã no café da manhã?
-  rektatraduko: 
-    - Kion: O que
-    - vi: você
-    - volas: quer
-    - morgaŭ: amanhã
-    - matenmanĝi: comer no café da manhã
-    - '?'
-- 
-  demando: "Quando Marcos chegará, às cinco ou às oito horas?"
-  rektatraduko: 
-    - Kiam: Quando
-    - Marko: Marcos
-    - alvenos: chegará
-    - ',' 
-    - je: a
-    - la: as (às)
-    - kvina: cinco
-    - aŭ: ou
-    - je: a
-    - la: as (às)
-    - oka: oito
-    - horo: hora(s)
-    - '?'
-- 
-  demando: Quando você percebeu que a família inteira me chama de benfeitor?
-  rektatraduko: 
-    - Kiam: Quando
-    - vi: você
-    - rimarkis: percebeu
-    - ','  
-    - ke: que
-    - la: a
-    - tuta: inteira
-    - familio: família
-    - nomas: chama
-    - min: a mim
-    - bonfarulo: benfeitor
-    - '?'
-- 
-  demando: (acaso) O livreto o qual eu enviei para você foi útil?
-  rektatraduko: 
-    - Ĉu: Acaso
-    - la: o 
-    - libreto: livreto
-    - estis: foi 
-    - utila: útil
-    - al: para
-    - vi: você
-    - ',' 
-    - kiun: o qual
-    - mi: eu 
-    - sendis: enviei
-    - '?'
+- demando: Você quer que eu lhe mostre meu livro mais novo?
+  rektatraduko:
+  - Ĉu: será que
+  - vi: você
+  - deziras: deseja
+  - ','
+  - ke: que
+  - mi: eu
+  - montru: mostre
+  - al: para
+  - vi: você
+  - mian: meu
+  - plej: mais
+  - novan: novo
+  - libron: livro
+  - '?'
+- demando: O que você quer comer amanhã no café da manhã?
+  rektatraduko:
+  - Kion: O que
+  - vi: você
+  - volas: quer
+  - morgaŭ: amanhã
+  - matenmanĝi: comer no café da manhã
+  - '?'
+- demando: Quando Marko chegará, às cinco ou às oito horas?
+  rektatraduko:
+  - Kiam: Quando
+  - Marko: Marko
+  - alvenos: chegará
+  - ','
+  - je: a
+  - la: as (às)
+  - kvina: cinco
+  - aŭ: ou
+  - je: a
+  - la: as (às)
+  - oka: oito
+  - horo: hora(s)
+  - '?'
+- demando: Quando você percebeu que a família inteira me chama de benfeitor?
+  rektatraduko:
+  - Kiam: Quando
+  - vi: você
+  - rimarkis: percebeu
+  - ','
+  - ke: que
+  - la: a
+  - tuta: inteira
+  - familio: família
+  - nomas: chama
+  - min: a mim
+  - bonfarulo: benfeitor
+  - '?'
+- demando: O livreto que eu enviei para você foi útil?
+  rektatraduko:
+  - Ĉu: será que
+  - la: o
+  - libreto: livreto
+  - ','
+  - kiun: o qual
+  - mi: eu
+  - sendis: enviei
+  - al: para
+  - vi: você
+  - ','
+  - estis: foi
+  - utila: útil
+  - '?'

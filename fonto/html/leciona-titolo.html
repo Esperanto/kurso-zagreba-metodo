@@ -13,7 +13,7 @@
       <ul class="dropdown-menu leciona-menuo-listo">
         {% for menu_leciono in enhavo.lecionoj %}
           <li>
-            <a class="dropdown-item" href="{{vojprefikso}}{{menu_leciono.indekso.cxene}}">
+            <a class="dropdown-item" href="{{vojprefikso}}{{menu_leciono.indekso.cxene}}{% if leciona_menuo_tab_vojo|default('') %}/{{leciona_menuo_tab_vojo}}{% endif %}">
               {{menu_leciono.indekso.cifre}}. {{menu_leciono.teksto.titolo_string}}
             </a>
           </li>

@@ -1,5 +1,7 @@
 /* set a max-width for horizontal fluid layout and make it centered */
 :root {
+  --bs-body-font-family: "Fira Sans", sans-serif;
+  --bs-font-sans-serif: "Fira Sans", sans-serif;
   --bs-link-color: #337ab7;
   --bs-link-color-rgb: 51, 122, 183;
   --bs-link-hover-color: #23527c;
@@ -19,7 +21,7 @@
 body {
   display: flex;
   flex-direction: column;
-  font-family: "Fira Sans", sans-serif;
+  font-family: var(--bs-body-font-family);
   font-size: 18px;
   line-height: 30px;
   min-height: 100vh;
@@ -251,22 +253,13 @@ h3 {
   max-height: min(70vh, 24rem);
   overflow-y: auto;
 }
-.hejmo {
-  margin: 0 auto;
-  max-width: 48rem;
-  padding: 3rem 0;
-  text-align: center;
+@media (display-mode: standalone) {
+  .pwa-standalone-kasxita {
+    display: none !important;
+  }
 }
-.hejmo-titolo {
-  font-size: clamp(3rem, 9vw, 5.5rem);
-  line-height: 1;
-  margin-bottom: 2rem;
-}
-.hejmo-lingvoj {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  justify-content: center;
+.pwa-standalone .pwa-standalone-kasxita {
+  display: none !important;
 }
 .lingva-startpagxo {
   margin: 0 auto;
@@ -285,6 +278,10 @@ h3 {
 .lingva-startpagxo-titoloj {
   text-wrap: balance;
 }
+html:lang(th) .lingva-startpagxo-titoloj {
+  text-wrap: wrap;
+  text-wrap: pretty;
+}
 .lingva-startpagxo h1 {
   font-size: clamp(2rem, 5vw, 3rem);
   line-height: 1.1;
@@ -293,6 +290,9 @@ h3 {
 .lingva-startpagxo-subtitolo {
   font-size: 1.35rem;
   margin-bottom: 0;
+}
+.lingva-startpagxo-lingvoelektilo {
+  margin-top: 0.85rem;
 }
 .lingva-startpagxo-trajtoj {
   margin-bottom: 1.75rem;
@@ -304,6 +304,31 @@ h3 {
   gap: 0.75rem;
   justify-content: center;
   margin-bottom: 1.5rem;
+}
+.pwa-instala-helpo {
+  animation: pwa-instala-helpo-aufsxovo 180ms ease-out;
+  flex-basis: 100%;
+  margin: 0.25rem auto 0;
+  max-width: 36rem;
+  overflow: hidden;
+  text-align: center;
+}
+@keyframes pwa-instala-helpo-aufsxovo {
+  from {
+    max-height: 0;
+    opacity: 0;
+    transform: translateY(-0.35rem);
+  }
+  to {
+    max-height: 8rem;
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .pwa-instala-helpo {
+    animation: none;
+  }
 }
 .lingva-startpagxo-lingvoj {
   max-height: min(70vh, 24rem);
@@ -480,6 +505,10 @@ h3 {
 .footer .versio {
   color: rgba(255, 255, 255, 0.65);
 }
+.footer .versio-dato {
+  text-wrap-mode: nowrap;
+  white-space: nowrap;
+}
 
 @media (min-width: 768px) {
   .footer-kolumnoj {
@@ -529,13 +558,15 @@ ol.tasko {
   row-gap: 18px;
 }
 .form-horizontal .form-group {
+  display: contents;
   margin-bottom: 0;
 }
-.form-horizontal .form-group.has-feedback {
-  display: contents;
-}
-.form-horizontal .form-group:not(.has-feedback) {
+/* Solaj tekstoj (interpunkcio ktp.) sen enigo: propra plena vico, kies etikedo
+   restas en la etikedkolumno, do ili ne ŝovas la sekvajn etikedo/enigo-parojn. */
+.form-horizontal .form-group.ekz3-interpunkcio {
+  display: grid;
   grid-column: 1 / -1;
+  grid-template-columns: subgrid;
 }
 .form-horizontal .control-label {
   font-weight: 700;
@@ -566,15 +597,17 @@ ol.tasko {
   margin-bottom: 1.5rem;
   margin-top: 2rem;
 }
-.form-horizontal .feedback-icon {
-  position: absolute;
-  right: 12px;
-  top: 50%;
-  transform: translateY(-50%);
+/* La agobutonoj (Solvu/Forigu) staru memstare sub la formularo, ne en la
+   krado, kaj neniam superu la ekranlarĝon (ili faldiĝas sur poŝtelefono). */
+.ekzercaj-agoj {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  max-width: 100%;
 }
-.form-horizontal .solvu,
-.form-horizontal .forigu {
-  margin-top: 0.25em;
+.form-horizontal .ekzercaj-agoj {
+  grid-column: 1 / -1;
 }
 .form-inline .form-group {
   display: inline-block;
@@ -588,12 +621,6 @@ ol.tasko {
   height: 34px;
   line-height: 1.42857143;
   width: auto;
-}
-.form-inline .feedback-icon {
-  position: absolute;
-  right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
 }
 /* Ekzerco 2: ĉiu vorto estas enigo aŭ enigogrupo, interpunkcio aparta. */
 .ekzerco2-tasko ol.tasko {
@@ -648,33 +675,19 @@ ol.tasko {
   border-color: var(--bs-border-color);
 }
 
-.has-error input {
-  background: var(--exercise-field-bg);
+/* Konservu la malfortan fonan tinkturon de la ekzercaj kampoj, sed ligitan al la
+   Bootstrap-5-validigo (is-invalid/is-valid) anstataŭ la malnovaj BS3-klasoj. */
+input.is-invalid {
+  background-color: var(--exercise-field-bg);
 }
-.has-success input {
-  background: #eff8ef;
-}
-.feedback-icon {
-  display: inline-block;
-  font-weight: bold;
-  min-width: 1.5em;
-  text-align: center;
-}
-.feedback-icon-ok {
-  color: #198754;
-}
-.feedback-icon-remove {
-  color: #dc3545;
+input.is-valid {
+  background-color: #eff8ef;
 }
 
 @media (min-width: 576px) {
   .form-horizontal .control-label {
     text-align: right;
   }
-}
-
-.fixed {
-  position: fixed;
 }
 
 #logo {
@@ -708,6 +721,13 @@ ul.pager {
 }
 ul.pager .next {
   text-align: right;
+}
+ul.pager .pager-actions {
+  direction: ltr;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
 }
 .ad {
   text-align: center;

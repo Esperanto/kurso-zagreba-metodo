@@ -1,54 +1,49 @@
-- 
-  demando: Kan je het geneesmiddel van mijn zus meedragen?
+- demando: Kan je het geneesmiddel van mijn zus meedragen?
   rektatraduko:
-    - Ĉu: Of
-    - vi: je 
-    - povas: kan
-    - kunporti: meedragen 
-    - la: het 
-    - sanigilon: geneesmiddel 
-    - de: van 
-    - mia: mijn 
-    - fratino: zus 
-    - '?'
-- 
-  demando: Wanneer heb je dat muziekinstrument gekocht?
+  - Ĉu: Of
+  - vi: je
+  - povas: kan
+  - kunporti: meedragen
+  - la: het
+  - sanigilon: geneesmiddel
+  - de: van
+  - mia: mijn
+  - fratino: zus
+  - '?'
+- demando: Wanneer heb je dat muziekinstrument gekocht?
   rektatraduko:
-    - Kiam: Wanneer 
-    - vi: je 
-    - aĉetis: hebt gekocht 
-    - tiun: dat 
-    - muzikilon: muziekinstrument 
-    - '?'
-- 
-  demando: Wie heeft laatst mijn sleutel gebruikt?
+  - Kiam: Wanneer
+  - vi: je
+  - aĉetis: hebt gekocht
+  - tiun: dat
+  - muzikilon: muziekinstrument
+  - '?'
+- demando: Wie heeft laatst mijn sleutel gebruikt?
   rektatraduko:
-    - Kiu: Wie
-    - laste: laatst 
-    - uzis: heeft gebruikt 
-    - mian: mijn 
-    - ŝlosilon: sleutel 
-    - '?'
-- 
-  demando: Heb je in Venetië ook met een gondel gevaren?
+  - Kiu: Wie
+  - laste: laatst
+  - uzis: heeft gebruikt
+  - mian: mijn
+  - ŝlosilon: sleutel
+  - '?'
+- demando: Heb je in Venetië ook met een gondel gevaren?
   rektatraduko:
-    - Ĉu: Of
-    - vi: je 
-    - en: in 
-    - Venecio: Venetië
-    - veturis: gevaren hebt/je verplaatst hebt
-    - ankaŭ: ook 
-    - per: met/ door middel van
-    - gondolo: een gondel 
-    - '?'
-- 
-  demando: Zal je kunnen inslapen, als het stil geworden is?
+  - Ĉu: Of
+  - vi: je
+  - en: in
+  - Venecio: Venetië
+  - veturis: gevaren hebt
+  - ankaŭ: ook
+  - per: met
+  - gondolo: een gondel
+  - '?'
+- demando: Zal je kunnen inslapen, als het stil geworden is?
   rektatraduko:
-    - Ĉu: Of 
-    - vi: je 
-    - povos: zal kunnen 
-    - ekdormi: inslapen 
-    - ',' 
-    - kiam: wanneer 
-    - silentiĝis: werd stil  
-    - '?'
+  - Ĉu: Of
+  - vi: je
+  - povos: zal kunnen
+  - ekdormi: inslapen
+  - ','
+  - kiam: wanneer
+  - silentiĝos: is stil geworden
+  - '?'

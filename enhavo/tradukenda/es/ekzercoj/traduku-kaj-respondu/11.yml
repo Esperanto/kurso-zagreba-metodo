@@ -1,54 +1,49 @@
-- 
-  demando: ¿Puedes traerte la medicina de mi hermana?
-  rektatraduko: 
-    - Ĉu: ¿
-    - vi: Tú
-    - povas: puedes
-    - kunporti: traerte
-    - la: la
-    - sanigilon: medicina
-    - de: de
-    - mia: mi
-    - fratino: hermana
-    - '?'
-- 
-  demando: ¿Cuándo compraste ese instrumento?
-  rektatraduko: 
-    - Kiam: Cuándo
-    - vi: tú
-    - aĉetis: compraste
-    - tiun: ese
-    - muzikilon: instrumento
-    - '?'
-- 
-  demando: ¿Quién usó mi llave por última vez?
-  rektatraduko: 
-    - Kiu: Quién
-    - laste: por última vez
-    - uzis: usó
-    - mian: mi
-    - ŝlosilon: llave
-    - '?'
-- 
-  demando: ¿En Venecia fuiste también con góndola?
-  rektatraduko: 
-    - Ĉu: ¿
-    - vi: Tú
-    - en: en
-    - Venecio: Venecia
-    - veturis: fuiste
-    - ankaŭ: también
-    - per: con
-    - gondolo: góndola
-    - '?'
-- 
-  demando: ¿Podrás quedarte dormido cuando haya silencio?
-  rektatraduko: 
-    - Ĉu: ¿
-    - vi: Tú
-    - povos: podrás
-    - ekdormi: quedarte dormido
-    - ',' 
-    - kiam: cuando 
-    - estos silento: haya silencio
-    - '?'
+- demando: ¿Puedes traer la medicina de mi hermana?
+  rektatraduko:
+  - Ĉu: Acaso
+  - vi: Tú
+  - povas: puedes
+  - kunporti: traer contigo
+  - la: la
+  - sanigilon: medicina
+  - de: de
+  - mia: mi
+  - fratino: hermana
+  - '?'
+- demando: ¿Cuándo compraste ese instrumento?
+  rektatraduko:
+  - Kiam: Cuándo
+  - vi: tú
+  - aĉetis: compraste
+  - tiun: ese
+  - muzikilon: instrumento musical
+  - '?'
+- demando: ¿Quién usó mi llave por última vez?
+  rektatraduko:
+  - Kiu: Quién
+  - laste: por última vez
+  - uzis: usó
+  - mian: mi
+  - ŝlosilon: llave
+  - '?'
+- demando: ¿En Venecia fuiste también en góndola?
+  rektatraduko:
+  - Ĉu: Acaso
+  - vi: Tú
+  - en: en
+  - Venecio: Venecia
+  - veturis: viajaste
+  - ankaŭ: también
+  - per: por medio de
+  - gondolo: góndola
+  - '?'
+- demando: ¿Podrás quedarte dormido cuando haya silencio?
+  rektatraduko:
+  - Ĉu: Acaso
+  - vi: Tú
+  - povos: podrás
+  - ekdormi: empezar a dormir
+  - ','
+  - kiam: cuando
+  - silentiĝos: silencio
+  - '?'

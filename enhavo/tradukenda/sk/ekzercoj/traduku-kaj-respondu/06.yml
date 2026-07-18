@@ -1,72 +1,68 @@
-- 
-  demando: Praješ si, aby som ti ukázal svoju najnovšiu knihu?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - deziras: praješ si
-    - ',' 
-    - ke: aby
-    - mi: ja
-    - montru: ukázať (rozkaz)
-    - al: k, ke
-    - vi: ty
-    - mian: moju
-    - plej: naj (3. stupeň přídavného jména)
-    - novan: novú
-    - libron: knihu
-    - '?'
-- 
-  demando: Čo chceš zajtra raňajkovať?
-  rektatraduko: 
-    - Kion: Čo
-    - vi: ty
-    - volas: chceš
-    - morgaŭ: zajtra
-    - matenmanĝi: raňajkovať
-    - '?'
-- 
-  demando: Kedy Marek príde, o piatej alebo o ôsmej? 
-  rektatraduko: 
-    - Kiam: Kedy
-    - Marko: Marek
-    - alvenos: príde
-    - ',' 
-    - je: o (čas)
-    - la: (člen určitý)
-    - kvina: piatej
-    - aŭ: alebo
-    - je: o (čas)
-    - la: (člen určitý)
-    - oka: ôsmej
-    - horo: hodine
-    - '?'
-- 
-  demando: Kedy si si všimol, že mi celá rodina hovorí dobrodinec?
-  rektatraduko: 
-    - Kiam: Kedy
-    - vi: ty
-    - rimarkis: všimol si si
-    - ','  
-    - ke: že
-    - la: (člen určitý)
-    - tuta: celá
-    - familio: rodina
-    - nomas: volá
-    - min: ma
-    - bonfarulo: dobrodinec
-    - '?'
-- 
-  demando: Bola pre teba užitočná tá knižôčka, ktorú som poslal?
-  rektatraduko: 
-    - Ĉu: Či
-    - estis: bola
-    - al: k
-    - vi: ty
-    - utila: užitočná
-    - la: (člen určitý) 
-    - libreto: knižôčka  
-    - ',' 
-    - kiun: ktorú
-    - mi: ja
-    - sendis: poslal
-    - '?'
+- demando: Praješ si, aby som ti ukázal svoju najnovšiu knihu?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - deziras: praješ si
+  - ','
+  - ke: aby
+  - mi: ja
+  - montru: ukázať (rozkaz)
+  - al: k, ke
+  - vi: ty
+  - mian: moju
+  - plej: naj (3. stupeň přídavného jména)
+  - novan: novú
+  - libron: knihu
+  - '?'
+- demando: Čo chceš zajtra raňajkovať?
+  rektatraduko:
+  - Kion: Čo
+  - vi: ty
+  - volas: chceš
+  - morgaŭ: zajtra
+  - matenmanĝi: raňajkovať
+  - '?'
+- demando: Kedy Marko príde, o piatej alebo o ôsmej?
+  rektatraduko:
+  - Kiam: Kedy
+  - Marko: Marko
+  - alvenos: príde
+  - ','
+  - je: o (čas)
+  - la: (člen určitý)
+  - kvina: piatej
+  - aŭ: alebo
+  - je: o (čas)
+  - la: (člen určitý)
+  - oka: ôsmej
+  - horo: hodine
+  - '?'
+- demando: Kedy si si všimol, že mi celá rodina hovorí dobrodinec?
+  rektatraduko:
+  - Kiam: Kedy
+  - vi: ty
+  - rimarkis: všimol si si
+  - ','
+  - ke: že
+  - la: (člen určitý)
+  - tuta: celá
+  - familio: rodina
+  - nomas: volá
+  - min: ma
+  - bonfarulo: dobrodinec
+  - '?'
+- demando: Bola pre teba užitočná tá knižôčka, ktorú som poslal?
+  rektatraduko:
+  - Ĉu: Či
+  - la: (člen určitý)
+  - libreto: knižôčka
+  - ','
+  - kiun: ktorú
+  - mi: ja
+  - sendis: poslal
+  - al: k
+  - vi: ty
+  - ','
+  - estis: bola
+  - utila: užitočná
+  - '?'

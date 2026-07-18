@@ -1,57 +1,51 @@
-- 
-  demando: あなたのガールフレンドは誰ですか？
+- demando: あなたの友達は誰ですか？
   rektatraduko:
-    - Kiu: 誰
-    - estas: ～です
-    - via: あなたの
-    - amikino: ガールフレンド
-    - '?'
-- 
-  demando: あなたの友達のアンナさんは今、部屋で書き物をしていますか？
+  - Kiu: 誰
+  - estas: ～です
+  - via: あなたの
+  - amikino: 女性の友達
+  - '?'
+- demando: あなたの友達のアナさんは今、部屋で書き物をしていますか？
   rektatraduko:
-    - Ĉu: ～か？
-    - via: あなたの
-    - amikino: 友達
-    - Anna: アンナ
-    - skribas: 書く
-    - nun: 今
-    - en: ～の中
-    - la: (定冠詞)
-    - ĉambro: 部屋
-    - '?'
-- 
-  demando: あなたの父親の友達はホテルで働いていますか？
+  - Ĉu: ～か？
+  - via: あなたの
+  - amikino: 友達
+  - Ana: アナ
+  - skribas: 書く
+  - nun: 今
+  - en: ～の中
+  - la: (定冠詞)
+  - ĉambro: 部屋
+  - '?'
+- demando: あなたの父親の友達はホテルで働いていますか？
   rektatraduko:
-    - Ĉu: ～か？
-    - la: (定冠詞)
-    - amiko: 友達
-    - de: ～の
-    - via: あなたの
-    - patro: 父親
-    - laboras: 働く
-    - en: ～の中
-    - hotelo: ホテル
-    - '?'
-- 
-  demando: 私達の部屋にある作業机の上には何がありますか？
+  - Ĉu: ～か？
+  - la: (定冠詞)
+  - amiko: 友達
+  - de: ～の
+  - via: あなたの
+  - patro: 父親
+  - laboras: 働く
+  - en: ～の中
+  - hotelo: ホテル
+  - '?'
+- demando: 私達の部屋にある作業机の上には何がありますか？
   rektatraduko:
-    - Kio: 何 
-    - estas: あります
-    - sur: 上
-    - la: (定冠詞)
-    - labortablo: 作業机
-    - en: ～の中
-    - nia: 私達の
-    - ĉambro: 部屋
-    - '?'
-- 
-  demando: あなたの机の上にエスペラントの教科書がありますか？
+  - Kio: 何
+  - estas: あります
+  - sur: 上
+  - la: (定冠詞)
+  - labortablo: 作業机
+  - en: ～の中
+  - nia: 私達の
+  - ĉambro: 部屋
+  - '?'
+- demando: あなたの机の上にエスペラントの教科書がありますか？
   rektatraduko:
-    - Ĉu: ～か？
-    - Esperanto-lernolibro: エスペラントの教科書
-    - estas: あります
-    - sur: 上
-    - via: あなたの 
-    - tablo: 机
-    - '?'
-
+  - Ĉu: ～か？
+  - Esperanto-lernolibro: エスペラントの教科書
+  - estas: あります
+  - sur: 上
+  - via: あなたの
+  - tablo: 机
+  - '?'

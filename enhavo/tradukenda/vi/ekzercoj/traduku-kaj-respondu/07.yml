@@ -1,77 +1,71 @@
-- 
-  demando: Ai đã có được cuốn sách mà cậu đã chờ đợi hơn 2 năm vậy?
-  rektatraduko: 
-    - Kiu: Ai
-    - havis: đã có được
-    - la: (mạo từ xác định)
-    - libron: cuốn sách
-    - ',' 
-    - kiun: mà
-    - vi: cậu
-    - atendis: đã chờ đợi
-    - pli: (so sánh hơn)
-    - ol: hơn
-    - du: hai
-    - jarojn: năm
-    - '?'
-- 
-  demando: Cậu có muốn mình cho cậu xem tấm hình quý giá nhất đối với mình không?
-  rektatraduko: 
-    - Ĉu: Có không
-    - vi: bạn
-    - volas: muốn
-    - ','
-    - ke: rằng
-    - mi: mình
-    - montru: cho xem
-    - al: (đến)
-    - vi: cậu
-    - mian: của mình
-    - plej: (so sánh nhất)
-    - karan: quý mến
-    - foton: tấm hình
-    - '?'
-- 
-  demando: Cậu đã mua cái bộ quần áo đó ở đâu vậy?
-  rektatraduko: 
-    - Kie: Ở đâu
-    - vi: cậu
-    - aĉetis: đã mua
-    - tiun: cái đó
-    - vestaĵon: bộ quần áo
-    - '?'
-- 
-  demando: Vào ngày chủ nhật cậu sẽ đi đâu, nếu đó sẽ là một ngày toả nắng?
-  rektatraduko: 
-    - Kien: Đi đến đâu
-    - vi: cậu
-    - iros: sẽ đi
-    - dimanĉe: vào ngày chủ nhật
-    - ',' 
-    - se: nếu
-    - estos: sẽ là
-    - suna: toả nắng
-    - tago: ngày
-    - '?'
-- 
-  demando: Anh trai của cậu đã đi về rồi à?
-  rektatraduko: 
-    - Ĉu: Có phải không
-    - via: của cậu
-    - frato: anh trai
-    - jam: đã … rồi
-    - ekiris: đã đi về
-    - '?'
-- 
-  demando: Nước mà do chính bản thân cậu đã đem cùng để đâu rồi hả?
-  rektatraduko: 
-    - Kie: Ở đâu
-    - estas: thì là
-    - la: (mạo từ xác định)
-    - akvo: nước
-    - ',' 
-    - kiun: mà
-    - vi: cậu
-    - mem: chính bản thân
-    - kunportis: đã đem cùng
-    - '?'
+- demando: Ai đã có được cuốn sách mà cậu đã chờ đợi hơn 2 năm vậy?
+  rektatraduko:
+  - Kiu: Ai
+  - havis: đã có được
+  - la: (mạo từ xác định)
+  - libron: cuốn sách
+  - ','
+  - kiun: mà
+  - vi: cậu
+  - atendis: đã chờ đợi
+  - pli: (so sánh hơn)
+  - ol: hơn
+  - du: hai
+  - jarojn: năm
+  - '?'
+- demando: Cậu có muốn mình cho cậu xem tấm hình quý giá nhất đối với mình không?
+  rektatraduko:
+  - Ĉu: Có không
+  - vi: bạn
+  - volas: muốn
+  - ','
+  - ke: rằng
+  - mi: mình
+  - montru: cho xem
+  - al: (đến)
+  - vi: cậu
+  - mian: của mình
+  - plej: (so sánh nhất)
+  - karan: quý mến
+  - foton: tấm hình
+  - '?'
+- demando: Cậu đã mua cái bộ quần áo đó ở đâu vậy?
+  rektatraduko:
+  - Kie: Ở đâu
+  - vi: cậu
+  - aĉetis: đã mua
+  - tiun: cái đó
+  - vestaĵon: bộ quần áo
+  - '?'
+- demando: Vào ngày chủ nhật cậu sẽ đi đâu, nếu đó sẽ là một ngày toả nắng?
+  rektatraduko:
+  - Kien: Đi đến đâu
+  - vi: cậu
+  - iros: sẽ đi
+  - dimanĉe: vào ngày chủ nhật
+  - ','
+  - se: nếu
+  - estos: sẽ là
+  - suna: toả nắng
+  - tago: ngày
+  - '?'
+- demando: Anh trai của cậu đã đi về rồi à?
+  rektatraduko:
+  - Ĉu: Có phải không
+  - via: của cậu
+  - frato: anh trai
+  - jam: đã … rồi
+  - ekiris: đã đi về
+  - '?'
+- demando: Nước mà do chính bản thân cậu đã đem cùng để đâu rồi hả?
+  rektatraduko:
+  - Kie: Ở đâu
+  - estas: thì là
+  - la: (mạo từ xác định)
+  - akvo: nước
+  - ','
+  - kiun: mà
+  - vi: cậu
+  - mem: chính bản thân
+  - kunportis: đã đem cùng
+  - '?'

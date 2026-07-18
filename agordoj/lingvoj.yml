@@ -19,6 +19,14 @@ be:
   aŭtoroj:
     - nomo: Roman Ralko
       github: EternaKrokodilanto
+bn:
+  nomo:
+    fontlingve: বাংলা
+    esperante: bengala
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 ca:
   nomo:
     fontlingve: Català
@@ -112,6 +120,30 @@ es:
       github: alescomu
     - nomo: Guillermo Molleda Jimena
       github: gmolledaj
+eu:
+  nomo:
+    fontlingve: Euskara
+    esperante: eŭska
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
+ee:
+  nomo:
+    fontlingve: Eʋegbe
+    esperante: evea
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
+et:
+  nomo:
+    fontlingve: Eesti
+    esperante: estona
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 fa:
   nomo:
     fontlingve: فارسی
@@ -123,6 +155,14 @@ fa:
     - nomo: Sina Kiadaliri
       github: sinakd
   tekstodirekto: rtl
+fi:
+  nomo:
+    fontlingve: Suomi
+    esperante: finna
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 fr:
   nomo:
     fontlingve: Français
@@ -153,6 +193,14 @@ ga:
   aŭtoroj:
     - nomo: Seán Ó Riain
       github: SeanORiain32
+ha:
+  nomo:
+    fontlingve: Hausa
+    esperante: haŭsa
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 he:
   nomo:
     fontlingve: עברית
@@ -203,6 +251,14 @@ id:
       github: tayamsukit
     - nomo: Onklo ENG
       github: onklo
+is:
+  nomo:
+    fontlingve: Íslenska
+    esperante: islanda
+  stato: preta
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 it:
   nomo:
     fontlingve: Italiano
@@ -225,6 +281,14 @@ ja:
       github: ucxgk
     - nomo: NAMBA Fumiharu
       github: osametan
+ka:
+  nomo:
+    fontlingve: ქართული
+    esperante: kartvela
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 kk:
   nomo:
     fontlingve: Қазақша
@@ -268,6 +332,22 @@ lo:
   aŭtoroj:
     - nomo: Warut Bunprasert
       github: Warut92
+lv:
+  nomo:
+    fontlingve: Latviešu
+    esperante: latva
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
+lt:
+  nomo:
+    fontlingve: Lietuvių
+    esperante: litova
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 mg:
   nomo:
     fontlingve: Malagasy
@@ -276,6 +356,14 @@ mg:
   aŭtoroj:
     - nomo: Norbert Faly Randriamaitso
       github: faly509
+mr:
+  nomo:
+    fontlingve: मराठी
+    esperante: marata
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 ms:
   nomo:
     fontlingve: Bahasa Melayu
@@ -288,10 +376,28 @@ my:
   nomo:
     fontlingve: မြန်မာဘာသာ
     esperante: birma
-  stato: testa
+  stato: preta
   aŭtoroj:
     - nomo: Onklo ENG
       github: onklo
+ne:
+  nomo:
+    fontlingve: नेपाली
+    esperante: nepala
+  stato: testa
+  komentejo: 0
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
+'no':
+  nomo:
+    fontlingve: Norsk
+    esperante: norvega
+  stato: testa
+  komentejo: 1
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 nl:
   nomo:
     fontlingve: Nederlands
@@ -301,6 +407,14 @@ nl:
   aŭtoroj:
     - nomo: Leo de Cooman
       github: GrizaLeono
+pa:
+  nomo:
+    fontlingve: ਪੰਜਾਬੀ
+    esperante: panĝaba
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 pl:
   nomo:
     fontlingve: Polski
@@ -325,6 +439,14 @@ pt:
       github: Jxajroad
     - nomo: Alejandro Escobedo
       github: alescomu
+qu:
+  nomo:
+    fontlingve: Runa Simi
+    esperante: keĉua
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 ro:
   nomo:
     fontlingve: Română
@@ -334,6 +456,14 @@ ro:
   aŭtoroj:
     - nomo: Yves Nevelsteen
       github: yvesnevelsteen
+rm:
+  nomo:
+    fontlingve: Rumantsch Grischun
+    esperante: romanĉa
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 ru:
   nomo:
     fontlingve: Русский
@@ -351,6 +481,15 @@ ru:
       github: vistar
     - nomo: Reedych
       github: reedych
+rw:
+  nomo:
+    fontlingve: Ikinyarwanda
+    esperante: kinjarvanda
+  stato: testa
+  komentejo: 0
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 sk:
   nomo:
     fontlingve: Slovenčina
@@ -373,7 +512,7 @@ sl:
     fontlingve: Slovenščina
     esperante: slovena
   stato: preta
-  komentejo: 0
+  komentejo: 1
   aŭtoroj:
     - nomo: Milan Jarnovič
       github: Mioli
@@ -392,11 +531,27 @@ sw:
   nomo:
     fontlingve: Kiswahili
     esperante: svahila
-  stato: testa
-  komentejo: 1
+  stato: preta
+  komentejo: 0
   aŭtoroj:
     - nomo: Leo de Cooman
       github: GrizaLeono
+ta:
+  nomo:
+    fontlingve: தமிழ்
+    esperante: tamila
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
+te:
+  nomo:
+    fontlingve: తెలుగు
+    esperante: telugua
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 th:
   nomo:
     fontlingve: ภาษาไทย
@@ -406,6 +561,15 @@ th:
   aŭtoroj:
     - nomo: Warut Bunprasert
       github: Warut92
+tl:
+  nomo:
+    fontlingve: Tagalog
+    esperante: tagaloga
+  stato: testa
+  komentejo: 0
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 tok:
   nomo:
     fontlingve: toki pona
@@ -441,6 +605,15 @@ ur:
   aŭtoroj:
     - nomo: Adeel Butt
       github: ambtg
+  tekstodirekto: rtl
+uz:
+  nomo:
+    fontlingve: Oʻzbekcha
+    esperante: uzbeka
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 vi:
   nomo:
     fontlingve: Tiếng Việt
@@ -451,6 +624,14 @@ vi:
       github: Ghojo-37
     - nomo: Hoang Phuc
       github: Huangphoux
+wuu:
+  nomo:
+    fontlingve: 吴语
+    esperante: ĉina (Wu)
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 yo:
   nomo:
     fontlingve: yorùbá
@@ -459,6 +640,14 @@ yo:
   aŭtoroj:
     - nomo: Gabriel Olúbùnmi Ọ̀ṣhọ́-Davies
       github: oshodavies
+yue:
+  nomo:
+    fontlingve: 粵語
+    esperante: ĉina (kantona)
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 zh:
   nomo:
     fontlingve: 中文

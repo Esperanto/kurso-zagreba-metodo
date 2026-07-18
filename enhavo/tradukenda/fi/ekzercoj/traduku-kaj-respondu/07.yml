@@ -1,0 +1,71 @@
+- demando: Kenellä oli kirja, jota olit odottanut yli kaksi vuotta?
+  rektatraduko:
+  - Kiu: kuka
+  - havis: hänellä oli
+  - la: määräinen artikkeli
+  - libron: kirja objektina
+  - ','
+  - kiun: jonka objektina
+  - vi: sinä
+  - atendis: odotit
+  - pli: enemmän
+  - ol: kuin
+  - du: kaksi
+  - jarojn: vuodet objektina
+  - '?'
+- demando: Haluatko, että näytän sinulle minulle rakkaimman valokuvan?
+  rektatraduko:
+  - Ĉu: kysymys
+  - vi: sinä
+  - volas: haluat
+  - ','
+  - ke: että
+  - mi: minä
+  - montru: näyttäisin
+  - al: -lle
+  - vi: sinä
+  - mian: minun objektina
+  - plej: eniten
+  - karan: rakas objektina
+  - foton: valokuva objektina
+  - '?'
+- demando: Mistä ostit tuon vaatteen?
+  rektatraduko:
+  - Kie: missä
+  - vi: sinä
+  - aĉetis: ostit
+  - tiun: tuo objektina
+  - vestaĵon: vaate objektina
+  - '?'
+- demando: Minne menet sunnuntaina, jos päivä on aurinkoinen?
+  rektatraduko:
+  - Kien: minne
+  - vi: sinä
+  - iros: menet tulevaisuudessa
+  - dimanĉe: sunnuntaina
+  - ','
+  - se: jos
+  - estos: on tulevaisuudessa
+  - suna: aurinkoinen
+  - tago: päivä
+  - '?'
+- demando: Onko veljesi jo lähtenyt?
+  rektatraduko:
+  - Ĉu: kysymys
+  - via: sinun
+  - frato: veli
+  - jam: jo
+  - ekiris: lähti liikkeelle
+  - '?'
+- demando: Missä on vesi, jonka toit itse mukanasi?
+  rektatraduko:
+  - Kie: missä
+  - estas: 'on'
+  - la: määräinen artikkeli
+  - akvo: vesi
+  - ','
+  - kiun: jonka objektina
+  - vi: sinä
+  - mem: itse
+  - kunportis: toit mukana
+  - '?'

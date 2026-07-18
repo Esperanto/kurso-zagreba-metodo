@@ -1,0 +1,194 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-kaj-respondu-ekzerco YAML, leciono 07
+allOf:
+  - $ref: ../traduku-kaj-respondu.schema.yml
+  - minItems: 6
+    prefixItems:
+      - properties:
+          rektatraduko:
+            minItems: 13
+            prefixItems:
+              - type: object
+                required:
+                  - Kiu
+              - type: object
+                required:
+                  - havis
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - libron
+              - const: ','
+              - type: object
+                required:
+                  - kiun
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - atendis
+              - type: object
+                required:
+                  - pli
+              - type: object
+                required:
+                  - ol
+              - type: object
+                required:
+                  - du
+              - type: object
+                required:
+                  - jarojn
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 14
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - volas
+              - const: ','
+              - type: object
+                required:
+                  - ke
+              - type: object
+                required:
+                  - mi
+              - type: object
+                required:
+                  - montru
+              - type: object
+                required:
+                  - al
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - mian
+              - type: object
+                required:
+                  - plej
+              - type: object
+                required:
+                  - karan
+              - type: object
+                required:
+                  - foton
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 6
+            prefixItems:
+              - type: object
+                required:
+                  - Kie
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - aĉetis
+              - type: object
+                required:
+                  - tiun
+              - type: object
+                required:
+                  - vestaĵon
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 10
+            prefixItems:
+              - type: object
+                required:
+                  - Kien
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - iros
+              - type: object
+                required:
+                  - dimanĉe
+              - const: ','
+              - type: object
+                required:
+                  - se
+              - type: object
+                required:
+                  - estos
+              - type: object
+                required:
+                  - suna
+              - type: object
+                required:
+                  - tago
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 6
+            prefixItems:
+              - type: object
+                required:
+                  - Ĉu
+              - type: object
+                required:
+                  - via
+              - type: object
+                required:
+                  - frato
+              - type: object
+                required:
+                  - jam
+              - type: object
+                required:
+                  - ekiris
+              - const: '?'
+            items: false
+      - properties:
+          rektatraduko:
+            minItems: 10
+            prefixItems:
+              - type: object
+                required:
+                  - Kie
+              - type: object
+                required:
+                  - estas
+              - type: object
+                required:
+                  - la
+              - type: object
+                required:
+                  - akvo
+              - const: ','
+              - type: object
+                required:
+                  - kiun
+              - type: object
+                required:
+                  - vi
+              - type: object
+                required:
+                  - mem
+              - type: object
+                required:
+                  - kunportis
+              - const: '?'
+            items: false
+    items: false

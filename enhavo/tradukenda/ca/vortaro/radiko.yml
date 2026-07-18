@@ -1,6 +1,9 @@
 afer:
- - assumpte
- - cosa
+- assumpte
+- cosa
+ag:
+- actuar
+- obrar
 agrabl: agradable
 akcept: acceptar
 akv: aigua
@@ -8,21 +11,23 @@ ali: altre/a
 alt: alt/a
 am: estimar, amar
 amik: amic
+aper: aparèixer
 arb: arbre
 aspekt: semblar (aspecte)
 atend: esperar
 atent:
- - estar atent
- - parar atenció
+- estar atent
+- parar atenció
 aĉet: comprar
 aŭd: sentir, oir
+aŭskult: escoltar
 aŭt: cotxe
 aŭtoritat: autoritat
 bedaŭr: lamentar, deplorar
 bel:
- - bonic/a
- - bell/a
- - maco/a
+- bonic/a
+- bell/a
+- maco/a
 best: animal
 bezon: necessitar
 bien: terreny, finca
@@ -31,39 +36,41 @@ branĉ: branca
 bru: soroll
 buŝ: boca
 cert:
- - cert/a
- - segur/a
+- cert/a
+- segur/a
 dank: agrair (a)
 daŭr: durar
 decid: decidir
 demand: preguntar
 dev:
- - haver de
- - deure (estar obligat a)
+- haver de
+- deure (estar obligat a)
 dezir: desitjar
 diabl: diable
 dik: gras/grassa
 dimanĉ: diumenge
 dir: dir
 direkt: direcció
+divers: divers
 doktor: doctor
 dolar: dòlar
 dolor: fer mal, doler
 dolĉ: dolç/a
-dom: 
- - casa
- - edifici
+dom:
+- casa
+- edifici
 don: donar
 dorm: dormir
 doĝ: dux
 edz: marit
 efektiv: efectiu
 ekskurs: excursió
+ekzempl: exemple
 esper: tenir esperança
 est:
- - ser
- - estar
- - haver-hi
+- ser
+- estar
+- haver-hi
 facil: fàcil
 fakt: fet
 fal: caure
@@ -85,26 +92,29 @@ fot: foto
 frat: germà
 fru: d'hora, aviat
 fuŝ:
- - espatllar
- - malmetre
- - esguerrar
+- espatllar
+- malmetre
+- esguerrar
+glas: got
 gondol: góndola
 graf: comte
 grand: gran
 grav: important
 halt: aturar-se, parar-se
 hav: tenir
-hejm: 
- - casa
- - llar
+hejm:
+- casa
+- llar
 help: ajudar
 hom:
- - persona
- - ésser humà
+- persona
+- ésser humà
 hor: hora
 hotel: hotel
 ide: idea
-industri: indústria 
+industri: indústria
+infan: nen, nena
+inform: informar
 instru: ensenyar, instruir
 interes: interessar
 invit: invitar, convidar
@@ -114,12 +124,13 @@ jar: any
 jun: jove
 kaf: cafè
 kalv: calv/a
+kant: cantar
 kap: cap (part superior del cos)
 kapabl: capaç
 kapt:
- - atrapar
- - capturar
- - segrestar
+- atrapar
+- capturar
+- segrestar
 kar: estimat/da, benvolgut/da
 kastel: castell
 kav: cavitat
@@ -133,13 +144,17 @@ kolor: color
 komenc: començar
 kompren: entendre
 kon: conèixer
+konsent:
+- consentir
+- estar d'acord
 kontent: satisfet/a, content/a
 kontrol:
- - controlar
- - comprovar
+- controlar
+- comprovar
 kor: cor
 korp: cos
 kost: costar
+kred: creure
 kri: cridar
 kuir: cuinar
 kuk: pastís
@@ -148,9 +163,10 @@ labor: treballar
 lakt: llet
 lamp: làmpada
 land:
- - país
- - territori
+- país
+- territori
 larĝ: ample/a
+las: deixar
 last: últim/a
 laŭt: fort/a (so)
 lecion: lliçó
@@ -159,36 +175,45 @@ lern: aprendre
 leter: carta
 liber: lliure
 libr: llibre
+lingv: llengua
 lok: lloc
 long: llarg/a (distància o temps)
+loĝ:
+- viure
+- residir
+- habitar
 lud: jugar
 lum: llum
 man: mà
+manier: manera
 mank: faltar, mancar
 manĝ: menjar
 mar: mar
 maten: matí
 memor: recordar
 met:
- - posar
- - ficar
+- posar
+- ficar
 mez: mig (ubicació)
 milit: guerra
 minut: minut
-mir: 
- - meravellar-se
- - admirar-se
- - preguntar-se
+mir:
+- meravellar-se
+- admirar-se
+- preguntar-se
 moment: moment
 mon: diners
+monat: mes
+mond: món
 mont: muntanya
 montr:
- - mostrar
- - ensenyar
+- mostrar
+- ensenyar
 mort: morir
 mov: moure
 mult: molt/a
 muzik: música
+naci: nació
 nask: engendrar
 natur: natura
 neces: necessari/a
@@ -197,19 +222,19 @@ nom: nom
 not: nota
 nov: nou/nova
 odor: fer olor
-oft: 
- - freqüent
- - sovint
+oft:
+- freqüent
+- sovint
 okaz:
- - succeir
- - esdevenir
- - passar
- - tenir lloc
+- succeir
+- passar
+- tenir lloc
 okul: ull
 onkl: oncle
 opini: opinar
 ord: ordre, endreç
 orel: orella
+organiz: organitzar
 pac: pau
 pag: pagar
 pan: pa
@@ -219,14 +244,14 @@ parol: parlar
 part: part
 pas: passar
 patr: pare
-paŝ: 
- - caminar
- - pas, passa
+paŝ:
+- caminar
+- pas, passa
 pens: pensar
 perd: perdre
-person: 
- - persona
- - personatge
+person:
+- persona
+- personatge
 pet: demanar
 pez: pesar (tenir pes)
 pied: peu
@@ -234,34 +259,51 @@ plac: plaça
 plan: pla
 plaĉ: agradar
 plen: ple/plena
-polic: policía
+plor: plorar
+pluv: ploure
+polic: policia
 pord: porta
 port: portar
 pov: poder
+poŝ: butxaca
+poŝt: correu
 pren: prendre
 pret:
- - llest, a punt
- - preparat/da
+- llest, a punt
+- preparat/da
 prezent: presentar
 problem: problema
 proksim: proper/a, pròxim/a
+proksimum: aproximat
 promen: passejar
 propon: proposar
 prov: intentar, provar
+publik: públic
+punkt: punt
+pur: net
 rajt: poder, tenir dret (a)
+rakont:
+- contar
+- narrar
+- explicar
 rapid: ràpid/a
 raport: informar
 real: real
 rekt: directe/a
-renkont: 
- - trobar-se (amb)
- - topar
+renkont:
+- trobar-se (amb)
+- topar
 respekt: respectar
 respond: respondre
 rest: romandre, quedar-se
 ricev: rebre
 rid: riure
 rigard: mirar
+rilat: relacionar-se
+rimark:
+- notar
+- observar
+- percebre
 riĉ: ric/a
 rol: paper, rol
 ruĝ: roig/roja
@@ -269,6 +311,7 @@ salt: saltar
 salut: saludar
 sam: mateix/a
 san: sà/sana
+sat: estar tip
 saĝ: savi/sàvia
 sci: saber
 sek: sec/a
@@ -276,11 +319,16 @@ sekret: secret
 sekv: seguir
 semajn: setmana
 send: enviar
+sent: sentir
 serĉ: buscar, cercar
+seĝ: seient
 si: pronom reflexiu
 sid: estar assegut, seure
 silent: callar, estar en silenci
 simil: similar, semblant
+simpl:
+- senzill
+- simple
 sinjor: senyor
 situaci: situació
 skrib: escriure
@@ -290,13 +338,14 @@ sovaĝ: salvatge
 sport: esport
 star: estar dret, dempeus
 strat: carrer
-subit: 
- - sobtat
- - de sobte
+subit:
+- sobtat
+- de sobte
 sufiĉ:
- - suficient
- - bastant
- - prou
+- suficient
+- bastant
+- prou
+suk: suc
 sukces: tenir èxit
 sun: sol (astre)
 supr: (a) dalt
@@ -308,15 +357,20 @@ temp: temps
 temperatur: temperatura
 ten: sostenir
 teror: terror
+terur: terror
 tim:
- - témer
- - tenir por
+- témer
+- tenir por
 ton: to
 trankvil: tranquil/tranquil·la
 trink: beure
 trov: trobar
 turk: turc/a
+tut:
+- sencer
+- tot
 tuŝ: tocar
+universal: universal
 urb: ciutat
 util: útil
 uz: usar, emprar
@@ -325,9 +379,9 @@ varm: calent/a
 ven: venir
 vend: vendre
 Veneci: Venècia
-ver: 
- - veritable
- - veritat
+ver:
+- veritable
+- veritat
 vesper: vespre
 vest: vestir
 vetur: anar (amb vehicle)
@@ -343,21 +397,21 @@ vok: cridar (fer venir algú, avisar)
 vol: voler
 vort: paraula
 voĉ: veu
-zorg: 
- - ocupar-se, tenir cura (de)
- - preocupar-se, amoïnar-se
+zorg:
+- ocupar-se, tenir cura (de)
+- preocupar-se, amoïnar-se
 ĉambr: habitació
 ĉef: cap (directiu)
 ĝen: molestar, fer nosa
 ĝeneral: general
-ĝoj: 
- - alegrar-se
- - estar content/a, feliç
+ĝoj:
+- alegrar-se
+- estar content/a, feliç
 ĝust: correcte
 ĵet: tirar, llançar
 ŝajn: semblar
 ŝanĝ: canviar
-ŝat: 
- - agradar
- - valorar, preuar, apreciar
+ŝat:
+- agradar
+- valorar, preuar, apreciar
 ŝip: vaixell

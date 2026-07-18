@@ -1,96 +1,71 @@
-- 
-  demando: Hoće li se uskoro otvoriti nova pošta u vašoj ulici koju ste čekali više od dvije godine?
-  rektatraduko: 
-    - Ĉu: Da li
-    - baldaŭ: uskoro
-    - la: (član)
-    - nova: nova
-    - poŝtejo: pošta
-    - en: u
-    - via: vaša
-    - strato: ulica
-    - ',' 
-    - kiun: koju
-    - vi: vi
-    - atendis: čekali ste
-    - pli: više
-    - ol: od
-    - du: dvije
-    - jarojn: godine
-    - ','
-    - malfermiĝos: će se otvoriti
-    - '?'
-- 
-  demando: Želiš li da ti pokažem svoju najdražu fotografiju?
-  rektatraduko: 
-    - Ĉu: Da li
-    - vi: ti
-    - volas: želiš
-    - ','
-    - ke: da
-    - mi: ja
-    - montru: pokažem
-    - al: k
-    - vi: ti
-    - mian: moju
-    - plej: naj
-    - karan: dražu
-    - foton: fotografiju
-    - '?'
-- 
-  demando: Gdje ste kupili ovu odjeću?
-  rektatraduko: 
-    - Kie: Gdje
-    - vi: vi
-    - aĉetis: ste kupili
-    - tiun: ovu
-    - vestaĵon: odjeću
-    - '?'
-- 
-  demando: Kamo ćeš otići u nedjelju ako bude sunčan dan?
-  rektatraduko: 
-    - Kien: Kamo
-    - vi: ti
-    - iros: ići ćeš
-    - dimanĉon: u nedjelju
-    - ',' 
-    - se: ako
-    - estos: će biti
-    - suna: sunčan
-    - tago: dan
-    - '?'
-- 
-  demando: Je li tvoj brat tužan ili ljutit; cijeli dan se nije ni nasmijao ni zapjevao s nama?
-  rektatraduko: 
-    - Ĉu: Je li
-    - via: tvoj
-    - frato: brat
-    - estas: je
-    - malĝoja: tužan
-    - aŭ: ili
-    - li: 'on'
-    - koleras: ljuti se
-    - ';' 
-    - tuttage: cijeli dan
-    - li: 'on'
-    - nek: niti
-    - ekridis: nasmijao se
-    - nek: niti
-    - ekkantis: zapjevao je
-    - kun: s
-    - ni: nama
-    - '?'
--    
-  demando: Gdje si ostavio vodu koju si to osobno donio?
-  rektatraduko: 
-    - Kie: Gdje
-    - vi: ti
-    - lasis: si ostavio
-    - la: (član)
-    - akvon: vodu
-    - ',' 
-    - kiun: koju
-    - vi: ti
-    - mem: sam
-    - alportis: donio si
-    - '?'
+- demando: Tko je imao knjigu koju ste čekali više od dvije godine?
+  rektatraduko:
+  - Kiu: Tko
+  - havis: imao je
+  - la: (član)
+  - libron: knjigu
+  - ','
+  - kiun: koju
+  - vi: vi
+  - atendis: čekali ste
+  - pli: više
+  - ol: od
+  - du: dvije
+  - jarojn: godine
+  - '?'
+- demando: Želiš li da ti pokažem svoju najdražu fotografiju?
+  rektatraduko:
+  - Ĉu: Li
+  - vi: ti
+  - volas: želiš
+  - ','
+  - ke: da
+  - mi: ja
+  - montru: pokažem
+  - al: k
+  - vi: ti
+  - mian: moju
+  - plej: naj
+  - karan: dražu
+  - foton: fotografiju
+  - '?'
+- demando: Gdje ste kupili ovu odjeću?
+  rektatraduko:
+  - Kie: Gdje
+  - vi: vi
+  - aĉetis: ste kupili
+  - tiun: ovu
+  - vestaĵon: odjeću
+  - '?'
+- demando: Kamo ćeš otići u nedjelju ako bude sunčan dan?
+  rektatraduko:
+  - Kien: Kamo
+  - vi: ti
+  - iros: ići ćeš
+  - dimanĉe: u nedjelju
+  - ','
+  - se: ako
+  - estos: će biti
+  - suna: sunčan
+  - tago: dan
+  - '?'
+- demando: Je li tvoj brat već otišao?
+  rektatraduko:
+  - Ĉu: Li
+  - via: tvoj
+  - frato: brat
+  - jam: već
+  - ekiris: krenuo je
+  - '?'
+- demando: Gdje je voda koju si sam donio?
+  rektatraduko:
+  - Kie: Gdje
+  - estas: je
+  - la: (član)
+  - akvo: voda
+  - ','
+  - kiun: koju
+  - vi: ti
+  - mem: sam
+  - kunportis: donio si
+  - '?'

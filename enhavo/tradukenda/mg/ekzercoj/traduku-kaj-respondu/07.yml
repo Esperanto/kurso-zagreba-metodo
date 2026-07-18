@@ -1,77 +1,71 @@
-- 
-  demando: "Iza  no mba nanana ny boky nandrasanareo nandritra ny roa taona mahery?"
-  rektatraduko: 
-    - Kiu: Iza 
-    - havis: no nanana
-    - la: ny
-    - libron: boky
-    - ',' 
-    - kiun: mba 
-    - vi: ianao / ianareo
-    - atendis: nandrasanareo
-    - pli: mahery 
-    - ol: ny
-    - du: roa
-    - jarojn: taona
-    - '?'
-- 
-  demando: " Moa ve mba tianao asehoko aminao ny sariko tena lafo ?"
-  rektatraduko: 
-    - Ĉu: Moa ve 
-    - vi: ianao / ianareo
-    - volas: tia
-    - ','
-    - ke: mba 
-    - mi: -ko
-    - montru: aseho
-    - al: aminy
-    - vi: ianao / ianareo
-    - mian: -ko
-    - plej: tena / kokoa
-    - karan: lafo
-    - foton: sary
-    - '?'
-- 
-  demando: " Taiza ianao no nividy ity akanjo ity ?"
-  rektatraduko: 
-    - Kie: Taiza
-    - vi: ianao / ianareo
-    - aĉetis: no nividy
-    - tiun: ity
-    - vestaĵon: akanjo
-    - '?'
-- 
-  demando: "Aiza no andehananareo raha ho alahady andro talaky masoandro ?"
-  rektatraduko: 
-    - Kien: Aiza
-    - vi: ianao / ianareo
-    - iros: no handeha
-    - dimanĉe: alahady
-    - ',' 
-    - se: raha / rehefa
-    - estos: ho
-    - suna: talaky masoandro
-    - tago: andro
-    - '?'
-- 
-  demando: " Moa ve ny rahalahinao dia efa lasa sahady ?"
-  rektatraduko: 
-    - Ĉu: Moa ve 
-    - via: ianao / ianareo
-    - frato: rahalahy
-    - jam: sahady
-    - ekiris: dia efa lasa
-    - '?'
-- 
-  demando: "Aiza ny rano nalainao ?"
-  rektatraduko: 
-    - Kie: Aiza
-    - estas: "no"
-    - la: ny
-    - akvo: rano
-    - ',' 
-    - kiun: ""
-    - vi: ianao / ianareo
-    - mem: ihany
-    - kunportis: nalaina
-    - '?'
+- demando: Iza  no mba nanana ny boky nandrasanareo nandritra ny roa taona mahery?
+  rektatraduko:
+  - Kiu: Iza
+  - havis: no nanana
+  - la: ny
+  - libron: boky
+  - ','
+  - kiun: mba
+  - vi: ianao / ianareo
+  - atendis: nandrasanareo
+  - pli: mahery
+  - ol: ny
+  - du: roa
+  - jarojn: taona
+  - '?'
+- demando: ' Moa ve mba tianao asehoko aminao ny sariko tena lafo ?'
+  rektatraduko:
+  - Ĉu: Moa ve
+  - vi: ianao / ianareo
+  - volas: tia
+  - ','
+  - ke: mba
+  - mi: -ko
+  - montru: aseho
+  - al: aminy
+  - vi: ianao / ianareo
+  - mian: -ko
+  - plej: tena / kokoa
+  - karan: lafo
+  - foton: sary
+  - '?'
+- demando: ' Taiza ianao no nividy ity akanjo ity ?'
+  rektatraduko:
+  - Kie: Taiza
+  - vi: ianao / ianareo
+  - aĉetis: no nividy
+  - tiun: ity
+  - vestaĵon: akanjo
+  - '?'
+- demando: Aiza no andehananareo raha ho alahady andro talaky masoandro ?
+  rektatraduko:
+  - Kien: Aiza
+  - vi: ianao / ianareo
+  - iros: no handeha
+  - dimanĉe: alahady
+  - ','
+  - se: raha / rehefa
+  - estos: ho
+  - suna: talaky masoandro
+  - tago: andro
+  - '?'
+- demando: ' Moa ve ny rahalahinao dia efa lasa sahady ?'
+  rektatraduko:
+  - Ĉu: Moa ve
+  - via: ianao / ianareo
+  - frato: rahalahy
+  - jam: sahady
+  - ekiris: dia efa lasa
+  - '?'
+- demando: Aiza ny rano nalainao ?
+  rektatraduko:
+  - Kie: Aiza
+  - estas: 'no'
+  - la: ny
+  - akvo: rano
+  - ','
+  - kiun: izay
+  - vi: ianao / ianareo
+  - mem: ihany
+  - kunportis: nalaina
+  - '?'

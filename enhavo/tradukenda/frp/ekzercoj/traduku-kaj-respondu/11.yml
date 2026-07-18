@@ -1,54 +1,49 @@
-- 
-  demando: Pouvez-vous apporter le médicament de ma soeur ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - povas: pouvez
-    - kunporti: apporter
-    - la: le
-    - sanigilon: médicament
-    - de: de
-    - mia: ma
-    - fratino: sœur
-    - '?'
-- 
-  demando: Quand as-tu acheté cet instrument de musique ?
-  rektatraduko: 
-    - Kiam: Quand
-    - vi: tu
-    - aĉetis: as acheté
-    - tiun: ce, cet
-    - muzikilon: instrument de musique
-    - '?'
-- 
-  demando: Qui a utilisé ma clé dernièrement ?
-  rektatraduko: 
-    - Kiu: Qui
-    - laste: dernièrement
-    - uzis: a utilisé
-    - mian: ma
-    - ŝlosilon: clé
-    - '?'
-- 
-  demando: Vous êtes-vous déplacés à Venise en gondole aussi ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - en: à, dans
-    - Venecio: Venise
-    - veturis: êtes déplacés
-    - ankaŭ: aussi
-    - per: en
-    - gondolo: gondole
-    - '?'
-- 
-  demando: "Est-ce que pourra t'endormir quand ce sera silencieux ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - povos: pourras
-    - ekdormi: "[t'] endormir"
-    - ',' 
-    - kiam: quand 
-    - silentiĝis: "ce sera silencieux (litt. c'est devenu silencieux)"
-    - '?'
+- demando: Pouvéd-vos aportar lo remèdo de ma seror?
+  rektatraduko:
+  - Ĉu: Se
+  - vi: vos
+  - povas: pouvéd
+  - kunporti: aportar
+  - la: lo
+  - sanigilon: remèdo
+  - de: de
+  - mia: ma
+  - fratino: seror
+  - '?'
+- demando: Quand as-tu achetâ ceti instrument de musica?
+  rektatraduko:
+  - Kiam: Quand
+  - vi: tu
+  - aĉetis: as achetâ
+  - tiun: ceti
+  - muzikilon: instrument de musica
+  - '?'
+- demando: Qui at utilisâ ma cllâf derniérement?
+  rektatraduko:
+  - Kiu: Qui
+  - laste: derniérement
+  - uzis: at utilisâ
+  - mian: ma
+  - ŝlosilon: cllâf
+  - '?'
+- demando: Avéd-vos asse-ben voyagiê a Venécia en gondola?
+  rektatraduko:
+  - Ĉu: Se
+  - vi: vos
+  - en: en
+  - Venecio: Venécia
+  - veturis: avéd voyagiê
+  - ankaŭ: asse-ben
+  - per: en
+  - gondolo: gondola
+  - '?'
+- demando: Porrâs-tu t'endormir quand tot devendrat silencios?
+  rektatraduko:
+  - Ĉu: Se
+  - vi: tu
+  - povos: porrâs
+  - ekdormi: t'endormir
+  - ','
+  - kiam: quand
+  - silentiĝos: devendrat silencios
+  - '?'

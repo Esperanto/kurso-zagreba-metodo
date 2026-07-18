@@ -1,77 +1,71 @@
-- 
-  demando: Siapakah yang telah mempunyai buku itu yang awak telah menunggu lebih daripada 2 tahun?
-  rektatraduko: 
-    - Kiu: Siapakah
-    - havis: telah mempunyai
-    - la: itu
-    - libron: buku
-    - ',' 
-    - kiun: siapa
-    - vi: awak
-    - atendis: telah menunggu
-    - pli: lebih
-    - ol: daripada
-    - du: dua
-    - jarojn: tahun
-    - '?'
-- 
-  demando: Adakah awak mahu  menunjukkan kepada awak gambar yang paling saya sayangi ?
-  rektatraduko: 
-    - Ĉu: Adakah
-    - vi: awak
-    - volas: mahu
-    - ','
-    - ke: bahawa
-    - mi: saya
-    - montru: menunujukkan
-    - al: kepada
-    - vi: awak
-    - mian: saya punya
-    - plej: paling
-    - karan: sayang
-    - foton: gambar
-    - '?'
-- 
-  demando: Di manakah awak membeli pakaian itu ?
-  rektatraduko: 
-    - Kie: Di mana
-    - vi: awak
-    - aĉetis: membeli
-    - tiun: itu
-    - vestaĵon: pakaian
-    - '?'
-- 
-  demando: Ke mana awak akan pergi pada hari Ahad jika ia adalah hari yang cerah?
-  rektatraduko: 
-    - Kien: ke mana
-    - vi: awak
-    - iros: akan pergi
-    - dimanĉe: hari Ahad
-    - ',' 
-    - se: jika
-    - estos: ialah
-    - suna: cerah
-    - tago: hari
-    - '?'
-- 
-  demando: Adakah adik/abang awak sudah pergi segera ?
-  rektatraduko: 
-    - Ĉu: Adakah
-    - via: awak
-    - frato: adik/abang
-    - jam: sudah
-    - ekiris: pergi segera
-    - '?'
-- 
-  demando: Di mana air yang kamu bawa diri sendiri ?
-  rektatraduko: 
-    - Kie: Di mana
-    - estas:ialah
-    - la: itu,ini
-    - akvo: air
-    - ',' 
-    - kiun: siapa
-    - vi: kamu
-    - mem: diri sendiri
-    - kunportis: bawah bersama
-    - '?'
+- demando: Siapakah yang telah mempunyai buku itu yang awak telah menunggu lebih daripada 2 tahun?
+  rektatraduko:
+  - Kiu: Siapakah
+  - havis: telah mempunyai
+  - la: itu
+  - libron: buku
+  - ','
+  - kiun: siapa
+  - vi: awak
+  - atendis: telah menunggu
+  - pli: lebih
+  - ol: daripada
+  - du: dua
+  - jarojn: tahun
+  - '?'
+- demando: Adakah awak mahu  menunjukkan kepada awak gambar yang paling saya sayangi ?
+  rektatraduko:
+  - Ĉu: Adakah
+  - vi: awak
+  - volas: mahu
+  - ','
+  - ke: bahawa
+  - mi: saya
+  - montru: menunujukkan
+  - al: kepada
+  - vi: awak
+  - mian: saya punya
+  - plej: paling
+  - karan: sayang
+  - foton: gambar
+  - '?'
+- demando: Di manakah awak membeli pakaian itu ?
+  rektatraduko:
+  - Kie: Di mana
+  - vi: awak
+  - aĉetis: membeli
+  - tiun: itu
+  - vestaĵon: pakaian
+  - '?'
+- demando: Ke mana awak akan pergi pada hari Ahad jika ia adalah hari yang cerah?
+  rektatraduko:
+  - Kien: ke mana
+  - vi: awak
+  - iros: akan pergi
+  - dimanĉe: hari Ahad
+  - ','
+  - se: jika
+  - estos: ialah
+  - suna: cerah
+  - tago: hari
+  - '?'
+- demando: Adakah saudara lelaki awak sudah berangkat?
+  rektatraduko:
+  - Ĉu: Adakah
+  - via: awak
+  - frato: adik/abang
+  - jam: sudah
+  - ekiris: pergi segera
+  - '?'
+- demando: Di mana air yang kamu bawa diri sendiri ?
+  rektatraduko:
+  - Kie: Di mana
+  - estas: ialah
+  - la: itu,ini
+  - akvo: air
+  - ','
+  - kiun: siapa
+  - vi: kamu
+  - mem: diri sendiri
+  - kunportis: bawah bersama
+  - '?'

@@ -1,49 +1,50 @@
-kio: wat
-tio: dat (dit)
-io: iets
-ĉio: alles
-nenio: niets
-kiu: wie
-tiu: die
-iu: iemand
-ĉiu: iedereen
-neniu: niemand
-kie: waar
-tie: daar
-ie: ergens
-ĉie: overal
-nenie: nergens
-kia: 
-- welke soort
-- wat voor
-tia: zulke
 ia: eender welke soort
-ĉia: alle soorten
-nenia: geen enkele soort
-kiel: hoe
-tiel: zo
-iel: op een of andere manier
-ĉiel: op alle manieren
-neniel: op geen enkele manier
-kial: waarom
-tial: daarom
 ial: om een of andere reden
-ĉial: om alle redenen
-nenial: om geen enkele reden
-kiam: wanneer
-tiam: dan
 iam: ooit
-ĉiam: altijd
-neniam: nooit
-kiom: hoeveel
-tiom: zoveel
+ie: ergens
+iel: op een of andere manier
+ies: iemands
+io: iets
 iom:
 - een zekere hoeveelheid
 - een beetje
-ĉiom: de hele hoeveelheid
-neniom: niets
+iu: iemand
+kia:
+- welke soort
+- wat voor
+kial: waarom
+kiam: wanneer
+kie: waar
+kiel: hoe
+kien: waarheen, waar naartoe
 kies: wiens
-ties: diens
-ies: iemands
-ĉies: ieders
+kio: wat
+kiom: hoeveel
+kiu: wie
+nenia: geen enkele soort
+nenial: om geen enkele reden
+neniam: nooit
+nenie: nergens
+neniel: op geen enkele manier
 nenies: niemands
+nenio: niets
+neniom: niets
+neniu: niemand
+tia: zulke
+tial: daarom
+tiam: dan
+tie: daar
+tiel: zo
+ties: diens
+tio: dat (dit)
+tiom: zoveel
+tiu: die
+ĉia: alle soorten
+ĉial: om alle redenen
+ĉiam: altijd
+ĉie: overal
+ĉiel: op alle manieren
+ĉies: ieders
+ĉio: alles
+ĉiom: de hele hoeveelheid
+ĉiu: iedereen

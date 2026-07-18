@@ -1,27 +1,27 @@
-unu: один
-du: два
-tri: три
-kvar: чотири
-kvin: п'ять
-ses: шість
-sep: сім
-ok: вісім
-naŭ: дев'ять
-dek: десять
-dek unu: одинадцять
-dek du: дванадцять
-dek tri: тринадцять
-dek kvar: чотирнадцять
-dek kvin: п'ятнадцять 
-dek ses: шістнадцять 
-dek sep: сімнадцять
-dek ok: вісімнадцять
-dek naŭ: дев'ятнадцять
-dudek: двадцять
-tridek: тридцять
-kvardek: сорок
 cent: сто
+dek: десять
+dek du: дванадцять
+dek kvar: чотирнадцять
+dek kvin: п'ятнадцять
+dek naŭ: дев'ятнадцять
+dek ok: вісімнадцять
+dek sep: сімнадцять
+dek ses: шістнадцять
+dek tri: тринадцять
+dek unu: одинадцять
+du: два
 ducent: двісті
-tricent: триста
-mil: тисяча
+dudek: двадцять
 dumil: дві тисячі
+kvar: чотири
+kvardek: сорок
+kvin: п'ять
+mil: тисяча
+naŭ: дев'ять
+ok: вісім
+sep: сім
+ses: шість
+tri: три
+tricent: триста
+tridek: тридцять
+unu: один

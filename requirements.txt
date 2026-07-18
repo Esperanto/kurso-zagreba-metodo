@@ -4,27 +4,77 @@
 #
 #    pip-compile --output-file=requirements.txt --strip-extras requirements.in
 #
+attrs==26.1.0
+    # via
+    #   jsonschema
+    #   referencing
 cached-property==1.5.2
     # via genanki
+certifi==2026.6.17
+    # via requests
+charset-normalizer==3.4.7
+    # via requests
+check-jsonschema==0.36.2
+    # via -r requirements.in
 chevron==0.14.0
     # via
     #   -r requirements.in
     #   genanki
+click==8.1.8
+    # via check-jsonschema
 frozendict==2.3.8
     # via genanki
 genanki==0.13.0
     # via -r requirements.in
+idna==3.18
+    # via requests
+importlib-metadata==8.7.1
+    # via mdformat
 jinja2==3.1.6
     # via -r requirements.in
+jsonschema==4.25.1
+    # via check-jsonschema
+jsonschema-specifications==2025.9.1
+    # via jsonschema
+markdown-it-py==3.0.0
+    # via mdformat
 markupsafe==2.0.1
     # via
     #   -r requirements.in
     #   jinja2
+mdformat==0.7.22
+    # via -r requirements.in
+mdurl==0.1.2
+    # via markdown-it-py
 mistune==3.2.1
     # via -r requirements.in
 pyyaml==6.0.3
     # via
     #   -r requirements.in
     #   genanki
+referencing==0.36.2
+    # via
+    #   jsonschema
+    #   jsonschema-specifications
+regress==2025.5.1
+    # via check-jsonschema
+requests==2.32.5
+    # via check-jsonschema
+rpds-py==0.27.1
+    # via
+    #   jsonschema
+    #   referencing
+ruamel-yaml==0.19.1
+    # via check-jsonschema
+tomli==2.4.1
+    # via
+    #   check-jsonschema
+    #   mdformat
 typing-extensions==4.15.0
-    # via mistune
+    # via
+    #   mistune
+    #   referencing
+urllib3==2.6.3
+    # via requests
+zipp==3.23.1
+    # via importlib-metadata

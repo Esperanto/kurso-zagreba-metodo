@@ -1,0 +1,67 @@
+- demando: Noiz ikusiko zaitut berriro?
+  rektatraduko:
+  - Kiam: Noiz
+  - mi: nik
+  - revidos: berriro ikusiko dut
+  - vin: zu
+  - '?'
+- demando: Zenbat denboraz ari zara nazioarteko hizkuntza ikasten?
+  rektatraduko:
+  - Kiom: Zenbat
+  - longe: luze
+  - vi: zu
+  - lernas: ikasten duzu
+  - la: artikulu zehatza
+  - Internacian: nazioarteko
+  - Lingvon: hizkuntza
+  - '?'
+- demando: Non dago argazkiak dituen nire liburu berria?
+  rektatraduko:
+  - Kie: Non
+  - estas: dago
+  - mia: nire
+  - nova: berri
+  - libro: liburu
+  - kun: -ekin
+  - fotoj: argazkiak
+  - '?'
+- demando: Nora joango zara bazkaldu ondoren?
+  rektatraduko:
+  - Kien: Nora
+  - vi: zu
+  - iros: joango zara
+  - post: ondoren
+  - la: artikulu zehatza
+  - tagmanĝo: bazkari
+  - '?'
+- demando: Hotz dagoenean gelako atea itxi daiteke?
+  rektatraduko:
+  - Ĉu: Ea
+  - oni: jendeak
+  - povas: ahal da
+  - fermi: itxi
+  - la: artikulu zehatza
+  - pordon: ate
+  - de: -ren
+  - la: artikulu zehatza
+  - ĉambro: gela
+  - ','
+  - kiam: noiz
+  - estas: dago
+  - malvarme: hotz
+  - '?'
+- demando: Zenbat denboraz egoten zara haserre norbaitek diru asko kentzen badizu?
+  rektatraduko:
+  - Kiom: Zenbat
+  - longe: luze
+  - vi: zu
+  - koleras: haserre zaude
+  - ','
+  - se: baldin
+  - oni: norbaitek
+  - forprenas: kentzen du
+  - de: -tik
+  - vi: zu
+  - multan: asko
+  - monon: diru
+  - '?'

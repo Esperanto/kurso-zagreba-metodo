@@ -1,57 +1,51 @@
-- 
-  demando: Who is your female friend?
+- demando: jan pona sina li jan seme?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: female friend
-    - '?'
-- 
-  demando: Is your friend Anna now writing in the room?
+  - Kiu: jan seme
+  - estas: li lon
+  - via: sina
+  - amikino: jan pona meli
+  - '?'
+- demando: jan pona sina Ana li sitelen lon tomo lon tenpo ni anu seme?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: female friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
-    - '?'
-- 
-  demando: Does the friend of your father work in a hotel?
+  - Ĉu: anu seme
+  - via: sina
+  - amikino: jan pona meli
+  - Ana: jan Ana
+  - skribas: li sitelen
+  - nun: lon tenpo ni
+  - en: lon
+  - la: ni
+  - ĉambro: tomo
+  - '?'
+- demando: jan pona pi mama mije sina li pali lon tomo lape anu seme?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
-    - '?'
-- 
-  demando: What is on the work-bench in our room?
+  - Ĉu: anu seme
+  - la: ni
+  - amiko: jan pona
+  - de: pi
+  - via: sina
+  - patro: mama mije
+  - laboras: li pali
+  - en: lon
+  - hotelo: tomo lape
+  - '?'
+- demando: ijo seme li lon supa pali lon tomo mi mute?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
-    - '?'
-- 
-  demando: Is there an Esperanto textbook on your table?
+  - Kio: ijo seme
+  - estas: li lon
+  - sur: lon sewi
+  - la: ni
+  - labortablo: supa pali
+  - en: lon
+  - nia: mi mute
+  - ĉambro: tomo
+  - '?'
+- demando: lipu sona Esperanto li lon supa sina anu seme?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto-textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
-    - '?'
-
+  - Ĉu: anu seme
+  - Esperanto-lernolibro: lipu sona Esperanto
+  - estas: li lon
+  - sur: lon sewi
+  - via: sina
+  - tablo: supa
+  - '?'

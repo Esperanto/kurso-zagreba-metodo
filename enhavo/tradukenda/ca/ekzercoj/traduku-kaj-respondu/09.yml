@@ -1,72 +1,70 @@
-- 
-  demando: Què és el que més podria posar contents els teus pares?
-  rektatraduko: 
-    - Kio: Què
-    - povus: podria
-    - plej: més
-    - ĝojigi: posar contents
-    - viajn: els teus
-    - gepatrojn: pares
-    - '?'
-- 
-  demando: Tant de bo anessis amb mi al centre després de la lliçó!
-  rektatraduko: 
-    - Se: Si
-    - almenaŭ: almenys
-    - vi: tu
-    - post: després de
-    - la: les 
-    - leciono: lliçó
-    - irus: anessis
-    - kun: amb
-    - mi: mi
-    - en: a
-    - la: el 
-    - centron: centre
-    - '!'
-- 
-  demando: On desitjaries viatjar si tinguessis suficients diners i temps?
-  rektatraduko: 
-    - Kien: A on
-    - vi: a tu
-    - dezirus: desitjaries
-    - vojaĝi: viatjar
-    - ',' 
-    - se: si
-    - vi: tu
-    - havus: tinguessis
-    - sufiĉe: suficients
-    - da: de
-    - mono: diners
-    - kaj: i
-    - tempo: temps
-    - '?'
-- 
-  demando: Viatges amb el cotxe a París o millor amb el tren?
-  rektatraduko: 
-    - Ĉu: ¿
-    - vi: Tu
-    - vojaĝas: viatges
-    - per: amb
-    - la: el
-    - aŭto: cotxe
-    - al: a
-    - Parizo: París
-    - aŭ: o
-    - pli: més
-    - bone: bé
-    - per: amb
-    - la: el
-    - vagonaro: tren
-    - '?'
-- 
-  demando: Per què persones diferents expliquen unes mateixes idees de manera diferent?
-  rektatraduko: 
-    - Kial: Per què
-    - diversaj: diferents
-    - homoj: persones
-    - klarigas: expliquen
-    - samajn: unes mateixes
-    - ideojn: idees
-    - diversmaniere: de manera diferent 
-    - '?'
+- demando: Què és el que més podria posar contents els teus pares?
+  rektatraduko:
+  - Kio: Què
+  - povus: podria
+  - plej: més
+  - ĝojigi: posar contents
+  - viajn: els teus
+  - gepatrojn: pares
+  - '?'
+- demando: Tant de bo anessis amb mi a la ciutat després d'estudiar!
+  rektatraduko:
+  - Se: Si
+  - almenaŭ: almenys
+  - vi: tu
+  - post: després de
+  - la: la
+  - lernado: estudiar
+  - irus: anessis
+  - kun: amb
+  - mi: mi
+  - en: a
+  - la: el
+  - urbon: ciutat
+  - '!'
+- demando: On desitjaries viatjar si tinguessis suficients diners i temps?
+  rektatraduko:
+  - Kien: 'On'
+  - vi: tu
+  - dezirus: desitjaries
+  - vojaĝi: viatjar
+  - ','
+  - se: si
+  - vi: tu
+  - havus: tinguessis
+  - sufiĉe: prou
+  - da: de
+  - mono: diners
+  - kaj: i
+  - tempo: temps
+  - '?'
+- demando: Penses viatjar amb cotxe a Itàlia o no et sembla molt millor amb tren?
+  rektatraduko:
+  - Ĉu: Que
+  - vi: Tu
+  - planas: penses
+  - veturi: viatjar
+  - al: a
+  - Italio: Itàlia
+  - per: amb
+  - aŭto: cotxe
+  - aŭ: o
+  - ĉu: si
+  - ne: 'no'
+  - ŝajnas: sembla
+  - multe: molt
+  - pli: més
+  - bone: bé
+  - per: amb
+  - vagonaro: tren
+  - '?'
+- demando: Per què persones diferents expliquen unes mateixes idees de manera diferent?
+  rektatraduko:
+  - Kial: Per què
+  - diversaj: diferents
+  - homoj: persones
+  - klarigas: expliquen
+  - samajn: unes mateixes
+  - ideojn: idees
+  - diversmaniere: de manera diferent
+  - '?'

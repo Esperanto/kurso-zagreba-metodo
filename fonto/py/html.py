@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+from datetime import datetime, timezone
 from pathlib import Path
 import re
 import shutil
@@ -21,12 +22,49 @@ from . import pwa
 ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
+AKTIVOJ_DIST_DIR = FONTO_DIR / 'aktivoj' / 'dist'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
+SITE_NAME = 'Esperanto12.net'
 SITE_URL = 'https://esperanto12.net'
 GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
 LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
+OG_LOCALE_OVERRIDES = {
+    'ar': 'ar_SA',
+    'ca': 'ca_ES',
+    'cs': 'cs_CZ',
+    'da': 'da_DK',
+    'de': 'de_DE',
+    'el': 'el_GR',
+    'en': 'en_US',
+    'es': 'es_ES',
+    'fa': 'fa_IR',
+    'fr': 'fr_FR',
+    'ga': 'ga_IE',
+    'he': 'he_IL',
+    'hr': 'hr_HR',
+    'hu': 'hu_HU',
+    'id': 'id_ID',
+    'is': 'is_IS',
+    'it': 'it_IT',
+    'ja': 'ja_JP',
+    'ko': 'ko_KR',
+    'ms': 'ms_MY',
+    'nl': 'nl_NL',
+    'pl': 'pl_PL',
+    'pt': 'pt_PT',
+    'ru': 'ru_RU',
+    'sk': 'sk_SK',
+    'sl': 'sl_SI',
+    'sv': 'sv_SE',
+    'th': 'th_TH',
+    'tr': 'tr_TR',
+    'uk': 'uk_UA',
+    'vi': 'vi_VN',
+    'zh': 'zh_CN',
+    'zh-tw': 'zh_TW',
+}
 LLMS_FULL_PRINTENDAJ = {
     'partoj': (
         'teksto',
@@ -41,11 +79,13 @@ LLMS_FULL_PRINTENDAJ = {
     ),
     'lecionoj': tuple(range(1, 13)),
 }
+BUILD_TIME = None
 
 ET.register_namespace('', SITEMAP_NS)
 
 
 def morfema_emfazo(md):
+    # Retrokongrue subtenu malnovan morfem-markadon kiel *lern__i__*.
     def parse_morfema_emfazo(inline, match, state):
         child_state = state.copy()
         child_state.src = match.group('morfemo')
@@ -65,7 +105,7 @@ def morfema_emfazo(md):
 
 class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
     def __init__(self):
-        super().__init__()
+        super().__init__(escape=False)
         self._uzitaj_ankroj = {}
 
     def heading(self, text, level, **attrs):
@@ -166,6 +206,16 @@ def og_bildo_url(lingvo):
     return f'{SITE_URL}/assets/img/og.png'
 
 
+def og_audio_datenoj(leciono_index):
+    dosiernomo = str(leciono_index).zfill(2) + '.ogg'
+    if not (FONTO_DIR / 'sonoj' / 'ogg' / dosiernomo).is_file():
+        return None
+    return {
+        'url': absoluta_url('/assets/ogg/' + dosiernomo),
+        'type': 'audio/ogg',
+    }
+
+
 def absoluta_url(vojo):
     if not vojo.startswith('/'):
         vojo = '/' + vojo
@@ -177,6 +227,22 @@ def pretaj_lingvokodoj(lingvoj):
         kodo
         for kodo, lingvo in sorted(lingvoj.items())
         if lingvo.get('stato') == 'preta'
+    ]
+
+
+def og_locale(lingvokodo):
+    return OG_LOCALE_OVERRIDES.get(lingvokodo, lingvokodo.replace('-', '_'))
+
+
+def alternaj_og_localej(lingvoj, nuna_lingvo):
+    nuna_locale = og_locale(nuna_lingvo)
+    return [
+        locale
+        for locale in [
+            og_locale(kodo)
+            for kodo in pretaj_lingvokodoj(lingvoj)
+        ]
+        if locale != nuna_locale
     ]
 
 
@@ -214,22 +280,34 @@ def alternaj_ligiloj(lingvoj, relativa_vojo, inkluzivu_x_default=True):
     return alternaj
 
 
-def seo_datenoj(enhavo, relativa_vojo=''):
+def seo_datenoj(enhavo, relativa_vojo='', og_audio=None):
     lingvo = enhavo['lingvo']
     stato = enhavo['lingvoj'][lingvo].get('stato')
     alternaj = []
     if stato == 'preta':
         alternaj = alternaj_ligiloj(enhavo['lingvoj'], relativa_vojo)
 
+    meta_description = meta_description_from_markdown(enhavo['enkonduko'])
+    canonical_url = absoluta_url(lingva_vojo(lingvo, relativa_vojo))
     return {
-        'canonical_url': absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
+        'canonical_url': canonical_url,
         'alternaj_ligiloj': alternaj,
-        'meta_description': meta_description_from_markdown(enhavo['enkonduko']),
+        'og_url': canonical_url,
+        'og_site_name': SITE_NAME,
+        'og_locale': og_locale(lingvo),
+        'og_locale_alternativoj': (
+            alternaj_og_localej(enhavo['lingvoj'], lingvo)
+            if stato == 'preta'
+            else []
+        ),
+        'og_description': meta_description,
+        'og_audio': og_audio,
+        'meta_description': meta_description,
         'noindex': stato == 'testa',
     }
 
 
-def hejma_seo_datenoj(hejmaj_lingvoj):
+def hejma_seo_datenoj(hejmaj_lingvoj, meta_description):
     lingvokodoj = sorted(lingvo['kodo'] for lingvo in hejmaj_lingvoj)
     alternaj = [
         {
@@ -246,6 +324,16 @@ def hejma_seo_datenoj(hejmaj_lingvoj):
     return {
         'canonical_url': absoluta_url('/'),
         'alternaj_ligiloj': alternaj,
+        'og_url': absoluta_url('/'),
+        'og_site_name': SITE_NAME,
+        'og_description': meta_description,
+        'og_locale': og_locale('en'),
+        'og_locale_alternativoj': [
+            og_locale(kodo)
+            for kodo in lingvokodoj
+            if og_locale(kodo) != og_locale('en')
+        ],
+        'og_audio': None,
         'noindex': False,
     }
 
@@ -408,10 +496,12 @@ def render_lingva_llms_full(enhavo, enkonduko):
     )
 
 
-def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None):
+def render_page(name, enhavo, vojprefikso, env, redaktaj_ligiloj=None, lingvoelektilo_vojprefikso='/'):
     rendered = env.get_template(name + '.html').render(
         enhavo=enhavo,
         vojprefikso=vojprefikso,
+        lingvoelektilo_vojprefikso=lingvoelektilo_vojprefikso,
+        identigilo=name + '/',
         redaktaj_ligiloj=redaktaj_ligiloj or [],
         seo=seo_datenoj(enhavo, name + '/'),
     )
@@ -525,30 +615,46 @@ def write_file(filename, content):
     path.write_text(content, encoding='utf-8')
 
 
-def copy_vendor_file(fonto, celo):
-    if not fonto.is_file():
-        raise SystemExit(
-            'Mankas npm-vendordosiero ' + str(fonto) + '. Rulu `make install`.'
-        )
-
-    celo.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(fonto, celo)
-
-
-def get_version_hash():
+def get_version_commit():
     github_sha = os.environ.get('GITHUB_SHA')
     if github_sha:
-        return github_sha[:7]
+        return github_sha
 
     try:
         return subprocess.check_output(
-            ['git', 'rev-parse', '--short=7', 'HEAD'],
+            ['git', 'rev-parse', 'HEAD'],
             cwd=str(ROOT_DIR),
             stderr=subprocess.DEVNULL,
             text=True
         ).strip()
     except (OSError, subprocess.CalledProcessError):
-        return 'nekonata'
+        return None
+
+
+def get_version_hash():
+    commit = get_version_commit()
+    if commit:
+        return commit[:7]
+
+    return 'nekonata'
+
+
+def get_build_date():
+    build_time = get_build_time()
+    return build_time.strftime('%Y-%m-%d %H:%M Z')
+
+
+def get_build_date_iso():
+    build_time = get_build_time()
+    return build_time.strftime('%Y-%m-%dT%H:%MZ')
+
+
+def get_build_time():
+    global BUILD_TIME
+    if BUILD_TIME is None:
+        BUILD_TIME = datetime.now(timezone.utc)
+
+    return BUILD_TIME
 
 
 def aldonu_karton(deck, model, enhavo, radiko, leciono=None):
@@ -646,7 +752,7 @@ def render_hejmo(versio, meta_description, hejmaj_lingvoj):
     return env.get_template('hejmo.html').render(
         hejmaj_lingvoj=hejmaj_lingvoj,
         meta_description=meta_description,
-        seo=hejma_seo_datenoj(hejmaj_lingvoj),
+        seo=hejma_seo_datenoj(hejmaj_lingvoj, meta_description),
         site_url=SITE_URL,
         versio=versio,
     )
@@ -654,32 +760,8 @@ def render_hejmo(versio, meta_description, hejmaj_lingvoj):
 
 def copy_static_files(versio, meta_description, hejmaj_lingvoj):
     static_dirs = [
-        (FONTO_DIR / 'css', OUTPUT_DIR / 'assets' / 'css'),
-        (FONTO_DIR / 'js', OUTPUT_DIR / 'assets' / 'js'),
         (FONTO_DIR / 'sonoj' / 'mp3', OUTPUT_DIR / 'assets' / 'mp3'),
         (FONTO_DIR / 'sonoj' / 'ogg', OUTPUT_DIR / 'assets' / 'ogg'),
-    ]
-    vendor_files = [
-        (
-            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'css' / 'bootstrap.min.css',
-            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'css' / 'bootstrap.min.css',
-        ),
-        (
-            NODE_MODULES_DIR / 'bootstrap' / 'dist' / 'js' / 'bootstrap.bundle.min.js',
-            OUTPUT_DIR / 'vendor' / 'bootstrap' / 'js' / 'bootstrap.bundle.min.js',
-        ),
-        (
-            NODE_MODULES_DIR / 'jquery' / 'dist' / 'jquery.min.js',
-            OUTPUT_DIR / 'vendor' / 'jquery' / 'jquery.min.js',
-        ),
-        (
-            NODE_MODULES_DIR / 'jquery-ui-dist' / 'jquery-ui.min.js',
-            OUTPUT_DIR / 'vendor' / 'jquery' / 'jquery-ui.min.js',
-        ),
-        (
-            NODE_MODULES_DIR / 'typeahead.js' / 'dist' / 'typeahead.bundle.min.js',
-            OUTPUT_DIR / 'vendor' / 'typeahead' / 'typeahead.bundle.min.js',
-        ),
     ]
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -691,6 +773,7 @@ def copy_static_files(versio, meta_description, hejmaj_lingvoj):
         str(OUTPUT_DIR / 'llms.txt'),
         render_llms_index(hejmaj_lingvoj, meta_description),
     )
+    shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon-120x120.png', OUTPUT_DIR / 'favicon-120x120.png')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'favicon.ico', OUTPUT_DIR / 'favicon.ico')
     shutil.copy2(FONTO_DIR / 'bildoj' / 'logo' / 'apple-touch-icon.png', OUTPUT_DIR / 'apple-touch-icon.png')
     pwa.copy_static_assets(OUTPUT_DIR)
@@ -706,24 +789,22 @@ def copy_static_files(versio, meta_description, hejmaj_lingvoj):
         ignore=shutil.ignore_patterns('icon-192.png', 'icon-512.png'),
     )
 
-    shutil.rmtree(OUTPUT_DIR / 'vendor', ignore_errors=True)
-    for fonto, celo in vendor_files:
-        copy_vendor_file(fonto, celo)
-
-    fira_fonto = NODE_MODULES_DIR / '@fontsource' / 'fira-sans'
-    fira_celo = OUTPUT_DIR / 'vendor' / 'fira-sans'
-    if not fira_fonto.is_dir():
-        raise SystemExit('Mankas @fontsource/fira-sans. Rulu `make install`.')
-    fira_celo.mkdir(parents=True, exist_ok=True)
-    for pezo in ('400', '700'):
-        shutil.copy2(fira_fonto / f'{pezo}.css', fira_celo / f'{pezo}.css')
-    (fira_celo / 'files').mkdir(parents=True, exist_ok=True)
-    for f in (fira_fonto / 'files').glob('fira-sans-*-[47]00-normal.*'):
-        shutil.copy2(f, fira_celo / 'files' / f.name)
+    # Kopiu la esbuild-pakaĵojn (vd. fonto/aktivoj/bundlo.mjs).
+    if not (AKTIVOJ_DIST_DIR / 'bundle.css').is_file():
+        raise SystemExit('Mankas la pakaĵoj en ' + str(AKTIVOJ_DIST_DIR) + '. Rulu `make bundle`.')
+    assets_dir = OUTPUT_DIR / 'assets'
+    assets_dir.mkdir(parents=True, exist_ok=True)
+    for nomo in ('bundle.css', 'bundle.js', 'hejmo.js'):
+        shutil.copy2(AKTIVOJ_DIST_DIR / nomo, assets_dir / nomo)
+    shutil.rmtree(assets_dir / 'files', ignore_errors=True)
+    shutil.copytree(AKTIVOJ_DIST_DIR / 'files', assets_dir / 'files')
 
 
-def generate_pwa():
-    pwa.write_service_worker(OUTPUT_DIR, get_version_hash())
+def generate_pwa(lingvoj):
+    version = get_version_hash()
+    for lingvo in lingvoj:
+        if (OUTPUT_DIR / lingvo).is_dir():
+            pwa.write_service_worker(OUTPUT_DIR, lingvo, version)
 
 
 def generate_html(
@@ -734,8 +815,13 @@ def generate_html(
     hejmaj_lingvoj=None,
 ):
     eligo = {}
-    versio = get_version_hash()
+    version_commit = get_version_commit()
+    versio = version_commit[:7] if version_commit else 'nekonata'
     enhavo['versio'] = versio
+    enhavo['versio_dato'] = get_build_date()
+    enhavo['versio_dato_iso'] = get_build_date_iso()
+    enhavo['havas_pwa'] = True
+    enhavo['pwa_theme_color'] = pwa.PWA_THEME_COLOR
     enhavo['og_bildo_url'] = og_bildo_url(lingvo)
     if kopiu_statikan:
         angla_enkonduko = (ROOT_DIR / 'enhavo' / 'tradukenda' / 'en' / 'enkonduko.md').read_text(
@@ -776,8 +862,10 @@ def generate_html(
 
     if args.vojprefikso:
         vojprefikso = args.vojprefikso + lingvo + '/'
+        lingvoelektilo_vojprefikso = args.vojprefikso
     else:
         vojprefikso = '/' + lingvo + '/'
+        lingvoelektilo_vojprefikso = '/'
 
     url = {
         'anki': 'https://apps.ankiweb.net/',
@@ -800,6 +888,7 @@ def generate_html(
         ],
         url=url,
         vojprefikso=vojprefikso,
+        lingvoelektilo_vojprefikso=lingvoelektilo_vojprefikso,
         redaktaj_ligiloj=redaktaj_ligiloj(lingvo),
         seo=seo_datenoj(enhavo),
         tabs=tabs,
@@ -809,6 +898,9 @@ def generate_html(
     if enhavo['lingvoj'][lingvo].get('stato') == 'preta':
         eligo[output_path / 'llms.txt'] = render_lingva_llms(enhavo, llms_enkonduko)
         eligo[output_path / 'llms-full.txt'] = render_lingva_llms_full(enhavo, llms_enkonduko)
+
+    # Ĉiu lingvo ricevas propran instaleblan PWA-on: manifeston sub /{lingvo}/.
+    eligo[output_path / 'manifest.webmanifest'] = pwa.render_manifest(lingvo, enhavo['fasado'])
 
     # vortaro.js
     rendered = env.get_template('vortlisto.js').render(
@@ -821,7 +913,14 @@ def generate_html(
     # Memstaraj aldonaj paĝoj (ne parto de la langetoj nek de la antaŭen/malantaŭen-fluo).
     for tab_page in ('auxtoroj', 'post'):
         pagxaj_ligiloj = redaktaj_ligiloj(lingvo, tab_page)
-        eligo[output_path / tab_page / 'index.html'] = render_page(tab_page, enhavo, vojprefikso, env, pagxaj_ligiloj)
+        eligo[output_path / tab_page / 'index.html'] = render_page(
+            tab_page,
+            enhavo,
+            vojprefikso,
+            env,
+            pagxaj_ligiloj,
+            lingvoelektilo_vojprefikso,
+        )
 
     # La fluo: 12 lecionoj × langetoj, poste la apendicaj langetoj kiel «leciono 13».
     paths = []
@@ -849,13 +948,19 @@ def generate_html(
                 leciono_index=i,
                 vojprefikso=vojprefikso,
                 tab_vojprefikso=vojprefikso + i_padded + '/',
+                leciona_menuo_tab_vojo=href,
+                lingvoelektilo_vojprefikso=lingvoelektilo_vojprefikso,
                 previous_path=previous_path,
                 next_path=next_path,
                 tabs=tabs,
                 active_tab=tab,
                 identigilo=i_padded + '/' + href,
                 redaktaj_ligiloj=redaktaj_ligiloj(lingvo, tab, i_padded),
-                seo=seo_datenoj(enhavo, i_padded + '/' + href),
+                seo=seo_datenoj(
+                    enhavo,
+                    i_padded + '/' + href,
+                    og_audio=og_audio_datenoj(i) if tab == 'teksto' else None,
+                ),
             )
 
             eligo[leciono_dir / href / 'index.html'] = tab_rendered
@@ -873,6 +978,7 @@ def generate_html(
             apendico=True,
             vojprefikso=vojprefikso,
             tab_vojprefikso=vojprefikso,
+            lingvoelektilo_vojprefikso=lingvoelektilo_vojprefikso,
             previous_path=previous_path,
             next_path=next_path,
             tabs=apendicaj_langetoj,

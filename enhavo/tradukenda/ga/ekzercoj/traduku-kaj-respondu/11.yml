@@ -1,54 +1,49 @@
-- 
-  demando: An féidir leat cógas mo dheirféar a thabhairt leat?
-  rektatraduko: 
-    - Ĉu: An
-    - vi: tú
-    - povas: féidir
-    - kunporti: tabhair leat
-    - la: an
-    - sanigilon: cógas
-    - de: of
-    - mia: mo
-    - fratino: deirfiúr
-    - '?'
-- 
-  demando: Cathain a cheannaís an uirlis cheoil sin?
-  rektatraduko: 
-    - Kiam: Cathain
-    - vi: tú
-    - aĉetis: cheannaigh
-    - tiun: sin
-    - muzikilon: uirlis cheoil 
-    - '?'
-- 
-  demando: Cé a d'úsáid m'eochair an uair dheireanach?
-  rektatraduko: 
-    - Kiu: Cé
-    - laste: an uair dheireanach
-    - uzis: d'úsáid
-    - mian: mo
-    - ŝlosilon: eochair
-    - '?'
-- 
-  demando: Ar thaistilís go Veinéis i ngondala freisin?
-  rektatraduko: 
-    - Ĉu: Ar
-    - vi: tú
-    - en: in
-    - Venecio: Veinéis
-    - veturis: thaistil
-    - ankaŭ: freisin
-    - per: i
-    - gondolo: gondala
-    - '?'
-- 
-  demando: An mbeidh tú in ann titim i do chodladh nuair a éireoidh sé ciúin?
-  rektatraduko: 
-    - Ĉu: An
-    - vi: tú
-    - povos: beidh in ann
-    - ekdormi: titim i do chodladh
-    - ',' 
-    - kiam: nuair
-    - silentiĝis: d'éirigh ciúin
-    - '?'
+- demando: An féidir leat cógas mo dheirféar a thabhairt leat?
+  rektatraduko:
+  - Ĉu: An
+  - vi: tú
+  - povas: féidir
+  - kunporti: tabhair leat
+  - la: an
+  - sanigilon: cógas
+  - de: of
+  - mia: mo
+  - fratino: deirfiúr
+  - '?'
+- demando: Cathain a cheannaís an uirlis cheoil sin?
+  rektatraduko:
+  - Kiam: Cathain
+  - vi: tú
+  - aĉetis: cheannaigh
+  - tiun: sin
+  - muzikilon: uirlis cheoil
+  - '?'
+- demando: Cé a d'úsáid m'eochair an uair dheireanach?
+  rektatraduko:
+  - Kiu: Cé
+  - laste: an uair dheireanach
+  - uzis: d'úsáid
+  - mian: mo
+  - ŝlosilon: eochair
+  - '?'
+- demando: Ar thaistilís go Veinéis i ngondala freisin?
+  rektatraduko:
+  - Ĉu: Ar
+  - vi: tú
+  - en: in
+  - Venecio: Veinéis
+  - veturis: thaistil
+  - ankaŭ: freisin
+  - per: i
+  - gondolo: gondala
+  - '?'
+- demando: An mbeidh tú in ann titim i do chodladh nuair a éireoidh sé ciúin?
+  rektatraduko:
+  - Ĉu: An
+  - vi: tú
+  - povos: beidh in ann
+  - ekdormi: titim i do chodladh
+  - ','
+  - kiam: nuair
+  - silentiĝos: d'éirigh ciúin
+  - '?'

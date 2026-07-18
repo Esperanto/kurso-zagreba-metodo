@@ -1,0 +1,49 @@
+- demando: Getur þú tekið lyfið hennar systur minnar með þér?
+  rektatraduko:
+  - Ĉu: Hvort
+  - vi: þú
+  - povas: getur
+  - kunporti: taka með
+  - la: ákveðinn greinir
+  - sanigilon: lyf
+  - de: af/eignar
+  - mia: minn/mín/mitt
+  - fratino: systir
+  - '?'
+- demando: Hvenær keyptirðu þetta hljóðfæri?
+  rektatraduko:
+  - Kiam: Hvenær
+  - vi: þú
+  - aĉetis: keypti
+  - tiun: þessa
+  - muzikilon: hljóðfæri
+  - '?'
+- demando: Hver notaði lykilinn minn síðast?
+  rektatraduko:
+  - Kiu: Hver
+  - laste: síðast
+  - uzis: notaði
+  - mian: minn/mína/mitt
+  - ŝlosilon: lykil
+  - '?'
+- demando: Ferðaðist þú líka með gondóla í Feneyjum?
+  rektatraduko:
+  - Ĉu: Hvort
+  - vi: þú
+  - en: í
+  - Venecio: Feneyjar
+  - veturis: ferðaðist
+  - ankaŭ: líka
+  - per: með hjálp
+  - gondolo: gondóli
+  - '?'
+- demando: Munt þú geta sofnað þegar það verður hljótt?
+  rektatraduko:
+  - Ĉu: Hvort
+  - vi: þú
+  - povos: mun geta
+  - ekdormi: sofna
+  - ','
+  - kiam: hvenær
+  - silentiĝos: verður hljótt
+  - '?'

@@ -1,86 +1,80 @@
-- 
-  demando: Qui va nettoyer la cuisine après le déjeuner ?
-  rektatraduko: 
-    - Kiu: Qui
-    - purigos: va nettoyer
-    - la: la
-    - kuirejon: cuisine
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
-    - '?'
-- 
-  demando: "Que veux-tu boire : du thé, un peu de café ou tu ne veux rien ?"
-  rektatraduko: 
-    - Kion: Que, quoi
-    - vi: tu
-    - volas: veux
-    - trinki: boire
-    - ':' 
-    - teon: du thé
-    - ',' 
-    - iom: un peu 
-    - da: de
-    - kafo: café
-    - aŭ: ou
-    - ĉu: est-ce que
-    - vi: tu
-    - volas: veux
-    - nenion: rien
-    - '?'
-- 
-  demando: Pourquoi as-tu si soudainement décider de rénover ta petite chambre ?
-  rektatraduko: 
-    - Kial: Pourquoi
-    - vi: tu
-    - tiel: ainsi, si
-    - subite: soudainement
-    - decidis: as décidé
-    - renovigi: rénover
-    - vian: ta
-    - ĉambreton: petite chambre
-    - '?'
-- 
-  demando: À qui as-tu donnée les verres à vin propres ?
-  rektatraduko: 
-    - al: À
-    - kiu: qui
-    - vi: tu
-    - donis: as donné
-    - la: les
-    - purajn: propres
-    - glasojn: verres
-    - por: pour 
-    - la: le
-    - vino: vin
-    - '?'
-- 
-  demando: Contre qui ton club de sports a joué il y a deux semaines ?
-  rektatraduko: 
-    - Kontraŭ: Contre
-    - kiu: qui
-    - ludis: a joué
-    - via: ton
-    - sportklubo: club de sports
-    - antaŭ: avant
-    - du: deux
-    - semajnoj: semaines
-    - '?'
-- 
-  demando: "Est-ce que tu vois souvent le policier qui habite dans l'appartement au-dessus de toi ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - ofte: souvent
-    - vidas: vois
-    - la: le
-    - policiston: policier
-    - ',' 
-    - kiu: qui
-    - loĝas: habite
-    - en: dans 
-    - la: "l'"
-    - loĝejo: appartement
-    - super: au-dessus de
-    - vi: toi
-    - '?'
+- demando: Qui neteyerat la cusina aprés lo repas de midi?
+  rektatraduko:
+  - Kiu: Qui
+  - purigos: neteyerat
+  - la: la
+  - kuirejon: cusina
+  - post: aprés
+  - la: lo
+  - tagmanĝo: repas de midi
+  - '?'
+- demando: 'Què vôs-tu bêre: tè, un pou de cafè, ou ren?'
+  rektatraduko:
+  - Kion: Què
+  - vi: tu
+  - volas: vôs
+  - trinki: bêre
+  - ':'
+  - teon: tè
+  - ','
+  - iom: un pou
+  - da: de
+  - kafo: cafè
+  - aŭ: ou
+  - ĉu: se
+  - vi: tu
+  - volas: vôs
+  - nenion: ren
+  - '?'
+- demando: Porquè as-tu dècidâ si soudainament de renovar ta petita chambra?
+  rektatraduko:
+  - Kial: Porquè
+  - vi: tu
+  - tiel: ense, si
+  - subite: soudainament
+  - decidis: as dècidâ
+  - renovigi: renovar
+  - vian: ta
+  - ĉambreton: petita chambra
+  - '?'
+- demando: A qui as-tu balyê los vêrros nets por lo vin?
+  rektatraduko:
+  - Al: A
+  - kiu: qui
+  - vi: tu
+  - donis: as balyê
+  - la: los
+  - purajn: nets
+  - glasojn: vêrros
+  - por: por
+  - la: lo
+  - vino: vin
+  - '?'
+- demando: Contra qui ton club de sport at-il jouâ doux semanes y at?
+  rektatraduko:
+  - Kontraŭ: Contra
+  - kiu: qui
+  - ludis: at jouâ
+  - via: ton
+  - sportklubo: club de sport
+  - antaŭ: avant
+  - du: doux
+  - semajnoj: semanes
+  - '?'
+- demando: Vês-tu sovent lo policiér que habite dans l'apartament dessus tu?
+  rektatraduko:
+  - Ĉu: Se
+  - vi: tu
+  - ofte: sovent
+  - vidas: vês
+  - la: lo
+  - policiston: policiér
+  - ','
+  - kiu: que
+  - loĝas: habite
+  - en: dans
+  - la: l'
+  - loĝejo: apartament
+  - super: dessus
+  - vi: tu
+  - '?'

@@ -1,70 +1,64 @@
--
-  demando: "Manao ahoana ny tranonareo taloha?"
-  rektatraduko: 
-    - Kia: Manao ahoana 
-    - estis: ny
-    - via: ianareo / ianao
-    - malnova: taloha
-    - hejmo: trano
-    - '?'
--
-  demando: "Boky manao ahoana no novakinareo, ary moa ve mba tsara izy ireo?"
+- demando: Manao ahoana ny tranonareo taloha?
   rektatraduko:
-    - Kiujn: Manao ahoana
-    - librojn: boky
-    - vi: ianao / ianareo
-    - legis: novakina
-    - kaj: ary/ sy
-    - ĉu: moa ve
-    - ili: izy ireo / zareo
-    - estas: "no"
-    - bonaj: tsara
-    - '?'
--
-  demando: "Inona nataon'i Anna sy Marc ao anaty ny efi-trano kelin'i Marc ?"
+  - Kia: Manao ahoana
+  - estis: ny
+  - via: ianareo / ianao
+  - malnova: taloha
+  - hejmo: trano
+  - '?'
+- demando: Boky manao ahoana no novakinareo, ary moa ve mba tsara izy ireo?
   rektatraduko:
-    - Kion: Inona
-    - faris: nataony
-    - Anna: Anna
-    - kaj: sy 
-    - Marko: Marc
-    - en: ao anaty
-    - la: ny
-    - malgranda: kely
-    - ĉambro: efi-trano
-    - de: ny
-    - Marko: Marc
-    - '?'
--
-  demando: "Moa ve tianareo ny mamaky boky fitiavana ?"
+  - Kiujn: Manao ahoana
+  - librojn: boky
+  - vi: ianao / ianareo
+  - legis: novakina
+  - kaj: ary/ sy
+  - ĉu: moa ve
+  - ili: izy ireo / zareo
+  - estas: 'no'
+  - bonaj: tsara
+  - '?'
+- demando: Inona nataon'i Ana sy Marko tao amin'ny efitra kely an'i Marko?
   rektatraduko:
-    - Ĉu: Moa ve 
-    - vi: ianareo/ianao
-    - ŝatas: tia
-    - legi: ny mamaky
-    - librojn: boky
-    - pri: eo ambony
-    - amo: fitiavana
-    - '?'
--
-  demando: "Iza no andeha miarak'aminao amin' ny tranonareo ?"
+  - Kion: Inona
+  - faris: nataony
+  - Ana: Ana
+  - kaj: sy
+  - Marko: Marko
+  - en: ao anaty
+  - la: ny
+  - malgranda: kely
+  - ĉambro: efi-trano
+  - de: ny
+  - Marko: Marko
+  - '?'
+- demando: Moa ve tianareo ny mamaky boky fitiavana ?
   rektatraduko:
-    - Kiu: Iza
-    - iros: no andeha
-    - kun: miaraka
-    - vi: ianareo/ ianao
-    - al: aminy
-    - via: ianareo/ianao
-    - hejmo: ny trano
-    - '?'
--
-  demando: "Manao ahoana ny mason'i sakaizanao ?"
+  - Ĉu: Moa ve
+  - vi: ianareo/ianao
+  - ŝatas: tia
+  - legi: ny mamaky
+  - librojn: boky
+  - pri: eo ambony
+  - amo: fitiavana
+  - '?'
+- demando: Iza no andeha miarak'aminao amin' ny tranonareo ?
   rektatraduko:
-    - Kiaj: Manao ahoana 
-    - estas: ny / no / dia
-    - la: ny 
-    - okuloj: maso
-    - de: ny /n'i
-    - via: ianao / ianareo
-    - amikino: sakaiza
-    - '?'
+  - Kiu: Iza
+  - iros: no andeha
+  - kun: miaraka
+  - vi: ianareo/ ianao
+  - al: aminy
+  - via: ianareo/ianao
+  - hejmo: ny trano
+  - '?'
+- demando: Manao ahoana ny mason'i sakaizanao ?
+  rektatraduko:
+  - Kiaj: Manao ahoana
+  - estas: ny / no / dia
+  - la: ny
+  - okuloj: maso
+  - de: ny /n'i
+  - via: ianao / ianareo
+  - amikino: sakaiza
+  - '?'

@@ -1,57 +1,51 @@
-- 
-  demando: Quem é a tua amiga?
+- demando: Quem é a tua amiga?
   rektatraduko:
-    - Kiu: Quem
-    - estas: é
-    - via: a tua
-    - amikino: amiga
-    - '?'
-- 
-  demando: (Acaso) a tua amiga Ana está escrevendo agora no quarto?
+  - Kiu: Quem
+  - estas: é
+  - via: a tua
+  - amikino: amiga
+  - '?'
+- demando: A sua amiga Ana está escrevendo agora no quarto?
   rektatraduko:
-    - Ĉu: (Acaso)
-    - via: tua
-    - amikino: amiga
-    - Anna: Anna
-    - skribas: está escrevendo
-    - nun: agora
-    - en: em
-    - la: o 
-    - ĉambro: quarto
-    - '?'
-- 
-  demando: (Acaso) o amigo do teu pai trabalha num hotel?
+  - Ĉu: será que
+  - via: tua
+  - amikino: amiga
+  - Ana: Ana
+  - skribas: está escrevendo
+  - nun: agora
+  - en: em
+  - la: o
+  - ĉambro: quarto
+  - '?'
+- demando: O amigo do seu pai trabalha num hotel?
   rektatraduko:
-    - Ĉu: (Acaso)
-    - la: o
-    - amiko: amigo
-    - de: do
-    - via: teu
-    - patro: pai
-    - laboras: trabalha
-    - en: em
-    - hotelo: hotel
-    - '?'
-- 
-  demando: O que está sobre a mesa de trabalho em nosso quarto?
+  - Ĉu: será que
+  - la: o
+  - amiko: amigo
+  - de: do
+  - via: teu
+  - patro: pai
+  - laboras: trabalha
+  - en: em
+  - hotelo: hotel
+  - '?'
+- demando: O que está sobre a mesa de trabalho em nosso quarto?
   rektatraduko:
-    - Kio: O que 
-    - estas: está
-    - sur: sobre
-    - la: a
-    - labortablo: mesa de trabalho
-    - en: em
-    - nia: nosso
-    - ĉambro: quarto
-    - '?'
-- 
-  demando: (Acaso) está um livro didático de Esperanto sobre tua mesa?
+  - Kio: O que
+  - estas: está
+  - sur: sobre
+  - la: a
+  - labortablo: mesa de trabalho
+  - en: em
+  - nia: nosso
+  - ĉambro: quarto
+  - '?'
+- demando: Há um livro didático de Esperanto na sua mesa?
   rektatraduko:
-    - Ĉu: (Acaso)
-    - Esperanto-lernolibro: livro didático de Esperanto
-    - estas: está
-    - sur: sobre
-    - via: tua 
-    - tablo: mesa
-    - '?' 
-
+  - Ĉu: será que
+  - Esperanto-lernolibro: livro didático de Esperanto
+  - estas: está
+  - sur: sobre
+  - via: tua
+  - tablo: mesa
+  - '?'

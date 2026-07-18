@@ -1,0 +1,51 @@
+- demando: Hver er vinkona þín?
+  rektatraduko:
+  - Kiu: Hver
+  - estas: er
+  - via: þinn/þín/þitt
+  - amikino: vinkona
+  - '?'
+- demando: Skrifar vinkona þín Ana í herberginu núna?
+  rektatraduko:
+  - Ĉu: Hvort
+  - via: þinn/þín/þitt
+  - amikino: vinkona
+  - Ana: Ana
+  - skribas: skrifar
+  - nun: nú
+  - en: í
+  - la: ákveðinn greinir
+  - ĉambro: herbergi
+  - '?'
+- demando: Vinnur vinur föður þíns á hóteli?
+  rektatraduko:
+  - Ĉu: Hvort
+  - la: ákveðinn greinir
+  - amiko: vinur
+  - de: af/eignar
+  - via: þinn/þín/þitt
+  - patro: faðir
+  - laboras: vinnur
+  - en: í
+  - hotelo: hótel
+  - '?'
+- demando: Hvað er á vinnuborðinu í herberginu okkar?
+  rektatraduko:
+  - Kio: Hvað
+  - estas: er
+  - sur: á
+  - la: ákveðinn greinir
+  - labortablo: vinnuborð
+  - en: í
+  - nia: okkar
+  - ĉambro: herbergi
+  - '?'
+- demando: Er esperanto-kennslubók á borðinu þínu?
+  rektatraduko:
+  - Ĉu: Hvort
+  - Esperanto-lernolibro: esperanto-kennslubók
+  - estas: er
+  - sur: á
+  - via: þinn/þín/þitt
+  - tablo: borð
+  - '?'

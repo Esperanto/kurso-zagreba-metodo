@@ -1,77 +1,72 @@
--
-  demando: Rozumejú čašníci mnohým jazykom vo veľkých hoteloch?
-  rektatraduko:  
-    - Ĉu: Či
-    - kelneroj: časníci
-    - en: v
-    - grandaj: veľkých
-    - hoteloj: hoteloch
-    - komprenas: rozumejú
-    - multajn: mnohým
-    - lingvojn: jazykom
-    - '?'
--
-  demando: Nevieš, či má Anna rada novú pieseň o chudákovi a kráske?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - scias: vieš
-    - ','
-    - ĉu: či
-    - Anna: Anna 
-    - ŝatas: má rada
-    - la: (určitý člen)
-    - novan: novú
-    - kanton: pieseň
-    - pri: o
-    - malriĉulo: chudákovi
-    - kaj: a
-    - belulino: kráske
-    - '?'
--
-  demando: Kde si videl starca a mladíka, ktorí niesli veľký stôl?
-  rektatraduko: 
-    - Kie: Kde
-    - vi: ty
-    - vidis: si videl
-    - la: (určitý člen)
-    - maljunulon: starca
-    - kaj: a
-    - la: (určitý člen)
-    - junulon: mladíka
-    - ','
-    - kiuj: ktorí
-    - portis: niesli
-    - grandan: veľký
-    - tablon: stôl
-    - '?'
--
-  demando: Ako sa stalo, že si k nám prišiel znovu bez súrodencov?
-  rektatraduko: 
-    - Kiel: Ako
-    - okazis: sa stalo
-    - ','
-    - ke: že
-    - vi: ty
-    - denove: znovu
-    - venis: si prišiel
-    - al: k 
-    - ni: nám
-    - sen: bez
-    - gefratoj: súrodencov
-    - '?'
--
-  demando: Môžes sa s novou učebnicou dostatočne rýchlo naučiť esperanto?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - povas: môžeš
-    - per: s (pomocou)
-    - la: (určitý člen) 
-    - nova: novou
-    - lernolibro: učebnicou
-    - sufiĉe: dostatočne
-    - rapide: rýchlo
-    - lerni: sa naučiť
-    - Esperanton: esperanto
-    - '?'
+- demando: Rozumejú čašníci mnohým jazykom vo veľkých hoteloch?
+  rektatraduko:
+  - Ĉu: Či
+  - kelneroj: časníci
+  - en: v
+  - grandaj: veľkých
+  - hoteloj: hoteloch
+  - komprenas: rozumejú
+  - multajn: mnohým
+  - lingvojn: jazykom
+  - '?'
+- demando: Nevieš, či má Ana rada novú pieseň o chudákovi a kráske?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - scias: vieš
+  - ','
+  - ĉu: či
+  - Ana: Ana
+  - ŝatas: má rada
+  - la: (určitý člen)
+  - novan: novú
+  - kanton: pieseň
+  - pri: o
+  - malriĉulo: chudákovi
+  - kaj: a
+  - belulino: kráske
+  - '?'
+- demando: Kde si videl starca a mladíka, ktorí niesli veľký stôl?
+  rektatraduko:
+  - Kie: Kde
+  - vi: ty
+  - vidis: si videl
+  - la: (určitý člen)
+  - maljunulon: starca
+  - kaj: a
+  - la: (určitý člen)
+  - junulon: mladíka
+  - ','
+  - kiuj: ktorí
+  - portis: niesli
+  - grandan: veľký
+  - tablon: stôl
+  - '?'
+- demando: Ako sa stalo, že si k nám prišiel znovu bez súrodencov?
+  rektatraduko:
+  - Kiel: Ako
+  - okazis: sa stalo
+  - ','
+  - ke: že
+  - vi: ty
+  - denove: znovu
+  - venis: si prišiel
+  - al: k
+  - ni: nám
+  - sen: bez
+  - gefratoj: súrodencov
+  - '?'
+- demando: Môžeš sa s novou učebnicou dostatočne rýchlo naučiť esperanto?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - povas: môžeš
+  - per: s (pomocou)
+  - la: (určitý člen)
+  - nova: novou
+  - lernolibro: učebnicou
+  - sufiĉe: dostatočne
+  - rapide: rýchlo
+  - lerni: sa naučiť
+  - Esperanton: esperanto
+  - '?'

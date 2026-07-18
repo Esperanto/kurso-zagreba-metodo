@@ -1,77 +1,72 @@
--
-  demando: Heti watuishi ndani ya vyumba vikubwa vya wageni wanasikia lugha nyingi ?
+- demando: Je, wahudumu katika hoteli kubwa wanaelewa lugha nyingi?
   rektatraduko:
-    - Ĉu: heti
-    - kelneroj: watumishi
-    - en: ya
-    - grandaj: vikubwa
-    - hoteloj: vyumba vya wageni
-    - komprenas: wanasikia
-    - multajn: nyingi
-    - lingvojn: lugha
-    - '?'
--
-  demando: Heti wajua kama Anna anapenda nyimbo ya mupya juu ya maskini na kizuri ?
+  - Ĉu: je
+  - kelneroj: wahudumu
+  - en: katika
+  - grandaj: kubwa
+  - hoteloj: hoteli
+  - komprenas: wanaelewa
+  - multajn: nyingi
+  - lingvojn: lugha
+  - '?'
+- demando: Je, unajua kwamba Ana anapenda wimbo mpya kuhusu mtu maskini na msichana mzuri?
   rektatraduko:
-    - Ĉu: Heti
-    - vi: una
-    - scias: jua
-    - ','
-    - ĉu: ni
-    - Anna: Anna
-    - ŝatas: anapenda
-    - la: ''
-    - novan: mupya
-    - kanton: nyimbo
-    - pri: kuhusu
-    - malriĉulo: maskini moja
-    - kaj: na
-    - belulino: musichana moja
-    - '?'
--
-  demando: Wapi ulionaka mzee na kijana walibebaka  meza kubwa?
+  - Ĉu: je
+  - vi: wewe
+  - scias: unajua
+  - ','
+  - ĉu: kwamba
+  - Ana: Ana
+  - ŝatas: anapenda
+  - la: kiarifu
+  - novan: mpya
+  - kanton: wimbo
+  - pri: kuhusu
+  - malriĉulo: mtu maskini
+  - kaj: na
+  - belulino: msichana mzuri
+  - '?'
+- demando: Ulimwona wapi mzee na kijana waliokuwa wakibeba meza kubwa?
   rektatraduko:
-    - Kie: Wapi
-    - vi: uli
-    - vidis: onaka
-    - la: le
-    - maljunulon: mzee wa baba
-    - kaj: na
-    - la: le
-    - junulon: kijana
-    - ','
-    - kiuj: waki
-    - portis: bebaka
-    - grandan: kubwa
-    - tablon: meza
-    - '?'
--
-  demando: Imefikaje ukue umekuja kwetu bila ndugu zako na dada zako?
+  - Kie: Wapi
+  - vi: wewe
+  - vidis: uliona
+  - la: kiarifu
+  - maljunulon: mzee
+  - kaj: na
+  - la: kiarifu
+  - junulon: kijana
+  - ','
+  - kiuj: ambao
+  - portis: walibeba
+  - grandan: kubwa
+  - tablon: meza
+  - '?'
+- demando: Ilitokeaje kwamba ulikuja kwetu tena bila ndugu zako?
   rektatraduko:
-    - Kiel: Je
-    - okazis: imefika
-    - ','
-    - ke: ''
-    - vi: wewe
-    - denove: tena
-    - venis: kuja
-    - al: kwetu
-    - ni: ''
-    - sen: bila
-    - gefratoj: kaka na dada
-    - '?'
--
-  demando: Heti unaweza kusoma esperanto ndani ya kitabu kya haraka?
+  - Kiel: Jinsi gani
+  - okazis: ilitokea
+  - ','
+  - ke: kwamba
+  - vi: wewe
+  - denove: tena
+  - venis: ulikuja
+  - al: kwa
+  - ni: sisi
+  - sen: bila
+  - gefratoj: ndugu
+  - '?'
+- demando: Je, unaweza kujifunza Kiesperanto haraka vya kutosha kwa kutumia kitabu kipya?
   rektatraduko:
-    - Ĉu: heti
-    - vi: una
-    - povas: weza
-    - per: pamoja
-    - la: na
-    - nova: mupya
-    - lernolibro: kitabu kya somo
-    - sufiĉe: inatosha
-    - rapide: haraka
-    - lerni: kusoma
-    - Esperanton: esperanto
-    - '?'
+  - Ĉu: je
+  - vi: wewe
+  - povas: unaweza
+  - per: kwa kutumia
+  - la: kiarifu
+  - nova: kipya
+  - lernolibro: kitabu cha kujifunzia
+  - sufiĉe: vya kutosha
+  - rapide: haraka
+  - lerni: kujifunza
+  - Esperanton: Kiesperanto
+  - '?'

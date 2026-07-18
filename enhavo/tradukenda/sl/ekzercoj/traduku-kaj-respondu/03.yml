@@ -1,77 +1,72 @@
--
-  demando: Ali natakarji v velikih hotelih razumejo veliko jezikov? 
-  rektatraduko:  
-    - Ĉu: Ali 
-    - kelneroj: natakarji
-    - en: v
-    - grandaj: velikih
-    - hoteloj: hotelih
-    - komprenas: razumejo
-    - multajn: veliko
-    - lingvojn: jezikov
-    - '?'
--
-  demando: Ali veste, ali Ana ceni novo pesem o siromaku in lepotici?
-  rektatraduko: 
-    - Ĉu: Ali
-    - vi: (zaimek vi)
-    - scias: veste
-    - ','
-    - ĉu: ali
-    - Ana: Ana 
-    - ŝatas: ceni
-    - la: (člen)
-    - novan: novo
-    - kanton: pesem
-    - pri: o
-    - malriĉulo: siromaku
-    - kaj: in
-    - belulino: lepotici
-    - '?'
--
-  demando: Kje ste videli starca in mladeniča ki sta nosila veliko mizo?
-  rektatraduko: 
-    - Kie: Kje
-    - vi: ste
-    - vidis: videli
-    - la: (člen)
-    - maljunulon: starca
-    - kaj: in
-    - la: (člen)
-    - junulon: mladeniča
-    - ','
-    - kiuj: ki
-    - portis: sta nosila
-    - grandan: veliko
-    - tablon: mizo
-    - '?'
--
-  demando: Kako se je zgodilo, da si spet prišel k nam brez bratov in sester?
-  rektatraduko: 
-    - Kiel: Kako
-    - okazis: se je zgodilo
-    - ','
-    - ke: da
-    - vi: (zaimek ti)
-    - denove: spet
-    - venis: prišel
-    - al: k 
-    - ni: nam
-    - sen: brez
-    - gefratoj: bratov in sester
-    - '?'
--
-  demando: Ali se lahko z novim učbenikom dovolj hitro učiš esperanto? 
-  rektatraduko: 
-    - Ĉu: Ali
-    - vi: (zaimek ti)
-    - povas: se lahko
-    - per: z
-    - la: (člen) 
-    - nova: novim
-    - lernolibro: učbenikom
-    - sufiĉe: dovolj
-    - rapide: hitro
-    - lernas: učiš
-    - Esperanton: esperanto
-    - '?'
+- demando: Ali natakarji v velikih hotelih razumejo veliko jezikov?
+  rektatraduko:
+  - Ĉu: Ali
+  - kelneroj: natakarji
+  - en: v
+  - grandaj: velikih
+  - hoteloj: hotelih
+  - komprenas: razumejo
+  - multajn: veliko
+  - lingvojn: jezikov
+  - '?'
+- demando: Ali veste, ali Ana ceni novo pesem o siromaku in lepotici?
+  rektatraduko:
+  - Ĉu: Ali
+  - vi: (zaimek vi)
+  - scias: veste
+  - ','
+  - ĉu: ali
+  - Ana: Ana
+  - ŝatas: ceni
+  - la: (člen)
+  - novan: novo
+  - kanton: pesem
+  - pri: o
+  - malriĉulo: siromaku
+  - kaj: in
+  - belulino: lepotici
+  - '?'
+- demando: Kje ste videli starca in mladeniča ki sta nosila veliko mizo?
+  rektatraduko:
+  - Kie: Kje
+  - vi: ste
+  - vidis: videli
+  - la: (člen)
+  - maljunulon: starca
+  - kaj: in
+  - la: (člen)
+  - junulon: mladeniča
+  - ','
+  - kiuj: ki
+  - portis: sta nosila
+  - grandan: veliko
+  - tablon: mizo
+  - '?'
+- demando: Kako se je zgodilo, da si spet prišel k nam brez bratov in sester?
+  rektatraduko:
+  - Kiel: Kako
+  - okazis: se je zgodilo
+  - ','
+  - ke: da
+  - vi: (zaimek ti)
+  - denove: spet
+  - venis: prišel
+  - al: k
+  - ni: nam
+  - sen: brez
+  - gefratoj: bratov in sester
+  - '?'
+- demando: Ali se lahko z novim učbenikom dovolj hitro učiš esperanto?
+  rektatraduko:
+  - Ĉu: Ali
+  - vi: (zaimek ti)
+  - povas: se lahko
+  - per: z
+  - la: (člen)
+  - nova: novim
+  - lernolibro: učbenikom
+  - sufiĉe: dovolj
+  - rapide: hitro
+  - lerni: učiš
+  - Esperanton: esperanto
+  - '?'

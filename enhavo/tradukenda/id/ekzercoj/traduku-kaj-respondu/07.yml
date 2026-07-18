@@ -1,77 +1,71 @@
-- 
-  demando: Siapa yang memiliki buku yang sudah kamu tunggu lebih dari dua tahun?
-  rektatraduko: 
-    - Kiu: Siapa
-    - havis: memiliki (lampau)
-    - la: (kata sandang)
-    - libron: buku
-    - ',' 
-    - kiun: siapa
-    - vi: kamu
-    - atendis: menunggu (lampau)
-    - pli: lebih
-    - ol: dari
-    - du: dua
-    - jarojn: tahun-tahun
-    - '?'
-- 
-  demando: Apakah kamu mau aku memperlihatkan padamu fotoku yang paling berharga?
-  rektatraduko: 
-    - Ĉu: Apakah
-    - vi: kamu
-    - volas: mau
-    - ','
-    - ke: bahwa
-    - mi: aku
-    - montru: memperlihatkan
-    - al: kepada 
-    - vi: kamu
-    - mian: punyaku
-    - plej: paling
-    - karan: berharga
-    - foton: foto
-    - '?'
-- 
-  demando: Di mana kamu membeli pakaian itu?
-  rektatraduko: 
-    - Kie: Di mana
-    - vi: kamu
-    - aĉetis: membeli (lampau)
-    - tiun: itu
-    - vestaĵon: pakaian
-    - '?'
-- 
-  demando: Ke mana kamu akan pergi pada hari Minggu jika hari itu cerah?
-  rektatraduko: 
-    - Kien: Ke mana
-    - vi: kamu
-    - iros: akan pergi
-    - dimanĉe: pada hari Minggu
-    - ',' 
-    - se: jika
-    - estos: akan menjadi
-    - suna: cerah
-    - tago: hari
-    - '?'
-- 
-  demando: Apakah saudara lelakimu sudah berangkat?
-  rektatraduko: 
-    - Ĉu: Apakah
-    - via: punyamu
-    - frato: saudara lelaki
-    - jam: sudah
-    - ekiris: berangkat (lampau)
-    - '?'
-- 
-  demando: Di mana air yang kamu bawa sendiri?
-  rektatraduko: 
-    - Kie: Di mana
-    - estas: adalah
-    - la: (kata sandang)
-    - akvo: air
-    - ',' 
-    - kiun: yang
-    - vi: kamu
-    - mem: diri sendiri
-    - kunportis: membawa (lampau)
-    - '?'
+- demando: Siapa yang memiliki buku yang sudah kamu tunggu selama lebih dari dua tahun?
+  rektatraduko:
+  - Kiu: Siapa
+  - havis: memiliki (lampau)
+  - la: (kata sandang)
+  - libron: buku
+  - ','
+  - kiun: yang
+  - vi: kamu
+  - atendis: menunggu (lampau)
+  - pli: lebih
+  - ol: dari
+  - du: dua
+  - jarojn: tahun-tahun
+  - '?'
+- demando: Apakah kamu mau aku memperlihatkan foto paling berhargaku kepadamu?
+  rektatraduko:
+  - Ĉu: Apakah
+  - vi: kamu
+  - volas: mau
+  - ','
+  - ke: bahwa
+  - mi: aku
+  - montru: memperlihatkan
+  - al: kepada
+  - vi: kamu
+  - mian: punyaku
+  - plej: paling
+  - karan: berharga
+  - foton: foto
+  - '?'
+- demando: Di mana kamu membeli pakaian itu?
+  rektatraduko:
+  - Kie: Di mana
+  - vi: kamu
+  - aĉetis: membeli (lampau)
+  - tiun: itu
+  - vestaĵon: pakaian
+  - '?'
+- demando: Ke mana kamu akan pergi pada hari Minggu jika hari itu cerah?
+  rektatraduko:
+  - Kien: Ke mana
+  - vi: kamu
+  - iros: akan pergi
+  - dimanĉe: pada hari Minggu
+  - ','
+  - se: jika
+  - estos: akan menjadi
+  - suna: cerah
+  - tago: hari
+  - '?'
+- demando: Apakah saudara laki-lakimu sudah berangkat?
+  rektatraduko:
+  - Ĉu: Apakah
+  - via: punyamu
+  - frato: saudara lelaki
+  - jam: sudah
+  - ekiris: berangkat (lampau)
+  - '?'
+- demando: Di mana air yang kamu bawa sendiri?
+  rektatraduko:
+  - Kie: Di mana
+  - estas: adalah
+  - la: (kata sandang)
+  - akvo: air
+  - ','
+  - kiun: yang
+  - vi: kamu
+  - mem: diri sendiri
+  - kunportis: membawa (lampau)
+  - '?'

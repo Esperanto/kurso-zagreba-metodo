@@ -1,64 +1,59 @@
--
-  demando: Can you learn calmly when someone is singing joyfully?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
-    - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
-    - '?'
--
-  demando: Who knows when and where we will see each other again?
-  rektatraduko: 
-    - Kiu: Who
-    - scias: knows
-    - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
-    - '?'
--
-  demando: What time is it now?
-  rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
-    - '?'
--
-  demando: Did someone help you open the door of the old house?
-  rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
-    - '?'
--
-  demando: Why do you not have time to listen to me longer?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
-    - '?'
+- demando: jan li kalama musi pona la sina ken ala ken kama sona lon pilin pona?
+  rektatraduko:
+  - Ĉu: anu seme
+  - vi: sina
+  - povas: li ken
+  - trankvile: lon pilin pona
+  - lerni: kama sona
+  - ','
+  - dum: lon tenpo
+  - iu: jan
+  - ĝoje: lon pilin pona
+  - kantas: li kalama musi
+  - '?'
+- demando: 'jan seme li sona e ni: tenpo seme en ma seme la mi mute li lukin sin e mi mute?'
+  rektatraduko:
+  - Kiu: jan seme
+  - scias: li sona
+  - ','
+  - kiam: tenpo seme
+  - kaj: en
+  - kie: lon seme
+  - ni: mi mute
+  - revidos: li lukin sin e
+  - nin: mi mute
+  - '?'
+- demando: tenpo li seme lon tenpo ni?
+  rektatraduko:
+  - Kioma: nanpa seme
+  - horo: tenpo
+  - estas: li lon
+  - nun: lon tenpo ni
+  - '?'
+- demando: jan li pona ala pona e sina tawa open e lupa pi tomo majuna?
+  rektatraduko:
+  - Ĉu: anu seme
+  - iu: jan
+  - helpis: li pona e
+  - al: tawa
+  - vi: sina
+  - malfermi: open e
+  - la: ni
+  - pordon: lupa
+  - de: pi
+  - la: ni
+  - malnova: majuna
+  - domo: tomo
+  - '?'
+- demando: tan seme la sina jo ala e tenpo tawa kute e mi lon tenpo suli?
+  rektatraduko:
+  - Kial: tan seme
+  - vi: sina
+  - ne: ala
+  - havas: li jo e
+  - tempon: tenpo
+  - aŭskulti: kute e
+  - min: mi
+  - pli: mute
+  - longe: tenpo suli
+  - '?'

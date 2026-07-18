@@ -1,6 +1,8 @@
 chevron
+check-jsonschema
 genanki
 Jinja2
 MarkupSafe
+mdformat
 mistune
 PyYAML

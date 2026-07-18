@@ -1,57 +1,51 @@
-- 
-  demando: Ni nani aliye rafiki yako ?
+- demando: Rafiki yako wa kike ni nani?
   rektatraduko:
-    - Kiu: Nani
-    - estas: aliye
-    - via: yako
-    - amikino: rafiki
-    - '?'
-- 
-  demando: Rafiki yako Anna ameandika sasa ndani ya chumba?
+  - Kiu: Nani
+  - estas: ni
+  - via: yako
+  - amikino: rafiki wa kike
+  - '?'
+- demando: Je, rafiki yako wa kike Ana anaandika sasa chumbani?
   rektatraduko:
-    - Ĉu: [Naomba]
-    - via: yako
-    - amikino: rafiki
-    - Anna: Anna
-    - skribas: ameandika
-    - nun: sasa
-    - en: ndani
-    - la: ya
-    - ĉambro: chumba
-    - '?'
-- 
-  demando: Rafiki ya Baba yako anatumika ndani ya nyumba ya wageni?
+  - Ĉu: je
+  - via: yako
+  - amikino: rafiki wa kike
+  - Ana: Ana
+  - skribas: anaandika
+  - nun: sasa
+  - en: ndani ya
+  - la: kiarifu
+  - ĉambro: chumba
+  - '?'
+- demando: Je, rafiki wa baba yako anafanya kazi hotelini?
   rektatraduko:
-    - Ĉu: [Naomba]
-    - la: ya
-    - amiko: rafiki
-    - de: ya
-    - via: yako
-    - patro: baba
-    - laboras: anatumika
-    - en: ndani ya
-    - hotelo: nyumba ya wageni
-    - '?'
-- 
-  demando: "Kuna nini juu ya meza ndani ya chumba chetu?"
+  - Ĉu: je
+  - la: kiarifu
+  - amiko: rafiki
+  - de: wa
+  - via: yako
+  - patro: baba
+  - laboras: anafanya kazi
+  - en: katika
+  - hotelo: hoteli
+  - '?'
+- demando: Kuna nini juu ya meza ya kazi katika chumba chetu?
   rektatraduko:
-    - Kio: nini
-    - estas: kuna
-    - sur: juu
-    - la: ya
-    - labortablo: meza
-    - en: ndani
-    - nia: chetu
-    - ĉambro: chumba
-    - '?'
-- 
-  demando: "Kuna kitabu kimoja kya esperanto juu ya meza yako?"
+  - Kio: Nini
+  - estas: kiko
+  - sur: juu ya
+  - la: kiarifu
+  - labortablo: meza ya kazi
+  - en: katika
+  - nia: chetu
+  - ĉambro: chumba
+  - '?'
+- demando: Je, kuna kitabu cha kujifunzia Kiesperanto juu ya meza yako?
   rektatraduko:
-    - Ĉu: [Naomba]
-    - Esperanto-lernolibro: kitabu kimoja kya Esperanto
-    - estas: kuna
-    - sur: juu ya
-    - via: yako
-    - tablo: meza
-    - '?'
-
+  - Ĉu: je
+  - Esperanto-lernolibro: kitabu cha kujifunzia Kiesperanto
+  - estas: kiko
+  - sur: juu ya
+  - via: yako
+  - tablo: meza
+  - '?'

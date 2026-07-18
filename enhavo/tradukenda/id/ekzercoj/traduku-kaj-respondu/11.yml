@@ -1,54 +1,49 @@
-- 
-  demando: Apakah kamu bisa membawakan obat milik saudara perempuanku?
-  rektatraduko: 
-    - Ĉu: Apakah
-    - vi: kamu
-    - povas: bisa
-    - kunporti: membawakan
-    - la: (kata sandang)
-    - sanigilon: obat
-    - de: dari
-    - mia: punyaku
-    - fratino: saudara perempuan
-    - '?'
-- 
-  demando: Kapan kamu membeli alat musik itu?
-  rektatraduko: 
-    - Kiam: Kapan
-    - vi: kamu
-    - aĉetis: membeli (lampau)
-    - tiun: itu
-    - muzikilon: alat musik
-    - '?'
-- 
-  demando: Siapa yang terakhir kali telah memakai kunci punyaku?
-  rektatraduko: 
-    - Kiu: Siapa
-    - laste: terakhir kali
-    - uzis: telah memakai
-    - mian: punyaku
-    - ŝlosilon: kunci
-    - '?'
-- 
-  demando: Apakah kamu di Venesia juga bepergian menggunakan gondola?
-  rektatraduko: 
-    - Ĉu: Apakah
-    - vi: kamu
-    - en: di
-    - Venecio: Venesia
-    - veturis: bepergian
-    - ankaŭ: juga
-    - per: menggunakan
-    - gondolo: gondola
-    - '?'
-- 
-  demando: Apakah kamu akan bisa tertidur ketika sunyi?
-  rektatraduko: 
-    - Ĉu: Apakah
-    - vi: kamu
-    - povos: akan bisa
-    - ekdormi: tertidur
-    - ',' 
-    - kiam: ketika 
-    - silentiĝis: menjadi sunyi
-    - '?'
+- demando: Bisakah kamu membawakan obat milik saudara perempuanku?
+  rektatraduko:
+  - Ĉu: Apakah
+  - vi: kamu
+  - povas: bisa
+  - kunporti: membawakan
+  - la: (kata sandang)
+  - sanigilon: obat
+  - de: dari
+  - mia: punyaku
+  - fratino: saudara perempuan
+  - '?'
+- demando: Kapan kamu membeli alat musik itu?
+  rektatraduko:
+  - Kiam: Kapan
+  - vi: kamu
+  - aĉetis: membeli (lampau)
+  - tiun: itu
+  - muzikilon: alat musik
+  - '?'
+- demando: Siapa yang terakhir memakai kunciku?
+  rektatraduko:
+  - Kiu: Siapa
+  - laste: terakhir kali
+  - uzis: telah memakai
+  - mian: punyaku
+  - ŝlosilon: kunci
+  - '?'
+- demando: Apakah di Venesia kamu juga naik gondola?
+  rektatraduko:
+  - Ĉu: Apakah
+  - vi: kamu
+  - en: di
+  - Venecio: Venesia
+  - veturis: bepergian
+  - ankaŭ: juga
+  - per: menggunakan
+  - gondolo: gondola
+  - '?'
+- demando: Apakah kamu akan bisa tertidur ketika suasana menjadi sunyi?
+  rektatraduko:
+  - Ĉu: Apakah
+  - vi: kamu
+  - povos: akan bisa
+  - ekdormi: tertidur
+  - ','
+  - kiam: ketika
+  - silentiĝos: menjadi sunyi
+  - '?'

@@ -1,70 +1,64 @@
-- 
-  demando: Jaki był twój stary dom?
-  rektatraduko: 
-    - Kia: Jaki
-    - estis: był
-    - via: twój
-    - malnova: stary
-    - hejmo: dom
-    - '?'
-- 
-  demando: Które książki czytałeś i czy one są dobre?
-  rektatraduko: 
-    - Kiujn: Które
-    - librojn: książki
-    - vi: ty
-    - legis: czytałeś
-    - kaj: i
-    - ĉu: czy
-    - ili: one
-    - estas: są
-    - bonaj: dobre
-    - '?'
-- 
-  demando: "Co Anna i Marek robili w małym pokoju Marka?"
+- demando: Jaki był twój stary dom?
   rektatraduko:
-    - Kion: Co
-    - faris: robili
-    - Anna: Anna
-    - kaj: i
-    - Marko: Marek
-    - en: w 
-    - la: (przedimek określony)
-    - malgranda: mały
-    - ĉambro: pokój
-    - de: od
-    - Marko: Marek
-    - '?'
-- 
-  demando: Czy lubisz czytać książki o miłości?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - ŝatas: lubisz
-    - legi: czytać
-    - librojn: książki
-    - pri: o
-    - amo: miłość
-    - '?'
-- 
-  demando: Kto pójdzie z tobą do twojego domu?
-  rektatraduko: 
-    - Kiu: Kto
-    - iros: pójdzie
-    - kun: z
-    - vi: ty
-    - al: do
-    - via: twój
-    - hejmo: dom
-    - '?'
-- 
-  demando: "Jakie są oczy twojej przyjaciółki?"
-  rektatraduko: 
-    - Kiaj: Jakie
-    - estas: są
-    - la: (przedimek określony)
-    - okuloj: oczy
-    - de: od
-    - via: twoja
-    - amikino: przyjaciółka
-    - '?'
+  - Kia: Jaki
+  - estis: był
+  - via: twój
+  - malnova: stary
+  - hejmo: dom
+  - '?'
+- demando: Które książki czytałeś i czy były dobre?
+  rektatraduko:
+  - Kiujn: Które
+  - librojn: książki
+  - vi: ty
+  - legis: czytałeś
+  - kaj: i
+  - ĉu: czy
+  - ili: one
+  - estas: są
+  - bonaj: dobre
+  - '?'
+- demando: Co Ana i Marko robili w małym pokoju u Marko?
+  rektatraduko:
+  - Kion: Co
+  - faris: robili
+  - Ana: Ana
+  - kaj: i
+  - Marko: Marko
+  - en: w
+  - la: (przedimek określony)
+  - malgranda: mały
+  - ĉambro: pokój
+  - de: od
+  - Marko: Marko
+  - '?'
+- demando: Czy lubisz czytać książki o miłości?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - ŝatas: lubisz
+  - legi: czytać
+  - librojn: książki
+  - pri: o
+  - amo: miłość
+  - '?'
+- demando: Kto pójdzie z tobą do twojego domu?
+  rektatraduko:
+  - Kiu: Kto
+  - iros: pójdzie
+  - kun: z
+  - vi: ty
+  - al: do
+  - via: twój
+  - hejmo: dom
+  - '?'
+- demando: Jakie są oczy twojej przyjaciółki?
+  rektatraduko:
+  - Kiaj: Jakie
+  - estas: są
+  - la: (przedimek określony)
+  - okuloj: oczy
+  - de: od
+  - via: twoja
+  - amikino: przyjaciółka
+  - '?'

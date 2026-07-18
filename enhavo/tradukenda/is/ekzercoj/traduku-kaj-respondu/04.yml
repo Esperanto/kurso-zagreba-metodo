@@ -1,0 +1,67 @@
+- demando: Hvenær sé ég þig aftur?
+  rektatraduko:
+  - Kiam: Hvenær
+  - mi: ég
+  - revidos: mun sjá aftur
+  - vin: þig
+  - '?'
+- demando: Hversu lengi hefur þú lært alþjóðamálið?
+  rektatraduko:
+  - Kiom: Hversu
+  - longe: lengi
+  - vi: þú
+  - lernas: lærir
+  - la: ákveðinn greinir
+  - Internacian: alþjóðlegan
+  - Lingvon: tungumál
+  - '?'
+- demando: Hvar er nýja bókin mín með ljósmyndum?
+  rektatraduko:
+  - Kie: Hvar
+  - estas: er
+  - mia: minn/mín/mitt
+  - nova: nýr
+  - libro: bók
+  - kun: með
+  - fotoj: ljósmyndir
+  - '?'
+- demando: Hvert ferð þú eftir hádegismat?
+  rektatraduko:
+  - Kien: Hvert
+  - vi: þú
+  - iros: mun fara
+  - post: eftir
+  - la: ákveðinn greinir
+  - tagmanĝo: hádegismatur
+  - '?'
+- demando: Má loka herbergishurðinni þegar kalt er?
+  rektatraduko:
+  - Ĉu: Hvort
+  - oni: maður
+  - povas: getur
+  - fermi: loka
+  - la: ákveðinn greinir
+  - pordon: hurð
+  - de: af/eignar
+  - la: ákveðinn greinir
+  - ĉambro: herbergi
+  - ','
+  - kiam: hvenær
+  - estas: er
+  - malvarme: kalt
+  - '?'
+- demando: Hversu lengi ertu reiður eða reið ef einhver tekur mikla peninga frá þér?
+  rektatraduko:
+  - Kiom: Hversu
+  - longe: lengi
+  - vi: þú
+  - koleras: ert reiður
+  - ','
+  - se: ef
+  - oni: maður
+  - forprenas: tekur burt
+  - de: af/eignar
+  - vi: þú
+  - multan: mikla
+  - monon: peninga
+  - '?'

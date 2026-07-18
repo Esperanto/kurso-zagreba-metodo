@@ -1,72 +1,68 @@
-- 
-  demando: Czy chcesz, żebym pokazał Ci moją najnowszą książkę?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - deziras: pragniesz
-    - ',' 
-    - ke: że
-    - mi: ja
-    - montru: pokazuję
-    - al: do
-    - vi: ty
-    - mian: moją
-    - plej: najbardzierdziej
-    - novan: nową
-    - libron: książkę
-    - '?'
-- 
-  demando: Co chcesz jutro na śniadanie?
-  rektatraduko: 
-    - Kion: Co
-    - vi: ty
-    - volas: chcesz
-    - morgaŭ: jutro
-    - matenmanĝi: jeść na śniadanie
-    - '?'
-- 
-  demando: "Kiedy przyjdzie Marek, czy o piątej lub o ósmej?"
-  rektatraduko: 
-    - Kiam: Kiedy
-    - Marko: Marek
-    - alvenos: przyjdzie
-    - ',' 
-    - je: o
-    - la: (przedimek określony)
-    - kvina: piąta
-    - aŭ: lub
-    - je: o
-    - la: (przedimek określony)
-    - oka: ósma
-    - horo: godzina
-    - '?'
-- 
-  demando: Kiedy zauważyłeś, że cała rodzina nazywa mnie dobrym człowiekiem?
-  rektatraduko: 
-    - Kiam: Kiedy
-    - vi: ty
-    - rimarkis: zauważyłeś
-    - ','  
-    - ke: że
-    - la: (przedimek określony)
-    - tuta: cała
-    - familio: rodzina
-    - nomas: nazywa
-    - min: mnie
-    - bonfarulo: dobry człowiek
-    - '?'
-- 
-  demando: Czy była ci przydatna książeczka, którą ci posłałem?
-  rektatraduko: 
-    - Ĉu: Czy
-    - la: (przedimek określony) 
-    - libreto: książeczka
-    - estis: była
-    - utila: przydatna
-    - al: do
-    - vi: ty
-    - ',' 
-    - kiun: którą
-    - mi: ja
-    - sendis: wysłałem
-    - '?'
+- demando: Czy chcesz, żebym pokazał ci moją najnowszą książkę?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - deziras: pragniesz
+  - ','
+  - ke: żeby
+  - mi: ja
+  - montru: pokaż
+  - al: do
+  - vi: ty
+  - mian: moją
+  - plej: najbardziej
+  - novan: nową
+  - libron: książkę
+  - '?'
+- demando: Co chcesz jutro na śniadanie?
+  rektatraduko:
+  - Kion: Co
+  - vi: ty
+  - volas: chcesz
+  - morgaŭ: jutro
+  - matenmanĝi: jeść na śniadanie
+  - '?'
+- demando: 'Kiedy przyjdzie Marko: o piątej czy o ósmej?'
+  rektatraduko:
+  - Kiam: Kiedy
+  - Marko: Marko
+  - alvenos: przyjdzie
+  - ','
+  - je: o
+  - la: (przedimek określony)
+  - kvina: piąta
+  - aŭ: lub
+  - je: o
+  - la: (przedimek określony)
+  - oka: ósma
+  - horo: godzina
+  - '?'
+- demando: Kiedy zauważyłeś, że cała rodzina nazywa mnie dobroczyńcą?
+  rektatraduko:
+  - Kiam: Kiedy
+  - vi: ty
+  - rimarkis: zauważyłeś
+  - ','
+  - ke: że
+  - la: (przedimek określony)
+  - tuta: cała
+  - familio: rodzina
+  - nomas: nazywa
+  - min: mnie
+  - bonfarulo: dobroczyńca
+  - '?'
+- demando: Czy była ci przydatna książeczka, którą ci posłałem?
+  rektatraduko:
+  - Ĉu: Czy
+  - la: (przedimek określony)
+  - libreto: książeczka
+  - ','
+  - kiun: którą
+  - mi: ja
+  - sendis: wysłałem
+  - al: do
+  - vi: ty
+  - ','
+  - estis: była
+  - utila: przydatna
+  - '?'

@@ -1,4 +1,3 @@
-Esperanto: esperanto
 akcepteblan: acceptabel
 alilandaj: udenlandske
 alporti: at bringe
@@ -49,6 +48,7 @@ elstaraj: udmærkede
 eniri: at gå ind
 eniris: gik ind
 eniru: gå ind!
+Esperanto: esperanto
 facilmovaj: nemme at flytte
 faligi: vælte
 faligis: væltede
@@ -93,7 +93,7 @@ karulo: skat
 klarigis: forklarede
 klarigon: forklaring
 klubanoj: klubmedlemmer
-kompreneble: 
+kompreneble:
 - forståeligt nok
 - selvfølgelig
 korpoforton: styrke
@@ -105,7 +105,7 @@ laboristo: arbejder
 lampeto: lille lampe
 lernanto: elev
 lernejo: skole
-lernejon: skole 
+lernejon: skole
 lernolibroj: skolebøger
 leteroj: breve
 libertempo: fritid
@@ -121,7 +121,7 @@ malfacilan: svær
 malfacile: svært
 malfeliĉo: ulykkelighed
 malforta: svag
-malforte: svagt 
+malforte: svagt
 malfruas: er forsinket
 malfrue: forsinket
 malfrui: at være forsinket
@@ -174,7 +174,7 @@ novaĵoj: nyheder
 opinion: holdning
 ordigi: at ordne
 paperoj: papirer
-paperojn:  papirer
+paperojn: papirer
 paperujon: skraldespand
 pasigos: vil tilbringe
 patrino: mor

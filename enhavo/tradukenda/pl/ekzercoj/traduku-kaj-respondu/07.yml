@@ -1,77 +1,71 @@
-- 
-  demando: Kto miał książkę, na którą czekaliście ponad dwa lata?
-  rektatraduko: 
-    - Kiu: Kto
-    - havis: miał
-    - la: (przedimek określony)
-    - libron: książkę
-    - ',' 
-    - kiun: którą
-    - vi: wy
-    - atendis: oczekiwaliście
-    - pli: więcej
-    - ol: niż
-    - du: dwa
-    - jarojn: lata
-    - '?'
-- 
-  demando: Czy chcesz, żebym ci pokazał moją najdroższą fotografię?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - volas: chcesz
-    - ','
-    - ke: że
-    - mi: ja
-    - montru: pokazuję
-    - al: do
-    - vi: ty
-    - mian: moją
-    - plej: najbardziej
-    - karan: drogą
-    - foton: fotografię
-    - '?'
-- 
-  demando: Gdzie kupiliście to ubranie?
-  rektatraduko: 
-    - Kie: Gdzie
-    - vi: wy
-    - aĉetis: kupiliście
-    - tiun: to
-    - vestaĵon: ubranie
-    - '?'
-- 
-  demando: Gdzie pójdziecie w niedzielę, jeśli będzie słoneczny dzień?
-  rektatraduko: 
-    - Kien: Gdzie
-    - vi: wy
-    - iros: pójdziecie
-    - dimanĉe: w niedzielę
-    - ',' 
-    - se: jeśli
-    - estos: będzie
-    - suna: słoneczny
-    - tago: dzień
-    - '?'
-- 
-  demando: Czy twój brat już wyruszył?
-  rektatraduko: 
-    - Ĉu: Czy
-    - via: twój
-    - frato: brat
-    - jam: już
-    - ekiris: zaczął iść
-    - '?'
-- 
-  demando: Gdzie jest woda, którą sam przyniosłeś?
-  rektatraduko: 
-    - Kie: Gdzie
-    - estas: jest
-    - la:  (przedimek określony)
-    - akvo: woda
-    - ',' 
-    - kiun: którą
-    - vi: ty
-    - mem: sam
-    - kunportis: przyniosłeś
-    - '?'
+- demando: Kto miał książkę, na którą czekałeś ponad dwa lata?
+  rektatraduko:
+  - Kiu: Kto
+  - havis: miał
+  - la: (przedimek określony)
+  - libron: książkę
+  - ','
+  - kiun: którą
+  - vi: ty
+  - atendis: czekałeś
+  - pli: więcej
+  - ol: niż
+  - du: dwa
+  - jarojn: lata
+  - '?'
+- demando: Czy chcesz, żebym pokazał ci najdroższe mi zdjęcie?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - volas: chcesz
+  - ','
+  - ke: żeby
+  - mi: ja
+  - montru: pokaż
+  - al: do
+  - vi: ty
+  - mian: moją
+  - plej: najbardziej
+  - karan: drogą, ukochaną
+  - foton: fotografię
+  - '?'
+- demando: Gdzie kupiłeś to ubranie?
+  rektatraduko:
+  - Kie: Gdzie
+  - vi: ty
+  - aĉetis: kupiłeś
+  - tiun: to
+  - vestaĵon: ubranie
+  - '?'
+- demando: Dokąd pójdziesz w niedzielę, jeśli będzie słonecznie?
+  rektatraduko:
+  - Kien: Dokąd
+  - vi: ty
+  - iros: pójdziesz
+  - dimanĉe: w niedzielę
+  - ','
+  - se: jeśli
+  - estos: będzie
+  - suna: słoneczny
+  - tago: dzień
+  - '?'
+- demando: Czy twój brat już wyruszył?
+  rektatraduko:
+  - Ĉu: Czy
+  - via: twój
+  - frato: brat
+  - jam: już
+  - ekiris: zaczął iść
+  - '?'
+- demando: Gdzie jest woda, którą sam przyniosłeś?
+  rektatraduko:
+  - Kie: Gdzie
+  - estas: jest
+  - la: (przedimek określony)
+  - akvo: woda
+  - ','
+  - kiun: którą
+  - vi: ty
+  - mem: sam
+  - kunportis: przyniosłeś
+  - '?'

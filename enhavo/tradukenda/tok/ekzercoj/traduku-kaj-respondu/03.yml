@@ -1,77 +1,72 @@
--
-  demando: Do waiters in large hotels understand a lot of languages? 
-  rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
-    - '?'
--
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
-    - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
-    - '?'
--
-  demando: Where did you see an old man and a young man who were carrying a large table?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
-    - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
-    - '?'
--
-  demando: How did it happen that you again came to us without brothers-and-sisters?
-  rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
-    - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
-    - '?'
--
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
-    - '?'
+- demando: jan pali pi tomo lape suli li sona ala sona e toki mute?
+  rektatraduko:
+  - Ĉu: anu seme
+  - kelneroj: jan pali pi pana moku
+  - en: lon
+  - grandaj: suli
+  - hoteloj: tomo lape mute
+  - komprenas: li sona
+  - multajn: mute
+  - lingvojn: toki mute
+  - '?'
+- demando: 'sina sona ala sona e ni: jan Ana li olin e kalama sin pi jan pi mani lili en meli lukin pona?'
+  rektatraduko:
+  - Ĉu: anu seme
+  - vi: sina
+  - scias: li sona
+  - ','
+  - ĉu: anu seme
+  - Ana: jan Ana
+  - ŝatas: li olin e
+  - la: ni
+  - novan: sin
+  - kanton: kalama musi
+  - pri: pi
+  - malriĉulo: jan pi mani lili
+  - kaj: en
+  - belulino: meli lukin pona
+  - '?'
+- demando: sina lukin e jan majuna e jan sin lon seme? ona li jo e supa suli.
+  rektatraduko:
+  - Kie: lon seme
+  - vi: sina
+  - vidis: li lukin e
+  - la: ni
+  - maljunulon: jan majuna
+  - kaj: en
+  - la: ni
+  - junulon: jan sin
+  - ','
+  - kiuj: jan ni
+  - portis: li jo e
+  - grandan: suli
+  - tablon: supa
+  - '?'
+- demando: 'ni li kama seme: sina kama sin tawa mi mute kepeken ala jan pi mama sama?'
+  rektatraduko:
+  - Kiel: nasin seme
+  - okazis: li kama
+  - ','
+  - ke: 'ni:'
+  - vi: sina
+  - denove: sin
+  - venis: li kama
+  - al: tawa
+  - ni: mi mute
+  - sen: kepeken ala
+  - gefratoj: jan pi mama sama
+  - '?'
+- demando: sina ken ala ken kama sona e toki Esperanto kepeken lipu sona sin lon tenpo lili pona?
+  rektatraduko:
+  - Ĉu: anu seme
+  - vi: sina
+  - povas: li ken
+  - per: kepeken
+  - la: ni
+  - nova: sin
+  - lernolibro: lipu sona
+  - sufiĉe: mute pona
+  - rapide: lon tenpo lili
+  - lerni: kama sona
+  - Esperanton: toki Esperanto
+  - '?'

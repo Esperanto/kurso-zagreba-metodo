@@ -1,70 +1,64 @@
-- 
-  demando: Conas a bhí do shean-bhaile?
-  rektatraduko: 
-    - Kia: Conas
-    - estis: bhí
-    - via: do
-    - malnova: sean
-    - hejmo: baile
-    - '?'
-- 
-  demando: Cé na leabhair a léis, agus an rabhadar go maith?
-  rektatraduko: 
-    - Kiujn: Cé na
-    - librojn: leabhair
-    - vi: tú
-    - legis: léigh
-    - kaj: agus
-    - ĉu: an
-    - ili: siad
-    - estas: tá
-    - bonaj: maith 
-    - '?'
-- 
-  demando: "Cad a dhein Áine agus Marc i seomra beag Mhairc?"
+- demando: Conas a bhí do shean-bhaile?
   rektatraduko:
-    - Kion: Cad
-    - faris: dhein
-    - Anna: Áine
-    - kaj: agus
-    - Marko: Marc
-    - en: in, i 
-    - la: an
-    - malgranda: beag
-    - ĉambro: seomra
-    - de: de
-    - Marko: Marc
-    - '?'
-- 
-  demando: An maith leat leabhair faoin ngrá a léamh?
-  rektatraduko: 
-    - Ĉu: An
-    - vi: tú
-    - ŝatas: an maith leat
-    - legi: léamh
-    - librojn: leabhair
-    - pri: faoi
-    - amo: grá
-    - '?'
-- 
-  demando: Cé a raghaidh abhaile farat?  
-  rektatraduko: 
-    - Kiu: Cé
-    - iros: raghaidh
-    - kun: fara
-    - vi: tú
-    - al: chuig 
-    - via: do
-    - hejmo: baile, abhaile 
-    - '?'
-- 
-  demando: "Conas atá súile do chailín?"
-  rektatraduko: 
-    - Kiaj: Conas
-    - estas: atá
-    - la: na
-    - okuloj: súile
-    - de: de
-    - via: do 
-    - amikino: cailín
-    - '?'
+  - Kia: Conas
+  - estis: bhí
+  - via: do
+  - malnova: sean
+  - hejmo: baile
+  - '?'
+- demando: Cé na leabhair a léis, agus an rabhadar go maith?
+  rektatraduko:
+  - Kiujn: Cé na
+  - librojn: leabhair
+  - vi: tú
+  - legis: léigh
+  - kaj: agus
+  - ĉu: an
+  - ili: siad
+  - estas: tá
+  - bonaj: maith
+  - '?'
+- demando: Cad a dhein Ana agus Marko i seomra beag de chuid Marko?
+  rektatraduko:
+  - Kion: Cad
+  - faris: dhein
+  - Ana: Ana
+  - kaj: agus
+  - Marko: Marko
+  - en: in, i
+  - la: an
+  - malgranda: beag
+  - ĉambro: seomra
+  - de: de
+  - Marko: Marko
+  - '?'
+- demando: An maith leat leabhair faoin ngrá a léamh?
+  rektatraduko:
+  - Ĉu: An
+  - vi: tú
+  - ŝatas: an maith leat
+  - legi: léamh
+  - librojn: leabhair
+  - pri: faoi
+  - amo: grá
+  - '?'
+- demando: Cé a raghaidh abhaile farat?
+  rektatraduko:
+  - Kiu: Cé
+  - iros: raghaidh
+  - kun: fara
+  - vi: tú
+  - al: chuig
+  - via: do
+  - hejmo: baile, abhaile
+  - '?'
+- demando: Conas atá súile do chailín?
+  rektatraduko:
+  - Kiaj: Conas
+  - estas: atá
+  - la: na
+  - okuloj: súile
+  - de: de
+  - via: do
+  - amikino: cailín
+  - '?'

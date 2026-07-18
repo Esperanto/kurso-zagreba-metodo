@@ -1,27 +1,27 @@
-unu: หนึ่ง
-du: สอง
-tri: สาม
-kvar: สี่
-kvin: ห้า
-ses: หก
-sep: เจ็ด
-ok: แปด
-naŭ: เก้า
-dek: สิบ
-dek unu: สิบเอ็ด
-dek du: สิบสอง
-dek tri: สิบสาม
-dek kvar: สิบสี่
-dek kvin: สิบห้า 
-dek ses: สิบหก 
-dek sep: สิบเจ็ด
-dek ok: สิบแปด
-dek naŭ: สิบเก้า
-dudek: ยี่สิบ
-tridek: สามสิบ
-kvardek: สี่สิบ
 cent: หนึ่งร้อย
+dek: สิบ
+dek du: สิบสอง
+dek kvar: สิบสี่
+dek kvin: สิบห้า
+dek naŭ: สิบเก้า
+dek ok: สิบแปด
+dek sep: สิบเจ็ด
+dek ses: สิบหก
+dek tri: สิบสาม
+dek unu: สิบเอ็ด
+du: สอง
 ducent: สองร้อย
-tricent: สามร้อย
-mil: หนึ่งพัน
+dudek: ยี่สิบ
 dumil: สองพัน
+kvar: สี่
+kvardek: สี่สิบ
+kvin: ห้า
+mil: หนึ่งพัน
+naŭ: เก้า
+ok: แปด
+sep: เจ็ด
+ses: หก
+tri: สาม
+tricent: สามร้อย
+tridek: สามสิบ
+unu: หนึ่ง

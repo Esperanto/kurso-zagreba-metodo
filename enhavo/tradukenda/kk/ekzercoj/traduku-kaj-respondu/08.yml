@@ -1,86 +1,80 @@
-- 
-  demando: Who is going to clean the kitchen after lunch?
-  rektatraduko: 
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
-    - post: after
-    - la: the
-    - tagmanĝo: lunch
-    - '?'
-- 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - trinki: to drink
-    - ':' 
-    - teon: tea
-    - ',' 
-    - iom: some
-    - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
-    - '?'
-- 
-  demando: Why did you so suddenly decide to renovate your small room?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
-    - '?'
-- 
-  demando: To whom did you give the clean wine glasses?
-  rektatraduko: 
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for 
-    - la: the
-    - vino: wine
-    - '?'
-- 
-  demando: Against whom did your sports club play two weeks ago?
-  rektatraduko: 
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
-    - '?'
-- 
-  demando: Do you often see the policeman who is living in the appartment above you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
-    - ',' 
-    - kiu: who
-    - loĝas: lives
-    - en: in 
-    - la: the
-    - loĝejo: appartment
-    - super: above
-    - vi: you
-    - '?'
+- demando: Түскі астан кейін асүйді кім тазалайды?
+  rektatraduko:
+  - Kiu: кім
+  - purigos: тазалайды
+  - la: анықтауыш
+  - kuirejon: асүйді
+  - post: кейін
+  - la: анықтауыш
+  - tagmanĝo: түскі ас
+  - '?'
+- demando: 'Не ішкің келеді: шай, кофе ме, әлде ештеңе ішкің келмей ме?'
+  rektatraduko:
+  - Kion: нені
+  - vi: сен
+  - volas: қалайды
+  - trinki: ішу
+  - ':'
+  - teon: шайды
+  - ','
+  - iom: аздап
+  - da: мөлшер
+  - kafo: кофе
+  - aŭ: немесе
+  - ĉu: ма/ме
+  - vi: сен
+  - volas: қалайды
+  - nenion: ештеңе
+  - '?'
+- demando: Неге бөлмеңді жөндеуге кенеттен шешім қабылдадың?
+  rektatraduko:
+  - Kial: неге
+  - vi: сен
+  - tiel: осылай
+  - subite: кенеттен
+  - decidis: шешті
+  - renovigi: жөндеу
+  - vian: сенің
+  - ĉambreton: шағын бөлмені
+  - '?'
+- demando: Таза шарап бокалдарын кімге бердің?
+  rektatraduko:
+  - Al: кімге
+  - kiu: кім
+  - vi: сен
+  - donis: берді
+  - la: анықтауыш
+  - purajn: таза
+  - glasojn: бокалдарды
+  - por: үшін
+  - la: анықтауыш
+  - vino: шарап
+  - '?'
+- demando: Екі апта бұрын спорт клубың кімге қарсы ойнады?
+  rektatraduko:
+  - Kontraŭ: қарсы
+  - kiu: кім
+  - ludis: ойнады
+  - via: сенің
+  - sportklubo: спорт клубы
+  - antaŭ: бұрын
+  - du: екі
+  - semajnoj: апталар
+  - '?'
+- demando: Үстіңдегі пәтерде тұратын полиция қызметкерін жиі көресің бе?
+  rektatraduko:
+  - Ĉu: ма/ме
+  - vi: сен
+  - ofte: жиі
+  - vidas: көресің
+  - la: анықтауыш
+  - policiston: полиция қызметкерін
+  - ','
+  - kiu: кім
+  - loĝas: тұрады
+  - en: ішінде/де
+  - la: анықтауыш
+  - loĝejo: пәтер
+  - super: үстінде
+  - vi: сен
+  - '?'

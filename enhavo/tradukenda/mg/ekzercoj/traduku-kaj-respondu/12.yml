@@ -1,68 +1,63 @@
-- 
-  demando: "Moa ve mbola hihaona isika,amin'ny fotoana iray ary amin'ny toerana hafa?"
-  rektatraduko: 
-    - Ĉu: Moa ve
-    - ni: isika
-    - revidos: hihaona
-    - nin: isika
-    - ',' 
-    - kie: any
-    - ajn: toerana hafa
-    - kaj: ""
-    - kiam: ary
-    - ajn: toerana hafa
-    - '?'
-- 
-  demando: "Rahovina aho no hamerina ny antsasaky ny boky hafa ?"
-  rektatraduko: 
-    - Kiam: Rahoviana
-    - mi: aho
-    - rericevos: no hamerina
-    - la: ny
-    - alian: hafa
-    - duonon: antsasany
-    - de: ny
-    - la: ny
-    - libroj: boky
-    - '?'
-- 
-  demando: "Moa ve ianao mba mila mihoatra ny ampahefany amin'ity asa ity?"
-  rektatraduko: 
-    - Ĉu: Moa ve
-    - vi: ianao / ianareo
-    - bezonos: mba mila
-    - pli: mihoatra
-    - ol: ny
-    - kvaronan: ampahefany
-    - jaron: toana
-    - por: aminy
-    - tiuj: ny
-    - laboroj: asa
-    - '?'
-- 
-  demando: "Fa maninona mangatsiaka kokoa dia miandry ela kokoa isika ?"
-  rektatraduko: 
-    - Kial:  Fa maninona 
-    - estas: dia
-    - des: ""
-    - pli: kokoa
-    - malvarma: mangatsiaka
-    - ',' 
-    - ju: ""
-    - pli: kokoa
-    - longe: ela
-    - ni: isika
-    - atendas: miandry
-    - '?'
-- 
-  demando: "Moa ve mba mety ho faly amin'ny lelahy rehetra ve ianao ?"
-  rektatraduko: 
-    - Ĉu: Moa ve
-    - vi: ianao / ianareo 
-    - estus: ho
-    - kontenta: faly
-    - kun: aminy
-    - iu: rehetra
-    - ajn: quel
-    - viro: lehilahy
-    - '?'
+- demando: Moa ve mbola hihaona isika,amin'ny fotoana iray ary amin'ny toerana hafa?
+  rektatraduko:
+  - Ĉu: Moa ve
+  - ni: isika
+  - revidos: hihaona
+  - nin: isika
+  - ','
+  - kie: any
+  - ajn: toerana hafa
+  - kaj: ary
+  - kiam: rahoviana
+  - ajn: na rahoviana
+  - '?'
+- demando: Rahovina aho no hamerina ny antsasaky ny boky hafa ?
+  rektatraduko:
+  - Kiam: Rahoviana
+  - mi: aho
+  - rericevos: no hamerina
+  - la: ny
+  - alian: hafa
+  - duonon: antsasany
+  - de: ny
+  - la: ny
+  - libroj: boky
+  - '?'
+- demando: Moa ve ianao mba mila mihoatra ny ampahefany amin'ity asa ity?
+  rektatraduko:
+  - Ĉu: Moa ve
+  - vi: ianao / ianareo
+  - bezonos: mba mila
+  - pli: mihoatra
+  - ol: ny
+  - kvaronan: ampahefany
+  - jaron: toana
+  - por: aminy
+  - tiuj: ny
+  - laboroj: asa
+  - '?'
+- demando: Fa maninona mangatsiaka kokoa dia miandry ela kokoa isika ?
+  rektatraduko:
+  - Kial: Fa maninona
+  - ju: arakaraka ny
+  - pli: kokoa
+  - longe: ela
+  - ni: isika
+  - atendas: miandry
+  - ','
+  - des: dia vao mainka
+  - pli: kokoa
+  - malvarme: mangatsiaka
+  - estas: dia
+  - '?'
+- demando: Moa ve mba mety ho faly amin'ny lelahy rehetra ve ianao ?
+  rektatraduko:
+  - Ĉu: Moa ve
+  - vi: ianao / ianareo
+  - estus: ho
+  - kontenta: faly
+  - kun: aminy
+  - iu: rehetra
+  - ajn: na iza na iza
+  - viro: lehilahy
+  - '?'

@@ -1,57 +1,51 @@
-- 
-  demando: Vem är din tjejkompis?
+- demando: Vem är din tjejkompis?
   rektatraduko:
-    - Kiu: Vem
-    - estas: är
-    - via: din
-    - amikino: tjejkompis
-    - '?'
-- 
-  demando: Skriver din tjejkompis Anna nu i rummet?
+  - Kiu: Vem
+  - estas: är
+  - via: din
+  - amikino: tjejkompis
+  - '?'
+- demando: Skriver din tjejkompis Ana nu i rummet?
   rektatraduko:
-    - Ĉu: (frågepartikeln)
-    - via: din
-    - amikino: tjejkompis
-    - Anna: Anna
-    - skribas: skriver
-    - nun: nu
-    - en: i
-    - la: (bestämd artikel) 
-    - ĉambro: rum
-    - '?'
-- 
-  demando: Arbetar din fars vän på hotellet?
+  - Ĉu: (frågepartikeln)
+  - via: din
+  - amikino: tjejkompis
+  - Ana: Ana
+  - skribas: skriver
+  - nun: nu
+  - en: i
+  - la: (bestämd artikel)
+  - ĉambro: rum
+  - '?'
+- demando: Arbetar din fars vän på hotellet?
   rektatraduko:
-    - Ĉu: (frågepartikeln)
-    - la: (bestämd artikel)
-    - amiko: vän
-    - de: preposition som visar ägande
-    - via: din
-    - patro: far
-    - laboras: arbetar
-    - en: i
-    - hotelo: hotell
-    - '?'
-- 
-  demando: Vad finns på arbetsbordet i vårt rum?
+  - Ĉu: (frågepartikeln)
+  - la: (bestämd artikel)
+  - amiko: vän
+  - de: preposition som visar ägande
+  - via: din
+  - patro: far
+  - laboras: arbetar
+  - en: i
+  - hotelo: hotell
+  - '?'
+- demando: Vad finns på arbetsbordet i vårt rum?
   rektatraduko:
-    - Kio: Vad 
-    - estas: är
-    - sur: på
-    - la: (bestämd artikel)
-    - labortablo: arbetsbord
-    - en: i
-    - nia: vårt
-    - ĉambro: rum
-    - '?'
-- 
-  demando: Ligger det en esperantolärobok på ditt bord?
+  - Kio: Vad
+  - estas: är
+  - sur: på
+  - la: (bestämd artikel)
+  - labortablo: arbetsbord
+  - en: i
+  - nia: vårt
+  - ĉambro: rum
+  - '?'
+- demando: Ligger det en esperantolärobok på ditt bord?
   rektatraduko:
-    - Ĉu: (frågepartikeln)
-    - Esperanto-lernolibro: esperantolärobok
-    - estas: är
-    - sur: på
-    - via: ditt
-    - tablo: bord
-    - '?'
-
+  - Ĉu: (frågepartikeln)
+  - Esperanto-lernolibro: esperantolärobok
+  - estas: är
+  - sur: på
+  - via: ditt
+  - tablo: bord
+  - '?'

@@ -1,75 +1,70 @@
--
-  demando: Ce i-ar putea bucura cel mai mult pe părinții tăi?
+- demando: Ce i-ar putea bucura cel mai mult pe părinții tăi?
   rektatraduko:
-    - Kio: Ce
-    - povus: ar putea
-    - plej: cel mai mult
-    - ĝojigi: bucura
-    - viajn: tăi
-    - gepatrojn: părinți
-    - '?'
--
-  demando: Dacă măcar ai merge după cursuri cu mine în centrul orașului!
+  - Kio: Ce
+  - povus: ar putea
+  - plej: cel mai mult
+  - ĝojigi: bucura
+  - viajn: tăi
+  - gepatrojn: părinți
+  - '?'
+- demando: Dacă măcar ai merge după cursuri cu mine în oraș!
   rektatraduko:
-    - Se: Dacă
-    - almenaŭ: măcar
-    - vi: tu
-    - post: după
-    - la: (articol)
-    - lernado: învățare
-    - irus: ai merge
-    - kun: cu
-    - mi: mine
-    - en: în
-    - la: (articol)
-    - urbocentron: centrul orașului
-    - '!'
--
-  demando: Unde ai dori să călătorești dacă ai avea destui bani și timp?
+  - Se: Dacă
+  - almenaŭ: măcar
+  - vi: tu
+  - post: după
+  - la: (articol)
+  - lernado: învățare
+  - irus: ai merge
+  - kun: cu
+  - mi: mine
+  - en: în
+  - la: (articol)
+  - urbon: oraș
+  - '!'
+- demando: Unde ai dori să călătorești dacă ai avea destui bani și timp?
   rektatraduko:
-    - Kien: Unde
-    - vi: tu
-    - dezirus: ai dori
-    - vojaĝi: să călătorești
-    - ','
-    - se: dacă
-    - vi: tu
-    - havus: ai avea
-    - sufiĉe: destul
-    - da: de
-    - mono: bani
-    - kaj: și
-    - tempo: timp
-    - '?'
--
-  demando: Plănuiești să mergi la Paris cu mașina sau nu pare mult mai bine cu trenul?
+  - Kien: Unde
+  - vi: tu
+  - dezirus: ai dori
+  - vojaĝi: să călătorești
+  - ','
+  - se: dacă
+  - vi: tu
+  - havus: ai avea
+  - sufiĉe: destul
+  - da: de
+  - mono: bani
+  - kaj: și
+  - tempo: timp
+  - '?'
+- demando: Plănuiești să mergi în Italia cu mașina sau nu pare mult mai bine cu trenul?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - planas: plănuiești
-    - veturi: să mergi
-    - al: la
-    - Parizo: Paris
-    - per: cu
-    - aŭto: mașină
-    - aŭ: sau
-    - ĉu: oare
-    - ne: nu
-    - ŝajnas: pare
-    - multe: mult
-    - pli: mai
-    - bone: bine
-    - per: cu
-    - vagonaro: tren
-    - '?'
--
-  demando: De ce explică oameni diferiți aceleași idei în moduri diferite?
+  - Ĉu: oare
+  - vi: tu
+  - planas: plănuiești
+  - veturi: să mergi
+  - al: la
+  - Italio: Italia
+  - per: cu
+  - aŭto: mașină
+  - aŭ: sau
+  - ĉu: oare
+  - ne: nu
+  - ŝajnas: pare
+  - multe: mult
+  - pli: mai
+  - bone: bine
+  - per: cu
+  - vagonaro: tren
+  - '?'
+- demando: De ce explică oameni diferiți aceleași idei în moduri diferite?
   rektatraduko:
-    - Kial: De ce
-    - diversaj: diferiți
-    - homoj: oameni
-    - klarigas: explică
-    - samajn: aceleași
-    - ideojn: idei
-    - diversmaniere: în moduri diferite
-    - '?'
+  - Kial: De ce
+  - diversaj: diferiți
+  - homoj: oameni
+  - klarigas: explică
+  - samajn: aceleași
+  - ideojn: idei
+  - diversmaniere: în moduri diferite
+  - '?'

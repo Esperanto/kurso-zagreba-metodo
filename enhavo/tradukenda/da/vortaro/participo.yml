@@ -1,8 +1,8 @@
 ant: nutid aktiv
+at: nutid passiv
 int: datid aktiv
+it: datid passiv
 ont: fremtid aktiv
+ot: fremtid passiv
 unt: betinget aktiv
-at:  nutid passiv
-it:  datid passiv
-ot:  fremtid passiv
-ut:  betinget passiv
+ut: betinget passiv

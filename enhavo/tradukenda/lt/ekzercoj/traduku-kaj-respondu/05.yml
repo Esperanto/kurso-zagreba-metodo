@@ -1,0 +1,59 @@
+- demando: Ar gali ramiai mokytis, kai kas nors linksmai dainuoja?
+  rektatraduko:
+  - Ĉu: ar
+  - vi: tu, jūs
+  - povas: gali
+  - trankvile: ramiai
+  - lerni: mokytis
+  - ','
+  - dum: kol, per
+  - iu: kas nors
+  - ĝoje: džiaugsmingai
+  - kantas: dainuoja
+  - '?'
+- demando: Kas žino, kada ir kur vėl pasimatysime?
+  rektatraduko:
+  - Kiu: kas
+  - scias: žinai
+  - ','
+  - kiam: kada
+  - kaj: ir
+  - kie: kur
+  - ni: mes
+  - revidos: vėl pamatysime
+  - nin: mus, vienas kitą
+  - '?'
+- demando: Kelinta dabar valanda?
+  rektatraduko:
+  - Kioma: kelinta
+  - horo: valanda
+  - estas: yra
+  - nun: dabar
+  - '?'
+- demando: Ar kas nors padėjo tau atidaryti seno namo duris?
+  rektatraduko:
+  - Ĉu: ar
+  - iu: kas nors
+  - helpis: padėjo
+  - al: į, link
+  - vi: tu, jūs
+  - malfermi: atidaryti
+  - la: apibrėžtasis artikelis
+  - pordon: duris
+  - de: kieno, iš
+  - la: apibrėžtasis artikelis
+  - malnova: senas
+  - domo: namas
+  - '?'
+- demando: Kodėl neturi laiko ilgiau manęs klausytis?
+  rektatraduko:
+  - Kial: kodėl
+  - vi: tu, jūs
+  - ne: ne
+  - havas: turi
+  - tempon: laiko
+  - aŭskulti: klausytis
+  - min: mane
+  - pli: daugiau
+  - longe: ilgai
+  - '?'

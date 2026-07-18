@@ -1,77 +1,71 @@
-- 
-  demando: Wie had het boek, waar je meer dan twee jaar op gewacht hebt?
+- demando: Wie had het boek, waar je meer dan twee jaar op gewacht hebt?
   rektatraduko:
-    - Kiu: Wie
-    - havis: had 
-    - la: het 
-    - libron: boek 
-    - ',' 
-    - kiun: dat 
-    - vi: je
-    - atendis: verwacht hebt 
-    - pli: meer 
-    - ol: dan 
-    - du: twee 
-    - jarojn: jaar 
-    - '?'
-- 
-  demando: Wil je, dat ik je mijn liefste foto toon?
+  - Kiu: Wie
+  - havis: had
+  - la: het
+  - libron: boek
+  - ','
+  - kiun: dat
+  - vi: je
+  - atendis: hebt gewacht op
+  - pli: meer
+  - ol: dan
+  - du: twee
+  - jarojn: jaar
+  - '?'
+- demando: Wil je, dat ik je mijn liefste foto toon?
   rektatraduko:
-    - Ĉu: Of 
-    - vi: je 
-    - volas: wil 
-    - ','
-    - ke: dat 
-    - mi: ik 
-    - montru: toon 
-    - al: aan
-    - vi: jou 
-    - mian: mijn 
-    - plej: meest 
-    - karan: geliefde 
-    - foton: foto 
-    - '?'
-- 
-  demando: Waar heb je dat kledingstuk gekocht?
+  - Ĉu: Of
+  - vi: je
+  - volas: wil
+  - ','
+  - ke: dat
+  - mi: ik
+  - montru: toon
+  - al: aan
+  - vi: jou
+  - mian: mijn
+  - plej: meest
+  - karan: geliefde
+  - foton: foto
+  - '?'
+- demando: Waar heb je dat kledingstuk gekocht?
   rektatraduko:
-    - Kie: Waar 
-    - vi: je 
-    - aĉetis: hebt gekocht 
-    - tiun: dat 
-    - vestaĵon: kledingstuk 
-    - '?'
-- 
-  demando: Waarheen zal je op zondag gaan, als het een zonnige dag zal zijn?/ Waar ga je zondag heen, als het zonnig is?
+  - Kie: Waar
+  - vi: je
+  - aĉetis: hebt gekocht
+  - tiun: dat
+  - vestaĵon: kledingstuk
+  - '?'
+- demando: Waar ga je zondag heen als het zonnig is?
   rektatraduko:
-    - Kien: Waarheen 
-    - vi: je 
-    - iros: zal gaan 
-    - dimanĉe: op zondag 
-    - ',' 
-    - se: wanneer
-    - estos: zal zijn
-    - suna: zonnige 
-    - tago: dag 
-    - '?'
-- 
-  demando: Is je broer reeds vertrokken?
+  - Kien: Waarheen
+  - vi: je
+  - iros: zal gaan
+  - dimanĉe: op zondag
+  - ','
+  - se: als
+  - estos: zal zijn
+  - suna: zonnige
+  - tago: dag
+  - '?'
+- demando: Is je broer reeds vertrokken?
   rektatraduko:
-    - Ĉu: Of 
-    - via: je 
-    - frato: broer
-    - jam: reeds 
-    - ekiris: is vertrokken 
-    - '?'
-- 
-  demando: Waar is het water, dat je zelf hebt meegebracht?
+  - Ĉu: Of
+  - via: je
+  - frato: broer
+  - jam: reeds
+  - ekiris: is vertrokken
+  - '?'
+- demando: Waar is het water, dat je zelf hebt meegebracht?
   rektatraduko:
-    - Kie: Waar
-    - estas: is 
-    - la: het
-    - akvo: water
-    - ',' 
-    - kiun: dat 
-    - vi: je 
-    - mem: zelf
-    - kunportis: hebt meegebracht 
-    - '?'
+  - Kie: Waar
+  - estas: is
+  - la: het
+  - akvo: water
+  - ','
+  - kiun: dat
+  - vi: je
+  - mem: zelf
+  - kunportis: hebt meegebracht
+  - '?'

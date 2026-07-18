@@ -1,70 +1,64 @@
-- 
-  demando: บ้านหลังเก่าของคุณลักษณะเป็นอย่างไร
-  rektatraduko: 
-    - Kia: ลักษณะอย่างไร
-    - estis: เป็น
-    - via: ของคุณ
-    - malnova: เก่า
-    - hejmo: บ้าน 
-    - '?'
-- 
-  demando: คุณอ่านหนังสือเล่มไหนบ้างและพวกมันดีไหม
-  rektatraduko: 
-    - Kiujn: เล่มไหน
-    - librojn: หนังสือ
-    - vi: คุณ
-    - legis: อ่าน
-    - kaj: และ
-    - ĉu: ไหม
-    - ili: พวกมัน
-    - estas: เป็น
-    - bonaj: ดี 
-    - '?'
-- 
-  demando: "มาร์กและอันนาทำอะไรกันอยู่ในห้องเล็ก ๆ ของมาร์ก"
+- demando: บ้านหลังเก่าของคุณเป็นอย่างไร
   rektatraduko:
-    - Kion: อะไร
-    - faris: ทำ
-    - Anna: อันนา
-    - kaj: และ
-    - Marko: มาร์ก
-    - en: ใน 
-    - la: คำนำหน้านาม
-    - malgranda: เล็ก
-    - ĉambro: ห้อง
-    - de: ของ
-    - Marko: มาร์ก
-    - '?'
-- 
-  demando: คุณชอบอ่านหนังสือเกี่ยวกับความรักไหม
-  rektatraduko: 
-    - Ĉu: ไหม
-    - vi: คุณ
-    - ŝatas: ชอบ
-    - legi: อ่าน
-    - librojn: หนังสือ
-    - pri: เกี่ยวกับ
-    - amo: ความรัก
-    - '?'
-- 
-  demando: ใครจะไปยังบ้านของคุณกับคุณ
-  rektatraduko: 
-    - Kiu: ใคร
-    - iros: จะไป
-    - kun: กับ
-    - vi: คุณ
-    - al: ไปยัง 
-    - via: ของคุณ
-    - hejmo: บ้าน
-    - '?'
-- 
-  demando: "ดวงตาของเพื่อนผู้หญิงของคุณเป็นอย่างไร"
-  rektatraduko: 
-    - Kiaj: ลักษณะเป็นอย่างไร
-    - estas: เป็น
-    - la: คำนำหน้านาม
-    - okuloj: ดวงตา
-    - de: ของ
-    - via: ของคุณ
-    - amikino: เพื่อนผู้หญิง
-    - '?'
+  - Kia: ลักษณะอย่างไร
+  - estis: เป็น
+  - via: ของคุณ
+  - malnova: เก่า
+  - hejmo: บ้าน
+  - '?'
+- demando: คุณอ่านหนังสือเล่มไหนบ้างและพวกมันดีไหม
+  rektatraduko:
+  - Kiujn: เล่มไหน
+  - librojn: หนังสือ
+  - vi: คุณ
+  - legis: อ่าน
+  - kaj: และ
+  - ĉu: ไหม
+  - ili: พวกมัน
+  - estas: เป็น
+  - bonaj: ดี
+  - '?'
+- demando: มาร์กและอานาทำอะไรกันอยู่ในห้องเล็ก ๆ ของมาร์ก
+  rektatraduko:
+  - Kion: อะไร
+  - faris: ทำ
+  - Ana: อานา
+  - kaj: และ
+  - Marko: มาร์ก
+  - en: ใน
+  - la: คำนำหน้านาม
+  - malgranda: เล็ก
+  - ĉambro: ห้อง
+  - de: ของ
+  - Marko: มาร์ก
+  - '?'
+- demando: คุณชอบอ่านหนังสือเกี่ยวกับความรักไหม
+  rektatraduko:
+  - Ĉu: ไหม
+  - vi: คุณ
+  - ŝatas: ชอบ
+  - legi: อ่าน
+  - librojn: หนังสือ
+  - pri: เกี่ยวกับ
+  - amo: ความรัก
+  - '?'
+- demando: ใครจะไปบ้านของคุณกับคุณ
+  rektatraduko:
+  - Kiu: ใคร
+  - iros: จะไป
+  - kun: กับ
+  - vi: คุณ
+  - al: ไปยัง
+  - via: ของคุณ
+  - hejmo: บ้าน
+  - '?'
+- demando: ดวงตาของเพื่อนผู้หญิงของคุณเป็นอย่างไร
+  rektatraduko:
+  - Kiaj: ลักษณะเป็นอย่างไร
+  - estas: เป็น
+  - la: คำนำหน้านาม
+  - okuloj: ดวงตา
+  - de: ของ
+  - via: ของคุณ
+  - amikino: เพื่อนผู้หญิง
+  - '?'

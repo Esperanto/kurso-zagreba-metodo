@@ -1,16 +1,16 @@
-'ĉu ne': 
-- "μήπως όχι;"
-- "έτσι δεν είναι;"
-'iom post iom': "λίγο - λίγο"
-'pli-malpli': "πάνω - κάτω"
-'memkompreneble': "αυτονόητα"
-'temas pri': 
-- αφορά το
-- αφορά τι
-'iomete': λιγάκι
-'rilate al': "σχετικά με"
-'ni diru': "ας πούμε"
-'verŝajne': πιθανώς
-'eble': 
+eble:
 - θα μπορούσε
 - ίσως
+iom post iom: λίγο - λίγο
+iomete: λιγάκι
+memkompreneble: αυτονόητα
+ni diru: ας πούμε
+pli-malpli: πάνω - κάτω
+rilate al: σχετικά με
+temas pri:
+- αφορά το
+- αφορά τι
+verŝajne: πιθανώς
+ĉu ne:
+- μήπως όχι;
+- έτσι δεν είναι;

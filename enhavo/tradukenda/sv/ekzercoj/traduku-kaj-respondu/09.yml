@@ -1,75 +1,70 @@
-- 
-  demando: Vad skulle kunna glädja dina föräldrar mest?
-  rektatraduko: 
-    - Kio: Vad
-    - povus: skulle kunna
-    - plej: mest
-    - ĝojigi: glädja
-    - viajn: dina
-    - gepatrojn: föräldrar
-    - '?'
-- 
-  demando: Om du åtminstone skulle åka med mig in till stan efter skolan!
-  rektatraduko: 
-    - Se: Om
-    - almenaŭ: åtmisntone
-    - vi: du
-    - post: efter
-    - la: (bestämd artikel)
-    - lernado: lärande
-    - irus: skulle gå
-    - kun: med
-    - mi: jag
-    - en: in
-    - la: (bestämd artikel)
-    - urbocentron: stadskärna
-    - '!'
-- 
-  demando: Vart skulle du önska att resa om du hade tillräckligt med tid och pengar?
-  rektatraduko: 
-    - Kien: Vart
-    - vi: de
-    - dezirus: skulle önska
-    - vojaĝi: resa
-    - ',' 
-    - se: om
-    - vi: du
-    - havus: skulle ha
-    - sufiĉe: tillräckligt
-    - da: utav
-    - mono: pengar
-    - kaj: och
-    - tempo: tid
-    - '?'
-- 
-  demando: Planerar ni att resa till Paris med bil? Tror ni inte att det är mycket bättre att åka tåg?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - vi: du
-    - planas: planerar
-    - veturi: åka, resa
-    - al: till
-    - Parizo: Paris
-    - per: med
-    - aŭto: bil
-    - aŭ: eller
-    - ĉu: (frågepartikeln)
-    - ne: inte
-    - ŝajnas: verkar
-    - multe: mycket
-    - pli: mer
-    - bone: bra
-    - per: med
-    - vagonaro: tåg
-    - '?'
-- 
-  demando: Varför förlkarar olika människor samma idéer på olika sätt?
-  rektatraduko: 
-    - Kial: Kial
-    - diversaj: olika
-    - homoj: människor
-    - klarigas: förklarar
-    - samajn: samma
-    - ideojn: idéer
-    - diversmaniere: på olika sätt 
-    - '?'
+- demando: Vad skulle kunna glädja dina föräldrar mest?
+  rektatraduko:
+  - Kio: Vad
+  - povus: skulle kunna
+  - plej: mest
+  - ĝojigi: glädja
+  - viajn: dina
+  - gepatrojn: föräldrar
+  - '?'
+- demando: Om du åtminstone skulle åka med mig in till stan efter skolan!
+  rektatraduko:
+  - Se: Om
+  - almenaŭ: åtminstone
+  - vi: du
+  - post: efter
+  - la: (bestämd artikel)
+  - lernado: lärande
+  - irus: skulle gå
+  - kun: med
+  - mi: jag
+  - en: in
+  - la: (bestämd artikel)
+  - urbon: stad
+  - '!'
+- demando: Vart skulle du önska att resa om du hade tillräckligt med tid och pengar?
+  rektatraduko:
+  - Kien: Vart
+  - vi: du
+  - dezirus: skulle önska
+  - vojaĝi: resa
+  - ','
+  - se: om
+  - vi: du
+  - havus: skulle ha
+  - sufiĉe: tillräckligt
+  - da: utav
+  - mono: pengar
+  - kaj: och
+  - tempo: tid
+  - '?'
+- demando: Planerar ni att resa till Italien med bil? Tror ni inte att det är mycket bättre att åka tåg?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - vi: du
+  - planas: planerar
+  - veturi: åka, resa
+  - al: till
+  - Italio: Italien
+  - per: med
+  - aŭto: bil
+  - aŭ: eller
+  - ĉu: (frågepartikeln)
+  - ne: inte
+  - ŝajnas: verkar
+  - multe: mycket
+  - pli: mer
+  - bone: bra
+  - per: med
+  - vagonaro: tåg
+  - '?'
+- demando: Varför förklarar olika människor samma idéer på olika sätt?
+  rektatraduko:
+  - Kial: Varför
+  - diversaj: olika
+  - homoj: människor
+  - klarigas: förklarar
+  - samajn: samma
+  - ideojn: idéer
+  - diversmaniere: på olika sätt
+  - '?'

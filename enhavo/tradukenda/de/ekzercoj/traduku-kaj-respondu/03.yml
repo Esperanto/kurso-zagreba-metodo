@@ -1,77 +1,72 @@
--
-  demando: Verstehen Kellner in großen Hotels viele Sprachen?
+- demando: Verstehen Kellner in großen Hotels viele Sprachen?
   rektatraduko:
-    - Ĉu: Ob
-    - kelneroj: Kellner
-    - en: in
-    - grandaj: großen
-    - hoteloj: Hotels
-    - komprenas: verstehen
-    - multajn: viele
-    - lingvojn: Sprachen
-    - '?'
--
-  demando: Weißt du, ob Anna das neue Lied über einen Armen und eine Schöne mag?
+  - Ĉu: Ob
+  - kelneroj: Kellner
+  - en: in
+  - grandaj: großen
+  - hoteloj: Hotels
+  - komprenas: verstehen
+  - multajn: viele
+  - lingvojn: Sprachen
+  - '?'
+- demando: Weißt du, ob Ana das neue Lied über einen armen Mann und eine schöne Frau mag?
   rektatraduko:
-    - Ĉu: Ob
-    - vi: du
-    - scias: weißt
-    - ','
-    - ĉu: ob
-    - Anna: Anna
-    - ŝatas: mag
-    - la: das
-    - novan: neue
-    - kanton: Lied
-    - pri: über
-    - malriĉulo: einen Armen
-    - kaj: und
-    - belulino: eine Schöne
-    - '?'
--
-  demando: Wo hast du den Alten und den Jungen gesehen, die einen großen Tisch getragen haben?
+  - Ĉu: Ob
+  - vi: du
+  - scias: weißt
+  - ','
+  - ĉu: ob
+  - Ana: Ana
+  - ŝatas: mag
+  - la: das
+  - novan: neue
+  - kanton: Lied
+  - pri: über
+  - malriĉulo: armer Mensch
+  - kaj: und
+  - belulino: schöne Frau
+  - '?'
+- demando: Wo hast du den alten Mann und den jungen Mann gesehen, die einen großen Tisch getragen haben?
   rektatraduko:
-    - Kie: Wo
-    - vi: du
-    - vidis: sahst
-    - la: den
-    - maljunulon: Alten
-    - kaj: und
-    - la: den
-    - junulon: Jungen
-    - ','
-    - kiuj: die
-    - portis: trugen
-    - grandan: großen
-    - tablon: Tisch
-    - '?'
--
-  demando: Wie kam es, dass du wieder ohne Geschwister zu uns gekommen bist?
+  - Kie: Wo
+  - vi: du
+  - vidis: sahst
+  - la: den
+  - maljunulon: alten Mann
+  - kaj: und
+  - la: den
+  - junulon: jungen Mann
+  - ','
+  - kiuj: die
+  - portis: trugen
+  - grandan: großen
+  - tablon: Tisch
+  - '?'
+- demando: Wie kam es, dass du wieder ohne Geschwister zu uns gekommen bist?
   rektatraduko:
-    - Kiel: Wie
-    - okazis: geschah
-    - ','
-    - ke: dass
-    - vi: du
-    - denove: erneut
-    - venis: kamst
-    - al: zu
-    - ni: uns
-    - sen: ohne
-    - gefratoj: Geschwister
-    - '?'
--
-  demando: Kannst du mit dem neuen Lehrbuch schnell genug Esperanto lernen?
+  - Kiel: Wie
+  - okazis: geschah
+  - ','
+  - ke: dass
+  - vi: du
+  - denove: erneut
+  - venis: kamst
+  - al: zu
+  - ni: uns
+  - sen: ohne
+  - gefratoj: Geschwister
+  - '?'
+- demando: Kannst du mit dem neuen Lehrbuch ziemlich schnell Esperanto lernen?
   rektatraduko:
-    - Ĉu: Ob
-    - vi: du
-    - povas: kannst
-    - per: mit
-    - la: dem
-    - nova: neuen
-    - lernolibro: Lernbuch
-    - sufiĉe: genug
-    - rapide: schnell
-    - lerni: lernen
-    - Esperanton: Esperanto
-    - '?'
+  - Ĉu: Ob
+  - vi: du
+  - povas: kannst
+  - per: mittels
+  - la: dem
+  - nova: neuen
+  - lernolibro: Lernbuch
+  - sufiĉe: genug
+  - rapide: schnell
+  - lerni: lernen
+  - Esperanton: Esperanto
+  - '?'

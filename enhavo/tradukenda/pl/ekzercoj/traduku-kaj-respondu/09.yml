@@ -1,75 +1,70 @@
-- 
-  demando: Co mogłoby najbardziej ucieszyć twoich rodziców?
-  rektatraduko: 
-    - Kio: Co
-    - povus: mogłoby
-    - plej: najbardziej
-    - ĝojigi: ucieszyć
-    - viajn: twoich
-    - gepatrojn: rodziców
-    - '?'
-- 
-  demando: Jeśli przynajmniej poszedłbyś ze mną do centrum miasta po nauce!
-  rektatraduko: 
-    - Se: Jeśli
-    - almenaŭ: przynajmniej
-    - vi: ty
-    - post: po
-    - la: (przedimek określony) 
-    - lernado: uczenie się
-    - irus: poszedłbyś
-    - kun: z
-    - mi: ja
-    - en: w
-    - la: (przedimek określony) 
-    - urbocentron: centrum miasta
-    - '!'
-- 
-  demando: Dokąd chcielibyście jechać, gdybyście mieli dość pieniędzy i czasu?
-  rektatraduko: 
-    - Kien: Dokąd
-    - vi: wy
-    - dezirus: życzylibyście
-    - vojaĝi: podróżować
-    - ',' 
-    - se: jeśli
-    - vi: wy
-    - havus: mielibyście
-    - sufiĉe: dość
-    - da: od
-    - mono: pieniądze
-    - kaj: i
-    - tempo: czas
-    - '?'
-- 
-  demando: Czy planujecie jechać autem do Paryża, czy nie wydaje się wam, że dużo lepiej jechać pociągiem?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: wy
-    - planas: planujecie
-    - veturi: jechać
-    - al: do
-    - Parizo: Paryż
-    - per: przez
-    - aŭto: samochód
-    - aŭ: lub
-    - ĉu: czy
-    - ne: nie
-    - ŝajnas: wydaje się
-    - multe: dużo
-    - pli: więcej
-    - bone: dobrze
-    - per: przez
-    - vagonaro: pociąg
-    - '?'
-- 
-  demando: Dlaczego te same idee różni ludzie objaśniają na różne sposoby?
-  rektatraduko: 
-    - Kial: Dlaczego
-    - diversaj: różni
-    - homoj: ludzie
-    - klarigas: wyjaśniają
-    - samajn: takie same
-    - ideojn: pomysły
-    - diversmaniere: na różne sposoby 
-    - '?'
+- demando: Co najbardziej ucieszyłoby twoich rodziców?
+  rektatraduko:
+  - Kio: Co
+  - povus: mogłoby
+  - plej: najbardziej
+  - ĝojigi: ucieszyć
+  - viajn: twoich
+  - gepatrojn: rodziców
+  - '?'
+- demando: Gdybyś chociaż poszedł ze mną do miasta po nauce!
+  rektatraduko:
+  - Se: Gdyby
+  - almenaŭ: chociaż
+  - vi: ty
+  - post: po
+  - la: (przedimek określony)
+  - lernado: uczenie się
+  - irus: poszedłbyś
+  - kun: z
+  - mi: ja
+  - en: do, w
+  - la: (przedimek określony)
+  - urbon: miasto
+  - '!'
+- demando: Dokąd chciałbyś pojechać, gdybyś miał dość pieniędzy i czasu?
+  rektatraduko:
+  - Kien: Dokąd
+  - vi: ty
+  - dezirus: chciałbyś
+  - vojaĝi: podróżować
+  - ','
+  - se: jeśli
+  - vi: ty
+  - havus: miałbyś
+  - sufiĉe: dość
+  - da: miara ilości
+  - mono: pieniądze
+  - kaj: i
+  - tempo: czas
+  - '?'
+- demando: Czy planujesz jechać autem do Włoch, czy nie byłoby dużo lepiej pojechać pociągiem?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - planas: planujesz
+  - veturi: jechać
+  - al: do
+  - Italio: Włochy
+  - per: za pomocą
+  - aŭto: samochód
+  - aŭ: lub
+  - ĉu: czy
+  - ne: nie
+  - ŝajnas: wydaje się
+  - multe: dużo
+  - pli: więcej
+  - bone: dobrze
+  - per: za pomocą
+  - vagonaro: pociąg
+  - '?'
+- demando: Dlaczego te same idee różni ludzie objaśniają na różne sposoby?
+  rektatraduko:
+  - Kial: Dlaczego
+  - diversaj: różni
+  - homoj: ludzie
+  - klarigas: wyjaśniają
+  - samajn: takie same
+  - ideojn: pomysły
+  - diversmaniere: na różne sposoby
+  - '?'

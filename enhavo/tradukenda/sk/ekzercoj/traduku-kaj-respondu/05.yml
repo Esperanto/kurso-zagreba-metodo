@@ -1,64 +1,59 @@
--
-  demando: Môžeš sa pokojne učiť, kým (keď) niekto veselo spieva?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - povas: môžeš
-    - trankvile: pokojne
-    - lerni: sa učiť
-    - ','
-    - dum: kým (keď)
-    - iu: niekto
-    - ĝoje: veselo
-    - kantas: spieva
-    - '?'
--
-  demando: Kto vie, kedy a kde sa opäť uvidíme?
-  rektatraduko: 
-    - Kiu: Kto
-    - scias: vie
-    - ','
-    - kiam: kedy 
-    - kaj: a
-    - kie: kde
-    - ni: my
-    - revidos: sa znovu uvidíme
-    - nin: jeden druhého
-    - '?'
--
-  demando: Koľko je teraz hodín?
-  rektatraduko: 
-    - Kioma: Koľko
-    - horo: hodín
-    - estas: je
-    - nun: teraz
-    - '?'
--
-  demando: Pomohol ti niekto otvoriť dvere toho starého domu?
-  rektatraduko: 
-    - Ĉu: Či
-    - iu: niekto
-    - helpis: pomohol
-    - al: k, ku 
-    - vi: tebe
-    - malfermi: otvoriť 
-    - la: (člen určitý)
-    - pordon: dvere
-    - de: od
-    - la: (člen určitý)
-    - malnova: starého
-    - domo: domu
-    - '?'
--
-  demando: Prečo nemáš čas ma dlhšie počúvať?
-  rektatraduko: 
-    - Kial: Prečo
-    - vi: ty
-    - ne: ne
-    - havas: máš
-    - tempon: čas
-    - aŭskulti: počúvať
-    - min: mňa
-    - pli: viac (2. stupeň prídavných mien)
-    - longe: dlho
-    - '?'
+- demando: Môžeš sa pokojne učiť, kým niekto veselo spieva?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - povas: môžeš
+  - trankvile: pokojne
+  - lerni: sa učiť
+  - ','
+  - dum: kým (keď)
+  - iu: niekto
+  - ĝoje: veselo
+  - kantas: spieva
+  - '?'
+- demando: Kto vie, kedy a kde sa opäť uvidíme?
+  rektatraduko:
+  - Kiu: Kto
+  - scias: vie
+  - ','
+  - kiam: kedy
+  - kaj: a
+  - kie: kde
+  - ni: my
+  - revidos: sa znovu uvidíme
+  - nin: jeden druhého
+  - '?'
+- demando: Koľko je teraz hodín?
+  rektatraduko:
+  - Kioma: Koľko
+  - horo: hodín
+  - estas: je
+  - nun: teraz
+  - '?'
+- demando: Pomohol ti niekto otvoriť dvere toho starého domu?
+  rektatraduko:
+  - Ĉu: Či
+  - iu: niekto
+  - helpis: pomohol
+  - al: k, ku
+  - vi: tebe
+  - malfermi: otvoriť
+  - la: (člen určitý)
+  - pordon: dvere
+  - de: od
+  - la: (člen určitý)
+  - malnova: starého
+  - domo: domu
+  - '?'
+- demando: Prečo nemáš čas ma dlhšie počúvať?
+  rektatraduko:
+  - Kial: Prečo
+  - vi: ty
+  - ne: ne
+  - havas: máš
+  - tempon: čas
+  - aŭskulti: počúvať
+  - min: mňa
+  - pli: viac (2. stupeň prídavných mien)
+  - longe: dlho
+  - '?'

@@ -1,0 +1,63 @@
+- demando: Berriro ikusiko dugu elkar, non edo noiz den axola gabe?
+  rektatraduko:
+  - Ĉu: Ea
+  - ni: guk
+  - revidos: berriro ikusiko dugu
+  - nin: elkar
+  - ','
+  - kie: non
+  - ajn: -nahi
+  - kaj: eta
+  - kiam: noiz
+  - ajn: -nahi
+  - '?'
+- demando: Noiz jasoko dut berriro liburuen beste erdia?
+  rektatraduko:
+  - Kiam: Noiz
+  - mi: nik
+  - rericevos: berriro jasoko dut
+  - la: artikulu zehatza
+  - alian: beste
+  - duonon: erdi
+  - de: -ren
+  - la: artikulu zehatza
+  - libroj: liburuak
+  - '?'
+- demando: Lan horietarako urte laurdena baino gehiago beharko duzu?
+  rektatraduko:
+  - Ĉu: Ea
+  - vi: zuk
+  - bezonos: beharko duzu
+  - pli: gehiago
+  - ol: baino
+  - kvaronan: laurden
+  - jaron: urte
+  - por: -rentzat
+  - tiuj: horiek
+  - laboroj: lanak
+  - '?'
+- demando: Zergatik dago gero eta hotzago zenbat eta luzeago itxaron?
+  rektatraduko:
+  - Kial: Zergatik
+  - ju: zenbat eta
+  - pli: gehiago
+  - longe: luze
+  - ni: guk
+  - atendas: itxaroten dugu
+  - ','
+  - des: orduan eta
+  - pli: gehiago
+  - malvarme: hotz
+  - estas: dago
+  - '?'
+- demando: Edozein gizonekin pozik egongo zinateke?
+  rektatraduko:
+  - Ĉu: Ea
+  - vi: zu
+  - estus: izango zinateke
+  - kontenta: pozik
+  - kun: -ekin
+  - iu: edozein
+  - ajn: nahi
+  - viro: gizon
+  - '?'

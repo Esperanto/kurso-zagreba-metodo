@@ -1,0 +1,65 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 05
+allOf:
+- $ref: ../traduku.schema.yml
+- maxItems: 15
+- contains:
+    required:
+    - sinjorino
+  maxContains: 1
+- contains:
+    required:
+    - malmultekosta
+  maxContains: 1
+- contains:
+    required:
+    - ĉiutaga
+  maxContains: 1
+- contains:
+    required:
+    - intertempe
+  maxContains: 1
+- contains:
+    required:
+    - plenplena
+  maxContains: 1
+- contains:
+    required:
+    - nuntempe
+  maxContains: 1
+- contains:
+    required:
+    - malhelpi
+  maxContains: 1
+- contains:
+    required:
+    - vendejo
+  maxContains: 1
+- contains:
+    required:
+    - edzino
+  maxContains: 1
+- contains:
+    required:
+    - ĉiujare
+  maxContains: 1
+- contains:
+    required:
+    - jarcento
+  maxContains: 1
+- contains:
+    required:
+    - kvarmonate
+  maxContains: 1
+- contains:
+    required:
+    - alveturi
+  maxContains: 1
+- contains:
+    required:
+    - pli multekosta
+  maxContains: 1
+- contains:
+    required:
+    - la plej juna
+  maxContains: 1

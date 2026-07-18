@@ -1,73 +1,67 @@
--
-  demando: Quando ti vedrò di nuovo?
-  rektatraduko: 
-    - Kiam: quando
-    - mi: io
-    - revidos: rivedrò
-    - vin: te
-    - '?'
--
-  demando: Da quanto tempo (quanto a lungo) imparate la lingua internazionale?
-  rektatraduko: 
-    - Kiel: quanto
-    - longe: a lungo
-    - vi: voi
-    - lernas: imparate
-    - la: la
-    - Internacian: internazionale
-    - Lingvon: lingua
-    - '?'
--
-  demando: "Dov'è il tuo nuovo libro con le fotografie?"
-  rektatraduko: 
-    - Kie: dove
-    - estas: è
-    - mia: mio
-    - nova: nuovo
-    - libro: libro
-    - kun: con
-    - fotoj: fotografie
-    - '?'
--
-  demando: (Verso) dove andrai dopo il pranzo?
-  rektatraduko: 
-    - Kien: dove
-    - vi: tu
-    - iros: andrai
-    - post: dopo
-    - la: il
-    - tagmanĝo: pranzo
-    - '?'
--
-  demando: Si può chiudere la porta della stanza se avremo freddo?
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - oni: si
-    - povas: può
-    - fermi: chiudere
-    - la: la
-    - pordon: porta
-    - de: di
-    - la: la
-    - ĉambro: stanza
-    - ','
-    - kiam: quando
-    - estas: è
-    - malvarme: freddo
-    - '?'
--
-  demando: Quanto a lungo ti arrabbi, se ti si sottrae molto denaro?
-  rektatraduko: 
-    - Kiel: quanto
-    - longe: a lungo
-    - vi: tu
-    - koleras: ti arrabbi
-    - ','
-    - se: se
-    - oni: uno
-    - forprenas: sottrae
-    - de: da
-    - vi: te
-    - multan: molto
-    - monon: denaro
-    - '?'
+- demando: Quando ti vedrò di nuovo?
+  rektatraduko:
+  - Kiam: quando
+  - mi: io
+  - revidos: rivedrò
+  - vin: te
+  - '?'
+- demando: Da quanto tempo imparate la lingua internazionale?
+  rektatraduko:
+  - Kiom: quanto
+  - longe: a lungo
+  - vi: voi
+  - lernas: imparate
+  - la: la
+  - Internacian: internazionale
+  - Lingvon: lingua
+  - '?'
+- demando: Dov'è il tuo nuovo libro con le fotografie?
+  rektatraduko:
+  - Kie: dove
+  - estas: è
+  - mia: mio
+  - nova: nuovo
+  - libro: libro
+  - kun: con
+  - fotoj: fotografie
+  - '?'
+- demando: Dove andrai dopo il pranzo?
+  rektatraduko:
+  - Kien: dove
+  - vi: tu
+  - iros: andrai
+  - post: dopo
+  - la: il
+  - tagmanĝo: pranzo
+  - '?'
+- demando: Si può chiudere la porta della stanza se avremo freddo?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - oni: si
+  - povas: può
+  - fermi: chiudere
+  - la: la
+  - pordon: porta
+  - de: di
+  - la: la
+  - ĉambro: stanza
+  - ','
+  - kiam: quando
+  - estas: è
+  - malvarme: freddo
+  - '?'
+- demando: Quanto a lungo ti arrabbi, se ti si sottrae molto denaro?
+  rektatraduko:
+  - Kiom: quanto
+  - longe: a lungo
+  - vi: tu
+  - koleras: ti arrabbi
+  - ','
+  - se: se
+  - oni: uno
+  - forprenas: sottrae
+  - de: da
+  - vi: te
+  - multan: molto
+  - monon: denaro
+  - '?'

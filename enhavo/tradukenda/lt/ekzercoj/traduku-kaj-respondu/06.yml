@@ -1,0 +1,68 @@
+- demando: Ar nori, kad parodyčiau tau savo naujausią knygą?
+  rektatraduko:
+  - Ĉu: ar
+  - vi: tu, jūs
+  - deziras: nori
+  - ','
+  - ke: kad
+  - mi: aš
+  - montru: parodyčiau
+  - al: į, link
+  - vi: tu, jūs
+  - mian: mano
+  - plej: labiausiai (aukščiausiasis laipsnis)
+  - novan: naują
+  - libron: knygą
+  - '?'
+- demando: Ką rytoj nori valgyti pusryčiams?
+  rektatraduko:
+  - Kion: ką
+  - vi: tu, jūs
+  - volas: nori
+  - morgaŭ: rytoj
+  - matenmanĝi: pusryčiauti
+  - '?'
+- demando: Kada Markas atvyks - penktą ar aštuntą valandą?
+  rektatraduko:
+  - Kiam: kada
+  - Marko: Markas
+  - alvenos: atvyks
+  - ','
+  - je: ties, valandą
+  - la: apibrėžtasis artikelis
+  - kvina: penkta
+  - aŭ: arba
+  - je: ties, valandą
+  - la: apibrėžtasis artikelis
+  - oka: aštunta
+  - horo: valanda
+  - '?'
+- demando: Kada pastebėjai, kad visa šeima vadina mane geradariu?
+  rektatraduko:
+  - Kiam: kada
+  - vi: tu, jūs
+  - rimarkis: pastebėjai
+  - ','
+  - ke: kad
+  - la: apibrėžtasis artikelis
+  - tuta: visa
+  - familio: šeima
+  - nomas: vadina
+  - min: mane
+  - bonfarulo: geradarys
+  - '?'
+- demando: Ar knygelė, kurią tau atsiunčiau, buvo naudinga?
+  rektatraduko:
+  - Ĉu: ar
+  - la: apibrėžtasis artikelis
+  - libreto: knygelė
+  - ','
+  - kiun: kurį
+  - mi: aš
+  - sendis: siuntei
+  - al: į, link
+  - vi: tu, jūs
+  - ','
+  - estis: buvo
+  - utila: naudingas
+  - '?'

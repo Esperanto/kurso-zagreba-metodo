@@ -1,75 +1,70 @@
-- 
-  demando: What could delight your parents most of all?
-  rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
-    - '?'
-- 
-  demando: If at least you wanted to go to the city center after school!
-  rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
-    - '!'
-- 
-  demando: Where would you like to travel to if you had enough money and time?
-  rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
-    - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
-    - '?'
-- 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
-    - '?'
-- 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
-    - '?'
+- demando: Ата-анаңды бәрінен көп не қуанта алады?
+  rektatraduko:
+  - Kio: не
+  - povus: ала алар еді
+  - plej: ең
+  - ĝojigi: қуантқызу
+  - viajn: сенің
+  - gepatrojn: ата-ананы
+  - '?'
+- demando: Шіркін, оқудан кейін менімен қалаға барсаң ғой!
+  rektatraduko:
+  - Se: егер
+  - almenaŭ: ең болмағанда
+  - vi: сен
+  - post: кейін
+  - la: анықтауыш
+  - lernado: оқу
+  - irus: барар еді
+  - kun: бірге
+  - mi: мен
+  - en: ішінде/де
+  - la: анықтауыш
+  - urbon: қаланы
+  - '!'
+- demando: Ақшаң мен уақытың жеткілікті болса, қайда саяхаттағың келер еді?
+  rektatraduko:
+  - Kien: қайда
+  - vi: сен
+  - dezirus: қалар еді
+  - vojaĝi: саяхаттау
+  - ','
+  - se: егер
+  - vi: сен
+  - havus: бар болса
+  - sufiĉe: жеткілікті
+  - da: мөлшер
+  - mono: ақша
+  - kaj: және
+  - tempo: уақыт
+  - '?'
+- demando: Италияға көлікпен баруды жоспарлап жүрсің бе, әлде пойызбен барған әлдеқайда жақсы емес пе?
+  rektatraduko:
+  - Ĉu: ма/ме
+  - vi: сен
+  - planas: жоспарлайды
+  - veturi: көлікпен бару
+  - al: -ға/-ге
+  - Italio: Италия
+  - per: арқылы/көмегімен
+  - aŭto: көлік
+  - aŭ: немесе
+  - ĉu: ма/ме
+  - ne: емес
+  - ŝajnas: көрінеді
+  - multe: көп
+  - pli: көбірек
+  - bone: жақсы
+  - per: арқылы/көмегімен
+  - vagonaro: пойыз
+  - '?'
+- demando: Неге әртүрлі адамдар бірдей ойларды әртүрлі түсіндіреді?
+  rektatraduko:
+  - Kial: неге
+  - diversaj: әртүрлі
+  - homoj: адамдар
+  - klarigas: түсіндіреді
+  - samajn: бірдей
+  - ideojn: ойларды
+  - diversmaniere: әртүрлі түрде
+  - '?'

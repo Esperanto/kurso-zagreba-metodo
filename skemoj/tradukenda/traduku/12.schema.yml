@@ -1,0 +1,53 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 12
+allOf:
+- $ref: ../traduku.schema.yml
+- maxItems: 12
+- contains:
+    required:
+    - prezentaĵo
+  maxContains: 1
+- contains:
+    required:
+    - skribaĉi
+  maxContains: 1
+- contains:
+    required:
+    - klarigi
+  maxContains: 1
+- contains:
+    required:
+    - pretigi
+  maxContains: 1
+- contains:
+    required:
+    - ĉevalaĉo
+  maxContains: 1
+- contains:
+    required:
+    - disdoni
+  maxContains: 1
+- contains:
+    required:
+    - dekono
+  maxContains: 1
+- contains:
+    required:
+    - duonigi
+  maxContains: 1
+- contains:
+    required:
+    - virinaĉo
+  maxContains: 1
+- contains:
+    required:
+    - ĉiumomente
+  maxContains: 1
+- contains:
+    required:
+    - renkontiĝo
+  maxContains: 1
+- contains:
+    required:
+    - retrovi
+  maxContains: 1

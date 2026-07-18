@@ -44,6 +44,7 @@ dik:
 dimanĉ: nedelja
 dir: reči
 direkt: smer
+divers: različno
 doktor: doktor
 dolar: dolar
 dolor: bolečina
@@ -57,6 +58,7 @@ edz: mož
 efektiv: dejansko
 ej: kraj
 ekskurs: izlet
+ekzempl: primer
 esper: upati
 est: biti
 facil: lahko
@@ -69,7 +71,7 @@ fart:
 - čutiti
 - biti
 feliĉ: srečen
-ferm: zapreti 
+ferm: zapreti
 fin: končati
 flank: stran
 foj:
@@ -82,12 +84,13 @@ fot: slika
 frat: brat
 fru: zgodaj
 fuŝ: pokvariti
+glas: steklo
 glaso: kozarec
 gondol: gondola
 graf: grof
 grand: velik
 grav: pomemben
-halt: ustaviti se 
+halt: ustaviti se
 hav: imeti
 hejm: dom
 help: pomagati
@@ -95,17 +98,22 @@ hom: človek
 hor: ura
 hotel: hotel
 ide: ideja
-industri: industrija 
+industri: industrija
+infan: otrok
+inform: informirati
 instru: učiti
 interes: zanimanje
 invit: povabiti
 ir: iti
 Itali: Italija
+itali: Italija
 jar: leto
 jun: mlad
 kaf: kava
 kalv: plešast
-kant: pesem
+kant:
+- pesem
+- peti
 kap: glava
 kapabl: sposoben, zmožen
 kapt: ujeti
@@ -115,7 +123,6 @@ kav: jama
 kelk: nekaj
 kelner: natakar
 kiu: kdo
-kien: kam
 klar: jasno
 klub: klub
 knab: deček
@@ -124,16 +131,18 @@ kolor: barva
 komenc: začeti
 kompren: razumeti
 kon: poznati
-konsent: soglašati 
+konsent: soglašati
 kontent: zadovoljen
 kontrol: preveriti
 kor: srce
 korp: telo
 kost: stati (cenovno)
-kred: verjeti, verovati
+kred:
+- verjeti, verovati
+- verjeti
 kri: kričati
 kuir: kuhati
-kuk: pecivo 
+kuk: pecivo
 kur: teči
 labor: delati
 lakt: mleko
@@ -149,11 +158,14 @@ lern: učiti se
 leter: pismo
 liber: prost
 libr: knjiga
+lingv: jezik
 lok: prostor
 long: dolg
+loĝ: stanovati
 lud: igrati
 lum: svetloba
 man: roka
+manier: način
 mank: manjkati
 manĝ: jesti
 mar: morje
@@ -167,6 +179,7 @@ minut: minuta
 mir: čuditi
 moment: trenutek
 mon: denar
+monat: mesec
 monato: mesec
 mond: svet
 mont: gora
@@ -192,6 +205,7 @@ onkl: stric
 opini: mnenje
 ord: red
 orel: uho
+organiz: organizacija
 os: prihodnji čas
 pac: mir
 pag: plačati
@@ -211,23 +225,31 @@ pet: prositi
 pez: težko
 pied: noga, stopalo
 plac: trg, ploščad
-plaĉ: ugajati
 plan: planirati
+plaĉ: ugajati
 plen: poln
+plor: jokati
+pluv: deževati
 polic: policija
 pord: vrata
 port: nositi
-poŝ: žep
 pov: moči
-pren: vzeti 
+poŝ: žep
+poŝt: pošta
+pren: vzeti
 pret: pripravljen
 prezent: pokazati
 problem: problem
 proksim: blizu
+proksimum: približno
 promen: sprehajati se
 propon: predlagati
 prov: poskusiti
+publik: javnost
+punkt: točka
+pur: čisto
 rajt: smeti
+rakont: pripovedovati
 rapid: hitro
 raport: poročati
 real: resnično
@@ -237,18 +259,23 @@ respekt: spoštovati
 respond: odgovoriti
 rest: ostati
 ricev: prejeti
-riĉ: bogat
 rid: smejati se
 rigard: gledati
-rilat: odnos
+rilat:
+- odnos
+- nanašati se
+rimark: pripomniti
+riĉ: bogat
 rol: vloga
 ruĝ: rdeče
 salt: skočiti
 salut: zdravo
 sam: isto
 san: zdrav
+sat:
+- sit
+- biti sit
 saĝ: moder
-sat: sit
 sci: vedeti
 sek: suh
 sekret: skrivnost
@@ -257,11 +284,12 @@ semajn: teden
 send: poslati
 sent: čutiti
 serĉ: iskati
+seĝ: stol
 si: povratni zaimek
-sia: svoj
 sid: sedeti
 silent: molčati
 simil: podobno
+simpl: preprosto
 sinjor:
 - gospod
 situaci: situacija
@@ -278,8 +306,7 @@ suk: sok
 sukces: uspeh
 sun: sonce
 supr: zgoraj
-ŝajn: zdeti se
-tabl: miza 
+tabl: miza
 tag: dan
 te: čaj
 telefon: telefon
@@ -287,13 +314,16 @@ temp: čas
 temperatur: temperatura
 ten: držati
 teror: teror
+terur: grozno
 tim: strah
 ton: ton
 trankvil: miren
 trink: piti
 trov: najti
 turk: turško
+tut: vse
 tuŝ: dotakniti se
+universal: splošno
 urb: mesto
 us: bi
 util: koristno

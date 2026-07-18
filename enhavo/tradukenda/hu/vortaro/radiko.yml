@@ -1,4 +1,5 @@
 afer: dolog
+ag: cselekedni
 agrabl: kellemes
 akcept: fogad
 akv: víz
@@ -6,12 +7,14 @@ ali: más
 alt: magas
 am: szeret
 amik: barát
+aper: megjelenni
 arb: fa
 aspekt: kinéz
 atend: vár
 atent: figyel
 aĉet: vesz
 aŭd: hall
+aŭskult: hallgat
 aŭt: autó
 aŭtoritat: hatalom
 bedaŭr: sajnál
@@ -35,6 +38,9 @@ dik: kövér
 dimanĉ: vasárnap
 dir: mond
 direkt: igazgat
+divers:
+- különböző
+- különféle
 doktor: orvos
 dolar: dollár
 dolor: fájdalom
@@ -46,6 +52,7 @@ doĝ: dózse
 edz: férj
 efektiv: tényleges
 ekskurs: kirándul
+ekzempl: példa
 esper: remél
 est: van
 facil: könnyű
@@ -66,6 +73,7 @@ fot: fénykép
 frat: fiútestvér
 fru: korán
 fuŝ: ront
+glas: pohár
 gondol: gondola
 graf: gróf
 grand: nagy
@@ -78,7 +86,9 @@ hom: ember
 hor: óra
 hotel: szálloda
 ide: ötlet
-industri: ipar 
+industri: ipar
+infan: gyerek
+inform: információ
 instru: tanít
 interes: érdekes
 invit: meghív
@@ -88,21 +98,22 @@ jar: év
 jun: fiatal
 kaf: kávé
 kalv: kopasz
+kant: ének
 kap: fej
 kapabl: képes
-kapt: 
-  - elfog
-  - megfog
-kar: 
-  - kedves
-  - drága
+kapt:
+- elfog
+- megfog
+kar:
+- kedves
+- drága
 kastel: kastély
 kav: pince
 kelk: néhány
 kelner: pincér
-klar: 
-  - világos
-  - tiszta
+klar:
+- világos
+- tiszta
 klub: klub
 knab: fiú
 koler: méreg
@@ -110,22 +121,25 @@ kolor: szín
 komenc: kezd
 kompren: ért
 kon: ismer
+konsent: egyetért
 kontent: elégedett
 kontrol: ellenőriz
 kor: szív
 korp: test
 kost: kerül
+kred: hinni
 kri: kiált
 kuir: főz
 kuk: süti
 kur: fut
-labor: 
-  - munka
-  - dolgoz
+labor:
+- munka
+- dolgoz
 lakt: tej
 lamp: lámpa
 land: ország
 larĝ: széles
+las: engedni
 last: utolsó
 laŭt: hangos
 lecion: lecke
@@ -134,11 +148,14 @@ lern: tanul
 leter: levél
 liber: szabad
 libr: könyv
+lingv: nyelv
 lok: hely
 long: hosszú
+loĝ: lakik
 lud: játszik
 lum: fény
 man: kéz
+manier: mód
 mank: hiány
 manĝ: eszik
 mar: tenger
@@ -151,12 +168,15 @@ minut: perc
 mir: csodálkozik
 moment: pillanat
 mon: pénz
+monat: hónap
+mond: világ
 mont: hegy
 montr: mutat
 mort: halál
 mov: mozdít
 mult: sok
 muzik: zene
+naci: nemzet
 nask: szül
 natur: természet
 neces: szükséges
@@ -166,14 +186,15 @@ not: jegy
 nov: új
 odor: szag
 oft: gyakran
-okaz: 
-  - alkalom
-  - történik
+okaz:
+- alkalom
+- történik
 okul: szem
 onkl: nagybácsi
 opini: vélemény
 ord: rend
 orel: fül
+organiz: szervez
 pac: béke
 pag: fizet
 pan: kenyér
@@ -194,29 +215,38 @@ plac: tér
 plan: terv
 plaĉ: tetszik
 plen: tele
+plor: sír
+pluv: eső
 polic: rendőrség
 pord: ajtó
-port: 
-  - visz
-  - visel
-pov: 
-  - tud
-  - képes
-pren: 
-  - elvesz 
-  - megfog
+port:
+- visz
+- visel
+pov:
+- tud
+- képes
+poŝ: zseb
+poŝt: posta
+pren:
+- elvesz
+- megfog
 pret: kész
 prezent: bemutat
 problem: probléma
 proksim: közel
+proksimum: körülbelül
 promen: sétál
-propon: 
-  - ajánl
-  - javasol
+propon:
+- ajánl
+- javasol
 prov: próbál
-rajt: 
-  - szabad
-  - jog
+publik: közönség
+punkt: pont
+pur: tiszta
+rajt:
+- szabad
+- jog
+rakont: mese
 rapid: gyors
 raport: jelent
 real: valódi
@@ -228,6 +258,10 @@ rest: marad
 ricev: kap
 rid: nevet
 rigard: néz
+rilat:
+- viszony
+- kapcsolat
+rimark: észrevesz
 riĉ: gazdag
 rol: szerep
 ruĝ: piros
@@ -235,6 +269,7 @@ salt: ugrik
 salut: köszön
 sam: ugyanaz
 san: egészséges
+sat: jóllakott
 saĝ: okos
 sci: tud
 sek: száraz
@@ -242,11 +277,14 @@ sekret: titok
 sekv: következő
 semajn: hét
 send: küld
+sent: érezni
 serĉ: keres
+seĝ: szék
 si: visszaható névmás
 sid: ül
 silent: csend
 simil: hasonló
+simpl: egyszerű
 sinjor: úr
 situaci: szituáció
 skrib: ír
@@ -258,10 +296,11 @@ star: áll
 strat: utca
 subit: hirtelen
 sufiĉ: elég
+suk: lé
 sukces: siker
 sun: nap
 supr: felső
-tabl: asztal 
+tabl: asztal
 tag: nap
 te: tea
 telefon: telefon
@@ -269,13 +308,22 @@ temp: idő
 temperatur: hőmérséklet
 ten: tart
 teror: terror
+terur:
+- szörnyű
+- borzalmas
 tim: fél
 ton: hangnem
 trankvil: nyugodt
 trink: iszik
 trov: talál
 turk: török
+tut:
+- egész
+- teljes
 tuŝ: érint
+universal:
+- egyetemes
+- világ-
 urb: város
 util: hasznos
 uz: használ
@@ -287,9 +335,9 @@ Veneci: Velence
 ver: igaz
 vesper: este
 vest: ruha
-vetur: 
-  - utazik
-  - közlekedik
+vetur:
+- utazik
+- közlekedik
 vid: lát
 vin: bor
 vir: ember
@@ -311,8 +359,8 @@ zorg: gond
 ĝust: helyes
 ĵet: dob
 ŝajn: tűnik
-ŝanĝ: 
-  - cserél
-  - vált
+ŝanĝ:
+- cserél
+- vált
 ŝat: szeret
 ŝip: hajó

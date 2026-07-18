@@ -17,7 +17,80 @@ $(document).ready(function(){
       allowList: popoverAllowList
     });
   });
-  $('.container table').addClass('table'); 
+  $('.container table').addClass('table');
+
+  var pwaInstallButton = document.querySelector('[data-pwa-install]');
+  var pwaInstallHelp = document.querySelector('[data-pwa-install-help]');
+  if (pwaInstallButton) {
+    function estasMemstaraPwa() {
+      return navigator.standalone === true
+        || (
+          window.matchMedia
+          && window.matchMedia('(display-mode: standalone)').matches
+        )
+        || document.documentElement.classList.contains('pwa-standalone');
+    }
+
+    function subtenasBeforeInstallPrompt() {
+      return 'onbeforeinstallprompt' in window;
+    }
+
+    function montruPwaInstallHelp(montru) {
+      if (!pwaInstallHelp) {
+        return;
+      }
+      pwaInstallHelp.classList.toggle('d-none', !montru);
+      pwaInstallButton.setAttribute('aria-expanded', montru ? 'true' : 'false');
+    }
+
+    function gxisdatiguPwaInstallButton() {
+      var instalebla = !estasMemstaraPwa()
+        && (!!window.pwaInstallPrompt || !subtenasBeforeInstallPrompt());
+      pwaInstallButton.classList.toggle('d-none', !instalebla);
+      pwaInstallButton.disabled = !instalebla;
+      if (!instalebla) {
+        montruPwaInstallHelp(false);
+      }
+    }
+
+    window.addEventListener('beforeinstallprompt', function(e) {
+      e.preventDefault();
+      window.pwaInstallPrompt = e;
+      montruPwaInstallHelp(false);
+      gxisdatiguPwaInstallButton();
+    });
+
+    window.addEventListener('appinstalled', function() {
+      window.pwaInstallPrompt = null;
+      gxisdatiguPwaInstallButton();
+    });
+
+    pwaInstallButton.addEventListener('click', function() {
+      var installPrompt = window.pwaInstallPrompt;
+      if (!installPrompt) {
+        if (!subtenasBeforeInstallPrompt()) {
+          montruPwaInstallHelp(true);
+          return;
+        }
+        gxisdatiguPwaInstallButton();
+        return;
+      }
+
+      try {
+        var promptResult = installPrompt.prompt();
+        if (promptResult && typeof promptResult.catch === 'function') {
+          promptResult.catch(function() {});
+        }
+      } catch (e) {
+      }
+
+      window.pwaInstallPrompt = null;
+      montruPwaInstallHelp(false);
+      gxisdatiguPwaInstallButton();
+    });
+
+    gxisdatiguPwaInstallButton();
+  }
 });
 
 function esperantigu(s) {
@@ -46,8 +119,15 @@ function normalize(s) {
   return s;
 }
 
-function selectNextTabbableOrFocusable(selector){
-	var selectables = $(selector);
+// Trovas la videblajn tabeblajn elementojn per jQuery-kerno (sen jQuery-UI,
+// kiu antaŭe provizis la «:tabbable»-elektilon).
+function selectNextTabbable(){
+	var selectables = $(
+		'a[href], button:not([disabled]), input:not([disabled]), '
+		+ 'select:not([disabled]), textarea:not([disabled]), [tabindex]'
+	).filter(function(){
+		return this.tabIndex >= 0 && $(this).is(':visible');
+	});
 	var current = $(':focus');
 	var nextIndex = 0;
 	if(current.length === 1){
@@ -60,15 +140,87 @@ function selectNextTabbableOrFocusable(selector){
 	selectables.eq(nextIndex).focus();
 }
 
+function selectNextExerciseAnswer(current){
+	var answers = $('[data-auto-sekvo="respondoj"] input[data-solvo]:not([disabled])')
+		.filter(function(){
+			return $(this).is(':visible');
+		});
+	var currentIndex = answers.index(current);
+	if(currentIndex !== -1 && currentIndex + 1 < answers.length){
+		answers.eq(currentIndex + 1).focus();
+		return true;
+	}
 
-$('input[data-solvo]').on('input', function() {
-  var id = $(this).attr('id');
-  var form_group = $('#form-group-' + id);
-  var feedback = $('#feedback-' + id);
+	var nextButton = $('ul.pager .next a[href]').filter(function(){
+		return $(this).is(':visible');
+	}).first();
+	if(nextButton.length === 1){
+		nextButton.focus();
+		return true;
+	}
 
+	return false;
+}
+
+function selectNextAfterCorrectAnswer(current){
+	if($(current).closest('[data-auto-sekvo="respondoj"]').length > 0
+		&& selectNextExerciseAnswer(current)){
+		return;
+	}
+
+	selectNextTabbable();
+}
+
+var gxustaSono = null;
+
+function gxustaSonoElemento() {
+	if (gxustaSono !== null) {
+		return gxustaSono;
+	}
+
+	gxustaSono = document.createElement('audio');
+	gxustaSono.preload = 'auto';
+
+	var ogg = document.createElement('source');
+	ogg.src = '/assets/ogg/gxuste.ogg';
+	ogg.type = 'audio/ogg';
+	gxustaSono.appendChild(ogg);
+
+	var mp3 = document.createElement('source');
+	mp3.src = '/assets/mp3/gxuste.mp3';
+	mp3.type = 'audio/mpeg';
+	gxustaSono.appendChild(mp3);
+
+	return gxustaSono;
+}
+
+function luduGxustanSonon() {
+	var sono = gxustaSonoElemento();
+
+	try {
+		sono.currentTime = 0;
+	} catch (e) {
+	}
+
+	try {
+		var ludado = sono.play();
+		if (ludado && typeof ludado.catch === 'function') {
+			ludado.catch(function() {});
+		}
+	} catch (e) {
+	}
+}
+
+function estasUzantaEnigo(evento) {
+	return evento && evento.originalEvent && evento.originalEvent.isTrusted;
+}
+
+
+$('input[data-solvo]').on('input', function(evento) {
   // Get input and normalize.
   var input = $(this).val();
   input = normalize(input);
+	var jam_gxusta = $(this).hasClass('is-valid');
 
   // Split data-solvo to find solutions and normalize.
   var solutions = $(this).attr('data-solvo').split(/\s*\|\s*/);
@@ -81,20 +233,17 @@ $('input[data-solvo]').on('input', function() {
 		(input == normalize($(this).attr('data-solvo')));
 
   if (correct) {
-    form_group.removeClass('has-error').addClass('has-success');
     $(this).removeClass('is-invalid').addClass('is-valid');
-    feedback.removeClass('feedback-icon-remove').addClass('feedback-icon-ok').text('✓');
-		// Set focus on the current
-		// to not confuse it during the following step. 
-		$(this).focus();
-		// Jump to the next input.
-		selectNextTabbableOrFocusable(':tabbable');
+		if (estasUzantaEnigo(evento)) {
+			if (!jam_gxusta) {
+				luduGxustanSonon();
+			}
+			// Set focus on the current to not confuse it during the following step.
+			$(this).focus();
+			selectNextAfterCorrectAnswer(this);
+		}
   } else {
-    console.log(input);
-    console.log($(this).attr('data-solvo'));
-    form_group.removeClass('has-success').addClass('has-error');
     $(this).removeClass('is-valid').addClass('is-invalid');
-    feedback.removeClass('feedback-icon-ok').addClass('feedback-icon-remove').text('✕');
   }
 });
 
@@ -115,23 +264,4 @@ $('.forigu').click(function() {
     $(this).val('');
     $(this).trigger('input');
   });
-});
-
-
-var currentLangCode = $('.lingvoelektilo-ligilo[aria-current="true"]').data('lingvo');
-
-$('.lingvoelektilo-ligilo').click(function(e) {
-  if (!currentLangCode) {
-    return;
-  }
-
-  e.preventDefault();
-  var newLanguageCode = $(this).data('lingvo');
-
-  var url = window.location.href;
-  url = url.replace(
-    '/' + currentLangCode + '/',
-    '/' + newLanguageCode + '/'
-  );
-  window.location.href = url;
 });

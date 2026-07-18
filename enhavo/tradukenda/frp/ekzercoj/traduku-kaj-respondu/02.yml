@@ -1,70 +1,64 @@
--
-  demando: Comment était votre ancienne maison ?
-  rektatraduko: 
-    - Kia: Comment
-    - estis: était
-    - via: votre
-    - malnova: ancienne
-    - hejmo: maison
-    - '?'
--
-  demando: "Quels livres as-tu lus, et est-ce qu'ils sont bons ?"
+- demando: Comment ètait voutro viely ôstal?
   rektatraduko:
-    - Kiujn: Quels
-    - librojn: livres
-    - vi: tu
-    - legis: as lu
-    - kaj: et
-    - ĉu: est-ce que
-    - ili: ils
-    - estas: sont
-    - bonaj: bons
-    - '?'
--
-  demando: "Qu'ont fait Anne et Marc dans la petite chambre de Marc ?"
+  - Kia: Comment
+  - estis: ètait
+  - via: voutro
+  - malnova: viely
+  - hejmo: ôstal
+  - '?'
+- demando: Quélos livros as-tu lius, et sont-ils bons?
   rektatraduko:
-    - Kion: "Qu'"
-    - faris: ont fait
-    - Anna: Anna
-    - kaj: et
-    - Marko: Marc
-    - en: dans
-    - la: la
-    - malgranda: petite
-    - ĉambro: chambre
-    - de: de
-    - Marko: Marc
-    - '?'
--
-  demando: "Est-ce que vous aimez lire des livres sur l'amour ?"
+  - Kiujn: Quélos
+  - librojn: livros
+  - vi: tu
+  - legis: as liu
+  - kaj: et
+  - ĉu: se
+  - ili: ils
+  - estas: sont
+  - bonaj: bons
+  - '?'
+- demando: Qu'at fêt Ana et Marko dans la petita chambra de Marko?
   rektatraduko:
-    - Ĉu: Est-ce que
-    - vi: vous
-    - ŝatas: aimez
-    - legi: lire
-    - librojn: des livres
-    - pri: sur
-    - amo: "l'amour"
-    - '?'
--
-  demando: Qui ira avec vous à votre maison ?
+  - Kion: Què
+  - faris: ont fêt
+  - Ana: Ana
+  - kaj: et
+  - Marko: Marko
+  - en: dans
+  - la: la
+  - malgranda: petita
+  - ĉambro: chambra
+  - de: de
+  - Marko: Marko
+  - '?'
+- demando: Amâd-vos liére des livros sur l'amor?
   rektatraduko:
-    - Kiu: Qui
-    - iros: ira
-    - kun: avec
-    - vi: vous
-    - al: à
-    - via: votre
-    - hejmo: maison
-    - '?'
--
-  demando: Comment sont les yeux de ta petite amie ?
+  - Ĉu: Se
+  - vi: vos
+  - ŝatas: amâd
+  - legi: liére
+  - librojn: livros
+  - pri: sur
+  - amo: amor
+  - '?'
+- demando: Qui irat avouéc vos a voutro ôstal?
   rektatraduko:
-    - Kiaj: Comment
-    - estas: sont
-    - la: les
-    - okuloj: yeux
-    - de: de
-    - via: ta
-    - amikino: petite amie
-    - '?'
+  - Kiu: Qui
+  - iros: irat
+  - kun: avouéc
+  - vi: vos
+  - al: a
+  - via: voutro
+  - hejmo: ôstal
+  - '?'
+- demando: Comment sont los ulys de ta amiga?
+  rektatraduko:
+  - Kiaj: Comment
+  - estas: sont
+  - la: los
+  - okuloj: ulys
+  - de: de
+  - via: ta
+  - amikino: amiga
+  - '?'

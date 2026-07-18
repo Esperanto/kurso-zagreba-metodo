@@ -1,86 +1,80 @@
--
-  demando: من سينظف المطبخَ بعد الغداء؟
+- demando: من سينظف المطبخَ بعد الغداء؟
   rektatraduko:
-    - Kiu: من
-    - purigos: سوف ينظف
-    - la: ال
-    - kuirejon: مطبخَ
-    - post: بعد
-    - la: ال
-    - tagmanĝo: غداء
-    - '?'
--
-  demando: "ماذا تريد أن تشرب: شاياً، بعضاً من القهوة أم أنك لا تريد شيئاً؟"
+  - Kiu: من
+  - purigos: سوف ينظف
+  - la: ال
+  - kuirejon: مطبخَ
+  - post: بعد
+  - la: ال
+  - tagmanĝo: غداء
+  - '?'
+- demando: 'ماذا تريد أن تشرب: شاياً أم قليلاً من القهوة، أم لا تريد شيئاً؟'
   rektatraduko:
-    - Kion: ماذا
-    - vi: أنت
-    - volas: يريد
-    - trinki: أن يشرب
-    - ':'
-    - teon: شاياً
-    - ','
-    - iom: بعض
-    - da: من
-    - kafo: قهوة
-    - aŭ: أو
-    - ĉu: هل
-    - vi: أنت
-    - volas: يريد
-    - nenion: لا شيءَ
-    - '?'
--
-  demando: لم قررت فجأةً بهذا الشكل تجديد غرفتك الصغيرة؟
+  - Kion: ماذا
+  - vi: أنت
+  - volas: يريد
+  - trinki: أن يشرب
+  - ':'
+  - teon: شاياً
+  - ','
+  - iom: بعض
+  - da: من
+  - kafo: قهوة
+  - aŭ: أو
+  - ĉu: هل
+  - vi: أنت
+  - volas: يريد
+  - nenion: لا شيءَ
+  - '?'
+- demando: لماذا قررت فجأةً أن تجدّد غرفتك الصغيرة بهذا الشكل؟
   rektatraduko:
-    - Kial: لماذا
-    - vi: أنت
-    - tiel: هكذا/بهذا الشكل
-    - subite: فجأةً
-    - decidis: قرر
-    - renovigi: أن يجدد
-    - vian: لك
-    - ĉambreton: غرفتك الصغيرة
-    - '?'
--
-  demando: لِمن أعطيت الكؤوسَ النظيفة من أجل النبيذ؟
+  - Kial: لماذا
+  - vi: أنت
+  - tiel: هكذا/بهذا الشكل
+  - subite: فجأةً
+  - decidis: قرر
+  - renovigi: أن يجدد
+  - vian: لك
+  - ĉambreton: غرفتك الصغيرة
+  - '?'
+- demando: لِمن أعطيت الكؤوسَ النظيفة من أجل النبيذ؟
   rektatraduko:
-    - al: إلى
-    - kiu: من
-    - vi: أنت
-    - donis: أعطى
-    - la: ال
-    - purajn: نظيفاتٍ
-    - glasojn: كؤوساً
-    - por: من أجل
-    - la: ال
-    - vino: نبيذ
-    - '?'
--
-  demando: ضد من لعب ناديك الرياضي قبل أسبوعين؟
+  - Al: إلى
+  - kiu: من
+  - vi: أنت
+  - donis: أعطى
+  - la: ال
+  - purajn: نظيفاتٍ
+  - glasojn: كؤوساً
+  - por: من أجل
+  - la: ال
+  - vino: نبيذ
+  - '?'
+- demando: ضد من لعب ناديك الرياضي قبل أسبوعين؟
   rektatraduko:
-    - Kontraŭ: ضد
-    - kiu: من
-    - ludis: لعبَ
-    - via: لك
-    - sportklubo: ناديك الرياضي
-    - antaŭ: قبل
-    - du: اثنين
-    - semajnoj: أسابيع
-    - '?'
--
-  demando: هل غالباً ترى الشرطي، الذي يسكن في الشقة التي تعلوك؟
+  - Kontraŭ: ضد
+  - kiu: من
+  - ludis: لعبَ
+  - via: لك
+  - sportklubo: ناديك الرياضي
+  - antaŭ: قبل
+  - du: اثنين
+  - semajnoj: أسابيع
+  - '?'
+- demando: هل ترى غالباً الشرطي الذي يسكن في الشقة فوقك؟
   rektatraduko:
-    - Ĉu: هل
-    - vi: أنت
-    - ofte: غالباً
-    - vidas: يرى
-    - la: ال
-    - policiston: شرطياً
-    - ','
-    - kiu: الذي
-    - loĝas: يسكن
-    - en: في
-    - la: ال
-    - loĝejo: شقة
-    - super: فوق
-    - vi: أنت
-    - '?'
+  - Ĉu: هل
+  - vi: أنت
+  - ofte: غالباً
+  - vidas: يرى
+  - la: ال
+  - policiston: شرطياً
+  - ','
+  - kiu: الذي
+  - loĝas: يسكن
+  - en: في
+  - la: ال
+  - loĝejo: شقة
+  - super: فوق
+  - vi: أنت
+  - '?'

@@ -1,57 +1,51 @@
-- 
-  demando: آپکی سہیلی کون ہے؟
+- demando: آپ کی سہیلی کون ہے؟
   rektatraduko:
-    - Kiu: کون
-    - estas: ہے
-    - via: آپکا
-    - amikino: سہیلی
-    - '?': ؟
-- 
-  demando: کیا آپکی سہیلی کمرے میں لکھ رہی ہے؟
+  - Kiu: کون
+  - estas: ہے
+  - via: آپ کی
+  - amikino: سہیلی
+  - '?'
+- demando: کیا آپ کی سہیلی آنا اب کمرے میں لکھ رہی ہے؟
   rektatraduko:
-    - Ĉu: کیا۔ آیا
-    - via: آپکا
-    - amikino: سہیلی
-    - Anna: اینا
-    - skribas: لکھ رہی ہے
-    - nun: اب
-    - en: میں
-    - la: حرف تخصیص جسے عربی میں ال 
-    - ĉambro: کمرہ
-    - '?': ؟
-- 
-  demando: کیا آپے ابو کا دوست ہوٹل میں کا کرتا ہے؟
+  - Ĉu: کیا
+  - via: آپ کی
+  - amikino: سہیلی
+  - Ana: آنا
+  - skribas: لکھ رہی ہے
+  - nun: اب
+  - en: میں
+  - la: متعین حرف
+  - ĉambro: کمرہ
+  - '?'
+- demando: کیا آپ کے والد کا دوست ہوٹل میں کام کرتا ہے؟
   rektatraduko:
-    - Ĉu: کیا۔آیا
-    - la: حرف تخصیص جیسے عربی میں ال
-    - amiko: دوست
-    - de: کا۔کی
-    - via: آپکا
-    - patro: ابو
-    - laboras: کام کرتا ہے
-    - en: میں
-    - hotelo: ہوٹل
-    - '?': ؟
-- 
-  demando: ہمارے کمرے میں کام والی میز پر کیا ہے؟
+  - Ĉu: کیا
+  - la: متعین حرف
+  - amiko: دوست
+  - de: کا
+  - via: آپ کے
+  - patro: والد
+  - laboras: کام کرتا ہے
+  - en: میں
+  - hotelo: ہوٹل
+  - '?'
+- demando: ہمارے کمرے میں کام کی میز پر کیا ہے؟
   rektatraduko:
-    - Kio: کیا
-    - estas: ہے
-    - sur: 'پر'
-    - la: حرف تخصیص جیسے عربی میں ال
-    - labortablo: کام والی میز
-    - en: میں
-    - nia: ہمارا
-    - ĉambro: کمرہ
-    - '?': ؟
-- 
-  demando: کیا آپکی میز پر اسپرانتو درسی کتاب ہے؟
+  - Kio: کیا
+  - estas: ہے
+  - sur: پر
+  - la: متعین حرف
+  - labortablo: کام کی میز
+  - en: میں
+  - nia: ہمارا
+  - ĉambro: کمرہ
+  - '?'
+- demando: کیا آپ کی میز پر ایسپرانتو کی درسی کتاب ہے؟
   rektatraduko:
-    - Ĉu: کیا۔آیا
-    - Esperanto-lernolibro: اسپرانتو درسی کتاب
-    - estas: ہے
-    - sur: 'پر'
-    - via: آپکا 
-    - tablo: میز
-    - '?': ؟
-
+  - Ĉu: کیا
+  - Esperanto-lernolibro: ایسپرانتو کی درسی کتاب
+  - estas: ہے
+  - sur: پر
+  - via: آپ کی
+  - tablo: میز
+  - '?'

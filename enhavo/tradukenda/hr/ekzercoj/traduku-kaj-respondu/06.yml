@@ -1,81 +1,68 @@
-- 
-  demando: Želiš li da ti danas pokažem moju najnoviju knjigu o bolestima djece?
-  rektatraduko: 
-    - Ĉu: Da li
-    - vi: ti
-    - deziras: želiš
-    - ke: da 
-    - mi: ja
-    - hodiaŭ: danas
-    - montru: pokaži
-    - al: k
-    - vi: ti
-    - la: (član)
-    - plej: naj
-    - novan: novu
-    - libron: knjigu
-    - pri: o
-    - malsanoj: bolesti
-    - de: od
-    - infanoj: djeca
-    - '?'
-- 
-  demando: Što želiš sutra za doručak?
-  rektatraduko: 
-    - Kion: Što
-    - vi: ti
-    - volas: želiš
-    - morgaŭ: sutra
-    - matenmanĝi: doručkovati
-    - '?'
-- 
-  demando: Znaš li kada dolazi Marko, u pet ili u osam sati?
-  rektatraduko: 
-    - Ĉu: Da li
-    - vi: ti
-    - scias: znaš
-    - kiam: kada
-    - Marko: Marko
-    - venas: dolazi
-    - ','
-    - ĉu: da li
-    - je: u
-    - la: (član)
-    - kvina: pet
-    - aŭ: ili
-    - je: u
-    - la: (član)
-    - oka: osam
-    - '?'
-- 
-  demando: Kada ste primijetili da me cijela obitelj zove dobrotvor?
-  rektatraduko: 
-    - Kiam: Kada
-    - vi: vi
-    - rimarkis: ste primijetili
-    - ','  
-    - ke: da
-    - la: (član)
-    - tuta: cijela
-    - familio: obitelj
-    - nomas: zove
-    - min: mene
-    - bonfarulo: dobrotvor
-    - '?'
-- 
-  demando: Je li ti bila korisna knjižica koju sam prekjučer poslao?
-  rektatraduko: 
-    - Ĉu: Je li 
-    - estis: bila
-    - utila: korisna
-    - al: k
-    - vi: ti
-    - la: (član) 
-    - libreto: knjižica
-    - ',' 
-    - kiun: koju
-    - mi: ja
-    - sendis: sam poslao
-    - antaŭhieraŭ: prekjučer
-    - '?'
-    
+- demando: Želiš li da ti pokažem svoju najnoviju knjigu?
+  rektatraduko:
+  - Ĉu: Li
+  - vi: ti
+  - deziras: želiš
+  - ','
+  - ke: da
+  - mi: ja
+  - montru: pokaži
+  - al: k
+  - vi: ti
+  - mian: moju
+  - plej: naj
+  - novan: novu
+  - libron: knjigu
+  - '?'
+- demando: Što želiš sutra za doručak?
+  rektatraduko:
+  - Kion: Što
+  - vi: ti
+  - volas: želiš
+  - morgaŭ: sutra
+  - matenmanĝi: doručkovati
+  - '?'
+- demando: Kada će Marko stići, u pet ili u osam sati?
+  rektatraduko:
+  - Kiam: Kada
+  - Marko: Marko
+  - alvenos: stići će
+  - ','
+  - je: u
+  - la: (član)
+  - kvina: pet
+  - aŭ: ili
+  - je: u
+  - la: (član)
+  - oka: osam
+  - horo: sat
+  - '?'
+- demando: Kada ste primijetili da me cijela obitelj zove dobrotvor?
+  rektatraduko:
+  - Kiam: Kada
+  - vi: vi
+  - rimarkis: ste primijetili
+  - ','
+  - ke: da
+  - la: (član)
+  - tuta: cijela
+  - familio: obitelj
+  - nomas: zove
+  - min: mene
+  - bonfarulo: dobrotvor
+  - '?'
+- demando: Je li ti bila korisna knjižica koju sam prekjučer poslao?
+  rektatraduko:
+  - Ĉu: Li
+  - la: (član)
+  - libreto: knjižica
+  - ','
+  - kiun: koju
+  - mi: ja
+  - sendis: sam poslao
+  - al: k
+  - vi: ti
+  - ','
+  - estis: bila
+  - utila: korisna
+  - '?'

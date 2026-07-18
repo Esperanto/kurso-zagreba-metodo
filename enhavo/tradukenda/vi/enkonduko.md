@@ -1,8 +1,5 @@
-- Dạy **500 từ quan trọng nhất**
-- **Miễn phí** và **không cần đăng ký**
-- Có [bộ thẻ ghi nhớ]({{ url.kartaro }}) cho [Anki]({{ url.anki }})
+- Học **500 từ quan trọng nhất**
+- Hiểu **95 % tiếng Esperanto nói**
+- **Miễn phí** và không cần đăng ký
 
-Sau khóa học, bạn sẽ **hiểu những điều cốt yếu**, tự đặt câu và có thể truyền đạt các ý cơ bản trong những tình huống hằng ngày.
-
-Hãy thử nhé!
-____
+Sau đó, bạn có thể theo dõi các cuộc trò chuyện đơn giản, tự tạo câu của mình và đi thẳng đến [buổi gặp Esperanto tiếp theo](https://eventaservo.org/).

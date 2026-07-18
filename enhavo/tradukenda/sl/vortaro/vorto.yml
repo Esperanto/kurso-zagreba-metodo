@@ -1,7 +1,7 @@
 akcepteblan: sprejemljivo
 alilandaj: tuj
 alporti: prinesti
-alportis: je bilo prenešeno 
+alportis: je bilo prenešeno
 alvenigas: pridobiti
 alvenis: priti
 alvenos: bom prišel
@@ -24,7 +24,6 @@ bonega: zelo dobro
 bonvolu: izvolite
 bonvolus: bi bili tako dobri
 centoj: stotine
-ĉu?: ali kot vprašalnica
 dankon: hvala
 daŭrigis: se je nadaljevalo
 denove: ponovno
@@ -48,13 +47,14 @@ ekveturas: speljati
 ekvidis: zagledati
 elstaraj: obstati
 eniri: vstopiti
-eniris: je vstopil 
+eniris: je vstopil
 eniru: pojdi noter
+Esperanto: esperanto
 facilmovaj: lahko premakljiv
 faligi: spustiti
 faligis: je spustil
 familianoj: člani družine
-fermita: zaprto 
+fermita: zaprto
 fine: končno
 foresti: biti odsoten
 foriros: bo odšel
@@ -64,7 +64,7 @@ geamikoj: prijatelji
 gefratoj: sorojenci
 gelernantojn: součenci
 gepatroj: starši
-gondolisto: gondoljer 
+gondolisto: gondoljer
 gondolistoj: gondoljerji
 grafino: grofica
 grafinon: grofice
@@ -77,7 +77,7 @@ homformo: oblika osebe
 hommulton: gneča
 ideoriĉan: poln idej
 industriisto: industrialec
-instruistino: učiteljica 
+instruistino: učiteljica
 instruiston: učitelja
 intervidiĝas: videti se med seboj
 iron: odhod
@@ -90,9 +90,9 @@ kafejon: kavarnic
 karulino: dragica
 karulo: dragec
 klarigis: je pojasnjeno
-klarigon: pojasnilo 
+klarigon: pojasnilo
 klubanoj: člani kluba
-kompreneble: 
+kompreneble:
 - se razume
 - seveda
 konsenti: soglašati
@@ -107,7 +107,7 @@ lernanto:
 - učenec
 - študent
 lernejo: šola
-lernejon: šole 
+lernejon: šole
 lernolibroj: šolske knjige
 leteroj: pisma
 libertempo:
@@ -127,10 +127,10 @@ malfacilan: težak
 malfacile: težko
 malfeliĉo: nesreča
 malforta: šibak
-malforte: šibko 
-malfruas: pozen 
+malforte: šibko
+malfruas: pozen
 malfrue: pozno
-malfrui: zamuditi 
+malfrui: zamuditi
 malgranda: majhen
 malhelpis: preprečiti
 malinterese: nezanimivo
@@ -139,13 +139,13 @@ mallaŭte: tiho
 malliberejon: zapor
 mallumo: tema
 malmulte: malo
-malmultekosta: poceni 
+malmultekosta: poceni
 malmulton: malo
 malnova: star
 malnovaj: stari
-malofte: redko 
+malofte: redko
 malplaĉa: neudoben
-malplaĉan: neudoben 
+malplaĉan: neudoben
 malproksime: daleč
 malsaniĝis: oboleti
 malsaĝa: neumen
@@ -161,7 +161,7 @@ manĝegi: žreti
 maristo: mornar
 maristoj: mornarji
 mariston: mornarje
-miaj: moji 
+miaj: moji
 militistoj: vojaki
 monerojn: kovance
 monujo: drobižnica
@@ -178,9 +178,9 @@ neinteresaj: nezanimiva
 nokta: nočna
 novaĵoj: novice
 opinion: mnenje
-ordigi: urediti 
+ordigi: urediti
 paperoj: papirji
-paperojn:  papirjem
+paperojn: papirjem
 paperujon: koš za papir
 pasigos: bo prebito
 patrino: mama
@@ -190,9 +190,9 @@ plenumis: napolniti
 plibeligis: olepšati
 plimulto: večina
 policano: policist
+pov: moči (glagol)
 promenejo: sprehajališče
 promeno: sprehod
-pov: moči (glagol)
 rapidege: zelo hitro
 realigi: uresničiti
 redonu: dati nazaj
@@ -239,19 +239,20 @@ vagonaro: vlak
 vendejo: trgovina
 vendejon: trgovin
 vendisto: prodajalec
-vestaĵo: oblačila 
+vestaĵo: oblačila
 vestaĵoj: oblačila
-vestaĵojn: oblačil 
+vestaĵojn: oblačil
 vestaĵon: oblačil
 veturado: vožnja
-veturigus: bi vozil 
+veturigus: bi vozil
 viaj: vaš
 virino: žena
 vojaĝantoj: popotniki
 ĉambristoj: sobarji
 ĉeesto: prisotnost
 ĉirkaŭaĵo: okolica
+ĉu?: ali kot vprašalnica
 ĝenon: motnje
 ĝustatempe: v pravem času
-ŝiaj: njeno 
+ŝiaj: njeno
 ŝipkuron: ladijska dirka

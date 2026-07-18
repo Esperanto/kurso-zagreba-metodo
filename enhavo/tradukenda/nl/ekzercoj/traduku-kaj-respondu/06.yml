@@ -1,72 +1,68 @@
-- 
-  demando: Wens je, dat ik je mijn nieuwste boek toon?
+- demando: Wil je dat ik je mijn nieuwste boek laat zien?
   rektatraduko:
-    - Ĉu: Of 
-    - vi: je
-    - deziras: wenst 
-    - ',' 
-    - ke: dat
-    - mi: ik 
-    - montru: toon 
-    - al: aan
-    - vi: u 
-    - mian: mijn 
-    - plej: meest  
-    - novan: nieuwe 
-    - libron: boek 
-    - '?'
-- 
-  demando: Wat wil je morgen als ontbijt?
+  - Ĉu: Of
+  - vi: je
+  - deziras: wilt
+  - ','
+  - ke: dat
+  - mi: ik
+  - montru: laat zien
+  - al: aan
+  - vi: jou
+  - mian: mijn
+  - plej: meest
+  - novan: nieuwe
+  - libron: boek
+  - '?'
+- demando: Wat wil je morgen ontbijten?
   rektatraduko:
-    - Kion: Wat
-    - vi: je  
-    - volas: wil
-    - morgaŭ: morgen 
-    - matenmanĝi: ontbijten 
-    - '?'
-- 
-  demando: Wanneer zal Marc aankomen, om vijf of om acht uur?
+  - Kion: Wat
+  - vi: je
+  - volas: wil
+  - morgaŭ: morgen
+  - matenmanĝi: ontbijten
+  - '?'
+- demando: Wanneer zal Marko aankomen, om vijf of om acht uur?
   rektatraduko:
-    - Kiam: Wanneer 
-    - Marko: Marc 
-    - alvenos: zal aankomen 
-    - ',' 
-    - je: om 
-    - la: het 
-    - kvina: vijfde 
-    - aŭ: of 
-    - je: om 
-    - la: het 
-    - oka: achtste 
-    - horo: uur 
-    - '?'
-- 
-  demando: Wanneer heb je bemerkt, dat de hele familie mij een weldoener noemt?
+  - Kiam: Wanneer
+  - Marko: Marko
+  - alvenos: zal aankomen
+  - ','
+  - je: om
+  - la: het
+  - kvina: vijfde
+  - aŭ: of
+  - je: om
+  - la: het
+  - oka: achtste
+  - horo: uur
+  - '?'
+- demando: Wanneer heb je gemerkt dat de hele familie mij een weldoener noemt?
   rektatraduko:
-    - Kiam: Wanneer
-    - vi: je 
-    - rimarkis: hebt bemerkt
-    - ','  
-    - ke: dat
-    - la: de 
-    - tuta: hele 
-    - familio: familie 
-    - nomas: noemt 
-    - min: mij 
-    - bonfarulo: een weldoener 
-    - '?'
-- 
-  demando: Was voor jou het boekje nuttig, dat ik gezonden heb?
+  - Kiam: Wanneer
+  - vi: je
+  - rimarkis: hebt gemerkt
+  - ','
+  - ke: dat
+  - la: de
+  - tuta: hele
+  - familio: familie
+  - nomas: noemt
+  - min: mij
+  - bonfarulo: een weldoener
+  - '?'
+- demando: Was het boekje dat ik gestuurd heb nuttig voor jou?
   rektatraduko:
-    - Ĉu: Of 
-    - la: het
-    - libreto: boekje 
-    - estis: was
-    - utila: nuttig 
-    - al: voor 
-    - vi: jou
-    - ',' 
-    - kiun: dat 
-    - mi: ik 
-    - sendis: zond
-    - '?'
+  - Ĉu: Of
+  - la: het
+  - libreto: boekje
+  - ','
+  - kiun: dat
+  - mi: ik
+  - sendis: stuurde
+  - al: voor
+  - vi: jou
+  - ','
+  - estis: was
+  - utila: nuttig
+  - '?'

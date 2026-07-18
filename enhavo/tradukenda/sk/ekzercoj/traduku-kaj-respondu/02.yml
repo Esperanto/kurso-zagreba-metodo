@@ -1,70 +1,64 @@
-- 
-  demando: Aký bol tvoj starý domov?
-  rektatraduko: 
-    - Kia: Aký
-    - estis: bol
-    - via: tvoj
-    - malnova: starý
-    - hejmo: domov
-    - '?'
-- 
-  demando: Ktoré knihy si čítal a sú dobré?
-  rektatraduko: 
-    - Kiujn: Ktoré
-    - librojn: knihy
-    - vi: ty
-    - legis: si čítal
-    - kaj: a
-    - ĉu: či (opytovacia častica)
-    - ili: oni
-    - estas: sú
-    - bonaj: dobré
-    - '?'
-- 
-  demando: Čo robili Anna a Marek v malej izbe Marka?
+- demando: Aký bol tvoj starý domov?
   rektatraduko:
-    - Kion: Čo
-    - faris: robili
-    - Anna: Anna
-    - kaj: a
-    - Marko: Marek
-    - en: v 
-    - la: (určitý člen)
-    - malgranda: malej
-    - ĉambro: izbe
-    - de: od
-    - Marko: Marka
-    - '?'
-- 
-  demando: Máš rád čítanie kníh o láske?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - ŝatas: máš rád
-    - legi: čítanie
-    - librojn: kníh
-    - pri: o
-    - amo: láske
-    - '?'
-- 
-  demando: Kto s tebou pôjde do tvojho domova?
-  rektatraduko: 
-    - Kiu: Kto
-    - iros: pôjde
-    - kun: s
-    - vi: tebou
-    - al: do 
-    - via: tvojho
-    - hejmo: domova
-    - '?'
-- 
-  demando: Aké sú oči tvojej priateľky?
-  rektatraduko: 
-    - Kiaj: Aké
-    - estas: sú
-    - la: (člen určitý)
-    - okuloj: oči
-    - de: od
-    - via: tvojej
-    - amikino: priateľky
-    - '?'
+  - Kia: Aký
+  - estis: bol
+  - via: tvoj
+  - malnova: starý
+  - hejmo: domov
+  - '?'
+- demando: Ktoré knihy si čítal a sú dobré?
+  rektatraduko:
+  - Kiujn: Ktoré
+  - librojn: knihy
+  - vi: ty
+  - legis: si čítal
+  - kaj: a
+  - ĉu: či (opytovacia častica)
+  - ili: oni
+  - estas: sú
+  - bonaj: dobré
+  - '?'
+- demando: Čo robili Ana a Marko v malej izbe u Marko?
+  rektatraduko:
+  - Kion: Čo
+  - faris: robili
+  - Ana: Ana
+  - kaj: a
+  - Marko: Marko
+  - en: v
+  - la: (určitý člen)
+  - malgranda: malej
+  - ĉambro: izbe
+  - de: od
+  - Marko: Marko
+  - '?'
+- demando: Máš rád čítanie kníh o láske?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - ŝatas: máš rád
+  - legi: čítanie
+  - librojn: kníh
+  - pri: o
+  - amo: láske
+  - '?'
+- demando: Kto s tebou pôjde do tvojho domova?
+  rektatraduko:
+  - Kiu: Kto
+  - iros: pôjde
+  - kun: s
+  - vi: tebou
+  - al: do
+  - via: tvojho
+  - hejmo: domova
+  - '?'
+- demando: Aké sú oči tvojej priateľky?
+  rektatraduko:
+  - Kiaj: Aké
+  - estas: sú
+  - la: (člen určitý)
+  - okuloj: oči
+  - de: od
+  - via: tvojej
+  - amikino: priateľky
+  - '?'

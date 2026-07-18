@@ -1,11 +1,11 @@
-a:  Melléknév
-e:  Határozó
-i:  Főnévi igenév
-n:  Tárgyeset
-o:  Főnév
-j:  Többesszám
-u:  Felszólító mód
-is: Múlt idő
+a: Melléknév
 as: Jelen idő
+e: Határozó
+i: Főnévi igenév
+is: Múlt idő
+j: Többesszám
+n: Tárgyeset
+o: Főnév
 os: Jövő idő
+u: Felszólító mód
 us: Feltételes mód

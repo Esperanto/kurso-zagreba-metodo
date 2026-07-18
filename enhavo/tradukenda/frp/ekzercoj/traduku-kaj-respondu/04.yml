@@ -1,73 +1,67 @@
--
-  demando: Quand vous reverrai-je ?
-  rektatraduko: 
-    - Kiam: Quand
-    - mi: je  
-    - revidos: reverrai
-    - vin: vous
-    - '?'
--
-  demando: Depuis combien de temps apprenez-vous la langue internationale ?
-  rektatraduko: 
-    - Kiel: Combien
-    - longe: longtemps
-    - vi: vous
-    - lernas: apprenez
-    - la: la 
-    - Internacian: internationale
-    - Lingvon: langue
-    - '?'
--
-  demando: Où est mon nouveau livre de photos ?
-  rektatraduko: 
-    - Kie: Où
-    - estas: est
-    - mia: mon
-    - nova: nouveau
-    - libro: livre
-    - kun: avec
-    - fotoj: des photos
-    - '?'
--
-  demando: Où irez-vous après le déjeuner ?
-  rektatraduko: 
-    - Kien: Où
-    - vi: vous
-    - iros: irez
-    - post: après
-    - la: le
-    - tagmanĝo: déjeuner
-    - '?'
--
-  demando: "Est-ce qu'on peut fermer la porte de la chambre quand il fait froid ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - oni: "on"
-    - povas: peut
-    - fermi: fermer
-    - la: la
-    - pordon: porte
-    - de: de 
-    - la: la
-    - ĉambro: chambre
-    - ','
-    - kiam: quand
-    - estas: il fait
-    - malvarme: froid
-    - '?'
--
-  demando: "Combien de temps êtes-vous en colère si on vous prend beaucoup d'argent ?"
-  rektatraduko: 
-    - Kiel: Combien
-    - longe: de temps
-    - vi: vous
-    - koleras: êtes en colère
-    - ','
-    - se: si
-    - oni: "on"
-    - forprenas: emporte
-    - de: de
-    - vi: vous
-    - multan: beaucoup 
-    - monon: argent
-    - '?'
+- demando: Quand vos reverrê?
+  rektatraduko:
+  - Kiam: Quand
+  - mi: jou
+  - revidos: reverrê
+  - vin: vos
+  - '?'
+- demando: Depués combien de temps aprenéd-vos la lengoua entèrnacionala?
+  rektatraduko:
+  - Kiom: Combien
+  - longe: longtemps
+  - vi: vos
+  - lernas: aprenéd
+  - la: la
+  - Internacian: entèrnacionala
+  - Lingvon: lengoua
+  - '?'
+- demando: Yo est mon novél livro de fotos?
+  rektatraduko:
+  - Kie: Yo
+  - estas: est
+  - mia: mon
+  - nova: novél
+  - libro: livro
+  - kun: avouéc
+  - fotoj: fotos
+  - '?'
+- demando: Yona iréd-vos aprés lo repas de midi?
+  rektatraduko:
+  - Kien: Yona
+  - vi: vos
+  - iros: iréd
+  - post: aprés
+  - la: lo
+  - tagmanĝo: repas de midi
+  - '?'
+- demando: Puet-on cllôre la pòrta de la chambra quand il fât frêd?
+  rektatraduko:
+  - Ĉu: Se
+  - oni: 'on'
+  - povas: puet
+  - fermi: cllôre
+  - la: la
+  - pordon: pòrta
+  - de: de
+  - la: la
+  - ĉambro: chambra
+  - ','
+  - kiam: quand
+  - estas: est
+  - malvarme: frêd
+  - '?'
+- demando: Combien longtemps restâd-vos en colèra se on vos prènd beaucoup d'argent?
+  rektatraduko:
+  - Kiom: Combien
+  - longe: longtemps
+  - vi: vos
+  - koleras: étes en colèra
+  - ','
+  - se: se
+  - oni: 'on'
+  - forprenas: prènd loin
+  - de: de
+  - vi: vos
+  - multan: beaucoup de
+  - monon: argent
+  - '?'

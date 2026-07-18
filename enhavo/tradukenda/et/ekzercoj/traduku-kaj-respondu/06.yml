@@ -1,0 +1,68 @@
+- demando: Kas sa tahad, et ma näitaksin sulle oma uusimat raamatut?
+  rektatraduko:
+  - Ĉu: Kas
+  - vi: sina
+  - deziras: soovid
+  - ','
+  - ke: et
+  - mi: mina
+  - montru: näitaksin
+  - al: juurde
+  - vi: sina
+  - mian: minu
+  - plej: kõige
+  - novan: uut
+  - libron: raamatut
+  - '?'
+- demando: Mida sa tahad homme hommikusöögiks süüa?
+  rektatraduko:
+  - Kion: Mida
+  - vi: sina
+  - volas: tahad
+  - morgaŭ: homme
+  - matenmanĝi: hommikusööki sööma
+  - '?'
+- demando: Millal Marko saabub, kas kell viis või kell kaheksa?
+  rektatraduko:
+  - Kiam: Millal
+  - Marko: Marko
+  - alvenos: saabub
+  - ','
+  - je: ajal
+  - la: määrav artikkel
+  - kvina: viies
+  - aŭ: või
+  - je: ajal
+  - la: määrav artikkel
+  - oka: kaheksas
+  - horo: tund
+  - '?'
+- demando: Millal sa märkasid, et kogu pere nimetab mind heategijaks?
+  rektatraduko:
+  - Kiam: Millal
+  - vi: sina
+  - rimarkis: märkasid
+  - ','
+  - ke: et
+  - la: määrav artikkel
+  - tuta: kogu
+  - familio: pere
+  - nomas: nimetab
+  - min: mind
+  - bonfarulo: heategija
+  - '?'
+- demando: Kas raamatuke, mille ma sulle saatsin, oli kasulik?
+  rektatraduko:
+  - Ĉu: Kas
+  - la: määrav artikkel
+  - libreto: raamatuke
+  - ','
+  - kiun: mille
+  - mi: mina
+  - sendis: saatsin
+  - al: juurde
+  - vi: sina
+  - ','
+  - estis: oli
+  - utila: kasulik
+  - '?'

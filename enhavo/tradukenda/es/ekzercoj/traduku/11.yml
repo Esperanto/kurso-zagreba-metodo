@@ -1,16 +1,14 @@
-- estraro: 
+- estraro:
   - junta directiva
   - dirección
   - junta
-- tagmeze: 
+- tagmeze:
   - a mediodía
-  - en el mediodía
   - al mediodía
-- posttagmeze: 
+- posttagmeze:
   - por la tarde
-  - en la tarde
-  - a la tarde
-- malsata: 
+  - después del mediodía
+- malsata:
   - hambriento
   - hambrienta
 - interkonsenti: ponerse de acuerdo
@@ -20,7 +18,7 @@
 - noktomezo: medianoche
 - publikigi: publicar
 - pagigi: hacer pagar
-- duflanka: 
+- duflanka:
   - bilateral
   - de ambos lados
   - de ambas caras

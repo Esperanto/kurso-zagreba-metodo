@@ -1,57 +1,51 @@
-- 
-  demando: Qui est ta petite amie ?
+- demando: Qui est ta amiga?
   rektatraduko:
-    - Kiu: Qui
-    - estas: est
-    - via: ta
-    - amikino: petite amie
-    - '?'
-- 
-  demando: Est-ce que ton amie Anna écrit maintenant dans la chambre ?
+  - Kiu: Qui
+  - estas: est
+  - via: ta
+  - amikino: amiga
+  - '?'
+- demando: Ta amiga Ana ècrit-ela ora dans la chambra?
   rektatraduko:
-    - Ĉu: Est-ce que
-    - via: ton
-    - amikino: amie
-    - Anna: Anna
-    - skribas: écrit
-    - nun: maintenant
-    - en: dans
-    - la: la 
-    - ĉambro: chambre
-    - '?'
-- 
-  demando: "Est-ce que l'ami de ton père travaille dans un hôtel ?"
+  - Ĉu: Se
+  - via: ta
+  - amikino: amiga
+  - Ana: Ana
+  - skribas: ècrit
+  - nun: ora
+  - en: dans
+  - la: la
+  - ĉambro: chambra
+  - '?'
+- demando: L'ami de ton pâre travalye-t-il dans un hôtèl?
   rektatraduko:
-    - Ĉu: Est-ce que
-    - la: "l'"
-    - amiko: ami
-    - de: de
-    - via: ton
-    - patro: père
-    - laboras: travaille
-    - en: dans
-    - hotelo: un hôtel
-    - '?'
-- 
-  demando: "Qu'y-a-t-il sur le bureau dans notre chambre ?"
+  - Ĉu: Se
+  - la: l'
+  - amiko: ami
+  - de: de
+  - via: ton
+  - patro: pâre
+  - laboras: travalye
+  - en: dans
+  - hotelo: hôtèl
+  - '?'
+- demando: Què est sur lo buro dans nouta chambra?
   rektatraduko:
-    - Kio: Quoi 
-    - estas: est
-    - sur: sur
-    - la: le
-    - labortablo: bureau
-    - en: dans
-    - nia: notre
-    - ĉambro: chambre
-    - '?'
-- 
-  demando: "Est-ce qu'il y a un manuel d'espéranto sur ta table ?"
+  - Kio: Què
+  - estas: est
+  - sur: sur
+  - la: lo
+  - labortablo: tabla de travâly
+  - en: dans
+  - nia: nouta
+  - ĉambro: chambra
+  - '?'
+- demando: At-i un livro por aprendre l'espèranto sur ta tabla?
   rektatraduko:
-    - Ĉu: Est-ce que
-    - Esperanto-lernolibro: "un manuel d'espéranto" 
-    - estas: est
-    - sur: sur 
-    - via: ta 
-    - tablo: table
-    - '?'
-
+  - Ĉu: Se
+  - Esperanto-lernolibro: livro d'espèranto
+  - estas: est
+  - sur: sur
+  - via: ta
+  - tablo: tabla
+  - '?'

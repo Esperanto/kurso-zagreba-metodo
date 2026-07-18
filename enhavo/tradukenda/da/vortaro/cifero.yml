@@ -1,31 +1,31 @@
-unu:
-  - én
-  - ét
-  - en
-  - et
-du: to
-tri: tre
-kvar: fire
-kvin: fem
-ses: seks
-sep: syv
-ok: otte
-naŭ: ni
+cent: hundrede
 dek: ti
-dek unu: elleve
 dek du: tolv
-dek tri: tretten
 dek kvar: fjorten
 dek kvin: femten
-dek ses: seksten
-dek sep: sytten
-dek ok: atten
 dek naŭ: nitten
-dudek: tyve
-tridek: tredive
-kvardek: fyrre
-cent: hundrede
+dek ok: atten
+dek sep: sytten
+dek ses: seksten
+dek tri: tretten
+dek unu: elleve
+du: to
 ducent: to hundrede
-tricent: tre hundrede
-mil: tusind
+dudek: tyve
 dumil: to tusinde
+kvar: fire
+kvardek: fyrre
+kvin: fem
+mil: tusind
+naŭ: ni
+ok: otte
+sep: syv
+ses: seks
+tri: tre
+tricent: tre hundrede
+tridek: tredive
+unu:
+- én
+- ét
+- en
+- et

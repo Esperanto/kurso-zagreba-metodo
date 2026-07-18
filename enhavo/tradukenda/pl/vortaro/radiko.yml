@@ -1,19 +1,26 @@
 afer: sprawa
+ag:
+- działać
+- czynić
+- postępować
 agrabl: miły
 akcept: akceptować
 akv: woda
 ali: inny
 alt: wysoki
-am: miłość
+am: kochać
 amik: przyjaciel
+aper:
+- pojawiać się
+- ukazać się
+- pokazać się
 arb: drzewo
-aspekt:
-- wygląd
-- aspekt
+aspekt: wygląd
 atend: czekać
 atent: uważać
 aĉet: kupować
 aŭd: słyszeć
+aŭskult: posłuchać
 aŭt: samochód
 aŭtoritat: autorytet
 bedaŭr: żałować
@@ -21,13 +28,13 @@ bel: ładny
 best: zwierzę
 bezon: potrzebować
 bien:
-- farma
 - gospodarstwo
+- majątek ziemski
 bon: dobry
 branĉ: gałąź
 bru: hałas
 buŝ: usta
-cert: 
+cert:
 - pewny
 - pewien
 dank: dziękować
@@ -42,14 +49,13 @@ dik:
 - tłusty
 dimanĉ: niedziela
 dir: mówić
-direkt: kierunek
-doktor: 
+direkt: kierować
+divers: różne
+doktor:
 - doktor
 - lekarz
 dolar: dolar
-dolor:
-- ból
-- boleć
+dolor: boleć
 dolĉ: słodki
 dom: dom (budynek)
 don: dać
@@ -57,10 +63,10 @@ dorm: spać
 doĝ: doża
 edz: mąż
 efektiv:
-- efektywnie
-- faktycznie
-- rzeczywiście
+- faktyczny
+- rzeczywisty
 ekskurs: wycieczka
+ekzempl: przykład
 esper: mieć nadzieję
 est: być
 facil: łatwy
@@ -84,10 +90,10 @@ fort: silny
 fot: zdjęcie
 frat: brat
 fru: wcześnie
-fuŝ: 
+fuŝ:
 - psuć
-- rujnować
-- schrzanić
+- partaczyć
+glas: szklanka
 gondol: gondola
 graf: hrabia
 grand:
@@ -97,14 +103,16 @@ grav: ważny
 halt: zatrzymać
 hav: mieć
 hejm: dom
-help: pomoc
+help: pomagać
 hom: człowiek
 hor: godzina
 hotel: hotel
 ide: pomysł
-industri: przemysł 
+industri: przemysł
+infan: dziecko
+inform: informować
 instru: nauczać
-interes: zaciekawiać
+interes: zainteresowanie
 invit: zapraszać
 ir: iść
 itali: Włochy
@@ -112,27 +120,34 @@ jar: rok
 jun: młody
 kaf: kawa
 kalv: łysy
+kant: śpiewać
 kap: głowa
 kapabl: zdolny
 kapt: złapać
 kar: drogi
 kastel: zamek
 kav: jaskinia
-kelk: niektóry
+kelk: kilka, pewien
 kelner: kelner
-klar: wyraźny
+klar:
+- jasny
+- wyraźny
 klub: klub
 knab: chłopiec
-koler: złość
+koler:
+- gniewać się
+- złościć się
 kolor: kolor
 komenc: zaczynać
 kompren: rozumieć
 kon: znać
+konsent: zgadzać się
 kontent: usatysfakcjonowany
 kontrol: sprawdzać
 kor: serce
 korp: ciało
 kost: kosztować
+kred: wierzyć
 kri: krzyczeć
 kuir: gotować
 kuk: ciasto
@@ -142,6 +157,9 @@ lakt: mleko
 lamp: lampa
 land: kraj
 larĝ: szeroki
+las:
+- pozwalać
+- zostawiać
 last: ostatni
 laŭt: głośny
 lecion: lekcja
@@ -150,13 +168,16 @@ lern: uczyć się
 leter: list
 liber: wolny
 libr: książka
+lingv: język
 lok: miejsce
 long: długi
-lud: 
+loĝ: mieszkać
+lud:
 - grać
 - bawić się
 lum: światło
 man: ręka
+manier: sposób
 mank: brakować
 manĝ: jeść
 mar: morze
@@ -169,27 +190,35 @@ minut: minuta
 mir: dziwić się
 moment: moment
 mon: pieniądze
+monat: miesiąc
+mond: świat
 mont: góra
 montr: pokazać
 mort: umierać
 mov: ruszać
 mult: wiele
 muzik: muzyka
+naci: naród
 nask: rodzić
 natur: natura
-neces: potrzebować
+neces:
+- konieczny
+- potrzebny
 nokt: noc
 nom: imię
 not: notować
 nov: nowy
 odor: zapach
-oft: częsty
+oft: często
 okaz: zdarzyć się
 okul: oko
 onkl: wujek
-opini: opinia
-ord: porządkować
+opini:
+- uważać
+- sądzić
+ord: porządek
 orel: ucho
+organiz: organizować
 pac: pokój (brak wojny)
 pag: płacić
 pan: chleb
@@ -205,26 +234,35 @@ perd: zgubić
 person: osoba
 pet: prosić
 pez: ciężki
-pied: piedo
+pied: stopa
 plac: plac
 plan: plan
 plaĉ: podobać się
 plen: pełny
+plor: płakać
+pluv: padać
 polic: policja
 pord: drzwi
 port: nosić
 pov: móc
+poŝ: kieszeń
+poŝt: poczta
 pren: brać
 pret: gotowy
 prezent: przedstawiać
 problem: problem
-proksim: blisko
+proksim: bliski
+proksimum: około
 promen: spacerować
 propon: proponować
 prov: próbować
+publik: publiczny
+punkt: punkt
+pur: czysty
 rajt: mieć prawo
+rakont: opowiadać
 rapid: szybki
-raport: raport
+raport: raportować
 real: rzeczywisty
 rekt: bezpośredni
 renkont: spotykać
@@ -234,13 +272,18 @@ rest: zostawać
 ricev: otrzymywać
 rid: śmiać się
 rigard: patrzeć
-riĉ: boagty
+rilat:
+- stosunek
+- relacja
+rimark: zauważyć
+riĉ: bogaty
 rol: rola
 ruĝ: czerwony
 salt: skakać
 salut: pozdrawiać
 sam: taki sam
 san: zdrowy
+sat: syty
 saĝ: mądry
 sci: wiedzieć
 sek: suchy
@@ -248,13 +291,16 @@ sekret: sekret
 sekv: podążać
 semajn: tydzień
 send: wysyłać
+sent: czuć
 serĉ: szukać
-si: 
+seĝ: krzesło
+si:
 - siebie
 - się
 sid: siedzieć
 silent: milczeć
 simil: podobny
+simpl: prosty
 sinjor:
 - pan
 - P.
@@ -266,12 +312,15 @@ sovaĝ: dziki
 sport: sport
 star: stać
 strat: ulica
-subit: nagle
+subit: nagły
 sufiĉ: wystarczająco
-sukces: sukces
+suk: sok
+sukces: odnosić sukces
 sun: słońce
-supr: nad
-tabl: stół 
+supr:
+- powyżej
+- na górze
+tabl: stół
 tag: dzień
 te: herbata
 telefon: telefon
@@ -279,13 +328,16 @@ temp: czas
 temperatur: temperatura
 ten: trzymać
 teror: terror
+terur: straszny
 tim: strach
 ton: ton
 trankvil: spokojny
 trink: pić
 trov: znaleźć
 turk: turecki
+tut: cały
 tuŝ: dotykać
+universal: uniwersalny
 urb: miasto
 util: użyteczny
 uz: używać
@@ -305,19 +357,23 @@ viv: żyć
 vizaĝ: twarz
 vizit: odwiedzać
 voj: droga
-vojaĝ: journey
-vok: dzwonić
+vojaĝ: podróżować
+vok:
+- wołać
+- dzwonić
 vol: chcieć
 vort: słowo
 voĉ: głos
 zorg: dbać
 ĉambr: pokój
-ĉef: szef
+ĉef:
+- główny
+- szef
 ĝen:
 - przeszkadzać
 - dręczyć
 ĝeneral: ogólny
-ĝoj: radość
+ĝoj: radosny
 ĝust: poprawny
 ĵet: rzucać
 ŝajn: wydawać (się)

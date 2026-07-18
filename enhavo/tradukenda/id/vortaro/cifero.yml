@@ -1,27 +1,27 @@
-unu: satu
-du: dua
-tri: tiga
-kvar: empat
-kvin: lima
-ses: enam
-sep: tujuh
-ok: delapan
-naŭ: sembilan
-dek: sepuluh
-dek unu: sebelas
-dek du: dua belas
-dek tri: tiga belas
-dek kvar: empat belas
-dek kvin: lima belas 
-dek ses: enam belas 
-dek sep: tujuh belas
-dek ok: delapan belas
-dek naŭ: sembilan belas
-dudek: dua puluh
-tridek: tiga puluh
-kvardek: empat puluh
 cent: seratus
+dek: sepuluh
+dek du: dua belas
+dek kvar: empat belas
+dek kvin: lima belas
+dek naŭ: sembilan belas
+dek ok: delapan belas
+dek sep: tujuh belas
+dek ses: enam belas
+dek tri: tiga belas
+dek unu: sebelas
+du: dua
 ducent: dua ratus
-tricent: tiga ratus
-mil: seribu
+dudek: dua puluh
 dumil: dua ribu
+kvar: empat
+kvardek: empat puluh
+kvin: lima
+mil: seribu
+naŭ: sembilan
+ok: delapan
+sep: tujuh
+ses: enam
+tri: tiga
+tricent: tiga ratus
+tridek: tiga puluh
+unu: satu

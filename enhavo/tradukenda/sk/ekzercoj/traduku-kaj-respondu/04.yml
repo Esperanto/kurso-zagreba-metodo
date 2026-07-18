@@ -1,73 +1,67 @@
--
-  demando: Kedy ťa znovu uvidím?
-  rektatraduko: 
-    - Kiam: Kedy
-    - mi: ja
-    - revidos: uvidím znovu
-    - vin: teba
-    - '?'
--
-  demando: Ako dlho sa učíš medzinárodný jazyk?
-  rektatraduko: 
-    - Kiel: Ako
-    - longe: dlho
-    - vi: ty 
-    - lernas: sa učíš
-    - la: (člen určitý)
-    - internacian: medzinárodný
-    - lingvon: jazyk
-    - '?'
--
-  demando: Kde je moja nová kniha s fotografiami?
-  rektatraduko: 
-    - Kie: Kde
-    - estas: je
-    - mia: moja
-    - nova: nová
-    - libro: kniha
-    - kun: s
-    - fotoj: fotografiami
-    - '?'
--
-  demando: Kam pôjdeš po obede?
-  rektatraduko: 
-    - Kien: Kam
-    - vi: ty
-    - iros: pôjdeš
-    - post: po
-    - la: (člen určitý)
-    - tagmanĝo: obede
-    - '?'
--
-  demando: Môže niekto zavrieť dvere od izby, keď je chladno?
-  rektatraduko: 
-    - Ĉu: Či
-    - oni: niekto (neurčité zámeno)
-    - povas: môže
-    - fermi: zavrieť
-    - la: (člen určitý)
-    - pordon: dvere
-    - de: od
-    - la: (člen určitý)
-    - ĉambro: izba
-    - ','
-    - kiam: keď
-    - estas: je
-    - malvarme: chladno
-    - '?'
--
-  demando: Ako dlho sa hneváš, keď ti berú veľa peňazí?
-  rektatraduko: 
-    - Kiel: Ako
-    - longe: dlho
-    - vi: ty
-    - koleras: sa hneváš
-    - ','
-    - se: keď
-    - oni: oni (neurčité zámeno)
-    - forprenas: berú
-    - de: od
-    - vi: teba
-    - multan: veľa
-    - monon: peňazí
-    - '?'
+- demando: Kedy ťa znovu uvidím?
+  rektatraduko:
+  - Kiam: Kedy
+  - mi: ja
+  - revidos: uvidím znovu
+  - vin: teba
+  - '?'
+- demando: Ako dlho sa učíš medzinárodný jazyk?
+  rektatraduko:
+  - Kiom: koľko
+  - longe: dlho
+  - vi: ty
+  - lernas: sa učíš
+  - la: (člen určitý)
+  - Internacian: medzinárodný
+  - Lingvon: jazyk
+  - '?'
+- demando: Kde je moja nová kniha s fotografiami?
+  rektatraduko:
+  - Kie: Kde
+  - estas: je
+  - mia: moja
+  - nova: nová
+  - libro: kniha
+  - kun: s
+  - fotoj: fotografiami
+  - '?'
+- demando: Kam pôjdeš po obede?
+  rektatraduko:
+  - Kien: Kam
+  - vi: ty
+  - iros: pôjdeš
+  - post: po
+  - la: (člen určitý)
+  - tagmanĝo: obede
+  - '?'
+- demando: Môže niekto zavrieť dvere od izby, keď je chladno?
+  rektatraduko:
+  - Ĉu: Či
+  - oni: niekto (neurčité zámeno)
+  - povas: môže
+  - fermi: zavrieť
+  - la: (člen určitý)
+  - pordon: dvere
+  - de: od
+  - la: (člen určitý)
+  - ĉambro: izba
+  - ','
+  - kiam: keď
+  - estas: je
+  - malvarme: chladno
+  - '?'
+- demando: Ako dlho sa hneváš, keď ti vezmú veľa peňazí?
+  rektatraduko:
+  - Kiom: koľko
+  - longe: dlho
+  - vi: ty
+  - koleras: sa hneváš
+  - ','
+  - se: keď
+  - oni: oni (neurčité zámeno)
+  - forprenas: berú preč
+  - de: od
+  - vi: teba
+  - multan: veľa
+  - monon: peňazí
+  - '?'

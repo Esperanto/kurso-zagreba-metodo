@@ -1,0 +1,80 @@
+- demando: Kas valys virtuvę po pietų?
+  rektatraduko:
+  - Kiu: kas
+  - purigos: valys
+  - la: apibrėžtasis artikelis
+  - kuirejon: virtuvę
+  - post: po
+  - la: apibrėžtasis artikelis
+  - tagmanĝo: pietūs
+  - '?'
+- demando: 'Ką norėtum gerti: arbatą, kavą ar nieko?'
+  rektatraduko:
+  - Kion: ką
+  - vi: tu, jūs
+  - volas: nori
+  - trinki: gerti
+  - ':'
+  - teon: arbatą
+  - ','
+  - iom: šiek tiek
+  - da: kiekio kilmininkas
+  - kafo: kavos
+  - aŭ: arba
+  - ĉu: ar
+  - vi: tu, jūs
+  - volas: nori
+  - nenion: nieko
+  - '?'
+- demando: Kodėl taip staiga nusprendei atnaujinti savo mažą kambarį?
+  rektatraduko:
+  - Kial: kodėl
+  - vi: tu, jūs
+  - tiel: taip
+  - subite: staiga
+  - decidis: nusprendei
+  - renovigi: atnaujinti
+  - vian: tavo
+  - ĉambreton: mažą kambarį
+  - '?'
+- demando: Kam davei švarias vyno taures?
+  rektatraduko:
+  - Al: kam, į
+  - kiu: kas, kuris
+  - vi: tu, jūs
+  - donis: davė
+  - la: apibrėžtasis artikelis
+  - purajn: švarias
+  - glasojn: taures
+  - por: dėl, kam
+  - la: apibrėžtasis artikelis
+  - vino: vyno
+  - '?'
+- demando: Prieš ką tavo sporto klubas žaidė prieš dvi savaites?
+  rektatraduko:
+  - Kontraŭ: prieš
+  - kiu: kas, kuris
+  - ludis: žaidė
+  - via: tavo
+  - sportklubo: sporto klubas
+  - antaŭ: prieš
+  - du: du
+  - semajnoj: savaitės
+  - '?'
+- demando: Ar dažnai matai policininką, gyvenantį bute virš tavęs?
+  rektatraduko:
+  - Ĉu: ar
+  - vi: tu, jūs
+  - ofte: ofte
+  - vidas: matai
+  - la: apibrėžtasis artikelis
+  - policiston: policininką
+  - ','
+  - kiu: kas, kuris
+  - loĝas: gyvena
+  - en: į, viduje
+  - la: apibrėžtasis artikelis
+  - loĝejo: butas
+  - super: virš
+  - vi: tu, jūs
+  - '?'

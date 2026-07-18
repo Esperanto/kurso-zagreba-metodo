@@ -2,7 +2,7 @@
 
 [![Pages](https://github.com/Esperanto/kurso-zagreba-metodo/actions/workflows/pages.yml/badge.svg)](https://github.com/Esperanto/kurso-zagreba-metodo/actions/workflows/pages.yml)
 [![Permesilo: CC BY 4.0](https://img.shields.io/badge/permesilo-CC%20BY%204.0-lightgrey)](PERMESILO.md)
-[![Lingvoj: 32](https://img.shields.io/badge/lingvoj-32-blue)](agordoj/lingvoj.yml)
+[![Lingvoj: 35](https://img.shields.io/badge/lingvoj-35-blue)](agordoj/lingvoj.yml)
 [![Live: esperanto12.net](https://img.shields.io/badge/live-esperanto12.net-brightgreen)](https://esperanto12.net/)
 [![Aliĝu al la babilejo en Telegram](https://img.shields.io/badge/babilejo-Telegram-26A5E4?logo=telegram&logoColor=white)](https://zagreba.telegramo.org/)
 
@@ -43,7 +43,7 @@ Por generi la tutan produktadan HTML-eligon:
 
     make html-all
 
-Tio ankaŭ kreas PWA-manifeston, ikonojn, registrilon kaj radikan `sw.js`. Tiuj dosieroj estas provizore ne ligitaj el la HTML, do la retejo nuntempe ne proponas instaleblan PWA-on al vizitantoj.
+Tio ankaŭ kreas po-lingvajn PWA-manifestojn, ikonojn kaj po-lingvajn service worker-dosierojn, ekzemple `/en/manifest.webmanifest` kaj `/en/sw.js`. Ĉiu lingva startpaĝo ligas sian manifeston kaj registras sian propran service worker-on.
 
 Por kontroli, ke la PWA-manifesto validas kaj ke ĉiu generita dosiero troviĝas en la offline-listo:
 

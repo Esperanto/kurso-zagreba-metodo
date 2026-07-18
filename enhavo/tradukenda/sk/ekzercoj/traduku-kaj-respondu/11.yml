@@ -1,55 +1,49 @@
-- 
-  demando: Môžeš priniesť liek mojej sestry?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - povas: môžeš
-    - alporti: priniesť
-    - la: (člen určitý) 
-    - sanigilon: liek
-    - de: od
-    - mia: mojej
-    - fratino: sestry
-    - '?'
-- 
-  demando: Kedy si kúpil ten hudobný nástroj?
-  rektatraduko: 
-    - Kiam: Kedy
-    - vi: ty
-    - aĉetis: si kúpil
-    - tiun: ten
-    - muzikilon: hudobný nástroj
-    - '?'
-- 
-  demando: Kto naposledy použil môj kľúč?
-  rektatraduko: 
-    - Kiu: Kto
-    - laste: naposledy
-    - uzis: použil
-    - mian: môj
-    - ŝlosilon: kľúč
-    - '?'
-- 
-  demando: Cestoval si v Benátkach aj gondolou?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - en: v
-    - Venecio: Benátky
-    - veturis: cestoval
-    - ankaŭ: aj
-    - per: pomocou (predložka inštrumentálu)
-    - gondolo: gondola
-    - '?'
-- 
-  demando: Budeš môcť zaspať, keď to utíchne? 
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - povos: budeš môcť
-    - ekdormi: zaspať
-    - ',' 
-    - kiam: keď
-    - tio: to
-    - silentiĝos: utíchne
-    - '?'
+- demando: Môžeš priniesť liek mojej sestry?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - povas: môžeš
+  - kunporti: priniesť
+  - la: (člen určitý)
+  - sanigilon: liek
+  - de: od
+  - mia: mojej
+  - fratino: sestry
+  - '?'
+- demando: Kedy si kúpil ten hudobný nástroj?
+  rektatraduko:
+  - Kiam: Kedy
+  - vi: ty
+  - aĉetis: si kúpil
+  - tiun: ten
+  - muzikilon: hudobný nástroj
+  - '?'
+- demando: Kto naposledy použil môj kľúč?
+  rektatraduko:
+  - Kiu: Kto
+  - laste: naposledy
+  - uzis: použil
+  - mian: môj
+  - ŝlosilon: kľúč
+  - '?'
+- demando: Cestoval si v Benátkach aj gondolou?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - en: v
+  - Venecio: Benátky
+  - veturis: cestoval
+  - ankaŭ: aj
+  - per: pomocou (predložka inštrumentálu)
+  - gondolo: gondola
+  - '?'
+- demando: Budeš môcť zaspať, keď to utíchne?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - povos: budeš môcť
+  - ekdormi: zaspať
+  - ','
+  - kiam: keď
+  - silentiĝos: became quiet
+  - '?'

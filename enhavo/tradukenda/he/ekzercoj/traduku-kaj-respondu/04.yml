@@ -1,69 +1,67 @@
--
-  demando: ?מתי אראה אותך שוב
-  rektatraduko: 
-    - Kiam: מתי
-    - mi: אני  
-    - revidos: אראה
-    - vin: אותך
-    - denove: שוב
-    - '?'
--
-  demando: ?כמה זמן אתה לומד את השפה הבינלאומית
-  rektatraduko: 
-    - Kiel longe: כמה זמן
-    - vi: אתה
-    - lernas: לומד
-    - la: ה 
-    - Internacian: בינלאומית
-    - Lingvon: שפה
-    - '?'
--
-  demando: ?איפה הספר החדש שלי עם הצילומים
-  rektatraduko: 
-    - Kie: איפה
-    - estas: הוא
-    - mia: שלי
-    - nova: חדש
-    - libro: ספר
-    - kun: עם
-    - fotoj: צילומים
-    - '?'
--
-  demando: ?לאן תלך אחרי ארוחת הצהרים
-  rektatraduko: 
-    - Kien: לאן
-    - vi: אתה
-    - iros: תלך
-    - post: אחרי
-    - la: ה
-    - tagmanĝo: ארוחת צהרים
-    - '?'
--
-  demando: ?האם אפשר לסגור את הדלת של החדר כשקר
-  rektatraduko: 
-    - Ĉu: האם
-    - oni povas: אפשר
-    - fermi: לסגור
-    - la: ה
-    - pordon: דלת
-    - de: של 
-    - la: ה
-    - ĉambro: חדר
-    - ','
-    - kiam estas: כאשר
-    - malvarme: קר
-    - '?'
--
-  demando: ?כמה זמן אתה כועס אם לוקחים ממך הרבה כסף
-  rektatraduko: 
-    - Kiel longe: כמה זמן
-    - vi: אתה
-    - koleras: כועס
-    - ','
-    - se: אם
-    - oni forprenas: לוקחים
-    - de: מ
-    - vi: אתה
-    - multan: הרבה
-    - monon: כסף
-    - '?'
+- demando: ?מתי אראה אותך שוב
+  rektatraduko:
+  - Kiam: מתי
+  - mi: אני
+  - revidos: אראה
+  - vin: אותך
+  - '?'
+- demando: ?כמה זמן אתה לומד את השפה הבינלאומית
+  rektatraduko:
+  - Kiom: כמה
+  - longe: כמה זמן
+  - vi: אתה
+  - lernas: לומד
+  - la: ה
+  - Internacian: בינלאומית
+  - Lingvon: שפה
+  - '?'
+- demando: ?איפה הספר החדש שלי עם הצילומים
+  rektatraduko:
+  - Kie: איפה
+  - estas: הוא
+  - mia: שלי
+  - nova: חדש
+  - libro: ספר
+  - kun: עם
+  - fotoj: צילומים
+  - '?'
+- demando: ?לאן תלך אחרי ארוחת הצהרים
+  rektatraduko:
+  - Kien: לאן
+  - vi: אתה
+  - iros: תלך
+  - post: אחרי
+  - la: ה
+  - tagmanĝo: ארוחת צהרים
+  - '?'
+- demando: ?האם אפשר לסגור את הדלת של החדר כשקר
+  rektatraduko:
+  - Ĉu: האם
+  - oni: אפשר
+  - povas: אפשר
+  - fermi: לסגור
+  - la: ה
+  - pordon: דלת
+  - de: של
+  - la: ה
+  - ĉambro: חדר
+  - ','
+  - kiam: כאשר
+  - estas: כאשר
+  - malvarme: קר
+  - '?'
+- demando: ?כמה זמן אתה כועס אם לוקחים ממך הרבה כסף
+  rektatraduko:
+  - Kiom: כמה
+  - longe: כמה זמן
+  - vi: אתה
+  - koleras: כועס
+  - ','
+  - se: אם
+  - oni: לוקחים
+  - forprenas: לוקחים
+  - de: מ
+  - vi: אתה
+  - multan: הרבה
+  - monon: כסף
+  - '?'

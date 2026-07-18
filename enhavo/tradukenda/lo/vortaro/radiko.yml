@@ -1,314 +1,354 @@
-afer: matter
-agrabl: pleasant
-akcept: accept
-akv: water
-ali: another
-alt: high
-am: love
-amik: friend
-arb: tree
-aspekt:
-- look
-- seem
-atend: to wait
-atent: pay attention
-aĉet: to buy
-aŭd: to hear
-aŭt: car
-aŭtoritat: authority
-bedaŭr: to regret
-bel: beautiful
-best: animal
-bezon: to need
+afer: ເລື່ອງ
+ag: ກະທຳ
+agrabl: ນ່າພໍໃຈ
+akcept: ຮັບ
+akv: ນ້ຳ
+ali: ອື່ນ
+alt: ສູງ
+am: ຮັກ
+amik: ເພື່ອນ
+aper: ປາກົດ
+arb: ຕົ້ນໄມ້
+aspekt: ເບິ່ງຄື
+atend: ລໍຖ້າ
+atent: ໃສ່ໃຈ
+aĉet: ຊື້
+aŭd: ໄດ້ຍິນ
+aŭskult: ຟັງ
+aŭt: ລົດ
+aŭtoritat: ອຳນາດ
+bedaŭr: ເສຍໃຈ
+bel: ງາມ
+best: ສັດ
+bezon: ຕ້ອງການ
 bien:
-- estate
-- land
-bon: good
-branĉ: branch
-bru: noise
-buŝ: mouth
-cert: certain
-dank: to thank
-daŭr: to continue
-decid: to decide
-demand: to ask
-dev: must
-dezir: to wish
-diabl: devil
+- ທີ່ດິນ
+- ຟາມ
+bon: ດີ
+branĉ: ກິ່ງ
+bru: ສຽງດັງ
+buŝ: ປາກ
+cert: ແນ່ນອນ
+dank: ຂອບໃຈ
+daŭr: ຕໍ່ເນື່ອງ
+decid: ຕັດສິນໃຈ
+demand: ຖາມ
+dev: ຕ້ອງ
+dezir: ປາຖະໜາ
+diabl: ຜີມານ
 dik:
-- thick
-- fat
-dimanĉ: Sunday
-dir: to say
-direkt: direction
-doktor: doctor
-dolar: dollar
+- ໜາ
+- ອ້ວນ
+dimanĉ: ວັນອາທິດ
+dir: ເວົ້າ
+direkt: ທິດທາງ
+divers: ຫຼາກຫຼາຍ
+doktor: ໝໍ
+dolar: ໂດລາ
 dolor:
-- pain
-- to hurt
-dolĉ: sweet
-dom: house
-don: to give
-dorm: sleep
-doĝ: doge
-edz: husband
-efektiv: actually
-ekskurs: excursion
-esper: to hope
-est: to be
-facil: easy
-fakt: fact
-fal: to fall
-famili: family
-far: to do
-fart:
-- feel
-- be
-feliĉ: happy
-ferm: to close 
-fin: to end
-flank: side
-foj:
-- time
-- occasion
-forges: to forget
-form: form
-fort: strong
-fot: photo
-frat: brother
-fru: early
-fuŝ: to mess up
-gondol: gondola
-graf:
-- count
-- earl
+- ຄວາມເຈັບ
+- ເຈັບ
+dolĉ: ຫວານ
+dom: ເຮືອນ
+don: ໃຫ້
+dorm: ນອນ
+doĝ: ດອຈ
+edz: ຜົວ
+efektiv: ແທ້ຈິງ
+ekskurs: ການທັດສະນະ
+ekzempl: ຕົວຢ່າງ
+esper: ຫວັງ
+est:
+- ເປັນ
+- ຢູ່
+facil: ງ່າຍ
+fakt: ຄວາມຈິງ
+fal: ຕົກ
+famili: ຄອບຄົວ
+far: ເຮັດ
+fart: ສະບາຍ
+feliĉ: ມີຄວາມສຸກ
+ferm: ປິດ
+fin: ຈົບ
+flank: ຂ້າງ
+foj: ຄັ້ງ
+forges: ລືມ
+form: ຮູບແບບ
+fort: ແຂງແຮງ
+fot: ຮູບຖ່າຍ
+frat: ອ້າຍນ້ອງ
+fru: ໄວ
+fuŝ: ເຮັດພາດ
+glas: ແກ້ວ
+gondol: ເຮືອກອນໂດລາ
+graf: ທ່ານເຄົານຕ໌
 grand:
-- big
-- great
-grav: important
-halt: to stop
-hav: to have
-hejm: home
-help: to help
-hom: human
-hor: hour
-hotel: hotel
-ide: idea
-industri: industry 
-instru: to teach
-interes: to interest
-invit: to invite
-ir: to go
-itali: Italy
-jar: year
-jun: young
-kaf: coffee
-kalv: bald
-kap: head
-kapabl: capable
-kapt: to catch
-kar: dear
-kastel: castle
-kav: cave
-kelk: some
-kelner: waiter
-klar: clear
-klub: club
-knab: boy
-koler: anger
-kolor: color
-komenc: to begin
-kompren: to understand
-kon: to know
-kontent: satisfied
-kontrol: to check
-kor: heart
-korp: body
-kost: to cost
-kri: to scream
-kuir: to cook
-kuk: cake 
-kur: to run
-labor: to work
-lakt: milk
-lamp: lamp
-land: land
-larĝ: wide
-last: last
-laŭt: loud
-lecion: lesson
-leg: to read
-lern: to learn
-leter: letter
-liber: free
-libr: book
-lok: place
-long: long
-lud: to play
-lum: light
-man: hand
-mank: be lacking
-manĝ: to eat
-mar: sea
-maten: morning
-memor: to remember
-met: to put
-mez: middle
-milit: war
-minut: minute
-mir: to wonder
-moment: moment
-mon: money
-mont: mountain
-montr: to show
-mort: to die
-mov: to move
-mult: many
-muzik: music
-nask: to give birth
-natur: nature
-neces: to need
-nokt: night
-nom: name
-not: note
-nov: new
-odor: smell
-oft: often
-okaz: to happen
-okul: eye
-onkl: uncle
-opini: opinion
-ord: to order
-orel: ear
-pac: peace
-pag: to pay
-pan: bread
-paper: paper
-pardon: to forgive
-parol: to speak
-part: part
-pas: to pass
-patr: father
-paŝ: step
-pens: to think
-perd: to loose
-person: person
-pet: to request
-pez: heavy
-pied: foot
-plac: place
-plan: to plan
-plaĉ: to be pleasing
-plen: full
-polic: police
-pord: door
-port: to carry
-pov: can
-pren: to take 
-pret: ready
-prezent: to present
-problem: problem
-proksim: near
-promen: to stroll
-propon: to propose
-prov: to try
-rajt: to be allowed to
-rapid: fast
-raport: report
-real: real
-rekt: direct
-renkont: to meet
-respekt: to respect
-respond: to answer
-rest: to remain
-ricev: to receive
-rid: to laugh
-rigard: to look at
-riĉ: rich
-rol: role
-ruĝ: red
-salt: to jump
-salut: hello
-sam: same
-san: healthy
-saĝ: wise
-sci: to know
-sek: dry
-sekret: secret
-sekv: to follow
-semajn: week
-send: to send
-serĉ: to search
-si: reflexive pronoun
-sid: to sit
-silent: silent
-simil: similar
+- ໃຫຍ່
+- ຍິ່ງໃຫຍ່
+grav: ສຳຄັນ
+halt: ຢຸດ
+hav: ມີ
+hejm: ບ້ານ
+help: ຊ່ວຍ
+hom: ຄົນ
+hor: ຊົ່ວໂມງ
+hotel: ໂຮງແຮມ
+ide: ຄວາມຄິດ
+industri: ອຸດສາຫະກຳ
+infan: ເດັກ
+inform: ແຈ້ງຂໍ້ມູນ
+instru: ສອນ
+interes: ສົນໃຈ
+invit: ເຊີນ
+ir: ໄປ
+itali: ອິຕາລີ
+jar: ປີ
+jun: ໜຸ່ມ
+kaf: ກາເຟ
+kalv: ຫົວລ້ານ
+kant: ຮ້ອງເພງ
+kap: ຫົວ
+kapabl: ສາມາດ
+kapt: ຈັບ
+kar: ທີ່ຮັກ
+kastel: ປາສາດ
+kav: ຖ້ຳ
+kelk: ບາງ
+kelner: ພະນັກງານເສີບ
+klar: ຊັດເຈນ
+klub: ສະໂມສອນ
+knab: ເດັກຊາຍ
+koler: ໂກດ
+kolor: ສີ
+komenc: ເລີ່ມ
+kompren: ເຂົ້າໃຈ
+kon: ຮູ້ຈັກ
+konsent: ຕົກລົງ
+kontent: ພໍໃຈ
+kontrol: ກວດ
+kor: ຫົວໃຈ
+korp: ຮ່າງກາຍ
+kost: ມີລາຄາ
+kred: ເຊື່ອ
+kri: ຮ້ອງ
+kuir: ແຕ່ງອາຫານ
+kuk: ເຄັກ
+kur: ແລ່ນ
+labor: ເຮັດວຽກ
+lakt: ນົມ
+lamp: ໂຄມໄຟ
+land:
+- ປະເທດ
+- ດິນແດນ
+larĝ: ກວ້າງ
+las: ປ່ອຍໃຫ້
+last: ສຸດທ້າຍ
+laŭt: ດັງ
+lecion: ບົດຮຽນ
+leg: ອ່ານ
+lern: ຮຽນ
+leter: ຈົດໝາຍ
+liber: ອິດສະລະ
+libr: ປຶ້ມ
+lingv: ພາສາ
+lok: ບ່ອນ
+long: ຍາວ
+loĝ: ອາໄສ
+lud: ຫຼິ້ນ
+lum: ແສງ
+man: ມື
+manier: ວິທີ
+mank: ຂາດ
+manĝ: ກິນ
+mar: ທະເລ
+maten: ຕອນເຊົ້າ
+memor: ຈື່
+met: ວາງ
+mez: ກາງ
+milit: ສົງຄາມ
+minut: ນາທີ
+mir: ປະຫຼາດໃຈ
+moment: ຊ່ວງເວລາ
+mon: ເງິນ
+monat: ເດືອນ
+mond: ໂລກ
+mont: ພູ
+montr: ສະແດງ
+mort: ຕາຍ
+mov: ເຄື່ອນ
+mult: ຫຼາຍ
+muzik: ດົນຕີ
+naci: ຊາດ
+nask: ໃຫ້ກຳເນີດ
+natur: ທຳມະຊາດ
+neces: ຈຳເປັນ
+nokt: ກາງຄືນ
+nom: ຊື່
+not: ບັນທຶກ
+nov: ໃໝ່
+odor: ກິ່ນ
+oft: ເລື້ອຍໆ
+okaz: ເກີດຂຶ້ນ
+okul: ຕາ
+onkl: ລຸງ
+opini: ຄວາມຄິດເຫັນ
+ord:
+- ສັ່ງ
+- ຈັດລຳດັບ
+orel: ຫູ
+organiz: ຈັດຕັ້ງ
+pac: ສັນຕິພາບ
+pag: ຈ່າຍ
+pan: ເຂົ້າຈີ່
+paper: ເຈ້ຍ
+pardon: ອະໄພ
+parol: ເວົ້າ
+part: ສ່ວນ
+pas: ຜ່ານ
+patr: ພໍ່
+paŝ: ກ້າວ
+pens: ຄິດ
+perd: ເສຍ
+person: ບຸກຄົນ
+pet: ຂໍ
+pez: ໜັກ
+pied: ຕີນ
+plac: ຈະຕຸລັດ
+plan: ວາງແຜນ
+plaĉ: ຖືກໃຈ
+plen: ເຕັມ
+plor: ຮ້ອງໄຫ້
+pluv: ຝົນ
+polic: ຕຳຫຼວດ
+pord: ປະຕູ
+port: ຖື
+pov: ສາມາດ
+poŝ: ກະເປົາເສື້ອ
+poŝt: ໄປສະນີ
+pren: ເອົາ
+pret: ພ້ອມ
+prezent: ນຳສະເໜີ
+problem: ບັນຫາ
+proksim: ໃກ້
+proksimum: ປະມານ
+promen: ຍ່າງຫຼິ້ນ
+propon: ສະເໜີ
+prov: ລອງ
+publik: ສາທາລະນະ
+punkt: ຈຸດ
+pur: ສະອາດ
+rajt: ມີສິດ
+rakont: ເລົ່າ
+rapid: ໄວ
+raport: ລາຍງານ
+real: ຈິງ
+rekt: ກົງ
+renkont: ພົບ
+respekt: ເຄົາລົບ
+respond: ຕອບ
+rest: ເຫຼືອ
+ricev: ໄດ້ຮັບ
+rid: ຫົວເລາະ
+rigard: ເບິ່ງ
+rilat: ກ່ຽວຂ້ອງ
+rimark: ສັງເກດ
+riĉ: ຮັ່ງມີ
+rol: ບົດບາດ
+ruĝ: ແດງ
+salt: ໂດດ
+salut: ທັກທາຍ
+sam: ດຽວກັນ
+san: ສຸຂະພາບດີ
+sat: ອີ່ມ
+saĝ: ສະຫຼາດ
+sci: ຮູ້
+sek: ແຫ້ງ
+sekret: ລັບ
+sekv: ຕາມ
+semajn: ອາທິດ
+send: ສົ່ງ
+sent: ຮູ້ສຶກ
+serĉ: ຄົ້ນຫາ
+seĝ: ເກົ້າອີ້
+si: ຕົນເອງ
+sid: ນັ່ງ
+silent: ງຽບ
+simil: ຄ້າຍ
+simpl: ງ່າຍ
 sinjor:
-- gentleman
-- Mr.
-situaci: sitation
-skrib: to write
-sol: alone
-son: to sound
-sovaĝ: wild
-sport: sport
-star: to stand
-strat: street
-subit: suddenly
-sufiĉ: sufficient
-sukces: success
-sun: sun
-supr: above
-tabl: table 
-tag: day
-te: tea
-telefon: phone
-temp: time
-temperatur: temperature
-ten: hold
-teror: terror
-tim: fear
-ton: tone
-trankvil: calm
-trink: to drink
-trov: to find
-turk: Turkish
-tuŝ: to touch
-urb: city
-util: useful
-uz: to use
-vagon: coach
-varm: warm
-ven: come
-vend: to sell
-Veneci: Venice
-ver: 'true'
-vesper: evening
-vest: to dress
-vetur: to travel
-vid: to see
-vin: wine
-vir: man
-viv: to live
-vizaĝ: face
-vizit: to visit
-voj: way
-vojaĝ: journey
-vok: to call
-vol: want
-vort: word
-voĉ: voice
-zorg: care
-ĉambr: room
-ĉef: boss
+- ທ່ານ
+- ສຸພາບບຸລຸດ
+situaci: ສະຖານະການ
+skrib: ຂຽນ
+sol: ຄົນດຽວ
+son: ສຽງ
+sovaĝ: ປ່າ
+sport: ກິລາ
+star: ຢືນ
+strat: ຖະໜົນ
+subit: ກະທັນຫັນ
+sufiĉ: ພຽງພໍ
+suk: ນ້ຳໝາກໄມ້
+sukces: ສຳເລັດ
+sun: ດວງອາທິດ
+supr: ຂ້າງເທິງ
+tabl: ໂຕະ
+tag: ມື້
+te: ຊາ
+telefon: ໂທລະສັບ
+temp: ເວລາ
+temperatur: ອຸນຫະພູມ
+ten: ຖືໄວ້
+teror: ການກໍ່ການຮ້າຍ
+terur: ນ່າຢ້ານ
+tim: ຢ້ານ
+ton: ນ້ຳສຽງ
+trankvil: ສະຫງົບ
+trink: ດື່ມ
+trov: ພົບ
+turk: ຕວກກີ
+tut: ທັງໝົດ
+tuŝ: ແຕະ
+universal: ສາກົນ
+urb: ເມືອງ
+util: ມີປະໂຫຍດ
+uz: ໃຊ້
+vagon: ຕູ້ລົດໄຟ
+varm: ອົບອຸ່ນ
+ven: ມາ
+vend: ຂາຍ
+Veneci: ເວນິສ
+ver: ຈິງ
+vesper: ຕອນແລງ
+vest: ແຕ່ງຕົວ
+vetur: ເດີນທາງ
+vid: ເຫັນ
+vin: ເຫຼົ້າອະງຸ່ນ
+vir: ຜູ້ຊາຍ
+viv: ມີຊີວິດ
+vizaĝ: ໃບໜ້າ
+vizit: ຢ້ຽມຢາມ
+voj: ທາງ
+vojaĝ: ການເດີນທາງ
+vok: ເອີ້ນ
+vol: ຕ້ອງການ
+vort: ຄຳ
+voĉ: ສຽງ
+zorg:
+- ດູແລ
+- ກັງວົນ
+ĉambr: ຫ້ອງ
+ĉef:
+- ຫົວໜ້າ
+- ຫຼັກ
 ĝen:
-- to distrub
-- to bother
-ĝeneral: general
-ĝoj: glad
-ĝust: to correct
-ĵet: to throw
-ŝajn: seem
-ŝanĝ: to change
-ŝat: to like
-ŝip: ship
+- ລົບກວນ
+- ຮົບກວນ
+ĝeneral: ທົ່ວໄປ
+ĝoj: ດີໃຈ
+ĝust: ຖືກຕ້ອງ
+ĵet: ໂຍນ
+ŝajn: ເບິ່ງຄືວ່າ
+ŝanĝ: ປ່ຽນ
+ŝat: ມັກ
+ŝip: ເຮືອ

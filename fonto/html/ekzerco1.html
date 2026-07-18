@@ -35,13 +35,13 @@
 		</div>
 	</div>
 
-  <form id="form-{{form_id}}" class="form-horizontal">
+  <form id="form-{{form_id}}" class="form-horizontal" data-auto-sekvo="respondoj">
 
     {% for vico in leciono.ekzercoj[tasko] %}
 
       {% set vico_loop = loop %}
       {% set id = 'vico-' ~ leciono_index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index %}
-      <div id="form-group-{{id}}" class="form-group has-error has-feedback">
+      <div class="form-group">
         {% for esperante,fontlingve in vico.items() %}
           <label class="control-label col-sm-2" for="{{id}}" data-bs-toggle="popover" data-bs-placement="bottom" title="{{fontlingve if fontlingve is string else fontlingve|join(', ')}}" >{{esperante}}:</label>
           <div class="col-sm-10">
@@ -55,8 +55,10 @@
       </div>
     {% endfor %}
 
-    <input type="button" class="btn btn-success solvu" value="{{enhavo.fasado['Solvu']}}" data-form-id="{{ form_id }}" />
-    <input type="button" class="btn btn-danger forigu" value="{{enhavo.fasado['Forigu']}}" data-form-id="{{ form_id }}" />
+    <div class="ekzercaj-agoj">
+      <input type="button" class="btn btn-success solvu" value="{{enhavo.fasado['Solvu']}}" data-form-id="{{ form_id }}" />
+      <input type="button" class="btn btn-danger forigu" value="{{enhavo.fasado['Forigu']}}" data-form-id="{{ form_id }}" />
+    </div>
   </form>
   
   {% include 'pagxonumerado-komentejo.html' %}

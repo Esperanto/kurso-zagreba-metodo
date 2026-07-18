@@ -1,4 +1,7 @@
 afer: cosa
+ag:
+- agire
+- fare
 agrabl: piacevole
 akcept: accettare
 akv: acqua
@@ -6,6 +9,7 @@ ali: altro
 alt: alto
 am: amore
 amik: amico
+aper: apparire
 arb: albero
 aspekt:
 - sembrare
@@ -16,10 +20,11 @@ atend:
 atent: stare attento
 aĉet: comprare
 aŭd: sentire (udito)
+aŭskult: ascoltare
 aŭt: automobile
 aŭtoritat: autorità
 bedaŭr: dispiacere
-bel: beautiful
+bel: bello
 best: animale
 bezon: essere necessario
 bien:
@@ -45,6 +50,7 @@ dik:
 dimanĉ: domenica
 dir: dire
 direkt: direzione
+divers: diverso
 doktor: dottore
 dolar: dollaro
 dolor:
@@ -61,6 +67,7 @@ efektiv:
 - a dire il vero
 - effettivamente
 ekskurs: escursione
+ekzempl: esempio
 esper: sperare
 est: essere
 facil: facile
@@ -71,7 +78,7 @@ far: fare
 fart:
 - sentirsi
 feliĉ: felice
-ferm: chiudere 
+ferm: chiudere
 fin: finire
 flank: lato
 foj:
@@ -86,10 +93,11 @@ fru: presto
 fuŝ:
 - pasticciare
 - rovinare
+glas: bicchiere
 gondol: gondola
 graf: conte
 grand: grande
-grav: important
+grav: importante
 halt: fermare
 hav: avere
 hejm: casa propria
@@ -99,6 +107,8 @@ hor: ora
 hotel: hotel
 ide: idea
 industri: industria
+infan: bambino
+inform: informare
 instru: insegnare
 interes: interessare
 invit: invitare
@@ -108,6 +118,7 @@ jar: anno
 jun: giovane
 kaf: caffè
 kalv: calvo
+kant: cantare
 kap: testa
 kapabl: capace
 kapt: catturare
@@ -126,11 +137,13 @@ kompren: capire
 kon:
 - conoscere
 - sapere
+konsent: consentire
 kontent: soddisfatto
 kontrol: controllare
 kor: cuore
 korp: corpo
 kost: costare
+kred: credere
 kri: gridare
 kuir: cucinare
 kuk: torta
@@ -140,6 +153,7 @@ lakt: latte
 lamp: lampada
 land: terra
 larĝ: largo
+las: lasciare
 last: ultimo
 laŭt: clamoroso
 lecion: lezione
@@ -148,11 +162,19 @@ lern: imparare
 leter: lettera
 liber: libero
 libr: libro
+lingv: lingua
 lok: luogo
 long: lungo
+loĝ:
+- abitare
+- alloggiare
+- risiedere
 lud: giocare
 lum: luce
 man: mano
+manier:
+- modo
+- maniera
 mank: mancare
 manĝ: mangiare
 mar: mare
@@ -165,6 +187,8 @@ minut: minuto
 mir: meravigliarsi
 moment: momento
 mon: donera
+monat: mese
+mond: mondo
 mont: montagna
 montr: mostrare
 mort: morire
@@ -172,6 +196,7 @@ mov:
 - muovere
 mult: molto
 muzik: musica
+naci: nazione
 nask: partorire
 natur: natura
 neces: necessitare
@@ -183,7 +208,7 @@ not:
 nov: nuovo
 odor: odore
 oft: spesso
-okaz: 
+okaz:
 - accadere
 - succedere
 okul: occhio
@@ -191,6 +216,7 @@ onkl: zio
 opini: opinione
 ord: ordine
 orel: orecchio
+organiz: organizzare
 pac: pace
 pag: pagare
 pan: pane
@@ -211,23 +237,34 @@ plac: piazza
 plan: progettare
 plaĉ: piacere
 plen: pieno
+plor: piangere
+pluv: piovere
 polic: polizia
 pord: porta
 port: portare
 pov: potere
-pren: prendere 
+poŝ: tasca
+poŝt: posta
+pren: prendere
 pret: pronto
 prezent: presentare
 problem: problema
 proksim: vicino
+proksimum: approssimativo
 promen: passeggiare
 propon: proporre
 prov:
 - provare
 - tentare
-rajt: 
+publik: pubblico
+punkt: punto
+pur:
+- pulito
+- puro
+rajt:
 - avere il permesso di
 - potere
+rakont: raccontare
 rapid: veloce
 raport:
 - rapporto
@@ -243,6 +280,10 @@ rest: restare
 ricev: ricevere
 rid: ridere
 rigard: guardare
+rilat: concernere
+rimark:
+- notare
+- accorgersi
 riĉ: ricco
 rol: ruolo
 ruĝ: rosso
@@ -252,6 +293,7 @@ salut:
 - ciao
 sam: stesso
 san: sano
+sat: sazio
 saĝ: saggio
 sci: sapere
 sek: secco
@@ -261,11 +303,14 @@ semajn: settimana
 send:
 - spedire
 - mandare
+sent: sentire (percepire)
 serĉ: cercare
+seĝ: sedia
 si: (pronome riflessivo)
 sid: sedersi
 silent: silenzioso
 simil: simile
+simpl: semplice
 sinjor: signore
 situaci: situazione
 skrib: scrivere
@@ -279,10 +324,11 @@ star: stare in piedi
 strat: strada
 subit: improvviso
 sufiĉ: sufficiente
+suk: succo
 sukces: successo
 sun: sole
 supr: sopra
-tabl: tavolo 
+tabl: tavolo
 tag: giorno
 te: tè
 telefon: telefono
@@ -290,6 +336,7 @@ temp: tempo
 temperatur: temperatura
 ten: tenere
 teror: terrore
+terur: terribile
 tim: paura
 ton: tono
 trankvil:
@@ -298,7 +345,11 @@ trankvil:
 trink: bere
 trov: trovare
 turk: Turco
+tut:
+- tutto
+- intero
 tuŝ: toccare
+universal: universale
 urb: città
 util: utile
 uz: usare

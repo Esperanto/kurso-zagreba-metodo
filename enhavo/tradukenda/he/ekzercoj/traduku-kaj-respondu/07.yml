@@ -1,77 +1,71 @@
-- 
-  demando: ?מי היה לו את הספר שאתה חיכית לו יותר משנתיים
-  rektatraduko: 
-    - Kiu: מי
-    - havis: היה לו
-    - la: ה
-    - libron: את הספר
-    - ',' 
-    - kiun: ש
-    - vi: אתה
-    - atendis: חיכית
-    - pli: יותר
-    - ol: מאשר
-    - du: שתי
-    - jarojn: שנים
-    - '?'
-- 
-  demando: ?האם אתה רוצה שאראה לך את הצילום שהוא היקר ביותר לי
-  rektatraduko: 
-    - Ĉu: האם
-    - vi: אתה
-    - volas: רוצה
-    - ','
-    - ke: ש
-    - mi: אני
-    - montru: אראה
-    - al: ל 
-    - vi: אתה
-    - mian: את שלי
-    - plej: הכי
-    - karan: יקר
-    - foton: צילום
-    - '?'
-- 
-  demando: ?איפה אתה קנית את הבגד הזה
-  rektatraduko: 
-    - Kie: איפה
-    - vi: אתה
-    - aĉetis: קנית
-    - tiun: את הזה
-    - vestaĵon: בגד
-    - '?'
-- 
-  demando: ?לאן תלך ביום ראשון אם זה יהיה יום עם שמש
-  rektatraduko: 
-    - Kien: לאן
-    - vi: אתה
-    - iros: תלך
-    - dimanĉe: ביום ראשון
-    - ',' 
-    - se: אם
-    - estos: יהיה
-    - suna: עם שמש
-    - tago: יום
-    - '?'
-- 
-  demando: ?האם אחיך כבר עזב
-  rektatraduko: 
-    - Ĉu: האם
-    - via: שלך
-    - frato: אח
-    - jam: כבר
-    - ekiris: עזב
-    - '?'
-- 
-  demando: ?איפה המים שאותם אתה בעצמך הבאת
-  rektatraduko: 
-    - Kie: איפה
-    - estas: הם
-    - la: ה
-    - akvo: מים
-    - ',' 
-    - kiun: שאותם
-    - vi: אתה
-    - mem: בעצמך
-    - kunportis: הבאת
-    - '?'
+- demando: ?מי היה לו את הספר שאתה חיכית לו יותר משנתיים
+  rektatraduko:
+  - Kiu: מי
+  - havis: היה לו
+  - la: ה
+  - libron: את הספר
+  - ','
+  - kiun: ש
+  - vi: אתה
+  - atendis: חיכית
+  - pli: יותר
+  - ol: מאשר
+  - du: שתי
+  - jarojn: שנים
+  - '?'
+- demando: ?האם אתה רוצה שאראה לך את הצילום שהוא היקר ביותר לי
+  rektatraduko:
+  - Ĉu: האם
+  - vi: אתה
+  - volas: רוצה
+  - ','
+  - ke: ש
+  - mi: אני
+  - montru: אראה
+  - al: ל
+  - vi: אתה
+  - mian: את שלי
+  - plej: הכי
+  - karan: יקר
+  - foton: צילום
+  - '?'
+- demando: ?איפה אתה קנית את הבגד הזה
+  rektatraduko:
+  - Kie: איפה
+  - vi: אתה
+  - aĉetis: קנית
+  - tiun: את הזה
+  - vestaĵon: בגד
+  - '?'
+- demando: ?לאן תלך ביום ראשון אם זה יהיה יום עם שמש
+  rektatraduko:
+  - Kien: לאן
+  - vi: אתה
+  - iros: תלך
+  - dimanĉe: ביום ראשון
+  - ','
+  - se: אם
+  - estos: יהיה
+  - suna: עם שמש
+  - tago: יום
+  - '?'
+- demando: ?האם אחיך כבר עזב
+  rektatraduko:
+  - Ĉu: האם
+  - via: שלך
+  - frato: אח
+  - jam: כבר
+  - ekiris: עזב
+  - '?'
+- demando: ?איפה המים שאותם אתה בעצמך הבאת
+  rektatraduko:
+  - Kie: איפה
+  - estas: הם
+  - la: ה
+  - akvo: מים
+  - ','
+  - kiun: שאותם
+  - vi: אתה
+  - mem: בעצמך
+  - kunportis: הבאת
+  - '?'

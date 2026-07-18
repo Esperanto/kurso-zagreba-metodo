@@ -1,4 +1,5 @@
 afer: lucru, chestiune
+ag: a acționa
 agrabl: plăcut
 akcept: a accepta
 akv: apă
@@ -6,12 +7,14 @@ ali: alt
 alt: înalt
 am: a iubi
 amik: prieten
+aper: a apărea
 arb: copac
 aspekt: aspect
 atend: a aștepta
 atent: a fi atent
 aĉet: a cumpăra
 aŭd: a auzi
+aŭskult: a asculta
 aŭt: mașină
 aŭtoritat: autoritate
 bedaŭr: a regreta
@@ -35,6 +38,10 @@ dik: gros
 dimanĉ: duminică
 dir: a spune
 direkt: direcție
+divers:
+- divers
+- diferit
+- variat
 doktor: doctor
 dolar: dolar
 dolor: durere
@@ -49,6 +56,7 @@ efektiv:
 - real
 - adevărat
 ekskurs: excursie
+ekzempl: exemplu
 esper: a spera
 est: a fi
 facil: ușor
@@ -69,6 +77,7 @@ fot: fotografie
 frat: frate
 fru: devreme
 fuŝ: a strica
+glas: pahar
 gondol: gondolă
 graf: conte
 grand: mare
@@ -82,6 +91,8 @@ hor: oră
 hotel: hotel
 ide: idee
 industri: industrie
+infan: copil
+inform: a informa
 instru: a preda
 interes: a interesa
 invit: a invita
@@ -91,6 +102,7 @@ jar: an
 jun: tânăr
 kaf: cafea
 kalv: chel
+kant: a cânta
 kap: cap
 kapabl: capabil
 kapt: a prinde
@@ -107,11 +119,13 @@ kolor: culoare
 komenc: a începe
 kompren: a înțelege
 kon: a cunoaște
+konsent: a consimți
 kontent: mulțumit
 kontrol: a verifica
 kor: inimă
 korp: corp
 kost: a costa
+kred: a crede
 kri: a striga
 kuir: a găti
 kuk: prăjitură
@@ -121,6 +135,7 @@ lakt: lapte
 lamp: lampă
 land: țară
 larĝ: larg
+las: a lăsa
 last: ultim
 laŭt: tare
 lecion: lecție
@@ -129,11 +144,17 @@ lern: a învăța
 leter: scrisoare
 liber: liber
 libr: carte
+lingv: limbă
 lok: loc
 long: lung
+loĝ:
+- a locui
+- a sta
+- a rezida
 lud: a juca
 lum: lumină
 man: mână
+manier: mod
 mank: a lipsi
 manĝ: a mânca
 mar: mare
@@ -148,12 +169,15 @@ moment: moment
 mon:
 - bani
 - monedă
+monat: lună
+mond: lume
 mont: munte
 montr: a arăta
 mort: a muri
 mov: a mișca
 mult: mult
 muzik: muzică
+naci: națiune
 nask: a naște
 natur: natură
 neces: necesar
@@ -169,6 +193,7 @@ onkl: unchi
 opini: opinie
 ord: a porunci
 orel: ureche
+organiz: a organiza
 pac: pace
 pag: a plăti
 pan: pâine
@@ -189,19 +214,28 @@ plac: piață
 plan: a planifica
 plaĉ: a plăcea
 plen: plin
+plor: a plânge
+pluv: a ploua
 polic: poliție
 pord: ușă
 port: a purta, a duce
 pov: a putea
+poŝ: buzunar
+poŝt: poștă
 pren: a lua
 pret: pregătit
 prezent: a prezenta
 problem: problemă
 proksim: aproape
+proksimum: aproximativ
 promen: a se plimba
 propon: a propune
 prov: a încerca
+publik: public
+punkt: punct
+pur: curat
 rajt: a avea dreptul
+rakont: a povesti
 rapid: rapid
 raport: a raporta
 real: real
@@ -213,6 +247,11 @@ rest: a rămâne
 ricev: a primi
 rid: a râde
 rigard: a privi
+rilat:
+- a avea legătură cu
+- a se referi la
+- a privi
+rimark: a observa
 riĉ: bogat
 rol: rol
 ruĝ: roșu
@@ -220,6 +259,7 @@ salt: a sări
 salut: salut
 sam: același
 san: sănătate
+sat: sătul
 saĝ: înțelept
 sci: a ști
 sek: uscat
@@ -227,14 +267,19 @@ sekret: secret
 sekv: a urma
 semajn: săptămână
 send: a trimite
+sent:
+- a simți
+- a resimți
 serĉ: a căuta
+seĝ: scaun
 si: pronume reflexiv
 sid: a ședea
 silent: tăcere
 simil: asemănător
+simpl: simplu
 sinjor:
-  - domn
-  - dl.
+- domn
+- dl.
 situaci: situație
 skrib: a scrie
 sol: singur
@@ -245,6 +290,9 @@ star: a sta în picioare
 strat: stradă
 subit: brusc
 sufiĉ: suficient
+suk:
+- sevă
+- suc
 sukces: succes
 sun: soare
 supr: deasupra
@@ -256,13 +304,19 @@ temp: timp
 temperatur: temperatură
 ten: a ține
 teror: teroare
+terur: groaznic
 tim: frică
 ton: ton
 trankvil: liniștit
 trink: a bea
 trov: a găsi
 turk: turc
+tut:
+- tot
+- întreg
+- total
 tuŝ: a atinge
+universal: universal
 urb: oraș
 util: util
 uz: a folosi

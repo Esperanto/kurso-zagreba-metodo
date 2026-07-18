@@ -1,73 +1,67 @@
--
-  demando: Când te voi revedea?
+- demando: Când te voi revedea?
   rektatraduko:
-    - Kiam: Când
-    - mi: eu
-    - revidos: voi revedea
-    - vin: pe tine
-    - '?'
--
-  demando: De cât timp înveți limba internațională?
+  - Kiam: Când
+  - mi: eu
+  - revidos: voi revedea
+  - vin: pe tine
+  - '?'
+- demando: De cât timp înveți limba internațională?
   rektatraduko:
-    - Kiel: Cât de
-    - longe: mult timp
-    - vi: tu
-    - lernas: înveți
-    - la: (articol)
-    - Internacian: internațională
-    - Lingvon: limbă
-    - '?'
--
-  demando: Unde este cartea mea nouă cu fotografii?
+  - Kiom: cât
+  - longe: mult timp
+  - vi: tu
+  - lernas: înveți
+  - la: (articol)
+  - Internacian: internațională
+  - Lingvon: limbă
+  - '?'
+- demando: Unde este cartea mea nouă cu fotografii?
   rektatraduko:
-    - Kie: Unde
-    - estas: este
-    - mia: mea
-    - nova: nouă
-    - libro: carte
-    - kun: cu
-    - fotoj: fotografii
-    - '?'
--
-  demando: Încotro vei merge după prânz?
+  - Kie: Unde
+  - estas: este
+  - mia: mea
+  - nova: nouă
+  - libro: carte
+  - kun: cu
+  - fotoj: fotografii
+  - '?'
+- demando: Încotro vei merge după prânz?
   rektatraduko:
-    - Kien: Încotro
-    - vi: tu
-    - iros: vei merge
-    - post: după
-    - la: (articol)
-    - tagmanĝo: prânz
-    - '?'
--
-  demando: Se poate închide ușa camerei când este frig?
+  - Kien: Încotro
+  - vi: tu
+  - iros: vei merge
+  - post: după
+  - la: (articol)
+  - tagmanĝo: prânz
+  - '?'
+- demando: Se poate închide ușa camerei când este frig?
   rektatraduko:
-    - Ĉu: oare
-    - oni: se
-    - povas: poate
-    - fermi: închide
-    - la: (articol)
-    - pordon: ușă
-    - de: de
-    - la: (articol)
-    - ĉambro: cameră
-    - ','
-    - kiam: când
-    - estas: este
-    - malvarme: frig
-    - '?'
--
-  demando: Cât timp te superi dacă cineva îți ia mulți bani?
+  - Ĉu: oare
+  - oni: se
+  - povas: poate
+  - fermi: închide
+  - la: (articol)
+  - pordon: ușă
+  - de: de
+  - la: (articol)
+  - ĉambro: cameră
+  - ','
+  - kiam: când
+  - estas: este
+  - malvarme: frig
+  - '?'
+- demando: Cât timp te superi dacă cineva îți ia mulți bani?
   rektatraduko:
-    - Kiel: Cât de
-    - longe: mult timp
-    - vi: tu
-    - koleras: te superi
-    - ','
-    - se: dacă
-    - oni: cineva
-    - forprenas: ia
-    - de: de la
-    - vi: tine
-    - multan: mulți
-    - monon: bani
-    - '?'
+  - Kiom: cât
+  - longe: mult timp
+  - vi: tu
+  - koleras: te superi
+  - ','
+  - se: dacă
+  - oni: cineva
+  - forprenas: ia
+  - de: de la
+  - vi: tine
+  - multan: mulți
+  - monon: bani
+  - '?'

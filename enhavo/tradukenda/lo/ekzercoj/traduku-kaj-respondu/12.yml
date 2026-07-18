@@ -1,68 +1,63 @@
-- 
-  demando: Will we see each other again, no matter where or when?
-  rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
-    - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
-    - '?'
-- 
-  demando: When will I get back the other half of the books?
-  rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
-    - '?'
-- 
-  demando: Will you need more than a quarter of the year for those jobs?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
-    - '?'
-- 
-  demando: Why is it that the colder it is, the longer we wait?
-  rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
-    - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
-    - '?'
-- 
-  demando: Would you be happy with any man?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
-    - '?'
+- demando: ພວກເຮົາຈະພົບກັນອີກບໍ ບໍ່ວ່າຢູ່ໃສ ຫຼືເມື່ອໃດ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - ni: ພວກເຮົາ
+  - revidos: ຈະເຫັນອີກ
+  - nin: ກັນ
+  - ','
+  - kie: ຢູ່ໃສ
+  - ajn: ກໍຕາມ
+  - kaj: ແລະ
+  - kiam: ເມື່ອໃດ
+  - ajn: ກໍຕາມ
+  - '?'
+- demando: ເມື່ອໃດຂ້ອຍຈະໄດ້ຮັບຄືນອີກເຄິ່ງໜຶ່ງຂອງປຶ້ມ?
+  rektatraduko:
+  - Kiam: ເມື່ອໃດ
+  - mi: ຂ້ອຍ
+  - rericevos: ຈະໄດ້ຮັບຄືນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - alian: ອື່ນ
+  - duonon: ເຄິ່ງໜຶ່ງ
+  - de: ຂອງ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - libroj: ປຶ້ມຫຼາຍເຫຼັ້ມ
+  - '?'
+- demando: ເຈົ້າຈະຕ້ອງການເວລາຫຼາຍກວ່າໜຶ່ງສ່ວນສີ່ຂອງປີສຳລັບວຽກເຫຼົ່ານັ້ນບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - bezonos: ຈະຕ້ອງການ
+  - pli: ຫຼາຍກວ່າ
+  - ol: ກວ່າ
+  - kvaronan: ໜຶ່ງສ່ວນສີ່
+  - jaron: ປີ
+  - por: ເພື່ອ
+  - tiuj: ເຫຼົ່ານັ້ນ
+  - laboroj: ວຽກຫຼາຍຢ່າງ
+  - '?'
+- demando: ເປັນຫຍັງຍິ່ງໜາວ ພວກເຮົາຍິ່ງລໍຖ້າດົນ?
+  rektatraduko:
+  - Kial: ເປັນຫຍັງ
+  - ju: ຍິ່ງ
+  - pli: ຫຼາຍກວ່າ
+  - longe: ດົນ
+  - ni: ພວກເຮົາ
+  - atendas: ລໍຖ້າ
+  - ','
+  - des: ຍິ່ງ
+  - pli: ຫຼາຍກວ່າ
+  - malvarme: ໜາວ
+  - estas: ແມ່ນ
+  - '?'
+- demando: ເຈົ້າຈະພໍໃຈກັບຜູ້ຊາຍຄົນໃດກໍໄດ້ບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - estus: ຈະເປັນ
+  - kontenta: ພໍໃຈ
+  - kun: ກັບ
+  - iu: ບາງຄົນ
+  - ajn: ກໍຕາມ
+  - viro: ຜູ້ຊາຍ
+  - '?'

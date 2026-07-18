@@ -1,57 +1,51 @@
-- 
-  demando: Who is your girl-friend?
+- demando: သင်၏ မိန်းကလေးမိတ်ဆွေက ဘယ်သူလဲ။
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
-    - '?'
-- 
-  demando: Is your friend Anna now writing in the room?
+  - Kiu: ဘယ်သူ
+  - estas: ဖြစ်သည်
+  - via: သင်၏
+  - amikino: မိန်းကလေးမိတ်ဆွေ
+  - '?'
+- demando: သင့်မိတ်ဆွေ Ana သည် ယခု အခန်းထဲတွင် စာရေးနေပါသလား။
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
-    - '?'
-- 
-  demando: Does the friend of your father work in a hotel?
+  - Ĉu: လား
+  - via: သင်၏
+  - amikino: မိတ်ဆွေ
+  - Ana: Ana
+  - skribas: ရေးနေသည်
+  - nun: ယခု
+  - en: ထဲတွင်
+  - la: ထို
+  - ĉambro: အခန်း
+  - '?'
+- demando: သင့်အဖေ၏ မိတ်ဆွေသည် ဟိုတယ်တစ်ခုတွင် အလုပ်လုပ်ပါသလား။
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
-    - '?'
-- 
-  demando: What is on the work-bench in our room?
+  - Ĉu: လား
+  - la: ထို
+  - amiko: မိတ်ဆွေ
+  - de: ၏
+  - via: သင်၏
+  - patro: အဖေ
+  - laboras: အလုပ်လုပ်သည်
+  - en: ထဲတွင်
+  - hotelo: ဟိုတယ်
+  - '?'
+- demando: ကျွန်ုပ်တို့၏ အခန်းထဲရှိ အလုပ်စားပွဲပေါ်တွင် ဘာရှိသလဲ။
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
-    - '?'
-- 
-  demando: Is there an Esperanto textbook on your table?
+  - Kio: ဘာ
+  - estas: ရှိသည်
+  - sur: ပေါ်တွင်
+  - la: ထို
+  - labortablo: အလုပ်စားပွဲ
+  - en: ထဲတွင်
+  - nia: ကျွန်ုပ်တို့၏
+  - ĉambro: အခန်း
+  - '?'
+- demando: သင့်စားပွဲပေါ်တွင် အက်စပရန်တိုသင်စာအုပ် ရှိပါသလား။
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
-    - '?'
-
+  - Ĉu: လား
+  - Esperanto-lernolibro: အက်စပရန်တိုသင်စာအုပ်
+  - estas: ရှိသည်
+  - sur: ပေါ်တွင်
+  - via: သင်၏
+  - tablo: စားပွဲ
+  - '?'

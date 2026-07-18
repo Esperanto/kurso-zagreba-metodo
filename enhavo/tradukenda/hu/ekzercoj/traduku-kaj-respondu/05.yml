@@ -1,64 +1,59 @@
--
-  demando: Nyugodtan tudsz tanulni, amíg valaki vidáman énekel?
-  rektatraduko: 
-    - Ĉu: Vajon
-    - vi: te
-    - povas: tud
-    - trankvile: nyugodtan
-    - lerni: tanulni
-    - ','
-    - dum: mialatt
-    - iu: valaki
-    - ĝoje: vidáman
-    - kantas: énekel
-    - '?'
--
-  demando: Ki tudja mikor és hol fogjuk viszontlátni egymást?
-  rektatraduko: 
-    - Kiu: Ki
-    - scias: tudja
-    - ','
-    - kiam: mikor 
-    - kaj: és
-    - kie: hol
-    - ni: mi
-    - revidos: újra fog látni
-    - nin: magunkat
-    - '?'
--
-  demando: Hány óra van most?
-  rektatraduko: 
-    - Kioma: Hányadik
-    - horo: óra
-    - estas: van 
-    - nun: most
-    - '?'
--
-  demando: Segített neked valaki kinyitni a régi ház ajtaját?
-  rektatraduko: 
-    - Ĉu: Vajon
-    - iu: valaki 
-    - helpis: segített
-    - al: -nak/-nek 
-    - vi: te 
-    - malfermi: kinyitni 
-    - la: a
-    - pordon: ajtót 
-    - de: -nak a/nek a
-    - la: a
-    - malnova: régi
-    - domo: ház
-    - '?'
--
-  demando: Miért nincs időd több ideig hallgatni/figyelni rám? 
-  rektatraduko: 
-    - Kial: Miért
-    - vi: te
-    - ne: nem
-    - havas: van valamije
-    - tempon: időt
-    - aŭskulti: hallgatni
-    - min: én
-    - pli: -bb
-    - longe: hosszan
-    - '?'
+- demando: Nyugodtan tudsz tanulni, amíg valaki vidáman énekel?
+  rektatraduko:
+  - Ĉu: Vajon
+  - vi: te
+  - povas: tud
+  - trankvile: nyugodtan
+  - lerni: tanulni
+  - ','
+  - dum: mialatt
+  - iu: valaki
+  - ĝoje: vidáman
+  - kantas: énekel
+  - '?'
+- demando: Ki tudja mikor és hol fogjuk viszontlátni egymást?
+  rektatraduko:
+  - Kiu: Ki
+  - scias: tudja
+  - ','
+  - kiam: mikor
+  - kaj: és
+  - kie: hol
+  - ni: mi
+  - revidos: újra fog látni
+  - nin: magunkat
+  - '?'
+- demando: Hány óra van most?
+  rektatraduko:
+  - Kioma: Hányadik
+  - horo: óra
+  - estas: van
+  - nun: most
+  - '?'
+- demando: Segített neked valaki kinyitni a régi ház ajtaját?
+  rektatraduko:
+  - Ĉu: Vajon
+  - iu: valaki
+  - helpis: segített
+  - al: -nak/-nek
+  - vi: te
+  - malfermi: kinyitni
+  - la: a
+  - pordon: ajtót
+  - de: -nak a/nek a
+  - la: a
+  - malnova: régi
+  - domo: ház
+  - '?'
+- demando: Miért nincs időd tovább hallgatni rám?
+  rektatraduko:
+  - Kial: Miért
+  - vi: te
+  - ne: nem
+  - havas: van valamije
+  - tempon: időt
+  - aŭskulti: hallgatni
+  - min: én
+  - pli: -bb
+  - longe: hosszan
+  - '?'

@@ -1,54 +1,49 @@
-- 
-  demando: Možete li donijeti lijek moje sestre?
-  rektatraduko: 
-    - Ĉu: Da li
-    - vi: vi
-    - povas: možete
-    - kunporti: ponijeti
-    - la: (član)
-    - sanigilon: lijek
-    - de: od
-    - mia: moja
-    - fratino: sestra
-    - '?'
-- 
-  demando: Kada si kupio to glazbalo?
-  rektatraduko: 
-    - Kiam: Kada
-    - vi: ti
-    - aĉetis: kupio si
-    - tiun: taj
-    - muzikilon: muzički instrument
-    - '?'
-- 
-  demando: Tko je zadnji koristio moj ključ?
-  rektatraduko: 
-    - Kiu: Tko
-    - laste: zadnje
-    - uzis: koristio je
-    - mian: moj
-    - ŝlosilon: ključ
-    - '?'
-- 
-  demando: Jesi li se u Veneciji vozio i gondolom?
-  rektatraduko: 
-    - Ĉu: Da li
-    - vi: ti
-    - en: u
-    - Venecio: Venecija
-    - veturis: vozio se
-    - ankaŭ: također
-    - per: pomoću
-    - gondolo: gondola
-    - '?'
-- 
-  demando: Jesi li mogao zaspati kada je utihnulo?
-  rektatraduko: 
-    - Ĉu: Da li
-    - vi: ti
-    - povis: mogao si
-    - ekdormi: zaspati
-    - ',' 
-    - kiam: kada
-    - silentiĝis: utihnulo je
-    - '?'
+- demando: Možete li ponijeti lijek moje sestre?
+  rektatraduko:
+  - Ĉu: Li
+  - vi: vi
+  - povas: možete
+  - kunporti: ponijeti
+  - la: (član)
+  - sanigilon: lijek
+  - de: od
+  - mia: moja
+  - fratino: sestra
+  - '?'
+- demando: Kada si kupio to glazbalo?
+  rektatraduko:
+  - Kiam: Kada
+  - vi: ti
+  - aĉetis: kupio si
+  - tiun: taj
+  - muzikilon: muzički instrument
+  - '?'
+- demando: Tko je zadnji koristio moj ključ?
+  rektatraduko:
+  - Kiu: Tko
+  - laste: zadnje
+  - uzis: koristio je
+  - mian: moj
+  - ŝlosilon: ključ
+  - '?'
+- demando: Jesi li se u Veneciji vozio i gondolom?
+  rektatraduko:
+  - Ĉu: Li
+  - vi: ti
+  - en: u
+  - Venecio: Venecija
+  - veturis: vozio se
+  - ankaŭ: također
+  - per: pomoću
+  - gondolo: gondola
+  - '?'
+- demando: Hoćeš li moći zaspati kad utihne?
+  rektatraduko:
+  - Ĉu: Li
+  - vi: ti
+  - povos: moći ćeš
+  - ekdormi: zaspati
+  - ','
+  - kiam: kada
+  - silentiĝos: utihnut će
+  - '?'

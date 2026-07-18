@@ -1,70 +1,64 @@
-- 
-  demando: Como era a tua casa velha?
-  rektatraduko: 
-    - Kia: Como
-    - estis: era
-    - via: tua
-    - malnova: velha
-    - hejmo: casa 
-    - '?'
-- 
-  demando: Quais livros você leu e (Acaso) eles são bons?
-  rektatraduko: 
-    - Kiujn: Quais 
-    - librojn: livros
-    - vi: você
-    - legis: leu
-    - kaj: e
-    - ĉu: (Acaso)
-    - ili: eles
-    - estas: são
-    - bonaj: bons 
-    - '?'
-- 
-  demando: "O que Anna e Marcos faziam no pequeno quarto de Marcos?"
+- demando: Como era a tua casa velha?
   rektatraduko:
-    - Kion: O que
-    - faris: faziam
-    - Anna: Anna
-    - kaj: e
-    - Marko: Marcos
-    - en: em
-    - la: o
-    - malgranda: pequeno
-    - ĉambro: quarto
-    - de: de
-    - Marko: Marcos
-    - '?'
-- 
-  demando: (Acaso) você gosta de ler livros sobre o amor?
-  rektatraduko: 
-    - Ĉu: (Acaso)
-    - vi: você
-    - ŝatas: gosta de
-    - legi: ler
-    - librojn: livros
-    - pri: sobre 
-    - amo: amor
-    - '?'
-- 
-  demando: Quem irá com você à tua casa?
-  rektatraduko: 
-    - Kiu: Quem
-    - iros: irá
-    - kun: com
-    - vi: você
-    - al: à 
-    - via: tua
-    - hejmo: casa
-    - '?'
-- 
-  demando: "Como são os olhos da tua amiga?"
-  rektatraduko: 
-    - Kiaj: Como
-    - estas: são
-    - la: os
-    - okuloj: olhos
-    - de: da
-    - via: tua
-    - amikino: amiga
-    - '?'
+  - Kia: Como
+  - estis: era
+  - via: tua
+  - malnova: velha
+  - hejmo: casa
+  - '?'
+- demando: Quais livros você leu, e eles eram bons?
+  rektatraduko:
+  - Kiujn: Quais
+  - librojn: livros
+  - vi: você
+  - legis: leu
+  - kaj: e
+  - ĉu: será que
+  - ili: eles
+  - estas: são
+  - bonaj: bons
+  - '?'
+- demando: O que Ana e Marko faziam no pequeno quarto de Marko?
+  rektatraduko:
+  - Kion: O que
+  - faris: faziam
+  - Ana: Ana
+  - kaj: e
+  - Marko: Marko
+  - en: em
+  - la: o
+  - malgranda: pequeno
+  - ĉambro: quarto
+  - de: de
+  - Marko: Marko
+  - '?'
+- demando: Você gosta de ler livros sobre amor?
+  rektatraduko:
+  - Ĉu: será que
+  - vi: você
+  - ŝatas: gosta de
+  - legi: ler
+  - librojn: livros
+  - pri: sobre
+  - amo: amor
+  - '?'
+- demando: Quem irá com você à tua casa?
+  rektatraduko:
+  - Kiu: Quem
+  - iros: irá
+  - kun: com
+  - vi: você
+  - al: à
+  - via: tua
+  - hejmo: casa
+  - '?'
+- demando: Como são os olhos da tua amiga?
+  rektatraduko:
+  - Kiaj: Como
+  - estas: são
+  - la: os
+  - okuloj: olhos
+  - de: da
+  - via: tua
+  - amikino: amiga
+  - '?'

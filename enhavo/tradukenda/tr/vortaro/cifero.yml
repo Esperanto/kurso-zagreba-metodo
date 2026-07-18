@@ -1,27 +1,27 @@
-unu: bir
-du: iki
-tri: üç
-kvar: dört
-kvin: beş
-ses: altı
-sep: yedi
-ok: sekiz
-naŭ: dokuz
-dek: "on"
-dek unu: onbir
+cent: yüz
+dek: 'on'
 dek du: oniki
-dek tri: onüç
 dek kvar: ondört
 dek kvin: onbeş
-dek ses: onaltı 
-dek sep: onyedi
-dek ok: onsekiz
 dek naŭ: ondokuz
-dudek: yirmi
-tridek: otuz
-kvardek: kırk
-cent: yüz
+dek ok: onsekiz
+dek sep: onyedi
+dek ses: onaltı
+dek tri: onüç
+dek unu: onbir
+du: iki
 ducent: ikiyüz
-tricent: üçyüz
-mil: bin
+dudek: yirmi
 dumil: ikibin
+kvar: dört
+kvardek: kırk
+kvin: beş
+mil: bin
+naŭ: dokuz
+ok: sekiz
+sep: yedi
+ses: altı
+tri: üç
+tricent: üçyüz
+tridek: otuz
+unu: bir

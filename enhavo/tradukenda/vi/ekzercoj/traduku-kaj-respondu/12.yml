@@ -1,68 +1,63 @@
-- 
-  demando: Chúng ta sẽ còn gặp lại nhau không, ở bất cứ đâu và bất cứ lúc nào?
-  rektatraduko: 
-    - Ĉu: Còn không
-    - ni: chúng ta
-    - revidos: sẽ gặp lại
-    - nin: nhau
-    - ',' 
-    - kie: nơi đâu
-    - ajn: bất cứ
-    - kaj: và
-    - kiam: lúc nào
-    - ajn: bất cứ
-    - '?'
-- 
-  demando: Đến khi nào tớ sẽ lấy lại được một nửa kia của mấy quyển sách vậy?
-  rektatraduko: 
-    - Kiam: Khi nào
-    - mi: tớ
-    - rericevos: sẽ lấy lại
-    - la: (mạo từ xác định)
-    - alian: kia
-    - duonon: một nửa
-    - de: của
-    - la: (mạo từ xác định)
-    - libroj: mấy quyển sách
-    - '?'
-- 
-  demando: Liệu cậu sẽ cần nhiều hơn một phần tư của năm cho những công việc đó?
-  rektatraduko: 
-    - Ĉu: Liệu
-    - vi: cậu
-    - bezonos: sẽ cần
-    - pli: nhiều
-    - ol: hơn
-    - kvaronan: một phần tư
-    - jaron: năm
-    - por: cho
-    - tiuj: đó
-    - laboroj: những công việc
-    - '?'
-- 
-  demando: Tại sao càng lạnh, chúng ta càng phải chờ lâu?
-  rektatraduko: 
-    - Kial: Tại sao
-    - estas: (thì là)
-    - des: (so sánh phối hợp)
-    - pli: càng
-    - malvarma: lạnh
-    - ',' 
-    - ju: (so sánh phối hợp)
-    - pli: càng
-    - longe: lâu
-    - ni: chúng ta
-    - atendas: chờ
-    - '?'
-- 
-  demando: Liệu cậu sẽ hài lòng với bất kỳ người đàn ông nào?
-  rektatraduko: 
-    - Ĉu: Liệu
-    - vi: cậu
-    - estus: sẽ
-    - kontenta: hài lòng
-    - kun: với
-    - iu: người nào
-    - ajn: bất kỳ
-    - viro: đàn ông
-    - '?'
+- demando: Chúng ta sẽ còn gặp lại nhau không, ở bất cứ đâu và bất cứ lúc nào?
+  rektatraduko:
+  - Ĉu: Còn không
+  - ni: chúng ta
+  - revidos: sẽ gặp lại
+  - nin: nhau
+  - ','
+  - kie: nơi đâu
+  - ajn: bất cứ
+  - kaj: và
+  - kiam: lúc nào
+  - ajn: bất cứ
+  - '?'
+- demando: Đến khi nào tớ sẽ lấy lại được một nửa kia của mấy quyển sách vậy?
+  rektatraduko:
+  - Kiam: Khi nào
+  - mi: tớ
+  - rericevos: sẽ lấy lại
+  - la: (mạo từ xác định)
+  - alian: kia
+  - duonon: một nửa
+  - de: của
+  - la: (mạo từ xác định)
+  - libroj: mấy quyển sách
+  - '?'
+- demando: Liệu cậu sẽ cần nhiều hơn một phần tư của năm cho những công việc đó?
+  rektatraduko:
+  - Ĉu: Liệu
+  - vi: cậu
+  - bezonos: sẽ cần
+  - pli: nhiều
+  - ol: hơn
+  - kvaronan: một phần tư
+  - jaron: năm
+  - por: cho
+  - tiuj: đó
+  - laboroj: những công việc
+  - '?'
+- demando: Tại sao càng lạnh, chúng ta càng phải chờ lâu?
+  rektatraduko:
+  - Kial: Tại sao
+  - ju: (so sánh phối hợp)
+  - pli: càng
+  - longe: lâu
+  - ni: chúng ta
+  - atendas: chờ
+  - ','
+  - des: (so sánh phối hợp)
+  - pli: càng
+  - malvarme: lạnh
+  - estas: (thì là)
+  - '?'
+- demando: Liệu cậu sẽ hài lòng với bất kỳ người đàn ông nào?
+  rektatraduko:
+  - Ĉu: Liệu
+  - vi: cậu
+  - estus: sẽ
+  - kontenta: hài lòng
+  - kun: với
+  - iu: người nào
+  - ajn: bất kỳ
+  - viro: đàn ông
+  - '?'

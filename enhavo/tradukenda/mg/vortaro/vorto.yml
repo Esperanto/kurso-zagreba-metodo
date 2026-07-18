@@ -1,4 +1,3 @@
-Esperanto: espéranto
 akcepteblan: azo ekena
 alilandaj: vahiny , avy amin'ny tany hafa
 alporti: mitondra , manatitra
@@ -8,47 +7,48 @@ alvenis: efa tonga
 alvenos: ho tonga
 amikino: sakaiza
 amikinon: sakaiza
-amletero: "tati-pitiavana"
-antaŭeniris: "mandrosoa"
+amletero: tati-pitiavana
+antaŭeniris: mandrosoa
 arbaro: ala
 arbetoj: hazo
-arboplena: "feno hazo"
+arboplena: feno hazo
 aĉetumos: hiantsena
 aĉodora: maimbo
-aŭdiĝis: no re
-bedaŭrinde: tsy amim-panambinana
+aŭdiĝis: re
+bedaŭrinde: indrisy
 belaĵoj: zavatra tsara
 beleta: mahafatifaty , tsara tarehy
-bestetoj: bibhy kely
+bestetoj: biby kely
 bonega: tena tsara
-bonvolu: misaotra amin'ny
+bonvolu: azafady
 bonvolus: ho tsara kokoa ny
 centoj: anjatony
 dankon: misaotra
-daŭrigis: tohizo
+daŭrigis: nanohy
 denove: indray
-devojiĝis: miala amin'ny làlana
-dikiĝi: mahalehibe , 
+devojiĝis: miala amin'ny lalana
+dikiĝi: mihalehibe
 doloriga: mampangirifiry
 dolorige: amin'ny alahelo , manaintaina
-domegon: villa
+domegon: trano lehibe
 dumnokte: mandritra ny alina
 dumtage: mandritra ny andro
-ekkriis: "miantso mafy"
-ekmire: "ho gaga"
+ekkriis: miantso mafy
+ekmire: ho gaga
 ekparolis: naka ny fitenenana
 ekridis: nihomehy
-ekrigardis: "nandinika"
+ekrigardis: nandinika
 eksaltis: nanomboka nitsambikina
 ekscii: mianatra
-eksidis: "mipetraka"
-ekstervoje: ivelan'ny làlana
+eksidis: mipetraka
+ekstervoje: ivelan'ny lalana
 ekveturas: manomboka
 ekvidis: nanomboka nahita
 elstaraj: tsy araka nh fanao
 eniri: midira
 eniris: niditra
-eniru: mandroso , midira! 
+eniru: mandroso , midira!
+Esperanto: Esperanto
 facilmovaj: mora akisaka
 faligi: mandavo
 faligis: nandavo
@@ -63,11 +63,11 @@ geamikoj: sakaiza
 gefratoj: rahalahy sy anabavy
 gelernantojn: mpianatra
 gepatroj: ray aman-dreny
-gondolisto: gondolier 
-gondolistoj: gondoliers
-grafino: comtesse
-grafinon: comtesse
-grandula: rapeto
+gondolisto: mpitondra gondola
+gondolistoj: mpitondra gondola
+grafino: vehivavy grafy
+grafinon: vehivavy grafy
+grandula: an'ny olona lehibe
 gravuloj: olo-manankaja
 haltigis: najanona
 havigi: mahazo
@@ -78,7 +78,7 @@ ideoriĉan: mahaforo-javatra
 industriisto: indostrialy
 instruistino: mpampianatra vavy
 instruiston: mpampianatra lahy
-intervidiĝas: "mihaona"
+intervidiĝas: mihaona
 iron: mandehana
 junulino: tovovavy
 junulinoj: tovovavy
@@ -90,25 +90,25 @@ karulino: malala , tiana
 karulo: malala , tiana
 klarigis: nanazava
 klarigon: fanazavana
-klubanoj: mpikambana ao amin'ny club
-kompreneble: mazava ha a&zy fa
+klubanoj: mpikambana ao amin'ny klioba
+kompreneble: mazava ho azy
 korpoforton: tanjaka ara-batana
 kunmanĝos: andao hiara-misakafo
-kunporti: samy mitondra 
+kunporti: samy mitondra
 kunulino: namana , vady
 kunvenas: mivory
 laboristo: mpiasa
 lampeto: jiro kely
-lernanto: 
+lernanto:
 - mpianatra
 - mpianatra
-lernejo: secoly
-lernejon: secoly
+lernejo: sekoly
+lernejon: sekoly
 lernolibroj: boky fianarana
 leteroj: taratasy
 libertempo: fotoana maimaim-poana ( malalaka )
 libroj: boky
-lumigis: manajava
+lumigis: nanazava
 malagrabla: mahasosotra
 malbela: ratsy tarehy
 malbonaj: ratsy
@@ -125,7 +125,7 @@ malfrue: tara
 malfrui: dia tara
 malgranda: kely
 malhelpis: nisakana
-malinterese:  tsy mahaliana
+malinterese: tsy mahaliana
 malkontentigi: manelingelina
 mallaŭte: moramora
 malliberejon: am-ponja
@@ -146,13 +146,13 @@ malsukcesa: tsy nahomby
 maltrankvila: manahiahy
 malvarman: mangatsiaka
 malĝoja: malahelo
-malŝatas: no noana
-malŝatis: dia noana
+malŝatas: tsy tia
+malŝatis: tsy tia
 manĝaĵo: hanina
 manĝegi: mambosibosika
-maristo: amin'ny ranomasina
-maristoj: amin'ny ranomasina
-mariston: amin'ny ranomasina
+maristo: tantsambo
+maristoj: tantsambo
+mariston: tantsambo
 miaj: ny ahy
 militistoj: miaramila
 monerojn: vola madinika
@@ -161,10 +161,10 @@ morgaŭan: ny rahampitso
 mortigo: vonoan-olona
 moviĝis: mamindra ( toerana )
 multekosta: lafo, malala
-multpiedaj: à plusieurs pieds
+multpiedaj: manan-tongotra maro
 naskiĝtaga: fitsingerenan'ny andro nahaterahana
 naskiĝtago: fitsingerenan'ny andro nahaterahana
-naturaĵojn:  zavatra voajanahary
+naturaĵojn: zavatra voajanahary
 nehoma: tsy olombelona
 neinteresaj: tsy mahonena
 nokta: alina
@@ -172,7 +172,7 @@ novaĵoj: vaovao
 opinion: hevitra
 ordigi: mandahatra , mampirina
 paperoj: taratasy
-paperojn:  taratasy
+paperojn: taratasy
 paperujon: sobika , harona
 pasigos: handalo
 patrino: neny
@@ -191,18 +191,18 @@ rekapti: tratrarina indray
 repaciĝon: fampandriana indray
 revenis: niverina
 revidi: mahita indray
-revido: manita indray
+revido: fihaonana indray
 ridetis: nitsiky
 rideto: tsiky
 riĉeco: harena
 riĉulo: olona manan-karena
 salton: fitsambikinana
 saluton: arahaba
-samklubanoj: mpikambana ao amin'ny club iray
+samklubanoj: mpikambana ao amin'ny klioba iray
 sekretajn: tsiambaratelo
 sekreton: tsiambaratelo
 senbrue: mangingina
-seninterese: Tsy Tia Tena
+seninterese: tsy mahaliana
 senkolora: tsy misy loko
 sensukcese: tsy misy fahombiasana
 sentimulo: olona tsy matahotra
@@ -212,7 +212,7 @@ sinjorinon: ry ramatoa
 skribotablo: birao
 soleca: manirery
 sovaĝejo: ala
-sportisto: mampatanjaka
+sportisto: mpanao fanatanjahan-tena
 subakvigis: manafotra
 subakviĝis: safotra
 subite: tampoka
@@ -222,7 +222,7 @@ surlokan: eo an-toerana
 teroristoj: mpampihorohoro
 tiuokaze: amin'ity tranga ity
 travivaĵo: traikefa nahafinaritra
-tridekjara: "ny 30 taona"
+tridekjara: telopolo taona
 troviĝis: dia tao
 unuaj: voalohany
 urbomezo: afovoan-tanàna
@@ -235,7 +235,7 @@ vestaĵoj: akanjo
 vestaĵojn: akanjo
 vestaĵon: akanjo
 veturado: dia , fandehanana
-veturigus: dia hitondra
+veturigus: hampitondra
 viaj: anareo , areo
 virino: vehivavy
 vojaĝantoj: mpandeha
@@ -244,5 +244,5 @@ vojaĝantoj: mpandeha
 ĉirkaŭaĵo: ny manodidina
 ĝenon: sahiranana
 ĝustatempe: ara-potoana
-ŝiaj: ---ny
+ŝiaj: azy vavy
 ŝipkuron: hazakazaka sambo

@@ -1,70 +1,64 @@
--
-  demando: Cum era vechea ta casă?
+- demando: Cum era vechea ta casă?
   rektatraduko:
-    - Kia: Cum
-    - estis: era
-    - via: ta
-    - malnova: veche
-    - hejmo: casă
-    - '?'
--
-  demando: Ce cărți ai citit și sunt bune?
+  - Kia: Cum
+  - estis: era
+  - via: ta
+  - malnova: veche
+  - hejmo: casă
+  - '?'
+- demando: Ce cărți ai citit și sunt bune?
   rektatraduko:
-    - Kiujn: Ce
-    - librojn: cărți
-    - vi: tu
-    - legis: ai citit
-    - kaj: și
-    - ĉu: oare
-    - ili: ele
-    - estas: sunt
-    - bonaj: bune
-    - '?'
--
-  demando: Ce au făcut Anna și Marko în camera mică a lui Marko?
+  - Kiujn: Ce
+  - librojn: cărți
+  - vi: tu
+  - legis: ai citit
+  - kaj: și
+  - ĉu: oare
+  - ili: ele
+  - estas: sunt
+  - bonaj: bune
+  - '?'
+- demando: Ce au făcut Ana și Marko în camera mică a lui Marko?
   rektatraduko:
-    - Kion: Ce
-    - faris: au făcut
-    - Anna: Anna
-    - kaj: și
-    - Marko: Marko
-    - en: în
-    - la: (articol)
-    - malgranda: mică
-    - ĉambro: cameră
-    - de: a
-    - Marko: Marko
-    - '?'
--
-  demando: Îți place să citești cărți despre iubire?
+  - Kion: Ce
+  - faris: au făcut
+  - Ana: Ana
+  - kaj: și
+  - Marko: Marko
+  - en: în
+  - la: (articol)
+  - malgranda: mică
+  - ĉambro: cameră
+  - de: a
+  - Marko: Marko
+  - '?'
+- demando: Îți place să citești cărți despre iubire?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - ŝatas: îți place
-    - legi: să citești
-    - librojn: cărți
-    - pri: despre
-    - amo: iubire
-    - '?'
--
-  demando: Cine va merge cu tine la casa ta?
+  - Ĉu: oare
+  - vi: tu
+  - ŝatas: îți place
+  - legi: să citești
+  - librojn: cărți
+  - pri: despre
+  - amo: iubire
+  - '?'
+- demando: Cine va merge cu tine la casa ta?
   rektatraduko:
-    - Kiu: Cine
-    - iros: va merge
-    - kun: cu
-    - vi: tine
-    - al: la
-    - via: ta
-    - hejmo: casă
-    - '?'
--
-  demando: Cum sunt ochii prietenei tale?
+  - Kiu: Cine
+  - iros: va merge
+  - kun: cu
+  - vi: tine
+  - al: la
+  - via: ta
+  - hejmo: casă
+  - '?'
+- demando: Cum sunt ochii prietenei tale?
   rektatraduko:
-    - Kiaj: Cum
-    - estas: sunt
-    - la: (articol)
-    - okuloj: ochi
-    - de: ai
-    - via: tale
-    - amikino: prietenă
-    - '?'
+  - Kiaj: Cum
+  - estas: sunt
+  - la: (articol)
+  - okuloj: ochi
+  - de: ai
+  - via: tale
+  - amikino: prietenă
+  - '?'

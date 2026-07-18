@@ -1,70 +1,64 @@
-- 
-  demando: ?איפה היה הבית הישן שלך
-  rektatraduko: 
-    - Kie: איפה
-    - estis: היה
-    - via: שלך
-    - malnova: ישן
-    - hejmo: בית 
-    - '?'
-- 
-  demando: ?אילו ספרים קראת, והאם הם היו טובים
-  rektatraduko: 
-    - Kiujn: אילו
-    - librojn: ספרים
-    - vi: אתה
-    - legis: קראת
-    - kaj: ו
-    - ĉu: האם
-    - ili: הם
-    - estas: היו
-    - bonaj: טובים 
-    - '?'
-- 
-  demando: ?מה עשו אנה ומרקו בחדר הקטן של מרקו
+- demando: ?איפה היה הבית הישן שלך
   rektatraduko:
-    - Kion: מה
-    - faris: עשו
-    - Anna: אנה
-    - kaj: ו
-    - Marko: מרקו
-    - en: ב 
-    - la: הא הידיעה
-    - malgranda: קטן
-    - ĉambro: חדר
-    - de: של
-    - Marko: מרקו
-    - '?'
-- 
-  demando: ?האם את/אתה אוהב/ת לקרוא ספרים על אהבה
-  rektatraduko: 
-    - Ĉu: האם
-    - vi: את/אתה
-    - ŝatas: אוהב
-    - legi: לקרוא
-    - librojn: ספרים
-    - pri: על
-    - amo: אהבה
-    - '?'
-- 
-  demando: ?מי ילך עמך לביתך
-  rektatraduko: 
-    - Kiu: מי
-    - iros: יילך
-    - kun: עם
-    - vi: אתה
-    - al: אל 
-    - via: שלך
-    - hejmo: בית
-    - '?'
-- 
-  demando: ?איזה עיניים יש לחברה שלך
-  rektatraduko: 
-    - Kiaj: איזה
-    - estas: הם
-    - la: הא הידיעה
-    - okuloj: עיניים
-    - de: של
-    - via: שלך
-    - amikino: חברה
-    - '?'
+  - Kia: איך
+  - estis: היה
+  - via: שלך
+  - malnova: ישן
+  - hejmo: בית
+  - '?'
+- demando: ?אילו ספרים קראת, והאם הם היו טובים
+  rektatraduko:
+  - Kiujn: אילו
+  - librojn: ספרים
+  - vi: אתה
+  - legis: קראת
+  - kaj: ו
+  - ĉu: האם
+  - ili: הם
+  - estas: היו
+  - bonaj: טובים
+  - '?'
+- demando: ?מה עשו אנה ומרקו בחדר הקטן של מרקו
+  rektatraduko:
+  - Kion: מה
+  - faris: עשו
+  - Ana: אנה
+  - kaj: ו
+  - Marko: מרקו
+  - en: ב
+  - la: הא הידיעה
+  - malgranda: קטן
+  - ĉambro: חדר
+  - de: של
+  - Marko: מרקו
+  - '?'
+- demando: האם אתה אוהב לקרוא ספרים על אהבה?
+  rektatraduko:
+  - Ĉu: האם
+  - vi: את/אתה
+  - ŝatas: אוהב
+  - legi: לקרוא
+  - librojn: ספרים
+  - pri: על
+  - amo: אהבה
+  - '?'
+- demando: ?מי ילך עמך לביתך
+  rektatraduko:
+  - Kiu: מי
+  - iros: יילך
+  - kun: עם
+  - vi: אתה
+  - al: אל
+  - via: שלך
+  - hejmo: בית
+  - '?'
+- demando: ?איזה עיניים יש לחברה שלך
+  rektatraduko:
+  - Kiaj: איזה
+  - estas: הם
+  - la: הא הידיעה
+  - okuloj: עיניים
+  - de: של
+  - via: שלך
+  - amikino: חברה
+  - '?'

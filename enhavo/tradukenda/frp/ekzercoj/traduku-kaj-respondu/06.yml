@@ -1,72 +1,68 @@
-- 
-  demando: Est-ce que vous voulez que je vous montre mon plus récent livre ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - deziras: voulez
-    - ',' 
-    - ke: que 
-    - mi: je
-    - montru: montre
-    - al: à
-    - vi: vous
-    - mian: mon
-    - plej: plus
-    - novan: nouveau
-    - libron: livre
-    - '?'
-- 
-  demando: Que voulez-vous demain pour votre petit déjeuner ?
-  rektatraduko: 
-    - Kion: Que
-    - vi: vous
-    - volas: voulez
-    - morgaŭ: demain
-    - matenmanĝi: prendre le petit-déjeuner
-    - '?'
-- 
-  demando: Quand Marc arrivera-t-il, à 5 heures ou à 8 heures ?
-  rektatraduko: 
-    - Kiam: Quand
-    - Marko: Marc
-    - alvenos: arrivera
-    - ',' 
-    - je: à
-    - la: la
-    - kvina: cinquième
-    - aŭ: ou
-    - je: à
-    - la: la
-    - oka: huitième
-    - horo: heure
-    - '?'
-- 
-  demando: "Quand avez-vous remarqué que toute la famille m'appelle bienfaiteur ?"
-  rektatraduko: 
-    - Kiam: Quand
-    - vi: vous
-    - rimarkis: avez remarqué
-    - ','  
-    - ke: que
-    - la: la
-    - tuta: toute
-    - familio: famille
-    - nomas: appelle
-    - min: moi
-    - bonfarulo: bienfaiteur
-    - '?'
-- 
-  demando: "Est-ce que le livret que j'ai envoyé vous a été utile ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - la: le 
-    - libreto: livret
-    - estis: était
-    - utila: utile
-    - al: à
-    - vi: vous
-    - ',' 
-    - kiun: que
-    - mi: je
-    - sendis: ai envoyé
-    - '?'
+- demando: Vôléd-vos que jou vos montre mon livro lo més novél?
+  rektatraduko:
+  - Ĉu: Se
+  - vi: vos
+  - deziras: vôléd
+  - ','
+  - ke: que
+  - mi: jou
+  - montru: montre
+  - al: a
+  - vi: vos
+  - mian: mon
+  - plej: lo més
+  - novan: novél
+  - libron: livro
+  - '?'
+- demando: Què vôléd-vos mandziér deman matin?
+  rektatraduko:
+  - Kion: Què
+  - vi: vos
+  - volas: vôléd
+  - morgaŭ: deman
+  - matenmanĝi: mandziér lo matin
+  - '?'
+- demando: Quand Marko arruverat-il, a cinc hores ou a uèt hores?
+  rektatraduko:
+  - Kiam: Quand
+  - Marko: Marko
+  - alvenos: arruverat
+  - ','
+  - je: a
+  - la: la
+  - kvina: cinquièma
+  - aŭ: ou
+  - je: a
+  - la: la
+  - oka: uètièma
+  - horo: hora
+  - '?'
+- demando: Quand avéd-vos remarquâ que tota la famelye m'apelle benfactor?
+  rektatraduko:
+  - Kiam: Quand
+  - vi: vos
+  - rimarkis: avéd remarquâ
+  - ','
+  - ke: que
+  - la: la
+  - tuta: tota
+  - familio: famelye
+  - nomas: apelle
+  - min: mè
+  - bonfarulo: benfactor
+  - '?'
+- demando: Lo petit livro que jou vos ai mandâ at-i étâ utilo?
+  rektatraduko:
+  - Ĉu: Se
+  - la: lo
+  - libreto: petit livro
+  - ','
+  - kiun: que
+  - mi: jou
+  - sendis: ai mandâ
+  - al: a
+  - vi: vos
+  - ','
+  - estis: ètait
+  - utila: utilo
+  - '?'

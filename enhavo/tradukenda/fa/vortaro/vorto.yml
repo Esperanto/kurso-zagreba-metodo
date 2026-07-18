@@ -1,4 +1,3 @@
-Esperanto: اسپرانتو
 akcepteblan: قابل قبول
 alilandaj: خارجی
 alporti: آوردن
@@ -51,7 +50,8 @@ ekvidis: شروع به دیدن کرد
 elstaraj: برجسته
 eniri: وارد شدن
 eniris: وارد شد
-eniru: "!وارد شو"
+eniru: '!وارد شو'
+Esperanto: اسپرانتو
 facilmovaj:
 - روان
 - به‌راحتی حرکت‌پذیر
@@ -63,7 +63,7 @@ faligis:
 - به زمین انداخت
 familianoj: اعضای خانواده
 fariĝis: شد
-fermita: بسته‌شده 
+fermita: بسته‌شده
 fine:
 - در نهایت
 - در پایان
@@ -77,7 +77,7 @@ geamikoj: دوستان
 gefratoj: خواهران و برادران
 gelernantojn: شاگردان مختلط را
 gepatroj: والدین
-gondolisto: قایق‌ران گوندولا 
+gondolisto: قایق‌ران گوندولا
 gondolistoj: قایق‌رانان گوندولا
 grafino: کنتس
 grafinon: کنتس را
@@ -101,15 +101,15 @@ junuloj: اشخاص جوان
 kafejo:
 - کافه
 - کافیشاپ
-kafejon: 
+kafejon:
 - کافه را
 - کافیشاپ را
 karulino: خانم عزیز
 karulo: شخص عزیز
 klarigis: توضیح داد
-klarigon: توضیح را 
+klarigon: توضیح را
 klubanoj: اعضای باشگاه
-kompreneble: 
+kompreneble:
 - مسلما
 - البته
 korpoforton: قدرت بدنی را
@@ -127,8 +127,8 @@ lernanto:
 - یادگیرنده
 - آموزنده
 lernejo: مدرسه
-lernejon: مدرسه را 
-lernolibroj: 
+lernejon: مدرسه را
+lernolibroj:
 - کتاب‌های درسی
 - کتاب‌های آموزشی
 leteroj: نامه‌ها
@@ -154,7 +154,7 @@ malfeliĉo:
 - بدحالی
 - بدبختی
 malforta: ضعیف
-malforte: با ضعف 
+malforte: با ضعف
 malfruas: دیر می‌کند
 malfrue: دیر
 malfrui: دیر کردن
@@ -166,16 +166,16 @@ mallaŭte: کم‌صدا
 malliberejon: زندان را
 mallumo: تاریکی
 malmulte: کم
-malmultekosta: ارزان 
+malmultekosta: ارزان
 malmulton: تعداد کمی
 malnova: قدیمی
 malnovaj: قدیمی
-malofte: به ندرت 
+malofte: به ندرت
 malplaĉa: ناخوشایند
-malplaĉan: ناخوشایند 
+malplaĉan: ناخوشایند
 malproksime: دور
 malsaniĝis: بیمار شد
-malsaĝa: 
+malsaĝa:
 - نادان
 - ابله
 - غیر عاقلانه
@@ -192,7 +192,7 @@ manĝegi: پرخوری کردن
 maristo: دریانورد
 maristoj: دریانوردان
 mariston: دریانورد را
-miaj: مال من 
+miaj: مال من
 militistoj: جنگ‌جویان
 monerojn: سکه‌ها را
 monujo: کیف پول
@@ -202,7 +202,7 @@ moviĝis: حرکت کرد
 multekosta: گران‌قیمت
 multpiedaj: چندپا
 naskiĝtaga: مربوط به روز تولد
-naskiĝtago: روز تولد 
+naskiĝtago: روز تولد
 naturaĵojn: چیزهای طبیعی را
 nehoma: غیر انسانی
 neinteresaj: غیر جالب
@@ -295,10 +295,10 @@ urbomezo: مرکز شهر
 vagonaro: قطار
 vendejo: فروشگاه
 vendejon: فروشگاه را
-vendisto: فروشنده 
-vestaĵo: لباس 
+vendisto: فروشنده
+vestaĵo: لباس
 vestaĵoj: لباس‌ها
-vestaĵojn: لباس‌ها را 
+vestaĵojn: لباس‌ها را
 vestaĵon: لباس را
 veturado:
 - رفت‌وآمد
@@ -316,5 +316,5 @@ vojaĝantoj: مسافران
 ĉirkaŭaĵo: اطراف
 ĝenon: مزاحمت
 ĝustatempe: در زمان درست
-ŝiaj: مال او 
+ŝiaj: مال او
 ŝipkuron: مسابقه‌ی کِشتی‌ها را

@@ -1,8 +1,5 @@
-- Vermittelt die **wichtigsten 500 Wörter**
-- **Kostenlos** und **ohne Anmeldung**
-- Mit [Karteikarten-Deck]({{ url.kartaro }}) für [Anki]({{ url.anki }})
+- Lerne die **500 wichtigsten Wörter**
+- Verstehe damit **95 % des gesprochenen Esperanto**
+- **Kostenlos** und ohne Anmeldung
 
-Nach dem Kurs wirst du **das Wesentliche verstehen**, eigene Sätze bilden und grundlegende Ideen in Alltagssituationen ausdrücken können.
-
-Probier es einfach aus!
-____
+Danach kannst Du einfachen Gesprächen folgen, eigene Sätze formulieren und direkt zum [nächsten Esperanto-Treffen](https://eventaservo.org/) fahren.

@@ -1,8 +1,8 @@
-# Komunumo
+# Społeczność
 
-* [Pola Esperanto Junularo](http://pej.pl/)
-* [Esperanto Polska - Pollando](https://www.facebook.com/groups/Pollando) (fejsbuka grupo)
+- [Pola Esperanto Junularo](http://pej.pl/)
+- [Esperanto Polska - Pollando](https://www.facebook.com/groups/Pollando) (grupa na Facebooku)
 
-# Podkasto
+# Podcast
 
-* [Varsovia Vento](https://www.podkasto.net/)
+- [Varsovia Vento](https://www.podkasto.net/)

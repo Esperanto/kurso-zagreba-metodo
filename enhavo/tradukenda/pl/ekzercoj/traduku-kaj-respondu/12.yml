@@ -1,68 +1,63 @@
-- 
-  demando: Czy zobaczymy się, gdziekolwiek i kiedykolwiek?
-  rektatraduko: 
-    - Ĉu: Czy
-    - ni: my
-    - revidos: zobaczymy jeszcze raz
-    - nin: nas
-    - ',' 
-    - kie: gdzie
-    - ajn: -kolwiek
-    - kaj: i
-    - kiam: kiedy
-    - ajn: -kolwiek
-    - '?'
-- 
-  demando: Kiedy dostanę z powrotem drugą połowę książek?
-  rektatraduko: 
-    - Kiam: Kiedy
-    - mi: ja
-    - rericevos: dostanę z powrotem
-    - la: (przedimek określony)
-    - alian: inną
-    - duonon: połowę
-    - de: od
-    - la: (przedimek określony)
-    - libroj: książki
-    - '?'
-- 
-  demando: Czy będziesz potrzebował więcej niż kwartał na tamte prace?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - bezonos: będziesz potrzebował
-    - pli: więcej
-    - ol: niż
-    - kvaronan: jedną czwartą
-    - jaron: rok
-    - por: dla
-    - tiuj: tamte
-    - laboroj: prace
-    - '?'
-- 
-  demando: Dlaczego jest tym zimniej, im dłużej czekamy?
-  rektatraduko: 
-    - Kial: Dlaczego
-    - estas: jest
-    - des: tym
-    - pli: bardziej
-    - malvarma: zimny
-    - ',' 
-    - ju: im
-    - pli: bardziej
-    - longe: długo
-    - ni: my
-    - atendas: czekamy
-    - '?'
-- 
-  demando: Czy byłabyś zadowolona z jakimkolwiek mężczyzną?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - estus: byłabyś
-    - kontenta: zadowolona
-    - kun: z
-    - iu: jakimś
-    - ajn: -kolwiek
-    - viro: mężczyzna
-    - '?'
+- demando: Czy zobaczymy się znowu, bez względu na to, gdzie i kiedy?
+  rektatraduko:
+  - Ĉu: Czy
+  - ni: my
+  - revidos: zobaczymy jeszcze raz
+  - nin: nas
+  - ','
+  - kie: gdzie
+  - ajn: -kolwiek
+  - kaj: i
+  - kiam: kiedy
+  - ajn: -kolwiek
+  - '?'
+- demando: Kiedy dostanę z powrotem drugą połowę książek?
+  rektatraduko:
+  - Kiam: Kiedy
+  - mi: ja
+  - rericevos: dostanę z powrotem
+  - la: (przedimek określony)
+  - alian: inną
+  - duonon: połowę
+  - de: od
+  - la: (przedimek określony)
+  - libroj: książki
+  - '?'
+- demando: Czy będziesz potrzebował na te prace więcej niż kwartału?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - bezonos: będziesz potrzebował
+  - pli: więcej
+  - ol: niż
+  - kvaronan: jedną czwartą
+  - jaron: rok
+  - por: dla
+  - tiuj: tamte
+  - laboroj: prace
+  - '?'
+- demando: Dlaczego im dłużej czekamy, tym jest zimniej?
+  rektatraduko:
+  - Kial: Dlaczego
+  - ju: im
+  - pli: bardziej
+  - longe: długo
+  - ni: my
+  - atendas: czekamy
+  - ','
+  - des: tym
+  - pli: bardziej
+  - malvarme: zimny
+  - estas: jest
+  - '?'
+- demando: Czy byłabyś zadowolona z byle jakiego mężczyzny?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - estus: byłabyś
+  - kontenta: zadowolona
+  - kun: z
+  - iu: jakimś
+  - ajn: -kolwiek
+  - viro: mężczyzna
+  - '?'

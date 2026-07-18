@@ -1,66 +1,67 @@
-kio: co
-tio: tamto
+ia: jakiś
+ial: z jakiegoś powodu
+iam: kiedyś
+ie: gdzieś
+iel: jakoś
+ies: czyjś
 io: coś
-ĉio: wszystko
-nenio: nic
+iom:
+- trochę
+- ileś
+iu: ktoś
+kia:
+- jaki
+- jaka
+- jakie
+kial: dlaczego
+kiam: kiedy
+kie: gdzie
+kiel: jak
+kien: dokąd
+kies: czyj
+kio: co
+kiom: ile
 kiu:
 - kto
 - którego
+nenia:
+- nijaki
+- żaden
+nenial: z żadnego powodu
+neniam: nigdy
+nenie: nigdzie
+neniel: w żaden sposób
+nenies: niczyj
+nenio: nic
+neniom:
+- ani trochę
+- żadna ilość
+neniu: nikt
+tia:
+- taki
+- taka
+- takie
+tial: dlatego
+tiam: wtedy
+tie: tam
+tiel: tak (w ten sposób)
+ties: tego
+tio: tamto
+tiom: tyle
 tiu:
 - tamta
 - tamten
 - tamto
-iu: ktoś
+ĉia: wszelaki
+ĉial: z każdego powodu
+ĉiam: zawsze
+ĉie: wszędzie
+ĉiel: na wszelki sposób
+ĉies: każdego
+ĉio: wszystko
+ĉiom:
+- całość
+- każda ilość
 ĉiu:
 - każdy
 - wszyscy
-neniu: nikt
-kie: gdzie
-tie: tam
-ie: gdzieś
-ĉie: wszędzie
-nenie: nigdzie
-kia: 
-- jaki
-- jaka
-- jakie
-tia: 
-- taki
-- taka
-- takie
-ia: jakiś
-ĉia: wszelaki
-nenia:
-- nijaki
-- żaden
-kiel: jak
-tiel: tak (w ten sposób)
-iel: jakoś
-ĉiel: na wszelki sposób
-neniel: w żaden sposób
-kial: dlaczego
-tial: dlatego
-ial: z jakiegoś powodu
-ĉial: z każdego powodu
-nenial: z żadnego powodu
-kiam: kiedy
-tiam: wtedy
-iam: kiedyś
-ĉiam: zawsze
-neniam: nigdy
-kiom: ile
-tiom: tyle
-iom: 
-- trochę
-- ileś
-ĉiom: 
-- całość
-- każda ilość
-neniom:
-- ani trochę
-- żadna ilość
-kies: czyj
-ties: tego
-ies: czyjś
-ĉies: każdego
-nenies: niczyj

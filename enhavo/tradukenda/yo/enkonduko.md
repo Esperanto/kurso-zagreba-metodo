@@ -1,8 +1,5 @@
-- Kọ́ ọ ní **ọ̀rọ̀ 500 tó ṣe pàtàkì jù**
-- **Ọfẹ́** àti **láìsí ìforúkọsílẹ̀**
-- Pẹ̀lú [àkójọpọ̀ káàdì ìkọ́ni]({{ url.kartaro }}) fún [Anki]({{ url.anki }})
+- Kọ́ **ọ̀rọ̀ 500 tó ṣe pàtàkì jù**
+- Lóye **95 % ti Esperanto tí a ń sọ**
+- **Ọfẹ́** àti láìforúkọsílẹ̀
 
-Lẹ́yìn kóọ̀sì náà, ìwọ yóò **lóye ohun pàtàkì**, dá àwọn gbolohun tirẹ̀ sílẹ̀, kí o sì lè sọ àwọn èrò ìpilẹ̀ ní àwọn ipo ojoojúmọ́.
-
-Kan gbìyànjú rẹ̀!
-____
+Lẹ́yìn náà, o lè tẹ̀lé ìjíròrò rọrùn, dá gbólóhùn tirẹ̀ sílẹ̀, kí o sì lọ tààrà sí [ìpàdé Esperanto tó tẹ̀lé](https://eventaservo.org/).

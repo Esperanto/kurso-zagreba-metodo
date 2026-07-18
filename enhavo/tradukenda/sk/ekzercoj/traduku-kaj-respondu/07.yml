@@ -1,77 +1,71 @@
-- 
-  demando: Kto mal knihu, na ktorú si čakal dlhšie než dva roky?
-  rektatraduko: 
-    - Kiu: Kto
-    - havis: mal
-    - la: (určitý člen)
-    - libron: knihu
-    - ',' 
-    - kiun: ktorú
-    - vi: ty
-    - atendis: si čakal
-    - pli: viac
-    - ol: ako
-    - du: dva
-    - jarojn: roky
-    - '?'
-- 
-  demando: Chceš, aby som ti ukázal svoju najmilšiu fotku?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - volas: chceš
-    - ','
-    - ke: aby
-    - mi: ja
-    - montru: ukázal (príkaz)
-    - al: k, ku
-    - vi: ty
-    - mian: moju
-    - plej: naj (3. stupeň přídavných jmen)
-    - karan: milú
-    - foton: fotku
-    - '?'
-- 
-  demando: Kde si kúpil to oblečenie?
-  rektatraduko: 
-    - Kie: Kde
-    - vi: ty
-    - aĉetis: si kúpil
-    - tiun: to
-    - vestaĵon: oblečenie
-    - '?'
-- 
-  demando: Kam pôjdeš v nedeľu, keď bude slnečný deň?
-  rektatraduko: 
-    - Kien: Kam
-    - vi: ty
-    - iros: pôjdeš
-    - dimanĉe: v nedeľu
-    - ',' 
-    - se: keď
-    - estos: bude
-    - suna: slnečný
-    - tago: deň
-    - '?'
-- 
-  demando: Tvoj brat už odišiel?
-  rektatraduko: 
-    - Ĉu: Či
-    - via: tvoj
-    - frato: brat
-    - jam: už
-    - foriris: odišiel
-    - '?'
-- 
-  demando: Kde je voda, ktorú si si priniesol?
-  rektatraduko: 
-    - Kie: Kde
-    - estas: je
-    - la: (člen určitý)
-    - akvo: voda
-    - ',' 
-    - kiun: ktorú
-    - vi: ty
-    - mem: sám
-    - kunportis: priniesol si
-    - '?'
+- demando: Kto mal knihu, na ktorú si čakal dlhšie než dva roky?
+  rektatraduko:
+  - Kiu: Kto
+  - havis: mal
+  - la: (určitý člen)
+  - libron: knihu
+  - ','
+  - kiun: ktorú
+  - vi: ty
+  - atendis: si čakal
+  - pli: viac
+  - ol: ako
+  - du: dva
+  - jarojn: roky
+  - '?'
+- demando: Chceš, aby som ti ukázal svoju najmilšiu fotku?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - volas: chceš
+  - ','
+  - ke: aby
+  - mi: ja
+  - montru: ukázal (príkaz)
+  - al: k, ku
+  - vi: ty
+  - mian: moju
+  - plej: naj (3. stupeň přídavných jmen)
+  - karan: milú
+  - foton: fotku
+  - '?'
+- demando: Kde si kúpil to oblečenie?
+  rektatraduko:
+  - Kie: Kde
+  - vi: ty
+  - aĉetis: si kúpil
+  - tiun: to
+  - vestaĵon: oblečenie
+  - '?'
+- demando: Kam pôjdeš v nedeľu, keď bude slnečný deň?
+  rektatraduko:
+  - Kien: Kam
+  - vi: ty
+  - iros: pôjdeš
+  - dimanĉe: v nedeľu
+  - ','
+  - se: keď
+  - estos: bude
+  - suna: slnečný
+  - tago: deň
+  - '?'
+- demando: Tvoj brat už odišiel?
+  rektatraduko:
+  - Ĉu: Či
+  - via: tvoj
+  - frato: brat
+  - jam: už
+  - ekiris: odišiel
+  - '?'
+- demando: Kde je voda, ktorú si si priniesol?
+  rektatraduko:
+  - Kie: Kde
+  - estas: je
+  - la: (člen určitý)
+  - akvo: voda
+  - ','
+  - kiun: ktorú
+  - vi: ty
+  - mem: sám
+  - kunportis: priniesol si
+  - '?'

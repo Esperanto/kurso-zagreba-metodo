@@ -1,51 +1,47 @@
-- 
-  demando: "Est-ce que l'amitié te rend plus heureux que l'amour ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - amikeco: amitié
-    - pli: plus
-    - feliĉigas: rend heureux
-    - vin: toi
-    - ol: que
-    - la: "l'"
-    - amo: amour
-    - '?'
-- 
-  demando: À quelle fréquence écris-tu des lettres à tes amies en Italie ?
-  rektatraduko: 
-    - Kiel: Comment
-    - ofte: souvent
-    - vi: tu
-    - skribas: écris
-    - leterojn: des lettres
-    - al: à
-    - viaj: tes
-    - amikinoj: amies
-    - en: en
-    - Italio: Italie
-    - '?'
-- 
-  demando: Est-ce que la relation entre toi et tes professeurs ont changé ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - la: la
-    - rilato: relation
-    - inter: entre
-    - vi: toi
-    - kaj: et
-    - via: ton
-    - instruisto: professeur
-    - ŝanĝiĝis: a changé
-    - '?'
-- 
-  demando: "Est-ce maintenant que tu connais déjà assez bien l'espéranto ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - nun: maintenant
-    - jam: déjà
-    - scias: connais
-    - Esperanton: "l'espéranto"
-    - sufiĉe: assez
-    - bone: bien
-    - '?'
+- demando: هل تجعلك الصداقة أكثر سعادة من الحب؟
+  rektatraduko:
+  - Ĉu: هل
+  - amikeco: الصداقة
+  - pli: أكثر
+  - feliĉigas: تجعل سعيدًا
+  - vin: إياك
+  - ol: من
+  - la: الـ
+  - amo: الحب
+  - '?'
+- demando: كم مرة تكتب رسائل إلى صديقاتك في إيطاليا؟
+  rektatraduko:
+  - Kiel: كيف
+  - ofte: غالبًا
+  - vi: أنت
+  - skribas: تكتب
+  - leterojn: رسائل
+  - al: إلى
+  - viaj: خاصتك
+  - amikinoj: صديقات
+  - en: في
+  - Italio: إيطاليا
+  - '?'
+- demando: هل تغيّرت العلاقة بينك وبين معلّمك؟
+  rektatraduko:
+  - Ĉu: هل
+  - la: الـ
+  - rilato: العلاقة
+  - inter: بين
+  - vi: أنت
+  - kaj: و
+  - via: خاصتك
+  - instruisto: معلّم
+  - ŝanĝiĝis: تغيّرت
+  - '?'
+- demando: هل تعرف الإسبرانتو جيدًا بما يكفي الآن؟
+  rektatraduko:
+  - Ĉu: هل
+  - vi: أنت
+  - nun: الآن
+  - jam: من قبل
+  - scias: تعرف
+  - Esperanton: الإسبرانتو
+  - sufiĉe: بما يكفي
+  - bone: جيدًا
+  - '?'

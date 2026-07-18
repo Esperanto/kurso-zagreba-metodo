@@ -1,51 +1,47 @@
-- 
-  demando: Does friendship make you more happy than love does?
-  rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
-    - '?'
-- 
-  demando: How often do you write letters to your girlfriends in Italy?
-  rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
-    - '?'
-- 
-  demando: Has the relationship between you and your teacher changed?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
-    - '?'
-- 
-  demando: Do you now already know Esperanto well enough?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
-    - '?'
+- demando: តើមិត្តភាពធ្វើឱ្យអ្នកសប្បាយជាងសេចក្តីស្រឡាញ់ឬ?
+  rektatraduko:
+  - Ĉu: តើ
+  - amikeco: មិត្តភាព
+  - pli: ជាង
+  - feliĉigas: ធ្វើឱ្យសប្បាយ
+  - vin: អ្នក
+  - ol: ជាង
+  - la: ពាក្យកំណត់
+  - amo: សេចក្តីស្រឡាញ់
+  - '?'
+- demando: តើអ្នកសរសេរសំបុត្រទៅមិត្តស្រីរបស់អ្នកនៅអ៊ីតាលីញឹកញាប់ប៉ុនណា?
+  rektatraduko:
+  - Kiel: ដូចម្តេច
+  - ofte: ញឹកញាប់
+  - vi: អ្នក
+  - skribas: សរសេរ
+  - leterojn: សំបុត្រ
+  - al: ទៅ
+  - viaj: របស់អ្នក
+  - amikinoj: មិត្តស្រី
+  - en: ក្នុង
+  - Italio: អ៊ីតាលី
+  - '?'
+- demando: តើទំនាក់ទំនងរវាងអ្នក និងគ្រូរបស់អ្នកបានផ្លាស់ប្តូរឬ?
+  rektatraduko:
+  - Ĉu: តើ
+  - la: ពាក្យកំណត់
+  - rilato: ទំនាក់ទំនង
+  - inter: រវាង
+  - vi: អ្នក
+  - kaj: និង
+  - via: របស់អ្នក
+  - instruisto: គ្រូ
+  - ŝanĝiĝis: បានផ្លាស់ប្តូរ
+  - '?'
+- demando: តើឥឡូវនេះអ្នកដឹងអេស្ប៉េរ៉ាន់តូបានល្អគ្រប់គ្រាន់ហើយឬ?
+  rektatraduko:
+  - Ĉu: តើ
+  - vi: អ្នក
+  - nun: ឥឡូវ
+  - jam: រួចហើយ
+  - scias: ដឹង
+  - Esperanton: អេស្ប៉េរ៉ាន់តូ
+  - sufiĉe: គ្រប់គ្រាន់
+  - bone: ល្អ
+  - '?'

@@ -1,55 +1,66 @@
 afer:
- - asunto
- - cosa
+- asunto
+- cosa
+ag:
+- actuar
+- obrar
 agrabl: agradable
 akcept: aceptar
 akv: agua
-ali: otro/a
-alt: alto/a
+ali: otro
+alt: alto
 am: amar
 amik: amigo
+aper: aparecer
 arb: árbol
 aspekt:
- - parecer
- - aspecto
+- aspecto
+- apariencia
 atend: esperar
 atent:
- - estar atento
- - prestar atención
+- estar atento
+- prestar atención
 aĉet: comprar
 aŭd: oír
-aŭt: coche
+aŭskult: escuchar
+aŭt:
+- auto
+- automóvil
 aŭtoritat: autoridad
 bedaŭr: lamentar
 bel:
- - bonito/a
- - bello/a
- - lindo/a
+- bonito
+- bello
+- lindo
 best: animal
 bezon: necesitar
 bien:
- - finca
- - terreno
-bon: bueno/a
+- finca
+- terreno
+bon: bueno
 branĉ: rama
 bru: ruido
 buŝ: boca
 cert:
- - cierto/a
- - seguro/a
+- cierto
+- seguro
 dank: agradecer (a)
 daŭr: durar
 decid: decidir
 demand: preguntar
 dev:
- - tener que
- - deber
+- tener que
+- deber
 dezir: desear
 diabl: diablo
 dik: gordo
 dimanĉ: domingo
 dir: decir
-direkt: dirección
+direkt: dirigir
+divers:
+- diverso
+- diferente
+- variado
 doktor: doctor
 dolar: dólar
 dolor: doler
@@ -57,28 +68,29 @@ dolĉ: dulce
 dom: casa
 don: dar
 dorm: dormir
-doĝ: dux
+doĝ: dogo
 edz:
- - esposo
- - marido
+- esposo
+- marido
 efektiv: efectivo
 ekskurs: excursión
+ekzempl: ejemplo
 esper: esperar (esperanza)
 est:
- - ser
- - estar
- - haber
+- ser
+- estar
+- haber
 facil: fácil
 fakt: hecho
 fal: caer
-famili: familiar
+famili: familia
 far: hacer
 fart:
 - estar
 - sentirse
 feliĉ: feliz
 ferm: cerrar
-fin: 
+fin:
 - acabar
 - terminar
 flank: lado
@@ -88,8 +100,9 @@ form: forma
 fort: fuerte
 fot: fotografía
 frat: hermano
-fru: temprano/a
+fru: temprano
 fuŝ: hacer una chapuza
+glas: vaso
 gondol: góndola
 graf: conde
 grand:
@@ -99,117 +112,140 @@ grav: importante
 halt: parar(se)
 hav: tener
 hejm:
- - hogar
- - casa
+- hogar
+- casa
 help: ayudar
 hom:
- - persona
- - ser humano
+- persona
+- ser humano
 hor: hora
 hotel: hotel
 ide: idea
-industri: industria 
+industri: industria
+infan: niño
+inform: informar
 instru: enseñar
-interes: interesar
+interes: interés
 invit: invitar
 ir: ir
 itali: Italia
 jar: año
 jun: joven
 kaf: café
-kalv: calvo/a
+kalv: calvo
+kant: cantar
 kap: cabeza
 kapabl: capaz
 kapt:
- - atrapar
- - capturar
-kar: querido/a
+- atrapar
+- capturar
+kar: querido
 kastel: castillo
 kav: cavidad
-kelk: alguno/a/os/as
-kelner: camarero/a
+kelk:
+- algún
+- algunos
+kelner: camarero
 klar: claro
 klub: club
 knab: chico
-koler: estar enfadado
+koler:
+- enojarse
 kolor: color
 komenc: empezar
 kompren: entender
 kon: conocer
+konsent:
+- consentir
+- estar de acuerdo
 kontent: contento
 kontrol:
- - controlar
- - comprobar
+- controlar
+- comprobar
 kor: corazón
 korp: cuerpo
 kost: costar
+kred: creer
 kri: gritar
 kuir: cocinar
 kuk:
- - pastel
- - torta
+- pastel
+- torta
 kur: correr
 labor: trabajar
 lakt: leche
 lamp: lámpara
 land:
- - país
- - territorio
+- país
+- territorio
 larĝ: ancho
+las: dejar
 last: último
 laŭt: fuerte
 lecion:
- - lección
- - clase
+- lección
+- clase
 leg: leer
 lern: aprender
 leter: carta
 liber: libre
 libr: libro
+lingv:
+- idioma
+- lengua
 lok: lugar
-long: largo/a
+long: largo
+loĝ:
+- habitar
+- residir
+- vivir
 lud: jugar
 lum: luz
 man: mano
+manier: manera
 mank: faltar
 manĝ: comer
 mar: mar
 maten: mañana
 memor: recordar
 met:
- - poner
- - meter
-mez: medio/a
+- poner
+- meter
+mez: medio
 milit: guerra
 minut: minuto
 mir: maravillarse
 moment: momento
 mon: dinero
+monat: mes
+mond: mundo
 mont: montaña
 montr:
- - mostrar
- - enseñar
+- mostrar
+- enseñar
 mort: morir
 mov: mover
-mult: mucho/a
+mult: mucho
 muzik: música
+naci: nación
 nask: parir
 natur: naturaleza
-neces: necesario/a
+neces: necesario
 nokt: noche
 nom: nombre
 not: nota
 nov: nuevo
-odor: oler
+odor: olor
 oft: a menudo
 okaz:
- - ocurrir
- - pasar
+- ocurrir
+- pasar
 okul: ojo
 onkl: tío
 opini: opinar
-ord: ordenar
+ord: orden
 orel: oreja
+organiz: organizar
 pac: paz
 pag: pagar
 pan: pan
@@ -219,41 +255,54 @@ parol: hablar
 part: parte
 pas: pasar
 patr: padre
-paŝ: paso
+paŝ: dar un paso
 pens: pensar
 perd: perder
 person: persona
 pet: pedir
-pez: pesar
+pez: pesado
 pied: pie
 plac: plaza
 plan: plan
 plaĉ:
- - agradar
- - gustar
-plen: lleno/a
+- agradar
+- gustar
+plen: lleno
+plor: llorar
+pluv: llover
 polic: policía
 pord: puerta
 port:
- - llevar
- - traer
+- llevar
+- traer
 post: después de, detrás de
 pov: poder
-pren: coger
+poŝ: bolsillo
+poŝt: correo
+pren: tomar
 pret:
- - listo
- - preparado
+- listo
+- preparado
 prezent: presentar
 problem: problema
-proksim: cercano/a
+proksim: cercano
+proksimum: aproximadamente
 promen: pasear
 propon: proponer
 prov: intentar
+publik: público
+punkt: punto
+pur:
+- limpio
+- puro
 rajt: tener derecho (a)
-rapid: rápido/a
+rakont:
+- contar
+- relatar
+rapid: rápido
 raport: informar
 real: real
-rekt: directo/a
+rekt: directo
 renkont: encontrarse (a)
 respekt: respetar
 respond: responder
@@ -261,43 +310,57 @@ rest: quedarse
 ricev: recibir
 rid: reír
 rigard: mirar
-riĉ: rico/a
+rilat:
+- relacionarse con
+- tener relación con
+rimark:
+- notar
+- darse cuenta
+riĉ: rico
 rol: papel
-ruĝ: rojo/a
+ruĝ: rojo
 salt: saltar
 salut: saludo
-sam: mismo/a
-san: sano/a
-saĝ: sabio/a
+sam: mismo
+san: sano
+sat:
+- estar saciado
+- estar lleno
+saĝ: sabio
 sci: saber
-sek: seco/a
+sek: seco
 sekret: secreto
 sekv: seguir
 semajn: semana
 send: enviar
+sent: sentir
 serĉ: buscar
+seĝ: silla
 si: pronombre reflexivo
 sid: estar sentado
-silent: callar
+silent: silencio
 simil: similar
+simpl:
+- simple
+- sencillo
 sinjor: señor
 situaci: situación
 skrib: escribir
-sol: solo/a
-son: sonar
+sol: solo
+son: sonido
 sovaĝ: salvaje
 sport: deporte
 star: permanecer de pie
 strat: calle
-subit:
- - súbito
+subit: repentino
 sufiĉ:
- - suficiente
- - bastantes
+- suficiente
+- bastante
+suk: jugo
 sukces: tener éxito
 sun: sol
 supr: arriba
-tabl: mesa 
+tabl: mesa
 tag: día
 te: té
 telefon: teléfono
@@ -305,15 +368,21 @@ temp: tiempo
 temperatur: temperatura
 ten: sostener
 teror: terror
+terur: terrible
 tim:
- - temer
- - tener miedo
+- temer
+- tener miedo
 ton: nota
-trankvil: tranquilo/a
+trankvil: tranquilo
 trink: beber
 trov: encontrar
-turk: turco/a
+turk: turco
+tut:
+- todo
+- entero
+- total
 tuŝ: tocar
+universal: universal
 urb: ciudad
 util: útil
 uz: usar
@@ -339,14 +408,14 @@ vol: querer
 vort: palabra
 voĉ: voz
 zorg:
- - preocuparse
- - encargarse
+- preocuparse
+- encargarse
 ĉambr: habitación
 ĉef: jefe
 ĝen: molestar
 ĝeneral: general
-ĝoj: contento/a
-ĝust: correcto/a
+ĝoj: contento
+ĝust: correcto
 ĵet: lanzar
 ŝajn: parecer
 ŝanĝ: cambiar

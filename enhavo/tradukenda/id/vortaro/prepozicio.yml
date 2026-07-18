@@ -1,4 +1,4 @@
-al: 
+al:
 - ke
 - menuju
 anstataŭ: alih-alih
@@ -8,18 +8,18 @@ antaŭ:
 apud:
 - di dekat
 - di samping
-da: 
+da:
+- sejumlah
 - dari
-- tentang
 de:
 - dari
 - tentang
-dum: 
+dum:
 - selama
 - ketika
 ekde: sejak
 ekster: di luar
-el: dari
+el: dari, keluar dari
 en: di dalam
 inter: di antara
 je: pada
@@ -27,15 +27,15 @@ kontraŭ:
 - terhadap
 - melawan
 - kontra
-krom: 
+krom:
 - di samping itu
 - sebagai tambahan
-kun: 
+kun:
 - dengan
-laŭ: 
+laŭ:
 - berdasarkan
 - menurut
-per: 
+per:
 - dengan cara
 - menggunakan
 por: untuk
@@ -49,7 +49,7 @@ sub:
 - di bawah
 - di balik
 super: di atas
-sur: 'pada'
+sur: di atas
 tra: melalui
 trans: menyeberangi
 ĉe: di

@@ -1,8 +1,5 @@
-- Vos aprent les **500 mots les més emportants**
-- **Gratuito** et **sens encartâjo**
-- Avouéc un [paquet de cartes-mèmouèro]({{ url.kartaro }}) por [Anki]({{ url.anki }})
+- Aprenéd los **500 mots los més importants**
+- Comprenéd **95 % de l'espèranto parlâ**
+- **Gratuitament** et sens inscricion
 
-Aprés lo cors, vos **comprendrés l'essenciâl**, formarés vouétras frases et porrés comunicar d'idées de bâsa dens les situacions de tôs los jorns.
-
-Èprovâd-lo simplament !
-____
+Pués, vos poréd siuvre de convèrsacions simples, fâre vos prôpres frâses et alar tot drêt a la [prochena rencontrâ d'espèranto](https://eventaservo.org/).

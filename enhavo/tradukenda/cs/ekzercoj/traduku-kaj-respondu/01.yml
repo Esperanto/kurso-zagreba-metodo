@@ -1,57 +1,51 @@
-- 
-  demando: Kdo je tvá přítelkyně?
+- demando: Kdo je tvoje kamarádka?
   rektatraduko:
-    - Kiu: Kdo
-    - estas: je
-    - via: tvá
-    - amikino: přítelkyně
-    - '?'
-- 
-  demando: Píše nyní tvoje přítelkyně Anna v pokoji?
+  - Kiu: Kdo
+  - estas: je
+  - via: tvá
+  - amikino: kamarádka
+  - '?'
+- demando: Píše teď tvoje kamarádka Ana v pokoji?
   rektatraduko:
-    - Ĉu: Zda
-    - via: tvoje
-    - amikino: přítelkyně
-    - Anna: Anna
-    - skribas: píše
-    - nun: nyní
-    - en: v
-    - la: (určitý člen)
-    - ĉambro: pokoji
-    - '?'
-- 
-  demando: Pracuje přítel tvého otce v hotelu?
+  - Ĉu: Zda
+  - via: tvoje
+  - amikino: kamarádka
+  - Ana: Ana
+  - skribas: píše
+  - nun: nyní
+  - en: v
+  - la: (určitý člen)
+  - ĉambro: pokoji
+  - '?'
+- demando: Pracuje přítel tvého otce v hotelu?
   rektatraduko:
-    - Ĉu: Zda
-    - la: (určitý člen)
-    - amiko: přítel
-    - de: od
-    - via: tvého
-    - patro: otce
-    - laboras: pracuje
-    - en: v
-    - hotelo: hotelu
-    - '?'
-- 
-  demando: Co je na pracovním stole v našem pokoji?
+  - Ĉu: Zda
+  - la: (určitý člen)
+  - amiko: přítel
+  - de: od
+  - via: tvého
+  - patro: otce
+  - laboras: pracuje
+  - en: v
+  - hotelo: hotelu
+  - '?'
+- demando: Co je na pracovním stole v našem pokoji?
   rektatraduko:
-    - Kio: Co
-    - estas: je
-    - sur: na
-    - la: (určitý člen)
-    - labortablo: pracovním stole
-    - en: v
-    - nia: našem
-    - ĉambro: pokoji
-    - '?'
-- 
-  demando: Je na tvém stole esperantská účebnice?
+  - Kio: Co
+  - estas: je
+  - sur: na
+  - la: (určitý člen)
+  - labortablo: pracovní stůl
+  - en: v
+  - nia: našem
+  - ĉambro: pokoji
+  - '?'
+- demando: Je na tvém stole učebnice esperanta?
   rektatraduko:
-    - Ĉu: Zda
-    - Esperanto-lernolibro: esperantská učebnice
-    - estas: je
-    - sur: na
-    - via: tvém
-    - tablo: stole
-    - '?'
-
+  - Ĉu: Zda
+  - Esperanto-lernolibro: esperantská učebnice
+  - estas: je
+  - sur: na
+  - via: tvém
+  - tablo: stole
+  - '?'

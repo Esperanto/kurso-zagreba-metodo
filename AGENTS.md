@@ -8,11 +8,17 @@ Gvidilo por aŭtomatigitaj kodaj agentoj laborantaj en ĉi tiu deponejo.
 
 La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperantaj. Konservu ekzistantajn Esperantajn vortumojn kaj dosiernomajn konvenciojn krom se tasko eksplicite petas tradukon aŭ tekstajn ŝanĝojn.
 
+## Git Kaj Kunlaboro
+
+- Uzu Esperanton por branĉonomoj, commit-mesaĝoj kaj PR-titoloj/priskriboj, krom se la uzanto eksplicite petas alian lingvon.
+
 ## Gravaj Dosierujoj
 
 - `enhavo/netradukenda/`: netradukenda fontenhavo komuna al ĉiuj lingvoj.
 - `enhavo/netradukenda/tekstoj/`: Esperantaj leciontekstoj. Ili estas licencitaj laŭ CC BY-ND kaj ne devas esti ŝanĝitaj.
 - `enhavo/tradukenda/<lingvo>/`: lingvospecifaj tradukoj, gramatikaj klarigoj, ekzercoj, vortaroj, enkonduko kaj posta teksto.
+- `specifoj/tradukenda/`: la fonto de vero por tradukenda enhavo; legu la koncernajn specifojn antaŭ ŝanĝi tradukojn, ekzercojn, vortaron, gramatikon, fasadon, enkondukon aŭ posttekston.
+- `ai/`: reuzeblaj promptoj kaj laborinstrukcioj por agentoj, ekzemple por plibonigi tradukojn aŭ generi OG-bildojn.
 - `agordoj/`: agordo de lingvoj kaj aŭtoroj.
 - `fonto/py/`: Python-generatoroj. La ĉefa enirpunkto estas `fonto.py.generu`.
 - `fonto/html/` kaj `fonto/md/`: ŝablonoj por HTML kaj Markdown.
@@ -34,6 +40,7 @@ La kanonika taska tavolo por agentoj estas `make`, simile al `npm run ...` en Ja
 ```sh
 make install
 make check
+make check-yaml
 make check-pwa
 make html LINGVO=en
 make html-all
@@ -42,7 +49,18 @@ make serve
 make clean
 ```
 
-`make check` instalas nenion. Ĝi ĉiam kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
+`make check` instalas nenion. Ĝi estas la normala kontrolo por plej multaj ŝanĝoj: ĝi kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
+
+Kiam ŝanĝo rilatas nur al unu lingvo, preferu lingvolimitan kontrolon per
+`LINGVO=<kodo>` ĉe celoj, kiuj subtenas tion: `check-yaml`,
+`check-yaml-normalized`, `check-md-normalized` kaj `check-pwa`. Sen eksplicita
+`LINGVO`, tiuj kontroloj restas tut-enhavaj aŭ tut-eligaj.
+
+Rulu kromajn kontrolojn nur kiam la koncerna surfaco ŝanĝiĝis:
+
+- `make check-yaml`: kiam ŝanĝiĝis `enhavo/`, `skemoj/`, YAML-validiga kodo aŭ YAML-linteraj dependecoj.
+- `make check-ui`: kiam ŝanĝiĝis frontendaj fontoj, HTML/CSS/JS-ŝablonoj aŭ generatora kodo sub `fonto/`, kiu povas influi la retumilan UI-on.
+- `make html-all` kaj `make check-pwa`: kiam ŝanĝiĝis PWA-aŭ produktada reteja eligo, ekzemple `fonto/py/pwa.py`, PWA-ŝablonoj, komunaj aktivoj aŭ service-worker-rilata kodo.
 
 Python-dependecoj estas mastrumataj per pip kaj pip-tools. Redaktu rektajn dependecojn en `requirements.in`, poste rulu `make lock` por regeneri la ŝlositan `requirements.txt`. Por intence ĝisdatigi ĉiujn ŝlositajn versiojn, rulu `make lock-upgrade`.
 
@@ -86,7 +104,10 @@ La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `elig
 
 - Gardu YAML-on valida kaj preferu ekzistantan proksiman strukturon anstataŭ enkonduki novajn formatojn.
 - Metu inter citilojn YAML-valorojn, kiuj povus esti interpretataj kiel buleaj aŭ specialaj skalaroj, ekzemple `on`, `off`, `yes`, aŭ valorojn enhavantajn apostrofojn.
-- Por gramatika Markdown, sekvu la konvenciojn en `KONTRIBUADO.md`: Esperantaj ekzemploj uzas `*...*`, tradukoj estas apartigitaj per `–`, kaj emfazitaj morfemoj uzas `__...__`.
+- Antaŭ enhavaj ŝanĝoj, legu la koncernajn dosierojn en `specifoj/tradukenda/`; ili superas ekzemplojn aŭ malnovajn kutimojn en ekzistantaj tradukoj.
+- Kiam tasko sekvas reuzeblan agentan laborfluon, legu la taŭgan prompton en `ai/`, ekzemple `ai/plibonigi-tradukon.md` por tradukaj plibonigoj aŭ `ai/generi-og-bildojn.md` por OG-bildoj.
+- Post kiam KI aŭ aŭtomatigita agento redaktis YAML-dosierojn, ĉiam rulu `venv/bin/python iloj/normaligu-yaml.py <koncernaj vojoj>` por la tuŝitaj dosieroj aŭ dosierujoj antaŭ validigo aŭ commit. Por normaligi la tutan `enhavo/`, uzu `make normalize-yaml`.
+- Por gramatika Markdown, sekvu la konvenciojn en `KONTRIBUADO.md`: Esperantaj ekzemploj uzas kursivon, tradukoj estas apartigitaj per `–`, emfazitaj morfemoj uzas normalan Markdown-formon kiel `_patr**in**o_` aŭ `_**-o**_`, kaj fluaj alineoj ne ricevas manajn linisaltojn meze de frazo.
 - Kiam vi aldonas aŭ ĝisdatigas lingvon, spegulu la ekzistantan dosierujan strukturon sub `enhavo/tradukenda/`.
 - Ne modifu `enhavo/netradukenda/tekstoj/` krom se la uzanto eksplicite konfirmas licencokonscian ŝanĝon.
 

@@ -1,70 +1,64 @@
-- 
-  demando: Hoe was je oude thuis?
+- demando: Hoe was je oude thuis?
   rektatraduko:
-    - Kia: Hoe(danig)
-    - estis: was
-    - via: je
-    - malnova: oude
-    - hejmo: thuis
-    - '?'
-- 
-  demando: Welke boeken heb jij gelezen en zijn ze goed?
+  - Kia: Hoe(danig)
+  - estis: was
+  - via: je
+  - malnova: oude
+  - hejmo: thuis
+  - '?'
+- demando: Welke boeken heb jij gelezen en zijn ze goed?
   rektatraduko:
-    - Kiujn: Welke
-    - librojn: boeken
-    - vi: jij
-    - legis: hebt gelezen
-    - kaj: en 
-    - ĉu: of
-    - ili: ze
-    - estas: zijn
-    - bonaj: goed
-    - '?'
-- 
-  demando: Wat deden Anna en Marko in de kleine kamer van Marko?
+  - Kiujn: Welke
+  - librojn: boeken
+  - vi: jij
+  - legis: hebt gelezen
+  - kaj: en
+  - ĉu: of
+  - ili: ze
+  - estas: zijn
+  - bonaj: goed
+  - '?'
+- demando: Wat deden Ana en Marko in de kleine kamer van Marko?
   rektatraduko:
-    - Kion: Wat
-    - faris: deden
-    - Anna: Anna
-    - kaj: en
-    - Marko: Marko
-    - en: in
-    - la: de
-    - malgranda: kleine
-    - ĉambro: kamer
-    - de: van
-    - Marko: Marko
-    - '?'
-- 
-  demando: Houd je van boeken lezen over liefde?
+  - Kion: Wat
+  - faris: deden
+  - Ana: Ana
+  - kaj: en
+  - Marko: Marko
+  - en: in
+  - la: de
+  - malgranda: kleine
+  - ĉambro: kamer
+  - de: van
+  - Marko: Marko
+  - '?'
+- demando: Houd je van boeken lezen over liefde?
   rektatraduko:
-    - Ĉu: Of
-    - vi: je
-    - ŝatas: houdt van
-    - legi: lezen
-    - librojn: boeken
-    - pri: over
-    - amo: liefde
-    - '?'
-- 
-  demando: Wie zal met u naar uw thuis gaan?
+  - Ĉu: Of
+  - vi: je
+  - ŝatas: houdt van
+  - legi: lezen
+  - librojn: boeken
+  - pri: over
+  - amo: liefde
+  - '?'
+- demando: Wie zal met u naar uw thuis gaan?
   rektatraduko:
-    - Kiu: Wie
-    - iros: zal gaan
-    - kun: met
-    - vi: u
-    - al: naar 
-    - via: uw
-    - hejmo: thuis
-    - '?'
-- 
-  demando: Hoe(danig) zijn de ogen van uw vriendin?
+  - Kiu: Wie
+  - iros: zal gaan
+  - kun: met
+  - vi: u
+  - al: naar
+  - via: uw
+  - hejmo: thuis
+  - '?'
+- demando: Hoe zijn de ogen van je vriendin?
   rektatraduko:
-    - Kiaj: Hoe(danig)
-    - estas: zijn
-    - la: de
-    - okuloj: ogen
-    - de: van
-    - via: uw
-    - amikino: vriendin
-    - '?'
+  - Kiaj: Hoe(danig)
+  - estas: zijn
+  - la: de
+  - okuloj: ogen
+  - de: van
+  - via: uw
+  - amikino: vriendin
+  - '?'

@@ -1,8 +1,5 @@
-- Nauči te **500 najpomembnejših besed**
-- **Brezplačno** in **brez registracije**
-- S [kompletom učnih kartic]({{ url.kartaro }}) za [Anki]({{ url.anki }})
+- Nauči se **500 najpomembnejših besed**
+- Razumi **95 % govorjenega esperanta**
+- **Brezplačno** in brez prijave
 
-Po tečaju boš **razumel bistveno**, tvoril svoje stavke in znal sporočiti osnovne misli v vsakdanjih situacijah.
-
-Preprosto poskusi!
-____
+Potem boš lahko sledil preprostim pogovorom, tvoril svoje stavke in šel naravnost na [naslednje esperantsko srečanje](https://eventaservo.org/).

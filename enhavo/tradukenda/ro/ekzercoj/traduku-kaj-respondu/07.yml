@@ -1,77 +1,71 @@
--
-  demando: Cine avea cartea pe care o așteptai de mai mult de doi ani?
+- demando: Cine avea cartea pe care o așteptai de mai mult de doi ani?
   rektatraduko:
-    - Kiu: Cine
-    - havis: avea
-    - la: (articol)
-    - libron: carte
-    - ','
-    - kiun: pe care
-    - vi: tu
-    - atendis: așteptai
-    - pli: mai mult
-    - ol: decât
-    - du: doi
-    - jarojn: ani
-    - '?'
--
-  demando: Vrei să îți arăt fotografia mea cea mai dragă?
+  - Kiu: Cine
+  - havis: avea
+  - la: (articol)
+  - libron: carte
+  - ','
+  - kiun: pe care
+  - vi: tu
+  - atendis: așteptai
+  - pli: mai mult
+  - ol: decât
+  - du: doi
+  - jarojn: ani
+  - '?'
+- demando: Vrei să îți arăt fotografia mea cea mai dragă?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - volas: vrei
-    - ','
-    - ke: ca
-    - mi: eu
-    - montru: să arăt
-    - al: către
-    - vi: tine
-    - mian: mea
-    - plej: cea mai
-    - karan: dragă
-    - foton: fotografie
-    - '?'
--
-  demando: Unde ai cumpărat acel articol de îmbrăcăminte?
+  - Ĉu: oare
+  - vi: tu
+  - volas: vrei
+  - ','
+  - ke: ca
+  - mi: eu
+  - montru: să arăt
+  - al: către
+  - vi: tine
+  - mian: mea
+  - plej: cea mai
+  - karan: dragă
+  - foton: fotografie
+  - '?'
+- demando: Unde ai cumpărat acel articol de îmbrăcăminte?
   rektatraduko:
-    - Kie: Unde
-    - vi: tu
-    - aĉetis: ai cumpărat
-    - tiun: acel
-    - vestaĵon: articol de îmbrăcăminte
-    - '?'
--
-  demando: Încotro vei merge duminică dacă va fi o zi însorită?
+  - Kie: Unde
+  - vi: tu
+  - aĉetis: ai cumpărat
+  - tiun: acel
+  - vestaĵon: articol de îmbrăcăminte
+  - '?'
+- demando: Încotro vei merge duminică dacă va fi o zi însorită?
   rektatraduko:
-    - Kien: Încotro
-    - vi: tu
-    - iros: vei merge
-    - dimanĉe: duminică
-    - ','
-    - se: dacă
-    - estos: va fi
-    - suna: însorită
-    - tago: zi
-    - '?'
--
-  demando: A plecat deja fratele tău?
+  - Kien: Încotro
+  - vi: tu
+  - iros: vei merge
+  - dimanĉe: duminică
+  - ','
+  - se: dacă
+  - estos: va fi
+  - suna: însorită
+  - tago: zi
+  - '?'
+- demando: A plecat deja fratele tău?
   rektatraduko:
-    - Ĉu: oare
-    - via: tău
-    - frato: frate
-    - jam: deja
-    - ekiris: a plecat
-    - '?'
--
-  demando: Unde este apa pe care ai adus-o tu însuți?
+  - Ĉu: oare
+  - via: tău
+  - frato: frate
+  - jam: deja
+  - ekiris: a plecat
+  - '?'
+- demando: Unde este apa pe care ai adus-o tu însuți?
   rektatraduko:
-    - Kie: Unde
-    - estas: este
-    - la: (articol)
-    - akvo: apă
-    - ','
-    - kiun: pe care
-    - vi: tu
-    - mem: însuți
-    - kunportis: ai adus
-    - '?'
+  - Kie: Unde
+  - estas: este
+  - la: (articol)
+  - akvo: apă
+  - ','
+  - kiun: pe care
+  - vi: tu
+  - mem: însuți
+  - kunportis: ai adus
+  - '?'

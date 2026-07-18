@@ -1,72 +1,68 @@
-- 
-  demando: Önskar du att jag ska visa dig min nyaste bok?
-  rektatraduko: 
-    - Ĉu: (frågepartikeln)
-    - vi: du
-    - deziras: önskar
-    - ',' 
-    - ke: att
-    - mi: jag
-    - montru: visar
-    - al: åt
-    - vi: dig
-    - mian: min
-    - plej: mest
-    - novan: nya
-    - libron: bok
-    - '?'
-- 
-  demando: Vad vill du äta till frukost imorgon?
-  rektatraduko: 
-    - Kion: Vad
-    - vi: du
-    - volas: vill
-    - morgaŭ: imorgon
-    - matenmanĝi: äta frukost
-    - '?'
-- 
-  demando: När kommer Marko, klockan fem eller klockan åtta?
-  rektatraduko: 
-    - Kiam: När
-    - Marko: Marko
-    - alvenos: anläder
-    - ',' 
-    - je: (preposition som är vanlig vid tid)
-    - la: (bestämd artikel)
-    - kvina: femte
-    - aŭ: eller
-    - je: (preposition som är vanlig vid tid)
-    - la: den
-    - oka: åttonde
-    - horo: timme
-    - '?'
-- 
-  demando: När märkte du att hela familjen kallar mig "den gode"?
-  rektatraduko: 
-    - Kiam: När
-    - vi: du
-    - rimarkis: märkte
-    - ','  
-    - ke: att
-    - la: (bestämd artikel)
-    - tuta: hel
-    - familio: familj
-    - nomas: kallar
-    - min: mig
-    - bonfarulo: god person
-    - '?'
-- 
-  demando: Var häftet användbart, som jag skickade?
-  rektatraduko: 
-    - Ĉu: (frågepartikeln)
-    - la: (bestämd artikel)
-    - libreto: häfte, liten bok
-    - estis: var
-    - utila: användbar
-    - al: till
-    - vi: dig
-    - ',' 
-    - kiun: som (vilket)
-    - mi: jag
-    - sendis: skickade
-    - '?'
+- demando: Önskar du att jag ska visa dig min nyaste bok?
+  rektatraduko:
+  - Ĉu: (frågepartikeln)
+  - vi: du
+  - deziras: önskar
+  - ','
+  - ke: att
+  - mi: jag
+  - montru: visar
+  - al: åt
+  - vi: dig
+  - mian: min
+  - plej: mest
+  - novan: nya
+  - libron: bok
+  - '?'
+- demando: Vad vill du äta till frukost imorgon?
+  rektatraduko:
+  - Kion: Vad
+  - vi: du
+  - volas: vill
+  - morgaŭ: imorgon
+  - matenmanĝi: äta frukost
+  - '?'
+- demando: När kommer Marko, klockan fem eller klockan åtta?
+  rektatraduko:
+  - Kiam: När
+  - Marko: Marko
+  - alvenos: anländer
+  - ','
+  - je: (preposition som är vanlig vid tid)
+  - la: (bestämd artikel)
+  - kvina: femte
+  - aŭ: eller
+  - je: (preposition som är vanlig vid tid)
+  - la: den
+  - oka: åttonde
+  - horo: timme
+  - '?'
+- demando: När märkte du att hela familjen kallar mig "den gode"?
+  rektatraduko:
+  - Kiam: När
+  - vi: du
+  - rimarkis: märkte
+  - ','
+  - ke: att
+  - la: (bestämd artikel)
+  - tuta: hel
+  - familio: familj
+  - nomas: kallar
+  - min: mig
+  - bonfarulo: god person
+  - '?'
+- demando: Var häftet användbart, som jag skickade?
+  rektatraduko:
+  - Ĉu: (frågepartikeln)
+  - la: (bestämd artikel)
+  - libreto: häfte, liten bok
+  - ','
+  - kiun: som (vilket)
+  - mi: jag
+  - sendis: skickade
+  - al: till
+  - vi: dig
+  - ','
+  - estis: var
+  - utila: användbar
+  - '?'

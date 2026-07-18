@@ -1,70 +1,64 @@
-- 
-  demando: آپکا پرانا گھر کس طرح کا تھا؟
-  rektatraduko: 
-    - Kia: کس طرح کا
-    - estis: تھا
-    - via: آپکا
-    - malnova: پرانا
-    - hejmo: گھر 
-    - '?': ؟
-- 
-  demando: آپ نے کونسی کتابیں پڑھیں، اور کیا وہ اچھی تھیں؟
-  rektatraduko: 
-    - Kiujn: کونسی
-    - librojn: کتابیں
-    - vi: آپ
-    - legis: پڑھا
-    - kaj: اور
-    - ĉu: کیا۔آیا
-    - ili: وہ
-    - estas: ہیں
-    - bonaj: اچھا 
-    - '?': ؟
-- 
-  demando: "اینا اور مارک، مارک کے جھوٹے کمرے میں کیا کر رہے تھے؟"
+- demando: آپ کا پرانا گھر کیسا تھا؟
   rektatraduko:
-    - Kion: کیا
-    - faris: کر رہے تھے
-    - Anna: اینا
-    - kaj: اور
-    - Marko: مارک
-    - en: میں
-    - la: حرف تخصیص جیسے عربی میں ال
-    - malgranda: چھوٹا
-    - ĉambro: کمرہ
-    - de: کا۔کی
-    - Marko: مارک
-    - '?': ؟
-- 
-  demando: کیا آپ کو محبت کے متعلق کتابیں پڑھنا پسند ہے؟
-  rektatraduko: 
-    - Ĉu: کیا۔آیا
-    - vi: آپ
-    - ŝatas: پسند کرتا ہے
-    - legi: پڑھنا
-    - librojn: کتابیں
-    - pri: کے متعلق
-    - amo: محبت
-    - '?': ؟
-- 
-  demando: آپکے ساتھ کون آپکے گھر جائیگا؟
-  rektatraduko: 
-    - Kiu: کون
-    - iros: جائے گا
-    - kun: کے ساتھ
-    - vi: آپ
-    - al: کو
-    - via: آپکا
-    - hejmo: گھر
-    - '?': ؟
-- 
-  demando: "آپکی سہیلی کی آنکھیں کس طرح کی ہیں؟"
-  rektatraduko: 
-    - Kiaj: کس طرح کا
-    - estas: ہیں
-    - la: حرف تخصیص جیسے عربی میں ال
-    - okuloj: آنکھیں
-    - de: کا۔کی
-    - via: آپکا
-    - amikino: سہیلی
-    - '?': ؟
+  - Kia: کیسا
+  - estis: تھا
+  - via: آپ کا
+  - malnova: پرانا
+  - hejmo: گھر
+  - '?'
+- demando: آپ نے کون سی کتابیں پڑھیں، اور کیا وہ اچھی تھیں؟
+  rektatraduko:
+  - Kiujn: کون سی
+  - librojn: کتابیں
+  - vi: آپ
+  - legis: پڑھیں
+  - kaj: اور
+  - ĉu: کیا
+  - ili: وہ
+  - estas: ہیں
+  - bonaj: اچھی
+  - '?'
+- demando: آنا اور مارک، مارک کے چھوٹے کمرے میں کیا کر رہے تھے؟
+  rektatraduko:
+  - Kion: کیا
+  - faris: کر رہے تھے
+  - Ana: آنا
+  - kaj: اور
+  - Marko: مارک
+  - en: میں
+  - la: متعین حرف
+  - malgranda: چھوٹا
+  - ĉambro: کمرہ
+  - de: کا
+  - Marko: مارک
+  - '?'
+- demando: کیا آپ کو محبت کے بارے میں کتابیں پڑھنا پسند ہے؟
+  rektatraduko:
+  - Ĉu: کیا
+  - vi: آپ
+  - ŝatas: پسند کرتے ہیں
+  - legi: پڑھنا
+  - librojn: کتابیں
+  - pri: کے بارے میں
+  - amo: محبت
+  - '?'
+- demando: آپ کے ساتھ آپ کے گھر کون جائے گا؟
+  rektatraduko:
+  - Kiu: کون
+  - iros: جائے گا
+  - kun: کے ساتھ
+  - vi: آپ
+  - al: کو
+  - via: آپ کا
+  - hejmo: گھر
+  - '?'
+- demando: آپ کی سہیلی کی آنکھیں کیسی ہیں؟
+  rektatraduko:
+  - Kiaj: کیسی
+  - estas: ہیں
+  - la: متعین حرف
+  - okuloj: آنکھیں
+  - de: کی
+  - via: آپ کی
+  - amikino: سہیلی
+  - '?'

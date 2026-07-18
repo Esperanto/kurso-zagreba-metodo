@@ -1,86 +1,80 @@
-- 
-  demando: Kto wyczyści kuchnię po obiedzie?
-  rektatraduko: 
-    - Kiu: Kto
-    - purigos: wyczyści
-    - la:  (przedimek określony)
-    - kuirejon: kuchnię
-    - post: po
-    - la:  (przedimek określony)
-    - tagmanĝo: obiad
-    - '?'
-- 
-  demando: "Czego chcecie się napić: herbaty, trochę kawy lub nie chcecie niczego?"
-  rektatraduko: 
-    - Kion: Czego
-    - vi: wy
-    - volas: chcecie
-    - trinki: pić
-    - ':' 
-    - teon: herbatę
-    - ',' 
-    - iom: trochę
-    - da: od
-    - kafo: kawa
-    - aŭ: lub
-    - ĉu: czy
-    - vi: wy
-    - volas: chcecie
-    - nenion: nic
-    - '?'
-- 
-  demando: Dlaczego tak niespodziewanie zdecydowałeś się odnowić twój pokoik?
-  rektatraduko: 
-    - Kial: Dlaczego
-    - vi: ty
-    - tiel: tak
-    - subite: niespodziewanie
-    - decidis: zdecydowałeś
-    - renovigi: odnowić
-    - vian: twój
-    - ĉambreton: mały pokój
-    - '?'
-- 
-  demando: Komu dałeś czyste szklanki na wino?
-  rektatraduko: 
-    - Al: Do
-    - kiu: kto
-    - vi: ty
-    - donis: dałeś
-    - la: (przedimek określony)
-    - purajn: czyste
-    - glasojn: szklanki
-    - por: dla 
-    - la: (przedimek określony)
-    - vino: wino
-    - '?'
-- 
-  demando: Przeciwko komu grał twój klub sportowy przed dwoma tygodniami?
-  rektatraduko: 
-    - Kontraŭ: Przeciw
-    - kiu: kto
-    - ludis: grał
-    - via: twój
-    - sportklubo: klub sportowy
-    - antaŭ: przed
-    - du: dwa
-    - semajnoj: tygodnie
-    - '?'
-- 
-  demando: Czy często widzisz policjanta, który mieszka w mieszkaniu nad tobą?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - ofte: często
-    - vidas: widzisz
-    - la: (przedimek określony)
-    - policiston: policjanta
-    - ',' 
-    - kiu: który
-    - loĝas: mieszka
-    - en: w
-    - la: (przedimek określony)
-    - loĝejo: mieszkanie
-    - super: ponad
-    - vi: ty
-    - '?'
+- demando: Kto wyczyści kuchnię po obiedzie?
+  rektatraduko:
+  - Kiu: Kto
+  - purigos: wyczyści
+  - la: (przedimek określony)
+  - kuirejon: kuchnię
+  - post: po
+  - la: (przedimek określony)
+  - tagmanĝo: obiad
+  - '?'
+- demando: 'Czego chcesz się napić: herbaty, kawy czy niczego?'
+  rektatraduko:
+  - Kion: Czego
+  - vi: ty
+  - volas: chcesz
+  - trinki: pić
+  - ':'
+  - teon: herbatę
+  - ','
+  - iom: trochę
+  - da: miara ilości
+  - kafo: kawa
+  - aŭ: lub
+  - ĉu: czy
+  - vi: ty
+  - volas: chcesz
+  - nenion: nic
+  - '?'
+- demando: Dlaczego tak nagle zdecydowałeś się odnowić swój pokoik?
+  rektatraduko:
+  - Kial: Dlaczego
+  - vi: ty
+  - tiel: tak
+  - subite: niespodziewanie
+  - decidis: zdecydowałeś
+  - renovigi: odnowić
+  - vian: twój
+  - ĉambreton: mały pokój
+  - '?'
+- demando: Komu dałeś czyste szklanki na wino?
+  rektatraduko:
+  - Al: Do
+  - kiu: kto
+  - vi: ty
+  - donis: dałeś
+  - la: (przedimek określony)
+  - purajn: czyste
+  - glasojn: szklanki
+  - por: dla
+  - la: (przedimek określony)
+  - vino: wino
+  - '?'
+- demando: Przeciwko komu grał twój klub sportowy dwa tygodnie temu?
+  rektatraduko:
+  - Kontraŭ: Przeciw
+  - kiu: kto
+  - ludis: grał
+  - via: twój
+  - sportklubo: klub sportowy
+  - antaŭ: przed
+  - du: dwa
+  - semajnoj: tygodnie
+  - '?'
+- demando: Czy często widzisz policjanta, który mieszka w mieszkaniu nad tobą?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - ofte: często
+  - vidas: widzisz
+  - la: (przedimek określony)
+  - policiston: policjanta
+  - ','
+  - kiu: który
+  - loĝas: mieszka
+  - en: w
+  - la: (przedimek określony)
+  - loĝejo: mieszkanie
+  - super: nad
+  - vi: ty
+  - '?'

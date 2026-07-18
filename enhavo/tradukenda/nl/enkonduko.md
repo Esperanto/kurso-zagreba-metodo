@@ -1,8 +1,5 @@
-- Leert je de **500 belangrijkste woorden**
-- **Gratis** en **zonder registratie**
-- Met [flashcarddeck]({{ url.kartaro }}) voor [Anki]({{ url.anki }})
+- Leer de **500 belangrijkste woorden**
+- Begrijp **95 % van gesproken Esperanto**
+- **Gratis** en zonder registratie
 
-Na de cursus zul je **de essentie begrijpen**, je eigen zinnen vormen en basisideeën kunnen communiceren in alledaagse situaties.
-
-Probeer het gewoon!
-____
+Daarna kun je eenvoudige gesprekken volgen, je eigen zinnen maken en direct naar de [volgende Esperanto-bijeenkomst](https://eventaservo.org/) gaan.

@@ -1,8 +1,5 @@
-- Enseña las **500 palabras más importantes**
-- **Gratis** y **sin registro**
-- Con [mazo de tarjetas]({{ url.kartaro }}) para [Anki]({{ url.anki }})
+- Aprende las **500 palabras más importantes**
+- Entiende el **95 % del esperanto hablado**
+- **Gratis** y sin registro
 
-Después del curso, **entenderás lo esencial**, formarás tus propias frases y podrás comunicar ideas básicas en situaciones cotidianas.
-
-¡Pruébalo!
-____
+Después podrás seguir conversaciones sencillas, formar tus propias frases e ir directamente al [próximo encuentro de esperanto](https://eventaservo.org/).

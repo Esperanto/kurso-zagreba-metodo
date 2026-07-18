@@ -1,87 +1,71 @@
-- 
-  demando: Qui tenia el llibre que vas estar esperant més de dos anys?
-  rektatraduko: 
-    - Kiu: Qui
-    - havis: tenia
-    - la: el
-    - libron: llibre
-    - ',' 
-    - kiun: que
-    - vi: tu
-    - atendis: vas estar esperant
-    - pli: més
-    - ol: de
-    - du: dos
-    - jarojn: anys
-    - '?'
-- 
-  demando: Vols que t'ensenyi la fotografía que més aprecio?
-  rektatraduko: 
-    - Ĉu: ¿
-    - vi: Tu
-    - volas: vols
-    - ','
-    - ke: que
-    - mi: jo
-    - montru: ensenyi
-    - al: a 
-    - vi: tu
-    - mian: la meva
-    - plej: més
-    - karan: apreciada
-    - foton: fotografía
-    - '?'
-- 
-  demando: On has comprat aquest vestit?
-  rektatraduko: 
-    - Kie: 'On'
-    - vi: tu
-    - aĉetis: has comprat
-    - ĉi tiun: aquest
-    - vestaĵon: vestit
-    - '?'
-- 
-  demando: On aniràs el diumenge si és un dia assolellat?
-  rektatraduko: 
-    - Kien: 'On'
-    - vi: tu
-    - iros: aniràs
-    - dimanĉe: el diumenge
-    - ',' 
-    - se: si
-    - estos: és
-    - suna: assolellat
-    - tago: dia
-    - '?'
-- 
-  demando: El teu germà ja se n'ha anat?
-  rektatraduko: 
-    - Ĉu: ¿
-    - via: El teu
-    - frato: germà
-    - jam: ja
-    - foriris: se n'ha anat
-    - '?'
-- 
-  demando: On és l'aigua que tu mateix has portat?
-  rektatraduko: 
-    - Kie: "On"
-    - estas: és
-    - la: la
-    - akvo: aigua
-    - ',' 
-    - kiun: que
-    - vi: tu
-    - mem: mateix
-    - kunportis: has portat
-    - '?'
--
-  demando: Ja s'ha enviat la carta?
+- demando: Qui tenia el llibre que vas estar esperant més de dos anys?
   rektatraduko:
-    - Ĉu: ¿
-    - la: la
-    - letero: carta
-    - jam: ja
-    - estas: és
-    - sendita: enviada
-    - '?'
+  - Kiu: Qui
+  - havis: tenia
+  - la: el
+  - libron: llibre
+  - ','
+  - kiun: que
+  - vi: tu
+  - atendis: vas estar esperant
+  - pli: més
+  - ol: de
+  - du: dos
+  - jarojn: anys
+  - '?'
+- demando: Vols que t'ensenyi la fotografia que més aprecio?
+  rektatraduko:
+  - Ĉu: Que
+  - vi: Tu
+  - volas: vols
+  - ','
+  - ke: que
+  - mi: jo
+  - montru: t'ensenyi
+  - al: a
+  - vi: tu
+  - mian: la meva
+  - plej: més
+  - karan: apreciada
+  - foton: fotografia
+  - '?'
+- demando: On has comprat aquesta peça de roba?
+  rektatraduko:
+  - Kie: 'On'
+  - vi: tu
+  - aĉetis: has comprat
+  - tiun: aquest
+  - vestaĵon: peça de roba
+  - '?'
+- demando: On aniràs el diumenge si és un dia assolellat?
+  rektatraduko:
+  - Kien: 'On'
+  - vi: tu
+  - iros: aniràs
+  - dimanĉe: el diumenge
+  - ','
+  - se: si
+  - estos: és
+  - suna: assolellat
+  - tago: dia
+  - '?'
+- demando: El teu germà ja se n'ha anat?
+  rektatraduko:
+  - Ĉu: Que
+  - via: El teu
+  - frato: germà
+  - jam: ja
+  - ekiris: se n'ha anat
+  - '?'
+- demando: On és l'aigua que tu mateix has portat?
+  rektatraduko:
+  - Kie: 'On'
+  - estas: és
+  - la: la
+  - akvo: aigua
+  - ','
+  - kiun: que
+  - vi: tu
+  - mem: mateix
+  - kunportis: has portat
+  - '?'

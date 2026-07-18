@@ -1,8 +1,7 @@
-Esperanto: Esperanto
 akcepteblan: akceptowalny
 alilandaj: zagraniczne
 alporti: przynieść
-alportis: przyniósł 
+alportis: przyniósł
 alvenigas: sprowadza tutaj
 alvenis: przybył
 alvenos: przybędzie
@@ -14,8 +13,8 @@ arbaro: las
 arbetoj: krzewy
 arboplena: pełen drzew
 aĉetumos: będzie robił zakupy
-aĉodora: źle pachnący 
-aŭdiĝis: brzmiał
+aĉodora: źle pachnący
+aŭdiĝis: rozległ się
 bedaŭrinde: niestety
 belaĵoj: piękne rzeczy
 beleta: uroczy
@@ -27,7 +26,7 @@ centoj: setki
 dankon: dziękuję
 daŭrigis: kontynuował
 denove: jeszcze raz
-devojiĝis: wykoleić się
+devojiĝis: zboczył z drogi
 dikiĝi: przytyć
 doloriga: bolesny
 dolorige: boleśnie
@@ -35,17 +34,17 @@ domegon: gmach
 dumnokte: w nocy
 dumtage: w ciągu dnia
 ekkriis: zaczął krzyczeć
-ekmire: cudownie
+ekmire: ze zdumieniem
 ekparolis: zaczął mówić
 ekridis: zaczął się śmiać
-ekrigardis: zaczął patrzeć
+ekrigardis: spojrzał
 eksaltis: zaczął skakać
 ekscii: dowiedzieć się
 eksidis: usiadł
 ekstervoje: poza drogą
-ekveturas: wyjechać
-ekvidis: ujrzeć
-elstaraj: 
+ekveturas: wyrusza
+ekvidis: ujrzał
+elstaraj:
 - wyróżniający się
 - wybitny
 eniri:
@@ -53,13 +52,14 @@ eniri:
 - wejść
 eniris: wszedł
 eniru: wchodź!
+Esperanto: esperanto
 facilmovaj: łatwe do ruszenia
 faligi:
+- upuszczać
 - przewracać
-- powalać
-faligis: przewrócił
+faligis: upuścił
 familianoj: członkowie rodziny
-fermita: zamknięty 
+fermita: zamknięty
 fine: w końcu
 foresti: być nieobecnym
 foriros: odejdzie
@@ -67,9 +67,9 @@ fratino: siostra
 fuŝparolis: powiedział mylnie
 geamikoj: przyjaciele
 gefratoj: rodzeństwo
-gelernantojn: uczniowie
+gelernantojn: uczniów i uczennice
 gepatroj: rodzice
-gondolisto: gondolier 
+gondolisto: gondolier
 gondolistoj: gondolierzy
 grafino: hrabina
 grafinon: hrabinę
@@ -79,10 +79,10 @@ haltigis: zatrzymał
 havigi: dostarczać
 havindan: godny posiadania
 homformo: kształt człowieka
-hommulton: tłum
+hommulton: tłum ludzi
 ideoriĉan: o bujnej wyobraźni
 industriisto: przemysłowiec
-instruistino: nauczycielka 
+instruistino: nauczycielka
 instruiston: nauczyciela
 intervidiĝas: widzą siebie nawzajem
 iron: chód
@@ -95,23 +95,23 @@ kafejon: kawiarnię
 karulino: kochanie (kobieta)
 karulo: kochanie (mężczyzna)
 klarigis: wyjaśnił
-klarigon: wyjaśnienie 
+klarigon: wyjaśnienie
 klubanoj: członkowie klubu
-kompreneble: 
+kompreneble:
 - oczywiście
 - zrozumiale
 korpoforton: siłę fizyczną
 kunmanĝos: będą jedli razem
 kunporti: przynieść ze sobą
 kunulino: towarzyszka
-kunvenas: zbierać się
+kunvenas: zbierają się
 laboristo: pracownik
 lampeto: lampka
 lernanto:
 - uczeń
 - student
 lernejo: szkoła
-lernejon: szkołę 
+lernejon: szkołę
 lernolibroj: podręczniki
 leteroj: listy
 libertempo:
@@ -119,8 +119,8 @@ libertempo:
 - urlop
 libroj: książki
 lumigis:
-- naświetlić
-- oświecać
+- oświetlił
+- rozświetlił
 malagrabla: nieprzyjemny
 malbela: brzydki
 malbonaj: źli
@@ -132,7 +132,7 @@ malfacile: trudno
 malfeliĉo: nieszczęście
 malforta: słaby
 malforte: słabo
-malfruas: spóźnia się 
+malfruas: spóźnia się
 malfrue: późno
 malfrui: być spóźnionym
 malgranda:
@@ -140,18 +140,18 @@ malgranda:
 - niewielki
 malhelpis: przeszkodził
 malinterese: nieinteresująco
-malkontentigi: zasmucić
+malkontentigi: wywołać niezadowolenie
 mallaŭte: cicho
 malliberejon: więzienie
 mallumo: ciemność
 malmulte: niewiele
-malmultekosta: tani 
+malmultekosta: tani
 malmulton: mało
 malnova: stary
 malnovaj: stare
-malofte: rzadko 
-malplaĉa: paskudny
-malplaĉan: paskudny 
+malofte: rzadko
+malplaĉa: nieprzyjemny
+malplaĉan: nieprzyjemny
 malproksime: daleko
 malsaniĝis: zachorował
 malsaĝa: głupi
@@ -177,7 +177,7 @@ morgaŭan: jutrzejszy
 mortigo: morderstwo
 moviĝis: poruszył się
 multekosta: drogi
-multpiedaj: dotyczący wielu stóp
+multpiedaj: wielonożne
 naskiĝtaga: urodzinowy
 naskiĝtago: urodziny
 naturaĵojn: naturalne rzeczy
@@ -188,11 +188,13 @@ novaĵoj: wiadomości
 opinion: opinię
 ordigi: porządkować
 paperoj: papiery
-paperojn:  papiery
+paperojn: papiery
 paperujon: teczkę
 pasigos: spędzi
 patrino: matka
-perdigis: powodować stratę
+perdigis:
+- zgubił
+- spowodował utratę
 plenigadis: wypełniał
 plenumis: wypełnił
 plibeligis: upiększył
@@ -220,7 +222,7 @@ samklubanoj: członkowie tego samego klubu
 sekretajn: sekretne
 sekreton: sekret
 senbrue: cicho
-seninterese: bez zainteresowania
+seninterese: obojętnie
 senkolora: bezbarwny
 sensukcese: bezskutecznie
 sentimulo: człowiek nieznający strachu
@@ -247,21 +249,21 @@ urbomezo: centrum miasta
 vagonaro: pociąg
 vendejo: sklep
 vendejon: sklep
-vendisto: sprzedawca 
+vendisto: sprzedawca
 vestaĵo: ubranie
 vestaĵoj: ubrania
-vestaĵojn: ubrania 
+vestaĵojn: ubrania
 vestaĵon: ubranie
 veturado:
 - jazda
-veturigus: prowadziłby (np. samochód)
+veturigus: zawiózłby, przewiózłby
 viaj: twoje
 virino: kobieta
 vojaĝantoj: podróżnicy
-ĉambristoj: kamerdynerzy
+ĉambristoj: obsługa pokojowa
 ĉeesto: obecność
 ĉirkaŭaĵo: otoczenie
 ĝenon: przeszkodę
 ĝustatempe: we właściwym czasie
-ŝiaj: jej 
+ŝiaj: jej
 ŝipkuron: wyścig statków

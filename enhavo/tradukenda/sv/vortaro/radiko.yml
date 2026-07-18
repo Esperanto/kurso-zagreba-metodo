@@ -1,30 +1,37 @@
-afer: 
+afer:
 - sak
 - företeelse
+ag:
+- agera
+- handla
 agrabl: trevlig
 akcept: acceptera
 akv: vatten
 ali: annan
 alt: hög
-am: 
+am:
 - kärlek
 - älska
 amik: vän
+aper:
+- framträda
+- dyka upp
 arb: träd
 aspekt: se ut
 atend: vänta
-atent: 
+atent:
 - akta
 - uppmärksamma
 - se upp
 aĉet: köpa
 aŭd: höra
+aŭskult: lyssna
 aŭt: bil
-aŭtoritat: 
+aŭtoritat:
 - auktoritet
 - myndighet
 bedaŭr: beklaga
-bel: 
+bel:
 - vacker
 - snygg
 best: djur
@@ -33,7 +40,7 @@ bien:
 - egendom
 - gård
 - gods
-bon: 
+bon:
 - bra
 - god
 branĉ: gren
@@ -41,21 +48,22 @@ bru: buller
 buŝ: mun
 cert: säker
 dank: tacka
-daŭr: 
+daŭr:
 - fortgå
 - pågå
 - vara
 decid: bestämma
 demand: fråga
-dev: 
-  - måsta
-  - vara tvungen
+dev:
+- måste
+- vara tvungen
 dezir: önska
 diabl: djävul
 dik: tjock
 dimanĉ: söndag
 dir: säga
 direkt: riktning
+divers: av olika slag
 doktor: doktor
 dolar: dollar
 dolor:
@@ -66,11 +74,12 @@ dom: hus
 don: ge
 dorm: sova
 doĝ: doge (hög ämbetsman i Venedig)
-edz: 
+edz:
 - make
 - man
-efektiv: i själva verket
+efektiv: faktisk
 ekskurs: utflykt
+ekzempl: exempel
 esper: hoppas
 est: vara, finnas
 facil:
@@ -80,14 +89,14 @@ fakt: fakta
 fal: falla
 famili: familj
 far: göra
-fart: 
+fart:
 - må
 - känna sig
 feliĉ: lycklig
-ferm: stänga 
+ferm: stänga
 fin: slut
 flank: sida
-foj: 
+foj:
 - gång
 - tillfälle
 forges: glömma
@@ -96,9 +105,10 @@ fort: stark
 fot: foto
 frat: bror
 fru: tidig
-fuŝ: 
+fuŝ:
 - slarva
 - fördärva
+glas: dricksglas
 gondol: gondol
 graf: greve
 grand: stor
@@ -107,18 +117,22 @@ halt: stanna
 hav: ha
 hejm: hem
 help: hjälpa
-hom: männsika
+hom: människa
 hor: timme
 hotel: hotell
 ide: idé
-industri: industri 
+industri: industri
+infan: barn
+inform:
+- informera
+- information
 instru:
 - lära (någon)
 - lära ut
 - undervisa
 interes: intressera
 invit: bjuda in
-ir: 
+ir:
 - gå
 - åka
 itali: Italien
@@ -126,121 +140,137 @@ jar: år
 jun: ung
 kaf: kaffe
 kalv: flintskallig
+kant:
+- sång
+- sjunga
 kap: huvud
 kapabl: kapabel
 kapt: fånga
-kar: 
+kar:
 - kär
 - älskad
 kastel: slott
-kav: 
+kav:
 - håla
 - hålighet
 kelk: några
-kelner: 
+kelner:
 - kypare
 - servitör
-klar: 
+klar:
 - klar
 - tydlig
 klub: klubb
 knab: pojke
 koler: arg
 kolor: färg
-komenc: 
+komenc:
 - börja
 - påbörja
 kompren: förstå
 kon: känna (till)
+konsent:
+- samtycka
+- hålla med
+- instämma
 kontent: nöjd
 kontrol: kontrollera
 kor: hjärta
 korp: kropp
 kost: kosta
+kred: tro
 kri: skrika
 kuir: laga (mat)
-kuk: kaka 
+kuk: kaka
 kur: springa
-labor: 
+labor:
 - arbete
 - jobb
 lakt: mjölk
 lamp: lampa
 land: land
-larĝ: 
+larĝ:
 - bred
 - vid
+las: låta
 last: sista
-laŭt: hödljudd
+laŭt: högljudd
 lecion: lektion
 leg: läsa
 lern: lära sig
 leter: brev
-liber: 
+liber:
 - fri
 - ledig
 libr: bok
+lingv: språk
 lok: plats
 long: lång
-lud: 
+loĝ: bo
+lud:
 - spela
 - leka
 lum: ljus
 man: hand
-mank: 
+manier: sätt
+mank:
 - saknas
 - fattas
 manĝ: äta
 mar: hav
 maten: morgon
 memor: minnas
-met: 
+met:
 - sätta
 - ställa
 - lägga
 mez: mitt
 milit: krig
 minut: minut
-mir: 
+mir:
 - förvånas
 - förundras
 moment: ögonblick
 mon: pengar
+monat: månad
+mond: värld
 mont: berg
-montr: 
+montr:
 - visa
 - peka ut
 mort: dö
 mov: (för)flytta
 mult: många
 muzik: musik
+naci: nation
 nask: föda (barn)
 natur: natur
 neces: nödvändig
 nokt: natt
 nom: namn
-not: 
+not:
 - anteckning
 - betyg
 nov: ny
 odor: lukt
 oft: ofta
-okaz: 
+okaz:
 - hända
 - inträffa
 okul: öga
-onkl: 
+onkl:
 - farbror
 - morbror
 opini: åsikt
 ord: ordning
 orel: öra
+organiz: organisera
 pac: fred
 pag: betala
 pan: bröd
 paper: papper
 pardon: förlåta
-parol: 
+parol:
 - tala
 - prata
 part: del
@@ -248,15 +278,14 @@ pas: passera
 patr:
 - fader
 - far
-paŝ: 
+paŝ:
 - kliva
 - gå
-pens: 
+pens:
 - tänka
 - tycka
-perd: 
+perd:
 - tappa
-- mista
 - förlora
 person: person
 pet: be (om något)
@@ -265,53 +294,74 @@ pied: fot
 plac: torg
 plan: plan
 plaĉ: behaga
-plen: 
+plen:
 - full
 - fullständig
+plor: gråta
+pluv: regna
 polic: polis
 pord: dörr
 port: bära
 pov: kunna
+poŝ: ficka
+poŝt: post
 pren: ta
-pret: 
+pret:
 - färdig
 - redo
 prezent: presentera
 problem: problem
 proksim: nära
+proksimum: ungefär
 promen: promenera
 propon: föreslå
 prov: prova
-rajt: 
-  - få
-  - ha rätt till
+publik:
+- allmänhet
+- publik
+- offentlig
+punkt: punkt
+pur: ren
+rajt:
+- få
+- ha rätt till
+rakont: berätta
 rapid: snabb
 raport: rapportera
 real: verklig
-rekt: 
+rekt:
 - rak
 - direkt
-renkont: 
+renkont:
 - möta
 - träffa
 respekt: respektera
 respond: svara
-rest: 
+rest:
 - stanna kvar
 - förbli
 ricev: få
 rid: skratta
 rigard: titta
+rilat:
+- relation
+- förhållande
+- relatera
+rimark:
+- märka
+- lägga märke till
+- påpeka
 riĉ: rik
 rol: roll
 ruĝ: röd
 salt: hoppa
 salut: hälsa
-sam: 
+sam:
 - samma
 - likadan
 san: frisk
-saĝ: 
+sat: mätt
+saĝ:
 - vis
 - klok
 sci: veta
@@ -319,18 +369,25 @@ sek: torr
 sekret: hemlighet
 sekv: följa
 semajn: vecka
-send: 
+send:
 - sända
 - skicka
-serĉ: 
+sent:
+- känsla
+- känna
+serĉ:
 - söka
 - leta
+seĝ: stol
 si: sig
 sid: sitta
 silent: tyst
-simil: 
+simil:
 - lik
 - liknande
+simpl:
+- enkel
+- simpel
 sinjor:
 - herre
 - herr
@@ -344,10 +401,11 @@ star: stå
 strat: gata
 subit: plötslig
 sufiĉ: tillräcklig
+suk: saft
 sukces: lyckas
 sun: sol
 supr: ovanför
-tabl: bord 
+tabl: bord
 tag: dag
 te: te
 telefon: telefon
@@ -355,18 +413,24 @@ temp: tid
 temperatur: temperatur
 ten: hålla
 teror: terror
+terur:
+- förskräcklig
+- hemsk
+- förfärlig
 tim: rädsla
 ton: ton
 trankvil: lugn
 trink: dricka
 trov: hitta
 turk: turkisk
+tut: hel
 tuŝ:
 - röra
 - vidröra
 - beröra
+universal: universell
 urb: stad
-util: 
+util:
 - nyttig
 - användbar
 uz: använda
@@ -375,7 +439,7 @@ varm: varm
 ven: komma
 vend: sälja
 Veneci: Venedig
-ver: 
+ver:
 - sann
 - verklig
 vesper: kväll
@@ -389,7 +453,7 @@ vizaĝ: ansikte
 vizit: besöka
 voj: väg
 vojaĝ: resa
-vok: 
+vok:
 - kalla
 - ropa
 vol: vilja
@@ -397,26 +461,30 @@ vort: ord
 voĉ: röst
 zorg: bry sig
 ĉambr: rum
-ĉef: chef
+ĉef:
+- huvud-
+- chef
 ĝen:
 - störa
 - besvära
-ĝeneral: generellt
-ĝoj: glad
+ĝeneral: allmän
+ĝoj:
+- glädje
+- vara glad
 ĝust:
 - rätt
 - riktig
 ĵet: kasta
-ŝajn: 
+ŝajn:
 - förefalla
 - tyckas
 - verka
-ŝanĝ: 
+ŝanĝ:
 - ändra
 - byta
-ŝat: 
+ŝat:
 - tycka om
 - gilla
-ŝip: 
+ŝip:
 - båt
 - fartyg

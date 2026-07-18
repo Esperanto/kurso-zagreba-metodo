@@ -1,54 +1,49 @@
--
-  demando: Poți aduce medicamentul surorii mele?
+- demando: Poți aduce medicamentul surorii mele?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - povas: poți
-    - kunporti: aduce
-    - la: (articol)
-    - sanigilon: medicament
-    - de: al
-    - mia: mea
-    - fratino: soră
-    - '?'
--
-  demando: Când ai cumpărat acel instrument muzical?
+  - Ĉu: oare
+  - vi: tu
+  - povas: poți
+  - kunporti: aduce
+  - la: (articol)
+  - sanigilon: medicament
+  - de: al
+  - mia: mea
+  - fratino: soră
+  - '?'
+- demando: Când ai cumpărat acel instrument muzical?
   rektatraduko:
-    - Kiam: Când
-    - vi: tu
-    - aĉetis: ai cumpărat
-    - tiun: acel
-    - muzikilon: instrument muzical
-    - '?'
--
-  demando: Cine a folosit ultima dată cheia mea?
+  - Kiam: Când
+  - vi: tu
+  - aĉetis: ai cumpărat
+  - tiun: acel
+  - muzikilon: instrument muzical
+  - '?'
+- demando: Cine a folosit ultima dată cheia mea?
   rektatraduko:
-    - Kiu: Cine
-    - laste: ultima dată
-    - uzis: a folosit
-    - mian: mea
-    - ŝlosilon: cheie
-    - '?'
--
-  demando: Ai călătorit și prin Veneția cu gondola?
+  - Kiu: Cine
+  - laste: ultima dată
+  - uzis: a folosit
+  - mian: mea
+  - ŝlosilon: cheie
+  - '?'
+- demando: Ai călătorit și prin Veneția cu gondola?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - en: în
-    - Venecio: Veneția
-    - veturis: ai călătorit
-    - ankaŭ: și
-    - per: cu
-    - gondolo: gondolă
-    - '?'
--
-  demando: Vei putea adormi când se va face liniște?
+  - Ĉu: oare
+  - vi: tu
+  - en: în
+  - Venecio: Veneția
+  - veturis: ai călătorit
+  - ankaŭ: și
+  - per: cu
+  - gondolo: gondolă
+  - '?'
+- demando: Vei putea adormi când se va face liniște?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - povos: vei putea
-    - ekdormi: adormi
-    - ','
-    - kiam: când
-    - silentiĝis: s-a făcut liniște
-    - '?'
+  - Ĉu: oare
+  - vi: tu
+  - povos: vei putea
+  - ekdormi: adormi
+  - ','
+  - kiam: când
+  - silentiĝos: s-a făcut liniște
+  - '?'

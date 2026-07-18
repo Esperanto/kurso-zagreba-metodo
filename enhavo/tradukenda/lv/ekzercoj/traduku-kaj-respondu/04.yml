@@ -1,0 +1,67 @@
+- demando: Kad es tevi atkal redzēšu?
+  rektatraduko:
+  - Kiam: Kad
+  - mi: es
+  - revidos: redzēšu atkal
+  - vin: tevi
+  - '?'
+- demando: Cik ilgi tu mācies starptautisko valodu?
+  rektatraduko:
+  - Kiom: cik
+  - longe: ilgi
+  - vi: tu
+  - lernas: mācies
+  - la: to
+  - Internacian: starptautisko
+  - Lingvon: valodu
+  - '?'
+- demando: Kur ir mana jaunā grāmata ar fotogrāfijām?
+  rektatraduko:
+  - Kie: Kur
+  - estas: ir
+  - mia: mana
+  - nova: jaunā
+  - libro: grāmata
+  - kun: ar
+  - fotoj: fotogrāfijas
+  - '?'
+- demando: Uz kurieni tu iesi pēc pusdienām?
+  rektatraduko:
+  - Kien: Uz kurieni
+  - vi: tu
+  - iros: iesi
+  - post: pēc
+  - la: tās
+  - tagmanĝo: pusdienas
+  - '?'
+- demando: Vai var aizvērt istabas durvis, kad ir auksti?
+  rektatraduko:
+  - Ĉu: Vai
+  - oni: cilvēki
+  - povas: var
+  - fermi: aizvērt
+  - la: tās
+  - pordon: durvis
+  - de: 'no'
+  - la: tā
+  - ĉambro: istaba
+  - ','
+  - kiam: kad
+  - estas: ir
+  - malvarme: auksti
+  - '?'
+- demando: Cik ilgi tu dusmojies, ja no tevis paņem daudz naudas?
+  rektatraduko:
+  - Kiom: cik
+  - longe: ilgi
+  - vi: tu
+  - koleras: dusmojies
+  - ','
+  - se: ja
+  - oni: kāds
+  - forprenas: paņem prom
+  - de: 'no'
+  - vi: tevis
+  - multan: daudz
+  - monon: naudu
+  - '?'

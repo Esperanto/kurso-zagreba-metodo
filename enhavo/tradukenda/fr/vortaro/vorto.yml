@@ -1,4 +1,3 @@
-Esperanto: espéranto
 akcepteblan: acceptable
 alilandaj: étranger
 alporti: apporter
@@ -8,11 +7,11 @@ alvenis: est arrivé
 alvenos: vont arriver
 amikino: amie
 amikinon: amie
-amletero: "lettre d'amour"
-antaŭeniris: "aller de l'avant"
+amletero: lettre d'amour
+antaŭeniris: aller de l'avant
 arbaro: forêt
 arbetoj: arbustes
-arboplena: "plein d'arbres"
+arboplena: plein d'arbres
 aĉetumos: fera les boutiques
 aĉodora: qui sent mauvais
 aŭdiĝis: a été entendu
@@ -25,45 +24,46 @@ bonvolu: merci de
 bonvolus: ce serait gentil de
 centoj: centaines
 dankon: merci
-daŭrigis: continuer
+daŭrigis: a continué
 denove: de nouveau
-devojiĝis: sortir du chemin
+devojiĝis: s'est écarté du chemin
 dikiĝi: grossir
 doloriga: douloureux
 dolorige: douloureusement
 domegon: villa
 dumnokte: pendant la nuit
 dumtage: pendant le jour
-ekkriis: "s'écrier"
-ekmire: "s'émerveiller"
+ekkriis: s'est écrié
+ekmire: avec étonnement
 ekparolis: a pris la parole
 ekridis: se mit à rire
-ekrigardis: "jeta un coup d'oeil"
+ekrigardis: a jeté un coup d'œil
 eksaltis: commença à sauter
 ekscii: apprendre
-eksidis: "s'assoir"
+eksidis: s'est assis
 ekstervoje: hors du chemin
 ekveturas: démarre
-ekvidis: a commencé à voir
+ekvidis: a aperçu
 elstaraj: exceptionnel
 eniri: entrer
 eniris: entra
-eniru: entrez ! 
+eniru: entrez !
+Esperanto: espéranto
 facilmovaj: facile à déplacer
 faligi: faire tomber
 faligis: a fait tomber
 familianoj: membres de la famille
 fermita: fermé
 fine: finalement
-foresti: partir
+foresti: être absent
 foriros: partira
-fratino: soeur
+fratino: sœur
 fuŝparolis: a mal parlé
 geamikoj: amis
-gefratoj: frères et soeurs
+gefratoj: frères et sœurs
 gelernantojn: élèves
 gepatroj: parents
-gondolisto: gondolier 
+gondolisto: gondolier
 gondolistoj: gondoliers
 grafino: comtesse
 grafinon: comtesse
@@ -78,7 +78,7 @@ ideoriĉan: imaginatif
 industriisto: industriel
 instruistino: enseignante
 instruiston: enseignant
-intervidiĝas: "s'entrevoir"
+intervidiĝas: se voient
 iron: aller
 junulino: jeune femme
 junulinoj: jeunes femmes
@@ -99,7 +99,7 @@ kunulino: compagne
 kunvenas: se réunissent
 laboristo: travailleur
 lampeto: petite lampe
-lernanto: 
+lernanto:
 - élève
 - étudiant
 lernejo: école
@@ -108,13 +108,13 @@ lernolibroj: livres de cours
 leteroj: lettres
 libertempo: temps libre
 libroj: livres
-lumigis: éclairer
+lumigis: a éclairé
 malagrabla: désagréable
 malbela: laide
 malbonaj: mauvais
 malbonajn: mauvais
 malbonan: mauvais
-malbono: mauvais
+malbono: le mal
 malfacilan: difficile
 malfacile: difficilement
 malfeliĉo: malheur
@@ -126,7 +126,7 @@ malfrui: être en retard
 malgranda: petit
 malhelpis: a empêché
 malinterese: pas intéressant
-malkontentigi: embêter
+malkontentigi: mécontenter
 mallaŭte: doucement
 malliberejon: prison
 mallumo: obscurité
@@ -135,7 +135,7 @@ malmultekosta: bon marché
 malmulton: peu
 malnova: vieux
 malnovaj: vieux
-malofte: rarement 
+malofte: rarement
 malplaĉa: déplaisant
 malplaĉan: déplaisant
 malproksime: loin
@@ -159,10 +159,10 @@ monerojn: pièces de monnaie
 monujo: porte-monnaie
 morgaŭan: de demain
 mortigo: meurtre
-moviĝis: déplacer
+moviĝis: s'est déplacé
 multekosta: cher
 multpiedaj: à plusieurs pieds
-naskiĝtaga: "d'anniversaire"
+naskiĝtaga: d'anniversaire
 naskiĝtago: anniversaire
 naturaĵojn: choses naturelles
 nehoma: non humain
@@ -172,13 +172,13 @@ novaĵoj: nouvelles
 opinion: opinion
 ordigi: ranger
 paperoj: papiers
-paperojn:  papiers
+paperojn: papiers
 paperujon: corbeille
 pasigos: passera
 patrino: mère
-perdigis: a perdu
+perdigis: a fait perdre
 plenigadis: a rempli
-plenumis: a rempli
+plenumis: a accompli
 plibeligis: a rendu plus belle
 plimulto: majorité
 policano: policier
@@ -188,24 +188,24 @@ rapidege: très rapidement
 realigi: réaliser
 redonu: rends
 rekapti: réattraper
-repaciĝon: repacification
+repaciĝon: réconciliation
 revenis: est revenu
 revidi: revoir
-revido: revoir
+revido: au revoir
 ridetis: a souri
 rideto: sourire
 riĉeco: richesse
 riĉulo: homme riche
 salton: saut
 saluton: salut
-samklubanoj: membre du même club
-sekretajn: secret
+samklubanoj: membres du même club
+sekretajn: secrets
 sekreton: secret
 senbrue: silencieusement
-seninterese: de manière désintéressée
+seninterese: sans intérêt
 senkolora: sans couleur
 sensukcese: sans succès
-sentimulo: personne sans crainte
+sentimulo: personne intrépide
 senvorte: sans parler
 sinjorinoj: mesdames
 sinjorinon: madame
@@ -213,19 +213,19 @@ skribotablo: bureau
 soleca: solitaire
 sovaĝejo: brousse
 sportisto: sportif
-subakvigis: submerger
-subakviĝis: se submerger
+subakvigis: a submergé
+subakviĝis: s'est enfoncé sous l'eau
 subite: subitement
-supren: au dessus
+supren: vers le haut
 surhavas: porter
 surlokan: sur place
 teroristoj: terroristes
 tiuokaze: dans ce cas
-travivaĵo: aventure
-tridekjara: "de 30 ans"
+travivaĵo: expérience vécue
+tridekjara: de 30 ans
 troviĝis: se trouvait
 unuaj: premiers
-urbomezo: centre ville
+urbomezo: centre-ville
 vagonaro: train
 vendejo: boutique
 vendejon: boutique
@@ -235,11 +235,11 @@ vestaĵoj: vêtements
 vestaĵojn: vêtements
 vestaĵon: vêtement
 veturado: voyage
-veturigus: conduirait
+veturigus: emmènerait
 viaj: vos
 virino: femme
 vojaĝantoj: voyageurs
-ĉambristoj: femmes de chambre
+ĉambristoj: employés de chambre
 ĉeesto: présence
 ĉirkaŭaĵo: les environs
 ĝenon: gêne

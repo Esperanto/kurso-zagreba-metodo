@@ -1,0 +1,1 @@
+- [Esperanto malagasy](https://esperanto-malagasy.mg/) estas projekto naskita en 2025 por promocii la Esperanto-lingvon en Malagasio. La celo estas diskonigi tiun lingvon al la malagasa publiko kaj kuraĝigi la interŝanĝojn inter esperantistoj same lokaj kiel internaciaj.

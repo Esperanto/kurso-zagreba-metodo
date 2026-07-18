@@ -1,64 +1,59 @@
--
-  demando: ?האם אתה יכול ללמוד בשלווה כאשר מישהו שר בשמחה
-  rektatraduko: 
-    - Ĉu: האם
-    - vi: אתה
-    - povas: יכול
-    - trankvile: בשלווה
-    - lerni: ללמוד
-    - ','
-    - dum: כאשר
-    - iu: מישהו
-    - ĝoje: בהנאה
-    - kantas: שר
-    - '?'
--
-  demando: ?מי יודע מתי ואיפה אנו נראה זה את זה שוב
-  rektatraduko: 
-    - Kiu: מי
-    - scias: יודע
-    - ','
-    - kiam: מתי 
-    - kaj: ו
-    - kie: איפה
-    - ni: אנו
-    - revidos: נראה שוב
-    - nin: זה את זה
-    - '?'
--
-  demando: ?מה השעה עכשיו
-  rektatraduko: 
-    - Kioma: מה
-    - horo: השעה
-    - estas: היא 
-    - nun: עכשיו
-    - '?'
--
-  demando: ?האם מישהו עזר לך לפתוח את הדלת של הבית הישן
-  rektatraduko: 
-    - Ĉu: האם
-    - iu: מישהו 
-    - helpis: עזר 
-    - al: ל 
-    - vi: אתה 
-    - malfermi: לפתוח 
-    - la: ה 
-    - pordon: את הדלת 
-    - de: של
-    - la: ה
-    - malnova: ישן
-    - domo: בית
-    - '?'
--
-  demando: ?למה אין לך זמן להקשיב לי עוד
-  rektatraduko: 
-    - Kial: למה
-    - vi: אתה
-    - ne: לא
-    - havas: יש לך
-    - tempon: את הזמן
-    - aŭskulti: להקשיב
-    - min: לי
-    - pli: עוד
-    - longe: באורך
-    - '?'
+- demando: ?האם אתה יכול ללמוד בשלווה כאשר מישהו שר בשמחה
+  rektatraduko:
+  - Ĉu: האם
+  - vi: אתה
+  - povas: יכול
+  - trankvile: בשלווה
+  - lerni: ללמוד
+  - ','
+  - dum: כאשר
+  - iu: מישהו
+  - ĝoje: בהנאה
+  - kantas: שר
+  - '?'
+- demando: ?מי יודע מתי ואיפה אנו נראה זה את זה שוב
+  rektatraduko:
+  - Kiu: מי
+  - scias: יודע
+  - ','
+  - kiam: מתי
+  - kaj: ו
+  - kie: איפה
+  - ni: אנו
+  - revidos: נראה שוב
+  - nin: זה את זה
+  - '?'
+- demando: ?מה השעה עכשיו
+  rektatraduko:
+  - Kioma: מה
+  - horo: השעה
+  - estas: היא
+  - nun: עכשיו
+  - '?'
+- demando: ?האם מישהו עזר לך לפתוח את הדלת של הבית הישן
+  rektatraduko:
+  - Ĉu: האם
+  - iu: מישהו
+  - helpis: עזר
+  - al: ל
+  - vi: אתה
+  - malfermi: לפתוח
+  - la: ה
+  - pordon: את הדלת
+  - de: של
+  - la: ה
+  - malnova: ישן
+  - domo: בית
+  - '?'
+- demando: ?למה אין לך זמן להקשיב לי עוד
+  rektatraduko:
+  - Kial: למה
+  - vi: אתה
+  - ne: לא
+  - havas: יש לך
+  - tempon: את הזמן
+  - aŭskulti: להקשיב
+  - min: לי
+  - pli: עוד
+  - longe: באורך
+  - '?'

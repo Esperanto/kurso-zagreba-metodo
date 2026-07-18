@@ -1,68 +1,63 @@
-- 
-  demando: Adakah kita akan melihat satu sama lain lagi, tidak kira di mana atau apabila?
-  rektatraduko: 
-    - Ĉu: Adakah
-    - ni: kita
-    - revidos: akan melihat
-    - nin: kita
-    - ',' 
-    - kie: di mana
-    - ajn: pernah
-    - kaj: dan
-    - kiam: apabila
-    - ajn: pernah
-    - '?'
-- 
-  demando: Bilakah saya akan mendapat kembali separuh buku-buku yang lain ?
-  rektatraduko: 
-    - Kiam: Bilakah
-    - mi: saya
-    - rericevos: akan mendapat 
-    - la: itu, ini
-    - alian: lain
-    - duonon: separuh
-    - de: daripada
-    - la: ini,itu
-    - libroj: buku-buku
-    - '?'
-- 
-  demando: Anda akan memerlukan lebih daripada satu perempat tahun untuk kerja-kerja ?
-  rektatraduko: 
-    - Ĉu: adakah
-    - vi: anda
-    - bezonos: akan memerlukan
-    - pli: lebih
-    - ol: daripada
-    - kvaronan: satu perempat
-    - jaron: tahun
-    - por: untuk
-    - tiuj: itu
-    - laboroj: kerja-kerja
-    - '?'
-- 
-  demando: Kenapa lebih sejuk ia berada, lebih lama kita menunggu ?
-  rektatraduko: 
-    - Kial: bagaimana
-    - estas: ilah
-    - des: kedua-duanya tidak
-    - pli: lebih
-    - malvarma: sejuk
-    - ',' 
-    - ju: kedua-duanya tidak
-    - pli: lebih
-    - longe: lama
-    - ni: kita
-    - atendas: menunggu
-    - '?'
-- 
-  demando: Adakah anda berpuas hati dengan sesiapa lelaki ?
-  rektatraduko: 
-    - Ĉu: Adakah
-    - vi: anda
-    - estus: ialah
-    - kontenta: berpuas hati
-    - kun: dengan
-    - iu: sesiapa
-    - ajn: pernah
-    - viro: lelaki
-    - '?'
+- demando: Adakah kita akan melihat satu sama lain lagi, tidak kira di mana atau apabila?
+  rektatraduko:
+  - Ĉu: Adakah
+  - ni: kita
+  - revidos: akan melihat
+  - nin: kita
+  - ','
+  - kie: di mana
+  - ajn: pernah
+  - kaj: dan
+  - kiam: apabila
+  - ajn: pernah
+  - '?'
+- demando: Bilakah saya akan mendapat kembali separuh buku-buku yang lain ?
+  rektatraduko:
+  - Kiam: Bilakah
+  - mi: saya
+  - rericevos: akan mendapat
+  - la: itu, ini
+  - alian: lain
+  - duonon: separuh
+  - de: daripada
+  - la: ini,itu
+  - libroj: buku-buku
+  - '?'
+- demando: Anda akan memerlukan lebih daripada satu perempat tahun untuk kerja-kerja ?
+  rektatraduko:
+  - Ĉu: adakah
+  - vi: anda
+  - bezonos: akan memerlukan
+  - pli: lebih
+  - ol: daripada
+  - kvaronan: satu perempat
+  - jaron: tahun
+  - por: untuk
+  - tiuj: itu
+  - laboroj: kerja-kerja
+  - '?'
+- demando: Kenapa lebih sejuk ia berada, lebih lama kita menunggu ?
+  rektatraduko:
+  - Kial: bagaimana
+  - ju: kedua-duanya tidak
+  - pli: lebih
+  - longe: lama
+  - ni: kita
+  - atendas: menunggu
+  - ','
+  - des: kedua-duanya tidak
+  - pli: lebih
+  - malvarme: sejuk
+  - estas: ilah
+  - '?'
+- demando: Adakah anda berpuas hati dengan sesiapa lelaki ?
+  rektatraduko:
+  - Ĉu: Adakah
+  - vi: anda
+  - estus: ialah
+  - kontenta: berpuas hati
+  - kun: dengan
+  - iu: sesiapa
+  - ajn: pernah
+  - viro: lelaki
+  - '?'

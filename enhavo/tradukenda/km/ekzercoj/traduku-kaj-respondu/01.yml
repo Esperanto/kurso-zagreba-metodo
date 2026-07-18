@@ -1,57 +1,51 @@
-- 
-  demando: Who is your girl-friend?
+- demando: មិត្តស្រីរបស់អ្នកជានរណា?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
-    - '?'
-- 
-  demando: Is your friend Anna now writing in the room?
+  - Kiu: អ្នកណា
+  - estas: គឺជា
+  - via: របស់អ្នក
+  - amikino: មិត្តស្រី
+  - '?'
+- demando: តើមិត្តស្រីរបស់អ្នក អាណា កំពុងសរសេរឥឡូវនេះនៅក្នុងបន្ទប់ឬ?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
-    - '?'
-- 
-  demando: Does the friend of your father work in a hotel?
+  - Ĉu: តើ
+  - via: របស់អ្នក
+  - amikino: មិត្តស្រី
+  - Ana: អាណា
+  - skribas: សរសេរ
+  - nun: ឥឡូវ
+  - en: ក្នុង
+  - la: ពាក្យកំណត់
+  - ĉambro: បន្ទប់
+  - '?'
+- demando: តើមិត្តរបស់ឪពុកអ្នកធ្វើការនៅសណ្ឋាគារឬ?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
-    - '?'
-- 
-  demando: What is on the work-bench in our room?
+  - Ĉu: តើ
+  - la: ពាក្យកំណត់
+  - amiko: មិត្ត
+  - de: របស់
+  - via: របស់អ្នក
+  - patro: ឪពុក
+  - laboras: ធ្វើការ
+  - en: ក្នុង
+  - hotelo: សណ្ឋាគារ
+  - '?'
+- demando: តើមានអ្វីនៅលើតុធ្វើការនៅក្នុងបន្ទប់របស់យើង?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
-    - '?'
-- 
-  demando: Is there an Esperanto textbook on your table?
+  - Kio: អ្វី
+  - estas: គឺ
+  - sur: លើ
+  - la: ពាក្យកំណត់
+  - labortablo: តុធ្វើការ
+  - en: ក្នុង
+  - nia: របស់យើង
+  - ĉambro: បន្ទប់
+  - '?'
+- demando: តើមានសៀវភៅរៀនអេស្ប៉េរ៉ាន់តូនៅលើតុរបស់អ្នកឬ?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
-    - '?'
-
+  - Ĉu: តើ
+  - Esperanto-lernolibro: សៀវភៅរៀនអេស្ប៉េរ៉ាន់តូ
+  - estas: គឺ
+  - sur: លើ
+  - via: របស់អ្នក
+  - tablo: តុ
+  - '?'

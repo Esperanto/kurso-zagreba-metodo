@@ -1,21 +1,29 @@
 afer:
 - aangelegenheid
 - zaak
+ag: handelen
 agrabl: aangenaam
-akcept: aanvaarden
+akcept:
+- accepteren
+- aanvaarden
 akv: water
 ali: ander
 alt: hoog
 am: beminnen
 amik: vriend
+aper: verschijnen
 arb: boom
 aspekt: uitzicht
 atend: wachten
-atent: 
-- opletten 
+atent:
+- opletten
 - aandacht
 aĉet: kopen
 aŭd: horen
+aŭskult:
+- luisteren
+- beluisteren
+- aanhoren
 aŭt: auto
 aŭtoritat: autoriteit
 bedaŭr: betreuren
@@ -32,12 +40,12 @@ branĉ: tak
 bru: lawaai
 buŝ: mond
 cert: zeker
-dank: dank
+dank: bedanken
 daŭr: duren
 decid: beslissen
 demand: vragen
 dev: moeten
-dezir: 
+dezir:
 - wensen
 - verlangen
 diabl: duivel
@@ -45,9 +53,12 @@ dik: dik
 dimanĉ: zondag
 dir: zeggen
 direkt: richting
-doktor: doctor
+divers: diverse, verschillende
+doktor: dokter
 dolar: dollar
-dolor: pijn
+dolor:
+- pijn doen
+- pijn
 dolĉ: zoet
 dom: huis
 don: geven
@@ -57,23 +68,25 @@ edz: echtgenoot
 efektiv:
 - werkelijk
 - efficiënt
-ekskurs: uitstap
+ekskurs:
+- uitstapje
+- excursie
+ekzempl: voorbeeld, toonbeeld
 esper: hopen
 est: zijn (werkwoord)
 facil: gemakkelijk
 fakt: feit
-fakt: feitelijk
 fal: vallen
 famili: gezin (familie)
 far:
 - maken
 - doen
-fart: 
+fart:
 - gesteld zijn
-- varen (zich voelen)
+- zich voelen
 feliĉ: gelukkig
 ferm: sluiten
-fin: einde
+fin: eindigen
 flank: zijde (kant)
 foj: keer
 forges: vergeten
@@ -82,15 +95,18 @@ fort: sterk
 fot: foto
 frat: broer
 fru: vroeg
-fuŝ: 
-- prutsen 
+fuŝ:
+- prutsen
 - knoeien
 - sukkelen
+glas: drinkglas, glas
 gondol: gondel
 graf: graaf
 grand: groot
 grav: belangrijk
-halt: halthouden
+halt:
+- stoppen
+- halt houden
 hav: hebben
 hejm:
 - huis
@@ -101,8 +117,10 @@ hor: uur
 hotel: hotel
 ide: idee
 industri: industrie
+infan: kind
+inform: informeren, inlichten
 instru: onderwijzen
-interes: 
+interes:
 - interesse
 - belangstelling
 - interesseren
@@ -113,6 +131,7 @@ jar: jaar
 jun: jong
 kaf: koffie
 kalv: kaal
+kant: zingen, lied, zang
 kap: kop
 kapabl: bekwaam
 kapt: vangen
@@ -126,13 +145,15 @@ kastel:
 kav:
 - hol
 - groeve
-kelk: 
+kelk:
 - enige
 - enkele
 kelner: ober
-klar: klaar
+klar:
+- duidelijk
+- helder
 klub: club
-knab: 
+knab:
 - jongen
 - knaap
 koler:
@@ -140,32 +161,40 @@ koler:
 - kwaad zijn
 kolor: kleur
 komenc: beginnen
-kompren: 
+kompren:
 - verstaan
 - begrijpen
 kon: kennen
+konsent:
+- instemmen
+- toestemmen
+- akkoord gaan
 kontent: tevreden
-kontrol: nazien
+kontrol:
+- controleren
+- nakijken
 kor: hart
 korp: lichaam
 kost: kosten
+kred: geloven
 kri: schreeuwen
 kuir: koken
-kuk: 
+kuk:
 - koek
 - cake
-kur: 
+kur:
 - lopen
 - rennen
 - hardlopen
-labor: 
+labor:
 - werken
 - arbeiden
 lakt: melk
 lamp: lamp
 land: land
 larĝ: breed
-last: laatst
+las: laten
+last: laatste
 laŭt: luid
 lecion: les
 leg: lezen
@@ -173,50 +202,56 @@ lern: leren
 leter: brief
 liber: vrij
 libr: boek
+lingv: taal
 lok: plaats
 long: lang
+loĝ: wonen, resideren, gevestigd zijn
 lud: spelen
 lum: licht
 man: hand
+manier: manier, wijze, trant
 mank: ontbreken
 manĝ: eten
 mar: zee
-maten: 
+maten:
 - ochtend
 - morgen (begin van dag)
 memor: zich herinneren
 met:
 - zetten
 - plaatsen
-- leggen 
+- leggen
 mez: midden
 milit: oorlog
 minut: minuut
 mir: verwonderd zijn
 moment: moment (ogenblik)
 mon: geld
+monat: maand
+mond: wereld
 mont: berg
 montr: tonen
-mort: 
+mort:
 - sterven
 - dood
 mov: bewegen
 mult: veel
 muzik: muziek
+naci: nationaal
 nask: baren
 natur: natuur
 neces: nodig
 nokt: nacht
 nom: naam
 not:
-- noteren
-- nota
+- notitie
+- aantekening
 nov: nieuw
 odor: geur
-oft: 
+oft:
 - vaak
 - dikwijls
-okaz: 
+okaz:
 - gebeuren
 - geschieden
 okul: oog
@@ -224,6 +259,7 @@ onkl: oom
 opini: menen
 ord: orde
 orel: oor
+organiz: organiseren
 pac: vrede
 pag: betalen
 pan: brood
@@ -233,69 +269,86 @@ parol: spreken
 part: deel
 pas: voorbijgaan
 patr: vader
-paŝ: 
-- schrijden
-- stappen
+paŝ: stappen
 pens: denken
 perd: verliezen
 person: persoon
-pet: 
+pet:
 - verzoeken
 - vragen
 pez: zwaar
 pied: voet
-plac: 
+plac:
 - plein
 - plaats
 plan: plan
 plaĉ: bevallen
 plen: vol
+plor:
+- huilen
+- wenen
+pluv: regenen
 polic: politie
 pord: deur
 port: dragen
 pov: kunnen
+poŝ: zak (in kleding)
+poŝt: post, posterijen
 pren: nemen
-pret: 
+pret:
 - gereed
 - bereid
 - klaar
 prezent: voorstellen
 problem: probleem
 proksim: dicht(bij)
+proksimum:
+- ongeveer
+- circa
+- rond
 promen: wandelen
 propon: voorstellen
 prov: proberen
+publik: openbaar, publiek
+punkt: punt, stip
+pur:
+- zuiver
+- schoon
+- puur
 rajt:
 - het recht hebben
 - mogen
-rapid: 
+rakont: vertellen, verhalen
+rapid:
 - snel
 - rap
-raport: 
-- verlaggeven
+raport:
+- verslag geven
 - rapporteren
-real: 
+real:
 - werkelijk
 - reëel
-rekt: 
+rekt:
 - rechtstreeks
 - direct
 renkont: ontmoeten
-respekt: 
+respekt:
 - achten
 - respecteren
-respond: 
+respond:
 - antwoorden
 - beantwoorden
 rest: blijven
-ricev: 
+ricev:
 - ontvangen
 - krijgen
 rid: lachen
-rigard: 
+rigard:
 - kijken
 - kijken naar
 - bekijken
+rilat: betrekking, verhouding, verband
+rimark: bemerken, opmerken
 riĉ: rijk
 rol: rol
 ruĝ: rood
@@ -303,6 +356,7 @@ salt: springen
 salut: groet
 sam: gelijk
 san: gezond
+sat: verzadigd
 saĝ:
 - snugger
 - wijs
@@ -312,17 +366,20 @@ sekret: geheim
 sekv: volgen
 semajn: week (7 dagen)
 send: zenden
+sent: voelen
 serĉ: zoeken
+seĝ: stoel
 si: zich
 sid: zitten
 silent: zwijgen
-simil: 
+simil:
 - gelijkaardig
 - gelijkend
-sinjor: 
+simpl: simpel, eenvoudig, enkelvoudig
+sinjor:
 - heer
 - mijnheer
-situaci: 
+situaci:
 - toestand
 - situatie
 skrib: schrijven
@@ -332,15 +389,16 @@ sovaĝ: wild
 sport: sport
 star: staan
 strat: straat
-subit: 
+subit:
 - plots
 - eensklaps
 - ineens
 - plotseling
-sufiĉ: 
+sufiĉ:
 - volstaan
 - genoeg
-sukces: slagen
+suk: sap
+sukces: succes
 sun: zon
 supr: boven
 tabl: tafel
@@ -351,7 +409,8 @@ temp: tijd
 temperatur: temperatuur
 ten: houden
 teror: terreur
-tim: 
+terur: verschrikkelijk, vreselijk
+tim:
 - vrezen
 - bang zijn
 ton: toon
@@ -359,7 +418,9 @@ trankvil: rustig
 trink: drinken
 trov: vinden
 turk: Turk
+tut: heel, helemaal, gans
 tuŝ: aanraken
+universal: universeel, algemeen
 urb: stad
 util: nuttig
 uz: gebruiken
@@ -368,7 +429,7 @@ varm: warm
 ven: komen
 vend: verkopen
 Veneci: Venetië
-ver: 
+ver:
 - waar
 - echt
 - waarlijk
@@ -381,32 +442,34 @@ vir: man
 viv: leven
 vizaĝ: (aan)gezicht
 vizit: bezoeken
-voj: 
+voj:
 - weg
 - baan
 vojaĝ: reizen
-vok: roepen
+vok:
+- roepen
+- bellen
 vol: willen
 vort: woord
 voĉ: stem
 zorg: zorgen
 ĉambr: kamer
-ĉef: 
+ĉef:
 - chef
 - hoofd
 ĝen: storen
 ĝeneral: algemeen
-ĝoj: 
+ĝoj:
 - blij
 - vrolijk
 ĝust: juist
-ĵet: 
+ĵet:
 - werpen
 - gooien
-ŝajn: 
+ŝajn:
 - schijnen
 - lijken
-ŝanĝ: 
+ŝanĝ:
 - veranderen
 - wijzigen
 ŝat:

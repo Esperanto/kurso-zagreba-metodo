@@ -1,64 +1,59 @@
--
-  demando: (Acaso) você pode aprender tranquilamente, enquanto alguém canta alegremente?
-  rektatraduko: 
-    - Ĉu: (Acaso)
-    - vi: você
-    - povas: pode
-    - trankvile: tranquilamente
-    - lerni: aprender
-    - ','
-    - dum: enquanto
-    - iu: alguém
-    - ĝoje: alegremente
-    - kantas: canta
-    - '?'
--
-  demando: Quem sabe, quando e onde nós nos veremos de novo ?
-  rektatraduko: 
-    - Kiu: Quem
-    - scias: sabe
-    - ','
-    - kiam: quando 
-    - kaj: e
-    - kie: onde
-    - ni: nós
-    - revidos: veremos de novo
-    - nin: nos 
-    - '?'
--
-  demando: Que horas são agora?
-  rektatraduko: 
-    - Kioma: Que (quantidade de)
-    - horo: horas
-    - estas: são 
-    - nun: agora
-    - '?'
--
-  demando: (Acaso) alguém ajudou você a abrir a porta da casa velha?
-  rektatraduko: 
-    - Ĉu: (Acaso)
-    - iu: alguém 
-    - helpis: ajudou 
-    - al: a 
-    - vi: você 
-    - malfermi: abrir 
-    - la: a 
-    - pordon: porta 
-    - de: de
-    - la: a
-    - malnova: velha
-    - domo: casa
-    - '?'
--
-  demando: Por que você não tem tempo para escutar-me mais tempo (longamente)?
-  rektatraduko: 
-    - Kial: Por que
-    - vi: você
-    - ne: não
-    - havas: tem
-    - tempon: tempo
-    - aŭskulti: para escutar
-    - min: mim
-    - pli: (por) mais
-    - longe: tempo
-    - '?'
+- demando: Você consegue estudar tranquilamente enquanto alguém canta alegremente?
+  rektatraduko:
+  - Ĉu: será que
+  - vi: você
+  - povas: pode
+  - trankvile: tranquilamente
+  - lerni: aprender
+  - ','
+  - dum: enquanto
+  - iu: alguém
+  - ĝoje: alegremente
+  - kantas: canta
+  - '?'
+- demando: Quem sabe, quando e onde nós nos veremos de novo ?
+  rektatraduko:
+  - Kiu: Quem
+  - scias: sabe
+  - ','
+  - kiam: quando
+  - kaj: e
+  - kie: onde
+  - ni: nós
+  - revidos: veremos de novo
+  - nin: nos
+  - '?'
+- demando: Que horas são agora?
+  rektatraduko:
+  - Kioma: Que (quantidade de)
+  - horo: horas
+  - estas: são
+  - nun: agora
+  - '?'
+- demando: Alguém ajudou você a abrir a porta da casa velha?
+  rektatraduko:
+  - Ĉu: será que
+  - iu: alguém
+  - helpis: ajudou
+  - al: a
+  - vi: você
+  - malfermi: abrir
+  - la: a
+  - pordon: porta
+  - de: de
+  - la: a
+  - malnova: velha
+  - domo: casa
+  - '?'
+- demando: Por que você não tem tempo para me escutar por mais tempo?
+  rektatraduko:
+  - Kial: Por que
+  - vi: você
+  - ne: não
+  - havas: tem
+  - tempon: tempo
+  - aŭskulti: para escutar
+  - min: mim
+  - pli: (por) mais
+  - longe: tempo
+  - '?'

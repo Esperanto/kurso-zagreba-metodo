@@ -1,51 +1,47 @@
-- 
-  demando: Does friendship make you more happy than love does?
-  rektatraduko: 
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
-    - '?'
-- 
-  demando: How often do you write letters to your girlfriends in Italy?
-  rektatraduko: 
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
-    - '?'
-- 
-  demando: Has the relationship between you and your teacher changed?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
-    - '?'
-- 
-  demando: Do you now already know Esperanto well enough?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
-    - '?'
+- demando: Достық сені махаббаттан көбірек бақытты ете ме?
+  rektatraduko:
+  - Ĉu: ма/ме
+  - amikeco: достық
+  - pli: көбірек
+  - feliĉigas: бақытты етеді
+  - vin: сені
+  - ol: қарағанда
+  - la: анықтауыш
+  - amo: махаббат
+  - '?'
+- demando: Италиядағы достарыңа қаншалықты жиі хат жазасың?
+  rektatraduko:
+  - Kiel: қалай
+  - ofte: жиі
+  - vi: сен
+  - skribas: жазады
+  - leterojn: хаттарды
+  - al: -ға/-ге
+  - viaj: сенің
+  - amikinoj: қыз достар
+  - en: ішінде/де
+  - Italio: Италия
+  - '?'
+- demando: Сен мен мұғаліміңнің арасындағы қарым-қатынас өзгерді ме?
+  rektatraduko:
+  - Ĉu: ма/ме
+  - la: анықтауыш
+  - rilato: қарым-қатынас
+  - inter: арасында
+  - vi: сен
+  - kaj: және
+  - via: сенің
+  - instruisto: мұғалім
+  - ŝanĝiĝis: өзгерді
+  - '?'
+- demando: Эсперантоны қазірдің өзінде жеткілікті жақсы білесің бе?
+  rektatraduko:
+  - Ĉu: ма/ме
+  - vi: сен
+  - nun: қазір
+  - jam: әлдеқашан
+  - scias: біледі
+  - Esperanton: эсперантоны
+  - sufiĉe: жеткілікті
+  - bone: жақсы
+  - '?'

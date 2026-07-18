@@ -1,0 +1,64 @@
+- demando: Kāda bija tava vecā māja?
+  rektatraduko:
+  - Kia: Kāda
+  - estis: bija
+  - via: tava
+  - malnova: veca
+  - hejmo: mājas
+  - '?'
+- demando: Kuras grāmatas tu lasīji, un vai tās bija labas?
+  rektatraduko:
+  - Kiujn: Kuras
+  - librojn: grāmatas
+  - vi: tu
+  - legis: lasīji
+  - kaj: un
+  - ĉu: vai
+  - ili: tās
+  - estas: ir
+  - bonaj: labas
+  - '?'
+- demando: Ko Ana un Marko darīja Marko mazajā istabā?
+  rektatraduko:
+  - Kion: Ko
+  - faris: darīja
+  - Ana: Ana
+  - kaj: un
+  - Marko: Marko
+  - en: iekšā
+  - la: tas
+  - malgranda: mazā
+  - ĉambro: istaba
+  - de: 'no'
+  - Marko: Marko
+  - '?'
+- demando: Vai tev patīk lasīt grāmatas par mīlestību?
+  rektatraduko:
+  - Ĉu: Vai
+  - vi: tu
+  - ŝatas: patīk
+  - legi: lasīt
+  - librojn: grāmatas
+  - pri: par
+  - amo: mīlestība
+  - '?'
+- demando: Kas ies ar tevi uz tavām mājām?
+  rektatraduko:
+  - Kiu: Kas
+  - iros: ies
+  - kun: ar
+  - vi: tevi
+  - al: uz
+  - via: tava
+  - hejmo: mājas
+  - '?'
+- demando: Kādas ir tavas draudzenes acis?
+  rektatraduko:
+  - Kiaj: Kādas
+  - estas: ir
+  - la: tās
+  - okuloj: acis
+  - de: 'no'
+  - via: tava
+  - amikino: draudzene
+  - '?'

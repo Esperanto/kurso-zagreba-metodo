@@ -1,73 +1,67 @@
--
-  demando: Khi nào tớ sẽ được gặp lại (nhìn thấy) cậu lần nữa?
-  rektatraduko: 
-    - Kiam: Khi nào
-    - mi: tớ
-    - revidos: sẽ được thấy lần nữa
-    - vin: cậu
-    - '?'
--
-  demando: Cậu học ngôn ngữ quốc tế bao lâu (lâu như thế nào) rồi?
-  rektatraduko: 
-    - Kiel: Như thế nào
-    - longe: lâu
-    - vi: cậu
-    - lernas: học
-    - la: (mạo từ xác định)
-    - Internacian: quốc tế
-    - Lingvon: ngôn ngữ
-    - '?'
--
-  demando: Quyển sách mới với mấy tấm hình của tớ ở đâu rồi vậy?
-  rektatraduko: 
-    - Kie: Ở đâu
-    - estas: thì là
-    - mia: của tớ
-    - nova: mới
-    - libro: quyển sách
-    - kun: với
-    - fotoj: mấy tấm hình
-    - '?'
--
-  demando: Cậu sẽ đi tới chỗ nào sau bữa trưa vậy?
-  rektatraduko: 
-    - Kien: Đi đến đâu
-    - vi: Cậu
-    - iros: sẽ đi
-    - post: sau
-    - la: (mạo từ xác định)
-    - tagmanĝo: bữa trưa
-    - '?'
--
-  demando: Ai đó có thể đóng cánh cửa phòng lại khi trời lạnh được không?
-  rektatraduko: 
-    - Ĉu: Được không
-    - oni: ai đó
-    - povas: có thể 
-    - fermi: đóng
-    - la: (mạo từ xác định)
-    - pordon: cánh cửa
-    - de: của
-    - la: (mạo từ xác định)
-    - ĉambro: căn phòng
-    - ','
-    - kiam: khi
-    - estas: thì là
-    - malvarme: lạnh
-    - '?'
--
-  demando: Cậu giận bao lâu, nếu người ta lấy đi từ cậu rất nhiều tiền?
-  rektatraduko: 
-    - Kiel: Như thế nào
-    - longe: lâu
-    - vi: cậu
-    - koleras: giận dữ
-    - ','
-    - se: nếu
-    - oni: người ta
-    - forprenas: lấy đi
-    - de: từ
-    - vi: cậu
-    - multan: rất nhiều
-    - monon: tiền
-    - '?'
+- demando: Khi nào tớ sẽ được gặp lại cậu lần nữa?
+  rektatraduko:
+  - Kiam: Khi nào
+  - mi: tớ
+  - revidos: sẽ được thấy lần nữa
+  - vin: cậu
+  - '?'
+- demando: Cậu học ngôn ngữ quốc tế bao lâu rồi?
+  rektatraduko:
+  - Kiom: bao nhiêu
+  - longe: lâu
+  - vi: cậu
+  - lernas: học
+  - la: (mạo từ xác định)
+  - Internacian: quốc tế
+  - Lingvon: ngôn ngữ
+  - '?'
+- demando: Quyển sách mới với mấy tấm hình của tớ ở đâu rồi vậy?
+  rektatraduko:
+  - Kie: Ở đâu
+  - estas: thì là
+  - mia: của tớ
+  - nova: mới
+  - libro: quyển sách
+  - kun: với
+  - fotoj: mấy tấm hình
+  - '?'
+- demando: Cậu sẽ đi tới chỗ nào sau bữa trưa vậy?
+  rektatraduko:
+  - Kien: Đi đến đâu
+  - vi: Cậu
+  - iros: sẽ đi
+  - post: sau
+  - la: (mạo từ xác định)
+  - tagmanĝo: bữa trưa
+  - '?'
+- demando: Ai đó có thể đóng cánh cửa phòng lại khi trời lạnh được không?
+  rektatraduko:
+  - Ĉu: Được không
+  - oni: ai đó
+  - povas: có thể
+  - fermi: đóng
+  - la: (mạo từ xác định)
+  - pordon: cánh cửa
+  - de: của
+  - la: (mạo từ xác định)
+  - ĉambro: căn phòng
+  - ','
+  - kiam: khi
+  - estas: thì là
+  - malvarme: lạnh
+  - '?'
+- demando: Cậu giận bao lâu, nếu người ta lấy đi từ cậu rất nhiều tiền?
+  rektatraduko:
+  - Kiom: bao nhiêu
+  - longe: lâu
+  - vi: cậu
+  - koleras: giận dữ
+  - ','
+  - se: nếu
+  - oni: người ta
+  - forprenas: lấy đi
+  - de: từ
+  - vi: cậu
+  - multan: rất nhiều
+  - monon: tiền
+  - '?'

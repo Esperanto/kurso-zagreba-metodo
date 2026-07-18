@@ -1,86 +1,80 @@
-- 
-  demando: Cé atá chun an chistin a ghlanadh tar éis lóin?
-  rektatraduko: 
-    - Kiu: Cé
-    - purigos: glanfaidh
-    - la: an
-    - kuirejon: cistin
-    - post: tar éis
-    - la: an
-    - tagmanĝo: lón
-    - '?'
-- 
-  demando: "Cad ba mhaith leat a ól: tae, roinnt caife nó ná fuil aon rud uait?"
-  rektatraduko: 
-    - Kion: Cad
-    - vi: tú
-    - volas: mian
-    - trinki: ól
-    - ':' 
-    - teon: tae
-    - ',' 
-    - iom: roinnt
-    - da: de
-    - kafo: caife
-    - aŭ: nó
-    - ĉu: ná
-    - vi: tú
-    - volas: mian
-    - nenion: faic
-    - '?'
-- 
-  demando: Cén fáth ar shocraís chomh tobann sin do sheomra beag a athchóiriú?
-  rektatraduko: 
-    - Kial: Cén fáth
-    - vi: tú 
-    - tiel: chomh..sin
-    - subite: tobann
-    - decidis: shocraigh
-    - renovigi: athchóiriú
-    - vian: do
-    - ĉambreton: seomra beag
-    - '?'
-- 
-  demando: Cé dó ar thug tú na gloiní fíona glana?
-  rektatraduko: 
-    - Al: Do
-    - kiu: cé
-    - vi: tú
-    - donis: thug
-    - la: na
-    - purajn: glana
-    - glasojn: gloiní
-    - por: do
-    - la: an
-    - vino: fíon
-    - '?'
-- 
-  demando: Cé leis ar imir do chlub spóirt coicís ó shin?
-  rektatraduko: 
-    - Kontraŭ: i gcoinne
-    - kiu: cé
-    - ludis: d'imir
-    - via: do
-    - sportklubo: club spóirt
-    - antaŭ: roimh
-    - du: dhá
-    - semajnoj: seachtaine
-    - '?'
-- 
-  demando: An minic a chíonn tú an garda atá ina chónaí san árasán os do chionn?
-  rektatraduko: 
-    - Ĉu: An
-    - vi: tú
-    - ofte: minic
-    - vidas: chíonn
-    - la: an
-    - policiston: garda
-    - ',' 
-    - kiu: a
-    - loĝas: cónaíonn
-    - en: i
-    - la: an
-    - loĝejo: árasán
-    - super: os cionn
-    - vi: tú
-    - '?'
+- demando: Cé atá chun an chistin a ghlanadh tar éis lóin?
+  rektatraduko:
+  - Kiu: Cé
+  - purigos: glanfaidh
+  - la: an
+  - kuirejon: cistin
+  - post: tar éis
+  - la: an
+  - tagmanĝo: lón
+  - '?'
+- demando: 'Cad ba mhaith leat a ól: tae, roinnt caife nó ná fuil aon rud uait?'
+  rektatraduko:
+  - Kion: Cad
+  - vi: tú
+  - volas: mian
+  - trinki: ól
+  - ':'
+  - teon: tae
+  - ','
+  - iom: roinnt
+  - da: de
+  - kafo: caife
+  - aŭ: nó
+  - ĉu: ná
+  - vi: tú
+  - volas: mian
+  - nenion: faic
+  - '?'
+- demando: Cén fáth ar shocraís chomh tobann sin do sheomra beag a athchóiriú?
+  rektatraduko:
+  - Kial: Cén fáth
+  - vi: tú
+  - tiel: chomh..sin
+  - subite: tobann
+  - decidis: shocraigh
+  - renovigi: athchóiriú
+  - vian: do
+  - ĉambreton: seomra beag
+  - '?'
+- demando: Cé dó ar thug tú na gloiní fíona glana?
+  rektatraduko:
+  - Al: Do
+  - kiu: cé
+  - vi: tú
+  - donis: thug
+  - la: na
+  - purajn: glana
+  - glasojn: gloiní
+  - por: do
+  - la: an
+  - vino: fíon
+  - '?'
+- demando: Cé leis ar imir do chlub spóirt coicís ó shin?
+  rektatraduko:
+  - Kontraŭ: i gcoinne
+  - kiu: cé
+  - ludis: d'imir
+  - via: do
+  - sportklubo: club spóirt
+  - antaŭ: roimh
+  - du: dhá
+  - semajnoj: seachtaine
+  - '?'
+- demando: An minic a chíonn tú an garda atá ina chónaí san árasán os do chionn?
+  rektatraduko:
+  - Ĉu: An
+  - vi: tú
+  - ofte: minic
+  - vidas: chíonn
+  - la: an
+  - policiston: garda
+  - ','
+  - kiu: a
+  - loĝas: cónaíonn
+  - en: i
+  - la: an
+  - loĝejo: árasán
+  - super: os cionn
+  - vi: tú
+  - '?'

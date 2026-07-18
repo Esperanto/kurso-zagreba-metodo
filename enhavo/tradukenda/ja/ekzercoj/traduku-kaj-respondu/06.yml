@@ -1,72 +1,68 @@
-- 
-  demando: あなたは私の一番新しい本を見せて欲しいですか？
-  rektatraduko: 
-    - Ĉu: ～か？
-    - vi: あなたは
-    - deziras: 望む
-    - ',' 
-    - ke: ～ということを 
-    - mi: 私が
-    - montru: 示す（意志）
-    - al: ～へ
-    - vi: あなた
-    - mian: 私の
-    - plej: 一番
-    - novan: 新しい
-    - libron: 本を
-    - '?'
-- 
-  demando: 明日の朝食には何がいいですか？
-  rektatraduko: 
-    - Kion: 何を
-    - vi: あなたは
-    - volas: 欲する
-    - morgaŭ: 明日
-    - matenmanĝi: 朝食に
-    - '?'
-- 
-  demando: いつマルコは着くでしょうか、５時ですかそれとも８時ですか？
-  rektatraduko: 
-    - Kiam: いつ
-    - Marko: マルコは
-    - alvenos: 着くだろう
-    - ',' 
-    - je: に
-    - la: （定冠詞）
-    - kvina: ５
-    - aŭ: または
-    - je: に
-    - la: （定冠詞）
-    - oka: ８
-    - horo: 時
-    - '?'
-- 
-  demando: その家族みんなが私を恩人と呼ぶことにあなたはいつ気づきましたか？
-  rektatraduko: 
-    - Kiam: いつ
-    - vi: あなたは
-    - rimarkis: 気づいた
-    - ','  
-    - ke: ～ということを
-    - la: （定冠詞）
-    - tuta: 全部
-    - familio: 家族
-    - nomas: 呼ぶ
-    - min: 私を
-    - bonfarulo: 恩人（慈善家）
-    - '?'
-- 
-  demando: 私が送った小冊子はあなたの役に立ちました？
-  rektatraduko: 
-    - Ĉu: ～か？
-    - la: （定冠詞） 
-    - libreto: 小冊子
-    - estis: であった
-    - utila: 役に立つ
-    - al: ～に
-    - vi: あなた
-    - ',' 
-    - kiun: それを
-    - mi: 私が 
-    - sendis: 送った
-    - '?'
+- demando: あなたは私の一番新しい本を見せて欲しいですか？
+  rektatraduko:
+  - Ĉu: ～か？
+  - vi: あなたは
+  - deziras: 望む
+  - ','
+  - ke: ～ということを
+  - mi: 私が
+  - montru: 示す（意志）
+  - al: ～へ
+  - vi: あなた
+  - mian: 私の
+  - plej: 一番
+  - novan: 新しい
+  - libron: 本を
+  - '?'
+- demando: 明日の朝食には何がいいですか？
+  rektatraduko:
+  - Kion: 何を
+  - vi: あなたは
+  - volas: 欲する
+  - morgaŭ: 明日
+  - matenmanĝi: 朝食に
+  - '?'
+- demando: いつマルコは着くでしょうか、５時ですかそれとも８時ですか？
+  rektatraduko:
+  - Kiam: いつ
+  - Marko: マルコは
+  - alvenos: 着くだろう
+  - ','
+  - je: に
+  - la: （定冠詞）
+  - kvina: ５
+  - aŭ: または
+  - je: に
+  - la: （定冠詞）
+  - oka: ８
+  - horo: 時
+  - '?'
+- demando: その家族みんなが私を恩人と呼ぶことにあなたはいつ気づきましたか？
+  rektatraduko:
+  - Kiam: いつ
+  - vi: あなたは
+  - rimarkis: 気づいた
+  - ','
+  - ke: ～ということを
+  - la: （定冠詞）
+  - tuta: 全部
+  - familio: 家族
+  - nomas: 呼ぶ
+  - min: 私を
+  - bonfarulo: 恩人（慈善家）
+  - '?'
+- demando: 私が送った小冊子はあなたの役に立ちました？
+  rektatraduko:
+  - Ĉu: ～か？
+  - la: （定冠詞）
+  - libreto: 小冊子
+  - ','
+  - kiun: それを
+  - mi: 私が
+  - sendis: 送った
+  - al: ～に
+  - vi: あなた
+  - ','
+  - estis: であった
+  - utila: 役に立つ
+  - '?'

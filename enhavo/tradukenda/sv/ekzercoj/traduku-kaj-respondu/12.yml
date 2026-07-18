@@ -1,68 +1,63 @@
-- 
-  demando: Kommer vi att ses igen, oavsett var och oavsett när?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - ni: vi
-    - revidos: kommer att återse
-    - nin: oss
-    - ',' 
-    - kie: var
-    - ajn: som helst
-    - kaj: och
-    - kiam: när 
-    - ajn: som helst
-    - '?'
-- 
-  demando: När kommer jag få tillbaka den andra hälften av böckerna?
-  rektatraduko: 
-    - Kiam: När
-    - mi: jag
-    - rericevos: kommer att få tillbaka
-    - la: (bestämd artikel)
-    - alian: andra
-    - duonon: halva
-    - de: av
-    - la: (bestämd artikel)
-    - libroj: böcker
-    - '?'
-- 
-  demando: Kommer du behöva mer än ett fjärdedels år för de där jobben?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - vi: du
-    - bezonos: kommer behöva
-    - pli: mer
-    - ol: än
-    - kvaronan: fjärdedels
-    - jaron: år
-    - por: för
-    - tiuj: de där
-    - laboroj: jobb
-    - '?'
-- 
-  demando: Varför är det kallare ju längre ni väntar? Why is it that the colder it is, the longer we wait?
-  rektatraduko: 
-    - Kial: Varför
-    - estas: är
-    - des: desto
-    - pli: mer
-    - malvarma: kallt
-    - ',' 
-    - ju: ju
-    - pli: mer
-    - longe: länge
-    - ni: vi
-    - atendas: väntar
-    - '?'
-- 
-  demando: Skulle du vara nöjd med vilken man som helst?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - vi: du
-    - estus: skulle vara
-    - kontenta: nöjd
-    - kun: med
-    - iu: vem
-    - ajn: om helst
-    - viro: man
-    - '?'
+- demando: Kommer vi att ses igen, oavsett var och oavsett när?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - ni: vi
+  - revidos: kommer att återse
+  - nin: oss
+  - ','
+  - kie: var
+  - ajn: som helst
+  - kaj: och
+  - kiam: när
+  - ajn: som helst
+  - '?'
+- demando: När kommer jag få tillbaka den andra hälften av böckerna?
+  rektatraduko:
+  - Kiam: När
+  - mi: jag
+  - rericevos: kommer att få tillbaka
+  - la: (bestämd artikel)
+  - alian: andra
+  - duonon: hälften
+  - de: av
+  - la: (bestämd artikel)
+  - libroj: böcker
+  - '?'
+- demando: Kommer du behöva mer än ett fjärdedels år för de där jobben?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - vi: du
+  - bezonos: kommer att behöva
+  - pli: mer
+  - ol: än
+  - kvaronan: fjärdedels
+  - jaron: år
+  - por: för
+  - tiuj: de där
+  - laboroj: jobb
+  - '?'
+- demando: Varför är det kallare ju längre vi väntar?
+  rektatraduko:
+  - Kial: Varför
+  - ju: ju
+  - pli: mer
+  - longe: länge
+  - ni: vi
+  - atendas: väntar
+  - ','
+  - des: desto
+  - pli: mer
+  - malvarme: kallare
+  - estas: är
+  - '?'
+- demando: Skulle du vara nöjd med vilken man som helst?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - vi: du
+  - estus: skulle vara
+  - kontenta: nöjd
+  - kun: med
+  - iu: någon
+  - ajn: som helst
+  - viro: man
+  - '?'

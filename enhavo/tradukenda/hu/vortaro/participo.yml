@@ -1,8 +1,8 @@
 ant: cselekvő jelen
+at: szenvedő jelen
 int: cselekvő múlt
+it: szenvedő múlt
 ont: cselekvő jövő
+ot: szenvedő jövő
 unt: cselekvő feltételes
-at:  szenvedő jelen
-it:  szenvedő múlt
-ot:  szenvedő jövő
-ut:  szenvedő feltételes
+ut: szenvedő feltételes

@@ -1,51 +1,47 @@
-- 
-  demando: "Est-ce que l'amitié te rend plus heureux que l'amour ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - amikeco: amitié
-    - pli: plus
-    - feliĉigas: rend heureux
-    - vin: toi
-    - ol: que
-    - la: "l'"
-    - amo: amour
-    - '?'
-- 
-  demando: À quelle fréquence écris-tu des lettres à tes amies en Italie ?
-  rektatraduko: 
-    - Kiel: Comment
-    - ofte: souvent
-    - vi: tu
-    - skribas: écris
-    - leterojn: des lettres
-    - al: à
-    - viaj: tes
-    - amikinoj: amies
-    - en: en
-    - Italio: Italie
-    - '?'
-- 
-  demando: Est-ce que la relation entre toi et tes professeurs ont changé ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - la: la
-    - rilato: relation
-    - inter: entre
-    - vi: toi
-    - kaj: et
-    - via: ton
-    - instruisto: professeur
-    - ŝanĝiĝis: a changé
-    - '?'
-- 
-  demando: "Est-ce maintenant que tu connais déjà assez bien l'espéranto ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - nun: maintenant
-    - jam: déjà
-    - scias: connais
-    - Esperanton: "l'espéranto"
-    - sufiĉe: assez
-    - bone: bien
-    - '?'
+- demando: L'amitiê te rend-ela més joyos que l'amor?
+  rektatraduko:
+  - Ĉu: Se
+  - amikeco: amitiê
+  - pli: més
+  - feliĉigas: rend joyos
+  - vin: tè
+  - ol: que
+  - la: l'
+  - amo: amor
+  - '?'
+- demando: Combien sovent ècris-tu des lètres a tes amigas en Italia?
+  rektatraduko:
+  - Kiel: Comment
+  - ofte: sovent
+  - vi: tu
+  - skribas: ècris
+  - leterojn: lètres
+  - al: a
+  - viaj: tes
+  - amikinoj: amigas
+  - en: en
+  - Italio: Italia
+  - '?'
+- demando: La relacion entre tu et ton ensegnant a-t-ela changiê?
+  rektatraduko:
+  - Ĉu: Se
+  - la: la
+  - rilato: relacion
+  - inter: entre
+  - vi: tu
+  - kaj: et
+  - via: ton
+  - instruisto: ensegnant
+  - ŝanĝiĝis: a changiê
+  - '?'
+- demando: Cognês-tu ja l'espèranto prod ben ora?
+  rektatraduko:
+  - Ĉu: Se
+  - vi: tu
+  - nun: ora
+  - jam: ja
+  - scias: cognês
+  - Esperanton: l'espèranto
+  - sufiĉe: prod
+  - bone: ben
+  - '?'

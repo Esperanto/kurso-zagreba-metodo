@@ -1,75 +1,70 @@
-- 
-  demando: What could delight your parents most of all?
-  rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
-    - '?'
-- 
-  demando: If only you wanted to go to the city center after school!
-  rektatraduko: 
-    - Se: If
-    - almenaŭ: at least (if only)
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
-    - '!'
-- 
-  demando: Where would you like to travel to if you had enough money and time?
-  rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
-    - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
-    - '?'
-- 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
-    - '?'
-- 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
-    - '?'
+- demando: ijo seme li ken pona mute e mama sina tu?
+  rektatraduko:
+  - Kio: ijo seme
+  - povus: li ken
+  - plej: nanpa wan
+  - ĝojigi: pona e pilin
+  - viajn: sina
+  - gepatrojn: mama tu
+  - '?'
+- demando: a, sina tawa ma tomo lon poka mi lon tenpo pini kama sona!
+  rektatraduko:
+  - Se: la
+  - almenaŭ: pona la
+  - vi: sina
+  - post: lon tenpo pini
+  - la: ni
+  - lernado: kama sona
+  - irus: li tawa ken
+  - kun: lon poka
+  - mi: mi
+  - en: lon
+  - la: ni
+  - urbon: ma tomo
+  - '!'
+- demando: sina jo e mani mute e tenpo la sina wile tawa ma seme?
+  rektatraduko:
+  - Kien: tawa seme
+  - vi: sina
+  - dezirus: li wile ken
+  - vojaĝi: tawa ma ante
+  - ','
+  - se: la
+  - vi: sina
+  - havus: li jo ken e
+  - sufiĉe: mute pona
+  - da: pi mute
+  - mono: mani
+  - kaj: en
+  - tempo: tenpo
+  - '?'
+- demando: sina wile tawa ma Italija kepeken tomo tawa anu seme? tawa kepeken tomo tawa linja li pona mute ala pona mute?
+  rektatraduko:
+  - Ĉu: anu seme
+  - vi: sina
+  - planas: li lawa e
+  - veturi: tawa kepeken tomo tawa
+  - al: tawa
+  - Italio: ma Italija
+  - per: kepeken
+  - aŭto: tomo tawa
+  - aŭ: anu
+  - ĉu: anu seme
+  - ne: ala
+  - ŝajnas: li lukin sama
+  - multe: mute
+  - pli: mute
+  - bone: pona
+  - per: kepeken
+  - vagonaro: tomo tawa linja
+  - '?'
+- demando: tan seme la jan ante mute li toki e sona sama lon nasin ante?
+  rektatraduko:
+  - Kial: tan seme
+  - diversaj: ante mute
+  - homoj: jan mute
+  - klarigas: li toki e kon
+  - samajn: sama
+  - ideojn: sona
+  - diversmaniere: lon nasin ante
+  - '?'

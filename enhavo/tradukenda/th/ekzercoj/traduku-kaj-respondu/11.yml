@@ -1,54 +1,49 @@
-- 
-  demando: คุณสามารถนำยาของพี่สาวของฉันมาด้วยได้ไหม
-  rektatraduko: 
-    - Ĉu: ไหม
-    - vi: คุณ
-    - povas: สามารถ
-    - kunporti: นำมาด้วย
-    - la: คำนำหน้านามชี้เฉพาะ
-    - sanigilon: ยา
-    - de: ของ
-    - mia: ของฉัน
-    - fratino: พี่สาว
-    - '?'
-- 
-  demando: คุณซื้อเครื่องดนตรีชิ้นนั้นมาเมื่อไหร่
-  rektatraduko: 
-    - Kiam: เมื่อไหร่
-    - vi: คุณ
-    - aĉetis: ซื้อ
-    - tiun: อันนั้น
-    - muzikilon: เครื่องดนตรี
-    - '?'
-- 
-  demando: ใครใช้กุญแจของฉันครั้งล่าสุด
-  rektatraduko: 
-    - Kiu: ใคร
-    - laste: ในครั้งล่าสุด
-    - uzis: ใช้
-    - mian: ของฉัน
-    - ŝlosilon: กุญแจ
-    - '?'
-- 
-  demando: ในเวนิส คุณเดินทางโดยเรือกอนโดลาด้วยเหมือนกันใช่ไหม
-  rektatraduko: 
-    - Ĉu: ใช่ไหม
-    - vi: คุณ
-    - en: ใน
-    - Venecio: เวนิส
-    - veturis: เดินทาง
-    - ankaŭ: ด้วย  ก็ด้วย
-    - per: โดย
-    - gondolo: เรือกอนโดลา
-    - '?'
-- 
-  demando: เมื่อเงียบ  คุณจะสามารถนอนได้ไหม
-  rektatraduko: 
-    - Ĉu: ไหม
-    - vi: คุณ
-    - povos: จะสามารถ
-    - ekdormi: เริ่มนอน
-    - ',' 
-    - kiam: เมื่อ 
-    - silentiĝis: เริ่มเงียบ
-    - '?'
+- demando: คุณสามารถนำยาของพี่สาวของฉันมาด้วยได้ไหม
+  rektatraduko:
+  - Ĉu: ไหม
+  - vi: คุณ
+  - povas: สามารถ
+  - kunporti: นำมาด้วย
+  - la: คำนำหน้านามชี้เฉพาะ
+  - sanigilon: ยา
+  - de: ของ
+  - mia: ของฉัน
+  - fratino: พี่สาว
+  - '?'
+- demando: คุณซื้อเครื่องดนตรีชิ้นนั้นมาเมื่อไหร่
+  rektatraduko:
+  - Kiam: เมื่อไหร่
+  - vi: คุณ
+  - aĉetis: ซื้อ
+  - tiun: อันนั้น
+  - muzikilon: เครื่องดนตรี
+  - '?'
+- demando: ใครใช้กุญแจของฉันครั้งล่าสุด
+  rektatraduko:
+  - Kiu: ใคร
+  - laste: ในครั้งล่าสุด
+  - uzis: ใช้
+  - mian: ของฉัน
+  - ŝlosilon: กุญแจ
+  - '?'
+- demando: ในเวนิส คุณเดินทางโดยเรือกอนโดลาด้วยใช่ไหม
+  rektatraduko:
+  - Ĉu: ใช่ไหม
+  - vi: คุณ
+  - en: ใน
+  - Venecio: เวนิส
+  - veturis: เดินทาง
+  - ankaŭ: ด้วย
+  - per: โดย
+  - gondolo: เรือกอนโดลา
+  - '?'
+- demando: เมื่อเงียบลงแล้ว คุณจะหลับได้ไหม
+  rektatraduko:
+  - Ĉu: ไหม
+  - vi: คุณ
+  - povos: จะสามารถ
+  - ekdormi: เริ่มนอน
+  - ','
+  - kiam: เมื่อ
+  - silentiĝos: เริ่มเงียบ
+  - '?'

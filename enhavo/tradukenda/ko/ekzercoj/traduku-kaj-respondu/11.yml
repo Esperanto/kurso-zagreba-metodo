@@ -1,54 +1,49 @@
-- 
-  demando: 당신은 내 여동생의 약을 가져와 줄 수 있나요?
-  rektatraduko: 
-    - Ĉu: ~인가?
-    - vi: 당신은
-    - povas: 할수 있다
-    - kunporti: 가져오다
-    - la: (그)
-    - sanigilon: 회복제를 (약을)
-    - de: ~의
-    - mia: 나의
-    - fratino: 여동생 (누나)
-    - '?'
-- 
-  demando: 언제 그 악기를 샀나요?
-  rektatraduko: 
-    - Kiam: 언제
-    - vi: 당신은
-    - aĉetis: 샀다
-    - tiun: 그 (목적격)
-    - muzikilon: 악기를
-    - '?'
-- 
-  demando: 누가 내 열쇠를 마지막으로 사용했는가?
-  rektatraduko: 
-    - Kiu: 누가
-    - laste: 마지막으로
-    - uzis: 사용했다
-    - mian: 나의 (목적격)
-    - ŝlosilon: 열쇠를
-    - '?'
-- 
-  demando: 당신은 베니스에서 곤돌라로도 타고 이동했나요?
-  rektatraduko: 
-    - Ĉu: ~인가
-    - vi: 당신은
-    - en: ~안에
-    - Venecio: 베니스
-    - veturis: 타고 이동했다
-    - ankaŭ: 또한
-    - per: ~를 가지고
-    - gondolo: 곤돌라
-    - '?'
-- 
-  demando: 조용해지면 잠들 수 있는가?
-  rektatraduko: 
-    - Ĉu: ~인가?
-    - vi: 당신은
-    - povos: 할 수 있다
-    - ekdormi: 잠에들다
-    - ',' 
-    - kiam: ~인 그 때
-    - silentiĝis: 조용해졌다
-    - '?'
+- demando: 당신은 내 여동생의 약을 가져와 줄 수 있나요?
+  rektatraduko:
+  - Ĉu: ~인가?
+  - vi: 당신은
+  - povas: 할수 있다
+  - kunporti: 가져오다
+  - la: (그)
+  - sanigilon: 회복제를 (약을)
+  - de: ~의
+  - mia: 나의
+  - fratino: 여동생 (누나)
+  - '?'
+- demando: 언제 그 악기를 샀나요?
+  rektatraduko:
+  - Kiam: 언제
+  - vi: 당신은
+  - aĉetis: 샀다
+  - tiun: 그 (목적격)
+  - muzikilon: 악기를
+  - '?'
+- demando: 누가 내 열쇠를 마지막으로 사용했는가?
+  rektatraduko:
+  - Kiu: 누가
+  - laste: 마지막으로
+  - uzis: 사용했다
+  - mian: 나의 (목적격)
+  - ŝlosilon: 열쇠를
+  - '?'
+- demando: 당신은 베니스에서 곤돌라로도 타고 이동했나요?
+  rektatraduko:
+  - Ĉu: ~인가
+  - vi: 당신은
+  - en: ~안에
+  - Venecio: 베니스
+  - veturis: 타고 이동했다
+  - ankaŭ: 또한
+  - per: ~를 가지고
+  - gondolo: 곤돌라
+  - '?'
+- demando: 조용해지면 잠들 수 있는가?
+  rektatraduko:
+  - Ĉu: ~인가?
+  - vi: 당신은
+  - povos: 할 수 있다
+  - ekdormi: 잠에들다
+  - ','
+  - kiam: ~인 그 때
+  - silentiĝos: 조용해졌다
+  - '?'

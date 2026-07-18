@@ -1,54 +1,49 @@
-- 
-  demando: Kan du ta med min syters medicin?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - vi: du
-    - povas: kan
-    - kunporti: ta med
-    - la: (bestämd artikel)
-    - sanigilon: medicin
-    - de: (preposition som visar ägande)
-    - mia: min
-    - fratino: syster
-    - '?'
-- 
-  demando: När köpte du det där instrumentet?
-  rektatraduko: 
-    - Kiam: När
-    - vi: du
-    - aĉetis: köpte
-    - tiun: den där
-    - muzikilon: musikinstrument
-    - '?'
-- 
-  demando: Vem använde min nyckel sist?
-  rektatraduko: 
-    - Kiu: Vem
-    - laste: sist
-    - uzis: använde
-    - mian: min
-    - ŝlosilon: nyckel
-    - '?'
-- 
-  demando: Åkte du gondol i Venedig också?
-  rektatraduko: 
-    - Ĉu: (Frågepartikel)
-    - vi: du
-    - en: i
-    - Venecio: Venedig
-    - veturis: åkte, reste
-    - ankaŭ: också
-    - per: med
-    - gondolo: gondol
-    - '?'
-- 
-  demando: Kommer du kunna somna när det har blivit tyst?
-  rektatraduko: 
-    - Ĉu: (Frågepartikeln)
-    - vi: du
-    - povos: kommer att kunna
-    - ekdormi: somna
-    - ',' 
-    - kiam: när 
-    - silentiĝis: det blev tyst
-    - '?'
+- demando: Kan du ta med min systers medicin?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - vi: du
+  - povas: kan
+  - kunporti: ta med
+  - la: (bestämd artikel)
+  - sanigilon: medicin
+  - de: (preposition som visar ägande)
+  - mia: min
+  - fratino: syster
+  - '?'
+- demando: När köpte du det där instrumentet?
+  rektatraduko:
+  - Kiam: När
+  - vi: du
+  - aĉetis: köpte
+  - tiun: den där
+  - muzikilon: musikinstrument
+  - '?'
+- demando: Vem använde min nyckel sist?
+  rektatraduko:
+  - Kiu: Vem
+  - laste: sist
+  - uzis: använde
+  - mian: min
+  - ŝlosilon: nyckel
+  - '?'
+- demando: Åkte du gondol i Venedig också?
+  rektatraduko:
+  - Ĉu: (Frågepartikel)
+  - vi: du
+  - en: i
+  - Venecio: Venedig
+  - veturis: åkte, reste
+  - ankaŭ: också
+  - per: med
+  - gondolo: gondol
+  - '?'
+- demando: Kommer du kunna somna när det har blivit tyst?
+  rektatraduko:
+  - Ĉu: (Frågepartikeln)
+  - vi: du
+  - povos: kommer att kunna
+  - ekdormi: somna
+  - ','
+  - kiam: när
+  - silentiĝos: det blev tyst
+  - '?'

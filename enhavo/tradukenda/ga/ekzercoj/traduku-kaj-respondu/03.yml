@@ -1,77 +1,72 @@
--
-  demando: Freastalaithe in óstáin mhóra, an dtuigeann siad a lán teangacha? 
-  rektatraduko:  
-    - Ĉu: An 
-    - kelneroj: freastalaithe
-    - en: in
-    - grandaj: mór
-    - hoteloj: óstáin
-    - komprenas: tuig
-    - multajn: a lán
-    - lingvojn: teangacha
-    - '?'
--
-  demando: An eol duit gur maith le hÁine amhrán nua faoi fhear bocht agus cailín álainn?
-  rektatraduko: 
-    - Ĉu: An
-    - vi: tú
-    - scias: eol
-    - ','
-    - ĉu: gur
-    - Anna: Áine 
-    - ŝatas: is maith le
-    - la: an
-    - novan: nua
-    - kanton: amhrán
-    - pri: faoi
-    - malriĉulo: fear bocht
-    - kaj: agus
-    - belulino: cailín álainn
-    - '?'
--
-  demando: Cá bhfacaís seanfhear agus fear óg agus bord mór á iompar acu? Where did you see an old man and a young man who were carrying a large table?
-  rektatraduko: 
-    - Kie: Cá, cén áit
-    - vi: tú
-    - vidis: chonaic
-    - la: an
-    - maljunulon: seanfhear
-    - kaj: agus
-    - la: an
-    - junulon: fear óg
-    - ','
-    - kiuj: a
-    - portis: d'iompair
-    - grandan: mór
-    - tablon: bord
-    - '?'
--
-  demando: Conas a tharla sé gur tháinís arís chugainn gan gan deartháireacha agus deirfiúracha?
-  rektatraduko: 
-    - Kiel: Conas
-    - okazis: tharla
-    - ','
-    - ke: gur, go
-    - vi: tú
-    - denove: arís
-    - venis: tháinig
-    - al: chuig 
-    - ni: sinn
-    - sen: gan
-    - gefratoj: deartháireacha agus deirfiúracha
-    - '?'
--
-  demando: An féidir leat Esperanto a fhoghlaim cuíosach tapaidh leis an dtéacsleabhar nua?
-  rektatraduko: 
-    - Ĉu: An 
-    - vi: tú
-    - povas: féidir
-    - per: le
-    - la: an
-    - nova: nua
-    - lernolibro: téacsleabhar
-    - sufiĉe: cuíosach
-    - rapide: tapaidh
-    - lerni: foghlaim
-    - Esperanton: Esperanto
-    - '?'
+- demando: Freastalaithe in óstáin mhóra, an dtuigeann siad a lán teangacha?
+  rektatraduko:
+  - Ĉu: An
+  - kelneroj: freastalaithe
+  - en: in
+  - grandaj: mór
+  - hoteloj: óstáin
+  - komprenas: tuig
+  - multajn: a lán
+  - lingvojn: teangacha
+  - '?'
+- demando: An eol duit gur maith le hAna amhrán nua faoi fhear bocht agus cailín álainn?
+  rektatraduko:
+  - Ĉu: An
+  - vi: tú
+  - scias: eol
+  - ','
+  - ĉu: gur
+  - Ana: Ana
+  - ŝatas: is maith le
+  - la: an
+  - novan: nua
+  - kanton: amhrán
+  - pri: faoi
+  - malriĉulo: fear bocht
+  - kaj: agus
+  - belulino: cailín álainn
+  - '?'
+- demando: Cá bhfacaís seanfhear agus fear óg agus bord mór á iompar acu?
+  rektatraduko:
+  - Kie: Cá, cén áit
+  - vi: tú
+  - vidis: chonaic
+  - la: an
+  - maljunulon: seanfhear
+  - kaj: agus
+  - la: an
+  - junulon: fear óg
+  - ','
+  - kiuj: a
+  - portis: d'iompair
+  - grandan: mór
+  - tablon: bord
+  - '?'
+- demando: Conas a tharla sé gur tháinís arís chugainn gan gan deartháireacha agus deirfiúracha?
+  rektatraduko:
+  - Kiel: Conas
+  - okazis: tharla
+  - ','
+  - ke: gur, go
+  - vi: tú
+  - denove: arís
+  - venis: tháinig
+  - al: chuig
+  - ni: sinn
+  - sen: gan
+  - gefratoj: deartháireacha agus deirfiúracha
+  - '?'
+- demando: An féidir leat Esperanto a fhoghlaim cuíosach tapaidh leis an dtéacsleabhar nua?
+  rektatraduko:
+  - Ĉu: An
+  - vi: tú
+  - povas: féidir
+  - per: le
+  - la: an
+  - nova: nua
+  - lernolibro: téacsleabhar
+  - sufiĉe: cuíosach
+  - rapide: tapaidh
+  - lerni: foghlaim
+  - Esperanton: Esperanto
+  - '?'

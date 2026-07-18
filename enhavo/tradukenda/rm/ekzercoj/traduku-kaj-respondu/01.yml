@@ -1,0 +1,51 @@
+- demando: Tgi è tia amiga?
+  rektatraduko:
+  - Kiu: Tgi
+  - estas: è
+  - via: tes/tia
+  - amikino: amiga
+  - '?'
+- demando: Scriva tia amiga Anna ussa en la chombra?
+  rektatraduko:
+  - Ĉu: Sche
+  - via: tes/tia
+  - amikino: amiga
+  - Ana: Anna
+  - skribas: scriva
+  - nun: ussa
+  - en: en
+  - la: il/la
+  - ĉambro: chombra
+  - '?'
+- demando: Lavura l'amig da tes bab en in hotel?
+  rektatraduko:
+  - Ĉu: Sche
+  - la: il/la
+  - amiko: amig
+  - de: da
+  - via: tes/tia
+  - patro: bab
+  - laboras: lavura
+  - en: en
+  - hotelo: hotel
+  - '?'
+- demando: Tge è sin la maisa da lavur en nossa chombra?
+  rektatraduko:
+  - Kio: Tge
+  - estas: è
+  - sur: sin
+  - la: il/la
+  - labortablo: maisa da lavur
+  - en: en
+  - nia: noss/nossa
+  - ĉambro: chombra
+  - '?'
+- demando: È in cudesch d'emprender esperanto sin tia maisa?
+  rektatraduko:
+  - Ĉu: Sche
+  - Esperanto-lernolibro: cudesch d'emprender esperanto
+  - estas: è
+  - sur: sin
+  - via: tes/tia
+  - tablo: maisa
+  - '?'

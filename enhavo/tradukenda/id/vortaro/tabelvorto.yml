@@ -1,70 +1,71 @@
-kio: 
+ia:
+- sejenis
+- semacam
+ial: suatu alasan
+iam:
+- pernah
+- pada suatu waktu
+ie: di suatu tempat
+iel: dengan suatu cara
+ies: kepunyaan seseorang
+io: sesuatu
+iom: sejumlah
+iu: seseorang
+kia:
+- jenis apa
+- betapa
+kial: mengapa
+kiam: ketika
+kie: di mana
+kiel: bagaimana
+kien: ke mana
+kies: milik siapa
+kio:
 - apa
 - yang
-tio: itu
-io: sesuatu
-ĉio: semuanya
-nenio: tidak ada sesuatu
+kiom: seberapa banyak
 kiu:
 - siapa
 - yang
 - yang mana
-tiu: itu
-iu: seseorang
-ĉiu:
-- semua orang
-- setiap
-neniu: 
-- tak seorangpun
-- tak sesuatupun
-kie: di mana
-tie: di sana
-ie: di suatu tempat
-ĉie:
-- di mana-mana
-- di semua tempat
-nenie: tak dimanapun
-kia: 
-- jenis apa
-- betapa
+nenia: tidak ada semacam itu
+nenial: tanpa alasan apa pun
+neniam: tidak pernah
+nenie: tidak di mana pun
+neniel:
+- dengan cara apa pun tidak
+- tidak sama sekali
+nenies: bukan milik siapa pun
+nenio: tidak ada sesuatu
+neniom: tidak sedikit pun
+neniu:
+- tak seorang pun
+- tak satu pun
 tia:
 - yang begitu
 - semacam itu
-ia: 
-- sejenis
-- semacam
-ĉia: segala macam
-nenia: tidak ada semacam itu
-kiel: bagaimana
-tiel: seperti itu
-iel: dengan suatu cara
-ĉiel: dengan cara apapun
-neniel: 
-- bagaimanapun tidak
-- tidak sama sekali
-kial: mengapa
 tial: untuk alasan itu
-ial: suatu alasan
-ĉial: untuk setiap alasan
-nenial: bukan alasan apapun
-kiam: ketika
 tiam: waktu itu
-iam: 
-- pernah
-- pada suatu waktu
-ĉiam: 
-- selalu 
-- setiap saat
-neniam: tidak pernah
-kiom: seberapa banyak
+tie: di sana
+tiel: seperti itu
+ties: kepunyaannya
+tio: itu
 tiom: sejumlah itu
-iom: sejumlah
-ĉiom: 
+tiu: itu
+ĉia: segala macam
+ĉial: untuk setiap alasan
+ĉiam:
+- selalu
+- setiap saat
+ĉie:
+- di mana-mana
+- di semua tempat
+ĉiel: dengan cara apapun
+ĉies: milik semua orang
+ĉio: semuanya
+ĉiom:
 - semua
 - keseluruhan jumlah
-neniom: tak sedikitpun
-kies: milik siapa
-ties: kepunyaannya
-ies: kepunyaan seseorang
-ĉies: milik semua orang
-nenies: bukan milik siapapun
+ĉiu:
+- semua orang
+- setiap

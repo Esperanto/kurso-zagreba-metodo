@@ -1,51 +1,47 @@
-- 
-  demando: A barátság boldogabbá tesz, mint a szerelem?
-  rektatraduko: 
-    - Ĉu: Vajon
-    - amikeco: barátság
-    - pli: -bb
-    - feliĉigas: boldoggá tesz
-    - vin: téged
-    - ol: mint
-    - la: a
-    - amo: szerelem
-    - '?'
-- 
-  demando: Milyen gyakran írsz levelet a barátnőidnek Olaszországban?
-  rektatraduko: 
-    - Kiel: Hogyan
-    - ofte: gyakran
-    - vi: te
-    - skribas: ír
-    - leterojn: leveleket
-    - al: -nak/nek
-    - viaj: tieid
-    - amikinoj: barátnők
-    - en: -ban/ben
-    - Italio: Olaszország
-    - '?'
-- 
-  demando: Megváltozott a kapcsolat közted és a tanárod között?
-  rektatraduko: 
-    - Ĉu: Vajon
-    - la: a
-    - rilato: kapcsolat
-    - inter: között
-    - vi: te
-    - kaj: és
-    - via: tiéd
-    - instruisto: tanár
-    - ŝanĝiĝis: (meg)változott
-    - '?'
-- 
-  demando: Most már elég jól tudod az eszperantót?
-  rektatraduko: 
-    - Ĉu: Vajon
-    - vi: te
-    - nun: most
-    - jam: már
-    - scias: tud
-    - Esperanton: eszperantót
-    - sufiĉe: eléggé
-    - bone: jól
-    - '?'
+- demando: A barátság boldogabbá tesz, mint a szerelem?
+  rektatraduko:
+  - Ĉu: Vajon
+  - amikeco: barátság
+  - pli: -bb
+  - feliĉigas: boldoggá tesz
+  - vin: téged
+  - ol: mint
+  - la: a
+  - amo: szerelem
+  - '?'
+- demando: Milyen gyakran írsz levelet a barátnőidnek Olaszországban?
+  rektatraduko:
+  - Kiel: Hogyan
+  - ofte: gyakran
+  - vi: te
+  - skribas: ír
+  - leterojn: leveleket
+  - al: -nak/nek
+  - viaj: tieid
+  - amikinoj: barátnők
+  - en: -ban/ben
+  - Italio: Olaszország
+  - '?'
+- demando: Megváltozott a kapcsolat közted és a tanárod között?
+  rektatraduko:
+  - Ĉu: Vajon
+  - la: a
+  - rilato: kapcsolat
+  - inter: között
+  - vi: te
+  - kaj: és
+  - via: tiéd
+  - instruisto: tanár
+  - ŝanĝiĝis: (meg)változott
+  - '?'
+- demando: Most már elég jól tudod az eszperantót?
+  rektatraduko:
+  - Ĉu: Vajon
+  - vi: te
+  - nun: most
+  - jam: már
+  - scias: tud
+  - Esperanton: eszperantót
+  - sufiĉe: eléggé
+  - bone: jól
+  - '?'

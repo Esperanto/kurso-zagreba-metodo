@@ -1,21 +1,24 @@
 afer: stvar
+ag: djelovati
 agrabl: ugodan
-akcept: 
+akcept:
 - prihvatiti
 - primiti
 akv: voda
 ali: drugi
 alt: visok
-am: 
+am:
 - ljubiti
 - voljeti
 amik: prijatelj
+aper: pojaviti se
 arb: stablo
 aspekt: izgledati
 atend: čekati
 atent: paziti
 aĉet: kupiti
 aŭd: čuti
+aŭskult: slušati
 aŭt: auto
 aŭtoritat: autoritet
 bedaŭr: žaliti
@@ -41,6 +44,7 @@ dik: debeo
 dimanĉ: nedjelja
 dir: reći
 direkt: smjer
+divers: različit
 doktor: liječnik
 dolar: dolar
 dolor: boljeti
@@ -52,24 +56,25 @@ doĝ: dužd
 edz: suprug
 efektiv: zapravo
 ekskurs: izlet
+ekzempl: primjer
 esper: nadati se
 est: biti
 facil: lagan
 fakt: činjenica
 fal: pasti
 famili: obitelj
-far: 
+far:
 - napraviti
 - činiti
 fart: osjećati se
 feliĉ: sretan
-fermit: zatvoren
 ferm: zatvoriti
-fin: 
+fermit: zatvoren
+fin:
 - kraj
 - završetak
 flank: strana
-foj: 
+foj:
 - puta (višestrukost)
 - -struk
 forges: zaboraviti
@@ -78,9 +83,10 @@ fort: jak
 fot: fotografija
 frat: brat
 fru: rano
-fuŝ: 
+fuŝ:
 - pokvariti
 - upropastiti
+glas: čaša
 gondol: gondola
 graf: grof
 grand: velik
@@ -94,46 +100,56 @@ hor: sat
 hotel: hotel
 ide: ideja
 industri: industrija
+infan: dijete
+inform:
+- informirati
+- informacija
 instru: podučavati
 interes: zanimati
 invit: pozvati
 ir: ići
 Itali: Italija
+itali: Italija
 jar: godina
 jun: mlad
 kaf: kava
 kalv: ćelav
+kant: pjevati
 kap: glava
 kapabl: sposoban
-kapt: 
+kapt:
 - uloviti
 - uhvatiti
 kar: drag
 kastel: dvorac
-kav: 
+kav:
 - šupljina
 - rupa
-kelk: 
+kelk:
 - neki
 - nekoliko
 kelner: konobar
 klar: jasan
 klub: klub
 knab: dječak
-koler: 
+koler:
 - ljutiti se
 - ljutnja
 kolor: boja
 komenc: početi
 kompren: razumjeti
 kon: poznavati
+konsent:
+- složiti se
+- dogovoriti se
 kontent: zadovoljan
 kontrol: provjeriti
 kor: srce
 korp: tijelo
-kost: 
+kost:
 - koštati
 - stajati
+kred: vjerovati
 kri: vikati
 kuir: kuhati
 kuk: kolač
@@ -143,7 +159,8 @@ lakt: mlijeko
 lamp: svjetiljka
 land: zemlja
 larĝ: širok
-last: 
+las: pustiti
+last:
 - posljednji
 - zadnji
 laŭt: glasan
@@ -153,11 +170,14 @@ lern: učiti
 leter: pismo
 liber: slobodan
 libr: knjiga
+lingv: jezik
 lok: mjesto
 long: dugačak
+loĝ: stanovati
 lud: igrati
 lum: svjetlo
 man: ruka
+manier: način
 mank: nedostajati
 manĝ: jesti
 mar: more
@@ -170,18 +190,21 @@ minut: minuta
 mir: čuditi se
 moment: trenutak
 mon: novac
+monat: mjesec (dana)
+mond: svijet
 mont: planina
 montr: pokazati
 mort: umrijeti
 mov: pomaknuti
 mult: mnogi
 muzik: glazba
+naci: narod
 nask: roditi
 natur: priroda
 neces: trebati
 nokt: noć
 nom: ime
-not: 
+not:
 - bilješka
 - ocjena
 nov: nov
@@ -189,12 +212,13 @@ odor: miris
 oft: često
 okaz: dogoditi se
 okul: oko
-onkl: 
+onkl:
 - stric
 - ujak
 opini: smatrati
 ord: red
 orel: uho
+organiz: organizacija
 pac: mir
 pag: platiti
 pan: kruh
@@ -205,7 +229,7 @@ part: dio
 pas: proći
 patr: otac
 paŝ: korak
-pens: 
+pens:
 - misao
 - misliti
 perd: izgubiti
@@ -217,19 +241,28 @@ plac: trg
 plan: planirati
 plaĉ: svidjeti se
 plen: pun
+plor: plakati
+pluv: kiša
 polic: policija
 pord: vrata
 port: nositi
 pov: moći
+poŝ: džep
+poŝt: pošta
 pren: uzeti
 pret: spreman
 prezent: predstaviti
 problem: problem
 proksim: blizu
+proksimum: približno
 promen: šetati
 propon: predložiti
 prov: pokušati
+publik: javan
+punkt: točka
+pur: čist
 rajt: smjeti
+rakont: pričati
 rapid: brz
 raport: izvijestiti
 real: stvaran
@@ -243,6 +276,8 @@ rid: smijati se
 rigard:
 - promatrati
 - gledati
+rilat: odnos
+rimark: primjedba
 riĉ: bogat
 rol: uloga
 ruĝ: crven
@@ -250,6 +285,7 @@ salt: skočiti
 salut: pozdrav
 sam: isto
 san: zdrav
+sat: sit
 saĝ: mudar
 sci: znati
 sek: suh
@@ -257,11 +293,16 @@ sekret: tajna
 sekv: slijediti
 semajn: tjedan
 send: poslati
+sent: osjećati
 serĉ: tražiti
+seĝ:
+- sjedalica
+- stolica
 si: (refleksivna zamjenica)
 sid: sjediti
 silent: tih
 simil: sličan
+simpl: jednostavan
 sinjor: gospodin
 situaci: situacija
 skrib: pisati
@@ -273,12 +314,13 @@ star: stajati
 strat: ulica
 subit: iznenada
 sufiĉ: dovoljno
+suk: sok
 sukces: uspjeh
 sun: sunce
-supr: 
+supr:
 - gornji
 - gore
-tabl: stol 
+tabl: stol
 tag: dan
 te: čaj
 telefon: telefon
@@ -286,13 +328,16 @@ temp: vrijeme
 temperatur: temperatura
 ten: držati
 teror: teror
+terur: grozan
 tim: bojati se
 ton: ton
 trankvil: miran
 trink: piti
 trov: pronaći
 turk: turski
+tut: sve
 tuŝ: dirati
+universal: univerzalno
 urb: grad
 util: koristan
 uz: koristiti
@@ -319,12 +364,12 @@ vort: riječ
 voĉ: glas
 zorg: brinuti
 ĉambr: soba
-ĉef: 
+ĉef:
 - glavni
 - šef
 ĝen: smetati
 ĝeneral: opći
-ĝoj: 
+ĝoj:
 - veseo
 - radostan
 ĝust: pravi
@@ -333,5 +378,3 @@ zorg: brinuti
 ŝanĝ: mijenjati
 ŝat: voljeti
 ŝip: brod
-lernant: učenik
-falig: srušiti

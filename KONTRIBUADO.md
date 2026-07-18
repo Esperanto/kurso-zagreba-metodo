@@ -133,11 +133,13 @@ La gramatikaj klarigoj estas en la dosierujo `/gramatiko`. Ili estas skribitaj e
   - `*bona lingvo*`
 - Disigu Esperanton kaj la tradukon per `–` (paŭzostreko), ne per `-`. Ekzemple:
   - `*bona lingvo* – good language`
-- Vortojn aŭ literojn, kiujn vi klarigas, emfazigu per `__`. Ekzemple:
-  - `The morpheme *-ej* denotes a place, for example *lern__ej__o* – school`
+- Vortojn aŭ literojn, kiujn vi klarigas, emfazigu per `**`.
+  Se la tuta Esperanta vorto estas kursiva kaj nur unu morfemo estu grasa,
+  uzu `_...**...**..._`. Ekzemple:
+  - `The morpheme _**-ej**_ denotes a place, for example _lern**ej**o_ – school`
+- Ne enmetu manajn linisaltojn meze de flua frazo aŭ alineo. Linisaltoj
+  apartigu titolojn, alineojn kaj listojn; nestitaj listoj povas esti indentitaj.
 - Se vi dubas, rigardu la [germanan version](de/).
-
-Ne zorgu, se GitHub foje malĝuste prezentas partojn de Markdown (ekz. kombinadojn kiel `*lern__ej__o*`) montrante la Markdown-dosierojn en sia retejo. Tio estas nur problemo de GitHub; nia kreanta skripto tamen ĝuste interpretos ilin.
 
 ## Kontrollegado
 

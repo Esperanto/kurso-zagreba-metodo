@@ -1,21 +1,27 @@
 afer:
 - Angelegenheit
 - Sache
+ag: handeln
 agrabl: angenehm
 akcept: akzeptieren
 akv: Wasser
 ali: anderer
-alt: 
+alt:
 - hoch
 - hohe/r/s
 am: lieben
 amik: Freund
+aper: erscheinen
 arb: Baum
 aspekt: Aussehen
 atend: warten
 atent: acht geben
 aĉet: kaufen
 aŭd: hören
+aŭskult:
+- hören
+- zuhören
+- anhören
 aŭt: Auto
 aŭtoritat: Autorität
 bedaŭr: bedauern
@@ -33,12 +39,10 @@ branĉ:
 - Ast
 bru: Lärm
 buŝ: Mund
-cert: 
+cert:
 - sicher
 - gewiss
-dank:
-- Dank
-- danken
+dank: danken
 daŭr: dauern
 decid: entscheiden
 demand: fragen
@@ -48,10 +52,11 @@ diabl: Teufel
 dik: dick
 dimanĉ: Sonntag
 dir: sagen
-direkt: Richtung
+direkt: lenken
+divers: verschieden
 doktor: Doktor
 dolar: Dollar
-dolor: Schmerz
+dolor: schmerzen
 dolĉ: süß
 dom: Haus
 don: geben
@@ -62,12 +67,11 @@ efektiv:
 - wirklich
 - tatsächlich
 ekskurs: Ausflug
+ekzempl: Beispiel
 esper: hoffen
 est: sein (Verb)
 facil: leicht
-fakt:
-- Tatsache
-- tatsächlich
+fakt: Tatsache
 fal: fallen
 famili: Familie
 far:
@@ -86,6 +90,7 @@ fot: Foto
 frat: Bruder
 fru: früh
 fuŝ: pfuschen
+glas: Glas
 gondol: Gondel
 graf: Graf
 grand: groß
@@ -101,6 +106,8 @@ hor: Stunde
 hotel: Hotel
 ide: Idee
 industri: Industrie
+infan: Kind
+inform: informieren
 instru: unterrichten
 interes: Interesse
 invit: einladen
@@ -112,6 +119,7 @@ jar: Jahr
 jun: jung
 kaf: Kaffee
 kalv: kahl
+kant: singen
 kap: Kopf
 kapabl: fähig
 kapt: fangen
@@ -139,11 +147,13 @@ kolor: Farbe
 komenc: anfangen
 kompren: verstehen
 kon: kennen
+konsent: zustimmen
 kontent: zufrieden
 kontrol: prüfen
 kor: Herz
 korp: Körper
 kost: kosten
+kred: glauben
 kri: schreien
 kuir: kochen
 kuk: Kuchen
@@ -153,6 +163,7 @@ lakt: Milch
 lamp: Lampe
 land: Land
 larĝ: breit
+las: lassen
 last: letzter
 laŭt: laut
 lecion: Lektion
@@ -161,11 +172,17 @@ lern: lernen
 leter: Brief
 liber: frei
 libr: Buch
+lingv: Sprache
 lok: Ort
 long: lang
+loĝ: wohnen
 lud: spielen
 lum: Licht
 man: Hand
+manier:
+- Art
+- Weise
+- Art und Weise
 mank: fehlen
 manĝ: essen
 mar: Meer
@@ -174,19 +191,22 @@ memor: sich erinnern
 met:
 - setzen
 - stellen
-- legen 
+- legen
 mez: Mitte
 milit: Krieg
 minut: Minute
 mir: sich wundern
 moment: Moment
 mon: Geld
+monat: Monat
+mond: Welt
 mont: Berg
 montr: zeigen
 mort: sterben
 mov: bewegen
 mult: viel
 muzik: Musik
+naci: Nation
 nask: gebären
 natur: Natur
 neces: notwendig
@@ -204,6 +224,7 @@ onkl: Onkel
 opini: meinen
 ord: Ordnung
 orel: Ohr
+organiz: organisieren
 pac: Friede
 pag: zahlen
 pan: Brot
@@ -224,21 +245,30 @@ plac: Platz
 plan: Plan
 plaĉ: gefallen
 plen: voll
+plor: weinen
+pluv: regnen
 polic: Polizei
 pord: Tür
 port: tragen
 pov: können
+poŝ: Tasche
+poŝt: Post
 pren: nehmen
 pret: bereit
 prezent: vorstellen
 problem: Problem
 proksim: nahe
+proksimum: ungefähr
 promen: spazierengehen
 propon: vorschlagen
 prov: versuchen
+publik: öffentlich
+punkt: Punkt
+pur: sauber
 rajt:
 - das Recht haben
 - dürfen
+rakont: erzählen
 rapid: schnell
 raport: berichten
 real: wirklich
@@ -250,6 +280,10 @@ rest: bleiben
 ricev: bekommen
 rid: lachen
 rigard: schauen
+rilat:
+- beziehen
+- zusammenhängen
+rimark: bemerken
 riĉ: reich
 rol: Rolle
 ruĝ: rot
@@ -257,6 +291,7 @@ salt: springen
 salut: Gruß
 sam: gleich
 san: gesund
+sat: satt
 saĝ:
 - klug
 - weise
@@ -266,13 +301,18 @@ sekret: Geheimnis
 sekv: folgen
 semajn: Woche
 send: schicken
+sent: fühlen
 serĉ: suchen
+seĝ: Stuhl
 si:
 - sich
 - sein/ihr
 sid: sitzen
 silent: Schweigen
 simil: ähnlich
+simpl:
+- einfach
+- simpel
 sinjor: Herr
 situaci: Lage
 skrib: schreiben
@@ -284,6 +324,7 @@ star: stehen
 strat: Straße
 subit: plötzlich
 sufiĉ: genügend
+suk: Saft
 sukces: Erfolg haben
 sun: Sonne
 supr: oben
@@ -295,13 +336,18 @@ temp: Zeit
 temperatur: Temperatur
 ten: halten
 teror: Terror
+terur: schrecklich
 tim: fürchten
 ton: Ton
 trankvil: ruhig
 trink: trinken
 trov: finden
 turk: Türke
+tut: ganz
 tuŝ: berühren
+universal:
+- allgemein
+- universell
 urb: Stadt
 util: nützlich
 uz: gebrauchen

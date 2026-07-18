@@ -1,77 +1,71 @@
-- 
-  demando: Who had the book that you were waiting for more than 2 years?
-  rektatraduko: 
-    - Kiu: Who
-    - havis: had
-    - la: the
-    - libron: book
-    - ',' 
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
-    - '?'
-- 
-  demando: Do you want me to show you the photo which is dearest to me?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - volas: want
-    - ','
-    - ke: that
-    - mi: I
-    - montru: show
-    - al: to 
-    - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
-    - '?'
-- 
-  demando: Where did you buy that garment?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
-    - '?'
-- 
-  demando: Where will you go on Sunday if it is a sunny day?
-  rektatraduko: 
-    - Kien: Where
-    - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
-    - ',' 
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
-    - '?'
-- 
-  demando: Did your brother already leave?
-  rektatraduko: 
-    - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
-    - '?'
-- 
-  demando: Where is the water which you have brought yourself?
-  rektatraduko: 
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
-    - ',' 
-    - kiun: which
-    - vi: you
-    - mem: yourself
-    - kunportis: have brought
-    - '?'
+- demando: ໃຜມີປຶ້ມທີ່ເຈົ້າລໍຖ້າຫຼາຍກວ່າສອງປີ?
+  rektatraduko:
+  - Kiu: ໃຜ
+  - havis: ໄດ້ມີ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - libron: ປຶ້ມ
+  - ','
+  - kiun: ທີ່
+  - vi: ເຈົ້າ
+  - atendis: ໄດ້ລໍຖ້າ
+  - pli: ຫຼາຍກວ່າ
+  - ol: ກວ່າ
+  - du: ສອງ
+  - jarojn: ປີຫຼາຍປີ
+  - '?'
+- demando: ເຈົ້າຢາກໃຫ້ຂ້ອຍສະແດງຮູບຖ່າຍທີ່ຂ້ອຍຮັກທີ່ສຸດໃຫ້ເຈົ້າເບິ່ງບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - volas: ຕ້ອງການ
+  - ','
+  - ke: ວ່າ
+  - mi: ຂ້ອຍ
+  - montru: ສະແດງ
+  - al: ໄປຫາ
+  - vi: ເຈົ້າ
+  - mian: ຂອງຂ້ອຍ
+  - plej: ທີ່ສຸດ
+  - karan: ທີ່ຮັກ
+  - foton: ຮູບຖ່າຍ
+  - '?'
+- demando: ເຈົ້າຊື້ເສື້ອຜ້ານັ້ນຢູ່ໃສ?
+  rektatraduko:
+  - Kie: ຢູ່ໃສ
+  - vi: ເຈົ້າ
+  - aĉetis: ໄດ້ຊື້
+  - tiun: ອັນນັ້ນ
+  - vestaĵon: ເສື້ອຜ້າ
+  - '?'
+- demando: ຖ້າວັນອາທິດແດດອອກ ເຈົ້າຈະໄປໃສ?
+  rektatraduko:
+  - Kien: ໄປໃສ
+  - vi: ເຈົ້າ
+  - iros: ຈະໄປ
+  - dimanĉe: ໃນວັນອາທິດ
+  - ','
+  - se: ຖ້າ
+  - estos: ຈະເປັນ
+  - suna: ມີແດດ
+  - tago: ມື້
+  - '?'
+- demando: ພີ່ຊາຍຫຼືນ້ອງຊາຍຂອງເຈົ້າອອກໄປແລ້ວບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - via: ຂອງເຈົ້າ
+  - frato: ອ້າຍນ້ອງຊາຍ
+  - jam: ແລ້ວ
+  - ekiris: ເລີ່ມອອກໄປ
+  - '?'
+- demando: ນ້ຳທີ່ເຈົ້ານຳມາເອງຢູ່ໃສ?
+  rektatraduko:
+  - Kie: ຢູ່ໃສ
+  - estas: ແມ່ນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - akvo: ນ້ຳ
+  - ','
+  - kiun: ທີ່
+  - vi: ເຈົ້າ
+  - mem: ເອງ
+  - kunportis: ໄດ້ນຳຕິດມາ
+  - '?'

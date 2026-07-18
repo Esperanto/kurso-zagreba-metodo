@@ -1,64 +1,59 @@
--
-  demando: Can you learn calmly why someone is singing joyfully?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
-    - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
-    - '?'
--
-  demando: Who knows when and where we will see each other again?
-  rektatraduko: 
-    - Kiu: Who
-    - scias: knows
-    - ','
-    - kiam: when 
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
-    - '?'
--
-  demando: What time is it now?
-  rektatraduko: 
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is 
-    - nun: now
-    - '?'
--
-  demando: Did someone help you open the door of the old house?
-  rektatraduko: 
-    - Ĉu: Whether
-    - iu: someone 
-    - helpis: did help 
-    - al: to 
-    - vi: you 
-    - malfermi: open 
-    - la: the 
-    - pordon: door 
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
-    - '?'
--
-  demando: Why do you not have time to listen to me longer?
-  rektatraduko: 
-    - Kial: Why
-    - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
-    - min: me
-    - pli: more
-    - longe: long
-    - '?'
+- demando: ເຈົ້າສາມາດຮຽນຢ່າງສະຫງົບໄດ້ບໍ ໃນຂະນະທີ່ບາງຄົນຮ້ອງເພງຢ່າງດີໃຈ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - povas: ສາມາດ
+  - trankvile: ຢ່າງສະຫງົບ
+  - lerni: ຮຽນ
+  - ','
+  - dum: ໃນຂະນະທີ່
+  - iu: ບາງຄົນ
+  - ĝoje: ຢ່າງດີໃຈ
+  - kantas: ຮ້ອງເພງ
+  - '?'
+- demando: ໃຜຮູ້ວ່າເມື່ອໃດແລະຢູ່ໃສພວກເຮົາຈະພົບກັນອີກ?
+  rektatraduko:
+  - Kiu: ໃຜ
+  - scias: ຮູ້
+  - ','
+  - kiam: ເມື່ອໃດ
+  - kaj: ແລະ
+  - kie: ຢູ່ໃສ
+  - ni: ພວກເຮົາ
+  - revidos: ຈະເຫັນອີກ
+  - nin: ກັນ
+  - '?'
+- demando: ຕອນນີ້ເວລາຈັກໂມງ?
+  rektatraduko:
+  - Kioma: ເທົ່າໃດ
+  - horo: ຊົ່ວໂມງ
+  - estas: ແມ່ນ
+  - nun: ຕອນນີ້
+  - '?'
+- demando: ມີໃຜຊ່ວຍເຈົ້າເປີດປະຕູຂອງເຮືອນເກົ່າບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - iu: ບາງຄົນ
+  - helpis: ໄດ້ຊ່ວຍ
+  - al: ໄປຫາ
+  - vi: ເຈົ້າ
+  - malfermi: ເປີດ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - pordon: ປະຕູ
+  - de: ຂອງ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - malnova: ເກົ່າ
+  - domo: ເຮືອນ
+  - '?'
+- demando: ເປັນຫຍັງເຈົ້າບໍ່ມີເວລາຟັງຂ້ອຍດົນກວ່ານີ້?
+  rektatraduko:
+  - Kial: ເປັນຫຍັງ
+  - vi: ເຈົ້າ
+  - ne: ບໍ່
+  - havas: ມີ
+  - tempon: ເວລາ
+  - aŭskulti: ຟັງ
+  - min: ຂ້ອຍ
+  - pli: ຫຼາຍກວ່າ
+  - longe: ດົນ
+  - '?'

@@ -1,0 +1,14 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, partikulo
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - ajn
+  - des
+  - jen
+  - ju
+  - mem
+  - ne
+  - ĉi
+  - ĉu

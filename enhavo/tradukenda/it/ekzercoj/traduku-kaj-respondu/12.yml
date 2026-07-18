@@ -1,68 +1,63 @@
-- 
-  demando: Ci rivedremo ancora, in qualunque momento e in qualunque luogo?
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - ni: noi (soggetto)
-    - revidos: rivedremo
-    - nin: noi (oggetto)
-    - ',' 
-    - kie: dove
-    - ajn: qualsiasi
-    - kaj: e
-    - kiam: quando
-    - ajn: qualsiasi
-    - '?'
-- 
-  demando: "Quando riceverò indietro l'altra metà dei libri?"
-  rektatraduko: 
-    - Kiam: Quando
-    - mi: io
-    - rericevos: ri-riceverò
-    - la: la
-    - alian: altra
-    - duonon: metà
-    - de: di
-    - la: i
-    - libroj: libri
-    - '?'
-- 
-  demando: "Avrai bisogno di più di un quarto dell'anno per quei lavori?"
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - vi: tu
-    - bezonos: avrai bisogno
-    - pli: più
-    - ol: di
-    - kvaronan: un quarto (aggettivo)
-    - jaron: anno
-    - por: per
-    - tiuj: quei
-    - laboroj: lavori
-    - '?'
-- 
-  demando: "Com'è che quanto più fa freddo, tanto più a lungo aspettiamo?"
-  rektatraduko: 
-    - Kial: Perché
-    - estas: è
-    - des: quanto
-    - pli: più
-    - malvarma: freddo
-    - ',' 
-    - ju: tanto
-    - pli: più
-    - longe: a lungo
-    - ni: noi
-    - atendas: aspettiamo
-    - '?'
-- 
-  demando: Saresti contenta con qualsiasi uomo?
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - vi: tu
-    - estus: saresti
-    - kontenta: contenta/o
-    - kun: con
-    - iu: qualcuno
-    - ajn: qualsiasi
-    - viro: uomo
-    - '?'
+- demando: Ci rivedremo ancora, in qualunque momento e in qualunque luogo?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - ni: noi (soggetto)
+  - revidos: rivedremo
+  - nin: noi (oggetto)
+  - ','
+  - kie: dove
+  - ajn: qualsiasi
+  - kaj: e
+  - kiam: quando
+  - ajn: qualsiasi
+  - '?'
+- demando: Quando riceverò indietro l'altra metà dei libri?
+  rektatraduko:
+  - Kiam: Quando
+  - mi: io
+  - rericevos: ri-riceverò
+  - la: la
+  - alian: altra
+  - duonon: metà
+  - de: di
+  - la: i
+  - libroj: libri
+  - '?'
+- demando: Avrai bisogno di più di un quarto dell'anno per quei lavori?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - vi: tu
+  - bezonos: avrai bisogno
+  - pli: più
+  - ol: di
+  - kvaronan: un quarto (aggettivo)
+  - jaron: anno
+  - por: per
+  - tiuj: quei
+  - laboroj: lavori
+  - '?'
+- demando: Com'è che quanto più fa freddo, tanto più a lungo aspettiamo?
+  rektatraduko:
+  - Kial: Perché
+  - ju: tanto
+  - pli: più
+  - longe: a lungo
+  - ni: noi
+  - atendas: aspettiamo
+  - ','
+  - des: quanto
+  - pli: più
+  - malvarme: freddo
+  - estas: è
+  - '?'
+- demando: Saresti contenta con qualsiasi uomo?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - vi: tu
+  - estus: saresti
+  - kontenta: contenta/o
+  - kun: con
+  - iu: qualcuno
+  - ajn: qualsiasi
+  - viro: uomo
+  - '?'

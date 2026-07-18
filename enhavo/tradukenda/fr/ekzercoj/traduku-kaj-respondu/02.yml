@@ -1,70 +1,64 @@
--
-  demando: Comment était votre ancienne maison ?
-  rektatraduko: 
-    - Kia: Comment
-    - estis: était
-    - via: votre
-    - malnova: ancienne
-    - hejmo: maison
-    - '?'
--
-  demando: "Quels livres as-tu lus, et est-ce qu'ils sont bons ?"
+- demando: Comment était votre ancienne maison ?
   rektatraduko:
-    - Kiujn: Quels
-    - librojn: livres
-    - vi: tu
-    - legis: as lu
-    - kaj: et
-    - ĉu: est-ce que
-    - ili: ils
-    - estas: sont
-    - bonaj: bons
-    - '?'
--
-  demando: "Qu'ont fait Anne et Marc dans la petite chambre de Marc ?"
+  - Kia: Comment
+  - estis: était
+  - via: votre
+  - malnova: ancienne
+  - hejmo: maison
+  - '?'
+- demando: Quels livres as-tu lus, et est-ce qu'ils sont bons ?
   rektatraduko:
-    - Kion: "Qu'"
-    - faris: ont fait
-    - Anna: Anna
-    - kaj: et
-    - Marko: Marc
-    - en: dans
-    - la: la
-    - malgranda: petite
-    - ĉambro: chambre
-    - de: de
-    - Marko: Marc
-    - '?'
--
-  demando: "Est-ce que vous aimez lire des livres sur l'amour ?"
+  - Kiujn: Quels
+  - librojn: livres
+  - vi: tu
+  - legis: as lu
+  - kaj: et
+  - ĉu: est-ce que
+  - ili: ils
+  - estas: sont
+  - bonaj: bons
+  - '?'
+- demando: Qu'ont fait Ana et Marko dans la petite chambre de Marko ?
   rektatraduko:
-    - Ĉu: Est-ce que
-    - vi: vous
-    - ŝatas: aimez
-    - legi: lire
-    - librojn: des livres
-    - pri: sur
-    - amo: "l'amour"
-    - '?'
--
-  demando: Qui ira avec vous à votre maison ?
+  - Kion: Qu'
+  - faris: ont fait
+  - Ana: Ana
+  - kaj: et
+  - Marko: Marko
+  - en: dans
+  - la: la
+  - malgranda: petite
+  - ĉambro: chambre
+  - de: de
+  - Marko: Marko
+  - '?'
+- demando: Est-ce que vous aimez lire des livres sur l'amour ?
   rektatraduko:
-    - Kiu: Qui
-    - iros: ira
-    - kun: avec
-    - vi: vous
-    - al: à
-    - via: votre
-    - hejmo: maison
-    - '?'
--
-  demando: Comment sont les yeux de ta petite amie ?
+  - Ĉu: Est-ce que
+  - vi: vous
+  - ŝatas: aimez
+  - legi: lire
+  - librojn: des livres
+  - pri: sur
+  - amo: l'amour
+  - '?'
+- demando: Qui ira avec vous à votre maison ?
   rektatraduko:
-    - Kiaj: Comment
-    - estas: sont
-    - la: les
-    - okuloj: yeux
-    - de: de
-    - via: ta
-    - amikino: petite amie
-    - '?'
+  - Kiu: Qui
+  - iros: ira
+  - kun: avec
+  - vi: vous
+  - al: à
+  - via: votre
+  - hejmo: maison
+  - '?'
+- demando: Comment sont les yeux de ton amie ?
+  rektatraduko:
+  - Kiaj: Comment
+  - estas: sont
+  - la: les
+  - okuloj: yeux
+  - de: de
+  - via: ta
+  - amikino: amie
+  - '?'

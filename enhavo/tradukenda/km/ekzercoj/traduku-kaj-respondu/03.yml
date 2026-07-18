@@ -1,77 +1,72 @@
--
-  demando: Do waiters in large hotels understand a lot of languages? 
-  rektatraduko:  
-    - Ĉu: Whether 
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
-    - '?'
--
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - scias: know
-    - ','
-    - ĉu: whether
-    - Anna: Anna 
-    - ŝatas: likes
-    - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
-    - '?'
--
-  demando: Where did you see an old man and a young man who were carrying a large table?
-  rektatraduko: 
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
-    - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
-    - '?'
--
-  demando: How did it happen that you again came to us without brothers-and-sisters?
-  rektatraduko: 
-    - Kiel: How
-    - okazis: did it happen
-    - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to 
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
-    - '?'
--
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
-    - la: the 
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
-    - '?'
+- demando: តើអ្នកបម្រើនៅក្នុងសណ្ឋាគារធំៗយល់ភាសាច្រើនឬ?
+  rektatraduko:
+  - Ĉu: តើ
+  - kelneroj: អ្នកបម្រើ
+  - en: ក្នុង
+  - grandaj: ធំៗ
+  - hoteloj: សណ្ឋាគារ
+  - komprenas: យល់
+  - multajn: ច្រើន
+  - lingvojn: ភាសា
+  - '?'
+- demando: តើអ្នកដឹងទេថា អាណាចូលចិត្តបទចម្រៀងថ្មីអំពីបុរសក្រ និងនារីស្អាត?
+  rektatraduko:
+  - Ĉu: តើ
+  - vi: អ្នក
+  - scias: ដឹង
+  - ','
+  - ĉu: ថា
+  - Ana: អាណា
+  - ŝatas: ចូលចិត្ត
+  - la: ពាក្យកំណត់
+  - novan: ថ្មី
+  - kanton: បទចម្រៀង
+  - pri: អំពី
+  - malriĉulo: បុរសក្រ
+  - kaj: និង
+  - belulino: នារីស្អាត
+  - '?'
+- demando: តើអ្នកបានឃើញបុរសចាស់ និងយុវជនដែលកំពុងលីតុធំនៅទីណា?
+  rektatraduko:
+  - Kie: នៅទីណា
+  - vi: អ្នក
+  - vidis: បានឃើញ
+  - la: ពាក្យកំណត់
+  - maljunulon: បុរសចាស់
+  - kaj: និង
+  - la: ពាក្យកំណត់
+  - junulon: យុវជន
+  - ','
+  - kiuj: ដែល
+  - portis: បានលី
+  - grandan: ធំ
+  - tablon: តុ
+  - '?'
+- demando: ហេតុអ្វីបានជាអ្នកមករកយើងម្តងទៀតដោយគ្មានបងប្អូនប្រុសស្រី?
+  rektatraduko:
+  - Kiel: ដូចម្តេច
+  - okazis: បានកើតឡើង
+  - ','
+  - ke: ថា
+  - vi: អ្នក
+  - denove: ម្តងទៀត
+  - venis: បានមក
+  - al: ទៅ
+  - ni: យើង
+  - sen: គ្មាន
+  - gefratoj: បងប្អូនប្រុសស្រី
+  - '?'
+- demando: តើអ្នកអាចរៀនអេស្ប៉េរ៉ាន់តូបានលឿនគ្រប់គ្រាន់ដោយប្រើសៀវភៅរៀនថ្មីឬ?
+  rektatraduko:
+  - Ĉu: តើ
+  - vi: អ្នក
+  - povas: អាច
+  - per: ដោយមធ្យោបាយ
+  - la: ពាក្យកំណត់
+  - nova: ថ្មី
+  - lernolibro: សៀវភៅរៀន
+  - sufiĉe: គ្រប់គ្រាន់
+  - rapide: លឿន
+  - lerni: រៀន
+  - Esperanton: អេស្ប៉េរ៉ាន់តូ
+  - '?'

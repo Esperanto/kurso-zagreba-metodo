@@ -1,30 +1,33 @@
-afer: 
+afer:
 - เรื่องราว
 - ข้าวของ
-agrabl: ยินดี
+ag: กระทำ
+agrabl: น่าพอใจ
 akcept: ยอมรับ
 akv: น้ำ
 ali: อื่น ๆ
 alt: สูง
 am: รัก
 amik: เพื่อน
+aper: ปรากฏ
 arb: ต้นไม้
 aspekt:
-- ลักษณะ
+- ดูเหมือน
+- มีลักษณะ
 atend: คอย
-atent: ระวัง
+atent: ใส่ใจ, ระวัง
 aĉet: ซื้อ
 aŭd: ได้ยิน
+aŭskult: ฟัง
 aŭt: รถ
-aŭtoritat: 
-- มีสิทธิ์
-- มีอำนาจชอบธรรม
+aŭtoritat: อำนาจ, ผู้มีอำนาจ
 bedaŭr: เสียใจ, เสียดาย
 bel: สวย
 best: สัตว์
 bezon: จำเป็น
 bien:
-- ทุ่ง
+- ที่ดิน
+- ไร่
 bon: ดี
 branĉ: กิ่ง
 bru: เสียงรบกวน
@@ -35,7 +38,7 @@ daŭr: ต่อเนื่อง
 decid: ตัดสินใจ
 demand: ถาม
 dev: ต้อง
-dezir: ปรารถณา
+dezir: ต้องการ, ปรารถนา
 diabl: ปีศาจ
 dik:
 - หนา
@@ -43,7 +46,8 @@ dik:
 dimanĉ: วันอาทิตย์
 dir: บอก
 direkt: ทิศทาง
-doktor: 
+divers: ต่าง ๆ
+doktor:
 - แพทย์
 - ดอกเตอร์
 dolar: ดอลล่า
@@ -53,12 +57,13 @@ dolĉ: หวาน
 dom: บ้าน
 don: ให้
 dorm: นอนหลับ
-doĝ: สุนัข
+doĝ: โดเจ
 edz: สามี
 efektiv: เป็นจริง
 ekskurs: ทัศนศึกษา
+ekzempl: ตัวอย่าง
 esper: หวัง
-est: 
+est:
 - เป็น
 - อยู่
 - คือ
@@ -68,11 +73,11 @@ fal: ตก
 famili: ครอบครัว
 far: ทำ
 fart:
-- สภาพของสุขภาพ
-- เป็น
-feliĉ: ความสุข
-ferm: ปิด 
-fin: 
+- รู้สึกสบาย
+- เป็นอยู่
+feliĉ: มีความสุข
+ferm: ปิด
+fin:
 - จบ
 - เลิก
 flank: ด้าน
@@ -82,13 +87,15 @@ forges: ลืม
 form: รูปแบบ
 fort: แข็งแรง
 fot: รูปภาพ
-frat: 
+frat:
 - พี่ชาย
 - น้องชาย
 fru: ก่อนเวลา
 fuŝ: ทำผิด
+glas: แก้ว
 gondol: เรือกอนโดลา
 graf:
+- เคานต์
 - ขุนนาง
 grand:
 - ใหญ่
@@ -96,14 +103,16 @@ grav: สำคัญ
 halt: หยุด
 hav: มี
 hejm: บ้าน
-help: 
+help:
 - ช่วย
 - ช่วยเหลือ
 hom: มนุษย์
 hor: ชั่วโมง
 hotel: โรงแรม
 ide: ความคิด
-industri: อุตสาหกรรม 
+industri: อุตสาหกรรม
+infan: เด็ก
+inform: ข้อมูลข่าวสาร
 instru: สอน
 interes: สนใจ
 invit: เชิญ
@@ -113,19 +122,20 @@ jar: ปี
 jun: วัยรุ่น
 kaf: กาแฟ
 kalv: หัวล้าน
+kant: ร้องเพลง
 kap: ศีรษะ
 kapabl: สามารถ
 kapt: จับ
-kar: สี่
+kar: ที่รัก, แพง
 kastel: ปราสาท
-kav: 
+kav:
 - ถ้ำ
 - โพรง
 kelk: จำนวนหนึ่ง
 kelner: บริกร
-klar: 
+klar:
+- ชัดเจน
 - กระจ่าง
-- สะอาด
 klub: ชมรม
 knab: เด็กชาย
 koler: โกรธ
@@ -133,20 +143,23 @@ kolor: สี
 komenc: เริ่ม
 kompren: เข้าใจ
 kon: รู้
+konsent: เห็นด้วย
 kontent: พอใจ
 kontrol: ตรวจสอบ
 kor: หัวใจ
 korp: ร่างกาย
 kost: มีราคา
+kred: เชื่อ
 kri: ตะโกน
 kuir: ทำอาหาร, ปรุง, ชง
-kuk: เค้ก 
+kuk: เค้ก
 kur: วิ่ง
 labor: ทำงาน
-lakt: นำ้นม
+lakt: น้ำนม
 lamp: ตะเกียง
 land: ประเทศ
 larĝ: กว้าง
+las: ปล่อยให้
 last: สุดท้าย
 laŭt: ดัง
 lecion: บทเรียน
@@ -155,12 +168,15 @@ lern: เรียน
 leter: จดหมาย
 liber: อิสระ
 libr: หนังสือ
+lingv: ภาษา
 lok: สถานที่
 long: ยาว
+loĝ: อาศัย
 lud: เล่น
 lum: แสงไฟ
 man: มือ
-mank: 
+manier: วิธี
+mank:
 - ขาด
 - ไม่มี
 manĝ: กิน
@@ -174,36 +190,40 @@ minut: นาที
 mir: ประหลาดใจ
 moment: ชั่วขณะ
 mon: เงิน
+monat: เดือน
+mond: โลก
 mont: ภูเขา
 montr: แสดง
 mort: ตาย
 mov: เคลื่อนที่
 mult: มาก
 muzik: ดนตรี
+naci: ชาติ
 nask: ให้กำเนิด
 natur: ธรรมชาติ
 neces: จำเป็น
 nokt: กลางคืน
-nom: 
+nom:
 - ชื่อ
 - ตั้งชื่อ
-not: 
+not:
 - จดบันทึก
 - ตัวโน้ต
 nov: ใหม่
-odor: 
+odor:
 - ส่งกลิ่น
 - กลิ่น
 oft: บ่อย
 okaz: เกิดเหตุการณ์
 okul: ดวงตา
-onkl: 
+onkl:
 - ลุง
 - อา
 - น้า (ชาย)
 opini: ความเห็น
 ord: สั่ง
 orel: หู
+organiz: จัด, บริหาร
 pac: สันติ
 pag: จ่าย
 pan: ขนมปัง
@@ -216,41 +236,50 @@ patr: พ่อ
 paŝ: ก้าว
 pens: คิด
 perd: หาย
-person: 
+person:
 - บุคคล
 - คน
-pet: 
+pet:
 - ขอ
 - ขอร้อง
 pez: หนัก
 pied: เท้า
-plac: สถานที่
+plac: จัตุรัส, ลาน
 plan: วางแผน
-plaĉ: 
+plaĉ:
 - เป็นที่พอใจ
 - ต้องใจ
 plen: เต็ม
+plor: ร้องไห้
+pluv: ฝน
 polic: ตำรวจ
 pord: ประตู
-port: 
+port:
 - ขน
 - นำไปด้วย
 pov: สามารถ
-pren: เอามา 
+poŝ: กระเป๋าเสื้อ, กระเป๋ากางเกง
+poŝt: ไปรษณีย์
+pren: เอามา
 pret: พร้อม
-prezent: นำเสอน
+prezent: นำเสนอ
 problem: ปัญหา
 proksim: ใกล้
+proksimum: ราว ๆ
 promen: เดินเล่น
-propon: 
+propon:
 - เสนอ
 - ข้อเสนอ
 prov: ลอง
+publik: สาธารณะ
+punkt: จุด
+pur: สะอาด
 rajt: มีสิทธิ์
+rakont: เรื่องเล่า
 rapid: เร็ว
 raport: รายงาน
 real: เกิดขึ้นจริง
-rekt: 
+rekt:
 - โดยตรง
 - ทางตรง
 renkont: พบปะ
@@ -260,8 +289,10 @@ rest: พักอาศัย
 ricev: รับ
 rid: หัวเราะ
 rigard: ดู
+rilat: สัมพันธ์
+rimark: สังเกต
 riĉ: รวย
-rol: 
+rol:
 - บทบาท
 - หน้าที่
 ruĝ: สีแดง
@@ -269,24 +300,28 @@ salt: กระโดด
 salut: สวัสดี
 sam: เหมือนกัน
 san: สุขภาพดี
+sat: อิ่ม
 saĝ: ฉลาด
 sci: รู้
 sek: แห้ง
-sekret: คงามลับ
+sekret: ความลับ
 sekv: ตาม
 semajn: สัปดาห์
 send: ส่ง
+sent: รู้สึกถึง
 serĉ: ค้นหา
-si: เขาเอง
+seĝ: เก้าอี้
+si: ตัวเอง (บุรุษที่สาม)
 sid: นั่ง
 silent: เงียบ
 simil: คล้าย
+simpl: เรียบง่าย
 sinjor:
 - สุภาพบุรุษ
 - นาย
 situaci: สถานการณ์
 skrib: เขียน
-sol: 
+sol:
 - เดี่ยว
 - โดดเดี่ยว
 son: ส่งเสียง
@@ -295,13 +330,14 @@ sport: กีฬา
 star: ยืน
 strat: ถนน
 subit: ในทันใด
-sufiĉ: 
+sufiĉ:
 - พอ
 - เพียงพอ
+suk: น้ำผลไม้
 sukces: สำเร็จ
 sun: ดวงอาทิตย์
 supr: ด้านบน
-tabl: โต๊ะ 
+tabl: โต๊ะ
 tag: วัน
 te: ชา
 telefon: โทรศัพท์
@@ -309,15 +345,18 @@ temp: เวลา
 temperatur: อุณหภูมิ
 ten: ถือ
 teror: ก่อการร้าย
+terur: น่ากลัว
 tim: กลัว
 ton: น้ำเสียง
 trankvil: ใจเย็น
 trink: ดื่ม
 trov: พบ
 turk: ชาวตุรกี
-tuŝ: 
+tut: ทั้งหมด
+tuŝ:
 - แตะ
 - สัมผัส
+universal: สากล
 urb: เมือง
 util: มีประโยชน์
 uz: ใช้
@@ -326,18 +365,18 @@ varm: อุ่น
 ven: มา
 vend: ขาย
 Veneci: เวนิส
-ver: 'จริง'
+ver: จริง
 vesper: ตอนเย็น
 vest: สวมเสื้อ
 vetur: เดินทาง
-vid: 
+vid:
 - เห็น
 - พบ
 vin: ไวน์
 vir: ผู้ชาย
 viv: มีชีวิต
 vizaĝ: ใบหน้า
-vizit: 
+vizit:
 - มาเยี่ยม
 - มาเยือน
 - เยี่ยมชม
@@ -345,20 +384,20 @@ voj: ทาง
 vojaĝ: ท่องเที่ยว
 vok: เรียก
 vol: ต้องการ
-vort: 
+vort:
 - คำ
 - คำศัพท์
 voĉ: เสียงร้อง
-zorg: 
+zorg:
 - ดูแล
 - เอาใจใส่
 ĉambr: ห้อง
-ĉef: 
+ĉef:
 - หัวหน้า
 - เป็นหลัก
 ĝen: รบกวน
 ĝeneral: ทั่ว ๆ ไป
-ĝoj: 
+ĝoj:
 - ดีใจ
 - ร่าเริง
 ĝust: ถูกต้อง

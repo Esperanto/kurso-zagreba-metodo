@@ -1,59 +1,60 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+ia: ប្រភេទណាមួយ
+ial: ដោយហេតុណាមួយ
+iam: ពេលណាមួយ
+ie: នៅកន្លែងណាមួយ
+iel: តាមរបៀបណាមួយ
+ies: របស់នរណាម្នាក់
+io: អ្វីមួយ
+iom:
+- បន្តិច
+- បរិមាណណាមួយ
+iu: នរណាម្នាក់
+kia: ប្រភេទអ្វី
+kial: ហេតុអ្វី
+kiam: ពេលណា
+kie: នៅទីណា
+kiel: ដូចម្តេច
+kien: ទៅទីណា
+kies: របស់អ្នកណា
+kio: អ្វី
+kiom: ប៉ុន្មាន
 kiu:
-- who
-- which
-tiu:
-- that person
-- that one
-iu: someone
-ĉiu:
-- everyone
-- every
-neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
-iom: 
-- to some extent
-- a certain amount
-ĉiom: 
-- all of it
-- the whole amount
+- អ្នកណា
+- មួយណា
+nenia: គ្មានប្រភេទណា
+nenial: គ្មានហេតុណា
+neniam: មិនដែល
+nenie: គ្មានទីណា
+neniel: មិនតាមរបៀបណាទេ
+nenies: មិនមែនរបស់នរណា
+nenio: គ្មានអ្វី
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- គ្មានបន្តិច
+- គ្មានបរិមាណ
+neniu:
+- គ្មាននរណា
+- គ្មានមួយណា
+tia: ប្រភេទនោះ
+tial: ដោយហេតុនោះ
+tiam: ពេលនោះ
+tie: នៅទីនោះ
+tiel: ដូច្នោះ
+ties: របស់នោះ
+tio: នោះ
+tiom: ប៉ុណ្ណោះ
+tiu:
+- មនុស្សនោះ
+- មួយនោះ
+ĉia: គ្រប់ប្រភេទ
+ĉial: ដោយគ្រប់ហេតុ
+ĉiam: ជានិច្ច
+ĉie: គ្រប់ទីកន្លែង
+ĉiel: គ្រប់របៀប
+ĉies: របស់មនុស្សគ្រប់គ្នា
+ĉio: អ្វីៗទាំងអស់
+ĉiom:
+- ទាំងអស់
+- បរិមាណទាំងមូល
+ĉiu:
+- មនុស្សគ្រប់គ្នា
+- គ្រប់

@@ -1,75 +1,70 @@
-- 
-  demando: What could delight your parents most of all?
-  rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
-    - '?'
-- 
-  demando: If at least you wanted to go to the city center after school!
-  rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
-    - '!'
-- 
-  demando: Where would you like to travel to if you had enough money and time?
-  rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
-    - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
-    - '?'
-- 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
-    - '?'
-- 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
-    - '?'
+- demando: ສິ່ງໃດອາດເຮັດໃຫ້ພໍ່ແມ່ຂອງເຈົ້າດີໃຈທີ່ສຸດ?
+  rektatraduko:
+  - Kio: ຫຍັງ
+  - povus: ອາດຈະສາມາດ
+  - plej: ທີ່ສຸດ
+  - ĝojigi: ເຮັດໃຫ້ດີໃຈ
+  - viajn: ຂອງເຈົ້າ
+  - gepatrojn: ພໍ່ແມ່
+  - '?'
+- demando: ຖ້າຢ່າງນ້ອຍເຈົ້າຢາກໄປເມືອງກັບຂ້ອຍຫຼັງຮຽນ!
+  rektatraduko:
+  - Se: ຖ້າ
+  - almenaŭ: ຢ່າງນ້ອຍ
+  - vi: ເຈົ້າ
+  - post: ຫຼັງຈາກ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - lernado: ການຮຽນ
+  - irus: ຈະໄປ
+  - kun: ກັບ
+  - mi: ຂ້ອຍ
+  - en: ເຂົ້າໄປໃນ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - urbon: ເມືອງ
+  - '!'
+- demando: ຖ້າເຈົ້າມີເງິນແລະເວລາພຽງພໍ ເຈົ້າຢາກເດີນທາງໄປໃສ?
+  rektatraduko:
+  - Kien: ໄປໃສ
+  - vi: ເຈົ້າ
+  - dezirus: ຈະປາຖະໜາ
+  - vojaĝi: ເດີນທາງ
+  - ','
+  - se: ຖ້າ
+  - vi: ເຈົ້າ
+  - havus: ຈະມີ
+  - sufiĉe: ພຽງພໍ
+  - da: ຂອງ
+  - mono: ເງິນ
+  - kaj: ແລະ
+  - tempo: ເວລາ
+  - '?'
+- demando: ເຈົ້າວາງແຜນຈະໄປອິຕາລີດ້ວຍລົດ ຫຼືການໄປດ້ວຍລົດໄຟບໍ່ເບິ່ງດີກວ່າຫຼາຍບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - planas: ວາງແຜນ
+  - veturi: ເດີນທາງ
+  - al: ໄປຫາ
+  - Italio: ອິຕາລີ
+  - per: ໂດຍໃຊ້
+  - aŭto: ລົດ
+  - aŭ: ຫຼື
+  - ĉu: ບໍ
+  - ne: ບໍ່
+  - ŝajnas: ເບິ່ງຄືວ່າ
+  - multe: ຫຼາຍ
+  - pli: ຫຼາຍກວ່າ
+  - bone: ດີ
+  - per: ໂດຍໃຊ້
+  - vagonaro: ລົດໄຟ
+  - '?'
+- demando: ເປັນຫຍັງຄົນຕ່າງໆອະທິບາຍຄວາມຄິດດຽວກັນໃນວິທີທີ່ຕ່າງກັນ?
+  rektatraduko:
+  - Kial: ເປັນຫຍັງ
+  - diversaj: ຕ່າງໆ
+  - homoj: ຄົນຫຼາຍຄົນ
+  - klarigas: ອະທິບາຍ
+  - samajn: ດຽວກັນ
+  - ideojn: ຄວາມຄິດຫຼາຍຢ່າງ
+  - diversmaniere: ດ້ວຍວິທີຕ່າງກັນ
+  - '?'

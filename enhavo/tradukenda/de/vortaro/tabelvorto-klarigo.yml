@@ -1,14 +1,14 @@
-'ki-': fragend
-'ti-': hinweisend
-'i-': unbestimmt
-'ĉi-': allumfassend
-'neni-': verneinend
-'-o': Sache
-'-u': Person
-'-e': Ort
-'-a': Eigenschaft
-'-el': Art & Weise
-'-al': Grund
-'-am': Zeit
-'-om': Menge
-'-es': Besitz
+-a: Eigenschaft
+-al: Grund
+-am: Zeit
+-e: Ort
+-el: Art & Weise
+-es: Besitz
+-o: Sache
+-om: Menge
+-u: Person
+i-: unbestimmt
+ki-: fragend
+neni-: verneinend
+ti-: hinweisend
+ĉi-: allumfassend

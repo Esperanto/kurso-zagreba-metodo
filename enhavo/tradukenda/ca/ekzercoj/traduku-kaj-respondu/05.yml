@@ -1,72 +1,59 @@
--
-  demando: Quan et tornaré a veure?
-  rektatraduko: 
-    - Kiam: Quan
-    - mi: jo
-    - revidos: tornaré a veure
-    - vin: a tu
-    - '?'
--
-  demando: Pots aprendre tranquil·lament mentre algú està cantant animadament?
-  rektatraduko: 
-    - Ĉu: ¿
-    - vi: Tu
-    - povas: pots
-    - trankvile: tranquil·lament
-    - lerni: aprendre
-    - ','
-    - dum: mentre
-    - iu: algú
-    - ĝoje: animadament
-    - kantas: canta
-    - '?'
--
-  demando: Qui sap quan i on ens tornarem a veure l'un a l'altre?
-  rektatraduko: 
-    - Kiu: Qui
-    - scias: sap
-    - ','
-    - kiam: quan 
-    - kaj: i
-    - kie: 'on'
-    - ni: nosaltres
-    - revidos: tornarem a veure
-    - nin: l'un a l'altre
-    - '?'
--
-  demando: Quina hora és ara? 
-  rektatraduko: 
-    - Kioma: Quina
-    - horo: hora
-    - estas: és 
-    - nun: ara
-    - '?'
--
-  demando: Algú et va ajudar a obrir la porta de l'antiga casa?
-  rektatraduko: 
-    - Ĉu: ¿
-    - iu: algú 
-    - helpis: va ajudar
-    - al: a
-    - vi: tu
-    - malfermi: obrir 
-    - la: la 
-    - pordon: porta 
-    - de: de
-    - la: la
-    - malnova: antiga
-    - domo: casa
-    - '?'
--
-  demando: Perquè no tens temps d'escoltar-me més temps?
-  rektatraduko: 
-    - Kial: Perquè
-    - vi: tu
-    - ne: 'no'
-    - havas: tens
-    - tempon: temps
-    - aŭskulti: escoltar
-    - min: mi
-    - pli: més
-    - longe: temps
-    - '?'
+- demando: Pots aprendre tranquil·lament mentre algú està cantant animadament?
+  rektatraduko:
+  - Ĉu: Que
+  - vi: Tu
+  - povas: pots
+  - trankvile: tranquil·lament
+  - lerni: aprendre
+  - ','
+  - dum: mentre
+  - iu: algú
+  - ĝoje: animadament
+  - kantas: canta
+  - '?'
+- demando: Qui sap quan i on ens tornarem a veure l'un a l'altre?
+  rektatraduko:
+  - Kiu: Qui
+  - scias: sap
+  - ','
+  - kiam: quan
+  - kaj: i
+  - kie: 'on'
+  - ni: nosaltres
+  - revidos: tornarem a veure
+  - nin: l'un a l'altre
+  - '?'
+- demando: Quina hora és ara?
+  rektatraduko:
+  - Kioma: Quina
+  - horo: hora
+  - estas: és
+  - nun: ara
+  - '?'
+- demando: Algú et va ajudar a obrir la porta de l'antiga casa?
+  rektatraduko:
+  - Ĉu: Que
+  - iu: algú
+  - helpis: va ajudar
+  - al: a
+  - vi: tu
+  - malfermi: obrir
+  - la: la
+  - pordon: porta
+  - de: de
+  - la: la
+  - malnova: antiga
+  - domo: casa
+  - '?'
+- demando: Per què no tens temps d'escoltar-me més temps?
+  rektatraduko:
+  - Kial: Per què
+  - vi: tu
+  - ne: 'no'
+  - havas: tens
+  - tempon: temps
+  - aŭskulti: escoltar
+  - min: mi
+  - pli: més
+  - longe: temps
+  - '?'

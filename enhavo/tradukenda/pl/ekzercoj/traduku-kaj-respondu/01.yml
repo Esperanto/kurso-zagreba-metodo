@@ -1,57 +1,51 @@
-- 
-  demando: Kto jest twoją przyjaciółką?
+- demando: Kim jest twoja przyjaciółka?
   rektatraduko:
-    - Kiu: Kto
-    - estas: jest
-    - via: twoja
-    - amikino: przyjaciółka
-    - '?'
-- 
-  demando: Czy twoja przyjaciółka Anna pisze teraz w pokoju?
+  - Kiu: Kto
+  - estas: jest
+  - via: twoja
+  - amikino: przyjaciółka
+  - '?'
+- demando: Czy twoja przyjaciółka Ana pisze teraz w pokoju?
   rektatraduko:
-    - Ĉu: Czy
-    - via: twoja
-    - amikino: przyjaciółka
-    - Anna: Anna
-    - skribas: pisze
-    - nun: teraz
-    - en: w
-    - la: (przedimek określony)
-    - ĉambro: pokój
-    - '?'
-- 
-  demando: Czy przyjaciel twojego ojca pracuje w hotelu?
+  - Ĉu: Czy
+  - via: twoja
+  - amikino: przyjaciółka
+  - Ana: Ana
+  - skribas: pisze
+  - nun: teraz
+  - en: w
+  - la: (przedimek określony)
+  - ĉambro: pokój
+  - '?'
+- demando: Czy przyjaciel twojego ojca pracuje w hotelu?
   rektatraduko:
-    - Ĉu: Czy
-    - la: (przedimek określony)
-    - amiko: przyjaciel
-    - de: od
-    - via: twój
-    - patro: ojciec
-    - laboras: pracuje
-    - en: w
-    - hotelo: hotel
-    - '?'
-- 
-  demando: Co jest na stole roboczym w naszym pokoju?
+  - Ĉu: Czy
+  - la: (przedimek określony)
+  - amiko: przyjaciel
+  - de: od
+  - via: twój
+  - patro: ojciec
+  - laboras: pracuje
+  - en: w
+  - hotelo: hotel
+  - '?'
+- demando: Co leży na stole roboczym w naszym pokoju?
   rektatraduko:
-    - Kio: Co 
-    - estas: jest
-    - sur: na
-    - la: (przedimek określony)
-    - labortablo: stoł pracowniczy
-    - en: w
-    - nia: nasz
-    - ĉambro: pokój
-    - '?'
-- 
-  demando: Czy na twoim stole jest podręcznik Esperanta?
+  - Kio: Co
+  - estas: jest
+  - sur: na
+  - la: (przedimek określony)
+  - labortablo: stół roboczy
+  - en: w
+  - nia: nasz
+  - ĉambro: pokój
+  - '?'
+- demando: Czy na twoim stole jest podręcznik do esperanta?
   rektatraduko:
-    - Ĉu: Czy
-    - Esperanto-lernolibro: podręcznik Esperanta
-    - estas: jest
-    - sur: na
-    - via: twój 
-    - tablo: stół
-    - '?'
-
+  - Ĉu: Czy
+  - Esperanto-lernolibro: podręcznik esperanta
+  - estas: jest
+  - sur: na
+  - via: twój
+  - tablo: stół
+  - '?'

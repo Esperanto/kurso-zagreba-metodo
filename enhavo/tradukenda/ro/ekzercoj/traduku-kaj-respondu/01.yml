@@ -1,56 +1,51 @@
--
-  demando: Cine este prietena ta?
+- demando: Cine este prietena ta?
   rektatraduko:
-    - Kiu: Cine
-    - estas: este
-    - via: ta
-    - amikino: prietenă
-    - '?'
--
-  demando: Scrie prietena ta Anna acum în cameră?
+  - Kiu: Cine
+  - estas: este
+  - via: ta
+  - amikino: prietenă
+  - '?'
+- demando: Scrie prietena ta Ana acum în cameră?
   rektatraduko:
-    - Ĉu: oare
-    - via: ta
-    - amikino: prietenă
-    - Anna: Anna
-    - skribas: scrie
-    - nun: acum
-    - en: în
-    - la: (articol)
-    - ĉambro: cameră
-    - '?'
--
-  demando: Lucrează prietenul tatălui tău într-un hotel?
+  - Ĉu: oare
+  - via: ta
+  - amikino: prietenă
+  - Ana: Ana
+  - skribas: scrie
+  - nun: acum
+  - en: în
+  - la: (articol)
+  - ĉambro: cameră
+  - '?'
+- demando: Lucrează prietenul tatălui tău într-un hotel?
   rektatraduko:
-    - Ĉu: oare
-    - la: (articol)
-    - amiko: prieten
-    - de: de
-    - via: tău
-    - patro: tată
-    - laboras: lucrează
-    - en: în
-    - hotelo: hotel
-    - '?'
--
-  demando: Ce este pe masa de lucru din camera noastră?
+  - Ĉu: oare
+  - la: (articol)
+  - amiko: prieten
+  - de: de
+  - via: tău
+  - patro: tată
+  - laboras: lucrează
+  - en: în
+  - hotelo: hotel
+  - '?'
+- demando: Ce este pe masa de lucru din camera noastră?
   rektatraduko:
-    - Kio: Ce
-    - estas: este
-    - sur: pe
-    - la: (articol)
-    - labortablo: masă de lucru
-    - en: în
-    - nia: noastră
-    - ĉambro: cameră
-    - '?'
--
-  demando: Este un manual de Esperanto pe masa ta?
+  - Kio: Ce
+  - estas: este
+  - sur: pe
+  - la: (articol)
+  - labortablo: masă de lucru
+  - en: în
+  - nia: noastră
+  - ĉambro: cameră
+  - '?'
+- demando: Este un manual de Esperanto pe masa ta?
   rektatraduko:
-    - Ĉu: oare
-    - Esperanto-lernolibro: manual de Esperanto
-    - estas: este
-    - sur: pe
-    - via: ta
-    - tablo: masă
-    - '?'
+  - Ĉu: oare
+  - Esperanto-lernolibro: manual de Esperanto
+  - estas: este
+  - sur: pe
+  - via: ta
+  - tablo: masă
+  - '?'

@@ -1,54 +1,49 @@
-- 
-  demando: Czy możesz przynieść lekarstwo mojej siostry?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - povas: możesz
-    - kunporti: przynieść
-    - la: (przedimek określony)
-    - sanigilon: lekarstwo
-    - de: od
-    - mia: mojej
-    - fratino: siostra
-    - '?'
-- 
-  demando: Kiedy kupiłeś tamten instrument muzyczny?
-  rektatraduko: 
-    - Kiam: Kiedy
-    - vi: ty
-    - aĉetis: kupiłeś
-    - tiun: tamten
-    - muzikilon: instrument muzyczny
-    - '?'
-- 
-  demando: Kto ostatnim razem użył mojego klucza?
-  rektatraduko: 
-    - Kiu: Who
-    - laste: ostatnim razem
-    - uzis: użył
-    - mian: mojego
-    - ŝlosilon: klucza
-    - '?'
-- 
-  demando: Czy w Wenecji podróżowałeś też gondolą?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - en: w
-    - Venecio: Wenecji
-    - veturis: jechałeś
-    - ankaŭ: też
-    - per: przez
-    - gondolo: gondola
-    - '?'
-- 
-  demando: Czy będziesz mógł zasnąć, kiedy zrobi się cicho?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - povos: będziesz mógł
-    - ekdormi: zasnąć
-    - ',' 
-    - kiam: kiedy 
-    - silentiĝis: zrobiło się cicho
-    - '?'
+- demando: Czy możesz przynieść ze sobą lekarstwo mojej siostry?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - povas: możesz
+  - kunporti: przynieść
+  - la: (przedimek określony)
+  - sanigilon: lekarstwo
+  - de: od
+  - mia: mojej
+  - fratino: siostra
+  - '?'
+- demando: Kiedy kupiłeś tamten instrument muzyczny?
+  rektatraduko:
+  - Kiam: Kiedy
+  - vi: ty
+  - aĉetis: kupiłeś
+  - tiun: tamten
+  - muzikilon: instrument muzyczny
+  - '?'
+- demando: Kto ostatnio użył mojego klucza?
+  rektatraduko:
+  - Kiu: Kto
+  - laste: ostatnim razem
+  - uzis: użył
+  - mian: mojego
+  - ŝlosilon: klucza
+  - '?'
+- demando: Czy w Wenecji podróżowałeś też gondolą?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - en: w
+  - Venecio: Wenecji
+  - veturis: jechałeś
+  - ankaŭ: też
+  - per: za pomocą
+  - gondolo: gondola
+  - '?'
+- demando: Czy będziesz mógł zasnąć, kiedy zrobi się cicho?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - povos: będziesz mógł
+  - ekdormi: zasnąć
+  - ','
+  - kiam: kiedy
+  - silentiĝos: zrobiło się cicho
+  - '?'

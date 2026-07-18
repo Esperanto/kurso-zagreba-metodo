@@ -1,14 +1,14 @@
-al: 
-  - -nak/nek
-  - -hoz/hez/höz
-  - felé
+al:
+- -nak/nek
+- -hoz/hez/höz
+- felé
 anstataŭ: helyett
 antaŭ: előtt
 apud: mellett
 da: mennyiségek után
 de:
-  - -nak a/nek a 
-  - -tól/től
+- -nak a/nek a
+- -tól/től
 dum: alatt (időtartam)
 ekde: óta
 ekster: kívül (hely)
@@ -16,21 +16,21 @@ el: -ból/ből
 en: -ban/ben
 inter: között
 je:
-  - kor
-  - állandósult kifejezésekben
-kontraŭ: 
-  - ellen
-  - szemben
+- kor
+- állandósult kifejezésekben
+kontraŭ:
+- ellen
+- szemben
 krom: kívül
 kun: -val/vel (társ)
-laŭ: 
-  - szerint
-  - mentén
+laŭ:
+- szerint
+- mentén
 per: -val/vel
-por: 
-  - számára, 
-  - részére
-  - -ra/re
+por:
+- számára,
+- részére
+- -ra/re
 post: után
 pri: -ról/ről
 pro: miatt
@@ -38,12 +38,12 @@ sen: nélkül
 sub: alatt
 super: felett
 sur: -on/en/ön
-tra: 
-  - át
-  - keresztül
+tra:
+- át
+- keresztül
 trans: túl
 ĉe: -nál/nél
-ĉirkaŭ: 
-  - körül
-  - körülbelül
+ĉirkaŭ:
+- körül
+- körülbelül
 ĝis: -ig

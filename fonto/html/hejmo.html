@@ -4,18 +4,25 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://e12.goatcounter.com; font-src 'self'; connect-src 'self' https://e12.goatcounter.com; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'self'" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
     <meta http-equiv="refresh" content="2; url=/en/" />
     <meta name="description" content="{{meta_description|e}}" />
     <link rel="canonical" href="{{seo.canonical_url}}" />
     {% for alterna in seo.alternaj_ligiloj %}
       <link rel="alternate" hreflang="{{alterna.hreflang}}" href="{{alterna.url}}" />
     {% endfor %}
+    <meta property="og:url" content="{{seo.og_url}}" />
+    <meta property="og:site_name" content="{{seo.og_site_name}}" />
+    <meta property="og:description" content="{{seo.og_description|e}}" />
+    <meta property="og:locale" content="{{seo.og_locale}}" />
+    {% for locale in seo.og_locale_alternativoj %}
+      <meta property="og:locale:alternate" content="{{locale}}" />
+    {% endfor %}
     <meta property="og:image" content="{{site_url}}/assets/img/og.png" />
     <title>Learn Esperanto | The Fastest Basics Course</title>
 
-    <link href="/vendor/fira-sans/400.css" rel="stylesheet" />
-    <link href="/vendor/fira-sans/700.css" rel="stylesheet" />
-    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" href="/favicon-120x120.png" type="image/png" sizes="120x120" />
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link
       rel="icon"
@@ -30,19 +37,21 @@
       href="/assets/img/logo/favicon-16x16.png"
     />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link href="assets/css/main.css?versio={{versio}}" rel="stylesheet" />
+    {% set tiparoj_vojprefikso = '' %}
+    {% include 'tiparoj.html' %}
+    <link href="assets/bundle.css?versio={{versio}}" rel="stylesheet" />
   </head>
   <body>
     <script id="hejmo-lingvodatenoj" type="application/json">
       {{hejmaj_lingvoj|tojson}}
     </script>
-    <script src="assets/js/hejmo.js?versio={{versio}}"></script>
+    <script src="assets/hejmo.js?versio={{versio}}"></script>
 
     <!-- 100% privacy-first analytics -->
     <script
       data-goatcounter="https://e12.goatcounter.com/count"
       async
-      src="//gc.zgo.at/count.js"
+      src="https://gc.zgo.at/count.js"
     ></script>
   </body>
 </html>

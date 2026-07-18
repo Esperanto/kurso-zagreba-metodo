@@ -1,0 +1,33 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, cifero
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - unu
+  - du
+  - tri
+  - kvar
+  - kvin
+  - ses
+  - sep
+  - ok
+  - naŭ
+  - dek
+  - dek unu
+  - dek du
+  - dek tri
+  - dek kvar
+  - dek kvin
+  - dek ses
+  - dek sep
+  - dek ok
+  - dek naŭ
+  - dudek
+  - tridek
+  - kvardek
+  - cent
+  - ducent
+  - tricent
+  - mil
+  - dumil

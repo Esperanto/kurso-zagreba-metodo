@@ -1,54 +1,49 @@
-- 
-  demando: Pouvez-vous apporter le médicament de ma soeur ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - povas: pouvez
-    - kunporti: apporter
-    - la: le
-    - sanigilon: médicament
-    - de: de
-    - mia: ma
-    - fratino: sœur
-    - '?'
-- 
-  demando: Quand as-tu acheté cet instrument de musique ?
-  rektatraduko: 
-    - Kiam: Quand
-    - vi: tu
-    - aĉetis: as acheté
-    - tiun: ce, cet
-    - muzikilon: instrument de musique
-    - '?'
-- 
-  demando: Qui a utilisé ma clé dernièrement ?
-  rektatraduko: 
-    - Kiu: Qui
-    - laste: dernièrement
-    - uzis: a utilisé
-    - mian: ma
-    - ŝlosilon: clé
-    - '?'
-- 
-  demando: Vous êtes-vous déplacés à Venise en gondole aussi ?
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - en: à, dans
-    - Venecio: Venise
-    - veturis: êtes déplacés
-    - ankaŭ: aussi
-    - per: en
-    - gondolo: gondole
-    - '?'
-- 
-  demando: "Est-ce que pourra t'endormir quand ce sera silencieux ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - povos: pourras
-    - ekdormi: "[t'] endormir"
-    - ',' 
-    - kiam: quand 
-    - silentiĝis: "ce sera silencieux (litt. c'est devenu silencieux)"
-    - '?'
+- demando: Je, unaweza kuleta dawa ya dada yangu?
+  rektatraduko:
+  - Ĉu: je
+  - vi: wewe
+  - povas: unaweza
+  - kunporti: kuleta pamoja
+  - la: kiarifu
+  - sanigilon: dawa
+  - de: ya
+  - mia: yangu
+  - fratino: dada
+  - '?'
+- demando: Ulinunua ala hiyo ya muziki lini?
+  rektatraduko:
+  - Kiam: Lini
+  - vi: wewe
+  - aĉetis: ulinunua
+  - tiun: hiyo
+  - muzikilon: ala ya muziki
+  - '?'
+- demando: Nani alitumia ufunguo wangu mara ya mwisho?
+  rektatraduko:
+  - Kiu: Nani
+  - laste: mara ya mwisho
+  - uzis: alitumia
+  - mian: wangu
+  - ŝlosilon: ufunguo
+  - '?'
+- demando: Je, huko Venecia ulisafiri pia kwa gondola?
+  rektatraduko:
+  - Ĉu: je
+  - vi: wewe
+  - en: katika
+  - Venecio: Venecia
+  - veturis: ulisafiri
+  - ankaŭ: pia
+  - per: kwa
+  - gondolo: gondola
+  - '?'
+- demando: Je, utaweza kulala usingizi wakati kutakapokuwa kimya?
+  rektatraduko:
+  - Ĉu: je
+  - vi: wewe
+  - povos: utaweza
+  - ekdormi: kuanza kulala
+  - ','
+  - kiam: wakati
+  - silentiĝos: kumekuwa kimya
+  - '?'

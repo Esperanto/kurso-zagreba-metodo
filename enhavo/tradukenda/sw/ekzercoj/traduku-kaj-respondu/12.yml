@@ -1,68 +1,63 @@
-- 
-  demando: "Est-ce qu'on se reverra, à un moment et quelque part ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - ni: nous
-    - revidos: reverrons
-    - nin: nous
-    - ',' 
-    - kie: quand
-    - ajn: "n'importe"
-    - kaj: et
-    - kiam: où
-    - ajn: "n'importe"
-    - '?'
-- 
-  demando: "Quand récupèrerai-je de nouveau l'autre moitié des livres ?"
-  rektatraduko: 
-    - Kiam: Quand
-    - mi: je 
-    - rericevos: récupèrerai
-    - la: "l'"
-    - alian: autre
-    - duonon: moitié
-    - de: de
-    - la: les
-    - libroj: livres
-    - '?'
-- 
-  demando: "Est-ce que vous aurez besoin de plus d'un trimestre pour ces travaux ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: vous
-    - bezonos: aurez besoin
-    - pli: plus
-    - ol: de
-    - kvaronan: un quart
-    - jaron: année
-    - por: pour
-    - tiuj: des
-    - laboroj: travaux
-    - '?'
-- 
-  demando: Pourquoi est-ce que plus il fait froid, plus nous attendons longtemps ?
-  rektatraduko: 
-    - Kial: Pourquoi
-    - estas: est
-    - des: des
-    - pli: plus
-    - malvarma: froid
-    - ',' 
-    - ju: le
-    - pli: plus
-    - longe: longtemps
-    - ni: nous
-    - atendas: attendons
-    - '?'
-- 
-  demando: "Est-ce que tu serais heureuse avec n'importe quel homme ?"
-  rektatraduko: 
-    - Ĉu: Est-ce que
-    - vi: tu
-    - estus: serais
-    - kontenta: heureuse
-    - kun: avec
-    - iu: "n'importe"
-    - ajn: quel
-    - viro: homme
-    - '?'
+- demando: Je, tutaonana tena, popote na wakati wowote?
+  rektatraduko:
+  - Ĉu: je
+  - ni: sisi
+  - revidos: tutaona tena
+  - nin: sisi wenyewe
+  - ','
+  - kie: wapi
+  - ajn: popote
+  - kaj: na
+  - kiam: lini
+  - ajn: wakati wowote
+  - '?'
+- demando: Nitarudishiwa lini nusu nyingine ya vitabu?
+  rektatraduko:
+  - Kiam: Lini
+  - mi: mimi
+  - rericevos: nitapokea tena
+  - la: kiarifu
+  - alian: nyingine
+  - duonon: nusu
+  - de: ya
+  - la: kiarifu
+  - libroj: vitabu
+  - '?'
+- demando: Je, utahitaji zaidi ya robo mwaka kwa kazi hizo?
+  rektatraduko:
+  - Ĉu: je
+  - vi: wewe
+  - bezonos: utahitaji
+  - pli: zaidi
+  - ol: kuliko
+  - kvaronan: robo
+  - jaron: mwaka
+  - por: kwa ajili ya
+  - tiuj: hizo
+  - laboroj: kazi
+  - '?'
+- demando: Kwa nini kadiri kunavyokuwa baridi zaidi, ndivyo tunavyongoja kwa muda mrefu zaidi?
+  rektatraduko:
+  - Kial: Kwa nini
+  - ju: kadiri
+  - pli: zaidi
+  - longe: muda mrefu
+  - ni: sisi
+  - atendas: tunangoja
+  - ','
+  - des: ndivyo
+  - pli: zaidi
+  - malvarme: baridi
+  - estas: ni
+  - '?'
+- demando: Je, ungefurahi kuwa na mwanamume yeyote?
+  rektatraduko:
+  - Ĉu: je
+  - vi: wewe
+  - estus: ungekuwa
+  - kontenta: mwenye furaha
+  - kun: pamoja na
+  - iu: yeyote
+  - ajn: wowote
+  - viro: mwanamume
+  - '?'

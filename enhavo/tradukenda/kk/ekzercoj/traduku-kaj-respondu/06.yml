@@ -1,72 +1,68 @@
-- 
-  demando: Do you want me to show you my newest book?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
-    - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
-    - '?'
-- 
-  demando: What do you want for breakfast tomorrow?
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
-    - '?'
-- 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
-  rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
-    - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
-    - '?'
-- 
-  demando: When did you notice that the whole family calls me benefactor?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
-    - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
-    - '?'
-- 
-  demando: Was the booklet which I send you useful to you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
-    - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
-    - '?'
+- demando: Мен саған ең жаңа кітабымды көрсеткенімді қалайсың ба?
+  rektatraduko:
+  - Ĉu: ма/ме
+  - vi: сен
+  - deziras: қалайды
+  - ','
+  - ke: деп
+  - mi: мен
+  - montru: көрсет
+  - al: -ға/-ге
+  - vi: сен
+  - mian: менің
+  - plej: ең
+  - novan: жаңа
+  - libron: кітапты
+  - '?'
+- demando: Ертең таңғы асқа не жегің келеді?
+  rektatraduko:
+  - Kion: нені
+  - vi: сен
+  - volas: қалайды
+  - morgaŭ: ертең
+  - matenmanĝi: таңғы ас ішу
+  - '?'
+- demando: Марко қашан келеді, сағат бесте ме, әлде сегізде ме?
+  rektatraduko:
+  - Kiam: қашан
+  - Marko: Марко
+  - alvenos: келеді
+  - ','
+  - je: сағат
+  - la: анықтауыш
+  - kvina: бесінші
+  - aŭ: немесе
+  - je: сағат
+  - la: анықтауыш
+  - oka: сегізінші
+  - horo: сағат
+  - '?'
+- demando: Бүкіл отбасы мені қайырымды адам деп атайтынын қашан байқадың?
+  rektatraduko:
+  - Kiam: қашан
+  - vi: сен
+  - rimarkis: байқады
+  - ','
+  - ke: деп
+  - la: анықтауыш
+  - tuta: бүкіл
+  - familio: отбасы
+  - nomas: атайды
+  - min: мені
+  - bonfarulo: қайырымды адам
+  - '?'
+- demando: Мен саған жіберген шағын кітапша пайдалы болды ма?
+  rektatraduko:
+  - Ĉu: ма/ме
+  - la: анықтауыш
+  - libreto: шағын кітапша
+  - ','
+  - kiun: оны
+  - mi: мен
+  - sendis: жіберді
+  - al: -ға/-ге
+  - vi: сен
+  - ','
+  - estis: болды
+  - utila: пайдалы
+  - '?'

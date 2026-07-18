@@ -1,57 +1,51 @@
-- 
-  demando: Who is your girl-friend?
+- demando: Досың кім?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
-    - '?'
-- 
-  demando: Is your friend Anna now writing in the room?
+  - Kiu: кім
+  - estas: бар/болып тұр
+  - via: сенің
+  - amikino: қыз дос
+  - '?'
+- demando: Досың Ана қазір бөлмеде жазып отыр ма?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
-    - '?'
-- 
-  demando: Does the friend of your father work in a hotel?
+  - Ĉu: ма/ме
+  - via: сенің
+  - amikino: қыз дос
+  - Ana: Ана
+  - skribas: жазады
+  - nun: қазір
+  - en: ішінде/де
+  - la: анықтауыш
+  - ĉambro: бөлме
+  - '?'
+- demando: Әкеңнің досы қонақүйде жұмыс істей ме?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
-    - '?'
-- 
-  demando: What is on the work-bench in our room?
+  - Ĉu: ма/ме
+  - la: анықтауыш
+  - amiko: дос
+  - de: -ның/-нің
+  - via: сенің
+  - patro: әке
+  - laboras: жұмыс істейді
+  - en: ішінде/де
+  - hotelo: қонақүй
+  - '?'
+- demando: Біздің бөлмедегі жұмыс үстелінің үстінде не бар?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
-    - '?'
-- 
-  demando: Is there an Esperanto textbook on your table?
+  - Kio: не
+  - estas: бар/болып тұр
+  - sur: үстінде
+  - la: анықтауыш
+  - labortablo: жұмыс үстелі
+  - en: ішінде/де
+  - nia: біздің
+  - ĉambro: бөлме
+  - '?'
+- demando: Үстеліңде эсперанто оқулығы бар ма?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
-    - '?'
-
+  - Ĉu: ма/ме
+  - Esperanto-lernolibro: эсперанто оқулығы
+  - estas: бар/болып тұр
+  - sur: үстінде
+  - via: сенің
+  - tablo: үстел
+  - '?'

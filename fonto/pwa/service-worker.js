@@ -1,4 +1,6 @@
 const CACHE_NAME = '__CACHE_NAME__';
+const CACHE_PREFIX = '__CACHE_PREFIX__';
+const OFFLINE_FALLBACK = '__OFFLINE_FALLBACK__';
 const PRECACHE_URLS = __PRECACHE_URLS__;
 
 self.addEventListener('install', function (event) {
@@ -18,7 +20,7 @@ self.addEventListener('activate', function (event) {
     caches.keys()
       .then(function (names) {
         return Promise.all(names.map(function (name) {
-          if (name.startsWith('esperanto12-') && name !== CACHE_NAME) {
+          if (name.startsWith(CACHE_PREFIX) && name !== CACHE_NAME) {
             return caches.delete(name);
           }
           return Promise.resolve();
@@ -60,7 +62,7 @@ function offlineResponse(request) {
     if (cached) {
       return cached;
     }
-    return caches.match('/index.html');
+    return caches.match(OFFLINE_FALLBACK);
   });
 }
 

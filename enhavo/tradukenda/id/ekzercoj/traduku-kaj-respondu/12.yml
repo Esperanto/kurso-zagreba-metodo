@@ -1,68 +1,63 @@
-- 
-  demando: Apakah kita akan bertemu lagi, di manapun dan kapanpun?
-  rektatraduko: 
-    - Ĉu: Apakah
-    - ni: kita
-    - revidos: akan melihat lagi
-    - nin: kita
-    - ',' 
-    - kie: di mana
-    - ajn: pun
-    - kaj: dan
-    - kiam: kapan
-    - ajn: pun
-    - '?'
-- 
-  demando: Kapan saya akan menerima lagi setengah sisanya dari buku-buku itu?
-  rektatraduko: 
-    - Kiam: Kapan
-    - mi: saya
-    - rericevos: akan menerima lagi
-    - la: (kata sandang)
-    - alian: yang lain
-    - duonon: setengah
-    - de: dari
-    - la: (kata sandang)
-    - libroj: buku-buku
-    - '?'
-- 
-  demando: Apakah kamu akan membutuhkan lebih dari seperempat tahun untuk pekerjaan-pekerjaan itu?
-  rektatraduko: 
-    - Ĉu: Apakah
-    - vi: kamu
-    - bezonos: akan membutuhkan
-    - pli: lebih
-    - ol: dari
-    - kvaronan: seperempat
-    - jaron: tahun
-    - por: untuk
-    - tiuj: itu
-    - laboroj: pekerjaan-pekerjaan
-    - '?'
-- 
-  demando: Mengapa semakin dingin, semakin lama kami menunggu?
-  rektatraduko: 
-    - Kial: Mengapa
-    - estas: adalah
-    - des: semakin
-    - pli: lebih
-    - malvarma: dingin
-    - ',' 
-    - ju: semakin
-    - pli: lebih
-    - longe: lama
-    - ni: kami
-    - atendas: menunggu
-    - '?'
-- 
-  demando: Apakah kamu akan menjadi senang dengan pria manapun?
-  rektatraduko: 
-    - Ĉu: Apakah
-    - vi: kamu
-    - estus: akan menjadi
-    - kontenta: senang
-    - kun: dengan
-    - iu: seseorang
-    - ajn: pun
-    - viro: pria
-    - '?'
+- demando: Apakah kita akan bertemu lagi, di mana pun dan kapan pun?
+  rektatraduko:
+  - Ĉu: Apakah
+  - ni: kita
+  - revidos: akan melihat lagi
+  - nin: kita
+  - ','
+  - kie: di mana
+  - ajn: pun
+  - kaj: dan
+  - kiam: kapan
+  - ajn: pun
+  - '?'
+- demando: Kapan saya akan menerima setengah lainnya dari buku-buku itu?
+  rektatraduko:
+  - Kiam: Kapan
+  - mi: saya
+  - rericevos: akan menerima lagi
+  - la: (kata sandang)
+  - alian: yang lain
+  - duonon: setengah
+  - de: dari
+  - la: (kata sandang)
+  - libroj: buku-buku
+  - '?'
+- demando: Apakah kamu akan membutuhkan lebih dari seperempat tahun untuk pekerjaan-pekerjaan itu?
+  rektatraduko:
+  - Ĉu: Apakah
+  - vi: kamu
+  - bezonos: akan membutuhkan
+  - pli: lebih
+  - ol: dari
+  - kvaronan: seperempat
+  - jaron: tahun
+  - por: untuk
+  - tiuj: itu
+  - laboroj: pekerjaan-pekerjaan
+  - '?'
+- demando: Mengapa semakin lama kami menunggu, semakin dingin?
+  rektatraduko:
+  - Kial: Mengapa
+  - ju: semakin
+  - pli: lebih
+  - longe: lama
+  - ni: kami
+  - atendas: menunggu
+  - ','
+  - des: semakin
+  - pli: lebih
+  - malvarme: dingin
+  - estas: adalah
+  - '?'
+- demando: Apakah kamu akan puas dengan pria mana pun?
+  rektatraduko:
+  - Ĉu: Apakah
+  - vi: kamu
+  - estus: akan menjadi
+  - kontenta: senang
+  - kun: dengan
+  - iu: seseorang
+  - ajn: pun
+  - viro: pria
+  - '?'

@@ -1,4 +1,5 @@
 afer: matter
+ag: to act
 agrabl: pleasant
 akcept: to accept
 akv: water
@@ -6,6 +7,7 @@ ali: another
 alt: high
 am: to love
 amik: friend
+aper: to appear
 arb: tree
 aspekt:
 - to look
@@ -14,6 +16,7 @@ atend: to wait
 atent: to pay attention
 aĉet: to buy
 aŭd: to hear
+aŭskult: to listen
 aŭt: car
 aŭtoritat: authority
 bedaŭr: to regret
@@ -41,6 +44,7 @@ dik:
 dimanĉ: Sunday
 dir: to say
 direkt: direction
+divers: diverse
 doktor: doctor
 dolar: dollar
 dolor:
@@ -54,6 +58,7 @@ doĝ: doge
 edz: husband
 efektiv: actually
 ekskurs: excursion
+ekzempl: example
 esper: to hope
 est: to be
 facil: easy
@@ -65,7 +70,7 @@ fart:
 - to feel
 - to be
 feliĉ: happy
-ferm: to close 
+ferm: to close
 fin: to end
 flank: side
 foj:
@@ -78,6 +83,7 @@ fot: photo
 frat: brother
 fru: early
 fuŝ: to mess up
+glas: glass
 gondol: gondola
 graf:
 - earl
@@ -94,7 +100,9 @@ hom: human
 hor: hour
 hotel: hotel
 ide: idea
-industri: industry 
+industri: industry
+infan: child
+inform: to inform
 instru: to teach
 interes: to interest
 invit: to invite
@@ -104,6 +112,7 @@ jar: year
 jun: young
 kaf: coffee
 kalv: bald
+kant: to sing
 kap: head
 kapabl: capable
 kapt: to catch
@@ -120,20 +129,23 @@ kolor: color
 komenc: to begin
 kompren: to understand
 kon: to know
+konsent: to consent
 kontent: satisfied
 kontrol: to check
 kor: heart
 korp: body
 kost: to cost
+kred: to believe
 kri: to scream
 kuir: to cook
-kuk: cake 
+kuk: cake
 kur: to run
 labor: to work
 lakt: milk
 lamp: lamp
 land: land
 larĝ: wide
+las: to let
 last: last
 laŭt: loud
 lecion: lesson
@@ -142,11 +154,17 @@ lern: to learn
 leter: letter
 liber: free
 libr: book
+lingv: language
 lok: place
 long: long
+loĝ:
+- to live
+- to inhabit
+- to reside
 lud: to play
 lum: light
 man: hand
+manier: manner
 mank: be lacking
 manĝ: to eat
 mar: sea
@@ -159,12 +177,15 @@ minut: minute
 mir: to wonder
 moment: moment
 mon: money
+monat: month
+mond: world
 mont: mountain
 montr: to show
 mort: to die
 mov: to move
 mult: many
 muzik: music
+naci: nation
 nask: to give birth
 natur: nature
 neces: necessary
@@ -182,6 +203,7 @@ opini:
 - to think
 ord: to order
 orel: ear
+organiz: to organize
 pac: peace
 pag: to pay
 pan: bread
@@ -202,19 +224,32 @@ plac: place
 plan: to plan
 plaĉ: to be pleasing
 plen: full
+plor:
+- to weep
+- to cry
+pluv: to rain
 polic: police
 pord: door
 port: to carry
 pov: can
-pren: to take 
+poŝ: pocket
+poŝt: post
+pren: to take
 pret: ready
 prezent: to present
 problem: problem
 proksim: near
+proksimum: approximate
 promen: to stroll
 propon: to propose
 prov: to try
+publik: public
+punkt: point
+pur:
+- clean
+- pure
 rajt: to be allowed to
+rakont: to tell
 rapid: fast
 raport: report
 real: real
@@ -226,6 +261,8 @@ rest: to remain
 ricev: to receive
 rid: to laugh
 rigard: to look at
+rilat: to relate
+rimark: to notice
 riĉ: rich
 rol: role
 ruĝ: red
@@ -233,6 +270,9 @@ salt: to jump
 salut: hello
 sam: same
 san: healthy
+sat:
+- to be full
+- sated
 saĝ: wise
 sci: to know
 sek: dry
@@ -240,11 +280,14 @@ sekret: secret
 sekv: to follow
 semajn: week
 send: to send
+sent: to feel
 serĉ: to search
+seĝ: chair
 si: reflexive pronoun
 sid: to sit
 silent: silent
 simil: similar
+simpl: simple
 sinjor:
 - gentleman
 - Mr.
@@ -258,10 +301,11 @@ star: to stand
 strat: street
 subit: suddenly
 sufiĉ: sufficient
+suk: juice
 sukces: success
 sun: sun
 supr: above
-tabl: table 
+tabl: table
 tag: day
 te: tea
 telefon: phone
@@ -269,13 +313,16 @@ temp: time
 temperatur: temperature
 ten: to hold
 teror: terror
+terur: terrible
 tim: to fear
 ton: tone
 trankvil: calm
 trink: to drink
 trov: to find
 turk: Turkish
+tut: whole
 tuŝ: to touch
+universal: universal
 urb: city
 util: useful
 uz: to use

@@ -1,77 +1,72 @@
--
-  demando: Înțeleg chelnerii din hotelurile mari multe limbi?
+- demando: Înțeleg chelnerii din hotelurile mari multe limbi?
   rektatraduko:
-    - Ĉu: oare
-    - kelneroj: chelneri
-    - en: în
-    - grandaj: mari
-    - hoteloj: hoteluri
-    - komprenas: înțeleg
-    - multajn: multe
-    - lingvojn: limbi
-    - '?'
--
-  demando: Știi dacă Annei îi place noul cântec despre un om sărac și o fată frumoasă?
+  - Ĉu: oare
+  - kelneroj: chelneri
+  - en: în
+  - grandaj: mari
+  - hoteloj: hoteluri
+  - komprenas: înțeleg
+  - multajn: multe
+  - lingvojn: limbi
+  - '?'
+- demando: Știi dacă Anai îi place noul cântec despre un om sărac și o fată frumoasă?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - scias: știi
-    - ','
-    - ĉu: dacă
-    - Anna: Anna
-    - ŝatas: îi place
-    - la: (articol)
-    - novan: noul
-    - kanton: cântec
-    - pri: despre
-    - malriĉulo: om sărac
-    - kaj: și
-    - belulino: fată frumoasă
-    - '?'
--
-  demando: Unde i-ai văzut pe bătrânul și pe tânărul care purtau o masă mare?
+  - Ĉu: oare
+  - vi: tu
+  - scias: știi
+  - ','
+  - ĉu: dacă
+  - Ana: Ana
+  - ŝatas: îi place
+  - la: (articol)
+  - novan: noul
+  - kanton: cântec
+  - pri: despre
+  - malriĉulo: om sărac
+  - kaj: și
+  - belulino: fată frumoasă
+  - '?'
+- demando: Unde i-ai văzut pe bătrânul și pe tânărul care purtau o masă mare?
   rektatraduko:
-    - Kie: Unde
-    - vi: tu
-    - vidis: ai văzut
-    - la: (articol)
-    - maljunulon: bătrân
-    - kaj: și
-    - la: (articol)
-    - junulon: tânăr
-    - ','
-    - kiuj: care
-    - portis: purtau
-    - grandan: mare
-    - tablon: masă
-    - '?'
--
-  demando: Cum s-a întâmplat că ai venit din nou la noi fără frați și surori?
+  - Kie: Unde
+  - vi: tu
+  - vidis: ai văzut
+  - la: (articol)
+  - maljunulon: bătrân
+  - kaj: și
+  - la: (articol)
+  - junulon: tânăr
+  - ','
+  - kiuj: care
+  - portis: purtau
+  - grandan: mare
+  - tablon: masă
+  - '?'
+- demando: Cum s-a întâmplat că ai venit din nou la noi fără frați și surori?
   rektatraduko:
-    - Kiel: Cum
-    - okazis: s-a întâmplat
-    - ','
-    - ke: că
-    - vi: tu
-    - denove: din nou
-    - venis: ai venit
-    - al: la
-    - ni: noi
-    - sen: fără
-    - gefratoj: frați și surori
-    - '?'
--
-  demando: Poți învăța Esperanto destul de repede cu noul manual?
+  - Kiel: Cum
+  - okazis: s-a întâmplat
+  - ','
+  - ke: că
+  - vi: tu
+  - denove: din nou
+  - venis: ai venit
+  - al: la
+  - ni: noi
+  - sen: fără
+  - gefratoj: frați și surori
+  - '?'
+- demando: Poți învăța Esperanto destul de repede cu noul manual?
   rektatraduko:
-    - Ĉu: oare
-    - vi: tu
-    - povas: poți
-    - per: cu
-    - la: (articol)
-    - nova: nou
-    - lernolibro: manual
-    - sufiĉe: destul
-    - rapide: repede
-    - lerni: învăța
-    - Esperanton: Esperanto
-    - '?'
+  - Ĉu: oare
+  - vi: tu
+  - povas: poți
+  - per: cu
+  - la: (articol)
+  - nova: nou
+  - lernolibro: manual
+  - sufiĉe: destul
+  - rapide: repede
+  - lerni: învăța
+  - Esperanton: Esperanto
+  - '?'

@@ -1,8 +1,8 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at:  present passive
-it:  past passive
-ot:  future passive
-ut:  conditional passive
+ant: ပစ္စုပ္ပန် ပြုသူ
+at: ပစ္စုပ္ပန် ခံရသူ
+int: အတိတ် ပြုသူ
+it: အတိတ် ခံရသူ
+ont: အနာဂတ် ပြုသူ
+ot: အနာဂတ် ခံရသူ
+unt: အခြေအနေပြ ပြုသူ
+ut: အခြေအနေပြ ခံရသူ

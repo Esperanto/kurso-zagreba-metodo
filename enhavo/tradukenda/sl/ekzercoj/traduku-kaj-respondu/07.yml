@@ -1,96 +1,71 @@
-- 
-  demando: Ali bo pošta v vaši ulici, ki ste jo čakali več kot dve leti, kmalu aktivna?
-  
-  rektatraduko: 
-    - Ĉu: Ali
-    - estos: bo
-    - la: (člen)
-    - poŝtejo: pošta
-    - en: v
-    - via: vaši
-    - strato: ulici
-    - ',' 
-    - kiun: ki
-    - vi: (zaimek vi)
-    - atendis: jo čakate
-    - pli: več
-    - ol: kot
-    - du: dve
-    - jarojn: leti
-    - ','
-    - baldaŭ: kmalu
-    - aktiva: aktivna
-    - '?'
-- 
-  demando: Ali želiš, da ti pokažem svojo najljubšo fotografijo?
-  rektatraduko: 
-    - Ĉu: Ali
-    - vi: (zaimek vi)
-    - deziras: želiš
-    - ','
-    - ke: da
-    - mi: (zaimek jaz)
-    - montru: pokažem
-    - al: (predlog k) 
-    - vi: ti
-    - mian: mojo
-    - plej karan: najljubšo
-    - foton: fotografijo
-    - '?'
-- 
-  demando: Kje ste kupili to obleko?
-  rektatraduko: 
-    - Kie: Kje
-    - vi: (zaimek vi)
-    - aĉetis: ste kupili
-    - tiun: to
-    - vestaĵon: obleko
-    - '?'
-- 
-  demando: Kam boš odšel v nedeljo, če bo sončen dan?
-  rektatraduko: 
-    - Kien: Kam
-    - vi: (zaimek vi)
-    - iros: boš odšel
-    - dimanĉon: v nedeljo
-    - ',' 
-    - se: če
-    - estos: bo
-    - suna: sončen
-    - tago: dan
-    - '?'
-- 
-  demando: Ali je tvoj brat žalosten, ali se jezi; ves dan se ni niti nasmejal niti zapel z nami?
-  rektatraduko: 
-    - Ĉu: Ali
-    - estas: je
-    - via: tvoj
-    - frato: brat
-    - malĝoja: žalosten
-    - aŭ: ali
-    - li: (zaimek on)
-    - koleras: se jezi
-    - ';'
-    - ĉiutage: ves dan
-    - li: 'on'
-    - nek: niti
-    - ekridis: se ni nasmejal
-    - nek: niti
-    - ekkantis: ni zapel
-    - kun: z
-    - ni: nami
-    - '?'
-- 
-  demando: Kje si pustil vodo, ki si jo sam prinesel?
-  rektatraduko: 
-    - Kie: Kje
-    - vi: (zaimek ti)
-    - lasis: si pustil
-    - la: (člen)
-    - akvon: vodo
-    - ',' 
-    - kiun: ki
-    - vi: (zaimek ti)
-    - mem: sam
-    - alportis: si jo prinesel
-    - '?'
+- demando: Ali bo pošta v vaši ulici, ki ste jo čakali več kot dve leti, kmalu aktivna?
+  rektatraduko:
+  - Kiu: Kdo
+  - havis: had
+  - la: (člen)
+  - libron: knjigo
+  - ','
+  - kiun: ki
+  - vi: (zaimek vi)
+  - atendis: jo čakate
+  - pli: več
+  - ol: kot
+  - du: dve
+  - jarojn: leti
+  - '?'
+- demando: Ali želiš, da ti pokažem svojo najljubšo fotografijo?
+  rektatraduko:
+  - Ĉu: Ali
+  - vi: (zaimek vi)
+  - volas: želiš
+  - ','
+  - ke: da
+  - mi: (zaimek jaz)
+  - montru: pokažem
+  - al: (predlog k)
+  - vi: ti
+  - mian: mojo
+  - plej: najljubšo
+  - karan: najljubšo
+  - foton: fotografijo
+  - '?'
+- demando: Kje ste kupili to oblačilo?
+  rektatraduko:
+  - Kie: Kje
+  - vi: (zaimek vi)
+  - aĉetis: ste kupili
+  - tiun: to
+  - vestaĵon: oblačilo
+  - '?'
+- demando: Kam boš odšel v nedeljo, če bo sončen dan?
+  rektatraduko:
+  - Kien: Kam
+  - vi: (zaimek vi)
+  - iros: boš odšel
+  - dimanĉe: v nedeljo
+  - ','
+  - se: če
+  - estos: bo
+  - suna: sončen
+  - tago: dan
+  - '?'
+- demando: Ali je tvoj brat žalosten, ali se jezi; ves dan se ni niti nasmejal niti zapel z nami?
+  rektatraduko:
+  - Ĉu: Ali
+  - via: tvoj
+  - frato: brat
+  - jam: že
+  - ekiris: je odšel
+  - '?'
+- demando: Kje si pustil vodo, ki si jo sam prinesel?
+  rektatraduko:
+  - Kie: Kje
+  - estas: je
+  - la: (člen)
+  - akvo: vode
+  - ','
+  - kiun: ki
+  - vi: (zaimek ti)
+  - mem: sam
+  - kunportis: si prinesel
+  - '?'

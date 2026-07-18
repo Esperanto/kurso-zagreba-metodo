@@ -1,70 +1,64 @@
-- 
-  demando: Ngôi nhà cũ của cậu đã từng là loại gì vậy?
-  rektatraduko: 
-    - Kia: Loại gì
-    - estis: đã từng
-    - via: của cậu
-    - malnova: cũ
-    - hejmo: ngôi nhà 
-    - '?'
-- 
-  demando: Cậu đã đọc những quyển sách nào, và chúng có hay không?
-  rektatraduko: 
-    - Kiujn: Những cái nào
-    - librojn: những quyển sách
-    - vi: cậu
-    - legis: đã đọc
-    - kaj: và
-    - ĉu: có không
-    - ili: tụi nó
-    - estas: (thì là)
-    - bonaj: hay
-    - '?'
-- 
-  demando: Anna và Mark đã làm gì ở trong căn phòng nhỏ của Mark vậy?
+- demando: Ngôi nhà cũ của cậu đã từng là loại gì vậy?
   rektatraduko:
-    - Kion: Cái gì
-    - faris: đã làm
-    - Anna: Anna
-    - kaj: và
-    - Marko: Mark
-    - en: ở trong
-    - la: (mạo từ xác định)
-    - malgranda: nhỏ
-    - ĉambro: căn phòng
-    - de: của
-    - Marko: Mark
-    - '?'
-- 
-  demando: Cậu thích đọc những quyển sách về tình yêu phải không?
-  rektatraduko: 
-    - Ĉu: Phải không
-    - vi: cậu
-    - ŝatas: thích
-    - legi: đọc
-    - librojn: những quyển sách
-    - pri: về
-    - amo: tình yêu
-    - '?'
-- 
-  demando: Ai sẽ đi cùng cậu tới nhà của cậu?
-  rektatraduko: 
-    - Kiu: Ai
-    - iros: sẽ đi
-    - kun: cùng
-    - vi: cậu
-    - al: tới
-    - via: của cậu
-    - hejmo: nhà
-    - '?'
-- 
-  demando: Đôi mắt của cô bạn của cậu thì như thế nào?
-  rektatraduko: 
-    - Kiaj: Như thế nào
-    - estas: thì
-    - la: (mạo từ xác định)
-    - okuloj: đôi mắt
-    - de: của
-    - via: của cậu
-    - amikino: cô bạn
-    - '?'
+  - Kia: Loại gì
+  - estis: đã từng
+  - via: của cậu
+  - malnova: cũ
+  - hejmo: ngôi nhà
+  - '?'
+- demando: Cậu đã đọc những quyển sách nào, và chúng có hay không?
+  rektatraduko:
+  - Kiujn: Những cái nào
+  - librojn: những quyển sách
+  - vi: cậu
+  - legis: đã đọc
+  - kaj: và
+  - ĉu: có không
+  - ili: tụi nó
+  - estas: (thì là)
+  - bonaj: hay
+  - '?'
+- demando: Ana và Marko đã làm gì ở trong căn phòng nhỏ của Marko vậy?
+  rektatraduko:
+  - Kion: Cái gì
+  - faris: đã làm
+  - Ana: Ana
+  - kaj: và
+  - Marko: Marko
+  - en: ở trong
+  - la: (mạo từ xác định)
+  - malgranda: nhỏ
+  - ĉambro: căn phòng
+  - de: của
+  - Marko: Marko
+  - '?'
+- demando: Cậu thích đọc những quyển sách về tình yêu phải không?
+  rektatraduko:
+  - Ĉu: Phải không
+  - vi: cậu
+  - ŝatas: thích
+  - legi: đọc
+  - librojn: những quyển sách
+  - pri: về
+  - amo: tình yêu
+  - '?'
+- demando: Ai sẽ đi cùng cậu tới nhà của cậu?
+  rektatraduko:
+  - Kiu: Ai
+  - iros: sẽ đi
+  - kun: cùng
+  - vi: cậu
+  - al: tới
+  - via: của cậu
+  - hejmo: nhà
+  - '?'
+- demando: Đôi mắt của cô bạn của cậu thì như thế nào?
+  rektatraduko:
+  - Kiaj: Như thế nào
+  - estas: thì
+  - la: (mạo từ xác định)
+  - okuloj: đôi mắt
+  - de: của
+  - via: của cậu
+  - amikino: cô bạn
+  - '?'

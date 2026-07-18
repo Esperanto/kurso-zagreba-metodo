@@ -1,0 +1,63 @@
+- demando: Qayerda yoki qachon boʻlishidan qatʼi nazar, yana koʻrishamizmi?
+  rektatraduko:
+  - Ĉu: savol yuklamasi
+  - ni: biz
+  - revidos: yana koʻramiz
+  - nin: bir-birimizni
+  - ','
+  - kie: qayerda
+  - ajn: boʻlsa ham
+  - kaj: va
+  - kiam: qachon
+  - ajn: boʻlsa ham
+  - '?'
+- demando: Kitoblarning boshqa yarmini qachon qaytarib olaman?
+  rektatraduko:
+  - Kiam: qachon
+  - mi: men
+  - rericevos: qaytarib olaman
+  - la: aniq artikl
+  - alian: boshqani
+  - duonon: yarmini
+  - de: '...ning'
+  - la: aniq artikl
+  - libroj: kitoblar
+  - '?'
+- demando: Oʻsha ishlar uchun sizga yilning choragidan koʻproq vaqt kerak boʻladimi?
+  rektatraduko:
+  - Ĉu: savol yuklamasi
+  - vi: siz
+  - bezonos: kerak boʻladi
+  - pli: koʻproq
+  - ol: '...dan koʻra'
+  - kvaronan: chorakni
+  - jaron: yilni
+  - por: uchun
+  - tiuj: oʻshalar
+  - laboroj: ishlar
+  - '?'
+- demando: Nega sovuqroq boʻlgan sari biz uzoqroq kutamiz?
+  rektatraduko:
+  - Kial: nega
+  - ju: qancha
+  - pli: koʻproq
+  - longe: uzoq
+  - ni: biz
+  - atendas: kutamiz
+  - ','
+  - des: shuncha
+  - pli: koʻproq
+  - malvarme: sovuq
+  - estas: boʻladi
+  - '?'
+- demando: Har qanday erkak bilan baxtli boʻlarmidingiz?
+  rektatraduko:
+  - Ĉu: savol yuklamasi
+  - vi: siz
+  - estus: boʻlardingiz
+  - kontenta: mamnun
+  - kun: bilan
+  - iu: kimdir
+  - ajn: boʻlsa ham
+  - viro: erkak
+  - '?'

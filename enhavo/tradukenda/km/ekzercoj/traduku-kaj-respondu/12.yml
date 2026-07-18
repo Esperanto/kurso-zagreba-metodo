@@ -1,68 +1,63 @@
-- 
-  demando: Will we see each other again, no matter where or when?
-  rektatraduko: 
-    - Ĉu: Whether
-    - ni: we
-    - revidos: will see again
-    - nin: each other
-    - ',' 
-    - kie: where
-    - ajn: -ever
-    - kaj: and
-    - kiam: when
-    - ajn: -ever
-    - '?'
-- 
-  demando: When will I get back the other half of the books?
-  rektatraduko: 
-    - Kiam: When
-    - mi: I 
-    - rericevos: will get back
-    - la: the
-    - alian: other
-    - duonon: half
-    - de: of
-    - la: the
-    - libroj: books
-    - '?'
-- 
-  demando: Will you need more than a quarter of the year for those jobs?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - bezonos: will need
-    - pli: more
-    - ol: than
-    - kvaronan: quarter
-    - jaron: year
-    - por: for
-    - tiuj: those
-    - laboroj: jobs
-    - '?'
-- 
-  demando: Why is it that the colder it is, the longer we wait?
-  rektatraduko: 
-    - Kial: Why
-    - estas: is
-    - des: the
-    - pli: more
-    - malvarma: cold
-    - ',' 
-    - ju: the
-    - pli: more
-    - longe: long
-    - ni: we
-    - atendas: wait
-    - '?'
-- 
-  demando: Would you be happy with any man?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - estus: would be
-    - kontenta: happy
-    - kun: with
-    - iu: any
-    - ajn: ever
-    - viro: man
-    - '?'
+- demando: តើយើងនឹងជួបគ្នាម្តងទៀត មិនថានៅទីណា ឬពេលណាក៏ដោយឬ?
+  rektatraduko:
+  - Ĉu: តើ
+  - ni: យើង
+  - revidos: នឹងជួបម្តងទៀត
+  - nin: គ្នា
+  - ','
+  - kie: នៅទីណា
+  - ajn: ក៏ដោយ
+  - kaj: និង
+  - kiam: ពេលណា
+  - ajn: ក៏ដោយ
+  - '?'
+- demando: តើខ្ញុំនឹងទទួលបានពាក់កណ្តាលផ្សេងទៀតនៃសៀវភៅមកវិញនៅពេលណា?
+  rektatraduko:
+  - Kiam: ពេលណា
+  - mi: ខ្ញុំ
+  - rericevos: នឹងទទួលមកវិញ
+  - la: ពាក្យកំណត់
+  - alian: ផ្សេងទៀត
+  - duonon: ពាក់កណ្តាល
+  - de: នៃ
+  - la: ពាក្យកំណត់
+  - libroj: សៀវភៅ
+  - '?'
+- demando: តើអ្នកនឹងត្រូវការច្រើនជាងមួយភាគបួនឆ្នាំសម្រាប់ការងារទាំងនោះឬ?
+  rektatraduko:
+  - Ĉu: តើ
+  - vi: អ្នក
+  - bezonos: នឹងត្រូវការ
+  - pli: ច្រើនជាង
+  - ol: ជាង
+  - kvaronan: មួយភាគបួន
+  - jaron: ឆ្នាំ
+  - por: សម្រាប់
+  - tiuj: ទាំងនោះ
+  - laboroj: ការងារ
+  - '?'
+- demando: ហេតុអ្វីបានជាវាកាន់តែត្រជាក់ នៅពេលយើងរង់ចាំយូរជាង?
+  rektatraduko:
+  - Kial: ហេតុអ្វី
+  - ju: កាន់តែ
+  - pli: ជាង
+  - longe: យូរ
+  - ni: យើង
+  - atendas: រង់ចាំ
+  - ','
+  - des: កាន់តែ
+  - pli: ជាង
+  - malvarme: ត្រជាក់
+  - estas: គឺ
+  - '?'
+- demando: តើអ្នកនឹងពេញចិត្តជាមួយបុរសណាក៏ដោយឬ?
+  rektatraduko:
+  - Ĉu: តើ
+  - vi: អ្នក
+  - estus: នឹងជា
+  - kontenta: ពេញចិត្ត
+  - kun: ជាមួយ
+  - iu: នរណា
+  - ajn: ក៏ដោយ
+  - viro: បុរស
+  - '?'

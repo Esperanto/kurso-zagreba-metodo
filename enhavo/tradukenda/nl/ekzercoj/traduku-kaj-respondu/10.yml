@@ -1,51 +1,47 @@
-- 
-  demando: Maakt vriendschap jou/je gelukkiger dan de liefde?
+- demando: Maakt vriendschap je gelukkiger dan liefde?
   rektatraduko:
-    - Ĉu: Of
-    - amikeco: vriendschap 
-    - pli: meer 
-    - feliĉigas: gelukkig maakt
-    - vin: jou 
-    - ol: dan 
-    - la: de 
-    - amo: liefde 
-    - '?'
-- 
-  demando: Hoe vaak schrijf je brieven aan jouw/je vriendinnen in Italië?
+  - Ĉu: Of
+  - amikeco: vriendschap
+  - pli: meer
+  - feliĉigas: gelukkig maakt
+  - vin: jou
+  - ol: dan
+  - la: de
+  - amo: liefde
+  - '?'
+- demando: Hoe vaak schrijf je brieven aan je vriendinnen in Italië?
   rektatraduko:
-    - Kiel: Hoe
-    - ofte: vaak 
-    - vi: jij 
-    - skribas: schrijft 
-    - leterojn: brieven 
-    - al:  aan
-    - viaj: jouw 
-    - amikinoj: vriendinnen 
-    - en: in 
-    - Italio: Italië
-    - '?'
-- 
-  demando: Is de verhouding tussen jou en jouw leraar veranderd?
+  - Kiel: Hoe
+  - ofte: vaak
+  - vi: jij
+  - skribas: schrijft
+  - leterojn: brieven
+  - al: aan
+  - viaj: jouw
+  - amikinoj: vriendinnen
+  - en: in
+  - Italio: Italië
+  - '?'
+- demando: Is de verhouding tussen jou en jouw leraar veranderd?
   rektatraduko:
-    - Ĉu: Of 
-    - la: de 
-    - rilato: verhouding 
-    - inter: tussen 
-    - vi: jou 
-    - kaj: en 
-    - via: jouw 
-    - instruisto: leraar 
-    - ŝanĝiĝis: werd veranderd
-    - '?'
-- 
-  demando: Ken je nu al goed genoeg Esperanto?
+  - Ĉu: Of
+  - la: de
+  - rilato: verhouding
+  - inter: tussen
+  - vi: jou
+  - kaj: en
+  - via: jouw
+  - instruisto: leraar
+  - ŝanĝiĝis: is veranderd
+  - '?'
+- demando: Ken je nu al goed genoeg Esperanto?
   rektatraduko:
-    - Ĉu: Of
-    - vi: je 
-    - nun: nu 
-    - jam: al 
-    - scias: weet 
-    - Esperanton: Esperanto 
-    - sufiĉe: genoeg
-    - bone: goed 
-    - '?'
+  - Ĉu: Of
+  - vi: je
+  - nun: nu
+  - jam: al
+  - scias: kent
+  - Esperanton: Esperanto
+  - sufiĉe: genoeg
+  - bone: goed
+  - '?'

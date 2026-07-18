@@ -1,0 +1,12 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, prefikso
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - dis
+  - ek
+  - for
+  - ge
+  - mal
+  - re

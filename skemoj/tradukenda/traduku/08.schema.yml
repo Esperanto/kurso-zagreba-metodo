@@ -1,0 +1,85 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 08
+allOf:
+- $ref: ../traduku.schema.yml
+- maxItems: 20
+- contains:
+    required:
+    - subteni
+  maxContains: 1
+- contains:
+    required:
+    - malaperigi
+  maxContains: 1
+- contains:
+    required:
+    - elteni
+  maxContains: 1
+- contains:
+    required:
+    - utiligi
+  maxContains: 1
+- contains:
+    required:
+    - deteni sin
+  maxContains: 1
+- contains:
+    required:
+    - alivorte
+  maxContains: 1
+- contains:
+    required:
+    - sinteno
+  maxContains: 1
+- contains:
+    required:
+    - loĝigi
+  maxContains: 1
+- contains:
+    required:
+    - memorigi
+  maxContains: 1
+- contains:
+    required:
+    - plifortigi
+  maxContains: 1
+- contains:
+    required:
+    - renovigo
+  maxContains: 1
+- contains:
+    required:
+    - utiligebla
+  maxContains: 1
+- contains:
+    required:
+    - aperigi
+  maxContains: 1
+- contains:
+    required:
+    - forigi
+  maxContains: 1
+- contains:
+    required:
+    - purigi
+  maxContains: 1
+- contains:
+    required:
+    - senmorta
+  maxContains: 1
+- contains:
+    required:
+    - malplenigi
+  maxContains: 1
+- contains:
+    required:
+    - kelkfoje
+  maxContains: 1
+- contains:
+    required:
+    - transdoni
+  maxContains: 1
+- contains:
+    required:
+    - superrigardo
+  maxContains: 1

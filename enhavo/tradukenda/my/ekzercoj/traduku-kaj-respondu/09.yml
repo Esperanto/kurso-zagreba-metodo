@@ -1,75 +1,70 @@
-- 
-  demando: What could delight your parents most of all?
-  rektatraduko: 
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
-    - '?'
-- 
-  demando: If at least you wanted to go to the city center after school!
-  rektatraduko: 
-    - Se: If
-    - almenaŭ: at least
-    - vi: you
-    - post: after
-    - la: the 
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the 
-    - urbocentron: city center
-    - '!'
-- 
-  demando: Where would you like to travel to if you had enough money and time?
-  rektatraduko: 
-    - Kien: Where to
-    - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
-    - ',' 
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
-    - kaj: and
-    - tempo: time
-    - '?'
-- 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
-    - '?'
-- 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko: 
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently 
-    - '?'
+- demando: သင့်မိဘများကို အများဆုံး ပျော်ရွှင်စေမည့်အရာက ဘာဖြစ်နိုင်သလဲ။
+  rektatraduko:
+  - Kio: ဘာ
+  - povus: ဖြစ်နိုင်သည်
+  - plej: အများဆုံး
+  - ĝojigi: ပျော်ရွှင်စေသည်
+  - viajn: သင်၏
+  - gepatrojn: မိဘများကို
+  - '?'
+- demando: အနည်းဆုံး သင် သင်ယူပြီးနောက် ကျွန်ုပ်နှင့်အတူ မြို့သို့ သွားချင်ပါစေ။
+  rektatraduko:
+  - Se: လျှင်
+  - almenaŭ: အနည်းဆုံး
+  - vi: သင်
+  - post: ပြီးနောက်
+  - la: ထို
+  - lernado: သင်ယူခြင်း
+  - irus: သွားမည်ဆိုလျှင်
+  - kun: နှင့်အတူ
+  - mi: ကျွန်ုပ်
+  - en: ထဲသို့
+  - la: ထို
+  - urbon: မြို့
+  - '!'
+- demando: သင့်မှာ ငွေနှင့် အချိန် လုံလောက်လျှင် ဘယ်သို့ ခရီးသွားချင်သလဲ။
+  rektatraduko:
+  - Kien: ဘယ်သို့
+  - vi: သင်
+  - dezirus: ဆန္ဒရှိမည်
+  - vojaĝi: ခရီးသွားရန်
+  - ','
+  - se: လျှင်
+  - vi: သင်
+  - havus: ရှိမည်
+  - sufiĉe: လုံလောက်စွာ
+  - da: ပမာဏ၏
+  - mono: ငွေ
+  - kaj: နှင့်
+  - tempo: အချိန်
+  - '?'
+- demando: သင် အီတလီသို့ ကားဖြင့် သွားရန် စီစဉ်နေပါသလား၊ ဒါမှမဟုတ် ရထားဖြင့် သွားတာက ပိုကောင်းသည်ဟု မထင်ဘူးလား။
+  rektatraduko:
+  - Ĉu: လား
+  - vi: သင်
+  - planas: စီစဉ်သည်
+  - veturi: သွားရန်
+  - al: သို့
+  - Italio: အီတလီ
+  - per: ဖြင့်
+  - aŭto: ကား
+  - aŭ: သို့မဟုတ်
+  - ĉu: လား
+  - ne: မ
+  - ŝajnas: ထင်ရသည်
+  - multe: များစွာ
+  - pli: ပို၍
+  - bone: ကောင်းစွာ
+  - per: ဖြင့်
+  - vagonaro: ရထား
+  - '?'
+- demando: လူအမျိုးမျိုးတို့သည် တူညီသောအကြံများကို ဘာကြောင့် နည်းလမ်းအမျိုးမျိုးဖြင့် ရှင်းပြကြသလဲ။
+  rektatraduko:
+  - Kial: ဘာကြောင့်
+  - diversaj: အမျိုးမျိုးသော
+  - homoj: လူများ
+  - klarigas: ရှင်းပြသည်
+  - samajn: တူညီသော
+  - ideojn: အကြံများကို
+  - diversmaniere: နည်းလမ်းအမျိုးမျိုးဖြင့်
+  - '?'

@@ -1,73 +1,67 @@
--
-  demando: Kdaj te bom ponovno videl?
-  rektatraduko: 
-    - Kiam: Kdaj
-    - mi: (zaimek jaz)  
-    - revidos: bom ponovno videl
-    - vin: (zaimek tebe)
-    - '?'
--
-  demando: Kako dolgo se učite mednarodni jezik?
-  rektatraduko: 
-    - Kiel: Kako
-    - longe: dolgo
-    - vi: (zaimek vi)
-    - lernas: se učite
-    - la: (člen) 
-    - Internacian: mednarodni
-    - lingvon: jezik
-    - '?'
--
-  demando: Kje je moja nova knjiga s fotografijami?
-  rektatraduko: 
-    - Kie: Kje
-    - estas: je
-    - mia: moja
-    - nova: nova
-    - libro: knjiga
-    - kun: s
-    - fotoj: fotografijami
-    - '?'
--
-  demando: Kam greš po kosilu?
-  rektatraduko: 
-    - Kien: Kam
-    - vi: (zaimek ti)
-    - iras: greš
-    - post: po
-    - la: (člen)
-    - tagmanĝo: kosilu
-    - '?'
--
-  demando: Ali lahko zapremo vrata sobe, če nam bo hladno?
-  rektatraduko: 
-    - Ĉu: Ali
-    - ni: (zaimek mi)
-    - povas: lahko 
-    - fermi: zapremo
-    - la: (člen)
-    - pordon: vrata
-    - de: (predlog) 
-    - la: (člen)
-    - ĉambro: sobe
-    - ','
-    - se: če
-    - al ni: (zaimek nam)
-    - estos: bo
-    - malvarme: hladno
-    - '?'
--
-  demando: Kako dolgo se jeziš, ko ti vzamejo veliko denarja?
-  rektatraduko: 
-    - Kiel: Kako
-    - longe: dolgo
-    - vi: (zaimek ti)
-    - koleras: se jeziš
-    - ','
-    - kiam: ko
-    - de: (predlog od)
-    - vi: ti
-    - oni prenas: vzamejo
-    - multan: veliko
-    - monon: denarja
-    - '?'
+- demando: Kdaj te bom ponovno videl?
+  rektatraduko:
+  - Kiam: Kdaj
+  - mi: (zaimek jaz)
+  - revidos: bom ponovno videl
+  - vin: (zaimek tebe)
+  - '?'
+- demando: Kako dolgo se učite mednarodni jezik?
+  rektatraduko:
+  - Kiom: koliko
+  - longe: dolgo
+  - vi: (zaimek vi)
+  - lernas: se učite
+  - la: (člen)
+  - Internacian: mednarodni
+  - Lingvon: jezik
+  - '?'
+- demando: Kje je moja nova knjiga s fotografijami?
+  rektatraduko:
+  - Kie: Kje
+  - estas: je
+  - mia: moja
+  - nova: nova
+  - libro: knjiga
+  - kun: s
+  - fotoj: fotografijami
+  - '?'
+- demando: Kam greš po kosilu?
+  rektatraduko:
+  - Kien: Kam
+  - vi: (zaimek ti)
+  - iros: bo šel
+  - post: po
+  - la: (člen)
+  - tagmanĝo: kosilu
+  - '?'
+- demando: Ali lahko zapremo vrata sobe, če nam bo hladno?
+  rektatraduko:
+  - Ĉu: Ali
+  - oni: one
+  - povas: lahko
+  - fermi: zapremo
+  - la: (člen)
+  - pordon: vrata
+  - de: (predlog)
+  - la: (člen)
+  - ĉambro: sobe
+  - ','
+  - kiam: ko
+  - estas: je
+  - malvarme: hladno
+  - '?'
+- demando: Kako dolgo se jeziš, ko ti vzamejo veliko denarja?
+  rektatraduko:
+  - Kiom: koliko
+  - longe: dolgo
+  - vi: (zaimek ti)
+  - koleras: se jeziš
+  - ','
+  - se: če
+  - oni: vzamejo
+  - forprenas: vzamejo
+  - de: (predlog od)
+  - vi: ti
+  - multan: veliko
+  - monon: denarja
+  - '?'

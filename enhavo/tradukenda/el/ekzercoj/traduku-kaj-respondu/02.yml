@@ -1,70 +1,64 @@
-- 
-  demando: Πως ήταν το παλιό σου σπίτι; 
-  rektatraduko: 
-    - Kia: Πως
-    - estis: ήταν
-    - via: το δικό σου
-    - malnova: παλιό
-    - hejmo: σπίτι 
-    - '?'
-- 
-  demando: Ποιά βιβλία διάβασες εσύ, και μήπως ήταν καλά;
-  rektatraduko: 
-    - Kiujn: Ποιά 
-    - librojn: βιβλία
-    - vi: εσύ
-    - legis: διάβασες
-    - kaj: και
-    - ĉu: μήπως
-    - ili: αυτά
-    - estas: ήταν
-    - bonaj: καλά 
-    - '?'
-- 
-  demando: Τι έκαναν η Άννα και ο Μάρκος μέσα στο μικρό δωμάτιο του Μάρκου;
+- demando: Πώς ήταν το παλιό σου σπίτι;
   rektatraduko:
-    - Kion: Τι
-    - faris: έκαναν
-    - Anna: η Άννα
-    - kaj: και
-    - Marko: ο Μάρκος
-    - en: μέσα 
-    - la: στο
-    - malgranda: μικρό
-    - ĉambro: δωμάτιο
-    - de: του
-    - Marko: Μάρκου
-    - '?'
-- 
-  demando: Σου αρέσει να διαβάζεις βιβλία σχετικά με την αγάπη; 
-  rektatraduko: 
-    - Ĉu: Μήπως
-    - vi: σου
-    - ŝatas: αρέσει
-    - legi: να διαβάζεις
-    - librojn: βιβλία
-    - pri: σχετικά με
-    - amo: αγάπη
-    - '?'
-- 
-  demando: Ποιός θα πάει μαζί σου στο σπίτι σου;
-  rektatraduko: 
-    - Kiu: Ποιός
-    - iros: θα πάει
-    - kun: μαζί
-    - vi: σου
-    - al: στο 
-    - via: δικό σου
-    - hejmo: σπίτι
-    - '?'
-- 
-  demando: Πως είναι τα μάτια της φίλης σου; 
-  rektatraduko: 
-    - Kiaj: Πως
-    - estas: είναι
-    - la: τα
-    - okuloj: μάτια
-    - de: της
-    - via: δικής σου
-    - amikino: φίλης
-    - '?'
+  - Kia: Πώς
+  - estis: ήταν
+  - via: το δικό σου
+  - malnova: παλιό
+  - hejmo: σπίτι
+  - '?'
+- demando: Ποια βιβλία διάβασες και ήταν καλά;
+  rektatraduko:
+  - Kiujn: Ποια
+  - librojn: βιβλία
+  - vi: εσύ
+  - legis: διάβασες
+  - kaj: και
+  - ĉu: μήπως
+  - ili: αυτά
+  - estas: ήταν
+  - bonaj: καλά
+  - '?'
+- demando: Τι έκαναν Άννα και ο Μάρκος μέσα στο μικρό δωμάτιο του Μάρκου;
+  rektatraduko:
+  - Kion: Τι
+  - faris: έκαναν
+  - Ana: Άννα
+  - kaj: και
+  - Marko: ο Μάρκος
+  - en: μέσα
+  - la: στο
+  - malgranda: μικρό
+  - ĉambro: δωμάτιο
+  - de: του
+  - Marko: Μάρκου
+  - '?'
+- demando: Σου αρέσει να διαβάζεις βιβλία σχετικά με την αγάπη;
+  rektatraduko:
+  - Ĉu: Μήπως
+  - vi: σου
+  - ŝatas: αρέσει
+  - legi: να διαβάζεις
+  - librojn: βιβλία
+  - pri: σχετικά με
+  - amo: αγάπη
+  - '?'
+- demando: Ποιος θα πάει μαζί σου στο σπίτι σου;
+  rektatraduko:
+  - Kiu: Ποιος
+  - iros: θα πάει
+  - kun: μαζί
+  - vi: σου
+  - al: στο
+  - via: δικό σου
+  - hejmo: σπίτι
+  - '?'
+- demando: Πώς είναι τα μάτια της φίλης σου;
+  rektatraduko:
+  - Kiaj: Πως
+  - estas: είναι
+  - la: τα
+  - okuloj: μάτια
+  - de: της
+  - via: δικής σου
+  - amikino: φίλης
+  - '?'

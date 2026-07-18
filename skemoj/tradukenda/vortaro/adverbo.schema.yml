@@ -1,0 +1,29 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda vortaro YAML, adverbo
+allOf:
+- $ref: ../vortaro.schema.yml
+- type: object
+  required:
+  - almenaŭ
+  - ambaŭ
+  - ankaŭ
+  - ankoraŭ
+  - baldaŭ
+  - do
+  - eĉ
+  - hieraŭ
+  - hodiaŭ
+  - jam
+  - jes
+  - kvazaŭ
+  - morgaŭ
+  - nun
+  - nur
+  - plej
+  - pli
+  - plu
+  - preskaŭ
+  - tamen
+  - tre
+  - tro
+  - tuj

@@ -1,32 +1,31 @@
-nulo: μηδέν
-unu: "ένας, μία, ένα"
-du: δύο
-tri: "τρείς, τρία"
-kvar: "τέσσερεις, τέσσερα"
-kvin: πέντε
-ses: έξι
-sep: επτά
-ok: οκτώ
-naŭ: εννέα
-dek: δέκα
-dek unu: έντεκα
-dek du: δώδεκα
-dek tri: "δεκατρείς, δεκατρία"
-dek kvar: "δεκατέσερεις, δεκατέσσερα"
-dek kvin: δεκαπέντε 
-dek ses: δεκαέξι 
-dek sep: δεκαπτά
-dek ok: δεκαοκτώ
-dek naŭ: δεκαεννέα
-dudek: είκοσι
-tridek: τριάντα
-kvardek: σαράντα
-cent: εκατό
-ducent: διακόσια
-tricent: τριακόσια
-mil: χίλια
-dumil: δύο χιλιάδες
-
-miliono: εκατομμύριο
-miliardo: δισεκατομμύριο
 biliono: τρισεκατομμύριο
+cent: εκατό
+dek: δέκα
+dek du: δώδεκα
+dek kvar: δεκατέσερεις, δεκατέσσερα
+dek kvin: δεκαπέντε
+dek naŭ: δεκαεννέα
+dek ok: δεκαοκτώ
+dek sep: δεκαπτά
+dek ses: δεκαέξι
+dek tri: δεκατρείς, δεκατρία
+dek unu: έντεκα
+du: δύο
+ducent: διακόσια
+dudek: είκοσι
+dumil: δύο χιλιάδες
+kvar: τέσσερεις, τέσσερα
+kvardek: σαράντα
+kvin: πέντε
+mil: χίλια
+miliardo: δισεκατομμύριο
+miliono: εκατομμύριο
+naŭ: εννέα
+nulo: μηδέν
+ok: οκτώ
+sep: επτά
+ses: έξι
+tri: τρείς, τρία
+tricent: τριακόσια
+tridek: τριάντα
+unu: ένας, μία, ένα

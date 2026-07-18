@@ -1,72 +1,68 @@
-- 
-  demando: Do you want me to show you my newest book?
-  rektatraduko: 
-    - Ĉu: Whether
-    - vi: you
-    - deziras: wish
-    - ',' 
-    - ke: that 
-    - mi: I
-    - montru: show
-    - al: to
-    - vi: you
-    - mian: my
-    - plej: most
-    - novan: new
-    - libron: book
-    - '?'
-- 
-  demando: What do you want for breakfast tomorrow?
-  rektatraduko: 
-    - Kion: What
-    - vi: you
-    - volas: want
-    - morgaŭ: tomorrow
-    - matenmanĝi: eat breakfast
-    - '?'
-- 
-  demando: "When will Mark arrive, at five or at eight o'clock?"
-  rektatraduko: 
-    - Kiam: When
-    - Marko: Mark
-    - alvenos: will arrive
-    - ',' 
-    - je: at
-    - la: the
-    - kvina: fifth
-    - aŭ: or
-    - je: at
-    - la: the
-    - oka: eighth
-    - horo: hour
-    - '?'
-- 
-  demando: When did you notice that the whole family calls me benefactor?
-  rektatraduko: 
-    - Kiam: When
-    - vi: you
-    - rimarkis: did notice
-    - ','  
-    - ke: that
-    - la: the
-    - tuta: whole
-    - familio: family
-    - nomas: calls
-    - min: me
-    - bonfarulo: benefactor
-    - '?'
-- 
-  demando: Was the booklet which I send you useful to you?
-  rektatraduko: 
-    - Ĉu: Whether
-    - la: the 
-    - libreto: booklet
-    - estis: was
-    - utila: useful
-    - al: to
-    - vi: you
-    - ',' 
-    - kiun: which
-    - mi: I 
-    - sendis: sent
-    - '?'
+- demando: ເຈົ້າຢາກໃຫ້ຂ້ອຍສະແດງປຶ້ມໃໝ່ທີ່ສຸດຂອງຂ້ອຍໃຫ້ເຈົ້າເບິ່ງບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - vi: ເຈົ້າ
+  - deziras: ປາຖະໜາ
+  - ','
+  - ke: ວ່າ
+  - mi: ຂ້ອຍ
+  - montru: ສະແດງ
+  - al: ໄປຫາ
+  - vi: ເຈົ້າ
+  - mian: ຂອງຂ້ອຍ
+  - plej: ທີ່ສຸດ
+  - novan: ໃໝ່
+  - libron: ປຶ້ມ
+  - '?'
+- demando: ມື້ອື່ນເຈົ້າຢາກກິນຫຍັງເປັນອາຫານເຊົ້າ?
+  rektatraduko:
+  - Kion: ຫຍັງ
+  - vi: ເຈົ້າ
+  - volas: ຕ້ອງການ
+  - morgaŭ: ມື້ອື່ນ
+  - matenmanĝi: ກິນອາຫານເຊົ້າ
+  - '?'
+- demando: Marko ຈະມາເຖິງເມື່ອໃດ, ເວລາຫ້າໂມງ ຫຼື ແປດໂມງ?
+  rektatraduko:
+  - Kiam: ເມື່ອໃດ
+  - Marko: Marko
+  - alvenos: ຈະມາເຖິງ
+  - ','
+  - je: ທີ່ເວລາ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - kvina: ທີຫ້າ
+  - aŭ: ຫຼື
+  - je: ທີ່ເວລາ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - oka: ທີແປດ
+  - horo: ຊົ່ວໂມງ
+  - '?'
+- demando: ເຈົ້າສັງເກດເມື່ອໃດວ່າຄອບຄົວທັງໝົດເອີ້ນຂ້ອຍວ່າຜູ້ເຮັດຄວາມດີ?
+  rektatraduko:
+  - Kiam: ເມື່ອໃດ
+  - vi: ເຈົ້າ
+  - rimarkis: ໄດ້ສັງເກດ
+  - ','
+  - ke: ວ່າ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - tuta: ທັງໝົດ
+  - familio: ຄອບຄົວ
+  - nomas: ເອີ້ນ
+  - min: ຂ້ອຍ
+  - bonfarulo: ຜູ້ເຮັດຄວາມດີ
+  - '?'
+- demando: ປຶ້ມນ້ອຍທີ່ຂ້ອຍສົ່ງໃຫ້ເຈົ້າ ມີປະໂຫຍດຕໍ່ເຈົ້າບໍ?
+  rektatraduko:
+  - Ĉu: ບໍ
+  - la: ຄຳນຳໜ້າຊີ້ສະເພາະ
+  - libreto: ປຶ້ມນ້ອຍ
+  - ','
+  - kiun: ທີ່
+  - mi: ຂ້ອຍ
+  - sendis: ໄດ້ສົ່ງ
+  - al: ໄປຫາ
+  - vi: ເຈົ້າ
+  - ','
+  - estis: ເຄີຍແມ່ນ
+  - utila: ມີປະໂຫຍດ
+  - '?'

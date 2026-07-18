@@ -1,64 +1,59 @@
--
-  demando: Czy potrafisz spokojnie uczyć się, gdy ktoś wesoło śpiewa?
-  rektatraduko: 
-    - Ĉu: Czy
-    - vi: ty
-    - povas: możesz
-    - trankvile: spokojnie
-    - lerni: uczyć się
-    - ','
-    - dum: gdy
-    - iu: ktoś
-    - ĝoje: wesoło
-    - kantas: śpiewa
-    - '?'
--
-  demando: Kto wie, kiedy i gdzie zobaczymy się znowu?
-  rektatraduko: 
-    - Kiu: Kto
-    - scias: wie
-    - ','
-    - kiam: kiedy 
-    - kaj: i
-    - kie: gdzie
-    - ni: my
-    - revidos: zobaczymy znowu
-    - nin: się
-    - '?'
--
-  demando: Która jest teraz godzina?
-  rektatraduko: 
-    - Kioma: Która
-    - horo: godzina
-    - estas: jest
-    - nun: teraz
-    - '?'
--
-  demando: Czy ktoś pomógł ci otworzyć drzwi starego domu?
-  rektatraduko: 
-    - Ĉu: Czy
-    - iu: ktoś 
-    - helpis: pomógł 
-    - al: do
-    - vi: ty 
-    - malfermi: otworzyć 
-    - la: (przedimek określony)
-    - pordon: drzwi
-    - de: od
-    - la: (przedimek określony)
-    - malnova: stary
-    - domo: dom
-    - '?'
--
-  demando: Dlaczego nie masz czasu dłużej mnie słuchać?
-  rektatraduko: 
-    - Kial: Dlaczego
-    - vi: ty
-    - ne: nie
-    - havas: masz
-    - tempon: czasu
-    - aŭskulti: słuchać
-    - min: mnie
-    - pli: bardziej
-    - longe: długo
-    - '?'
+- demando: Czy potrafisz spokojnie się uczyć, gdy ktoś wesoło śpiewa?
+  rektatraduko:
+  - Ĉu: Czy
+  - vi: ty
+  - povas: możesz
+  - trankvile: spokojnie
+  - lerni: uczyć się
+  - ','
+  - dum: gdy
+  - iu: ktoś
+  - ĝoje: wesoło
+  - kantas: śpiewa
+  - '?'
+- demando: Kto wie, kiedy i gdzie zobaczymy się znowu?
+  rektatraduko:
+  - Kiu: Kto
+  - scias: wie
+  - ','
+  - kiam: kiedy
+  - kaj: i
+  - kie: gdzie
+  - ni: my
+  - revidos: zobaczymy znowu
+  - nin: się
+  - '?'
+- demando: Która jest teraz godzina?
+  rektatraduko:
+  - Kioma: Która
+  - horo: godzina
+  - estas: jest
+  - nun: teraz
+  - '?'
+- demando: Czy ktoś pomógł ci otworzyć drzwi starego domu?
+  rektatraduko:
+  - Ĉu: Czy
+  - iu: ktoś
+  - helpis: pomógł
+  - al: do
+  - vi: ty
+  - malfermi: otworzyć
+  - la: (przedimek określony)
+  - pordon: drzwi
+  - de: od
+  - la: (przedimek określony)
+  - malnova: stary
+  - domo: dom
+  - '?'
+- demando: Dlaczego nie masz czasu słuchać mnie dłużej?
+  rektatraduko:
+  - Kial: Dlaczego
+  - vi: ty
+  - ne: nie
+  - havas: masz
+  - tempon: czasu
+  - aŭskulti: słuchać
+  - min: mnie
+  - pli: bardziej
+  - longe: długo
+  - '?'

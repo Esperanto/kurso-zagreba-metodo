@@ -1,27 +1,27 @@
-unu: egy
-du: kettő
-tri: három
-kvar: négy
-kvin: öt
-ses: hat
-sep: hét
-ok: nyolc
-naŭ: kilenc
-dek: tíz
-dek unu: tizenegy
-dek du: tizenkettő
-dek tri: tizenhárom
-dek kvar: tizennégy
-dek kvin: tizenöt 
-dek ses: tizenhat 
-dek sep: tizenhét
-dek ok: tizennyolc
-dek naŭ: tizenkilenc
-dudek: húsz
-tridek: harminc
-kvardek: negyven
 cent: száz
+dek: tíz
+dek du: tizenkettő
+dek kvar: tizennégy
+dek kvin: tizenöt
+dek naŭ: tizenkilenc
+dek ok: tizennyolc
+dek sep: tizenhét
+dek ses: tizenhat
+dek tri: tizenhárom
+dek unu: tizenegy
+du: kettő
 ducent: kétszáz
-tricent: háromszáz
-mil: ezer
+dudek: húsz
 dumil: kétezer
+kvar: négy
+kvardek: negyven
+kvin: öt
+mil: ezer
+naŭ: kilenc
+ok: nyolc
+sep: hét
+ses: hat
+tri: három
+tricent: háromszáz
+tridek: harminc
+unu: egy

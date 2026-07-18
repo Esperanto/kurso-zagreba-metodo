@@ -1,8 +1,5 @@
-- Megtanítja a **legfontosabb 500 szót**
-- **Ingyenes** és **regisztráció nélkül használható**
-- [Anki]({{ url.anki }})-hoz való [tanulókártya-csomaggal]({{ url.kartaro }})
+- Tanuld meg az **500 legfontosabb szót**
+- Értsd meg a **beszélt eszperantó 95 %-át**
+- **Ingyen**, regisztráció nélkül
 
-A kurzus után **megérted a lényeget**, saját mondatokat alkotsz, és alapvető gondolatokat tudsz közölni hétköznapi helyzetekben.
-
-Csak próbáld ki!
-____
+Ezután követni tudsz egyszerű beszélgetéseket, saját mondatokat alkotni, és egyenesen elmehetsz a [következő eszperantó találkozóra](https://eventaservo.org/).

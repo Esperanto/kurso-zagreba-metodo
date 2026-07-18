@@ -1,0 +1,51 @@
+- demando: ვინ არის შენი მეგობარი ქალი?
+  rektatraduko:
+  - Kiu: ვინ
+  - estas: არის
+  - via: შენი
+  - amikino: მეგობარი ქალი
+  - '?'
+- demando: შენი მეგობარი ანა ახლა ოთახში წერს?
+  rektatraduko:
+  - Ĉu: თუ არა
+  - via: შენი
+  - amikino: მეგობარი ქალი
+  - Ana: ანა
+  - skribas: წერს
+  - nun: ახლა
+  - en: შიგნით
+  - la: განსაზღვრული
+  - ĉambro: ოთახი
+  - '?'
+- demando: მამაშენის მეგობარი სასტუმროში მუშაობს?
+  rektatraduko:
+  - Ĉu: თუ არა
+  - la: განსაზღვრული
+  - amiko: მეგობარი
+  - de: -ის
+  - via: შენი
+  - patro: მამა
+  - laboras: მუშაობს
+  - en: შიგნით
+  - hotelo: სასტუმრო
+  - '?'
+- demando: რა დევს სამუშაო მაგიდაზე ჩვენს ოთახში?
+  rektatraduko:
+  - Kio: რა
+  - estas: არის
+  - sur: ზედ
+  - la: განსაზღვრული
+  - labortablo: სამუშაო მაგიდა
+  - en: შიგნით
+  - nia: ჩვენი
+  - ĉambro: ოთახი
+  - '?'
+- demando: შენს მაგიდაზე ესპერანტოს სახელმძღვანელო არის?
+  rektatraduko:
+  - Ĉu: თუ არა
+  - Esperanto-lernolibro: ესპერანტო-სასწავლო წიგნი
+  - estas: არის
+  - sur: ზედ
+  - via: შენი
+  - tablo: მაგიდა
+  - '?'

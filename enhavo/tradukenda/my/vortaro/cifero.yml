@@ -1,27 +1,27 @@
-unu: one
-du: two
-tri: three
-kvar: four
-kvin: five
-ses: six
-sep: seven
-ok: eight
-naŭ: nine
-dek: ten
-dek unu: eleven
-dek du: twelve
-dek tri: thirteen
-dek kvar: fourteen
-dek kvin: fiveteen 
-dek ses: sixteen 
-dek sep: seventeen
-dek ok: eightteen
-dek naŭ: nineteen
-dudek: twenty
-tridek: thirty
-kvardek: fourty
-cent: hundred
-ducent: two hundred
-tricent: three hundred
-mil: thousand
-dumil: two thousand
+cent: တစ်ရာ
+dek: ဆယ်
+dek du: ဆယ့်နှစ်
+dek kvar: ဆယ့်လေး
+dek kvin: ဆယ့်ငါး
+dek naŭ: ဆယ့်ကိုး
+dek ok: ဆယ့်ရှစ်
+dek sep: ဆယ့်ခုနစ်
+dek ses: ဆယ့်ခြောက်
+dek tri: ဆယ့်သုံး
+dek unu: ဆယ့်တစ်
+du: နှစ်
+ducent: နှစ်ရာ
+dudek: နှစ်ဆယ်
+dumil: နှစ်ထောင်
+kvar: လေး
+kvardek: လေးဆယ်
+kvin: ငါး
+mil: တစ်ထောင်
+naŭ: ကိုး
+ok: ရှစ်
+sep: ခုနစ်
+ses: ခြောက်
+tri: သုံး
+tricent: သုံးရာ
+tridek: သုံးဆယ်
+unu: တစ်

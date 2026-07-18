@@ -1,0 +1,49 @@
+- demando: Voitko tuoda siskoni lääkkeen mukanasi?
+  rektatraduko:
+  - Ĉu: kysymys
+  - vi: sinä
+  - povas: voit
+  - kunporti: tuoda mukana
+  - la: määräinen artikkeli
+  - sanigilon: parantamisväline objektina
+  - de: jonkun
+  - mia: minun
+  - fratino: sisar
+  - '?'
+- demando: Milloin ostit tuon soittimen?
+  rektatraduko:
+  - Kiam: milloin
+  - vi: sinä
+  - aĉetis: ostit
+  - tiun: tuo objektina
+  - muzikilon: musiikkiväline objektina
+  - '?'
+- demando: Kuka käytti avaintani viimeksi?
+  rektatraduko:
+  - Kiu: kuka
+  - laste: viimeksi
+  - uzis: käytti
+  - mian: minun objektina
+  - ŝlosilon: avain objektina
+  - '?'
+- demando: Matkustitko Venetsiassa myös gondolilla?
+  rektatraduko:
+  - Ĉu: kysymys
+  - vi: sinä
+  - en: sisällä
+  - Venecio: Venetsia
+  - veturis: matkustit
+  - ankaŭ: myös
+  - per: avulla
+  - gondolo: gondoli
+  - '?'
+- demando: Pystytkö nukahtamaan, kun hiljenee?
+  rektatraduko:
+  - Ĉu: kysymys
+  - vi: sinä
+  - povos: voit tulevaisuudessa
+  - ekdormi: nukahtaa
+  - ','
+  - kiam: kun
+  - silentiĝos: hiljenee
+  - '?'

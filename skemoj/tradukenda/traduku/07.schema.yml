@@ -1,0 +1,69 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda traduku-ekzerco YAML, leciono 07
+allOf:
+- $ref: ../traduku.schema.yml
+- maxItems: 16
+- contains:
+    required:
+    - rideti
+  maxContains: 1
+- contains:
+    required:
+    - tranokto
+  maxContains: 1
+- contains:
+    required:
+    - foriri
+  maxContains: 1
+- contains:
+    required:
+    - forlasi
+  maxContains: 1
+- contains:
+    required:
+    - ekde
+  maxContains: 1
+- contains:
+    required:
+    - formanĝi
+  maxContains: 1
+- contains:
+    required:
+    - forpreni
+  maxContains: 1
+- contains:
+    required:
+    - laŭeble
+  maxContains: 1
+- contains:
+    required:
+    - saĝulo
+  maxContains: 1
+- contains:
+    required:
+    - ekstari
+  maxContains: 1
+- contains:
+    required:
+    - poŝtkarto
+  maxContains: 1
+- contains:
+    required:
+    - diableto
+  maxContains: 1
+- contains:
+    required:
+    - senutila
+  maxContains: 1
+- contains:
+    required:
+    - elkuri
+  maxContains: 1
+- contains:
+    required:
+    - ekami
+  maxContains: 1
+- contains:
+    required:
+    - ĝisnuna
+  maxContains: 1

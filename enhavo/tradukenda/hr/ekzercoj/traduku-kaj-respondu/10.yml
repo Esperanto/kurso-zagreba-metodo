@@ -1,65 +1,47 @@
-- 
-  demando: Usrećuje li te prijateljstvo više nego ljubav?
-  rektatraduko: 
-    - Ĉu: Da li
-    - amikeco: prijateljstvo
-    - pli: više
-    - feliĉigas: usrećuje
-    - vin: tebe
-    - ol: nego
-    - la: (član)
-    - amo: ljubav
-    - '?'
-- 
-  demando: Koliko često pišeš pisma svojim prijateljicama u Italiji i Etiopiji?
-  rektatraduko: 
-    - Kiel: Kako
-    - ofte: često
-    - vi: ti
-    - skribas: pišeš
-    - leterojn: pisma
-    - al: k
-    - viaj: tvoji
-    - amikinoj: prijateljice
-    - en: u
-    - Italio: Italija
-    - kaj: i
-    - Etiopio: Etiopija
-    - '?'
-- 
-  demando: Da li se promijenio odnos između tebe i tvog učitelja ili je ostao isti?
-  rektatraduko: 
-    - Ĉu: Da li
-    - ŝanĝiĝis: promijenio se
-    - la: (član)
-    - rilato: odnos
-    - inter: između
-    - vi: ti
-    - kaj: i
-    - via: tvoj
-    - instruisto: učitelj
-    - aŭ: ili
-    - ĝi: 'on'
-    - restis: ostao je
-    - la: (član)
-    - sama: isti
-    - '?' 
-- 
-  demando: Znate li sada već dovoljno dobro esperanto da ga možete sami upotrebljavati?
-  rektatraduko: 
-    - Ĉu: Da li
-    - vi: vi
-    - nun: sada
-    - jam: već
-    - sufiĉe: dovoljno
-    - bone: dobro
-    - scias: znate
-    - Esperanton: esperanto
-    - por: za
-    - ke: da
-    - vi: vi
-    - povu: mogli
-    - ĝin: njega
-    - mem: sam
-    - uzi: koristiti
-    - '?'
+- demando: Usrećuje li te prijateljstvo više nego ljubav?
+  rektatraduko:
+  - Ĉu: Li
+  - amikeco: prijateljstvo
+  - pli: više
+  - feliĉigas: usrećuje
+  - vin: tebe
+  - ol: nego
+  - la: (član)
+  - amo: ljubav
+  - '?'
+- demando: Koliko često pišeš pisma svojim prijateljicama u Italiji?
+  rektatraduko:
+  - Kiel: Kako
+  - ofte: često
+  - vi: ti
+  - skribas: pišeš
+  - leterojn: pisma
+  - al: k
+  - viaj: tvoje
+  - amikinoj: prijateljice
+  - en: u
+  - Italio: Italija
+  - '?'
+- demando: Je li se promijenio odnos između tebe i tvog učitelja?
+  rektatraduko:
+  - Ĉu: Li
+  - la: (član)
+  - rilato: odnos
+  - inter: između
+  - vi: ti
+  - kaj: i
+  - via: tvoj
+  - instruisto: učitelj
+  - ŝanĝiĝis: promijenio se
+  - '?'
+- demando: Znate li sada već dovoljno dobro esperanto?
+  rektatraduko:
+  - Ĉu: Li
+  - vi: vi
+  - nun: sada
+  - jam: već
+  - scias: znate
+  - Esperanton: esperanto
+  - sufiĉe: dovoljno
+  - bone: dobro
+  - '?'

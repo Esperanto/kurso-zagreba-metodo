@@ -1,77 +1,72 @@
--
-  demando: I camerieri dei grandi alberghi capiscono molte lingue?
-  rektatraduko:  
-    - Ĉu: (interrogativa)
-    - kelneroj: camerieri
-    - en: in
-    - grandaj: grandi
-    - hoteloj: alberghi
-    - komprenas: capiscono
-    - multajn: molte
-    - lingvojn: lingue
-    - '?'
--
-  demando: Sai se ad Anna piace la nuova canzone sul povero e la bella?
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - vi: tu
-    - scias: sai
-    - ','
-    - ĉu: se
-    - Anna: Anna 
-    - ŝatas: piace
-    - la: la
-    - novan: nuova
-    - kanton: canzone
-    - pri: riguardo
-    - malriĉulo: un povero
-    - kaj: e
-    - belulino: una ragazza bella
-    - '?'
--
-  demando: Dove hai visto il vecchio e il giovane che hanno portato il grande tavolo?
-  rektatraduko: 
-    - Kie: Dove
-    - vi: tu
-    - vidis: hai visto
-    - la: il
-    - maljunulon: vecchio
-    - kaj: e
-    - la: il
-    - junulon: giovane
-    - ','
-    - kiuj: che
-    - portis: hanno portato
-    - grandan: grande
-    - tablon: tavolo
-    - '?'
--
-  demando: Come è successo che sei di nuovo venuto da noi senza fratelli-e-sorelle?
-  rektatraduko: 
-    - Kiel: Come
-    - okazis: è successo
-    - ','
-    - ke: che
-    - vi: tu
-    - denove: di nuovo
-    - venis: sei venuto
-    - al: da
-    - ni: noi
-    - sen: senza
-    - gefratoj: fratelli-e-sorelle
-    - '?'
--
-  demando: "Con il nuovo manuale potete imparare l'esperanto abbastanza rapidamente?"
-  rektatraduko: 
-    - Ĉu: (interrogativa)
-    - vi: voi
-    - povas: potete
-    - per: tramite
-    - la: il
-    - nova: nuovo
-    - lernolibro: manuale
-    - sufiĉe: abbastanza
-    - rapide: rapidamente
-    - lerni: imparare
-    - Esperanton: Esperanto
-    - '?'
+- demando: I camerieri dei grandi alberghi capiscono molte lingue?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - kelneroj: camerieri
+  - en: in
+  - grandaj: grandi
+  - hoteloj: alberghi
+  - komprenas: capiscono
+  - multajn: molte
+  - lingvojn: lingue
+  - '?'
+- demando: Sai se Ana apprezza la nuova canzone su un uomo povero e una bella donna?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - vi: tu
+  - scias: sai
+  - ','
+  - ĉu: se
+  - Ana: Ana
+  - ŝatas: piace
+  - la: la
+  - novan: nuova
+  - kanton: canzone
+  - pri: riguardo
+  - malriĉulo: un povero
+  - kaj: e
+  - belulino: una bella donna
+  - '?'
+- demando: Dove hai visto il vecchio e il giovane che hanno portato il grande tavolo?
+  rektatraduko:
+  - Kie: Dove
+  - vi: tu
+  - vidis: hai visto
+  - la: il
+  - maljunulon: vecchio
+  - kaj: e
+  - la: il
+  - junulon: giovane
+  - ','
+  - kiuj: che
+  - portis: hanno portato
+  - grandan: grande
+  - tablon: tavolo
+  - '?'
+- demando: Come è successo che sei di nuovo venuto da noi senza fratelli-e-sorelle?
+  rektatraduko:
+  - Kiel: Come
+  - okazis: è successo
+  - ','
+  - ke: che
+  - vi: tu
+  - denove: di nuovo
+  - venis: sei venuto
+  - al: da
+  - ni: noi
+  - sen: senza
+  - gefratoj: fratelli-e-sorelle
+  - '?'
+- demando: Con il nuovo manuale potete imparare l'esperanto abbastanza rapidamente?
+  rektatraduko:
+  - Ĉu: (interrogativa)
+  - vi: voi
+  - povas: potete
+  - per: tramite
+  - la: il
+  - nova: nuovo
+  - lernolibro: manuale
+  - sufiĉe: abbastanza
+  - rapide: rapidamente
+  - lerni: imparare
+  - Esperanton: Esperanto
+  - '?'

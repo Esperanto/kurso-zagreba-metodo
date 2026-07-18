@@ -1,0 +1,67 @@
+- demando: Milloin näen sinut uudelleen?
+  rektatraduko:
+  - Kiam: milloin
+  - mi: minä
+  - revidos: näen uudelleen
+  - vin: sinut
+  - '?'
+- demando: Kuinka kauan olet opiskellut kansainvälistä kieltä?
+  rektatraduko:
+  - Kiom: kuinka paljon
+  - longe: pitkään
+  - vi: sinä
+  - lernas: opit
+  - la: määräinen artikkeli
+  - Internacian: kansainvälinen objektina
+  - Lingvon: kieli objektina
+  - '?'
+- demando: Missä uusi valokuvakirjani on?
+  rektatraduko:
+  - Kie: missä
+  - estas: 'on'
+  - mia: minun
+  - nova: uusi
+  - libro: kirja
+  - kun: kanssa
+  - fotoj: valokuvat
+  - '?'
+- demando: Minne menet lounaan jälkeen?
+  rektatraduko:
+  - Kien: minne
+  - vi: sinä
+  - iros: menet tulevaisuudessa
+  - post: jälkeen
+  - la: määräinen artikkeli
+  - tagmanĝo: lounas
+  - '?'
+- demando: Voiko huoneen oven sulkea, kun on kylmä?
+  rektatraduko:
+  - Ĉu: kysymys
+  - oni: yleinen tekijä
+  - povas: voi
+  - fermi: sulkea
+  - la: määräinen artikkeli
+  - pordon: ovi objektina
+  - de: jonkun
+  - la: määräinen artikkeli
+  - ĉambro: huone
+  - ','
+  - kiam: kun
+  - estas: 'on'
+  - malvarme: kylmästi
+  - '?'
+- demando: Kuinka kauan olet vihainen, jos sinulta otetaan paljon rahaa?
+  rektatraduko:
+  - Kiom: kuinka paljon
+  - longe: pitkään
+  - vi: sinä
+  - koleras: olet vihainen
+  - ','
+  - se: jos
+  - oni: yleinen tekijä
+  - forprenas: ottaa pois
+  - de: joltakin
+  - vi: sinä
+  - multan: paljon objektina
+  - monon: raha objektina
+  - '?'

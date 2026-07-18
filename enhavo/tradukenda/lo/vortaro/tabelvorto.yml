@@ -1,59 +1,60 @@
-kio: what
-tio: that
-io: something
-ĉio: everything
-nenio: nothing
+ia: ບາງແບບ
+ial: ດ້ວຍບາງເຫດຜົນ
+iam: ບາງເວລາ
+ie: ຢູ່ບາງບ່ອນ
+iel: ບາງວິທີ
+ies: ຂອງບາງຄົນ
+io: ບາງສິ່ງ
+iom:
+- ບາງສ່ວນ
+- ຈຳນວນໜຶ່ງ
+iu: ບາງຄົນ
+kia: ແບບໃດ
+kial: ເປັນຫຍັງ
+kiam: ເມື່ອໃດ
+kie: ຢູ່ໃສ
+kiel: ຢ່າງໃດ
+kien: ໄປໃສ
+kies: ຂອງໃຜ
+kio: ຫຍັງ
+kiom: ເທົ່າໃດ
 kiu:
-- who
-- which
-tiu:
-- that person
-- that one
-iu: someone
-ĉiu:
-- everyone
-- every
-neniu:
-- no-one
-- none of them
-kie: where
-tie: there
-ie: somewhere
-ĉie: everywhere
-nenie: nowhere
-kia: what kind of
-tia: that kind of
-ia: some kind of
-ĉia: every kind of
-nenia: no kind of
-kiel: how
-tiel: like that, thus
-iel: in some way
-ĉiel: in every way
-neniel: in no way
-kial: why
-tial: for that reason
-ial: for some reason
-ĉial: for every reason
-nenial: for no reason
-kiam: when
-tiam: then
-iam: some time, ever
-ĉiam: always, every time
-neniam: never, no time
-kiom: how much
-tiom: that much
-iom: 
-- to some extent
-- a certain amount
-ĉiom: 
-- all of it
-- the whole amount
+- ໃຜ
+- ອັນໃດ
+nenia: ບໍ່ມີແບບໃດ
+nenial: ບໍ່ມີເຫດຜົນໃດ
+neniam: ບໍ່ເຄີຍ
+nenie: ບໍ່ມີບ່ອນໃດ
+neniel: ບໍ່ມີວິທີໃດ
+nenies: ບໍ່ແມ່ນຂອງໃຜ
+nenio: ບໍ່ມີຫຍັງ
 neniom:
-- none of it
-- no amount
-kies: whose
-ties: that one's
-ies: someone's
-ĉies: everyone's
-nenies: no-one's
+- ບໍ່ມີເລີຍ
+- ບໍ່ມີຈຳນວນໃດ
+neniu:
+- ບໍ່ມີໃຜ
+- ບໍ່ມີຄົນໃດ
+tia: ແບບນັ້ນ
+tial: ເພາະເຫດນັ້ນ
+tiam: ເມື່ອນັ້ນ
+tie: ຢູ່ທີ່ນັ້ນ
+tiel: ຢ່າງນັ້ນ
+ties: ຂອງຄົນນັ້ນ
+tio: ສິ່ງນັ້ນ
+tiom: ເທົ່ານັ້ນ
+tiu:
+- ຄົນນັ້ນ
+- ອັນນັ້ນ
+ĉia: ທຸກແບບ
+ĉial: ດ້ວຍທຸກເຫດຜົນ
+ĉiam: ສະເໝີ
+ĉie: ຢູ່ທຸກບ່ອນ
+ĉiel: ທຸກວິທີ
+ĉies: ຂອງທຸກຄົນ
+ĉio: ທຸກສິ່ງ
+ĉiom:
+- ທັງໝົດ
+- ຈຳນວນທັງໝົດ
+ĉiu:
+- ທຸກຄົນ
+- ທຸກ

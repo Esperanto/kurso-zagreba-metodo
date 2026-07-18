@@ -1,0 +1,64 @@
+- demando: तिम्रो पुरानो घर कस्तो थियो?
+  rektatraduko:
+  - Kia: कस्तो
+  - estis: थियो
+  - via: तिम्रो
+  - malnova: पुरानो
+  - hejmo: घर
+  - '?'
+- demando: तिमीले कुन किताबहरू पढ्यौ, र के ती राम्रा थिए?
+  rektatraduko:
+  - Kiujn: कुन
+  - librojn: किताबहरू
+  - vi: तिमी
+  - legis: पढ्यौ
+  - kaj: र
+  - ĉu: के
+  - ili: ती
+  - estas: छन्
+  - bonaj: राम्रा
+  - '?'
+- demando: आना र मार्कोले मार्कोको सानो कोठामा के गरे?
+  rektatraduko:
+  - Kion: के
+  - faris: गरे
+  - Ana: आना
+  - kaj: र
+  - Marko: मार्को
+  - en: मा
+  - la: निश्चित उपपद
+  - malgranda: सानो
+  - ĉambro: कोठा
+  - de: को
+  - Marko: मार्को
+  - '?'
+- demando: के तिमीलाई प्रेमबारे किताबहरू पढ्न मन पर्छ?
+  rektatraduko:
+  - Ĉu: के
+  - vi: तिमी
+  - ŝatas: मन पराउँछौ
+  - legi: पढ्न
+  - librojn: किताबहरू
+  - pri: बारे
+  - amo: प्रेम
+  - '?'
+- demando: तिमीसँग तिम्रो घर को जानेछ?
+  rektatraduko:
+  - Kiu: को
+  - iros: जानेछ
+  - kun: सँग
+  - vi: तिमी
+  - al: तर्फ
+  - via: तिम्रो
+  - hejmo: घर
+  - '?'
+- demando: तिम्री महिला मित्रका आँखाहरू कस्ता छन्?
+  rektatraduko:
+  - Kiaj: कस्ता
+  - estas: छन्
+  - la: निश्चित उपपद
+  - okuloj: आँखाहरू
+  - de: का
+  - via: तिम्री
+  - amikino: महिला मित्र
+  - '?'

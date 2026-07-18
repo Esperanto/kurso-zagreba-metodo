@@ -1,8 +1,5 @@
-- **En önemli 500 kelimeyi** öğretir
-- **Ücretsiz** ve **kayıt gerektirmez**
-- [Anki]({{ url.anki }}) için [flashcard destesi]({{ url.kartaro }}) ile
+- **En önemli 500 kelimeyi** öğren
+- Konuşulan Esperanto'nun **95 %**'ini anla
+- **Ücretsiz** ve kayıt olmadan
 
-Kurstan sonra **temel noktaları anlayacak**, kendi cümlelerini kuracak ve günlük durumlarda temel fikirleri aktarabileceksin.
-
-Sadece dene!
-____
+Bundan sonra basit konuşmaları takip edebilir, kendi cümlelerini kurabilir ve doğrudan [sonraki Esperanto buluşmasına](https://eventaservo.org/) gidebilirsin.

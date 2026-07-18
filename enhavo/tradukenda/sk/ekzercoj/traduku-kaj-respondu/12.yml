@@ -1,69 +1,63 @@
-- 
-  demando: Uvidíme sa znovu, jedno kde a kedy?
-  rektatraduko: 
-    - Ĉu: Či
-    - ni: my
-    - revidos: uvidíme znovu
-    - nin: nás
-    - ',' 
-    - kie: kde
-    - ajn: akýkoľvek
-    - kaj: a
-    - kiam: kedy
-    - ajn: akýkoľvek
-    - '?'
-- 
-  demando: Kedy vrátim späť druhú polovicu kníh?
-  rektatraduko: 
-    - Kiam: Kedy
-    - mi: ja
-    - redonos: vrátim späť
-    - la: (člen určitý) 
-    - alian: inú
-    - duonon: polovicu
-    - de: od
-    - la: (člen určitý) 
-    - libroj: knihy
-    - '?'
-- 
-  demando: Budeš na tie práce potrebovať viac ako štvrť roka?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - bezonos: budeš potrebovať
-    - pli: viac
-    - ol: ako
-    - kvaronon: štvrť
-    - da: z (množstvo)
-    - jaro: rok
-    - por: pre
-    - tiuj: tie
-    - laboroj: práce
-    - '?'
-- 
-  demando: Prečo je tým chladnejšie, čím dlhšie čakáme?
-  rektatraduko: 
-    - Kial: Prečo
-    - estas: je
-    - des: tým
-    - pli: viac (2. stupeň prídavného mena)
-    - malvarme: chladno
-    - ',' 
-    - ju: čím
-    - pli: viac (2. stupeň prídavného mena/príslovky)
-    - longe: dlho
-    - ni: my
-    - atendas: čakáme
-    - '?'
-- 
-  demando: Bola by si spokojná s akýmkoľvek mužom?
-  rektatraduko: 
-    - Ĉu: Či
-    - vi: ty
-    - estus: bola by si
-    - kontenta: spokojná
-    - kun: s
-    - iu: niekto
-    - ajn: akýkoľvek
-    - viro: muž
-    - '?'
+- demando: Uvidíme sa znova, kdekoľvek a kedykoľvek?
+  rektatraduko:
+  - Ĉu: Či
+  - ni: my
+  - revidos: uvidíme znovu
+  - nin: nás
+  - ','
+  - kie: kde
+  - ajn: koľvek
+  - kaj: a
+  - kiam: kedy
+  - ajn: koľvek
+  - '?'
+- demando: Kedy vrátim späť druhú polovicu kníh?
+  rektatraduko:
+  - Kiam: Kedy
+  - mi: ja
+  - rericevos: vrátim späť
+  - la: (člen určitý)
+  - alian: inú
+  - duonon: polovicu
+  - de: od
+  - la: (člen určitý)
+  - libroj: knihy
+  - '?'
+- demando: Budeš na tieto práce potrebovať viac ako štvrť roka?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - bezonos: budeš potrebovať
+  - pli: viac
+  - ol: ako
+  - kvaronan: štvrť
+  - jaron: year
+  - por: pre
+  - tiuj: tie
+  - laboroj: práce
+  - '?'
+- demando: Prečo je tým chladnejšie, čím dlhšie čakáme?
+  rektatraduko:
+  - Kial: Prečo
+  - ju: čím
+  - pli: viac (2. stupeň prídavného mena)
+  - longe: dlho
+  - ni: my
+  - atendas: čakáme
+  - ','
+  - des: tým
+  - pli: viac (2. stupeň prídavného mena/príslovky)
+  - malvarme: chladno
+  - estas: je
+  - '?'
+- demando: Bola by si spokojná s akýmkoľvek mužom?
+  rektatraduko:
+  - Ĉu: Či
+  - vi: ty
+  - estus: bola by si
+  - kontenta: spokojná
+  - kun: s
+  - iu: niekto
+  - ajn: akýkoľvek
+  - viro: muž
+  - '?'

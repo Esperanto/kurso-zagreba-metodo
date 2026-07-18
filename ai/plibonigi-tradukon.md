@@ -54,20 +54,3 @@ merge-konfliktojn. Legu la koncernajn dosierojn antaŭ redaktado:
 
 Ne tuŝu dosierojn ekster `enhavo/tradukenda/${LINGVO}/**`, krom se la tasko
 klare petas tion.
-
-## Kontroloj
-
-Por lingvospecifa laboro, rulu la koncernajn kontrolojn kun `LINGVO`, kiam tio
-eblas:
-
-```sh
-make check-yaml LINGVO=${LINGVO}
-make check-yaml-normalized LINGVO=${LINGVO}
-make check-md-normalized LINGVO=${LINGVO}
-```
-
-Se vi generis aŭ kontrolas PWA-eligon por unu lingvo, uzu ankaŭ:
-
-```sh
-make check-pwa LINGVO=${LINGVO}
-```

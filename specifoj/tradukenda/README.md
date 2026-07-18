@@ -50,5 +50,11 @@ Labormaniero:
 3. Post YAML-redaktoj rulu la normaligilon laŭ la repo-instrukcioj.
 4. Post gramatikaj ŝanĝoj komparu la lecionon kun la koncerna temlisto en
    `gramatiko/NN.yml`.
-5. `make check` devas sukcesi antaŭ ĉiu enmeto.
-6. Puŝu kaj kreu PR per `gh`, kun titolo kaj priskribo en Esperanto.
+5. Por lingvospecifa laboro, uzu lingvolimitajn kontrolojn kiam eblas, ekzemple
+   `make check-yaml LINGVO=${LINGVO}`,
+   `make check-yaml-normalized LINGVO=${LINGVO}` kaj
+   `make check-md-normalized LINGVO=${LINGVO}`. Se vi generis aŭ kontrolas
+   PWA-eligon por unu lingvo, uzu ankaŭ `make check-pwa LINGVO=${LINGVO}`.
+6. `make check` devas sukcesi antaŭ ĉiu enmeto, krom se la tasko estas klare
+   limigita al lingvospecifaj kontroloj kaj la PR priskribas tion.
+7. Puŝu kaj kreu PR per `gh`, kun titolo kaj priskribo en Esperanto.

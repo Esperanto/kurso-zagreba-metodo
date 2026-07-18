@@ -51,6 +51,11 @@ make clean
 
 `make check` instalas nenion. Ĝi estas la normala kontrolo por plej multaj ŝanĝoj: ĝi kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
 
+Kiam ŝanĝo rilatas nur al unu lingvo, preferu lingvolimitan kontrolon per
+`LINGVO=<kodo>` ĉe celoj, kiuj subtenas tion: `check-yaml`,
+`check-yaml-normalized`, `check-md-normalized` kaj `check-pwa`. Sen eksplicita
+`LINGVO`, tiuj kontroloj restas tut-enhavaj aŭ tut-eligaj.
+
 Rulu kromajn kontrolojn nur kiam la koncerna surfaco ŝanĝiĝis:
 
 - `make check-yaml`: kiam ŝanĝiĝis `enhavo/`, `skemoj/`, YAML-validiga kodo aŭ YAML-linteraj dependecoj.

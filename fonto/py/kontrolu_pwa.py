@@ -168,17 +168,25 @@ def check_language_pwa(output_dir, lingvo):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--output-dir', required=True)
+    parser.add_argument('--lingvo', help='Kontrolu nur la PWA-on por tiu lingvo.')
     args = parser.parse_args()
 
     output_dir = Path(args.output_dir)
     # Ĉiu lingvo kun propra service worker havas instaleblan PWA-on.
-    lingvoj = sorted(sw.parent.name for sw in output_dir.glob('*/sw.js'))
+    lingvoj = (
+        [args.lingvo]
+        if args.lingvo
+        else sorted(sw.parent.name for sw in output_dir.glob('*/sw.js'))
+    )
     require(lingvoj, 'neniu PWA-lingvo trovita en ' + str(output_dir))
     check_pwa_state_bundle(output_dir)
     for lingvo in lingvoj:
         check_language_pwa(output_dir, lingvo)
 
-    print('Sukcesis: kontrolis la PWA-ojn por ' + str(len(lingvoj)) + ' lingvoj')
+    if args.lingvo:
+        print('Sukcesis: kontrolis la PWA-on por ' + args.lingvo)
+    else:
+        print('Sukcesis: kontrolis la PWA-ojn por ' + str(len(lingvoj)) + ' lingvoj')
 
 
 if __name__ == '__main__':

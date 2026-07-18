@@ -1,67 +1,67 @@
-- demando: Quand vous reverrai-je ?
+- demando: Quand vos re-verré?
   rektatraduko:
   - Kiam: Quand
-  - mi: je
-  - revidos: reverrai
-  - vin: vous
+  - mi: jou
+  - revidos: re-verré
+  - vin: vos
   - '?'
-- demando: Depuis combien de temps apprenez-vous la langue internationale ?
+- demando: Despoués combien de temps aprenéd-vos la lengoua entèrnacionala?
   rektatraduko:
-  - Kiom: combien
+  - Kiom: Combien
   - longe: longtemps
-  - vi: vous
-  - lernas: apprenez
+  - vi: vos
+  - lernas: aprenéd
   - la: la
-  - Internacian: internationale
-  - Lingvon: langue
+  - Internacian: entèrnacionala
+  - Lingvon: lengoua
   - '?'
-- demando: Où est mon nouveau livre de photos ?
+- demando: Yo est mon novél livro de fotos?
   rektatraduko:
-  - Kie: Où
+  - Kie: Yo
   - estas: est
   - mia: mon
-  - nova: nouveau
-  - libro: livre
-  - kun: avec
-  - fotoj: des photos
+  - nova: novél
+  - libro: livro
+  - kun: avouéc
+  - fotoj: fotos
   - '?'
-- demando: Où irez-vous après le déjeuner ?
+- demando: Yon iréd-vos aprés lo repas de midi?
   rektatraduko:
-  - Kien: Où
-  - vi: vous
-  - iros: irez
-  - post: après
-  - la: le
-  - tagmanĝo: déjeuner
+  - Kien: Yon
+  - vi: vos
+  - iros: iréd
+  - post: aprés
+  - la: lo
+  - tagmanĝo: repas de midi
   - '?'
-- demando: Est-ce qu'on peut fermer la porte de la chambre quand il fait froid ?
+- demando: Puet-on cllôre la pòrta de la chambra quand il fât frêd?
   rektatraduko:
-  - Ĉu: Est-ce que
+  - Ĉu: Se
   - oni: 'on'
-  - povas: peut
-  - fermi: fermer
+  - povas: puet
+  - fermi: cllôre
   - la: la
-  - pordon: porte
+  - pordon: pòrta
   - de: de
   - la: la
-  - ĉambro: chambre
+  - ĉambro: chambra
   - ','
   - kiam: quand
-  - estas: il fait
-  - malvarme: froid
+  - estas: est
+  - malvarme: frêd
   - '?'
-- demando: Combien de temps êtes-vous en colère si on vous prend beaucoup d'argent ?
+- demando: Combien longtemps restâd-vos en colèra se on vos prènd beaucoup d'argent?
   rektatraduko:
-  - Kiom: combien
-  - longe: de temps
-  - vi: vous
-  - koleras: êtes en colère
+  - Kiom: Combien
+  - longe: longtemps
+  - vi: vos
+  - koleras: étes en colèra
   - ','
-  - se: si
+  - se: se
   - oni: 'on'
-  - forprenas: emporte
+  - forprenas: prènd loin
   - de: de
-  - vi: vous
-  - multan: beaucoup
+  - vi: vos
+  - multan: beaucoup de
   - monon: argent
   - '?'

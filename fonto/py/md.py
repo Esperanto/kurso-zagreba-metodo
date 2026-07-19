@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from copy import deepcopy
 from pathlib import Path
 
 import jinja2
@@ -10,14 +9,6 @@ from markupsafe import Markup
 
 
 FONTO_DIR = Path(__file__).resolve().parents[1]
-
-
-def preparu_enhavon(enhavo):
-    enhavo = deepcopy(enhavo)
-    # Retrokongruo por malnova morfem-markado: Pandoc bezonas **.
-    for leciono in enhavo['lecionoj']:
-        leciono['gramatiko']['teksto'] = leciono['gramatiko']['teksto'].replace('__', '**')
-    return enhavo
 
 
 def rendu_md(enhavo, printendaj, template='arangxo.md', **context):
@@ -30,7 +21,7 @@ def rendu_md(enhavo, printendaj, template='arangxo.md', **context):
     env.loader = jinja2.FileSystemLoader(str(FONTO_DIR / 'md'))
 
     rendered = env.get_template(template).render(
-        enhavo=preparu_enhavon(enhavo),
+        enhavo=enhavo,
         printendaj=printendaj,
         **context,
     )

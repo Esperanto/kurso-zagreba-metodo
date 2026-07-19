@@ -8,9 +8,10 @@ test('gramatika enhavtabelo aperas dekstre sur labortablo', async ({ page }) => 
   await expect(toc).toBeVisible();
   await expect(toc.getByRole('link', { name: 'Alphabet' })).toHaveAttribute('href', '#alphabet');
   await expect(toc.getByRole('link', { name: 'Pronunciation' })).toHaveAttribute('href', '#pronunciation');
-  await expect(toc.getByRole('link', { name: 'Ĉu?' })).toBeVisible();
+  await expect(toc.getByRole('link', { name: 'Ĉu?' })).toHaveAttribute('href', '#ĉu');
   await expect(toc).not.toContainText('*Ĉu?*');
   await expect(page.locator('h3#alphabet')).toHaveText('Alphabet');
+  await expect(page.locator('h3#ĉu')).toHaveText('Ĉu?');
   await expect(page.locator('.gramatika-reenligo')).toHaveCount(0);
   await expect(toc).toHaveCSS('position', 'sticky');
 

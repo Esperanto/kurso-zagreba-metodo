@@ -7,14 +7,23 @@ import tempfile
 import zipfile
 from pathlib import Path
 
+from .ankroj import fari_ankron
+
 
 GRAMATIKO_PATTERN = re.compile(r'<h3 id="alphabet">Alphabet</h3>')
+GRAMATIKO_CXU_PATTERN = re.compile(r'<h3 id="ĉu"><em>Ĉu\?</em></h3>')
 GRAMATIKO_TOC_PATTERN = re.compile(
     r'<nav id="gramatika-enhavtabelo" class="gramatika-enhavtabelo"[^>]*>.*'
     r'<a href="#alphabet">Alphabet</a>.*'
-    r'<a href="#pronunciation">Pronunciation</a>',
+    r'<a href="#pronunciation">Pronunciation</a>.*'
+    r'<a href="#ĉu">Ĉu\?</a>',
     re.S,
 )
+ANKRO_EKZEMPLOJ = {
+    'Fürwörter': 'fürwörter',
+    'Prépositions': 'prépositions',
+    'Ĉu?': 'ĉu',
+}
 GRAMATIKO_EMFAZO_PATTERN = re.compile(r'<em>labor<strong>i</strong></em>\s+–\s+to work')
 BOOTSTRAP_PATTERN = re.compile(r'Bootstrap\s+v5\.3\.8')
 JQUERY_PATTERN = re.compile(r'jQuery v3\.7\.1')
@@ -80,6 +89,13 @@ def require_pattern(path, pattern):
         fail('ne eblas legi kiel UTF-8 ' + str(path) + ': ' + str(error))
     if not pattern.search(text):
         fail('mankas atendita enhavo en ' + str(path))
+
+
+def require_ankro_examples():
+    for teksto, atendita in ANKRO_EKZEMPLOJ.items():
+        ankro = fari_ankron(teksto)
+        if ankro != atendita:
+            fail(f'ankro por {teksto!r} estas {ankro!r}, atendis {atendita!r}')
 
 
 def require_lesson_image_alts(output_dir, lingvo):
@@ -164,6 +180,8 @@ def main():
     md_out = Path(args.md_out)
     lingvo_dir = output_dir / lingvo
 
+    require_ankro_examples()
+
     for path in [
         md_out,
         output_dir / 'index.html',
@@ -235,6 +253,7 @@ def main():
     require_pattern(bundle_js, TYPEAHEAD_PATTERN)
     gramatiko_path = lingvo_dir / '01' / 'gramatiko' / 'index.html'
     require_pattern(gramatiko_path, GRAMATIKO_PATTERN)
+    require_pattern(gramatiko_path, GRAMATIKO_CXU_PATTERN)
     require_pattern(gramatiko_path, GRAMATIKO_TOC_PATTERN)
     require_pattern(gramatiko_path, GRAMATIKO_EMFAZO_PATTERN)
     require_apkg(lingvo_dir / 'eksporto' / (lingvo + '.apkg'))

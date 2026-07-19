@@ -1,9 +1,7 @@
 import re
-import unicodedata
 
 
 def fari_ankron(teksto):
-    teksto = unicodedata.normalize('NFKD', teksto)
     signoj = []
     previous_separator = False
 

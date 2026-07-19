@@ -15,26 +15,6 @@ JINJA_LINK_RE = re.compile(
     r'\\?\[(?P<label>[^\]\n]+?)\\?\]'
     r'(?P<destination>\(\s*\{\{\s*[^()\n]+?\s*\}\}\s*\))'
 )
-LEGACY_WORD_SUFFIX_RE = re.compile(
-    r'(?<!\*)\*(?!\*)(?P<prefix>(?=[^\W_])[^*\n]+?)\*__(?P<strong>[^_\n]+?)__'
-    r'(?:\*(?P<suffix>[^\s*\n]+?)\*)?'
-)
-LEGACY_BARE_WORD_SUFFIX_RE = re.compile(
-    r'(?P<prefix>[^\W\d_][\wĈĉĜĝĤĥĴĵŜŝŬŭ-]*?)'
-    r'\*__(?P<strong>[^_\n]+?)__'
-    r'(?:\*(?P<suffix>[^\s*\n]+?)\*|\*(?!\w)|(?=\s|$))'
-)
-LEGACY_STRONG_PREFIX_RE = re.compile(
-    r'__(?P<strong>[^_\n]+?)__\*(?P<suffix>[^\W_][^\s*\n]*?)\*'
-)
-LEGACY_MIDWORD_STRONG_RE = re.compile(
-    r'\*__(?P<content>[^_\n]+?)__\*(?=\w)'
-)
-LEGACY_MORPHEME_RE = re.compile(
-    r'(?<!\*)\*(?=(?:__|[^\W_]|[.!?]+[^\W_]))([^*\n]*__[^*\n]*?)\*(?!\*)'
-)
-LEGACY_STRONG_RE = re.compile(r'__(?P<content>[^_\n]+?)__')
-
 
 def markdown_paths(paths):
     result = []
@@ -51,38 +31,6 @@ def markdown_paths(paths):
         else:
             raise SystemExit(f'Ne estas Markdown-dosiero aŭ dosierujo: {path}')
     return sorted(set(result))
-
-
-def standardize_morpheme_markup(text):
-    text = LEGACY_WORD_SUFFIX_RE.sub(
-        lambda match: (
-            f'_{match.group("prefix")}**{match.group("strong")}**'
-            f'{match.group("suffix") or ""}_'
-        ),
-        text,
-    )
-    text = LEGACY_BARE_WORD_SUFFIX_RE.sub(
-        lambda match: (
-            f'_{match.group("prefix")}**{match.group("strong")}**'
-            f'{match.group("suffix") or ""}_'
-        ),
-        text,
-    )
-    text = LEGACY_STRONG_PREFIX_RE.sub(
-        lambda match: f'_**{match.group("strong")}**{match.group("suffix")}_',
-        text,
-    )
-    text = LEGACY_MIDWORD_STRONG_RE.sub(
-        lambda match: f'***{match.group("content")}***',
-        text,
-    )
-
-    def normalize_italic_span(match):
-        content = LEGACY_STRONG_RE.sub(r'**\g<content>**', match.group(1))
-        return '_' + content + '_'
-
-    text = LEGACY_MORPHEME_RE.sub(normalize_italic_span, text)
-    return LEGACY_STRONG_RE.sub(r'**\g<content>**', text)
 
 
 def protect_jinja_links(text):
@@ -105,9 +53,7 @@ def restore_jinja_links(text, replacements):
 
 def normalized_text(path):
     old_text = path.read_text(encoding='utf-8-sig')
-    prepared_text, jinja_links = protect_jinja_links(
-        standardize_morpheme_markup(old_text)
-    )
+    prepared_text, jinja_links = protect_jinja_links(old_text)
     new_text = mdformat.text(
         prepared_text,
         options=MDFORMAT_OPTIONS,

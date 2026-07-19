@@ -84,25 +84,6 @@ BUILD_TIME = None
 ET.register_namespace('', SITEMAP_NS)
 
 
-def morfema_emfazo(md):
-    # Retrokongrue subtenu malnovan morfem-markadon kiel *lern__i__*.
-    def parse_morfema_emfazo(inline, match, state):
-        child_state = state.copy()
-        child_state.src = match.group('morfemo')
-        state.append_token({
-            'type': 'strong',
-            'children': inline.render(child_state),
-        })
-        return match.end()
-
-    md.inline.register(
-        'morfema_emfazo',
-        r'__(?P<morfemo>[^_\n]+?)__',
-        parse_morfema_emfazo,
-        before='emphasis',
-    )
-
-
 class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
     def __init__(self):
         super().__init__(escape=False)
@@ -134,7 +115,6 @@ class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
 def render_markdown(text):
     md = mistune.create_markdown(
         renderer=AnkrohavaHTMLRenderer(),
-        plugins=[morfema_emfazo],
     )
     return Markup(md(text))
 

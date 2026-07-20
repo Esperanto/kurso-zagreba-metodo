@@ -6,9 +6,9 @@
   - kuirejon: 부엌을
   - post: ~ 후에
   - la: (그)
-  - tagmanĝo: 점심식사
+  - tagmanĝo: 점심 식사
   - '?'
-- demando: '뭘 마시고 싶은가요: 차, 커피 약간, 아니면 아무것도 원하지 않나요?'
+- demando: '무엇을 마시고 싶나요: 차, 커피 조금, 아니면 아무것도 안 마실래요?'
   rektatraduko:
   - Kion: 무엇을
   - vi: 당신은
@@ -17,7 +17,7 @@
   - ':'
   - teon: 차를
   - ','
-  - iom: 약간량의
+  - iom: 약간
   - da: ~의
   - kafo: 커피
   - aŭ: 또는
@@ -37,20 +37,20 @@
   - vian: 당신의 (목적격)
   - ĉambreton: 작은 방을
   - '?'
-- demando: 누구에게 포도주를 담을 그 깨끗한 잔들을 주었는가?
+- demando: 포도주를 담을 그 깨끗한 잔들을 누구에게 주었나요?
   rektatraduko:
   - Al: ~에게
   - kiu: 누구
   - vi: 당신은
   - donis: 주었다
   - la: (그)
-  - purajn: 깨끗한 (복수,목적격)
+  - purajn: 깨끗한 (복수, 목적격)
   - glasojn: 잔들을
   - por: ~를 위한
   - la: (그)
   - vino: 포도주
   - '?'
-- demando: 누구를 상대로 당신의 스포츠 클럽이 2주전에 경기를 했나요?
+- demando: 당신의 스포츠 클럽은 2주 전에 누구를 상대로 경기했나요?
   rektatraduko:
   - Kontraŭ: ~을 상대로
   - kiu: 누구
@@ -70,7 +70,7 @@
   - la: (그)
   - policiston: 경찰을
   - ','
-  - kiu: ~한 그사랄
+  - kiu: ~한 그 사람
   - loĝas: 거주하고 있다
   - en: ~(안)에
   - la: (그)

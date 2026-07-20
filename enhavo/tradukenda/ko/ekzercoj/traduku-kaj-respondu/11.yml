@@ -1,8 +1,8 @@
 - demando: 당신은 내 여동생의 약을 가져와 줄 수 있나요?
   rektatraduko:
-  - Ĉu: ~인가?
+  - Ĉu: ~인가
   - vi: 당신은
-  - povas: 할수 있다
+  - povas: 할 수 있다
   - kunporti: 가져오다
   - la: (그)
   - sanigilon: 회복제를 (약을)
@@ -26,24 +26,24 @@
   - mian: 나의 (목적격)
   - ŝlosilon: 열쇠를
   - '?'
-- demando: 당신은 베니스에서 곤돌라로도 타고 이동했나요?
+- demando: 베네치아에서 곤돌라로도 이동했나요?
   rektatraduko:
   - Ĉu: ~인가
   - vi: 당신은
   - en: ~안에
-  - Venecio: 베니스
+  - Venecio: 베네치아
   - veturis: 타고 이동했다
   - ankaŭ: 또한
-  - per: ~를 가지고
+  - per: ~를 수단으로
   - gondolo: 곤돌라
   - '?'
-- demando: 조용해지면 잠들 수 있는가?
+- demando: 조용해지면 잠들 수 있나요?
   rektatraduko:
-  - Ĉu: ~인가?
+  - Ĉu: ~인가
   - vi: 당신은
   - povos: 할 수 있다
-  - ekdormi: 잠에들다
+  - ekdormi: 잠들다
   - ','
   - kiam: ~인 그 때
-  - silentiĝos: 조용해졌다
+  - silentiĝos: 조용해질 것이다
   - '?'

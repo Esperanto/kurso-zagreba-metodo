@@ -1,0 +1,51 @@
+- demando: Ubani umngane wakho?
+  rektatraduko:
+  - Kiu: Ubani
+  - estas: ngu
+  - via: wakho
+  - amikino: umngane wesifazane
+  - '?'
+- demando: Ingabe umngane wakho u-Ana uyabhala egumbini manje?
+  rektatraduko:
+  - Ĉu: Ingabe
+  - via: wakho
+  - amikino: umngane wesifazane
+  - Ana: u-Ana
+  - skribas: uyabhala
+  - nun: manje
+  - en: ku
+  - la: i-athikili
+  - ĉambro: igumbi
+  - '?'
+- demando: Ingabe umngane kayihlo usebenza ehhotela?
+  rektatraduko:
+  - Ĉu: Ingabe
+  - la: i-athikili
+  - amiko: umngane
+  - de: ka
+  - via: wakho
+  - patro: ubaba
+  - laboras: uyasebenza
+  - en: ku
+  - hotelo: ihhotela
+  - '?'
+- demando: Yini ephezu kwetafula lomsebenzi egumbini lethu?
+  rektatraduko:
+  - Kio: Yini
+  - estas: ngu
+  - sur: phezu
+  - la: i-athikili
+  - labortablo: itafula lomsebenzi
+  - en: ku
+  - nia: lethu
+  - ĉambro: igumbi
+  - '?'
+- demando: Ingabe ikhona incwadi yokufunda i-Esperanto etafuleni lakho?
+  rektatraduko:
+  - Ĉu: Ingabe
+  - Esperanto-lernolibro: incwadi-yokufunda-i-Esperanto
+  - estas: ngu
+  - sur: phezu
+  - via: wakho
+  - tablo: itafula
+  - '?'

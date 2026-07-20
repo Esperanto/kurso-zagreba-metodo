@@ -666,3 +666,11 @@ zh-tw:
   aŭtoroj:
     - nomo: Manlajo
       github: Manlajo
+zu:
+  nomo:
+    fontlingve: IsiZulu
+    esperante: zulua
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai

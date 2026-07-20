@@ -5,10 +5,10 @@
   - revidos: 다시 볼 것이다
   - vin: 당신을
   - '?'
-- demando: 얼마나 오랫동안 당신은 그 국제 언어를 배우나요?
+- demando: 당신은 국제어를 얼마나 오래 배우고 있나요?
   rektatraduko:
-  - Kiom: 얼마나 많이
-  - longe: 길게
+  - Kiom: 얼마나
+  - longe: 오래
   - vi: 당신은
   - lernas: 배운다
   - la: (그)
@@ -25,20 +25,20 @@
   - kun: ~를 가진
   - fotoj: 사진들
   - '?'
-- demando: 당신은 점심식사 후에 어디로 갑니까?
+- demando: 당신은 점심 식사 후에 어디로 갈 건가요?
   rektatraduko:
   - Kien: 어디로
   - vi: 당신은
   - iros: 갈 것이다
   - post: ~후에
   - la: (그)
-  - tagmanĝo: 점심식사
+  - tagmanĝo: 점심 식사
   - '?'
-- demando: 추울 때 누군가가 방문을 닫을 수 있나요?
+- demando: 추울 때 누가 방 문을 닫아 줄 수 있나요?
   rektatraduko:
   - Ĉu: ~인가
   - oni: 누군가가
-  - povas: 할수 있다
+  - povas: 할 수 있다
   - fermi: 닫다
   - la: (그)
   - pordon: 문을
@@ -50,10 +50,10 @@
   - estas: 이다
   - malvarme: 추운
   - '?'
-- demando: 누군가가 당신으로부터 많은 돈을 빼앗으면, 당신은 얼마나 오래 화나나요?
+- demando: 누군가 당신에게서 많은 돈을 빼앗으면, 당신은 얼마나 오래 화가 나 있나요?
   rektatraduko:
-  - Kiom: 얼마나 많이
-  - longe: 길게
+  - Kiom: 얼마나
+  - longe: 오래
   - vi: 당신은
   - koleras: 화를 낸다
   - ','

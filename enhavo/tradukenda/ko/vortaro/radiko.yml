@@ -4,7 +4,7 @@ afer:
 - 사무
 ag: 행동하다
 agrabl: 유쾌한
-akcept: 받아 들이다
+akcept: 받아들이다
 akv: 물
 ali: 다른
 alt: 높은
@@ -39,7 +39,7 @@ dank: 감사하다
 daŭr: 지속하다
 decid: 결정하다
 demand: 묻다
-dev: 해야한다
+dev: 해야 한다
 dezir:
 - 바라다
 - 욕망하다
@@ -62,7 +62,7 @@ don: 주다
 dorm: 자다
 doĝ: 총독
 edz: 남편
-efektiv: 효과적인
+efektiv: 실제의
 ekskurs: 소풍
 ekzempl: 예
 esper: 희망하다
@@ -72,9 +72,8 @@ fakt: 사실
 fal: 떨어지다
 famili: 가족
 far:
+- 하다
 - 만들다
-- 짓다
-- 제조하다
 fart:
 - 살아가다
 - 지내다
@@ -96,9 +95,7 @@ fru: 이른
 fuŝ: 망치다
 glas: 잔
 gondol: 곤돌라
-graf:
-- 백작
-- 자작
+graf: 백작
 grand:
 - 커다란
 - 위대한
@@ -110,7 +107,7 @@ hav: 가지다
 hejm: 가정
 help: 돕다
 hom: 사람
-hor: 시간
+hor: 시각
 hotel: 호텔
 ide: 아이디어
 industri: 산업
@@ -142,7 +139,7 @@ kar:
 - 소중한
 kastel: 성
 kav: 동굴
-kelk: 몇개의
+kelk: 몇 개의
 kelner: 웨이터
 klar:
 - 맑은
@@ -264,9 +261,9 @@ pied: 발
 plac: 장소
 plan: 계획하다
 plaĉ:
-- 기쁘게하다
+- 기쁘게 하다
 - 마음에 들게 하다
-plen: 가득찬
+plen: 가득 찬
 plor: 울다
 pluv: 비오다
 polic: 경찰
@@ -321,7 +318,7 @@ salt: 점프하다
 salut: 인사하다
 sam: 같은
 san: 건강한
-sat: 만족시키다
+sat: 배부른
 saĝ:
 - 현명한
 - 지혜로운
@@ -329,14 +326,14 @@ sci: 알다
 sek: 건조한
 sekret: 비밀
 sekv:
-- 뒤따르다
+- ~를 따르다
 - 잇따르다
 semajn: 주
 send: 보내다
 sent: 느끼다
 serĉ: 찾다
 seĝ: 의자
-si: 자기자신
+si: 자기 자신
 sid: 앉다
 silent:
 - 조용한
@@ -356,7 +353,7 @@ star: 일어서다
 strat: 거리
 subit: 갑자기
 sufiĉ: 충분한
-suk: 주스
+suk: 즙
 sukces: 성공
 sun: 태양
 supr: 위의
@@ -371,14 +368,15 @@ temperatur: 온도
 ten: 손에 쥐다
 teror: 테러
 terur: 끔찍한
-tim: 두려운
+tim: 두려워하다
 ton:
-- 톤
+- 음조
+- 어조
 - 성조
 trankvil: 고요한
 trink: 마시다
 trov: 발견하다
-turk: 터키
+turk: 터키인
 tut: 전체의
 tuŝ: 만지다
 universal: 세계적인
@@ -413,12 +411,10 @@ zorg:
 - 돌보다
 - 주의하다
 ĉambr: 방
-ĉef:
-- 지휘자
-- 우두머리
+ĉef: 우두머리
 ĝen:
-- 괴롭히다
-- 폐끼치다
+- ~를 괴롭히다
+- ~에게 폐를 끼치다
 ĝeneral: 일반적인
 ĝoj: 기쁜
 ĝust: 옳은

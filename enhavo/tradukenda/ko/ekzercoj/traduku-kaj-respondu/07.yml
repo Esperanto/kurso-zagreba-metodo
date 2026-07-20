@@ -23,7 +23,7 @@
   - mi: 내가
   - montru: 보여줘라
   - al: ~에게
-  - vi: 당시
+  - vi: 당신
   - mian: 나의 (목적격)
   - plej: 가장
   - karan: 소중한 (목적격)
@@ -37,7 +37,7 @@
   - tiun: 그 (목적격)
   - vestaĵon: 옷을
   - '?'
-- demando: 만약 햇볓나는 날이면, 당신은 일요일에 어디를 갈 것인가요?
+- demando: 일요일이 햇볕 나는 날이면, 당신은 어디로 갈 건가요?
   rektatraduko:
   - Kien: 어디로
   - vi: 당신은
@@ -46,8 +46,8 @@
   - ','
   - se: 만약
   - estos: ~일 것이다
-  - suna: 태양의
-  - tago: 낮
+  - suna: 햇볕 나는
+  - tago: 날
   - '?'
 - demando: 당신의 형제는 이미 출발했나요?
   rektatraduko:
@@ -57,7 +57,7 @@
   - jam: 이미
   - ekiris: 떠나갔다
   - '?'
-- demando: 당신이 직접  그 물이 어디에 있나요?
+- demando: 당신이 직접 가져온 그 물은 어디에 있나요?
   rektatraduko:
   - Kie: 어디에
   - estas: 있다

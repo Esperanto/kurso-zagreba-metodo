@@ -1,0 +1,51 @@
+- demando: شكون هي صاحبتك؟
+  rektatraduko:
+  - Kiu: شكون
+  - estas: هي
+  - via: ديالك
+  - amikino: صاحبة
+  - '?'
+- demando: واش صاحبتك آنا كتكتب دابا فالبيت؟
+  rektatraduko:
+  - Ĉu: واش
+  - via: ديالك
+  - amikino: صاحبة
+  - Ana: آنا
+  - skribas: كتكتب
+  - nun: دابا
+  - en: فـ
+  - la: الـ
+  - ĉambro: بيت
+  - '?'
+- demando: واش صاحب باك كيخدم فأوطيل؟
+  rektatraduko:
+  - Ĉu: واش
+  - la: الـ
+  - amiko: صاحب
+  - de: ديال
+  - via: ديالك
+  - patro: باك
+  - laboras: كيخدم
+  - en: فـ
+  - hotelo: أوطيل
+  - '?'
+- demando: شنو كاين فوق مكتب الخدمة فبيتنا؟
+  rektatraduko:
+  - Kio: شنو
+  - estas: كاين
+  - sur: فوق
+  - la: الـ
+  - labortablo: طابلة الخدمة
+  - en: فـ
+  - nia: ديالنا
+  - ĉambro: بيت
+  - '?'
+- demando: واش كتاب تعلم الاسبرانتو فوق الطابلة ديالك؟
+  rektatraduko:
+  - Ĉu: واش
+  - Esperanto-lernolibro: كتاب تعلم الاسبرانتو
+  - estas: كاين
+  - sur: فوق
+  - via: ديالك
+  - tablo: طابلة
+  - '?'

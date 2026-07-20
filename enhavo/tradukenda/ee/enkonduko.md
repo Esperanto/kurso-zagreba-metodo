@@ -1,5 +1,5 @@
-- Srɔ̃ **nya 500 siwo le vevie ŋutɔ**
-- Se **Esperanto si wogblɔna la ƒe 95 %** egɔme
-- **Le gbɔgbɔe** eye ŋkɔŋlɔ mele eme o
+- Srɔ̃ **nya vevitɔ 500**
+- Se **Esperanto si wogblɔna ƒe 95 %** egɔme
+- **Dzodzro** eye manye be nàŋlɔ wò ŋkɔ o
 
-Le esia megbe, àte ŋu akpɔ dzeƒomegbeƒoƒo bɔbɔewo gɔme, awɔ wò ŋutɔ ƒe nyawo, eye ayi enumake ɖe [Esperanto ƒe ƒuƒoƒo si kplɔe](https://eventaservo.org/).
+Le esia megbe, àte ŋu axɔ dzeƒomegbeƒoƒo bɔbɔewo gɔme, awɔ wò ŋutɔ ƒe nyawo, eye ayi enumake ɖe [Esperanto ƒe ƒuƒoƒo si kplɔe](https://eventaservo.org/).

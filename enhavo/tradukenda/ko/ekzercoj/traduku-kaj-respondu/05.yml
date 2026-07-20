@@ -1,9 +1,9 @@
-- demando: 누군가 즐겁게 노래하고 있는 동안, 너는 고요히 배울 수 있는가?
+- demando: 누군가 즐겁게 노래하는 동안 당신은 차분히 배울 수 있나요?
   rektatraduko:
-  - Ĉu: ~인가?
+  - Ĉu: ~인가
   - vi: 당신은
-  - povas: ~할수 있다.
-  - trankvile: 고요하게
+  - povas: ~할 수 있다
+  - trankvile: 차분하게
   - lerni: 배우다
   - ','
   - dum: ~하는 동안
@@ -11,7 +11,7 @@
   - ĝoje: 즐겁게
   - kantas: 노래한다
   - '?'
-- demando: 언제 어디서 우리가 다시 만나게 될 지를 누가 알겠는가?
+- demando: 우리가 언제 어디서 다시 만나게 될지 누가 알까요?
   rektatraduko:
   - Kiu: 누가
   - scias: 안다
@@ -23,14 +23,14 @@
   - revidos: 다시 만날 것이다
   - nin: 우리를
   - '?'
-- demando: 지금 몇시인가?
+- demando: 지금 몇 시인가요?
   rektatraduko:
-  - Kioma: 얼마의
-  - horo: 시간
+  - Kioma: 몇 번째의
+  - horo: 시각
   - estas: 이다
   - nun: 지금
   - '?'
-- demando: 그 오랜 집의 문을 여는 것을 누군가가 당신에게 도와주었는가?
+- demando: 누군가 당신이 그 낡은 집의 문을 여는 것을 도와주었나요?
   rektatraduko:
   - Ĉu: ~인가
   - iu: 누군가
@@ -45,7 +45,7 @@
   - malnova: 오래된
   - domo: 집
   - '?'
-- demando: 왜 당신은 나를 더 오랫동안 들을 시간이 없습니까?
+- demando: 왜 당신은 내 말을 더 오래 들을 시간이 없나요?
   rektatraduko:
   - Kial: 왜
   - vi: 당신은
@@ -55,5 +55,5 @@
   - aŭskulti: 듣다
   - min: 나를
   - pli: 더
-  - longe: 오랫동안 (길게)
+  - longe: 오래
   - '?'

@@ -95,9 +95,7 @@ fru: 이른
 fuŝ: 망치다
 glas: 잔
 gondol: 곤돌라
-graf:
-- 백작
-- 자작
+graf: 백작
 grand:
 - 커다란
 - 위대한
@@ -320,7 +318,7 @@ salt: 점프하다
 salut: 인사하다
 sam: 같은
 san: 건강한
-sat: 만족시키다
+sat: 배부른
 saĝ:
 - 현명한
 - 지혜로운
@@ -328,7 +326,7 @@ sci: 알다
 sek: 건조한
 sekret: 비밀
 sekv:
-- 뒤따르다
+- ~를 따르다
 - 잇따르다
 semajn: 주
 send: 보내다
@@ -370,14 +368,15 @@ temperatur: 온도
 ten: 손에 쥐다
 teror: 테러
 terur: 끔찍한
-tim: 두려운
+tim: 두려워하다
 ton:
-- 톤
+- 음조
+- 어조
 - 성조
 trankvil: 고요한
 trink: 마시다
 trov: 발견하다
-turk: 터키
+turk: 터키인
 tut: 전체의
 tuŝ: 만지다
 universal: 세계적인
@@ -412,12 +411,10 @@ zorg:
 - 돌보다
 - 주의하다
 ĉambr: 방
-ĉef:
-- 지휘자
-- 우두머리
+ĉef: 우두머리
 ĝen:
-- 괴롭히다
-- 폐끼치다
+- ~를 괴롭히다
+- ~에게 폐를 끼치다
 ĝeneral: 일반적인
 ĝoj: 기쁜
 ĝust: 옳은

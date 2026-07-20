@@ -43,19 +43,19 @@ direkt:
 - اتجاه
 - جهة
 divers: مختلف
-doktor: طبيب
+doktor: دكتور
 dolar: دولار
 dolor: وجع
 dolĉ: حلو
 dom: دار
 don: عطى
 dorm: نعس
-doĝ: دوج
-edz: راجل
+doĝ: دوج (حاكم ڤينيسيا القديم)
+edz: زوج
 efektiv: بصح
 ekskurs: خرجة
 ekzempl: مثال
-esper: تمنا
+esper: تمنى
 est:
 - كان
 - كاين
@@ -64,7 +64,9 @@ fakt: حقيقة
 fal: طاح
 famili: عائلة
 far: دار
-fart: كان حالو
+fart:
+- حال
+- صحة
 feliĉ: فرحان
 ferm: سد
 fin: كمل
@@ -86,7 +88,9 @@ grand: كبير
 grav: مهم
 halt: وقف
 hav: عندو
-hejm: دار
+hejm:
+- دار
+- سكن
 help: عاون
 hom: إنسان
 hor: ساعة
@@ -149,7 +153,9 @@ laŭt: عالي
 lecion: درس
 leg: قرا
 lern: تعلم
-leter: جواب
+leter:
+- رسالة
+- جواب
 liber: حر
 libr: كتاب
 lingv: لغة
@@ -308,7 +314,9 @@ ton: نبرة
 trankvil: هاني
 trink: شرب
 trov: لقى
-turk: تركي
+turk:
+- ترك
+- تركي
 tut: كامل
 tuŝ: مس
 universal: عالمي
@@ -326,7 +334,7 @@ vest: حوايج
 vetur: سافر
 vid: شاف
 vin: خمر
-vir: رجل
+vir: راجل
 viv: عاش
 vizaĝ: وجه
 vizit: زار

@@ -1,6 +1,10 @@
 dimanĉo: الحد
-lundo: التنين
-mardo: التلات
+lundo:
+- التنين
+- الإثنين
+mardo:
+- التلات
+- الثلاثاء
 merkredo: الأربع
 sabato: السبت
 vendredo: الجمعة

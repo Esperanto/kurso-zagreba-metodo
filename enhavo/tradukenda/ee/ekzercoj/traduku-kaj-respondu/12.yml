@@ -1,63 +1,63 @@
-- demando: Ṣé a ó tún rí ara wa, níbikíbi àti nígbàkigbà?
+- demando: Ɖe míagbugbɔ akpɔ mía nɔewo, afika ke alo ɣekaɣie ke?
   rektatraduko:
-  - Ĉu: Ṣé
-  - ni: àwa
-  - revidos: yóò tún rí
-  - nin: ara wa
+  - Ĉu: Ɖe
+  - ni: mí
+  - revidos: gbugbɔ akpɔ
+  - nin: mía nɔewo
   - ','
-  - kie: níbo
-  - ajn: èyíkéyìí
-  - kaj: àti
-  - kiam: nígbà wo
-  - ajn: èyíkéyìí
+  - kie: afika
+  - ajn: ke
+  - kaj: kple
+  - kiam: ɣekaɣie
+  - ajn: ke
   - '?'
-- demando: Nígbà wo ni màá gba ìdajì kejì àwọn ìwé náà padà?
+- demando: Ɣekaɣie magbugbɔ axɔ agbalẽwo ƒe afa bubu la?
   rektatraduko:
-  - Kiam: Nígbà wo
-  - mi: èmi
-  - rericevos: yóò gba padà
-  - la: náà
-  - alian: mìíràn
-  - duonon: ìdajì
-  - de: ti
-  - la: náà
-  - libroj: àwọn ìwé
+  - Kiam: Ɣekaɣie
+  - mi: nye
+  - rericevos: gbugbɔ axɔ
+  - la: la
+  - alian: bubu
+  - duonon: afa
+  - de: ƒe
+  - la: la
+  - libroj: agbalẽwo
   - '?'
-- demando: Ṣé ìwọ yóò nílò ju ìdámẹ́rin ọdún lọ fún àwọn iṣẹ́ wọ̀nyẹn?
+- demando: Ɖe ɣeyiɣi si hiã wò na dɔ mawo awu ƒe akpa enelia ƒe ɖeka?
   rektatraduko:
-  - Ĉu: Ṣé
-  - vi: ìwọ
-  - bezonos: yóò nílò
-  - pli: sí i
-  - ol: ju
-  - kvaronan: ìdámẹ́rin
-  - jaron: ọdún
-  - por: fún
-  - tiuj: wọ̀nyẹn
-  - laboroj: àwọn iṣẹ́
+  - Ĉu: Ɖe
+  - vi: wò
+  - bezonos: ahiã
+  - pli: wu
+  - ol: wu
+  - kvaronan: akpa enelia ƒe ɖeka
+  - jaron: ƒe
+  - por: na
+  - tiuj: mawo
+  - laboroj: dɔwo
   - '?'
-- demando: Kí ló dé tí ó túbọ̀ ń tutù bí a ṣe ń dúró de pẹ́ sí i?
+- demando: Nukatae wòvuvɔ wu ne míelala didi wu?
   rektatraduko:
-  - Kial: Kí ló dé
-  - ju: bí
-  - pli: sí i
-  - longe: pẹ́
-  - ni: àwa
-  - atendas: dúró de
+  - Kial: Nukatae
+  - ju: ne ... dzi la
+  - pli: wu
+  - longe: didi
+  - ni: mí
+  - atendas: lala
   - ','
-  - des: bẹ́ẹ̀ ni
-  - pli: sí i
-  - malvarme: tútù
-  - estas: jẹ́
+  - des: eya dzi la
+  - pli: wu
+  - malvarme: vuvɔ
+  - estas: le
   - '?'
-- demando: Ṣé inú rẹ yóò dùn pẹ̀lú ọkùnrin èyíkéyìí?
+- demando: Ɖe nàkpɔ dzidzɔ kple ŋutsu ɖe sia ɖe?
   rektatraduko:
-  - Ĉu: Ṣé
-  - vi: ìwọ
-  - estus: yóò jẹ́
-  - kontenta: ní ìtẹ́lọ́rùn
-  - kun: pẹ̀lú
-  - iu: ẹnì kan
-  - ajn: èyíkéyìí
-  - viro: ọkùnrin
+  - Ĉu: Ɖe
+  - vi: wò
+  - estus: anye
+  - kontenta: kpɔ dzidzɔ
+  - kun: kple
+  - iu: ame aɖe
+  - ajn: ke
+  - viro: ŋutsu
   - '?'

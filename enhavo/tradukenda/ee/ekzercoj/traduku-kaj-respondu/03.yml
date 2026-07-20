@@ -1,72 +1,72 @@
-- demando: Ṣé àwọn olùṣèránṣẹ́ tábìlì nínú hòtẹ́lì ńlá lóye ọ̀pọ̀ èdè?
+- demando: Ɖe nuɖuƒedɔlawo le hotɛl gãwo me sea gbe geɖe gɔme?
   rektatraduko:
-  - Ĉu: Ṣé
-  - kelneroj: àwọn olùṣèránṣẹ́ tábìlì
-  - en: nínú
-  - grandaj: ńlá
-  - hoteloj: àwọn hòtẹ́lì
-  - komprenas: lóye
-  - multajn: ọ̀pọ̀
-  - lingvojn: èdè
+  - Ĉu: Ɖe
+  - kelneroj: nuɖuƒedɔlawo
+  - en: le ... me
+  - grandaj: gãwo
+  - hoteloj: hotɛlwo
+  - komprenas: se egɔme
+  - multajn: geɖewo
+  - lingvojn: gbewo
   - '?'
-- demando: Ṣé o mọ̀ pé Ana fẹ́ràn orin tuntun nípa ọkùnrin tálákà àti ọmọbìnrin ẹlẹ́wà?
+- demando: Ɖe ènya be Ana lɔ̃ ha yeye si le hiãtɔ kple nyɔnu dzeani ŋuti?
   rektatraduko:
-  - Ĉu: Ṣé
-  - vi: ìwọ
-  - scias: mọ̀
+  - Ĉu: Ɖe
+  - vi: wò
+  - scias: nya
   - ','
-  - ĉu: pé
+  - ĉu: ɖe
   - Ana: Ana
-  - ŝatas: fẹ́ràn
-  - la: náà
-  - novan: tuntun
-  - kanton: orin
-  - pri: nípa
-  - malriĉulo: tálákà
-  - kaj: àti
-  - belulino: ọmọbìnrin ẹlẹ́wà
+  - ŝatas: lɔ̃
+  - la: la
+  - novan: yeye
+  - kanton: ha
+  - pri: le ... ŋuti
+  - malriĉulo: hiãtɔ
+  - kaj: kple
+  - belulino: nyɔnu dzeani
   - '?'
-- demando: Níbo ni o ti rí arúgbó ọkùnrin àti ọ̀dọ́kùnrin tí wọ́n ń gbé tábìlì ńlá?
+- demando: Afikae nèkpɔ ametsitsi kple sɔhɛŋutsu siwo tsɔ kplɔ̃ gã la?
   rektatraduko:
-  - Kie: Níbo
-  - vi: ìwọ
-  - vidis: rí
-  - la: náà
-  - maljunulon: arúgbó ọkùnrin
-  - kaj: àti
-  - la: náà
-  - junulon: ọ̀dọ́kùnrin
+  - Kie: Afika
+  - vi: wò
+  - vidis: kpɔ
+  - la: la
+  - maljunulon: ametsitsi
+  - kaj: kple
+  - la: la
+  - junulon: sɔhɛŋutsu
   - ','
-  - kiuj: tí wọ́n
-  - portis: ń gbé
-  - grandan: ńlá
-  - tablon: tábìlì
+  - kiuj: siwo
+  - portis: tsɔ
+  - grandan: gã
+  - tablon: kplɔ̃
   - '?'
-- demando: Báwo ni ó ṣe ṣẹlẹ̀ pé o tún wá sí ọ̀dọ̀ wa láìsí àwọn arákùnrin àti arábìnrin?
+- demando: Aleke nu la dzɔe be nèva mía gbɔ ake nɔviwo manɔmee?
   rektatraduko:
-  - Kiel: Báwo
-  - okazis: ṣẹlẹ̀
+  - Kiel: Aleke
+  - okazis: dzɔ
   - ','
-  - ke: pé
-  - vi: ìwọ
-  - denove: lẹ́ẹ̀kansi
-  - venis: wá
-  - al: sí
-  - ni: wa
-  - sen: láìsí
-  - gefratoj: arákùnrin-àti-arábìnrin
+  - ke: be
+  - vi: wò
+  - denove: ake
+  - venis: va
+  - al: ɖe ... gbɔ
+  - ni: mí
+  - sen: manɔmee
+  - gefratoj: nɔviwo
   - '?'
-- demando: Ṣé o lè kọ́ Esperanto ní kíakia tó peye nípasẹ̀ ìwé ẹ̀kọ́ tuntun náà?
+- demando: Ɖe àte ŋu asrɔ̃ Esperanto kabakaba nenema kple nusrɔ̃agbalẽ yeye la?
   rektatraduko:
-  - Ĉu: Ṣé
-  - vi: ìwọ
-  - povas: lè
-  - per: nípasẹ̀
-  - la: náà
-  - nova: tuntun
-  - lernolibro: ìwé ẹ̀kọ́
-  - sufiĉe: tó
-  - rapide: kíakia
-  - lerni: kọ́
+  - Ĉu: Ɖe
+  - vi: wò
+  - povas: ate ŋu
+  - per: to ... dzi
+  - la: la
+  - nova: yeye
+  - lernolibro: nusrɔ̃agbalẽ
+  - sufiĉe: sɔ
+  - rapide: kabakaba
+  - lerni: srɔ̃
   - Esperanton: Esperanto
   - '?'

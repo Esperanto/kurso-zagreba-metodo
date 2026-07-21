@@ -394,7 +394,7 @@ def generu_html_por_lingvoj(args, lingvoj):
             kopiu_statikan=(index == 0),
             hejmaj_lingvoj=hejmaj_lingvoj_datenoj,
         )
-    html_generilo.generate_seo_files(lingvoj, por_generi)
+    html_generilo.generate_seo_files(lingvoj)
     html_generilo.generate_pwa(por_generi)
 
 

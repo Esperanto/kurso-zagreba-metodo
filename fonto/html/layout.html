@@ -20,9 +20,6 @@
     <meta property="og:site_name" content="{{seo.og_site_name}}" />
     <meta property="og:description" content="{{seo.og_description|e}}" />
     <meta property="og:locale" content="{{seo.og_locale}}" />
-    {% for locale in seo.og_locale_alternativoj %}
-      <meta property="og:locale:alternate" content="{{locale}}" />
-    {% endfor %}
     {% if seo.og_audio %}
       <meta property="og:audio" content="{{seo.og_audio.url}}" />
       <meta property="og:audio:secure_url" content="{{seo.og_audio.url}}" />
@@ -30,6 +27,7 @@
     {% endif %}
     <meta property="og:image" content="{{enhavo.og_bildo_url}}" />
     <title>{% filter normaligu_spacojn %}{% block title %}{% endblock %}{% endfilter %}</title>
+    {% block structured_data %}{% endblock %}
 
     <link rel="icon" href="/favicon-120x120.png" type="image/png" sizes="120x120" />
     <link rel="icon" href="/favicon.ico" sizes="any" />

@@ -6,6 +6,12 @@
   {{enhavo.fasado['La plej rapida kurso por la bazoj']}}
 {% endblock %}
 
+{% block structured_data %}
+    <script type="application/ld+json">
+{{kursa_json_ld|tojson(indent=2)}}
+    </script>
+{% endblock %}
+
 {% block content %}
 
 <div class="lingva-startpagxo" dir="{{ enhavo.tekstodirekto}}">

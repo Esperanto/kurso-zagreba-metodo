@@ -1,0 +1,80 @@
+- demando: Kush do ta pastrojë kuzhinën pas drekës?
+  rektatraduko:
+  - Kiu: Kush
+  - purigos: do ta pastrojë
+  - la: nyja e shquar
+  - kuirejon: kuzhinën
+  - post: pas
+  - la: nyja e shquar
+  - tagmanĝo: drekës
+  - '?'
+- demando: 'Çfarë do të doje të pije: çaj, kafe apo asgjë?'
+  rektatraduko:
+  - Kion: Çfarë
+  - vi: ti/ju
+  - volas: dëshiron
+  - trinki: të pish
+  - ':'
+  - teon: çaj
+  - ','
+  - iom: pak
+  - da: prej
+  - kafo: kafe
+  - aŭ: ose
+  - ĉu: a
+  - vi: ti/ju
+  - volas: dëshiron
+  - nenion: asgjë
+  - '?'
+- demando: Pse vendose kaq papritur të rinovosh dhomën tënde të vogël?
+  rektatraduko:
+  - Kial: Pse
+  - vi: ti/ju
+  - tiel: kështu
+  - subite: papritur
+  - decidis: vendose
+  - renovigi: të rinovosh
+  - vian: tënd
+  - ĉambreton: dhomëzën
+  - '?'
+- demando: Kujt ia dhe gotat e pastra të verës?
+  rektatraduko:
+  - Al: Te
+  - kiu: kujt
+  - vi: ti/ju
+  - donis: dhe
+  - la: nyja e shquar
+  - purajn: të pastra
+  - glasojn: gotat
+  - por: për
+  - la: nyja e shquar
+  - vino: verë
+  - '?'
+- demando: Kundër kujt luajti klubi yt sportiv para dy javësh?
+  rektatraduko:
+  - Kontraŭ: Kundër
+  - kiu: kujt
+  - ludis: luajti
+  - via: yt/jote
+  - sportklubo: klub sportiv
+  - antaŭ: para
+  - du: dy
+  - semajnoj: javë
+  - '?'
+- demando: A e sheh shpesh policin që banon në banesën mbi ty?
+  rektatraduko:
+  - Ĉu: A
+  - vi: ti/ju
+  - ofte: shpesh
+  - vidas: sheh
+  - la: nyja e shquar
+  - policiston: policin
+  - ','
+  - kiu: që
+  - loĝas: banon
+  - en: në
+  - la: nyja e shquar
+  - loĝejo: banesë
+  - super: mbi
+  - vi: ti/ju
+  - '?'

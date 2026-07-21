@@ -1,0 +1,64 @@
+- demando: Si ishte shtëpia jote e vjetër?
+  rektatraduko:
+  - Kia: Çfarë lloj
+  - estis: ishte
+  - via: yt/jote
+  - malnova: e vjetër
+  - hejmo: shtëpi
+  - '?'
+- demando: Cilët libra lexove dhe a ishin të mirë?
+  rektatraduko:
+  - Kiujn: Cilët/cilat
+  - librojn: librat
+  - vi: ti/ju
+  - legis: lexove
+  - kaj: dhe
+  - ĉu: a
+  - ili: ata/ato
+  - estas: janë
+  - bonaj: të mirë
+  - '?'
+- demando: Çfarë bënë Ana dhe Marko në dhomën e vogël të Markos?
+  rektatraduko:
+  - Kion: Çfarë
+  - faris: bënë
+  - Ana: Ana
+  - kaj: dhe
+  - Marko: Marko
+  - en: në
+  - la: nyja e shquar
+  - malgranda: i vogël
+  - ĉambro: dhomë
+  - de: i/e
+  - Marko: Marko
+  - '?'
+- demando: A të pëlqen të lexosh libra për dashurinë?
+  rektatraduko:
+  - Ĉu: A
+  - vi: ti/ju
+  - ŝatas: i pëlqen
+  - legi: të lexosh
+  - librojn: librat
+  - pri: për
+  - amo: dashuri
+  - '?'
+- demando: Kush do të shkojë me ty në shtëpinë tënde?
+  rektatraduko:
+  - Kiu: Kush
+  - iros: do të shkojë
+  - kun: me
+  - vi: ti/ju
+  - al: te
+  - via: yt/jote
+  - hejmo: shtëpi
+  - '?'
+- demando: Si janë sytë e mikut tënd?
+  rektatraduko:
+  - Kiaj: Si
+  - estas: janë
+  - la: nyja e shquar
+  - okuloj: sy
+  - de: i/e
+  - via: yt/jote
+  - amikino: shoqe
+  - '?'

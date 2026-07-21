@@ -44,7 +44,7 @@ dik:
 dimanĉ: Linggo
 dir: sabihin
 direkt: direksiyon
-divers: diverse
+divers: iba-iba
 doktor: doktor
 dolar: dolyar
 dolor:
@@ -58,7 +58,7 @@ doĝ: doge
 edz: asawang lalaki
 efektiv: talaga
 ekskurs: ekskursiyon
-ekzempl: example
+ekzempl: halimbawa
 esper: umasa
 est: maging
 facil: madali
@@ -101,7 +101,7 @@ hor: oras
 hotel: hotel
 ide: ideya
 industri: industriya
-infan: child
+infan: bata
 inform: magbigay-alam
 instru: magturo
 interes: maging kawili-wili
@@ -154,7 +154,7 @@ lern: matuto
 leter: liham
 liber: malaya
 libr: aklat
-lingv: language
+lingv: wika
 lok: lugar
 long: mahaba
 loĝ:
@@ -164,7 +164,7 @@ loĝ:
 lud: maglaro
 lum: liwanag
 man: kamay
-manier: manner
+manier: paraan
 mank: magkulang
 manĝ: kumain
 mar: dagat
@@ -177,15 +177,15 @@ minut: minuto
 mir: magtaka
 moment: sandali
 mon: pera
-monat: month
-mond: world
+monat: buwan
+mond: mundo
 mont: bundok
 montr: ipakita
 mort: mamatay
 mov: gumalaw
 mult: marami
 muzik: musika
-naci: nation
+naci: bansa
 nask: manganak
 natur: kalikasan
 neces: kailangan
@@ -228,22 +228,22 @@ polic: pulis
 pord: pinto
 port: magdala
 pov: maaari
-poŝ: pocket
-poŝt: post
+poŝ: bulsa
+poŝt: koreo
 pren: kumuha
 pret: handa
 prezent: iharap
 problem: problema
 proksim: malapit
-proksimum: approximate
+proksimum: humigit-kumulang
 promen: maglakad-lakad
 propon: magmungkahi
 prov: subukan
-publik: public
-punkt: point
+publik: pampubliko
+punkt: punto
 pur:
-- clean
-- pure
+- malinis
+- puro
 rajt: may karapatan
 rakont: magkuwento
 rapid: mabilis
@@ -278,7 +278,7 @@ semajn: linggo
 send: magpadala
 sent: makaramdam
 serĉ: maghanap
-seĝ: chair
+seĝ: upuan
 si: panghalip na pabalik
 sid: umupo
 silent: tahimik

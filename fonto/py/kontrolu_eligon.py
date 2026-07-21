@@ -47,6 +47,10 @@ OG_AUDIO_SECURE_PATTERN = re.compile(r'<meta property="og:audio:secure_url" cont
 OG_AUDIO_TYPE_PATTERN = re.compile(r'<meta property="og:audio:type" content="audio/ogg" />')
 OG_AUDIO_ANY_PATTERN = re.compile(r'<meta property="og:audio"')
 ROBOTS_SITEMAP_PATTERN = re.compile(r'Sitemap: https://esperanto12\.net/sitemap\.xml')
+ROBOTS_NOINDEX_PATTERN = re.compile(
+    r'<meta\s+name=["\']robots["\']\s+content=["\'][^"\']*\bnoindex\b',
+    re.I,
+)
 SITEMAP_EN_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/</loc>')
 LLMS_ROOT_TITLE_PATTERN = re.compile(r'^# Esperanto12\.net$', re.M)
 LLMS_ROOT_EN_PATTERN = re.compile(r'https://esperanto12\.net/en/llms\.txt\)')
@@ -117,6 +121,11 @@ def forbid_pattern(path, pattern):
         fail('ne eblas legi kiel UTF-8 ' + str(path) + ': ' + str(error))
     if pattern.search(text):
         fail('trovis neatenditan enhavon en ' + str(path))
+
+
+def forbid_noindex_in_html_tree(path):
+    for html_path in sorted(path.rglob('*.html')):
+        forbid_pattern(html_path, ROBOTS_NOINDEX_PATTERN)
 
 
 def require_font_preloads(path, href_prefix):
@@ -208,6 +217,8 @@ def main():
         require_nonempty_file(path)
 
     require_pattern(output_dir / 'robots.txt', ROBOTS_SITEMAP_PATTERN)
+    forbid_pattern(output_dir / 'index.html', ROBOTS_NOINDEX_PATTERN)
+    forbid_noindex_in_html_tree(lingvo_dir)
     require_pattern(output_dir / 'sitemap.xml', SITEMAP_EN_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_TITLE_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_EN_PATTERN)

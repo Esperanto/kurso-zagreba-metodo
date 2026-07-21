@@ -16,13 +16,13 @@
   - vi: o
   - aĉetis: o rekile
   - tiun: eo
-  - muzikilon: muzikilon
+  - muzikilon: seletsa sa mmino
   - '?'
 - demando: Ke mang ya sebedisitseng senotlolo sa ka lekgetlo la ho qetela?
   rektatraduko:
   - Kiu: Mang
-  - laste: ka qetela
-  - uzis: sebedisa
+  - laste: ka lekgetlo la ho qetela
+  - uzis: o sebedisitse
   - mian: ka
   - ŝlosilon: senotlolo
   - '?'
@@ -45,5 +45,5 @@
   - ekdormi: qala ho robala
   - ','
   - kiam: neng
-  - silentiĝos: ho tla kgutsa
+  - silentiĝos: ho tla fetoha kgutso
   - '?'

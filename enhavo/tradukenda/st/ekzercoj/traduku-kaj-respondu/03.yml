@@ -4,10 +4,10 @@
   - kelneroj: basebeletsi ba reschorente
   - en: ka
   - grandaj: tse kgolo
-  - hoteloj: tse hotele
+  - hoteloj: dihotele
   - komprenas: ba utlwisisa
   - multajn: tse ngata
-  - lingvojn: tse puo
+  - lingvojn: dipuo
   - '?'
 - demando: Na o tseba hore na Ana o rata pina e ntjha ka mofutsana le mosadi e motle?
   rektatraduko:
@@ -30,7 +30,7 @@
   rektatraduko:
   - Kie: Hokae
   - vi: o
-  - vidis: bona
+  - vidis: o bone
   - la: e itseng
   - maljunulon: motho ya tsofetseng
   - kaj: le
@@ -45,12 +45,12 @@
 - demando: Ho etsahetse jwang hore o tle ho rona hape ntle le banabeno?
   rektatraduko:
   - Kiel: Jwang
-  - okazis: etsahala
+  - okazis: ho etsahetse
   - ','
   - ke: hore
   - vi: o
   - denove: hape
-  - venis: tla
+  - venis: o tlile
   - al: ho
   - ni: re
   - sen: ntle le

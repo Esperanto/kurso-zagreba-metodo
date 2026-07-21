@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import argparse
+import json
 import re
 import sqlite3
 import tempfile
@@ -42,6 +43,7 @@ OG_SITE_NAME_PATTERN = re.compile(r'<meta property="og:site_name" content="Esper
 OG_DESCRIPTION_PATTERN = re.compile(r'<meta property="og:description" content="Learn the 500 most important words\. Understand 95 % of spoken Esperanto\. Free and no sign-up\.')
 OG_LOCALE_EN_PATTERN = re.compile(r'<meta property="og:locale" content="en_US" />')
 OG_LOCALE_ALTERNATE_DE_PATTERN = re.compile(r'<meta property="og:locale:alternate" content="de_DE" />')
+OG_LOCALE_ALTERNATE_PATTERN = re.compile(r'<meta property="og:locale:alternate"')
 OG_AUDIO_PATTERN = re.compile(r'<meta property="og:audio" content="https://esperanto12\.net/assets/ogg/01\.ogg" />')
 OG_AUDIO_SECURE_PATTERN = re.compile(r'<meta property="og:audio:secure_url" content="https://esperanto12\.net/assets/ogg/01\.ogg" />')
 OG_AUDIO_TYPE_PATTERN = re.compile(r'<meta property="og:audio:type" content="audio/ogg" />')
@@ -51,7 +53,28 @@ ROBOTS_NOINDEX_PATTERN = re.compile(
     r'<meta\s+name=["\']robots["\']\s+content=["\'][^"\']*\bnoindex\b',
     re.I,
 )
-SITEMAP_EN_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/</loc>')
+SITEMAP_ROOT_INDEX_PATTERN = re.compile(r'<sitemapindex\b')
+SITEMAP_ROOT_LANGUAGE_PATTERNS = {
+    kodo: re.compile(r'<loc>https://esperanto12\.net/' + re.escape(kodo) + r'/sitemap\.xml</loc>')
+    for kodo in ('en', 'de', 'fr', 'ru', 'pt', 'zh', 'es')
+}
+SITEMAP_ROOT_DIRECT_PAGE_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/</loc>')
+SITEMAP_METADATA_PATTERN = re.compile(r'<(?:priority|changefreq)>')
+LINGVA_SITEMAP_URLSET_PATTERN = re.compile(
+    r'<urlset\b[^>]*xmlns="http://www\.sitemaps\.org/schemas/sitemap/0\.9"'
+    r'[^>]*xmlns:xhtml="http://www\.w3\.org/1999/xhtml"',
+)
+LINGVA_SITEMAP_EN_ROOT_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/</loc>')
+LINGVA_SITEMAP_EN_LESSON_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/</loc>')
+LINGVA_SITEMAP_EN_WORDS_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/vortoj/</loc>')
+LINGVA_SITEMAP_EN_GRAMMAR_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/gramatiko/</loc>')
+LINGVA_SITEMAP_EN_EXERCISE_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/ekzerco1/</loc>')
+LINGVA_SITEMAP_EN_HREFLANG_SELF_PATTERN = re.compile(
+    r'<xhtml:link\b[^>]*hreflang="en"[^>]*href="https://esperanto12\.net/en/01/"',
+)
+LINGVA_SITEMAP_EN_HREFLANG_DE_PATTERN = re.compile(
+    r'<xhtml:link\b[^>]*hreflang="de"[^>]*href="https://esperanto12\.net/de/01/"',
+)
 LLMS_ROOT_TITLE_PATTERN = re.compile(r'^# Esperanto12\.net$', re.M)
 LLMS_ROOT_EN_PATTERN = re.compile(r'https://esperanto12\.net/en/llms\.txt\)')
 LLMS_ROOT_DE_PATTERN = re.compile(r'https://esperanto12\.net/de/llms\.txt\)')
@@ -67,6 +90,10 @@ LLMS_FULL_LESSON_12_PATTERN = re.compile(r'Nokta\s+promeno')
 RAW_TEMPLATE_PATTERN = re.compile(r'\{\{[^}]+\}\}')
 FONT_DISPLAY_OPTIONAL_PATTERN = re.compile(r'font-display:optional')
 FONT_DISPLAY_SWAP_PATTERN = re.compile(r'font-display:\s*swap')
+JSON_LD_SCRIPT_PATTERN = re.compile(
+    r'<script type="application/ld\+json">\s*(.*?)\s*</script>',
+    re.S,
+)
 
 
 def fail(message):
@@ -128,6 +155,11 @@ def forbid_noindex_in_html_tree(path):
         forbid_pattern(html_path, ROBOTS_NOINDEX_PATTERN)
 
 
+def forbid_og_locale_alternates_in_html_tree(path):
+    for html_path in sorted(path.rglob('*.html')):
+        forbid_pattern(html_path, OG_LOCALE_ALTERNATE_PATTERN)
+
+
 def require_font_preloads(path, href_prefix):
     for subset, weight in (
         ('latin', 400),
@@ -177,6 +209,59 @@ def require_apkg(path):
         fail('APKG enhavas neniun karton: ' + str(path))
 
 
+def require_course_json_ld(path):
+    require_nonempty_file(path)
+    text = path.read_text(encoding='utf-8')
+    courses = []
+    for match in JSON_LD_SCRIPT_PATTERN.finditer(text):
+        try:
+            data = json.loads(match.group(1))
+        except json.JSONDecodeError as error:
+            fail('nevalida JSON-LD en ' + str(path) + ': ' + str(error))
+        if data.get('@type') == 'Course':
+            courses.append(data)
+
+    if len(courses) != 1:
+        fail('atendis unu Course JSON-LD en ' + str(path) + ', trovis ' + str(len(courses)))
+
+    course = courses[0]
+    expected_values = {
+        '@context': 'https://schema.org',
+        '@id': 'https://esperanto12.net/en/#course',
+        'name': 'Learn Esperanto in 12 Hours',
+        'url': 'https://esperanto12.net/en/',
+        'inLanguage': 'en',
+        'isAccessibleForFree': True,
+    }
+    for key, expected in expected_values.items():
+        if course.get(key) != expected:
+            fail(f'Course JSON-LD {key} estas {course.get(key)!r}, atendis {expected!r}')
+
+    if 'Learn the 500 most important words' not in course.get('description', ''):
+        fail('Course JSON-LD description ne enhavas atenditan resumon')
+
+    provider = course.get('provider')
+    if provider != {
+        '@type': 'Person',
+        'name': 'Georg Jähnig',
+        'sameAs': 'https://github.com/georgjaehnig/',
+    }:
+        fail('Course JSON-LD provider estas neatendita: ' + repr(provider))
+
+    parts = course.get('hasPart')
+    if not isinstance(parts, list) or len(parts) != 12:
+        fail('Course JSON-LD hasPart ne enhavas 12 lecionojn')
+    first_part = parts[0]
+    expected_first_part = {
+        '@type': 'LearningResource',
+        'position': 1,
+        'name': '01. Amiko Marko',
+        'url': 'https://esperanto12.net/en/01/',
+    }
+    if first_part != expected_first_part:
+        fail('Course JSON-LD unua leciono estas neatendita: ' + repr(first_part))
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--lingvo', required=True)
@@ -201,6 +286,8 @@ def main():
         output_dir / 'sitemap.xml',
         output_dir / 'llms.txt',
         lingvo_dir / 'index.html',
+        lingvo_dir / 'sitemap.xml',
+        output_dir / 'de' / 'sitemap.xml',
         lingvo_dir / 'llms.txt',
         lingvo_dir / 'llms-full.txt',
         output_dir / 'assets' / 'bundle.css',
@@ -218,8 +305,26 @@ def main():
 
     require_pattern(output_dir / 'robots.txt', ROBOTS_SITEMAP_PATTERN)
     forbid_pattern(output_dir / 'index.html', ROBOTS_NOINDEX_PATTERN)
+    require_pattern(output_dir / 'index.html', HREFLANG_EN_PATTERN)
+    require_pattern(output_dir / 'index.html', HREFLANG_DE_PATTERN)
+    require_pattern(output_dir / 'index.html', HREFLANG_X_DEFAULT_PATTERN)
+    require_pattern(output_dir / 'index.html', OG_LOCALE_ALTERNATE_DE_PATTERN)
     forbid_noindex_in_html_tree(lingvo_dir)
-    require_pattern(output_dir / 'sitemap.xml', SITEMAP_EN_PATTERN)
+    forbid_og_locale_alternates_in_html_tree(lingvo_dir)
+    require_pattern(output_dir / 'sitemap.xml', SITEMAP_ROOT_INDEX_PATTERN)
+    for pattern in SITEMAP_ROOT_LANGUAGE_PATTERNS.values():
+        require_pattern(output_dir / 'sitemap.xml', pattern)
+    forbid_pattern(output_dir / 'sitemap.xml', SITEMAP_ROOT_DIRECT_PAGE_PATTERN)
+    forbid_pattern(output_dir / 'sitemap.xml', SITEMAP_METADATA_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_URLSET_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_ROOT_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_LESSON_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_WORDS_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_GRAMMAR_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_EXERCISE_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_HREFLANG_SELF_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_HREFLANG_DE_PATTERN)
+    forbid_pattern(lingvo_dir / 'sitemap.xml', SITEMAP_METADATA_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_TITLE_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_EN_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_DE_PATTERN)
@@ -242,7 +347,7 @@ def main():
     require_pattern(lingvo_dir / 'index.html', OG_SITE_NAME_PATTERN)
     require_pattern(lingvo_dir / 'index.html', OG_DESCRIPTION_PATTERN)
     require_pattern(lingvo_dir / 'index.html', OG_LOCALE_EN_PATTERN)
-    require_pattern(lingvo_dir / 'index.html', OG_LOCALE_ALTERNATE_DE_PATTERN)
+    require_course_json_ld(lingvo_dir / 'index.html')
     require_pattern(lingvo_dir / '01' / 'index.html', CANONICAL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', OG_URL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', OG_AUDIO_PATTERN)

@@ -42,6 +42,7 @@ OG_SITE_NAME_PATTERN = re.compile(r'<meta property="og:site_name" content="Esper
 OG_DESCRIPTION_PATTERN = re.compile(r'<meta property="og:description" content="Learn the 500 most important words\. Understand 95 % of spoken Esperanto\. Free and no sign-up\.')
 OG_LOCALE_EN_PATTERN = re.compile(r'<meta property="og:locale" content="en_US" />')
 OG_LOCALE_ALTERNATE_DE_PATTERN = re.compile(r'<meta property="og:locale:alternate" content="de_DE" />')
+OG_LOCALE_ALTERNATE_PATTERN = re.compile(r'<meta property="og:locale:alternate"')
 OG_AUDIO_PATTERN = re.compile(r'<meta property="og:audio" content="https://esperanto12\.net/assets/ogg/01\.ogg" />')
 OG_AUDIO_SECURE_PATTERN = re.compile(r'<meta property="og:audio:secure_url" content="https://esperanto12\.net/assets/ogg/01\.ogg" />')
 OG_AUDIO_TYPE_PATTERN = re.compile(r'<meta property="og:audio:type" content="audio/ogg" />')
@@ -149,6 +150,11 @@ def forbid_noindex_in_html_tree(path):
         forbid_pattern(html_path, ROBOTS_NOINDEX_PATTERN)
 
 
+def forbid_og_locale_alternates_in_html_tree(path):
+    for html_path in sorted(path.rglob('*.html')):
+        forbid_pattern(html_path, OG_LOCALE_ALTERNATE_PATTERN)
+
+
 def require_font_preloads(path, href_prefix):
     for subset, weight in (
         ('latin', 400),
@@ -241,7 +247,12 @@ def main():
 
     require_pattern(output_dir / 'robots.txt', ROBOTS_SITEMAP_PATTERN)
     forbid_pattern(output_dir / 'index.html', ROBOTS_NOINDEX_PATTERN)
+    require_pattern(output_dir / 'index.html', HREFLANG_EN_PATTERN)
+    require_pattern(output_dir / 'index.html', HREFLANG_DE_PATTERN)
+    require_pattern(output_dir / 'index.html', HREFLANG_X_DEFAULT_PATTERN)
+    require_pattern(output_dir / 'index.html', OG_LOCALE_ALTERNATE_DE_PATTERN)
     forbid_noindex_in_html_tree(lingvo_dir)
+    forbid_og_locale_alternates_in_html_tree(lingvo_dir)
     require_pattern(output_dir / 'sitemap.xml', SITEMAP_ROOT_INDEX_PATTERN)
     for pattern in SITEMAP_ROOT_LANGUAGE_PATTERNS.values():
         require_pattern(output_dir / 'sitemap.xml', pattern)
@@ -278,7 +289,6 @@ def main():
     require_pattern(lingvo_dir / 'index.html', OG_SITE_NAME_PATTERN)
     require_pattern(lingvo_dir / 'index.html', OG_DESCRIPTION_PATTERN)
     require_pattern(lingvo_dir / 'index.html', OG_LOCALE_EN_PATTERN)
-    require_pattern(lingvo_dir / 'index.html', OG_LOCALE_ALTERNATE_DE_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', CANONICAL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', OG_URL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', OG_AUDIO_PATTERN)

@@ -527,6 +527,14 @@ sl:
   aŭtoroj:
     - nomo: Milan Jarnovič
       github: Mioli
+sq:
+  nomo:
+    fontlingve: Shqip
+    esperante: albana
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 sv:
   nomo:
     fontlingve: Svenska

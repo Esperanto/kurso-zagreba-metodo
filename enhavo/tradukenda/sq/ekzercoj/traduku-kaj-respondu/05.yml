@@ -1,0 +1,59 @@
+- demando: A mund të studiosh qetësisht ndërsa dikush këndon me gëzim?
+  rektatraduko:
+  - Ĉu: A
+  - vi: ti/ju
+  - povas: mund
+  - trankvile: qetësisht
+  - lerni: të mësosh
+  - ','
+  - dum: gjatë
+  - iu: dikush
+  - ĝoje: me gëzim
+  - kantas: këndon
+  - '?'
+- demando: Kush e di kur dhe ku do të shihemi përsëri?
+  rektatraduko:
+  - Kiu: Kush
+  - scias: di
+  - ','
+  - kiam: kur
+  - kaj: dhe
+  - kie: ku
+  - ni: ne
+  - revidos: do të shoh përsëri
+  - nin: ne
+  - '?'
+- demando: Sa është ora tani?
+  rektatraduko:
+  - Kioma: Sa
+  - horo: orë
+  - estas: është
+  - nun: tani
+  - '?'
+- demando: A të ndihmoi dikush të hapësh derën e shtëpisë së vjetër?
+  rektatraduko:
+  - Ĉu: A
+  - iu: dikush
+  - helpis: ndihmoi
+  - al: te
+  - vi: ti/ju
+  - malfermi: të hapësh
+  - la: nyja e shquar
+  - pordon: derën
+  - de: i/e
+  - la: nyja e shquar
+  - malnova: e vjetër
+  - domo: shtëpi
+  - '?'
+- demando: Pse nuk ke kohë të më dëgjosh më gjatë?
+  rektatraduko:
+  - Kial: Pse
+  - vi: ti/ju
+  - ne: nuk
+  - havas: ka
+  - tempon: kohë
+  - aŭskulti: të dëgjosh
+  - min: mua
+  - pli: më
+  - longe: gjatë
+  - '?'

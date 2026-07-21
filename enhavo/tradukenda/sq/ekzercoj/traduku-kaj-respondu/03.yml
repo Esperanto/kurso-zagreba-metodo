@@ -1,0 +1,72 @@
+- demando: A kuptojnë kamarierët në hotele të mëdha shumë gjuhë?
+  rektatraduko:
+  - Ĉu: A
+  - kelneroj: kamarierë
+  - en: në
+  - grandaj: të mëdhenj
+  - hoteloj: hotele
+  - komprenas: kuptojnë
+  - multajn: shumë
+  - lingvojn: gjuhë
+  - '?'
+- demando: A e di nëse Anës i pëlqen kënga e re për një burrë të varfër dhe një grua të bukur?
+  rektatraduko:
+  - Ĉu: A
+  - vi: ti/ju
+  - scias: di
+  - ','
+  - ĉu: a
+  - Ana: Ana
+  - ŝatas: i pëlqen
+  - la: nyja e shquar
+  - novan: të ri
+  - kanton: këngën
+  - pri: për
+  - malriĉulo: i varfër
+  - kaj: dhe
+  - belulino: grua e bukur
+  - '?'
+- demando: Ku pe një plak dhe një të ri që mbanin një tryezë të madhe?
+  rektatraduko:
+  - Kie: Ku
+  - vi: ti/ju
+  - vidis: pe
+  - la: nyja e shquar
+  - maljunulon: plakun
+  - kaj: dhe
+  - la: nyja e shquar
+  - junulon: të riun
+  - ','
+  - kiuj: që
+  - portis: mbanin
+  - grandan: të madh
+  - tablon: tryezën
+  - '?'
+- demando: Si përfundove duke ardhur përsëri te ne pa vëllezërit e motrat e tua?
+  rektatraduko:
+  - Kiel: Si
+  - okazis: ndodhi
+  - ','
+  - ke: që
+  - vi: ti/ju
+  - denove: përsëri
+  - venis: erdhi
+  - al: te
+  - ni: ne
+  - sen: pa
+  - gefratoj: vëllezër e motra
+  - '?'
+- demando: A mund ta mësosh Esperanton mjaft shpejt me librin e ri?
+  rektatraduko:
+  - Ĉu: A
+  - vi: ti/ju
+  - povas: mund
+  - per: me
+  - la: nyja e shquar
+  - nova: e re
+  - lernolibro: libër mësimi
+  - sufiĉe: mjaft
+  - rapide: shpejt
+  - lerni: të mësosh
+  - Esperanton: Esperanton
+  - '?'

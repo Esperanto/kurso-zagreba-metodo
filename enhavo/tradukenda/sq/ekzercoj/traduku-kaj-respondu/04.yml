@@ -1,0 +1,67 @@
+- demando: Kur do të të shoh përsëri?
+  rektatraduko:
+  - Kiam: Kur
+  - mi: unë
+  - revidos: do të shoh përsëri
+  - vin: ty/ju
+  - '?'
+- demando: Sa kohë po mëson gjuhën ndërkombëtare?
+  rektatraduko:
+  - Kiom: Sa
+  - longe: gjatë
+  - vi: ti/ju
+  - lernas: mëson
+  - la: nyja e shquar
+  - Internacian: Ndërkombëtare
+  - Lingvon: Gjuhën
+  - '?'
+- demando: Ku është libri im i ri me fotografi?
+  rektatraduko:
+  - Kie: Ku
+  - estas: është
+  - mia: im/ime
+  - nova: e re
+  - libro: libër
+  - kun: me
+  - fotoj: foto
+  - '?'
+- demando: Ku do të shkosh pas drekës?
+  rektatraduko:
+  - Kien: Ku
+  - vi: ti/ju
+  - iros: do të shkojë
+  - post: pas
+  - la: nyja e shquar
+  - tagmanĝo: drekë
+  - '?'
+- demando: A mund ta mbyllësh derën e dhomës kur është ftohtë?
+  rektatraduko:
+  - Ĉu: A
+  - oni: dikush
+  - povas: mund
+  - fermi: të mbyllësh
+  - la: nyja e shquar
+  - pordon: derën
+  - de: i/e
+  - la: nyja e shquar
+  - ĉambro: dhomë
+  - ','
+  - kiam: kur
+  - estas: është
+  - malvarme: ftohtë
+  - '?'
+- demando: Sa gjatë zemërohesh nëse dikush të merr shumë para?
+  rektatraduko:
+  - Kiom: Sa
+  - longe: gjatë
+  - vi: ti/ju
+  - koleras: zemërohesh
+  - ','
+  - se: nëse
+  - oni: dikush
+  - forprenas: merr larg
+  - de: i/e
+  - vi: ti/ju
+  - multan: shumë
+  - monon: para
+  - '?'

@@ -1,0 +1,51 @@
+- demando: Kush është shoqja jote?
+  rektatraduko:
+  - Kiu: Kush
+  - estas: është
+  - via: yt/jote
+  - amikino: shoqe
+  - '?'
+- demando: A po shkruan tani Ana, shoqja jote, në dhomë?
+  rektatraduko:
+  - Ĉu: A
+  - via: yt/jote
+  - amikino: shoqe
+  - Ana: Ana
+  - skribas: shkruan
+  - nun: tani
+  - en: në
+  - la: nyja e shquar
+  - ĉambro: dhomë
+  - '?'
+- demando: A punon miku i babait tënd në hotel?
+  rektatraduko:
+  - Ĉu: A
+  - la: nyja e shquar
+  - amiko: mik
+  - de: i/e
+  - via: yt/jote
+  - patro: baba
+  - laboras: punon
+  - en: në
+  - hotelo: hotel
+  - '?'
+- demando: Çfarë është mbi tryezën e punës në dhomën tonë?
+  rektatraduko:
+  - Kio: Çfarë
+  - estas: është
+  - sur: mbi
+  - la: nyja e shquar
+  - labortablo: tryezë pune
+  - en: në
+  - nia: jonë
+  - ĉambro: dhomë
+  - '?'
+- demando: A ka një libër mësimi të Esperantos mbi tryezën tënde?
+  rektatraduko:
+  - Ĉu: A
+  - Esperanto-lernolibro: libër mësimi i Esperantos
+  - estas: është
+  - sur: mbi
+  - via: yt/jote
+  - tablo: tryezë
+  - '?'

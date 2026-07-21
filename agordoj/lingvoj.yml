@@ -314,6 +314,8 @@ km:
   aŭtoroj:
     - nomo: Onklo ENG
       github: onklo
+    - nomo: OpenAI
+      github: openai
 ko:
   nomo:
     fontlingve: 한국어

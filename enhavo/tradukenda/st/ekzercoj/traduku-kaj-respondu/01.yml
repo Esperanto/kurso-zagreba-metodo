@@ -1,0 +1,51 @@
+- demando: Motswalle wa hao ke mang?
+  rektatraduko:
+  - Kiu: Mang
+  - estas: ke
+  - via: hao
+  - amikino: motswalle wa mosadi
+  - '?'
+- demando: Na motswalle wa hao Ana o ngola ka kamoreng jwale?
+  rektatraduko:
+  - Ĉu: Na
+  - via: hao
+  - amikino: motswalle wa mosadi
+  - Ana: Ana
+  - skribas: o ngola
+  - nun: jwale
+  - en: ka
+  - la: e itseng
+  - ĉambro: kamore
+  - '?'
+- demando: Na motswalle wa ntate wa hao o sebetsa hoteleng?
+  rektatraduko:
+  - Ĉu: Na
+  - la: e itseng
+  - amiko: motswalle
+  - de: ya
+  - via: hao
+  - patro: ntate
+  - laboras: o sebetsa
+  - en: ka
+  - hotelo: hotele
+  - '?'
+- demando: Ho na le eng hodima tafole ya mosebetsi ka kamoreng ya rona?
+  rektatraduko:
+  - Kio: Eng
+  - estas: ke
+  - sur: hodima
+  - la: e itseng
+  - labortablo: tafole ya mosebetsi
+  - en: ka
+  - nia: ya rona
+  - ĉambro: kamore
+  - '?'
+- demando: Na ho na le buka ya ho ithuta Esperanto hodima tafole ya hao?
+  rektatraduko:
+  - Ĉu: Na
+  - Esperanto-lernolibro: buka ya ho ithuta Esperanto
+  - estas: ke
+  - sur: hodima
+  - via: hao
+  - tablo: tafole
+  - '?'

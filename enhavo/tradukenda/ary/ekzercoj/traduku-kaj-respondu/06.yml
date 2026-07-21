@@ -1,0 +1,68 @@
+- demando: واش باغي نوريك أحدث كتاب عندي؟
+  rektatraduko:
+  - Ĉu: واش
+  - vi: نتا
+  - deziras: باغي
+  - ','
+  - ke: بلّي
+  - mi: أنا
+  - montru: نوري
+  - al: لـ
+  - vi: نتا
+  - mian: ديالي
+  - plej: الأكثر
+  - novan: جديد
+  - libron: كتاب
+  - '?'
+- demando: شنو باغي تفطر غدا؟
+  rektatraduko:
+  - Kion: شنو
+  - vi: نتا
+  - volas: باغي
+  - morgaŭ: غدا
+  - matenmanĝi: تفطر
+  - '?'
+- demando: فوقاش غادي يوصل ماركو، فالخامسة ولا فالثامنة؟
+  rektatraduko:
+  - Kiam: فوقاش
+  - Marko: ماركو
+  - alvenos: غادي يوصل
+  - ','
+  - je: فـ
+  - la: الـ
+  - kvina: خامسة
+  - aŭ: ولا
+  - je: فـ
+  - la: الـ
+  - oka: ثامنة
+  - horo: ساعة
+  - '?'
+- demando: فوقاش لاحظتي بلّي العائلة كاملة كيسميوني فاعل الخير؟
+  rektatraduko:
+  - Kiam: فوقاش
+  - vi: نتا
+  - rimarkis: لاحظتي
+  - ','
+  - ke: بلّي
+  - la: الـ
+  - tuta: كاملة
+  - familio: عائلة
+  - nomas: كتسمي
+  - min: أنا
+  - bonfarulo: فاعل الخير
+  - '?'
+- demando: واش الكتيب اللي صيفطت ليك كان نافع؟
+  rektatraduko:
+  - Ĉu: واش
+  - la: الـ
+  - libreto: كتيب
+  - ','
+  - kiun: اللي
+  - mi: أنا
+  - sendis: صيفطت (أنا)
+  - al: لـ
+  - vi: نتا
+  - ','
+  - estis: كان
+  - utila: نافع
+  - '?'

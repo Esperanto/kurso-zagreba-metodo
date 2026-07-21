@@ -6,7 +6,7 @@
   - kuirejon: kuchnię
   - post: po
   - la: (przedimek określony)
-  - tagmanĝo: obiedzie
+  - tagmanĝo: obiad
   - '?'
 - demando: 'Czego chcesz się napić: herbaty, kawy czy niczego?'
   rektatraduko:
@@ -40,7 +40,7 @@
 - demando: Komu dałeś czyste szklanki na wino?
   rektatraduko:
   - Al: Do
-  - kiu: kogo
+  - kiu: kto
   - vi: ty
   - donis: dałeś
   - la: (przedimek określony)
@@ -52,8 +52,8 @@
   - '?'
 - demando: Przeciwko komu grał twój klub sportowy dwa tygodnie temu?
   rektatraduko:
-  - Kontraŭ: Przeciwko
-  - kiu: komu
+  - Kontraŭ: Przeciw
+  - kiu: kto
   - ludis: grał
   - via: twój
   - sportklubo: klub sportowy

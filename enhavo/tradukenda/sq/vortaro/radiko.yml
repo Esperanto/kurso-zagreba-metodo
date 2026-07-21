@@ -70,7 +70,7 @@ fakt: fakt
 fal: të bie
 famili: familje
 far: të bëj
-fart: të ndihesh
+fart: të ndihem
 feliĉ: i lumtur
 ferm: të mbyll
 fin:
@@ -209,9 +209,7 @@ pac: paqe
 pag: të paguaj
 pan: bukë
 paper: letër
-pardon:
-- të falësh
-- të kërkosh falje
+pardon: të falësh
 parol: të flas
 part: pjesë
 pas: të kaloj

@@ -535,6 +535,14 @@ sq:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+st:
+  nomo:
+    fontlingve: Sesotho
+    esperante: sota
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 sv:
   nomo:
     fontlingve: Svenska

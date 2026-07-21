@@ -15,13 +15,13 @@
   - kaj: dhe
   - ĉu: a
   - ili: ata/ato
-  - estas: është
+  - estas: janë
   - bonaj: të mirë
   - '?'
 - demando: Çfarë bënë Ana dhe Marko në dhomën e vogël të Markos?
   rektatraduko:
   - Kion: Çfarë
-  - faris: bëri
+  - faris: bënë
   - Ana: Ana
   - kaj: dhe
   - Marko: Marko
@@ -54,8 +54,8 @@
   - '?'
 - demando: Si janë sytë e mikut tënd?
   rektatraduko:
-  - Kiaj: Çfarë lloj
-  - estas: është
+  - Kiaj: Si
+  - estas: janë
   - la: nyja e shquar
   - okuloj: sy
   - de: i/e

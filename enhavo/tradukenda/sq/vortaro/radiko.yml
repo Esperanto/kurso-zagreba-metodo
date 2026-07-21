@@ -19,7 +19,9 @@ atent: të kushtoj vëmendje
 aĉet: të blej
 aŭd: të dëgjoj
 aŭskult: të dëgjoj me vëmendje
-aŭt: makinë
+aŭt:
+- automobil
+- makinë
 aŭtoritat: autoritet
 bedaŭr:
 - të pendohem
@@ -45,7 +47,7 @@ dimanĉ: e diel
 dir: të them
 direkt: të drejtoj
 divers: i ndryshëm
-doktor: doktor
+doktor: mjek
 dolar: dollar
 dolor:
 - dhimbje
@@ -68,7 +70,7 @@ fakt: fakt
 fal: të bie
 famili: familje
 far: të bëj
-fart: të ndihem
+fart: të ndihesh
 feliĉ: i lumtur
 ferm: të mbyll
 fin:
@@ -207,7 +209,9 @@ pac: paqe
 pag: të paguaj
 pan: bukë
 paper: letër
-pardon: të fal
+pardon:
+- të falësh
+- të kërkosh falje
 parol: të flas
 part: pjesë
 pas: të kaloj
@@ -295,7 +299,9 @@ sport: sport
 star: të qëndroj
 strat: rrugë
 subit: i papritur
-sufiĉ: mjaft
+sufiĉ:
+- i mjaftueshëm
+- mjaft
 suk: lëng
 sukces:
 - sukses

@@ -310,10 +310,12 @@ km:
   nomo:
     fontlingve: ភាសាខ្មែរ
     esperante: kmera
-  stato: testa
+  stato: preta
   aŭtoroj:
     - nomo: Onklo ENG
       github: onklo
+    - nomo: OpenAI
+      github: openai
 ko:
   nomo:
     fontlingve: 한국어

@@ -51,7 +51,28 @@ ROBOTS_NOINDEX_PATTERN = re.compile(
     r'<meta\s+name=["\']robots["\']\s+content=["\'][^"\']*\bnoindex\b',
     re.I,
 )
-SITEMAP_EN_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/</loc>')
+SITEMAP_ROOT_INDEX_PATTERN = re.compile(r'<sitemapindex\b')
+SITEMAP_ROOT_LANGUAGE_PATTERNS = {
+    kodo: re.compile(r'<loc>https://esperanto12\.net/' + re.escape(kodo) + r'/sitemap\.xml</loc>')
+    for kodo in ('en', 'de', 'fr', 'ru', 'pt', 'zh', 'es')
+}
+SITEMAP_ROOT_DIRECT_PAGE_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/</loc>')
+SITEMAP_METADATA_PATTERN = re.compile(r'<(?:priority|changefreq)>')
+LINGVA_SITEMAP_URLSET_PATTERN = re.compile(
+    r'<urlset\b[^>]*xmlns="http://www\.sitemaps\.org/schemas/sitemap/0\.9"'
+    r'[^>]*xmlns:xhtml="http://www\.w3\.org/1999/xhtml"',
+)
+LINGVA_SITEMAP_EN_ROOT_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/</loc>')
+LINGVA_SITEMAP_EN_LESSON_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/</loc>')
+LINGVA_SITEMAP_EN_WORDS_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/vortoj/</loc>')
+LINGVA_SITEMAP_EN_GRAMMAR_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/gramatiko/</loc>')
+LINGVA_SITEMAP_EN_EXERCISE_PATTERN = re.compile(r'<loc>https://esperanto12\.net/en/01/ekzerco1/</loc>')
+LINGVA_SITEMAP_EN_HREFLANG_SELF_PATTERN = re.compile(
+    r'<xhtml:link\b[^>]*hreflang="en"[^>]*href="https://esperanto12\.net/en/01/"',
+)
+LINGVA_SITEMAP_EN_HREFLANG_DE_PATTERN = re.compile(
+    r'<xhtml:link\b[^>]*hreflang="de"[^>]*href="https://esperanto12\.net/de/01/"',
+)
 LLMS_ROOT_TITLE_PATTERN = re.compile(r'^# Esperanto12\.net$', re.M)
 LLMS_ROOT_EN_PATTERN = re.compile(r'https://esperanto12\.net/en/llms\.txt\)')
 LLMS_ROOT_DE_PATTERN = re.compile(r'https://esperanto12\.net/de/llms\.txt\)')
@@ -201,6 +222,8 @@ def main():
         output_dir / 'sitemap.xml',
         output_dir / 'llms.txt',
         lingvo_dir / 'index.html',
+        lingvo_dir / 'sitemap.xml',
+        output_dir / 'de' / 'sitemap.xml',
         lingvo_dir / 'llms.txt',
         lingvo_dir / 'llms-full.txt',
         output_dir / 'assets' / 'bundle.css',
@@ -219,7 +242,20 @@ def main():
     require_pattern(output_dir / 'robots.txt', ROBOTS_SITEMAP_PATTERN)
     forbid_pattern(output_dir / 'index.html', ROBOTS_NOINDEX_PATTERN)
     forbid_noindex_in_html_tree(lingvo_dir)
-    require_pattern(output_dir / 'sitemap.xml', SITEMAP_EN_PATTERN)
+    require_pattern(output_dir / 'sitemap.xml', SITEMAP_ROOT_INDEX_PATTERN)
+    for pattern in SITEMAP_ROOT_LANGUAGE_PATTERNS.values():
+        require_pattern(output_dir / 'sitemap.xml', pattern)
+    forbid_pattern(output_dir / 'sitemap.xml', SITEMAP_ROOT_DIRECT_PAGE_PATTERN)
+    forbid_pattern(output_dir / 'sitemap.xml', SITEMAP_METADATA_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_URLSET_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_ROOT_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_LESSON_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_WORDS_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_GRAMMAR_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_EXERCISE_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_HREFLANG_SELF_PATTERN)
+    require_pattern(lingvo_dir / 'sitemap.xml', LINGVA_SITEMAP_EN_HREFLANG_DE_PATTERN)
+    forbid_pattern(lingvo_dir / 'sitemap.xml', SITEMAP_METADATA_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_TITLE_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_EN_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_DE_PATTERN)

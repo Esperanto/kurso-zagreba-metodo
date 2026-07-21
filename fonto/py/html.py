@@ -28,6 +28,7 @@ SITE_NAME = 'Esperanto12.net'
 SITE_URL = 'https://esperanto12.net'
 GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
+XHTML_NS = 'http://www.w3.org/1999/xhtml'
 ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
 LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
 OG_LOCALE_OVERRIDES = {
@@ -82,6 +83,7 @@ LLMS_FULL_PRINTENDAJ = {
 BUILD_TIME = None
 
 ET.register_namespace('', SITEMAP_NS)
+ET.register_namespace('xhtml', XHTML_NS)
 
 
 class AnkrohavaHTMLRenderer(mistune.HTMLRenderer):
@@ -328,32 +330,48 @@ def sitemap_relativaj_vojoj():
             yield i_padded + '/' + tab_vojo
 
 
-def aldonu_sitemap_url(urlset, loc):
+def aldonu_sitemap_url(urlset, loc, alternaj=None):
     url = ET.SubElement(urlset, ET.QName(SITEMAP_NS, 'url'))
     ET.SubElement(url, ET.QName(SITEMAP_NS, 'loc')).text = loc
+    for alterna in alternaj or []:
+        ET.SubElement(url, ET.QName(XHTML_NS, 'link'), {
+            'rel': 'alternate',
+            'hreflang': alterna['hreflang'],
+            'href': alterna['url'],
+        })
 
 
-def render_sitemap(lingvoj, generitaj_lingvoj):
-    sitemap_lingvoj = [
-        kodo
-        for kodo in sorted(generitaj_lingvoj)
-        if lingvoj[kodo].get('stato') == 'preta'
-    ]
+def aldonu_sitemap_indekseron(sitemapindex, loc):
+    sitemap = ET.SubElement(sitemapindex, ET.QName(SITEMAP_NS, 'sitemap'))
+    ET.SubElement(sitemap, ET.QName(SITEMAP_NS, 'loc')).text = loc
+
+
+def render_sitemap_index(lingvoj):
+    sitemapindex = ET.Element(ET.QName(SITEMAP_NS, 'sitemapindex'))
+
+    for lingvo in pretaj_lingvokodoj(lingvoj):
+        aldonu_sitemap_indekseron(
+            sitemapindex,
+            lingva_dosiero_url(lingvo, 'sitemap.xml'),
+        )
+
+    return ET.tostring(sitemapindex, encoding='unicode', xml_declaration=True)
+
+
+def render_lingva_sitemap(lingvoj, lingvo):
     urlset = ET.Element(ET.QName(SITEMAP_NS, 'urlset'))
 
-    aldonu_sitemap_url(urlset, absoluta_url('/'))
-
     for relativa_vojo in sitemap_relativaj_vojoj():
-        for lingvo in sitemap_lingvoj:
-            aldonu_sitemap_url(
-                urlset,
-                absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
-            )
+        aldonu_sitemap_url(
+            urlset,
+            absoluta_url(lingva_vojo(lingvo, relativa_vojo)),
+            alternaj_ligiloj(lingvoj, relativa_vojo),
+        )
 
     return ET.tostring(urlset, encoding='unicode', xml_declaration=True)
 
 
-def generate_seo_files(lingvoj, generitaj_lingvoj):
+def generate_seo_files(lingvoj):
     write_file(
         OUTPUT_DIR / 'robots.txt',
         'User-agent: *\n'
@@ -362,8 +380,13 @@ def generate_seo_files(lingvoj, generitaj_lingvoj):
     )
     write_file(
         OUTPUT_DIR / 'sitemap.xml',
-        render_sitemap(lingvoj, generitaj_lingvoj),
+        render_sitemap_index(lingvoj),
     )
+    for lingvo in pretaj_lingvokodoj(lingvoj):
+        write_file(
+            OUTPUT_DIR / lingvo / 'sitemap.xml',
+            render_lingva_sitemap(lingvoj, lingvo),
+        )
 
 
 def kursa_titolo(enhavo):

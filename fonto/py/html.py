@@ -29,6 +29,11 @@ SITE_URL = 'https://esperanto12.net'
 GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 XHTML_NS = 'http://www.w3.org/1999/xhtml'
+COURSE_PROVIDER = {
+    '@type': 'Person',
+    'name': 'Georg Jähnig',
+    'sameAs': 'https://github.com/georgjaehnig/',
+}
 ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
 LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
 OG_LOCALE_OVERRIDES = {
@@ -369,6 +374,38 @@ def render_lingva_sitemap(lingvoj, lingvo):
         )
 
     return ET.tostring(urlset, encoding='unicode', xml_declaration=True)
+
+
+def lingva_startpagxa_titolo(enhavo):
+    return (
+        enhavo['fasado'].get('Lerni Esperanto en 12 horoj')
+        or enhavo['fasado'].get('Lerni Esperanton en 12 lecionoj')
+        or enhavo['fasado']['Lerni Esperanton']
+    )
+
+
+def lingva_kursa_json_ld(enhavo, enkonduko):
+    lingvo = enhavo['lingvo']
+    return {
+        '@context': 'https://schema.org',
+        '@type': 'Course',
+        '@id': absoluta_url(lingva_vojo(lingvo)) + '#course',
+        'name': lingva_startpagxa_titolo(enhavo),
+        'description': meta_description_from_markdown(enkonduko),
+        'url': absoluta_url(lingva_vojo(lingvo)),
+        'inLanguage': lingvo,
+        'isAccessibleForFree': True,
+        'provider': dict(COURSE_PROVIDER),
+        'hasPart': [
+            {
+                '@type': 'LearningResource',
+                'position': index,
+                'name': str(index).zfill(2) + '. ' + leciono['teksto']['titolo_string'],
+                'url': absoluta_url(lingva_vojo(lingvo, str(index).zfill(2) + '/')),
+            }
+            for index, leciono in enumerate(enhavo['lecionoj'], start=1)
+        ],
+    }
 
 
 def generate_seo_files(lingvoj):
@@ -894,6 +931,7 @@ def generate_html(
         lingvoelektilo_vojprefikso=lingvoelektilo_vojprefikso,
         redaktaj_ligiloj=redaktaj_ligiloj(lingvo),
         seo=seo_datenoj(enhavo),
+        kursa_json_ld=lingva_kursa_json_ld(enhavo, enkonduko),
         tabs=tabs,
     )
 

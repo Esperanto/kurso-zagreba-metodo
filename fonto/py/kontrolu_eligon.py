@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import argparse
+import json
 import re
 import sqlite3
 import tempfile
@@ -89,6 +90,10 @@ LLMS_FULL_LESSON_12_PATTERN = re.compile(r'Nokta\s+promeno')
 RAW_TEMPLATE_PATTERN = re.compile(r'\{\{[^}]+\}\}')
 FONT_DISPLAY_OPTIONAL_PATTERN = re.compile(r'font-display:optional')
 FONT_DISPLAY_SWAP_PATTERN = re.compile(r'font-display:\s*swap')
+JSON_LD_SCRIPT_PATTERN = re.compile(
+    r'<script type="application/ld\+json">\s*(.*?)\s*</script>',
+    re.S,
+)
 
 
 def fail(message):
@@ -204,6 +209,59 @@ def require_apkg(path):
         fail('APKG enhavas neniun karton: ' + str(path))
 
 
+def require_course_json_ld(path):
+    require_nonempty_file(path)
+    text = path.read_text(encoding='utf-8')
+    courses = []
+    for match in JSON_LD_SCRIPT_PATTERN.finditer(text):
+        try:
+            data = json.loads(match.group(1))
+        except json.JSONDecodeError as error:
+            fail('nevalida JSON-LD en ' + str(path) + ': ' + str(error))
+        if data.get('@type') == 'Course':
+            courses.append(data)
+
+    if len(courses) != 1:
+        fail('atendis unu Course JSON-LD en ' + str(path) + ', trovis ' + str(len(courses)))
+
+    course = courses[0]
+    expected_values = {
+        '@context': 'https://schema.org',
+        '@id': 'https://esperanto12.net/en/#course',
+        'name': 'Learn Esperanto in 12 Hours',
+        'url': 'https://esperanto12.net/en/',
+        'inLanguage': 'en',
+        'isAccessibleForFree': True,
+    }
+    for key, expected in expected_values.items():
+        if course.get(key) != expected:
+            fail(f'Course JSON-LD {key} estas {course.get(key)!r}, atendis {expected!r}')
+
+    if 'Learn the 500 most important words' not in course.get('description', ''):
+        fail('Course JSON-LD description ne enhavas atenditan resumon')
+
+    provider = course.get('provider')
+    if provider != {
+        '@type': 'Person',
+        'name': 'Georg Jähnig',
+        'sameAs': 'https://github.com/georgjaehnig/',
+    }:
+        fail('Course JSON-LD provider estas neatendita: ' + repr(provider))
+
+    parts = course.get('hasPart')
+    if not isinstance(parts, list) or len(parts) != 12:
+        fail('Course JSON-LD hasPart ne enhavas 12 lecionojn')
+    first_part = parts[0]
+    expected_first_part = {
+        '@type': 'LearningResource',
+        'position': 1,
+        'name': '01. Amiko Marko',
+        'url': 'https://esperanto12.net/en/01/',
+    }
+    if first_part != expected_first_part:
+        fail('Course JSON-LD unua leciono estas neatendita: ' + repr(first_part))
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--lingvo', required=True)
@@ -289,6 +347,7 @@ def main():
     require_pattern(lingvo_dir / 'index.html', OG_SITE_NAME_PATTERN)
     require_pattern(lingvo_dir / 'index.html', OG_DESCRIPTION_PATTERN)
     require_pattern(lingvo_dir / 'index.html', OG_LOCALE_EN_PATTERN)
+    require_course_json_ld(lingvo_dir / 'index.html')
     require_pattern(lingvo_dir / '01' / 'index.html', CANONICAL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', OG_URL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', OG_AUDIO_PATTERN)

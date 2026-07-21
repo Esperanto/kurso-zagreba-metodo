@@ -80,7 +80,7 @@ havigi: dostarczać
 havindan: godny posiadania
 homformo: kształt człowieka
 hommulton: tłum ludzi
-ideoriĉan: o bujnej wyobraźni
+ideoriĉan: pomysłowego
 industriisto: przemysłowiec
 instruistino: nauczycielka
 instruiston: nauczyciela
@@ -127,7 +127,7 @@ malbonaj: źli
 malbonajn: złych
 malbonan: złego
 malbono: zło
-malfacilan: trudny
+malfacilan: trudnego
 malfacile: trudno
 malfeliĉo: nieszczęście
 malforta: słaby
@@ -151,7 +151,7 @@ malnova: stary
 malnovaj: stare
 malofte: rzadko
 malplaĉa: nieprzyjemny
-malplaĉan: nieprzyjemny
+malplaĉan: nieprzyjemnego
 malproksime: daleko
 malsaniĝis: zachorował
 malsaĝa: głupi
@@ -256,7 +256,9 @@ vestaĵojn: ubrania
 vestaĵon: ubranie
 veturado:
 - jazda
-veturigus: zawiózłby, przewiózłby
+veturigus:
+- zawiózłby
+- przewiózłby
 viaj: twoje
 virino: kobieta
 vojaĝantoj: podróżnicy

@@ -82,14 +82,6 @@
         {{pwa_mana_instalo_teksto}}
       </div>
     {% endif %}
-    {% if enhavo.beta_averto %}
-      <div class="lingva-startpagxo-beta-averto" role="note">
-        <span class="lingva-startpagxo-beta-averto-ikono" aria-hidden="true">⚠️</span>
-        <div class="lingva-startpagxo-beta-averto-teksto">
-          {{enhavo.beta_averto|markdown}}
-        </div>
-      </div>
-    {% endif %}
   </div>
 
   {% if enhavo.post %}
@@ -99,6 +91,14 @@
       </a>
     </p>
   {%- endif %}
+
+  {% if enhavo.beta_averto %}
+    <div class="lingva-startpagxo-beta-averto" role="note">
+      <div class="lingva-startpagxo-beta-averto-teksto">
+        {{('<span class="lingva-startpagxo-beta-averto-ikono" aria-hidden="true">⚠️</span> ' ~ enhavo.beta_averto)|markdown}}
+      </div>
+    </div>
+  {% endif %}
 
 </div>
 

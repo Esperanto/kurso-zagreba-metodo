@@ -17,6 +17,7 @@ import mistune
 from .ankroj import forigu_html, unika_ankro
 from . import md as md_generilo
 from . import pwa
+from .statusoj import estas_beta_lingvo, estas_publika_lingvo
 
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
@@ -27,8 +28,13 @@ OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
 SITE_NAME = 'Esperanto12.net'
 SITE_URL = 'https://esperanto12.net'
 GITHUB_CONTENT_BASE = 'https://github.com/Esperanto/kurso-zagreba-metodo'
+URL_KONTAKTO = 'https://demandilo.typeform.com/to/wJxiycNC'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 XHTML_NS = 'http://www.w3.org/1999/xhtml'
+BETA_AVERTO_KLAVO = (
+    'Ĉi tiu lingvo estis AI-tradukita. Se vi vidas erarojn, '
+    '[bonvolu informi nin]({{ url_kontakto }}).'
+)
 COURSE_PROVIDER = {
     '@type': 'Person',
     'name': 'Georg Jähnig',
@@ -139,7 +145,7 @@ def markdown_link(label, url, description=None):
 
 
 def meta_description_from_markdown(text):
-    text = re.sub(r'\{\{\s*url\.[^}]+\s*\}\}', '', text)
+    text = re.sub(r'\{\{\s*url(?:\.[^}]+|_[^}]+)\s*\}\}', '', text)
     text = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text)
 
     partoj = []
@@ -209,11 +215,11 @@ def absoluta_url(vojo):
     return SITE_URL + vojo
 
 
-def pretaj_lingvokodoj(lingvoj):
+def publikaj_lingvokodoj(lingvoj):
     return [
         kodo
         for kodo, lingvo in sorted(lingvoj.items())
-        if lingvo.get('stato') == 'preta'
+        if estas_publika_lingvo(lingvo)
     ]
 
 
@@ -227,7 +233,7 @@ def alternaj_og_localej(lingvoj, nuna_lingvo):
         locale
         for locale in [
             og_locale(kodo)
-            for kodo in pretaj_lingvokodoj(lingvoj)
+            for kodo in publikaj_lingvokodoj(lingvoj)
         ]
         if locale != nuna_locale
     ]
@@ -257,7 +263,7 @@ def alternaj_ligiloj(lingvoj, relativa_vojo, inkluzivu_x_default=True):
             'hreflang': kodo,
             'url': absoluta_url(lingva_vojo(kodo, relativa_vojo)),
         }
-        for kodo in pretaj_lingvokodoj(lingvoj)
+        for kodo in publikaj_lingvokodoj(lingvoj)
     ]
     if inkluzivu_x_default:
         alternaj.append({
@@ -271,7 +277,7 @@ def seo_datenoj(enhavo, relativa_vojo='', og_audio=None):
     lingvo = enhavo['lingvo']
     stato = enhavo['lingvoj'][lingvo].get('stato')
     alternaj = []
-    if stato == 'preta':
+    if estas_publika_lingvo(enhavo['lingvoj'][lingvo]):
         alternaj = alternaj_ligiloj(enhavo['lingvoj'], relativa_vojo)
 
     meta_description = meta_description_from_markdown(enhavo['enkonduko'])
@@ -284,7 +290,7 @@ def seo_datenoj(enhavo, relativa_vojo='', og_audio=None):
         'og_locale': og_locale(lingvo),
         'og_locale_alternativoj': (
             alternaj_og_localej(enhavo['lingvoj'], lingvo)
-            if stato == 'preta'
+            if estas_publika_lingvo(enhavo['lingvoj'][lingvo])
             else []
         ),
         'og_description': meta_description,
@@ -354,7 +360,7 @@ def aldonu_sitemap_indekseron(sitemapindex, loc):
 def render_sitemap_index(lingvoj):
     sitemapindex = ET.Element(ET.QName(SITEMAP_NS, 'sitemapindex'))
 
-    for lingvo in pretaj_lingvokodoj(lingvoj):
+    for lingvo in publikaj_lingvokodoj(lingvoj):
         aldonu_sitemap_indekseron(
             sitemapindex,
             lingva_dosiero_url(lingvo, 'sitemap.xml'),
@@ -419,7 +425,7 @@ def generate_seo_files(lingvoj):
         OUTPUT_DIR / 'sitemap.xml',
         render_sitemap_index(lingvoj),
     )
-    for lingvo in pretaj_lingvokodoj(lingvoj):
+    for lingvo in publikaj_lingvokodoj(lingvoj):
         write_file(
             OUTPUT_DIR / lingvo / 'sitemap.xml',
             render_lingva_sitemap(lingvoj, lingvo),
@@ -863,6 +869,7 @@ def generate_html(
     enhavo['havas_pwa'] = True
     enhavo['pwa_theme_color'] = pwa.PWA_THEME_COLOR
     enhavo['og_bildo_url'] = og_bildo_url(lingvo)
+    enhavo['url_kontakto'] = URL_KONTAKTO
     if kopiu_statikan:
         angla_enkonduko = (ROOT_DIR / 'enhavo' / 'tradukenda' / 'en' / 'enkonduko.md').read_text(
             encoding='utf-8',
@@ -915,16 +922,23 @@ def generate_html(
         'anki': 'https://apps.ankiweb.net/',
         'kartaro': lingva_dosiero_url(lingvo, 'eksporto/' + lingvo + '.apkg'),
     }
-    enkonduko = env.from_string(enhavo['enkonduko']).render(url=url)
-    llms_enkonduko = env.from_string(enhavo['enkonduko']).render(url=llms_url)
+    enkonduko = env.from_string(enhavo['enkonduko']).render(url=url, url_kontakto=URL_KONTAKTO)
+    llms_enkonduko = env.from_string(enhavo['enkonduko']).render(url=llms_url, url_kontakto=URL_KONTAKTO)
+    enhavo['beta_averto'] = ''
+    if estas_beta_lingvo(enhavo['lingvoj'][lingvo]):
+        beta_averto = fasada_etikedo(enhavo, BETA_AVERTO_KLAVO)
+        enhavo['beta_averto'] = env.from_string(beta_averto).render(
+            url=url,
+            url_kontakto=URL_KONTAKTO,
+        )
 
     rendered = env.get_template('index.html').render(
         enhavo=enhavo,
         enkonduko=enkonduko,
-        pretaj_lingvoj=[
+        publikaj_lingvoj=[
             (kodo, lingvo)
             for kodo, lingvo in sorted(enhavo['lingvoj'].items())
-            if lingvo.get('stato') == 'preta'
+            if estas_publika_lingvo(lingvo)
         ],
         url=url,
         vojprefikso=vojprefikso,
@@ -936,7 +950,7 @@ def generate_html(
     )
 
     eligo[output_path / 'index.html'] = rendered
-    if enhavo['lingvoj'][lingvo].get('stato') == 'preta':
+    if estas_publika_lingvo(enhavo['lingvoj'][lingvo]):
         eligo[output_path / 'llms.txt'] = render_lingva_llms(enhavo, llms_enkonduko)
         eligo[output_path / 'llms-full.txt'] = render_lingva_llms_full(enhavo, llms_enkonduko)
 

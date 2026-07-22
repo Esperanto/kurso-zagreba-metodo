@@ -29,6 +29,12 @@ test('piedo montras grizajn tri kolumnojn kun permesilaj ligiloj', async ({ page
   );
   await expect(footer.getByRole('link', { name: 'Kontribuu' })).toHaveAttribute('target', '_blank');
   await expect(footer.getByRole('link', { name: 'Kontribuu' })).toHaveAttribute('rel', 'noopener');
+  await expect(footer.getByRole('link', { name: 'Kontakto' })).toHaveAttribute(
+    'href',
+    'https://demandilo.typeform.com/to/wJxiycNC',
+  );
+  await expect(footer.getByRole('link', { name: 'Kontakto' })).toHaveAttribute('target', '_blank');
+  await expect(footer.getByRole('link', { name: 'Kontakto' })).toHaveAttribute('rel', 'noopener');
   const versio = footer.locator('.versio');
   const versioDato = versio.locator('.versio-dato');
   await expect(versio).toHaveText(/⏱︎ Versio: [0-9a-f]{7} \d{4}-\d{2}-\d{2} \d{2}:\d{2} Z/);

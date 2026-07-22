@@ -40,7 +40,7 @@ help:
 		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
 		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston; kun LINGVO=de nur unu lingvon' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
-		'  make html-all        Generas HTML por pretaj kaj testaj lingvoj' \
+		'  make html-all        Generas HTML por publikaj kaj testaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
 		'  make normalize-yaml  Normaligas YAML-dosierojn sub enhavo/' \
 		'  make normalize-md    Normaligas Markdown-dosierojn sub enhavo/' \
@@ -132,6 +132,7 @@ check-ui:
 	@test -f "$(NODE_MODULES)/.bin/playwright" || { printf '%s\n' 'Mankas Playwright en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
 	@$(MAKE) --no-print-directory clean
 	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"
+	@$(MAKE) --no-print-directory html LINGVO="no"
 	@"$(NPM)" exec -- playwright test
 
 check-pwa:

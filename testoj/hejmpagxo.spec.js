@@ -100,6 +100,7 @@ test('hejmpaĝo signalas la lingvoversiojn al serĉiloj', async ({ page }) => {
   // en la kapo (la hejmpaĝo mem estas JS-lingvoelektilo kun plusendo).
   expect(html).toContain('rel="alternate" hreflang="en" href="https://esperanto12.net/en/"');
   expect(html).toContain('rel="alternate" hreflang="de" href="https://esperanto12.net/de/"');
+  expect(html).toContain('rel="alternate" hreflang="no" href="https://esperanto12.net/no/"');
   expect(html).not.toContain('hejmo-subtitolo');
 });
 
@@ -139,6 +140,31 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
     '/en/post',
   );
   await expect(page.locator('.lingva-startpagxo-parolantoj')).toHaveClass(/text-center/);
+});
+
+test('norvega beta-startpaĝo montras AI-averton', async ({ page }) => {
+  await page.goto('/no/');
+
+  const warning = page.locator('.lingva-startpagxo-beta-averto');
+  await expect(page.getByRole('heading', { name: 'Lær esperanto på 12 timer' })).toBeVisible();
+  await expect(warning).toBeVisible();
+  await expect(warning.locator('.lingva-startpagxo-beta-averto-ikono')).toHaveText('⚠️');
+  await expect(warning).toContainText('Dette språket er oversatt med KI.');
+  const warningLink = warning.getByRole('link', { name: 'gi oss gjerne beskjed' });
+  await expect(warningLink).toHaveAttribute('href', 'https://demandilo.typeform.com/to/wJxiycNC');
+  await expect(warningLink).toHaveAttribute('target', '_blank');
+  await expect(warningLink).toHaveAttribute('rel', 'noopener');
+
+  const languageButton = page.locator('.lingva-startpagxo-titoloj .dropdown-toggle');
+  await languageButton.click();
+  await expect(page.locator('.lingva-startpagxo-lingvoj').getByRole('link', { name: 'Norsk (no)' })).toBeVisible();
+
+  await page.goto('/no/01/');
+  const navbarLanguageButton = page.locator('.navbar-lingvoelektilo .dropdown-toggle');
+  await navbarLanguageButton.click();
+  const navbarLanguages = page.locator('.navbar-lingvoj');
+  await expect(navbarLanguages.getByRole('link', { name: 'Norsk (no)' })).toBeVisible();
+  await expect(navbarLanguages).not.toContainText('test: norvega (no)');
 });
 
 test('startpaĝa instalbutono malfermas la PWA-inviton', async ({ page }) => {

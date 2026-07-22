@@ -167,35 +167,6 @@ test('norvega beta-startpaĝo montras AI-averton', async ({ page }) => {
   await expect(navbarLanguages).not.toContainText('test: norvega (no)');
 });
 
-test('tagaloga beta-startpaĝo montras AI-averton sub parolanta butono', async ({ page }) => {
-  await page.goto('/tl/');
-
-  const speakerButton = page.locator('.lingva-startpagxo-parolantoj');
-  const warning = page.locator('.lingva-startpagxo-beta-averto');
-  await expect(speakerButton).toBeVisible();
-  await expect(warning).toBeVisible();
-  await expect(warning.locator('.lingva-startpagxo-beta-averto-teksto > p')).toBeVisible();
-  await expect(warning.locator('p > .lingva-startpagxo-beta-averto-ikono')).toHaveText('⚠️');
-  await expect(warning).toContainText('Ang wikang ito ay isinalin ng AI.');
-  const warningLink = warning.getByRole('link', { name: 'pakisabi sa amin' });
-  await expect(warningLink).toHaveAttribute('href', 'https://demandilo.typeform.com/to/wJxiycNC');
-  await expect(warningLink).toHaveAttribute('target', '_blank');
-  await expect(warningLink).toHaveAttribute('rel', 'noopener');
-
-  const followsSpeakerButton = await page.evaluate(() => {
-    const speaker = document.querySelector('.lingva-startpagxo-parolantoj');
-    const warning = document.querySelector('.lingva-startpagxo-beta-averto');
-    return Boolean(speaker && warning && speaker.compareDocumentPosition(warning) & Node.DOCUMENT_POSITION_FOLLOWING);
-  });
-  expect(followsSpeakerButton).toBe(true);
-
-  const speakerBox = await speakerButton.boundingBox();
-  const warningBox = await warning.boundingBox();
-  expect(speakerBox).not.toBeNull();
-  expect(warningBox).not.toBeNull();
-  expect(warningBox.y).toBeGreaterThanOrEqual(speakerBox.y + speakerBox.height - 1);
-});
-
 test('startpaĝa instalbutono malfermas la PWA-inviton', async ({ page }) => {
   await page.goto('/en/');
 

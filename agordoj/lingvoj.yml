@@ -15,7 +15,7 @@ ary:
   nomo:
     fontlingve: الدارجة المغربية
     esperante: maroka araba
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -387,7 +387,7 @@ my:
   nomo:
     fontlingve: မြန်မာဘာသာ
     esperante: birma
-  stato: preta
+  stato: beta
   aŭtoroj:
     - nomo: Onklo ENG
       github: onklo
@@ -697,7 +697,7 @@ zu:
   nomo:
     fontlingve: IsiZulu
     esperante: zulua
-  stato: testa
+  stato: preta
   aŭtoroj:
     - nomo: OpenAI
       github: openai

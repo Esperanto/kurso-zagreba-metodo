@@ -132,6 +132,7 @@ check-ui:
 	@test -f "$(NODE_MODULES)/.bin/playwright" || { printf '%s\n' 'Mankas Playwright en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
 	@$(MAKE) --no-print-directory clean
 	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"
+	@$(MAKE) --no-print-directory html LINGVO="no"
 	@"$(NPM)" exec -- playwright test
 
 check-pwa:

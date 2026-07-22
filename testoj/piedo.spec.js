@@ -31,7 +31,7 @@ test('piedo montras grizajn tri kolumnojn kun permesilaj ligiloj', async ({ page
   await expect(footer.getByRole('link', { name: 'Kontribuu' })).toHaveAttribute('rel', 'noopener');
   await expect(footer.getByRole('link', { name: 'Kontakto' })).toHaveAttribute(
     'href',
-    'https://demandilo.typeform.com/to/wJxiycNC',
+    'https://jaehnig.org/impressum/',
   );
   await expect(footer.getByRole('link', { name: 'Kontakto' })).toHaveAttribute('target', '_blank');
   await expect(footer.getByRole('link', { name: 'Kontakto' })).toHaveAttribute('rel', 'noopener');

@@ -334,6 +334,20 @@ html:lang(th) .lingva-startpagxo-titoloj {
   max-height: min(70vh, 24rem);
   overflow-y: auto;
 }
+.lingva-startpagxo-beta-averto {
+  color: var(--bs-secondary-color);
+  font-size: 0.95rem;
+  line-height: 1.45;
+  margin: 0.25rem auto 0;
+  max-width: 36rem;
+  text-align: center;
+}
+.lingva-startpagxo-beta-averto p {
+  margin-bottom: 0;
+}
+.lingva-startpagxo-beta-averto-ikono {
+  margin-right: 0.2rem;
+}
 .lingva-startpagxo-parolantoj {
   border-top: 1px solid var(--bs-border-color);
   padding-top: 1.5rem;

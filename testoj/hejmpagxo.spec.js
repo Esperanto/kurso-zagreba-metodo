@@ -100,6 +100,7 @@ test('hejmpaĝo signalas la lingvoversiojn al serĉiloj', async ({ page }) => {
   // en la kapo (la hejmpaĝo mem estas JS-lingvoelektilo kun plusendo).
   expect(html).toContain('rel="alternate" hreflang="en" href="https://esperanto12.net/en/"');
   expect(html).toContain('rel="alternate" hreflang="de" href="https://esperanto12.net/de/"');
+  expect(html).toContain('rel="alternate" hreflang="no" href="https://esperanto12.net/no/"');
   expect(html).not.toContain('hejmo-subtitolo');
 });
 
@@ -139,6 +140,65 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
     '/en/post',
   );
   await expect(page.locator('.lingva-startpagxo-parolantoj')).toHaveClass(/text-center/);
+});
+
+[
+  {
+    lingvo: 'km',
+    teksto: 'ភាសានេះត្រូវបានបកប្រែដោយ AI។',
+    ligilo: 'សូមប្រាប់យើង',
+  },
+  {
+    lingvo: 'my',
+    teksto: 'ဤဘာသာစကားကို AI ဖြင့် ဘာသာပြန်ထားသည်။',
+    ligilo: 'ကျေးဇူးပြု၍ ကျွန်ုပ်တို့ကို အသိပေးပါ',
+  },
+  {
+    lingvo: 'no',
+    teksto: 'Dette språket er oversatt med KI.',
+    ligilo: 'gi oss gjerne beskjed',
+  },
+  {
+    lingvo: 'tl',
+    teksto: 'Ang wikang ito ay isinalin ng AI.',
+    ligilo: 'pakisabi sa amin',
+  },
+  {
+    lingvo: 'zu',
+    teksto: 'Lolu limi luhunyushwe nge-AI.',
+    ligilo: 'sicela usazise',
+  },
+].forEach(({ lingvo, teksto, ligilo }) => {
+  test(`${lingvo} beta-startpaĝo montras AI-averton`, async ({ page }) => {
+    await page.goto(`/${lingvo}/`);
+
+    const warning = page.locator('.lingva-startpagxo-beta-averto');
+    await expect(warning).toBeVisible();
+    await expect(warning.locator('.lingva-startpagxo-beta-averto-teksto > p')).toBeVisible();
+    await expect(warning.locator('p > .lingva-startpagxo-beta-averto-ikono')).toHaveText('⚠️');
+    await expect(warning).toContainText(teksto);
+    const warningLink = warning.locator('a');
+    await expect(warningLink).toHaveText(ligilo);
+    await expect(warningLink).toHaveAttribute('href', 'https://demandilo.typeform.com/to/wJxiycNC');
+    await expect(warningLink).toHaveAttribute('target', '_blank');
+    await expect(warningLink).toHaveAttribute('rel', 'noopener');
+  });
+});
+
+test('norvega beta-startpaĝo restas publika en lingvolistoj', async ({ page }) => {
+  await page.goto('/no/');
+
+  await expect(page.getByRole('heading', { name: 'Lær esperanto på 12 timer' })).toBeVisible();
+  const languageButton = page.locator('.lingva-startpagxo-titoloj .dropdown-toggle');
+  await languageButton.click();
+  await expect(page.locator('.lingva-startpagxo-lingvoj').getByRole('link', { name: 'Norsk (no)' })).toBeVisible();
+
+  await page.goto('/no/01/');
+  const navbarLanguageButton = page.locator('.navbar-lingvoelektilo .dropdown-toggle');
+  await navbarLanguageButton.click();
+  const navbarLanguages = page.locator('.navbar-lingvoj');
+  await expect(navbarLanguages.getByRole('link', { name: 'Norsk (no)' })).toBeVisible();
+  await expect(navbarLanguages).not.toContainText('test: norvega (no)');
 });
 
 test('startpaĝa instalbutono malfermas la PWA-inviton', async ({ page }) => {

@@ -310,7 +310,7 @@ km:
   nomo:
     fontlingve: ភាសាខ្មែរ
     esperante: kmera
-  stato: preta
+  stato: beta
   aŭtoroj:
     - nomo: Onklo ENG
       github: onklo
@@ -387,7 +387,7 @@ my:
   nomo:
     fontlingve: မြန်မာဘာသာ
     esperante: birma
-  stato: preta
+  stato: beta
   aŭtoroj:
     - nomo: Onklo ENG
       github: onklo
@@ -404,7 +404,7 @@ ne:
   nomo:
     fontlingve: Norsk
     esperante: norvega
-  stato: testa
+  stato: beta
   komentejo: 1
   aŭtoroj:
     - nomo: OpenAI
@@ -592,7 +592,7 @@ tl:
   nomo:
     fontlingve: Tagalog
     esperante: tagaloga
-  stato: testa
+  stato: beta
   komentejo: 0
   aŭtoroj:
     - nomo: OpenAI
@@ -697,7 +697,7 @@ zu:
   nomo:
     fontlingve: IsiZulu
     esperante: zulua
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai

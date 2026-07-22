@@ -103,7 +103,7 @@
               🌐
             </button>
             <ul class="dropdown-menu dropdown-menu-end navbar-lingvoj">
-              {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'preta' %}
+              {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato in enhavo.publikaj_lingvo_statoj %}
                 <li>
                   <a
                     class="dropdown-item"

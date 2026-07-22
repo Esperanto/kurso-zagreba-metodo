@@ -9,6 +9,12 @@ from pathlib import Path
 from . import html as html_generilo
 from . import md as md_generilo
 from .ankroj import forigu_html, unika_ankro
+from .statusoj import (
+    HTML_LINGVO_STATOJ,
+    PUBLIKAJ_LINGVO_STATOJ,
+    estas_beta_lingvo,
+    estas_publika_lingvo,
+)
 
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
@@ -16,7 +22,6 @@ AGORDOJ_DIR = ROOT_DIR / 'agordoj'
 ENHAVO_DIR = ROOT_DIR / 'enhavo'
 LECION_NUMEROJ = range(1, 13)
 YAML_LOADER = getattr(yaml, 'CSafeLoader', yaml.SafeLoader)
-HTML_LINGVO_STATOJ = {'preta', 'testa'}
 CXEFPAGXO_TITOLO = 'Lerni Esperanton'
 CXEFPAGXO_SUBTITOLO = 'La plej rapida kurso por la bazoj'
 
@@ -294,7 +299,7 @@ def get_cmdline_arguments():
     lingvo_group.add_argument(
         "--cxiuj-lingvoj",
         action="store_true",
-        help="Kreu HTML-eligon por ĉiuj pretaj kaj testaj lingvoj."
+        help="Kreu HTML-eligon por ĉiuj publikaj kaj testaj lingvoj."
     )
     ap.add_argument(
         "-ef",
@@ -339,6 +344,9 @@ def kompletigu_enhavon(lingvo, lingvoj, gramatiko_transpose_headlines=2):
     enhavo = load(lingvo, gramatiko_transpose_headlines)
     enhavo['lingvoj'] = lingvoj
     enhavo['tekstodirekto'] = lingvoj[lingvo].get('tekstodirekto', 'ltr')
+    enhavo['lingva_stato'] = lingvoj[lingvo].get('stato')
+    enhavo['estas_beta'] = estas_beta_lingvo(lingvoj[lingvo])
+    enhavo['publikaj_lingvo_statoj'] = sorted(PUBLIKAJ_LINGVO_STATOJ)
     return enhavo
 
 
@@ -355,7 +363,7 @@ def hejmaj_lingvoj(lingvoj):
     rezulto = []
     for kodo in sorted(lingvoj):
         lingvo = lingvoj[kodo]
-        if lingvo.get('stato') != 'preta':
+        if not estas_publika_lingvo(lingvo):
             continue
 
         nomo = lingvo.get('nomo', {})

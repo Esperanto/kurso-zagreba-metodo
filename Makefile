@@ -23,6 +23,7 @@ CHECK_YAML_SUCCESS := $(if $(CHECK_YAML_LINGVO),Sukcesis: kontrolis YAML-dosiero
 CHECK_PWA_LINGVO ?= $(REQUESTED_LINGVO)
 CHECK_PWA_ARGS := $(if $(CHECK_PWA_LINGVO),--lingvo $(CHECK_PWA_LINGVO),)
 CHECK_LINGVO := en
+CHECK_UI_LINGVOJ ?= $(CHECK_LINGVO) km my no tl zu
 MD_OUT ?= eligo/md/$(CHECK_LINGVO).md
 
 help:
@@ -37,10 +38,10 @@ help:
 		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj; kun LINGVO=de nur unu lingvon' \
 		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/; kun LINGVO=de nur unu lingvon' \
 		'  make check-md-normalized    Kontrolas Markdown-formaton sub enhavo/; kun LINGVO=de nur unu lingvon' \
-		'  make check-ui        Kontrolas anglajn UI-interagojn per Playwright' \
+		'  make check-ui        Kontrolas anglajn kaj beta-startpaĝajn UI-interagojn per Playwright' \
 		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston; kun LINGVO=de nur unu lingvon' \
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
-		'  make html-all        Generas HTML por pretaj kaj testaj lingvoj' \
+		'  make html-all        Generas HTML por publikaj kaj testaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
 		'  make normalize-yaml  Normaligas YAML-dosierojn sub enhavo/' \
 		'  make normalize-md    Normaligas Markdown-dosierojn sub enhavo/' \
@@ -131,7 +132,9 @@ check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@test -f "$(NODE_MODULES)/.bin/playwright" || { printf '%s\n' 'Mankas Playwright en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
 	@$(MAKE) --no-print-directory clean
-	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"
+	@for lingvo in $(CHECK_UI_LINGVOJ); do \
+		$(MAKE) --no-print-directory html LINGVO="$$lingvo"; \
+	done
 	@"$(NPM)" exec -- playwright test
 
 check-pwa:

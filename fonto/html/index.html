@@ -35,10 +35,10 @@
           data-bs-toggle="dropdown"
           aria-expanded="false"
         >
-          🌐 {{enhavo.fasado['{{lingvo_nombro}} lingvoj']|replace('{{lingvo_nombro}}', pretaj_lingvoj|length)}}
+          🌐 {{enhavo.fasado['{{lingvo_nombro}} lingvoj']|replace('{{lingvo_nombro}}', publikaj_lingvoj|length)}}
         </button>
         <ul class="dropdown-menu lingva-startpagxo-lingvoj">
-          {% for kodo, lingvo in pretaj_lingvoj %}
+          {% for kodo, lingvo in publikaj_lingvoj %}
             <li>
               <a
                 class="dropdown-item"
@@ -91,6 +91,14 @@
       </a>
     </p>
   {%- endif %}
+
+  {% if enhavo.beta_averto %}
+    <div class="lingva-startpagxo-beta-averto" role="note">
+      <div class="lingva-startpagxo-beta-averto-teksto">
+        {{('<span class="lingva-startpagxo-beta-averto-ikono" aria-hidden="true">⚠️</span> ' ~ enhavo.beta_averto)|markdown}}
+      </div>
+    </div>
+  {% endif %}
 
 </div>
 

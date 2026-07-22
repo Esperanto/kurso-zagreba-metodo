@@ -1,1 +1,0 @@
-Ushaka gukomeza nyuma y'aya masomo, shakisha ibikorwa n'amatsinda ya Esperanto kuri [Eventa Servo](https://eventaservo.org/). Niba ubona itsinda rikoresha Kinyarwanda, ni byiza kubaza umuntu uvuga urwo rurimi kugira ngo agufashe gusubiramo iri hindura.

@@ -1,4 +1,4 @@
-- demando: Iza  no mba nanana ny boky nandrasanareo nandritra ny roa taona mahery?
+- demando: Iza no nanana ny boky nandrasanareo efa roa taona mahery?
   rektatraduko:
   - Kiu: Iza
   - havis: no nanana
@@ -49,13 +49,13 @@
   - suna: talaky masoandro
   - tago: andro
   - '?'
-- demando: ' Moa ve ny rahalahinao dia efa lasa sahady ?'
+- demando: Moa ve efa niala sahady ny rahalahinao?
   rektatraduko:
   - Ĉu: Moa ve
   - via: ianao / ianareo
   - frato: rahalahy
   - jam: sahady
-  - ekiris: dia efa lasa
+  - ekiris: niala
   - '?'
 - demando: Aiza ny rano nalainao ?
   rektatraduko:

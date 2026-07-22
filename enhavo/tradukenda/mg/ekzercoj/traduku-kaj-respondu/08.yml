@@ -1,14 +1,14 @@
-- demando: ' Iza no manadio ny lakozia aorian''ny fisakafoanana maraina ?'
+- demando: Iza no hanadio ny lakozia aorian'ny sakafo atoandro?
   rektatraduko:
   - Kiu: Iza
-  - purigos: no manadio
+  - purigos: hanadio
   - la: ny
   - kuirejon: lakozia
   - post: aoriana
   - la: ny
-  - tagmanĝo: fisakafoanana maraina
+  - tagmanĝo: sakafo atoandro
   - '?'
-- demando: 'Inona no tianao sotroina : dite, cafe kely sa tsy te hisotro na inona na inona ?'
+- demando: 'Inona no tianao sotroina: dite, kafe kely sa tsy te hisotro na inona na inona?'
   rektatraduko:
   - Kion: Inona
   - vi: ianao / ianareo
@@ -26,7 +26,7 @@
   - volas: te
   - nenion: tsy... na inona na inona / tsy misy
   - '?'
-- demando: Maninona ianao no tapa-kevitra tampoka hanova ny hefi -trano kelinao ?
+- demando: Maninona ianao no tapa-kevitra tampoka hanova ny hefi-trano kelinao?
   rektatraduko:
   - Kial: Maninona
   - vi: ianao
@@ -37,9 +37,9 @@
   - vian: ny
   - ĉambreton: hefi-trano kely
   - '?'
-- demando: ' Nomenao ho an''iza ny veran''ny divay madio ? '
+- demando: Nomenao an'iza ireo vera madio ho an'ny divay?
   rektatraduko:
-  - Al: Aminy
+  - Al: Amin'
   - kiu: iza
   - vi: ianao / ianareo
   - donis: nomena
@@ -50,16 +50,16 @@
   - la: ny
   - vino: divay
   - '?'
-- demando: ' Iza ilay klioba fanatanjahanao nanoherana ny roa herinandro lasa izay ?'
+- demando: Iza ilay klioba fanatanjahanao nanoherana tamin'ny roa herinandro lasa?
   rektatraduko:
   - Kontraŭ: nanoherana
   - kiu: iza
   - ludis: izay
   - via: ianao / ianareo
   - sportklubo: klioba fanatanjahana
-  - antaŭ: lasa
+  - antaŭ: tamin'ny
   - du: roa
-  - semajnoj: herinandro
+  - semajnoj: herinandro lasa
   - '?'
 - demando: Moa ve mba hitanao matetika ilay mpitandro-filaminana izay mipetraka ao anaty trano eo amboninareo ?
   rektatraduko:

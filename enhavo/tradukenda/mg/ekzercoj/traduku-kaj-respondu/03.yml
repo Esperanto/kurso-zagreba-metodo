@@ -9,7 +9,7 @@
   - multajn: maro
   - lingvojn: fiteny
   - '?'
-- demando: Moa fantatrao ve fa i Ana dia tia ny hira vaovao mahakasika ny fahantrana sy ny vehivavy tsara ?
+- demando: Moa fantatrao ve fa i Ana dia tia ny hira vaovao mahakasika ny fahantrana sy ny vehivavy tsara tarehy?
   rektatraduko:
   - Ĉu: Moa ve
   - vi: ianao / ianareo
@@ -24,7 +24,7 @@
   - pri: mombamomba/mahakasika
   - malriĉulo: ny fahantrana
   - kaj: sy
-  - belulino: ny vehivavy tsara
+  - belulino: vehivavy tsara tarehy
   - '?'
 - demando: Taiza ianao no nahita lehilahy antitra sy ny lehilahy tanora no nitondra latabatra lehibe ?
   rektatraduko:
@@ -42,26 +42,26 @@
   - grandan: lehibe
   - tablon: latabatra
   - '?'
-- demando: Inona no nahatonga ianao tonga ety raha tsy nisy ny rahalahinao sy ny rahavavinao?
+- demando: Ahoana no nitranga fa tonga aty aminay indray ianao tsy niaraka tamin'ny rahalahinao sy ny rahavavinao?
   rektatraduko:
-  - Kiel: Inona
-  - okazis: no nahatonga
+  - Kiel: Ahoana
+  - okazis: no nitranga
   - ','
-  - ke: raha tsy
+  - ke: fa
   - vi: ianao/ianareo
-  - denove: mbola
+  - denove: indray
   - venis: tonga
   - al: ety
   - ni: izahay
   - sen: tsisy / tsy
   - gefratoj: rahalahy sy rahavavy
   - '?'
-- demando: 'Moa ve ianao afaka mianatra esperanto tsy dia haingana loatra miarak''amin''ny boky vaovao fianarana '
+- demando: Moa ve ianao afaka mianatra Esperanto tsy dia haingana loatra miaraka amin'ny boky fianarana vaovao?
   rektatraduko:
   - Ĉu: Moa ve
   - vi: ianao
   - povas: afaka
-  - per: miarak'aminy
+  - per: miaraka amin'ny
   - la: ny
   - nova: vaovao
   - lernolibro: boky fianarana

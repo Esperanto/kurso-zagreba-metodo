@@ -1,8 +1,8 @@
-- demando: Moa ve mba afaka mitondra fanafody ny rahavaviko ve ianao?
+- demando: Moa ve afaka mitondra fanafody ny rahavaviko ianao?
   rektatraduko:
   - Ĉu: Moa ve
   - vi: ianao /ianareo
-  - povas: mba afaka
+  - povas: afaka
   - kunporti: mitondra
   - la: ny
   - sanigilon: fanafody
@@ -26,24 +26,24 @@
   - mian: ny
   - ŝlosilon: fanalahidy
   - '?'
-- demando: ' Moa ve nandeha tany gondole koa ianao tany Venise ?'
+- demando: Moa ve nandeha tamin'ny gondola koa ianao tany Venetsia?
   rektatraduko:
   - Ĉu: Moa ve
   - vi: ianao / ianareo
   - en: tany
-  - Venecio: Venise
+  - Venecio: Venetsia
   - veturis: nandeha
   - ankaŭ: koa
-  - per: tany
-  - gondolo: gondole
+  - per: tamin'ny
+  - gondolo: gondola
   - '?'
-- demando: Moa ve mba afaka matory ianao rehefa mangina ?
+- demando: Moa ve ho afaka ho resin-torimaso ianao rehefa hangina?
   rektatraduko:
   - Ĉu: Moa ve
   - vi: ianao / ianareo
-  - povos: mba afaka
-  - ekdormi: matory
+  - povos: ho afaka
+  - ekdormi: ho resin-torimaso
   - ','
   - kiam: rehefa
-  - silentiĝos: mangina
+  - silentiĝos: hangina
   - '?'

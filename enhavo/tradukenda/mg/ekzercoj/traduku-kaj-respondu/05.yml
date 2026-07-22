@@ -1,14 +1,14 @@
-- demando: Moa ve ianao mba afaka mianatra mangina mandritra ny olona mihira ankafaliana ?
+- demando: Moa ve ianao afaka mianatra mangina mandritra ny fotoana ihiran'ny olona am-pifaliana?
   rektatraduko:
   - Ĉu: Moa ve
   - vi: ianao
-  - povas: mba afaka
+  - povas: afaka
   - trankvile: mangina
   - lerni: mianatra
   - ','
-  - dum: mandritra ny
+  - dum: mandritra ny fotoana
   - iu: olona
-  - ĝoje: ankafaliana
+  - ĝoje: am-pifaliana
   - kantas: mihira
   - '?'
 - demando: Iza no mahay aiza sy rahoviana isika hifankahita indray ?
@@ -23,9 +23,9 @@
   - revidos: hifankahita
   - nin: isika
   - '?'
-- demando: Aminy firy ny fotoana izao ?
+- demando: Amin'ny firy izao?
   rektatraduko:
-  - Kioma: Aminy Firy
+  - Kioma: Amin'ny firy
   - horo: fotoana
   - estas: ny
   - nun: izao
@@ -45,14 +45,14 @@
   - malnova: taloha
   - domo: trano
   - '?'
-- demando: Maninona ianao no tsy mba manana fotoana iheno ahy hela ?
+- demando: Maninona ianao no tsy mba manana fotoana hihaino ahy ela?
   rektatraduko:
   - Kial: Maninona
   - vi: ianao / ianareo
   - ne: tsy
   - havas: no manana
   - tempon: fotoana
-  - aŭskulti: iheno
+  - aŭskulti: hihaino
   - min: ahy
   - pli: kokoa
   - longe: ela

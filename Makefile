@@ -23,7 +23,7 @@ CHECK_YAML_SUCCESS := $(if $(CHECK_YAML_LINGVO),Sukcesis: kontrolis YAML-dosiero
 CHECK_PWA_LINGVO ?= $(REQUESTED_LINGVO)
 CHECK_PWA_ARGS := $(if $(CHECK_PWA_LINGVO),--lingvo $(CHECK_PWA_LINGVO),)
 CHECK_LINGVO := en
-CHECK_UI_LINGVOJ ?= $(CHECK_LINGVO) ary my no tl
+CHECK_UI_LINGVOJ ?= $(CHECK_LINGVO) km my no tl zu
 MD_OUT ?= eligo/md/$(CHECK_LINGVO).md
 
 help:

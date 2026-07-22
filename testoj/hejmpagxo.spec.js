@@ -144,9 +144,9 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
 
 [
   {
-    lingvo: 'ary',
-    teksto: 'هاد اللغة تترجمات بالذكاء الاصطناعي.',
-    ligilo: 'عافاك خبرنا',
+    lingvo: 'km',
+    teksto: 'ភាសានេះត្រូវបានបកប្រែដោយ AI។',
+    ligilo: 'សូមប្រាប់យើង',
   },
   {
     lingvo: 'my',
@@ -162,6 +162,11 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
     lingvo: 'tl',
     teksto: 'Ang wikang ito ay isinalin ng AI.',
     ligilo: 'pakisabi sa amin',
+  },
+  {
+    lingvo: 'zu',
+    teksto: 'Lolu limi luhunyushwe nge-AI.',
+    ligilo: 'sicela usazise',
   },
 ].forEach(({ lingvo, teksto, ligilo }) => {
   test(`${lingvo} beta-startpaĝo montras AI-averton`, async ({ page }) => {

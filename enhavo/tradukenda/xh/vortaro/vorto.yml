@@ -81,7 +81,7 @@ haltigis: wamisile
 havigi: ukufumanela
 havindan: okufanele ukuba nakho
 homformo: imo yomntu
-hommulton: isihlwele
+hommulton: isihlwele sabantu
 ideoriĉan: enezimvo ezininzi
 industriisto: usomashishini wemizi-mveliso
 instruistino: utitshala wasetyhini
@@ -134,12 +134,12 @@ malfacile: kunzima
 malfeliĉo: ishwa
 malforta: buthaka
 malforte: ngobuthakathaka
-malfruas: usephuzile
-malfrue: sekwephuzile
-malfrui: ukuphuza
+malfruas: ulateledile
+malfrue: kulateledile
+malfrui: ukulateleka
 malgranda:
 - encinci
-- ncane
+- ncinci
 malhelpis: wavimba
 malinterese: ngokungathakazelisi
 malkontentigi: ukucasula
@@ -148,7 +148,7 @@ malliberejon: ejele
 mallumo: ubumnyama
 malmulte: kancinci
 malmultekosta: eshibhile
-malmulton: okuncane
+malmulton: okuncinci
 malnova: endala
 malnovaj: ezindala
 malofte: akuvamile
@@ -161,7 +161,7 @@ malsekajn: ezimanzi
 malsukcesa: engaphumelelanga
 maltrankvila: ekhathazekile
 malvarman: ebandayo
-malĝoja: edabukile
+malĝoja: ulusizi
 malŝatas: akathandi
 malŝatis: akathandanga
 manĝaĵo: ukudla
@@ -177,14 +177,14 @@ morgaŭan: wakusasa
 mortigo: ukubulala
 moviĝis: yanyakaza
 multekosta: ebizayo
-multpiedaj: ezinemilenze eminingi
+multpiedaj: ezinemilenze emininzi
 naskiĝtaga: yosuku lokuzalwa
 naskiĝtago: usuku lokuzalwa
 naturaĵojn: izinto zemvelo
 nehoma: okungeyena umntu
 neinteresaj: ezingathakazelisi
 nokta: yasebusuku
-novaĵoj: izindaba
+novaĵoj: iindaba ezintsha
 opinion: umbono
 ordigi: ukulungisa
 paperoj: amaphepha
@@ -233,29 +233,29 @@ sovaĝejo: indawo yasendle
 sportisto: umdlali
 subakvigis: wacwilisa
 subakviĝis: wacwila
-subite: ngokuzumayo
+subite: ngesiquphe
 supren: phezulu
 surhavas: ugqoke
 surlokan: yasendaweni
 teroristoj: amaphekula
-tiuokaze: kuleso simo
+tiuokaze: kuloo meko
 travivaĵo: okuhlangenwe nakho
 tridekjara: oneminyaka engama-30
 troviĝis: kwakukhona
 unuaj: zokuqala
 urbomezo: enkabeni yedolobha
-vagonaro: isitimela
-vendejo: isitolo
-vendejon: esitolo
+vagonaro: uloliwe
+vendejo: ivenkile
+vendejon: evenkileni
 vendisto: umthengisi
-vestaĵo: ingubo
-vestaĵoj: izingubo
-vestaĵojn: izingubo
-vestaĵon: ingubo
+vestaĵo: isofani
+vestaĵoj: iimpahla
+vestaĵojn: iimpahla
+vestaĵon: isofani
 veturado:
 - uhambo
 - ukuhamba ngemoto
-veturigus: wayezohambisa
+veturigus: wayeza kuhambisa
 viaj: zakho
 virino: owasetyhini
 vojaĝantoj: abahambi

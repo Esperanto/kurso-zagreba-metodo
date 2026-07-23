@@ -1,44 +1,44 @@
-- demando: Yintoni engenza abazali bakho bajabule kakhulu?
+- demando: Yintoni engenza abazali bakho bonwabe kakhulu?
   rektatraduko:
   - Kio: Yintoni
   - povus: kunako
   - plej: kakhulu
-  - ĝojigi: ukujabulisa
+  - ĝojigi: ukonwabisa
   - viajn: bakho
   - gepatrojn: abazali
   - '?'
-- demando: Ukube nje ubungaya nami edolobheni emva kokufunda!
+- demando: Ukuba nje ubuya kuhamba nam esixekweni emva kokufunda!
   rektatraduko:
-  - Se: Uma
-  - almenaŭ: okungenani
+  - Se: Ukuba
+  - almenaŭ: ubuncinane
   - vi: wena
   - post: emva
-  - la: i-athikili
+  - la: '-'
   - lernado: ukufunda
   - irus: ungaya
-  - kun: kanye
+  - kun: kunye
   - mi: mna
   - en: ku
-  - la: i-athikili
-  - urbon: idolobha
+  - la: '-'
+  - urbon: isixeko
   - '!'
-- demando: Ungathanda ukuhamba uye phi ukuba ubunemali nesikhathi esanele?
+- demando: Ungathanda ukuhamba uye phi ukuba ubunemali nexesha elaneleyo?
   rektatraduko:
-  - Kien: Kuya phi
+  - Kien: Ukuya phi
   - vi: wena
-  - dezirus: ungafisa
-  - vojaĝi: ukuvakasha
+  - dezirus: unganqwenela
+  - vojaĝi: ukuhamba
   - ','
-  - se: uma
+  - se: ukuba
   - vi: wena
   - havus: ungaba nayo
-  - sufiĉe: ngokwanele
+  - sufiĉe: ngokwaneleyo
   - da: ka
   - mono: imali
   - kaj: kwaye
   - tempo: ixesha
   - '?'
-- demando: Uhlela ukuya e-Italy ngemoto, okanye bekungeke kube ngcono kakhulu ukuya ngesitimela?
+- demando: Uceba ukuya e-Italy ngemoto, okanye bekungeke kube ngcono kakhulu ukuya ngololiwe?
   rektatraduko:
   - Ĉu: Ngaba
   - vi: wena
@@ -46,25 +46,25 @@
   - veturi: ukuhamba
   - al: ku
   - Italio: i-Italy
-  - per: ngosizo lwe
+  - per: ngokusebenzisa
   - aŭto: imoto
   - aŭ: okanye
   - ĉu: ngaba
   - ne: hayi
   - ŝajnas: kubonakala
   - multe: kakhulu
-  - pli: ngaphezulu
+  - pli: ngakumbi
   - bone: kuhle
-  - per: ngosizo lwe
-  - vagonaro: isitimela
+  - per: ngokusebenzisa
+  - vagonaro: uloliwe
   - '?'
-- demando: Kungani abantu abahlukene bechaza imibono efanayo ngezindlela ezahlukene?
+- demando: Kutheni abantu abahlukeneyo bechaza imibono efanayo ngeendlela ezahlukeneyo?
   rektatraduko:
-  - Kial: Kungani
-  - diversaj: abahlukene
+  - Kial: Kutheni
+  - diversaj: abahlukeneyo
   - homoj: abantu
   - klarigas: bachaza
   - samajn: efanayo
   - ideojn: imibono
-  - diversmaniere: ngezindlela ezahlukene
+  - diversmaniere: ngeendlela ezahlukeneyo
   - '?'

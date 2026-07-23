@@ -2,10 +2,10 @@
   rektatraduko:
   - Kiu: Ngubani
   - purigos: uzohlanza
-  - la: i-athikili
+  - la: '-'
   - kuirejon: ikhishi
   - post: emva
-  - la: i-athikili
+  - la: '-'
   - tagmanĝo: isidlo sasemini
   - '?'
 - demando: 'Ungathanda ukuphuza ini: itiye, ikofu, okanye lutho?'
@@ -17,7 +17,7 @@
   - ':'
   - teon: itiye
   - ','
-  - iom: okuncane
+  - iom: okuncinci
   - da: ka
   - kafo: ikofu
   - aŭ: okanye
@@ -26,16 +26,16 @@
   - volas: ufuna
   - nenion: lutho
   - '?'
-- demando: Kungani unqume ngokuzumayo kangaka ukulungisa kabusha igumbi lakho elincane?
+- demando: Kutheni ugqibe ngesiquphe kangaka ukulungisa kwakhona igumbi lakho elincinci?
   rektatraduko:
-  - Kial: Kungani
+  - Kial: Kutheni
   - vi: wena
   - tiel: kanjalo
-  - subite: ngokuzumayo
+  - subite: ngesiquphe
   - decidis: wanquma
-  - renovigi: ukulungisa kabusha
+  - renovigi: ukulungisa kwakhona
   - vian: yakho
-  - ĉambreton: igumbi elincane
+  - ĉambreton: igumbi elincinci
   - '?'
 - demando: Uzinike bani izingilazi zewayintoni ezihlanzekile?
   rektatraduko:
@@ -43,11 +43,11 @@
   - kiu: kngubani
   - vi: wena
   - donis: wanikeza
-  - la: i-athikili
+  - la: '-'
   - purajn: ezihlanzekile
   - glasojn: izingilazi
   - por: ye
-  - la: i-athikili
+  - la: '-'
   - vino: iwayintoni
   - '?'
 - demando: Iklabhu yakho yezemidlalo yadlala nngoobani emasontweni amabili adlule?
@@ -61,19 +61,19 @@
   - du: ezimbili
   - semajnoj: amasonto
   - '?'
-- demando: Uvame ukubona ipolisa elihlala efulethini elingaphezu kwakho?
+- demando: Uqhele ukubona ipolisa elihlala kwiflethi elingaphezu kwakho?
   rektatraduko:
   - Ĉu: Ngaba
   - vi: wena
   - ofte: kaningi
   - vidas: uyabona
-  - la: i-athikili
+  - la: '-'
   - policiston: ipolisa
   - ','
   - kiu: kngubani
   - loĝas: uhlala
   - en: ku
-  - la: i-athikili
+  - la: '-'
   - loĝejo: ifulethi
   - super: ngaphezu
   - vi: wena

@@ -1,63 +1,63 @@
-- demando: Sizobonana kwaye, okanye phi okanye nini?
+- demando: Siza kuphinda sibonane naphi na okanye nanini na?
   rektatraduko:
   - Ĉu: Ngaba
   - ni: thina
-  - revidos: sizobona kwaye
+  - revidos: siza kubona kwakhona
   - nin: thina
   - ','
   - kie: phi
-  - ajn: okanye yiphi
+  - ajn: nayiphi na
   - kaj: kwaye
-  - kiam: lapho
-  - ajn: okanye yiphi
+  - kiam: nini
+  - ajn: nayiphi na
   - '?'
-- demando: Ngizoyifumana nini kwaye enye ingxenye yezincwadi?
+- demando: Ndiza kuyifumana nini kwakhona enye inxalenye yeencwadi?
   rektatraduko:
   - Kiam: Nini
   - mi: mna
-  - rericevos: ngizofumana kwaye
-  - la: i-athikili
+  - rericevos: ndiza kufumana kwakhona
+  - la: '-'
   - alian: elinye
-  - duonon: uhhafu
-  - de: ka
-  - la: i-athikili
+  - duonon: isiqingatha
+  - de: ye
+  - la: '-'
   - libroj: iincwadi
   - '?'
-- demando: Uzodinga ngaphezu kwekota yonyaka kulawo misebenzi?
+- demando: Uza kufuna ngaphezu kwekota yonyaka kuloo misebenzi?
   rektatraduko:
   - Ĉu: Ngaba
   - vi: wena
-  - bezonos: uzodinga
-  - pli: ngaphezulu
+  - bezonos: uza kufuna
+  - pli: ngakumbi
   - ol: kuno
   - kvaronan: ikota
   - jaron: unyaka
-  - por: ye
-  - tiuj: lezo
+  - por: ukwenzela
+  - tiuj: loo
   - laboroj: imisebenzi
   - '?'
-- demando: Kungani kuba kubanda kakhulu ukuba silinda ixesha eside?
+- demando: Kutheni kusiba kubanda ngakumbi xa silinda ixesha elide?
   rektatraduko:
-  - Kial: Kungani
-  - ju: uma
-  - pli: ngaphezulu
-  - longe: ixesha eside
+  - Kial: Kutheni
+  - ju: okukhona
+  - pli: ngakumbi
+  - longe: ixesha elide
   - ni: thina
   - atendas: silinda
   - ','
-  - des: kulapho
-  - pli: ngaphezulu
+  - des: kokukhona
+  - pli: ngakumbi
   - malvarme: kubanda
   - estas: kuba
   - '?'
-- demando: Unganeliseka ngaokanye iyiphi indoda?
+- demando: Unganeliseka nangayiphi na indoda?
   rektatraduko:
   - Ĉu: Ngaba
   - vi: wena
   - estus: ungaba
   - kontenta: wenelisekile
-  - kun: kanye
+  - kun: kunye
   - iu: othile
-  - ajn: okanye yiphi
+  - ajn: nayiphi na
   - viro: indoda
   - '?'

@@ -1,7 +1,7 @@
 - demando: Lalinjani ikhaya lakho elidala?
   rektatraduko:
   - Kia: Kunjani
-  - estis: yayiluncedo
+  - estis: yayingu
   - via: wakho
   - malnova: endala
   - hejmo: ikhaya
@@ -18,7 +18,7 @@
   - estas: ukuba
   - bonaj: ezintle
   - '?'
-- demando: Wenze ntoni u-Ana noMarko egumbini elincane likaMarko?
+- demando: Wenze ntoni u-Ana noMarko egumbini elincinci likaMarko?
   rektatraduko:
   - Kion: Yintoni
   - faris: wenza
@@ -26,7 +26,7 @@
   - kaj: kwaye
   - Marko: uMarko
   - en: ku
-  - la: i-athikili
+  - la: '-'
   - malgranda: encinci
   - ĉambro: igumbi
   - de: ka
@@ -39,7 +39,7 @@
   - ŝatas: uthanda
   - legi: ukufunda
   - librojn: iincwadi
-  - pri: mayelana
+  - pri: malunga
   - amo: uthando
   - '?'
 - demando: Ngubani ozoya ekhaya lakho kanye nawe?
@@ -56,7 +56,7 @@
   rektatraduko:
   - Kiaj: Anjani
   - estas: ukuba
-  - la: i-athikili
+  - la: '-'
   - okuloj: amehlo
   - de: ka
   - via: wakho

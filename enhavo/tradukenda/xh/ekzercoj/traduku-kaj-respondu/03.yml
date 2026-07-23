@@ -18,10 +18,10 @@
   - ĉu: ngaba
   - Ana: u-Ana
   - ŝatas: uthanda
-  - la: i-athikili
+  - la: '-'
   - novan: entsha
   - kanton: ingoma
-  - pri: mayelana
+  - pri: malunga
   - malriĉulo: umntu ompofu
   - kaj: kwaye
   - belulino: owasetyhini omhle
@@ -31,10 +31,10 @@
   - Kie: Kuphi
   - vi: wena
   - vidis: wabona
-  - la: i-athikili
+  - la: '-'
   - maljunulon: umntu omdala
   - kaj: kwaye
-  - la: i-athikili
+  - la: '-'
   - junulon: umntu oselula
   - ','
   - kiuj: ababe
@@ -42,7 +42,7 @@
   - grandan: elikhulu
   - tablon: itafile
   - '?'
-- demando: Kwenzeka njani ukuthi ubuye kithi ngaphandle kwezingane zakwenu?
+- demando: Kwenzeka njani ukuthi ubuye kithi ngaphandle kwezumntwana zakwenu?
   rektatraduko:
   - Kiel: Kanjani
   - okazis: kwenzeka
@@ -62,7 +62,7 @@
   - vi: wena
   - povas: unako
   - per: ngosizo lwe
-  - la: i-athikili
+  - la: '-'
   - nova: entsha
   - lernolibro: incwadi yokufunda
   - sufiĉe: ngokwanele

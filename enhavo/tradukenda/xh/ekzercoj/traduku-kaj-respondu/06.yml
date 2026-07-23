@@ -22,18 +22,18 @@
   - morgaŭ: ngomso
   - matenmanĝi: ukutya isidlo sakusasa
   - '?'
-- demando: UMarko uza kufika nini, ngentsimbi yesihlanu okanye lesibhozo?
+- demando: UMarko uza kufika nini, ngentsimbi yesihlanu okanye eyesibhozo?
   rektatraduko:
   - Kiam: Nini
   - Marko: uMarko
   - alvenos: uza kufika
   - ','
   - je: ngo
-  - la: i-athikili
+  - la: '-'
   - kvina: okwesihlanu
   - aŭ: okanye
   - je: ngo
-  - la: i-athikili
+  - la: '-'
   - oka: eyesibhozo
   - horo: iyure
   - '?'
@@ -44,7 +44,7 @@
   - rimarkis: uqaphele
   - ','
   - ke: ukuthi
-  - la: i-athikili
+  - la: '-'
   - tuta: lonke
   - familio: usapho
   - nomas: ubiza
@@ -54,7 +54,7 @@
 - demando: Ngaba incwadana endikuthumele yona ibiluncedo?
   rektatraduko:
   - Ĉu: Ngaba
-  - la: i-athikili
+  - la: '-'
   - libreto: incwadana
   - ','
   - kiun: oyiphi
@@ -63,6 +63,6 @@
   - al: ku
   - vi: wena
   - ','
-  - estis: yayiluncedo
+  - estis: yayingu
   - utila: iluncedo
   - '?'

@@ -1,0 +1,72 @@
+- demando: Ngaba oweta emahotele amakhulu baqonda izilwimi eziningi?
+  rektatraduko:
+  - Ĉu: Ngaba
+  - kelneroj: oweta
+  - en: ku
+  - grandaj: amakhulu
+  - hoteloj: amahotele
+  - komprenas: baqonda
+  - multajn: eziningi
+  - lingvojn: iilwimi
+  - '?'
+- demando: Uyazi yintoni ukuthi u-Ana uyayithanda ingoma entsha ngomuntu ompofu nowasetyhini omhle?
+  rektatraduko:
+  - Ĉu: Ngaba
+  - vi: wena
+  - scias: uyazi
+  - ','
+  - ĉu: ngaba
+  - Ana: u-Ana
+  - ŝatas: uthanda
+  - la: i-athikili
+  - novan: entsha
+  - kanton: ingoma
+  - pri: mayelana
+  - malriĉulo: umntu ompofu
+  - kaj: kwaye
+  - belulino: owasetyhini omhle
+  - '?'
+- demando: Umbone phi umntu omdala nomntu oselula bephethe itafile enkulu?
+  rektatraduko:
+  - Kie: Kuphi
+  - vi: wena
+  - vidis: wabona
+  - la: i-athikili
+  - maljunulon: umntu omdala
+  - kaj: kwaye
+  - la: i-athikili
+  - junulon: umntu oselula
+  - ','
+  - kiuj: ababe
+  - portis: bephethe
+  - grandan: elikhulu
+  - tablon: itafile
+  - '?'
+- demando: Kwenzeka njani ukuthi ubuye kithi ngaphandle kwezingane zakwenu?
+  rektatraduko:
+  - Kiel: Kanjani
+  - okazis: kwenzeka
+  - ','
+  - ke: ukuthi
+  - vi: wena
+  - denove: kwakhona
+  - venis: weza
+  - al: ku
+  - ni: thina
+  - sen: ngaphandle
+  - gefratoj: abantakwethu noodadewethu
+  - '?'
+- demando: Ungakwazi ukufunda i-Esperanto ngokukhawuleza ngokwanele ngencwadi entsha yokufunda?
+  rektatraduko:
+  - Ĉu: Ngaba
+  - vi: wena
+  - povas: unako
+  - per: ngosizo lwe
+  - la: i-athikili
+  - nova: entsha
+  - lernolibro: incwadi yokufunda
+  - sufiĉe: ngokwanele
+  - rapide: ngokukhawuleza
+  - lerni: ukufunda
+  - Esperanton: i-Esperanto
+  - '?'

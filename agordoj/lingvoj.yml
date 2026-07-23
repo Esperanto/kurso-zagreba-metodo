@@ -659,6 +659,14 @@ wuu:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+xh:
+  nomo:
+    fontlingve: isiXhosa
+    esperante: kosa
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 yo:
   nomo:
     fontlingve: yorùbá

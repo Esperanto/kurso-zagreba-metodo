@@ -15,14 +15,14 @@ aspekt:
 atend: ukulinda
 atent: ukunaka
 aĉet: ukuthenga
-aŭd: ukuzwa
-aŭskult: ukulalela
+aŭd: ukuva
+aŭskult: ukumamela
 aŭt: imoto
 aŭtoritat: igunya
 bedaŭr: ukuzisola
 bel: kuhle
 best: isilwanyana
-bezon: ukudinga
+bezon: ukufuna
 bien:
 - ipulazi
 - indawo
@@ -40,9 +40,9 @@ dezir: ukufisa
 diabl: udeveli
 dik:
 - ityebile
-- ukutyeba
+- ukuba ngqindilili
 dimanĉ: iSonto
-dir: ukusho
+dir: ukutsho
 direkt: ukuqondisa
 divers: ahlukene
 doktor: udokotela
@@ -61,7 +61,7 @@ ekskurs: uhambo
 ekzempl: isibonelo
 esper: ukwethemba
 est: ukuba
-facil: lula
+facil: kulula
 fakt: iqiniso
 fal: ukuwa
 famili: usapho
@@ -76,14 +76,14 @@ flank: uhlangothi
 foj:
 - ixesha
 - ithuba
-forges: ukukhohlwa
+forges: ukulibala
 form: isimo
 fort: qinile
-fot: isithombe
+fot: umfanekiso
 frat: ubhuti
 fru: kwangoko
 fuŝ: ukwenza kabi
-glas: ingilazi
+glas: iglasi
 gondol: igondola
 graf:
 - igrafu
@@ -111,9 +111,9 @@ itali: i-Italy
 jar: unyaka
 jun: mncinci
 kaf: ikofu
-kalv: impandla
+kalv: umpandla
 kant: ukucula
-kap: ikhanda
+kap: intloko
 kapabl: ukwazi
 kapt: ukubamba
 kar: othandekayo
@@ -139,7 +139,7 @@ kred: ukukholwa
 kri: ukumemelela
 kuir: ukupheka
 kuk: ikhekhe
-kur: ukugijima
+kur: ukubaleka
 labor: ukusebenza
 lakt: ubisi
 lamp: isibane
@@ -153,10 +153,10 @@ leg: ukufunda
 lern: ukufunda
 leter: incwadi
 liber: khululekile
-libr: ibhuku
+libr: incwadi
 lingv: ulwimi
 lok: indawo
-long: de
+long: nde
 loĝ:
 - ukuhlala
 - ukuhlala endaweni
@@ -207,7 +207,7 @@ pan: isonka
 paper: iphepha
 pardon: ukuxolela
 parol: ukuthetha
-part: ingxenye
+part: inxalenye
 pas: ukudlula
 patr: utata
 paŝ: ukunyathela
@@ -225,7 +225,7 @@ plor:
 - ukukhala
 - ukulila
 pluv: ukuna kwemvula
-polic: amaphoyisa
+polic: amapolisa
 pord: umnyango
 port: ukuthwala
 pov: ukukwazi
@@ -269,16 +269,16 @@ sam: okufanayo
 san: enempilo
 sat:
 - ukusutha
-- usuthi
+- usuthe
 saĝ: hlakaniphile
 sci: ukwazi
 sek: oma
 sekret: imfihlo
 sekv: ukulandela
-semajn: isonto
+semajn: iveki
 send: ukuthumela
 sent: ukuzizwa
-serĉ: ukusesha
+serĉ: ukukhangela
 seĝ: isihlalo
 si: isabizwana sokuzibuyisela
 sid: ukuhlala phansi
@@ -297,7 +297,7 @@ son:
 sovaĝ: zasendle
 sport: ezemidlalo
 star: ukuma
-strat: umgwaqo
+strat: isitalato
 subit: ngesiquphe
 sufiĉ: kwanele
 suk: ijusi
@@ -306,17 +306,17 @@ sun: ilanga
 supr: phezulu
 tabl: itafile
 tag: usuku
-te: itiye
+te: iti
 telefon: ucingo
 temp: ixesha
-temperatur: izinga lokushisa
+temperatur: iqondo lobushushu
 ten: ukubamba
 teror: ukwesabisa
 terur: eyoyikisayo
-tim: ukwesaba
+tim: ukoyika
 ton: ithoni
 trankvil: ezolile
-trink: ukuphuza
+trink: ukusela
 trov: ukufumana
 turk: isiTurkey
 tut: zonke
@@ -325,7 +325,7 @@ universal: jikelele
 urb: idolobha
 util: lusizo
 uz: ukusebenzisa
-vagon: inqola
+vagon: ikhabhathi kaloliwe
 varm: fudumele
 ven: ukuza
 vend: ukuthengisa

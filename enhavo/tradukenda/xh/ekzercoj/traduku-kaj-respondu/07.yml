@@ -1,4 +1,4 @@
-- demando: Ngubani obephethe incwadi obuyilinde iminyaka engaphezu kwemibili?
+- demando: Ngubani obephethe incwadi obuyilinde iminyaka engaphezu kwemibini?
   rektatraduko:
   - Kiu: Ngubani
   - havis: wayenayo
@@ -10,10 +10,10 @@
   - atendis: wawulindile
   - pli: ngaphezulu
   - ol: kuno
-  - du: ezimbili
+  - du: ezimbini
   - jarojn: iminyaka
   - '?'
-- demando: Ufuna ndikubonise isithombe engisithanda kakhulu?
+- demando: Ufuna ndikubonise umfanekiso engisithanda kakhulu?
   rektatraduko:
   - Ĉu: Ngaba
   - vi: wena
@@ -27,7 +27,7 @@
   - mian: yam
   - plej: kakhulu
   - karan: othandekayo
-  - foton: isithombe
+  - foton: umfanekiso
   - '?'
 - demando: Uyithenge phi leyo ngubo?
   rektatraduko:
@@ -35,7 +35,7 @@
   - vi: wena
   - aĉetis: wathenga
   - tiun: leyo
-  - vestaĵon: isofani
+  - vestaĵon: impahla
   - '?'
 - demando: Uzoya phi ngeSonto ukuba kuwusuku olunelanga?
   rektatraduko:
@@ -44,7 +44,7 @@
   - iros: uza kuhamba
   - dimanĉe: ngeSonto
   - ','
-  - se: uma
+  - se: ukuba
   - estos: kuzoba
   - suna: enelanga
   - tago: usuku
@@ -67,5 +67,5 @@
   - kiun: oyiphi
   - vi: wena
   - mem: ngokwakho
-  - kunportis: weza nakho
+  - kunportis: uze nayo
   - '?'

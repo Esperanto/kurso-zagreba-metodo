@@ -1,13 +1,13 @@
-- demando: Ngizokubona nini kwaye?
+- demando: Ndiza kukubona nini kwakhona?
   rektatraduko:
   - Kiam: Nini
   - mi: mna
-  - revidos: ngizobona kwaye
+  - revidos: ndiza kubona kwakhona
   - vin: wena
   - '?'
 - demando: Usufunde ixesha esingakanani ulwimi lwamazwe ngamazwe?
   rektatraduko:
-  - Kiom: Kungakanani
+  - Kiom: Kangakanani
   - longe: ixesha eside
   - vi: wena
   - lernas: ufunda
@@ -17,7 +17,7 @@
   - '?'
 - demando: Iphi incwadi yam entsha enezithombe?
   rektatraduko:
-  - Kie: Kuphi
+  - Kie: Phi
   - estas: ikhona
   - mia: yam
   - nova: entsha
@@ -27,7 +27,7 @@
   - '?'
 - demando: Uzoya phi emva kwesidlo sasemini?
   rektatraduko:
-  - Kien: Kuya phi
+  - Kien: Ukuya phi
   - vi: wena
   - iros: uza kuhamba
   - post: emva
@@ -50,14 +50,14 @@
   - estas: kuba
   - malvarme: kubanda
   - '?'
-- demando: Uhlala uthukuthele ixesha esingakanani ukuba umntu ekuthathela imali eningi?
+- demando: Uhlala ucaphukile ixesha esingakanani ukuba umntu ekuthathela imali eningi?
   rektatraduko:
-  - Kiom: Kungakanani
+  - Kiom: Kangakanani
   - longe: ixesha eside
   - vi: wena
-  - koleras: uthukuthele
+  - koleras: ucaphukile
   - ','
-  - se: uma
+  - se: ukuba
   - oni: umntu
   - forprenas: ethatha
   - de: ka

@@ -1,21 +1,21 @@
-- demando: Ngubani ozohlanza ikhishi emva kwesidlo sasemini?
+- demando: Ngubani oza kucoca ikhitshi emva kwesidlo sasemini?
   rektatraduko:
   - Kiu: Ngubani
-  - purigos: uzohlanza
+  - purigos: uza kucoca
   - la: '-'
-  - kuirejon: ikhishi
+  - kuirejon: ikhitshi
   - post: emva
   - la: '-'
   - tagmanĝo: isidlo sasemini
   - '?'
-- demando: 'Ungathanda ukuphuza ini: itiye, ikofu, okanye lutho?'
+- demando: 'Ungathanda ukusela ini: iti, ikofu, okanye akukho nto?'
   rektatraduko:
   - Kion: Yintoni
   - vi: wena
   - volas: ufuna
-  - trinki: ukuphuza
+  - trinki: ukusela
   - ':'
-  - teon: itiye
+  - teon: iti
   - ','
   - iom: okuncinci
   - da: ka
@@ -24,7 +24,7 @@
   - ĉu: ngaba
   - vi: wena
   - volas: ufuna
-  - nenion: lutho
+  - nenion: akukho nto
   - '?'
 - demando: Kutheni ugqibe ngesiquphe kangaka ukulungisa kwakhona igumbi lakho elincinci?
   rektatraduko:
@@ -37,44 +37,44 @@
   - vian: yakho
   - ĉambreton: igumbi elincinci
   - '?'
-- demando: Uzinike bani izingilazi zewayintoni ezihlanzekile?
+- demando: Uzinike bani iiglasi zewayini ezicocekileyo?
   rektatraduko:
   - Al: Ku
-  - kiu: kngubani
+  - kiu: kubani
   - vi: wena
-  - donis: wanikeza
+  - donis: unike
   - la: '-'
-  - purajn: ezihlanzekile
-  - glasojn: izingilazi
-  - por: ye
+  - purajn: ezicocekileyo
+  - glasojn: iiglasi
+  - por: ye-
   - la: '-'
-  - vino: iwayintoni
+  - vino: iwayini
   - '?'
-- demando: Iklabhu yakho yezemidlalo yadlala nngoobani emasontweni amabili adlule?
+- demando: Iklabhu yakho yezemidlalo yadlala nangoobani kwiiveki ezimbini ezidlulileyo?
   rektatraduko:
-  - Kontraŭ: Ngokumelene
-  - kiu: kngubani
+  - Kontraŭ: Ngokuchasene
+  - kiu: kubani
   - ludis: wadlala
   - via: wakho
   - sportklubo: iklabhu yezemidlalo
   - antaŭ: ngaphambi
-  - du: ezimbili
-  - semajnoj: amasonto
+  - du: ezimbini
+  - semajnoj: iiveki
   - '?'
-- demando: Uqhele ukubona ipolisa elihlala kwiflethi elingaphezu kwakho?
+- demando: Uqhele ukubona ipolisa elihlala kwiflethi elingaphezulu kwakho?
   rektatraduko:
   - Ĉu: Ngaba
   - vi: wena
-  - ofte: kaningi
+  - ofte: rhoqo
   - vidas: uyabona
   - la: '-'
   - policiston: ipolisa
   - ','
-  - kiu: kngubani
+  - kiu: kubani
   - loĝas: uhlala
   - en: ku
   - la: '-'
-  - loĝejo: ifulethi
-  - super: ngaphezu
+  - loĝejo: iflethi
+  - super: ngaphezulu
   - vi: wena
   - '?'

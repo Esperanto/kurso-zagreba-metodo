@@ -1,11 +1,11 @@
-- demando: Ungakwazi ukuza nomuthi kadadewethu?
+- demando: Ungakwazi ukuza neyeza kadadewethu?
   rektatraduko:
   - Ĉu: Ngaba
   - vi: wena
   - povas: unako
   - kunporti: ukuza nayo
   - la: '-'
-  - sanigilon: umuthi
+  - sanigilon: iyeza
   - de: ka
   - mia: yam
   - fratino: usisi
@@ -16,15 +16,15 @@
   - vi: wena
   - aĉetis: wathenga
   - tiun: leyo
-  - muzikilon: insimbi yomculo
+  - muzikilon: isixhobo somculo
   - '?'
-- demando: Ngubani osebenzise ukhiye wami okokugcina?
+- demando: Ngubani osebenzise isitshixo sam okokugqibela?
   rektatraduko:
   - Kiu: Ngubani
   - laste: okokugcina
   - uzis: wasebenzisa
-  - mian: yam
-  - ŝlosilon: ukhiye
+  - mian: sam
+  - ŝlosilon: isitshixo
   - '?'
 - demando: Nawe wahamba ngegondola eVenice?
   rektatraduko:
@@ -34,16 +34,16 @@
   - Venecio: iVenice
   - veturis: wahamba
   - ankaŭ: kwaye
-  - per: ngosizo lwe
+  - per: ngokusebenzisa
   - gondolo: igondola
   - '?'
-- demando: Uzokwazi ukulala lapho sekuthule?
+- demando: Uza kukwazi ukuqalisa ukulala xa kuza kuthula?
   rektatraduko:
   - Ĉu: Ngaba
   - vi: wena
-  - povos: uzokwazi
-  - ekdormi: ukulala
+  - povos: uza kukwazi
+  - ekdormi: ukuqalisa ukulala
   - ','
-  - kiam: lapho
-  - silentiĝos: kuzothula
+  - kiam: xa
+  - silentiĝos: kuza kuthula
   - '?'

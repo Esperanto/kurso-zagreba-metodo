@@ -1,0 +1,51 @@
+- demando: Ngubani umhlobo wakho?
+  rektatraduko:
+  - Kiu: Ngubani
+  - estas: ngu
+  - via: wakho
+  - amikino: umhlobo wasetyhini
+  - '?'
+- demando: Ngaba umhlobo wakho u-Ana uyabhala egumbini ngoku?
+  rektatraduko:
+  - Ĉu: Ngaba
+  - via: wakho
+  - amikino: umhlobo wasetyhini
+  - Ana: u-Ana
+  - skribas: uyabhala
+  - nun: ngoku
+  - en: ku
+  - la: '-'
+  - ĉambro: igumbi
+  - '?'
+- demando: Ngaba umhlobo kayihlo usebenza ehotele?
+  rektatraduko:
+  - Ĉu: Ngaba
+  - la: '-'
+  - amiko: umhlobo
+  - de: ka
+  - via: wakho
+  - patro: utata
+  - laboras: uyasebenza
+  - en: ku
+  - hotelo: ihotele
+  - '?'
+- demando: Yintoni ephezu kwetafile yomsebenzi egumbini lethu?
+  rektatraduko:
+  - Kio: Yintoni
+  - estas: ikhona
+  - sur: phezu
+  - la: '-'
+  - labortablo: itafile yomsebenzi
+  - en: ku
+  - nia: lethu
+  - ĉambro: igumbi
+  - '?'
+- demando: Ngaba ikhona incwadi yokufunda i-Esperanto etafileni yakho?
+  rektatraduko:
+  - Ĉu: Ngaba
+  - Esperanto-lernolibro: incwadi yokufunda isi-Esperanto
+  - estas: ikhona
+  - sur: phezu
+  - via: wakho
+  - tablo: itafile
+  - '?'

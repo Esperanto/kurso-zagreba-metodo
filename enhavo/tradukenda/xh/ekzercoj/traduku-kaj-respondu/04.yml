@@ -1,0 +1,67 @@
+- demando: Ndiza kukubona nini kwakhona?
+  rektatraduko:
+  - Kiam: Nini
+  - mi: mna
+  - revidos: ndiza kubona kwakhona
+  - vin: wena
+  - '?'
+- demando: Usufunde ixesha esingakanani ulwimi lwamazwe ngamazwe?
+  rektatraduko:
+  - Kiom: Kangakanani
+  - longe: ixesha eside
+  - vi: wena
+  - lernas: ufunda
+  - la: '-'
+  - Internacian: yamazwe ngamazwe
+  - Lingvon: ulwimi
+  - '?'
+- demando: Iphi incwadi yam entsha enezithombe?
+  rektatraduko:
+  - Kie: Phi
+  - estas: ikhona
+  - mia: yam
+  - nova: entsha
+  - libro: incwadi
+  - kun: kanye
+  - fotoj: izithombe
+  - '?'
+- demando: Uzoya phi emva kwesidlo sasemini?
+  rektatraduko:
+  - Kien: Ukuya phi
+  - vi: wena
+  - iros: uza kuhamba
+  - post: emva
+  - la: '-'
+  - tagmanĝo: isidlo sasemini
+  - '?'
+- demando: Ungawuvala umnyango wegumbi lapho kubanda?
+  rektatraduko:
+  - Ĉu: Ngaba
+  - oni: umntu
+  - povas: unako
+  - fermi: ukuvala
+  - la: '-'
+  - pordon: umnyango
+  - de: ka
+  - la: '-'
+  - ĉambro: igumbi
+  - ','
+  - kiam: lapho
+  - estas: kuba
+  - malvarme: kubanda
+  - '?'
+- demando: Uhlala ucaphukile ixesha esingakanani ukuba umntu ekuthathela imali eningi?
+  rektatraduko:
+  - Kiom: Kangakanani
+  - longe: ixesha eside
+  - vi: wena
+  - koleras: ucaphukile
+  - ','
+  - se: ukuba
+  - oni: umntu
+  - forprenas: ethatha
+  - de: ka
+  - vi: wena
+  - multan: eningi
+  - monon: imali
+  - '?'

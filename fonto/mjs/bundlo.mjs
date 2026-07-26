@@ -1,7 +1,7 @@
 // Konstruas la pakaĵojn per esbuild:
-//   dist/bundle.css  – Fira-Sans + Bootstrap + main.css + vortaro.css (+ files/)
-//   dist/bundle.js   – jQuery, Bootstrap, typeahead, main.js, pwa-state.js, vortaro.js
-//   dist/hejmo.js    – la memstara skripto de la lingvo-startpaĝo
+//   fonto/aktivoj/dist/bundle.css  – Fira-Sans + Bootstrap + CSS-fontoj (+ files/)
+//   fonto/aktivoj/dist/bundle.js   – jQuery, Bootstrap, typeahead, main.js, pwa-state.js, vortaro.js
+//   fonto/aktivoj/dist/hejmo.js    – la memstara skripto de la lingvo-startpaĝo
 //
 // La vendaj JS-dosieroj estas jam minigitaj kaj estas nur KUNMETITAJ (ne ESM-
 // pakitaj), por ke jQuery kaj ĝiaj kromaĵoj registru siajn globalajn variablojn
@@ -13,10 +13,10 @@ import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
-const dir = path.dirname(fileURLToPath(import.meta.url)); // fonto/aktivoj
+const dir = path.dirname(fileURLToPath(import.meta.url)); // fonto/mjs
 const root = path.resolve(dir, '..', '..');               // deponeja radiko
 const nodeModules = path.join(root, 'node_modules');
-const dist = path.join(dir, 'dist');
+const dist = path.join(root, 'fonto/aktivoj/dist');
 
 await rm(dist, { recursive: true, force: true });
 await mkdir(dist, { recursive: true });
@@ -24,7 +24,7 @@ await mkdir(dist, { recursive: true });
 // 1) CSS-pakaĵo: esbuild solvas la @import-ojn kaj kopias la tiparojn.
 const bundleCssPath = path.join(dist, 'bundle.css');
 await esbuild.build({
-  entryPoints: [path.join(dir, 'stilo.css')],
+  entryPoints: [path.join(root, 'fonto/css/stilo.css')],
   bundle: true,
   minify: true,
   loader: { '.woff2': 'file', '.woff': 'file' },

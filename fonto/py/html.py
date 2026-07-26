@@ -24,7 +24,7 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
 AKTIVOJ_DIST_DIR = FONTO_DIR / 'aktivoj' / 'dist'
-REDAKTOJ_RENDERER = FONTO_DIR / 'aktivoj' / 'redaktoj.mjs'
+REDAKTOJ_RENDERER = FONTO_DIR / 'mjs' / 'redaktoj.mjs'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
 SITE_NAME = 'Esperanto12.net'
 SITE_URL = 'https://esperanto12.net'
@@ -979,7 +979,7 @@ def copy_static_files(versio, meta_description, hejmaj_lingvoj):
         ignore=shutil.ignore_patterns('icon-192.png', 'icon-512.png'),
     )
 
-    # Kopiu la esbuild-pakaĵojn (vd. fonto/aktivoj/bundlo.mjs).
+    # Kopiu la esbuild-pakaĵojn (vd. fonto/mjs/bundlo.mjs).
     if not (AKTIVOJ_DIST_DIR / 'bundle.css').is_file():
         raise SystemExit('Mankas la pakaĵoj en ' + str(AKTIVOJ_DIST_DIR) + '. Rulu `make bundle`.')
     assets_dir = OUTPUT_DIR / 'assets'

@@ -4,5 +4,5 @@
 @import '@fontsource/fira-sans/700.css';
 @import 'bootstrap/dist/css/bootstrap.min.css';
 @import 'diff2html/bundles/css/diff2html.min.css';
-@import '../css/main.css';
-@import '../css/vortaro.css';
+@import './main.css';
+@import './vortaro.css';

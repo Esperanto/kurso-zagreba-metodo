@@ -5,7 +5,7 @@
     "node": "24.14.1"
   },
   "scripts": {
-    "bundle": "node fonto/aktivoj/bundlo.mjs"
+    "bundle": "node fonto/mjs/bundlo.mjs"
   },
   "dependencies": {
     "@fontsource/fira-sans": "^5.2.7",

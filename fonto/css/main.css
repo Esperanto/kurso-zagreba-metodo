@@ -202,7 +202,8 @@ h3 {
   white-space: normal;
   width: 100%;
 }
-.redaktoj-diff .d2h-code-side-line:has(.d2h-code-line-ctn) {
+.redaktoj-diff .d2h-del > .d2h-code-side-line,
+.redaktoj-diff .d2h-ins > .d2h-code-side-line {
   align-items: start;
   column-gap: 0.25em;
   display: grid;

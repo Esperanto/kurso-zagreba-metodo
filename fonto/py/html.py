@@ -24,6 +24,7 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
 AKTIVOJ_DIST_DIR = FONTO_DIR / 'aktivoj' / 'dist'
+REDAKTOJ_RENDERER = FONTO_DIR / 'aktivoj' / 'redaktoj.mjs'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
 SITE_NAME = 'Esperanto12.net'
 SITE_URL = 'https://esperanto12.net'
@@ -655,6 +656,148 @@ def redaktaj_ligiloj(lingvo, tab=None, leciono=None):
     return []
 
 
+def havas_redaktoj_agordon(lingvo):
+    redaktoj = lingvo.get('redaktoj')
+    return isinstance(redaktoj, dict) and bool(redaktoj.get('de'))
+
+
+def redaktoj_lingvokodoj(lingvoj, lingvokodoj=None):
+    por_kontroli = lingvokodoj or sorted(lingvoj)
+    return [
+        kodo
+        for kodo in por_kontroli
+        if kodo in lingvoj and havas_redaktoj_agordon(lingvoj[kodo])
+    ]
+
+
+def redaktoj_agordo(enhavo):
+    lingvo = enhavo['lingvo']
+    redaktoj = enhavo['lingvoj'][lingvo].get('redaktoj')
+    if redaktoj is None:
+        return None
+    if not isinstance(redaktoj, dict):
+        raise SystemExit('Nevalida redaktoj-agordo por ' + lingvo + ': ĝi devas esti mapo.')
+    de_ref = redaktoj.get('de')
+    if not de_ref:
+        raise SystemExit('Mankas redaktoj.de por ' + lingvo + '.')
+    return {
+        'de': str(de_ref),
+        'al': str(redaktoj.get('al') or 'HEAD'),
+    }
+
+
+def git_commit(ref, lingvo, nomo):
+    try:
+        return subprocess.check_output(
+            ['git', 'rev-parse', '--verify', f'{ref}^{{commit}}'],
+            cwd=str(ROOT_DIR),
+            stderr=subprocess.PIPE,
+            text=True,
+        ).strip()
+    except (OSError, subprocess.CalledProcessError) as error:
+        detaloj = ''
+        if isinstance(error, subprocess.CalledProcessError):
+            detaloj = (error.stderr or '').strip()
+        if detaloj:
+            detaloj = ': ' + detaloj
+        raise SystemExit(
+            'Nevalida redaktoj.' + nomo + ' por ' + lingvo + ': ' + str(ref) + detaloj
+        )
+
+
+def redaktoj_git_diff(lingvo, de_commit, al_commit):
+    try:
+        return subprocess.check_output(
+            [
+                'git',
+                'diff',
+                '--no-ext-diff',
+                '--find-renames',
+                '--ignore-all-space',
+                '--ignore-blank-lines',
+                de_commit,
+                al_commit,
+                '--',
+                'enhavo/tradukenda/' + lingvo,
+            ],
+            cwd=str(ROOT_DIR),
+            stderr=subprocess.PIPE,
+            text=True,
+        )
+    except (OSError, subprocess.CalledProcessError) as error:
+        detaloj = ''
+        if isinstance(error, subprocess.CalledProcessError):
+            detaloj = (error.stderr or '').strip()
+        if detaloj:
+            detaloj = ': ' + detaloj
+        raise SystemExit('Ne eblis krei redaktoj-diffon por ' + lingvo + detaloj)
+
+
+def render_redaktoj_diff(diff):
+    try:
+        rezulto = subprocess.run(
+            ['node', str(REDAKTOJ_RENDERER)],
+            cwd=str(ROOT_DIR),
+            input=diff,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            check=True,
+        )
+    except (OSError, subprocess.CalledProcessError) as error:
+        detaloj = ''
+        if isinstance(error, subprocess.CalledProcessError):
+            detaloj = (error.stderr or '').strip()
+        else:
+            detaloj = str(error)
+        if detaloj:
+            detaloj = ': ' + detaloj
+        raise SystemExit('Ne eblis bildigi redaktoj-diffon per diff2html' + detaloj)
+    return Markup(rezulto.stdout)
+
+
+def redaktoj_seo_datenoj(enhavo):
+    seo = seo_datenoj(enhavo, 'redaktoj/')
+    seo['alternaj_ligiloj'] = []
+    seo['noindex'] = True
+    return seo
+
+
+def render_redaktoj_page(
+    enhavo,
+    vojprefikso,
+    env,
+    lingvoelektilo_vojprefikso,
+    lingvoelektilo_lingvoj,
+):
+    lingvo = enhavo['lingvo']
+    agordo = redaktoj_agordo(enhavo)
+    de_commit = git_commit(agordo['de'], lingvo, 'de')
+    al_commit = git_commit(agordo['al'], lingvo, 'al')
+    diff = redaktoj_git_diff(lingvo, de_commit, al_commit)
+    diff_html = render_redaktoj_diff(diff)
+    redaktoj = {
+        'de_ref': agordo['de'],
+        'de_commit': de_commit,
+        'de_commit_short': de_commit[:7],
+        'al_ref': agordo['al'],
+        'al_commit': al_commit,
+        'al_commit_short': al_commit[:7],
+        'havas_difon': bool(diff.strip()),
+        'diff_html': diff_html,
+    }
+    return env.get_template('redaktoj.html').render(
+        enhavo=enhavo,
+        vojprefikso=vojprefikso,
+        lingvoelektilo_vojprefikso=lingvoelektilo_vojprefikso,
+        lingvoelektilo_lingvoj=lingvoelektilo_lingvoj,
+        identigilo='redaktoj/',
+        redaktaj_ligiloj=[],
+        redaktoj=redaktoj,
+        seo=redaktoj_seo_datenoj(enhavo),
+    )
+
+
 def write_file(filename, content):
     path = Path(filename)
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -859,6 +1002,7 @@ def generate_html(
     args,
     kopiu_statikan=True,
     hejmaj_lingvoj=None,
+    redaktoj_lingvoj=None,
 ):
     eligo = {}
     version_commit = get_version_commit()
@@ -879,6 +1023,8 @@ def generate_html(
             meta_description_from_markdown(angla_enkonduko),
             hejmaj_lingvoj or [],
         )
+    if redaktoj_lingvoj is None:
+        redaktoj_lingvoj = redaktoj_lingvokodoj(enhavo['lingvoj'], [lingvo])
 
     env = jinja2.Environment(auto_reload=False)
     env.filters['markdown'] = render_markdown
@@ -975,6 +1121,15 @@ def generate_html(
             env,
             pagxaj_ligiloj,
             lingvoelektilo_vojprefikso,
+        )
+
+    if havas_redaktoj_agordon(enhavo['lingvoj'][lingvo]):
+        eligo[output_path / 'redaktoj' / 'index.html'] = render_redaktoj_page(
+            enhavo,
+            vojprefikso,
+            env,
+            lingvoelektilo_vojprefikso,
+            redaktoj_lingvoj,
         )
 
     # La fluo: 12 lecionoj × langetoj, poste la apendicaj langetoj kiel «leciono 13».

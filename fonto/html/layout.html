@@ -103,7 +103,8 @@
               🌐
             </button>
             <ul class="dropdown-menu dropdown-menu-end navbar-lingvoj">
-              {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato in enhavo.publikaj_lingvo_statoj %}
+              {% set lingvoelektilo_kodoj = lingvoelektilo_lingvoj if lingvoelektilo_lingvoj is defined else enhavo.lingvoj|sort %}
+              {% for kodo in lingvoelektilo_kodoj if enhavo.lingvoj[kodo].stato in enhavo.publikaj_lingvo_statoj %}
                 <li>
                   <a
                     class="dropdown-item"
@@ -115,7 +116,7 @@
                   >{{enhavo.lingvoj[kodo].nomo.fontlingve}} ({{kodo}})</a>
                 </li>
               {% endfor %}
-              {% for kodo in enhavo.lingvoj|sort if enhavo.lingvoj[kodo].stato == 'testa' %}
+              {% for kodo in lingvoelektilo_kodoj if enhavo.lingvoj[kodo].stato == 'testa' %}
                 <li>
                   <a
                     class="dropdown-item"

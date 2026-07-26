@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block title %}
+  Redaktoj
+  |
+  {{enhavo.fasado['Lerni Esperanton en 12 lecionoj']}}
+{% endblock %}
+
+{% block content %}
+
+<h2>Redaktoj</h2>
+
+<dl class="redaktoj-metadatenoj">
+  <dt>Dosierujo</dt>
+  <dd><code>enhavo/tradukenda/{{enhavo.lingvo}}</code></dd>
+  <dt>De</dt>
+  <dd><code>{{redaktoj.de_ref}}</code> <span class="text-muted">({{redaktoj.de_commit_short}})</span></dd>
+  <dt>Al</dt>
+  <dd><code>{{redaktoj.al_ref}}</code> <span class="text-muted">({{redaktoj.al_commit_short}})</span></dd>
+</dl>
+
+{% if not redaktoj.havas_difon %}
+  <p class="alert alert-info" role="alert">Neniuj redaktoj troviĝis en tiu intervalo.</p>
+{% endif %}
+
+<div class="redaktoj-diff">
+  {{redaktoj.diff_html|safe}}
+</div>
+
+{% endblock %}

@@ -8,9 +8,13 @@ import tempfile
 import zipfile
 from pathlib import Path
 
+import yaml
+
 from .ankroj import fari_ankron
 
 
+ROOT_DIR = Path(__file__).resolve().parents[2]
+YAML_LOADER = getattr(yaml, 'CSafeLoader', yaml.SafeLoader)
 GRAMATIKO_PATTERN = re.compile(r'<h3 id="alphabet">Alphabet</h3>')
 GRAMATIKO_CXU_PATTERN = re.compile(r'<h3 id="ĉu"><em>Ĉu\?</em></h3>')
 GRAMATIKO_TOC_PATTERN = re.compile(
@@ -94,6 +98,10 @@ JSON_LD_SCRIPT_PATTERN = re.compile(
     r'<script type="application/ld\+json">\s*(.*?)\s*</script>',
     re.S,
 )
+REDAKTOJ_DIFF2HTML_PATTERN = re.compile(r'class="[^"]*\bd2h-wrapper\b')
+REDAKTOJ_NOINDEX_PATTERN = re.compile(r'<meta name="robots" content="noindex, follow" />')
+REDAKTOJ_PATH_PATTERN = re.compile(r'enhavo/tradukenda/([A-Za-z0-9_-]+)')
+REDAKTOJ_CONTEXT_CLASS_PATTERN = re.compile(r'class="([^"]*\bd2h-cntx\b[^"]*)"')
 
 
 def fail(message):
@@ -150,8 +158,11 @@ def forbid_pattern(path, pattern):
         fail('trovis neatenditan enhavon en ' + str(path))
 
 
-def forbid_noindex_in_html_tree(path):
+def forbid_noindex_in_html_tree(path, permitted_relative_paths=None):
+    permitted_relative_paths = set(permitted_relative_paths or [])
     for html_path in sorted(path.rglob('*.html')):
+        if html_path.relative_to(path).as_posix() in permitted_relative_paths:
+            continue
         forbid_pattern(html_path, ROBOTS_NOINDEX_PATTERN)
 
 
@@ -262,6 +273,41 @@ def require_course_json_ld(path):
         fail('Course JSON-LD unua leciono estas neatendita: ' + repr(first_part))
 
 
+def load_lingvoj():
+    path = ROOT_DIR / 'agordoj' / 'lingvoj.yml'
+    with path.open(encoding='utf-8-sig') as handle:
+        return yaml.load(handle, Loader=YAML_LOADER)
+
+
+def require_redaktoj_page_if_configured(output_dir, lingvo):
+    redaktoj = (load_lingvoj().get(lingvo) or {}).get('redaktoj')
+    if not isinstance(redaktoj, dict) or not redaktoj.get('de'):
+        return
+
+    path = output_dir / lingvo / 'redaktoj' / 'index.html'
+    require_nonempty_file(path)
+    text = path.read_text(encoding='utf-8')
+    if not REDAKTOJ_DIFF2HTML_PATTERN.search(text):
+        fail('redaktoj-paĝo ne enhavas diff2html-enhavon: ' + str(path))
+    if not REDAKTOJ_NOINDEX_PATTERN.search(text):
+        fail('redaktoj-paĝo ne estas markita noindex: ' + str(path))
+    for match in REDAKTOJ_CONTEXT_CLASS_PATTERN.finditer(text):
+        if 'd2h-emptyplaceholder' not in match.group(1):
+            fail('redaktoj-paĝo enhavas kuntekstajn liniojn: ' + str(path))
+    if str(redaktoj['de']) not in text:
+        fail('redaktoj-paĝo ne montras redaktoj.de: ' + str(path))
+    al_ref = str(redaktoj.get('al') or 'HEAD')
+    if al_ref not in text:
+        fail('redaktoj-paĝo ne montras redaktoj.al/HEAD: ' + str(path))
+
+    path_references = set(REDAKTOJ_PATH_PATTERN.findall(text))
+    if path_references != {lingvo}:
+        fail(
+            'redaktoj-paĝo referencas neatenditajn lingvojn: '
+            + ', '.join(sorted(path_references))
+        )
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--lingvo', required=True)
@@ -309,7 +355,7 @@ def main():
     require_pattern(output_dir / 'index.html', HREFLANG_DE_PATTERN)
     require_pattern(output_dir / 'index.html', HREFLANG_X_DEFAULT_PATTERN)
     require_pattern(output_dir / 'index.html', OG_LOCALE_ALTERNATE_DE_PATTERN)
-    forbid_noindex_in_html_tree(lingvo_dir)
+    forbid_noindex_in_html_tree(lingvo_dir, {'redaktoj/index.html'})
     forbid_og_locale_alternates_in_html_tree(lingvo_dir)
     require_pattern(output_dir / 'sitemap.xml', SITEMAP_ROOT_INDEX_PATTERN)
     for pattern in SITEMAP_ROOT_LANGUAGE_PATTERNS.values():
@@ -358,6 +404,7 @@ def main():
     require_font_preloads(output_dir / 'index.html', '')
     require_font_preloads(lingvo_dir / 'index.html', '/' + lingvo + '/../')
     require_lesson_image_alts(output_dir, lingvo)
+    require_redaktoj_page_if_configured(output_dir, lingvo)
     bundle_css = output_dir / 'assets' / 'bundle.css'
     require_pattern(bundle_css, FONT_DISPLAY_OPTIONAL_PATTERN)
     forbid_pattern(bundle_css, FONT_DISPLAY_SWAP_PATTERN)

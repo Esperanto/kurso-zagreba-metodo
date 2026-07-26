@@ -192,15 +192,27 @@ h3 {
 .redaktoj-diff .d2h-wrapper {
   min-width: 48rem;
 }
-.redaktoj-diff .d2h-code-line-ctn,
+.redaktoj-diff .d2h-file-side-diff {
+  overflow-x: hidden;
+}
 .redaktoj-diff .d2h-code-side-line {
-  overflow-wrap: normal;
+  box-sizing: border-box;
+  overflow-wrap: anywhere;
+  padding: 0 0.5em;
+  white-space: normal;
+  width: 100%;
+}
+.redaktoj-diff .d2h-code-side-line:has(.d2h-code-line-ctn) {
+  align-items: start;
+  column-gap: 0.25em;
+  display: grid;
+  grid-template-columns: 1.25em minmax(0, 1fr);
 }
 .redaktoj-diff .d2h-code-line-ctn {
-  white-space: pre;
-}
-.redaktoj-diff .d2h-code-side-line {
-  white-space: nowrap;
+  display: block;
+  overflow-wrap: anywhere;
+  white-space: pre-wrap;
+  width: auto;
 }
 
 .navbar {

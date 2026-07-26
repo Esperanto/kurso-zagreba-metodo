@@ -711,6 +711,7 @@ def redaktoj_git_diff(lingvo, de_commit, al_commit):
             [
                 'git',
                 'diff',
+                '--unified=0',
                 '--no-ext-diff',
                 '--find-renames',
                 '--ignore-all-space',

@@ -101,6 +101,7 @@ JSON_LD_SCRIPT_PATTERN = re.compile(
 REDAKTOJ_DIFF2HTML_PATTERN = re.compile(r'class="[^"]*\bd2h-wrapper\b')
 REDAKTOJ_NOINDEX_PATTERN = re.compile(r'<meta name="robots" content="noindex, follow" />')
 REDAKTOJ_PATH_PATTERN = re.compile(r'enhavo/tradukenda/([A-Za-z0-9_-]+)')
+REDAKTOJ_CONTEXT_CLASS_PATTERN = re.compile(r'class="([^"]*\bd2h-cntx\b[^"]*)"')
 
 
 def fail(message):
@@ -290,6 +291,9 @@ def require_redaktoj_page_if_configured(output_dir, lingvo):
         fail('redaktoj-paĝo ne enhavas diff2html-enhavon: ' + str(path))
     if not REDAKTOJ_NOINDEX_PATTERN.search(text):
         fail('redaktoj-paĝo ne estas markita noindex: ' + str(path))
+    for match in REDAKTOJ_CONTEXT_CLASS_PATTERN.finditer(text):
+        if 'd2h-emptyplaceholder' not in match.group(1):
+            fail('redaktoj-paĝo enhavas kuntekstajn liniojn: ' + str(path))
     if str(redaktoj['de']) not in text:
         fail('redaktoj-paĝo ne montras redaktoj.de: ' + str(path))
     al_ref = str(redaktoj.get('al') or 'HEAD')

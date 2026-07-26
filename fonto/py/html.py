@@ -23,7 +23,6 @@ from .statusoj import estas_beta_lingvo, estas_publika_lingvo
 ROOT_DIR = Path(__file__).resolve().parents[2]
 FONTO_DIR = ROOT_DIR / 'fonto'
 NODE_MODULES_DIR = ROOT_DIR / 'node_modules'
-AKTIVOJ_DIST_DIR = FONTO_DIR / 'aktivoj' / 'dist'
 REDAKTOJ_RENDERER = FONTO_DIR / 'mjs' / 'redaktoj.mjs'
 OUTPUT_DIR = ROOT_DIR / 'eligo' / 'retejo'
 SITE_NAME = 'Esperanto12.net'
@@ -1033,15 +1032,12 @@ def copy_static_files(versio, meta_description, hejmaj_lingvoj):
         ignore=shutil.ignore_patterns('icon-192.png', 'icon-512.png'),
     )
 
-    # Kopiu la esbuild-pakaĵojn (vd. fonto/mjs/bundlo.mjs).
-    if not (AKTIVOJ_DIST_DIR / 'bundle.css').is_file():
-        raise SystemExit('Mankas la pakaĵoj en ' + str(AKTIVOJ_DIST_DIR) + '. Rulu `make bundle`.')
     assets_dir = OUTPUT_DIR / 'assets'
-    assets_dir.mkdir(parents=True, exist_ok=True)
     for nomo in ('bundle.css', 'bundle.js', 'hejmo.js'):
-        shutil.copy2(AKTIVOJ_DIST_DIR / nomo, assets_dir / nomo)
-    shutil.rmtree(assets_dir / 'files', ignore_errors=True)
-    shutil.copytree(AKTIVOJ_DIST_DIR / 'files', assets_dir / 'files')
+        if not (assets_dir / nomo).is_file():
+            raise SystemExit(
+                'Mankas la pakaĵo ' + str(assets_dir / nomo) + '. Rulu `make bundle`.'
+            )
 
 
 def generate_pwa(lingvoj):

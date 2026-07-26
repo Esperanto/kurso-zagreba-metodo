@@ -1,7 +1,7 @@
 // Konstruas la pakaĵojn per esbuild:
-//   fonto/aktivoj/dist/bundle.css  – Fira-Sans + Bootstrap + CSS-fontoj (+ files/)
-//   fonto/aktivoj/dist/bundle.js   – jQuery, Bootstrap, typeahead, main.js, pwa-state.js, vortaro.js
-//   fonto/aktivoj/dist/hejmo.js    – la memstara skripto de la lingvo-startpaĝo
+//   eligo/retejo/assets/bundle.css  – Fira-Sans + Bootstrap + CSS-fontoj (+ files/)
+//   eligo/retejo/assets/bundle.js   – jQuery, Bootstrap, typeahead, main.js, pwa-state.js, vortaro.js
+//   eligo/retejo/assets/hejmo.js    – la memstara skripto de la lingvo-startpaĝo
 //
 // La vendaj JS-dosieroj estas jam minigitaj kaj estas nur KUNMETITAJ (ne ESM-
 // pakitaj), por ke jQuery kaj ĝiaj kromaĵoj registru siajn globalajn variablojn
@@ -16,7 +16,8 @@ import path from 'node:path';
 const dir = path.dirname(fileURLToPath(import.meta.url)); // fonto/mjs
 const root = path.resolve(dir, '..', '..');               // deponeja radiko
 const nodeModules = path.join(root, 'node_modules');
-const dist = path.join(root, 'fonto/aktivoj/dist');
+const outputDir = path.resolve(root, process.env.OUTPUT_DIR || 'eligo/retejo');
+const dist = path.join(outputDir, 'assets');
 
 await rm(dist, { recursive: true, force: true });
 await mkdir(dist, { recursive: true });

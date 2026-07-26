@@ -142,7 +142,7 @@ check-pwa:
 
 bundle:
 	@test -d "$(NODE_MODULES)/esbuild" || { printf '%s\n' 'Mankas esbuild en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
-	@"$(NPM)" run --silent bundle
+	@OUTPUT_DIR="$(OUTPUT_DIR)" "$(NPM)" run --silent bundle
 
 html: bundle
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo html

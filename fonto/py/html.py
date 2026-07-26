@@ -43,6 +43,7 @@ COURSE_PROVIDER = {
 }
 ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
 LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
+GIT_HISTORIO_ELSHUTITA = False
 OG_LOCALE_OVERRIDES = {
     'ar': 'ar_SA',
     'ca': 'ca_ES',
@@ -686,6 +687,45 @@ def redaktoj_agordo(enhavo):
     }
 
 
+def git_erardetaloj(error):
+    if isinstance(error, subprocess.CalledProcessError):
+        return (error.stderr or '').strip()
+    return str(error)
+
+
+def estas_malprofunda_git_deponejo():
+    try:
+        return (
+            subprocess.check_output(
+                ['git', 'rev-parse', '--is-shallow-repository'],
+                cwd=str(ROOT_DIR),
+                stderr=subprocess.PIPE,
+                text=True,
+            ).strip()
+            == 'true'
+        )
+    except (OSError, subprocess.CalledProcessError):
+        return False
+
+
+def elshutu_git_historion_se_necesas():
+    global GIT_HISTORIO_ELSHUTITA
+    if GIT_HISTORIO_ELSHUTITA or not estas_malprofunda_git_deponejo():
+        return False, ''
+
+    try:
+        subprocess.check_output(
+            ['git', 'fetch', '--no-tags', '--unshallow', 'origin'],
+            cwd=str(ROOT_DIR),
+            stderr=subprocess.PIPE,
+            text=True,
+        )
+        GIT_HISTORIO_ELSHUTITA = True
+        return True, ''
+    except (OSError, subprocess.CalledProcessError) as error:
+        return False, git_erardetaloj(error)
+
+
 def git_commit(ref, lingvo, nomo):
     try:
         return subprocess.check_output(
@@ -695,9 +735,23 @@ def git_commit(ref, lingvo, nomo):
             text=True,
         ).strip()
     except (OSError, subprocess.CalledProcessError) as error:
-        detaloj = ''
-        if isinstance(error, subprocess.CalledProcessError):
-            detaloj = (error.stderr or '').strip()
+        detaloj = git_erardetaloj(error)
+        elshutis, elshuta_eraro = elshutu_git_historion_se_necesas()
+        if elshutis:
+            try:
+                return subprocess.check_output(
+                    ['git', 'rev-parse', '--verify', f'{ref}^{{commit}}'],
+                    cwd=str(ROOT_DIR),
+                    stderr=subprocess.PIPE,
+                    text=True,
+                ).strip()
+            except (OSError, subprocess.CalledProcessError) as dua_error:
+                detaloj = git_erardetaloj(dua_error) or detaloj
+
+        if elshuta_eraro:
+            if detaloj:
+                detaloj += '; '
+            detaloj += 'ne eblis elŝuti git-historion: ' + elshuta_eraro
         if detaloj:
             detaloj = ': ' + detaloj
         raise SystemExit(

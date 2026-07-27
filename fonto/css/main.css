@@ -169,6 +169,52 @@ h3 {
 .gramatika-teksto > :first-child {
   margin-top: 0;
 }
+.redaktoj-metadatenoj {
+  display: grid;
+  font-size: 1rem;
+  gap: 0.25rem 1rem;
+  grid-template-columns: max-content minmax(0, 1fr);
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+.redaktoj-metadatenoj dd {
+  margin-bottom: 0;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.redaktoj-diff {
+  direction: ltr;
+  font-size: 0.875rem;
+  line-height: 1.35;
+  margin-bottom: 2rem;
+  overflow-x: auto;
+}
+.redaktoj-diff .d2h-wrapper {
+  min-width: 48rem;
+}
+.redaktoj-diff .d2h-file-side-diff {
+  overflow-x: hidden;
+}
+.redaktoj-diff .d2h-code-side-line {
+  box-sizing: border-box;
+  overflow-wrap: anywhere;
+  padding: 0 0.5em;
+  white-space: normal;
+  width: 100%;
+}
+.redaktoj-diff .d2h-del > .d2h-code-side-line,
+.redaktoj-diff .d2h-ins > .d2h-code-side-line {
+  align-items: start;
+  column-gap: 0.25em;
+  display: grid;
+  grid-template-columns: 1.25em minmax(0, 1fr);
+}
+.redaktoj-diff .d2h-code-line-ctn {
+  display: block;
+  overflow-wrap: anywhere;
+  white-space: pre-wrap;
+  width: auto;
+}
 
 .navbar {
   margin-bottom: 20px;

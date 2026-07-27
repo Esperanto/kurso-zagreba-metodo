@@ -391,6 +391,7 @@ def html_lingvoj(lingvoj):
 def generu_html_por_lingvoj(args, lingvoj):
     por_generi = html_lingvoj(lingvoj) if args.cxiuj_lingvoj else (args.lingvoj or [args.lingvo])
     hejmaj_lingvoj_datenoj = hejmaj_lingvoj(lingvoj)
+    redaktoj_lingvoj = html_generilo.redaktoj_lingvokodoj(lingvoj, por_generi)
     for index, lingvo in enumerate(por_generi):
         if len(por_generi) > 1:
             print('Generas HTML por ' + lingvo, flush=True)
@@ -401,6 +402,7 @@ def generu_html_por_lingvoj(args, lingvoj):
             args,
             kopiu_statikan=(index == 0),
             hejmaj_lingvoj=hejmaj_lingvoj_datenoj,
+            redaktoj_lingvoj=redaktoj_lingvoj,
         )
     html_generilo.generate_seo_files(lingvoj)
     html_generilo.generate_pwa(por_generi)

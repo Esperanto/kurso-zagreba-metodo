@@ -3,5 +3,6 @@
 @import '@fontsource/fira-sans/400.css';
 @import '@fontsource/fira-sans/700.css';
 @import 'bootstrap/dist/css/bootstrap.min.css';
-@import '../css/main.css';
-@import '../css/vortaro.css';
+@import 'diff2html/bundles/css/diff2html.min.css';
+@import './main.css';
+@import './vortaro.css';

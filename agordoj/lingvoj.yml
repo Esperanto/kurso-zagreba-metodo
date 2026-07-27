@@ -32,7 +32,7 @@ bn:
   nomo:
     fontlingve: বাংলা
     esperante: bengala
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -96,6 +96,8 @@ en:
     esperante: angla
   stato: preta
   komentejo: 1
+  redaktoj:
+    de: dfebee62fc13b314d730cf18254772478b137f4c
   aŭtoroj:
     - nomo: Georg Jähnig
       github: georgjaehnig
@@ -223,7 +225,7 @@ hi:
   nomo:
     fontlingve: हिन्दी
     esperante: hindia
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: Naga Siva Kotha 
       github: kothanagasiva
@@ -371,7 +373,7 @@ mr:
   nomo:
     fontlingve: मराठी
     esperante: marata
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -395,7 +397,7 @@ ne:
   nomo:
     fontlingve: नेपाली
     esperante: nepala
-  stato: testa
+  stato: beta
   komentejo: 0
   aŭtoroj:
     - nomo: OpenAI
@@ -422,7 +424,7 @@ pa:
   nomo:
     fontlingve: ਪੰਜਾਬੀ
     esperante: panĝaba
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -567,7 +569,7 @@ ta:
   nomo:
     fontlingve: தமிழ்
     esperante: tamila
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -655,7 +657,7 @@ wuu:
   nomo:
     fontlingve: 吴语
     esperante: ĉina (Wu)
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -679,7 +681,7 @@ yue:
   nomo:
     fontlingve: 粵語
     esperante: ĉina (kantona)
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai

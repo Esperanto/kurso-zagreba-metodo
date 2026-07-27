@@ -5,11 +5,12 @@
     "node": "24.14.1"
   },
   "scripts": {
-    "bundle": "node fonto/aktivoj/bundlo.mjs"
+    "bundle": "node fonto/mjs/bundlo.mjs"
   },
   "dependencies": {
     "@fontsource/fira-sans": "^5.2.7",
     "bootstrap": "5.3.8",
+    "diff2html": "3.4.56",
     "jquery": "3.7.1",
     "typeahead.js": "0.11.1"
   },

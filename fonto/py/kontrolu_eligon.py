@@ -5,6 +5,7 @@ import json
 import re
 import sqlite3
 import tempfile
+from urllib.parse import urljoin, urlsplit
 import zipfile
 from pathlib import Path
 
@@ -102,6 +103,7 @@ REDAKTOJ_DIFF2HTML_PATTERN = re.compile(r'class="[^"]*\bd2h-wrapper\b')
 REDAKTOJ_NOINDEX_PATTERN = re.compile(r'<meta name="robots" content="noindex, follow" />')
 REDAKTOJ_PATH_PATTERN = re.compile(r'enhavo/tradukenda/([A-Za-z0-9_-]+)')
 REDAKTOJ_CONTEXT_CLASS_PATTERN = re.compile(r'class="([^"]*\bd2h-cntx\b[^"]*)"')
+HREF_PATTERN = re.compile(r'\bhref="([^"]*)"')
 
 
 def fail(message):
@@ -169,6 +171,32 @@ def forbid_noindex_in_html_tree(path, permitted_relative_paths=None):
 def forbid_og_locale_alternates_in_html_tree(path):
     for html_path in sorted(path.rglob('*.html')):
         forbid_pattern(html_path, OG_LOCALE_ALTERNATE_PATTERN)
+
+
+def forbid_directory_links_without_trailing_slash(output_dir):
+    for html_path in sorted(output_dir.rglob('*.html')):
+        text = html_path.read_text(encoding='utf-8')
+        html_dir = html_path.parent.relative_to(output_dir).as_posix()
+        base_url = 'https://esperanto12.net/' + (html_dir + '/' if html_dir != '.' else '')
+        for href in HREF_PATTERN.findall(text):
+            if not href or href.startswith(('#', 'mailto:', 'tel:', 'javascript:')):
+                continue
+            url = urlsplit(urljoin(base_url, href))
+            if url.scheme and url.scheme not in ('http', 'https'):
+                continue
+            if url.netloc and url.netloc != 'esperanto12.net':
+                continue
+            url_path = url.path
+            if not url_path or url_path.endswith('/') or Path(url_path).suffix:
+                continue
+            target = output_dir / url_path.lstrip('/') / 'index.html'
+            if target.is_file():
+                fail(
+                    'interna ligilo al dosierujo devas finiĝi per /: '
+                    + href
+                    + ' en '
+                    + str(html_path)
+                )
 
 
 def require_font_preloads(path, href_prefix):
@@ -357,6 +385,7 @@ def main():
     require_pattern(output_dir / 'index.html', OG_LOCALE_ALTERNATE_DE_PATTERN)
     forbid_noindex_in_html_tree(lingvo_dir, {'redaktoj/index.html'})
     forbid_og_locale_alternates_in_html_tree(lingvo_dir)
+    forbid_directory_links_without_trailing_slash(output_dir)
     require_pattern(output_dir / 'sitemap.xml', SITEMAP_ROOT_INDEX_PATTERN)
     for pattern in SITEMAP_ROOT_LANGUAGE_PATTERNS.values():
         require_pattern(output_dir / 'sitemap.xml', pattern)

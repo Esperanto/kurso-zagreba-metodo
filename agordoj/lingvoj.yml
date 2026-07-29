@@ -577,7 +577,7 @@ te:
   nomo:
     fontlingve: తెలుగు
     esperante: telugua
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai

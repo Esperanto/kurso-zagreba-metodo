@@ -3,12 +3,11 @@ title: Tradukenda teksto-fasado YAML
 allOf:
 - $ref: ../fasado.schema.yml
 - type: object
-  required:
-  - Alklaku la vortojn por vidi ilian tradukon.
-  - Legu, aŭskultu kaj komprenu
-  properties:
-    Alklaku la vortojn por vidi ilian tradukon.:
-      $ref: ../fasado.schema.yml#/$defs/nepraTeksto
-    Legu, aŭskultu kaj komprenu:
-      $ref: ../fasado.schema.yml#/$defs/nepraTeksto
-  additionalProperties: false
+  minProperties: 2
+  maxProperties: 2
+  propertyNames:
+    enum:
+    - Alklaku la vortojn por vidi ilian tradukon.
+    - Legu, aŭskultu kaj komprenu
+  additionalProperties:
+    $ref: ../fasado.schema.yml#/$defs/nepraTeksto

@@ -1,0 +1,14 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda teksto-fasado YAML
+type: object
+required:
+- Alklaku la vortojn por vidi ilian tradukon.
+- Legu, aŭskultu kaj komprenu
+properties:
+  Alklaku la vortojn por vidi ilian tradukon.:
+    type: string
+    minLength: 1
+  Legu, aŭskultu kaj komprenu:
+    type: string
+    minLength: 1
+additionalProperties: false

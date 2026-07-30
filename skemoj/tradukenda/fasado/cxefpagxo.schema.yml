@@ -1,0 +1,20 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda ĉefpaĝa fasado YAML
+allOf:
+- $ref: ../fasado.schema.yml
+- type: object
+  maxProperties: 11
+  required:
+  - Ek
+  - Esperanto en 12 lecionoj
+  - Instalu apon
+  - La plej rapida kurso por la bazoj
+  - Lerni Esperanto en 12 horoj
+  - Lerni Esperanton
+  - Lerni Esperanton en 12 lecionoj
+  - Malfermu la retumilan menuon kaj elektu "Instali" aŭ "Aldoni al la hejma ekrano".
+  - Trovu Esperanto-parolantojn
+  - '{{lingvo_nombro}} lingvoj'
+  - Ĉi tiu lingvo estis AI-tradukita. Se vi vidas erarojn, [bonvolu informi nin]({{ url_kontakto }}).
+  additionalProperties:
+    $ref: ../fasado.schema.yml#/$defs/nepraTeksto

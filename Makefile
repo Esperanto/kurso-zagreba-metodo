@@ -90,6 +90,15 @@ check-yaml:
 	@printf '%s' 'startis fasado-skemoj... '
 	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/fasado.schema.yml" $(CHECK_YAML_TRADUKENDA_GLOB)/fasado/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }
 	@printf '%s\n' 'bone'
+	@printf '%s' 'startis specifaj fasado-skemoj... '
+	@for skemo in "$(TRADUKENDA_SCHEMA_DIR)"/fasado/*.schema.yml; do \
+		test -f "$$skemo" || continue; \
+		nomo=$$(basename "$$skemo" .schema.yml); \
+		dosieroj=$$(find "$(CHECK_YAML_TRADUKENDA_FIND_ROOT)" -path "*/fasado/$${nomo}.yml" -type f | sort); \
+		test -n "$$dosieroj" || continue; \
+		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$$skemo" $$dosieroj 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
+	done
+	@printf '%s\n' 'bone'
 	@printf '%s' 'startis vortaro-skemoj... '
 	@eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/vortaro.schema.yml" $(CHECK_YAML_TRADUKENDA_GLOB)/vortaro/*.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }
 	@printf '%s\n' 'bone'

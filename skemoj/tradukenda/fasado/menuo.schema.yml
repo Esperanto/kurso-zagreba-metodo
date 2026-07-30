@@ -1,0 +1,19 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda menuo-fasado YAML
+allOf:
+- $ref: ../fasado.schema.yml
+- type: object
+  minProperties: 8
+  maxProperties: 8
+  propertyNames:
+    enum:
+    - Afiksoj
+    - Aldono
+    - Diversaĵoj
+    - Konjunkcioj
+    - Lecionoj
+    - Prepozicioj
+    - Tabelvortoj
+    - Vortaro
+  additionalProperties:
+    $ref: ../fasado.schema.yml#/$defs/nepraTeksto

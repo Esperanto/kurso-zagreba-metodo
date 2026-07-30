@@ -3,13 +3,13 @@
 {%- endif %}
 
 
-{% if 'gramatiko' in printendaj.partoj -%}
-  {% include 'gramatiko.md' %}
+{% if 'vortoj' in printendaj.partoj -%}
+  {% include 'vortoj.md' %}
 {%- endif %}
 
 
-{% if 'vortoj' in printendaj.partoj -%}
-  {% include 'vortoj.md' %}
+{% if 'gramatiko' in printendaj.partoj -%}
+  {% include 'gramatiko.md' %}
 {%- endif %}
 
 

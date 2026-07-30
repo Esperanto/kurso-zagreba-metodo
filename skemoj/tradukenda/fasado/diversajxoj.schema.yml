@@ -1,0 +1,17 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda diversaĵoj-fasado YAML
+allOf:
+- $ref: ../fasado.schema.yml
+- type: object
+  minProperties: 6
+  maxProperties: 6
+  propertyNames:
+    enum:
+    - Ciferoj
+    - Gravaj esprimoj
+    - Koloroj
+    - Monatoj
+    - Sezonoj
+    - Tagoj de semajno
+  additionalProperties:
+    $ref: ../fasado.schema.yml#/$defs/nepraTeksto

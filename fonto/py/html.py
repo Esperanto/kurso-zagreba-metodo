@@ -405,10 +405,11 @@ def lingva_kursa_json_ld(enhavo, enkonduko):
         'provider': dict(COURSE_PROVIDER),
         'hasPart': [
             {
-                '@type': 'LearningResource',
+                '@type': 'WebPageElement',
                 'position': index,
                 'name': str(index).zfill(2) + '. ' + leciono['teksto']['titolo_string'],
                 'url': absoluta_url(lingva_vojo(lingvo, str(index).zfill(2) + '/')),
+                'isAccessibleForFree': True,
             }
             for index, leciono in enumerate(enhavo['lecionoj'], start=1)
         ],

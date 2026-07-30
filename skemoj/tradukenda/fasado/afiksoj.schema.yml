@@ -1,0 +1,13 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda afiksoj-fasado YAML
+allOf:
+- $ref: ../fasado.schema.yml
+- type: object
+  minProperties: 2
+  maxProperties: 2
+  propertyNames:
+    enum:
+    - Prefiksoj
+    - Sufiksoj
+  additionalProperties:
+    $ref: ../fasado.schema.yml#/$defs/nepraTeksto

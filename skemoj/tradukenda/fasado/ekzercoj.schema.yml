@@ -1,0 +1,15 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda ekzercoj-fasado YAML
+allOf:
+- $ref: ../fasado.schema.yml
+- type: object
+  maxProperties: 6
+  required:
+  - Forigu
+  - Kompletigu la frazojn
+  - Por la Esperantaj literoj vi ankaŭ rajtas skribi cx, gx, hx, jx, sx kaj ux.
+  - Solvu
+  - Traduku
+  - Traduku kaj respondu
+  additionalProperties:
+    $ref: ../fasado.schema.yml#/$defs/nepraTeksto

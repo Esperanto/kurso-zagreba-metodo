@@ -292,10 +292,11 @@ def require_course_json_ld(path):
         fail('Course JSON-LD hasPart ne enhavas 12 lecionojn')
     first_part = parts[0]
     expected_first_part = {
-        '@type': 'LearningResource',
+        '@type': 'WebPageElement',
         'position': 1,
         'name': '01. Amiko Marko',
         'url': 'https://esperanto12.net/en/01/',
+        'isAccessibleForFree': True,
     }
     if first_part != expected_first_part:
         fail('Course JSON-LD unua leciono estas neatendita: ' + repr(first_part))

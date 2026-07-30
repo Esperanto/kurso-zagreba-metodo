@@ -3,22 +3,13 @@ title: Tradukenda ekzercoj-fasado YAML
 allOf:
 - $ref: ../fasado.schema.yml
 - type: object
-  minProperties: 6
-  maxProperties: 7
-  anyOf:
-  - minProperties: 7
-  - maxProperties: 6
-    not:
-      required:
-      - Solvoj
-  propertyNames:
-    enum:
-    - Forigu
-    - Kompletigu la frazojn
-    - Por la Esperantaj literoj vi ankaŭ rajtas skribi cx, gx, hx, jx, sx kaj ux.
-    - Solvoj
-    - Solvu
-    - Traduku
-    - Traduku kaj respondu
+  maxProperties: 6
+  required:
+  - Forigu
+  - Kompletigu la frazojn
+  - Por la Esperantaj literoj vi ankaŭ rajtas skribi cx, gx, hx, jx, sx kaj ux.
+  - Solvu
+  - Traduku
+  - Traduku kaj respondu
   additionalProperties:
     $ref: ../fasado.schema.yml#/$defs/nepraTeksto

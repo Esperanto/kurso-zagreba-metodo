@@ -3,19 +3,11 @@ title: Tradukenda butonoj-fasado YAML
 allOf:
 - $ref: ../fasado.schema.yml
 - type: object
-  minProperties: 3
   maxProperties: 4
-  anyOf:
-  - minProperties: 4
-  - maxProperties: 3
-    not:
-      required:
-      - Komentejo
-  propertyNames:
-    enum:
-    - Helpo
-    - Komentejo
-    - antaŭen
-    - malantaŭen
+  required:
+  - Helpo
+  - Komentejo
+  - antaŭen
+  - malantaŭen
   additionalProperties:
     $ref: ../fasado.schema.yml#/$defs/nepraTeksto

@@ -170,7 +170,7 @@ fi:
   nomo:
     fontlingve: Suomi
     esperante: finna
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai

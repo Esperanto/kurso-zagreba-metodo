@@ -41,7 +41,7 @@ COURSE_PROVIDER = {
     'sameAs': 'https://github.com/georgjaehnig/',
 }
 ALDONAJ_PAGXOJ = ('tabelvortoj', 'prepozicioj', 'konjunkcioj', 'afiksoj', 'diversajxoj', 'auxtoroj', 'post')
-LECIONAJ_TAB_VOJOJ = ('', 'vortoj/', 'gramatiko/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
+LECIONAJ_TAB_VOJOJ = ('', 'gramatiko/', 'vortoj/', 'ekzerco1/', 'ekzerco2/', 'ekzerco3/')
 GIT_HISTORIO_ELSHUTITA = False
 OG_LOCALE_OVERRIDES = {
     'ar': 'ar_SA',
@@ -81,8 +81,8 @@ OG_LOCALE_OVERRIDES = {
 LLMS_FULL_PRINTENDAJ = {
     'partoj': (
         'teksto',
-        'vortoj',
         'gramatiko',
+        'vortoj',
         'ekzerco1',
         'ekzerco2',
         'ekzerco3',
@@ -1089,8 +1089,8 @@ def generate_html(
 
     tabs = [
         ('teksto', '', enhavo['fasado']['Teksto']),
-        ('vortoj', 'vortoj/', enhavo['fasado']['Novaj vortoj']),
         ('gramatiko', 'gramatiko/', enhavo['fasado']['Gramatiko']),
+        ('vortoj', 'vortoj/', enhavo['fasado']['Novaj vortoj']),
         ('ekzerco1', 'ekzerco1/', enhavo['fasado']['Ekzerco 1']),
         ('ekzerco2', 'ekzerco2/', enhavo['fasado']['Ekzerco 2']),
         ('ekzerco3', 'ekzerco3/', enhavo['fasado']['Ekzerco 3'])

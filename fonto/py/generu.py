@@ -314,8 +314,8 @@ def get_cmdline_arguments():
         "--printendaj-partoj",
         help="Printendaj partoj",
         type=str,
-        choices=['teksto', 'vortoj', 'gramatiko', 'ekzerco1', 'ekzerco2', 'ekzerco3', 'solvo1', 'solvo2', 'solvo3'],
-        default=['teksto', 'vortoj', 'gramatiko', 'ekzerco1', 'ekzerco2', 'ekzerco3', 'solvo1', 'solvo2', 'solvo3'],
+        choices=['teksto', 'gramatiko', 'vortoj', 'ekzerco1', 'ekzerco2', 'ekzerco3', 'solvo1', 'solvo2', 'solvo3'],
+        default=['teksto', 'gramatiko', 'vortoj', 'ekzerco1', 'ekzerco2', 'ekzerco3', 'solvo1', 'solvo2', 'solvo3'],
         nargs='*'
     )
     ap.add_argument(

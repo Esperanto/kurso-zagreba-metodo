@@ -31,6 +31,11 @@ ANKRO_EKZEMPLOJ = {
     'Ĉu?': 'ĉu',
 }
 GRAMATIKO_EMFAZO_PATTERN = re.compile(r'<em>labor<strong>i</strong></em>\s+–\s+to work')
+SINGLE_ROOT_POPOVER_PATTERN = re.compile(
+    r'<a href="javascript:" data-bs-toggle="popover" title="\s*fast\s*"'
+    r'\s+data-bs-content="\s*<table>\s*</table>\s*"\s*>Rapid</a>',
+    re.S,
+)
 BOOTSTRAP_PATTERN = re.compile(r'Bootstrap\s+v5\.3\.8')
 JQUERY_PATTERN = re.compile(r'jQuery v3\.7\.1')
 TYPEAHEAD_PATTERN = re.compile(r'typeahead\.js 0\.11\.1')
@@ -431,6 +436,7 @@ def main():
     require_pattern(lingvo_dir / '01' / 'index.html', OG_AUDIO_TYPE_PATTERN)
     forbid_pattern(lingvo_dir / '01' / 'vortoj' / 'index.html', OG_AUDIO_ANY_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', META_DESCRIPTION_PATTERN)
+    require_pattern(lingvo_dir / '05' / 'index.html', SINGLE_ROOT_POPOVER_PATTERN)
     require_font_preloads(output_dir / 'index.html', '')
     require_font_preloads(lingvo_dir / 'index.html', '/' + lingvo + '/../')
     require_lesson_image_alts(output_dir, lingvo)

@@ -35,8 +35,8 @@ dikiĝi: lihoa
 doloriga: kivulias
 dolorige: kivuliaasti
 domegon: suurta taloa
-dumnokte: yöllä
-dumtage: päivällä
+dumnokte: yön aikana
+dumtage: päivän aikana
 ekkriis: huudahti
 ekmire: ihmeissään
 ekparolis: alkoi puhua
@@ -45,7 +45,7 @@ ekrigardis: alkoi katsoa
 eksaltis: hypähti
 ekscii: saada tietää
 eksidis: istahti
-ekstervoje: ulkoreitillä
+ekstervoje: reitin ulkopuolella, maastossa
 ekveturas: lähtee liikkeelle
 ekvidis: huomasi
 elstaraj: erinomaiset
@@ -56,7 +56,7 @@ Esperanto: esperanto
 facilmovaj: helposti liikuteltavat
 faligi:
 - kaataa
-- aiheuttaa putoaminen
+- aiheuttaa putoamisen
 faligis: kaatoi
 familianoj: perheenjäsenet
 fermita: suljettu
@@ -82,12 +82,12 @@ havigi: hankkia
 havindan: hankkimisen arvoisen
 homformo: ihmisen muoto
 hommulton: väkijoukon
-ideoriĉan: mielikuvitusrikkaan
+ideoriĉan: idearikkaan
 industriisto: teollisuusmies
 instruistino: naisopettaja
 instruiston: opettajan
 intervidiĝas: näkevät toisensa
-iron: kävelyn
+iron: menon, kulun
 junulino: nuori nainen
 junulinoj: nuoret naiset
 junulinon: nuoren naisen
@@ -142,7 +142,9 @@ malgranda:
 - vähäinen
 malhelpis: esti, haittasi
 malinterese: epäkiinnostavasti
-malkontentigi: ärsyttää
+malkontentigi:
+- tehdä tyytymättömäksi
+- aiheuttaa tyytymättömyyttä
 mallaŭte: hiljaa
 malliberejon: vankilan
 mallumo: pimeys
@@ -156,7 +158,10 @@ malplaĉa: epämiellyttävä
 malplaĉan: epämiellyttävän
 malproksime: kaukana
 malsaniĝis: sairastui
-malsaĝa: epäviisas
+malsaĝa:
+- tyhmä
+- hölmö
+- epäviisas
 malsekajn: märät
 malsukcesa: epäonnistunut
 maltrankvila: levoton
@@ -168,7 +173,9 @@ manĝaĵo: ruoka
 manĝegi: ahmia
 maristo: merimies
 maristoj: merimiehet
-mariston: merimiehen
+mariston:
+- merimiehen
+- merimiestä
 miaj: minun
 militistoj: sotilaat
 monerojn: kolikot

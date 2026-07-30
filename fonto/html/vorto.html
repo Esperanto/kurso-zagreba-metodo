@@ -7,6 +7,10 @@
       {% set klavo = vorto|join|lower %}
     {% elif vorto|join in enhavo.tutvorta_vortaro -%}
       {% set klavo = vorto|join %}
+    {% elif vorto|length == 1 and vorto[0]|lower in enhavo.vortaro -%}
+      {% set klavo = vorto[0]|lower %}
+    {% elif vorto|length == 1 and vorto[0] in enhavo.vortaro -%}
+      {% set klavo = vorto[0] %}
     {% endif %} 
     {% include 'tradukajxo.html' %}
   " data-bs-content="

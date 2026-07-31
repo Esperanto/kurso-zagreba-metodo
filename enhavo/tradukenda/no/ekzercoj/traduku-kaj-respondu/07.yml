@@ -21,7 +21,7 @@
   - ','
   - ke: at
   - mi: jeg
-  - montru: vis
+  - montru: vise
   - al: til
   - vi: deg
   - mian: min/mitt
@@ -46,16 +46,16 @@
   - ','
   - se: hvis
   - estos: blir
-  - suna: solrig
+  - suna: solrik
   - tago: dag
   - '?'
-- demando: Har broren din allerede gått?
+- demando: Har broren din allerede dratt?
   rektatraduko:
   - Ĉu: Om
   - via: din/ditt
   - frato: bror
   - jam: allerede
-  - ekiris: begynte å gå
+  - ekiris: dro av gårde
   - '?'
 - demando: Hvor er vannet du selv tok med?
   rektatraduko:

@@ -40,6 +40,9 @@ Koncernas `ekzercoj/traduku-kaj-respondu/*.yml`.
   `ob`, se la gramatiko klarigas tiun helpon ĉe jes/ne-demandoj.
 - Ne kunfandu apartajn Esperantajn vortojn en unu natura cellingva esprimo se
   tio malklarigus la mapon.
+- Ne adaptu unuopan gloson al natura cellingva vortgrupo. Konservu la
+  memstaran signifon de ĉiu Esperanta vorto, eĉ kiam la tuta esprimo en
+  `demando` devas esti idiome alia.
 - Ĉe prepozicioj elektu tradukon kiu montras la Esperantan funkcion, eĉ se la
   natura frazo uzus alian prepozicion.
 
@@ -53,5 +56,10 @@ Ekzemploj por la distingo:
 - En angla `rektatraduko`: `Kien` -> `Where to`.
 - En angla `rektatraduko`: `Kioma` -> `What-numbered`.
 - En angla `rektatraduko`: `kontenta` -> `satisfied`.
+- En norvega `rektatraduko`: `Kiom longe` -> `Kiom: Hvor mye` kaj
+  `longe: lenge`, ne `Kiom: Hvor`, kvankam la natura demando uzus
+  `Hvor lenge`.
+- En norvega `rektatraduko`: `por la vino` -> `por: for`, ne `por: til`, se la
+  natura frazo uzus `til vinen`.
 - En hispana `rektatraduko` por `per` taŭgas `por medio de`, ne la idioma
   prepozicio `en` el natura frazo.

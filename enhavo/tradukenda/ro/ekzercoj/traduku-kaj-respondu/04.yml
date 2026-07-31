@@ -8,10 +8,10 @@
 - demando: De cât timp înveți limba internațională?
   rektatraduko:
   - Kiom: cât
-  - longe: mult timp
+  - longe: timp
   - vi: tu
   - lernas: înveți
-  - la: (articol)
+  - la: articol hotărât
   - Internacian: internațională
   - Lingvon: limbă
   - '?'
@@ -31,7 +31,7 @@
   - vi: tu
   - iros: vei merge
   - post: după
-  - la: (articol)
+  - la: articol hotărât
   - tagmanĝo: prânz
   - '?'
 - demando: Se poate închide ușa camerei când este frig?
@@ -40,10 +40,10 @@
   - oni: se
   - povas: poate
   - fermi: închide
-  - la: (articol)
+  - la: articol hotărât
   - pordon: ușă
   - de: de
-  - la: (articol)
+  - la: articol hotărât
   - ĉambro: cameră
   - ','
   - kiam: când
@@ -53,7 +53,7 @@
 - demando: Cât timp te superi dacă cineva îți ia mulți bani?
   rektatraduko:
   - Kiom: cât
-  - longe: mult timp
+  - longe: timp
   - vi: tu
   - koleras: te superi
   - ','

@@ -2,7 +2,9 @@ akcepteblan: acceptabil
 alilandaj: din alte țări
 alporti: a aduce
 alportis: a adus
-alvenigas: face să sosească
+alvenigas:
+- aduce
+- face să sosească
 alvenis: a sosit
 alvenos: vor sosi
 amikino: prietenă
@@ -34,7 +36,7 @@ domegon: casă mare
 dumnokte: în timpul nopții
 dumtage: ziua
 ekkriis: a strigat
-ekmire: cu uimire
+ekmire: cu uimire bruscă
 ekparolis: a început să vorbească
 ekridis: a început să râdă
 ekrigardis: a aruncat o privire
@@ -67,7 +69,9 @@ gondolisto: gondolier
 gondolistoj: gondolieri
 grafino: contesă
 grafinon: contesă
-grandula: de uriaș
+grandula:
+- uriaș
+- de uriaș
 gravuloj: persoane importante
 haltigis: a oprit
 havigi: a procura
@@ -125,7 +129,7 @@ malfrue: târziu
 malfrui: a întârzia
 malgranda: mic
 malhelpis: a împiedicat
-malinterese: neinteresant
+malinterese: în mod neinteresant
 malkontentigi: a nemulțumi
 mallaŭte: încet
 malliberejon: închisoare
@@ -140,7 +144,9 @@ malplaĉa: neplăcut
 malplaĉan: neplăcut
 malproksime: departe
 malsaniĝis: s-a îmbolnăvit
-malsaĝa: neînțelept
+malsaĝa:
+- prost
+- neînțelept
 malsekajn: ude
 malsukcesa: nereușit
 maltrankvila: neliniștit
@@ -202,7 +208,7 @@ samklubanoj: membri ai aceluiași club
 sekretajn: secrete
 sekreton: secret
 senbrue: fără zgomot
-seninterese: dezinteresat
+seninterese: fără interes
 senkolora: incolor
 sensukcese: fără succes
 sentimulo: om fără frică

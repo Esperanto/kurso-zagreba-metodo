@@ -41,40 +41,45 @@
       {% for vico in leciono.ekzercoj[tasko] %}
       {% set vico_loop = loop %}
       <li>
-        {%- for token in vico -%}
-          {%- if token.tipo == 'interpunkcio' -%}
-            <span class="ekz2-interpunkcio">{{ token.teksto }}</span>
-          {%- else -%}
-            {%- set vorto_loop = loop -%}
-            {%- set id = 'vico-' ~ leciono_index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index ~ '-' ~ vorto_loop.index -%}
-            {%- set segmentoj = token.segmentoj -%}
-            {%- set havas_solvon = segmentoj | selectattr('tipo', 'equalto', 'solvo') | list | length > 0 -%}
-            {%- if not loop.first %} {% endif -%}
-            {%- if not havas_solvon -%}
-              {# Tuta ekzistanta vorto: neredaktebla enigogrupo. #}
-              {% set fiksa_vorto = segmentoj | map(attribute='teksto') | join('') %}
-              <span class="input-group">
-                <span class="input-group-text">{{ fiksa_vorto }}</span>
-              </span>
-            {%- elif segmentoj | length == 1 -%}
-              {# Tuta plenigenda vorto: normala enigo. #}
-              <span class="form-group">
-                <input id="{{id}}" type="text" class="form-control is-invalid" size="{{ (segmentoj[0].teksto|length) + 1 }}" data-solvo="{{ segmentoj[0].teksto }}" />
-              </span>
+        {% if vico.traduko %}
+          <div class="ekz2-traduko" dir="{{enhavo.tekstodirekto}}">{{ vico.traduko }}</div>
+        {% endif %}
+        <div class="ekz2-frazo" dir="ltr">
+          {%- for token in vico.tokenoj -%}
+            {%- if token.tipo == 'interpunkcio' -%}
+              <span class="ekz2-interpunkcio">{{ token.teksto }}</span>
             {%- else -%}
-              {# Vortpartoj: enigogrupo kun fiksaj partoj kaj plenigenda enigo. #}
-              <span class="input-group">
-                {%- for segmento in segmentoj -%}
-                  {%- if segmento.tipo == 'fiksa' -%}
-                    <span class="input-group-text">{{ segmento.teksto }}</span>
-                  {%- else -%}
-                    <input id="{{id}}" type="text" class="form-control is-invalid" size="{{ (segmento.teksto|length) + 1 }}" data-solvo="{{ segmento.teksto }}" />
-                  {%- endif -%}
-                {%- endfor -%}
-              </span>
+              {%- set vorto_loop = loop -%}
+              {%- set id = 'vico-' ~ leciono_index ~ '-' ~ ekzerco_index ~ '-' ~ vico_loop.index ~ '-' ~ vorto_loop.index -%}
+              {%- set segmentoj = token.segmentoj -%}
+              {%- set havas_solvon = segmentoj | selectattr('tipo', 'equalto', 'solvo') | list | length > 0 -%}
+              {%- if not loop.first %} {% endif -%}
+              {%- if not havas_solvon -%}
+                {# Tuta ekzistanta vorto: neredaktebla enigogrupo. #}
+                {% set fiksa_vorto = segmentoj | map(attribute='teksto') | join('') %}
+                <span class="input-group">
+                  <span class="input-group-text">{{ fiksa_vorto }}</span>
+                </span>
+              {%- elif segmentoj | length == 1 -%}
+                {# Tuta plenigenda vorto: normala enigo. #}
+                <span class="form-group">
+                  <input id="{{id}}" type="text" class="form-control is-invalid" size="{{ (segmentoj[0].teksto|length) + 1 }}" data-solvo="{{ segmentoj[0].teksto }}" />
+                </span>
+              {%- else -%}
+                {# Vortpartoj: enigogrupo kun fiksaj partoj kaj plenigenda enigo. #}
+                <span class="input-group">
+                  {%- for segmento in segmentoj -%}
+                    {%- if segmento.tipo == 'fiksa' -%}
+                      <span class="input-group-text">{{ segmento.teksto }}</span>
+                    {%- else -%}
+                      <input id="{{id}}" type="text" class="form-control is-invalid" size="{{ (segmento.teksto|length) + 1 }}" data-solvo="{{ segmento.teksto }}" />
+                    {%- endif -%}
+                  {%- endfor -%}
+                </span>
+              {%- endif -%}
             {%- endif -%}
-          {%- endif -%}
-        {%- endfor -%}
+          {%- endfor -%}
+        </div>
       </li>
       {% endfor %}
     </ol>

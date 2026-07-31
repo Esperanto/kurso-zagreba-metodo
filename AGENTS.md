@@ -106,7 +106,7 @@ La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `elig
 - Metu inter citilojn YAML-valorojn, kiuj povus esti interpretataj kiel buleaj aŭ specialaj skalaroj, ekzemple `on`, `off`, `yes`, aŭ valorojn enhavantajn apostrofojn.
 - Antaŭ enhavaj ŝanĝoj, legu la koncernajn dosierojn en `specifoj/tradukenda/`; ili superas ekzemplojn aŭ malnovajn kutimojn en ekzistantaj tradukoj.
 - Kiam tasko sekvas reuzeblan agentan laborfluon, legu la taŭgan prompton en `ai/`, ekzemple `ai/plibonigi-tradukon.md` por tradukaj plibonigoj aŭ `ai/generi-og-bildojn.md` por OG-bildoj.
-- Post kiam KI aŭ aŭtomatigita agento redaktis YAML-dosierojn, ĉiam rulu `venv/bin/python iloj/normaligu-yaml.py <koncernaj vojoj>` por la tuŝitaj dosieroj aŭ dosierujoj antaŭ validigo aŭ commit. Por normaligi la tutan `enhavo/`, uzu `make normalize-yaml`.
+- Post kiam KI aŭ aŭtomatigita agento redaktis YAML-dosierojn, ĉiam rulu `venv/bin/python fonto/py/normaligu-yaml.py <koncernaj vojoj>` por la tuŝitaj dosieroj aŭ dosierujoj antaŭ validigo aŭ commit. Por normaligi la tutan `enhavo/`, uzu `make normalize-yaml`.
 - Por gramatika Markdown, sekvu la konvenciojn en `KONTRIBUADO.md`: Esperantaj ekzemploj uzas kursivon, tradukoj estas apartigitaj per `–`, emfazitaj morfemoj uzas normalan Markdown-formon kiel `_patr**in**o_` aŭ `_**-o**_`, kaj fluaj alineoj ne ricevas manajn linisaltojn meze de frazo.
 - Kiam vi aldonas aŭ ĝisdatigas lingvon, spegulu la ekzistantan dosierujan strukturon sub `enhavo/tradukenda/`.
 - Ne modifu `enhavo/netradukenda/tekstoj/` krom se la uzanto eksplicite konfirmas licencokonscian ŝanĝon.

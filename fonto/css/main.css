@@ -689,6 +689,15 @@ ol.tasko {
 .ekzerco2-tasko ol.tasko li {
   margin-bottom: 0.5em;
 }
+.ekzerco2-tasko .ekz2-traduko {
+  color: var(--bs-secondary-color);
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 0.35rem;
+}
+.ekzerco2-tasko .ekz2-frazo {
+  line-height: 2.6;
+}
 .ekzerco2-tasko .form-group,
 .ekzerco2-tasko .input-group,
 .ekzerco2-tasko .ekz2-interpunkcio {

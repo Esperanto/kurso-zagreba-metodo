@@ -26,14 +26,49 @@ CXEFPAGXO_TITOLO = 'Lerni Esperanton'
 CXEFPAGXO_SUBTITOLO = 'La plej rapida kurso por la bazoj'
 
 
+class DuplicateKeyError(ValueError):
+    pass
+
+
+class UniqueKeyLoader(yaml.SafeLoader):
+    pass
+
+
 class Fasado(dict):
     def __missing__(self, key):
         return key
 
 
+def construct_unique_mapping(loader, node, deep=False):
+    seen = {}
+    for key_node, _value_node in node.value:
+        key = loader.construct_object(key_node, deep=deep)
+        if key in seen:
+            first_mark = seen[key]
+            second_mark = key_node.start_mark
+            raise DuplicateKeyError(
+                f'duobla ŝlosilo {key!r} en {second_mark.name}:'
+                f'{second_mark.line + 1}; unua apero en linio '
+                f'{first_mark.line + 1}'
+            )
+        seen[key] = key_node.start_mark
+    return yaml.SafeLoader.construct_mapping(loader, node, deep=deep)
+
+
+UniqueKeyLoader.add_constructor(
+    yaml.resolver.BaseResolver.DEFAULT_MAPPING_TAG,
+    construct_unique_mapping,
+)
+
+
 def legi_yaml(path):
     with Path(path).open(encoding='utf-8-sig') as dosiero:
         return yaml.load(dosiero, Loader=YAML_LOADER)
+
+
+def legi_yaml_unika(path):
+    with Path(path).open(encoding='utf-8-sig') as dosiero:
+        return yaml.load(dosiero, Loader=UniqueKeyLoader)
 
 
 def legi_tekston(path):
@@ -135,6 +170,106 @@ def grupigu_kompletigon(vicoj):
             tokenoj.extend(disigi_interpunkcion(vorto))
         frazoj.append(tokenoj)
     return frazoj
+
+
+def tekstu_kompletigan_frazon(tokenoj):
+    tekstoj = []
+    for indekso, token in enumerate(tokenoj):
+        if token['tipo'] == 'interpunkcio':
+            tekstoj.append(token['teksto'])
+        else:
+            if indekso > 0:
+                tekstoj.append(' ')
+            tekstoj.append(''.join(segmento['teksto'] for segmento in token['segmentoj']))
+    return ''.join(tekstoj)
+
+
+def kompletigu_traduka_eraro(path, mesagxo):
+    raise SystemExit(f'Kompletigu-traduko malsukcesis: {path}: {mesagxo}')
+
+
+def mallonga_frazlisto(frazoj):
+    montrataj = frazoj[:3]
+    teksto = '; '.join(repr(frazo) for frazo in montrataj)
+    if len(frazoj) > len(montrataj):
+        teksto += f'; ... (+{len(frazoj) - len(montrataj)})'
+    return teksto
+
+
+def kunigu_kompletigon_kun_tradukoj(tokenaj_frazoj, tradukoj_path, postulas_tradukojn=False):
+    esperantaj_frazoj = [tekstu_kompletigan_frazon(tokenoj) for tokenoj in tokenaj_frazoj]
+    esperantaj_frazoj_set = set(esperantaj_frazoj)
+    if len(esperantaj_frazoj_set) != len(esperantaj_frazoj):
+        viditaj = set()
+        duoblaj = []
+        for frazo in esperantaj_frazoj:
+            if frazo in viditaj:
+                duoblaj.append(frazo)
+            viditaj.add(frazo)
+        kompletigu_traduka_eraro(
+            tradukoj_path,
+            'duoblaj Esperanto-frazoj en netradukenda kompletigu-enhavo: '
+            + mallonga_frazlisto(duoblaj),
+        )
+
+    if not tradukoj_path.exists():
+        if postulas_tradukojn:
+            kompletigu_traduka_eraro(tradukoj_path, 'mankas tradukdosiero')
+        return [
+            {'traduko': None, 'tokenoj': tokenoj}
+            for tokenoj in tokenaj_frazoj
+        ]
+
+    try:
+        tradukaj_vicoj = legi_yaml_unika(tradukoj_path)
+    except DuplicateKeyError as err:
+        kompletigu_traduka_eraro(tradukoj_path, str(err))
+
+    if not isinstance(tradukaj_vicoj, list):
+        kompletigu_traduka_eraro(tradukoj_path, 'la dosiero devas esti listo')
+
+    tradukoj = {}
+    for indekso, vico in enumerate(tradukaj_vicoj, start=1):
+        if not isinstance(vico, dict) or len(vico) != 1:
+            kompletigu_traduka_eraro(
+                tradukoj_path,
+                f'vico {indekso} devas esti unuopa ŝlosilo-valoro',
+            )
+        esperanta, traduko = next(iter(vico.items()))
+        if not isinstance(esperanta, str):
+            kompletigu_traduka_eraro(
+                tradukoj_path,
+                f'vico {indekso} havas ne-tekstan Esperanto-ŝlosilon',
+            )
+        if not isinstance(traduko, str) or not traduko.strip():
+            kompletigu_traduka_eraro(
+                tradukoj_path,
+                f'vico {indekso} havas malplenan aŭ ne-tekstan tradukon',
+            )
+        if esperanta in tradukoj:
+            kompletigu_traduka_eraro(
+                tradukoj_path,
+                f'duobla Esperanto-frazo {esperanta!r}',
+            )
+        tradukoj[esperanta] = traduko
+
+    mankantaj = [frazo for frazo in esperantaj_frazoj if frazo not in tradukoj]
+    kromaj = [frazo for frazo in tradukoj if frazo not in esperantaj_frazoj_set]
+    if mankantaj:
+        kompletigu_traduka_eraro(
+            tradukoj_path,
+            'mankas tradukoj por ' + mallonga_frazlisto(mankantaj),
+        )
+    if kromaj:
+        kompletigu_traduka_eraro(
+            tradukoj_path,
+            'nekonataj Esperanto-frazoj ' + mallonga_frazlisto(kromaj),
+        )
+
+    return [
+        {'traduko': tradukoj[frazo], 'tokenoj': tokenoj}
+        for frazo, tokenoj in zip(esperantaj_frazoj, tokenaj_frazoj)
+    ]
 
 
 def get_markdown_headlines(s):
@@ -271,7 +406,14 @@ def load(language, gramatiko_transpose_headlines=2):
         ekzercoj['Traduku kaj respondu'] = legi_yaml(path)
 
         path = netradukenda_dir / 'ekzercoj' / 'kompletigu-la-frazojn' / (i_padded + '.yml')
-        ekzercoj['Kompletigu la frazojn'] = grupigu_kompletigon(legi_yaml(path))
+        kompletigaj_frazoj = grupigu_kompletigon(legi_yaml(path))
+        kompletigu_tradukoj_dir = tradukenda_dir / 'ekzercoj' / 'kompletigu'
+        tradukoj_path = kompletigu_tradukoj_dir / (i_padded + '.yml')
+        ekzercoj['Kompletigu la frazojn'] = kunigu_kompletigon_kun_tradukoj(
+            kompletigaj_frazoj,
+            tradukoj_path,
+            postulas_tradukojn=kompletigu_tradukoj_dir.exists(),
+        )
 
         leciono['ekzercoj'] = ekzercoj
 

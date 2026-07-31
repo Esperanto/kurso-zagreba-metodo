@@ -1,0 +1,21 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 08
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 4
+- contains:
+    required:
+    - Ni ordigis ĉion kaj transdonis al ili.
+  maxContains: 1
+- contains:
+    required:
+    - Mi petas glason da kafo kaj iom da akvo.
+  maxContains: 1
+- contains:
+    required:
+    - Doloris lin la kapo. Li malsaniĝis.
+  maxContains: 1
+- contains:
+    required:
+    - La knabino ŝatas esti bela kaj pro tio ŝi beligas sian vizaĝon.
+  maxContains: 1

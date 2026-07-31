@@ -1,0 +1,37 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 01
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 8
+- contains:
+    required:
+    - Marko estas en la ĉambro.
+  maxContains: 1
+- contains:
+    required:
+    - Li sidas sur seĝo.
+  maxContains: 1
+- contains:
+    required:
+    - Instruisto instruas. Laboristo laboras. Lernanto lernas.
+  maxContains: 1
+- contains:
+    required:
+    - Marko kaj Aleksandro estas lernantoj kaj sportistoj.
+  maxContains: 1
+- contains:
+    required:
+    - La patrino de Marko estas instruistino.
+  maxContains: 1
+- contains:
+    required:
+    - La seĝo estas en la ĉambro.
+  maxContains: 1
+- contains:
+    required:
+    - La libro estas de li, ĝi estas lia.
+  maxContains: 1
+- contains:
+    required:
+    - Mia nomo estas Marko.
+  maxContains: 1

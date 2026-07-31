@@ -5,7 +5,8 @@ from pathlib import Path
 import sys
 
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+# Replace fonto/py on sys.path to avoid shadowing Python's stdlib html package.
+sys.path[0] = str(Path(__file__).resolve().parents[2])
 
 from fonto.py.normaligu_yaml import main
 

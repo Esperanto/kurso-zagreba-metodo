@@ -2,13 +2,20 @@
 
 {% for vico in leciono.ekzercoj['Kompletigu la frazojn'] %}
 
-- {% for vorto in vico -%}
-		{%- for segmento in vorto -%}
+{% if vico.traduko %}**{{ vico.traduko }}**
+{% endif %}- {% for token in vico.tokenoj -%}
+		{%- if token.tipo == 'interpunkcio' -%}
+			{{ token.teksto }}
+		{%- else -%}
+			{%- if not loop.first %} {% endif -%}
+			{%- for segmento in token.segmentoj -%}
 			{%- if segmento.tipo == 'fiksa' -%}
 				{{ segmento.teksto }}
 			{%- else -%}
 				**{{ segmento.teksto }}**
 			{%- endif -%}
-		{%- endfor %} {% endfor %}
+			{%- endfor -%}
+		{%- endif -%}
+	{%- endfor %}
 
 {% endfor %}

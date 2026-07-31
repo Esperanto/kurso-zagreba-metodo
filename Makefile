@@ -125,6 +125,13 @@ check-yaml:
 		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/traduku-kaj-respondu/$${leciono}.schema.yml" $(CHECK_YAML_TRADUKENDA_GLOB)/ekzercoj/traduku-kaj-respondu/$${leciono}.yml 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
 	done
 	@printf '%s\n' 'bone'
+	@printf '%s' 'startis kompletigu-skemoj... '
+	@for leciono in 01 02 03 04 05 06 07 08 09 10 11 12; do \
+		dosieroj=$$(find "$(CHECK_YAML_TRADUKENDA_FIND_ROOT)" -path "*/ekzercoj/kompletigu/$${leciono}.yml" -type f | sort); \
+		test -n "$$dosieroj" || continue; \
+		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/kompletigu.schema.yml" $$dosieroj 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
+	done
+	@printf '%s\n' 'bone'
 	@printf '%s\n' '$(CHECK_YAML_SUCCESS)'
 
 check-yaml-normalized:

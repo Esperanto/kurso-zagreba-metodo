@@ -1,15 +1,15 @@
-- demando: Kto je tvoja priateľka?
+- demando: Kto je tvoja kamarátka?
   rektatraduko:
   - Kiu: Kto
   - estas: je
   - via: tvoja
-  - amikino: priateľka
+  - amikino: kamarátka
   - '?'
-- demando: Píše tvoja priateľka Ana teraz v izbe?
+- demando: Píše tvoja kamarátka Ana teraz v izbe?
   rektatraduko:
   - Ĉu: Či
   - via: tvoja
-  - amikino: priateľka
+  - amikino: kamarátka
   - Ana: Ana
   - skribas: píše
   - nun: teraz
@@ -17,11 +17,11 @@
   - la: (určitý člen)
   - ĉambro: izbe
   - '?'
-- demando: Pracuje priateľ tvojho otca v hoteli?
+- demando: Pracuje kamarát tvojho otca v hoteli?
   rektatraduko:
   - Ĉu: Či
   - la: (určitý člen)
-  - amiko: priateľ
+  - amiko: kamarát
   - de: od
   - via: tvojho
   - patro: otca

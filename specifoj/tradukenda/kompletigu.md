@@ -4,6 +4,9 @@ Koncernas `ekzercoj/kompletigu/*.yml`.
 
 - La ŝlosilo estas la tuta kompletigita Esperanta frazo inkluzive de
   interpunkcio. Ne ŝanĝu ĝin krom se la netradukenda Esperanto-fonto ŝanĝiĝis.
+- La lecion-specifaj YAML-skemoj en `skemoj/tradukenda/kompletigu/*.schema.yml`
+  listigas la devigajn ŝlosilojn. Se la netradukenda Esperanto-fonto ŝanĝiĝas,
+  ĝisdatigu ankaŭ tiujn skemojn.
 - La valoro estas lernhelpa traduko, kiu aperas super la kompletigenda
   Esperanto-frazo.
 - Formulu la tradukon tiel, ke la vortordo restu laŭeble proksima al la

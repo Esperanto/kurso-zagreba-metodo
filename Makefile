@@ -129,7 +129,7 @@ check-yaml:
 	@for leciono in 01 02 03 04 05 06 07 08 09 10 11 12; do \
 		dosieroj=$$(find "$(CHECK_YAML_TRADUKENDA_FIND_ROOT)" -path "*/ekzercoj/kompletigu/$${leciono}.yml" -type f | sort); \
 		test -n "$$dosieroj" || continue; \
-		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/kompletigu.schema.yml" $$dosieroj 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
+		eligo=$$("$(YAML_SCHEMA_LINTER)" --schemafile "$(TRADUKENDA_SCHEMA_DIR)/kompletigu/$${leciono}.schema.yml" $$dosieroj 2>&1) || { printf '\n%s\n' "$$eligo"; exit 1; }; \
 	done
 	@printf '%s\n' 'bone'
 	@printf '%s\n' '$(CHECK_YAML_SUCCESS)'

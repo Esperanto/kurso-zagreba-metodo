@@ -1,0 +1,25 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 11
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 5
+- contains:
+    required:
+    - La knabino ĵetis la paperon en la paperujon.
+  maxContains: 1
+- contains:
+    required:
+    - Kie estas mia skribilo, mi volas respondi al li.
+  maxContains: 1
+- contains:
+    required:
+    - La suno malaperis kaj nun estas preskaŭ malhele.
+  maxContains: 1
+- contains:
+    required:
+    - Bonvolu manĝi la panon per manĝilo.
+  maxContains: 1
+- contains:
+    required:
+    - Pardonu min, mi ne rajtas resti.
+  maxContains: 1

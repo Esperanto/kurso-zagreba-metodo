@@ -47,6 +47,7 @@ merge-konfliktojn. Legu la koncernajn dosierojn antaŭ redaktado:
 - `specifoj/tradukenda/gramatiko/01.yml` … `12.yml` — atendataj gramatikaj temoj
 - `specifoj/tradukenda/vortaro.md` — vortaro
 - `specifoj/tradukenda/traduku.md` — ekzerco 1 kaj akcepteblaj respondovariantoj
+- `specifoj/tradukenda/kompletigu.md` — ekzerco 2 kaj ĝiaj lernhelpaj fraztradukoj
 - `specifoj/tradukenda/traduku-kaj-respondu.md` — ekzerco 3
 - `specifoj/tradukenda/fasado.md` — fasado kaj lingva startpaĝo
 - `specifoj/tradukenda/enkonduko.md` — enkonduko

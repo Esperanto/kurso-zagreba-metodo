@@ -1,0 +1,21 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 07
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 4
+- contains:
+    required:
+    - Li trinkis rapidege sian matenan trinkaĵon por frue veni al la lernejo.
+  maxContains: 1
+- contains:
+    required:
+    - Mi ankoraŭ ne aŭdis novaĵon.
+  maxContains: 1
+- contains:
+    required:
+    - En tiu momento Marko ekkriis.
+  maxContains: 1
+- contains:
+    required:
+    - Knabo, kiu ne amas aliajn geknabojn, havas nek amikojn nek amikinojn.
+  maxContains: 1

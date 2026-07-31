@@ -1,0 +1,21 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 04
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 4
+- contains:
+    required:
+    - Ana kaj Marko iris tra la strato.
+  maxContains: 1
+- contains:
+    required:
+    - Ili venis al kafejo, iris al tablo kaj vidis la patron sidi sur seĝo.
+  maxContains: 1
+- contains:
+    required:
+    - Ana metis tri kukojn sur seĝon.
+  maxContains: 1
+- contains:
+    required:
+    - Ŝi remetis poste la kukojn sur la tablon.
+  maxContains: 1

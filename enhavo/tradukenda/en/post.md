@@ -36,6 +36,7 @@
 
 ## Classroom course events
 
+- [Kursaro.net](https://www.kursaro.net/) - Weekly online Esperanto courses with experienced teachers for beginners to advanced learners
 - [Nord-Amerika Somera Kursaro](http://nask.esperanto-usa.org/) - Esperanto course in Raleigh, NC, USA
 - [Somera Esperanto-Semajno](https://ses.ikso.net/) - Esperanto course in Slovakia
 

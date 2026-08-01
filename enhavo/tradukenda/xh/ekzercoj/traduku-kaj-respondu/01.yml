@@ -1,16 +1,16 @@
-- demando: Ngubani umhlobo wakho?
+- demando: Ngubani umhlobo wakho wasetyhini?
   rektatraduko:
   - Kiu: Ngubani
   - estas: ngu
   - via: wakho
   - amikino: umhlobo wasetyhini
   - '?'
-- demando: Ngaba umhlobo wakho u-Ana uyabhala egumbini ngoku?
+- demando: Ngaba umhlobo wakho uAna uyabhala egumbini ngoku?
   rektatraduko:
   - Ĉu: Ngaba
   - via: wakho
   - amikino: umhlobo wasetyhini
-  - Ana: u-Ana
+  - Ana: uAna
   - skribas: uyabhala
   - nun: ngoku
   - en: ku
@@ -43,7 +43,7 @@
 - demando: Ngaba ikhona incwadi yokufunda i-Esperanto etafileni yakho?
   rektatraduko:
   - Ĉu: Ngaba
-  - Esperanto-lernolibro: incwadi yokufunda isi-Esperanto
+  - Esperanto-lernolibro: incwadi yokufunda i-Esperanto
   - estas: ikhona
   - sur: phezu
   - via: wakho

@@ -2,7 +2,7 @@ akcepteblan: okwamkelekileyo
 alilandaj: ezangaphandle
 alporti: ukuzisa
 alportis: wazisa
-alvenigas: kuzisa apha
+alvenigas: uzisa apha
 alvenis: ufikile
 alvenos: uza kufika
 amikino:
@@ -31,7 +31,7 @@ dankon: enkosi
 daŭrigis: waqhubeka
 denove: kwakhona
 devojiĝis: waphambuka
-dikiĝi: ukuba ngqindilili
+dikiĝi: ukutyeba
 doloriga: okubuhlungu
 dolorige: kabuhlungu
 domegon: indlu enkulu
@@ -45,7 +45,7 @@ ekrigardis: waqala ukujonga
 eksaltis: waqala ukugxuma
 ekscii: ukufumana
 eksidis: wahlala phansi
-ekstervoje: endleleni ephumayo
+ekstervoje: ngaphandle kwendlela
 ekveturas: uqala ukuhamba
 ekvidis: wabona
 elstaraj: avelele
@@ -64,18 +64,20 @@ fine: ekupheleni
 foresti: ukungabikho
 foriros: uza kuhamba
 fratino: usisi
-fuŝparolis: wathetha kakubi
-geamikoj: abahlobo
-gefratoj: abantakwethu noodadewethu
+fuŝparolis: wathetha gwenxa
+geamikoj:
+- abahlobo
+- abahlobo abangamadoda nabasetyhini
+gefratoj: oobhuti noodade
 gelernantojn:
 - abafundi
 - abafundi abangamadoda nabasetyhini
 gepatroj: abazali
 gondolisto: umqhubi wegondola
 gondolistoj: abaqhubi bamagondola
-grafino: igrafukazi
-grafinon: igrafukazi
-grandula: isigebenga
+grafino: ikhontesi
+grafinon: ikhontesi
+grandula: umntu omkhulu
 gravuloj: abantu ababalulekileyo
 haltigis: wamisile
 havigi: ukufumanela
@@ -84,7 +86,7 @@ homformo: imo yomntu
 hommulton: isihlwele sabantu
 ideoriĉan: enezimvo ezininzi
 industriisto: usomashishini wemizi-mveliso
-instruistino: utitshala wasetyhini
+instruistino: utitshalakazi
 instruiston: utitshala
 intervidiĝas: siyabonana
 iron: ukuhamba
@@ -116,9 +118,7 @@ lernejo: isikolo
 lernejon: isikolo
 lernolibroj: iincwadi zokufunda
 leteroj: iincwadi
-libertempo:
-- ixesha lokuphumla
-- ixesha lokuphumla
+libertempo: ixesha lokuphumla
 libroj: iincwadi
 lumigis:
 - wakhanyisa
@@ -134,14 +134,14 @@ malfacile: kunzima
 malfeliĉo: ishwa
 malforta: buthaka
 malforte: ngobuthakathaka
-malfruas: ushiywe lixesha
+malfruas: usemva kwexesha
 malfrue: emva kwexesha
 malfrui: ukushiywa lixesha
 malgranda:
 - encinci
 - ncinci
 malhelpis: wavimba
-malinterese: ngokungathakazelisi
+malinterese: ngokungenamdla
 malkontentigi: ukucasula
 mallaŭte: buthule
 malliberejon: ejele
@@ -156,7 +156,7 @@ malplaĉa: engathandeki
 malplaĉan: engathandeki
 malproksime: kude
 malsaniĝis: wagula
-malsaĝa: engenangqondo
+malsaĝa: osisiyatha
 malsekajn: ezimanzi
 malsukcesa: engaphumelelanga
 maltrankvila: ekhathazekile
@@ -171,7 +171,7 @@ maristoj: amatilosi
 mariston: itilosi
 miaj: zami
 militistoj: amajoni
-monerojn: oonobumba zemali
+monerojn: iingqekembe zemali
 monujo: isipaji
 morgaŭan: wakusasa
 mortigo: ukubulala
@@ -182,7 +182,7 @@ naskiĝtaga: yosuku lokuzalwa
 naskiĝtago: usuku lokuzalwa
 naturaĵojn: izinto zemvelo
 nehoma: okungeyena umntu
-neinteresaj: ezingathakazelisi
+neinteresaj: ezingenamdla
 nokta: yasebusuku
 novaĵoj: iindaba ezintsha
 opinion: umbono
@@ -195,19 +195,19 @@ patrino: umama
 perdigis: walahlekisa
 plenigadis: wayegcwalisa
 plenumis: wafeza
-plibeligis: wenza yayiluncedo kuhle
-plimulto: iningi
+plibeligis: wayenza yaba ntle ngakumbi
+plimulto: uninzi
 policano: ipolisa
 promenejo: indawo yokuhambahamba
 promeno: ukuhamba ngezinyawo
 rapidege: ngokukhawuleza kakhulu
 realigi: ukwenza kube ngokoqobo
 redonu: buyisela
-rekapti: ukufumana kwaye
+rekapti: ukubamba kwakhona
 repaciĝon: ukubuyisana
 revenis: wabuya
-revidi: ukubona kwaye
-revido: sala kahle
+revidi: ukubona kwakhona
+revido: ukubonana kwakhona
 ridetis: wamomotheka
 rideto: ukumomotheka
 riĉeco:
@@ -220,7 +220,7 @@ samklubanoj: amalungu eklabhu efanayo
 sekretajn: eziyimfihlo
 sekreton: imfihlo
 senbrue: ngaphandle komsindo
-seninterese: ngaphandle kokuthakasela
+seninterese: ngaphandle komdla
 senkolora: engenambala
 sensukcese: ngaphandle kwempumelelo
 sentimulo: umntu onesibindi

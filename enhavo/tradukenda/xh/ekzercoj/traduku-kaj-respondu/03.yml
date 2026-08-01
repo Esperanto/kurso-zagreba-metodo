@@ -9,20 +9,20 @@
   - multajn: ezininzi
   - lingvojn: iilwimi
   - '?'
-- demando: Uyazi yintoni ukuthi u-Ana uyayithanda ingoma entsha ngomntu osweleleyo nowasetyhini omhle?
+- demando: Uyazi ukuba uAna uyayithanda ingoma entsha ngomntu ohluphekileyo nowasetyhini omhle?
   rektatraduko:
   - Ĉu: Ngaba
   - vi: wena
   - scias: uyazi
   - ','
   - ĉu: ngaba
-  - Ana: u-Ana
+  - Ana: uAna
   - ŝatas: uthanda
   - la: '-'
   - novan: entsha
   - kanton: ingoma
   - pri: malunga
-  - malriĉulo: umntu osweleleyo
+  - malriĉulo: umntu ohluphekileyo
   - kaj: kwaye
   - belulino: owasetyhini omhle
   - '?'
@@ -42,9 +42,9 @@
   - grandan: elikhulu
   - tablon: itafile
   - '?'
-- demando: Kwenzeka njani ukuthi ubuye kithi ngaphandle kwezumntwana zakwenu?
+- demando: Kwenzeke njani ukuba ubuye kuthi ngaphandle koobhuti noodade bakho?
   rektatraduko:
-  - Kiel: Kanjani
+  - Kiel: Njani
   - okazis: kwenzeka
   - ','
   - ke: ukuthi
@@ -54,9 +54,9 @@
   - al: ku
   - ni: thina
   - sen: ngaphandle
-  - gefratoj: abantakwethu noodadewethu
+  - gefratoj: oobhuti noodade
   - '?'
-- demando: Ungakwazi ukufunda i-Esperanto ngokukhawuleza ngokwanele ngencwadi entsha yokufunda?
+- demando: Ungakwazi ukufunda i-Esperanto ngokukhawuleza ngokwaneleyo ngencwadi entsha yokufunda?
   rektatraduko:
   - Ĉu: Ngaba
   - vi: wena
@@ -65,7 +65,7 @@
   - la: '-'
   - nova: entsha
   - lernolibro: incwadi yokufunda
-  - sufiĉe: ngokwanele
+  - sufiĉe: ngokwaneleyo
   - rapide: ngokukhawuleza
   - lerni: ukufunda
   - Esperanton: i-Esperanto

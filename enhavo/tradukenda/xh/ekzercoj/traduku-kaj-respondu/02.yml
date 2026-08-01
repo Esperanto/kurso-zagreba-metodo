@@ -1,12 +1,12 @@
 - demando: Lalinjani ikhaya lakho elidala?
   rektatraduko:
-  - Kia: Kunjani
+  - Kia: Lalinjani
   - estis: yayingu
   - via: wakho
   - malnova: endala
   - hejmo: ikhaya
   - '?'
-- demando: Zeziphi iincwadi ozifundileyo, kwaye bezilungile?
+- demando: Zeziphi iincwadi ozifundileyo, kwaye zilungile?
   rektatraduko:
   - Kiujn: Zeziphi
   - librojn: iincwadi
@@ -15,14 +15,14 @@
   - kaj: kwaye
   - ĉu: ngaba
   - ili: zona
-  - estas: ukuba
+  - estas: zi
   - bonaj: ezintle
   - '?'
-- demando: Wenze ntoni u-Ana noMarko egumbini elincinci likaMarko?
+- demando: Wenze ntoni uAna noMarko egumbini elincinci likaMarko?
   rektatraduko:
   - Kion: Yintoni
   - faris: wenza
-  - Ana: u-Ana
+  - Ana: uAna
   - kaj: kwaye
   - Marko: uMarko
   - en: ku
@@ -55,7 +55,7 @@
 - demando: Anjani amehlo omhlobo wakho?
   rektatraduko:
   - Kiaj: Anjani
-  - estas: ukuba
+  - estas: zi
   - la: '-'
   - okuloj: amehlo
   - de: ka

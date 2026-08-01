@@ -34,7 +34,7 @@
   - la: '-'
   - tagmanĝo: isidlo sasemini
   - '?'
-- demando: Ungawuvala umnyango wegumbi lapho kubanda?
+- demando: Ungawuvala umnyango wegumbi xa kubanda?
   rektatraduko:
   - Ĉu: Ngaba
   - oni: umntu
@@ -46,11 +46,11 @@
   - la: '-'
   - ĉambro: igumbi
   - ','
-  - kiam: lapho
+  - kiam: xa
   - estas: kuba
   - malvarme: kubanda
   - '?'
-- demando: Uhlala ucaphukile ixesha esingakanani ukuba umntu ekuthathela imali eningi?
+- demando: Uhlala ucaphukile ixesha esingakanani ukuba umntu ekuthathela imali eninzi?
   rektatraduko:
   - Kiom: Kangakanani
   - longe: ixesha eside
@@ -62,6 +62,6 @@
   - forprenas: ethatha
   - de: ka
   - vi: wena
-  - multan: eningi
+  - multan: eninzi
   - monon: imali
   - '?'

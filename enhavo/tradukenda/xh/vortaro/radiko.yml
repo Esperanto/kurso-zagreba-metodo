@@ -22,22 +22,21 @@ aŭtoritat: igunya
 bedaŭr: ukuzisola
 bel: kuhle
 best: isilwanyana
-bezon: ukufuna
+bezon: ukudinga
 bien:
 - ipulazi
-- indawo
 bon: kuhle
-branĉ: igatsha
+branĉ: isisebe
 bru: isandi
 buŝ: umlomo
 cert: qinisekile
-dank: ukubonga
+dank: ukubulela
 daŭr: ukuqhubeka
 decid: ukunquma
 demand: ukubuza
 dev: kufanele
 dezir: ukufisa
-diabl: udeveli
+diabl: umtyholi
 dik:
 - ityebile
 - ukuba ngqindilili
@@ -45,8 +44,8 @@ dimanĉ: iSonto
 dir: ukutsho
 direkt: ukuqondisa
 divers: ahlukene
-doktor: udokotela
-dolar: idola
+doktor: ugqirha
+dolar: idola yemali
 dolor:
 - ukuba buhlungu
 - ubuhlungu
@@ -59,7 +58,7 @@ edz: umyeni
 efektiv: empeleni
 ekskurs: uhambo
 ekzempl: isibonelo
-esper: ukwethemba
+esper: ukuthemba
 est: ukuba
 facil: kulula
 fakt: iqiniso
@@ -67,11 +66,11 @@ fal: ukuwa
 famili: usapho
 far: ukwenza
 fart:
-- ukuzizwa
-- uphila
+- ukuziva
+- ukuphila
 feliĉ: yonwabile
 ferm: ukuvala
-fin: ukuphela
+fin: ukugqiba
 flank: uhlangothi
 foj:
 - ixesha
@@ -85,9 +84,7 @@ fru: kwangoko
 fuŝ: ukwenza kabi
 glas: iglasi
 gondol: igondola
-graf:
-- igrafu
-- isikhulu
+graf: isidwangube
 grand:
 - khulu
 - enkulu
@@ -104,14 +101,14 @@ industri: imboni
 infan: umntwana
 inform: ukwazisa
 instru: ukufundisa
-interes: ukuthakazelisa
+interes: umdla
 invit: ukumema
 ir: ukuhamba
 itali: i-Italy
 jar: unyaka
 jun: mncinci
 kaf: ikofu
-kalv: umpandla
+kalv: enempandla
 kant: ukucula
 kap: intloko
 kapabl: ukwazi
@@ -124,7 +121,7 @@ kelner: uweta
 klar: cacile
 klub: iklabhu
 knab: umfana
-koler: ukucanuka
+koler: ukucaphuka
 kolor: umbala
 komenc: ukuqala
 kompren: ukuqonda
@@ -132,7 +129,7 @@ kon: ukwazi
 konsent: ukuvuma
 kontent: ukwaneliseka
 kontrol: ukuhlola
-kor: inhliziyo
+kor: intliziyo
 korp: umzimba
 kost: ukubiza
 kred: ukukholwa
@@ -143,11 +140,11 @@ kur: ukubaleka
 labor: ukusebenza
 lakt: ubisi
 lamp: isibane
-land: izwe
+land: ilizwe
 larĝ: banzi
 las: ukuvumela
 last: yokugcina
-laŭt: phezulu
+laŭt: evakalayo
 lecion: isifundo
 leg: ukufunda
 lern: ukufunda
@@ -182,7 +179,7 @@ mont: intaba
 montr: ukubonisa
 mort: ukufa
 mov: ukunyakaza
-mult: ningi
+mult: ninzi
 muzik: umculo
 naci: isizwe
 nask: ukuzala
@@ -190,17 +187,17 @@ natur: imvelo
 neces: kudingekile
 nokt: ubusuku
 nom: igama
-not: inothi
+not: inqaku
 nov: entsha
 odor: iphunga
-oft: kaningi
+oft: rhoqo
 okaz: ukwenzeka
 okul: iso
 onkl: umalume
-opini: ukucabanga
+opini: ukuba nombono
 ord: ukulungisa
 orel: indlebe
-organiz: ukulungisa
+organiz: ukuququzelela
 pac: ukuthula
 pag: ukukhokha
 pan: isonka
@@ -211,7 +208,7 @@ part: inxalenye
 pas: ukudlula
 patr: utata
 paŝ: ukunyathela
-pens: ukucabanga
+pens: ukucinga
 perd: ukulahlekelwa
 person: umntu
 pet: ukucela
@@ -229,7 +226,7 @@ polic: amapolisa
 pord: umnyango
 port: ukuthwala
 pov: ukukwazi
-poŝ: iphakethe
+poŝ: ipokotho
 poŝt: iposi
 pren: ukuthatha
 pret: lungile
@@ -243,11 +240,11 @@ prov: ukuzama
 publik: umphakathi
 punkt: iphuzu
 pur:
-- hlanzekile
+- icocekile
 - msulwa
 rajt: ukuvunyelwa
 rakont: ukuxoxa
-rapid: shesha
+rapid: khawuleza
 raport: ukubika
 real: ngokoqobo
 rekt: ngqo
@@ -270,7 +267,7 @@ san: enempilo
 sat:
 - ukusutha
 - usuthe
-saĝ: hlakaniphile
+saĝ: ulumkile
 sci: ukwazi
 sek: oma
 sekret: imfihlo
@@ -299,7 +296,7 @@ sport: ezemidlalo
 star: ukuma
 strat: isitalato
 subit: ngesiquphe
-sufiĉ: kwanele
+sufiĉ: eyaneleyo
 suk: ijusi
 sukces: impumelelo
 sun: ilanga
@@ -318,7 +315,7 @@ ton: ithoni
 trankvil: ezolile
 trink: ukusela
 trov: ukufumana
-turk: isiTurkey
+turk: umTurki
 tut: zonke
 tuŝ: ukuthinta
 universal: jikelele
@@ -331,11 +328,11 @@ ven: ukuza
 vend: ukuthengisa
 Veneci: iVenice
 ver: iqiniso
-vesper: ntambama
+vesper: ukuhlwa
 vest: ukugqoka
 vetur: ukuhamba ngemoto
 vid: ukubona
-vin: iwayintoni
+vin: iwayini
 vir: indoda
 viv: uphila
 vizaĝ: ubuso
@@ -353,7 +350,7 @@ zorg: ukunyamekela
 - ukuphazamisa
 - ukuhlupha
 ĝeneral: jikelele
-ĝoj: ukujabula
+ĝoj: evuyayo
 ĝust: okulungile
 ĵet: ukuphonsa
 ŝajn: ukubonakala

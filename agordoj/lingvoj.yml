@@ -503,6 +503,14 @@ rw:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+se:
+  nomo:
+    fontlingve: Davvisámegiella
+    esperante: nord-samea
+  stato: testa
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 sk:
   nomo:
     fontlingve: Slovenčina

@@ -1,0 +1,6 @@
+[submodule "submoduloj/revo-fonto"]
+	path = submoduloj/revo-fonto
+	url = https://github.com/revuloj/revo-fonto.git
+[submodule "submoduloj/voko-grundo"]
+	path = submoduloj/voko-grundo
+	url = https://github.com/revuloj/voko-grundo.git

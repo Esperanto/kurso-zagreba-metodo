@@ -23,7 +23,8 @@ La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperan
 - `fonto/py/`: Python-generatoroj. La ĉefa enirpunkto estas `fonto.py.generu`.
 - `fonto/html/` kaj `fonto/md/`: ŝablonoj por HTML kaj Markdown.
 - `fonto/css/`, `fonto/js/`, `fonto/bildoj/` kaj `fonto/sonoj/`: statikaj fontdosieroj kopiataj al la reteja eligo.
-- `eligo/retejo/`: generita HTML-retejo. Ne versikontrolu ĝin.
+- `eligo/`: generitaj eligoj. Ne versikontrolu ĝin.
+- `submoduloj/`: lokaj elprenoj de Git-submoduloj uzataj por generi helpajn eligojn.
 - `package.json` kaj `package-lock.json`: ŝlositaj npm-dependecoj por la publikaj `/vendor/...` frontend-bibliotekoj.
 - `iloj/`: prizorgaj helpiloj.
 
@@ -39,28 +40,42 @@ La kanonika taska tavolo por agentoj estas `make`, simile al `npm run ...` en Ja
 
 ```sh
 make install
+make install-prod
+make submoduloj
 make check
 make check-yaml
 make check-pwa
-make html LINGVO=en
+make html l=en
 make html-all
-make md LINGVO=en
+make md l=en
+make kolekto l=en
+make eltiru-revon
 make serve
+make clean-retejo
+make clean-md
+make clean-kolekto
 make clean
 ```
 
-`make check` instalas nenion. Ĝi estas la normala kontrolo por plej multaj ŝanĝoj: ĝi kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
+`make install-prod` instalas nur la dependecojn bezonatajn por produktada aŭ CI-a HTML-kunmeto. `make install` faras tion kaj poste elprenas la helpajn submodulojn.
+
+`make check` instalas nenion. Ĝi estas la normala kontrolo por plej multaj ŝanĝoj: ĝi kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install-prod` por produktadaj bezonoj aŭ `make install` por plena loka medio. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
+
+`make kolekto l=en` kolektas la tradukendajn Markdown- kaj YAML-dosierojn de unu lingvo al `eligo/kolekto/en.txt`. `l=<kodo>` estas mallonga formo de `LINGVO=<kodo>`.
+
+`make eltiru-revon` eltrahas Revo-tradukojn el la submoduloj `revo-fonto` kaj `voko-grundo` al `eligo/revo/`. Sen eksplicita `l` aŭ `LINGVO`, ĝi prilaboras ĉiujn lingvojn; kun `l=de`, nur unu.
 
 Kiam ŝanĝo rilatas nur al unu lingvo, preferu lingvolimitan kontrolon per
-`LINGVO=<kodo>` ĉe celoj, kiuj subtenas tion: `check-yaml`,
+`l=<kodo>` ĉe celoj, kiuj subtenas tion: `check-yaml`,
 `check-yaml-normalized`, `check-md-normalized` kaj `check-pwa`. Sen eksplicita
-`LINGVO`, tiuj kontroloj restas tut-enhavaj aŭ tut-eligaj.
+`l` aŭ `LINGVO`, tiuj kontroloj restas tut-enhavaj aŭ tut-eligaj.
 
 Rulu kromajn kontrolojn nur kiam la koncerna surfaco ŝanĝiĝis:
 
 - `make check-yaml`: kiam ŝanĝiĝis `enhavo/`, `skemoj/`, YAML-validiga kodo aŭ YAML-linteraj dependecoj.
 - `make check-ui`: kiam ŝanĝiĝis frontendaj fontoj, HTML/CSS/JS-ŝablonoj aŭ generatora kodo sub `fonto/`, kiu povas influi la retumilan UI-on.
-- `make html-all` kaj `make check-pwa`: kiam ŝanĝiĝis PWA-aŭ produktada reteja eligo, ekzemple `fonto/py/pwa.py`, PWA-ŝablonoj, komunaj aktivoj aŭ service-worker-rilata kodo.
+- `make html-all`: kiam ŝanĝiĝis produktada reteja eligo.
+- `make check-pwa`: kiam ŝanĝiĝis PWA-specifa eligo, ekzemple `fonto/py/pwa.py`, PWA-ŝablonoj, komunaj aktivoj aŭ service-worker-rilata kodo.
 
 Python-dependecoj estas mastrumataj per pip kaj pip-tools. Redaktu rektajn dependecojn en `requirements.in`, poste rulu `make lock` por regeneri la ŝlositan `requirements.txt`. Por intence ĝisdatigi ĉiujn ŝlositajn versiojn, rulu `make lock-upgrade`.
 
@@ -69,7 +84,7 @@ Frontend-vendoroj estas mastrumataj per npm kaj bezonas Node.js kun npm; la ping
 Generu HTML por lingvo, ekzemple la angla:
 
 ```sh
-make html LINGVO=en
+make html l=en
 ```
 
 Tio skribas al `eligo/retejo/en`.
@@ -84,7 +99,25 @@ make serve
 
 Tio nur servas la ekzistantan enhavon de `eligo/retejo`; ĝi ne regeneras dosierojn.
 
-Por forigi generitan retejan eligon, rulu:
+Por forigi nur generitan retejan eligon, rulu:
+
+```sh
+make clean-retejo
+```
+
+Por forigi nur generitan Markdown-eligon, rulu:
+
+```sh
+make clean-md
+```
+
+Por forigi nur generitan kolektan eligon, rulu:
+
+```sh
+make clean-kolekto
+```
+
+Por forigi ĉiujn tri, rulu:
 
 ```sh
 make clean
@@ -93,12 +126,12 @@ make clean
 Generu Markdown:
 
 ```sh
-make md LINGVO=en
+make md l=en
 ```
 
 La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pandoc, kiel priskribite en `README.md`.
 
-La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `eligo/retejo` uzante `make html-all` kaj `make check-pwa`. PR-oj al `master` rulas kontrolon kaj HTML-kunmeton, sed ne disponigas retejon. Ne aldonu apartajn disponigajn skriptojn por produktado; la Pages-artefakta laborfluo estas la kanonika disponigo.
+La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `eligo/retejo` uzante `make html-all`. PR-oj al `master` rulas kontrolon kaj HTML-kunmeton, sed ne disponigas retejon. Ne aldonu apartajn disponigajn skriptojn por produktado; la Pages-artefakta laborfluo estas la kanonika disponigo.
 
 ## Redaktado De Enhavo
 

@@ -8,6 +8,10 @@ attrs==26.1.0
     # via
     #   jsonschema
     #   referencing
+black==25.11.0
+    # via -r requirements.in
+build==1.4.4
+    # via pip-tools
 cached-property==1.5.2
     # via genanki
 certifi==2026.6.17
@@ -21,7 +25,12 @@ chevron==0.14.0
     #   -r requirements.in
     #   genanki
 click==8.1.8
-    # via check-jsonschema
+    # via
+    #   black
+    #   check-jsonschema
+    #   pip-tools
+flake8==7.3.0
+    # via -r requirements.in
 frozendict==2.3.8
     # via genanki
 genanki==0.13.0
@@ -29,25 +38,54 @@ genanki==0.13.0
 idna==3.18
     # via requests
 importlib-metadata==8.7.1
-    # via mdformat
+    # via
+    #   build
+    #   mdformat
 jinja2==3.1.6
     # via -r requirements.in
 jsonschema==4.25.1
     # via check-jsonschema
 jsonschema-specifications==2025.9.1
     # via jsonschema
+lxml==6.1.1
+    # via -r requirements.in
 markdown-it-py==3.0.0
     # via mdformat
 markupsafe==2.0.1
     # via
     #   -r requirements.in
     #   jinja2
+mccabe==0.7.0
+    # via flake8
 mdformat==0.7.22
     # via -r requirements.in
 mdurl==0.1.2
     # via markdown-it-py
 mistune==3.2.1
     # via -r requirements.in
+mypy-extensions==1.1.0
+    # via black
+packaging==26.2
+    # via
+    #   black
+    #   build
+    #   wheel
+pathspec==1.1.1
+    # via black
+pip-tools==7.5.3
+    # via -r requirements.in
+platformdirs==4.4.0
+    # via black
+pycodestyle==2.14.0
+    # via flake8
+pyflakes==3.4.0
+    # via flake8
+pyproject-hooks==1.2.0
+    # via
+    #   build
+    #   pip-tools
+pytokens==0.4.1
+    # via black
 pyyaml==6.0.3
     # via
     #   -r requirements.in
@@ -68,13 +106,23 @@ ruamel-yaml==0.19.1
     # via check-jsonschema
 tomli==2.4.1
     # via
+    #   black
+    #   build
     #   check-jsonschema
     #   mdformat
+    #   pip-tools
 typing-extensions==4.15.0
     # via
+    #   black
     #   mistune
     #   referencing
 urllib3==2.6.3
     # via requests
+wheel==0.47.0
+    # via pip-tools
 zipp==3.23.1
     # via importlib-metadata
+
+# The following packages are considered to be unsafe in a requirements file:
+# pip
+# setuptools

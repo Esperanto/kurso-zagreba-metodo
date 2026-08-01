@@ -1,10 +1,22 @@
-.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md normalize-yaml normalize-md serve clean
+.PHONY: help venv install install-prod install-ui submoduloj pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md kolekto eltiru-revon normalize-yaml normalize-md serve clean clean-retejo clean-md clean-kolekto
 
 LINGVO_ORIGIN := $(origin LINGVO)
+l_ORIGIN := $(origin l)
+ifeq ($(filter command line,$(LINGVO_ORIGIN)),)
+ifneq ($(filter command line,$(l_ORIGIN)),)
+LINGVO := $(l)
+endif
+endif
 LINGVO ?= en
 HOST ?= 127.0.0.1
 PORT ?= 8000
 OUTPUT_DIR ?= eligo/retejo
+MD_DIR ?= eligo/md
+KOLEKTO_DIR ?= eligo/kolekto
+SUBMODULE_DIR ?= submoduloj
+REVO_FONTO_DIR ?= $(SUBMODULE_DIR)/revo-fonto
+VOKO_GRUNDO_DIR ?= $(SUBMODULE_DIR)/voko-grundo
+REVO_ELIGO_DIR ?= eligo/revo
 NODE_MODULES ?= node_modules
 NPM ?= npm
 VENV ?= venv
@@ -13,7 +25,7 @@ PYTHON ?= $(VENV)/bin/python
 YAML_SCHEMA_LINTER ?= $(VENV)/bin/check-jsonschema
 TRADUKENDA_SCHEMA_DIR ?= skemoj/tradukenda
 PIP_TOOLS ?= pip-tools==7.5.3
-REQUESTED_LINGVO := $(if $(filter command line,$(LINGVO_ORIGIN)),$(LINGVO),)
+REQUESTED_LINGVO := $(if $(filter command line,$(LINGVO_ORIGIN) $(l_ORIGIN)),$(LINGVO),)
 CHECK_FORMAT_LINGVO ?= $(REQUESTED_LINGVO)
 CHECK_FORMAT_PATH := $(if $(CHECK_FORMAT_LINGVO),enhavo/tradukenda/$(CHECK_FORMAT_LINGVO),enhavo)
 CHECK_YAML_LINGVO ?= $(REQUESTED_LINGVO)
@@ -25,40 +37,53 @@ CHECK_PWA_ARGS := $(if $(CHECK_PWA_LINGVO),--lingvo $(CHECK_PWA_LINGVO),)
 CHECK_LINGVO := en
 CHECK_UI_LINGVOJ ?= $(CHECK_LINGVO) km my no tl zu
 MD_OUT ?= eligo/md/$(CHECK_LINGVO).md
+KOLEKTO_OUT ?= $(KOLEKTO_DIR)/$(LINGVO).txt
 
 help:
 	@printf '%s\n' \
 		'Celoj:' \
 		'  make venv            Kreas venv-on, defaŭlte VENV=venv' \
-		'  make install         Kreas venv-on kaj instalas Python- kaj npm-dependecojn' \
+		'  make install         Kreas plenan lokan medion inkluzive de submoduloj' \
+		'  make install-prod    Instalas nur produktadajn Python- kaj npm-dependecojn' \
 		'  make install-ui      Instalas Chromium por Playwright-testoj' \
+		'  make submoduloj      Elprenas eksterajn fontdeponejojn' \
 		'  make lock            Rekreas requirements.txt el requirements.in' \
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
 		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
-		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj; kun LINGVO=de nur unu lingvon' \
-		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/; kun LINGVO=de nur unu lingvon' \
-		'  make check-md-normalized    Kontrolas Markdown-formaton sub enhavo/; kun LINGVO=de nur unu lingvon' \
+		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj; kun l=de nur unu lingvon' \
+		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/; kun l=de nur unu lingvon' \
+		'  make check-md-normalized    Kontrolas Markdown-formaton sub enhavo/; kun l=de nur unu lingvon' \
 		'  make check-ui        Kontrolas anglajn kaj beta-startpaĝajn UI-interagojn per Playwright' \
-		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston; kun LINGVO=de nur unu lingvon' \
-		'  make html LINGVO=en  Generas HTML por unu lingvo' \
+		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston; kun l=de nur unu lingvon' \
+		'  make html l=en       Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por publikaj kaj testaj lingvoj' \
-		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
+		'  make md l=en         Generas Markdown por unu lingvo' \
+		'  make kolekto l=en    Kolektas tradukendan enhavon al TXT' \
+		'  make eltiru-revon    Eltrahas Revo-tradukojn al YAML; kun l=de nur unu lingvon' \
 		'  make normalize-yaml  Normaligas YAML-dosierojn sub enhavo/' \
 		'  make normalize-md    Normaligas Markdown-dosierojn sub enhavo/' \
 		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000' \
-		'  make clean           Forigas generitan HTML-eligon'
+		'  make clean           Forigas generitajn retejan, Markdown- kaj kolektajn eligojn' \
+		'  make clean-retejo    Forigas generitan retejan eligon' \
+		'  make clean-md        Forigas generitan Markdown-eligon' \
+		'  make clean-kolekto   Forigas generitan kolektan eligon'
 
 venv:
 	@if [ ! -x "$(PYTHON)" ]; then \
 		"$(SYSTEM_PYTHON)" -m venv "$(VENV)"; \
 	fi
 
-install: venv
+install: install-prod submoduloj
+
+install-prod: venv
 	@"$(PYTHON)" -m pip install -r requirements.txt
 	@"$(NPM)" ci --ignore-scripts
 
 install-ui:
 	@"$(NPM)" exec -- playwright install chromium
+
+submoduloj:
+	@git submodule update --init --checkout --recursive "$(REVO_FONTO_DIR)" "$(VOKO_GRUNDO_DIR)"
 
 pip-tools: venv
 	@"$(PYTHON)" -m pip install "$(PIP_TOOLS)"
@@ -76,7 +101,7 @@ check:
 		&& test -f "$(NODE_MODULES)/jquery/dist/jquery.min.js" \
 		&& test -f "$(NODE_MODULES)/typeahead.js/dist/typeahead.bundle.min.js" || { printf '%s\n' 'Mankas npm-dependecoj en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
 	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune, genanki'
-	@$(MAKE) --no-print-directory clean
+	@$(MAKE) --no-print-directory clean-retejo
 	@mkdir -p "$(dir $(MD_OUT))"
 	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"
 	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"
@@ -147,7 +172,7 @@ check-md-normalized:
 check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@test -f "$(NODE_MODULES)/.bin/playwright" || { printf '%s\n' 'Mankas Playwright en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
-	@$(MAKE) --no-print-directory clean
+	@$(MAKE) --no-print-directory clean-retejo
 	@for lingvo in $(CHECK_UI_LINGVOJ); do \
 		$(MAKE) --no-print-directory html LINGVO="$$lingvo"; \
 	done
@@ -169,6 +194,23 @@ html-all: bundle
 md:
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo md
 
+kolekto:
+	@test -n "$(LINGVO)" || { printf '%s\n' 'Mankas lingvo. Uzu `make kolekto l=en`.' >&2; exit 1; }
+	@case "$(LINGVO)" in *[!A-Za-z0-9_-]*) printf '%s\n' 'Nevalida lingvokodo por kolekto: $(LINGVO)' >&2; exit 1;; esac
+	@test -d "enhavo/tradukenda/$(LINGVO)" || { printf '%s\n' 'Nekonata lingvo por kolekto: $(LINGVO)' >&2; exit 1; }
+	@mkdir -p "$(KOLEKTO_DIR)"
+	@find "enhavo/tradukenda/$(LINGVO)" -type f \( -name "*.md" -o -name "*.yml" \) -exec sh -c ' \
+		for dosiero; do \
+			printf "=== Dosiero: %s ===\n" "$$dosiero"; \
+			cat "$$dosiero"; \
+			printf "\n"; \
+		done \
+	' _ {} + >"$(KOLEKTO_OUT)"
+	@printf 'Skribis %s\n' "$(KOLEKTO_OUT)"
+
+eltiru-revon: submoduloj
+	@"$(PYTHON)" fonto/py/eltiru-revon.py $(if $(REQUESTED_LINGVO),--lingvo "$(REQUESTED_LINGVO)",) --revo-fonto "$(REVO_FONTO_DIR)" --voko-grundo "$(VOKO_GRUNDO_DIR)" --eligo-dir "$(REVO_ELIGO_DIR)"
+
 normalize-yaml:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@"$(PYTHON)" -m fonto.py.normaligu_yaml enhavo
@@ -180,7 +222,19 @@ normalize-md:
 serve:
 	@"$(PYTHON)" -m http.server "$(PORT)" --bind "$(HOST)" --directory "$(OUTPUT_DIR)"
 
-clean:
+clean: clean-retejo clean-md clean-kolekto
+
+clean-retejo:
 	@test -n "$(OUTPUT_DIR)" && test "$(OUTPUT_DIR)" != "/" || { printf '%s\n' 'OUTPUT_DIR estas nesekura por forigo.' >&2; exit 1; }
 	@rm -rf "$(OUTPUT_DIR)"
 	@printf 'Forigis %s\n' "$(OUTPUT_DIR)"
+
+clean-md:
+	@test -n "$(MD_DIR)" && test "$(MD_DIR)" != "/" || { printf '%s\n' 'MD_DIR estas nesekura por forigo.' >&2; exit 1; }
+	@rm -rf "$(MD_DIR)"
+	@printf 'Forigis %s\n' "$(MD_DIR)"
+
+clean-kolekto:
+	@test -n "$(KOLEKTO_DIR)" && test "$(KOLEKTO_DIR)" != "/" || { printf '%s\n' 'KOLEKTO_DIR estas nesekura por forigo.' >&2; exit 1; }
+	@rm -rf "$(KOLEKTO_DIR)"
+	@printf 'Forigis %s\n' "$(KOLEKTO_DIR)"

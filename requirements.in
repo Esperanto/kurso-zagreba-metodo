@@ -1,8 +1,12 @@
+black
 chevron
 check-jsonschema
+flake8
 genanki
 Jinja2
+lxml
 MarkupSafe
 mdformat
 mistune
+pip-tools==7.5.3
 PyYAML

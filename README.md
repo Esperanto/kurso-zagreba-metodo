@@ -20,6 +20,10 @@ Unue kreu virtualan medion kaj instalu la bezonatajn Python- kaj npm-dependecojn
 
     make install
 
+Por produktada aŭ CI-a HTML-kunmeto sen helpaj submoduloj:
+
+    make install-prod
+
 La rektaj Python-dependecoj estas listigitaj en `requirements.in`. `requirements.txt` estas la ŝlosita instal-dosiero, generita per:
 
     make lock
@@ -27,15 +31,31 @@ La rektaj Python-dependecoj estas listigitaj en `requirements.in`. `requirements
 La frontend-bibliotekoj, kiuj aperas publike sub `/vendor/...`, estas ŝlositaj en `package.json` kaj `package-lock.json`. Ili estas instalataj per `npm ci --ignore-scripts` dum `make install` kaj kopiataj al `eligo/retejo/vendor` dum HTML-generado.
 Por tio necesas Node.js kun npm; la pinglita Node-versio troviĝas en `.nvmrc` kaj la GitHub Actions-laborfluo uzas tiun saman version.
 
+`make install` ankaŭ elprenas eksterajn fontdeponejojn kiel Git-submodulojn sub `submoduloj/`; `make install-prod` ne elprenas ilin. Por refari nur la submodulojn:
+
+    make submoduloj
+
 Por kontroli la anglan Markdown-, HTML- kaj Anki-eligon:
 
     make check
 
 Tio unue forigas `eligo/retejo`, poste generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj fine kontrolas kernajn dosierojn kaj la APKG-eksporton.
 
+Por kolekti la tradukendan Markdown- kaj YAML-enhavon de unu lingvo en TXT-dosieron:
+
+    make kolekto l=en
+
+Tio skribas al `eligo/kolekto/en.txt`.
+
+Por eltrahi tradukojn el Revo al YAML-dosieroj:
+
+    make eltiru-revon
+
+Tio skribas al `eligo/revo/`. Kun `l=de`, ĝi eltrahas nur unu lingvon.
+
 ### HTML
 
-    make html LINGVO=en
+    make html l=en
 
 Kreas HTML-dosierujon en `eligo/retejo/en`.
 
@@ -55,7 +75,19 @@ Por antaŭrigardi jam generitan HTML-on loke:
 
 Tio servas `eligo/retejo` ĉe `http://127.0.0.1:8000`.
 
-Por forigi la generitan retejan eligon:
+Por forigi nur la generitan retejan eligon:
+
+    make clean-retejo
+
+Por forigi nur la generitan Markdown-eligon:
+
+    make clean-md
+
+Por forigi nur la generitan kolektan eligon:
+
+    make clean-kolekto
+
+Por forigi ĉiujn tri:
 
     make clean
 
@@ -66,12 +98,12 @@ PR-oj al `master` rulas la saman kontrolon kaj HTML-kunmeton, sed ne disponigas 
 
 Vi bezonas [Pandoc](https://pandoc.org), minimume versionon 2.
 
-    make md LINGVO=en
+    make md l=en
 
 Eligas la tutan kurson en Markdown al `STDOUT`, tial per:
 
-    make md LINGVO=en | pandoc --latex-engine=xelatex -o en.pdf
-    make md LINGVO=en | pandoc -o en.epub
+    make md l=en | pandoc --latex-engine=xelatex -o en.pdf
+    make md l=en | pandoc -o en.epub
 
 oni povas krei kaj PDF kaj EPUB dosieron.
 

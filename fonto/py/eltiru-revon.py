@@ -255,10 +255,10 @@ def analizi_argumentojn():
         "--lingvo", help="Volata lingvokodo. Se mankas, prilaboras ĉiujn lingvojn."
     )
     analizilo.add_argument(
-        "--revo-fonto", type=Path, default=Path("eligo/submoduloj/revo-fonto")
+        "--revo-fonto", type=Path, default=Path("submoduloj/revo-fonto")
     )
     analizilo.add_argument(
-        "--voko-grundo", type=Path, default=Path("eligo/submoduloj/voko-grundo")
+        "--voko-grundo", type=Path, default=Path("submoduloj/voko-grundo")
     )
     analizilo.add_argument("--eligo-dir", type=Path, default=Path("eligo/revo"))
     return analizilo.parse_args()

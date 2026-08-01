@@ -3,6 +3,9 @@
 Koncernas `vortaro/*.yml`.
 
 - Plibonigu kaj kompletigu tradukojn.
+- Kiel helpfonton, konsultu ankaŭ la Revo-eltirojn por la koncerna lingvo en
+  `eligo/revo/<lingvo>.yml`. Uzu ilin kiel inspiron kaj komparmaterialon, ne
+  kiel solan fonton de vero.
 - `vorto.yml` enhavas plenajn vortojn aŭ fiksajn formojn. Ĝi ne estas listo de
   radikoj.
 - Kiam vi kontrolas tradukon de plena kursa vorto, unue serĉu ĝin en

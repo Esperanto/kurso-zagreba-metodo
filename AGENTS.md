@@ -24,7 +24,7 @@ La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperan
 - `fonto/html/` kaj `fonto/md/`: ŝablonoj por HTML kaj Markdown.
 - `fonto/css/`, `fonto/js/`, `fonto/bildoj/` kaj `fonto/sonoj/`: statikaj fontdosieroj kopiataj al la reteja eligo.
 - `eligo/`: generitaj eligoj. Ne versikontrolu ĝin.
-- `eligo/submoduloj/`: lokaj elprenoj de Git-submoduloj uzataj por generi helpajn eligojn.
+- `submoduloj/`: lokaj elprenoj de Git-submoduloj uzataj por generi helpajn eligojn.
 - `package.json` kaj `package-lock.json`: ŝlositaj npm-dependecoj por la publikaj `/vendor/...` frontend-bibliotekoj.
 - `iloj/`: prizorgaj helpiloj.
 

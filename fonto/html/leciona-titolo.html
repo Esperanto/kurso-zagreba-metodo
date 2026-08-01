@@ -13,13 +13,13 @@
       <ul class="dropdown-menu leciona-menuo-listo">
         {% for menu_leciono in enhavo.lecionoj %}
           <li>
-            <a class="dropdown-item" href="{{vojprefikso}}{{menu_leciono.indekso.cxene}}{% if leciona_menuo_tab_vojo|default('') %}/{{leciona_menuo_tab_vojo}}{% endif %}">
+            <a class="dropdown-item" href="{{vojprefikso}}{{menu_leciono.indekso.cxene}}/{% if leciona_menuo_tab_vojo|default('') %}{{leciona_menuo_tab_vojo}}{% endif %}">
               {{menu_leciono.indekso.cifre}}. {{menu_leciono.teksto.titolo_string}}
             </a>
           </li>
         {% endfor %}
         <li>
-          <a class="dropdown-item{% if apendico %} active{% endif %}" href="{{vojprefikso}}tabelvortoj">
+          <a class="dropdown-item{% if apendico %} active{% endif %}" href="{{vojprefikso}}tabelvortoj/">
             📎 {{enhavo.fasado['Aldono']}}
           </a>
         </li>

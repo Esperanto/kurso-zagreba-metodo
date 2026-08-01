@@ -29,11 +29,11 @@
   - alvenos: va sosi
   - ','
   - je: la
-  - la: (articol)
+  - la: articol hotărât
   - kvina: a cincea
   - aŭ: sau
   - je: la
-  - la: (articol)
+  - la: articol hotărât
   - oka: a opta
   - horo: oră
   - '?'
@@ -44,7 +44,7 @@
   - rimarkis: ai observat
   - ','
   - ke: că
-  - la: (articol)
+  - la: articol hotărât
   - tuta: toată
   - familio: familie
   - nomas: numește
@@ -54,13 +54,13 @@
 - demando: Ți-a fost utilă cărticica pe care ți-am trimis-o?
   rektatraduko:
   - Ĉu: oare
-  - la: (articol)
+  - la: articol hotărât
   - libreto: cărticică
   - ','
   - kiun: pe care
   - mi: eu
   - sendis: am trimis
-  - al: pentru
+  - al: către
   - vi: tine
   - ','
   - estis: a fost

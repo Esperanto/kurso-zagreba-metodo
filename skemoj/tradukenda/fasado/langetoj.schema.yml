@@ -1,0 +1,18 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda langetoj-fasado YAML
+allOf:
+- $ref: ../fasado.schema.yml
+- type: object
+  minProperties: 7
+  maxProperties: 7
+  propertyNames:
+    enum:
+    - Ekzerco 1
+    - Ekzerco 2
+    - Ekzerco 3
+    - Ekzercoj
+    - Gramatiko
+    - Novaj vortoj
+    - Teksto
+  additionalProperties:
+    $ref: ../fasado.schema.yml#/$defs/nepraTeksto

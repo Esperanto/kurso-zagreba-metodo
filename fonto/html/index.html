@@ -60,7 +60,7 @@
   </div>
 
   <div class="lingva-startpagxo-agoj">
-    <a class="btn btn-primary btn-lg" href="{{vojprefikso}}01">{{enhavo.fasado['Ek']}}</a>
+    <a class="btn btn-primary btn-lg" href="{{vojprefikso}}01/">{{enhavo.fasado['Ek']}}</a>
     {% if enhavo.havas_pwa %}
       {% set pwa_mana_instalo = 'Malfermu la retumilan menuon kaj elektu "Instali" aŭ "Aldoni al la hejma ekrano".' %}
       {% set pwa_mana_instalo_teksto = enhavo.fasado[pwa_mana_instalo]|default(pwa_mana_instalo, true) %}
@@ -86,7 +86,7 @@
 
   {% if enhavo.post %}
     <p class="lingva-startpagxo-parolantoj text-center">
-      <a class="btn btn-outline-secondary" href="{{vojprefikso}}post">
+      <a class="btn btn-outline-secondary" href="{{vojprefikso}}post/">
         {{enhavo.fasado['Trovu Esperanto-parolantojn']}}
       </a>
     </p>

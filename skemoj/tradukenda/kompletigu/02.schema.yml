@@ -1,0 +1,25 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 02
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 5
+- contains:
+    required:
+    - Marko havas amikon kaj amikinon. Ili estas geamikoj.
+  maxContains: 1
+- contains:
+    required:
+    - Li kuiras kafon kaj ili trinkas ĝin en nia hejmo.
+  maxContains: 1
+- contains:
+    required:
+    - Ili iras al la hotelo.
+  maxContains: 1
+- contains:
+    required:
+    - Ŝi vidas, ke Marko amas ŝin.
+  maxContains: 1
+- contains:
+    required:
+    - Ili havas facilajn lernolibrojn.
+  maxContains: 1

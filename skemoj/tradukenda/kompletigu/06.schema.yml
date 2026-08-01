@@ -1,0 +1,29 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 06
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 6
+- contains:
+    required:
+    - La gepatroj ĉiam deziras, ke mi lernu multon.
+  maxContains: 1
+- contains:
+    required:
+    - Mia amiko deziras, ke mi iru kanti kun li.
+  maxContains: 1
+- contains:
+    required:
+    - La patro volas, ke lia infano manĝu kukon, kiu estas sur la tablo.
+  maxContains: 1
+- contains:
+    required:
+    - Ni loĝas en malgranda ĉambro.
+  maxContains: 1
+- contains:
+    required:
+    - Mi fariĝis maltrankvila, kiam mi vidis vin.
+  maxContains: 1
+- contains:
+    required:
+    - Ĉiuj rimarkis, ke ŝi estas belega.
+  maxContains: 1

@@ -1,0 +1,13 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda butonoj-fasado YAML
+allOf:
+- $ref: ../fasado.schema.yml
+- type: object
+  maxProperties: 4
+  required:
+  - Helpo
+  - Komentejo
+  - antaŭen
+  - malantaŭen
+  additionalProperties:
+    $ref: ../fasado.schema.yml#/$defs/nepraTeksto

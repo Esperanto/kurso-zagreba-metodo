@@ -1,0 +1,25 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 05
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 5
+- contains:
+    required:
+    - Dankon, sinjoro. Nedankinde.
+  maxContains: 1
+- contains:
+    required:
+    - Horo estas mallonga, tago estas pli longa, monato estas la plej longa.
+  maxContains: 1
+- contains:
+    required:
+    - Mi legas pli multajn librojn ol mia amiko.
+  maxContains: 1
+- contains:
+    required:
+    - Mi sendis al mia amiko longajn leterojn, dum li estis en Tokio.
+  maxContains: 1
+- contains:
+    required:
+    - La libro estas leginda.
+  maxContains: 1

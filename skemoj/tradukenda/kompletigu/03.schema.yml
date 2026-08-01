@@ -1,0 +1,29 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 03
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 6
+- contains:
+    required:
+    - Mia amiko skribas multe.
+  maxContains: 1
+- contains:
+    required:
+    - Bela kelnerino estas belulino.
+  maxContains: 1
+- contains:
+    required:
+    - Ni havas multajn belajn aferojn.
+  maxContains: 1
+- contains:
+    required:
+    - Ni kune lernas en lernejo.
+  maxContains: 1
+- contains:
+    required:
+    - Miaj gepatroj manĝas en manĝejo.
+  maxContains: 1
+- contains:
+    required:
+    - La kuko estas manĝebla.
+  maxContains: 1

@@ -1,0 +1,25 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 12
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 5
+- contains:
+    required:
+    - Antaŭ kvarona horo ili revenis.
+  maxContains: 1
+- contains:
+    required:
+    - Post la terura malfeliĉo la homoj foriris kaj la malnovaj urboj disfalis.
+  maxContains: 1
+- contains:
+    required:
+    - Ni devus revidi nin, mia amiko.
+  maxContains: 1
+- contains:
+    required:
+    - Ju pli ofte mi pripensas, des pli mi koleras.
+  maxContains: 1
+- contains:
+    required:
+    - Ŝi loĝas en iu ajn domo.
+  maxContains: 1

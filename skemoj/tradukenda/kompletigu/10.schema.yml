@@ -1,0 +1,25 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda kompletigu-ekzerco YAML, leciono 10
+allOf:
+- $ref: ../kompletigu.schema.yml
+- maxItems: 5
+- contains:
+    required:
+    - En juneco oni havas ankaŭ belecon.
+  maxContains: 1
+- contains:
+    required:
+    - Malsimplajn laborojn ĉefoj devus plisimpligi.
+  maxContains: 1
+- contains:
+    required:
+    - En tiu aĝo li jam fariĝis klubestro de sporta klubo.
+  maxContains: 1
+- contains:
+    required:
+    - Monon oni metas en monujon.
+  maxContains: 1
+- contains:
+    required:
+    - Sekvu la ekzemplon de la bonaj familianoj.
+  maxContains: 1

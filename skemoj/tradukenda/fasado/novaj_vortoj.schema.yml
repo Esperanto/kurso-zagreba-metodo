@@ -1,0 +1,13 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Tradukenda novaj-vortoj-fasado YAML
+allOf:
+- $ref: ../fasado.schema.yml
+- type: object
+  minProperties: 2
+  maxProperties: 2
+  propertyNames:
+    enum:
+    - En la teksto
+    - Pliaj
+  additionalProperties:
+    $ref: ../fasado.schema.yml#/$defs/valoro

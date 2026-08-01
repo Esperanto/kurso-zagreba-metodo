@@ -1,9 +1,15 @@
-$schema: "https://json-schema.org/draft/2020-12/schema"
+$schema: https://json-schema.org/draft/2020-12/schema
 title: Tradukenda fasado YAML
 type: object
 propertyNames:
   minLength: 1
 additionalProperties:
-  type:
+  $ref: '#/$defs/valoro'
+$defs:
+  valoro:
+    type:
     - string
-    - "null"
+    - 'null'
+  nepraTeksto:
+    type: string
+    minLength: 1

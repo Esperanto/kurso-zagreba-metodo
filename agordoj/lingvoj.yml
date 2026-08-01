@@ -170,7 +170,7 @@ fi:
   nomo:
     fontlingve: Suomi
     esperante: finna
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -577,7 +577,7 @@ te:
   nomo:
     fontlingve: తెలుగు
     esperante: telugua
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -630,7 +630,7 @@ ur:
   nomo:
     fontlingve: اردو
     esperante: urdua
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: Adeel Butt
       github: ambtg
@@ -673,7 +673,7 @@ yo:
   nomo:
     fontlingve: yorùbá
     esperante: joruba
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: Gabriel Olúbùnmi Ọ̀ṣhọ́-Davies
       github: oshodavies

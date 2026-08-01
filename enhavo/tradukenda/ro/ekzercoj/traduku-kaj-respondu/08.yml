@@ -2,10 +2,10 @@
   rektatraduko:
   - Kiu: Cine
   - purigos: va curăța
-  - la: (articol)
+  - la: articol hotărât
   - kuirejon: bucătărie
   - post: după
-  - la: (articol)
+  - la: articol hotărât
   - tagmanĝo: prânz
   - '?'
 - demando: 'Ce vrei să bei: ceai, puțină cafea sau nu vrei nimic?'
@@ -43,11 +43,11 @@
   - kiu: cine
   - vi: tu
   - donis: ai dat
-  - la: (articol)
+  - la: articol hotărât
   - purajn: curate
   - glasojn: pahare
   - por: pentru
-  - la: (articol)
+  - la: articol hotărât
   - vino: vin
   - '?'
 - demando: Împotriva cui a jucat clubul tău sportiv acum două săptămâni?
@@ -67,13 +67,13 @@
   - vi: tu
   - ofte: des
   - vidas: vezi
-  - la: (articol)
+  - la: articol hotărât
   - policiston: polițist
   - ','
   - kiu: care
   - loĝas: locuiește
   - en: în
-  - la: (articol)
+  - la: articol hotărât
   - loĝejo: locuință
   - super: deasupra
   - vi: ta

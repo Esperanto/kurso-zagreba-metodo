@@ -20,6 +20,10 @@ Unue kreu virtualan medion kaj instalu la bezonatajn Python- kaj npm-dependecojn
 
     make install
 
+Por produktada aŭ CI-a HTML-kunmeto sen helpaj submoduloj:
+
+    make install-prod
+
 La rektaj Python-dependecoj estas listigitaj en `requirements.in`. `requirements.txt` estas la ŝlosita instal-dosiero, generita per:
 
     make lock
@@ -27,7 +31,7 @@ La rektaj Python-dependecoj estas listigitaj en `requirements.in`. `requirements
 La frontend-bibliotekoj, kiuj aperas publike sub `/vendor/...`, estas ŝlositaj en `package.json` kaj `package-lock.json`. Ili estas instalataj per `npm ci --ignore-scripts` dum `make install` kaj kopiataj al `eligo/retejo/vendor` dum HTML-generado.
 Por tio necesas Node.js kun npm; la pinglita Node-versio troviĝas en `.nvmrc` kaj la GitHub Actions-laborfluo uzas tiun saman version.
 
-`make install` ankaŭ elprenas eksterajn fontdeponejojn kiel Git-submodulojn sub `submoduloj/`. Por refari nur tion:
+`make install` ankaŭ elprenas eksterajn fontdeponejojn kiel Git-submodulojn sub `submoduloj/`; `make install-prod` ne elprenas ilin. Por refari nur la submodulojn:
 
     make submoduloj
 

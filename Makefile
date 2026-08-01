@@ -1,4 +1,4 @@
-.PHONY: help venv install install-ui submoduloj pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md kolekto eltiru-revon normalize-yaml normalize-md serve clean clean-retejo clean-md clean-kolekto
+.PHONY: help venv install install-prod install-ui submoduloj pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md kolekto eltiru-revon normalize-yaml normalize-md serve clean clean-retejo clean-md clean-kolekto
 
 LINGVO_ORIGIN := $(origin LINGVO)
 l_ORIGIN := $(origin l)
@@ -43,7 +43,8 @@ help:
 	@printf '%s\n' \
 		'Celoj:' \
 		'  make venv            Kreas venv-on, defaŭlte VENV=venv' \
-		'  make install         Kreas venv-on kaj instalas Python- kaj npm-dependecojn' \
+		'  make install         Kreas plenan lokan medion inkluzive de submoduloj' \
+		'  make install-prod    Instalas nur produktadajn Python- kaj npm-dependecojn' \
 		'  make install-ui      Instalas Chromium por Playwright-testoj' \
 		'  make submoduloj      Elprenas eksterajn fontdeponejojn' \
 		'  make lock            Rekreas requirements.txt el requirements.in' \
@@ -72,7 +73,9 @@ venv:
 		"$(SYSTEM_PYTHON)" -m venv "$(VENV)"; \
 	fi
 
-install: venv submoduloj
+install: install-prod submoduloj
+
+install-prod: venv
 	@"$(PYTHON)" -m pip install -r requirements.txt
 	@"$(NPM)" ci --ignore-scripts
 

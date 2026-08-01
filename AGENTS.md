@@ -40,6 +40,7 @@ La kanonika taska tavolo por agentoj estas `make`, simile al `npm run ...` en Ja
 
 ```sh
 make install
+make install-prod
 make submoduloj
 make check
 make check-yaml
@@ -56,7 +57,9 @@ make clean-kolekto
 make clean
 ```
 
-`make check` instalas nenion. Ĝi estas la normala kontrolo por plej multaj ŝanĝoj: ĝi kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
+`make install-prod` instalas nur la dependecojn bezonatajn por produktada aŭ CI-a HTML-kunmeto. `make install` faras tion kaj poste elprenas la helpajn submodulojn.
+
+`make check` instalas nenion. Ĝi estas la normala kontrolo por plej multaj ŝanĝoj: ĝi kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install-prod` por produktadaj bezonoj aŭ `make install` por plena loka medio. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
 
 `make kolekto l=en` kolektas la tradukendajn Markdown- kaj YAML-dosierojn de unu lingvo al `eligo/kolekto/en.txt`. `l=<kodo>` estas mallonga formo de `LINGVO=<kodo>`.
 
@@ -71,7 +74,8 @@ Rulu kromajn kontrolojn nur kiam la koncerna surfaco ŝanĝiĝis:
 
 - `make check-yaml`: kiam ŝanĝiĝis `enhavo/`, `skemoj/`, YAML-validiga kodo aŭ YAML-linteraj dependecoj.
 - `make check-ui`: kiam ŝanĝiĝis frontendaj fontoj, HTML/CSS/JS-ŝablonoj aŭ generatora kodo sub `fonto/`, kiu povas influi la retumilan UI-on.
-- `make html-all` kaj `make check-pwa`: kiam ŝanĝiĝis PWA-aŭ produktada reteja eligo, ekzemple `fonto/py/pwa.py`, PWA-ŝablonoj, komunaj aktivoj aŭ service-worker-rilata kodo.
+- `make html-all`: kiam ŝanĝiĝis produktada reteja eligo.
+- `make check-pwa`: kiam ŝanĝiĝis PWA-specifa eligo, ekzemple `fonto/py/pwa.py`, PWA-ŝablonoj, komunaj aktivoj aŭ service-worker-rilata kodo.
 
 Python-dependecoj estas mastrumataj per pip kaj pip-tools. Redaktu rektajn dependecojn en `requirements.in`, poste rulu `make lock` por regeneri la ŝlositan `requirements.txt`. Por intence ĝisdatigi ĉiujn ŝlositajn versiojn, rulu `make lock-upgrade`.
 
@@ -127,7 +131,7 @@ make md l=en
 
 La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pandoc, kiel priskribite en `README.md`.
 
-La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `eligo/retejo` uzante `make html-all` kaj `make check-pwa`. PR-oj al `master` rulas kontrolon kaj HTML-kunmeton, sed ne disponigas retejon. Ne aldonu apartajn disponigajn skriptojn por produktado; la Pages-artefakta laborfluo estas la kanonika disponigo.
+La produkta retejo `esperanto12.net` estas disponigata per GitHub Pages el `eligo/retejo` uzante `make html-all`. PR-oj al `master` rulas kontrolon kaj HTML-kunmeton, sed ne disponigas retejon. Ne aldonu apartajn disponigajn skriptojn por produktado; la Pages-artefakta laborfluo estas la kanonika disponigo.
 
 ## Redaktado De Enhavo
 

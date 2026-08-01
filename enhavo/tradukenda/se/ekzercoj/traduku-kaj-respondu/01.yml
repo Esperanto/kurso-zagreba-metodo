@@ -1,0 +1,51 @@
+- demando: Gii lea du ustit?
+  rektatraduko:
+  - Kiu: Gii
+  - estas: lea
+  - via: du
+  - amikino: nissonguoibmi
+  - '?'
+- demando: Lea go du ustit Ana čállimin dál latnjii?
+  rektatraduko:
+  - Ĉu: Vai
+  - via: du
+  - amikino: nissonguoibmi
+  - Ana: Ana
+  - skribas: čállá
+  - nun: dál
+  - en: in
+  - la: dat
+  - ĉambro: latnja
+  - '?'
+- demando: Bargágo du áhči ustit hoteallas?
+  rektatraduko:
+  - Ĉu: Vai
+  - la: dat
+  - amiko: ustit
+  - de: das
+  - via: du
+  - patro: áhčči
+  - laboras: bargá
+  - en: in
+  - hotelo: hotealla
+  - '?'
+- demando: Mii lea bargobeavddis min lanjas?
+  rektatraduko:
+  - Kio: Mii
+  - estas: lea
+  - sur: alde
+  - la: dat
+  - labortablo: bargobeavdi
+  - en: in
+  - nia: min
+  - ĉambro: latnja
+  - '?'
+- demando: Lea go esperanto oahppogirji du beavddi alde?
+  rektatraduko:
+  - Ĉu: Vai
+  - Esperanto-lernolibro: Esperanto-oahppogirji
+  - estas: lea
+  - sur: alde
+  - via: du
+  - tablo: tabealla
+  - '?'

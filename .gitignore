@@ -2,9 +2,7 @@
 /.claude
 /__pycache__
 /agordoj/auxtoroj-lingvoj.yml
-/eligo/kolekto/
-/eligo/md/
-/eligo/retejo/
+/eligo/
 /node_modules/
 /pad
 /playwright-report/

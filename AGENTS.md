@@ -23,7 +23,7 @@ La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperan
 - `fonto/py/`: Python-generatoroj. La ĉefa enirpunkto estas `fonto.py.generu`.
 - `fonto/html/` kaj `fonto/md/`: ŝablonoj por HTML kaj Markdown.
 - `fonto/css/`, `fonto/js/`, `fonto/bildoj/` kaj `fonto/sonoj/`: statikaj fontdosieroj kopiataj al la reteja eligo.
-- `eligo/retejo/`: generita HTML-retejo. Ne versikontrolu ĝin.
+- `eligo/`: generitaj eligoj. Ne versikontrolu ĝin.
 - `package.json` kaj `package-lock.json`: ŝlositaj npm-dependecoj por la publikaj `/vendor/...` frontend-bibliotekoj.
 - `iloj/`: prizorgaj helpiloj.
 
@@ -42,10 +42,10 @@ make install
 make check
 make check-yaml
 make check-pwa
-make html LINGVO=en
+make html l=en
 make html-all
-make md LINGVO=en
-make kolekto LINGVO=en
+make md l=en
+make kolekto l=en
 make serve
 make clean-retejo
 make clean-md
@@ -55,12 +55,12 @@ make clean
 
 `make check` instalas nenion. Ĝi estas la normala kontrolo por plej multaj ŝanĝoj: ĝi kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
 
-`make kolekto LINGVO=en` kolektas la tradukendajn Markdown- kaj YAML-dosierojn de unu lingvo al `eligo/kolekto/en.txt`.
+`make kolekto l=en` kolektas la tradukendajn Markdown- kaj YAML-dosierojn de unu lingvo al `eligo/kolekto/en.txt`. `l=<kodo>` estas mallonga formo de `LINGVO=<kodo>`.
 
 Kiam ŝanĝo rilatas nur al unu lingvo, preferu lingvolimitan kontrolon per
-`LINGVO=<kodo>` ĉe celoj, kiuj subtenas tion: `check-yaml`,
+`l=<kodo>` ĉe celoj, kiuj subtenas tion: `check-yaml`,
 `check-yaml-normalized`, `check-md-normalized` kaj `check-pwa`. Sen eksplicita
-`LINGVO`, tiuj kontroloj restas tut-enhavaj aŭ tut-eligaj.
+`l` aŭ `LINGVO`, tiuj kontroloj restas tut-enhavaj aŭ tut-eligaj.
 
 Rulu kromajn kontrolojn nur kiam la koncerna surfaco ŝanĝiĝis:
 
@@ -75,7 +75,7 @@ Frontend-vendoroj estas mastrumataj per npm kaj bezonas Node.js kun npm; la ping
 Generu HTML por lingvo, ekzemple la angla:
 
 ```sh
-make html LINGVO=en
+make html l=en
 ```
 
 Tio skribas al `eligo/retejo/en`.
@@ -117,7 +117,7 @@ make clean
 Generu Markdown:
 
 ```sh
-make md LINGVO=en
+make md l=en
 ```
 
 La Markdown-eligo estas skribata al stdout. Generado de PDF kaj EPUB bezonas Pandoc, kiel priskribite en `README.md`.

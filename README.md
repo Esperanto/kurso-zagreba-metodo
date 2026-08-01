@@ -35,13 +35,13 @@ Tio unue forigas `eligo/retejo`, poste generas `eligo/md/en.md` kaj `eligo/retej
 
 Por kolekti la tradukendan Markdown- kaj YAML-enhavon de unu lingvo en TXT-dosieron:
 
-    make kolekto LINGVO=en
+    make kolekto l=en
 
 Tio skribas al `eligo/kolekto/en.txt`.
 
 ### HTML
 
-    make html LINGVO=en
+    make html l=en
 
 Kreas HTML-dosierujon en `eligo/retejo/en`.
 
@@ -84,12 +84,12 @@ PR-oj al `master` rulas la saman kontrolon kaj HTML-kunmeton, sed ne disponigas 
 
 Vi bezonas [Pandoc](https://pandoc.org), minimume versionon 2.
 
-    make md LINGVO=en
+    make md l=en
 
 Eligas la tutan kurson en Markdown al `STDOUT`, tial per:
 
-    make md LINGVO=en | pandoc --latex-engine=xelatex -o en.pdf
-    make md LINGVO=en | pandoc -o en.epub
+    make md l=en | pandoc --latex-engine=xelatex -o en.pdf
+    make md l=en | pandoc -o en.epub
 
 oni povas krei kaj PDF kaj EPUB dosieron.
 

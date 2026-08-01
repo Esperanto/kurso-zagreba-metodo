@@ -1,6 +1,12 @@
 .PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md kolekto normalize-yaml normalize-md serve clean clean-retejo clean-md clean-kolekto
 
 LINGVO_ORIGIN := $(origin LINGVO)
+l_ORIGIN := $(origin l)
+ifeq ($(filter command line,$(LINGVO_ORIGIN)),)
+ifneq ($(filter command line,$(l_ORIGIN)),)
+LINGVO := $(l)
+endif
+endif
 LINGVO ?= en
 HOST ?= 127.0.0.1
 PORT ?= 8000
@@ -15,7 +21,7 @@ PYTHON ?= $(VENV)/bin/python
 YAML_SCHEMA_LINTER ?= $(VENV)/bin/check-jsonschema
 TRADUKENDA_SCHEMA_DIR ?= skemoj/tradukenda
 PIP_TOOLS ?= pip-tools==7.5.3
-REQUESTED_LINGVO := $(if $(filter command line,$(LINGVO_ORIGIN)),$(LINGVO),)
+REQUESTED_LINGVO := $(if $(filter command line,$(LINGVO_ORIGIN) $(l_ORIGIN)),$(LINGVO),)
 CHECK_FORMAT_LINGVO ?= $(REQUESTED_LINGVO)
 CHECK_FORMAT_PATH := $(if $(CHECK_FORMAT_LINGVO),enhavo/tradukenda/$(CHECK_FORMAT_LINGVO),enhavo)
 CHECK_YAML_LINGVO ?= $(REQUESTED_LINGVO)
@@ -38,15 +44,15 @@ help:
 		'  make lock            Rekreas requirements.txt el requirements.in' \
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
 		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
-		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj; kun LINGVO=de nur unu lingvon' \
-		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/; kun LINGVO=de nur unu lingvon' \
-		'  make check-md-normalized    Kontrolas Markdown-formaton sub enhavo/; kun LINGVO=de nur unu lingvon' \
+		'  make check-yaml      Kontrolas YAML-dosierojn per sekura legado kaj skemoj; kun l=de nur unu lingvon' \
+		'  make check-yaml-normalized  Kontrolas YAML-formaton sub enhavo/; kun l=de nur unu lingvon' \
+		'  make check-md-normalized    Kontrolas Markdown-formaton sub enhavo/; kun l=de nur unu lingvon' \
 		'  make check-ui        Kontrolas anglajn kaj beta-startpaĝajn UI-interagojn per Playwright' \
-		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston; kun LINGVO=de nur unu lingvon' \
-		'  make html LINGVO=en  Generas HTML por unu lingvo' \
+		'  make check-pwa       Kontrolas PWA-manifeston kaj kompletan offline-liston; kun l=de nur unu lingvon' \
+		'  make html l=en       Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por publikaj kaj testaj lingvoj' \
-		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
-		'  make kolekto LINGVO=en  Kolektas tradukendan enhavon al TXT' \
+		'  make md l=en         Generas Markdown por unu lingvo' \
+		'  make kolekto l=en    Kolektas tradukendan enhavon al TXT' \
 		'  make normalize-yaml  Normaligas YAML-dosierojn sub enhavo/' \
 		'  make normalize-md    Normaligas Markdown-dosierojn sub enhavo/' \
 		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000' \
@@ -177,7 +183,7 @@ md:
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo md
 
 kolekto:
-	@test -n "$(LINGVO)" || { printf '%s\n' 'Mankas LINGVO. Uzu `make kolekto LINGVO=en`.' >&2; exit 1; }
+	@test -n "$(LINGVO)" || { printf '%s\n' 'Mankas lingvo. Uzu `make kolekto l=en`.' >&2; exit 1; }
 	@case "$(LINGVO)" in *[!A-Za-z0-9_-]*) printf '%s\n' 'Nevalida lingvokodo por kolekto: $(LINGVO)' >&2; exit 1;; esac
 	@test -d "enhavo/tradukenda/$(LINGVO)" || { printf '%s\n' 'Nekonata lingvo por kolekto: $(LINGVO)' >&2; exit 1; }
 	@mkdir -p "$(KOLEKTO_DIR)"

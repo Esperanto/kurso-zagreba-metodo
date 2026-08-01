@@ -1,6 +1,6 @@
 - demando: Oaidnit go mii nubbi nuppi fas, beroškeahttá gos dahje goas?
   rektatraduko:
-  - Ĉu: Vai
+  - Ĉu: -go
   - ni: mii
   - revidos: oaidnit fas
   - nin: nubbi nuppi
@@ -25,7 +25,7 @@
   - '?'
 - demando: Dárbbašat go eanet go njealjádasjagi daid bargguide?
   rektatraduko:
-  - Ĉu: Vai
+  - Ĉu: -go
   - vi: don
   - bezonos: dárbbaša
   - pli: eanet
@@ -41,7 +41,7 @@
   - Kial: Manne
   - ju: dat
   - pli: eanet
-  - longe: guhkes
+  - longe: guhká
   - ni: mii
   - atendas: vuordit
   - ','
@@ -52,7 +52,7 @@
   - '?'
 - demando: Livččet go duhtavaš vaikko makkár olbmáin?
   rektatraduko:
-  - Ĉu: Vai
+  - Ĉu: -go
   - vi: don
   - estus: livččii
   - kontenta: duhtavaš

@@ -7,7 +7,7 @@
   - '?'
 - demando: Lea go du ustit Ana čállimin dál lanjas?
   rektatraduko:
-  - Ĉu: Vai
+  - Ĉu: -go
   - via: du
   - amikino: nissonguoibmi
   - Ana: Ana
@@ -19,7 +19,7 @@
   - '?'
 - demando: Bargágo du áhči ustit hoteallas?
   rektatraduko:
-  - Ĉu: Vai
+  - Ĉu: -go
   - la: dat
   - amiko: ustit
   - de: das
@@ -42,7 +42,7 @@
   - '?'
 - demando: Lea go esperanto oahppogirji du beavddi alde?
   rektatraduko:
-  - Ĉu: Vai
+  - Ĉu: -go
   - Esperanto-lernolibro: Esperanto-oahppogirji
   - estas: lea
   - sur: alde

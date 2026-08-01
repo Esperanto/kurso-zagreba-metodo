@@ -37,7 +37,7 @@ decid: mearridit
 demand: jearrat
 dev: fertet
 dezir: sávvat
-diabl: bahá
+diabl: beargalat
 dik:
 - assás
 - buoidi
@@ -84,7 +84,7 @@ fort: gievrras
 fot: govva
 frat: viellja
 fru: árrat
-fuŝ: roasmmohuvvat
+fuŝ: dahkat boastut
 glas: glássa
 gondol: gondola
 graf: greiva
@@ -118,13 +118,13 @@ kapabl: máhtti
 kapt: váldit
 kar: ráhkis
 kastel: šloahtta
-kav: luodda
+kav: roggi
 kelk: muhtimat
 kelner: bálvaleaddji
 klar: čielggas
 klub: klubba
 knab: bárdni
-koler: leat vihaheapmi
+koler: suhttat
 kolor: ivdni
 komenc: álggahit
 kompren: áddet
@@ -197,10 +197,13 @@ odor: hávga
 oft: dávjá
 okaz: dáhpáhuvvat
 okul: čalmmi
-onkl: áhkku
+onkl:
+- eanu
+- čeahci
+- eahki
 opini: jurddašit
 ord: diŋgot
-orel: gullu
+orel: beallji
 organiz: lágidit
 pac: ráfi
 pag: máksit
@@ -216,7 +219,7 @@ pens: jurddašit
 perd: massit
 person: olmmoš
 pet: bivdit
-pez: garra
+pez: lossat
 pied: julggi
 plac: báiki
 plan: plánet
@@ -224,7 +227,7 @@ plaĉ: leat miellagiddevaš
 plen: olles
 plor:
 - ganjaldit
-pluv: dulvi
+pluv: arvit
 polic: politiijat
 pord: uksa
 port: fievrridit
@@ -269,9 +272,7 @@ salt:
 salut: dearv
 sam: seamma
 san: dearvvašlaš
-sat:
-- leat dievva
-- duhtavaš
+sat: gallás
 saĝ: viissis
 sci: diehtit
 sek: kuivvat
@@ -315,10 +316,12 @@ teror: terror
 terur: hirbmat
 tim: ballat
 ton: jietna
-trankvil: roahkkadis
+trankvil:
+- jaskat
+- ráfálaš
 trink: juhkat
 trov: gávdnat
-turk: Tyrkia
+turk: durkalaš
 tut: olles
 tuŝ: guoskat
 universal: oppalaš

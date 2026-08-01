@@ -1,6 +1,6 @@
 - demando: Sáhtát go oahppat ráfálaččat dan botta go muhtin lávlu ilolaččat?
   rektatraduko:
-  - Ĉu: Vai
+  - Ĉu: -go
   - vi: don
   - povas: sáhttá
   - trankvile: ráfálaččat
@@ -32,7 +32,7 @@
   - '?'
 - demando: Veahkehii go muhtin du rahpat boares viesu uvssa?
   rektatraduko:
-  - Ĉu: Vai
+  - Ĉu: -go
   - iu: muhtin
   - helpis: veahkehii
   - al: dasa
@@ -55,5 +55,5 @@
   - aŭskulti: guldalit
   - min: mun
   - pli: eanet
-  - longe: guhkes
+  - longe: guhká
   - '?'

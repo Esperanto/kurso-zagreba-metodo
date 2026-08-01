@@ -55,7 +55,15 @@ Por antaŭrigardi jam generitan HTML-on loke:
 
 Tio servas `eligo/retejo` ĉe `http://127.0.0.1:8000`.
 
-Por forigi la generitan retejan eligon:
+Por forigi nur la generitan retejan eligon:
+
+    make clean-retejo
+
+Por forigi nur la generitan Markdown-eligon:
+
+    make clean-md
+
+Por forigi ambaŭ:
 
     make clean
 

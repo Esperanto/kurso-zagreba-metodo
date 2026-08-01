@@ -1,10 +1,11 @@
-.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md normalize-yaml normalize-md serve clean
+.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md normalize-yaml normalize-md serve clean clean-retejo clean-md
 
 LINGVO_ORIGIN := $(origin LINGVO)
 LINGVO ?= en
 HOST ?= 127.0.0.1
 PORT ?= 8000
 OUTPUT_DIR ?= eligo/retejo
+MD_DIR ?= eligo/md
 NODE_MODULES ?= node_modules
 NPM ?= npm
 VENV ?= venv
@@ -46,7 +47,9 @@ help:
 		'  make normalize-yaml  Normaligas YAML-dosierojn sub enhavo/' \
 		'  make normalize-md    Normaligas Markdown-dosierojn sub enhavo/' \
 		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000' \
-		'  make clean           Forigas generitan HTML-eligon'
+		'  make clean           Forigas generitajn retejan kaj Markdown-eligojn' \
+		'  make clean-retejo    Forigas generitan retejan eligon' \
+		'  make clean-md        Forigas generitan Markdown-eligon'
 
 venv:
 	@if [ ! -x "$(PYTHON)" ]; then \
@@ -76,7 +79,7 @@ check:
 		&& test -f "$(NODE_MODULES)/jquery/dist/jquery.min.js" \
 		&& test -f "$(NODE_MODULES)/typeahead.js/dist/typeahead.bundle.min.js" || { printf '%s\n' 'Mankas npm-dependecoj en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
 	@"$(PYTHON)" -c 'import yaml, jinja2, chevron, mistune, genanki'
-	@$(MAKE) --no-print-directory clean
+	@$(MAKE) --no-print-directory clean-retejo
 	@mkdir -p "$(dir $(MD_OUT))"
 	@$(MAKE) --no-print-directory md LINGVO="$(CHECK_LINGVO)" >"$(MD_OUT)"
 	@$(MAKE) --no-print-directory html LINGVO="$(CHECK_LINGVO)"
@@ -147,7 +150,7 @@ check-md-normalized:
 check-ui:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@test -f "$(NODE_MODULES)/.bin/playwright" || { printf '%s\n' 'Mankas Playwright en $(NODE_MODULES). Rulu `make install` unue.' >&2; exit 1; }
-	@$(MAKE) --no-print-directory clean
+	@$(MAKE) --no-print-directory clean-retejo
 	@for lingvo in $(CHECK_UI_LINGVOJ); do \
 		$(MAKE) --no-print-directory html LINGVO="$$lingvo"; \
 	done
@@ -180,7 +183,14 @@ normalize-md:
 serve:
 	@"$(PYTHON)" -m http.server "$(PORT)" --bind "$(HOST)" --directory "$(OUTPUT_DIR)"
 
-clean:
+clean: clean-retejo clean-md
+
+clean-retejo:
 	@test -n "$(OUTPUT_DIR)" && test "$(OUTPUT_DIR)" != "/" || { printf '%s\n' 'OUTPUT_DIR estas nesekura por forigo.' >&2; exit 1; }
 	@rm -rf "$(OUTPUT_DIR)"
 	@printf 'Forigis %s\n' "$(OUTPUT_DIR)"
+
+clean-md:
+	@test -n "$(MD_DIR)" && test "$(MD_DIR)" != "/" || { printf '%s\n' 'MD_DIR estas nesekura por forigo.' >&2; exit 1; }
+	@rm -rf "$(MD_DIR)"
+	@printf 'Forigis %s\n' "$(MD_DIR)"

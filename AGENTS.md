@@ -46,6 +46,8 @@ make html LINGVO=en
 make html-all
 make md LINGVO=en
 make serve
+make clean-retejo
+make clean-md
 make clean
 ```
 
@@ -84,7 +86,19 @@ make serve
 
 Tio nur servas la ekzistantan enhavon de `eligo/retejo`; ĝi ne regeneras dosierojn.
 
-Por forigi generitan retejan eligon, rulu:
+Por forigi nur generitan retejan eligon, rulu:
+
+```sh
+make clean-retejo
+```
+
+Por forigi nur generitan Markdown-eligon, rulu:
+
+```sh
+make clean-md
+```
+
+Por forigi ambaŭ, rulu:
 
 ```sh
 make clean

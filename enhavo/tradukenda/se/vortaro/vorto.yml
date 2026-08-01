@@ -1,7 +1,7 @@
 akcepteblan: dohkálaš
 alilandaj: olgoriikkalaš
 alporti: buktit badjel
-alportis: buktojuvvon
+alportis: buvttii
 alvenigas: johtá dáppe
 alvenis: bođii dáppe
 alvenos: boahtá deike
@@ -13,10 +13,12 @@ amikinon:
 - nieiddaš
 amletero: ráhkisvuođareive
 antaŭeniris: manai ovddosguvlui
-arbaro: boazu
+arbaro:
+- meahcci
+- vuovdi
 arbetoj: buššat
 arboplena: dievva muorat
-aĉetumos: vuolggán gávppašit
+aĉetumos: gávppaša
 aĉodora: heajos njuoskkas
 aŭdiĝis: gullojuvvui
 bedaŭrinde: dađibahábut
@@ -31,7 +33,9 @@ dankon: giitu
 daŭrigis: joatkašuvvá
 denove: fas
 devojiĝis: manai eret
-dikiĝi: šaddat čáhppesin
+dikiĝi:
+- buoiddálduvvat
+- šaddat assásin
 doloriga: váivves
 dolorige: váivves
 domegon: villa
@@ -42,7 +46,9 @@ ekmire: imašlaččat
 ekparolis: álggii hállat
 ekridis: álggii mojohallat
 ekrigardis: álggii ohcat
-eksaltis: álggii čuoigat
+eksaltis:
+- njuovžžiledjoi
+- njuorjjui
 ekscii: gávnnahit
 eksidis: čohkkái
 ekstervoje: vuolgimin
@@ -82,7 +88,7 @@ havigi: oažžut
 havindan: lea árvu oažžut
 homformo: olbmo hápmi
 hommulton: olmmošjoavku
-ideoriĉan: imašlaš
+ideoriĉan: jurdagisriggá
 industriisto: industriijabargi
 instruistino: nissonoahpaheaddji
 instruiston: oahpaheaddji
@@ -115,7 +121,7 @@ lernanto:
 lernejo: skuvla
 lernejon: skuvla
 lernolibroj: skuvlagirjjit
-leteroj: bustávat
+leteroj: reivvet
 libertempo:
 - friddjaáigi
 - friddjaáigi
@@ -156,8 +162,8 @@ malplaĉa: eahpemielalaš
 malplaĉan: eahpemielalaš
 malproksime: guhkkin eret
 malsaniĝis: buohccán
-malsaĝa: viissis
-malsekajn: čáhci
+malsaĝa: jalla
+malsekajn: njuoskas
 malsukcesa: ii lihkostuvvan
 maltrankvila: fuolas
 malvarman: galbma
@@ -214,14 +220,16 @@ riĉeco:
 - riggodat
 - riggodat
 riĉulo: rikkis olmmoš
-salton: hoahppu
+salton:
+- njuovžžaleapmi
+- njuorjju
 saluton: dearv
 samklubanoj: searvvi miellahtut
 sekretajn: čiegus
 sekreton: čiegus
 senbrue: hilgut
 seninterese: berošmeahttun
-senkolora: sárgosat
+senkolora: ivdnetun
 sensukcese: lihkostuvvama haga
 sentimulo: baluhis olmmoš
 senvorte: sániid haga
@@ -244,9 +252,13 @@ tridekjara: 30-jahkásaš
 troviĝis: lei
 unuaj: vuosttaš
 urbomezo: gávpotguovddáš
-vagonaro: johtolat
-vendejo: gávppašit
-vendejon: gávppašit
+vagonaro: toga
+vendejo:
+- gávpi
+- buvdda
+vendejon:
+- gávpi
+- buvdda
 vendisto: vuovdi
 vestaĵo: bivttas
 vestaĵoj: biktasat

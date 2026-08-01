@@ -1,4 +1,4 @@
-.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md kolekto normalize-yaml normalize-md serve clean clean-retejo clean-md clean-kolekto
+.PHONY: help venv install install-ui submoduloj pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md kolekto eltiru-revon normalize-yaml normalize-md serve clean clean-retejo clean-md clean-kolekto
 
 LINGVO_ORIGIN := $(origin LINGVO)
 l_ORIGIN := $(origin l)
@@ -13,6 +13,10 @@ PORT ?= 8000
 OUTPUT_DIR ?= eligo/retejo
 MD_DIR ?= eligo/md
 KOLEKTO_DIR ?= eligo/kolekto
+SUBMODULE_DIR ?= eligo/submoduloj
+REVO_FONTO_DIR ?= $(SUBMODULE_DIR)/revo-fonto
+VOKO_GRUNDO_DIR ?= $(SUBMODULE_DIR)/voko-grundo
+REVO_ELIGO_DIR ?= eligo/revo
 NODE_MODULES ?= node_modules
 NPM ?= npm
 VENV ?= venv
@@ -41,6 +45,7 @@ help:
 		'  make venv            Kreas venv-on, defaŭlte VENV=venv' \
 		'  make install         Kreas venv-on kaj instalas Python- kaj npm-dependecojn' \
 		'  make install-ui      Instalas Chromium por Playwright-testoj' \
+		'  make submoduloj      Elprenas eksterajn fontdeponejojn' \
 		'  make lock            Rekreas requirements.txt el requirements.in' \
 		'  make lock-upgrade    Ĝisdatigas ĉiujn ŝlositajn Python-dependecojn' \
 		'  make check           Kontrolas anglan Markdown-, HTML- kaj Anki-eligon' \
@@ -53,6 +58,7 @@ help:
 		'  make html-all        Generas HTML por publikaj kaj testaj lingvoj' \
 		'  make md l=en         Generas Markdown por unu lingvo' \
 		'  make kolekto l=en    Kolektas tradukendan enhavon al TXT' \
+		'  make eltiru-revon    Eltrahas Revo-tradukojn al YAML; kun l=de nur unu lingvon' \
 		'  make normalize-yaml  Normaligas YAML-dosierojn sub enhavo/' \
 		'  make normalize-md    Normaligas Markdown-dosierojn sub enhavo/' \
 		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000' \
@@ -66,12 +72,15 @@ venv:
 		"$(SYSTEM_PYTHON)" -m venv "$(VENV)"; \
 	fi
 
-install: venv
+install: venv submoduloj
 	@"$(PYTHON)" -m pip install -r requirements.txt
 	@"$(NPM)" ci --ignore-scripts
 
 install-ui:
 	@"$(NPM)" exec -- playwright install chromium
+
+submoduloj:
+	@git submodule update --init --checkout --recursive "$(REVO_FONTO_DIR)" "$(VOKO_GRUNDO_DIR)"
 
 pip-tools: venv
 	@"$(PYTHON)" -m pip install "$(PIP_TOOLS)"
@@ -195,6 +204,9 @@ kolekto:
 		done \
 	' _ {} + >"$(KOLEKTO_OUT)"
 	@printf 'Skribis %s\n' "$(KOLEKTO_OUT)"
+
+eltiru-revon: submoduloj
+	@"$(PYTHON)" fonto/py/eltiru-revon.py $(if $(REQUESTED_LINGVO),--lingvo "$(REQUESTED_LINGVO)",) --revo-fonto "$(REVO_FONTO_DIR)" --voko-grundo "$(VOKO_GRUNDO_DIR)" --eligo-dir "$(REVO_ELIGO_DIR)"
 
 normalize-yaml:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }

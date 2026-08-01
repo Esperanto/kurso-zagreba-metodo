@@ -24,6 +24,7 @@ La projekta lingvo kaj la dokumentaro videbla al uzantoj estas plejparte Esperan
 - `fonto/html/` kaj `fonto/md/`: ŝablonoj por HTML kaj Markdown.
 - `fonto/css/`, `fonto/js/`, `fonto/bildoj/` kaj `fonto/sonoj/`: statikaj fontdosieroj kopiataj al la reteja eligo.
 - `eligo/`: generitaj eligoj. Ne versikontrolu ĝin.
+- `eligo/submoduloj/`: lokaj elprenoj de Git-submoduloj uzataj por generi helpajn eligojn.
 - `package.json` kaj `package-lock.json`: ŝlositaj npm-dependecoj por la publikaj `/vendor/...` frontend-bibliotekoj.
 - `iloj/`: prizorgaj helpiloj.
 
@@ -39,6 +40,7 @@ La kanonika taska tavolo por agentoj estas `make`, simile al `npm run ...` en Ja
 
 ```sh
 make install
+make submoduloj
 make check
 make check-yaml
 make check-pwa
@@ -46,6 +48,7 @@ make html l=en
 make html-all
 make md l=en
 make kolekto l=en
+make eltiru-revon
 make serve
 make clean-retejo
 make clean-md
@@ -56,6 +59,8 @@ make clean
 `make check` instalas nenion. Ĝi estas la normala kontrolo por plej multaj ŝanĝoj: ĝi kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
 
 `make kolekto l=en` kolektas la tradukendajn Markdown- kaj YAML-dosierojn de unu lingvo al `eligo/kolekto/en.txt`. `l=<kodo>` estas mallonga formo de `LINGVO=<kodo>`.
+
+`make eltiru-revon` eltrahas Revo-tradukojn el la submoduloj `revo-fonto` kaj `voko-grundo` al `eligo/revo/`. Sen eksplicita `l` aŭ `LINGVO`, ĝi prilaboras ĉiujn lingvojn; kun `l=de`, nur unu.
 
 Kiam ŝanĝo rilatas nur al unu lingvo, preferu lingvolimitan kontrolon per
 `l=<kodo>` ĉe celoj, kiuj subtenas tion: `check-yaml`,

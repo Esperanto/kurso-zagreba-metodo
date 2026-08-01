@@ -27,6 +27,10 @@ La rektaj Python-dependecoj estas listigitaj en `requirements.in`. `requirements
 La frontend-bibliotekoj, kiuj aperas publike sub `/vendor/...`, estas ŝlositaj en `package.json` kaj `package-lock.json`. Ili estas instalataj per `npm ci --ignore-scripts` dum `make install` kaj kopiataj al `eligo/retejo/vendor` dum HTML-generado.
 Por tio necesas Node.js kun npm; la pinglita Node-versio troviĝas en `.nvmrc` kaj la GitHub Actions-laborfluo uzas tiun saman version.
 
+`make install` ankaŭ elprenas eksterajn fontdeponejojn kiel Git-submodulojn sub `eligo/submoduloj/`. Por refari nur tion:
+
+    make submoduloj
+
 Por kontroli la anglan Markdown-, HTML- kaj Anki-eligon:
 
     make check
@@ -38,6 +42,12 @@ Por kolekti la tradukendan Markdown- kaj YAML-enhavon de unu lingvo en TXT-dosie
     make kolekto l=en
 
 Tio skribas al `eligo/kolekto/en.txt`.
+
+Por eltrahi tradukojn el Revo al YAML-dosieroj:
+
+    make eltiru-revon
+
+Tio skribas al `eligo/revo/`. Kun `l=de`, ĝi eltrahas nur unu lingvon.
 
 ### HTML
 

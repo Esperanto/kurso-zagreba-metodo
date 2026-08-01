@@ -1,0 +1,6 @@
+[submodule "eligo/submoduloj/revo-fonto"]
+	path = eligo/submoduloj/revo-fonto
+	url = https://github.com/revuloj/revo-fonto.git
+[submodule "eligo/submoduloj/voko-grundo"]
+	path = eligo/submoduloj/voko-grundo
+	url = https://github.com/revuloj/voko-grundo.git

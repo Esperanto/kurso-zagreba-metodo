@@ -33,6 +33,12 @@ Por kontroli la anglan Markdown-, HTML- kaj Anki-eligon:
 
 Tio unue forigas `eligo/retejo`, poste generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj fine kontrolas kernajn dosierojn kaj la APKG-eksporton.
 
+Por kolekti la tradukendan Markdown- kaj YAML-enhavon de unu lingvo en TXT-dosieron:
+
+    make kolekto LINGVO=en
+
+Tio skribas al `eligo/kolekto/en.txt`.
+
 ### HTML
 
     make html LINGVO=en
@@ -63,7 +69,11 @@ Por forigi nur la generitan Markdown-eligon:
 
     make clean-md
 
-Por forigi ambaŭ:
+Por forigi nur la generitan kolektan eligon:
+
+    make clean-kolekto
+
+Por forigi ĉiujn tri:
 
     make clean
 

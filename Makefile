@@ -1,4 +1,4 @@
-.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md normalize-yaml normalize-md serve clean clean-retejo clean-md
+.PHONY: help venv install install-ui pip-tools lock lock-upgrade bundle check check-yaml check-yaml-normalized check-md-normalized check-ui check-pwa html html-all md kolekto normalize-yaml normalize-md serve clean clean-retejo clean-md clean-kolekto
 
 LINGVO_ORIGIN := $(origin LINGVO)
 LINGVO ?= en
@@ -6,6 +6,7 @@ HOST ?= 127.0.0.1
 PORT ?= 8000
 OUTPUT_DIR ?= eligo/retejo
 MD_DIR ?= eligo/md
+KOLEKTO_DIR ?= eligo/kolekto
 NODE_MODULES ?= node_modules
 NPM ?= npm
 VENV ?= venv
@@ -26,6 +27,7 @@ CHECK_PWA_ARGS := $(if $(CHECK_PWA_LINGVO),--lingvo $(CHECK_PWA_LINGVO),)
 CHECK_LINGVO := en
 CHECK_UI_LINGVOJ ?= $(CHECK_LINGVO) km my no tl zu
 MD_OUT ?= eligo/md/$(CHECK_LINGVO).md
+KOLEKTO_OUT ?= $(KOLEKTO_DIR)/$(LINGVO).txt
 
 help:
 	@printf '%s\n' \
@@ -44,12 +46,14 @@ help:
 		'  make html LINGVO=en  Generas HTML por unu lingvo' \
 		'  make html-all        Generas HTML por publikaj kaj testaj lingvoj' \
 		'  make md LINGVO=en    Generas Markdown por unu lingvo' \
+		'  make kolekto LINGVO=en  Kolektas tradukendan enhavon al TXT' \
 		'  make normalize-yaml  Normaligas YAML-dosierojn sub enhavo/' \
 		'  make normalize-md    Normaligas Markdown-dosierojn sub enhavo/' \
 		'  make serve           Servas HTML loke ĉe http://127.0.0.1:8000' \
-		'  make clean           Forigas generitajn retejan kaj Markdown-eligojn' \
+		'  make clean           Forigas generitajn retejan, Markdown- kaj kolektajn eligojn' \
 		'  make clean-retejo    Forigas generitan retejan eligon' \
-		'  make clean-md        Forigas generitan Markdown-eligon'
+		'  make clean-md        Forigas generitan Markdown-eligon' \
+		'  make clean-kolekto   Forigas generitan kolektan eligon'
 
 venv:
 	@if [ ! -x "$(PYTHON)" ]; then \
@@ -172,6 +176,20 @@ html-all: bundle
 md:
 	@"$(PYTHON)" -m fonto.py.generu --lingvo "$(LINGVO)" --eligformo md
 
+kolekto:
+	@test -n "$(LINGVO)" || { printf '%s\n' 'Mankas LINGVO. Uzu `make kolekto LINGVO=en`.' >&2; exit 1; }
+	@case "$(LINGVO)" in *[!A-Za-z0-9_-]*) printf '%s\n' 'Nevalida lingvokodo por kolekto: $(LINGVO)' >&2; exit 1;; esac
+	@test -d "enhavo/tradukenda/$(LINGVO)" || { printf '%s\n' 'Nekonata lingvo por kolekto: $(LINGVO)' >&2; exit 1; }
+	@mkdir -p "$(KOLEKTO_DIR)"
+	@find "enhavo/tradukenda/$(LINGVO)" -type f \( -name "*.md" -o -name "*.yml" \) -exec sh -c ' \
+		for dosiero; do \
+			printf "=== Dosiero: %s ===\n" "$$dosiero"; \
+			cat "$$dosiero"; \
+			printf "\n"; \
+		done \
+	' _ {} + >"$(KOLEKTO_OUT)"
+	@printf 'Skribis %s\n' "$(KOLEKTO_OUT)"
+
 normalize-yaml:
 	@test -x "$(PYTHON)" || { printf '%s\n' 'Mankas $(PYTHON). Rulu `make install` unue aŭ agordu VENV=/path/to/venv.' >&2; exit 1; }
 	@"$(PYTHON)" -m fonto.py.normaligu_yaml enhavo
@@ -183,7 +201,7 @@ normalize-md:
 serve:
 	@"$(PYTHON)" -m http.server "$(PORT)" --bind "$(HOST)" --directory "$(OUTPUT_DIR)"
 
-clean: clean-retejo clean-md
+clean: clean-retejo clean-md clean-kolekto
 
 clean-retejo:
 	@test -n "$(OUTPUT_DIR)" && test "$(OUTPUT_DIR)" != "/" || { printf '%s\n' 'OUTPUT_DIR estas nesekura por forigo.' >&2; exit 1; }
@@ -194,3 +212,8 @@ clean-md:
 	@test -n "$(MD_DIR)" && test "$(MD_DIR)" != "/" || { printf '%s\n' 'MD_DIR estas nesekura por forigo.' >&2; exit 1; }
 	@rm -rf "$(MD_DIR)"
 	@printf 'Forigis %s\n' "$(MD_DIR)"
+
+clean-kolekto:
+	@test -n "$(KOLEKTO_DIR)" && test "$(KOLEKTO_DIR)" != "/" || { printf '%s\n' 'KOLEKTO_DIR estas nesekura por forigo.' >&2; exit 1; }
+	@rm -rf "$(KOLEKTO_DIR)"
+	@printf 'Forigis %s\n' "$(KOLEKTO_DIR)"

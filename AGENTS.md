@@ -45,13 +45,17 @@ make check-pwa
 make html LINGVO=en
 make html-all
 make md LINGVO=en
+make kolekto LINGVO=en
 make serve
 make clean-retejo
 make clean-md
+make clean-kolekto
 make clean
 ```
 
 `make check` instalas nenion. Ĝi estas la normala kontrolo por plej multaj ŝanĝoj: ĝi kontrolas la anglan eligon, unue forigas `eligo/retejo`, generas `eligo/md/en.md` kaj `eligo/retejo/en`, kaj kontrolas kernajn HTML-dosierojn, vendor-versiomarkilojn kaj la Anki-APKG-on. Se `venv/bin/python`, Python-dependecoj aŭ `node_modules` mankas, rulu `make install`. La virtuala medio estas `venv` defaŭlte; oni povas uzi alian per `VENV=.venv make install`.
+
+`make kolekto LINGVO=en` kolektas la tradukendajn Markdown- kaj YAML-dosierojn de unu lingvo al `eligo/kolekto/en.txt`.
 
 Kiam ŝanĝo rilatas nur al unu lingvo, preferu lingvolimitan kontrolon per
 `LINGVO=<kodo>` ĉe celoj, kiuj subtenas tion: `check-yaml`,
@@ -98,7 +102,13 @@ Por forigi nur generitan Markdown-eligon, rulu:
 make clean-md
 ```
 
-Por forigi ambaŭ, rulu:
+Por forigi nur generitan kolektan eligon, rulu:
+
+```sh
+make clean-kolekto
+```
+
+Por forigi ĉiujn tri, rulu:
 
 ```sh
 make clean

@@ -647,7 +647,7 @@ uz:
   nomo:
     fontlingve: Oʻzbekcha
     esperante: uzbeka
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai

@@ -138,7 +138,7 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
     'href',
     'https://eventaservo.org/',
   );
-  await expect(page.getByRole('link', { name: 'Start' })).toHaveAttribute('href', '/en/01');
+  await expect(page.getByRole('link', { name: 'Start' })).toHaveAttribute('href', '/en/01/');
   const installButton = page.locator('[data-pwa-install]');
   await expect(installButton).toHaveText('Install app');
   await expect(installButton).toHaveClass(/btn-outline-primary/);
@@ -154,7 +154,7 @@ test('angla lingva startpaĝo montras kursan enkondukon', async ({ page }) => {
   const speakerLink = page.getByRole('link', { name: 'Find Esperanto speakers' });
   await expect(speakerLink).toHaveAttribute(
     'href',
-    '/en/post',
+    '/en/post/',
   );
   await expect(page.locator('.lingva-startpagxo-parolantoj')).toHaveClass(/text-center/);
 });

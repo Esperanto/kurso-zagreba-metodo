@@ -464,11 +464,11 @@ ro:
   nomo:
     fontlingve: Română
     esperante: rumana
-  stato: testa
+  stato: beta
   komentejo: 0
   aŭtoroj:
-    - nomo: Yves Nevelsteen
-      github: yvesnevelsteen
+    - nomo: OpenAI
+      github: openai
 rm:
   nomo:
     fontlingve: Rumantsch Grischun

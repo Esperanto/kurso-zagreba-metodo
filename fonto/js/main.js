@@ -19,18 +19,81 @@ $(document).ready(function(){
   });
   $('.container table').addClass('table');
 
+  function estasMemstaraPwa() {
+    return navigator.standalone === true
+      || (
+        window.matchMedia
+        && window.matchMedia('(display-mode: standalone)').matches
+      )
+      || document.documentElement.classList.contains('pwa-standalone');
+  }
+
+  function lokaDato(date) {
+    var monato = String(date.getMonth() + 1).padStart(2, '0');
+    var tago = String(date.getDate()).padStart(2, '0');
+    return date.getFullYear() + '-' + monato + '-' + tago;
+  }
+
+  function kunGoatcounterCount(kalkulu) {
+    var goatcounterPretas = window.goatcounter && typeof window.goatcounter.count === 'function';
+    if (goatcounterPretas) {
+      kalkulu(window.goatcounter.count.bind(window.goatcounter));
+      return;
+    }
+
+    var provoj = 0;
+    var timer = window.setInterval(function() {
+      provoj += 1;
+      if (window.goatcounter && typeof window.goatcounter.count === 'function') {
+        window.clearInterval(timer);
+        kalkulu(window.goatcounter.count.bind(window.goatcounter));
+        return;
+      }
+
+      if (provoj >= 100) {
+        window.clearInterval(timer);
+      }
+    }, 100);
+  }
+
+  function kalkuluPwaAktivon() {
+    if (!estasMemstaraPwa()) {
+      return;
+    }
+
+    var lingvo = document.documentElement.lang || 'unknown';
+    var hodiaux = lokaDato(new Date());
+    var sxlosilo = 'esperanto12-pwa-active-counted:' + lingvo;
+
+    try {
+      if (window.localStorage.getItem(sxlosilo) === hodiaux) {
+        return;
+      }
+    } catch (e) {
+      return;
+    }
+
+    kunGoatcounterCount(function(count) {
+      try {
+        window.localStorage.setItem(sxlosilo, hodiaux);
+      } catch (e) {
+        return;
+      }
+
+      count({
+        path: 'pwa-active-' + lingvo,
+        title: 'PWA active ' + lingvo,
+        event: true,
+        no_session: true,
+      });
+    });
+  }
+
+  kalkuluPwaAktivon();
+
   var pwaInstallButton = document.querySelector('[data-pwa-install]');
   var pwaInstallHelp = document.querySelector('[data-pwa-install-help]');
   if (pwaInstallButton) {
-    function estasMemstaraPwa() {
-      return navigator.standalone === true
-        || (
-          window.matchMedia
-          && window.matchMedia('(display-mode: standalone)').matches
-        )
-        || document.documentElement.classList.contains('pwa-standalone');
-    }
-
     function subtenasBeforeInstallPrompt() {
       return 'onbeforeinstallprompt' in window;
     }

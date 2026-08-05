@@ -10,7 +10,7 @@ test('aldona kaj lingva menuoj restas cxiam atingeblaj', async ({ page }) => {
   await expect(lessonMenu).toBeVisible();
   await expect(lessonMenu.getByRole('link', { name: 'Appendix' })).toHaveAttribute(
     'href',
-    '/en/tabelvortoj',
+    '/en/tabelvortoj/',
   );
 
   await page.getByRole('button', { name: /1\./ }).click();
@@ -45,8 +45,8 @@ test('leciona titolo malfermas lecionliston', async ({ page }) => {
   await lessonButton.click();
 
   const lessonMenu = page.locator('.leciona-menuo-listo.show');
-  await expect(lessonMenu.getByRole('link', { name: /^1\.\s*Amiko Marko/ })).toHaveAttribute('href', '/en/01');
-  await expect(lessonMenu.getByRole('link', { name: /^12\./ })).toHaveAttribute('href', '/en/12');
+  await expect(lessonMenu.getByRole('link', { name: /^1\.\s*Amiko Marko/ })).toHaveAttribute('href', '/en/01/');
+  await expect(lessonMenu.getByRole('link', { name: /^12\./ })).toHaveAttribute('href', '/en/12/');
 });
 
 test('lecionmenuo konservas la aktivan langeton', async ({ page }) => {

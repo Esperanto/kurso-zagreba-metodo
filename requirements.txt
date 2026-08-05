@@ -12,11 +12,11 @@ black==25.11.0
     # via -r requirements.in
 build==1.4.4
     # via pip-tools
-cached-property==1.5.2
+cached-property==2.0.1
     # via genanki
-certifi==2026.6.17
+certifi==2026.7.22
     # via requests
-charset-normalizer==3.4.7
+charset-normalizer==3.4.9
     # via requests
 check-jsonschema==0.36.2
     # via -r requirements.in
@@ -31,9 +31,9 @@ click==8.1.8
     #   pip-tools
 flake8==7.3.0
     # via -r requirements.in
-frozendict==2.3.8
+frozendict==2.4.7
     # via genanki
-genanki==0.13.0
+genanki==0.13.1
     # via -r requirements.in
 idna==3.18
     # via requests
@@ -51,7 +51,7 @@ lxml==6.1.1
     # via -r requirements.in
 markdown-it-py==3.0.0
     # via mdformat
-markupsafe==2.0.1
+markupsafe==3.0.3
     # via
     #   -r requirements.in
     #   jinja2
@@ -61,11 +61,11 @@ mdformat==0.7.22
     # via -r requirements.in
 mdurl==0.1.2
     # via markdown-it-py
-mistune==3.2.1
+mistune==3.3.4
     # via -r requirements.in
 mypy-extensions==1.1.0
     # via black
-packaging==26.2
+packaging==26.3
     # via
     #   black
     #   build
@@ -111,7 +111,7 @@ tomli==2.4.1
     #   check-jsonschema
     #   mdformat
     #   pip-tools
-typing-extensions==4.15.0
+typing-extensions==4.16.0
     # via
     #   black
     #   mistune

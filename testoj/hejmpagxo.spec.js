@@ -63,6 +63,23 @@ async function emulateStandalonePwa(page) {
   });
 }
 
+async function stubGoatCounter(page, calls) {
+  await page.route('https://gc.zgo.at/count.js', (route) => route.fulfill({
+    contentType: 'application/javascript',
+    body: '',
+  }));
+  await page.exposeFunction('recordGoatcounterCount', (vars) => {
+    calls.push(vars);
+  });
+  await page.addInitScript(() => {
+    window.goatcounter = {
+      count(vars) {
+        window.recordGoatcounterCount(vars);
+      },
+    };
+  });
+}
+
 test('hejmpaĝo plusendas al la retumila lingvo', async ({ browser }) => {
   const context = await browser.newContext({ locale: 'de-DE' });
   await context.addInitScript(() => {
@@ -242,6 +259,44 @@ test('startpaĝa instalbutono helpas sen beforeinstallprompt', async ({ page }) 
   await expect(installHelp).toHaveText(
     'Open the browser menu and choose "Install" or "Add to Home screen".',
   );
+});
+
+test('PWA-aktivo registrigxas unufoje tage po lingvo per GoatCounter', async ({ page }) => {
+  const goatcounterCalls = [];
+  await stubGoatCounter(page, goatcounterCalls);
+  await emulateStandalonePwa(page);
+
+  await page.goto('/en/');
+  await expect.poll(() => goatcounterCalls.length).toBe(1);
+  expect(goatcounterCalls[0]).toMatchObject({
+    path: 'pwa-active-en',
+    title: 'PWA active en',
+    event: true,
+    no_session: true,
+  });
+
+  await page.goto('/en/01/');
+  await page.waitForTimeout(200);
+  expect(goatcounterCalls).toHaveLength(1);
+
+  await page.goto('/no/');
+  await expect.poll(() => goatcounterCalls.length).toBe(2);
+  expect(goatcounterCalls[1]).toMatchObject({
+    path: 'pwa-active-no',
+    title: 'PWA active no',
+    event: true,
+    no_session: true,
+  });
+});
+
+test('ordinara retumila paĝo ne registras PWA-aktivon', async ({ page }) => {
+  const goatcounterCalls = [];
+  await stubGoatCounter(page, goatcounterCalls);
+
+  await page.goto('/en/');
+  await page.waitForTimeout(200);
+
+  expect(goatcounterCalls).toHaveLength(0);
 });
 
 test('PWA-logoligilo iras al startpaĝo anstataŭ rekomenci konservitan paĝon', async ({ page }) => {

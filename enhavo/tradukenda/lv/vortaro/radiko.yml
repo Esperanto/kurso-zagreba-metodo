@@ -68,6 +68,7 @@ famili: ģimene
 far: darīt
 fart:
 - justies
+- klāties
 feliĉ: laimīgs
 ferm: aizvērt
 fin: beigt
@@ -262,7 +263,9 @@ salt: lēkt
 salut: sveicināt
 sam: tāds pats
 san: vesels
-sat: būt paēdušam
+sat:
+- paēdis
+- sāts
 saĝ: gudrs
 sci: zināt
 sek: sauss
@@ -316,7 +319,9 @@ tuŝ: pieskarties
 universal: universāls
 urb: pilsēta
 util: noderīgs
-uz: lietot
+uz:
+- lietot
+- izmantot
 vagon: vagons
 varm: silts
 ven: nākt

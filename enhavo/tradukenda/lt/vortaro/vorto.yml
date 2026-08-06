@@ -2,7 +2,9 @@ akcepteblan: priimtiną
 alilandaj: užsienio
 alporti: atnešti
 alportis: atnešė
-alvenigas: atveda čia
+alvenigas:
+- atgabena
+- atveda
 alvenis: atvyko
 alvenos: atvyks
 amikino:
@@ -40,14 +42,16 @@ domegon: didžiulį namą
 dumnokte: naktį
 dumtage: dieną
 ekkriis: ėmė šaukti
-ekmire: nustebęs
+ekmire: nustebus
 ekparolis: pradėjo kalbėti
 ekridis: pradėjo juoktis
 ekrigardis: pradėjo žiūrėti
 eksaltis: pašoko
 ekscii: sužinoti
 eksidis: atsisėdo
-ekstervoje: pakeliui lauk
+ekstervoje:
+- ne kelyje
+- bekelėje
 ekveturas: pradeda važiuoti
 ekvidis: pamatė
 elstaraj: išskirtiniai
@@ -191,7 +195,9 @@ opinion: nuomonę
 ordigi: sutvarkyti
 paperoj: popieriai
 paperojn: popierius
-paperujon: popierinę
+paperujon:
+- makulatūros krepšį
+- popieriaus dėklą
 pasigos: praleis
 patrino: motina
 perdigis: privertė prarasti

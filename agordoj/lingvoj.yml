@@ -151,7 +151,7 @@ et:
   nomo:
     fontlingve: Eesti
     esperante: estona
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai

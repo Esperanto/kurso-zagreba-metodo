@@ -103,8 +103,24 @@
               🌐
             </button>
             <ul class="dropdown-menu dropdown-menu-end navbar-lingvoj">
+              {% set cxefaj_lingvokodoj = ['en', 'ru', 'fr', 'es', 'de', 'pt'] %}
               {% set lingvoelektilo_kodoj = lingvoelektilo_lingvoj if lingvoelektilo_lingvoj is defined else enhavo.lingvoj|sort %}
-              {% for kodo in lingvoelektilo_kodoj if enhavo.lingvoj[kodo].stato in enhavo.publikaj_lingvo_statoj %}
+              {% for kodo in cxefaj_lingvokodoj if kodo in lingvoelektilo_kodoj and enhavo.lingvoj[kodo].stato in enhavo.publikaj_lingvo_statoj %}
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href="{{lingvoelektilo_vojprefikso|default('/')}}{{kodo}}/{{identigilo|default('')}}"
+                    lang="{{kodo}}"
+                    {% if kodo == enhavo.lingvo %}
+                      aria-current="true"
+                    {% endif %}
+                  >{{enhavo.lingvoj[kodo].nomo.fontlingve}} ({{kodo}})</a>
+                </li>
+              {% endfor %}
+              {% for kodo in lingvoelektilo_kodoj if kodo not in cxefaj_lingvokodoj and enhavo.lingvoj[kodo].stato in enhavo.publikaj_lingvo_statoj %}
+                {% if loop.first and lingvoelektilo_lingvoj is not defined %}
+                  <li><hr class="dropdown-divider"></li>
+                {% endif %}
                 <li>
                   <a
                     class="dropdown-item"

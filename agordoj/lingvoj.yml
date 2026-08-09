@@ -208,7 +208,7 @@ ha:
   nomo:
     fontlingve: Hausa
     esperante: haŭsa
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai

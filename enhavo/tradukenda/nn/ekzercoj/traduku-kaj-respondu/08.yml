@@ -26,12 +26,12 @@
   - volas: vil
   - nenion: ingenting
   - '?'
-- demando: Kvifor bestemte du deg så plutselig for å pusse opp det lille rommet ditt?
+- demando: Kvifor bestemte du deg så brått for å renovere det vesle rommet ditt?
   rektatraduko:
   - Kial: Kvifor
   - vi: du
   - tiel: så
-  - subite: plutselig
+  - subite: brått
   - decidis: bestemte seg for
   - renovigi: å renovere
   - vian: din/ditt
@@ -61,7 +61,7 @@
   - du: to
   - semajnoj: uker
   - '?'
-- demando: Ser du ofte politibetjenten som bor i leiligheten over deg?
+- demando: Ser du ofte politibetjenten som bur i leilegheita over deg?
   rektatraduko:
   - Ĉu: Om
   - vi: du
@@ -71,10 +71,10 @@
   - policiston: politibetjent
   - ','
   - kiu: som
-  - loĝas: bor
+  - loĝas: bur
   - en: i
   - la: (bestemt artikkel)
-  - loĝejo: leilighet
+  - loĝejo: leilegheit
   - super: over
   - vi: deg
   - '?'

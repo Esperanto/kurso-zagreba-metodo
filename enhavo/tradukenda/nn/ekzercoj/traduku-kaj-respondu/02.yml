@@ -14,11 +14,11 @@
   - legis: leste
   - kaj: og
   - ĉu: om
-  - ili: de
+  - ili: dei
   - estas: er
   - bonaj: gode
   - '?'
-- demando: Kva gjorde Ana og Marko i det lille rommet hos Marko?
+- demando: Kva gjorde Ana og Marko i det vesle rommet hos Marko?
   rektatraduko:
   - Kion: Kva
   - faris: gjorde
@@ -27,16 +27,16 @@
   - Marko: Marko
   - en: i
   - la: (bestemt artikkel)
-  - malgranda: lille
+  - malgranda: vesle
   - ĉambro: rom
   - de: av
   - Marko: Marko
   - '?'
-- demando: Liker du å lese bøker om kjærleik?
+- demando: Likar du å lese bøker om kjærleik?
   rektatraduko:
   - Ĉu: Om
   - vi: du
-  - ŝatas: liker
+  - ŝatas: likar
   - legi: å lese
   - librojn: bøker
   - pri: om

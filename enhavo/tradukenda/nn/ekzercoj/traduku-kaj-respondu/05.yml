@@ -1,4 +1,4 @@
-- demando: Kan du lære rolig medan nokre synger glad?
+- demando: Kan du lære roleg medan nokon syng med glede?
   rektatraduko:
   - Ĉu: Om
   - vi: du
@@ -7,9 +7,9 @@
   - lerni: lære
   - ','
   - dum: medan
-  - iu: nokre
-  - ĝoje: glad
-  - kantas: synger
+  - iu: nokon
+  - ĝoje: med glede
+  - kantas: syng
   - '?'
 - demando: Kven vet når og kor vi ser kvarandre igjen?
   rektatraduko:
@@ -30,14 +30,14 @@
   - estas: er
   - nun: 'no'
   - '?'
-- demando: Hjalp nokre deg med å åpne døren til det gamle huset?
+- demando: Hjelpte nokon deg med å opne døra til det gamle huset?
   rektatraduko:
   - Ĉu: Om
-  - iu: nokre
-  - helpis: hjalp
+  - iu: nokon
+  - helpis: hjelpte
   - al: til
   - vi: deg
-  - malfermi: åpne
+  - malfermi: opne
   - la: (bestemt artikkel)
   - pordon: dør
   - de: til

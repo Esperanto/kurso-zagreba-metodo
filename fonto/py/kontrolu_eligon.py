@@ -109,6 +109,7 @@ REDAKTOJ_NOINDEX_PATTERN = re.compile(r'<meta name="robots" content="noindex, fo
 REDAKTOJ_PATH_PATTERN = re.compile(r'enhavo/tradukenda/([A-Za-z0-9_-]+)')
 REDAKTOJ_CONTEXT_CLASS_PATTERN = re.compile(r'class="([^"]*\bd2h-cntx\b[^"]*)"')
 HREF_PATTERN = re.compile(r'\bhref="([^"]*)"')
+LINGVOELEKTILO_CXEFAJ_HREFS = ('/en/', '/ru/', '/fr/', '/es/', '/de/', '/pt/')
 
 
 def fail(message):
@@ -153,6 +154,35 @@ def require_lesson_image_alts(output_dir, lingvo):
             rf'assets/img/lecionaj/{leciono_numero}\.webp" alt="[^"]+" />'
         )
         require_pattern(path, pattern)
+
+
+def require_prioritized_language_selectors(path):
+    text = path.read_text(encoding='utf-8')
+    for class_name in ('navbar-lingvoj', 'lingva-startpagxo-lingvoj'):
+        match = re.search(
+            r'<ul class="[^"]*\b' + re.escape(class_name) + r'\b[^"]*">(.*?)</ul>',
+            text,
+            re.S,
+        )
+        if not match:
+            fail('mankas lingvoelektilo ' + class_name + ' en ' + str(path))
+
+        menu = match.group(1)
+        last_position = -1
+        for href in LINGVOELEKTILO_CXEFAJ_HREFS:
+            position = menu.find('href="' + href + '"')
+            if position <= last_position:
+                fail(
+                    'lingvoelektilo '
+                    + class_name
+                    + ' ne montras la cxefajn lingvojn en la atendita ordo en '
+                    + str(path)
+                )
+            last_position = position
+
+        divider_position = menu.find('class="dropdown-divider"')
+        if divider_position < last_position:
+            fail('lingvoelektilo ' + class_name + ' ne dividas post la cxefaj lingvoj en ' + str(path))
 
 
 def forbid_pattern(path, pattern):
@@ -429,6 +459,7 @@ def main():
     require_pattern(lingvo_dir / 'index.html', OG_DESCRIPTION_PATTERN)
     require_pattern(lingvo_dir / 'index.html', OG_LOCALE_EN_PATTERN)
     require_course_json_ld(lingvo_dir / 'index.html')
+    require_prioritized_language_selectors(lingvo_dir / 'index.html')
     require_pattern(lingvo_dir / '01' / 'index.html', CANONICAL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', OG_URL_LESSON_PATTERN)
     require_pattern(lingvo_dir / '01' / 'index.html', OG_AUDIO_PATTERN)

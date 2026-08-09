@@ -38,7 +38,25 @@
           🌐 {{enhavo.fasado['{{lingvo_nombro}} lingvoj']|replace('{{lingvo_nombro}}', publikaj_lingvoj|length)}}
         </button>
         <ul class="dropdown-menu lingva-startpagxo-lingvoj">
-          {% for kodo, lingvo in publikaj_lingvoj %}
+          {% set cxefaj_lingvokodoj = ['en', 'ru', 'fr', 'es', 'de', 'pt'] %}
+          {% for cxefa_kodo in cxefaj_lingvokodoj %}
+            {% for kodo, lingvo in publikaj_lingvoj if kodo == cxefa_kodo %}
+              <li>
+                <a
+                  class="dropdown-item"
+                  href="/{{kodo}}/"
+                  lang="{{kodo}}"
+                  {% if kodo == enhavo.lingvo %}
+                    aria-current="true"
+                  {% endif %}
+                >{{lingvo.nomo.fontlingve}} ({{kodo}})</a>
+              </li>
+            {% endfor %}
+          {% endfor %}
+          {% for kodo, lingvo in publikaj_lingvoj if kodo not in cxefaj_lingvokodoj %}
+            {% if loop.first %}
+              <li><hr class="dropdown-divider"></li>
+            {% endif %}
             <li>
               <a
                 class="dropdown-item"

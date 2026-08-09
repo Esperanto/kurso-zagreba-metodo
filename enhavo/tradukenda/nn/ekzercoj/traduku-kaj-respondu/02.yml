@@ -1,0 +1,64 @@
+- demando: Korleis var ditt gamle heim?
+  rektatraduko:
+  - Kia: Kva for ein slags
+  - estis: var
+  - via: din/ditt
+  - malnova: gammal
+  - hejmo: heim
+  - '?'
+- demando: Kva for nokre bøker leste du, og er dei gode?
+  rektatraduko:
+  - Kiujn: Kva for nokre
+  - librojn: bøker
+  - vi: du
+  - legis: leste
+  - kaj: og
+  - ĉu: om
+  - ili: de
+  - estas: er
+  - bonaj: gode
+  - '?'
+- demando: Kva gjorde Ana og Marko i det lille rommet hos Marko?
+  rektatraduko:
+  - Kion: Kva
+  - faris: gjorde
+  - Ana: Ana
+  - kaj: og
+  - Marko: Marko
+  - en: i
+  - la: (bestemt artikkel)
+  - malgranda: lille
+  - ĉambro: rom
+  - de: av
+  - Marko: Marko
+  - '?'
+- demando: Liker du å lese bøker om kjærleik?
+  rektatraduko:
+  - Ĉu: Om
+  - vi: du
+  - ŝatas: liker
+  - legi: å lese
+  - librojn: bøker
+  - pri: om
+  - amo: kjærleik
+  - '?'
+- demando: Kven går saman med deg heim til deg?
+  rektatraduko:
+  - Kiu: Kven
+  - iros: går
+  - kun: med
+  - vi: deg
+  - al: til
+  - via: din/ditt
+  - hejmo: heim
+  - '?'
+- demando: Korleis er øynene til veninna di?
+  rektatraduko:
+  - Kiaj: Kva slags
+  - estas: er
+  - la: (bestemt artikkel)
+  - okuloj: øyne
+  - de: av
+  - via: din/ditt
+  - amikino: veninne
+  - '?'

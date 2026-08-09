@@ -402,6 +402,15 @@ ne:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+nn:
+  nomo:
+    fontlingve: Norsk nynorsk
+    esperante: novnorvega
+  stato: beta
+  komentejo: 1
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 'no':
   nomo:
     fontlingve: Norsk

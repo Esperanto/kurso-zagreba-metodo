@@ -1,0 +1,51 @@
+- demando: Kven er veninna di?
+  rektatraduko:
+  - Kiu: Kven
+  - estas: er
+  - via: din/ditt
+  - amikino: veninne
+  - '?'
+- demando: Skriv veninna di Ana no i rommet?
+  rektatraduko:
+  - Ĉu: Om
+  - via: din/ditt
+  - amikino: veninne
+  - Ana: Ana
+  - skribas: skriv
+  - nun: 'no'
+  - en: i
+  - la: (bestemt artikkel)
+  - ĉambro: rom
+  - '?'
+- demando: Arbeider venen til far din på eit hotell?
+  rektatraduko:
+  - Ĉu: Om
+  - la: (bestemt artikkel)
+  - amiko: ven
+  - de: av
+  - via: din
+  - patro: far
+  - laboras: arbeider
+  - en: i
+  - hotelo: hotell
+  - '?'
+- demando: Kva er det på arbeidsbordet i rommet vårt?
+  rektatraduko:
+  - Kio: Kva
+  - estas: er
+  - sur: på
+  - la: (bestemt artikkel)
+  - labortablo: arbeidsbord
+  - en: i
+  - nia: vårt
+  - ĉambro: rom
+  - '?'
+- demando: Er det ei esperanto-lærebok på bordet ditt?
+  rektatraduko:
+  - Ĉu: Om
+  - Esperanto-lernolibro: esperanto-lærebok
+  - estas: er
+  - sur: på
+  - via: din/ditt
+  - tablo: bord
+  - '?'

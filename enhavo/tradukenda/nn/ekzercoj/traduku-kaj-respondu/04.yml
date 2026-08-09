@@ -1,0 +1,67 @@
+- demando: Når ser eg deg igjen?
+  rektatraduko:
+  - Kiam: Når
+  - mi: eg
+  - revidos: ser igjen
+  - vin: deg
+  - '?'
+- demando: Kor lenge har du lært det internasjonale språket?
+  rektatraduko:
+  - Kiom: Kor mykje
+  - longe: lenge
+  - vi: du
+  - lernas: lærar
+  - la: (bestemt artikkel)
+  - Internacian: Internasjonalt
+  - Lingvon: Språk
+  - '?'
+- demando: Kor er den nye boka min med fotografier?
+  rektatraduko:
+  - Kie: Kor
+  - estas: er
+  - mia: min/mitt
+  - nova: ny
+  - libro: bok
+  - kun: med
+  - fotoj: fotografier
+  - '?'
+- demando: Kor skal du etter lunsj?
+  rektatraduko:
+  - Kien: Kor hen
+  - vi: du
+  - iros: skal gå
+  - post: etter
+  - la: (bestemt artikkel)
+  - tagmanĝo: lunsj
+  - '?'
+- demando: Kan ein lukke døren til rommet når det er kaldt?
+  rektatraduko:
+  - Ĉu: Om
+  - oni: ein
+  - povas: kan
+  - fermi: lukke
+  - la: (bestemt artikkel)
+  - pordon: dør
+  - de: av
+  - la: (bestemt artikkel)
+  - ĉambro: rom
+  - ','
+  - kiam: når
+  - estas: er
+  - malvarme: kaldt
+  - '?'
+- demando: Kor lenge er du sint viss nokre tar mykje penger frå deg?
+  rektatraduko:
+  - Kiom: Kor mykje
+  - longe: lenge
+  - vi: du
+  - koleras: er sint
+  - ','
+  - se: viss
+  - oni: ein
+  - forprenas: tar bort
+  - de: frå
+  - vi: du
+  - multan: mykje
+  - monon: penger
+  - '?'

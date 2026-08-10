@@ -6,7 +6,7 @@ updates:
       interval: "daily"
       time: "06:00"
       timezone: "Europe/Berlin"
-    open-pull-requests-limit: 3
+    open-pull-requests-limit: 0
     groups:
       security-updates:
         applies-to: "security-updates"
@@ -19,7 +19,7 @@ updates:
       interval: "daily"
       time: "06:00"
       timezone: "Europe/Berlin"
-    open-pull-requests-limit: 3
+    open-pull-requests-limit: 0
     groups:
       security-updates:
         applies-to: "security-updates"
@@ -32,7 +32,7 @@ updates:
       interval: "daily"
       time: "06:00"
       timezone: "Europe/Berlin"
-    open-pull-requests-limit: 3
+    open-pull-requests-limit: 0
     groups:
       security-updates:
         applies-to: "security-updates"

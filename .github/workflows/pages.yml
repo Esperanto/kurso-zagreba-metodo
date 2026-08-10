@@ -23,13 +23,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v5.0.1
+      - uses: actions/checkout@v7.0.1
 
-      - uses: actions/setup-python@v6.2.0
+      - uses: actions/setup-python@v7.0.0
         with:
           python-version: "3.12"
 
-      - uses: actions/setup-node@v6.0.0
+      - uses: actions/setup-node@v7.0.0
         with:
           node-version-file: ".nvmrc"
           cache: "npm"

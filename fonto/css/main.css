@@ -245,6 +245,13 @@ h3 {
     );
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
+    white-space: nowrap;
+  }
+  .kurso-reklamo-ikono {
+    height: 1em;
+    margin-right: 0.2em;
+    vertical-align: -0.12em;
+    width: auto;
   }
 }
 .navbar > .navbar-enhavo {

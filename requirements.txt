@@ -92,7 +92,7 @@ referencing==0.36.2
     #   jsonschema-specifications
 regress==2025.5.1
     # via check-jsonschema
-requests==2.32.5
+requests==2.33.0
     # via check-jsonschema
 rpds-py==0.27.1
     # via
@@ -102,7 +102,7 @@ ruamel-yaml==0.19.1
     # via check-jsonschema
 typing-extensions==4.16.0
     # via referencing
-urllib3==2.6.3
+urllib3==2.7.0
     # via requests
 wheel==0.47.0
     # via pip-tools

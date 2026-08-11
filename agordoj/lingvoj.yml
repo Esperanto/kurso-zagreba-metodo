@@ -296,7 +296,7 @@ ka:
   nomo:
     fontlingve: ქართული
     esperante: kartvela
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -365,7 +365,7 @@ mg:
   nomo:
     fontlingve: Malagasy
     esperante: malagasa
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: Norbert Faly Randriamaitso
       github: faly509
@@ -507,7 +507,7 @@ rw:
   nomo:
     fontlingve: Ikinyarwanda
     esperante: kinjarvanda
-  stato: testa
+  stato: beta
   komentejo: 0
   aŭtoroj:
     - nomo: OpenAI
@@ -550,7 +550,7 @@ sq:
   nomo:
     fontlingve: Shqip
     esperante: albana
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai
@@ -682,7 +682,7 @@ xh:
   nomo:
     fontlingve: isiXhosa
     esperante: kosa
-  stato: testa
+  stato: beta
   aŭtoroj:
     - nomo: OpenAI
       github: openai

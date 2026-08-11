@@ -1,9 +1,9 @@
-- demando: Korleis var ditt gamle heim?
+- demando: Korleis var din gamle heim?
   rektatraduko:
-  - Kia: Kva for ein slags
+  - Kia: Korleis
   - estis: var
-  - via: din/ditt
-  - malnova: gammal
+  - via: din/di/ditt
+  - malnova: gamle
   - hejmo: heim
   - '?'
 - demando: Kva for nokre bøker leste du, og er dei gode?
@@ -49,7 +49,7 @@
   - kun: med
   - vi: deg
   - al: til
-  - via: din/ditt
+  - via: din/di/ditt
   - hejmo: heim
   - '?'
 - demando: Korleis er øynene til veninna di?
@@ -59,6 +59,6 @@
   - la: (bestemt artikkel)
   - okuloj: øyne
   - de: av
-  - via: din/ditt
+  - via: din/di/ditt
   - amikino: veninne
   - '?'

@@ -2,13 +2,13 @@
   rektatraduko:
   - Kiu: Kven
   - estas: er
-  - via: din/ditt
+  - via: din/di/ditt
   - amikino: veninne
   - '?'
 - demando: Skriv veninna di Ana no i rommet?
   rektatraduko:
   - Ĉu: Om
-  - via: din/ditt
+  - via: din/di/ditt
   - amikino: veninne
   - Ana: Ana
   - skribas: skriv
@@ -46,6 +46,6 @@
   - Esperanto-lernolibro: esperanto-lærebok
   - estas: er
   - sur: på
-  - via: din/ditt
+  - via: din/di/ditt
   - tablo: bord
   - '?'

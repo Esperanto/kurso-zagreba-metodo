@@ -1,0 +1,51 @@
+- demando: Onye bụ enyi nwaanyị gị?
+  rektatraduko:
+  - Kiu: Onye
+  - estas: bụ
+  - via: nke gị
+  - amikino: enyi nwaanyị
+  - '?'
+- demando: Enyi gị Ana ọ na-ede ugbu a n'ime ụlọ ahụ?
+  rektatraduko:
+  - Ĉu: Ma
+  - via: nke gị
+  - amikino: enyi nwaanyị
+  - Ana: Ana
+  - skribas: na-ede
+  - nun: ugbua
+  - en: n'ime
+  - la: akara ihe a maara
+  - ĉambro: ụlọ
+  - '?'
+- demando: Enyi nna gị ọ na-arụ ọrụ n'ụlọ nkwari akụ?
+  rektatraduko:
+  - Ĉu: Ma
+  - la: akara ihe a maara
+  - amiko: enyi
+  - de: nke / site na
+  - via: nke gị
+  - patro: nna
+  - laboras: na-arụ ọrụ
+  - en: n'ime
+  - hotelo: ụlọ nkwari akụ
+  - '?'
+- demando: Gịnị dị n'elu tebụl ọrụ n'ime ụlọ anyị?
+  rektatraduko:
+  - Kio: Gịnị
+  - estas: bụ
+  - sur: n'elu
+  - la: akara ihe a maara
+  - labortablo: tebụl ọrụ
+  - en: n'ime
+  - nia: nke anyị
+  - ĉambro: ụlọ
+  - '?'
+- demando: Akwụkwọ nkuzi Esperanto ọ dị n'elu tebụl gị?
+  rektatraduko:
+  - Ĉu: Ma
+  - Esperanto-lernolibro: akwụkwọ nkuzi Esperanto
+  - estas: bụ
+  - sur: n'elu
+  - via: nke gị
+  - tablo: tebụl
+  - '?'

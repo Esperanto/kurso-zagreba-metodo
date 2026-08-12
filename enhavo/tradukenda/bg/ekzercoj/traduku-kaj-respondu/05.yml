@@ -1,0 +1,59 @@
+- demando: Можеш ли да учиш спокойно, докато някой пее радостно?
+  rektatraduko:
+  - Ĉu: Дали
+  - vi: ти, вие
+  - povas: може
+  - trankvile: спокойно
+  - lerni: уча
+  - ','
+  - dum: докато
+  - iu: някой
+  - ĝoje: радостно
+  - kantas: пее
+  - '?'
+- demando: Кой знае кога и къде ще се видим отново?
+  rektatraduko:
+  - Kiu: Кой
+  - scias: знае
+  - ','
+  - kiam: кога
+  - kaj: и
+  - kie: къде
+  - ni: ние
+  - revidos: ще види отново
+  - nin: един друг
+  - '?'
+- demando: Колко е часът сега?
+  rektatraduko:
+  - Kioma: кой по номер
+  - horo: час
+  - estas: е
+  - nun: сега
+  - '?'
+- demando: Някой помогна ли ти да отвориш вратата на старата къща?
+  rektatraduko:
+  - Ĉu: Дали
+  - iu: някой
+  - helpis: помогна
+  - al: към
+  - vi: ти, вие
+  - malfermi: да отворя
+  - la: определителен член
+  - pordon: врата
+  - de: на
+  - la: определителен член
+  - malnova: стар
+  - domo: къща
+  - '?'
+- demando: Защо нямаш време да ме слушаш по-дълго?
+  rektatraduko:
+  - Kial: Защо
+  - vi: ти, вие
+  - ne: не
+  - havas: имаш
+  - tempon: време
+  - aŭskulti: слушам
+  - min: мен
+  - pli: по
+  - longe: дълго
+  - '?'

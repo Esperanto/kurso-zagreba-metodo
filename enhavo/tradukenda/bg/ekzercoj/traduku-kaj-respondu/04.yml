@@ -1,0 +1,67 @@
+- demando: Кога ще те видя отново?
+  rektatraduko:
+  - Kiam: Кога
+  - mi: аз
+  - revidos: ще види отново
+  - vin: теб
+  - '?'
+- demando: От колко време учиш международния език?
+  rektatraduko:
+  - Kiom: Колко
+  - longe: дълго
+  - vi: ти, вие
+  - lernas: учиш
+  - la: определителен член
+  - Internacian: международен
+  - Lingvon: език
+  - '?'
+- demando: Къде е новата ми книга със снимки?
+  rektatraduko:
+  - Kie: Къде
+  - estas: е
+  - mia: мой
+  - nova: нов
+  - libro: книга
+  - kun: с
+  - fotoj: снимки
+  - '?'
+- demando: Къде ще отидеш след обяда?
+  rektatraduko:
+  - Kien: Накъде
+  - vi: ти, вие
+  - iros: ще отиде
+  - post: след
+  - la: определителен член
+  - tagmanĝo: обяд
+  - '?'
+- demando: Може ли човек да затвори вратата на стаята, когато е студено?
+  rektatraduko:
+  - Ĉu: Дали
+  - oni: човек
+  - povas: може
+  - fermi: затварям
+  - la: определителен член
+  - pordon: врата
+  - de: на
+  - la: определителен член
+  - ĉambro: стая
+  - ','
+  - kiam: кога
+  - estas: е
+  - malvarme: студено
+  - '?'
+- demando: Колко дълго се сърдиш, ако някой ти отнеме много пари?
+  rektatraduko:
+  - Kiom: Колко
+  - longe: дълго
+  - vi: ти, вие
+  - koleras: сърдиш се
+  - ','
+  - se: ако
+  - oni: човек
+  - forprenas: отнема
+  - de: на
+  - vi: ти, вие
+  - multan: много
+  - monon: пари
+  - '?'

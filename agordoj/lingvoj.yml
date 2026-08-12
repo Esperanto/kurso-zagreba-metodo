@@ -28,6 +28,14 @@ be:
   aŭtoroj:
     - nomo: Roman Ralko
       github: EternaKrokodilanto
+bg:
+  nomo:
+    fontlingve: Български
+    esperante: bulgara
+  stato: beta
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 bn:
   nomo:
     fontlingve: বাংলা

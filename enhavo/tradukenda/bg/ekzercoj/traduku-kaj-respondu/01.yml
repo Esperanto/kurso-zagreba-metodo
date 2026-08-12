@@ -1,0 +1,51 @@
+- demando: Коя е твоята приятелка?
+  rektatraduko:
+  - Kiu: Кой
+  - estas: е
+  - via: твой
+  - amikino: приятелка
+  - '?'
+- demando: Пише ли твоята приятелка Ана сега в стаята?
+  rektatraduko:
+  - Ĉu: Дали
+  - via: твой
+  - amikino: приятелка
+  - Ana: Ана
+  - skribas: пише
+  - nun: сега
+  - en: в
+  - la: определителен член
+  - ĉambro: стая
+  - '?'
+- demando: Приятелят на баща ти работи ли в хотел?
+  rektatraduko:
+  - Ĉu: Дали
+  - la: определителен член
+  - amiko: приятел
+  - de: на
+  - via: твой
+  - patro: баща
+  - laboras: работя
+  - en: в
+  - hotelo: хотел
+  - '?'
+- demando: Какво има върху работната маса в нашата стая?
+  rektatraduko:
+  - Kio: Какво
+  - estas: е
+  - sur: върху
+  - la: определителен член
+  - labortablo: работна маса
+  - en: в
+  - nia: наш
+  - ĉambro: стая
+  - '?'
+- demando: Има ли учебник по есперанто върху твоята маса?
+  rektatraduko:
+  - Ĉu: Дали
+  - Esperanto-lernolibro: учебник по есперанто
+  - estas: е
+  - sur: върху
+  - via: твой
+  - tablo: маса
+  - '?'

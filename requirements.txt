@@ -8,7 +8,7 @@ attrs==26.1.0
     # via
     #   jsonschema
     #   referencing
-black==25.11.0
+black==26.3.1
     # via -r requirements.in
 build==1.4.4
     # via pip-tools

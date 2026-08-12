@@ -160,9 +160,7 @@ lamp: svetiljka
 land: zemlja
 larĝ: širok
 las: pustiti
-last:
-- poslednji
-- poslednji
+last: poslednji
 laŭt: glasan
 lecion: lekcija
 leg: čitati
@@ -206,7 +204,6 @@ nokt: noć
 nom: ime
 not:
 - beleška
-- ocena
 nov: nov
 odor: miris
 oft: često

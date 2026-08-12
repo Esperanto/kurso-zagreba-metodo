@@ -50,15 +50,15 @@
   - la: (član)
   - vino: vino
   - '?'
-- demando: Protiv koga je igrao tvoj sportski klub pre dva nedelje?
+- demando: Protiv koga je igrao tvoj sportski klub pre dve nedelje?
   rektatraduko:
   - Kontraŭ: Protiv
-  - kiu: ko
+  - kiu: koga
   - ludis: igrao je
   - via: tvoj
   - sportklubo: sportski klub
   - antaŭ: pre
-  - du: dva
+  - du: dve
   - semajnoj: nedelje
   - '?'
 - demando: Viđaš li često policajca koji stanuje u stanu iznad tvoga?

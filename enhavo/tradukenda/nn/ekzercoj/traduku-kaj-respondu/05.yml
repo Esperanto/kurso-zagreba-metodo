@@ -11,10 +11,10 @@
   - ĝoje: med glede
   - kantas: syng
   - '?'
-- demando: Kven vet når og kor vi ser kvarandre igjen?
+- demando: Kven veit når og kor vi ser kvarandre igjen?
   rektatraduko:
   - Kiu: Kven
-  - scias: vet
+  - scias: veit
   - ','
   - kiam: når
   - kaj: og
@@ -23,10 +23,10 @@
   - revidos: ser igjen
   - nin: oss
   - '?'
-- demando: Kva er klokken no?
+- demando: Kva er klokka no?
   rektatraduko:
   - Kioma: Kor mange-te
-  - horo: klokken/time
+  - horo: klokka/time
   - estas: er
   - nun: 'no'
   - '?'

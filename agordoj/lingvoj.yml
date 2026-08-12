@@ -554,6 +554,14 @@ sq:
   aŭtoroj:
     - nomo: OpenAI
       github: openai
+sr:
+  nomo:
+    fontlingve: Srpski
+    esperante: serba
+  stato: beta
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 st:
   nomo:
     fontlingve: Sesotho

@@ -1,0 +1,80 @@
+- demando: Кој ќе ја исчисти кујната по ручекот?
+  rektatraduko:
+  - Kiu: Кој
+  - purigos: ќе исчисти
+  - la: одреден член
+  - kuirejon: кујна
+  - post: по
+  - la: одреден член
+  - tagmanĝo: ручек
+  - '?'
+- demando: 'Што сакаш да пиеш: чај, кафе или ништо?'
+  rektatraduko:
+  - Kion: Што
+  - vi: ти
+  - volas: сакаш
+  - trinki: да пиеш
+  - ':'
+  - teon: чај
+  - ','
+  - iom: малку
+  - da: од
+  - kafo: кафе
+  - aŭ: или
+  - ĉu: дали
+  - vi: ти
+  - volas: сакаш
+  - nenion: ништо
+  - '?'
+- demando: Зошто толку ненадејно реши да ја обновиш својата мала соба?
+  rektatraduko:
+  - Kial: Зошто
+  - vi: ти
+  - tiel: така
+  - subite: ненадејно
+  - decidis: реши
+  - renovigi: да обновиш
+  - vian: твој
+  - ĉambreton: мала соба
+  - '?'
+- demando: На кого му ги даде чистите чаши за вино?
+  rektatraduko:
+  - Al: На
+  - kiu: кого
+  - vi: ти
+  - donis: даде
+  - la: одреден член
+  - purajn: чисти
+  - glasojn: чаши
+  - por: за
+  - la: одреден член
+  - vino: вино
+  - '?'
+- demando: Против кого играше твојот спортски клуб пред две недели?
+  rektatraduko:
+  - Kontraŭ: Против
+  - kiu: кого
+  - ludis: играше
+  - via: твој
+  - sportklubo: спортски клуб
+  - antaŭ: пред
+  - du: две
+  - semajnoj: недели
+  - '?'
+- demando: Дали често го гледаш полицаецот што живее во станот над тебе?
+  rektatraduko:
+  - Ĉu: Дали
+  - vi: ти
+  - ofte: често
+  - vidas: гледаш
+  - la: одреден член
+  - policiston: полицаец
+  - ','
+  - kiu: кој
+  - loĝas: живее
+  - en: во
+  - la: одреден член
+  - loĝejo: стан
+  - super: над
+  - vi: ти
+  - '?'

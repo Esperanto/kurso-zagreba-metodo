@@ -1,0 +1,71 @@
+- demando: Кој ја имаше книгата што ја чекаше повеќе од две години?
+  rektatraduko:
+  - Kiu: Кој
+  - havis: имаше
+  - la: одреден член
+  - libron: книга
+  - ','
+  - kiun: што
+  - vi: ти
+  - atendis: чекаше
+  - pli: по
+  - ol: од
+  - du: две
+  - jarojn: години
+  - '?'
+- demando: Дали сакаш да ти ја покажам фотографијата што ми е најдрага?
+  rektatraduko:
+  - Ĉu: Дали
+  - vi: ти
+  - volas: сакаш
+  - ','
+  - ke: дека
+  - mi: јас
+  - montru: да покажам
+  - al: на
+  - vi: ти
+  - mian: мој
+  - plej: нај
+  - karan: драг
+  - foton: фотографија
+  - '?'
+- demando: Каде ја купи таа облека?
+  rektatraduko:
+  - Kie: Каде
+  - vi: ти
+  - aĉetis: купи
+  - tiun: таа
+  - vestaĵon: облека
+  - '?'
+- demando: Каде ќе одиш во недела ако денот е сончев?
+  rektatraduko:
+  - Kien: Каде
+  - vi: ти
+  - iros: ќе одиш
+  - dimanĉe: во недела
+  - ','
+  - se: ако
+  - estos: ќе биде
+  - suna: сончев
+  - tago: ден
+  - '?'
+- demando: Дали брат ти веќе тргна?
+  rektatraduko:
+  - Ĉu: Дали
+  - via: твој
+  - frato: брат
+  - jam: веќе
+  - ekiris: тргна
+  - '?'
+- demando: Каде е водата што самиот ја донесе?
+  rektatraduko:
+  - Kie: Каде
+  - estas: е
+  - la: одреден член
+  - akvo: вода
+  - ','
+  - kiun: што
+  - vi: ти
+  - mem: сам
+  - kunportis: донесе со себе
+  - '?'

@@ -439,7 +439,7 @@ def main():
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_TITLE_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_EN_PATTERN)
     require_pattern(output_dir / 'llms.txt', LLMS_ROOT_DE_PATTERN)
-    forbid_pattern(output_dir / 'llms.txt', LLMS_ROOT_BE_PATTERN)
+    require_pattern(output_dir / 'llms.txt', LLMS_ROOT_BE_PATTERN)
     require_pattern(lingvo_dir / 'llms.txt', LLMS_EN_FULL_PATTERN)
     require_pattern(lingvo_dir / 'llms.txt', LLMS_EN_LESSON_PATTERN)
     require_pattern(lingvo_dir / 'llms.txt', LLMS_EN_TABELVORTOJ_PATTERN)

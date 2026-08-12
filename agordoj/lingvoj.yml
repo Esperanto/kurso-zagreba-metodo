@@ -4,12 +4,12 @@ ar:
     esperante: araba
   stato: preta
   aŭtoroj:
-    - nomo: Ahmed BENSAAD
-      github: benahm
-    - nomo: Latif
-      github: llusx
-    - nomo: Anwar Erouk
-      github: anwarerouk
+  - nomo: Ahmed BENSAAD
+    github: benahm
+  - nomo: Latif
+    github: llusx
+  - nomo: Anwar Erouk
+    github: anwarerouk
   tekstodirekto: rtl
 ary:
   nomo:
@@ -17,43 +17,45 @@ ary:
     esperante: maroka araba
   stato: testa
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
   tekstodirekto: rtl
 be:
   nomo:
     fontlingve: Беларуская
     esperante: belarusa
-  stato: testa
+  stato: beta
   aŭtoroj:
-    - nomo: Roman Ralko
-      github: EternaKrokodilanto
+  - nomo: Roman Ralko
+    github: EternaKrokodilanto
+  - nomo: OpenAI
+    github: openai
 bg:
   nomo:
     fontlingve: Български
     esperante: bulgara
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 bn:
   nomo:
     fontlingve: বাংলা
     esperante: bengala
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 ca:
   nomo:
     fontlingve: Català
     esperante: kataluna
   stato: preta
   aŭtoroj:
-    - nomo: Rubén Fernández Asensio
-      github: enseikou
-    - nomo: Karles Berga
-      github: karulo
+  - nomo: Rubén Fernández Asensio
+    github: enseikou
+  - nomo: Karles Berga
+    github: karulo
 cs:
   nomo:
     fontlingve: Čeština
@@ -61,12 +63,12 @@ cs:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Jindřich Zdráhal
-      github: JindraZdrahal
-    - nomo: Josef Vojáček
-    - nomo: Oldřich Arnošt Fischer
-    - nomo: Clon
-      github: Clonewayx
+  - nomo: Jindřich Zdráhal
+    github: JindraZdrahal
+  - nomo: Josef Vojáček
+  - nomo: Oldřich Arnošt Fischer
+  - nomo: Clon
+    github: Clonewayx
 da:
   nomo:
     fontlingve: Dansk
@@ -74,8 +76,8 @@ da:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Mia Nordentoft
-      github: miestasmia
+  - nomo: Mia Nordentoft
+    github: miestasmia
 de:
   nomo:
     fontlingve: Deutsch
@@ -83,12 +85,12 @@ de:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Georg Jähnig
-      github: georgjaehnig
-    - nomo: Sebastian Hartwig
-      github:
-    - nomo: David J. Sellinger
-      github: jonnie-z
+  - nomo: Georg Jähnig
+    github: georgjaehnig
+  - nomo: Sebastian Hartwig
+    github:
+  - nomo: David J. Sellinger
+    github: jonnie-z
 el:
   nomo:
     fontlingve: Ελληνικά
@@ -96,8 +98,8 @@ el:
   stato: preta
   komentejo: 0
   aŭtoroj:
-    - nomo: Andreas Zervas
-      github: andzer
+  - nomo: Andreas Zervas
+    github: andzer
 en:
   nomo:
     fontlingve: English
@@ -107,72 +109,72 @@ en:
   redaktoj:
     de: dfebee62fc13b314d730cf18254772478b137f4c
   aŭtoroj:
-    - nomo: Georg Jähnig
-      github: georgjaehnig
-    - nomo: Ahmed BENSAAD
-      github: benahm
-    - nomo: Antonia Montaro
-      github: AntoniaMontaro
-    - nomo: Emmanuelle Richard
-      github: emmrichard
-    - nomo: Spencer van der Meulen
-      github: Rajzin
-    - nomo: Alejandro Escobedo
-      github: alescomu
-    - nomo: Axel Rousseau
-      github: axel584
-    - nomo: Lucas Barbosa
-      github: lukcxjo
-    - nomo: Mea Bombardelli
-      github: umanto
-    - nomo: Vasil Kadifeli
-      github: vasilkadifeli
+  - nomo: Georg Jähnig
+    github: georgjaehnig
+  - nomo: Ahmed BENSAAD
+    github: benahm
+  - nomo: Antonia Montaro
+    github: AntoniaMontaro
+  - nomo: Emmanuelle Richard
+    github: emmrichard
+  - nomo: Spencer van der Meulen
+    github: Rajzin
+  - nomo: Alejandro Escobedo
+    github: alescomu
+  - nomo: Axel Rousseau
+    github: axel584
+  - nomo: Lucas Barbosa
+    github: lukcxjo
+  - nomo: Mea Bombardelli
+    github: umanto
+  - nomo: Vasil Kadifeli
+    github: vasilkadifeli
 es:
   nomo:
     fontlingve: Español
     esperante: hispana
   stato: preta
   aŭtoroj:
-    - nomo: Enric Baltasar
-      github: enricbaltasar
-    - nomo: Alejandro Escobedo
-      github: alescomu
-    - nomo: Guillermo Molleda Jimena
-      github: gmolledaj
+  - nomo: Enric Baltasar
+    github: enricbaltasar
+  - nomo: Alejandro Escobedo
+    github: alescomu
+  - nomo: Guillermo Molleda Jimena
+    github: gmolledaj
 eu:
   nomo:
     fontlingve: Euskara
     esperante: eŭska
   stato: preta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 ee:
   nomo:
     fontlingve: Eʋegbe
     esperante: evea
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 et:
   nomo:
     fontlingve: Eesti
     esperante: estona
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 fa:
   nomo:
     fontlingve: فارسی
     esperante: persa
   stato: preta
   aŭtoroj:
-    - nomo: Ali Moradi
-      github: deadmarshal
-    - nomo: Sina Kiadaliri
-      github: sinakd
+  - nomo: Ali Moradi
+    github: deadmarshal
+  - nomo: Sina Kiadaliri
+    github: sinakd
   tekstodirekto: rtl
 fi:
   nomo:
@@ -180,54 +182,54 @@ fi:
     esperante: finna
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 fr:
   nomo:
     fontlingve: Français
     esperante: franca
   stato: preta
   aŭtoroj:
-    - nomo: Axel Rousseau
-      github: axel584
-    - nomo: Emmanuelle Richard
-      github: emmrichard
-    - nomo: Ahmed BENSAAD
-      github: benahm
-    - nomo: Alejandro Escobedo
-      github: alescomu
+  - nomo: Axel Rousseau
+    github: axel584
+  - nomo: Emmanuelle Richard
+    github: emmrichard
+  - nomo: Ahmed BENSAAD
+    github: benahm
+  - nomo: Alejandro Escobedo
+    github: alescomu
 frp:
   nomo:
     fontlingve: Arpetan
     esperante: arpitana
   stato: testa
   aŭtoroj:
-    - nomo: Alexandre Raymond
-      github: alekcxjo
+  - nomo: Alexandre Raymond
+    github: alekcxjo
 ga:
   nomo:
     fontlingve: Gaeilge
     esperante: irlanda
   stato: preta
   aŭtoroj:
-    - nomo: Seán Ó Riain
-      github: SeanORiain32
+  - nomo: Seán Ó Riain
+    github: SeanORiain32
 ha:
   nomo:
     fontlingve: Hausa
     esperante: haŭsa
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 he:
   nomo:
     fontlingve: עברית
     esperante: hebrea
   stato: preta
   aŭtoroj:
-    - nomo: Amir
-      github: verkoj
+  - nomo: Amir
+    github: verkoj
   tekstodirekto: rtl
 hi:
   nomo:
@@ -235,18 +237,18 @@ hi:
     esperante: hindia
   stato: beta
   aŭtoroj:
-    - nomo: Naga Siva Kotha
-      github: kothanagasiva
+  - nomo: Naga Siva Kotha
+    github: kothanagasiva
 hr:
   nomo:
     fontlingve: Hrvatski
     esperante: kroata
   stato: preta
   aŭtoroj:
-    - nomo: Mea Bombardelli
-      github: umanto
-    - nomo: Zlatko Tišljar
-      github: ztisljar
+  - nomo: Mea Bombardelli
+    github: umanto
+  - nomo: Zlatko Tišljar
+    github: ztisljar
 hu:
   nomo:
     fontlingve: Magyar
@@ -254,96 +256,96 @@ hu:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Palma Csiszár Salomon
-      github: cspalma
-    - nomo: Eszter Besenyei
-      github: steletourseto
-    - nomo: Bagó István
-      github: Agxulo
+  - nomo: Palma Csiszár Salomon
+    github: cspalma
+  - nomo: Eszter Besenyei
+    github: steletourseto
+  - nomo: Bagó István
+    github: Agxulo
 id:
   nomo:
     fontlingve: Bahasa Indonesia
     esperante: indonezia
   stato: preta
   aŭtoroj:
-    - nomo: Sesti Kusmayati
-      github: tayamsukit
-    - nomo: Onklo ENG
-      github: onklo
+  - nomo: Sesti Kusmayati
+    github: tayamsukit
+  - nomo: Onklo ENG
+    github: onklo
 is:
   nomo:
     fontlingve: Íslenska
     esperante: islanda
   stato: preta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 it:
   nomo:
     fontlingve: Italiano
     esperante: itala
   stato: preta
   aŭtoroj:
-    - nomo: Cristiano Tomassoni
-      github: shokupan
-    - nomo: David Paleino
-      github: dpaleino
+  - nomo: Cristiano Tomassoni
+    github: shokupan
+  - nomo: David Paleino
+    github: dpaleino
 ja:
   nomo:
     fontlingve: 日本語
     esperante: japana
   stato: preta
   aŭtoroj:
-    - nomo: Nomota Hiongun KIM
-      github: nomota
-    - nomo: UĈIGAKI Kazuo
-      github: ucxgk
-    - nomo: NAMBA Fumiharu
-      github: osametan
+  - nomo: Nomota Hiongun KIM
+    github: nomota
+  - nomo: UĈIGAKI Kazuo
+    github: ucxgk
+  - nomo: NAMBA Fumiharu
+    github: osametan
 ka:
   nomo:
     fontlingve: ქართული
     esperante: kartvela
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 kk:
   nomo:
     fontlingve: Қазақша
     esperante: kazaĥa
   stato: testa
   aŭtoroj:
-    - nomo: Vyacheslav Nasretdinov
-      github: ABChessel
+  - nomo: Vyacheslav Nasretdinov
+    github: ABChessel
 km:
   nomo:
     fontlingve: ភាសាខ្មែរ
     esperante: kmera
   stato: beta
   aŭtoroj:
-    - nomo: Onklo ENG
-      github: onklo
-    - nomo: OpenAI
-      github: openai
+  - nomo: Onklo ENG
+    github: onklo
+  - nomo: OpenAI
+    github: openai
 ko:
   nomo:
     fontlingve: 한국어
     esperante: korea
   stato: preta
   aŭtoroj:
-    - nomo: Huiyun Seo
-      github: jasmena
-    - nomo: Nomota Hiongun KIM
-      github: nomota
+  - nomo: Huiyun Seo
+    github: jasmena
+  - nomo: Nomota Hiongun KIM
+    github: nomota
 ku:
   nomo:
     fontlingve: Kurdî (kurmancî)
     esperante: kurda (kurmanĉa)
   stato: testa
   aŭtoroj:
-    - nomo: Salah Mohammadpour
-      github: slahmhmdpur
+  - nomo: Salah Mohammadpour
+    github: slahmhmdpur
   tekstodirekto: rtl
 lo:
   nomo:
@@ -351,64 +353,64 @@ lo:
     esperante: laosa
   stato: beta
   aŭtoroj:
-    - nomo: Warut Bunprasert
-      github: Warut92
+  - nomo: Warut Bunprasert
+    github: Warut92
 lv:
   nomo:
     fontlingve: Latviešu
     esperante: latva
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 lt:
   nomo:
     fontlingve: Lietuvių
     esperante: litova
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 mg:
   nomo:
     fontlingve: Malagasy
     esperante: malagasa
   stato: beta
   aŭtoroj:
-    - nomo: Norbert Faly Randriamaitso
-      github: faly509
+  - nomo: Norbert Faly Randriamaitso
+    github: faly509
 mk:
   nomo:
     fontlingve: Македонски
     esperante: makedona
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 mr:
   nomo:
     fontlingve: मराठी
     esperante: marata
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 ms:
   nomo:
     fontlingve: Bahasa Melayu
     esperante: malaja
   stato: preta
   aŭtoroj:
-    - nomo: Onklo ENG
-      github: onklo
+  - nomo: Onklo ENG
+    github: onklo
 my:
   nomo:
     fontlingve: မြန်မာဘာသာ
     esperante: birma
   stato: beta
   aŭtoroj:
-    - nomo: Onklo ENG
-      github: onklo
+  - nomo: Onklo ENG
+    github: onklo
 ne:
   nomo:
     fontlingve: नेपाली
@@ -416,8 +418,8 @@ ne:
   stato: beta
   komentejo: 0
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 nn:
   nomo:
     fontlingve: Norsk nynorsk
@@ -425,8 +427,8 @@ nn:
   stato: beta
   komentejo: 1
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 'no':
   nomo:
     fontlingve: Norsk
@@ -434,8 +436,8 @@ nn:
   stato: beta
   komentejo: 1
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 nl:
   nomo:
     fontlingve: Nederlands
@@ -443,16 +445,16 @@ nl:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Leo de Cooman
-      github: GrizaLeono
+  - nomo: Leo de Cooman
+    github: GrizaLeono
 pa:
   nomo:
     fontlingve: ਪੰਜਾਬੀ
     esperante: panĝaba
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 pl:
   nomo:
     fontlingve: Polski
@@ -460,8 +462,8 @@ pl:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Agata Cichocka
-      github: agatazyt
+  - nomo: Agata Cichocka
+    github: agatazyt
 pt:
   nomo:
     fontlingve: Português
@@ -469,22 +471,22 @@ pt:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Lucas Barbosa
-      github: lukcxjo
-    - nomo: Emilio Cid
-      github: EmilioCid
-    - nomo: Jairo Santos
-      github: Jxajroad
-    - nomo: Alejandro Escobedo
-      github: alescomu
+  - nomo: Lucas Barbosa
+    github: lukcxjo
+  - nomo: Emilio Cid
+    github: EmilioCid
+  - nomo: Jairo Santos
+    github: Jxajroad
+  - nomo: Alejandro Escobedo
+    github: alescomu
 qu:
   nomo:
     fontlingve: Runa Simi
     esperante: keĉua
   stato: testa
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 ro:
   nomo:
     fontlingve: Română
@@ -492,16 +494,16 @@ ro:
   stato: beta
   komentejo: 0
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 rm:
   nomo:
     fontlingve: Rumantsch Grischun
     esperante: romanĉa
   stato: testa
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 ru:
   nomo:
     fontlingve: Русский
@@ -509,16 +511,16 @@ ru:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Nikita Kungurov
-      github: Seemann147
-    - nomo: Mensogulo
-      github: mensogulo
-    - nomo: Vyacheslav Nasretdinov
-      github: ABChessel
-    - nomo: Vitaliy Star
-      github: vistar
-    - nomo: Reedych
-      github: reedych
+  - nomo: Nikita Kungurov
+    github: Seemann147
+  - nomo: Mensogulo
+    github: mensogulo
+  - nomo: Vyacheslav Nasretdinov
+    github: ABChessel
+  - nomo: Vitaliy Star
+    github: vistar
+  - nomo: Reedych
+    github: reedych
 rw:
   nomo:
     fontlingve: Ikinyarwanda
@@ -526,16 +528,16 @@ rw:
   stato: beta
   komentejo: 0
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 se:
   nomo:
     fontlingve: Davvisámegiella
     esperante: nord-samea
   stato: testa
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 sk:
   nomo:
     fontlingve: Slovenčina
@@ -543,16 +545,16 @@ sk:
   stato: preta
   komentejo: 0
   aŭtoroj:
-    - nomo: Katka
-      github: testudeto
-    - nomo: Ľuboš Petrovič
-      github: nickn17
-    - nomo: Miroslav Šedivý
-      github: eumiro
-    - nomo: Lucia Mikulovská
-      github: LuMiCzSk
-    - nomo: Pavol Petrik
-      github: pavolcek
+  - nomo: Katka
+    github: testudeto
+  - nomo: Ľuboš Petrovič
+    github: nickn17
+  - nomo: Miroslav Šedivý
+    github: eumiro
+  - nomo: Lucia Mikulovská
+    github: LuMiCzSk
+  - nomo: Pavol Petrik
+    github: pavolcek
 sl:
   nomo:
     fontlingve: Slovenščina
@@ -560,32 +562,32 @@ sl:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Milan Jarnovič
-      github: Mioli
+  - nomo: Milan Jarnovič
+    github: Mioli
 sq:
   nomo:
     fontlingve: Shqip
     esperante: albana
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 sr:
   nomo:
     fontlingve: Srpski
     esperante: serba
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 st:
   nomo:
     fontlingve: Sesotho
     esperante: sota
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 sv:
   nomo:
     fontlingve: Svenska
@@ -593,10 +595,10 @@ sv:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Antonia Montaro
-      github: AntoniaMontaro
-    - nomo: Charlotte Scherping Larsson
-      github: DuoNem
+  - nomo: Antonia Montaro
+    github: AntoniaMontaro
+  - nomo: Charlotte Scherping Larsson
+    github: DuoNem
 sw:
   nomo:
     fontlingve: Kiswahili
@@ -604,24 +606,24 @@ sw:
   stato: preta
   komentejo: 0
   aŭtoroj:
-    - nomo: Leo de Cooman
-      github: GrizaLeono
+  - nomo: Leo de Cooman
+    github: GrizaLeono
 ta:
   nomo:
     fontlingve: தமிழ்
     esperante: tamila
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 te:
   nomo:
     fontlingve: తెలుగు
     esperante: telugua
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 th:
   nomo:
     fontlingve: ภาษาไทย
@@ -629,8 +631,8 @@ th:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Warut Bunprasert
-      github: Warut92
+  - nomo: Warut Bunprasert
+    github: Warut92
 tl:
   nomo:
     fontlingve: Tagalog
@@ -638,16 +640,16 @@ tl:
   stato: beta
   komentejo: 0
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 tok:
   nomo:
     fontlingve: toki pona
     esperante: Tokipono
   stato: testa
   aŭtoroj:
-    - nomo: Iván Zaragoza Martínez
-      github: ivaaane
+  - nomo: Iván Zaragoza Martínez
+    github: ivaaane
 tr:
   nomo:
     fontlingve: Türkçe
@@ -655,26 +657,26 @@ tr:
   stato: preta
   komentejo: 1
   aŭtoroj:
-    - nomo: Vasil Kadifeli
-      github: vasilkadifeli
-    - nomo: Fatih Emre
-      github: fatihemre1
+  - nomo: Vasil Kadifeli
+    github: vasilkadifeli
+  - nomo: Fatih Emre
+    github: fatihemre1
 uk:
   nomo:
     fontlingve: Українська
     esperante: ukraina
   stato: preta
   aŭtoroj:
-    - nomo: Сергій Прудко
-      github: sacerdoto
+  - nomo: Сергій Прудко
+    github: sacerdoto
 ur:
   nomo:
     fontlingve: اردو
     esperante: urdua
   stato: beta
   aŭtoroj:
-    - nomo: Adeel Butt
-      github: ambtg
+  - nomo: Adeel Butt
+    github: ambtg
   tekstodirekto: rtl
 uz:
   nomo:
@@ -682,73 +684,73 @@ uz:
     esperante: uzbeka
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 vi:
   nomo:
     fontlingve: Tiếng Việt
     esperante: vjetnama
   stato: preta
   aŭtoroj:
-    - nomo: Hoan Tran
-      github: Ghojo-37
-    - nomo: Hoang Phuc
-      github: Huangphoux
+  - nomo: Hoan Tran
+    github: Ghojo-37
+  - nomo: Hoang Phuc
+    github: Huangphoux
 wuu:
   nomo:
     fontlingve: 吴语
     esperante: ĉina (Wu)
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 xh:
   nomo:
     fontlingve: isiXhosa
     esperante: kosa
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 yo:
   nomo:
     fontlingve: yorùbá
     esperante: joruba
   stato: beta
   aŭtoroj:
-    - nomo: Gabriel Olúbùnmi Ọ̀ṣhọ́-Davies
-      github: oshodavies
+  - nomo: Gabriel Olúbùnmi Ọ̀ṣhọ́-Davies
+    github: oshodavies
 yue:
   nomo:
     fontlingve: 粵語
     esperante: ĉina (kantona)
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai
 zh:
   nomo:
     fontlingve: 中文
     esperante: ĉina (simpla)
   stato: preta
   aŭtoroj:
-    - nomo: Onklo ENG
-      github: onklo
-    - nomo: Fujurungga
-      github: Fujurungga
+  - nomo: Onklo ENG
+    github: onklo
+  - nomo: Fujurungga
+    github: Fujurungga
 zh-tw:
   nomo:
     fontlingve: 正體中文
     esperante: ĉina (tradicia)
   stato: preta
   aŭtoroj:
-    - nomo: Manlajo
-      github: Manlajo
+  - nomo: Manlajo
+    github: Manlajo
 zu:
   nomo:
     fontlingve: IsiZulu
     esperante: zulua
   stato: beta
   aŭtoroj:
-    - nomo: OpenAI
-      github: openai
+  - nomo: OpenAI
+    github: openai

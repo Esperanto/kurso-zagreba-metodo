@@ -239,6 +239,14 @@ hi:
   aŭtoroj:
   - nomo: Naga Siva Kotha
     github: kothanagasiva
+ig:
+  nomo:
+    fontlingve: Igbo
+    esperante: igba
+  stato: beta
+  aŭtoroj:
+  - nomo: OpenAI
+    github: openai
 hr:
   nomo:
     fontlingve: Hrvatski

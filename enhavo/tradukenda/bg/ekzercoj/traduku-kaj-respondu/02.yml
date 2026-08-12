@@ -1,0 +1,64 @@
+- demando: Какъв беше старият ти дом?
+  rektatraduko:
+  - Kia: Какъв
+  - estis: беше
+  - via: твой
+  - malnova: стар
+  - hejmo: дом
+  - '?'
+- demando: Кои книги прочете и бяха ли те добри?
+  rektatraduko:
+  - Kiujn: Кои
+  - librojn: книги
+  - vi: ти, вие
+  - legis: прочете
+  - kaj: и
+  - ĉu: дали
+  - ili: те
+  - estas: е
+  - bonaj: добри
+  - '?'
+- demando: Какво правиха Ана и Марко в малката стая на Марко?
+  rektatraduko:
+  - Kion: Какво
+  - faris: правеха
+  - Ana: Ана
+  - kaj: и
+  - Marko: Марко
+  - en: в
+  - la: определителен член
+  - malgranda: малък
+  - ĉambro: стая
+  - de: на
+  - Marko: Марко
+  - '?'
+- demando: Обичаш ли да четеш книги за любовта?
+  rektatraduko:
+  - Ĉu: Дали
+  - vi: ти, вие
+  - ŝatas: харесва
+  - legi: чета
+  - librojn: книги
+  - pri: за
+  - amo: любов
+  - '?'
+- demando: Кой ще отиде с теб в твоя дом?
+  rektatraduko:
+  - Kiu: Кой
+  - iros: ще отиде
+  - kun: с
+  - vi: ти, вие
+  - al: към
+  - via: твой
+  - hejmo: дом
+  - '?'
+- demando: Какви са очите на твоята приятелка?
+  rektatraduko:
+  - Kiaj: Какви
+  - estas: е
+  - la: определителен член
+  - okuloj: очи
+  - de: на
+  - via: твой
+  - amikino: приятелка
+  - '?'

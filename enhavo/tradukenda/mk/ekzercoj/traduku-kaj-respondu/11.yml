@@ -1,0 +1,49 @@
+- demando: Дали можеш да го донесеш со себе лекот на сестра ми?
+  rektatraduko:
+  - Ĉu: Дали
+  - vi: ти
+  - povas: можеш
+  - kunporti: да донесеш со себе
+  - la: одреден член
+  - sanigilon: лек
+  - de: на
+  - mia: мој
+  - fratino: сестра
+  - '?'
+- demando: Кога го купи тој музички инструмент?
+  rektatraduko:
+  - Kiam: Кога
+  - vi: ти
+  - aĉetis: купи
+  - tiun: тој
+  - muzikilon: музички инструмент
+  - '?'
+- demando: Кој последен го користеше мојот клуч?
+  rektatraduko:
+  - Kiu: Кој
+  - laste: последно
+  - uzis: користеше
+  - mian: мој
+  - ŝlosilon: клуч
+  - '?'
+- demando: Дали во Венеција патуваше и со гондола?
+  rektatraduko:
+  - Ĉu: Дали
+  - vi: ти
+  - en: во
+  - Venecio: Венеција
+  - veturis: патуваше
+  - ankaŭ: исто така
+  - per: со
+  - gondolo: гондола
+  - '?'
+- demando: Дали ќе можеш да заспиеш кога ќе се стиши?
+  rektatraduko:
+  - Ĉu: Дали
+  - vi: ти
+  - povos: ќе можеш
+  - ekdormi: да заспиеш
+  - ','
+  - kiam: кога
+  - silentiĝos: ќе се стиши
+  - '?'

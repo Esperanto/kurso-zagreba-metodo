@@ -1,0 +1,67 @@
+- demando: Кога повторно ќе те видам?
+  rektatraduko:
+  - Kiam: Кога
+  - mi: јас
+  - revidos: повторно ќе видам
+  - vin: тебе
+  - '?'
+- demando: Колку долго го учиш меѓународниот јазик?
+  rektatraduko:
+  - Kiom: Колку
+  - longe: долго
+  - vi: ти
+  - lernas: учиш
+  - la: одреден член
+  - Internacian: меѓународен
+  - Lingvon: јазик
+  - '?'
+- demando: Каде е мојата нова книга со фотографии?
+  rektatraduko:
+  - Kie: Каде
+  - estas: е
+  - mia: мој
+  - nova: нов
+  - libro: книга
+  - kun: со
+  - fotoj: фотографии
+  - '?'
+- demando: Каде ќе одиш по ручекот?
+  rektatraduko:
+  - Kien: Каде
+  - vi: ти
+  - iros: ќе одиш
+  - post: по
+  - la: одреден член
+  - tagmanĝo: ручек
+  - '?'
+- demando: Дали може да се затвори вратата на собата кога е студено?
+  rektatraduko:
+  - Ĉu: Дали
+  - oni: човек
+  - povas: може
+  - fermi: да затвори
+  - la: одреден член
+  - pordon: врата
+  - de: на
+  - la: одреден член
+  - ĉambro: соба
+  - ','
+  - kiam: кога
+  - estas: е
+  - malvarme: студено
+  - '?'
+- demando: Колку долго се лутиш ако некој ти одземе многу пари?
+  rektatraduko:
+  - Kiom: Колку
+  - longe: долго
+  - vi: ти
+  - koleras: се лутиш
+  - ','
+  - se: ако
+  - oni: човек
+  - forprenas: одзема
+  - de: од
+  - vi: ти
+  - multan: многу
+  - monon: пари
+  - '?'

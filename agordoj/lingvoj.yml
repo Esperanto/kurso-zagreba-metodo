@@ -227,7 +227,7 @@ hi:
     esperante: hindia
   stato: beta
   aŭtoroj:
-    - nomo: Naga Siva Kotha 
+    - nomo: Naga Siva Kotha
       github: kothanagasiva
 hr:
   nomo:
@@ -369,6 +369,14 @@ mg:
   aŭtoroj:
     - nomo: Norbert Faly Randriamaitso
       github: faly509
+mk:
+  nomo:
+    fontlingve: Македонски
+    esperante: makedona
+  stato: beta
+  aŭtoroj:
+    - nomo: OpenAI
+      github: openai
 mr:
   nomo:
     fontlingve: मराठी

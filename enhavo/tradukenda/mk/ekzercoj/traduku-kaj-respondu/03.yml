@@ -1,0 +1,72 @@
+- demando: Дали келнерите во големите хотели разбираат многу јазици?
+  rektatraduko:
+  - Ĉu: Дали
+  - kelneroj: келнери
+  - en: во
+  - grandaj: големи
+  - hoteloj: хотели
+  - komprenas: разбираат
+  - multajn: многу
+  - lingvojn: јазици
+  - '?'
+- demando: Дали знаеш дали Ана ја сака новата песна за сиромашен маж и убава жена?
+  rektatraduko:
+  - Ĉu: Дали
+  - vi: ти
+  - scias: знаеш
+  - ','
+  - ĉu: дали
+  - Ana: Ана
+  - ŝatas: сака
+  - la: одреден член
+  - novan: нов
+  - kanton: песна
+  - pri: за
+  - malriĉulo: сиромашен човек
+  - kaj: и
+  - belulino: убава жена
+  - '?'
+- demando: Каде виде стар човек и млад човек што носеа голема маса?
+  rektatraduko:
+  - Kie: Каде
+  - vi: ти
+  - vidis: виде
+  - la: одреден член
+  - maljunulon: стар човек
+  - kaj: и
+  - la: одреден член
+  - junulon: млад човек
+  - ','
+  - kiuj: кои
+  - portis: носеа
+  - grandan: голем
+  - tablon: маса
+  - '?'
+- demando: Како се случи повторно да дојдеш кај нас без твоите браќа и сестри?
+  rektatraduko:
+  - Kiel: Како
+  - okazis: се случи
+  - ','
+  - ke: дека
+  - vi: ти
+  - denove: повторно
+  - venis: дојде
+  - al: кон
+  - ni: ние
+  - sen: без
+  - gefratoj: браќа и сестри
+  - '?'
+- demando: Дали можеш доволно брзо да научиш есперанто со новиот учебник?
+  rektatraduko:
+  - Ĉu: Дали
+  - vi: ти
+  - povas: можеш
+  - per: со
+  - la: одреден член
+  - nova: нов
+  - lernolibro: учебник
+  - sufiĉe: доволно
+  - rapide: брзо
+  - lerni: да учиш
+  - Esperanton: есперанто
+  - '?'

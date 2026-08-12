@@ -1,0 +1,51 @@
+- demando: Која е твојата пријателка?
+  rektatraduko:
+  - Kiu: Кој
+  - estas: е
+  - via: твој
+  - amikino: пријателка
+  - '?'
+- demando: Дали твојата пријателка Ана пишува сега во собата?
+  rektatraduko:
+  - Ĉu: Дали
+  - via: твој
+  - amikino: пријателка
+  - Ana: Ана
+  - skribas: пишува
+  - nun: сега
+  - en: во
+  - la: одреден член
+  - ĉambro: соба
+  - '?'
+- demando: Дали пријателот на татко ти работи во хотел?
+  rektatraduko:
+  - Ĉu: Дали
+  - la: одреден член
+  - amiko: пријател
+  - de: на
+  - via: твој
+  - patro: татко
+  - laboras: работи
+  - en: во
+  - hotelo: хотел
+  - '?'
+- demando: Што има на работната маса во нашата соба?
+  rektatraduko:
+  - Kio: Што
+  - estas: е
+  - sur: на
+  - la: одреден член
+  - labortablo: работна маса
+  - en: во
+  - nia: наш
+  - ĉambro: соба
+  - '?'
+- demando: Дали учебник по есперанто е на твојата маса?
+  rektatraduko:
+  - Ĉu: Дали
+  - Esperanto-lernolibro: учебник по есперанто
+  - estas: е
+  - sur: на
+  - via: твој
+  - tablo: маса
+  - '?'

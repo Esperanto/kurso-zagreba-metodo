@@ -322,10 +322,12 @@ kk:
   nomo:
     fontlingve: Қазақша
     esperante: kazaĥa
-  stato: testa
+  stato: beta
   aŭtoroj:
   - nomo: Vyacheslav Nasretdinov
     github: ABChessel
+  - nomo: OpenAI
+    github: openai
 km:
   nomo:
     fontlingve: ភាសាខ្មែរ

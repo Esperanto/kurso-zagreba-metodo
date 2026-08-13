@@ -2,10 +2,10 @@
   rektatraduko:
   - Kiu: Hvem
   - purigos: rengjør
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - kuirejon: kjøkken
   - post: etter
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - tagmanĝo: lunsj
   - '?'
 - demando: 'Hva vil du drikke: te, litt kaffe, eller vil du ikke ha noe?'
@@ -43,11 +43,11 @@
   - kiu: hvem
   - vi: du
   - donis: ga
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - purajn: rene
   - glasojn: glass
   - por: for
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - vino: vin
   - '?'
 - demando: Hvem spilte idrettsklubben din mot for to uker siden?
@@ -67,13 +67,13 @@
   - vi: du
   - ofte: ofte
   - vidas: ser
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - policiston: politibetjent
   - ','
   - kiu: som
   - loĝas: bor
   - en: i
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - loĝejo: leilighet
   - super: over
   - vi: deg

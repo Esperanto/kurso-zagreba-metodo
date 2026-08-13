@@ -25,7 +25,7 @@ nenia: ешқандай
 nenial: еш себеппен емес
 neniam: ешқашан
 nenie: еш жерде
-neniel: ешқалай
+neniel: ешқандай жолмен
 nenies: ешкімнің
 nenio: ештеңе
 neniom:
@@ -41,7 +41,9 @@ tie: сонда
 tiel: солай
 ties: соның
 tio: сол
-tiom: сонша
+tiom:
+- сонша
+- соншалықты
 tiu:
 - сол адам
 - сол

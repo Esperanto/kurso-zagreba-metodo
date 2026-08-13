@@ -141,7 +141,9 @@ klar:
 - анық
 - түсінікті
 klub: клуб
-knab: бала
+knab:
+- ұл бала
+- ұл
 koler: ашулану
 kolor: түс
 komenc: бастау
@@ -153,7 +155,7 @@ konsent: келісу
 kontent: риза
 kontrol: тексеру
 kor: жүрек
-korp: дене; тән
+korp: дене
 kost: тұру
 kred: сену
 kri: айқайлау
@@ -400,7 +402,7 @@ vol: қалау
 vort: сөз
 voĉ: дауыс
 zorg: қамқор болу
-ĉambr: бөлім
+ĉambr: бөлме
 ĉef:
 - бас
 - басты

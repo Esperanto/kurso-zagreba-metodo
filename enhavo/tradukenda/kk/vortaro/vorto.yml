@@ -5,8 +5,12 @@ alportis: әкелді
 alvenigas: келтіреді
 alvenis: келді
 alvenos: келеді
-amikino: құрбы қыз
-amikinon: құрбы қызды
+amikino:
+- құрбы
+- қыз дос
+amikinon:
+- құрбыны
+- қыз досты
 amletero: махаббат хаты
 antaŭeniris: алға жүрді
 arbaro: орман
@@ -25,7 +29,9 @@ beleta: сүйкімді
 bestetoj: кішкентай жануарлар
 bonega: өте жақсы
 bonvolu: өтінемін
-bonvolus: мейіріміңіз түссе
+bonvolus:
+- өтінер едім
+- мейірім танытсаңыз
 centoj: жүздеген
 dankon: рақмет
 daŭrigis: жалғастырды
@@ -70,7 +76,9 @@ foriros: кетеді
 fratino: әпке/қарындас/сіңлі
 fuŝparolis: қате сөйледі
 geamikoj: достар
-gefratoj: бауырлар
+gefratoj:
+- бауырлар
+- аға-іні, әпке-сіңлілер
 gelernantojn:
 - оқушыларды
 - үйренушілерді
@@ -95,7 +103,7 @@ industriisto: өнеркәсіпші
 instruistino: әйел мұғалім
 instruiston: мұғалімді
 intervidiĝas: бір-бірін көреді
-iron: жүріс
+iron: жүрісті
 junulino:
 - жас әйел
 - бойжеткен
@@ -136,7 +144,7 @@ libertempo:
 libroj: кітаптар
 lumigis:
 - жарықтандырды
-- жарқ етті
+- жақты
 malagrabla: жағымсыз
 malbela: көріксіз
 malbonaj: жаман
@@ -182,8 +190,8 @@ malŝatas: ұнатпайды
 malŝatis: ұнатпады
 manĝaĵo: тағам
 manĝegi:
-- қомағайланып жеу
-- жеп қою
+- қомағайлана жеу
+- тығып жеу
 maristo: теңізші
 maristoj: теңізшілер
 mariston: теңізшіні
@@ -234,10 +242,12 @@ riĉeco:
 riĉulo: бай адам
 salton: секіруді
 saluton: сәлем
-samklubanoj: бір клубтың мүшелері
+samklubanoj: клубтастар
 sekretajn: құпия
 sekreton: құпияны
-senbrue: үнсіз
+senbrue:
+- дыбыссыз
+- шусыз
 seninterese: қызықсыз түрде
 senkolora: түссіз
 sensukcese: сәтсіз
@@ -247,7 +257,9 @@ sinjorinoj: ханымдар
 sinjorinon: ханымды
 skribotablo: жазу үстелі
 soleca: жалғыз
-sovaĝejo: жабайы жер
+sovaĝejo:
+- иен жер
+- иен дала
 sportisto: спортшы
 subakvigis: суға батырды
 subakviĝis: суға батты
@@ -267,7 +279,7 @@ troviĝis:
 - орналасты
 - табылды
 unuaj: алғашқы
-urbomezo: қала ортасы
+urbomezo: қала орталығы
 vagonaro: пойыз
 vendejo: дүкен
 vendejon: дүкенге

@@ -1,15 +1,15 @@
-- demando: Досың кім?
+- demando: Құрбың кім?
   rektatraduko:
   - Kiu: кім
   - estas: бар/болып тұр
   - via: сенің
-  - amikino: қыз дос
+  - amikino: құрбың / қыз досың
   - '?'
-- demando: Досың Ана қазір бөлмеде жазып отыр ма?
+- demando: Құрбың Ана қазір бөлмеде жазып отыр ма?
   rektatraduko:
   - Ĉu: ма/ме
   - via: сенің
-  - amikino: қыз дос
+  - amikino: құрбың / қыз досың
   - Ana: Ана
   - skribas: жазады
   - nun: қазір

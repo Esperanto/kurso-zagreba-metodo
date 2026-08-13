@@ -12,7 +12,7 @@
   rektatraduko:
   - Kion: нені
   - vi: сен
-  - volas: қалайды
+  - volas: қалайсың
   - trinki: ішу
   - ':'
   - teon: шайды
@@ -23,8 +23,8 @@
   - aŭ: немесе
   - ĉu: ма/ме
   - vi: сен
-  - volas: қалайды
-  - nenion: ештеңе
+  - volas: қалайсың
+  - nenion: ештеңені / ештеңе
   - '?'
 - demando: Неге бөлмеңді жөндеуге кенеттен шешім қабылдадың?
   rektatraduko:
@@ -32,17 +32,17 @@
   - vi: сен
   - tiel: осылай
   - subite: кенеттен
-  - decidis: шешті
+  - decidis: шештің
   - renovigi: жөндеу
   - vian: сенің
-  - ĉambreton: шағын бөлмені
+  - ĉambreton: шағын бөлмеңді
   - '?'
 - demando: Таза шарап бокалдарын кімге бердің?
   rektatraduko:
   - Al: кімге
   - kiu: кім
   - vi: сен
-  - donis: берді
+  - donis: бердің
   - la: анықтауыш
   - purajn: таза
   - glasojn: бокалдарды

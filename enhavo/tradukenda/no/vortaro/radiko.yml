@@ -3,21 +3,17 @@ ag:
 - handle
 - opptre
 agrabl: behagelig
-akcept: akseptere
+akcept:
+- akseptere
+- ta imot
 akv: vann
 ali: annen
 alt: høy
-am:
-- elske
-- kjærlighet
+am: elske
 amik: venn
-aper:
-- dukke opp
-- være til stede
+aper: dukke opp
 arb: tre
-aspekt:
-- se ut som
-- virke
+aspekt: utseende
 atend:
 - vente
 - forvente
@@ -35,9 +31,7 @@ best: dyr
 bezon:
 - trenge
 - ha bruk for
-bien:
-- grunn
-- land
+bien: gård
 bon: god
 branĉ: gren
 bru: støy
@@ -60,13 +54,13 @@ dik:
 - fet
 dimanĉ: søndag
 dir: si
-direkt: retning
+direkt: rette
 divers: forskjellig
 doktor: doktor
 dolar: dollar
 dolor:
-- smerte
-- skade
+- gjøre vondt
+- være smertefullt
 dolĉ: søt
 dom: hus
 don: gi
@@ -117,7 +111,7 @@ hom: menneske
 hor:
 - time
 - klokke
-hotel: hotel
+hotel: hotell
 ide:
 - idé
 - ide
@@ -125,9 +119,9 @@ industri: industri
 infan: barn
 inform: informere
 instru:
-- lære
+- lære bort
 - undervise
-interes: interessere
+interes: interesse
 invit: invitere
 ir:
 - gå
@@ -138,7 +132,7 @@ jun: ung
 kaf: kaffe
 kalv: skallet
 kant: synge
-kap: hoved
+kap: hode
 kapabl:
 - i stand til
 - egnet
@@ -155,7 +149,7 @@ klar:
 - tydelig
 klub: klubb
 knab: gutt
-koler: sinne
+koler: være sint
 kolor: farge
 komenc: begynne
 kompren: forstå
@@ -194,9 +188,7 @@ lok: sted
 long: lang
 loĝ: bo
 lud: leke
-lum:
-- lys
-- lyse
+lum: lys
 man: hånd
 manier: måte
 mank: mangle
@@ -238,7 +230,7 @@ oft: ofte
 okaz: skje
 okul: øye
 onkl: onkel
-opini: mening
+opini: mene
 ord: orden
 orel: øre
 organiz: organisere
@@ -255,7 +247,7 @@ part:
 - del
 pas: passere
 patr: far
-paŝ: skritt
+paŝ: skritte
 pens: tenke
 perd: miste
 person: person
@@ -263,7 +255,7 @@ pet: be om
 pez: tung
 pied: fot
 plac: plass
-plan: planlegge
+plan: plan
 plaĉ: behage
 plen: full
 plor: gråte
@@ -290,7 +282,6 @@ punkt:
 pur: ren
 rajt:
 - ha rett
-- rett
 rakont: fortelle
 rapid: rask
 raport:
@@ -317,18 +308,23 @@ san: frisk
 sat: mett
 saĝ: vis
 sci: vite
-sek: tørr
+sek: være tørr
 sekret: hemmelighet
 sekv: følge
 semajn: uke
 send: sende
 sent: føle
-serĉ: søke
+serĉ:
+- lete
+- søke
 seĝ: stol
 si: seg
 sid: sitte
-silent: stille
-simil: lignende
+silent: stillhet
+simil:
+- lignende
+- liknende
+- lik
 simpl: enkel
 sinjor:
 - herre
@@ -336,7 +332,7 @@ sinjor:
 situaci: situasjon
 skrib: skrive
 sol: alene
-son: lyde
+son: lyd
 sovaĝ: vill
 sport: sport
 star: stå
@@ -346,7 +342,7 @@ sufiĉ: nok
 suk: saft
 sukces: suksess
 sun: sol
-supr: over
+supr: være over
 tabl: bord
 tag: dag
 te: te
@@ -356,12 +352,14 @@ temperatur: temperatur
 ten: holde
 teror: terror
 terur: fryktelig
-tim: frykt
+tim:
+- være redd
+- frykte
 ton: tone
 trankvil: rolig
 trink: drikke
 trov: finne
-turk: tyrkisk
+turk: tyrker
 tut: hel
 tuŝ: røre
 universal: universell
@@ -396,7 +394,7 @@ zorg: ta seg av
 - forstyrre
 - irritere
 ĝeneral: generell
-ĝoj: glede
+ĝoj: glad
 ĝust: korrekt
 ĵet: kaste
 ŝajn: virke

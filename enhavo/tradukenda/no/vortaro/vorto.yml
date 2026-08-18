@@ -8,6 +8,7 @@ alvenos: ankommer
 amikino: venninne
 amikinon: venninne
 amletero: kjærlighetsbrev
+amo: kjærlighet
 antaŭeniris: gikk frem
 arbaro: skog
 arbetoj: småtrær
@@ -247,7 +248,9 @@ virino: kvinne
 vojaĝantoj: reisende
 ĉambristoj: rombetjenter
 ĉeesto: tilstedeværelse
-ĉirkaŭaĵo: omgivelse
+ĉirkaŭaĵo:
+- omgivelser
+- miljø
 ĝenon: forstyrrelse
 ĝustatempe: i tide
 ŝiaj: hennes

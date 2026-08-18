@@ -42,7 +42,6 @@ laŭ:
 - ifølge
 per:
 - ved hjelp av
-- per
 - med
 por: for
 post: etter
@@ -61,5 +60,7 @@ trans:
 - over
 - på tvers av
 ĉe: ved, hos
-ĉirkaŭ: omkring
+ĉirkaŭ:
+- rundt
+- omkring
 ĝis: inntil

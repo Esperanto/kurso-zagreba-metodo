@@ -1,8 +1,11 @@
 - estraro: styre
-- tagmeze: ved middagstid
+- tagmeze:
+  - midt på dagen
+  - ved middagstid
 - posttagmeze: om ettermiddagen
 - malsata: sulten
 - interkonsenti:
+  - avtale
   - være enige
   - bli enige
 - manĝilaro: bestikk
@@ -11,9 +14,13 @@
   - åpner
   - verktøy til å åpne
 - noktomezo: midnatt
-- publikigi: offentliggjøre
+- publikigi:
+  - publisere
+  - offentliggjøre
 - pagigi:
   - få til å betale
   - kreve betaling
 - duflanka: tosidig
-- aliflanke: på den andre siden
+- aliflanke:
+  - på den annen side
+  - på den andre siden

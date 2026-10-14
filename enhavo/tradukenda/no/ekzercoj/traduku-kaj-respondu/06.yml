@@ -29,11 +29,11 @@
   - alvenos: ankommer
   - ','
   - je: ved (uspesifisert preposisjon)
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - kvina: femte
   - aŭ: eller
   - je: ved (uspesifisert preposisjon)
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - oka: åttende
   - horo: klokke/time
   - '?'
@@ -44,7 +44,7 @@
   - rimarkis: la merke til
   - ','
   - ke: at
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - tuta: hele
   - familio: familie
   - nomas: kaller
@@ -54,7 +54,7 @@
 - demando: Var heftet jeg sendte, nyttig for deg?
   rektatraduko:
   - Ĉu: Om
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - libreto: hefte
   - ','
   - kiun: som

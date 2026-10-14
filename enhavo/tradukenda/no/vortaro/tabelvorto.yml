@@ -4,14 +4,16 @@ iam: en gang
 ie: et sted
 iel: på en eller annen måte
 ies: noens
-io: noget
+io: noe
 iom: en viss mengde
-iu: nogen
+iu: noen
 kia: hva slags
 kial: hvorfor
 kiam: når
 kie: hvor
-kiel: hvordan
+kiel:
+- hvordan
+- på hvilken måte
 kien: hvorhen
 kies: hvis
 kio: hva
@@ -30,11 +32,11 @@ neniom: ingen mengde
 neniu: ingen
 tia: den slags
 tial: derfor
-tiam: på det tidspunktet
+tiam: da
 tie: der
 tiel: slik
 ties: den der sin
-tio: den
+tio: det
 tiom: så mye
 tiu:
 - den person

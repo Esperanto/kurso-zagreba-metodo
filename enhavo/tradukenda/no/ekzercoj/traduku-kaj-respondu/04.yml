@@ -11,7 +11,7 @@
   - longe: lenge
   - vi: du
   - lernas: lærer
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - Internacian: Internasjonalt
   - Lingvon: Språk
   - '?'
@@ -31,7 +31,7 @@
   - vi: du
   - iros: skal gå
   - post: etter
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - tagmanĝo: lunsj
   - '?'
 - demando: Kan man lukke døren til rommet når det er kaldt?
@@ -40,10 +40,10 @@
   - oni: man
   - povas: kan
   - fermi: lukke
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - pordon: dør
   - de: av
-  - la: (bestemt artikkel)
+  - la: bestemt artikkel (-en, -a, -et, -ene)
   - ĉambro: rom
   - ','
   - kiam: når
